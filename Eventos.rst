@@ -24,6 +24,3 @@ En PyAr planeamos tres tipos de eventos:
 [[Include(Eventos/Reuniones)]]
 
 [[Anchor(#conferencias)]]
-==== Conferencias ====
-
- * Participamos del [http://www.softlibre.org.ar/ Segundo Congreso Nacional de Software Libre - USUARIA 2005].
