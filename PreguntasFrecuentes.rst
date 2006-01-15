@@ -1,8 +1,6 @@
-## Please edit system and help pages ONLY in the moinmaster wiki! For more
-## information, please see MoinMaster:MoinPagesEditorGroup.
-##acl MoinPagesEditorGroup:read,write,delete,revert All:read
 ##master-page:HelpTemplate
 ##master-date:Unknown-Date
+#acl All:read
 #format wiki
 #language es
 == Preguntas Frecuentes ==
