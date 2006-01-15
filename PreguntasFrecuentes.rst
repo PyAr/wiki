@@ -58,7 +58,7 @@ puede.
 [[Anchor(#5)]]'''5. ¿Cómo participar?'''
 
 Suscribiéndote a la ListaDeMail, registrándote en el portal, asistiendo a cualquiera de nuetros
-[Eventos], aportando ideas.
+["Eventos"], aportando ideas.
 
 [[Anchor(#6)]]'''6. ¿Qué puedo esperar de PyAr en el futuro?'''
 
