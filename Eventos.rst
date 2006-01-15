@@ -23,8 +23,8 @@ En PyAr planeamos tres tipos de eventos:
 [[Anchor(reuniones)]]
 [[Include(Eventos/Reuniones)]]
 
-[[Anchor(#sprints)]]
+[[Anchor(sprints)]]
 [[Include(Eventos/Sprints)]]
 
-[[Anchor(#conferencias)]]
+[[Anchor(conferencias)]]
 [[Include(Eventos/Conferencias)]]
