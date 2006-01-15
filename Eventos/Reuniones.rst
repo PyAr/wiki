@@ -5,24 +5,24 @@ enterarte de los detalles de lugar, hora, etc. Para ver la agenda de la próxima
 
 Hasta la fecha, estas fueron las reuniones realizadas:
 
- * 09/09/04: ReunionUno: La Cigale
+ * 09/09/04: [wiki:/ReunionUno ReunionUno]: La Cigale
 
- * 21/10/04: ReunionDos: Corner bar
+ * 21/10/04: [wiki:/ReunionDos ReunionDos]: Corner bar
 
- * 11/11/04: ReunionTres: Corner bar
+ * 11/11/04: [wiki:/ReunionTres ReunionTres]: Corner bar
 
- * 09/12/04: ReunionCuatro: Hip Bar
+ * 09/12/04: [wiki:/ReunionCuatro ReunionCuatro]: Hip Bar
 
- * 13/01/05: ReunionCinco: Hip Bar
+ * 13/01/05: [wiki:/ReunionCinco ReunionCinco]: Hip Bar
 
  * 10/02/05: !ReunionSeis: Se suspendió por lluvia, y porque el Hip Bar estaba cerrado.
 
- * 10/03/05: ReunionSiete: Hip Bar
+ * 10/03/05: [wiki:/ReunionSiete ReunionSiete]: Hip Bar
 
- * 14/04/05: ReunionOcho: Hip Bar
+ * 14/04/05: [wiki:/ReunionOcho ReunionOcho]: Hip Bar
 
- * 12/05/05: ReunionNueve: Hip  Bar
+ * 12/05/05: [wiki:/ReunionNueve ReunionNueve]: Hip  Bar
 
- * 09/06/05: ReunionDiez: Hip Bar
+ * 09/06/05: [wiki:/ReunionDiez ReunionDiez]: Hip Bar
 
- * 04/08/05: ReunionOnce: Hip Bar
+ * 04/08/05: [wiki:/ReunionOnce ReunionOnce]: Hip Bar
