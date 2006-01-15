@@ -1,3 +1,4 @@
+#acl Project/AdminGroup:admin,read,write,delete,revert Project/ReadWriteGroup:read,write Project/ReadGroup:read
 #language es
 
 === Eventos ===
