@@ -1,6 +1,6 @@
 ##master-page:HelpTemplate
 ##master-date:Unknown-Date
-#acl All:read
+#acl Project/AdminGroup:admin,read,write,delete,revert Project/ReadWriteGroup:read,write Project/ReadGroup:read
 #format wiki
 #language es
 == Preguntas Frecuentes ==
