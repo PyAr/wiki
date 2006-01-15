@@ -1,2 +1,2 @@
 #language es
-=== No hay planificada una reunión en los próximos días o semanas. ===
+=== No hay planificada una reunión para los próximos días o semanas. ===
