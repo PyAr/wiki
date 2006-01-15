@@ -13,7 +13,7 @@ En PyAr planeamos tres tipos de eventos:
 
  * Sprints:
 
- Pretendemos realizar sesiones de desarrollo para proyectos que nos llamen la atencion, como un evento social y de mejora
+ Pretendemos realizar sesiones de desarrollo para proyectos que nos llamen la atención, como un evento social y de mejora
  para el software (libre) argentino.
 
  * Eventos abiertos:
