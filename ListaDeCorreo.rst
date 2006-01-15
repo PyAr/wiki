@@ -1,4 +1,3 @@
-#acl Project/AdminGroup:admin,read,write,delete,revert Project/ReadGroup:read
 #language es
 La lista de mail de PyAr está abierta a todos los interesados en Python, y está dedicada en especial a los residentes de Argentina. En esta lista discutimos todos los temas que tengan que ver con la promoción y difusión del lenguaje de programación y planeamos eventos especiales y la creación de contenido local.
 
