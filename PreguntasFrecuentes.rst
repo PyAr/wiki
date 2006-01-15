@@ -20,6 +20,7 @@
 
  [#7 7. ¿Qué es un *sprint*?]
 
+----
 =   =
 
 [[Anchor(#1)]]'''1. ¿Quiénes somos?'''
@@ -73,21 +74,21 @@ esfuerzos con ellos.
 
 [[Anchor(#7)]]'''7. ¿Qué es un ''sprint''?'''
 
-Según la [http://c2.com/cgi/wiki?PythonSprint Portland Pattern Repository's Wiki] ::
- 
-     Desde comienzos de 2002 se han realizado varios eventos
-     denominados 'sprint' alrededor del Lenguaje Python / Zope.
-     Un sprint, bajo esta terminología, es una reunión de
-     programadores interesados en trabajar en un determinado
-     proyecto Open Source, con una duración de 3 a 5 días.
-     Los sprints generalmente tienen una audiencia multinacional.
+Según la [http://c2.com/cgi/wiki?PythonSprint Portland Pattern Repository's Wiki]:
+{{{Desde comienzos de 2002 se han realizado varios eventos
+denominados 'sprint' alrededor del Lenguaje Python / Zope.
+Un sprint, bajo esta terminología, es una reunión de
+programadores interesados en trabajar en un determinado
+proyecto Open Source, con una duración de 3 a 5 días.
+Los sprints generalmente tienen una audiencia multinacional.
 
-     Normalmente una conferencia es precedida por un sprint
-     (tanto es así que ahora cualquier conferencia respetable de
-     Python es precedida por un sprint), pero los sprints también
-     se dan por si solos. Uno o mas 'coaches' guían el proceso.
-     Se dice que los sprints están inspirados por un concepto de
-     XP (eXtreme Programming -- Programación Extrema).
+Normalmente una conferencia es precedida por un sprint
+(tanto es así que ahora cualquier conferencia respetable de
+Python es precedida por un sprint), pero los sprints también
+se dan por si solos. Uno o mas 'coaches' guían el proceso.
+Se dice que los sprints están inspirados por un concepto de
+XP (eXtreme Programming -- Programación Extrema).
+}}}
 
 
 Probablemente los sprints de PyAr no duren 3 a 5 días, al menos al principio... ni contamos con tener una audiencia multinacional. Pero pensamos divertirnos, aprender, y hacer algo útil.
