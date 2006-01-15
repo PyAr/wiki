@@ -1,6 +1,6 @@
 ##master-page:Unknown-Page
 ##master-date:Unknown-Date
-#acl Project/AdminGroup:admin,read,write,delete,revert Project/ReadWriteGroup:read,write Project/ReadGroup:read
+#acl AdminGroup:admin,read,write,delete,revert
 #format wiki
 #language es
 = Bienvenido a PyAr - Python Argentina =
