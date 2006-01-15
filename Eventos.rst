@@ -16,7 +16,7 @@ En PyAr planeamos tres tipos de eventos:
  Pretendemos realizar sesiones de desarrollo para proyectos que nos llamen la atención, como un evento social y de mejora
  para el software (libre) argentino.
 
- * ''[#eventos Eventos abiertos]''
+ * ''[#conferencias Conferencias]''
 
  Participamos en eventos del estilo Linux con temas concernientes a Python.
 
@@ -50,7 +50,7 @@ Hasta la fecha, estas fueron las reuniones realizadas:
 
  * 04/08/05: ReunionOnce: Hip Bar
 
-[[Anchor(#eventos)]]
-==== Eventos Abiertos ====
+[[Anchor(#conferencias)]]
+==== Conferencias ====
 
  * Participamos del [http://www.softlibre.org.ar/ Segundo Congreso Nacional de Software Libre - USUARIA 2005].
