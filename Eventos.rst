@@ -4,24 +4,27 @@
 
 En PyAr planeamos tres tipos de eventos:
 
- * Reuniones PyAr:
+ * ''[#reuniones Reuniones PyAr]'':
 
  Son las reuniones que hacemos los miembros de PyAr para planificar y realizar actividades concernientes a nuestro objetivo.
  Al principio, comenzamos realizando reuniones mensuales, el segundo jueves de cada mes. Con el tiempo, esta modalidad cayó en desuso,
  y solo se realizan reuniones cuando consideramos que hay un motivo específico que tratar (o juntamos demasiadas ganas de tomar
  cerveza...)
 
- * Sprints:
+ * ''Sprints'':
 
  Pretendemos realizar sesiones de desarrollo para proyectos que nos llamen la atención, como un evento social y de mejora
  para el software (libre) argentino.
 
- * Eventos abiertos:
+ * ''[#eventos Eventos abiertos]''
 
- Estamos analizando participar en eventos del estilo Linux con temas concernientes a Python.
+ Participamos en eventos del estilo Linux con temas concernientes a Python.
 
-
+[[Anchor(#reuniones)]]
 ==== Reuniones PyAr ====
+
+Las reuniones normalmente se anuncian en la ListaDeMail, a la cual te sugerimos te suscribas para
+enterarte de los detalles de lugar, hora, etc. Para ver la agenda de la próxima reunión ir a: ProximaReunion.
 
 Hasta la fecha, estas fueron las reuniones realizadas:
 
@@ -47,8 +50,7 @@ Hasta la fecha, estas fueron las reuniones realizadas:
 
  * 04/08/05: ReunionOnce: Hip Bar
 
+[[Anchor(#eventos)]]
+==== Eventos Abiertos ====
 
-==== Próximos eventos ====
-
-Las reuniones normalmente se anuncian en la ListaDeMail, a la cual te sugerimos te suscribas para
-enterarte de los detalles de lugar, hora, etc. Para ver la agenda de la próxima reunión ir a: ProximaReunion.
+ * Participamos del [http://www.softlibre.org.ar/ Segundo Congreso Nacional de Software Libre - USUARIA 2005].
