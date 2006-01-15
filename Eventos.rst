@@ -11,7 +11,7 @@ En PyAr planeamos tres tipos de eventos:
  y solo se realizan reuniones cuando consideramos que hay un motivo específico que tratar (o juntamos demasiadas ganas de tomar
  cerveza...)
 
- * ''Sprints'':
+ * ''[#sprints Sprints]'':
 
  Pretendemos realizar sesiones de desarrollo para proyectos que nos llamen la atención, como un evento social y de mejora
  para el software (libre) argentino.
@@ -23,4 +23,8 @@ En PyAr planeamos tres tipos de eventos:
 [[Anchor(#reuniones)]]
 [[Include(Eventos/Reuniones)]]
 
+[[Anchor(#sprints)]]
+[[Include(Eventos/Sprints)]]
+
 [[Anchor(#conferencias)]]
+[[Include(Eventos/Conferencias)]]
