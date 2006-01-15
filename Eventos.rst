@@ -20,7 +20,7 @@ En PyAr planeamos tres tipos de eventos:
 
  Participamos en eventos del estilo Linux con temas concernientes a Python.
 
-[[Anchor(#reuniones)]]
+[[Anchor(reuniones)]]
 [[Include(Eventos/Reuniones)]]
 
 [[Anchor(#sprints)]]
