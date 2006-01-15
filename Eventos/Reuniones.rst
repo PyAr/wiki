@@ -1,7 +1,7 @@
 ==== Reuniones PyAr ====
 
 Las reuniones normalmente se anuncian en la ListaDeMail, a la cual te sugerimos te suscribas para
-enterarte de los detalles de lugar, hora, etc. Para ver la agenda de la próxima reunión ir a: ProximaReunion.
+enterarte de los detalles de lugar, hora, etc. Para ver la agenda de la próxima reunión ir a: [wiki:/ProximaReunion ProximaReunion].
 
 Hasta la fecha, estas fueron las reuniones realizadas:
 
