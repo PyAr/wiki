@@ -1,1 +1,1 @@
-#REDIRECT: Inicio
+#REDIRECT Inicio
