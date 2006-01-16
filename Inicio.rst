@@ -15,6 +15,6 @@
 
  * [wiki:Proyectos Proyectos]: Información sobre los proyectos que encaramos como grupo, o en los que participan nuestros miembros.
 
- * [wiki:ToDo Tareas pendientes]: La mayoría relacionadas con el mantenimiento del portal, y la promoción y organización del grupo.
+ * [ Tareas pendientes]: La mayoría relacionadas con el mantenimiento del portal, y la promoción y organización del grupo.
 
  * [wiki:PreguntasFrecuentes Preguntas frecuentes]
