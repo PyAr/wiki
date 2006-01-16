@@ -9,9 +9,9 @@
 
 == Contenido ==
 
- * ["Eventos"]: Aquí encontrarás información sobre las actividades que realizamos.
+ * [wiki:Eventos]: Aquí encontrarás información sobre las actividades que realizamos.
 
- * [ListaDeMail Lista de correo]: Instrucciones para suscribirte a nuestra lista, hoy por hoy, nuestro principal canal de comunicación.
+ * [wiki:ListaDeMail Lista de correo]: Instrucciones para suscribirte a nuestra lista, hoy por hoy, nuestro principal canal de comunicación.
 
  * ["Proyectos" Proyectos]: Información sobre los proyectos que encaramos como grupo, o en los que participan nuestros miembros.
 
