@@ -6,7 +6,7 @@ Primero, conozcan al ídolo nacional, pasión de multitudes. Un hombre patrio:
 
 img src="GauchitoGil.jpg" /!\ FIXME!!!
 
-Ahora, vean su manifestacion popular en la ruta:
+Ahora, vean su manifestación popular en la ruta:
 
 img src="IMG_6239.jpg" /!\ FIXME!!!
 
