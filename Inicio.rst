@@ -18,3 +18,6 @@
  * [wiki:ToDo Tareas pendientes]: La mayoría relacionadas con el mantenimiento del portal, y la promoción y organización del grupo.
 
  * [wiki:PreguntasFrecuentes Preguntas frecuentes]
+
+
+[[Include(Noticias, "Últimas noticias", 2, to="@ULTIMAS_NOTICIAS", items=6)]]
