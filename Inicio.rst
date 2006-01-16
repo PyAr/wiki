@@ -21,5 +21,6 @@
 
 
 == Últimas noticias ==
-[[Include(Noticias, , ,from="ULTIMAS_START", to="ULTIMAS_END", items=6)]]
+##[[Include(Noticias, , ,from="ULTIMAS_START", to="ULTIMAS_END", items=6)]]
+[[Include(Noticias, , ,items=6)]]
 ([wiki:Noticias Ver todas las noticias].)
