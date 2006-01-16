@@ -1,3 +1,5 @@
+=== Reunión 7 ===
+
 Lamentablemente me estoy poniendo a escribir esto tres semanas después de que sucedió, pero créanme: no tuve tiempo antes.
 
 La séptima reunión de PyAr fue un completo éxito. Aparte de los mismos sospechosos de siempre (David, Lucio, Pablo, Leonardo, Mariano y el que subscribe), hubieron muchas caras (¡y cerebros!) nuevos: Gera, Federico, Matías, Adrián y Javier.
