@@ -23,7 +23,7 @@ True}}}
 
 ==== Fotos sacadas por Lucio ====
 
-img src="fotopyar1.jpg" FIXME!!!
+img src="fotopyar1.jpg" /!\ FIXME!!!
 
 De izquierda a derecha, redactado por una persona disléxica y que no tiene memoria para los nombres:
 La sombra negra es Alejandro (Dave, para HAL)
@@ -34,10 +34,10 @@ Frente a el esta Leonardo (quien vino desde San Luis exclusivisimamente para la 
 Frente a el esta Santiago, apenas reconocible.
 Y en la punta, poniendo la mitad de la cara a la luz y la mitad a la sombra, lo tenemos al procer de PyAr, PabloZiliani.
  
-img src="fotopyar2.jpg" FIXME!!!
+img src="fotopyar2.jpg" /!\ FIXME!!!
 
 Acá hay menos gente, por lo que es mas fácil, de izquierda a derecha: Octavio, Facundo, Leonardo, Pablo.
 
-img src="fotopyar3.jpg" FIXME!!!
+img src="fotopyar3.jpg" /!\ FIXME!!!
 
 Leonardo y Facundo.
