@@ -5,7 +5,7 @@ La lista de mail de PyAr está abierta a todos los interesados en Python, y est�
 
 1. Mandá un mensaje a pyar-subscribe@decode.com.ar
 
-2. (opcional) Mandá tu "Hola mundo" a pyar@decode.com.ar para que todos los suscriptos a la lista aprecien tu patético nerdismo. :p
+2. (opcional) Mandá tu "Hola mundo" a pyar@decode.com.ar para que todos los suscriptos a la lista aprecien tu patético nerdismo. :-?
 
 3. (opcional) Para obtener ayuda y los comandos disponibles en la lista, mandá un mensaje a pyar-help@decode.com.ar
 
