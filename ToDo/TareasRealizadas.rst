@@ -1,6 +1,6 @@
 === Tareas realizadas ===
 
-Esta es la lista de tareas que estaban en el [TODO], y ya fueron completadas.
+Esta es la lista de tareas que estaban en el ToDo, y ya fueron completadas.
 
 
 ==== Listas de correo ====
