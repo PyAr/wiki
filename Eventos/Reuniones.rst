@@ -26,3 +26,5 @@ Hasta la fecha, estas fueron las reuniones realizadas:
  * 09/06/05: [wiki:/ReunionDiez ReunionDiez]: Hip Bar
 
  * 04/08/05: [wiki:/ReunionOnce ReunionOnce]: Hip Bar
+
+ * 30/11/05: [wiki:/ReunionDoce ReunionDoce]: Hip Bar
