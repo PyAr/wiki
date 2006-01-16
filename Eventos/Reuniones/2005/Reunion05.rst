@@ -1,3 +1,4 @@
+#format wiki
 === Reunión 5 ===
 
 Se llevó a cabo la quinta reunión de PyAr con total éxito. Como MarianoDraghi (escriba oficial) estaba de vacaciones, recayó en mí (FacundoBatista) la tarea de contarles qué hicimos.
