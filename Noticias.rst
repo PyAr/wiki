@@ -5,6 +5,7 @@
  * 25/04/2005:  Nubis nos muestra su script [wiki:/FotoByMail Foto by Mail].
 
  * 15/04/2005:  LucioTorre nos da detalles sobre [wiki:Proyectos/PythonPalm Python para PalmOS] (en inglés).
+
 ## ULTIMAS_END Acá finaliza la inclusión en la página Inicio
  * 11/04/2005:  Está disponible la minuta de la [wiki:Eventos/Reuniones/ReunionSiete ReunionSiete] y la agenda que intentamos seguir en la próxima reunión ([wiki:Eventos/Reuniones/ReunionOcho ReunionOcho]).
 
