@@ -60,7 +60,7 @@ Para ver el resultado de esto ver [wiki:/EventMatching EventMatching]
 
 ==== Reactor : An Object Behavioral Pattern for Concurrent Event Demultiplexing and Dispatching ====
 
-Este es un patter interesante que estamos considerando
+Este es un ''pattern'' interesante que estamos considerando
 
 href="schmidt95reactor.pdf">schmidt95reactor.pdf /!\ FIXME !!!
 
