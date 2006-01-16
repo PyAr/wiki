@@ -20,4 +20,4 @@
  * [wiki:PreguntasFrecuentes Preguntas frecuentes]
 
 
-[[Include(Noticias, "Últimas noticias", 2, from="@ULTIMAS_START" to="@ULTIMAS_END", items=6)]]
+[[Include(Noticias, "Últimas noticias", 2, from="ULTIMAS_START" to="ULTIMAS_END", items=6)]]
