@@ -1,5 +1,8 @@
+## Las noticias se agregan acá. Mantener un orden cronológico descendente.
+## Cuando corresponda, crear una nueva página con el detalle de la noticia como una sub-página de ésta.
 == Noticias ==
-## ULTIMAS_START A partir de acá, se incluye el contenido en la página Inicio
+## Mantener la siguiente línea de comentario, y mover el "Anchor" que define la última noticia. Esto se usa en la página de Inicio.
+## ULTIMAS_START
  * 07/07/2005:  Última edición de [wiki:/Inmersion54 Inmersión en Python].
  * 25/04/2005:  Nubis nos muestra su script [wiki:/FotoByMail Foto by Mail].
  * 15/04/2005:  LucioTorre nos da detalles sobre [wiki:Proyectos/PythonPalm Python para PalmOS] (en inglés). [[Anchor(ULTIMAS_END)]]
