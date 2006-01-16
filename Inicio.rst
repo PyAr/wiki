@@ -22,4 +22,4 @@
 
 == Últimas noticias ==
 [[Include(Noticias, , ,from="ULTIMAS_START", to="ULTIMAS_END")]]
- ([wiki:Noticias Ver todas las noticias].)
+También podés acceder a la [wiki:Noticias lista completa de Noticias], o consultar los [wiki:CambiosRecientes cambios recientes].
