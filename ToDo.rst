@@ -3,6 +3,8 @@
 Esta es una lista de tareas que tenemos pendientes. También llevamos un registro de [wiki:/TareasRealizadas tareas realizadas].
 
 ==== Sitio ====
+ 
+ * Corregir las [wiki:FixMe páginas con FIXMEs]
 
  * Hacer que los usuarios puedan dejar comentarios en el Wiki (ver con qué restricciones...)
 
