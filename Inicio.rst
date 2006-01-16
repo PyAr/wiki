@@ -7,4 +7,14 @@
 
 ''Nuestro objetivo es nuclear a los usuarios de Python, de manera de centralizar la comunicación a nivel nacional. Pretendemos llegar a usuarios y empresas, promover el uso de Python, intercambiar información, compartir experiencias y en general, ser el marco de referencia local en el uso y difusión de esta tecnología.''
 
-Si querés saber más sobre PyAr, te invitamos a leer las PreguntasFrecuentes.
+== Contenido ==
+
+ * ["Eventos"]: Aquí encontrarás información sobre las actividades que realizamos.
+
+ * [ListaDeMail Lista de correo]: Instrucciones para suscribirte a nuestra lista, hoy por hoy, nuestro principal canal de comunicación.
+
+ * ["Proyectos" Proyectos]: Información sobre los proyectos que encaramos como grupo, o en los que participan nuestros miembros.
+
+ * [ToDo Tareas pendientes]: La mayoría relacionadas con el mantenimiento del portal, y la promoción y organización del grupo.
+
+ * [PreguntasFrecuentes Preguntas Frecuentes]
