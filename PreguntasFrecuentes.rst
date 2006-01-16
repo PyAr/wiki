@@ -3,30 +3,30 @@
 #format wiki
 #language es
 == Preguntas Frecuentes ==
- [#1 1. ¿Quiénes somos?]
+ [#FAQ01 1. ¿Quiénes somos?]
 
- [#2 2. ¿Qué hacemos?]
+ [#FAQ02 2. ¿Qué hacemos?]
 
- [#3 3. ¿Cómo surgió PyAr?]
+ [#FAQ03 3. ¿Cómo surgió PyAr?]
 
- [#4 4. ¿Cómo es la organización interna de PyAr?]
+ [#FAQ04 4. ¿Cómo es la organización interna de PyAr?]
 
- [#5 5. ¿Cómo participar?]
+ [#FAQ05 5. ¿Cómo participar?]
 
- [#6 6. ¿Qué puedo esperar de PyAr en el futuro?]
+ [#FAQ06 6. ¿Qué puedo esperar de PyAr en el futuro?]
 
- [#7 7. ¿Qué es un *sprint*?]
+ [#FAQ07 7. ¿Qué es un *sprint*?]
 
 ----
 =   =
 
-[[Anchor(#1)]]'''1. ¿Quiénes somos?'''
+[[Anchor(FAQ01)]]'''1. ¿Quiénes somos?'''
 
 Un grupo de entusiastas de Python, que decidió aunar esfuerzos
 para crear una comunidad local como marco de referencia para la
 aplicación, difusión y mejora de este lenguaje.
 
-[[Anchor(#2)]]'''2. ¿Qué hacemos?'''
+[[Anchor(FAQ02)]]'''2. ¿Qué hacemos?'''
 
 Organizamos reuniones donde debatimos ideas, mantenemos una ListaDeMail a través de la cual nos
 comunicamos, creamos y mantenemos este portal,
@@ -36,7 +36,7 @@ Hoy estamos abocados a lograr que el grupo se consolide, se sumen
 miembros, y se establezcan las bases para comenzar a generar
 aportes mas concretos.
 
-[[Anchor(#3)]]'''3. ¿Cómo surgió PyAr?'''
+[[Anchor(FAQ03)]]'''3. ¿Cómo surgió PyAr?'''
 
 A través del [http://www.python.org/community/user-groups.html sitio de Python] 
 varias personas fuimos llegando a [http://www.meetup.com/ Meetup], donde luego de
@@ -45,19 +45,19 @@ PabloZiliani realizó esta secuencia justo en
 el momento en que Meetup cambió de interfaz, se registró como administrador y logró
 organizar en Septiembre la ReunionUno.
 
-[[Anchor(#4)]]'''4. ¿Cómo es la organización interna de PyAr?'''
+[[Anchor(FAQ04)]]'''4. ¿Cómo es la organización interna de PyAr?'''
 
 Hoy, mientras la cantidad de miembros del grupo lo permite,
 tenemos una organización plana, en la que todos debatimos nuestras
 ideas e inquietudes, y cada uno trata de aportar en lo que 
 puede. 
 
-[[Anchor(#5)]]'''5. ¿Cómo participar?'''
+[[Anchor(FAQ05)]]'''5. ¿Cómo participar?'''
 
 Suscribiéndote a la ListaDeMail, registrándote en el portal, asistiendo a cualquiera de nuetros
 ["Eventos"], aportando ideas.
 
-[[Anchor(#6)]]'''6. ¿Qué puedo esperar de PyAr en el futuro?'''
+[[Anchor(FAQ06)]]'''6. ¿Qué puedo esperar de PyAr en el futuro?'''
 
 Qué el grupo crezca, se consolide y organice formalmente. Que
 podamos brindar aportes útiles a la sociedad, tales como una
@@ -69,7 +69,7 @@ desarrollar o mejorar productos de software. Que nos contactemos
 con otros grupos de usuarios de Latinoamérica, y coordinemos
 esfuerzos con ellos.
 
-[[Anchor(#7)]]'''7. ¿Qué es un ''sprint''?'''
+[[Anchor(FAQ07)]]'''7. ¿Qué es un ''sprint''?'''
 
 Según la [http://c2.com/cgi/wiki?PythonSprint Portland Pattern Repository's Wiki]:
 {{{Desde comienzos de 2002 se han realizado varios eventos
