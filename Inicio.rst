@@ -9,7 +9,7 @@
 
 == Contenido ==
 
- * [wiki:Eventos]: Aquí encontrarás información sobre las actividades que realizamos.
+ * [wiki:Eventos Eventos]: Aquí encontrarás información sobre las actividades que realizamos.
 
  * [wiki:ListaDeMail Lista de correo]: Instrucciones para suscribirte a nuestra lista, hoy por hoy, nuestro principal canal de comunicación.
 
