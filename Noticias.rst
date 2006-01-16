@@ -4,5 +4,5 @@
  * 19/01/2005:  PyAr tiene su [wiki:ListaDeMail lista de correo].
  * 20/12/2005:  PyAr aparece en la lista de Python Interest Groups de Python.org ([wiki:/ListadoDePIGs noticia completa]).
  * 25/11/2004:  La última versión de Python [wiki:/Python24 ya está en la calle].
- * 25/11/2004:  Ya está disponible el [wiki:/AritmeticaDecimal módulo '''decimal''' para Python 2.3].
+ * 25/11/2004:  Ya está disponible el [wiki:/AritmeticaDecimal módulo decimal para Python 2.3].
 ## Acá finaliza la inclusión en la página Inicio: ULTIMAS_END
