@@ -1,4 +1,4 @@
 === Noticias ===
-##@ULTIMAS_START
+## @ULTIMAS_START
 Escriba una descripción de Noticias aquí.
-##@ULTIMAS_END
+## @ULTIMAS_END
