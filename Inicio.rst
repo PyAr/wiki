@@ -13,7 +13,7 @@
 
  * [wiki:ListaDeMail Lista de correo]: Instrucciones para suscribirte a nuestra lista, hoy por hoy, nuestro principal canal de comunicación.
 
- * [wiki:Proyectos Proyectos]: Información sobre los proyectos que encaramos como grupo, o en los que participan nuestros miembros.
+ * [Proyectos Proyectos]: Información sobre los proyectos que encaramos como grupo, o en los que participan nuestros miembros.
 
  * [wiki:ToDo Tareas pendientes]: La mayoría relacionadas con el mantenimiento del portal, y la promoción y organización del grupo.
 
