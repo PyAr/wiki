@@ -1,7 +1,8 @@
 ## Las noticias se agregan acá. Mantener un orden cronológico descendente.
 ## Cuando corresponda, crear una nueva página con el detalle de la noticia como una sub-página de ésta.
 ##irss start
-== Noticias ==  [[IRSS]]
+= Noticias =
+[[IRSS]]
 ## Mantener la siguiente línea de comentario, y el comentario que define la última noticia. Esto se usa en la página de Inicio.
 ## ULTIMAS_START
  * 07/07/2005:  Última edición de [wiki:/Inmersion54 Inmersión en Python].
