@@ -1,4 +1,4 @@
-=== Event Matching ===
+= Event Matching =
 
 Estos son algunos de los resultados que encontré implementando lo que dice el ''paper'' de referencia: 
 
@@ -21,7 +21,7 @@ El código tiene las siguientes partes:
  * Un medidor de perfomance: Crea un montón (X) de subscripciones al azar y prueba cuantas evaluaciones tiene que hacer para matchear una serie de eventos random (xx) y cuanto tiempo tarda en esto.
 
 
-==== Resultados ====
+== Resultados ==
 
 Este es el plot que compara la cantidad de evaluaciones entre los dos métodos. El eje X es la cantidad de subscripciones x10. Probé de 1 a 1000 subscripciones. El eje Y es la cantidad de comparaciones que se realizaron para ver que subscripciones matcheaban contra 5000 eventos. (la cantidad de eventos no varía para las pruebas, solo la cantidad de subscripciones)
 
@@ -34,7 +34,7 @@ Sin embargo, el problema se da con los tiempos, que no son nada buenos en ningun
 img src="match_time.png" /!\ FIXME!!!
 
 
-==== Conclusiones ====
+== Conclusiones ==
 
 Aunque la cantidad de evaluaciones crece de manera sub lineal, el tiempo que toma el algoritmo mas complicado es mayor para una cantidad de subscripciones < 1000.
 
