@@ -1,4 +1,5 @@
 #language es
+#title Preguntas Frecuentes
 = Preguntas Frecuentes =
 
 [[TableOfContents]]
