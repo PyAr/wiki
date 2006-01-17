@@ -1,4 +1,4 @@
-
+#encoding iso-8159-15
 = Noticias =
 [[IRSS]]
 ## ULTIMAS_START
