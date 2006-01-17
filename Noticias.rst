@@ -22,4 +22,4 @@
 ##irss stop 
 
 ----
-Suscribite al feed de las noticias haciendo click aquí [[IRSS]]
+Suscribite al feed de las noticias haciendo click aquí  [[IRSS]]
