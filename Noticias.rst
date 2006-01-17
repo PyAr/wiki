@@ -15,4 +15,4 @@
  * 25/11/2004:  Ya está disponible el [wiki:/AritmeticaDecimal módulo decimal para Python 2.3].
 ##irss stop
 
-Suscribite al feed de ésta página: [[IRSS]].
+Suscribite al feed de ésta página: [[IRSS]]
