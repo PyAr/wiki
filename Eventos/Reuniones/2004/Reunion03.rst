@@ -1,4 +1,4 @@
-=== Reunión 3 ===
+= Reunión 3 =
 
 En esta reunión decidimos lo siguiente:
 
