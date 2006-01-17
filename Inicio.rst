@@ -1,4 +1,4 @@
-#title Bienvenido a PyAr - Python Argentina
+#title PyAr
 ##master-page:Unknown-Page
 ##master-date:Unknown-Date
 #acl AdminGroup:admin,read,write,delete,revert All:read
