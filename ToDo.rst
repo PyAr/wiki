@@ -1,8 +1,8 @@
-=== Tareas Pendientes ===
+= Tareas Pendientes =
 
 Esta es una lista de tareas que tenemos pendientes. También llevamos un registro de [wiki:/TareasRealizadas tareas realizadas].
 
-==== Sitio ====
+== Sitio ==
  
  * Corregir las [wiki:FixMe páginas con FIXMEs]
 
@@ -15,7 +15,7 @@ Esta es una lista de tareas que tenemos pendientes. También llevamos un registr
  * Solucionar los problemas de codificación de caracteres, acentos, etc., que se presentan en los wikinames o al utilizar Texto Estructurado.
 
 
-==== Promoción ====
+== Promoción ==
 
  * Crear presentaciones para cada evento que promuevan la asistencia
 
