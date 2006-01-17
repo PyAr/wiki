@@ -1,11 +1,11 @@
-=== Python for PalmOS ===
+= Python for PalmOS =
 
 Here you can get the latests (only) release of this half baked port of python to palmOS.
 
 img src="screenshot.bmp" /!\ FIXME!!!
 
 
-==== Release Notes ====
+== Release Notes ==
 
 Some months ago i did a port of the Python2.3.2 interpreter to PalmOS. I didnt port any C module or created modules for PalmOS API's. But you can run an interpreter and use stdin/stdout from a form.
 
@@ -20,7 +20,7 @@ As usual, this is just a proof of concept and is ugly in many ways. (in Palm, co
 If anyone want to check this out, heres the url: http://pyar.decode.com.ar/Members/ltorre/PythonPalm
 
 
-==== Downloads ====
+== Downloads ==
 
  * [http://www.movilogic.com/python/Python-2.3.2.zip Click here to download the source]
 
@@ -29,6 +29,6 @@ If anyone want to check this out, heres the url: http://pyar.decode.com.ar/Membe
 thanks to [http://pippy.sourceforge.net pippy] and Jeff Collins for inspiration and ideas.
 
 
-==== Contact ====
+== Contact ==
 
 You can contact me at {{{lucio from movilogic slash com}}}, replacing slash with dot and from with at, add 22 and find the prime factors.
