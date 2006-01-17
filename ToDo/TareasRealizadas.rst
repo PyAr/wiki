@@ -1,9 +1,9 @@
-=== Tareas realizadas ===
+= Tareas realizadas =
 
 Esta es la lista de tareas que estaban en el ToDo, y ya fueron completadas.
 
 
-==== Listas de correo ====
+== Listas de correo ==
 
  * Dar de alta la lista de mail general
 
@@ -14,7 +14,7 @@ Esta es la lista de tareas que estaban en el ToDo, y ya fueron completadas.
    * [http://mx.grulic.org.ar/archiver/html/pyar/ Archivo]
 
 
-==== Sitio ====
+== Sitio ==
 
  * Conseguir un dominio o subdominio en algún sitio, y crear el portal de PyAr
 
@@ -41,7 +41,7 @@ Esta es la lista de tareas que estaban en el ToDo, y ya fueron completadas.
  * Mover los Wikis a un espacio común, fuera de las carpetas personales de los miembros de PyAr
 
 
-==== Promoción ====
+== Promoción ==
 
  * Crear un Logo que nos identifique
 
