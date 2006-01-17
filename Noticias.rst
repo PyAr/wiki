@@ -1,6 +1,5 @@
 ##irss start
 = Noticias =
-[[IRSS]]
 ## ULTIMAS_START
  * 07/07/2005:  Ultima edicion de [wiki:/Inmersion54 Inmersion en Python].
  * 25/04/2005:  Nubis nos muestra su script [wiki:/FotoByMail Foto by Mail].
@@ -12,3 +11,5 @@
  * 25/11/2004:  La ultima version de Python [wiki:/Python24 ya esta en la calle].
  * 25/11/2004:  Ya esta disponible el [wiki:/AritmeticaDecimal modulo decimal para Python 2.3].
 ##irss stop 
+
+Suscribite al feed de las noticias haciendo click aquí [[IRSS]]
