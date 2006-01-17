@@ -1,4 +1,4 @@
-=== Foto by Mail ===
+= Foto by Mail =
 
 (enviado por Nubis)
 
