@@ -1,10 +1,9 @@
 #language es
-#title Preguntas Frecuentes
-= Preguntas Frecuentes =
 
 [[TableOfContents]]
 
 ----
+= Preguntas Frecuentes =
 
 == ¿Quiénes somos? ==
 
