@@ -1,4 +1,6 @@
 #language es
+= Preguntas Frecuentes =
+
 [[TableOfContents]]
 
 ----
