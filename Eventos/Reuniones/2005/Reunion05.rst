@@ -1,5 +1,4 @@
-#format wiki
-=== Reunión 5 ===
+= Reunión 5 =
 
 Se llevó a cabo la quinta reunión de PyAr con total éxito. Como MarianoDraghi (escriba oficial) estaba de vacaciones, recayó en mí (FacundoBatista) la tarea de contarles qué hicimos.
 
@@ -22,7 +21,7 @@ True}}}
  * Definimos el tema del Primer Sprint PyAr: vamos a hacer el Administrador de Colas de Mensajes (nombre no oficial), con interfaces SMTP (mail), SMPP (SMSs o mensajes cortos) y MM7 (MMSs o mensajes multimedia). La primer reunión será el Jueves 27 de Enero en el mismo lugar que hicimos la reunión, ya que comenzaremos con el diseño del sistema, y no necesitamos más que papel, lápiz, y buenas ideas (y, por supuesto, cerveeeeza).
 
 
-==== Fotos sacadas por Lucio ====
+== Fotos sacadas por Lucio ==
 
 img src="fotopyar1.jpg" /!\ FIXME!!!
 
