@@ -11,7 +11,7 @@
 
 == Contenido ==
  
- * ["Noticias" Noticias] [[IRSS(Noticias)]], de PyAr, sus miembros, o noticias relevantes de Python.
+ * [wiki:Noticias Noticias] [[IRSS(Noticias)]], de PyAr, sus miembros, o noticias relevantes de Python.
 
  * [wiki:Eventos Eventos]: Aquí encontrarás información sobre las actividades que realizamos.
 
@@ -23,7 +23,7 @@
 
  * [wiki:PreguntasFrecuentes Preguntas frecuentes]
 
- * ["CambiosRecientes" cambios recientes]
+ * CambiosRecientes
 
 == Últimas noticias ==
 [[Include(Noticias, , ,from="ULTIMAS_START", to="ULTIMAS_END")]]
