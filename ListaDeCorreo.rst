@@ -1,7 +1,9 @@
 #language es
-La lista de mail de PyAr está abierta a todos los interesados en Python, y está dedicada en especial a los residentes de Argentina. En esta lista discutimos todos los temas que tengan que ver con la promoción y difusión del lenguaje de programación y planeamos eventos especiales y la creación de contenido local.
+= Lista de Correo =
 
-=== Instrucciones para suscribirte ===
+La lista de correo de PyAr está abierta a todos los interesados en Python, y está dedicada en especial a los residentes de Argentina. En esta lista discutimos todos los temas que tengan que ver con la promoción y difusión del lenguaje de programación y planeamos eventos especiales y la creación de contenido local.
+
+== Instrucciones para suscribirte ==
 
 1. Mandá un mensaje a pyar-subscribe@decode.com.ar
 
@@ -11,7 +13,7 @@ La lista de mail de PyAr está abierta a todos los interesados en Python, y est�
 
 4. (opcional) Para obtener un digest con los mensajes anteriores en la lista mandá un mail a pyar-get@decode.com.ar
 
-=== Archivo ===
+== Archivo ==
 
 Si querés ver el histórico de la lista de correo de PyAr, te podés fijar en el [http://mx.grulic.org.ar/archiver/html/pyar/ archivo].
 
