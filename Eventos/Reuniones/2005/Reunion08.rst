@@ -1,4 +1,4 @@
-=== Reunión 8 ===
+= Reunión 8 =
 
 Seguimos con los records de asistentes. En este caso, fuimos 13
 (¡Trece! ¿Qué te parece?). Aparte de los mismos de siempre, los
