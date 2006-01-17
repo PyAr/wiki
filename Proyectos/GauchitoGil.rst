@@ -1,4 +1,4 @@
-=== Gauchito Gil ===
+= Gauchito Gil =
 
 Bienvenidos al primer altar online del Gauchito Gil, una revisión digital de lugares reales en la provincia de Córdoba (y similares en el resto de Argentina).
 
@@ -15,7 +15,7 @@ img src="IMG_6258.jpg" /!\ FIXME!!!
 img src="IMG_6262.jpg" /!\ FIXME!!!
 
 
-==== Bibliografía ====
+== Bibliografía ==
 
  * [http://www.3gpp2.org/Public_html/specs/X.S0016-370_v1.0_022404.pdf Especificación de MM7] (para envio de MMS)
 
@@ -38,19 +38,19 @@ img src="IMG_6262.jpg" /!\ FIXME!!!
 
  * Lucio Dixit:
 
-{{{Eso nomás para ir tirando una idea de herramientas (o conceptos de herramientas,
-[comentario por las colas MQ, que no vamos a comprar]) que se pueden dar al momento
-de hacer la aplicación basada en nuestro gateway.
-Para mí la idea sería hacer mas que solo un protocolo de send-SMS/MMS (auqnue eso
-tiene que estar). Sino crear una suite de herramientas para hacer aplicaciones con eso.}}}
+    ''Eso nomás para ir tirando una idea de herramientas (o conceptos de herramientas,
+    [comentario por las colas MQ, que no vamos a comprar]) que se pueden dar al momento
+    de hacer la aplicación basada en nuestro gateway.
+    Para mí la idea sería hacer mas que solo un protocolo de send-SMS/MMS (auqnue eso
+    tiene que estar). Sino crear una suite de herramientas para hacer aplicaciones con eso.''
 
 
-==== Workflows ====
+== Workflows ==
 
 href="vanderaalst98application.pdf">vanderaalst98application.pdf /!\ FIXME!!!
 
 
-==== Matcheo de Eventos Sub Lineal ====
+== Matcheo de Eventos Sub Lineal ==
 
 Para esto ver el siguiente pdf:
 
@@ -59,14 +59,14 @@ href="aguilera99matching.pdf">aguilera99matching.pdf /!\ FIXME !!!
 Para ver el resultado de esto ver [wiki:/EventMatching EventMatching]
 
 
-==== Reactor : An Object Behavioral Pattern for Concurrent Event Demultiplexing and Dispatching ====
+== Reactor : An Object Behavioral Pattern for Concurrent Event Demultiplexing and Dispatching ==
 
 Este es un ''pattern'' interesante que estamos considerando
 
 href="schmidt95reactor.pdf">schmidt95reactor.pdf /!\ FIXME !!!
 
 
-==== Modular Event-Based Systems ====
+== Modular Event-Based Systems ==
   
 Sobre como tiene que comportarse un sistema de eventos
 
