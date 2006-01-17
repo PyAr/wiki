@@ -1,4 +1,4 @@
-=== Reunión 7 ===
+= Reunión 7 =
 
 Lamentablemente me estoy poniendo a escribir esto tres semanas después de que sucedió, pero créanme: no tuve tiempo antes.
 
