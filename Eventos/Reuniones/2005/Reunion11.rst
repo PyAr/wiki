@@ -1,4 +1,4 @@
-=== Reunión 11 ===
+= Reunión 11 =
 
 Algunas imágenes de la última reunión:
 
