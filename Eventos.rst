@@ -1,6 +1,6 @@
 #language es
 
-=== Eventos ===
+= Eventos =
 
 En PyAr planeamos tres tipos de eventos:
 
