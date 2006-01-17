@@ -1,7 +1,6 @@
 #language es
 = Preguntas Frecuentes =
 
-== Indice ==
 [[TableOfContents]]
 
 == ¿Quiénes somos? ==
