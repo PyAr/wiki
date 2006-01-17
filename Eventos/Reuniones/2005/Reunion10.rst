@@ -1,4 +1,4 @@
-=== Reunión 10 ===
+= Reunión 10 =
 
 Lamentablemente, no hicimos la minuta cuando debimos... y ya ni nos acordamos de que hablamos :(
 
