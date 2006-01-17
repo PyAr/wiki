@@ -1,4 +1,4 @@
-=== Nueva release de Python ===
+= Nueva release de Python =
 
 La última versión de Python ya está en la calle. Esta es una release final y estable, y se recomienda a los usuarios que actualicen sus sistemas a esta versión.
 
