@@ -20,7 +20,7 @@ Esta es la lista de tareas que estaban en el ToDo, y ya fueron completadas.
 
    * http://pyar.decode.com.ar
 
- * Link en el Navigation Bar a la ListaDeMail
+ * Link en el Navigation Bar a la ListaDeCorreo
 
  * Página de histórico de eventos
 
