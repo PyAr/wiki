@@ -1,4 +1,7 @@
-=== Páginas pendientes de corrección ===
+= FIXME =
+
+== Este es un listado de páginas pendientes de corrección ==
 [[FullSearch(/!\ FIXME)]]
 
-  <!> La página FixMe aparece siempre, aunque dicha página no tenga '''nada''' que arreglar.
+  <!> Si solo aparece la página FixMe, ¡estamos bien! (dicha página aparece siempre,
+  como resultado del full search).
