@@ -9,15 +9,15 @@
 
 == Contenido ==
  
- * [Noticias] [[IRSS(Noticias)]], de PyAr, sus miembros, o noticias relevantes de Python.
+ * ["Noticias"] [[IRSS(Noticias)]], de PyAr, sus miembros, o noticias relevantes de Python.
 
- * [Eventos]: Aquí encontrarás información sobre las actividades que realizamos.
+ * ["Eventos"]: Aquí encontrarás información sobre las actividades que realizamos.
 
  * ListaDeCorreo: Instrucciones para suscribirte a nuestra lista, hoy por hoy, nuestro principal canal de comunicación.
 
- * [Proyectos]: Información sobre los proyectos que encaramos como grupo, o en los que participan nuestros miembros.
+ * ["Proyectos"]: Información sobre los proyectos que encaramos como grupo, o en los que participan nuestros miembros.
 
- * TareasPendientes: La mayoría relacionadas con el mantenimiento del portal, y la promoción y organización del grupo.
+ * TemasPendientes: La mayoría relacionadas con el mantenimiento del portal, y la promoción y organización del grupo.
 
  * PreguntasFrecuentes
 
