@@ -2,6 +2,8 @@
 ## Las noticias se agregan acá. Mantener un orden cronológico descendente.
 ## Cuando el texto de la noticia es suficientemente amplio, crear una nueva página con el detalle de la noticia como una sub-página de ésta.
 = Noticias =
+
+  Suscribite al feed de las noticias haciendo click aquí  [[IRSS]]
 ## ULTIMAS_START
 ==== 07/07/2005 ====
  * Última edición de [wiki:/Inmersion54 Inmersión en Python].
@@ -20,6 +22,3 @@
  * La última versión de Python [wiki:/Python24 ya está en la calle].
  * Ya está disponible el [wiki:/AritmeticaDecimal módulo decimal para Python 2.3].
 ##irss stop 
-
-----
-Suscribite al feed de las noticias haciendo click aquí  [[IRSS]]
