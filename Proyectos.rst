@@ -4,9 +4,9 @@
 
 Estos son los proyectos encarados ''institucionalmente'' por PyAr:
 
- * [wiki:/GauchitoGil Gauchito Gil]
+ * ["/GauchitoGil"]
 
- * [wiki:/Caucho Caucho]
+ * ["/Caucho"]
 
 == Proyectos relacionados ==
 
