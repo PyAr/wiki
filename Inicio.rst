@@ -9,7 +9,7 @@
 
 == Contenido ==
  
- * ["Noticias"] [[IRSS(Noticias)]], de PyAr, sus miembros, o noticias relevantes de Python.
+ * ["Noticias"] de PyAr, sus miembros, o noticias relevantes de Python.  [[IRSS(Noticias)]]
 
  * ["Eventos"]: Aquí encontrarás información sobre las actividades que realizamos.
 
