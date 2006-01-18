@@ -83,4 +83,3 @@ Según la [http://c2.com/cgi/wiki?PythonSprint Portland Pattern Repository's Wik
   XP (eXtreme Programming -- Programación Extrema).''
 
 Probablemente los sprints de PyAr no duren 3 a 5 días, al menos al principio... ni contamos con tener una audiencia multinacional. Pero pensamos divertirnos, aprender, y hacer algo útil.
-["Proyectos/Caucho" test]
