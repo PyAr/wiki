@@ -39,7 +39,7 @@ puede.
 
 == ¿Cómo participar? ==
 
-Suscribiéndote a la ListaDeMail, registrándote en el portal, asistiendo a cualquiera de nuetros
+Suscribiéndote a la ListaDeCorreo, registrándote en el portal, asistiendo a cualquiera de nuetros
 ["Eventos"], aportando ideas.
 
 == ¿Qué puedo esperar de PyAr en el futuro? ==
