@@ -47,14 +47,14 @@ img src="IMG_6262.jpg" /!\ FIXME!!!
 
 == Workflows ==
 
-href="vanderaalst98application.pdf">vanderaalst98application.pdf /!\ FIXME!!!
+attachment:vanderaalst98application.pdf
 
 
 == Matcheo de Eventos Sub Lineal ==
 
 Para esto ver el siguiente pdf:
 
-href="aguilera99matching.pdf">aguilera99matching.pdf /!\ FIXME !!!
+attachment:aguilera99matching.pdf
 
 Para ver el resultado de esto ver [wiki:/EventMatching EventMatching]
 
@@ -63,11 +63,11 @@ Para ver el resultado de esto ver [wiki:/EventMatching EventMatching]
 
 Este es un ''pattern'' interesante que estamos considerando
 
-href="schmidt95reactor.pdf">schmidt95reactor.pdf /!\ FIXME !!!
+attachment:schmidt95reactor.pdf
 
 
 == Modular Event-Based Systems ==
   
 Sobre como tiene que comportarse un sistema de eventos
 
-href="modular-event-based-systems.pdf">modular-event-based-systems.pdf /!\ FIXME !!!
+attachment:modular-event-based-systems.pdf
