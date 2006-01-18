@@ -8,7 +8,7 @@
 ==== 07/07/2005 ====
  * Última edición de [wiki:/Inmersion54 Inmersión en Python].
 ==== 25/04/2005 ====
- * Nubis nos muestra su script [wiki:/FotoByMail Foto by Mail].
+ * NubIs nos muestra su script [wiki:/FotoByMail Foto by Mail].
 ==== 15/04/2005 ====
  * LucioTorre nos da detalles sobre [wiki:Proyectos/PythonPalm Python para PalmOS] (en inglés).
 ## ULTIMAS_END
