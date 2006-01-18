@@ -24,7 +24,7 @@ If anyone want to check this out, heres the url: http://pyar.decode.com.ar/Membe
 
  * [http://www.movilogic.com/python/Python-2.3.2.zip Click here to download the source]
 
- * [http://pyar.decode.com.ar/Members/ltorre/MLPYD.prc Click here to download the sample prc] /!\ FIXME!!!
+ * [attachment:MLPYD.prc Click here to download the sample prc]
 
 thanks to [http://pippy.sourceforge.net pippy] and Jeff Collins for inspiration and ideas.
 
