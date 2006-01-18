@@ -11,16 +11,15 @@ La charla Python se basó principalmente en Zope, aunque hablamos de muchos temi
 También discutimos un poquito sobre la dirección web que queríamos encontrar para PyAr. Surgió una interesante, pero nos obligaba a registrarla en Paraguay (era argentina.py). Igualmente luego en la conferencia lo hablé y nos dieron el [http://www.python.org/ar nuevo enlace] (¡muy bien!).
 
 El lugar, el mismo de siempre, se portó bien y mal. Bien porque una vez más nos regalaron una vuelta de choripanes, y mal porque esta vez realmente nos quedó chico (¡eramos once!).
+[[BR]]
 
-/!\ FIXME!!! Hay que bajar todas las imágenes a la URL definitiva, y editar esta página
+attachment:IMG_0681.JPG
+[[BR]]
 
-img src="IMG_0681.JPG" width=400
+attachment:IMG_0682.JPG
+[[BR]]
 
+attachment:IMG_0683.JPG
+[[BR]]
 
-img src="IMG_0682.JPG" width=400
-
-
-img src="IMG_0683.JPG" width=400
-
-
-img src="IMG_0684.JPG" width=400
+attachment:IMG_0684.JPG
