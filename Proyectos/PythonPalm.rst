@@ -2,7 +2,7 @@
 
 Here you can get the latests (only) release of this half baked port of python to palmOS.
 
-img src="screenshot.bmp" /!\ FIXME!!!
+attachment:screenshot.bmp
 
 
 == Release Notes ==
