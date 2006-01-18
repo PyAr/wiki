@@ -1,4 +1,3 @@
-[[Navigation(children)]]
 = Proyectos =
 
 == Proyectos PyAr ==
@@ -15,3 +14,6 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr, están rela
  * [wiki:/PythonPalm Python for PalmOS] (en inglés)
 
  * [http://sf.net/projects/sigefi SiGeFi]
+
+----
+[[Navigation(children)]]
