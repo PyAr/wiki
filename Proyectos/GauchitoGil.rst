@@ -9,11 +9,11 @@ attachment:GauchitoGil.jpg
 
 Ahora, vean su manifestación popular en la ruta:
 
-img src="IMG_6239.jpg" /!\ FIXME!!!
+attachment:IMG_6239.jpg
 
-img src="IMG_6258.jpg" /!\ FIXME!!!
+attachment:IMG_6258.jpg
 
-img src="IMG_6262.jpg" /!\ FIXME!!!
+attachment:IMG_6262.jpg
 
 
 == Bibliografía ==
