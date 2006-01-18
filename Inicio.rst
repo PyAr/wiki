@@ -17,7 +17,7 @@
 
  * ["Proyectos"]: Información sobre los proyectos que encaramos como grupo, o en los que participan nuestros miembros.
 
- * TemasPendientes: La mayoría relacionadas con el mantenimiento del portal, y la promoción y organización del grupo.
+ * TareasPendientes: La mayoría relacionadas con el mantenimiento del portal, y la promoción y organización del grupo.
 
  * PreguntasFrecuentes
 
