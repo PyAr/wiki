@@ -3,7 +3,7 @@
 ## Cuando el texto de la noticia es suficientemente amplio, crear una nueva página con el detalle de la noticia como una sub-página de ésta.
 = Noticias =
 
-  Suscribite al feed de las noticias haciendo click aquí  [[IRSS]]
+{i} Suscribite al feed de las noticias haciendo click aquí  [[IRSS]]
 ## ULTIMAS_START
 ==== 07/07/2005 ====
  * Última edición de [wiki:/Inmersion54 Inmersión en Python].
