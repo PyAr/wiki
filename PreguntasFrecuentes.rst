@@ -13,7 +13,7 @@ aplicación, difusión y mejora de este lenguaje.
 
 == ¿Qué hacemos? ==
 
-Organizamos reuniones donde debatimos ideas, mantenemos una ListaDeMail a través de la cual nos
+Organizamos reuniones donde debatimos ideas, mantenemos una ListaDeCorreo a través de la cual nos
 comunicamos, creamos y mantenemos este portal,
 el cual pretendemos que tenga contenido útil tanto para los miembros
 de PyAr como para toda aquella persona que se interese por Python.
@@ -28,7 +28,7 @@ varias personas fuimos llegando a [http://www.meetup.com/ Meetup], donde luego d
 registrarnos esperamos a lograr una masa crítica de asistentes a una posile reunión.
 PabloZiliani realizó esta secuencia justo en
 el momento en que Meetup cambió de interfaz, se registró como administrador y logró
-organizar en Septiembre la ReunionUno.
+organizar en Septiembre la ["Eventos/Reuniones/ReunionUno" ReunionUno].
 
 == ¿Cómo es la organización interna de PyAr? ==
 
