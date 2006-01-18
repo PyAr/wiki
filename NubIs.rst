@@ -3,6 +3,7 @@
 == Nubis ==
 
 ''Cristian Bruno''
+
 Ok, en mi wiki pongo mi status actual hasta que se me ocurra que otras cosas agregarle
 
 ----
