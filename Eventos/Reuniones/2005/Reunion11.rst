@@ -1,15 +1,11 @@
 = Reunión 11 =
 
-Algunas imágenes de la última reunión:
+== Algunas imágenes de la última reunión ==
+
+attachment:Screenshot-11.png
 
 
-/!\ FIXME!!! Hay que bajar las imágenes y editar la página.
+attachment:Screenshot-6.png
 
 
-img src="Screenshot-11.png"
-
-
-img src="Screenshot-6.png"
-
-
-img src="Screenshot-8.png"
+attachment:Screenshot-8.png
