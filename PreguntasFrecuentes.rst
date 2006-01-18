@@ -30,6 +30,16 @@ PabloZiliani realizó esta secuencia justo en
 el momento en que Meetup cambió de interfaz, se registró como administrador y logró
 organizar en septiembre de 2004 la [wiki:Eventos/Reuniones/ReunionUno ReunionUno].
 
+== ¿Qué pasó con el grupo de Meetup? ==
+
+El grupo de Meetup no era (estrictamente hablando) nacional, sino de Buenos Aires.
+Por la estructura que tiene Meetup, los grupos se organizan en base a ciudades, no
+países. Por otro lado, durante 2005 Meetup volvió a cambiar su organización, y
+empezó a pretender cobrar por el mantenimiento del grupo. En ese momento, tomamos
+la decisión de dejar de usarlo, ya que no valía la pena. PyAr había dejado de 
+girar entorno a las reuniones (que es lo que enfatiza Meetup), y ya teníamos sitio
+propio.
+
 == ¿Cómo es la organización interna de PyAr? ==
 
 Hoy, mientras la cantidad de miembros del grupo lo permite,
