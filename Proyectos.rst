@@ -1,3 +1,4 @@
+[[Navigation(children)]]
 = Proyectos =
 
 == Proyectos PyAr ==
