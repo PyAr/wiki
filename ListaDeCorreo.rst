@@ -1,3 +1,4 @@
+## page was renamed from ListaDeMail
 #language es
 = Lista de Correo =
 
