@@ -7,7 +7,7 @@ Esta es la lista de tareas que estaban en el ToDo, y ya fueron completadas.
 
  * Dar de alta la lista de mail general
 
-   * ListaDeMail
+   * ListaDeCorreo
 
  * Archivo de la lista de mail general (Deberia filtrar las direcciones)
 
