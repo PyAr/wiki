@@ -56,7 +56,7 @@ Para esto ver el siguiente pdf:
 
 attachment:aguilera99matching.pdf
 
-Para ver el resultado de esto ver [wiki:/EventMatching EventMatching]
+Para ver el resultado de esto ver ["/EventMatching"]
 
 
 == Reactor : An Object Behavioral Pattern for Concurrent Event Demultiplexing and Dispatching ==
