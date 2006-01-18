@@ -1,4 +1,3 @@
-[[Navigation(children)]]
 = Gauchito Gil =
 
 Bienvenidos al primer altar online del Gauchito Gil, una revisión digital de lugares reales en la provincia de Córdoba (y similares en el resto de Argentina).
@@ -72,3 +71,6 @@ attachment:schmidt95reactor.pdf
 Sobre como tiene que comportarse un sistema de eventos
 
 attachment:modular-event-based-systems.pdf
+
+----
+[[Navigation(children)]]
