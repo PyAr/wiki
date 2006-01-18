@@ -11,4 +11,4 @@ lo que van a hacer en el sprint, y porque no subi un helloworld :).
 
 Saludos.
 
-href="http://pyar.decode.com.ar/Members/nubis/foto_by_mail.py/download" foto_by_mail.py /!\ FIXME!!!
+attachment:foto_by_mail.py
