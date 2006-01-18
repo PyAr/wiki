@@ -24,7 +24,7 @@ En PyAr planeamos tres tipos de eventos:
 [[Include(Eventos/Reuniones, ,editlink)]]
 
 [[Anchor(sprints)]]
-[[Include(Eventos/Sprints)]]
+[[Include(Eventos/Sprints, ,editlink)]]
 
 [[Anchor(conferencias)]]
-[[Include(Eventos/Conferencias)]]
+[[Include(Eventos/Conferencias, ,editlink)]]
