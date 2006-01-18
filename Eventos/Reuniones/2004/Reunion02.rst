@@ -22,6 +22,6 @@ También discutimos ideas mas locas (bueno... algunas no tanto), a más largo pl
 
  * establecer una relación mas formal con la Python Software Foundation;
 
- * participar activamente en la creación Latinoamericana de EuroPython;
+ * participar activamente en la creación de la versión Latinoamericana de !EuroPython;
 
 La reunión fue muy amena, divertida y productiva. Contamos con que para la próxima seremos más.
