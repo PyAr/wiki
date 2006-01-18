@@ -5,7 +5,7 @@ enterarte de los detalles de lugar, hora, etc. Para ver la agenda de la próxima
 
 Hasta la fecha, estas fueron las reuniones realizadas:
 
- ||Fecha||Reunión||Lugar||
+ ||'''Fecha'''||'''Reunión'''||'''Lugar'''||
  ||09/09/04||[wiki:/ReunionUno ReunionUno]||La Cigale||
  ||21/10/04||[wiki:/ReunionDos ReunionDos]||Corner bar||
  ||11/11/04||[wiki:/ReunionTres ReunionTres]||Corner bar||
