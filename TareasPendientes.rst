@@ -4,9 +4,9 @@ Esta es una lista de tareas que tenemos pendientes. También llevamos un registr
 
 == Sitio ==
  
- * Crear la página wiki:Proyectos/Caucho.
-
  * Corregir las [wiki:FixMe páginas con FIXMEs].
+
+ * Darle contenido a la página de [wiki:Proyectos/Caucho Caucho].
 
  * Hacer que los usuarios puedan dejar comentarios en el Wiki (ver con qué restricciones...)
 
