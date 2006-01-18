@@ -13,7 +13,7 @@
 ==== 11/04/2005 ====
  * Está disponible la minuta de la [wiki:Eventos/Reuniones/ReunionSiete ReunionSiete] y la agenda que intentamos seguir en la próxima reunión ([wiki:Eventos/Reuniones/ReunionOcho ReunionOcho]).
 ==== 19/01/2005 ====
- * PyAr tiene su [ListaDeCorreo lista de correo].
+ * PyAr tiene su [wiki:ListaDeCorreo lista de correo].
 ==== 20/12/2004 ====
  * PyAr aparece en la lista de Python Interest Groups de Python.org ([wiki:/ListadoDePIGs noticia completa]).
 ==== 25/11/2004 ====
