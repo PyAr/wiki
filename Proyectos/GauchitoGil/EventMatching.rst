@@ -4,7 +4,7 @@ Estos son algunos de los resultados que encontré implementando lo que dice el '
 
 Primero, pueden hechar una mirada al código. No es lindo, posiblemente no sea óptimo, pero quería tener un ''feel'' real de qué iba a costar ésto:
 
-href="matcher.py">matcher.py /!\ FIXME !!!
+attachment:matcher.py
 
 El código tiene las siguientes partes:
 
