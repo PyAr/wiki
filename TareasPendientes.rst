@@ -4,7 +4,7 @@ Esta es una lista de tareas que tenemos pendientes. También llevamos un registr
 
 == Sitio ==
  
- * Crear la página [wiki:Proyectos/Cacho].
+ * Crear la página [wiki:Proyectos/Caucho].
 
  * Corregir las [wiki:FixMe páginas con FIXMEs].
 
