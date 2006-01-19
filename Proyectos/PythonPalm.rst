@@ -32,3 +32,6 @@ thanks to [http://pippy.sourceforge.net pippy] and Jeff Collins for inspiration 
 == Contact ==
 
 You can contact me at {{{lucio from movilogic slash com}}}, replacing slash with dot and from with at, add 22 and find the prime factors.
+
+----
+CategoryProyectos
