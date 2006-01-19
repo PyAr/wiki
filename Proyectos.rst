@@ -18,3 +18,4 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr, están rela
 
 ----
 [[Navigation(children, 1)]]
+CategoryProyectos
