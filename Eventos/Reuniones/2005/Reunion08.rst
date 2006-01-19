@@ -1,5 +1,7 @@
 = Reunión 8 =
 
+== 14/04/2005 ==
+
 Seguimos con los records de asistentes. En este caso, fuimos 13
 (¡Trece! ¿Qué te parece?). Aparte de los mismos de siempre, los
 debutantes fueron:
