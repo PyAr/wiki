@@ -2,7 +2,7 @@
 
 Esta es la lista de TareasPendientes que ya fueron completadas.
 
- <!> ''Por favor, antes de modificar esta página, leé los [#LEEME lineamientos expresados al final].''
+ || <!> ''Por favor, antes de modificar esta página, leé los [#LEEME lineamientos expresados al final].''||
 
 == Listas de correo ==
 
@@ -49,6 +49,6 @@ Esta es la lista de TareasPendientes que ya fueron completadas.
  * Terminar de pulir el logo
 
 
-[[Anchor(leeme)]]
+[[Anchor(LEEME)]]
 ----
 == Recomendaciones para editar esta página ==
