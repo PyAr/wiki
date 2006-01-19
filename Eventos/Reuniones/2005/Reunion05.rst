@@ -1,7 +1,5 @@
 ## page was renamed from Eventos/Reuniones/ReunionCinco
-= Reunión 5 =
-
-== 13/01/2005 ==
+= Reunión 05 - 13/01/2005 - Hip Bar =
 
 Se llevó a cabo la quinta reunión de PyAr con total éxito. Como MarianoDraghi (escriba oficial) estaba de vacaciones, recayó en mí (FacundoBatista) la tarea de contarles qué hicimos.
 
