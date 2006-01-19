@@ -4,8 +4,6 @@ Esta es una lista de tareas que tenemos pendientes. También llevamos un registr
 
 == Sitio ==
  
- * Corregir las [wiki:FixMe páginas con FIXMEs].
-
  * Solucionar el error con la Macro IRSS al suscribirse al feed de ["Noticias"].
 
  * Completar la data de ["Eventos/Conferencias"]. Hubo por lo menos una charla más en otra conferencia.
@@ -23,6 +21,17 @@ Esta es una lista de tareas que tenemos pendientes. También llevamos un registr
 
  * Solucionar los problemas de codificación de caracteres, acentos, etc., que se presentan en los wikinames o al utilizar Texto Estructurado.
 
+== Tareas rutinarias ==
+
+El Wiki requiere ciertas tareas rutinarias
+
+ * Mantener actualizadas las ["Noticias"] y los marcadores {{{ULTIMAS_START}}} y {{{ULTIMAS_END}}},
+ para que se visualicen correctamente las últimas noticias en la página Inicio.
+
+ * Corregir las [wiki:FixMe páginas con FIXMEs].
+
+ * Revisar las WantedPages, para ver si hay páginas pendientes de edición, o ''broken links''.
+ 
 
 == Promoción ==
 
