@@ -8,7 +8,7 @@ Había como 3 notebooks con 3 OSs diferentes, un grupo de 5 o 6 giles que se la 
 una manera decente ni siquiera de grabar el video para después publicarlo en algún sitio.
 
 Tuvimos múltiples problemas: de drivers, de conectividad... pero sobre todo, ¡de falta de internet! ¡sin poder consultarle a Google!
-¿Se iaginan?
+¿Se imaginan?
 
 El momento ''top'' lo alcanzamos al hacer un {{{open()}}} a lo bruto de la cámara en {{{/dev}}}, y luego comenzar a tirar
 hipótesis sobre formatos, ''framerates'', y la cuadratura del huevo para tratar de reproducirlo, o de parsearlo de alguna
