@@ -1,7 +1,5 @@
 ## page was renamed from Eventos/Reuniones/ReunionTres
-= Reunión 3 =
-
-== 11/11/2004 ==
+= Reunión 3 - 11/11/2004 - Corner Bar =
 
 En esta reunión decidimos lo siguiente:
 
