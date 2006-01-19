@@ -58,6 +58,6 @@ o menos globales.
 
 No todas las TareasPendientes merecen pasarse acá cuando se completan. En esa página escribimos '''todo''',
 para no olvidarnos de nada. Acá, volcamos principalmente aquello que en unos meses o años vale la pena
-recordar.
+ser recordado.
 
-Ante la duda... ¡usá tu sentido común!
+Si dudás sobre si algo tiene o no que estar acá, lo mas probable es que '''NO''' tenga que estar. :-?
