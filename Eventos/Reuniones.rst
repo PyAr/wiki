@@ -5,7 +5,7 @@ enterarte de los detalles de lugar, hora, etc. Para ver la agenda de la próxima
 
 Hasta la fecha, estas fueron las reuniones realizadas:
 
-[[Include(/Reunion.*, , sort=descending, items=5, titlesonly)]]
+[[Include(^Eventos/Reuniones/Reunion.*, , sort=descending, items=5, titlesonly)]]
 
  ||'''Fecha'''||'''Lugar'''||'''Enlace'''||
  ||09/09/04||La Cigale||["/ReunionUno"]||
