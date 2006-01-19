@@ -11,7 +11,7 @@ En PyAr planeamos tres tipos de eventos:
  [[FootNote(Al principio, comenzamos realizando reuniones mensuales, el segundo jueves de cada mes. Con el tiempo, esta modalidad cayó en desuso.)]]
 
 
- * ''[#sprints Sprints]''[[FootNote(PreguntasFrecuentes#SPRINT)]]:
+ * ''[#sprints Sprints]'' [[FootNote(["PreguntasFrecuentes#SPRINT"])]]:
 
  Pretendemos realizar sesiones de desarrollo para proyectos que nos llamen la atención, como un evento social y de mejora
  para el software (libre) argentino.
