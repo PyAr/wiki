@@ -6,10 +6,10 @@ En PyAr planeamos tres tipos de eventos:
 
  * ''[#reuniones Reuniones PyAr]'':
 
- Son las reuniones que hacemos los miembros de PyAr para planificar y realizar actividades concernientes a nuestro objetivo.
- Al principio, comenzamos realizando reuniones mensuales, el segundo jueves de cada mes. Con el tiempo, esta modalidad cayó en desuso,
- y solo se realizan reuniones cuando consideramos que hay un motivo específico que tratar (o juntamos demasiadas ganas de tomar
- cerveza...)
+ Son las reuniones que hacemos los miembros de PyAr para planificar y realizar actividades concernientes a nuestro objetivo. Las reuniones
+ se organizan cuando consideramos que hay un motivo específico que tratar (o juntamos demasiadas ganas de tomar cerveza... :-? )
+ [[FootNote("Al principio, comenzamos realizando reuniones mensuales, el segundo jueves de cada mes. Con el tiempo, esta modalidad cayó en desuso.")
+
 
  * ''[#sprints Sprints]'':
 
