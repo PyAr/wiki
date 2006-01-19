@@ -28,7 +28,7 @@ varias personas fuimos llegando a [http://www.meetup.com/ Meetup], donde luego d
 registrarnos esperamos a lograr una masa crítica de asistentes a una posile reunión.
 PabloZiliani realizó esta secuencia justo en
 el momento en que Meetup cambió de interfaz, se registró como administrador y logró
-organizar en septiembre de 2004 la [wiki:Eventos/Reuniones/ReunionUno ReunionUno].
+organizar en septiembre de 2004 la ["Eventos/Reuniones/Reunion01"].
 
 == ¿Qué pasó con el grupo de Meetup? ==
 
