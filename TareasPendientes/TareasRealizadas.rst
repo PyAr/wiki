@@ -29,9 +29,9 @@ Esta es la lista de TareasPendientes que ya fueron completadas.
 
  * Una página por cada evento (accesible desde ["Eventos"])
 
-   * ["Eventos/Reuniones/ReunionUno"]
+   * ["Eventos/Reuniones/Reunion01"]
 
-   * ["Eventos/Reuniones/ReunionDos"]
+   * ["Eventos/Reuniones/Reunion02"]
 
    * etc...
 
