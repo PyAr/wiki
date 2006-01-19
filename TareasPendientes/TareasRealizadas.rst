@@ -2,7 +2,7 @@
 
 Esta es la lista de TareasPendientes que ya fueron completadas.
 
- || <!> ''Por favor, antes de modificar esta página, leé los [#LEEME lineamientos expresados al final].''||
+ || <!> ''Por favor, antes de modificar esta página, leé las [#LEEME recomendaciones] expresadas al final].''||
 
 == Listas de correo ==
 
@@ -48,7 +48,16 @@ Esta es la lista de TareasPendientes que ya fueron completadas.
 
  * Terminar de pulir el logo
 
-
 [[Anchor(LEEME)]]
 ----
-== Recomendaciones para editar esta página ==
+=== Recomendaciones para editar esta página ===
+
+La idea es que esta lista tenga relevancia histórica, es decir, que exprese hitos importantes para PyAr,
+o reestructuraciones del sitio tales como creación de nuevas secciones, o cambios de configuración más
+o menos globales.
+
+No todas las TareasPendientes merecen pasarse acá cuando se completan. En esa página escribimos '''todo''',
+para no olvidarnos de nada. Acá, volcamos principalmente aquello que en unos meses o años vale la pena
+recordar.
+
+Ante la duda... ¡usá tu sentido común!
