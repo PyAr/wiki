@@ -1,5 +1,7 @@
 = Reunión 3 =
 
+== 11/11/2004 ==
+
 En esta reunión decidimos lo siguiente:
 
  * Armar la lista de correo.
