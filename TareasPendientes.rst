@@ -13,6 +13,8 @@ Esta es una lista de tareas que tenemos pendientes. También llevamos un registr
 
  * Darle contenido a la página de ["Proyectos/Caucho"] y ["Proyectos/Caucho/ActionSprite"].
 
+ * Escalar las fotos adjuntas a algunas páginas, para que queden de un tamaño razonable (hoy son muy grandes y pesadas).
+
  * Hacer que los usuarios puedan dejar comentarios en el Wiki (ver con qué restricciones...)
 
  * Implementar un mecanismo bien llamativo en el que podamos poner bien visible la data de cada reunión (fecha, hora, lugar, etc)
