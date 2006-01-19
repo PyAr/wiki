@@ -1,3 +1,4 @@
+## page was renamed from Eventos/ReunionSeis
 #language es
 = Reunión 6 =
 
