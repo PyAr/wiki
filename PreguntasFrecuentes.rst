@@ -63,7 +63,7 @@ empresas. Que promovamos sprints periódicos en los que podamos
 desarrollar o mejorar productos de software. Que nos contactemos
 con otros grupos de usuarios de Latinoamérica, y coordinemos
 esfuerzos con ellos.
-
+[[Anchor(SPRINT)]]
 == ¿Qué es un ''sprint''? ==
 
 Según la [http://c2.com/cgi/wiki?PythonSprint Portland Pattern Repository's Wiki]:
