@@ -9,8 +9,6 @@ Esta es una lista de tareas que tenemos pendientes. También llevamos un registr
  * Completar la data de ["Eventos/Conferencias"]. Hubo por lo menos una charla más en otra conferencia.
  Evaluar si vale la pena abrir una página por cada conferencia (como hacemos con las reuniones).
 
- * Completar la data de ["Eventos/Reuniones/Reunion12"].
-
  * Darle contenido a la página de ["Proyectos/Caucho"] y ["Proyectos/Caucho/ActionSprite"].
 
  * Escalar las fotos adjuntas a algunas páginas, para que queden de un tamaño razonable (hoy son muy grandes y pesadas).
