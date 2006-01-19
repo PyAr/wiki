@@ -5,7 +5,7 @@
 ## Los comentarios ULTIMAS_{START|END} marcan el From/To para hacer el import en la página Inicio.
 ## El primero debería quedar fijo, inmediatamente antes de la primer fecha. El otro, es responsabilidad de quien
 ## edite esta página irlo "subiendo", de manera que la página inicial solo contenga las últimas noticias.
-# language es
+#language es
 = Noticias =
 
 ''Suscribite al feed de noticias haciendo click aquí:''  [[IRSS]]
