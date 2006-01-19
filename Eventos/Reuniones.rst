@@ -11,7 +11,7 @@ Hasta la fecha, estas fueron las reuniones realizadas:
  ||11/11/04||Corner bar||["/ReunionTres"]||
  ||09/12/04||Hip Bar||["/ReunionCuatro"]||
  ||13/01/05||Hip Bar||["/ReunionCinco"]||
- ||10/02/05||||La !ReunionSeis se suspendió por lluvia, y porque el Hip Bar estaba cerrado.||
+ ||10/02/05||Hip Bar||["/ReunionSeis"]||
  ||10/03/05||Hip Bar||["/ReunionSiete"]||
  ||14/04/05||Hip Bar||["/ReunionOcho"]||
  ||12/05/05||Hip Bar||["/ReunionNueve"]||
