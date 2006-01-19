@@ -1,5 +1,7 @@
 = Reunión 1 =
 
+== 09/09/2004 ==
+
 La primer reunión fue bastante extraña, ya que ninguno estaba seguro si alguien más iba a asistir.
 
 Nos encontramos en La Cigale y estuvimos un rato charlando allí, hasta que decidimos tomar otro rumbo, rumbo que perseguiríamos luego en las próximas reuniones: menos ruido para poder charlar y la cerveza más barata, :p (luego de caminar un rato terminamos en La Casona, lugar que no nos convenció del todo).
