@@ -1,5 +1,7 @@
 = Reunión 2 =
 
+== 21/10/2004 ==
+
 Los temas tratados fueron diversos: lanzamiento de Firefox 1.0, Máquinas de Turing, Perl, .Net, ... y también, por supuesto, hablamos de Python ;). De a poco fueron tomando forma los objetivos iniciales, esbozados en la primer reunión, y se fueron plasmando en ideas concretas. Obviamente no faltaron las cervezas, gaseosas, licuados y demás recursos para dar soporte al brain-storming.
 
 En la ésta reunión, se tomaron las siguientes decisiones:
