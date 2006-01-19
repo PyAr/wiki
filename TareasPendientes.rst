@@ -6,9 +6,14 @@ Esta es una lista de tareas que tenemos pendientes. También llevamos un registr
  
  * Corregir las [wiki:FixMe páginas con FIXMEs].
 
- * Completar la data de [wiki:Eventos/Reuniones/ReunionDoce ReunionDoce].
+ * Solucionar el error con la Macro IRSS al suscribirse al feed de ["Noticias"].
 
- * Darle contenido a la página de [wiki:Proyectos/Caucho Caucho].
+ * Completar la data de ["Eventos/Conferencias"]. Hubo por lo menos una charla más en otra conferencia.
+   Evaluar si vale la pena abrir una página por cada conferencia (como hacemos con las reuniones).
+
+ * Completar la data de ["Eventos/Reuniones/ReunionDoce"].
+
+ * Darle contenido a la página de ["Proyectos/Caucho"] y ["Proyectos/Caucho/ActionSprite"].
 
  * Hacer que los usuarios puedan dejar comentarios en el Wiki (ver con qué restricciones...)
 
