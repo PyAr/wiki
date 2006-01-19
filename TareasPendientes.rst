@@ -15,11 +15,14 @@ Esta es una lista de tareas que tenemos pendientes. También llevamos un registr
 
  * Hacer que los usuarios puedan dejar comentarios en el Wiki (ver con qué restricciones...)
 
- * Implementar un "portlet" bien llamativo en el que podamos poner bien visible la data de cada reunión (fecha, hora, lugar, etc)
+ * Implementar un mecanismo bien llamativo en el que podamos poner bien visible la data de cada reunión (fecha, hora, lugar, etc)
+ en la página principal.
+
+ * Solucionar los problemas de validación del HTML que se producen por los {{{[[Include()]]}}} y por 
+ las {{{SubPages}}}.
 
  * Pulir la estética del sitio, y personalizarlo aún más.
 
- * Solucionar los problemas de codificación de caracteres, acentos, etc., que se presentan en los wikinames o al utilizar Texto Estructurado.
 
 === Tareas rutinarias ===
 
