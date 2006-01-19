@@ -1,6 +1,11 @@
 ##irss start
 ## Las noticias se agregan acá. Mantener un orden cronológico descendente.
 ## Cuando el texto de la noticia es suficientemente amplio, crear una nueva página con el detalle de la noticia como una sub-página de ésta.
+##
+## Los comentarios ULTIMAS_{START|END} marcan el From/To para hacer el import en la página Inicio.
+## El primero debería quedar fijo, inmediatamente antes de la primer fecha. El otro, es responsabilidad de quien
+## edite esta página irlo "subiendo", de manera que la página inicial solo contenga las últimas noticias.
+# language es
 = Noticias =
 
 ''Suscribite al feed de noticias haciendo click aquí:''  [[IRSS]]
