@@ -1,7 +1,5 @@
 ## page was renamed from Eventos/Reuniones/ReunionSiete
-= Reunión 7 =
-
-== 10/03/2005 ==
+= Reunión 07 - 10/03/2005 - Hip Bar =
 
 Lamentablemente me estoy poniendo a escribir esto tres semanas después de que sucedió, pero créanme: no tuve tiempo antes.
 
