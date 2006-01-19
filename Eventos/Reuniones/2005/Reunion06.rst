@@ -1,9 +1,7 @@
 ## page was renamed from Eventos/Reuniones/ReunionSeis
 ## page was renamed from Eventos/ReunionSeis
 #language es
-= Reunión 6 =
-
-== 10/02/2005 ==
+= Reunión 06 - 10/02/2005 - Hip Bar =
 	
 Sin duda la "reunión" más extraña que celebramos... porque no existió :-?
 
