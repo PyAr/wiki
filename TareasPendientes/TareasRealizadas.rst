@@ -2,6 +2,9 @@
 
 Esta es la lista de TareasPendientes que ya fueron completadas.
 
+ ----
+ <!> Pasar a esta lista solo las tareas relevantes. No tiene sentido asentar
+ ----
 
 == Listas de correo ==
 
@@ -28,9 +31,9 @@ Esta es la lista de TareasPendientes que ya fueron completadas.
 
  * Una página por cada evento (accesible desde ["Eventos"])
 
-   * [wiki:Eventos/Reuniones/ReunionUno Reunión 1]
+   * ["Eventos/Reuniones/ReunionUno"]
 
-   * [wiki:Eventos/Reuniones/ReunionDos Reunión 2]
+   * ["Eventos/Reuniones/ReunionDos"]
 
    * etc...
 
