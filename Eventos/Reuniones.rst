@@ -5,4 +5,6 @@ enterarte de los detalles de lugar, hora, etc. Para ver la agenda de la próxima
 
 Enlaces a las últimas reuniones realizadas:
 
-[[Include(^Eventos/Reuniones/Reunion[0-9]+, , sort=descending, titlesonly)]]
+[[Include(^Eventos/Reuniones/Reunion[0-9]+, , sort=descending, items=6, titlesonly)]]
+
+ * Ver ["/TodasLasReuniones"]
