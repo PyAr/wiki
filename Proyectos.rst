@@ -17,5 +17,5 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr, están rela
  * [http://sf.net/projects/sigefi SiGeFi]
 
 ----
-[[Navigation(children, 1)]]
 CategoryProyectos
+[[Navigation(children, 1)]]
