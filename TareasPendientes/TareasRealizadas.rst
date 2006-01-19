@@ -3,7 +3,8 @@
 Esta es la lista de TareasPendientes que ya fueron completadas.
 
  ----
- <!> Pasar a esta lista solo las tareas relevantes. No tiene sentido asentar
+ <!> Pasar a esta lista solo las tareas relevantes. No tiene sentido asentar cada mínimo cambio (para eso, hay otras herramientas...)
+ La idea es que este listado tenga valor histórico para ver nuestros "logros", con lo cual, solo deberían figurar los hitos importantes.
  ----
 
 == Listas de correo ==
