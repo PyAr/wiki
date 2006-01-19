@@ -1,5 +1,7 @@
 = Reunión 5 =
 
+== 13/01/2005 ==
+
 Se llevó a cabo la quinta reunión de PyAr con total éxito. Como MarianoDraghi (escriba oficial) estaba de vacaciones, recayó en mí (FacundoBatista) la tarea de contarles qué hicimos.
 
  * Charlamos con los nuevos participantes, Leonardo, Octavio, David y Santiago, conociendo lo que hacen, qué hacen en Python, etc. Como nota de color, tuvimos el primer participante que no viene del área de sistemas, sino que es biólogo (Octavio, y usa Python para procesar datos).
