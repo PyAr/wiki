@@ -21,7 +21,7 @@ Esta es una lista de tareas que tenemos pendientes. También llevamos un registr
 
  * Solucionar los problemas de codificación de caracteres, acentos, etc., que se presentan en los wikinames o al utilizar Texto Estructurado.
 
-== Tareas rutinarias ==
+=== Tareas rutinarias ===
 
 El Wiki requiere ciertas tareas rutinarias
 
