@@ -5,7 +5,7 @@ enterarte de los detalles de lugar, hora, etc. Para ver la agenda de la próxima
 
 Hasta la fecha, estas fueron las reuniones realizadas:
 
-[[PageList(regexp://Reunion.*)]]
+[[PageList(regex:/Reunion.*)]]
 
 [[Include(^Eventos/Reuniones/Reunion.*, , sort=descending, items=5, titlesonly)]]
 
