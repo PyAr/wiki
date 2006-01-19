@@ -15,9 +15,8 @@ manera como para sacar un screenshot.
 
 De todo esto, se saca en limpio una sola cosa: Nos divertimos. Mucho. :)
 
-... y como nada anduvo, LucioTorre terminó recurriendo al querido botonito de Print Screen, y como resultado, les dejamos...
-
-== ... Algunas imágenes de la última reunión ==
+... y como nada anduvo, LucioTorre terminó recurriendo al querido botonito de Print Screen, y como resultado,
+les dejamos algunas imágenes de la última reunión:
 
 attachment:Screenshot-11.png
 
