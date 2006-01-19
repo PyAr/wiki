@@ -1,5 +1,5 @@
 ## page was renamed from Eventos/Reuniones/ReunionOnce
-= Reunión 11 - 04/08/2005 - Hip Bar ==
+= Reunión 11 - 04/08/2005 - Hip Bar =
 
 Buena parte de la reunión estuvo dedicada a tratar de capturar video para poder compartirlo luego con la gente que está lejos.
 La idea original fue hacer ''streaming'', pero el Hip Bar no tiene Wi-Fi. Jugamos un rato con bluetooth vía un teléfono móvil.
