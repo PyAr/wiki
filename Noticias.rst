@@ -2,6 +2,9 @@
 ## Las noticias se agregan acá. Mantener un orden cronológico descendente.
 ## Cuando el texto de la noticia es suficientemente amplio, crear una nueva página con el detalle de la noticia como una sub-página de ésta.
 ##
+## Muchas veces en esta página escribimos los links de manera que queden más descriptivos (y no tan wikis),
+## ya que esta info se ve en la página de inicio
+##
 ## Los comentarios ULTIMAS_{START|END} marcan el From/To para hacer el import en la página Inicio.
 ## El primero debería quedar fijo, inmediatamente antes de la primer fecha. El otro, es responsabilidad de quien
 ## edite esta página irlo "subiendo", de manera que la página inicial solo contenga las últimas noticias.
@@ -18,7 +21,7 @@
  * LucioTorre nos da detalles sobre [wiki:Proyectos/PythonPalm Python para PalmOS] (en inglés).
 ## ULTIMAS_END
 ==== 11/04/2005 ====
- * Está disponible la minuta de la [wiki:Eventos/Reuniones/ReunionSiete ReunionSiete] y la agenda que intentamos seguir en la próxima reunión ([wiki:Eventos/Reuniones/ReunionOcho ReunionOcho]).
+ * Está disponible la minuta de la [wiki:Eventos/Reuniones/Reunion07 Reunión 7] y la agenda que intentamos seguir en la próxima reunión ([wiki:Eventos/Reuniones/Reunion08 Reunión 8]).
 ==== 19/01/2005 ====
  * PyAr tiene su [wiki:ListaDeCorreo lista de correo].
 ==== 20/12/2004 ====
