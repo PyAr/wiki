@@ -1,7 +1,5 @@
 ## page was renamed from Eventos/Reuniones/ReunionNueve
-= Reunión 9 =
-
-== 12/05/2005 ==
+= Reunión 09 - 12/05/2005 - Hip Bar =
 
 Lamentablemente, no hicimos la minuta cuando debimos... y ya ni nos acordamos de que hablamos :(
 
