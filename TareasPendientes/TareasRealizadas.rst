@@ -2,10 +2,7 @@
 
 Esta es la lista de TareasPendientes que ya fueron completadas.
 
- ----
- <!> Pasar a esta lista solo las tareas relevantes. No tiene sentido asentar cada mínimo cambio (para eso, hay otras herramientas...)
- La idea es que este listado tenga valor histórico para ver nuestros "logros", con lo cual, solo deberían figurar los hitos importantes.
- ----
+ <!> ''Por favor, antes de modificar esta página, leé los [#LEEME lineamientos expresados al final].''
 
 == Listas de correo ==
 
@@ -50,3 +47,8 @@ Esta es la lista de TareasPendientes que ya fueron completadas.
  * Crear un Logo que nos identifique
 
  * Terminar de pulir el logo
+
+
+[[Anchor(leeme)]]
+----
+== Recomendaciones para editar esta página ==
