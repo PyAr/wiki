@@ -26,7 +26,7 @@ Esta es una lista de tareas que tenemos pendientes. También llevamos un registr
 
 === Tareas rutinarias ===
 
-El Wiki requiere ciertas tareas rutinarias
+El Wiki requiere ciertas tareas rutinarias:
 
  * Mantener actualizadas las ["Noticias"] y los marcadores {{{ULTIMAS_START}}} y {{{ULTIMAS_END}}},
  para que se visualicen correctamente las últimas noticias en la página Inicio.
