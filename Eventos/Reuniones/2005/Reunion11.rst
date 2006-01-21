@@ -21,6 +21,8 @@ al final de éstas líneas les dejamos algunas imágenes de la última reunión.
 También resolvimos participar en !CaFeConf 2005 con dos charlas, una de LucioTorre sobre [http://www.pygame.org/wiki/about pygame],
 y otra de FacundoBatista de introducción a Python.
 
+== Fotos ==
+
 attachment:Screenshot-11.png
 
 
