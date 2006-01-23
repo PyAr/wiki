@@ -3,7 +3,7 @@
 
 Adjuntamos el diseño cuasi-definitivo de las remeras de PyAr.
 
-Alguna vez hablamos de agregar alguna frase divertida en la espalda, debajo del logo. Pero no terminó de deinirse. La mejor candidata era:
+Alguna vez hablamos de agregar alguna frase divertida en la espalda, debajo del logo. Pero no terminó de definirse. La mejor candidata era:
 
  {{{importate __esta__}}}
 
