@@ -1,3 +1,4 @@
+#acl All:read,write
 = Diseño de las remeras de PyAr =
 
 Adjuntamos el diseño cuasi-definitivo de las remeras de PyAr.
