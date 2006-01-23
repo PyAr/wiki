@@ -7,7 +7,7 @@ Alguna vez hablamos de agregar alguna frase divertida en la espalda, debajo del 
 
  {{{importate __esta__}}}
 
-Está buena, pero es difícil de explicar a quien no conoce el lenguaje.
+Está buena, pero es difícil de explicar a quien no conoce el lenguaje ;)
 
 [[AttachList]]
 
