@@ -14,3 +14,5 @@ Está buena, pero es difícil de explicar a quien no conoce el lenguaje.
 Les recomiendo ver la versión SVG, ya que ahí van a poder apreciar el máximo detalle. Si no tienen con que abrirlo, les recomiendo instalar [http://www.inkscape.org/ Inkscape] (que también está para Windows).
 
 == Discusión ==
+
+ (agregá tu opinión acá)
