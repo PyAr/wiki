@@ -17,3 +17,9 @@ Les recomiendo ver la versión SVG, ya que ahí van a poder apreciar el máximo 
 == Discusión ==
 
  (agregá tu opinión acá)
+
+----
+Nubis: Capaz que alguna frase podria jugar con la posicion donde esta el texto con respecto al cuerpo sino, algo como:
+
+ {{{class pantalon(prenda):}}}
+Alineado a la izquierda, cosa que lo que le siga mas abajo sea el pantalon en sí. Es medio parecido a las gorras html que dicen <head></head>
