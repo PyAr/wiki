@@ -12,7 +12,7 @@
 
 ''Suscribite al feed de noticias haciendo click aquí:''  [[IRSS]]
 ##irss start
-##irss PyAr - Python Argentina
+##irss topic PyAr - Python Argentina
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 ==== 07/07/2005 ====
