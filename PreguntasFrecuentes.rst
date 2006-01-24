@@ -1,10 +1,11 @@
 #language es
 #pragma section-numbers 2
 
+= Preguntas Frecuentes =
+
 [[TableOfContents]]
 
 ----
-= Preguntas Frecuentes =
 
 == ¿Quiénes somos? ==
 
