@@ -15,6 +15,9 @@
 ##irss topic PyAr - Python Argentina
 ##irss descr Últimas noticias
 ## ULTIMAS_START
+==== 23/01/2006 ====
+ * ¡Última oportunidad de hacer algún aporte al diseño de las remeras! La idea
+ está casi cerrada. Podés ver los ejemplos y dejar tus comentarios en la página ["Remeras"]
 ==== 07/07/2005 ====
  * Última edición de [wiki:/Inmersion54 Inmersión en Python].
 ==== 25/04/2005 ====
