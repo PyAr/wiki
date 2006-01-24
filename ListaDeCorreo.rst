@@ -10,7 +10,7 @@ La lista de correo de PyAr está abierta a todos los interesados en Python, y es
 
 2. Mandá tu "Hola mundo" a pyar@decode.com.ar para que todos los suscriptos a la lista aprecien tu patético nerdismo. :-?
 
- ''(El paso 2. es opcional, pero bienvenido. Ha generado algunas de las conversaciones más interesantes de la lista..)''
+ ''(El paso 2. es opcional, pero muy bienvenido. Ha generado algunas de las conversaciones más interesantes de la lista...)''
 
 == Ayuda ==
 
