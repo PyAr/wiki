@@ -1,5 +1,6 @@
 #acl AdminGroup:admin,read,write,delete,revert All:read
 #language es
+#pragma keywords Python, PyAr, Python Argentina, user group, grupo de usuarios, community portal
 
 = Bienvenido a PyAr - Python Argentina =
 
