@@ -1,4 +1,5 @@
 #language es
+#pragma section-numbers 2
 
 [[TableOfContents]]
 
