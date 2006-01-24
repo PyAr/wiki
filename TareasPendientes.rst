@@ -4,7 +4,7 @@ Esta es una lista de tareas que tenemos pendientes. También llevamos un registr
 
 == Sitio ==
  
- * --Solucionar el error con la Macro IRSS al suscribirse al feed de ["Noticias"].--
+ * --(Solucionar el error con la Macro IRSS al suscribirse al feed de ["Noticias"].)--
 
  * Completar la data de ["Eventos/Conferencias"]. Hubo por lo menos una charla más en otra conferencia.
  Evaluar si vale la pena abrir una página por cada conferencia (como hacemos con las reuniones).
