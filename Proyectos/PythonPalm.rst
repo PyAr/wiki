@@ -17,7 +17,7 @@ So, ive made an initial release that has no documentation on how to use it or co
 
 As usual, this is just a proof of concept and is ugly in many ways. (in Palm, code segments must be less than 64K, so some files had to be split and rearranged  ).
 
-If anyone want to check this out, heres the url: http://pyar.decode.com.ar/Members/ltorre/PythonPalm
+If anyone want to check this out, heres the url: http://pyar.decode.com.ar/Members/ltorre/PythonPalm  /!\ FIXME!!! Poner la URL real
 
 
 == Downloads ==
