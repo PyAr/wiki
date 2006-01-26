@@ -1,2 +1,3 @@
-#acl AdminGroup:admin,read,write All:read
+#acl AdminGroup:admin,read,write
+ * FacundoBatista
  * MarianoDraghi
