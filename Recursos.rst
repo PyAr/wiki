@@ -2,7 +2,7 @@
 #language es
 
 = Recursos =
-  Estas son empresas argentinas que utilizan python regularmente de distintas formas.(por orden de llegada)
+  Estas son organizaciones y empresas argentinas que utilizan python regularmente de distintas formas.(por orden de llegada)
 
 == Organizaciones ==
 
