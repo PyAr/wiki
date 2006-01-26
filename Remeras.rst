@@ -29,7 +29,11 @@ les dejamos los links a los threads relevantes de la lista donde se tocó este t
 ----
 == Discusión ==
 
- (agregá tu opinión acá)
+Definiendo tamaños (si se agregan acá los considero con fuerte intención de compra). Hay M, L y XL para elegir (como referencia, para mí, Facu, sería L (dije que era una referencia, no que fuese útil)):
+
+ * Facundo Batista: 3 L, 1 M
+ * Mario Zorz: 3 M
+
 
 ----
 Nubis: Capaz que alguna frase podria jugar con la posicion donde esta el texto con respecto al cuerpo sino, algo como:
