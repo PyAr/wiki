@@ -19,8 +19,8 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 ==== 26/01/2006 ====
- * ''Se larga la confección de'' ["Remeras"]''. El diseño está cerrado. Por favor, confirmá cuántas querés y de que talles en la
- página.''
+ * '''''Se larga la confección de''''' ["Remeras"]'''''. El diseño está cerrado. Por favor, confirmá cuántas querés y de
+ que talles en la página.'''''
  * FacundoBatista viaja a [http://us.pycon.org/TX2006/HomePage PyCon 2006]. Habilitamos una
  sección para debatir y proponer contenido de una Lightning Talk sobre PyAr. Podés ver en que estamos pensando y
  aportar ideas ingresando [wiki:Eventos/Conferencias/PyCon2006 aquí].
