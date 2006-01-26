@@ -11,6 +11,10 @@ Esta es una lista de tareas que tenemos pendientes. También llevamos un registr
 
  * Darle contenido a la página de ["Proyectos/Caucho"] y ["Proyectos/Caucho/ActionSprite"].
 
+ * Darle contenido y forma a la sección ["Recursos"]. Evaluar si es necesario crear subpáginas.
+
+   * Incluir la sección ["Recursos"] en la barra de navegación.
+
  * Escalar las fotos adjuntas a algunas páginas, para que queden de un tamaño razonable (hoy son muy grandes y pesadas).
 
  * Hacer que los usuarios puedan dejar comentarios en el Wiki (ver con qué restricciones...)
