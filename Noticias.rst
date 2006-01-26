@@ -17,7 +17,8 @@
 ## ULTIMAS_START
 ==== 26/01/2006 ====
  * FacundoBatista viaja a [http://us.pycon.org/TX2006/HomePage PyCon 2006]. Habilitamos una
- sección para debatir y proponer contenido de una [wiki:Eventos/Conferencias/PyCon2006 Lightning Talk] sobre PyAr.
+ sección para debatir y proponer contenido de una Lightning Talk sobre PyAr. Podés ver en que estamos pensando y
+ aportar ideas ingresando [wiki:Eventos/Conferencias/PyCon2006 aquí].
 ==== 23/01/2006 ====
  * ¡Última oportunidad de hacer algún aporte al diseño de las remeras! La idea
  está casi cerrada. Podés ver los ejemplos y dejar tus comentarios en la página ["Remeras"].
