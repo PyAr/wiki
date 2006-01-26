@@ -27,7 +27,7 @@ Definiendo tamaños (si se agregan acá los considero con fuerte intención de c
  * Mariano Draghi: 1 M, 1 L
  * Nubis: 1 XL, 1 L
  * Roberto Alsina: 2XL
-
+ * Mauro Caceres (Cordoba): 1 L
 ----
 == Discusión sobre el diseño ==
 
