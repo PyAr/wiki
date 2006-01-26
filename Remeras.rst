@@ -23,7 +23,7 @@ Definiendo tamaños (si se agregan acá los considero con fuerte intención de c
  * Facundo Batista: 3 L, 1 M
  * Mario Zorz: 3 M
  * Alfonso Palomares: 2 M, 3 L 1 XL
- * pablo Ziliani: 1 L
+ * Pablo Ziliani: 1 L
 
 ----
 == Discusión sobre el diseño ==
