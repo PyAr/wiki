@@ -36,3 +36,14 @@
  * Librerías utilizadas: [http://www.wxpython.org/ wxPython], [http://kid.lesscode.org kid], [http://spyce.sourceforge.net spyce], [http://pyro.sourceforge.net Pyro], [http://www.alcyone.com/pyos/empy/ empy], [http://www.pygresql.org pygresql], [http://www.modpython.org mod_python], [http://www.its4you.at/english/log4py.html log4py].
 
  * Desde hace un tiempo también utilizamos [http://www.edgewall.com/trac trac] para la gestión del proyecto, tickets y wiki interno.
+
+=== Core Security Technologies ===
+ * Contacto: [[MailTo( info AT coresecurity DOT com, Info)]]
+
+ * URL: http://www.coresecurity.com
+
+ * Teléfono: 5556-2673
+
+ * Dirección: Humboldt 1967. 2do piso. Capital Federal
+
+ * ¿De que forma usamos Python?: Lo usamos de distintas maneras. Lo tenemos embebido en un producto comercial (impact) dónde la mitad el producto esta hecha en python. Usamos mod_python para algunos servidores, usamos Zope para otros. Usamos python para el daily builder. Lo usamos para tareas de mantenimiento, y probablemente lo usemos para más cosas.
