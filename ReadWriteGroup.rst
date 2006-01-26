@@ -1,3 +1,2 @@
-#acl AdminGroup:admin,read,write All:read
- * FacundoBatista
+#acl AdminGroup:admin,read,write Known:read
  * NubIs
