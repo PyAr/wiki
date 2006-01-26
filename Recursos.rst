@@ -8,7 +8,7 @@
 
 === EuskoSare ===
 
- * Contacto: [mailto:santiago.pereson@euskosare.org "Santiago Pereson"]
+ * Contacto: [[MailTo(santiago DOT pereson AT euskosare DOT org, Santiago Pereson)]]
 
  * URL: [http://www.euskosare.org/ www.euskosare.org]
 
