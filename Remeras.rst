@@ -36,6 +36,8 @@ FacundoBatista dixit:
  * Bruno Luciani ( Ramallo , Pcia Bs As): 2 XL
  * Martin Sarsale (AKA Runa): 1 L
  * Guillermo Narvaja: 1 XL
+ * Pablo Maccagnoni: 1 XL
+ * Viviana Oviedo: 1 M
 
 ----
 == Discusión sobre el diseño ==
