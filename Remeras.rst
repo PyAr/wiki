@@ -40,6 +40,7 @@ FacundoBatista dixit:
  * Viviana Oviedo: 1 M
  * Rubén Presa: 1 M
  * Guillermo Gonzalez (Buenos Aires): 2 M
+ * Leito Monk 1 M
 
 ----
 == Discusión sobre el diseño ==
@@ -51,13 +52,13 @@ Podemos discutir el diseño de la segunda tanda, pero.... ¿te vas a quedar sin 
 ----
  MarianoDraghi: Alguna vez hablamos de agregar alguna frase divertida en la espalda, debajo del logo. Pero no terminó de definirse. La mejor candidata era:
 
- {{{importate __esta__}}}
+{{{importate __esta__}}}
 
 Está buena, pero es difícil de explicar a quien no conoce el lenguaje ;-)
 
 ----
  NubIs: Capaz que alguna frase podria jugar con la posicion donde esta el texto con respecto al cuerpo sino, algo como:
 
- {{{class pantalon(prenda):}}}
+{{{class pantalon(prenda):}}}
 
 Alineado a la izquierda, cosa que lo que le siga mas abajo sea el pantalon en sí. Es medio parecido a las gorras html que dicen <head></head>
