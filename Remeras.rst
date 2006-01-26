@@ -36,6 +36,8 @@ Definiendo tamaños (si se agregan acá los considero con fuerte intención de c
 
 || /!\ Al menos para esta primera etapa, el diseño ya está cerrado. ||
 
+Podemos discutir el diseño de la segunda tanda, pero.... ¿te vas a quedar sin tu primer remera PyAr?
+
 ----
 Nubis: Capaz que alguna frase podria jugar con la posicion donde esta el texto con respecto al cuerpo sino, algo como:
 
