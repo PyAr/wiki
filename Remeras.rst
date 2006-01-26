@@ -14,7 +14,6 @@ Para aquellos que recién se suman a la iniciativa de las remeras (por lejos, la
 
 ... la lista no es taxativa, pero debería servir para ponerte en tema.
 
-----
 == Reservá tu remera ==
 
 || /!\ Tenés tiempo hasta el '''jueves 2 de febrero''' ||
