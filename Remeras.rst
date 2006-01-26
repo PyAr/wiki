@@ -25,6 +25,7 @@ Definiendo tamaños (si se agregan acá los considero con fuerte intención de c
  * Alfonso Palomares: 2 M, 3 L 1 XL
  * Pablo Ziliani: 1 L
  * Mariano Draghi: 1 M, 1 L
+ * Nubis: 1 XL, 1 L
 
 ----
 == Discusión sobre el diseño ==
