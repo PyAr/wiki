@@ -31,7 +31,7 @@ Definiendo tamaños (si se agregan acá los considero con fuerte intención de c
  * Mario Zorz: 3 M
  * Alfonso Palomares: 2 M, 3 L 1 XL
 
----
+----
 == Discusión sobre el diseño ==
 
 || /!\ Al menos para esta primera etapa, el diseño ya está cerrado. ||
