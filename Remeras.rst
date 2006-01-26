@@ -38,6 +38,7 @@ FacundoBatista dixit:
  * Guillermo Narvaja: 1 XL
  * Pablo Maccagnoni: 1 XL
  * Viviana Oviedo: 1 M
+ * Rubén Presa: 1 M
 
 ----
 == Discusión sobre el diseño ==
