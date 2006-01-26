@@ -39,6 +39,7 @@ FacundoBatista dixit:
  * Pablo Maccagnoni: 1 XL
  * Viviana Oviedo: 1 M
  * Rubén Presa: 1 M
+ * Guillermo Gonzalez (Buenos Aires): 2 M
 
 ----
 == Discusión sobre el diseño ==
