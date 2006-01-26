@@ -28,6 +28,8 @@ Definiendo tamaños (si se agregan acá los considero con fuerte intención de c
  * Nubis: 1 XL, 1 L
  * Roberto Alsina: 2XL
  * Mauro Caceres (Cordoba): 1 L
+ * Ricardo Kirkner (Buenos Aires): 2 L
+ * Santiágo Peresón (Buenos Aires): 2 XL
 ----
 == Discusión sobre el diseño ==
 
