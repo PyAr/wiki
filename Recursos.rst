@@ -9,3 +9,6 @@ Esta página es el punto de acceso a la futura sección de recursos, donde por a
 empresas que utilizan Python en Argentina, con algunos datos.
 
 Habría que conseguir la data sobre estas empresas, y ver si están de acuerdo en que las incluyamos aquí.
+
+Cuando tengamos información más o menos definitiva, tenemos que decidir si dejamos todo acá (en esta página), o si abrimos sub-páginas
+por temas.
