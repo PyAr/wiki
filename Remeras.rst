@@ -1,12 +1,6 @@
 #acl All:read,write
-= Diseño de las remeras de PyAr =
-Adjuntamos el diseño cuasi-definitivo de las remeras de PyAr.
-
-Alguna vez hablamos de agregar alguna frase divertida en la espalda, debajo del logo. Pero no terminó de definirse. La mejor candidata era:
-
- {{{importate __esta__}}}
-
-Está buena, pero es difícil de explicar a quien no conoce el lenguaje ;-)
+= Remeras de PyAr =
+Adjuntamos el diseño de las remeras de PyAr, versión 1.0 ;)
 
 [[AttachList]]Les recomiendamos ver la versión SVG, ya que ahí van a poder apreciar el máximo detalle. Si no tienen con que abrirlo, pueden instalar [http://www.inkscape.org/ Inkscape] (que también está para Windows).
 
@@ -37,6 +31,14 @@ Definiendo tamaños (si se agregan acá los considero con fuerte intención de c
 || /!\ Al menos para esta primera etapa, el diseño ya está cerrado. ||
 
 Podemos discutir el diseño de la segunda tanda, pero.... ¿te vas a quedar sin tu primer remera PyAr?
+
+----
+MarianoDraghi: Alguna vez hablamos de agregar alguna frase divertida en la espalda, debajo del logo.
+Pero no terminó de definirse. La mejor candidata era:
+
+ {{{importate __esta__}}}
+
+Está buena, pero es difícil de explicar a quien no conoce el lenguaje ;-)
 
 ----
 Nubis: Capaz que alguna frase podria jugar con la posicion donde esta el texto con respecto al cuerpo sino, algo como:
