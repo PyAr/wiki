@@ -4,6 +4,9 @@
 ## Muchas veces en esta página escribimos los links de manera que queden más descriptivos (y no tan wikis),
 ## ya que esta info se ve en la página de inicio
 ##
+## Los comentarios irss son interpretados por la macro que arma el feed de noticias. Deberían quedar fijos: el start inmediatamente
+## después del link (junto con el tópico y la descripción del feed), y el stop al final de la página.
+##
 ## Los comentarios ULTIMAS_{START|END} marcan el From/To para hacer el import en la página Inicio.
 ## El primero debería quedar fijo, inmediatamente antes de la primer fecha. El otro, es responsabilidad de quien
 ## edite esta página irlo "subiendo", de manera que la página inicial solo contenga las últimas noticias.
