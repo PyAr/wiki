@@ -18,7 +18,7 @@ Para aquellos que recién se suman a la iniciativa de las remeras (por lejos, la
 
 || /!\ Tenés tiempo hasta el '''jueves 2 de febrero''' ||
 
-Facundo Dixit:
+FacundoBatista dixit:
 
   ''Definiendo tamaños (si se agregan acá los considero con fuerte intención de compra). Hay M, L y XL para elegir (como referencia, para mí, Facu, sería L (dije que era una referencia, no que fuese útil))''
 
