@@ -21,4 +21,5 @@ que Facundo arme las filminas. Tienen que ser conceptos breves, ya que una Light
 == Discusión ==
 
 Nubis:
-{Al hablar del sitio, que dirección debieramos usar, python.com.ar o python.org/ar, el primero es mas DNSicamente lindo, el segundo como que tiene mas peso (creo), o sea, podriamos usar los dos, pero de alguna manera dejar claro que los dos son el mismo sitio}
+Al hablar del sitio, que dirección debieramos usar, python.com.ar o python.org/ar, el primero es mas DNSicamente lindo, el segundo como que tiene mas peso (creo), o sea, podriamos usar los dos, pero de alguna manera dejar claro que los dos son el mismo sitio
+----
