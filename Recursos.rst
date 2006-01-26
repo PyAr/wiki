@@ -25,7 +25,7 @@
 === Lambda Sistemas ===
  * Contacto: [[MailTo(guillermo DOT narvaja AT fierro-soft DOT com DOT ar, Guillermo Narvaja)]]
 
- * URL: [http://www.advantasemillas.com.ar http://www.fierro-soft.com.ar]
+ * URL: http://www.fierro-soft.com.ar
 
  * Teléfono: 4815-7364
 
