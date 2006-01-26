@@ -34,6 +34,7 @@ FacundoBatista dixit:
  * Ricardo Kirkner (Buenos Aires): 2 L
  * Santiágo Peresón (Buenos Aires): 2 XL
  * Bruno Luciani ( Ramallo , Pcia Bs As): 2 XL
+ * Martin Sarsale (AKA Runa): 1 L
 
 ----
 == Discusión sobre el diseño ==
@@ -43,14 +44,14 @@ FacundoBatista dixit:
 Podemos discutir el diseño de la segunda tanda, pero.... ¿te vas a quedar sin tu primer remera PyAr?
 
 ----
-MarianoDraghi: Alguna vez hablamos de agregar alguna frase divertida en la espalda, debajo del logo. Pero no terminó de definirse. La mejor candidata era:
+ MarianoDraghi: Alguna vez hablamos de agregar alguna frase divertida en la espalda, debajo del logo. Pero no terminó de definirse. La mejor candidata era:
 
  {{{importate __esta__}}}
 
 Está buena, pero es difícil de explicar a quien no conoce el lenguaje ;-)
 
 ----
-NubIs: Capaz que alguna frase podria jugar con la posicion donde esta el texto con respecto al cuerpo sino, algo como:
+ NubIs: Capaz que alguna frase podria jugar con la posicion donde esta el texto con respecto al cuerpo sino, algo como:
 
  {{{class pantalon(prenda):}}}
 
