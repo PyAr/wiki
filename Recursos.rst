@@ -1,13 +1,10 @@
 #acl All:read,write
 #language es
-
 = Recursos =
-  Estas son organizaciones y empresas argentinas que utilizan python regularmente de distintas formas.(por orden de llegada)
+ Estas son organizaciones y empresas argentinas que utilizan python regularmente de distintas formas.(por orden de llegada)
 
 == Organizaciones ==
-
 === EuskoSare ===
-
  * Contacto: [[MailTo(santiago DOT pereson AT euskosare DOT org, Santiago Pereson)]]
 
  * URL: [http://www.euskosare.org/ www.euskosare.org]
@@ -16,10 +13,8 @@
 
  * RicardoKirkner y SantiagoPereson trabajan en el proyecto.
 
-
 === Advanta Semillas ===
-
- * Contacto: sebastian.bassi ARROBA advantasemillas.com.ar
+ * Contacto: [[MailTo(sebastian DOT bassi AT advantasemillas DOT com DOT ar, Sebastián Bassi)]]
 
  * URL: http://www.advantasemillas.com.ar
 
