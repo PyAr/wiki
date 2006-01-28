@@ -21,6 +21,8 @@ ser el marco de referencia local en el uso y difusión de esta tecnología.''
 
  * ["Proyectos"]: Información sobre los proyectos que encaramos como grupo, o en los que participan nuestros miembros.
 
+ * ["Recursos"]: Información sobre organizaciones que utilizan Python en Argentina.
+
  * TareasPendientes: La mayoría relacionadas con el mantenimiento del portal, y la promoción y organización del grupo.
 
  * PreguntasFrecuentes
