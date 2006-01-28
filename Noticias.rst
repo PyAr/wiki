@@ -13,12 +13,13 @@
 #language es
 = Noticias =
 
-''Suscribite al feed de noticias haciendo click aquí:''  [[IRSS]]
+## El link al RSS está deshabilitado porque tiene problemas con Python 2.3 :(
+## ''Suscribite al feed de noticias haciendo click aquí:''  [[IRSS]]
 ##irss start
 ##irss topic PyAr - Python Argentina
 ##irss descr Últimas noticias
 ## ULTIMAS_START
-==== 26/01/2006 ====
+==== 28/01/2006 ====
  * ¡Lanzamos el nuevo portal!. Mucho antes de lo que esperábamos. Tenemos pendientes algunas mejoras en la configuración de Apache y MoinMoin,
  pero podemos decir que el sitio está oficialmente lanzado. Cualquier problema, por favor repórtenlo en la ListaDeCorreo.
 ==== 26/01/2006 ====
