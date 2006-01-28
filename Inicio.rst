@@ -31,3 +31,8 @@ ser el marco de referencia local en el uso y difusión de esta tecnología.''
 
 == Últimas noticias ==
 [[Include(Noticias, , ,from="ULTIMAS_START", to="ULTIMAS_END")]]
+
+[[BR]]
+----
+¿Comentarios? ¿Sugerencias? Comunicate con nosotros a través de nuestra [wiki:ListaDeCorreo lista de correo],
+o escribinos directamente [wiki:Sugerencias aquí]. ¡Muchas gracias! 
