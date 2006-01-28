@@ -21,7 +21,9 @@
 ## ULTIMAS_START
 ==== 28/01/2006 ====
  * ¡Lanzamos el nuevo portal!. Mucho antes de lo que esperábamos. Tenemos pendientes algunas mejoras en la configuración de Apache y MoinMoin,
- pero podemos decir que el sitio está oficialmente lanzado. Cualquier problema, por favor repórtenlo en la ListaDeCorreo.
+ pero podemos decir que el sitio está oficialmente lanzado. Cualquier problema, por favor repórtenlo en la ListaDeCorreo,
+ on la nueva sección ["Sugerencias"].
+ * Nuevo portal, nueva sección: ["Recursos"], donde mantenemos la información sobre organizaciones que utilizan Python en Argentina.
 ==== 26/01/2006 ====
  * /!\ '''''Se larga la confección de''''' ["Remeras"]'''''. El diseño está cerrado. Por favor, confirmá cuántas querés y de
  que talles en la página.'''''
@@ -33,6 +35,7 @@
 ==== 23/01/2006 ====
  * ¡Última oportunidad de hacer algún aporte al diseño de las remeras! La idea
  está casi cerrada. Podés ver los ejemplos y dejar tus comentarios en la página ["Remeras"].
+##irss stop 
 ==== 07/07/2005 ====
  * Última edición de [wiki:/Inmersion54 Inmersión en Python].
 ==== 25/04/2005 ====
@@ -49,4 +52,3 @@
 ==== 25/11/2004 ====
  * La última versión de Python [wiki:/Python24 ya está en la calle].
  * Ya está disponible el [wiki:/AritmeticaDecimal módulo decimal para Python 2.3].
-##irss stop 
