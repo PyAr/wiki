@@ -11,8 +11,9 @@ ser el marco de referencia local en el uso y difusión de esta tecnología.''
 ----
 
 == Contenido ==
- 
- * ["Noticias"] de PyAr, sus miembros, o noticias relevantes de Python.  [[IRSS(Noticias)]]
+## El link al RSS se eliminó temporalmente por incompatibilidades con Python 2.3 :(
+## * ["Noticias"] de PyAr, sus miembros, o noticias relevantes de Python.  [[IRSS(Noticias)]]
+ * ["Noticias"] de PyAr, sus miembros, o noticias relevantes de Python.
 
  * ["Eventos"]: Aquí encontrarás información sobre las actividades que realizamos.
 
