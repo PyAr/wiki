@@ -4,14 +4,15 @@ Esta es una lista de tareas que tenemos pendientes. También llevamos un registr
 
 == Sitio ==
  
- * --(Solucionar el error con la Macro IRSS al suscribirse al feed de ["Noticias"].)--
+ * Solucionar el error con la Macro IRSS al suscribirse al feed de ["Noticias"]. Estaba arreglado, pero ahora parece
+ que con Python 2.3 hay más problemas de Unicode :(
 
  * Lanzamiento del nuevo portal - Plan de acción:
-   * Instalar !MoinMoin en Decode.
-   * Configurar una instancia básica, los Redirect de Apache, la ayuda en castellano, el tema "pyar", 
-   y la configuración básica de la instancia del sitio de prueba.
-   * Deshabilitar el sitio de prueba, hacer un snapshot del contenido la instancia de Moin, e
-   instalarlo en el server definitivo en Decode.
+   * --(Instalar !MoinMoin en Decode.)--
+   * --(Configurar una instancia básica, los Redirect de Apache, la ayuda en castellano, el tema "pyar",)-- 
+   --(la configuración básica de la instancia del sitio de prueba.)--
+   * --(Deshabilitar el sitio de prueba, hacer un snapshot del contenido la instancia de Moin, e)--
+   --(instalarlo en el server definitivo en Decode.)--
    * Configurar un redirect permanente (al menos por unos días), desde el server de prueba hacia el server productivo real,
    para que los spiders y bots que hayan visitado el sitio de prueba se enteren del cambio.
 
