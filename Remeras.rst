@@ -25,7 +25,7 @@ FacundoBatista dixit:
 
  * Facundo Batista: 3 L, 1 M
  * Mario Zorz: 3 M
- * Alfonso Palomares: 2 M, 3 L 1 XL
+ * Alfonso Palomares: 2 M, 3 L, 1 XL
  * Pablo Ziliani: 1 L
  * Mariano Draghi: 1 M, 1 L
  * Nubis: 1 XL, 1 L
@@ -40,7 +40,8 @@ FacundoBatista dixit:
  * Viviana Oviedo: 1 M
  * Rubén Presa: 1 M
  * Guillermo Gonzalez (Buenos Aires): 2 M
- * Leito Monk 1 M
+ * Leito Monk: 1 M
+ * Abel Eduardo: 1 M
 
 ----
 == Discusión sobre el diseño ==
