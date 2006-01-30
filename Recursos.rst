@@ -48,6 +48,22 @@
 
  * ¿De qué forma usamos Python?: Lo usamos de distintas maneras. Lo tenemos embebido en un producto comercial (impact) donde la mitad del producto esta hecha en python. Usamos mod_python para algunos servidores, usamos Zope para otros. Usamos python para el daily builder. Lo usamos para tareas de mantenimiento, y probablemente lo usemos para más cosas.
 
+=== Except ===
+ * Contacto: [[MailTo( info AT except DOT com DOT ar, Except)]]
+
+ * URL: http://except.com.ar
+
+ * Dirección: Pirovano 297 1ºB. Córdoba Capital
+
+ * ¿De qué forma usamos Python?: Hacemos mucho desarrollo web en Zope/Python. También trabajamos con Plone. Además hemos trabajado en aplicaciones de escritorio multiplataforma con PyGTK y Twisted.
+
+ * Librerías/frameworks utilizadas: pyGTK, Zope, Plone, Twisted
+
+ * Desde hace un tiempo también utilizamos [http://www.edgewall.com/trac trac] para la gestión del proyecto, tickets y wiki interno.
+
+ * Los socios de la empresa son AntonioLenton, JuanLenton y DanielMoisset. (todos miembros de PyAR)
+
 [[BR]] [[BR]]
+
 ----
-[[FootNote]]
+ [[FootNote]] 
