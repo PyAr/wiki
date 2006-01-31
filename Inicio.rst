@@ -36,5 +36,5 @@ ser el marco de referencia local en el uso y difusión de esta tecnología.''
 
 [[BR]]
 ----
-¿Comentarios? ¿Sugerencias? Comunicate con nosotros a través de nuestra [wiki:ListaDeCorreo lista de correo],
+¿Comentarios? ¿Sugerencias? Enviá un mail a [[MailTo(pyar_admin AT decode DOT com DOT ar)]],
 o escribinos directamente [wiki:Sugerencias aquí]. ¡Muchas gracias! 
