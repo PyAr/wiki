@@ -20,7 +20,5 @@ Algo de info que no está en el blog:
  * Mi mayor experiencia con Python, más allá del uso que trato de darle laboralmente haciendo algún que otro script, proviene del proyecto [http://sf.net/projects/sigefi sigefi], junto a FacundoBatista (que es el mentor del proyecto).
 
 [[BR]]
-~-''(Última edición: 2006-01-30)''-~
-
 ----
 CategoryHomepage
