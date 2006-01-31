@@ -1,4 +1,5 @@
-#acl AdminGroup:admin,read,write
+#acl AdminGroup:admin,read,write,revert
  * FacundoBatista
+ * LucioTorre
  * MarianoDraghi
  * PabloZiliani
