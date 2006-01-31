@@ -14,9 +14,12 @@ La lista de correo de PyAr está abierta a todos los interesados en Python, y es
 
 == Ayuda ==
 
-Para obtener ayuda y los comandos disponibles en la lista, mandá un mensaje a [[MailTo(pyar-help AT decode DOT com DOT ar)]]
+ * Para comunicarte con los administradores de PyAr, mandá un mensaje a [[MailTo(pyar_admin AT decode DOT com DOT ar)]]. Esa
+ sería la dirección de contacto para reportar problemas con la lista o con el sitio web.
 
-Para obtener un digest con los mensajes anteriores en la lista mandá un mail a [[MailTo(pyar-get AT decode DOT com DOT ar)]]
+ * Para obtener ayuda y los comandos disponibles en la lista, mandá un mensaje a [[MailTo(pyar-help AT decode DOT com DOT ar)]].
+
+ * Para obtener un digest con los mensajes anteriores en la lista mandá un mail a [[MailTo(pyar-get AT decode DOT com DOT ar)]].
 
 == Archivo ==
 
