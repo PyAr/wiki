@@ -22,7 +22,7 @@
 ==== 28/01/2006 ====
  * ¡Lanzamos el nuevo portal!. Mucho antes de lo que esperábamos. Tenemos pendientes algunas mejoras en la configuración de Apache y MoinMoin,
  pero podemos decir que el sitio está oficialmente lanzado. Cualquier problema, por favor repórtenlo en la ListaDeCorreo,
- on la nueva sección ["Sugerencias"].
+ o en la nueva sección ["Sugerencias"].
  * Nuevo portal, nueva sección: ["Recursos"], donde mantenemos la información sobre organizaciones que utilizan Python en Argentina.
 ==== 26/01/2006 ====
  * /!\ '''''Se larga la confección de''''' ["Remeras"]'''''. El diseño está cerrado. Por favor, confirmá cuántas querés y de
