@@ -1,2 +1,8 @@
-#acl AdminGroup:admin,read,write Known:read
+#acl AdminGroup:admin,read,write,revert Known:read
+ * AlejandroDavidWeil
+ * AntonioLenton
+ * DanielMoisset
+ * JuanLenton
  * NubIs
+ * RicardoKirkner
+ * SantiagoPereson
