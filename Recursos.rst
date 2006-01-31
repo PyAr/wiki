@@ -70,14 +70,9 @@
 
  * Dirección: Patricio Diez 1026 - Reconquista, Santa Fe, Argentina
 
- * ¿De qué forma usamos Python?: Estamos desarrollando todo el sistema de gestion completo en python con la interface grafica Wx, el sistema una vez terminado trabajara sobre linux preferentemente y consta de un sistema de manejo de Emergencias Medicas, Facturacion, Sistemas de Caja Diaria, Manejo de Abonados entre otras cosas.
+ * ¿De qué forma usamos Python?: Estamos desarrollando todo el sistema de gestion completo en python con la interface grafica Wx, el sistema una vez terminado trabajara sobre linux preferentemente y consta de un sistema de manejo de Emergencias Medicas, Facturacion, Sistemas de Caja Diaria, Manejo de Abonados entre otras cosas, el sistema es demaciado amplio como para explicarlo en pocas lineas.
 
  * Librerías/frameworks utilizadas: wxwindows
-
- * Desde hace un tiempo también utilizamos [http://www.edgewall.com/trac trac] para la gestión del proyecto, tickets y wiki interno.
-
- * Los socios de la empresa son AntonioLenton, JuanLenton y DanielMoisset. (todos miembros de PyAR)
-
 
 
 [[BR]] [[BR]]
