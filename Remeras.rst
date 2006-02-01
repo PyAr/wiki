@@ -42,7 +42,7 @@ FacundoBatista dixit:
  * Guillermo Gonzalez (Buenos Aires): 2 M
  * Leito Monk: 1 M
  * Abel Eduardo: 1 M
-
+ * Mauricio Ferrari (Tucumán) : 1 M
 ----
 == Discusión sobre el diseño ==
 || /!\ Al menos para esta primera etapa, el diseño ya está cerrado. ||
