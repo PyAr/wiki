@@ -7,23 +7,23 @@ Esta es una lista de tareas que tenemos pendientes. También llevamos un registr
  * Solucionar el error con la Macro IRSS al suscribirse al feed de ["Noticias"]. Estaba arreglado, pero ahora parece
  que con Python 2.3 hay más problemas de Unicode :(
 
+ * Evaluar la posibilidad de instalar pyXML y Docutils en el servidor,
+ para poder aprovechar el parser de reStructuredText y la generación de !DoocBook.
+
  * Lanzamiento del nuevo portal - Plan de acción:
    * --(Instalar !MoinMoin en Decode.)--
    * --(Configurar una instancia básica, los Redirect de Apache, la ayuda en castellano, el tema "pyar",)-- 
    --(la configuración básica de la instancia del sitio de prueba.)--
    * --(Deshabilitar el sitio de prueba, hacer un snapshot del contenido la instancia de Moin, e)--
    --(instalarlo en el server definitivo en Decode.)--
-   * Configurar un redirect permanente (al menos por unos días), desde el server de prueba hacia el server productivo real,
-   para que los spiders y bots que hayan visitado el sitio de prueba se enteren del cambio.
+
+ * --(Darle contenido y forma a la sección ["Recursos"]. Evaluar si es necesario crear subpáginas.)--
+   * Incluir la sección ["Recursos"] en la barra de navegación.
 
  * Completar la data de ["Eventos/Conferencias"]. Hubo por lo menos una charla más en otra conferencia.
  Evaluar si vale la pena abrir una página por cada conferencia (como hacemos con las reuniones).
 
  * Darle contenido a la página de ["Proyectos/Caucho"] y ["Proyectos/Caucho/ActionSprite"].
-
- * Darle contenido y forma a la sección ["Recursos"]. Evaluar si es necesario crear subpáginas.
-
-   * Incluir la sección ["Recursos"] en la barra de navegación.
 
  * Escalar las fotos adjuntas a algunas páginas, para que queden de un tamaño razonable (hoy son muy grandes y pesadas).
 
