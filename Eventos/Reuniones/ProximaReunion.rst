@@ -15,6 +15,6 @@
  *Cerveza.
  
 === ¿Dónde? ===
-Nos reunimos en el Hip Bar, Hipólito Yirigoyen 640, Ciudad de Buenos 
+Nos reunimos en el Hip Bar, Hipólito Yrigoyen 640, Ciudad de Buenos 
 Aires, comenzando a las 19hs. Estaremos en la parte de atrás, por lo que 
 pregúntenle al barman por nosotros. 
