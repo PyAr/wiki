@@ -14,3 +14,7 @@
    *["Proyectos/Caucho"] y otros proyectos --> sobre ésto en particular Facundo necesita que los interesados le den letra.
  *Cerveza.
  
+=== ¿Dónde? ===
+Nos reunimos en el Hip Bar, Hipólito Yirigoyen 640, Ciudad de Buenos 
+Aires, comenzando a las 19hs. Estaremos en la parte de atrás, por lo que 
+pregúntenle al barman por nosotros. 
