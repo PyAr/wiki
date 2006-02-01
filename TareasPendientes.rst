@@ -10,13 +10,6 @@ Esta es una lista de tareas que tenemos pendientes. También llevamos un registr
  * Evaluar la posibilidad de instalar pyXML y Docutils en el servidor,
  para poder aprovechar el parser de reStructuredText y la generación de !DoocBook.
 
- * Lanzamiento del nuevo portal - Plan de acción:
-   * --(Instalar !MoinMoin en Decode.)--
-   * --(Configurar una instancia básica, los Redirect de Apache, la ayuda en castellano, el tema "pyar",)-- 
-   --(la configuración básica de la instancia del sitio de prueba.)--
-   * --(Deshabilitar el sitio de prueba, hacer un snapshot del contenido la instancia de Moin, e)--
-   --(instalarlo en el server definitivo en Decode.)--
-
  * --(Darle contenido y forma a la sección ["Recursos"]. Evaluar si es necesario crear subpáginas.)--
    * Incluir la sección ["Recursos"] en la barra de navegación.
 
