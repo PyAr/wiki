@@ -17,6 +17,10 @@ Esta es la lista de TareasPendientes que ya fueron completadas.
 
 == Sitio ==
 
+ * Migración del sitio Zope+Plone a MoinMoin, y reestructuración de contenidos [enero 2006].
+
+ * Registración del dominio www.python.com.ar
+
  * Conseguir un dominio o subdominio en algún sitio, y crear el portal de PyAr
 
    * http://pyar.decode.com.ar
