@@ -27,4 +27,9 @@ Si querés ver el histórico de la lista de correo de PyAr, te podés fijar en e
 
 El archivo está subscripto recién desde el 19 de enero de 2005, y la lista tiene unos 3 o 4 meses más de antigüedad. Pero desde esa fecha en adelante tiene todo el historial.
 
-El servicio de archivo es cortesía de [http://www.grulic.org.ar/ GrULiC], que gentilmente nos ha prestado espacio. ¡¡Muchas gracias!!
+[[BR]]
+----
+ * El servicio de hosting, tanto del portal como de la lista de correo es de [http://www.decode.com.ar Decode].
+ * El servicio de archivo es cortesía de [http://www.grulic.org.ar/ GrULiC], que gentilmente nos ha prestado espacio.
+
+A ambas organizaciones, ¡muchas gracias!
