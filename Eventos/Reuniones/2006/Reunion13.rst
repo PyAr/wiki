@@ -25,7 +25,7 @@
      Se propuso la modalidad contrareembolso.
      * Comentamos la posibilidad de que el precio de venta de las remeras sea entre $1 y $2 superior al costo real,
      para que quede un pequeño margen para cubrir cualquier gasto extra que
-     genere la distribución, para financiar entre todos algunas remeras para llevar de regalo a PyCon2006, y para empezar a
+     genere la distribución, para financiar entre todos algunas remeras para llevar de regalo a !PyCon 2006, y para empezar a
      formar una ''caja chica'' para cualquier cosa que haga falta.
    * Lugar de reunión:
      * LeitoMonk nos comentó de los avances en el hacklab que se está armando.
