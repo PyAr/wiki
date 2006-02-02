@@ -48,7 +48,7 @@
      * [wiki:Proyectos/Caucho/ActionSprite ActionSprite]
      * Zope / Plone
    * AlejandroCura propuso armar un ''Release procedure'' para cada reunión, de manera que estén claros y documentados
-   para todos los pasos, y no nos pasen cosas como ovlidarnos de anunciar la reunión en algún lado, o de publicar la
+   para todos los pasos, y no nos pasen cosas como olvidarnos de anunciar la reunión en algún lado, o de publicar la
    agenda, etc. La idea está buena, y la vamos a poner en práctica.
    * FacundoBatista nos dió detalles sobre como es una lightning talk. Les recordamos a todos que está habilitada una
    página para que aportemos letra: ["Eventos/Conferencias/PyCon2006"].
