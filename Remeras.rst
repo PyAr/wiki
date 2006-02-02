@@ -39,7 +39,7 @@ FacundoBatista dixit:
  * Pablo Maccagnoni: 1 XL
  * Viviana Oviedo: 1 M
  * Rubén Presa: 1 M
- * Guillermo Gonzalez (Buenos Aires): 2 M
+ * Guillermo Gonzalez (Buenos Aires): 2 L
  * Leito Monk: 1 M
  * Abel Eduardo: 1 M
  * Mauricio Ferrari (Tucumán): 1 M
