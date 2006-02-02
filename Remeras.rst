@@ -44,6 +44,7 @@ FacundoBatista dixit:
  * Abel Eduardo: 1 M
  * Mauricio Ferrari (Tucumán): 1 M
  * Sebastián Lezica: 1 M, 2 L
+ * Alejandro Weil: 2 L
 
 ----
 == Discusión sobre el diseño ==
