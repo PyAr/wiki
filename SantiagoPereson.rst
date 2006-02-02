@@ -4,15 +4,15 @@
 
 Correo electrónico: [[MailTo(santiago DOT pereson AT euskosare DOT org)]]
 
-  * Músico y programador
+  * Músico y programador.
 
-  * Actualmente:
+  * Proyectos actuales:
 
-    * [http://yaco.net/oe/ Oveja Eléctrica]: un compositor artificial.
+    * [http://yaco.net/oe/ Oveja Eléctrica]: un compositor artificial (mucho python, algo de C, C++, Java, TCL).
 
-    * [http://www.euskosare.org/ EuskoSare.org]: sitio para la comunidad vasca global.
+    * [http://www.euskosare.org/ EuskoSare.org]: sitio para la comunidad vasca global (Plone/Zope + Mailman + Trac :-).
 
-  * Nacido 21/10/1971, vivo en Buenos Aires, casado con Sofía, dos hijos: Azul y Fermín.
+  * Nací en el 71, vivo en Caballito - Buenos Aires, estoy casado con Sofía, tenemos dos hijos: Azul y Fermín.
 
 ----
 CategoryHomepage
