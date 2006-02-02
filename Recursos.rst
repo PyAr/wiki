@@ -29,7 +29,7 @@
 
  * URL: [http://www.euskosare.org/ www.euskosare.org]
 
- * ¿De qué forma usamos Python?: Tenemos nuestro sitio desarrollado sobre software hecho en python: [http://plone.org/ Plone]/[http://zope.org/ Zope], con productos a medida del proyecto. Utiliza también [http://www.gnu.org/software/mailman/ mailman]. La mayoría de los scripts para mantenimiento y administración del servidor están hechos en python.
+ * ¿De qué forma usamos Python?: El sitio utiliza software hecho en python: [http://plone.org/ Plone]/[http://zope.org/ Zope], con productos adicionales desarrollados a medida para el proyecto. Utilizamos también [http://www.gnu.org/software/mailman/ mailman] para manejar las listas de correo de las comunidades. La mayoría de los scripts de mantenimiento y administración del servidor están hechos en python. Para gestionar el desarrollo usamos [http://www.edgewall.com/trac trac], también hecho en python.
 
  * RicardoKirkner y SantiagoPereson trabajan en el proyecto.
 
