@@ -51,7 +51,7 @@
    para todos los pasos, y no nos pasen cosas como ovlidarnos de anunciar la reunión en algún lado, o de publicar la
    agenda, etc. La idea está buena, y la vamos a poner en práctica.
    * FacundoBatista nos dió detalles sobre como es una lightning talk. Les recordamos a todos que está habilitada una
-   página para que aportemos letra: PyCon2006
+   página para que aportemos letra: ["Eventos/Conferencias/PyCon2006"].
    * Hablamos sobre la organización formal del grupo. Convenimos en que por ahora es una carga administrativa y de
    tiempos demasiado grande el transformarnos en una asociación. LeitoMonk nos propuso contactarnos con alguna
    fundación y/o organización existente, que actúe como ''paraguas'', para aquellos casos en que necesitemos una
