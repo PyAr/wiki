@@ -2,19 +2,19 @@
 
 = Próxima Reunión =
 
-== Reunión 13 - 1/2/2006 - Hip Bar - 19:00hs ==
+Por el momento, no hay planificada una reunión. Si querés organizar alguna, o proponer temas
+para juntar ''quorum'' y que se organice, te invitamos a proponerlo en nuestra ListaDeCorreo.
 
- *Presentación oficial del nuevo sitio de PyAr.
- *Últimos detalles de la movida de las ["Remeras"]: resolver la forma de recaudar el dinero, y de hacer la distribución
- a todo el país, para poder luego publicar estos datos para todos los interesados.
- *Pulido de temas a desarrollar en la lightning talk que FacundoBatista dará en [wiki:Eventos/Conferencias/PyCon2006 PyCon 2006].
-   Básicamente, serían los mismos puntos que los de la reunión:
-   *Portal
-   *Remeras
-   *["Proyectos/Caucho"] y otros proyectos --> sobre ésto en particular Facundo necesita que los interesados le den letra.
- *Cerveza.
+
+## Ejemplo de formato:
+## == Reunión XX - @fecha(dd/mm/yyyy) - @lugar@ - @hora@ ==
+
+## *Tema 1
+## *Tema 2
+## *...
+## *Tema n
  
-=== ¿Dónde? ===
-Nos reunimos en el Hip Bar, Hipólito Yrigoyen 640, Ciudad de Buenos 
-Aires, comenzando a las 19hs. Estaremos en la parte de atrás, por lo que 
-pregúntenle al barman por nosotros. 
+## === ¿Dónde? ===
+## Nos reunimos en el Hip Bar, Hipólito Yrigoyen 640, Ciudad de Buenos 
+## Aires, comenzando a las 19hs. Estaremos en la parte de atrás, por lo que 
+## pregúntenle al barman por nosotros. 
