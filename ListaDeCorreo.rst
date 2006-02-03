@@ -29,7 +29,4 @@ El archivo está subscripto recién desde el 19 de enero de 2005, y la lista tie
 
 [[BR]]
 ----
- * El servicio de hosting, tanto del portal como de la lista de correo es de [http://www.decode.com.ar Decode].
- * El servicio de archivo es cortesía de [http://www.grulic.org.ar/ GrULiC], que gentilmente nos ha prestado espacio.
-
-A ambas organizaciones, ¡muchas gracias!
+||<tablestyle="background-color:#f0f8fd; width:100%;"> (./) '''El servicio de hosting, tanto del portal como de la lista de correo es de [http://www.decode.com.ar Decode].'''[[BR]] (./) '''El servicio de archivo es cortesía de [http://www.grulic.org.ar/ GrULiC], que gentilmente nos ha prestado espacio.'''[[BR]][[BR]]A ambas organizaciones, ~+¡muchas gracias!+~||
