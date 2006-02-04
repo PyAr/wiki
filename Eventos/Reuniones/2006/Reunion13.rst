@@ -1,6 +1,6 @@
 #acl All:read,write
 #language es
-= Reunión 13 - 1/2/2006 - Hip Bar =
+= Reunión 13 - 01/02/2006 - Hip Bar =
 
  || /!\ ~+Página en construcción...+~ ||
 
