@@ -1,4 +1,5 @@
 ##master-page:HomepageTemplate
+#acl PabloZiliani:admin,read,write,delete,revert All:read
 #format wiki
 == Pablo Ziliani's Complete Waste of Time ==
 ||<tablewidth="" tablestyle=""> attachment:birdman.jpg || attachment:cerradoxduelo.jpg || attachment:sugus.jpg || attachment:flecoymale.jpg ||
