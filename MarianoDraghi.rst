@@ -1,5 +1,5 @@
 ##master-page:HomepageTemplate
-#acl MarianoDraghi:read,write,delete,revert All:read
+#acl MarianoDraghi:admin,read,write,delete,revert All:read
 #language es
 #format wiki
 == Mariano Draghi ==
