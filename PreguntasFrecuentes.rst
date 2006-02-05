@@ -52,7 +52,7 @@ puede.
 == ¿Cómo participar? ==
 
 Suscribiéndote a la ListaDeCorreo, registrándote en el portal, asistiendo a cualquiera de nuetros
-["Eventos"], aportando ideas.
+["Eventos"], aportando ideas. También tenemos un canal de IRC. El servidor de IRC es `irc.freenode.net`, y el nombre del canal es `#python-ar`.
 
 == ¿Qué puedo esperar de PyAr en el futuro? ==
 
