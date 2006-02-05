@@ -1,19 +1,6 @@
-#acl All:read,write
+#acl Known:read,write
 #language es
 = Reunión 13 - 01/02/2006 - Hip Bar =
-
- || /!\ ~+Página en construcción...+~ ||
-
- * El temario original era este:
-    *Presentación oficial del nuevo sitio de PyAr.
-    *Últimos detalles de la movida de las ["Remeras"]: resolver la forma de recaudar el dinero, y de hacer la distribución
-    a todo el país, para poder luego publicar estos datos para todos los interesados.
-    *Pulido de temas a desarrollar en la lightning talk que FacundoBatista dará en [wiki:Eventos/Conferencias/PyCon2006 PyCon 2006].
-      Básicamente, serían los mismos puntos que los de la reunión:
-      *Portal
-      *Remeras
-      *["Proyectos/Caucho"] y otros proyectos --> sobre ésto en particular Facundo necesita que los interesados le den letra.
-    *Cerveza.
 
  * Asistentes: ¡Volvimos a nuestro record histórico! Fuimos trece: GuillermoGonzalez, AlejandroCura, FacundoBatista,
  MarianoDraghi, AlejandroDavidWeil, PabloZiliani, RicardoKirkner, LeitoMonk, GuillermoNarvaja, MilenaArmada, NubIs, 
