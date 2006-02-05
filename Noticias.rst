@@ -22,7 +22,7 @@
  * En un [http://mail.python.org/pipermail/python-dev/2006-February/060415.html mensaje] enviado a python-dev, GvR anunció que
  "''después de tantos intentos de encontrar una alternativa a lambda, quizás debamos admitir la derrota. No he tenido tiempo de
  seguir los últimos rounds, pero propongo que mantengamos lambda, para dejar de derrochar el tiempo y talento de todos
- en un desafío imposible''". ¿Estará todo dicho? Al menos por el momento, parece que `lambda` se queda. 
+ en un desafío imposible.''" ¿Estará todo dicho? Al menos por el momento, parece que `lambda` se queda. 
 
 ==== 02/02/2006 ====
  * ¡Tenemos canal oficial de IRC!. El servidor de IRC es irc.freenode.net, y el nombre del canal es #python-ar.
