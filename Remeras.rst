@@ -46,6 +46,7 @@ FacundoBatista dixit:
  * Sebastián Lezica: 1 M, 2 L
  * Alejandro Weil: 2 L
  * Alejandro J. Cura: 2 XL
+ * Lucio Torre: 1 XL, 1 L
 
 ----
 == Discusión sobre el diseño ==
