@@ -75,6 +75,17 @@
  * Desde hace un tiempo también utilizamos [http://www.edgewall.com/trac trac] para la gestión del proyecto, tickets y wiki interno.
 
 
+=== Movilogic ===
+ * Contacto: [[MailTo( info AT movilogic DOT com, Info)]]
+
+ * URL: http://www.movilogic.com
+
+ * Teléfono: 5238-0098
+
+ * Dirección: Piedras 338. 1er piso 10. Capital Federal. (C1070AAH)
+
+ * ¿De qué forma usamos Python?: Lo usamos de distintas maneras. Tenemos varios desarrollos para clientes en python, lo tenemos integrado con unos de nuestros productos y tenemos muchas de nuestras herramientas internas en python.
+
 [[BR]] [[BR]]
 
 ----
