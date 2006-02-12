@@ -1,4 +1,4 @@
-#acl Known:read,write
+#acl Known:read,write All:read
 #language es
 = Reunión 13 - 01/02/2006 - Hip Bar =
 
