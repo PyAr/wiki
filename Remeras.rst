@@ -47,7 +47,7 @@ FacundoBatista dixit:
  * Alejandro Weil: 2 L
  * Alejandro J. Cura: 2 XL
  * Lucio Torre: 1 XL, 1 L
- * Sergio Gómze: 2 L
+ * Sergio Gómz: 2 L
 
 ----
 == Discusión sobre el diseño ==
