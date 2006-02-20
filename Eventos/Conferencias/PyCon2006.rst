@@ -19,7 +19,9 @@ que Facundo arme las filminas. Tienen que ser conceptos breves, ya que una Light
 
 Algunas estadisticas que podemos decir sobre la evolucion de la lista:
 
-[[AttachList]]
+attachment:post_mensuales.jpg
+attachment:posters_mensuales.jpg
+attachment:posts_mensuales_por_miembros_iniciales.jpg
 
 [[BR]]
 
