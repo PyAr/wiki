@@ -17,7 +17,12 @@ Algunos puntos que podría tocar serían:
 La idea es usar esta página para proponer contenido, y que sirva de base para
 que Facundo arme las filminas. Tienen que ser conceptos breves, ya que una Lightning Talk dura apenas 5'.
 
+Algunas estadisticas que podemos decir sobre la evolucion de la lista:
+
+[[AttachList]]
+
 [[BR]]
+
 == Discusión ==
 ----
 Nubis:
