@@ -13,6 +13,8 @@ Algunos puntos que podría tocar serían:
  2. Proyectos en los que estamos trabajando;
  3. Confección de las remeras;
  4. Migración del portal a !MoinMoin;
+ 5. Organización de charlas para difundir Python en el interior del país;
+
 
 La idea es usar esta página para proponer contenido, y que sirva de base para
 que Facundo arme las filminas. Tienen que ser conceptos breves, ya que una Lightning Talk dura apenas 5'.
