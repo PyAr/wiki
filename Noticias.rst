@@ -18,6 +18,9 @@
 ##irss topic PyAr - Python Argentina
 ##irss descr Últimas noticias
 ## ULTIMAS_START
+==== 21/02/2006 ====
+ * Finalmente, '''¡tenemos las remeras!'''. En la [wiki:ListaDeCorreo lista] estamos discutiendo los pormenores. FacundoBatista va a llevar algunas para regalar y vender en [wiki:Eventos/Conferencias/PyCon2006 PyCon2006]. Manténganse sintonizados... en cuanto tengamos detalles del costo final de venta, forma de distribución y envío al interior, los publicaremos.
+
 ==== 05/02/2006 ====
  * En un [http://mail.python.org/pipermail/python-dev/2006-February/060415.html mensaje] enviado a python-dev, GvR anunció que
  "''después de tantos intentos de encontrar una alternativa a lambda, quizás debamos admitir la derrota. No he tenido tiempo de
