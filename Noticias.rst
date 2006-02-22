@@ -19,7 +19,7 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 ==== 21/02/2006 ====
- * ~+Nos pusimos la camiseta+~[[BR]]Finalmente, ¡tenemos las remeras!. En la [wiki:ListaDeCorreo lista] estamos discutiendo los pormenores. FacundoBatista va a llevar algunas para regalar y vender en [wiki:Eventos/Conferencias/PyCon2006 PyCon2006]. Manténganse sintonizados... en cuanto tengamos detalles del costo final de venta, forma de distribución y envío al interior, los publicaremos.
+ * ~+Nos pusimos la camiseta+~[[BR]]Finalmente, ¡tenemos las remeras!. En la [wiki:ListaDeCorreo lista] estamos discutiendo los pormenores. FacundoBatista va a llevar algunas para regalar y vender en [wiki:Eventos/Conferencias/PyCon2006 PyCon2006]. El precio de venta se fijó en $12. En la próxima reunión (tentativamente a principios de marzo) realizaremos la primer venta, y definiremos la forma de distribución al interior. Mientras tanto, pueden ver el modelo definitivo en la página ["Remeras"].
 
 ==== 05/02/2006 ====
  * En un [http://mail.python.org/pipermail/python-dev/2006-February/060415.html mensaje] enviado a python-dev, GvR anunció que
