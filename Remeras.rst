@@ -2,7 +2,13 @@
 = Remeras de PyAr =
 Adjuntamos el diseño de las remeras de PyAr, versión 1.0 ;-)
 
-[[AttachList]]Les recomiendamos ver la versión SVG, ya que ahí van a poder apreciar el máximo detalle. Si no tienen con que abrirlo, pueden instalar [http://www.inkscape.org/ Inkscape] (que también está para Windows).
+attachment:remerapyar.jpg
+
+Acá pueden ver el artwork original del cual salieron, creado alguna noche allá en otra vida en la casa de ["PabloZiliani" un tal Pablo], junto con LucioTorre y MarianoDraghi.
+
+attachment:remeras.png
+
+Si quieren, también pueden bajarse la versión SVG: attachment:remeras.svg
 
 == Un poco de historia ==
 Para aquellos que recién se suman a la iniciativa de las remeras (por lejos, la de más historia en la corta vida de PyAr...), les dejamos los links a los threads relevantes de la lista donde se tocó este tema:
@@ -16,7 +22,7 @@ Para aquellos que recién se suman a la iniciativa de las remeras (por lejos, la
 ... la lista no es taxativa, pero debería servir para ponerte en tema.
 
 == Reservá tu remera ==
-|| /!\ Tenés tiempo hasta el '''jueves 2 de febrero''' ||
+|| /!\ La gente que esté anotada en esta lista, tiene prioridad sobre el resto. El stock inicial es de 100 remeras. ||
 
 
 FacundoBatista dixit:
