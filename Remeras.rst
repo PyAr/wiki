@@ -4,7 +4,7 @@ Adjuntamos el diseño de las remeras de PyAr, versión 1.0 ;-)
 
 attachment:remerapyar.jpg
 
-Acá pueden ver el artwork original del cual salieron, creado alguna noche allá en otra vida en la casa de ["PabloZiliani" un tal Pablo], junto con LucioTorre y MarianoDraghi.
+Acá pueden ver el artwork original del cual salieron, creado alguna noche allá en otra vida en la casa de [wiki:PabloZiliani un tal Pablo], junto con LucioTorre y MarianoDraghi.
 
 attachment:remeras.png
 
