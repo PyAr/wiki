@@ -22,11 +22,11 @@
 
  * ["Recursos"]: Información sobre organizaciones que utilizan Python en Argentina.
 
+ * AprendiendoPython: Recopilación de links y material que los miembros de PyAr consideramos útil para aquellos que se inician en este lenguaje.
+
  * TareasPendientes: La mayoría relacionadas con el mantenimiento del portal, y la promoción y organización del grupo.
 
  * PreguntasFrecuentes
-
- * CambiosRecientes
 
 == Últimas noticias ==
 [[Include(Noticias, , ,from="ULTIMAS_START", to="ULTIMAS_END")]]
