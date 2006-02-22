@@ -54,6 +54,10 @@ puede.
 Suscribiéndote a la ListaDeCorreo, registrándote en el portal, asistiendo a cualquiera de nuetros
 ["Eventos"], aportando ideas. También tenemos un canal de IRC. El servidor es `irc.freenode.net`, y el nombre del canal es `#python-ar`.
 
+== Quiero aprender Python. ¿Dónde consigo material? ==
+
+En AprendiendoPython, vamos recopilando algunos links y material que los miembros de PyAr fuimos leyendo, y que consideramos que puede serte útil a la hora de empezar a aprender o profundizar tus conocimientos sobre este lenguaje.
+
 == ¿Qué puedo esperar de PyAr en el futuro? ==
 
 Qué el grupo crezca, se consolide y organice formalmente. Que
