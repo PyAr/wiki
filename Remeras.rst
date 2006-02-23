@@ -51,7 +51,7 @@ FacundoBatista dixit:
  * Mauricio Ferrari (Tucumán): 1 M
  * Sebastián Lezica: 1 M, 2 L
  * Alejandro Weil: 2 L
- * Alejandro J. Cura: 2 XL
+ * Alejandro J. Cura: 2 XL, una para Glyph Lefkowitz
  * Lucio Torre: 1 XL, 1 L
  * Sergio Gómz: 2 L
 
