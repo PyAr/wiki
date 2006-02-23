@@ -2,7 +2,7 @@
 #language es
 = Reunión 13 - 01/02/2006 - Hip Bar =
 
- * Asistentes: ¡Volvimos a nuestro record histórico! Fuimos trece: GuillermoGonzalez, AlejandroCura, FacundoBatista,
+ * Asistentes: ¡Volvimos a nuestro record histórico! Fuimos trece: GuillermoGonzalez, AlejandroJCura, FacundoBatista,
  MarianoDraghi, AlejandroDavidWeil, PabloZiliani, RicardoKirkner, LeitoMonk, GuillermoNarvaja, MilenaArmada, NubIs, 
  SantiagoPereson, Sergio
 
