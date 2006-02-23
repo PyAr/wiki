@@ -10,8 +10,9 @@ Ok, en mi wiki pongo mi status actual hasta que se me ocurra que otras cosas agr
 
 === Status ===
  *Laburando en ["Proyectos/Caucho/ActionSprite"] para [wiki:Proyectos/Caucho Caucho]
- *Planeando la mudanza a Buenos Aires
- *Leyendo de a ratos un libro de j2me e impresionando a las chicas con lo que hago con mi celular. [teniendo en cuenta que mi definición de impresionar es bastante amplia]
+ *Integrandome al laburo en Buenos Aires, escapando de los cocodrilos que hay en el subte.
+ *[...]En esta ciudad casi no hay tiempo para nada
+ *PROFIT!!!
 
 Email: [[MailTo(gnubis AT gmail DOT com)]]
 
