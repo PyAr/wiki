@@ -54,6 +54,10 @@ puede.
 Suscribiéndote a la ListaDeCorreo, registrándote en el portal, asistiendo a cualquiera de nuetros
 ["Eventos"], aportando ideas. También tenemos un canal de IRC. El servidor es `irc.freenode.net`, y el nombre del canal es `#python-ar`.
 
+== ¿Cómo se organiza una reunión? ==
+
+Los pasos a seguir para organizar una reunión están documentados en ["Eventos/Reuniones/ReleaseProcedure"].
+
 == Quiero aprender Python. ¿Dónde consigo material? ==
 
 En AprendiendoPython, vamos recopilando algunos links y material que los miembros de PyAr fuimos leyendo, y que consideramos que puede serte útil a la hora de empezar a aprender o profundizar tus conocimientos sobre este lenguaje.
