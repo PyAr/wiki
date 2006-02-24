@@ -18,6 +18,8 @@
 ##irss topic PyAr - Python Argentina
 ##irss descr Últimas noticias
 ## ULTIMAS_START
+==== 24/02/2996 ====
+ * Estamos planificando la reunión 14. Fecha y lugar __tentativos__: 08/03/2006, Hip Bar. Ya está habilitada la página [wiki:Eventos/Reuniones/ProximaReunion ProximaReunion] para que te anotes y colabores en el temario.
 ==== 21/02/2006 ====
  * ~+Nos pusimos la camiseta+~[[BR]]Finalmente, ¡tenemos las remeras!. En la [wiki:ListaDeCorreo lista] estamos discutiendo los pormenores. FacundoBatista va a llevar algunas para regalar y vender en [wiki:Eventos/Conferencias/PyCon2006 PyCon2006]. El precio de venta se fijó en $12. En la próxima reunión (tentativamente a principios de marzo) realizaremos la primer venta, y definiremos la forma de distribución al interior. Mientras tanto, pueden ver el modelo definitivo en la página ["Remeras"].
 
