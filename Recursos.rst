@@ -48,6 +48,10 @@
 
  * Los socios de la empresa son AntonioLenton, JuanLenton y DanielMoisset. (todos miembros de PyAR)
 
+=== Hansa World Argentina ===
+
+ * URL: http://www.hansaworld.com.ar/
+
 === Hector E. Nardelli S.A. ===
  * Contacto: [[MailTo( ariel DOT nardelli AT hensa DOT com DOT ar, Panflin)]]
 
