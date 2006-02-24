@@ -26,6 +26,7 @@ Por favor, si pensás que podés venir, anotate en esta lista. Cuanto antes, mej
 
 ||<style="width:50%;">'''Nombre'''||<style="width:5%;"> {*} ||
 ||MarianoDraghi|| (./) ||
+||FacundoBatista|| (./) ||
 
 ## Ejemplo de formato:
 ## == Reunión XX - @fecha(dd/mm/yyyy)@ - @lugar@ - @hora@ ==
