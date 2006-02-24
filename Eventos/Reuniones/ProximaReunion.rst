@@ -17,6 +17,7 @@
  * Definición de como vamos a vender las remeras a quienes no puedan acercarse el día de la reunión, en particular, como las vamos a distribuir al interior.
  * Charlita de FacundoBatista para contar sus experiencias en !PyCon2006, la Ligthning Talk de PyAr, sprints, etc. También se ofreció a dar una charla sobre Decimal.
  * Ver si se puede afinar algún detalle de la propuesta de viajar a Tucumán. En particular, fijar una fecha en base a nuestras posibilidades.
+ * Discutir sobre PyWeek, ver quienes se prenden, de donde podes sacar el arte y pesnar en estrategias.
 
 === Asistentes ===
 
@@ -27,6 +28,7 @@ Por favor, si pensás que podés venir, anotate en esta lista. Cuanto antes, mej
 ||<style="width:50%;">'''Nombre'''||<style="width:5%;"> {*} ||
 ||MarianoDraghi|| (./) ||
 ||FacundoBatista|| (./) ||
+||LucioTorre|| (./) ||
 
 ## Ejemplo de formato:
 ## == Reunión XX - @fecha(dd/mm/yyyy)@ - @lugar@ - @hora@ ==
