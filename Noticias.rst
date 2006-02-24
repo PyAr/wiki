@@ -36,6 +36,7 @@
  * ¡Lanzamos el nuevo portal!. Mucho antes de lo que esperábamos. Tenemos pendientes algunas mejoras en la configuración de Apache y MoinMoin, pero podemos decir que el sitio está oficialmente lanzado. Cualquier problema, por favor repórtenlo en la ListaDeCorreo, o en la nueva sección ["Sugerencias"].
  * Nuevo portal, nueva sección: ["Recursos"], donde mantenemos la información sobre organizaciones que utilizan Python en Argentina.
 
+## ULTIMAS_END
 ==== 26/01/2006 ====
  * /!\ '''''Se larga la confección de''''' ["Remeras"]'''''. El diseño está cerrado. Por favor, confirmá cuántas querés y de que talles en la página.'''''
  * FacundoBatista viaja a [http://us.pycon.org/TX2006/HomePage PyCon 2006]. Habilitamos una sección para debatir y proponer contenido de una Lightning Talk sobre PyAr. Podés ver en que estamos pensando y aportar ideas ingresando [:Eventos/Conferencias/PyCon2006:aquí].
@@ -44,7 +45,6 @@
 ==== 23/01/2006 ====
  * ¡Última oportunidad de hacer algún aporte al diseño de las remeras! La idea está casi cerrada. Podés ver los ejemplos y dejar tus comentarios en la página ["Remeras"].
 
-## ULTIMAS_END
 ==== 07/07/2005 ====
  * Última edición de [:Noticias/Inmersion54:Inmersión en Python].
 
