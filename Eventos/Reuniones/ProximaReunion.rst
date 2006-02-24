@@ -1,3 +1,4 @@
+#acl All:read,write
 #language es
 
 = Próxima Reunión =
