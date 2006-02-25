@@ -18,6 +18,7 @@
  * Charlita de FacundoBatista para contar sus experiencias en !PyCon2006, la Ligthning Talk de PyAr, sprints, etc. También se ofreció a dar una charla sobre Decimal.
  * Ver si se puede afinar algún detalle de la propuesta de viajar a Tucumán. En particular, fijar una fecha en base a nuestras posibilidades.
  * Discutir sobre PyWeek, ver quienes se prenden, de donde podes sacar el arte y pesnar en estrategias.
+ * Pre-masticar la idea de encarar la traducción al español de la documentación oficial de Python.
 
 === Asistentes ===
 
