@@ -54,6 +54,7 @@ FacundoBatista dixit:
  * Alejandro J. Cura: 2 XL, una para Glyph Lefkowitz
  * Lucio Torre: 1 XL, 1 L
  * Sergio Gómz: 2 L
+ * Luciano Draghi: 1 L
 
 ----
 == Discusión sobre el diseño ==
