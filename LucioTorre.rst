@@ -1,10 +1,10 @@
 ##master-page:HomepageTemplate
 #format wiki
-== Your Name ==
+== Lucio Torre ==
 
-Email: [[MailTo(you AT SPAMFREE example DOT com)]]
+piu avanti
 
-...
+
 
 ----
 CategoryHomepage
