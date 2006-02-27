@@ -22,7 +22,7 @@
 
 === Asistentes ===
 
-Si la reunión se llegara a hacer en el Hip Bar (hasta que LeitoMonk vuelva de sus vacaciones, no tenemos confirmación del hacklab, que es la otra alternativa), es '''muy importante''' tener una idea bastante acabada de la gente que va a venir, así reservamos el salón del fondo con anticipación, y nos aseguramos que haya comida para todos.
+Si la reunión se llegara a hacer en el Hip Bar (hasta que LeitoMonk vuelva de sus vacaciones, no tenemos confirmación del hacklab, que es la otra alternativa), es '''muy importante''' tener una idea bastante acabada de la gente que va a venir, así reservamos el salón --(del fondo)-- de abajo con anticipación, y nos aseguramos que haya comida para todos.
 
 Por favor, si pensás que podés venir, anotate en esta lista. Cuanto antes, mejor. La columa encabezada con {*} es para que además pongas una marca (./) si te interesa el servicio de Pizza y Cerveza libre. ¡Gracias!
 
