@@ -35,6 +35,7 @@ Por favor, si pensás que podés venir, anotate en esta lista. Cuanto antes, mej
 ||["AlejandroJCura"]|| (./) ||
 ||MartinSarsale|| (./) ||
 ||NubIs|| (./) ||
+||NicolasPalumbo|| (./) ||
 
 ## Ejemplo de formato:
 ## == Reunión XX - @fecha(dd/mm/yyyy)@ - @lugar@ - @hora@ ==
