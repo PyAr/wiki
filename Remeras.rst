@@ -55,7 +55,7 @@ FacundoBatista dixit:
  * Lucio Torre: 1 XL, 1 L
  * Sergio Gómz: 2 L
  * Luciano Draghi: 1 L
-
+ * Nicolas Palumbo: 1 L
 ----
 == Discusión sobre el diseño ==
 || /!\ Al menos para esta primera etapa, el diseño ya está cerrado. ||
