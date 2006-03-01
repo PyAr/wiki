@@ -13,12 +13,20 @@
 ||<style="background-color:#f0f8fd; width:100%;"> /!\ ~+'''Importante: La fecha, hora y lugar no están 100% confirmados aún.'''+~ ||
 
 === Temario propuesto ===
- * Venta de remeras.
+
+Para esta reunión, tenemos un temario más que jugoso:
+
+ * {*} '''Venta de remeras.'''
+ * {*} '''Sorteo de ''merchandising'' oficial de !PyCon 2006 y 2005.'''
  * Definición de como vamos a vender las remeras a quienes no puedan acercarse el día de la reunión, en particular, como las vamos a distribuir al interior.
- * Charlita de FacundoBatista para contar sus experiencias en !PyCon2006, la Ligthning Talk de PyAr, sprints, etc. También se ofreció a dar una charla sobre Decimal.
- * Ver si se puede afinar algún detalle de la propuesta de viajar a Tucumán. En particular, fijar una fecha en base a nuestras posibilidades.
- * Discutir sobre PyWeek, ver quienes se prenden, de donde podes sacar el arte y pesnar en estrategias.
+ * Experiencias de FacundoBatista en !PyCon 2006
+   * Charla general, resultado de la Ligthning Talk de PyAr, sprints, etc.
+   * Resultado de la venta de remeras.
+   * {*} Detalles sobre la posibilidad de que la PSF financie el viaje de algún exponente de Python para CaFeCONF 2006
+ * {*} Planificación primer reunión de PyAr fuera de Cap. Fed: Tratar de fijar una fecha y contenido para una posible reunión en Tucumán.
+ * Discutir sobre !PyWeek, ver quienes se prenden, de donde podes sacar el arte y pensar en estrategias.
  * Pre-masticar la idea de encarar la traducción al español de la documentación oficial de Python.
+ * Si hay tiempo y ''quorum'': Charla de FacundoBatista sobre Decimal.
 
 === Asistentes ===
 
