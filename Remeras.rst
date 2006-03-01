@@ -1,4 +1,3 @@
-#acl All:read,write
 = Remeras de PyAr =
 Adjuntamos el diseño de las remeras de PyAr, versión 1.0 ;-)
 
@@ -22,7 +21,7 @@ Para aquellos que recién se suman a la iniciativa de las remeras (por lejos, la
 ... la lista no es taxativa, pero debería servir para ponerte en tema.
 
 == Reservá tu remera ==
-|| /!\ La gente que esté anotada en esta lista, tiene prioridad sobre el resto. El stock inicial es de 100 remeras. ||
+|| /!\ La gente que esté anotada en esta lista, tiene prioridad sobre el resto. El stock inicial es de 100 remeras. '''La lista se cerró el 01/03/2006'''. Oportunamente informaremos como adquirir remeras por otra vía, si queda un excedente. ||
 
 
 FacundoBatista dixit:
