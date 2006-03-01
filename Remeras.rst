@@ -57,7 +57,9 @@ FacundoBatista dixit:
  * Nicolas Palumbo: 1 L
 
 === Sujetos a disponibilidad ===
- * Sebastián Bassi: 1 XL
+ * Sebastián Bassi (Balcarce): 1 XL
+ * Ariel Nardelli (Reconquista, S. Fe): 1 XL
+
 ----
 == Discusión sobre el diseño ==
 || /!\ Al menos para esta primera etapa, el diseño ya está cerrado. ||
