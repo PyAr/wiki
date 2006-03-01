@@ -45,6 +45,31 @@ Por favor, si pensás que podés venir, anotate en esta lista. Cuanto antes, mej
 ||NubIs|| (./) ||
 ||NicolasPalumbo|| (./) ||
 
+
+[[BR]]
+----
+=== Release Procedure ===
+   1. Tareas comunes
+         1. --(Proponer la reunión)--
+         2. --(Obtener un mínimo de personas interesadas)--
+         3. --(Fijar fecha y lugar tentativos)--
+         4. --(Seguir el !ReleaseProcedure)--
+         5. --(Generar el temario)--
+         6. --(Armar una lista de asistentes)--
+         7. Fijar fecha y lugar definitivos
+         8. Definir quien dirigirá la reunión
+         9. Publicar recordatorios en la lista
+        10. Publicar recordatorios el día de la reunión
+   2. Tareas específicas
+         1. Reuniones en el Hip Bar
+               1. Reservar el salón de abajo
+               2. Pedir que vayan de compras
+   3. Tareas posteriores a la reunión
+         1. Eliminar el anuncio de la página de Inicio
+         2. Editar ProximaReunion
+         3. Confeccionar la minuta
+
+
 ## Ejemplo de formato:
 ## == Reunión XX - @fecha(dd/mm/yyyy)@ - @lugar@ - @hora@ ==
 
