@@ -18,6 +18,8 @@
 ##irss topic PyAr - Python Argentina
 ##irss descr Últimas noticias
 ## ULTIMAS_START
+==== 01/03/2006 ====
+ * '''¡Sorteo!''' FacundoBatista está trayendo algo de ''merchandising'' oficial de !PyCon 2005 y 2006 desde Dallas, y lo vamos a sortear en la [wiki:Eventos/Reuniones/ProximaReunion próxima reunión]. Los detalles se discutieron durante los últimos días en la ListaDeCorreo. El sorteo se realizará entre aquellas personas suscriptas a dicha lista, __que enviaron al menos un mensaje dentro de los 120 días anteriores al 26/02/2006__ (que fue el día que Facundo propuso el sorteo). Trataremos de organizar este tipo de sorteos periódicamente, y con ellos, fomentar una participación más activa en PyAr.
 ==== 24/02/2006 ====
  * Estamos planificando la reunión 14. Fecha y lugar __tentativos__: 08/03/2006, Hip Bar. Ya está habilitada la página [wiki:Eventos/Reuniones/ProximaReunion ProximaReunion] para que te anotes y colabores en el temario.
 ==== 21/02/2006 ====
