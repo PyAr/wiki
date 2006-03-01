@@ -27,6 +27,7 @@ Para esta reunión, tenemos un temario más que jugoso:
  * Discutir sobre !PyWeek, ver quienes se prenden, de donde podes sacar el arte y pensar en estrategias.
  * Pre-masticar la idea de encarar la traducción al español de la documentación oficial de Python.
  * Si hay tiempo y ''quorum'': Charla de FacundoBatista sobre Decimal.
+ * Comentar acerca de la charla en macstation y las posibilidades de organizar algo similar desde pyar.
 
 === Asistentes ===
 
