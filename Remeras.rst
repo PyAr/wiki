@@ -55,6 +55,9 @@ FacundoBatista dixit:
  * Sergio Gómz: 2 L
  * Luciano Draghi: 1 L
  * Nicolas Palumbo: 1 L
+
+=== Sujetos a disponibilidad ===
+ * Sebastián Bassi: 1 XL
 ----
 == Discusión sobre el diseño ==
 || /!\ Al menos para esta primera etapa, el diseño ya está cerrado. ||
