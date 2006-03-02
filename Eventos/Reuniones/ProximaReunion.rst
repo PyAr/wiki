@@ -10,8 +10,6 @@
 
 == Reunión 14 - 08/03/2006 - Hip Bar - 19:00hs ==
 
-||<style="background-color:#f0f8fd; width:100%;"> /!\ ~+'''Importante: La fecha, hora y lugar no están 100% confirmados aún.'''+~ ||
-
 === Temario propuesto ===
 
 Para esta reunión, tenemos un temario más que jugoso:
@@ -57,7 +55,7 @@ Por favor, si pensás que podés venir, anotate en esta lista. Cuanto antes, mej
          4. --(Seguir el !ReleaseProcedure)--
          5. --(Generar el temario)--
          6. --(Armar una lista de asistentes)--
-         7. Fijar fecha y lugar definitivos
+         7. --(Fijar fecha y lugar definitivos)--
          8. Definir quien dirigirá la reunión
          9. Publicar recordatorios en la lista
         10. Publicar recordatorios el día de la reunión
