@@ -8,7 +8,7 @@
 ## Te sugerimos consultar nuestro [wiki:Eventos/Reuniones/ReleaseProcedure ReleaseProcedure] para
 ## tener una idea de como organizar una reunión.
 
-== Reunión 14 - 08/03/2006 - Hip Bar - 19:00hs ==
+== Reunión 14 - 08/03/2006 - HipBar - 19:00hs ==
 
 === Temario propuesto ===
 
