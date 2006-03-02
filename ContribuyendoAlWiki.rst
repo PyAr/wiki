@@ -11,4 +11,4 @@ En cuanto al contenido, damos los siguientes consejos:
  * Si mencionas alguna sección del wiki, poné el link a dicha sección.
  * Cuando hagas modificaciones, escribí el comentario acerca de cual fue la modificación. (es mejor hablar de "Tal" modificación, que de "La modificacion de fecha Tanto")
  * No tiene porque estar todo en castellano, podés usar palabras en inglés que sean bastante conocidas, pero si estas citando a alguien por ejemplo, la cita estaria bueno traducirla al castellano.
- * Es recomendable, al momento de nombrar a otros miembros del grupo, poner el link a su perfil, y sobre todo, no utilizar el prefijo indicativo "Un tal", mucho menos si al que estamos haciendo referencia es a un tal PabloZilliani 
+ * Es recomendable, al momento de nombrar a otros miembros del grupo, poner el link a su perfil, y sobre todo, no utilizar el prefijo indicativo "Un tal", mucho menos si al que estamos haciendo referencia es a un tal PabloZiliani 
