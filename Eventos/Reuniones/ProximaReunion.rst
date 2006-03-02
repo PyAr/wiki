@@ -9,14 +9,10 @@
 ## tener una idea de como organizar una reunión.
 
 
----- /!\ '''Edit conflict - other version:''' ----
-== Reunión 14 - 08/03/2006 - ["HipBar"] - 19:00hs ==
 
----- /!\ '''Edit conflict - your version:''' ----
 == Reunión 14 - 08/03/2006 - HipBar - 19:00hs ==
 (ver info sobre HipBar)
 
----- /!\ '''End of edit conflict''' ----
 
 === Temario propuesto ===
 
