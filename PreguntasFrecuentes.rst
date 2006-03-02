@@ -96,3 +96,6 @@ Probablemente los sprints de PyAr no duren 3 a 5 días, al menos al principio...
 
 == ¿Qué es el ''Hip Bar''? ==
 El Hip Bar es el pub donde organizamos la mayoría de los encuentros en Capital Federal. Queda en '''Hipólito Yrigoyen 640''', en el microcentro. Tradicionalmente nos reunimos en la parte de atrás del pub. Durante mucho tiempo, estuvimos creídos que el lugar se llamaba ''Hip Hop''... si encontrás en el portal o en la lista referencias a ese lugar, tené en cuenta que se trata del mismo pub.
+
+== ¿Como contribuyo al Wiki? ==
+En la sección ContribuyendoAlWiki vas a encontrar todo ('''todo''' se refiere a dos cositas nomás) lo que necesitás para poder empezar a contribuir al wiki.
