@@ -61,8 +61,8 @@ Por favor, si pensás que podés venir, anotate en esta lista. Cuanto antes, mej
         10. Publicar recordatorios el día de la reunión
    2. Tareas específicas
          1. Reuniones en el Hip Bar
-               1. Reservar el salón de abajo
-               2. Pedir que vayan de compras
+               1. --(Reservar el salón de abajo)--
+               2. --(Pedir que vayan de compras)--
    3. Tareas posteriores a la reunión
          1. Eliminar el anuncio de la página de Inicio
          2. Editar ProximaReunion
