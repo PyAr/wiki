@@ -4,14 +4,14 @@ Antes que nada ¡FELICITACIONES!
 
 Ahora, ¿a dónde podrías recurrir para obtener información que te inicie en la programación ''pythonesca''? Bueno, estos son algunos libros que se propusieron en la ListaDeCorreo. De todos modos, no dudes en preguntar.
 
- * Este es de conceptos generales de programación usando Python: [http://www.ibiblio.org/obp/thinkCSpy/index.htm]
+ * [http://www.ibiblio.org/obp/thinkCSpy/index.htm How to Think Like a Computer Scientist] es de conceptos generales de programación usando Python.
 
- * Libro para iniciarse en Python, el autor proclama que es para quien lo unico que sabe de computacion es grabar un archivo: [http://www.byteofpython.info]
+ * [http://www.byteofpython.info Byte of Python] es un libro para iniciarse en Python, el autor proclama que es para quien lo unico que sabe de computación es grabar un archivo.
 
- * ''Sumergite en Python'', está en varios idiomas, se viene escribiendo/actualizando hace bastante, y viene con Ubuntu: [http://www.diveintopython.org/]
+ * [http://www.diveintopython.org/ Dive into Python], está en varios idiomas, se viene escribiendo/actualizando hace bastante, y viene con Ubuntu. [http://es.diveintopython.org/ Inmersión en Python] es la versión en castellano y ya han sido traducidos algunos capitulos.
 
- * Listado de libros acerca de Python y otras cosas, los cuales son con fines demostrativos y tienen que ser borrados antes de que transcurran 24 horas de haberlos bajado. (Muchos coincidimos en que la interfaz del libro impreso es más amigable.): [http://www.miex.org/book.html]
+ * [http://www.miex.org/book.html Un listado de libros] acerca de Python y otras cosas, los cuales son con fines demostrativos y tienen que ser borrados antes de que transcurran 24 horas de haberlos bajado. (Muchos coincidimos en que la interfaz del libro impreso es más amigable.)
 
- * ''Instant Python'' es un curso de entrenamiento corto e intensivo: [http://www.hetland.org/python/instant-python.php]
+ * [http://www.hetland.org/python/instant-python.php Instant Python] es un curso de entrenamiento corto e intensivo.
 
- * Y por último, el único, original e inimitable, clásico de clásicos que casi todos en la lista usamos para empezar: el ''Tutorial de Python'' [http://www.python.org/doc/tut/]
+ * Y por último, el único, original e inimitable, clásico de clásicos que casi todos en la lista usamos para empezar: el [http://www.python.org/doc/tut/ Tutorial de Python]
