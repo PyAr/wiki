@@ -25,7 +25,7 @@ Para esta reunión, tenemos un temario más que jugoso:
  * Comentar acerca de la charla en macstation y las posibilidades de organizar algo similar desde pyar.
 
 === Asistentes ===
-Si la reunión se llegara a hacer en el Hip Bar (hasta que LeitoMonk vuelva de sus vacaciones, no tenemos confirmación del hacklab, que es la otra alternativa), es '''muy importante''' tener una idea bastante acabada de la gente que va a venir, así reservamos el salón --(del fondo)-- de abajo con anticipación, y nos aseguramos que haya comida para todos.
+Es '''muy importante''' tener una idea bastante acabada de la gente que va a venir, así reservamos el salón --(del fondo)-- de abajo del HipBar con anticipación, y nos aseguramos que haya comida para todos.
 
 Por favor, si pensás que podés venir, anotate en esta lista. Cuanto antes, mejor. La columa encabezada con {*} es para que además pongas una marca (./) si te interesa el servicio de Pizza y Cerveza libre. ¡Gracias!
 
@@ -64,7 +64,7 @@ Por favor, si pensás que podés venir, anotate en esta lista. Cuanto antes, mej
    1. --(Pedir que vayan de compras)--
  1. Tareas posteriores a la reunión
   1. Eliminar el anuncio de la página de Inicio
-  1. Editar ProximaReunion
+  1. Editar [wiki:Eventos/Reuniones/ProximaReunion ProximaReunion]
   1. Confeccionar la minuta
 
 ## Ejemplo de formato:
