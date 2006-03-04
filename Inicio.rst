@@ -2,7 +2,7 @@
 #language es
 #pragma keywords Python, PyAr, Python Argentina, user group, grupo de usuarios, community portal
 
-||<tablestyle="width:100%; color: red; text-align:center;"> {*} ~+''El miércoles 8 de febrero, decimocuarta reunión de PyAr. Más detalles [wiki:Eventos/Reuniones/ProximaReunion aquí].''+~ ||
+||<tablestyle="width:100%; color: red; text-align:center;"> {*} ~+''El miércoles 8 de marzo, decimocuarta reunión de PyAr. Más detalles [wiki:Eventos/Reuniones/ProximaReunion aquí].''+~ ||
 
 = Bienvenido a PyAr - Python Argentina =
 
