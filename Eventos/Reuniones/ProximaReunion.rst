@@ -44,6 +44,7 @@ Por favor, si pensás que podés venir, anotate en esta lista. Cuanto antes, mej
 ||PabloZiliani || (./) ||
 ||LeitoMonk ||  ||
 ||SantiagoPereson || (./) ||
+||GuillermoNarvaja || (./) ||
 
 [[BR]]
 ----
