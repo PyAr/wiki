@@ -59,7 +59,7 @@ Por favor, si pensás que podés venir, anotate en esta lista. Cuanto antes, mej
   1. --(Fijar fecha y lugar definitivos)--
   1. --(Definir quien dirigirá la reunión)--
   1. --(Publicar recordatorios en la lista)--
-  1. Publicar recordatorios el día de la reunión
+  1. --(Publicar recordatorios el día de la reunión)--
  1. Tareas específicas
   1. Reuniones en el Hip Bar
    1. --(Reservar el salón de abajo)--
