@@ -45,6 +45,8 @@ Por favor, si pensás que podés venir, anotate en esta lista. Cuanto antes, mej
 ||LeitoMonk ||  ||
 ||SantiagoPereson || (./) ||
 ||GuillermoNarvaja || (./) ||
+||Sergio Gómez|| (./) ||
+
 
 [[BR]]
 ----
@@ -66,7 +68,7 @@ Por favor, si pensás que podés venir, anotate en esta lista. Cuanto antes, mej
    1. --(Pedir que vayan de compras)--
  1. Tareas posteriores a la reunión
   1. Eliminar el anuncio de la página de Inicio
-  1. Editar [wiki:Eventos/Reuniones/ProximaReunion ProximaReunion]
+  1. Editar [""]
   1. Confeccionar la minuta
 
 ## Ejemplo de formato:
