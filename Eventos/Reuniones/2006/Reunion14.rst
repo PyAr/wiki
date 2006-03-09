@@ -34,7 +34,7 @@
       ||SergioGomez||1 Remera L PyCon2005|| (./) ||
       ||PabloCarballo||1 Remera X PyCon2006|| {*} ||
 
-   Si ganáste, tenés una semana para reclamar tu premio, lo que sobre, se sortea en la próxima reunión.
+   Si ganáste, tenés una semana para reclamar tu premio, lo que sobre, se sortea en la próxima reunión. Si sos de interior y no querés venir a Capital Federal a buscar tu premio, Facundo te lo puede enviar por correo, con la misma modalidad que las compras de las remeras (ver arriba).
 
  * Experiencias de FacundoBatista en !PyCon 2006
   * Charla general, resultado de la Ligthning Talk de PyAr, sprints, etc.
