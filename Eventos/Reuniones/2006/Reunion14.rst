@@ -34,7 +34,7 @@
 
    Si ganáste, tenés una semana para reclamar tu premio, lo que sobre, se sortea en la próxima reunión.
 
-* Experiencias de FacundoBatista en !PyCon 2006
+ * Experiencias de FacundoBatista en !PyCon 2006
   * Charla general, resultado de la Ligthning Talk de PyAr, sprints, etc.
     Nos contó FacundoBatista que la Ligthning Talk fue bastante bien, (sirvió también para hacer propaganda de las remeras), una de las preguntas mas importantes que hizo la audiencia fue acerca de la presencia de python en las universidades. La cual ahora que AlfonsoPalomares se va a italia, va a ser (al menos casi) None. Estuvimos de acuerdo en que el punto al que hay que entrar con python es la UTN, dando un curso de varias clases. Y también se hablo de dar charlas y subirse al trabajo promocional de las grandes empresas, por ejemplo MartinSarsale dijo "Programa mejor en .NET usando IronPython", también tenemos para organizar charlas mas para managers, para que el empuje no sea siempre desde abajo.
     En cuanto a traer algun exponente de python (GuidoVanRossum o AlexMartelli por ejemplo) FacundoBatista confirmó que el dinero estaria en la PSF justamente para este tipo de cosas, y LeitoMonk nos dijo que en cafeconf serian seguramente keynote, lo que le daria cierta presencia al lenguaje. Si bien el keynote debiera ser no muy técnico y mas evangelizador, a parte se podria hacer una charla técnica dentro de la conferencia. La otra posibilidad era USUARIA2006 que al parecer no se va a hacer :(
