@@ -12,9 +12,9 @@
       Sobraron remeras y todavia hay reservas por satisfacer, para mas info acerca de stock, entrar en ["Remeras"]
 Para los que están en el interior y quieren su remera, el mecanismo es el siguiente: Depositan el importe de la remera y el envio en la cuenta de FacundoBatista y el se las envia por correo argentino.
    * {*} '''Sorteo de ''merchandising'' oficial de !PyCon 2006 y 2005.'''
-      El sorteo fue lo segundo que hicimos. A la lista de participantes se agregó SergioGomez ya que tiene problemas para registrarse y por eso no participó hasta ahora, y también la agregamos a Purpura porque tenia una cartera de Debian (debian vieja!!). AlejandroWeil puso la notebook, que ["AlejandroJCura"], LeandroMonk y Purpura (que viene desde Colombia) usaron para hacer el sorteo.    Se le asigno un numero de indice a cada uno de los que estaba en la lista de inscriptos. Se hizo una lista en python, se mezclo, y se fue haciendo un pop() de esa lista randomizada. Hubo tensión al principio porque el primer ganador fue el indice 0... pero al final estaba bien randomizada la lista :).
-      Los items se sortearon de la siguiente forma: Primero todas las remeras PyCon2005 y PyCon2006, luego todas las bolsas de PyCon2006 vacias. Despues una bolsa de PyCon2006 llena con remera incluida, y por ultimo la taza termica PyCon2006.
-La lista de ganadores fué la siguiente (los marcados con (./) son los que ya retiraron su premio)
+      El sorteo fue lo segundo que hicimos. A la lista de participantes se agregó SergioGomez ya que tiene problemas para registrarse  y por eso no participó hasta ahora, y también la agregamos a Purpura porque tenia una cartera de Debian (debian vieja!!).  AlejandroDavidWeil puso la notebook, que ["AlejandroJCura"], LeitoMonk y Purpura (que viene desde Colombia) usaron para hacer el sorteo.    Se le asigno un numero de indice a cada uno de los que estaba en la lista de inscriptos. Se hizo una lista en python, se  mezclo, y se fue haciendo un pop() de esa lista randomizada. Hubo tensión al principio porque el primer ganador fue el indice 0... pero al final estaba bien randomizada la lista :).
+      Los items se sortearon de la siguiente forma: Primero todas las remeras PyCon2005 y PyCon2006, luego todas las bolsas de   PyCon2006 vacias. Despues una bolsa de PyCon2006 llena con remera incluida, y por ultimo la taza termica PyCon2006.
+      La lista de ganadores fué la siguiente (los marcados con (./) son los que ya retiraron su premio)
       ||Pythonista||Premio|| ||
       ||ArielNardelli||Vaso térmico PyCon2006|| ||
       ||MilenaArmada||Bolsa completa PyCon2006|| (./) ||
@@ -27,7 +27,7 @@ La lista de ganadores fué la siguiente (los marcados con (./) son los que ya re
       ||LeandroFedericoBachwitz||1 Remera XL PyCon2005|| ||
       ||MauroCaceres||1 Remera XL PyCon2005|| ||
       ||PabloBesada||1 Remera XL PyCon2005|| ||
-      ||AlejandroWeil||1 Remera L PyCon2005|| (./) ||
+      ||AlejandroDavidWeil||1 Remera L PyCon2005|| (./) ||
       ||RobertoAlsina||1 Remera XL PyCon2005|| ||
       ||SergioGomez||1 Remera L PyCon2005|| (./) ||
       ||PabloCarballo||1 Remera X PyCon2006|| ||
@@ -37,15 +37,15 @@ La lista de ganadores fué la siguiente (los marcados con (./) son los que ya re
 * Experiencias de FacundoBatista en !PyCon 2006
   * Charla general, resultado de la Ligthning Talk de PyAr, sprints, etc.
     Nos contó FacundoBatista que la Ligthning Talk fue bastante bien, (sirvió también para hacer propaganda de las remeras), una de las preguntas mas importantes que hizo la audiencia fue acerca de la presencia de python en las universidades. La cual ahora que AlfonsoPalomares se va a italia, va a ser (al menos casi) None. Estuvimos de acuerdo en que el punto al que hay que entrar con python es la UTN, dando un curso de varias clases. Y también se hablo de dar charlas y subirse al trabajo promocional de las grandes empresas, por ejemplo MartinSarsale dijo "Programa mejor en .NET usando IronPython", también tenemos para organizar charlas mas para managers, para que el empuje no sea siempre desde abajo.
-    En cuanto a traer algun exponente de python (GuidoVanRossum o AlexMartelli por ejemplo) FacundoBatista confirmó que el dinero estaria en la PSF justamente para este tipo de cosas, y LeandroMonk nos dijo que en cafeconf serian seguramente keynote, lo que le daria cierta presencia al lenguaje. Si bien el keynote debiera ser no muy técnico y mas evangelizador, a parte se podria hacer una charla técnica dentro de la conferencia. La otra posibilidad era USUARIA2006 que al parecer no se va a hacer :(
+    En cuanto a traer algun exponente de python (GuidoVanRossum o AlexMartelli por ejemplo) FacundoBatista confirmó que el dinero estaria en la PSF justamente para este tipo de cosas, y LeitoMonk nos dijo que en cafeconf serian seguramente keynote, lo que le daria cierta presencia al lenguaje. Si bien el keynote debiera ser no muy técnico y mas evangelizador, a parte se podria hacer una charla técnica dentro de la conferencia. La otra posibilidad era USUARIA2006 que al parecer no se va a hacer :(
 
  * {*} Planificación primer reunión de PyAr fuera de Cap. Fed: Tratar de fijar una fecha y contenido para una posible reunión en Tucumán.
    La idea para hacer charlas o talleres fuera de capital decidimos que seria mejor arreglar con grupos de usuarios locales para que solo tengamos que enviar a un representante. Se podria financiar el viaje del representante con fondos de PyAr, y podria llevar merchandising para recaudar mas fondos en el viaje.
-   En cuanto a Tucumán, organizamos con MauricioFerrari para el 1 de mayo, los que van a ir son LucioTorre, AlejandroWeil, FacundoBatista y la novia, que es psicopedagoga y tras un breve debate donde se expusieron varios puntos de vista acerca de las actividades laborales conjuntas que podria realizar la pareja, llegamos a la conclusión unánime de que...Facundo esta hasta las manos.
+   En cuanto a Tucumán, organizamos con MauricioFerrari para el 1 de mayo, los que van a ir son LucioTorre, AlejandroDavidWeil, FacundoBatista y la novia, que es psicopedagoga y tras un breve debate donde se expusieron varios puntos de vista acerca de las actividades laborales conjuntas que podria realizar la pareja, llegamos a la conclusión unánime de que...Facundo esta hasta las manos.
    El NERDcamp del que se habló en un momento no se podria hacer por el momento, ya que es muy complicado de organizar.
 
  * Discutir sobre !PyWeek, ver quienes se prenden, de donde podes sacar el arte y pensar en estrategias.
-  ["AlejandroJCura"] nos contó un poco de pyweek, hacer un juego en una semana, limitandose a usar librerias públicas, y utilizando una    temática que se revela el dia de inicio de la competencia. Ya podriamos empezar a aprender a usar las librerias, montando un subversion, trac, etc, para que llegue la semana y empezamos a programar, esta charla la seguimos en la ListaDeCorreo. En cuanto al arte, LeandroMonk se ofreció a hacer el sonido/musicalización.
+  ["AlejandroJCura"] nos contó un poco de pyweek, hacer un juego en una semana, limitandose a usar librerias públicas, y utilizando una    temática que se revela el dia de inicio de la competencia. Ya podriamos empezar a aprender a usar las librerias, montando un subversion, trac, etc, para que llegue la semana y empezamos a programar, esta charla la seguimos en la ListaDeCorreo. En cuanto al arte, LeitoMonk se ofreció a hacer el sonido/musicalización.
    Y hablando de la 'fisica' y jugabilidad, LucioTorre dijo que son un aspecto importante que 'te tiñe toda la percepción'
 
  * Pre-masticar la idea de encarar la traducción al español de la documentación oficial de Python.
