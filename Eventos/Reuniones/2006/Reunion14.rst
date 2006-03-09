@@ -14,7 +14,9 @@
    * {*} '''Sorteo de ''merchandising'' oficial de !PyCon 2006 y 2005.'''
       El sorteo fue lo segundo que hicimos. A la lista de participantes se agregó SergioGomez ya que tiene problemas para registrarse  y por eso no participó hasta ahora, y también la agregamos a Purpura porque tenia una cartera de Debian (debian vieja!!).  AlejandroDavidWeil puso la notebook, que ["AlejandroJCura"], LeitoMonk y Purpura (que viene desde Colombia) usaron para hacer el sorteo.    Se le asigno un numero de indice a cada uno de los que estaba en la lista de inscriptos. Se hizo una lista en python, se  mezclo, y se fue haciendo un pop() de esa lista randomizada. Hubo tensión al principio porque el primer ganador fue el indice 0... pero al final estaba bien randomizada la lista :).
       Los items se sortearon de la siguiente forma: Primero todas las remeras PyCon2005 y PyCon2006, luego todas las bolsas de   PyCon2006 vacias. Despues una bolsa de PyCon2006 llena con remera incluida, y por ultimo la taza termica PyCon2006.
-      La lista de ganadores fué la siguiente (los marcados con (./) son los que ya retiraron su premio)
+      La lista de ganadores fué la siguiente
+         * Los marcados con (./) son los que ya retiraron su premio.
+         * Los marcados con {*} son los que confirmaron que están enterados que ganaron algo, y está pendiente la entrega.
       ||Pythonista||Premio|| ||
       ||ArielNardelli||Vaso térmico PyCon2006|| ||
       ||MilenaArmada||Bolsa completa PyCon2006|| (./) ||
@@ -30,7 +32,7 @@
       ||AlejandroDavidWeil||1 Remera L PyCon2005|| (./) ||
       ||RobertoAlsina||1 Remera XL PyCon2005|| ||
       ||SergioGomez||1 Remera L PyCon2005|| (./) ||
-      ||PabloCarballo||1 Remera X PyCon2006|| ||
+      ||PabloCarballo||1 Remera X PyCon2006|| {*} ||
 
    Si ganáste, tenés una semana para reclamar tu premio, lo que sobre, se sortea en la próxima reunión.
 
