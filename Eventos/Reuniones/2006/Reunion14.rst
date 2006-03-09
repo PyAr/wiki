@@ -23,7 +23,7 @@
       ||SebastianBassi||1 bolsa vacia PyCon2006|| ||
       ||["AlejandroJCura"]||1 bolsa vacia PyCon2006|| (./) ||
       ||AlfonsoPalomares||1 bolsa vacia PyCon2006|| (./) ||
-      ||AlbertoBertogli||1 Remera L PyCon2005|| ||
+      ||AlbertoBertogli||1 Remera L PyCon2005|| {*} ||
       ||FacundoEspinas||1 Remera XL PyCon2005|| ||
       ||FernandoRuss||1 Remera L PyCon2005|| (./) ||
       ||LeandroFedericoBachwitz||1 Remera XL PyCon2005|| ||
