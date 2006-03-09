@@ -19,7 +19,7 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 ==== 8/03/2006 ====
- * Realizamos la decimocuarta reunión de PyAr que fué todo un éxito, si te la perdiste, podés ver un resumen en [wiki:Eventos/Reuniones/Reunion14]
+ * Realizamos la decimocuarta reunión de PyAr que fué todo un éxito, si te la perdiste, podés ver un resumen en [wiki:Eventos/Reuniones/Reunion14 Reunion14]
 ==== 01/03/2006 ====
  * '''¡Sorteo!''' FacundoBatista está trayendo algo de ''merchandising'' oficial de !PyCon 2005 y 2006 desde Dallas, y lo vamos a sortear en la [wiki:Eventos/Reuniones/ProximaReunion próxima reunión]. Los detalles se discutieron durante los últimos días en la ListaDeCorreo. El sorteo se realizará entre aquellas personas suscriptas a dicha lista, __que enviaron al menos un mensaje dentro de los 120 días anteriores al 26/02/2006__ (que fue el día que Facundo propuso el sorteo). Trataremos de organizar este tipo de sorteos periódicamente, y con ellos, fomentar una participación más activa en PyAr.
 ==== 24/02/2006 ====
