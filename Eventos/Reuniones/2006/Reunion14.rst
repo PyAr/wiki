@@ -63,6 +63,6 @@
     No hubo tiempo, se nos fué el orador :(
 
  * Comentar acerca de la charla en macstation y las posibilidades de organizar algo similar desde PyAr.
-    Y eramos pocos (9) en el desolado HipBar, hablamos un poco de la charla en macstation, la pregunta fué ''¿Qué tipo de gente va a una charla de python en MacStation?', y sí, es un nicho medio extraño, pero fueron bastantes estudiantes, algunos ingenieros que trabajan en otros lenguajes, y otros curiosos. La idea del orador de todos modos era difundir el lenguaje orientado a todas las plataformas soportadas, entre las cuales esta mac, que no es soportada por ningún desarrollador específico en la región.
+    Y eramos pocos (9) en el desolado HipBar, hablamos un poco de la charla en macstation, la pregunta fué ''¿Qué tipo de gente va a una charla de python en MacStation?'', y sí, es un nicho medio extraño, pero fueron bastantes estudiantes, algunos ingenieros que trabajan en otros lenguajes, y otros curiosos. La idea del orador de todos modos era difundir el lenguaje orientado a todas las plataformas soportadas, entre las cuales esta mac, que no es soportada por ningún desarrollador específico en la región.
 
-A eso de las 23:30 se marcho el novato escriba (yo), dejando un pedido de llevar mas cerveza a una sorprendida Lana que miró con cara de 'van a seguir escabiando'?
+A eso de las 23:30 se marcho el novato escriba (yo), dejando un pedido de llevar mas cerveza a una sorprendida Lana que miró con cara de ''¿van a seguir escabiando?''
