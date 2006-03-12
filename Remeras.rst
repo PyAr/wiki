@@ -28,11 +28,13 @@ FacundoBatista dixit:
 
  ''Definiendo tamaños (si se agregan acá los considero con fuerte intención de compra). Hay M, L y XL para elegir (como referencia, para mí, Facu, sería L (dije que era una referencia, no que fuese útil))''
 
+{i} Las personas que están tachadas, ya recibieron su remera.
+
  * Facundo Batista: 3 L, 1 M
  * Mario Zorz: 3 M
  * Alfonso Palomares: 2 M, 3 L, 1 XL
  * Pablo Ziliani: 1 L
- * Mariano Draghi: 1 M, 1 L
+ * --(Mariano Draghi: 1 M, 1 L)--
  * Nubis: 1 XL, 1 L
  * Roberto Alsina: 2XL
  * Mauro Caceres (Cordoba): 1 L
@@ -53,14 +55,22 @@ FacundoBatista dixit:
  * Alejandro J. Cura: 2 XL, una para Glyph Lefkowitz
  * Lucio Torre: 1 XL, 1 L
  * Sergio Gómz: 2 L
- * Luciano Draghi: 1 L
+ * --(Luciano Draghi: 1 L)--
  * Nicolas Palumbo: 1 L
 
 === Sujetos a disponibilidad ===
  * Sebastián Bassi (Balcarce): 1 XL
  * Ariel Nardelli (Reconquista, S. Fe): 1 XL
 
-----
+=== Stock disponible al dd/mm/yyyy ===
+
+||Talle||Cantidad||
+||M||?||
+||L||?||
+||XL||?||
+
+[[BR]]
+-----
 == Discusión sobre el diseño ==
 || /!\ Al menos para esta primera etapa, el diseño ya está cerrado. ||
 
