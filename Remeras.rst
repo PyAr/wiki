@@ -12,11 +12,11 @@ Si quieren, también pueden bajarse la versión SVG: attachment:remeras.svg
 == Un poco de historia ==
 Para aquellos que recién se suman a la iniciativa de las remeras (por lejos, la de más historia en la corta vida de PyAr...), les dejamos los links a los threads relevantes de la lista donde se tocó este tema:
 
- * 28/01/2005 - [http://mx.grulic.org.ar/archiver/html/pyar/2005-01/msg00082.html Remeras PyAr - una propuesta]
- * 25/02/2005 - [http://mx.grulic.org.ar/archiver/html/pyar/2005-02/msg00065.html PyCon 2005]
- * 06/06/2005 - [http://mx.grulic.org.ar/archiver/html/pyar/2005-06/msg00002.html Se viene la reunión DIEZ !!!]
- * 07/01/2006 - [http://mx.grulic.org.ar/archiver/html/pyar/2006-01/msg00017.html Remeras]
- * 10/01/2006 - [http://mx.grulic.org.ar/archiver/html/pyar/2006-01/msg00032.html Remeras]
+ * 28/01/2005 - [http://mx.grulic.org.ar/lurker/message/20050128.154413.918a2b22.es.html Remeras PyAr - una propuesta]
+ * 25/02/2005 - [http://mx.grulic.org.ar/lurker/message/20050225.124556.6a6584fd.es.html PyCon 2005]
+ * 06/06/2005 - [http://mx.grulic.org.ar/lurker/message/20050606.170755.c2fe7e8c.es.html Se viene la reunión DIEZ !!!]
+ * 07/01/2006 - [http://mx.grulic.org.ar/lurker/message/20060107.161546.7197cd1a.es.html Remeras]
+ * 10/01/2006 - [http://mx.grulic.org.ar/lurker/message/20060110.174505.1644d591.es.html Remeras]
 
 ... la lista no es taxativa, pero debería servir para ponerte en tema.
 
