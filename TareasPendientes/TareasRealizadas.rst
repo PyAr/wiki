@@ -12,7 +12,7 @@ Esta es la lista de TareasPendientes que ya fueron completadas.
 
  * Archivo de la lista de mail general (Deberia filtrar las direcciones)
 
-   * [http://mx.grulic.org.ar/archiver/html/pyar/ Archivo]
+   * [http://mx.grulic.org.ar/lurker/list/pyar.html Archivo]
 
 
 == Sitio ==
