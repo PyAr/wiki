@@ -23,7 +23,7 @@ La lista de correo de PyAr está abierta a todos los interesados en Python, y es
 
 == Archivo ==
 
-Si querés ver el histórico de la lista de correo de PyAr, te podés fijar en el [http://mx.grulic.org.ar/lurker/list/pyar.html archivo].
+Si querés ver el histórico de la lista de correo de PyAr, te podés fijar en el [http://mx.grulic.org.ar/lurker/list/pyar.es.html archivo].
 
 El archivo está subscripto recién desde el 19 de enero de 2005, y la lista tiene unos 3 o 4 meses más de antigüedad. Pero desde esa fecha en adelante tiene todo el historial.
 
