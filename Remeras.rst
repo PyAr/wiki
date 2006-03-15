@@ -30,31 +30,31 @@ FacundoBatista dixit:
 
 {i} Las personas que están tachadas, ya recibieron su remera.
 
- * Facundo Batista: 3 L, 1 M
- * Mario Zorz: 3 M
- * Alfonso Palomares: 2 M, 3 L, 1 XL
- * Pablo Ziliani: 1 L
+ * --(Facundo Batista: 3 L, 1 M)--
+ * --(Mario Zorz: 3 M)--
+ * --(Alfonso Palomares: 2 M, 3 L, 1 XL)--
+ * --(Pablo Ziliani: 1 L)--
  * --(Mariano Draghi: 1 M, 1 L)--
- * Nubis: 1 XL, 1 L
+ * --(Nubis: 1 XL, 1 L)--
  * Roberto Alsina: 2XL
  * Mauro Caceres (Cordoba): 1 L
- * Ricardo Kirkner (Buenos Aires): 2 L
- * Santiágo Peresón (Buenos Aires): 2 XL
+ * --(Ricardo Kirkner (Buenos Aires): 2 L)--
+ * --(Santiágo Peresón (Buenos Aires): 2 XL)--
  * Bruno Luciani ( Ramallo , Pcia Bs As): 2 XL
- * Martin Sarsale (AKA Runa): 1 L
- * Guillermo Narvaja: 1 XL
+ * --(Martin Sarsale (AKA Runa): 1 L)--
+ * --(Guillermo Narvaja: 1 XL)--
  * Pablo Maccagnoni: 1 XL
  * Viviana Oviedo: 1 M
  * Rubén Presa: 1 M
- * Guillermo Gonzalez (Buenos Aires): 2 L
- * Leito Monk: 1 M
+ * --(Guillermo Gonzalez (Buenos Aires): 2 L)--
+ * --(Leito Monk: 1 M)--
  * Abel Eduardo: 1 M
  * Mauricio Ferrari (Tucumán): 1 M
  * Sebastián Lezica: 1 M, 2 L
- * Alejandro Weil: 2 L
- * Alejandro J. Cura: 2 XL, una para Glyph Lefkowitz
- * Lucio Torre: 1 XL, 1 L
- * Sergio Gómz: 2 L
+ * --(Alejandro Weil: 2 L)--
+ * --(Alejandro J. Cura: 2 XL, una para Glyph Lefkowitz)--
+ * --(Lucio Torre: 1 XL, 1 L)--
+ * --(Sergio Gómz: 2 L)--
  * --(Luciano Draghi: 1 L)--
  * Nicolas Palumbo: 1 L
 
@@ -62,12 +62,12 @@ FacundoBatista dixit:
  * Sebastián Bassi (Balcarce): 1 XL
  * Ariel Nardelli (Reconquista, S. Fe): 1 XL
 
-=== Stock disponible al dd/mm/yyyy ===
+=== Stock disponible al 08/03/2006 ===
 
 ||Talle||Cantidad||
-||M||?||
-||L||?||
-||XL||?||
+||M||12||
+||L||21||
+||XL||5||
 
 [[BR]]
 -----
