@@ -36,7 +36,7 @@ FacundoBatista dixit:
  * --(Pablo Ziliani: 1 L)--
  * --(Mariano Draghi: 1 M, 1 L)--
  * --(Nubis: 1 XL, 1 L)--
- * Roberto Alsina: 2XL
+ * Roberto Alsina: 2 XL
  * Mauro Caceres (Cordoba): 1 L
  * --(Ricardo Kirkner (Buenos Aires): 2 L)--
  * --(Santiágo Peresón (Buenos Aires): 2 XL)--
@@ -62,12 +62,17 @@ FacundoBatista dixit:
  * Sebastián Bassi (Balcarce): 1 XL
  * Ariel Nardelli (Reconquista, S. Fe): 1 XL
 
-=== Stock disponible al 08/03/2006 ===
+=== PyCon 2006 ===
+ * Donadas: 7 (Guido van Rossum, Tim Peters, Raymond Hettinger, Alex Martelli, Anna Ravenscroft, David Ascher, Bob Ippolito)
+ * Vendidas: 17
 
-||Talle||Cantidad||
-||M||12||
-||L||21||
-||XL||5||
+=== Stock al 08/03/2006 ===
+
+||Talle||||||Cantidad||
+|| ||Stock||Reservada||'''Disponible'''||
+||M||12||5||'''7'''||
+||L||21||4||'''17'''||
+||XL||5||5||'''0'''||
 
 [[BR]]
 -----
