@@ -19,7 +19,7 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 ==== 14/03/2006 ====
- * El archivo de e-mails de la lista cambió de URL. Los enlaces desde el wiki ya están actualizados, pero si tenías bookmarks, te sugerimos los actualices. La nueva URL es [http://mx.grulic.org.ar/lurker/list/pyar.html]. Gracias como siempre a [http://www.grulic.org.ar/ GrULiC] por darnos este servicio, y seguir mejorándolo.
+ * El archivo de e-mails de la lista cambió de URL. Los enlaces desde el wiki ya están actualizados, pero si tenías bookmarks, te sugerimos los actualices. La nueva URL es [http://mx.grulic.org.ar/lurker/list/pyar.es.html]. Gracias como siempre a [http://www.grulic.org.ar/ GrULiC] por darnos este servicio, y seguir mejorándolo.
 ==== 08/03/2006 ====
  * Realizamos la decimocuarta reunión de PyAr que fué todo un éxito, si te la perdiste, podés ver un resumen en [wiki:Eventos/Reuniones/Reunion14 Reunion14]
 ==== 01/03/2006 ====
