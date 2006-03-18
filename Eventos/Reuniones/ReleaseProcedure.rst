@@ -1,12 +1,13 @@
 #acl All:read,write
 #pragma section-numbers 2
 #language es
+||<tablestyle="float:right; font-size: 0.9em; width:40%; margin: 0 0 1em 1em;" style="padding:0.5em;">'''Contenido'''[[BR]][[TableOfContents]]||
 = Release Procedure para las Reuniones =
 
 Las reuniones de PyAr pueden ser propuestas y organizadas por cualquiera de sus miembros, en cualquier lugar del país.
 Estos son los pasos a seguir para organizarlas.
 
-[[TableOfContents]]
+##[[TableOfContents]]
 
 ----
 
