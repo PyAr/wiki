@@ -22,10 +22,10 @@
       ||["AlejandroJCura"]||1 bolsa vacia PyCon2006|| (./) ||
       ||AlfonsoPalomares||1 bolsa vacia PyCon2006|| (./) ||
       ||AlbertoBertogli||1 Remera L PyCon2005|| {*} ||
-      ||FacundoEspinas||1 Remera XL PyCon2005|| ||
-      ||FernandoRuss||1 Remera L PyCon2005|| (./) ||
+      ||FacundoEspinas||1 Remera XL PyCon2005|| {*} ||
+      ||FernandoRuss||1 Remera L PyCon2005|| {*} ||
       ||LeandroFedericoBachwitz||1 Remera XL PyCon2005|| ||
-      ||MauroCaceres||1 Remera XL PyCon2005|| ||
+      ||MauroCaceres||1 Remera XL PyCon2005|| {*} ||
       ||PabloBesada||1 Remera XL PyCon2005|| ||
       ||AlejandroDavidWeil||1 Remera L PyCon2005|| (./) ||
       ||RobertoAlsina||1 Remera XL PyCon2005|| ||
