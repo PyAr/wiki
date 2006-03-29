@@ -78,6 +78,21 @@
 
  * Desde hace un tiempo también utilizamos [http://www.edgewall.com/trac trac] para la gestión del proyecto, tickets y wiki interno.
 
+=== LUNIX S.R.L. ===
+ * Contacto: [[MailTo(lucas AT lunix DOT com DOT ar, Lucas Di Pentima)]]
+
+ * URL: http://www.lunix.com.ar
+
+ * Teléfono: (0342) 455-2760
+
+ * Dirección: Iturraspe 1366, Santa Fe Capital.
+
+ * Utilizamos Python en varios proyectos, los que incluyen una consola gráfica para el servidor de backup Bacula, un sistema automático de conexión y testeo de servidores, un generador automático de informes en OpenOffice.org, webservices para un sistema interno de tickets, y otras herramientas de uso interno.
+
+ * ¿Cómo usamos Python? Uso de todo tipo, desde integración con software escrito en otros lenguajes a sistemas escritos completos en el mismo.
+
+ * Librerías utilizadas: [http://www.pygtk.org/ PyGTK], [http://sf.net/projects/pexpect Pexpect], [http://www.crummy.com/software/BeautifulSoup/ BeautifulSoup], Snack, MySQLdb.
+
 === Movilogic ===
  * Contacto: [[MailTo( info AT movilogic DOT com, Info)]]
 
