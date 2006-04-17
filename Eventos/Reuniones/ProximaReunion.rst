@@ -11,6 +11,7 @@
 ''Para pedir pizza y cerveza libre en caso de hacerse en el hip bar, o fijarnos si hay lugar en caso de hacerce en otro lado (hacklab?)''
 
  * NubIs
+ * [AlejandroJCura alecu]
 
 == Temario ==
 '' El temario aun es tentativo ''
