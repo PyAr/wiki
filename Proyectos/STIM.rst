@@ -1,5 +1,5 @@
 = STIM, Steam, The Incredible Machine =
-STIM es el juego que presentamos en PyAr para la [http://www.pyweek.org/2 segunda edición] de [http://www.pyweek.org PyWeek].
+STIM es el juego que presentamos en PyAr para la [http://www.pyweek.org/2 segunda edición] de [http://www.pyweek.org PyWeek] (una competencia en la cual los participantes, en grupo o individualmente, tienen que programar un juego de un tema determinado en el período de una semana).
 
 El juego consiste en un [http://www.vintage-sierra.com/puzzle/tim.html T.I.M.], en el cual el jugador tiene que construir máquinas (a vapor) para realizar cálculos. 
 
