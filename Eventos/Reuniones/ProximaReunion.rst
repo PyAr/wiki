@@ -12,6 +12,7 @@
 
  * NubIs
  * [wiki:AlejandroJCura alecu]
+ * GuillermoGonzalez
 
 == Temario ==
 '' El temario aun es tentativo ''
@@ -21,7 +22,7 @@
  * Hacemos una lista o algo para separar los offtopics?
  * Sorteo de los items que sobraron de la reunión anterior.
  * [http://www.python-santafe.com.ar/] '''Python Santa Fe! '''
- * Estado actual del proyecto para traducir la documentación (encabezado por GuillermoGonzales)
+ * Estado actual del proyecto para traducir la documentación (encabezado por GuillermoGonzalez)
 [[BR]]
 ----
 === Release Procedure ===
