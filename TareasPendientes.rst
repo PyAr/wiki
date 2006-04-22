@@ -3,6 +3,10 @@
 Esta es una lista de tareas que tenemos pendientes. También llevamos un registro de ["/TareasRealizadas"].
 
 == Sitio ==
+
+ * Agregar al archivo data/intermap.txt del moinmoin de PyAr las siguiente linea{{{
+PyArTrac https://opensvn.csie.org/traccgi/PyAr/trac.cgi/wiki/
+}}} Así podremos linkear al wiki del trac de que abrimos en opensvn directamente.
  
  * Solucionar el error con la Macro IRSS al suscribirse al feed de ["Noticias"]. Estaba arreglado, pero ahora parece
  que con Python 2.3 hay más problemas de Unicode :(
