@@ -4,7 +4,7 @@
 El juego consiste en un [http://www.vintage-sierra.com/puzzle/tim.html T.I.M.], en el cual el jugador tiene que construir máquinas (a vapor) para realizar cálculos. 
 
 
-Mas información, downloads, etc. hay en el trac de [https://opensvn.csie.org/traccgi/PyAr/trac.cgi/wiki/STIM STIM]
+Mas información, downloads, etc. hay en el trac de [https://opensvn.csie.org/traccgi/PyAr/trac.cgi/wiki/STIM STIM].
 
 ----
 CategoryProyectos
