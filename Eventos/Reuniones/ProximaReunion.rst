@@ -8,12 +8,13 @@
 = Reunión 15 - 28/04/2006 (?) - 20:00 Hs - Hip Bar (?) =
 
 == Asistentes ==
-''Para pedir pizza y cerveza libre en caso de hacerse en el hip bar, o fijarnos si hay lugar en caso de hacerce en otro lado (hacklab?)''
+''Para pedir pizza y cerveza libre en caso de hacerse en el hip bar, o fijarnos si hay lugar en caso de hacerse en otro lado (hacklab?)''
 
  * NubIs
  * [wiki:AlejandroJCura alecu]
  * GuillermoGonzalez
  * [wiki:LeitoMonk LeitoMonk]
+ * [wiki:PabloZiliani PabloZiliani]
 == Temario ==
 '' El temario aun es tentativo ''
  * Experiencica de pyweek (primer sprint de pyar ?)
