@@ -13,7 +13,7 @@
  * NubIs
  * [wiki:AlejandroJCura alecu]
  * GuillermoGonzalez
-
+ * [wiki:LeitoMonk LeitoMonk]
 == Temario ==
 '' El temario aun es tentativo ''
  * Experiencica de pyweek (primer sprint de pyar ?)
