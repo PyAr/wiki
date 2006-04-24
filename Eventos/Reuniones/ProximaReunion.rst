@@ -15,7 +15,7 @@
  * GuillermoGonzalez
  * LeitoMonk
  * PabloZiliani
- * AlejandroDavidWeil
+ * AlejandroDavidWeil (no pizza/cerveza libre)
 
 == Temario ==
 '' El temario aun es tentativo ''
