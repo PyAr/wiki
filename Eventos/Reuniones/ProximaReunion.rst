@@ -13,8 +13,10 @@
  * NubIs
  * [wiki:AlejandroJCura alecu]
  * GuillermoGonzalez
- * [wiki:LeitoMonk LeitoMonk]
- * [wiki:PabloZiliani PabloZiliani]
+ * LeitoMonk
+ * PabloZiliani
+ * AlejandroDavidWeil
+
 == Temario ==
 '' El temario aun es tentativo ''
  * Experiencica de pyweek (primer sprint de pyar ?)
