@@ -22,6 +22,7 @@
 '' El temario aun es tentativo ''
  * Experiencica de pyweek (primer sprint de pyar ?)
  * Breve exposicion acerca de mis gafas [http://www.flickr.com/photos/alecu/tags/pyweek2006/] ;)
+ * Threads o no threads, esa es la cuestion...
  * Organización del grupo, seguimos como estamos o definimos "cargos"?
  * Hacemos una lista o algo para separar los offtopics?
  * Sorteo de los items que sobraron de la reunión anterior.
@@ -36,8 +37,8 @@
   1. --(Fijar fecha y lugar tentativos)--
   1. --(Seguir el !ReleaseProcedure)-- 
   1. --(Generar el temario)--
-  1. Armar una lista de asistentes
-  1. Fijar fecha y lugar definitivos
+  1. --(Armar una lista de asistentes)--
+  1. --(Fijar fecha y lugar definitivos)--
   1. Definir quien dirigirá la reunión
   1. Publicar recordatorios en la lista
   1. Publicar recordatorios el día de la reunión
