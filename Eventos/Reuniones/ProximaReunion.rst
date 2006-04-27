@@ -27,6 +27,7 @@
  * Hacemos una lista o algo para separar los offtopics?
  * Sorteo de los items que sobraron de la reunión anterior.
  * [http://www.python-santafe.com.ar/] '''Python Santa Fe! '''
+ * PythonDay en Mendoza [http://www.lugmen.org.ar/eventos/pdd-2006/]
  * Estado actual del proyecto para traducir la documentación (encabezado por GuillermoGonzalez)
 [[BR]]
 ----
