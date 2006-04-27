@@ -44,8 +44,8 @@
   1. Publicar recordatorios el día de la reunión
  1. Tareas específicas
   1. Reuniones en el Hip Bar
-   1. Reservar el salón de abajo
-   1. Pedir que vayan de compras
+   1. --(Reservar el salón de abajo)--
+   1. --(Pedir que vayan de compras)--
  1. Tareas posteriores a la reunión
   1. Eliminar el anuncio de la página de Inicio
   1. Editar Eventos/Reuniones/ProximaReunion
