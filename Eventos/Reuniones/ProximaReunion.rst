@@ -5,7 +5,7 @@
 ## para juntar ''quorum'' y que se organice, te invitamos a proponerlo en nuestra ListaDeCorreo.
 ## Te sugerimos consultar nuestro [wiki:Eventos/Reuniones/ReleaseProcedure ReleaseProcedure] para
 ## tener una idea de como organizar una reunión.
-= Reunión 15 - 28/04/2006 (?) - 20:00 Hs - Hip Bar (?) =
+= Reunión 15 - 28/04/2006 - 20:00 Hs - Hip Bar =
 
 == Asistentes ==
 ''Para pedir pizza y cerveza libre en caso de hacerse en el hip bar, o fijarnos si hay lugar en caso de hacerse en otro lado (hacklab?)''
