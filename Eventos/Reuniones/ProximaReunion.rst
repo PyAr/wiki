@@ -8,8 +8,6 @@
 = Reunión 15 - 28/04/2006 - 20:00 Hs - Hip Bar =
 
 == Asistentes ==
-''Para pedir pizza y cerveza libre en caso de hacerse en el hip bar, o fijarnos si hay lugar en caso de hacerse en otro lado (hacklab?)''
-
  * NubIs
  * [wiki:AlejandroJCura alecu]
  * GuillermoGonzalez
@@ -19,7 +17,6 @@
  * RicardoKirkner (no pizza/cerveza libre)
 
 == Temario ==
-'' El temario aun es tentativo ''
  * Experiencica de pyweek (primer sprint de pyar ?)
  * Breve exposicion acerca de mis gafas [http://www.flickr.com/photos/alecu/tags/pyweek2006/] ;)
  * Threads o no threads, esa es la cuestion...
@@ -40,9 +37,9 @@
   1. --(Generar el temario)--
   1. --(Armar una lista de asistentes)--
   1. --(Fijar fecha y lugar definitivos)--
-  1. Definir quien dirigirá la reunión
-  1. Publicar recordatorios en la lista
-  1. Publicar recordatorios el día de la reunión
+  1. --(Definir quien dirigirá la reunión)--
+  1. --(Publicar recordatorios en la lista)--
+  1. --(Publicar recordatorios el día de la reunión)--
  1. Tareas específicas
   1. Reuniones en el Hip Bar
    1. --(Reservar el salón de abajo)--
