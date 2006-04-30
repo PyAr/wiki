@@ -17,9 +17,16 @@ Para el futuro, hay varios interrogantes/posibilidades:
 Para el soporte de msn, utilizo la [http://auriga.wearlab.de/~alb/msnlib/ msnlib] de Alberto Bertogli. Sin embargo, esta no poseia soporte de proxy http y yo estaba interesado en eso, asi que hice un patch para lograrlo. Para ello, arme una libreria de http ''a-la'' httplib, pero asincronica, [http://ahttplib.sf.net ahttplib]. Aunque funciona, no me parece que haya quedado muy prolija, y creo que en aquel momento no entendia bien (o al menos, ahora entiendo un poco mejor) asyncore (la libreria de red asyncronica (por ahora standard) de python. Asi que ultimamente me dedique un poco a emprolijarla.
 Varios aspectos de httplib me motivaron a hacer mi version, ademas de la asincronicidad. Uno de ellos, es que soporte proxy y ssl. Realmente no se porque la lib standard no lo soporta y para hacer uso de eso lo envian a urllib, la cual me parece bastante confusa. Al hacer eso, se me ocurrio hacer el ''!ObjectMerger'' que pueden ver (y tirarle tomates) en [http://aspn.activestate.com/ASPN/Cookbook/Python/Recipe/272810 ObjectMerger] en el python cookbook.
 
- 
+Me interesa el proyecto ["Proyectos/GauchitoGil" GauchitoGil] aunque creo que en este momento lo tengo con minima prioridad.
 
+Participe en ["Proyectos/Caucho" Caucho] y tambien en ["Proyectos/STIM" STIM].
 
+----
+Dudas sobre wikis:
+
+ 1. por que la configuracion de los mismos no esta en los mismos? (ie: lista de otros wikis).
+
+creo que hay otras.. ya las ire agregando.. pero basicamente se resumen en la primera.
 
 
 
