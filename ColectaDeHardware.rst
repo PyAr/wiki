@@ -6,3 +6,4 @@ Cortita y al pie, en usla nos ofrecieron housing y la verdad que nos hace falta 
 
 ||Quien||Que||
 ||NubIs||Motherboard pcchips socket A (athlonxp, duron, hasta uno de 1500 banca) con modem,video,usb y lan incorporados; 64MB de ram pc133; placa de red 100mb pindorcha tech||
+||[wiki:AlejandroJCura alecu]|| * Un Rigido IDE 13Gb. * Dos placas de red PCI 3com * Una PC completa, estuvo prendida durante tres años: Mother con CPU Pentium 166, (hay que presionar F1 al bootear, y no guarda config de CMOS, si ya probe cambiarle la pila) 96Mb RAM pc100. Rigido IDE de giga y pico. ||
