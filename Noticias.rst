@@ -19,6 +19,8 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 ==== 14/03/2006 ====
+ * Realizamos la decimoquinta reunión de PyAr, hablamos de todo un poco y surgieron muchas cosas para hacer, lean la minuta [wiki:Eventos/Reuniones/Reunion15 Reunion15], y también vean las secciones nuevas ColectaDeHardware y EtiquetaPyAr
+==== 14/03/2006 ====
  * El archivo de e-mails de la lista cambió de URL. Los enlaces desde el wiki ya están actualizados, pero si tenías bookmarks, te sugerimos los actualices. La nueva URL es [http://mx.grulic.org.ar/lurker/list/pyar.es.html]. Gracias como siempre a [http://www.grulic.org.ar/ GrULiC] por darnos este servicio, y seguir mejorándolo.
 ==== 08/03/2006 ====
  * Realizamos la decimocuarta reunión de PyAr que fué todo un éxito, si te la perdiste, podés ver un resumen en [wiki:Eventos/Reuniones/Reunion14 Reunion14]
@@ -35,10 +37,11 @@
  seguir los últimos rounds, pero propongo que mantengamos lambda, para dejar de derrochar el tiempo y talento de todos
  en un desafío imposible.''" ¿Estará todo dicho? Al menos por el momento, parece que `lambda` se queda. 
 
-==== 02/02/2006 ====
- * ¡Tenemos canal oficial de IRC!. El servidor de IRC es irc.freenode.net, y el nombre del canal es #python-ar.
 
 ## ULTIMAS_END
+
+==== 02/02/2006 ====
+ * ¡Tenemos canal oficial de IRC!. El servidor de IRC es irc.freenode.net, y el nombre del canal es #python-ar.
 
 ==== 28/01/2006 ====
  * ¡Lanzamos el nuevo portal!. Mucho antes de lo que esperábamos. Tenemos pendientes algunas mejoras en la configuración de Apache y MoinMoin, pero podemos decir que el sitio está oficialmente lanzado. Cualquier problema, por favor repórtenlo en la ListaDeCorreo, o en la nueva sección ["Sugerencias"].
