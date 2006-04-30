@@ -3,7 +3,9 @@
 
 La reunión 14 empezó a las 20:00hs y termino a las 24:00hs, en total fuimos 9 pythonistas.
 Esta reunión se caracterizó por lo abierto del temario, si bien teniamos algunas cosas definidas, hablamos de todo un poco, pero no nos fuimos mucho de tema.
-== Asistentes ==http://www.python.com.ar/moin/Eventos/Reuniones/Reunion15?action=edit&editor=text
+
+== Asistentes ==
+ 
  * NubIs
  * [wiki:AlejandroJCura alecu]
  * GuillermoGonzalez
