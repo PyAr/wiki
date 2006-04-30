@@ -1,3 +1,3 @@
 == Sprints ==
 
-  Aún no hemos organizado ningún sprint.
+  Participamos en pyweek2 con [http://www.python.com.ar/moin/Proyectos/STIM STIM]
