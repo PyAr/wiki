@@ -34,7 +34,7 @@ creo que hay otras.. ya las ire agregando.. pero basicamente se resumen en la pr
 
 
 ----
- La página[wiki:PythonInfo:Audioincluye Audio] incluye varioas grabaciones de charlas acerca de python, es un link interesante.
+ La página [wiki:PythonInfo:Audio Audio] incluye varioas grabaciones de charlas acerca de python, es un link interesante.
 
 ----
  CategoryHomepage
