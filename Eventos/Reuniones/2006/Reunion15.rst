@@ -16,7 +16,7 @@ Esta reunión se caracterizó por lo abierto del temario, si bien teniamos algun
 
 == Temario ==
  * Experiencica de pyweek (primer sprint de pyar ?):
-    Para los que no estan al tanto, en pyAr nos presentamos como equipo para competir desarrollando un juego en una semana en [www.pyweek.org pyweek]. El tema del juego tenia que ser 'it runs on steam', y nuestro equipo hizo un juego de construir computadoras a vapor [http://www.python.com.ar/moin/Proyectos/STIM STIM]. Salimos cuartos en la categoria por equipos, y obtuvimos mas que nada puntaje por innovación. Estas ultimas semanas [wiki:AlejandroJCura alecu] hizo algunas mejoras.
+    Para los que no estan al tanto, en pyAr nos presentamos como equipo para competir desarrollando un juego en una semana en [http://www.pyweek.org pyweek]. El tema del juego tenia que ser 'it runs on steam', y nuestro equipo hizo un juego de construir computadoras a vapor [wiki:Proyectos/STIM STIM]. Salimos cuartos en la categoria por equipos, y obtuvimos mas que nada puntaje por innovación. Estas ultimas semanas [wiki:AlejandroJCura alecu] hizo algunas mejoras.
 
  * Threads o no threads, esa es la cuestion...
     No hablamos mucho del tema porque no quedaba mucho mas por decir. En resumen, es un dolor de huevos usar threads que comparten el estado, y la mayoria de las veces existen soluciones mejores, como usar eventos o si vas a usar threads no compartir el estado y en cambio usar queues.
