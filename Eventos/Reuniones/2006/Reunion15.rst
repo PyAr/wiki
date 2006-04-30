@@ -3,7 +3,7 @@
 
 La reunión 14 empezó a las 20:00hs y termino a las 24:00hs, en total fuimos 9 pythonistas.
 Esta reunión se caracterizó por lo abierto del temario, si bien teniamos algunas cosas definidas, hablamos de todo un poco, pero no nos fuimos mucho de tema.
-== Asistentes ==
+== Asistentes ==http://www.python.com.ar/moin/Eventos/Reuniones/Reunion15?action=edit&editor=text
  * NubIs
  * [wiki:AlejandroJCura alecu]
  * GuillermoGonzalez
@@ -34,7 +34,7 @@ Esta reunión se caracterizó por lo abierto del temario, si bien teniamos algun
     Facundo estuvo ausente con aviso porque tenia un casamiento (no de él :P ). Quizas para la próxima.
 
  * [http://www.python-santafe.com.ar/] '''Python Santa Fe! '''
-    Python Santa Fe se retrazó para el 9 de junio.
+    Python Santa Fe se retrazó para el 3 de junio.
     Aparentemente todos quieren ir con su novia. Pero para el resto (hasta ahora solo yo), LeitoMonk puede llegar a conseguir alojamiento en santa fe. Organizamos en la lista.
     Algo que surgio es una charla medio sorpresiva que le dieron a LucioTorre acerca de "python en el mundo real", La idea es hacer un cuestionario acerca de que herramientas se usan, que problemas surgen, que problemas que surgen con otros lenguajes no surgen en python, y bueno. Cualquier ayuda se acepta :) (en la lista)
 
