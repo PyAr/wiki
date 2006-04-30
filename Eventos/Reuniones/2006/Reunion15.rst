@@ -12,7 +12,7 @@ Esta reunión se caracterizó por lo abierto del temario, si bien teniamos algun
  * LeitoMonk
  * PabloZiliani
  * AlejandroDavidWeil
- * RicardoKirkner
+ * SebastianPagano
  * MilenaArmada
  * LucioTorre
 
