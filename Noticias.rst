@@ -18,7 +18,7 @@
 ##irss topic PyAr - Python Argentina
 ##irss descr Últimas noticias
 ## ULTIMAS_START
-==== 14/03/2006 ====
+==== 28/04/2006 ====
  * Realizamos la decimoquinta reunión de PyAr, hablamos de todo un poco y surgieron muchas cosas para hacer, lean la minuta [wiki:Eventos/Reuniones/Reunion15 Reunion15], y también vean las secciones nuevas ColectaDeHardware y EtiquetaPyAr
 ==== 14/03/2006 ====
  * El archivo de e-mails de la lista cambió de URL. Los enlaces desde el wiki ya están actualizados, pero si tenías bookmarks, te sugerimos los actualices. La nueva URL es [http://mx.grulic.org.ar/lurker/list/pyar.es.html]. Gracias como siempre a [http://www.grulic.org.ar/ GrULiC] por darnos este servicio, y seguir mejorándolo.
