@@ -1,7 +1,6 @@
 ##master-page:HomepageTemplate
 #format wiki
-== alejandro david weil ==
-Email: mi nick en gmail.
+== tenuki (o dave) ==
 
 Programo en Python desde, aproximadamente, el 2004.
 
