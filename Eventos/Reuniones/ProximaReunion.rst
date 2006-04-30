@@ -1,49 +1,28 @@
 #acl All:read,write
 #language es
 = Próxima Reunión =
-## Por el momento, no hay planificada una reunión. Si querés organizar alguna, o proponer temas
-## para juntar ''quorum'' y que se organice, te invitamos a proponerlo en nuestra ListaDeCorreo.
-## Te sugerimos consultar nuestro [wiki:Eventos/Reuniones/ReleaseProcedure ReleaseProcedure] para
-## tener una idea de como organizar una reunión.
-= Reunión 15 - 28/04/2006 - 20:00 Hs - Hip Bar =
+ Por el momento, no hay planificada una reunión. Si querés organizar alguna, o proponer temas
+ para juntar ''quorum'' y que se organice, te invitamos a proponerlo en nuestra ListaDeCorreo.
+ Te sugerimos consultar nuestro [wiki:Eventos/Reuniones/ReleaseProcedure ReleaseProcedure] para
+ tener una idea de como organizar una reunión.
 
-== Asistentes ==
- * NubIs
- * [wiki:AlejandroJCura alecu]
- * GuillermoGonzalez
- * LeitoMonk
- * PabloZiliani
- * AlejandroDavidWeil (no pizza/cerveza libre)
- * RicardoKirkner (no pizza/cerveza libre)
-
-== Temario ==
- * Experiencica de pyweek (primer sprint de pyar ?)
- * Breve exposicion acerca de mis gafas [http://www.flickr.com/photos/alecu/tags/pyweek2006/] ;)
- * Threads o no threads, esa es la cuestion...
- * Organización del grupo, seguimos como estamos o definimos "cargos"?
- * Hacemos una lista o algo para separar los offtopics?
- * Sorteo de los items que sobraron de la reunión anterior.
- * [http://www.python-santafe.com.ar/] '''Python Santa Fe! '''
- * PythonDay en Mendoza [http://www.lugmen.org.ar/eventos/pdd-2006/]
- * Estado actual del proyecto para traducir la documentación (encabezado por GuillermoGonzalez)
-[[BR]]
 ----
 === Release Procedure ===
  1. Tareas comunes
-  1. --(Proponer la reunión)--
-  1. --(Obtener un mínimo de personas interesadas)--
-  1. --(Fijar fecha y lugar tentativos)--
-  1. --(Seguir el !ReleaseProcedure)-- 
-  1. --(Generar el temario)--
-  1. --(Armar una lista de asistentes)--
-  1. --(Fijar fecha y lugar definitivos)--
-  1. --(Definir quien dirigirá la reunión)--
-  1. --(Publicar recordatorios en la lista)--
-  1. --(Publicar recordatorios el día de la reunión)--
+  1. Proponer la reunión
+  1. Obtener un mínimo de personas interesadas
+  1. Fijar fecha y lugar tentativos
+  1. Seguir el !ReleaseProcedure
+  1. Generar el temario
+  1. Armar una lista de asistentes
+  1. Fijar fecha y lugar definitivos
+  1. Definir quien dirigirá la reunión
+  1. Publicar recordatorios en la lista
+  1. Publicar recordatorios el día de la reunión
  1. Tareas específicas
   1. Reuniones en el Hip Bar
-   1. --(Reservar el salón de abajo)--
-   1. --(Pedir que vayan de compras)--
+   1. Reservar el salón de abajo
+   1. Pedir que vayan de compras
  1. Tareas posteriores a la reunión
   1. Eliminar el anuncio de la página de Inicio
   1. Editar Eventos/Reuniones/ProximaReunion
