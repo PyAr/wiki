@@ -10,7 +10,7 @@ Mas información, downloads, etc. hay en el trac de [https://opensvn.csie.org/tr
 
 El sprint duro una semana (aunque algunos tuvimos que ir a trabajar en la semana)
 Los participantes de pyar fueron [wiki:AlejandroDavidWeil tenuki], [wiki:AlejandroJCura alecu], LucioTorre, LeitoMonk y NubIs
-Y con el arte nos dio una mano importante florencia?<disculpen, sufro de anomia>, amiga de Leito.
+Y con el arte nos dio una mano importante Letta, amiga de Leito.
 
 También PabloZiliani y nuts nos ayudaron a testear.
 ----
