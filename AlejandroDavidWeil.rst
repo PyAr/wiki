@@ -22,11 +22,14 @@ Me interesa el proyecto ["Proyectos/GauchitoGil"] aunque creo que en este moment
 Participe en ["Proyectos/Caucho"] y tambien en ["Proyectos/STIM"].
 
 ----
-Dudas sobre wikis:
+Dudas sobre wikis/trac:
 
- 1. por que la configuracion de los mismos no esta en los mismos? (ie: lista de otros wikis).
+ 1. que pueda editarse un file del svn directamente desde una pagina del wiki
+ 1. que toda la configuracion del wiki este tocable desde el wiki
+ 1. que el wiki este en el svn
+ 1. estaría buenisima una integración, no se si de T.G. pero poder programar para aceptar un post y acciones seria increible.. para los highscores por ejemplo .. 
 
-creo que hay otras.. ya las ire agregando.. pero basicamente se resumen en la primera.
+creo que hay otras.. ya las ire agregando.
 
 
 
