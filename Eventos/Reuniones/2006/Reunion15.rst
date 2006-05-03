@@ -1,7 +1,7 @@
 ## Template para minutas de reunión
 = Reunión 15 - 28/04/2006 - 20:00 Hs - Hip Bar =
 
-La reunión 14 empezó a las 20:00hs y termino a las 24:00hs, en total fuimos 9 pythonistas.
+La reunión 15 empezó a las 20:00hs y termino a las 24:00hs, en total fuimos 9 pythonistas.
 Esta reunión se caracterizó por lo abierto del temario, si bien teniamos algunas cosas definidas, hablamos de todo un poco, pero no nos fuimos mucho de tema.
 
 == Asistentes ==
