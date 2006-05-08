@@ -1,5 +1,6 @@
 ##master-page:HomepageTemplate
 #format wiki
+#language es
 === tenuki (aka dave) ===
 
 Programo en Python desde, aproximadamente, el 2004.
