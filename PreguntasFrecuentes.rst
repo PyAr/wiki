@@ -106,7 +106,7 @@ En la sección ContribuyendoAlWiki vas a encontrar todo ('''todo''' se refiere a
 === Cuales son las ventajas/desventajas de usar listas o tuplas? Y diccionarios? ===
 
 La velocidad de las tuplas vs las listas, se discutió acá hace unos meses:
-http://www.grulic.org.ar/archiver/html/pyar/2005-12/msg00169.html
+http://grulic.org.ar/lurker/message/20051219.201756.60530154.en.html
 
 Las ventajas o desventajas de usar una u otra dependen del uso que le
 vaya a dar. Al ser inmutables, las tuplas pueden usarse como índices
