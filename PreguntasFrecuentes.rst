@@ -114,3 +114,5 @@ para diccionarios, las listas no. Las tuplas tienen que recostruirse
 cada vez que necesitás "modificarlas", las listas no.
 
 Con respecto a si hay realmente diferencia en cuanto a velocidad y tamaño en memoria, las listas y las tuplas deberían ser más rápidas de recorrer, mientras que los diccionarios fueron hechos para acceder rápidamente a ítems particulares.
+
+Mas info en [http://www.python.org/doc/faq/es/general/#por-qu-hay-tipos-de-datos-tuplas-y-listas-separados FAQ General de Python]
