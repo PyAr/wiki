@@ -3,6 +3,7 @@
  * AlejandroJCura
  * alfonsopalomares
  * AndresBlanco
+ * DanielMoisset
  * GuillermoGonzalez
  * GuillermoNarvaja
  * LeitoMonk
