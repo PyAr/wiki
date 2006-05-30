@@ -1,4 +1,4 @@
-#acl Known:read,write
+#acl Known:read,write Default
 
 === Recicla tu hardware por una buena causa ===
 = ColectaDeHardware =
