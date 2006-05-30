@@ -1,3 +1,5 @@
+#acl Known:read,write
+
 === Recicla tu hardware por una buena causa ===
 = ColectaDeHardware =
 ''Show me the SILICONNN!!!'' 
