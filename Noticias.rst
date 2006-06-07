@@ -18,6 +18,8 @@
 ##irss topic PyAr - Python Argentina
 ##irss descr Últimas noticias
 ## ULTIMAS_START
+==== 03/06/2006 ====
+ * Se realizó la [http://www.python-santafe.com.ar/ 1ra Jornada de Python Santa Fe]. Hubo cuatro charlas a cargo de dos miembros del grupo y cerca de 300 asistentes. Luego se improvisó un sprint para trabajar en la [wiki:Eventos/Sprints/WikipediaOffline1 Wikipedia Offline].
 ==== 28/04/2006 ====
  * Realizamos la decimoquinta reunión de PyAr, hablamos de todo un poco y surgieron muchas cosas para hacer, lean la minuta [wiki:Eventos/Reuniones/Reunion15 Reunion15], y también vean las secciones nuevas ColectaDeHardware y EtiquetaPyAr
 ==== 14/03/2006 ====
