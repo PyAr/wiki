@@ -36,11 +36,11 @@ FacundoBatista dixit:
  * --(Pablo Ziliani: 1 L)--
  * --(Mariano Draghi: 1 M, 1 L)--
  * --(Nubis: 1 XL, 1 L)--
- * Roberto Alsina: 2 XL
+ * --(Roberto Alsina: 2 XL)--
  * Mauro Caceres (Cordoba): 1 L
  * --(Ricardo Kirkner (Buenos Aires): 2 L)--
  * --(Santiágo Peresón (Buenos Aires): 2 XL)--
- * Bruno Luciani ( Ramallo , Pcia Bs As): 2 XL
+ * --(Bruno Luciani ( Ramallo , Pcia Bs As): 2 XL)--
  * --(Martin Sarsale (AKA Runa): 1 L)--
  * --(Guillermo Narvaja: 1 XL)--
  * Pablo Maccagnoni: 1 XL
@@ -70,9 +70,9 @@ FacundoBatista dixit:
 
 ||Talle||||||Cantidad||
 || ||Stock||Reservada||'''Disponible'''||
-||M||12||5||'''7'''||
-||L||21||4||'''17'''||
-||XL||5||5||'''0'''||
+||M||13||5||'''8'''||
+||L||14||4||'''10'''||
+||XL||1||1||'''0'''||
 
 [[BR]]
 -----
