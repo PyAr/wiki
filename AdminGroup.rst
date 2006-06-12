@@ -1,5 +1,5 @@
 #acl AdminGroup:admin,read,write,revert
- * [wiki:AlejandroJCura alecu]
+ * AlejandroJCura
  * FacundoBatista
  * LucioTorre
  * MarianoDraghi
