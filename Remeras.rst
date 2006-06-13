@@ -43,7 +43,7 @@ FacundoBatista dixit:
  * --(Bruno Luciani ( Ramallo , Pcia Bs As): 2 XL)--
  * --(Martin Sarsale (AKA Runa): 1 L)--
  * --(Guillermo Narvaja: 1 XL)--
- * Pablo Maccagnoni: 1 XL
+ * --(Pablo Maccagnoni: 1 XL)--
  * Viviana Oviedo: 1 M
  * Rubén Presa: 1 M
  * --(Guillermo Gonzalez (Buenos Aires): 2 L)--
@@ -58,10 +58,6 @@ FacundoBatista dixit:
  * --(Luciano Draghi: 1 L)--
  * Nicolas Palumbo: 1 L
 
-=== Sujetos a disponibilidad ===
- * Sebastián Bassi (Balcarce): 1 XL
- * Ariel Nardelli (Reconquista, S. Fe): 1 XL
-
 === PyCon 2006 ===
  * Donadas: 7 (Guido van Rossum, Tim Peters, Raymond Hettinger, Alex Martelli, Anna Ravenscroft, David Ascher, Bob Ippolito)
  * Vendidas: 17
@@ -71,8 +67,8 @@ FacundoBatista dixit:
 ||Talle||||||Cantidad||
 || ||Stock||Reservada||'''Disponible'''||
 ||M||13||5||'''8'''||
-||L||14||4||'''10'''||
-||XL||1||1||'''0'''||
+||L||13||4||'''9'''||
+||XL||0||0||'''0'''||
 
 [[BR]]
 -----
