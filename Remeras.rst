@@ -67,7 +67,7 @@ FacundoBatista dixit:
 ||Talle||||||Cantidad||
 || ||Stock||Reservada||'''Disponible'''||
 ||M||13||5||'''8'''||
-||L||13||4||'''9'''||
+||L||12||4||'''8'''||
 ||XL||0||0||'''0'''||
 
 [[BR]]
