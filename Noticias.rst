@@ -19,7 +19,7 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 ==== 23/06/2006 ====
- * Dos relatos no tan breves acerca de [http://www.ceportela.com.ar/como-se-hizo-la-i-jornada-python-en-santa-fe como se organizó] y [:Eventos/Reuniones/Reunion16:como se vivió] la 1ra Jornada de Python Santa Fe.
+ * El [http://www.lugli.org.ar/mediawiki/index.php/Informe_1º_Jornada_Python_en_Santa_Fe informe oficial] y dos relatos no tan breves acerca de [http://www.ceportela.com.ar/como-se-hizo-la-i-jornada-python-en-santa-fe como se organizó] y [:Eventos/Reuniones/Reunion16:como se vivió] la 1ra Jornada de Python Santa Fe.
 ==== 03/06/2006 ====
  * Se realizó la [http://www.python-santafe.com.ar/ 1ra Jornada de Python Santa Fe]. Hubo cuatro charlas a cargo de dos miembros del grupo y cerca de 300 asistentes. Luego se improvisó un sprint para trabajar en la [wiki:Eventos/Sprints/WikipediaOffline1 Wikipedia Offline].
 ==== 28/04/2006 ====
