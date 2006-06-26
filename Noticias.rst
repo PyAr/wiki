@@ -18,7 +18,7 @@
 ##irss topic PyAr - Python Argentina
 ##irss descr Últimas noticias
 ## ULTIMAS_START
-==== 25/03/2006 ====
+==== 25/06/2006 ====
  * Un grupo de miembros de PyAr (AlejandroDavidWeil, ["AlejandroJCura"], FacundoBatista, LucioTorre, MarianoDraghi y NubIs)
  participó del desafío [http://media.pyweek.org/static/pygame.draw-0606.html Pygame.draw]. El resultado es
  [wiki:Proyectos/AlocadoAlocador AlocadoAlocador]. Ahora... ¡a jugar y esperar los resultados!
