@@ -18,20 +18,36 @@
 ##irss topic PyAr - Python Argentina
 ##irss descr Últimas noticias
 ## ULTIMAS_START
+==== 25/03/2006 ====
+ * Un grupo de miembros de PyAr (AlejandroDavidWeil, ["AlejandroJCura"], FacundoBatista, LucioTorre, MarianoDraghi y NubIs)
+ participó del desafío [http://media.pyweek.org/static/pygame.draw-0606.html Pygame.draw]. El resultado es
+ [wiki:Proyectos/AlocadoAlocador AlocadoAlocador]. Ahora... ¡a jugar y esperar los resultados!
+
 ==== 23/06/2006 ====
  * El [http://www.lugli.org.ar/mediawiki/index.php/Informe_1º_Jornada_Python_en_Santa_Fe informe oficial] y dos relatos no tan breves acerca de [http://www.ceportela.com.ar/como-se-hizo-la-i-jornada-python-en-santa-fe como se organizó] y [:Eventos/Reuniones/Reunion16:como se vivió] la 1ra Jornada de Python Santa Fe.
+
 ==== 03/06/2006 ====
  * Se realizó la [http://www.python-santafe.com.ar/ 1ra Jornada de Python Santa Fe]. Hubo cuatro charlas a cargo de dos miembros del grupo y cerca de 300 asistentes. Luego se improvisó un sprint para trabajar en la [wiki:Eventos/Sprints/WikipediaOffline1 Wikipedia Offline].
+
 ==== 28/04/2006 ====
  * Realizamos la decimoquinta reunión de PyAr, hablamos de todo un poco y surgieron muchas cosas para hacer, lean la minuta [wiki:Eventos/Reuniones/Reunion15 Reunion15], y también vean las secciones nuevas ColectaDeHardware y EtiquetaPyAr
+
 ==== 14/03/2006 ====
  * El archivo de e-mails de la lista cambió de URL. Los enlaces desde el wiki ya están actualizados, pero si tenías bookmarks, te sugerimos los actualices. La nueva URL es [http://mx.grulic.org.ar/lurker/list/pyar.es.html]. Gracias como siempre a [http://www.grulic.org.ar/ GrULiC] por darnos este servicio, y seguir mejorándolo.
+
 ==== 08/03/2006 ====
  * Realizamos la decimocuarta reunión de PyAr que fué todo un éxito, si te la perdiste, podés ver un resumen en [wiki:Eventos/Reuniones/Reunion14 Reunion14]
+
 ==== 01/03/2006 ====
  * '''¡Sorteo!''' FacundoBatista está trayendo algo de ''merchandising'' oficial de !PyCon 2005 y 2006 desde Dallas, y lo vamos a sortear en la [wiki:Eventos/Reuniones/ProximaReunion próxima reunión]. Los detalles se discutieron durante los últimos días en la ListaDeCorreo. El sorteo se realizará entre aquellas personas suscriptas a dicha lista, __que enviaron al menos un mensaje dentro de los 120 días anteriores al 26/02/2006__ (que fue el día que Facundo propuso el sorteo). Trataremos de organizar este tipo de sorteos periódicamente, y con ellos, fomentar una participación más activa en PyAr.
+
+## ULTIMAS_END
+
+
+
 ==== 24/02/2006 ====
  * Estamos planificando la reunión 14. Fecha y lugar __tentativos__: 08/03/2006, Hip Bar. Ya está habilitada la página [wiki:Eventos/Reuniones/ProximaReunion ProximaReunion] para que te anotes y colabores en el temario.
+
 ==== 21/02/2006 ====
  * ~+Nos pusimos la camiseta+~[[BR]]Finalmente, ¡tenemos las remeras!. En la [wiki:ListaDeCorreo lista] estamos discutiendo los pormenores. FacundoBatista va a llevar algunas para regalar y vender en [wiki:Eventos/Conferencias/PyCon2006 PyCon2006]. El precio de venta se fijó en $12. En la próxima reunión (tentativamente a principios de marzo) realizaremos la primer venta, y definiremos la forma de distribución al interior. Mientras tanto, pueden ver el modelo definitivo en la página ["Remeras"].
 
@@ -40,9 +56,6 @@
  "''después de tantos intentos de encontrar una alternativa a lambda, quizás debamos admitir la derrota. No he tenido tiempo de
  seguir los últimos rounds, pero propongo que mantengamos lambda, para dejar de derrochar el tiempo y talento de todos
  en un desafío imposible.''" ¿Estará todo dicho? Al menos por el momento, parece que `lambda` se queda. 
-
-
-## ULTIMAS_END
 
 ==== 02/02/2006 ====
  * ¡Tenemos canal oficial de IRC!. El servidor de IRC es irc.freenode.net, y el nombre del canal es #python-ar.
