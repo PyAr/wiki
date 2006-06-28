@@ -46,6 +46,7 @@ Por favor, tratá de confirmar tu intención de participar anotándote
 en esta lista lo antes posible. Si estás registrado en el wiki, por
 favor usá tu nick. ¡Gracias!
  * MarianoDraghi
+ * NubIs
 
 ----
 === Release Procedure ===
