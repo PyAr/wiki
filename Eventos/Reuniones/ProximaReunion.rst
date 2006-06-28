@@ -50,6 +50,7 @@ favor usá tu nick. ¡Gracias!
  * Javier Marcon
  * GuillermoGonzalez
  * FacundoBatista
+ * LucioTorre
 
 ----
 === Release Procedure ===
