@@ -47,6 +47,7 @@ en esta lista lo antes posible. Si estás registrado en el wiki, por
 favor usá tu nick. ¡Gracias!
  * MarianoDraghi
  * NubIs
+ * Javier Marcon
 
 ----
 === Release Procedure ===
