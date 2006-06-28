@@ -61,7 +61,7 @@ favor usá tu nick. ¡Gracias!
   1. --(Seguir el !ReleaseProcedure)--
   1. --(Generar el temario)--
   1. Armar una lista de asistentes
-  1. Fijar fecha y lugar definitivos
+  1. --( Fijar fecha y lugar definitivos )--
   1. Definir quien dirigirá la reunión
   1. Publicar recordatorios en la lista
   1. Publicar recordatorios el día de la reunión
