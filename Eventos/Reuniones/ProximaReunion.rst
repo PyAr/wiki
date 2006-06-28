@@ -48,6 +48,7 @@ favor usá tu nick. ¡Gracias!
  * MarianoDraghi
  * NubIs
  * Javier Marcon
+ * GuillermoGonzalez
 
 ----
 === Release Procedure ===
