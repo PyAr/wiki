@@ -49,6 +49,7 @@ favor usá tu nick. ¡Gracias!
  * NubIs
  * Javier Marcon
  * GuillermoGonzalez
+ * FacundoBatista
 
 ----
 === Release Procedure ===
