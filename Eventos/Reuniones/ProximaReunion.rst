@@ -51,6 +51,7 @@ favor usá tu nick. ¡Gracias!
  * GuillermoGonzalez
  * FacundoBatista
  * LucioTorre
+ * Mariano Ferro
 
 ----
 === Release Procedure ===
