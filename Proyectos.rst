@@ -28,8 +28,8 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr, están rela
  * [http://sf.net/projects/sigefi SiGeFi]
    * Sistema de gestión financiera, enfocado en las finanzas personales y del hogar
 
- * [:Proyectos/GeTesFi:Gestion de Tesoreria]
-   * Sistema de Gestion de Tesoreria de Fideicomiso
+ * [:Proyectos/GeInE:Gestion Integral para Empresas]
+   * Sistema de Gestion Administrativa, basado en TurboGears.
 
  * [http://yaco.net/oe/ oveja eléctrica]
    * Proyecto experimental sobre música y creatividad artificial
