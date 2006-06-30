@@ -32,7 +32,7 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr, están rela
    * Sistema de Gestion de Tesoreria de Fideicomiso
 
  * [http://yaco.net/oe/ oveja eléctrica]
-   * Compositor artificial
+   * Proyecto experimental sobre música y creatividad artificial
 
 ----
  CategoryProyectos [[Navigation(children, 1)]]
