@@ -34,6 +34,8 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr, están rela
  * [http://yaco.net/oe/ oveja eléctrica]
    * Proyecto experimental sobre música y creatividad artificial
 
+[[BR]]
+----
  [[Navigation(children, 1)]]
 
 ----
