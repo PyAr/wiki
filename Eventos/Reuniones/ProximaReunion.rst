@@ -52,6 +52,7 @@ favor usá tu nick. ¡Gracias!
  * FacundoBatista
  * LucioTorre
  * Mariano Ferro
+ * SantiagoPereson (yaco)
 
 ----
 === Release Procedure ===
