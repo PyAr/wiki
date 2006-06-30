@@ -24,6 +24,8 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr, están rela
 
  * [:Proyectos/GeTesFi:Gestion de Tesoreria]
 
+ * [http://yaco.net/oe/ oveja eléctrica]
+
 ----
  CategoryProyectos [[Navigation(children, 1)]]
 
