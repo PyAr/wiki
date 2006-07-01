@@ -11,6 +11,9 @@ Estos son los proyectos encarados ''institucionalmente'' por PyAr:
  * ["/STIM"]
    * Juego que presentamos en PyAr para la segunda edición de !PyWeek
 
+ * [https://opensvn.csie.org/traccgi/PyAr/wiki/WikipediaOffline WikipediaOffline]
+   * Una version de la wikipedia en castellano que pueda entrar en un solo CD
+
  * /AlocadoAlocador
    * Juego desarrollado para Pygame.draw 2006
 
