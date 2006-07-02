@@ -54,6 +54,7 @@ favor usá tu nick. ¡Gracias!
  * Mariano Ferro
  * SantiagoPereson (yaco)
  * LeitoMonk
+ * RicardoKirkner
 
 ----
 === Release Procedure ===
