@@ -53,6 +53,7 @@ favor usá tu nick. ¡Gracias!
  * LucioTorre
  * Mariano Ferro
  * SantiagoPereson (yaco)
+ * LeitoMonk
 
 ----
 === Release Procedure ===
