@@ -10,7 +10,7 @@ A partir de Marzo estoy como Jefe de Desarrollo en CycleLogic, una empresa dedic
 
 Fuí profesor en la Universidad de La Matanza (en talleres de la carrera de Ingeniería Informática) y en diversas instituciones secundarias y terciarias. También poseo una amplia experiencia como analista de sistemas y programador, tanto freelance como bajo contrato, en diversos sistemas en múltiples plataformas y lenguajes.
 
-Siguiendo en el ámbito de la programación, me encanta Python, habiéndome convertido en Desarrollador Oficial del lenguaje y miembro de la Python Software Foundation por mi trabajo en el módulo Decimal. Fuí invitado como expositor a conferencias nacionales e internacionales (PyCon 2005 en Washington, EuroPython 2006 en Suecia, PyCon 2006 en Dallas) y dicté cursos de Python tanto en la Universidad como en ámbitos terciarios.
+Siguiendo en el ámbito de la programación, me encanta Python, habiéndome convertido en Desarrollador Oficial del lenguaje y miembro de la Python Software Foundation por mi trabajo en el módulo Decimal. Fuí invitado como expositor a conferencias nacionales e internacionales (PyCon 2005 en Washington, EuroPython 2005 en Suecia, PyCon 2006 en Dallas) y dicté cursos de Python tanto en la Universidad como en ámbitos terciarios.
 
 Vivo en Buenos Aires, más específicamente en Ciudad Evita. Para más info, mi [http://taniquetil.com.ar/plog blog].
 
