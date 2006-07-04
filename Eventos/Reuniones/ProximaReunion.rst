@@ -55,6 +55,7 @@ favor usá tu nick. ¡Gracias!
  * SantiagoPereson (yaco)
  * LeitoMonk
  * RicardoKirkner
+ * [wiki:AlejandroJCura alecu] (un rato mas tarde)
 
 ----
 === Release Procedure ===
