@@ -123,3 +123,12 @@ nada de programación, podía leer el código que el mostraba de vez en cuando p
 una idea, y entenderlo. Interesante experiencia.
 
 || '''QOTM:''' Mientras Santiago explicaba su experiencia en Perú... un tal Pablo dijo ''que lástima que no vino Santiago...!'' ||
+
+=== Bandera PyAr ===
+Queremos una bandera. Maram (y otra gente) se ofreció a financiarla. Nos falta el diseño.
+La idea es que todos los miembros de PyAr que se animen, diseñen un modelo de bandera y 
+lo suban al wiki.
+
+Después, haríamos una votación para elegir el diseño definitivo.
+
+No queremos retrasar esto mucho... así que ¡a ponerse las pilas!
