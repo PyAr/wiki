@@ -51,7 +51,7 @@ Los ganadores fueron:
 ||06||Remera !PyCon 2005 L||[[MailTo(pablodcar AT gmail DOT com)]]|| ||
 ||07||Remera !PyCon 2005 L||[[MailTo(javierder AT gmail DOT com)]]|| ||
 ||08||Remera !PyCon 2005 L||[[MailTo(lucas AT lunix DOT com DOT ar)]]|| ||
-||09||Remera !PyCon 2005 XL||[[MailTo(enriqueaguerre AT gmail DOT com)]]|| ||
+||09||Remera !PyCon 2006 XL||[[MailTo(enriqueaguerre AT gmail DOT com)]]|| ||
 ||10||Bolsa !PyCon 2006||[[MailTo(gepatino AT gmail DOT com)]]|| (./)  ||
      * Los marcados con (./) son los que ya retiraron su premio.
      * Los marcados con {*} son los que confirmaron que están enterados que ganaron algo, y está pendiente la entrega.
