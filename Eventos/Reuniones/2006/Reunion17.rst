@@ -132,3 +132,11 @@ lo suban al wiki.
 Después, haríamos una votación para elegir el diseño definitivo.
 
 No queremos retrasar esto mucho... así que ¡a ponerse las pilas!
+
+=== Alocado Alocador ===
+Alecu, Lucio, Facundo y Mariano comentaron la experiencia en la participación para el desafío
+Pygame.draw 2006. Se armó un interesante debate sobre que es lo que hace "jugable" (o no) a 
+un determinado juego, y como a veces ideas más simples son mucho más divertidas.
+
+En Alocado Alocador se pudieron volcar muchas experiencias de Pyweek2, y todos coincidimos en
+que se nota. Ahora... vamos a por Pyweek3 !!!
