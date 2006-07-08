@@ -8,7 +8,7 @@ Ahora, ¿a dónde podrías recurrir para obtener información que te inicie en l
 
  * [http://www.byteofpython.info Byte of Python] es un libro para iniciarse en Python, el autor proclama que es para quien lo unico que sabe de computación es grabar un archivo.
 
- * [http://www.diveintopython.org/ Dive into Python], está en varios idiomas, se viene escribiendo/actualizando hace bastante, y viene con Ubuntu. [http://es.diveintopython.org/ Inmersión en Python] es la versión en castellano y ya han sido traducidos algunos capitulos.
+ * [http://www.diveintopython.org/ Dive into Python], está en varios idiomas, se viene escribiendo/actualizando hace bastante, y viene con Ubuntu. [http://almacen.gulic.org/diveintopython-5.4-es/ Inmersión en Python] es la versión en castellano y ya han sido traducidos algunos capitulos.
 
  * [http://www.miex.org/book.html Un listado de libros] acerca de Python y otras cosas, los cuales son con fines demostrativos y tienen que ser borrados antes de que transcurran 24 horas de haberlos bajado. (Muchos coincidimos en que la interfaz del libro impreso es más amigable.)
 
