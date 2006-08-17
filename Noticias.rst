@@ -21,7 +21,7 @@
 ==== 17/08/2006 ====
  * El día 19 de agosto de 2006 se realizará el "[http://www.grulic.org.ar/eventos/pythonday1/ Python Day 2006]" en la ciudad de Córdoba, una jornada de charlas organizada por [http://www.grulic.org.ar/ GrULiC] que contará con disertantes locales y del resto del país. El evento se realizará en las aulas Magna y 220 de la [http://www.frc.utn.edu.ar/ Universidad Tecnológica Nacional], Facultad Regional Córdoba entre las 9 y las 18 horas. El [http://www.grulic.org.ar/eventos/pythonday1/#programa programa] previsto es el siguiente:
     * [http://www.grulic.org.ar/eventos/pythonday1/#ceroapy De 0 a Python en 45 minutos] (Daniel Moisset)
-    * Django ''sin confirmar'' (Ramiro Morales)
+    * Django ''-sin confirmar-'' (Ramiro Morales)
     * [http://www.grulic.org.ar/eventos/pythonday1/#tdd Desarrollo de software guiado por tests (TDD) en Python] (Javier Mansilla)
     * [http://www.grulic.org.ar/eventos/pythonday1/#gauss Gauss: Sistema de educación a distancia en Python] (Walter Alini, Matías Bordese)
     * [http://www.grulic.org.ar/eventos/pythonday1/#plone Desarrollo de portales y extranets con Plone] (Roberto Allende)
