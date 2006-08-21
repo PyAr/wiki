@@ -48,7 +48,7 @@ FacundoBatista dixit:
  * Rubén Presa: 1 M
  * --(Guillermo Gonzalez (Buenos Aires): 2 L)--
  * --(Leito Monk: 1 M)--
- * Abel Eduardo: 1 M
+ * --(Abel Eduardo: 1 M)--
  * Mauricio Ferrari (Tucumán): 1 M
  * Sebastián Lezica: 1 M, 2 L
  * --(Alejandro Weil: 2 L)--
@@ -66,7 +66,7 @@ FacundoBatista dixit:
 
 ||Talle||||||Cantidad||
 || ||Stock||Reservada||'''Disponible'''||
-||M||13||5||'''8'''||
+||M||13||3||'''7'''||
 ||L||12||4||'''8'''||
 ||XL||0||0||'''0'''||
 
