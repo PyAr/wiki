@@ -18,6 +18,8 @@
 ##irss topic PyAr - Python Argentina
 ##irss descr Últimas noticias
 ## ULTIMAS_START
+==== 24/09/2006 ====
+ * Finalizó [http://pyweek.org/3/ PyWeek 3]. Los dos grupos de Argentina que participaron lograron un excelente resultado en la categoría grupal. [http://pyweek.org/e/PyAr2/ PyAr2], de Bs.As., obtuvo el '''primer puesto''' con ''Typus Pocus'', y [http://pyweek.org/e/pycor/ PyCor], de Córdoba, obtuvo el '''tercer puesto''' con ''Saturday Night Ninja''. ¡Felicitaciones a ambos grupos por representarnos tan bien!
 ==== 17/08/2006 ====
  * El día 19 de agosto de 2006 se realizará el [http://www.grulic.org.ar/eventos/pythonday1/ Python Day 2006] en la ciudad de Córdoba, una jornada de charlas organizada por [http://www.grulic.org.ar/ GrULiC] que contará con disertantes locales y del resto del país. El evento se realizará en las aulas Magna y 220 de la [http://www.frc.utn.edu.ar/ Universidad Tecnológica Nacional], Facultad Regional Córdoba entre las 9 y las 18 horas. El [http://www.grulic.org.ar/eventos/pythonday1/#programa programa] previsto es el siguiente:
     * [http://www.grulic.org.ar/eventos/pythonday1/#ceroapy De 0 a Python en 45 minutos] (Daniel Moisset)
@@ -48,6 +50,7 @@
 
 ==== 14/03/2006 ====
  * El archivo de e-mails de la lista cambió de URL. Los enlaces desde el wiki ya están actualizados, pero si tenías bookmarks, te sugerimos los actualices. La nueva URL es http://mx.grulic.org.ar/lurker/list/pyar.es.html. Gracias como siempre a [http://www.grulic.org.ar/ GrULiC] por darnos este servicio, y seguir mejorándolo.
+## ULTIMAS_END
 
 ==== 08/03/2006 ====
  * Realizamos la decimocuarta reunión de PyAr que fué todo un éxito, si te la perdiste, podés ver un resumen en ["Eventos/Reuniones/Reunion14"]
@@ -55,7 +58,6 @@
 ==== 01/03/2006 ====
  * '''¡Sorteo!''' FacundoBatista está trayendo algo de ''merchandising'' oficial de !PyCon 2005 y 2006 desde Dallas, y lo vamos a sortear en la [:Eventos/Reuniones/ProximaReunion:próxima reunión]. Los detalles se discutieron durante los últimos días en la ListaDeCorreo. El sorteo se realizará entre aquellas personas suscriptas a dicha lista, __que enviaron al menos un mensaje dentro de los 120 días anteriores al 26/02/2006__ (que fue el día que Facundo propuso el sorteo). Trataremos de organizar este tipo de sorteos periódicamente, y con ellos, fomentar una participación más activa en PyAr.
 
-## ULTIMAS_END
 ==== 24/02/2006 ====
  * Estamos planificando la reunión 14. Fecha y lugar __tentativos__: 08/03/2006, Hip Bar. Ya está habilitada la página ["Eventos/Reuniones/ProximaReunion"] para que te anotes y colabores en el temario.
 
