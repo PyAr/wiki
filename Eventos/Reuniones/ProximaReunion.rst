@@ -2,7 +2,9 @@
 
 == Reunión 18 - Sabado 30/09/2006 ? - HipBar ? - 19:00 ? ==
 === Temario ===
+
 * Experiencia en Cordoba
+
 * Resultados de pyweek3
 
 
