@@ -1,25 +1,30 @@
 #acl All:read,write
+#language es
 == Reunión 18 - Miércoles 04/10/2006 - HipBar - 19:00 ==
 === Temario ===
 
  * Experiencia en Cordoba
  * Resultados de pyweek3
  * Sorteo, '''entre los presentes''', del merchandising restante que FacundoBatista había traído de !PyCon 2006
+ * Participación en las/los próximas conferencias/eventos (hay un par en el horizonte)
+ * Está confirmado que viene Alex Martelli & esposa... hay que afinar este tema !!!!
 
 === ¿Dónde? ===
 
-HipBar, Hipólito Yrigoyen 640
+Nos reunimos en el HipBar, Hipólito Yrigoyen 640, Ciudad de Buenos
+Aires, comenzando a las 19hs. Estaremos en el subsuelo, por lo que
+pregúntenle al barman por nosotros.
 
 ----
 === Release Procedure ===
  1. Tareas comunes
-   1. - Proponer la reunión -
-   1. - Obtener un mínimo de personas interesadas -
-   1. - Fijar fecha y lugar tentativos -
+   1. --(Proponer la reunión)--
+   1. --(Obtener un mínimo de personas interesadas)--
+   1. --(Fijar fecha y lugar tentativos)--
    1. Seguir el !ReleaseProcedure
    1. Generar el temario
    1. Armar una lista de asistentes
-   1. Fijar fecha y lugar definitivos 
+   1. --(Fijar fecha y lugar definitivos)-- 
    1. Definir quien dirigirá la reunión
    1. Publicar recordatorios en la lista
    1. Publicar recordatorios el día de la reunión
@@ -33,7 +38,6 @@ HipBar, Hipólito Yrigoyen 640
    1. Confeccionar la minuta
 
 
-#language es
 ##= Próxima Reunión =
 ##Por el momento, no hay planificada una reunión. Si querés organizar alguna, o proponer temas
 ##para juntar ''quorum'' y que se organice, te invitamos a proponerlo en nuestra ListaDeCorreo.
