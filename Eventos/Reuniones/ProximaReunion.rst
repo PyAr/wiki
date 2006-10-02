@@ -1,18 +1,14 @@
 #acl All:read,write
-
-== Reunión 18 - Miércoles 04/10/2006 ==
+== Reunión 18 - Miércoles 04/10/2006 - HipBar - 19:00 ==
 === Temario ===
 
-* Experiencia en Cordoba
-
-* Resultados de pyweek3
-
-* Ultimo sorteo de merchandising, solo entre los presentes.
+ * Experiencia en Cordoba
+ * Resultados de pyweek3
+ * Sorteo, '''entre los presentes''', del merchandising restante que FacundoBatista había traído de !PyCon 2006
 
 === ¿Dónde? ===
 
 HipBar, Hipólito Yrigoyen 640
-
 
 ----
 === Release Procedure ===
