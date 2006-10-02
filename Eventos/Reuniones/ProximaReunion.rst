@@ -1,15 +1,17 @@
 #acl All:read,write
 
-== Reunión 18 - Sabado 30/09/2006 ? - HipBar ? - 19:00 ? ==
+== Reunión 18 - Miércoles 04/10/2006 ==
 === Temario ===
 
 * Experiencia en Cordoba
 
 * Resultados de pyweek3
 
+* Ultimo sorteo de merchandising, solo entre los presentes.
 
 === ¿Dónde? ===
-HipBar?
+
+HipBar, Hipólito Yrigoyen 640
 
 
 ----
