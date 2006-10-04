@@ -8,7 +8,8 @@
  * Media pila para CDPedia. Vamos a tratar de definir los próximos pasos, y si sale un sprint
  * Sorteo, '''entre los presentes''', del merchandising restante que FacundoBatista había traído de !PyCon 2006
  * Participación en las/los próximas conferencias/eventos (hay un par en el horizonte)
- * Está confirmado que viene Alex Martelli & esposa... hay que afinar este tema !!!!
+ * Está confirmado que viene Alex Martelli & esposa... hay que afinar este tema !!!! 
+ * Bandera PyAr para eventos ([wiki:AlejandroJCura alecu] anduvo averiguando)
 
 === ¿Dónde? ===
 
