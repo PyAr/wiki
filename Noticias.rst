@@ -18,6 +18,9 @@
 ##irss topic PyAr - Python Argentina
 ##irss descr Últimas noticias
 ## ULTIMAS_START
+==== 05/10/2006 ====
+ * Ayer se realizó la decimoctava reunión de PyAr, en Capital Federal. Ya está disponible la minuta en ["Eventos/Reuniones/Reunion18"].
+
 ==== 24/09/2006 ====
  * Finalizó [http://pyweek.org/3/ PyWeek 3]. Los dos grupos de Argentina que participaron lograron un excelente resultado en la categoría grupal. [http://pyweek.org/e/PyAr2/ PyAr2], de Bs.As., obtuvo el '''primer puesto''' con ''Typus Pocus'', y [http://pyweek.org/e/pycor/ PyCor], de Córdoba, obtuvo el '''tercer puesto''' con ''Saturday Night Ninja''. ¡Felicitaciones a ambos grupos por representarnos tan bien!
 ==== 17/08/2006 ====
