@@ -4,6 +4,8 @@
 
 La lista de correo de PyAr está abierta a todos los interesados en Python, y está dedicada en especial a los residentes de Argentina. En esta lista discutimos todos los temas que tengan que ver con la promoción y difusión del lenguaje de programación y planeamos eventos especiales y la creación de contenido local.
 
+Si querés suscribirte a la lista, te pedimos por favor que primero te tomes un par de minutos para leer la ["EtiquetaPyAr"].
+
 == Instrucciones para suscribirte ==
 
 1. Mandá un mensaje a [[MailTo(pyar-subscribe AT decode DOT com DOT ar)]]
