@@ -1,3 +1,6 @@
+#acl AdminGroup:admin,read,write,delete,revert All:read
+#language es
+
 = Bandera para PyAr =
 
 Necesitamos una bandera con el logo de PyAr, para promocionarnos en charlas y conferencias.
@@ -33,7 +36,7 @@ Mandenlo a "alecu@vortech.com.ar", en algun formato vectorial; preferentemente s
 
 Cualquier consulta, efectuenla en la lista: pyar@decode.com.ar
 
-A medida que vayan siendo recepcionados los trabajos, se iran publicando en python.com.ar, hasta la fecha de cierre de repcion de trabajos.
+A medida que vayan siendo recibidos los trabajos, se iran publicando en python.com.ar, hasta la fecha de cierre de repcion de trabajos.
 
 Luego, entre todos los diseños recibidos se efectuará una votación entre miembros de la lista.
 
@@ -42,8 +45,7 @@ también para calcomanías, tazas, etc.
 
  * La fecha limite de recepción de trabajos es el Lunes 23-Oct-2006.
  * La fecha limite de votaciones es el Domingo 29-Oct-2006 a las 23:59.
- * El lunes 30-Oct-2006 se hará el recuento de las votaciones y se procederá a estampar el diseño ganador sobre la bandera de Lona,
-y también sobre tres calcomanías plásticas de 20cm x 10cm aprox. que se otorgarán al vencedor.
+ * El lunes 30-Oct-2006 se hará el recuento de las votaciones y se procederá a estampar el diseño ganador sobre la bandera de Lona, y también sobre tres calcomanías plásticas de 20cm x 10cm aprox. que se otorgarán al vencedor.
 
 ----
 
