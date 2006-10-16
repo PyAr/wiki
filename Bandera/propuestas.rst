@@ -13,6 +13,12 @@
 
 ----
 
+== Bandera 2 ==
+
+{*} El usuario pidio cambiar su [wiki:Bandera/cambiadas diseño inicial] por otro de su autoría
+
+----
+
 == Bandera 3 ==
  * Autor: Héctor Sanchez
  * Archivo: http://alecu.com.ar/banderas/bandera3.svg
@@ -30,5 +36,4 @@
  * Licencia: FDL
 
 || http://alecu.com.ar/banderas/bandera4.png ||
-{*} El usuario pidio cambiar su [wiki:Bandera/cambiadas diseño inicial]
 ----
