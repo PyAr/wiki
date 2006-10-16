@@ -36,4 +36,9 @@
  * Licencia: FDL
 
 || http://alecu.com.ar/banderas/bandera4.png ||
+
+=== Version vertical ===
+
+|| http://alecu.com.ar/banderas/bandera4v.png ||
+
 ----
