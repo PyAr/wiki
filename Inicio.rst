@@ -4,6 +4,9 @@
 
 ##||<tablestyle="width:100%; color: red; text-align:center;"> {*} ~+'' '''HOY''' Miércoles 4 de octubre, 18^a^ reunión de PyAr. Más detalles [wiki:Eventos/Reuniones/ProximaReunion aquí].''+~ ||
 
+||<tablestyle="width:100%; color: red; text-align:center;"> {*} ~+'' '''CONCURSO:''' Está abierto el concurso de [wiki:Bandera diseño de la bandera de PyAr].''+~ ||
+
+
 = Bienvenido a PyAr - Python Argentina =
 
 ||<style="padding: 1em 1em 1em 1em; background-color:#f0f8fd; text-align:justify;">''~+Nuestro objetivo es nuclear a los usuarios de [http://python.org Python], de manera de centralizar la comunicación a nivel nacional. Pretendemos llegar a usuarios y empresas, promover el uso de Python, intercambiar información, compartir experiencias y en general, ser el marco de referencia local en el uso y difusión de esta tecnología.+~''||
