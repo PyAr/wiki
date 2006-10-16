@@ -3,6 +3,9 @@
 
 = Bandera para PyAr =
 
+||<tablestyle="width:100%; color: red; text-align:center;"> {*} ~+''Ya están disponibles los [wiki:Bandera/propuestas primeros diseños enviados].''+~ ||
+
+
 Necesitamos una bandera con el logo de PyAr, para promocionarnos en charlas y conferencias.
 
 Vamos a mandar imprimir una bandera gigante de Lona de entre 2,0 x 1,0 metros y 3,0 x 1,5 metros aprox.
@@ -43,8 +46,8 @@ Luego, entre todos los diseños recibidos se efectuará una votación entre miem
 El diseño que resulte ganador será utilizado para la primer bandera de PyAr. Si el logo es original y nos gusta mucho es probable que lo adoptemos
 también para calcomanías, tazas, etc.
 
- * La fecha limite de recepción de trabajos es el Lunes 23-Oct-2006.
- * La fecha limite de votaciones es el Domingo 29-Oct-2006 a las 23:59.
+ * La fecha limite de recepción de trabajos es el '''Lunes 23-Oct-2006.'''
+ * La fecha limite de votaciones es el '''Domingo 29-Oct-2006 a las 23:59.'''
  * El lunes 30-Oct-2006 se hará el recuento de las votaciones y se procederá a estampar el diseño ganador sobre la bandera de Lona, y también sobre tres calcomanías plásticas de 20cm x 10cm aprox. que se otorgarán al vencedor.
 
 ----
