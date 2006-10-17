@@ -18,6 +18,9 @@
 ##irss topic PyAr - Python Argentina
 ##irss descr Últimas noticias
 ## ULTIMAS_START
+==== 17/10/2006 ====
+ * Ya suscribimos la ListaDeCorreo a GMANE, ahora podemos mantenernos actualizados con lo que pasa via rss. Para mas informacion entrar a http://dir.gmane.org/gmane.org.user-groups.python.argentina
+
 ==== 05/10/2006 ====
  * Ayer se realizó la decimoctava reunión de PyAr, en Capital Federal. Ya está disponible la minuta en ["Eventos/Reuniones/Reunion18"].
 
@@ -50,10 +53,11 @@
 
 ==== 28/04/2006 ====
  * Realizamos la decimoquinta reunión de PyAr, hablamos de todo un poco y surgieron muchas cosas para hacer, lean la minuta ["Eventos/Reuniones/Reunion15"], y también vean las secciones nuevas ColectaDeHardware y EtiquetaPyAr
+## ULTIMAS_END
 
 ==== 14/03/2006 ====
  * El archivo de e-mails de la lista cambió de URL. Los enlaces desde el wiki ya están actualizados, pero si tenías bookmarks, te sugerimos los actualices. La nueva URL es http://mx.grulic.org.ar/lurker/list/pyar.es.html. Gracias como siempre a [http://www.grulic.org.ar/ GrULiC] por darnos este servicio, y seguir mejorándolo.
-## ULTIMAS_END
+
 
 ==== 08/03/2006 ====
  * Realizamos la decimocuarta reunión de PyAr que fué todo un éxito, si te la perdiste, podés ver un resumen en ["Eventos/Reuniones/Reunion14"]
