@@ -23,6 +23,12 @@ Si querés suscribirte a la lista, te pedimos por favor que primero te tomes un 
 
  * Para obtener un digest con los mensajes anteriores en la lista mandá un mail a [[MailTo(pyar-get AT decode DOT com DOT ar)]].
 
+== RSS ==
+
+Si te querés suscribir al RSS de la lista, entra a http://dir.gmane.org/gmane.org.user-groups.python.argentina.
+
+La suscripción esta desde el 17 de octubre de 2006.
+
 == Archivo ==
 
 Si querés ver el histórico de la lista de correo de PyAr, te podés fijar en el [http://mx.grulic.org.ar/lurker/list/pyar.es.html archivo].
@@ -31,4 +37,4 @@ El archivo está subscripto recién desde el 19 de enero de 2005, y la lista tie
 
 [[BR]]
 ----
-||<tablestyle="background-color:#f0f8fd; width:100%;"> (./) '''El servicio de hosting, tanto del portal como de la lista de correo es de [http://www.decode.com.ar Decode].'''[[BR]] (./) '''El servicio de archivo es cortesía de [http://www.grulic.org.ar/ GrULiC], que gentilmente nos ha prestado espacio.'''[[BR]][[BR]]A ambas organizaciones, ~+¡muchas gracias!+~||
+||<tablestyle="background-color:#f0f8fd; width:100%;"> (./) '''El servicio de hosting, tanto del portal como de la lista de correo es de [http://www.decode.com.ar Decode].'''[[BR]] (./) '''El servicio de archivo es cortesía de [http://www.grulic.org.ar/ GrULiC], que gentilmente nos ha prestado espacio.'''[[BR]] (./) '''El feed rss es cortesia del proyecto [http://www.gmane.org/ GMANE]'''[[BR]][[BR]]A estas organizaciones, ~+¡muchas gracias!+~||
