@@ -19,7 +19,7 @@
 
  * ["Eventos"]: Aquí encontrarás información sobre las actividades que realizamos.
 
- * ListaDeCorreo: Instrucciones para suscribirte a nuestra lista, hoy por hoy, nuestro principal canal de comunicación.
+ * ListaDeCorreo: Instrucciones para suscribirte a nuestra lista, hoy por hoy, nuestro principal canal de comunicación. (feed rss disponible)
 
  * ["Proyectos"]: Información sobre los proyectos que encaramos como grupo, o en los que participan nuestros miembros.
 
