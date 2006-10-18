@@ -19,7 +19,9 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 ==== 17/10/2006 ====
- * Ya suscribimos la ListaDeCorreo a GMANE, ahora podemos mantenernos actualizados con lo que pasa via rss. Para mas informacion entrar a http://dir.gmane.org/gmane.org.user-groups.python.argentina
+ * Ya suscribimos la ListaDeCorreo a [http://gmane.org/ GMANE], ahora podemos mantenernos actualizados con lo que pasa via RSS y NNTP. 
+ Además, GMANE funciona como archive alternativo.
+ Para más información entrar a http://dir.gmane.org/gmane.org.user-groups.python.argentina
 
 ==== 05/10/2006 ====
  * Ayer se realizó la decimoctava reunión de PyAr, en Capital Federal. Ya está disponible la minuta en ["Eventos/Reuniones/Reunion18"].
