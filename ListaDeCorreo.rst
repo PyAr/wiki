@@ -23,18 +23,18 @@ Si querés suscribirte a la lista, te pedimos por favor que primero te tomes un 
 
  * Para obtener un digest con los mensajes anteriores en la lista mandá un mail a [[MailTo(pyar-get AT decode DOT com DOT ar)]].
 
-== RSS ==
+== RSS y NNTP ==
 
-Si te querés suscribir al RSS de la lista, entra a http://dir.gmane.org/gmane.org.user-groups.python.argentina.
+La lista también es accesible vía RSS y NNTP. Entrá a http://dir.gmane.org/gmane.org.user-groups.python.argentina.
 
 La suscripción esta desde el 17 de octubre de 2006.
 
 == Archivo ==
 
-Si querés ver el histórico de la lista de correo de PyAr, te podés fijar en el [http://mx.grulic.org.ar/lurker/list/pyar.es.html archivo].
+Si querés ver el histórico de la lista de correo de PyAr, te podés fijar en el [http://mx.grulic.org.ar/lurker/list/pyar.es.html archivo]. El archivo está subscripto recién desde el 19 de enero de 2005, y la lista tiene unos 3 o 4 meses más de antigüedad. Pero desde esa fecha en adelante tiene todo el historial.
 
-El archivo está subscripto recién desde el 19 de enero de 2005, y la lista tiene unos 3 o 4 meses más de antigüedad. Pero desde esa fecha en adelante tiene todo el historial.
+A partir del 17/10/2006, GMANE también está archivando nuestra lista. Este archive es accesible desde [http://dir.gmane.org/gmane.org.user-groups.python.argentina acá].
 
 [[BR]]
 ----
-||<tablestyle="background-color:#f0f8fd; width:100%;"> (./) '''El servicio de hosting, tanto del portal como de la lista de correo es de [http://www.decode.com.ar Decode].'''[[BR]] (./) '''El servicio de archivo es cortesía de [http://www.grulic.org.ar/ GrULiC], que gentilmente nos ha prestado espacio.'''[[BR]] (./) '''El feed rss es cortesia del proyecto [http://www.gmane.org/ GMANE]'''[[BR]][[BR]]A estas organizaciones, ~+¡muchas gracias!+~||
+||<tablestyle="background-color:#f0f8fd; width:100%;"> (./) '''El servicio de hosting, tanto del portal como de la lista de correo es de [http://www.decode.com.ar Decode].'''[[BR]] (./) '''El servicio de archivo es cortesía de [http://www.grulic.org.ar/ GrULiC], que gentilmente nos ha prestado espacio.'''[[BR]] (./) '''El proyecto [http://www.gmane.org/ GMANE] nos da archive, feeds RSS y acceso vía NNTP.'''[[BR]][[BR]]A estas organizaciones, ~+¡muchas gracias!+~||
