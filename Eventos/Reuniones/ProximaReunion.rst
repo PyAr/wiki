@@ -22,10 +22,13 @@ hacés la combinación con la línea "B" en la estación '''Carlos Pellegrini'''
 '''Los Incas'''. Tenés que bajarte en '''Carlos Gardel''' (5 estaciones). Carlos Gardel es la estación
 del Abasto Shopping. Saliendo a la calle, estás sobre Corrientes al 3300. Tenés que "subir" dos cuadras y media. 
 
+[http://mapas.metrovias.com.ar/metrovias/metronet/recorrido_2.asp? Mapa esquemático de la red de subte]
+
 '''IMPORTANTE''': En la misma cuadra de la Casa del Queso hay otro lugar MUY similar, que se llama 
 "La antigua quesería". ¡No te confundas! '''La Casa del Queso es la que está más "arriba"''', más cerca de la esquina
 de Billinghurst.
 
+[[BR]]
 attachment:la_casa_del_queso.png
 
 [[BR]]
