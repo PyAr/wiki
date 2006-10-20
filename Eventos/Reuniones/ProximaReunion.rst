@@ -14,6 +14,9 @@ Por favor, si pensás participar, agregate en la siguiente tabla. Cuanto antes..
 ||<tablestyle="width:30%;">'''Nombre/nick'''||
 ||MarianoDraghi||
 
+=== ¿Cómo llegar? ===
+
+attachment:la_casa_del_queso.png
 
 [[BR]]
 ----
