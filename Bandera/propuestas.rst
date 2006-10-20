@@ -45,4 +45,11 @@
 || http://alecu.com.ar/banderas/bandera4v.png ||
 
 (la imagen de la boa esta basada en "Cassell's Popular Natural History, London, circa. 1880" )
+
+----
+
+== Bandera 5 ==
+
+{*} [wiki:Bandera/descalificadas Esta bandera] debió ser descalificada porque no cumple con las [wiki:Bandera reglas del concurso].
+
 ----
