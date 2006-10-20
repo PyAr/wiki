@@ -17,6 +17,7 @@ Por favor, si pensás participar, agregate en la siguiente tabla. Cuanto antes..
 ||LucioTorre||
 ||GuillermoGonzalez||
 ||SantiagoPereson||
+||ManuelKaufmann||
 
 === ¿Cómo llegar desde CaFeCONF? ===
 A esa hora, si estás a pata, lo mejor es ir en subte. Tomás la línea "C" en la estación '''Independencia''', frente a UADE, en dirección a '''Retiro'''. Bajás en la estación '''Diagonal Norte''' (3 estaciones), y ahí hacés la combinación con la línea "B" en la estación '''Carlos Pellegrini'''. Tomá el tren en dirección a '''Los Incas'''. Tenés que bajarte en '''Carlos Gardel''' (5 estaciones). Carlos Gardel es la estación del Abasto Shopping. Saliendo a la calle, estás sobre Corrientes al 3300. Tenés que "subir" dos cuadras y media.
