@@ -18,6 +18,11 @@
 ##irss topic PyAr - Python Argentina
 ##irss descr Últimas noticias
 ## ULTIMAS_START
+==== 19/10/2006 ====
+ * Confirmado: Alex y Anna Martelli vienen para CaFeCONF, gracias a la PSF. Estamos organizando una reunión especial, la 19,
+ con ellos como invitados de honor. Si estás en el interior, o lejos de Cap. Fed., y pensabas acercarte a CaFeCONF, aprovechá.
+ Para más información, consultá [http://www.python.com.ar/moin/Eventos/Reuniones/ProximaReunion ProximaReunion].
+
 ==== 17/10/2006 ====
  * Ya suscribimos la ListaDeCorreo a [http://gmane.org/ GMANE], ahora podemos mantenernos actualizados con lo que pasa via RSS y NNTP. 
  Además, GMANE funciona como archive alternativo.
@@ -53,9 +58,9 @@
 ==== 03/06/2006 ====
  * Se realizó la [http://www.python-santafe.com.ar/ 1ra Jornada de Python Santa Fe]. Hubo cuatro charlas a cargo de dos miembros del grupo y cerca de 300 asistentes. Luego se improvisó un sprint para trabajar en la [:Eventos/Sprints/WikipediaOffline1:Wikipedia Offline].
 
+## ULTIMAS_END
 ==== 28/04/2006 ====
  * Realizamos la decimoquinta reunión de PyAr, hablamos de todo un poco y surgieron muchas cosas para hacer, lean la minuta ["Eventos/Reuniones/Reunion15"], y también vean las secciones nuevas ColectaDeHardware y EtiquetaPyAr
-## ULTIMAS_END
 
 ==== 14/03/2006 ====
  * El archivo de e-mails de la lista cambió de URL. Los enlaces desde el wiki ya están actualizados, pero si tenías bookmarks, te sugerimos los actualices. La nueva URL es http://mx.grulic.org.ar/lurker/list/pyar.es.html. Gracias como siempre a [http://www.grulic.org.ar/ GrULiC] por darnos este servicio, y seguir mejorándolo.
