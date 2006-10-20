@@ -44,4 +44,5 @@
 
 || http://alecu.com.ar/banderas/bandera4v.png ||
 
+(la imagen de la boa esta basada en "Cassell's Popular Natural History, London, circa. 1880" )
 ----
