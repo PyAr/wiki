@@ -51,6 +51,7 @@
 == Bandera 5 ==
 
 {*} Esta bandera debió ser ~+''descalificada''+~ porque no 
-cumple con las [wiki:Bandera reglas del concurso]. Podes verla aca: BanderasDescalificadas.
+cumple con las [wiki:Bandera reglas del concurso].
+Podes verla aca: [wiki:Bandera/descalificadas Banderas Descalificadas]
 
 ----
