@@ -1,5 +1,5 @@
 = Banderas propuestas =
-|| http://alecu.com.ar/banderas/bandera1-ico.png || http://alecu.com.ar/banderas/bandera3-ico.png || http://alecu.com.ar/banderas/bandera4-ico.png ||
+|| http://alecu.com.ar/banderas/bandera1-ico.png || http://alecu.com.ar/banderas/bandera2-ico.png || http://alecu.com.ar/banderas/bandera3-ico.png || http://alecu.com.ar/banderas/bandera4-ico.png ||
 
 ----
 
