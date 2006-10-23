@@ -1,6 +1,7 @@
 = Banderas propuestas =
 || http://alecu.com.ar/banderas/bandera1-ico.png || http://alecu.com.ar/banderas/bandera2-ico.png || http://alecu.com.ar/banderas/bandera3-ico.png ||
-|| http://alecu.com.ar/banderas/bandera4-ico.png || http://alecu.com.ar/banderas/bandera6-ico.png ||
+|| http://alecu.com.ar/banderas/bandera4-ico.png || http://alecu.com.ar/banderas/bandera6-ico.png || http://alecu.com.ar/banderas/bandera7-ico.png ||
+|| http://alecu.com.ar/banderas/bandera8-ico.png || http://alecu.com.ar/banderas/bandera9-ico.png || http://alecu.com.ar/banderas/bandera10-ico.png ||
 
 ----
 
@@ -66,3 +67,49 @@ Podes verla aca: [wiki:Bandera/descalificadas Banderas Descalificadas]
  * Licencia: Creative Commons
 
 || http://alecu.com.ar/banderas/bandera6.png ||
+
+----
+
+== Bandera 7 ==
+ * Autor: Pablo Ziliani
+ * SVG: http://alecu.com.ar/banderas/bandera7.svg
+ * Original: http://alecu.com.ar/banderas/bandera7.ai
+ * Hecha con: Illustrator
+ * Licencia: Creative Commons
+
+|| http://alecu.com.ar/banderas/bandera7.png ||
+
+----
+
+== Bandera 8 ==
+ * Autor: Pablo Ziliani
+ * SVG: http://alecu.com.ar/banderas/bandera8.svg
+ * Original: http://alecu.com.ar/banderas/bandera8.ai
+ * Hecha con: Illustrator
+ * Licencia: Creative Commons
+
+|| http://alecu.com.ar/banderas/bandera8.png ||
+
+----
+
+== Bandera 9 ==
+ * Autor: Pablo Ziliani
+ * SVG: http://alecu.com.ar/banderas/bandera9.svg
+ * Original: http://alecu.com.ar/banderas/bandera9.ai
+ * Hecha con: Illustrator
+ * Licencia: Creative Commons
+
+|| http://alecu.com.ar/banderas/bandera9.png ||
+
+----
+
+== Bandera 10 ==
+ * Autor: Pablo Ziliani
+ * SVG: http://alecu.com.ar/banderas/bandera10.svg
+ * Original: http://alecu.com.ar/banderas/bandera10.ai
+ * Hecha con: Illustrator
+ * Licencia: Creative Commons
+
+|| http://alecu.com.ar/banderas/bandera10.png ||
+
+----
