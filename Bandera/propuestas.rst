@@ -61,6 +61,7 @@ Podes verla aca: [wiki:Bandera/descalificadas Banderas Descalificadas]
  * Autor: Pablo Ziliani
  * SVG: http://alecu.com.ar/banderas/bandera6.svg
  * Original: http://alecu.com.ar/banderas/bandera6.ai
+ * Basado en: http://commons.wikimedia.org/wiki/Image:Sol_de_Mayo-Bandera_de_Argentina.svg
  * Hecha con: Illustrator
  * Licencia: Creative Commons
 
