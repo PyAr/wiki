@@ -3,7 +3,7 @@
 
 = Bandera para PyAr =
 
-||<tablestyle="width:100%; color: red; text-align:center;"> {*} ~+''Ya están disponibles los [wiki:Bandera/propuestas primeros diseños enviados].''+~ ||
+||<tablestyle="width:100%; color: red; text-align:center;"> {*} ~+''Creció la lista de [wiki:Bandera/propuestas diseños participantes].''+~ ||
 
 
 Necesitamos una bandera con el logo de PyAr, para promocionarnos en charlas y conferencias.
