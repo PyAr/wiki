@@ -1,5 +1,6 @@
 = Banderas propuestas =
-|| http://alecu.com.ar/banderas/bandera1-ico.png || http://alecu.com.ar/banderas/bandera2-ico.png || http://alecu.com.ar/banderas/bandera3-ico.png || http://alecu.com.ar/banderas/bandera4-ico.png ||
+|| http://alecu.com.ar/banderas/bandera1-ico.png || http://alecu.com.ar/banderas/bandera2-ico.png || http://alecu.com.ar/banderas/bandera3-ico.png ||
+|| http://alecu.com.ar/banderas/bandera4-ico.png || http://alecu.com.ar/banderas/bandera6-ico.png ||
 
 ----
 
@@ -55,3 +56,12 @@ cumple con las [wiki:Bandera reglas del concurso].
 Podes verla aca: [wiki:Bandera/descalificadas Banderas Descalificadas]
 
 ----
+
+== Bandera 6 ==
+ * Autor: Pablo Ziliani
+ * SVG: http://alecu.com.ar/banderas/bandera6.svg
+ * Original: http://alecu.com.ar/banderas/bandera6.svg
+ * Hecha con: Illustrator
+ * Licencia: Creative Commons
+
+|| http://alecu.com.ar/banderas/bandera6.png ||
