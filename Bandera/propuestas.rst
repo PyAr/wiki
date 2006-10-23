@@ -60,7 +60,7 @@ Podes verla aca: [wiki:Bandera/descalificadas Banderas Descalificadas]
 == Bandera 6 ==
  * Autor: Pablo Ziliani
  * SVG: http://alecu.com.ar/banderas/bandera6.svg
- * Original: http://alecu.com.ar/banderas/bandera6.svg
+ * Original: http://alecu.com.ar/banderas/bandera6.ai
  * Hecha con: Illustrator
  * Licencia: Creative Commons
 
