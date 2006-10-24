@@ -34,7 +34,7 @@
 ----
 
 == Sofía Obarrio ==
- * Hecha con: Adobe Illustrator
+ * Hechas con: Adobe Illustrator
  * Licencia: [http://creativecommons.org/licenses/by-nc/2.5/ar/ Creative Commons Atribución-NoComercial 2.5 Argentina]
 
 === Sofia1 ===
@@ -50,7 +50,7 @@
 ----
 
 == Facundo Batista ==
- * Hecha con: Inkscape
+ * Hechas con: Inkscape
  * Licencia: Creative Commons Attribution-ShareAlike 2.5 License.
 
 == Facundo1 ==
@@ -72,7 +72,7 @@
 ----
 
 == Timoteo O'Reilly ==
- * Hecha con: Inkscape 0.43
+ * Hechas con: Inkscape 0.43
  * Licencia: Creative Commons Attribution-ShareAlike 2.5 License.
  * (la imagen de la boa esta basada en "Cassell's Popular Natural History, London, circa. 1880" )
 
@@ -102,7 +102,7 @@ Igual podés verla acá: [wiki:Bandera/descalificadas Banderas Descalificadas]
 ----
 
 == Pablo Ziliani ==
- * Hecha con: Adobe Illustrator
+ * Hechas con: Adobe Illustrator
  * Licencia: Creative Commons Attribution-ShareAlike 2.5 License.
  * Basado en: http://commons.wikimedia.org/wiki/Image:Sol_de_Mayo-Bandera_de_Argentina.svg
 
