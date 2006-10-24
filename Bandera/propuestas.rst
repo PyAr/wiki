@@ -1,56 +1,74 @@
 = Banderas propuestas =
-|| http://alecu.com.ar/banderas/bandera1-ico.png || http://alecu.com.ar/banderas/bandera2-ico.png || http://alecu.com.ar/banderas/bandera3-ico.png ||
-|| http://alecu.com.ar/banderas/bandera4-ico.png || http://alecu.com.ar/banderas/bandera6-ico.png || http://alecu.com.ar/banderas/bandera7-ico.png ||
-|| http://alecu.com.ar/banderas/bandera8-ico.png || http://alecu.com.ar/banderas/bandera9-ico.png || http://alecu.com.ar/banderas/bandera10-ico.png ||
+http://alecu.com.ar/banderas/marcos1-ico.png
+http://alecu.com.ar/banderas/hector1-ico.png
+
+http://alecu.com.ar/banderas/facundo1-ico.png
+
+http://alecu.com.ar/banderas/timoteo1-ico.png
+http://alecu.com.ar/banderas/timoteo2-ico.png
+http://alecu.com.ar/banderas/timoteo3-ico.png
+http://alecu.com.ar/banderas/timoteo4-ico.png
+
+http://alecu.com.ar/banderas/pablo1-ico.png
+http://alecu.com.ar/banderas/pablo2-ico.png
+http://alecu.com.ar/banderas/pablo3-ico.png
+http://alecu.com.ar/banderas/pablo4-ico.png
+http://alecu.com.ar/banderas/pablo5-ico.png
+http://alecu.com.ar/banderas/pablo6-ico.png
+
 
 ----
 
-== Bandera 1 ==
+== Marcos1 ==
  * Autor: Marcos Doerschlag
- * Archivo: http://alecu.com.ar/banderas/bandera1.svg
+ * Archivo: http://alecu.com.ar/banderas/marcos1.svg
  * Hecha con: Inkscape 0.44.1
- * Licencia: Creative Commons
+ * Licencia: Creative Commons Attribution-ShareAlike 2.5 License.
 
-|| http://alecu.com.ar/banderas/bandera1.png ||
+|| http://alecu.com.ar/banderas/marcos1.png ||
 
 ----
 
-== Bandera 2 ==
+== Timoteo1 ==
  * Autor: Timoteo O'Reilly
- * Archivo: http://alecu.com.ar/banderas/bandera2.svg
+ * Archivo: http://alecu.com.ar/banderas/timoteo1.svg
  * Hecha con: Inkscape 0.43
- * Licencia: FDL
+ * Licencia: Creative Commons Attribution-ShareAlike 2.5 License.
 
-|| http://alecu.com.ar/banderas/bandera2.png ||
+|| http://alecu.com.ar/banderas/timoteo1.png ||
 ----
 
-== Bandera 3 ==
+== Hector1 ==
  * Autor: Héctor Sanchez
- * Archivo: http://alecu.com.ar/banderas/bandera3.svg
+ * Archivo: http://alecu.com.ar/banderas/hector1.svg
  * Programa utilizado: Inkscape
- * Licencia: Creative Commons
+ * Licencia: Creative Commons Attribution-ShareAlike 2.5 License.
 
-|| http://alecu.com.ar/banderas/bandera3.png ||
+|| http://alecu.com.ar/banderas/hector1.png ||
 
 ----
 
-== Bandera 4 ==
+== Timoteo2 ==
  * Autor: Timoteo O'Reilly
- * Archivo: http://alecu.com.ar/banderas/bandera4.svg
+ * Archivo: http://alecu.com.ar/banderas/timoteo2.svg
  * Hecha con: Inkscape 0.43
- * Licencia: FDL
+ * Licencia: Creative Commons Attribution-ShareAlike 2.5 License.
+ * (la imagen de la boa esta basada en "Cassell's Popular Natural History, London, circa. 1880" )
 
-|| http://alecu.com.ar/banderas/bandera4.png ||
+|| http://alecu.com.ar/banderas/timoteo2.png ||
 
-=== Version vertical ===
+== Timoteo3 ==
+ * Autor: Timoteo O'Reilly
+ * Archivo: http://alecu.com.ar/banderas/timoteo3.svg
+ * Hecha con: Inkscape 0.43
+ * Licencia: Creative Commons Attribution-ShareAlike 2.5 License.
+ * (la imagen de la boa esta basada en "Cassell's Popular Natural History, London, circa. 1880" )
 
-|| http://alecu.com.ar/banderas/bandera4v.png ||
-
-(la imagen de la boa esta basada en "Cassell's Popular Natural History, London, circa. 1880" )
+|| http://alecu.com.ar/banderas/timoteo3.png ||
 
 ----
 
-== Bandera 5 ==
+== Sergio1 ==
 
 {*} Esta bandera debió ser ~+''descalificada''+~ porque no 
 cumple con las [wiki:Bandera reglas del concurso].
@@ -58,58 +76,79 @@ Podes verla aca: [wiki:Bandera/descalificadas Banderas Descalificadas]
 
 ----
 
-== Bandera 6 ==
+== Pablo1 ==
  * Autor: Pablo Ziliani
- * SVG: http://alecu.com.ar/banderas/bandera6.svg
- * Original: http://alecu.com.ar/banderas/bandera6.ai
+ * SVG: http://alecu.com.ar/banderas/pablo1.svg
+ * Original: http://alecu.com.ar/banderas/pablo1.ai
  * Basado en: http://commons.wikimedia.org/wiki/Image:Sol_de_Mayo-Bandera_de_Argentina.svg
  * Hecha con: Illustrator
- * Licencia: Creative Commons
+ * Licencia: Creative Commons Attribution-ShareAlike 2.5 License.
 
-|| http://alecu.com.ar/banderas/bandera6.png ||
-
-----
-
-== Bandera 7 ==
- * Autor: Pablo Ziliani
- * SVG: http://alecu.com.ar/banderas/bandera7.svg
- * Original: http://alecu.com.ar/banderas/bandera7.ai
- * Hecha con: Illustrator
- * Licencia: Creative Commons
-
-|| http://alecu.com.ar/banderas/bandera7.png ||
+|| http://alecu.com.ar/banderas/pablo1.png ||
 
 ----
 
-== Bandera 8 ==
+== Pablo2 ==
  * Autor: Pablo Ziliani
- * SVG: http://alecu.com.ar/banderas/bandera8.svg
- * Original: http://alecu.com.ar/banderas/bandera8.ai
+ * SVG: http://alecu.com.ar/banderas/pablo2.svg
+ * Original: http://alecu.com.ar/banderas/pablo2.ai
  * Hecha con: Illustrator
- * Licencia: Creative Commons
+ * Licencia: Creative Commons Attribution-ShareAlike 2.5 License.
 
-|| http://alecu.com.ar/banderas/bandera8.png ||
+|| http://alecu.com.ar/banderas/pablo2.png ||
 
 ----
 
-== Bandera 9 ==
+== Pablo3 ==
  * Autor: Pablo Ziliani
- * SVG: http://alecu.com.ar/banderas/bandera9.svg
- * Original: http://alecu.com.ar/banderas/bandera9.ai
+ * SVG: http://alecu.com.ar/banderas/pablo3.svg
+ * Original: http://alecu.com.ar/banderas/pablo3.ai
  * Hecha con: Illustrator
- * Licencia: Creative Commons
+ * Licencia: Creative Commons Attribution-ShareAlike 2.5 License.
 
-|| http://alecu.com.ar/banderas/bandera9.png ||
+|| http://alecu.com.ar/banderas/pablo3.png ||
 
 ----
 
-== Bandera 10 ==
+== Pablo4 ==
  * Autor: Pablo Ziliani
- * SVG: http://alecu.com.ar/banderas/bandera10.svg
- * Original: http://alecu.com.ar/banderas/bandera10.ai
+ * SVG: http://alecu.com.ar/banderas/pablo4.svg
+ * Original: http://alecu.com.ar/banderas/pablo4.ai
  * Hecha con: Illustrator
- * Licencia: Creative Commons
+ * Licencia: Creative Commons Attribution-ShareAlike 2.5 License.
 
-|| http://alecu.com.ar/banderas/bandera10.png ||
+|| http://alecu.com.ar/banderas/pablo4.png ||
+
+----
+
+== Pablo5 ==
+ * Autor: Pablo Ziliani
+ * SVG: http://alecu.com.ar/banderas/pablo5.svg
+ * Original: http://alecu.com.ar/banderas/pablo5.ai
+ * Hecha con: Illustrator
+ * Licencia: Creative Commons Attribution-ShareAlike 2.5 License.
+
+|| http://alecu.com.ar/banderas/pablo5.png ||
+
+----
+
+== Pablo6 ==
+ * Autor: Pablo Ziliani
+ * SVG: http://alecu.com.ar/banderas/pablo6.svg
+ * Original: http://alecu.com.ar/banderas/pablo6.ai
+ * Hecha con: Illustrator
+ * Licencia: Creative Commons Attribution-ShareAlike 2.5 License.
+
+|| http://alecu.com.ar/banderas/pablo6.png ||
+
+----
+
+== Facundo1 ==
+ * Autor: Facundo Batista
+ * SVG: http://alecu.com.ar/banderas/facundo1.svg
+ * Hecha con: Inkscape
+ * Licencia: Creative Commons Attribution-ShareAlike 2.5 License.
+
+|| http://alecu.com.ar/banderas/facundo1.png ||
 
 ----
