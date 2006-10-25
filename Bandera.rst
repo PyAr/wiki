@@ -47,7 +47,7 @@ El diseño que resulte ganador será utilizado para la primer bandera de PyAr. S
 también para calcomanías, tazas, etc.
 
  * La fecha limite de recepción de trabajos es el '''Lunes 23-Oct-2006.'''
- * La fecha limite de votaciones es el '''Domingo 29-Oct-2006 a las 23:59.'''
+ * La fecha limite de votaciones es el --(Domingo 29-Oct-2006 a las 23:59.)---  '''ADELANTADO: Viernes 27-Oct-2006 a las 23:59.'''
  * El lunes 30-Oct-2006 se hará el recuento de las votaciones y se procederá a estampar el diseño ganador sobre la bandera de Lona, y también sobre tres calcomanías plásticas de 20cm x 10cm aprox. que se otorgarán al vencedor.
 
 ----
