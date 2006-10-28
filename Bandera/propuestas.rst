@@ -1,3 +1,6 @@
+#acl AdminGroup:admin,read,write,delete,revert All:read
+#language es
+
 = Banderas propuestas =
 ||<#E0E0E0> http://alecu.com.ar/banderas/marcos1-ico.png http://alecu.com.ar/banderas/hector1-ico.png http://alecu.com.ar/banderas/azul1-ico.png http://alecu.com.ar/banderas/sofia1-ico.png http://alecu.com.ar/banderas/sofia2-ico.png http://alecu.com.ar/banderas/facundo1-ico.png http://alecu.com.ar/banderas/facundo2-ico.png http://alecu.com.ar/banderas/facundo3-ico.png http://alecu.com.ar/banderas/facundo4-ico.png http://alecu.com.ar/banderas/timoteo1-ico.png http://alecu.com.ar/banderas/timoteo2-ico.png http://alecu.com.ar/banderas/timoteo3-ico.png http://alecu.com.ar/banderas/timoteo4-ico.png http://alecu.com.ar/banderas/pablo1-ico.png http://alecu.com.ar/banderas/pablo2-ico.png http://alecu.com.ar/banderas/pablo3-ico.png http://alecu.com.ar/banderas/pablo4-ico.png http://alecu.com.ar/banderas/pablo5-ico.png http://alecu.com.ar/banderas/pablo6-ico.png ||
 
