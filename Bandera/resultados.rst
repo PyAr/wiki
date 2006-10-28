@@ -1,6 +1,8 @@
 #acl AdminGroup:admin,read,write,delete,revert All:read
 #language es
 
+= Resultados Votacion Bandera =
+
 || puesto || diseño || icono || autor || promedio || votacion ||
 || 1 || '''Pablo4''' || http://alecu.com.ar/banderas/pablo4-ico.png || Pablo Ziliani || 3.2857 || [2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5] ||
 || 2 || '''Facundo3''' || http://alecu.com.ar/banderas/facundo3-ico.png || Facundo Batista || 3.2143 || [2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5] ||
