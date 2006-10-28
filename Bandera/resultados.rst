@@ -1,10 +1,7 @@
 #acl AdminGroup:admin,read,write,delete,revert All:read
 #language es
 
-= Resultados Votacion Bandera =
-
-== Bandera Elegida ==
-=== Pablo4 ===
+== Bandera Ganadora: Pablo4 ==
 || http://alecu.com.ar/banderas/pablo4.png ||
  * SVG: http://alecu.com.ar/banderas/pablo4.svg
  * Original: http://alecu.com.ar/banderas/pablo4.ai
