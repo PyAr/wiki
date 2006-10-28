@@ -23,3 +23,5 @@
 || 17 || '''Sofia2''' || http://alecu.com.ar/banderas/sofia2-ico.png || Sofía Obarrio || 2.2857 || [1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 4, 5, 5, 5] ||
 || 18 || '''Hector1''' || http://alecu.com.ar/banderas/hector1-ico.png || Héctor Sanchez || 2.2857 || [1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 4, 4] ||
 || 19 || '''Azul1''' || http://alecu.com.ar/banderas/azul1-ico.png || Azul Peresón || 2.0000 || [1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 4, 4, 5] ||
+
+[wiki:Bandera/detalleVotos Detalle de Votos]
