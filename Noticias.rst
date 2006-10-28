@@ -18,10 +18,13 @@
 ##irss topic PyAr - Python Argentina
 ##irss descr Últimas noticias
 ## ULTIMAS_START
+==== 28/10/2006 ====
+ * Durante las últimas semanas se llevó a cabo un concurso de diseño de una Bandera de PyAr para usar en presentaciones y convenciones. Ya están disponibles los [wiki:Bandera/resultados resultados de la votación]. Muchas gracias a todos los participantes por sus diseños, y a todos los votantes por su colaboración!
+
 ==== 19/10/2006 ====
  * Confirmado: Alex y Anna Martelli vienen para CaFeCONF, gracias a la PSF. Estamos organizando una reunión especial, la 19,
  con ellos como invitados de honor. Si estás en el interior, o lejos de Cap. Fed., y pensabas acercarte a CaFeCONF, aprovechá.
- Para más información, consultá [http://www.python.com.ar/moin/Eventos/Reuniones/ProximaReunion ProximaReunion].
+ Para más información, consultá [wiki:Eventos/Reuniones/ProximaReunion ProximaReunion].
 
 ==== 17/10/2006 ====
  * Ya suscribimos la ListaDeCorreo a [http://gmane.org/ GMANE], ahora podemos mantenernos actualizados con lo que pasa via RSS y NNTP. 
