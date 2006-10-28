@@ -4,8 +4,7 @@
 
 ##||<tablestyle="width:100%; color: red; text-align:center;"> {*} ~+'' '''HOY''' Miércoles 4 de octubre, 18^a^ reunión de PyAr. Más detalles [wiki:Eventos/Reuniones/ProximaReunion aquí].''+~ ||
 
-||<tablestyle="width:100%; color: red; text-align:center;"> {*} ~+'' '''BANDERA:''' Está en curso la votación de los [wiki:Bandera/propuestas diseños para la bandera de PyAr].''+~ ||
-
+||<tablestyle="width:100%; color: red; text-align:center;"> {*} ~+''Cerro la votación de la Bandera. [wiki:Bandera/resultados Resultados]. ''+~ ||
 
 = Bienvenido a PyAr - Python Argentina =
 
