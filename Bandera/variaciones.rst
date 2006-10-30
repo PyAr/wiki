@@ -1,1 +1,3 @@
-Posibles variaciones para la Bandera
+Posibles variaciones para la Bandera:
+
+ * attachment:bandera-variaciones.pdf
