@@ -1,3 +1,9 @@
-Posibles variaciones para la Bandera:
+= Con y sin versalitas =
 
- * attachment:bandera-variaciones.pdf
+== Forma original ==
+ * attachment:ganadora-stretch.png
+ * attachment:ganadora-stretch.svg
+
+== Con PyAr en versalitas ==
+ * attachment:stretch-versalitas.png
+ * attachment:stretch-versalitas.svg
