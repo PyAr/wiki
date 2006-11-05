@@ -2,9 +2,9 @@
 #language es
 #pragma keywords Python, PyAr, Python Argentina, user group, grupo de usuarios, community portal
 
-##||<tablestyle="width:100%; color: red; text-align:center;"> {*} ~+'' '''HOY''' Miércoles 4 de octubre, 18^a^ reunión de PyAr. Más detalles [wiki:Eventos/Reuniones/ProximaReunion aquí].''+~ ||
+||<tablestyle="width:100%; color: red; text-align:center;"> {*} ~+'' Viernes 10 de noviembre, 19^a^ reunión de PyAr, con Alex y Anna Martelli como invitados especiales. Más detalles [wiki:Eventos/Reuniones/ProximaReunion aquí].''+~ ||
 
-||<tablestyle="width:100%; color: red; text-align:center;"> {*} ~+''Cerro la votación de la Bandera. [wiki:Bandera/resultados Resultados]. ''+~ ||
+##||<tablestyle="width:100%; color: red; text-align:center;"> {*} ~+''Cerro la votación de la Bandera. [wiki:Bandera/resultados Resultados]. ''+~ ||
 
 = Bienvenido a PyAr - Python Argentina =
 
