@@ -8,4 +8,4 @@ Programa de las charlas: http://www.cafeconf.org/modules/myconference/program.ph
 || {*} || [wiki:AlejandroJCura alecu] || todo el viernes y sábado, salvo sábado 17 a 18hs. || La de anna (Viernes 12 a 13hs), la de martelli (Sábado de 15 a 16hs) y la de yaco (Sábado de 16 a 17hs.) ||
 || {*} || [wiki:SantiagoPereson yaco] || todo el viernes y sábado, salvo sábado 16 a 17hs. || El viernes la de Anna, el sábado unas cuantas, una detrás de la otra...||
 
-Nota: NubIs estaba anotado pero al final no puedo.
+Nota: NubIs estaba anotado pero al final no puede.
