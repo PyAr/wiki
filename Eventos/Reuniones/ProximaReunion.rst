@@ -10,7 +10,7 @@ Por favor, si pensás participar, agregate en la siguiente tabla. Cuanto antes..
 ||<tablewidth="30%" tablestyle="">'''Nombre/nick''' ||
 ||[wiki:AlejandroJCura alecu]||
 ||Alex Martelli||
-||Anna Martelli||
+||Anna Ravenscroft||
 ||[wiki:AlejandroDavidWeil dave]||
 ||FacundoBatista||
 ||GuillermoGonzalez||
@@ -43,10 +43,10 @@ A esa hora, si estás a pata, lo mejor es ir en subte. Tomás la línea "C" en l
   1. --(Fijar fecha y lugar tentativos)--
   1. Seguir el !ReleaseProcedure
   1. Generar el temario
-  1. Armar una lista de asistentes
+  1. --(Armar una lista de asistentes)--
   1. --(Fijar fecha y lugar definitivos)--
   1. Definir quien dirigirá la reunión
-  1. Publicar recordatorios en la lista
+  1. --(Publicar recordatorios en la lista)--
   1. Publicar recordatorios el día de la reunión
   1. Tareas específicas
    1. Reuniones en el Hip Bar
