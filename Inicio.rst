@@ -2,7 +2,7 @@
 #language es
 #pragma keywords Python, PyAr, Python Argentina, user group, grupo de usuarios, community portal
 
-||<tablestyle="width:100%; color: red; text-align:center;"> {*} ~+'' '''HOY''', viernes 10 de noviembre, 19^a^ reunión de PyAr, con Anna Ravenscroft y Alex Martelli como invitados especiales. Más detalles [wiki:Eventos/Reuniones/ProximaReunion aquí].''+~ ||
+||<tablestyle="width:100%; color: red; text-align:center;"> {*} ~+'' '''HOY''', viernes 10 de noviembre, 19^a^ reunión de PyAr, con Anna Martelli Ravenscroft y Alex Martelli como invitados especiales. Más detalles [wiki:Eventos/Reuniones/ProximaReunion aquí].''+~ ||
 
 ##||<tablestyle="width:100%; color: red; text-align:center;"> {*} ~+''Cerro la votación de la Bandera. [wiki:Bandera/resultados Resultados]. ''+~ ||
 
