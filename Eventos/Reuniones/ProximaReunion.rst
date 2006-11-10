@@ -2,28 +2,35 @@
 #language es
 = Reunión 19, "La internacional" - 10/11/2006 - La Casa del Queso - A la salida de CaFeCONF =
 === ¿Dónde? ===
-'''[http://www.lacasadelqueso.com.ar/ La Casa del Queso]''', Av. Corrientes 3587, entre Billinghurst y Sánchez de Bustamante, Cap. Fed.
+'''[http://www.lacasadelqueso.com.ar/ La Casa del Queso]''', Av. Corrientes 3587, entre Billinghurst y Sánchez de Bustamante, Cap. Fed. Estaríamos, en la parte del primer piso.
+
+
+'''¿Cuando?'''
+
+A la salida de CafeConf, o sea, de 19:30hs (gmt-3), aproximadamente, en adelante.
+
 
 === Asistentes ===
 Por favor, si pensás participar, agregate en la siguiente tabla. Cuanto antes... ¡mejor!
 
-||<tablewidth="30%" tablestyle="">'''Nombre/nick''' ||
-||[wiki:AlejandroJCura alecu]||
-||Alex Martelli||
-||Anna Ravenscroft||
-||[wiki:AlejandroDavidWeil dave]||
-||FacundoBatista||
-||GuillermoGonzalez||
-||JohnLenton||
-||JuanColome||
-||LeitoMonk||
-||LucioTorre||
-||ManuelKaufmann||
+||<tablewidth="" tablestyle="">'''Nombre/nick''' ||
+||[:AlejandroJCura:alecu] ||
+||Alex Martelli ||
+||Anna Ravenscroft ||
+||[:AlejandroDavidWeil:dave] ||
+||FacundoBatista ||
+||GuillermoGonzalez ||
+||JohnLenton ||
+||JuanColome ||
+||LeitoMonk ||
+||LucioTorre ||
+||ManuelKaufmann ||
 ||MarianoDraghi ||
-||NubIs||
-||PabloZiliani||
-||RicardoKirkner||
-||SantiagoPereson||
+||NubIs ||
+||PabloZiliani ||
+||RicardoKirkner ||
+||SantiagoPereson ||
+
 
 === ¿Cómo llegar desde CaFeCONF? ===
 A esa hora, si estás a pata, lo mejor es ir en subte. Tomás la línea "C" en la estación '''Independencia''', frente a UADE, en dirección a '''Retiro'''. Bajás en la estación '''Diagonal Norte''' (3 estaciones), y ahí hacés la combinación con la línea "B" en la estación '''Carlos Pellegrini'''. Tomá el tren en dirección a '''Los Incas'''. Tenés que bajarte en '''Carlos Gardel''' (5 estaciones). Carlos Gardel es la estación del Abasto Shopping. Saliendo a la calle, estás sobre Corrientes al 3300. Tenés que "subir" dos cuadras y media.
@@ -48,10 +55,9 @@ A esa hora, si estás a pata, lo mejor es ir en subte. Tomás la línea "C" en l
   1. Definir quien dirigirá la reunión
   1. --(Publicar recordatorios en la lista)--
   1. Publicar recordatorios el día de la reunión
-  1. Tareas específicas
-   1. Reuniones en el Hip Bar
-    1. Reservar el salón de abajo
-    1. Pedir que vayan de compras
+  1. --(Tareas específicas )--
+   1. --(Reserva en La Casa del Queso, mesa de 16 min. primer piso.)--
+
   1. Tareas posteriores a la reunión
    1. Eliminar el anuncio de la página de Inicio
    1. Editar Eventos/Reuniones/ProximaReunion
