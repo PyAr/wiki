@@ -16,7 +16,5 @@ Luego, cuando Kataloga quedó ''estable'' comencé a hacer '''Kpaper''', que es 
 También tengo como hobby tocar la guitarra, aunque mucho no he progresado, hace tres años más o menos que toco.
 
 
-[[FullSearch()]]
-
 ----
 CategoryHomepage
