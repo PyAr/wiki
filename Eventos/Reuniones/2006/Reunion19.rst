@@ -3,11 +3,11 @@ La reunion internacional despues de cafeconf estuvo buenisima, porque vinieron A
 Rompimos nuevamente el record de asistencia, asi fue.
 (segun disposición en la mesa, usen la imaginacion que no tengo scanner)
 
-|| Roberto Allende|| Tabla con Fiambre || None ||
-|| Santiago Peresón (yaco) || Jarra de birra, centro de operaciones federal || Carlos Navarro || 
+|| Roberto Allende || Tabla con Fiambre || None ||
+|| Santiago Peresón (yaco) || Jarra de birra, centro de operaciones federal || Carlos Navarro ||
 || Mariano Draghi (chaghi) || Una Panera || Kaufmann Manuel ||
 || Carlos G. Alvarez|| Un jugo de naranja y una birra || JohnLenton ||
-|| NubIs|| Una tabla de quesos que eligio alex || Alex Martelli
+|| NubIs|| Una tabla de quesos que eligio alex || Alex Martelli ||
 || Alecu|| Los condimentos para la tabla de quesos || Anna Ravenscroft ||
 || Juan Colome (joksnet) || <-este es re joven (este es facundo->) || FacundoBatista ||
 || Tenuki || Una jarrota de birra y Unos vinos || LucioTorre ||
@@ -40,4 +40,6 @@ De que habla Anna:
 Con Anna no pude hablar mucho, pero lo poco que hablamos fue divertidisimo. Actualmente esta trabajando en su tesis acerca de aprendizaje de computadoras, nos conto de un par de anecdotas graciosas, situaciones que se dan cuando estas en una clase de programacion en c++ siendo tan avocadamente pythonista. Por ejemplo, una vez un profesor pregunta 'Como ordenan una lista', a lo que Anna contesta: "List.sort", despues les mostraron distintos algoritmos para ordenar en c++. Pero segun ella, conociendo a Tim Peters, que trabaja hace muchisimo en algoritmos de ordenamiento, para que querria implementar ella su propio algoritmo en vez de usar el de Tim que esta disponible facilmente en python :). Es un claro ejemplo de alguien que aprecia como python te deja preocuparte de hacer lo que tenes que hacer en vez de pelearte con el lenguaje que estas usando.
 
 
-Eso fue mas o menos todo, llegado el momento cada uno taza taza se fue a su casa alguno seguro a caraza, ojala no los haya atacado la seguridad a los que iban en subte para el lado de constitucion porque se pone denso a esa hora. Gracias por estar a todos los que estuvieron, y los que no pudieron venir, la proxima sera!
+Eso fue mas o menos todo, llegado el momento cada uno taza taza se fue a su casa alguno seguro a caraza, ojala no los haya atacado la inseguridad a los que iban en subte para el lado de constitucion porque se pone denso a esa hora. Gracias por estar a todos los que estuvieron, y los que no pudieron venir, la proxima sera!
+
+saludos.
