@@ -1,3 +1,11 @@
+= Reunión 19, "La internacional" - 10/11/2006 - La Casa del Queso - A la salida de CaFeCONF =
+=== ¿Dónde? ===
+'''[http://www.lacasadelqueso.com.ar/ La Casa del Queso]''', Av. Corrientes 3587, entre Billinghurst y Sánchez de Bustamante, Cap. Fed. Estaríamos, en la parte del primer piso.
+
+
+'''¿Cuando?'''
+A la salida de CafeConf, o sea, de 19:30hs (gmt-3), aproximadamente, en adelante.
+
 La reunion internacional despues de cafeconf estuvo buenisima, porque vinieron Anna Ravenscroft y Alex Martelli, ademas de que hubo gente de todo PyAr.
 
 Rompimos nuevamente el record de asistencia, asi fue.
