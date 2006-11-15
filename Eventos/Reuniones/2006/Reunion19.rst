@@ -20,7 +20,7 @@ Rompimos nuevamente el record de asistencia, asi fue.
 || Juan Colome (joksnet) || <-este es re joven (este es facundo->) || FacundoBatista ||
 || Tenuki || Una jarrota de birra y Unos vinos || LucioTorre ||
 || Guillermo Gonzales || otra panera || PabloZilliani ||
-|| Tom H. Hiplam ? || Tabla con fiambre bis || Matt Durn ||
+|| Tom H. Hiplam ? || Tabla con fiambre bis || Matt Dorn ||
 || None || Ricardo kirkner || el vacio a la derecha de ricardo ||
 
 Fuimos a 'La Casa del queso' (aun no supero la decepción, yo me esperaba algo como esto http://www.thescreamonline.com/strange/strange2-1/index.html). Que manera de haber quesos.
