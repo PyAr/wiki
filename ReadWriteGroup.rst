@@ -7,6 +7,7 @@
  * GuillermoGonzalez
  * GuillermoNarvaja
  * LeitoMonk
+ * ManuelKaufmann
  * maram
  * MartinSarsale
  * MauricioFerrari
