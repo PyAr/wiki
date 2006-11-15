@@ -19,9 +19,9 @@ Rompimos nuevamente el record de asistencia, asi fue.
 || Alecu|| Los condimentos para la tabla de quesos || Anna Ravenscroft ||
 || Juan Colome (joksnet) || <-este es re joven (este es facundo->) || FacundoBatista ||
 || Tenuki || Una jarrota de birra y Unos vinos || LucioTorre ||
-|| Guillermo Gonzales || otra panera || PabloZilliani ||
+|| Guillermo González || otra panera || PabloZiliani ||
 || Tom H. Hiplam ? || Tabla con fiambre bis || Matt Dorn ||
-|| None || Ricardo kirkner || el vacio a la derecha de ricardo ||
+|| None || Ricardo Kirkner || el vacío a la derecha de Ricardo ||
 
 Fuimos a 'La Casa del queso' (aun no supero la decepción, yo me esperaba algo como esto http://www.thescreamonline.com/strange/strange2-1/index.html). Que manera de haber quesos.
 Al ser tantos en la reunión, se hablo de todo en distintos grupos, asi que solo voy a poner las perlitas de Alex y Anna que es lo que nos da mas rating.
