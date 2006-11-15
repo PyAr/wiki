@@ -18,6 +18,9 @@
 ##irss topic PyAr - Python Argentina
 ##irss descr Últimas noticias
 ## ULTIMAS_START
+==== 10/11/2006 y 11/11/2006 ====
+ * Se realizó [wiki:Eventos/Conferencias/CaFeConf2006 CaFeCONF 2006], con una extensa participación de Python, y PyAr. Entre otras cosas, tuvimos entre nosotros a Anna Ravenscroft y Alex Martelli, y aprovechamos para celebrar la [wiki:Eventos/Reuniones/Reunion19 Reunión 19].
+
 ==== 28/10/2006 ====
  * Durante las últimas semanas se llevó a cabo un concurso de diseño de una Bandera de PyAr para usar en presentaciones y convenciones. Ya están disponibles los [wiki:Bandera/resultados resultados de la votación]. Muchas gracias a todos los participantes por sus diseños, y a todos los votantes por su colaboración!
 
@@ -36,6 +39,7 @@
 
 ==== 24/09/2006 ====
  * Finalizó [http://pyweek.org/3/ PyWeek 3]. Los dos grupos de Argentina que participaron lograron un excelente resultado en la categoría grupal. [http://pyweek.org/e/PyAr2/ PyAr2], de Bs.As., obtuvo el '''primer puesto''' con ''Typus Pocus'', y [http://pyweek.org/e/pycor/ PyCor], de Córdoba, obtuvo el '''tercer puesto''' con ''Saturday Night Ninja''. ¡Felicitaciones a ambos grupos por representarnos tan bien!
+
 ==== 17/08/2006 ====
  * El día 19 de agosto de 2006 se realizará el [http://www.grulic.org.ar/eventos/pythonday1/ Python Day 2006] en la ciudad de Córdoba, una jornada de charlas organizada por [http://www.grulic.org.ar/ GrULiC] que contará con disertantes locales y del resto del país. El evento se realizará en las aulas Magna y 220 de la [http://www.frc.utn.edu.ar/ Universidad Tecnológica Nacional], Facultad Regional Córdoba entre las 9 y las 18 horas. El [http://www.grulic.org.ar/eventos/pythonday1/#programa programa] previsto es el siguiente:
     * [http://www.grulic.org.ar/eventos/pythonday1/#ceroapy De 0 a Python en 45 minutos] (Daniel Moisset)
@@ -55,13 +59,13 @@
 ==== 25/06/2006 ====
  * Un grupo de miembros de PyAr (AlejandroDavidWeil, ["AlejandroJCura"], FacundoBatista, LucioTorre, MarianoDraghi y NubIs) participó del desafío [http://media.pyweek.org/static/pygame.draw-0606.html Pygame.draw]. El resultado es ["Proyectos/AlocadoAlocador"]. Ahora... ¡a jugar y esperar los resultados!
 
+## ULTIMAS_END
 ==== 23/06/2006 ====
  * El [http://www.lugli.org.ar/mediawiki/index.php/Informe_1º_Jornada_Python_en_Santa_Fe informe oficial] y dos relatos no tan breves acerca de [http://www.ceportela.com.ar/como-se-hizo-la-i-jornada-python-en-santa-fe como se organizó] y [:Eventos/Reuniones/Reunion16:como se vivió] la 1ra Jornada de Python Santa Fe.
 
 ==== 03/06/2006 ====
  * Se realizó la [http://www.python-santafe.com.ar/ 1ra Jornada de Python Santa Fe]. Hubo cuatro charlas a cargo de dos miembros del grupo y cerca de 300 asistentes. Luego se improvisó un sprint para trabajar en la [:Eventos/Sprints/WikipediaOffline1:Wikipedia Offline].
 
-## ULTIMAS_END
 ==== 28/04/2006 ====
  * Realizamos la decimoquinta reunión de PyAr, hablamos de todo un poco y surgieron muchas cosas para hacer, lean la minuta ["Eventos/Reuniones/Reunion15"], y también vean las secciones nuevas ColectaDeHardware y EtiquetaPyAr
 
