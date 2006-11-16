@@ -11,7 +11,7 @@ Un grupo de entusiastas de Python, que decidió aunar esfuerzos para crear una c
 Organizamos reuniones donde debatimos ideas, mantenemos una ListaDeCorreo a través de la cual nos comunicamos, creamos y mantenemos este portal, el cual pretendemos que tenga contenido útil tanto para los miembros de PyAr como para toda aquella persona que se interese por Python. Hoy estamos abocados a lograr que el grupo se consolide, se sumen miembros, y se establezcan las bases para comenzar a generar aportes mas concretos.
 
 === ¿Cómo surgió PyAr? ===
-Merced a búsquedas en buscadores, algunas personas se fueron registrando en el [http://python.meetup.com/cities/ar/buenos_aires/ grupo de Python de Buenos Aires de Meetup].
+Merced a búsquedas en Internet, algunas personas se fueron registrando en el [http://python.meetup.com/cities/ar/buenos_aires/ grupo de Python de Buenos Aires de Meetup].
 
 En aquel entonces, el sitio era gratuito y ranqueaba alto en los resultados de los buscadores. El origen de este grupo es incierto, algunos creen que algún interesado la creó, otros suponen que Meetup creaba estos grupos artificialmente como  técnica de posicionamiento en buscadores ([http://es.wikipedia.org/wiki/Posicionamiento_en_buscadores SEO]). Lo cierto es que al poco tiempo de que [:PabloZiliani:Pablo Ziliani] se registrara, un cambio en el funcionamiento de Meetup terminó ofreciéndole a él el rol de "administrador del grupo", cargo que aceptó y que al poco tiempo derivó en la organización de la [:Eventos/Reuniones/Reunion01:primera reunión] del grupo en Buenos Aires, en septiembre de 2004.
 
