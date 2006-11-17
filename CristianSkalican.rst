@@ -16,5 +16,3 @@ Espero llegar a algún lado con esto de Python ya que me esta sorprendiendo much
 CONTACTO: ismaelskali'''@'''gmail.com
 
 http://groups.google.com.ar/group/lugavellaneda?lnk=li&hl=es
-
-http://www.qualis.com.ar
