@@ -29,4 +29,4 @@ Lista de asistentes a la ''Primer reunión en Santa Fé''. Por favor anotate en 
 || DiegoLevental ||
 || CristianSkalican ||
 || OscarGunsett ||
-|| Mariano Galán ||
+|| MarianoGalan ||
