@@ -13,6 +13,8 @@ Soy fanático de Bersuit Vergarabat, Andrés Clamaro y León Gieco.
 
 Espero llegar a algún lado con esto de Python ya que me esta sorprendiendo mucho su potencial.
 
-CONTACTO: ismaelskali'''@'''gmail.com
+CONTACTO: [[MailTo(ismaelskali AT gmail DOT com)]]
 
 http://groups.google.com.ar/group/lugavellaneda?lnk=li&hl=es
+----
+CategoryHomepage
