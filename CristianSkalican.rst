@@ -17,4 +17,4 @@ CONTACTO: ismaelskali'''@'''gmail.com
 
 http://groups.google.com.ar/group/lugavellaneda?lnk=li&hl=es
 
-http://www.qualis.com.ar
+[http://www.qualis.com.ar http://qualis.com.ar]
