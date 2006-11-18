@@ -24,7 +24,7 @@ Lista de asistentes a la ''Primer reunión en Santa Fé''. Por favor anotate en 
 
 || ManuelKaufmann || {o} ||
 || MiguelRichard  ||
-|| NicolasGiorgetti ||
+|| NicolasGiorgetti || {o} ||
 || CesarPortela ||
 || DiegoLevental ||
 || CristianSkalican ||
