@@ -22,7 +22,7 @@ Opinión y distíntos puntos de vista de cada uno acerca de lo que fué CafeConf
 
 Lista de asistentes a la ''Primer reunión en Santa Fé''. Por favor anotate en la siguiente lista para tener una idea de la gente que va a asistir a la reunión y poder organizar mejor.
 
-|| ManuelKaufmann ||
+|| ManuelKaufmann || {o} ||
 || MiguelRichard  ||
 || NicolasGiorgetti ||
 || CesarPortela ||
@@ -30,3 +30,5 @@ Lista de asistentes a la ''Primer reunión en Santa Fé''. Por favor anotate en 
 || CristianSkalican ||
 || OscarGunsett ||
 || MarianoGalan ||
+
+Las estrellas llenas {*} indican que lleva Notebook y las estrellas vacías {o} indica que no lleva.
