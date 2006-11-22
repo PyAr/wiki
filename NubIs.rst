@@ -4,7 +4,7 @@
 
 ''Cristian Bruno''
 
-Este 
+Esteee ...
 
 
 == Me gustan ==
@@ -15,7 +15,7 @@ Este
  * Google
  * Haskell (<- To Do)
 
-== No me gustan mas==
+== No me gustan mas ==
  * ActionScript, EcmaScript, Flash.
  * PHP
  * MySql < 5
@@ -29,7 +29,7 @@ Este
  *Anotandome que tengo que actualizar esto mas seguido.
  *Planeando mudarme con flor (nos falta la garantia nada mas)
  *Preparando mi charla de Turbogears a ver donde la podre dar (antes de que se le ocurra a alguien mas)
- *Pensando un backup por si algien me primerea con la charla de turbogears. (tambien considero planear 'un accidente' para quien lo haga ;) )
+ *Pensando un backup por si alguien me primerea con la charla de turbogears. (tambien considero planear 'un accidente' para quien lo haga ;) )
 
 Email: [[MailTo(gnubis AT gmail DOT com)]]
 
