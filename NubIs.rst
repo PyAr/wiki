@@ -15,7 +15,7 @@ Esteee ...
  * Google
  * Haskell (<- To Do)
 
-== No me gustan mas ==
+== No me gustan mas... ==
  * ActionScript, EcmaScript, Flash.
  * PHP
  * MySql < 5
