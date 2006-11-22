@@ -4,15 +4,17 @@
 
 ''Cristian Bruno''
 
-Ok, en mi wiki pongo mi status actual hasta que se me ocurra que otras cosas agregarle
+Este 
 
 ----
 
-=== Status ===
- *Laburando en ["Proyectos/Caucho/ActionSprite"] para [wiki:Proyectos/Caucho Caucho]
- *Integrandome al laburo en Buenos Aires, escapando de los cocodrilos que hay en el subte.
- *[...]En esta ciudad casi no hay tiempo para nada
- *PROFIT!!!
+=== Status Actual ===
+ *Laburando en lambda de lunes a miercoles (a partir de las 13:00Hs :s )
+ *Laburando con PabloZilliani de jueves a sabado (desde casa)
+ *Anotandome que tengo que actualizar esto mas seguido.
+ *Planeando mudarme con flor (nos falta la garantia nada mas)
+ *Preparando mi charla de Turbogears a ver donde la podre dar (antes de que se le ocurra a alguien mas)
+ *Pensando un backup por si algien me primerea con la charla de turbogears. (tambien considero planear 'un accidente' para quien lo haga ;) )
 
 Email: [[MailTo(gnubis AT gmail DOT com)]]
 
