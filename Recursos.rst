@@ -115,7 +115,7 @@
 
  * ¿De qué forma usamos Python?: Usamos python para todos los proyectos nuevos y varios existentes, y tambien jython para los clientes que tienen infraestructura en java.
 
- * Además de python usamos: [http://twistedmatrix.com Twisted], [http://www.pygtk.org/ PyGTK], [http://www.turbogears.org/ Turbogears], [http://www.edgewall.com/trac trac]
+ * Además de python usamos: [http://twistedmatrix.com Twisted], [http://www.pygtk.org/ PyGTK], [http://www.pygame.org/ pygame],[http://www.turbogears.org/ Turbogears], [http://www.edgewall.com/trac trac]
 
 [[BR]] [[BR]]
 
