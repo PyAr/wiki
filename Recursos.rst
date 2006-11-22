@@ -104,6 +104,19 @@
 
  * ¿De qué forma usamos Python?: Lo usamos de distintas maneras. Tenemos varios desarrollos para clientes en python, lo tenemos integrado con unos de nuestros productos y tenemos muchas de nuestras herramientas internas en python.
 
+=== Vortech ===
+ * Contacto: [[MailTo( alecu AT vortech DOT com DOT ar, Alejandro J. Cura)]]
+
+ * URL: http://www.vortech.com.ar/
+
+ * Teléfono: 4867-1797
+
+ * Ubicación: Ciudad de Buenos Aires, Argentina.
+
+ * ¿De qué forma usamos Python?: Usamos python para todos los proyectos nuevos y varios existentes, y tambien jython para los clientes que tienen infraestructura en java.
+
+ * Además de python usamos: [http://twistedmatrix.com Twisted], [http://www.pygtk.org/ PyGTK], [http://www.turbogears.org/ Turbogears], [http://www.edgewall.com/trac trac]
+
 [[BR]] [[BR]]
 
 ----
