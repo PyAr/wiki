@@ -6,6 +6,21 @@
 
 Este 
 
+
+== Me gustan ==
+ * Ideas de AlejandroJCura para la homepage.
+ * Python
+ * Turbogears, PyGame, los sospechosos de siempre
+ * OSX, UBUNTU
+ * Google
+ * Haskell (<- To Do)
+
+== No me gustan mas==
+ * ActionScript, EcmaScript, Flash.
+ * PHP
+ * MySql < 5
+ * C++
+
 ----
 
 === Status Actual ===
