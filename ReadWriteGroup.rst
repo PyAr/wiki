@@ -6,6 +6,7 @@
  * DanielMoisset
  * GuillermoGonzalez
  * GuillermoNarvaja
+ * JuanjoConti
  * LeitoMonk
  * ManuelKaufmann
  * maram
