@@ -68,7 +68,7 @@
 
  * URL: http://www.fierro-soft.com.ar
 
- * Teléfono: 4815-5347
+ * Teléfono: 4857-6662
 
  * La empresa desarrolla un sistema de gestión para librerías, editoriales y distribuidoras, llamado Fierro. El desarrollo empezó a mediados del 2004 y desde marzo del 2005 está en producción. Actualmente está instalado en 9 librerías. El sistema tiene una arquitectura de tres capas, servidor de base de datos ([http://www.postgresql.org Postgresql]), servidor de aplicación, que corre bajo Linux, y los clientes que corren bajo Windows y Linux. En la página web podrán encontrar más información del sistema o pueden mandarnos consultas via mail.
 
