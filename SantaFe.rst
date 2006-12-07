@@ -18,7 +18,6 @@ Lista de asistentes a la ''Primer reunión en Santa Fé''. Por favor anotate en 
 || MiguelRichard ||
 || CesarPortela ||
 || DiegoLevental ||
-|| CristianSkalican || {o} ||
 || OscarGunsett ||
 || MarianoGalan ||
 || JuanjoConti ||
