@@ -49,13 +49,9 @@ Para más información, consulten la página SantaFe.
   1. --(Generar el temario)--
   1. --(Armar una lista de asistentes)--
   1. --(Fijar fecha y lugar definitivos)--
-  1. Definir quien dirigirá la reunión
-  1. Publicar recordatorios en la lista
-  1. Publicar recordatorios el día de la reunión
- 1. Tareas específicas
-  1. Reuniones en el Hip Bar
-   1. Reservar el salón de abajo
-   1. Pedir que vayan de compras
+  1. --Definir quien dirigirá la reunión
+  1. --Publicar recordatorios en la lista
+  1. --Publicar recordatorios el día de la reunión
  1. Tareas posteriores a la reunión
   1. Eliminar el anuncio de la página de Inicio
   1. Editar Eventos/Reuniones/ProximaReunion
