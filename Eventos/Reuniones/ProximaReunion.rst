@@ -8,6 +8,7 @@ Si tenés algún lugar para proponer, agregalo acá, y vamos viendo:
 
 ||<10%>'''Lugar'''||'''Propuso'''||<25%>'''Dirección'''||<20%>'''Links'''||'''Observaciones'''||
 ||Beat House||NubIs||Baez 211, Las Cañitas||[http://www.guiaoleo.com.ar/detail.php?ID=471 óleo] [[BR]] [http://www.adondevamos.com/bares/Beat-House/681/?js=0 AdondeVamos.com]||En precios andan como el hip y si vamos en patota capaz lo extorsionamos para que bajen mas||
+||La Tribu||LeitoMonk||Lambare 873, Almagro||[http://fmlatribu.com.ar] ||Precios modicos||
 
 === Asistentes ===
 
@@ -18,7 +19,7 @@ Si tenés algún lugar para proponer, agregalo acá, y vamos viendo:
 ||MarianoDraghi||
 ||NubIs||
 ||Tomas Zulberti||
-
+||LeitoMonk||
 
 === Temario ===
 A definir...
