@@ -1,28 +1,29 @@
 #acl All:read,write
 #language es
-
 == Reunión 21 - 27/12/2006 - ??? - ??:??hs ==
 Estamos organizando una reunión en Cap. Fed. para despedir el año. Todavía no está completamente definido el lugar y la hora. Vamos a tomarnos unos días para evaluar propuestas. La idea es buscar un lugar un poco más copado que el Hip Bar.
 
 Si tenés algún lugar para proponer, agregalo acá, y vamos viendo:
 
-||<10%>'''Lugar'''||'''Propuso'''||<25%>'''Dirección'''||<20%>'''Links'''||'''Observaciones'''||
-||Beat House||NubIs||Baez 211, Las Cañitas||[http://www.guiaoleo.com.ar/detail.php?ID=471 óleo] [[BR]] [http://www.adondevamos.com/bares/Beat-House/681/?js=0 AdondeVamos.com]||En precios andan como el hip y si vamos en patota capaz lo extorsionamos para que bajen mas||
-||La Tribu||LeitoMonk||Lambare 873, Almagro||[http://www.fmlatribu.com/] ||Precios modicos||
+||<10%style="">'''Lugar''' ||'''Propuso''' ||<25%style="">'''Dirección''' ||<20%style="">'''Links''' ||'''Observaciones''' ||
+||Beat House ||NubIs ||Baez 211, Las Cañitas ||[http://www.guiaoleo.com.ar/detail.php?ID=471 óleo] [[BR]] [http://www.adondevamos.com/bares/Beat-House/681/?js=0 AdondeVamos.com] ||En precios andan como el hip y si vamos en patota capaz lo extorsionamos para que bajen mas ||
+||La Tribu ||LeitoMonk ||Lambare 873, Almagro ||http://www.fmlatribu.com/ ||Precios modicos ||
+
 
 === Asistentes ===
-
 ¿Podés venir? ¡Anotate! Por la fecha, vamos a tener que reservar con anticipación. Así que es importante definir en los próximos días el lugar, y tener cierta certeza de cuántos somos para reservar
 
-||[wiki:AlejandroJCura alecu]||
-||JuanColome||
-||MarianoDraghi||
-||NubIs||
-||Tomas Zulberti||
-||LeitoMonk||
+||[:AlejandroJCura:alecu] ||
+||JuanColome ||
+||MarianoDraghi ||
+||NubIs ||
+||Tomas Zulberti ||
+||LeitoMonk ||
+||RobertoRodríguez||
+
 
 === Temario ===
- *Balance del año, como se vio el avance de PyAr desde Buenos Aires.
+ * Balance del año, como se vio el avance de PyAr desde Buenos Aires.
 
 === ¿Dónde? ===
 A definir...
@@ -37,10 +38,9 @@ A definir...
 ## Te sugerimos consultar nuestro [wiki:Eventos/Reuniones/ReleaseProcedure ReleaseProcedure] para
 ## tener una idea de como organizar una reunión.
 ##
-
 ## Ejemplo de formato:
 ## == Reunión XX - @fecha(dd/mm/yyyy)@ - @lugar@ - @hora@ ==
-## *Tema 1 
+## *Tema 1
 ## *Tema 2
 ## *...
 ## *Tema n
@@ -48,7 +48,6 @@ A definir...
 ## Nos reunimos en el Hip Bar, Hipólito Yrigoyen 640, Ciudad de Buenos
 ## Aires, comenzando a las 19hs. Estaremos en el subsuelo, por lo que
 ## pregúntenle al barman por nosotros.
-
 ----
 === Release Procedure ===
  1. Tareas comunes
