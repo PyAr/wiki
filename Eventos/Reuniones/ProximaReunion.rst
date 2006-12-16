@@ -22,7 +22,7 @@ Si tenés algún lugar para proponer, agregalo acá, y vamos viendo:
 ||LeitoMonk||
 
 === Temario ===
-A definir...
+ *Balance del año, como se vio el avance de PyAr desde Buenos Aires.
 
 === ¿Dónde? ===
 A definir...
