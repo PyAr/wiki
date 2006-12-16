@@ -1,21 +1,30 @@
 #acl All:read,write
 #language es
 
-== Reunión 20 - 13/12/2006 - Baviera - 21:00hs ==
-La reunión 20 es '''muy''' especial, porque será la primera (sí, ¡y esperemos que haya más!)
-organizada en Santa Fe.
+== Reunión 21 - 27/12/2006 - ??? - ??:??hs ==
+Estamos organizando una reunión en Cap. Fed. para despedir el año. Todavía no está completamente definido el lugar y la hora. Vamos a tomarnos unos días para evaluar propuestas. La idea es buscar un lugar un poco más copado que el Hip Bar.
+
+Si tenés algun lugar para proponer, agregalo acá, y vamos viendo:
+
+||'''Lugar'''||'''Propuesto por'''||'''Dirección'''||'''Links'''||'''Observaciones'''||
+||Beat House||NubIs||Baez 211, Las Cañitas||[http://www.guiaoleo.com.ar/detail.php?ID=471 óleo] [[BR]] [http://www.adondevamos.com/bares/Beat-House/681/?js=0 AdondeVamos.com]||En precios andan como el hip y si vamos en patota capaz lo extorsionamos para que bajen mas||
+
+=== Asistentes ===
+
+¿Podés venir? ¡Anotate! Por la fecha, vamos a tener que reservar con anticipación. Así que es importante definir en los próximos días el lugar, y tener cierta certeza de cuántos somos para reservar
+
+||[wiki:AlejandroJCura alecu]||
+||JuanColome||
+||MarianoDraghi||
+||NubIs||
+||Tomas Zulberti||
+
 
 === Temario ===
-==== Presentación de los integrantes ====
-Presentacíon de cada integrante y actividad actual, a modo de conocernos y saber en qué ámbito se está desarrollando cada uno de los asistentes a la reunión.
-
-==== PyAr en CafeConf ====
-Opinión y distíntos puntos de vista de cada uno acerca de lo que fué CafeConf y la participación de PyAr en la misma. Reuniones a las que asistimos e importancia de las charlas de PyAr.
+A definir...
 
 === ¿Dónde? ===
-El encuentro será en el bar '''Baviera''', 25 de Mayo y Mendoza, Santa Fe.
-
-Para más información, consulten la página SantaFe.
+A definir...
 
 ## No borres el siguiente párrafo! Comentalo. Así, pasada la reunión,
 ## lo descomentamos y listo (es el texto estándar que mostramos cuando
@@ -46,12 +55,12 @@ Para más información, consulten la página SantaFe.
   1. --(Obtener un mínimo de personas interesadas)--
   1. --(Fijar fecha y lugar tentativos)--
   1. --(Seguir el !ReleaseProcedure)--
-  1. --(Generar el temario)--
+  1. Generar el temario
   1. --(Armar una lista de asistentes)--
-  1. --(Fijar fecha y lugar definitivos)--
-  1. --(Definir quien dirigirá la reunión)--
-  1. --(Publicar recordatorios en la lista)--
-  1. --(Publicar recordatorios el día de la reunión)--
+  1. Fijar fecha y lugar definitivos
+  1. Definir quien dirigirá la reunión
+  1. Publicar recordatorios en la lista
+  1. Publicar recordatorios el día de la reunión
  1. Tareas posteriores a la reunión
   1. Eliminar el anuncio de la página de Inicio
   1. Editar Eventos/Reuniones/ProximaReunion
