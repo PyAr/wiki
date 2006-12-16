@@ -4,7 +4,7 @@
 == Reunión 21 - 27/12/2006 - ??? - ??:??hs ==
 Estamos organizando una reunión en Cap. Fed. para despedir el año. Todavía no está completamente definido el lugar y la hora. Vamos a tomarnos unos días para evaluar propuestas. La idea es buscar un lugar un poco más copado que el Hip Bar.
 
-Si tenés algun lugar para proponer, agregalo acá, y vamos viendo:
+Si tenés algún lugar para proponer, agregalo acá, y vamos viendo:
 
 ||<10%>'''Lugar'''||'''Propuso'''||<25%>'''Dirección'''||<20%>'''Links'''||'''Observaciones'''||
 ||Beat House||NubIs||Baez 211, Las Cañitas||[http://www.guiaoleo.com.ar/detail.php?ID=471 óleo] [[BR]] [http://www.adondevamos.com/bares/Beat-House/681/?js=0 AdondeVamos.com]||En precios andan como el hip y si vamos en patota capaz lo extorsionamos para que bajen mas||
