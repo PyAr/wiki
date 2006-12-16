@@ -6,7 +6,7 @@ Estamos organizando una reunión en Cap. Fed. para despedir el año. Todavía no
 
 Si tenés algun lugar para proponer, agregalo acá, y vamos viendo:
 
-||'''Lugar'''||'''Propuesto por'''||'''Dirección'''||'''Links'''||'''Observaciones'''||
+||<10%>'''Lugar'''||'''Propuso'''||<25%>'''Dirección'''||<20%>'''Links'''||'''Observaciones'''||
 ||Beat House||NubIs||Baez 211, Las Cañitas||[http://www.guiaoleo.com.ar/detail.php?ID=471 óleo] [[BR]] [http://www.adondevamos.com/bares/Beat-House/681/?js=0 AdondeVamos.com]||En precios andan como el hip y si vamos en patota capaz lo extorsionamos para que bajen mas||
 
 === Asistentes ===
