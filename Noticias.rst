@@ -18,6 +18,9 @@
 ##irss topic PyAr - Python Argentina
 ##irss descr Últimas noticias
 ## ULTIMAS_START
+==== 13/12/2006 ====
+ * Se realizó la [:Eventos/Reuniones/Reunion20:Reunión 20], la primera celebrada en Santa Fe. Esperemos que no sea la última, y que comiencen a organizarse con más frecuencia reuniones en otros puntos del país.
+
 ==== 10/11/2006 y 11/11/2006 ====
  * Se realizó [wiki:Eventos/Conferencias/CaFeConf2006 CaFeCONF 2006], con una extensa participación de Python, y PyAr. Entre otras cosas, tuvimos entre nosotros a Anna Ravenscroft y Alex Martelli, y aprovechamos para celebrar la [wiki:Eventos/Reuniones/Reunion19 Reunión 19].
 
@@ -55,11 +58,10 @@
     * [http://www.grulic.org.ar/eventos/pythonday1/#im Desarrollo de un cliente de mensajeria instantanea (MSN) en Python y GTK] (Luis Guerra)
     * [http://www.grulic.org.ar/eventos/pythonday1/#twisted Desenmarañando Twisted] (Anthony Lenton)
 
-
+## ULTIMAS_END
 ==== 25/06/2006 ====
  * Un grupo de miembros de PyAr (AlejandroDavidWeil, ["AlejandroJCura"], FacundoBatista, LucioTorre, MarianoDraghi y NubIs) participó del desafío [http://media.pyweek.org/static/pygame.draw-0606.html Pygame.draw]. El resultado es ["Proyectos/AlocadoAlocador"]. Ahora... ¡a jugar y esperar los resultados!
 
-## ULTIMAS_END
 ==== 23/06/2006 ====
  * El [http://www.lugli.org.ar/mediawiki/index.php/Informe_1º_Jornada_Python_en_Santa_Fe informe oficial] y dos relatos no tan breves acerca de [http://www.ceportela.com.ar/como-se-hizo-la-i-jornada-python-en-santa-fe como se organizó] y [:Eventos/Reuniones/Reunion16:como se vivió] la 1ra Jornada de Python Santa Fe.
 
