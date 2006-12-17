@@ -38,5 +38,6 @@ Al rato se nos va Nicolás César, y como quince minutos después, nos desbandam
 
 Y hasta aquí llega la minuta de lo que fue la primera reunión en Santa Fe, ¿o debería decir segunda?. Más que nada fue para encontrarnos, vernos las caras y compartir recuerdos, experiencias y planes.
 
-Fotos:
- http://www.sussanboutique.com.ar/r1.jpg http://www.sussanboutique.com.ar/r2.jpg
+'''Fotos:'''
+
+ http://www.sussanboutique.com.ar/r2.jpg http://www.sussanboutique.com.ar/r1.jpg
