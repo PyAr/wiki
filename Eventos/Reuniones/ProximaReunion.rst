@@ -20,7 +20,7 @@ Si tenés algún lugar para proponer, agregalo acá, y vamos viendo:
 ||Tomas Zulberti ||
 ||LeitoMonk ||
 ||RobertoRodríguez||
-
+||[:SantiagoPereson:yaco]||
 
 === Temario ===
  * Balance del año, como se vio el avance de PyAr desde Buenos Aires.
