@@ -21,6 +21,7 @@ Si tenés algún lugar para proponer, agregalo acá, y vamos viendo:
 ||LeitoMonk ||
 ||RobertoRodríguez||
 ||[:SantiagoPereson:yaco]||
+||GuillermoGonzalez||
 
 === Temario ===
  * Balance del año, como se vio el avance de PyAr desde Buenos Aires.
