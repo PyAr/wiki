@@ -23,6 +23,7 @@ Si tenés algún lugar para proponer, agregalo acá, y vamos viendo:
 ||[:SantiagoPereson:yaco]||
 ||GuillermoGonzalez||
 ||NicolasGiorgetti||
+||FacundoBatista||
 
 === Temario ===
  * Balance del año, como se vio el avance de PyAr desde Buenos Aires.
