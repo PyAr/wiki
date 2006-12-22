@@ -30,7 +30,8 @@ Si tenés algún lugar para proponer, agregalo acá, y vamos viendo:
  * Balance del año, como se vio el avance de PyAr desde Buenos Aires.
 
 === ¿Dónde? ===
-A definir...
+
+F.M La Tribu Lambare 873, Almagro
 
 ## No borres el siguiente párrafo! Comentalo. Así, pasada la reunión,
 ## lo descomentamos y listo (es el texto estándar que mostramos cuando
