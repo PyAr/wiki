@@ -21,7 +21,7 @@
 ||FacundoBatista||
 ||RicardoKirkner||
 ||Carlos G Alvarez||
-
+||HugoRuscitti||
 
 === Temario ===
  * Balance del año, como se vio el avance de PyAr desde Buenos Aires.
