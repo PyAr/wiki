@@ -13,6 +13,7 @@
 ||NubIs ||
 ||Tomas Zulberti ||
 ||LeitoMonk ||
+|| LucioTorre ||
 ||RobertoRodríguez||
 ||[:SantiagoPereson:yaco]||
 ||GuillermoGonzalez||
