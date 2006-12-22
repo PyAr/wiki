@@ -1,6 +1,6 @@
 #acl All:read,write
 #language es
-== Reunión 21 - 27/12/2006 - ??? - ??:??hs ==
+== Reunión 21 - 27/12/2006 - en FM La Tribu - 19:00hs ==
 Estamos organizando una reunión en Cap. Fed. para despedir el año. Todavía no está completamente definido el lugar y la hora. Vamos a tomarnos unos días para evaluar propuestas. La idea es buscar un lugar un poco más copado que el Hip Bar.
 
 Si tenés algún lugar para proponer, agregalo acá, y vamos viendo:
@@ -61,7 +61,7 @@ A definir...
   1. --(Seguir el !ReleaseProcedure)--
   1. Generar el temario
   1. --(Armar una lista de asistentes)--
-  1. Fijar fecha y lugar definitivos
+  1. --(Fijar fecha y lugar definitivos)--
   1. Definir quien dirigirá la reunión
   1. Publicar recordatorios en la lista
   1. Publicar recordatorios el día de la reunión
