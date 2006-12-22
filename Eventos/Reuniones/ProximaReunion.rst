@@ -1,14 +1,8 @@
 #acl All:read,write
 #language es
 == Reunión 21 - 27/12/2006 - en FM La Tribu - 19:00hs ==
-Estamos organizando una reunión en Cap. Fed. para despedir el año. Todavía no está completamente definido el lugar y la hora. Vamos a tomarnos unos días para evaluar propuestas. La idea es buscar un lugar un poco más copado que el Hip Bar.
 
-Si tenés algún lugar para proponer, agregalo acá, y vamos viendo:
-
-||<10%style="">'''Lugar''' ||'''Propuso''' ||<25%style="">'''Dirección''' ||<20%style="">'''Links''' ||'''Observaciones''' ||
-||Beat House ||NubIs ||Baez 211, Las Cañitas ||[http://www.guiaoleo.com.ar/detail.php?ID=471 óleo] [[BR]] [http://www.adondevamos.com/bares/Beat-House/681/?js=0 AdondeVamos.com] ||En precios andan como el hip y si vamos en patota capaz lo extorsionamos para que bajen mas ||
-||La Tribu ||LeitoMonk ||Lambare 873, Almagro ||http://www.fmlatribu.com/ ||Precios modicos ||
-
+¡Ya está todo definido! Hagan propaganda donde puedan...
 
 === Asistentes ===
 ¿Podés venir? ¡Anotate! Por la fecha, vamos a tener que reservar con anticipación. Así que es importante definir en los próximos días el lugar, y tener cierta certeza de cuántos somos para reservar
@@ -28,6 +22,8 @@ Si tenés algún lugar para proponer, agregalo acá, y vamos viendo:
 
 === Temario ===
  * Balance del año, como se vio el avance de PyAr desde Buenos Aires.
+ * CaFeConf: evaluación
+ * ¿Dá para alguna charlita sobre un tema técnico puntual?
 
 === ¿Dónde? ===
 
