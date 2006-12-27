@@ -22,10 +22,12 @@
 ||RicardoKirkner||
 ||Carlos G Alvarez||
 ||HugoRuscitti||
+||Rama||
 
 === Temario ===
  * Balance del año, como se vio el avance de PyAr desde Buenos Aires.
  * CaFeConf: evaluación
+ * [http://www.platoniq.net/burnstation/ Burnstation]: Rama viene a contarnos un poco mas del proyecto, hecho con wxpython.
  * ¿Dá para alguna charlita sobre un tema técnico puntual?
 
 === ¿Dónde? ===
