@@ -1,49 +1,16 @@
 #acl All:read,write
 #language es
-== Reunión 21 - 27/12/2006 - en FM La Tribu - 19:00hs ==
-
-¡Ya está todo definido! Hagan propaganda donde puedan...
-
-=== Asistentes ===
-¿Podés venir? ¡Anotate! Por la fecha, vamos a tener que reservar con anticipación. Así que es importante definir en los próximos días el lugar, y tener cierta certeza de cuántos somos para reservar
-
-||[:AlejandroJCura:alecu] ||
-||JuanColome ||
-||MarianoDraghi ||
-||NubIs ||
-||Tomas Zulberti ||
-||LeitoMonk ||
-|| LucioTorre ||
-||RobertoRodríguez||
-||[:SantiagoPereson:yaco]||
-||GuillermoGonzalez||
-||NicolasGiorgetti||
-||FacundoBatista||
-||RicardoKirkner||
-||Carlos G Alvarez||
-||HugoRuscitti||
-||Rama||
-
-=== Temario ===
- * Balance del año, como se vio el avance de PyAr desde Buenos Aires.
- * CaFeConf: evaluación
- * [http://www.platoniq.net/burnstation/ Burnstation]: Rama viene a contarnos un poco mas del proyecto, hecho con wxpython.
- * ¿Dá para alguna charlita sobre un tema técnico puntual?
-
-=== ¿Dónde? ===
-
-F.M La Tribu Lambare 873, Almagro
 
 ## No borres el siguiente párrafo! Comentalo. Así, pasada la reunión,
 ## lo descomentamos y listo (es el texto estándar que mostramos cuando
 ## no hay reuniones programadas:
 ##
-## = Próxima Reunión =
-## Por el momento, no hay planificada una reunión. Si querés organizar alguna, o proponer temas
-## para juntar ''quorum'' y que se organice, te invitamos a proponerlo en nuestra ListaDeCorreo.
-## Te sugerimos consultar nuestro [wiki:Eventos/Reuniones/ReleaseProcedure ReleaseProcedure] para
-## tener una idea de como organizar una reunión.
-##
+= Próxima Reunión =
+Por el momento, no hay planificada una reunión. Si querés organizar alguna, o proponer temas
+para juntar ''quorum'' y que se organice, te invitamos a proponerlo en nuestra ListaDeCorreo.
+Te sugerimos consultar nuestro [wiki:Eventos/Reuniones/ReleaseProcedure ReleaseProcedure] para
+tener una idea de como organizar una reunión.
+
 ## Ejemplo de formato:
 ## == Reunión XX - @fecha(dd/mm/yyyy)@ - @lugar@ - @hora@ ==
 ## *Tema 1
@@ -57,13 +24,13 @@ F.M La Tribu Lambare 873, Almagro
 ----
 === Release Procedure ===
  1. Tareas comunes
-  1. --(Proponer la reunión)--
-  1. --(Obtener un mínimo de personas interesadas)--
-  1. --(Fijar fecha y lugar tentativos)--
-  1. --(Seguir el !ReleaseProcedure)--
+  1. Proponer la reunión
+  1. Obtener un mínimo de personas interesadas
+  1. Fijar fecha y lugar tentativos
+  1. Seguir el !ReleaseProcedure
   1. Generar el temario
-  1. --(Armar una lista de asistentes)--
-  1. --(Fijar fecha y lugar definitivos)--
+  1. Armar una lista de asistentes
+  1. Fijar fecha y lugar definitivos
   1. Definir quien dirigirá la reunión
   1. Publicar recordatorios en la lista
   1. Publicar recordatorios el día de la reunión
