@@ -28,7 +28,7 @@ FacundoBatista dixit:
 
  ''Definiendo tamaños (si se agregan acá los considero con fuerte intención de compra). Hay M, L y XL para elegir (como referencia, para mí, Facu, sería L (dije que era una referencia, no que fuese útil))''
 
-{i} Las personas que están tachadas, ya recibieron su remera.
+{i} Las personas que están tachadas, ya recibieron su remera. El resto, alpiste con la reserva. Las pocas que quedan están todas disponibles para la venta
 
  * --(Facundo Batista: 3 L, 1 M)--
  * --(Mario Zorz: 3 M)--
@@ -45,7 +45,7 @@ FacundoBatista dixit:
  * --(Guillermo Narvaja: 1 XL)--
  * --(Pablo Maccagnoni: 1 XL)--
  * Viviana Oviedo: 1 M
- * Rubén Presa: 1 M
+ * --(Rubén Presa: 1 M)--
  * --(Guillermo Gonzalez (Buenos Aires): 2 L)--
  * --(Leito Monk: 1 M)--
  * --(Abel Eduardo: 1 M)--
@@ -62,13 +62,12 @@ FacundoBatista dixit:
  * Donadas: 7 (Guido van Rossum, Tim Peters, Raymond Hettinger, Alex Martelli, Anna Ravenscroft, David Ascher, Bob Ippolito)
  * Vendidas: 17
 
-=== Stock al 08/03/2006 ===
+=== Stock al 23/02/2007 ===
 
-||Talle||||||Cantidad||
-|| ||Stock||Reservada||'''Disponible'''||
-||M||13||3||'''7'''||
-||L||12||4||'''8'''||
-||XL||0||0||'''0'''||
+||'''Talle'''||'''Cantidad'''||
+||M||  9||
+||L||  4||
+||XL|| 0||
 
 [[BR]]
 -----
