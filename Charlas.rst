@@ -18,3 +18,9 @@ En esta página podrán encontrar los ''slides'' de charlas y presentaciones dic
 
 == Un juego en 7 días ==
 '''Links:''' [http://alecu.com.ar/juegos/presentacion/ slides], [https://opensvn.csie.org/traccgi/PyAr/browser/sandbox/alecu/presentacion codigo fuente] (requiere pygame).
+
+== Introducción a Python ==
+
+''Facundo Batista''
+
+'''Links:''' [http://www.taniquetil.com.ar/facundo/bdvfiles/intro-python-2.0.odp]
