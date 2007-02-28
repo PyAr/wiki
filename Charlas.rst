@@ -8,18 +8,30 @@ En esta página podrán encontrar los ''slides'' de charlas y presentaciones dic
 '''Links:''' [http://www.juanjoconti.com.ar/files/python/fu/charla-cordoba/ slides], [http://www.juanjoconti.com.ar/2006/08/22/creando-plug-ins-para-gimp-con-python-charla/ post con código fuente usado].
 ----
 == De 0 a Python en 45 minutos ==
+
+''Daniel F. Moisset''
+
 '''Links:''' [http://except.com.ar/downloads/2006/08/20060819-de-0-a-python.odp slides].
 
 ----
 == PyGTK y Glade ==
+
+''Natalia Bidart''
+
 '''Links:''' [http://except.com.ar/downloads/2006/08/20060819-pygtk-on-glade.odp slides].
 
 ----
 == Test Driven Development ==
+
+''Javier Mansilla'' y ''Natalia Bidart''
+
 '''Links:''' [http://except.com.ar/downloads/2006/08/20060819-tdd.odp slides], [http://except.com.ar/downloads/2006/08/20060819-tdd-ejemplos.tar.gz código de ejemplo].
 
 ----
 == Twisted Framework ==
+
+''Anthony Lenton''
+
 '''Links:''' [http://except.com.ar/downloads/2006/08/20060819-twisted.odp slides], [http://except.com.ar/downloads/2006/08/20060819-twisted-ejemplos.tar.gz código fuente]
 
 ----
