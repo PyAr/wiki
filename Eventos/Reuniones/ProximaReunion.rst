@@ -20,9 +20,19 @@
 
 == Reunión 22 - 25/04/2007 - Hip Bar - 19.00hs ==
 
-== Agenda ==
+=== Agenda ===
 
   A definir... Propongan ideas.
+
+=== Asistentes ===
+
+Por favor, si venís a la reunión, anotate en esta lista:
+
+||FacundoBatista||
+||MarianoDraghi||
+||||
+||||
+||||
 
 
 === ¿Dónde? ===
