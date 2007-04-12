@@ -5,11 +5,11 @@
 ## lo descomentamos y listo (es el texto estándar que mostramos cuando
 ## no hay reuniones programadas:
 ##
-= Próxima Reunión =
-Por el momento, no hay planificada una reunión. Si querés organizar alguna, o proponer temas
-para juntar ''quorum'' y que se organice, te invitamos a proponerlo en nuestra ListaDeCorreo.
-Te sugerimos consultar nuestro [wiki:Eventos/Reuniones/ReleaseProcedure ReleaseProcedure] para
-tener una idea de como organizar una reunión.
+##= Próxima Reunión =
+##Por el momento, no hay planificada una reunión. Si querés organizar alguna, o proponer temas
+##para juntar ''quorum'' y que se organice, te invitamos a proponerlo en nuestra ListaDeCorreo.
+##Te sugerimos consultar nuestro [wiki:Eventos/Reuniones/ReleaseProcedure ReleaseProcedure] para
+##tener una idea de como organizar una reunión.
 
 ## Ejemplo de formato:
 ## == Reunión XX - @fecha(dd/mm/yyyy)@ - @lugar@ - @hora@ ==
@@ -17,11 +17,21 @@ tener una idea de como organizar una reunión.
 ## *Tema 2
 ## *...
 ## *Tema n
-## === ¿Dónde? ===
-## Nos reunimos en el Hip Bar, Hipólito Yrigoyen 640, Ciudad de Buenos
-## Aires, comenzando a las 19hs. Estaremos en el subsuelo, por lo que
-## pregúntenle al barman por nosotros.
+
+== Reunión 22 - 25/04/2007 - Hip Bar - 19.00hs ==
+
+== Agenda ==
+
+  A definir... Propongan ideas.
+
+
+=== ¿Dónde? ===
+Nos reunimos en el HipBar, Hipólito Yrigoyen 640, Ciudad de Buenos
+Aires, comenzando a las 19hs. Estaremos en el subsuelo, por lo que
+pregúntenle al barman por nosotros.
+
 ----
+
 === Release Procedure ===
  1. Tareas comunes
   1. Proponer la reunión
