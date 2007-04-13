@@ -45,13 +45,13 @@ pregúntenle al barman por nosotros.
 
 === Release Procedure ===
  1. Tareas comunes
-  1. Proponer la reunión
-  1. Obtener un mínimo de personas interesadas
-  1. Fijar fecha y lugar tentativos
+  1. --(Proponer la reunión)--
+  1. --(Obtener un mínimo de personas interesadas)--
+  1. --(Fijar fecha y lugar tentativos)--
   1. Seguir el !ReleaseProcedure
   1. Generar el temario
-  1. Armar una lista de asistentes
-  1. Fijar fecha y lugar definitivos
+  1. --(Armar una lista de asistentes)--
+  1. --(Fijar fecha y lugar definitivos)--
   1. Definir quien dirigirá la reunión
   1. Publicar recordatorios en la lista
   1. Publicar recordatorios el día de la reunión
