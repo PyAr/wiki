@@ -34,7 +34,7 @@ Por favor, si venís a la reunión, anotate en esta lista:
 ||[wiki:AlejandroJCura alecu]||
 ||GuillermoGonzalez||
 ||LeitoMonk||
-||||
+||SebastianBassi||
 
 
 === ¿Dónde? ===
