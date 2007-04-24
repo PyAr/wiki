@@ -26,7 +26,9 @@
   * PyWeek y nuevos podios para Python Argentina
   * Py3k y novedades del lenguaje
   * Experiencias de migración a Py2.5
-
+  * Evaluar la participación en las 7^as^ Jornadas Regionales, con algún sprint o charla:
+      * http://jornadas.grulic.org.ar/7/noticias/llamado-para-cursos-talleres-y-sprints
+      * http://jornadas.grulic.org.ar/7/noticias/llamado-a-charlas
 
 === Asistentes ===
 
