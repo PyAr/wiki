@@ -22,7 +22,11 @@
 
 === Agenda ===
 
-  A definir... Propongan ideas.
+  * Alecu y Lucio volvieron de PyCon 2007: Freebies, comentarios, experiencias.
+  * PyWeek y nuevos podios para Python Argentina
+  * Py3k y novedades del lenguaje
+  * Experiencias de migración a Py2.5
+
 
 === Asistentes ===
 
