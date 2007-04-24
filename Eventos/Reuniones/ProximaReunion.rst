@@ -33,6 +33,7 @@ Por favor, si venís a la reunión, anotate en esta lista:
 ||NubIs||
 ||[wiki:AlejandroJCura alecu]||
 ||GuillermoGonzalez||
+||LeitoMonk||
 ||||
 
 
