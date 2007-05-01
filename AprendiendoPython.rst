@@ -20,7 +20,7 @@ Ahora, ¿a dónde podrías recurrir para obtener información que te inicie en l
 
  * Y por último, el único, original e inimitable, clásico de clásicos que casi todos en la lista usamos para empezar: el [http://www.python.org/doc/tut/ Tutorial de Python]
 
- * [http://pyspanishdoc.sourceforge.net/ Este] es un proyecto público y libre para mantener *toda* la documentación de Python traducida a nuestro idioma.
+ * [http://pyspanishdoc.sourceforge.net/ Este] es un proyecto público y libre para mantener '''toda''' la documentación de Python traducida a nuestro idioma.
 
 == Otras guias iniciales sobre python en español ==
 
