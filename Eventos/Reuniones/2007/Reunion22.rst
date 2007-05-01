@@ -42,6 +42,8 @@ Unos dias antes de la charla se anunciaron los resultados de la ultima competenc
 === Concursos para PyAr ===
 '''??? No se en que pensaba el chaghi cuando anoto este punto en la lista de temas! '''
 
+Juas! Alecu... Leé el título de esta sección. Ahora, leé el párrafo de la sección siguiente. ¿Te matchea algún string? ;) Reconozco que me costó un poco darme cuenta que quise poner, pero en esencia, fue eso: Una referencia a lo que hablamos sobre organizar concursos.
+
 === Trafico Lista ===
 Hubo varias ideas para incrementar el trafico de la lista, la que prendio mas fue la de organizar un concurso similar al python challenge para que la gente pueda probar sus habilidades mientras aprende python.
 
