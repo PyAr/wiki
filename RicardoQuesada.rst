@@ -2,11 +2,30 @@
 #acl RicardoQuesada:admin,read,write,delete,revert All:read
 #language es
 #format wiki
-== Your Name ==
+== Ricardo Quesada ==
+Email: [[MailTo(ricardoquesada AT SPAMFREE gmail DOT com)]]
 
-Email: [[MailTo(you AT SPAMFREE example DOT com)]]
+Intereses:
+
+ * Desarrollo de Software:
+  * Me gusta Python: Desarrollos elegantes a alta velocidad
+  * Empecé con BASIC en la Commodore 64, luego aprendí assembler de la C= 64, y... bueno, pasó mucho tiempo, y no recuero como sigue la historia
+
+ * Ajedrez:
+  * Apasionante juego, muy apasionante.
+
+  * Juego en FICS http://www.freechess.org/ con el handle de riqhi
+
+  * Juego en el club San Martin de Avellaneda http://www.ajedrezcsm.com.ar/
+
+  * Son más bien un jugador táctico, de ataque, aunque estoy aprendio algo de estrategia.
+
+ * Monociclo:
+  * Deporte y diversión.
+
+  * Mi blog monociclista: [http://monodiario.blogspot.com/ http://monodiario.blogspot.com]
 
 ...
 
 ----
-CategoryHomepage
+ CategoryHomepage
