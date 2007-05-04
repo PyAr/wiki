@@ -3,7 +3,7 @@
 #language es
 #format wiki
 == Ricardo Quesada ==
-Email: [[MailTo(ricardoquesada AT SPAMFREE gmail DOT com)]]
+Email: ricardoquesada arroba gmail punto com.
 
 Intereses:
 
@@ -18,7 +18,7 @@ Intereses:
 
   * Juego en el club San Martin de Avellaneda http://www.ajedrezcsm.com.ar/
 
-  * Son más bien un jugador táctico, de ataque, aunque estoy aprendio algo de estrategia.
+  * Soy más bien un jugador táctico, de ataque, aunque estoy aprendio algo de estrategia.
 
  * Monociclo:
   * Deporte y diversión.
