@@ -60,7 +60,6 @@
  * Los socios de la empresa son AntonioLenton, JuanLenton y DanielMoisset. (todos miembros de PyAR)
 
 === Hansa World Argentina ===
-
  * URL: http://www.hansaworld.com.ar/
 
 === Hector E. Nardelli S.A. ===
@@ -103,6 +102,18 @@
  * ¿Cómo usamos Python? Uso de todo tipo, desde integración con software escrito en otros lenguajes a sistemas escritos completos en el mismo.
 
  * Librerías utilizadas: [http://www.pygtk.org/ PyGTK], [http://sf.net/projects/pexpect Pexpect], [http://www.crummy.com/software/BeautifulSoup/ BeautifulSoup], Snack, MySQLdb.
+
+=== Menttes ===
+ * Contacto: [[MailTo( info AT menttes DOT com, Info)]]
+
+ * URL: ["http://www.menttes.com"]
+
+ * Teléfono: (0351) 5680147
+
+ * Dirección: Dean Funes 353 of 203, Córdoba, Argentina
+
+ * ¿De qué forma usamos Python?: Menttes trabaja exclusivamente con python y frameworks/aplicaciones desarrollados con este lenguaje. Brinda servicios de consultoria, desarrollo y entrenamiento en Python, Zope y Plone.
+
 
 === Movilogic ===
  * Contacto: [[MailTo( info AT movilogic DOT com, Info)]]
