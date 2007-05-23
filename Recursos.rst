@@ -13,6 +13,17 @@
 
  * ¿De qué forma usamos Python?: Se usa para manipulación de datos. Basicamente se usa para procesar los datos provenientes del campo y de los secuenciadores de ADN y luego para incluirlos en una base de datos de marcadores moleculares. También para algunas aplicaciones web de uso interno (como CGI).
 
+=== Cyclelogic ===
+ * Contacto: [http://www.mundomobile.com/corpsite/contactoform.php con este formulario]
+
+ * URL: http://www.cyclelogic.com/
+
+ * Teléfono: 11.6777.3900
+
+ * Dirección: Libertador 6250, piso 6, Capital Federal
+
+ * Python se usa en muchas maneras: generación dinámica de páginas WAP, implementación de aplicaciones, web services de altísima producción, herramientas de soporte interno, etc...
+
 === Core Security Technologies ===
  * Contacto: [[MailTo( info AT coresecurity DOT com, Info)]]
 
