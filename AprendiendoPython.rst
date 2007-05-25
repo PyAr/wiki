@@ -47,8 +47,8 @@ Ahora, ¿a dónde podrías recurrir para obtener información que te inicie en l
  * Implementando el patrón MVC con Webware-WebKit y PySQLite en la Web
    [http://pythonmexico.org/index_html/doc/mvc1/mvc.html Patron MVC] César Cárdenas
 
- * Procesando archivos XML con minidom
-   [http://sbassi.googlepages.com/leyendoxmlenpython%3Adom2] Sebastián Bassi, 2007.
+ * Procesando archivos XML con minidom, que forma parte de la libreria estandar de Python
+   [http://sbassi.googlepages.com/leyendoxmlenpython%3Adom2 Introducción a Minidom] Sebastián Bassi, 2007.
 
 
 '' Links revisados al 15/11/06 ''
