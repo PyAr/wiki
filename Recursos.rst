@@ -126,6 +126,18 @@
 
  * ¿De qué forma usamos Python?: Lo usamos de distintas maneras. Tenemos varios desarrollos para clientes en python, lo tenemos integrado con unos de nuestros productos y tenemos muchas de nuestras herramientas internas en python.
 
+=== MSA s.a. ===
+ * Contacto: [[MailTo( info AT msa DOT com DOT ar, Info)]]
+
+ * URL: http://www.msa.com.ar
+
+ * Teléfono: 4322-6800/6900
+
+ * Dirección: Av. Corrientes 640, Piso 10, Of 1. Ciudad Autónoma de Buenos Aires (C1043AAT)
+
+ * ¿De qué forma usamos Python?: Como lenguaje de programación principal en proyectos de misión crítica, sistemas web (mod_python, django) y aplicaciones GUI (pygtk, glade). 
+
+
 === Vortech ===
  * Contacto: [[MailTo( alecu AT vortech DOT com DOT ar, Alejandro J. Cura)]]
 
