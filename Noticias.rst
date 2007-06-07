@@ -18,6 +18,9 @@
 ##irss topic PyAr - Python Argentina
 ##irss descr Últimas noticias
 ## ULTIMAS_START
+==== 7/06/2007 ====
+ * Esperamos ansiosos el fin de semana porque se van a llevar a cabo las segundas jornadas de [http://www.pythonsantafe.com.ar/ python santa fe]. Con temas variados expuestos por personas que usan python entre otras cosas para hacer jugos, aplicaciones web o programas para las XO (tambien conocidas como OLPC).
+
 ==== 23/04/2007 ====
  * Y así pasó [http://pyweek.org/4/ PyWeek 4]. Para no perder la costumbre ;) una vez más los grupos de Argentina que participaron salieron muy bien parados. Resultados, [http://media.pyweek.org/static/pyweek4_ratings.html acá]. Bs. As. participó como [http://www.pyweek.org/e/Pywiii/ Pywiii], con ''Grossini's Hell'', y Córdoba como [http://www.pyweek.org/e/pycor2/ PyCor 2.0], con el juego homónimo, saliendo en 2^do^ y 5^to^ lugar, respectivamente. ¡Feliciataciones gente!
 
@@ -43,10 +46,11 @@
 ==== 05/10/2006 ====
  * Ayer se realizó la decimoctava reunión de PyAr, en Capital Federal. Ya está disponible la minuta en ["Eventos/Reuniones/Reunion18"].
 
+## ULTIMAS_END
+
 ==== 24/09/2006 ====
  * Finalizó [http://pyweek.org/3/ PyWeek 3]. Los dos grupos de Argentina que participaron lograron un excelente resultado en la categoría grupal. [http://pyweek.org/e/PyAr2/ PyAr2], de Bs.As., obtuvo el '''primer puesto''' con ''Typus Pocus'', y [http://pyweek.org/e/pycor/ PyCor], de Córdoba, obtuvo el '''tercer puesto''' con ''Saturday Night Ninja''. ¡Felicitaciones a ambos grupos por representarnos tan bien!
 
-## ULTIMAS_END
 ==== 17/08/2006 ====
  * El día 19 de agosto de 2006 se realizará el [http://www.grulic.org.ar/eventos/pythonday1/ Python Day 2006] en la ciudad de Córdoba, una jornada de charlas organizada por [http://www.grulic.org.ar/ GrULiC] que contará con disertantes locales y del resto del país. El evento se realizará en las aulas Magna y 220 de la [http://www.frc.utn.edu.ar/ Universidad Tecnológica Nacional], Facultad Regional Córdoba entre las 9 y las 18 horas. El [http://www.grulic.org.ar/eventos/pythonday1/#programa programa] previsto es el siguiente:
     * [http://www.grulic.org.ar/eventos/pythonday1/#ceroapy De 0 a Python en 45 minutos] (Daniel Moisset)
