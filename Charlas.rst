@@ -49,3 +49,10 @@ En esta página podrán encontrar los ''slides'' de charlas y presentaciones dic
 '''CaFeConf 2006:''' [http://www.taniquetil.com.ar/facundo/bdvfiles/intro-python-2.0.odp]
 
 '''Santa Fe 2007:''' [http://www.taniquetil.com.ar/facundo/bdvfiles/intro-python-2.1.odp]
+
+----
+== Programando para la OLPC ==
+
+''Alejandro David Weil'', ''Alejandro J. Cura''
+
+'''Links:''' [http://pyar-olpc.googlecode.com/svn/trunk/charla-olpc fuente de la charla], requiere pygame y [http://cheeseshop.python.org/pypi/bruce bruce].
