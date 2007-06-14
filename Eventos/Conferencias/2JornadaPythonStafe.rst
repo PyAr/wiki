@@ -16,3 +16,5 @@ Pueden encontrar la versión personal de la jornada de algunos de los asistentes
 
 Algunas fotos de la jornada:
  * [http://picasaweb.google.es/bgnoatto/PythonStaFe07?authkey=juaEjUNiQgM Galería 1]
+ * [http://www.flickr.com/photos/54757453@N00/sets/72157600348574980/ Galería 2]
+ * [http://picasaweb.google.com/alecura/PythonSantaFe2007 Galería 3]
