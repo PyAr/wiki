@@ -16,7 +16,7 @@ Si sigue el enlace de '''[[GetText(Create Profile)]]''', se le creará un perfil
 
 = Entrada al sistema(login) =
 ## Si desea reentrar, diligencie '''[[GetText(Name)]]''' y '''[[GetText(Password)]]''' y use '''[[GetText(Login)]]'''. En caso de olvido de su clave, indique su correo electrónico y use '''[[GetText(Mail me my account data)]]'''.
-Si desea reentrar, diligencie '''[[GetText(Name)]]''' y '''[[GetText(Password)]]''' y use '''[[GetText(Login)]]'''. En caso de olvido de su clave, indique su correo electrónico y avise al administrador del sistema.
+Si desea reentrar, ingrese '''[[GetText(Name)]]''' y '''[[GetText(Password)]]''' y elija '''[[GetText(Login)]]'''. En caso de olvido de su clave, envíe un email a los administradores del sistema ([[MailTo(pyar-subscribe AT decode DOT com DOT ar)]]).
 
 = Cambio de preferencias =
 '''[[GetText(Save)]]''' actualiza su perfil (el que esté en el servidor).
