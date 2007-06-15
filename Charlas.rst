@@ -57,7 +57,7 @@ En esta página podrán encontrar los ''slides'' de charlas y presentaciones dic
 
 '''Links:''' [http://pyar-olpc.googlecode.com/svn/trunk/charla-olpc fuente de la charla], requiere pygame y [http://cheeseshop.python.org/pypi/bruce bruce].
 ----
-== Testeos automaticos de seguridad (mediante simulacion de ataques) ==
+== Testeos automáticos de seguridad (mediante simulación de ataques) ==
 
 ''Matias Eissler'', ''Alejandro David Weil''
 
