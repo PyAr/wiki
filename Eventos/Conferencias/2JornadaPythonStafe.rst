@@ -8,6 +8,8 @@ La jornada comenzó con la [http://www.python-santafe.com.ar/programaci-n charla
 
 El día del sábado fué muy agotador ya que la noche del viernes nos acostamos tarde porque nos quedamos probando cosas en python, como no podía ser de otra forma. Al finalizar la jornada fuimos a comer y luego volvimos a casa con Hugo, Hector y Guillermo. Nos quedamos hasta muy tarde probando algunas cositas en [http://www.pygame.org pygame] porque teníamos la idea de empezar a hacer un juego entre los tres de forma remota.
 
+     ''ManuelKaufmann''
+
 Pueden encontrar la versión personal de la jornada de algunos de los asistentes y disertantes en las siguientes páginas:
  * [http://www.juanjoconti.com.ar/2007/06/11/fin-de-semana-pythonico/ Juanjo Conti]
  * [http://www.taniquetil.com.ar/plog/post/1/266 Facundo Batista]
