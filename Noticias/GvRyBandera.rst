@@ -3,7 +3,7 @@
 
 Recién llagadita de !EuroPython 2007, cortesía de [:AlejandroJCura:alecu], GvR posando con nuestra bandera:
 
-attachment:gvr-pyar-small.jpg
+attachment:gvr-pyar-2-small.jpg
 
 [[BR]]
 ----
