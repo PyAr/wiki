@@ -18,6 +18,9 @@
 ##irss topic PyAr - Python Argentina
 ##irss descr Últimas noticias
 ## ULTIMAS_START
+==== 11/07/2007 ====
+ * alecu está en !EuroPython. Mientras esperamos jugosas noticias y relatos ;) vamos posteando una foto de nada menos que [:Noticias/GvRyBandera:el BFDL junto a nuestra bandera].
+
 ==== 7/06/2007 ====
  * Esperamos ansiosos el fin de semana porque se van a llevar a cabo las segundas jornadas de [http://www.pythonsantafe.com.ar/ python santa fe]. Con temas variados expuestos por personas que usan python entre otras cosas para hacer jugos, aplicaciones web o programas para las XO (tambien conocidas como OLPC).
 
@@ -31,7 +34,7 @@
  * Se realizó [wiki:Eventos/Conferencias/CaFeConf2006 CaFeCONF 2006], con una extensa participación de Python, y PyAr. Entre otras cosas, tuvimos entre nosotros a Anna Ravenscroft y Alex Martelli, y aprovechamos para celebrar la [wiki:Eventos/Reuniones/Reunion19 Reunión 19].
 
 ==== 28/10/2006 ====
- * Durante las últimas semanas se llevó a cabo un concurso de diseño de una Bandera de PyAr para usar en presentaciones y convenciones. Ya están disponibles los [wiki:Bandera/resultados resultados de la votación]. Muchas gracias a todos los participantes por sus diseños, y a todos los votantes por su colaboración!
+ * Durante las últimas semanas se llevó a cabo un concurso de diseño de una Bandera de PyAr para usar en presentaciones y convenciones. Ya están disponibles los [wiki:Bandera/resultados resultados de la votación]. Muchas gracias a todos los participantes por sus diseños, y a todos los votantes por su colaboración!/Reunion01
 
 ==== 19/10/2006 ====
  * Confirmado: Alex y Anna Martelli vienen para CaFeCONF, gracias a la PSF. Estamos organizando una reunión especial, la 19,
