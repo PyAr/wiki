@@ -19,7 +19,7 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 ==== 11/07/2007 ====
- * alecu está en !EuroPython. Mientras esperamos jugosas noticias y relatos ;) vamos posteando una foto de nada menos que [:Noticias/GvRyBandera:el BFDL junto a nuestra bandera].
+ * alecu está en !EuroPython. Mientras esperamos jugosas noticias y relatos ;) vamos posteando una foto de nada menos que [:Noticias/GvRyBandera:el BDFL junto a nuestra bandera].
 
 ==== 7/06/2007 ====
  * Esperamos ansiosos el fin de semana porque se van a llevar a cabo las segundas jornadas de [http://www.pythonsantafe.com.ar/ python santa fe]. Con temas variados expuestos por personas que usan python entre otras cosas para hacer jugos, aplicaciones web o programas para las XO (tambien conocidas como OLPC).
