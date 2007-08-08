@@ -14,7 +14,7 @@ Ahora, ¿a dónde podrías recurrir para obtener información que te inicie en l
 
  * [http://www.hetland.org/python/instant-python.php Instant Python] es un curso de entrenamiento corto e intensivo.
 
- * [http://genes.unq.edu.ar/ Tutorial Python], está orientado a biologos aunque las bases pueden ser entendidas por cualquiera, tiene ejemplos de código  y una aplicación web funcionando (se puede ver el código y probar la aplicación). Está en inglés.
+ * [http://genes.unq.edu.ar/ Bio Tutorial Python], está orientado a biologos aunque las bases pueden ser entendidas por cualquiera, tiene ejemplos de código  y una aplicación web funcionando (se puede ver el código y probar la aplicación). Está en inglés.
 
  * Para quien ya tiene alguna idea, pero necesita buscar algo puntual, puede probar [http://rgruet.free.fr/PQR24/PQR2.4.html Python 2.4 Quick Reference].
 
