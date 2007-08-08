@@ -39,7 +39,14 @@
  ||[wiki:AlejandroJCura alecu]||
  ||Martin Gaitan||
  ||[wiki:AlejandroDavidWeil dave]||
+ ||Alvaro J. Armesto ||
+
+---- /!\ '''Edit conflict - other version:''' ----
  ||Alvaro Joaquin Armesto ||
+
+---- /!\ '''Edit conflict - your version:''' ----
+
+---- /!\ '''End of edit conflict''' ----
 ## ||??? ||
 
 === ¿Dónde? ===
