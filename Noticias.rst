@@ -18,6 +18,9 @@
 ##irss topic PyAr - Python Argentina
 ##irss descr Últimas noticias
 ## ULTIMAS_START
+==== 08/08/2007 ====
+ * El próximo sábado 8 de agosto se estará realizando la 23a Reunión de PyAr, en Córdoba, en el marco de las Jornadas de Software Libre. Más info en [wiki:Eventos/Reuniones/ProximaReunion ProximaReunion].
+
 ==== 11/07/2007 ====
  * alecu está en !EuroPython. Mientras esperamos jugosas noticias y relatos ;) vamos posteando una foto de nada menos que [:Noticias/GvRyBandera:el BDFL junto a nuestra bandera].
 
@@ -41,6 +44,8 @@
  con ellos como invitados de honor. Si estás en el interior, o lejos de Cap. Fed., y pensabas acercarte a CaFeCONF, aprovechá.
  Para más información, consultá [wiki:Eventos/Reuniones/ProximaReunion ProximaReunion].
 
+## ULTIMAS_END
+
 ==== 17/10/2006 ====
  * Ya suscribimos la ListaDeCorreo a [http://gmane.org/ GMANE], ahora podemos mantenernos actualizados con lo que pasa via RSS y NNTP. 
  Además, GMANE funciona como archive alternativo.
@@ -49,7 +54,6 @@
 ==== 05/10/2006 ====
  * Ayer se realizó la decimoctava reunión de PyAr, en Capital Federal. Ya está disponible la minuta en ["Eventos/Reuniones/Reunion18"].
 
-## ULTIMAS_END
 
 ==== 24/09/2006 ====
  * Finalizó [http://pyweek.org/3/ PyWeek 3]. Los dos grupos de Argentina que participaron lograron un excelente resultado en la categoría grupal. [http://pyweek.org/e/PyAr2/ PyAr2], de Bs.As., obtuvo el '''primer puesto''' con ''Typus Pocus'', y [http://pyweek.org/e/pycor/ PyCor], de Córdoba, obtuvo el '''tercer puesto''' con ''Saturday Night Ninja''. ¡Felicitaciones a ambos grupos por representarnos tan bien!
