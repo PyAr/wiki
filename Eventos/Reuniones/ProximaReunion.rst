@@ -4,11 +4,11 @@
 ## lo descomentamos y listo (es el texto estándar que mostramos cuando
 ## no hay reuniones programadas:
 ##
-= Próxima Reunión =
-Por el momento, no hay planificada una reunión. Si querés organizar alguna, o proponer temas
-para juntar ''quorum'' y que se organice, te invitamos a proponerlo en nuestra ListaDeCorreo.
-Te sugerimos consultar nuestro [wiki:Eventos/Reuniones/ReleaseProcedure ReleaseProcedure] para
-tener una idea de como organizar una reunión.
+##= Próxima Reunión =
+##Por el momento, no hay planificada una reunión. Si querés organizar alguna, o proponer temas
+##para juntar ''quorum'' y que se organice, te invitamos a proponerlo en nuestra ListaDeCorreo.
+##Te sugerimos consultar nuestro [wiki:Eventos/Reuniones/ReleaseProcedure ReleaseProcedure] para
+##tener una idea de como organizar una reunión.
 
 ## Ejemplo de formato:
 ## == Reunión XX - @fecha(dd/mm/yyyy)@ - @lugar@ - @hora@ ==
@@ -25,6 +25,22 @@ tener una idea de como organizar una reunión.
 ## === ¿Dónde? ===
 ## Nos reunimos en el HipBar, Hipólito Yrigoyen 640, Ciudad de Buenos Aires,
 ## comenzando a las 19hs. Estaremos en el subsuelo, por lo que pregúntenle al barman por nosotros.
+
+== Reunión 21 - (11/Agosto/2007) - Except, Córdoba - 21:30 ==
+ * Ideas para aumentar visibilidad nacional de pyar (dani)
+ * Pyweek 5?
+ * Agreguen cosas acá, che
+
+=== Asistentes ===
+ Por favor, si venís a la reunión, anotate en esta lista:
+ ||Daniel F Moisset ||
+## ||??? ||
+
+=== ¿Dónde? ===
+ Nos reunimos en la oficina de Except, Montevideo 728 PB, Ciudad de Córdoba,
+ comenzando a las 21:30hs.
+
+
 
 ----
 === Release Procedure ===
