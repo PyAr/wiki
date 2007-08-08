@@ -26,7 +26,7 @@
 ## Nos reunimos en el HipBar, Hipólito Yrigoyen 640, Ciudad de Buenos Aires,
 ## comenzando a las 19hs. Estaremos en el subsuelo, por lo que pregúntenle al barman por nosotros.
 
-== Reunión 231 - (11/Agosto/2007) - Except, Córdoba - 21:30 ==
+== Reunión 23 - (11/Agosto/2007) - Except, Córdoba - 21:30 ==
  * Ideas para aumentar visibilidad nacional de pyar (dani)
  * Pyweek 5?
  * Agreguen cosas acá, che
