@@ -34,6 +34,7 @@
 === Asistentes ===
  Por favor, si venís a la reunión, anotate en esta lista:
  ||Daniel F Moisset ||
+ ||GuillermoGonzalez||
 ## ||??? ||
 
 === ¿Dónde? ===
