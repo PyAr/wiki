@@ -30,7 +30,10 @@
 
  * TareasPendientes: La mayoría relacionadas con el mantenimiento del portal, y la promoción y organización del grupo.
 
- * PreguntasFrecuentes
+ * PreguntasFrecuentes: Todo lo que usted siempre quiso preguntar y ya le ganaron de mano.
+
+ * ["Material"]: Material de difusión, folletos, etc.
+ 
 
 == Últimas noticias ==
 [[Include(Noticias, , ,from="ULTIMAS_START", to="ULTIMAS_END")]]
