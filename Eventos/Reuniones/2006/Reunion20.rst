@@ -37,7 +37,3 @@ No se llegó a hablar sobre la CafeConf, aunque de los 9 presentes fuimos 5.
 Al rato se nos va Nicolás César, y como quince minutos después, nos desbandamos cada cual a su actividad inmediata (tal vez dormir). Eran alrededor de las 11:45 cuando nos despedíamos.
 
 Y hasta aquí llega la minuta de lo que fue la primera reunión en Santa Fe, ¿o debería decir segunda?. Más que nada fue para encontrarnos, vernos las caras y compartir recuerdos, experiencias y planes.
-
-'''Fotos:'''
-
- http://www.sussanboutique.com.ar/r2.jpg http://www.sussanboutique.com.ar/r1.jpg
