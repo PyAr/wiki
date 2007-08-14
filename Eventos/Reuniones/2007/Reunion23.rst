@@ -40,7 +40,7 @@ Durante el trascurso de la reunión llegó más y más gente...
 
 Con lo que totalizamos 23 personas, entre miembros y no miembros de PyAr.
 
-= Resumen Ejecutivo de los temas tratados =
+= Resumen Ejecutivo =
 
  1. Difusión
   * universidades, 
