@@ -2,17 +2,17 @@
 #format wiki
 == Facundo Batista ==
 
-Soy Ingeniero Electrónica de la Universidad Nacional de La Matanza, con un Master en Ingeniería de la Innovación en la Universidad de Bologna, Italia.
+Soy Ingeniero Electrónica de la Universidad Nacional de La Matanza, con un Master en Ingeniería de la Innovación en la Universidad de Bologna, Italia
 
-Trabajé en Movistar (antes Unifón) los últimos seis años, primero en el área de Administración de Datos de la Red Celular (entre los que se destaca un proyecto llamado CeCubo para la generación automática de comandos para el mantenimiento de las centrales de conmutación; y el SACLLA, un datawarehousing sobre la información generada de por las centrales), y luego en el sector de Desarrollo de Servicios, principalmente a cargo del Servicio de Mensajes Cortos (SMSs), especificación e instalación de la plataforma WAP Gateway, y lider de proyecto de los servicios sobre OTA.
+Trabajé en Movistar (antes Unifón) del 2000 al 2006, primero en el área de Administración de Datos de la Red Celular (entre los que se destaca un proyecto llamado CeCubo para la generación automática de comandos para el mantenimiento de las centrales de conmutación; y el SACLLA, un datawarehousing sobre la información generada de por las centrales), y luego en el sector de Desarrollo de Servicios, principalmente a cargo del Servicio de Mensajes Cortos (SMSs), especificación e instalación de la plataforma WAP Gateway, y lider de proyecto de los servicios sobre OTA.
 
-A partir de Marzo estoy como Jefe de Desarrollo en CycleLogic, una empresa dedicada proveer contenidos para teléfonos móviles.
+De Marzo del 2006 a Julio del 2007 trabajé como Jefe de Desarrollo en CycleLogic, una empresa dedicada proveer contenidos para teléfonos móviles. A partir de Julio estoy en Ericsson Argentina, como Arquitecto de Soluciones en la parte Multimedia.
 
 Fuí profesor en la Universidad de La Matanza (en talleres de la carrera de Ingeniería Informática) y en diversas instituciones secundarias y terciarias. También poseo una amplia experiencia como analista de sistemas y programador, tanto freelance como bajo contrato, en diversos sistemas en múltiples plataformas y lenguajes.
 
 Siguiendo en el ámbito de la programación, me encanta Python, habiéndome convertido en Desarrollador Oficial del lenguaje y miembro de la Python Software Foundation por mi trabajo en el módulo Decimal. Fuí invitado como expositor a conferencias nacionales e internacionales (PyCon 2005 en Washington, EuroPython 2005 en Suecia, PyCon 2006 en Dallas) y dicté cursos de Python tanto en la Universidad como en ámbitos terciarios.
 
-Vivo en Buenos Aires, más específicamente en Ciudad Evita. Para más info, mi [http://taniquetil.com.ar/plog blog].
+Vivo en Buenos Aires, más específicamente en Florida, Vicente Lopez. Para más info, mi [http://taniquetil.com.ar/plog blog].
 
 Email: [[MailTo(facundo mafalda arroba miguelito taniquetil guille com susanita ar)]]
 
