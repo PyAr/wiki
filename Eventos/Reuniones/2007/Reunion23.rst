@@ -7,7 +7,7 @@ Algunos llegamos caminando desde la ciudad universitaria sin ninguna dificultad 
 
 Poco a poco se fue sumando más gente y se estuvo haciendo tiempo leyendo frases graciosas de un libro de Python, jugando con algo que trajo Alecu de su viaje ([http://www.wunderland.com/icehouse/IceTowers/Rules.html IceTowers]), hablando (o delirando) de cosas generales y fundamentalmente: comiendo y bebiendo (¿causa de más delirio?) cuando llegaron las provisiones. Finalmente, estómago satisfecho, se inicia la reunión poniendo sobre la mesa los temas a tratar una vez que quitamos de la mesa los restos de la comida (lo líquido siguió por ahí, no muy lejos del alcance de la mano).
 
-= Asistentes =
+== Asistentes ==
 
 Los presentes al iniciar la reunión número 25, 24.... 23 de PyAr (tuvimos que esforzarnos por recordar la numeración) éramos entre conocidos y no conocidos unas 15 personas:
 
@@ -40,7 +40,7 @@ Durante el trascurso de la reunión llegó más y más gente...
 
 Con lo que totalizamos 23 personas, entre miembros y no miembros de PyAr.
 
-= Resumen Ejecutivo =
+== Resumen Ejecutivo ==
 
  1. Difusión
   * universidades, 
@@ -71,7 +71,7 @@ Con lo que totalizamos 23 personas, entre miembros y no miembros de PyAr.
 
 ¿Quiere saber más? Siga leyendo.
 
-= Desarrollo de la reunión =
+== Desarrollo de la reunión ==
 
 Daniel acomodó sus papeles sobre la mesa y tiró a la palestra el primer tema: difusión. Se pensó en qué cosas podrían hacerse para difundir más las actividades y, sobre todo, la existencia de PyAr. Como ejemplo se planteó el caso de Matías Capeletto – presente entre nosotros – que había buscado gente que programara en Python y no había encontrado hasta llegar a estas jornadas. Ahí se tiraron sobre la mesa algunos consejos de búsqueda y otros miembros de la lista recordaron cómo fue que cayeron a PyAr, cómo fue que se enteraron de la existencia del grupo: Alecu contó su experiencia con el Tai Chi, Daniel se enteró de PyAr porque hosteaban la lista y un día dijo algo así como: “¿qué es esto?”. Es decir, PyAr debe hacerse más visible. También se hizo la observación que algunos miembros de PyAr en sus charlas hablan del grupo en tercera persona, como si no fueran miembros. Hay que pulir esto. Evitarlo. Tirón de orejas para...... (no se menciona el nombre para no comprometerlo :-) ).
 
