@@ -20,6 +20,9 @@
 ## ULTIMAS_START
 ==== 14/08/2007 ====
  * Esta abierta la convocatoria para aquellos interesados o que conocen a interesados en disertar en la edicion en BSAS del evento [wiki:WhyFloss WhyFLOSS].
+==== 14/08/2007 ====
+ * Se realizó la [wiki:Eventos/Reuniones/Reunion23 Reunion23] en Córdoba con todo éxito. Siguen creciendo los lugares del país donde se hacen reuniones de PyAr
+
 ==== 08/08/2007 ====
  * El próximo sábado 8 de agosto se estará realizando la 23a Reunión de PyAr, en Córdoba, en el marco de las Jornadas de Software Libre. Más info en [wiki:Eventos/Reuniones/ProximaReunion ProximaReunion].
 
