@@ -3,15 +3,15 @@
 
 Como se venía hablando desde algún tiempo antes de iniciar las [http://jornadas.grulic.org.ar/7/ 7mas Jornadas Regionales de Software Libre] por la lista, y durante las jornadas mismas, la reunión fue en los cuarteles generales de [http://except.com.ar/es/index.html Except] ubicados en Montevideo 728 PB, Ciudad de Córdoba.
 
-Algunos llegamos caminando desde la ciudad universitaria sin ninguna dificultad (Facundo, Guillermo, Mariano, Sebastián, Silvestre, John and me - César) ya que contábamos con un guía estrella como John Lenton. A Silvestre Huens lo perdimos en el camino. El no llegaría a Except (por voluntad propia atendiendo a otros compromisos). Otros que habían decidido llegar en vehículos (“más afortunados” podrían pensar), se extraviaban por las calles cordobesas, pero con más o menos inconvenientes, arribaban al lugar de la reunión.
+Algunos llegamos caminando desde la ciudad universitaria sin ninguna dificultad (Facundo, Guillermo, Mariano, Sebastián, Silvestre, John and me - César) ya que contábamos con un guía estrella como John Lenton. A Silvestre Huens lo perdimos en el camino. El no llegaría a Except (por voluntad propia atendiendo a otros compromisos). Otros que habían decidido llegar en vehículos (“más afortunados” podrían pensar), se extraviaban por las calles cordobesas (excepto los que llevaban algún local haciendo de guía), pero con más o menos inconvenientes, arribaban al lugar de la reunión.
 
-Poco a poco se fue sumando más gente y se estuvo haciendo tiempo leyendo frases graciosas de un libro de Python, jugando con algo que trajo Alecu de su viaje ([http://www.wunderland.com/icehouse/IceTowers/Rules.html IceTowers]), hablando (o delirando) de cosas generales y fundamentalmente: comiendo y bebiendo (¿causa de más delirio?) cuando llegaron las provisiones. Finalmente, estómago satisfecho, se inicia la reunión poniendo sobre la mesa los temas a tratar una vez que quitamos de la mesa los restos de la comida (lo líquido siguió por ahí, no muy lejos del alcance de la mano).
+Poco a poco se fue sumando más gente y se estuvo haciendo tiempo leyendo frases graciosas de un libro de Python (El de Mark Lutz editado por O'Reilly), jugando con algo que trajo Alecu de su viaje ([http://www.wunderland.com/icehouse/IceTowers/Rules.html IceTowers]), hablando (o delirando) de cosas generales y fundamentalmente: comiendo y bebiendo (¿causa de más delirio?) cuando llegaron las provisiones. Finalmente, estómago satisfecho, se inicia la reunión poniendo sobre la mesa los temas a tratar una vez que quitamos de la mesa los restos de la comida (lo líquido siguió por ahí, no muy lejos del alcance de la mano).
 
 == Asistentes ==
 
 Los presentes al iniciar la reunión número 25, 24.... 23 de PyAr (tuvimos que esforzarnos por recordar la numeración) éramos entre conocidos y no conocidos unas 15 personas:
 
- * Daniel F. Moisset
+ * DanielMoisset
  * [wiki:AlejandroDavidWeil dave]
  * LucioTorre
  * Mariano Galán
@@ -29,7 +29,7 @@ Los presentes al iniciar la reunión número 25, 24.... 23 de PyAr (tuvimos que 
 
 Durante el trascurso de la reunión llegó más y más gente...
 
- * Daniel Bartoli
+ * Daniel Valfre
  * Alfredo Monclus
  * Marcos Medrano
  * Rayentray Tappa
@@ -38,7 +38,7 @@ Durante el trascurso de la reunión llegó más y más gente...
  * Carlos (charly) Navarro
  * Luciano Bello
 
-Con lo que totalizamos 23 personas, entre miembros y no miembros de PyAr.
+Con lo que totalizamos 23 personas, entre miembros y no miembros de PyAr (muchos de los cuales también son miembros). También anduvo dando vueltas (no participando de la reunión, pero metiendo un par de fichas, Kapil Thangavelu, uno de los core developers de [http://plone.org Plone])
 
 == Resumen Ejecutivo ==
 
@@ -73,9 +73,9 @@ Con lo que totalizamos 23 personas, entre miembros y no miembros de PyAr.
 
 == Desarrollo de la reunión ==
 
-Daniel acomodó sus papeles sobre la mesa y tiró a la palestra el primer tema: difusión. Se pensó en qué cosas podrían hacerse para difundir más las actividades y, sobre todo, la existencia de PyAr. Como ejemplo se planteó el caso de Matías Capeletto – presente entre nosotros – que había buscado gente que programara en Python y no había encontrado hasta llegar a estas jornadas. Ahí se tiraron sobre la mesa algunos consejos de búsqueda y otros miembros de la lista recordaron cómo fue que cayeron a PyAr, cómo fue que se enteraron de la existencia del grupo: Alecu contó su experiencia con el Tai Chi, Daniel se enteró de PyAr porque hosteaban la lista y un día dijo algo así como: “¿qué es esto?”. Es decir, PyAr debe hacerse más visible. También se hizo la observación que algunos miembros de PyAr en sus charlas hablan del grupo en tercera persona, como si no fueran miembros. Hay que pulir esto. Evitarlo. Tirón de orejas para...... (no se menciona el nombre para no comprometerlo :-) ).
+Daniel acomodó sus papeles sobre la mesa y tiró a la palestra el primer tema: difusión. Se pensó en qué cosas podrían hacerse para difundir más las actividades y, sobre todo, la existencia de PyAr. Como ejemplo se planteó el caso de Matías Capeletto – presente entre nosotros – que había buscado una comunidad de desarrolladores en argentina y no había encontrado hasta llegar a estas jornadas. Ahí se tiraron sobre la mesa algunos consejos de búsqueda y otros miembros de la lista recordaron cómo fue que cayeron a PyAr, cómo fue que se enteraron de la existencia del grupo: Alecu contó su experiencia con el Tai Chi, Daniel se enteró de PyAr porque en [http://grulic.org.ar/ GrULiC] hosteaban la lista y un día administrando el servidor dijo algo así como: “¿qué es esto?”. Es decir, PyAr debe hacerse más visible. También se hizo la observación que algunos miembros de PyAr en sus charlas hablan del grupo en tercera persona, como si no fueran miembros. Hay que pulir esto. Evitarlo. Tirón de orejas para...... (no se menciona el nombre para no comprometerlo :-) ).
 
-Se habló que la mayoría de las reuniones se hacen en Buenos Aires y las actividades de PyAr están incluidas dentro de eventos organizados por otros ([http://www.cafeconf.org CafeConf], [http://www.pythonsantafe.com.ar/ Python en Santa Fe], 7mas Jornadas... etc). Daniel plantea que PyAr organice eventos para dar visibilidad al grupo. 
+Se habló que la mayoría de las reuniones se hacen en Buenos Aires y las actividades de PyAr están incluidas dentro de eventos organizados por otros ([http://www.cafeconf.org CafeConf], [http://www.pythonsantafe.com.ar/ Python en Santa Fe], [http://jornadas.grulic.org.ar/7/ 7mas Jornadas...] etc). Daniel plantea que PyAr organice eventos para dar visibilidad al grupo. O que co-organicen, pero figurando un poco más visiblemente.
 
 Alguien piensa que sería bueno organizar eventos en universidades y Matías se ofrece a conseguir un aula en su facultad para que PyAr organice charlas allí. Daniel quiere buscar ámbitos nuevos y Facundo sugiere dar charlas temáticas, por ejemplo, orientadas a las matemáticas.
 
@@ -87,9 +87,9 @@ Y por el tema de difusión, Matías ofrece un anillo que reúne los grupos de so
 
 Se tuvo la noticia que el LUG de Luján está interesado en organizar un evento, pero hay que confirmar si se trata de algo de software libre en general o algo más parecido a un Python Day. Gente de ese LUG buscaba ver si algún profesor de su facultad podría introducirlos en el lenguaje y Alecu les había mencionado que tanto Facundo como Daniel disponen de charlas introductorias. Según parece, Lujan quiere organizar algo hacia noviembre. Habrá que ponerse en contacto con ellos y definir el público.
 
-Aquí se vuelve al tema de las universidades. La universidad es “un caldo de cultivo a infectar”. Se realizan algunas críticas a los docentes dinosaurios, “no maleables” en palabras de Mariano. Alguien más critica que la mayoría están casados con Java y entonces Lucio dice que deberíamos apuntar no a los estudiantes, sino a los programadores, a los profesionales de sistemas. Se dice que los alumnos presionen para la enseñanza de nuevos lenguajes (algo revolucionario) y se plantea que todavía hay quienes no comprenden la diferencia entre compilar e interpretar. Alecu menciona la dificultad de que la gente que está muy cómoda programando en C# y Java y que sería muy difícil sacarlos de sus IDEs, y entonces Lucio sugiere mostrar Eclipse con Python. Y aquí, haciendo un paréntesis, se critica a muchos programadores que creen programar en “visual c++” cuando en realidad es “c++” y si los sacas de sus IDEs, están perdidos. En general, gente que sabe programar “visual xxx” y no saben programar “xxx”. En esto también tienen culpa los avisos clasificados de los diarios, ya que piden programador “visual xxx”. 
+Aquí se vuelve al tema de las universidades. La universidad es “un caldo de cultivo a infectar”. Se realizan algunas críticas a los docentes dinosaurios, “no maleables” en palabras de Mariano. Alguien más critica que la mayoría están casados con Java y entonces Lucio dice que deberíamos apuntar no a los estudiantes, sino a los programadores, a los profesionales de sistemas. Se dice que los alumnos presionen para la enseñanza de nuevos lenguajes (algo revolucionario) y se plantea que todavía hay docentes (y egresados que cursaron con esos docentes) quienes no comprenden la diferencia entre compilar e interpretar. Alecu menciona la dificultad de que la gente que está muy cómoda programando en C# y Java y que sería muy difícil sacarlos de sus IDEs, y entonces Lucio sugiere mostrar Eclipse con Python, u otros IDEs, para resultar más atractivos. Y aquí, haciendo un paréntesis, se critica a muchos programadores que creen programar en “visual c++” cuando en realidad es “c++” y si los sacas de sus IDEs, están perdidos. En general, gente que sabe programar “visual xxx” y no saben programar “xxx”. En esto también tienen culpa los avisos clasificados de los diarios, ya que piden programador “visual xxx”. 
 
-Alecu coincide con seguir con reuniones del estilo de la de Santa Fe. Seguir sumando a la gente que organiza eventos y llenar un aula. Entonces se menciona el tema de Zope y Plone. Lucio observa que en [http://www.europython.org/ EuroPython], las comunidades de Zope/Plone y Python estaban separadas y Daniel agrega que la gente de afuera del lenguaje, no se siente atraída por Zope/Plone. 
+Alecu coincide con seguir con reuniones del estilo de la de Santa Fe. Seguir sumando a la gente que organiza eventos y llenar un aula. Entonces se menciona el tema de Zope y Plone. Lucio observa que en [http://www.europython.org/ EuroPython], las comunidades de Zope/Plone y Python estaban separadas y Daniel agrega que la gente de afuera del lenguaje casi no conoce Zope/Plone; es decir, que promocionar Zope/Plone no es una buena estrategia para la meta específica de difundir Python. 
 
 ¿Y qué le interesa a la gente? fue la pregunta de Facundo. El sugiere realizar encuestas en [http://www.cafeconf.org CafeConf]: ¿sabes que es Python? ¿qué es Plone? ¿Zope?.... cosas así. Con esta encuesta se podrá tener alguna idea de lo que la gente conoce.  Y la rueda vuelve a girar y Alecu pregunta: ¿cómo hacer para que la gente sepa de la existencia de PyAr?
 
@@ -103,11 +103,11 @@ Algunos de los comentarios tirados a la mesa fueron más o menos los siguientes:
 
 Sobre [http://www.europython.org/ EuroPython] se dijo que no había muchos sponsors, la gente es muy copada y está muy bueno ir. Se conoció a un par de australianos, uno con buena onda y otro con no tanta (quizás por jet lag). No se dirá el nombre de este último, aunque es bastante conocido y más de uno podría llegar a adivinarlo fácilmente por cierto evento internacional próximo a realizarse. Varios de los miembros de [http://www.europython.org/ EuroPython] son gente que se reúnen en los mismos sprint o gente de una misma empresa. El evento es para desarrolladores y más que nada es mostrar lo que se está haciendo, presentación de productos, en qué se trabaja. No hay tutoriales. Están todos ahí, Guido y otros. Es un evento interesante para pasear y conocer gente, pero no se formaron charlas informales fuera de hora como en [http://www.python.org/pycon/ PyCon]. En este último evento, esa experiencia fue impagable.
 
-Alecu cuenta brevemente lo del proyecto [http://pypy.org/ PyPy], una plataforma para traducir código Python a otros lenguajes (javascript por ejemplo). Hubo charlas muy interesantes al respecto y se ve que hay mucha investigación alrededor del tema. Se tocó el tema, también muy brevemente, de las diferencias entre Rpython y Python (no se pueden crear clases en real time, falta de dinamismo...). Se habló de “las buenas costumbres europeas”: allí se paga para desarrollar cosas como [http://pypy.org/ PyPy]. Europa paga, las comunidades se forman alrededor de estos proyectos y no todos vienen de programar en Python. Cuando el proyecto finaliza, la comunidad queda, persiste en el tiempo. Aquí sería difícil hacer algo parecido.
+Alecu cuenta brevemente lo del proyecto [http://pypy.org/ PyPy], una plataforma para traducir código Python a otros lenguajes (javascript por ejemplo). Hubo charlas muy interesantes al respecto y se ve que hay mucha investigación alrededor del tema. Se tocó el tema, también muy brevemente, de las diferencias entre Rpython y Python (eficiencia, a costa de que no se pueden crear clases en real time, falta de dinamismo...). Se habló de “las buenas costumbres europeas”: allí se paga para desarrollar cosas como [http://pypy.org/ PyPy]. Europa paga, las comunidades se forman alrededor de estos proyectos y no todos vienen de programar en Python. Cuando el proyecto finaliza, la comunidad queda, persiste en el tiempo (esto en el caso de rpython, cuyo equipo invirtió muy enfocadamente el financiamiento en crear comunidad, en vez de solamente desarrollo). Aquí sería difícil hacer algo parecido.
 
 A todo esto, más gente se había sumado a la reunión:
 
- * Daniel Bartoli
+ * Daniel Valfre
  * Alfredo Monclus
 
 Gente nueva y volviendo al tema de la difusión, Daniel les pregunta cómo llegaron allí. Alfredo dice que por la jornada ya que no sabía de la existencia de PyAr. Hacia apenas dos semanas que había comenzado a ver Python.
@@ -139,10 +139,18 @@ Antes de hacer un sorteo, se decide privilegiar a la gente que había dado algun
 
 Facundo hace una exposición de todo lo mangueado en los eventos internacionales: remeras, prendedores de Google, bolsos, licencias VMware y una lapicera multifunción (que gustó bastante). Mientras tanto, Alecu carga los nombres de los presentes para sortear los objetos a la manera de lo realizado en Santa Fe. No teníamos proyector y mucha gente se juntó tras la notebook para observar el código introducido y, con gran expectativa, ver si el nombre que salía era o no el suyo propio.
 
-Y así fue como uno a uno cada premio fue festivamente distribuido. No se tiene el registro exacto de los ganadores, se perdió el historial cuando Alecu cerró su máquina, y a estas alturas, este cronista ya había agotado la batería de su notebook por lo que recurro a la memoria: para destacar fue la actitud de Guillermo quien renunció a su premio porque ya tenía tanto bolso como remera. John ganó una remera, quien se la puso a su pequeño hijo; Ra ganó otra remera, yo gané un prendedor, y la lapicera multifunción, el último premio entregado, fue para Alfredo.
+Y así fue como uno a uno cada premio fue festivamente distribuido. No se tiene el registro exacto de los ganadores, se perdió el historial cuando Alecu cerró su máquina, y a estas alturas, este cronista ya había agotado la batería de su notebook por lo que recurro a la memoria: para destacar fue la actitud de Guillermo quien renunció a su premio porque ya tenía tanto bolso como remera. John ganó una remera, quien se la puso a su pequeño hijo; Ra ganó otra remera, yo gané un prendedor. La lapicera multifunción, el último premio entregado, fue para Alfredo. Luciano dejó abandonado su bolso en Except, y más tarde declararía su intención de recuperarlo... ya veremos si es posible.
 
 Lamentablemente, hasta aquí llega el registro de lo actuado por dos razones: una es la ya mencionada, la crisis energética no afecta sólo a la Nación. La otra: mi micro a Santa Fe partía en 30 minutos y debía llegar a la terminal.
 
 Y hasta aquí llegué. 
 
 Vermouth con papas fritas y... good show!
+
+(Continúa la crónica DanielMoisset)
+
+Luego de que el grupo de Santa Fe (y otros que debían irse temprano) partiera, estuvimos con temario más relajado, charla general, y viendo fotos de los evntos internacionales que Alecu tenía en su laptop. Al rato regresaron algunos como Matías (que habían ido en auto hasta la terminal para llevar a algunos de los viajeros) y se empezó a discutir como continuaba la noche. Varios decidieron ir a 990 (el pub donde se realizaba el festejo "oficial" de las jornadas), pero algunos nos decidimos por una actividad más tranquila y nos quedamos en donde estabamos.
+
+Parte de la actividad "más tranquila" incluyó la propuesta de probar el trago local, con lo que cerca de las 1AM salió un grupo a buscar Fernet y Coca-Cola (y cuándo digo 1AM en realidad quiero decir antes de las 12; seríamos incapaces de transgredir la veda de venta de alcohol en vía pública que hay después de la medianoche en Córdoba). Mientras este grupo estaba de compras, yo (Daniel) les estuve contando a los que quedaban las reglas de [http://en.wikipedia.org/wiki/Mafia_%28game%29 Mafia]; para cuando terminamos y habíamos hecho una partida de práctica,  llego la bebida acompañada de los pyaristas que nos faltaban, e hicimos varias partidas muy divertidas entre los 9 que nos habíamos quedado. El resto de la reunión fue toda social, intercalando Mafia y orientación vocacional para Alfredo (que está viendo que carrera empezar) y discusiones sobre la meta de la vida de cada uno; La cantidad de fernet probablemente haya hecho que estas discusiones sean más interesantes que las que podríamos haber tenido si hubieramos estado tomando chocolatada con galletitas.
+
+A eso de las 5AM, decidimos que ya podíamos desconcentrar y cada uno partió para su casa/hostel/lo que corresponda.
