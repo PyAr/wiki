@@ -1,4 +1,4 @@
-#acl Known:read,write All:read
+#acl ReadWriteGroup:read,write All:read
 #language es
 = PyAr Santa Fe =
 '''Lugar:''' Puerto Café (25 de Mayo y Mendoza)
