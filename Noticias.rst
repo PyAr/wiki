@@ -18,6 +18,11 @@
 ##irss topic PyAr - Python Argentina
 ##irss descr Últimas noticias
 ## ULTIMAS_START
+==== 31/08/2007 ====
+ * Ya está disponible la primera versión alfa de [http://python.org/download/releases/3.0/ Python 3000]. Es importante destacar que este primer
+ release está orientado a desarrolladores, y que además de romper compatibilidad con Python 2.x en varios aspectos, aún es un trabajo en progreso.
+ La versión final de Python 3.0 estaría disponible en un año.
+
 ==== 14/08/2007 ====
  * Esta abierta la convocatoria para aquellos interesados o que conocen a interesados en disertar en la edicion en BSAS del evento [wiki:WhyFloss WhyFLOSS].
 ==== 14/08/2007 ====
@@ -44,12 +49,12 @@
 ==== 28/10/2006 ====
  * Durante las últimas semanas se llevó a cabo un concurso de diseño de una Bandera de PyAr para usar en presentaciones y convenciones. Ya están disponibles los [wiki:Bandera/resultados resultados de la votación]. Muchas gracias a todos los participantes por sus diseños, y a todos los votantes por su colaboración!/Reunion01
 
+## ULTIMAS_END
+
 ==== 19/10/2006 ====
  * Confirmado: Alex y Anna Martelli vienen para CaFeCONF, gracias a la PSF. Estamos organizando una reunión especial, la 19,
  con ellos como invitados de honor. Si estás en el interior, o lejos de Cap. Fed., y pensabas acercarte a CaFeCONF, aprovechá.
  Para más información, consultá [wiki:Eventos/Reuniones/ProximaReunion ProximaReunion].
-
-## ULTIMAS_END
 
 ==== 17/10/2006 ====
  * Ya suscribimos la ListaDeCorreo a [http://gmane.org/ GMANE], ahora podemos mantenernos actualizados con lo que pasa via RSS y NNTP. 
