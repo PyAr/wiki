@@ -50,5 +50,17 @@ Ahora, ¿a dónde podrías recurrir para obtener información que te inicie en l
  * Procesando archivos XML con minidom, que forma parte de la libreria estandar de Python
    [http://sbassi.googlepages.com/leyendoxmlenpython%3Adom2 Introducción a Minidom] Sebastián Bassi, 2007.
 
+== Documentación oficial sobre Python ==
+
+ * Versión actual
+   [http://docs.python.org/]
+
+ * Versiones anteriores
+   [http://www.python.org/doc/versions/]
+
+ * Versión en desarrollo
+   [http://docs.python.org/dev/library/index.html]
+
+
 
 '' Links revisados al 15/11/06 ''
