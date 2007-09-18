@@ -18,7 +18,7 @@ que trataríamos de tocar:
 
  * Jornadas regionales de Córdoba
  * Reunión PyAr en Córdoba
- * Nubis cuenta ActionSprite
+ * --(Nubis cuenta ActionSprite)--
  * Se vienen CaFeConf y el día en Luján
  * Pasó otro PyWeek
 
