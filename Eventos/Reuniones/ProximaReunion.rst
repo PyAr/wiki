@@ -4,11 +4,23 @@
 ## lo descomentamos y listo (es el texto estándar que mostramos cuando
 ## no hay reuniones programadas):
 ##
-= Próxima Reunión =
-Por el momento, no hay planificada una reunión. Si querés organizar alguna, o proponer temas
-para juntar ''quorum'' y que se organice, te invitamos a proponerlo en nuestra ListaDeCorreo.
-Te sugerimos consultar nuestro [wiki:Eventos/Reuniones/ReleaseProcedure ReleaseProcedure] para
-tener una idea de como organizar una reunión.
+##= Próxima Reunión =
+##Por el momento, no hay planificada una reunión. Si querés organizar alguna, o proponer temas
+##para juntar ''quorum'' y que se organice, te invitamos a proponerlo en nuestra ListaDeCorreo.
+##Te sugerimos consultar nuestro [wiki:Eventos/Reuniones/ReleaseProcedure ReleaseProcedure] para
+##tener una idea de como organizar una reunión.
+
+== Reunion 24 - 19/09/2007 - HipBar - 19:00hs ==
+
+La agenda (y organización) de esta reunión salió medio a las apuradas, porque hace mucho
+no nos reunimos, y dentro de poco se viene !CaFeConf. Hasta ahora, estos serían los temas
+que trataríamos de tocar:
+
+ * Jornadas regionales de Córdoba
+ * Reunión PyAr en Córdoba
+ * Nubis cuenta ActionSprite
+ * Se vienen CaFeConf y el día en Luján
+ * Pasó otro PyWeek
 
 ## Ejemplo de formato:
 ## == Reunión XX - @fecha(dd/mm/yyyy)@ - @lugar@ - @hora@ ==
