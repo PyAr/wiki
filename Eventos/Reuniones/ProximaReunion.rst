@@ -22,6 +22,10 @@ que trataríamos de tocar:
  * Se vienen CaFeConf y el día en Luján
  * Pasó otro PyWeek
 
+=== ¿Dónde? ===
+Nos reunimos en el HipBar, Hipólito Yrigoyen 640, Ciudad de Buenos Aires,
+comenzando a las 19hs. Estaremos en el subsuelo, por lo que pregúntenle al barman por nosotros.
+
 ## Ejemplo de formato:
 ## == Reunión XX - @fecha(dd/mm/yyyy)@ - @lugar@ - @hora@ ==
 ## *Tema 1
