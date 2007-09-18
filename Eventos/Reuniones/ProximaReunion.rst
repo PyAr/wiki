@@ -20,6 +20,10 @@ que trataríamos de tocar:
  * Reunión PyAr en Córdoba
  * --(Nubis cuenta ActionSprite)--
  * Se vienen CaFeConf y el día en Luján
+ * Definición de nuevas preguntas para ampliar las FAQs de Python
+ que mantenemos en nuestro portal
+ * Evaluación de alternativas de re-organización de la página que
+ lista nuestros proyectos (esto se empezó a tratar en la lista)
  * Pasó otro PyWeek
 
 === ¿Dónde? ===
