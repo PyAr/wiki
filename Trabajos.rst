@@ -7,3 +7,5 @@
  * (04/10/2007) Buscamos programadores enérgicos que deseen hacer carrera de superheroe. Se aprecia comunicación fluida en inglés y conocimiento de python, zope y plone (no excluyente). Para trabajar en la ciudad de Córdoba, o remotamente de otras partes del país y del cono sur.  Interesados escribir a laburos@menttes.com. Mas info en http://labs.menttes.com
 
  * (04/10/2007) Para aplicacion web GIS con información sobre transportes urbanos buscamos desarrollador con conocimiento de Python, Django y PostgreSQL. Contactar a pedroirusta@gmail.com o sdistefano@gmail.com
+
+ * (04/10/2007) En Except (http://except.com.ar) trabajamos con Python, Zope, Plone y Django, Eiffel y C. Somos una empresa cordobesa, que está creciendo con la incorporación de personas alineadas con nuestros valores. Si estás interesado en trabajar en una empresa responsable y que produce Software Libre de calidad, escribí a info@except.com.ar.
