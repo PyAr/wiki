@@ -11,3 +11,5 @@
  * (04/10/2007) En Except (http://except.com.ar) trabajamos con Python, Zope, Plone y Django, Eiffel y C. Somos una empresa cordobesa, que está creciendo con la incorporación de personas alineadas con nuestros valores. Si estás interesado en trabajar en una empresa responsable y que produce Software Libre de calidad, escribí a info@except.com.ar.
 
  * (04/10/2007) Desarrolladores senior y junior para proyectos internacionales. Programadores de Python/Zope/Plone para integrar un equipo de desarrollo con desafiantes proyectos internacionales. Interesados enviar curriculum a: info@inter-cultura.com
+
+ * (04/10/2007) Buscamos desarrolladores con buenos conocimientos de Python y con experiencia en el desarrollo de webservices y webapplications. Si te atrae trabajar en una empresa de seguridad informática que ayuda a las organizaciones a protegerse y reducir el riesgo, mandános tus datos a empleos.argentina@corest.com
