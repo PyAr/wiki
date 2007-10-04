@@ -14,4 +14,4 @@
 
  * (04/10/2007) Buscamos desarrolladores con buenos conocimientos de Python y con experiencia en el desarrollo de webservices y webapplications. Si te atrae trabajar en una empresa de seguridad informática que ayuda a las organizaciones a protegerse y reducir el riesgo, mandános tus datos a empleos.argentina@corest.com
 
- * (04/10/2007) Kultroom busca programadores de Python con conocimiento de Zope o Django (no excluyentes). Se valorarán la comunicación en inglés y los conocimientos de JavaScript y CSS (AJAX, jQuery). El trabajo es en el centro porteño. Interesados escribir a: kultroom@kultroom.com 
+ * (04/10/2007) Kultroom busca programadores de Python con conocimiento de Zope o Django (no excluyentes). Se valorarán la comunicación en inglés y los conocimientos de JavaScript y CSS (AJAX, jQuery). El trabajo es en el centro porteño. Interesados escribir a: empleos@kultroom.com 
