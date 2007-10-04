@@ -6,4 +6,4 @@
 
  * (04/10/2007) Buscamos programadores enérgicos que deseen hacer carrera de superheroe. Se aprecia comunicación fluida en inglés y conocimiento de python, zope y plone (no excluyente). Para trabajar en la ciudad de Córdoba, o remotamente de otras partes del país y del cono sur.  Interesados escribir a laburos@menttes.com. Mas info en http://labs.menttes.com
 
- * (04/10/2007) Para aplicacion web GIS con información sobre transportes urbanos buscamos desarrollador con conocimiento de Python, Django y PostgreSQL. Contactar a pedroirusta@gmail.com o sdistefano@sdistefano.com.ar
+ * (04/10/2007) Para aplicacion web GIS con información sobre transportes urbanos buscamos desarrollador con conocimiento de Python, Django y PostgreSQL. Contactar a pedroirusta@gmail.com o sdistefano@gmail.com
