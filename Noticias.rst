@@ -18,6 +18,10 @@
 ##irss topic PyAr - Python Argentina
 ##irss descr Últimas noticias
 ## ULTIMAS_START
+
+==== 29/10/2007 ====
+ * El sábado 3 de Noviembre nos convoca el [http://unlux.com.ar/index.php?option=com_content&task=view&id=11&Itemid=22 Ciclo de Charlas Unlux 2007], "Conectando puntos", en la Universidad de Luján. Es un día completo de charlas de todo tipo, donde Python tiene varios espacios asignados (miren el [http://unlux.com.ar/index.php?option=com_content&task=view&id=14&Itemid=24 cronograma]), como nos tienen bien acostumbradas las últimas conferencias de Software Libre. Por lo pronto, está auspiciado por PyAr, :)
+
 ==== 31/08/2007 ====
  * Ya está disponible la primera versión alfa de [http://python.org/download/releases/3.0/ Python 3000]. Es importante destacar que este primer
  release está orientado a desarrolladores, y que además de romper compatibilidad con Python 2.x en varios aspectos, aún es un trabajo en progreso.
