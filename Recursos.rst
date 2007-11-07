@@ -42,7 +42,7 @@
 
  * ¿De qué forma usamos Python?: El sitio utiliza software hecho en python: [http://plone.org/ Plone]/[http://zope.org/ Zope], con productos adicionales desarrollados a medida para el proyecto. Utilizamos también [http://www.gnu.org/software/mailman/ mailman] para manejar las listas de correo de las comunidades. La mayoría de los scripts de mantenimiento y administración del servidor están hechos en python. Para gestionar el desarrollo usamos [http://www.edgewall.com/trac trac], también hecho en python.
 
- * RicardoKirkner y SantiagoPereson trabajan en el proyecto.
+ * RicardoKirkner y SantiagoPereson trabajaban en el proyecto.
 
 === Except ===
  * Contacto: [[MailTo( info AT except DOT com DOT ar, Except)]]
@@ -135,7 +135,7 @@
 
  * Dirección: Av. Corrientes 640, Piso 10, Of 1. Ciudad Autónoma de Buenos Aires (C1043AAT)
 
- * ¿De qué forma usamos Python?: Como lenguaje de programación principal en proyectos de misión crítica, sistemas web (mod_python, django) y aplicaciones GUI (pygtk, glade). 
+ * ¿De qué forma usamos Python?: Como lenguaje de programación principal en proyectos de misión crítica, sistemas web (mod_python, django) y aplicaciones GUI (pygtk, glade).
 
 
 === Vortech ===
@@ -154,4 +154,4 @@
 [[BR]] [[BR]]
 
 ----
- [[FootNote]] 
+ [[FootNote]]
