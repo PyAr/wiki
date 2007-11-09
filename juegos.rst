@@ -9,4 +9,4 @@ Los siguientes son juegos realizados por miembros de PyAr en forma grupal o indi
  * [http://www.python.com.ar/moin/Proyectos/AlocadoAlocador Alocado Alocador] - un juego completo en 53kb.
  * [http://www.python.com.ar/moin/Proyectos/TweetyFinger Tweety Finger] - ¿Qué tan rápido sos tipeando el abecedario?
  * [http://zombie.firebirds.com.ar Twisted Zombie] - Hecho en Santa Fe para PyWeek 5 (tercer puesto)
- * [http://code.google.com/p/life-fighter/ Life Fighter] - Creado po run miembro para aprender [http://www.pygame.org PyGame]
+ * [http://code.google.com/p/life-fighter/ Life Fighter] - Creado por un miembro para aprender [http://www.pygame.org PyGame]
