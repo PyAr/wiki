@@ -5,6 +5,18 @@ Bienvenidos gente nueva de PyAr, y también gente vieja olvidadiza.
 Estas son algunas cosas a tener en cuenta para postear en la lista, para que el contenido de la misma se condiga con la misión y valores de pyar, que nadie deje de postear algo importante por miedo a que no sea ontopic, y principalmente para que no se posteen cosas que son totalmente offtopic.
 Si tenés una duda razonable, posteá, tampoco es el fin del mundo.
 
+== Recomendaciones ==
+ *  Antes de enviar un correo a la lista, tomate un tiempo para buscar tu pregunta primeramente en algún buscador en internet. Quizás encuentres la solución en pocos minutos sin preguntar en la lista.
+ *  Utilizar un "Asunto" adecuado para el problema / pregunta que estás enviando a la lista. Algo que sea descriptivo en pocas palabras sobre qué vas a preguntar o informar.
+ *  Cuando respondas un correo, elimina el texto irrelevante (saludos, firmas, etc) para que se pueda seguir mejor el cuerpo del mensaje, y no ir de un lado al otro del correo buscando el texto interesante.
+ *  No utilizar [http://es.wikipedia.org/wiki/Top-posting Top-Posting] para responder los correo de los otros, hay [http://www.caliburn.nl/topposting.html una explicación] de porqué esto es bueno. Es recomendable utilizar [http://en.wikipedia.org/wiki/Top-posting#Bottom-posting Bottom-Posting] para responder los correos.
+ *  Si respondés a un correo existente, no crees un correo nuevo, sino que es mejor crear una respuesta. De lo contrario, los que siguen los correos por hilos quizás no vean tu respuesta.
+ * Si querés hacer una pregunta sobre algún tema que no se ha preguntado aún, crea un correo nuevo.
+ *  Es preferible utilizar mensajes en texto plano antes que en HTML. [http://www.asciiribbon.org/index-es.html "La Campaña ASCII Ribbon"] explica porqué esto es recomendable en la mayoría de los casos.
+ *  Escribir los correo respetando la ortografía y reglas de puntuación adecuadas para facilitar la lectura a los demás miembros.
+ *  Si hay un mensaje que te molesta en la lista, no respondas, ignóralo para no generar "ruido".
+ *  Leer atentamente el famoso paper de [http://www.sindominio.net/ayuda/preguntas-inteligentes.html "Cómo hacer preguntas inteligentes"]
+
 == Claramente OFFTOPIC ==
  * Consultas de otros lenguajes
  * Temas filosóficos, politicos o religiosos, que probablemente tengan otras listas para discutirlos. (desde software libre hasta kirchnerismo)
