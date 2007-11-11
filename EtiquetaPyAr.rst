@@ -17,6 +17,13 @@ Si tenés una duda razonable, posteá, tampoco es el fin del mundo.
  *  Si hay un mensaje que te molesta en la lista, no respondas, ignóralo para no generar "ruido".
  *  Leer atentamente el famoso paper de [http://www.sindominio.net/ayuda/preguntas-inteligentes.html "Cómo hacer preguntas inteligentes"]
 
+Lo anteriormente expuesto, '''no''' son reglas, sino recomendaciones. Recomendaciones para mejorar tu percepción en la comunidad, ayudar a la misma y por lo tanto a sus integrantes, y demás. Pero no es que si un día hiciste top-posting, te van a bannear de la lista. No, no, cada loco con su tema.
+
+Pero, obviamente, si ''rompés'' muchas de esas recomendaciones, la percepción del resto hacia vos será bastante pobre.
+
+Hay que tener en cuenta que esas recomendaciones son un decante de buenas costumbres utilizadas por mucha gente por bastante tiempo: no
+son arbitrarias, no es un capricho nuestro.
+
 == Claramente OFFTOPIC ==
  * Consultas de otros lenguajes
  * Temas filosóficos, politicos o religiosos, que probablemente tengan otras listas para discutirlos. (desde software libre hasta kirchnerismo)
