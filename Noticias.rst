@@ -20,9 +20,9 @@
 ## ULTIMAS_START
 
 ==== 15/11/2007 ====
-Los días 6 y 7 de diciembre próximo se estará realizando la 3era
-edición del evento [wiki:WhyFloss WhyFLOSS Conference] en las instalaciones del Instituto
-Tecnológico de Buenos Aires (ITBA) de Puerto Madero.
+ * Los días 6 y 7 de diciembre próximo se estará realizando la 3era
+ edición del evento [wiki:WhyFloss WhyFLOSS Conference] en las instalaciones del Instituto
+ Tecnológico de Buenos Aires (ITBA) de Puerto Madero.
 
 ==== 29/10/2007 ====
  * El sábado 3 de Noviembre nos convoca el [http://unlux.com.ar/index.php?option=com_content&task=view&id=11&Itemid=22 Ciclo de Charlas Unlux 2007], "Conectando puntos", en la Universidad de Luján. Es un día completo de charlas de todo tipo, donde Python tiene varios espacios asignados (miren el [http://unlux.com.ar/index.php?option=com_content&task=view&id=14&Itemid=24 cronograma]), como nos tienen bien acostumbradas las últimas conferencias de Software Libre. Por lo pronto, está auspiciado por PyAr, :)
