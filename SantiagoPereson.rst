@@ -10,9 +10,11 @@ Correo electrónico: [[MailTo(yaco AT yaco DOT net)]]
 
     * [http://yaco.net/oe/ Oveja Eléctrica]: un compositor no humano (mucho python, algo de C y programas auxiliares: csound, ecasound y sox)
 
-    * [http://www.euskosare.org/ EuskoSare.org]: sitio para la comunidad vasca global (Plone/Zope + Mailman + Trac :-)
+    * [http://yaco.net/musiq/ Música], mucha música. Por supuesto hay algo de python siempre metido en el origen de lo que se escucha.
 
-  * Nací en el 71, vivo en Caballito - Buenos Aires, estoy casado con Sofía, tenemos dos hijos: Azul y Fermín y un perro: Iván.
+    * Trabajo: Estoy trabajando freelance para varios proyectos chicos, lamentablemente la mayoría en php.
+
+  * Nací en el 71, vivo en Caballito, Ciudad de Buenos Aires, tengo dos hijos: Azul y Fermín.
 
 ----
 CategoryHomepage
