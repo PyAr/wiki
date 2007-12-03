@@ -46,9 +46,7 @@ En esta página podrán encontrar los ''slides'' de charlas y presentaciones dic
 
 ''Facundo Batista''
 
-'''CaFeConf 2006:''' [http://www.taniquetil.com.ar/facundo/bdvfiles/intro-python-2.0.odp]
-
-'''Santa Fe 2007:''' [http://www.taniquetil.com.ar/facundo/bdvfiles/intro-python-2.1.odp]
+'''Slides:''' [http://tools.assembla.com/svn/homedevel/presents/intropython.odp]
 
 ----
 == Programando para la OLPC ==
@@ -63,3 +61,11 @@ En esta página podrán encontrar los ''slides'' de charlas y presentaciones dic
 ''Matias Eissler'', ''Alejandro David Weil''
 
 PDF: attachment:Automated%20Security%20Testing.pdf .
+
+
+----
+== Python más rápido que C ==
+
+''Facundo Batista'', ''Lucio Torre''
+
+'''Slides y código:''' [http://tools.assembla.com/svn/homedevel/presents/pyrapidc/]
