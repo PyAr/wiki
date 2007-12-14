@@ -1,4 +1,4 @@
-#acl AdminGroup:admin,read,write,delete,revert All:read
+#acl AdminGroup:admin,read,write,delete,revert ToqueTones:read,write All:read 
 #language es
 #pragma keywords Python, PyAr, Python Argentina, user group, grupo de usuarios, community portal
 
