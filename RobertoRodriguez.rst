@@ -3,7 +3,7 @@
 #language es
 #format wiki
 == Roberto Rodríguez ==
-[[BR]] http://i121.photobucket.com/albums/o205/praisebob/roberto-agosto-2007-10.jpg [[BR]]
+[[BR]] http://i121.photobucket.com/albums/o205/praisebob/roberto_enero_2008_768_1024.jpg [[BR]]
 
 Truchiweb: http://www.robertorodriguez.com.ar
 
