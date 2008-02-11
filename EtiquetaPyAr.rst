@@ -6,7 +6,7 @@ Estas son algunas cosas a tener en cuenta para postear en la lista, para que el 
 Si tenés una duda razonable, posteá, tampoco es el fin del mundo.
 
 == Recomendaciones ==
- *  Antes de enviar un correo a la lista, tomate un tiempo para buscar tu pregunta primeramente en algún buscador en internet. Quizás encuentres la solución en pocos minutos sin preguntar en la lista.
+ *  Antes de enviar un correo a la lista, tomate un tiempo para buscar tu pregunta primeramente en algún buscador en internet (y en el archivo de la lista). Quizás encuentres la solución en pocos minutos sin preguntar en la lista.
  *  Utilizar un "Asunto" adecuado para el problema / pregunta que estás enviando a la lista. Algo que sea descriptivo en pocas palabras sobre qué vas a preguntar o informar.
  *  Cuando respondas un correo, elimina el texto irrelevante (saludos, firmas, etc) para que se pueda seguir mejor el cuerpo del mensaje, y no ir de un lado al otro del correo buscando el texto interesante.
  *  No utilizar [http://es.wikipedia.org/wiki/Top-posting Top-Posting] para responder los correo de los otros, hay [http://www.caliburn.nl/topposting.html una explicación] de porqué esto es bueno. Es recomendable utilizar [http://en.wikipedia.org/wiki/Top-posting#Bottom-posting Bottom-Posting] para responder los correos.
