@@ -49,15 +49,15 @@
 
  * URL: http://except.com.ar
 
- * Dirección: Pirovano 297 1ºB. Córdoba Capital
+ * Dirección: Montevideo 728 PB. Córdoba Capital. TE +54 +351 4241659
 
- * ¿De qué forma usamos Python?: Hacemos mucho desarrollo web en Zope/Python. También trabajamos con Plone. Además hemos trabajado en aplicaciones de escritorio multiplataforma con PyGTK y Twisted.
+ * ¿De qué forma usamos Python?: Hacemos mucho desarrollo web en Zope/Python. También trabajamos con Plone y Django. Además hemos trabajado en aplicaciones de escritorio multiplataforma con PyGTK y Twisted.
 
- * Librerías/frameworks utilizadas: pyGTK, Zope, Plone, Twisted
+ * Librerías/frameworks utilizadas: pyGTK, Zope, Plone, Django, Twisted
 
  * Desde hace un tiempo también utilizamos [http://www.edgewall.com/trac trac] para la gestión del proyecto, tickets y wiki interno.
 
- * Los socios de la empresa son AntonioLenton, JuanLenton y DanielMoisset. (todos miembros de PyAR)
+ * Los socios de la empresa son AntonioLenton, JavierMansilla, JuanLenton y DanielMoisset. (todos miembros de PyAR)
 
 === Hansa World Argentina ===
  * URL: http://www.hansaworld.com.ar/
