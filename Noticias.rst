@@ -19,6 +19,9 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 
+==== 14/02/2008 ====
+ * Del viernes 15 al lunes 18 de febrero de 2008 en Los Cocos, provincia de Córdoba se lleva a cabo el primer [http://except.com.ar/cgi-bin/pycamp/ PyCamp], un campamento para pitoneros de la región. Esta organizado por [http://except.com.ar/ Except].
+
 ==== 15/11/2007 ====
  * Los días 6 y 7 de diciembre próximo se estará realizando la 3era
  edición del evento [wiki:WhyFloss WhyFLOSS Conference] en las instalaciones del Instituto
