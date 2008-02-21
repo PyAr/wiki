@@ -19,6 +19,10 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 
+==== 21/02/2008 ====
+
+* Se ha registrado un notable incremento de tráfico en los últimos meses. El mayor crecimiento está en la época de las 7mas Jornadas Regionales de Software Libre en Córdoba... tendrá algo que ver? ;) Pueden ver el gráfico [http://dir.gmane.org/gmane.org.user-groups.python.argentina acá].
+
 ==== 14/02/2008 ====
  * Del viernes 15 al lunes 18 de febrero de 2008 en Los Cocos, provincia de Córdoba se lleva a cabo el primer [http://except.com.ar/cgi-bin/pycamp/ PyCamp], un campamento para pitoneros de la región. Esta organizado por [http://except.com.ar/ Except].
 
