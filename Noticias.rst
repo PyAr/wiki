@@ -19,6 +19,10 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 
+==== 22/02/2008 ====
+
+ * Python es elegido [http://www.linuxquestions.org/questions/2007-linuxquestions.org-members-choice-awards-79/programming-language-of-the-year-610237/ Lenguaje del Año] nuevamente, esta vez por [http://www.linuxquestions.org/ LinuxQuestions.org]. C++ salió segundo, y C y PHP virtualmente empatados en el tercer puesto.
+
 ==== 21/02/2008 ====
 
  * Se ha registrado un notable incremento de tráfico en los últimos meses. El mayor crecimiento está en la época de las 7mas Jornadas Regionales de Software Libre en Córdoba... tendrá algo que ver? ;) Pueden ver el gráfico [http://dir.gmane.org/gmane.org.user-groups.python.argentina acá].
