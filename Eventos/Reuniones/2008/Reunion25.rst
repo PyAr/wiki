@@ -1,6 +1,9 @@
-Siendo las 20:38CKT (Capricho de Kristina Time), en compañía de varias cervezas, situados en el patio trasero del complejo Alan Gardiner, Los Cocos, Córdoba, Argentina, Inicia la 25 reunión de Pyar.
+## Template para minutas de reunión
+= Reunión 25 - 16/02/2008 - Centro Alan Gardiner, Los Cocos, Córdoba =
 
-Estan presentes:
+Siendo las 20:38CKT (Capricho de Kristina Time) del , en compañía de varias cervezas, situados en el patio trasero del complejo Alan Gardiner, Los Cocos, Córdoba, Argentina, Inicia la 25 reunión de Pyar.
+
+== Asistentes ==:
 
  * Facundo Batista.
  * Rayentray Tappa.
@@ -25,7 +28,7 @@ Estan presentes:
 
 Se establece como chiste de la reunión: ClueBat == AviBate (elemento contundente para golpear a algun elemento de la lista que pregunta de manera poco nética)
 
-=== Temas que se discutieron ===
+== Temas tratados ==
  
  La situación de los trolls en la lista: 
    Se interrumpió para brindar por os-penta, la reunión de pyar con mas gente y por otro pycamp.
