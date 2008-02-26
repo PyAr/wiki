@@ -11,7 +11,7 @@
 ## tener una idea de como organizar una reunión.
 
 ## Ejemplo de formato:
-== Reunión 26 - 05/03/2008 - Bar "El Clásico" - 19hs ==
+== Reunión 26 - 05/03/2008 - Bar "El Clásico", las cañitas, BsAs - 19hs ==
 ## *Tema 1
 ## *Tema 2
 ## *...
@@ -52,7 +52,7 @@ Nos reunimos el [http://www.elclasicobar.com/restaurant-baez.html Bar "El Clási
   1. --(Fijar fecha y lugar definitivos)--
   1. Definir quien dirigirá la reunión
   1. Publicar recordatorios en la lista
-  1. Publicar recordatorio en el sitio
+  1. --(Publicar recordatorio en el sitio)--
   1. Publicar recordatorios el día de la reunión
  1. Tareas posteriores a la reunión
   1. Eliminar el anuncio de la página de Inicio
