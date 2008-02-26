@@ -19,6 +19,9 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 
+==== 26/02/2008 ====
+ * El próximo miércoles 5 de marzo se estará realizando la 26a Reunión de PyAr, en Buenos Aires, en el bar "El Clásico". Más info en [wiki:Eventos/Reuniones/ProximaReunion ProximaReunion].
+
 ==== 22/02/2008 ====
 
  * Python es elegido [http://www.linuxquestions.org/questions/2007-linuxquestions.org-members-choice-awards-79/programming-language-of-the-year-610237/ Lenguaje del Año] nuevamente, esta vez por [http://www.linuxquestions.org/ LinuxQuestions.org]. C++ salió segundo, y C y PHP virtualmente empatados en el tercer puesto.
@@ -55,7 +58,7 @@
  * alecu está en !EuroPython. Mientras esperamos jugosas noticias y relatos ;) vamos posteando una foto de nada menos que [:Noticias/GvRyBandera:el BDFL junto a nuestra bandera].
 
 ==== 7/06/2007 ====
- * Esperamos ansiosos el fin de semana porque se van a llevar a cabo las segundas jornadas de [http://www.pythonsantafe.com.ar/ python santa fe]. Con temas variados expuestos por personas que usan python entre otras cosas para hacer jugos, aplicaciones web o programas para las XO (tambien conocidas como OLPC).
+ * Esperamos ansiosos el fin de semana porque se van a llevar a cabo las segundas jornadas de [http://www.pythonsantafe.com.ar/ python santa fe]. Con temas variados expuestos por personas que usan python entre otras cosas para hacer juegos, aplicaciones web o programas para las XO (tambien conocidas como OLPC).
 
 ==== 23/04/2007 ====
  * Y así pasó [http://pyweek.org/4/ PyWeek 4]. Para no perder la costumbre ;) una vez más los grupos de Argentina que participaron salieron muy bien parados. Resultados, [http://media.pyweek.org/static/pyweek4_ratings.html acá]. Bs. As. participó como [http://www.pyweek.org/e/Pywiii/ Pywiii], con ''Grossini's Hell'', y Córdoba como [http://www.pyweek.org/e/pycor2/ PyCor 2.0], con el juego homónimo, saliendo en 2^do^ y 5^to^ lugar, respectivamente. ¡Feliciataciones gente!
