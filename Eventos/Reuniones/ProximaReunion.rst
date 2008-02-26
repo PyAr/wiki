@@ -14,7 +14,7 @@
 == Reunión 26 - 05/03/2008 - Bar "El Clásico", las cañitas, BsAs - 19hs ==
  * La experiencia del PyCamp
  * CDPedia: status, como colaborar
- * [http://code.google.com/p/los-cocos/ "Los Cocos"], biblioteca para pyglet
+ * [http://code.google.com/p/los-cocos/ "Los Cocos"], biblioteca para hacer juegos, usando pyglet
  * Armar equipos para Pyweek 6, (comienza el 29-Marzo a las 20hs)
 
 ## *...
