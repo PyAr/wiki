@@ -50,7 +50,7 @@ Nos reunimos el [http://www.elclasicobar.com/restaurant-baez.html Bar "El Clási
   1. --(Proponer la reunión)--
   1. --(Obtener un mínimo de personas interesadas)--
   1. --(Fijar fecha y lugar tentativos)--
-  1. Seguir el !ReleaseProcedure
+  1. --(Seguir el !ReleaseProcedure)--
   1. --(Generar el temario)--
   1. --(Armar una lista de asistentes)--
   1. --(Fijar fecha y lugar definitivos)--
