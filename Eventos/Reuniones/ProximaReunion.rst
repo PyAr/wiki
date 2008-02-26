@@ -55,7 +55,7 @@ Nos reunimos el [http://www.elclasicobar.com/restaurant-baez.html Bar "El Clási
   1. --(Armar una lista de asistentes)--
   1. --(Fijar fecha y lugar definitivos)--
   1. Definir quien dirigirá la reunión
-  1. Publicar recordatorios en la lista
+  1. --(Publicar recordatorios en la lista)--
   1. --(Publicar recordatorio en el sitio)--
   1. Publicar recordatorios el día de la reunión
  1. Tareas posteriores a la reunión
