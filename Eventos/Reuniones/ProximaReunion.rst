@@ -35,6 +35,7 @@ Por favor, si venís a la reunión, anotate en esta lista:
 ||Gustavo Salvini||
 ||Anthony Lenton||
 ||Alejandro J. Cura||
+||Manuel Kaufmann||
 ## ||... ||
 
 === ¿Dónde? ===
