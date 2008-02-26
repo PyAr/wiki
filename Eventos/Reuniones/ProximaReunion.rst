@@ -12,8 +12,11 @@
 
 ## Ejemplo de formato:
 == Reunión 26 - 05/03/2008 - Bar "El Clásico", las cañitas, BsAs - 19hs ==
-## *Tema 1
-## *Tema 2
+ * La experiencia del PyCamp
+ * CDPedia: status, como colaborar
+ * [http://code.google.com/p/los-cocos/ "Los Cocos"], biblioteca para pyglet
+ * Armar equipos para Pyweek 6, (comienza el 29-Marzo a las 20hs)
+
 ## *...
 ## *Tema n
 ##
@@ -48,7 +51,7 @@ Nos reunimos el [http://www.elclasicobar.com/restaurant-baez.html Bar "El Clási
   1. --(Obtener un mínimo de personas interesadas)--
   1. --(Fijar fecha y lugar tentativos)--
   1. Seguir el !ReleaseProcedure
-  1. Generar el temario
+  1. --(Generar el temario)--
   1. --(Armar una lista de asistentes)--
   1. --(Fijar fecha y lugar definitivos)--
   1. Definir quien dirigirá la reunión
