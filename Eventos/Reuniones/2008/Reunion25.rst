@@ -1,7 +1,7 @@
 ## Template para minutas de reunión
-= Reunión 25 - 16/02/2008 - Centro Alan Gardiner, Los Cocos, Córdoba =
+= Reunión 25 - 16/02/2008 - Centro Allen Gardiner, Los Cocos, Córdoba =
 
-Siendo las 20:38CKT (Capricho de Kristina Time) del , en compañía de varias cervezas, situados en el patio trasero del complejo Alan Gardiner, Los Cocos, Córdoba, Argentina, Inicia la 25 reunión de Pyar.
+Siendo las 20:38CKT (Capricho de Kristina Time) del , en compañía de varias cervezas, situados en el patio trasero del complejo Allen Gardiner, Los Cocos, Córdoba, Argentina, Inicia la 25 reunión de Pyar.
 
 == Asistentes ==
 
