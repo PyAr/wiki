@@ -4,7 +4,7 @@
 
 ##||<tablestyle="width:100%;text-align:center; border-style: hidden;">[http://www.cafeconf.org http://www.cafeconf.org/2007/grafica/cafeconf07_468x60.png]||
 
-##||<tablestyle="width:100%; color: red; text-align:center;"> {*} ~+'' '''HOY''' miércoles 19 de septiembre, 24^a^ reunión de PyAr, en Bs.As. Más detalles [wiki:Eventos/Reuniones/ProximaReunion aquí].''+~ ||
+||<tablestyle="width:100%; color: red; text-align:center;"> {*} ~+'' miércoles 8 de marzo, 26^a^ reunión de PyAr, en Bs.As. Más detalles [wiki:Eventos/Reuniones/ProximaReunion aquí].''+~ ||
 
 ##||<tablestyle="width:100%; color: red; text-align:center;"> {*} ~+''Cerro la votación de la Bandera. [wiki:Bandera/resultados Resultados]. ''+~ ||
 
