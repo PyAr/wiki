@@ -9,6 +9,7 @@ Siendo las 20:38CKT (Capricho de Kristina Time) del , en compañía de varias ce
  * Rayentray Tappa.
  * Piukeyen Tappa.
  * Matias Bellone.
+ * John Lenton.
  * Anthony Lenton.
  * Daniel Moisset.
  * Lucio Torre.
