@@ -39,6 +39,7 @@ Por favor, si venís a la reunión, anotate en esta lista:
 ||Anthony Lenton||
 ||Alejandro J. Cura||
 ||Manuel Kaufmann||
+||Mariano Draghi||
 ## ||... ||
 
 === ¿Dónde? ===
