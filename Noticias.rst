@@ -20,7 +20,7 @@
 ## ULTIMAS_START
 
 ==== 26/02/2008 ====
- * El próximo miércoles 5 de marzo se estará realizando la 26a Reunión de PyAr, en Buenos Aires, en el bar "El Clásico". Más info en [wiki:Eventos/Reuniones/ProximaReunion ProximaReunion].
+ * El próximo miércoles 5 de marzo se estará realizando la 26^a^ Reunión de PyAr, en Buenos Aires, en el bar "El Clásico" de las Cañitas. Más info en [wiki:Eventos/Reuniones/ProximaReunion ProximaReunion].
 
 ==== 22/02/2008 ====
 
