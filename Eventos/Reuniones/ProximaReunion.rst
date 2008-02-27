@@ -1,4 +1,4 @@
-#acl All:read,Known:read,write
+#acl All:read Known:read,write
 #language es
 ## No borres el siguiente párrafo! Comentalo. Así, pasada la reunión,
 ## lo descomentamos y listo (es el texto estándar que mostramos cuando
