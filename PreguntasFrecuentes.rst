@@ -48,7 +48,7 @@ El Hip Bar es el pub donde organizamos la mayoría de los encuentros en Capital 
 En la sección ContribuyendoAlWiki vas a encontrar todo ('''todo''' se refiere a dos cositas nomás) lo que necesitás para poder empezar a contribuir al wiki.
 
 == Sobre Python (el Lenguaje) ==
-=== Cuales son las ventajas/desventajas de usar listas o tuplas? Y diccionarios? ===
+=== ¿Cuales son las ventajas/desventajas de usar listas o tuplas? Y diccionarios? ===
 La velocidad de las tuplas vs las listas, se discutió acá hace unos meses: http://grulic.org.ar/lurker/message/20051219.201756.60530154.en.html
 
 Las ventajas o desventajas de usar una u otra dependen del uso que le vaya a dar. Al ser inmutables, las tuplas pueden usarse como índices para diccionarios, las listas no. Las tuplas tienen que recostruirse cada vez que necesitás "modificarlas", las listas no.
@@ -57,7 +57,7 @@ Con respecto a si hay realmente diferencia en cuanto a velocidad y tamaño en me
 
 Mas info en [http://www.python.org/doc/faq/es/general/#por-qu-hay-tipos-de-datos-tuplas-y-listas-separados FAQ General de Python]
 
-=== Cómo me conecto a una base de datos? ===
+=== ¿Cómo me conecto a una base de datos? ===
 Este es un ejemplo basico de como hacerlo con MySQL:
 {{{
 >>> import MySQLdb
