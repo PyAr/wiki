@@ -56,3 +56,67 @@ Las ventajas o desventajas de usar una u otra dependen del uso que le vaya a dar
 Con respecto a si hay realmente diferencia en cuanto a velocidad y tamaño en memoria, las listas y las tuplas deberían ser más rápidas de recorrer, mientras que los diccionarios fueron hechos para acceder rápidamente a ítems particulares.
 
 Mas info en [http://www.python.org/doc/faq/es/general/#por-qu-hay-tipos-de-datos-tuplas-y-listas-separados FAQ General de Python]
+
+=== Cómo me conecto a una base de datos? ===
+Este es un ejemplo basico de como hacerlo con MySQL:
+{{{
+>>> import MySQLdb
+>>> db = MySQLdb.connect(host="localhost", user="root",
+... passwd="mypassword", db="PythonU")
+}}}
+Una vez establecida la conexion, hay que crear un "cursor". Un cursor
+es una estructura de control que se usa para recorrer (y eventualmente
+procesar) los records de un result set.
+
+El metodo para crear el cursor se llama, originalmente, cursor():
+{{{
+>>> cursor = db.cursor()
+}}}
+Ya tenemos la conexion establecida y el cursor creado, es hora de
+ejecutar algunos comandos SQL:
+{{{
+>>> cursor.execute("SELECT * FROM Students")
+5L
+}}}
+El metodo execute se usa para ejecutar comandos SQL. Note que no hace
+falta agregar el ';' (punto y coma) al final del comando. Ahora es
+cuestion de recorrer el objeto cursor.
+
+Para obtener un solo elemento, usamos fetchone():
+{{{
+>>> cursor.fetchone()
+(1L, 'Joe', 'Campbell', datetime.date(2006, 2, 10), 'N')
+
+>>> cursor.fetchall()
+((1L, 'Joe', 'Campbell', datetime.date(2006, 2, 10), 'N'),
+(2L, 'Joe', 'Doe', datetime.date(2004, 2, 16), 'N'),
+(3L, 'Rick', 'Hunter', datetime.date(2005, 3, 20), 'N'),
+(4L, 'Laura', 'Ingalls', datetime.date(2001, 3, 15), 'Y'),
+(5L, 'Virginia', 'Gonzalez', datetime.date(2003, 4, 2), 'N'))
+}}}
+Cual metodo usar dependera de la cantidad de datos que tengamos, la
+memoria disponible en la PC y sobre todo, de como querramos hacerlo.
+Si estamos trabajando con datasets limitados, no habra problema con el
+uso de fetchall(), pero si la base de datos es lo suficientemente
+grande como para entrar en memoria, se podria implementar una
+estrategia como la que se encuentra aca:
+{{{
+import MySQLdb
+db = MySQLdb.connect(host="localhost",
+    user="root",passwd="secret", db="PythonU")
+cursor = db.cursor()
+recs=cursor.execute("SELECT * FROM Students")
+for x in range(recs):
+   print cursor.fetchone()
+}}}
+O directamente:
+{{{
+import MySQLdb
+db = MySQLdb.connect(host="localhost",
+    user="root",passwd="secret", db="PythonU")
+cursor = db.cursor()
+cursor.execute("SELECT * FROM Students")
+for row in cursor:
+   print row
+}}}
+(Sebastian Bassi)
