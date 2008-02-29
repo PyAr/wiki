@@ -102,8 +102,7 @@ grande como para entrar en memoria, se podria implementar una
 estrategia como la que se encuentra aca:
 {{{
 import MySQLdb
-db = MySQLdb.connect(host="localhost",
-    user="root",passwd="secret", db="PythonU")
+db = MySQLdb.connect(host="localhost", user="root",passwd="secret", db="PythonU")
 cursor = db.cursor()
 recs=cursor.execute("SELECT * FROM Students")
 for x in range(recs):
@@ -112,8 +111,7 @@ for x in range(recs):
 O directamente:
 {{{
 import MySQLdb
-db = MySQLdb.connect(host="localhost",
-    user="root",passwd="secret", db="PythonU")
+db = MySQLdb.connect(host="localhost", user="root",passwd="secret", db="PythonU")
 cursor = db.cursor()
 cursor.execute("SELECT * FROM Students")
 for row in cursor:
