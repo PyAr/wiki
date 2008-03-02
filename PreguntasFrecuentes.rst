@@ -118,3 +118,48 @@ for row in cursor:
    print row
 }}}
 (Sebastian Bassi)
+
+Otro ejemplo basico de como hacerlo con PostgreSQL (similar al de MySQL). 
+Se usó el esquema: {{{CREATE TABLE estudiante ( nombre varchar,  apellido varchar,  fecha date,  booleano bool,  legajo serial PRIMARY KEY);}}}
+Antes que nada se debe instalar el conector ([http://www.initd.org/tracker/psycopg/wiki/PsycopgTwo para unix y windows]).
+
+
+Primero importar el conector y crear la conexión a la base de datos:
+{{{
+>>> import psycopg2, psycopg2.extras
+>>> conn = psycopg2.connect(database='test',user='postgres',password='pass', host='localhost')
+}}}
+
+
+Luego crear un cursor para obtener los datos y ejecutar consulta:
+{{{
+>>> cur = conn.cursor()
+>>> cur.execute("SELECT * FROM estudiante")
+>>> rows=cur.fetchall()
+>>> print rows
+
+[['Joe', 'Capbell', datetime.date(2006, 2, 10), False, 1], ['Joe', 'Doe', datetime.date(2004, 2, 16), False, 2], ['Rick', 'Hunter', datetime.date(2005, 3, 20), False, 3], ['Laura', 'Ingalls', datetime.date(2001, 3, 15), True, 4], ['Virginia', 'Gonzalez', datetime.date(2003, 4, 2), False, 5]]
+}}}
+
+
+Algo más pitónico es crear el cursor simil diccionario (en vez de una lista de valores):
+{{{
+>>> cur = conn.cursor(cursor_factory=psycopg2.extras.DictCursor)   
+>>> cur.execute("SELECT * FROM estudiante")
+>>> for row in cur: # itero sober cada fila
+>>>    # row es un diccionario, con las claves = nombres de campos
+>>>    print "Nombre y Apellido: %s, %s " % (row['nombre'],row['apellido'])
+    
+Nombre y Apellido: Joe, Capbell 
+Nombre y Apellido: Joe, Doe 
+Nombre y Apellido: Rick, Hunter 
+Nombre y Apellido: Laura, Ingalls 
+Nombre y Apellido: Virginia, Gonzalez 
+}}}
+
+
+'''Nota:''' esto es propio del conector psycopg2. Igualmente otros conectores tambien lo soportan o se puede imitar (leyendo el atributo description del cursor que tiene la información de los campos):
+{{{
+>>> print cur.description
+(('nombre', 1043, 8, -1, None, None, None), ('apellido', 1043, 8, -1, None, None, None), ('fecha', 1082, 10, 4, None, None, None), ('booleano', 16, 1, 1, None, None, None), ('legajo', 23, 1, 4, None, None, None))
+}}}
