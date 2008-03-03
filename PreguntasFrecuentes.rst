@@ -47,6 +47,10 @@ El Hip Bar es el pub donde organizamos la mayoría de los encuentros en Capital 
 === ¿Como contribuyo al Wiki? ===
 En la sección ContribuyendoAlWiki vas a encontrar todo ('''todo''' se refiere a dos cositas nomás) lo que necesitás para poder empezar a contribuir al wiki.
 
+=== ¿Cómo colaboro con ésta lista de preguntas? ===
+
+Hay [:PreguntasSinRespuesta:otras preguntas todavía sin respuesta], similares a éstas, que son sobre temas que tratamos varias veces en la lista de correo, pero aun a nadie las pasó acá. Si estás interesado y tenés usuario en el wiki, adelante. Sinó, fijate como en la pregunta anterior.
+
 == Sobre Python (el Lenguaje) ==
 === ¿Cuales son las ventajas/desventajas de usar listas o tuplas? Y diccionarios? ===
 La velocidad de las tuplas vs las listas, se discutió acá hace unos meses: http://grulic.org.ar/lurker/message/20051219.201756.60530154.en.html
@@ -57,7 +61,9 @@ Con respecto a si hay realmente diferencia en cuanto a velocidad y tamaño en me
 
 Mas info en [http://www.python.org/doc/faq/es/general/#por-qu-hay-tipos-de-datos-tuplas-y-listas-separados FAQ General de Python]
 
-=== ¿Cómo me conecto a una base de datos? ===
+
+== Usando Bases de Datos ==
+=== ¿Cómo me conecto a una base de datos con MySQL? ===
 Este es un ejemplo basico de como hacerlo con MySQL:
 {{{
 >>> import MySQLdb
@@ -118,6 +124,8 @@ for row in cursor:
    print row
 }}}
 (Sebastian Bassi)
+
+=== ¿Cómo me conecto a una base de datos con PostgreSQL? ===
 
 Otro ejemplo basico de como hacerlo con PostgreSQL (similar al de MySQL). 
 Se usó el esquema: {{{CREATE TABLE estudiante ( nombre varchar,  apellido varchar,  fecha date,  booleano bool,  legajo serial PRIMARY KEY);}}}
