@@ -19,6 +19,9 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 
+==== 03/03/2008 ====
+ * En los últimos días se han realizado varias liberaciones de Python. De las ramas viejas se sacaron versiones con correcciones de seguridad: 2.3.7c1 y 2.4.5c1 (ambas release candidates). De la rama actual, salió final la 2.5.2, esta es la versión de producción (o sea, la recomendada para trabajar en el día a día). Con respecto al futuro, salieron 2.6a1 y 3.0a3 (ambas alpha), para que se vaya experimentando.
+
 ==== 26/02/2008 ====
  * El próximo miércoles 5 de marzo se estará realizando la 26^a^ Reunión de PyAr, en Buenos Aires, en el bar "El Clásico" de las Cañitas. Más info en [wiki:Eventos/Reuniones/ProximaReunion ProximaReunion].
 
