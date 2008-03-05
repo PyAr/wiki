@@ -171,3 +171,48 @@ Nombre y Apellido: Virginia, Gonzalez
 >>> print cur.description
 (('nombre', 1043, 8, -1, None, None, None), ('apellido', 1043, 8, -1, None, None, None), ('fecha', 1082, 10, 4, None, None, None), ('booleano', 16, 1, 1, None, None, None), ('legajo', 23, 1, 4, None, None, None))
 }}}
+
+
+=== ¿Cómo escapo las comillas al armar un Query? ===
+
+'''Pregunta:'''
+
+Hola chicos. Estoy con un inconveniente que no puedo solventar.
+Tengo una funcion de python que genera unos querystrings para postgres.
+
+Mi problema empieza cuando, por ejemplo hay uno de esos apellidos que
+tienen ', Ej: D'agostino
+
+como resultado me queda el string (ejemplo)
+
+{{{
+'insert into personas (apellido) values ("D'agostino")'
+}}}
+
+'''Respuesta:'''
+
+Lo que tendrías que hacer es que postgres te escapee automaticamente los
+valores, usando los parámetros de db-api (segúndo argumento del metodo
+execute del cursor):
+
+{{{
+  cur = conn.cursor()
+  cur.execute("insert into personas (apellido) values (%s)" , ["D'agostino"])
+}}}
+
+Así, automáticamente postgres sabe, según el tipo de datos del parámetro, en
+este caso un string = "D'agostino", como escapear y formatear el sql para
+que no de error.
+
+Ademas, esto es mas seguro frente a ataques por "inyección de sql", porque
+el formateo es automático, en vez de usar directamente el operador % sobre
+el query y pasarselo cocinado a la base.
+
+Para hacerlo más robusto, podrías usar diccionario con los parametros (es
+más seguro en el caso que tengas varios parámetros, para evitar errores):
+
+{{{
+  cur.execute("insert into personas (apellido) values (%(apellido)s)" , {"apellido":"D'agostino"})
+}}}
+
+''Gracias Mariano Reingart por la respuesta!'''
