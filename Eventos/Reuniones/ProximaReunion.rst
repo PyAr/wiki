@@ -42,6 +42,7 @@ Por favor, si venís a la reunión, anotate en esta lista:
 ||Roberto Rodríguez||
 ||Leonardo De Luca||
 ||NubIs||
+||Lucas G. Devescovi||
 ## ||... ||
 
 === ¿Dónde? ===
