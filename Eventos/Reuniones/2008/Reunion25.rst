@@ -46,7 +46,7 @@ Se establece como chiste de la reunión: ClueBat == AviBate (elemento contundent
 		* Enviar los cambios del sitio a la lista por unanimidad ( Lucio implementa un bot de algún tipo que se encargue).
 		* Se decidió seguir con la forma de gobierno: '''''el que hace tiene la potestad porque está donde está debido a la confianza en el o ella''''' pero esta bueno que pregunte a los demas.
 		* La parte mas rica de pyar fueron las milanesas de ayer
-	En este punto Anthony Lenton planteó la paradoja de la organización de la comunidad '''''Para que un grupo sea exclusivamente administrativo sea representativo, debe estar compuesto en parte por gente a la que no le interese estar en el mismo, ergo, la única solución es no crear el grupo'''''
+	En este punto Anthony Lenton planteó la paradoja de la organización de la comunidad '''''Para que un grupo exclusivamente administrativo sea representativo, debe estar compuesto en parte por gente a la que no le interese estar en el mismo, ergo, la única solución es no crear el grupo'''''
         Luego riq sugirió un momento de brainstorming.
 		* PabloZ Dijo que el sitio de pyar empieza con un redirect y eso causa problemas en el indexado del mismo, sumado a que pyar es amor en indi y esto nos manda a paginas en indi. Esto radica en un problema de repartir responsabilidades.
         En este momento la reunión fue abruptamente interrumpida por una carne al horno con papas que superó, a criterios de quien escribe, las milanesas antes mencionadas.
