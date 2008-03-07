@@ -17,10 +17,10 @@
  * Karucha
  * Leito Monk
  * Leo De Luca (N)
- * Lucas Devescovi
+ * Lucas Devescovi (N)
  * Lucio
  * Marcelo Tinesi (N)
- * Mariano Reingart
+ * Mariano Reingart (N)
  * Nubis
  * Pablo De Napoli
  * PabloZ
