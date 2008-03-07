@@ -56,3 +56,5 @@ También hablamos de PyWeek, como siempre. Humitos nos contó que en Santa Fe hu
 Hablando de dinámica de grupo, el wiki del sitio de PyAr volvió a ser tema de conversación, con la queja de que no está suficientemente editable. PabloZ dice que si, pero el consenso general es que de hecho no se edita. Cuando tengamos server propio (nos van a regalar uno), tendríamos que poner un Trac + SVN (hay que organizar un sprint de instalación de python.com.ar; que la instalación no la hagan los mismos de siempre, así hay más gente que sabe cómo funciona la cosa). Obvio, primero tenemos que poder instalar el server, y para eso necesitamos que alguien nos done housing (un par de unidades de rack, energía, conexión a internet, y algún humano eventualmente disponible para ir a apretar un botón).
 
 Tres horas después de comenzada, y con un promedio de un litro de cerveza por persona (teniendo en cuenta que había mucha gente que no tomaba alcohol, con lo que el resto tomó bastante más que eso...), dimos por cerrada la reunión y se armaron algunos grupos para jugar al Fluxx y a las Pirámides.
+
+(Gracias Achuni por todas las anotaciones tomadas)
