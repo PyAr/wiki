@@ -35,7 +35,7 @@ Tuvimos un nuevo record de asistencia, 23 personas de las cuales 5 fueron nuevos
 
 Hablamos bastante del framework LosCocos. Riq nos contó que hicieron y por qué. Tenemos cuatro features importantes, a groso modo: Escenas, Transiciones, Efectos, y Acciones para los sprites.
 
-Con motivo de que algunos chicos se van al FISL Brazil, surgió el tema de la segunda edición de la bandera. Alecu contó como había sido el proceso de selección del diseño para la Bandera, y luego de mucha discusión llegamos a la conclusión de como encarar este proceso.
+Con motivo de que algunos chicos se van al FISL Brazil, surgió el tema de la segunda edición de la remera. Alecu contó como había sido el proceso de selección del diseño para la Bandera, y luego de mucha discusión llegamos a la conclusión de como encarar este proceso.
 
 Se van a poner páginas en el wiki de PyAr, una página para cada diseño que propongan, y en estas páginas se podrán recibir comentarios. El autor podrá aceptar (o no) estos comentarios e ir mejorando los diseños. Para no tener una barrera de entrada, también se podrá mandar un mail con el diseño, nos encargaremos de colgar eso en el wiki nosotros. En un momento determinado se hace un corte, y se toma una foto de esos diseños, luego del cual no se pueden hacer más cambios. Sobre estos diseños se hace la votación.
 
