@@ -3,14 +3,18 @@
  * AlejandroJCura
  * alfonsopalomares
  * AndresBlanco
+ * AnthonyLenton
  * CesarPortela
  * DanielMoisset
+ * DummyFacundo
  * GuillermoGonzalez
  * GuillermoNarvaja
+ * HoracioDuran
  * JuanjoConti
  * LeitoMonk
  * ManuelKaufmann
  * maram
+ * MarianoReingart
  * MartinSarsale
  * MauricioFerrari
  * NicolasPalumbo
@@ -22,6 +26,3 @@
  * SantiagoPereson
  * SebastianBassi
  * SebastianLezica
- * DummyFacundo
- * HoracioDuran
- * MarianoReingart
