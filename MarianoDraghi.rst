@@ -18,6 +18,7 @@ Algo de info que no está en el blog:
  después realizando soporte técnico interno, y finalmente análisis de sistemas y desarrollo de software. Mi experiencia en esa empresa se centró
  en bases de datos Informix y el lenguaje de programación Informix-4GL.
  * Mi mayor experiencia con Python, más allá del uso que trato de darle laboralmente haciendo algún que otro script, proviene del proyecto [http://sf.net/projects/sigefi sigefi], junto a su mentor, FacundoBatista.
+ * Dummy edit para probar editmoin
 
 [[BR]]
 ----
