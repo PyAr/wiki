@@ -31,7 +31,7 @@ Siempre se trabaja con 2 decimales (se redondean los valores suministrados)
 {{{
 #fuente: Recetario de PyAR, http://python.com.ar/moin/Recetario
 #autor: Cesar E Portela
-#update: 08-03-2008
+#date: 01-03-2008
 #version: 1
 
 def aLetras(numero):
