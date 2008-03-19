@@ -15,6 +15,6 @@ Aca una tabla para anotarse para tener una idea de la cantidad de interesados.
 Agregue el 11/12/13 que es un tentativo de sprint, aunque Martín no pueda asistir.
 
 
-||Interesados         ||    7l    ||   9mi    ||11v/12s/13d|| 14l      || 16mi     ||
+||Interesados         ||    7l    ||   9mi    ||11v/12s/13d|| 14l      || 16mi    ||
 ||AlejandroJCura      ||presencial||presencial||presencial ||presencial||presencial||
 ||AlejandroDavidWeil  ||presencial||remoto    ||presencial ||presencial||remoto    ||
