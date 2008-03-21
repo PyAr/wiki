@@ -21,4 +21,4 @@ Basado en la siguiente historia:
 
 (La licencia de esta obra es [http://imgs.xkcd.com/static/somerights20.png], para mas información consulte http://creativecommons.org/licenses/by-nc/2.5/)
 
-["Respuesta al problema 1"]
+/RespuestaProblema1
