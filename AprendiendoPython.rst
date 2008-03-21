@@ -19,6 +19,8 @@ Ahora, ¿a dónde podrías recurrir para obtener información que te inicie en l
 
  * Para quien ya tiene alguna idea, pero necesita buscar algo puntual, puede probar [http://rgruet.free.fr/PQR24/PQR2.4.html Python 2.4 Quick Reference].
 
+ * Listado de ["ejercicios"] para practicar Python.
+
  * Y por último, el único, original e inimitable, clásico de clásicos que casi todos en la lista usamos para empezar: el [http://www.python.org/doc/tut/ Tutorial de Python]
 
  * [http://pyspanishdoc.sourceforge.net/ Este] es un proyecto público y libre para mantener '''toda''' la documentación de Python traducida a nuestro idioma.
