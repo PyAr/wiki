@@ -1,3 +1,4 @@
+## page was renamed from ejercicios
 En la siguiente sección iran ejercicios de programación para practicar Python. La idea es poner un problema y a continuación diversas soluciones. Si lo soluciona de otra manera lo invitamos a que escriba su versión.
 
 '''Problema 1:''' El menú de XKCD.
