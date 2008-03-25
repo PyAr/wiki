@@ -35,6 +35,8 @@
  * PreguntasFrecuentes: Todo lo que usted siempre quiso preguntar y ya le ganaron de mano.
 
  * ["Material"]: Material de difusión, folletos, etc.
+
+ * ["Trabajos"]: Cartelera de ofertas laborales relacionadas con Python.
  
 
 == Últimas noticias ==
