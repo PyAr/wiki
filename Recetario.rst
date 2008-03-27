@@ -10,5 +10,5 @@ A este lugar uno recurre cada vez que se encuentra en la cocina de Python, cuchi
 == Formatos, datos, números y conversiones ==
 === aLetras ===
 ["aLetras"] : Función que al recibir un número lo convierte a letras. Regresa su forma por extensión (ejemplo: 123 -> "CIENTO VEINTITRES")
-=== validar_cuit ==
+=== validar_cuit ===
 ValidarCuit : Función para validar un CUIT/CUIL estilo 00-00000000-0
