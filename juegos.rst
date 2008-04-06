@@ -2,12 +2,12 @@
 
 Los siguientes son juegos realizados por miembros de PyAr en forma grupal o individual, algunos son parte de la competencia internacional [http://www.pyweek.org PyWeek].
  * [http://pyweek.org/6/ PyWeek6]
-  * [http://pyweek.org/e/pupo/ X25 Unplugged]: Hecho en Córdoba por el team pupo [http://media.pyweek.org/dl/6/pupo/x25-1.0.zip download from pyweek site]
+  * [http://pyweek.org/e/pupo/ X25 Unplugged]: Hecho en Córdoba por el team pupo [http://media.pyweek.org/dl/6/pupo/x25-1.0.zip download]
   * [http://pyweek.org/e/pywiic/ Robo-T2]: Hecho en Bs. As. [http://www.python.com.ar/moin/juegos?action=AttachFile&do=get&target=Robo-T2+one+pyar+buenos+aires++team download] [http://tenuki-misc.googlecode.com/files/Robo-T2.zip downloadlink-2]
-  * [http://pyweek.org/e/pysfe/ Pedro's Robot Factory] Hecho en Santa Fé [http://media.pyweek.org/dl/6/pysfe/robotfactory-1.zip download from pyweek site] 
+  * [http://pyweek.org/e/pysfe/ Pedro's Robot Factory] Hecho en Santa Fé [http://media.pyweek.org/dl/6/pysfe/robotfactory-1.zip download] 
  * [http://pyweek.org/5/ PyWeek5]
   * [http://zombie.firebirds.com.ar Twisted Zombie] - Hecho en Santa Fe (tercer puesto)
-  * Ventus Virginis - Hecho en Córdoba por el team Pynxilla de Córdoba
+  * [http://pyweek.org/e/Pynxilla/ Ventus Virginis] - Hecho en Córdoba por el team Pynxilla de Córdoba [http://media.pyweek.org/dl/5/Pynxilla/ventus_virginis-1.0.zip download]
   * Ritmus Locus - Hecho en Buenos Aires (segundo puesto)
   * Aurora Fighter - Hecho en Córdoba por el team Arbacamarbalap
  * [http://pyweek.org/4/ PyWeek4]
