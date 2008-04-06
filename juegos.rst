@@ -2,7 +2,7 @@
 
 Los siguientes son juegos realizados por miembros de PyAr en forma grupal o individual, algunos son parte de la competencia internacional [http://www.pyweek.org PyWeek].
  * PyWeek6
-  * Aries: Hecho en Córdoba [http://media.pyweek.org/dl/6/pupo/x25-1.0.zip download]
+  * X25 Unplugged: Hecho en Córdoba por el team pupo [http://media.pyweek.org/dl/6/pupo/x25-1.0.zip download]
   * Robo-T2: Hecho en Bs. As. [http://www.python.com.ar/moin/juegos?action=AttachFile&do=get&target=Robo-T2+one+pyar+buenos+aires++team download] [http://tenuki-misc.googlecode.com/files/Robo-T2.zip downloadlink-2]
  * PyWeek5
   * [http://zombie.firebirds.com.ar Twisted Zombie] - Hecho en Santa Fe (tercer puesto)
