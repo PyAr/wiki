@@ -8,10 +8,10 @@ Los siguientes son juegos realizados por miembros de PyAr en forma grupal o indi
   * [http://zombie.firebirds.com.ar Twisted Zombie] - Hecho en Santa Fe (tercer puesto)
   * Ventus.. - Hecho en Córdoba
   * Ritmus Locus - Hecho en Buenos Aires
-  * Aurora - Hecho en Córdoba
+  * AuroraFighter - Hecho en Córdoba por el team Arbacamarbalap
  * PyWeek4
   * [http://pyweek.org/e/pycor2/ Corp] - Hecho en Córdoba
- * [http://pyweek.org/e/Pywiii/ Grossini's Hell] - Hecho en Buenos Aires
+  * [http://pyweek.org/e/Pywiii/ Grossini's Hell] - Hecho en Buenos Aires
  * PyWeek3
   * [:juegos/TypusPocus:Typus Pocus] - El juego del grupo de Buenos Aires con que ganamos [http://pyweek.org/3/ PyWeek 3]
   * [http://pyweek.org/e/pycor/ SaturdayNightNinja] - El juego del grupo de Córdoba, tercero en [http://pyweek.org/3/ PyWeek 3]
