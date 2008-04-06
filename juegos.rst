@@ -9,8 +9,8 @@ Los siguientes son juegos realizados por miembros de PyAr en forma grupal o indi
  * [http://pyweek.org/5/ PyWeek5]
   * [http://zombie.firebirds.com.ar Twisted Zombie] - Hecho en Santa Fe (tercer puesto)
   * [http://pyweek.org/e/Pynxilla/ Ventus Virginis] - Hecho en Córdoba por el team Pynxilla de Córdoba [http://media.pyweek.org/dl/5/Pynxilla/ventus_virginis-1.0.zip download]
-  * Ritmus Locus - Hecho en Buenos Aires (segundo puesto)
-  * Aurora Fighter - Hecho en Córdoba por el team Arbacamarbalap
+  * [http://pyweek.org/e/pywv/ Ritmus Locus] - Hecho en Buenos Aires (segundo puesto)
+  * [http://pyweek.org/e/arbacamarbalap/ Aurora Fighter] - Hecho en Córdoba por el team Arbacamarbalap
  * [http://pyweek.org/4/ PyWeek4]
   * [http://pyweek.org/e/pycor2/ Corp] - Hecho en Córdoba
   * [http://pyweek.org/e/Pywiii/ Grossini's Hell] - Hecho en Buenos Aires
