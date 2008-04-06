@@ -13,11 +13,13 @@ Los siguientes son juegos realizados por miembros de PyAr en forma grupal o indi
   * [http://pyweek.org/e/pycor2/ Corp] - Hecho en Córdoba
   * [http://pyweek.org/e/Pywiii/ Grossini's Hell] - Hecho en Buenos Aires
  * [http://pyweek.org/3/ PyWeek3]
-  * [:juegos/TypusPocus:Typus Pocus] - El juego del grupo de Buenos Aires con que ganamos [http://pyweek.org/3/ PyWeek 3]
-  * [http://pyweek.org/e/pycor/ SaturdayNightNinja] - El juego del grupo de Córdoba, tercero en [http://pyweek.org/3/ PyWeek 3]
- * [http://media.pyweek.org/static/pygame.draw-0606.html Challenge64k] http://media.pyweek.org/static/pygame.draw-0606.html
+  * [:juegos/TypusPocus:Typus Pocus] - Hecho en Buenos Aires. (1er. puesto)
+  * [http://pyweek.org/e/pycor/ SaturdayNightNinja] - El juego del grupo de Córdoba. (3er. puestp)
+ * [http://media.pyweek.org/static/pygame.draw-0606.html PyDraw] (1 solo archivo .py < 64kb)
   * [http://www.python.com.ar/moin/Proyectos/AlocadoAlocador Alocado Alocador] - un juego completo en 53kb.
  * [http://pyweek.org/2/ PyWeek2]
   * [http://www.python.com.ar/moin/Proyectos/STIM S.T.I.M.] - El juego que presentamos en [http://pyweek.org/2/ PyWeek 2]
+
+Otras realizaciones:
  * [http://www.python.com.ar/moin/Proyectos/TweetyFinger Tweety Finger] - ¿Qué tan rápido sos tipeando el abecedario?
  * [http://code.google.com/p/life-fighter/ Life Fighter] - Creado por un miembro para aprender [http://www.pygame.org PyGame]
