@@ -6,9 +6,9 @@ Los siguientes son juegos realizados por miembros de PyAr en forma grupal o indi
   * Robo-T2: Hecho en Bs. As. [http://www.python.com.ar/moin/juegos?action=AttachFile&do=get&target=Robo-T2+one+pyar+buenos+aires++team download] [http://tenuki-misc.googlecode.com/files/Robo-T2.zip downloadlink-2]
  * [http://pyweek.org/5/ PyWeek5]
   * [http://zombie.firebirds.com.ar Twisted Zombie] - Hecho en Santa Fe (tercer puesto)
-  * Ventus.. - Hecho en Córdoba
-  * Ritmus Locus - Hecho en Buenos Aires
-  * AuroraFighter - Hecho en Córdoba por el team Arbacamarbalap
+  * Ventus Virginis - Hecho en Córdoba por el team Pynxilla de Córdoba
+  * Ritmus Locus - Hecho en Buenos Aires (segundo puesto)
+  * Aurora Fighter - Hecho en Córdoba por el team Arbacamarbalap
  * [http://pyweek.org/4/ PyWeek4]
   * [http://pyweek.org/e/pycor2/ Corp] - Hecho en Córdoba
   * [http://pyweek.org/e/Pywiii/ Grossini's Hell] - Hecho en Buenos Aires
@@ -18,7 +18,7 @@ Los siguientes son juegos realizados por miembros de PyAr en forma grupal o indi
  * [http://media.pyweek.org/static/pygame.draw-0606.html PyDraw] (1 solo archivo .py < 64kb)
   * [http://www.python.com.ar/moin/Proyectos/AlocadoAlocador Alocado Alocador] - un juego completo en 53kb.
  * [http://pyweek.org/2/ PyWeek2]
-  * [http://www.python.com.ar/moin/Proyectos/STIM S.T.I.M.] - El juego que presentamos en [http://pyweek.org/2/ PyWeek 2]
+  * [http://www.python.com.ar/moin/Proyectos/STIM S.T.I.M.] Hecho por el team de Buenos Aires
 
 Otras realizaciones:
  * [http://www.python.com.ar/moin/Proyectos/TweetyFinger Tweety Finger] - ¿Qué tan rápido sos tipeando el abecedario?
