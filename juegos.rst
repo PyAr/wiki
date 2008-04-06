@@ -1,6 +1,7 @@
 = Juegos realizados por PyAr =
 
 Los siguientes son juegos realizados por miembros de PyAr en forma grupal o individual, algunos son parte de la competencia internacional [http://www.pyweek.org PyWeek].
+ * Robo-T2: Hecho en Bs. As. para pyweek 6 [http://www.python.com.ar/moin/juegos?action=AttachFile&do=get&target=Robo-T2+one+pyar+buenos+aires++team download]
  * [http://pyweek.org/e/pycor2/ Corp] - Hecho en Córdoba, para pyweek 4
  * [http://pyweek.org/e/Pywiii/ Grossini's Hell] - Hecho en Buenos Aires, para pyweek 4
  * [:juegos/TypusPocus:Typus Pocus] - El juego del grupo de Buenos Aires con que ganamos [http://pyweek.org/3/ PyWeek 3]
