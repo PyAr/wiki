@@ -22,6 +22,7 @@
  * NicolasPalumbo
  * NubIs
  * PabloCarballo
+ * RayentrayTappa
  * RicardoKirkner
  * RicardoQuesada
  * RobertoAlsina
