@@ -2,8 +2,6 @@
 
  * (10/04/2008) Estamos buscando desarrolladores con buenos conocimientos de Python, C++ ó Assembler, para trabajar en nuestras oficinas de Capital Federal (Palermo). CORE es una empresa que desarrolla e investiga tecnología de punta de seguridad informática, para ayudar a las organizaciones a protegerse y reducir el riesgo. Mandános tu CV a empleos.argentina@corest.com y encontrá más info en www.coresecurity.com/jobopportunities
 
- * (04/10/2007) Se busca programador en Python con conocimientos de Linux. Con posibilidades de trabajar a distancia. Mucho mejor si: es geek, conoce algo de PyGTK, Django, PostgreSQL, Oracle, etc. Empresa: MSA - Magic Software Argentina. CVs por mail a: rrhh@msa.com.ar
-
  * (04/10/2007) We're looking for python web developers in switzerland (full time employment). So if you'd like to move to nice switzerland write to florian.boesch@dwsco.com
 
  * (04/10/2007) Buscamos programadores enérgicos que deseen hacer carrera de superheroe. Se aprecia comunicación fluida en inglés y conocimiento de python, zope y plone (no excluyente). Para trabajar en la ciudad de Córdoba, o remotamente de otras partes del país y del cono sur.  Interesados escribir a laburos@menttes.com. Mas info en http://labs.menttes.com
