@@ -19,11 +19,11 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
 
 '''Temas:'''
 
- * PyCon 2008 
- * Fisl 2008
- * PyWeek 6
+ * Experiencia de PyCon 2008 
+ * Experiencia de Fisl 2008
+ * Experiencia de PyWeek 6
  * Reparto de merchandising
- * PyCon Argentina 2009
+ * ¿PyCon Argentina 2009?
  * Sprint de instalación de nuestro server
 ## * ...
 
