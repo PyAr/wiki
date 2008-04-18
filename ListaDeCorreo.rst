@@ -16,7 +16,7 @@ Si querés suscribirte a la lista, te pedimos por favor que primero te tomes un 
 
 == Ayuda ==
 
- * Para comunicarte con los administradores de PyAr, mandá un mensaje a [[MailTo(pyar_admin AT decode DOT com DOT ar)]]. Esa
+ * Para comunicarte con los administradores de PyAr, mandá un mensaje a [[MailTo(admin AT python DOT com DOT ar)]]. Esa
  sería la dirección de contacto para reportar problemas con la lista o con el sitio web.
 
  * Para obtener ayuda y los comandos disponibles en la lista, mandá un mensaje a [[MailTo(pyar-help AT decode DOT com DOT ar)]].
