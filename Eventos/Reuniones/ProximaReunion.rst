@@ -22,6 +22,7 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
  * Reparto de merchandising
  * ¿PyCon Argentina 2009?
  * Sprint de instalación de nuestro server
+ * Global Python Sprint Weekend
 
 ## * ...
 ''' Asistentes: '''
