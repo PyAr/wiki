@@ -41,6 +41,7 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
 ||PatricioMolina ||
 ||AngelFreire ||
 ||GustavoSalvini ||
+||MarioZorz ||
 
 
 ## ||... ||
