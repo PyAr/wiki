@@ -40,7 +40,7 @@ Por favor, si venís a la reunión, anotate en esta lista:
 ||LeitoMonk ||
 ||PabloCarballo ||
 ||<^>DanielPadula||
-
+||MarianoDraghi ||
 
 ## ||... ||
 ''' ¿Dónde? '''
