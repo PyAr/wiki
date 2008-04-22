@@ -42,6 +42,7 @@ Por favor, si venís a la reunión, anotate en esta lista:
 ||<^>DanielPadula||
 ||MarianoDraghi ||
 ||LucasDevescovi ||
+||PatricioMolina||
 
 ## ||... ||
 ''' ¿Dónde? '''
