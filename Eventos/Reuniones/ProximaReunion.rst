@@ -41,6 +41,7 @@ Por favor, si venís a la reunión, anotate en esta lista:
 ||PabloCarballo ||
 ||<^>DanielPadula||
 ||MarianoDraghi ||
+||LucasDevescovi ||
 
 ## ||... ||
 ''' ¿Dónde? '''
