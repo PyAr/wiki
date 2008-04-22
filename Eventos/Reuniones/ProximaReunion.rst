@@ -30,14 +30,14 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
 ''' Asistentes: '''
 
 Por favor, si venís a la reunión, anotate en esta lista:
-||Facundo Batista||
+||FacundoBatista||
 ||PabloZiliani||
 ||Tomas Zulberti (tal vez)||
 ||ManuelKaufmann||
 ||MarianoReingart||
 ||Karucha||
 ||RicardoKirkner||
-|| ["AlejandroJCura" alecu] || 
+|| ["AlejandroJCura"] ||
 
 ## ||... ||
 
