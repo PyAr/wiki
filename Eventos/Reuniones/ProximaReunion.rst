@@ -9,40 +9,39 @@
 ## para juntar ''quorum'' y que se organice, te invitamos a proponerlo en nuestra ListaDeCorreo.
 ## Te sugerimos consultar nuestro [wiki:Eventos/Reuniones/ReleaseProcedure ReleaseProcedure] para
 ## tener una idea de como organizar una reunión.
-
 = Precaución! Warning! Achtung! =
-
-Como estamos armando dos o tres reuniones en simultáneo, esta página coordina todas! 
+Como estamos armando dos o tres reuniones en simultáneo, esta página coordina todas!
 
 ## Ejemplo de formato:
 == Buenos Aires: Reunión 27 - Miércoles 07/05/2008 - Bar "El Clásico" - 19hs ==
-
 '''Temas:'''
 
- * Experiencia de PyCon 2008 
+ * Experiencia de PyCon 2008
  * Experiencia de Fisl 2008
  * Experiencia de PyWeek 6
  * Reparto de merchandising
  * ¿PyCon Argentina 2009?
  * Sprint de instalación de nuestro server
-## * ...
 
+## * ...
 ''' Asistentes: '''
 
 Por favor, si venís a la reunión, anotate en esta lista:
-||FacundoBatista||
-||PabloZiliani||
-||Tomas Zulberti (tal vez)||
-||ManuelKaufmann||
-||MarianoReingart||
-||Karucha||
-||RicardoKirkner||
+
+||FacundoBatista ||
+||PabloZiliani ||
+||Tomas Zulberti (tal vez) ||
+||ManuelKaufmann ||
+||MarianoReingart ||
+||Karucha ||
+||RicardoKirkner ||
 || ["AlejandroJCura"] ||
-||LeitoMonk||
-||PabloCarballo||
+||LeitoMonk ||
+||PabloCarballo ||
+||<^>DanielPadula||
+
 
 ## ||... ||
-
 ''' ¿Dónde? '''
 
 Nos reunimos el [http://www.elclasicobar.com/restaurant-baez.html Bar "El Clásico"], Baez 205 esq. Arquibel, Las Cañitas, Ciudad de Buenos Aires, comenzando a las 19hs. Estaremos en el primer piso, por lo que pregúntenle al barman por nosotros.
@@ -66,5 +65,4 @@ Nos reunimos el [http://www.elclasicobar.com/restaurant-baez.html Bar "El Clási
   1. Confeccionar la minuta
 
 ----
-
 ''(acá seguimos con las otras reuniones en otros lados)''
