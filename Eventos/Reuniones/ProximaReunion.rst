@@ -38,6 +38,7 @@ Por favor, si venís a la reunión, anotate en esta lista:
 ||Karucha||
 ||RicardoKirkner||
 || ["AlejandroJCura"] ||
+||LeitoMonk||
 
 ## ||... ||
 
