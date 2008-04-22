@@ -25,11 +25,7 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
  * Global Python Sprint Weekend
 
 ## * ...
-''' Asistentes: '''
-
-Por favor, si venís a la reunión, anotate en esta lista:
-
-||FacundoBatista ||
+''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:||FacundoBatista ||
 ||PabloZiliani ||
 ||Tomas Zulberti (tal vez) ||
 ||ManuelKaufmann ||
@@ -39,17 +35,16 @@ Por favor, si venís a la reunión, anotate en esta lista:
 || ["AlejandroJCura"] ||
 ||LeitoMonk ||
 ||PabloCarballo ||
-||<^>DanielPadula||
+||<style="vertical-align: top;">DanielPadula ||
 ||MarianoDraghi ||
 ||LucasDevescovi ||
-||PatricioMolina||
-||AngelFreire||
+||PatricioMolina ||
+||AngelFreire ||
+||GustavoSalvini ||
+
 
 ## ||... ||
-''' ¿Dónde? '''
-
-Nos reunimos el [http://www.elclasicobar.com/restaurant-baez.html Bar "El Clásico"], Baez 205 esq. Arquibel, Las Cañitas, Ciudad de Buenos Aires, comenzando a las 19hs. Estaremos en el primer piso, por lo que pregúntenle al barman por nosotros.
-
+''' ¿Dónde? '''Nos reunimos el[http://www.elclasicobar.com/restaurant-baez.html Bar "El Clásico"], Baez 205 esq. Arquibel, Las Cañitas, Ciudad de Buenos Aires, comenzando a las 19hs. Estaremos en el primer piso, por lo que pregúntenle al barman por nosotros.
 === Release Procedure ===
  1. Tareas comunes
   1. --(Proponer la reunión)--
@@ -69,4 +64,4 @@ Nos reunimos el [http://www.elclasicobar.com/restaurant-baez.html Bar "El Clási
   1. Confeccionar la minuta
 
 ----
-''(acá seguimos con las otras reuniones en otros lados)''
+ ''(acá seguimos con las otras reuniones en otros lados)''
