@@ -37,7 +37,8 @@ Por favor, si venís a la reunión, anotate en esta lista:
 ||MarianoReingart||
 ||Karucha||
 ||RicardoKirkner||
- 
+|| ["AlejandroJCura" alecu] || 
+
 ## ||... ||
 
 ''' ¿Dónde? '''
