@@ -18,7 +18,7 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
 
  * Experiencia de PyCon 2008
  * Experiencia de Fisl 2008
- * Experiencia de PyWeek 6
+ * Experiencia de PyWeek 6 (y de yapa: cocos y la futura version 0.3)
  * Reparto de merchandising
  * ¿PyCon Argentina 2009?
  * Sprint de instalación de nuestro server
