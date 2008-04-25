@@ -68,3 +68,18 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
 
 ----
  ''(acá seguimos con las otras reuniones en otros lados)''
+
+== Cordoba: Reunión 27-X - Jueves 08/05/2008 (Tentativa) - Lugar a confirmar - 19 o 20hs ==
+(Para quienes tengan unos 20 se acuerdan a que hace alusion la letra despues del numero de reunion)
+
+'''Temas:'''
+
+ * Si alguien Fue al FISL 2008 y viene que cuente
+ * Conocernos un poco entre los PyArEros Cordobeses que no nos conocemos y capaz un poco de que hacemos con python
+ * Python en las universidades locales
+ * Eventos que se vienen o nos gustaria que se vinieran.
+
+''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
+||HoracioDuran (tcc: perrito)  ||
+
+''' ¿Dónde? ''' Sugieran
