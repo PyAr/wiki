@@ -83,3 +83,23 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
 ||HoracioDuran (tcc: perrito)  ||
 
 ''' ¿Dónde? ''' Sugieran
+
+
+----
+
+== Santa Fe: Reunión 28 - Viernes 09/05/08 - Bar "La Terminal" - 21 hs. ==
+'''Temas:'''
+
+ * Experiencia de PyWeek 6 - desempeño
+ * Jornada Python en Santa Fe
+ * Analizar el Taller de Programación de la UTN (donde se enseña con Python)
+ * cruzar chismes de PyConf y Fisl
+ * vernos la cara los miembros de la región de PyAr
+
+''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
+||CesarPortela ||
+||MarianoGalan ||
+||LucasDiPentima (a confirmar) ||
+||JuanjoConti ||
+
+''' ¿Dónde? ''' Nos reunimos en el bar "La Terminal" en la terminal de omnibus de la ciudad de Santa Fe, Belgrano e Hipólito Irigoyen. Arrancamos a las 21 hs
