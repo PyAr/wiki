@@ -48,24 +48,24 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
 
 ## ||... ||
 ''' ¿Dónde? '''Nos reunimos el[http://www.elclasicobar.com/restaurant-baez.html Bar "El Clásico"], Baez 205 esq. Arquibel, Las Cañitas, Ciudad de Buenos Aires, comenzando a las 19hs. Estaremos en el primer piso, por lo que pregúntenle al barman por nosotros.
-=== Release Procedure ===
- 1. Tareas comunes
-  1. --(Proponer la reunión)--
-  1. Obtener un mínimo de personas interesadas
-  1. --(Fijar fecha y lugar tentativos)--
-  1. --(Seguir el !ReleaseProcedure)--
-  1. --(Generar el temario)--
-  1. Armar una lista de asistentes
-  1. --(Fijar fecha y lugar definitivos)--
-  1. Definir quien dirigirá la reunión
-  1. Publicar recordatorios en la lista
-  1. Publicar recordatorio en el sitio
-  1. Publicar recordatorios el día de la reunión
- 1. Tareas posteriores a la reunión
-  1. Eliminar el anuncio de la página de Inicio
-  1. Editar Eventos/Reuniones/ProximaReunion
-  1. Confeccionar la minuta
-
+##=== Release Procedure ===
+## 1. Tareas comunes
+##  1. --(Proponer la reunión)--
+##  1. Obtener un mínimo de personas interesadas
+##  1. --(Fijar fecha y lugar tentativos)--
+##  1. --(Seguir el !ReleaseProcedure)--
+##  1. --(Generar el temario)--
+##  1. Armar una lista de asistentes
+##  1. --(Fijar fecha y lugar definitivos)--
+##  1. Definir quien dirigirá la reunión
+##  1. Publicar recordatorios en la lista
+##  1. Publicar recordatorio en el sitio
+##  1. Publicar recordatorios el día de la reunión
+## 1. Tareas posteriores a la reunión
+##  1. Eliminar el anuncio de la página de Inicio
+##  1. Editar Eventos/Reuniones/ProximaReunion
+##  1. Confeccionar la minuta
+##
 ----
  ''(acá seguimos con las otras reuniones en otros lados)''
 
