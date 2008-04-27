@@ -9,7 +9,6 @@
 ## para juntar ''quorum'' y que se organice, te invitamos a proponerlo en nuestra ListaDeCorreo.
 ## Te sugerimos consultar nuestro [wiki:Eventos/Reuniones/ReleaseProcedure ReleaseProcedure] para
 ## tener una idea de como organizar una reunión.
-
 ##=== Release Procedure ===
 ## 1. Tareas comunes
 ##  1. --(Proponer la reunión)--
@@ -28,12 +27,10 @@
 ##  1. Editar Eventos/Reuniones/ProximaReunion
 ##  1. Confeccionar la minuta
 ##
-
 = Precaución! Warning! Achtung! =
 Como estamos armando dos o tres reuniones en simultáneo, esta página coordina todas!
 
 ## Ejemplo de formato:
-
 == Buenos Aires: Reunión 27 - Miércoles 07/05/2008 - Bar "El Clásico" - 19hs ==
 '''Temas:'''
 
@@ -46,8 +43,7 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
  * Global Python Sprint Weekend
 
 ## * ...
-''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
-||FacundoBatista ||
+''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:||FacundoBatista ||
 ||PabloZiliani ||
 ||Tomas Zulberti (tal vez) ||
 ||ManuelKaufmann ||
@@ -67,14 +63,13 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
 ||RicardoQuesada ||
 ||RobertoAllende ||
 
+
 ## ||... ||
 ''' ¿Dónde? '''Nos reunimos el[http://www.elclasicobar.com/restaurant-baez.html Bar "El Clásico"], Baez 205 esq. Arquibel, Las Cañitas, Ciudad de Buenos Aires, comenzando a las 19hs. Estaremos en el primer piso, por lo que pregúntenle al barman por nosotros.
-
 ----
-
 ''(acá seguimos con las otras reuniones en otros lados)''
 
-== Cordoba: Reunión 27-X - Jueves 08/05/2008 (Tentativa) - Lugar a confirmar - 19 o 20hs ==
+== Cordoba: Reunión 28 - Jueves 08/05/2008 (Tentativa) - Lugar a confirmar - 19 o 20hs ==
 (Para quienes tengan unos 20 se acuerdan a que hace alusion la letra despues del numero de reunion)
 
 '''Temas:'''
@@ -85,15 +80,16 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
  * Eventos que se vienen o nos gustaria que se vinieran.
 
 ''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
-||HoracioDuran (tcc: perrito)  ||
+
+||HoracioDuran (tcc: perrito) ||
 ||MarianoMara ||
-||ManuelKaufmann||
+||ManuelKaufmann ||
+
 
 ''' ¿Dónde? ''' Sugieran
 
 ----
-
-== Santa Fe: Reunión 28 - Viernes 09/05/08 - Bar "La Terminal" - 21 hs. ==
+== Santa Fe: Reunión 29 - Viernes 09/05/08 - Bar "La Terminal" - 21 hs. ==
 '''Temas:'''
 
  * Experiencia de PyWeek 6 - desempeño
@@ -103,9 +99,11 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
  * conocernos la cara entre los miembros de PyAr de la región
 
 ''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
+
 ||CesarPortela ||
 ||MarianoGalan ||
 ||LucasDiPentima (a confirmar) ||
 ||JuanjoConti ||
+
 
 ''' ¿Dónde? ''' Nos reunimos en el bar "La Terminal" en la terminal de omnibus de la ciudad de Santa Fe, Belgrano e Hipólito Irigoyen. Arrancamos a las 21 hs
