@@ -87,13 +87,6 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
 ''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
 ||HoracioDuran (tcc: perrito)  ||
 
----- /!\ '''Edit conflict - other version:''' ----
-||ManuelKaufmann||
-
----- /!\ '''Edit conflict - your version:''' ----
-
----- /!\ '''End of edit conflict''' ----
-
 ''' ¿Dónde? ''' Sugieran
 
 ----
