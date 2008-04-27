@@ -86,7 +86,13 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
 
 ''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
 ||HoracioDuran (tcc: perrito)  ||
+
+---- /!\ '''Edit conflict - other version:''' ----
 ||ManuelKaufmann||
+
+---- /!\ '''Edit conflict - your version:''' ----
+
+---- /!\ '''End of edit conflict''' ----
 
 ''' ¿Dónde? ''' Sugieran
 
@@ -98,8 +104,8 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
  * Experiencia de PyWeek 6 - desempeño
  * Jornada Python en Santa Fe
  * Analizar el Taller de Programación de la UTN (donde se enseña con Python)
- * cruzar chismes de PyCon y Fisl
- * vernos la cara los miembros de la región de PyAr
+ * cruzar chismes de PyCon y Fisl si nos llega alguno
+ * conocernos la cara entre los miembros de PyAr de la región
 
 ''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
 ||CesarPortela ||
