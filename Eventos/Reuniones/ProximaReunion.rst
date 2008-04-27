@@ -97,7 +97,7 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
  * Experiencia de PyWeek 6 - desempeño
  * Jornada Python en Santa Fe
  * Analizar el Taller de Programación de la UTN (donde se enseña con Python)
- * cruzar chismes de PyConf y Fisl
+ * cruzar chismes de PyCon y Fisl
  * vernos la cara los miembros de la región de PyAr
 
 ''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
