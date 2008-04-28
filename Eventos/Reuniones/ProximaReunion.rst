@@ -43,8 +43,7 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
  * Global Python Sprint Weekend
 
 ## * ...
-''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
-||FacundoBatista||
+''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:||FacundoBatista ||
 ||PabloZiliani ||
 ||Tomas Zulberti (tal vez) ||
 ||ManuelKaufmann ||
@@ -70,8 +69,8 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
 ----
  ''(acá seguimos con las otras reuniones en otros lados)''
 
+[[Anchor(Cordoba)]]
 == Cordoba: Reunión 28 - Jueves 08/05/2008 (Tentativa) - FCEFyN (Centro), a seguir en un bar si se extiende de las 22 - 19 o 20hs ==
-
 '''Temas:'''
 
  * Si alguien Fue al FISL 2008 y viene que cuente
@@ -83,11 +82,11 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
 
 ||HoracioDuran (tcc: perrito) ||
 ||MarianoMara ||
-||DanielMoisset||
-||MauroCaceres||
-||MarianoGuerra||
+||DanielMoisset ||
+||MauroCaceres ||
+||MarianoGuerra ||
+||JohnLenton ||
 
-''' ¿Dónde? ''' Sugieran
 
 ----
 == Santa Fe: Reunión 29 - Viernes 09/05/08 - Bar "La Terminal" - 21 hs. ==
@@ -107,9 +106,8 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
 ||JuanjoConti ||
 ||PedroPrez ||
 ||MatiasGieco ||
-||<^>SebastianFarioli||
-||GuillermoHeizenreder||
-
+||<style="vertical-align: top;">SebastianFarioli ||
+||GuillermoHeizenreder ||
 
 
 '''¿Dónde? '''Nos reunimos en el bar "La Terminal" en la terminal de omnibus de la ciudad de Santa Fe, Belgrano e Hipólito Irigoyen. Arrancamos a las 21 hs
