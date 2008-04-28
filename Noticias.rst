@@ -19,8 +19,13 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 
+
+==== 28/04/2008 ====
+ * ¡Tres reuniones, tres! Están planeadas tres reuniones casi simultaneas en distintas partes del pais: Buenos Aires, Córdoba y Santa Fé. Pasen, vean el temario propuesto, e incluyan vuestro nombre en la lista de asistentes en la página de la [http://www.python.com.ar/moin/Eventos/Reuniones/ProximaReunion próxima reunión].
+
 ==== 07/03/2008 ====
  * Nuevo día, nuevo mapa. Ahora también hay un mapa donde cada uno puede agregar donde vive, y así tenemos información visual acerca de la distribución geográfica de PyAr, y de cuán federal es. El mapa está en [wiki:RicardoKirkner/MiembrosDePyAr MiembrosDePyAr] o directamente en [http://maps.google.com/maps/ms?hl=en&ptab=2&ie=UTF8&t=h&msa=0&msid=117626973029192648931.000447d968ea4d494125a&ll=-32.7688,-61.435547&spn=8.86327,14.0625&z=6&source=embed Google Maps]
+
 ==== 06/03/2008 ====
  * Ahora la comunidad de PyAr cuenta con un mapa donde se muestran los distintos lugares en los que estuvo la bandera de PyAr. Todo aquél que quiera colaborar agregando/modificando información en el mapa, que me avise (por ahora a través de la lista de mail, hasta que encuentre una mejor manera de hacerlo), así lo agrego a la lista de colaboradores. El mapa se puede ver en [wiki:RicardoKirkner/LaBanderaDePyAr LaBanderaDePyAr] o directamente en [http://maps.google.com/maps/ms?ie=UTF8&hl=en&t=h&msa=0&msid=117626973029192648931.000447c3180628d03b6bf&ll=-30.929617,-64.502878&spn=0.03534,0.054932&z=14&source=embed Google Maps].
 
