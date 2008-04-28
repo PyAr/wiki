@@ -105,6 +105,7 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
 ||LucasDiPentima (a confirmar) ||
 ||JuanjoConti ||
 ||PedroPrez ||
+||MatiasGieco ||
 
 
 ''' ¿Dónde? ''' Nos reunimos en el bar "La Terminal" en la terminal de omnibus de la ciudad de Santa Fe, Belgrano e Hipólito Irigoyen. Arrancamos a las 21 hs
