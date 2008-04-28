@@ -70,8 +70,7 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
 ----
  ''(acá seguimos con las otras reuniones en otros lados)''
 
-== Cordoba: Reunión 28 - Jueves 08/05/2008 (Tentativa) - Lugar a confirmar - 19 o 20hs ==
-(Para quienes tengan unos 20 se acuerdan a que hace alusion la letra despues del numero de reunion)
+== Cordoba: Reunión 28 - Jueves 08/05/2008 (Tentativa) - FCEFyN (Centro) - 19 o 20hs ==
 
 '''Temas:'''
 
