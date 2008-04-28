@@ -43,7 +43,9 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
  * Global Python Sprint Weekend
 
 ## * ...
-''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:||FacundoBatista||||PabloZiliani ||
+''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
+||FacundoBatista||
+||PabloZiliani ||
 ||Tomas Zulberti (tal vez) ||
 ||ManuelKaufmann ||
 ||MarianoReingart ||
@@ -82,7 +84,6 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
 
 ||HoracioDuran (tcc: perrito) ||
 ||MarianoMara ||
-||ManuelKaufmann ||
 
 
 ''' ¿Dónde? ''' Sugieran
