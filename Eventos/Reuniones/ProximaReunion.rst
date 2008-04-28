@@ -84,6 +84,7 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
 ||HoracioDuran (tcc: perrito) ||
 ||MarianoMara ||
 ||DanielMoisset||
+||MauroCaceres||
 
 ''' ¿Dónde? ''' Sugieran
 
