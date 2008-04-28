@@ -43,8 +43,7 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
  * Global Python Sprint Weekend
 
 ## * ...
-''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:||FacundoBatista ||
-||PabloZiliani ||
+''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:||FacundoBatista||||PabloZiliani ||
 ||Tomas Zulberti (tal vez) ||
 ||ManuelKaufmann ||
 ||MarianoReingart ||
@@ -67,7 +66,7 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
 ## ||... ||
 ''' ¿Dónde? '''Nos reunimos el[http://www.elclasicobar.com/restaurant-baez.html Bar "El Clásico"], Baez 205 esq. Arquibel, Las Cañitas, Ciudad de Buenos Aires, comenzando a las 19hs. Estaremos en el primer piso, por lo que pregúntenle al barman por nosotros.
 ----
-''(acá seguimos con las otras reuniones en otros lados)''
+ ''(acá seguimos con las otras reuniones en otros lados)''
 
 == Cordoba: Reunión 28 - Jueves 08/05/2008 (Tentativa) - Lugar a confirmar - 19 o 20hs ==
 (Para quienes tengan unos 20 se acuerdan a que hace alusion la letra despues del numero de reunion)
@@ -106,6 +105,8 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
 ||JuanjoConti ||
 ||PedroPrez ||
 ||MatiasGieco ||
+||<^>SebastianFarioli||
 
 
-''' ¿Dónde? ''' Nos reunimos en el bar "La Terminal" en la terminal de omnibus de la ciudad de Santa Fe, Belgrano e Hipólito Irigoyen. Arrancamos a las 21 hs
+
+'''¿Dónde? '''Nos reunimos en el bar "La Terminal" en la terminal de omnibus de la ciudad de Santa Fe, Belgrano e Hipólito Irigoyen. Arrancamos a las 21 hs
