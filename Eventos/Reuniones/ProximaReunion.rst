@@ -88,7 +88,7 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
 ||DanielMoisset ||
 ||MauroCaceres ||
 ||MarianoGuerra ||
-||JohnLenton ||
+||--(JohnLenton)-- (buuh! counter-serendpity) ||
 
 
 ----
