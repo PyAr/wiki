@@ -71,7 +71,7 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
  ''(acá seguimos con las otras reuniones en otros lados)''
 
 [[Anchor(Cordoba)]]
-== Cordoba: Reunión 28 - Jueves 08/05/2008 (Tentativa) - FCEFyN (Centro), a seguir en un bar si se extiende de las 22 - 19 o 20hs ==
+== Cordoba: Reunión 28 - Jueves 08/05/2008 - FCEFyN (Centro), a seguir en un bar si se extiende de las 22 - 19 o 20hs ==
 '''Temas:'''
 
  * Si alguien Fue al FISL 2008 y viene que cuente
@@ -126,6 +126,7 @@ A definir
 ''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
 ||David Casco ||
 || ["AlejandroJCura"] ||
+||HoracioDuran (tcc: perrito) ||
 
 ## ||... ||
 ''' ¿Dónde? ''' La idea es reunirse en el marco de las Segundas Jornadas de Software Libre que se realizarán el 16 y 17 de Mayo en las instalaciones de la UTN Facultad Regional San Francisco, Av de la universidad 717. Los lugares tentativos son el quincho que se encuentra en la facultad (si se consigue) o la casa de algún buen muchacho, ambas opciones podrían traer aparejadas el "tedioso" trabajo de organizar un asadito.
