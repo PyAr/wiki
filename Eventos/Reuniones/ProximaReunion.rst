@@ -125,6 +125,7 @@ A definir
 ## * ...
 ''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
 ||David Casco ||
+|| ["AlejandroJCura"] ||
 
 ## ||... ||
 ''' ¿Dónde? ''' La idea es reunirse en el marco de las Segundas Jornadas de Software Libre que se realizarán el 16 y 17 de Mayo en las instalaciones de la UTN Facultad Regional San Francisco, Av de la universidad 717. Los lugares tentativos son el quincho que se encuentra en la facultad (si se consigue) o la casa de algún buen muchacho, ambas opciones podrían traer aparejadas el "tedioso" trabajo de organizar un asadito.
