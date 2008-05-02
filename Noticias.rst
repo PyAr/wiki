@@ -20,6 +20,10 @@
 ## ULTIMAS_START
 
 
+==== 02/05/2008 ====
+ * Python resultó ganador del concurso Linux Journal Readers' Choice 2008, como [http://www.linuxjournal.com/article/10065 Mejor Lenguaje de Scripting]. Pasen y vean, y piérdanse cinco minutos leyendo el texto que tuvieron que poner para justificar qué habían pensado al momento de hacer la separación entre lenguaje "normal" y lenguaje de scripting.
+
+
 ==== 28/04/2008 ====
  * ¡Tres reuniones, tres! Están planeadas tres reuniones casi simultaneas en distintas partes del pais: Buenos Aires, Córdoba y Santa Fé. Pasen, vean el temario propuesto, e incluyan vuestro nombre en la lista de asistentes en la página de la [http://www.python.com.ar/moin/Eventos/Reuniones/ProximaReunion próxima reunión].
 
