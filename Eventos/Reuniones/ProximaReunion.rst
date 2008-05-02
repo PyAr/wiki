@@ -43,8 +43,7 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
  * Global Python Sprint Weekend
 
 ## * ...
-''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
-||FacundoBatista ||
+''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:||FacundoBatista ||
 ||PabloZiliani ||
 ||Tomas Zulberti (tal vez) ||
 ||ManuelKaufmann ||
@@ -65,6 +64,7 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
 ||RobertoAllende ||
 ||JohnLenton (ueeeh! serendipity!) ||
 ||RobertoDhios ||
+||MauroMackinze||
 
 
 ## ||... ||
@@ -119,16 +119,14 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
 '''¿Dónde? '''Nos reunimos en el bar "La Terminal" en la terminal de omnibus de la ciudad de Santa Fe, Belgrano e Hipólito Irigoyen. Arrancamos a las 21 hs
 
 ----
-
 == San Francisco, Córdoba: Reunión 30 - Viernes 16/05/2008 - Segundas Jornadas de Software Libre - Horario a determinar ==
-'''Temas:'''
-A definir
+'''Temas:''' A definir
 
 ## * ...
-''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
-||David Casco ||
+''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:||David Casco ||
 || ["AlejandroJCura"] ||
 ||HoracioDuran (tcc: perrito) ||
 
+
 ## ||... ||
-''' ¿Dónde? ''' La idea es reunirse en el marco de las Segundas Jornadas de Software Libre que se realizarán el 16 y 17 de Mayo en las instalaciones de la UTN Facultad Regional San Francisco, Av de la universidad 717. Los lugares tentativos son el quincho que se encuentra en la facultad (si se consigue) o la casa de algún buen muchacho, ambas opciones podrían traer aparejadas el "tedioso" trabajo de organizar un asadito.
+''' ¿Dónde? '''La idea es reunirse en el marco de las Segundas Jornadas de Software Libre que se realizarán el 16 y 17 de Mayo en las instalaciones de la UTN Facultad Regional San Francisco, Av de la universidad 717. Los lugares tentativos son el quincho que se encuentra en la facultad (si se consigue) o la casa de algún buen muchacho, ambas opciones podrían traer aparejadas el "tedioso" trabajo de organizar un asadito.
