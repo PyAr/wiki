@@ -44,6 +44,7 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
 
 ## * ...
 ''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
+
 ||FacundoBatista ||
 ||PabloZiliani ||
 ||Tomas Zulberti (tal vez) ||
@@ -116,6 +117,7 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
 ||DiegoLevental ||
 ||GustavoBellino ||
 ||DanielMalisani ||
+||ManuelKaufmann (falta confirmar) ||
 
 
 '''¿Dónde? '''Nos reunimos en el bar "La Terminal" en la terminal de omnibus de la ciudad de Santa Fe, Belgrano e Hipólito Irigoyen. Arrancamos a las 21 hs
@@ -125,9 +127,12 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
 '''Temas:''' A definir
 
 ## * ...
-''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:||David Casco ||
+''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
+
+||David Casco ||
 || ["AlejandroJCura"] ||
 ||HoracioDuran (tcc: perrito) ||
+||ManuelKaufmann||
 
 
 ## ||... ||
