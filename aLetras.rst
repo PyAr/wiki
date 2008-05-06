@@ -1,9 +1,9 @@
 == aLetras ==
 
 ==== Descripción ====
-''aLetras(numero)'' es una función a la que se le pasa un valor númerico y regresa una tupla en cuya primera posición encontramos un string con el valor numérico convertido a letras y en la segunda posición, el número que se procesó.
+''aLetras(numero)'' es una función a la que se le pasa un valor númerico y regresa un string con el valor numérico convertido a letras.
 
-Los valores que pueden ser convertidos pertenecen al rango ''-999.999.999,99 : 999.999.999,99''. Fuera del mismo retorna el string "0" en la primera posición de la tupla.
+Los valores que pueden ser convertidos pertenecen al rango ''-999.999.999,99 : 999.999.999,99''. Si se proporciona una cadena fuera de rango, retorna el string "0".
 
 Siempre se trabaja con 2 decimales (se redondean los valores suministrados)
 
@@ -12,18 +12,31 @@ Siempre se trabaja con 2 decimales (se redondean los valores suministrados)
 {{{
 
 >>> aLetras(1234.56)
-(' MIL DOSCIENTOS TREINTA Y CUATRO CON CINCUENTA Y SEIS CENTAVOS', 1234.5599999999999)
+' MIL DOSCIENTOS TREINTA Y CUATRO CON CINCUENTA Y SEIS CENTAVOS'
 >>> aLetras(-240.99)
-('MENOS DOSCIENTOS CUARENTA CON NOVENTA Y NUEVE CENTAVOS', 240.99000000000001)
+'MENOS DOSCIENTOS CUARENTA CON NOVENTA Y NUEVE CENTAVOS'
 >>> aLetras(100)
-('CIEN', 100.0)
+'CIEN'
 >>> aLetras(401201501.01)
-('CUATROCIENTOS UN MILLON DOSCIENTOS UN MIL QUINIENTOS UNO CON UN CENTAVOS', 401201501.00999999)
+'CUATROCIENTOS UN MILLON DOSCIENTOS UN MIL QUINIENTOS UNO CON UN CENTAVOS'
 >>> aLetras(-0.76)
-('MENOS CERO CON SETENTA Y SEIS CENTAVOS', 0.76000000000000001)
+'MENOS CERO CON SETENTA Y SEIS CENTAVOS'
 >>> aLetras(1000000000)
-('0', 0)
+'0'
 
+}}}
+
+==== Observaciones ====
+
+La asignación y condicional en una línea -> numeros[1] = "UNO" if i == 2 else "UN" <- da problemas de sintaxis con versiones anteriores a Python 2.5.x
+
+Puede reemplazarse con:
+
+{{{
+if i == 2:
+  numeros[1] = "UNO"
+else:
+  numeros[1] = "UN"
 }}}
 
 ==== Código: ====
@@ -31,8 +44,9 @@ Siempre se trabaja con 2 decimales (se redondean los valores suministrados)
 {{{
 #fuente: Recetario de PyAR, http://python.com.ar/moin/Recetario
 #autor: Cesar E Portela
-#date: 01-03-2008
-#version: 1
+#date: 06-05-2008
+#version: 2
+#para Python: 2.5.x
 
 def aLetras(numero):
 
@@ -119,8 +133,7 @@ def aLetras(numero):
 
         cadena += subcadena
 
-    valor = entero + round(decimales * 0.01, 2)
-    return (cadena, valor)
+    return cadena
 
 }}}
 
