@@ -77,8 +77,8 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
 
 ## ||... ||
 ''' ¿Dónde? '''Nos reunimos el[http://www.elclasicobar.com/restaurant-baez.html Bar "El Clásico"], Baez 205 esq. Arquibel, Las Cañitas, Ciudad de Buenos Aires, comenzando a las 19hs. Estaremos en el primer piso, por lo que pregúntenle al barman por nosotros.
+
 ----
- ''(acá seguimos con las otras reuniones en otros lados)''
 
 [[Anchor(Cordoba)]]
 == Cordoba: Reunión 28 - Jueves 08/05/2008 - FCEFyN (Centro), a seguir en un bar si se extiende de las 22 - 19 o 20hs ==
