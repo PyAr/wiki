@@ -3,7 +3,8 @@
 == Nubis ==
 ''Cristian Bruno''
 
-Proyectos: woobiz.com.ar
+Proyectos: [http://woobiz.com.ar]
+
 Email: [[MailTo(gnubis AT gmail DOT com)]]
 
 ----
