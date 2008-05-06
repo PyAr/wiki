@@ -72,6 +72,8 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
 ||SergioMontañez||
 ||LucasLiendo||
 ||SebastianMaceda||
+||SebastianBassi||
+
 
 ## ||... ||
 ''' ¿Dónde? '''Nos reunimos el[http://www.elclasicobar.com/restaurant-baez.html Bar "El Clásico"], Baez 205 esq. Arquibel, Las Cañitas, Ciudad de Buenos Aires, comenzando a las 19hs. Estaremos en el primer piso, por lo que pregúntenle al barman por nosotros.
