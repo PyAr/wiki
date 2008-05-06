@@ -80,9 +80,13 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
 
 [[Anchor(Cordoba)]]
 == Cordoba: Reunión 28 - Jueves 08/05/2008 - FCEFyN (Centro), a seguir en un bar si se extiende de las 22 - 19 o 20hs ==
+
+Más precisamente en el aula 100 (ex 34), subsuelo de la sede de FCEFyN en Duarte Quirós esquina Velez Sársfield.
+
 '''Temas:'''
 
  * Si alguien Fue al FISL 2008 y viene que cuente
+ * PyWeek?
  * Conocernos un poco entre los PyArEros Cordobeses que no nos conocemos y capaz un poco de que hacemos con python
  * Python en las universidades locales
  * Eventos que se vienen o nos gustaria que se vinieran.
@@ -134,6 +138,7 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
 
 ||David Casco ||
 || ["AlejandroJCura"] ||
+||DanielMoisset ||
 ||HoracioDuran (tcc: perrito) ||
 ||ManuelKaufmann||
 
