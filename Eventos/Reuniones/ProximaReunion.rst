@@ -122,6 +122,7 @@ Más precisamente en el aula 100 (ex 34), subsuelo de la sede de FCEFyN en Duart
 ||GustavoBellino ||
 ||DanielMalisani ||
 ||ManuelKaufmann (falta confirmar) ||
+||DanielMendoza ||
 
 
 '''¿Dónde? '''Nos reunimos en el bar "La Terminal" en la terminal de omnibus de la ciudad de Santa Fe, Belgrano e Hipólito Irigoyen. Arrancamos a las 21 hs
