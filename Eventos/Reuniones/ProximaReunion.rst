@@ -43,9 +43,7 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
  * Global Python Sprint Weekend
 
 ## * ...
-''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
-
-||FacundoBatista ||
+''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:||FacundoBatista ||
 ||PabloZiliani ||
 ||Tomas Zulberti (tal vez) ||
 ||ManuelKaufmann ||
@@ -66,23 +64,20 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
 ||RobertoAllende ||
 ||JohnLenton (ueeeh! serendipity!) ||
 ||RobertoDhios ||
-||MauroMackinze||
-||RobertoRodriguez||
-||HugoRuscitti||
-||SergioMontañez||
-||LucasLiendo||
-||SebastianMaceda||
-||SebastianBassi||
+||MauroMackinze ||
+||RobertoRodriguez ||
+||HugoRuscitti ||
+||SergioMontañez ||
+||LucasLiendo ||
+||SebastianMaceda ||
+||SebastianBassi ||
 
 
 ## ||... ||
 ''' ¿Dónde? '''Nos reunimos el[http://www.elclasicobar.com/restaurant-baez.html Bar "El Clásico"], Baez 205 esq. Arquibel, Las Cañitas, Ciudad de Buenos Aires, comenzando a las 19hs. Estaremos en el primer piso, por lo que pregúntenle al barman por nosotros.
-
 ----
-
 [[Anchor(Cordoba)]]
 == Cordoba: Reunión 28 - Jueves 08/05/2008 - FCEFyN (Centro), a seguir en un bar si se extiende de las 22 - 19 o 20hs ==
-
 Más precisamente en el aula 100 (ex 34), subsuelo de la sede de FCEFyN en Duarte Quirós esquina Velez Sársfield.
 
 '''Temas:'''
@@ -121,7 +116,7 @@ Más precisamente en el aula 100 (ex 34), subsuelo de la sede de FCEFyN en Duart
 ||JuanjoConti ||
 ||PedroPrez ||
 ||MatiasGieco ||
-||<style="vertical-align: top;">SebastianFarioli ||
+||<style="vertical-align: top;">--(SebastianFarioli)-- (Será la próxima) ||
 ||GuillermoHeizenreder ||
 ||DiegoLevental ||
 ||GustavoBellino ||
@@ -136,13 +131,11 @@ Más precisamente en el aula 100 (ex 34), subsuelo de la sede de FCEFyN en Duart
 '''Temas:''' A definir
 
 ## * ...
-''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
-
-||David Casco ||
+''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:||David Casco ||
 || ["AlejandroJCura"] ||
 ||DanielMoisset ||
 ||HoracioDuran (tcc: perrito) ||
-||ManuelKaufmann||
+||ManuelKaufmann ||
 
 
 ## ||... ||
