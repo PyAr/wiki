@@ -3,6 +3,7 @@
 #pragma keywords Python, PyAr, Python Argentina, user group, grupo de usuarios, community portal
 
 ##||<tablestyle="width:100%;text-align:center; border-style: hidden;">[http://www.cafeconf.org http://www.cafeconf.org/2007/grafica/cafeconf07_468x60.png]||
+||<tablestyle="width:100%;text-align:center; border-style: hidden;">[http://jornadas08.com.ar/ http://jornadas08.com.ar/images/baner1.gif]||
 
 ##||<tablestyle="width:100%; color: red; text-align:center;"> {*} ~+'' HOY, miércoles 5 de marzo, 26^a^ reunión de PyAr, en Bs.As. Más detalles [wiki:Eventos/Reuniones/ProximaReunion aquí].''+~ ||
 
