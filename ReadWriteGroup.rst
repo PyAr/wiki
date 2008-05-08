@@ -17,6 +17,7 @@
  * ManuelKaufmann
  * maram
  * MarianoCortesi
+ * MarianoGuerra
  * MarianoReingart
  * MartinSarsale
  * MauricioFerrari
