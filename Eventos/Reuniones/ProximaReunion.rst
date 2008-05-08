@@ -138,7 +138,8 @@ Un agradecimiento extra especial a Agustin Martina que nos consiguio el lugar pa
 '''Temas:''' A definir
 
 ## * ...
-''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:||David Casco ||
+''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
+||David Casco ||
 || ["AlejandroJCura"] ||
 ||DanielMoisset ||
 ||HoracioDuran (tcc: perrito) ||
