@@ -98,6 +98,8 @@ Más precisamente en el aula 100 (ex 34), subsuelo de la sede de FCEFyN en Duart
 ||--(JohnLenton)-- (buuh! counter-serendpity) ||
 ||Ramiro Morales (tcc: cramm) ||
 ||SebastianAlvarez (judaz) ||
+||JaviMansilla ||
+
 
 Un agradecimiento extra especial a Agustin Martina que nos consiguio el lugar para reunirnos de onda.
 ----
