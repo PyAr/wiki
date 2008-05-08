@@ -13,7 +13,7 @@ A este lugar uno recurre cada vez que se encuentra en la cocina de Python, cuchi
 === validar_cuit ===
 ValidarCuit : Función para validar un CUIT/CUIL estilo 00-00000000-0
 
-== Interfacez graficas ==
+== Interfaces graficas ==
 === Gtk ===
 ["GtkHolaMundo"] : una ventana que muestra el mensaje hola mundo
 
