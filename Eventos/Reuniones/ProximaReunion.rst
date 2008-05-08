@@ -101,6 +101,7 @@ Más precisamente en el aula 100 (ex 34), subsuelo de la sede de FCEFyN en Duart
 ||JaviMansilla ||
 ||RayentrayTappa (la_rayis)||
 ||NataliaBidart ||
+||MarcosDione (aka: StyXman/StucKman)||
 
 
 Un agradecimiento extra especial a Agustin Martina que nos consiguio el lugar para reunirnos de onda.
