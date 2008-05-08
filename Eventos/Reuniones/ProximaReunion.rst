@@ -99,6 +99,7 @@ Más precisamente en el aula 100 (ex 34), subsuelo de la sede de FCEFyN en Duart
 ||RamiroMorales (tcc: cramm) ||
 ||SebastianAlvarez (judaz) ||
 ||JaviMansilla ||
+||RayentrayTappa (la_rayis)||
 
 
 Un agradecimiento extra especial a Agustin Martina que nos consiguio el lugar para reunirnos de onda.
