@@ -77,7 +77,7 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
 ''' ¿Dónde? '''Nos reunimos el[http://www.elclasicobar.com/restaurant-baez.html Bar "El Clásico"], Baez 205 esq. Arquibel, Las Cañitas, Ciudad de Buenos Aires, comenzando a las 19hs. Estaremos en el primer piso, por lo que pregúntenle al barman por nosotros.
 ----
 [[Anchor(Cordoba)]]
-== Cordoba: Reunión 28 - Jueves 08/05/2008 - FCEFyN (Centro), a seguir en un bar si se extiende de las 22 - 19 o 20hs ==
+== Cordoba: Reunión 28 - Jueves 08/05/2008 - FCEFyN (Centro), a seguir en un bar si se extiende de las 22 - 20hs ==
 Más precisamente en el aula 100 (ex 34), subsuelo de la sede de FCEFyN en Duarte Quirós esquina Velez Sársfield.
 
 '''Temas:'''
@@ -97,7 +97,7 @@ Más precisamente en el aula 100 (ex 34), subsuelo de la sede de FCEFyN en Duart
 ||MarianoGuerra ||
 ||--(JohnLenton)-- (buuh! counter-serendpity) ||
 
-
+Un agradecimiento extra especial a Agustin Martina que nos consiguio el lugar para reunirnos de onda.
 ----
 == Santa Fe: Reunión 29 - Viernes 09/05/08 - Bar "La Terminal" - 21 hs. ==
 '''Temas:'''
