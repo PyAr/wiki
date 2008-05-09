@@ -18,12 +18,14 @@
  * maram
  * MarianoCortesi
  * MarianoGuerra
+ * MarianoMara
  * MarianoReingart
  * MartinSarsale
  * MauricioFerrari
  * NicolasPalumbo
  * NubIs
  * PabloCarballo
+ * RamiroMorales
  * RayentrayTappa
  * RicardoKirkner
  * RicardoQuesada
@@ -31,4 +33,3 @@
  * SantiagoPereson
  * SebastianBassi
  * SebastianLezica
- * RamiroMorales
