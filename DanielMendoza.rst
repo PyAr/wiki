@@ -9,4 +9,4 @@ Email: [[MailTo(you AT SPAMFREE example DOT com)]]
 ...
 
 ----
-CategoryHomepage
+Hola a Todos, describire brevennte mi persona, ja... Soy Estudiante de Ingenieria en Sistemas de Información de la Univarsidad Tecnológica Nacional - Facultad Regional Santa, Fe. Soy Técnico en Computación desde 2000, 
