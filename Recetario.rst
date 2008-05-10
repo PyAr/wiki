@@ -40,8 +40,7 @@ ValidarCuit : Función para validar un CUIT/CUIL estilo 00-00000000-0
 ["GtkTextArea"] : ejemplo sobre manipulacion basica de un area de texto con scroll
 
 === Gtk + glade ===
-["GtkGladeHolaMundo"] : una ventana que muestra el mensaje hola mundo
 
 ["GtkGladeHolaMundoOO"] : una ventana que muestra el mensaje hola mundo programado utilizando orientacion a objetos
 
-["GtkGladeSeignals"] : manejo basico de señales
+["GtkGladeSignals"] : manejo basico de señales
