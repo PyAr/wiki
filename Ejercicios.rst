@@ -13,7 +13,7 @@ En un restaurant hay un menú de entradas con los siguientes precios (unidades a
  * Producto F: 5.8
 
 El protagonista de la historia le dice al mozo que le sirva una combinación que cueste exactamente 15.05.
-Haga un programa que muestra que combinacion de platos debería servir el mozo.
+Hacé un programa que muestra que combinacion de platos debería servir el mozo.
 
 Basado en la siguiente historia:
 
@@ -22,3 +22,12 @@ Basado en la siguiente historia:
 (La licencia de esta obra es [http://imgs.xkcd.com/static/somerights20.png], para mas información consulte http://creativecommons.org/licenses/by-nc/2.5/)
 
 /RespuestaProblema1
+
+
+'''Problema 2:''' Todos los IPs posibles.
+
+Mirá el código en C del siguiente chiste:
+
+[http://media.fukung.net/images/119/how-to-catch-script-kiddies.gif]
+
+Básicamente de trata de un programa que escribe en un archivo de texto, todas las combinaciones numericas entre: 0.0.0.0 y 255.255.255.255. Mostrá variantes para hacer lo mismo en Python.
