@@ -4,16 +4,8 @@
 #format wiki
 == Daniel Mendoza ==
 
-
----- /!\ '''Edit conflict - other version:''' ----
-Email: [[MailTo(danielmendoza.ing AT SPAMFREE example DOT com)]]
-
----- /!\ '''Edit conflict - your version:''' ----
 Email: [[MailTo(danielmendoza.ing AT SPAMFREE gmail DOT com)]]
 
----- /!\ '''End of edit conflict''' ----
-
-...
 
 ----
 Hola a Todos, describire brevennte mi persona, ja... Soy Estudiante de Ingenieria en Sistemas de Información de la Univarsidad Tecnológica Nacional - Facultad Regional Santa, Fe. Soy Técnico en Computación desde 2000.
