@@ -3,7 +3,7 @@
 En esta página están los links a distintos provedores de adaptadores scsi necesarios para el server de PyAr que nos donaron:
 
 == Precios razonable ==
- * http://tinyurl.com/6ou4dr
+ * http://tinyurl.com/6ou4dr   <=== Tengo cuenta en ebay, si quieren lo compro (SebastianBassi)
  * http://www.monoprice.com/products/subdepartment.asp?c_id=104&cp_id=10402
  * http://www.computercablesource.com/internal-scsi-adapters-sca-80-140.html
 
