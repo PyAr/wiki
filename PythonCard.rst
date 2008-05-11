@@ -71,10 +71,10 @@ Ejemplo de como crear una aplicación de prueba (que tome una expresión/comando
   * {{{prueba.py}}}: programa python que contendrá el comportamiento a los eventos y demás funcionalidades
   * {{{prueba.rsrc.py}}}: archivo python que define la interfáce gráfica
  * Agregamos los componentes (ver el diseño de pantalla en la última sección):
-  * Etiqueta: menú ''Component'', ''Static Text'' (la seleccionamos y en la pantalla de propiedades cambiamos el ''Label'': a Comando)
+  * Etiqueta: menú ''Component'', ''Static Text'' (la seleccionamos y en la pantalla de propiedades cambiamos el ''Label'': Comando)
   * Campo de Texto: menú ''Component'', ''Text Field'' (la seleccionamos y movemos a continuación de la etiqueta, en las propiedades marcar ''Vary'', cambiar ''Name'': txtComando y ''Text'': en blanco )
-  * Área de Texto: menú ''Component'', ''Text Area'' (lo seleccionamos, movemos a donde corresponda, en las propiedades marcar ''Vary'', scribir en ''Name'': txtResultado y en ''Text'': en blanco)
-  * Botón: menú ''Component'', ''Button'' (lo seleccionamos, movemos a donde corresponda, en las propiedades marcar ''Vary'', scribir en ''Name'': btnEjecutar y en ''Label'': Ejecutar )
+  * Área de Texto: menú ''Component'', ''Text Area'' (lo seleccionamos, movemos a donde corresponda, en las propiedades marcar ''Vary'', escribir en ''Name'': txtResultados y en ''Text'': en blanco)
+  * Botón: menú ''Component'', ''Button'' (lo seleccionamos, movemos a donde corresponda, en las propiedades marcar ''Vary'', escribir en ''Name'': btnEjecutar y en ''Label'': Ejecutar )
  * Agregamos un menu de ayuda:
   * Ir al menú ''Edit'', ''Menu Editor'':
    * Marcar ''File'', presionar ''New Menu Item'', y escribir en ''Label'': Ayuda
@@ -130,6 +130,8 @@ if __name__ == '__main__':
 
 }}}
 '''Nota''': Por ser un ejemplo se obviaron temas de manejo de excepciones y cuestiones avanzadas.
-
+Se pueden descargar los archivos terminados:
+ * attachment:prueba.py
+ * attachment:prueba.rsrc.py
 === Pantalla del ejemplo ejecutandose: ===
 attachment:prueba.png
