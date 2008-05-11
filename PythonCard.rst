@@ -70,7 +70,7 @@ Ejemplo de como crear una aplicación de prueba (que tome una expresión/comando
  * Se Generará los siguientes archivos:
   * {{{prueba.py}}}: programa python que contendrá el comportamiento a los eventos y demás funcionalidades
   * {{{prueba.rsrc.py}}}: archivo python que define la interfáce gráfica
- * Agregamos los componentes:
+ * Agregamos los componentes (ver el diseño de pantalla en la última sección):
   * Etiqueta: menú ''Component'', ''Static Text'' (la seleccionamos y en la pantalla de propiedades cambiamos el ''Label'': a Comando)
   * Campo de Texto: menú ''Component'', ''Text Field'' (la seleccionamos y movemos a continuación de la etiqueta, en las propiedades marcar ''Vary'', cambiar ''Name'': txtComando y ''Text'': en blanco )
   * Área de Texto: menú ''Component'', ''Text Area'' (lo seleccionamos, movemos a donde corresponda, en las propiedades marcar ''Vary'', scribir en ''Name'': txtResultado y en ''Text'': en blanco)
@@ -130,3 +130,6 @@ if __name__ == '__main__':
 
 }}}
 '''Nota''': Por ser un ejemplo se obviaron temas de manejo de excepciones y cuestiones avanzadas.
+
+=== Pantalla del ejemplo ejecutandose: ===
+attachment:prueba.png
