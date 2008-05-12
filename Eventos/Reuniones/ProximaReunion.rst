@@ -31,50 +31,19 @@
 Como estamos armando dos o tres reuniones en simultáneo, esta página coordina todas!
 
 ## Ejemplo de formato:
-== Buenos Aires: Reunión 27 - Miércoles 07/05/2008 - Bar "El Clásico" - 19hs ==
-'''Temas:'''
+## == Buenos Aires: Reunión 27 - Miércoles 07/05/2008 - Bar "El Clásico" - 19hs ==
+##'''Temas:'''
 
- * Experiencia de PyCon 2008
- * Experiencia de Fisl 2008
- * Experiencia de PyWeek 6 (y de yapa: cocos y la futura version 0.3)
- * Reparto de merchandising
- * ¿PyCon Argentina 2009?
- * Sprint de instalación de nuestro server
- * Global Python Sprint Weekend
+## * Experiencia de PyCon 2008
+## * Experiencia de Fisl 2008
+## * Experiencia de PyWeek 6 (y de yapa: cocos y la futura version 0.3)
 
 ## * ...
-''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:||FacundoBatista ||
-||PabloZiliani ||
-||Tomas Zulberti (tal vez) ||
-||ManuelKaufmann ||
-||MarianoReingart ||
-||Karucha ||
-||RicardoKirkner ||
-|| ["AlejandroJCura"] ||
-||LeitoMonk ||
-||PabloCarballo ||
-||<style="vertical-align: top;">DanielPadula ||
-||MarianoDraghi ||
-||LucasDevescovi ||
-||PatricioMolina ||
-||AngelFreire ||
-||GustavoSalvini ||
-||MarioZorz ||
-||RicardoQuesada ||
-||RobertoAllende ||
-||JohnLenton (ueeeh! serendipity!) ||
-||RobertoDhios ||
-||MauroMackinze ||
-||RobertoRodriguez ||
-||HugoRuscitti ||
-||SergioMontañez ||
-||LucasLiendo ||
-||SebastianMaceda ||
-||SebastianBassi ||
+## ''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:||FacundoBatista ||
+## ||Karucha ||
+## ||RicardoKirkner ||
+## || ["AlejandroJCura"] ||
 
-
-## ||... ||
-''' ¿Dónde? '''Nos reunimos el[http://www.elclasicobar.com/restaurant-baez.html Bar "El Clásico"], Baez 205 esq. Arquibel, Las Cañitas, Ciudad de Buenos Aires, comenzando a las 19hs. Estaremos en el primer piso, por lo que pregúntenle al barman por nosotros.
 ----
 [[Anchor(Cordoba)]]
 == Cordoba: Reunión 28 - Jueves 08/05/2008 - FCEFyN (Centro), a seguir en un bar si se extiende de las 22 - 20hs ==
