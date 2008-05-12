@@ -24,6 +24,7 @@
  * MarianoReingart
  * MartinSarsale
  * MauricioFerrari
+ * MauroMackinze
  * NicolasPalumbo
  * NubIs
  * PabloCarballo
