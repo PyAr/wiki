@@ -106,35 +106,6 @@ Más precisamente en el aula 100 (ex 34), subsuelo de la sede de FCEFyN en Duart
 
 Un agradecimiento extra especial a Agustin Martina que nos consiguio el lugar para reunirnos de onda.
 ----
-== Santa Fe: Reunión 29 - Viernes 09/05/08 - Bar "La Terminal" - 21 hs. ==
-'''Temas:'''
-
- * Experiencia de PyWeek 6 - desempeño
- * Jornada Python en Santa Fe
- * Analizar el Taller de Programación de la UTN (donde se enseña con Python)
- * cruzar chismes de PyCon y Fisl si nos llega alguno
- * conocernos la cara entre los miembros de PyAr de la región
-
-''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
-
-||CesarPortela ||
-||MarianoGalan ||
-||LucasDiPentima (a confirmar) ||
-||JuanjoConti ||
-||PedroPrez ||
-||MatiasGieco ||
-||<style="vertical-align: top;">--(SebastianFarioli)-- (Será la próxima) ||
-||GuillermoHeizenreder ||
-||DiegoLevental ||
-||GustavoBellino ||
-||DanielMalisani ||
-||ManuelKaufmann (falta confirmar) ||
-||DanielMendoza ||
-
-
-'''¿Dónde? '''Nos reunimos en el bar "La Terminal" en la terminal de omnibus de la ciudad de Santa Fe, Belgrano e Hipólito Irigoyen. Arrancamos a las 21 hs
-
-----
 == San Francisco, Córdoba: Reunión 30 - Viernes 16/05/2008 - Segundas Jornadas de Software Libre - Horario a determinar ==
 '''Temas:''' A definir
 
