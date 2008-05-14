@@ -45,36 +45,7 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
 ## || ["AlejandroJCura"] ||
 
 ----
-[[Anchor(Cordoba)]]
-== Cordoba: Reunión 28 - Jueves 08/05/2008 - FCEFyN (Centro), a seguir en un bar si se extiende de las 22 - 20hs ==
-Más precisamente en el aula 100 (ex 34), subsuelo de la sede de FCEFyN en Duarte Quirós esquina Velez Sársfield.
 
-'''Temas:'''
-
- * Si alguien Fue al FISL 2008 y viene que cuente
- * PyWeek?
- * Conocernos un poco entre los PyArEros Cordobeses que no nos conocemos y capaz un poco de que hacemos con python
- * Python en las universidades locales
- * Eventos que se vienen o nos gustaria que se vinieran.
-
-''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
-
-||HoracioDuran (tcc: perrito) ||
-||MarianoMara ||
-||DanielMoisset ||
-||MauroCaceres ||
-||MarianoGuerra ||
-||--(JohnLenton)-- (buuh! counter-serendpity) ||
-||RamiroMorales (tcc: cramm) ||
-||SebastianAlvarez (judaz) ||
-||JaviMansilla ||
-||RayentrayTappa (la_rayis)||
-||NataliaBidart ||
-||MarcosDione (aka: StyXman/StucKman)||
-
-
-Un agradecimiento extra especial a Agustin Martina que nos consiguio el lugar para reunirnos de onda.
-----
 == San Francisco, Córdoba: Reunión 30 - Viernes 16/05/2008 - Segundas Jornadas de Software Libre - Horario a determinar ==
 '''Temas:''' A definir
 
