@@ -16,7 +16,7 @@ Sostengo que el trabajo intelectual no tiene que ser por horas sino por procesos
 Me gusta viajar, aunque no viajo tanto como quisiera. Suelo viajar a Neuquén, a Mar del Plata, antes viajaba seguido a Córdoba (tenia una casa en Almafuerte)
 
 ----
- Estudié Técnico en Electrónica en la ENET Nº1 Albert Thomas, hice 2 años de Ingenieria Electronica en la UNLP, después intenté ir a la UBA, intenté entrar en la ESLAI, y finalmente me quedé estudiando informática en la UNLP, me recibí de Analista en 1994 y todavía me falta entregar la tesis para terminar la licenciatura.
+Estudié Técnico en Electrónica en la ENET Nº1 Albert Thomas, hice 2 años de Ingenieria Electronica en la UNLP, después intenté ir a la UBA, intenté entrar en la ESLAI, y finalmente me quedé estudiando informática en la UNLP, me recibí de Analista en 1994 y todavía me falta entregar la tesis para terminar la licenciatura.
 
 Doy clases de Inteligencia Artificial y Lógica en la UNLP para la carrera de informática.
 
@@ -57,9 +57,9 @@ Tengo varios proyectos en mente para los cuales todavía estoy buscando un conte
 
 1993 Creo, mi primer modem 2400, y mi primero correo en FidoNet.
 
-1994 Hago un sistema de identificacion de maderas para la FAcultad de Agronomia, UNLP, en Clipper (todavia se usa).
+1994 Hago un sistema de identificacion de maderas para la Facultad de Agronomia, UNLP, en Clipper (todavia se usa).
 
-1995 Primer experiencia con Slackware
+1995 Instalo mi primera red con wfw311. Primer experiencia con Slackware, en la facultad.
 
 1996 Mapinfo. Mi primer acceso a la www con lynx con una cuenta de la universidad, desde casa. Talk con un amigo en Washington.
 
@@ -73,7 +73,7 @@ Tengo varios proyectos en mente para los cuales todavía estoy buscando un conte
 
 2006 Hack de GoogleEarth con AutoHotKey y Python. Me compro una LifeDrive.
 
-2007 Muy a mi pesar, VB y MSSQL.
+2007 Muy a mi pesar, VB y MSSQL. También SVN, Trac, y un IPCop.
 
 2008 Django.
 
