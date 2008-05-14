@@ -30,7 +30,37 @@ Mientras hacía estas cosas, programaba lo que necesitaba y no hacian los sistem
 
 Tengo varios proyectos en mente para los cuales todavía estoy buscando un contexto apropiado. Algo de eso había documentado en un espacio wiki que me habian abierto en Pyar, pero posiblemente por falta de actualización está desaparecida. Mas sobre esto en el futuro.
 
+-----
+Notas históricas:
 
+1978 Lo primero que programé fue el Atari de un amigo, que tenía un juego que modificamos por diversion, adivinando. 
+1979 Llegó a mis manos una calculadora programable Commodore que tenia un registro de memoria y hasta 24 pasos de programación, con la cual llegaba a resolver ecuaciones cuadraticas y todo lo que veia en el colegio.
+1981 Al Albert Thomas llegan las primeras RadioShack TRS-80, soy uno de los primeros usuarios, usando BASIC
+1982 Me compro una Casio fx-702 programable, con la que hago mis primeros juegos, resuelvo ecuaciones y otras cosas. La llevo encima todo el tiempo.
+1983 Tengo acceso a la Texas TI-99 de una amiga y ahi me meto con juegos. Tengo acceso a la Timex Sinclair 2068 de un amigo donde me meto con assembler. También programábamos un 6800 en hexadecimal en el Albert Thomas.
+1984 Le compro la 2068 a mi amigo y empiezo a experimentar.
+1986 En segundo año de ingeniería tengo que trabajar en Fortran 77 en terminales IBM de la facultad. Eramos 200 para dos terminales, yo iba al final de la tarde y siempre despues de las 12 venia el operador a pedirme que me vaya.
+1988 Empiezo informática, me encuentro con la PC, el DOS y el turbo pascal.
+1989 Me encuentro con WordStar2000, DBASE, Autocad, y programas cientificos varios.
+1990 En la facultad, Smalltalk, Ada, C.
+1991 Clipper
+1992 Mi primera PC AT 286 con 1M de ram y disco de 40 M. Tetrismaniaco.
+1993 Creo, mi primer modem 2400, y mi primero correo en FidoNet.
+1994 CorelDraw.
+1995 Primer experiencia con Slackware
+1996 Mapinfo. Mi primer acceso a la www con lynx con una cuenta de la universidad, desde casa. Talk con un amigo en Washington.
+1997 Transcad.
+1998 Tranus.
+2001 ArcView. Prolog.
+2005 Python.
+2006 Hack de GoogleEarth con AutoHotKey y Python. Me compro una LifeDrive.
+2007 Muy a mi pesar, VB y MSSQL. 
+2008 Django.
+
+Linux que uso: Ubuntu 8.04
+Linux que probé: Suse, Mandrake, Puppy, DSL, Slackware, RedHat, Ututo, Debian.
+
+----
 Email: [[MailTo(lholivera AT g m a i l DOT com)]]
 
 ...
