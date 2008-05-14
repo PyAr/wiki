@@ -12,8 +12,10 @@
  * GabrielGenellina
  * GuillermoGonzalez
  * GuillermoNarvaja
+ * HernanOlivera
  * HoracioDuran
  * javimansilla
+ * JohnLenton
  * JuanjoConti
  * LeitoMonk
  * ManuelKaufmann
