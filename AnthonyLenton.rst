@@ -4,9 +4,7 @@
 
 Email: [[MailTo(anthony AT SPAMFREE except DOT com DOT ar)]]
 
-Nothing to read here, yet.
-----
-Nada que leer acá, todavía.
+Trabajo en [http://except.com.ar/ Except], que es mi propia empresa.  Ahí usamos Python un montón, porque es mejor que la leche condensada.
 
 ----
 CategoryHomepage
