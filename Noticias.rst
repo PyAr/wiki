@@ -19,6 +19,9 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 
+==== 20/05/2008 ====
+ * Estuvimos en las [http://www.jornadas08.com.ar/ 2das Jornadas de Software Libre de San Francisco], Córdoba. Pueden leer en el blog de Karucha [http://www.karuchin.com.ar/ un resumen de lo que pasó en las Jornadas].
+
 
 ==== 02/05/2008 ====
  * Python resultó ganador del concurso Linux Journal Readers' Choice 2008, como [http://www.linuxjournal.com/article/10065 Mejor Lenguaje de Scripting]. Pasen y vean, y piérdanse cinco minutos leyendo el texto que tuvieron que poner para justificar qué habían pensado al momento de hacer la separación entre lenguaje "normal" y lenguaje de scripting.
@@ -49,6 +52,8 @@
 
 ==== 14/02/2008 ====
  * Del viernes 15 al lunes 18 de febrero de 2008 en Los Cocos, provincia de Córdoba se lleva a cabo el primer [http://except.com.ar/cgi-bin/pycamp/ PyCamp], un campamento para pitoneros de la región. Esta organizado por [http://except.com.ar/ Except].
+
+## ULTIMAS_END
 
 ==== 15/11/2007 ====
  * Los días 6 y 7 de diciembre próximo se estará realizando la 3era
@@ -87,9 +92,8 @@
  * Se realizó [wiki:Eventos/Conferencias/CaFeConf2006 CaFeCONF 2006], con una extensa participación de Python, y PyAr. Entre otras cosas, tuvimos entre nosotros a Anna Ravenscroft y Alex Martelli, y aprovechamos para celebrar la [wiki:Eventos/Reuniones/Reunion19 Reunión 19].
 
 ==== 28/10/2006 ====
- * Durante las últimas semanas se llevó a cabo un concurso de diseño de una Bandera de PyAr para usar en presentaciones y convenciones. Ya están disponibles los [wiki:Bandera/resultados resultados de la votación]. Muchas gracias a todos los participantes por sus diseños, y a todos los votantes por su colaboración!/Reunion01
+ * Durante las últimas semanas se llevó a cabo un concurso de diseño de una Bandera de PyAr para usar en presentaciones y convenciones. Ya están disponibles los [wiki:Bandera/resultados resultados de la votación]. Muchas gracias a todos los participantes por sus diseños, y a todos los votantes por su colaboración!
 
-## ULTIMAS_END
 
 ==== 19/10/2006 ====
  * Confirmado: Alex y Anna Martelli vienen para CaFeCONF, gracias a la PSF. Estamos organizando una reunión especial, la 19,
