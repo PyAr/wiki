@@ -47,4 +47,4 @@ ValidarCuit : Función para validar un CUIT/CUIL estilo 00-00000000-0
 
 == Emails ==
 === GMail ===
-[:Recetario/GMailMail: GMailMail] : Cómo enviar emails usando GMail como SMTP
+[:Recetario/GmailMail: GmailMail] : Cómo enviar emails usando Gmail como SMTP
