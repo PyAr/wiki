@@ -44,3 +44,7 @@ ValidarCuit : Función para validar un CUIT/CUIL estilo 00-00000000-0
 ["GtkGladeHolaMundoOO"] : una ventana que muestra el mensaje hola mundo programado utilizando orientacion a objetos
 
 ["GtkGladeSignals"] : manejo basico de señales
+
+== Emails ==
+=== GMail ===
+[:Recetario/GMailMail: GMailMail] : Cómo enviar emails usando GMail como SMTP
