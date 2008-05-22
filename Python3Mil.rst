@@ -104,7 +104,7 @@ Suponiendo que se tengan test de unidades con cobertura aproximadamente completa
  4. Usar la herramienta 2to3 para convertir el código fuente a la sintáxis 3.0. No editar manualmente la salida de este programa! 
  5. Probar el código fuente convertido bajo Python 3.0
  6. Si se encuentran problemas, hacer las correcciones en el código fuente de la versión 2.6 y volver al paso 3 
- 7. When it's time to release, release separate 2.6 and 3.0 tarballs (or whatever archive form you use for releases). 
+ 7. Al momento de publicar, publicar versiones separadas del proyecto sobre 2.6 y 3.0
 
 === ¿Es necesario esperar a Python 3.0 para comenzar nuevos proyectos? ===
 '''Pregunta''':
