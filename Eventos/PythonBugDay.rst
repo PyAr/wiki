@@ -24,6 +24,7 @@ El único requisito es que se anoten en la lista que figura mas abajo y si no ti
  * [wiki:AngelFreire Angel Freire]
  * Victoria Bubien
  * Ignacio Benedetti
+ * Nubis
 
 
 === Santa Fé ===
