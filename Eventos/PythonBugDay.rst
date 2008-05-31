@@ -26,7 +26,7 @@ El único requisito es que se anoten en la lista que figura mas abajo y si no ti
  * Ignacio Benedetti
  * Nubis
  * Manuel Muradas
-
+ * Roberto A. Dhios
 
 === Santa Fé ===
 
