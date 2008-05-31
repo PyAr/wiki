@@ -6,6 +6,8 @@ Básicamente es una fecha prefijada donde programadores de todo el mundo se enca
 
 == ¿Cuando y donde? ==
 
+=== Buenos Aires (Nuñez) ===
+
 [http://geeks.livra.com Livra]/[http://devego.co.uk/ Devego] organiza en sus oficinas un encuentro para este propósito. (Mas información [http://geeks.livra.com aquí]).
 El único requisito es que se anoten en la lista que figura mas abajo y si no tienen acceso manden un mail a pythonbugday@livra.com.
 
@@ -15,16 +17,34 @@ El único requisito es que se anoten en la lista que figura mas abajo y si no ti
 
 '''Extra, extra. Quizás haya algunas charlas que informaremos en cuanto tengamos el cronograma.'''
 
-== ¿Cómo encuentro los bugs? ==
-
-La lista de bugs puede encontrarse en el [http://bugs.python.org/ bug tracker] de Python.
-
-Algunos están clasificados como [http://bugs.python.org/issue?%40search_text=&title=&%40columns=title&id=&%40columns=id&creation=&creator=&activity=&%40columns=activity&%40sort=activity&actor=&nosy=&type=&components=&versions=&severity=&dependencies=&assignee=&keywords=6&priority=&%40group=priority&status=1&%40columns=status&resolution=&%40pagesize=50&%40startwith=0&%40queryname=&%40old-queryname=&%40action=search fáciles] otros son de [http://bugs.python.org/issue?%40search_text=&title=&%40columns=title&id=&%40columns=id&creation=&creator=&activity=&%40columns=activity&%40sort=activity&actor=&nosy=&type=&components=4&versions=&severity=&dependencies=&assignee=&keywords=&priority=&%40group=priority&status=1&%40columns=status&resolution=&%40pagesize=50&%40startwith=0&%40queryname=&%40old-queryname=&%40action=search documentación] y algunos son mas [http://code.google.com/p/google-highly-open-participation-psf/wiki/StudentPage complicados].
-
-== ¿Quiénes van? ==
+==== ¿Quiénes van? ====
 
  * [wiki:MartinConteMacDonell Martín Conte Mac Donell]
  * [wiki:FacundoBatista Facundo Batista]
  * [wiki:AngelFreire Angel Freire]
  * Victoria Bubien
  * Ignacio Benedetti
+
+
+=== Santa Fé ===
+
+Nos reunimos en la casa de Manuel Kaufmann (a.k.a. humitos). Por favor si venís anotate en la lista que se encuentra abajo. Para los que quieran venir de afuera se brinda alojamiento.
+
+¿Cuándo? Sábado 21 y Domingo 22 de Junio.
+
+¿Dónde? Corrientes 3938 Depto. 22.
+
+==== ¿Quiénes van? ====
+
+ * [wiki:ManuelKaufmann Manuel Kaufmann]
+
+
+== ¿Cómo encuentro los bugs? ==
+
+La lista de bugs puede encontrarse en el [http://bugs.python.org/ bug tracker] de Python. 
+
+Algunos están clasificados como [http://bugs.python.org/issue?%40search_text=&title=&%40columns=title&id=&%40columns=id&creation=&creator=&activity=&%40columns=activity&%40sort=activity&actor=&nosy=&type=&components=&versions=&severity=&dependencies=&assignee=&keywords=6&priority=&%40group=priority&status=1&%40columns=status&resolution=&%40pagesize=50&%40startwith=0&%40queryname=&%40old-queryname=&%40action=search fáciles] otros son de [http://bugs.python.org/issue?%40search_text=&title=&%40columns=title&id=&%40columns=id&creation=&creator=&activity=&%40columns=activity&%40sort=activity&actor=&nosy=&type=&components=4&versions=&severity=&dependencies=&assignee=&keywords=&priority=&%40group=priority&status=1&%40columns=status&resolution=&%40pagesize=50&%40startwith=0&%40queryname=&%40old-queryname=&%40action=search documentación] y algunos son mas [http://code.google.com/p/google-highly-open-participation-psf/wiki/StudentPage complicados].
+
+== ¿Cómo corrijo los bugs? ==
+
+Existe un [http://humitos.homelinux.net/~humitos/pyar/como-colaborar-con-python.pdf Mini-HowTo] que explica como descargar y compilar Python paso a paso así como también enviar parches al tracker.
