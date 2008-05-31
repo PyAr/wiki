@@ -25,3 +25,4 @@ Algunos están clasificados como [http://bugs.python.org/issue?%40search_text=&t
 
  * [wiki:MartinConteMacDonell Martín Conte Mac Donell]
  * [wiki:FacundoBatista Facundo Batista]
+ * [wiki:AngelFreire Angel Freire]
