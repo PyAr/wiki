@@ -25,6 +25,7 @@ El único requisito es que se anoten en la lista que figura mas abajo y si no ti
  * Victoria Bubien
  * Ignacio Benedetti
  * Nubis
+ * Manuel Muradas
 
 
 === Santa Fé ===
