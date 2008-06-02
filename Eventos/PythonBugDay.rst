@@ -17,6 +17,8 @@ El único requisito es que se anoten en la lista que figura mas abajo y si no ti
 
 '''Extra, extra. Quizás haya algunas charlas que informaremos en cuanto tengamos el cronograma.'''
 
+NOTA: Para participar tenés que traer tu notebook, tenemos internet por wifi o ethernet.
+
 ==== ¿Quiénes van? ====
 
  * [wiki:MartinConteMacDonell Martín Conte Mac Donell]
