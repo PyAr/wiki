@@ -40,6 +40,7 @@ NOTA: Para participar tenés que traer tu notebook, tenemos internet por wifi o 
  * Nubis
  * Manuel Muradas
  * Roberto A. Dhios
+ * Carlos Bruscoli
 
 === Santa Fé ===
 
