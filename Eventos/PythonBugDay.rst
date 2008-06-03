@@ -26,6 +26,8 @@ El único requisito es que se anoten en la lista que figura mas abajo y si no ti
 '''(14:00)''' Continuamos el bug day. [[BR]]
 '''(18:00)''' Cierre y comentarios finales. [[BR]]
 
+Durante el transcurso del bug day vamos a tener una Wii! instalada para el que quiera distenderse, hay un balcón para fumar, gaseosas y mucho café.
+
 NOTA: Para participar tenés que traer tu notebook, tenemos internet por wifi o ethernet.
 
 ==== ¿Quiénes van? ====
