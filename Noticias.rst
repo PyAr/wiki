@@ -19,6 +19,9 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 
+==== 03/06/2008 ====
+ * ¡Python bug day!. El 21 de Junio nos juntamos para acabar con algunos bugs de python en las oficinas de [http://geeks.livra.com Livra] / [http://www.devego.com Devego] pueden ver mas información [http://www.python.com.ar/moin/Eventos/PythonBugDay aquí]
+
 ==== 20/05/2008 ====
  * Estuvimos en las [http://www.jornadas08.com.ar/ 2das Jornadas de Software Libre de San Francisco], Córdoba. Pueden leer en el blog de Karucha [http://www.karuchin.com.ar/ un resumen de lo que pasó en las Jornadas].
 
