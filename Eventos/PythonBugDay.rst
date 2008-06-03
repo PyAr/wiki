@@ -17,14 +17,14 @@ El único requisito es que se anoten en la lista que figura mas abajo y si no ti
 
 ==== Cronograma ====
 
-'''(9:00)'''  Desayuno
-'''(9:30)'''  Apertura/Presentación - Martín Conte Mac Donell
-'''(10:00)''' Unicode (pa' empezar, nomás) - Facundo Batista
-'''(10:30)''' Bugfixeando Python - Martín Conte Mac Donell
-'''(11:00)''' Comienzo del bug day!
-'''(13:00)''' Receso. ¡Pizza!
-'''(14:00)''' Continuamos el bug day.
-'''(18:00)''' Cierre y comentarios finales.
+'''(9:00)'''  Desayuno [[BR]]
+'''(9:30)'''  Apertura/Presentación - Martín Conte Mac Donell [[BR]]
+'''(10:00)''' Unicode (pa' empezar, nomás) - Facundo Batista [[BR]]
+'''(10:30)''' Bugfixeando Python - Martín Conte Mac Donell [[BR]]
+'''(11:00)''' Comienzo del bug day! [[BR]]
+'''(13:00)''' Receso. ¡Pizza! [[BR]]
+'''(14:00)''' Continuamos el bug day. [[BR]]
+'''(18:00)''' Cierre y comentarios finales. [[BR]]
 
 NOTA: Para participar tenés que traer tu notebook, tenemos internet por wifi o ethernet.
 
