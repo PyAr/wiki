@@ -6,7 +6,7 @@ Básicamente es una fecha prefijada donde programadores de todo el mundo se enca
 === Buenos Aires (Nuñez) ===
 [http://geeks.livra.com Livra]/[http://devego.co.uk/ Devego] organiza en sus oficinas un encuentro para este propósito. (Mas información [http://geeks.livra.com aquí]). El único requisito es que se anoten en la lista que figura mas abajo y si no tienen acceso manden un mail a pythonbugday@livra.com .
 
-¿Cuando? Sábado 21 de Junio (Horario y cronograma a confirmar)
+¿Cuando? Sábado 21 de Junio (Cronograma mas abajo)
 
 ¿Donde? Montañeses 2180 2do piso. (Esto es Nuñez; entre Mendoza y juramento). Pueden verlo en el [http://maps.google.com/maps/ms?ie=UTF8&hl=en&t=h&msa=0&msid=113487376378243805796.00044e79a60b6533bf806&ll=-34.555805,-58.444648&spn=0.02262,0.038195&z=15&iwloc=00044e79bbd19bbeefec2 mapa]
 
