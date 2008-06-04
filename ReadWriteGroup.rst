@@ -31,6 +31,7 @@
  * NicolasPalumbo
  * NubIs
  * PabloCarballo
+ * PedroPrez
  * RamiroMorales
  * RayentrayTappa
  * RicardoKirkner
