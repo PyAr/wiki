@@ -31,6 +31,7 @@ NOTA: Para participar tenés que traer tu notebook, tenemos internet por wifi o 
  * Damian Vicino
  * [:PabloZiliani:Pablo Ziliani] (probablemente...)
  * Javier Villavicencio
+ * [:AnthonyLenton:Anthony Lenton]
 
 === Santa Fé ===
 Nos reunimos en la casa de Manuel Kaufmann (a.k.a. humitos). Por favor si venís anotate en la lista que se encuentra abajo. Para los que quieran venir de afuera se brinda alojamiento.
