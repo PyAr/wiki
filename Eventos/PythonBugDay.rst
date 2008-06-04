@@ -53,6 +53,7 @@ Nos reunimos en la casa de Manuel Kaufmann (a.k.a. humitos). Por favor si venís
 ==== ¿Quiénes van? ====
 
  * [wiki:ManuelKaufmann Manuel Kaufmann]
+ * [wiki:PedroPrez Pedro Prez]
 
 
 == ¿Cómo encuentro los bugs? ==
