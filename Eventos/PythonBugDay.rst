@@ -37,7 +37,7 @@ Nos reunimos en la casa de Manuel Kaufmann (a.k.a. humitos). Por favor si venís
 
 ==== ¿Quiénes van? ====
  * [:ManuelKaufmann:Manuel Kaufmann]
- * [:Eventos/PythonBugDay/InterWiki:Pedro Prez]
+ * [:PedroPrez:Pedro Prez]
 
 == ¿Cómo encuentro los bugs? ==
 La lista de bugs puede encontrarse en el [http://bugs.python.org/ bug tracker] de Python.
