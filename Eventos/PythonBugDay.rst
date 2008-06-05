@@ -43,6 +43,7 @@ Nos reunimos en la casa de Manuel Kaufmann (a.k.a. humitos). Por favor si venís
 ==== ¿Quiénes van? ====
  * [:ManuelKaufmann:Manuel Kaufmann]
  * [:PedroPrez:Pedro Prez]
+ * [:GuillermoHeizenreder:Guillermo Heizenreder]
 
 == ¿Cómo encuentro los bugs? ==
 La lista de bugs puede encontrarse en el [http://bugs.python.org/ bug tracker] de Python.
