@@ -11,7 +11,7 @@ En esta página podrán encontrar los ''slides'' de charlas y presentaciones dic
 
 ''Daniel F. Moisset''
 
-'''Links:''' [http://except.com.ar/downloads/2006/08/20060819-de-0-a-python.odp slides].
+'''Links:''' [http://except.com.ar/es/downloads/2006/08/20060819-de-0-a-python.odp slides].
 
 ----
 == PyGTK y Glade ==
