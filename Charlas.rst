@@ -18,21 +18,21 @@ En esta página podrán encontrar los ''slides'' de charlas y presentaciones dic
 
 ''Natalia Bidart''
 
-'''Links:''' [http://except.com.ar/downloads/2006/08/20060819-pygtk-on-glade.odp slides].
+'''Links:''' [http://except.com.ar/es/downloads/2006/08/20060819-pygtk-on-glade.odp slides].
 
 ----
 == Test Driven Development ==
 
 ''Javier Mansilla'' y ''Natalia Bidart''
 
-'''Links:''' [http://except.com.ar/downloads/2006/08/20060819-tdd.odp slides], [http://except.com.ar/downloads/2006/08/20060819-tdd-ejemplos.tar.gz código de ejemplo].
+'''Links:''' [http://except.com.ar/es/downloads/2006/08/20060819-tdd.odp slides], [http://except.com.ar/es/downloads/2006/08/20060819-tdd-ejemplos.tar.gz código de ejemplo].
 
 ----
 == Twisted Framework ==
 
 ''Anthony Lenton''
 
-'''Links:''' [http://except.com.ar/downloads/2006/08/20060819-twisted.odp slides], [http://except.com.ar/downloads/2006/08/20060819-twisted-ejemplos.tar.gz código fuente]
+'''Links:''' [http://except.com.ar/es/downloads/2006/08/20060819-twisted.odp slides], [http://except.com.ar/es/downloads/2006/08/20060819-twisted-ejemplos.tar.gz código fuente]
 
 ----
 == Un juego en 7 días ==
