@@ -1,5 +1,7 @@
 = Trabajos con Python =
 
+ * (18/06/2008) Para importante proyecto de software ERP Open Source, estamos en la búsqueda de programadores Python que posean preferentemente conocimientos de PostgreSQL (no excluyente). En PuertaTotal estamos creciendo y necesitamos tu conocimiento. Te ofrecemos un muy buen ambiente de trabajo con posibilidades de progreso. Zona de Trabajo: San Miguel, Gran Bs As. Por favor enviar curriculum a rrhh@puertatotal.com.ar
+
  * (10/04/2008) Estamos buscando desarrolladores con buenos conocimientos de Python, C++ ó Assembler, para trabajar en nuestras oficinas de Capital Federal (Palermo). CORE es una empresa que desarrolla e investiga tecnología de punta de seguridad informática, para ayudar a las organizaciones a protegerse y reducir el riesgo. Mandános tu CV a empleos.argentina@corest.com y encontrá más info en www.coresecurity.com/jobopportunities
 
  * (04/10/2007) We're looking for python web developers in switzerland (full time employment). So if you'd like to move to nice switzerland write to florian.boesch@dwsco.com
