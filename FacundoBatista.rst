@@ -2,7 +2,7 @@
 #format wiki
 == Facundo Batista ==
 
-Soy Ingeniero Electrónica de la Universidad Nacional de La Matanza, con un Master en Ingeniería de la Innovación en la Universidad de Bologna, Italia
+Soy Ingeniero en Electrónica de la Universidad Nacional de La Matanza, con un Master en Ingeniería de la Innovación en la Universidad de Bologna, Italia
 
 Trabajé en Movistar (antes Unifón) del 2000 al 2006, primero en el área de Administración de Datos de la Red Celular (entre los que se destaca un proyecto llamado CeCubo para la generación automática de comandos para el mantenimiento de las centrales de conmutación; y el SACLLA, un datawarehousing sobre la información generada de por las centrales), y luego en el sector de Desarrollo de Servicios, principalmente a cargo del Servicio de Mensajes Cortos (SMSs), especificación e instalación de la plataforma WAP Gateway, y lider de proyecto de los servicios sobre OTA.
 
