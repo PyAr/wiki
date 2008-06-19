@@ -1,3 +1,9 @@
+== Propuestas ==
+
+* SoloUnEjemplo0
+
+== Proceso ==
+
 '''Python Argentina declara abierto el proceso de creación de las Remeras 2.0.'''
 
 Para ello, vamos a seguir un esquema parecido al que se usó en el diseño de la bandera, que fue por votación. En este caso, sin embargo, vamos a hacer que cada persona que proponga un diseño cree una página hija aquí, usando su nombre y un nro consecutivo, por ejemplo,
