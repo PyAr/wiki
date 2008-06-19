@@ -19,6 +19,9 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 
+==== 19/06/2008 ====
+ * Arrancó el proceso para la segunda versión de las remeras. Será por votación, se pueden proponer muchos diseños, se pueden mejorar los diseños en función del feedback de la gente. ¡Afinen sus habilidades artísticas! Toda la info en RemerasV2.
+
 ==== 03/06/2008 ====
  * ¡Python bug day!. El 21 de Junio nos juntamos para acabar con algunos bugs de python en las oficinas de [http://geeks.livra.com Livra] / [http://www.devego.com Devego] pueden ver mas información [http://www.python.com.ar/moin/Eventos/PythonBugDay aquí]
 
