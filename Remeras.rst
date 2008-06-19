@@ -1,5 +1,5 @@
 = Remeras de PyAr =
-Adjuntamos el diseño de las remeras de PyAr, versión 1.0 ;-)
+Adjuntamos el diseño de las remeras de PyAr, versión 1.0 ;-). Para el proceso de la '''nueva edición''', en RemerasV2.
 
 attachment:remerapyar.jpg
 
@@ -20,8 +20,8 @@ Para aquellos que recién se suman a la iniciativa de las remeras (por lejos, la
 
 ... la lista no es taxativa, pero debería servir para ponerte en tema.
 
-== Reservá tu remera ==
-|| /!\ La gente que esté anotada en esta lista, tiene prioridad sobre el resto. El stock inicial es de 100 remeras. '''La lista se cerró el 01/03/2006'''. Oportunamente informaremos como adquirir remeras por otra vía, si queda un excedente. ||
+== Reservá tu remera (Olvidate, no hay más stock) ==
+|| /!\ La gente que esté anotada en esta lista, tiene prioridad sobre el resto. El stock inicial es de 100 remeras. '''La lista se cerró el 01/03/2006'''. Oportunamente informaremos como adquirir remeras por otra vía, si queda un excedente. '''Ya no hay stock (hace rato)'''||
 
 
 FacundoBatista dixit:
@@ -37,37 +37,32 @@ FacundoBatista dixit:
  * --(Mariano Draghi: 1 M, 1 L)--
  * --(Nubis: 1 XL, 1 L)--
  * --(Roberto Alsina: 2 XL)--
- * Mauro Caceres (Cordoba): 1 L
+ * --(Mauro Caceres (Cordoba): 1 L)--
  * --(Ricardo Kirkner (Buenos Aires): 2 L)--
  * --(Santiágo Peresón (Buenos Aires): 2 XL)--
  * --(Bruno Luciani ( Ramallo , Pcia Bs As): 2 XL)--
  * --(Martin Sarsale (AKA Runa): 1 L)--
  * --(Guillermo Narvaja: 1 XL)--
  * --(Pablo Maccagnoni: 1 XL)--
- * Viviana Oviedo: 1 M
+ * --(Viviana Oviedo: 1 M)--
  * --(Rubén Presa: 1 M)--
  * --(Guillermo Gonzalez (Buenos Aires): 2 L)--
  * --(Leito Monk: 1 M)--
  * --(Abel Eduardo: 1 M)--
- * Mauricio Ferrari (Tucumán): 1 M
- * Sebastián Lezica: 1 M, 2 L
+ * --(Mauricio Ferrari (Tucumán): 1 M)--
+ * --(Sebastián Lezica: 1 M, 2 L)--
  * --(Alejandro Weil: 2 L)--
  * --(Alejandro J. Cura: 2 XL, una para Glyph Lefkowitz)--
  * --(Lucio Torre: 1 XL, 1 L)--
  * --(Sergio Gómz: 2 L)--
  * --(Luciano Draghi: 1 L)--
- * Nicolas Palumbo: 1 L
+ * --(Nicolas Palumbo: 1 L)--
 
 === PyCon 2006 ===
  * Donadas: 7 (Guido van Rossum, Tim Peters, Raymond Hettinger, Alex Martelli, Anna Ravenscroft, David Ascher, Bob Ippolito)
  * Vendidas: 17
 
-=== Stock al 23/02/2007 ===
 
-||'''Talle'''||'''Cantidad'''||
-||M||  9||
-||L||  4||
-||XL|| 0||
 
 [[BR]]
 -----
