@@ -3,7 +3,7 @@
 == La siguiente receta fue hecha utilizando: ==
  * Python 2.5
  * Wine 0.9.25
- * Debian GNU/Linux 4.0 (Etch)
+ * Debian GNU/Linux 4.0 (Etch) http://www.debian.org/
 
 == Ingredientes: ==
  * Una distribución de Linux http://distrowatch.com/.
