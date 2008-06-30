@@ -69,7 +69,7 @@ Luego creamos el ejecutable.
 || $ cd Pyinstaller-1.3 ||
 || $ wine ~/.wine/drive_c/Python25/python.exe -O Build.py c:\\miproyecto\\Pyinstallerdist\\principal.spec ||
 
-A diferencia de Py2Exe, Pyinstaller no copia automáticamente el archivo w9xpopen.exe así que lo copiamos:
+A diferencia de py2exe, pyinstaller no copia automáticamente el archivo w9xpopen.exe así que lo copiamos:
 
 || $ cp ~/.wine/drive_c/Python25/w9xpopen.exe ~/.wine/drive_c/miproyecto/Pyinstallerdist/distprincipal/ ||
 
