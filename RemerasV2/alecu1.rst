@@ -1,6 +1,6 @@
 == Intento 01 de alecu ==
 
-Arme este diseño, aprovechando alguno de los diseños propuestos para la bandera. Pueden encontrarlos aca: http://alecu.com.ar/banderas/
+Creo que les comenté que estoy podrido de remeras negras. Arme este diseño, aprovechando alguno de los diseños propuestos para la bandera. Pueden encontrarlos aca: http://alecu.com.ar/banderas/
 
 attachment:remera2-alecu01.png
 
