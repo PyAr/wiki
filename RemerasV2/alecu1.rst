@@ -1,0 +1,13 @@
+== Intento 01 de alecu ==
+
+Arme este diseño, aprovechando alguno de los diseños propuestos para la bandera. Pueden encontrarlos aca: http://alecu.com.ar/banderas/
+
+attachment:remera2-alecu01.png
+
+'''Diseño:'''
+
+attachment:remera2-alecu01.svg
+
+== Comentarios ==
+
+* [quien?] (placeholder)
