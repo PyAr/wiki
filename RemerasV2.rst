@@ -2,6 +2,15 @@
 
 * RemerasV2/SoloUnEjemplo0
 
+* RemerasV2/FacundoBatista1
+
+* RemerasV2/FacundoBatista2
+
+* RemerasV2/FacundoBatista3
+
+* RemerasV2/FacundoBatista4
+
+
 == Proceso ==
 
 '''Python Argentina declara abierto el proceso de creación de las Remeras 2.0.'''
