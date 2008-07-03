@@ -1,19 +1,21 @@
 == Propuestas ==
-* RemerasV2/SoloUnEjemplo0
+ * RemerasV2/SoloUnEjemplo0
 
-* RemerasV2/FacundoBatista1
+ * RemerasV2/FacundoBatista1
 
-* RemerasV2/FacundoBatista2
+ * RemerasV2/FacundoBatista2
 
-* RemerasV2/FacundoBatista3
+ * RemerasV2/FacundoBatista3
 
-* RemerasV2/FacundoBatista4
+ * RemerasV2/FacundoBatista4
 
-* ["RemerasV2/alecu1"]
+ * ["RemerasV2/alecu1"]
+ 
+ * ["RemerasV2/humitos1"]
 
-!* [:RemeraV2/Juanjo1:RemerasV2/Juanjo1]
+ * ["RemeraV2/Juanjo1"]
 
-* RemerasV2/CesarRoldan1
+ * RemerasV2/CesarRoldan1
 
 == Proceso ==
 '''Python Argentina declara abierto el proceso de creación de las Remeras 2.0.'''
