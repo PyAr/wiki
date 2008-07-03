@@ -10,5 +10,5 @@ attachment:remera2-alecu01.svg
 
 == Comentarios ==
 
- * [quien?] (placeholder)
- * PabloZiliani Timoteo, sos un ladri :P (igual venís ganando IMHO)
+ * [PabloZiliani] Timoteo, sos un ladri :P (igual venís ganando IMHO)
+ * [FacundoBatista] Che, ¿eso realmente saldría bien en una impresión normal? ¿o necesitás algo raro?
