@@ -29,6 +29,7 @@
  * MartinConteMacDonell
  * MartinSarsale
  * MauricioFerrari
+ * MauroLizaur
  * MauroMackinze
  * NicolasPalumbo
  * NubIs
