@@ -11,3 +11,5 @@ attachment:remera1-CPortela.png
 attachment:remera1-CesarPortela.svg
 
 == Comentarios ==
+
+MarianoMara: ¿podrá ser con el logo de Python (PSF)?
