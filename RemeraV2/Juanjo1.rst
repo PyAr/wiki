@@ -4,4 +4,4 @@ Simple, como Python.
 attachment:Juanjo%31PNG.png
 
 == Fuente ==
-attachment:Juanjo%31SVG
+attachment:Juanjo%31SVG.svg
