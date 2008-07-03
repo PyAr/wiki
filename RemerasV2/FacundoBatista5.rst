@@ -10,4 +10,5 @@ attachment:remera2-Facu05.svg
 
 == Comentarios ==
 
-* [quien?] (placeholder)
+ * [LucioTorre, en la lista] Sin la URL atrás, pero sí adelante.
+ * [FacundoBatista] Sigo esperando los colores, ;)
