@@ -1,5 +1,4 @@
 == Propuestas ==
-
 * RemerasV2/SoloUnEjemplo0
 
 * RemerasV2/FacundoBatista1
@@ -12,8 +11,9 @@
 
 * ["RemerasV2/alecu1"]
 
-== Proceso ==
+[:RemerasV2/alecu1:* RemerasV2/Juanjo1]
 
+== Proceso ==
 '''Python Argentina declara abierto el proceso de creación de las Remeras 2.0.'''
 
 Para ello, vamos a seguir un esquema parecido al que se usó en el diseño de la bandera, que fue por votación. En este caso, sin embargo, vamos a hacer que cada persona que proponga un diseño cree una página hija aquí, usando su nombre y un nro consecutivo, por ejemplo,
@@ -26,11 +26,11 @@ El resto de la gente podrá visitar esas páginas, y agregar comentarios abajo d
 
 Cuanto antes la gente suba sus diseños, más comentarios recibirán para mejorarlos y tener más chances de ganar (pero también tendrá más chances de que le forkeen el diseño, pero esa también es un poco la idea, ;).
 
-Si alguien no quiere tomarse el trabajo de armar la página, puede mandar un .zip, .tar.gz, o .tar.bz2 con el SVG y demás info a admin@python.com.ar, que yo me encargo.
+Si alguien no quiere tomarse el trabajo de armar la página, puede mandar un .zip, .tar.gz, o .tar.bz2 con el SVG y demás info a admin@python.com.ar , que yo me encargo.
 
 Con respecto a la cantidad de colores, tengan en cuenta que pueden elegir el color de la tela (pero esto es un riesgo, ya que si se van del blanco o el negro luego quizás sea dificil encontrar el color exacto), y que pueden usar un (1) color al frente, y uno o dos (1 o 2) colores en la espalda.
 
-La votación será por mail, a remeras08@python.com.ar, indicando hasta tres diseños, con un puntaje del 1 al 5 (el 5 es lo más) cada uno.
+La votación será por mail, a remeras08@python.com.ar , indicando hasta tres diseños, con un puntaje del 1 al 5 (el 5 es lo más) cada uno.
 
 Luego de un tiempo, se congelarán los diseños, y se someterán los mismos a votación. Luego de la elección, el autor tendrá derecho a alguna pequeña modificación del diseño (lo ideal serían cambios imperceptibles, que no cambien el corazón del diseño, pero que permitan mejorar algo).
 
