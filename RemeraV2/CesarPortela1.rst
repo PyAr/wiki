@@ -1,6 +1,7 @@
 == Diseño 1 de César Portela ==
 
-Incluye el Zen completo, pero se lee al estar cerca. La idea es que de lejos se destaque la boa.
+Incluye el Zen completo, pero se lee al estar cerca (no es la intención que se lea de lejos). 
+Sí de lejos se debe ver la boa.
 
 attachment:remera1-CPortela.png
 
