@@ -15,4 +15,4 @@ attachment:remeraCesar2.svg.bz2
 
 == Comentarios ==
 
-* [quien?] (placeholder)
+* [FacundoBatista] ¡Me gusta! ¿Por qué no en azul? algo que estaría bueno también es ponerle algo como... "Este cuerpo es Python powered", o algo así...
