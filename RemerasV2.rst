@@ -25,8 +25,6 @@
 
  * ["RemerasV2/Nubis1"]
 
- * ["RemerasV2/Nubis2"]
-
  * ["RemerasV2/RamiroMorales1"]
 
  * RemerasV2/CesarRoldan3
