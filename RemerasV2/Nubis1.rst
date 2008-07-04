@@ -10,4 +10,4 @@ attachment:nubis01.svg
 
 == Comentarios ==
 
- * [quien?] (placeholder)
+ * dave: muy buena!
