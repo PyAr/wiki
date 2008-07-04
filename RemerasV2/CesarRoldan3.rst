@@ -8,9 +8,7 @@ Casos reales y mas colores !!
 
 attachment:remeraCesar3remera.png
 
-attachment:remera3CesarAzul.png
-
-attachment:remera3CesarNegra.png
+attachment:remera3CesarAzul.png attachment:remera3CesarNegra.png
 
 == Comentarios ==
 
