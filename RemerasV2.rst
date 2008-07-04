@@ -27,6 +27,8 @@
 
  * ["RemerasV2/Nubis2"]
 
+ * ["RemerasV2/RamiroMorales1"]
+
 == Proceso ==
 '''Python Argentina declara abierto el proceso de creación de las Remeras 2.0.'''
 
