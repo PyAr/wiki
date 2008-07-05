@@ -1,7 +1,8 @@
 = Intento 01 de Juanjo =
 Simple, como Python.
 
-[attachment:Juanjo%31%2D%31.png Juanjo1-1]
+attachment:Juanjo%31%2D%31.jpg
+
 
 == Fuente ==
 [attachment:Juanjo1-1SVG.svg Juanjo-1-1]
