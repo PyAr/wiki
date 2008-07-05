@@ -4,8 +4,6 @@
 
 attachment:nubis0201.png
 
-attachment:nubis0202.png
-
 attachment:real02.png
 
 
