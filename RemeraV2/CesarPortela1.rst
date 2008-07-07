@@ -13,3 +13,5 @@ attachment:remera1-CesarPortela.svg
 == Comentarios ==
 
 MarianoMara: ¿podrá ser con el logo de Python (PSF)?
+
+CesarPortela: ¿en lugar de la cabeza de la serpiente al lado de PyAr?
