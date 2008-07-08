@@ -12,4 +12,4 @@ attachment:remera3CesarAzul.png attachment:remera3CesarNegra.png
 
 == Comentarios ==
 
-* [quien?] (placeholder)
+ * [FacundoBatista] Me preocupa el tema de la impresión... ¿se puede hacer de costado? si la hacen en dos partes, va a ser dificil que coincida...
