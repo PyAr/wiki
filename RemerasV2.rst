@@ -39,6 +39,8 @@
 
  * RemerasV2/LauBenech4
 
+ * RemerasV2/HernanBalocco1
+
 == Proceso ==
 '''Python Argentina declara abierto el proceso de creación de las Remeras 2.0.'''
 
