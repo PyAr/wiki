@@ -8,4 +8,4 @@ attachment:LauBenech4.svg
 
 == Comentarios ==
 
-* [quien?] (placeholder)
+* ["AlejandroJCura"]: Me encanta esta. Podría ser igual, pero con la boca un poco más cerrada? PD: guarda que el svg tiene dos colores delante y dos detras.
