@@ -14,3 +14,5 @@ attachment:nubis0201.svg
 attachment:nubis0202.svg
 
 == Comentarios ==
+
+ * [FacundoBatista] Deberías guardar este diseño para cuando hagamos los calzoncillos y bombachitas de PyAr.
