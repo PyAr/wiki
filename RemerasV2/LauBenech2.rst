@@ -2,9 +2,11 @@
 
 ¡Mirá! ¡Dos remeras!
 
-attachment:LauBenech2.png
+attachment:LauBenech2a.png
 
 attachment:LauBenech2a.svg
+
+attachment:LauBenech2b.png
 
 attachment:LauBenech2b.svg
 
