@@ -1,4 +1,4 @@
-~-volver a RemerasV2-~
+~- Volver a RemerasV2 -~
 
 == Una remera con solpiente ==
 
@@ -7,7 +7,11 @@ Si alguna palabra no la entienden, revisen los archivos de la lista (o busquen e
 
 Nota: Me queda pendiente subir los originales (antes tendría que convertirlos y es suficientemente tarde ahora).
 
+=== Subversión uno ===
+
 attachment:1a.png
+
+=== Subversión dos (con infograsada) ===
 attachment:1b.png
 
 == Comentarios ==
