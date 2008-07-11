@@ -22,6 +22,7 @@
  * LauBenech
  * LeitoMonk
  * ManuelKaufmann
+ * dieresys
  * maram
  * MarianoCortesi
  * MarianoGuerra
