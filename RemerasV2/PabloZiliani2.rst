@@ -19,4 +19,4 @@ attachment:remera2.svg
 
  * dieresys: Me gusta mucho la parte de atrás. La parte de adelante la prefiero clásica, con un "PyAr" en donde iría la escarapela. También pondría la dirección de la web en algún lado, tal vez abajo de todo de la parte de atrás.
 
- * PabloZiliani: Personalmente creo que uno no tiene sentido uno sin el otro. Con lo de escarapela creo que te referís a la "solpiente" del [wiki:RemerasV2/PabloZiliani1 diseño anterior]. Desgraciádamente no creo que pueda hacerlo por falta de tiempo, pero ahora que subí los archivos sos bienvenido a derivar arte de esto.
+ * PabloZiliani: Personalmente creo que uno no tiene sentido uno sin el otro. Con lo de escarapela creo que te referís a la "solpiente" del [wiki:RemerasV2/PabloZiliani1 diseño anterior]. Desgraciádamente no creo que pueda hacerlo por falta de tiempo, pero ahora que subí los archivos vos mismo podrías derivar arte de esto.
