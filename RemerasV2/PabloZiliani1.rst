@@ -5,7 +5,7 @@
 Dos versiones, una idea: mantener la identidad reusando la serpiente-sol que tenemos en la bandera.
 Si alguna palabra no la entienden, revisen los archivos de la lista (o busquen en Gúgl)...
 
-Apoyemos a la solpiente, derivemos arte de [remera1.svg este] archivo.
+Apoyemos a la solpiente, derivemos arte de [attachment:remera1.svg este] archivo.
 
 === Subversión uno ===
 
