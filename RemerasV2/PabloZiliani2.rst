@@ -13,4 +13,4 @@ attachment:2d.png
 
 == Comentarios ==
 
-* [quien?] (placeholder)
+* dieresys: Me gusta mucho la parte de atrás. La parte de adelante la prefiero clásica, con un "PyAr" en donde iría la escarapela. También pondría la dirección de la web en algún lado, tal vez abajo de todo de la parte de atrás.
