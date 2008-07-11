@@ -1,17 +1,18 @@
 ~- Volver a RemerasV2 -~
 
-== Una remera con explicación para personas grandes ==
+== Una remera con solpiente ==
 
-http://www.franciscorobles.com.ar/libros/principito/pag01.htm
+Dos versiones, una idea: mantener la identidad reusando la serpiente-sol que tenemos en la bandera.
+Si alguna palabra no la entienden, revisen los archivos de la lista (o busquen en Gúgl)...
 
 Nota: Me queda pendiente subir los originales (antes tendría que convertirlos y es suficientemente tarde ahora).
 
 === Subversión uno ===
 
-attachment:2.gif
+attachment:1a.png
 
 === Subversión dos (con infograsada) ===
-attachment:2d.png
+attachment:1b.png
 
 == Comentarios ==
 
