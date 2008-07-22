@@ -37,8 +37,9 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr, están rela
 
  * [http://yaco.net/oe/ oveja eléctrica]
   * Proyecto experimental sobre música y creatividad artificial
- * [javascript:void(0);/*1216761088710*/ Emesene]
-  * Cliente de mensajeria instantanea multiplataforma compatible con la red MSN de microsoft 
+ * [http://www.emesene.org Emesene]
+
+  * Cliente de mensajeria instantanea multiplataforma compatible con la red MSN de microsoft
 
 [[BR]]
 ----
