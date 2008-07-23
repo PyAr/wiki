@@ -1,3 +1,4 @@
+#acl Known:read,write All:read
 == Intención de compra ==
 
 Por favor, anoten a continuación qué quieren:
