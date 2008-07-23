@@ -8,7 +8,7 @@ Esta es toda la info de los sufragios, con las direcciones de mail saneadas:
 
 attachment:voto-RemerasPyAr2.zip
 
-Por favor, anotá en RemerasV2/PreAnotados cuantas remeras pensás comprar, y de qué tamaño. 
+Por favor, anotá en RemerasV2/PreAnotados cuantas remeras pensás comprar, de qué tamaño y color. 
 
 
 == Propuestas ==
