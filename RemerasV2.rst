@@ -1,3 +1,16 @@
+== Resultado ==
+
+Habemus ganadorus: Ganó el [http://www.python.com.ar/moin/RemerasV2/CesarRoldan3 tercer diseño de Cesar Roldan].
+
+attachment:remeraCesar3.png
+
+Esta es toda la info de los sufragios, con las direcciones de mail saneadas:
+
+attachment:voto-RemerasPyAr2.zip
+
+
+
+
 == Propuestas ==
  * RemerasV2/SoloUnEjemplo0
 
