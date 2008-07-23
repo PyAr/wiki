@@ -9,6 +9,7 @@ Por favor, anoten a continuación qué quieren:
 || MartinConteMacDonell || 1 M azul ||
 || JohnLenton || 2 XL azul, 2XXS azul :-? ||
 || ["AlejandroJCura"] || 1 L azul, 1 L verde, 1 XXS verde (tamaño bebe, si hay) ||
+|| MarianoDraghi || 1 L azul, 1 L verde ||
 
 
 === Tamaños ===
