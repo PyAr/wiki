@@ -31,6 +31,7 @@
  * MartinConteMacDonell
  * MartinSarsale
  * MauricioFerrari
+ * MauroCaceres
  * MauroLizaur
  * MauroMackinze
  * MaxiRobaina
@@ -47,3 +48,4 @@
  * SebastianBassi
  * SebastianLezica
  * SergioVernis
+ * TomasZulberti
