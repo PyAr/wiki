@@ -1,6 +1,6 @@
 == Resultado ==
 
-Habemus ganadorus: Ganó el [http://www.python.com.ar/moin/RemerasV2/CesarRoldan3 tercer diseño de Cesar Roldan].
+Habemus ganadorus: Ganó el tercer diseño de Cesar Roldan, RemerasV2/CesarRoldan3.
 
 attachment:remeraCesar3.png
 
@@ -8,7 +8,7 @@ Esta es toda la info de los sufragios, con las direcciones de mail saneadas:
 
 attachment:voto-RemerasPyAr2.zip
 
-
+Por favor, anotá en RemerasV2/PreAnotados cuantas remeras pensás comprar, y de qué tamaño y corte. 
 
 
 == Propuestas ==
