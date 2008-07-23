@@ -2,8 +2,7 @@
 
 Por favor, anoten a continuación qué quieren:
 
-|| FacundoBatista ||  M || 2 ||
-|| FacundoBatista ||  L || 3 ||
+|| FacundoBatista ||  1 M negra, 1 M azul, 1 L negra, 1 L azul, 1 L verde ||
 
 
 === Tamaños ===
