@@ -7,6 +7,7 @@ Por favor, anoten a continuación qué quieren:
 || PabloZiliani || 1 XL negra, 1 XL azul ||
 || MarianoMara || 1 XXL negra, 1 XXL azul ||
 || MartinConteMacDonell || 1 M azul ||
+|| JohnLenton || 2 XL azul, 2XXS azul :-? ||
 
 
 === Tamaños ===
