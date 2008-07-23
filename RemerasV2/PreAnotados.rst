@@ -6,6 +6,7 @@ Por favor, anoten a continuación qué quieren:
 || NubIs ||  1 S verde, 1 S azul, 1 XL negra, 1 L azul, 1 L verde ||
 || PabloZiliani || 1 XL negra, 1 XL azul ||
 || MarianoMara || 1 XXL negra, 1 XXL azul ||
+|| MartinConteMacDonell || 1 M azul ||
 
 
 === Tamaños ===
