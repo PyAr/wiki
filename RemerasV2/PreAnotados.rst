@@ -13,6 +13,7 @@ Por favor, anoten a continuación qué quieren:
 || MarianoDraghi || 1 L azul, 1 L verde ||
 || MarioZorz || 1 M azul, 1 M negra, 1 L azul, 1 L negra ||
 || Daniel Tinivella ||  1 L Azul, 1 L Negra ||
+|| Tomas Zulberti ||  1 L Verde, 1 L Negra ||
   
 === Tamaños ===
 
