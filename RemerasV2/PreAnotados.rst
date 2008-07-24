@@ -30,6 +30,7 @@ Por favor, anoten a continuación qué quieren:
 || MarcosAlcazar || 1 S azul  ||
 || AlejandroLuna || 1 M azul  ||
 || EzequielGutesman || 1 L azul, 1 L verde ||
+|| CesarRoldan || 1 XL negra, 1 XXL azul ||
 
 
 === Tamaños ===
