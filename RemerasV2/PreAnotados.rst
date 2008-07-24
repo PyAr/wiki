@@ -25,6 +25,7 @@ Por favor, anoten a continuación qué quieren:
 || RicardoArmas || 1 L verde ||
 || SantiagoSuarezO|| 1 M azul, 1 M verde||
 || MauroCaceres|| 1 M azul ||
+|| PabloCarballo || 1 M azul ||
 
 === Tamaños ===
 Códigos para los tamaños: S, M, L, XL y XXL.
