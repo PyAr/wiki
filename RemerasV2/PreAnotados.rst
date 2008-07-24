@@ -27,8 +27,9 @@ Por favor, anoten a continuación qué quieren:
 || MauroCaceres || 1 M azul ||
 || PabloCarballo || 1 M azul ||
 || ManuelKaufmann || 1 L azul ||
-|| MarcosAlcazar || 1 S azul ||
-
+|| MarcosAlcazar || 1 S azul 
+|| AlejandroLuna || 1 M azul 
+||
 
 
 === Tamaños ===
