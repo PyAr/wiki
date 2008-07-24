@@ -21,8 +21,8 @@ Por favor, anoten a continuación qué quieren:
 || MatiasBellone || 1 M negra, 1 M verde ||
 || SimonRodriguez || 1 M negra ||
 || RicardoKirkner || 1 L verde ||
-|| MarceloFernández || 1 L verde, 1 M azul||
-
+|| MarceloFernández || 1 L verde, 1 M azul ||
+|| RicardoArmas || 1 L verde ||
 
 === Tamaños ===
 Códigos para los tamaños: S, M, L, XL y XXL.
