@@ -9,6 +9,7 @@
  * DavidCasco
  * DanielMendoza
  * DanielMoisset
+ * dieresys
  * DummyFacundo
  * GabrielGenellina
  * GuillermoGonzalez
@@ -22,8 +23,7 @@
  * LauBenech
  * LeitoMonk
  * ManuelKaufmann
- * dieresys
- * maram
+ * MarceloRinesi
  * MarianoCortesi
  * MarianoGuerra
  * MarianoMara
