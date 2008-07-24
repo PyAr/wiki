@@ -17,6 +17,7 @@ Por favor, anoten a continuación qué quieren:
 || Otto Wald || 1 L negra, 1 L azul ||
 || Marcelo Rinesi || 1 M blanca ||
 || Jose Jachuf || 1 L negra, 1 L azul ||
+|| JaviMansilla || 1 XL azul, 1 XL verde ||
   
 === Tamaños ===
 
