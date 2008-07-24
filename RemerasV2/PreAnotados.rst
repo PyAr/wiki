@@ -19,6 +19,7 @@ Por favor, anoten a continuación qué quieren:
 || Jose Jachuf || 1 L negra, 1 L azul ||
 || JaviMansilla || 1 XL azul, 1 XL verde ||
 || PaulMDorr || 1 XL negra, 1 S negra ||
+|| MatiasBellone || 1 M negra, 1 M verde ||
   
 === Tamaños ===
 
