@@ -42,6 +42,7 @@ Por favor, anoten a continuación qué quieren:
 || DanielMoisset || 1 M Azul ||
 || HectorSanchez || 1 XL azul, 1 XL verde ||
 || Viviana Oviedo || 1 S roja (o negra) ||
+|| SantiagoPereson || 1 L negra, 1 L azul ||
 
 === Tamaños ===
 Códigos para los tamaños: S, M, L, XL y XXL.
