@@ -44,6 +44,7 @@ Por favor, anoten a continuación qué quieren:
 || Viviana Oviedo || 1 S roja (o negra) ||
 || SantiagoPereson || 1 L negra, 1 L azul ||
 || RobertoRodriguez || 1 M Azul ||
+|| GabrielPatiño || 1 M Azul, 1 M Verde ||
 
 === Tamaños ===
 Códigos para los tamaños: S, M, L, XL y XXL.
