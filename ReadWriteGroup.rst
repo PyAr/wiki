@@ -15,6 +15,7 @@
  * GuillermoGonzalez
  * GuillermoHeizenreder
  * GuillermoNarvaja
+ * HectorSanchez
  * HernanOlivera
  * HoracioDuran
  * javimansilla
