@@ -15,7 +15,7 @@ Por favor, anoten a continuación qué quieren:
 || Tomas Zulberti ||  1 L Verde, 1 L Negra ||
 || Otto Wald || 1 L negra, 1 L azul ||
 || Marcelo Rinesi || 1 M blanca ||
-|| Jose Jachuf || 1 L negra, 1 L azul ||
+|| Jose Jachuf || 1 L negra, 1 L azul, 1 XXL negra ||
 || JaviMansilla || 1 XL azul, 1 XL verde ||
 || PaulMDorr || 1 XL negra, 1 S negra ||
 || MatiasBellone || 1 M negra, 1 M verde ||
