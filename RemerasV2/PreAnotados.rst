@@ -32,6 +32,7 @@ Por favor, anoten a continuación qué quieren:
 || EzequielGutesman || 1 L azul, 1 L verde ||
 || CesarRoldan || 1 XL negra, 1 XXL azul ||
 || DanielMendoza || 1 XL negra, 1 XL azul ||
+|| IgnacioVela || 1 M negra ||
 
 
 === Tamaños ===
