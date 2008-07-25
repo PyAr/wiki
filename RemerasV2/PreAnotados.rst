@@ -33,6 +33,7 @@ Por favor, anoten a continuación qué quieren:
 || CesarRoldan || 1 XL negra, 1 XXL azul ||
 || DanielMendoza || 1 XL negra, 1 XL azul ||
 || IgnacioVela || 1 M negra ||
+|| JuanCruzMartinez || 1 S negra ||
 
 
 === Tamaños ===
