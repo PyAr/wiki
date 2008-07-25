@@ -47,6 +47,8 @@ Por favor, anoten a continuación qué quieren:
 || RobertoRodriguez || 1 M Azul ||
 || GabrielPatiño || 1 M Azul, 1 M Verde ||
 || HoracioDuran || 1 M negra, 1 M azul,1M verde, 1M blanca ||
+|| NicoEchaniz || 1 M negra, 1M verde ||
+
 
 === Tamaños ===
 Códigos para los tamaños: S, M, L, XL y XXL.
