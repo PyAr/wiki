@@ -34,6 +34,7 @@ Por favor, anoten a continuación qué quieren:
 || DanielMendoza || 1 XL negra, 1 XL azul ||
 || IgnacioVela || 1 M negra ||
 || JuanCruzMartinez || 1 S negra ||
+|| RobertoDhios || 1 XL negra, 1 XL azul ||
 
 
 === Tamaños ===
