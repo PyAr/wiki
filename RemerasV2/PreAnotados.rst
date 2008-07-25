@@ -32,7 +32,7 @@ Por favor, anoten a continuación qué quieren:
 || AlejandroLuna || 1 M azul ||
 || EzequielGutesman || 1 L azul, 1 L verde ||
 || CesarRoldan || 1 XL negra, 1 XXL azul ||
-|| DanielMendoza || 1 XL negra, 1 XL azul ||
+|| DanielMendoza || 1 XL azul ||
 || IgnacioVela || 1 M negra ||
 || JuanCruzMartinez || 1 S negra ||
 || RobertoDhios || 1 XL negra, 1 XL azul ||
