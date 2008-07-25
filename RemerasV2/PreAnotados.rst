@@ -35,7 +35,7 @@ Por favor, anoten a continuación qué quieren:
 || IgnacioVela || 1 M negra ||
 || JuanCruzMartinez || 1 S negra ||
 || RobertoDhios || 1 XL negra, 1 XL azul ||
-
+|| GonzaloALmeida || 1 L negra, 1 L verde ||
 
 === Tamaños ===
 Códigos para los tamaños: S, M, L, XL y XXL.
