@@ -19,7 +19,7 @@ Por favor, anoten a continuación qué quieren:
 || JaviMansilla || 1 XL azul, 1 XL verde ||
 || PaulMDorr || 1 XL negra, 1 S negra ||
 || MatiasBellone || 1 M negra, 1 M verde ||
-|| SimonRodriguez || 1 M negra ||
+|| SimonRodriguez || 1 M negra, 1 M azul ||
 || RicardoKirkner || 1 L verde ||
 || MarceloFernández || 1 L verde, 1 M azul ||
 || RicardoArmas || 1 L verde ||
@@ -27,8 +27,8 @@ Por favor, anoten a continuación qué quieren:
 || MauroCaceres || 1 M azul ||
 || PabloCarballo || 1 M azul ||
 || ManuelKaufmann || 1 L azul ||
-|| MarcosAlcazar || 1 S azul  ||
-|| AlejandroLuna || 1 M azul  ||
+|| MarcosAlcazar || 1 S azul ||
+|| AlejandroLuna || 1 M azul ||
 || EzequielGutesman || 1 L azul, 1 L verde ||
 || CesarRoldan || 1 XL negra, 1 XXL azul ||
 || DanielMendoza || 1 XL negra, 1 XL azul ||
@@ -38,7 +38,8 @@ Por favor, anoten a continuación qué quieren:
 || GonzaloALmeida || 1 L negra, 1 L verde ||
 || AldoNievas || 1 XL negra, 1 XL azul ||
 || Point_to_null || 1 L Azul ||
-|| DanielMoisset || 1 M Azul||
+|| DanielMoisset || 1 M Azul ||
+
 
 === Tamaños ===
 Códigos para los tamaños: S, M, L, XL y XXL.
