@@ -40,7 +40,7 @@ Por favor, anoten a continuación qué quieren:
 || AldoNievas || 1 XL negra, 1 XL azul ||
 || Point_to_null || 1 L Azul ||
 || DanielMoisset || 1 M Azul ||
-
+|| HectorSanchez || 1 XL azul, 1 XL verde ||
 
 === Tamaños ===
 Códigos para los tamaños: S, M, L, XL y XXL.
