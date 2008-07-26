@@ -52,6 +52,7 @@ Por favor, anoten a continuación qué quieren:
 || SergioVernis || 1 M azul y 1 S azul ||
 ||LeitoMonk ||1 M azul y 1 M Roja o Verde ||
 ||SebastianFarioli ||1 L negra, 1 L roja, 1 L blanca ||
+|| GuillermoHeizenreder || 1 XL azul, 1 XL verde ||
 
 
 === Tamaños ===
