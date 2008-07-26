@@ -49,6 +49,7 @@ Por favor, anoten a continuación qué quieren:
 || HoracioDuran || 1 M negra, 1 M azul,1M verde, 1M blanca ||
 || NicoEchaniz || 1 M negra, 1M verde ||
 || EmilioRamirez || 1 L negra||
+|| SergioVernis || 1 M azul y 1 S azul ||
 
 
 === Tamaños ===
