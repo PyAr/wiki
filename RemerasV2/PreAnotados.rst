@@ -50,9 +50,8 @@ Por favor, anoten a continuación qué quieren:
 || NicoEchaniz || 1 M negra, 1M verde ||
 || EmilioRamirez || 1 L negra ||
 || SergioVernis || 1 M azul y 1 S azul ||
-|| LeitoMonk || 1 M azul y 1 M Roja o Verde 
-||
-||SebastianFarioli||1 L negra, 1 L roja, 1 L blanca||
+||LeitoMonk ||1 M azul y 1 M Roja o Verde ||
+||SebastianFarioli ||1 L negra, 1 L roja, 1 L blanca ||
 
 
 === Tamaños ===
