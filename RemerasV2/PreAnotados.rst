@@ -48,9 +48,12 @@ Por favor, anoten a continuación qué quieren:
 || GabrielPatiño || 1 M Azul, 1 M Verde ||
 || HoracioDuran || 1 M negra, 1 M azul,1M verde, 1M blanca ||
 || NicoEchaniz || 1 M negra, 1M verde ||
-|| EmilioRamirez || 1 L negra||
+|| EmilioRamirez || 1 L negra ||
 || SergioVernis || 1 M azul y 1 S azul ||
-|| LeitoMonk || 1 M azul y 1 M Roja o Verde ||
+|| LeitoMonk || 1 M azul y 1 M Roja o Verde 
+||
+||SebastianFarioli||1 L negra, 1 L roja, 1 L blanca||
+
 
 === Tamaños ===
 Códigos para los tamaños: S, M, L, XL y XXL.
