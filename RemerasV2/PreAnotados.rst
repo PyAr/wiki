@@ -55,6 +55,7 @@ Por favor, anoten a continuación qué quieren:
 || GuillermoHeizenreder || 1 XL azul, 1 XL verde ||
 ||AlejandroDavidWeil||2 L negras, 2 L rojas||
 || JuanColome || 2 L Negras, 1 M Negra ||
+|| GuillermoGonzalez ||  1 XS (fallback a S) blanca, 1 M negra, 1 M azul, 1 L negra, 1 L azul, 1 L verde ||
 
 === Tamaños ===
 Códigos para los tamaños: S, M, L, XL y XXL.
