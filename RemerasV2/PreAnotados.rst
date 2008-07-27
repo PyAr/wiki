@@ -59,6 +59,7 @@ Por favor, anoten a continuación qué quieren:
 || IanKlaric || 1 L Negra, 1 L Azul ||
 || ["dieresys"] || 1 L negra, 1 L azul ||
 || MaxiRobaina || 1 L azul ||
+|| SantiagoBruno || 1 M azul ||
 
 === Tamaños ===
 Códigos para los tamaños: S, M, L, XL y XXL.
