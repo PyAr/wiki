@@ -53,7 +53,7 @@ Por favor, anoten a continuación qué quieren:
 ||LeitoMonk ||1 M azul y 1 M Roja o Verde ||
 ||SebastianFarioli ||1 L negra, 1 L roja, 1 L blanca ||
 || GuillermoHeizenreder || 1 XL azul, 1 XL verde ||
-
+||AlejandroDavidWeil||2 L negras, 2 L rojas||
 
 === Tamaños ===
 Códigos para los tamaños: S, M, L, XL y XXL.
