@@ -54,6 +54,7 @@ Por favor, anoten a continuación qué quieren:
 ||SebastianFarioli ||1 L negra, 1 L roja, 1 L blanca ||
 || GuillermoHeizenreder || 1 XL azul, 1 XL verde ||
 ||AlejandroDavidWeil||2 L negras, 2 L rojas||
+|| JuanColome || 2 L Negras, 1 M Negra ||
 
 === Tamaños ===
 Códigos para los tamaños: S, M, L, XL y XXL.
