@@ -60,6 +60,7 @@ Por favor, anoten a continuación qué quieren:
 || ["dieresys"] || 1 L negra, 1 L azul ||
 || MaxiRobaina || 1 L azul ||
 || SantiagoBruno || 1 M azul ||
+|| AnthonyLenton || 1 S blanca, 1 S negra, 1 S azul, 1 S verde ||
 
 === Tamaños ===
 Códigos para los tamaños: S, M, L, XL y XXL.
