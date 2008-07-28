@@ -62,6 +62,7 @@ Por favor, anoten a continuación qué quieren:
 || SantiagoBruno || 1 M azul ||
 || AnthonyLenton || 1 S negra, 1 S azul, 1 S verde ||
 || GonzaloDelgado || 1 M blanca ||
+|| LucasDevescovi || 1 XL negra ||
 
 === Tamaños ===
 Códigos para los tamaños: S, M, L, XL y XXL.
