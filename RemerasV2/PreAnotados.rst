@@ -53,7 +53,7 @@ Por favor, anoten a continuación qué quieren:
 ||LeitoMonk ||1 M azul y 1 M Roja o Verde ||
 ||SebastianFarioli ||1 L negra, 1 L roja, 1 L blanca ||
 || GuillermoHeizenreder || 1 XL azul, 1 XL verde ||
-||AlejandroDavidWeil||2 L negras, 2 L rojas||
+||AlejandroDavidWeil ||2 L negras, 2 L rojas ||
 || JuanColome || 2 L Negras, 1 M Negra ||
 || GuillermoGonzalez ||  1 XS (fallback a S) blanca, 1 M negra, 1 M azul, 1 L negra, 1 L azul, 1 L verde ||
 || IanKlaric || 1 L Negra, 1 L Azul ||
@@ -63,6 +63,8 @@ Por favor, anoten a continuación qué quieren:
 || AnthonyLenton || 1 S negra, 1 S azul, 1 S verde ||
 || GonzaloDelgado || 1 M blanca ||
 || LucasDevescovi || 1 XL negra ||
+||<style="vertical-align: top;">DionisioAlonso ||<style="vertical-align: top;">1 S negra ||
+
 
 === Tamaños ===
 Códigos para los tamaños: S, M, L, XL y XXL.
