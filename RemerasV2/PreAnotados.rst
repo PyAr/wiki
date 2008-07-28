@@ -61,6 +61,7 @@ Por favor, anoten a continuación qué quieren:
 || MaxiRobaina || 1 L azul ||
 || SantiagoBruno || 1 M azul ||
 || AnthonyLenton || 1 S negra, 1 S azul, 1 S verde ||
+|| GonzaloDelgado || 1 M blanca ||
 
 === Tamaños ===
 Códigos para los tamaños: S, M, L, XL y XXL.
