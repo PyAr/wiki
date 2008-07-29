@@ -64,6 +64,7 @@ Por favor, anoten a continuación qué quieren:
 || GonzaloDelgado || 1 M blanca ||
 || LucasDevescovi || 1 XL negra ||
 ||<style="vertical-align: top;">DionisioAlonso ||<style="vertical-align: top;">1 S negra ||
+|| MauroMackinze || 1 XL negra, 1 XL Azul ||
 
 
 === Tamaños ===
