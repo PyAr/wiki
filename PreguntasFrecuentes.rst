@@ -216,3 +216,16 @@ más seguro en el caso que tengas varios parámetros, para evitar errores):
 }}}
 
 ''Gracias Mariano Reingart por la respuesta!'''
+
+== Preguntas surtidas ==
+
+=== ¿Hay alguna forma de saber la ruta (path) del archivo actual? ===
+
+MarianoGuerra preguntó esto en este hilo: http://mx.grulic.org.ar/lurker/thread/20080719.055432.4df0ac40.es.html
+Esencialmente, el problema es saber la ruta absoluta del script python que se está ejecutando
+
+La respuesta que le dio MartinBothiry es hacer:
+
+{{{
+  os.path.abspath(os.path.dirname(__file__)) 
+}}}
