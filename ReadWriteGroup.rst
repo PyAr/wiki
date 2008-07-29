@@ -39,6 +39,7 @@
  * MaxiRobaina
  * NicolasPalumbo
  * NubIs
+ * OSiRiS
  * PabloCarballo
  * PedroPrez
  * RamiroMorales
