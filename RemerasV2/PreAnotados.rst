@@ -65,7 +65,7 @@ Por favor, anoten a continuación qué quieren:
 || LucasDevescovi || 1 XL negra ||
 ||<style="vertical-align: top;">DionisioAlonso ||<style="vertical-align: top;">1 S negra ||
 || MauroMackinze || 1 XL negra, 1 XL Azul ||
-|| GuillermoNarvaja || 1 XXL negra ||
+|| GuillermoNarvaja || 1 XL negra ||
 
 
 === Tamaños ===
