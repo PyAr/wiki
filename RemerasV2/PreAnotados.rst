@@ -50,10 +50,10 @@ Por favor, anoten a continuación qué quieren:
 || NicoEchaniz || 1 M negra, 1M verde ||
 || EmilioRamirez || 1 L negra ||
 || SergioVernis || 1 M azul y 1 S azul ||
-||LeitoMonk ||1 M azul y 1 M Roja o Verde ||
-||SebastianFarioli ||1 L negra, 1 L roja, 1 L blanca ||
+|| LeitoMonk ||1 M azul y 1 M Roja o Verde ||
+|| SebastianFarioli ||1 L negra, 1 L roja, 1 L blanca ||
 || GuillermoHeizenreder || 1 XL azul, 1 XL verde ||
-||AlejandroDavidWeil ||2 L negras, 2 L rojas ||
+|| AlejandroDavidWeil ||2 L negras, 2 L rojas ||
 || JuanColome || 2 L Negras, 1 M Negra ||
 || GuillermoGonzalez ||  1 XS (fallback a S) blanca, 1 M negra, 1 M azul, 1 L negra, 1 L azul, 1 L verde ||
 || IanKlaric || 1 L Negra, 1 L Azul ||
@@ -70,6 +70,7 @@ Por favor, anoten a continuación qué quieren:
 || AlanRomero || 1 L negra ||
 || CesarPortela || 1 XL negra ||
 || MartinBorthiry || 1 M negra, 1 M azul ||
+|| MartinGaitan || 1 M verde, 1 L negra ||
 
 
 === Tamaños ===
