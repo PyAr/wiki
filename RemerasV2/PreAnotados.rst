@@ -74,6 +74,7 @@ Por favor, anoten a continuación qué quieren:
 || LeonardoDeLuca || 1 S verde, 1 M negra ||
 || GabrielGenellina || 1 L negra ||
 || JavierCastrillo || 1 XL negra, 1 XL verde ||
+|| MatiasGieco || 1 XL Azul ||
 
 === Tamaños ===
 Códigos para los tamaños: S, M, L, XL y XXL.
