@@ -19,6 +19,9 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 
+==== 29/07/2008 ====
+ * Python Argentina estará presente en las [http://jornadas.cafelug.org.ar/8/ Jornadas Regionales de Software Libre], del 20 al 22 de Agosto del 2008, en Buenos Aires. Pueden ver una lista de las [http://www.python.com.ar/moin/Eventos/Conferencias/8JRSL charlas y talleres sobre Python] que tendrán lugar durante las jornadas.
+
 ==== 19/06/2008 ====
  * Arrancó el proceso para la segunda versión de las remeras. Será por votación, se pueden proponer muchos diseños, se pueden mejorar los diseños en función del feedback de la gente. ¡Afinen sus habilidades artísticas! Toda la info en RemerasV2.
 
