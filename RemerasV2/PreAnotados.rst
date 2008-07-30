@@ -72,6 +72,7 @@ Por favor, anoten a continuación qué quieren:
 || MartinBorthiry || 1 M negra, 1 M azul ||
 || MartinGaitan || 1 M verde, 1 L negra ||
 || LeonardoDeLuca || 1 S verde, 1 M negra ||
+|| GabrielGenellina || 1 L negra ||
 
 === Tamaños ===
 Códigos para los tamaños: S, M, L, XL y XXL.
