@@ -67,7 +67,7 @@ Por favor, anoten a continuación qué quieren:
 || MauroMackinze || 1 XL negra, 1 XL Azul ||
 || GuillermoNarvaja || 1 XL negra ||
 || ["OSiRiS"] || 1 XL negra ||
-|| AlanRomero || 1 L negra ||
+|| <span style="color:green">AlanRomero</span> || 1 L negra ||
 
 === Tamaños ===
 Códigos para los tamaños: S, M, L, XL y XXL.
