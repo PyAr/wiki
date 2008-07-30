@@ -37,5 +37,14 @@ En este taller mostraremos como hacer juegos y actividades educativas, en muy po
 
 La charla consiste en alentar a los oyentes a corregir bugs de Python mostrando lo sencillo que es y que no se requiere de grandes conocimientos para realizar los parches correspondientes. Se mostrará todo el proceso de corrección, desde la descarga del código fuente de Python hasta la creación de parches y su posterior envío, dando a conocer distintas formas de pedir ayuda en el proceso intermedio. Finalmente se dejará un espacio para preguntas.
 
+----
+
+=== PyExPsiN: Python para Experimentos en Psicología y Neurociencias ===
+'''(Sergio Damián Vernis) - Aula 3.7,  Miércoles  15hs'''
+
+Introducción a un modulo de Python para experimentos en psicología y neurociencias.  Existen varios módulos escritos en Python, este hace fuerte énfasis en la facilidad de programación de experimentos predeterminados.  A medida que aparecen nuevos tipos de experimentos se los va agregando.  En el futuro se espera hacer que también sea posible la escritura de experimentos que no estén dentro de los predeterminados.
+
+http://sourceforge.net/projects/pyexpsin/
+
 
 ----
