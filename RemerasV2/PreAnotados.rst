@@ -63,7 +63,7 @@ Por favor, anoten a continuación qué quieren:
 || AnthonyLenton || 1 S negra, 1 S azul, 1 S verde ||
 || GonzaloDelgado || 1 M blanca ||
 || LucasDevescovi || 1 XL negra ||
-||<style="vertical-align: top;">DionisioAlonso ||<style="vertical-align: top;">1 S negra ||
+|| DionisioAlonso || 1 S negra ||
 || MauroMackinze || 1 XL negra, 1 XL Azul ||
 || GuillermoNarvaja || 1 XL negra ||
 || ["OSiRiS"] || 1 XL negra ||
@@ -75,6 +75,7 @@ Por favor, anoten a continuación qué quieren:
 || GabrielGenellina || 1 L negra ||
 || JavierCastrillo || 1 XL negra, 1 XL verde ||
 || MatiasGieco || 1 XL Azul ||
+|| NatyBidart  || 1 S Blanca, 1 M Azul ||
 
 === Tamaños ===
 Códigos para los tamaños: S, M, L, XL y XXL.
