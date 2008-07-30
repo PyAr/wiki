@@ -68,6 +68,7 @@ Por favor, anoten a continuación qué quieren:
 || GuillermoNarvaja || 1 XL negra ||
 || ["OSiRiS"] || 1 XL negra ||
 || AlanRomero || 1 L negra ||
+|| CesarPortela || 1 XL negra ||
 
 === Tamaños ===
 Códigos para los tamaños: S, M, L, XL y XXL.
