@@ -26,12 +26,14 @@ http://jornadas.cafelug.org.ar/8/programa/modules/myconference/program.php
 = Descripcion de charlas =
 
 === Taller: Actividades y juegos educativos para la OLPC ===
-'''(Héctor Sanchez / Alejandro J. Cura / Manuel Kaufmann) - Aula 3.3, 10hs'''
+'''(Héctor Sanchez / Alejandro J. Cura / Manuel Kaufmann) - Aula 3.3, Viernes 10hs'''
 
 En este taller mostraremos como hacer juegos y actividades educativas, en muy poco tiempo, usando el lenguaje python y la biblioteca pygame. Para esto nos basaremos en Falabracman, un juego educativo hecho en 30 horas, y ganador del OLPC Game Jam 2008 en Porto Alegre. Este taller está orientado a gente que nunca hizo un juego, pero los asistentes deberán tener conocimientos básicos de programación. Los juegos resultantes podrán ser usados tanto en Linux, como en muchas otras plataformas, y mostraremos también como adaptarlos a la OLPC.
 
+----
+
 === Como colaborar con Python ===
-'''(Manuel Kaufmann) - Aula 3.6, 14hs'''
+'''(Manuel Kaufmann) - Aula 3.6, Viernes 14hs'''
 
 La charla consiste en alentar a los oyentes a corregir bugs de Python mostrando lo sencillo que es y que no se requiere de grandes conocimientos para realizar los parches correspondientes. Se mostrará todo el proceso de corrección, desde la descarga del código fuente de Python hasta la creación de parches y su posterior envío, dando a conocer distintas formas de pedir ayuda en el proceso intermedio. Finalmente se dejará un espacio para preguntas.
 
