@@ -45,7 +45,7 @@ Por favor, anoten a continuación qué quieren:
 || Viviana Oviedo || 1 S roja (o negra) ||
 || SantiagoPereson || 1 L negra, 1 L azul ||
 || RobertoRodriguez || 1 M Azul ||
-|| GabrielPatiño || 1 M Azul, 1 M Verde ||
+|| GabrielPatiño || 1 L Azul, 1 L Verde ||
 || HoracioDuran || 1 M negra, 1 M azul,1M verde, 1M blanca ||
 || NicoEchaniz || 1 M negra, 1M verde ||
 || EmilioRamirez || 1 L negra ||
