@@ -21,6 +21,7 @@ http://jornadas.cafelug.org.ar/8/programa/modules/myconference/program.php
  * Como colaborar con Python (Manuel Kaufmann) - Aula 3.6, 14hs
  * cocos2d, un framework para hacer juegos 2D (Ricardo Quesada / Lucio Torre) - Aula 3.4, 14hs
  * Usando Python para integrar mis datos con !GoogleMaps, y viceversa (Anthony Lenton) - Aula Magna, 15hs
+ * /dev/wiimote > Experimentando con un wii remote en Gnu/Linux - (Juan Manuel Schillaci / Héctor Sanchez / Christian Andres) - Aula 3.1, 15hs
 
 -----
 = Descripcion de charlas =
