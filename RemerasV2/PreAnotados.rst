@@ -77,6 +77,7 @@ Por favor, anoten a continuación qué quieren:
 || MatiasGieco || 1 XL Azul ||
 || NatyBidart  || 1 S Blanca, 1 M Azul ||
 || JuanjoConti || 1 L azul ||
+|| MauroLizaur || 1 S Negra o Blanca ||
 
 === Tamaños ===
 Códigos para los tamaños: S, M, L, XL y XXL.
