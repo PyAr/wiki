@@ -61,6 +61,19 @@ Con respecto a si hay realmente diferencia en cuanto a velocidad y tamaño en me
 
 Mas info en [http://www.python.org/doc/faq/es/general/#por-qu-hay-tipos-de-datos-tuplas-y-listas-separados FAQ General de Python]
 
+== Sobre Python (el interprete) ==
+=== ¿Cuales son los interpretes que puedo usar? ===
+
+Las opciones disponibles son:
+ * La consola interactiva por defecto de python (viene con la instalacion, solo hay que escribir python)
+ * [http://en.wikipedia.org/wiki/IDLE_(Python) IDLE]
+ * [http://ipython.scipy.org/moin/About ipython]
+
+=== ¿Como puedo configurar mi interprete para que sea mas amigable? ===
+
+Si estas usando el interprete interactivo por defecto de python, se recomienda leer los siguientes articulos:
+ * AutocomplecionEnConsolaInteractiva: Explica como agregar autocomplecion de metodos y atributos con tab en la consola interactiva
+ * GuardarHistorialEnConsolaInteractiva: Explica como guardar el historial de comandos entre sesiones en la consola interactiva.
 
 == Usando Bases de Datos ==
 === ¿Cómo me conecto a una base de datos con MySQL? ===
