@@ -1,4 +1,4 @@
-#acl AdminGroup:admin,read,write,delete,revert
+#acl AdminGroup:admin,read,write,delete,revert All:read
 
 == Intención de compra ==
 Por favor, anoten a continuación qué quieren:
