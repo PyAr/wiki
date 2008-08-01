@@ -49,3 +49,18 @@ http://sourceforge.net/projects/pyexpsin/
 
 
 ----
+
+=== Usando Python para integrar mis datos con GoogleMaps, y viceversa ===
+'''(Anthony Lenton) - Aula Magna,  Viernes  15hs'''
+
+En versiones recientes, la API de Google para mapas nos permite superponer
+al mapa de Google todo tipo de datos, no solo polígonos y lineas simples.
+En esta charla exploraremos las posibilidades de combinar los datos de
+Google con nuestros propios datos tomados de aplicaciones GIS de escritorio,
+y fuentes de datos geográficos tradicionales obteniendo una experiencia
+web interesante.
+
+Luego continuaremos viendo de qué manera podemos hacer el camino inverso,
+incorporando los datos de Google a nuestra aplicación de escritorio.
+
+----
