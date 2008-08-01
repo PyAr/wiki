@@ -4,7 +4,6 @@ http://jornadas.cafelug.org.ar/8/programa/modules/myconference/program.php
 == Miércoles 20/Ago/2008 ==
  * Entendiendo Unicode (Facundo Batista) - Aula 3.5, 11hs
  * Introducción a Python (Facundo Batista) - Aula 10.1, 14hs
- * Hacer un juego es fácil (Daniel F. Moisset) - Auditorio B, 14hs
  * PyExPsiN: Python para Experimentos en Psicología y Neurociencias (Sergio Damián Vernis) - Aula 3.7, 15hs
  * ORM en Python (Luis Tomas Wayar) - Aula Magna, 16hs
  * ArchGenXML Haciendo Plone sin saber Plone (Francisco Sebastian Durán Barrionuevo) - Aula 10.1, 16hs
@@ -22,6 +21,7 @@ http://jornadas.cafelug.org.ar/8/programa/modules/myconference/program.php
  * cocos2d, un framework para hacer juegos 2D (Ricardo Quesada / Lucio Torre) - Aula 3.4, 14hs
  * Usando Python para integrar mis datos con !GoogleMaps, y viceversa (Anthony Lenton) - Aula Magna, 15hs
  * /dev/wiimote > Experimentando con un wii remote en Gnu/Linux - (Juan Manuel Schillaci / Héctor Sanchez / Christian Andres) - Aula 3.1, 15hs
+ * Hacer un juego es fácil (Daniel F. Moisset) - Aula 3.6, 16hs
 
 -----
 = Descripcion de charlas =
