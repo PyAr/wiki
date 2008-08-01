@@ -4,6 +4,7 @@
 
 crear un archivo llamado .pythorc (se llama asi pero podria llamarse de cualquier otra forma), que dice:
 
+{{{
 if __name__ == "__main__":
    try:
        import readline
@@ -14,11 +15,12 @@ if __name__ == "__main__":
        readline.parse_and_bind("tab: complete")
        del readline
        del rlcompleter
+}}}
+y en el environment se setteada la variable
 
-y en mi environment se setteada la variable
 PYTHONSTARTUP=/home/tuusuario/.pythonrc (aca importa que sea igual al nombre del alchivo).
 
-Lo que hace es darte Tab-completion en el interprete, cuando no se recuerda que metodos tiene mi string, en el interprete se hace
+Lo que hace es darte Tab-completion en el interprete, cuando no se recuerda que metodos tiene mistring, en el interprete se hace
 
 >>> mistring.<tab><tab>
 
