@@ -74,6 +74,7 @@ Las opciones disponibles son:
 Si estas usando el interprete interactivo por defecto de python, se recomienda leer los siguientes articulos:
  * AutocomplecionEnConsolaInteractiva: Explica como agregar autocomplecion de metodos y atributos con tab en la consola interactiva
  * GuardarHistorialEnConsolaInteractiva: Explica como guardar el historial de comandos entre sesiones en la consola interactiva.
+ * [http://www.eseth.org/2008/pimp-pythonrc.html recursos externos]
 
 == Usando Bases de Datos ==
 === ¿Cómo me conecto a una base de datos con MySQL? ===
