@@ -138,7 +138,7 @@ libre.
 ---- 
 
 === /dev/wiimote > Experimentando con un wii remote en Gnu/Linux ===
-(Juan Manuel Schillaci / Héctor Sanchez / Christian Andres) - Aula 3.1, Viernes 15hs
+'''(Juan Manuel Schillaci / Héctor Sanchez / Christian Andres) - Aula 3.1, Viernes 15hs'''
 
 La charla intenta dar a conocer tecnicamente el dispositivo wiimote (que se encuentra en las consolas de wii de nintendo). Como implementarlo en Linux, conocer las librerias disponibles, ejemplos, juegos y desarrollos multimedia y 3d que se estan llevando a cabo por los disertantes usando python como lenguaje de desarrollo.
 
