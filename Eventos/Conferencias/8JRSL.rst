@@ -143,3 +143,27 @@ libre.
 La charla intenta dar a conocer tecnicamente el dispositivo wiimote (que se encuentra en las consolas de wii de nintendo). Como implementarlo en Linux, conocer las librerias disponibles, ejemplos, juegos y desarrollos multimedia y 3d que se estan llevando a cabo por los disertantes usando python como lenguaje de desarrollo.
 
 ----
+=== PyGTK usando Glade ===
+'''(Natalia Beatriz Bidart) - Aula 3.5, Jueves 12hs'''
+
+PyGTK es un wrapper escrito en Python a la librería GTK+ (toolkit
+multiplataforma para desarrollo de interfaces gráficas de usuario -GUI-,
+escrito en C: http://www.gtk.org/).
+
+PyGTK provee una potente capa de abstracción sobre GTK+ para escribir
+programas en Python; se encarga de lidiar con el manejo de memoria y con
+el casteo de tipos.
+
+Otras ventajas que obtenemos al utilizar PyGTK para el desarrollo de
+GUI's es la simplicidad e integrabilidad que ofrece Python (lenguaje
+interpretado, dinámico y orientado a objetos: http://www.python.org/),
+más la posibilidad de construir la interfaz utilizando Glade
+(http://glade.gnome.org/).
+
+Glade es un constructor de interfaces de usuario para GTK+ y Gnome
+(http://www.gnome.org/). Glade guarda nuestros diseños en archivos XML,
+con lo cual obtenemos versatilidad pues éstos pueden ser usados en
+diversos lenguajes de programación (C, C++, Java, Perl, Python, y más),
+y la posibilidad de cargarlos dinámicamente a medida que se necesitan.
+
+----
