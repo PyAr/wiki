@@ -2,7 +2,7 @@
 
 como guardar y recuperar el historial de las sesiones en la consola interactiva (donado por Matias Ribecky)
 
-crear un archivo llamado .pythorc (se llama asi pero podria llamarse de cualquier otra forma), que dice: 
+crear un archivo llamado .pythonrc (se llama asi pero podria llamarse de cualquier otra forma), que dice: 
 
 {{{
 import os
