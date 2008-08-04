@@ -2,7 +2,7 @@
 
 (donado por Anthony Lenton)
 
-crear un archivo llamado .pythorc (se llama asi pero podria llamarse de cualquier otra forma), que dice:
+crear un archivo llamado .pythonrc (se llama asi pero podria llamarse de cualquier otra forma), que dice:
 
 {{{
 if __name__ == "__main__":
