@@ -45,7 +45,7 @@ La charla consiste en alentar a los oyentes a corregir bugs de Python mostrando 
 === PyExPsiN: Python para Experimentos en Psicología y Neurociencias ===
 '''(Sergio Damián Vernis) - Aula 3.7, Miércoles 15hs'''
 
-Introducción a un modulo de Python para experimentos en psicología y neurociencias.  Existen varios módulos escritos en Python, este hace fuerte énfasis en la facilidad de programación de experimentos predeterminados.  A medida que aparecen nuevos tipos de experimentos se los va agregando.  En el futuro se espera hacer que también sea posible la escritura de experimentos que no estén dentro de los predeterminados.
+Introducción a un modulo de Python para experimentos en psicología y neurociencias. Existen varios módulos escritos en Python, este hace fuerte énfasis en la facilidad de programación de experimentos predeterminados. A medida que aparecen nuevos tipos de experimentos se los va agregando. También es posible la escritura de experimentos que no estén dentro de los predeterminados, pero eso ya no es tan automático, pero tampoco es tan difícil gracias a Python. Y se puede hacer uso de las optimizaciones hechas en la precisión en la toma de tiempos y respuestas, así como la capacidad para guardar los datos automáticamente independientemente de la plataforma.
 
 http://sourceforge.net/projects/pyexpsin/
 
