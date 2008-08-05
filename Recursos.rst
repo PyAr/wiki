@@ -57,14 +57,7 @@
 
  * Desde hace un tiempo también utilizamos [http://www.edgewall.com/trac trac] para la gestión del proyecto, tickets y wiki interno.
 
-
----- /!\ '''Edit conflict - other version:''' ----
- * Los socios de la empresa son AnhonyLenton, JavierMansilla, JohnLenton y DanielMoisset. (todos miembros de PyAR)
-
----- /!\ '''Edit conflict - your version:''' ----
  * Los socios de la empresa son AnthonyLenton, JavierMansilla, JohnLenton y DanielMoisset. (todos miembros de PyAR)
-
----- /!\ '''End of edit conflict''' ----
 
 === Hansa World Argentina ===
  * URL: http://www.hansaworld.com.ar/
