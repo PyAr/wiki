@@ -1,6 +1,6 @@
 = Trabajos con Python =
 
- * (23/06/2008) Somos Dummia, un startup con una cultura de trabajo diferente. Buscamos personas apasionadas con espíritu emprendedor. Trabajamos en Python, usamos Django, PostgreSQL entre otras cosas. Actualmente estamos buscando estrellas en estos puestos: Junior Software Developers, Software Developers, Great Software Developers. Mandanos tu cv a python@dummia.com
+ * (23/06/2008) Somos Atommica, un startup con una cultura de trabajo diferente. Buscamos personas apasionadas con espíritu emprendedor. Trabajamos en Python, usamos Django, PostgreSQL entre otras cosas. Actualmente estamos buscando estrellas en estos puestos: Junior Software Developers, Software Developers, Great Software Developers. Mandanos tu cv a python@atommica.com
 
  * (18/06/2008) Para importante proyecto de software ERP Open Source, estamos en la búsqueda de programadores Python que posean preferentemente conocimientos de PostgreSQL (no excluyente). En PuertaTotal estamos creciendo y necesitamos tu conocimiento. Te ofrecemos un muy buen ambiente de trabajo con posibilidades de progreso. Zona de Trabajo: San Miguel, Gran Bs As. Por favor enviar curriculum a rrhh@puertatotal.com.ar
 
