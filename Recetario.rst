@@ -55,3 +55,7 @@ GtkGladeSignals : manejo basico de señales
 == Creación de ejecutables para Windows ==
 === Desde Linux ===
 /CrearEjecutableWindowsDesdeLinux : Cómo crear ejecutables para Windows desde Linux con Wine.
+
+== Hilos y concurrencia ==
+=== threads ===
+ComunicarThreadsConQueue: ejemplo sobre como comunicar y sincronizar threads usando colas
