@@ -6,14 +6,14 @@ http://jornadas.cafelug.org.ar/8/programa/modules/myconference/program.php
  * Introducción a Python (Facundo Batista) - Aula 10.1, 14hs
  * PyExPsiN: Python para Experimentos en Psicología y Neurociencias (Sergio Damián Vernis) - Aula 3.7, 15hs
  * ORM en Python (Luis Tomas Wayar) - Aula Magna, 16hs
- * ArchGenXML Haciendo Plone sin saber Plone (Francisco Sebastian Durán Barrionuevo) - Aula 10.1, 16hs
+ * ArchGenXML Haciendo Plone sin saber Plone (Horacio Francisco Sebastian Durán Barrionuevo) - Aula 10.1, 16hs
 
 == Jueves 21/Ago/2008 ==
  * Automatizando las Pruebas de Software (Facundo Batista) - Aula 3.1, 10hs
  * Python 3000 (Raymond Hettinger) - Aula Magna, 11hs 
  * Introducción al desarrollo en Plone (Emanuel Sartor) - Aula 13.1, 14hs
  * PyGTK usando Glade (Natalia Beatriz Bidart) - Aula 3.5, 12hs
- * !PloneGetPaid, estilo, calidad e ecommerce en un solo paquete (Francisco Sebastian Durán Barrionuevo) - Aula 3.4, 16hs
+ * !PloneGetPaid, estilo, calidad e ecommerce en un solo paquete (Horacio Francisco Sebastian Durán Barrionuevo) - Aula 3.4, 16hs
 
 == Viernes 22/Ago/2008 ==
  * Desarrollando Plone Batch dentro de Google Summer of Code (Javier A. Mansilla) - Aula 3.1, 10hs
@@ -167,3 +167,23 @@ diversos lenguajes de programación (C, C++, Java, Perl, Python, y más),
 y la posibilidad de cargarlos dinámicamente a medida que se necesitan.
 
 ----
+===  ArchGenXML Haciendo Plone sin saber Plone ===
+'''(Francisco Sebastian Durán Barrionuevo) - Aula 10.1, Miércoles 16hs'''
+
+Plone es un Content Management System que ofrece una amplia cantidad de opciones y tipos de datos que pueden ser ampliados y combinados de diferentes formas para poder obtener un sistema a medida sin necesidad de muchos conocimientos.
+
+ArchGenXML es una aplicacion que nos permite convertir archivos xmi obtenidos de exportar diagramas UML a productos Plone.
+
+Si bien plone es muy maleable sin modificaciones es posible que queramos extenderlo un poco mas de lo que podemos como usuarios comunes.
+
+La idea de esta charla es mostrar los pasos necesarios para, usando algun programa grafico para hacer diagramas uml en combinacion con ArchGenXML, podemos hacer tipos de datos compliejos para nuestro sitio Plones y agregar funcionalidades algo mas desarrolladas que las que se logran desde la interfaz del usuario y sin la necesidad de aprender como funcionan las capas mas inferiores de Plone y, en algunos casos, sin la necesidad de escribir ni una linea de codigo.
+
+----
+===  PloneGetPaid, estilo, calidad e ecommerce en un solo paquete ===
+'''(Horacio Francisco Sebastian Durán Barrionuevo) - Aula 3.4, Jueves 16hs'''
+
+Plone es un Content Management System que ofrece una amplia cantidad de opciones y tipos de datos que pueden ser ampliados y combinados de diferentes formas para poder obtener un sistema a medida sin necesidad de muchos conocimientos.
+
+!GetPaid da a una instalacion de Plone la opcion de convertirse en un portal de ecommerce manteniendo la calidad de Plone y sin perder su simplicidad.
+
+Daremos un recorrido por las funcionalidades que nos provee !GetPaid y veremos en un paneo general de como este simple proceso puede proveernos de una completa solucion de ecommerce para nosotros o nuestros clientes.
