@@ -187,3 +187,18 @@ Plone es un Content Management System que ofrece una amplia cantidad de opciones
 !GetPaid da a una instalacion de Plone la opcion de convertirse en un portal de ecommerce manteniendo la calidad de Plone y sin perder su simplicidad.
 
 Daremos un recorrido por las funcionalidades que nos provee !GetPaid y veremos en un paneo general de como este simple proceso puede proveernos de una completa solucion de ecommerce para nosotros o nuestros clientes.
+
+----
+===  Hacer un juego es fácil ===
+'''(Daniel F. Moisset) - Aula 3.6, Viernes 16hs'''
+
+Gran parte de los aficionados a la programación también juegan,
+y a casi todos ellos les gustaría programar juegos. Muchos no
+inician un proyecto por incerteza de como empezar, y muchos
+proyectos empezados suelen acabar inconclusos por falta de
+tiempo o conocimiento. Esta charla trata de promover el
+desarrollo amateur de juegos. Para ello muestra, a través de un
+ejemplo concreto, que hoy en día hay excelentes herramientas
+(por supuesto, libres), que hacen que sea fácil convertirse en
+un programador de videojuegos. En la charla se mostrará casi por
+completo la programación de un juego simple.
