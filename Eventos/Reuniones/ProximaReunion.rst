@@ -47,13 +47,18 @@
 ----
 
 == Capital Federal, Buenos Aires: Reunión 31 - Jueves 21/08/2008 - Jornadas Regionales de Software Libre - Horario a determinar ==
-'''Temas:''' A definir
+'''Temas:''' 
+
+  * Charlas en las Regionales
+  * PyCon 2009
+  * Remeras
 
 ## * ...
 ''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
 ||ManuelKaufmann (el burro por delante) ||
+|| FacundoBatista ||
 
 
 
 ## ||... ||
-''' ¿Dónde? ''' A definir
+''' ¿Dónde? ''' ¿En el Clásico Bar?
