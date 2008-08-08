@@ -27,8 +27,8 @@
 ##  1. Editar Eventos/Reuniones/ProximaReunion
 ##  1. Confeccionar la minuta
 ##
-= Precaución! Warning! Achtung! =
-Como estamos armando dos o tres reuniones en simultáneo, esta página coordina todas!
+## = Precaución! Warning! Achtung! =
+## Como estamos armando dos o tres reuniones en simultáneo, esta página coordina todas!
 
 ## Ejemplo de formato:
 ## == Buenos Aires: Reunión 27 - Miércoles 07/05/2008 - Bar "El Clásico" - 19hs ==
@@ -46,17 +46,14 @@ Como estamos armando dos o tres reuniones en simultáneo, esta página coordina 
 
 ----
 
-== San Francisco, Córdoba: Reunión 30 - Viernes 16/05/2008 - Segundas Jornadas de Software Libre - Horario a determinar ==
+== Capital Federal, Buenos Aires: Reunión 31 - Jueves 21/08/2008 - Jornadas Regionales de Software Libre - Horario a determinar ==
 '''Temas:''' A definir
 
 ## * ...
 ''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
-||David Casco ||
-|| ["AlejandroJCura"] ||
-||DanielMoisset ||
-||HoracioDuran (tcc: perrito) ||
-||ManuelKaufmann ||
+||ManuelKaufmann (el burro por delante) ||
+
 
 
 ## ||... ||
-''' ¿Dónde? '''La idea es reunirse en el marco de las Segundas Jornadas de Software Libre que se realizarán el 16 y 17 de Mayo en las instalaciones de la UTN Facultad Regional San Francisco, Av de la universidad 717. Los lugares tentativos son el quincho que se encuentra en la facultad (si se consigue) o la casa de algún buen muchacho, ambas opciones podrían traer aparejadas el "tedioso" trabajo de organizar un asadito.
+''' ¿Dónde? ''' A definir
