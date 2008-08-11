@@ -4,8 +4,9 @@
 
  * Uso linux y python desde 1995.
  * Me gusta usar twisted, gtk, trac, svn.
+ * Tambien pygame, opengl, cocos2d!
  * Me vi obligado, y no me gustan wx, atl, vb.
- * Uso y me aburren C++, Java, xml.
+ * ~~Uso y me aburren C++, Java, xml.~~
 
 Email: [[MailTo(alecu AT vortech DOT com DOT ar)]]
 
