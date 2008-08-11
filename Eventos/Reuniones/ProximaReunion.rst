@@ -63,7 +63,7 @@
 || ["AlejandroJCura"] ||
 || ["GonzaloDelgado"] ||
 || [wiki:JohnLenton John Lenton] ||
-
+|| EzequielGutesman ||
 
 ## ||... ||
 ''' ¿Dónde? ''' ¿En el Clásico Bar?
