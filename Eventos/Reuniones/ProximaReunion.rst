@@ -64,6 +64,7 @@
 || ["GonzaloDelgado"] ||
 || [wiki:JohnLenton John Lenton] ||
 || EzequielGutesman ||
+|| TomasZulberti ||
 
 ## ||... ||
 ''' ¿Dónde? ''' ¿En el Clásico Bar?
