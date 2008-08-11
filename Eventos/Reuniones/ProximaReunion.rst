@@ -60,6 +60,7 @@
 || FacundoBatista ||
 || DanielMendoza ||
 || ["AlejandroJCura"] ||
+|| ["GonzaloDelgado"] ||
 
 
 ## ||... ||
