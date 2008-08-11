@@ -48,10 +48,11 @@
 ----
 
 == Capital Federal, Buenos Aires: Reunión 31 - Jueves 21/08/2008 - Jornadas Regionales de Software Libre - Horario a determinar ==
-'''Temas:''' 
+'''Temas:'''
 
-  * Charlas en las Regionales
+  * [wiki:Eventos/Conferencias/8JRSL Charlas en las Regionales]
   * PyCon 2009
+  * PyCamp 2009
   * Remeras
 
 ## * ...
@@ -61,6 +62,7 @@
 || DanielMendoza ||
 || ["AlejandroJCura"] ||
 || ["GonzaloDelgado"] ||
+|| [wiki:JohnLenton John Lenton] ||
 
 
 ## ||... ||
