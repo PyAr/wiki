@@ -65,6 +65,7 @@
 || [wiki:JohnLenton John Lenton] ||
 || EzequielGutesman ||
 || TomasZulberti ||
+|| HernanSinclair ||
 
 ## ||... ||
 ''' ¿Dónde? ''' ¿En el Clásico Bar?
