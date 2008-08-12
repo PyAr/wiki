@@ -66,6 +66,8 @@
 || EzequielGutesman ||
 || TomasZulberti ||
 || HernanSinclair ||
+|| NicoEchaniz ||
+
 
 ## ||... ||
 ''' ¿Dónde? ''' ¿En el Clásico Bar?
