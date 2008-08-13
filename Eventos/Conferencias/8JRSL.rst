@@ -17,6 +17,7 @@ http://jornadas.cafelug.org.ar/8/programa/modules/myconference/program.php
 
 == Viernes 22/Ago/2008 ==
  * Desarrollando Plone Batch dentro de Google Summer of Code (Javier A. Mansilla) - Aula 3.1, 10hs
+ * Agilito, una herramienta libre de gestión de proyectos ágiles (John R. Lenton) - Auditorio Urquiza, 10hs
  * Taller: Actividades y juegos educativos para la OLPC (Héctor Sanchez / Alejandro J. Cura / Manuel Kaufmann) - Aula 3.3, 10hs
  * Como colaborar con Python (Manuel Kaufmann) - Aula 3.6, 14hs
  * cocos2d, un framework para hacer juegos 2D (Ricardo Quesada / Lucio Torre) - Aula 3.4, 14hs
@@ -144,6 +145,12 @@ Al mismo tiempo, la idea es contar lo fácil que es involucrarse con la
 comunidad Plone, y cómo funciona por dentro el programa que propulsa
 Google y que está dando ayudando a numerosos proyectos de software
 libre.
+
+----
+=== Agilito, una herramienta libre de gestión de proyectos ágiles ===
+'''(John R. Lenton) - Auditorio Urquiza, Viernes 10hs'''
+
+Para la gestión ágil de proyectos de software, o, lo que es lo mismo, para la gestión de proyectos de software que siguen una metodología ágil, las herramientas existentes dejaban mucho que desear. Presentamos Agilito, una herramienta libre desarrollada por la red FairSource para su uso interno en la gestión de proyectos con metodología Scrum (aunque también sirve para XP), que creemos puede ser muy útil para la comunidad en general.
 
 ----
 === Taller: Actividades y juegos educativos para la OLPC ===
