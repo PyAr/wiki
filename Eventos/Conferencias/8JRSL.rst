@@ -196,8 +196,8 @@ completo la programación de un juego simple.
 === cocos2d: un framework para hacer juegos ===
 '''(Ricardo Quesada, Lucio Torre) - Aula 3.4, Viernes 22hs'''
 
-cocos2d es un framework para hacer juegos 2d, demos, and otras aplicaciones graficas/interactivas.
-Poseé varios featues como: control de flujo, sprites, acciones, efectos, transiciones, menues,
-mapas tipo mosaico, labels, sistema de particulas, primitivas de resolucion independiente,
-aceleración por hardware (OpenGL), documentacion, basado en pyglet (100% python), licencia BSD.
-En esta charla se describiran y se mostraran en "vivo" esos features.
+cocos2d es un framework para hacer juegos 2d, demos, y otras aplicaciones gráficas/interactivas.
+Posee varios features tales como: control de flujo, sprites, acciones, efectos, transiciones, menues,
+mapas tipo mosaico, labels, sistema de partículas, primitivas independientes de la resolución,
+aceleración por hardware (OpenGL), documentación, basado en pyglet (100% python), licencia BSD.
+En esta charla se describirán y se mostraran en "vivo" esos features.
