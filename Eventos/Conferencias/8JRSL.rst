@@ -5,14 +5,13 @@ http://jornadas.cafelug.org.ar/8/programa/modules/myconference/program.php
  * Entendiendo Unicode (Facundo Batista) - Aula 3.5, 11hs
  * Introducción a Python (Facundo Batista) - Aula 10.1, 14hs
  * PyExPsiN: Python para Experimentos en Psicología y Neurociencias (Sergio Damián Vernis) - Aula 3.7, 15hs
- * ORM en Python (Luis Tomas Wayar) - Aula Magna, 16hs
+ * ORM en Python (Luis Tomas Wayar) - Auditorio Roca, 16hs
  * ArchGenXML Haciendo Plone sin saber Plone (Horacio Francisco Sebastian Durán Barrionuevo) - Aula 10.1, 16hs
 
 == Jueves 21/Ago/2008 ==
- * Automatizando las Pruebas de Software (Facundo Batista) - Aula 3.1, 10hs
- * Python 3000 (Raymond Hettinger) - Aula Magna, 11hs 
- * Introducción al desarrollo en Plone (Emanuel Sartor) - Aula 13.1, 14hs
+ * Python 3000 (Raymond Hettinger) - Auditorio Sarmiento, 11hs 
  * PyGTK usando Glade (Natalia Beatriz Bidart) - Aula 3.5, 12hs
+ * Introducción al desarrollo en Plone (Emanuel Sartor) - Aula 13.1, 14hs
  * !PloneGetPaid, estilo, calidad e ecommerce en un solo paquete (Horacio Francisco Sebastian Durán Barrionuevo) - Aula 3.4, 16hs
 
 == Viernes 22/Ago/2008 ==
@@ -21,10 +20,10 @@ http://jornadas.cafelug.org.ar/8/programa/modules/myconference/program.php
  * Taller: Actividades y juegos educativos para la OLPC (Héctor Sanchez / Alejandro J. Cura / Manuel Kaufmann) - Aula 3.3, 10hs
  * Como colaborar con Python (Manuel Kaufmann) - Aula 3.6, 14hs
  * cocos2d, un framework para hacer juegos 2D (Ricardo Quesada / Lucio Torre) - Aula 3.4, 14hs
- * Usando Python para integrar mis datos con !GoogleMaps, y viceversa (Anthony Lenton) - Aula Magna, 15hs
+ * Core containers - Under the hood (Raymond Hettinger) - Auditorio Sarmiento, 15hs
  * /dev/wiimote > Experimentando con un wii remote en Gnu/Linux (Juan Manuel Schillaci / Héctor Sanchez / Christian Andres) - Aula 3.1, 15hs
  * Hacer un juego es fácil (Daniel F. Moisset) - Aula 3.6, 16hs
- * Core containers - Under the hood (Raymond Hettinger) - Auditorio A, 16hs
+ * Usando Python para integrar mis datos con !GoogleMaps, y viceversa (Anthony Lenton) - Auditorio Roca, 16hs
 
 -----
 = Descripcion de charlas =
@@ -61,7 +60,7 @@ http://sourceforge.net/projects/pyexpsin/
 
 ----
 === ORM en Python ===
-'''(Luis Tomas Wayar) - Aula Magna, Miércoles 16hs'''
+'''(Luis Tomas Wayar) - Auditorio Roca, Miércoles 16hs'''
 
 El software libre cada dia ocupa mas espacios en la pequeñas y medianas empresas, este fenómeno crea nuevas fuentes de trabajo para desarrolladores de aplicaciones de plataformas libres. A la hora de seleccionar la tecnología y herramientas adecuadas para cada necesidad se presentan un sin-número de alternativas que van desde el lenguaje de programación hasta el motor de bases de datos pasando por las librerías y técnicas a utilizar, esta charla pretende presentar a la audiencia un conjunto de aplicaciones y tecnologías para el desarrollo rápido de aplicaciones de gestión, esta fuertemente basado en el uso de ORM, el mapeo objeto-relacional es una técnica de programación para convertir datos entre el sistema de tipos utilizado en un lenguaje de programación orientado a objetos y el utilizado en una base de datos relacional. En la práctica esto crea una base de datos orientada a objetos virtual, por sobre la base de datos relacional. Esto posibilita el uso de las características propias de la orientación a objetos (básicamente herencia y polimorfismo), tambien se presentan librerias de interfaz de usuario y herramientas de desarrollo.
 
@@ -76,24 +75,6 @@ ArchGenXML es una aplicacion que nos permite convertir archivos xmi obtenidos de
 Si bien plone es muy maleable sin modificaciones es posible que queramos extenderlo un poco mas de lo que podemos como usuarios comunes.
 
 La idea de esta charla es mostrar los pasos necesarios para, usando algun programa grafico para hacer diagramas uml en combinacion con ArchGenXML, podemos hacer tipos de datos compliejos para nuestro sitio Plones y agregar funcionalidades algo mas desarrolladas que las que se logran desde la interfaz del usuario y sin la necesidad de aprender como funcionan las capas mas inferiores de Plone y, en algunos casos, sin la necesidad de escribir ni una linea de codigo.
-
-----
-=== Automatizando las Pruebas de Software ===
-'''(Facundo Batista) - Aula 3.1, Jueves 10hs'''
-
-La charla comienza con una breve introducción a las
-Pruebas de Software, indicando qué tipos de pruebas y resultados
-existen, y algunas técnicas para hacerlas más efectivas. Luego se
-describen distintas tecnologías y escenarios para realizar las
-pruebas, indicando ventajas y desventajas de cada uno. Finalmente, se
-presentan algunos de los Frameworks más establecidos para las
-distintas técnicas introducidas.
-
-----
-=== Introducción al desarrollo en Plone ===
-'''(Emanuel Sartor) - Aula 13.1, Jueves 14hs'''
-
-Plone es un producto que provee una plataforma para el desarrollo de aplicaciones web centradas en contenidos. Plone es software libre y está desarrollado sobre Zope, un servidor de aplicaciones web programado en Python. En el desarrollo de aplicaciones web orientadas a contenido convergen varias tecnologías con las que el programador debe estar familiarizado. En esta charla se hará una breve reseña de las tecnologías involucradas en el desarrollo web usando Plone; se darán ejemplos de tareas típicas que debe enfrentar el desarrollador de una aplicación web construida sobre Plone; y se expondrán ejemplos del uso de Plone en proyectos reales.
 
 ----
 === PyGTK usando Glade ===
@@ -118,6 +99,12 @@ Glade es un constructor de interfaces de usuario para GTK+ y Gnome
 con lo cual obtenemos versatilidad pues éstos pueden ser usados en
 diversos lenguajes de programación (C, C++, Java, Perl, Python, y más),
 y la posibilidad de cargarlos dinámicamente a medida que se necesitan.
+
+----
+=== Introducción al desarrollo en Plone ===
+'''(Emanuel Sartor) - Aula 13.1, Jueves 14hs'''
+
+Plone es un producto que provee una plataforma para el desarrollo de aplicaciones web centradas en contenidos. Plone es software libre y está desarrollado sobre Zope, un servidor de aplicaciones web programado en Python. En el desarrollo de aplicaciones web orientadas a contenido convergen varias tecnologías con las que el programador debe estar familiarizado. En esta charla se hará una breve reseña de las tecnologías involucradas en el desarrollo web usando Plone; se darán ejemplos de tareas típicas que debe enfrentar el desarrollador de una aplicación web construida sobre Plone; y se expondrán ejemplos del uso de Plone en proyectos reales.
 
 ----
 ===  PloneGetPaid, estilo, calidad e ecommerce en un solo paquete ===
@@ -174,20 +161,6 @@ mapas tipo mosaico, labels, sistema de partículas, primitivas independientes de
 aceleración por hardware (OpenGL), documentación, basado en pyglet (100% python), licencia BSD.
 En esta charla se describirán y se mostraran en "vivo" esos features.
 
-----
-=== Usando Python para integrar mis datos con GoogleMaps, y viceversa ===
-'''(Anthony Lenton) - Aula Magna,  Viernes 15hs'''
-
-En versiones recientes, la API de Google para mapas nos permite superponer
-al mapa de Google todo tipo de datos, no solo polígonos y lineas simples.
-En esta charla exploraremos las posibilidades de combinar los datos de
-Google con nuestros propios datos tomados de aplicaciones GIS de escritorio,
-y fuentes de datos geográficos tradicionales obteniendo una experiencia
-web interesante.
-
-Luego continuaremos viendo de qué manera podemos hacer el camino inverso,
-incorporando los datos de Google a nuestra aplicación de escritorio.
-
 ---- 
 === /dev/wiimote > Experimentando con un wii remote en Gnu/Linux ===
 '''(Juan Manuel Schillaci / Héctor Sanchez / Christian Andres) - Aula 3.1, Viernes 15hs'''
@@ -208,3 +181,17 @@ ejemplo concreto, que hoy en día hay excelentes herramientas
 (por supuesto, libres), que hacen que sea fácil convertirse en
 un programador de videojuegos. En la charla se mostrará casi por
 completo la programación de un juego simple.
+
+----
+=== Usando Python para integrar mis datos con GoogleMaps, y viceversa ===
+'''(Anthony Lenton) - Auditorio Roca, Viernes 16hs'''
+
+En versiones recientes, la API de Google para mapas nos permite superponer
+al mapa de Google todo tipo de datos, no solo polígonos y lineas simples.
+En esta charla exploraremos las posibilidades de combinar los datos de
+Google con nuestros propios datos tomados de aplicaciones GIS de escritorio,
+y fuentes de datos geográficos tradicionales obteniendo una experiencia
+web interesante.
+
+Luego continuaremos viendo de qué manera podemos hacer el camino inverso,
+incorporando los datos de Google a nuestra aplicación de escritorio.
