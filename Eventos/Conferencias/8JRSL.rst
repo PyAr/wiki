@@ -158,6 +158,16 @@ En este taller mostraremos como hacer juegos y actividades educativas, en muy po
 La charla consiste en alentar a los oyentes a corregir bugs de Python mostrando lo sencillo que es y que no se requiere de grandes conocimientos para realizar los parches correspondientes. Se mostrará todo el proceso de corrección, desde la descarga del código fuente de Python hasta la creación de parches y su posterior envío, dando a conocer distintas formas de pedir ayuda en el proceso intermedio. Finalmente se dejará un espacio para preguntas.
 
 ----
+=== cocos2d: un framework para hacer juegos ===
+'''(Ricardo Quesada, Lucio Torre) - Aula 3.4, Viernes 22hs'''
+
+cocos2d es un framework para hacer juegos 2d, demos, y otras aplicaciones gráficas/interactivas.
+Posee varios features tales como: control de flujo, sprites, acciones, efectos, transiciones, menues,
+mapas tipo mosaico, labels, sistema de partículas, primitivas independientes de la resolución,
+aceleración por hardware (OpenGL), documentación, basado en pyglet (100% python), licencia BSD.
+En esta charla se describirán y se mostraran en "vivo" esos features.
+
+----
 === Usando Python para integrar mis datos con GoogleMaps, y viceversa ===
 '''(Anthony Lenton) - Aula Magna,  Viernes 15hs'''
 
@@ -191,13 +201,3 @@ ejemplo concreto, que hoy en día hay excelentes herramientas
 (por supuesto, libres), que hacen que sea fácil convertirse en
 un programador de videojuegos. En la charla se mostrará casi por
 completo la programación de un juego simple.
-
-----
-=== cocos2d: un framework para hacer juegos ===
-'''(Ricardo Quesada, Lucio Torre) - Aula 3.4, Viernes 22hs'''
-
-cocos2d es un framework para hacer juegos 2d, demos, y otras aplicaciones gráficas/interactivas.
-Posee varios features tales como: control de flujo, sprites, acciones, efectos, transiciones, menues,
-mapas tipo mosaico, labels, sistema de partículas, primitivas independientes de la resolución,
-aceleración por hardware (OpenGL), documentación, basado en pyglet (100% python), licencia BSD.
-En esta charla se describirán y se mostraran en "vivo" esos features.
