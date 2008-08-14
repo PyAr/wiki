@@ -197,3 +197,9 @@ web interesante.
 
 Luego continuaremos viendo de qué manera podemos hacer el camino inverso,
 incorporando los datos de Google a nuestra aplicación de escritorio.
+
+----
+=== Introduccion a w3af - Un framework para conquistar la web ===
+'''(Andrés Riancho) - Auditorio Roca, Jueves 11hs'''
+
+El movimiento Open Source está revolucionando la forma en la cual se diseña, desarrolla y prueba el software del futuro. Particularmente el proyecto w3af, desarrollado por Andrés Riancho y colaboradores de todas partes del mundo, está cambiando la forma en la cual se detectan y explotan las vulnerabilidades en aplicaciones web. La presentación estará enfocada en introducir al espectador al mundo de la seguridad en aplicaciones web y el framework w3af, por medio de demostraciones prácticas de las funcionalidades principales del proyecto, así como también las que lo diferencian de otras herramientas comerciales y de código abierto. Se analizará además el futuro del proyecto y se realizará una reseña sobre las muy positivas experiencias adquiridas durante el desarrollo del proyecto.
