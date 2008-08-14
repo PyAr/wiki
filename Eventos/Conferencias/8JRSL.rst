@@ -10,8 +10,10 @@ http://jornadas.cafelug.org.ar/8/programa/modules/myconference/program.php
 
 == Jueves 21/Ago/2008 ==
  * Python 3000 (Raymond Hettinger) - Auditorio Sarmiento, 11hs 
+ * Introduccion a w3af - Un framework para conquistar la web (Andrés Riancho) - Auditorio Roca, 11hs
  * PyGTK usando Glade (Natalia Beatriz Bidart) - Aula 3.5, 12hs
  * Introducción al desarrollo en Plone (Emanuel Sartor) - Aula 13.1, 14hs
+ * Descriptor tutorial (Raymond Hettinger) - Auditorio Sarmiento, 15hs 
  * !PloneGetPaid, estilo, calidad e ecommerce en un solo paquete (Horacio Francisco Sebastian Durán Barrionuevo) - Aula 3.4, 16hs
 
 == Viernes 22/Ago/2008 ==
