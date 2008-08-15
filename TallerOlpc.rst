@@ -11,3 +11,8 @@ http://wiki.laptop.org/go/Porting_pygame_games_to_the_XO
 
 Thread en PyAr sobre LiveCDs:
 http://article.gmane.org/gmane.org.user-groups.python.argentina/13266
+
+Para bajar la charla y todos los ejemplos:
+{{{
+svn checkout http://charla-pygame.googlecode.com/svn/trunk/ charla-pygame
+}}}
