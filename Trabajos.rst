@@ -21,3 +21,5 @@
  * (04/10/2007) Cooperativa de Trabajo "gcoop" Ltda. busca socios para trabajar en proyectos usando Python y muchas otras herramientas de Software Libre. Más datos en http://www.gcoop.com.ar/
 
  * (04/10/2007) Para proyectos cortos, Vortech necesita programadores que ya conocen otros lenguajes y que están empezando con Python. empleos@vortech.com.ar
+
+Y si estás buscando trabajo afuera, [http://www.python.org/community/jobs/ acá] está la cartelera mundial (tiene un [http://www.python.org/community/jobs/jobs.rss RSS] y todo).
