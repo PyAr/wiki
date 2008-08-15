@@ -19,5 +19,32 @@ http://wiki.laptop.org/go/Porting_pygame_games_to_the_XO
 Thread en PyAr sobre LiveCDs:
 http://article.gmane.org/gmane.org.user-groups.python.argentina/13266
 
-Como usar el "Copy on Write" de Qemu:
-http://www.guia-ubuntu.org/index.php?title=Qemu
+ * Instalar qemu y kqemu. En ubuntu:
+{{{
+sudo apt-get install qemu kqemu-source kqemu-common
+sudo module-assistant prepare kqemu
+sudo module-assistant auto-install kqemu
+sudo modprobe kqemu
+}}}
+
+ * bajarse y descomprimir la imagen de olpc:
+{{{
+mkdir ~/olpc
+cd ~/olpc
+wget http://pilgrim.laptop.org/~pilgrim/olpc/streams/update.1/build708/devel_ext3/xo-1-olpc-stream-update.1-devel_ext3.img.bz2
+bunzip xo-1-olpc-stream-update.1-devel_ext3.img.bz2
+chmod -w xo-1-olpc-stream-update.1-devel_ext3.img
+}}}
+
+ * crear la imagen "Copy on Write" de qemu:
+{{{
+mkdir /tmp/olpc
+cd /tmp/olpc
+qemu-img create -b ~/olpc/xo-1-olpc-stream-update.1-devel_ext3.img -f qcow olpc.img
+}}}
+
+ * bootear qemu:
+{{{
+cd /tmp/olpc
+qemu -m 256 -kernel-kqemu -soundhw es1370 -net user -net nic,model=rtl8139 -hda olpc.img
+}}}
