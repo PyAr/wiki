@@ -9,7 +9,8 @@ Módulo OLPCGames:
 http://dev.laptop.org/~mcfletch/OLPCGames/OLPCGames-1.6.zip
 
 Imagen de Qemu:
-http://pilgrim.laptop.org/~pilgrim/olpc/streams/update.1/build708/devel_ext3/xo-1-olpc-stream-update.1-devel_ext3.img.bz2
+ * http://xs-dev.laptop.org/~cscott/xo-1/streams/ship.2/build659/devel_ext3/olpc-redhat-stream-ship.2-build-659-20080229_1949-devel_ext3.img.bz2
+ * http://pilgrim.laptop.org/~pilgrim/olpc/streams/update.1/build708/devel_ext3/xo-1-olpc-stream-update.1-devel_ext3.img.bz2
 
 Migrando juegos en pygame a XO:
 http://wiki.laptop.org/go/Porting_pygame_games_to_the_XO
@@ -31,7 +32,7 @@ sudo modprobe kqemu
 {{{
 mkdir ~/olpc
 cd ~/olpc
-wget http://pilgrim.laptop.org/~pilgrim/olpc/streams/update.1/build708/devel_ext3/xo-1-olpc-stream-update.1-devel_ext3.img.bz2
+wget http://xs-dev.laptop.org/~cscott/xo-1/streams/ship.2/build659/devel_ext3/olpc-redhat-stream-ship.2-build-659-20080229_1949-devel_ext3.img.bz2
 bunzip xo-1-olpc-stream-update.1-devel_ext3.img.bz2
 chmod -w xo-1-olpc-stream-update.1-devel_ext3.img
 }}}
