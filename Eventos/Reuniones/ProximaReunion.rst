@@ -76,6 +76,7 @@
 || RenzoCarbonara ||
 || MarianoDraghi ||
 || LucasDevescovi (tentativo) ||
+|| RicardoQuesada ||
 
 
 ## ||... ||
