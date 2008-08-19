@@ -78,6 +78,7 @@
 || LucasDevescovi (tentativo) ||
 || RicardoQuesada ||
 || HectorSanchez ||
+|| SantiagoPereson 'yaco' (probable) ||
 
 ## ||... ||
 ''' ¿Dónde? ''' ¿En el Clásico Bar?
