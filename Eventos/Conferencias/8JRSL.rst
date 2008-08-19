@@ -155,7 +155,7 @@ La charla consiste en alentar a los oyentes a corregir bugs de Python mostrando 
 
 ----
 === cocos2d: un framework para hacer juegos ===
-'''(Ricardo Quesada, Lucio Torre) - Aula 3.4, Viernes 22hs'''
+'''(Ricardo Quesada, Lucio Torre) - Aula 3.4, Viernes 14hs'''
 
 cocos2d es un framework para hacer juegos 2d, demos, y otras aplicaciones gráficas/interactivas.
 Posee varios features tales como: control de flujo, sprites, acciones, efectos, transiciones, menues,
