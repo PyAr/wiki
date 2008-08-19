@@ -74,7 +74,7 @@
 || SantiagoPereson 'yaco' (probable) ||
 || HoracioDuran ||
 || RicardoKirkner ||
+|| MauricioFerrari ||
 
-
-## ||MauricioFerrari ||
+## ||... ||
 ''' ¿Dónde? '''¿En el Clásico Bar?
