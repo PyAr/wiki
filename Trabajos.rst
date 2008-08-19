@@ -1,4 +1,5 @@
 = Trabajos con Python =
+ * (19/08/2008) wooobiz.com.ar, somos un start-up de gente que le gusta desarrollar software de calidad, simpatizantes del software libre, los estándares abiertos y las metodologías ágiles. Nuestras oficinas están ubicadas en San Telmo y estamos buscando gente talentosa y que comparta nuestros valores para sumarse al equipo. Podés leer mas acerca de las herramientas que usamos en http://woobiz.com.ar/es/about y escribir a nubis@woobiz.com.ar contando lo que te gustaria hacer.
 
  * (13/08/2008) Empresa de hosting está buscando programadores Junior en Python para armar nuevo equipo de desarrollo. Full-Time, 8hrs. en Capital Federal, enviar CV a ivan@reptoland.com
 
