@@ -80,6 +80,7 @@
 || HectorSanchez ||
 || SantiagoPereson 'yaco' (probable) ||
 || HoracioDuran ||
+|| RicardoKirkner ||
 
 ## ||... ||
 ''' ¿Dónde? ''' ¿En el Clásico Bar?
