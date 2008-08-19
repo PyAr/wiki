@@ -19,6 +19,10 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 
+
+==== 19/08/2008 ====
+ * ¡Mañana ya arrancan las Regionales 2008! Python tendrá un lugar destacado en estas Conferencias, ya que contaremos con un Stand, traemos a Raymond Hettinger (que dará tres charlas, una de las cuales es keynote), e incluso tenemos algunos libros para regalar (no dejen de pasar por el stand para sacar el numerito). Y como corresponde, el jueves tendremos la [http://www.python.com.ar/moin/Eventos/Reuniones/ProximaReunion próxima reunión] de Python Argentina.
+
 ==== 29/07/2008 ====
  * Python Argentina estará presente en las [http://jornadas.cafelug.org.ar/8/ Jornadas Regionales de Software Libre], del 20 al 22 de Agosto del 2008, en Buenos Aires. Pueden ver una lista de las [wiki:Self:Eventos/Conferencias/8JRSL charlas y talleres sobre Python] que tendrán lugar durante las jornadas.
 
