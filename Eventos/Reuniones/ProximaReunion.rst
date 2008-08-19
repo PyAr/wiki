@@ -79,6 +79,7 @@
 || RicardoQuesada ||
 || HectorSanchez ||
 || SantiagoPereson 'yaco' (probable) ||
+|| HoracioDuran ||
 
 ## ||... ||
 ''' ¿Dónde? ''' ¿En el Clásico Bar?
