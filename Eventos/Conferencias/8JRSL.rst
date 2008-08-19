@@ -37,7 +37,7 @@ La charla muestra de forma teórica/práctica qué son
 Unicode, las planillas de códigos, los caracteres, y las
 codificaciones, entra en detalle en las distintas codificaciones, para
 saber cómo usarlas, ejemplifica las reglas de oro para utilizar
-Unicode en nuestros programa, y termina mostrando algunas funciones
+Unicode en nuestros programas, y termina mostrando algunas funciones
 útiles para el manejo de esa tecnología.
 
 ----
