@@ -29,40 +29,33 @@
 ##
 ## = Precaución! Warning! Achtung! =
 ## Como estamos armando dos o tres reuniones en simultáneo, esta página coordina todas!
-
 ## Ejemplo de formato:
 ## == Buenos Aires: Reunión 27 - Miércoles 07/05/2008 - Bar "El Clásico" - 19hs ==
 ##'''Temas:'''
-
 ## * Experiencia de PyCon 2008
 ## * Experiencia de Fisl 2008
 ## * Experiencia de PyWeek 6 (y de yapa: cocos y la futura version 0.3)
-
 ## * ...
 ## ''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:||FacundoBatista ||
 ## ||Karucha ||
 ## ||RicardoKirkner ||
 ## || ["AlejandroJCura"] ||
-
-
 ----
-
 == Capital Federal, Buenos Aires: Reunión 31 - Jueves 21/08/2008 - Jornadas Regionales de Software Libre - Horario a determinar ==
 '''Temas:'''
 
-  * [wiki:Eventos/Conferencias/8JRSL Charlas en las Regionales]
-  * PyCon 2009
-  * PyCamp 2009
-  * Remeras
+ * [:Eventos/Conferencias/8JRSL:Charlas en las Regionales]
+ * PyCon 2009
+ * PyCamp 2009
+ * Remeras
 
 ## * ...
-''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
-||ManuelKaufmann (el burro por delante) ||
+''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:||ManuelKaufmann (el burro por delante) ||
 || FacundoBatista ||
 || DanielMendoza ||
 || ["AlejandroJCura"] ||
-|| ["GonzaloDelgado"] ||
-|| [wiki:JohnLenton John Lenton] ||
+|| GonzaloDelgado ||
+|| [:JohnLenton:John Lenton] ||
 || EzequielGutesman ||
 || TomasZulberti ||
 || HernanSinclair ||
@@ -82,5 +75,6 @@
 || HoracioDuran ||
 || RicardoKirkner ||
 
-## ||... ||
-''' ¿Dónde? ''' ¿En el Clásico Bar?
+
+## ||MauricioFerrari ||
+''' ¿Dónde? '''¿En el Clásico Bar?
