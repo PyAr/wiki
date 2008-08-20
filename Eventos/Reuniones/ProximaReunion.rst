@@ -41,7 +41,11 @@
 ## ||RicardoKirkner ||
 ## || ["AlejandroJCura"] ||
 ----
-== Capital Federal, Buenos Aires: Reunión 31 - Jueves 21/08/2008 - Jornadas Regionales de Software Libre - Horario a determinar ==
+== Capital Federal, Buenos Aires: Reunión 31 - Jueves 21/08/2008 - Jornadas Regionales de Software Libre ==
+
+En el Clásico Bar, a las 19hs (Báez 205, esq. Arquivel, Belgrano)
+
+
 '''Temas:'''
 
  * [:Eventos/Conferencias/8JRSL:Charlas en las Regionales]
@@ -78,4 +82,3 @@
 || [:AlejandroDavidWeil:dave] ||
 
 ## ||... ||
-''' ¿Dónde? '''¿En el Clásico Bar?
