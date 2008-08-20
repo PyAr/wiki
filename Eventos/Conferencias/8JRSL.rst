@@ -78,6 +78,21 @@ Si bien plone es muy maleable sin modificaciones es posible que queramos extende
 La idea de esta charla es mostrar los pasos necesarios para, usando algun programa grafico para hacer diagramas uml en combinacion con ArchGenXML, podemos hacer tipos de datos compliejos para nuestro sitio Plones y agregar funcionalidades algo mas desarrolladas que las que se logran desde la interfaz del usuario y sin la necesidad de aprender como funcionan las capas mas inferiores de Plone y, en algunos casos, sin la necesidad de escribir ni una linea de codigo.
 
 ----
+=== Python 3000 ===
+'''(Raymond Hettinger) - Auditorio Sarmiento, Jueves 11hs'''
+
+Code written for Py3.0 is much the same as that for Py2.5, but it has a different flavor and texture. With the removal of accumulated cruft, the new version of Python feels lighter and cleaner. We discuss what was removed and why. In their place, some new features were added. We discuss how the new tools elegantly overcome issues that have long challenged the language. Besides removals and additions, some aspects
+of the language were redesigned by changing their underlying concept.
+
+Those deep conceptual changes give the language its new flavour. We discuss the new concepts, why they arose, their benefits, and how to alter your world view accordingly. Lastly, we discuss the plan for how to migrate existing code so you can enjoy the benefits of Python's rebirth.
+
+----
+=== Introduccion a w3af - Un framework para conquistar la web ===
+'''(Andrés Riancho) - Auditorio Roca, Jueves 11hs'''
+
+El movimiento Open Source está revolucionando la forma en la cual se diseña, desarrolla y prueba el software del futuro. Particularmente el proyecto w3af, desarrollado por Andrés Riancho y colaboradores de todas partes del mundo, está cambiando la forma en la cual se detectan y explotan las vulnerabilidades en aplicaciones web. La presentación estará enfocada en introducir al espectador al mundo de la seguridad en aplicaciones web y el framework w3af, por medio de demostraciones prácticas de las funcionalidades principales del proyecto, así como también las que lo diferencian de otras herramientas comerciales y de código abierto. Se analizará además el futuro del proyecto y se realizará una reseña sobre las muy positivas experiencias adquiridas durante el desarrollo del proyecto.
+
+----
 === PyGTK usando Glade ===
 '''(Natalia Beatriz Bidart) - Aula 3.5, Jueves 12hs'''
 
@@ -107,8 +122,19 @@ y la posibilidad de cargarlos dinámicamente a medida que se necesitan.
 
 Plone es un producto que provee una plataforma para el desarrollo de aplicaciones web centradas en contenidos. Plone es software libre y está desarrollado sobre Zope, un servidor de aplicaciones web programado en Python. En el desarrollo de aplicaciones web orientadas a contenido convergen varias tecnologías con las que el programador debe estar familiarizado. En esta charla se hará una breve reseña de las tecnologías involucradas en el desarrollo web usando Plone; se darán ejemplos de tareas típicas que debe enfrentar el desarrollador de una aplicación web construida sobre Plone; y se expondrán ejemplos del uso de Plone en proyectos reales.
 
+---- 
+=== Descriptor tutorial ===
+'''(Raymond Hettinger) - Auditorio Sarmiento, Jueves 15hs'''
+
+Most of Python's advanced features are implemented with descriptors. Learning the descriptor protocol is the key to an advancedunderstanding of the language.
+
+Learn the descriptor protocol, see how it is invoked, examine real examples from the language, and learn to write your own.
+
+Walk away with a sound understanding of methods, properties, super,
+classmethods, and staticmethods. 
+
 ----
-===  PloneGetPaid, estilo, calidad e ecommerce en un solo paquete ===
+=== PloneGetPaid, estilo, calidad e ecommerce en un solo paquete ===
 '''(Horacio Francisco Sebastian Durán Barrionuevo) - Aula 3.4, Jueves 16hs'''
 
 Plone es un Content Management System que ofrece una amplia cantidad de opciones y tipos de datos que pueden ser ampliados y combinados de diferentes formas para poder obtener un sistema a medida sin necesidad de muchos conocimientos.
@@ -156,6 +182,12 @@ mapas tipo mosaico, labels, sistema de partículas, primitivas independientes de
 aceleración por hardware (OpenGL), documentación, basado en pyglet (100% python), licencia BSD.
 En esta charla se describirán y se mostraran en "vivo" esos features.
 
+----
+=== Core containers - Under the hood ===
+'''(Raymond Hettinger) - Auditorio Sarmiento, Viernes 15hs'''
+
+Look under-the-hood at the implementation of Python's container classes. Understand their performance implications. And walk away with a sound basic understanding of how they work and when to use them.
+
 ---- 
 === /dev/wiimote > Experimentando con un wii remote en Gnu/Linux ===
 '''(Juan Manuel Schillaci / Héctor Sanchez / Christian Andres) - Aula 3.1, Viernes 15hs'''
@@ -190,9 +222,3 @@ web interesante.
 
 Luego continuaremos viendo de qué manera podemos hacer el camino inverso,
 incorporando los datos de Google a nuestra aplicación de escritorio.
-
-----
-=== Introduccion a w3af - Un framework para conquistar la web ===
-'''(Andrés Riancho) - Auditorio Roca, Jueves 11hs'''
-
-El movimiento Open Source está revolucionando la forma en la cual se diseña, desarrolla y prueba el software del futuro. Particularmente el proyecto w3af, desarrollado por Andrés Riancho y colaboradores de todas partes del mundo, está cambiando la forma en la cual se detectan y explotan las vulnerabilidades en aplicaciones web. La presentación estará enfocada en introducir al espectador al mundo de la seguridad en aplicaciones web y el framework w3af, por medio de demostraciones prácticas de las funcionalidades principales del proyecto, así como también las que lo diferencian de otras herramientas comerciales y de código abierto. Se analizará además el futuro del proyecto y se realizará una reseña sobre las muy positivas experiencias adquiridas durante el desarrollo del proyecto.
