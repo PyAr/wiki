@@ -24,7 +24,7 @@ http://jornadas.cafelug.org.ar/8/programa/modules/myconference/program.php
  * Core containers - Under the hood (Raymond Hettinger) - Auditorio Sarmiento, 15hs
  * /dev/wiimote > Experimentando con un wii remote en Gnu/Linux (Juan Manuel Schillaci / Héctor Sanchez / Christian Andres) - Aula 3.1, 15hs
  * Hacer un juego es fácil (Daniel F. Moisset) - Aula 3.6, 16hs
- * Usando Python para integrar mis datos con !GoogleMaps, y viceversa (Anthony Lenton) - Auditorio Roca, 16hs
+ * Usando Python para integrar mis datos con !GoogleMaps, y viceversa (Anthony Lenton) - Aula 3.4, 16hs
 
 -----
 = Descripcion de charlas =
@@ -211,7 +211,7 @@ completo la programación de un juego simple.
 
 ----
 === Usando Python para integrar mis datos con GoogleMaps, y viceversa ===
-'''(Anthony Lenton) - Auditorio Roca, Viernes 16hs'''
+'''(Anthony Lenton) - Aula 3.4, Viernes 16hs'''
 
 En versiones recientes, la API de Google para mapas nos permite superponer
 al mapa de Google todo tipo de datos, no solo polígonos y lineas simples.
