@@ -86,5 +86,6 @@ En el Clásico Bar, a las 19hs (Báez 205, esq. Arquivel, Belgrano)
 || [:AlejandroDavidWeil:dave] ||
 || Macarse ||
 || PabloZiliani ||
+|| JasonKirtland ||
 
 ## ||... ||
