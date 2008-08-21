@@ -36,7 +36,9 @@
 ## * Experiencia de Fisl 2008
 ## * Experiencia de PyWeek 6 (y de yapa: cocos y la futura version 0.3)
 ## * ...
-## ''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:||FacundoBatista ||
+## ''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
+## 
+## ||FacundoBatista ||
 ## ||Karucha ||
 ## ||RicardoKirkner ||
 ## || ["AlejandroJCura"] ||
