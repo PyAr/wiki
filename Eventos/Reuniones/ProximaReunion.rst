@@ -54,7 +54,9 @@ En el Clásico Bar, a las 19hs (Báez 205, esq. Arquivel, Belgrano)
  * Remeras
 
 ## * ...
-''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:||ManuelKaufmann (el burro por delante) ||
+''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
+
+|| ManuelKaufmann (el burro por delante) ||
 || FacundoBatista ||
 || DanielMendoza ||
 || ["AlejandroJCura"] ||
@@ -81,5 +83,6 @@ En el Clásico Bar, a las 19hs (Báez 205, esq. Arquivel, Belgrano)
 || MauricioFerrari ||
 || [:AlejandroDavidWeil:dave] ||
 || Macarse ||
+|| PabloZiliani ||
 
 ## ||... ||
