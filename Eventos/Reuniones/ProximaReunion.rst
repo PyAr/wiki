@@ -80,5 +80,6 @@ En el Clásico Bar, a las 19hs (Báez 205, esq. Arquivel, Belgrano)
 || RicardoKirkner ||
 || MauricioFerrari ||
 || [:AlejandroDavidWeil:dave] ||
+|| Macarse ||
 
 ## ||... ||
