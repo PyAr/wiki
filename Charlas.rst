@@ -69,3 +69,10 @@ PDF: attachment:Automated%20Security%20Testing.pdf .
 ''Facundo Batista'', ''Lucio Torre''
 
 '''Slides y código:''' [http://tools.assembla.com/svn/homedevel/presents/pyrapidc/]
+
+----
+== Entendiendo Unicode ==
+
+''Facundo Batista''
+
+'''Slides:''' [http://tools.assembla.com/svn/homedevel/presents/unicode.odp]
