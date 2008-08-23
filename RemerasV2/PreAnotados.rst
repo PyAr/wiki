@@ -4,22 +4,22 @@
 Por favor, anoten a continuación qué quieren:
 
 || --(FacundoBatista)-- ||  --(1 M negra, 1 M azul, 1 L negra, 1 L azul, 1 L verde)-- ||
-|| NubIs ||  1 S verde, 1 S azul, 1 XL negra, 1 L azul, 1 L verde ||
+|| NubIs ||  1 XL negra, --(1 S verde, 1 S azul, 1 L azul, 1 L verde)-- ||
 || PabloZiliani || 1 XL negra, 1 XL azul ||
-|| LucioTorre || 1 XL azul ||
+|| --(LucioTorre)-- || --(1 XL azul)-- ||
 || MarianoMara || 1 XXL negra, 1 XXL azul ||
 || MartinConteMacDonell || 1 M azul ||
-|| JohnLenton || 2 XL azul, 2XXS azul :-? ||
-|| ["AlejandroJCura"] || 1 L azul, 1 L verde, 1 XXS verde (tamaño bebe, si hay) ||
-|| MarianoDraghi || 1 L azul, 1 L verde ||
+|| --(JohnLenton)-- || --(2 XL azul, 2XXS azul :-?)-- ||
+|| --(["AlejandroJCura"])-- || --(1 L azul, 1 L verde, 1 XXS verde)-- ||
+|| --(MarianoDraghi)-- || --(1 L azul, 1 L verde)-- ||
 || MarioZorz || 1 M azul, 1 M negra, 1 L azul, 1 L negra ||
-|| DanielTinivella ||  1 L Blanca, 1 L Negra ||
-|| Tomas Zulberti ||  1 L Verde, 1 L Negra ||
-|| Otto Wald || 1 L negra, 1 L azul ||
-|| Marcelo Rinesi || 1 M blanca ||
+|| --(DanielTinivella)-- ||  --(1 L Blanca, 1 L Negra)-- ||
+|| --(Tomas Zulberti)-- ||  --(1 L Verde, 1 L Negra)-- ||
+|| --(Otto Wald)-- || --(1 L negra, 1 L azul)-- ||
+|| Marcelo Rinesi || 1 M negra ||
 || Jose Jachuf || 1 L negra, 1 L azul, 1 XXL negra ||
-|| JaviMansilla || 1 XL azul, 1 XL verde ||
-|| JuanGonzalez || 1 L Verde ||
+|| --(JaviMansilla)-- || --(1 XL azul, 1 XL verde)-- ||
+|| --(JuanGonzalez)-- || --(1 L Verde)-- ||
 || PaulMDorr || 1 XL negra, 1 S negra ||
 || MatiasBellone || 1 M negra, 1 M verde ||
 || SimonRodriguez || 1 M negra, 1 M azul ||
