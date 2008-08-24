@@ -56,7 +56,7 @@ Por favor, anoten a continuación qué quieren:
 || --(GuillermoHeizenreder)-- || --(1 XL azul, 1 XL verde)-- ||
 || AlejandroDavidWeil ||2 L negras, 2 L rojas ||
 || JuanColome || 2 L Negras, 1 M Negra ||
-|| GuillermoGonzalez ||  1 S blanca, 1 M negra, 1 M azul, --(1 L negra)--, 1 L azul, 1 L verde ||
+|| GuillermoGonzalez ||  1 S blanca, --(1 M negra)--, 1 M azul, 1 L negra, 1 L azul, 1 L verde ||
 || IanKlaric || 1 L Negra, 1 L Azul ||
 || ["dieresys"] || 1 L negra, 1 L azul ||
 || MaxiRobaina || 1 L azul ||
