@@ -79,7 +79,7 @@ Por favor, anoten a continuación qué quieren:
 || --(NatyBidart)--  || --(1 S Blanca, 1 M Azul)-- ||
 || --(JuanjoConti)-- || --(1 L azul)-- ||
 || --(MauroLizaur)-- || --(1 S Negra o Blanca)-- ||
-|| MartinTartarelli || 1 S Blanca ||
+|| --(MartinTartarelli)-- || --(1 S Blanca)-- ||
 
 === Tamaños ===
 Códigos para los tamaños: S, M, L, XL y XXL.
