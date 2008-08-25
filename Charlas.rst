@@ -76,3 +76,10 @@ PDF: attachment:Automated%20Security%20Testing.pdf .
 ''Facundo Batista''
 
 '''Slides:''' [http://tools.assembla.com/svn/homedevel/presents/unicode.odp]
+
+----
+== Hacer un juego es fácil ==
+
+''Daniel F. Moisset''
+
+'''Slides:''' (coming soon)
