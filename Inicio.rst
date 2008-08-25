@@ -2,8 +2,7 @@
 #language es
 #pragma keywords Python, PyAr, Python Argentina, user group, grupo de usuarios, community portal
 
-||<tablestyle="width:100%;text-align:center; border-style: hidden;">[http://www.jornadasregionales.org/ http://jornadas.cafelug.org.ar/8/imgs/banners/banner_728x90_es.png]||
-
+##||<tablestyle="width:100%;text-align:center; border-style: hidden;">[http://www.jornadasregionales.org/ ##http://jornadas.cafelug.org.ar/8/imgs/banners/banner_728x90_es.png]||
 
 ##||<tablestyle="width:100%; color: red; text-align:center;"> {*} ~+'' HOY, miércoles 5 de marzo, 26^a^ reunión de PyAr, en Bs.As. Más detalles [wiki:Eventos/Reuniones/ProximaReunion aquí].''+~ ||
 
