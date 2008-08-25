@@ -1,5 +1,5 @@
 = Reunión 30 - Jueves 21/08/2008 - Bar "El Clásico", Buenos Aires =
-(Falta terminar)
+
 == Asistentes (Record!) ==
 
 (Copié los que estaban anotados originalmente, Chagui tiene el listado completo)
