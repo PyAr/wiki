@@ -2,40 +2,53 @@
 
 == Asistentes (Record!) ==
 
-(Copié los que estaban anotados originalmente, Chagui tiene el listado completo)
-
-|| ManuelKaufmann (el burro por delante) ||
-|| FacundoBatista ||
-|| DanielMendoza ||
-|| ["AlejandroJCura"] ||
-|| GonzaloDelgado ||
-|| [:JohnLenton:John Lenton] ||
-|| EzequielGutesman ||
-|| TomasZulberti ||
-|| HernanSinclair ||
-|| NicoEchaniz ||
-|| LeonardoDeLuca ||
-|| NatyBidart ||
-|| AnthonyLenton ||
-|| LucioTorre ||
-|| JaviMansilla ||
-|| GuillermoGonzalez ||
-|| RenzoCarbonara ||
-|| MarianoDraghi ||
-|| LucasDevescovi (tentativo) ||
-|| RicardoQuesada ||
-|| HectorSanchez ||
-|| SantiagoPereson 'yaco' (probable) ||
-|| HoracioDuran ||
-|| RicardoKirkner ||
-|| MauricioFerrari ||
-|| [:AlejandroDavidWeil:dave] ||
-|| Macarse ||
-|| PabloZiliani ||
-|| JasonKirtland ||
+|| Ramon Franco || || Bs. As. ||
+|| Manuel Kaufmann || Humitos || Sta. Fe ||
+|| Mariano Galán || || Sta. Fe ||
+|| Roberto Alsina  || || Bs. As ||
+|| Gonzalo Slaboch || || Sta. Fe ||
+|| Carlos Macarse || || Bs. As ||
+|| Juan Pablo Giménez || || Rosario ||
+|| Emiliano Dellaverde Mariezzi || x-ip || Rosario ||
+|| Jason Kirtland || || Portland, OR (USA) ||
+|| Tomás Rojas || || Bs. As. ||
+|| Sergio Damián Vernis || || Bs. As. ||
+|| Silvestre Marcelo Huens || Quimera || Córdoba ||
+|| Emanuel Sartor || || Córdoba ||
+|| Héctor Sánchez || Karucha || Bs. As. ||
+|| Tomás Zulberti || || Bs. As. ||
+|| Ricardo Kirkner || || Bs. As. ||
+|| Nicolás Echániz || || Bs. As. ||
+|| Lucio Torre || || Bs. As. ||
+|| Mauricio Ferrari || || Córdoba (o Tucumán... :p) ||
+|| Marcelo Fernández || || Bs. As. ||
+|| Emilio César Portela || || Sta. Fe ||
+|| Leonardo De Luca || || ||
+|| Guillermo González || || Bs. As. ||
+|| Horacio Francisco Sebastián Durán Barrionuevo || Perrito || Córdoba ||
+|| Natalia Beatriz Bidart || nessita || Córdoba ||
+|| Renzo Carbonara || || Bs. As. ||
+||  || Nubis || Bs. As. ||
+|| Otto Wald || || Bs. As. ||
+|| Ezequiel Guterman || gutes || Bs. As. ||
+|| Daniel Alejandro Mendoza || chiquito || Sta. Fe ||
+|| Alejandro David Weil || Dave || Bs. As. ||
+|| Alejandro J. Cura || alecu || Bs. As. ||
+|| John R. Lenton || Chipaca || Córdoba ||
+|| Javier Mansilla || Javimansilla || Córdoba ||
+|| Daniel F. Moisset || Darni || Córdoba ||
+|| Anthony Lenton || achuni || Córdoba ||
+|| Hernán Sinclair || Pehua || Bs. As. ||
+|| Javier Gallardo || JEG || Madrid, España (colado!) ||
+|| Mariano Draghi || cHagHi || Bs. As. ||
+|| Leandro Monk || Leito || Bs. As. ||
+|| Roberto A. Dhios || || ||
+|| Pablo Ziliani || || Bs. As. ||
+|| Martin Albisetti || beuno || Bs. As. ||
 
 == Temas tratados ==
-En esta reunión, al hacerse a "la salida" del segundo día de las [wiki:Eventos/Conferencias/8JRSL 8JRSL], hubo récord de convocatoria, con lo cual la discusión del temario propuesto previamente fue algo breve. Perdimos tiempo en organizar las mesas, cerveza y picadas, pero supongo que fue una cuestión extraordinaria. Apenas nos acomodamos, Facundo hizo una breve presentación (éramos muchos los "nuevos"), cayó más gente y volvimos a acomodarnos. Luego para tomar la asistencia, Alecu nos filmó a cada uno comentando "Nombre, Nick y Lugar de Origen".[[BR]][[BR]]
+En esta reunión, al hacerse a "la salida" del segundo día de las [wiki:Eventos/Conferencias/8JRSL 8JRSL], hubo récord de convocatoria, con lo cual la discusión del temario propuesto previamente fue algo breve. Perdimos tiempo en organizar las mesas, cerveza y picadas, pero supongo que fue una cuestión extraordinaria. Apenas nos acomodamos, Facundo hizo una breve presentación (éramos muchos los "nuevos"), cayó más gente y volvimos a acomodarnos. Luego para tomar la asistencia, Alecu nos filmó a cada uno comentando "Nombre, Nick y Lugar de Origen".
+
 En fin, Facundo organizó entre la muchedumbre el debate de los siguientes ítems:
  * Charlas de las Jornadas: Medio que se salteó ya que todavía había charlas pendientes.
  * PyCon Argentina 2009: Bueno, sólo eso, Facundo comentó que si bien está verde, hay experiencia, autorización de la [http://www.python.org/psf PSF], y voluntades (más después de los que fuimos) como para hacer una PyCon en en el 2009. No se discutió posible fecha.
