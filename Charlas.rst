@@ -82,4 +82,4 @@ PDF: attachment:Automated%20Security%20Testing.pdf .
 
 ''Daniel F. Moisset''
 
-'''Slides:''' (coming soon)
+'''Slides:''' [http://except.com.ar/en/downloads/2008/08/juego-facil-20080822.tar.gz] (se ejecuta en python, incluye bibliotecas)
