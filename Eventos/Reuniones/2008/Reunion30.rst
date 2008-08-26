@@ -4,31 +4,31 @@
 
 || Ramon Franco || || Bs. As. ||
 || Manuel Kaufmann || Humitos || Sta. Fe ||
-|| Mariano Galán || || Sta. Fe ||
+|| Mariano Galán || chino || Sta. Fe ||
 || Roberto Alsina  || || Bs. As ||
 || Gonzalo Slaboch || || Sta. Fe ||
 || Carlos Macarse || || Bs. As ||
 || Juan Pablo Giménez || || Rosario ||
 || Emiliano Dellaverde Mariezzi || x-ip || Rosario ||
 || Jason Kirtland || || Portland, OR (USA) ||
-|| Tomás Rojas || || Bs. As. ||
+|| Tomás Rojas || cocho || Bs. As. ||
 || Sergio Damián Vernis || || Bs. As. ||
 || Silvestre Marcelo Huens || Quimera || Córdoba ||
 || Emanuel Sartor || || Córdoba ||
 || Héctor Sánchez || Karucha || Bs. As. ||
 || Tomás Zulberti || || Bs. As. ||
-|| Ricardo Kirkner || || Bs. As. ||
+|| Ricardo Kirkner || Sr. Presidente || Bs. As. ||
 || Nicolás Echániz || || Bs. As. ||
-|| Lucio Torre || || Bs. As. ||
+|| Lucio Torre || lucio.torre || Bs. As. ||
 || Mauricio Ferrari || || Córdoba (o Tucumán... :p) ||
 || Marcelo Fernández || || Bs. As. ||
 || Emilio César Portela || || Sta. Fe ||
-|| Leonardo De Luca || || ||
-|| Guillermo González || || Bs. As. ||
-|| Horacio Francisco Sebastián Durán Barrionuevo || Perrito || Córdoba ||
+|| Leonardo De Luca || leorockway || ||
+|| Guillermo González || guillogonzo || Bs. As. ||
+|| Horacio Francisco Sebastián del Sagrado Corazón de Jesus Durán Barrionuevo || Perrito || Córdoba ||
 || Natalia Beatriz Bidart || nessita || Córdoba ||
-|| Renzo Carbonara || || Bs. As. ||
-||  || Nubis || Bs. As. ||
+|| Renzo Carbonara || k0001 || Bs. As. ||
+|| Christian Bruno || Nubis || Bs. As. ||
 || Otto Wald || || Bs. As. ||
 || Ezequiel Guterman || gutes || Bs. As. ||
 || Daniel Alejandro Mendoza || chiquito || Sta. Fe ||
