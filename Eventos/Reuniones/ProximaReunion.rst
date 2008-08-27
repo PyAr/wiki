@@ -20,7 +20,7 @@
 ''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
 
 ||SantiagoSuarezO ||
-
+||Osvaldo Campilongo -Rick_Hunter-||
 
 === Release Procedure ===
  1. Tareas comunes
