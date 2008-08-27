@@ -9,11 +9,17 @@
 ##para juntar ''quorum'' y que se organice, te invitamos a proponerlo en nuestra ListaDeCorreo.
 ##Te sugerimos consultar nuestro [wiki:Eventos/Reuniones/ReleaseProcedure ReleaseProcedure] para
 ##tener una idea de como organizar una reunión.
-==== Rosario ====
-Está en organización la primer reunion Pyar en Rosario. Por ahora lo que tenemos es:
-Fecha tentativa:  Sabado 6/9 (proponer alternativas por la lista)
-Lugar tentativo: Balcarce Lounge (proponer alternativas por la lista)
-Temario: Conocernos, hablar de trabajos, proyectos, experiencias con python y software libre y demas temas que surjan en el momento.
+ == Rosario: Reunión 1 - Sabado 06/09/2008 - Balcarce Lounge - 19hs ==  ##Son solo tentativas, proponer alternativas por la lista.
+'''Temas:'''
+ * Presentacion del grupo de Rosario
+ * Experiencia laboral
+ * Experiencia con Python y Software libre en general
+ * Seguro alguno mas surgira en el momento
+
+ ''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
+ 
+ ||SantiagoSuarezO ||
+
 
 === Release Procedure ===
  1. Tareas comunes
