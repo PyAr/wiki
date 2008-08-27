@@ -21,6 +21,7 @@
 
 ||SantiagoSuarezO ||
 ||Osvaldo Campilongo -Rick_Hunter-||
+||Fabián Ezequiel Gallina -Galli-||
 
 === Release Procedure ===
  1. Tareas comunes
