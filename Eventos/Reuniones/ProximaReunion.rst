@@ -5,10 +5,15 @@
 ## no hay reuniones programadas):
 ##
 = Próxima Reunión =
-Por el momento, no hay planificada una reunión. Si querés organizar alguna, o proponer temas
-para juntar ''quorum'' y que se organice, te invitamos a proponerlo en nuestra ListaDeCorreo.
-Te sugerimos consultar nuestro [wiki:Eventos/Reuniones/ReleaseProcedure ReleaseProcedure] para
-tener una idea de como organizar una reunión.
+##Por el momento, no hay planificada una reunión. Si querés organizar alguna, o proponer temas
+##para juntar ''quorum'' y que se organice, te invitamos a proponerlo en nuestra ListaDeCorreo.
+##Te sugerimos consultar nuestro [wiki:Eventos/Reuniones/ReleaseProcedure ReleaseProcedure] para
+##tener una idea de como organizar una reunión.
+====Rosario====
+Está en organización la primer reunion Pyar en Rosario. Por ahora lo que tenemos es:
+Fecha tentativa:  Sabado 6/9 (proponer alternativas por la lista)
+Lugar tentativo: Balcarce Lounge (proponer alternativas por la lista)
+Temario: Conocernos, hablar de trabajos, proyectos, experiencias con python y software libre y demas temas que surjan en el momento.
 
 === Release Procedure ===
  1. Tareas comunes
