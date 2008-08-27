@@ -9,7 +9,7 @@
 ##para juntar ''quorum'' y que se organice, te invitamos a proponerlo en nuestra ListaDeCorreo.
 ##Te sugerimos consultar nuestro [wiki:Eventos/Reuniones/ReleaseProcedure ReleaseProcedure] para
 ##tener una idea de como organizar una reunión.
-====Rosario====
+==== Rosario ====
 Está en organización la primer reunion Pyar en Rosario. Por ahora lo que tenemos es:
 Fecha tentativa:  Sabado 6/9 (proponer alternativas por la lista)
 Lugar tentativo: Balcarce Lounge (proponer alternativas por la lista)
