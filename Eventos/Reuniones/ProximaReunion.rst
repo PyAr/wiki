@@ -29,9 +29,9 @@
   1. Fijar fecha y lugar tentativos (Ok)
   1. Seguir el !ReleaseProcedure (Ok)
   1. Generar el temario
-         Conocernos
-         Buscar coincidencias en proyectos
-         Establecer pautas de colaboracion
+         Conocernos|
+         Buscar coincidencias en proyectos|
+         Establecer pautas de colaboracion|
   1. Armar una lista de asistentes
   1. Fijar fecha y lugar definitivos
   1. Definir quien dirigirá la reunión
