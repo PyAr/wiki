@@ -9,16 +9,17 @@
 ##para juntar ''quorum'' y que se organice, te invitamos a proponerlo en nuestra ListaDeCorreo.
 ##Te sugerimos consultar nuestro [wiki:Eventos/Reuniones/ReleaseProcedure ReleaseProcedure] para
 ##tener una idea de como organizar una reunión.
- == Rosario: Reunión 1 - Sabado 06/09/2008 - Balcarce Lounge - 19hs ==  ##Son solo tentativas, proponer alternativas por la lista.
+== Rosario: Reunion 1 - Sabado 06/09/2008 - Balcarce Lounge - 19hs ==
+##Son solo tentativas, proponer alternativas por la lista.
 '''Temas:'''
  * Presentacion del grupo de Rosario
- * Experiencia laboral
+ *  Experiencia laboral
  * Experiencia con Python y Software libre en general
  * Seguro alguno mas surgira en el momento
 
- ''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
- 
- ||SantiagoSuarezO ||
+''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
+
+||SantiagoSuarezO ||
 
 
 === Release Procedure ===
@@ -49,7 +50,7 @@
 ## * Experiencia de PyWeek 6 (y de yapa: cocos y la futura version 0.3)
 ## * ...
 ## ''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
-## 
+##
 ## ||FacundoBatista ||
 ## ||Karucha ||
 ## ||RicardoKirkner ||
