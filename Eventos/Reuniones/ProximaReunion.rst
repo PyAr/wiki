@@ -24,6 +24,7 @@
 ||Fabián Ezequiel Gallina -Galli-||
 ||Gustavo Andrés Morero -Gus-||
 ||Ezequiel Pochiero ||
+||Ernesto Savoretti -Sandy- ||
 
 === Release Procedure ===
  1. Tareas comunes
