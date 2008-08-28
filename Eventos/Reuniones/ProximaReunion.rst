@@ -23,6 +23,7 @@
 ||Osvaldo Campilongo -Rick_Hunter-||
 ||Fabián Ezequiel Gallina -Galli-||
 ||Gustavo Andrés Morero -Gus-||
+||Ezequiel Pochiero ||
 
 === Release Procedure ===
  1. Tareas comunes
