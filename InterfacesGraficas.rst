@@ -13,8 +13,8 @@ Existen varias librerias que implementan interfaces gráficas de usuario (GUI) e
 || '''Caracteristica''' || '''TkInter''' || '''WxPython''' ||  '''PyQT''' || '''PyGTK''' ||
 || '''Portabilidad''' || Windows/Linux/Mac || Windows, Linux (GTK+/X11/Motif), Mac OS X || Windows, Linux, Mac OS X || Windows, Linux, Mac OS X (via servidor de X) ||
 || '''Apariencia''' || "alien" en todos || nativa en todos || nativa en linux y windows || nativa en linux ||
-|| '''Orientación/Influencias''' || N/S N/C || Windows || KDE || GNOME ||
-|| '''Diseñador "Visual"''' || GUI Builder (Komodo) || wxGlade/XRCed || Qt Designer || Glade ||
+|| '''Orientación/Influencias''' || Motif || Windows || KDE || GNOME ||
+|| '''Diseñador "Visual"''' || GUI Builder (Komodo) || wxGlade/XRCed || Qt Designer || Glade, Gazpacho ||
 || '''IDEs Python''' || IDLE || SPE, BoaConstructor, DrPython || Eric4 || ?? ||
 || '''Formato XML''' || No || sí (XRC incorporado) || ?? || sí (vía libglade) ||
 || '''Otras facilidades''' || ?? || soporte para imagenes (BMP, PNG, JPG, etc.), visualización e impresión de HTML, clipboard y drag and drop, ayuda en linea, libreria de graficación de objetos ("vectoriales"), OpenGL, texto enriquecido (RTF) y "estilizado" (STC), programación en red, flujos, multitarea, bases de datos, unicode, gizmos varios, animaciones y multimedia || hilos, control de procesos en segundo plano, renderización de svg, definición de aspectos estéticos de la GUI con CSS, personalización de la app en js, sockets, acceso a base de datos, pareso de XML, OpenGL || Pango (texto multilingual), Cairo (gráficos 2D), ATK (accesibilidad) ||
@@ -55,6 +55,10 @@ Nota **: cabe aclarar que las ultimas versiones de Tk/TCL mejoran varios de esto
   * No viene preinstalado con python, se debe instalar un paquete (wxPython en windows,  wxWidgets+wxPython en linux)
   * Relativamente mas complejo de aprender 
   * Al tener un desarrollo bastante rápido y sostenido, se liberan versiones frecuentemente, lo que en la práctica le confiere cierto nivel de "volatilidad" y problemas de compatibilidad si se deben mantener varias versiones de wx para el mismo código. 
+  * Es una capa más sobre el toolkit gráfico que se usa debajo (ej: gtk)
+  * Las características emuladas de otras plataformas no siempre se ven bien.
+  * Hacer interfaces multiplataformas que se vean bien requiere conocimiento del toolkit subyacente (win32, gtk).
+  * Inestable y dificil de debuggear: en windows es muy facil segfaultear si se pasan parámetros incorrectos.
 
 ==== PyQt ====
  * Ventajas:
@@ -74,6 +78,7 @@ Nota **: cabe aclarar que las ultimas versiones de Tk/TCL mejoran varios de esto
   * Completo conjunto de elementos gráficos (listados, arboles, grillas, etc.)
   * Flexible y potente control del comportamiento de la interface
   * Enlace con PyOrbit para programar aplicaciones en GNOME
+  * Es estable, y los mensajes de error son correctos.
  * Desventajas:
   * No viene preinstalado con python, se debe instalar por separado
   * Relativamente mas complejo de aprender 
