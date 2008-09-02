@@ -19,9 +19,11 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 
+==== 21/08/2008 ====
+ * El Jueves 21 de Noviembre se realizó la Reunión 30 de PyAr, con record absoluto de asistentes. Más info en [wiki:Eventos/Reuniones/Reunion30 Reunion30].
 
 ==== 19/08/2008 ====
- * ¡Mañana ya arrancan las Regionales 2008! Python tendrá un lugar destacado en estas Conferencias, ya que contaremos con un Stand, traemos a Raymond Hettinger (que dará tres charlas, una de las cuales es keynote), e incluso tenemos algunos libros para regalar (no dejen de pasar por el stand para sacar el numerito). Y como corresponde, el jueves tendremos la [http://www.python.com.ar/moin/Eventos/Reuniones/ProximaReunion próxima reunión] de Python Argentina.
+ * ¡Mañana ya arrancan las Regionales 2008! Python tendrá un lugar destacado en estas Conferencias, ya que contaremos con un Stand, traemos a Raymond Hettinger (que dará tres charlas, una de las cuales es keynote), e incluso tenemos algunos libros para regalar (no dejen de pasar por el stand para sacar el numerito). Y como corresponde, el jueves tendremos la [http://www.python.com.ar/moin/Eventos/Reuniones/Reunion30 Reunion30] de Python Argentina.
 
 ==== 29/07/2008 ====
  * Python Argentina estará presente en las [http://jornadas.cafelug.org.ar/8/ Jornadas Regionales de Software Libre], del 20 al 22 de Agosto del 2008, en Buenos Aires. Pueden ver una lista de las [wiki:Self:Eventos/Conferencias/8JRSL charlas y talleres sobre Python] que tendrán lugar durante las jornadas.
@@ -63,10 +65,11 @@
 
  * Se ha registrado un notable incremento de tráfico en los últimos meses. El mayor crecimiento está en la época de las 7mas Jornadas Regionales de Software Libre en Córdoba... tendrá algo que ver? ;) Pueden ver el gráfico [http://dir.gmane.org/gmane.org.user-groups.python.argentina acá].
 
+## ULTIMAS_END
+
 ==== 14/02/2008 ====
  * Del viernes 15 al lunes 18 de febrero de 2008 en Los Cocos, provincia de Córdoba se lleva a cabo el primer [http://except.com.ar/cgi-bin/pycamp/ PyCamp], un campamento para pitoneros de la región. Esta organizado por [http://except.com.ar/ Except].
 
-## ULTIMAS_END
 
 ==== 15/11/2007 ====
  * Los días 6 y 7 de diciembre próximo se estará realizando la 3era
