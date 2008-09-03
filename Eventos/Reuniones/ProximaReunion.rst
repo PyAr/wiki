@@ -25,6 +25,7 @@
 ||Gustavo Andrés Morero -Gus-||
 ||Ezequiel Pochiero ||
 ||Ernesto Savoretti -Sandy- ||
+||José Teneb ||
 
 === Release Procedure ===
  1. Tareas comunes
