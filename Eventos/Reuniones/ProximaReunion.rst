@@ -24,8 +24,7 @@
 ||Gustavo Andrés Morero -Gus- ||
 ||Ezequiel Pochiero ||
 ||Ernesto Savoretti -Sandy- ||
-||José Teneb 
-||
+||José Teneb ||
 ||Juan Pablo Giménez||
 
 
