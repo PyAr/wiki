@@ -11,21 +11,23 @@
 ##tener una idea de como organizar una reunión.
 == Rosario: Reunion 31 - Sabado 06/09/2008 - Balcarce Lounge - 19hs ==
 ##Son solo tentativas, proponer alternativas por la lista.
-'''Temas:'''
- * Presentacion del grupo de Rosario
- *  Experiencia laboral
+'''Temas:''' * Presentacion del grupo de Rosario
+ * Experiencia laboral
  * Experiencia con Python y Software libre en general
  * Seguro alguno mas surgira en el momento
 
 ''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
 
 ||SantiagoSuarezO ||
-||Osvaldo Campilongo -Rick_Hunter-||
-||Fabián Ezequiel Gallina -Galli-||
-||Gustavo Andrés Morero -Gus-||
+||Osvaldo Campilongo -Rick_Hunter- ||
+||Fabián Ezequiel Gallina -Galli- ||
+||Gustavo Andrés Morero -Gus- ||
 ||Ezequiel Pochiero ||
 ||Ernesto Savoretti -Sandy- ||
-||José Teneb ||
+||José Teneb 
+||
+||Juan Pablo Giménez||
+
 
 === Release Procedure ===
  1. Tareas comunes
@@ -34,9 +36,7 @@
   1. Fijar fecha y lugar tentativos (Ok)
   1. Seguir el !ReleaseProcedure (Ok)
   1. Generar el temario
-         Conocernos|
-         Buscar coincidencias en proyectos|
-         Establecer pautas de colaboracion|
+   Conocernos| Buscar coincidencias en proyectos| Establecer pautas de colaboracion|
   1. Armar una lista de asistentes
   1. Fijar fecha y lugar definitivos
   1. Definir quien dirigirá la reunión
