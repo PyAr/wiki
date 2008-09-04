@@ -1,4 +1,5 @@
 #acl All:read,write
+
 = Django Launch Party, (Buenos Aires ?) =
 
 Con motivo del lanzamiento de la versión 1.0 del framework web Django, la gente que lo usa está con ganas de juntarse a celebrar y verse las caras.
