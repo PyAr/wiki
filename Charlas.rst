@@ -87,13 +87,13 @@ PDF: attachment:Automated%20Security%20Testing.pdf .
 ----
 == /dev/wiimote > Experimentando con un wii remote en Gnu/Linux ==
 
-''Héctor Karucha Sanchez, Juan Manuel Schillaci, Christian Andres
+''Héctor Karucha Sanchez, Juan Manuel Schillaci, Christian Andres''
 
 '''Slides:''' [http://code.google.com/p/charla-wii-mote/] (se baja por svn, y se ejecuta en python)
 
 ----
 == Actividades y juegos educativos para la OLPC ==
 
-'' Héctor Karucha Sanchez, Alejandro J. Cura, Manuel Kaufmann''
+''Héctor Karucha Sanchez, Alejandro J. Cura, Manuel Kaufmann''
 
 '''Slides:''' [http://code.google.com/p/charla-pygame/]
