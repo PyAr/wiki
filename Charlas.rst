@@ -83,3 +83,10 @@ PDF: attachment:Automated%20Security%20Testing.pdf .
 ''Daniel F. Moisset''
 
 '''Slides:''' [http://except.com.ar/en/downloads/2008/08/juego-facil-20080822.tar.gz] (se ejecuta en python, incluye bibliotecas)
+
+----
+== /dev/wiimote > Experimentando con un wii remote en Gnu/Linux ==
+
+''Héctor Karucha Sanchez, Juan Manuel Schillaci, Christian Andres
+
+'''Slides:''' [http://code.google.com/p/charla-wii-mote/] (se baja por svn, y se ejecuta en python)
