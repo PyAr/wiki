@@ -96,4 +96,4 @@ PDF: attachment:Automated%20Security%20Testing.pdf .
 
 ''Héctor Karucha Sanchez, Alejandro J. Cura, Manuel Kaufmann''
 
-'''Slides:''' [http://code.google.com/p/charla-pygame/]
+'''Slides:''' [http://code.google.com/p/charla-pygame/] (se baja por svn, y se ejecuta en python)
