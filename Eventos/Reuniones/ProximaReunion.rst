@@ -38,10 +38,10 @@
    Conocernos| Buscar coincidencias en proyectos| Establecer pautas de colaboracion|
   1. Armar una lista de asistentes (Ok)
   1. Fijar fecha y lugar definitivos (Ok)
-  1. Definir quien dirigirá la reunión (?)
+  1. Definir quien dirigirá la reunión (Ok)
   1. Publicar recordatorios en la lista (Ok)
-  1. Publicar recordatorio en el sitio (?)
-  1. Publicar recordatorios el día de la reunión (?)
+  1. Publicar recordatorio en el sitio (Ok)
+  1. Publicar recordatorios el día de la reunión
  1. Tareas posteriores a la reunión
   1. Eliminar el anuncio de la página de Inicio
   1. Editar Eventos/Reuniones/ProximaReunion
