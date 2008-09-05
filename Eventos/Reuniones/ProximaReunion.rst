@@ -9,7 +9,7 @@
 ##para juntar ''quorum'' y que se organice, te invitamos a proponerlo en nuestra ListaDeCorreo.
 ##Te sugerimos consultar nuestro [wiki:Eventos/Reuniones/ReleaseProcedure ReleaseProcedure] para
 ##tener una idea de como organizar una reunión.
-== Rosario: Reunion 31 - Sabado 06/09/2008 - Balcarce Lounge - 19hs ==
+== Rosario: Reunion 31 - Sabado 06/09/2008 - Balcarce Lounge - 14hs ==
 ##Son solo tentativas, proponer alternativas por la lista.
 '''Temas:''' * Presentacion del grupo de Rosario
  * Experiencia laboral
@@ -34,14 +34,14 @@
   1. Obtener un mínimo de personas interesadas (Ok)
   1. Fijar fecha y lugar tentativos (Ok)
   1. Seguir el !ReleaseProcedure (Ok)
-  1. Generar el temario
+  1. Generar el temario (Ok)
    Conocernos| Buscar coincidencias en proyectos| Establecer pautas de colaboracion|
-  1. Armar una lista de asistentes
-  1. Fijar fecha y lugar definitivos
-  1. Definir quien dirigirá la reunión
-  1. Publicar recordatorios en la lista
-  1. Publicar recordatorio en el sitio
-  1. Publicar recordatorios el día de la reunión
+  1. Armar una lista de asistentes (Ok)
+  1. Fijar fecha y lugar definitivos (Ok)
+  1. Definir quien dirigirá la reunión (?)
+  1. Publicar recordatorios en la lista (Ok)
+  1. Publicar recordatorio en el sitio (?)
+  1. Publicar recordatorios el día de la reunión (?)
  1. Tareas posteriores a la reunión
   1. Eliminar el anuncio de la página de Inicio
   1. Editar Eventos/Reuniones/ProximaReunion
