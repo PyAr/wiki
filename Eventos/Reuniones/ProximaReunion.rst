@@ -26,6 +26,7 @@
 ||José Teneb ||
 ||Juan Pablo Giménez||
 ||ManuelKaufmann (humitos)||
+|| x-ip ||
 
 
 === Release Procedure ===
