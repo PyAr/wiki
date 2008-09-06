@@ -18,15 +18,15 @@
 
 ''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
 
-||SantiagoSuarezO ||
-||Osvaldo Campilongo -Rick_Hunter- ||
+||SantiagoSuarezO || Presente
+||Osvaldo Campilongo -Rick_Hunter- || Presente
 ||Fabián Ezequiel Gallina -Galli- ||
 ||Gustavo Andrés Morero -Gus- ||
 ||Ernesto Savoretti -Sandy- ||
 ||José Teneb ||
-||Juan Pablo Giménez||
+||Juan Pablo Giménez|| Presente
 ||ManuelKaufmann (humitos)||
-||AlsoKnownAsEkisIp (x-ip) ||
+||AlsoKnownAsEkisIp (x-ip) || Presente
 
 
 === Release Procedure ===
