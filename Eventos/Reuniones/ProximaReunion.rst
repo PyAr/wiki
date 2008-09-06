@@ -25,6 +25,7 @@
 ||Ernesto Savoretti -Sandy- ||
 ||José Teneb ||
 ||Juan Pablo Giménez||
+||ManuelKaufmann (humitos)||
 
 
 === Release Procedure ===
