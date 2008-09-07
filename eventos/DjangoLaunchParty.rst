@@ -15,3 +15,7 @@ Pongo una grilla, agreguen sus nombres, lugar donde querrian ir, y una x en los 
 || Chiquito || Python Santa Fe || x || x || x || x || x || x  ||
 || JuanjoConti || Python Santa Fe || x || x || x || x || x || x  ||
 || RenzoCarbonara || El Clasico || || || || x || x || x ||
+
+
+------------
+De Buenos Aires vamos hoy Domingo 7 de septiembre a las 22:00 al clasico.
