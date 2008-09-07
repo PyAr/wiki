@@ -14,3 +14,4 @@ Pongo una grilla, agreguen sus nombres, lugar donde querrian ir, y una x en los 
 || QliX=D! [aka EHB] || El Clasico ||   ||    || x || x ||    ||    ||
 || Chiquito || Python Santa Fe || x || x || x || x || x || x  ||
 || JuanjoConti || Python Santa Fe || x || x || x || x || x || x  ||
+|| RenzoCarbonara || El Clasico || || || || x || x || x ||
