@@ -5,10 +5,7 @@
 ## no hay reuniones programadas):
 ##
 = Próxima Reunión =
-Por el momento, no hay planificada una reunión. Si querés organizar alguna, o proponer temas
-para juntar ''quorum'' y que se organice, te invitamos a proponerlo en nuestra ListaDeCorreo.
-Te sugerimos consultar nuestro [wiki:Eventos/Reuniones/ReleaseProcedure ReleaseProcedure] para
-tener una idea de como organizar una reunión.
+Por el momento, no hay planificada una reunión. Si querés organizar alguna, o proponer temas para juntar ''quorum'' y que se organice, te invitamos a proponerlo en nuestra ListaDeCorreo. Te sugerimos consultar nuestro ["Eventos/Reuniones/ReleaseProcedure"] para tener una idea de como organizar una reunión.
 
 === Release Procedure ===
  1. Tareas comunes
@@ -29,7 +26,7 @@ tener una idea de como organizar una reunión.
   1. Editar Eventos/Reuniones/ProximaReunion
   1. Confeccionar la minuta
 
-## = Precaución! Warning! Achtung! =
+Reunion31## = Precaución! Warning! Achtung! =
 ## Como estamos armando dos o tres reuniones en simultáneo, esta página coordina todas!
 ## Ejemplo de formato:
 ## == Buenos Aires: Reunión 27 - Miércoles 07/05/2008 - Bar "El Clásico" - 19hs ==
