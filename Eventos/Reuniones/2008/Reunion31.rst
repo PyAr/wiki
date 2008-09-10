@@ -5,7 +5,7 @@
 ||Osvaldo Campilongo|| ||Rosario||
 ||Juan Pablo Gimenez|| ||Rosario||
 ||Ernesto Savoretti||Sandy||Rosario||
-||Santiago Suarez Ordeñez|| ||Rosario||
+||Santiago Suarez Ordoñez|| ||Rosario||
 ||Emiliano||X-IP||Rosario||
 ||Gustavo Andrés Moreno|| ||Rosario||
 ||Manuel Kaufmann||Humitos||Santa Fe||
