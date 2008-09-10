@@ -17,5 +17,6 @@
  *Se decidió apoyar un proyecto de desarrollos de juegos para discapacitados auditivos, propuesto por Juan Pablo.
  *También hablamos de cómo cada uno conoció Python, las 3ras Jornadas de Python en Santa Fe, Pyweek, organización del grupo de PyAr Rosario, X-IP hizo un sitio web en 15 minutos con plone sobre PyAr Rosario (¡Groso!).
  *Para finalizar intentamos instalar un modem Huawei de CTI para Internet inalámbrica en cualquier lado dónde llegue la señal de CTI (el driver estaba hecho en Python) en una notebook con Debian que (hasta donde yo se, nunca volvió a encender :D).
+ *Hablamos de la escacés de libros de Python en castellano que se encuentran en las librerías, sobre la traducción del libro de Django como así también la del tutorial de Python, cómo aprender Python, recomendación de libros y quizás algunas cosas más
 
  *Se definió continuar con las reuniones en un plazo estimado de 60 días, si bien se seguirán en contacto por las listas de Pyar Argentina y el sitio PyAr Rosario.
