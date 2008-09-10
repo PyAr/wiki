@@ -26,7 +26,8 @@ Por el momento, no hay planificada una reunión. Si querés organizar alguna, o 
   1. Editar Eventos/Reuniones/ProximaReunion
   1. Confeccionar la minuta
 
-Reunion31## = Precaución! Warning! Achtung! =
+Reunion31
+## = Precaución! Warning! Achtung! =
 ## Como estamos armando dos o tres reuniones en simultáneo, esta página coordina todas!
 ## Ejemplo de formato:
 ## == Buenos Aires: Reunión 27 - Miércoles 07/05/2008 - Bar "El Clásico" - 19hs ==
