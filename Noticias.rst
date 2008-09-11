@@ -19,6 +19,9 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 
+==== 11/09/2008 ====
+ * PyAr se enorgullece de ser espónsor del Primer Encuentro por una Educación Libre, EPUEL08, que se desarrollará mañana 12 de septiembre de 9 a 19hs, bajo la convocatoria de Cáritas San isidro, la Escuela de Oficios San Cayetano (CFP401), Gleducar y la Fundación Vía Libre, en la sede de Cáritas San Isidro,  Ituzaingo 90. Más información en http://www.epuel.org.ar/
+
 ==== 21/08/2008 ====
  * El Jueves 21 de Noviembre se realizó la Reunión 30 de PyAr, con record absoluto de asistentes. Más info en [wiki:Eventos/Reuniones/Reunion30 Reunion30].
 
