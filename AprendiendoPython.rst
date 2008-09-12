@@ -19,6 +19,8 @@ Ahora, ¿a dónde podrías recurrir para obtener información que te inicie en l
 
  * Listado de ["ejercicios"] para practicar Python.
 
+ * Para los impacientes, para quienes quieren impresionar al jefe, para los que gustan de las ejemplos cortos, simples y efectivos, están estos MiniEjemplos.
+
  * Y por último, el único, original e inimitable, clásico de clásicos que casi todos en la lista usamos para empezar: el [http://www.python.org/doc/tut/ Tutorial de Python]
 
  * [http://pyspanishdoc.sourceforge.net/ Este] es un proyecto público y libre para mantener '''toda''' la documentación de Python traducida a nuestro idioma.
