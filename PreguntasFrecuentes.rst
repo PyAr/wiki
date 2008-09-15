@@ -61,6 +61,10 @@ Con respecto a si hay realmente diferencia en cuanto a velocidad y tamaño en me
 
 Mas info en [http://www.python.org/doc/faq/es/general/#por-qu-hay-tipos-de-datos-tuplas-y-listas-separados FAQ General de Python]
 
+=== ¿Cuales son los cambios en Python 3.0 (Python 3000) la nueva versión del lenguaje? ===
+
+En la página Python3Mil se encuentra la información sobre Python 3k, cambios en el lenguaje, compatibilidad hacia atras, calendario aproximado. 
+
 == Sobre Python (el interprete) ==
 === ¿Cuales son los interpretes que puedo usar? ===
 
@@ -68,6 +72,7 @@ Las opciones disponibles son:
  * La consola interactiva por defecto de python (viene con la instalacion, solo hay que escribir python)
  * [http://en.wikipedia.org/wiki/IDLE_(Python) IDLE]
  * [http://ipython.scipy.org/moin/About ipython]
+ * [http://www.wxpython.org/py.php PyCrust/PyShell] (incluido en [http://www.wxpython.org/ wxPython])
 
 === ¿Como puedo configurar mi interprete para que sea mas amigable? ===
 
@@ -76,160 +81,68 @@ Si estas usando el interprete interactivo por defecto de python, se recomienda l
  * GuardarHistorialEnConsolaInteractiva: Explica como guardar el historial de comandos entre sesiones en la consola interactiva.
  * [http://www.eseth.org/2008/pimp-pythonrc.html recursos externos]
 
-== Usando Bases de Datos ==
-=== ¿Cómo me conecto a una base de datos con MySQL? ===
-Este es un ejemplo basico de como hacerlo con MySQL:
-{{{
->>> import MySQLdb
->>> db = MySQLdb.connect(host="localhost", user="root",
-... passwd="mypassword", db="PythonU")
-}}}
-Una vez establecida la conexion, hay que crear un "cursor". Un cursor
-es una estructura de control que se usa para recorrer (y eventualmente
-procesar) los records de un result set.
+== Construyendo Aplicaciones ==
 
-El metodo para crear el cursor se llama, originalmente, cursor():
-{{{
->>> cursor = db.cursor()
-}}}
-Ya tenemos la conexion establecida y el cursor creado, es hora de
-ejecutar algunos comandos SQL:
-{{{
->>> cursor.execute("SELECT * FROM Students")
-5L
-}}}
-El metodo execute se usa para ejecutar comandos SQL. Note que no hace
-falta agregar el ';' (punto y coma) al final del comando. Ahora es
-cuestion de recorrer el objeto cursor.
+=== Usando Bases de Datos ===
 
-Para obtener un solo elemento, usamos fetchone():
-{{{
->>> cursor.fetchone()
-(1L, 'Joe', 'Campbell', datetime.date(2006, 2, 10), 'N')
+==== Como conectarse a bases de datos y ejecutar consultas ====
 
->>> cursor.fetchall()
-((1L, 'Joe', 'Campbell', datetime.date(2006, 2, 10), 'N'),
-(2L, 'Joe', 'Doe', datetime.date(2004, 2, 16), 'N'),
-(3L, 'Rick', 'Hunter', datetime.date(2005, 3, 20), 'N'),
-(4L, 'Laura', 'Ingalls', datetime.date(2001, 3, 15), 'Y'),
-(5L, 'Virginia', 'Gonzalez', datetime.date(2003, 4, 2), 'N'))
-}}}
-Cual metodo usar dependera de la cantidad de datos que tengamos, la
-memoria disponible en la PC y sobre todo, de como querramos hacerlo.
-Si estamos trabajando con datasets limitados, no habra problema con el
-uso de fetchall(), pero si la base de datos es lo suficientemente
-grande como para entrar en memoria, se podria implementar una
-estrategia como la que se encuentra aca:
-{{{
-import MySQLdb
-db = MySQLdb.connect(host="localhost", user="root",passwd="secret", db="PythonU")
-cursor = db.cursor()
-recs=cursor.execute("SELECT * FROM Students")
-for x in range(recs):
-   print cursor.fetchone()
-}}}
-O directamente:
-{{{
-import MySQLdb
-db = MySQLdb.connect(host="localhost", user="root",passwd="secret", db="PythonU")
-cursor = db.cursor()
-cursor.execute("SELECT * FROM Students")
-for row in cursor:
-   print row
-}}}
-(Sebastian Bassi)
+La página DbApi contiene la información relativa al Acceso a Bases de Datos desde Python (Interface DB-API), sobre como conectarse (mysql, postgresql, etc.), ejecutar consultas, armar queries, escapear comillas, etc.
 
-=== ¿Cómo me conecto a una base de datos con PostgreSQL? ===
+==== ORMs: Interfaces Objeto-Relacional ====
 
-Otro ejemplo basico de como hacerlo con PostgreSQL (similar al de MySQL). 
-Se usó el esquema: {{{CREATE TABLE estudiante ( nombre varchar,  apellido varchar,  fecha date,  booleano bool,  legajo serial PRIMARY KEY);}}}
-Antes que nada se debe instalar el conector ([http://www.initd.org/tracker/psycopg/wiki/PsycopgTwo para unix y windows]).
+Acceder a bases de datos a traves de Db-Api es relativamente de bajo nivel. Se pueden utilizar Object-Relational-Mappers de mas alto nivel (similar a Hibernate en el mundo java).
+Los ORMS mas importantes para python son:
+ * [http://www.sqlalchemy.org/ SqlAlchemy]: Un mapeador que dice ser simple, eficiente y extensible
+ * [http://sqlobject.org/ SqlObject]
+ * [http://storm.canonical.com/ Storm]: El nuevo mapeador de Canonical (Ubuntu)
 
+Por el momento no hay ningún concenso en la lista sobre cual es mejor o peor.
 
-Primero importar el conector y crear la conexión a la base de datos:
-{{{
->>> import psycopg2, psycopg2.extras
->>> conn = psycopg2.connect(database='test',user='postgres',password='pass', host='localhost')
-}}}
+=== Programación de interfaces gráficas (toolkits) ===
 
+La página InterfacesGraficas describe las diversas opciones disponibles en Python: wx, gtk, qt, etc., sus comparaciones, ventajas y desventajas y código de ejemplo. 
 
-Luego crear un cursor para obtener los datos y ejecutar consulta:
-{{{
->>> cur = conn.cursor()
->>> cur.execute("SELECT * FROM estudiante")
->>> rows=cur.fetchall()
->>> print rows
+En el [Recetario] hay ejemplos de como empezar a construir interfaces en python.
 
-[['Joe', 'Capbell', datetime.date(2006, 2, 10), False, 1], ['Joe', 'Doe', datetime.date(2004, 2, 16), False, 2], ['Rick', 'Hunter', datetime.date(2005, 3, 20), False, 3], ['Laura', 'Ingalls', datetime.date(2001, 3, 15), True, 4], ['Virginia', 'Gonzalez', datetime.date(2003, 4, 2), False, 5]]
-}}}
+=== Programación WEB ===
 
+==== Interfaz WSGI ====
+La página ["WSGI"] contiene información sobre la espeficiación para servidores web de python, comparación entre mod_python vs mod_wsgi vs servidores embebidos, performance, como usarlos y configurarlos, ejemplos.
 
-Algo más pitónico es crear el cursor simil diccionario (en vez de una lista de valores):
-{{{
->>> cur = conn.cursor(cursor_factory=psycopg2.extras.DictCursor)   
->>> cur.execute("SELECT * FROM estudiante")
->>> for row in cur: # itero sober cada fila
->>>    # row es un diccionario, con las claves = nombres de campos
->>>    print "Nombre y Apellido: %s, %s " % (row['nombre'],row['apellido'])
-    
-Nombre y Apellido: Joe, Capbell 
-Nombre y Apellido: Joe, Doe 
-Nombre y Apellido: Rick, Hunter 
-Nombre y Apellido: Laura, Ingalls 
-Nombre y Apellido: Virginia, Gonzalez 
-}}}
+==== Frameworks Webs ====
 
+Para construir aplicaciones web complejas en python se pueden usar alguno de los principales frameworks web:
+ * [http://www.djangoproject.com Django]: framework de alto nivel para desarrollo rapido y diseño claro y pragmático
+ * [http://turbogears.org/ Turbogears]: el megaframework que combina CherryPy, Kid, SQLObject y MochiKit.
+ * [http://www.zope.org Zope]: el "abuelo" de los frameworks web de python
+ * [http://pylonshq.com Pylons]: framework liviano que enfatiza flexibilidad y desarrollo rápido
+ * [http://webpy.org WebPy]: framework simple "todo-en-uno" sin dependencias
 
-'''Nota:''' esto es propio del conector psycopg2. Igualmente otros conectores tambien lo soportan o se puede imitar (leyendo el atributo description del cursor que tiene la información de los campos):
-{{{
->>> print cur.description
-(('nombre', 1043, 8, -1, None, None, None), ('apellido', 1043, 8, -1, None, None, None), ('fecha', 1082, 10, 4, None, None, None), ('booleano', 16, 1, 1, None, None, None), ('legajo', 23, 1, 4, None, None, None))
-}}}
+==== Herramientas webs ====
+ * [http://plone.org/ Plone]: Completo sistema de manejo de contenidos (CMS)
+ * [http://moinmo.in/ MoinMoin]: La Wiki hecha en python
+ * [http://trac.edgewall.org Trac]: El sistema de gestión de proyectos hecho en python
 
+== Python en la vida real ==
 
-=== ¿Cómo escapo las comillas al armar un Query? ===
+=== Performance/Estabilidad de Python, ¿se la banca? ===
 
-'''Pregunta:'''
+En ocasiones se pregunta a la lista si Python esta a la altura de las circunstancias, como se compara la velocidad/uso de memoria con VB, C, .NET, Java, etc. En la página RendimientoPythonVsJavaVsNet hay un resumen de los comentarios vertidos a la lista.
 
-Hola chicos. Estoy con un inconveniente que no puedo solventar.
-Tengo una funcion de python que genera unos querystrings para postgres.
+=== ¿Que aplicaciones (conocidas) estan hechas en python? ===
 
-Mi problema empieza cuando, por ejemplo hay uno de esos apellidos que
-tienen ', Ej: D'agostino
+Las siguientes aplicaciones se pueden ver/probar/evaluar para conocer el lenguaje y ver su capacidad/rendimiento: 
+ * [http://www.bittorrent.com BitTorrent] (original): programa para compartir archivos p2p (interfaz wx)
+ * [http://es.clamwin.com ClamWin]: el antivirus libre, frontend de clamav (interfaz wx)
+ * [http://www.openerp.com OpenErp] (ex TinyErp): completo sistema de gestión empresarial en tres capas (interfaz gtk)
+ * [http://meld.sourceforge.net Meld]: visor de diferencias (interfaz gtk)
+ * [http://trac.edgewall.org Trac]: sistema de gestión de proyectos (interfaz web)
 
-como resultado me queda el string (ejemplo)
+En el ambito local:
+ * [http://www.fierro-soft.com.ar Sistema Fierro]: sistema de gestión para librerias y editoriales (interfaz wx)
 
-{{{
-'insert into personas (apellido) values ("D'agostino")'
-}}}
-
-'''Respuesta:'''
-
-Lo que tendrías que hacer es que postgres te escapee automaticamente los
-valores, usando los parámetros de db-api (segúndo argumento del metodo
-execute del cursor):
-
-{{{
-  cur = conn.cursor()
-  cur.execute("insert into personas (apellido) values (%s)" , ["D'agostino"])
-}}}
-
-Así, automáticamente postgres sabe, según el tipo de datos del parámetro, en
-este caso un string = "D'agostino", como escapear y formatear el sql para
-que no de error.
-
-Ademas, esto es mas seguro frente a ataques por "inyección de sql", porque
-el formateo es automático, en vez de usar directamente el operador % sobre
-el query y pasarselo cocinado a la base.
-
-Para hacerlo más robusto, podrías usar diccionario con los parametros (es
-más seguro en el caso que tengas varios parámetros, para evitar errores):
-
-{{{
-  cur.execute("insert into personas (apellido) values (%(apellido)s)" , {"apellido":"D'agostino"})
-}}}
-
-''Gracias Mariano Reingart por la respuesta!'''
+Nota: la lista no pretende ser completa, solo se presentan algunas de las aplicaciones más conocidas, relevantes y/o utilizadas por gran numero de personas.
 
 == Preguntas surtidas ==
 
