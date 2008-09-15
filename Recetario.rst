@@ -48,6 +48,10 @@ GtkTextArea : ejemplo sobre manipulacion basica de un area de texto con scroll
 
 GtkGladeSignals : manejo basico de señales
 
+=== Pythoncard (wxPython) ===
+
+PythonCard: Ejemplo de como hacer una aplicación de escritorio desde 0 (para principiantes)
+
 == Emails ==
 === GMail ===
 /GmailMail : Cómo enviar emails usando Gmail como SMTP
