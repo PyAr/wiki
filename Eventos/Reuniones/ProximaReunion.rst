@@ -37,6 +37,7 @@
 
 || SebastianAlvarez ||
 || DanielMoisset ||
+|| RamiroMorales ||
 
 
 === Release Procedure ===
