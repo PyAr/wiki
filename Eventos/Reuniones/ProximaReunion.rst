@@ -39,7 +39,7 @@
 || DanielMoisset ||
 || RamiroMorales ||
 || HoracioDuran ||
-|| EmilioRamirez ||
+|| --( EmilioRamirez )-- ||
 
 === Release Procedure ===
  1. Tareas comunes
