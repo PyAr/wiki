@@ -39,7 +39,9 @@
 || DanielMoisset ||
 || RamiroMorales ||
 || HoracioDuran ||
-
+|| EmanuelSartor ||
+|| nueces ||
+|| SantiagoBruno ||
 
 === Release Procedure ===
  1. Tareas comunes
