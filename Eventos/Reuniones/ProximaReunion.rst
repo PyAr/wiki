@@ -5,9 +5,7 @@
 ## no hay reuniones programadas):
 ##
 = Próxima Reunión =
-## Por el momento, no hay planificada una reunión. Si querés organizar alguna, o proponer temas para juntar ''quorum'' y que se organice, te invitamos a proponerlo en nuestra ListaDeCorreo. Te sugerimos consultar nuestro ["Eventos/Reuniones/ReleaseProcedure"] para tener una idea de como organizar una reunión. ##
-
-
+Por el momento, no hay planificada una reunión. Si querés organizar alguna, o proponer temas para juntar ''quorum'' y que se organice, te invitamos a proponerlo en nuestra ListaDeCorreo. Te sugerimos consultar nuestro ["Eventos/Reuniones/ReleaseProcedure"] para tener una idea de como organizar una reunión.
 ## === Release Procedure === ##
 ## 1. Tareas comunes ##
 ##  1. Proponer la reunión ##
@@ -26,41 +24,6 @@
 ##  1. Eliminar el anuncio de la página de Inicio ##
 ##  1. Editar Eventos/Reuniones/ProximaReunion ##
 ##  1. Confeccionar la minuta ##
-
-
-== Córdoba: Reunion 32 - Jueves 18-09-08 - Except (Montevideo 728 PB) - 20hs ==
-'''Temas:'''
-
- * PyDay Noviembre 2008
-
-''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
-
-|| SebastianAlvarez ||
-|| DanielMoisset ||
-|| RamiroMorales ||
-|| HoracioDuran ||
-|| EmanuelSartor ||
-|| nueces ||
-|| SantiagoBruno ||
-
-=== Release Procedure ===
- 1. Tareas comunes
-  1. --( Proponer la reunión )--
-  1. --( Obtener un mínimo de peesonas interesadas )--
-  1. --( Fijar fecha y lugar tentativos )--
-  1. --( Seguir el !ReleaseProcedure )--
-  1. --( Generar el temario )--
-   --( Conocernos| Buscar coincidencias en proyectos| Establecer pautas de colaboracion| )--
-  1. Armar una lista de asistentes
-  1. --( Fijar fecha y lugar definitivos )--
-  1. --( Definir quien dirigirá la reunión )--
-  1. --( Publicar recordatorios en la lista )--
-  1. Publicar recordatorio en el sitio
-  1. Publicar recordatorios el día de la reunión
- 1. Tareas posteriores a la reunión
-  1. Eliminar el anuncio de la página de Inicio
-  1. Editar Eventos/Reuniones/ProximaReunion
-  1. Confeccionar la minuta
 
 ## = Precaución! Warning! Achtung! =
 ## Como estamos armando dos o tres reuniones en simultáneo, esta página coordina todas!
