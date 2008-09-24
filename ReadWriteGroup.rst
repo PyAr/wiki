@@ -25,6 +25,7 @@
  * LauBenech
  * LeitoMonk
  * ManuelKaufmann
+ * ManuelQuiñones
  * MarceloFernández
  * MarceloRinesi
  * MarianoCortesi
