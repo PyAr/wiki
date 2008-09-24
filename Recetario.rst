@@ -17,6 +17,9 @@ AutocomplecionEnConsolaInteractiva: tip sobre como agregar autocompleción con t
 === validar_cuit ===
 ValidarCuit : Función para validar un CUIT/CUIL estilo 00-00000000-0
 
+=== Normalizar caracteres Unicode ===
+Es bueno /NormalizarCaracteresUnicode para hacer búsquedas en strings sin que se tengan en cuenta los caracteres latinos, como los acentos y la eñe.
+
 == Interfaces graficas ==
 === Gtk ===
 GtkHolaMundo : una ventana que muestra el mensaje hola mundo
