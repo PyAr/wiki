@@ -1,11 +1,11 @@
-== Web Server Gategay Interface ==
+== Web Server Gateway Interface ==
 
 WSGI es una interface simple y universal entre los servidores web y las aplicaciones web o frameworks (ver más en  [http://www.python.org/dev/peps/pep-0333/ PEP 333])
 
 WSGI es similar a la especificación Java Servlet o ASP/ASP.NET. En general, es mucho más simple que dichas especificaciones, y se basa en el estandard CGI con mejoras "pitónicas" para hacerla reentrante, persistente, etc.
 
 === Resumen de la Especificación ===
- * Del lado de la aplicación, se especifica un punto de entrada (objeto, método, función), con dos parámetros: las variables de entorno ({{{environ}}} y la funcion para iniciar la respuesta {{{start_response(status,response_headers)}}} que envía el estado y los encabezados), y debe devolver un iterable con los datos para enviar al cliente.
+ * Del lado de la aplicación, se especifica un punto de entrada (objeto, método, función), con dos parámetros: las variables de entorno ({{{environ}}} y la función para iniciar la respuesta {{{start_response(status,response_headers)}}} que envía el estado y los encabezados), y debe devolver un iterable con los datos para enviar al cliente.
  * Del lado del servidor, se invoca la aplicación por cada pedido que recibe del cliente HTTP, con las variables de entorno establecidas (estilo CGI)
 
 === Ejemplo ===
@@ -40,17 +40,17 @@ El diccionario {{{environ}}} que se recibe con cada pedido HTTP, contiene las va
 === Configuración apache + mod_python  ===
 mod_python tiene varios handlers o "controladores" (ver [http://www.modpython.org/live/current/doc-html/ documentación]):
  * Handler PSP: utilizado para procesar documentos .psp con código python y html mezclado (similar a PHP)
- * Handler CGI: emula el entorno CGI (no confundir con WSGI). No es reentrante ni persistente, y es el método más lento para ejecutar scripts web, pero a su vez es historicamente "compatible" con scripts viejos.
- * Handler Publisher: es un poco mas de "alto nivel". En general, se usaría si uno quiere hacer una aplicación sencilla, con las url mapeadas automaticamente a funciones, etc.
+ * Handler CGI: emula el entorno CGI (no confundir con WSGI). No es reentrante ni persistente, y es el método más lento para ejecutar scripts web, pero a su vez es históricamente "compatible" con scripts viejos.
+ * Handler Publisher: es un poco mas de "alto nivel". En general, se usaría si uno quiere hacer una aplicación sencilla, con las url mapeadas automáticamente a funciones, etc.
 
  * Handler propio: más rapido, pero a costa de tener que programar a mas "bajo nivel" (directamente con las interfaces de apache). Aplicaciones mas avanzadas que requieren un mayor control sobre las url, encabezados, etc., usan handlers propios (ejemplo: trac, moin, etc.):
 
-Igualmente, estos Handlers no son compatibles con WSGI, por eso no recomendaria usar ninguno de ellos directamente, sino a traves del wrapper WSGI (con [http://www.aminus.net//wiki/ModPythonGateway ModPythonGateway]) que es un handler "propio" que traduce las peticiones al estandar WSGI. 
+Igualmente, estos Handlers no son compatibles con WSGI, por eso no recomendaría usar ninguno de ellos directamente, sino a través del wrapper WSGI (con [http://www.aminus.net//wiki/ModPythonGateway ModPythonGateway]) que es un handler "propio" que traduce las peticiones al estandar WSGI. 
 Es algo mucho mas estandar, valga la redundancia, y el día de mañana se puede usar cualquier servidor compatible con python, no solo apache.
 
 Además, puede utilizarse directamente mod_wsgi (ver siguiente sección).
 
-Ejemplos de configuración (tanto en /etc/apache2/... en un archivo .htacces en el mismo directorio):
+Ejemplos de configuración (tanto en /etc/apache2/... en un archivo .htaccess en el mismo directorio):
 
 {{{
   # handler Publisher:
@@ -97,9 +97,9 @@ PythonOption SCRIPT_NAME /app
 Descripción:
  * Se habilita el handler propio
  * Se establece el handler a ejecutar (en este caso, el wrapper wsgi)
- * Se epecifican las opciones de la aplicación wsgi (app es el nombre de archivo, WSGIApp es el punto de entrada)
- * Se agerga el script de la aplicación al path para poder ejecutarla
- * Se establece el nombre del script a mostrar (sino, en ocaciones, apache puede informar mal o de manera distinta el nombre de script con problemas en el ruteo de urls)
+ * Se especifican las opciones de la aplicación wsgi (app es el nombre de archivo, WSGIApp es el punto de entrada)
+ * Se agrega el script de la aplicación al path para poder ejecutarla
+ * Se establece el nombre del script a mostrar (sino, en ocasiones, apache puede informar mal o de manera distinta el nombre de script con problemas en el ruteo de urls)
 
 
 
@@ -131,7 +131,7 @@ WSGIApplicationGroup %{GLOBAL}
 
 
 === Ejemplo "avanzado" ===
-Con respecto a la diferencia con PHP/PSP, la mayoria de las aplicaciones web en python tienen un solo punto de entrada (un solo .py), que funciona como "despachador", dependiendo de que url te piden, se llama a una función o a otra (generalmente se usa la variable de entorno SCRIPT_NAME o similar, o directamente usar cherrypy, django, turbogears, etc., para que ruteen las peticiones a las clases/funciones que correspondan)
+Con respecto a la diferencia con PHP/PSP, la mayoría de las aplicaciones web en python tienen un solo punto de entrada (un solo .py), que funciona como "despachador", dependiendo de que url te piden, se llama a una función o a otra (generalmente se usa la variable de entorno SCRIPT_NAME o similar, o directamente usar cherrypy, django, turbogears, etc., para que ruteen las peticiones a las clases/funciones que correspondan)
 
 Ejemplo muy simple con WSGI:
 {{{
@@ -150,8 +150,8 @@ inválida!</p></body></html>"
 Entonces, si te llaman www.tuservidor.com/aplicacion/xxxx haces una cosa (xxxx), mientras que si llaman a www.tuservidor.com/aplicacion/yyyy haces otra (yyyy).
 En comparación con php/psp, sería como llamar a www.tuservidor.com/aplicacion.psp?funcion=xxxx o www.tuservidor.com/aplicacion.psp?funcion=yyyy.
 
-Esto es un poco mas dificil de entender, pero a la larga es mas flexible porque 
-no te limita a tener un archivo (estructura "fisica") para cada direccion 
-(estructura "logica"), limpiando un poco la url de extenciones .py, signos 
-de interrogacion, etc. , haciendolas mas fáciles de entender para el 
+Esto es un poco mas difícil de entender, pero a la larga es mas flexible porque 
+no te limita a tener un archivo (estructura "física") para cada dirección 
+(estructura "lógica"), limpiando un poco la url de extensiones .py, signos 
+de interrogación, etc. , haciéndolas mas fáciles de entender para el 
 usuario.
