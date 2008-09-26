@@ -43,6 +43,12 @@ Geany es un editor de texto que usa el toolkit GTK2 toolkit con funciones básic
 
 [http://www.geany.org/]
 
+=== WingIDE ===
+
+Bastante completo y multiplataforma, hecho especialmente para python. Tiene versiones comerciales y versiones gratis.
+
+[http://www.wingware.com/]
+
 == Editores de texto avanzados ==
 
 === Vim ===
@@ -68,3 +74,10 @@ Gedit es el editor por defecto de gnome, mientras que apunta a la simplicidad y 
 Kate es el editor de texto con capacidades extra de kde, tiene algunas características que facilitan el desarrollo de software.
 
 [http://kate-editor.org/]
+
+=== Textmate ===
+
+Corre solo en MacOSX, muy facilmente customizable en cualquier lenguaje. Uno puede hacer un script y registrarlo como comando, ese script puede recibir el texto actualmente seleccionado, el documento actual, y alguna otra cosa que no recuerdo. El script lo procesa y devuelve un texto, que puede ser usado para reemplazar la seleccion actual, ponerse en un documento nuevo, y alguna otra cosa que no me acuerdo.
+Tiene una licencia comercial y privativa pero si sos usuario de OSX seguramente no te moleste.
+
+[http://macromates.com/]
