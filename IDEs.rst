@@ -77,7 +77,11 @@ Kate es el editor de texto con capacidades extra de kde, tiene algunas caracter�
 
 === Textmate ===
 
-Corre solo en MacOSX, muy facilmente customizable en cualquier lenguaje. Uno puede hacer un script y registrarlo como comando, ese script puede recibir el texto actualmente seleccionado, el documento actual, y alguna otra cosa que no recuerdo. El script lo procesa y devuelve un texto, que puede ser usado para reemplazar la seleccion actual, ponerse en un documento nuevo, y alguna otra cosa que no me acuerdo.
+Corre solo en MacOSX, muy fácilmente personalizable en cualquier lenguaje. Uno puede hacer un script y registrarlo como comando, ese script puede recibir el texto actualmente seleccionado, el documento actual, y alguna otra cosa que no recuerdo. El script lo procesa y devuelve un texto, que puede ser usado para reemplazar la seleccion actual, ponerse en un documento nuevo, y alguna otra cosa que no me acuerdo.
 Tiene una licencia comercial y privativa pero si sos usuario de OSX seguramente no te moleste.
 
 [http://macromates.com/]
+
+=== Scribes ===
+
+[http://scribes.sourceforge.net/ Scribes] es un editor de textos para GNOME escrito en Python. Entre sus [http://scribes.sourceforge.net/features.html características] se destacan: autocompletado , templates (también conocido como '''snippets'''), indentado automático y marcado de línea (bookmarks).
