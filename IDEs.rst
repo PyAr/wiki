@@ -84,4 +84,4 @@ Tiene una licencia comercial y privativa pero si sos usuario de OSX seguramente 
 
 === Scribes ===
 
-[http://scribes.sourceforge.net/ Scribes] es un editor de textos para GNOME escrito en Python. Entre sus [http://scribes.sourceforge.net/features.html características] se destacan: autocompletado , templates (también conocido como '''snippets'''), indentado automático y marcado de línea (bookmarks).
+[http://scribes.sourceforge.net/ Scribes] es un editor de textos para GNOME escrito en Python. Entre sus [http://scribes.sourceforge.net/features.html características] se destacan: autocompletado , templates (también conocido como '''snippets'''), indentado automático y marcado de línea (bookmarks). Vean la [http://scribes.sourceforge.net/demo.htm demostración] para enamorarse ;)
