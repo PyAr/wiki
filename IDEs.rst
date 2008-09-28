@@ -49,6 +49,13 @@ Bastante completo y multiplataforma, hecho especialmente para python. Tiene vers
 
 [http://www.wingware.com/]
 
+=== IDLE ===
+
+Es parte de la distribución de Python. Muy buen soporte del lenguaje, class browser, debug y otras características. Lo mejor: el autocompletado (expand-word) es utilizando las palabras que encuentra en el archivo lo cual es muy simple y muy útil ("Simple is better than complex"). Lo peor: no usa solapas, cada archivo que abrís es una ventana aparte.
+
+[http://www.python.org/idle/doc/idlemain.html]
+
+
 == Editores de texto avanzados ==
 
 === Vim ===
