@@ -106,7 +106,7 @@
 === Menttes ===
  * Contacto: [[MailTo( info AT menttes DOT com, Info)]]
 
- * URL: ["http://www.menttes.com"]
+ * URL: http://www.menttes.com
 
  * Teléfono: (0351) 5680147
 
