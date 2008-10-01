@@ -4,15 +4,15 @@
 Por favor, anoten a continuación qué quieren:
 
 || --(FacundoBatista)-- ||  --(1 M negra, 1 M azul, 1 L negra, 1 L azul, 1 L verde)-- ||
-|| NubIs ||  1 XL negra, --(1 S verde, 1 S azul, 1 L azul, 1 L verde)-- ||
-|| PabloZiliani || 1 XL negra, 1 XL azul ||
+|| --(NubIs)-- ||  --(1 XL negra, 1 S verde, 1 S azul, 1 L azul, 1 L verde)-- ||
+|| --(PabloZiliani)-- || --(1 XL negra, 1 XL azul)-- ||
 || --(LucioTorre)-- || --(1 XL azul)-- ||
 || MarianoMara || 1 XXL negra, 1 XXL azul ||
 || MartinConteMacDonell || 1 M azul ||
 || --(JohnLenton)-- || --(2 XL azul, 2XXS azul :-?)-- ||
 || --(["AlejandroJCura"])-- || --(1 L azul, 1 L verde, 1 XXS verde)-- ||
 || --(MarianoDraghi)-- || --(1 L azul, 1 L verde)-- ||
-|| MarioZorz || 1 M azul, 1 M negra, 1 L azul, 1 L negra ||
+|| --(MarioZorz)-- || --(1 M azul, 1 M negra, 1 L azul, 1 L negra)-- ||
 || --(DanielTinivella)-- ||  --(1 L Blanca, 1 L Negra)-- ||
 || --(Tomas Zulberti)-- ||  --(1 L Verde, 1 L Negra)-- ||
 || --(Otto Wald)-- || --(1 L negra, 1 L azul)-- ||
@@ -28,7 +28,7 @@ Por favor, anoten a continuación qué quieren:
 || RicardoArmas || 1 L verde ||
 || --(SantiagoSuarezO)-- || --(1 M azul, 1 M verde)-- ||
 || MauroCaceres || 1 M azul ||
-|| PabloCarballo || 1 M azul ||
+|| --(PabloCarballo)-- || --(1 M azul)-- ||
 || --(ManuelKaufmann)-- || --(1 L azul)-- ||
 || MarcosAlcazar || 1 S azul ||
 || --(AlejandroLuna)-- || --(1 M azul)-- ||
@@ -39,24 +39,24 @@ Por favor, anoten a continuación qué quieren:
 || --(JuanCruzMartinez)-- || --(1 S negra, 1 XXL negra, 1 XXL azul)-- ||
 || --(RobertoDhios)-- || --(1 XL negra, 1 XL azul)-- ||
 || --(GonzaloALmeida)-- || --(1 L negra, 1 L verde)-- ||
-|| AldoNievas || --(1 XL negra)--, 1 XL azul ||
+|| --(AldoNievas)-- || --(1 XL negra, 1 XL azul)-- ||
 || Point_to_null || 1 L Azul ||
 || --(DanielMoisset)-- || --(1 M Azul)-- ||
 || --(HectorSanchez)-- || --(1 XL azul, 1 XL verde)-- ||
-|| Viviana Oviedo || 1 S negra ||
-|| SantiagoPereson || 1 L negra, 1 L azul ||
+|| --(Viviana Oviedo)-- || --(1 S negra)-- ||
+|| --(SantiagoPereson)-- || --(1 L negra, 1 L azul)-- ||
 ||  --(RobertoRodriguez)-- || --(1 M Azul)-- ||
 || GabrielPatiño || 1 L Azul, 1 L Verde ||
 || --(HoracioDuran)-- || --(1 M negra, 1 M azul,1M verde, 1M blanca)-- ||
 || --(NicoEchaniz)-- || --(1 M negra, 1M verde)-- ||
 || EmilioRamirez || 1 L negra ||
 || --(SergioVernis)-- || --(1 M azul y 1 S azul)-- ||
-|| LeitoMonk ||1 M azul y 1 M Verde ||
+|| --(LeitoMonk)-- || --(1 M azul y 1 M Verde)-- ||
 || --(SebastianFarioli)-- ||--(1 L negra, 1 L roja, 1 L blanca)-- ||
 || --(GuillermoHeizenreder)-- || --(1 XL azul, 1 XL verde)-- ||
-|| AlejandroDavidWeil ||2 L negras, 2 L rojas ||
+|| --(AlejandroDavidWeil)-- || --(2 L negras, 2 L rojas)-- ||
 || JuanColome || 2 L Negras, 1 M Negra ||
-|| GuillermoGonzalez ||  1 S blanca, --(1 M negra)--, 1 M azul, 1 L negra, 1 L azul, 1 L verde ||
+|| --(GuillermoGonzalez)-- ||  --(1 S blanca, 1 M negra, 1 M azul, 1 L negra, 1 L azul, 1 L verde)-- ||
 || IanKlaric || 1 L Negra, 1 L Azul ||
 || --(["dieresys"])-- || --(1 L negra, 1 L azul)-- ||
 || MaxiRobaina || 1 L azul ||
@@ -73,7 +73,7 @@ Por favor, anoten a continuación qué quieren:
 || --(MartinBorthiry)-- || --(1 M negra, 1 M azul)-- ||
 || --(MartinGaitan)-- || --(1 M verde, 1 L negra)-- ||
 || --(LeonardoDeLuca)-- || --(1 S verde, 1 M negra)-- ||
-|| GabrielGenellina || 1 L negra ||
+|| --(GabrielGenellina)-- || --(1 L negra)-- ||
 || --(JavierCastrillo)-- || --(1 XL negra, 1 XL verde)-- ||
 || MatiasGieco || 1 XL Azul ||
 || --(NatyBidart)--  || --(1 S Blanca, 1 M Azul)-- ||
