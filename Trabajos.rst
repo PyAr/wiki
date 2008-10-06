@@ -1,4 +1,6 @@
 = Trabajos con Python =
+ * (06/10/2008) Para importante proyecto de red social estamos en la búsqueda de un programador Python semi-senior o senior que tenga conocimientos de Django y MySQL. Es para trabajar en las oficinas de SATIO (http://www.satio.com.ar), ubicada en Belgrano, Capital Federal.  Para mas información, enviar CV a rrhh@satio.com.ar.  SATIO es una consultora de desarrollo de software, donde nos focalizamos en Open Source y metodologías Agiles.
+
  * (19/08/2008) wooobiz.com.ar, somos un start-up de gente que le gusta desarrollar software de calidad, simpatizantes del software libre, los estándares abiertos y las metodologías ágiles. Nuestras oficinas están ubicadas en San Telmo y estamos buscando gente talentosa y que comparta nuestros valores para sumarse al equipo. Podés leer mas acerca de las herramientas que usamos en http://woobiz.com.ar/es/about y escribir a nubis@woobiz.com.ar contando lo que te gustaria hacer.
 
  * (13/08/2008) Empresa de hosting está buscando programadores Junior en Python para armar nuevo equipo de desarrollo. Full-Time, 8hrs. en Capital Federal, enviar CV a ivan@reptoland.com
