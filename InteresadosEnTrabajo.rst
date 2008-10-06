@@ -7,3 +7,4 @@ Si usted se inscribe acá probablemente reciba emails contactándolo.
 ||MarceloAlaniz      ||  ||  ||  ||
 ||SantiagoSuarezO    ||  ||  ||  ||
 ||JohnLenton         ||  ||  || (físicamente en) Córdoba ||
+||GonzaloDelgado     ||  ||  || (físicamente en) Tucumán ||
