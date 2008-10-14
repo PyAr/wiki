@@ -10,3 +10,4 @@ Si usted se inscribe acá probablemente reciba emails contactándolo.
 ||JohnLenton ||  ||  || (físicamente en) Córdoba ||
 ||GonzaloDelgado ||  ||  || (físicamente en) Tucumán ||
 ||HernanOlivera ||  ||  || (teletrabajo)  ||
+||arturoeanton ||  ||  ||  ||
