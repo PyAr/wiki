@@ -28,7 +28,7 @@ texto plano)
 y su licencia debe ser tal que nos permita su libre distribución en CD
 o sitio web.
 
-La fecha límite de entrega es el sábado 18 de Octubre de 2008. Enviar las
+La fecha límite de entrega es el sábado 25 de Octubre de 2008. Enviar las
 mismas a la dirección antes mencionada.
 
 Se agradece difusión. Muchas gracias.
