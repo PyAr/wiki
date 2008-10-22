@@ -1,4 +1,7 @@
 = Trabajos con Python =
+
+ * (22/10/2008) Con Vista Al Mar busca programadores Python con 1 año de experiencia en desarrollo web (Django y frameworks similares). Buen clima de trabajo. Horario: 10hs a 19hs, en Barrio Norte, Capital. Enviar remuneración pretendida y CV a python@convistaalmar.com.ar
+
  * (10/10/2008) En Lambda Sistemas trabajamos con Python, wxPython, PostgreSQL y diversos frameworks web en Python. Desarrollamos un sistema de gestión para la industria del libro (http://www.fierro-soft.com.ar) y sitios web para este y otros sectores. Estamos en Capital Federal, Villa Crespo. Interesados enviar CV a: rrhh@fierro-soft.com.ar
 
  * (06/10/2008) Para importante proyecto de red social estamos en la búsqueda de un programador Python semi-senior o senior que tenga conocimientos de Django y MySQL. Es para trabajar en las oficinas de SATIO (http://www.satio.com.ar), ubicada en Belgrano, Capital Federal.  Para mas información, enviar CV a rrhh@satio.com.ar.  SATIO es una consultora de desarrollo de software, donde nos focalizamos en Open Source y metodologías Agiles.
