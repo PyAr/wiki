@@ -19,6 +19,17 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 
+## lo dejamos un rato comentado, para que este como primer noticia la del pyday.
+## hay que descomentar después del 01-11-2008
+## ==== 02/11/2008 ====
+## * Vamos a participar de Fábrica de Fallas, el 1er festival de Cultura Libre y Copyleft, que tendrá lugar el 15 y 16 de noviembre de 14 a 21 hs en FM La Tribu, Lambaré 873, Ciudad de Buenos Aires. http://culturalibre.fmlatribu.com/
+
+==== 29/10/2008 ====
+ * Los invitamos al PythonDay 2008, a realizarse en la ciudad de Córdoba el día 1ro de noviembre de 2008. Este evento se realiza con la colaboración de GrULiC y la Universidad Tecnológica Nacional, y constará de disertaciones y talleres relacionadas a programación y herramientas del lenguaje Python, presentadas por conferencistas locales y nacionales. http://pyday.python.com.ar/
+
+==== 04/10/2008 ====
+ * El 4 de Octubre del 2008 tuvo lugar la 3ra Jornada Python en Santa Fe. El lugar fue el mismo de siempre: el Auditorio de la Universidad Tecnológica Nacional, Facultad Regional Santa Fe. PyAr y LUGLi trabajaron para la organización de estas jornadas, que fueron declaradas de Interés Educativo Provincial. http://pythonsantafe.com.ar/
+
 ==== 11/09/2008 ====
  * PyAr se enorgullece de ser espónsor del Primer Encuentro por una Educación Libre, EPUEL08, que se desarrollará mañana 12 de septiembre de 9 a 19hs, bajo la convocatoria de Cáritas San isidro, la Escuela de Oficios San Cayetano (CFP401), Gleducar y la Fundación Vía Libre, en la sede de Cáritas San Isidro,  Ituzaingo 90. Más información en http://www.epuel.org.ar/
 
@@ -39,7 +50,6 @@
 
 ==== 20/05/2008 ====
  * Estuvimos en las [http://www.jornadas08.com.ar/ 2das Jornadas de Software Libre de San Francisco], Córdoba. Pueden leer en el blog de Karucha [http://www.karuchin.com.ar/ un resumen de lo que pasó en las Jornadas].
-
 
 ==== 02/05/2008 ====
  * Python resultó ganador del concurso Linux Journal Readers' Choice 2008, como [http://www.linuxjournal.com/article/10065 Mejor Lenguaje de Scripting]. Pasen y vean, y piérdanse cinco minutos leyendo el texto que tuvieron que poner para justificar qué habían pensado al momento de hacer la separación entre lenguaje "normal" y lenguaje de scripting.
