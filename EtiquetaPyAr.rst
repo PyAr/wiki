@@ -14,8 +14,9 @@ Si tenés una duda razonable, posteá, tampoco es el fin del mundo.
  * Si querés hacer una pregunta sobre algún tema que no se ha preguntado aún, crea un correo nuevo.
  *  Es preferible utilizar mensajes en texto plano antes que en HTML. [http://www.asciiribbon.org/index-es.html "La Campaña ASCII Ribbon"] explica porqué esto es recomendable en la mayoría de los casos.
  *  Escribir los correo respetando la ortografía y reglas de puntuación adecuadas para facilitar la lectura a los demás miembros.
- *  Si hay un mensaje que te molesta en la lista, no respondas, ignóralo para no generar "ruido".
  *  Leer atentamente el famoso paper de [http://www.sindominio.net/ayuda/preguntas-inteligentes.html "Cómo hacer preguntas inteligentes"]
+ *  Si realmente necesitás mandar un mail fuera de tema, podés marcar el 'subject' con un [OT] al princpio para que sea facilmente filtrable.
+ *  Si ves que alguien no sigue estas recomendaciones, o envia mails que de algun modo te parecen ofensivos o molestas y tenes la necesidad de responder, por favor hacelo por privado, esto evita meter 'ruido' en la lista. Si no tenes exito, podes buscar concenso en la lista para tratar el asunto y ver quienes comparten tu opinión enviando un mail marcado como [META] en el subject.
 
 Lo anteriormente expuesto '''no''' son reglas, sino recomendaciones. Recomendaciones para mejorar tu percepción en la comunidad, ayudar a la misma y por lo tanto a sus integrantes, y demás. Pero no es que si un día hiciste top-posting, te van a bannear de la lista. No, no, cada loco con su tema.
 
