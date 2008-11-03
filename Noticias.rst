@@ -21,8 +21,9 @@
 
 ## lo dejamos un rato comentado, para que este como primer noticia la del pyday.
 ## hay que descomentar después del 01-11-2008
-## ==== 02/11/2008 ====
-## * Vamos a participar de Fábrica de Fallas, el 1er festival de Cultura Libre y Copyleft, que tendrá lugar el 15 y 16 de noviembre de 14 a 21 hs en FM La Tribu, Lambaré 873, Ciudad de Buenos Aires. http://culturalibre.fmlatribu.com/
+
+==== 02/11/2008 ====
+ * Vamos a participar de Fábrica de Fallas, el 1er festival de Cultura Libre y Copyleft, que tendrá lugar el 15 y 16 de noviembre de 14 a 21 hs en FM La Tribu, Lambaré 873, Ciudad de Buenos Aires. http://culturalibre.fmlatribu.com/
 
 ==== 29/10/2008 ====
  * Los invitamos al PythonDay 2008, a realizarse en la ciudad de Córdoba el día 1ro de noviembre de 2008. Este evento se realiza con la colaboración de GrULiC y la Universidad Tecnológica Nacional, y constará de disertaciones y talleres relacionadas a programación y herramientas del lenguaje Python, presentadas por conferencistas locales y nacionales. http://pyday.python.com.ar/
