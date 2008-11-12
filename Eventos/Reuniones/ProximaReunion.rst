@@ -14,11 +14,11 @@
  1. --(Obtener un mínimo de personas interesadas )--
  1. --(Fijar fecha y lugar tentativos )--
  1. --(Seguir el ReleaseProcedure )--
- 1. Generar el temario
- 1. Armar una lista de asistentes
+ 1. --Generar el temario--
+ 1. --Armar una lista de asistentes--
  1. Fijar fecha y lugar definitivos
- 1. Definir quien dirigirá la reunión
- 1. Publicar recordatorios en la lista
+ 1. --Definir quien dirigirá la reunión--
+ 1. --Publicar recordatorios en la lista--
  1. Publicar recordatorio en el sitio
  1. Publicar recordatorios el día de la reunión
 
@@ -31,12 +31,15 @@
 ## = Precaución! Warning! Achtung! =
 ## Como estamos armando dos o tres reuniones en simultáneo, esta página coordina todas!
 ## Ejemplo de formato:
-== Rosario: Reunión 33 - Sábado 15/11/2008 - Lugar y hora a confirmar ==
+== Rosario: Reunión 33 - Sábado 15/11/2008 - Balcarce Lounge (Rioja y Balcarce) a las 16hs ==
 '''Temas:'''
 
- * Repositorio de código para algunos proyectos que hay en el tintero
+ * Retomar el estado de los proyectos que hay en el tintero
  * Visita de Arturo a Rosario
  * Conocer la OLPC que nos prometió Humitos ;-) (ahora autografiada por el Dr. Stallman :) )
+
+'''Dirigiendo:'''
+Humitos
 
 ## * Completar
 ''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
