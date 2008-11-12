@@ -44,7 +44,7 @@
 ''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista: ||SantiagoSuarezO ||
  ||Humitos ||
  ||Juan Pablo Giménez ||
-
+ ||Gustavo Andres Morero ||
 
 
 ## ||Karucha ||
