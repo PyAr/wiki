@@ -36,13 +36,13 @@
 
  * Repositorio de código para algunos proyectos que hay en el tintero
  * Visita de Arturo a Rosario
- * Conocer la OLPC que nos prometió Humitos ;-)
+ * Conocer la OLPC que nos prometió Humitos ;-) (ahora autografiada por el Dr. Stallman :) )
 
 ## * Completar
 ''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
 
  ||SantiagoSuarezO ||
-
+ ||Humitos||
 
 
 ## ||Karucha ||
