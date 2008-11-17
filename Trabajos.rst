@@ -1,5 +1,7 @@
 = Trabajos con Python =
 
+ * (17/11/2008) En atommica nos apasionan nuestros proyectos y se nota, pero para poder terminarlos *todos* necesitamos de tu talento. Somos un startup con muchas ideas frezcas, si tenés ganas de aprender (y por qué no, enseñarnos) es tu oportunidad. Mas info en http://atommica.com/jobs.html o mandanos un mail a python@atommica.com
+
  * (22/10/2008) Con Vista Al Mar busca programadores Python con 1 año de experiencia en desarrollo web (Django y frameworks similares). Buen clima de trabajo. Horario: 10hs a 19hs, en Barrio Norte, Capital. Enviar remuneración pretendida y CV a python@convistaalmar.com.ar
 
  * (10/10/2008) En Lambda Sistemas trabajamos con Python, wxPython, PostgreSQL y diversos frameworks web en Python. Desarrollamos un sistema de gestión para la industria del libro (http://www.fierro-soft.com.ar) y sitios web para este y otros sectores. Estamos en Capital Federal, Villa Crespo. Interesados enviar CV a: rrhh@fierro-soft.com.ar
@@ -9,8 +11,6 @@
  * (19/08/2008) wooobiz.com.ar, somos un start-up de gente que le gusta desarrollar software de calidad, simpatizantes del software libre, los estándares abiertos y las metodologías ágiles. Nuestras oficinas están ubicadas en San Telmo y estamos buscando gente talentosa y que comparta nuestros valores para sumarse al equipo. Podés leer mas acerca de las herramientas que usamos en http://woobiz.com.ar/es/about y escribir a nubis@woobiz.com.ar contando lo que te gustaria hacer.
 
  * (13/08/2008) Empresa de hosting está buscando programadores Junior en Python para armar nuevo equipo de desarrollo. Full-Time, 8hrs. en Capital Federal, enviar CV a ivan@reptoland.com
-
- * (05/08/2008) Somos Atommica, un startup con una cultura de trabajo diferente. Buscamos personas apasionadas con espíritu emprendedor. Trabajamos en Python, usamos Django, PostgreSQL entre otras cosas. Actualmente estamos buscando estrellas en estos puestos: Junior Software Developers, Software Developers, Great Software Developers. Mandanos tu cv a python@atommica.com
 
  * (18/06/2008) Para importante proyecto de software ERP Open Source, estamos en la búsqueda de programadores Python que posean preferentemente conocimientos de PostgreSQL (no excluyente). En PuertaTotal estamos creciendo y necesitamos tu conocimiento. Te ofrecemos un muy buen ambiente de trabajo con posibilidades de progreso. Zona de Trabajo: San Miguel, Gran Bs As. Por favor enviar curriculum a rrhh@puertatotal.com.ar
 
