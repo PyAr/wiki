@@ -1,4 +1,5 @@
 == Acceso a Bases de Datos desde Python: Interface DB-API ==
+[[TableOfContents]]
 
 En python, el acceso a bases de datos esta estandarizado por la especificación Database API (DB-API), actualmente en la versión 2.0 ([http://www.python.org/dev/peps/pep-0249/ PEP 249: Python Database API Specification v2.0])
 
