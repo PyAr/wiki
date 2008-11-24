@@ -7,11 +7,11 @@ Mi interés por python se  produjo en el año 2005 gracias a un compañero de fa
 Luego de mucho tiempo de pensarlo me decidí a escribir un blog donde escribo con periodicidad sobre todo cosas de python y empecé a organizar un torneo llamado pyWars.  
 
  * Mi blog es http://www.binsd.com.ar
- * Mi mail es arturoeanton@yahoo.com.ar
+ * Mi mail es arturoeanton@gmail.com
 
 
 
-Email: arturoeanton@yahoo.com.ar
+Email: arturoeanton@gmail.com
 ...
 
 ----
