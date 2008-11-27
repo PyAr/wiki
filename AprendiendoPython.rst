@@ -11,8 +11,6 @@ Ahora, ¿a dónde podrías recurrir para obtener información que te inicie en l
 
  * [http://www.hetland.org/python/instant-python.php Instant Python] es un curso de entrenamiento corto e intensivo.
 
- * [http://genes.unq.edu.ar/ Bio Tutorial Python], está orientado a biologos aunque las bases pueden ser entendidas por cualquiera, tiene ejemplos de código  y una aplicación web funcionando (se puede ver el código y probar la aplicación). Está en inglés.
-
  * [http://compbiol.plosjournals.org/perlserv/?request=get-document&doi=10.1371/journal.pcbi.0030199 A Primer on Python for Life Science Researchers], versión en forma de publicación científica del trabajo anterior. La principal diferencia es que está versión ha sido revisada por el sistema de peer-review que se usa para las publicaciones científicas.
 
  * Para quien ya tiene alguna idea, pero necesita buscar algo puntual, puede probar [http://rgruet.free.fr/PQR24/PQR2.4.html Python 2.4 Quick Reference].
@@ -49,7 +47,10 @@ Ahora, ¿a dónde podrías recurrir para obtener información que te inicie en l
   [http://pythonmexico.org/index_html/doc/mvc1/mvc.html Patron MVC] César Cárdenas
 
  * Procesando archivos XML con minidom, que forma parte de la libreria estandar de Python
-  [http://sbassi.googlepages.com/leyendoxmlenpython:dom2 Introducción a Minidom] Sebastián Bassi, 2007.
+  [http://sbassi.googlepages.com/leyendoxmlenpython:dom2 Introducción a Minidom] SebastianBassi.
+
+ * Acceso a Bases de Datos desde Python: Interface DB-API
+  DbApi SebastianBassi, AlejandroJCura y MarianoReingart.
 
 == Documentación oficial sobre Python ==
  * Versión actual
