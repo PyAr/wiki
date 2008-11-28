@@ -7,46 +7,19 @@
 = Próxima Reunión =
 ## Por el momento, no hay planificada una reunión. Si querés organizar alguna, o proponer temas para juntar ''quorum'' y que se organice, te
 ## invitamos a proponerlo en nuestra ListaDeCorreo. Te sugerimos consultar nuestro ["Eventos/Reuniones/ReleaseProcedure"] para tener una idea de como ## organizar una reunión.
-=== Release Procedure ===
- * Tareas comunes
 
- 1. --(Proponer la reunión )--
- 1. --(Obtener un mínimo de personas interesadas )--
- 1. --(Fijar fecha y lugar tentativos )--
- 1. --(Seguir el ReleaseProcedure )--
- 1. --(Generar el temario )--
- 1. --(Armar una lista de asistentes )--
- 1. --(Fijar fecha y lugar definitivos )--
- 1. --(Definir quien dirigirá la reunión)--
- 1. --(Publicar recordatorios en la lista )--
- 1. --(Publicar recordatorio en el sitio )--
- 1. Publicar recordatorios el día de la reunión
-
- * Tareas posteriores a la reunión
-
- 1. Eliminar el anuncio de la página de Inicio
- 1. Editar Eventos/Reuniones/ProximaReunion
- 1. Confeccionar la minuta
-
-## = Precaución! Warning! Achtung! =
-## Como estamos armando dos o tres reuniones en simultáneo, esta página coordina todas!
-## Ejemplo de formato:
-== Rosario: Reunión 33 - Sábado 15/11/2008 - Balcarce Lounge (Rioja y Balcarce) a las 16hs ==
+== Reunión 34 - Miércoles 03/12/2008 - Bar "El Imaginario Cultural", Buenos Aires - 19:30hs ==
 '''Temas:'''
 
- * Retomar el estado de los proyectos que hay en el tintero
- * Visita de Arturo a Rosario
- * Conocer la OLPC que nos prometió Humitos ;-) (ahora autografiada por el Dr. Stallman :) )
+ * Organizando PyCon Argentina 2009
+ * Sprint de OLPC, con Martin Langhoff de OLPC server
 
-'''Dirigiendo:''' Humitos
+## * ...
+''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
 
-## * Completar
-''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista: ||SantiagoSuarezO ||
- ||Humitos ||
- ||Juan Pablo Giménez ||
- ||Gustavo Andres Morero ||
- ||Fabián Ezequiel Gallina ||
+|| ["AlejandroJCura"] ||
+|| NubIs ||
+|| AlejandroDavidWeil ||
 
-## ||Karucha ||
-## ||RicardoKirkner ||
-## || ["AlejandroJCura"] ||
+## ||... ||
+''' ¿Dónde? '''Nos reunimos en el bar [http://www.imaginariocultural.com.ar/ El Imaginario Cultural] (<blink> warning!), Bulnes y Guardia Vieja, Almagro, Ciudad de Buenos Aires, comenzando a las 19:30hs. Estaremos en planta baja, tal vez en el patio, por lo que pregúntenle al barman por nosotros.
