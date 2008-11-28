@@ -15,8 +15,7 @@
  * (agreguen más temas acá)
 
 ## * ...
-''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:|| ["AlejandroJCura"] ||
-|| NubIs ||
+''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:||["AlejandroJCura"]|||| NubIs ||
 || AlejandroDavidWeil ||
 || TomasZulberti ||
 || RobertoAlsina ||
@@ -24,7 +23,6 @@
 || PabloZiliani ||
 || RicardoKirkner ||
 || FacundoBatista ||
-||AlbertoPaparelli||
 
 
 ## ||... ||
