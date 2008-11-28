@@ -13,6 +13,7 @@
 
  * Organizando PyCon Argentina 2009
  * Sprint de OLPC, con Martin Langhoff de OLPC server
+ * (agreguen más temas acá)
 
 ## * ...
 ''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
