@@ -29,6 +29,7 @@
 || MarceloFernández ||
 || EzequielChan ||
 || RenzoCarbonara ||
+|| SebastianBassi ||
 
 ## ||... ||
 ''' ¿Dónde? '''Nos reunimos en el bar[http://www.imaginariocultural.com.ar/ El Imaginario Cultural](<blink> warning!), Bulnes y Guardia Vieja, Almagro, Ciudad de Buenos Aires, comenzando a las 19:30hs. Estaremos en planta baja, tal vez en el patio, por lo que pregúntenle al barman por nosotros.
