@@ -13,6 +13,7 @@
  * Organizando PyCon Argentina 2009
  * Sprint de OLPC, con Martin Langhoff de OLPC server
  * PyReplica y experiencia del [http://www.postgres-arg.org/pgday/ 1º PgDay en BsAs] (OT: tengo pins para repartir :) )
+ * Sorteo 1 remera Slashdot (aniversario 10 años).
  * (agreguen más temas acá)
 
 ## * ...
