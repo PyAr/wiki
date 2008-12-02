@@ -15,6 +15,7 @@
  * PyReplica y experiencia del [http://www.postgres-arg.org/pgday/ 1º PgDay en BsAs] (OT: tengo pins para repartir :) )
  * Sorteo 1 remera Slashdot (aniversario 10 años).
  * (agreguen más temas acá)
+ * experiencias en LatinoWare2008 ( charla de pyweek y relación con python Brasil )
 
 ## * ...
 ''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
@@ -33,6 +34,7 @@
 || SebastianBassi ||
 || MarianoDraghi ||
 || SebastianMaceda ||
+|| HectorSanchez ||
 
 ## ||... ||
 ''' ¿Dónde? '''Nos reunimos en el bar[http://www.imaginariocultural.com.ar/ El Imaginario Cultural](<blink> warning!), Bulnes y Guardia Vieja, Almagro, Ciudad de Buenos Aires, comenzando a las 19:30hs. Estaremos en planta baja, tal vez en el patio, por lo que pregúntenle al barman por nosotros.
