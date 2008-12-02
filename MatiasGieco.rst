@@ -9,7 +9,7 @@ Debido a que no sé que poner, voy a seguir los consejos de este wiki de cómo a
 
  * Soy (eterno) estudiante de la UTN Santa Fe, en la carrera de Ingeniería en Sistemas de Información, ahora bastante dejada, pero con ganas de retomar.
 
- * Nacido y criado en Viale, Entre Ríos. Actualmente vivo en Paraná con mi pareja (¡una cheff expectacular!), tengo una pequeña bebé y una perrita bullterrier.
+ * Nacido y criado en Viale, Entre Ríos. Actualmente vivo en Paraná con mi pareja (¡una cheff expectacular!), tengo una pequeña bebé de tiempo_de_vida(nac_bb) y una perrita bullterrier de tiempo_de_vida(nac_bullie).
 
  * Mi número de tarjeta de crédito es 4895 1235 8462 0557 y el número de verificación es el 548
 
@@ -24,8 +24,16 @@ Algunos links interesantes:
  * Mi árbol genealógico para que busquen parientes: http://gw3.geneanet.org/index.php3?b=matigro
  * Estoy en LinkedIn, porque da chapa de que se algo, en los grupos de python y pyar: http://www.linkedin.com/in/matigro
 
-
 Si quieren algún otro usuario y contraseña de algún otro servicio, manden un email a la dirección dada y se las doy, total quien va a romper lo que no es suyo.
+
+def tiempo_de_vida(fecha_nac):
+
+ hoy = datetime.date.today()
+return(hoy-fecha_nac)
+
+nac_bb = datetime.date(2008,04,15)
+
+nac_bullie = datetime.date(2008,04,15) -  datetime.timedelta(366) # si, un año justo justo!
 
 ----
  CategoryHomepage
