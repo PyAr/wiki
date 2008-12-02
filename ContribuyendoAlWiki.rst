@@ -7,7 +7,7 @@ Para formar parte del ReadWriteGroup solo tenés que enviar un mail a la lista d
 En cuanto al contenido, damos los siguientes consejos:
  * El texto tiene que ser parseable por un ser humano con sexto grado aprobado.
  * Podés agregar comentarios personales o notas del autor, excepto en las páginas "institucionales"
- * Podés criticar cosas que no te gustan, pero mas al estilo "Jorge Lanata" que al estilo "Illia Kuriaky and The Valderramas"
+ * Podés criticar cosas que no te gustan, pero mas al estilo "Jorge Lanata" que al estilo "Illya Kuryaki and the Valderramas"
  * Si mencionas alguna sección del wiki, poné el link a dicha sección.
  * Cuando hagas modificaciones, escribí el comentario acerca de cual fue la modificación. (es mejor hablar de "Tal" modificación, que de "La modificacion de fecha Tanto")
  * No tiene porque estar todo en castellano, podés usar palabras en inglés que sean bastante conocidas, pero si estas citando a alguien por ejemplo, la cita estaria bueno traducirla al castellano.
