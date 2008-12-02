@@ -9,8 +9,7 @@ Debido a que no sé que poner, voy a seguir los consejos de este wiki de cómo a
 
  * Soy (eterno) estudiante de la UTN Santa Fe, en la carrera de Ingeniería en Sistemas de Información, ahora bastante dejada, pero con ganas de retomar.
 
- * Nacido y criado en Viale, Entre Ríos. 
-
+ * Nacido y criado en Viale, Entre Ríos.
 
  * Actualmente vivo en Paraná con mi pareja (¡una cheff expectacular!), tengo una pequeña bebé de tiempo_de_vida(nac_bb) y una perrita bullterrier de tiempo_de_vida(nac_bullie).
 
@@ -22,8 +21,8 @@ Debido a que no sé que poner, voy a seguir los consejos de este wiki de cómo a
 
 Algunos links interesantes:
 
- * Conozcan Viale y su gente: www.vialedigital.com.ar
- * Turbogears: www.turbogears.org
+ * Conozcan Viale y su gente: http://www.vialedigital.com.ar
+ * Turbogears: http://www.turbogears.org
  * Mi árbol genealógico para que busquen parientes: http://gw3.geneanet.org/index.php3?b=matigro
  * Estoy en LinkedIn, porque da chapa de que se algo, en los grupos de python y pyar: http://www.linkedin.com/in/matigro
 
