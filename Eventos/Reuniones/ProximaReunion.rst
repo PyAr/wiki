@@ -19,7 +19,8 @@
  * (agreguen más temas acá)
 
 ## * ...
-''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:||["AlejandroJCura"] ||
+''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
+||["AlejandroJCura"] ||
 || NubIs ||
 || AlejandroDavidWeil ||
 || TomasZulberti ||
