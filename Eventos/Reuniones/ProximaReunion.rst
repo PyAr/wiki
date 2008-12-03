@@ -14,8 +14,9 @@
  * Sprint de OLPC, con Martin Langhoff de OLPC server
  * PyReplica y experiencia del [http://www.postgres-arg.org/pgday/ 1º PgDay en BsAs] (OT: tengo pins para repartir :) )
  * Sorteo 1 remera Slashdot (aniversario 10 años).
- * (agreguen más temas acá)
  * experiencias en LatinoWare2008 ( charla de pyweek y relación con python Brasil )
+ * Python y los Servicios Web de Factura Electrónica (AFIP), interfases con otros lenguajes, SIAP libre ...
+ * (agreguen más temas acá)
 
 ## * ...
 ''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:||["AlejandroJCura"] ||
