@@ -41,6 +41,15 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr, están rela
 
   * Cliente de mensajeria instantanea multiplataforma compatible con la red MSN de microsoft
 
+ * [http://www.nsis.com.ar/public/wiki/PyAfip PyAfip]
+  * Interfaces y Herramientas relacionadas con la AFIP (Administración Federal de Ingresos Públicos)
+   * Servicios web de Factura Electrónica
+   * SIAP Libre
+   * Controladores Fiscales
+
+ * [http://www.nsis.com.ar/public/wiki/PyReplicaEs PyReplica]
+  * Replicador simple y flexible para PostgreSQL escrito exclusivamente en Python (asincrónico, multimaster limitado, notificaciones por email, etc.)
+
 [[BR]]
 ----
  [[Navigation(children, 1)]] 
