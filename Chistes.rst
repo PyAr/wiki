@@ -3,6 +3,21 @@
 Acá podemos rescatar partes de conversaciones de la lista que sean graciosas o interesantes
 
 ---------
+9 de diciembre de 2008 20:02
+
+Tremendo ''typo''
+
+{{{
+Truffe Hugo wrote:
+
+> Por la poca experiencia que tengo en tg, te puedo decir que si tiene
+> una falencia (que no seria la palabra) es que por ahi te encontras
+> con pocos ejemplos de cogido.
+
+Que querés, es un framework web, no el kamasutra...
+}}}
+
+---------
 Tue, 21 Oct 2008 14:01:14 -0200
 
 En la presentacion del blog propio de PyWars
