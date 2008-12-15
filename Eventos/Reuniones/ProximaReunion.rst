@@ -40,6 +40,7 @@
 || DiegoMascialino ||
 || LucasDevescovi ||
 || NicoEchaniz ||
+|| ["dieresys"] ||
 
 
 ## ||... ||
