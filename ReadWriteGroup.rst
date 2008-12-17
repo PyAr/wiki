@@ -22,7 +22,7 @@
  * HectorSanchez
  * HernanOlivera
  * HoracioDuran
- * javimansilla
+ * JaviMansilla
  * JohnLenton
  * JuanjoConti
  * LauBenech
