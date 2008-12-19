@@ -48,6 +48,8 @@ GtkTextArea : ejemplo sobre manipulacion basica de un area de texto con scroll
 
 ["GtkRichText"]: ejemplo sobre como insertar texto con formato basico a un textview
 
+["GtkConfirmClose"]: ejemplo sobre como solicitar confirmacion para el cierre de una ventana
+
 === Gtk + glade ===
 ["GtkGladeHolaMundoOO"] : una ventana que muestra el mensaje hola mundo programado utilizando orientacion a objetos
 
