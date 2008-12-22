@@ -1,4 +1,4 @@
- == Xml a diccionario ==
+== Xml a diccionario ==
 
 En este ejemplo se muestra como convertir un string a una estructura de diccionarios y listas anidadas usando expat, tambien se proveen dos clases que permiten manipular el resultado como su fueran objetos.
 
