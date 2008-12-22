@@ -70,3 +70,6 @@ PythonCard: Ejemplo de como hacer una aplicación de escritorio desde 0 (para pr
 == Hilos y concurrencia ==
 === threads ===
 ComunicarThreadsConQueue: ejemplo sobre como comunicar y sincronizar threads usando colas
+
+== Xml ==
+["XmlADiccionario"]: este ejemplo muestra como convertir un string xml en un conjunto de diccionarios y listas anidadas, también provee de dos clases que permiten acceder a los diccionarios y listas como si fueran objetos.
