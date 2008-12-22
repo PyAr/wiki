@@ -1,5 +1,7 @@
 = Trabajos con Python =
 
+* (22/12/2008) Estamos buscando profesionales que quieran desarrollar con Python para un cliente europeo. Es fundamental tener un nivel intermedio-avanzado de inglés dado que va a haber mucho contacto con el cliente. El contexto laboral es cómodo y divertido pero con objetivos claros y desafiantes que incitan a mejorar constantemente. No duden en contactarse con nosotros y dejar su C.V.: cv@globant.com
+
  * (17/11/2008) En atommica nos apasionan nuestros proyectos y se nota, pero para poder terminarlos *todos* necesitamos de tu talento. Somos un startup con muchas ideas frezcas, si tenés ganas de aprender (y por qué no, enseñarnos) es tu oportunidad. Mas info en http://atommica.com/jobs.html o mandanos un mail a python@atommica.com
 
  * (22/10/2008) Con Vista Al Mar busca programadores Python con 1 año de experiencia en desarrollo web (Django y frameworks similares). Buen clima de trabajo. Horario: 10hs a 19hs, en Barrio Norte, Capital. Enviar remuneración pretendida y CV a python@convistaalmar.com.ar
