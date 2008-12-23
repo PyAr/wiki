@@ -73,3 +73,5 @@ ComunicarThreadsConQueue: ejemplo sobre como comunicar y sincronizar threads usa
 
 == Xml ==
 ["XmlADiccionario"]: este ejemplo muestra como convertir un string xml en un conjunto de diccionarios y listas anidadas, también provee de dos clases que permiten acceder a los diccionarios y listas como si fueran objetos.
+
+SimpleXmlElement: ejemplo de manejo de xml por elementos simples (simil php), permite leer y/o crear xml accediendo a los tags como si fueran atributos de un objeto.
