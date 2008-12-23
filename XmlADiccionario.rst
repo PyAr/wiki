@@ -58,7 +58,7 @@ class DictObj(dict):
     '''a class that allows to access a dict as an object
     '''
 
-    def __init__(self, **kwargs):
+    def __init__(self, kwargs):
         '''constructor'''
         dict.__init__(self, kwargs)
 
@@ -67,9 +67,9 @@ class DictObj(dict):
             obj = self[name]
 
             if type(obj) == dict:
-                return DictObj(**obj)
+                return DictObj(obj)
             elif type(obj) == list:
-                return ListObj(*obj)
+                return ListObj(obj)
             
             return obj
         else:
@@ -79,7 +79,7 @@ class ListObj(list):
     '''a class that allows to access dicts inside a list as objects
     '''
 
-    def __init__(self, *args):
+    def __init__(self, args):
         '''constructor'''
         list.__init__(self, args)
 
@@ -90,11 +90,38 @@ class ListObj(list):
         obj = list.__getitem__(self, index)
 
         if type(obj) == dict:
-            return DictObj(**obj)
+            return DictObj(obj)
         elif type(obj) == list:
-            return ListObj(*obj)
+            return ListObj(obj)
 
         return obj
+
+    def __iter__(self):
+        '''iterate over the list'''
+
+        count = 0
+
+        while count < len(self):
+            yield self[count]
+            count += 1
+
+def raw_string(dct_):
+    '''return a string containing just the string parts removing all the 
+    xml stuff'''
+
+    def helper(dct):
+        result = []
+
+        for child in dct.childs:
+            if type(child) == str or type(child) == unicode:
+                result.append(str(child))
+            else:
+                result = result + helper(child)
+
+        return result
+
+    return ''.join(helper(dct_))
+
 }}}
 
 Simplemente creamos un objeto de tipo XmlParser pasandole el string y obtenemos el resultado parseado en la variable result. 
@@ -105,7 +132,7 @@ Si no queremos andar preguntado si las llaves existen antes de accederlas para e
 >>> import XmlParser
 >>> p = XmlParser.XmlParser('<span><a href="google.com">go<s>o</s>gle</a> <i>test</i> <img src="foo.png" alt="foo"/> <u>!</u><s>!</s></span>')
 >>> r = p.result
->>> d = XmlParser.DictObj(**r)
+>>> d = XmlParser.DictObj(r)
 >>> d
 {'childs': [{'childs': [u'go', {'childs': [u'o'], 'tag': u's'}, u'gle'], 'href': u'google.com', 'tag': u'a'}, u' ', {'childs': [u'test'], 'tag': u'i'}, u' ', {'childs': [], 'src': u'foo.png', 'alt': u'foo', 'tag': u'img'}, u' ', {'childs': [u'!'], 'tag': u'u'}, {'childs': [u'!'], 'tag': u's'}], 'tag': u'span'}
 >>> d.childs
