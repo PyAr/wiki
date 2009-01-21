@@ -11,28 +11,28 @@ En esta página podrán encontrar los ''slides'' de charlas y presentaciones dic
 
 ''Daniel F. Moisset''
 
-'''Links:''' [http://except.com.ar/es/downloads/2006/08/20060819-de-0-a-python.odp slides].
+'''Links:''' [http://www.grulic.org.ar/eventos/pythonday1/material/20060819-de-0-a-python.odp slides].
 
 ----
 == PyGTK y Glade ==
 
 ''Natalia Bidart''
 
-'''Links:''' [http://except.com.ar/es/downloads/2006/08/20060819-pygtk-on-glade.odp slides].
+'''Links:''' [http://www.grulic.org.ar/eventos/pythonday1/material/20060819-pygtk-on-glade.odp slides].
 
 ----
 == Test Driven Development ==
 
 ''Javier Mansilla'' y ''Natalia Bidart''
 
-'''Links:''' [http://except.com.ar/es/downloads/2006/08/20060819-tdd.odp slides], [http://except.com.ar/es/downloads/2006/08/20060819-tdd-ejemplos.tar.gz código de ejemplo].
+'''Links:''' [http://www.grulic.org.ar/eventos/pythonday1/material/20060819-tdd.odp slides], [http://www.grulic.org.ar/eventos/pythonday1/material/20060819-tdd-ejemplos.tar.gz código de ejemplo].
 
 ----
 == Twisted Framework ==
 
 ''Anthony Lenton''
 
-'''Links:''' [http://except.com.ar/es/downloads/2006/08/20060819-twisted.odp slides], [http://except.com.ar/es/downloads/2006/08/20060819-twisted-ejemplos.tar.gz código fuente]
+'''Links:''' [http://www.grulic.org.ar/eventos/pythonday1/material/20060819-twisted.odp slides], [http://www.grulic.org.ar/eventos/pythonday1/material/20060819-twisted-ejemplos.tar.gz código fuente]
 
 ----
 == Un juego en 7 días ==
@@ -82,7 +82,7 @@ PDF: attachment:Automated%20Security%20Testing.pdf .
 
 ''Daniel F. Moisset''
 
-'''Slides:''' [http://except.com.ar/en/downloads/2008/08/juego-facil-20080822.tar.gz] (se ejecuta en python, incluye bibliotecas)
+'''Slides:''' [http://jornadas.cafelug.org.ar/8/es/filminas/tercer%20dia/Hacer%20un%20juego%20es%20facil/juego-facil-20080822.tar.gz juego-facil-20080822.tar.gz] (se ejecuta en python, incluye bibliotecas)
 
 ----
 == /dev/wiimote > Experimentando con un wii remote en Gnu/Linux ==
