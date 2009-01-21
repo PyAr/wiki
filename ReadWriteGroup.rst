@@ -10,6 +10,7 @@
  * DavidCasco
  * DanielMendoza
  * DanielMoisset
+ * DiegoMascialino
  * DionisioAlonso
  * dieresys
  * DummyFacundo
