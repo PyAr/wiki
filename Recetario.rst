@@ -50,6 +50,8 @@ GtkTextArea : ejemplo sobre manipulacion basica de un area de texto con scroll
 
 ["GtkConfirmClose"]: ejemplo sobre como solicitar confirmacion para el cierre de una ventana
 
+["GtkMultiThread"]: ejemplo de como manipular la api desde multiples threads sin usar locks
+
 === Gtk + glade ===
 ["GtkGladeHolaMundoOO"] : una ventana que muestra el mensaje hola mundo programado utilizando orientacion a objetos
 
