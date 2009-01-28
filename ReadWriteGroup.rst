@@ -14,6 +14,7 @@
  * DionisioAlonso
  * dieresys
  * DummyFacundo
+ * FedeHeinz
  * GabrielGenellina
  * GonzaloDelgado
  * GuillermoFreschi
