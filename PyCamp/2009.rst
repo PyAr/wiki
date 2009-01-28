@@ -44,7 +44,7 @@ Por favor, alfabético por apellido. Locale es_AR :)
  * Tener Internet:
  * WiFi (APs): HoracioDuran
  * Red cableada:
- * Requerimientos Dietarios:
+ * Requerimientos Dietarios: NatyBidart
  * Armado del programa (tentativo?):
  * Remera: RayentrayTappa (?)
  * Todo lo demás: JohnLenton
