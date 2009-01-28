@@ -24,6 +24,7 @@ Por favor, alfabético por apellido. Locale es_AR :)
 
  1. FacundoBatista
  1. SebastiánDesimone
+ 1. HoracioDuran
  1. AnthonyLenton
  1. JohnLenton
  1. MarianoMara
