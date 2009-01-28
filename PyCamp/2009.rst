@@ -1,25 +1,18 @@
 [[TableOfContents]]
-
 = Cuándo =
-
 Marzo 21, 22, 23, y 24. Domingo a martes; el martes es feriado. Cuatro días de python, un solo día de licencia sin goce de sueldo / faltazo a la facu / chupina!
 
 = Dónde =
-
 En el Centro Allen Gardiner, en Los Cocos, provincia de Córdoba. [http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=105533268989834891728.0004435f0d040c4a222f5&t=h&z=18 Hay un mapa].
 
 = Cómo llegar =
-
 TBD
 
 = Qué llevar =
-
 TBD
 
 = Quiénes van =
-
 == Confirmados ==
-
 Por favor, alfabético por apellido. Locale es_AR :)
 
  1. FacundoBatista
@@ -32,19 +25,17 @@ Por favor, alfabético por apellido. Locale es_AR :)
  1. DavidWeil (?)
 
 == Con muchas ganas, pero no confirmados ==
-
  1. SebastianBassi
+ 1. JaviMansilla
 
 == Con muchas ganas, pero sin plata ==
-
 = Encargados de distintas cosas =
-
 (en algún orden)
 
  * Tener Internet:
  * WiFi (APs): HoracioDuran
  * Red cableada:
- * Requerimientos Dietarios: NatyBidart (agregar prefs en [wiki:PyCamp/2009/RequerimientosDietarios RequerimientosDietarios])
+ * Requerimientos Dietarios: NatyBidart (agregar prefs en /RequerimientosDietarios)
  * Armado del programa (tentativo?):
  * Remera: RayentrayTappa (?)
  * Todo lo demás: JohnLenton
