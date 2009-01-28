@@ -31,13 +31,14 @@ Por favor, alfabético por apellido. Locale es_AR :)
 == Con muchas ganas, pero no confirmados ==
  1. SebastianBassi
  1. JaviMansilla
+ 1. FedeHeinz
 
 == Con muchas ganas, pero sin plata ==
 = Encargados de distintas cosas =
 (en algún orden)
 
  * Tener Internet:
- * WiFi (APs): HoracioDuran
+ * WiFi (APs): HoracioDuran (FedeHeinz contribuye un AP, si hace falta)
  * Red cableada:
  * Requerimientos Dietarios: NatyBidart (agregar prefs en /RequerimientosDietarios)
  * Armado del programa (tentativo?):
