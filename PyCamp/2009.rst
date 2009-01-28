@@ -44,7 +44,7 @@ Por favor, alfabético por apellido. Locale es_AR :)
  * Tener Internet:
  * WiFi (APs): HoracioDuran
  * Red cableada:
- * Requerimientos Dietarios: NatyBidart
+ * Requerimientos Dietarios: NatyBidart (agregar prefs en [wiki:PyCamp/2009/RequerimientosDietarios RequerimientosDietarios])
  * Armado del programa (tentativo?):
  * Remera: RayentrayTappa (?)
  * Todo lo demás: JohnLenton
