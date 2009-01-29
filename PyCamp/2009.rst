@@ -41,6 +41,7 @@ Por favor, alfabético por apellido. Locale es_AR :)
  1. MichelPeterson
  1. [wiki:JoseluisDallapiccola Jose Luis Dallapiccola]
  1. GonzaloDelgado
+ 1. RobertoAllende
 
 == Con muchas ganas, pero sin plata ==
 = Encargados de distintas cosas =
