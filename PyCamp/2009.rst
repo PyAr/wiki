@@ -36,6 +36,7 @@ Por favor, alfabético por apellido. Locale es_AR :)
  1. SebastianBassi
  1. JaviMansilla
  1. FedeHeinz
+ 1. MichelPeterson
 
 == Con muchas ganas, pero sin plata ==
 = Encargados de distintas cosas =
