@@ -40,8 +40,10 @@ Por favor, alfabético por apellido. Locale es_AR :)
  1. GonzaloDelgado
  1. FedeHeinz
  1. JaviMansilla
+ 1. [:miya:Nicolás Miyasato]
  1. MichelPeterson
  1. NicoCesar
+
 
 == Con muchas ganas, pero sin plata ==
 = Encargados de distintas cosas =
