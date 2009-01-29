@@ -27,6 +27,7 @@
  * JavierCastrillo
  * JaviMansilla
  * JohnLenton
+ * JoseluisDallapiccola
  * JuanjoConti
  * LauBenech
  * LeitoMonk
