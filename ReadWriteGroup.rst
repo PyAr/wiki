@@ -24,6 +24,7 @@
  * HectorSanchez
  * HernanOlivera
  * HoracioDuran
+ * JavierCastrillo
  * JaviMansilla
  * JohnLenton
  * JuanjoConti
@@ -50,6 +51,7 @@
  * MaxiRobaina
  * NatyBidart
  * NicolasPalumbo
+ * NicoEchaniz
  * NubIs
  * OSiRiS
  * PabloCarballo
