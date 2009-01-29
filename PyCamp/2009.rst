@@ -12,19 +12,18 @@ TBD
 TBD
 
 = Temario =
-
 Ver /TemasPropuestos
 
 = Quiénes van =
 Por favor, alfabético por apellido. Locale es_AR :)
-== Confirmados ==
 
+== Confirmados ==
  1. FacundoBatista
- 1. [wiki:AlejandroJCura alecu] y familia
+ 1. [:AlejandroJCura:alecu] y familia
  1. SebastiánDesimone
  1. MarcosDione
  1. HoracioDuran
- 1. [wiki:ManuelKaufmann El rey del Humo]
+ 1. [:ManuelKaufmann:El rey del Humo]
  1. RicardoKirkner
  1. AnthonyLenton
  1. JohnLenton
@@ -37,11 +36,12 @@ Por favor, alfabético por apellido. Locale es_AR :)
 == Con muchas ganas, pero no confirmados ==
  1. RobertoAllende
  1. SebastianBassi
- 1. [wiki:JoseluisDallapiccola Jose Luis Dallapiccola]
+ 1. [:JoseluisDallapiccola:Jose Luis Dallapiccola]
  1. GonzaloDelgado
  1. FedeHeinz
  1. JaviMansilla
  1. MichelPeterson
+ 1. NicoCesar
 
 == Con muchas ganas, pero sin plata ==
 = Encargados de distintas cosas =
