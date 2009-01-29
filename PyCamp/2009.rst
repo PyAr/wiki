@@ -11,6 +11,10 @@ TBD
 = Qué llevar =
 TBD
 
+= Temario =
+
+Ver /TemasPropuestos
+
 = Quiénes van =
 == Confirmados ==
 Por favor, alfabético por apellido. Locale es_AR :)
