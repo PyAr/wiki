@@ -11,7 +11,7 @@ La idea de este proyecto es armar y dictar charlas sobre Python  en colegios sec
 ||Arturo Elias Antón|| arturoeanton@gmail.com|| Bs.As. Cap Fed||
 
 
-Lista de Tareas
+'''Lista de Tareas'''
 
  *Definir los temas que entraran en la charla.
  *Crear una guía de charlas sobre Python para estudiantes de colegios secundarios.
