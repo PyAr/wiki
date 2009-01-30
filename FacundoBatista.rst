@@ -6,7 +6,7 @@ Soy Ingeniero en Electrónica de la Universidad Nacional de La Matanza, con un M
 
 Trabajé en Movistar (antes Unifón) del 2000 al 2006, primero en el área de Administración de Datos de la Red Celular (entre los que se destaca un proyecto llamado CeCubo para la generación automática de comandos para el mantenimiento de las centrales de conmutación; y el SACLLA, un datawarehousing sobre la información generada de por las centrales), y luego en el sector de Desarrollo de Servicios, principalmente a cargo del Servicio de Mensajes Cortos (SMSs), especificación e instalación de la plataforma WAP Gateway, y lider de proyecto de los servicios sobre OTA.
 
-De Marzo del 2006 a Julio del 2007 trabajé como Jefe de Desarrollo en CycleLogic, una empresa dedicada proveer contenidos para teléfonos móviles. A partir de Julio estoy en Ericsson Argentina, como Arquitecto de Soluciones en la parte Multimedia.
+De Marzo del 2006 a Julio del 2007 trabajé como Jefe de Desarrollo en CycleLogic, una empresa dedicada proveer contenidos para teléfonos móviles. Luego pasé a Ericsson Argentina, como Arquitecto de Soluciones en la parte Multimedia, hasta que en Octubre del 2008 entré como Senior Software Developer en Canonical, en el equipo de Online Services.
 
 Fuí profesor en la Universidad de La Matanza (en talleres de la carrera de Ingeniería Informática) y en diversas instituciones secundarias y terciarias. También poseo una amplia experiencia como analista de sistemas y programador, tanto freelance como bajo contrato, en diversos sistemas en múltiples plataformas y lenguajes.
 
