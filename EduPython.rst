@@ -11,6 +11,7 @@ La idea de este proyecto es armar y dictar charlas sobre Python  en colegios sec
 ||Arturo Elias Antón|| arturoeanton@gmail.com|| Bs.As. Cap Fed||
 ||Nicolás Pace|| nicopace@gmail.com|| Bahía Blanca||
 ||Gabriel Brunacci|| gbrunacci ashoba gmail poonto com|| Bs.As. Cap Fed||
+||Javier Castrillo|| riverplatense@gmail.com || Carapachay ||
 
 
 '''Lista de Tareas'''
