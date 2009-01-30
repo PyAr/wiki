@@ -9,6 +9,7 @@ La idea de este proyecto es armar y dictar charlas sobre Python  en colegios sec
 
 ||Nombre ||Contacto ||Ciudad ||
 ||Arturo Elias Antón|| arturoeanton@gmail.com|| Bs.As. Cap Fed||
+||Nicolás Pace|| nicopace@gmail.com|| Bahía Blanca||
 
 
 '''Lista de Tareas'''
