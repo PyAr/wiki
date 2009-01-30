@@ -23,6 +23,7 @@ Por favor, alfabético por apellido. Locale es_AR :)
  1. SebastiánDesimone
  1. MarcosDione
  1. HoracioDuran
+ 1. NicoEchaniz
  1. [:ManuelKaufmann:El rey del Humo]
  1. RicardoKirkner
  1. AnthonyLenton
