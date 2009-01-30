@@ -53,6 +53,7 @@
  * MichelPeterson
  * miya
  * NatyBidart
+ * Nickar
  * NicoCesar
  * NicolasPalumbo
  * NicoEchaniz
