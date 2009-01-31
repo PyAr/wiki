@@ -44,7 +44,8 @@ Por favor, alfabético por apellido. Locale es_AR :)
  1. [:miya:Nicolás Miyasato]
  1. MichelPeterson
  1. NicoCesar
-
+ 1. [:dieresys:Manuel Muradás]
+ 
 
 == Con muchas ganas, pero sin plata ==
 = Encargados de distintas cosas =
