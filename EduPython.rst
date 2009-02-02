@@ -12,6 +12,7 @@ La idea de este proyecto es armar y dictar charlas sobre Python  en colegios sec
 ||Nicolás Pace|| nicopace@gmail.com|| Bahía Blanca||
 ||Gabriel Brunacci|| gbrunacci ashoba gmail poonto com|| Bs.As. Cap Fed||
 ||Javier Castrillo|| riverplatense@gmail.com || Carapachay ||
+||Matias Gieco|| matigro acávaelarroba gmail acávaelpunto com || Paraná, Entre Ríos ||
 
 
 '''Lista de Tareas'''
