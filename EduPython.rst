@@ -6,6 +6,7 @@ La idea de este proyecto es armar y dictar charlas sobre Python  en colegios sec
 '''Quiero Participar'''
 
   Si quieras participar anótate en la lista
+                "Recordad que para poder modificar la wiki y poder anotarse hay que pedir permiso a admin@python.com.ar"
 
 ||Nombre ||Contacto ||Ciudad ||
 ||Arturo Elias Antón|| arturoeanton@gmail.com|| Bs.As. Cap Fed||
