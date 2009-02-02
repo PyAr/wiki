@@ -19,3 +19,6 @@ Terminar y/o revisar [http://www.nsis.com.ar/public/wiki/PyAfip PyAfip] ([http:/
 
 Mejorar PythonCard (corregir problemas de diseño, integrar el editor GUI con el editor de código, agregar depuración, compilación a exe, integrar con trac, etc.):
  1. MarianoReingart (esto es parte de mi tesis que espero poder avanzar algo)
+
+PyConTech: Temas del software para la conferencia PyConAr2009 (ver Trac en USLA: [http://trac.usla.org.ar/proyectos/pycon-ar/wiki/PyConTech Wiki] y [http://trac.usla.org.ar/proyectos/pycon-ar/query?status=assigned&status=new&status=accepted&status=reopened&group=status&milestone=PyCamp tickets], básicamente registración gratuita, internacionalización, credenciales y constancias):
+ 1. MarianoReingart
