@@ -31,3 +31,5 @@ Acá van los temas propuestos, con adherentes:
   1. [wiki:AlejandroJCura alecu]
  Reply:: cerrar el primer release de la lib de reinforcement learning. (agregar function aproximation, limpiar los ejemplos, crear monitores)
   1. LucioTorre
+ Karma@pyar:: un filtro de mails que agregue puntajes a los mails que salen de la lista segun una red de confianza
+  1. [wiki:AlejandroJCura alecu]
