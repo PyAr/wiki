@@ -9,6 +9,7 @@ Acá van los temas propuestos, con adherentes:
  BugDay:: Salimos a la caza de bugs de Python (esto seguro que será sólo medio día o un día como muuucho)
   1. FacundoBatista
   1. JohnLenton
+  1. JaviMansilla
  TemaSinNombre:: Un editor de mapas [http://blog.wolfire.com/2009/01/aquaria-design-tour/ similar a este] para cocos2d
   1. [wiki:AlejandroJCura alecu]
  PyAfip:: Terminar y/o revisar [http://www.nsis.com.ar/public/wiki/PyAfip PyAfip] ([http://www.nsis.com.ar/public/wiki/SiaPy SiaPy: SIAP libre], [http://www.nsis.com.ar/public/wiki/PyAfipWs PyAfipWs: Factura Electrónica])
@@ -21,3 +22,4 @@ Acá van los temas propuestos, con adherentes:
   1. JohnLenton
   1. FacundoBatista
   1. [wiki:HoracioDuran perrito]
+  1. JaviMansilla
