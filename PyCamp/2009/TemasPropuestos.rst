@@ -24,5 +24,8 @@ Acá van los temas propuestos, con adherentes:
  Cocos2d:: Agregar fluidos, editor de escenarios no tileados [http://blog.wolfire.com/2009/01/aquaria-design-tour/ similar a este]?, muchos etcs.
   1. [wiki:AlejandroJCura alecu]
   1. LucioTorre
+  1. RicardoQuesada
+ Cocos2d:: Cocos Live cliente/server
+  1. RicardoQuesada
  Reply:: cerrar el primer release de la lib de reinforcement learning. (agregar function aproximation, limpiar los ejemplos, crear monitores)
   1. LucioTorre
