@@ -33,6 +33,7 @@ Por favor, alfabético por apellido. Locale es_AR :)
  1. LucioTorre
  1. DavidWeil
  1. PabloZiliani (?)
+ 1. RicardoQuesada
 
 == Con muchas ganas, pero no confirmados ==
  1. RobertoAllende
