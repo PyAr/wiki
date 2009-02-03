@@ -20,7 +20,7 @@ La idea de este proyecto es armar y dictar charlas sobre Python  en colegios sec
  * Crear un documento de presentación para las autoridades de los colegios.
 
 == Algunas ideas ==
- * [javascript:void(0);/*1233672903454*/ Armar un live-cd para repartir en las charlas/talleres ]
+ * [EduPythonCD Armar un live-cd para repartir en las charlas/talleres ]
  * Armar folletos/panfletos explicando que es Python
  * El material debería armarse según los niveles a quien van impartidos, pudiendo enseñar python hasta a chicos chicos.
 
