@@ -10,8 +10,6 @@ Acá van los temas propuestos, con adherentes:
   1. FacundoBatista
   1. JohnLenton
   1. JaviMansilla
- TemaSinNombre:: Un editor de mapas [http://blog.wolfire.com/2009/01/aquaria-design-tour/ similar a este] para cocos2d
-  1. [wiki:AlejandroJCura alecu]
  PyAfip:: Terminar y/o revisar [http://www.nsis.com.ar/public/wiki/PyAfip PyAfip] ([http://www.nsis.com.ar/public/wiki/SiaPy SiaPy: SIAP libre], [http://www.nsis.com.ar/public/wiki/PyAfipWs PyAfipWs: Factura Electrónica])
   1. MarianoReingart
  PythonCard:: Mejorar PythonCard (corregir problemas de diseño, integrar el editor GUI con el editor de código, agregar depuración, compilación a exe, integrar con trac, etc.):
@@ -23,7 +21,8 @@ Acá van los temas propuestos, con adherentes:
   1. FacundoBatista
   1. [wiki:HoracioDuran perrito]
   1. JaviMansilla
- Cocos2d:: Agregar fluidos, editor de escenarios no tileados?, muchos etcs.
+ Cocos2d:: Agregar fluidos, editor de escenarios no tileados [http://blog.wolfire.com/2009/01/aquaria-design-tour/ similar a este]?, muchos etcs.
+  1. [wiki:AlejandroJCura alecu]
   1. LucioTorre
  Reply:: cerrar el primer release de la lib de reinforcement learning. (agregar function aproximation, limpiar los ejemplos, crear monitores)
   1. LucioTorre
