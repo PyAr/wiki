@@ -23,3 +23,8 @@ Acá van los temas propuestos, con adherentes:
   1. FacundoBatista
   1. [wiki:HoracioDuran perrito]
   1. JaviMansilla
+Cocos2d:: Agregar fluidos, editor de escenarios no tileados?, muchos etcs.
+  1. LucioTorre
+
+Reply:: cerrar el primer release de la lib de reinforcement learning. (agregar function aproximation, limpiar los ejemplos, crear monitores)
+  1. LucioTorre
