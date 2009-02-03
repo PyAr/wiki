@@ -17,7 +17,7 @@ Acá van los temas propuestos, con adherentes:
   1. MarianoReingart (esto es parte de mi tesis que espero poder avanzar algo)
  PyConTech:: Temas del software para la conferencia PyConAr2009 (ver Trac en USLA: [http://trac.usla.org.ar/proyectos/pycon-ar/wiki/PyConTech Wiki] y [http://trac.usla.org.ar/proyectos/pycon-ar/query?status=assigned&status=new&status=accepted&status=reopened&group=status&milestone=PyCamp tickets], básicamente registración gratuita, internacionalización, credenciales y constancias):
   1. MarianoReingart
- Mejorar naushika:: mejorar o rehacer el robot del canal de IRC de PyAr
+ Mejorar naushika:: mejorar o rehacer el robot del canal de IRC de PyAr ([http://www.python.com.ar/moin/PyCamp/2009/NaushikaNG: lista de cosas a hacerle])
   1. JohnLenton
   1. FacundoBatista
   1. [wiki:HoracioDuran perrito]
