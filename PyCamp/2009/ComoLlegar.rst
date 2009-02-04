@@ -7,10 +7,10 @@
   * Cinturón de Seguridad puesto en todos los ocupantes
   * No superar la cantidad de pasajeros del vehículo
 
-Adjunto un folleto de la CAP par más información
+Adjunto un folleto de la [attachment:cap.jpg CAP] par más información
 
 === Desde Buenos Aires ===
-Les paso el camino que hago para llegar (ver mapas de Cordoba y Punilla)
+Les paso el camino que hago para llegar (ver mapas de [attachment:cordoba.jpg Cordoba] y [attachment:punilla.jpg Punilla])
  * Agarrar por panamericana, ramal Escobar/Rosario
  * Ir hasta la Au. de Circunvalación de Rosario (no tomar por la A032 que no es una ruta muy linda y no es autopista)
  * Ir hacia la izquierda por Circunvalación hasta Autopista Rosario-Cordoba
