@@ -29,12 +29,14 @@ Por favor, alfabético por apellido. Locale es_AR :)
  1. AnthonyLenton
  1. JohnLenton
  1. MarianoMara
+ 1. RicardoQuesada
  1. MarianoReingart y familia*
+ 1. HectorSanchez
  1. LucioTorre
  1. DavidWeil
  1. PabloZiliani (?)
- 1. RicardoQuesada
- 1. HectorSanchez
+
+
 
 == Con muchas ganas, pero no confirmados ==
  1. RobertoAllende
