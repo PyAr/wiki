@@ -44,7 +44,7 @@ Acá van los temas propuestos, con adherentes:
   1. LucioTorre
   1. RicardoKirkner
 
- Karma@pyar:: un filtro de mails que agregue puntajes a los mails que salen de la lista segun una red de confianza
+ Karma@pyar:: un filtro de mails que agregue puntajes a los mails que salen de la lista segun [http://www.advogato.org/trust-metric.html una red de confianza].
   1. [wiki:AlejandroJCura alecu]
   1. [wiki:MarianoMara Mariano Mara]
   1. RicardoKirkner
