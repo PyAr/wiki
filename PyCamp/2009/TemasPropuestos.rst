@@ -43,9 +43,13 @@ Acá van los temas propuestos, con adherentes:
 
  Karma@pyar:: un filtro de mails que agregue puntajes a los mails que salen de la lista segun una red de confianza
   1. [wiki:AlejandroJCura alecu]
+  2. [wiki:MarianoMara Mariano Mara]
 
  Sysadmining:: muchas tareas (actualizar moin de pyar, usar nuevos dominios .org.ar, etc.)
   1. [wiki:AlejandroJCura alecu]
 
  Tracs de usla:: plugins para git, mercurial, etc.
   1. [wiki:AlejandroJCura alecu]
+
+ Recetario:: aumentar exponencialmente la cantidad de recetas que hay en el sitio de Python Argentina con el input de todos los presentes: se pueden presentar las ideas y discutirlas en público.
+  1. [wiki:MarianoMara Mariano Mara]
