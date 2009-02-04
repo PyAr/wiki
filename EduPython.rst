@@ -29,3 +29,28 @@ La idea de este proyecto es armar y dictar charlas sobre Python  en colegios sec
  * Sintaxis Python
  * Programación OO
  * Jugando en Python
+
+== Más sobre el temario de la charla ==
+
+=== Intruduccion a Python. ===
+ * ¿Que es Python?
+ * ¿Que ventajas tiene Python frente a otros lenguajes?
+ * ¿Que limitaciones tiene Python frente a otros lenguajes?
+ * ¿Para que quiero una boa? [comentar en donde se puede utilizar python, nombrar proyectos, aplicaciones, juegos, etc.]
+ * Primer programa: Hola Mundo! [o podemos hacer una version extendida del hola mundo.]
+
+Algo de código.
+ * Sintaxis del lenguaje
+ * Forma clásica de hacer (X) cosa, forma pythonera de hacer lo mismo.
+
+Ferretería (librerias) util e interesante
+ * A partir de aqui podríamos ir armando un programita simple y boludo
+en el que vamos mostrando el lenguaje de a poquito. Algunas librerías
+del lenguaje y demás.
+
+== Talleres de Python ==
+
+ * Python básico
+ * Python escritorio (QT, GTK, Wx)
+ * Python Web (Frameworks)
+ * Python movil
