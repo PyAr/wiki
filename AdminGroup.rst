@@ -3,6 +3,5 @@
  * AlejandroJCura
  * FacundoBatista
  * LucioTorre
- * MarianoDraghi
  * NubIs
  * PabloZiliani
