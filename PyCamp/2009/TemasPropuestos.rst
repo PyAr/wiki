@@ -12,9 +12,11 @@ Acá van los temas propuestos, con adherentes:
   1. FacundoBatista
   1. JohnLenton
   1. JaviMansilla
+  1. [wiki:MarianoMara Mariano Mara]
 
  PyAfip:: Terminar y/o revisar [http://www.nsis.com.ar/public/wiki/PyAfip PyAfip] ([http://www.nsis.com.ar/public/wiki/SiaPy SiaPy: SIAP libre], [http://www.nsis.com.ar/public/wiki/PyAfipWs PyAfipWs: Factura Electrónica])
   1. MarianoReingart
+  1. [wiki:MarianoMara Mariano Mara]
 
  PythonCard:: Mejorar PythonCard (corregir problemas de diseño, integrar el editor GUI con el editor de código, agregar depuración, compilación a exe, integrar con trac, etc.):
   1. MarianoReingart (esto es parte de mi tesis que espero poder avanzar algo)
@@ -43,7 +45,7 @@ Acá van los temas propuestos, con adherentes:
 
  Karma@pyar:: un filtro de mails que agregue puntajes a los mails que salen de la lista segun una red de confianza
   1. [wiki:AlejandroJCura alecu]
-  2. [wiki:MarianoMara Mariano Mara]
+  1. [wiki:MarianoMara Mariano Mara]
 
  Sysadmining:: muchas tareas (actualizar moin de pyar, usar nuevos dominios .org.ar, etc.)
   1. [wiki:AlejandroJCura alecu]
