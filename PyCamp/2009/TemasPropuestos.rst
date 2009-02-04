@@ -23,7 +23,7 @@ Acá van los temas propuestos, con adherentes:
   1. MarianoReingart
   1. [wiki:AlejandroJCura alecu]
 
- Mejorar naushika:: mejorar o rehacer el robot del canal de IRC de PyAr ([http://www.python.com.ar/moin/PyCamp/2009/NaushikaNG: lista de cosas a hacerle])
+ Mejorar naushika:: mejorar o rehacer el robot del canal de IRC de PyAr ([:PyCamp/2009/NaushikaNG: lista de cosas a hacerle])
   1. JohnLenton
   1. FacundoBatista
   1. [wiki:HoracioDuran perrito]
