@@ -34,6 +34,7 @@ Por favor, alfabético por apellido. Locale es_AR :)
  1. DavidWeil
  1. PabloZiliani (?)
  1. RicardoQuesada
+ 1. HectorSanchez
 
 == Con muchas ganas, pero no confirmados ==
  1. RobertoAllende
