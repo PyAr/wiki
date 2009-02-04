@@ -44,8 +44,8 @@ Acá van los temas propuestos, con adherentes:
  Karma@pyar:: un filtro de mails que agregue puntajes a los mails que salen de la lista segun una red de confianza
   1. [wiki:AlejandroJCura alecu]
 
- Sysadmining: muchas tareas (actualizar moin de pyar, usar nuevos dominios .org.ar, etc.)
+ Sysadmining:: muchas tareas (actualizar moin de pyar, usar nuevos dominios .org.ar, etc.)
   1. [wiki:AlejandroJCura alecu]
 
- Tracs de usla: plugins para git, mercurial, etc.
+ Tracs de usla:: plugins para git, mercurial, etc.
   1. [wiki:AlejandroJCura alecu]
