@@ -59,3 +59,4 @@ Acá van los temas propuestos, con adherentes:
 
  Recetario:: aumentar exponencialmente la cantidad de recetas que hay en el sitio de Python Argentina con el input de todos los presentes: se pueden presentar las ideas y discutirlas en público.
   1. [wiki:MarianoMara Mariano Mara]
+  1. MarianoReingart
