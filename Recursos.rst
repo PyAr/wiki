@@ -44,21 +44,6 @@
 
  * RicardoKirkner y SantiagoPereson trabajaban en el proyecto.
 
-=== Except ===
- * Contacto: [[MailTo( info AT except DOT com DOT ar, Except)]]
-
- * URL: http://except.com.ar
-
- * Dirección: Montevideo 728 PB. Córdoba Capital. TE +54 +351 4241659
-
- * ¿De qué forma usamos Python?: Hacemos mucho desarrollo web en Zope/Python. También trabajamos con Plone y Django. Además hemos trabajado en aplicaciones de escritorio multiplataforma con PyGTK y Twisted.
-
- * Librerías/frameworks utilizadas: pyGTK, Zope, Plone, Django, Twisted
-
- * Desde hace un tiempo también utilizamos [http://www.edgewall.com/trac trac] para la gestión del proyecto, tickets y wiki interno.
-
- * Los socios de la empresa son AnthonyLenton, JavierMansilla, JohnLenton y DanielMoisset. (todos miembros de PyAR)
-
 === Hansa World Argentina ===
  * URL: http://www.hansaworld.com.ar/
 
@@ -102,6 +87,19 @@
  * ¿Cómo usamos Python? Uso de todo tipo, desde integración con software escrito en otros lenguajes a sistemas escritos completos en el mismo.
 
  * Librerías utilizadas: [http://www.pygtk.org/ PyGTK], [http://sf.net/projects/pexpect Pexpect], [http://www.crummy.com/software/BeautifulSoup/ BeautifulSoup], Snack, MySQLdb.
+
+=== Machinalis ===
+ * Contacto: [[MailTo( info AT machinalis DOT com , Machinalis)]]
+
+ * URL: http://machinalis.com
+
+ * ¿De qué forma usamos Python?: Hacemos mucho desarrollo web en Plone/Zope/Python, y en Django. Estamos trabajando en aplicaciones de escritorio multiplataforma con PyGTK.
+
+ * Librerías/frameworks utilizadas: Django, pyGTK, Zope, Plone
+
+ * También utilizamos [http://www.edgewall.com/trac trac] para la gestión del proyecto, tickets y wiki interno.
+
+ * Los socios de la empresa son WalterAlini, HoracioDuran, JavierMansilla, DanielMoisset. (todos miembros de PyAR)
 
 === Menttes ===
  * Contacto: [[MailTo( info AT menttes DOT com, Info)]]
