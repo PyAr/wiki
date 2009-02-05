@@ -1,5 +1,4 @@
 == aLetras ==
-
 ==== Descripción ====
 ''aLetras(numero)'' es una función a la que se le pasa un valor númerico y regresa un string con el valor numérico convertido a letras.
 
@@ -8,9 +7,8 @@ Los valores que pueden ser convertidos pertenecen al rango ''-999.999.999,99 : 9
 Siempre se trabaja con 2 decimales (se redondean los valores suministrados)
 
 ==== Ejemplos: ====
-
 {{{
-
+#!python
 >>> aLetras(1234.56)
 ' MIL DOSCIENTOS TREINTA Y CUATRO CON CINCUENTA Y SEIS CENTAVOS'
 >>> aLetras(-240.99)
@@ -27,12 +25,12 @@ Siempre se trabaja con 2 decimales (se redondean los valores suministrados)
 }}}
 
 ==== Observaciones ====
-
 La asignación y condicional en una línea -> numeros[1] = "UNO" if i == 2 else "UN" <- da problemas de sintaxis con versiones anteriores a Python 2.5.x
 
 Puede reemplazarse con:
 
 {{{
+#!python
 if i == 2:
   numeros[1] = "UNO"
 else:
@@ -40,8 +38,8 @@ else:
 }}}
 
 ==== Código: ====
-
 {{{
+#!python
 #fuente: Recetario de PyAR, http://python.com.ar/moin/Recetario
 #autor: Cesar E Portela
 #date: 06-05-2008
