@@ -1,5 +1,7 @@
 = Trabajos con Python =
 
+ * (5/02/2009) En Machinalis (http://machinalis.com) trabajamos con Python, Django, Zope, Plone. Somos un startup en Córdoba en busca de programadores experimetnados con ganas de trabajar en proyectos desafiantes. Si te interesa, escribía a info@machinalis.com.
+
  * (22/12/2008) Estamos buscando profesionales que quieran desarrollar con Python para un cliente europeo. Es fundamental tener un nivel intermedio-avanzado de inglés dado que va a haber mucho contacto con el cliente. El contexto laboral es cómodo y divertido pero con objetivos claros y desafiantes que incitan a mejorar constantemente. No duden en contactarse con nosotros y dejar su C.V.: cv@globant.com
 
  * (17/11/2008) En atommica nos apasionan nuestros proyectos y se nota, pero para poder terminarlos *todos* necesitamos de tu talento. Somos un startup con muchas ideas frezcas, si tenés ganas de aprender (y por qué no, enseñarnos) es tu oportunidad. Mas info en http://atommica.com/jobs.html o mandanos un mail a python@atommica.com
@@ -21,8 +23,6 @@
  * (04/10/2007) Buscamos programadores enérgicos que deseen hacer carrera de superheroe. Se aprecia comunicación fluida en inglés y conocimiento de python, zope y plone (no excluyente). Para trabajar en la ciudad de Córdoba, o remotamente de otras partes del país y del cono sur.  Interesados escribir a laburos@menttes.com. Mas info en http://labs.menttes.com
 
  * (04/10/2007) Para aplicacion web GIS con información sobre transportes urbanos buscamos desarrollador con conocimiento de Python, Django y PostgreSQL. Contactar a pedroirusta@gmail.com o sdistefano@gmail.com
-
- * (04/10/2007) En Except (http://except.com.ar) trabajamos con Python, Zope, Plone y Django, Eiffel y C. Somos una empresa cordobesa, que está creciendo con la incorporación de personas alineadas con nuestros valores. Si estás interesado en trabajar en una empresa responsable y que produce Software Libre de calidad, escribí a info@except.com.ar.
 
  * (04/10/2007) Desarrolladores senior y junior para proyectos internacionales. Programadores de Python/Zope/Plone para integrar un equipo de desarrollo con desafiantes proyectos internacionales. Interesados enviar curriculum a: info@inter-cultura.com
 
