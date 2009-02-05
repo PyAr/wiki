@@ -12,3 +12,4 @@ Si usted se inscribe acá probablemente reciba emails contactándolo.
 ||HernanOlivera ||  ||  || (teletrabajo)  ||
 ||[http://www.python.com.ar/moin/arturoeanton Arturo Elias Anton] ||  ||  ||  ||
 ||RicardoKirkner || || || ||
+||DanielMoisset || Sí || No || en Córdoba, trabajo remotamente ||
