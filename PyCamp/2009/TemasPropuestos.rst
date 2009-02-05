@@ -48,6 +48,7 @@ Acá van los temas propuestos, con adherentes:
   1. [wiki:AlejandroJCura alecu]
   1. [wiki:MarianoMara Mariano Mara]
   1. RicardoKirkner
+  1. FacundoBatista
 
  Sysadmining:: muchas tareas (actualizar moin de pyar, usar nuevos dominios .org.ar, etc.)
   1. [wiki:AlejandroJCura alecu]
