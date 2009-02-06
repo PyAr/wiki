@@ -17,6 +17,7 @@ Acá van los temas propuestos, con adherentes:
  PyAfip:: Terminar y/o revisar [http://www.nsis.com.ar/public/wiki/PyAfip PyAfip] ([http://www.nsis.com.ar/public/wiki/SiaPy SiaPy: SIAP libre], [http://www.nsis.com.ar/public/wiki/PyAfipWs PyAfipWs: Factura Electrónica])
   1. MarianoReingart
   1. [wiki:MarianoMara Mariano Mara]
+  1. MarceloAlaniz
 
  PythonCard:: Mejorar PythonCard (corregir problemas de diseño, integrar el editor GUI con el editor de código, agregar depuración, compilación a exe, integrar con trac, etc.):
   1. MarianoReingart (esto es parte de mi tesis que espero poder avanzar algo)
