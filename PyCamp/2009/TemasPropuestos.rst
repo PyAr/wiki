@@ -24,6 +24,7 @@ Acá van los temas propuestos, con adherentes:
  PyConTech:: Temas del software para la conferencia PyConAr2009 (ver Trac en USLA: [http://trac.usla.org.ar/proyectos/pycon-ar/wiki/PyConTech Wiki] y [http://trac.usla.org.ar/proyectos/pycon-ar/query?status=assigned&status=new&status=accepted&status=reopened&group=status&milestone=PyCamp tickets], básicamente registración gratuita, internacionalización, credenciales y constancias):
   1. MarianoReingart
   1. [wiki:AlejandroJCura alecu]
+  1. HectorSanchez
 
  Mejorar naushika:: mejorar o rehacer el robot del canal de IRC de PyAr ([:PyCamp/2009/NaushikaNG: lista de cosas a hacerle])
   1. JohnLenton
@@ -61,3 +62,7 @@ Acá van los temas propuestos, con adherentes:
  Recetario:: aumentar exponencialmente la cantidad de recetas que hay en el sitio de Python Argentina con el input de todos los presentes: se pueden presentar las ideas y discutirlas en público.
   1. [wiki:MarianoMara Mariano Mara]
   1. MarianoReingart
+  1. HectorSanchez 
+
+ acheckersgame:: Continuar con el desarrollo del juego de damas: [http://code.google.com/p/acheckersgame/]
+  1. HectorSanchez
