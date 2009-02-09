@@ -53,7 +53,7 @@ Por favor, alfabético por apellido. Locale es_AR :)
  1. [:dieresys:Manuel Muradás]
  1. MauroCaceres
  1. MartinAlbisetti
- 1. MarceloFernandez
+ 1. MarceloFernández
  
 
 == Con muchas ganas, pero sin plata ==
