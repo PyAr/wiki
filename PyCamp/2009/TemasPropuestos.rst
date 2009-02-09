@@ -67,3 +67,6 @@ Acá van los temas propuestos, con adherentes:
 
  acheckersgame:: Continuar con el desarrollo del juego de damas: [http://code.google.com/p/acheckersgame/]
   1. HectorSanchez
+
+ PyCamp:: pensar y decidir qué va a ser de PyCamp en el futuro.
+  1. JohnLenton
