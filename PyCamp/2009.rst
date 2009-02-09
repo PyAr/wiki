@@ -32,6 +32,7 @@ Por favor, alfabético por apellido. Locale es_AR :)
  1. MarianoMara
  1. RamiroMorales
  1. RicardoQuesada
+ 1. ManuelQuiñones
  1. MarianoReingart y familia*
  1. HectorSanchez
  1. LucioTorre
