@@ -62,6 +62,7 @@ Por favor, alfabético por apellido. Locale es_AR :)
  
 
 == Con muchas ganas, pero sin plata ==
+[[Anchor(queriendobecas)]]
 = Encargados de distintas cosas =
 (en algún orden)
 
