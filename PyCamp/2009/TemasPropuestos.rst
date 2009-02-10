@@ -73,3 +73,6 @@ Acá van los temas propuestos, con adherentes:
 
  PyCamp:: pensar y decidir qué va a ser de PyCamp en el futuro.
   1. JohnLenton
+
+ PyCon2009:: charlar, debatir, actualizar, ver, divulgar, compartir, discutir todo tipo de temas relacionados con PyCon Argentina.
+  1. ManuelKaufmann
