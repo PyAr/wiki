@@ -9,10 +9,10 @@ En el Centro Allen Gardiner, en Los Cocos, provincia de Córdoba. [http://maps.g
 Ver Borrador y mapas en /ComoLlegar
 
 = Qué llevar =
- - Zapatillas (de electricidad)
- - Paletas de Ping-Pong
- - Onda? (perdón, no me pude resistir)
- - ...
+ * Zapatillas (de electricidad)
+ * Paletas de Ping-Pong
+ * Onda? (perdón, no me pude resistir)
+ * ...
 
 = Temario =
 Ver /TemasPropuestos
