@@ -3,10 +3,10 @@ La propuesta es armar un livecd que permita ser usado para dictar un taller de P
 Además se podría agregar que si se coloca en un sistema no GNU/Linux, se pueda instalar el mismo soft.
 
 Se propuso incluir los siguientes programas:
-* Apache, mod_python, Django, Zope, etc con respecto a framework de web.
-* Modulos que no suelen venir preinstalados para python.
-* Entornos para programar como ipython, boa, etc.
-* Le agrego manejo de archivos y Base de datos (MySql, PostgreSQL).
+ * Apache, mod_python, Django, Zope, etc con respecto a framework de web.
+ * Modulos que no suelen venir preinstalados para python.
+ * Entornos para programar como ipython, boa, etc.
+ * Le agrego manejo de archivos y Base de datos (MySql, PostgreSQL).
 
 También se habló de la posibilidad de hacer un liveCD para aprender a programar, no puntualmente para python sinó mas general, para varios lenguajes.
 Esto traeríá mas gente al proyecto, pero lo ampliaría mas de lo necesario.
@@ -19,3 +19,77 @@ Knoppix[http://www.knoppix.net] es un livecd que permite remasterizarlo, obtenie
 Bootcd[http://www.debian-administration.org/articles/148] es un comando que genera un livecd a partir de una instalación de Debian.
 El tema de usar BootCD es que no contempla la compatibilidad con el hardware.
 
+== PyLive CD ==
+
+Live CD basado en ubuntu intrepid ibex, utiliza openbox como gestor de ventanas y fbpanel como panel.
+
+=== Software incluido ===
+
+==== IDEs ====
+
+ * Geany
+ * spe
+ * eric4
+ * boa constructor
+ * wx-glade
+ * glade-3
+
+==== Utilidades ====
+
+ * kiki (evaluador de expresiones regulares)
+ * winpdb (debugger visual)
+
+ * gnome-terminal
+ * nm-applet
+ * obconf
+ * openbox
+ * fbpanel
+ * sqlite3
+ * firefox 3
+ * thunar
+
+==== Sistemas de control de versiones ====
+
+ * svn
+ * git
+ * bzr
+
+==== Web ====
+
+ * turbogears 1.0.4
+ * django 1.0
+ * webpy 0.2.3
+
+==== Librerias de videojuegos ====
+
+ * pygame
+ * pyglet
+
+==== Interpretes ====
+
+ * IDLE 2.4, 2.5
+ * python 2.4, 2.5, 2.6, 3.0
+ * ipython
+
+==== Editores ====
+
+    * gedit
+    * vim
+    * emacs
+    * scribes
+
+==== Otros ====
+
+ * traduccion al castellano de casi todo
+ * teclado y lenguaje español por defecto.
+ * autologin
+ * vimrc recomendado por python.org
+
+==== Propuestos ====
+
+ * Twisted
+ * Kodos
+
+==== Asuntos pendientes ====
+
+ * Documentacion offline
