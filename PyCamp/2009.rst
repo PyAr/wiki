@@ -23,6 +23,7 @@ Por favor, alfabético por apellido. Locale es_AR :)
 == Confirmados ==
  1. FacundoBatista
  1. [:AlejandroJCura:alecu] y familia
+ 1. GonzaloDelgado
  1. LeonardoDeLuca y (quizás) familia
  1. SebastiánDesimone
  1. MarcosDione
@@ -48,7 +49,6 @@ Por favor, alfabético por apellido. Locale es_AR :)
  1. RobertoAllende
  1. SebastianBassi
  1. [:JoseluisDallapiccola:Jose Luis Dallapiccola]
- 1. GonzaloDelgado
  1. FedeHeinz
  1. JaviMansilla
  1. [:miya:Nicolás Miyasato]
@@ -76,6 +76,7 @@ Por favor, alfabético por apellido. Locale es_AR :)
 = La delgada Franja Blanca =
 Si te gusta el café Bonafide Franja Blanca anotate aca con la fracción con la que te interese cooperar (Viene en fracciones de 1/4, 1/2 y 1 Kilo). La semana del campamento, antes de salir, alguien de Córdoba va a comprar y lleva así esta bien fresco. Una vez allá hacemos la división de gastos
 
+1/4 GonzaloDelgado[[BR]]
 1/4 [wiki:HoracioDuran perrito][[BR]]
 1/4 FacundoBatista[[BR]]
 1/4 [wiki:MarianoMara Mariano Mara][[BR]]
