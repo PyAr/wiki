@@ -11,7 +11,11 @@
 
 Email: ramiro+pyar ''at'' rmorales ''punto'' net
 
-IRC: '' cramm'' en Freenode
+=== Elsewhere ===
+
+ * IRC: ''cramm'' en Freenode
+ * http://www.linkedin.com/in/ramiromorales
+ * http://twitter.com/ramiromorales
 
 ----
 CategoryHomepage
