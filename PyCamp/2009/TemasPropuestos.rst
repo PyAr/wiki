@@ -13,6 +13,7 @@ Acá van los temas propuestos, con adherentes:
   1. JohnLenton
   1. JaviMansilla
   1. [wiki:MarianoMara Mariano Mara]
+  1. ManuelKaufmann
 
  PyAfip:: Terminar y/o revisar [http://www.nsis.com.ar/public/wiki/PyAfip PyAfip] ([http://www.nsis.com.ar/public/wiki/SiaPy SiaPy: SIAP libre], [http://www.nsis.com.ar/public/wiki/PyAfipWs PyAfipWs: Factura Electrónica])
   1. MarianoReingart
@@ -32,6 +33,7 @@ Acá van los temas propuestos, con adherentes:
   1. FacundoBatista
   1. [wiki:HoracioDuran perrito]
   1. JaviMansilla
+  1. ManuelKaufmann
 
  Cocos2d:: Agregar fluidos, editor de escenarios no tileados [http://blog.wolfire.com/2009/01/aquaria-design-tour/ similar a este]?, muchos etcs.
   1. [wiki:AlejandroJCura alecu]
@@ -67,6 +69,7 @@ Acá van los temas propuestos, con adherentes:
 
  acheckersgame:: Continuar con el desarrollo del juego de damas: [http://code.google.com/p/acheckersgame/]
   1. HectorSanchez
+  1. ManuelKaufmann
 
  PyCamp:: pensar y decidir qué va a ser de PyCamp en el futuro.
   1. JohnLenton
