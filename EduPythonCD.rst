@@ -38,6 +38,7 @@ Live CD basado en ubuntu intrepid ibex, utiliza openbox como gestor de ventanas 
 
  * kiki (evaluador de expresiones regulares)
  * winpdb (debugger visual)
+ * Kodos
 
  * gnome-terminal
  * nm-applet
@@ -59,6 +60,7 @@ Live CD basado en ubuntu intrepid ibex, utiliza openbox como gestor de ventanas 
  * turbogears 1.0.4
  * django 1.0
  * webpy 0.2.3
+ * twisted
 
 ==== Librerias de videojuegos ====
 
@@ -80,6 +82,7 @@ Live CD basado en ubuntu intrepid ibex, utiliza openbox como gestor de ventanas 
 
 ==== Otros ====
 
+ * beatifulsoup
  * traduccion al castellano de casi todo
  * teclado y lenguaje español por defecto.
  * autologin
@@ -87,8 +90,7 @@ Live CD basado en ubuntu intrepid ibex, utiliza openbox como gestor de ventanas 
 
 ==== Propuestos ====
 
- * Twisted
- * Kodos
+ * ninguna
 
 ==== Asuntos pendientes ====
 
