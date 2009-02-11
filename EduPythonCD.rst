@@ -54,6 +54,7 @@ Live CD basado en ubuntu intrepid ibex, utiliza openbox como gestor de ventanas 
  * svn
  * git
  * bzr
+ * mercurial
 
 ==== Web ====
 
@@ -83,6 +84,9 @@ Live CD basado en ubuntu intrepid ibex, utiliza openbox como gestor de ventanas 
 ==== Otros ====
 
  * beatifulsoup
+ * elixir 
+ * sqlalchemy
+ * sqlobject
  * traduccion al castellano de casi todo
  * teclado y lenguaje español por defecto.
  * autologin
