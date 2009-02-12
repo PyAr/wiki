@@ -7,7 +7,7 @@
 
 mis otros intereses son las artes visuales, la animación y los cómics.
 
- * actualmente trabajo en un estudio de diseño gráfico, [http://shusho.com.ar shusho],
+ * actualmente tengo un trabajo de medio tiempo en [http://shusho.com.ar shusho], un estudio de diseño gráfico, 
  haciendo un sitio web con django
 
  * antes trabajé en modo freelance haciendo gráficos 2d y 3d para videojuegos y publicidades de tv,
