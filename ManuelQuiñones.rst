@@ -13,7 +13,5 @@ mis otros intereses son las artes visuales, la animación y los cómics.
  * antes trabajé en modo freelance haciendo gráficos 2d y 3d para videojuegos y publicidades de tv,
  valiéndome de la programación siempre que se podía
 
-...
-
 ----
 CategoryHomepage
