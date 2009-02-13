@@ -1,6 +1,8 @@
 = Trabajos con Python =
 
- * (5/02/2009) En Machinalis (http://machinalis.com) trabajamos con Python, Django, Zope, Plone. Somos un startup en Córdoba en busca de programadores experimentados con ganas de trabajar en proyectos desafiantes. Si te interesa, escribí a info@machinalis.com.
+ * (13/02/2009) Truelogic se encuentra seleccionando desarrolladores Python preferentemente con ingles avanzado (no es excluyente) en todos los niveles para importantes desarrollos locales e internacionales, seria deseable que cuente con experiencia comprobable en HTML y CSS y tenga muchas ganas de crecer profesionalmente asi como económicamente.  Ofrecemos remuneración acorde a función + beneficios propios del sector al que pertenecerá + capacitación in sittu + excelente clima laboral.  Los interesados deberán enviarnos remuneración pretendida y referencia PY.THON a vtardito@truelogic.com.ar.
+
+ * (05/02/2009) En Machinalis (http://machinalis.com) trabajamos con Python, Django, Zope, Plone. Somos un startup en Córdoba en busca de programadores experimentados con ganas de trabajar en proyectos desafiantes. Si te interesa, escribí a info@machinalis.com.
 
  * (22/12/2008) Estamos buscando profesionales que quieran desarrollar con Python para un cliente europeo. Es fundamental tener un nivel intermedio-avanzado de inglés dado que va a haber mucho contacto con el cliente. El contexto laboral es cómodo y divertido pero con objetivos claros y desafiantes que incitan a mejorar constantemente. No duden en contactarse con nosotros y dejar su C.V.: cv@globant.com
 
