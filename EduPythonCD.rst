@@ -62,6 +62,7 @@ Live CD basado en ubuntu intrepid ibex, utiliza openbox como gestor de ventanas 
  * django 1.0
  * webpy 0.2.3
  * twisted
+ * apache + php5 + phpmyadmin + mysql5 + python-mysqldb + mod_python (la contraseña de root del mysql es "secret")
 
 ==== Librerias de videojuegos ====
 
