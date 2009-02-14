@@ -118,6 +118,7 @@ Para construir aplicaciones web complejas en python se pueden usar alguno de los
  * [http://www.zope.org Zope]: el "abuelo" de los frameworks web de python
  * [http://pylonshq.com Pylons]: framework liviano que enfatiza flexibilidad y desarrollo rápido
  * [http://webpy.org WebPy]: framework simple "todo-en-uno" sin dependencias
+ * [http://mdp.cti.depaul.edu/ web2py]: framework para desarrollos rápidos. De uso simple. Un ejecutable que contiene todo.
 
 ==== Herramientas webs ====
  * [http://plone.org/ Plone]: Completo sistema de manejo de contenidos (CMS)
