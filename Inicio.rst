@@ -6,6 +6,8 @@
 
 ##||<tablestyle="width:100%;text-align:center; border-style: hidden;">[http://culturalibre.fmlatribu.com/ ##http://culturalibre.fmlatribu.com/uploads/banner03.jpg]||
 
+||<tablestyle="width:100%;text-align:center; border-style: hidden;">[http://noalcanon.org http://noalcanon.org/wp-content/uploads/2008/02/noalcanonmb2.jpg]||
+
 ##||<tablestyle="width:100%; color: red; text-align:center;"> {*} ~+'' HOY, miércoles 5 de marzo, 26^a^ reunión de PyAr, en Bs.As. Más detalles [wiki:Eventos/Reuniones/ProximaReunion aquí].''+~ ||
 
 ##||<tablestyle="width:100%; color: red; text-align:center;"> {*} ~+''Cerro la votación de la Bandera. [wiki:Bandera/resultados Resultados]. ''+~ ||
