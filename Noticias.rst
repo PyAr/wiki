@@ -22,6 +22,9 @@
 ## lo dejamos un rato comentado, para que este como primer noticia la del pyday.
 ## hay que descomentar después del 01-11-2008
 
+==== 14/02/2009 ====
+ * Python Argentina se declara en [http://noalcanon.org/ contra al canon digital en Argentina]. ¡Participá vos también! ¡Defendé tus derechos!
+
 ==== 10/02/2009 ====
  * Se darán dos charlas en la ACP: [http://www.clubdeprogramadores.com/cursos/CursoMuestra.php?Id=485 Factura Electrónica, Python y Software Libre (21/02/2009 de 15 a 18hs)] e [http://www.clubdeprogramadores.com/cursos/CursoMuestra.php?Id=486 Introducción a Python (26/02/2009 de 18.30 a 21.30hs)]. Lugar: Asociación Civil AUBA - Club de Programadores - Audiotorio Congreso (Ciudad de Buenos Aires). Entrada Libre y Gratuita (inscripción por los respectivos links).
 
