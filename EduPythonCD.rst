@@ -48,6 +48,8 @@ Live CD basado en ubuntu intrepid ibex, utiliza openbox como gestor de ventanas 
  * sqlite3
  * firefox 3
  * thunar
+ * evice (visor de documentos)
+ * gmrun (alt + F2)
 
 ==== Sistemas de control de versiones ====
 
@@ -61,6 +63,7 @@ Live CD basado en ubuntu intrepid ibex, utiliza openbox como gestor de ventanas 
  * turbogears 1.0.4
  * django 1.0
  * webpy 0.2.3
+ * web2py
  * twisted
  * apache + php5 + phpmyadmin + mysql5 + python-mysqldb + mod_python (la contraseña de root del mysql es "secret")
 
@@ -68,6 +71,13 @@ Live CD basado en ubuntu intrepid ibex, utiliza openbox como gestor de ventanas 
 
  * pygame
  * pyglet
+
+==== Librerias varias ====
+
+ * beatifulsoup
+ * elixir 
+ * sqlalchemy
+ * sqlobject
 
 ==== Interpretes ====
 
@@ -84,10 +94,6 @@ Live CD basado en ubuntu intrepid ibex, utiliza openbox como gestor de ventanas 
 
 ==== Otros ====
 
- * beatifulsoup
- * elixir 
- * sqlalchemy
- * sqlobject
  * traduccion al castellano de casi todo
  * teclado y lenguaje español por defecto.
  * autologin
