@@ -25,6 +25,7 @@
  * HectorSanchez
  * HernanOlivera
  * HoracioDuran
+ * HugoRuscitti
  * JavierCastrillo
  * JaviMansilla
  * JohnLenton
