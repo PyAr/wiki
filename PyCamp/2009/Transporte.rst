@@ -7,6 +7,7 @@
 || LeonardoDeLuca || Buenos Aires      || Colectivo       || X                 ||
 || LucioTorre     || Buenos Aires      || Colectivo       || X ||
 || [wiki:AlejandroJCura alecu] y familia || Buenos Aires || Colectivo || otros 47 asientos ||
-|| JohnLenton     || Córdoba           || Colectivo       || un montonazón     ||
-|| ManuelKaufmann || Santa Fe / Paraná || Colectivo       || X                 ||
 || NicoEchaniz || Buenos Aires || Colectivo       || X                 ||
+|| JohnLenton     || Córdoba           || Colectivo       || un montonazón     ||
+|| HoracioDuran     || Córdoba           || Colectivo       || colectivo.asientos - len(pasajeros)     ||
+|| ManuelKaufmann || Santa Fe / Paraná || Colectivo       || X                 ||
