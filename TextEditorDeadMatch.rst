@@ -12,7 +12,8 @@ A considerar:
 
 Anotados
    1. Emacs: JohnLenton
-   2. Kate: JaviMansilla
+   1. Kate: JaviMansilla
+   1. VIM con muchas ganas de aprender Emacs: ManuelKaufmann
 
 
-Estaría buenísimo también sacar un conjunto de funcionalidades que a la mayoría considere indispensable. 
+Estaría buenísimo también sacar un conjunto de funcionalidades que la mayoría considere indispensable, intercambiar tips y copiarnos funciones / plugins que hagan de nuestro editor una herramienta cómoda a las diferentes necesidades de los usuarios.
