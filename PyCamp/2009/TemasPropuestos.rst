@@ -60,5 +60,4 @@ Acá van los temas propuestos, con adherentes:
   1. JohnLenton
  PyCon2009:: charlar, debatir, actualizar, ver, divulgar, compartir, discutir todo tipo de temas relacionados con PyCon Argentina.
   1. ManuelKaufmann
- Editor de Texto deadmatch:: Cuan pupudo es el editor de texto que usas para programar python. ''Machos'' abstenerce: yo también puedo programar con una impresora braile pero prefiero herramientas que me ayuden.
-:: Como puede que se haga largo, lo armamos acá: TextEditorDeadMatch 
+ Editor de Texto deadmatch:: Cuan pupudo es el editor de texto que usas para programar python. ''Machos'' abstenerce: yo también puedo programar con una impresora braile pero prefiero herramientas que me ayuden. Como puede que se haga largo, lo armamos acá: TextEditorDeadMatch 
