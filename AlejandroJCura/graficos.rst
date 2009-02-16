@@ -1,5 +1,5 @@
 = Variables, valores y objetos =
 
-ejemplo 1
+attachment:grafico1.png
 
-formato svg
+attachment:grafico1.svg formato svg
