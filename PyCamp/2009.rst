@@ -42,6 +42,7 @@ Por favor, alfabético por apellido. Locale es_AR :)
  1. LucioTorre
  1. DavidWeil
  1. PabloZiliani (?)
+ 1. HugoRuscitti
 
 
 
@@ -86,6 +87,7 @@ Si te gusta el café Bonafide Franja Blanca anotate aca con la fracción con la 
 1/4 LucioTorre[[BR]]
 1/4 [wiki:AlejandroDavidWeil Dave][[BR]]
 1/4 JohnLenton
+1/4 HugoRuscitti
 
 = El robusto toro rojo =
 
