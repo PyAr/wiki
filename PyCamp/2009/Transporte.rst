@@ -9,3 +9,4 @@
 || [wiki:AlejandroJCura alecu] y familia || Buenos Aires || Colectivo || otros 47 asientos ||
 || JohnLenton     || Córdoba           || Colectivo       || un montonazón     ||
 || ManuelKaufmann || Santa Fe / Paraná || Colectivo       || X                 ||
+|| NicoEchaniz || Buenos Aires || Colectivo       || X                 ||
