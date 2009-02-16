@@ -7,6 +7,7 @@
 || LeonardoDeLuca || Buenos Aires      || Colectivo       || X                 ||
 || RicardoQuesada || Buenos Aires      || Colectivo       || X                 ||
 || LucioTorre     || Buenos Aires      || Colectivo       || X ||
+|| HectorSanchez  || Buenos Aires      || Colectivo       || X ||
 || [wiki:AlejandroJCura alecu] y familia || Buenos Aires || Colectivo || otros 47 asientos ||
 || NicoEchaniz || Buenos Aires || Colectivo       || X                 ||
 || JohnLenton     || Córdoba           || Colectivo       || un montonazón     ||
