@@ -5,6 +5,11 @@ En esta receta se muestra como:
  * Crear un ejecutable (.EXE) nativo para windows (que no requiera tener Python instalado)
  * Generar un archivo autoextraible similar a un instalador (pero más simple)
 
+Ver adjuntos:
+ * [attachment:hola.py hola.py]: aplicación de ejemplo
+ * [attachment:setup.py setup.py]: script de "compilación" para py2exe
+ * [attachment:setup.exe setup.exe]: instalador autoextraible producido con esta receta
+
 ==== Requerimientos: ====
  * [http://www.python.org/download/ Python 2.5]
  * [http://www.py2exe.org/ Py2Exe 0.6]
