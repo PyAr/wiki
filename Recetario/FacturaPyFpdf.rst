@@ -5,9 +5,11 @@ Esta receta es un ejemplo sencillo de como generar una factura en PDF utilizando
 
 Para más detalles sobre la libreria PyFpdf y bajar una versión actualizada y mejorada, ir a: [http://www.nsis.com.ar/public/wiki/PyFpdf sito del proyecto] (incluye este ejemplo)
 
+La factura incluye logo, recuadros, textos y código de barra entrelazado 2 de 5, en un formato aplicable en Argentina.
 Ver muestra adjunta: [attachment:factura.pdf factura.pdf]
 
 Este ejemplo esta harcodeado, en la vida real habría que abstraerlo en alguna especie de plantilla para facilitar su modificación.
+
 
 ==== Ejemplo: ====
 
