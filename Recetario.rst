@@ -15,7 +15,10 @@ AutocomplecionEnConsolaInteractiva: tip sobre como agregar autocompleción con t
 ["aLetras"] : Función que al recibir un número lo convierte a letras. Regresa su forma por extensión (ejemplo: 123 -> "CIENTO VEINTITRES")
 
 === validar_cuit ===
-ValidarCuit : Función para validar un CUIT/CUIL estilo 00-00000000-0
+/ValidarCuit : Función para validar un CUIT/CUIL estilo 00-00000000-0
+
+=== digito_verificador_modulo10 ===
+/CalcularDigitoVerificadorModuloDiez : Función para generar el dígito verificador módulo 10
 
 === Normalizar caracteres Unicode ===
 Es bueno /NormalizarCaracteresUnicode para hacer búsquedas en strings sin que se tengan en cuenta los caracteres latinos, como los acentos y la eñe.
@@ -65,15 +68,28 @@ PythonCard: Ejemplo de como hacer una aplicación de escritorio desde 0 (para pr
 === GMail ===
 /GmailMail : Cómo enviar emails usando Gmail como SMTP
 
+=== Email con adjuntos ===
+/EmailConAdjunto : Cómo enviar emails con adjuntos binarios
+
 == Creación de ejecutables para Windows ==
 === Desde Linux ===
 /CrearEjecutableWindowsDesdeLinux : Cómo crear ejecutables para Windows desde Linux con Wine.
+
+=== En Windows ===
+/CrearEjecutableWindows: Cómo crear ejecutables para Windows nativamente.
 
 == Hilos y concurrencia ==
 === threads ===
 ComunicarThreadsConQueue: ejemplo sobre como comunicar y sincronizar threads usando colas
 
 == Xml ==
+=== Xml a Diccionario ===
 ["XmlADiccionario"]: este ejemplo muestra como convertir un string xml en un conjunto de diccionarios y listas anidadas, también provee de dos clases que permiten acceder a los diccionarios y listas como si fueran objetos.
 
+=== SimpleXmlElement ===
 SimpleXmlElement: ejemplo de manejo de xml por elementos simples (simil php), permite leer y/o crear xml accediendo a los tags como si fueran atributos de un objeto.
+
+== Pdf ==
+=== Generación de Facturas en PDF ===
+
+/FacturaPyFpdf: Ejemplo de como generar una factura gráficamente en PDF utilizando PyFpdf
