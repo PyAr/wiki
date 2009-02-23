@@ -24,7 +24,7 @@ Por favor, alfabético por apellido. Locale es_AR :)
  1. FacundoBatista
  1. [:AlejandroJCura:alecu] y familia
  1. GonzaloDelgado
- 1. LeonardoDeLuca y (quizás) familia
+ 1. LeonardoDeLuca --(y (quizás) familia)--
  1. SebastiánDesimone
  1. MarcosDione
  1. HoracioDuran
