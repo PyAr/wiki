@@ -25,7 +25,7 @@
 
 = Próxima Reunión =
 
-== Reunión 35 - Viernes 13/03/09 - Guardia Vieja y Medrano - 19.00hs ==
+== Reunión 35 - Viernes 13/03/09 - Guardia Vieja y Medrano, Capital Federal - 19.00hs ==
 La fecha solo es una proposición.
 
 '''Temas:'''
@@ -36,7 +36,8 @@ La fecha solo es una proposición.
 ''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
 
  || GabrielBrunacci ||
+ || [wiki:AlejandroJCura alecu] ||
 
 
 ''' ¿Dónde? ''' 
-Un bar en Guardia Vieja y Medrano (alguien sabe el nombre?). Donde se realizo la última reunión. Era bastante bueno el lugar y no estaría mal repetirlo
+Una pizzería en Guardia Vieja y Medrano (alguien sabe el nombre?). Donde se realizo la última reunión de Buenos Aires. El lugar era bastante bueno y económico, y no estaría mal repetirlo.
