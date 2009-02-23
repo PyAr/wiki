@@ -26,7 +26,6 @@
 = Próxima Reunión =
 
 == Reunión 35 - Viernes 13/03/09 - Guardia Vieja y Medrano, Capital Federal - 19.00hs ==
-La fecha solo es una proposición.
 
 '''Temas:'''
 
