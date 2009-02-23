@@ -38,6 +38,7 @@ La fecha solo es una proposición.
  || GabrielBrunacci ||
  || [wiki:AlejandroJCura alecu] ||
  || GustavoVillada ||
+ || FacundoBatista ||
 
 
 ''' ¿Dónde? ''' 
