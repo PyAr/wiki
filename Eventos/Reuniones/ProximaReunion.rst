@@ -39,6 +39,7 @@
  || [wiki:AlejandroJCura alecu] ||
  || GustavoVillada ||
  || FacundoBatista ||
+ || MarianoReingart ||
 
 
 ''' ¿Dónde? ''' 
