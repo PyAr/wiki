@@ -32,6 +32,7 @@ La fecha solo es una proposición.
 
  * PyCon-Ar 2009
  * EduPython
+ * PyCamp
 
 ''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
 
