@@ -43,7 +43,7 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr, están rela
 
  * [http://www.nsis.com.ar/public/wiki/PyAfip PyAfip]
   * Interfaces y Herramientas relacionadas con la AFIP (Administración Federal de Ingresos Públicos)
-   * Servicios web de [http://www.nsis.com.ar/public/wiki/FacturaElectronica Factura Electrónica] (Interfase con otros lenguajes: [http://www.nsis.com.ar/public/wiki/PyAfipWs PyAfipWs])
+   * Servicios web de [http://www.nsis.com.ar/public/wiki/FacturaElectronica Factura Electrónica] (Interfase con otros lenguajes: [http://groups.google.com.ar/group/pyafipws PyAfipWs])
    * SIAP Libre
    * Controladores Fiscales
 
