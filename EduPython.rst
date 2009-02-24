@@ -32,7 +32,7 @@ La idea de este proyecto es armar y dictar charlas sobre Python  en colegios sec
 
 == Más sobre el temario de la charla ==
 
-=== Intruduccion a Python. ===
+=== Introducción a Python. ===
  * ¿Que es Python?
  * ¿Que ventajas tiene Python frente a otros lenguajes?
  * ¿Que limitaciones tiene Python frente a otros lenguajes?
