@@ -97,3 +97,10 @@ PDF: attachment:Automated%20Security%20Testing.pdf .
 ''Héctor Karucha Sanchez, Alejandro J. Cura, Manuel Kaufmann''
 
 '''Slides:''' [http://code.google.com/p/charla-pygame/] (se baja por svn, y se ejecuta en python)
+
+----
+== Factura Electrónica en Python e interfaces a otros lenguajes ==
+
+''Mariano Reingart, Marcelo Alaniz''
+
+'''Slides:''' [http://docs.google.com/Presentation?id=dd9bm82g_0gch79pch]
