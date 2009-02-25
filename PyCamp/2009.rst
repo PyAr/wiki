@@ -22,6 +22,7 @@ Por favor, alfabético por apellido. Locale es_AR :)
 
 == Confirmados ==
  1. FacundoBatista
+ 1. MartínBorthiry
  1. [:AlejandroJCura:alecu] y familia
  1. GonzaloDelgado
  1. LeonardoDeLuca --(y (quizás) familia)--
@@ -89,8 +90,9 @@ Si te gusta el café Bonafide Franja Blanca anotate aca con la fracción con la 
 1/4 [wiki:MarianoMara Mariano Mara][[BR]]
 1/4 LucioTorre[[BR]]
 1/4 [wiki:AlejandroDavidWeil Dave][[BR]]
-1/4 JohnLenton
-1/4 HugoRuscitti
+1/4 JohnLenton[[BR]]
+1/4 HugoRuscitti[[BR]]
+1/4 SebastianDesimone[[BR]]
 
 = El robusto toro rojo =
 
