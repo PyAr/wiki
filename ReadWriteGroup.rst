@@ -14,6 +14,7 @@
  * DionisioAlonso
  * dieresys
  * DummyFacundo
+ * EstebanSoler
  * FedeHeinz
  * GabrielBrunacci
  * GabrielGenellina
@@ -79,6 +80,7 @@
  * SantiagoBruno
  * SebastianAlvarez
  * SebastianBassi
+ * SebastianDesimone
  * SebastianLezica
  * SergioVernis
  * TomasZulberti
