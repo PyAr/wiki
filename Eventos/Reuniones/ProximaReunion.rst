@@ -43,6 +43,7 @@
  || TomasZulberti ||
  || LeonardoDeLuca ||
  || NicolasMiyasato ||
+ || HectorSanchez ||
 
 ''' ¿Dónde? ''' 
 Una pizzería en Guardia Vieja y Medrano (alguien sabe el nombre?). Donde se realizo la última reunión de Buenos Aires. El lugar era bastante bueno y económico, y no estaría mal repetirlo.
