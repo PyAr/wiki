@@ -48,7 +48,7 @@ Acá van los temas propuestos, con adherentes:
   1. [:AlejandroJCura:alecu]
   1. RicardoKirkner
   2. GonzaloDelgado
- Tracs de usla:: plugins para git, mercurial, etc.
+ Tracs de usla:: plugins para git, mercurial, etc. [https://fedorahosted.org/web/new fedora hace algo parecido]
   1. [:AlejandroJCura:alecu]
   1. RicardoKirkner
  Recetario:: aumentar exponencialmente la cantidad de recetas que hay en el sitio de Python Argentina con el input de todos los presentes: se pueden presentar las ideas y discutirlas en público.
