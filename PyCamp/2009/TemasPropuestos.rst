@@ -28,6 +28,7 @@ Acá van los temas propuestos, con adherentes:
   1. [:HoracioDuran:perrito]
   1. JaviMansilla
   1. ManuelKaufmann
+  1. GonzaloDelgado
  Cocos2d:: Agregar fluidos, editor de escenarios no tileados [http://blog.wolfire.com/2009/01/aquaria-design-tour/ similar a este]?, muchos etcs.
   1. [:AlejandroJCura:alecu]
   1. LucioTorre
@@ -46,6 +47,7 @@ Acá van los temas propuestos, con adherentes:
  Sysadmining:: muchas tareas (actualizar moin de pyar, usar nuevos dominios .org.ar, etc.)
   1. [:AlejandroJCura:alecu]
   1. RicardoKirkner
+  2. GonzaloDelgado
  Tracs de usla:: plugins para git, mercurial, etc.
   1. [:AlejandroJCura:alecu]
   1. RicardoKirkner
