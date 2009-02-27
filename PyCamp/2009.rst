@@ -46,9 +46,7 @@ Por favor, alfabético por apellido. Locale es_AR :)
  1. DavidWeil
  1. PabloZiliani (?)
  1. HugoRuscitti
-
-
-
+ 1. AgustinHenze
 
 == Con muchas ganas, pero no confirmados ==
  1. RobertoAllende
@@ -62,10 +60,9 @@ Por favor, alfabético por apellido. Locale es_AR :)
  1. MauroCaceres
  1. MartinAlbisetti
  1. MarceloFernández
- 1. [:Macarse:Macarse]
+ 1. ["Macarse"]
  1. GuillermoGonzalez
  1. MartinPieuchot
- 
 
 [[Anchor(queriendobecas)]]
 == Con muchas ganas, pero sin plata ==
@@ -80,20 +77,10 @@ Por favor, alfabético por apellido. Locale es_AR :)
  * Remera: RayentrayTappa (?)
  * Todo lo demás: JohnLenton
 
-
 = La delgada Franja Blanca: codename hex(51966) =
 Si te gusta el café Bonafide Franja Blanca anotate aca con la fracción con la que te interese cooperar (Viene en fracciones de 1/4, 1/2 y 1 Kilo). La semana del campamento, antes de salir, alguien de Córdoba va a comprar y lleva así esta bien fresco. Una vez allá hacemos la división de gastos
 
-1/4 GonzaloDelgado[[BR]]
-1/4 [wiki:HoracioDuran perrito][[BR]]
-1/4 FacundoBatista[[BR]]
-1/4 [wiki:MarianoMara Mariano Mara][[BR]]
-1/4 LucioTorre[[BR]]
-1/4 [wiki:AlejandroDavidWeil Dave][[BR]]
-1/4 JohnLenton[[BR]]
-1/4 HugoRuscitti[[BR]]
-1/4 SebastianDesimone[[BR]]
+1/4 GonzaloDelgado[[BR]] 1/4 [:HoracioDuran:perrito][[BR]] 1/4 FacundoBatista[[BR]] 1/4 [:MarianoMara:Mariano Mara][[BR]] 1/4 LucioTorre[[BR]] 1/4 [:AlejandroDavidWeil:Dave][[BR]] 1/4 JohnLenton[[BR]] 1/4 HugoRuscitti[[BR]] 1/4 SebastianDesimone[[BR]]
 
 = El robusto toro rojo =
-
  * 2 latitas/día max RamiroMorales
