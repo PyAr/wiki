@@ -22,3 +22,16 @@ Están hechos con Inkscape.
  * PyAr: Titulo de la cartelera [attachment:Eventos/Conferencias/8JRSL/Carteles/PyAr.svg PyAr.svg]
  * Sorteo: [attachment:Eventos/Conferencias/8JRSL/Carteles/sorteo.svg sorteo.svg]
  * Cartelera de Trabajos: [attachment:Eventos/Conferencias/8JRSL/Carteles/Trabajos.odt Trabajos.odt] [attachment:Eventos/Conferencias/8JRSL/Carteles/labura.svg labura.svg]
+
+= Banners para Eventos =
+
+El logo de PyAr, Python Argentina, www.python.org.ar, el logo de Python y las franjas celestes de la bandera ya estan impresos. 
+
+El nombre del evento, lugar, fecha y logo (la serpiente de wx) se despegan y se puede plotear y pegar otras cosas para reusarlo (de hecho, el de la foto esta reusando un banner anterior).
+
+ * Dimensiones: 1.90m por 80cms
+ * Cantidad: 2 (pedirlos a la lista, a determinar el lugar donde se guardaran)
+ * Estructura: caños autoportantes (por experiencia, llegar unos minutos antes para armarlos)
+ * Todo se desarma y se lleva en una bolsa de 1m de alto más o menos.
+ * Demo: [attachment:banner-demo.jpg banner-demo.jpg]
+ * Foto: [attachment:banner.jpg banner.jpg]
