@@ -6,6 +6,8 @@ Acá van los temas propuestos, con adherentes:
  CDPedia:: La wikipedia offline en un disquito! http://code.google.com/p/cdpedia/
   1. FacundoBatista
   1. [:AlejandroJCura:alecu]
+  1. MarcosDione
+
  BugDay:: Salimos a la caza de bugs de Python (esto seguro que será sólo medio día o un día como muuucho)
   1. FacundoBatista
   1. JohnLenton
@@ -29,6 +31,7 @@ Acá van los temas propuestos, con adherentes:
   1. JaviMansilla
   1. ManuelKaufmann
   1. GonzaloDelgado
+  1. MarcosDione
  Cocos2d:: Agregar fluidos, editor de escenarios no tileados [http://blog.wolfire.com/2009/01/aquaria-design-tour/ similar a este]?, muchos etcs.
   1. [:AlejandroJCura:alecu]
   1. LucioTorre
@@ -48,10 +51,12 @@ Acá van los temas propuestos, con adherentes:
   1. [:AlejandroJCura:alecu]
   1. RicardoKirkner
   2. GonzaloDelgado
+  1. MarcosDione
  Tracs de usla:: plugins para git, mercurial, etc. [https://fedorahosted.org/web/new fedora hace algo parecido]
   1. [:AlejandroJCura:alecu]
   1. RicardoKirkner
- Recetario:: aumentar exponencialmente la cantidad de recetas que hay en el sitio de Python Argentina con el input de todos los presentes: se pueden presentar las ideas y discutirlas en público.
+  1. MarcosDione
+ Recetario:: aumentar exponencialmente la cantidad de recetas que hay en el sitio de Python Argentina con el input de todos los   presentes: se pueden presentar las ideas y discutirlas en público.
   1. [:MarianoMara:Mariano Mara]
   1. MarianoReingart
   1. HectorSanchez
@@ -60,6 +65,8 @@ Acá van los temas propuestos, con adherentes:
   1. ManuelKaufmann
  PyCamp:: pensar y decidir qué va a ser de PyCamp en el futuro.
   1. JohnLenton
+  1. MarcosDione
  PyCon2009:: charlar, debatir, actualizar, ver, divulgar, compartir, discutir todo tipo de temas relacionados con PyCon Argentina.
   1. ManuelKaufmann
- Editor de Texto deadmatch:: Cuan pupudo es el editor de texto que usas para programar python. ''Machos'' abstenerce: yo también puedo programar con una impresora braile pero prefiero herramientas que me ayuden. Como puede que se haga largo, lo armamos acá: TextEditorDeadMatch 
+  1. MarcosDione
+ Editor de Texto deadmatch:: Cuan pupudo es el editor de texto que usas para programar python. ''Machos'' abstenerce: yo también puedo programar con una impresora braile pero prefiero herramientas que me ayuden. Como puede que se haga largo, lo armamos acá: TextEditorDeadMatch
