@@ -104,3 +104,10 @@ PDF: attachment:Automated%20Security%20Testing.pdf .
 ''Mariano Reingart, Marcelo Alaniz''
 
 '''Slides:''' [http://docs.google.com/Presentation?id=dd9bm82g_0gch79pch]
+
+----
+== Introducción a Python 2da. parte (Librería Estandar, Bases de datos, Aplicaciones, Interfases, etc.) ==
+
+''Mariano Reingart''
+
+'''Slides:''' [attachment:intropython2.odp ODP] - [attachment:intropython2.pdf PDF]
