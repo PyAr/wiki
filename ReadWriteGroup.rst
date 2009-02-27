@@ -1,5 +1,5 @@
 #acl AdminGroup:admin,read,write,revert Known:read
- * AgustinHenze
+ * agustinhenze
  * AlejandroDavidWeil
  * AlejandroJCura
  * alfonsopalomares
