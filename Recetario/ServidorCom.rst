@@ -108,7 +108,6 @@ import py2exe
 
 setup( name = "MiServidorCOM",
     com_server = ["miservidorcom"],
-    options=opts,
        )
 }}}
 
