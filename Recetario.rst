@@ -93,3 +93,14 @@ SimpleXmlElement: ejemplo de manejo de xml por elementos simples (simil php), pe
 === Generación de Facturas en PDF ===
 
 /FacturaPyFpdf: Ejemplo de como generar una factura gráficamente en PDF utilizando PyFpdf
+
+
+== Dbf ==
+=== Leer y modificar Archivos .DBF ===
+
+/DbfPy: Ejemplo de como leer y modificar bases de datos en formato DBF 
+
+== Windows ==
+=== Servidor Interfase C.O.M. ===
+
+/ServidorCom: Ejemplo de como exponer objetos python a otros lenguajes (VB, VFP, etc.) vía interfase COM
