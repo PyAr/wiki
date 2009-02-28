@@ -99,6 +99,10 @@ Los ORMS mas importantes para python son:
 
 Por el momento no hay ningún concenso en la lista sobre cual es mejor o peor.
 
+==== PlPython: Python dentro de PostgreSQL ====
+
+La página PlPython contiene un "tutorial" sobre como usar funciones Python dentro de la base de datos relacional PostgreSQL (tanto procedimientos almacenados como triggers/disparadores).
+
 === Programación de interfaces gráficas (toolkits) ===
 
 La página InterfacesGraficas describe las diversas opciones disponibles en Python: wx, gtk, qt, etc., sus comparaciones, ventajas y desventajas y código de ejemplo. 
@@ -144,6 +148,10 @@ En el ambito local:
  * [http://www.fierro-soft.com.ar Sistema Fierro]: sistema de gestión para librerias y editoriales (interfaz wx)
 
 Nota: la lista no pretende ser completa, solo se presentan algunas de las aplicaciones más conocidas, relevantes y/o utilizadas por gran numero de personas.
+
+=== ¿En que difiere Python y VisualBasic? ===
+
+La página VisualBasic detalla las similitudes y diferencias entre ambos lenguajes. 
 
 == Preguntas surtidas ==
 
