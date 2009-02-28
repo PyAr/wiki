@@ -11,7 +11,7 @@ Es necesario instalar [http://starship.python.net/crew/mhammond/win32/Downloads.
 
 ==== Ejemplo: ====
 
-El ejemplo en Python (servidorcom.py) registra un objeto python MiMiniInterpretePython, exponiendo:
+El ejemplo en Python (miservidorcom.py) registra un objeto python MiMiniInterpretePython, exponiendo:
  * Atributo Version: almacena la versión del interprete
  * Método Evaluar: evalua la expresión python recibida y devuelve su resultado
 
@@ -54,6 +54,7 @@ python miservidorcom.py --register
 }}}
 
 
+
 El siguiente ejemplo en Visual Basic (modulo1.bas) crea el objeto COM ("instanciando" MiMiniInterpretePython) y muestra el atributo (Version), y luego solicita expresiones para evaluar en python.
 
 Archivo modulo1.bas:
@@ -67,9 +68,6 @@ Sub Main()
     Version = ObjetoPython.Version
     MsgBox Version, , "Versión de Python:"
 
-    ' Prueba simple llamando al método vía COM
-    MsgBox ObjetoPython.Evaluar("' '.join(['hola','mundo'])")
-
     Do
         Expresion = InputBox("Ingrese una expresión python para ser evaluada", "Ejemplo COM", "1+2")
         If Expresion = "" Then Exit Sub
@@ -80,6 +78,7 @@ Sub Main()
    
 End Sub
 }}}
+
 
 
 Ejemplo en Visual Fox Pro:
@@ -97,6 +96,7 @@ resultado = ObjetoPython.Evaluar(expresion)
 MESSAGEBOX(resultado, 0)
 
 }}}
+
 
 
 Para generar una DLL o EXE y poder distribuir el servidor com sin necesidad de tener instalado Python, usar Py2Exe con el siguiente script de directivas de instalación (ver [wiki:Recetario/CrearEjecutableWindows CrearEjecutableWindows]):
@@ -125,6 +125,9 @@ o
 {{{
 regsvr32 miservidorcom.dll
 }}}
+
+
+Para Descargar Fuentes: [attachment:ejemplo.zip ejemplo.zip]
 
 ==== Autor / Autores: ====
 MarianoReingart
