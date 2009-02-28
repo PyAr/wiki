@@ -61,7 +61,9 @@ Además, PythonCard dispone de caracteristicas de depuración (depurar menu, log
 == Editor de Pantallas ==
 
 PythonCard viene con un editor de pantallas (resource/layout editor), se encuentra en el menu Inicio, PythonCard, Layout Editor (o buscar el script en C:\Python25\Lib\site-packages\PythonCard\tools\resourceEditor\layoutEditor.py o similar para la plataforma en que estemos).
-Debería aparecer la pantalla de edición (ver imágenes y más información en [http://pythoncard.sourceforge.net/resource_editor_overview.html sitio de PythonCard]).
+Debería aparecer la pantalla de edición (ver imágenes y más información en [http://pythoncard.sourceforge.net/resource_editor_overview.html sitio de PythonCard]):
+
+attachment:pycard1.png
 
 Ejemplo de como crear una aplicación de prueba (que tome una expresión/comando python ingresado por el usuario y devuelva su resultado):
  * Ir al menú ''File'', ''New'', aparece un miniasistente para crear la aplicación
@@ -83,8 +85,10 @@ Ejemplo de como crear una aplicación de prueba (que tome una expresión/comando
  * Grabamos con el menú ''File'', ''Save''
 
 == Editor de Código ==
-PythonCard viene tambien con un editor de código, se encuentra en el menú Inicio, PythonCard, Code Editor (o buscar el script en C:\Python25\Lib\site-packages\PythonCard\tools\resourceEditor\codeEditor.py o similar para la plataforma en que estemos).
-Debería aparecer la pantalla de edición de código (ver imágenes y más información en [http://pythoncard.sourceforge.net/tools/codeEditor.html sitio de PythonCard]).
+PythonCard viene tambien con un editor de código, se encuentra en el menú Inicio, PythonCard, Code Editor (o buscar el script en C:\Python25\Lib\site-packages\PythonCard\tools\resourceEditor\codeEditor.py o similar para la plataforma en que estemos). También esta el ''Tabbed Code Editor'' que nos permite editar multiples archivos y seleccionar los componentes y sus eventos.
+Debería aparecer la pantalla de edición de código (ver imágenes y más información en [http://pythoncard.sourceforge.net/tools/codeEditor.html sitio de PythonCard]):
+
+attachment:pycard2.png
 
 Continuando con el ejemplo de como crear una aplicación de prueba (ver sección anterior):
  * Ir al menú ''File'', ''Open'', abrir el archivo {{{prueba.py}}} generado anteriormente
@@ -97,13 +101,7 @@ Continuando con el ejemplo de como crear una aplicación de prueba (ver sección
 
 === Código completo final del ejemplo: ===
 {{{
-#!/usr/bin/python
-
-"""
-__version__ = "$Revision: 1.5 $"
-__date__ = "$Date: 2004/04/30 16:26:12 $"
-"""
-
+#!python
 from PythonCard import model
 from PythonCard import dialog
 
