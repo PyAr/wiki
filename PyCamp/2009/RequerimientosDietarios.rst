@@ -7,3 +7,4 @@ Listen acá sus requerimientos dietarios.
 || SebastianBassi || Kosher || http://en.wikipedia.org/wiki/Kosher_foods (no, mentira: me encanta el cerdo, incluso no me gusta la cebolla) ||
 || JamesBrownie || Vegetalcalóideo || Guerapa: http://en.wikipedia.org/wiki/Cannabis ||
 ||[:AlejandroDavidWeil:dave]||Todo||En la medida de lo posible, sin ningún queso||
+|| JorgeChamorro || Chivito al asador !! || ||
