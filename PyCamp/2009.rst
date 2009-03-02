@@ -10,7 +10,7 @@ Ver Borrador y mapas en /ComoLlegar
 
 = Qué llevar =
  * Zapatillas (de electricidad)
- * Paletas de Ping-Pong
+ * Paletas de Ping-Pong (y la pelotita)
  * Onda? (perdón, no me pude resistir)
  * ...
 
@@ -24,6 +24,7 @@ Por favor, alfabético por apellido. Locale es_AR :)
  1. FacundoBatista
  1. MartínBorthiry
  1. [:AlejandroJCura:alecu] y familia
+ 1. JorgeChamorro y familia
  1. GonzaloDelgado
  1. LeonardoDeLuca --(y (quizás) familia)--
  1. SebastiánDesimone
