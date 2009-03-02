@@ -44,6 +44,7 @@
  || LeonardoDeLuca ||
  || NicolasMiyasato ||
  || HectorSanchez ||
+ || JorgeChamorro ||
 
 ''' ¿Dónde? ''' 
-Una pizzería en Guardia Vieja y Medrano (alguien sabe el nombre?). Donde se realizo la última reunión de Buenos Aires. El lugar era bastante bueno y económico, y no estaría mal repetirlo.
+Una pizzería en [http://www.openstreetmap.org/?lat=-34.60065&lon=-58.42047&zoom=15&layers=B000FTF Guardia Vieja y Medrano] (alguien sabe el nombre?). Donde se realizo la última reunión de Buenos Aires. El lugar era bastante bueno y económico, y no estaría mal repetirlo.
