@@ -52,6 +52,12 @@ Ahora, ¿a dónde podrías recurrir para obtener información que te inicie en l
  * Acceso a Bases de Datos desde Python: Interface DB-API
   DbApi SebastianBassi, AlejandroJCura y MarianoReingart.
 
+ * Programación de funciones (procedimientos almacenados) y disparadores en PostgreSQL con Pl/Python
+  PlPython MarianoReingart.
+
+ * Desarrollo rápido de aplicaciones simples con interfase gráfica de usuario (GUI) usando PythonCard
+  PythonCard MarianoReingart.
+
 == Documentación oficial sobre Python ==
  * Versión actual
   http://docs.python.org/
