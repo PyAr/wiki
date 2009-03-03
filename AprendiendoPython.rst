@@ -15,7 +15,7 @@ Ahora, ¿a dónde podrías recurrir para obtener información que te inicie en l
 
  * Para quien ya tiene alguna idea, pero necesita buscar algo puntual, puede probar [http://rgruet.free.fr/PQR24/PQR2.4.html Python 2.4 Quick Reference].
 
- * Listado de ["ejercicios"] para practicar Python.
+ * Listado de ["Ejercicios"] para practicar Python.
 
  * Para los impacientes, para quienes quieren impresionar al jefe, para los que gustan de las ejemplos cortos, simples y efectivos, están estos MiniEjemplos.
 
@@ -25,7 +25,7 @@ Ahora, ¿a dónde podrías recurrir para obtener información que te inicie en l
 
 == Otras guias iniciales sobre python en español ==
  * Guia escrita por el autor de Python.
-  [http://es.tldp.org/Tutoriales/Python/Tutorial-Python/ Guia de Aprendizaje de Python] Guido van Rossum Oct2000 - Traduccion projecto tldp-es
+  [http://es.tldp.org/Tutoriales/Python/tut.pdf Guia de Aprendizaje de Python] Guido van Rossum Oct2000 - Traduccion projecto tldp-es
 
  * Completa introducción a Python.
   [http://users.servicios.retecal.es/tjavier/python/Un_poco_de_Python.html Un poco de python] Tomás Javier Robles Prado
@@ -37,14 +37,14 @@ Ahora, ¿a dónde podrías recurrir para obtener información que te inicie en l
   [http://usuarios.lycos.es/arturosa/pag/documentacion/pythoninstantaneo.html Python Instantáneo] Magnus Lie Hetland  - Traducción de Marcos Sánchez Provencio
 
  * Guía para alguien que no tiene experiencia previa en programación.
-  [http://honors.montana.edu/~jjc/easytut/easytut_es/ Tutor para No-Programadores] Josh Cogliati 1999-2002 - Traducción Victor M. Rosas Garcia.
+  [http://honors.montana.edu/~jjc/easytut/easytut_es/ Tutor para No-Programadores] Josh Cogliati 1999-2002 - Traducción Victor M. Rosas Garcia. '''(link roto)'''
 
 == Documentación adicional sobre python en español ==
  * Introducción a Python y PostgreSQL Un ejemplo sencillo
   [http://users.servicios.retecal.es/tjavier/docfinal/out-htmls/index.html Introduccion a python/postgresql] Tomás Javier Robles Prado 2002
 
  * Implementando el patrón MVC con Webware-WebKit y PySQLite en la Web
-  [http://pythonmexico.org/index_html/doc/mvc1/mvc.html Patron MVC] César Cárdenas
+  [http://pythonmexico.org/index_html/doc/mvc1/mvc.html Patron MVC] César Cárdenas '''(link roto)'''
 
  * Procesando archivos XML con minidom, que forma parte de la libreria estandar de Python
   [http://sbassi.googlepages.com/leyendoxmlenpython:dom2 Introducción a Minidom] SebastianBassi.
@@ -68,4 +68,8 @@ Ahora, ¿a dónde podrías recurrir para obtener información que te inicie en l
  * Versión en desarrollo
   http://docs.python.org/dev/library/index.html
 
-'' Links revisados al 15/11/06 ''
+== Ejemplos prácticos de problemas y soluciones frecuentes ==
+ * [http://code.activestate.com/recipes/langs/python/ Python Recipes - ActiveState] (Inglés)
+ * [wiki:Recetario Recetario - Python Argentina] (Español)
+
+'' Links revisados al 03/03/2008 ''
