@@ -52,7 +52,7 @@ Por favor, alfabético por apellido. Locale es_AR :)
 == Con muchas ganas, pero no confirmados ==
  1. RobertoAllende
  1. SebastianBassi
- 1. NataliaBidart
+ 1. NatyBidart
  1. MatiasBordese
  1. [:JoseluisDallapiccola:Jose Luis Dallapiccola]
  1. FedeHeinz
