@@ -5,6 +5,7 @@
 || '''Nombre'''   || '''Origen'''      || '''Movilidad''' || '''¿Hay lugar?''' ||
 || FacundoBatista || Buenos Aires      || Colectivo       || X                 ||
 || LeonardoDeLuca || Buenos Aires      || Colectivo       || X                 ||
+|| RicardoKirkner || Buenos Aires      || Colectivo       || X                 ||
 || RicardoQuesada || Buenos Aires      || Colectivo       || X                 ||
 || LucioTorre     || Buenos Aires      || Colectivo       || X ||
 || HectorSanchez  || Buenos Aires      || Colectivo       || X ||
