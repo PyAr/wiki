@@ -83,7 +83,7 @@ Por favor, alfabético por apellido. Locale es_AR :)
 = La delgada Franja Blanca: codename hex(51966) =
 Si te gusta el café Bonafide Franja Blanca anotate aca con la fracción con la que te interese cooperar (Viene en fracciones de 1/4, 1/2 y 1 Kilo). La semana del campamento, antes de salir, alguien de Córdoba va a comprar y lleva así esta bien fresco. Una vez allá hacemos la división de gastos
 
-1/4 GonzaloDelgado[[BR]] 1/4 [:HoracioDuran:perrito][[BR]] 1/4 FacundoBatista[[BR]] 1/4 [:MarianoMara:Mariano Mara][[BR]] 1/4 LucioTorre[[BR]] 1/4 [:AlejandroDavidWeil:Dave][[BR]] 1/4 JohnLenton[[BR]] 1/4 HugoRuscitti[[BR]] 1/4 SebastianDesimone[[BR]]
+1/4 GonzaloDelgado[[BR]] 1/4 [:HoracioDuran:perrito][[BR]] 1/4 FacundoBatista[[BR]] 1/4 [:MarianoMara:Mariano Mara][[BR]] 1/4 LucioTorre[[BR]] 1/4 [:AlejandroDavidWeil:Dave][[BR]] 1/4 JohnLenton[[BR]] 1/4 AnthonyLenton[[BR]] 1/4 HugoRuscitti[[BR]] 1/4 SebastianDesimone[[BR]]
 
 = El robusto toro rojo =
  * 2 latitas/día max RamiroMorales
