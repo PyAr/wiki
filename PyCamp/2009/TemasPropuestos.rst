@@ -3,6 +3,7 @@ Acá van los temas propuestos, con adherentes:
  Tema Ejemplo:: descripción del tema
   1. AdherenteUno
   1. AdherenteDos
+
  CDPedia:: La wikipedia offline en un disquito! http://code.google.com/p/cdpedia/
   1. FacundoBatista
   1. [:AlejandroJCura:alecu]
@@ -13,6 +14,7 @@ Acá van los temas propuestos, con adherentes:
   1. FacundoBatista
   1. JohnLenton
   1. JaviMansilla
+  1. AnthonyLenton
   1. [:MarianoMara:Mariano Mara]
   1. ManuelKaufmann
   1. [:AlejandroDavidWeil:dave]
@@ -30,6 +32,7 @@ Acá van los temas propuestos, con adherentes:
   1. MarianoReingart
   1. [:AlejandroJCura:alecu]
   1. HectorSanchez
+  1. AnthonyLenton
 
  Mejorar naushika:: mejorar o rehacer el robot del canal de IRC de PyAr ([:PyCamp/2009/NaushikaNG:lista de cosas a hacerle])
   1. JohnLenton
@@ -39,15 +42,20 @@ Acá van los temas propuestos, con adherentes:
   1. ManuelKaufmann
   1. GonzaloDelgado
   1. MarcosDione
+  1. AnthonyLenton
+
  Cocos2d:: Agregar fluidos, editor de escenarios no tileados [http://blog.wolfire.com/2009/01/aquaria-design-tour/ similar a este]?, muchos etcs.
   1. [:AlejandroJCura:alecu]
   1. LucioTorre
   1. RicardoQuesada
   1. [:AlejandroDavidWeil:dave]
+  1. AnthonyLenton
 
  Cocos2d:: Cocos Live cliente/server
   1. RicardoQuesada
   1. [:AlejandroJCura:alecu]
+  1. AnthonyLenton
+
  Reply:: cerrar el primer release de la lib de reinforcement learning. (agregar function aproximation, limpiar los ejemplos, crear monitores)
   1. LucioTorre
   1. RicardoKirkner
@@ -58,6 +66,7 @@ Acá van los temas propuestos, con adherentes:
   1. RicardoKirkner
   1. FacundoBatista
   1. [:AlejandroDavidWeil:dave]
+  1. AnthonyLenton
 
  Sysadmining:: muchas tareas (actualizar moin de pyar, usar nuevos dominios .org.ar, etc.)
   1. [:AlejandroJCura:alecu]
@@ -71,17 +80,21 @@ Acá van los temas propuestos, con adherentes:
   1. RicardoKirkner
   1. MarcosDione
 
- Recetario:: aumentar exponencialmente la cantidad de recetas que hay en el sitio de Python Argentina con el input de todos los   presentes: se pueden presentar las ideas y discutirlas en público.
+ Recetario:: aumentar exponencialmente la cantidad de recetas que hay en el sitio de Python Argentina con el input de todos los presentes: se pueden presentar las ideas y discutirlas en público.
   1. [:MarianoMara:Mariano Mara]
   1. MarianoReingart
   1. HectorSanchez
+
  acheckersgame:: Continuar con el desarrollo del juego de damas: http://code.google.com/p/acheckersgame/
   1. HectorSanchez
   1. ManuelKaufmann
+
  PyCamp:: pensar y decidir qué va a ser de PyCamp en el futuro.
   1. JohnLenton
   1. MarcosDione
+
  PyCon2009:: charlar, debatir, actualizar, ver, divulgar, compartir, discutir todo tipo de temas relacionados con PyCon Argentina.
   1. ManuelKaufmann
   1. MarcosDione
- Editor de Texto deadmatch:: Cuan pupudo es el editor de texto que usas para programar python. ''Machos'' abstenerce: yo también puedo programar con una impresora braile pero prefiero herramientas que me ayuden. Como puede que se haga largo, lo armamos acá: TextEditorDeadMatch
+
+ Editor de Texto deathmatch:: Cuan pupudo es el editor de texto que usas para programar python. ''Machos'' abstenerce: yo también puedo programar con una impresora braile pero prefiero herramientas que me ayuden. Como puede que se haga largo, lo armamos acá: TextEditorDeadMatch
