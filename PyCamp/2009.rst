@@ -49,6 +49,7 @@ Por favor, alfabético por apellido. Locale es_AR :)
  1. HugoRuscitti
  1. AgustinHenze
 
+
 == Con muchas ganas, pero no confirmados ==
  1. RobertoAllende
  1. SebastianBassi
@@ -66,6 +67,7 @@ Por favor, alfabético por apellido. Locale es_AR :)
  1. ["Macarse"]
  1. GuillermoGonzalez
  1. MartinPieuchot
+ 1. [:RobertoRodríguez:Roberto Rodríguez]
 
 [[Anchor(queriendobecas)]]
 == Con muchas ganas, pero sin plata ==
