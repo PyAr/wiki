@@ -18,6 +18,7 @@ Acá van los temas propuestos, con adherentes:
   1. [:MarianoMara:Mariano Mara]
   1. ManuelKaufmann
   1. [:AlejandroDavidWeil:dave]
+  1. FedeHeinz
 
  PyAfip:: Terminar y/o revisar [http://www.nsis.com.ar/public/wiki/PyAfip PyAfip] ([http://www.nsis.com.ar/public/wiki/SiaPy SiaPy: SIAP libre], [http://www.nsis.com.ar/public/wiki/PyAfipWs PyAfipWs: Factura Electrónica])
   1. MarianoReingart
