@@ -5,13 +5,14 @@ Si usted se inscribe acá probablemente reciba emails contactándolo.
 ||AlejandroDavidWeil ||  ||  ||Capital Federal y Gran Buenos Aires ||
 ||DanielMoisset || Sí || No || en Córdoba, trabajo remotamente ||
 ||FacundoBatista ||  ||  ||  ||
-||GuillermoFreschi || || || (físicamente en) Chaco y Corrientes ||
+||GuillermoFreschi ||  ||  || (físicamente en) Chaco y Corrientes ||
 ||HoracioDuran || Sí || No || en Córdoba, trabajo remotamente ||
-||MarceloAlaniz ||  ||  ||  (físicamente en) San Luis||
+||MarceloAlaniz ||  ||  ||  (físicamente en) San Luis ||
 ||JavierMansilla || Sí || No || en Córdoba, trabajo remotamente ||
 ||SantiagoSuarezO ||  ||  ||  ||
 ||JohnLenton ||  ||  || (físicamente en) Córdoba ||
 ||[http://gonzalodelgado.com.ar/ Gonzalo Delgado] ||  ||  || (físicamente en) Tucumán ||
-||HernanOlivera ||  ||  || (teletrabajo)  ||
+||HernanOlivera ||  ||  || (teletrabajo) ||
 ||[http://www.python.com.ar/moin/arturoeanton Arturo Elias Anton] ||  ||  ||  ||
-||RicardoKirkner || || || ||
+||RicardoKirkner ||  ||  ||  ||
+||MartinBorthiry ||  ||  ||  (Teletrabajo) Mar del Plata||
