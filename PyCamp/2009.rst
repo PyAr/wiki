@@ -42,7 +42,7 @@ Por favor, alfabético por apellido. Locale es_AR :)
  1. RamiroMorales
  1. RicardoQuesada
  1. ManuelQuiñones
- 1. MarianoReingart y familia*
+ 1. MarianoReingart --(y familia*)--
  1. HugoRuscitti
  1. HectorSanchez
  1. EstebanSoler
@@ -94,6 +94,7 @@ Si te gusta el café Bonafide Franja Blanca anotate aca con la fracción con la 
  * 1/4 HugoRuscitti
  * 1/4 SebastianDesimone
  * 1/4 PabloZiliani
+ * 1/4 MarianoReingart
 
 = El robusto toro rojo =
  * 2 latitas/día max RamiroMorales
