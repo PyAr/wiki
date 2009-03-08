@@ -37,6 +37,7 @@ Por favor, alfabético por apellido. Locale es_AR :)
  1. JohnLenton
  1. JaviMansilla
  1. MarianoMara
+ 1. [:miya:Nicolás Miyasato]
  1. RamiroMorales
  1. RicardoQuesada
  1. ManuelQuiñones
@@ -49,7 +50,6 @@ Por favor, alfabético por apellido. Locale es_AR :)
  1. HugoRuscitti
  1. AgustinHenze
  1. FedeHeinz + Joel (sólo el finde)
- 1. [:miya:Nicolás Miyasato]
 
 == Con muchas ganas, pero no confirmados ==
  1. RobertoAllende
