@@ -31,6 +31,8 @@ Por favor, alfabético por apellido. Locale es_AR :)
  1. MarcosDione
  1. HoracioDuran
  1. NicoEchaniz
+ 1. FedeHeinz + Joel (sólo el finde)
+ 1. AgustinHenze
  1. [:ManuelKaufmann:El rey del Humo]
  1. RicardoKirkner
  1. AnthonyLenton
@@ -42,14 +44,13 @@ Por favor, alfabético por apellido. Locale es_AR :)
  1. RicardoQuesada
  1. ManuelQuiñones
  1. MarianoReingart y familia*
+ 1. HugoRuscitti
  1. HectorSanchez
  1. EstebanSoler
  1. LucioTorre
+ 1. Marian y familia
  1. DavidWeil
  1. PabloZiliani + Cynthia
- 1. HugoRuscitti
- 1. AgustinHenze
- 1. FedeHeinz + Joel (sólo el finde)
 
 == Con muchas ganas, pero no confirmados ==
  1. RobertoAllende
