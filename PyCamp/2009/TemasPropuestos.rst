@@ -9,6 +9,7 @@ Acá van los temas propuestos, con adherentes:
   1. [:AlejandroJCura:alecu]
   1. MarcosDione
   1. [:AlejandroDavidWeil:dave]
+  1. ManuelQuiñones
 
  BugDay:: Salimos a la caza de bugs de Python (esto seguro que será sólo medio día o un día como muuucho)
   1. FacundoBatista
@@ -51,6 +52,7 @@ Acá van los temas propuestos, con adherentes:
   1. RicardoQuesada
   1. [:AlejandroDavidWeil:dave]
   1. AnthonyLenton
+  1. ManuelQuiñones
 
  Cocos2d:: Cocos Live cliente/server
   1. RicardoQuesada
