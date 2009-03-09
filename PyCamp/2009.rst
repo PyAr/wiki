@@ -26,7 +26,6 @@ Por favor, alfabético por apellido. Locale es_AR :)
  1. [:AlejandroJCura:alecu] y familia
  1. JorgeChamorro y familia
  1. LeonardoDeLuca --(y (quizás) familia)--
- 1. SebastiánDesimone
  1. MarcosDione
  1. HoracioDuran
  1. NicoEchaniz
@@ -92,7 +91,6 @@ Si te gusta el café Bonafide Franja Blanca anotate aca con la fracción con la 
  * 1/4 JohnLenton
  * 1/4 AnthonyLenton
  * 1/4 HugoRuscitti
- * 1/4 SebastianDesimone
  * 1/4 PabloZiliani
  * 1/4 MarianoReingart
 
