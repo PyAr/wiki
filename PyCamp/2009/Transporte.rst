@@ -17,5 +17,4 @@
 || HoracioDuran     || Córdoba           || Colectivo       || colectivo.asientos - len(pasajeros)     ||
 || ManuelKaufmann || Santa Fe / Paraná || Colectivo       || X                 ||
 || EstebanSoler || Mar del Plata || Aún no definimos       ||                  ||
-|| SebastiánDesimone || Mar del Plata || Aún no definimos       ||                  ||
 || MartínBorthiry || Mar del Plata || Aún no definimos       ||                  ||
