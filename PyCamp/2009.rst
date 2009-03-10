@@ -9,10 +9,29 @@ En el Centro Allen Gardiner, en Los Cocos, provincia de Córdoba. [http://maps.g
 Ver Borrador y mapas en /ComoLlegar
 
 = Qué llevar =
+
+== Qué hace falta ==
+ * Por lo menos una remera y conjunto de ropa interior por día
+ * Pantalón largo, jean o similar, que se banque engancharse en un arbusto pinchudo sin romperse
+ * '''ABRIGO''' (de noche va a refrescar)
+ * Malla (hay pileta, y de día puede que haiga calor)
+ * Desodorante
+ * Cepillo y pasta de dientes
+ * Jabón
+ * Toalla
+ * Sábanas o bolsa de dormir
+ * Zapatillas o botas cómodas para caminar
+ * Zapatilla de dos o más bocas y adaptador para 2 patas (la instalación eléctrica en el centro no tiene tierra)
+
+== Qué está bueno ==
+ * telescopio
+ * linterna
+ * libros que te prestaron en un sprint y que si no los llevás para devolver te matan
+
+== Qué hace falta que alguien lleve ==
  * Zapatillas (de electricidad)
  * Paletas de Ping-Pong (y la pelotita)
- * Onda? (perdón, no me pude resistir)
- * ...
+ * Cable de red
 
 = Temario =
 Ver /TemasPropuestos
