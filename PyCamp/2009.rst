@@ -40,6 +40,9 @@ Ver /TemasPropuestos
 Por favor, alfabético por apellido. Locale es_AR :)
 
 == Confirmados ==
+
+Desde donde viajan: [wiki:/Transporte /Transporte]
+
  1. FacundoBatista
  1. MartínBorthiry
  1. [:AlejandroJCura:alecu] (33 años, programador), Lucila (31 años, psicóloga), Amelia (3 meses, beba). alecu y luli comen el menú fijo; amecu toma leche que llevamos para ella.
