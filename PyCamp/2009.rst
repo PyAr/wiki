@@ -11,19 +11,24 @@ Ver Borrador y mapas en /ComoLlegar
 = Qué llevar =
 
 == Qué hace falta ==
+ * Toalla
+ * Notebook, o máquina en que trabajar
+ * Sábanas o bolsa de dormir
+ * Zapatilla de dos o más bocas y adaptador para 2 patas (la instalación eléctrica en el centro no tiene tierra)
  * Por lo menos una remera y conjunto de ropa interior por día
- * Pantalón largo, jean o similar, que se banque engancharse en un arbusto pinchudo sin romperse
  * '''ABRIGO''' (de noche va a refrescar)
- * Malla (hay pileta, y de día puede que haiga calor)
  * Desodorante
  * Cepillo y pasta de dientes
- * Jabón
- * Toalla
- * Sábanas o bolsa de dormir
+ * Jabón, shampoo
+ * Pantalón largo, jean o similar, que se banque engancharse en un arbusto pinchudo sin romperse
  * Zapatillas o botas cómodas para caminar
- * Zapatilla de dos o más bocas y adaptador para 2 patas (la instalación eléctrica en el centro no tiene tierra)
+ * Repelente
+ * Malla (hay pileta, y de día puede que haiga calor)
+ * Protector solar
 
-== Qué está bueno ==
+== Qué estaría bueno llevar ==
+ * Pendrive, cablerío y accesorios de red
+ * Cámara de fotos
  * telescopio
  * linterna
  * libros que te prestaron en un sprint y que si no los llevás para devolver te matan
