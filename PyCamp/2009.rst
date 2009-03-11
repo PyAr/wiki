@@ -77,6 +77,8 @@ Desde donde viajan: [wiki:/Transporte /Transporte]
  1. DavidWeil
  1. PabloZiliani + Cynthia
  1. Polako(Andres Lopez Luksenberg)
+ 1. FedericoPeretti
+
 == Con muchas ganas, pero no confirmados ==
  1. RobertoAllende
  1. SebastianBassi
