@@ -10,6 +10,7 @@ Acá van los temas propuestos, con adherentes:
   1. MarcosDione
   1. [:AlejandroDavidWeil:dave]
   1. ManuelQuiñones
+  1. FedericoPeretti
 
  BugDay:: Salimos a la caza de bugs de Python (esto seguro que será sólo medio día o un día como muuucho)
   1. FacundoBatista
@@ -109,3 +110,4 @@ Acá van los temas propuestos, con adherentes:
   1. NatyBidart (Con muchas ganas, pero no confirmada)
   1. HernánOlivera (remotamente)
   1. RamiroMorales
+  1. FedericoPeretti
