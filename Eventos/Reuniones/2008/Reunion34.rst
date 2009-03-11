@@ -8,6 +8,8 @@ Ojalá la disfruten!
 
 == ¿Tomaron lista? ==
 
+=== otro título ===
+
 ''' Los asistentes en orden de relevamiento y/o llegada: '''
 || Mauro NN (aka "LavaLaMano") (1st Time) ||
 || TomasZulberti ||
@@ -60,7 +62,7 @@ Faltaría agradecer a GonzaloLarralde, cuyo mail enviado al partir de "El Imagin
 
 ''' [http://www.nsis.com.ar/public/wiki/PyReplicaEs PyReplica] y experiencia del [http://www.postgres-arg.org/ 1º PgDay en BsAs]  '''
 
-MarianoReingart nos contó sobre el primer PostgresDay en Argentina. El mismo se llevó a cabo en la Asociación de Programadores de Congreso, el 22 de Noviembre del corriente. Parece que salió muy bien ya que vino gente de Brasil, Venezuela y USA, y si bien eran 30 personas nada más, para una primera reunión es un número más que importante!
+MarianoReingart nos contó sobre el primer PostgresDay en Argentina. El mismo se llevó a cabo en la Asociación de Programadores de Congreso, el 22 de Noviembre del corriente. Parece que salió muy bien ya que vino gente de Brasil, Venezuela y USA, y si bien eran 30 personas nada más, para una primera reunión es un número más que interesante!
 Mariano ayudó en la organización y también dió una de las cuatro charlas, la referida a [http://www.nsis.com.ar/public/wiki/PyReplicaEs PyReplica], que según la definición de su wiki:
 
 ''"PyReplica es un replicador asincrónico maestro-esclavo simple para PostgreSQL basado en Python, usando un disparador maestro en plpython, señales, secuencias, y un script cliente en python (influenciado por slony & londiste, pero mucho más simple y fácil)."''
@@ -83,9 +85,10 @@ Finalmente Mariano mencionó la interesante posibilidad de donar el código fuen
 ''' Organizando PyCon Argentina 2009 '''
 
 Durante la [http://www.python.com.ar/moin/Eventos/Reuniones/Reunion29 última reunión de PyAr en Santa Fé] se anunció, y durante la vuelta del viaje algunos participaron de un brainstorming, para dar vida a PyCon Argentina 2009! Sí!! la versión con choriceada y dulce de leche de [http://www.python.org/community/pycon/ PyCon].
+
 FacundoBatista mencionó los temas críticos y aquellos urgentes para la organización de la misma, los interesados en colaborar puede registrarse en la [http://trac.usla.org.ar/proyectos/pycon-ar/login Wiki de PyCon Argentina].
 
-Temas Críticos
+'''Temas Críticos'''
 
  * Difusión
  * Apoyo y Sponsors
@@ -96,7 +99,7 @@ Temas Críticos
  * Edificio: Varios temas (ej: Ver si hay enchufes en las aulas, etc.).
  * Durante la conferencia: Varios temas (ej: alquiler de handies, registración, etc.).
  
- Temas Urgentes
+'''Temas Urgentes'''
  
   * Lista de Correo: Crear y avisar para que se suscriban todos los interesados.
   * Roles de Asistencia: Repartición de Tareas (mediante la Wiki).
@@ -104,19 +107,24 @@ Temas Críticos
   * Colaboración en el día de la conferencia: Gente a cargo de los alargues, aulas, pisos, cel. de los disertantes, etc.).
   * Estructura Organizativa General: Ver si es una estructura plana, o jerarquizada, etc.
   * Fecha y duración de la conferencia: 2 o 3 días, Qué días? (ej: Jueves, Viernes y Sábado, o Viernes, Sábado y Domingo)
-  * Tracks, Gente y Charlas: Encontrar equilibrio entre charlas de Django, Turbogears, Newbies, etc. Cuantos medios días queremos darle a cada tema? Qué temas? Cuantos tracks disponibles (2 tracks vs. 4 tracks)? Cuanta gente esperamos? Cuantas charlas tenemos? 
   * Cantidad de gente esperada: Gente de Santa Fé, Córdoba. Organización de viajes desde el interior para abaratar costos de personas del interior, etc.
+  * Tracks, Gente y Charlas: 
+    * Encontrar equilibrio entre charlas de Django, Turbogears, Newbies, etc. 
+    * Cuantos medios días queremos darle a cada tema? 
+    * Qué temas? 
+    * Cuantos tracks disponibles (2 tracks vs. 4 tracks, según cuanta gente esperamos)? 
+    * Cuantas charlas tenemos?   
   * Capital Requerido: Cálculo de presupuesto (sponsors, infraestructura, se cobrará entrada?, etc.).
   * Habrá sprints?
 
-''' Sorteo 1 remera Slashdot (aniversario 10 años) '''
+''' Sorteo de una remera Slashdot (aniversario 10 años) '''
 
 Hacia el final de la reunión, gracias a una donación de SebastianBassi y mediante complejos algoritmos matemáticos, ejecutados en diversos dispositivos de alta tecnología como notebooks, iPhones, zapatófonos, iPods, relojes cucú, etc. se obtuvo un simple número de dos cifras. El mismo fue utilizado como índice para acceder a un array de nombres, en cuya posición número 13 alojaba el string "GonzaloLarralde"!!! Felicitaciones Gonzalo por la hermosa remera!
 
 ''' The End '''
 
 Como pudimos; algunos con sus sistemas al 100%, algunos arruinados rippeando Dvds en una XT, otros en piloto automático, pero todos toditos, tuvimos que partir, sip, snif snif :(.
-Después de una noche en donde desfilaron muchas cervezas, acompañadas de muchas pizzas, y donde la amistad le ganó al bit, con una gran sonrisa en nuestras caras todos nos dimos un gran abrazo y partimos hacía nuestros bunkers informáticos (que algunos llaman "hogar").
+Después de una noche en donde desfilaron muchas cervezas, acompañadas de muchas pizzas, y donde la amistad le empató al bit, con una gran sonrisa en nuestras caras todos nos dimos un gran abrazo y partimos hacía nuestros bunkers informáticos (que algunos llaman "hogar").
 
 Espero que todos la hayan pasado igual de bien que yo asistiendo a la reunión, y que se hayan divertido leyendo la minuta tanto como yo escribiéndola!!
 
