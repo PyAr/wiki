@@ -8,8 +8,6 @@ Ojalá la disfruten!
 
 == ¿Tomaron lista? ==
 
-=== otro título ===
-
 ''' Los asistentes en orden de relevamiento y/o llegada: '''
 || Mauro NN (aka "LavaLaMano") (1st Time) ||
 || TomasZulberti ||
