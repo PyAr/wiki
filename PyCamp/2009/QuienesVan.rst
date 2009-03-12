@@ -37,7 +37,7 @@ Desde donde viajan: ["../Transporte"]
  1. ManuelQuiñones
  1. MarianoReingart --(y familia*)--
  1. HugoRuscitti
- 1. HectorSanchez
+ 1. HectorSanchez  (32 años, programador, vuelvo con 33 :( ) (LLego el sábado a las 10:00 am, y vuelvo el martes 24 a las 9:45) al pabellón con los pibes, menú completo.
  1. LucioTorre
  1. Marian y familia
  1. DavidWeil
