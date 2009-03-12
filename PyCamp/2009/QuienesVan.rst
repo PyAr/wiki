@@ -29,7 +29,7 @@ Desde donde viajan: ["../Transporte"]
    Duermo en pabellón, así que como con los monos.
  1. Polako(Andres Lopez Luksenberg)
  1. JaviMansilla
- 1. MarianoMara
+ 1. MarianoMara (Desde Sábado mediados de la mañana hasta el Martes tarde, pabellón, como lo que se pueda...)
  1. [:miya:Nicolás Miyasato] (Desde Sábado a las 10am hasta el Martes a las ~19:30, duermo y me alimento con todos...)
  1. RamiroMorales
  1. FedericoPeretti
