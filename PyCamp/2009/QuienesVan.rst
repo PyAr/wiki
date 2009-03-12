@@ -29,7 +29,7 @@ Desde donde viajan: ["../Transporte"]
  1. Polako(Andres Lopez Luksenberg)
  1. JaviMansilla
  1. MarianoMara
- 1. [:miya:Nicolás Miyasato]
+ 1. [:miya:Nicolás Miyasato] (Desde Sábado a las 10am hasta el Martes a las ~19:30, duermo y me alimento con todos...)
  1. RamiroMorales
  1. FedericoPeretti
  1. RicardoQuesada (3 dias: Domingo, Lunes y Martes)
