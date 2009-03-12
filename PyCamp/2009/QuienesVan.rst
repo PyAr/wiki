@@ -17,6 +17,7 @@ Desde donde viajan: ["../Transporte"]
  1. NicoEchaniz
  1. FedeHeinz + Joel (sólo el finde)
  1. AgustinHenze
+   Sábado:8-Martes:22-Pabellón-Monos...
  1. [:ManuelKaufmann:El rey del Humo]
  1. RicardoKirkner
  1. AnthonyLenton
