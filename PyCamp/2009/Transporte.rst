@@ -10,7 +10,7 @@
 || LucioTorre     || Buenos Aires      || Colectivo       || X ||
 || HectorSanchez  || Buenos Aires      || Colectivo       || X ||
 || NicolasMiyasato  || Buenos Aires      || Colectivo       || X ||
-|| [wiki:AlejandroJCura alecu] y familia || Buenos Aires || lan.com || no se ||
+|| [wiki:AlejandroJCura alecu] y familia || Buenos Aires || lan.com hasta pajas blancas, taxi hasta la terminal, colectivo a los cocos || no se ||
 || NicoEchaniz || Buenos Aires || Colectivo       || X                 ||
 || [wiki:AlejandroDavidWeil dave]|| Buenos Aires || Colectivo || X ||
 || JohnLenton     || Córdoba           || Colectivo       || un montonazón     ||
