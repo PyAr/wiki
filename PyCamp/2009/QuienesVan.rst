@@ -6,7 +6,7 @@ Por favor, alfabético por apellido. Locale es_AR :)
 
 Desde donde viajan: ["../Transporte"]
 
- 1. FacundoBatista
+ 1. FacundoBatista: desde el sábado a las 10, hasta el martes a las 19, morfo con todos, duermo en pabellón.
  1. NatyBidart (Domingo completo y Lunes hasta la tarde)
  1. MatiasBordese (Domingo completo y Lunes hasta la tarde)
  1. [:AlejandroJCura:alecu] (33 años, programador), Lucila (31 años, psicóloga), Amelia (3 meses, beba). alecu y luli comen el menú fijo; amecu toma leche que llevamos para ella. Internet solo para alecu.
