@@ -12,6 +12,7 @@ La idea de este proyecto es armar y dictar charlas sobre Python  en colegios sec
 ||Gabriel Brunacci || gbrunacci ashoba gmail poonto com || Bs.As. Cap Fed ||
 ||Javier Castrillo || riverplatense@gmail.com || Carapachay ||
 ||Matias Gieco || matigro acávaelarroba gmail acávaelpunto com || Paraná, Entre Ríos ||
+||[wiki:MarianoReingart Mariano Reingart] || mariano@nsis.com.ar|| Bs.As. Hurlingham ||
 
 
 == Lista de tareas ==
@@ -29,6 +30,7 @@ La idea de este proyecto es armar y dictar charlas sobre Python  en colegios sec
  * Sintaxis Python
  * Programación OO
  * Jugando en Python
+ * Aplicaciones para aprendizaje
 
 == Más sobre el temario de la charla ==
 
@@ -48,9 +50,15 @@ Ferretería (librerias) util e interesante
 en el que vamos mostrando el lenguaje de a poquito. Algunas librerías
 del lenguaje y demás.
 
+Aplicaciones de aprendizaje:
+ * [http://pythoncard.sourceforge.net/samples/turtle.html Tortuga]: Logo
+ * Teoría de conjuntos
+ * Graficador de funciones (lineales, cuadráticas, etc.)
+ * Resolución de ecuaciones
+
 == Talleres de Python ==
 
  * Python básico
- * Python escritorio (QT, GTK, Wx)
+ * Python escritorio (QT, GTK, Wx, PythonCard)
  * Python Web (Frameworks)
  * Python movil
