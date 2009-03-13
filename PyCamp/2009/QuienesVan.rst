@@ -35,7 +35,7 @@ Desde donde viajan: ["../Transporte"]
  1. FedericoPeretti
  1. RicardoQuesada (3 dias: Domingo, Lunes y Martes)
  1. ManuelQuiñones
- 1. MarianoReingart --(y familia*)--
+ 1. MarianoReingart: llego sábado media mañana, vuelvo martes a la tarde, pabellón y comida igual que la mayoría
  1. HugoRuscitti
  1. HectorSanchez  (32 años, programador, vuelvo con 33 :( ) (LLego el sábado a las 10:00 am, y vuelvo el martes 24 a las 9:45) al pabellón con los pibes, menú completo.
  1. LucioTorre
@@ -55,7 +55,7 @@ Desde donde viajan: ["../Transporte"]
  1. MarceloFernández
  1. ["Macarse"]
  1. GuillermoGonzalez
- 1. MartinPieuchot
+ 1. --(MartinPieuchot)--
  1. [:RobertoRodríguez:Roberto Rodríguez]
 
 [[Anchor(queriendobecas)]]
