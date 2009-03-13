@@ -19,7 +19,7 @@ Desde donde viajan: ["../Transporte"]
  1. AgustinHenze
    Sábado:8-Martes:22-Pabellón-Monos...
  1. [:ManuelKaufmann:El rey del Humo]
- 1. RicardoKirkner
+ 1. RicardoKirkner: desde el sábado a las 10, hasta el martes a las 19; apoyo el socialismo gastro-onírico
  1. AnthonyLenton
  1. JohnLenton
    Desde el sábado a primera hora (las 8?)
