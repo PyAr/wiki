@@ -47,6 +47,10 @@ Desde donde viajan: ["../Transporte"]
  1. Marian y familia
  1. DavidWeil
  1. PabloZiliani + Cynthia
+ 1. [:dieresys:Manuel Muradás] + Vero. Internet solo para mi compu.
+   Arribo: Domingo a la mañana
+
+   Egreso: Martes a la tarde
 
 == Con muchas ganas, pero no confirmados ==
  1. RobertoAllende
@@ -54,7 +58,6 @@ Desde donde viajan: ["../Transporte"]
  1. [:JoseluisDallapiccola:Jose Luis Dallapiccola]
  1. MichelPeterson
  1. NicoCesar
- 1. [:dieresys:Manuel Muradás]
  1. MauroCaceres
  1. MartinAlbisetti
  1. MarceloFernández
