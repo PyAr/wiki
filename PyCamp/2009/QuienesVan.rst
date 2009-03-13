@@ -33,6 +33,11 @@ Desde donde viajan: ["../Transporte"]
  1. [:miya:Nicolás Miyasato] (Desde Sábado a las 10am hasta el Martes a las ~19:30, duermo y me alimento con todos...)
  1. RamiroMorales
  1. FedericoPeretti
+   Desde el sábado a primera hora (las 10:00 mas o menos)
+
+   Hasta el martes a última hora.
+
+   Duermo en pabellón, así que como con todos.
  1. RicardoQuesada (3 dias: Domingo, Lunes y Martes)
  1. ManuelQuiñones
  1. MarianoReingart: llego sábado media mañana, vuelvo martes a la tarde, pabellón y comida igual que la mayoría
