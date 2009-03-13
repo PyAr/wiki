@@ -55,4 +55,4 @@
  || --(GabrielGenellina)-- ||
  || JoaquinSorianello ||
  || AnthonyLenton ||
-''' ¿Dónde? '''  Una pizzería en [http://www.openstreetmap.org/?lat=-34.60065&lon=-58.42047&zoom=15&layers=B000FTF Guardia Vieja y Medrano] (alguien sabe el nombre?). Donde se realizo la última reunión de Buenos Aires. El lugar era bastante bueno y económico, y no estaría mal repetirlo.
+''' ¿Dónde? '''  Una pizzería en [http://www.openstreetmap.org/?lat=-34.60065&lon=-58.42047&zoom=15&layers=B000FTF Guardia Vieja y Medrano] llamada "Pachi". Donde se realizo la última reunión de Buenos Aires. El lugar era bastante bueno y económico, y no estaría mal repetirlo.
