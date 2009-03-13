@@ -40,7 +40,7 @@ Ojalá la disfruten!
 
 == ¿Dónde ocurrió el hecho? ==
 
-Esta parte de la historia arrancó tristemente, pero tuvo final feliz :)
+Esta parte de la historia arrancó tristemente, pero tuvo final feliz! :)
 
 Resulta que nos reunimos en el bar [http://www.imaginariocultural.com.ar/ El Imaginario Cultural], Bulnes y Guardia Vieja, Almagro, Ciudad de Buenos Aires, a las 19:00hs aprox. Esperamos en la vereda hasta que la masa de gente leudó, y entonces nos metimos al bar. Ahí surgió una extraña conversación con la mesera, algo tipo:
  * - PyAr: Somos muchos ¿Podemos poner las mesas en forma de L?
@@ -76,7 +76,7 @@ Con el paso del tiempo más y más rubros están siendo obligados a adoptar esta
 
 Creo muy piola el hecho de poder, mediante esta interfaz, emitir facturas electrónicas desde programas desarrollados en lenguajes viejos.
 
-También se charlo sobre el trabajo en conjunto con MarianoMara para el desarrollo de [http://www.nsis.com.ar/public/wiki/SiaPy SiaPy], que es un prototipo (multiplataforma :) ) de un sistema similar al [http://www.afip.gov.ar/genericos/emisorasGarantias/siap_main.asp SIAP] de la AFIP: un software para generar declaraciones juradas, que sólo corre en Windows :( .
+También se charló sobre el trabajo en conjunto con MarianoMara para el desarrollo de [http://www.nsis.com.ar/public/wiki/SiaPy SiaPy], que es un prototipo (multiplataforma :) ) de un sistema similar al [http://www.afip.gov.ar/genericos/emisorasGarantias/siap_main.asp SIAP] de la AFIP: un software para generar declaraciones juradas, que sólo corre en Windows :( .
 
 Finalmente Mariano mencionó la interesante posibilidad de donar el código fuente de PyAfipWs a la comunidad de Pyar y que los ingresos se utilicen en pos de expandir Python el la Argentina. Grande Mariano! Veremos que pasa...
 
@@ -121,7 +121,7 @@ Hacia el final de la reunión, gracias a una donación de SebastianBassi y media
 
 ''' The End '''
 
-Como pudimos; algunos con sus sistemas al 100%, algunos arruinados rippeando Dvds en una XT, otros en piloto automático, pero todos toditos, tuvimos que partir, sip, snif snif :(.
+Como pudimos; algunos con sus sistemas al 100%, algunos arruinados rippeando Dvds en una XT, otros en piloto automático, pero todos toditos, tuvimos que partir, sip, snif snif :( .
 Después de una noche en donde desfilaron muchas cervezas, acompañadas de muchas pizzas, y donde la amistad le empató al bit, con una gran sonrisa en nuestras caras todos nos dimos un gran abrazo y partimos hacía nuestros bunkers informáticos (que algunos llaman "hogar").
 
 Espero que todos la hayan pasado igual de bien que yo asistiendo a la reunión, y que se hayan divertido leyendo la minuta tanto como yo escribiéndola!!
