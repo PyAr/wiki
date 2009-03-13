@@ -40,7 +40,7 @@ Ojalá la disfruten!
 
 == ¿Dónde ocurrió el hecho? ==
 
-Esta parte de la historia arrancó tristemente, pero tuvo final feliz :).
+Esta parte de la historia arrancó tristemente, pero tuvo final feliz :)
 
 Resulta que nos reunimos en el bar [http://www.imaginariocultural.com.ar/ El Imaginario Cultural], Bulnes y Guardia Vieja, Almagro, Ciudad de Buenos Aires, a las 19:00hs aprox. Esperamos en la vereda hasta que la masa de gente leudó, y entonces nos metimos al bar. Ahí surgió una extraña conversación con la mesera, algo tipo:
  * - PyAr: Somos muchos ¿Podemos poner las mesas en forma de L?
@@ -67,14 +67,14 @@ Mariano ayudó en la organización y también dió una de las cuatro charlas, la
 
 También nos repartió pins! :)
 
-''' Python y los Servicios Web de [http://www.nsis.com.ar/public/wiki/FacturaElectronica Factura Electrónica] (AFIP), interfases con otros lenguajes, SIAP libre... ([http://www.nsis.com.ar/public/wiki/PyAfip PyAfip]) '''
+''' Python y los Servicios Web de [http://www.nsis.com.ar/public/wiki/FacturaElectronica Factura Electrónica] (AFIP), interfaces con otros lenguajes, SIAP libre... ([http://www.nsis.com.ar/public/wiki/PyAfip PyAfip]) '''
 
 Luego MarianoReingart paso a explicar la problemática de las grandes empresas, que al ser autoimpresoras de sus facturas deben solicitar por Internet la autorización de emisión pertinente (CAE: Código de Autorización Electrónica) a la AFIP, mediante un WebService o la Web directamente, como se explica [http://www.afip.gov.ar/eFactura/ aquí]. 
 Con el paso del tiempo más y más rubros están siendo obligados a adoptar esta forma de operación, por eso para poder realizar esto desde programas escritos en Python, MarianoReingart y MarceloAlaniz desarrollaron [http://www.nsis.com.ar/public/wiki/PyAfipWs PyAfipWs], que según su wiki:
 
 ''"PyAfipWs es una interface COM (automatización) a los Servicios Web de la AFIP (web services de autenticación y factura electrónica), utiliza software libre desarrollado en Python y funciona con cualquier lenguaje compatible que pueda crear objetos COM en Windows (Visual Basic, ASP, Fox Pro, Delphi, .Net, Java, etc.)."''
 
-Creo muy piola el hecho de poder, mediante esta interfase, emitir facturas electrónicas desde programas desarrollados en lenguajes viejos.
+Creo muy piola el hecho de poder, mediante esta interfaz, emitir facturas electrónicas desde programas desarrollados en lenguajes viejos.
 
 También se charlo sobre el trabajo en conjunto con MarianoMara para el desarrollo de [http://www.nsis.com.ar/public/wiki/SiaPy SiaPy], que es un prototipo (multiplataforma :) ) de un sistema similar al [http://www.afip.gov.ar/genericos/emisorasGarantias/siap_main.asp SIAP] de la AFIP: un software para generar declaraciones juradas, que sólo corre en Windows :( .
 
