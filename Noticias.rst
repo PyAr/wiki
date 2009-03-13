@@ -22,6 +22,9 @@
 ## lo dejamos un rato comentado, para que este como primer noticia la del pyday.
 ## hay que descomentar después del 01-11-2008
 
+==== 13/03/2009 ====
+ * Por fin está disponible la [http://www.python.com.ar/moin/Eventos/Reuniones/Reunion34 minuta de la reunión 34 de Pyar]!! Tarde pero seguro :)
+
 ==== 14/02/2009 ====
  * Python Argentina se declara en [http://noalcanon.org/ contra al canon digital en Argentina]. ¡Participá vos también! ¡Defendé tus derechos!
 
