@@ -16,3 +16,4 @@
 || JohnLenton     || Córdoba           || Colectivo       || un montonazón     ||
 || HoracioDuran     || Córdoba           || Colectivo       || colectivo.asientos - len(pasajeros)     ||
 || ManuelKaufmann || Santa Fe / Paraná || Colectivo       || X                 ||
+|| MarianoReingart || Buenos Aires || idém alecu || idém alecu ||
