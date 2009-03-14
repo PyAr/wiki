@@ -16,3 +16,4 @@ Si usted se inscribe acá probablemente reciba emails contactándolo.
 ||[http://www.python.com.ar/moin/arturoeanton Arturo Elias Anton] ||  ||  ||  ||
 ||RicardoKirkner ||  ||  ||  ||
 ||MartinBorthiry ||  ||  ||  (Teletrabajo) Mar del Plata||
+||RobertoRodríguez|| || ||Capital Federal y GBA||
