@@ -11,6 +11,7 @@ Acá van los temas propuestos, con adherentes:
   1. [:AlejandroDavidWeil:dave]
   1. ManuelQuiñones
   1. FedericoPeretti
+  1. AgustinHenze
 
  BugDay:: Salimos a la caza de bugs de Python (esto seguro que será sólo medio día o un día como muuucho)
   1. FacundoBatista
@@ -22,6 +23,7 @@ Acá van los temas propuestos, con adherentes:
   1. [:AlejandroDavidWeil:dave]
   1. FedeHeinz
   1. AndresLopezLuksenberg(Polako)
+  1. AgustinHenze
 
  PyAfip:: Terminar y/o revisar [http://www.nsis.com.ar/public/wiki/PyAfip PyAfip] ([http://www.nsis.com.ar/public/wiki/SiaPy SiaPy: SIAP libre], [http://www.nsis.com.ar/public/wiki/PyAfipWs PyAfipWs: Factura Electrónica])
   1. MarianoReingart
@@ -47,6 +49,7 @@ Acá van los temas propuestos, con adherentes:
   1. GonzaloDelgado
   1. MarcosDione
   1. AnthonyLenton
+  1. AgustinHenze
 
  Cocos2d:: Agregar fluidos, editor de escenarios no tileados [http://blog.wolfire.com/2009/01/aquaria-design-tour/ similar a este]?, muchos etcs.
   1. [:AlejandroJCura:alecu]
@@ -112,3 +115,4 @@ Acá van los temas propuestos, con adherentes:
   1. HernánOlivera (remotamente)
   1. RamiroMorales
   1. FedericoPeretti
+  1. AgustinHenze
