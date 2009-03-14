@@ -51,6 +51,7 @@ Desde donde viajan: ["../Transporte"]
    Arribo: Domingo a la mañana
 
    Egreso: Martes a la tarde
+ 1. GuillermoGonzalez
 
 == Con muchas ganas, pero no confirmados ==
  1. RobertoAllende
@@ -62,7 +63,6 @@ Desde donde viajan: ["../Transporte"]
  1. MartinAlbisetti
  1. MarceloFernández
  1. ["Macarse"]
- 1. GuillermoGonzalez
  1. --(MartinPieuchot)--
  1. [:RobertoRodríguez:Roberto Rodríguez]
 
