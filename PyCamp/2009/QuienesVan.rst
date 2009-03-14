@@ -51,7 +51,7 @@ Desde donde viajan: ["../Transporte"]
    Arribo: Domingo a la mañana
 
    Egreso: Martes a la tarde
- 1. GuillermoGonzalez
+ 1. GuillermoGonzalez sábado 10:35hs al Martes a las 19:40hs, Duermo en pabellón, comedor general. internet? si, por favor.
 
 == Con muchas ganas, pero no confirmados ==
  1. RobertoAllende
