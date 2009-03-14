@@ -39,7 +39,7 @@ Desde donde viajan: ["../Transporte"]
 
    Duermo en pabellón, así que como con todos.
  1. RicardoQuesada (3 dias: Domingo, Lunes y Martes)
- 1. ManuelQuiñones
+ 1. ManuelQuiñones: desde el sábado al mediodía hasta el martes a la tarde, morfo con todos, duermo en pabellón
  1. MarianoReingart: llego sábado media mañana, vuelvo martes a la tarde, pabellón y comida igual que la mayoría
  1. HugoRuscitti
  1. HectorSanchez  (32 años, programador, vuelvo con 33 :( ) (LLego el sábado a las 10:00 am, y vuelvo el martes 24 a las 9:45) al pabellón con los pibes, menú completo.
