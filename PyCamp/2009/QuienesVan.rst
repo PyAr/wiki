@@ -18,7 +18,7 @@ Desde donde viajan: ["../Transporte"]
  1. FedeHeinz + Joel (sólo el finde)
  1. AgustinHenze
    Sábado:8-Martes:22-Pabellón-Monos...
- 1. [:ManuelKaufmann:El rey del Humo]
+ 1. [:ManuelKaufmann:El rey del Humo]: lo que haga la mayoría :) . Supongo que es dormir en el pabellón y comer con todos los demás. Uso internet, llevo notebook y tomo birra.
  1. RicardoKirkner: desde el sábado a las 10, hasta el martes a las 19; apoyo el socialismo gastro-onírico
  1. AnthonyLenton
  1. JohnLenton
