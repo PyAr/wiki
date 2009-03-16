@@ -1,7 +1,7 @@
 = Reunión 35 - Viernes 13/03/2009 - Buenos Aires - 19:30hs =
 
+== Asitieron ==
 
-== Asitieron == 
 || RobertoRodríguez ||
 || MarianoReingart ||
 || AlbertoPaparelli (1º) ||
@@ -43,7 +43,7 @@ Se hizo la pregunta de cómo podían participar en los [http://python.com.ar/moi
  Se propuso que los temas en las que personas que no fuesen a PyCamp fuesen pensadas de antemano. Al final se planteo que los interesados en participar se unan al irc de pyar
 
 
-'''PyConf'''
+'''PyConAr'''
 
 Básicamente se trataron 3 temas:
 
