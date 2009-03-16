@@ -46,7 +46,18 @@ Desde donde viajan: ["../Transporte"]
  1. LucioTorre
  1. Marian y familia
  1. DavidWeil
- 1. PabloZiliani + Cynthia
+ 69. PabloZiliani + Cynthia Cortés:
+
+        Arribo:   TBD (sábado),
+
+        Partida:  TBD (lo necesario para ver a Radiohead el martes),
+
+        Pasajes:  bien gracias,
+
+        Internet: 2x,
+
+        Servicio: Full-full, c/pernocte en depto para 2(?) c/ a/c, jacuzzi, tv, frigobar y cama redonda
+
  1. [:dieresys:Manuel Muradás] + Vero. Internet solo para mi compu.
    Arribo: Domingo a la mañana
 
