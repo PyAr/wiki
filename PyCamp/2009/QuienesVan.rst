@@ -11,7 +11,7 @@ Desde donde viajan: ["../Transporte"]
  1. MatiasBordese (Domingo completo y Lunes hasta la tarde)
  1. [:AlejandroJCura:alecu] (33 años, programador), Lucila (31 años, psicóloga), Amelia (3 meses, beba). alecu y luli comen el menú fijo; amecu toma leche que llevamos para ella. Internet solo para alecu. Los 3 duermen en el depto de 4. Llegan el sábado al mediodía, se van el martes a la tarde.
  1. JorgeChamorro y María Luján (''la legal'') mas los clavos a saber : Isabel (''la nena'') , Maximiliano (''el atorrante'') , Lucía (''la charlatana'') y Gonzalo (''el bebé ... de 4 años''). Nos anotamos sin comida y Internet solo para el jefe de la familia ('''yo''')
- 1. LeonardoDeLuca --(y (quizás) familia)--
+ 1. LeonardoDeLuca --(y (quizás) familia)--: desde el sábado a la mañana hasta el martes a la tarde. Me sumo al rebaño del pabellón y de comidas completas comunales.
  1. MarcosDione
  1. nueces... Desde el sabado hasta el martes. Morfo de todo menos carne. Duermo en pabellón.
  1. HoracioDuran
