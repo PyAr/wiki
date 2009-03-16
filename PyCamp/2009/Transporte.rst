@@ -7,7 +7,7 @@
 || LeonardoDeLuca || Buenos Aires      || Colectivo       || X                 ||
 || RicardoKirkner || Buenos Aires      || Colectivo       || X                 ||
 || RicardoQuesada || Buenos Aires      || Colectivo       || X                 ||
-|| ManuelQuiñones || Santa Fe          || auto, colado con la familia            || un lugar disponible ||
+|| ManuelQuiñones || Santa Fe          || auto, colado con la familia            || X||
 || LucioTorre     || Buenos Aires      || Colectivo       || X ||
 || HectorSanchez  || Buenos Aires      || Colectivo       || X ||
 || NicolasMiyasato  || Buenos Aires      || Colectivo       || X ||
