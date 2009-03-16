@@ -27,6 +27,8 @@
 || alecu ||
 || LucasLiendro ||
 
+Para conocerles las caras está [http://tinyurl.com/pyar35 este video].
+
 == ¿De qué se habló? ==
 
 '''PyCamp'''
@@ -43,7 +45,7 @@ Se hizo la pregunta de cómo podían participar en los [http://python.com.ar/moi
  Se propuso que los temas en las que personas que no fuesen a PyCamp fuesen pensadas de antemano. Al final se planteo que los interesados en participar se unan al irc de pyar
 
 
-'''PyConAr'''
+'''PyCon Argentina'''
 
 Básicamente se trataron 3 temas:
 
