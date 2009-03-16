@@ -9,3 +9,4 @@ Listen acá sus requerimientos dietarios.
 ||[:AlejandroDavidWeil:dave]||Todo||En la medida de lo posible, sin ningún queso||
 || JorgeChamorro || Chivito al asador !! || ||
 || [:dieresys:Manuel Muradás] || || NO cebolla de verdeo, puerro o ciboulette. Cuanto menos lácteos mejor ||
+|| nueces || Ovolactovegetariano || Si berenjenas, NO alcauciles ||
