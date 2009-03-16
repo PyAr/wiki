@@ -13,6 +13,7 @@ Desde donde viajan: ["../Transporte"]
  1. JorgeChamorro y María Luján (''la legal'') mas los clavos a saber : Isabel (''la nena'') , Maximiliano (''el atorrante'') , Lucía (''la charlatana'') y Gonzalo (''el bebé ... de 4 años''). Nos anotamos sin comida y Internet solo para el jefe de la familia ('''yo''')
  1. LeonardoDeLuca --(y (quizás) familia)--
  1. MarcosDione
+ 1. nueces... Desde el sabado hasta el martes. Morfo de todo menos carne. Duermo en pabellón.
  1. HoracioDuran
  1. NicoEchaniz
  1. FedeHeinz + Joel (sólo el finde)
