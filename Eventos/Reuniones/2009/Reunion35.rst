@@ -14,7 +14,7 @@
 || JohnLenton ||
 || HectorSanchez ||
 || FelipeLerena ||
-|| NicolasMiyasato ||
+|| NicolasMiyasato (1º)||
 || NestorBalich (1º) ||
 || AnthonyLenton ||
 || NicoEchaniz ||
