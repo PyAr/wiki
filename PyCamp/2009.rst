@@ -32,6 +32,7 @@ Ver Borrador y mapas en /ComoLlegar
  * telescopio
  * linterna
  * libros que te prestaron en un sprint y que si no los llevás para devolver te matan
+ * juegos de mesa
 
 == Qué hace falta que alguien lleve ==
  * Zapatillas (de electricidad)
