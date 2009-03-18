@@ -15,7 +15,7 @@ Desde donde viajan: ["../Transporte"]
  1. MarcosDione
  1. nueces... Desde el sabado hasta el martes. Morfo de todo menos carne. Duermo en pabellón.
  1. HoracioDuran
- 1. NicoEchaniz
+ 1. NicoEchaniz desde el sábado a las 10, hasta el martes a las 19, omnívoro, duermo en pabellón.
  1. FedeHeinz + Joel (sólo el finde)
  1. AgustinHenze
    Sábado:8-Martes:22-Pabellón-Monos...
