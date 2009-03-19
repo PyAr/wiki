@@ -46,7 +46,10 @@ Ver Borrador y mapas en /ComoLlegar
  * El repo de Django (svn co http://code.djangoproject.com/svn/django/trunk/ )
  * El repo de Cocos2d (svn co http://los-cocos.googlecode.com/svn/trunk/ ) y Pyglet.
  * Juego de damas (svn co http://acheckersgame.googlecode.com/svn/trunk/ )
+ * El repo de Django Book ( svn co https://trac.usla.org.ar/svn/django-book/trunk )
+ * El repo del Tutorial de Python (svn co http://trac.usla.org.ar/svn/python-tutorial/trunk )
  * ...
+
 = Temario =
 Ver /TemasPropuestos
 
