@@ -39,6 +39,13 @@ Ver Borrador y mapas en /ComoLlegar
  * Paletas de Ping-Pong (y la pelotita)
  * Cable de red
 
+== Qué conviene tener en la compu ==
+(como para no tener que ponerse a bajar cosas allá)
+ * El repo de Python: http://svn.python.org/projects/python/trunk/ para 2.7, y/o alguno de los branches de Python 3 (como http://svn.python.org/projects/python/branches/py3k/ ).
+ * Todo lo necesario para compilar python.
+ * El repo de Django (svn co http://code.djangoproject.com/svn/django/trunk/ )
+ * El repo de Cocos2d (svn co http://los-cocos.googlecode.com/svn/trunk/ ) y Pyglet.
+ * ...
 = Temario =
 Ver /TemasPropuestos
 
