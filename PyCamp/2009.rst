@@ -45,6 +45,7 @@ Ver Borrador y mapas en /ComoLlegar
  * Todo lo necesario para compilar python.
  * El repo de Django (svn co http://code.djangoproject.com/svn/django/trunk/ )
  * El repo de Cocos2d (svn co http://los-cocos.googlecode.com/svn/trunk/ ) y Pyglet.
+ * Juego de damas (svn co http://acheckersgame.googlecode.com/svn/trunk/ )
  * ...
 = Temario =
 Ver /TemasPropuestos
