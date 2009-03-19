@@ -109,10 +109,5 @@ Acá van los temas propuestos, con adherentes:
  Editor de Texto deathmatch:: Cuan pupudo es el editor de texto que usas para programar python. ''Machos'' abstenerce: yo también puedo programar con una impresora braile pero prefiero herramientas que me ayuden. Como puede que se haga largo, lo armamos acá: TextEditorDeadMatch
 
  Django bug-fixing sprint:: Nos sentamos a cerrar tickets de Django en recta final hacia el release de 1.1. Ver [http://mx.grulic.org.ar/lurker/thread/20090308.185714.55696d61.es.html hilo] en la lista.
-  1. MartínBorthiry (si logra ir al PyCamp)
-  1. AnthonyLenton
-  1. NatyBidart (Con muchas ganas, pero no confirmada)
-  1. HernánOlivera (remotamente)
-  1. RamiroMorales
-  1. FedericoPeretti
-  1. AgustinHenze
+
+  Ver /SprintDjango
