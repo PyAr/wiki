@@ -61,7 +61,7 @@ Ver /QuienesVan
 (en algún orden)
 
  * Tener Internet:
- * WiFi (APs): HoracioDuran (FedeHeinz, Karucha contribuyen con un AP, si hace falta)
+ * WiFi (APs): HoracioDuran (FedeHeinz, si hace falta)  - Karucha lleva un AP, 
  * Red cableada:
  * Requerimientos Dietarios: NatyBidart (agregar prefs en /RequerimientosDietarios)
  * Armado del programa (tentativo?):
