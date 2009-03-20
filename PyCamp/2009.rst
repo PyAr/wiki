@@ -1,16 +1,17 @@
 [[TableOfContents]]
-= Cuándo =
+= PyCamp Argentina 2009 =
+== Cuándo ==
 Marzo 21, 22, 23, y 24. Sábado a Martes; el Martes es feriado. Cuatro días de python, un solo día de licencia sin goce de sueldo / faltazo a la facu / chupina!
 
-= Dónde =
+== Dónde ==
 En el Centro Allen Gardiner, en Los Cocos, provincia de Córdoba. [http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=105533268989834891728.0004435f0d040c4a222f5&t=h&z=18 Hay un mapa].
 
-= Cómo llegar =
+== Cómo llegar ==
 Ver Borrador y mapas en /ComoLlegar
 
-= Qué llevar =
+== Qué llevar ==
 
-== Qué hace falta ==
+=== Qué hace falta ===
  * Toalla
  * Notebook, o máquina en que trabajar
  * Sábanas o bolsa de dormir
@@ -26,7 +27,7 @@ Ver Borrador y mapas en /ComoLlegar
  * Malla (hay pileta, y de día puede que haiga calor)
  * Protector solar
 
-== Qué estaría bueno llevar ==
+=== Qué estaría bueno llevar ===
  * Pendrive, cablerío y accesorios de red
  * Cámara de fotos
  * telescopio
@@ -34,12 +35,12 @@ Ver Borrador y mapas en /ComoLlegar
  * libros que te prestaron en un sprint y que si no los llevás para devolver te matan
  * juegos de mesa
 
-== Qué hace falta que alguien lleve ==
+=== Qué hace falta que alguien lleve ===
  * Zapatillas (de electricidad)
  * Paletas de Ping-Pong (y la pelotita)
  * Cable de red
 
-== Qué conviene tener en la compu ==
+=== Qué conviene tener en la compu ===
 (como para no tener que ponerse a bajar cosas allá)
  * El repo de Python: http://svn.python.org/projects/python/trunk/ para 2.7, y/o alguno de los branches de Python 3 (como http://svn.python.org/projects/python/branches/py3k/ ).
  * Todo lo necesario para compilar python.
@@ -50,14 +51,14 @@ Ver Borrador y mapas en /ComoLlegar
  * El repo del Tutorial de Python (svn co http://trac.usla.org.ar/svn/python-tutorial/trunk )
  * ...
 
-= Temario =
+== Temario ==
 Ver /TemasPropuestos
 
-= Quiénes van =
+== Quiénes van ==
 
 Ver /QuienesVan
 
-= Encargados de distintas cosas =
+== Encargados de distintas cosas ==
 (en algún orden)
 
  * Tener Internet:
@@ -68,7 +69,7 @@ Ver /QuienesVan
  * Remera: RayentrayTappa (?)
  * Todo lo demás: JohnLenton
 
-= La delgada Franja Blanca: codename hex(51966) =
+== La delgada Franja Blanca: codename hex(51966) ==
 Si te gusta el café Bonafide Franja Blanca anotate aca con la fracción con la que te interese cooperar (Viene en fracciones de 1/4, 1/2 y 1 Kilo). La semana del campamento, antes de salir, alguien de Córdoba va a comprar y lleva así esta bien fresco. Una vez allá hacemos la división de gastos
 
  * 1/4 [:HoracioDuran:perrito]
