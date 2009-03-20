@@ -1,8 +1,9 @@
-= Quiénes Van =
+= PyCamp Argentina 2009 =
+== Quiénes Van ==
 
 Por favor, alfabético por apellido. Locale es_AR :)
 
-== Confirmados ==
+=== Confirmados ===
 
 Desde donde viajan: ["../Transporte"]
 
@@ -49,13 +50,11 @@ Desde donde viajan: ["../Transporte"]
  1. DavidWeil
  69. PabloZiliani + Cynthia Cortés:
 
-        Arribo:   TBD (sábado),
+        Arribo:   True, # salgo en bondi de Retiro el viernes a las 22:00 llego a las notanumber(NPI)
 
-        Partida:  TBD (lo necesario para ver a Radiohead el martes),
+        Partida:  23/03 21:15hs, # Goto [Radiohead,  Kraftwerk]
 
-        Pasajes:  bien gracias,
-
-        Internet: 2x,
+        Internet: 1x, #update: Cynthia no lleva su notebook
 
         Servicio: Full-full, c/pernocte en depto para 2(?) c/ a/c, jacuzzi, tv, frigobar y cama redonda
 
@@ -65,7 +64,7 @@ Desde donde viajan: ["../Transporte"]
    Egreso: Martes a la tarde
  1. GuillermoGonzalez sábado 10:35hs al Martes a las 19:40hs, Duermo en pabellón, comedor general. internet? si, por favor.
 
-== Con muchas ganas, pero no confirmados ==
+=== Con muchas ganas, pero no confirmados ===
  1. RobertoAllende
  1. SebastianBassi
  1. [:JoseluisDallapiccola:Jose Luis Dallapiccola]
@@ -79,4 +78,4 @@ Desde donde viajan: ["../Transporte"]
  1. [:RobertoRodríguez:Roberto Rodríguez]
 
 [[Anchor(queriendobecas)]]
-== Con muchas ganas, pero sin plata ==
+=== Con muchas ganas, pero sin plata ===
