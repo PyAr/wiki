@@ -15,6 +15,8 @@ Anotados
    1. Kate: JaviMansilla
    1. VIM con muchas ganas de aprender Emacs: ManuelKaufmann
    1. Vi[m], con muchas ganas de trollear usuarios de otras cosas: HoracioDuran
-
+   1. Gedit: Achuni
+   1. Ulipad: SlackDeb
+   1. Eric: nessita
 
 Estaría buenísimo también sacar un conjunto de funcionalidades que la mayoría considere indispensable, intercambiar tips y copiarnos funciones / plugins que hagan de nuestro editor una herramienta cómoda a las diferentes necesidades de los usuarios.
