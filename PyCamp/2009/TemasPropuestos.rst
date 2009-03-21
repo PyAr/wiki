@@ -1,8 +1,8 @@
-Acá van los temas propuestos, con adherentes:
+Este es el programa:
 
- Tema Ejemplo:: descripción del tema
-  1. AdherenteUno
-  1. AdherenteDos
+  http://python.com.ar/moin/PyCamp/2009/Programa
+
+Acá van los temas propuestos, con adherentes:
 
  CDPedia:: La wikipedia offline en un disquito! http://code.google.com/p/cdpedia/
   1. FacundoBatista
