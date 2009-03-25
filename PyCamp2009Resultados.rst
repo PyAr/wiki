@@ -27,7 +27,9 @@ Más datos:
 
 Hubieron dos cazas de bugs, una para Python y otra para Django. La primera no estuvo demasiado productiva (con la complicación de que no tenía acceso SSH, así que que yo haga un comit de algo no era una opción), pero luego de un extenso análisis de Humitos pudimos al menos cerrar un bug, :)
 
-<insertar experiencia de Django aquí>
+Se estuvo trabajando un rato bastante largo en la corrección de bugs de Django, de mi parte (Humitos), estuve viendo algunos bugs de documentación, falta de documentación y algunos errores en la misma. Otros, por su parte, estuvieron trabajando en bugs de código en sí. El resumen de los bugs en los que trabajamos se puede encontrar acá:
+
+ * [http://code.djangoproject.com/query?status=new&status=assigned&status=reopened&status=closed&keywords=~pycamp2009&order=priority Tickets de pycamp2009]
 
 
 == PythonCard ==
