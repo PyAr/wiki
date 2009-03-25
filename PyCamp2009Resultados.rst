@@ -53,8 +53,10 @@ Quedamos en seguir los temas por la lista de pyconar-admin.
 == Karma@pyar ==
 
 == Sysadmining ==
+Hubo una reunión el domingo por la tarde donde se comentó el estado de las migraciones y upgrades del wiki de PyAr y de la lista de correo.
 
-== Tracs de usla ==
+Luego de la reunión, RamiroMorales consiguió finalizar el proceso de migración del wiki a una versión más nueva de Moin en una instalación local, a partir de un dump del moin que tenía un par de meses de antigüedad. Dave estuvo viendo de instalar pykarm en el server virtual de usla, instalando y configurando para esto un mailman.
+Se acordó hacer un sprint virtual de administración donde se terminen de hacer las migraciones pendientes.
 
 == acheckersgame ==
 
