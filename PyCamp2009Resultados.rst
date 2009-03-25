@@ -48,7 +48,22 @@ Quedamos en seguir los temas por la lista de pyconar-admin.
 
 == Cocos2d ==
 
+En términos generales, todo giró alrededor de crear un editor de mapas no tileados (es decir, donde los sprites puedan estar en posiciones arbitrarias y no necesariamente en un layout de grilla), 
+inspirado en el video acerca del editor de mapas del juego Aquaria [0]. Eventualmente, el editor pasará a formar parte de Cocos2d, 
+pero por el momento está aparte y no cuenta con un repositorio público.
+
+  * [0] http://blog.wolfire.com/2009/01/aquaria-design-tour/
+
 == Reply ==
+
+El primer día se intentó trabajar un poco en mejorar reply [0], proveyéndole soporte para la librería rl-glue [1], lo que habilitaría usar reply para crear agentes y entornos que luego puedan
+user compartidos (y reutilizados) sin necesidad de ser modificados. Esto también permitiría poder participar de competencias de Aprendizaje por Refuerzo, que usan rl-glue como interface entre
+los distintos agentes que compiten.
+
+Sin embargo, como los que iban a participar de reply, también participaron en Cocos2d, este proyecto quedó sin hacerse.
+
+  * [0] http://reply.googlecode.com
+  * [1] http://glue.rl-community.org
 
 == Karma@pyar ==
 
