@@ -12,3 +12,10 @@ Más datos:
 
  * Sitio del proyecto: http://code.google.com/p/cdpedia
  * Lista de correo: http://groups.google.com/group/cdpedia
+
+
+== Bug day ==
+
+Hubieron dos cazas de bugs, una para Python y otra para Django. La primera no estuvo demasiado productiva (con la complicación de que no tenía acceso SSH, así que que yo haga un comit de algo no era una opción), pero luego de un extenso análisis de Humitos pudimos al menos cerrar un bug, :)
+
+<insertar experiencia de Django aquí>
