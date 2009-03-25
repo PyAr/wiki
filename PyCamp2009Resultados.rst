@@ -30,11 +30,17 @@ Hubieron dos cazas de bugs, una para Python y otra para Django. La primera no es
 <insertar experiencia de Django aquí>
 
 
-== PyAfip ==
-
 == PythonCard ==
 
+Nos reunimos un par y vimos que uso le daba cada uno, comentamos cuales eran las complicaciones actuales (bugs, herramientas poco integradas, etc.) y como encarar un proyecto para mejorarlo. Seguramente creemos un trac en USLA para "revivir" esta herramienta.
+
 == PyConTech ==
+
+Aca también se incorporaron varios participantes nuevos, no solo desarrolladores sino testers y traductores, lo que estubo muy bueno y nos permitió avanzar y definir muchas cosas.
+
+Por un lado, se encaró la parte de traducción y revisión de contenidos, y por otro la app de registración gratuita. Si bien no le dedicamos mucho tiempo, se avanzo bastante en ambos puntos.
+
+Quedamos en seguir los temas por la lista de pyconar-admin.
 
 == Mejorar naushika ==
 
@@ -47,8 +53,6 @@ Hubieron dos cazas de bugs, una para Python y otra para Django. La primera no es
 == Sysadmining ==
 
 == Tracs de usla ==
-
-== Recetario ==
 
 == acheckersgame ==
 
