@@ -2,6 +2,15 @@
 
 Esto es un resumen de lo que se trabajó durante este exitoso Campamento Python.
 
+'''Nota para los escritores, luego la sacamos:'''
+
+ * ''La idea es que todos los que participaron agreguen algo en lo que se hizo, a menos que ya se haya comentado.''
+
+ * ''Fíjense que agregué todos los proyectos que teníamos anotados en el schedule, pero es sólo una guía general, siéntanse libres de agregar otras cosas que se hicieron o ''sacar aquellos proyectos en los que al final no se hizo nada...
+
+ * ''Estaría bueno que los champion de los distintos proyectos tomen la iniciativa... esta página es un buen ejemplo para repartir y valorizar el laburo que hacemos todos cada vez que nos reunimos...''
+
+
 == CD Pedia ==
 
 Se incorporaron muchos nuevos participantes al proyecto, los que probaron y arreglaron numerosos bugs. Se incorporó algo de funcionalidad, pero el mayor esfuerzo estuvo orientado a la optimización del índice existente, y pruebas de distintos motores de índices o bases de datos, para ver cual es la mejor opción para que el proyecto escale correspondientemente.
