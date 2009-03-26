@@ -75,6 +75,23 @@ Se acordó hacer un sprint virtual de administración donde se terminen de hacer
 
 == acheckersgame ==
 
+Mejoramos muchos aspectos de un videojuego de damas llamado
+acheckersgame. El primer día lo dedicamos a estudiar y analizar
+por completo el juego, escribimos una documentación para programadores
+y refactorizamos muchos aspectos importantes.
+
+El segundo y tercer día armamos el algoritmo para comer piezas, recorrer
+caminos y aplicar reglas del juego como 'estar obligado a comer'. También
+mejoramos la interfaz y su interacción con el usuario, como animaciones
+y consejos para jugar.
+
+El código completo del programa lo pueden obtener desde el repositorio
+de software [0] en google code.
+
+
+  * [0] http://code.google.com/p/acheckersgame/
+
+
 == PyCamp ==
 
 == PyCon2009 ==
