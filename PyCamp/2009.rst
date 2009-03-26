@@ -87,3 +87,6 @@ Si te gusta el café Bonafide Franja Blanca anotate aca con la fracción con la 
  * 1/4 FedericoPeretti
  * 1/4 AndresLopezLuksenber
  * 1/4 HectorSanchez
+
+== Fotos ==
+ [wiki:PyCamp/2009/fotos Página de fotos]
