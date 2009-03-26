@@ -77,12 +77,14 @@ Se acordó hacer un sprint virtual de administración donde se terminen de hacer
 
 Mejoramos muchos aspectos de un videojuego de damas llamado
 acheckersgame. El primer día lo dedicamos a estudiar y analizar
-por completo el juego, escribimos una documentación para programadores
-y refactorizamos muchos aspectos importantes.
+por completo el juego, ya que sumamos dos participantes nuevos al proyecto.
+Escribimos una documentación para programadores y refactorizamos muchos aspectos importantes.
 
 El segundo y tercer día armamos el algoritmo para comer piezas, recorrer
-caminos y aplicar reglas del juego como 'estar obligado a comer'. También
-mejoramos la interfaz y su interacción con el usuario, como animaciones
+caminos y aplicar reglas del juego como 'estar obligado a comer' , y poder coronar.
+Otro cambios fueron, poder jugar con el teclado, y algunas funciones a modo de debug, como eliminar fichas
+y convertir fichas a damas.
+También mejoramos la interfaz y su interacción con el usuario, como animaciones
 y consejos para jugar.
 
 El código completo del programa lo pueden obtener desde el repositorio
