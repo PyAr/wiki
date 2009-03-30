@@ -1,9 +1,9 @@
-== Acceso a Bases de Datos desde Python: Interface DB-API ==
+== Acceso a Bases de Datos desde Python: Interfaz DB-API ==
 [[TableOfContents]]
 
 En python, el acceso a bases de datos esta estandarizado por la especificación Database API (DB-API), actualmente en la versión 2.0 ([http://www.python.org/dev/peps/pep-0249/ PEP 249: Python Database API Specification v2.0])
 
-Gracias a esto, se puede acceder a cualquier base de datos utlizando la misma interface (ya sea un motor remoto, local, ODBC, etc.). Se puede comparar con DAO, ADO, ADO.NET en el mundo Microsoft, o a JDBC en el mundo Java.
+Gracias a esto, se puede acceder a cualquier base de datos utlizando la misma interfaz (ya sea un motor remoto, local, ODBC, etc.). Se puede comparar con DAO, ADO, ADO.NET en el mundo Microsoft, o a JDBC en el mundo Java.
 
 O sea, el mismo codigo se podría llegar a usar para cualquier base de datos, tomando siempre los recaudos necesarios (lenguaje SQL estándard, estilo de parametros soportado, etc.)
 
