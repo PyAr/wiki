@@ -49,13 +49,13 @@ Ahora, ¿a dónde podrías recurrir para obtener información que te inicie en l
  * Procesando archivos XML con minidom, que forma parte de la libreria estandar de Python
   [http://sbassi.googlepages.com/leyendoxmlenpython:dom2 Introducción a Minidom] SebastianBassi.
 
- * Acceso a Bases de Datos desde Python: Interface DB-API
+ * Acceso a Bases de Datos desde Python: Interfaz DB-API
   DbApi SebastianBassi, AlejandroJCura y MarianoReingart.
 
  * Programación de funciones (procedimientos almacenados) y disparadores en PostgreSQL con Pl/Python
   PlPython MarianoReingart.
 
- * Desarrollo rápido de aplicaciones simples con interfase gráfica de usuario (GUI) usando PythonCard
+ * Desarrollo rápido de aplicaciones simples con interfaz gráfica de usuario (GUI) usando PythonCard
   PythonCard MarianoReingart.
 
 == Documentación oficial sobre Python ==
