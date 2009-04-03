@@ -62,7 +62,7 @@ Es parte de la distribución de Python. Muy buen soporte del lenguaje, class bro
 
 Vim es un editor de texto altamente configurable que permite editar texto de manera eficiente. Es una versión mejorada del editor de texto vi, distribuido con casi todos los sistemas UNIX.
 
-[www.vim.org]
+[http://www.vim.org]
 
 === Emacs ===
 
