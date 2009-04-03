@@ -106,3 +106,4 @@ Live CD basado en ubuntu intrepid ibex, utiliza openbox como gestor de ventanas 
 ==== Asuntos pendientes ====
 
  * Documentacion offline
+ * Instalar xterm
