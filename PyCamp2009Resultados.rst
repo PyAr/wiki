@@ -66,6 +66,13 @@ Sin embargo, como los que iban a participar de reply, también participaron en C
   * [1] http://glue.rl-community.org
 
 == Karma@pyar ==
+Se presento el proyecto mas formalmente y se discutió su utilidad.
+
+Después un grupo empezó a pensar en la implementación.
+
+Armamos un modelo del sistema. Estuvimos trabajando en los filtros del mismo para integrarlos, al menos para empezar, con mailman y postfix.
+
+Lo que hicimos, y algunas cosas mas que fuimos agregando y todo, se encuentra en el trac del proyecto: http://trac.usla.org.ar/proyectos/pykarm
 
 == Sysadmining ==
 Hubo una reunión el domingo por la tarde donde se comentó el estado de las migraciones y upgrades del wiki de PyAr y de la lista de correo.
