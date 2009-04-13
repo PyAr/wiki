@@ -1,5 +1,7 @@
 = Trabajos con Python =
 
+ * (13/04/2009) Estamos buscando desarrolladores para trabajar con Python en Brainpark (http://www.brainpark.com/). Necesitamos personas con inglés avanzado y que residan en la Ciudad de Buenos Aires (las oficinas están en Flores). Si estás interesado, mandá un mail a patricio@brainpark.com.
+
  * (13/02/2009) Truelogic se encuentra seleccionando desarrolladores Python preferentemente con ingles avanzado (no es excluyente) en todos los niveles para importantes desarrollos locales e internacionales, seria deseable que cuente con experiencia comprobable en HTML y CSS y tenga muchas ganas de crecer profesionalmente asi como económicamente.  Ofrecemos remuneración acorde a función + beneficios propios del sector al que pertenecerá + capacitación in sittu + excelente clima laboral.  Los interesados deberán enviarnos remuneración pretendida y referencia PY.THON a vtardito@truelogic.com.ar.
 
  * (05/02/2009) En Machinalis (http://machinalis.com) trabajamos con Python, Django, Zope, Plone. Somos un startup en Córdoba en busca de programadores experimentados con ganas de trabajar en proyectos desafiantes. Si te interesa, escribí a info@machinalis.com.
