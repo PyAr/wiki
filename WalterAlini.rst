@@ -3,7 +3,7 @@
 == Walter Alini ==
 
 Email: [[MailTo(walini AT machinalis DOT com)]] [[BR]]
-Nick en #PyAr: walteralini
+Nick en #pyar: walteralini
 
 
 ----
