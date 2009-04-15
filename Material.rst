@@ -13,7 +13,8 @@ sudo apt-get install ttf-dejavu
 
 = Logo =
 
-El logo de PyAr, en vectorial: attachment:pyar.zip
+ * --( El logo de PyAr, en vectorial: attachment:pyar.zip )-- 
+ * El logo de PyAr, en vectorial: attachment:logo-pyar-2009.svg (hecho con inkscape)
 
 = Carteles para las 8JRSL =
 
