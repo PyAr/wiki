@@ -2,11 +2,11 @@
 
 Según lo propuesto por Lucio en la lista.
 
-attachment:remera2-Facu05.png
+{{attachment:remera2-Facu05.png}}
 
 '''Diseño:'''
 
-attachment:remera2-Facu05.svg
+[[attachment:remera2-Facu05.svg]]
 
 == Comentarios ==
 
