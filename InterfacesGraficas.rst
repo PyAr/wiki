@@ -3,8 +3,8 @@
 '''Advertencia''': Esta página esta basada (en parte) en opiniones y experiencias personales de distintas personas. YMMV
 
 Existen varias librerias que implementan interfaces gráficas de usuario (GUI) en python, las principales son:
- * TkInter: Basada en las librerías gráficas TK/TCL, interface "de-facto" ([#1]) preinstalada con python, es la generalmente recomendada para proyectos triviales y/o de aprendizaje.
- * WxPython: Basada en WxWidgets (una libreria multiplataforma C/C++), "bendecida" ([#2]) como la "más pitónica" por GvR (creador de Python), y sería la interface por defecto si no hubiese existido tk en primer lugar.
+ * TkInter: Basada en las librerías gráficas TK/TCL, interface "de-facto" ([[#1]]) preinstalada con python, es la generalmente recomendada para proyectos triviales y/o de aprendizaje.
+ * WxPython: Basada en WxWidgets (una libreria multiplataforma C/C++), "bendecida" ([[#2]]) como la "más pitónica" por GvR (creador de Python), y sería la interface por defecto si no hubiese existido tk en primer lugar.
  * PyQT: basado en la libreria C++ QT (KDE)
  * PyGTK: basado en la libreria C GTK (GNOME)
 
@@ -172,8 +172,8 @@ hello.main()
 (sin testear)
 
 === Referencias ===
- * [[Anchor(1)]] http://wiki.python.org/moin/TkInter
- * [[Anchor(2)]] http://wxpython.org/quotes.php
+ * <<Anchor(1)>> http://wiki.python.org/moin/TkInter
+ * <<Anchor(2)>> http://wxpython.org/quotes.php
  * http://www.riverbankcomputing.co.uk/pyqt/index.php
  * http://live.gnome.org/PyGTK
  * http://mail.python.org/pipermail/python-list/2001-December/116978.html
