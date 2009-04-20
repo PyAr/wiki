@@ -2,11 +2,11 @@
 
 Habemus ganadorus: Ganó el tercer diseño de Cesar Roldan, RemerasV2/CesarRoldan3.
 
-attachment:remeraCesar3.png
+{{attachment:remeraCesar3.png}}
 
 Esta es toda la info de los sufragios, con las direcciones de mail saneadas:
 
-attachment:voto-RemerasPyAr2.zip
+[[attachment:voto-RemerasPyAr2.zip]]
 
 Por favor, anotá en RemerasV2/PreAnotados cuantas remeras pensás comprar, de qué tamaño y color. 
 
@@ -22,11 +22,11 @@ Por favor, anotá en RemerasV2/PreAnotados cuantas remeras pensás comprar, de q
 
  * RemerasV2/FacundoBatista4
 
- * ["RemerasV2/alecu1"]
+ * [[RemerasV2/alecu1]]
  
- * ["RemerasV2/humitos1"]
+ * [[RemerasV2/humitos1]]
 
- * ["RemeraV2/Juanjo1"]
+ * [[RemeraV2/Juanjo1]]
 
  * RemerasV2/CesarRoldan1
 
@@ -34,13 +34,13 @@ Por favor, anotá en RemerasV2/PreAnotados cuantas remeras pensás comprar, de q
 
  * RemerasV2/FacundoBatista5
 
- * ["RemeraV2/CesarPortela1"]
+ * [[RemeraV2/CesarPortela1]]
 
- * ["RemerasV2/Nubis1"]
+ * [[RemerasV2/Nubis1]]
 
- * ["RemerasV2/Nubis2"]
+ * [[RemerasV2/Nubis2]]
 
- * ["RemerasV2/RamiroMorales1"]
+ * [[RemerasV2/RamiroMorales1]]
 
  * RemerasV2/CesarRoldan3
 
