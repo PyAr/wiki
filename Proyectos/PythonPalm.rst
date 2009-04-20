@@ -2,7 +2,7 @@
 
 Here you can get the latests (only) release of this half baked port of python to palmOS.
 
-attachment:screenshot.bmp
+{{attachment:screenshot.bmp}}
 
 
 == Release Notes ==
@@ -22,11 +22,11 @@ If anyone want to check this out, here're the files:
 
 == Downloads ==
 
- * [http://www.movilogic.com/python/Python-2.3.2.zip Click here to download the source]
+ * [[http://www.movilogic.com/python/Python-2.3.2.zip|Click here to download the source]]
 
- * [attachment:MLPYD.prc Click here to download the sample prc]
+ * [[attachment:MLPYD.prc|Click here to download the sample prc]]
 
-thanks to [http://pippy.sourceforge.net pippy] and Jeff Collins for inspiration and ideas.
+thanks to [[http://pippy.sourceforge.net|pippy]] and Jeff Collins for inspiration and ideas.
 
 
 == Contact ==
