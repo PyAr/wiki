@@ -9,12 +9,12 @@
  * ahora uso: buildbot, selenium, django.
  * --(Uso y me aburren C++, Java, xml.)-- ya no!
 
-Email: [[MailTo(alecu AT vortech DOT com DOT ar)]]
+Email: <<MailTo(alecu AT vortech DOT com DOT ar)>>
 
 ---
 
 === Separados al nacer... ===
-|| http://www.nic.ar/images/logo.gif || http://python.com.ar/images/pyar-logo.gif ||
+|| {{http://www.nic.ar/images/logo.gif}} || {{http://python.com.ar/images/pyar-logo.gif}} ||
 
 
 ----
