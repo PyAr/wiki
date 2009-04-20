@@ -6,14 +6,14 @@ En esta receta se muestra como:
  * Generar un archivo autoextraible similar a un instalador (pero más simple)
 
 Ver adjuntos:
- * [attachment:hola.py hola.py]: aplicación de ejemplo
- * [attachment:setup.py setup.py]: script de "compilación" para py2exe
- * [attachment:setup.exe setup.exe]: instalador autoextraible producido con esta receta
+ * [[attachment:hola.py|hola.py]]: aplicación de ejemplo
+ * [[attachment:setup.py|setup.py]]: script de "compilación" para py2exe
+ * [[attachment:setup.exe|setup.exe]]: instalador autoextraible producido con esta receta
 
 ==== Requerimientos: ====
- * [http://www.python.org/download/ Python 2.5]
- * [http://www.py2exe.org/ Py2Exe 0.6]
- * [http://www.7-zip.org/ 7-Zip] (opcional, para crear el archivo autoextraible)
+ * [[http://www.python.org/download/|Python 2.5]]
+ * [[http://www.py2exe.org/|Py2Exe 0.6]]
+ * [[http://www.7-zip.org/|7-Zip]] (opcional, para crear el archivo autoextraible)
 
 ==== Ejemplo ====
 
