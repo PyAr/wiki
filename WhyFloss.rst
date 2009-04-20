@@ -7,7 +7,7 @@ Los días 6 y 7 de diciembre próximo se estará realizando la 3era
 edición del evento WhyFLOSS Conference en las instalaciones del Instituto
 Tecnológico de Buenos Aires (ITBA) de Puerto Madero.
 
-Este evento internacional de ENTRADA LIBRE y GRATUITA organizado por [http://www.neurowork.net/ Neurowork]
+Este evento internacional de ENTRADA LIBRE y GRATUITA organizado por [[http://www.neurowork.net/|Neurowork]]
 busca llevar a la comunidad
 de IT como al mercado la difusión de las tecnologías abiertas más
 influyentes en el escenario actual. Linux, Java, open source, aplicaciones
@@ -26,9 +26,9 @@ http://www.whyfloss.com/es/conference/buenosaires07/#register
 Para mayor información del evento:
 
 Agenda
-[[BR]]
+<<BR>>
 http://www.whyfloss.com/es/conference/buenosaires07/program
 
 Ediciones anteriores del evento en ARGENTINA y ESPAÑA
-[[BR]]
+<<BR>>
 http://www.whyfloss.com/es/conference/editions
