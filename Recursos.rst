@@ -1,11 +1,11 @@
 #acl All:read,write
 #language es
 = Recursos =
- Estas son organizaciones y empresas argentinas que utilizan python regularmente de distintas formas[[FootNote(Por orden alfabético.)]].
+ Estas son organizaciones y empresas argentinas que utilizan python regularmente de distintas formas<<FootNote(Por orden alfabético.)>>.
 
 == Organizaciones ==
 === Advanta Semillas ===
- * Contacto: [[MailTo(sebastian DOT bassi AT advantasemillas DOT com DOT ar, Sebastián Bassi)]]
+ * Contacto: <<MailTo(sebastian DOT bassi AT advantasemillas DOT com DOT ar, Sebastián Bassi)>>
 
  * URL: http://www.advantasemillas.com.ar
 
@@ -14,7 +14,7 @@
  * ¿De qué forma usamos Python?: Se usa para manipulación de datos. Basicamente se usa para procesar los datos provenientes del campo y de los secuenciadores de ADN y luego para incluirlos en una base de datos de marcadores moleculares. También para algunas aplicaciones web de uso interno (como CGI).
 
 === Cyclelogic ===
- * Contacto: [http://www.mundomobile.com/corpsite/contactoform.php con este formulario]
+ * Contacto: [[http://www.mundomobile.com/corpsite/contactoform.php|con este formulario]]
 
  * URL: http://www.cyclelogic.com/
 
@@ -25,7 +25,7 @@
  * Python se usa en muchas maneras: generación dinámica de páginas WAP, implementación de aplicaciones, web services de altísima producción, herramientas de soporte interno, etc...
 
 === Core Security Technologies ===
- * Contacto: [[MailTo( info AT coresecurity DOT com, Info)]]
+ * Contacto: <<MailTo( info AT coresecurity DOT com, Info)>>
 
  * URL: http://www.coresecurity.com
 
@@ -36,11 +36,11 @@
  * ¿De qué forma usamos Python?: Lo usamos de distintas maneras. Lo tenemos embebido en un producto comercial (impact) donde la mitad del producto esta hecha en python. Usamos mod_python para algunos servidores, usamos Zope para otros. Usamos python para el daily builder. Lo usamos para tareas de mantenimiento, y probablemente lo usemos para más cosas.
 
 === EuskoSare ===
- * Contacto: [[MailTo(santiago DOT pereson AT euskosare DOT org, Santiago Pereson)]]
+ * Contacto: <<MailTo(santiago DOT pereson AT euskosare DOT org, Santiago Pereson)>>
 
- * URL: [http://www.euskosare.org/ www.euskosare.org]
+ * URL: [[http://www.euskosare.org/|www.euskosare.org]]
 
- * ¿De qué forma usamos Python?: El sitio utiliza software hecho en python: [http://plone.org/ Plone]/[http://zope.org/ Zope], con productos adicionales desarrollados a medida para el proyecto. Utilizamos también [http://www.gnu.org/software/mailman/ mailman] para manejar las listas de correo de las comunidades. La mayoría de los scripts de mantenimiento y administración del servidor están hechos en python. Para gestionar el desarrollo usamos [http://www.edgewall.com/trac trac], también hecho en python.
+ * ¿De qué forma usamos Python?: El sitio utiliza software hecho en python: [[http://plone.org/|Plone]]/[[http://zope.org/|Zope]], con productos adicionales desarrollados a medida para el proyecto. Utilizamos también [[http://www.gnu.org/software/mailman/|mailman]] para manejar las listas de correo de las comunidades. La mayoría de los scripts de mantenimiento y administración del servidor están hechos en python. Para gestionar el desarrollo usamos [[http://www.edgewall.com/trac|trac]], también hecho en python.
 
  * RicardoKirkner y SantiagoPereson trabajaban en el proyecto.
 
@@ -48,7 +48,7 @@
  * URL: http://www.hansaworld.com.ar/
 
 === Hector E. Nardelli S.A. ===
- * Contacto: [[MailTo( ariel DOT nardelli AT hensa DOT com DOT ar, Panflin)]]
+ * Contacto: <<MailTo( ariel DOT nardelli AT hensa DOT com DOT ar, Panflin)>>
 
  * URL: http://www.hensa.com.ar
 
@@ -56,25 +56,25 @@
 
  * ¿De qué forma usamos Python?: Estamos desarrollando todo el sistema de gestión completo en python, con la interfaz gráfica wxWidgets. El sistema una vez terminado trabajará preferentemente sobre Linux, y constará de un sistema de manejo de Emergencias Médicas, Facturación, Sistemas de Caja Diaria y Manejo de Abonados, entre otras cosas (el sistema es demasiado amplio como para explicarlo en pocas líneas).
 
- * Librerías/frameworks utilizadas: [http://www.wxwindows.org wxWidgets]/[http://www.wxpython.org/ wxPython]
+ * Librerías/frameworks utilizadas: [[http://www.wxwindows.org|wxWidgets]]/[[http://www.wxpython.org/|wxPython]]
 
 === Lambda Sistemas ===
- * Contacto: [[MailTo(guillermo DOT narvaja AT fierro-soft DOT com DOT ar, Guillermo Narvaja)]]
+ * Contacto: <<MailTo(guillermo DOT narvaja AT fierro-soft DOT com DOT ar, Guillermo Narvaja)>>
 
  * URL: http://www.fierro-soft.com.ar
 
  * Teléfono: 4857-6662
 
- * La empresa desarrolla un sistema de gestión para librerías, editoriales y distribuidoras, llamado Fierro. El desarrollo empezó a mediados del 2004 y desde marzo del 2005 está en producción. Actualmente está instalado en 9 librerías. El sistema tiene una arquitectura de tres capas, servidor de base de datos ([http://www.postgresql.org Postgresql]), servidor de aplicación, que corre bajo Linux, y los clientes que corren bajo Windows y Linux. En la página web podrán encontrar más información del sistema o pueden mandarnos consultas via mail.
+ * La empresa desarrolla un sistema de gestión para librerías, editoriales y distribuidoras, llamado Fierro. El desarrollo empezó a mediados del 2004 y desde marzo del 2005 está en producción. Actualmente está instalado en 9 librerías. El sistema tiene una arquitectura de tres capas, servidor de base de datos ([[http://www.postgresql.org|Postgresql]]), servidor de aplicación, que corre bajo Linux, y los clientes que corren bajo Windows y Linux. En la página web podrán encontrar más información del sistema o pueden mandarnos consultas via mail.
 
  * ¿Cómo se usa Python? Toda la aplicación está desarrollada utilizando Python.
 
- * Librerías utilizadas: [http://www.wxpython.org/ wxPython], [http://kid.lesscode.org kid], [http://spyce.sourceforge.net spyce], [http://pyro.sourceforge.net Pyro], [http://www.alcyone.com/pyos/empy/ empy], [http://www.pygresql.org pygresql], [http://www.modpython.org mod_python], [http://www.its4you.at/english/log4py.html log4py].
+ * Librerías utilizadas: [[http://www.wxpython.org/|wxPython]], [[http://kid.lesscode.org|kid]], [[http://spyce.sourceforge.net|spyce]], [[http://pyro.sourceforge.net|Pyro]], [[http://www.alcyone.com/pyos/empy/|empy]], [[http://www.pygresql.org|pygresql]], [[http://www.modpython.org|mod_python]], [[http://www.its4you.at/english/log4py.html|log4py]].
 
- * Desde hace un tiempo también utilizamos [http://www.edgewall.com/trac trac] para la gestión del proyecto, tickets y wiki interno.
+ * Desde hace un tiempo también utilizamos [[http://www.edgewall.com/trac|trac]] para la gestión del proyecto, tickets y wiki interno.
 
 === LUNIX S.R.L. ===
- * Contacto: [[MailTo(lucas AT lunix DOT com DOT ar, Lucas Di Pentima)]]
+ * Contacto: <<MailTo(lucas AT lunix DOT com DOT ar, Lucas Di Pentima)>>
 
  * URL: http://www.lunix.com.ar
 
@@ -86,10 +86,10 @@
 
  * ¿Cómo usamos Python? Uso de todo tipo, desde integración con software escrito en otros lenguajes a sistemas escritos completos en el mismo.
 
- * Librerías utilizadas: [http://www.pygtk.org/ PyGTK], [http://sf.net/projects/pexpect Pexpect], [http://www.crummy.com/software/BeautifulSoup/ BeautifulSoup], Snack, MySQLdb.
+ * Librerías utilizadas: [[http://www.pygtk.org/|PyGTK]], [[http://sf.net/projects/pexpect|Pexpect]], [[http://www.crummy.com/software/BeautifulSoup/|BeautifulSoup]], Snack, MySQLdb.
 
 === Machinalis ===
- * Contacto: [[MailTo( info AT machinalis DOT com , Machinalis)]]
+ * Contacto: <<MailTo( info AT machinalis DOT com , Machinalis)>>
 
  * URL: http://machinalis.com
 
@@ -97,12 +97,12 @@
 
  * Librerías/frameworks utilizadas: Django, pyGTK, Zope, Plone
 
- * También utilizamos [http://www.edgewall.com/trac trac] para la gestión del proyecto, tickets y wiki interno.
+ * También utilizamos [[http://www.edgewall.com/trac|trac]] para la gestión del proyecto, tickets y wiki interno.
 
  * Los socios de la empresa son WalterAlini, HoracioDuran, JavierMansilla, DanielMoisset. (todos miembros de PyAR)
 
 === Menttes ===
- * Contacto: [[MailTo( info AT menttes DOT com, Info)]]
+ * Contacto: <<MailTo( info AT menttes DOT com, Info)>>
 
  * URL: http://www.menttes.com
 
@@ -114,7 +114,7 @@
 
 
 === Movilogic ===
- * Contacto: [[MailTo( info AT movilogic DOT com, Info)]]
+ * Contacto: <<MailTo( info AT movilogic DOT com, Info)>>
 
  * URL: http://www.movilogic.com
 
@@ -125,7 +125,7 @@
  * ¿De qué forma usamos Python?: Lo usamos de distintas maneras. Tenemos varios desarrollos para clientes en python, lo tenemos integrado con unos de nuestros productos y tenemos muchas de nuestras herramientas internas en python.
 
 === MSA s.a. ===
- * Contacto: [[MailTo( info AT msa DOT com DOT ar, Info)]]
+ * Contacto: <<MailTo( info AT msa DOT com DOT ar, Info)>>
 
  * URL: http://www.msa.com.ar
 
@@ -137,7 +137,7 @@
 
 
 === Vortech ===
- * Contacto: [[MailTo( alecu AT vortech DOT com DOT ar, Alejandro J. Cura)]]
+ * Contacto: <<MailTo( alecu AT vortech DOT com DOT ar, Alejandro J. Cura)>>
 
  * URL: http://www.vortech.com.ar/
 
@@ -147,9 +147,9 @@
 
  * ¿De qué forma usamos Python?: Usamos python para todos los proyectos nuevos y varios existentes, y tambien jython para los clientes que tienen infraestructura en java.
 
- * Además de python usamos: [http://twistedmatrix.com Twisted], [http://www.pygtk.org/ PyGTK], [http://www.pygame.org/ pygame],[http://www.turbogears.org/ Turbogears], [http://www.edgewall.com/trac trac]
+ * Además de python usamos: [[http://twistedmatrix.com|Twisted]], [[http://www.pygtk.org/|PyGTK]], [[http://www.pygame.org/|pygame]],[[http://www.turbogears.org/|Turbogears]], [[http://www.edgewall.com/trac|trac]]
 
-[[BR]] [[BR]]
+<<BR>> <<BR>>
 
 ----
- [[FootNote]]
+ <<FootNote>>
