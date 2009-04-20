@@ -50,4 +50,4 @@ VB.NET es otro lenguaje, por lo que esta comparación no se adecua (buscar Pytho
 
  * En Python, no existe "Él" entorno de desarrollo integrado (Editor de Código y de Pantallas, Compilador, Depurador, etc.). Hay varias herramientas, que pueden llegar a usarse en conjunto (por ej. StaniPythonEditor es un editor + wxGlade para diseñar pantallas + WinPdb para depurar + PyChecker para verificar el código, etc.). Ver SPE, Boa, etc.
  * Para el desarrollo rápido y simple, lo más parecido es PythonCard, que incluye un diseñandor de pantallas y editor de código muy similar a VB, y el manejo de componentes es muy simple.
- * Existe una herramienta para migrar código VB a Python: [http://vb2py.sourceforge.net/ vb2py], migra proyectos simples con relativa facilidad, y puede ser usada como referencia para ver la conversión entre el código de ambos lenguajes, documentado en la guía del usuario.
+ * Existe una herramienta para migrar código VB a Python: [[http://vb2py.sourceforge.net/|vb2py]], migra proyectos simples con relativa facilidad, y puede ser usada como referencia para ver la conversión entre el código de ambos lenguajes, documentado en la guía del usuario.
