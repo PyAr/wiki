@@ -13,10 +13,10 @@ Esto traeríá mas gente al proyecto, pero lo ampliaría mas de lo necesario.
 
 Se plantearon también 2 mecanismos para armar liveCDs, knoppix y bootcd.
 
-Knoppix[http://www.knoppix.net] es un livecd que permite remasterizarlo, obteniendo una version personalizada del mismo.
-[http://www.knoppix.net/wiki/Knoppix_Remastering_Howto]
+Knoppix[[http://www.knoppix.net]] es un livecd que permite remasterizarlo, obteniendo una version personalizada del mismo.
+[[http://www.knoppix.net/wiki/Knoppix_Remastering_Howto]]
 
-Bootcd[http://www.debian-administration.org/articles/148] es un comando que genera un livecd a partir de una instalación de Debian.
+Bootcd[[http://www.debian-administration.org/articles/148]] es un comando que genera un livecd a partir de una instalación de Debian.
 El tema de usar BootCD es que no contempla la compatibilidad con el hardware.
 
 == PyLive CD ==
