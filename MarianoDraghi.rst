@@ -9,6 +9,6 @@ Ya bastante me cuesta mantener actualizada una página, como para ponerme a actu
 Si quieren saber en qué estoy pensando, o qué es de mi vida, pueden consultar mi blog: http://chaghi.com.ar/blog
 
 
-[[BR]]
+<<BR>>
 ----
 CategoryHomepage
