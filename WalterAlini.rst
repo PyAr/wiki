@@ -2,7 +2,7 @@
 #format wiki
 == Walter Alini ==
 
-Email: [[MailTo(walini AT machinalis DOT com)]] [[BR]]
+Email: <<MailTo(walini AT machinalis DOT com)>> <<BR>>
 Nick en #pyar: walteralini
 
 
