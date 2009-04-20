@@ -9,12 +9,12 @@
  * FacundoBatista
  * LucioTorre
  * Sebastián Maceda
- * [wiki:AlejandroDavidWeil dave]
+ * [[AlejandroDavidWeil|dave]]
  * RicardoQuesada
  * MarianoDraghi
  * RobertoRodriguez
  * GuillermoGonzalez
- * [wiki:AlejandroJCura alecu]
+ * [[AlejandroJCura|alecu]]
  * Carlos Gastón Alvarez
  * PabloZiliani
  * Héctor Sanchez (Karucha)
