@@ -6,7 +6,7 @@ En total nos juntamos 14 personas, de las cuales 6 vinieron por primera vez a un
 (son las que están marcadas con {*} en la lista). Hubo también un par de ausentes sin aviso ;)
 
  * Adrian {*}
- * [wiki:AlejandroJCura alecu]
+ * [[AlejandroJCura|alecu]]
  * FacundoBatista
  * Gabriel Patiño {*}
  * Gastón {*}
@@ -18,7 +18,7 @@ En total nos juntamos 14 personas, de las cuales 6 vinieron por primera vez a un
  * Mariano Ferro {*}
  * PabloZiliani
  * RicardoKirkner
- * [wiki:SantiagoPereson yaco]
+ * [[SantiagoPereson|yaco]]
 
 == Temario ==
 
@@ -43,16 +43,16 @@ puso las pilas para recibir su premio...)
 
 Los ganadores fueron:
 ||'''Pos'''||'''Premio'''||'''Ganador'''|| ||
-||01||Vaso térmico||[[MailTo(lorena DOT giraldo AT gmail DOT com)]]|| {*} ||
-||02||Remera !PyCon 2005 XL||[[MailTo(anifeno AT ubbi DOT com)]]|| ||
-||03||Remera !PyCon 2005 XL||[[MailTo(conan AT lugmen DOT org DOT ar)]]|| {*} ||
-||04||Remera !PyCon 2005 XL||[[MailTo(paburinu DOT san AT gmail DOT com)]]|| ||
-||05||Remera !PyCon 2005 L||[[MailTo(pablot AT gmail DOT com)]]|| ||
-||06||Remera !PyCon 2005 L||[[MailTo(pablodcar AT gmail DOT com)]]|| {*} ||
-||07||Remera !PyCon 2005 L||[[MailTo(javierder AT gmail DOT com)]]|| ||
-||08||Remera !PyCon 2005 L||[[MailTo(lucas AT lunix DOT com DOT ar)]]|| {*} ||
-||09||Remera !PyCon 2006 XL||[[MailTo(enriqueaguerre AT gmail DOT com)]]|| ||
-||10||Bolsa !PyCon 2006||[[MailTo(gepatino AT gmail DOT com)]]|| (./)  ||
+||01||Vaso térmico||<<MailTo(lorena DOT giraldo AT gmail DOT com)>>|| {*} ||
+||02||Remera !PyCon 2005 XL||<<MailTo(anifeno AT ubbi DOT com)>>|| ||
+||03||Remera !PyCon 2005 XL||<<MailTo(conan AT lugmen DOT org DOT ar)>>|| {*} ||
+||04||Remera !PyCon 2005 XL||<<MailTo(paburinu DOT san AT gmail DOT com)>>|| ||
+||05||Remera !PyCon 2005 L||<<MailTo(pablot AT gmail DOT com)>>|| ||
+||06||Remera !PyCon 2005 L||<<MailTo(pablodcar AT gmail DOT com)>>|| {*} ||
+||07||Remera !PyCon 2005 L||<<MailTo(javierder AT gmail DOT com)>>|| ||
+||08||Remera !PyCon 2005 L||<<MailTo(lucas AT lunix DOT com DOT ar)>>|| {*} ||
+||09||Remera !PyCon 2006 XL||<<MailTo(enriqueaguerre AT gmail DOT com)>>|| ||
+||10||Bolsa !PyCon 2006||<<MailTo(gepatino AT gmail DOT com)>>|| (./)  ||
      * Los marcados con (./) son los que ya retiraron su premio.
      * Los marcados con {*} son los que confirmaron que están enterados que ganaron algo, y está pendiente la entrega.
 
@@ -84,7 +84,7 @@ Además, los admins deberían repasar todos los temas pendientes, y actualizar e
 
  * Comentamos que está faltando algún evento que permita "vender" Python a un nivel más gerencial. O
    sea, mostrar a un nivel genrencial que no es un "juguete". Habría que organizar una charla
-   específica. [wiki:SantiagoPereson yaco] se ofreció a intentar conseguir la UCA como escenario. Si la idea
+   específica. [[SantiagoPereson|yaco]] se ofreció a intentar conseguir la UCA como escenario. Si la idea
    prospera, habría que darle forma a la idea, y empujarla. 
 
 === Wikipedia off-line ===
@@ -117,7 +117,7 @@ en sí fue '''impecable'''), en cuanto al contenido de las charlas. La lección 
 '''''no nos quedemos con lo que nos proponen'''''.
 
 === Python se entiende ===
-[wiki:SantiagoPereson yaco] estuvo en Perú dando una charla sobre composición musical. Nos comentó que se
+[[SantiagoPereson|yaco]] estuvo en Perú dando una charla sobre composición musical. Nos comentó que se
 sorprendió positivamente viendo como gente que no es para nada informática, y que no sabe
 nada de programación, podía leer el código que el mostraba de vez en cuando para explicar
 una idea, y entenderlo. Interesante experiencia.
