@@ -2,11 +2,11 @@
 
 La idea acá es dar dos o tres palabras copadas sobre Python, más la clave abajo que es ''disfrutar'' la programación.
 
-attachment:remera2-Facu01.png
+{{attachment:remera2-Facu01.png}}
 
 '''Diseño:'''
 
-attachment:remera2-Facu01.svg
+[[attachment:remera2-Facu01.svg]]
 
 == Comentarios ==
 
