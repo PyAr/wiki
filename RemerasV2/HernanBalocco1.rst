@@ -2,11 +2,11 @@
 
 Copiando un poco de Facundo y un poco de Juanjo. El recuadro de www.Python.com.ar se puede ocultar.
 
-attachment:HernanBalocco1.png
+{{attachment:HernanBalocco1.png}}
 
 '''Diseño:'''
 
-attachment:HernanBalocco1.svg
+[[attachment:HernanBalocco1.svg]]
 
 == Comentarios ==
 
