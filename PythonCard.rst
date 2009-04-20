@@ -22,13 +22,13 @@ apt-get install pythoncard
  
  
 === Windows ===
- * Bajar e instalar Python desde [http://www.python.org/ftp/python/2.5.2/python-2.5.2.msi www.python.org | Downloads | Windows Installer Python 2.5.2]. 
- * Bajar e instalar wxPython desde [http://downloads.sourceforge.net/wxpython/wxPython2.8-win32-unicode-2.8.7.1-py25.exe wxPython.org | Binaries | win32 unicode]. 
- * Bajar e instalar PythonCard [http://downloads.sourceforge.net/pythoncard/PythonCard-0.8.2.win32.exe pythoncard.sourceforge.net | Downloads | PythonCard 0.8.2 win32]. 
+ * Bajar e instalar Python desde [[http://www.python.org/ftp/python/2.5.2/python-2.5.2.msi|www.python.org | Downloads | Windows Installer Python 2.5.2]]. 
+ * Bajar e instalar wxPython desde [[http://downloads.sourceforge.net/wxpython/wxPython2.8-win32-unicode-2.8.7.1-py25.exe|wxPython.org | Binaries | win32 unicode]]. 
+ * Bajar e instalar PythonCard [[http://downloads.sourceforge.net/pythoncard/PythonCard-0.8.2.win32.exe|pythoncard.sourceforge.net | Downloads | PythonCard 0.8.2 win32]]. 
 
 == Ejemplos ==
 Si todo se instaló correctamente, podemos probar los ejemplos que vienen con PythonCard, menu Inicio, PythonCard, Sample Launcher (o buscar el script en C:\Python25\Lib\site-packages\PythonCard\samples\samples.pyw o similar para la plataforma en que estemos).
-Debería aparecer la pantalla de ejemplos (ver [http://pythoncard.sourceforge.net/samples/samples.html sitio de PythonCard]).
+Debería aparecer la pantalla de ejemplos (ver [[http://pythoncard.sourceforge.net/samples/samples.html|sitio de PythonCard]]).
 En ella se puede encontrar los programas de ejemplos en las siguientes categorias:
  * '''Bases de datos''' (altas, bajas, modificaciones y consultas): addresses, companies, custdb, dbBrowser, flatfileDatabase, gadflyDatabase
  * '''Juegos''': tictactoe (ta-te-ti), turtle (tortuga = lenguaje logo), life (juego de la vida), reversi, sodoku
@@ -61,9 +61,9 @@ Además, PythonCard dispone de caracteristicas de depuración (depurar menu, log
 == Editor de Pantallas ==
 
 PythonCard viene con un editor de pantallas (resource/layout editor), se encuentra en el menu Inicio, PythonCard, Layout Editor (o buscar el script en C:\Python25\Lib\site-packages\PythonCard\tools\resourceEditor\layoutEditor.py o similar para la plataforma en que estemos).
-Debería aparecer la pantalla de edición (ver imágenes y más información en [http://pythoncard.sourceforge.net/resource_editor_overview.html sitio de PythonCard]):
+Debería aparecer la pantalla de edición (ver imágenes y más información en [[http://pythoncard.sourceforge.net/resource_editor_overview.html|sitio de PythonCard]]):
 
-attachment:pycard1.png
+{{attachment:pycard1.png}}
 
 Ejemplo de como crear una aplicación de prueba (que tome una expresión/comando python ingresado por el usuario y devuelva su resultado):
  * Ir al menú ''File'', ''New'', aparece un miniasistente para crear la aplicación
@@ -86,9 +86,9 @@ Ejemplo de como crear una aplicación de prueba (que tome una expresión/comando
 
 == Editor de Código ==
 PythonCard viene tambien con un editor de código, se encuentra en el menú Inicio, PythonCard, Code Editor (o buscar el script en C:\Python25\Lib\site-packages\PythonCard\tools\resourceEditor\codeEditor.py o similar para la plataforma en que estemos). También esta el ''Tabbed Code Editor'' que nos permite editar multiples archivos y seleccionar los componentes y sus eventos.
-Debería aparecer la pantalla de edición de código (ver imágenes y más información en [http://pythoncard.sourceforge.net/tools/codeEditor.html sitio de PythonCard]):
+Debería aparecer la pantalla de edición de código (ver imágenes y más información en [[http://pythoncard.sourceforge.net/tools/codeEditor.html|sitio de PythonCard]]):
 
-attachment:pycard2.png
+{{attachment:pycard2.png}}
 
 Continuando con el ejemplo de como crear una aplicación de prueba (ver sección anterior):
  * Ir al menú ''File'', ''Open'', abrir el archivo {{{prueba.py}}} generado anteriormente
@@ -129,7 +129,7 @@ if __name__ == '__main__':
 }}}
 '''Nota''': Por ser un ejemplo se obviaron temas de manejo de excepciones y cuestiones avanzadas.
 Se pueden descargar los archivos terminados:
- * attachment:prueba.py
- * attachment:prueba.rsrc.py
+ * [[attachment:prueba.py]]
+ * [[attachment:prueba.rsrc.py]]
 === Pantalla del ejemplo ejecutandose: ===
-attachment:prueba.png
+{{attachment:prueba.png}}
