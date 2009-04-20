@@ -10,7 +10,7 @@ Por favor, anoten a continuación qué quieren:
 || MarianoMara || 1 XXL negra, 1 XXL azul ||
 || MartinConteMacDonell || 1 M azul ||
 || --(JohnLenton)-- || --(2 XL azul, 2XXS azul :-?)-- ||
-|| --(["AlejandroJCura"])-- || --(1 L azul, 1 L verde, 1 XXS verde)-- ||
+|| --([[AlejandroJCura]])-- || --(1 L azul, 1 L verde, 1 XXS verde)-- ||
 || --(MarianoDraghi)-- || --(1 L azul, 1 L verde)-- ||
 || --(MarioZorz)-- || --(1 M azul, 1 M negra, 1 L azul, 1 L negra)-- ||
 || --(DanielTinivella)-- ||  --(1 L Blanca, 1 L Negra)-- ||
@@ -58,7 +58,7 @@ Por favor, anoten a continuación qué quieren:
 || JuanColome || 2 L Negras, 1 M Negra ||
 || --(GuillermoGonzalez)-- ||  --(1 S blanca, 1 M negra, 1 M azul, 1 L negra, 1 L azul, 1 L verde)-- ||
 || IanKlaric || 1 L Negra, 1 L Azul ||
-|| --(["dieresys"])-- || --(1 L negra, 1 L azul)-- ||
+|| --([[dieresys]])-- || --(1 L negra, 1 L azul)-- ||
 || MaxiRobaina || 1 L azul ||
 || --(SantiagoBruno)-- || --(1 M azul)-- ||
 || --(AnthonyLenton)-- || --(1 S negra, 1 S azul, 1 S verde)-- ||
@@ -67,7 +67,7 @@ Por favor, anoten a continuación qué quieren:
 || --(DionisioAlonso)-- || --(1 S negra)-- ||
 || --(MauroMackinze)-- || --(1 XL negra, 1 XL Azul)-- ||
 || GuillermoNarvaja || 1 XL negra ||
-|| --(["OSiRiS"])-- || --(1 XL negra)-- ||
+|| --([[OSiRiS]])-- || --(1 XL negra)-- ||
 || --(AlanRomero)-- || --(1 L negra)-- ||
 || --(CesarPortela)-- || --(1 XL negra)-- ||
 || --(MartinBorthiry)-- || --(1 M negra, 1 M azul)-- ||
@@ -94,4 +94,4 @@ Códigos para los tamaños: S, M, L, XL y XXL.
 
 A, B y C corresponde a los siguiente:
 
-attachment:tam-remeras.png
+{{attachment:tam-remeras.png}}
