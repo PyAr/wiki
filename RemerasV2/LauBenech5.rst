@@ -2,9 +2,9 @@
 
 Otra más :)
 
-attachment:LauBenech5.png
+{{attachment:LauBenech5.png}}
 
-attachment:LauBenech5.svg
+[[attachment:LauBenech5.svg]]
 
 == Comentarios ==
 
