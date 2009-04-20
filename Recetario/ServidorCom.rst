@@ -2,12 +2,12 @@
 
 ==== Descripción ====
 
-Esta receta es un ejemplo de como crear un Servidor [http://es.wikipedia.org/wiki/Component_Object_Model COM] para poder exponer nuestros objetos Python y así accederlos desde otros lenguajes (Visual Basic, Visual Fox Pro, PHP, Java, .NET, etc.)
+Esta receta es un ejemplo de como crear un Servidor [[http://es.wikipedia.org/wiki/Component_Object_Model|COM]] para poder exponer nuestros objetos Python y así accederlos desde otros lenguajes (Visual Basic, Visual Fox Pro, PHP, Java, .NET, etc.)
 
 Esto nos permite utilizar las características de Python facilmente desde otros entornos, posibilitando extender o adaptar código ya desarrollado en otros lenguajes.
 
-Es necesario instalar [http://starship.python.net/crew/mhammond/win32/Downloads.html Extensiones Win32]
-(ver [http://oreilly.com/catalog/pythonwin32/chapter/ch12.html Bibliografia])
+Es necesario instalar [[http://starship.python.net/crew/mhammond/win32/Downloads.html|Extensiones Win32]]
+(ver [[http://oreilly.com/catalog/pythonwin32/chapter/ch12.html|Bibliografia]])
 
 ==== Ejemplo: ====
 
@@ -99,7 +99,7 @@ MESSAGEBOX(resultado, 0)
 
 
 
-Para generar una DLL o EXE y poder distribuir el servidor com sin necesidad de tener instalado Python, usar Py2Exe con el siguiente script de directivas de instalación (ver [wiki:Recetario/CrearEjecutableWindows CrearEjecutableWindows]):
+Para generar una DLL o EXE y poder distribuir el servidor com sin necesidad de tener instalado Python, usar Py2Exe con el siguiente script de directivas de instalación (ver [[Recetario/CrearEjecutableWindows|CrearEjecutableWindows]]):
 
 {{{
 #!python
@@ -126,7 +126,7 @@ regsvr32 miservidorcom.dll
 }}}
 
 
-Para Descargar Fuentes: [attachment:ejemplo.zip ejemplo.zip]
+Para Descargar Fuentes: [[attachment:ejemplo.zip|ejemplo.zip]]
 
 ==== Autor / Autores: ====
 MarianoReingart
