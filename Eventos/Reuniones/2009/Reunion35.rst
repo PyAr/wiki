@@ -27,7 +27,7 @@
 || alecu ||
 || LucasLiendro ||
 
-Para conocerles las caras está [http://tinyurl.com/pyar35 este video].
+Para conocerles las caras está [[http://tinyurl.com/pyar35|este video]].
 
 == ¿De qué se habló? ==
 
@@ -41,7 +41,7 @@ Se comento que hay 33 programadores anotados para ir. Ante la pregunta del porqu
 
 
 
-Se hizo la pregunta de cómo podían participar en los [http://python.com.ar/moin/PyCamp/2009/TemasPropuestos diferentes eventos] los que no van al PyCamp de forma remota. El problema es que el cronograma no se va a hacer hasta que las personas se encuentren en Córdoba, por lo que es difícil discutir el horario de antemano.
+Se hizo la pregunta de cómo podían participar en los [[http://python.com.ar/moin/PyCamp/2009/TemasPropuestos|diferentes eventos]] los que no van al PyCamp de forma remota. El problema es que el cronograma no se va a hacer hasta que las personas se encuentren en Córdoba, por lo que es difícil discutir el horario de antemano.
 Se propuso que los temas en las que personas que no fuesen a PyCamp fuesen pensadas de antemano. Al final se planteo que los interesados en participar se unan al irc de pyar
 
 
