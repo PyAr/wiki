@@ -11,4 +11,4 @@ lo que van a hacer en el sprint, y porque no subi un helloworld :).
 
 Saludos.
 
-attachment:foto_by_mail.py
+[[attachment:foto_by_mail.py]]
