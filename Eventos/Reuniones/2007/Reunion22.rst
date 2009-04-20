@@ -8,7 +8,7 @@ Esta vez fuimos 18:
 
  * GuillermoGonzalez
  * PabloZiliani
- * [wiki:AlejandroJCura alecu]
+ * [[AlejandroJCura|alecu]]
  * AlejandroDavidWeil
  * LucioTorre
  * RobertoRodriguez
@@ -28,16 +28,16 @@ Esta vez fuimos 18:
 == Temario ==
 
 === PyCon 2007 ===
-Lucio y alecu viajaron en Febrero a la conferencia [http://us.pycon.org/TX2007/HomePage PyCon2007], a presentar una charla sobre pyweek.
+Lucio y alecu viajaron en Febrero a la conferencia [[http://us.pycon.org/TX2007/HomePage|PyCon2007]], a presentar una charla sobre pyweek.
  Ya de vuelta estuvieron contando brevemente sus experiencias en la conferencia y trajeron algunos obsequios para sortear.
 
 === OLPC ===
-Uno de los temas mas calientes de las charlas de PyCon fue la [http://laptop.org OLPC], la laptop para niños del tercer mundo.
+Uno de los temas mas calientes de las charlas de PyCon fue la [[http://laptop.org|OLPC]], la laptop para niños del tercer mundo.
 Como esa laptop usa Python como lenguaje base, y la Argentina es uno de los primeros paises donde se van a probar estas computadoras, estamos todos muy interesados en investigar como desarrollar programas educativos para las mismas.
 Se propuso organizar algun sprint para trabajar en ello, y más de uno sugirió que investiguemos y utilicemos alguna herramienta de software para permitir participar de forma remota a quienes no puedan asistir en forma presencial.
 
 === PyWeek ===
-Unos dias antes de la charla se anunciaron los resultados de la ultima competencia [http://pyweek.org/4/ pyweek]. Otra vez muy buenos resultados (salvo algunas broncas) de los equipos argentinos: ''"Bs. As. participó como [http://www.pyweek.org/e/Pywiii/ Pywiii], con '''Grossini's Hell''', y Córdoba como [http://www.pyweek.org/e/pycor2/ PyCor 2.0], con el juego homónimo, saliendo en 2^do^ y 5^to^ lugar, respectivamente."''. Mostramos un poco el juego a los asistentes, y hubo brindis y festejos.
+Unos dias antes de la charla se anunciaron los resultados de la ultima competencia [[http://pyweek.org/4/|pyweek]]. Otra vez muy buenos resultados (salvo algunas broncas) de los equipos argentinos: ''"Bs. As. participó como [[http://www.pyweek.org/e/Pywiii/|Pywiii]], con '''Grossini's Hell''', y Córdoba como [[http://www.pyweek.org/e/pycor2/|PyCor 2.0]], con el juego homónimo, saliendo en 2^do^ y 5^to^ lugar, respectivamente."''. Mostramos un poco el juego a los asistentes, y hubo brindis y festejos.
 
 === Concursos para PyAr ===
 '''??? No se en que pensaba el chaghi cuando anoto este punto en la lista de temas! '''
