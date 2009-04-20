@@ -2,7 +2,7 @@
 
 Esta es la lista de TareasPendientes que ya fueron completadas.
 
- || <!> ''Por favor, antes de modificar esta página, leé las [#LEEME recomendaciones] expresadas al final.''||
+ || <!> ''Por favor, antes de modificar esta página, leé las [[#LEEME|recomendaciones]] expresadas al final.''||
 
 == Listas de correo ==
 
@@ -12,7 +12,7 @@ Esta es la lista de TareasPendientes que ya fueron completadas.
 
  * Archivo de la lista de mail general (Deberia filtrar las direcciones)
 
-   * [http://mx.grulic.org.ar/lurker/list/pyar.html Archivo]
+   * [[http://mx.grulic.org.ar/lurker/list/pyar.html|Archivo]]
 
 
 == Sitio ==
@@ -29,17 +29,17 @@ Esta es la lista de TareasPendientes que ya fueron completadas.
 
  * Página de histórico de eventos
 
-   * ["Eventos"]
+   * [[Eventos]]
 
- * Una página por cada evento (accesible desde ["Eventos"])
+ * Una página por cada evento (accesible desde [[Eventos]])
 
-   * ["Eventos/Reuniones/Reunion01"]
+   * [[Eventos/Reuniones/Reunion01]]
 
-   * ["Eventos/Reuniones/Reunion02"]
+   * [[Eventos/Reuniones/Reunion02]]
 
    * etc...
 
- * Link del navigation bar a la página de ["Eventos"]
+ * Link del navigation bar a la página de [[Eventos]]
 
  * Agregar Wikis
 
@@ -52,7 +52,7 @@ Esta es la lista de TareasPendientes que ya fueron completadas.
 
  * Terminar de pulir el logo
 
-[[Anchor(LEEME)]]
+<<Anchor(LEEME)>>
 ----
 === Recomendaciones para editar esta página ===
 
