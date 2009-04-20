@@ -1,6 +1,6 @@
 = Tareas Pendientes =
 
-Esta es una lista de tareas que tenemos pendientes. También llevamos un registro de ["/TareasRealizadas"].
+Esta es una lista de tareas que tenemos pendientes. También llevamos un registro de [[/TareasRealizadas]].
 
 == Sitio ==
 
@@ -8,19 +8,19 @@ Esta es una lista de tareas que tenemos pendientes. También llevamos un registr
 PyArTrac https://opensvn.csie.org/traccgi/PyAr/trac.cgi/wiki/
 }}} Así podremos linkear al wiki del trac de que abrimos en opensvn directamente.
  
- * Solucionar el error con la Macro IRSS al suscribirse al feed de ["Noticias"]. Estaba arreglado, pero ahora parece
+ * Solucionar el error con la Macro IRSS al suscribirse al feed de [[Noticias]]. Estaba arreglado, pero ahora parece
  que con Python 2.3 hay más problemas de Unicode :(
 
  * Evaluar la posibilidad de instalar pyXML y Docutils en el servidor,
  para poder aprovechar el parser de reStructuredText y la generación de !DoocBook.
 
- * --(Darle contenido y forma a la sección ["Recursos"]. Evaluar si es necesario crear subpáginas.)--
-   * Incluir la sección ["Recursos"] en la barra de navegación.
+ * --(Darle contenido y forma a la sección [[Recursos]]. Evaluar si es necesario crear subpáginas.)--
+   * Incluir la sección [[Recursos]] en la barra de navegación.
 
- * Completar la data de ["Eventos/Conferencias"]. Hubo por lo menos una charla más en otra conferencia.
+ * Completar la data de [[Eventos/Conferencias]]. Hubo por lo menos una charla más en otra conferencia.
  Evaluar si vale la pena abrir una página por cada conferencia (como hacemos con las reuniones).
 
- * Darle contenido a la página de ["Proyectos/Caucho"] y ["Proyectos/Caucho/ActionSprite"].
+ * Darle contenido a la página de [[Proyectos/Caucho]] y [[Proyectos/Caucho/ActionSprite]].
 
  * Escalar las fotos adjuntas a algunas páginas, para que queden de un tamaño razonable (hoy son muy grandes y pesadas).
 
@@ -39,10 +39,10 @@ PyArTrac https://opensvn.csie.org/traccgi/PyAr/trac.cgi/wiki/
 
 El Wiki requiere ciertas tareas rutinarias:
 
- * Mantener actualizadas las ["Noticias"] y los marcadores {{{ULTIMAS_START}}} y {{{ULTIMAS_END}}},
+ * Mantener actualizadas las [[Noticias]] y los marcadores {{{ULTIMAS_START}}} y {{{ULTIMAS_END}}},
  para que se visualicen correctamente las últimas noticias en la página Inicio.
 
- * Corregir las [wiki:FixMe páginas con FIXMEs].
+ * Corregir las [[FixMe|páginas con FIXMEs]].
 
  * Revisar las WantedPages, para ver si hay páginas pendientes de edición, o ''broken links''.
  
@@ -56,4 +56,4 @@ El Wiki requiere ciertas tareas rutinarias:
  * Exportar el logo a diferentes formatos y resoluciones, para que pueda usarse como banner, referrer, etc.
 
 ----
-[[Navigation(children)]]
+<<Navigation(children)>>
