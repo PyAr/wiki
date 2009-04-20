@@ -2,7 +2,7 @@
 #language es
 = Reunión 13 - 01/02/2006 - Hip Bar =
 
- * Asistentes: ¡Volvimos a nuestro record histórico! Fuimos trece: GuillermoGonzalez, ["AlejandroJCura"], FacundoBatista,
+ * Asistentes: ¡Volvimos a nuestro record histórico! Fuimos trece: GuillermoGonzalez, [[AlejandroJCura]], FacundoBatista,
  MarianoDraghi, AlejandroDavidWeil, PabloZiliani, RicardoKirkner, LeitoMonk, GuillermoNarvaja, MilenaArmada, NubIs, 
  SantiagoPereson, Sergio
 
@@ -27,18 +27,18 @@
      que a la vuelta de sus vacaciones podamos verlos.
      * Tenemos pendiente poner alguna nota más llamativa de agradecimiento a Decode y GrULiC por los servicios de hosting
      que nos prestan.
-   * NubIs nos contó del estado actual de ["Proyectos/Caucho/ActionSprite"].
+   * NubIs nos contó del estado actual de [[Proyectos/Caucho/ActionSprite]].
    * MarianoDraghi comentó que tuvimos contacto con gente de Python de Uruguay, que también está formando un grupo,
    y de que hay intenciones de a futuro colaborar entre ambos grupos.
    * Todos estuvimos de acuerdo en que sería bueno reflotar la idea de tener un mini-taller o mini-charla en cada
    reunión. Incluso se propusieron algunos temas:
-     * [wiki:Proyectos/Caucho/ActionSprite ActionSprite]
+     * [[Proyectos:Caucho/ActionSprite|ActionSprite]]
      * Zope / Plone
-   * ["AlejandroJCura"] propuso armar un ''[wiki:Eventos/Reuniones/ReleaseProcedure ReleaseProcedure]'' para cada reunión, de manera que estén claros y documentados
+   * [[AlejandroJCura]] propuso armar un ''[[Eventos/Reuniones/ReleaseProcedure|ReleaseProcedure]]'' para cada reunión, de manera que estén claros y documentados
    para todos los pasos, y no nos pasen cosas como olvidarnos de anunciar la reunión en algún lado, o de publicar la
    agenda, etc. La idea está buena, y la vamos a poner en práctica.
    * FacundoBatista nos dió detalles sobre como es una lightning talk. Les recordamos a todos que está habilitada una
-   página para que aportemos letra: ["Eventos/Conferencias/PyCon2006"].
+   página para que aportemos letra: [[Eventos/Conferencias/PyCon2006]].
    * Hablamos sobre la organización formal del grupo. Convenimos en que por ahora es una carga administrativa y de
    tiempos demasiado grande el transformarnos en una asociación. LeitoMonk nos propuso contactarnos con alguna
    fundación y/o organización existente, que actúe como ''paraguas'', para aquellos casos en que necesitemos una
