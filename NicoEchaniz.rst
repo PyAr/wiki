@@ -5,7 +5,7 @@
 
 http://www.nicoechaniz.com.ar
 
-Email: [[MailTo(nico AT SPAMFREE rakar DOT com)]]
+Email: <<MailTo(nico AT SPAMFREE rakar DOT com)>>
 
 ----
 CategoryHomepage
