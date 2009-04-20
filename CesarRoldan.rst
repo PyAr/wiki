@@ -2,7 +2,7 @@
 #format wiki
 == Cesar Roldan ==
 
-Email: [[MailTo(cesar__- AT SPAMFREE -__hugoroldan__- DOT -__com__- DOT -__ar)]]
+Email: <<MailTo(cesar__- AT SPAMFREE -__hugoroldan__- DOT -__com__- DOT -__ar)>>
 
 ...
 
