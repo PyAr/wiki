@@ -5,11 +5,11 @@
 
 :P
 
-attachment:humitos01.png
+{{attachment:humitos01.png}}
 
 '''Diseño'''
 
-attachment:humitos.svg
+[[attachment:humitos.svg]]
 
 == Comentarios ==
 
