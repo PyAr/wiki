@@ -5,6 +5,6 @@
  * Hecha con: Inkscape 0.43
  * Licencia: FDL
 
-|| http://alecu.com.ar/banderas/bandera2.png ||
+|| {{http://alecu.com.ar/banderas/bandera2.png}} ||
 {*} El usuario pidio cambiar este diseño por otro de su autoría.
 ----
