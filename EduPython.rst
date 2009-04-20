@@ -12,7 +12,7 @@ La idea de este proyecto es armar y dictar charlas sobre Python  en colegios sec
 ||Gabriel Brunacci || gbrunacci ashoba gmail poonto com || Bs.As. Cap Fed ||
 ||Javier Castrillo || riverplatense@gmail.com || Carapachay ||
 ||Matias Gieco || matigro acávaelarroba gmail acávaelpunto com || Paraná, Entre Ríos ||
-||[wiki:MarianoReingart Mariano Reingart] || mariano@nsis.com.ar|| Bs.As. Hurlingham ||
+||[[MarianoReingart|Mariano Reingart]] || mariano@nsis.com.ar|| Bs.As. Hurlingham ||
 
 
 == Lista de tareas ==
@@ -21,7 +21,7 @@ La idea de este proyecto es armar y dictar charlas sobre Python  en colegios sec
  * Crear un documento de presentación para las autoridades de los colegios.
 
 == Algunas ideas ==
- * [:EduPythonCD:Armar un live-cd para repartir en las charlas/talleres]
+ * [[EduPythonCD|Armar un live-cd para repartir en las charlas/talleres]]
  * Armar folletos/panfletos explicando que es Python
  * El material debería armarse según los niveles a quien van impartidos, pudiendo enseñar python hasta a chicos chicos.
 
@@ -51,7 +51,7 @@ en el que vamos mostrando el lenguaje de a poquito. Algunas librerías
 del lenguaje y demás.
 
 Aplicaciones de aprendizaje:
- * [http://pythoncard.sourceforge.net/samples/turtle.html Tortuga]: Logo
+ * [[http://pythoncard.sourceforge.net/samples/turtle.html|Tortuga]]: Logo
  * Teoría de conjuntos
  * Graficador de funciones (lineales, cuadráticas, etc.)
  * Resolución de ecuaciones
