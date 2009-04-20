@@ -11,13 +11,13 @@ Participo en:
 
  Varios proyectos de Software Libre
 
-Dirijo [http://www.pressenter.com.ar PressEnter], una consultora dedicada al software libre.
+Dirijo [[http://www.pressenter.com.ar|PressEnter]], una consultora dedicada al software libre.
 
 En mi tiempo libre, me divierto haciendo cosas con python.
 
-Email: [[MailTo(hsanchez AT SPAMFREE pressenter DOT com DOT ar)]]
+Email: <<MailTo(hsanchez AT SPAMFREE pressenter DOT com DOT ar)>>
 
-Blog : [http://www.karuchin.com.ar]
+Blog : [[http://www.karuchin.com.ar]]
 
 ----
 CategoryHomepage
