@@ -2,7 +2,7 @@
 #format wiki
 == Santiago Suarez Ordoñez ==
 
-Email: [[MailTo(santiycr arroba gmail punto com)]]
+Email: <<MailTo(santiycr arroba gmail punto com)>>
 
 Estoy rindiendo las últimas materias para recibirme de Ingeniero en sistemas de Información en la Universidad Tecnológica Nacional, Regional Rosario.
 
