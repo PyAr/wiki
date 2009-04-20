@@ -8,14 +8,14 @@
 ||MarianoReingart ||
 ||Karucha ||
 ||RicardoKirkner ||
-|| ["AlejandroJCura"] ||
+|| [[AlejandroJCura]] ||
 ||LeitoMonk ||
 ||PabloCarballo ||
 ||MarianoDraghi ||
 ||LucasDevescovi ||
 ||MarioZorz ||
 ||JohnLenton (ueeeh! serendipity!) ||
-||[:MauroMackinze:MauroMackinze (1°)] ||
+||[[MauroMackinze|MauroMackinze (1°)]] ||
 ||RobertoRodriguez ||
 ||SebastianBassi ||
 ||<style="vertical-align: top;">Lukio (1°) ||
