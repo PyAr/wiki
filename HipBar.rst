@@ -15,4 +15,4 @@ El teléfono es 4342-0234, pero dicen que están con problemas y actualmente ati
    * Líneas '''22''', '''24''', '''28''', '''29''', '''56''', '''61''', '''64''', '''86''', '''91''', '''105''', '''111''', '''126'''
 
 == Fotos ==
-||<tablewidth="60%" tablestyle=""> attachment:foto_hip_bar.jpg || attachment:mapa_hip_bar.gif ||
+||<tablewidth="60%" tablestyle=""> {{attachment:foto_hip_bar.jpg}} || {{attachment:mapa_hip_bar.gif}} ||
