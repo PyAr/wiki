@@ -1,6 +1,6 @@
 Sprint OLPCServer
 
-La idea es juntarnos con Martín Langhoff, quien está encargado del [http://wiki.laptop.org/go/School_server Server para la OLPC] y que:
+La idea es juntarnos con Martín Langhoff, quien está encargado del [[http://wiki.laptop.org/go/School_server|Server para la OLPC]] y que:
  1. nos cuente en que estado se encuentra dicha parte del proyecto
  1. veamos que módulos sería mas útil y podemos encarar
  1. armemos grupos y distribuyamos el trabajo
