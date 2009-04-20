@@ -1,6 +1,6 @@
 == Manejo simple de xml (SimpleXMLElement) ==
 
-En este ejemplo se muestra como convertir un string desde y hacia un objeto simple que representa el XML (código usado en [http://www.nsis.com.ar/public/browser/pyafip/ws/php.py Factura Electronica])
+En este ejemplo se muestra como convertir un string desde y hacia un objeto simple que representa el XML (código usado en [[http://www.nsis.com.ar/public/browser/pyafip/ws/php.py|Factura Electronica]])
 
 {{{
 #!python
