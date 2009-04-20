@@ -6,7 +6,7 @@
 Las reuniones de PyAr pueden ser propuestas y organizadas por cualquiera de sus miembros, en cualquier lugar del país.
 Estos son los pasos a seguir para organizarlas.
 
-[[TableOfContents]]
+<<TableOfContents>>
 
 ----
 
@@ -27,13 +27,13 @@ Como parte de la discusión, probablemente surjan una o dos fechas tentativas, y
 A partir de este punto, es importante seguir esta lista de pasos, para no olvidarse de nada. Sugerimos copiar los títulos del release procedure en el temario de la reunión, e irlos tachando o marcando a medida que se van cumpliendo.
 
 === Generar el temario ===
-Editar la página [wiki:Eventos/Reuniones/ProximaReunion ProximaReunion], e ir volcando el temario. Tratá de alentar la participación en este punto, ya que el éxito de la reunión normalmente depende de lograr un temario interesante. Respetá el formato normal de la página.
+Editar la página [[Eventos/Reuniones/ProximaReunion|ProximaReunion]], e ir volcando el temario. Tratá de alentar la participación en este punto, ya que el éxito de la reunión normalmente depende de lograr un temario interesante. Respetá el formato normal de la página.
 
 === Armar una lista de asistentes ===
-Para ayudar en la organización, es importante que las personas interesadas puedan registrarse como asistentes. Una de las secciones de [wiki:Eventos/Reuniones/ProximaReunion ProximaReunion] debería contener una lista en la cual los interesados puedan agregarse ellos mismos editando la página.
+Para ayudar en la organización, es importante que las personas interesadas puedan registrarse como asistentes. Una de las secciones de [[Eventos/Reuniones/ProximaReunion|ProximaReunion]] debería contener una lista en la cual los interesados puedan agregarse ellos mismos editando la página.
 
 === Fijar fecha y lugar definitivos ===
-Esto debería ocurrir como mínimo con una semana de anticipación. A veces el lugar requiere de una confirmación previa de disponibilidad, con lo cual la fecha depende de realizar primero esa confirmación (y de con cuanta anticipación haya que hacerla). Tenelo en cuenta. Siempre deberá discutirse en la ListaDeCorreo cualquier cambio. Cuando esto esté definido, hay que publicarlo en la lista, y agregar un recordatorio en la página de ["Inicio"] (esto último tendrá que realizarlo algún ''admin'' de PyAr). La fecha y lugar también deberían quedar consignados en [wiki:Eventos/Reuniones/ProximaReunion ProximaReunion].
+Esto debería ocurrir como mínimo con una semana de anticipación. A veces el lugar requiere de una confirmación previa de disponibilidad, con lo cual la fecha depende de realizar primero esa confirmación (y de con cuanta anticipación haya que hacerla). Tenelo en cuenta. Siempre deberá discutirse en la ListaDeCorreo cualquier cambio. Cuando esto esté definido, hay que publicarlo en la lista, y agregar un recordatorio en la página de [[Inicio]] (esto último tendrá que realizarlo algún ''admin'' de PyAr). La fecha y lugar también deberían quedar consignados en [[Eventos/Reuniones/ProximaReunion|ProximaReunion]].
 
 === Definir quien dirigirá la reunión ===
 Algún asistente tendrá que hacerse responsable de:
@@ -47,7 +47,7 @@ Algún asistente tendrá que hacerse responsable de:
 Mandá un mail diario a la ListaDeCorreo cuando falten 2 o 3 días para la reunión, y no más (¡no queremos SPAM!). Opcionalmente, podrás pre-anunciar la reunión en la lista de Python en español (con una vez, alcanza).
 
 === Publicar recordatorios el día de la reunión ===
-Mandá un mail a la ListaDeCorreo el mismo día de la reunión, a primera hora, a modo de recordatorio. Algún ''admin'' debería actualizar la página de ["Inicio"] para reflejar que la reunión es ''hoy''. Si enviaste un preanuncio a python-es, podrías mandar un último mail allí también.
+Mandá un mail a la ListaDeCorreo el mismo día de la reunión, a primera hora, a modo de recordatorio. Algún ''admin'' debería actualizar la página de [[Inicio]] para reflejar que la reunión es ''hoy''. Si enviaste un preanuncio a python-es, podrías mandar un último mail allí también.
 
 == Tareas específicas ==
 Algunos lugares requieren de algunas tareas específicas. Las comentamos a continuación, agrupadas por lugar de reunión.
