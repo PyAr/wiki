@@ -2,13 +2,13 @@
 #format wiki
 == Horacio Durán (perrito) ==
 
-Email: [[MailTo(horacio.duran AT SPAMFREE gmail DOT com)]]
+Email: <<MailTo(horacio.duran AT SPAMFREE gmail DOT com)>>
 
 Soy... dejenme volver a empezar. Comencé las carreras de Ingeniería Electrónica, Arquitectura, Tecnicatura en Programación y un atisbo de Lic. en ciencias de la computación, no terminé tantas como empece.. ninguna de hecho.
 
 Igualmente me dedico a la informática desde hace varios años. Fui freelancer hasta 2003 cuando comencé a trabajar en una pequeña empresa de desarrollo de donde me fui bastante rápido, porque usaban php mas que nada.
 
-En 2004 mas o menos, empecé a trabajar en el proyecto PAPO de la [http://vialibre.org.ar Fundación Via Libre], puntualmente en Luca un software de administración de recursos contables para PyMes (en Python, evidentemente), en ese momento conocí python y nunca mas lo dejé.
+En 2004 mas o menos, empecé a trabajar en el proyecto PAPO de la [[http://vialibre.org.ar|Fundación Via Libre]], puntualmente en Luca un software de administración de recursos contables para PyMes (en Python, evidentemente), en ese momento conocí python y nunca mas lo dejé.
 
 Luego de eso use Python en mi trabajo de sysadmin donde hubiese pythonizado hasta la máquina de hacer café, si hubiese habido una (quizas una de las razones por las cuales también deje este trabajo).
 
