@@ -11,7 +11,7 @@ Pero en general, el balance de La Tribu fue muy positivo.
 
 === Asistentes ===
 
-||[:AlejandroJCura:alecu] ||
+||[[AlejandroJCura|alecu]] ||
 ||FacundoBatista||
 ||Guido||
 ||GuillermoGonzalez||
@@ -25,7 +25,7 @@ Pero en general, el balance de La Tribu fue muy positivo.
 Presentamos a los nuevos:
  * Guido es ''Artista Visual'' (¡no confundir con diseñador gráfico!, jeje), y declaró venir como expectador, junto con Rama.
  * Rama es un activo participante del proyecto ''Burnstation'' (más sobre esto luego), que vino a contarnos sobre este proyecto, a mostrarnos un video, y hacer una demo.
- * Hugo se interesó por Python (y PyAr) en la última !CaFeConf. Está empezando a probar Python, experimentando con Kiwi. Trabaja en [http://www.pixartargentina.com.ar/ Pixart], y su hobby es el desarrollo de juegos.
+ * Hugo se interesó por Python (y PyAr) en la última !CaFeConf. Está empezando a probar Python, experimentando con Kiwi. Trabaja en [[http://www.pixartargentina.com.ar/|Pixart]], y su hobby es el desarrollo de juegos.
  * Roberto también se subió al barco gracias a !CaFeConf. Está interesado en los proyectos relacionados a Wikipedia, y también con seguridad informática. Estaba buscando un detector de vulnerabilidades hecho en Python, o con la idea de portar uno que está hecho en Perl.
   
 
@@ -38,8 +38,8 @@ Como siempre, hablamos de todo un poco. Más o menos, este es el recuento de tem
  * Vulnerabilidades, scanners
  * Charlamos un laaargo rato sobre el proyecto Burnstation. Rama nos mostró un video, y la interfaz (hecha en Python, con wx) funcionando. Hablamos sobre los temas pendientes, que desafíos tenía el proyecto por delante, los aspectos legales, etc. Y quedamos en organizar a fines de enero / ppios. de febrero una reunión tipo sprint específica para laburar en este proyecto.
  * Python en dispositivos móviles, portabilidad. Una vez más, Java queda como ganador indiscutible en este nicho.
- * Limitaciones de Python en escalabilidad a múltiples procesadores, lockeos, [http://www.stackless.com/ stackless python]
- * Formatos libres, y [http://catb.org/~esr/writings/world-domination/world-domination-201.html las últimas declaraciones de EsR]
+ * Limitaciones de Python en escalabilidad a múltiples procesadores, lockeos, [[http://www.stackless.com/|stackless python]]
+ * Formatos libres, y [[http://catb.org/~esr/writings/world-domination/world-domination-201.html|las últimas declaraciones de EsR]]
  * Programación funcional vs. imperativa; ventajas de lenguajes funcionales frente a Python para resolver determinado tipo de problemas
  * Discutimos la posibilidad de armar una charla introductoria a Python, dada por Facundo, de 2hs. Sería como una repetición de la dada en !CaFeConf, pero con más tiempo. La principal limitante es volver a reunir a la gente interesada.
  * Guillermo nos contó sobre su experimento para scriptear Eclipse usando Jython. Es una idea que ya estaba implementada con Ruby, y decidió portarla. Que Python/Jython no tengan bloques se transformó en una limitante. Muy interesante.
