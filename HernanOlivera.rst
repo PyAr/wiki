@@ -80,7 +80,7 @@ Tengo varios proyectos en mente para los cuales todavía estoy buscando un conte
 Linux que uso: Ubuntu 8.04 Linux que probé: Suse, Mandrake, Puppy, DSL, Slackware, RedHat, Ututo, Debian.
 
 ----
- Email: [[MailTo(lholivera AT g m a i l DOT com)]]
+ Email: <<MailTo(lholivera AT g m a i l DOT com)>>
 
 ...
 
