@@ -11,7 +11,7 @@ Para agregar una página a ésta categoría, agregá un link a ésta página en 
 
 '''Lista de páginas en ésta categoría:'''
 
-[[FullSearch()]]
+<<FullSearch>>
 
 ----
 CategoryCategory
