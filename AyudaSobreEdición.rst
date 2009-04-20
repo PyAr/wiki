@@ -20,7 +20,7 @@ Las siguientes páginas describen los elementos (etiquetas wiki) que puedes usar
  * AyudaSobreTablas - tablas
  * AyudaSobreEmoticones - como insertar un :)
  * AyudaSobreMacros - macros de sistema
- * wiki:Self:HelpOnPageCreation#variablesubstitution - que variables son sustituidas (como @''''''SIG@, @''''''MAILTO@ ...)
+ * [[HelpOnPageCreation#variablesubstitution]] - que variables son sustituidas (como @''''''SIG@, @''''''MAILTO@ ...)
  * AyudaSobreParsers - ''parsers'' de procesamiento de datos (reemplaza los Procesadores)
  * AyudaSobreInstruccionesDeProcesamiento - cómo influenciar el formateo de página
  * AyudaSobrePáginasXml - cómo almacenar páginas con contenido XML y procesarlos vía XSLT
