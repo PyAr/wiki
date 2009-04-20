@@ -2,7 +2,7 @@
 #format wiki
 == José Luis Dallapiccola ==
 
-Email: [[MailTo(jldalla AT SPAMFREE gmail DOT com)]]
+Email: <<MailTo(jldalla AT SPAMFREE gmail DOT com)>>
 
 ...
 
