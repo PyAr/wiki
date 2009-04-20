@@ -2,7 +2,7 @@
 #format wiki
 == Mariano Guerra ==
 
-Email: [[MailTo(luismarianoguerra AT SPAMFREE gmail DOT com)]]
+Email: <<MailTo(luismarianoguerra AT SPAMFREE gmail DOT com)>>
 
 Naci en 1985 (hagan la resta asi no lo tengo que actualizar todos los años), soy de Córdoba, estudio Ingenieria en Sistemas de Información en la UTN, estoy en el ultimo año y espero recibirme pronto.
 
