@@ -14,7 +14,7 @@ Actualmente estoy en un trabajo estable para una empresa importante (Prefieron n
 
 Si te interesa contactarme:
 
-Email: [[MailTo(alanizmarcelo AT gmail DOT com)]]
+Email: <<MailTo(alanizmarcelo AT gmail DOT com)>>
 
 ...
 
