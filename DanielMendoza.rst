@@ -4,7 +4,7 @@
 #format wiki
 == Daniel Mendoza ==
 
-Email: [[MailTo(danielmendoza.ing AT SPAMFREE gmail DOT com)]]
+Email: <<MailTo(danielmendoza.ing AT SPAMFREE gmail DOT com)>>
 
 
 ----
