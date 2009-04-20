@@ -33,15 +33,15 @@ Armamos una lista preliminar de sitios en los que deberíamos efectuar la promoc
 
  * Universidades
 
- * [http://www.pythonhispano.org/ Python Hispano]
+ * [[http://www.pythonhispano.org/|Python Hispano]]
 
  * "No" (Página/12) y "Sí" (Clarín)
 
  * Listas de Python, inglés y castellano
 
- * [http://www.vialibre.org.ar/ Fundacion Via Libre]
+ * [[http://www.vialibre.org.ar/|Fundacion Via Libre]]
 
- * [http://www.linux.org.ar LUGar] , [http://www.cafelug.org.ar CaFeLUG] y otros LUGs
+ * [[http://www.linux.org.ar|LUGar]] , [[http://www.cafelug.org.ar|CaFeLUG]] y otros LUGs
 
  * Organismos del Estado
 
