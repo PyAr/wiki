@@ -1,12 +1,12 @@
 '''Resultados!''' PyCamp2009Resultados
 
-[[TableOfContents]]
+<<TableOfContents>>
 = PyCamp Argentina 2009 =
 == Cuándo ==
 Marzo 21, 22, 23, y 24. Sábado a Martes; el Martes es feriado. Cuatro días de python, un solo día de licencia sin goce de sueldo / faltazo a la facu / chupina!
 
 == Dónde ==
-En el Centro Allen Gardiner, en Los Cocos, provincia de Córdoba. [http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=105533268989834891728.0004435f0d040c4a222f5&t=h&z=18 Hay un mapa].
+En el Centro Allen Gardiner, en Los Cocos, provincia de Córdoba. [[http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=105533268989834891728.0004435f0d040c4a222f5&t=h&z=18|Hay un mapa]].
 
 == Cómo llegar ==
 Ver Borrador y mapas en /ComoLlegar
@@ -74,11 +74,11 @@ Ver /QuienesVan
 == La delgada Franja Blanca: codename hex(51966) ==
 Si te gusta el café Bonafide Franja Blanca anotate aca con la fracción con la que te interese cooperar (Viene en fracciones de 1/4, 1/2 y 1 Kilo). La semana del campamento, antes de salir, alguien de Córdoba va a comprar y lleva así esta bien fresco. Una vez allá hacemos la división de gastos
 
- * 1/4 [:HoracioDuran:perrito]
+ * 1/4 [[HoracioDuran|perrito]]
  * 1/4 FacundoBatista
- * 1/4 [:MarianoMara:Mariano Mara]
+ * 1/4 [[MarianoMara|Mariano Mara]]
  * 1/4 LucioTorre
- * 1/4 [:AlejandroDavidWeil:Dave]
+ * 1/4 [[AlejandroDavidWeil|Dave]]
  * 1/4 JohnLenton
  * 1/4 AnthonyLenton
  * 1/4 HugoRuscitti
@@ -89,4 +89,4 @@ Si te gusta el café Bonafide Franja Blanca anotate aca con la fracción con la 
  * 1/4 HectorSanchez
 
 == Fotos ==
- [wiki:PyCamp/2009/fotos Página de fotos]
+ [[PyCamp/2009/fotos|Página de fotos]]
