@@ -1,4 +1,4 @@
-attachment:snapshot10.png
+{{attachment:snapshot10.png}}
 
 == Comentarios ==
 
