@@ -23,7 +23,7 @@ Intereses:
  * Monociclo:
   * Deporte y diversión.
 
-  * Mi blog monociclista: [http://monodiario.blogspot.com/ http://monodiario.blogspot.com]
+  * Mi blog monociclista: [[http://monodiario.blogspot.com/|http://monodiario.blogspot.com]]
 
  * cocos2d:
   * soy uno de los autores de cocos2d... ahora le estoy poniendo mucha energia a la version de iPhone (en obj-c), pero no olvido la version de python
