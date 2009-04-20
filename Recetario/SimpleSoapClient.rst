@@ -2,7 +2,7 @@
 
 ==== Descripción ====
 
-En este ejemplo se muestra utilizar servicios webs de manera simple (código usado en [http://www.nsis.com.ar/public/browser/pyafip/ws/php.py Factura Electronica])
+En este ejemplo se muestra utilizar servicios webs de manera simple (código usado en [[http://www.nsis.com.ar/public/browser/pyafip/ws/php.py|Factura Electronica]])
 
 Utiliza SimpleXmlElement y SimpleSoapClient, manejando de manera simple el protocolo SOAP y XML.
 
