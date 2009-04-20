@@ -2,11 +2,11 @@
 
 Algo tranqui.
 
-attachment:remeraCesar1.png
+{{attachment:remeraCesar1.png}}
 
 '''Diseño:'''
 
-attachment:remeraCesar1.svg
+[[attachment:remeraCesar1.svg]]
 
 == Comentarios ==
 
