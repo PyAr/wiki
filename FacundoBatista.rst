@@ -12,9 +12,9 @@ Fuí profesor en la Universidad de La Matanza (en talleres de la carrera de Inge
 
 Siguiendo en el ámbito de la programación, me encanta Python, habiéndome convertido en Desarrollador Oficial del lenguaje y miembro de la Python Software Foundation por mi trabajo en el módulo Decimal. Fuí invitado como expositor a conferencias nacionales e internacionales (PyCon 2005 en Washington, EuroPython 2005 en Suecia, PyCon 2006 en Dallas) y dicté cursos de Python tanto en la Universidad como en ámbitos terciarios.
 
-Vivo en Buenos Aires, más específicamente en Florida, Vicente Lopez. Para más info, mi [http://taniquetil.com.ar/plog blog].
+Vivo en Buenos Aires, más específicamente en Florida, Vicente Lopez. Para más info, mi [[http://taniquetil.com.ar/plog|blog]].
 
-Email: [[MailTo(facundo mafalda arroba miguelito taniquetil guille com susanita ar)]]
+Email: <<MailTo(facundo mafalda arroba miguelito taniquetil guille com susanita ar)>>
 
 ''Ok, parseen eso si quieren mi dirección, creo que es una buena manera de que no la levante un bot.''
 
