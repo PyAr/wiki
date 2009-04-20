@@ -2,11 +2,11 @@
 #format wiki
 == Nicolás Pace ==
 
-[http://www.linkedin.com/in/nickar Perfil de linkedin] 
+[[http://www.linkedin.com/in/nickar|Perfil de linkedin]] 
 
 TODO:Hablar sobre mi.
 
-Email: [[MailTo(np AT SPAMFREE cs DOT uns DOT edu DOT ar)]]
+Email: <<MailTo(np AT SPAMFREE cs DOT uns DOT edu DOT ar)>>
 
 
 ----
