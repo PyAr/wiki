@@ -1,7 +1,7 @@
 == Python 3000 = Py3K = 3.x ==
 
 Python 3.0 es la última versión del lenguaje, actualmente en desarrollo.
-Se pueden ver todas las características en el [http://www.python.org/dev/peps/pep-3000/ PEP 3000] y derivados.
+Se pueden ver todas las características en el [[http://www.python.org/dev/peps/pep-3000/|PEP 3000]] y derivados.
 
 === ¿Python 3.0 no es compatible hacia atras con versiones previas? ===
 
@@ -13,7 +13,7 @@ Lo que es conveniente es escribir el nuevo código (aún en Python 2.4 o Python 
 
 === ¿Que cambia en Py3K? ===
 
-Se puede encontrar la lista de cambios en [http://docs.python.org/dev/3.0/whatsnew/3.0.html "Whats New 3.0"]. En general, son correcciones de desambiguedades y comportamientos duplicados, unificaciones, limpieza de cosas obsoletas y algunas mejoras. A continuación se resumen, agrupados por "afinidad", en un orden arbitrario (el impacto de cada uno dependerá de como uno use el lenguaje):
+Se puede encontrar la lista de cambios en [[http://docs.python.org/dev/3.0/whatsnew/3.0.html|"Whats New 3.0"]]. En general, son correcciones de desambiguedades y comportamientos duplicados, unificaciones, limpieza de cosas obsoletas y algunas mejoras. A continuación se resumen, agrupados por "afinidad", en un orden arbitrario (el impacto de cada uno dependerá de como uno use el lenguaje):
  * La instrucción {{{print}}} se reemplaza con una función {{{print()}}}
   * Viejo: {{{print "La respuesta es", 2*2}}} Nuevo: {{{print("La respuesta es", 2*2)}}}
   * Viejo: {{{print x, }}} Nuevo: {{{print(x, end=" ")}}} (no saltar a la próxima linea)
