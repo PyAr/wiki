@@ -2,13 +2,13 @@
 
 ¡Mirá! ¡Dos remeras!
 
-attachment:LauBenech2a.png
+{{attachment:LauBenech2a.png}}
 
-attachment:LauBenech2a.svg
+[[attachment:LauBenech2a.svg]]
 
-attachment:LauBenech2b.png
+{{attachment:LauBenech2b.png}}
 
-attachment:LauBenech2b.svg
+[[attachment:LauBenech2b.svg]]
 
 == Comentarios ==
 
