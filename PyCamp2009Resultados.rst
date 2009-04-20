@@ -29,7 +29,7 @@ Hubieron dos cazas de bugs, una para Python y otra para Django. La primera no es
 
 Se estuvo trabajando un rato bastante largo en la corrección de bugs de Django, de mi parte (Humitos), estuve viendo algunos bugs de documentación, falta de documentación y algunos errores en la misma. Otros, por su parte, estuvieron trabajando en bugs de código en sí. El resumen de los bugs en los que trabajamos se puede encontrar acá:
 
- * [http://code.djangoproject.com/query?status=new&status=assigned&status=reopened&status=closed&keywords=~pycamp2009&order=priority Tickets de pycamp2009]
+ * [[http://code.djangoproject.com/query?status=new&status=assigned&status=reopened&status=closed&keywords=~pycamp2009&order=priority|Tickets de pycamp2009]]
 
 
 == PythonCard ==
