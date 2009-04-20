@@ -168,6 +168,6 @@ if __name__ == '__main__':
 
 mas info:
 
- * [http://pygtk.org/docs/pygtk/]
- * [http://www.gtk.org/api/2.6/gtk/GtkTextTag.html]
- * [http://pygtk.org/docs/pygtk/class-gtktextbuffer.html]
+ * [[http://pygtk.org/docs/pygtk/]]
+ * [[http://www.gtk.org/api/2.6/gtk/GtkTextTag.html]]
+ * [[http://pygtk.org/docs/pygtk/class-gtktextbuffer.html]]
