@@ -2,7 +2,7 @@
 #format wiki
 == Guillermo Freschi ==
 
-Email: [[MailTo(kedrot AT gmail DOT com)]]
+Email: <<MailTo(kedrot AT gmail DOT com)>>
 
 Y... nada...
 
