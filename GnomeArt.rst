@@ -21,4 +21,4 @@ Como ayuda se podria ver un poco el codigo de gnome-art, al menos para saber com
 
 === Opcional: unittesting ===
 
-Estaria bueno que aprendan a usar el modulo unittest [http://docs.python.org/library/unittest.html] y lo apliquen al proyecto
+Estaria bueno que aprendan a usar el modulo unittest [[http://docs.python.org/library/unittest.html]] y lo apliquen al proyecto
