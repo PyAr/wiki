@@ -1,6 +1,6 @@
 == Web Server Gateway Interface ==
 
-WSGI es una interface simple y universal entre los servidores web y las aplicaciones web o frameworks (ver más en  [http://www.python.org/dev/peps/pep-0333/ PEP 333])
+WSGI es una interface simple y universal entre los servidores web y las aplicaciones web o frameworks (ver más en  [[http://www.python.org/dev/peps/pep-0333/|PEP 333]])
 
 WSGI es similar a la especificación Java Servlet o ASP/ASP.NET. En general, es mucho más simple que dichas especificaciones, y se basa en el estandard CGI con mejoras "pitónicas" para hacerla reentrante, persistente, etc.
 
@@ -38,14 +38,14 @@ El diccionario {{{environ}}} que se recibe con cada pedido HTTP, contiene las va
 
 
 === Configuración apache + mod_python  ===
-mod_python tiene varios handlers o "controladores" (ver [http://www.modpython.org/live/current/doc-html/ documentación]):
+mod_python tiene varios handlers o "controladores" (ver [[http://www.modpython.org/live/current/doc-html/|documentación]]):
  * Handler PSP: utilizado para procesar documentos .psp con código python y html mezclado (similar a PHP)
  * Handler CGI: emula el entorno CGI (no confundir con WSGI). No es reentrante ni persistente, y es el método más lento para ejecutar scripts web, pero a su vez es históricamente "compatible" con scripts viejos.
  * Handler Publisher: es un poco mas de "alto nivel". En general, se usaría si uno quiere hacer una aplicación sencilla, con las url mapeadas automáticamente a funciones, etc.
 
  * Handler propio: más rapido, pero a costa de tener que programar a mas "bajo nivel" (directamente con las interfaces de apache). Aplicaciones mas avanzadas que requieren un mayor control sobre las url, encabezados, etc., usan handlers propios (ejemplo: trac, moin, etc.):
 
-Igualmente, estos Handlers no son compatibles con WSGI, por eso no recomendaría usar ninguno de ellos directamente, sino a través del wrapper WSGI (con [http://www.aminus.net//wiki/ModPythonGateway ModPythonGateway]) que es un handler "propio" que traduce las peticiones al estandar WSGI. 
+Igualmente, estos Handlers no son compatibles con WSGI, por eso no recomendaría usar ninguno de ellos directamente, sino a través del wrapper WSGI (con [[http://www.aminus.net//wiki/ModPythonGateway|ModPythonGateway]]) que es un handler "propio" que traduce las peticiones al estandar WSGI. 
 Es algo mucho mas estandar, valga la redundancia, y el día de mañana se puede usar cualquier servidor compatible con python, no solo apache.
 
 Además, puede utilizarse directamente mod_wsgi (ver siguiente sección).
