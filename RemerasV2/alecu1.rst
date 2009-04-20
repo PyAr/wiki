@@ -2,11 +2,11 @@
 
 Creo que les comenté que estoy podrido de remeras negras. Arme este diseño, aprovechando alguno de los diseños propuestos para la bandera. Pueden encontrarlos aca: http://alecu.com.ar/banderas/
 
-attachment:remera2-alecu01.png
+{{attachment:remera2-alecu01.png}}
 
 '''Diseño:'''
 
-attachment:remera2-alecu01.svg
+[[attachment:remera2-alecu01.svg]]
 
 == Comentarios ==
 
