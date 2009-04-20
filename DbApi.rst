@@ -1,7 +1,7 @@
 == Acceso a Bases de Datos desde Python: Interfaz DB-API ==
-[[TableOfContents]]
+<<TableOfContents>>
 
-En python, el acceso a bases de datos esta estandarizado por la especificación Database API (DB-API), actualmente en la versión 2.0 ([http://www.python.org/dev/peps/pep-0249/ PEP 249: Python Database API Specification v2.0])
+En python, el acceso a bases de datos esta estandarizado por la especificación Database API (DB-API), actualmente en la versión 2.0 ([[http://www.python.org/dev/peps/pep-0249/|PEP 249: Python Database API Specification v2.0]])
 
 Gracias a esto, se puede acceder a cualquier base de datos utlizando la misma interfaz (ya sea un motor remoto, local, ODBC, etc.). Se puede comparar con DAO, ADO, ADO.NET en el mundo Microsoft, o a JDBC en el mundo Java.
 
@@ -84,7 +84,7 @@ for row in cursor:
 
 Otro ejemplo basico de como hacerlo con PostgreSQL (similar al de MySQL). 
 Se usó el esquema: {{{CREATE TABLE estudiante ( nombre varchar,  apellido varchar,  fecha date,  booleano bool,  legajo serial PRIMARY KEY);}}}
-Antes que nada se debe instalar el conector ([http://www.initd.org/tracker/psycopg/wiki/PsycopgTwo para unix y windows]).
+Antes que nada se debe instalar el conector ([[http://www.initd.org/tracker/psycopg/wiki/PsycopgTwo|para unix y windows]]).
 
 
 Primero importar el conector y crear la conexión a la base de datos:
