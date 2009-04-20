@@ -6,7 +6,7 @@
 
 Esta verificación se usa en códigos de barra, por ej. en las facturas en el sistema impositivo argentino, donde se consigna el CUIT del emisor, CAI/CAE, número de factura, etc. 
 
-Para más información, ver [http://www.afip.gov.ar/afip/resol170204.html Resolución General 1702 de la AFIP].
+Para más información, ver [[http://www.afip.gov.ar/afip/resol170204.html|Resolución General 1702 de la AFIP]].
 
 ==== Ejemplo: ====
 
