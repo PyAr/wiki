@@ -5,7 +5,7 @@ ejemplo que carga la interfaz de un archivo .glade y lo muestra, el archivo .gla
 === gtk-glade-holamundo.glade ===
 
 copiar el contenido siguiente a un archivo llamado '''gtk-glade-holamundo.glade'''
-el archivo fue editado con glade-3 [[http://glade.gnome.org/]].
+el archivo fue editado con glade-3 [[[http://glade.gnome.org/]]].
 
 {{{
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
