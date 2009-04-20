@@ -3,7 +3,7 @@
 = Recetario =
 ''Nuestro !CookBook, en vías desarrollo.'' A este lugar uno recurre cada vez que se encuentra en la cocina de Python, cuchillo en mano y se da cuenta que a sus ingredientes le faltan el toque de un cheff experto. Nuestra especialidad son las recetas autóctonas. ¿Platos magistrales que fallan al sazonar con acentos y eñes? ¿números que saben mal si no son previamente fritos en castellano? ¡Siga leyendo!
 
-[[TableOfContents]]
+<<TableOfContents>>
 ----
 
 == Configuracion del entorno python ==
@@ -12,7 +12,7 @@ AutocomplecionEnConsolaInteractiva: tip sobre como agregar autocompleción con t
 
 == Formatos, datos, números y conversiones ==
 === aLetras ===
-["aLetras"] : Función que al recibir un número lo convierte a letras. Regresa su forma por extensión (ejemplo: 123 -> "CIENTO VEINTITRES")
+[[aLetras]] : Función que al recibir un número lo convierte a letras. Regresa su forma por extensión (ejemplo: 123 -> "CIENTO VEINTITRES")
 
 === validar_cuit ===
 /ValidarCuit : Función para validar un CUIT/CUIL estilo 00-00000000-0
@@ -27,13 +27,13 @@ Es bueno /NormalizarCaracteresUnicode para hacer búsquedas en strings sin que s
 === Gtk ===
 GtkHolaMundo : una ventana que muestra el mensaje hola mundo
 
-["GtkHolaMundoOO"] : una ventana que muestra el mensaje hola mundo programado utilizando orientacion a objetos
+[[GtkHolaMundoOO]] : una ventana que muestra el mensaje hola mundo programado utilizando orientacion a objetos
 
 GtkEntry : una ventana que solicita un valor y luego lo muestra en una ventana aparte
 
-["GtkHBox"] : ejemplo que muestra como organizar elementos continuos horizontalmente
+[[GtkHBox]] : ejemplo que muestra como organizar elementos continuos horizontalmente
 
-["GtkVBox"] : ejemplo que muestra como organizar elementos continuos verticalmente
+[[GtkVBox]] : ejemplo que muestra como organizar elementos continuos verticalmente
 
 GtkGrid : ejemplo que muestra como organizar elementos en forma de grilla
 
@@ -49,14 +49,14 @@ GtkMenu :  ejemplo que mustra como crear un menu con distintos items
 
 GtkTextArea : ejemplo sobre manipulacion basica de un area de texto con scroll
 
-["GtkRichText"]: ejemplo sobre como insertar texto con formato basico a un textview
+[[GtkRichText]]: ejemplo sobre como insertar texto con formato basico a un textview
 
-["GtkConfirmClose"]: ejemplo sobre como solicitar confirmacion para el cierre de una ventana
+[[GtkConfirmClose]]: ejemplo sobre como solicitar confirmacion para el cierre de una ventana
 
-["GtkMultiThread"]: ejemplo de como manipular la api desde multiples threads sin usar locks
+[[GtkMultiThread]]: ejemplo de como manipular la api desde multiples threads sin usar locks
 
 === Gtk + glade ===
-["GtkGladeHolaMundoOO"] : una ventana que muestra el mensaje hola mundo programado utilizando orientacion a objetos
+[[GtkGladeHolaMundoOO]] : una ventana que muestra el mensaje hola mundo programado utilizando orientacion a objetos
 
 GtkGladeSignals : manejo basico de señales
 
@@ -84,7 +84,7 @@ ComunicarThreadsConQueue: ejemplo sobre como comunicar y sincronizar threads usa
 
 == Xml ==
 === Xml a Diccionario ===
-["XmlADiccionario"]: este ejemplo muestra como convertir un string xml en un conjunto de diccionarios y listas anidadas, también provee de dos clases que permiten acceder a los diccionarios y listas como si fueran objetos.
+[[XmlADiccionario]]: este ejemplo muestra como convertir un string xml en un conjunto de diccionarios y listas anidadas, también provee de dos clases que permiten acceder a los diccionarios y listas como si fueran objetos.
 
 === SimpleXmlElement ===
 SimpleXmlElement: ejemplo de manejo de xml por elementos simples (simil php), permite leer y/o crear xml accediendo a los tags como si fueran atributos de un objeto.
