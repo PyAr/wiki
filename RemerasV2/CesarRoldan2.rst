@@ -2,16 +2,16 @@
 
 Lo que nos potencia..
 
-attachment:remeraCesar2.png
+{{attachment:remeraCesar2.png}}
 
 Casos reales :-)
 
-attachment:remeraCesar2remera.png
-attachment:remeraCesar2chomba.png
+{{attachment:remeraCesar2remera.png}}
+{{attachment:remeraCesar2chomba.png}}
 
 '''Diseño:'''
 
-attachment:remeraCesar2.svg.bz2
+[[attachment:remeraCesar2.svg.bz2]]
 
 == Comentarios ==
 
