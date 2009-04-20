@@ -15,7 +15,7 @@
  * Estoy empezando con mis primeros proyectos hechos 100% en Python, espero poder agregar algún link en cualquier momento.
 
 
-Email: [[MailTo(marplatense AT SPAMFREE ubuntu DOT com)]]
+Email: <<MailTo(marplatense AT SPAMFREE ubuntu DOT com)>>
 
 ...
 
