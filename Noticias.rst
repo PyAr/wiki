@@ -19,8 +19,8 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 
-## lo dejamos un rato comentado, para que este como primer noticia la del pyday.
-## hay que descomentar después del 01-11-2008
+==== 21/04/2009 ====
+ * Terminamos la migración del sitio a [[http://www.usla.org.ar/|USLA]], y a una versión de MoinMoin más nueva. Muchas gracias a [[http://www.decode.com.ar/|decode]], nuestro hosting anterior, por todos estos años de impecable servicio!
 
 ==== 13/03/2009 ====
  * Por fin está disponible la [[http://www.python.com.ar/moin/Eventos/Reuniones/Reunion34|minuta de la reunión 34 de Pyar]] realizada el Miércoles 03/12/2008!! Tarde pero seguro!! :P
