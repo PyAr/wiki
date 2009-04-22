@@ -50,7 +50,7 @@ Ahora, ¿a dónde podrías recurrir para obtener información que te inicie en l
   [[http://sbassi.googlepages.com/leyendoxmlenpython:dom2|Introducción a Minidom]] SebastianBassi.
 
  * Acceso a Bases de Datos desde Python: Interfaz DB-API
-  DbApi SebastianBassi, AlejandroJCura y MarianoReingart.
+  DbApi MarianoReingart.
 
  * Programación de funciones (procedimientos almacenados) y disparadores en PostgreSQL con Pl/Python
   PlPython MarianoReingart.
