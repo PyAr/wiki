@@ -52,6 +52,7 @@ opinion de un nuevo usuario de geany:
 <achuni>: code folding
 <achuni>: usa tabs como gedit pero cambiás de tab con ctrl+pgup/pgdown (en vez de ctrl+alt+pgup/pdgown)
 <achuni>: podés elegir en qué encoding guardar *y abrir* los archivos
+<achuni>: indentar/desindentar y comentar/descomentar bloques de código
 <achuni>: está en ubuntu, y hay un instalador .exe para Windows que te da la misma misma interfaz en ambos OS
 <achuni>: tiene más cosas, pero eso es lo que me gustó. Y tiene todo eso sin las 40 ventanitas de configuración de kate/eric
 }}}
