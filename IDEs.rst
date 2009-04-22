@@ -41,6 +41,21 @@ Komodo Edit es un editor open source para expertos en lenguajes dinámicos.
 
 Geany es un editor de texto que usa el toolkit GTK2 toolkit con funciones básicas de un entorno de desarrollo integrado. Es desarrollado para proveer de una IDE pequeña y rápida, que tenga pocas dependencias de otros paquetes. Soporta múltiples tipos de archivo y tiene algunas características muy interesantes.
 
+opinion de un nuevo usuario de geany:
+
+{{{
+<achuni>: no es muy featurefull
+<achuni>: (hasta hace una semana yo usaba gedit)
+<achuni>: pero tiene todo lo que yo necesitaba
+<achuni>: syntax highlighting
+<achuni>: line numbering
+<achuni>: code folding
+<achuni>: usa tabs como gedit pero cambiás de tab con ctrl+pgup/pgdown (en vez de ctrl+alt+pgup/pdgown)
+<achuni>: podés elegir en qué encoding guardar *y abrir* los archivos
+<achuni>: está en ubuntu, y hay un instalador .exe para Windows que te da la misma misma interfaz en ambos OS
+<achuni>: tiene más cosas, pero eso es lo que me gustó. Y tiene todo eso sin las 40 ventanitas de configuración de kate/eric
+}}}
+
 [[http://www.geany.org/]]
 
 === WingIDE ===
