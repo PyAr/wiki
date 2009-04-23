@@ -1,5 +1,9 @@
 = Trabajos con Python =
+
+ * (23/04/2009) [[http://popego.com/|Popego]] esta incorporando nuevos desarrolladores a su equipo de trabajo. Buscamos mentes brillantes que sepan desenvolverse en alguna (o mas) de estas tareas de desarrollo: Web Backend (Python, principalmente acompañado de SQLAlchemy, WSGI, la libreria standard y buenas practicas), Web Frontend (JavaScript, CSS, HTML y amor al arte), e Inteligencia Artificial / Machine Learning. Si estas interesado escribinos a santi@popego.com .
+
  * (22/04/2009) Estoy buscando un desarrollador '''freelance''' para realizar unas tareas en '''pygtk'''. Las tareas a realizar se encuentran muy bien definidas, ya que será realizar en pygtk un clon de una herramienta que se encuentra en Java. Estas tareas se deberán desarrollar a lo largo de dos o tres meses y son en el contexto de la herramienta '''Open Source''' w3af ([[http://w3af.sf.net|http://w3af.sf.net/]]). Para más información por favor contactarse con Andrés Riancho en andres@bonsai-sec.com . Gracias!
+
  * (13/04/2009) Estamos buscando desarrolladores para trabajar con Python en Brainpark (http://www.brainpark.com/). Necesitamos personas con inglés avanzado y que residan en la Ciudad de Buenos Aires (las oficinas están en Flores). Si estás interesado, mandá un mail a patricio@brainpark.com .
 
  * (13/02/2009) Truelogic se encuentra seleccionando desarrolladores Python preferentemente con ingles avanzado (no es excluyente) en todos los niveles para importantes desarrollos locales e internacionales, seria deseable que cuente con experiencia comprobable en HTML y CSS y tenga muchas ganas de crecer profesionalmente asi como económicamente.  Ofrecemos remuneración acorde a función + beneficios propios del sector al que pertenecerá + capacitación in sittu + excelente clima laboral.  Los interesados deberán enviarnos remuneración pretendida y referencia PY.THON a vtardito@truelogic.com.ar .
