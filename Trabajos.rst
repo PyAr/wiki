@@ -1,10 +1,10 @@
 = Trabajos con Python =
+ * (22/04/2009) Estoy buscando un desarrollador '''freelance''' para realizar unas tareas en '''pygtk'''. Las tareas a realizar se encuentran muy bien definidas, ya que será realizar en pygtk un clon de una herramienta que se encuentra en Java. Estas tareas se deberán desarrollar a lo largo de dos o tres meses y son en el contexto de la herramienta '''Open Source''' w3af ([[http://w3af.sf.net|http://w3af.sf.net/]]). Para más información por favor contactarse con Andrés Riancho en andres@bonsai-sec.com . Gracias!
+ * (13/04/2009) Estamos buscando desarrolladores para trabajar con Python en Brainpark (http://www.brainpark.com/). Necesitamos personas con inglés avanzado y que residan en la Ciudad de Buenos Aires (las oficinas están en Flores). Si estás interesado, mandá un mail a patricio@brainpark.com .
 
- * (13/04/2009) Estamos buscando desarrolladores para trabajar con Python en Brainpark (http://www.brainpark.com/). Necesitamos personas con inglés avanzado y que residan en la Ciudad de Buenos Aires (las oficinas están en Flores). Si estás interesado, mandá un mail a patricio@brainpark.com.
+ * (13/02/2009) Truelogic se encuentra seleccionando desarrolladores Python preferentemente con ingles avanzado (no es excluyente) en todos los niveles para importantes desarrollos locales e internacionales, seria deseable que cuente con experiencia comprobable en HTML y CSS y tenga muchas ganas de crecer profesionalmente asi como económicamente.  Ofrecemos remuneración acorde a función + beneficios propios del sector al que pertenecerá + capacitación in sittu + excelente clima laboral.  Los interesados deberán enviarnos remuneración pretendida y referencia PY.THON a vtardito@truelogic.com.ar .
 
- * (13/02/2009) Truelogic se encuentra seleccionando desarrolladores Python preferentemente con ingles avanzado (no es excluyente) en todos los niveles para importantes desarrollos locales e internacionales, seria deseable que cuente con experiencia comprobable en HTML y CSS y tenga muchas ganas de crecer profesionalmente asi como económicamente.  Ofrecemos remuneración acorde a función + beneficios propios del sector al que pertenecerá + capacitación in sittu + excelente clima laboral.  Los interesados deberán enviarnos remuneración pretendida y referencia PY.THON a vtardito@truelogic.com.ar.
-
- * (05/02/2009) En Machinalis (http://machinalis.com) trabajamos con Python, Django, Zope, Plone. Somos un startup en Córdoba en busca de programadores experimentados con ganas de trabajar en proyectos desafiantes. Si te interesa, escribí a info@machinalis.com.
+ * (05/02/2009) En Machinalis (http://machinalis.com) trabajamos con Python, Django, Zope, Plone. Somos un startup en Córdoba en busca de programadores experimentados con ganas de trabajar en proyectos desafiantes. Si te interesa, escribí a info@machinalis.com .
 
  * (22/12/2008) Estamos buscando profesionales que quieran desarrollar con Python para un cliente europeo. Es fundamental tener un nivel intermedio-avanzado de inglés dado que va a haber mucho contacto con el cliente. El contexto laboral es cómodo y divertido pero con objetivos claros y desafiantes que incitan a mejorar constantemente. No duden en contactarse con nosotros y dejar su C.V.: cv@globant.com
 
@@ -24,7 +24,7 @@
 
  * (04/10/2007) We're looking for python web developers in switzerland (full time employment). So if you'd like to move to nice switzerland write to florian.boesch@dwsco.com
 
- * (04/10/2007) Buscamos programadores enérgicos que deseen hacer carrera de superheroe. Se aprecia comunicación fluida en inglés y conocimiento de python, zope y plone (no excluyente). Para trabajar en la ciudad de Córdoba, o remotamente de otras partes del país y del cono sur.  Interesados escribir a laburos@menttes.com. Mas info en http://labs.menttes.com
+ * (04/10/2007) Buscamos programadores enérgicos que deseen hacer carrera de superheroe. Se aprecia comunicación fluida en inglés y conocimiento de python, zope y plone (no excluyente). Para trabajar en la ciudad de Córdoba, o remotamente de otras partes del país y del cono sur.  Interesados escribir a laburos@menttes.com . Mas info en http://labs.menttes.com
 
  * (04/10/2007) Para aplicacion web GIS con información sobre transportes urbanos buscamos desarrollador con conocimiento de Python, Django y PostgreSQL. Contactar a pedroirusta@gmail.com o sdistefano@gmail.com
 
