@@ -1,6 +1,6 @@
 = Trabajos con Python =
 
- * (23/04/2009) [[http://popego.com/|Popego]] esta incorporando nuevos desarrolladores a su equipo de trabajo. Buscamos mentes brillantes que sepan desenvolverse en alguna (o mas) de estas tareas de desarrollo: Web Backend (Python, principalmente acompañado de SQLAlchemy, WSGI, la libreria standard y buenas practicas), Web Frontend (JavaScript, CSS, HTML y amor al arte), e Inteligencia Artificial / Machine Learning. Si estas interesado escribinos a santi@popego.com .
+ * (23/04/2009) [[http://popego.com/|Popego]] esta incorporando nuevos desarrolladores a su equipo de trabajo en Capital Federal. Buscamos mentes brillantes que sepan desenvolverse en alguna (o mas) de estas tareas de desarrollo: Web Backend (Python, principalmente acompañado de SQLAlchemy, WSGI, la libreria standard y buenas practicas), Web Frontend (JavaScript, CSS, HTML y amor al arte), e Inteligencia Artificial / Machine Learning. Si estas interesado escribinos a santi@popego.com .
 
  * (22/04/2009) Estoy buscando un desarrollador '''freelance''' para realizar unas tareas en '''pygtk'''. Las tareas a realizar se encuentran muy bien definidas, ya que será realizar en pygtk un clon de una herramienta que se encuentra en Java. Estas tareas se deberán desarrollar a lo largo de dos o tres meses y son en el contexto de la herramienta '''Open Source''' w3af ([[http://w3af.sf.net|http://w3af.sf.net/]]). Para más información por favor contactarse con Andrés Riancho en andres@bonsai-sec.com . Gracias!
 
