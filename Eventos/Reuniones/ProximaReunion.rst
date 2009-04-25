@@ -23,36 +23,18 @@
 ##
 ##
 = Próxima Reunión =
-== Reunión 35 - Viernes 13/03/09 - Guardia Vieja y Medrano, Capital Federal - 19.00hs ==
+== Reunión 36 - Sábado 02/05/09 - Bar el Cairo (?), Rosario, Argentina - 15.00hs ==
 '''Temas:'''
 
  * PyCon-Ar 2009
- * EduPython
  * PyCamp
+ * La crisis por supuesto :)
+ * Python del lado del cliente en aplicaciones Web. Estado de las nuevas tecnologías.
 
 ''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
 
- || GabrielBrunacci ||
- || [[AlejandroJCura|alecu]] ||
- || GustavoVillada ||
- || FacundoBatista ||
- || MarianoReingart ||
- || TomasZulberti ||
- || LeonardoDeLuca ||
- || NicolasMiyasato ||
- || HectorSanchez ||
- || JorgeChamorro ||
- || SebastianLuberriaga ||
- || AlbertoPaparelli ||
- || AlfonsoPalomares ||
- || RobertoDhios ||
- || NicoEchaniz ||
- || RobertoRodríguez ||
- || NestorBalich ||
- || OttoWald ||
- || HugoRuscitti ||
- || AndresLopezLuksenberg ||
- || --(GabrielGenellina)-- ||
- || JoaquinSorianello ||
- || AnthonyLenton ||
-''' ¿Dónde? '''  Una pizzería en [[http://www.openstreetmap.org/?lat=-34.60065&lon=-58.42047&zoom=15&layers=B000FTF|Guardia Vieja y Medrano]] llamada "Pachi". Donde se realizo la última reunión de Buenos Aires. El lugar era bastante bueno y económico, y no estaría mal repetirlo.
+ || SantiagoSuarezO ||
+
+''' ¿Dónde? ''':
+
+No está decidido todavía. Puse el Cairo para tener algo pre-selecto. Si tienen uno que les gusta, lo ponemos sin duda.
