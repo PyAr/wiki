@@ -19,4 +19,6 @@ Actualmente me encuentro aprendiendo Django para desarrollar aplicaciones web, c
 
 (Junio 2008) Mi primer proyecto utilizando Django se trata de un Sistema de Gestion de Colecciones Biologicas, todavia esta verde pero de a poco estare lanzando su primera version. Obviamente tendra Licencia GPL.
 
+(Mayo 2009) Comenzamos a desarrollar un sistema para los servicios sociales como parte de la Habilitacion Profesional para el titulo de Analista Universitario en Sistemas.
+
 mi blog: http://siempredesdeaca.blogspot.com/
