@@ -1,4 +1,5 @@
 = Trabajos con Python =
+ * (11/05/2009) La Facultad de Medicina incorporara 1 (un) programador Python, para programar en entornos web. Es necesario tener conocimientos de PostgreSQL y Linux (basico). Horario: 5 horas diarias, de lunes a viernes (horario a convenir). Salario ofrecido: $1800.- Debe ser monotributista. Interesados enviar CV a empleos@fmed.uba.ar
 
  * (23/04/2009) [[http://popego.com/|Popego]] esta incorporando nuevos desarrolladores a su equipo de trabajo en Capital Federal. Buscamos mentes brillantes que sepan desenvolverse en alguna (o mas) de estas tareas de desarrollo: Web Backend (Python, principalmente acompañado de SQLAlchemy, WSGI, la libreria standard y buenas practicas), Web Frontend (JavaScript, CSS, HTML y amor al arte), e Inteligencia Artificial / Machine Learning. Si estas interesado escribinos a santi@popego.com .
 
