@@ -1,6 +1,6 @@
 = Typus Pocus - Version final =
 
-Un juego hecho (en una semana!) por algunos miembros de [[http://python.com.ar/|PyAr]], el grupo de usuarios de python de Argentina, para participar en [[http://www.pyweek.org/3/|PyWeek 3]].
+Un juego hecho (en una semana!) por algunos miembros de [[http://python.com.ar/|PyAr]], el grupo de usuarios de python de Argentina, para participar en [[http://www.pyweek.org/3/|PyWeek 3]], competencia que '''ganó''' en la categoría "por equipos". 
 
 == Release 1.0 ==
 La version final incorpora muchas mejoras con respeto al beta:
