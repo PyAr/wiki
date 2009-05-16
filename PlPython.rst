@@ -162,17 +162,17 @@ for fila in rv:
 La función {{{plpy.prepare(query,[parameter_types])}}}, prepara el plan de ejecución para una consulta, se le pasa la consulta como string y la lista de tipos de parámetros:
 
 {{{
-plan = plpy.prepare("SELECT apellido FROM usuario WHERE nombre = $1", [ "text" ])
+plan = plpy.prepare("SELECT apellido FROM usuario WHERE nombre = $1 AND casado = $2 ", [ "text", "boolean" ])
 }}}
-{{{text}}} es el tipo de la variable que se pasara como primer parámetro ($1).
+{{{text}}} y {{{boolean}}} son los tipos de la variables que se pasara como parámetros ($1 y $2).
 
 Despues de preparar la sentencia, usar la función {{{plpy.execute}}} para ejecutarla:
 
 {{{
-rv = plpy.execute(plan, [ "Mariano" ], 5)
+rv = plpy.execute(plan, [ "Mariano", True ], 5)
 }}}
 
-Se pasa el plan como primer argumento, los parámetros como segundo (en este caso, busca nombre="Mariano"). El límite (tercer argumento) es opcional.
+Se pasa el plan como primer argumento, los parámetros como segundo (en este caso, busca nombre="Mariano" y si esta casado). El límite (tercer argumento) es opcional.
 
 Al preparar un plan, este se almacena para usarlo posteriormente. Para usarlo eficazmente entre llamada y llamada, se debe usar un diccionario de almacenamiento persistente ({{{SD}}} o {{{GD}}}) para guardarlo:
 
