@@ -19,6 +19,21 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 
+==== 27/05/2009 ====
+
+Call For Charlas, PyCon Argentina 2009 
+
+PyAr, el grupo de usuarios de Python de Argentina invita a toda la comunidad de usuarios de Python y de Software Libre en general a proponer presentaciones y charlas para la Primera Conferencia Argentina de Python http://ar.pycon.org/, a realizarse en Buenos Aires los días 4 y 5 de Septiembre de 2009.  
+
+En este evento nos juntaremos desarrolladores y programadores tanto principiantes como avanzados; bloggers, autores y diseñadores web; gerentes, administradores y emprendedores; científicos, ingenieros, curiosos y todo aquel que tenga ganas de acercarse a la comunidad Python en Argentina.  
+
+Agradecemos la contribución de todos en la difusión de este llamado y del evento en si mediante los banners diseñados para tal fin y que se encuentran en http://ar.pycon.org/2009/helping/publicize/
+
+Las charlas deben ser ingresadas para su aprobación aquí http://ar.pycon.org/2009/conference/proposals/submit/.  La fecha límite de envío de charlas es el Lunes 29 de Junio inclusive.  En caso de consultas o inconvenientes, envianos un mail charlas@python.org.ar.
+
+Más info, aquí http://ar.pycon.org/2009/conference/proposals/
+
+
 ==== 21/04/2009 ====
  * Terminamos la migración del sitio a [[http://www.usla.org.ar/|USLA]], y a una versión de MoinMoin más nueva. ¡Muchas gracias [[http://www.decode.com.ar/|decode]], nuestro hosting anterior, por todos estos años de impecable servicio!
 
