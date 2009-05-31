@@ -3,7 +3,9 @@
  * AlejandroJCura
  * AnthonyLenton
  * FacundoBatista
+ * JoaquinSorianello
  * JohnLenton
  * LucioTorre
  * NubIs
  * PabloZiliani
+ * RicardoKirkner
