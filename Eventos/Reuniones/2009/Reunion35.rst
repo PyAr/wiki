@@ -9,7 +9,7 @@
 || GustavoVillada (1º) ||
 || HugoRuscitti (1º) ||
 || AndresLopezLuksenberg (1º) ||
-|| JoaquinSorianello ||
+|| JoaquinSorianello(1º) ||
 || RobertoDhios ||
 || JohnLenton ||
 || HectorSanchez ||
