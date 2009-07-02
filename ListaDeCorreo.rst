@@ -10,7 +10,7 @@ Si querés suscribirte a la lista, te pedimos por favor que primero te tomes un 
 
 1. Mandá un mensaje a <<MailTo(pyar-subscribe AT decode DOT com DOT ar)>>
 
-2. Mandá tu "Hola mundo" a <<MailTo(pyar AT decode DOT com DOT ar)>> para que todos los suscriptos a la lista aprecien tu patético nerdismo. :-?
+2. Mandá tu "Hola mundo" a <<MailTo(pyar AT decode DOT com DOT ar)>> para que todos los suscriptos a la lista aprecien tu nivel de nerdismo. :-?
 
  ''(El paso 2. es opcional, pero muy bienvenido. Ha generado algunas de las conversaciones más interesantes de la lista...)''
 
