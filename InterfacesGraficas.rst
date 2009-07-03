@@ -20,6 +20,7 @@ Existen varias librerias que implementan interfaces gráficas de usuario (GUI) e
 || '''Otras facilidades''' || ?? || soporte para imagenes (BMP, PNG, JPG, etc.), visualización e impresión de HTML, clipboard y drag and drop, ayuda en linea, libreria de graficación de objetos ("vectoriales"), OpenGL, texto enriquecido (RTF) y "estilizado" (STC), programación en red, flujos, multitarea, bases de datos, unicode, gizmos varios, animaciones y multimedia || hilos, control de procesos en segundo plano, renderización de svg, definición de aspectos estéticos de la GUI con CSS, personalización de la app en js, sockets, acceso a base de datos, pareso de XML, OpenGL || Pango (texto multilingual), Cairo (gráficos 2D), ATK (accesibilidad) ||
 || '''Documentación''' || Excelente || Buena || Regular || Limitada ||
 || '''Ejemplos''' || ?? || Excelente (200 simples y 10 complejos) || Bueno (20 simples y 20 complejos) || ?? ||
+|| '''Licencia''' || PSFL || LGPL || GPL || LGPL ||
 
 === Características comunes ===
  * Tamaño aprox. (instalador windows desarrollo): 15MB (excepto tkinter que viene preinstalado)
