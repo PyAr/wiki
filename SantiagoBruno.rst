@@ -5,7 +5,7 @@
 Email: <<MailTo(santiago.emilio.bruno AT SPAMFREE gmail DOT com)>>
 
 Soy [[http://es.wikipedia.org/wiki/Rafaela|rafaelino]] y vivo en Córdoba.
-Soy Analista en Computación egresado de [[http://www.famaf.unc.edu.ar|Fa.M.A.F.]] (Universidad Nacional de Córdoba)
+Soy Licenciado en Ciencias de la Computación egresado de [[http://www.famaf.unc.edu.ar|Fa.M.A.F.]] (Universidad Nacional de Córdoba)
 
 Utilizo Python siempre que tenga la oportunidad,
 
