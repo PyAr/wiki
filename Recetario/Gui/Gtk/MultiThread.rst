@@ -1,6 +1,6 @@
 == GtkMultiThread ==
 
-ejemplo de como manipular la api desde multiples threads sin usar locks 
+Ejemplo de como manipular la api desde multiples threads sin usar locks. Compare con el [[GtkMultiThread2|otro ejemplo]] que no utiliza colas.
 
 {{{
 #!python
