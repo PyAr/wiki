@@ -25,5 +25,6 @@ codigo aca
 } }}
 }}}
  * guardar y pegar el link en el mail de la lista
+ * podes ver un ejemplo funcionando en el usuario MarianoGuerra
 
 es recomendable crear los snippets bajo la jerarquia del nombre de usuario de manera de evitar colisiones en los nombres.
