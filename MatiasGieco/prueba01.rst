@@ -1,0 +1,4 @@
+{{{
+#!python
+print "hola mundo"
+}}}
