@@ -12,5 +12,9 @@ Mi proyecto mas "famoso" es emesene (emesene.org) y tengo algunos otros proyecto
 
 mi blog es marianoguerra.blogspot.com
 
+== Mis Snippets ==
+
+ * MarianoGuerra/HolaMundo
+
 ----
 CategoryHomepage
