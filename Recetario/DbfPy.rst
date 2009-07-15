@@ -4,7 +4,7 @@
 
 Esta receta es un ejemplo de como acceder nativamente desde Python a bases de datos en formato DBF (dBase, Foxpro, Clipper, etc.), sin necesidad de ODBC u otras herramientas.
 
-Utiliza [[http://www.fiby.at/dbfpy/|DbfPy]]. Para instalar la libreria, bajarla y descomprimirla con 7-Zip en el directorio de la aplicación o en site-packages (C:\python25\lib\site-packages o similar).
+Utiliza [[http://dbfpy.sourceforge.net/|DbfPy]]. Para instalar la libreria, bajarla y descomprimirla con 7-Zip en el directorio de la aplicación o en site-packages (C:\python25\lib\site-packages o similar).
 
 '''Nota''': Para nuevos proyectos utilizar una base de datos relacional (ej. PostgreSQL o MySQL), o usar shelf para guardar objetos python facilmente.
 
