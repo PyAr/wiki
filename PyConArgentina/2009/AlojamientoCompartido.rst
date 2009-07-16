@@ -6,8 +6,8 @@ Anótense a continuación en alguna de las siguientes listas, y contacten a los 
 
 == Tienen lugar para compartir ==
 
- * --( '''Juan Ejemplo''' - tengo un colchón de una plaza en mi depto de Congreso - <<MailTo(juan@ejemplo.com)>> )--
+ * --( '''Juan Ejemplo''' - tengo un colchón de una plaza en mi depto de Congreso - <<MailTo(juan AT ejemplo DOT com DOT ar)>> )--
 
 == Necesitan lugar para alojarse ==
 
- * --( '''Peddro Ejemplo2''' - quiero compartir una habitación de hostel - <<MailTo(peddro@ejemplo2.com)>> )--
+ * --( '''Peddro Ejemplo2''' - quiero compartir una habitación de hostel - <<MailTo(peddro AT ejemplo2 DOT com DOT ar)>> )--
