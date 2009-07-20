@@ -1,7 +1,7 @@
 #acl All:read,write
 #language es
 = Recursos =
- Estas son organizaciones y empresas argentinas que utilizan python regularmente de distintas formas<<FootNote(Por orden alfabético.)>>.
+ . Estas son organizaciones y empresas argentinas que utilizan python regularmente de distintas formas<<FootNote(Por orden alfabético.)>>.
 
 == Organizaciones ==
 === Advanta Semillas ===
@@ -112,7 +112,6 @@
 
  * ¿De qué forma usamos Python?: Menttes trabaja exclusivamente con python y frameworks/aplicaciones desarrollados con este lenguaje. Brinda servicios de consultoria, desarrollo y entrenamiento en Python, Zope y Plone.
 
-
 === Movilogic ===
  * Contacto: <<MailTo( info AT movilogic DOT com, Info)>>
 
@@ -135,7 +134,6 @@
 
  * ¿De qué forma usamos Python?: Como lenguaje de programación principal en proyectos de misión crítica, sistemas web (mod_python, django) y aplicaciones GUI (pygtk, glade).
 
-
 === Vortech ===
  * Contacto: <<MailTo( alecu AT vortech DOT com DOT ar, Alejandro J. Cura)>>
 
@@ -152,4 +150,4 @@
 <<BR>> <<BR>>
 
 ----
- <<FootNote>>
+ . <<FootNote>>
