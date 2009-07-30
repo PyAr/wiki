@@ -18,4 +18,5 @@ Anótense a continuación en alguna de las siguientes listas, y contacten a los 
  * --( '''Pedro Ejemplo2''' - quiero ir en auto, el dias 02 o 03 y volver el 05 estoy en Cordoba capital - <<MailTo(peddro AT ejemplo2 DOT com DOT ar)>> )--
 
 == Salida en colectivo ==
- * Salgo desde Cordoba en el practico a buenos aires el 03 a las 23 horas para Buenos Aires
+ * '''Juan Ejemplo''' Salgo desde Cordoba en el practico a buenos aires el 03 a las 23 horas para Buenos Aires
+ * '''Mariano Guerra''' Voy en colectivo desde Córdoba a Buenos Aires el Jueves a la noche y vuelvo Sábado a la noche/Domingo a la mañana <<MailTo(luismarianoguerra AT gmail DOT com)>> ) - Si alguien me quiere llevar en auto pago gastos :)
