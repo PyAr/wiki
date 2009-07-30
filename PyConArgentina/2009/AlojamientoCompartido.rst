@@ -12,3 +12,4 @@ Anótense a continuación en alguna de las siguientes listas, y contacten a los 
 == Necesitan lugar para alojarse ==
 
  * --( '''Peddro Ejemplo2''' - quiero compartir una habitación de hostel - <<MailTo(peddro AT ejemplo2 DOT com DOT ar)>> )--
+ * '''Mariano Guerra''' - Coordino con quien quiera para ir al mismo hostel el viernes y posiblemente el sabado - <<MailTo(luismarianoguerra AT gmail DOT com)>> - Si alguien tiene un colchon/sofa por ahi no hago lugar ni ruido :)
