@@ -165,3 +165,23 @@ La respuesta que le dio MartinBothiry es hacer:
 {{{
   os.path.abspath(os.path.dirname(__file__)) 
 }}}
+
+=== ¿Uso el modulo array o listas? ===
+
+SebastianBassi pregunto en este hilo: http://mx.grulic.org.ar/lurker/thread/20090803.144308.0aabeb1b.en.html
+
+sobre en que casos convenia usar el modulo de la libreria estandar array por sobre una lista comun.
+
+La respuesta de GabrielGenellina fue:
+
+El array de la libreria estandar es un "chorizo" de elementos, todos del mismo tipo, pero tipos nativos (no objetos; por ejemplo "unsigned long integer"). Es unidimensional, y no tiene casi métodos. El array de Numpy también guarda tipos nativos, pero es multidimensional, y tiene un montón de métodos y operaciones definidos.
+
+Extraer un elemento de un array es costoso, porque hay que crear el objeto Python que lo "envuelva", y lo mismo pasa al asignarle un valor a un elemento individual. Así que operar con arrays elemento-a-elemento en Python es mas lento que usar una lista estándar. Los arrays están pensados para usarlos desde código en C (o Numpy, que esta escrito en C); por ejemplo, un array.array("f") se puede pasar a una función en C declarada como "float x[]" o "float *x".
+
+Otra diferencia: array solo puede contener caracteres, números enteros nativos, o números de punto flotante; no objetos. Pero la representación en memoria es mucho mas compacta, cada elemento ocupa sólo lo necesario para guardar su valor y nada más (por ejemplo, 4 bytes para un float vs. 20 que se necesitan en una lista normal [16 para el objeto float de Python y 4 para el puntero en la lista], los tamaños son para Windows 32 bits).
+
+Yo diria que conviene usar un array si:
+ * todos los elementos son homogeneos, de alguno de los tipos soportados.
+y:
+ * vas a procesarlo en C porque te importa la velocidad
+ * o bien, estas corto de memoria y una lista normal no te entra (pero no te importa la velocidad)
