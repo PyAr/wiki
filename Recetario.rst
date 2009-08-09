@@ -31,6 +31,8 @@ GtkHolaMundo : una ventana que muestra el mensaje hola mundo
 
 GtkEntry : una ventana que solicita un valor y luego lo muestra en una ventana aparte
 
+GtkEntrySoloNumeros: un ejemplo de como permitir el ingreso de solo numeros en un gtk.Entry
+
 [[GtkHBox]] : ejemplo que muestra como organizar elementos continuos horizontalmente
 
 [[GtkVBox]] : ejemplo que muestra como organizar elementos continuos verticalmente
