@@ -13,3 +13,4 @@ Anótense a continuación en alguna de las siguientes listas, y contacten a los 
 
  * --( '''Peddro Ejemplo2''' - quiero compartir una habitación de hostel - <<MailTo(peddro AT ejemplo2 DOT com DOT ar)>> )--
  * '''Mariano Guerra''' - Coordino con quien quiera para ir al mismo hostel el viernes y posiblemente el sabado - <<MailTo(luismarianoguerra AT gmail DOT com)>> - Si alguien tiene un colchon/sofa por ahi no hago lugar ni ruido :)
+ * '''Manuel Kaufmann (humitos)''' - viajaría el jueves a la tarde ya que a la mañana del viernes doy una charla y me quedaría hasta el domingo a la tarde/noche después del asado :) - <<MailTo(humitos AT gmail DOT com)>>
