@@ -23,19 +23,15 @@
 ##
 ##
 = Próxima Reunión =
-== Reunión 36 - Sábado 02/05/09 - Bar el Cairo (?), Rosario, Argentina - 15.00hs ==
+== Reunión 37 - Sábado (22 or 29)/08/09 - Bar el Cairo, Rosario, Argentina - TBD.00hs ==
 '''Temas:'''
 
- * PyCon-Ar 2009
- * PyCamp
- * La crisis por supuesto :)
- * Python del lado del cliente en aplicaciones Web. Estado de las nuevas tecnologías.
+ * A designar
 
 ''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
 
  || SantiagoSuarezO ||
- || ManuelQuiñones ||
 
 ''' ¿Dónde? ''':
 
-No está decidido todavía. Puse el Cairo para tener algo pre-selecto. Si tienen uno que les gusta, lo ponemos sin duda.
+Bar "El Cairo" 
