@@ -1,4 +1,4 @@
-= Reunión 35 - Sábado 02/05/09 - Bar el Cairo, Rosario =
+= Reunión 36 - Sábado 02/05/09 - Bar el Cairo, Rosario =
 
 == Asitieron ==
 
