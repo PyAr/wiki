@@ -23,15 +23,18 @@
 ##
 ##
 = Próxima Reunión =
-== Reunión 37 - Sábado (22 or 29)/08/09 - Bar el Cairo, Rosario, Argentina - TBD.00hs ==
+== Reunión 37 - Sábado 22/08/09 - Bar "El Cairo", Rosario, Argentina - 15.00hs ==
 '''Temas:'''
 
- * A designar
+ * Organización del viaje a la PyCon Argentina
 
 ''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
 
  || SantiagoSuarezO ||
+ || Ernesto Savoretti ||
+ || Juan Pablo Gimenez ||
+ || Daniel Leonardo Gabrielli ||
 
 ''' ¿Dónde? ''':
 
-Bar "El Cairo" 
+Bar  [[http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=101867880409776015898.0004715cb637fee827659&ll=-32.944928,-60.638437&spn=0.002922,0.005381&t=h&z=18"|El Cairo"]]
