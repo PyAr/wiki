@@ -56,6 +56,7 @@ GtkTextArea : ejemplo sobre manipulacion basica de un area de texto con scroll
 [[GtkConfirmClose]]: ejemplo sobre como solicitar confirmacion para el cierre de una ventana
 
 [[GtkMultiThread]]: ejemplo de como manipular la api desde múltiples threads sin usar locks (con colas)
+
 [[GtkMultiThread2]]: ejemplo de como manipular la api desde múltiples threads
 
 === Gtk + glade ===
