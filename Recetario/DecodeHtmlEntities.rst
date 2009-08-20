@@ -1,6 +1,9 @@
 = Decodificar entities de HTML =
 
 {{{#!python
+import re
+import htmlentitydefs
+
 def unescape(text, encoding="UTF-8"):
     """
     Removes HTML or XML character references and entities from a text string.
@@ -33,3 +36,5 @@ def unescape(text, encoding="UTF-8"):
     text = text.decode(encoding) if isinstance(text, str) else text 
     return text and re.sub("&#?\w+;", fixup, text)
 }}}
+
+Gracias Martin Conte Mac Donell! ;)
