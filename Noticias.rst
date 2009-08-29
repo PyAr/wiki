@@ -31,6 +31,8 @@ Las charlas deben ser ingresadas para su aprobación aquí http://ar.pycon.org/2
 
 Más info, aquí http://ar.pycon.org/2009/conference/proposals/
 
+==== 29/08/2009 ====
+* Ya tenemos el [[http://python.org.ar/pyar/Tutorial | tutorial]] traducido y actualizado, disponible para bajar y consultar!
 
 ==== 21/04/2009 ====
  * Terminamos la migración del sitio a [[http://www.usla.org.ar/|USLA]], y a una versión de MoinMoin más nueva. ¡Muchas gracias [[http://www.decode.com.ar/|decode]], nuestro hosting anterior, por todos estos años de impecable servicio!
