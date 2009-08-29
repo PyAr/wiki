@@ -19,3 +19,4 @@ Si usted se inscribe acá probablemente reciba emails contactándolo.
 ||RobertoRodríguez|| || ||Capital Federal y GBA||
 ||RenzoCarbonara|| || ||Capital Federal, Entre Rios o Freelance||
 ||WalterAlini || Sí || No || en Córdoba, trabajo remotamente ||
+||[[http://www.estebanfeldman.com/|EstebanFeldman]] || Sí || No ||  ||
