@@ -24,8 +24,8 @@ Ahora, ¿a dónde podrías recurrir para obtener información que te inicie en l
  * [[http://pyspanishdoc.sourceforge.net/|Este]] es un proyecto público y libre para mantener '''toda''' la documentación de Python traducida a nuestro idioma.
 
 == Otras guias iniciales sobre python en español ==
- * Guia escrita por el autor de Python.
-  . [[http://es.tldp.org/Tutoriales/Python/tut.pdf|Guia de Aprendizaje de Python]] Guido van Rossum Oct2000 - Traduccion projecto tldp-es
+ * Tutorial oficial escrito por el autor de Python.
+  . [[http://python.org.ar/pyar/Tutorial|Guia de Aprendizaje de Python]] Autor original Guido van Rossum, traducido por PyAr
 
  * Completa introducción a Python.
   . [[http://users.servicios.retecal.es/tjavier/python/Un_poco_de_Python.html|Un poco de python]] Tomás Javier Robles Prado
