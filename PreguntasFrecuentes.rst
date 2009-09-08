@@ -65,6 +65,94 @@ Mas info en [[http://www.python.org/doc/faq/es/general/#por-qu-hay-tipos-de-dato
 
 En la página Python3Mil se encuentra la información sobre Python 3k, cambios en el lenguaje, compatibilidad hacia atras, calendario aproximado. 
 
+=== ¿Qué son las celdas? ===
+
+Las celdas son como cajones donde se guarda una variable para que pueda ser manipulada dentro de generadores, funciones y clases internos (closures).
+
+Técnicamente hablando, las funciones internas, clases, expresiones generadoras y demás pueden tener "variables libres" (ver ejemplos). Esas variables libres son las celdas, y se rellenan con un valor como cualquier variable - el chiste es que varios pedazos de código pueden apuntar a la misma celda (y por lo tanto modificar la misma variable).
+
+Ejemplo:
+
+{{{
+def f(x):
+    def g():
+        x += 1
+        return x
+    return g() 
+    # aquí "x" se incrementó, x no es local a 'g'
+    # x es una celda en toda la función f
+    # para que pueda ser accedida desde g y f a la vez
+}}}
+
+Otro
+
+{{{
+def f(l):
+    escala = sum(l)
+    return set( x / escala for x in l )
+    # escala es una celda porque "x / escala for x in l"
+    # es una expresión generadora, y su única forma de
+    # acceder a "escala" es a través de la celda
+}}}
+
+Es importante saber cuáles de nuestras variables son celdas y cuáles simplemente locales, porque la sintaxis de python nos prohibe borrar celdas, no así variables locales:
+
+{{{
+def f(x):
+    rv = set( [ i*x for i in xrange(10) ] )
+    del x # bizarro pero ok
+    return rv
+def g(x):
+    rv = set( i*x for i in xrange(10) )
+    del x # error de sintaxis, no se pueden borrar celdas
+    return rv
+}}}
+
+Nótese que en ''f'', x no es una celda porque ocurre en una expresión de lista por comprensión - que se parece, pero no es un generador.
+
+=== ¿qué son los ''fastlocals''? ===
+
+La documentación de python sólo menciona un ''scope lógico local'', el "local". 
+Tiene sentido, puesto que las variables son o locales, o globales, o celdas (ver pregunta anterior).
+
+Las variables locales todos las conocemos:
+
+{{{
+def f():
+   x = 4 # x es local
+}}}
+
+Los parámetros de una función también son variables locales. Por ende, self, en una función de una instancia, es también una variable local.
+
+Las variables globales todos las conocemos también:
+
+{{{
+llamadas = 0
+
+def f():
+   global llamadas # llamadas es global
+   llamadas += 1
+}}}
+
+Las variables globales son ''"locales al módulo"''. Dentro de otro módulo, habrá otras globales.
+
+Las "más globales de las globales" serían las variables globales del módulo ''"__builtin__"'', puesto que cuando un nombre no se encuentra ni entre las locales ni entre las globales del módulo, se busca en el módulo ''__builtin__''.
+
+Luego tenemos las celdas, que son usadas en los "closures", o funciones o clases anidadas. Véase la pregunta anterior para estas.
+
+Hasta ahí tenemos todos los scopes '''"lógicos"''' de python.
+
+Pero hay otro scope más, que es más vale ''físico'' (es un detalle de implementación).
+
+Las variables globales se guardan en un diccionario, las "locales" a secas también, así que accederlas es lento.
+
+Sucede que es muy sencillo para el compilador, en la mayoría de los casos, descubrir todas las variables locales que va a necesitar una función. Entonces, en esos casos, se preasigna un lugar a la variable en un array interno de CPython - el acceso a esas variables "locales rápidas" es... bueno, muy rápido pues.
+
+Esas son '''"fastlocals"'''.
+
+Casi todas las variables locales que se declaren van a ser rápidas. La única forma que conozco de generar variables locales lentas es con ''import *'' (en el scope local de una función, lo que es muy poco común), o especificando un diccionario de locales con ''eval()''
+
+
 == Sobre Python (el interprete) ==
 === ¿Cuales son los interpretes que puedo usar? ===
 
