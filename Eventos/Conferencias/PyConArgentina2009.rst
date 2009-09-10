@@ -11,6 +11,18 @@ Posibles temas:
  * PyCon 2010
 
 
+Referencias / inspiración:
+
+ * http://anthony.lenton.com.ar/2009/09/07/pycon-argentina-2009/en/
+ * http://chaghi.com.ar/blog/post/2009/09/06/pycon_argentina_2009
+ * http://www.juanjoconti.com.ar/2009/09/07/charla-taint-mode-en-python/
+ * http://planeta.python.org.ar/
+ * http://jacobian.org/writing/snakes-on-the-web/
+ * http://ar.pycon.org/2009/conference/schedule/
+ * http://lateral.netmanagers.com.ar/tr/es/weblog/2009/09/07.html
+ * http://www.ceportela.com.ar/como-se-hizo-la-i-jornada-python-en-santa-fe/
+
+
 A cinco años del nacimiento de PyAr, el 4 y el 5 de septiembre de 2009 se realizó en Buenos Aires PyCon Argentina 2009, la primera conferencia organizada por la comunidad Python en un país de habla hispana.
 
 En ella se presentaron 35 charlas, contando las dos plenarias a cargo de los invitados internacionales Jacob Kaplan-Moss (Django Project) y Collin Winter (Google), cuya presencia fue posible gracias a la Python Software Foundation (PSF).
