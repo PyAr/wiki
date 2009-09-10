@@ -23,6 +23,8 @@ Referencias / inspiración:
  * http://www.ceportela.com.ar/como-se-hizo-la-i-jornada-python-en-santa-fe/
 
 
+Texto:
+
 A cinco años del nacimiento de PyAr, el 4 y el 5 de septiembre de 2009 se realizó en Buenos Aires PyCon Argentina 2009, la primera conferencia organizada por la comunidad Python en un país de habla hispana.
 
 En ella se presentaron 35 charlas, contando las dos plenarias a cargo de los invitados internacionales Jacob Kaplan-Moss (Django Project) y Collin Winter (Google), cuya presencia fue posible gracias a la Python Software Foundation (PSF).
