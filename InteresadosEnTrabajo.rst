@@ -20,3 +20,4 @@ Si usted se inscribe acá probablemente reciba emails contactándolo.
 ||RenzoCarbonara|| || ||Capital Federal, Entre Rios o Freelance||
 ||WalterAlini || Sí || No || en Córdoba, trabajo remotamente ||
 ||[[http://www.estebanfeldman.com/|EstebanFeldman]] || Sí || No ||  ||
+||[[mailto:ekuber@gmail.com/|EstebanKüber]] ||  ||  || Capital Federal ||
