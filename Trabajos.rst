@@ -1,8 +1,8 @@
 = Trabajos con Python =
-
+ * (18/09/2009) CME Argentina SA busca urgente!! Python/C Developers para su oficina en Mendoza. Interesados enviar CV y pretensiones a jobs.argentina@gotocme.com.
  * (22/07/2009) Creciente equipo de desarrollo quiere contactarse con desarrolladores Python(principalmente django) freelance para futuros proyectos. Enviar CV, costo por hora y si tenés alguna muestra de trabajo, tambien. freelance@tribalo.com.ar
 
- * (02/06/2009) [[http://www.msa.com.ar|MSA]] está buscando incorporar programadores Python con al menos un año de experiencia y manejo fluido en ambientes Linux. Son deseables conocimientos de PyGTK, Desarrollo Web y PostgreSQL. Interesados enviar un mail con el CV y pretensiones a rrhh@msa.com.ar.
+ * (02/06/2009) [[http://www.msa.com.ar|MSA]] está buscando incorporar programadores Python con al menos un año de experiencia y manejo fluido en ambientes Linux. Son deseables conocimientos de PyGTK, Desarrollo Web y PostgreSQL. Interesados enviar un mail con el CV y pretensiones a rrhh@msa.com.ar .
 
  * (11/05/2009) La Facultad de Medicina incorporara 1 (un) programador Python, para programar en entornos web. Es necesario tener conocimientos de PostgreSQL y Linux (basico). Horario: 5 horas diarias, de lunes a viernes (horario a convenir). Salario ofrecido: $1800.- Debe ser monotributista. Interesados enviar CV a empleos@fmed.uba.ar
 
