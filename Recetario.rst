@@ -51,6 +51,8 @@ GtkMenu :  ejemplo que mustra como crear un menu con distintos items
 
 GtkTextArea : ejemplo sobre manipulacion basica de un area de texto con scroll
 
+GtkPrintNonGtk : ejemplo sobre como usar el dialogo de impresion de gtk en aplicaciones no gtk (que no usan el main loop de gtk)
+
 [[GtkRichText]]: ejemplo sobre como insertar texto con formato basico a un textview
 
 [[GtkConfirmClose]]: ejemplo sobre como solicitar confirmacion para el cierre de una ventana
