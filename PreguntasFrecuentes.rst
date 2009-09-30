@@ -238,7 +238,7 @@ En el ambito local:
 Nota: la lista no pretende ser completa, solo se presentan algunas de las aplicaciones más conocidas, relevantes y/o utilizadas por gran numero de personas.
 
 
-=== ¿Podrías nombrar sitios Web (conocidos) que estén hecho en Python? ===
+=== ¿Podrías nombrar sitios Web (conocidos) que estén hechos en Python? ===
 
 Si:
 
