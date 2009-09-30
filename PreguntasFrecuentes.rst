@@ -214,7 +214,7 @@ Para construir aplicaciones web complejas en python se pueden usar alguno de los
 
 ==== Herramientas webs ====
  * [[http://plone.org/|Plone]]: Completo sistema de manejo de contenidos (CMS)
- * [[http://moinmo.in/|MoinMoin]]: La Wiki hecha en python
+ * [[http://moinmo.in/|MoinMoin]]: La Wiki hecha en Python (que es el que usamos actualmente en este nuestro sitio)
  * [[http://trac.edgewall.org|Trac]]: El sistema de gestión de proyectos hecho en python
 
 == Python en la vida real ==
@@ -242,8 +242,8 @@ Nota: la lista no pretende ser completa, solo se presentan algunas de las aplica
 
 Si:
 
- * YouTube (http://youtube.com) [[http://vimeo.com/6461983|usa Python]] y es crítico para su funcionamiento.
- * FriendFeed (http://friendfeed.com) (adquidiro por Facebook en Agosto 2009) está [[http://blog.friendfeed.com/2008/02/friendfeed-changelog-see-what-code-we.html|programado]] en Python.
+ * !YouTube (http://youtube.com) [[http://vimeo.com/6461983|usa Python]] y es crítico para su funcionamiento.
+ * !FriendFeed (http://friendfeed.com) (adquidiro por Facebook en Agosto 2009) está [[http://blog.friendfeed.com/2008/02/friendfeed-changelog-see-what-code-we.html|programado]] en Python.
 
 === ¿En que difiere Python y VisualBasic? ===
 
