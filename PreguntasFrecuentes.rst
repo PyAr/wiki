@@ -223,7 +223,7 @@ Para construir aplicaciones web complejas en python se pueden usar alguno de los
 
 En ocasiones se pregunta a la lista si Python esta a la altura de las circunstancias, como se compara la velocidad/uso de memoria con VB, C, .NET, Java, etc. En la página RendimientoPythonVsJavaVsNet hay un resumen de los comentarios vertidos a la lista.
 
-=== ¿Que aplicaciones (conocidas) estan hechas en python? ===
+=== ¿Que aplicaciones (conocidas) estan hechas en Python? ===
 
 Las siguientes aplicaciones se pueden ver/probar/evaluar para conocer el lenguaje y ver su capacidad/rendimiento: 
  * [[http://www.bittorrent.com|BitTorrent]] (original): programa para compartir archivos p2p (interfaz wx)
@@ -236,6 +236,14 @@ En el ambito local:
  * [[http://www.fierro-soft.com.ar|Sistema Fierro]]: sistema de gestión para librerias y editoriales (interfaz wx)
 
 Nota: la lista no pretende ser completa, solo se presentan algunas de las aplicaciones más conocidas, relevantes y/o utilizadas por gran numero de personas.
+
+
+=== ¿Podrías nombrar sitios Web (conocidos) que estén hecho en Python? ===
+
+Si:
+
+ * YouTube (http://youtube.com) [[http://vimeo.com/6461983|usa Python]] y es crítico para su funcionamiento.
+ * FriendFeed (http://friendfeed.com) (adquidiro por Facebook en Agosto 2009) está [[http://blog.friendfeed.com/2008/02/friendfeed-changelog-see-what-code-we.html|programado]] en Python.
 
 === ¿En que difiere Python y VisualBasic? ===
 
