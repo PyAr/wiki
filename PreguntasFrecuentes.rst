@@ -23,7 +23,7 @@ El grupo de Meetup no era (estrictamente hablando) nacional, sino de Buenos Aire
 Hoy, mientras la cantidad de miembros del grupo lo permite, tenemos una organización plana, en la que todos debatimos nuestras ideas e inquietudes, y cada uno trata de aportar en lo que puede.
 
 === ¿Cómo participar? ===
-Suscribiéndote a la ListaDeCorreo, registrándote en el portal, asistiendo a cualquiera de nuetros [[Eventos]], aportando ideas. También tenemos un canal de IRC. El servidor es `irc.freenode.net`, y el nombre del canal es `#pyar`. Podés ingresar vía Web [[http://webchat.freenode.net/?channels=pyar|aquí]] o [[https://www.mibbit.com/chat/?url=irc://irc.freenode.net/pyar|aquí]]. Si querés colaborar aportando contenido al Wiki, o ayudando en su mantenimiento, también es posible. Por favor, leé ContribuyendoAlWiki.
+Suscribiéndote a la ListaDeCorreo, registrándote en el portal, asistiendo a cualquiera de nuetros [[Eventos]], aportando ideas. También tenemos un canal de IRC. El servidor es `irc.freenode.net`, y el nombre del canal es `#pyar`. Podés ingresar vía Web [[http://webchat.freenode.net/?channels=pyar|aquí]]. Si querés colaborar aportando contenido al Wiki, o ayudando en su mantenimiento, también es posible. Por favor, leé ContribuyendoAlWiki.
 
 === ¿Cómo se organiza una reunión? ===
 Los pasos a seguir para organizar una reunión están documentados en [[Eventos/Reuniones/ReleaseProcedure]].
