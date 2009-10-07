@@ -2,6 +2,7 @@
 #pragma section-numbers 2
 = Preguntas Frecuentes =
 <<TableOfContents>>
+
 ----
 == Sobre PyAr (el grupo de Usuarios) ==
 === ¿Quiénes somos? ===
@@ -22,7 +23,7 @@ El grupo de Meetup no era (estrictamente hablando) nacional, sino de Buenos Aire
 Hoy, mientras la cantidad de miembros del grupo lo permite, tenemos una organización plana, en la que todos debatimos nuestras ideas e inquietudes, y cada uno trata de aportar en lo que puede.
 
 === ¿Cómo participar? ===
-Suscribiéndote a la ListaDeCorreo, registrándote en el portal, asistiendo a cualquiera de nuetros [[Eventos]], aportando ideas. También tenemos un canal de IRC. El servidor es `irc.freenode.net`, y el nombre del canal es `#pyar`. Si querés colaborar aportando contenido al Wiki, o ayudando en su mantenimiento, también es posible. Por favor, leé [[ContribuyendoAlWiki]].
+Suscribiéndote a la ListaDeCorreo, registrándote en el portal, asistiendo a cualquiera de nuetros [[Eventos]], aportando ideas. También tenemos un canal de IRC. El servidor es `irc.freenode.net`, y el nombre del canal es `#pyar`. Podés ingresar vía Web [[http://webchat.freenode.net/?channels=pyar|aquí]] o [[https://www.mibbit.com/chat/?url=irc://irc.freenode.net/pyar|aquí]]. Si querés colaborar aportando contenido al Wiki, o ayudando en su mantenimiento, también es posible. Por favor, leé ContribuyendoAlWiki.
 
 === ¿Cómo se organiza una reunión? ===
 Los pasos a seguir para organizar una reunión están documentados en [[Eventos/Reuniones/ReleaseProcedure]].
@@ -36,7 +37,8 @@ Qué el grupo crezca, se consolide y organice formalmente. Que podamos brindar a
 === ¿Qué es un ''sprint''? ===
 Según la [[http://c2.com/cgi/wiki?PythonSprint|Portland Pattern Repository's Wiki]]:
 
- ''Desde comienzos de 2002 se han realizado varios eventos denominados 'sprint' alrededor del Lenguaje Python / Zope. Un sprint, bajo esta terminología, es una reunión de programadores interesados en trabajar en un determinado proyecto Open Source, con una duración de 3 a 5 días. Los sprints generalmente tienen una audiencia multinacional.''
+ . ''Desde comienzos de 2002 se han realizado varios eventos denominados 'sprint' alrededor del Lenguaje Python / Zope. Un sprint, bajo esta terminología, es una reunión de programadores interesados en trabajar en un determinado proyecto Open Source, con una duración de 3 a 5 días. Los sprints generalmente tienen una audiencia multinacional.''
+
 ''Normalmente una conferencia es precedida por un sprint (tanto es así que ahora cualquier conferencia respetable de Python es precedida por un sprint), pero los sprints también se dan por si solos. Uno o mas 'coaches' guían el proceso. Se dice que los sprints están inspirados por un concepto de XP (eXtreme Programming -- Programación Extrema).''
 
 Probablemente los sprints de PyAr no duren 3 a 5 días, al menos al principio... ni contamos con tener una audiencia multinacional. Pero pensamos divertirnos, aprender, y hacer algo útil.
@@ -48,7 +50,6 @@ El Hip Bar es el pub donde organizamos la mayoría de los encuentros en Capital 
 En la sección ContribuyendoAlWiki vas a encontrar todo ('''todo''' se refiere a dos cositas nomás) lo que necesitás para poder empezar a contribuir al wiki.
 
 === ¿Cómo colaboro con ésta lista de preguntas? ===
-
 Hay [[PreguntasSinRespuesta|otras preguntas todavía sin respuesta]], similares a éstas, que son sobre temas que tratamos varias veces en la lista de correo, pero aun a nadie las pasó acá. Si estás interesado y tenés usuario en el wiki, adelante. Sinó, fijate como en la pregunta anterior.
 
 == Sobre Python (el Lenguaje) ==
@@ -62,11 +63,9 @@ Con respecto a si hay realmente diferencia en cuanto a velocidad y tamaño en me
 Mas info en [[http://www.python.org/doc/faq/es/general/#por-qu-hay-tipos-de-datos-tuplas-y-listas-separados|FAQ General de Python]]
 
 === ¿Cuales son los cambios en Python 3.0 (Python 3000) la nueva versión del lenguaje? ===
-
-En la página Python3Mil se encuentra la información sobre Python 3k, cambios en el lenguaje, compatibilidad hacia atras, calendario aproximado. 
+En la página Python3Mil se encuentra la información sobre Python 3k, cambios en el lenguaje, compatibilidad hacia atras, calendario aproximado.
 
 === ¿Qué son las celdas? ===
-
 Las celdas son como cajones donde se guarda una variable para que pueda ser manipulada dentro de generadores, funciones y clases internos (closures).
 
 Técnicamente hablando, las funciones internas, clases, expresiones generadoras y demás pueden tener "variables libres" (ver ejemplos). Esas variables libres son las celdas, y se rellenan con un valor como cualquier variable - el chiste es que varios pedazos de código pueden apuntar a la misma celda (y por lo tanto modificar la misma variable).
@@ -78,12 +77,11 @@ def f(x):
     def g():
         x += 1
         return x
-    return g() 
+    return g()
     # aquí "x" se incrementó, x no es local a 'g'
     # x es una celda en toda la función f
     # para que pueda ser accedida desde g y f a la vez
 }}}
-
 Otro
 
 {{{
@@ -94,7 +92,6 @@ def f(l):
     # es una expresión generadora, y su única forma de
     # acceder a "escala" es a través de la celda
 }}}
-
 Es importante saber cuáles de nuestras variables son celdas y cuáles simplemente locales, porque la sintaxis de python nos prohibe borrar celdas, no así variables locales:
 
 {{{
@@ -107,13 +104,10 @@ def g(x):
     del x # error de sintaxis, no se pueden borrar celdas
     return rv
 }}}
-
 Nótese que en ''f'', x no es una celda porque ocurre en una expresión de lista por comprensión - que se parece, pero no es un generador.
 
 === ¿qué son los ''fastlocals''? ===
-
-La documentación de python sólo menciona un ''scope lógico local'', el "local". 
-Tiene sentido, puesto que las variables son o locales, o globales, o celdas (ver pregunta anterior).
+La documentación de python sólo menciona un ''scope lógico local'', el "local".  Tiene sentido, puesto que las variables son o locales, o globales, o celdas (ver pregunta anterior).
 
 Las variables locales todos las conocemos:
 
@@ -121,7 +115,6 @@ Las variables locales todos las conocemos:
 def f():
    x = 4 # x es local
 }}}
-
 Los parámetros de una función también son variables locales. Por ende, self, en una función de una instancia, es también una variable local.
 
 Las variables globales todos las conocemos también:
@@ -133,7 +126,6 @@ def f():
    global llamadas # llamadas es global
    llamadas += 1
 }}}
-
 Las variables globales son ''"locales al módulo"''. Dentro de otro módulo, habrá otras globales.
 
 Las "más globales de las globales" serían las variables globales del módulo ''"__builtin__"'', puesto que cuando un nombre no se encuentra ni entre las locales ni entre las globales del módulo, se busca en el módulo ''__builtin__''.
@@ -152,35 +144,30 @@ Esas son '''"fastlocals"'''.
 
 Casi todas las variables locales que se declaren van a ser rápidas. La única forma que conozco de generar variables locales lentas es con ''import *'' (en el scope local de una función, lo que es muy poco común), o especificando un diccionario de locales con ''eval()''
 
-
 == Sobre Python (el interprete) ==
 === ¿Cuales son los interpretes que puedo usar? ===
-
 Las opciones disponibles son:
+
  * La consola interactiva por defecto de python (viene con la instalacion, solo hay que escribir python)
  * [[http://en.wikipedia.org/wiki/IDLE_(Python)|IDLE]]
  * [[http://ipython.scipy.org/moin/About|ipython]]
  * [[http://www.wxpython.org/py.php|PyCrust/PyShell]] (incluido en [[http://www.wxpython.org/|wxPython]])
 
 === ¿Como puedo configurar mi interprete para que sea mas amigable? ===
-
 Si estas usando el interprete interactivo por defecto de python, se recomienda leer los siguientes articulos:
+
  * AutocomplecionEnConsolaInteractiva: Explica como agregar autocomplecion de metodos y atributos con tab en la consola interactiva
  * GuardarHistorialEnConsolaInteractiva: Explica como guardar el historial de comandos entre sesiones en la consola interactiva.
  * [[http://www.eseth.org/2008/pimp-pythonrc.html|recursos externos]]
 
 == Construyendo Aplicaciones ==
-
 === Usando Bases de Datos ===
-
 ==== Como conectarse a bases de datos y ejecutar consultas ====
-
 La página DbApi contiene la información relativa al Acceso a Bases de Datos desde Python (Interface DB-API), sobre como conectarse (mysql, postgresql, etc.), ejecutar consultas, armar queries, escapear comillas, etc.
 
 ==== ORMs: Interfaces Objeto-Relacional ====
+Acceder a bases de datos a traves de Db-Api es relativamente de bajo nivel. Se pueden utilizar Object-Relational-Mappers de mas alto nivel (similar a Hibernate en el mundo java). Los ORMS mas importantes para python son:
 
-Acceder a bases de datos a traves de Db-Api es relativamente de bajo nivel. Se pueden utilizar Object-Relational-Mappers de mas alto nivel (similar a Hibernate en el mundo java).
-Los ORMS mas importantes para python son:
  * [[http://www.sqlalchemy.org/|SqlAlchemy]]: Un mapeador que dice ser simple, eficiente y extensible
  * [[http://sqlobject.org/|SqlObject]]
  * [[http://storm.canonical.com/|Storm]]: El nuevo mapeador de Canonical (Ubuntu)
@@ -188,23 +175,20 @@ Los ORMS mas importantes para python son:
 Por el momento no hay ningún concenso en la lista sobre cual es mejor o peor.
 
 ==== PlPython: Python dentro de PostgreSQL ====
-
 La página PlPython contiene un "tutorial" sobre como usar funciones Python dentro de la base de datos relacional PostgreSQL (tanto procedimientos almacenados como triggers/disparadores).
 
 === Programación de interfaces gráficas (toolkits) ===
-
-La página InterfacesGraficas describe las diversas opciones disponibles en Python: wx, gtk, qt, etc., sus comparaciones, ventajas y desventajas y código de ejemplo. 
+La página InterfacesGraficas describe las diversas opciones disponibles en Python: wx, gtk, qt, etc., sus comparaciones, ventajas y desventajas y código de ejemplo.
 
 En el [Recetario] hay ejemplos de como empezar a construir interfaces en python.
 
 === Programación WEB ===
-
 ==== Interfaz WSGI ====
 La página [[WSGI]] contiene información sobre la espeficiación para servidores web de python, comparación entre mod_python vs mod_wsgi vs servidores embebidos, performance, como usarlos y configurarlos, ejemplos.
 
 ==== Frameworks Webs ====
-
 Para construir aplicaciones web complejas en python se pueden usar alguno de los principales frameworks web:
+
  * [[http://www.djangoproject.com|Django]]: framework de alto nivel para desarrollo rapido y diseño claro y pragmático
  * [[http://turbogears.org/|Turbogears]]: el megaframework que combina CherryPy, Kid, SQLObject y MochiKit.
  * [[http://www.zope.org|Zope]]: el "abuelo" de los frameworks web de python
@@ -218,14 +202,12 @@ Para construir aplicaciones web complejas en python se pueden usar alguno de los
  * [[http://trac.edgewall.org|Trac]]: El sistema de gestión de proyectos hecho en python
 
 == Python en la vida real ==
-
 === Performance/Estabilidad de Python, ¿se la banca? ===
-
 En ocasiones se pregunta a la lista si Python esta a la altura de las circunstancias, como se compara la velocidad/uso de memoria con VB, C, .NET, Java, etc. En la página RendimientoPythonVsJavaVsNet hay un resumen de los comentarios vertidos a la lista.
 
 === ¿Que aplicaciones (conocidas) estan hechas en Python? ===
+Las siguientes aplicaciones se pueden ver/probar/evaluar para conocer el lenguaje y ver su capacidad/rendimiento:
 
-Las siguientes aplicaciones se pueden ver/probar/evaluar para conocer el lenguaje y ver su capacidad/rendimiento: 
  * [[http://www.bittorrent.com|BitTorrent]] (original): programa para compartir archivos p2p (interfaz wx)
  * [[http://es.clamwin.com|ClamWin]]: el antivirus libre, frontend de clamav (interfaz wx)
  * [[http://www.openerp.com|OpenErp]] (ex TinyErp): completo sistema de gestión empresarial en tres capas (interfaz gtk)
@@ -233,13 +215,12 @@ Las siguientes aplicaciones se pueden ver/probar/evaluar para conocer el lenguaj
  * [[http://trac.edgewall.org|Trac]]: sistema de gestión de proyectos (interfaz web)
 
 En el ambito local:
+
  * [[http://www.fierro-soft.com.ar|Sistema Fierro]]: sistema de gestión para librerias y editoriales (interfaz wx)
 
 Nota: la lista no pretende ser completa, solo se presentan algunas de las aplicaciones más conocidas, relevantes y/o utilizadas por gran numero de personas.
 
-
 === ¿Podrías nombrar sitios Web (conocidos) que estén hechos en Python? ===
-
 Si:
 
  * !YouTube (http://youtube.com) [[http://vimeo.com/6461983|usa Python]] y es crítico para su funcionamiento.
@@ -248,24 +229,18 @@ Si:
  * La NASA [[http://nebula.nasa.gov/services/|usa Python]] en el ''frontend'' de su platforma de ''cloud computing'' [[http://nebula.nasa.gov/|NEBULA]].
 
 === ¿En que difiere Python y VisualBasic? ===
-
-La página VisualBasic detalla las similitudes y diferencias entre ambos lenguajes. 
+La página VisualBasic detalla las similitudes y diferencias entre ambos lenguajes.
 
 == Preguntas surtidas ==
-
 === ¿Hay alguna forma de saber la ruta (path) del archivo actual? ===
-
-MarianoGuerra preguntó esto en este hilo: http://mx.grulic.org.ar/lurker/thread/20080719.055432.4df0ac40.es.html
-Esencialmente, el problema es saber la ruta absoluta del script python que se está ejecutando
+MarianoGuerra preguntó esto en este hilo: http://mx.grulic.org.ar/lurker/thread/20080719.055432.4df0ac40.es.html Esencialmente, el problema es saber la ruta absoluta del script python que se está ejecutando
 
 La respuesta que le dio MartinBothiry es hacer:
 
 {{{
-  os.path.abspath(os.path.dirname(__file__)) 
+  os.path.abspath(os.path.dirname(__file__))
 }}}
-
 === ¿Uso el modulo array o listas? ===
-
 SebastianBassi pregunto en este hilo: http://mx.grulic.org.ar/lurker/thread/20090803.144308.0aabeb1b.en.html
 
 sobre en que casos convenia usar el modulo de la libreria estandar array por sobre una lista comun.
@@ -279,7 +254,10 @@ Extraer un elemento de un array es costoso, porque hay que crear el objeto Pytho
 Otra diferencia: array solo puede contener caracteres, números enteros nativos, o números de punto flotante; no objetos. Pero la representación en memoria es mucho mas compacta, cada elemento ocupa sólo lo necesario para guardar su valor y nada más (por ejemplo, 4 bytes para un float vs. 20 que se necesitan en una lista normal [16 para el objeto float de Python y 4 para el puntero en la lista], los tamaños son para Windows 32 bits).
 
 Yo diria que conviene usar un array si:
+
  * todos los elementos son homogeneos, de alguno de los tipos soportados.
+
 y:
+
  * vas a procesarlo en C porque te importa la velocidad
  * o bien, estas corto de memoria y una lista normal no te entra (pero no te importa la velocidad)
