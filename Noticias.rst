@@ -19,6 +19,24 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 
+
+==== 13/10/2009 ====
+
+Organizado por el LUGRo (Grupo de Usuarios de GNU/Linux Rosario) el
+día Miércoles 14 de Octubre a partir de las 21 horas se llevará a cabo
+la charla:
+
+*INTRODUCCIÓN A PYTHON*
+
+a cargo de Fabian Gallina en el aula 1-14 del Instituto Politécnico
+Superior de calle Pellegrini 250 (Rosario, Santa Fe)
+
+Quedan todos invitados.
+Entrada Libre y Gratuita
+
+
+http://www.lugro.org.ar/node/1422
+
 ==== 29/08/2009 ====
  * Ya tenemos el [[http://python.org.ar/pyar/Tutorial | tutorial]] traducido y actualizado, disponible para bajar y consultar!
 
