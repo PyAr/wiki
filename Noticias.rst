@@ -19,6 +19,21 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 
+==== 13/10/2009 ====
+El Miércoles 14 de Octubre de 2009 a partir de las 19hs se
+desarrollaran las Jornadas Institucionales de Informática del
+Instituto Superior Tecnológico Blaise Pascal, ubicado en Puerto
+Argentino 4238, Gonzales Catán, Provincia de Buenos Aires.
+
+Este año la temática es el lenguaje de Programación Python, con dos
+charlas introductorias a cargo de Alejandro J. Cura:
+ * Juegos y actividades educativas con Python
+ * Introducción al desarrollo WEB con Python
+La duración estimada de las charlas es de 45 minutos cada una, con
+espacio para debates, preguntas y respuestas.
+
+El evento es gratuito, por favor consultar y confirmar asistencia
+enviando un correo electrónico a Mariano Reingart <<MailTo(reingart AT gmail DOT com)>>.
 
 ==== 13/10/2009 ====
 
@@ -26,7 +41,7 @@ Organizado por el LUGRo (Grupo de Usuarios de GNU/Linux Rosario) el
 día Miércoles 14 de Octubre a partir de las 21 horas se llevará a cabo
 la charla:
 
-*INTRODUCCIÓN A PYTHON*
+'''*INTRODUCCIÓN A PYTHON*'''
 
 a cargo de Fabian Gallina en el aula 1-14 del Instituto Politécnico
 Superior de calle Pellegrini 250 (Rosario, Santa Fe)
