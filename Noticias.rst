@@ -18,6 +18,22 @@
 ##irss topic PyAr - Python Argentina
 ##irss descr Últimas noticias
 ## ULTIMAS_START
+==== 14/10/2009 ====
+El Viernes 16 de Octubre de 2009 a partir de las 16 hs se
+desarrollara la jornada Instituto Libre 09 en la ciudad de Coronda, Santa Fe.
+
+A las 18:40 hs habrá una charla introductoria a Python a cargo de Juan José Conti.
+
+Lugar: Instituto Superior Profesorado N° 6 (Coronda - Santa Fe)
+Título: Bienvenido a Python, un lenguaje especial
+Destinatarios: Técnicos.
+Nivel: principiante / avanzado.
+Temas: Lenguajes de programación: ¿Qué le pedimos a un lenguaje? .
+Python: Intérprete interactivo, Tipos de datos poderosos, Identación,
+Todo es un objeto. Tipos de datos básicos .   Núm Tipos de datos
+poderosos. Listas. Tuplas. Conjuntos. Diccionarios. Sentencias de
+control. Funciones . Clases. Módulo y paquetes. Errores y Excepciones.
+Y más.
 
 ==== 13/10/2009 ====
 El Miércoles 14 de Octubre de 2009 a partir de las 19hs se
