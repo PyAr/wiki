@@ -18,6 +18,23 @@
 ##irss topic PyAr - Python Argentina
 ##irss descr Últimas noticias
 ## ULTIMAS_START
+
+
+==== 23/10/2009 ====
+VI Conferencia Latinoamericana de Software Libre | Latinoware 2009
+Foz do Iguaçu – Paraná – Brasil
+
+Del 22/10 al 24/10 se desarrolla este evento y Miembros de Python Argentina estarán presentes.
+ 
+El 23/10 a las 18:00 hs habrá una charla a Python a cargo de Héctor "Karucha" Sanchez.
+
+ * Lugar: Foz do Iguaçu – Paraná – Brasil
+ * Título: Juegos educativos con Python
+ * Descripción: Mostraremos cómo hacer juegos y actividades educativas sencillas, usando Python y la biblioteca PyGame. Para esto nos basaremos en Falabracman, un juego educativo hecho en 30 horas, y ganador del OLPC Game Jam 2008 en Porto Alegre.
+ * Destinatarios: Técnicos.
+ * Nivel: principiante.
+
+
 ==== 14/10/2009 ====
 El Viernes 16 de Octubre de 2009 a partir de las 16 hs se
 desarrollara la jornada Instituto Libre 09 en la ciudad de Coronda, Santa Fe.
