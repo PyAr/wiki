@@ -26,7 +26,7 @@ Foz do Iguaçu – Paraná – Brasil
 
 Del 22/10 al 24/10 se desarrolla este evento y Miembros de Python Argentina estarán presentes.
  
-El 23/10 a las 18:00 hs habrá una charla a Python a cargo de Héctor "Karucha" Sanchez.
+El 23/10 a las 18:00 hs habrá una charla de Python a cargo de Héctor "Karucha" Sanchez.
 
  * Lugar: Foz do Iguaçu – Paraná – Brasil
  * Título: Juegos educativos con Python
