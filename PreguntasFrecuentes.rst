@@ -223,12 +223,12 @@ Nota: la lista no pretende ser completa, solo se presentan algunas de las aplica
 === ¿Podrías nombrar sitios Web (conocidos) que estén hechos en Python? ===
 Si:
 
- * !YouTube (http://youtube.com) [[http://vimeo.com/6461983|usa Python]] y es crítico para su funcionamiento.
- * Reddit (http://reddit.com) está [[http://brainsik.theory.org/.:./2009/why-reddit-uses-python|programado]] en Python.
- * !FriendFeed (http://friendfeed.com) (adquidiro por Facebook en Agosto 2009) está [[http://blog.friendfeed.com/2008/02/friendfeed-changelog-see-what-code-we.html|programado]] en Python.
+ * !YouTube (http://youtube.com) está [[http://vimeo.com/6461983|programado en Python]]. Es actualmente el segundo sitio de búsqueda en Internet luego de google.com.
+ * Reddit (http://reddit.com) está [[http://brainsik.theory.org/.:./2009/why-reddit-uses-python|programado en Python]].
+ * !FriendFeed (http://friendfeed.com) (adquidiro por Facebook en Agosto 2009) está [[http://blog.friendfeed.com/2008/02/friendfeed-changelog-see-what-code-we.html|programado en Python]].
  * La NASA [[http://nebula.nasa.gov/services/|usa Python]] en el ''frontend'' de su platforma de ''cloud computing'' [[http://nebula.nasa.gov/|NEBULA]].
 
-=== ¿En que difiere Python y VisualBasic? ===
+=== ¿En que difieren Python y VisualBasic? ===
 La página VisualBasic detalla las similitudes y diferencias entre ambos lenguajes.
 
 == Preguntas surtidas ==
