@@ -11,7 +11,7 @@ Si usted se inscribe acá probablemente reciba emails contactándolo.
 || JavierMansilla       || Sí                   || No                             || Córdoba, trabajo remotamente      ||
 || SantiagoSuarezO      ||                      ||                                ||                                   ||
 || JohnLenton           ||                      ||                                || Córdoba (físicamente)             ||
-|| [[http://gonzalodelgado.com.ar/|Gonzalo Delgado]] ||  ||                       || Tucumán (físicamente)             ||
+|| [[http://gonzalodelgado.com.ar/|Gonzalo Delgado]] ||  ||                       || Tucumán, trabajo remotamente      ||
 || HernanOlivera        ||                      ||                                || (teletrabajo)                     ||
 || [[http://www.python.com.ar/moin/arturoeanton|Arturo Elias Anton]] ||  ||       ||                                   ||
 || RicardoKirkner       ||                      ||                                ||                                   ||
