@@ -14,6 +14,7 @@
 ''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
 
  || Ariel Rossanigo ||
+ || MarianoReingart ||
 
 ''' Lugar '''
 
