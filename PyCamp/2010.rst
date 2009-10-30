@@ -4,7 +4,9 @@
  * elegir lugar
    * averiguar lugares
  * elegir fecha
-   * se propone del 20 al 24 de marzo de 2010
+   * propuestas
+     * del 24 al 28 de Marzo (incluye dos días laborales)
+     * del 22 al 25 de Mayo (incluye un solo día laboral)
  * invitar a la gente
  * conseguir internet
 
