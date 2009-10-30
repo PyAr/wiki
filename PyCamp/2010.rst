@@ -1,5 +1,13 @@
 = PyCamp 2010 =
 
+== Pendientes ==
+ * elegir lugar
+   * averiguar lugares
+ * elegir fecha
+   * se propone del 20 al 24 de marzo de 2010
+ * invitar a la gente
+ * conseguir internet
+
 == Fecha ==
 ''a determinar''
 
