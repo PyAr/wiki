@@ -59,6 +59,9 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr, están rela
  * [[https://edge.launchpad.net/lalita|lalita]]
   * Otro bot de IRC más, con el objetivo de que sea fácil agregar funcionalidad al crear plugins sencillos de escribir.
 
+ * [[http://docs.python.org.ar/tutorial/contenido.html|Tutorial de Python]]
+  * Una traducción actualizada del tutorial oficial de Python
+
 <<BR>>
 ----
  <<Navigation(children, 1)>> 
