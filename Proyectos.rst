@@ -62,6 +62,9 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr, están rela
  * [[http://docs.python.org.ar/tutorial/contenido.html|Tutorial de Python]]
   * Una traducción actualizada del tutorial oficial de Python
 
+ * [[http://rst2pdf.googlecode.com| Rst2Pdf]]
+  * Una herramienta para convertir Restructured Text a PDF (se usó para el Tutorial de Python)
+
 <<BR>>
 ----
  <<Navigation(children, 1)>> 
