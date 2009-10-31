@@ -53,6 +53,12 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr, están rela
  * [[http://www.nsis.com.ar/public/wiki/PyReplicaEs|PyReplica]]
   * Replicador simple y flexible para PostgreSQL escrito exclusivamente en Python (asincrónico, multimaster limitado, notificaciones por email, etc.)
 
+ * [[http://code.google.com/p/cdpedia/|CDPedia]]
+  * Proyecto para compilar una serie de artículos de la wikipedia en un cd autobrowseable.
+
+ * [[https://edge.launchpad.net/lalita|lalita]]
+  * Otro bot de IRC más, con el objetivo de que sea fácil agregar funcionalidad al crear plugins sencillos de escribir.
+
 <<BR>>
 ----
  <<Navigation(children, 1)>> 
