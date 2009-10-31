@@ -7,6 +7,6 @@ Escribí tu nombre acá y pronto te harán llegar una invitación:
 || XavierLesa || xavierlesa at gmail dot com || desarrollo, estudio, diversión ||
 || --(AlbertoPaparelli)-- || || --(desarrollo, estudio, diversión)-- Invitado, acordate de quitarte cuando la recibas ||
 || --(MarceloFernández)-- || || --(desarrollo, estudio, diversión)-- Invitado, acordate de quitarte cuando la recibas ||
-|| --(NestorDanielAltamirano)-- || || --(desarrollo, estudio, diversión)-- Invitado, acordate de quitarte cuando la recibas ||
+|| NestorDanielAltamirano || mrleinad at gmail dot com || desarrollo, estudio, diversión ||
 
 ''por favor cuando reciban su invitación borrense de la lista, así dejamos dejamos espació para ortos interesados.''
