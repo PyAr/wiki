@@ -39,7 +39,10 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr, están rela
   * Proyecto experimental sobre música y creatividad artificial
  * [[http://www.emesene.org|Emesene]]
 
-  * Cliente de mensajeria instantanea multiplataforma compatible con la red MSN de microsoft
+  * Cliente de mensajería instantánea multiplataforma compatible con la red MSN de microsoft
+ * [[http://a-series-of-tubes.appspot.com/|Tubes]]
+
+  * Pequeña librería para hacer APIs REST y aplicaciones web basado en [[http://werkzeug.pocoo.org/|Werkzeug]]
 
  * [[http://www.nsis.com.ar/public/wiki/PyAfip|PyAfip]]
   * Interfaces y Herramientas relacionadas con la AFIP (Administración Federal de Ingresos Públicos)
