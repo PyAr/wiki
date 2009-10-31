@@ -68,6 +68,9 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr, están rela
  * [[http://code.google.com/p/relaxtives/| Relaxtives]]
   * Aplicación específica para escuelas grandes, para administrar las relaciones familiares entre los estudiantes. Indicado para asistentes sociales o equipo social de la escuela.
 
+ * [[http://code.google.com/p/mtvcgui/| mtvcgui]]
+  * Interfaz gráfica para capturar TV utilizando mencoder. Requiere !PyQt4, mencoder y una tarjeta capturadora de TV ;).
+
 <<BR>>
 ----
  <<Navigation(children, 1)>> 
