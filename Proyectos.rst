@@ -62,6 +62,12 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr, están rela
  * [[http://rst2pdf.googlecode.com| Rst2Pdf]]
   * Una herramienta para convertir Restructured Text a PDF (se usó para el Tutorial de Python)
 
+ * [[http://trac.usla.org.ar/proyectos/sanca| SancaBase]]
+  * Herramienta desarrollada en wxPython para administrar un centro de Formación Profesional o un establecimiento educativo.
+
+ * [[http://code.google.com/p/relaxtives/| Relaxtives]]
+  * Aplicación específica para escuelas grandes, para administrar las relaciones familiares entre los estudiantes. Indicado para asistentes sociales o equipo social de la escuela.
+
 <<BR>>
 ----
  <<Navigation(children, 1)>> 
