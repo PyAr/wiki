@@ -4,7 +4,7 @@ Esta lista es para hacer una petición mas "ordenada" de las personas que quiere
 Escribí tu nombre acá y pronto te harán llegar una invitación:
 
 || Nombre y Apellido || propósito de tu cuenta WAVE (estudio, desarrollo, bugs, diversión, otros especificar) ||
-|| Xavier Lesa || desarrollo, estudio, diversión ||
+|| XavierLesa || desarrollo, estudio, diversión ||
 || AlbertoPaparelli || desarrollo, estudio, diversión ||
 || MarceloFernández || desarrollo, estudio, diversión ||
 
