@@ -3,7 +3,7 @@ Esta lista es para hacer una petición mas "ordenada" de las personas que quiere
 
 Escribí tu nombre acá y pronto te harán llegar una invitación:
 
-|| Nombre y Apellido || email || propósito de tu cuenta WAVE (estudio, desarrollo, bugs, diversión, otros especificar) ||
+|| Nombre y Apellido || Email || propósito de tu cuenta WAVE (estudio, desarrollo, bugs, diversión, otros especificar) ||
 || XavierLesa || xavierlesa at gmail dot com || desarrollo, estudio, diversión ||
 || --(AlbertoPaparelli)-- || || --(desarrollo, estudio, diversión)-- Invitado, acordate de quitarte cuando la recibas ||
 || --(MarceloFernández)-- || || --(desarrollo, estudio, diversión)-- Invitado, acordate de quitarte cuando la recibas ||
