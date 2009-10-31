@@ -6,6 +6,6 @@ Escribí tu nombre acá y pronto te harán llegar una invitación:
 || Nombre y Apellido || propósito de tu cuenta WAVE (estudio, desarrollo, bugs, diversión, otros especificar) ||
 || XavierLesa || desarrollo, estudio, diversión ||
 || AlbertoPaparelli || desarrollo, estudio, diversión ||
-|| MarceloFernández || desarrollo, estudio, diversión ||
+|| --(MarceloFernández)-- || --(desarrollo, estudio, diversión)-- Invitado, acordate de quitarte cuando la recibas ||
 
 ''por favor cuando reciban su invitación borrense de la lista, así dejamos dejamos espació para ortos interesados.''
