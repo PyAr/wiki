@@ -14,9 +14,6 @@ Estos son los proyectos encarados ''institucionalmente'' por PyAr:
  * [[/STIM]]
   * Juego que presentamos en PyAr para la segunda edición de !PyWeek
 
- * [[https://opensvn.csie.org/traccgi/PyAr/wiki/WikipediaOffline|WikipediaOffline]]
-  * Una version de la wikipedia en castellano que pueda entrar en un solo CD
-
  * /AlocadoAlocador
   * Juego desarrollado para Pygame.draw 2006
 
@@ -54,7 +51,7 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr, están rela
   * Replicador simple y flexible para PostgreSQL escrito exclusivamente en Python (asincrónico, multimaster limitado, notificaciones por email, etc.)
 
  * [[http://code.google.com/p/cdpedia/|CDPedia]]
-  * Proyecto para compilar una serie de artículos de la wikipedia en un cd autobrowseable.
+  * Proyecto para compilar una serie de artículos de la wikipedia en un cd autobrowseable. [[https://opensvn.csie.org/traccgi/PyAr/wiki/WikipediaOffline|Pag vieja]]
 
  * [[https://edge.launchpad.net/lalita|lalita]]
   * Otro bot de IRC más, con el objetivo de que sea fácil agregar funcionalidad al crear plugins sencillos de escribir.
