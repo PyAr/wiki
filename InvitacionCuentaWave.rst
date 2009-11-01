@@ -9,4 +9,4 @@ Escribí tu nombre acá y pronto te harán llegar una invitación:
 || --(MarceloFernández)-- || || --(desarrollo, estudio, diversión)-- Invitado, acordate de quitarte cuando la recibas ||
 || NestorDanielAltamirano || mrleinad at gmail dot com || desarrollo, estudio, diversión ||
 
-''por favor cuando reciban su invitación borrense de la lista, así dejamos dejamos espació para ortos interesados.''
+''por favor cuando reciban su invitación borrense de la lista, así dejamos dejamos espacio para otros interesados.''
