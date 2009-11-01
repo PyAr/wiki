@@ -15,4 +15,4 @@ Escribí tu nombre acá y pronto te harán llegar una invitación:
 De interés:
 La gente de PyAr que tiene wave está metiéndose en un mismo wave a probar.
 Para sumarse, busquen:
-with:public Wave De PyAr
+"with:public Wave De PyAr"
