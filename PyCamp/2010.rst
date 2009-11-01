@@ -20,17 +20,23 @@
 == Lugares Tentativos ==
 
 === Colonia Zumerland ===
- * ubicación: [[http://en.wikipedia.org/wiki/Mercedes,_Buenos_Aires_Province | Mercedes, Bs. As.]]
- * contacto: leito
+ * de Sholem Buenos Aires
+ * ciudad: [[http://en.wikipedia.org/wiki/Mercedes,_Buenos_Aires_Province | Mercedes, Bs. As.]]
+ * dirección: Ruta 5, KM. 92,5, camino Tomás Jofré, Mercedes, Pcia. de Buenos Aires ([[http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=116816345928629224513.000476efd52f50eb44cc1&ll=-34.667814,-59.352951&spn=0.006786,0.007489&t=h&z=17 | mapa]])
+ * contacto: Leito Monk
  * precio: ???
  * disponibilidad en Marzo 2010: ???
  * fotos: [[http://zumerland.blogspot.com/ | uno]], [[http://www.sholem.org.ar/Sede_zumerland.php | dos]], [[http://www.zumerland.com.ar/ | tres]].
 
-=== hogar escuela ===
- * ubicación: [[http://en.wikipedia.org/wiki/Ver%C3%B3nica,_Buenos_Aires | Verónica, Bs. As.]] 
- * contacto: ricardo kirkner
+=== Hogar Escuela Verónica ===
+ * de la Comunidad de Escuelas Argentino-Alemanas
+ * ciudad: [[http://en.wikipedia.org/wiki/Ver%C3%B3nica,_Buenos_Aires | Verónica, Bs. As.]] 
+ * dirección: Calle 39, Veronica ([[http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=calle+39,+veronica,+buenos+aires&sll=-35.344395,-57.341702&sspn=0.014317,0.023603&ie=UTF8&hq=calle+39,&hnear=Ver%C3%B3nica,+Buenos+Aires,+Argentina&ll=-35.388976,-57.320142&spn=0.003577,0.005901&t=h&z=18 | mapa]])
+ * contacto: Ricardo Kirkner
  * precio: ???
+ * mínimo: 25 personas
  * disponibilidad en Marzo 2010: ???
+ * fotos: [[http://www.agds.org.ar/Veronica/ | acá]]
 
 == Internet ==
 ''a determinar''
