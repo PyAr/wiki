@@ -1,4 +1,6 @@
 = Trabajos con Python =
+ * (02/11/2009) En Lambda Sistemas trabajamos con Python, wxPython, PostgreSQL y diversos frameworks web en Python. Desarrollamos un sistema de gestión para la industria del libro (http://www.fierro-soft.com.ar) y sitios web para este y otros sectores. Estamos en Capital Federal, Villa Crespo. Interesados enviar CV a: rrhh@fierro-soft.com.ar.
+
  * (18/09/2009) CME Argentina SA busca urgente!! Python/C Developers para su oficina en Mendoza. Interesados enviar CV y pretensiones a jobs.argentina@gotocme.com.
  * (22/07/2009) Creciente equipo de desarrollo quiere contactarse con desarrolladores Python(principalmente django) freelance para futuros proyectos. Enviar CV, costo por hora y si tenés alguna muestra de trabajo, tambien. freelance@tribalo.com.ar
 
@@ -21,8 +23,6 @@
  * (17/11/2008) En atommica nos apasionan nuestros proyectos y se nota, pero para poder terminarlos *todos* necesitamos de tu talento. Somos un startup con muchas ideas frezcas, si tenés ganas de aprender (y por qué no, enseñarnos) es tu oportunidad. Mas info en http://atommica.com/jobs.html o mandanos un mail a python@atommica.com
 
  * (22/10/2008) Con Vista Al Mar busca programadores Python con 1 año de experiencia en desarrollo web (Django y frameworks similares). Buen clima de trabajo. Horario: 10hs a 19hs, en Barrio Norte, Capital. Enviar remuneración pretendida y CV a python@convistaalmar.com.ar
-
- * (10/10/2008) En Lambda Sistemas trabajamos con Python, wxPython, PostgreSQL y diversos frameworks web en Python. Desarrollamos un sistema de gestión para la industria del libro (http://www.fierro-soft.com.ar) y sitios web para este y otros sectores. Estamos en Capital Federal, Villa Crespo. Interesados enviar CV a: rrhh@fierro-soft.com.ar
 
  * (13/08/2008) Empresa de hosting está buscando programadores Junior en Python para armar nuevo equipo de desarrollo. Full-Time, 8hrs. en Capital Federal, enviar CV a ivan@reptoland.com
 
