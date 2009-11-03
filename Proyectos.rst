@@ -41,13 +41,13 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr, están rela
 
   * Pequeña librería para hacer APIs REST y aplicaciones web basado en [[http://werkzeug.pocoo.org/|Werkzeug]]
 
- * [[http://www.nsis.com.ar/public/wiki/PyAfip|PyAfip]]
+ * [[http://www.sistemasagiles.com.ar/trac/wiki/PyAfip|PyAfip]]
   * Interfaces y Herramientas relacionadas con la AFIP (Administración Federal de Ingresos Públicos)
    * Servicios web de [[http://www.nsis.com.ar/public/wiki/FacturaElectronica|Factura Electrónica]] (Interfase con otros lenguajes: [[http://groups.google.com.ar/group/pyafipws|PyAfipWs]])
-   * SIAP Libre
-   * Controladores Fiscales
+   * SIAP Libre: [[http://www.sistemasagiles.com.ar/trac/wiki/SiaPy|Prototipo SIAPy]]
+   * Controladores Fiscales: [[http://code.google.com/p/pyfiscalprinter/|PyFiscalPrinter]] (por el momento es un proyecto separado)
 
- * [[http://www.nsis.com.ar/public/wiki/PyReplicaEs|PyReplica]]
+ * [[http://www.sistemasagiles.com.ar/trac/wiki/PyReplicaEs|PyReplica]]
   * Replicador simple y flexible para PostgreSQL escrito exclusivamente en Python (asincrónico, multimaster limitado, notificaciones por email, etc.)
 
  * [[http://code.google.com/p/cdpedia/|CDPedia]]
@@ -73,6 +73,9 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr, están rela
 
  * [[http://code.google.com/p/wozo/| Wozo]]
   * Aplicación para organizar el pedido de comida en empresas u organizaciones donde se come en el lugar.
+
+ * [[http://code.google.com/p/gestionlibre/|Gestión Libre]]
+  * Proyecto para desarrollar un sistema de gestión de código abierto / software libre y sus herramientas relacionadas (diseñador de pantallas, editor de código, acceso a la base de datos, generación de reportes, etc.). 
 
 <<BR>>
 ----
