@@ -71,6 +71,9 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr, están rela
  * [[http://code.google.com/p/mtvcgui/| mtvcgui]]
   * Interfaz gráfica para capturar TV utilizando mencoder. Requiere !PyQt4, mencoder y una tarjeta capturadora de TV ;).
 
+ * [[http://code.google.com/p/wozo/| Wozo]]
+  * Aplicación para organizar el pedido de comida en empresas u organizaciones donde se come en el lugar.
+
 <<BR>>
 ----
  <<Navigation(children, 1)>> 
