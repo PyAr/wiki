@@ -261,3 +261,36 @@ y:
 
  * vas a procesarlo en C porque te importa la velocidad
  * o bien, estas corto de memoria y una lista normal no te entra (pero no te importa la velocidad)
+
+
+=== A veces el "is" me dice una cosa y otras otra, ¿funciona mal? ===
+
+
+"is" no falla, compara si dos objetos son el mismo (no si son iguales).
+
+En algunos casos, ofrece resultado que a primera vista sorprenden...
+
+{{{
+>>> a = 3
+>>> b = 3
+>>> a is b
+True
+}}}
+
+
+En este caso a apunta a un 3 en memoria, y b apunta al mismo 3 en memoria. Python no creó dos objetos "3", sino que usó el mismo para los nombres a y b.
+
+{{{
+>>> a = 500
+>>> b = 500
+>>> a is b
+False
+}}}
+
+Aquí a apunta a un 500 en memoria, y b apunta a otro 500 en memoria. Python sí creó dos objetos "500".
+
+La pregunta es... ¿por qué la diferencia de comportamiento? Python (ojo, ver abajo) precachea (o tiene internalizado) algunos enteros chicos, porque sabe que siempre se van a usar.
+
+Lo mismo sucede con algunos strings muy cortitos.
+
+Pero ojo, que esto sucede con versiones pasadas y actuales de CPython. Es un detalle de implementación, puede cambiar a futuro, y puede no darse en otras implementaciones de Python como Jython o IronPython.
