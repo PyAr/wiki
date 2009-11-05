@@ -41,6 +41,7 @@ Bar del Quijote (Frente a la plaza, se entra por el estacionamiento de atrás).
 
  || Facundo Batista ||
  || Alejandro J. Cura ||
+ || Tomas Zulberti ||
 
 
 
