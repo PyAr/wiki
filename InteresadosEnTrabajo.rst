@@ -21,3 +21,4 @@ Si usted se inscribe acá probablemente reciba emails contactándolo.
 ||[[http://www.estebanfeldman.com/|EstebanFeldman]] ||Sí ||No || ||
 ||[[mailto:ekuber@gmail.com/|EstebanKüber]] || || ||Capital Federal ||
 ||PabloZiliani || || ||o ||
+||[[http://www.l2radamanthys.com.ar/RicardoD.Quiroga]]|| || || ||
