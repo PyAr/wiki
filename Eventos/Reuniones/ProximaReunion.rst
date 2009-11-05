@@ -40,6 +40,7 @@ Bar del Quijote (Frente a la plaza, se entra por el estacionamiento de atrás).
 ''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
 
  || Facundo Batista ||
+ || Alejandro J. Cura ||
 
 
 
