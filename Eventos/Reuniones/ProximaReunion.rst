@@ -20,7 +20,6 @@
  ||Gustavo Tell||
  ||Federico Vincenti||
  ||Orfi Schleppi||
- ||AngelVelasquez||
  ||FabricioDenardi||
  ||EmilianoGilli||
  ||SantiagoBruno||
@@ -47,6 +46,7 @@ Bar del Quijote (Frente a la plaza, se entra por el estacionamiento de atrás).
  || Alejandro J. Cura ||
  || Tomas Zulberti ||
  || Diego Mascialino ||
+ || Angel Velasquez ||
 
 
 
