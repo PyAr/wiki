@@ -21,6 +21,9 @@
  ||Federico Vincenti||
  ||Orfi Schleppi||
  ||AngelVelasquez||
+ ||FabricioDenardi||
+ ||EmilianoGilli||
+
 
 
 ''' Lugar '''
