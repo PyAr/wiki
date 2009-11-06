@@ -20,7 +20,7 @@ Si usted se inscribe acá probablemente reciba emails contactándolo.
 ||WalterAlini ||Sí ||No ||Córdoba, trabajo remotamente ||
 ||[[http://www.estebanfeldman.com/|EstebanFeldman]] ||Sí ||No || ||
 ||[[mailto:ekuber@gmail.com/|EstebanKüber]] || || ||Capital Federal ||
-||PabloZiliani || || ||o ||
+||PabloZiliani || || || ||
 ||[[http://www.l2radamanthys.com.ar|RicardoD.Quiroga]] || || || ||
 ||[[http://www.pguridi.com|Pedro Guridi]] || || ||Capital Federal, trabajo remotamente. ||
 ||Pablo Lerner||Sí || ||Capital Federal||
