@@ -25,3 +25,4 @@ Si usted se inscribe acá probablemente reciba emails contactándolo.
 ||[[http://www.pguridi.com|Pedro Guridi]] || || ||Capital Federal, trabajo remotamente. ||
 ||Pablo Lerner||Sí || ||Capital Federal||
 ||AlbertoPaparelli|| || ||Capital Federal, GBA Zona Sur||
+||MartinAlderete ||Sí ||No ||Trabajo remotamente||
