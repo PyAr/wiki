@@ -24,3 +24,4 @@ Si usted se inscribe acá probablemente reciba emails contactándolo.
 ||[[http://www.l2radamanthys.com.ar|RicardoD.Quiroga]] || || || ||
 ||[[http://www.pguridi.com|Pedro Guridi]] || || ||Capital Federal, trabajo remotamente. ||
 ||Pablo Lerner||Sí || ||Capital Federal||
+||AlbertoPaparelli|| || ||Capital Federal, GBA Zona Sur||
