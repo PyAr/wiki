@@ -1,6 +1,6 @@
 = Interesados en recibir ofertas de trabajo utilizando Python =
 Si usted se inscribe acá probablemente reciba emails contactándolo.
-||'''Quien''' ||'''Sólo Freelance''' ||'''Sólo Rel. de Dependencia''' ||'''Unicamente en''' ||
+||<tablestyle="width: 867px; height: 734px;">'''Quien''' ||'''Sólo Freelance''' ||'''Sólo Rel. de Dependencia''' ||'''Unicamente en''' ||
 ||AlejandroDavidWeil || || ||Cap. Federal y Gran Buenos Aires ||
 ||DanielMoisset ||Sí ||No ||Córdoba, trabajo remotamente ||
 ||FacundoBatista || || || ||
@@ -21,4 +21,7 @@ Si usted se inscribe acá probablemente reciba emails contactándolo.
 ||[[http://www.estebanfeldman.com/|EstebanFeldman]] ||Sí ||No || ||
 ||[[mailto:ekuber@gmail.com/|EstebanKüber]] || || ||Capital Federal ||
 ||PabloZiliani || || ||o ||
-||[[http://www.l2radamanthys.com.ar|RicardoD.Quiroga]]|| || || ||
+||[[http://www.l2radamanthys.com.ar|RicardoD.Quiroga]] || || || ||
+||[[http://www.pguridi.com|Pedro Guridi]] || || ||Capital Federal, trabajo remotamente. ||
+
+
