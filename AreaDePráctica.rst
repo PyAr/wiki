@@ -1,9 +1,15 @@
-== Quiero una invitación para Google WAVE! ==
-Esta lista es para hacer una petición mas "ordenada" de las personas que quieren invitaciones para Google WAVE
+##master-page:CategoryTemplate
+##master-date:Unknown-Date
+#format wiki
+#language en
 
-Escribí tu nombre acá y pronto te harán llegar una invitación:
+Describe the pages in this category... 
 
-|| Nombre y Apellido || propósito de tu cuenta WAVE (estudio, desarrollo, bugs, diversión, otros especificar) ||
-|| Xavier Lesa || desarrollo, estudio, diversión ||
+To add a page to this category, add a link to this page on the last line of the page. You can add multiple categories to a page.
 
-''por favor cuando reciban su invitación borrense de la lista, así dejamos dejamos espació para ortos interesados.''
+'''List of pages in this category:'''
+
+<<FullSearchCached(category:AreaDePráctica)>>
+
+----
+CategoryCategory
