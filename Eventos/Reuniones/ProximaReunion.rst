@@ -52,7 +52,7 @@ Bar del Quijote (Frente a la plaza, se entra por el estacionamiento de atrás).
  || Marcelo Rinesi ||
  || AlbertoPaparelli ||
  || MarceloFernández ||
-
+ || MarianoReingart ||
 
 ''' Lugar '''
 
