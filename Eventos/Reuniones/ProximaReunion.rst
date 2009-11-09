@@ -51,6 +51,7 @@ Bar del Quijote (Frente a la plaza, se entra por el estacionamiento de atrás).
  || Karucha ||
  || Marcelo Rinesi ||
  || AlbertoPaparelli ||
+ || MarceloFernández ||
 
 
 ''' Lugar '''
