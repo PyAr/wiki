@@ -50,7 +50,7 @@ Bar del Quijote (Frente a la plaza, se entra por el estacionamiento de atrás).
  || NubIs ||
  || Karucha ||
  || Marcelo Rinesi ||
-
+ || AlbertoPaparelli ||
 
 
 ''' Lugar '''
