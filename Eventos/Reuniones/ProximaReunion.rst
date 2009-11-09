@@ -53,7 +53,7 @@ Bar del Quijote (Frente a la plaza, se entra por el estacionamiento de atrás).
  || AlbertoPaparelli ||
  || MarceloFernández ||
  || MarianoReingart ||
- || SantiagoPereson || (probablemente)
+ || SantiagoPereson ||
 
 ''' Lugar '''
 
