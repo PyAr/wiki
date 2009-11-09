@@ -49,6 +49,7 @@ Bar del Quijote (Frente a la plaza, se entra por el estacionamiento de atrás).
  || Angel Velasquez ||
  || NubIs ||
  || Karucha ||
+ || Marcelo Rinesi ||
 
 
 
