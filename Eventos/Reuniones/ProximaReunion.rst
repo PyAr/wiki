@@ -5,33 +5,6 @@
 ## no hay reuniones programadas):
 ##
 = Próxima Reunión =
-== Reunión 38 - Sábado 7/11 - Rafaela - 20:00 Hs ==
-'''Temas:'''
-
- * Conocer para que está usando Python cada asistente a la reunión
- * Discutir posibilidad de organizar un PyDay en Rafaela
-
-''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
-
- ||Ariel Rossanigo ||
- ||MarianoReingart ||
- ||JuanFisanotti ||
- ||CesarRoldan||
- ||Gustavo Tell||
- ||Federico Vincenti||
- ||Orfi Schleppi||
- ||FabricioDenardi||
- ||EmilianoGilli||
- ||SantiagoBruno||
- ||LuisVisintini||
- ||MartinBascolo||
-
-''' Lugar '''
-
-Bar del Quijote (Frente a la plaza, se entra por el estacionamiento de atrás).
-(no pongo Cyrano para no confundir con el otro Cyrano del centro :P).
-
-
 == Reunión 39 - Martes 17/11 - Buenos Aires - 19:00 Hs ==
 '''Temas:'''
 
