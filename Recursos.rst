@@ -13,6 +13,13 @@
 
  * ¿De qué forma usamos Python?: Se usa para manipulación de datos. Basicamente se usa para procesar los datos provenientes del campo y de los secuenciadores de ADN y luego para incluirlos en una base de datos de marcadores moleculares. También para algunas aplicaciones web de uso interno (como CGI).
 
+=== Atommica ===
+ * Contacto: <<MailTo(mconte AT atommica DOT com, Martín Conte Mac Donell)>>
+
+ * URL: http://www.atommica.com
+
+ * ¿De qué forma usamos Python?: Tenemos varias plataformas (Server-side) para nuestros juegos multiplayers. No se usa otra cosa que no sea python en este sentido.
+
 === Cyclelogic ===
  * Contacto: [[http://www.mundomobile.com/corpsite/contactoform.php|con este formulario]]
 
