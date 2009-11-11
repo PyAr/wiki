@@ -11,6 +11,7 @@
  * Conclusiones de PyCon 2009
  * ¿PyCamp 2010? ¿PyCon 2010?
  * Como hacer un thread de +150 mails hablando de Python (¿'is == is', o '== is =='?)
+ * Como incentivar el crecimiento del ecosistema de Python en Argentina
  * ...
 
 ''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
@@ -29,6 +30,8 @@
  || SantiagoPereson ||
  || [[DiegoCanizares|Diego Cañizares]] ||
  || GustavoCarmona ||
+ || Lipe ||
+ || Javier Andalia ||
 
 ''' Lugar '''
 
