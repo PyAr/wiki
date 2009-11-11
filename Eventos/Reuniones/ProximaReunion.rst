@@ -27,6 +27,7 @@
  || MarceloFernández ||
  || MarianoReingart ||
  || SantiagoPereson ||
+ || [[DiegoCanizares|Diego Cañizares]] ||
 
 ''' Lugar '''
 
