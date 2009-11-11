@@ -80,6 +80,15 @@
 
  * Desde hace un tiempo también utilizamos [[http://www.edgewall.com/trac|trac]] para la gestión del proyecto, tickets y wiki interno.
 
+=== Livra.com ===
+ * Contacto: <<MailTo(geeks AT livra.com)>>
+
+ * URL: http://ar.livra.com/jobs
+
+ * Utilizamos Python en herramientas internas y servicios de backend, algunas intensivas en cálculos, nada trivial.
+
+ * (algunas) Librerías utilizadas: [[http://numpy.scipy.org/|NumPy/SciPy]].
+
 === LUNIX S.R.L. ===
  * Contacto: <<MailTo(lucas AT lunix DOT com DOT ar, Lucas Di Pentima)>>
 
