@@ -38,6 +38,8 @@
  ||Javier Andalia ||
  ||Claudio Canepa ||
  ||[[SebastianBassi|Sebastian Bassi]] ||
+ ||[[dieresys|Manuel Muradás]] ||
+ ||Adrian Manrique||
 
 
 
