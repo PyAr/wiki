@@ -14,6 +14,8 @@
 
  * Como hacer un thread de +150 mails hablando de Python (¿'is == is', o '== is =='?)
  * Como incentivar el crecimiento del ecosistema de Python en Argentina
+ * Propuesta de nueva lista "inicio" para novatos.
+ * Creación de grupo de trabajo para generación de "contenidos minimos" de Python para eventual certificación.
  * ...
 
 ''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
@@ -35,6 +37,7 @@
  ||Lipe ||
  ||Javier Andalia ||
  ||Claudio Canepa ||
+ ||[[SebastianBassi|Sebastian Bassi]] ||
 
 
 
