@@ -39,7 +39,15 @@
  ||Claudio Canepa ||
  ||[[SebastianBassi|Sebastian Bassi]] ||
  ||[[dieresys|Manuel Muradás]] ||
+ ||Adrián Manrique||
+
+---- /!\ '''Edit conflict - other version:''' ----
+ ||[[dieresys|Manuel Muradás]] ||
  ||Adrian Manrique||
+
+---- /!\ '''Edit conflict - your version:''' ----
+
+---- /!\ '''End of edit conflict''' ----
 
 
 
