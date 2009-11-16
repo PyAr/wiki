@@ -28,7 +28,6 @@
  ||NubIs ||
  ||Karucha ||
  ||Marcelo Rinesi ||
- ||AlbertoPaparelli ||
  ||MarceloFernández ||
  ||MarianoReingart ||
  ||SantiagoPereson ||
