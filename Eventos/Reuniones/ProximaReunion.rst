@@ -42,7 +42,7 @@
  ||Pablo Mouzo||
  ||[[JoaquinSorianello|Joac]]||
  ||[[GabrielGenellina|Gabriel Genellina]]||
- ||[RicardoKirkner|Ricardo Kirkner]||
+ ||RicardoKirkner||
 
 
 ''' Lugar '''
