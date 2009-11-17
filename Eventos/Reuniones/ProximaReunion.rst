@@ -27,7 +27,6 @@
  ||Angel Velasquez ||
  ||NubIs ||
  ||Karucha ||
- ||Marcelo Rinesi ||
  ||MarceloFernández ||
  ||MarianoReingart ||
  ||SantiagoPereson ||
