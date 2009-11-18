@@ -89,3 +89,9 @@ Certificación
 No se llegó a hablar del todo de como fomentar python en las empresas argentinas.
 
 A eso de las 11, la gente se empezó a retirar, algunos quedamos hablando de Traducción, CD-Pedia, Hardware vs Software Libre, el futuro de la web, la velocidad de la luz y telepatía :-)
+
+=== Links a fotos ===
+{{{
+#!html
+<table style="width:194px;"><tr><td align="center" style="height:194px;background:url(http://picasaweb.google.com/s/c/transparent_album_background.gif) no-repeat left"><a href="http://picasaweb.google.com/tenuki/PyArReunion39BuenosAires?feat=embedwebsite"><img src="http://lh4.ggpht.com/_n71k-nBpn7w/SwN9F2fuuBE/AAAAAAAAioY/RiTzu_46_w0/s160-c/PyArReunion39BuenosAires.jpg" width="160" height="160" style="margin:1px 0 0 4px;"></a></td></tr><tr><td style="text-align:center;font-family:arial,sans-serif;font-size:11px"><a href="http://picasaweb.google.com/tenuki/PyArReunion39BuenosAires?feat=embedwebsite" style="color:#4D4D4D;font-weight:bold;text-decoration:none;">PyAr - reunión #39 buenos aires</a></td></tr></table>
+}}}
