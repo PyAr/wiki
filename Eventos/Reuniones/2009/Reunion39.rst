@@ -79,7 +79,7 @@ Lista pyar
  * ¿Somos profesores de lengua?
  * Sacar la lista de decode + karma: pasar a mailman 
 Tutorial de python...
- * Mandar tutoriales a las universidades
+ * Mandar tutoriales a las universidades: Los que sean miembros de alguna comunidad universitaria y puedan hacer llegar el tutorial, por favor [[http://spreadsheets.google.com/viewform?formkey=dG1EQzlLSklnVTdqOXlabEZYUXR3SFE6MA|anotense aca]]
 Certificación
  * ¿Que temas son importantes para un curso de Python? 
  * ¿Como adaptar el plan de estudio académico a Python? 
