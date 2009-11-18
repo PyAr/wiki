@@ -22,7 +22,6 @@
  ||Karucha ||
  ||MarceloFernández ||
  ||MarianoReingart ||
- ||SantiagoPereson ||
  ||[[DiegoCanizares|Diego Cañizares]] ||
  ||GustavoCarmona ||
  ||Lipe ||
