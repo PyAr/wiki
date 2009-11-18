@@ -12,7 +12,7 @@ Comenze a usar Python como Hobby, básicamente para armar scripts administrativo
 
 Actualmente estoy trabajando con un Mix de Python + PyQt + Posgres para crear un sistema de adquisición de datos para PLC (Programable Logic Controler), apoyándome en el protocolo industrial [[http://www.modbus.org|MODBUS TCP/IP]]
 
-El intermedio es una aplicación especifica, y el objetivo final crear un toolkit para crear sistemas SCADA [[http://es.wikipedia.org/wiki/SCADA|SCADA]]
+El intermedio es una aplicación especifica, y el objetivo final crear un toolkit para crear sistemas [[http://es.wikipedia.org/wiki/SCADA|SCADA]]
 
 == Blog ==
 
