@@ -45,6 +45,8 @@ El Bar de siempre, en Medrano y Guardia Vieja.
 
 ''' Minuta '''
 
+Luego de la ronda de introducción y repartija de stickers, anotadores y remeras, se comenzó a discutir los temas planteados:
+
 PyCon 2009:
  * Sponsor en general conformes, para la próxima aclarar que es un evento para programadores.
  * Charlas: 
@@ -62,7 +64,7 @@ PyCamp 2009:
 PyCon 2010:
  * Preguntarle a los cordobeses...
  * ¿Necesitan ayuda?
-Lista python
+Lista pyar
  * is == is? conclusión: esta bien que se armen esos threads! 
  * Recomendaciones de cuando habia 30 personas... (¿Actualizarlas?)
  * PyAr cafe?
@@ -84,5 +86,7 @@ Certificación
  * ¿Como adaptar el plan de estudio académico a Python? 
  * Unificar esfuerzos, ponerse a trabajar
  * Cambiar plan de estudios...
+
+No se llegó a hablar del todo de como fomentar python en las empresas argentinas.
 
 A eso de las 11, la gente se empezó a retirar, algunos quedamos hablando de Traducción, CD-Pedia, Hardware vs Software Libre, el futuro de la web, la velocidad de la luz y telepatía :-)
