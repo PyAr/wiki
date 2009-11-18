@@ -11,29 +11,32 @@
  * Creación de grupo de trabajo para generación de "contenidos minimos" de Python para eventual certificación.
  * ...
 
-''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
+''' Asistentes: ''' Fuimos 24 en esta oportunidad...
 
  ||Facundo Batista ||
  ||Alejandro J. Cura ||
  ||Tomas Zulberti ||
  ||Diego Mascialino ||
- ||Angel Velasquez ||
+ ||Angel Velasquez (primer reunión!)||
  ||NubIs ||
  ||Karucha ||
  ||MarceloFernández ||
  ||MarianoReingart ||
- ||[[DiegoCanizares|Diego Cañizares]] ||
+ ||[[DiegoCanizares|Diego Cañizares]] (primer reunión!)||
  ||GustavoCarmona ||
  ||Lipe ||
- ||Javier Andalia ||
- ||Claudio Canepa ||
+ ||Javier Andalia (primer reunión!) ||
+ ||Claudio Canepa (primer reunión!) ||
  ||[[SebastianBassi|Sebastian Bassi]] ||
  ||[[dieresys|Manuel Muradás]] ||
- ||Adrián Manrique||
- ||Pablo Mouzo||
+ ||Pablo Mouzo  (primer reunión!)||
  ||[[JoaquinSorianello|Joac]]||
- ||[[GabrielGenellina|Gabriel Genellina]]||
- ||RicardoKirkner||
+ || Claudio Cortés (primer reunión!) ||
+ || Carlos Suarez (primer reunión!) ||
+ || Anthony Lenton ||
+ || Tenuki ||
+ || W. Martin Borgert  (primer reunión!) ||
+ || Brad Crittenden (primer reunión!)||
 
 
 ''' Lugar '''
