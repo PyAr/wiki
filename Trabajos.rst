@@ -1,4 +1,5 @@
 = Trabajos con Python =
+ * (19/11/2009) En [[http://www.devsar.com|devsAr]] (La Plata) estamos incorporando desarrolladores python/django en relación de dependencia y freelance. Los interesados completar el formulario en [[http://www.devsar.com/jobs]] o escribir a: rrhh@devsar.com
  * (02/11/2009) En Lambda Sistemas trabajamos con Python, wxPython, PostgreSQL y diversos frameworks web en Python. Desarrollamos un sistema de gestión para la industria del libro (http://www.fierro-soft.com.ar) y sitios web para este y otros sectores. Estamos en Capital Federal, Villa Crespo. Interesados enviar CV a: rrhh@fierro-soft.com.ar.
 
  * (18/09/2009) CME Argentina SA busca urgente!! Python/C Developers para su oficina en Mendoza. Interesados enviar CV y pretensiones a jobs.argentina@gotocme.com.
