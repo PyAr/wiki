@@ -2,9 +2,9 @@
 #format wiki
 == Anthony Lenton ==
 
-Email: <<MailTo(anthony AT SPAMFREE except DOT com DOT ar)>>
+Email: <<MailTo(anthony AT SPAMFREE canonical DOT com)>>
 
-Trabajo en [[http://except.com.ar/|Except]], que es mi propia empresa.  Ahí usamos Python un montón, porque es mejor que la leche condensada.
+Trabajo en Canonical.  Ahí usamos Python un montón, porque es mejor que la leche condensada.
 
 ----
 CategoryHomepage
