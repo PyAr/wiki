@@ -88,6 +88,11 @@ PythonCard: Ejemplo de como hacer una aplicación de escritorio desde 0 (para pr
 === threads ===
 ComunicarThreadsConQueue: ejemplo sobre como comunicar y sincronizar threads usando colas
 
+== Web ==
+=== HTTP servers ===
+ComoLevantarUnServidorHttpSimple: ejemplo sobre como levantar un servidor http que sirva el contenido de un directorio local
+ComoLevantarUnServidorHttpMultithread: ejemplo sobre como levantar un servidor http que sirva el contenido de un directorio local manejando los requests con threads
+
 == Xml ==
 === Xml a Diccionario ===
 [[XmlADiccionario]]: este ejemplo muestra como convertir un string xml en un conjunto de diccionarios y listas anidadas, también provee de dos clases que permiten acceder a los diccionarios y listas como si fueran objetos.
