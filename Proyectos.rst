@@ -17,6 +17,9 @@ Estos son los proyectos encarados ''institucionalmente'' por PyAr:
  * /AlocadoAlocador
   * Juego desarrollado para Pygame.draw 2006
 
+ * [[/UnManualEnCadaUniversidad]]
+  * Enviar un manual de Python a cada Universidad Argentina.
+
 == Trac y SVN ==
 Abrimos un [[https://opensvn.csie.org/traccgi/PyAr/|Trac de Proyectos]] para poner los proyectos de aquí al futuro y que nuestra vida sea mas sencilla. La direccion del svn de este trac es: https://opensvn.csie.org/PyAr/ Si necesitas pedir un usuario para el trac/svn solicitalo en la lista.
 
