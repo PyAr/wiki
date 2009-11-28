@@ -127,3 +127,10 @@ MarianoReingart
  * [[http://docs.google.com/present/view?id=dd9bm82g_112fz9kfmzq|Parte 7a]]: Desarrollo WEB con Django
  * [[http://docs.google.com/present/view?id=dd9bm82g_404c5v965c6|Parte 7b]]: Desarrollo WEB con Web2Py
  * [[http://docs.google.com/present/view?id=dd9bm82g_125fp6377hd|Parte 8]]: Resúmen Python 3000
+
+----
+== Pythonificandose desde .Net ==
+
+JuanFisanotti
+
+'''Slides:''' [[http://docs.google.com/present/view?id=ddfg8qh9_92c6996nhh]]
