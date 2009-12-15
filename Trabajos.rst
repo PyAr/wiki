@@ -1,4 +1,8 @@
 = Trabajos con Python =
+
+ * (15/12/2009) En [[http://www.equiposcreativos.com | Equipos Creativos] (Córdoba) estamos creando un sistema de generacion de contenido automatico. Para ello, buscamos un programador Python con conocimientos en aprendizaje automático, manejo de probabilidades y/o procesamiento del lenguaje natural. Interesados enviar email a rrhh@equiposcreativos.com
+
+
  * (19/11/2009) En [[http://www.devsar.com|devsAr]] (La Plata) estamos incorporando desarrolladores python/django en relación de dependencia y freelance. Los interesados completar el formulario en [[http://www.devsar.com/jobs]] o escribir a: rrhh@devsar.com
  * (02/11/2009) En Lambda Sistemas trabajamos con Python, wxPython, PostgreSQL y diversos frameworks web en Python. Desarrollamos un sistema de gestión para la industria del libro (http://www.fierro-soft.com.ar) y sitios web para este y otros sectores. Estamos en Capital Federal, Villa Crespo. Interesados enviar CV a: rrhh@fierro-soft.com.ar.
 
