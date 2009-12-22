@@ -1,5 +1,9 @@
 = Trabajos con Python =
 
+ * (22/12/2009)  * En el Ministerio de Salud de la Ciudad de Buenos Aires, estamos necesitando programadores python y php para mantenimiento de proyectos existentes y creación de nuevos. Los desarrollos son varios y están armados en Python(Wxpython, GTK y Django) gran parte de las aplicaciones están también desarrolladas en PHP. Usamos bases de datos Mysql y Postgresql, y Debian/Ubuntu como sistemas operativos. El horario de trabajo es de 6 horas (en general +1 de almuerzo) y es
+flexible. Como condición es necesario ser monotributista. Interesados enviar email a dgasis.gcba@gmail.com
+
+
  * (15/12/2009) En [[http://www.equiposcreativos.com | Equipos Creativos] (Córdoba) estamos creando un sistema de generacion de contenido automatico. Para ello, buscamos un programador Python con conocimientos en aprendizaje automático, manejo de probabilidades y/o procesamiento del lenguaje natural. Interesados enviar email a rrhh@equiposcreativos.com
 
 
