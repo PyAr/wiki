@@ -21,12 +21,14 @@
 
 '''Acciones a tomar decididas en esa reunión'''
 
- * Hablar con la universidad por la fecha, certificados y por sponsorship: Ariel
+ * Hablar con la universidad por la fecha, certificados, sponsorship y seguridad: Ariel
  * Armar encuestas: Luis, Orfi, Tipo
  * Hablar con MSA por sponsorship: Orfi, Emi
  * Hablar con Cámara por sponsorship: Fisa
  * Hacer la Wiki: Fisa
  * Organizar tema wifi: Cesar
+ * Conseguir diseño del folleto: Fisa
+ * Averiguar por impresión del folleto: Luis
 
 '''Temas tratados:'''
 
@@ -44,6 +46,8 @@ Si la universidad acepta y puede, la fecha decidida sería el 23/04/2010.
 Motivos: nos daría tiempo suficiente para los detalles que se organizan desde el inicio de clases (por ejemplo: encuesta de posibles asistentes), y con suficiente distancia con las exámenes, para no perder público.
 
 Si no se puede conseguir esa fecha, otra posible sería el 17/04/2010.
+
+Averiguar las fechas de la PyWeek, para que no coincidan.
 
 ==== Encuesta previa ====
 
@@ -117,6 +121,14 @@ Podríamos hacer un call for charlas, o definir un poco más antes los temas y v
 
 Vamos a tener que armar algo nosotros para proveer conectividad a internet en el evento, porque el wifi de la universidad anda mal y tiene filtrado por MAC.
 
+==== Folletería ====
+
+Se podría hacer algo simple, específico del evento. También se les puede permitir a los sponsors agregar sus folletos propios.
+
+==== Seguridad ====
+
+Habría que averiguar las cuestiones legales por si llega a pasar un accidente o algo, por las dudas.
+
 ==== Wiki ====
 
 Habría que armar una wiki adentro de PyAr para organizarlos (oh, meta!).
@@ -124,3 +136,11 @@ Habría que armar una wiki adentro de PyAr para organizarlos (oh, meta!).
 ==== Coordinador general ====
 
 Ariel queda designado democráticamente como el coordinador general del evento.
+
+==== Comida y Kiosko ====
+
+Tendríamos que asegurarnos de que haya algo abierto cerca donde vendan comida y bebida. Se le podría proponer a la gente de la cantina de la universidad para que abran ese sábado, o ver en los alrededores qué hay disponible.
+
+==== Sociales ====
+
+Habría que pensar en hacer un asado o algo el día siguiente, con organizadores y disertantes.
