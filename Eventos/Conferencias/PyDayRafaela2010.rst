@@ -5,16 +5,28 @@
 === Reunión 1 ===
 
 '''Fecha''': 23/12/2009
-'''Asistentes''': María Orfilia Schleppi, Emiliano Gili, Martín Báscolo, Luis Visintini, César Roldán, Fabricio Denardi, Gustavo Tell, Juan Fisanotti, Ariel Rossanigo.
+
+'''Asistentes''': 
+
+ * María Orfilia Schleppi
+ * Emiliano Gili
+ * Martín Báscolo
+ * Luis Visintini
+ * César Roldán
+ * Fabricio Denardi
+ * Gustavo Tell
+ * Juan Fisanotti
+ * Ariel Rossanigo.
 
 
 '''Acciones a tomar decididas en esa reunión'''
-* Hablar con la universidad por la fecha, certificados y por sponsorship: Ariel
-* Armar encuestas: Luis, Orfi, Tipo
-* Hablar con MSA por sponsorship: Orfi, Emi
-* Hablar con Cámara por sponsorship: Fisa
-* Hacer la Wiki: Fisa
-* Organizar tema wifi: Cesar
+
+ * Hablar con la universidad por la fecha, certificados y por sponsorship: Ariel
+ * Armar encuestas: Luis, Orfi, Tipo
+ * Hablar con MSA por sponsorship: Orfi, Emi
+ * Hablar con Cámara por sponsorship: Fisa
+ * Hacer la Wiki: Fisa
+ * Organizar tema wifi: Cesar
 
 '''Temas tratados:'''
 
@@ -94,7 +106,7 @@ Algunas posibles:
 
 Ver temas en:
   * Página de Python Santa Fe ([[http://www.pythonsantafe.com.ar/|aquí]])
-  * Sección de charlas del sitio de PyAr ([[/Charlas|aquí]])
+  * Sección de charlas del sitio de pyar ([[Charlas|aquí]])
 
 ==== Disertantes ====
 
