@@ -9,7 +9,7 @@
 '''Asistentes''': 
 
  * María Orfilia Schleppi
- * Emiliano Gili
+ * Emiliano Gilli
  * Martín Báscolo
  * Luis Visintini
  * César Roldán
