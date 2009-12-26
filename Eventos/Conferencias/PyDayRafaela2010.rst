@@ -42,7 +42,7 @@ Pero pensamos que no sería un lugar cómodo para un día completo de charlas, y
 
 ==== Fecha ====
 
-Si la universidad acepta y puede, la fecha decidida sería el 23/04/2010.
+Si la universidad acepta y puede, la fecha decidida sería el 24/04/2010.
 Motivos: nos daría tiempo suficiente para los detalles que se organizan desde el inicio de clases (por ejemplo: encuesta de posibles asistentes), y con suficiente distancia con las exámenes, para no perder público.
 
 Si no se puede conseguir esa fecha, otra posible sería el 17/04/2010.
