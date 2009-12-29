@@ -1,18 +1,16 @@
 = Trabajos con Python =
 
+ * (29/12/2009) [[http://www.msa.com.ar|MSA]] busca ampliar su equipo de desarrollo, el cual tendrá a cargo un proyecto muy interesante con tecnologías Web y Open Source, como Python y Linux. Son deseables conocimientos de Desarrollo Web, PostgreSQL, PyGTK y SQL. Buscamos gente proactiva, con habilidades autodidactas y afinidad al Software Libre, dentro del área de Capital Federal, al menos mientras dure el "start-up" del proyecto. Si pensás que puede interesarte la propuesta, no dejes de comunicarte con nosotros vía mail con el CV y/o pretensiones a rrhh@msa.com.ar.
+
  * (22/12/2009)  * En el Ministerio de Salud de la Ciudad de Buenos Aires, estamos necesitando programadores python y php para mantenimiento de proyectos existentes y creación de nuevos. Los desarrollos son varios y están armados en Python(Wxpython, GTK y Django) gran parte de las aplicaciones están también desarrolladas en PHP. Usamos bases de datos Mysql y Postgresql, y Debian/Ubuntu como sistemas operativos. El horario de trabajo es de 6 horas (en general +1 de almuerzo) y es flexible. Como condición es necesario ser monotributista. Interesados enviar email a dgasis.gcba@gmail.com
 
-
  * (15/12/2009) En [[http://www.equiposcreativos.com | Equipos Creativos] (Córdoba) estamos creando un sistema de generacion de contenido automatico. Para ello, buscamos un programador Python con conocimientos en aprendizaje automático, manejo de probabilidades y/o procesamiento del lenguaje natural. Interesados enviar email a rrhh@equiposcreativos.com
-
 
  * (19/11/2009) En [[http://www.devsar.com|devsAr]] (La Plata) estamos incorporando desarrolladores python/django en relación de dependencia y freelance. Los interesados completar el formulario en [[http://www.devsar.com/jobs]] o escribir a: rrhh@devsar.com
  * (02/11/2009) En Lambda Sistemas trabajamos con Python, wxPython, PostgreSQL y diversos frameworks web en Python. Desarrollamos un sistema de gestión para la industria del libro (http://www.fierro-soft.com.ar) y sitios web para este y otros sectores. Estamos en Capital Federal, Villa Crespo. Interesados enviar CV a: rrhh@fierro-soft.com.ar.
 
  * (18/09/2009) CME Argentina SA busca urgente!! Python/C Developers para su oficina en Mendoza. Interesados enviar CV y pretensiones a jobs.argentina@gotocme.com.
  * (22/07/2009) Creciente equipo de desarrollo quiere contactarse con desarrolladores Python(principalmente django) freelance para futuros proyectos. Enviar CV, costo por hora y si tenés alguna muestra de trabajo, tambien. freelance@tribalo.com.ar
-
- * (02/06/2009) [[http://www.msa.com.ar|MSA]] está buscando incorporar programadores Python con al menos un año de experiencia y manejo fluido en ambientes Linux. Son deseables conocimientos de PyGTK, Desarrollo Web y PostgreSQL. Interesados enviar un mail con el CV y pretensiones a rrhh@msa.com.ar .
 
  * (11/05/2009) La Facultad de Medicina incorporara 1 (un) programador Python, para programar en entornos web. Es necesario tener conocimientos de PostgreSQL y Linux (basico). Horario: 5 horas diarias, de lunes a viernes (horario a convenir). Salario ofrecido: $1800.- Debe ser monotributista. Interesados enviar CV a empleos@fmed.uba.ar
 
