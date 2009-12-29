@@ -6,9 +6,9 @@
  * --(elegir fecha:)-- 5 al 8 de Marzo
  * --(conseguir internet:)-- 1Mbps
  * --(efectuar reserva)--
- * invitar a la gente
+ * --(invitar a la gente)--
  * averiguar si tienen modem con ethernet o usb
- * confirmar reserva
+ * --(confirmar reserva)--
  * visita de reconocimiento
  * conseguir equipamiento wireless
  * conseguir zapatillas y etcéteras
