@@ -6,13 +6,13 @@
  * --(elegir fecha:)-- 5 al 8 de Marzo
  * --(conseguir internet:)-- 1Mbps
  * --(efectuar reserva:)-- depositado el adelanto
- * --(invitar a la gente)-- mandado el mail de invitación
+ * --(invitar a la gente:)-- mandado el mail de invitación
  * averiguar si tienen modem con ethernet o usb
- * --(confirmar reserva)-- confirmado el adelanto por parte de margarita
+ * --(confirmar reserva:)-- confirmado el adelanto por parte de margarita
  * visita de reconocimiento
  * conseguir equipamiento wireless
  * conseguir zapatillas y etcéteras
- * armar mail de "confirmar reserva"
+ * armar mail de reserva adelantada
 
 == Fecha ==
  * 5 al 8 de Marzo, 2010.
