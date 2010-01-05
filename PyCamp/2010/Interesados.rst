@@ -6,3 +6,4 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
  * Alejandro J. Cura
  * Facundo Batista
  * Alberto Paparelli
+ * Juan Fisanotti (con intención, pero depende del trabajo)
