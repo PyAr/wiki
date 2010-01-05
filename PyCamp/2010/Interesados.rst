@@ -5,3 +5,4 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
  * Joaquín Sorianello
  * Lucio Torre
  * Alejandro J. Cura
+ * Facundo Batista
