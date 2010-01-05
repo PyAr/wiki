@@ -7,3 +7,4 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
  * Facundo Batista
  * Alberto Paparelli
  * Juan Fisanotti (con intención, pero depende del trabajo)
+ * JuanjoConti
