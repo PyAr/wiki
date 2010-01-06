@@ -17,3 +17,4 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
  * RicardoKirkner
  * DanielMoisset
  * NicoEchániz
+ * Nicolás Miyasato (Depende del laburo)
