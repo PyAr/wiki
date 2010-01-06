@@ -15,3 +15,4 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
  * AlejandroSantos
  * HernanOlivera
  * RicardoKirkner
+ * DanielMoisset
