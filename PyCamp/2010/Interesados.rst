@@ -18,3 +18,4 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
  * DanielMoisset
  * NicoEchániz
  * Nicolás Miyasato (Depende del laburo)
+ * ManuelQuiñones
