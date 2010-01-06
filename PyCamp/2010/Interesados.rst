@@ -11,3 +11,4 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
  * Tomas Zulberti
  * Sebastian M. Alvarez (si me dan los días en el laburo)
  * [[dieresys|Manuel Muradás]] (probablemente de Viernes a Domingo)
+ * Pablo Mouzo
