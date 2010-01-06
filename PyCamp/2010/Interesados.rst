@@ -13,3 +13,4 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
  * [[dieresys|Manuel Muradás]] (probablemente de Viernes a Domingo)
  * Pablo Mouzo
  * AlejandroSantos
+ * HernanOlivera
