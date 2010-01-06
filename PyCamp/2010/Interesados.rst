@@ -14,3 +14,4 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
  * Pablo Mouzo
  * AlejandroSantos
  * HernanOlivera
+ * RicardoKirkner
