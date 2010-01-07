@@ -26,4 +26,4 @@ Si usted se inscribe acá probablemente reciba emails contactándolo.
 ||Pablo Lerner||Sí || ||Capital Federal||
 ||AlbertoPaparelli|| || ||Capital Federal, GBA Zona Sur||
 ||MartinAlderete ||Sí ||No ||Trabajo remotamente||
-||[[mailto:chinomng@gmail.com/|MarianoGalan]] || || ||Santa Fe, trabajo remotamente ||
+||[[mailto:chinomng@gmail.com/|MarianoGalan]] ||Sí ||No ||Santa Fe, trabajo remotamente ||
