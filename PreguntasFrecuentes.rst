@@ -174,13 +174,16 @@ Acceder a bases de datos a traves de Db-Api es relativamente de bajo nivel. Se p
 
 Por el momento no hay ningún concenso en la lista sobre cual es mejor o peor.
 
+También existen librerías para acceso de datos (similar al patron ActiveRecord o librerias DAO/ADO de otras plataformas) que permiten escribir consultas e interactuar con los datos más facilmente (incluso sin usar SQL), sin necesidad de definir un modelo de clases:
+ * [[http://www.web2py.com/examples/default/dal|DAL]]: Capa de Abstracción de Base de Datos (Web2Py)
+
 ==== PlPython: Python dentro de PostgreSQL ====
 La página PlPython contiene un "tutorial" sobre como usar funciones Python dentro de la base de datos relacional PostgreSQL (tanto procedimientos almacenados como triggers/disparadores).
 
 === Programación de interfaces gráficas (toolkits) ===
 La página InterfacesGraficas describe las diversas opciones disponibles en Python: wx, gtk, qt, etc., sus comparaciones, ventajas y desventajas y código de ejemplo.
 
-En el [Recetario] hay ejemplos de como empezar a construir interfaces en python.
+En el [[Recetario]] hay ejemplos de como empezar a construir interfaces en python.
 
 === Programación WEB ===
 ==== Interfaz WSGI ====
@@ -194,7 +197,7 @@ Para construir aplicaciones web complejas en python se pueden usar alguno de los
  * [[http://www.zope.org|Zope]]: el "abuelo" de los frameworks web de python
  * [[http://pylonshq.com|Pylons]]: framework liviano que enfatiza flexibilidad y desarrollo rápido
  * [[http://webpy.org|WebPy]]: framework simple "todo-en-uno" sin dependencias
- * [[http://mdp.cti.depaul.edu/|web2py]]: framework para desarrollos rápidos. De uso simple. Un ejecutable que contiene todo.
+ * [[http://mdp.cti.depaul.edu/|web2py]]: framework para desarrollos rápidos. De fácil aprendizaje y uso simple. Un ejecutable que contiene todo.
 
 ==== Herramientas webs ====
  * [[http://plone.org/|Plone]]: Completo sistema de manejo de contenidos (CMS)
@@ -217,6 +220,7 @@ Las siguientes aplicaciones se pueden ver/probar/evaluar para conocer el lenguaj
 En el ambito local:
 
  * [[http://www.fierro-soft.com.ar|Sistema Fierro]]: sistema de gestión para librerias y editoriales (interfaz wx)
+ * [[http://www.pyafipws.com.ar/pyrece|PyRece]]: aplicativo libre para factura electrónica (interfaz wx mediante PythonCard)
 
 Nota: la lista no pretende ser completa, solo se presentan algunas de las aplicaciones más conocidas, relevantes y/o utilizadas por gran numero de personas.
 
