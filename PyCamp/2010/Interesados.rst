@@ -20,3 +20,4 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
  * Nicolás Miyasato (Depende del laburo)
  * ManuelQuiñones
  * [[MarianoMara|Mariano Mara]]
+ * MarianoReingart (seguramente sábado y domingo)
