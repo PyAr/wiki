@@ -88,7 +88,6 @@ Posibles:
   * Universidad
     Se podría preguntar si pueden ayudar con algo. Dijeron que podrian hacerse cargo de los gastos de la gente de afuera.
 
-Tener en cuenta que la relación entre punto gob y la cámara no es tan buena, por las dudas.
 
 Hay que pensar en qué ofrecerles a cambio. Publicidad en radio? Figurar en los folletos? Carteles? etc.
 
