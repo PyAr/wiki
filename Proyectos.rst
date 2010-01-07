@@ -44,9 +44,9 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr, están rela
 
   * Pequeña librería para hacer APIs REST y aplicaciones web basado en [[http://werkzeug.pocoo.org/|Werkzeug]]
 
- * [[http://www.sistemasagiles.com.ar/trac/wiki/PyAfip|PyAfip]]
+ * [[http://www.pyafipws.com.ar/|PyAfip]]
   * Interfaces y Herramientas relacionadas con la AFIP (Administración Federal de Ingresos Públicos)
-   * Servicios web de [[http://www.nsis.com.ar/public/wiki/FacturaElectronica|Factura Electrónica]] (Interfase con otros lenguajes: [[http://groups.google.com.ar/group/pyafipws|PyAfipWs]])
+   * Servicios web de [[http://www.sistemasagiles.com.ar/public/wiki/FacturaElectronica|Factura Electrónica]] (Interfase con otros lenguajes: [[http://www.sistemasagiles.com.ar/public/wiki/PyAfipWs|PyAfipWs]], Aplicativo: [[http://www.sistemasagiles.com.ar/public/wiki/PyRece|PyRece]])
    * SIAP Libre: [[http://www.sistemasagiles.com.ar/trac/wiki/SiaPy|Prototipo SIAPy]]
    * Controladores Fiscales: [[http://code.google.com/p/pyfiscalprinter/|PyFiscalPrinter]] (por el momento es un proyecto separado)
 
