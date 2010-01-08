@@ -10,8 +10,10 @@
  * averiguar si tienen modem con ethernet o usb
  * --(confirmar reserva:)-- confirmado el adelanto por parte de margarita
  * visita de reconocimiento
- * conseguir equipamiento wireless
+ * conseguir equipamiento wireless:
+        JoaquinSorianello tiene un router Dir300 con ddwrt que funciona 100/100 y lo puede llevar
  * conseguir zapatillas y etcéteras
+        Estan Disponibles las zapatillas de la Pycon, son 4 y las tiene Karucha
  * armar mail de reserva adelantada
 
 == Fecha ==
