@@ -21,3 +21,4 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
  * ManuelQuiñones
  * [[MarianoMara|Mariano Mara]]
  * MarianoReingart (seguramente sábado y domingo)
+ * AnthonyLenton
