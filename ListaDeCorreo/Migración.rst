@@ -1,6 +1,6 @@
 = Migrando la lista de correo =
 
- 1. Levantar nueva lista en usla, <<MailTo(pyar AT python DOT org DOT ar)>>
+ 1. --(Levantar nueva lista en usla, <<MailTo(pyar AT python DOT org DOT ar)>>)--
  1. Suscribir los admins a la lista nueva y empezar a probar desde todos los webmails más usados (contar en la lista de suscriptores cuales son!)
  1. Suscribir a todos a la lista nueva y en el mail de bienvenida informar la nueva dirección. Recordar que actualicen sus reglas de filtrado.
  1. Revisar que sigan funcionando los archivos que están suscriptos a la lista (grulic, gmane, etc)
