@@ -5,7 +5,7 @@
  1. empezar a probar desde todos los webmails más usados (contar en la lista de suscriptores cuales son!)
   * el top es (--(probados)--):
    * 0545 --(gmail.com)--
-   * 0024 --(yahoo.com.ar)--
+   * 0024 --(yahoo.com.ar)-- yahoo.com.ar anda, aunque manda todo a la carpeta de spam :-(
    * 0012 --(hotmail.com)--
    * 0004 ciudad.com.ar
    * 0004 yahoo.com
