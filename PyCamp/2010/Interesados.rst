@@ -1,24 +1,25 @@
 = Interesados en asistir a PyCamp 2010 =
 Para estimar mejor la cantidad de asistentes, por favor anótense en esta página todos los que tengan intención de participar en esta edición del PyCamp.
-
+Por favor, alfabético por apellido. Locale es_AR
+ * Sebastian M. Alvarez (si me dan los días en el laburo)
+ * Facundo Batista
+ * JuanjoConti
+ * Alejandro J. Cura
+ * NicoEchániz
+ * Juan Fisanotti (con intención, pero depende del trabajo)
+ * RicardoKirkner
+ * AnthonyLenton
+ * [[MarianoMara|Mariano Mara]]
+ * Nicolás Miyasato (Depende del laburo)
+ * DanielMoisset
+ * Pablo Mouzo
+ * [[dieresys|Maunuel Muradás]] (probablemente de Viernes a Domingo)
+ * HernanOlivera
+ * Alberto Paparelli
+ * ManuelQuiñones
+ * MarianoReingart (seguramente sábado y domingo)
+ * HectorSanchez
+ * AlejandroSantos
  * [[JoaquinSorianello|Joaquín Sorianello]]
  * Lucio Torre
- * Alejandro J. Cura
- * Facundo Batista
- * Alberto Paparelli
- * Juan Fisanotti (con intención, pero depende del trabajo)
- * JuanjoConti
  * Tomas Zulberti
- * Sebastian M. Alvarez (si me dan los días en el laburo)
- * [[dieresys|Manuel Muradás]] (probablemente de Viernes a Domingo)
- * Pablo Mouzo
- * AlejandroSantos
- * HernanOlivera
- * RicardoKirkner
- * DanielMoisset
- * NicoEchániz
- * Nicolás Miyasato (Depende del laburo)
- * ManuelQuiñones
- * [[MarianoMara|Mariano Mara]]
- * MarianoReingart (seguramente sábado y domingo)
- * AnthonyLenton
