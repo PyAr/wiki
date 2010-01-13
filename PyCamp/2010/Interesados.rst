@@ -23,3 +23,4 @@ Por favor, alfabético por apellido. Locale es_AR
  * [[JoaquinSorianello|Joaquín Sorianello]]
  * Lucio Torre
  * Tomas Zulberti
+ * HugoRuscitti
