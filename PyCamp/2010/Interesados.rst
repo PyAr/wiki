@@ -24,3 +24,4 @@ Por favor, alfabético por apellido. Locale es_AR
  * Lucio Torre
  * Tomas Zulberti
  * HugoRuscitti
+ * Claudio Canepa (a confirmar a mediados de febrero)
