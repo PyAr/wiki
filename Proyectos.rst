@@ -53,7 +53,7 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr, están rela
  * [[http://www.sistemasagiles.com.ar/trac/wiki/PyReplicaEs|PyReplica]]
   * Replicador simple y flexible para PostgreSQL escrito exclusivamente en Python (asincrónico, multimaster limitado, notificaciones por email, etc.)
 
- * [[http://code.google.com/p/cdpedia/|CDPedia]]
+ * [[http://python.org.ar/pyar/Proyectos/CDPedia|CDPedia]]
   * Proyecto para compilar una serie de artículos de la wikipedia en un cd autobrowseable. [[https://opensvn.csie.org/traccgi/PyAr/wiki/WikipediaOffline|Pag vieja]]
 
  * [[https://edge.launchpad.net/lalita|lalita]]
