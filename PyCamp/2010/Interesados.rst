@@ -26,3 +26,4 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
  * [[JoaquinSorianello|Joaquín Sorianello]]
  * Lucio Torre
  * Tomas Zulberti
+ * SantiagoSuarezO
