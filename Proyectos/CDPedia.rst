@@ -15,7 +15,9 @@ Por último, te recomendamos que copies estos discos y los regales a tus amigos,
 
 Podés descargarla de los siguientes enlaces:
 
-* FIXME!
+ * http://www.taniquetil.com.ar/facundo/CDPedia-CD-0.6.torrent
+
+ * http://www.taniquetil.com.ar/facundo/CDPedia-DVD-0.6.torrent
 
 
 == ¿Cómo la uso? ==
