@@ -13,11 +13,13 @@ Por último, te recomendamos que copies estos discos y los regales a tus amigos,
 
 == ¿Dónde la consigo? ==
 
-Podés descargarla de los siguientes enlaces:
+Los siguientes son los archivos .torrent para descargar cada versión de la CDPedia por este medio.
 
  * http://www.taniquetil.com.ar/facundo/CDPedia-CD-0.6.torrent
 
  * http://www.taniquetil.com.ar/facundo/CDPedia-DVD-0.6.torrent
+
+Si no tienes un cliente de Torrent instalado, puedes instalarte [[http://deluge-torrent.org/|este]] para Linux, Mac o Windows (más info sobre torrentes [[http://es.wikipedia.org/wiki/BitTorrent_%28protocolo%29|aquí]]).
 
 
 == ¿Cómo la uso? ==
