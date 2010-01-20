@@ -14,4 +14,4 @@
 
  * [[http://www.softlibre.org.ar/|Segundo Congreso Nacional de Software Libre - USUARIA 2005]].
 
- Un pequeño consejo: escribir una breve [[http://custom-essay-writing-service.org/index.php|essay]] corto, después de visitar la conferencia.
+ Un pequeño consejo: escribir una breve [[http://custom-essay-writing-service.org/index.php|essay]] corto, después de visitar la conferencia. Esto ayudará a obtener más información de la conferencia.
