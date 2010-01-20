@@ -273,7 +273,7 @@ Más info, aquí http://ar.pycon.org/2009/conference/proposals/
  * Realizamos la decimocuarta reunión de PyAr que fué todo un éxito, si te la perdiste, podés ver un resumen en [[Eventos/Reuniones/Reunion14]]
 
 ==== 01/03/2006 ====
- * '''¡Sorteo!''' FacundoBatista está trayendo algo de ''merchandising'' oficial de !PyCon 2005 y 2006 desde Dallas, y lo vamos a sortear en la [[Eventos/Reuniones/ProximaReunion|próxima reunión]]. Los detalles se discutieron durante los últimos días en la ListaDeCorreo. El sorteo se realizará entre aquellas personas suscriptas a dicha lista, __que enviaron al menos un mensaje dentro de los 120 días anteriores al 26/02/2006__ (que fue el día que Facundo propuso el sorteo). Trataremos de organizar este tipo de sorteos periódicamente, y con ellos, fomentar una participación más activa en PyAr.
+ * '''¡Sorteo!''' FacundoBatista está trayendo algo de ''merchandising'' oficial de !PyCon 2005 y 2006 desde Dallas, y lo vamos a sortear en la [[Eventos/Reuniones/ProximaReunion|próxima reunión]]. Los detalles se discutieron durante los últimos días en la ListaDeCorreo. El sorteo se realizará entre aquellas personas suscriptas a dicha lista, __que enviaron al menos un mensaje dentro de los 120 días anteriores al 26/02/2006__ (que fue el día que Facundo propuso el sorteo). Trataremos de organizar este tipo de sorteos periódicamente, y con ellos, fomentar una participación más activa en PyAr. No es necesario tener una buena [[http://cvresumewritingservices.org/|resume]] a participar en ella.
 
 ==== 24/02/2006 ====
  * Estamos planificando la reunión 14. Fecha y lugar __tentativos__: 08/03/2006, Hip Bar. Ya está habilitada la página [[Eventos/Reuniones/ProximaReunion]] para que te anotes y colabores en el temario.
