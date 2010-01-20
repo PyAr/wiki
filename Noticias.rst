@@ -20,7 +20,7 @@
 ## ULTIMAS_START
 
 
-==== 19/01/2009 ====
+==== 19/01/2010 ====
 
 Python Argentina se enorgullece de anunciar la versión 0.6 de la CDPedia.  Esta versión fue entregada a Educ.ar con vistas a la distribución en escuelas del todo el país, y ya está disponible para la descarga pública.
 
