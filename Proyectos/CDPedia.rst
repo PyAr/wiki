@@ -33,4 +33,4 @@ Esta versión funciona en Linux, Mac o Windows, sin tener que instalar ningún s
 
 El proyecto está [[http://code.google.com/p/cdpedia/|hosteado acá]]. 
 
-Ante cualquier duda, nos podés contactar mandando un mail [[mailto://cdpedia@googlegroups.com|a esta dirección]].
+Ante cualquier duda, nos podés contactar mandando un mail [[mailto:cdpedia@googlegroups.com|a esta dirección]].
