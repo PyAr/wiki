@@ -12,6 +12,7 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
  * RicardoKirkner
  * AnthonyLenton
  * [[MarianoMara|Mariano Mara]]
+ * Diego Mascialino
  * Nicolás Miyasato (Depende del laburo)
  * DanielMoisset
  * Pablo Mouzo
