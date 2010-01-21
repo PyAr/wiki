@@ -13,13 +13,16 @@ Por último, te recomendamos que copies estos discos y los regales a tus amigos,
 
 == ¿Dónde la consigo? ==
 
-Los siguientes son los archivos .torrent para descargar cada versión de la CDPedia por este medio.
+Usando !BitTorrent, mediante alguno de estos archivos .torrent:
 
- * http://www.taniquetil.com.ar/facundo/CDPedia-CD-0.6.torrent
+ * http://www.taniquetil.com.ar/facundo/CDPedia-CD-0.6.torrent [701 MB]
 
- * http://www.taniquetil.com.ar/facundo/CDPedia-DVD-0.6.torrent
+ * http://www.taniquetil.com.ar/facundo/CDPedia-DVD-0.6.torrent [4,3 GB]
 
-Si no tienes un cliente de Torrent instalado, puedes instalarte [[http://deluge-torrent.org/|este]] para Linux, Mac o Windows (más info sobre torrentes [[http://es.wikipedia.org/wiki/BitTorrent_%28protocolo%29|aquí]]).
+
+En caso de que no tengas alguno ya instalado en tu sistema, Wikipedia mantiene una [[http://es.wikipedia.org/wiki/Comparaci%C3%B3n_de_clientes_BitTorrent|lista comparativa de clientes de BitTorrent]]. Para mayor información sobre las generalidades de este protocolo, podés consultar [[http://es.wikipedia.org/wiki/BitTorrent_%28protocolo%29|este artículo]] de la misma fuente.
+
+Tu ayuda es importante: por favor no borres el archivo de la CDPedia un vez finalizada tu descarga. Compartílo para que, como vos, otras personas también puedan bajarlo mientras tu cliente esté conectado a Internet.
 
 
 == ¿Cómo la uso? ==
