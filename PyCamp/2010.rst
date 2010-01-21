@@ -15,6 +15,7 @@
  * conseguir zapatillas y etcéteras
         Estan Disponibles las zapatillas de la Pycon, son 4 y las tiene Karucha
  * armar mail de reserva adelantada
+ * averiguar instalaciones familiares en Verónica (hay departamentitos?)
 
 == Fecha ==
  * 5 al 8 de Marzo, 2010.
