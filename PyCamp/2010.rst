@@ -21,7 +21,7 @@
  * 5 al 8 de Marzo, 2010.
 
 == Sede ==
-<<GoogleMaps(t="h",sll="-35.344395,-57.341702",sspn="0.014317,0.023603",ll="-35.388976,-57.320142",spn="0.003057,0.007398",z=18)>>
+<<GoogleMaps(msa="0",msid="105017401461870163751.00047dff7082962835e7a",t="h",sll="-35.344395,-57.341702",sspn="0.014317,0.023603",ll="-35.388976,-57.320142",spn="0.003057,0.007398",z=17)>>
 === Hogar Escuela Verónica ===
  * de la Comunidad de Escuelas Argentino-Alemanas
  * ciudad: [[http://en.wikipedia.org/wiki/Ver%C3%B3nica,_Buenos_Aires | Verónica, Bs. As.]] 
