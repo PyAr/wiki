@@ -255,7 +255,7 @@ El array de la libreria estandar es un "chorizo" de elementos, todos del mismo t
 
 Extraer un elemento de un array es costoso, porque hay que crear el objeto Python que lo "envuelva", y lo mismo pasa al asignarle un valor a un elemento individual. Así que operar con arrays elemento-a-elemento en Python es mas lento que usar una lista estándar. Los arrays están pensados para usarlos desde código en C (o Numpy, que esta escrito en C); por ejemplo, un array.array("f") se puede pasar a una función en C declarada como "float x[]" o "float *x".
 
-Otra diferencia: array solo puede contener caracteres, números enteros nativos, o números de punto flotante; no objetos. Pero la representación en memoria es mucho mas compacta, cada elemento ocupa sólo lo necesario para guardar su valor y nada más (por ejemplo, 4 bytes para un float vs. 20 que se necesitan en una lista normal [16 para el objeto float de Python y 4 para el puntero en la lista], los tamaños son para Windows 32 bits). Sería ideal para escribir [[http://custom-paper-writing.com/dissertation-services|dissertation]], que incluye toda la información sobre Python.
+Otra diferencia: array solo puede contener caracteres, números enteros nativos, o números de punto flotante; no objetos. Pero la representación en memoria es mucho mas compacta, cada elemento ocupa sólo lo necesario para guardar su valor y nada más (por ejemplo, 4 bytes para un float vs. 20 que se necesitan en una lista normal [16 para el objeto float de Python y 4 para el puntero en la lista], los tamaños son para Windows 32 bits). 
 
 Yo diria que conviene usar un array si:
 
