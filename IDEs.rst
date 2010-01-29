@@ -59,6 +59,27 @@ opinion de un nuevo usuario de geany:
 
 [[http://www.geany.org/]]
 
+=== Editra ===
+
+Editra es un editor de texto multiplataforma con una implementación que se centra en crear una interfaz fácil de usar y características que faciliten el desarrollo de código. Actualmente soporta resaltado de sintaxis y una variedad de otras características muy útiles para mas de 60 lenguajes de programación.
+
+{{{
+fisa dijo:
+
+Al final me quedo con Editra, tiene las cosas que me interesan, y no
+demasiado de lo que no me interesa:
+- aceptablemente rapido
+- se integra con el versionado de codigo
+- autocompletado simple que no molesta
+- consola integrada
+- navegador de codigo (clases, metodos, etc.)
+- multiplataforma (en el trabajo hay windows :( ) y portable (te
+llevas la carpeta y listo, con configuracion y todo si pones adentro
+la .Editra)
+}}}
+
+[[http://editra.org/]]
+
 === WingIDE ===
 
 Bastante completo y multiplataforma, hecho especialmente para python. Tiene versiones comerciales y versiones gratis.
