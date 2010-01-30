@@ -8,6 +8,7 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
  * JuanjoConti
  * Alejandro J. Cura
  * NicoEchániz
+ * Mariano Falcón
  * Juan Fisanotti (con intención, pero depende del trabajo)
  * RicardoKirkner
  * AnthonyLenton
