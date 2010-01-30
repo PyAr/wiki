@@ -19,7 +19,13 @@ Acá van los temas propuestos, con adherentes:
 [[http://code.google.com/p/enjuewemela/|enjuewemela]]: Un juego loco donde un montón de gemas tienden a desaparecer extrañamente siguiendo lo que el usuario hace.
 
  * FacundoBatista
+ * Claudio Canepa
 
 [[http://bitbucket.org/lucio.torre/yacam/|YACAM]]: una plataforma para integrar utilidades CAM en python
 
  * LucioTorre
+
+
+[[http://code.google.com/p/los-cocos|cocos]]: libreria de alto nivel para juegos y multimedia.
+
+ * Claudio Canepa
