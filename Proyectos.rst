@@ -78,7 +78,7 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr, están rela
   * Aplicación para organizar el pedido de comida en empresas u organizaciones donde se come en el lugar.
 
  * [[http://code.google.com/p/gestionlibre/|Gestión Libre]]
-  * Proyecto para desarrollar un sistema de gestión de código abierto / software libre y sus herramientas relacionadas (diseñador de pantallas, editor de código, acceso a la base de datos, generación de reportes, etc.). 
+  * Proyecto para desarrollar un sistema de gestión de código abierto / software libre y sus herramientas relacionadas (diseñador de pantallas, editor de código, acceso a la base de datos, generación de reportes, [[http://cvresumewritingservices.org/|resumes]] etc.). 
 
 <<BR>>
 ----
