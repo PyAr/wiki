@@ -1,6 +1,6 @@
 == Conferencias ==
 
- * [[/PyDayRafaela2010| Python Day Rafaela 2010]], a realizarse el 24 de Abril del 2010, en la ciudad de Rafaela, Santa Fe.
+ * [[/PyDayRafaela2010| Python Day Rafaela 2010]], a realizarse el 08 de Mayo del 2010, en la ciudad de Rafaela, Santa Fe.
 
  * [[http://ar.pycon.org/2009/about/| PyCon Argentina 2009]], realizada 4 y 5 de Septiembre en la Universidad de Belgrano, Buenos Aires. Primer conferencia Python en castellano del mundo.
 
