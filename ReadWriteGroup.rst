@@ -32,7 +32,6 @@
  * HugoRuscitti
  * JavierCastrillo
  * JaviMansilla
- * JoaquinSorianello
  * JohnLenton
  * JorgeChamorro
  * JoseluisDallapiccola
