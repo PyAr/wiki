@@ -10,6 +10,7 @@ Acá van los temas propuestos, con adherentes:
 
  * FacundoBatista
  * JoaquinSorianello
+ * Pablo Mouzo
 
 
 [[https://edge.launchpad.net/lalita|Lalita]]: Un bot de IRC donde agregar nuevas funcionalidades es muy fácil, sólo se necesita escribir un plugin muy sencillo.
