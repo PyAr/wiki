@@ -32,3 +32,4 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
  * [[SantiagoSuarezO|Santiago Suarez Ordoñez]]
  * [[JoseluisDallapiccola|José Luis Dallapiccola]]
  * Luciano Bello
+ * RobertoAllende
