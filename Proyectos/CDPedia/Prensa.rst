@@ -7,3 +7,4 @@
  * Viva Linux!: [[http://www.vivalinux.com.ar/soft/cdpedia-0.6|CDPedia 0.6]]
  * Dominio Digital: [[http://www.dominiodigital.com.ar/novs_noticias.php|Nueva versión de la CDPedia]]
  * WikiNoticias: [[http://es.wikinews.org/wiki/La_Wikipedia_se_distribuir%C3%A1_en_CD_en_Argentina|La Wikipedia se distribuirá en CD en Argentina]]
+ * TechEye: [[http://www.techeye.net/software/cdpedia-wikipedia-on-cd-thanks-to-python|South American project shrinks Wikipedia to a CD]]
