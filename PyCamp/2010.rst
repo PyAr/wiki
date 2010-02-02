@@ -34,6 +34,17 @@
  * Internet: 1 Mbps por ADSL (tienen 256kbps, nosotros tenemos que pagar el upgrade por 2 meses mínimo).
  <<GoogleMaps(msa="0",msid="105017401461870163751.00047dff7082962835e7a",t="h",sll="-35.344395,-57.341702",sspn="0.014317,0.023603",ll="-35.388976,-57.320142",spn="0.003057,0.007398",z=17)>>
 
+==== Como Llegar ====
+===== En Micro =====
+Los Micros a Veronica salen desde la terminal de la ciudad de La Plata.
+
+|| '''IDA'''    ||<-5> '''Todos los Dias'''                  ||
+|| La Plata     || 08:00 || 11:00 || 14:00 || 17:00 || 20:30 ||
+|| Verónica     || 09:45 || 12:45 || 15:45 || 18.45 || 22:15 ||
+|| '''VUELTA''' ||<-5> '''Todos los Dias'''                  ||
+|| Veronica     || 06:00 || 11:00 || 13:50 || 17:30 || 19:45 ||
+|| La Plata     || 07:45 || 12:45 || 15:35 || 19:15 || 21:30 ||
+
 == Asistentes ==
 
  Ver [[PyCamp/2010/Interesados|Interesados]]
