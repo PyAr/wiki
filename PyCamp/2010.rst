@@ -36,7 +36,8 @@
 
 ==== Como Llegar ====
 ===== En Micro =====
-Los Micros a Veronica salen desde la terminal de la ciudad de La Plata.
+Los Micros a Veronica son de la empresa "Expreso La Plata" y salen unicamente desde la terminal de la ciudad de La Plata.
+El Costo del Pasaje es de $17 y se compran en la boleteria Nº 19
 
 || '''IDA'''    ||<-5> '''Todos los Dias'''                  ||
 || La Plata     || 08:00 || 11:00 || 14:00 || 17:00 || 20:30 ||
@@ -45,6 +46,7 @@ Los Micros a Veronica salen desde la terminal de la ciudad de La Plata.
 || Veronica     || 06:00 || 11:00 || 13:50 || 17:30 || 19:45 ||
 || La Plata     || 07:45 || 12:45 || 15:35 || 19:15 || 21:30 ||
 
+Si tu micro te deja en Retiro, Capital Federal, tenes que tomarte 
 == Asistentes ==
 
  Ver [[PyCamp/2010/Interesados|Interesados]]
