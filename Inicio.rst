@@ -43,6 +43,8 @@
 <<Include(Noticias, , ,from="ULTIMAS_START", to="ULTIMAS_END")>>
 
 <<BR>>
+
+[[Noticias|Ver Noticias Antiguas]]
 ----
 ¿Comentarios? ¿Sugerencias? Enviá un mail a <<MailTo(pyar_admin AT decode DOT com DOT ar)>>,
 o escribinos directamente [[Sugerencias|aquí]]. ¡Muchas gracias! 
