@@ -8,7 +8,7 @@ Por favor no editar.
 
 = Objetivo =
 
-Entregar una copia impresa del [[Tutorial de Python en español|http://docs.python.org.ar/tutorial/contenido.html]]  a cada universidad del pais.
+Entregar una copia impresa del [[http://docs.python.org.ar/tutorial/contenido.html|Tutorial de Python en español]]  a cada universidad del pais.
 
 = Como colaborar =
 
