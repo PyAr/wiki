@@ -6,10 +6,14 @@
 Por favor no editar.
 }}}
 
-'''Objetivo''': Entregar una copia del manual de Python en español (link ) a cada universidad del pais.
+= Objetivo =
 
-'''Como colaborar''': Si estas cerca o tenes alguna relación con una universidad que no tiene el manual de Python, podes anotarte y de esta manera t comprometes a hacer la donación en la biblioteca de dicha univeridad. Anotate llenando el siguiente formulario:
+Entregar una copia impresa del [[Tutorial de Python en español|http://docs.python.org.ar/tutorial/contenido.html]]  a cada universidad del pais.
+
+= Como colaborar =
+
+Si estas cerca o tenes alguna relación con una universidad que no tiene el Tutorial de Python, podes anotarte y de esta manera te comprometes a hacer la donación en la biblioteca de dicha universidad. Anotate llenando el siguiente formulario:
 
 <<GoogleSpreadSheet(formkey="dG1EQzlLSklnVTdqOXlabEZYUXR3SFE6MA")>>
 
-Inscriptos:
+= Inscriptos =
