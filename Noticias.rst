@@ -118,6 +118,8 @@ Más info, aquí http://ar.pycon.org/2009/conference/proposals/
 ==== 10/02/2009 ====
  * Se darán dos charlas en la ACP: [[http://www.clubdeprogramadores.com/cursos/CursoMuestra.php?Id=485|Factura Electrónica, Python y Software Libre (21/02/2009 de 15 a 18hs)]] e [[http://www.clubdeprogramadores.com/cursos/CursoMuestra.php?Id=486|Introducción a Python (26/02/2009 de 18.30 a 21.30hs)]]. Lugar: Asociación Civil AUBA - Club de Programadores - Audiotorio Congreso (Ciudad de Buenos Aires). Entrada Libre y Gratuita (inscripción por los respectivos links).
 
+## ULTIMAS_END
+
 ==== 02/11/2008 ====
  * Vamos a participar de Fábrica de Fallas, el 1er festival de Cultura Libre y Copyleft, que tendrá lugar el 15 y 16 de noviembre de 14 a 21 hs en FM La Tribu, Lambaré 873, Ciudad de Buenos Aires. http://culturalibre.fmlatribu.com/
 
@@ -156,10 +158,10 @@ Más info, aquí http://ar.pycon.org/2009/conference/proposals/
  * ¡Tres reuniones, tres! Están planeadas tres reuniones casi simultaneas en distintas partes del pais: Buenos Aires, Córdoba y Santa Fé. Pasen, vean el temario propuesto, e incluyan vuestro nombre en la lista de asistentes en la página de la [[http://www.python.com.ar/moin/Eventos/Reuniones/ProximaReunion|próxima reunión]].
 
 ==== 07/03/2008 ====
- * Nuevo día, nuevo mapa. Ahora también hay un mapa donde cada uno puede agregar donde vive, y así tenemos información visual acerca de la distribución geográfica de PyAr, y de cuán federal es. El mapa está en [[RicardoKirkner/MiembrosDePyAr|MiembrosDePyAr]] o directamente en [[http://maps.google.com/maps/ms?hl=en&ptab=2&ie=UTF8&t=h&msa=0&msid=117626973029192648931.000447d968ea4d494125a&ll=-32.7688,-61.435547&spn=8.86327,14.0625&z=6&source=embed|Google Maps]]
+ * Nuevo día, nuevo mapa. Ahora también hay un mapa donde cada uno puede agregar donde vive, y así tenemos información visual acerca de la distribución geográfica de PyAr, y de cuán federal es. El mapa está en MiembrosDePyAr o directamente en [[http://maps.google.com/maps/ms?hl=en&ptab=2&ie=UTF8&t=h&msa=0&msid=117626973029192648931.000447d968ea4d494125a&ll=-32.7688,-61.435547&spn=8.86327,14.0625&z=6&source=embed|Google Maps]]
 
 ==== 06/03/2008 ====
- * Ahora la comunidad de PyAr cuenta con un mapa donde se muestran los distintos lugares en los que estuvo la bandera de PyAr. Todo aquél que quiera colaborar agregando/modificando información en el mapa, que me avise (por ahora a través de la lista de mail, hasta que encuentre una mejor manera de hacerlo), así lo agrego a la lista de colaboradores. El mapa se puede ver en [[RicardoKirkner/LaBanderaDePyAr|LaBanderaDePyAr]] o directamente en [[http://maps.google.com/maps/ms?ie=UTF8&hl=en&t=h&msa=0&msid=117626973029192648931.000447c3180628d03b6bf&ll=-30.929617,-64.502878&spn=0.03534,0.054932&z=14&source=embed|Google Maps]].
+ * Ahora la comunidad de PyAr cuenta con un mapa donde se muestran los distintos lugares en los que estuvo la bandera de PyAr. Todo aquél que quiera colaborar agregando/modificando información en el mapa, que me avise (por ahora a través de la lista de mail, hasta que encuentre una mejor manera de hacerlo), así lo agrego a la lista de colaboradores. El mapa se puede ver en LaBanderaDePyAr o directamente en [[http://maps.google.com/maps/ms?ie=UTF8&hl=en&t=h&msa=0&msid=117626973029192648931.000447c3180628d03b6bf&ll=-30.929617,-64.502878&spn=0.03534,0.054932&z=14&source=embed|Google Maps]].
 
 ==== 03/03/2008 ====
  * En los últimos días se han realizado varias liberaciones de Python. De las ramas viejas se sacaron versiones con correcciones de seguridad: 2.3.7c1 y 2.4.5c1 (ambas release candidates). De la rama actual, salió final la 2.5.2, esta es la versión de producción (o sea, la recomendada para trabajar en el día a día). Con respecto al futuro, salieron 2.6a1 y 3.0a3 (ambas alpha), para que se vaya experimentando.
@@ -175,7 +177,6 @@ Más info, aquí http://ar.pycon.org/2009/conference/proposals/
 
  * Se ha registrado un notable incremento de tráfico en los últimos meses. El mayor crecimiento está en la época de las 7mas Jornadas Regionales de Software Libre en Córdoba... tendrá algo que ver? ;) Pueden ver el gráfico [[http://dir.gmane.org/gmane.org.user-groups.python.argentina|acá]].
 
-## ULTIMAS_END
 
 ==== 14/02/2008 ====
  * Del viernes 15 al lunes 18 de febrero de 2008 en Los Cocos, provincia de Córdoba se lleva a cabo el primer [[http://except.com.ar/cgi-bin/pycamp/|PyCamp]], un campamento para pitoneros de la región. Esta organizado por [[http://except.com.ar/|Except]].
