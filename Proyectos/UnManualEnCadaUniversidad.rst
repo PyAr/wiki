@@ -1,4 +1,4 @@
-#acl ReadWriteGroup:read,write All:read
+#acl ReadWriteGroup:read,write,delete,revert All:read
 
 {{{#!wiki caution
 '''En Construcción'''
