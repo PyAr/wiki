@@ -1,1 +1,1 @@
-#REDIRECT http://planeta.python.com.ar
+#REDIRECT [[http://planeta.python.com.ar]]
