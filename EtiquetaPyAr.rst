@@ -16,7 +16,8 @@ Si tenés una duda razonable, posteá, tampoco es el fin del mundo.
  *  Es preferible utilizar mensajes en texto plano antes que en HTML. [[http://www.asciiribbon.org/index-es.html|"La Campaña ASCII Ribbon"]] explica porqué esto es recomendable en la mayoría de los casos.
  *  Los ejemplos de código es preferibles subirlos al [[Recetario]] de este wiki en vez de a un servicio como pastebin o dpaste, así siguen estando disponibles cuando alguien llega al historial de la lista buscando una respuesta sobre ese tema.
  *  Escribir respetando la ortografía y reglas de puntuación adecuadas para facilitar la lectura a los demás miembros.
- *  Leer atentamente el famoso paper de [[http://www.sindominio.net/ayuda/preguntas-inteligentes.html|"Cómo hacer preguntas inteligentes"]]
+ *  --(Leer atentamente el famoso paper de [[http://www.sindominio.net/ayuda/preguntas-inteligentes.html|"Cómo hacer preguntas inteligentes"]])--
+ *  Mejor lee ObteniendoRespuestas, que es mas amigable
  *  Si realmente necesitás mandar un mail fuera de tema, podés marcar el 'subject' con un [OT] al princpio, para que sea fácilmente filtrable.
  * Ante la duda sobre el tono o intención de un mensaje, pensar bien, darle crédito a quien lo escribe y suponer que su intención es buena. Tener en cuenta el historial de la persona y si parece que su mensaje es inapropiado leerlo de nuevo creyendo que, tal vez, se lo malinterpreto. Si sigue la duda pedir una aclaración.
  *  Si ves que alguien no sigue estas recomendaciones, o envia mails que de algún modo te parecen ofensivos o molestas y tenés la necesidad de responder, por favor hacelo por privado, esto evita meter 'ruido' en la lista. Si no tenés exito, podés buscar consenso en la lista para tratar el asunto y ver quienes comparten tu opinión enviando un mail marcado como [META] en el subject. Evitemos que suceda esto: [[http://www.youtube.com/watch?v=MSUr0tHTwfw|video gracioso ilustrando la situación]]
