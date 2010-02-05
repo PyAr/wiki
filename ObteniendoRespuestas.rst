@@ -2,7 +2,7 @@
 
 ''por Mike Ash''
 
-(traducido por [[JuanFissanotti|Juan Pedro Fisanotti)
+Traducido por [[JuanFissanotti|Juan Pedro Fisanotti]]
 
 (n del t: en el texto se utiliza varias veces la abreviación "rtfm!", que traducida significa "lee el maldito manual!". Se deja sin traducir, porque se utiliza de esa manera en la jerga informática.) 
 
