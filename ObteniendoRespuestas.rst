@@ -4,8 +4,11 @@
 
 Traducido por [[JuanFisanotti|Juan Pedro Fisanotti]]
 
-(n del t: en el texto se utiliza varias veces la abreviación "rtfm!", que traducida significa "lee el maldito manual!". Se deja sin traducir, porque se utiliza de esa manera en la jerga informática.) 
+{{{#!wiki note
+'''Nota del Traductor'''
 
+En el texto se utiliza varias veces la abreviación "RTFM!", que traducida significa "lee el maldito manual!"(Read The Fucking Manual!). Se deja sin traducir, porque se utiliza de esa manera en la jerga informática.
+}}}
 Doy vueltas por varios chats y foros relacionados a programadores y veo a mucha gente teniendo problemas para obtener respuestas. No reciben respuesta, obtienen respuestas pobres, o absorben mucho abuso verbal. Como persona realizando preguntas, hay algunas cosas simples que puedes hacer para mejorar tus chances de obtener buenas respuestas. Esta guía va a mostrarte diez cosas sencillas que puedes hacer para asegurarte de que tus preguntas son respondidas rápidamente y bien.
 
 Si estás apurado, puedes saltear la introducción aburrida e ir directamente a la guía.
