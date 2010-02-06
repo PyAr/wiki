@@ -175,7 +175,7 @@ Acceder a bases de datos a traves de Db-Api es relativamente de bajo nivel. Se p
 Por el momento no hay ningún concenso en la lista sobre cual es mejor o peor.
 
 También existen librerías para acceso de datos (similar al patron ActiveRecord o librerias DAO/ADO de otras plataformas) que permiten escribir consultas e interactuar con los datos más facilmente (incluso sin usar SQL), sin necesidad de definir un modelo de clases:
- * [[http://www.web2py.com/examples/default/dal|DAL]]: Capa de Abstracción de Base de Datos (Web2Py)
+ * [[http://www.web2py.com.ar/examples/default/dal|DAL]]: Capa de Abstracción de Base de Datos (Web2Py)
 
 ==== PlPython: Python dentro de PostgreSQL ====
 La página PlPython contiene un "tutorial" sobre como usar funciones Python dentro de la base de datos relacional PostgreSQL (tanto procedimientos almacenados como triggers/disparadores).
@@ -197,7 +197,7 @@ Para construir aplicaciones web complejas en python se pueden usar alguno de los
  * [[http://www.zope.org|Zope]]: el "abuelo" de los frameworks web de python
  * [[http://pylonshq.com|Pylons]]: framework liviano que enfatiza flexibilidad y desarrollo rápido
  * [[http://webpy.org|WebPy]]: framework simple "todo-en-uno" sin dependencias
- * [[http://mdp.cti.depaul.edu/|web2py]]: framework para desarrollos rápidos. De fácil aprendizaje y uso simple. Un ejecutable que contiene todo.
+ * [[http://www.web2py.com.ar/|web2py]]: framework para desarrollos rápidos. De fácil aprendizaje y uso simple. Un ejecutable que contiene todo.
 
 ==== Herramientas webs ====
  * [[http://plone.org/|Plone]]: Completo sistema de manejo de contenidos (CMS)
