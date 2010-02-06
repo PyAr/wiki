@@ -18,6 +18,7 @@ Acá van los temas propuestos, con adherentes:
 
  * FacundoBatista
  * GonzaloDelgado
+ * RicardoKirkner
 
 [[http://code.google.com/p/enjuewemela/|enjuewemela]]: Un juego loco donde un montón de gemas tienden a desaparecer extrañamente siguiendo lo que el usuario hace.
 
