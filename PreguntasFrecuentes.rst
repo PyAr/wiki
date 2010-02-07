@@ -72,7 +72,7 @@ Técnicamente hablando, las funciones internas, clases, expresiones generadoras 
 
 Ejemplo:
 
-{{{
+{{{#!code python
 def f(x):
     def g():
         x += 1
@@ -84,7 +84,7 @@ def f(x):
 }}}
 Otro
 
-{{{
+{{{#!code python
 def f(l):
     escala = sum(l)
     return set( x / escala for x in l )
@@ -94,7 +94,7 @@ def f(l):
 }}}
 Es importante saber cuáles de nuestras variables son celdas y cuáles simplemente locales, porque la sintaxis de python nos prohibe borrar celdas, no así variables locales:
 
-{{{
+{{{#!code python
 def f(x):
     rv = set( [ i*x for i in xrange(10) ] )
     del x # bizarro pero ok
@@ -111,7 +111,7 @@ La documentación de python sólo menciona un ''scope lógico local'', el "local
 
 Las variables locales todos las conocemos:
 
-{{{
+{{{#!code python
 def f():
    x = 4 # x es local
 }}}
@@ -119,7 +119,7 @@ Los parámetros de una función también son variables locales. Por ende, self, 
 
 Las variables globales todos las conocemos también:
 
-{{{
+{{{#!code python
 llamadas = 0
 
 def f():
@@ -241,7 +241,7 @@ MarianoGuerra preguntó esto en este hilo: http://mx.grulic.org.ar/lurker/thread
 
 La respuesta que le dio MartinBothiry es hacer:
 
-{{{
+{{{#!code python
   os.path.abspath(os.path.dirname(__file__))
 }}}
 === ¿Uso el modulo array o listas? ===
@@ -274,7 +274,7 @@ y:
 
 En algunos casos, ofrece resultado que a primera vista sorprenden...
 
-{{{
+{{{#!code python
 >>> a = 3
 >>> b = 3
 >>> a is b
@@ -284,7 +284,7 @@ True
 
 En este caso a apunta a un 3 en memoria, y b apunta al mismo 3 en memoria. Python no creó dos objetos "3", sino que usó el mismo para los nombres a y b.
 
-{{{
+{{{#!code python
 >>> a = 500
 >>> b = 500
 >>> a is b
