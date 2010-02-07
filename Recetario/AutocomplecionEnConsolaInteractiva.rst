@@ -4,7 +4,7 @@
 
 crear un archivo llamado .pythonrc (se llama asi pero podria llamarse de cualquier otra forma), que dice:
 
-{{{
+{{{#!code python
 if __name__ == "__main__":
    try:
        import readline
@@ -16,14 +16,16 @@ if __name__ == "__main__":
        del readline
        del rlcompleter
 }}}
-y en el environment se setteada la variable
+y en el environment se setea la variable:
 
-PYTHONSTARTUP=/home/tuusuario/.pythonrc (aca importa que sea igual al nombre del alchivo).
+{{{#!code bash
+PYTHONSTARTUP=/home/tuusuario/.pythonrc #(aca importa que sea igual al nombre del alchivo).
+}}}
+Lo que hace es darte Tab-completion en el interprete, cuando no se recuerda que metodos tiene mistring, en el interprete se hace:
 
-Lo que hace es darte Tab-completion en el interprete, cuando no se recuerda que metodos tiene mistring, en el interprete se hace
-
+{{{#!code python
 >>> mistring.<tab><tab>
-
+}}}
 y lista los metodos y atributos disponibles.
 
 Otros interpretes ya lo hacen.  ipython es notable por tener todo esto y mucho mas, pero hay gente que no se acostumbra a usarlo todavia, y esto le pone Tab-completion al interprete comuncito de siempre.
