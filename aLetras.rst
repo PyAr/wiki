@@ -8,7 +8,7 @@ Siempre se trabaja con 2 decimales (se redondean los valores suministrados)
 
 ==== Ejemplos: ====
 {{{
-#!python
+#!code python
 >>> aLetras(1234.56)
 ' MIL DOSCIENTOS TREINTA Y CUATRO CON CINCUENTA Y SEIS CENTAVOS'
 >>> aLetras(-240.99)
@@ -30,7 +30,7 @@ La asignación y condicional en una línea -> numeros[1] = "UNO" if i == 2 else 
 Puede reemplazarse con:
 
 {{{
-#!python
+#!code python
 if i == 2:
   numeros[1] = "UNO"
 else:
@@ -39,7 +39,7 @@ else:
 
 ==== Código: ====
 {{{
-#!python
+#!code python
 #fuente: Recetario de PyAR, http://python.com.ar/moin/Recetario
 #autor: Cesar E Portela
 #date: 06-05-2008
