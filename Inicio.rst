@@ -34,6 +34,8 @@
 
  * PreguntasFrecuentes: Todo lo que usted siempre quiso preguntar y ya le ganaron de mano.
 
+ * [[Recetario]]: Ejemplos de codigo y soluciones a problemas puntuales.
+
  * [[Material]]: Material de difusión, folletos, etc.
 
  * [[Trabajos]]: Cartelera de ofertas laborales relacionadas con Python.
