@@ -15,7 +15,7 @@ PythonCard usa wxPython. Si estás familizarizado con wxPython, se puede ver a P
 
 === Linux (Debian y derivados) ===
 Pythoncard esta soportado en Etch, asique su instalación es bastante simple
-{{{
+{{{#!code bash
 apt-get install pythoncard
 }}}
 
@@ -40,7 +40,7 @@ En ella se puede encontrar los programas de ejemplos en las siguientes categoria
 
 
 Si algo anda mal y no se muestra la pantalla de ejemplos, podemos probar lo siguiente para ver que esta fallando en una consola Python:
-{{{
+{{{#!code python
 import wx
 wx.version() # debería imprimir '2.8.7.1 (msw-unicode)' o similar
 
@@ -101,7 +101,7 @@ Continuando con el ejemplo de como crear una aplicación de prueba (ver sección
 
 === Código completo final del ejemplo: ===
 {{{
-#!python
+#!code python
 from PythonCard import model
 from PythonCard import dialog
 
