@@ -90,8 +90,13 @@ ComunicarThreadsConQueue: ejemplo sobre como comunicar y sincronizar threads usa
 
 == Web ==
 === HTTP servers ===
-ComoLevantarUnServidorHttpSimple: ejemplo sobre como levantar un servidor http que sirva el contenido de un directorio local
-ComoLevantarUnServidorHttpMultithread: ejemplo sobre como levantar un servidor http que sirva el contenido de un directorio local manejando los requests con threads
+==== Servidor Simple ====
+ComoLevantarUnServidorHttpSimple 
+Ejemplo sobre como levantar un servidor http que sirva el contenido de un directorio local
+
+==== Servidor Multithread ====
+ComoLevantarUnServidorHttpMultithread 
+Ejemplo sobre como levantar un servidor http que sirva el contenido de un directorio local manejando los requests con threads
 
 == Xml ==
 === Xml a Diccionario ===
