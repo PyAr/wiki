@@ -1,6 +1,8 @@
 = Juegos realizados por PyAr =
 
 Los siguientes son juegos realizados por miembros de PyAr en forma grupal o individual, algunos son parte de la competencia internacional [[http://www.pyweek.org|PyWeek]].
+ * [[http://pyweek.org/10/|PyWeek10]]
+  * TheMostBiggestGamestInTheWorldst
  * [[http://pyweek.org/6/|PyWeek6]]
   * [[http://pyweek.org/e/pupo/|X25 Unplugged]]: Hecho en Córdoba por el team pupo [[http://media.pyweek.org/dl/6/pupo/x25-1.0.zip|download]]
   * [[http://pyweek.org/e/pywiic/|Robo-T2]]: Hecho en Bs. As. [[http://www.python.com.ar/moin/juegos?action=AttachFile&do=get&target=Robo-T2+one+pyar+buenos+aires++team|download]] [[http://tenuki-misc.googlecode.com/files/Robo-T2.zip|downloadlink-2]]
