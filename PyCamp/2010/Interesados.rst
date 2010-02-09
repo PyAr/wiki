@@ -22,6 +22,7 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
  * [[dieresys|Maunuel Muradás]] (probablemente de Viernes a Domingo)
  * HernanOlivera
  * Alberto Paparelli
+ * SantiagoPiccinini (posiblemente solo 6, 7, 8)
  * ManuelQuiñones
  * MarianoReingart (seguramente sábado y domingo)
  * HugoRuscitti
@@ -34,4 +35,3 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
  * [[JoseluisDallapiccola|José Luis Dallapiccola]]
  * Luciano Bello
  * RobertoAllende
- * Santiago Piccinini (posiblemente solo 6,7,8)
