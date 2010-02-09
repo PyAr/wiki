@@ -5,6 +5,8 @@
   * escribir pitch
   * pagina html con texto de pitch
   * appengine con esa pagina html
-  * crear lista de correo 
-  * crear formulario de subscripcion en pagina html
+  * crear cuentas en redes sociales y link de subscripcion en el html
+     * tweeter
+     * facebook
+     * identica
   * propaganda
