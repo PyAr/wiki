@@ -34,3 +34,4 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
  * [[JoseluisDallapiccola|José Luis Dallapiccola]]
  * Luciano Bello
  * RobertoAllende
+ * Santiago Piccinini (posiblemente solo 6,7,8)
