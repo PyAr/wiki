@@ -6,15 +6,15 @@ PythonCard es un conjunto de herramientas de construcción GUI para crear aplica
 
 La motivación de PythonCard es "Las cosas simples deberían ser simples, y las complejas deberían ser posibles"
 
-PythonCard es para vos si queres desarrollar aplicacioens gráficas de manera rápida y facil con un mínimo esfuerzo y código. Es parecido a '''Visual Basic Clásico''', con respecto a la creación visual de interfaces gráficas y programación por eventos.
+PythonCard es para vos si queres desarrollar aplicaciones gráficas de manera rápida y fácil con un mínimo esfuerzo y código. Es parecido a '''Visual Basic Clásico''', con respecto a la creación visual de interfaces gráficas y programación por eventos.
 
-PythonCard usa wxPython. Si estás familizarizado con wxPython, se puede ver a PythonCard como una manera simple de hacer programas wxPython con un gran conjunto de ejemplos y herramientas que se pueden copiar y mejorar para crear aplicaciones multiplataforma.
+PythonCard usa wxPython. Si estás familiarizado con wxPython, se puede ver a PythonCard como una manera simple de hacer programas wxPython con un gran conjunto de ejemplos y herramientas que se pueden copiar y mejorar para crear aplicaciones multiplataforma.
 
 
 == Como instalar PythonCard: ==
 
 === Linux (Debian y derivados) ===
-Pythoncard esta soportado en Etch, asique su instalación es bastante simple
+Pythoncard esta soportado en Etch, así que su instalación es bastante simple
 {{{#!code bash
 apt-get install pythoncard
 }}}
@@ -27,9 +27,9 @@ apt-get install pythoncard
  * Bajar e instalar PythonCard [[http://downloads.sourceforge.net/pythoncard/PythonCard-0.8.2.win32.exe|pythoncard.sourceforge.net, Downloads, PythonCard 0.8.2 win32]]. 
 
 == Ejemplos ==
-Si todo se instaló correctamente, podemos probar los ejemplos que vienen con PythonCard, menu Inicio, PythonCard, Sample Launcher (o buscar el script en C:\Python25\Lib\site-packages\PythonCard\samples\samples.pyw o similar para la plataforma en que estemos).
+Si todo se instaló correctamente, podemos probar los ejemplos que vienen con PythonCard, menú Inicio, PythonCard, Sample Launcher (o buscar el script en C:\Python25\Lib\site-packages\PythonCard\samples\samples.pyw o similar para la plataforma en que estemos).
 Debería aparecer la pantalla de ejemplos (ver [[http://pythoncard.sourceforge.net/samples/samples.html|sitio de PythonCard]]).
-En ella se puede encontrar los programas de ejemplos en las siguientes categorias:
+En ella se puede encontrar los programas de ejemplos en las siguientes categorías:
  * '''Bases de datos''' (altas, bajas, modificaciones y consultas): addresses, companies, custdb, dbBrowser, flatfileDatabase, gadflyDatabase
  * '''Juegos''': tictactoe (ta-te-ti), turtle (tortuga = lenguaje logo), life (juego de la vida), reversi, sodoku
  * '''Gráficos''': doodle (mano alzada), spirograph (espirografía), lsystem (fractales Lindenmayer), hopalong (fractales)
@@ -56,7 +56,7 @@ model.Application(model.Background, None, rsrc).MainLoop()
 Debería aparecer una ventanita con título "Prueba".
 
 
-Además, PythonCard dispone de caracteristicas de depuración (depurar menu, loggeo, visor de mensajes, visor del espacio nombres, editor de propiedades, shell). Estas opciones se pueden activar al ejecutar los ejemplos para ver como funcionan.
+Además, PythonCard dispone de características de depuración (depurar menú, loggeo, visor de mensajes, visor del espacio nombres, editor de propiedades, shell). Estas opciones se pueden activar al ejecutar los ejemplos para ver como funcionan.
 
 == Editor de Pantallas ==
 
@@ -81,11 +81,11 @@ Ejemplo de como crear una aplicación de prueba (que tome una expresión/comando
   * Ir al menú ''Edit'', ''Menu Editor'':
    * Marcar ''File'', presionar ''New Menu Item'', y escribir en ''Label'': Ayuda
    * Presionar ''Ok'' para aceptar
- * Probamos que quede bien, llendo al menú ''File'', ''Run'' (obviamente no va a hacer nada más que aparecer en la pantalla, sin ningún comportamiento)
+ * Probamos que quede bien, yendo al menú ''File'', ''Run'' (obviamente no va a hacer nada más que aparecer en la pantalla, sin ningún comportamiento)
  * Grabamos con el menú ''File'', ''Save''
 
 == Editor de Código ==
-PythonCard viene tambien con un editor de código, se encuentra en el menú Inicio, PythonCard, Code Editor (o buscar el script en C:\Python25\Lib\site-packages\PythonCard\tools\resourceEditor\codeEditor.py o similar para la plataforma en que estemos). También esta el ''Tabbed Code Editor'' que nos permite editar multiples archivos y seleccionar los componentes y sus eventos.
+PythonCard viene tambien con un editor de código, se encuentra en el menú Inicio, PythonCard, Code Editor (o buscar el script en C:\Python25\Lib\site-packages\PythonCard\tools\resourceEditor\codeEditor.py o similar para la plataforma en que estemos). También esta el ''Tabbed Code Editor'' que nos permite editar múltiples archivos y seleccionar los componentes y sus eventos.
 Debería aparecer la pantalla de edición de código (ver imágenes y más información en [[http://pythoncard.sourceforge.net/tools/codeEditor.html|sitio de PythonCard]]):
 
 {{attachment:pycard2.png}}
