@@ -38,3 +38,13 @@ Acá van los temas propuestos, con adherentes:
 SIAP Libre (Proyecto simil aplicativo AFIP): Discutir, analizar, planificar, desarrollar y/o mejorar el prototipo [[http://www.sistemasagiles.com.ar/trac/wiki/SiaPy|SiaPy]] y/o la implementeación del aplicativo [[http://www.sistemasagiles.com.ar/trac/wiki/PyRece|PyRECE]] de [[http://www.sistemasagiles.com.ar/trac/wiki/FacturaElectronica|factura electrónica]]
 
  * MarianoReingart
+
+MIDI hacking.  Elegir un proyecto que interactúe con algún dispositivo MIDI, discutir y avanzar con la implementación. '''Nota:''' Si tenés algún dispositivo MIDI que puedas llevar, buenísimo, así hay más variedad.
+
+ * AnthonyLenton
+
+Tower defense.  Implementar algún juego de tower defense utilizando [[http://cocos2d.org/|cocos2d]].  Discutir opciones, armar un roadmap y implementar hasta donde se pueda.
+ * AnthonyLenton
+
+Probemos esta librería.  Jugar con esa librería que tenés ganas de usar hace rato y nunca tuviste oportunidad, armar algún pequeño programa que lo use.  Ideas: [[http://opencv.willowgarage.com/wiki/|Open CV]], (...)
+ * AnthonyLenton
