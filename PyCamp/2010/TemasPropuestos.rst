@@ -44,7 +44,9 @@ MIDI hacking.  Elegir un proyecto que interactúe con algún dispositivo MIDI, d
  * AnthonyLenton
 
 Tower defense.  Implementar algún juego de tower defense utilizando [[http://cocos2d.org/|cocos2d]].  Discutir opciones, armar un roadmap y implementar hasta donde se pueda.
+
  * AnthonyLenton
+ * FacundoBatista
 
 Probemos esta librería.  Jugar con esa librería que tenés ganas de usar hace rato y nunca tuviste oportunidad, armar algún pequeño programa que lo use.  Ideas: [[http://opencv.willowgarage.com/wiki/|Open CV]], (...)
  * AnthonyLenton
