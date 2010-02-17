@@ -21,7 +21,7 @@
 
 ==== 17/02/2010 ====
 
-PyCamp 2010: El próximo lunes cierra la inscripción.  http://is.gd/8zTTD - Apurate a registrarte.
+[[PyCamp/2010]] El próximo lunes cierra la inscripción.  http://is.gd/8zTTD - Apurate a registrarte.
 
 ==== 19/01/2010 ====
 
