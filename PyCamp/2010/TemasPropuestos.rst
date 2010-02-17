@@ -6,6 +6,7 @@ Acá van los temas propuestos, con adherentes:
  * FacundoBatista
  * JoaquinSorianello
  * GonzaloDelgado
+ * alecu
 
 [[http://humitos.wordpress.com/2008/05/05/colaborando-con-python/|BugDay]]: Salimos a la caza de bugs de Python (esto seguro que será sólo medio día o un día como muuucho)
 
@@ -29,7 +30,7 @@ Acá van los temas propuestos, con adherentes:
 [[http://bitbucket.org/lucio.torre/yacam/|YACAM]]: una plataforma para integrar utilidades CAM en python
 
  * LucioTorre
-
+ * alecu
 
 [[http://code.google.com/p/los-cocos|cocos]]: libreria de alto nivel para juegos y multimedia.
 
@@ -42,6 +43,7 @@ SIAP Libre (Proyecto simil aplicativo AFIP): Discutir, analizar, planificar, des
 MIDI hacking.  Elegir un proyecto que interactúe con algún dispositivo MIDI, discutir y avanzar con la implementación. '''Nota:''' Si tenés algún dispositivo MIDI que puedas llevar, buenísimo, así hay más variedad.
 
  * AnthonyLenton
+ * alecu
 
 Tower defense.  Implementar algún juego de tower defense utilizando [[http://cocos2d.org/|cocos2d]].  Discutir opciones, armar un roadmap y implementar hasta donde se pueda.
 
@@ -50,3 +52,4 @@ Tower defense.  Implementar algún juego de tower defense utilizando [[http://co
 
 Probemos esta librería.  Jugar con esa librería que tenés ganas de usar hace rato y nunca tuviste oportunidad, armar algún pequeño programa que lo use.  Ideas: [[http://opencv.willowgarage.com/wiki/|Open CV]], (...)
  * AnthonyLenton
+ * alecu (+1 a OpenCV! Llevamos webcams?)
