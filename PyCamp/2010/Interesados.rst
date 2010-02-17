@@ -1,7 +1,10 @@
 = Interesados en asistir a PyCamp 2010 =
 Para estimar mejor la cantidad de asistentes, por favor anótense en esta página todos los que tengan intención de participar en esta edición del PyCamp.
 
-'''Por favor, alfabético por apellido. Locale es_AR'''
+
+== Esta es la lista de interesados, para confirmar la asistencia hay que hacer la reserva ==
+
+Para detalles de la inscripción: http://is.gd/8zTTD
  * Sebastian M. Alvarez (si me dan los días en el laburo)
  * Facundo Batista
  * Claudio Canepa (a confirmar a mediados de febrero)
