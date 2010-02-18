@@ -14,3 +14,4 @@
 
  * averiguar si tienen modem con ethernet o usb
  * visita de reconocimiento
+ * averiguar remeras
