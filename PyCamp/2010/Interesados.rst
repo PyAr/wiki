@@ -7,7 +7,7 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
 Para detalles de la inscripción: http://is.gd/8zTTD
  * Sebastian M. Alvarez (si me dan los días en el laburo)
  * Facundo Batista
- * Claudio Canepa (a confirmar a mediados de febrero)
+ * Claudio Canepa
  * JuanjoConti
  * Alejandro J. Cura
  * NicoEchániz
