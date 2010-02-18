@@ -51,6 +51,7 @@ Tower defense.  Implementar algún juego de tower defense utilizando [[http://co
 
  * AnthonyLenton
  * FacundoBatista
+ * Claudio Canepa
 
 Probemos esta librería.  Jugar con esa librería que tenés ganas de usar hace rato y nunca tuviste oportunidad, armar algún pequeño programa que lo use.  Ideas: [[http://opencv.willowgarage.com/wiki/|Open CV]], (...)
  * AnthonyLenton
