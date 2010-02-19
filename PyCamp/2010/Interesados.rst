@@ -38,3 +38,4 @@ Para detalles de la inscripción: http://is.gd/8zTTD
  * [[JoseluisDallapiccola|José Luis Dallapiccola]]
  * Luciano Bello
  * RobertoAllende
+ * Guillermo Gonzalez
