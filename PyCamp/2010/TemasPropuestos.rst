@@ -57,7 +57,7 @@ Probemos esta librería.  Jugar con esa librería que tenés ganas de usar hace 
  * AnthonyLenton
  * alecu (+1 a OpenCV! Llevamos webcams?)
 
-[[http://www.web2py.com.ar/|Web2py]]: Mejoras o Ajustes a la [[http://www.web2py.com.ar/wiki|wiki]] y [[http://www.web2py.com.ar/web2conf|web2conf]]. Traducción de documentación. 
+[[http://www.web2py.com.ar/|Web2py]]: Mejoras o Ajustes a la [[http://www.web2py.com.ar/wiki|wiki]] y [[http://www.web2py.com.ar/web2conf|web2conf]]. Traducción de documentación. Armar tutorial y/o aplicación de referencia (para enseñanza)
 
  * MarianoReingart
 
