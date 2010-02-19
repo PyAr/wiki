@@ -39,3 +39,4 @@ Para detalles de la inscripción: http://is.gd/8zTTD
  * Luciano Bello
  * RobertoAllende
  * Guillermo Gonzalez
+ * JohnLenton
