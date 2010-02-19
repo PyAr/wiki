@@ -56,3 +56,11 @@ Tower defense.  Implementar algún juego de tower defense utilizando [[http://co
 Probemos esta librería.  Jugar con esa librería que tenés ganas de usar hace rato y nunca tuviste oportunidad, armar algún pequeño programa que lo use.  Ideas: [[http://opencv.willowgarage.com/wiki/|Open CV]], (...)
  * AnthonyLenton
  * alecu (+1 a OpenCV! Llevamos webcams?)
+
+[[http://www.web2py.com.ar/|Web2py]]: Mejoras o Ajustes a la [[http://www.web2py.com.ar/wiki|wiki]] y [[http://www.web2py.com.ar/web2conf|web2conf]]. Traducción de documentación. 
+
+ * MarianoReingart
+
+PythonCard: Mejoras (integrar editor de código y diseñador de interfaz gráfica, agregar debugger, etc.). Hacerlo más fácil (para usarlo como herramienta para educación). 
+
+ * MarianoReingart
