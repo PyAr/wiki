@@ -12,7 +12,7 @@ Para detalles de la inscripción: http://is.gd/8zTTD
  * Alejandro J. Cura
  * NicoEchániz
  * Mariano Falcón
- * Juan Fisanotti (con intención, pero depende del trabajo)
+ * Juan Fisanotti
  * RicardoKirkner
  * GonzaloDelgado
  * GonzaloLarralde
