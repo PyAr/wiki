@@ -144,6 +144,35 @@ Esas son '''"fastlocals"'''.
 
 Casi todas las variables locales que se declaren van a ser rápidas. La única forma que conozco de generar variables locales lentas es con ''import *'' (en el scope local de una función, lo que es muy poco común), o especificando un diccionario de locales con ''eval()''
 
+La forma de "declarar" una variable de este tipo es simplemente asignandole un valor:
+
+{{{
+def f(...):
+   ...
+   x = 5
+   ...
+}}}
+Esto ya define a "x" como variable local rápida. Y ojo, '''tiene ese status en todo el bloque. '''
+
+O sea que cosas como esta no van a funcionar:
+
+{{{
+def f():
+   if x != 3:
+     ...
+   ...
+   x = 5
+}}}
+¿Por qué no? Porque x es local incluso cuando se accede en 'x != 3', y a esa altura, nunca fue asignada. Muchos pensarían que python va a ir a buscar una variable global llamda 'x' - nop... no es así. La simple asignación a x la define implícitamente como variable local y no global. Si queremos que sea global (y que la asignación cambie el valor de la variable global), hay que hacer:
+
+{{{
+def f():
+   global x
+   if x != 3:
+     ...
+   ...
+   x = 5
+}}}
 == Sobre Python (el interprete) ==
 === ¿Cuales son los interpretes que puedo usar? ===
 Las opciones disponibles son:
@@ -175,6 +204,7 @@ Acceder a bases de datos a traves de Db-Api es relativamente de bajo nivel. Se p
 Por el momento no hay ningún concenso en la lista sobre cual es mejor o peor.
 
 También existen librerías para acceso de datos (similar al patron ActiveRecord o librerias DAO/ADO de otras plataformas) que permiten escribir consultas e interactuar con los datos más facilmente (incluso sin usar SQL), sin necesidad de definir un modelo de clases:
+
  * [[http://www.web2py.com.ar/examples/default/dal|DAL]]: Capa de Abstracción de Base de Datos (Web2Py)
 
 ==== PlPython: Python dentro de PostgreSQL ====
@@ -255,7 +285,7 @@ El array de la libreria estandar es un "chorizo" de elementos, todos del mismo t
 
 Extraer un elemento de un array es costoso, porque hay que crear el objeto Python que lo "envuelva", y lo mismo pasa al asignarle un valor a un elemento individual. Así que operar con arrays elemento-a-elemento en Python es mas lento que usar una lista estándar. Los arrays están pensados para usarlos desde código en C (o Numpy, que esta escrito en C); por ejemplo, un array.array("f") se puede pasar a una función en C declarada como "float x[]" o "float *x".
 
-Otra diferencia: array solo puede contener caracteres, números enteros nativos, o números de punto flotante; no objetos. Pero la representación en memoria es mucho mas compacta, cada elemento ocupa sólo lo necesario para guardar su valor y nada más (por ejemplo, 4 bytes para un float vs. 20 que se necesitan en una lista normal [16 para el objeto float de Python y 4 para el puntero en la lista], los tamaños son para Windows 32 bits). 
+Otra diferencia: array solo puede contener caracteres, números enteros nativos, o números de punto flotante; no objetos. Pero la representación en memoria es mucho mas compacta, cada elemento ocupa sólo lo necesario para guardar su valor y nada más (por ejemplo, 4 bytes para un float vs. 20 que se necesitan en una lista normal [16 para el objeto float de Python y 4 para el puntero en la lista], los tamaños son para Windows 32 bits).
 
 Yo diria que conviene usar un array si:
 
@@ -266,10 +296,7 @@ y:
  * vas a procesarlo en C porque te importa la velocidad
  * o bien, estas corto de memoria y una lista normal no te entra (pero no te importa la velocidad)
 
-
 === A veces el "is" me dice una cosa y otras otra, ¿funciona mal? ===
-
-
 "is" no falla, compara si dos objetos son el mismo (no si son iguales).
 
 En algunos casos, ofrece resultado que a primera vista sorprenden...
@@ -280,8 +307,6 @@ En algunos casos, ofrece resultado que a primera vista sorprenden...
 >>> a is b
 True
 }}}
-
-
 En este caso a apunta a un 3 en memoria, y b apunta al mismo 3 en memoria. Python no creó dos objetos "3", sino que usó el mismo para los nombres a y b.
 
 {{{#!code python
@@ -290,7 +315,6 @@ En este caso a apunta a un 3 en memoria, y b apunta al mismo 3 en memoria. Pytho
 >>> a is b
 False
 }}}
-
 Aquí a apunta a un 500 en memoria, y b apunta a otro 500 en memoria. Python sí creó dos objetos "500".
 
 La pregunta es... ¿por qué la diferencia de comportamiento? Python (ojo, ver abajo) precachea (o tiene internalizado) algunos enteros chicos, porque sabe que siempre se van a usar.
