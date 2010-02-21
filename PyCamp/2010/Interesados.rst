@@ -16,6 +16,7 @@ Para detalles de la inscripción: http://is.gd/8zTTD
  * GonzaloDelgado
  * GonzaloLarralde
  * AnthonyLenton
+ * LucasLiendo
  * [[MarianoMara|Mariano Mara]]
  * Diego Mascialino
  * Nicolás Miyasato (Depende del laburo)
