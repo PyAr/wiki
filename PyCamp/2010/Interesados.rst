@@ -40,3 +40,4 @@ Para detalles de la inscripción: http://is.gd/8zTTD
  * Guillermo Gonzalez
  * JohnLenton
  * JavierMansilla
+ * ManuelKaufmann ([[http://www.wordreference.com/definicion/humareda|Humareda]])
