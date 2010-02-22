@@ -16,17 +16,15 @@ Intereses:
 
   * Juego en FICS http://www.freechess.org/ con el handle de riqhi
 
-  * Juego en el club San Martin de Avellaneda http://www.ajedrezcsm.com.ar/
-
   * Soy más bien un jugador táctico, de ataque, aunque estoy aprendio algo de estrategia.
 
  * Monociclo:
   * Deporte y diversión.
 
-  * Mi blog monociclista: [[http://monodiario.blogspot.com/|http://monodiario.blogspot.com]]
+  * Mi blog monociclista: [[http://www.monociclo.com.ar/|http://www.monociclo.com.ar]]
 
  * cocos2d:
-  * soy uno de los autores de cocos2d... ahora le estoy poniendo mucha energia a la version de iPhone (en obj-c), pero no olvido la version de python
+  * biblioteca para hacer juegos 2d: [[http://www.cocos2d.org/|http://www.cocos2d.org]]
 ...
 
 ----
