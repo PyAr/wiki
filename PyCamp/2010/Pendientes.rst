@@ -14,4 +14,4 @@
 
  * averiguar si tienen modem con ethernet o usb
  * visita de reconocimiento
- * averiguar remeras
+ * averiguar remeras [[attachment:logov2.png]] [[attachment:logov2.svg]]
