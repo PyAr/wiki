@@ -37,6 +37,7 @@ Acá van los temas propuestos, con adherentes:
 [[http://code.google.com/p/los-cocos|cocos]]: libreria de alto nivel para juegos y multimedia.
 
  * Claudio Canepa
+ * RicardoQuesada (haber si podemos releaser v0.4.0 antes de PyWeek)
 
 SIAP Libre (Proyecto simil aplicativo AFIP): Discutir, analizar, planificar, desarrollar y/o mejorar el prototipo [[http://www.sistemasagiles.com.ar/trac/wiki/SiaPy|SiaPy]] y/o la implementeación del aplicativo [[http://www.sistemasagiles.com.ar/trac/wiki/PyRece|PyRECE]] de [[http://www.sistemasagiles.com.ar/trac/wiki/FacturaElectronica|factura electrónica]]
 
