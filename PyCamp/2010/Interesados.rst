@@ -42,3 +42,4 @@ Para detalles de la inscripción: http://is.gd/8zTTD
  * JohnLenton
  * JavierMansilla
  * ManuelKaufmann ([[http://www.wordreference.com/definicion/humareda|Humareda]])
+ * RicardoQuesada
