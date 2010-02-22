@@ -46,6 +46,7 @@ MIDI hacking.  Elegir un proyecto que interactúe con algún dispositivo MIDI, d
 
  * AnthonyLenton
  * alecu
+ * RicardoKirkner
 
 Tower defense.  Implementar algún juego de tower defense utilizando [[http://cocos2d.org/|cocos2d]].  Discutir opciones, armar un roadmap y implementar hasta donde se pueda.
 
