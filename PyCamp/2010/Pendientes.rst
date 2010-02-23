@@ -11,7 +11,7 @@
         Estan Disponibles las zapatillas de la Pycon, son 4 y las tiene Karucha
  * --(armar mail de reserva adelantada)--
  * --(averiguar instalaciones familiares en Verónica, ver si hay departamentitos)-- aparentemente hay tres dobles
+ * --(averiguar si tienen modem con ethernet o usb)-- ethernet, vamos!
+ * --(visita de reconocimiento)-- el lugar está genial
 
- * averiguar si tienen modem con ethernet o usb
- * visita de reconocimiento
  * averiguar remeras [[attachment:logov2.png]] [[attachment:logov2.svg]]
