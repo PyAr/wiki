@@ -19,6 +19,8 @@ Si se les ocurren más cosas, anoten.
  * Paleta y pelotas
  * Pelota de futbol y/o voley (conseguir quorum suele ser un problema)
  * tizas
+ * etiquetas y fibrones
+ * papel y lapiceras
  * Proyector
  * 4 Routers inalámbricos
  * Cable ethernet para instalación principal, 150mts
