@@ -1,3 +1,5 @@
+Si se les ocurren más cosas, anoten.
+
 == Qué llevar? ==
 
  * repelente para mosquitos
