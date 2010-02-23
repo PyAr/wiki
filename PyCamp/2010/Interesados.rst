@@ -45,3 +45,4 @@ Para detalles de la inscripción: http://is.gd/8zTTD
  * RicardoQuesada
  * [[LucasShrewsbury|Lucas Shrewsbury]]
  * [[AngelVelasquez|Angel Velásquez]]
+ * Marcos Vanetta ([[http://blog.malev.com.ar|malev]])
