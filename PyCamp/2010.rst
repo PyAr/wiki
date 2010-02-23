@@ -33,6 +33,9 @@ El Costo del Pasaje es de $17 y se compran en la boleteria Nº 19
 || La Plata     || 07:45 || 12:45 || 15:35 || 19:15 || 21:30 ||
 
 Si tu micro te deja en Retiro, Capital Federal, tenes que tomarte el Costera Metropolitana hasta La Plata
+
+Para los que vamos desde el interior y nos juntamos antes, nos organizamos [[PyCamp/2010/DelInterior|acá]]
+
 == Asistentes ==
 
  Ver [[PyCamp/2010/Interesados|Interesados]]
