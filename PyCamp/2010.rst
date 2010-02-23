@@ -16,7 +16,7 @@
  * precio de la estadía: a determinar
  * mínimo: 25 personas
  * --(disponibilidad en Marzo 2010: del 1 al 12 de Marzo, del 29 de Marzo al 2 de Abril.)--
- * fotos: [[http://www.agds.org.ar/Veronica/ | acá]]
+ * fotos: [[http://www.agds.org.ar/Veronica/ | acá]] y [[http://tinyurl.com/PrePyCamp2010 | acá]]
  * Internet: 1 Mbps por ADSL (tienen 256kbps, nosotros tenemos que pagar el upgrade por 2 meses mínimo).
  <<GoogleMaps(msa="0",msid="105017401461870163751.00047dff7082962835e7a",t="h",ll="-35.387126,-57.328806",spn="0.020642,0.052314",z="15")>>
 
