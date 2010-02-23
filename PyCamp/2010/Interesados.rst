@@ -44,3 +44,4 @@ Para detalles de la inscripción: http://is.gd/8zTTD
  * ManuelKaufmann ([[http://www.wordreference.com/definicion/humareda|Humareda]])
  * RicardoQuesada
  * [[LucasShrewsbury|Lucas Shrewsbury]]
+ * [[AngelVelasquez|Angel Velásquez]]
