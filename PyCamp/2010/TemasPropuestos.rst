@@ -14,7 +14,7 @@ Acá van los temas propuestos, con adherentes:
  * FacundoBatista
  * JoaquinSorianello
  * Pablo Mouzo
- * LucasShrewsbury
+ * Lucas Shrewsbury
 
 
 [[https://edge.launchpad.net/lalita|Lalita]]: Un bot de IRC donde agregar nuevas funcionalidades es muy fácil, sólo se necesita escribir un plugin muy sencillo.
@@ -29,7 +29,7 @@ Acá van los temas propuestos, con adherentes:
  * FacundoBatista
  * Claudio Canepa
  * JoaquinSorianello
- * LucasShrewsbury
+ * Lucas Shrewsbury
 
 [[http://bitbucket.org/lucio.torre/yacam/|YACAM]]: una plataforma para integrar utilidades CAM en python
 
@@ -40,7 +40,7 @@ Acá van los temas propuestos, con adherentes:
 
  * Claudio Canepa
  * RicardoQuesada (haber si podemos releaser v0.4.0 antes de PyWeek)
- * LucasShrewsbury
+ * Lucas Shrewsbury
 
 SIAP Libre (Proyecto simil aplicativo AFIP): Discutir, analizar, planificar, desarrollar y/o mejorar el prototipo [[http://www.sistemasagiles.com.ar/trac/wiki/SiaPy|SiaPy]] y/o la implementeación del aplicativo [[http://www.sistemasagiles.com.ar/trac/wiki/PyRece|PyRECE]] de [[http://www.sistemasagiles.com.ar/trac/wiki/FacturaElectronica|factura electrónica]]
 
@@ -57,12 +57,12 @@ Tower defense.  Implementar algún juego de tower defense utilizando [[http://co
  * AnthonyLenton
  * FacundoBatista
  * Claudio Canepa
- * LucasShrewsbury
+ * Lucas Shrewsbury
 
 Probemos esta librería.  Jugar con esa librería que tenés ganas de usar hace rato y nunca tuviste oportunidad, armar algún pequeño programa que lo use.  Ideas: [[http://opencv.willowgarage.com/wiki/|Open CV]], (...)
  * AnthonyLenton
  * alecu (+1 a OpenCV! Llevamos webcams?)
- * LucasShrewsbury
+ * Lucas Shrewsbury
 
 [[http://www.web2py.com.ar/|Web2py]]: Mejoras o Ajustes a la [[http://www.web2py.com.ar/wiki|wiki]] y [[http://www.web2py.com.ar/web2conf|web2conf]]. Traducción de documentación. Armar tutorial y/o aplicación de referencia (para enseñanza)
 
