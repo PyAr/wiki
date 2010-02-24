@@ -3,8 +3,11 @@
 == Daniel F Moisset ==
 
 Email: <<MailTo(dmoisset AT SPAMFREE machinalis DOT com)>>
+
 Nick en #pyar: Darni
+
 LinkedIn: http://ar.linkedin.com/in/dmoisset
+
 Mi empresa (donde obviamente usamos mayoritariamente python): http://www.machinalis.com/
 
 == Python y yo ==
