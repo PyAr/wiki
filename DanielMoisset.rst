@@ -16,5 +16,15 @@ Conocí Python en el año 2000 creo que por un comentario de JohnLenton (a esta 
 
 Conocí PyAr en enero de 2005, cuando empezamos a archivar su listas de correo en [[http://grulic.org.ar|GrULiC]] (LUG del cual soy fundador y al cual día de hoy, febrero de 2010, aún pertenezco). En algún momento a principios de 2005 me inscribí.
 
+== Charlas ==
+
+== Organización de eventos ==
+
+== Software ==
+
+=== Juegos ===
+
+
+
 ----
 CategoryHomepage
