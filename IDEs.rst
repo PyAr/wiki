@@ -119,6 +119,12 @@ Kate es el editor de texto con capacidades extra de kde, tiene algunas caracter√
 
 [[http://kate-editor.org/]]
 
+=== Marave ===
+
+Hecho y mantenido por Roberto Alsina, miembro de PyAr
+
+[[http://marave.googlecode.com/]]
+
 === Textmate ===
 
 Corre solo en MacOSX, muy f√°cilmente personalizable en cualquier lenguaje. Uno puede hacer un script y registrarlo como comando, ese script puede recibir el texto actualmente seleccionado, el documento actual, y alguna otra cosa que no recuerdo. El script lo procesa y devuelve un texto, que puede ser usado para reemplazar la seleccion actual, ponerse en un documento nuevo, y alguna otra cosa que no me acuerdo.
