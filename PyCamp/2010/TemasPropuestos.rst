@@ -88,7 +88,7 @@ PythonCard: Mejoras (integrar editor de código y diseñador de interfaz gráfic
  * JuanjoConti
 
 Django para jornadasregionales.org:
-Implementar pycontech+django en el sitio [[http://jornadasregionales.org jornadasregionales.org]]. Sitio oficial de las Jornadas Regionales de Software Libre. El proyecto consiste en armar el sitio con estas herramientas que sea la referencia oficial de todas las JRSL futuras. El proyecto es ideal para personas que quieran iniciarse en Django.
+Implementar pycontech+django en el sitio [[http://jornadasregionales.org|jornadasregionales.org]]. Sitio oficial de las Jornadas Regionales de Software Libre. El proyecto consiste en armar el sitio con estas herramientas que sea la referencia oficial de todas las JRSL futuras. El proyecto es ideal para personas que quieran iniciarse en Django.
 
  * AlejandroCura
  * RobertoAllende
