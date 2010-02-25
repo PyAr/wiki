@@ -75,5 +75,6 @@ PythonCard: Mejoras (integrar editor de código y diseñador de interfaz gráfic
 !SprintDjango: El Sábado 6, similar al que tuvo lugar durante el !PyCamp '09. Daniel Moisset va a ser el coordinador. La idea es aprender a contribuir a un proyecto como Django y al mismo tiempo trabajar en ayudar a solucionar bugs para que el release 1.2 salga lo mas bug-free posible.
 
  * DanielMoisset
+ * MarianoFalcon
 
 (También, en Córdoba nos vamos juntar los que no pudimos ir al PyCamp y todos aquellos que se quieran sumar).
