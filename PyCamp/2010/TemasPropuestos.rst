@@ -23,6 +23,7 @@ Acá van los temas propuestos, con adherentes:
  * GonzaloDelgado
  * RicardoKirkner
  * Pablo Mouzo
+ * JuanjoConti (me interesa agregar funcionalidad como para luego poder implementar un plugin de tipo Trivia)
 
 [[http://code.google.com/p/enjuewemela/|enjuewemela]]: Un juego loco donde un montón de gemas tienden a desaparecer extrañamente siguiendo lo que el usuario hace.
 
@@ -72,9 +73,10 @@ PythonCard: Mejoras (integrar editor de código y diseñador de interfaz gráfic
 
  * MarianoReingart
 
-!SprintDjango: El Sábado 6, similar al que tuvo lugar durante el !PyCamp '09. Daniel Moisset va a ser el coordinador. La idea es aprender a contribuir a un proyecto como Django y al mismo tiempo trabajar en ayudar a solucionar bugs para que el release 1.2 salga lo mas bug-free posible.
+[[http://code.djangoproject.com/wiki/Sprint201003Argentina|SprintDjango]]: El Sábado 6, similar al que tuvo lugar durante el !PyCamp '09. Daniel Moisset va a ser el coordinador. La idea es aprender a contribuir a un proyecto como Django y al mismo tiempo trabajar en ayudar a solucionar bugs para que el release 1.2 salga lo mas bug-free posible.
 
  * DanielMoisset
  * MarianoFalcon
+ * JuanjoConti
 
 (También, en Córdoba nos vamos juntar los que no pudimos ir al PyCamp y todos aquellos que se quieran sumar).
