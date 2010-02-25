@@ -80,3 +80,7 @@ PythonCard: Mejoras (integrar editor de código y diseñador de interfaz gráfic
  * JuanjoConti
 
 (También, en Córdoba nos vamos juntar los que no pudimos ir al PyCamp y todos aquellos que se quieran sumar).
+
+[[http://svn.juanjoconti.com.ar/dyntaint/taintmode.py|Tanit Mode en Python]]: discutir cómo implementar esto en Python, su aplicabilidad y trabajar para integrar la librería en algún framework de desarrollo.
+
+ * JuanjoConti
