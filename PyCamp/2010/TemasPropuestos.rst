@@ -15,6 +15,7 @@ Acá van los temas propuestos, con adherentes:
  * JoaquinSorianello
  * Pablo Mouzo
  * Lucas Shrewsbury
+ * TomasZulberti
 
 
 [[https://edge.launchpad.net/lalita|Lalita]]: Un bot de IRC donde agregar nuevas funcionalidades es muy fácil, sólo se necesita escribir un plugin muy sencillo.
@@ -78,6 +79,7 @@ PythonCard: Mejoras (integrar editor de código y diseñador de interfaz gráfic
  * DanielMoisset
  * MarianoFalcon
  * JuanjoConti
+ * TomasZulberti
 
 (También, en Córdoba nos vamos juntar los que no pudimos ir al PyCamp y todos aquellos que se quieran sumar).
 
