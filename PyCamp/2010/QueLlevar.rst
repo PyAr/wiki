@@ -22,7 +22,7 @@ Si se les ocurren más cosas, anoten.
  * etiquetas y fibrones
  * papel y lapiceras
  * Proyector
- * 4 Routers inalámbricos
+ * 4 Routers inalámbricos (JuanjoConti 1)
  * Cable ethernet para instalación principal, 150mts
  * precintos grandes
  * Mirror de debian/ubuntu
