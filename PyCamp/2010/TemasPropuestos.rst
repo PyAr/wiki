@@ -86,3 +86,17 @@ PythonCard: Mejoras (integrar editor de código y diseñador de interfaz gráfic
 [[http://svn.juanjoconti.com.ar/dyntaint/taintmode.py|Tanit Mode en Python]]: discutir cómo implementar esto en Python, su aplicabilidad y trabajar para integrar la librería en algún framework de desarrollo.
 
  * JuanjoConti
+
+Django para jornadasregionales.org:
+Implementar pycontech+django en el sitio [[http://jornadasregionales.org jornadasregionales.org]]. Sitio oficial de las Jornadas Regionales de Software Libre. El proyecto consiste en armar el sitio con estas herramientas que sea la referencia oficial de todas las JRSL futuras. El proyecto es ideal para personas que quieran iniciarse en Django.
+
+ * AlejandroCura
+ * RobertoAllende
+ * MarianoReingart
+
+Complementos para ZMI de Zope:
+La intefaz de administración de Zope (ZMI) ha quedado un poco desactualizada con los cambios que se han dado con Five y ZCA. Estos cambios han llevado la forma de trabajar en Zope2 con un approach ttw a algo mas pythonico-through-the-filesystem, luwgo podria esta bueno contar con ciertos componentes tales como un zodb-browser, un class-browser, utility-registry-browser, etc.
+Esto podria ser un proyecto ambicioso porque si logramos algo estable, podriamos usar estos componentes para reemplazar al ZMI, actual. 
+
+ * RobertoAllende
+ * Emiliano Marcozzi
