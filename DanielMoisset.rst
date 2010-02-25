@@ -28,15 +28,27 @@ Aprovecho este lugar para hacer publicidad desvergonzada de cosas que he hecho r
 
 == Organización de eventos/cursos ==
  
+ * En marzo de 2008 coorganice el primer pycamp Argentino.
  * En septiembre de 2008 coordine el dictado de un curso de desarrollo de aplicaciones web en Django (no lo dicté, me encargué de la gestión)
+ * En octubre de 2008 coorganicé el 2do pythonday de Córdoba.
 
 == Software ==
 
-Además del software en Python que hecho/adaptado para clientes durante mi trabajo previo en Except y actual en Machinalis, 
+Además del software en Python que hecho/adaptado para clientes durante mi trabajo previo en Except y actual en Machinalis, he publicado cosas como:
 
+ * Empathy
+ * Cocos2D: colaboré en la etapa inicial de diseño (durante el Pycamp 2008), y documentación. 
+ * Y parchecitos menores en aplicaciones varias (ej: ZWiki)
 
 === Juegos ===
 
+He programado (solo y en equipo) varios juegos en python, principalmente para la competencia pyweek:
+
+ * Saturday Night Ninja - http://pyweek.org/e/pycor/
+ * Corp - http://pyweek.org/e/pycor2/
+ * Aurora Fighter - http://pyweek.org/e/arbacamarbalap/
+ * X-25 Unplugged - http://pyweek.org/e/pupo/
+ * Days of Tsunami - http://pyweek.org/e/anotherpupo/
 
 
 ----
