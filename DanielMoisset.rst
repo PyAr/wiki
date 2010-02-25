@@ -36,6 +36,7 @@ Aprovecho este lugar para hacer publicidad desvergonzada de cosas que he hecho r
 
 Además del software en Python que hecho/adaptado para clientes durante mi trabajo previo en Except y actual en Machinalis, he publicado cosas como:
 
+ * El sistema de inscripcion a installfests de GrULiC
  * Empathy
  * Cocos2D: colaboré en la etapa inicial de diseño (durante el Pycamp 2008), y documentación. 
  * Y parchecitos menores en aplicaciones varias (ej: ZWiki)
