@@ -21,9 +21,10 @@ Aprovecho este lugar para hacer publicidad desvergonzada de cosas que he hecho r
 == Charlas / cursos ==
 
  * Junio de 2001: Di un seminario de 2 horas titulado “Introducción a la Programación en Python” en FaMAF, UNC.
- * Agosto de 2006 a Septiembre de 2009: En muchas ocasiones he repetido una charla introductoria/tutorial de python titulada "de 0 a python en 45 minutos"; en python days en Cordoba, Jornadas Python en Santa Fe, como material de soporte a la carrera de Cs. de Computación.
- * Junio de 2007 a: Presenté una charla para difusión de la competencia [[http://pyweek.org|Pyweek]], titulada "PyWeek, un juego en 7 días". La charla originar es de [[AlejandroJCura]], y la he dado con el y con otra gente.
- * Enero 2010: Di un tutorial de programación de juegos usando Python y [[http://cocos2d.org|Cocos2D]]
+ * Agosto de 2006 a Septiembre de 2009: En muchas ocasiones he repetido una charla introductoria/tutorial de python titulada "de 0 a python en 45 minutos"; en python days en Cordoba, Jornadas Python en Santa Fe y como material de soporte a la carrera de Cs. de Computación.
+ * Junio de 2007, Agosto de 2007: Presenté una charla para difusión de la competencia [[http://pyweek.org|Pyweek]], titulada "PyWeek, un juego en 7 días". La charla originar es de [[AlejandroJCura]], y la he dado con el y con otra gente. Esto fue en un Python Day en Santa Fé y en las Séptimas Jornadas Regionales de Software Libre.
+ * Agosto y Octubre de 2008: Presenté una charla titulada "Hacer un juego es fácil", sobre programación de juegos usando [[http://cocos2d.org|Cocos2D]] en las 8vas Jornadas Regionales de Software Libre y luego en un Python Day en Santa Fé.
+ * Enero 2010: Di un tutorial de programación de juegos usando Python y Cocos2D para participantes de la Global Game Jam en Córdoba.
 
 == Organización de eventos/cursos ==
  
