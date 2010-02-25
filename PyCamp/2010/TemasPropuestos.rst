@@ -95,7 +95,7 @@ Implementar pycontech+django o web2conf en el sitio [[http://jornadasregionales.
  * MarianoReingart
 
 Complementos para ZMI de Zope:
-La intefaz de administración de Zope (ZMI) ha quedado un poco desactualizada con los cambios que se han dado con Five y ZCA. Estos cambios han llevado la forma de trabajar en Zope2 con un approach ttw a algo mas pythonico-through-the-filesystem, luwgo podria esta bueno contar con ciertos componentes tales como un zodb-browser, un class-browser, utility-registry-browser, etc.
+La interfaz de administración de Zope (ZMI) ha quedado un poco desactualizada con los cambios que se han dado con Five y ZCA. Estos cambios han llevado la forma de trabajar en Zope2 con un approach ttw a algo mas pythonico-through-the-filesystem, luwgo podria esta bueno contar con ciertos componentes tales como un zodb-browser, un class-browser, utility-registry-browser, etc.
 Esto podria ser un proyecto ambicioso porque si logramos algo estable, podriamos usar estos componentes para reemplazar al ZMI, actual. 
 
  * RobertoAllende
