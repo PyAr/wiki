@@ -80,6 +80,7 @@ PythonCard: Mejoras (integrar editor de código y diseñador de interfaz gráfic
  * MarianoFalcon
  * JuanjoConti
  * TomasZulberti
+ * AnthonyLenton
 
 (También, en Córdoba nos vamos juntar los que no pudimos ir al PyCamp y todos aquellos que se quieran sumar).
 
@@ -109,3 +110,4 @@ Esto podria ser un proyecto ambicioso porque si logramos algo estable, podriamos
  * JoaquinSorianello
  * MarianoFalcon
  * JuanjoConti
+ * AnthonyLenton
