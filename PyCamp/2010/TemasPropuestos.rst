@@ -63,7 +63,7 @@ Tower defense.  Implementar algún juego de tower defense utilizando [[http://co
 Probemos esta librería.  Jugar con esa librería que tenés ganas de usar hace rato y nunca tuviste oportunidad, armar algún pequeño programa que lo use.  Ideas: [[http://opencv.willowgarage.com/wiki/|Open CV]], (...)
 
  * AnthonyLenton
- * alecu (+1 a OpenCV! Llevamos webcams?)
+ * alecu (+1 a OpenCV! llevo 2 webcams)
  * Lucas Shrewsbury
  * LeitoMonk (OpenCV - llevo 2 webcams :) )
 
