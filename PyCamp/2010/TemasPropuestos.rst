@@ -120,3 +120,4 @@ Aplicación para medicos:
 Armar algo para satisfacer [[http://mx.grulic.org.ar/lurker/thread/20100228.231834.e9d8d228.es.html|este hilo]]
 
  * LeitoMonk
+ * JuanjoConti
