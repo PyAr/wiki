@@ -114,6 +114,7 @@ Complementos para ZMI de Zope: La interfaz de administración de Zope (ZMI) ha q
  * Lucas Shrewsbury
  * LeitoMonk
  * NicoEchaniz
+ * alecu
 
 Aplicación para medicos: Armar algo para satisfacer [[http://mx.grulic.org.ar/lurker/thread/20100228.231834.e9d8d228.es.html|este hilo]]
 
@@ -123,6 +124,7 @@ Aplicación para medicos: Armar algo para satisfacer [[http://mx.grulic.org.ar/l
 Empaquetado de aplicaciones y bibliotecas python para Debian.
 
  * LucianoBello
+ * alecu
 
 
 Migración de [[ http://codigosur.org/leer.php/1182042 | Cyclope ]] a Python/Django (work in progress). Es un CMS bastante simple, que en su versioń Python me gustaría que fuera más versátil que la actual en PHP. Está verde pero aunque sea me gustaría charlar algunos conceptos y la idea general con otros djangeros y no djangeros.
