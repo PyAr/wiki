@@ -1,6 +1,5 @@
 Acá van los temas propuestos, con adherentes:
 
-
 [[http://code.google.com/p/cdpedia/|CDPedia]]: Proyecto para tener la información de la Wikipedia en castellano accesible aunque no tengas una conexión a Internet.
 
  * FacundoBatista
@@ -16,7 +15,6 @@ Acá van los temas propuestos, con adherentes:
  * Pablo Mouzo
  * Lucas Shrewsbury
  * TomasZulberti
-
 
 [[https://edge.launchpad.net/lalita|Lalita]]: Un bot de IRC donde agregar nuevas funcionalidades es muy fácil, sólo se necesita escribir un plugin muy sencillo.
 
@@ -63,6 +61,7 @@ Tower defense.  Implementar algún juego de tower defense utilizando [[http://co
  * AlejandroSantos
 
 Probemos esta librería.  Jugar con esa librería que tenés ganas de usar hace rato y nunca tuviste oportunidad, armar algún pequeño programa que lo use.  Ideas: [[http://opencv.willowgarage.com/wiki/|Open CV]], (...)
+
  * AnthonyLenton
  * alecu (+1 a OpenCV! Llevamos webcams?)
  * Lucas Shrewsbury
@@ -72,7 +71,7 @@ Probemos esta librería.  Jugar con esa librería que tenés ganas de usar hace 
 
  * MarianoReingart
 
-PythonCard: Mejoras (integrar editor de código y diseñador de interfaz gráfica, agregar debugger, etc.). Hacerlo más fácil (para usarlo como herramienta para educación). 
+PythonCard: Mejoras (integrar editor de código y diseñador de interfaz gráfica, agregar debugger, etc.). Hacerlo más fácil (para usarlo como herramienta para educación).
 
  * MarianoReingart
 
@@ -89,18 +88,16 @@ PythonCard: Mejoras (integrar editor de código y diseñador de interfaz gráfic
 [[http://svn.juanjoconti.com.ar/dyntaint/taintmode.py|Tanit Mode en Python]]: discutir cómo implementar esto en Python, su aplicabilidad y trabajar para integrar la librería en algún framework de desarrollo.
 
  * JuanjoConti
+ * LucianoBello
 
-Django o web2py en jornadasregionales.org:
-Implementar pycontech+django o web2conf en el sitio [[http://jornadasregionales.org|jornadasregionales.org]]. Sitio oficial de las Jornadas Regionales de Software Libre. El proyecto consiste en armar el sitio con estas herramientas que sea la referencia oficial de todas las JRSL futuras. El proyecto es ideal para personas que quieran iniciarse en Django.
+Django o web2py en jornadasregionales.org: Implementar pycontech+django o web2conf en el sitio [[http://jornadasregionales.org|jornadasregionales.org]]. Sitio oficial de las Jornadas Regionales de Software Libre. El proyecto consiste en armar el sitio con estas herramientas que sea la referencia oficial de todas las JRSL futuras. El proyecto es ideal para personas que quieran iniciarse en Django.
 
  * Alecu
  * RobertoAllende
  * MarianoReingart
  * MarianoFalcon
 
-Complementos para ZMI de Zope:
-La interfaz de administración de Zope (ZMI) ha quedado un poco desactualizada con los cambios que se han dado con Five y ZCA. Estos cambios han llevado la forma de trabajar en Zope2 con un approach ttw a algo mas pythonico-through-the-filesystem, luego podria esta bueno contar con ciertos componentes tales como un zodb-browser, un class-browser, utility-registry-browser, etc.
-Esto podria ser un proyecto ambicioso porque si logramos algo estable, podriamos usar estos componentes para reemplazar al ZMI, actual. 
+Complementos para ZMI de Zope: La interfaz de administración de Zope (ZMI) ha quedado un poco desactualizada con los cambios que se han dado con Five y ZCA. Estos cambios han llevado la forma de trabajar en Zope2 con un approach ttw a algo mas pythonico-through-the-filesystem, luego podria esta bueno contar con ciertos componentes tales como un zodb-browser, un class-browser, utility-registry-browser, etc. Esto podria ser un proyecto ambicioso porque si logramos algo estable, podriamos usar estos componentes para reemplazar al ZMI, actual.
 
  * RobertoAllende
  * Emiliano Marcozzi
@@ -116,8 +113,11 @@ Esto podria ser un proyecto ambicioso porque si logramos algo estable, podriamos
  * Lucas Shrewsbury
  * LeitoMonk
 
-Aplicación para medicos:
-Armar algo para satisfacer [[http://mx.grulic.org.ar/lurker/thread/20100228.231834.e9d8d228.es.html|este hilo]]
+Aplicación para medicos: Armar algo para satisfacer [[http://mx.grulic.org.ar/lurker/thread/20100228.231834.e9d8d228.es.html|este hilo]]
 
  * LeitoMonk
  * JuanjoConti
+
+Empaquetado de aplicaciones y bibliotecas python para Debian.
+
+ * LucianoBello
