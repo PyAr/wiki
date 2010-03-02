@@ -66,6 +66,7 @@ Probemos esta librería.  Jugar con esa librería que tenés ganas de usar hace 
  * AnthonyLenton
  * alecu (+1 a OpenCV! Llevamos webcams?)
  * Lucas Shrewsbury
+ * LeitoMonk (OpenCV - llevo 2 webcams :) )
 
 [[http://www.web2py.com.ar/|Web2py]]: Mejoras o Ajustes a la [[http://www.web2py.com.ar/wiki|wiki]] y [[http://www.web2py.com.ar/web2conf|web2conf]]. Traducción de documentación. Armar tutorial y/o aplicación de referencia (para enseñanza)
 
@@ -113,3 +114,9 @@ Esto podria ser un proyecto ambicioso porque si logramos algo estable, podriamos
  * JuanjoConti
  * AnthonyLenton
  * Lucas Shrewsbury
+ * LeitoMonk
+
+Aplicación para medicos:
+Armar algo para satisfacer [[http://mx.grulic.org.ar/lurker/thread/20100228.231834.e9d8d228.es.html|este hilo]]
+
+ * LeitoMonk
