@@ -7,6 +7,7 @@ Acá van los temas propuestos, con adherentes:
  * GonzaloDelgado
  * alecu
  * Pablo Mouzo
+ * Guillermo Gonzalez
 
 [[http://humitos.wordpress.com/2008/05/05/colaborando-con-python/|BugDay]]: Salimos a la caza de bugs de Python (esto seguro que será sólo medio día o un día como muuucho)
 
@@ -23,6 +24,7 @@ Acá van los temas propuestos, con adherentes:
  * RicardoKirkner
  * Pablo Mouzo
  * JuanjoConti (me interesa agregar funcionalidad como para luego poder implementar un plugin de tipo Trivia)
+ * Guillermo Gonzalez
 
 [[http://code.google.com/p/enjuewemela/|enjuewemela]]: Un juego loco donde un montón de gemas tienden a desaparecer extrañamente siguiendo lo que el usuario hace.
 
