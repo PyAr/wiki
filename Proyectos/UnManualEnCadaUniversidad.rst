@@ -6,7 +6,7 @@ Entregar una copia impresa del [[http://docs.python.org.ar/tutorial/contenido.ht
 
 = Como colaborar =
 
-Si estas cerca o tenes alguna relación con una universidad que no tiene el Tutorial de Python, podes anotarte y de esta manera te comprometes a hacer la donación en la biblioteca de dicha universidad. Anotate en la siguiente tabla si tu universidad no figura en ella. [[Facundo]] te entregará el manual. Cuando lo hayas llevado, actualiza el estado con alguna de las siguientes leyendas:
+Si estas cerca o tenes alguna relación con una universidad que no tiene el Tutorial de Python, podes anotarte y de esta manera te comprometes a hacer la donación en la biblioteca de dicha universidad. Anotate en la siguiente tabla si tu universidad no figura en ella. FacundoBatista te entregará el manual. Cuando lo hayas llevado, actualiza el estado con alguna de las siguientes leyendas:
 
 (1) Esperando el manual.
 (2) Entregado, esperando asignación nro. catálogo.
