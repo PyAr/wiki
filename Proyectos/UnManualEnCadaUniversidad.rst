@@ -12,8 +12,11 @@ Entregar una copia impresa del [[http://docs.python.org.ar/tutorial/contenido.ht
 
 = Como colaborar =
 
-Si estas cerca o tenes alguna relación con una universidad que no tiene el Tutorial de Python, podes anotarte y de esta manera te comprometes a hacer la donación en la biblioteca de dicha universidad. Anotate llenando el siguiente formulario:
+Si estas cerca o tenes alguna relación con una universidad que no tiene el Tutorial de Python, podes anotarte y de esta manera te comprometes a hacer la donación en la biblioteca de dicha universidad. Anotate en la siguiente tabla:
 
-<<GoogleSpreadSheet(formkey="dG1EQzlLSklnVTdqOXlabEZYUXR3SFE6MA")>>
+Prueba de tabla
 
-= Inscriptos =
+|| asa || asda || 2f || sdasd ||
+|| asa || asda || f3 || sdasd ||
+|| asa || asda || 55f || sdasd ||
+|| asa || asda || 4 || sdasd ||
