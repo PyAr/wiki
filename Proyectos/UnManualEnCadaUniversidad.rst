@@ -43,3 +43,4 @@ Si estas cerca o tenes alguna relación con una universidad que no tiene el Tuto
 || Rafael Moyano || moyanor@gmail.com || Universidad Nacional de La Rioja || (1) ||
 || Walter Alini || walteralini@gmail.com || FaMAF, UN Córdoba || (1) ||
 || Pablo Papes || pablopapes@gmail.com || UTN FRCU || (1) ||
+|| Manuel Muradás || mmuradas@dieresys.com.ar || UADE || (1) ||
