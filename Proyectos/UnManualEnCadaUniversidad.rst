@@ -1,47 +1,45 @@
 #acl ReadWriteGroup:read,write,delete,revert All:read
 
-{{{#!wiki caution
-'''En Construcción'''
-
-Por favor no editar.
-}}}
-
 = Objetivo =
 
 Entregar una copia impresa del [[http://docs.python.org.ar/tutorial/contenido.html|Tutorial de Python en español]]  a cada universidad del pais.
 
 = Como colaborar =
 
-Si estas cerca o tenes alguna relación con una universidad que no tiene el Tutorial de Python, podes anotarte y de esta manera te comprometes a hacer la donación en la biblioteca de dicha universidad. Anotate en la siguiente tabla:
+Si estas cerca o tenes alguna relación con una universidad que no tiene el Tutorial de Python, podes anotarte y de esta manera te comprometes a hacer la donación en la biblioteca de dicha universidad. Anotate en la siguiente tabla si tu universidad no figura en ella. [[Facundo]] te entregará el manual. Cuando lo hayas llevado, actualiza el estado con alguna de las siguientes leyendas:
 
-Prueba de tabla
+(1) Esperando el manual.
+(2) Entregado, esperando asignación nro. catálogo.
+(3) Completo (incluir por favor el nro. de catálogo)
 
-|| Nombre del responsable || Email || Universidad[es] ||
-|| Martín Gaitán || gaitan@gmail.com || Universidad Nacional de Córdoba ||
-|| Federico Vincenti || federicovincenti@gmail.com || Universidad Católica de Santiago del Estero - Departamento Académico Rafaela ||
-|| Marcos Alcazar || marcos.alcazar@gmail.com || UTN - Facultad Regional Mendoza ||
-|| Adrian Pardini || pardo.bsso@gmail.com || UNLP Ingeniería ||
-|| Matías Herranz || matiasherranz@gmail.com || UNC (Universidad Nacional de Córdoba) ||
-|| Ezequiel Chan || ezequielchan@gmail.com || Universidad Nacional de Luján ||
-|| Julian Cardonnet || jcardonnet@gmail.com || Universidad Nacional del Centro - Ingenieria de Sistemas (Tandil) ||
-|| Manuel Aráoz || manuelaraoz@gmail.com || ITBA ||
-|| Juan José Conti || jjconti@gmail.com || UTN FRSF, UNL, UCSF ||
-|| Jose Maria Schenone || jomax@filo.uba.ar || Filosofia y Letras ||
-|| Alejandro Autalan || alejandroautalan@gmail.com || Universidad Nacional de Santiago del Estero (UNSE) ||
-|| Daniel Ceillan || codigodaniel@gmail.com || Cri - Usal (Mar del Plata) ||
-|| Claudio Freire || klaussfreire@gmail.com || UBA (ciudad universitaria) ||
-|| Samanta Fernandez || samanta.fernandez@gmail.com || UTN - FRCU (C. del Uruguay, Entre Ríos) ||
-|| Juan Martin Muguerza || juanma@gnutn.org.ar || UTN Facultad Regional Buenos Aires ||
-|| Agustin Henze || agustinhenze@gmail.com || UTN FRegional Córdoba ||
-|| Daniel F. Moisset || dmoisset@machinalis.com || FaMAF, Univ. Nac. de Córdoba ||
-|| Andres Pardini || unpardos@gmail.com || UNLP facultad informatica ||
-|| Santiago Banchero || santiagobanchero@gmail.com || Universidad Nacional de Luján (Centro Regional Chivilcoy) ||
-|| Diego Gaspar || armandogaspar@gmail.com || Universidad Nacional de Cuyo y otros ||
-|| Gonzalo Fernandez || buurentriko@gmail.com || Universidad Nacional de Rio Cuarto ||
-|| Ignacio Fiandrino || tucumetal@gmail.com || Universidad Nacional de Rio Cuarto ||
-|| Gonzalo Delgado || gonzalodel@gmail.com || Universidad Nacional de Tucumán (Facultad de Ciencias Exactas y Tecnología); Universidad Tecnológica Nacional (Facultad Regional Tucumán) ||
-|| Alejandro Santos || alejolp@alejolp.com.ar || UNLP ||
-|| Pereyra Carlos || pereyra-carlos@hotmail.com || UTN FRLP ||
-|| Rafael Moyano || moyanor@gmail.com || Universidad Nacional de La Rioja ||
-|| Walter Alini || walteralini@gmail.com || FaMAF, UN Córdoba ||
-|| Pablo Papes || pablopapes@gmail.com || UTN FRCU ||
+|| Nombre del responsable || Email || Universidad[es] || Estado ||
+|| Sebastián Bassi || sbassi@gmail.com || Universidad Nacional de Quilmes || (2) ||
+|| Sebastián Bassi || sbassi@gmail.com || UNNOBA || (2) ||
+|| Martín Gaitán || gaitan@gmail.com || Universidad Nacional de Córdoba || (1) ||
+|| Federico Vincenti || federicovincenti@gmail.com || Universidad Católica de Santiago del Estero - Departamento Académico Rafaela || (1) ||
+|| Marcos Alcazar || marcos.alcazar@gmail.com || UTN - Facultad Regional Mendoza || (1) ||
+|| Adrian Pardini || pardo.bsso@gmail.com || UNLP Ingeniería || (1) ||
+|| Matías Herranz || matiasherranz@gmail.com || UNC (Universidad Nacional de Córdoba) || (1) ||
+|| Ezequiel Chan || ezequielchan@gmail.com || Universidad Nacional de Luján || (1) ||
+|| Julian Cardonnet || jcardonnet@gmail.com || Universidad Nacional del Centro - Ingenieria de Sistemas (Tandil) || (1) ||
+|| Manuel Aráoz || manuelaraoz@gmail.com || ITBA || (1) ||
+|| Juan José Conti || jjconti@gmail.com || UTN FRSF, UNL, UCSF || (1) ||
+|| Jose Maria Schenone || jomax@filo.uba.ar || Filosofia y Letras || (1) ||
+|| Alejandro Autalan || alejandroautalan@gmail.com || Universidad Nacional de Santiago del Estero (UNSE) || (1) ||
+|| Daniel Ceillan || codigodaniel@gmail.com || Cri - Usal (Mar del Plata) || (1) ||
+|| Claudio Freire || klaussfreire@gmail.com || UBA (ciudad universitaria) || (1) ||
+|| Samanta Fernandez || samanta.fernandez@gmail.com || UTN - FRCU (C. del Uruguay, Entre Ríos) || (1) ||
+|| Juan Martin Muguerza || juanma@gnutn.org.ar || UTN Facultad Regional Buenos Aires || (1) ||
+|| Agustin Henze || agustinhenze@gmail.com || UTN FRegional Córdoba || (1) ||
+|| Daniel F. Moisset || dmoisset@machinalis.com || FaMAF, Univ. Nac. de Córdoba || (1) ||
+|| Andres Pardini || unpardos@gmail.com || UNLP facultad informatica || (1) ||
+|| Santiago Banchero || santiagobanchero@gmail.com || Universidad Nacional de Luján (Centro Regional Chivilcoy) || (1) ||
+|| Diego Gaspar || armandogaspar@gmail.com || Universidad Nacional de Cuyo y otros || (1) ||
+|| Gonzalo Fernandez || buurentriko@gmail.com || Universidad Nacional de Rio Cuarto || (1) ||
+|| Ignacio Fiandrino || tucumetal@gmail.com || Universidad Nacional de Rio Cuarto || (1) ||
+|| Gonzalo Delgado || gonzalodel@gmail.com || Universidad Nacional de Tucumán (Facultad de Ciencias Exactas y Tecnología); Universidad Tecnológica Nacional (Facultad Regional Tucumán) || (1) ||
+|| Alejandro Santos || alejolp@alejolp.com.ar || UNLP || (1) ||
+|| Pereyra Carlos || pereyra-carlos@hotmail.com || UTN FRLP || (1) ||
+|| Rafael Moyano || moyanor@gmail.com || Universidad Nacional de La Rioja || (1) ||
+|| Walter Alini || walteralini@gmail.com || FaMAF, UN Córdoba || (1) ||
+|| Pablo Papes || pablopapes@gmail.com || UTN FRCU || (1) ||
