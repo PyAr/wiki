@@ -132,3 +132,7 @@ Empaquetado de aplicaciones y bibliotecas python para Debian.
 Migración de [[ http://codigosur.org/leer.php/1182042 | Cyclope ]] a Python/Django (work in progress). Es un CMS bastante simple, que en su versioń Python me gustaría que fuera más versátil que la actual en PHP. Está verde pero aunque sea me gustaría charlar algunos conceptos y la idea general con otros djangeros y no djangeros.
 
  * NicoEchaniz
+
+Implementar Asyncore2, versión mejorada del módulo estándar Asyncore manteniendo la simplicidad y si llegar a algo como Twisted.
+
+ * AlejandroSantos
