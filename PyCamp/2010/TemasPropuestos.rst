@@ -136,3 +136,7 @@ Migración de [[ http://codigosur.org/leer.php/1182042 | Cyclope ]] a Python/Dja
 Implementar Asyncore2, versión mejorada del módulo estándar Asyncore manteniendo la simplicidad y sin llegar a algo como Twisted, Java NIO o ASIO. Bugs de referencia: [[http://bugs.python.org/issue1641|issue1641]], [[http://bugs.python.org/issue2006|issue2006]].
 
  * AlejandroSantos
+
+Twisted-XMPP, Implementar un server xmpp (o parte/s), ya que no hay ningun server, solo clientes, usando [[http://twistedmatrix.com | twisted ]] + [[http://wokkel.ik.nu/ | wokkel]].
+
+ * Guillermo Gonzalez
