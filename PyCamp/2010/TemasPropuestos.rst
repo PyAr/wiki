@@ -72,11 +72,11 @@ Probemos esta librería.  Jugar con esa librería que tenés ganas de usar hace 
  * Lucas Shrewsbury
  * LeitoMonk (OpenCV - llevo 2 webcams :) )
 
-[[http://www.web2py.com.ar/|Web2py]]: Mejoras o Ajustes a la [[http://www.web2py.com.ar/wiki|wiki]] y [[http://www.web2py.com.ar/web2conf|web2conf]]. Traducción de documentación. Armar tutorial y/o aplicación de referencia (para enseñanza)
+[[http://www.web2py.com.ar/|Web2py]]: Mejoras o Ajustes a la [[http://www.web2py.com.ar/wiki|wiki]] y [[http://www.web2py.com.ar/web2conf|web2conf]]. Traducción de documentación. Armar tutorial y/o aplicación de referencia (para enseñanza, ver [[http://docs.google.com/View?id=dd9bm82g_428g8zvfvdx|proyecto]])
 
  * MarianoReingart
 
-PythonCard: Mejoras (integrar editor de código y diseñador de interfaz gráfica, agregar debugger, etc.). Hacerlo más fácil (para usarlo como herramienta para educación).
+PythonCard: Mejoras (integrar editor de código y diseñador de interfaz gráfica, agregar debugger, etc.). Hacerlo más fácil (para usarlo como herramienta para educación, ver [[http://docs.google.com/View?id=dd9bm82g_428g8zvfvdx|proyecto]]).
 
  * MarianoReingart
 
