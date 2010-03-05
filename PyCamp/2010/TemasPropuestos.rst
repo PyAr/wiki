@@ -88,6 +88,7 @@ PythonCard: Mejoras (integrar editor de código y diseñador de interfaz gráfic
  * TomasZulberti
  * AnthonyLenton
  * NicoEchaniz
+ * GonzaloDelgado
 
 (También, en Córdoba nos vamos juntar los que no pudimos ir al PyCamp y todos aquellos que se quieran sumar).
 
@@ -95,6 +96,7 @@ PythonCard: Mejoras (integrar editor de código y diseñador de interfaz gráfic
 
  * JuanjoConti
  * LucianoBello
+ * GonzaloDelgado
 
 Django o web2py en jornadasregionales.org: Implementar pycontech+django o web2conf en el sitio [[http://jornadasregionales.org|jornadasregionales.org]]. Sitio oficial de las Jornadas Regionales de Software Libre. El proyecto consiste en armar el sitio con estas herramientas que sea la referencia oficial de todas las JRSL futuras. El proyecto es ideal para personas que quieran iniciarse en Django.
 
@@ -103,6 +105,7 @@ Django o web2py en jornadasregionales.org: Implementar pycontech+django o web2co
  * MarianoReingart
  * MarianoFalcon
  * TomasZulberti
+ * GonzaloDelgado
 
 Complementos para ZMI de Zope: La interfaz de administración de Zope (ZMI) ha quedado un poco desactualizada con los cambios que se han dado con Five y ZCA. Estos cambios han llevado la forma de trabajar en Zope2 con un approach ttw a algo mas pythonico-through-the-filesystem, luego podria esta bueno contar con ciertos componentes tales como un zodb-browser, un class-browser, utility-registry-browser, etc. Esto podria ser un proyecto ambicioso porque si logramos algo estable, podriamos usar estos componentes para reemplazar al ZMI, actual.
 
