@@ -8,6 +8,7 @@ Acá van los temas propuestos, con adherentes:
  * alecu
  * Pablo Mouzo
  * Guillermo Gonzalez
+ * SantiagoPiccinini
 
 [[http://humitos.wordpress.com/2008/05/05/colaborando-con-python/|BugDay]]: Salimos a la caza de bugs de Python (esto seguro que será sólo medio día o un día como muuucho)
 
@@ -16,6 +17,7 @@ Acá van los temas propuestos, con adherentes:
  * Pablo Mouzo
  * Lucas Shrewsbury
  * TomasZulberti
+ * SantiagoPiccinini
 
 [[https://edge.launchpad.net/lalita|Lalita]]: Un bot de IRC donde agregar nuevas funcionalidades es muy fácil, sólo se necesita escribir un plugin muy sencillo.
 
@@ -55,6 +57,7 @@ MIDI hacking.  Elegir un proyecto que interactúe con algún dispositivo MIDI, d
  * AnthonyLenton
  * alecu
  * RicardoKirkner
+ * SantiagoPiccinini
 
 Tower defense.  Implementar algún juego de tower defense utilizando [[http://cocos2d.org/|cocos2d]].  Discutir opciones, armar un roadmap y implementar hasta donde se pueda.
 
@@ -71,6 +74,7 @@ Probemos esta librería.  Jugar con esa librería que tenés ganas de usar hace 
  * alecu (+1 a OpenCV! llevo 2 webcams)
  * Lucas Shrewsbury
  * LeitoMonk (OpenCV - llevo 2 webcams :) )
+ * SantiagoPiccinini (+1 OpenCV)
 
 [[http://www.web2py.com.ar/|Web2py]]: Mejoras o Ajustes a la [[http://www.web2py.com.ar/wiki|wiki]] y [[http://www.web2py.com.ar/web2conf|web2conf]]. Traducción de documentación. Armar tutorial y/o aplicación de referencia (para enseñanza, ver [[http://docs.google.com/View?id=dd9bm82g_428g8zvfvdx|proyecto]])
 
@@ -89,6 +93,7 @@ PythonCard: Mejoras (integrar editor de código y diseñador de interfaz gráfic
  * AnthonyLenton
  * NicoEchaniz
  * GonzaloDelgado
+ * SantiagoPiccinini
 
 (También, en Córdoba nos vamos juntar los que no pudimos ir al PyCamp y todos aquellos que se quieran sumar).
 
