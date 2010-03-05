@@ -4,7 +4,7 @@
  Ver [[PyCamp/2010/Pendientes|Pendientes]]
 
 == Cronograma de charlas y reuniones ==
-[[Cronograma]]
+[[PyCamp/2010/Cronograma|Cronograma]]
 
 == Fecha ==
  * 5 al 8 de Marzo, 2010.
