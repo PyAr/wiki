@@ -20,5 +20,5 @@ Anotate en el siguiente lista para participar del torneo: ''el que no se anotó 
  * Facubatista
  * Manuq
  * Fisa
- * Juanjo
+ * JuanjoConti
  * Luciano
