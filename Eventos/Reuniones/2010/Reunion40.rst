@@ -11,3 +11,4 @@ Muchos temas, de los cuales los más destacados fueron:
  * PyCon Argentina 2010
  * PyCon USA 2010
  * Mercado laboral en Python
+ * Reparto de merchandising traido de USA, y también de tutoriales y cositas varias
