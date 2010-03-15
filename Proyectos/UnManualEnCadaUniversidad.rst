@@ -9,12 +9,16 @@ Entregar una copia impresa del [[http://docs.python.org.ar/tutorial/contenido.ht
 Si estas cerca o tenes alguna relación con una universidad que no tiene el Tutorial de Python, podes anotarte y de esta manera te comprometes a hacer la donación en la biblioteca de dicha universidad. Anotate en la siguiente tabla si tu universidad no figura en ella. FacundoBatista te entregará el manual. Cuando lo hayas llevado, actualiza el estado con alguna de las siguientes leyendas:
 
 (1) Esperando el manual.
-(2) Entregado, esperando asignación de nro. catálogo.
-(3) Completo (incluir por favor el nro. de catálogo)
+
+(2) Manual recibido.
+
+(3) Entregado a la unidad académica, esperando asignación de nro. catálogo.
+
+(4) Completo (incluir por favor el nro. de catálogo)
 
 || Nombre del responsable || Email || Universidad[es] || Estado ||
-|| Sebastián Bassi || sbassi@gmail.com || Universidad Nacional de Quilmes || (2) ||
-|| Sebastián Bassi || sbassi@gmail.com || UNNOBA || (2) ||
+|| Sebastián Bassi || sbassi@gmail.com || Universidad Nacional de Quilmes || (3) ||
+|| Sebastián Bassi || sbassi@gmail.com || UNNOBA || (3) ||
 || Martín Gaitán || gaitan@gmail.com || Universidad Nacional de Córdoba || (1) ||
 || Federico Vincenti || federicovincenti@gmail.com || Universidad Católica de Santiago del Estero - Departamento Académico Rafaela || (1) ||
 || Marcos Alcazar || marcos.alcazar@gmail.com || UTN - Facultad Regional Mendoza || (1) ||
@@ -31,7 +35,7 @@ Si estas cerca o tenes alguna relación con una universidad que no tiene el Tuto
 || Samanta Fernandez || samanta.fernandez@gmail.com || UTN - FRCU (C. del Uruguay, Entre Ríos) || (1) ||
 || Juan Martin Muguerza || juanma@gnutn.org.ar || UTN Facultad Regional Buenos Aires || (1) ||
 || Agustin Henze || agustinhenze@gmail.com || UTN FRegional Córdoba || (1) ||
-|| Daniel F. Moisset || dmoisset@machinalis.com || FaMAF, Univ. Nac. de Córdoba || (2) ||
+|| Daniel F. Moisset || dmoisset@machinalis.com || FaMAF, Univ. Nac. de Córdoba || (3) ||
 || Andres Pardini || unpardos@gmail.com || UNLP facultad informatica || (1) ||
 || Santiago Banchero || santiagobanchero@gmail.com || Universidad Nacional de Luján (Centro Regional Chivilcoy) || (1) ||
 || Diego Gaspar || armandogaspar@gmail.com || Universidad Nacional de Cuyo y otros || (1) ||
