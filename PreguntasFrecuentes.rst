@@ -261,12 +261,11 @@ Si:
  * Reddit (http://reddit.com) está [[http://brainsik.theory.org/.:./2009/why-reddit-uses-python|programado en Python]].
  * !FriendFeed (http://friendfeed.com) (adquidiro por Facebook en Agosto 2009) está [[http://blog.friendfeed.com/2008/02/friendfeed-changelog-see-what-code-we.html|programado en Python]].
  * La NASA [[http://nebula.nasa.gov/services/|usa Python]] en el ''frontend'' de su platforma de ''cloud computing'' [[http://nebula.nasa.gov/|NEBULA]].
- * La NASA [[http://nebula.nasa.gov/services/|usa Python]] en el ''frontend'' de su platforma de ''cloud computing'' [[http://nebula.nasa.gov/|NEBULA]].
 
 Algunos sitios no tan conocidos pero que están hechos con Python y vale la pena ver:
 
  * Kiosko.net (http://Kiosko.net) está hecho en Django.
- * GooglePersonFinder (http://googlepersonfinder.blogspot.com) se utilizó para el terremoto de Chile 2010.
+ * GooglePersonFinder (http://haiticrisis.appspot.com) se utilizó para el terremoto de Haití de 2010.
  * Web2py HL7 (http://web2py.com/HLv3), un ejemplo de aplicación hecha en Web2py.
 
 === ¿En que difieren Python y VisualBasic? ===
