@@ -80,6 +80,9 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr, están rela
  * [[http://code.google.com/p/gestionlibre/|Gestión Libre]]
   * Proyecto para desarrollar un sistema de gestión de código abierto / software libre y sus herramientas relacionadas (diseñador de pantallas, editor de código, acceso a la base de datos, generación de reportes, etc.). 
 
+ * [[http://code.google.com/p/quickdiagrams/|QuickDiagrams]]
+  * Permite crear diagramas de clase a partir de un archivo de texto muy sencillo o un modulo python.
+
 <<BR>>
 ----
  <<Navigation(children, 1)>> 
