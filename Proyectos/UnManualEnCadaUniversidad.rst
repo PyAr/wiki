@@ -47,5 +47,6 @@ Si estas cerca o tenes alguna relación con una universidad que no tiene el Tuto
 || Rafael Moyano || moyanor@gmail.com || Universidad Nacional de La Rioja || (1) ||
 || Walter Alini || walteralini@gmail.com || FaMAF, UN Córdoba || (1) ||
 || Pablo Papes || pablopapes@gmail.com || UTN FRCU || (1) ||
-|| Manuel Muradás || mmuradas@dieresys.com.ar || UADE || (1) ||
+|| Manuel Muradás || mmuradas@dieresys.com.ar || UADE || (2) ||
+|| Manuel Muradás || mmuradas@dieresys.com.ar || "José Hernandez" E.E.T. Nº7 de Avellaneda || (2) ||
 || Diego Mascialino || dmascialino@gmail.com || UBA - Facultad de Ingeniería, Biblioteca "Ing Butty" y Biblioteca del LABI || (3) ||
