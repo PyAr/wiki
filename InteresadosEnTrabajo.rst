@@ -1,29 +1,32 @@
 = Interesados en recibir ofertas de trabajo utilizando Python =
 Si usted se inscribe acá probablemente reciba emails contactándolo.
-||<tablestyle="width: 867px; height: 754px;">'''Quien''' ||'''Sólo Freelance''' ||'''Sólo Rel. de Dependencia''' ||'''Unicamente en''' ||
-||AlejandroDavidWeil || || ||Cap. Federal y Gran Buenos Aires ||
+||<tablewidth="867px" tableheight="754px" tablestyle="">'''Quien''' ||'''Sólo Freelance''' ||'''Sólo Rel. de Dependencia''' ||'''Unicamente en''' ||
+||AlejandroDavidWeil ||                        ||                        ||Cap. Federal y Gran Buenos Aires ||
 ||DanielMoisset ||Sí ||No ||Córdoba, trabajo remotamente ||
-||FacundoBatista || || || ||
-||GuillermoFreschi || || ||Chaco y Corrientes (físicamente) ||
+||FacundoBatista ||                        ||                        ||                        ||
+||GuillermoFreschi ||                        ||                        ||Chaco y Corrientes (físicamente) ||
 ||HoracioDuran ||Sí ||No ||Córdoba, trabajo remotamente ||
-||MarceloAlaniz || || ||San Luis (físicamente) ||
+||MarceloAlaniz ||                        ||                        ||San Luis (físicamente) ||
 ||JavierMansilla ||Sí ||No ||Córdoba, trabajo remotamente ||
-||SantiagoSuarezO || || || ||
-||JohnLenton || || ||Córdoba (físicamente) ||
-||[[http://gonzalodelgado.com.ar/|Gonzalo Delgado]] || || ||Tucumán, trabajo remotamente ||
-||HernanOlivera || || ||(teletrabajo) ||
-||[[http://www.python.com.ar/moin/arturoeanton|Arturo Elias Anton]] || || || ||
-||RicardoKirkner || || || ||
-||MartinBorthiry || || ||Mar del Plata (teletrabajo) ||
-||RobertoRodríguez || || ||Capital Federal y GBA ||
-||RenzoCarbonara || || ||Cap. Federal, E. Rios o freelance ||
+||SantiagoSuarezO ||                        ||                        ||                        ||
+||JohnLenton ||                        ||                        ||Córdoba (físicamente) ||
+||[[http://gonzalodelgado.com.ar/|Gonzalo Delgado]] ||                        ||                        ||Tucumán, trabajo remotamente ||
+||HernanOlivera ||                        ||                        ||(teletrabajo) ||
+||[[http://www.python.com.ar/moin/arturoeanton|Arturo Elias Anton]] ||                        ||                        ||                        ||
+||RicardoKirkner ||                        ||                        ||                        ||
+||MartinBorthiry ||                        ||                        ||Mar del Plata (teletrabajo) ||
+||RobertoRodríguez ||                        ||                        ||Capital Federal y GBA ||
+||RenzoCarbonara ||                        ||                        ||Cap. Federal, E. Rios o freelance ||
 ||WalterAlini ||Sí ||No ||Córdoba, trabajo remotamente ||
-||[[http://www.estebanfeldman.com/|EstebanFeldman]] ||Sí ||No || ||
-||[[mailto:ekuber@gmail.com/|EstebanKüber]] || || ||Capital Federal ||
-||PabloZiliani || || || ||
-||[[http://www.l2radamanthys.com.ar|RicardoD.Quiroga]] || || || ||
-||[[http://www.pguridi.com|Pedro Guridi]] || || ||Capital Federal, trabajo remotamente. ||
-||Pablo Lerner||Sí || ||Capital Federal||
-||AlbertoPaparelli|| || ||Capital Federal, GBA Zona Sur||
-||MartinAlderete ||Sí ||No ||Trabajo remotamente||
+||[[http://www.estebanfeldman.com/|EstebanFeldman]] ||Sí ||No ||                        ||
+||[[mailto:ekuber@gmail.com/|EstebanKüber]] ||                        ||                        ||Capital Federal ||
+||PabloZiliani ||                        ||                        ||                        ||
+||[[http://www.l2radamanthys.com.ar|RicardoD.Quiroga]] ||                        ||                        ||                        ||
+||[[http://www.pguridi.com|Pedro Guridi]] ||                        ||                        ||Capital Federal, trabajo remotamente. ||
+||Pablo Lerner ||Sí ||                        ||Capital Federal ||
+||AlbertoPaparelli ||                        ||                        ||Capital Federal, GBA Zona Sur ||
+||MartinAlderete ||Sí ||No ||Trabajo remotamente ||
 ||[[mailto:chinomng@gmail.com/|MarianoGalan]] ||Sí ||No ||Santa Fe, trabajo remotamente ||
+||[[mailto:canicue@gmail.com/|canicue]] ||Sí ||No ||Mar del Plata,trabajo remotamente ||
+
+
