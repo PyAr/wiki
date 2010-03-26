@@ -1,5 +1,51 @@
 = Una magazine de python entre todos :) =
 
+== Cosas para hacer: ==
+* Definir la revista.
+ * '''Nombre de la revista.'''
+  * Pyar Exposed / Votos: 1
+   * Votaron:
+    * Joaquin Sorianello
+  * PET que serian las siglas de 'Python Entre Todos' / Votos: 1
+   * Votaron:
+    * Emiliano Dalla Verde Marcozzi
+
+ * '''Release Date''', fecha en la que se publica el numero uno. 
+  * Esto se esta definiendo aun.
+
+ * '''Bajo que licencia deben enviar los articuladores sus articulos ?'''
+  * Creative Commons Attribution Non-Commercial Share Alike o alguna mas permisiva (3 votos)
+   * Votaron:
+    * Joaquin Sorianello
+    * Lucas Rollback
+    * Emiliano Dalla Verde Marcozzi
+
+ * '''Bajo que licencia publicamos la revista ?'''
+  * Creative Commons Attribution Non-Commercial Share Alike (3 votos)
+   * Votaron:
+    * Joaquin Sorianello
+    * Lucas Rollback
+    * Emiliano Dalla Verde Marcozzi
+
+ * '''Formato en que los articuladores envian sus articulos ?'''
+  * Tirando a Restructured Text para luego generar PDF's. Aun definiendose.
+   * Votaron:
+    * Joaquin Sorianello
+    * Lucas Rollback
+    * Emiliano Dalla Verde Marcozzi
+
+ * '''Formato en que publicamos la revista ?'''
+  * PDF y Roberto Alsina puede dar una mano para generarlo desde reST ! Aparte perfila la idea de automatizar el proceso de armado de la revista ... no somos vagos para nada :P. (3 votos)
+   * Votaron:
+    * Joaquin Sorianello
+    * Lucas Rollback
+    * Emiliano Dalla Verde Marcozzi
+
+== Cosas Hechas ==
+* Precisamos de un grupo u persona que arme la revista / editores :). Interesados, anotarse en el wiki. [OK]
+
+* Precisamos de un grupo u persona que este interesada en aportar articulos a la revista. Interesados, anotarse en el wiki. [OK]
+
 == Stage 1 - Start! ==
 La idea es armar entre la comunidad y para la comunidad una magazine / revista de python! Si estabas extraniando contar con un buen material didactico cual te acompanie en tus momentos de relax en el banio, o tal vez una magazine donde encontrarte con python en formas cuales no conocias, enterarte de los proximos eventos en la comunidad pythonera y porque no algun que otro poster de alguna chica sexy ... esta va a ser tu magazine!!! ;).
 
@@ -34,11 +80,6 @@ Si es grafica toda linda en PDF es mas laburo en edicion y menos 'portable' ... 
 * '''Cada cuanto van a sacar una nueva edicion ?''' Esto lo veremos plasmado en cuanto tiempo nos lleva armar el primer numero. Con esta experiencia esperemos podamos estimar cuanto tiempo nos lleva armar un nuevo numero.
 
 * '''Es sin fines de lucro o con fines de lucro?''' Yo diria que es con fines de locro, es una comida .ar MUY rica y no es con fines de lucro, como dice mas arriba '''hecha por la comunidad para la comunidad'''.
-
-=== Cosas para hacer: ===
-* Precisamos de un grupo u persona que arme la revista / editores :). Interesados, anotarse en el wiki.
-
-* Precisamos de un grupo u persona que este interesada en aportar articulos a la revista. Interesados, anotarse en el wiki.
 
 
 === Editores / quienes arman la revista ===
