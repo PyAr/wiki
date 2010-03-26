@@ -36,9 +36,15 @@ Si es grafica toda linda en PDF es mas laburo en edicion y menos 'portable' ... 
 
 * Hystrix
 
+* Emiliano Dalla Verde Marcozzi
+
 === Interesados en aportar articulos a la revista ===
 * Tomas Zulberti
 
 * Juan Rodríguez Monti
 
 * Roberto Allende
+
+* Ezequiel Szturmaj
+
+* Emiliano Dalla Verde Marcozzi
