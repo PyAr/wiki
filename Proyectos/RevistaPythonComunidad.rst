@@ -13,6 +13,9 @@
   * The Greatest Pythonst Magazinest of the Worlds / Votos: 1
    * Votaron:
     * Fabian Ezequiel Gallina
+  * Lampalagua (Pitón Argentina) / Votos: 1
+   * Votaron:
+    * Matias Hernan Vivas Maqueda
 
  * '''Release Date''', fecha en la que se publica el numero uno. 
   * Esto se esta definiendo aun.
