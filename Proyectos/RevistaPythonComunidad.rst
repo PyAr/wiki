@@ -63,6 +63,8 @@ Si es grafica toda linda en PDF es mas laburo en edicion y menos 'portable' ... 
 
 * Roberto Alsina
 
+* Claudio Freire
+
 === Referencias / Revistas / Ezines ===
 * http://www.ucontrol.com.ar/wiki/index.php/Revista_ucontrol
 
