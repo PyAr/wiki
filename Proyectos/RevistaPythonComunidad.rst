@@ -48,7 +48,9 @@ Si es grafica toda linda en PDF es mas laburo en edicion y menos 'portable' ... 
 
 * Emiliano Dalla Verde Marcozzi
 
-* Mario Rodas http://webs.uvigo.es/occams-razor/
+* Mario Rodas
+
+* Lucas Rollback
 
 === Interesados en aportar articulos a la revista ===
 * Tomas Zulberti
@@ -64,6 +66,8 @@ Si es grafica toda linda en PDF es mas laburo en edicion y menos 'portable' ... 
 * Roberto Alsina
 
 * Claudio Freire
+
+* Lucas Rollback
 
 === Referencias / Revistas / Ezines ===
 * http://www.ucontrol.com.ar/wiki/index.php/Revista_ucontrol
