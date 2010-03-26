@@ -117,6 +117,10 @@ Si es grafica toda linda en PDF es mas laburo en edicion y menos 'portable' ... 
 
 * Lucas Rollback
 
+* Mauro Caceres
+
+* Matias Hernan Vivas Maqueda (el rincon del sysadmin!)
+
 === Referencias / Revistas / Ezines ===
 * http://www.ucontrol.com.ar/wiki/index.php/Revista_ucontrol
 
