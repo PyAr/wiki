@@ -67,3 +67,12 @@ Si es grafica toda linda en PDF es mas laburo en edicion y menos 'portable' ... 
 * http://www.ucontrol.com.ar/wiki/index.php/Revista_ucontrol
 
 * http://webs.uvigo.es/occams-razor/
+
+=== Referencias / Herramientas de Edicion ===
+* Tutorial de Scribus en Espaniol
+
+ * http://www.linux-magazine.es/issue/04/Scribus1.pdf
+
+ * http://www.linux-magazine.es/issue/05/Scribus1.pdf
+
+ * http://www.linux-magazine.es/issue/06/Scribus.pdf
