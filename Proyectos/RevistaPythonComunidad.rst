@@ -25,6 +25,16 @@ Si es grafica toda linda en PDF es mas laburo en edicion y menos 'portable' ... 
 
 * llamamos al feedback.
 
+== Preguntas Frecuentes / FAQ ==
+
+* '''Seria algo digital o de imprenta propiamente dicho? ?''' Es en formato digital, luego si quieres puedes matar algunos arbolitos e imprimirla :P.
+
+* '''Idioma de la magazine ?''' Español.
+
+* '''Cada cuanto van a sacar una nueva edicion ?''' Esto lo veremos plasmado en cuanto tiempo nos lleva armar el primer numero. Con esta experiencia esperemos podamos estimar cuanto tiempo nos lleva armar un nuevo numero.
+
+* '''Es sin fines de lucro o con fines de lucro?''' Yo diria que es con fines de locro, es una comida .ar MUY rica y no es con fines de lucro, como dice mas arriba '''hecha por la comunidad para la comunidad'''.
+
 === Cosas para hacer: ===
 * Precisamos de un grupo u persona que arme la revista / editores :). Interesados, anotarse en el wiki.
 
@@ -52,3 +62,8 @@ Si es grafica toda linda en PDF es mas laburo en edicion y menos 'portable' ... 
 * Emiliano Dalla Verde Marcozzi
 
 * Roberto Alsina
+
+=== Referencias / Revistas / Ezines ===
+* http://www.ucontrol.com.ar/wiki/index.php/Revista_ucontrol
+
+* http://webs.uvigo.es/occams-razor/
