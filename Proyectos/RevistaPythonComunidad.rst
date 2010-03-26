@@ -9,23 +9,28 @@
   * PET que serian las siglas de 'Python Entre Todos' / Votos: 1
    * Votaron:
     * Emiliano Dalla Verde Marcozzi
+  * The Greatest Pythonst Magazinest of the Worlds / Votos: 1
+   * Votaron:
+    * Fabian Ezequiel Gallina
 
  * '''Release Date''', fecha en la que se publica el numero uno. 
   * Esto se esta definiendo aun.
 
  * '''Bajo que licencia deben enviar los articuladores sus articulos ?'''
-  * Creative Commons Attribution Non-Commercial Share Alike o alguna mas permisiva (3 votos)
+  * Creative Commons Attribution Non-Commercial Share Alike o alguna mas permisiva (4 votos)
    * Votaron:
     * Joaquin Sorianello
     * Lucas Rollback
     * Emiliano Dalla Verde Marcozzi
+    * Fabian Ezequiel Gallina
 
  * '''Bajo que licencia publicamos la revista ?'''
-  * Creative Commons Attribution Non-Commercial Share Alike (3 votos)
+  * Creative Commons Attribution Non-Commercial Share Alike (4 votos)
    * Votaron:
     * Joaquin Sorianello
     * Lucas Rollback
     * Emiliano Dalla Verde Marcozzi
+    * Fabian Ezequiel Gallina
 
  * '''Formato en que los articuladores envian sus articulos ?'''
   * Tirando a Restructured Text para luego generar PDF's. Aun definiendose.
@@ -33,6 +38,7 @@
     * Joaquin Sorianello
     * Lucas Rollback
     * Emiliano Dalla Verde Marcozzi
+    * Fabian Ezequiel Gallina
 
  * '''Formato en que publicamos la revista ?'''
   * PDF y Roberto Alsina puede dar una mano para generarlo desde reST ! Aparte perfila la idea de automatizar el proceso de armado de la revista ... no somos vagos para nada :P. (3 votos)
@@ -40,6 +46,7 @@
     * Joaquin Sorianello
     * Lucas Rollback
     * Emiliano Dalla Verde Marcozzi
+    * Fabian Ezequiel Gallina
 
 == Cosas Hechas ==
 * Precisamos de un grupo u persona que arme la revista / editores :). Interesados, anotarse en el wiki. [OK]
