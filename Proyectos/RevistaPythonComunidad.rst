@@ -3,17 +3,18 @@
 == Cosas para hacer: ==
 * Definir la revista.
  * '''Nombre de la revista.'''
-  * Pyar Exposed / Votos: 1
+  * '''Pyar Exposed'''
    * Votaron:
     * Joaquin Sorianello
-  * PET que serian las siglas de 'Python Entre Todos' / Votos: 2
+  * '''PET que serian las siglas de 'Python Entre Todos' '''
    * Votaron:
     * Emiliano Dalla Verde Marcozzi
     * Daniel dmlistapyhon _at_ gmail
-  * The Greatest Pythonst Magazinest of the Worlds / Votos: 1
+    * Nicolás Bevilacqua
+  * ''' The Greatest Pythonst Magazinest of the Worlds '''
    * Votaron:
     * Fabian Ezequiel Gallina
-  * Lampalagua (Pitón Argentina) / Votos: 1
+  * ''' Lampalagua (Pitón Argentina) '''
    * Votaron:
     * Matias Hernan Vivas Maqueda
 
@@ -29,7 +30,7 @@
     * Fabian Ezequiel Gallina
 
  * '''Bajo que licencia publicamos la revista ?'''
-  * Creative Commons Attribution Non-Commercial Share Alike (4 votos)
+  * Creative Commons Attribution Non-Commercial Share Alike
    * Votaron:
     * Joaquin Sorianello
     * Lucas Rollback
@@ -45,7 +46,7 @@
     * Fabian Ezequiel Gallina
 
  * '''Formato en que publicamos la revista ?'''
-  * PDF y Roberto Alsina puede dar una mano para generarlo desde reST ! Aparte perfila la idea de automatizar el proceso de armado de la revista ... no somos vagos para nada :P. (3 votos)
+  * PDF y Roberto Alsina puede dar una mano para generarlo desde reST ! Aparte perfila la idea de automatizar el proceso de armado de la revista ... no somos vagos para nada :P. 
    * Votaron:
     * Joaquin Sorianello
     * Lucas Rollback
