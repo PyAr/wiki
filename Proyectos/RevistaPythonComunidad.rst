@@ -131,6 +131,8 @@ Si es grafica toda linda en PDF es mas laburo en edicion y menos 'portable' ... 
 
 * http://webs.uvigo.es/occams-razor/
 
+* http://www.pythonrag.org/
+
 === Referencias / Herramientas de Edicion ===
 * Tutorial de Scribus en Espaniol
 
