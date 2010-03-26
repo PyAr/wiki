@@ -6,9 +6,10 @@
   * Pyar Exposed / Votos: 1
    * Votaron:
     * Joaquin Sorianello
-  * PET que serian las siglas de 'Python Entre Todos' / Votos: 1
+  * PET que serian las siglas de 'Python Entre Todos' / Votos: 2
    * Votaron:
     * Emiliano Dalla Verde Marcozzi
+    * Daniel dmlistapyhon _at_ gmail
   * The Greatest Pythonst Magazinest of the Worlds / Votos: 1
    * Votaron:
     * Fabian Ezequiel Gallina
