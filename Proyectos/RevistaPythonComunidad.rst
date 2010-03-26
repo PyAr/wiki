@@ -38,6 +38,8 @@ Si es grafica toda linda en PDF es mas laburo en edicion y menos 'portable' ... 
 
 * Emiliano Dalla Verde Marcozzi
 
+* Mario Rodas http://webs.uvigo.es/occams-razor/
+
 === Interesados en aportar articulos a la revista ===
 * Tomas Zulberti
 
@@ -48,3 +50,5 @@ Si es grafica toda linda en PDF es mas laburo en edicion y menos 'portable' ... 
 * Ezequiel Szturmaj
 
 * Emiliano Dalla Verde Marcozzi
+
+* Roberto Alsina
