@@ -12,7 +12,6 @@ Showstoppers proximo release:
  * que el form de reset de password ande y tenga css
  * que haya una pagina de init mas entendible que la main de admin para que el tipo depa que editar
  * poner a un mono que haga de user y nos diga si se entiende algo
- * fallo al tratar de subir imagenes (Permission denied)
 
 Entre todos:
  * cargar items
