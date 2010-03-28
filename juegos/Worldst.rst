@@ -5,6 +5,7 @@ Showstoppers proximo release:
    * adventure by lucio
    * trivia by ?
    * simon by ?
+ * que los uploaders de imagenes indiquen formato permitido
  * documentacion para el pueblo
  * que el form de registration te redirija al de reset de password (lucascaro)
  * que el form de reset de password ande y tenga css (lucas caro)
