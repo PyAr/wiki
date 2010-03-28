@@ -1,6 +1,10 @@
 Showstoppers proximo release:
  * editores de contenido (cuales faltan para "salir"?)
  * help de los editores existentes
+   * history by lucio
+   * adventure by lucio
+   * trivia by ?
+   * simon by ?
  * que locations NO sea editable
  * permisos para editar otras cosas que no sean char/item/location
  * documentacion para el pueblo
