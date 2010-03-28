@@ -5,12 +5,10 @@ Showstoppers proximo release:
    * adventure by lucio
    * trivia by ?
    * simon by ?
- * que locations NO sea editable
- * permisos para editar otras cosas que no sean char/item/location
  * documentacion para el pueblo
- * que el form de registration te redirija al de reset de password
- * que el form de reset de password ande y tenga css
- * que haya una pagina de init mas entendible que la main de admin para que el tipo depa que editar
+ * que el form de registration te redirija al de reset de password (lucascaro)
+ * que el form de reset de password ande y tenga css (lucas caro)
+ * que haya una pagina de init mas entendible que la main de admin para que el tipo depa que editar (nicoechaniz)
  * poner a un mono que haga de user y nos diga si se entiende algo
 
 Entre todos:
