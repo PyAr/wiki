@@ -7,8 +7,6 @@ Showstoppers proximo release:
    * simon by ?
  * que los uploaders de imagenes indiquen formato permitido
  * documentacion para el pueblo
- * que el form de registration te redirija al de reset de password (lucascaro)
- * que el form de reset de password ande y tenga css (lucas caro)
  * que haya una pagina de init mas entendible que la main de admin para que el tipo depa que editar (nicoechaniz)
  * poner a un mono que haga de user y nos diga si se entiende algo
 
