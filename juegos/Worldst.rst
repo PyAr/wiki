@@ -1,6 +1,7 @@
 Showstoppers proximo release:
  * editores de contenido (cuales faltan para "salir"?)
  * help de los editores existentes
+ * que locations NO sea editable
  * permisos para editar otras cosas que no sean char/item/location
  * documentacion para el pueblo
  * que el form de registration te redirija al de reset de password
