@@ -19,4 +19,7 @@ Otras:
  * definir modelo de achievemts (DARNI)
  * hacer una vista que permita taggear cosas
  * hacer el scraping de datos de locations (ciudades) (levantar datos 
-    de wikipedia, pasar a la DB)
+ de wikipedia, pasar a la DB) .
+ (diegoM: estuve trabajando en este punto, con este script [[http://gist.github.com/347465]],
+ obtuve estos datos [[http://web.fi.uba.ar/~dimascial/cities_json.tar.gz]],
+ hay que ver si se quiere algo mas y agregarlo a la DB)
