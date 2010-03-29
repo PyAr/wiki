@@ -1,8 +1,8 @@
 Showstoppers proximo release:
- * editores de contenido (cuales faltan para "salir"?)
+ * --(editores de contenido (cuales faltan para "salir"?)--
  * help de los editores existentes
    * history by lucio
-   * adventure by lucio
+   * --(adventure by lucio)--
    * trivia by ?
    * simon by ?
  * que los uploaders de imagenes indiquen formato permitido
