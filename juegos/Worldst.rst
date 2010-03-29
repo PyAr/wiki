@@ -4,7 +4,7 @@ Showstoppers proximo release:
    * history by lucio
    * --(adventure by lucio)--
    * trivia by ?
-   * simon by ricardo
+   * --(simon by ricardo)--
  * que los uploaders de imagenes indiquen formato permitido
  * documentacion para el pueblo
  * que haya una pagina de init mas entendible que la main de admin para que el tipo depa que editar (nicoechaniz)
