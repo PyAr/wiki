@@ -1,13 +1,13 @@
 Showstoppers proximo release:
  * --(editores de contenido (cuales faltan para "salir"?)--
- * help de los editores existentes
+ * help de los editores existentes (si crean un /templates/(appname)/help.html, el boton de help aparece solo)
    * history by lucio
    * --(adventure by lucio)--
    * trivia by ?
    * --(simon by pindonga)--
  * que los uploaders de imagenes indiquen formato permitido
  * documentacion para el pueblo
- * que haya una pagina de init mas entendible que la main de admin para que el tipo depa que editar (nicoechaniz)
+ * que haya una pagina de init mas entendible que la main de admin para que el tipo depa que editar 
  * poner a un mono que haga de user y nos diga si se entiende algo
 
 Entre todos:
