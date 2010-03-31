@@ -1,6 +1,13 @@
 = Una magazine de python entre todos :) =
 
 == Cosas para hacer: ==
+* Comenzar con el disenio
+
+== Cosas Hechas ==
+* Precisamos de un grupo u persona que arme la revista / editores :). Interesados, anotarse en el wiki. [OK]
+
+* Precisamos de un grupo u persona que este interesada en aportar articulos a la revista. Interesados, anotarse en el wiki. [OK]
+
 * Definir la revista.
  * '''Nombre de la revista.'''
   * '''Pyar Exposed'''
@@ -52,11 +59,6 @@
     * Lucas Rollback
     * Emiliano Dalla Verde Marcozzi
     * Fabian Ezequiel Gallina
-
-== Cosas Hechas ==
-* Precisamos de un grupo u persona que arme la revista / editores :). Interesados, anotarse en el wiki. [OK]
-
-* Precisamos de un grupo u persona que este interesada en aportar articulos a la revista. Interesados, anotarse en el wiki. [OK]
 
 == Stage 1 - Start! ==
 La idea es armar entre la comunidad y para la comunidad una magazine / revista de python! Si estabas extraniando contar con un buen material didactico cual te acompanie en tus momentos de relax en el banio, o tal vez una magazine donde encontrarte con python en formas cuales no conocias, enterarte de los proximos eventos en la comunidad pythonera y porque no algun que otro poster de alguna chica sexy ... esta va a ser tu magazine!!! ;).
