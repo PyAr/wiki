@@ -5,7 +5,7 @@ Showstoppers proximo release:
    * --(adventure by lucio)--
    * trivia by ?
    * --(simon by pindonga)--
- * que los uploaders de imagenes indiquen formato permitido y tama recomendado. Hay cropping de fotos?
+ * que los uploaders de imagenes indiquen tamaño recomendado. Hay cropping de fotos?
  * poner a un mono que haga de user y nos diga si se entiende algo
  * agrandar boton de help
 
