@@ -14,8 +14,7 @@ Entre todos:
  * cargar characters
 
 Otras:
- * definir modelo de achievemts (DARNI)
- * hacer una vista que permita taggear cosas
+ * hacer una vista que permita taggear cosas (DARNI)
  * hacer el scraping de datos de locations (ciudades) (levantar datos 
  de wikipedia, pasar a la DB) .
  (diegoM: estuve trabajando en este punto, con este script [[http://gist.github.com/347465]],
