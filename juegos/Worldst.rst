@@ -21,3 +21,6 @@ Otras:
  * paginas de usuario
  * ayudas al tagger
  * tag clouds
+ * pulir un poquito las vistas de admin
+ * agregar vistas para testear los challenges/items
+ * subir locations a la db para poder taguearlas
