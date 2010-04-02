@@ -8,13 +8,13 @@ Showstoppers proximo release:
  * que los uploaders de imagenes indiquen tamaño recomendado. Hay cropping de fotos?
  * poner a un mono que haga de user y nos diga si se entiende algo
  * agrandar boton de help
+ * que al taguear vuelva exactamente al mismo lugar que antes
 
 Entre todos:
  * cargar items
  * cargar characters
 
 Otras:
- * hacer una vista que permita taggear cosas (DARNI)
  * hacer el scraping de datos de locations (ciudades) (levantar datos 
  de wikipedia, pasar a la DB) .
  (diegoM: estuve trabajando en este punto, con este script [[http://gist.github.com/347465]],
