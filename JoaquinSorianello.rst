@@ -17,3 +17,7 @@ El objetivo intermedio es una aplicación especifica, y el objetivo final crear 
 == Blog ==
 
 http://www.joaclandia.com.ar
+
+== Mail ==
+
+<<MailTo(IDONTWANT soriasoft AT CRIPPY gmail SPAM DOT com)>>
