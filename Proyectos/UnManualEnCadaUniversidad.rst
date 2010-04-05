@@ -32,7 +32,7 @@ Si estas cerca o tenes alguna relación con una universidad que no tiene el Tuto
 || Alejandro Autalan || alejandroautalan@gmail.com || Universidad Nacional de Santiago del Estero (UNSE) || (1) ||
 || Daniel Ceillan || codigodaniel@gmail.com || Cri - Usal (Mar del Plata) || (1) ||
 || Claudio Freire || klaussfreire@gmail.com || UBA (ciudad universitaria) || (1) ||
-|| Samanta Fernandez || samanta.fernandez@gmail.com || UTN - FRCU (C. del Uruguay, Entre Ríos) || (1) ||
+|| Samanta Fernandez || samanta.fernandez@gmail.com || UTN - FRCU (C. del Uruguay, Entre Ríos) || (2) ||
 || Juan Martin Muguerza || juanma@gnutn.org.ar || UTN Facultad Regional Buenos Aires || (1) ||
 || Agustin Henze || agustinhenze@gmail.com || UTN FRegional Córdoba || (1) ||
 || Daniel F. Moisset || dmoisset@machinalis.com || FaMAF, Univ. Nac. de Córdoba || (3) ||
