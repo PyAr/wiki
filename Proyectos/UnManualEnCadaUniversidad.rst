@@ -17,36 +17,36 @@ Si estas cerca o tenes alguna relación con una universidad que no tiene el Tuto
 (4) Completo (incluir por favor el nro. de catálogo)
 
 || Nombre del responsable || Email || Universidad[es] || Estado ||
-|| Sebastián Bassi || sbassi@gmail.com || Universidad Nacional de Quilmes || (3) ||
-|| Sebastián Bassi || sbassi@gmail.com || UNNOBA || (3) ||
-|| Martín Gaitán || gaitan@gmail.com || Universidad Nacional de Córdoba || (1) ||
-|| Federico Vincenti || federicovincenti@gmail.com || Universidad Católica de Santiago del Estero - Departamento Académico Rafaela || (1) ||
-|| Marcos Alcazar || marcos.alcazar@gmail.com || UTN - Facultad Regional Mendoza || (1) ||
-|| Adrian Pardini || pardo.bsso@gmail.com || UNLP Ingeniería || (1) ||
-|| Matías Herranz || matiasherranz@gmail.com || UNC (Universidad Nacional de Córdoba) || (1) ||
-|| Ezequiel Chan || ezequielchan@gmail.com || Universidad Nacional de Luján || (1) ||
-|| Julian Cardonnet || jcardonnet@gmail.com || Universidad Nacional del Centro - Ingenieria de Sistemas (Tandil) || (1) ||
-|| Manuel Aráoz || manuelaraoz@gmail.com || ITBA || (1) ||
-|| Juan José Conti || jjconti@gmail.com || UTN FRSF, UNL, UCSF || (1) ||
-|| Jose Maria Schenone || jomax@filo.uba.ar || Filosofia y Letras || (1) ||
-|| Alejandro Autalan || alejandroautalan@gmail.com || Universidad Nacional de Santiago del Estero (UNSE) || (1) ||
-|| Daniel Ceillan || codigodaniel@gmail.com || Cri - Usal (Mar del Plata) || (1) ||
-|| Claudio Freire || klaussfreire@gmail.com || UBA (ciudad universitaria) || (1) ||
-|| Samanta Fernandez || samanta.fernandez@gmail.com || UTN - FRCU (C. del Uruguay, Entre Ríos) || (2) ||
-|| Juan Martin Muguerza || juanma@gnutn.org.ar || UTN Facultad Regional Buenos Aires || (1) ||
-|| Agustin Henze || agustinhenze@gmail.com || UTN FRegional Córdoba || (1) ||
-|| Daniel F. Moisset || dmoisset@machinalis.com || FaMAF, Univ. Nac. de Córdoba || (3) ||
-|| Andres Pardini || unpardos@gmail.com || UNLP facultad informatica || (1) ||
-|| Santiago Banchero || santiagobanchero@gmail.com || Universidad Nacional de Luján (Centro Regional Chivilcoy) || (1) ||
-|| Diego Gaspar || armandogaspar@gmail.com || Universidad Nacional de Cuyo y otros || (1) ||
-|| Gonzalo Fernandez || buurentriko@gmail.com || Universidad Nacional de Rio Cuarto || (1) ||
-|| Ignacio Fiandrino || tucumetal@gmail.com || Universidad Nacional de Rio Cuarto || (1) ||
-|| Gonzalo Delgado || gonzalodel@gmail.com || Universidad Nacional de Tucumán (Facultad de Ciencias Exactas y Tecnología); Universidad Tecnológica Nacional (Facultad Regional Tucumán) || (1) ||
-|| Alejandro Santos || alejolp@alejolp.com.ar || UNLP || (1) ||
-|| Pereyra Carlos || pereyra-carlos@hotmail.com || UTN FRLP || (1) ||
-|| Rafael Moyano || moyanor@gmail.com || Universidad Nacional de La Rioja || (1) ||
-|| Walter Alini || walteralini@gmail.com || FaMAF, UN Córdoba || (1) ||
-|| Pablo Papes || pablopapes@gmail.com || UTN FRCU || (1) ||
-|| Manuel Muradás || mmuradas@dieresys.com.ar || UADE || (2) ||
-|| Manuel Muradás || mmuradas@dieresys.com.ar || "José Hernandez" E.E.T. Nº7 de Avellaneda || (2) ||
-|| Diego Mascialino || dmascialino@gmail.com || UBA - Facultad de Ingeniería, Biblioteca "Ing Butty" y Biblioteca del LABI || (3) ||
+|| Sebastián Bassi || <<MailTo(PYTHON  sbassi AT EVIL gmailDOT com)>> || Universidad Nacional de Quilmes || (3) ||
+|| Sebastián Bassi || <<MailTo(PYTHON  sbassi AT EVIL gmail DOT com)>> || UNNOBA || (3) ||
+|| Martín Gaitán || <<MailTo(PYTHON  gaitan AT EVIL gmail DOT com)>> || Universidad Nacional de Córdoba || (1) ||
+|| Federico Vincenti || <<MailTo(PYTHON  federicovincenti AT EVIL gmail DOT com)>> || Universidad Católica de Santiago del Estero - Departamento Académico Rafaela || (1) ||
+|| Marcos Alcazar || <<MailTo(PYTHON  marcos.alcazar AT EVIL gmail DOT com)>> || UTN - Facultad Regional Mendoza || (1) ||
+|| Adrian Pardini || <<MailTo(PYTHON  pardo DOT bsso AT EVIL gmail DOT com)>> || UNLP Ingeniería || (1) ||
+|| Matías Herranz || <<MailTo(PYTHON  matiasherranz AT EVIL gmail DOT com)>> || UNC (Universidad Nacional de Córdoba) || (1) ||
+|| Ezequiel Chan || <<MailTo(PYTHON  ezequielchan AT EVIL gmail DOT com)>> || Universidad Nacional de Luján || (1) ||
+|| Julian Cardonnet || <<MailTo(PYTHON  jcardonnet AT EVIL gmail DOT com)>> || Universidad Nacional del Centro - Ingenieria de Sistemas (Tandil) || (1) ||
+|| Manuel Aráoz || <<MailTo(PYTHON  manuelaraoz AT EVIL gmail DOT com)>> || ITBA || (1) ||
+|| Juan José Conti || <<MailTo(PYTHON  jjconti AT EVIL gmail DOT com)>> || UTN FRSF, UNL, UCSF || (1) ||
+|| Jose Maria Schenone || <<MailTo(PYTHON  jomax AT EVIL filo.uba DOT ar)>> || Filosofia y Letras || (1) ||
+|| Alejandro Autalan || <<MailTo(PYTHON  alejandroautalan AT EVIL gmail DOT com)>> || Universidad Nacional de Santiago del Estero (UNSE) || (1) ||
+|| Daniel Ceillan || <<MailTo(PYTHON  codigodaniel AT EVIL gmail DOT com)>> || Cri - Usal (Mar del PlAT EVILa) || (1) ||
+|| Claudio Freire || <<MailTo(PYTHON  klaussfreire AT EVIL gmail DOT com)>> || UBA (ciudad universitaria) || (1) ||
+|| Samanta Fernandez || <<MailTo(PYTHON  samanta.fernandez AT EVIL gmail DOT com)>> || UTN - FRCU (C. del Uruguay, Entre Ríos) || (2) ||
+|| Juan Martin Muguerza || <<MailTo(PYTHON  juanma AT EVIL gnutn DOT org DOT ar)>> || UTN Facultad Regional Buenos Aires || (1) ||
+|| Agustin Henze || <<MailTo(PYTHON  agustinhenze AT EVIL gmail DOT com)>> || UTN Regional Córdoba || (1) ||
+|| Daniel F. Moisset || <<MailTo(PYTHON  dmoisset AT EVIL machinalis DOT com)>> || FaMAF, Univ. Nac. de Córdoba || (3) ||
+|| Andres Pardini || <<MailTo(PYTHON  unpardos AT EVIL gmail DOT com)>> || UNLP facultad informatica || (1) ||
+|| Santiago Banchero || <<MailTo(PYTHON  santiagobanchero AT EVIL gmail DOT com)>>|| Universidad Nacional de Luján (Centro Regional Chivilcoy) || (1) ||
+|| Diego Gaspar || <<MailTo(PYTHON  armandogaspar AT EVIL gmail DOT com)>> || Universidad Nacional de Cuyo y otros || (1) ||
+|| Gonzalo Fernandez || <<MailTo(PYTHON  buurentriko AT EVIL gmail DOT com)>> || Universidad Nacional de Rio Cuarto || (1) ||
+|| Ignacio Fiandrino || <<MailTo(PYTHON  tucumetal AT EVIL gmail DOT com)>> || Universidad Nacional de Rio Cuarto || (1) ||
+|| Gonzalo Delgado || <<MailTo(PYTHON  gonzalodel AT EVIL gmail DOT com)>> || Universidad Nacional de Tucumán (Facultad de Ciencias Exactas y Tecnología); Universidad Tecnológica Nacional (Facultad Regional Tucumán) || (1) ||
+|| Alejandro Santos || <<MailTo(PYTHON  alejolp AT EVIL alejolp DOT com DOT ar)>> || UNLP || (1) ||
+|| Pereyra Carlos || <<MailTo(PYTHON  pereyra-carlos AT EVIL hotmail DOT com)>> || UTN FRLP || (1) ||
+|| Rafael Moyano || <<MailTo(PYTHON  moyanor AT EVIL gmail DOT com)>>|| Universidad Nacional de La Rioja || (1) ||
+|| Walter Alini || <<MailTo(PYTHON  walteralini AT EVIL gmail DOT com)>> || FaMAF, UN Córdoba || (1) ||
+|| Pablo Papes || <<MailTo(PYTHON  pablopapes AT EVIL gmail DOT com)>> || UTN FRCU || (1) ||
+|| Manuel Muradás || <<MailTo(PYTHON  mmuradas AT EVIL dieresys DOT com DOT ar)>> || UADE || (2) ||
+|| Manuel Muradás || <<MailTo(PYTHON  mmuradas AT EVIL dieresys DOT com DOT ar)>> || "José Hernandez" E.E.T. Nº7 de Avellaneda || (2) ||
+|| Diego Mascialino || <<MailTo(PYTHON  dmascialino AT EVIL gmail DOT com)>> || UBA - Facultad de Ingeniería, Biblioteca "Ing Butty" y Biblioteca del LABI || (3) ||
