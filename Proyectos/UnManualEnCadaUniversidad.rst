@@ -45,7 +45,6 @@ Si estas cerca o tenes alguna relación con una universidad que no tiene el Tuto
 || Alejandro Santos || <<MailTo(PYTHON  alejolp AT EVIL alejolp DOT com DOT ar)>> || UNLP || (1) ||
 || Pereyra Carlos || <<MailTo(PYTHON  pereyra-carlos AT EVIL hotmail DOT com)>> || UTN FRLP || (1) ||
 || Rafael Moyano || <<MailTo(PYTHON  moyanor AT EVIL gmail DOT com)>>|| Universidad Nacional de La Rioja || (1) ||
-|| Walter Alini || <<MailTo(PYTHON  walteralini AT EVIL gmail DOT com)>> || FaMAF, UN Córdoba || (1) ||
 || Pablo Papes || <<MailTo(PYTHON  pablopapes AT EVIL gmail DOT com)>> || UTN FRCU || (1) ||
 || Manuel Muradás || <<MailTo(PYTHON  mmuradas AT EVIL dieresys DOT com DOT ar)>> || UADE || (2) ||
 || Manuel Muradás || <<MailTo(PYTHON  mmuradas AT EVIL dieresys DOT com DOT ar)>> || "José Hernandez" E.E.T. Nº7 de Avellaneda || (2) ||
