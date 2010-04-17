@@ -21,7 +21,7 @@ El día 17 de abril de 2010 se realizado una Jornada de charlas sobre Python, co
  * Natalia Bidart
  * PyGTK es un wrapper escrito en Python a la librería GTK+ (toolkit multiplataforma para desarrollo de interfaces gráficas de usuario -GUI-, escrito en C).
     Glade es un constructor de interfaces de usuario para GTK+ y Gnome. Glade guarda nuestros diseños en archivos XML, con lo cual obtenemos versatilidad, pues éstos pueden ser usados en diversos lenguajes de programación (C, C++, Java, Perl, Python, y más), y la posibilidad de cargarlos dinámicamente a medida que se necesitan.
- * Filminas: [todavía no disponible]
+ * Filminas: [[attachment:PyGTK-on-glade-Natalia-Bidart.tar.gz]]
 
 === Utilizando la Google API con Python ===
  * Matías Bordese
