@@ -33,4 +33,4 @@ El día 17 de abril de 2010 se realizado una Jornada de charlas sobre Python, co
 
 === Introducción a PyQT ===
  * Diego Sarmentero
- * Filminas: [todavía no disponible]
+ * Filminas: [[attachment:ejemplosPyQt.zip]] [[attachment:pyqt-sarmentero.pdf]]
