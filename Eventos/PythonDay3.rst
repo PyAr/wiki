@@ -7,7 +7,7 @@ El día 17 de abril de 2010 se realizado una Jornada de charlas sobre Python, co
 === Presentación e Introducción a python ===
  * Fabián Gallina
  * Python es el lenguaje de programación de muy alto nivel que se está haciendo cada vez más popular, tanto en la comunidad de software libre como en ambientes privativos. Es un lenguaje dinámico, orientado a objetos, con una elegante combinación entre simplicidad y poder. Esta simplicidad lo hace muy fácil de aprender. En esta charla, orientada a personas con experiencia en programación en algún otro lenguaje, se dará una introducción a Python suficiente para poder escribir programas simples y no tanto.
- * Filminas: [todavía no disponible]
+ * Filminas / Código: [[http://from-the-cloud.com/media/charlas/conociendo_python.tar.gz]]
 
 === Rich internet applications en python ===
  * Mariano Guerra
