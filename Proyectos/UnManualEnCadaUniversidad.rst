@@ -19,7 +19,7 @@ Si estas cerca o tenes alguna relación con una universidad que no tiene el Tuto
 || Nombre del responsable || Email || Universidad[es] || Estado ||
 || Sebastián Bassi || <<MailTo(PYTHON  sbassi AT EVIL gmailDOT com)>> || Universidad Nacional de Quilmes || (3) ||
 || Sebastián Bassi || <<MailTo(PYTHON  sbassi AT EVIL gmail DOT com)>> || UNNOBA || (3) ||
-|| Martín Gaitán || <<MailTo(PYTHON  gaitan AT EVIL gmail DOT com)>> || Universidad Nacional de Córdoba || (1) ||
+|| Martín Gaitán || <<MailTo(PYTHON  gaitan AT EVIL gmail DOT com)>> || Universidad Nacional de Córdoba || (2) ||
 || Federico Vincenti || <<MailTo(PYTHON  federicovincenti AT EVIL gmail DOT com)>> || Universidad Católica de Santiago del Estero - Departamento Académico Rafaela || (1) ||
 || Marcos Alcazar || <<MailTo(PYTHON  marcos.alcazar AT EVIL gmail DOT com)>> || UTN - Facultad Regional Mendoza || (1) ||
 || Adrian Pardini || <<MailTo(PYTHON  pardo DOT bsso AT EVIL gmail DOT com)>> || UNLP Ingeniería || (1) ||
@@ -34,7 +34,7 @@ Si estas cerca o tenes alguna relación con una universidad que no tiene el Tuto
 || Claudio Freire || <<MailTo(PYTHON  klaussfreire AT EVIL gmail DOT com)>> || UBA (ciudad universitaria) || (1) ||
 || Samanta Fernandez || <<MailTo(PYTHON  samanta.fernandez AT EVIL gmail DOT com)>> || UTN - FRCU (C. del Uruguay, Entre Ríos) || (2) ||
 || Juan Martin Muguerza || <<MailTo(PYTHON  juanma AT EVIL gnutn DOT org DOT ar)>> || UTN Facultad Regional Buenos Aires || (1) ||
-|| Agustin Henze || <<MailTo(PYTHON  agustinhenze AT EVIL gmail DOT com)>> || UTN Regional Córdoba || (1) ||
+|| Agustin Henze || <<MailTo(PYTHON  agustinhenze AT EVIL gmail DOT com)>> || UTN Regional Córdoba || (2) ||
 || Daniel F. Moisset || <<MailTo(PYTHON  dmoisset AT EVIL machinalis DOT com)>> || FaMAF, Univ. Nac. de Córdoba || (3) ||
 || Andres Pardini || <<MailTo(PYTHON  unpardos AT EVIL gmail DOT com)>> || UNLP facultad informatica || (1) ||
 || Santiago Banchero || <<MailTo(PYTHON  santiagobanchero AT EVIL gmail DOT com)>>|| Universidad Nacional de Luján (Centro Regional Chivilcoy) || (1) ||
