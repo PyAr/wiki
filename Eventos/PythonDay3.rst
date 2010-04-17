@@ -25,7 +25,7 @@ El día 17 de abril de 2010 se realizado una Jornada de charlas sobre Python, co
 
 === Utilizando la Google API con Python ===
  * Matías Bordese
- * Filminas: [todavía no disponible]
+ * Filminas: [[attachment:UsandoGoogleAPI_src.zip]] [[attachment:UsandoGoogleAPI.pdf]]
 
 === Plone 4 ===
  * Roberto Allende
