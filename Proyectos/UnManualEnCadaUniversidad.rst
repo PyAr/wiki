@@ -36,7 +36,7 @@ Si estas cerca o tenes alguna relación con una universidad que no tiene el Tuto
 ||Santiago Banchero ||<<MailTo(PYTHON  santiagobanchero AT EVIL gmail DOT com)>> ||Universidad Nacional de Luján (Centro Regional Chivilcoy) ||(1) ||
 ||Diego Gaspar ||<<MailTo(PYTHON  armandogaspar AT EVIL gmail DOT com)>> ||Universidad Nacional de Cuyo y otros ||(1) ||
 ||Gonzalo Fernandez ||<<MailTo(PYTHON  buurentriko AT EVIL gmail DOT com)>> ||Universidad Nacional de Rio Cuarto ||(1) ||
-||Ignacio Fiandrino ||<<MailTo(PYTHON  tucumetal AT EVIL gmail DOT com)>> ||Universidad Nacional de Rio Cuarto ||(2) ||
+||Ignacio Fiandrino ||<<MailTo(PYTHON  tucumetal AT EVIL gmail DOT com)>> ||Universidad Nacional de Rio Cuarto ||(3) ||
 ||Gonzalo Delgado ||<<MailTo(PYTHON  gonzalodel AT EVIL gmail DOT com)>> ||Universidad Nacional de Tucumán (Facultad de Ciencias Exactas y Tecnología); Universidad Tecnológica Nacional (Facultad Regional Tucumán) ||(1) ||
 ||Alejandro Santos ||<<MailTo(PYTHON  alejolp AT EVIL alejolp DOT com DOT ar)>> ||UNLP ||(1) ||
 ||Pereyra Carlos ||<<MailTo(PYTHON  pereyra-carlos AT EVIL hotmail DOT com)>> ||UTN FRLP ||(1) ||
