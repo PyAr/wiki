@@ -19,7 +19,7 @@ Si estas cerca o tenes alguna relación con una universidad que no tiene el Tuto
 ||Federico Vincenti ||<<MailTo(PYTHON  federicovincenti AT EVIL gmail DOT com)>> ||Universidad Católica de Santiago del Estero - Departamento Académico Rafaela ||(1) ||
 ||Marcos Alcazar ||<<MailTo(PYTHON  marcos.alcazar AT EVIL gmail DOT com)>> ||UTN - Facultad Regional Mendoza ||(1) ||
 ||Adrian Pardini ||<<MailTo(PYTHON  pardo DOT bsso AT EVIL gmail DOT com)>> ||UNLP Ingeniería ||(1) ||
-||Matías Herranz ||<<MailTo(PYTHON  matiasherranz AT EVIL gmail DOT com)>> ||UNC (Universidad Nacional de Córdoba) ||(1) ||
+||Matías Herranz ||<<MailTo(PYTHON  matiasherranz AT EVIL gmail DOT com)>> ||UNC (Universidad Nacional de Córdoba) ||(2) ||
 ||Ezequiel Chan ||<<MailTo(PYTHON  ezequielchan AT EVIL gmail DOT com)>> ||Universidad Nacional de Luján ||(1) ||
 ||Julian Cardonnet ||<<MailTo(PYTHON  jcardonnet AT EVIL gmail DOT com)>> ||Universidad Nacional del Centro - Ingenieria de Sistemas (Tandil) ||(1) ||
 ||Manuel Aráoz ||<<MailTo(PYTHON  manuelaraoz AT EVIL gmail DOT com)>> ||ITBA ||(1) ||
@@ -45,5 +45,3 @@ Si estas cerca o tenes alguna relación con una universidad que no tiene el Tuto
 ||Manuel Muradás ||<<MailTo(PYTHON  mmuradas AT EVIL dieresys DOT com DOT ar)>> ||UADE ||(2) ||
 ||Manuel Muradás ||<<MailTo(PYTHON  mmuradas AT EVIL dieresys DOT com DOT ar)>> ||"José Hernandez" E.E.T. Nº7 de Avellaneda ||(2) ||
 ||Diego Mascialino ||<<MailTo(PYTHON  dmascialino AT EVIL gmail DOT com)>> ||UBA - Facultad de Ingeniería, Biblioteca "Ing Butty" y Biblioteca del LABI ||(3) ||
-
-
