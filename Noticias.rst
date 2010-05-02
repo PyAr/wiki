@@ -19,6 +19,18 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 
+==== 02/05/2010 ====
+
+Está abierta la inscripción para participar de '''PyDay Rafaela 2010''', la
+primer jornada sobre el lenguaje de programación Python en Rafaela
+(Santa Fé),  a realizarse el día '''8 de mayo''' en la sede de la
+Universidad Católica de Santiago del Estero, Departamento Académico
+Rafaela, ubicada en Hipólito Irigoyen 1502: http://www.pyday.com.ar/
+
+En esta primera edición contaremos con 6 charlas sobre Python y temas
+relacionados, desde tutoriales para principiantes hasta charlas de
+nivel más avanzado. [[http://www.pyday.com.ar/rafaela2010/conference/schedule|Cronograma de charlas]]. La entrada es libre y gratuita. [[http://www.pyday.com.ar/rafaela2010/default/register|Inscripción y más información]]
+
 ==== 17/02/2010 ====
 
 [[PyCamp/2010]] El próximo lunes cierra la inscripción.  http://is.gd/8zTTD - Apurate a registrarte.
