@@ -1,4 +1,3 @@
-#acl ReadWriteGroup:read,write,delete,revert All:read
 = Objetivo =
 Entregar una copia impresa del [[http://docs.python.org.ar/tutorial/contenido.html|Tutorial de Python en español]]  a cada universidad del pais.
 
