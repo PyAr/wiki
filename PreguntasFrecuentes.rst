@@ -6,10 +6,10 @@
 ----
 == Sobre PyAr (el grupo de Usuarios) ==
 === ¿Quiénes somos? ===
-Un grupo de entusiastas de Python, que decidió aunar esfuerzos para crear una comunidad local como marco de referencia para la aplicación, difusión y mejora de este lenguaje.
+Un [[MiembrosDePyAr|grupo de entusiastas de Python]], que decidió aunar esfuerzos para crear una comunidad local como marco de referencia para la aplicación, difusión y mejora de este lenguaje.
 
 === ¿Qué hacemos? ===
-Organizamos reuniones donde debatimos ideas, mantenemos una ListaDeCorreo a través de la cual nos comunicamos, creamos y mantenemos este portal, el cual pretendemos que tenga contenido útil tanto para los miembros de PyAr como para toda aquella persona que se interese por Python. Hoy estamos abocados a lograr que el grupo se consolide, se sumen miembros, y se establezcan las bases para comenzar a generar aportes mas concretos.
+Organizamos [[Eventos|reuniones]] donde debatimos ideas, mantenemos una ListaDeCorreo a través de la cual nos comunicamos, creamos y mantenemos este portal, el cual pretendemos que tenga contenido útil tanto para los miembros de PyAr como para toda aquella persona que se interese por Python. Hoy estamos abocados a lograr que el grupo se consolide, se sumen miembros, y se establezcan las bases para comenzar a generar aportes mas concretos.
 
 === ¿Cómo surgió PyAr? ===
 Merced a búsquedas en Internet, algunas personas se fueron registrando en el [[http://python.meetup.com/cities/ar/buenos_aires/|grupo de Python de Buenos Aires de Meetup]].
@@ -23,13 +23,18 @@ El grupo de Meetup no era (estrictamente hablando) nacional, sino de Buenos Aire
 Hoy, mientras la cantidad de miembros del grupo lo permite, tenemos una organización plana, en la que todos debatimos nuestras ideas e inquietudes, y cada uno trata de aportar en lo que puede.
 
 === ¿Cómo participar? ===
-Suscribiéndote a la ListaDeCorreo, registrándote en el portal, asistiendo a cualquiera de nuetros [[Eventos]], aportando ideas. También tenemos un canal de IRC. El servidor es `irc.freenode.net`, y el nombre del canal es `#pyar`. Podés ingresar vía Web [[http://webchat.freenode.net/?channels=pyar|aquí]]. Si querés colaborar aportando contenido al Wiki, o ayudando en su mantenimiento, también es posible. Por favor, leé ContribuyendoAlWiki.
+Suscribiéndote a la ListaDeCorreo, registrándote en el portal, asistiendo a cualquiera de nuetros [[Eventos]], aportando ideas. También tenemos un canal de IRC. El servidor es `irc.freenode.net`, y el nombre del canal es `#pyar`. Podés ingresar vía Web [[http://webchat.freenode.net/?channels=pyar|aquí]] o [[IRC|aquí]]. Si querés colaborar aportando contenido al Wiki, o ayudando en su mantenimiento, también es posible. Por favor, leé ContribuyendoAlWiki.
 
 === ¿Cómo se organiza una reunión? ===
 Los pasos a seguir para organizar una reunión están documentados en [[Eventos/Reuniones/ReleaseProcedure]].
 
 === Quiero aprender Python. ¿Dónde consigo material? ===
 En AprendiendoPython, vamos recopilando algunos links y material que los miembros de PyAr fuimos leyendo, y que consideramos que puede serte útil a la hora de empezar a aprender o profundizar tus conocimientos sobre este lenguaje.
+
+En el [[Recetario]] que estamos armando entre todos, podés encontrar código para resolver algunos problemas comunes.
+
+Y también los MiniEjemplos son una forma de mostrar las capacidades del lenguaje.
+
 
 === ¿Qué puedo esperar de PyAr en el futuro? ===
 Qué el grupo crezca, se consolide y organice formalmente. Que podamos brindar aportes útiles a la sociedad, tales como una ''Bolsa de Empleos'' relacionados con Python. Que podamos asesorar a empresas en la utilización de Python. Que comencemos a organizar eventos y seminarios en universidades, foros y empresas. Que promovamos sprints periódicos en los que podamos desarrollar o mejorar productos de software. Que nos contactemos con otros grupos de usuarios de Latinoamérica, y coordinemos esfuerzos con ellos. <<Anchor(SPRINT)>>
