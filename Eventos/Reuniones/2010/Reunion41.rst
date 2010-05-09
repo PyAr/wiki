@@ -7,7 +7,7 @@
  * Mariano Galan
  * Tomas Zulberti 
  * Luis Visintini
- * Juanjo Conti
+ * JuanjoConti
  * Ariel Rossanigo
  * Matias Gieco
  * Marcelo Fernandez
@@ -23,14 +23,15 @@
 === Resumen del PyDay Rafaela 2010: ===
 
  * 92 asistentes
- * costó decidir la fecha, ya que algunos disertantes y asistentes que normalmente estan presentes, no podian asistir, pero igualmente todos estamos muy contento con los sucesos del evento
+ * costó decidir la fecha, ya que algunos disertantes y asistentes que normalmente están presentes, no podían asistir, pero igualmente todos estamos muy contento con los sucesos del evento
  * orfi es mujer
- * le contaron la leyenda de cos.penta a los organizadores que no estaban enterados asistieron personas de diferentes empresas, universidades, institutos.
+ * le contaron la leyenda de os.penta a los organizadores que no estaban enterados
+ * asistieron personas de diferentes empresas, universidades, institutos.
  * no completaron demasiadas encuestas, deberiamos haberlo organizado de otra manera
  * el cronograma resulto estar bien organizado
- * el nivel era variado, desde principiantes hasta personas que depende de sus estudios o trabajos tenian mas  conocimientos, aunque tampoco era un nivel tan avanzado
- * ideas  sobre posibles temas del proximo año (juegos)
- * hablamos sobre la posbilidad de llamar en lso proximos evento a otros personajes de la comunidad
+ * el nivel de los participantes era variado, desde principiantes hasta personas que por de sus estudios o trabajos tenían mas conocimiento, aunque tampoco era un nivel tan avanzado.
+ * ideas  sobre posibles temas del proximo año (charlas sobre cómo hacer juegos en Python)
+ * hablamos sobre la posibilidad de llamar en los próximos evento a otros personajes de la comunidad
  * invitar a profesores?
- * muy bueno el sitio, muy util
+ * muy bueno el sitio, muy útil (hecho con web2py)
  * futuro de la comunidad pyrafaela
