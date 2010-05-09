@@ -2,7 +2,7 @@
 
 == Asistieron ==
 
- * Mariano Reingart
+ * MarianoReingart
  * Gustavo Tell
  * Mariano Galan
  * Tomas Zulberti 
