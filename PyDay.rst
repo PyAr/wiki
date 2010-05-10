@@ -22,9 +22,10 @@ Un !PyDay es una jornada sobre el lenguaje Python de 1 día, con el formato de m
  5. Pide a las compañías locales si pueden auspiciar la conferencia:
   * Los temas a auspiciar pueden incluir:
    * viáticos de los disertantes: pasajes de micro, estadías en el hotel, almuerzos y cenas, etc.
+   * publicidad del evento en diarios, radios, televisión, etc.
    * desayundo/caffe-breaks: café, té, facturas, galletitas, mate
    * almuerzo: puede ser complicado - usualmente se hace solo para organizadores
-   * impresiones y gráfica: estandartes, folletería, banderas
+   * impresiones y gráfica: afiches, estandartes, folletos, volantes, banderas
    * regalos: remeras, calcos, libros, prendedores, lapiceras, etc.
   * Recuerda que no es imprescindible tener auspiciantes, puedes pedirles a los asistentes que desayunen antes, y todos pueden ir a comer juntos pagando cada uno. 
  6. Elige los oradores, y anuncia tu PyDay a las listas de correo!
@@ -37,9 +38,15 @@ Un !PyDay es una jornada sobre el lenguaje Python de 1 día, con el formato de m
   * Programa: Has una lista de los oradores y ten una versión impresa para todos los asistentes
   * Certificados: ten preparado las constancias de asistencia por si algún participante lo necesita. Podrían bajarse desde el sitio web o completar un formulario en blanco manualmente.
   * Sorteo: si tienes materiales para regalar, recuerda repartir números y tenerlos preparado hacia el final de la jornada
+  * Pizarra o pizzarrón: para anotar mensajes, propuestas de charlas relámpago, cambios en el horario, reuniones, etc. 
  8. Pide más voluntarios (1-2 o más) para que te ayuden a que la conferencia siga sin sobresaltos
+  * Una encargada de acreditación (a la entrada)
+  * Un encargado de aula (proyector, audio, etc.) con cronometro y carteles orientativos
+  * Un encargado de filmación (opcional)
  9. Recuerda a todos 2 semanas antes, 1 semana antes y el día de la conferencia que está sucediendo!
  10. Pasalo bien :) 
+
+Luego del evento, para los interesados y en la medida de lo posible, se suelen hacer reuniones sociales, cenas o almuerzos, juegos y actividades recreativas, etc.
 
 == Recursos ==
 
@@ -52,5 +59,5 @@ Sitios web pasados:
  * http://www.pyday.com.ar/rafaela2010
 
 Materiales:
- * [[Material]]
- * http://groups.google.com.ar/group/pyday-rafaela/files
+ * [[Material]] (Bandera, folletos de PyAr, estandartes)
+ * http://groups.google.com.ar/group/pyday-rafaela/files 
