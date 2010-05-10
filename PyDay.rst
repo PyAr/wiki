@@ -50,14 +50,29 @@ Luego del evento, para los interesados y en la medida de lo posible, se suelen h
 
 == Recursos ==
 
-Sitios organizativos pasados:
+=== Sitios organizativos pasados ===
  * PyDay Rafaela: http://groups.google.com.ar/group/pyday-rafaela
 
-Sitios web pasados:
+=== Sitios web pasados ===
  * http://pyday.python.com.ar/
  * http://www.python-santafe.com.ar/
  * http://www.pyday.com.ar/rafaela2010
 
-Materiales:
+=== Materiales ===
  * [[Material]] (Bandera, folletos de PyAr, estandartes)
  * http://groups.google.com.ar/group/pyday-rafaela/files 
+
+=== Software ===
+
+==== web2conf ====
+
+Aplicación lista para usar hecha en [[http://www.web2py.com.ar|web2py]], basada el que se usó para [[https://us.pycon.org/2010/register/|Registración de PyCon 2009/2010 (EEUU)]] y adaptado para las necesidades locales:
+ * Wiki/CMS (HTML) para información general, lugar, cronograma
+ * Propuesta de charlas, revisión, archivos adjuntos, comentarios
+ * Inscripción de participantes, Mapa de procedencia y Estadísticas
+ * Generación identificadores ("credenciales") y Certificados (PDF)
+ * Listados de asistencia y para envío de emails
+
+Pueden verlo andando para el [[http://www.pyday.com.ar/rafaela2010|PyDay Rafaela 2010]] y [[http://www.institutopascal.edu.ar/flisol2010|FLISOL 2010 González Catán]]
+
+Próximamente estará publicado el código fuente y paquete instalable
