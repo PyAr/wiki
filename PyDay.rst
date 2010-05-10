@@ -72,6 +72,7 @@ Aplicación lista para usar hecha en [[http://www.web2py.com.ar|web2py]], basada
  * Inscripción de participantes, Mapa de procedencia y Estadísticas
  * Generación identificadores ("credenciales") y Certificados (PDF)
  * Listados de asistencia y para envío de emails
+ * Auspiciantes, ayuda económica, gastos, pagos (algunos deshabilitados)
 
 Pueden verlo andando para el [[http://www.pyday.com.ar/rafaela2010|PyDay Rafaela 2010]] y [[http://www.institutopascal.edu.ar/flisol2010|FLISOL 2010 González Catán]]
 
