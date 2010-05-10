@@ -2,7 +2,7 @@
 
 Un !PyDay es una jornada sobre el lenguaje Python de 1 día, con el formato de mini-conferencia pero un poco más simplificado y desestructurado, incluyendo en general charlas y talleres introductorios.
 
-== Guía básica ==
+== Guía básica (recomendaciones) ==
 
  1. Elegir un día y una ubicación
   * las Universidades son buenos lugares: hablá con los grupos de estudiantes y profesores que conoces y pueden apoyarte
