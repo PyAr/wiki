@@ -6,6 +6,8 @@
 Debido a que no sé que poner, voy a seguir los consejos de este wiki de cómo armar mi perfil :)
 
  * Soy Matías Gieco, nacido bajo el mes de virgo allá por el 77. ¿Qué hago? Poco y nada.
+ 
+ * En la lista de PyAR aparezco como matigro
 
  * Soy (eterno) estudiante de la UTN Santa Fe, en la carrera de Ingeniería en Sistemas de Información, ahora bastante dejada, pero con ganas de retomar.
 
