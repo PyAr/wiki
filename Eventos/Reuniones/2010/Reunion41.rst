@@ -10,11 +10,11 @@
  * JuanjoConti
  * Ariel Rossanigo
  * MatiasGieco
- * Marcelo Fernandez
+ * MarceloFernández
  * Martin Bascolo
  * Lorena D'Iorio
- * Cesar Roldan
- * Juan Fisanotti
+ * CesarRoldan
+ * JuanFisanotti
  * Cesar Emilio Portela
  * Orfi Schleppi
 
