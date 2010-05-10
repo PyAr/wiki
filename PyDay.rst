@@ -2,7 +2,7 @@
 
 Un !PyDay es una jornada sobre el lenguaje Python de 1 día, con el formato de mini-conferencia pero un poco más simplificado y desestructurado, incluyendo en general charlas y talleres introductorios.
 
-Una guía básica sería: 
+== Guía básica ==
 
  1. Elegir un día y una ubicación
   * las Universidades son buenos lugares: hablá con los grupos de estudiantes y profesores que conoces y pueden apoyarte
@@ -40,3 +40,17 @@ Una guía básica sería:
  8. Pide más voluntarios (1-2 o más) para que te ayuden a que la conferencia siga sin sobresaltos
  9. Recuerda a todos 2 semanas antes, 1 semana antes y el día de la conferencia que está sucediendo!
  10. Pasalo bien :) 
+
+== Recursos ==
+
+Sitios organizativos pasados:
+ * PyDay Rafaela: http://groups.google.com.ar/group/pyday-rafaela
+
+Sitios web pasados:
+ * http://pyday.python.com.ar/
+ * http://www.python-santafe.com.ar/
+ * http://www.pyday.com.ar/rafaela2010
+
+Materiales:
+ * [[Material]]
+ * http://groups.google.com.ar/group/pyday-rafaela/files
