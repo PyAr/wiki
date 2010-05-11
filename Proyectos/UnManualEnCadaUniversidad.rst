@@ -15,7 +15,7 @@ Si estas cerca o tenes alguna relación con una universidad que no tiene el Tuto
 ||Sebastián Bassi ||<<MailTo(PYTHON  sbassi AT EVIL gmailDOT com)>> ||Universidad Nacional de Quilmes ||(3) ||
 ||Sebastián Bassi ||<<MailTo(PYTHON  sbassi AT EVIL gmail DOT com)>> ||UNNOBA ||(3) ||
 ||Martín Gaitán ||<<MailTo(PYTHON  gaitan AT EVIL gmail DOT com)>> ||Universidad Nacional de Córdoba ||(2) ||
-||Federico Vincenti ||<<MailTo(PYTHON  federicovincenti AT EVIL gmail DOT com)>> ||Universidad Católica de Santiago del Estero - Departamento Académico Rafaela ||(3) ||
+||Federico Vincenti ||<<MailTo(PYTHON  federicovincenti AT EVIL gmail DOT com)>> ||Universidad Católica de Santiago del Estero - Departamento Académico Rafaela ||(4)Tutorial de Python - Van Rossum, Guido. Nº: 5.552  ||
 ||Marcos Alcazar ||<<MailTo(PYTHON  marcos.alcazar AT EVIL gmail DOT com)>> ||UTN - Facultad Regional Mendoza ||(1) ||
 ||Adrian Pardini ||<<MailTo(PYTHON  pardo DOT bsso AT EVIL gmail DOT com)>> ||UNLP Ingeniería ||(1) ||
 ||Matías Herranz ||<<MailTo(PYTHON  matiasherranz AT EVIL gmail DOT com)>> ||UNC (Universidad Nacional de Córdoba) ||(3) ||
