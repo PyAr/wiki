@@ -14,7 +14,7 @@ Las trazas de rastreo (`Traceback` en inglés) es la información que reúne el 
 
 Por ejemplo:
 
-{{{
+{{{#!code python
 Traceback (most recent call last):
   File "form.py", line 78, in <module>
     f = Form("factura.csv")
@@ -54,7 +54,7 @@ En Python es fundamental dejar sangría (espacio antes de las instrucciones), qu
 
 Generalmente, cada vez que abramos un bloque (con una sentencia que termina en : -dos puntos- ), debemos incrementar la sangría. Por ej:
 
-{{{
+{{{#!code python
 def mayor(param1, param2=0):
     if param1 is None:
         return "El valor es None=Nulo! :S"
@@ -71,7 +71,7 @@ print mayor(5)
 Que puede pasar si no lo hacemos...
 
 
-{{{
+{{{#!code python
 >>> if True:
 ... print "verdad!"
   File "<input>", line 2
@@ -82,7 +82,7 @@ IndentationError: expected an indented block
 
 Aquí el `print` esta a la misma altura que el `if` (sin sangría), cuando deberíamos haber dejado el espacio correspondiente porque estamos abriendo un nuevo bloque con `:`
 
-{{{
+{{{#!code python
 >>> print "hola"
 >>>    print "chau"
   File "<input>", line 1
@@ -93,7 +93,7 @@ IndentationError: unexpected indent
 
 Aquí el `print "chau"` ''no'' esta a la misma altura que el `print "hola"`, como no abrimos un bloque con `:`, no es necesario dejar espacio para la sangría.
 
-{{{
+{{{#!code python
 >>> def prueba():
 ...     if False:
 ...         pass
@@ -112,7 +112,7 @@ Si el `print` no pertenece a la función, deberíamos ponerlo a la misma altura 
 
 === Errores de Sintaxis (SyntaxError) ===
 
-{{{
+{{{#!code python
 >>> def a:
   File "<input>", line 1
     def a:
@@ -120,13 +120,13 @@ Si el `print` no pertenece a la función, deberíamos ponerlo a la misma altura 
 SyntaxError: invalid syntax
 }}}
 
-{{{
+{{{#!code python
 >>> a+1=2
   File "<input>", line 1
 SyntaxError: can't assign to operator (<input>, line 1)
 }}}
 
-{{{
+{{{#!code python
 >>> If a:
   File "<input>", line 1
     If a:
@@ -134,7 +134,7 @@ SyntaxError: can't assign to operator (<input>, line 1)
 SyntaxError: invalid syntax
 }}}
 
-{{{
+{{{#!code python
 >>> a b
   File "<input>", line 1
     a b
@@ -142,7 +142,7 @@ SyntaxError: invalid syntax
 SyntaxError: invalid syntax
 }}}
 
-{{{
+{{{#!code python
 >>> if a
 ...    print "a es verdadero!"
   File "<input>", line 1
@@ -154,7 +154,7 @@ SyntaxError: invalid syntax
 
 === Errores de Nombres (NameError) ===
 
-{{{
+{{{#!code python
 >>> saludo="Hola"
 >>> print Saludo
 Traceback (most recent call last):
@@ -164,49 +164,49 @@ NameError: name 'Saludo' is not defined
 
 === Errores de Valores (ValueError) ===
 
-{{{
+{{{#!code python
 >>> int("10,50")
 Traceback (most recent call last):
   File "<input>", line 1, in <module>
 ValueError: invalid literal for int() with base 10: '10,50'
 }}}
 
-{{{
+{{{#!code python
 >>> float("10,50")
 Traceback (most recent call last):
   File "<input>", line 1, in <module>
 ValueError: invalid literal for float(): 10,50
 }}}
 
-{{{
+{{{#!code python
 >>> fecha = datetime.date(10,5,2010)
 Traceback (most recent call last):
   File "<input>", line 1, in <module>
 ValueError: day is out of range for month
 }}}
 
-{{{
+{{{#!code python
 >>> a,b,c = (1,2,3,4)
 Traceback (most recent call last):
   File "<input>", line 1, in <module>
 ValueError: too many values to unpack
 }}}
 
-{{{
+{{{#!code python
 >>> x,y,z = 1, 2
 Traceback (most recent call last):
   File "<input>", line 1, in <module>
 ValueError: need more than 2 values to unpack
 }}}
 
-{{{
+{{{#!code python
 >>> open("C:\xaraza")
 ValueError: invalid \x escape
 }}}
 
 === Errores de Tipos (TypeError) ===
 
-{{{
+{{{#!code python
 >>> a = 5
 >>> b = "10"
 >>> a+b
@@ -215,14 +215,14 @@ Traceback (most recent call last):
 TypeError: unsupported operand type(s) for +: 'int' and 'str'
 }}}
 
-{{{
+{{{#!code python
 >>> fecha = datetime.date('2010','05','10')
 Traceback (most recent call last):
   File "<input>", line 1, in <module>
 TypeError: an integer is required
 }}}
 
-{{{
+{{{#!code python
 >>> lista = None
 >>> for i in lista:
 ...     pass
@@ -232,35 +232,35 @@ Traceback (most recent call last):
 TypeError: 'NoneType' object is not iterable
 }}}
 
-{{{
+{{{#!code python
 >>> a (1)
 Traceback (most recent call last):
   File "<input>", line 1, in <module>
 TypeError: 'int' object is not callable
 }}}
 
-{{{
+{{{#!code python
 >>> mayor()
 Traceback (most recent call last):
   File "<input>", line 1, in <module>
 TypeError: mayor() takes at least 1 argument (0 given)
 }}}
 
-{{{
+{{{#!code python
 >>> mayor(5,5,5)
 Traceback (most recent call last):
   File "<input>", line 1, in <module>
 TypeError: mayor() takes at most 2 arguments (3 given)
 }}}
 
-{{{
+{{{#!code python
 >>> mayor(param3=5)
 Traceback (most recent call last):
   File "<input>", line 1, in <module>
 TypeError: mayor() got an unexpected keyword argument 'param3'
 }}}
 
-{{{
+{{{#!code python
 >>> mayor(param2=5,3)
   File "<input>", line 1
 SyntaxError: non-keyword arg after keyword arg (<input>, line 1)
@@ -268,7 +268,7 @@ SyntaxError: non-keyword arg after keyword arg (<input>, line 1)
 
 === Errores de Atributos (AttributeError) ===
 
-{{{
+{{{#!code python
 >>> fecha = None
 >>> fecha.split("/")
 Traceback (most recent call last):
@@ -276,7 +276,7 @@ Traceback (most recent call last):
 AttributeError: 'NoneType' object has no attribute 'split'
 }}}
 
-{{{
+{{{#!code python
 >>> import csv
 >>> csv.next()
 Traceback (most recent call last):
@@ -287,7 +287,7 @@ AttributeError: 'module' object has no attribute 'next'
 
 === Errores de Clave (KeyError) ===
 
-{{{
+{{{#!code python
 >>> dict = {'clave': 'valor'}
 >>> dict['clave2']
 Traceback (most recent call last):
@@ -296,7 +296,7 @@ KeyError: 'clave2'
 }}}
 
 === Otros Errores ===
-{{{
+{{{#!code python
 >>> open("C:\saraza")
 Traceback (most recent call last):
   File "<input>", line 1, in <module>
