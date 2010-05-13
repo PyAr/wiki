@@ -30,7 +30,7 @@ Se traduciría a:
 Traza de rastreo (llamada más reciente a lo último):
   Archivo "form.py", línea 78, en <módulo>
     f = Form("factura.csv")
-  Archivo "form.py", líne 12, en __init__
+  Archivo "form.py", línea 12, en __init__
     for linea in open(infile).readlines():
 IOError: [Errno 2] No existe el archivo o directorio: 'factura.csv'
 }}}
