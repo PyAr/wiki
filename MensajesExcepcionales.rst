@@ -2,6 +2,8 @@
 
 Esta página busca ser una guía para las personas que se estén iniciando en este maravilloso lenguaje y se encuentren con errores comunes y no sepan como solucionarlos.
 
+La idea es presentar ejemplos de excepciones, su traducción al español y una posible solución en cada caso.
+
 == ¿Que son las excepciones? ==
 
 Las Excepciones (`Exceptions` en inglés) son condiciones excepcionales que eleva el sistema operativo, el lenguaje, o nuestro mismo programa.
@@ -70,6 +72,7 @@ print mayor(5)
 
 Que puede pasar si no lo hacemos...
 
+==== Error de Sangría: se esperaba un bloque con sangría ====
 
 {{{#!code python
 >>> if True:
@@ -82,6 +85,7 @@ IndentationError: expected an indented block
 
 Aquí el `print` esta a la misma altura que el `if` (sin sangría), cuando deberíamos haber dejado el espacio correspondiente porque estamos abriendo un nuevo bloque con `:`
 
+==== Error de Sangría: sangría no esperada ====
 {{{#!code python
 >>> print "hola"
 >>>    print "chau"
@@ -93,6 +97,7 @@ IndentationError: unexpected indent
 
 Aquí el `print "chau"` ''no'' esta a la misma altura que el `print "hola"`, como no abrimos un bloque con `:`, no es necesario dejar espacio para la sangría.
 
+==== Error de Sangría: la sangría no coincide con ningún otro nivel ====
 {{{#!code python
 >>> def prueba():
 ...     if False:
