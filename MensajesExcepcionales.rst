@@ -52,7 +52,7 @@ Que el árbol no nos impida ver el bosque ... :-)
 
 === Errores de Sangría (IdentationError) ===
 
-En Python es fundamental dejar sangría (espacio antes de las instrucciones), que identifica el bloque al que pertenece, ya que no usamos llaves o palabras clave para delimitar los bloques como en otros lenguajes. Si bien esto ayuda a escribir código más prolijo evitando errores de llaves, puede ser raro hasta que uno se acostumbra.
+En Python es fundamental dejar sangría (espacio antes de las instrucciones), que identifica el bloque al que pertenece, ya que no usamos llaves o palabras clave para delimitar los bloques como en otros lenguajes. Si bien esto ayuda a escribir código más prolijo evitando errores de anidación, puede ser raro hasta que uno se acostumbra.
 
 Generalmente, cada vez que abramos un bloque (con una sentencia que termina en : -dos puntos- ), debemos incrementar la sangría. Por ej:
 
