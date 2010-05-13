@@ -97,7 +97,7 @@ IndentationError: unexpected indent
 
 Aquí el `print "chau"` ''no'' esta a la misma altura que el `print "hola"`, como no abrimos un bloque con `:`, no es necesario dejar espacio para la sangría.
 
-==== Error de Sangría: la sangría no coincide con ningún otro nivel ====
+==== Error de Sangría: la nueva sangría no coincide con ningún otro nivel exterior ====
 {{{#!code python
 >>> def prueba():
 ...     if False:
