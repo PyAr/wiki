@@ -488,11 +488,15 @@ ValueError: invalid \x escape
 
 En los strings (cadenas), ciertos caracteres tienen un significado especial.
 Es el caso de la barra invertida ("\"), que identifica que lo que sigue definie un caractér especial ("\n" para el salto de linea, "\xfe" para el caracter cuyo código hexadecimal es FE, etc.)
-Si queremos una barra invertida (por ejemplo, en un directorio de windows), debemos usar strings crudos (raws) o doble barra invertida: "C:\\xaraza.txt"
+Si queremos una barra invertida (por ejemplo, en un directorio de windows), debemos usar strings crudos (raws): r"C:\xaraza.txt" o doble barra invertida: "C:\\xaraza.txt"
 
 
 === Errores de Atributos (AttributeError) ===
 
+Practicamente todo en Python es un objeto, y estos objetos tienen métodos y "propiedades" (ambos denominados atributos).
+Si intentamos acceder a un atributo que no pertenece al objeto, se producirá uno de los siguientes errores:
+
+==== Error de Atributo: el objeto 'NoneType' no tiene el atributo 'split' ====
 {{{#!code python
 >>> fecha = None
 >>> fecha.split("/")
@@ -501,6 +505,10 @@ Traceback (most recent call last):
 AttributeError: 'NoneType' object has no attribute 'split'
 }}}
 
+En este caso estamos queriendo invocar a un método {{{split}}} que no esta definido para este tipo de objeto (aquí {{{None}}}, pero podría ser cualquier otro).
+Seguramente la variable fecha debería ser otra cosa, o nos equivocamos de método a invocar.
+
+==== Error de Atributo: el objeto 'modulo' no tiene el atributo 'next' ====
 {{{#!code python
 >>> import csv
 >>> csv.next()
@@ -509,6 +517,8 @@ Traceback (most recent call last):
 AttributeError: 'module' object has no attribute 'next'
 }}}
 
+Similar al anterior, pero en este caso estamos importando un módulo {{{csv}}} que no tiene la función {{{next}}}}.
+En este caso particular, {{{next}}} es un método de la instancia de {{{csv_reader}}}, no del módulo.
 
 === Errores de Clave (KeyError) ===
 
