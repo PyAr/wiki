@@ -347,8 +347,8 @@ Sería {{{datetime.date(int('2010'),int('05'),int('10'))}}}
 
 ==== Error de Tipo: el objeto 'NoneType' no es iterable ====
 {{{#!code python
->>> lista = None
->>> for i in lista:
+>>> secuencia = None
+>>> for i in secuencia:
 ...     pass
 ...     
 Traceback (most recent call last):
@@ -356,13 +356,25 @@ Traceback (most recent call last):
 TypeError: 'NoneType' object is not iterable
 }}}
 
+Para iterar (recorrer uno a uno los elementos de una secuencia o colección), por ej. en un {{{for}}}, es necesario que esta sea realmente una secuencia o iterable (tuplas, listas, diccionario, conjunto, etc.)  
+
+=== Funciones ===
+
+Podemos tener errores de tipo o de sintaxis respecto a las funciones, por ejemplo:
+
+==== Error de Tipo: objeto 'int' no es llamable ====
 {{{#!code python
+>>> a=1
 >>> a (1)
 Traceback (most recent call last):
   File "<input>", line 1, in <module>
 TypeError: 'int' object is not callable
 }}}
 
+Estamos queriendo llamar a una variable que tiene un entero, cosa que no se puede (no es una "función llamable").
+Seguramente, o la variable no debería haber sido un entero, o en vez de llamarla deberíamos aplicar algún operador o método sobre ella.
+
+==== Error de Tipo: función() toma al menos un argumento (0 dados) ====
 {{{#!code python
 >>> mayor()
 Traceback (most recent call last):
@@ -370,6 +382,11 @@ Traceback (most recent call last):
 TypeError: mayor() takes at least 1 argument (0 given)
 }}}
 
+Al definir la función, dijimos que tenía dos parámetros ({{{param1}}} y {{{param2=0}}}).
+Salvo que el parámetro tenga un valor por defecto (en el caso de param2 es 0), debemos pasarlo al llamar a la función.
+Revisar...
+
+==== Error de Tipo: función() toma como mucho 2 argumentos (3 dados) ====
 {{{#!code python
 >>> mayor(5,5,5)
 Traceback (most recent call last):
@@ -377,6 +394,10 @@ Traceback (most recent call last):
 TypeError: mayor() takes at most 2 arguments (3 given)
 }}}
 
+Similar al anterior, pero le pasamos más parámetros de los que necesita la función. 
+Revisar...
+
+==== Error de Tipo: función() tuvo un argumento por nombre inesperado 'paramx' ====
 {{{#!code python
 >>> mayor(param3=5)
 Traceback (most recent call last):
@@ -384,12 +405,17 @@ Traceback (most recent call last):
 TypeError: mayor() got an unexpected keyword argument 'param3'
 }}}
 
+Idem al anterior, tratamos de pasarle un parámetro (esta vez por nombre), que tampoco esta definido en la misma.
+Revisar....
+
+==== Error de Sintáxis: argumento por posición luego de argumento por nombre ====
 {{{#!code python
 >>> mayor(param2=5,3)
   File "<input>", line 1
 SyntaxError: non-keyword arg after keyword arg (<input>, line 1)
 }}}
 
+Los parámetros por posición se pasan antes que los parámetros por nombre: {{{mayor(3,param2=5)}}}
 
 === Errores de Valores (ValueError) ===
 
