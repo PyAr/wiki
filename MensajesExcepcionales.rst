@@ -1,5 +1,7 @@
 = Mensajes Excepcionales =
 
+  ''"10. Los errores nunca deberían dejarse pasar silenciosamente."'' Zen de Python
+
 Esta página busca ser una guía para las personas que se estén iniciando en este maravilloso lenguaje y se encuentren con errores comunes y no sepan como solucionarlos.
 
 La idea es presentar ejemplos de excepciones, su traducción al español y una posible solución en cada caso.
@@ -52,6 +54,7 @@ Que el árbol no nos impida ver el bosque ... :-)
 
 === Errores de Sangría (IdentationError) ===
 
+   ''"7. La legibilidad cuenta."'' Zen de Python
 
 En Python es fundamental dejar sangría (espacio antes de las instrucciones), que identifica el bloque al que pertenece, ya que no usamos llaves o palabras clave para delimitar los bloques como en otros lenguajes. Si bien esto ayuda a escribir código más prolijo evitando errores de anidación, puede ser raro hasta que uno se acostumbra.
 
@@ -117,6 +120,8 @@ Si el `print` no pertenece a la función, deberíamos ponerlo a la misma altura 
 
 
 === Errores de Sintaxis (SyntaxError) ===
+
+  ''"13. Debería haber una — y preferiblemente sólo una — manera obvia de hacerlo."'' Zen de Python
 
 La sintaxis, como en cualquier lenguaje, es fundamental para que Python entienda lo que estamos queriendole decir, ya que es estricto y se reusará a ejecutar cualquier código que no siga las reglas de sintáxis definidas (que por cierto, no son muchas), a saber:
 
@@ -249,6 +254,8 @@ El nombre de la variable es inválido, sería: {{{numero_mas_antiguo=1}}}
 
 === Errores de Nombres (NameError) ===
 
+  ''"2. Explícito es mejor que implícito."'' Zen de Python
+
 {{{#!code python
 >>> saludo="Hola"
 >>> print Saludo
@@ -257,49 +264,10 @@ Traceback (most recent call last):
 NameError: name 'Saludo' is not defined
 }}}
 
-=== Errores de Valores (ValueError) ===
-
-{{{#!code python
->>> int("10,50")
-Traceback (most recent call last):
-  File "<input>", line 1, in <module>
-ValueError: invalid literal for int() with base 10: '10,50'
-}}}
-
-{{{#!code python
->>> float("10,50")
-Traceback (most recent call last):
-  File "<input>", line 1, in <module>
-ValueError: invalid literal for float(): 10,50
-}}}
-
-{{{#!code python
->>> fecha = datetime.date(10,5,2010)
-Traceback (most recent call last):
-  File "<input>", line 1, in <module>
-ValueError: day is out of range for month
-}}}
-
-{{{#!code python
->>> a,b,c = (1,2,3,4)
-Traceback (most recent call last):
-  File "<input>", line 1, in <module>
-ValueError: too many values to unpack
-}}}
-
-{{{#!code python
->>> x,y,z = 1, 2
-Traceback (most recent call last):
-  File "<input>", line 1, in <module>
-ValueError: need more than 2 values to unpack
-}}}
-
-{{{#!code python
->>> open("C:\xaraza")
-ValueError: invalid \x escape
-}}}
 
 === Errores de Tipos (TypeError) ===
+
+  ''"12. Cuando te enfrentes a la ambigüedad, rechaza la tentación de adivinar."'' Zen de Python
 
 {{{#!code python
 >>> a = 5
@@ -360,6 +328,50 @@ TypeError: mayor() got an unexpected keyword argument 'param3'
   File "<input>", line 1
 SyntaxError: non-keyword arg after keyword arg (<input>, line 1)
 }}}
+
+
+=== Errores de Valores (ValueError) ===
+
+{{{#!code python
+>>> int("10,50")
+Traceback (most recent call last):
+  File "<input>", line 1, in <module>
+ValueError: invalid literal for int() with base 10: '10,50'
+}}}
+
+{{{#!code python
+>>> float("10,50")
+Traceback (most recent call last):
+  File "<input>", line 1, in <module>
+ValueError: invalid literal for float(): 10,50
+}}}
+
+{{{#!code python
+>>> fecha = datetime.date(10,5,2010)
+Traceback (most recent call last):
+  File "<input>", line 1, in <module>
+ValueError: day is out of range for month
+}}}
+
+{{{#!code python
+>>> a,b,c = (1,2,3,4)
+Traceback (most recent call last):
+  File "<input>", line 1, in <module>
+ValueError: too many values to unpack
+}}}
+
+{{{#!code python
+>>> x,y,z = 1, 2
+Traceback (most recent call last):
+  File "<input>", line 1, in <module>
+ValueError: need more than 2 values to unpack
+}}}
+
+{{{#!code python
+>>> open("C:\xaraza")
+ValueError: invalid \x escape
+}}}
+
 
 === Errores de Atributos (AttributeError) ===
 
