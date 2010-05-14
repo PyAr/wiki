@@ -256,6 +256,11 @@ El nombre de la variable es inválido, sería: {{{numero_mas_antiguo=1}}}
 
   ''"2. Explícito es mejor que implícito."'' Zen de Python
 
+Si bien Python es dinámico y no tenemos que declarar las variables y funciones al principio de nuestro programa, estas deben existir (estar definidas o "inicializadas") antes de poder usarlas.
+
+O sea, previamente debimos haberle asignado un valor a una variable (con {{{=}}}), definido una función con {{{def}}} o clase con {{{class}}}. Tener en cuenta que Python justamente es dinámico, y si el interprete no pasa por la linea de la definición, no se define, por más que este el código en el archivo.
+
+==== Error de Nombre: el nombre 'variable' no está definido ====
 {{{#!code python
 >>> saludo="Hola"
 >>> print Saludo
@@ -264,11 +269,58 @@ Traceback (most recent call last):
 NameError: name 'Saludo' is not defined
 }}}
 
+Estamos queriendo usar un nombre (identificador) de algo que no existe.
+En este caso la variable {{{Saludo}}} no está inicializada, ya que el nombre de variable correcta es {{{saludo}}} (notar la diferencia de mayúsculas y minúsculas que comentamos en la sección anterior)
+
+==== Error de Nombre: el nombre global 'variable' no está definido ====
+{{{#!code python
+>>> def mi_func():
+...     print variable
+... 
+>>> mi_func()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "<stdin>", line 2, in mi_func
+NameError: global name 'variable' is not defined
+>>> 
+}}}
+
+Similar al anterior, estamos queriendo usar una variable que no definimos previamente (ahora dentro de una función).
+O definimos la variable globalmente (fuera de la función), o localmente (dentro de la función).
+
+==== Error de no vinculación local: la variable local 'xxx' fue referenciada antes de asignarla ====
+{{{#!code python
+>>> variable = 1
+>>> def mi_func():
+...     print variable
+...     variable = variable + 1
+... 
+>>> mi_func()
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "<stdin>", line 2, in mi_func
+UnboundLocalError: local variable 'variable' referenced before assignment
+}}}
+
+Una variación del anterior, pero en este caso, debemos usar la sentencia {{{global variable}}} dentro de la función, ya que, sinó, al asignarle un valor dentro de la función, se convierte automáticamente en una variable local, por más que exista globalmente (y da error si la asignación no está al principio de la función antes de usar la variable):
+
+{{{#!code python
+variable = 1
+def mi_func():
+    global variable
+    print variable
+    variable = variable + 1
+}}}
 
 === Errores de Tipos (TypeError) ===
 
   ''"12. Cuando te enfrentes a la ambigüedad, rechaza la tentación de adivinar."'' Zen de Python
 
+Si si, Python es fuertemente tipado, en general no hará mágia con nuestros datos para convertirlos de un tipo a otro.
+
+No como en otros lenguajes, que cambiarían el tipo de una variable silenciosamente dependiendo del contexto (que puede ser ambiguo) con el consiguiente arrastre de un error difícil de solucionar.
+
+==== Error de Tipo: tipo de operando no soportado para +: 'int' y 'str' ====
 {{{#!code python
 >>> a = 5
 >>> b = "10"
@@ -278,6 +330,11 @@ Traceback (most recent call last):
 TypeError: unsupported operand type(s) for +: 'int' and 'str'
 }}}
 
+Típico, en algunos lenguajes esto puede resultar "510" o 15 (dependiendo como entienda el contexto, el órden de los operandos, etc.) ya que hacen una conversión de tipos implícita.
+
+En Python, gentilmente nos avisa que, explicitamente debemos convertir el número a cadena ({{{str(a)+b}}} que resulta en "510") o la cadena en número ({{{a+int(b) que resulta en 15}}}.
+
+==== Error de Tipo: se requiere un entero ====
 {{{#!code python
 >>> fecha = datetime.date('2010','05','10')
 Traceback (most recent call last):
@@ -285,6 +342,10 @@ Traceback (most recent call last):
 TypeError: an integer is required
 }}}
 
+Algunas funciones validan los parámetros de entrada, en este caso {{{datetime.date}}} solicita enteros. 
+Sería {{{datetime.date(int('2010'),int('05'),int('10'))}}}
+
+==== Error de Tipo: el objeto 'NoneType' no es iterable ====
 {{{#!code python
 >>> lista = None
 >>> for i in lista:
