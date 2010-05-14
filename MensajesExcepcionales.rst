@@ -1,6 +1,6 @@
 = Mensajes Excepcionales =
 
-  ''"10. Los errores nunca deberían dejarse pasar silenciosamente."'' Zen de Python
+  ''"10. Los errores nunca deberían dejarse pasar silenciosamente."'' PythonZen
 
 Esta página busca ser una guía para las personas que se estén iniciando en este maravilloso lenguaje y se encuentren con errores comunes y no sepan como solucionarlos.
 
@@ -54,7 +54,7 @@ Que el árbol no nos impida ver el bosque ... :-)
 
 === Errores de Sangría (IdentationError) ===
 
-   ''"7. La legibilidad cuenta."'' Zen de Python
+   ''"7. La legibilidad cuenta."'' PythonZen
 
 En Python es fundamental dejar sangría (espacio antes de las instrucciones), que identifica el bloque al que pertenece, ya que no usamos llaves o palabras clave para delimitar los bloques como en otros lenguajes. Si bien esto ayuda a escribir código más prolijo evitando errores de anidación, puede ser raro hasta que uno se acostumbra.
 
@@ -121,7 +121,7 @@ Si el `print` no pertenece a la función, deberíamos ponerlo a la misma altura 
 
 === Errores de Sintaxis (SyntaxError) ===
 
-  ''"13. Debería haber una — y preferiblemente sólo una — manera obvia de hacerlo."'' Zen de Python
+  ''"13. Debería haber una — y preferiblemente sólo una — manera obvia de hacerlo."'' PythonZen
 
 La sintaxis, como en cualquier lenguaje, es fundamental para que Python entienda lo que estamos queriendole decir, ya que es estricto y se reusará a ejecutar cualquier código que no siga las reglas de sintáxis definidas (que por cierto, no son muchas), a saber:
 
@@ -254,7 +254,7 @@ El nombre de la variable es inválido, sería: {{{numero_mas_antiguo=1}}}
 
 === Errores de Nombres (NameError) ===
 
-  ''"2. Explícito es mejor que implícito."'' Zen de Python
+  ''"2. Explícito es mejor que implícito."'' PythonZen
 
 Si bien Python es dinámico y no tenemos que declarar las variables y funciones al principio de nuestro programa, estas deben existir (estar definidas o "inicializadas") antes de poder usarlas.
 
@@ -314,7 +314,7 @@ def mi_func():
 
 === Errores de Tipos (TypeError) ===
 
-  ''"12. Cuando te enfrentes a la ambigüedad, rechaza la tentación de adivinar."'' Zen de Python
+  ''"12. Cuando te enfrentes a la ambigüedad, rechaza la tentación de adivinar."'' PythonZen
 
 Si si, Python es fuertemente tipado, en general no hará mágia con nuestros datos para convertirlos de un tipo a otro, si no se lo pedimos explícitamente.
 
