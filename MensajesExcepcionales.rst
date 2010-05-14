@@ -316,7 +316,7 @@ def mi_func():
 
   ''"12. Cuando te enfrentes a la ambigüedad, rechaza la tentación de adivinar."'' Zen de Python
 
-Si si, Python es fuertemente tipado, en general no hará mágia con nuestros datos para convertirlos de un tipo a otro.
+Si si, Python es fuertemente tipado, en general no hará mágia con nuestros datos para convertirlos de un tipo a otro, si no se lo pedimos explícitamente.
 
 No como en otros lenguajes, que cambiarían el tipo de una variable silenciosamente dependiendo del contexto (que puede ser ambiguo) con el consiguiente arrastre de un error difícil de solucionar.
 
@@ -419,13 +419,23 @@ Los parámetros por posición se pasan antes que los parámetros por nombre: {{{
 
 === Errores de Valores (ValueError) ===
 
+De manera similar a los errores de tipos, cuando pasemos un dato que no se puede convertir o es inválido, Python nos mostrará estos mensajes:
+
+
+==== Error de Valor: literal inválido para int() con base 10: 'xxxx' ====
 {{{#!code python
->>> int("10,50")
+>>> int("10ab")
 Traceback (most recent call last):
   File "<input>", line 1, in <module>
-ValueError: invalid literal for int() with base 10: '10,50'
+ValueError: invalid literal for int() with base 10: '10ab'
 }}}
 
+En este caso '10ab', salvo que las letras sean un error te escritura, estamos intentando convertir un valor hexadecimal (base 16) a entero, sin especificarlo, por lo que intenta base 10 por defecto. Lo correcto sería {{{int("10ab",16)}}}
+
+Igualmente siempre es conveniente capturar este tipo de errores, para validar que el dato a convertir es realmente un número, y sinó, tomar una medida adecuada.
+
+
+==== Error de Valor: literal inválido para float() con base 10: 'xxxx' ====
 {{{#!code python
 >>> float("10,50")
 Traceback (most recent call last):
@@ -433,6 +443,9 @@ Traceback (most recent call last):
 ValueError: invalid literal for float(): 10,50
 }}}
 
+Lo mismo que el anterior, pero con la salvedad que para python debemos indicar los decimales con el punto (.) y no la coma (,). Podríamos convertirlo facilmente: {{{float("10,50".replace(",",".")}}}
+
+==== Error de Valor: el día esta fuera de rango para el mes ====
 {{{#!code python
 >>> fecha = datetime.date(10,5,2010)
 Traceback (most recent call last):
@@ -440,6 +453,10 @@ Traceback (most recent call last):
 ValueError: day is out of range for month
 }}}
 
+Estamos intentando pasar un valor a la función en el parámetro que no corresponde: {{{datetime.date(año, mes, día)}}}
+Sería {{{fecha = datetime.date(2010,5,10)}}}
+
+==== Error de Valor: demasiados valores para desempaquetar ====
 {{{#!code python
 >>> a,b,c = (1,2,3,4)
 Traceback (most recent call last):
@@ -447,6 +464,11 @@ Traceback (most recent call last):
 ValueError: too many values to unpack
 }}}
 
+En Python, podemos asignar varios elementos a una lista de destinos, pero la cantidad de destinos y de elementos a asignar deben coincidir. 
+En este caso, {{{a=1}}}, {{{b=2}}}, {{{c=3}}} y al cuarto elemento ya no hay a que asignarlo. 
+Podríamos agregar un destino más: {{{a,b,c,d = (1,2,3,4)}}} o sacar un elemento a asignar de la expresión: {{{a,b,c = (1,2,3)}}}.
+
+==== Error de Valor: necesita más de 2 valores para desempaquetar ====
 {{{#!code python
 >>> x,y,z = 1, 2
 Traceback (most recent call last):
@@ -454,10 +476,19 @@ Traceback (most recent call last):
 ValueError: need more than 2 values to unpack
 }}}
 
+Caso inverso al anterior, nos falta un elemento en la expresión de asignación (o nos sobra un destino).
+Posible solución: sacamos un destino {{{x,y = 1, 2}}} o agregamos un elemento: {{{x,y,< = 1, 2 ,3}}}
+
+
+==== Error de Valor: caracter de escape \x inválido ====
 {{{#!code python
->>> open("C:\xaraza")
+>>> open("C:\xaraza.txt")
 ValueError: invalid \x escape
 }}}
+
+En los strings (cadenas), ciertos caracteres tienen un significado especial.
+Es el caso de la barra invertida ("\"), que identifica que lo que sigue definie un caractér especial ("\n" para el salto de linea, "\xfe" para el caracter cuyo código hexadecimal es FE, etc.)
+Si queremos una barra invertida (por ejemplo, en un directorio de windows), debemos usar strings crudos (raws) o doble barra invertida: "C:\\xaraza.txt"
 
 
 === Errores de Atributos (AttributeError) ===
