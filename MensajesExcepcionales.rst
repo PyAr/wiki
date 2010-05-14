@@ -520,7 +520,22 @@ AttributeError: 'module' object has no attribute 'next'
 Similar al anterior, pero en este caso estamos importando un módulo {{{csv}}} que no tiene la función {{{next}}}}.
 En este caso particular, {{{next}}} es un método de la instancia de {{{csv_reader}}}, no del módulo.
 
+=== Errores de Índice (IndexError) ===
+
+==== Error de Índice: el índice de lista esta fuera de rango ====
+{{{#!code python
+>>> l=[1,2,3]
+>>> l[3]
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+IndexError: list index out of range
+}}}
+
+En este caso, la lista tiene 3 elementos, y se acceden desde la posición 0 hasta la 3 (como en C), lo correcto sería {{{l[2]}}} para el tercer elemento.
+
 === Errores de Clave (KeyError) ===
+
+Los diccionarios se acceden por clave asociativa, si la clave no existe, se producirá un error:
 
 {{{#!code python
 >>> dict = {'clave': 'valor'}
@@ -530,10 +545,18 @@ Traceback (most recent call last):
 KeyError: 'clave2'
 }}}
 
+En este caso, podríamos acceder al valor de correcto usando {{{dict['clave']}}} que sí existe, o pedir {{{dict.get('clave2')}}} que si la clave no existe, devolverá {{{None}}} y no producirá una excepción.
+
 === Otros Errores ===
+
+Los errores del sistema operativo y bibliotecas relacionadas también se expresan como excepciones:
+
+==== IOError: [Errno 2] No existe el archivo o directorio: 'C:\\saraza' ====
 {{{#!code python
 >>> open("C:\saraza")
 Traceback (most recent call last):
   File "<input>", line 1, in <module>
 IOError: [Errno 2] No such file or directory: 'C:\\saraza'
 }}}
+
+El archivo solicitado no existe, si queremos crearlo deberíamos pasarle un segundo parámetro que lo especifique: {{{open("saraza","a")}}} o {{{open("saraza","w")}}}}
