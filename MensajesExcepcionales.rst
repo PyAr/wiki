@@ -52,6 +52,7 @@ Que el árbol no nos impida ver el bosque ... :-)
 
 === Errores de Sangría (IdentationError) ===
 
+
 En Python es fundamental dejar sangría (espacio antes de las instrucciones), que identifica el bloque al que pertenece, ya que no usamos llaves o palabras clave para delimitar los bloques como en otros lenguajes. Si bien esto ayuda a escribir código más prolijo evitando errores de anidación, puede ser raro hasta que uno se acostumbra.
 
 Generalmente, cada vez que abramos un bloque (con una sentencia que termina en : -dos puntos- ), debemos incrementar la sangría. Por ej:
@@ -117,6 +118,93 @@ Si el `print` no pertenece a la función, deberíamos ponerlo a la misma altura 
 
 === Errores de Sintaxis (SyntaxError) ===
 
+La sintaxis, como en cualquier lenguaje, es fundamental para que Python entienda lo que estamos queriendole decir, ya que es estricto y se reusará a ejecutar cualquier código que no siga las reglas de sintáxis definidas (que por cierto, no son muchas), a saber:
+
+ * '''Mayúsculas y Minúsculas, identificadores (nombres) y palabras clave''': empiezan con una letra, pueden continuar con letras (a..z o A..Z), dígitos (0..9) o guión bajo (_). Python reconoce la diferencia (es "case sensitive" o sensible a mayúsculas y minúsculas), por lo que {{{Hola}}} y {{{hola}}} son dos identificadores distintos! Se recomienda escribir:
+  * Nombres de variable y módulos (archivos) en minúsculas con las palabras separadas por guión bajo ('_'), por ejemplo: {{{mi_variable_x}}}
+  * Nombres de clases en CamelCase (primer letra de cada palabra en mayúscula, luego minúsculas, sin separar por espacios), por ejemplo: {{{MiClasePunto}}}
+ * '''Palabras clave reservadas''': deben ser escritas tal cual, deben estar al principio de una linea y/o separadas con espacios y no pueden ser usadas como nombres de variables: and as assert break class continue def elif else except exec finally for global if import in is lambda or pass print raise return try with yield. 
+   * Sentencias simples {{{assert pass del print return yield raise break continue import global exec}}}: son comprendidos dentro de una línea lógica y varias sentencias simples pueden estar en una sola línea separadas por punto y coma
+   * Sentencias compuestas {{{if while for try with def class}}}: contienen (grupos de) otras sentencias; y de alguna manera afectan el control de la ejecución de los mismos. En general, abarcan múltiples líneas.
+ * '''Literales''': los valores "constantes" pueden escribirse según su tipo:
+  * Cadenas (strings): encerrados por comillas simples o dobles (sin diferencia), ej: {{{"mi cadena"}}} o {{{'mi cadena'}}}
+   * Unicode: se identifican con una u antes de la cadena, por ej: {{{u"Mi texto en español"}}}
+   * Raw (Crudo): se identifican con una r, son textos sin interpretar los escapes ("\"), por ej: {{{r"c:\config.sys"}}}
+   * Con triple comilla simple ({{{'''}}}) o triple comilla doble ({{{"""}}} se encierran textos que se pueden extender varias líneas
+  * Números: en general, solo números separados por el punto ("coma decimal"), ej: {{{1234.567}}}
+   * Prefijos: se utilizan para diferenciar la base en que está escrito el número:
+    * Hexadecimales (base 16): 0x1234
+    * Binarios (base 2): 0b01010101 (solo Python 2.6 o superior)
+    * Octales (base 8): 0o666 (solo Python 2.6 o superior), 0666 (solo Python 2.6 o inferior)
+   * Sufijos: se utlizan para denotar el tipo de número:
+    * Largos: 123456789012345678901234567890L (long)
+    * Imaginarios: 1234j
+   * Notación científica: se indica con una e o E en el medio: {{{1e100}}}, {{{3.14e-10}}} (no confundir con el número irracional, el exponente es en base 10)
+ * '''Operadores''':
+  * Unarios:  reciben un operando: {{{~ -}}}, por ej la negación: {{{-1}}}
+  * Binarios: reciben dos operandos:
+   * Aritméticos {{{+ - * ** / // %}}}: para cálculos, por ej: {{{1 + 2}}} (sumar 1 y 2)
+   * Relacionales {{{< > <= >= == !=}}}: para comparaciones, por ej: {{{a != b}}} (¿a es diferente de b?)
+   * A nivel de bit {{{<< >> & | ^}}}: por ej. {{{5>>6}}} (
+ * '''Delimitadores''': determinados caracteres indican determinadas acciones y funcionan como "separadores", cualquier otro uso (o su no utilización) no especificado a continuación generará un error:
+  * Paréntesis (): definen tuplas "de elementos": {{{(1,2,3,4)}}} o permiten llamar a una función/crear una clase, {{{mi_funcion(123)}}}
+  * Corchetes []: definen listas "de elementos": {{{["uno", "dos", "tres"]}}} o permiten acceder por índice/clave a una colección: {{{mi_lista[posición]}}}
+  * Diccionarios {}: definen diccionarios (asociando un valor a una clave) por ej. {{{{'clave':'valor'}}}} o conjuntos
+  * Decorador @: aplican una función a una función o clase, por ej {{{@requiere_acceso}}}
+  * Coma {{{,}}}: separa expresiones o elementos de una secuencia, por ej: {{{1, 2, 3}}}
+  * Dos puntos {{{:}}}: inicia bloques (con o sin sangría), elementos en un diccionario o anotaciones en una función (Python3Mil)
+  * Igual {{{=}}}: asigna una expresión a un nombre, por ej. {{{mi_variable=5}}} No confundir con igualdad: {{{a==b}}} También puede usarse la asignación aumentada, combinando un operador, por ej: {{{a+=1}}} (asigna el valor de {{{a+1}}} a {{{a}}})
+  * Punto y coma {{{;}}}: separa varias instrucciones en una misma línea, por ej. {{{a=1; b=2; c=a+b}}}. ''Sí, se puede como en C, pero tratar de no usar...''
+ * '''Comentarios''': cualquier línea que empieze con numeral (#) es un comentario y será ignorada (independientemente de lo que tiene adentro y si tiene sangría o no)
+ * '''Caracteres sin significado''': No usar el signo pesos ($) o el signo de interrogación (?) ya que no se utilizan en Python fuera de las cadenas y producirá un error.
+
+Esperando no haberlo abrumado con el resumen de la sintaxis del lenguaje (los interesados pueden ver la especificación completa en http://docs.python.org/), veamos que pasa si no la respetamos:
+
+==== Error de Sintaxis: sintaxis inválida ====
+{{{#!code python
+>>> If a>1:
+  File "<input>", line 1
+    If a>1:
+       ^
+SyntaxError: invalid syntax
+}}}
+
+Python respeta mayúsculas y minusculas, {{{If}}} no es el {{{if}}} que queremos usar.
+Tener cuidado sobre todo si venimos de lenguajes que son indiferentes a este tema (por. ej. Visual Basic)
+
+{{{#!code python
+>>> secuencia = 1 2
+  File "<input>", line 1
+    secuencia = 1 2
+                  ^
+SyntaxError: invalid syntax
+}}}
+
+Debemos indicar un operador entre las expresiones o un delimitador entre los elementos. 
+En este caso nos falto la coma {{{secuencia = 1, 2}}}
+
+{{{#!code python
+>>> if a==1
+...    print "a es verdadero!"
+  File "<input>", line 1
+    if a==1
+       
+^
+SyntaxError: invalid syntax
+}}}
+
+Las sentencias compuestas, deben terminar con dos puntos (":") para indicar el nuevo bloque que afectan {{{if a==1:}}}
+
+{{{#!code python
+>>> while a=1:
+  File "<input>", line 1
+    while a=1:
+           ^
+SyntaxError: invalid syntax
+}}}
+
+La asignación no se puede usar en una expresión (comparación), por ej., para evitar los errores clásicos en C {{{while(v=1)...}}} donde nos asignaba {{{1}}} a {{{v}}} en vez de comparar si {{{v}}} era igual a {{{1}}}. En este caso, usar el operador de comparación {{{while a==1:}}}
+
 {{{#!code python
 >>> def a:
   File "<input>", line 1
@@ -125,37 +213,39 @@ Si el `print` no pertenece a la función, deberíamos ponerlo a la misma altura 
 SyntaxError: invalid syntax
 }}}
 
+Por más que no tengamos parámetros en nuestra función, los paréntesis son obligatorios. Sería: {{{def a():}}}
+
+==== Error de Sintaxis: FinDeLinea mientras se buscaba una cadena "simple" ====
 {{{#!code python
->>> a+1=2
+>>> 'abc"
   File "<input>", line 1
-SyntaxError: can't assign to operator (<input>, line 1)
+    'abc"
+        ^
+SyntaxError: EOL while scanning single-quoted string
 }}}
 
-{{{#!code python
->>> If a:
-  File "<input>", line 1
-    If a:
-       ^
-SyntaxError: invalid syntax
-}}}
+Las cadenas simples (de una sola línea) deben empezar y terminar en la misma línea y con el mismo caracter, comillas (") o tilde (').
+
+==== Error de Sintaxis: FinDeArchivo mientras se buscaba una cadena de "múltiples líneas" ====
 
 {{{#!code python
->>> a b
-  File "<input>", line 1
-    a b
-      ^
-SyntaxError: invalid syntax
+>>> """
+... mucho 
+... texto
+...
+SyntaxError: EOF while scanning triple-quoted string
 }}}
 
+Las cadenas de múltiples líneas, deben empezar con triple comilla o tilde, y terminar con lo mismo. Aquí faltó cerrar la cadena con {{{"""}}}
+Nota: el error es simulado, es difícil que suceda en el intérprete, pero si ocurre en un archivo)
+
+==== Error de Sintaxis: no esposible asignar a un operador ====
 {{{#!code python
->>> if a
-...    print "a es verdadero!"
+>>> numero+antiguo=1
   File "<input>", line 1
-    if a
-       
-^
-SyntaxError: invalid syntax
-}}}
+SyntaxError: can't assign to operator (<input>, line 1)}}}
+
+El nombre de la variable es inválido, sería: {{{numero_mas_antiguo=1}}}
 
 === Errores de Nombres (NameError) ===
 
