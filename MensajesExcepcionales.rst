@@ -559,4 +559,18 @@ Traceback (most recent call last):
 IOError: [Errno 2] No such file or directory: 'C:\\saraza'
 }}}
 
-El archivo solicitado no existe, si queremos crearlo deberíamos pasarle un segundo parámetro que lo especifique: {{{open("saraza","a")}}} o {{{open("saraza","w")}}}}
+El archivo solicitado no existe, si queremos crearlo deberíamos pasarle un segundo parámetro que lo especifique: {{{open("saraza","a")}}} o {{{open("saraza","w")}}}
+
+=== Advertencias ===
+
+Como comentabamos, hay Excepciones que no son errores, sino advertencias. 
+Se usan para avisarnos sobre algún cambio en el lenguaje o código potencialmente incorrecto o perjudicial:
+
+==== Advertencia de "Deprecación": el módulo md5 esta desaconsejado; use en su lugar haslib ====
+{{{#!code python
+>>> import md5
+__main__:1: DeprecationWarning: the md5 module is deprecated; use hashlib instead
+}}}
+En esta versión de Python, el módulo md5 existe por compatibilidad hacia atrás. 
+En versiones posteriores podría no existir más.
+Se recomienda revisar la recomendación que nos da Python: el módulo hashlib.
