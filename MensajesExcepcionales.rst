@@ -260,6 +260,8 @@ Si bien Python es dinámico y no tenemos que declarar las variables y funciones 
 
 O sea, previamente debimos haberle asignado un valor a una variable (con {{{=}}}), definido una función con {{{def}}} o clase con {{{class}}}. Tener en cuenta que Python justamente es dinámico, y si el interprete no pasa por la linea de la definición, no se define, por más que este el código en el archivo.
 
+En otros lenguajes, si la variable no esta definida, a veces toma un valor arbitrario (nulo, 0 o cadena vacia) o queda declarada sin inicializar (tomando cualquier valor que esté en la memoria), con los consiguientes errores que esto puede ocasionar. Para prevenir esto, en Python es necesario explicitamente definir ("inicializar") la variable con un valor inicial.
+
 ==== Error de Nombre: el nombre 'variable' no está definido ====
 {{{#!code python
 >>> saludo="Hola"
@@ -318,7 +320,7 @@ def mi_func():
 
 Si si, Python es fuertemente tipado, en general no hará mágia con nuestros datos para convertirlos de un tipo a otro, si no se lo pedimos explícitamente.
 
-No como en otros lenguajes, que cambiarían el tipo de una variable silenciosamente dependiendo del contexto (que puede ser ambiguo) con el consiguiente arrastre de un error difícil de solucionar.
+No como en otros lenguajes, que cambiarían el tipo de una variable silenciosamente dependiendo del contexto (que puede ser ambiguo, por ej. ¿convertir a {{{float}}} o {{{int}}}?) con el consiguiente arrastre de un error difícil de solucionar.
 
 ==== Error de Tipo: tipo de operando no soportado para +: 'int' y 'str' ====
 {{{#!code python
