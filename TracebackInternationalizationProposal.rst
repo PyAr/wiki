@@ -142,11 +142,12 @@ Reference Implementation
     gettext would be even smaller as messages would be in separated files,
     i18n could reduce just to _ (gettext) C function.
     
-    A custom tool for messages recollection from source files, similar to
-    pygettext.py, but scanning C files for PyErr_Format or PyErr_SetString.
+    In order to keep the change small, this approach needs a custom tool
+    for messages recollection from source files, similar to pygettext.py, 
+    but scanning C files for PyErr_Format or PyErr_SetString.
     Looking for messages in .py files would be a little more difficult,
     as it would have to look where exceptions are raised.
-
+    None of both tools were developed for this draft.
 
 References
 
