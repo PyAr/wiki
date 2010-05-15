@@ -15,7 +15,7 @@ Abstract
 
     The idea is to provide a standard mechanism to translate exception 
     and traceback messages to other languages than English.
-    To not reinvent the wheel, this proposal is based on i8n (gettext),
+    To not reinvent the wheel, this proposal is based on i18n (gettext),
     to ease translation and colaboration between language communities,
     use compatible tools that already exists, favor correctness with 
     online review, and has proven to be useful in other projects with
@@ -45,7 +45,7 @@ Rationale
     in English, and they are required in some scenarios like bug 
     reporting or doctests, so a method must be provided to change the
     messages language (preferably at runtime).
-    Using standards tools for i8n (gettext) will ease translation 
+    Using standards tools for i18n (gettext) will ease translation 
     providing a common framework that already is prepared for 
     different language grammars, with colaborative online applications 
     like Pootle[3] to automate translate and review process, tending 
