@@ -30,8 +30,8 @@ Rationale
 
     English isn't the first language of some users (developers), so
     they may be not confortable with messages in this language [1]
-    (and some don't understand it at all). Ask the user to learn a 
-    second language to use Python is, at least, not practical.
+    (and someones don't understand it at all). Ask the user to learn
+    a second language to use Python is, at least, not practical.
     This is specially and issue when Python is used as a First 
     Programming Language for teaching to non-English speakers  in 
     almost any educational level, even worse in other areas not 
@@ -42,19 +42,19 @@ Rationale
     concentration on their work, having to waste time finding the 
     translation (if it exists) or asking to the teacher.
     In the other side, advanced users often prefer original messages
-    in English, and they are a no option in some scenarios like bug 
+    in English, and they are required in some scenarios like bug 
     reporting or doctests, so a method must be provided to change the
-    messages language (preferably at runtime)
+    messages language (preferably at runtime).
     Using standards tools for i8n (gettext) will ease translation 
     providing a common framework that already is prepared for 
     different language grammars, with colaborative online applications 
     like Pootle[3] to automate translate and review process, tending 
     to a high quality result.
-    Other projects have chose this way a long time ago, citing 
-    PostgreSQL as an example, where you can choose at runtime error 
-    messages language using LC_MESSAGES[4]. Indeed, we are using Pootle
-    and other tools to translate PostgreSQL related projects to Spanish 
-    in a collaborative way [5].
+    Other projects have chose this way some time ago, citing PostgreSQL 
+    as an example[4], where you can choose at runtime error messages 
+    language using LC_MESSAGES[5]. Indeed, we are using Pootle and 
+    other tools to translate PostgreSQL related projects to Spanish in
+    a collaborative way [6].
 
 References
 
@@ -64,9 +64,12 @@ References
 
     [3] http://translate.sourceforge.net/wiki/pootle/index
 
-    [4] http://www.postgresql.org/docs/8.4/static/nls-translator.html
+    [4] http://www.postgresql.org/docs/8.2/static/nls-translator.html
 
-    [5] http://pootle.arpug.com.ar/pootle
+    [5] http://www.postgresql.org/docs/8.2/static/locale.html
+
+    [6] http://pootle.arpug.com.ar/pootle
+
 
 Copyright
 
