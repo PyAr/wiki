@@ -61,6 +61,15 @@ Rationale
     other tools to translate PostgreSQL related projects to Spanish in
     a collaborative way [6].
 
+    Finally, this proposal will address current misbehavior with 
+    locale.LC_MESSAGES category (according the Python Standard Library
+    Documentation of locale module) [7]:
+
+        Locale category for message display. Python currently does not
+        support application specific locale-aware messages. Messages
+        displayed by the operating system, like those returned by 
+        os.strerror() might be affected by this category.
+
 Usage
 
     Setting the desired locale (ie. 'es_AR') in LC_MESSAGES category 
@@ -108,9 +117,7 @@ Caveats
 
 Reference Implementation
 
-    A proof of concept could be downloaded from:
-
-       
+    A proof of concept could be downloaded from Python Argentina Wiki [8]
 
     It defines a i18n function that is called from PyErr_SetString and 
     PyErr_Format (errors.c) and tb_displayline, PyTraceBack_Print 
@@ -129,6 +136,18 @@ Reference Implementation
     done. It is just a quickly and dirty hack to show the point, a real 
     implementation must be done.
 
+    Although it is just a proof of concept, final version shouldn't be 
+    much different than this, as internationalization points are 
+    well-known and just 2 C files where modified. Indeed, a version using
+    gettext would be even smaller as messages would be in separated files,
+    i18n could reduce just to _ (gettext) C function.
+    
+    A custom tool for messages recollection from source files, similar to
+    pygettext.py, but scanning C files for PyErr_Format or PyErr_SetString.
+    Looking for messages in .py files would be a little more difficult,
+    as it would have to look where exceptions are raised.
+
+
 References
 
     [1] http://wiki.python.org/moin/BeginnersGuide
@@ -143,6 +162,9 @@ References
 
     [6] http://pootle.arpug.com.ar/pootle
 
+    [7] http://docs.python.org/library/locale.html
+
+    [8] http://python.org.ar/pyar/TracebackInternationalizationProposal?action=AttachFile&do=view&target=python_traceback_i18n_proof_of_concept.diff
 
 Copyright
 
@@ -158,3 +180,6 @@ fill-column: 70
 coding: utf-8
 End:
 }}}
+
+Attachment moin wiki code:
+[[attachment:python_traceback_i18n_proof_of_concept.diff]]
