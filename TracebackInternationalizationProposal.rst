@@ -29,9 +29,10 @@ Abstract
 Rationale
 
     English isn't the first language of some users (developers), so
-    they may be not confortable with messages in this language [1]
-    (and some don't understand it at all). Ask the user to learn
-    a second language to use Python is, at least, not practical.
+    they may not be confortable with messages in that language [1]
+    (and some don't understand it at all). Ask them to learn a
+    second language (mostly foreign) to use Python is, at least, 
+    not practical.
 
     This is specially an issue when Python is used as a First 
     Programming Language for teaching to non-English speakers in 
