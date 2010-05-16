@@ -42,7 +42,8 @@ Rationale
     translated errors, as we did in Argentina [2]), users are often 
     blocked when they found an English message, losing they 
     concentration on their work, having to waste time finding the 
-    translation (if it exists) or asking to the teacher.
+    translation (if it exists) or asking to the teacher or mailing
+    lists.
 
     In the other side, advanced users often prefer original messages
     in English, and they are required in some scenarios like bug 
