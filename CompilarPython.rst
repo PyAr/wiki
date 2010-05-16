@@ -56,3 +56,35 @@ svn up
 make
 sudo make install
 }}}
+
+= Como armar un paquete DEB de Python =
+
+A veces es necesario armar un paquete para facilitar la instalación/desinstalación y pruebas en distintas máquinas.
+
+Aquí un ejemplo de como hacerlo para Debian o Ubuntu (bajando py3k):
+
+Bajamos y descomprimimos (en este caso, por SVN):
+{{{
+svn co http://svn.python.org/projects/python/branches/py3k py3k
+cd py3k
+}}}
+
+Configuramos y armamos el paquete:
+{{{
+./configure --prefix=$HOME
+cat << EOF > description-pak
+Python 3.x provisional test package
+EOF
+checkinstall -y --pkgname=py3k --pkglicense=PL \
+             --maintainer=reingart@gmail.com \
+             --requires= \
+             --provides=py3k --pkgrelease=1 \
+             --pkgsource=http://www.python.org/download/ \
+             --install=no --reset-uids=yes \
+             -D make install
+}}}
+
+Luego, instalamos el paquete con:
+{{{
+dpkg -i py3k-1_i386.deb
+}}}
