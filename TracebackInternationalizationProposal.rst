@@ -52,12 +52,12 @@ Rationale
 
     Using standards tools for i18n (gettext) will ease translation 
     providing a common framework that already is prepared for 
-    different language grammars, with colaborative online applications 
+    different language rules, with colaborative online applications 
     like Pootle[3] to automate translation and review process, tending 
     to a high quality result.
 
     Other projects have chose this way some time ago, citing PostgreSQL 
-    as an example[4], where you can choose at runtime error messages 
+    as an example[4], where, at runtime, you can choose error messages 
     language using LC_MESSAGES[5]. Indeed, we are using Pootle and 
     other tools to translate PostgreSQL related projects to Spanish in
     a collaborative way [6].
@@ -112,9 +112,10 @@ Caveats
 
     Special care must be taken with positional placeholders like in:
     "name '%.200s' is not defined". If there is more than one 
-    placeholder, an alternate string formatting system should be used
+    placeholder, using printf special format specifiers (ie. %2$s %1$s)
+    or an alternate string formatting system should be required
     in order to allow to change their position in the string (this may
-    be required by some languages in some contexts).
+    be required by some languages rules in some contexts).
 
 Reference Implementation
 
