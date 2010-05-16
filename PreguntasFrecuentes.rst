@@ -57,6 +57,10 @@ En la sección ContribuyendoAlWiki vas a encontrar todo ('''todo''' se refiere a
 === ¿Cómo colaboro con ésta lista de preguntas? ===
 Hay [[PreguntasSinRespuesta|otras preguntas todavía sin respuesta]], similares a éstas, que son sobre temas que tratamos varias veces en la lista de correo, pero aun a nadie las pasó acá. Si estás interesado y tenés usuario en el wiki, adelante. Sinó, fijate como en la pregunta anterior.
 
+=== ¿Por que Python y PyAr son como son? ===
+Que pregunta.
+Algunas respuestas pueden inferirse del PythonZen
+
 == Sobre Python (el Lenguaje) ==
 === ¿Cuales son las ventajas/desventajas de usar listas o tuplas? Y diccionarios? ===
 La velocidad de las tuplas vs las listas, se discutió acá hace unos meses: http://grulic.org.ar/lurker/message/20051219.201756.60530154.en.html
