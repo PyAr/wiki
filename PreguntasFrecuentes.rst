@@ -67,6 +67,10 @@ Con respecto a si hay realmente diferencia en cuanto a velocidad y tamaño en me
 
 Mas info en [[http://www.python.org/doc/faq/es/general/#por-qu-hay-tipos-de-datos-tuplas-y-listas-separados|FAQ General de Python]]
 
+=== ¿Qué son las ''Excepciones''? ===
+Las excepciones (Exception) son un mecanismo que posee el lenguaje para informarnos de un error o advertencia.
+En la página MensajesExcepcionales creamos una guía con las excepciones más comunes, su traducción y posibles soluciones.
+
 === ¿Cuales son los cambios en Python 3.0 (Python 3000) la nueva versión del lenguaje? ===
 En la página Python3Mil se encuentra la información sobre Python 3k, cambios en el lenguaje, compatibilidad hacia atras, calendario aproximado.
 
@@ -178,6 +182,7 @@ def f():
    ...
    x = 5
 }}}
+
 == Sobre Python (el interprete) ==
 === ¿Cuales son los interpretes que puedo usar? ===
 Las opciones disponibles son:
