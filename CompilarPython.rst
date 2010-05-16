@@ -69,7 +69,7 @@ svn co http://svn.python.org/projects/python/branches/py3k py3k
 cd py3k
 }}}
 
-Configuramos y armamos el paquete:
+Configuramos y armamos el paquete (incluyendo compilación):
 {{{
 ./configure --prefix=$HOME
 cat << EOF > description-pak
