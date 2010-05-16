@@ -39,8 +39,8 @@ Rationale
     related directly with computer sciences.
 
     Although a workaround may be developed (ie. a wiki page with 
-    translated errors, as we did in Argentina [2]), users are often 
-    blocked when they found an English message, losing they 
+    translated errors, as we did in Argentina [2]), that users are 
+    often blocked when they found an English message, losing they 
     concentration on their work, having to waste time finding the 
     translation (if it exists) or asking to the teacher or mailing
     lists.
