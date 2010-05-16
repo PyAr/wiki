@@ -14,7 +14,7 @@ Post-History:
 Abstract
 
     The idea is to provide a standard mechanism to translate exception 
-    and traceback messages to other languages than English.
+    and traceback messages to languages other than English.
     To not reinvent the wheel, this proposal is based on i18n (gettext),
     to ease translation and colaboration between language communities,
     use compatible tools that already exists, favor correctness with 
@@ -30,17 +30,17 @@ Rationale
 
     English isn't the first language of some users (developers), so
     they may be not confortable with messages in this language [1]
-    (and someones don't understand it at all). Ask the user to learn
+    (and some don't understand it at all). Ask the user to learn
     a second language to use Python is, at least, not practical.
 
-    This is specially and issue when Python is used as a First 
-    Programming Language for teaching to non-English speakers  in 
+    This is specially an issue when Python is used as a First 
+    Programming Language for teaching to non-English speakers in 
     almost any educational level, even worse in other areas not 
     related directly with computer sciences.
 
     Although a workaround may be developed (ie. a wiki page with 
     translated errors, as we did in Argentina [2]), users are often 
-    blocked when then found an English message, losing they 
+    blocked when they found an English message, losing they 
     concentration on their work, having to waste time finding the 
     translation (if it exists) or asking to the teacher.
 
@@ -52,7 +52,7 @@ Rationale
     Using standards tools for i18n (gettext) will ease translation 
     providing a common framework that already is prepared for 
     different language grammars, with colaborative online applications 
-    like Pootle[3] to automate translate and review process, tending 
+    like Pootle[3] to automate translation and review process, tending 
     to a high quality result.
 
     Other projects have chose this way some time ago, citing PostgreSQL 
@@ -74,7 +74,7 @@ Usage
 
     Setting the desired locale (ie. 'es_AR') in LC_MESSAGES category 
     will enable internationalization of tracebacks and exceptions, and
-    seting 'C' locale will get back to untranslated original messages:
+    setting 'C' locale will get back to untranslated original messages:
 
     Examples:
  
@@ -97,7 +97,7 @@ Usage
     ZeroDivisionError: integer division or modulo by zero
 
     By default, LC_MESSAGES should be 'C' locale, to prevent any
-    misunderstunding.
+    misunderstanding.
 
     The user that needs translated messages could easily add a 
     line or setting LC_MESSAGES in his desired language:
@@ -117,7 +117,7 @@ Caveats
 
 Reference Implementation
 
-    A proof of concept could be downloaded from Python Argentina Wiki [8]
+    A proof of concept can be downloaded from Python Argentina Wiki [8]
 
     It defines a i18n function that is called from PyErr_SetString and 
     PyErr_Format (errors.c) and tb_displayline, PyTraceBack_Print 
@@ -128,7 +128,7 @@ Reference Implementation
 
     Also, i18n function emulates LC_MESSAGES functionality (as only some 
     Spanish messages are translated so far for this example and it isn't 
-    using gettect by now), but this could  be modified easily once the 
+    using gettext by now), but this could  be modified easily once the 
     internationalization mechanism is accepted.
 
     Disclaimer: This proof of concept does not address known caveats and 
@@ -138,13 +138,14 @@ Reference Implementation
 
     Although it is just a proof of concept, final version shouldn't be 
     much different than this, as internationalization points are 
-    well-known and just 2 C files where modified. Indeed, a version using
+    well-known so just 2 C files where modified. Indeed, a version using
     gettext would be even smaller as messages would be in separated files,
     i18n could reduce just to _ (gettext) C function.
     
-    In order to keep the change small, this approach needs a custom tool
+    In order to keep the change small, and in order to not bother other 
+    developers with new special issues, this approach needs a custom tool
     for messages recollection from source files, similar to pygettext.py, 
-    but scanning C files for PyErr_Format or PyErr_SetString.
+    but scanning C files for PyErr_Format or PyErr_SetString messages.
     Looking for messages in .py files would be a little more difficult,
     as it would have to look where exceptions are raised.
     None of both tools were developed for this draft.
