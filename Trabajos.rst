@@ -1,4 +1,6 @@
 = Trabajos con Python =
+
+== 2010 ==
  * '''Busco socio tecnológico para proyecto  de Red Social escrito en Python + Django + Pinnax.''' Se trata de  una red social que, además de las funciones típicas de redes sociales,  presenta una característica que le confiera plena originalidad. Ofrezco  participación en la sociedad y un monto asignable a la tarea que falta  realizar. El sitio fue desarrollado en '''Python  + Django + Pinnax'''.  Aunque actualmente está on line, aún le  falta terminación (diría que está realizado en, aproximadamente, un 60%)  Además, habría que mejorar/rehacer las interfaces de usuario y el  diseño porque son confusas y no demasiado modernos.  En pre-testeos no  sistemáticos la funcionalidad del sitio parece resultar atractiva y  hasta adictiva para muchas personas, razón por la cual podría llegar a  resultar un sitio de alto tráfico.  En cuanto a su desarrollo, el sitio  reviste  una mediana complejidad. Quisiera es asociarme a un programador  o a un grupo desarrollador con amplia experiencia en Python.  '''Ofrezco participar en la sociedad y, además,  dispongo de un pequeño monto monetario que permitiría solventar parte de  lo que restaría realizar.''' Como contraparte, '''necesito un socio que se comprometa  seriamente con el proyecto, que posea excelencia en el manejo de las  tecnologías mencionadas y que sea responsable con los tiempos'''.   Es muy importante que el futuro socio resida en CABA (Cdad. Autónoma de  Buenos Aires) o, en su defecto, que viaje a ésta con cierta frecuencia.   A los interesados, por favor, comuníquense al 15-6631-3421. ó a fede1234@gmail.com -  Federico González
  * (17/05/2010) Bonsai Information Security esta buscando un desarrollador full time para extender y mantener el software '''Open Source''' w3af (http://w3af.sf.net/). Se requiere amplia experiencia en Python, ganas de aprender seguridad en aplicaciones Web y Hacking. El lugar de trabajo es Belgrano y se ofrece '''excelente remuneración'''. Para más información por favor contactarse con Andrés Riancho a andres@bonsai-sec.com . Gracias!
  * (10/06/2010) [[http://www.air-track.com.ar|AirTrack]] seleccionará un programador web Python de tiempo completo para sus oficinas en Rosario, Santa Fe, Argentina. El sistema está escrito enteramente en Python, utiliza Pylons, SqlAlchemy, D-Bus y eventlet. Conocimientos en Ajax, Comet, TDD (Test-driven Development) y CI (Continous Integration) son valorados. Si estás interesado mandá tu CV a rrhh@air-track.com.ar .
@@ -13,6 +15,8 @@
  * (12/02/2010) U.S. based web development house looking for someone with at least a year of Django experience and 3 years of Python experience. Some admin knowledge to install and debug problems on Linux environments. Basic working knowledge of version control system. Candidates with strong HTML/CSS and Javascript experience preferred. Must be able to work remotely and communicate effectively via email and IM. Experience with Agile development environements preferred but not required. Have the ability to attend phone conferences via Skype from time to time. ed@menendez.com
 
  * (18/01/2010) En [[http://popego.com/|Popego]] estamos incorporando nuevos desarrolladores a nuestro equipo de trabajo para trabajar en nuestros productos. Buscamos mentes brillantes que tengan muchas ganas de investigar y aprender. Trabajamos en '''Linux''' con '''Python''' y además de nuestro equipo de Ingeniería, contamos con un equipo investigando e innovando en campos como '''Machine Learning''' y '''Natural Language Processing'''. Construimos nuestras aplicaciones usando '''Amazon Web Services''', '''Apache Hadoop''' y '''PostgreSQL''' como software de base, con lo cual tu experiencia suma pero no es excluyente. Actualmente tenemos posiciones abiertas tanto para el equipo de Ingeniería como para el de Machine Learning. Si estás interesado y te apasionan los desafíos escribinos a jobs@popego.com .
+
+== 2009 ==
 
  * (29/12/2009) [[http://www.msa.com.ar|MSA]] busca ampliar su equipo de desarrollo, el cual tendrá a cargo un proyecto muy interesante con tecnologías Web y Open Source, como Python y Linux. Son deseables conocimientos de Desarrollo Web, PostgreSQL, PyGTK y SQL. Buscamos gente proactiva, con habilidades autodidactas y afinidad al Software Libre, dentro del área de Capital Federal, al menos mientras dure el "start-up" del proyecto. Si pensás que puede interesarte la propuesta, no dejes de comunicarte con nosotros vía mail con el CV y/o pretensiones a rrhh@msa.com.ar .
 
@@ -36,6 +40,8 @@
 
  * (05/02/2009) En Machinalis (http://machinalis.com) trabajamos con Python, Django, Zope, Plone. Somos un startup en Córdoba en busca de programadores experimentados con ganas de trabajar en proyectos desafiantes. Si te interesa, escribí a info@machinalis.com .
 
+== 2008 ==
+
  * (22/12/2008) Estamos buscando profesionales que quieran desarrollar con Python para un cliente europeo. Es fundamental tener un nivel intermedio-avanzado de inglés dado que va a haber mucho contacto con el cliente. El contexto laboral es cómodo y divertido pero con objetivos claros y desafiantes que incitan a mejorar constantemente. No duden en contactarse con nosotros y dejar su C.V.: cv@globant.com
 
  * (17/11/2008) En atommica nos apasionan nuestros proyectos y se nota, pero para poder terminarlos *todos* necesitamos de tu talento. Somos un startup con muchas ideas frezcas, si tenés ganas de aprender (y por qué no, enseñarnos) es tu oportunidad. Mas info en http://atommica.com/jobs.html o mandanos un mail a python@atommica.com
@@ -47,6 +53,8 @@
  * (18/06/2008) Para importante proyecto de software ERP Open Source, estamos en la búsqueda de programadores Python que posean preferentemente conocimientos de PostgreSQL (no excluyente). En PuertaTotal estamos creciendo y necesitamos tu conocimiento. Te ofrecemos un muy buen ambiente de trabajo con posibilidades de progreso. Zona de Trabajo: San Miguel, Gran Bs As. Por favor enviar curriculum a rrhh@puertatotal.com.ar
 
  * (10/04/2008) Estamos buscando desarrolladores con buenos conocimientos de Python, C++ ó Assembler, para trabajar en nuestras oficinas de Capital Federal (Palermo). CORE es una empresa que desarrolla e investiga tecnología de punta de seguridad informática, para ayudar a las organizaciones a protegerse y reducir el riesgo. Mandános tu CV a empleos.argentina@corest.com y encontrá más info en www.coresecurity.com/jobopportunities
+
+== 2007 ==
 
  * (04/10/2007) We're looking for python web developers in switzerland (full time employment). So if you'd like to move to nice switzerland write to florian.boesch@dwsco.com
 
