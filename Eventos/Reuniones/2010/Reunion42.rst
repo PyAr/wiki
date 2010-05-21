@@ -13,6 +13,7 @@ Por favor, si venís a la reunión, anotate en esta lista:
  * TomasZulberti
  * FacundoBatista
  * AlbertoPaparelli
+ * MarceloFernández
 
 === ¿Dónde? ===
 
