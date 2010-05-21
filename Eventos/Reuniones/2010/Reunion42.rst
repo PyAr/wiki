@@ -12,6 +12,7 @@ Por favor, si venís a la reunión, anotate en esta lista:
  * MarianoReingart
  * TomasZulberti
  * FacundoBatista
+ * AlbertoPaparelli
 
 === ¿Dónde? ===
 
