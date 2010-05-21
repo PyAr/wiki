@@ -9,7 +9,7 @@
 === Asistentes: ===
 Por favor, si venís a la reunión, anotate en esta lista:
  * MarianoReingart
- * ''tu nombre''
+ * TomasZulberti
 
 === ¿Dónde? ===
 
