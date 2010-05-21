@@ -4,7 +4,7 @@
 
  * Conclusiones y comentarios sobre el [[http://www.pyday.com.ar/rafaela2010|PyDay Rafaela 2010]]
  * Propuesta de PyDay Buenos Aires 2010
- * Internacionalización de Python (traducción mensajes de excepción, ayuda incorporada y demás)
+ * Internacionalización de Python ([[TracebackInternationalizationProposal|traducción mensajes de excepción]], ayuda incorporada y demás)
  * ''proponer más temas...''
 
 === Asistentes: ===
