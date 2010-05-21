@@ -55,7 +55,7 @@ Luego del evento, para los interesados y en la medida de lo posible, se suelen h
 
 === Sitios web pasados ===
  * http://pyday.python.com.ar/
- * http://www.python-santafe.com.ar/
+ * http://www.pythonsantafe.com.ar/
  * http://www.pyday.com.ar/rafaela2010
 
 === Materiales ===
