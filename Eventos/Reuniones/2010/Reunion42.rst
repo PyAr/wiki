@@ -14,6 +14,7 @@ Por favor, si venís a la reunión, anotate en esta lista:
  * FacundoBatista
  * AlbertoPaparelli
  * MarceloFernández
+ * Hernán Roldán
 
 === ¿Dónde? ===
 
