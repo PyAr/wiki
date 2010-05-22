@@ -28,5 +28,4 @@ Si usted se inscribe acá probablemente reciba emails contactándolo.
 ||MartinAlderete ||Sí ||No ||Trabajo remotamente ||
 ||[[mailto:chinomng@gmail.com/|MarianoGalan]] ||Sí ||No ||Santa Fe, trabajo remotamente ||
 ||[[mailto:canicue@gmail.com/|canicue]] ||Sí ||No ||Mar del Plata,trabajo remotamente ||
-
-
+||EzequielMarquez ||                        ||                        ||Tucumán, trabajo remotamente ||
