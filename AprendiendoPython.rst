@@ -40,7 +40,10 @@ Ahora, ¿a dónde podrías recurrir para obtener información que te inicie en l
   . [[http://honors.montana.edu/~jjc/easytut/easytut_es/|Tutor para No-Programadores]] Josh Cogliati 1999-2002 - Traducción Victor M. Rosas Garcia. '''(link roto)'''
 
  * Libro Python no muerde de Roberto Alsina, para alguien que tiene experiencia previa en programación.
-  . [[http://nomuerde.netmanagers.com.ar/|Python no muerde]] Roberto Alsina - En español
+  . [[http://nomuerde.netmanagers.com.ar/|Python no muerde]] Roberto Alsina - En español(Licencia Creative Commons)
+
+ * Libro Python para todos de Raúl González Duque. Introducción al lenguaje e utilización de la librería estándard de python.
+  . [[http://mundogeek.net/tutorial-python/|Python para todos]] Raúl González Duque - En español(Licencia Creative Commons)
 
 == Documentación adicional sobre python en español ==
  * Introducción a Python y PostgreSQL Un ejemplo sencillo
