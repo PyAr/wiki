@@ -6,7 +6,7 @@
 
 —Lo he comprobado muy minuciosamente —dijo el ordenador—, y ésa es casi definitivamente la respuesta. Creo que el problema, para ser sinceros, es que no habéis sabido nunca cuál es la pregunta.
 
-    ''The Hitchhiker's Guide to the Galaxy", Douglas Adams''
+    ''"The Hitchhiker's Guide to the Galaxy", Douglas Adams''
 
 
 === Temario ===
@@ -31,11 +31,11 @@ Por favor, si venís a la reunión, anotate en esta lista:
 
 === ¿Dónde? ===
 
-Aráoz 1199 (entre Av. Córdoba y Cabrera) 
+Aráoz 1199 (entre Av. Córdoba y Cabrera)
 
-Reservamos el sótano del bar "Doctor Mason" de 19 a 22hs. Cuenta con Wi-Fi y pool. 
+Reservamos el sótano del bar "Doctor Mason" de 19 a 22hs. Cuenta con Wi-Fi y pool.
 
-Costo (opcional) aproximado por persona $30 para comer y tomar algo (modalidad "a la carta" individual) 
+Costo (opcional) aproximado por persona $30 para comer y tomar algo (modalidad "a la carta" individual)
 
 <<GoogleMaps(msa=0,msid=105017401461870163751.0004787ee56982073d1c6,t="h",ll="-34.593579,-58.427804",spn="0.005511,0.013078",z=17)>>
 
