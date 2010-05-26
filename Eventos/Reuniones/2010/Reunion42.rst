@@ -1,6 +1,15 @@
 == Reunión 42 - 28 de Mayo de 2010 - Bar Dr Mason, Buenos Aires - 19:00 ==
 
-=== Temas: ===
+'''Edición Pycentenario'''
+
+—¡Cuarenta y dos! —exclamó Loonquawl—. ¿Es eso todo lo que tienes que mostrar tras siete millones y medio de años de trabajo?
+
+—Lo he comprobado muy minuciosamente —dijo el ordenador—, y ésa es casi definitivamente la respuesta. Creo que el problema, para ser sinceros, es que no habéis sabido nunca cuál es la pregunta.
+
+    ''The Hitchhiker's Guide to the Galaxy", Douglas Adams''
+
+
+=== Temario ===
 
  * Conclusiones y comentarios sobre el [[http://www.pyday.com.ar/rafaela2010|PyDay Rafaela 2010]]
  * Propuesta de PyDay Buenos Aires 2010
