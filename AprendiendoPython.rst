@@ -39,6 +39,9 @@ Ahora, ¿a dónde podrías recurrir para obtener información que te inicie en l
  * Guía para alguien que no tiene experiencia previa en programación.
   . [[http://honors.montana.edu/~jjc/easytut/easytut_es/|Tutor para No-Programadores]] Josh Cogliati 1999-2002 - Traducción Victor M. Rosas Garcia. '''(link roto)'''
 
+ * Libro Python no muerde de Roberto Alsina, para alguien que tiene experiencia previa en programación.
+  . [[http://nomuerde.netmanagers.com.ar/|Python no muerde]] Roberto Alsina - En español
+
 == Documentación adicional sobre python en español ==
  * Introducción a Python y PostgreSQL Un ejemplo sencillo
   . [[http://users.servicios.retecal.es/tjavier/docfinal/out-htmls/index.html|Introduccion a python/postgresql]] Tomás Javier Robles Prado 2002
