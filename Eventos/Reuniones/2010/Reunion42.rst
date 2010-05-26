@@ -17,6 +17,7 @@ Por favor, si venís a la reunión, anotate en esta lista:
  * JoaquinSorianello
  * AngelVelasquez
  * HugoRuscitti
+ * SebastianBassi
 
 
 === ¿Dónde? ===
