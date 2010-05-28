@@ -20,15 +20,18 @@ Por favor, si venís a la reunión, anotate en esta lista:
  * MarianoReingart
  * TomasZulberti
  * FacundoBatista
- * AlbertoPaparelli
+ * AlbertoPaparelli?
  * MarceloFernández
  * --(JoaquinSorianello)-- (Se me complico...)
- * AngelVelasquez
- * HugoRuscitti
+ * AngelVelasquez?
+ * HugoRuscitti?
  * SebastianBassi
  * GabrielGenellina (llego más tarde :( )
  * DiegoMascialino
  * FelipeLerena
+ * Roberto Alsina
+ * Pablo Zilani
+ * Matias Barrios (N)
 
 
 === ¿Dónde? ===
