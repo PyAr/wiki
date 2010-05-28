@@ -28,6 +28,7 @@ Por favor, si venís a la reunión, anotate en esta lista:
  * SebastianBassi
  * GabrielGenellina (llego más tarde :( )
  * DiegoMascialino
+ * FelipeLerena
 
 
 === ¿Dónde? ===
