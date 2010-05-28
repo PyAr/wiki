@@ -26,6 +26,8 @@ Por favor, si venís a la reunión, anotate en esta lista:
  * HugoRuscitti
  * SebastianBassi
  * GabrielGenellina (llego más tarde :( )
+ * DiegoMascialino
+
 
 === ¿Dónde? ===
 Aráoz 1199 (entre Av. Córdoba y Cabrera)
