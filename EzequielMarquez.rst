@@ -2,7 +2,7 @@
 
 Email: <<MailTo(exe.zaid AT SPAMFREE gmail DOT com)>>
 
-[[www.ezequielmarquez.com.ar|Web Site]]
+[[http://ezequielmarquez.com.ar/|Web Site]]
 
 
 
