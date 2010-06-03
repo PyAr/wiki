@@ -8,9 +8,9 @@ Si querés suscribirte a la lista, te pedimos por favor que primero te tomes un 
 
 == Instrucciones para suscribirte ==
 
-1. Mandá un mensaje a --(<<MailTo(pyar-subscribe AT decode DOT com DOT ar)>>)--
+1. Mandá un mensaje a <<MailTo(pyar-subscribe AT python DOT org DOT ar)>>
 
-2. Mandá tu "Hola mundo" a --(<<MailTo(pyar AT decode DOT com DOT ar)>>)-- para que todos los suscriptos a la lista aprecien tu nivel de nerdismo. :-?
+2. Mandá tu "Hola mundo" a <<MailTo(pyar AT python DOT org DOT ar)>> para que todos los suscriptos a la lista aprecien tu nivel de nerdismo. :-?
 
  ''(El paso 2. es opcional, pero muy bienvenido. Ha generado algunas de las conversaciones más interesantes de la lista...)''
 
@@ -19,10 +19,9 @@ Si querés suscribirte a la lista, te pedimos por favor que primero te tomes un 
  * Para comunicarte con los administradores de PyAr, mandá un mensaje a <<MailTo(admin AT python DOT com DOT ar)>>. Esa
  sería la dirección de contacto para reportar problemas con la lista o con el sitio web.
 
- * Para obtener ayuda y los comandos disponibles en la lista, mandá un mensaje a --(<<MailTo(pyar-help AT decode DOT com DOT ar)>>)--.
+ * Para obtener ayuda y los comandos disponibles en la lista, mandá un mensaje a con el Asunto 'help' (sin las comillas) a <<MailTo(pyar-request AT python DOT org DOT ar)>>
 
- * Para obtener un digest con los mensajes anteriores en la lista mandá un mail a --(<<MailTo(pyar-get AT decode DOT com DOT ar)>>)--.
-
+ 
 == RSS y NNTP ==
 
 La lista también es accesible vía RSS y NNTP. Entrá a http://dir.gmane.org/gmane.org.user-groups.python.argentina.
@@ -37,4 +36,4 @@ A partir del 17/10/2006, GMANE también está archivando nuestra lista. Este arc
 
 <<BR>>
 ----
-||<tablestyle="background-color:#f0f8fd; width:100%;"> (./) '''El servicio de hosting --(, tanto del portal como)-- de la lista de correo es de [[http://www.decode.com.ar|Decode]].'''<<BR>> (./) '''El servicio de archivo es cortesía de [[http://www.grulic.org.ar/|GrULiC]], que gentilmente nos ha prestado espacio.'''<<BR>> (./) '''El proyecto [[http://www.gmane.org/|GMANE]] nos da archive, feeds RSS y acceso vía NNTP.'''<<BR>><<BR>>A estas organizaciones, ~+¡muchas gracias!+~||
+||<tablestyle="background-color:#f0f8fd; width:100%;"> (./) '''El servicio de hosting , tanto del portal como de la lista de correo es de --([[http://www.decode.com.ar|Decode]])-- [[http://drupal.usla.org.ar/|USLA]].'''<<BR>> (./) '''El servicio de archivo es cortesía de [[http://www.grulic.org.ar/|GrULiC]], que gentilmente nos ha prestado espacio.'''<<BR>> (./) '''El proyecto [[http://www.gmane.org/|GMANE]] nos da archive, feeds RSS y acceso vía NNTP.'''<<BR>><<BR>>A estas organizaciones, ~+¡muchas gracias!+~||
