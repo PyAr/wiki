@@ -13,6 +13,8 @@ Ahora, ¿a dónde podrías recurrir para obtener información que te inicie en l
 
  * [[http://compbiol.plosjournals.org/perlserv/?request=get-document&doi=10.1371/journal.pcbi.0030199|A Primer on Python for Life Science Researchers]], versión en forma de publicación científica del trabajo anterior. La principal diferencia es que está versión ha sido revisada por el sistema de peer-review que se usa para las publicaciones científicas.
 
+ * [[http://pythonya.appspot.com/|Python Ya]] Python desde cero. Tutorial web interactivo. Permite escribir y ejecutar nuestros programas directamente en la página, sin necesidad de tener Python instalado.
+
  * Para quien ya tiene alguna idea, pero necesita buscar algo puntual, puede probar [[http://rgruet.free.fr/PQR24/PQR2.4.html|Python 2.4 Quick Reference]].
 
  * Listado de [[Ejercicios]] para practicar Python.
