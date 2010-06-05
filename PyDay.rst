@@ -40,10 +40,13 @@ Un !PyDay es una jornada sobre el lenguaje Python de 1 día, con el formato de m
   * Sorteo: si tienes materiales para regalar, recuerda repartir números y tenerlos preparado hacia el final de la jornada
   * Pizarra o pizzarrón: para anotar mensajes, propuestas de charlas relámpago, cambios en el horario, reuniones, etc. 
  8. Pide más voluntarios (1-2 o más) para que te ayuden a que la conferencia siga sin sobresaltos
-  * Una encargada de acreditación (a la entrada)
+  * Una encargada de acreditación (a la entrada, para control de asistencia y repartir el programa)
   * Un encargado de aula (proyector, audio, etc.) con cronometro y carteles orientativos
-  * Un encargado de filmación (opcional)
- 9. Recuerda a todos 2 semanas antes, 1 semana antes y el día de la conferencia que está sucediendo!
+  * Un encargado de filmación (opcional, cámara digital con trípode)
+ 9. Difusión: Recuerda a todos 2 semanas antes, 1 semana antes y el día de la conferencia que está sucediendo!
+  * Publicar eventos en listas de correos y redes sociales (facebook, tweeter, etc.)
+  * Imprimir volantes y carteles. Repartirlos o pegarlos en universidades, institutos educativos y empresas
+  * Comentar resultados y publicar videos en youtube/blip.tv
  10. Pasalo bien :) 
 
 Luego del evento, para los interesados y en la medida de lo posible, se suelen hacer reuniones sociales, cenas o almuerzos, juegos y actividades recreativas, etc.
