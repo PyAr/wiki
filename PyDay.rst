@@ -46,7 +46,7 @@ Un !PyDay es una jornada sobre el lenguaje Python de 1 día, con el formato de m
  9. Difusión: Recuerda a todos 2 semanas antes, 1 semana antes y el día de la conferencia que está sucediendo!
   * Comunicar el evento en listas de correos y redes sociales (facebook, tweeter, etc.)
   * Imprimir volantes y carteles. Repartirlos o pegarlos en universidades, institutos educativos y empresas
-  * Publicar en medios virtuales (blogs, revistas electrónicas, etc.) y tradicionales (radios, revistas, diarios, etc.)
+  * Publicar anuncios en medios virtuales (blogs, revistas electrónicas, etc.) y tradicionales (radios, revistas, diarios, etc.)
   * Comentar resultados y subir videos en youtube/blip.tv
  10. Pasalo bien :) 
 
