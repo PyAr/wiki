@@ -26,7 +26,7 @@ Por favor, si venís a la reunión, anotate en esta lista:
  * AngelVelasquez?
  * HugoRuscitti?
  * SebastianBassi
- * GabrielGenellina (llego más tarde :( )
+ * --(GabrielGenellina)-- (ufa :( )
  * DiegoMascialino
  * FelipeLerena
  * Roberto Alsina
@@ -76,5 +76,3 @@ I18n Exceptions:
  * Se mando una mail a python-ideas, y aunque tuvo un par de objeciones no hubo una que indique que no se puede hacer. En la wiki de pyar se escribió un borrador de un PEP.
  * El problema con esto para los desarrolladores es cuando se reporta un bug, ya que el mensaje va puede estar en otro idioma que no sea el suyo (Chino). En postgres esto se soluciono metiéndole un código de error a cada mensaje. De todas formas, el programador puede saber que excepción fue lanzada ya que los mensajes los puede sacar el svn.
  * Por default, debería leer el locale de la maquina.
-
-
