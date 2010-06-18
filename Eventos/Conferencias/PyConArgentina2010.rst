@@ -1,1 +1,1 @@
-Documento para buscar patrocinadores: 
+Documento para buscar patrocinadores: [[attachment:sponsors_2010.pdf]]
