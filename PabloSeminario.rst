@@ -8,7 +8,7 @@ Usuario de GNU/Linux desde hace unos años y dedicado a Python desde hace unos m
 
 == Blog ==
 
-http://www.pabloseminario.com.ar
+http://pabloseminario.com.ar
 
 == Mail ==
 
