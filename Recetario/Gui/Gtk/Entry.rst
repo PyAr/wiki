@@ -53,3 +53,5 @@ if __name__ == "__main__":
     hola.show()
     gtk.main()
 }}}
+
+{{attachment:Entry.png}}
