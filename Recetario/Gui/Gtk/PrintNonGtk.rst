@@ -22,3 +22,5 @@ print 'esperamos 3 segundos'
 time.sleep(3)
 print 'chau'
 }}}
+
+{{attachment:Imprimir.png}}
