@@ -34,3 +34,5 @@ window.connect("delete-event", on_window_close)
 # procese los eventos
 gtk.main()
 }}}
+
+{{attachment:Hola mundo.png}}
