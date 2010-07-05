@@ -2,6 +2,8 @@
 
 ejemplo que muestra el uso de hbox (cajas horizontales) para ordenar elementos de forma horizontal
 
+{{attachment:hbox.png}}
+
 {{{
 #!python
 import gtk
@@ -38,5 +40,3 @@ if __name__ == "__main__":
     ventana.show()
     gtk.main()
 }}}
-
-{{attachment:hbox.png}}
