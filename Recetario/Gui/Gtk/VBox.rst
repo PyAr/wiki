@@ -2,6 +2,8 @@
 
 ejemplo que muestra el uso de vbox (cajas verticales) para ordenar elementos de forma vertical
 
+{{attachment:vbox.png}}
+
 {{{
 #!python
 import gtk
@@ -38,5 +40,3 @@ if __name__ == "__main__":
     ventana.show()
     gtk.main()
 }}}
-
-{{attachment:vbox.png}}
