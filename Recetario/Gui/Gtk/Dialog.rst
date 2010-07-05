@@ -51,3 +51,8 @@ sys.exit(0)
 
 gtk.main()
 }}}
+
+{{attachment:dialog1.png}}
+{{attachment:dialog2.png}}
+{{attachment:dialog3.png}}
+{{attachment:dialog4.png}}
