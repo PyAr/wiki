@@ -2,6 +2,8 @@
 
 Crea y muestra una ventana que muestra el famoso mensaje hola mundo.
 
+{{attachment:Hola mundo.png}}
+
 {{{
 #!python
 import gtk
@@ -34,5 +36,3 @@ window.connect("delete-event", on_window_close)
 # procese los eventos
 gtk.main()
 }}}
-
-{{attachment:Hola mundo.png}}
