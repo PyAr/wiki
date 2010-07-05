@@ -2,6 +2,11 @@
 
 ejemplo para crear dialogos modales de distintos tipos con distintos botones
 
+{{attachment:dialog1.png}}
+{{attachment:dialog2.png}}
+{{attachment:dialog3.png}}
+{{attachment:dialog4.png}}
+
 {{{
 #!python
 import gtk
@@ -51,8 +56,3 @@ sys.exit(0)
 
 gtk.main()
 }}}
-
-{{attachment:dialog1.png}}
-{{attachment:dialog2.png}}
-{{attachment:dialog3.png}}
-{{attachment:dialog4.png}}
