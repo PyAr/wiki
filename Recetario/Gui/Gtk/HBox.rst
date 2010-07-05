@@ -38,3 +38,5 @@ if __name__ == "__main__":
     ventana.show()
     gtk.main()
 }}}
+
+{{attachment:hbox.png}}
