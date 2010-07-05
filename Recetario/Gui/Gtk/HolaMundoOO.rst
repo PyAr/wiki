@@ -31,3 +31,5 @@ if __name__ == "__main__":
     hola.show()
     gtk.main()
 }}}
+
+{{attachment:Hola mundo oo.png}}
