@@ -28,3 +28,5 @@ window.show_all()
 
 gtk.main()
 }}}
+
+{{attachment:Only numbers.png}}
