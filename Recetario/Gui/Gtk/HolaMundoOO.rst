@@ -2,6 +2,8 @@
 
 ejemplo que hace lo mismo que GtkHolaMundo pero orientado a objetos
 
+{{attachment:Hola mundo oo.png}}
+
 {{{
 #!python
 import gtk
@@ -31,5 +33,3 @@ if __name__ == "__main__":
     hola.show()
     gtk.main()
 }}}
-
-{{attachment:Hola mundo oo.png}}
