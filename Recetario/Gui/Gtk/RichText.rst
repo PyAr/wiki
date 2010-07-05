@@ -166,6 +166,8 @@ if __name__ == '__main__':
     test()
 }}}
 
+{{attachment:GtkRichText.png}}
+
 mas info:
 
  * [[http://pygtk.org/docs/pygtk/]]
