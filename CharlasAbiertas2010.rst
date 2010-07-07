@@ -19,7 +19,7 @@ La entrada es libre y gratuita.
 
 '''Introducción a la Programación'''
 
-''(falta texto)''
+''Orientada a personas que no saben nada de programación, esta charla busca presentar los conceptos básicos de este arte de manera que dicha persona pueda, comprendiendo las bases de la disciplina, tener herramientas para luego si lo desea profundizar más en el tema y aprender formalmente a programar.''
 
  * Disertante: Facundo Batista
 
@@ -30,7 +30,7 @@ La entrada es libre y gratuita.
 
 '''Introducción a Python'''
 
-''(falta texto)''
+''Esta charla se orienta a programadores, principiantes o avanzados, que desean conocer este lenguaje, de manera de aprender sus principios básicos.  Se presentan las características generales del lenguaje y su biblioteca estándar, su parte social, y se recorren los tipos de datos, los controles de flujo, y las diversas maneras de encapsular código, terminando con algunos detalles que muestran la expresividad, sencillez y poder de Python.''
 
  * Disertantes: Tomás Zulberti y Facundo Batista
 
@@ -43,7 +43,7 @@ La entrada es libre y gratuita.
 
 ''Esta charla busca introducir a los asistentes la historia, situación
 actual y características principales del mundo web (HTML, HTTP, MVC,
-etc.), presentando la herramienta de desarrollo Web2Py, de muy fácil
+etc.), presentando la herramienta de desarrollo !Web2Py, de muy fácil
 uso y aprendizaje, y a su vez, completamente funcional para
 desarrollar aplicaciones web 2.0 de manera totalmente interactiva
 (diseño y programación por el navegador web!), incluyendo las últimas
