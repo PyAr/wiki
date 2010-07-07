@@ -187,7 +187,7 @@ herramientas tendremos como ayuda.''
 
 '''Taller de Programación de Juegos'''
 
-''(falta texto)''
+''Mostraremos cómo hacer juegos y actividades educativas sencillas, usando Python y la biblioteca PyGame.''
 
  * Disertantes: Alejandro J. Cura y Hector Sanchez
   
