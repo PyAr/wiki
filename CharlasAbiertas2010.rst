@@ -57,7 +57,11 @@ una aplicación a modo de ejemplo. (primera parte)''
 
 '''!FooBar (virtualenv, buildout, nose)'''
 
-''(falta texto)''
+''Esta charla muestra como utilizar herramientas para producir entornos
+reproducibles de desarrollo, de manera que tus aplicaciones funcionen en
+cualquier sistema en el que desees instalarlo.
+
+Adicionalmente, se verá la relación con testing mediante nose.''
 
  * Disertante: Roberto Alsina
 
@@ -95,7 +99,9 @@ una aplicación a modo de ejemplo. (segunda parte)''
 
 '''Introducción a las Interfaces Gráficas de Escritorio I'''
 
-''(falta texto)''
+''En esta charla se verán los conceptos básicos de desarrollo de aplicaciones
+gráficas, programación orientada a eventos, diseño de interfaces gráficas,
+y tecnologías relacionadas. (primera parte)''
 
  * Disertante: Roberto Alsina
   
@@ -114,7 +120,9 @@ una aplicación a modo de ejemplo. (segunda parte)''
 
 '''Introducción a las Interfaces Gráficas de Escritorio II'''
 
-''(falta texto)''
+''En esta charla se verán los conceptos básicos de desarrollo de aplicaciones
+gráficas, programación orientada a eventos, diseño de interfaces gráficas,
+y tecnologías relacionadas. (segunda parte)''
 
  * Disertante: Roberto Alsina
   
@@ -141,7 +149,8 @@ una aplicación a modo de ejemplo. (segunda parte)''
   
 '''!PyQt'''
 
-''(falta texto)''
+''Veremos el desarrollo de una aplicación de escritorio sencilla de principio a
+fin, con todos sus componentes, internacionalización, deployment, etc.''
  
  * Disertante: Roberto Alsina
 
