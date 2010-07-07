@@ -41,7 +41,15 @@ La entrada es libre y gratuita.
 
 '''Introducción al Desarrollo Web I'''
 
-''(falta texto)''
+''Esta charla busca introducir a los asistentes la historia, situación
+actual y características principales del mundo web (HTML, HTTP, MVC,
+etc.), presentando la herramienta de desarrollo Web2Py, de muy fácil
+uso y aprendizaje, y a su vez, completamente funcional para
+desarrollar aplicaciones web 2.0 de manera totalmente interactiva
+(diseño y programación por el navegador web!), incluyendo las últimas
+tecnologías de una forma simple y clara (javascript, ajax, css, etc.).
+Recorreremos los temas principales mostrando el desarrollo rápido de
+una aplicación a modo de ejemplo. (primera parte)''
 
  * Disertantes: Mariano Reingart y Alejandro J. Cura
 
@@ -60,7 +68,15 @@ La entrada es libre y gratuita.
 
 '''Introducción al Desarrollo Web II'''
 
-''(falta texto)''
+''Esta charla busca introducir a los asistentes la historia, situación
+actual y características principales del mundo web (HTML, HTTP, MVC,
+etc.), presentando la herramienta de desarrollo Web2Py, de muy fácil
+uso y aprendizaje, y a su vez, completamente funcional para
+desarrollar aplicaciones web 2.0 de manera totalmente interactiva
+(diseño y programación por el navegador web!), incluyendo las últimas
+tecnologías de una forma simple y clara (javascript, ajax, css, etc.).
+Recorreremos los temas principales mostrando el desarrollo rápido de
+una aplicación a modo de ejemplo. (segunda parte)''
 
  * Disertantes: Mariano Reingart y Alejandro J. Cura
   
@@ -135,7 +151,15 @@ La entrada es libre y gratuita.
 
 '''Python 3000'''
 
-''(falta texto)''
+''Esta charla presenta la evolución de Python, la versión 3 del lenguaje
+(a.k.a. Python 3000), y explica las razones por las cuales se planeó y
+ejecutó esta evolución.''
+
+''Además de las nuevas características del
+lenguajes y mejoras generales se detallan los cambios que presentarán
+problemas de compatibilidad, y las estrategias para migrar de la rama
+actual (Python 2) a esta nueva versión: cómo y cuando migrar, y qué
+herramientas tendremos como ayuda.''
 
  * Disertante: Facundo Batista
   
