@@ -20,7 +20,7 @@
 ## ULTIMAS_START
 
 ==== 03/07/2010 ====
-
+<script>alert(1)</script>
 sii Recién horneado, ya tenemos la última versión grande de la serie de Python 2: Python 2.7 fue recién liberado.
 
 Más info [[http://python.org/download/releases/2.7/| aquí]]. El documento con qué hay nuevo [[http://docs.python.org/dev/whatsnew/2.7.html|es este]]
