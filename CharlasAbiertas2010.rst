@@ -133,7 +133,7 @@ La entrada es libre y gratuita.
 
  * 13 a 15 horas
 
-=== Día 9: Sábado 27 de Noviembre ===
+=== Día 9: Sábado 20 de Noviembre ===
 '''Taller de Programación de Juegos'''
 
 ''Mostraremos cómo hacer juegos y actividades educativas sencillas, usando Python y la biblioteca PyGame.''
