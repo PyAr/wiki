@@ -6,7 +6,7 @@ Distribuidas a lo largo de varios sábados del segundo semestre del año, cubren
 == Datos del evento ==
 Las charlas serán dadas en La Tribu, Lambaré 873.
 
-La entrada es libre y gratuita.
+La entrada es libre y gratuita. Se pasará una gorra voluntaria durante los cursos para hacer frente a viáticos y gastos generales.
 
 No hace falta registrarse, pero vení temprano para asegurarte un lugar porque los cupos son limitados.
 
