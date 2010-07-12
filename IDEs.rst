@@ -135,3 +135,10 @@ Tiene una licencia comercial y privativa pero si sos usuario de OSX seguramente 
 === Scribes ===
 
 [[http://scribes.sourceforge.net/|Scribes]] es un editor de textos para GNOME escrito en Python. Entre sus [[http://scribes.sourceforge.net/features.html|características]] se destacan: autocompletado , templates (también conocido como '''snippets'''), indentado automático y marcado de línea (bookmarks). Vean la [[http://scribes.sourceforge.net/demo.htm|demostración]] para enamorarse ;)
+
+=== Spyder ===
+
+[[http://packages.python.org/spyder/|Spyder]] es un IDE para python con edición avanzada, testing interactivo, introspección, etc... Esta especialmente recomendado para computación cientifica gracias a NumPy (algebra lineal), SciPy (procesamiento de imágenes y señales), matplotlib (ploteo interactivo en 2D/3D) y sporte a mlab de MayaVi (visualizacion 3D intetarctiva).
+Spyder may also be used as an extension library providing powerful console-related PyQt4 widgets.
+
+[[http://packages.python.org/spyder/]]
