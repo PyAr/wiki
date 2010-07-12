@@ -8,6 +8,9 @@ Las charlas serán dadas en La Tribu, Lambaré 873.
 
 La entrada es libre y gratuita.
 
+No hace falta registrarse, pero vení temprano para asegurarte un lugar porque los cupos son limitados.
+
+
 == Cronograma ==
 === Día 1: Sábado 24 de Julio ===
 '''Introducción a la Programación'''
@@ -136,7 +139,9 @@ La entrada es libre y gratuita.
 === Día 9: Sábado 20 de Noviembre ===
 '''Taller de Programación de Juegos'''
 
-''Mostraremos cómo hacer juegos y actividades educativas sencillas, usando Python y la biblioteca PyGame.''
+''Mostraremos cómo hacer juegos y actividades educativas sencillas, usando Python y la biblioteca PyGame.
+
+No es imprescindible, pero si tenés notebook traela!''
 
  * Disertantes: Alejandro J. Cura y Hector Sanchez
 
