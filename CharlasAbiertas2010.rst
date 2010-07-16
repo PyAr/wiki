@@ -3,6 +3,8 @@ Python Argentina y Colectivo La Tribu se enorgullecen en presentar el Ciclo 2010
 
 Distribuidas a lo largo de varios sábados del segundo semestre del año, cubren temas desde lo más principiante a temas muy avanzados, cerrando incluso con un taller.
 
+Por favor ayuden con la difusión! Si quieren pueden imprimir [[attachment:CharlasAbiertasPythonLaTribu2010.pdf | este folleto ]] y pegarlo en vuestros lugares de trabajo y/o estudio.
+
 == Datos del evento ==
 Las charlas serán dadas en La Tribu, Lambaré 873.
 
