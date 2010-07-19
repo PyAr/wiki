@@ -2,6 +2,7 @@ Este es el listado de gente que viajará a [[http://ar.pycon.org/2010/about/|PyC
 
 || '''Nombre''' ||
 || [[PatricioMolina]] ||
+|| Nicolás Giorgetti ||
 
 == Transporte ==
 
