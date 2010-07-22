@@ -11,9 +11,10 @@ Si estas cerca o tenes alguna relación con una universidad que no tiene el Tuto
 (3) Entregado a la unidad académica, esperando asignación de nro. catálogo.
 
 (4) Completo (incluir por favor el nro. de catálogo)
+
 ||Nombre del responsable ||Email ||Universidad[es] ||Estado ||
 ||Sebastián Bassi ||<<MailTo(PYTHON  sbassi AT EVIL gmailDOT com)>> ||Universidad Nacional de Quilmes ||(3) ||
-||Sebastián Bassi ||<<MailTo(PYTHON  sbassi AT EVIL gmail DOT com)>> ||UNNOBA ||(3) ||
+||Sebastián Bassi ||<<MailTo(PYTHON  sbassi AT EVIL gmail DOT com)>> ||UNNOBA ||(4) 005.13 ROS ||
 ||Martín Gaitán ||<<MailTo(PYTHON  gaitan AT EVIL gmail DOT com)>> ||Universidad Nacional de Córdoba ||(4) [[http://biblio.efn.unc.edu.ar/cgi-bin/koha/opac-detail.pl?biblionumber=8459|Ref. 8459]] ||
 ||Federico Vincenti ||<<MailTo(PYTHON  federicovincenti AT EVIL gmail DOT com)>> ||Universidad Católica de Santiago del Estero - Departamento Académico Rafaela ||(4) Tutorial de Python - Van Rossum, Guido. Nº 5.552  ||
 ||Marcos Alcazar ||<<MailTo(PYTHON  marcos.alcazar AT EVIL gmail DOT com)>> ||UTN - Facultad Regional Mendoza ||(4) Tutorial de Python. Nº 547 ||
