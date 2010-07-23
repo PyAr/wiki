@@ -248,6 +248,9 @@ Para construir aplicaciones web complejas en python se pueden usar alguno de los
  * [[http://moinmo.in/|MoinMoin]]: La Wiki hecha en Python (que es el que usamos actualmente en este nuestro sitio)
  * [[http://trac.edgewall.org|Trac]]: El sistema de gestión de proyectos hecho en python
 
+=== IDEs ===
+ * [[http://python.org.ar/pyar/IDEs|IDEs]]: Comparación de entornos de desarrollo
+
 == Python en la vida real ==
 === Performance/Estabilidad de Python, ¿se la banca? ===
 En ocasiones se pregunta a la lista si Python esta a la altura de las circunstancias, como se compara la velocidad/uso de memoria con VB, C, .NET, Java, etc. En la página RendimientoPythonVsJavaVsNet hay un resumen de los comentarios vertidos a la lista.
