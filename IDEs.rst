@@ -92,6 +92,12 @@ Es parte de la distribución de Python. Muy buen soporte del lenguaje, class bro
 
 [[http://www.python.org/idle/doc/idlemain.html]]
 
+=== PyCharm ===
+
+[[http://www.jetbrains.com/pycharm/index.html|PyCharm]] JetBrains PyCharm — es un Python IDE con un completo juego de herramientas para el desarrollo productivo con el lenguaje de programacion Python. Adicionalmente, el IDE provee capacidades de alto rango para desarrolladores profesionales de Web con el framework Django.
+[[http://www.jetbrains.com/pycharm/index.html]]
+
+
 
 == Editores de texto avanzados ==
 
