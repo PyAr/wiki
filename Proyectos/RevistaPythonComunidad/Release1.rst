@@ -37,3 +37,5 @@ Me despido sin otro motivo, atte,
  * Juan Rodriguez Monti
  * Claudio Freire
  * Fabian Gallina
+ * Tomas Zulberti
+ * Facundo Batista
