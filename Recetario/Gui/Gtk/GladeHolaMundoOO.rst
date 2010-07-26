@@ -5,9 +5,10 @@ ejemplo que carga la interfaz de un archivo .glade y lo muestra, el archivo .gla
 === gtk-glade-holamundo.glade ===
 
 copiar el contenido siguiente a un archivo llamado '''gtk-glade-holamundo.glade'''
-el archivo fue editado con glade-3 [[[http://glade.gnome.org/]]].
+el archivo fue editado con [[http://glade.gnome.org/|glade-3 ]].
 
 {{{
+#!code xml
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE glade-interface SYSTEM "glade-2.0.dtd">
 <!--Generated with glade3 3.4.2 on Sat May 10 01:13:03 2008 -->
@@ -31,7 +32,7 @@ el archivo fue editado con glade-3 [[[http://glade.gnome.org/]]].
 el codigo para el ejemplo es el siguiente
 
 {{{
-#!python
+#!code python
 import gtk
 import sys
 import gtk.glade
