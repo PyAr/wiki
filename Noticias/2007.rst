@@ -30,3 +30,10 @@
 
 ==== 23/04/2007 ====
  * Y así pasó [[http://pyweek.org/4/|PyWeek 4]]. Para no perder la costumbre ;) una vez más los grupos de Argentina que participaron salieron muy bien parados. Resultados, [[http://media.pyweek.org/static/pyweek4_ratings.html|acá]]. Bs. As. participó como [[http://www.pyweek.org/e/Pywiii/|Pywiii]], con ''Grossini's Hell'', y Córdoba como [[http://www.pyweek.org/e/pycor2/|PyCor 2.0]], con el juego homónimo, saliendo en 2^do^ y 5^to^ lugar, respectivamente. ¡Feliciataciones gente!
+
+
+== Anteriores ==
+
+ * [[Noticias/2006 |Año 2006]]
+ * [[Noticias/2005 |Año 2005]]
+ * [[Noticias/2004 |Año 2004]]
