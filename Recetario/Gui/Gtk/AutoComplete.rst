@@ -3,7 +3,7 @@
 ejemplo de campo de texto con auto complesion
 
 {{{
-#!python
+#!code python
 import gtk
 
 class Complete(gtk.Entry):
