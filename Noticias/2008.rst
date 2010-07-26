@@ -60,3 +60,11 @@
 
 ==== 14/02/2008 ====
  * Del viernes 15 al lunes 18 de febrero de 2008 en Los Cocos, provincia de Córdoba se lleva a cabo el primer [[http://except.com.ar/cgi-bin/pycamp/|PyCamp]], un campamento para pitoneros de la región. Esta organizado por [[http://except.com.ar/|Except]].
+
+
+== Anteriores ==
+
+ * [[Noticias/2007 |Año 2007]]
+ * [[Noticias/2006 |Año 2006]]
+ * [[Noticias/2005 |Año 2005]]
+ * [[Noticias/2004 |Año 2004]]
