@@ -35,6 +35,8 @@ Recién horneado, ya tenemos la última versión grande de la serie de Python 2:
 Más info [[http://python.org/download/releases/2.7/| aquí]]. El documento con qué hay nuevo [[http://docs.python.org/dev/whatsnew/2.7.html|es este]]
   
 
+## ULTIMAS_END
+
 ==== 02/05/2010 ====
 
 Está abierta la inscripción para participar de '''PyDay Rafaela 2010''', la
@@ -149,7 +151,7 @@ Más info, aquí http://ar.pycon.org/2009/conference/proposals/
 ==== 10/02/2009 ====
  * Se darán dos charlas en la ACP: [[http://www.clubdeprogramadores.com/cursos/CursoMuestra.php?Id=485|Factura Electrónica, Python y Software Libre (21/02/2009 de 15 a 18hs)]] e [[http://www.clubdeprogramadores.com/cursos/CursoMuestra.php?Id=486|Introducción a Python (26/02/2009 de 18.30 a 21.30hs)]]. Lugar: Asociación Civil AUBA - Club de Programadores - Audiotorio Congreso (Ciudad de Buenos Aires). Entrada Libre y Gratuita (inscripción por los respectivos links).
 
-## ULTIMAS_END
+
 
 ==== 02/11/2008 ====
  * Vamos a participar de Fábrica de Fallas, el 1er festival de Cultura Libre y Copyleft, que tendrá lugar el 15 y 16 de noviembre de 14 a 21 hs en FM La Tribu, Lambaré 873, Ciudad de Buenos Aires. http://culturalibre.fmlatribu.com/
