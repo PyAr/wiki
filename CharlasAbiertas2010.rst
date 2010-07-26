@@ -77,9 +77,9 @@ No hace falta registrarse, pero vení temprano para asegurarte un lugar porque l
 
  * 10:30 a 12:30 horas
 
-'''Plone'''
+'''Introducción al uso y desarrollo con Plone'''
 
-''(falta texto)''
+''Plone es un sistema de gestión de contenidos (CMS) que permite desarrollar sitios e intranets con funcionalidades muy complejas y personalizadas en muy poco tiempo. En esta charla se presentarán los conceptos escenciales para su uso y la filosofía central del desarrollo centrado en Plone.''
 
  * Disertante: Roberto Allende
 
