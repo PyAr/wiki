@@ -1,0 +1,6 @@
+==== 20/12/2004 ====
+ * PyAr aparece en la lista de Python Interest Groups de Python.org ([[Noticias/ListadoDePIGs|noticia completa]]).
+
+==== 25/11/2004 ====
+ * La última versión de Python [[Noticias/Python24|ya está en la calle]].
+ * Ya está disponible el [[Noticias/AritmeticaDecimal|módulo decimal para Python 2.3]].
