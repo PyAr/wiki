@@ -43,6 +43,8 @@ GtkButton : ejemplo que muestra como crear botones de diversas maneras
 
 GtkButtonBox : ejemplo que muestra como crear botones y agruparlos en un contenedor
 
+GtkAutoComplete : ejemplo que muestra como crear un campo de texto con auto complesion
+
 GtkDialog : ejemplo para crear dialogos modales
 
 GtkFileChooser : ejemplo que permite al usuario seleccionar un archivo
