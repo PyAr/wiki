@@ -1,0 +1,17 @@
+= 2005 =
+
+
+==== 07/07/2005 ====
+ * Última edición de [[Noticias/Inmersion54|Inmersión en Python]].
+
+==== 25/04/2005 ====
+ * NubIs nos muestra su script [[Noticias/FotoByMail|Foto by Mail]].
+
+==== 15/04/2005 ====
+ * LucioTorre nos da detalles sobre [[Proyectos/PythonPalm|Python para PalmOS]] (en inglés).
+
+==== 11/04/2005 ====
+ * Está disponible la minuta de la [[Eventos/Reuniones/Reunion07|Reunión 7]] y la agenda que intentamos seguir en la próxima reunión ([[Eventos/Reuniones/Reunion08|Reunión 8]]).
+
+==== 19/01/2005 ====
+ * PyAr tiene su [[ListaDeCorreo|lista de correo]].
