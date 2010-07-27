@@ -133,3 +133,7 @@ SimpleXmlElement: ejemplo de manejo de xml por elementos simples (simil php), pe
 === Servidor Interfase C.O.M. ===
 
 /ServidorCom: Ejemplo de como exponer objetos python a otros lenguajes (VB, VFP, etc.) vía interfase COM
+
+== Python Internals ==
+
+LocalsDeUnaFuncionQueLanzoUnaExcepcion: ejemplo de como obtener las variables locales a la función que lanzo una excepion
