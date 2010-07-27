@@ -23,6 +23,12 @@ AutocomplecionEnConsolaInteractiva: tip sobre como agregar autocompleción con t
 === Normalizar caracteres Unicode ===
 Es bueno /NormalizarCaracteresUnicode para hacer búsquedas en strings sin que se tengan en cuenta los caracteres latinos, como los acentos y la eñe.
 
+== Frameworks Web ==
+
+=== Django ===
+
+TestFormularioConFileUpload :  un ejemplo de como probar un formulario que tiene un campo para subir un archivo
+
 == Interfaces graficas ==
 === Gtk ===
 GtkHolaMundo : una ventana que muestra el mensaje hola mundo
