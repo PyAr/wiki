@@ -12,7 +12,7 @@
 
 ||<style="padding: 1em 1em 1em 1em; background-color:#f0f8fd; text-align:justify;">''~+Nuestro objetivo es nuclear a los usuarios de [[http://python.org|Python]], de manera de centralizar la comunicación a nivel nacional. Pretendemos llegar a usuarios y empresas, promover el uso de Python, intercambiar información, compartir experiencias y en general, ser el marco de referencia local en el uso y difusión de esta tecnología.+~''||
 
-<<Widgets(usuario="pyconar")>>
+<<Twitter(usuario="pyconar")>>
 
 [[http://python.org.ar/pyar/CharlasAbiertas2010|{{attachment:banner_charlas_abiertas.png}}]]
 
