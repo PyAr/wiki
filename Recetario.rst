@@ -27,7 +27,7 @@ Es bueno /NormalizarCaracteresUnicode para hacer búsquedas en strings sin que s
 
 === Django ===
 
-TestFormularioConFileUpload :  un ejemplo de como probar un formulario que tiene un campo para subir un archivo
+[[Django/TestFormularioConFileUpload]] :  un ejemplo de como probar un formulario que tiene un campo para subir un archivo
 
 == Interfaces graficas ==
 === Gtk ===
