@@ -3,7 +3,7 @@
 un ejemplo de como probar un formulario que tiene un campo para subir un archivo 
 
 {{{
-#!python
+#!code python
 from django.test.client import Client
 from django.core.files.uploadedfile import SimpleUploadedFile
 
