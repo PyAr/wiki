@@ -10,6 +10,9 @@
 === Mejorando el interprete python ===
 AutocomplecionEnConsolaInteractiva: tip sobre como agregar autocompleción con tab en la consola interactiva imitando el comportamiento ipython.
 
+== Estructuras de datos ==
+=== IterarSobrePares ===
+Cómo [[IterarSobrePares]] de una secuencia.
 == Formatos, datos, números y conversiones ==
 === aLetras ===
 [[aLetras]] : Función que al recibir un número lo convierte a letras. Regresa su forma por extensión (ejemplo: 123 -> "CIENTO VEINTITRES")
