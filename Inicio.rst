@@ -49,5 +49,5 @@
 
 [[Noticias|Ver Noticias Antiguas]]
 ----
-¿Comentarios? ¿Sugerencias? Enviá un mail a <<MailTo(pyar_admin AT decode DOT com DOT ar)>>,
+¿Comentarios? ¿Sugerencias? Enviá un mail a <<MailTo(admin AT python DOT org DOT ar)>>,
 o escribinos directamente [[Sugerencias|aquí]]. ¡Muchas gracias! 
