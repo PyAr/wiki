@@ -1,6 +1,6 @@
 Hola mundo!
 
-<<Widgets(usuario="perrito666")>>
+<<Twitter(usuario="perrito666")>>
 
 ESto es texto puesto aproposito
 asñkdfjasdkfjhaskdjfas
