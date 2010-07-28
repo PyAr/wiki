@@ -21,4 +21,3 @@ http://www.joaclandia.com.ar
 == Mail ==
 
 <<MailTo(IDONTWANT soriasoft AT CRIPPY gmail SPAM DOT com)>>
-Hola Mundo!!
