@@ -15,7 +15,7 @@ Siempre se debe verificar la vigencia del CUIT en la página de la AFIP (Adminis
 ==== Ejemplos: ====
 
 {{{
-#!python
+#!code python
 >>> validar_cuit("00-00000000-0")
 True
 >>> validar_cuit("00-00000000-1")
@@ -25,7 +25,7 @@ False
 ==== Código: ====
 
 {{{
-#!python
+#!code python
 def validar_cuit(cuit):
     # validaciones mínimas
     if len(cuit) != 13 or cuit[2] != "-" or cuit[11]!= "-":
