@@ -22,6 +22,8 @@ http://www.joaclandia.com.ar
 
 <<MailTo(IDONTWANT soriasoft AT CRIPPY gmail SPAM DOT com)>>
 
+pepito-todo-es.un@ejemplo.com
+
 {{{
 #!code python
 
