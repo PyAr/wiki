@@ -12,7 +12,7 @@ Objetivo: Publicar los pedidos de búsqueda de colaboradores para proyectos en P
 
 '''URL:''' http://genesdigitales.com/inet2/wiki/pmwiki.php
 
-'''Contacto:''' sbassi@gmail.com
+'''Contacto:''' <<MailTo(sbassi EN gmail PUNTO com)>>
 
 ----
 === Plantilla ===
