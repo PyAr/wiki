@@ -8,7 +8,7 @@ ejemplo para crear dialogos modales de distintos tipos con distintos botones
 {{attachment:dialog4.png}}
 
 {{{
-#!python
+#!code python
 import gtk
 import sys 
 
