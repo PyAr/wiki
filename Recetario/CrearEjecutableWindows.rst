@@ -19,7 +19,7 @@ Ver adjuntos:
 
 Como ejemplo tomamos una aplicación simple ''hola.py'':
 {{{
-#!python
+#!code python
 # -*- coding: iso-8859-1 -*-
 
 print "hola mundo"
@@ -31,7 +31,7 @@ Py2Exe empaqueta los archivos necesarios para ejecutar la aplicación sin necesi
 
 Para crear el ejecutable es necesario crear un script de setup que extiende las utilidades de distribución de python (DistUtils), ''setup.py'':
 {{{
-#!python
+#!code python
 from distutils.core import setup
 import py2exe
 
