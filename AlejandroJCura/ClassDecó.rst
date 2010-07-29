@@ -1,7 +1,7 @@
 = Un ejemplo de class decorators (python 3) =
 
 {{{
-#!python
+#!code python
 
 class LimitExceededException(Exception):
     pass
