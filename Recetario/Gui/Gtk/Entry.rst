@@ -5,7 +5,7 @@ crea una ventana con un label y un campo de texto y muestra el mensaje hola '''n
 {{attachment:Entry.png}}
 
 {{{
-#!python
+#!code python
 import gtk
 import sys
 
