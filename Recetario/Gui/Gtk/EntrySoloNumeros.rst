@@ -5,7 +5,7 @@ Este ejemplo muestra como permitir el ingreso de solo números en un gtk.Entry, 
 {{attachment:Only numbers.png}}
 
 {{{
-#!python
+#!code python
 '''ejemplo sobre solo dejar ingresar numeros en un campo de text
 tambien sirve para cadenas de texto pegadas en el entry con ctrl-v
 '''
