@@ -12,7 +12,7 @@ Utiliza [[http://dbfpy.sourceforge.net/|DbfPy]]. Para instalar la libreria, baja
 
 Ejemplo original traducido y ajustado:
 {{{
-#!python
+#!code python
 # -*- coding: iso-8859-1 -*-
 
 from dbfpy.dbf import Dbf, DbfRecord
