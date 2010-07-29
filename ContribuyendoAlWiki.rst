@@ -2,7 +2,7 @@
 
 Nuestra intención es hacer el wiki lo mas abierto posible, para editar la mayoria de las páginas, es necesario ser un usuario registrado (al wiki y a la lista) y pertenecer al ReadWriteGroup, sin embargo, algunas páginas, como [[http://www.python.com.ar/moin/Eventos/Conferencias/PyCon2006|PyCon2006]] o [[http://www.python.com.ar/moin/eventos/reuniones/ProximaReunion|ProximaReunion]] son editables para cualquiera.
 
-Para formar parte del ReadWriteGroup solo tenés que enviar un mail a la lista diciendo algo como: "Hola gente, soy '''''<tu nombre>''''' quiero editar '''''<lo que querés editar>''''', porque '''''<el motivo de la edición>'''''. Mi nombre de usuario en el wiki es '''''<usuario>'''''". Si creés que tu aporte al wiki no justifica un email a la lista entera, podés optar por pedir el permiso a la lista de administración (admin@python.com.ar).
+Para formar parte del ReadWriteGroup solo tenés que enviar un mail a la lista diciendo algo como: "Hola gente, soy '''''<tu nombre>''''' quiero editar '''''<lo que querés editar>''''', porque '''''<el motivo de la edición>'''''. Mi nombre de usuario en el wiki es '''''<usuario>'''''". Si creés que tu aporte al wiki no justifica un email a la lista entera, podés optar por pedir el permiso a la lista de administración (<<MailTo(admin EN python PUNTO com PUNTO ar)>>).
 
 En cuanto al contenido, damos los siguientes consejos:
  * El texto tiene que ser parseable por un ser humano con sexto grado aprobado.
