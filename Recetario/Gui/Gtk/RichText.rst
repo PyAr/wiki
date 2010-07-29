@@ -3,7 +3,7 @@
 Ejemplo sobre como mostrar texto con formato en un gtk.TextView, se crea una clase que extiende gtk.TextBuffer para facilitar la inserción de texto con formato.
 
 {{{
-#!python
+#!code python
 '''a module that contains a class to insert rich text into a textview'''
 
 import gtk
