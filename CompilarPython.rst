@@ -69,14 +69,14 @@ svn co http://svn.python.org/projects/python/branches/py3k py3k
 cd py3k
 }}}
 
-Configuramos y armamos el paquete (incluyendo compilación):
+Configuramos y armamos el paquete:
 {{{
 ./configure --prefix=$HOME
 cat << EOF > description-pak
 Python 3.x provisional test package
 EOF
 checkinstall -y --pkgname=py3k --pkglicense=PL \
-             <<MailTo( GUION  GUION maintainer=reingart EN gmail PUNTO com)>> \
+             --maintainer=reingart@gmail.com \
              --requires= \
              --provides=py3k --pkgrelease=1 \
              --pkgsource=http://www.python.org/download/ \
