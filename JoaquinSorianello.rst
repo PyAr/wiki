@@ -23,7 +23,7 @@ http://www.joaclandia.com.ar
 <<MailTo(IDONTWANT soriasoft AT CRIPPY gmail SPAM DOT com)>>
 
 {{{
-#!python
+#!code python
 
 import this
 
