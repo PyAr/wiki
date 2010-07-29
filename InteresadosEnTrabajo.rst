@@ -19,13 +19,13 @@ Si usted se inscribe acá probablemente reciba emails contactándolo.
 ||RenzoCarbonara ||                        ||                        ||Cap. Federal, E. Rios o freelance ||
 ||WalterAlini ||Sí ||No ||Córdoba, trabajo remotamente ||
 ||[[http://www.estebanfeldman.com/|EstebanFeldman]] ||Sí ||No ||                        ||
-||[[mailto:ekuber@gmail.com/|EstebanKüber]] ||                        ||                        ||Capital Federal ||
+||[[mailto:<<MailTo(ekuber EN gmail PUNTO com)>>/|EstebanKüber]] ||                        ||                        ||Capital Federal ||
 ||PabloZiliani ||                        ||                        ||                        ||
 ||[[http://www.l2radamanthys.com.ar|RicardoD.Quiroga]] ||                        ||                        ||                        ||
 ||[[http://www.pguridi.com|Pedro Guridi]] ||                        ||                        ||Capital Federal, trabajo remotamente. ||
 ||Pablo Lerner ||Sí ||                        ||Capital Federal ||
 ||AlbertoPaparelli ||                        ||                        ||Capital Federal, GBA Zona Sur ||
 ||MartinAlderete ||Sí ||No ||Trabajo remotamente ||
-||[[mailto:chinomng@gmail.com/|MarianoGalan]] ||Sí ||No ||Santa Fe, trabajo remotamente ||
-||[[mailto:canicue@gmail.com/|canicue]] ||Sí ||No ||Mar del Plata,trabajo remotamente ||
+||[[mailto:<<MailTo(chinomng EN gmail PUNTO com)>>/|MarianoGalan]] ||Sí ||No ||Santa Fe, trabajo remotamente ||
+||[[mailto:<<MailTo(canicue EN gmail PUNTO com)>>/|canicue]] ||Sí ||No ||Mar del Plata,trabajo remotamente ||
 ||EzequielMarquez ||                        ||                        ||S.M. de Tucumán, trabajo remotamente ||
