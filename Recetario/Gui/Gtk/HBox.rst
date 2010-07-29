@@ -5,7 +5,7 @@ ejemplo que muestra el uso de hbox (cajas horizontales) para ordenar elementos d
 {{attachment:hbox.png}}
 
 {{{
-#!python
+#!code python
 import gtk
 import sys
 
