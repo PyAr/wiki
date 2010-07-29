@@ -20,7 +20,7 @@ descripcion de mi snippet
 dudas, observaciones sobre el codigo
 
 {{{
-#!python
+#!code python
 codigo aca
 } }}
 }}}
