@@ -14,7 +14,7 @@ Este ejemplo esta harcodeado, en la vida real habría que abstraerlo en alguna e
 ==== Ejemplo: ====
 
 {{{
-#!python
+#!code python
 # -*- coding: iso-8859-1 -*-
 
 import os
