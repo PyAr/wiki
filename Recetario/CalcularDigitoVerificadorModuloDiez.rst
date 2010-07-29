@@ -11,7 +11,7 @@ Para más información, ver [[http://www.afip.gov.ar/afip/resol170204.html|Resol
 ==== Ejemplo: ====
 
 {{{
-#!python
+#!code python
 >>> digito_verificador_modulo10("01234567890")
 '5'
 >>> digito_verificador_modulo10('111111111112233334444444444444455555555')
@@ -23,7 +23,7 @@ Para más información, ver [[http://www.afip.gov.ar/afip/resol170204.html|Resol
 ==== Código: ====
 
 {{{
-#!python
+#!code python
 def digito_verificador_modulo10(codigo):
     "Rutina para el cálculo del dígito verificador 'módulo 10'"
     # Ver RG 1702 AFIP
