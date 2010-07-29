@@ -5,7 +5,7 @@ ejemplo que hace lo mismo que GtkHolaMundo pero orientado a objetos
 {{attachment:Hola mundo oo.png}}
 
 {{{
-#!python
+#!code python
 import gtk
 import sys
 
