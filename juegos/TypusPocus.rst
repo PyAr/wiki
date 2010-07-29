@@ -40,4 +40,4 @@ Para esto tenes que ir tipeando un hechizo que aparece en pantalla.
 Otros miembros de PyAr, desde córdoba caapiiital, participaron en [[http://www.pyweek.org/3/|PyWeek 3]] como [[http://www.pyweek.org/e/pycor/|PyCor]].
 Aqui esta la lista de todos los [[http://www.pyweek.org/3/entries|otros competidores]] de esta edicion del concurso.
 
-Comentarios? Dudas? alecu@vortech.com.ar
+Comentarios? Dudas? <<MailTo(alecu EN vortech PUNTO com PUNTO ar)>>
