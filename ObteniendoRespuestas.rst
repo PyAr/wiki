@@ -288,4 +288,4 @@ Que tus soluciones sean rechazadas por la persona que realiza la pregunta es fru
 
 '''Nota para las listas de correo:''' a diferencia de los medios efímeros como IRC, las listas de correo tipicamente son archivadas y se puede buscar en ellas. Cuando encuentras una solución, posteala! De esa manera, cuando olvides cómo habías hecho esto meses después y busques en la lista por una respuesta, podrás ver como lo habías resuelto antes.
 
-Preguntas, comentarios, u otro feedback? Envía un e-mail al [[mailto:mike@mikeash.com|autor]].
+Preguntas, comentarios, u otro feedback? Envía un e-mail al [[mailto:<<MailTo(mike EN mikeash PUNTO com)>>|autor]].
