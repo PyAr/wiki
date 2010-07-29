@@ -3,16 +3,16 @@ La idea de este proyecto es armar y dictar charlas sobre Python  en colegios sec
 
 == Quiero participar ==
  Si quieras participar anótate en la lista
-  "Recordad que para poder modificar la wiki y poder anotarse hay que pedir permiso a admin@python.com.ar "
+  "Recordad que para poder modificar la wiki y poder anotarse hay que pedir permiso a <<MailTo(admin EN python PUNTO com PUNTO ar)>> "
 
 == Lista de participantes ==
 ||Nombre ||Contacto ||Ciudad ||
-||Arturo Elias Antón || arturoeanton@gmail.com || Bs.As. Cap Fed ||
-||Nicolás Pace || nicopace@gmail.com || Bahía Blanca ||
+||Arturo Elias Antón || <<MailTo(arturoeanton EN gmail PUNTO com)>> || Bs.As. Cap Fed ||
+||Nicolás Pace || <<MailTo(nicopace EN gmail PUNTO com)>> || Bahía Blanca ||
 ||Gabriel Brunacci || gbrunacci ashoba gmail poonto com || Bs.As. Cap Fed ||
-||Javier Castrillo || riverplatense@gmail.com || Carapachay ||
+||Javier Castrillo || <<MailTo(riverplatense EN gmail PUNTO com)>> || Carapachay ||
 ||Matias Gieco || matigro acávaelarroba gmail acávaelpunto com || Paraná, Entre Ríos ||
-||[[MarianoReingart|Mariano Reingart]] || mariano@nsis.com.ar|| Bs.As. Hurlingham ||
+||[[MarianoReingart|Mariano Reingart]] || <<MailTo(mariano EN nsis PUNTO com PUNTO ar)>>|| Bs.As. Hurlingham ||
 
 
 == Lista de tareas ==
