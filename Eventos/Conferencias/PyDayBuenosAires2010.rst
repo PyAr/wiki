@@ -13,6 +13,6 @@
 == Organización ==
 
  * Sitio web: http://groups.google.com/group/pyday-baires
- * Lista de correo: pyday-baires@googlegroups.com
+ * Lista de correo: <<MailTo(pyday GUION baires EN googlegroups PUNTO com)>>
  * Reuniones:
   * [[Eventos/Reuniones/Reunion42|Reunión 42]]: Presentación de la propuesta
