@@ -70,7 +70,7 @@ En este evento nos juntaremos desarrolladores y programadores tanto principiante
 
 Agradecemos la contribución de todos en la difusión de este llamado y del evento en si mediante los banners diseñados para tal fin y que se encuentran en http://ar.pycon.org/2009/helping/publicize/
 
-Las charlas deben ser ingresadas para su aprobación aquí http://ar.pycon.org/2009/conference/proposals/submit/.  La fecha límite de envío de charlas es el --(Lunes 29 de Junio)-- '''Lunes 6 de Julio''' inclusive.  En caso de consultas o inconvenientes, envianos un mail charlas@python.org.ar.
+Las charlas deben ser ingresadas para su aprobación aquí http://ar.pycon.org/2009/conference/proposals/submit/.  La fecha límite de envío de charlas es el --(Lunes 29 de Junio)-- '''Lunes 6 de Julio''' inclusive.  En caso de consultas o inconvenientes, envianos un mail <<MailTo(charlas EN python PUNTO org PUNTO ar)>>.
 
 Más info, aquí http://ar.pycon.org/2009/conference/proposals/
 
