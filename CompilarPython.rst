@@ -76,7 +76,7 @@ cat << EOF > description-pak
 Python 3.x provisional test package
 EOF
 checkinstall -y --pkgname=py3k --pkglicense=PL \
-             --maintainer=reingart@gmail.com \
+             <<MailTo( GUION  GUION maintainer=reingart EN gmail PUNTO com)>> \
              --requires= \
              --provides=py3k --pkgrelease=1 \
              --pkgsource=http://www.python.org/download/ \
