@@ -12,7 +12,7 @@ Utiliza SimpleXmlElement y SimpleSoapClient, manejando de manera simple el proto
 
 Ver: http://www.mininterior.gov.ar/servicios/wsferiados.asp
 {{{
-#!python
+#!code python
     # Demo & Test: Feriados (Ministerio del Interior):
     from datetime import datetime, timedelta
     client = SoapClient(
