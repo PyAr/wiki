@@ -3,7 +3,7 @@
 este ejemplo muestra como levantar un servidor http en python que sirva el contenido del directorio actual.
 
 {{{
-#!python
+#!code python
 import SimpleHTTPServer
 SimpleHTTPServer.test()
 }}}
