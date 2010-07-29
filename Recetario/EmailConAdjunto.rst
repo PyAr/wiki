@@ -15,9 +15,9 @@ from smtplib import SMTP
 
 msg = MIMEMultipart()
 msg['Subject'] = 'Esto es una prueba'
-msg['From'] = 'yo@example.com'
-msg['Reply-to'] = 'responder-aca@example.com'
-msg['To'] = 'vos@example.com'
+msg['From'] = <<MailTo('yo EN example PUNTO com)>>'
+msg['Reply-to'] = <<MailTo('responder GUION aca EN example PUNTO com)>>'
+msg['To'] = <<MailTo('vos EN example PUNTO com)>>'
 
 # Esto es lo que se ve si uno no tiene un lector de mails como la gente:
 msg.preamble = 'Mensaje de multiples partes.\n'
@@ -37,7 +37,7 @@ msg.attach(part)
 smtp = SMTP("smtp.example.com")
 # Iniciar sesión en el servidor (si es necesario):
 smtp.ehlo()
-smtp.login("yo@example.com", "mipassword")
+smtp.login("<<MailTo(yo EN example PUNTO com)>>", "mipassword")
 
 # Enviar el mail (o los mails)
 smtp.sendmail(msg['From'], msg['To'], msg.as_string())}}}
