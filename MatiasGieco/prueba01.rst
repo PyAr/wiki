@@ -1,4 +1,4 @@
 {{{
-#!python
+#!code python
 print "hola mundo"
 }}}
