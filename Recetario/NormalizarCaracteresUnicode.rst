@@ -19,7 +19,7 @@ normales a las que podemos llevar un texto. Entonces podemos lograr la
 transformación que queremos haciendo una normalización. Los caracteres
 se descomponen, ignorando la parte que no es ASCII:
 
-{{{#!python
+{{{#!code python
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
