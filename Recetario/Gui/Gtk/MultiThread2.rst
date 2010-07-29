@@ -2,7 +2,7 @@ Otro ejemplo del uso de threads con gtk, compare con el [[GtkMultiThread|otro ej
 
 
 {{{
-#!python
+#!code python
 import time
 import random
 import threading
