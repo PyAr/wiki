@@ -1,6 +1,6 @@
 = Decodificar entities de HTML =
 
-{{{#!python
+{{{#!code python
 import re
 import htmlentitydefs
 
