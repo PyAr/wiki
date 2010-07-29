@@ -22,7 +22,7 @@ http://www.joaclandia.com.ar
 
 <<MailTo(IDONTWANT soriasoft AT CRIPPY gmail SPAM DOT com)>>
 
-pepito-todo-es.un@ejemplo.com
+<<MailTo(pepito DASH todo DASH es PUNTO un EN ejemplo PUNTO com)>>
 
 {{{
 #!code python
