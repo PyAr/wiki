@@ -69,7 +69,7 @@ PyDay Buenos Aires
  * Surgió cuando la idea cuando estábamos volviendo del PyDay Raf. La idea es hacerla la primer semana de Septiembre, y de ser posible hacer 3 tracks: Básico, Talleres, Abierto (cosas de la comunidad: postgres, ubuntu) y avanzado.
  * Se tiene un lugar, el Club de los Programadores en donde entran 60 personas en el aula mas grande. Tiene todo preparado también para los talleres. Hay que ver si se puede conseguir un lugar mas grande
  * También surgió la idea de hacer un librito con diferentes tutoriales. Por ejemplo, meter el tutorial de django, web2py, wxPython, easy_install/virtualenv. Sin embargo, las hojas machete salen mucho mas barato, y la gente se los lleva.
- * Falta conseguir sponsors. Tiene una lista de mails: pyday-baires@googlegroups.com
+ * Falta conseguir sponsors. Tiene una lista de mails: <<MailTo(pyday GUION baires EN googlegroups PUNTO com)>>
 
 I18n Exceptions:
  * La idea es internacionalizar los mensajes de excepciones que usa Python.
