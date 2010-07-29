@@ -17,7 +17,7 @@ El ejemplo en Python (miservidorcom.py) registra un objeto python MiMiniInterpre
 
 Archivo miservidorcom.py
 {{{
-#!python
+#!code python
 # -*- coding: iso-8859-1 -*-
 
 import sys
@@ -102,7 +102,7 @@ MESSAGEBOX(resultado, 0)
 Para generar una DLL o EXE y poder distribuir el servidor com sin necesidad de tener instalado Python, usar Py2Exe con el siguiente script de directivas de instalación (ver [[Recetario/CrearEjecutableWindows|CrearEjecutableWindows]]):
 
 {{{
-#!python
+#!code python
 from distutils.core import setup
 import py2exe
 
