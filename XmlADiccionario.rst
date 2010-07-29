@@ -5,7 +5,7 @@ En este ejemplo se muestra como convertir un string a una estructura de dicciona
 primero el codigo
 
 {{{
-#!python
+#!code python
 import xml.parsers.expat
 
 class XmlParser(object):
@@ -128,7 +128,7 @@ Simplemente creamos un objeto de tipo XmlParser pasandole el string y obtenemos 
 Si no queremos andar preguntado si las llaves existen antes de accederlas para evitar excepciones podemos usar la clase DictObj que nos permite acceder a las llaves como si fueran atributos, las variables que no existan como llaves contendran None. Aca va un ejemplo en la consola interactiva
 
 {{{
-#!python
+#!code python
 >>> import XmlParser
 >>> p = XmlParser.XmlParser('<span><a href="google.com">go<s>o</s>gle</a> <i>test</i> <img src="foo.png" alt="foo"/> <u>!</u><s>!</s></span>')
 >>> r = p.result
