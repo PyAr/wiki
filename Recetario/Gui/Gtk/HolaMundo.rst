@@ -5,7 +5,7 @@ Crea y muestra una ventana que muestra el famoso mensaje hola mundo.
 {{attachment:Hola mundo.png}}
 
 {{{
-#!python
+#!code python
 import gtk
 import sys
 
