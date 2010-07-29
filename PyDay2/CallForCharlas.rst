@@ -2,7 +2,7 @@ PyAR (Python Argentina) se encuentra en la organización del 2do Python Day en C
 Convocamos a aquellos interesados en participar del mismo en calidad de
 disertantes a presentar sus charlas.
 
-Donde enviarlas: charlas-pyday@python.com.ar
+Donde enviarlas: <<MailTo(charlas GUION pyday EN python PUNTO com PUNTO ar)>>
 
 Las mismas deben contener:
 
