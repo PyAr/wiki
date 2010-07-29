@@ -9,7 +9,7 @@ Los emails pueden tener texto plano, HTML y archivos adjuntos (todos opcionales)
 '''Archivo:''' !GmailMail.py
 
 {{{
-#!python
+#!code python
 #!/usr/bin/env python
 
 # requires Python >= 2.5
@@ -134,7 +134,7 @@ class GmailMail():
 '''Archivo:''' !GmailMail_tests.py
 
 {{{
-#!python
+#!code python
 # -*- coding: utf-8 -*-
 
 from GmailMail import GmailMail
