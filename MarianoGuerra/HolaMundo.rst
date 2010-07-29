@@ -1,6 +1,6 @@
 == MarianoGuerra/HolaMundo ==
 
 {{{
-#!python
+#!code python
 print "hola mundo!"
 }}}
