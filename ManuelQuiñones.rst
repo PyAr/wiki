@@ -1,7 +1,7 @@
 ##master-page:HomepageTemplate
 #format wiki
 == manuel quiñones - manuq ==
-<<MailTo(manuel.por.aca@gmail.com)>>
+<<MailTo(<<MailTo(manuel PUNTO por PUNTO aca EN gmail PUNTO com)>>)>>
 
 ¡informático y pythonista con orgullo!
 
