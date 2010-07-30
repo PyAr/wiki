@@ -107,7 +107,8 @@ construcción GUI para crear aplicaciones de escritorio multiplataforma
 (simil Visual Basic).
 PythonCard usa wxPython y veremos las características básicas de este
 potente toolkit gráfico, incluyendo el diseño "visual" de interfaces 
-"modernas" con wxGlade, entre otros ejemplos.''
+"modernas" con wxGlade y una intro sobre buenas prácticas con wx 
+-como separar una aplicación en capas (MVC)-, entre otros ejemplos.''
 
  * Disertante: Mariano Reingart
 
