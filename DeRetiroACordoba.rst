@@ -9,7 +9,8 @@ Este es el listado de gente que viajará a [[http://ar.pycon.org/2010/about/|PyC
 === Avión ===
 
 || '''Nombre''' |||| Horarios |||| '''Precio''' ||
-|| LAN |||| [[http://www.lan.com/cgi-bin/compra/paso2.cgi?fecha1_dia=14&fecha1_anomes=2010-10&fecha2_dia=17&fecha2_anomes=2010-10&otras_ciudades=&num_segmentos_interfaz=2&tipo_paso1=caja&from_city2=COR&to_city2=BUE&rand_check=3089.088685810566&from_city1=BUE&ida_vuelta=ida_vuelta&to_city1=COR&vuelos_fecha_salida=14/OCT/2010&vuelos_fecha_salida_ddmmaaaa=14/10/2010&vuelos_fecha_regreso=17/OCT/2010&vuelos_fecha_regreso_ddmmaaaa=17/10/2010&cabina=Y&flex=1&nadults=1&nchildren=0&ninfants=0|Días y horarios flexibles]] |||| $435 ($533.16 incluendo tasa)||
+|| LAN |||| [[http://www.lan.com/cgi-bin/compra/paso2.cgi?fecha1_dia=14&fecha1_anomes=2010-10&fecha2_dia=17&fecha2_anomes=2010-10&otras_ciudades=&num_segmentos_interfaz=2&tipo_paso1=caja&from_city2=COR&to_city2=BUE&rand_check=3089.088685810566&from_city1=BUE&ida_vuelta=ida_vuelta&to_city1=COR&vuelos_fecha_salida=14/OCT/2010&vuelos_fecha_salida_ddmmaaaa=14/10/2010&vuelos_fecha_regreso=17/OCT/2010&vuelos_fecha_regreso_ddmmaaaa=17/10/2010&cabina=Y&flex=1&nadults=1&nchildren=0&ninfants=0|Días y horarios flexibles]] |||| $435 ($533.16 incluyendo impuestos y tasas)||
+|| Aerolíneas Argentinas |||| [[http://www.despegar.com.ar/search/flights/RoundTrip/BUE/COR/2010-10-15/2010-10-17/1/0/0|Días y horarios flexibles]] |||| $435 ($534 incluyendo impuestos y tasas)||
 
 === Bus ===
 
@@ -36,4 +37,4 @@ Este es el listado de gente que viajará a [[http://ar.pycon.org/2010/about/|PyC
 ~-Nota: Los horarios, en general, no varían-~
 
 ==== Comentarios ====
- * Varias veces viajé con estas empresas salvo Sierras de Córdoba (voy seguido a Rosario y Santa Fe) y la mejor, en mi humilde opinión, es '''El Turista'''. Le siguen '''General Urquiza''' y '''Plus Ultra''' [[PatricioMolina]]
+ * Varias veces viajé con estas empresas salvo Sierras de Córdoba (voy seguido a Rosario y Santa Fe) y la mejor, en mi humilde opinión, es '''El Turista'''. Le siguen '''General Urquiza''' y '''Plus Ultra'''. [[PatricioMolina]]
