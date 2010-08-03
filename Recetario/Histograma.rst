@@ -7,7 +7,8 @@ Para mas información, revisar:
   * [[http://matplotlib.sourceforge.net/|Matplotlib]]
   * [[http://matplotlib.sourceforge.net/api/pyplot_api.html?highlight=hist#matplotlib.pyplot.hist|Documentación de hist]]
 
-{{{#!code python
+{{{
+#!code pycon
 >>> from matplotlib.pylab import hist, show
 >>> plata = []
 >>> a = plata.extend
