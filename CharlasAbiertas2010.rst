@@ -35,7 +35,7 @@ No hace falta registrarse, pero vení temprano para asegurarte un lugar porque l
 
  * 10:30 a 15 horas, con un break de 30' en el medio
 
- * Presentación: Las partes de [[attachment:intropython.odp|Facundo]], Tomás (pendiente) y Diego (pendiente).
+ * Presentación: Las partes de [[attachment:intropython.odp|Facundo]], Tomás (pendiente) y Diego [[Histograma]].
 
 === Día 3: Sábado 21 de Agosto ===
 '''Introducción al Desarrollo Web I'''
