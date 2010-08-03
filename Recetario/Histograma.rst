@@ -1,3 +1,4 @@
+## page was renamed from Histograma
 = Cómo generar un histograma =
 
 Ejemplo super sencillo mostrado en la Tribu el 31/JUL/2010 sobre cómo usar matplotlib desde la consola.
