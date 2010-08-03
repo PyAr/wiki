@@ -3,7 +3,7 @@ Python Argentina y Colectivo La Tribu se enorgullecen en presentar el Ciclo 2010
 
 Distribuidas a lo largo de varios sábados del segundo semestre del año, cubren temas desde lo más principiante a temas muy avanzados, cerrando incluso con un taller.
 
-Por favor ayuden con la difusión! Si quieren pueden imprimir [[attachment:CharlasAbiertasPythonLaTribu2010.pdf | este folleto ]] y pegarlo en vuestros lugares de trabajo y/o estudio.
+Por favor ayuden con la difusión! Si quieren pueden imprimir [[attachment:CharlasAbiertasPythonLaTribu2010.pdf|este folleto]] y pegarlo en vuestros lugares de trabajo y/o estudio.
 
 == Datos del evento ==
 Las charlas serán dadas en La Tribu, Lambaré 873.
@@ -11,7 +11,6 @@ Las charlas serán dadas en La Tribu, Lambaré 873.
 La entrada es libre y gratuita. Se pasará una gorra voluntaria durante los cursos para hacer frente a viáticos y gastos generales.
 
 No hace falta registrarse, pero vení temprano para asegurarte un lugar porque los cupos son limitados.
-
 
 == Cronograma ==
 === Día 1: Sábado 24 de Julio ===
@@ -25,7 +24,6 @@ No hace falta registrarse, pero vení temprano para asegurarte un lugar porque l
 
  * Presentación: [[attachment:introprogram.odp]] (y los ejemplos hechos durante la charla: [[attachment:codigo_introprog.tar.gz]])
 
-
 === Día 2: Sábado 31 de Julio ===
 '''Introducción a Python'''
 
@@ -35,7 +33,7 @@ No hace falta registrarse, pero vení temprano para asegurarte un lugar porque l
 
  * 10:30 a 15 horas, con un break de 30' en el medio
 
- * Presentación: Las partes de [[attachment:intropython.odp|Facundo]], Tomás (pendiente) y Diego [[Histograma]].
+ * Presentación: Las partes de [[attachment:intropython.odp|Facundo]], [[attachment:baterias.odp|Tomás]] y Diego [[Histograma]].
 
 === Día 3: Sábado 21 de Agosto ===
 '''Introducción al Desarrollo Web I'''
@@ -67,9 +65,9 @@ No hace falta registrarse, pero vení temprano para asegurarte un lugar porque l
 
 '''Django'''
 
-''Django es un framework para construir páginas web de una manera sencilla, facilitando las tareas comunes que esto implica y protegiéndonos de los ataques más conocidos en la web. La principal idea de Django es hacer que nuestro desarrollo sea placentero y poco repetitivo, brindándonos las herramientas básicas para resolver los problemas  que se frecuentan en el desarrollo web.
+''Django es un framework para construir páginas web de una manera sencilla, facilitando las tareas comunes que esto implica y protegiéndonos de los ataques más conocidos en la web. La principal idea de Django es hacer que nuestro desarrollo sea placentero y poco repetitivo, brindándonos las herramientas básicas para resolver los problemas  que se frecuentan en el desarrollo web. ''
 
-Esta charla está orientada a principiantes, con poco conocimiento en el desarrollo web y en Python. Iniciaremos con una introducción a los principales aspectos e iremos construyendo un sitio muy simple mostrando los conceptos antes mencionados.''
+''Esta charla está orientada a principiantes, con poco conocimiento en el desarrollo web y en Python. Iniciaremos con una introducción a los principales aspectos e iremos construyendo un sitio muy simple mostrando los conceptos antes mencionados.''
 
  * Disertante: Manuel Kaufmann
 
@@ -103,14 +101,7 @@ Esta charla está orientada a principiantes, con poco conocimiento en el desarro
 
 '''wxPython'''
 
-''Se presentará una introducción al desarrollo "visual" de aplicaciones
-de escritorio (GUI), usando PythonCard, un conjunto de herramientas de 
-construcción GUI para crear aplicaciones de escritorio multiplataforma 
-(simil Visual Basic).
-PythonCard usa wxPython y veremos las características básicas de este
-potente toolkit gráfico, incluyendo el diseño "visual" de interfaces 
-"modernas" con wxGlade y una intro sobre buenas prácticas con wx 
--como separar una aplicación en capas (MVC)-, entre otros ejemplos.''
+''Se presentará una introducción al desarrollo "visual" de aplicaciones de escritorio (GUI), usando PythonCard, un conjunto de herramientas de  construcción GUI para crear aplicaciones de escritorio multiplataforma  (simil Visual Basic). PythonCard usa wxPython y veremos las características básicas de este potente toolkit gráfico, incluyendo el diseño "visual" de interfaces  "modernas" con wxGlade y una intro sobre buenas prácticas con wx  -como separar una aplicación en capas (MVC)-, entre otros ejemplos.''
 
  * Disertante: Mariano Reingart
 
@@ -155,9 +146,9 @@ potente toolkit gráfico, incluyendo el diseño "visual" de interfaces
 === Día 9: Sábado 20 de Noviembre ===
 '''Taller de Programación de Juegos'''
 
-''Mostraremos cómo hacer juegos y actividades educativas sencillas, usando Python y la biblioteca PyGame.
+''Mostraremos cómo hacer juegos y actividades educativas sencillas, usando Python y la biblioteca PyGame. ''
 
-No es imprescindible, pero si tenés notebook traela!''
+''No es imprescindible, pero si tenés notebook traela!''
 
  * Disertantes: Alejandro J. Cura y Hector Sanchez
 
