@@ -140,4 +140,4 @@ LocalsDeUnaFuncionQueLanzoUnaExcepcion: ejemplo de como obtener las variables lo
 
 == Numpy, Scipy, Matplotlib ==
 
-[[Histograma]]: Ejemplo sencillo de uso de la función ''hist''
+[[/Histograma]]: Ejemplo sencillo de uso de la función ''hist''
