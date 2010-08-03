@@ -1,3 +1,4 @@
+## page was renamed from recetario/Histograma
 ## page was renamed from Histograma
 = Cómo generar un histograma =
 
