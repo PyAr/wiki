@@ -24,6 +24,9 @@ No hace falta registrarse, pero vení temprano para asegurarte un lugar porque l
 
  * Presentación: [[attachment:introprogram.odp]] (y los ejemplos hechos durante la charla: [[attachment:codigo_introprog.tar.gz]])
 
+<<Video(http://pyar.usla.org.ar/charlasabiertas2010/intro_programacion.ogg)>>
+
+
 === Día 2: Sábado 31 de Julio ===
 '''Introducción a Python'''
 
