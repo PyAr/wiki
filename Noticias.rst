@@ -27,7 +27,7 @@ Distribuidas a lo largo de varios sábados del segundo semestre del año, cubren
 
 Las charlas serán dadas en La Tribu, Lambaré 873. La entrada es libre y gratuita. Se pasará una gorra voluntaria durante los cursos para hacer frente a viáticos y gastos generales. No hace falta registrarse, pero vengan temprano para asegurarse un lugar porque los cupos son limitados.
 
-Acá hay [[http://python.org.ar/pyar/CharlasAbiertas2010 | más info]]
+Acá hay [[CharlasAbiertas2010 | más info]]
 
 ==== 03/07/2010 ====
 Recién horneado, ya tenemos la última versión grande de la serie de Python 2: Python 2.7 fue recién liberado.
