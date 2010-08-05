@@ -7,6 +7,8 @@ Incluye las últimas tecnologías de una forma simple y clara (javascript, ajax,
 
  * Sitio Oficial: http://www.web2py.com/
  * Sitio en Español: http://www.web2py.com.ar/
+ * Grupo de usuarios en español: http://groups.google.com/group/web2py-usuarios
+ * Documentación Principal (libro publicado en html de acceso gratuito): http://www.web2py.com/book
 
 == Como instalar y ejecutar Web2Py: ==
 
