@@ -31,6 +31,7 @@ Es bueno /NormalizarCaracteresUnicode para hacer búsquedas en strings sin que s
 === Django ===
 
 [[Django/TestFormularioConFileUpload]] :  un ejemplo de como probar un formulario que tiene un campo para subir un archivo
+[[Django/ObtenerClaseOriginalCuandoHayHerencia]] : Cuando usamos herencia de modelos, si `bar` y `baz` son subclases de `foo`, podemos hacer que `foo.objects.all()` devuelva instancias de `bar` o `baz` dependiendo de cómo creamos el objeto orignalmente.
 
 == Interfaces graficas ==
 === Gtk ===
