@@ -1,4 +1,4 @@
-=!Web2Py =
+= Web2Py =
 
 == Introducción ==
 
@@ -36,8 +36,14 @@ cd web2py
 python web2py.py
 }}}
 
-== Arranque ==
+== Recorrida ==
 
+A continuación mostraremos una breve recorrida sobre las características principales de web2py.
+
+'''Nota''': Los links solo funcionan si está web2py funcionando en la máquina local, puerto 8000 (configuración por defecto).
+
+
+=== Arranque ===
 Al ejecutar web2py nos mostrará la pantalla de bienvenida:
 
 {{attachment:bienvenida.png}}
@@ -46,13 +52,13 @@ Web2py trae incorporado un servidor web para desarrollo, para iniciarlo deberemo
 
 {{attachment:servidor.png}}
 
-== Bienvenida ==
+=== Bienvenida ===
 
 Al iniciar, web2py lanzará un explorador con la página de [[http://127.0.0.1:8000/welcome/default/index|bienvenida]] predeterminada:
 
 {{attachment:welcome.png}}
 
-== Interfaz Administrativa ==
+=== Interfaz Administrativa ===
 
 Allí podremos ver los ejemplos interactivos, documentación y lo más importante, empezar a crear y editar nuestras aplicaciones web, yendo a la  [[http://127.0.0.1:8000/admin/||interfaz administrativa]]:
 
@@ -69,3 +75,18 @@ Por ejemplos, podemos ingresar a la aplicación [[http://127.0.0.1:8000/admin/de
 Y allí, por ejemplo, podemos modificar el código fuente del controlador principal ([[http://127.0.0.1:8000/admin/default/edit/welcome/controllers/default.py|default.py]] presionando en el link edit (editar):
 
 {{attachment:admin-edit.png}}
+
+=== Administración de Base de datos ===
+
+Web2py viene con una controlador llamado AppAdmin que sirve para consultar, modificar e importar/exportar los datos de nuestra aplicación.
+Se ingresa por la interfaz administrativa, en el link [[http://127.0.0.1:8000/welcome/appadmin/|Database Administration]]:
+
+{{attachment:appadmin-index.png}}
+
+Allí podemos agregar un nuevo registro, por ejemplo en la tabla usuarios (insert new record):
+
+{{attachment:appadmin-insert.png}}
+
+Y también es posible realizar consultas y actualizaciones:
+
+{{attachment:appadmin-query.png}}
