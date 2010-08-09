@@ -2,7 +2,7 @@ Servidor XMLRPC dentro de un hilo gtk
 
 {{{
 #!code python
-from SimpleXMLRPCServera import SimpleXMLRPCServer
+from SimpleXMLRPCServer import SimpleXMLRPCServer
 import gtk
 import gobject
 import time
