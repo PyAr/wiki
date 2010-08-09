@@ -76,6 +76,8 @@ GtkPrintNonGtk : ejemplo sobre como usar el dialogo de impresion de gtk en aplic
 
 [[GtkLabelConColor]]: ejemplo de como cambiar el color de un label sin usar pango markup
 
+[[/GtkXMLRPCServer]] Servidor XMLRPC dentro de un hilo gtk 
+
 === Gtk + glade ===
 [[GtkGladeHolaMundoOO]] : una ventana que muestra el mensaje hola mundo programado utilizando orientacion a objetos
 
