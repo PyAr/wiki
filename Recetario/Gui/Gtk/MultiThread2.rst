@@ -13,36 +13,36 @@ import gtk.gdk
 
 texts = ['eggs', 'spam', 'pyar', 'gtk']
 
-class molesto(threading.thread):
+class molesto(threading.Thread):
     '''un thread que quiere molestar el main thread'''
 
     def __init__(self, label):
-        threading.thread.__init__(self)
-        self.setdaemon(true)
+        threading.Thread.__init__(self)
+        self.setDaemon(True)
         self.label = label
 
     def run(self):
         '''metodo principal del thread, duerme un tiempo aleatorio y despues
         cambia el Label'''
 
-        while true:
+        while True:
             time.sleep(random.random() * 5)
-            texto = self.getname() + ' ' + random.choice(texts)
+            texto = self.getName() + ' ' + random.choice(texts)
 
             gtk.gdk.threads_enter()
             # zona critica de gtk
-            print self.getname(), 'escribiendo', texto
+            print self.getName(), 'escribiendo', texto
             self.label.set_text(texto)
             gtk.gdk.threads_leave()
 
-class ventana(gtk.window):
+class ventana(gtk.Window):
     '''ventana con un label, ninguna locura'''
 
     def __init__(self):
-        gtk.window.__init__(self)
+        gtk.Window.__init__(self)
         self.set_default_size(640, 480)
         self.set_title('gtk con threads')
-        self.label = gtk.label('')
+        self.label = gtk.Label('')
         self.add(self.label)
         self.label.show()
 
@@ -54,4 +54,6 @@ if __name__ == '__main__':
     for thread in threads:
         thread.start()
     gtk.main()
+
+
 }}}
