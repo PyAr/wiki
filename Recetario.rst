@@ -83,6 +83,10 @@ GtkPrintNonGtk : ejemplo sobre como usar el dialogo de impresion de gtk en aplic
 
 GtkGladeSignals : manejo basico de señales
 
+=== Qt ===
+
+QtMultiThread : ejemplo de como manipular la api desde múltiples threads sin usar locks (con colas)
+
 === Pythoncard (wxPython) ===
 
 PythonCard: Ejemplo de como hacer una aplicación de escritorio desde 0 (para principiantes)
