@@ -26,6 +26,7 @@ Para definir cuando, [[http://www.doodle.com/anbnmdctxm7qkxgr|encuesta!]]
 ''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
 
  || Facundo Batista ||
+ || Pablo Mouzo ||
 
 
 ''' ¿Dónde? '''
