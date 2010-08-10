@@ -12,12 +12,13 @@
 
 == Reunión 43 - ¿día? ¿fecha? - En el bar de la esquina de Medrano y Guardia Vieja - 19hs ==
 
-Para definir cuando, encuesta! http://www.doodle.com/anbnmdctxm7qkxgr
+Para definir cuando, [[http://www.doodle.com/anbnmdctxm7qkxgr|encuesta!]]
 
 '''Temas:'''
 
  * PyDay Buenos Aires
  * PyCon 2010 Córdoba
+ * PyAr en las Jornadas del Sur
  * PET, la revista de PyAr
  * Ciclo de charlas en La Tribu
  * ¿Aceptación de micropagos/microdonaciones en PyAr?
