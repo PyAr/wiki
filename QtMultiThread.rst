@@ -8,6 +8,9 @@ ejemplo de como manipular la interfaz grafica desde multiples threads.
 #qt_multithread.py
 
 #Modificado de la version original de Mariano Guerra para GTK
+}}}
+{{{
+#Versión para Qt por Ernesto Savoretti
 
 from PyQt4 import QtCore, QtGui
 import time
@@ -42,7 +45,7 @@ class Ventana(QtGui.QWidget):
     '''ventana con un label, ninguna locura'''
 
     def __init__(self, parent = None):
-        QtGui.QWidget.__init__(self, None)
+        QtGui.QWidget.__init__(self, parent)
         self.setGeometry(50, 50, 640, 480)
         self.setWindowTitle('Qt con threads')
         layout = QtGui.QHBoxLayout()
