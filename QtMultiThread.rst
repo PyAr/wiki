@@ -8,8 +8,6 @@ ejemplo de como manipular la interfaz grafica desde multiples threads.
 #qt_multithread.py
 
 #Modificado de la version original de Mariano Guerra para GTK
-}}}
-{{{
 #Versión para Qt por Ernesto Savoretti
 
 from PyQt4 import QtCore, QtGui
