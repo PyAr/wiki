@@ -1,9 +1,7 @@
 = Qt Multi Thread =
-
 ejemplo de como manipular la interfaz grafica desde multiples threads.
 
-{{{
-#!code python
+{{{#!code python
 #!/usr/bin/env python
 # -*- coding utf-8 -*-
 
@@ -53,7 +51,7 @@ class Ventana(QtGui.QWidget):
         self.setLayout(layout)
         self.cola = Queue.Queue()
         self.hincha_b = Molesto(self.cola)
-        
+
         self.hincha_b.start()
 
         self.timer = QtCore.QTimer(self)
