@@ -3,11 +3,11 @@ ejemplo de como manipular la interfaz grafica desde multiples threads.
 
 {{{#!code python
 #!/usr/bin/env python
-# -*- coding utf-8 -*-
+# -*- coding: utf-8 -*-
 
 #qt_multithread.py
 
-#Modificado de la version original de Mariano Guerra para GTK ( http://python.org.ar/pyar/GtkMultiThread )
+#Modificado de la versión original de Mariano Guerra para GTK ( http://python.org.ar/pyar/GtkMultiThread )
 #Versión para Qt por Ernesto Savoretti
 
 from PyQt4 import QtCore, QtGui
