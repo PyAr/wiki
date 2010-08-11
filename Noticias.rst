@@ -19,6 +19,20 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 
+==== 11/08/2010 ====
+
+Está abierta la inscripción para participar de la jornada sobre el
+lenguaje de programación Python "PyDay Buenos Aires 2010" organizado
+por PyAr, a realizarse el día sábado 4 de Septiembre de 2010 en los
+Auditorios del Club de Programadores, Entre Ríos 166, Congreso, Ciudad
+Autónoma de Buenos Aires.
+
+Próximamente publicaremos el cronograma definitivo (ver [[http://www.web2py.com.ar/buenosaires2010/activity/accepted|charlas aceptadas]]), recomendamos
+[[http://www.web2py.com.ar/buenosaires2010/user/register|inscribirse]] para reservar su lugar ('''cupos limitados!''') 
+y revisar con frecuencia la pagina principal para recibir
+las últimas novedades:
+http://www.pyday.com.ar
+
 ==== 16/07/2010 ====
 
 Python Argentina y Colectivo La Tribu se enorgullecen en presentar el Ciclo 2010 de Charlas Abiertas de Python.
