@@ -1,1 +1,1 @@
-#redirect ManuelQuiñones/PruebaCal/Pycon2010
+#redirect ManuelQuiñones/PruebaCal/PyCon2010
