@@ -25,6 +25,8 @@
 
 Todavía no definimos el lugar
 
+MarianoGuerra propone: Alfonsina Belgrano 763. Tel: 460-2572 (Casa tomada). http://www.alfonsinaweb.com.ar/espacios.php
+
 
 == Reunión 43 - ¿día? ¿fecha? - En el bar de la esquina de Medrano y Guardia Vieja - 19hs ==
 
