@@ -22,11 +22,13 @@ Para definir cuando, [[http://www.doodle.com/anbnmdctxm7qkxgr|encuesta!]]
  * PET, la revista de PyAr
  * Ciclo de charlas en La Tribu
  * ¿Aceptación de micropagos/microdonaciones en PyAr?
+ * Cómo mostrar Python para reemplazar Matlab en las Universidades
  
 ''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
 
  || Facundo Batista ||
  || Pablo Mouzo ||
+ || Diego Mascialino ||
 
 
 ''' ¿Dónde? '''
