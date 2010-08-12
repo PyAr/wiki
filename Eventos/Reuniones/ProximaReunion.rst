@@ -29,6 +29,7 @@ Para definir cuando, [[http://www.doodle.com/anbnmdctxm7qkxgr|encuesta!]]
  || Facundo Batista ||
  || Pablo Mouzo ||
  || Diego Mascialino ||
+ || alecu ||
 
 
 ''' ¿Dónde? '''
