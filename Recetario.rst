@@ -1,5 +1,5 @@
-ee#language es
-#pragma section-numbers 2
+aee#language es #pragma section-numbers 2
+
 = Recetario =
 ''Nuestro !CookBook, en vías desarrollo.'' A este lugar uno recurre cada vez que se encuentra en la cocina de Python, cuchillo en mano y se da cuenta que a sus ingredientes le faltan el toque de un cheff experto. Nuestra especialidad son las recetas autóctonas. ¿Platos magistrales que fallan al sazonar con acentos y eñes? ¿números que saben mal si no son previamente fritos en castellano? ¡Siga leyendo!
 
@@ -72,7 +72,7 @@ GtkConfirmClose: ejemplo sobre como solicitar confirmacion para el cierre de una
 
 GtkMultiThread: ejemplo de como manipular la GUI desde múltiples threads sin usar locks (con colas)
 
-GtkMultiThread2: ejemplo de como manipular la api desde múltiples threads
+GtkMultiThread2: ejemplo de como manipular la GUI usando múltiples threads
 
 GtkLabelConColor: ejemplo de como cambiar el color de un label sin usar pango markup
 
@@ -84,7 +84,7 @@ GtkLabelConColor: ejemplo de como cambiar el color de un label sin usar pango ma
 GtkGladeSignals : manejo basico de señales
 
 === Qt ===
-QtMultiThread : ejemplo de como manipular la api desde múltiples threads sin usar locks (con colas)
+QtMultiThread : ejemplo de como manipular la GUI usando múltiples threads sin usar locks (con colas)
 
 === Pythoncard (wxPython) ===
 PythonCard: Ejemplo de como hacer una aplicación de escritorio desde 0 (para principiantes)
