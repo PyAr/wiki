@@ -1,4 +1,4 @@
-Diego Mascialino abrió en [[http://permalink.gmane.org/gmane.org.user-groups.python.argentina/38828|hilo]] en la ListaDeCorreo que reabrió un tema recurrentemente tratado: Cómo difundir el uso de Python (y por extensión del Software Libre) en las universidades, principalmentes en las carreras de ingeniería, ciencias de la computación y afines.
+Diego Mascialino abrió un [[http://permalink.gmane.org/gmane.org.user-groups.python.argentina/38828|hilo]] en la ListaDeCorreo que reabrió un tema recurrentemente tratado: Cómo difundir el uso de Python (y por extensión del Software Libre) en las universidades, principalmentes en las carreras de ingeniería, ciencias de la computación y afines.
 
 Esta página servirá para sistematizar lo expuesto en ese hilo así como nuevos aportes, tendientes a generar estrategias y materiales de difusión de Python como herramienta para estudiantes y docentes.
 
