@@ -51,6 +51,7 @@ Definimos cuando usando: [[http://www.doodle.com/anbnmdctxm7qkxgr|encuesta!]]
  || Pablo Mouzo ||
  || Diego Mascialino ||
  || alecu ||
+ || SebastianBassi ||
 
 
 ''' ¿Dónde? '''
