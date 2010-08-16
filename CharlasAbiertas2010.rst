@@ -38,6 +38,8 @@ No hace falta registrarse, pero vení temprano para asegurarte un lugar porque l
 
  * Presentación: Las partes de [[attachment:intropython.odp|Facundo]], [[attachment:baterias.odp|Tomás]] y [[Recetario/Histograma|Diego]].
 
+<<Video(http://pyar.usla.org.ar/charlasabiertas2010/intro_python.ogg)>>
+
 === Día 3: Sábado 21 de Agosto ===
 '''Introducción al Desarrollo Web I'''
 
