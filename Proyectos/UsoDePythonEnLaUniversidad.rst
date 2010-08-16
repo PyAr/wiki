@@ -27,7 +27,7 @@ Esta página servirá para sistematizar lo expuesto en ese hilo así como nuevos
 === Reemplazo a Simulink ===
  * [[http://code.google.com/p/sympy/|SymPy]] Librerías para cálculo simbólico. Esta bastante verde todavía, ni se compara con las herramientas comerciales como Mathematica o MathCad, pero para cosas no muy complicadas es de buena ayuda. Si bien funciona en la consola exclusivamente, permite visualizar fórmulas de manera legible, introduciendolas con un sistema similar a LaTEX.
 === Listado de librerías de ploteo ===
- * [[http://matplotlib.sourceforge.net/|matplotlib]]: Muy recomendado. Puede requerir más trabajo que otras librerías más sensilla, pero tiene toda la funcionalidad de graficación que tiene Matlab.
+ * [[http://matplotlib.sourceforge.net/|matplotlib]]: Muy recomendado. Puede requerir más trabajo que otras librerías más sencilla, pero tiene toda la funcionalidad de graficación que tiene Matlab.
  * [[https://launchpad.net/cairoplot|CairoPlot]]: Bueno, bonito y barato. Permite tener gráficos andando de manera rápida, pero su performance puede ser baja para ciertas aplicaciones.
  * [[http://gnuplot-py.sourceforge.net/|gnuplot.py]]: Wrapper sobre [[http://www.gnuplot.info/|gnuplot]]. Bersatil y rápido, si sos diseñador gráfico, te va a parecer muy feo.
 
