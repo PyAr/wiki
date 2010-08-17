@@ -25,6 +25,9 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 || 201 || pet1-sergiogragera.py || Faltan espacios en blanco al rededor de * ||
 || 207 || pet1-soy_zco.py || OK ||
 || 210 || pet1-mctpyt.py || OK ||
+|| 213 || pet1-zalaka.py || Falla con 1 ||
+|| 228 || pet1-volpe.py || Texto extra en la entrada/salida ||
+|| 230 || pet1-volpe2.py || Texto extra en la entrada/salida ||
 || 232 || pet1-tokland.py || OK ||
 || 262 || pet1-cdipietro.py || Texto extra en la entrada/salida ||
 || 325 || pet1-cballard.py || OK ||
