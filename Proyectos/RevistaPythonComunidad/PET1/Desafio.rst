@@ -10,7 +10,9 @@ Algunas aclaraciones al [[http://revista.python.org.ar/1/html/desafio.html|Enunc
 = Ranking =
 De esta página los participantes pueden bajar un programa que les permite validar su prorgama antes de enviarlo.
 
-Uso: $ ./pet1-test.sh pet1-ejemplo.py  [[attachment:pet1-test]]
+Uso: $ ./pet1-test.sh pet1-ejemplo.py  
+
+[[attachment:pet1-test|Descargar]]
 
 Los caracteres se cuenta con wc -c pet1-ejemplo.py
 
@@ -37,5 +39,3 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||528 ||pet1-rodrigoolmo.py ||Texto extra en la entrada/salida ||
 ||746 ||pet1-juanpablojuanpablo.py ||Texto extra en la entrada/salida ||
 ||1702 ||pet1-rigoni.py ||Texto extra en la entrada/salida ||
-
-
