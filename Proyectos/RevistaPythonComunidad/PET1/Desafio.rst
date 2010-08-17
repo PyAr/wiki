@@ -32,6 +32,7 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||230 ||pet1-volpe2.py ||Texto extra en la entrada/salida ||
 ||232 ||pet1-tokland.py ||OK ||
 ||262 ||pet1-cdipietro.py ||Texto extra en la entrada/salida ||
+||262 ||pet1-fanaur.py ||Texto extra en la entrada/salida ||
 ||325 ||pet1-cballard.py ||OK ||
 ||325 ||pet1-radicaled.py ||Da salidas erroneas ||
 ||449 ||pet1-ramonvillalongagomez.py ||Texto extra en la entrada/salida ||
