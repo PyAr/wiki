@@ -15,7 +15,10 @@ Ahora, ¿a dónde podrías recurrir para obtener información que te inicie en l
 
  * [[http://pythonya.appspot.com/|Python Ya]] Python desde cero. Tutorial web interactivo. Permite escribir y ejecutar nuestros programas directamente en la página, sin necesidad de tener Python instalado.
 
- * Para quien ya tiene alguna idea, pero necesita buscar algo puntual, puede probar [[http://rgruet.free.fr/PQR24/PQR2.4.html|Python 2.4 Quick Reference]].
+ * Para quien ya tiene alguna idea, pero necesita buscar algo puntual, puede probar
+   * [[http://rgruet.free.fr/PQR26/PQR2.6.html|Python 2.6 Quick Reference]]
+   * [[http://rgruet.free.fr/PQR25/PQR2.5.html|Python 2.5 Quick Reference]]
+   * [[http://rgruet.free.fr/PQR24/PQR2.4.html|Python 2.4 Quick Reference]]
 
  * Listado de [[Ejercicios]] para practicar Python.
 
