@@ -15,7 +15,7 @@ Uso: $ ./pet1-test.sh pet1-ejemplo.py
 
 [[attachment:pet1-test|Descargar]]
 
-Los caracteres se cuenta con wc -c pet1-ejemplo.py
+Los caracteres se cuentan con wc -c pet1-ejemplo.py
 
 Notarán que renombré sus scripts usando su usario de mail o apellido. Si envían una nueva propuesta, háganlo usando este nombre de archivo. Los que no tengan el estado en OK, deben volver a enviar su script para que pueda ser elegible.
 ||139 ||pet1-piranna.py ||Falla con 1 ||
