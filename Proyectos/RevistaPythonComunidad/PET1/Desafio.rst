@@ -36,7 +36,7 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||249 ||pet1-ajzach.py ||IndexError ||
 ||262 ||pet1-cdipietro.py ||Texto extra en la entrada/salida ||
 ||262 ||pet1-fanaur.py ||Texto extra en la entrada/salida ||
-||325 ||pet1-cballard.py ||OK ||
+||325 ||pet1-cballard.py ||Falla para 0 ||
 ||325 ||pet1-radicaled.py ||Da salidas erroneas ||
 ||364 ||pet1-fanaur.py ||Texto extra en la entrada/salida ||
 ||449 ||pet1-ramonvillalongagomez.py ||Texto extra en la entrada/salida ||
