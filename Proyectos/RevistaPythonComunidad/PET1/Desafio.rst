@@ -16,7 +16,7 @@ Los caracteres se cuenta con wc -c pet1-ejemplo.py
 
 Notarán que renombré sus scripts usando su usario de mail o apellido. Si envían una nueva propuesta, háganlo usando este nombre de archivo. Los que no tengan el estado en OK, deben volver a enviar su script para que pueda ser elegible.
 
-|| 139 || pet1-piranna.py || Falla con 1
+|| 139 || pet1-piranna.py || Falla con 1 ||
 || 164 || pet1-vegacom.py || Falla con 1
 || 170 || pet1-lechon.py || Espacio en blanco al final de la salida
 || 181 || pet1-sedivy.py || EOFError
