@@ -19,17 +19,23 @@ Uso: $ ./pet1-test.sh pet1-ejemplo.py
 Los caracteres se cuentan con wc -c pet1-ejemplo.py
 
 Notarán que renombré sus scripts usando su usario de mail o apellido. Si envían una nueva propuesta, háganlo usando este nombre de archivo. Los que no tengan el estado en OK, deben volver a enviar su script para que pueda ser elegible.
+||130 ||pet1-hdzos.py||OK ||
+||130 ||pet1-jmansilla.py||OK ||
+||130 ||pet1-matiasg.py ||OK ||
+||132 ||pet1-darni.py ||OK ||
+||137 ||pet1-fisadev.py ||OK ||
 ||139 ||pet1-piranna.py ||Falla con 1 ||
 ||140 ||pet1-ivoscc.py ||OK ||
-||144 ||pet1-darni.py ||OK ||
 ||149 ||pet1-matiasg.py ||OK ||
 ||182 ||pet1-sergiogragera.py ||Faltan espacios en blanco al rededor de * ||
 ||164 ||pet1-vegacom.py ||Falla con 1 ||
+||167 ||pet1-eordano.py ||OK ||
 ||168 ||pet1-matiasbellone.py ||Falla con 1024 ||
 ||170 ||pet1-lechon.py ||Espacio en blanco al final de la salida ||
 ||181 ||pet1-sedivy.py ||EOFError ||
 ||182 ||pet1-buhitoescolar.py ||Falla con 1 ||
 ||191 ||pet1-listas.py ||OK ||
+||193 ||pet1-pych3m4.py ||Texto extra en la entrada/salida ||
 ||201 ||pet1-sergiogragera.py ||Faltan espacios en blanco al rededor de * ||
 ||207 ||pet1-soy_zco.py ||OK ||
 ||210 ||pet1-mctpyt.py ||OK ||
@@ -37,15 +43,16 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||228 ||pet1-volpe.py ||Texto extra en la entrada/salida ||
 ||230 ||pet1-volpe2.py ||Texto extra en la entrada/salida ||
 ||232 ||pet1-tokland.py ||OK ||
+||233 ||pet1-nicoreba.py ||No produce salida||
 ||249 ||pet1-ajzach.py ||IndexError ||
 ||259 ||pet1-cballard.py ||OK ||
 ||262 ||pet1-cdipietro.py ||Texto extra en la entrada/salida ||
-||278 ||pet1-nicoreba.py ||No produce salida - usa el primer argumento en lugar de stdin||
-||298 ||pet1-ramas.py ||No produce salida - usa el primer argumento en lugar de stdin||
-||310 ||pet1-fanaur.py ||Espacios en blanco al rededor de ^ ||
+||278 ||pet1-rarmas.py ||OK||
 ||325 ||pet1-cballard.py ||Falla para 0 ||
 ||325 ||pet1-radicaled.py ||Da salidas erroneas ||
+||342 ||pet1-fanaur.py ||Faltan espacios en blanco al rededor de * ||
 ||364 ||pet1-fanaur.py ||Texto extra en la entrada/salida ||
+||349 ||pet1-lvidarte.py ||OK ||
 ||449 ||pet1-ramonvillalongagomez.py ||Texto extra en la entrada/salida ||
 ||482 ||pet1-marcolucio.py ||Espacios en blanco al rededor de ^ ||
 ||518 ||pet1-hpmaxi.py ||Texto extra en la entrada/salida ||
