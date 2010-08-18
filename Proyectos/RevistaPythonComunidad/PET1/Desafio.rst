@@ -20,10 +20,12 @@ Los caracteres se cuentan con wc -c pet1-ejemplo.py
 
 Notarán que renombré sus scripts usando su usario de mail o apellido. Si envían una nueva propuesta, háganlo usando este nombre de archivo. Los que no tengan el estado en OK, deben volver a enviar su script para que pueda ser elegible.
 ||139 ||pet1-piranna.py ||Falla con 1 ||
+||140 ||pet1-ivoscc.py ||OK ||
 ||144 ||pet1-darni.py ||OK ||
 ||149 ||pet1-matiasg.py ||OK ||
 ||182 ||pet1-sergiogragera.py ||Faltan espacios en blanco al rededor de * ||
 ||164 ||pet1-vegacom.py ||Falla con 1 ||
+||168 ||pet1-matiasbellone.py ||Falla con 1024 ||
 ||170 ||pet1-lechon.py ||Espacio en blanco al final de la salida ||
 ||181 ||pet1-sedivy.py ||EOFError ||
 ||182 ||pet1-buhitoescolar.py ||Falla con 1 ||
@@ -38,7 +40,9 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||249 ||pet1-ajzach.py ||IndexError ||
 ||259 ||pet1-cballard.py ||OK ||
 ||262 ||pet1-cdipietro.py ||Texto extra en la entrada/salida ||
-||262 ||pet1-fanaur.py ||Texto extra en la entrada/salida ||
+||278 ||pet1-nicoreba.py ||No produce salida - usa el primer argumento en lugar de stdin||
+||298 ||pet1-ramas.py ||No produce salida - usa el primer argumento en lugar de stdin||
+||310 ||pet1-fanaur.py ||Espacios en blanco al rededor de ^ ||
 ||325 ||pet1-cballard.py ||Falla para 0 ||
 ||325 ||pet1-radicaled.py ||Da salidas erroneas ||
 ||364 ||pet1-fanaur.py ||Texto extra en la entrada/salida ||
@@ -46,5 +50,7 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||482 ||pet1-marcolucio.py ||Espacios en blanco al rededor de ^ ||
 ||518 ||pet1-hpmaxi.py ||Texto extra en la entrada/salida ||
 ||528 ||pet1-rodrigoolmo.py ||Texto extra en la entrada/salida ||
-||746 ||pet1-juanpablojuanpablo.py ||Texto extra en la entrada/salida ||
+||540 ||pet1-juanpablojuanpablo.py || OK ||
+||749 ||pet1-dmlistapython.py ||Texto extra en la entrada/salida ||
+||968 ||pet1-duducosmos.py ||No produce salida ||
 ||1702 ||pet1-rigoni.py ||Texto extra en la entrada/salida ||
