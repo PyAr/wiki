@@ -14,6 +14,7 @@ De esta página los participantes pueden bajar un programa que les permite valid
 Uso: $ ./pet1-test.sh pet1-ejemplo.py  
 
 [[attachment:pet1-test|Descargar]]
+[[attachment:pet1-test2|Descargar]] (pet1-test2 no tiene en cuenta el stderr)
 
 Los caracteres se cuentan con wc -c pet1-ejemplo.py
 
@@ -35,6 +36,7 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||230 ||pet1-volpe2.py ||Texto extra en la entrada/salida ||
 ||232 ||pet1-tokland.py ||OK ||
 ||249 ||pet1-ajzach.py ||IndexError ||
+||259 ||pet1-cballard.py ||OK ||
 ||262 ||pet1-cdipietro.py ||Texto extra en la entrada/salida ||
 ||262 ||pet1-fanaur.py ||Texto extra en la entrada/salida ||
 ||325 ||pet1-cballard.py ||Falla para 0 ||
