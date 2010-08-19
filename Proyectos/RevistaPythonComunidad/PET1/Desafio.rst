@@ -1,3 +1,4 @@
+#acl JuanjoConti:read,write All:read
 Esta página tiene como objetivo darle soporte al desafío planteado en el primer número de la revista PET.
 
 Algunas aclaraciones al [[http://revista.python.org.ar/1/html/desafio.html|Enunciado original]]:
