@@ -21,8 +21,8 @@ Los caracteres se cuentan con wc -c pet1-ejemplo.py
 
 Notarán que renombré sus scripts usando su usario de mail o apellido. Si envían una nueva propuesta, háganlo usando este nombre de archivo. Los que no tengan el estado en OK, deben volver a enviar su script para que pueda ser elegible.
 ||111 ||pet1-pych3m4.py ||OK ||
+||111 ||pet1-jmansilla.py||OK ||
 ||117 ||pet1-hdzos.py||OK ||
-||121 ||pet1-jmansilla.py||OK ||
 ||128 ||pet1-fisadev.py ||OK ||
 ||130 ||pet1-matiasg.py ||OK ||
 ||132 ||pet1-darni.py ||OK ||
@@ -33,8 +33,8 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||164 ||pet1-vegacom.py ||Falla con 1 ||
 ||167 ||pet1-eordano.py ||OK ||
 ||170 ||pet1-lechon.py ||Espacio en blanco al final de la salida ||
+||172 ||pet1-nicoreba.py ||OK||
 ||176 ||pet1-casoalonso.py ||Texto extra en la entrada/salida ||
-||178 ||pet1-nicoreba.py ||OK||
 ||181 ||pet1-sedivy.py ||EOFError ||
 ||182 ||pet1-buhitoescolar.py ||Falla con 1 ||
 ||191 ||pet1-listas.py ||OK ||
