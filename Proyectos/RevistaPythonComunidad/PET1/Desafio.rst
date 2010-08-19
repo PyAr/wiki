@@ -34,6 +34,7 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||167 ||pet1-eordano.py ||OK ||
 ||170 ||pet1-lechon.py ||Espacio en blanco al final de la salida ||
 ||176 ||pet1-casoalonso.py ||Texto extra en la entrada/salida ||
+||178 ||pet1-nicoreba.py ||OK||
 ||181 ||pet1-sedivy.py ||EOFError ||
 ||182 ||pet1-buhitoescolar.py ||Falla con 1 ||
 ||191 ||pet1-listas.py ||OK ||
@@ -41,7 +42,6 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||207 ||pet1-soy_zco.py ||OK ||
 ||210 ||pet1-mctpyt.py ||OK ||
 ||213 ||pet1-zalaka.py ||Falla con 1 ||
-||226 ||pet1-nicoreba.py ||OK||
 ||228 ||pet1-volpe.py ||Texto extra en la entrada/salida ||
 ||230 ||pet1-volpe2.py ||Texto extra en la entrada/salida ||
 ||232 ||pet1-tokland.py ||OK ||
