@@ -30,6 +30,7 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||140 ||pet1-ivoscc.py ||OK ||
 ||148 ||pet1-nicoreba.py ||OK||
 ||153 ||pet1-matiasbellone.py ||OK ||
+||159 ||pet1-shariff.py ||OK ||
 ||164 ||pet1-vegacom.py ||Falla con 1 ||
 ||167 ||pet1-eordano.py ||OK ||
 ||170 ||pet1-lechon.py ||Espacio en blanco al final de la salida ||
@@ -46,7 +47,6 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||228 ||pet1-volpe.py ||Texto extra en la entrada/salida ||
 ||230 ||pet1-volpe2.py ||Texto extra en la entrada/salida ||
 ||232 ||pet1-tokland.py ||OK ||
-||232 ||pet1-shariff.py ||OK ||
 ||249 ||pet1-ajzach.py ||IndexError ||
 ||259 ||pet1-cballard.py ||OK ||
 ||262 ||pet1-cdipietro.py ||Texto extra en la entrada/salida ||
