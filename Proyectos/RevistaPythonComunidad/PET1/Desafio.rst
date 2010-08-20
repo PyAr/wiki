@@ -29,6 +29,7 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||139 ||pet1-piranna.py ||Falla con 1 ||
 ||140 ||pet1-ivoscc.py ||OK ||
 ||148 ||pet1-nicoreba.py ||OK||
+||150 ||pet1-rarmas.py ||OK||
 ||153 ||pet1-matiasbellone.py ||OK ||
 ||159 ||pet1-shariff.py ||OK ||
 ||164 ||pet1-vegacom.py ||Falla con 1 ||
@@ -37,7 +38,8 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||176 ||pet1-casoalonso.py ||Texto extra en la entrada/salida ||
 ||181 ||pet1-sedivy.py ||EOFError ||
 ||182 ||pet1-sergiogragera.py ||Faltan espacios en blanco al rededor de * ||
-||182 ||pet1-buhitoescolar.py ||Falla con 1 ||
+||189 ||pet1-tavotell.py ||Falla con 1 ||
+||191 ||pet1-listas.py ||OK ||
 ||191 ||pet1-listas.py ||OK ||
 ||201 ||pet1-sergiogragera.py ||Faltan espacios en blanco al rededor de * ||
 ||203 ||pet1-hpmaxi.py || OK ||
@@ -50,7 +52,6 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||249 ||pet1-ajzach.py ||IndexError ||
 ||259 ||pet1-cballard.py ||OK ||
 ||262 ||pet1-cdipietro.py ||Texto extra en la entrada/salida ||
-||278 ||pet1-rarmas.py ||OK||
 ||325 ||pet1-cballard.py ||Falla para 0 ||
 ||325 ||pet1-radicaled.py ||Da salidas erroneas ||
 ||344 ||pet1-fanaur.py ||OK ||
