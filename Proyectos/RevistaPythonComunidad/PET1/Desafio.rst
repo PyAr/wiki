@@ -22,12 +22,13 @@ Los caracteres se cuentan con wc -c pet1-ejemplo.py
 Notarán que renombré sus scripts usando su usario de mail o apellido. Si envían una nueva propuesta, háganlo usando este nombre de archivo. Los que no tengan el estado en OK, deben volver a enviar su script para que pueda ser elegible.
 ||111 ||pet1-pych3m4.py ||OK ||
 ||111 ||pet1-jmansilla.py||OK ||
-||117 ||pet1-hdzos.py||OK ||
+||111 ||pet1-hdzos.py||OK ||
 ||118 ||pet1-matiasg.py ||OK ||
 ||128 ||pet1-fisadev.py ||OK ||
 ||132 ||pet1-darni.py ||OK ||
 ||139 ||pet1-piranna.py ||Falla con 1 ||
 ||140 ||pet1-ivoscc.py ||OK ||
+||140 ||pet1-cballard.py ||OK ||
 ||148 ||pet1-nicoreba.py ||OK||
 ||150 ||pet1-rarmas.py ||OK||
 ||153 ||pet1-matiasbellone.py ||OK ||
@@ -50,7 +51,6 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||230 ||pet1-volpe2.py ||Texto extra en la entrada/salida ||
 ||232 ||pet1-tokland.py ||OK ||
 ||249 ||pet1-ajzach.py ||IndexError ||
-||259 ||pet1-cballard.py ||OK ||
 ||262 ||pet1-cdipietro.py ||Texto extra en la entrada/salida ||
 ||325 ||pet1-cballard.py ||Falla para 0 ||
 ||325 ||pet1-radicaled.py ||Da salidas erroneas ||
