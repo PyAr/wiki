@@ -39,7 +39,7 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||176 ||pet1-casoalonso.py ||Texto extra en la entrada/salida ||
 ||181 ||pet1-sedivy.py ||EOFError ||
 ||182 ||pet1-sergiogragera.py ||Faltan espacios en blanco al rededor de * ||
-||189 ||pet1-tavotell.py ||Falla con 1 ||
+||189 ||pet1-tavotell.py ||OK ||
 ||191 ||pet1-listas.py ||OK ||
 ||191 ||pet1-listas.py ||OK ||
 ||201 ||pet1-sergiogragera.py ||Faltan espacios en blanco al rededor de * ||
