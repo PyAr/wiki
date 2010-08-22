@@ -28,10 +28,10 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||118 ||pet1-matiasg.py ||OK ||
 ||120 ||pet1-fheinz.py ||OK ||
 ||128 ||pet1-fisadev.py ||OK ||
+||128 ||pet1-cballard.py ||OK ||
 ||129 ||pet1-nicoreba.py ||OK||
 ||132 ||pet1-darni.py ||OK ||
 ||140 ||pet1-ivoscc.py ||OK ||
-||140 ||pet1-cballard.py ||OK ||
 ||150 ||pet1-rarmas.py ||OK||
 ||153 ||pet1-matiasbellone.py ||OK ||
 ||154 ||pet1-sergiogragera.py ||Falla con 1024 ||
