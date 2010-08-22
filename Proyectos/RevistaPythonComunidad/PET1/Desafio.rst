@@ -23,7 +23,7 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||111 ||pet1-pych3m4.py ||OK ||OK ||
 ||111 ||pet1-jmansilla.py ||OK ||OK ||
 ||111 ||pet1-hdzos.py ||OK ||OK ||
-||112 ||pet1-piranna.py ||Tiene un espacio de mas al principio de todas las salidas ||
+||112 ||pet1-piranna.py ||Tiene un espacio de mas al principio de todas las salidas ||Tiene un espacio de mas al principio de todas las salidas ||
 ||114 ||pet1-fisadev.py ||OK ||OK||
 ||117 ||pet1-fpalm.py ||OK ||OK ||
 ||118 ||pet1-matiasg.py ||OK ||OK ||
