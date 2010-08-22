@@ -22,15 +22,15 @@ Los caracteres se cuentan con wc -c pet1-ejemplo.py
 Notarán que renombré sus scripts usando su usario de mail o apellido. Si envían una nueva propuesta, háganlo usando este nombre de archivo. Los que no tengan el estado en OK, deben volver a enviar su script para que pueda ser elegible.
 
 ||chars||script name|| feedback con pet1-test|| feedback con bignum||
-||111 ||pet1-pych3m4.py ||OK || OK ||
+||111 ||pet1-pych3m4.py ||OK || OK y ||
 ||111 ||pet1-jmansilla.py||OK || OK ||
 ||111 ||pet1-hdzos.py||OK || OK ||
 ||112 ||pet1-piranna.py ||Tiene un espacio de mas al principio de todas las salidas ||
 ||117 ||pet1-fpalm.py||OK || OK ||
 ||118 ||pet1-matiasg.py ||OK || OK ||
-||120 ||pet1-fheinz.py ||OK || Tarda mucho tiempo en ejecutar con números grandes ||
+||120 ||pet1-fheinz.py ||OK || Falla con los casos de prueba 1048576 y mayores ||
 ||128 ||pet1-fisadev.py ||OK ||Tarda mucho tiempo en ejecutar con números grandes ||
-||128 ||pet1-cballard.py ||OK ||
+||128 ||pet1-cballard.py ||OK || Falla con los casos de prueba 1048576 y mayores ||
 ||129 ||pet1-nicoreba.py ||OK||
 ||132 ||pet1-darni.py ||OK ||
 ||140 ||pet1-ivoscc.py ||OK ||
@@ -71,3 +71,9 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||968 ||pet1-duducosmos.py ||No produce salida ||
 ||1052 ||pet1-rodrigoolmo.py ||Texto extra en la entrada/salida y no funciona para 1024||
 ||1702 ||pet1-rigoni.py ||Texto extra en la entrada/salida ||
+
+= Trampas copadas = 
+
+Escribir un enunciado es realmente difícil. Algunos abusándose de nuestra debilidad han enviado algunas entradas que se riñen con la moral y las buenas costubres. De todas formas les damos un lugar destacado! Hasta ahora:
+
+||55||darni||OK||OK||
