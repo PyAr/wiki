@@ -20,10 +20,10 @@ Los caracteres se cuentan con wc -c pet1-ejemplo.py
 
 Notarán que renombré sus scripts usando su usario de mail o apellido. Si envían una nueva propuesta, háganlo usando este nombre de archivo. Los que no tengan el estado en OK, deben volver a enviar su script para que pueda ser elegible.
 ||'''chars''' ||'''script name''' ||'''feedback con pet1-test''' ||'''feedback con bignum''' ||
+||106 ||pet1-piranna.py ||Falla para 0 y 1 ||OK||
 ||111 ||pet1-pych3m4.py ||OK ||OK ||
 ||111 ||pet1-jmansilla.py ||OK ||OK ||
 ||111 ||pet1-hdzos.py ||OK ||OK ||
-||112 ||pet1-piranna.py ||Tiene un espacio de mas al principio de todas las salidas ||Tiene un espacio de mas al principio de todas las salidas ||
 ||114 ||pet1-fisadev.py ||OK ||OK||
 ||117 ||pet1-fpalm.py ||OK ||OK ||
 ||118 ||pet1-matiasg.py ||OK ||OK ||
