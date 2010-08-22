@@ -74,8 +74,6 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 
 
 = Trampas copadas =
-Escribir un enunciado es realmente difícil. Algunos abusándose de nuestra debilidad han enviado algunas entradas que se riñen con la moral y las buenas costubres. De todas formas les damos un lugar destacado! Hasta ahora:
+Escribir un enunciado es realmente difícil. Algunos abusándose de nuestra debilidad han enviado algunas entradas que se riñen con la moral y las buenas costumbres. De todas formas les damos un lugar destacado! Hasta ahora:
 ||*chars* ||*script name* ||*feedback con pet1-test* ||*feedback con bignum* ||
 ||55 ||darni ||OK ||OK ||
-
-
