@@ -23,15 +23,15 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||111 ||pet1-pych3m4.py ||OK ||
 ||111 ||pet1-jmansilla.py||OK ||
 ||111 ||pet1-hdzos.py||OK ||
+||112 ||pet1-piranna.py ||Tiene un espacio de mas al principio de todas las salidas ||
 ||117 ||pet1-fpalm.py||OK ||
 ||118 ||pet1-matiasg.py ||OK ||
+||120 ||pet1-fheinz.py ||OK ||
 ||128 ||pet1-fisadev.py ||OK ||
+||129 ||pet1-nicoreba.py ||OK||
 ||132 ||pet1-darni.py ||OK ||
-||139 ||pet1-fheinz.py ||OK ||
-||139 ||pet1-piranna.py ||Falla con 1 ||
 ||140 ||pet1-ivoscc.py ||OK ||
 ||140 ||pet1-cballard.py ||OK ||
-||148 ||pet1-nicoreba.py ||OK||
 ||150 ||pet1-rarmas.py ||OK||
 ||153 ||pet1-matiasbellone.py ||OK ||
 ||154 ||pet1-sergiogragera.py ||Falla con 1024 ||
