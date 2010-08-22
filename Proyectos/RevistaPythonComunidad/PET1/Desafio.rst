@@ -20,14 +20,16 @@ Uso: $ ./pet1-test.sh pet1-ejemplo.py
 Los caracteres se cuentan con wc -c pet1-ejemplo.py
 
 Notarán que renombré sus scripts usando su usario de mail o apellido. Si envían una nueva propuesta, háganlo usando este nombre de archivo. Los que no tengan el estado en OK, deben volver a enviar su script para que pueda ser elegible.
-||111 ||pet1-pych3m4.py ||OK ||
-||111 ||pet1-jmansilla.py||OK ||
-||111 ||pet1-hdzos.py||OK ||
+
+||chars||script name|| feedback con pet1-test|| feedback con bignum||
+||111 ||pet1-pych3m4.py ||OK || OK ||
+||111 ||pet1-jmansilla.py||OK || OK ||
+||111 ||pet1-hdzos.py||OK || OK ||
 ||112 ||pet1-piranna.py ||Tiene un espacio de mas al principio de todas las salidas ||
-||117 ||pet1-fpalm.py||OK ||
-||118 ||pet1-matiasg.py ||OK ||
-||120 ||pet1-fheinz.py ||OK ||
-||128 ||pet1-fisadev.py ||OK ||
+||117 ||pet1-fpalm.py||OK || OK ||
+||118 ||pet1-matiasg.py ||OK || OK ||
+||120 ||pet1-fheinz.py ||OK || Tarda mucho tiempo en ejecutar con números grandes ||
+||128 ||pet1-fisadev.py ||OK ||Tarda mucho tiempo en ejecutar con números grandes ||
 ||128 ||pet1-cballard.py ||OK ||
 ||129 ||pet1-nicoreba.py ||OK||
 ||132 ||pet1-darni.py ||OK ||
