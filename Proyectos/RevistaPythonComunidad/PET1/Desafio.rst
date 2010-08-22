@@ -24,11 +24,11 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||111 ||pet1-jmansilla.py ||OK ||OK ||
 ||111 ||pet1-hdzos.py ||OK ||OK ||
 ||112 ||pet1-piranna.py ||Tiene un espacio de mas al principio de todas las salidas ||
+||114 ||pet1-fisadev.py ||OK ||OK||
 ||117 ||pet1-fpalm.py ||OK ||OK ||
 ||118 ||pet1-matiasg.py ||OK ||OK ||
 ||120 ||pet1-fheinz.py ||OK ||Falla con los casos de prueba 1048576 y mayores ||
 ||129 ||pet1-nicoreba.py ||OK ||Falla con los casos de prueba 1073741824 y mayores ||
-||128 ||pet1-fisadev.py ||OK ||En una hora no terminó de ejecutar con 1048576||
 ||128 ||pet1-cballard.py ||OK ||Falla con los casos de prueba 1048576 y mayores ||
 ||132 ||pet1-darni.py ||OK || OK ||
 ||140 ||pet1-ivoscc.py ||OK ||Falla con los casos de prueba 1073741824 y mayores ||
@@ -42,6 +42,7 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||176 ||pet1-casoalonso.py ||Texto extra en la entrada/salida ||
 ||181 ||pet1-sedivy.py ||EOFError ||
 ||189 ||pet1-tavotell.py ||OK || OK ||
+||429 ||pet1-gedece.py ||OK ||OK||
 ||191 ||pet1-listas.py ||OK ||Falla con los casos de prueba 1073741824 y mayores ||
 ||201 ||pet1-sergiogragera.py ||Faltan espacios en blanco al rededor de * ||
 ||203 ||pet1-hpmaxi.py ||OK ||Falla con los casos de prueba 1073741824 y mayores ||
@@ -56,7 +57,6 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||325 ||pet1-radicaled.py ||Da salidas erroneas ||
 ||344 ||pet1-fanaur.py ||OK ||OK||
 ||349 ||pet1-lvidarte.py ||OK || OK ||
-||429 ||pet1-gedece.py ||No lee de la entrada estándar ||
 ||449 ||pet1-ramonvillalongagomez.py ||Texto extra en la entrada/salida ||
 ||482 ||pet1-marcolucio.py ||Espacios en blanco al rededor de ^ ||
 ||518 ||pet1-hpmaxi.py ||Texto extra en la entrada/salida ||
