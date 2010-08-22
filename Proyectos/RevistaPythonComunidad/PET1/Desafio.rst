@@ -28,7 +28,7 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||117 ||pet1-fpalm.py ||OK ||OK ||
 ||118 ||pet1-matiasg.py ||OK ||OK ||
 ||120 ||pet1-fheinz.py ||OK ||Falla con los casos de prueba 1048576 y mayores ||
-||129 ||pet1-nicoreba.py ||OK ||Falla con los casos de prueba 1073741824 y mayores ||
+||126 ||pet1-nicoreba.py ||OK ||Falla con los casos de prueba 1073741824 y mayores ||
 ||128 ||pet1-cballard.py ||OK ||Falla con los casos de prueba 1048576 y mayores ||
 ||132 ||pet1-darni.py ||OK || OK ||
 ||140 ||pet1-ivoscc.py ||OK ||Falla con los casos de prueba 1073741824 y mayores ||
@@ -53,7 +53,6 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||232 ||pet1-tokland.py ||OK ||Falla con los casos de prueba 4294967296 y mayores ||
 ||249 ||pet1-ajzach.py ||IndexError ||
 ||262 ||pet1-cdipietro.py ||Texto extra en la entrada/salida ||
-||325 ||pet1-cballard.py ||Falla para 0 ||
 ||325 ||pet1-radicaled.py ||Da salidas erroneas ||
 ||344 ||pet1-fanaur.py ||OK ||OK||
 ||349 ||pet1-lvidarte.py ||OK || OK ||
