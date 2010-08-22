@@ -44,7 +44,7 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||189 ||pet1-tavotell.py ||OK || OK ||
 ||429 ||pet1-gedece.py ||OK ||OK||
 ||191 ||pet1-listas.py ||OK ||Falla con los casos de prueba 1073741824 y mayores ||
-||201 ||pet1-sergiogragera.py ||Faltan espacios en blanco al rededor de * ||
+||201 ||pet1-sergiogragera.py ||Faltan espacios en blanco alrededor de * ||
 ||203 ||pet1-hpmaxi.py ||OK ||Falla con los casos de prueba 1073741824 y mayores ||
 ||207 ||pet1-soy_zco.py ||OK ||OK||
 ||210 ||pet1-mctpyt.py ||OK ||Falla con los casos de prueba 1073741824 y mayores ||
@@ -58,7 +58,7 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||344 ||pet1-fanaur.py ||OK ||OK||
 ||349 ||pet1-lvidarte.py ||OK || OK ||
 ||449 ||pet1-ramonvillalongagomez.py ||Texto extra en la entrada/salida ||
-||482 ||pet1-marcolucio.py ||Espacios en blanco al rededor de ^ ||
+||482 ||pet1-marcolucio.py ||Espacios en blanco alrededor de ^ ||
 ||518 ||pet1-hpmaxi.py ||Texto extra en la entrada/salida ||
 ||528 ||pet1-rodrigoolmo.py ||Texto extra en la entrada/salida ||
 ||540 ||pet1-juanpablojuanpablo.py ||OK ||Falla con los casos de prueba 1073741824 y mayores ||
