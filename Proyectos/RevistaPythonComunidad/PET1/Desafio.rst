@@ -20,7 +20,7 @@ Los caracteres se cuentan con wc -c pet1-ejemplo.py
 
 Notarán que renombré sus scripts usando su usario de mail o apellido. Si envían una nueva propuesta, háganlo usando este nombre de archivo. Los que no tengan el estado en OK, deben volver a enviar su script para que pueda ser elegible.
 ||'''chars''' ||'''script name''' ||'''feedback con pet1-test''' ||'''feedback con bignum''' ||
-||111 ||pet1-pych3m4.py ||OK ||OK y ||
+||111 ||pet1-pych3m4.py ||OK ||OK ||
 ||111 ||pet1-jmansilla.py ||OK ||OK ||
 ||111 ||pet1-hdzos.py ||OK ||OK ||
 ||112 ||pet1-piranna.py ||Tiene un espacio de mas al principio de todas las salidas ||
@@ -30,41 +30,38 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||128 ||pet1-fisadev.py ||OK ||Tarda mucho tiempo en ejecutar con números grandes ||
 ||128 ||pet1-cballard.py ||OK ||Falla con los casos de prueba 1048576 y mayores ||
 ||129 ||pet1-nicoreba.py ||OK ||
-||132 ||pet1-darni.py ||OK ||
-||140 ||pet1-ivoscc.py ||OK ||
-||150 ||pet1-rarmas.py ||OK ||
-||153 ||pet1-matiasbellone.py ||OK ||
-||154 ||pet1-sergiogragera.py ||Falla con 1024 ||
-||159 ||pet1-shariff.py ||OK ||
-||164 ||pet1-vegacom.py ||Falla con 1 ||
-||167 ||pet1-eordano.py ||OK ||
+||132 ||pet1-darni.py ||OK || OK ||
+||140 ||pet1-ivoscc.py ||OK ||Falla con los casos de prueba 1073741824 y mayores ||
+||150 ||pet1-rarmas.py ||OK ||Falla con los casos de prueba 1073741824 y mayores ||
+||153 ||pet1-matiasbellone.py ||OK || OK ||
+||154 ||pet1-sergiogragera.py ||Falla con 1024 || Falla con 2204362183931003246689498147640480133808128 ||
+||159 ||pet1-shariff.py ||OK || OK||
+||164 ||pet1-vegacom.py ||Falla con 0 y 1 ||
+||167 ||pet1-eordano.py ||OK ||Falla con los casos de prueba 1073741824 y mayores ||
 ||170 ||pet1-lechon.py ||Espacio en blanco al final de la salida ||
 ||176 ||pet1-casoalonso.py ||Texto extra en la entrada/salida ||
 ||181 ||pet1-sedivy.py ||EOFError ||
-||189 ||pet1-tavotell.py ||OK ||
-||191 ||pet1-listas.py ||OK ||
-||191 ||pet1-listas.py ||OK ||
+||189 ||pet1-tavotell.py ||OK || OK ||
+||191 ||pet1-listas.py ||OK ||Falla con los casos de prueba 1073741824 y mayores ||
 ||201 ||pet1-sergiogragera.py ||Faltan espacios en blanco al rededor de * ||
-||203 ||pet1-hpmaxi.py ||OK ||
-||207 ||pet1-soy_zco.py ||OK ||
-||210 ||pet1-mctpyt.py ||OK ||
+||203 ||pet1-hpmaxi.py ||OK ||Falla con los casos de prueba 1073741824 y mayores ||
+||207 ||pet1-soy_zco.py ||OK ||OK||
+||210 ||pet1-mctpyt.py ||OK ||Falla con los casos de prueba 1073741824 y mayores ||
 ||213 ||pet1-zalaka.py ||Falla con 1 ||
 ||228 ||pet1-volpe.py ||Texto extra en la entrada/salida ||
-||230 ||pet1-volpe2.py ||Texto extra en la entrada/salida ||
-||232 ||pet1-tokland.py ||OK ||
+||232 ||pet1-tokland.py ||OK ||Falla con los casos de prueba 4294967296 y mayores ||
 ||249 ||pet1-ajzach.py ||IndexError ||
 ||262 ||pet1-cdipietro.py ||Texto extra en la entrada/salida ||
 ||325 ||pet1-cballard.py ||Falla para 0 ||
 ||325 ||pet1-radicaled.py ||Da salidas erroneas ||
-||344 ||pet1-fanaur.py ||OK ||
-||364 ||pet1-fanaur.py ||Texto extra en la entrada/salida ||
-||349 ||pet1-lvidarte.py ||OK ||
+||344 ||pet1-fanaur.py ||OK ||OK||
+||349 ||pet1-lvidarte.py ||OK || OK ||
 ||429 ||pet1-gedece.py ||No lee de la entrada estándar ||
 ||449 ||pet1-ramonvillalongagomez.py ||Texto extra en la entrada/salida ||
 ||482 ||pet1-marcolucio.py ||Espacios en blanco al rededor de ^ ||
 ||518 ||pet1-hpmaxi.py ||Texto extra en la entrada/salida ||
 ||528 ||pet1-rodrigoolmo.py ||Texto extra en la entrada/salida ||
-||540 ||pet1-juanpablojuanpablo.py ||OK ||
+||540 ||pet1-juanpablojuanpablo.py ||OK ||Falla con los casos de prueba 1073741824 y mayores ||
 ||749 ||pet1-dmlistapython.py ||Texto extra en la entrada/salida ||
 ||968 ||pet1-duducosmos.py ||No produce salida ||
 ||1052 ||pet1-rodrigoolmo.py ||Texto extra en la entrada/salida y no funciona para 1024 ||
