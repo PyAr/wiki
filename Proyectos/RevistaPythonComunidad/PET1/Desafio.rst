@@ -27,7 +27,7 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||117 ||pet1-fpalm.py ||OK ||OK ||
 ||118 ||pet1-matiasg.py ||OK ||OK ||
 ||120 ||pet1-fheinz.py ||OK ||Falla con los casos de prueba 1048576 y mayores ||
-||128 ||pet1-fisadev.py ||OK ||Tarda mucho tiempo en ejecutar con números grandes ||
+||128 ||pet1-fisadev.py ||OK ||En una hora no terminó de ejecutar con 1048576||
 ||128 ||pet1-cballard.py ||OK ||Falla con los casos de prueba 1048576 y mayores ||
 ||129 ||pet1-nicoreba.py ||OK ||
 ||132 ||pet1-darni.py ||OK || OK ||
