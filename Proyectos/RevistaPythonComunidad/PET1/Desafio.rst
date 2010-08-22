@@ -21,7 +21,7 @@ Los caracteres se cuentan con wc -c pet1-ejemplo.py
 
 Notarán que renombré sus scripts usando su usario de mail o apellido. Si envían una nueva propuesta, háganlo usando este nombre de archivo. Los que no tengan el estado en OK, deben volver a enviar su script para que pueda ser elegible.
 
-||chars||script name|| feedback con pet1-test|| feedback con bignum||
+||*chars*||*script name*|| *feedback con pet1-test*|| *feedback con bignum*||
 ||111 ||pet1-pych3m4.py ||OK || OK y ||
 ||111 ||pet1-jmansilla.py||OK || OK ||
 ||111 ||pet1-hdzos.py||OK || OK ||
@@ -72,8 +72,9 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||1052 ||pet1-rodrigoolmo.py ||Texto extra en la entrada/salida y no funciona para 1024||
 ||1702 ||pet1-rigoni.py ||Texto extra en la entrada/salida ||
 
-= Trampas copadas = 
+=Trampas copadas= 
 
 Escribir un enunciado es realmente difícil. Algunos abusándose de nuestra debilidad han enviado algunas entradas que se riñen con la moral y las buenas costubres. De todas formas les damos un lugar destacado! Hasta ahora:
 
+||*chars*||*script name*|| *feedback con pet1-test*|| *feedback con bignum*||
 ||55||darni||OK||OK||
