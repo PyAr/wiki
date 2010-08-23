@@ -28,7 +28,7 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||117 ||pet1-fpalm.py ||OK ||OK ||
 ||118 ||pet1-matiasg.py ||OK ||OK ||
 ||120 ||pet1-fheinz.py ||OK ||Falla con los casos de prueba 1048576 y mayores ||
-||126 ||pet1-nicoreba.py ||OK ||Falla con los casos de prueba 1073741824 y mayores ||
+||125 ||pet1-nicoreba.py ||OK ||OK||
 ||128 ||pet1-cballard.py ||OK ||Falla con los casos de prueba 1048576 y mayores ||
 ||132 ||pet1-darni.py ||OK || OK ||
 ||140 ||pet1-ivoscc.py ||OK ||Falla con los casos de prueba 1073741824 y mayores ||
@@ -40,16 +40,17 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||167 ||pet1-eordano.py ||OK ||Falla con los casos de prueba 1073741824 y mayores ||
 ||170 ||pet1-lechon.py ||Espacio en blanco al final de la salida ||
 ||176 ||pet1-casoalonso.py ||Texto extra en la entrada/salida ||
+||189 ||pet1-pepecuis.py ||OK || OK ||
 ||181 ||pet1-sedivy.py ||EOFError ||
 ||189 ||pet1-tavotell.py ||OK || OK ||
-||429 ||pet1-gedece.py ||OK ||OK||
+||189 ||pet1-volpe.py ||Falla con 0|| OK ||
+||191 ||pet1-gedece.py ||OK ||OK||
 ||191 ||pet1-listas.py ||OK ||Falla con los casos de prueba 1073741824 y mayores ||
 ||201 ||pet1-sergiogragera.py ||Faltan espacios en blanco alrededor de * ||
 ||203 ||pet1-hpmaxi.py ||OK ||Falla con los casos de prueba 1073741824 y mayores ||
 ||207 ||pet1-soy_zco.py ||OK ||OK||
 ||210 ||pet1-mctpyt.py ||OK ||Falla con los casos de prueba 1073741824 y mayores ||
 ||213 ||pet1-zalaka.py ||Falla con 1 ||
-||228 ||pet1-volpe.py ||Texto extra en la entrada/salida ||
 ||232 ||pet1-tokland.py ||OK ||Falla con los casos de prueba 4294967296 y mayores ||
 ||249 ||pet1-ajzach.py ||IndexError ||
 ||262 ||pet1-cdipietro.py ||Texto extra en la entrada/salida ||
