@@ -52,6 +52,7 @@ Definimos cuando usando: [[http://www.doodle.com/anbnmdctxm7qkxgr|encuesta!]]
  || Diego Mascialino ||
  || SebastianBassi ||
  || AlbertoPaparelli ||
+ || MarianoReingart ||
 
 ''' ¿Dónde? '''
 
