@@ -55,9 +55,9 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||232 ||pet1-tokland.py ||OK ||Falla con los casos de prueba 4294967296 y mayores ||
 ||249 ||pet1-ajzach.py ||IndexError ||
 ||262 ||pet1-cdipietro.py ||Texto extra en la entrada/salida ||
+||263 ||pet1-lvidarte.py ||OK || OK ||
 ||325 ||pet1-radicaled.py ||Da salidas erroneas ||
 ||344 ||pet1-fanaur.py ||OK ||OK||
-||349 ||pet1-lvidarte.py ||OK || OK ||
 ||449 ||pet1-ramonvillalongagomez.py ||Texto extra en la entrada/salida ||
 ||482 ||pet1-marcolucio.py ||Espacios en blanco alrededor de ^ ||
 ||518 ||pet1-hpmaxi.py ||Texto extra en la entrada/salida ||
