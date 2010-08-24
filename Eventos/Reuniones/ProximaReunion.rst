@@ -12,7 +12,7 @@
 
 == Reunión 43 - Martes 24 de Agosto - Ciudad de Córdoba, Alfonsina 2 - 19hs ==
 
-'''Temas:''' Si se te ocurre algún otro, agregálo:
+'''Temas:''' Si se te ocurre algún otro, agregalo:
  * PyCon 2010 Córdoba
  * PET, la revista de PyAr
 
