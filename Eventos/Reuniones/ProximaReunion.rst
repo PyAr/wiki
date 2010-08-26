@@ -35,6 +35,7 @@ Definimos cuando usando: [[http://www.doodle.com/anbnmdctxm7qkxgr|encuesta!]]
  || MarianoReingart ||
  || RicardoKirkner ||
  || MichelPeterson ||
+ || Leonardo Vidarte ||
 
 ''' ¿Dónde? '''
 
