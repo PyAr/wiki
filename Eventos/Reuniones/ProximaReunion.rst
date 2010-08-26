@@ -10,26 +10,6 @@
 
 ##Si querés organizar alguna, o proponer temas para juntar ''quorum'' y que se organice, te invitamos a proponerlo en nuestra ListaDeCorreo. Te sugerimos consultar nuestro [[Eventos/Reuniones##/ReleaseProcedure|Release Procedure]] para tener una idea de como organizar una reunión.
 
-== Reunión 43 - Martes 24 de Agosto - Ciudad de Córdoba, Alfonsina 2 - 19hs ==
-
-'''Temas:''' Si se te ocurre algún otro, agregalo:
- * PyCon 2010 Córdoba
- * PET, la revista de PyAr
-
-''' Asistentes: ''' Por favor, si venís a la reunión, anotate en esta lista:
-
- || alecu ||
- || Mariano Guerra ||
- || Mariano García ||
- || Martín Gaitán  ||
- || DanielMoisset ||
-
-
-''' ¿Dónde? '''
-
-Alfonsina Belgrano 763. Tel: 460-2572 (Casa tomada). http://www.alfonsinaweb.com.ar/espacios.php
-
-
 == Reunión 44 - Jueves 26 de Agosto - Ciudad de Buenos Aires, en el bar de la esquina de Medrano y Guardia Vieja - 19hs ==
 
 Definimos cuando usando: [[http://www.doodle.com/anbnmdctxm7qkxgr|encuesta!]]
