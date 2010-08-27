@@ -39,9 +39,9 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||164 ||pet1-vegacom.py ||Falla con 0 y 1 ||
 ||167 ||pet1-eordano.py ||OK ||Falla con los casos de prueba 1073741824 y mayores ||
 ||170 ||pet1-lechon.py ||Espacio en blanco al final de la salida ||
+||172 ||pet1-pepecuis.py ||OK || OK ||
 ||176 ||pet1-tavotell.py ||OK || OK ||
 ||176 ||pet1-casoalonso.py ||Texto extra en la entrada/salida ||
-||179 ||pet1-pepecuis.py ||OK || OK ||
 ||181 ||pet1-sedivy.py ||EOFError ||
 ||189 ||pet1-volpe.py ||Falla con 0|| OK ||
 ||191 ||pet1-gedece.py ||OK ||OK||
@@ -64,6 +64,7 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||528 ||pet1-rodrigoolmo.py ||Texto extra en la entrada/salida ||
 ||540 ||pet1-juanpablojuanpablo.py ||OK ||Falla con los casos de prueba 1073741824 y mayores ||
 ||749 ||pet1-dmlistapython.py ||Texto extra en la entrada/salida ||
+||977 ||pet1-wasuaje.py||Texto extra en la entrada/salida ||
 ||968 ||pet1-duducosmos.py ||No produce salida ||
 ||1052 ||pet1-rodrigoolmo.py ||Texto extra en la entrada/salida y no funciona para 1024 ||
 ||1702 ||pet1-rigoni.py ||Texto extra en la entrada/salida ||
