@@ -48,11 +48,11 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||191 ||pet1-listas.py ||OK ||Falla con los casos de prueba 1073741824 y mayores ||
 ||201 ||pet1-sergiogragera.py ||Faltan espacios en blanco alrededor de * ||
 ||203 ||pet1-hpmaxi.py ||OK ||Falla con los casos de prueba 1073741824 y mayores ||
-||176 ||pet1-cromeovl.py ||Texto extra en la entrada/salida ||
+||154 ||pet1-cromeovl.py || Espacio en blanco al final de las respuestas ||
 ||207 ||pet1-soy_zco.py ||OK ||OK||
 ||210 ||pet1-mctpyt.py ||OK ||Falla con los casos de prueba 1073741824 y mayores ||
+||211 ||pet1-tokland.py ||OK ||Falla con los casos de prueba 4294967296 y mayores ||
 ||213 ||pet1-zalaka.py ||Falla con 1 ||
-||232 ||pet1-tokland.py ||OK ||Falla con los casos de prueba 4294967296 y mayores ||
 ||249 ||pet1-ajzach.py ||IndexError ||
 ||262 ||pet1-cdipietro.py ||Texto extra en la entrada/salida ||
 ||263 ||pet1-lvidarte.py ||OK || No termina con valores mayores a 1048576 ||
