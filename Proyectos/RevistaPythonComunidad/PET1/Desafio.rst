@@ -37,10 +37,10 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||154 ||pet1-sergiogragera.py ||Falla con 1024 || Falla con 2204362183931003246689498147640480133808128 ||
 ||159 ||pet1-shariff.py ||OK || OK||
 ||164 ||pet1-vegacom.py ||Falla con 0 y 1 ||
+||165 ||pet1-tavotell.py || No funciona para 3, 5, 11, 17...||
 ||167 ||pet1-eordano.py ||OK ||Falla con los casos de prueba 1073741824 y mayores ||
 ||170 ||pet1-lechon.py ||Espacio en blanco al final de la salida ||
 ||172 ||pet1-pepecuis.py ||OK || OK ||
-||165 ||pet1-tavotell.py || No funciona para 3, 5, 11, 17...
 ||176 ||pet1-casoalonso.py ||Texto extra en la entrada/salida ||
 ||181 ||pet1-sedivy.py ||EOFError ||
 ||189 ||pet1-volpe.py ||Falla con 0|| OK ||
@@ -58,6 +58,7 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||263 ||pet1-lvidarte.py ||OK || No termina con valores mayores a 1048576 ||
 ||325 ||pet1-radicaled.py ||Da salidas erroneas ||
 ||344 ||pet1-fanaur.py ||OK ||OK||
+||393 ||pet1-camilotorresf.py || Dos espacios en blanco entre los símbolos x||
 ||449 ||pet1-ramonvillalongagomez.py ||Texto extra en la entrada/salida ||
 ||482 ||pet1-marcolucio.py ||Espacios en blanco alrededor de ^ ||
 ||518 ||pet1-hpmaxi.py ||Texto extra en la entrada/salida ||
