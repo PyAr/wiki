@@ -43,10 +43,11 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||172 ||pet1-pepecuis.py ||OK || OK ||
 ||176 ||pet1-casoalonso.py ||Texto extra en la entrada/salida ||
 ||181 ||pet1-sedivy.py ||EOFError ||
-||189 ||pet1-volpe.py ||Falla con 0|| OK ||
 ||191 ||pet1-gedece.py ||OK ||OK||
 ||191 ||pet1-listas.py ||OK ||Falla con los casos de prueba 1073741824 y mayores ||
+||193 ||pet1-anguiam.py ||Texto extra en la entrada/salida ||
 ||201 ||pet1-sergiogragera.py ||Faltan espacios en blanco alrededor de * ||
+||203 ||pet1-volpe.py ||OK|| OK ||
 ||203 ||pet1-hpmaxi.py ||OK ||Falla con los casos de prueba 1073741824 y mayores ||
 ||154 ||pet1-cromeovl.py || Espacio en blanco al final de las respuestas ||
 ||207 ||pet1-soy_zco.py ||OK ||OK||
