@@ -1,6 +1,8 @@
 = Trabajos con Python =
 
 == 2010 ==
+ * (30/08/2010) Se busca programador python para desarrollo y deployment de sitio web para [[http://www.postapolo.com.ar/ | www.postapolo.com.ar]]. El proyecto sería hosteado en AppEngine y desarrollado con algún framework que pueda ejecutarse ahí. Incluído en el proyecto debería estar el desarrollo de la gráfica. Para mas información contactarse con <<MailTo(egutesman EN gmail PUNTO com)>>
+
  * (11/07/2010) En Core Security nos encontramos en la búsqueda de Desarrolladores Python para diferentes equipos de trabajo, para trabajar en nuestras oficinas de Capital Federal (Palermo). Somos una empresa que desarrolla e investiga tecnología de punta de seguridad informática, para ayudar a las organizaciones a protegerse y reducir el riesgo. Si estás interesado podés conocer nuestras propuestas en http://www.coresecurity.com/jobopportunities y mandarnos tu CV a <<MailTo(empleos.argentina EN coresecurity PUNTO com)>>
 
  * (14/07/2010) Desarrolladores Python: Buscamos profesionales de las carreras de Sistemas, con al menos 1 año de experiencia en desarrollo con tecnología Python para incorporar a nuestro Centro de Desarrollo en Las Cañitas. Participarán de proyectos a gran escala y trabajarán con metodologías Scrum y CMMI.  Si te interesa la propuesta, envianos tu CV a <<MailTo(careers EN hexacta PUNTO com)>> con la referencia PYTHON y conocé más de nuestra empresa en www.hexacta.com "... Estamos convencidos que se puede lograr la excelencia profesional en un entorno divertido, flexible y desafiante..."
