@@ -28,10 +28,12 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||117 ||pet1-fpalm.py ||OK ||OK ||
 ||118 ||pet1-matiasg.py ||OK ||OK ||
 ||120 ||pet1-fheinz.py ||OK ||Falla con los casos de prueba 1048576 y mayores ||
+||123||pet1-ismael.py|| OK||OK||
 ||125 ||pet1-nicoreba.py ||OK ||OK||
 ||128 ||pet1-cballard.py ||OK ||Falla con los casos de prueba 1048576 y mayores ||
 ||132 ||pet1-darni.py ||OK || OK ||
 ||140 ||pet1-ivoscc.py ||OK ||Falla con los casos de prueba 1073741824 y mayores ||
+||141 ||pet1-cromeovl.py || OK||OK||
 ||150 ||pet1-rarmas.py ||OK ||Falla con los casos de prueba 1073741824 y mayores ||
 ||153 ||pet1-matiasbellone.py ||OK || OK ||
 ||154 ||pet1-sergiogragera.py ||Falla con 1024 || Falla con 2204362183931003246689498147640480133808128 ||
@@ -49,7 +51,6 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||201 ||pet1-sergiogragera.py ||Faltan espacios en blanco alrededor de * ||
 ||203 ||pet1-volpe.py ||OK|| OK ||
 ||203 ||pet1-hpmaxi.py ||OK ||Falla con los casos de prueba 1073741824 y mayores ||
-||154 ||pet1-cromeovl.py || Espacio en blanco al final de las respuestas ||
 ||207 ||pet1-soy_zco.py ||OK ||OK||
 ||210 ||pet1-mctpyt.py ||OK ||Falla con los casos de prueba 1073741824 y mayores ||
 ||211 ||pet1-tokland.py ||OK ||Falla con los casos de prueba 4294967296 y mayores ||
