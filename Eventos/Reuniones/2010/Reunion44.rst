@@ -12,9 +12,9 @@ Definimos cuando usando: [[http://www.doodle.com/anbnmdctxm7qkxgr|encuesta!]]
   || Michel Peterson ||
   || Leonardo Vidarte ||
   || Santiago Piccinini ||
-  || Marcelo ||
+  || Marcelo Fernandez ||
   || Dave ||
-  || Manuel Fernandez ||
+  || Manuel Muradas ||
 
 
 '''Minuta'''
