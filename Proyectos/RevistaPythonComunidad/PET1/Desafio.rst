@@ -60,6 +60,7 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||263 ||pet1-lvidarte.py ||OK || No termina con valores mayores a 1048576 ||
 ||325 ||pet1-radicaled.py ||Da salidas erroneas ||
 ||344 ||pet1-fanaur.py ||OK ||OK||
+||336 || pet1-wasuaje.py||OK ||Falla con  2204362183931003246689498147640480133808128||
 ||393 ||pet1-camilotorresf.py || Dos espacios en blanco entre los símbolos x||
 ||449 ||pet1-ramonvillalongagomez.py ||Texto extra en la entrada/salida ||
 ||482 ||pet1-marcolucio.py ||Espacios en blanco alrededor de ^ ||
@@ -67,6 +68,7 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||528 ||pet1-rodrigoolmo.py ||Texto extra en la entrada/salida ||
 ||540 ||pet1-juanpablojuanpablo.py ||OK ||Falla con los casos de prueba 1073741824 y mayores ||
 ||749 ||pet1-dmlistapython.py ||Texto extra en la entrada/salida ||
+||787 ||pet1-abel.py ||OK ||Falla con los casos de prueba 1073741824 y mayores ||
 ||977 ||pet1-wasuaje.py||Texto extra en la entrada/salida ||
 ||968 ||pet1-duducosmos.py ||No produce salida ||
 ||1052 ||pet1-rodrigoolmo.py ||Texto extra en la entrada/salida y no funciona para 1024 ||
