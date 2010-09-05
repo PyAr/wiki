@@ -2,6 +2,8 @@
 
 Crea una ventana que muestra el famoso mensaje "Hola mundo".
 
+{{attachment:ttkHolamundo.png}}
+
 {{{
 #!code python
 #!/usr/bin/env python3
