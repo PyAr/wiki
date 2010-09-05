@@ -90,6 +90,9 @@ QtMultiThread : ejemplo de como manipular la GUI usando múltiples threads sin u
 === Pythoncard (wxPython) ===
 PythonCard: Ejemplo de como hacer una aplicación de escritorio desde 0 (para principiantes)
 
+=== Tkinter + ttk ===
+ttkHolamundo: una ventana que muestra el mensaje hola mundo (usando Tk themed widgets).
+
 == Emails ==
 === GMail ===
 /GmailMail : Cómo enviar emails usando Gmail como SMTP
