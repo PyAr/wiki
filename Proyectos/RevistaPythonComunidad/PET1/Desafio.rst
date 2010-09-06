@@ -25,8 +25,8 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||111 ||pet1-jmansilla.py ||OK ||OK ||
 ||111 ||pet1-hdzos.py ||OK ||OK ||
 ||114 ||pet1-fisadev.py ||OK ||OK||
+||115 ||pet1-matiasg.py ||OK ||OK ||
 ||117 ||pet1-fpalm.py ||OK ||OK ||
-||118 ||pet1-matiasg.py ||OK ||OK ||
 ||120 ||pet1-fheinz.py ||OK ||Falla con los casos de prueba 1048576 y mayores ||
 ||123||pet1-ismael.py|| OK||OK||
 ||125 ||pet1-nicoreba.py ||OK ||OK||
@@ -62,6 +62,7 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 ||344 ||pet1-fanaur.py ||OK ||OK||
 ||336 || pet1-wasuaje.py||OK ||Falla con  2204362183931003246689498147640480133808128||
 ||393 ||pet1-camilotorresf.py || Dos espacios en blanco entre los símbolos x||
+||438 ||pet1-mr.py ||Falla para 0 y 1 ||OK||
 ||449 ||pet1-ramonvillalongagomez.py ||Texto extra en la entrada/salida ||
 ||482 ||pet1-marcolucio.py ||Espacios en blanco alrededor de ^ ||
 ||518 ||pet1-hpmaxi.py ||Texto extra en la entrada/salida ||
