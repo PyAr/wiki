@@ -49,6 +49,8 @@ No hace falta registrarse, pero vení temprano para asegurarte un lugar porque l
 
  * 10:30 a 12:30 horas
 
+<<Video(http://pyar.usla.org.ar/charlasabiertas2010/intro_web_1.ogg)>>
+
 '''!FooBar (virtualenv, buildout, nose)'''
 
 ''Esta charla muestra como utilizar herramientas para producir entornos reproducibles de desarrollo, de manera que tus aplicaciones funcionen en cualquier sistema en el que desees instalarlo. ''
@@ -58,6 +60,8 @@ No hace falta registrarse, pero vení temprano para asegurarte un lugar porque l
  * Disertante: Roberto Alsina
 
  * 13 a 15 horas
+
+<<Video(http://pyar.usla.org.ar/charlasabiertas2010/foobar.ogg)>>
 
 === Día 4: Sábado 11 de Septiembre ===
 '''Introducción al Desarrollo Web II'''
