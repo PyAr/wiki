@@ -1,24 +1,26 @@
-== Reunión 43 - Martes 24 de Agosto - Ciudad de Cordoba, en Alfonsina de Belgrano -- 19hs ==
-
+== rojaReunión 43 - Martes 24 de Agosto - Ciudad de Cordoba, en Alfonsina de Belgrano -- 19hs ==
 Definimos cuando usando la lista de correo
 
 ''' Asistentes: '''
 
-  || Mariano Guerra ||
-  || Alejandro Cura ||
-  || Horacio Duran ||
-  || Natalia Bidart ||
-  || Matias Bordese ||
-  || Invitados interacionales de canonical ||
-  || Martin Gaitan ||
-  || Daniel Moisset ||
-  || Federico Heinz ||
-  || John Lenton ||
-  || Nueces ||
-  || Matias Bellone ||
+ ||Mariano Guerra ||
+ ||Alejandro Cura ||
+ ||Horacio Duran ||
+ ||Natalia Bidart ||
+ ||Matias Bordese ||
+ ||Invitados interacionales de canonical ||
+ ||Martin Gaitan ||
+ ||Daniel Moisset ||
+ ||Federico Heinz ||
+ ||John Lenton ||
+ ||Nueces ||
+ ||Matias Bellone ||
+ ||Emanuel Sartor ||
+ ||Silvestre Huens ||
+
+
 
 Si me olvide a alguien anotense
-
 
 '''Minuta'''
 
