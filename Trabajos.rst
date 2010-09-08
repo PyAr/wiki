@@ -1,5 +1,4 @@
 = Trabajos con Python =
-cdcd
 
 == 2010 ==
  * (30/08/2010) Se busca programador python para desarrollo y deployment de sitio web para [[http://www.postapolo.com.ar/ | www.postapolo.com.ar]]. El proyecto sería hosteado en [[http://code.google.com/appengine/ | Google App Engine]] y desarrollado con algún framework que pueda ejecutarse ahí. Incluído en el proyecto debería estar el desarrollo de la gráfica. Para mas información contactarse con <<MailTo(egutesman EN gmail PUNTO com)>>
