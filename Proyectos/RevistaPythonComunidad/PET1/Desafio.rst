@@ -76,7 +76,7 @@ Characters are counted with wc -c pet1-ejemplo.py
 
 
 
-= Trampas copadas/Funny chit =
+= Trampas copadas/Funny cheat =
 Escribir un enunciado es realmente difícil. Algunos abusándose de nuestra debilidad han enviado algunas entradas que se riñen con la moral y las buenas costumbres. De todas formas les damos un lugar destacado!
 
 Writting a challenge is hard. Some of you, taken adtanteges of our weekness have sent not so legal entries. Here the best ones!
