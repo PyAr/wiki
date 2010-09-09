@@ -1,13 +1,6 @@
 #acl JuanjoConti:read,write All:read
 Esta página tiene como objetivo darle soporte al desafío planteado en el primer número de la revista PET.
-
-Algunas aclaraciones al [[http://revista.python.org.ar/1/html/desafio.html|Enunciado original]]:
-
- * No se pueden usar programas externos o librerías que no estén en la stdlib.
- * En la cuenta de los caracteres se tienen en cuenta espacios en blanco,  tabulaciones y comentarios. Así que manden sus respuestas lo más cortas  posibles!
- * El número recibido es un entero >= 0.
- * Las  palabras 'entrada' y 'salida' no son parte de la entrada y salida  esperada para el programa (oscureció más de lo que aclaró)
- * La salida esperada para 0 es 0 y para 1 es 1.
+This pages has the goal of helping with the chllenge of the first PET issue.
 
 = Ranking =
 De esta página los participantes pueden bajar un programa que les permite validar su prorgama antes de enviarlo.
