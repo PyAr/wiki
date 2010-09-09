@@ -1,7 +1,7 @@
 #acl JuanjoConti:read,write All:read
 Esta página tiene como objetivo darle soporte al desafío planteado en el primer número de la revista PET.
 
-This pages has the goal of helping with the chllenge of the first PET issue.
+The goal of this page is to help with the challenge of the first PET issue.
 
 = Ranking =
 De esta página los participantes pueden bajar un programa que les permite validar su prorgama antes de enviarlo.
@@ -79,7 +79,9 @@ Characters are counted with wc -c pet1-ejemplo.py
 = Trampas copadas/Funny cheat =
 Escribir un enunciado es realmente difícil. Algunos abusándose de nuestra debilidad han enviado algunas entradas que se riñen con la moral y las buenas costumbres. De todas formas les damos un lugar destacado!
 
-Writting a challenge is hard. Some of you, taken adtanteges of our weekness have sent not so legal entries. Here the best ones!
+Write a challenge is really difficult. Some of you have taken
+advantages of our weakness and sent us solutions that are not so
+legal.
 
 ||'''chars''' ||'''script name''' ||'''feedback con pet1-test''' ||'''feedback con bignum''' ||
 ||55 ||darni ||OK ||OK ||
