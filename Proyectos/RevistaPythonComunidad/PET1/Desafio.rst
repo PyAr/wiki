@@ -1,17 +1,22 @@
 #acl JuanjoConti:read,write All:read
 Esta página tiene como objetivo darle soporte al desafío planteado en el primer número de la revista PET.
+
 This pages has the goal of helping with the chllenge of the first PET issue.
 
 = Ranking =
 De esta página los participantes pueden bajar un programa que les permite validar su prorgama antes de enviarlo.
 
-Uso: $ ./pet1-test.sh pet1-ejemplo.py
+You can download a program to test your solution.
 
-[[attachment:pet1-test|Descargar]] [[attachment:pet1-test2|Descargar]] (pet1-test2 no tiene en cuenta el stderr)
+Uso/Use: $ ./pet1-test.sh pet1-ejemplo.py
+
+[[attachment:pet1-test|Descargar]] [[attachment:pet1-test2|Descargar]] (pet1-test2 no tiene en cuenta el stderr/ pet-test2 is like 1 but without stderr)
 
 Los caracteres se cuentan con wc -c pet1-ejemplo.py
 
-Notarán que renombré sus scripts usando su usario de mail o apellido. Si envían una nueva propuesta, háganlo usando este nombre de archivo. Los que no tengan el estado en OK, deben volver a enviar su script para que pueda ser elegible.
+Characters are counted with wc -c pet1-ejemplo.py
+
+
 ||'''chars''' ||'''script name''' ||'''feedback con pet1-test''' ||'''feedback con bignum''' ||
 ||106 ||pet1-piranna.py ||Falla para 0 y 1 ||OK||
 ||111 ||pet1-pych3m4.py ||OK ||OK ||
@@ -71,7 +76,10 @@ Notarán que renombré sus scripts usando su usario de mail o apellido. Si enví
 
 
 
-= Trampas copadas =
-Escribir un enunciado es realmente difícil. Algunos abusándose de nuestra debilidad han enviado algunas entradas que se riñen con la moral y las buenas costumbres. De todas formas les damos un lugar destacado! Hasta ahora:
+= Trampas copadas/Funny chit =
+Escribir un enunciado es realmente difícil. Algunos abusándose de nuestra debilidad han enviado algunas entradas que se riñen con la moral y las buenas costumbres. De todas formas les damos un lugar destacado!
+
+Writting a challenge is hard. Some of you, taken adtanteges of our weekness have sent not so legal entries. Here the best ones!
+
 ||'''chars''' ||'''script name''' ||'''feedback con pet1-test''' ||'''feedback con bignum''' ||
 ||55 ||darni ||OK ||OK ||
