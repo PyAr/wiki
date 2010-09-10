@@ -1,3 +1,5 @@
+#acl JoaquinSorianello:read,write All:read
+
 = Donaciones =
 
 {{{#!wiki important
@@ -6,13 +8,12 @@
 Por favor, elegí una de las opciones de abajo, ¡y muchas gracias!
 }}}
 
------
+----
 
 {{{#!wiki important
 '''Hello! This is the donation page of Python Argentina.'''
 
 Please, select one of the options below, and thank you very much!
-
 }}}
 
 -----
@@ -29,3 +30,9 @@ Please, select one of the options below, and thank you very much!
 From all over the World!'''''
 
 <<CuentaDigital()>>
+
+-----
+
+
+
+= Gracias!! =
