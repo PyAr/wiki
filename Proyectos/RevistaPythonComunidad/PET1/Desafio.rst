@@ -1,20 +1,21 @@
 #acl JuanjoConti:read,write All:read
+{{{#!wiki note
 Esta página tiene como objetivo darle soporte al desafío planteado en el primer número de la revista PET.
 
-The goal of this page is to help with the challenge of the first PET issue.
-
+''The goal of this page is to help with the challenge of the first PET issue.''
+}}}
 = Ranking =
 De esta página los participantes pueden bajar un programa que les permite validar su prorgama antes de enviarlo.
 
-You can download a program to test your solution.
+''You can download a program to test your solution.''
 
-Uso/Use: $ ./pet1-test.sh pet1-ejemplo.py
+Uso/''Use'': $ ./pet1-test.sh pet1-ejemplo.py
 
-[[attachment:pet1-test|Descargar]] [[attachment:pet1-test2|Descargar]] (pet1-test2 no tiene en cuenta el stderr/ pet-test2 is like 1 but without stderr)
+[[attachment:pet1-test|Descargar]] [[attachment:pet1-test2|Descargar]] (pet1-test2 no tiene en cuenta el stderr/ ''pet-test2 is like 1 but without stderr'')
 
 Los caracteres se cuentan con wc -c pet1-ejemplo.py
 
-Characters are counted with wc -c pet1-ejemplo.py
+''Characters are counted with wc -c pet1-ejemplo.py''
 
 
 ||'''chars''' ||'''script name''' ||'''feedback con pet1-test''' ||'''feedback con bignum''' ||
@@ -79,9 +80,9 @@ Characters are counted with wc -c pet1-ejemplo.py
 = Trampas copadas/Funny cheat =
 Escribir un enunciado es realmente difícil. Algunos abusándose de nuestra debilidad han enviado algunas entradas que se riñen con la moral y las buenas costumbres. De todas formas les damos un lugar destacado!
 
-Write a challenge is really difficult. Some of you have taken
+''Write a challenge is really difficult. Some of you have taken
 advantages of our weakness and sent us solutions that are not so
-legal.
+legal.''
 
 ||'''chars''' ||'''script name''' ||'''feedback con pet1-test''' ||'''feedback con bignum''' ||
 ||55 ||darni ||OK ||OK ||
