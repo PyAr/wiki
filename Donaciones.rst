@@ -1,4 +1,4 @@
-#acl JoaquinSorianello:read,write All:read
+#acl AdminGroup:read,write All:read
 
 = Donaciones =
 
