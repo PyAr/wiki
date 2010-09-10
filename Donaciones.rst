@@ -7,15 +7,7 @@
 
 Por favor, elegí una de las opciones de abajo, ¡y muchas gracias!
 }}}
-
-----
-
-{{{#!wiki important
-'''Hello! This is the donation page of Python Argentina.'''
-
-Please, select one of the options below, and thank you very much!
-}}}
-
+[[Donations|English version]]
 -----
 
 == DineroMail ==
@@ -25,9 +17,7 @@ Please, select one of the options below, and thank you very much!
 -----
 
 == Cuenta Digital ==
-'''''¡De todo el mundo!
-
-From all over the World!'''''
+'''''¡De todo el mundo!'''''
 
 <<CuentaDigital()>>
 
