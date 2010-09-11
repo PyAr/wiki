@@ -19,6 +19,10 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 
+==== 11/09/2010 ====
+
+En esta semana lanzamos la versión en inglés del número 1 de nuestra revista. Podés leer la versión en español y en inglés en http://revista.python.org.ar/
+
 ==== 11/08/2010 ====
 
 Está abierta la inscripción para participar de la jornada sobre el
