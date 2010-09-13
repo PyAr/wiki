@@ -16,9 +16,10 @@
 [[http://python.org.ar/pyar/CharlasAbiertas2010|{{attachment:banner_charlas_abiertas.png}}]]
 <<Twitter(usuario="planetapyar")>>
 
+
+
 == Contenido ==
-## El link al RSS se eliminó temporalmente por incompatibilidades con Python 2.3 :(
-## * ["Noticias"] de PyAr, sus miembros, o noticias relevantes de Python.  [[IRSS(Noticias)]]
+
  * [[Noticias]] de PyAr, sus miembros, o noticias relevantes de Python.
 
  * [[Eventos]]: Aquí encontrarás información sobre las actividades que realizamos.
@@ -42,6 +43,8 @@
  * [[Material]]: Material de difusión, folletos, etc.
 
  * [[Trabajos]]: Cartelera de ofertas laborales relacionadas con Python.
+
+ * [[Donaciones]]: ¡Donale una moneda a PyAr!
  
 
 == Últimas noticias ==
