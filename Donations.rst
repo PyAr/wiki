@@ -8,7 +8,7 @@
 
 Please, select one of the options below, and thank you very much!
 }}}
-[[Donaciones| Versión en Español]]
+[[Donations| Versión en Español]]
 -----
 
 == DineroMail ==
