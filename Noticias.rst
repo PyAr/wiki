@@ -19,6 +19,11 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 
+
+==== 13/09/2010 ====
+
+Desde hace unos días se le [[http://python.org.ar/pyar/Donaciones | pueden hacer donaciones]] a Python Argentina! No hay límite de mucho o poco, cualquier moneda es bienvenida, :). También tenemos una [[http://python.org.ar/pyar/Donations|página en inglés ]], así que no duden en avisarle a todos sus amigos alrededor del mundo, :p
+
 ==== 11/09/2010 ====
 
 En esta semana lanzamos la versión en inglés del número 1 de nuestra revista. Podés leer la versión en español y en inglés en http://revista.python.org.ar/
