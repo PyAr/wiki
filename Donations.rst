@@ -1,6 +1,6 @@
 #acl AdminGroup:read,write All:read
 
-= Donaciones =
+= Donations =
 
 
 {{{#!wiki important
@@ -8,7 +8,7 @@
 
 Please, select one of the options below, and thank you very much!
 }}}
-[[Donations| Versión en Español]]
+[[Donaciones| Versión en Español]]
 -----
 
 == DineroMail ==
