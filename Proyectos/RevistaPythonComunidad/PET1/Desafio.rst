@@ -50,6 +50,7 @@ some@example:~$ wc -c pet1-ejemplo.py
 ||181 ||pet1-sedivy.py ||<#FF0000> EOFError || ||
 ||191 ||pet1-gedece.py ||OK ||OK||
 ||191 ||pet1-listas.py ||OK ||<#FF0000> Falla con los casos de prueba 1073741824 y mayores ||
+||192 ||pet1-utn.py ||<#FF0000> Espacio en blanco al final de la salida || ||
 ||193 ||pet1-anguiam.py ||<#FF0000> Texto extra en la entrada/salida || ||
 ||201 ||pet1-sergiogragera.py ||<#FF0000> Faltan espacios en blanco alrededor de * || ||
 ||203 ||pet1-volpe.py ||OK|| OK ||
@@ -71,7 +72,7 @@ some@example:~$ wc -c pet1-ejemplo.py
 ||518 ||pet1-hpmaxi.py ||<#FF0000> Texto extra en la entrada/salida || ||
 ||528 ||pet1-rodrigoolmo.py ||<#FF0000> Texto extra en la entrada/salida || ||
 ||540 ||pet1-juanpablojuanpablo.py ||OK ||<#FF0000> Falla con los casos de prueba 1073741824 y mayores ||
-||707 ||pet1-abel.py ||OK ||<#FF0000> Falla con los casos de prueba 1073741824 y mayores ||
+||625 ||pet1-abel.py ||OK ||<#FF0000> Falla con los casos de prueba 1073741824 y mayores ||
 ||749 ||pet1-dmlistapython.py ||<#FF0000> Texto extra en la entrada/salida || ||
 ||977 ||pet1-wasuaje.py||<#FF0000> Texto extra en la entrada/salida || ||
 ||968 ||pet1-duducosmos.py ||<#FF0000> No produce salida || ||
