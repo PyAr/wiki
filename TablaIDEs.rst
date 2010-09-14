@@ -4,7 +4,7 @@
 
 == Tabla comparativa de las features de algunos IDEs disponibles para programar en python. ==
 
-|| Editor / feature || '''Resaltado de sintaxis''' || '''Autocompletado de código''' || '''Debugger''' || '''Shell integrado''' ||
+|| '''Editor / feature''' || '''Resaltado de sintaxis''' || '''Autocompletado de código''' || '''Debugger''' || '''Shell integrado''' ||
 || Eclipse (pydev) ||<#00FF00> si ||<#00FF00> si ||<#00FF00> si ||<#FFFF00> ? ||
 || Netbeans (nbpython) ||<#00FF00> si ||<#00FF00> si ||<#00FF00> si ||<#FFFF00> ? ||
 || SPE IDE ||<#FFFF00> ? ||<#FFFF00> ? ||<#FFFF00> ? ||<#FFFF00> ? ||
