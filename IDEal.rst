@@ -23,3 +23,6 @@ Aquí se enumeran las características deseables en un IDE pero que no sean excl
  * Integración con sistemas de control de versiones (subversion, mercurial, git, etc)
  * Posibilidad de uso y modificación de plantillas (templates)
  * Manejo de proyectos
+
+
+Puedes ver una tabla comparativa de estas ''features'' en [[TablaIDEs|Tabla comparativa]] (''aun no esta completa'')
