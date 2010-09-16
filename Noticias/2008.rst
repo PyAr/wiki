@@ -1,5 +1,4 @@
 = 2008 =
-
 ==== 02/11/2008 ====
  * Vamos a participar de Fábrica de Fallas, el 1er festival de Cultura Libre y Copyleft, que tendrá lugar el 15 y 16 de noviembre de 14 a 21 hs en FM La Tribu, Lambaré 873, Ciudad de Buenos Aires. http://culturalibre.fmlatribu.com/
 
@@ -10,7 +9,7 @@
  * El 4 de Octubre del 2008 tuvo lugar la 3ra Jornada Python en Santa Fe. El lugar fue el mismo de siempre: el Auditorio de la Universidad Tecnológica Nacional, Facultad Regional Santa Fe. PyAr y LUGLi trabajaron para la organización de estas jornadas, que fueron declaradas de Interés Educativo Provincial. http://pythonsantafe.com.ar/
 
 ==== 11/09/2008 ====
- * PyAr se enorgullece de ser espónsor del Primer Encuentro por una Educación Libre, EPUEL08, que se desarrollará mañana 12 de septiembre de 9 a 19hs, bajo la convocatoria de Cáritas San isidro, la Escuela de Oficios San Cayetano (CFP401), Gleducar y la Fundación Vía Libre, en la sede de Cáritas San Isidro,  Ituzaingo 90. Más información en http://www.epuel.org.ar/
+ * PyAr se enorgullece de ser espónsor del Primer Encuentro por una Educación Libre, EPUEL08, que se desarrollará mañana 12 de septiembre de 9 a 19hs, bajo la convocatoria de Cáritas San isidro, la Escuela de Oficios San Cayetano (CFP401), Gleducar y la Fundación Vía Libre, en la sede de Cáritas San Isidro, Ituzaingo 90. Más información en http://www.epuel.org.ar/
 
 ==== 21/08/2008 ====
  * El Jueves 21 de Agosto se realizó la Reunión 30 de PyAr, con record absoluto de asistentes. Más info en [[Eventos/Reuniones/Reunion30|Reunion30]].
@@ -33,7 +32,6 @@
 ==== 02/05/2008 ====
  * Python resultó ganador del concurso Linux Journal Readers' Choice 2008, como [[http://www.linuxjournal.com/article/10065|Mejor Lenguaje de Scripting]]. Pasen y vean, y piérdanse cinco minutos leyendo el texto que tuvieron que poner para justificar qué habían pensado al momento de hacer la separación entre lenguaje "normal" y lenguaje de scripting.
 
-
 ==== 28/04/2008 ====
  * ¡Tres reuniones, tres! Están planeadas tres reuniones casi simultaneas en distintas partes del pais: Buenos Aires, Córdoba y Santa Fé. Pasen, vean el temario propuesto, e incluyan vuestro nombre en la lista de asistentes en la página de la [[http://www.python.com.ar/moin/Eventos/Reuniones/ProximaReunion|próxima reunión]].
 
@@ -50,21 +48,16 @@
  * El próximo miércoles 5 de marzo se estará realizando la 26^a^ Reunión de PyAr, en Buenos Aires, en el bar "El Clásico" de las Cañitas. Más info en [[Eventos/Reuniones/ProximaReunion|ProximaReunion]].
 
 ==== 22/02/2008 ====
-
  * Python es elegido [[http://www.linuxquestions.org/questions/2007-linuxquestions.org-members-choice-awards-79/programming-language-of-the-year-610237/|Lenguaje del Año]] nuevamente, esta vez por [[http://www.linuxquestions.org/|LinuxQuestions.org]]. C++ salió segundo, y C y PHP virtualmente empatados en el tercer puesto.
 
 ==== 21/02/2008 ====
-
  * Se ha registrado un notable incremento de tráfico en los últimos meses. El mayor crecimiento está en la época de las 7mas Jornadas Regionales de Software Libre en Córdoba... tendrá algo que ver? ;) Pueden ver el gráfico [[http://dir.gmane.org/gmane.org.user-groups.python.argentina|acá]].
-
 
 ==== 14/02/2008 ====
  * Del viernes 15 al lunes 18 de febrero de 2008 en Los Cocos, provincia de Córdoba se lleva a cabo el primer [[http://except.com.ar/cgi-bin/pycamp/|PyCamp]], un campamento para pitoneros de la región. Esta organizado por [[http://except.com.ar/|Except]].
 
-
 == Anteriores ==
-
- * [[Noticias/2007 |Año 2007]]
- * [[Noticias/2006 |Año 2006]]
- * [[Noticias/2005 |Año 2005]]
- * [[Noticias/2004 |Año 2004]]
+ * [[Noticias/2007|Año 2007]]
+ * [[Noticias/2006|Año 2006]]
+ * [[Noticias/2005|Año 2005]]
+ * [[Noticias/2004|Año 2004]]
