@@ -1,7 +1,7 @@
 = Características esenciales y deseables en un IDE =
 
 En esta página se pretende mostrar una lista ''features'' que se desearían en un Entorno de Desarrollo Integrado (IDE en inglés) para desarrollar código en python.
-
+Parece que esto se ha convertido poco a poco en un proyecto que a varios (todos? :P) nos gustaria que se lleve a cabo :)
 
 == Escenciales ==
 
@@ -9,20 +9,24 @@ Características esenciales a la hora de usar un IDE, sin ellas no nos gustaría
 
  * Resaltado de sintaxis
  * Autocompletado de código
- * Debugger
  * Shell integrado
+ * Debugger
 
 
 == Opcionales, aunque deseables ==
 
 Aquí se enumeran las características deseables en un IDE pero que no sean excluyentes a la hora de elegir uno en particular.
+Se podría ver la posibilidad de integración de estas características vía plugins.
 
- * Liviano, es decir cargar rapido y no consumir muchos recursos
+ * Integración con herramientas de documentación
+ * Empaquetador de codigo: creación de .deb, .rpm, .exe, etc...
+ * Liviano, es decir cargar rápido y no consumir muchos recursos
  * Multiplataforma
  * Integración con diseño de GUIs (qt4, gtk, wx, etc)
  * Integración con sistemas de control de versiones (subversion, mercurial, git, etc)
- * Posibilidad de uso y modificación de plantillas (templates)
+ * Posibilidad de uso y modificación de plantillas (templates, snippets)
  * Manejo de proyectos
+ * Extensible en python :)
 
 
 Puedes ver una tabla comparativa de estas ''features'' en [[TablaIDEs|Tabla comparativa]] (''aun no esta completa'')
