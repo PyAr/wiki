@@ -1,7 +1,10 @@
 = Trabajos con Python =
 
 == 2010 ==
+
  * (17/09/2010) Skills: python en general; uso de pyserial (manejo de puerto serie); mySQL, SQLite; deseable C, C++, C sharp; deseable experiencia en sistemas de tiempo real; deseable zona La Plata, o zona Belgrano. Por favor enviar el contacto a <<MailTo(mario.mongini EN atemponet PUNTO com)>>
+
+ * (15/09/2010) En [[http://atommica.com | atommica]] estamos buscando programadores Python, para backend de juegos (Django + S3 + EC2 + SimpleDB) o frontend (!ActionScript). Zona Palermo. Enviá tu CV a <<MailTo(jobs EN atommica PUNTO com)>>
 
  * (30/08/2010) Se busca programador python para desarrollo y deployment de sitio web para [[http://www.postapolo.com.ar/ | www.postapolo.com.ar]]. El proyecto sería hosteado en [[http://code.google.com/appengine/ | Google App Engine]] y desarrollado con algún framework que pueda ejecutarse ahí. Incluído en el proyecto debería estar el desarrollo de la gráfica. Para mas información contactarse con <<MailTo(egutesman EN gmail PUNTO com)>>
 
