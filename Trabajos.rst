@@ -1,6 +1,8 @@
 = Trabajos con Python =
 
 == 2010 ==
+ * (17/09/2010) Skills: python en general; uso de pyserial (manejo de puerto serie); mySQL, SQLite; deseable C, C++, C sharp; deseable experiencia en sistemas de tiempo real; deseable zona La Plata, o zona Belgrano. Por favor enviar el contacto a <<MailTo(mario.mongini EN atemponet PUNTO com)>>
+
  * (30/08/2010) Se busca programador python para desarrollo y deployment de sitio web para [[http://www.postapolo.com.ar/ | www.postapolo.com.ar]]. El proyecto sería hosteado en [[http://code.google.com/appengine/ | Google App Engine]] y desarrollado con algún framework que pueda ejecutarse ahí. Incluído en el proyecto debería estar el desarrollo de la gráfica. Para mas información contactarse con <<MailTo(egutesman EN gmail PUNTO com)>>
 
  * (11/07/2010) En Core Security nos encontramos en la búsqueda de Desarrolladores Python para diferentes equipos de trabajo, para trabajar en nuestras oficinas de Capital Federal (Palermo). Somos una empresa que desarrolla e investiga tecnología de punta de seguridad informática, para ayudar a las organizaciones a protegerse y reducir el riesgo. Si estás interesado podés conocer nuestras propuestas en http://www.coresecurity.com/jobopportunities y mandarnos tu CV a <<MailTo(empleos.argentina EN coresecurity PUNTO com)>>
