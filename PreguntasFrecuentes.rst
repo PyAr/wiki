@@ -250,6 +250,7 @@ Para construir aplicaciones web complejas en python se pueden usar alguno de los
 
 === IDEs ===
  * [[http://python.org.ar/pyar/IDEs|IDEs]]: Comparación de entornos de desarrollo
+ * [[http://python.org.ar/pyar/TablaIDEs|TablaComparativa]]: Tabla comparativa de features de los IDEs
 
 == Python en la vida real ==
 === Performance/Estabilidad de Python, ¿se la banca? ===
