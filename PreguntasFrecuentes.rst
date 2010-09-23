@@ -65,7 +65,7 @@ Algunas respuestas pueden inferirse del PythonZen
 === ¿Cuales son las ventajas/desventajas de usar listas o tuplas? Y diccionarios? ===
 La velocidad de las tuplas vs las listas, se discutió acá hace unos meses: http://grulic.org.ar/lurker/message/20051219.201756.60530154.en.html
 
-Las ventajas o desventajas de usar una u otra dependen del uso que le vaya a dar. Al ser inmutables, las tuplas pueden usarse como índices para diccionarios, las listas no. Las tuplas tienen que recostruirse cada vez que necesitás "modificarlas", las listas no.
+Las ventajas o desventajas de usar una u otra dependen del uso que le vaya a dar. Al ser inmutables, las tuplas pueden usarse como índices para diccionarios, las listas no. Las tuplas tienen que reconstruirse cada vez que necesitás "modificarlas", las listas no.
 
 Con respecto a si hay realmente diferencia en cuanto a velocidad y tamaño en memoria, las listas y las tuplas deberían ser más rápidas de recorrer, mientras que los diccionarios fueron hechos para acceder rápidamente a ítems particulares.
 
