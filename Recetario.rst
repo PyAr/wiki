@@ -147,3 +147,7 @@ LocalsDeUnaFuncionQueLanzoUnaExcepcion: ejemplo de como obtener las variables lo
 == Administracion de Sistemas Operativos ==
 
 /ListarProcesos: como listar procesos multiplataforma
+
+== Internet ==
+
+/RevisarConexion: revisar si estamos conectados a internet conexión 
