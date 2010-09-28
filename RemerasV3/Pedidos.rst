@@ -2,7 +2,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra.
 
  ||'''Nombre''' ||'''Cantidad/Talle/Color/corte''' ||'''Modo de entrega ''' ||'''Observaciones''' ||
  ||Esteban K ||2 M (hombre) Arena/Azul Marino || || ||
- ||[[mailto:martincerdeira@gmail.com|Martín Cerdeira]] ||1  M (hombre) Celeste Bandera ||Contra-reembolso || ||
+ ||[[http://www.stealthissoftware.blogspot.com|Martín Cerdeira]] ||1  M (hombre) Celeste Bandera ||Contra-reembolso || martincerdeira@gmail.com ||
  ||JuanjoConti ||2  M (hombre) Gris Oscuro/Chocolate ||personalmente en PyConAr || ||
  ||WalterAlini ||1 XXL (hombre) Gris Oscuro ||personalmente en PyConAr || ||
  ||Mariano García Berrotarán ||1 XL (hombre) ¿color? / 1 S (mujer) ¿color? ||personalmente en PyConAr || ||
@@ -10,16 +10,18 @@ Anotarse aquí implica un compromiso tácito de concretar la compra.
  ||Manuel Naranjo ||1 XXL (hombre) Azul Francia ||personalmente en PyConAr ||r ||
  ||Diego Sarmentero ||1 L (hombre) Negro, 1 L (hombre) Blanco ||personalmente en PyConAr || ||
  ||Tomas Zulberti ||2 L (hombre) Gris Oscuro / Blanco ||personalmente en PyConAr || ||
- ||Roberto L. Bozzacchi || 1 M (hombre) Azul Marino || Contra-Reebolso || robbie@metasigno.com ||
- ||DanielMoisset || 1M (hombre) cuando vea el diseño te digo el color || PyConAr || ||
- ||Eka (Esteban Feldman) ||2 M (hombre) Negro/Azul Marino || Entregar a Felipe Lerena || ||
- ||Guido Accardo || 1 L (hombre) Negro || Contra-Reebolso || gaccardo@gmail.com ||
- ||Lucio Torre || 1 XL Azul Marino || PyConAr || ||
- ||AlbertoPaparelli || 2 XL (hombre) Negro / Blanco || PyConAr || alberto@paparelli.com.ar ||
- ||Marcelo Martinovic || 2 XL (hombre) Negro / Blanco || Contra-Reebolso || marcelo.martinovic@gmail.com ||
- ||Martin Alderete || 1 S (hombre) Arena || Contra-Reebolso || malderete@gmail.com ||
- ||Horacio Bertorello || 1 L (hombre) Blanco/negro || PyConAr || svankie@gmail.com ||
- ||FacundoBatista || Dos o tres de hombre, color en función del diseño; quizás una de mujer || En PyConAr 10 || ||
+ ||Roberto L. Bozzacchi ||1 M (hombre) Azul Marino ||Contra-Reebolso || robbie@metasigno.com ||
+ ||DanielMoisset ||1M (hombre) cuando vea el diseño te digo el color ||PyConAr || ||
+ ||Eka (Esteban Feldman) ||2 M (hombre) Negro/Azul Marino ||Entregar a Felipe Lerena || ||
+ ||Guido Accardo ||1 L (hombre) Negro ||Contra-Reebolso || gaccardo@gmail.com ||
+ ||Lucio Torre ||1 XL Azul Marino ||PyConAr || ||
+ ||AlbertoPaparelli ||2 XL (hombre) Negro / Blanco ||PyConAr || alberto@paparelli.com.ar ||
+ ||Marcelo Martinovic ||2 XL (hombre) Negro / Blanco ||Contra-Reebolso || marcelo.martinovic@gmail.com ||
+ ||Martin Alderete ||1 S (hombre) Arena ||Contra-Reebolso || malderete@gmail.com ||
+ ||Horacio Bertorello ||1 L (hombre) Blanco/negro ||PyConAr || svankie@gmail.com ||
+ ||FacundoBatista ||Dos o tres de hombre, color en función del diseño; quizás una de mujer ||En PyConAr 10 || ||
+
+
 
 == FAQs ==
  * '''¿Cuánto sale? '''
@@ -32,7 +34,6 @@ Anotarse aquí implica un compromiso tácito de concretar la compra.
   * Anotá ''encomienda previo depósito'' y tu email en '''observaciones'''. Te la enviaré por encomienda a pagar vía omnibus a la ciudad que me indiques previo depósito a la cuenta bancaria que te indicaré por mail (probablemente después de la PyConAr).  Tené en cuenta que el costo de envío es a cargo del comprador.
 
 == Referencias de colores y talles ==
-
 {{http://www.agrupacionmazamorra.org.ar/sites/www.agrupacionmazamorra.org.ar/IMG/jpg/GAMA_DE_REMERAS-2.jpg}}
 
 '''ATENCION''' Por problemas de stock del proveedor, puede que no todos los colores están disponibles en todos los talles.
@@ -57,3 +58,5 @@ Medida corte mujer:
 ||M ||45 ||40 ||59 ||
 ||L ||46 ||41 ||60 ||
 ||XL ||47 ||42 ||60 ||
+
+
