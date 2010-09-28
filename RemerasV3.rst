@@ -1,4 +1,4 @@
-'''Python Argentina declara abierto el proceso de creación de las Remeras 3.0.'''. Las realizará un el [[http://www.agrupacionmazamorra.com.ar/taller-de-serigrafia-30|taller de serigrafía de la agrupación Mazamorra]] de Córdoba Capital. Los plazos son ajustados para aprovechar la realización de la PyConAr
+'''Python Argentina declara abierto el proceso de creación de las Remeras 3.0.'''. Las realizará el [[http://www.agrupacionmazamorra.com.ar/taller-de-serigrafia-30|taller de serigrafía de la agrupación Mazamorra]] de Córdoba Capital. Los plazos son ajustados para aprovechar la realización de la PyConAr
 
 
 == Proceso ==
