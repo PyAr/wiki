@@ -2,7 +2,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra.
 
  ||'''Nombre''' ||'''Cantidad/Talle/Color/corte''' ||'''Modo de entrega ''' ||'''Observaciones''' ||
  ||Esteban K ||2 M (hombre) Arena/Azul Marino || || ||
- ||[[mailto:matincerdeira@gmail.com|Martín Cerdeira]] ||1  M (hombre) Celeste Bandera ||Contra-reembolso|| ||
+ ||[[mailto:martincerdeira@gmail.com|Martín Cerdeira]] ||1  M (hombre) Celeste Bandera ||Contra-reembolso || ||
  ||JuanjoConti ||2  M (hombre) Gris Oscuro/Chocolate ||personalmente en PyConAr || ||
  ||Walter Alini ||1 XXL (hombre) ¿color? ||personalmente en PyConAr || ||
  ||Mariano García Berrotarán ||1 XL (hombre) ¿color? / 1 S (mujer) ¿color? ||personalmente en PyConAr || ||
