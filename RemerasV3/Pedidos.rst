@@ -13,7 +13,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra.
  ||Roberto L. Bozzacchi || 1 M (hombre) Azul Marino || Contra-Reebolso || robbie@metasigno.com ||
  ||DanielMoisset || 1M (hombre) cuando vea el diseño te digo el color || PyConAr || ||
  ||Eka (Esteban Feldman) ||2 M (hombre) Negro/Azul Marino || Buscando alguien que me haga la onda || ||
-
+ ||Guido Accardo || 1 L (hombre) Negro || Contra-Reebolso || gaccardo@gmail.com ||
 
 
 == FAQs ==
