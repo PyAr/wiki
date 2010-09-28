@@ -1,0 +1,41 @@
+'''Python Argentina declara abierto el proceso de creación de las Remeras 3.0.'''. Las realizará un el [[http://www.agrupacionmazamorra.com.ar/taller-de-serigrafia-30|taller de serigrafía de la agrupación Mazamorra]] de Córdoba Capital. 
+
+
+== Proceso ==
+
+Es el mismo que el usado en ediciones anteriores. Cada persona que proponga un diseño creará una página hija aquí, usando su nombre y un nro consecutivo. 
+Si te gusta algún diseño de ediciones anteriores también podés proponerlo a votación. 
+
+En esa página se incluirá una imágen (recomendamos PNG) con el frente y el reverso de la remera, y adjunto en la página (para bajarlo, pero que no se muestre), el diseño original de la misma (en formato SVG), y toda la información que corresponda (si usó alguna font en particular, puede subirla también, pero siempre todo tiene que ser de uso libre).
+
+El resto de la gente podrá visitar esas páginas, y agregar comentarios abajo de los diseños, de manera que el autor pueda mejorar (si quiere) su diseño. La gente, también, podrá usar esos diseños como base para propuestas propias. 
+
+Cuanto antes la gente suba sus diseños, más comentarios recibirán para mejorarlos y tener más chances de ganar (pero también tendrá más chances de que le forkeen el diseño, pero esa también es un poco la idea, ;).
+
+Si alguien no quiere tomarse el trabajo de armar la página, puede mandar un .zip, .tar.gz, o .tar.bz2 con el SVG y demás info a <<MailTo(gaitan EN gmail PUNTO com)>> , que yo me encargo.
+
+Tengan en cuenta que pueden elegir el color de la remera y que pueden usar un (1) color al frente, y uno o dos (1 o 2) colores en la espalda.
+
+La votación será a través de un formulario oportunamente indicando en esta página, hasta tres diseños, con un puntaje del 1 al 5 (el 5 es lo más) cada uno.
+
+El que gane tendrá el honor de recibir una remera gratis, o pagar una vuelta de cerveza a todos en la próxima reunión de PyAr, según elija.
+
+== Plazos == 
+
+- desde ahora hasta el '''sábado 2 de octubre de 2010''' para diseñar, proponer, y corregir según indicaciones.
+- desde  '''el sábado 2 hasta el martes 5 de octubre''' para votar el diseño
+- desde ahora hasta el martes 5 de octubre para hacer tu pedido y recibir tu remera en PyConAr. (si no llegás a anotarte antes de esa fecha, consultá si queda stock a <<MailTo(gaitan EN gmail PUNTO com)>> )
+
+== Propuestas == 
+
+* [[RemerasV2/FacundoBatista2]]
+* [[RemerasV2/PabloZiliani1]]
+
+== Anotá tu pedido == 
+
+
+[[HTML(<iframe width='500' height='400' frameborder='0' src='https://spreadsheets.google.com/viewform?formkey=dElRbl9oZFFGQnpDLTNwdDVEcTF2VkE6MQ&widget=true'></iframe>)]]
+
+
+
+
