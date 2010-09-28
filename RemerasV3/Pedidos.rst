@@ -8,6 +8,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra.
  ||Mariano García Berrotarán ||1 XL (hombre) ¿color? / 1 S (mujer) ¿color? ||personalmente en PyConAr || ||
  ||Manuel Quiñones ||1 S (hombre) Azul Marino ||personalmente en PyConAr || ||
  ||Manuel Naranjo ||1 XXL (hombre) Azul Francia ||personalmente en PyConAr ||r ||
+ ||Diego Sarmentero ||1 L (hombre) Negro ||personalmente en PyConAr || ||
 
 
 
