@@ -20,19 +20,17 @@ La votación será a través de un formulario oportunamente indicando en esta p�
 
 El que gane tendrá el honor de recibir una remera gratis, o pagar una vuelta de cerveza a todos en la próxima reunión de PyAr, según elija.
 
-== Plazos == 
+== Plazos ==
 
  * desde ahora hasta el '''sábado 2 de octubre de 2010''' para diseñar, proponer, y corregir según indicaciones.
  * desde  '''el sábado 2 hasta el martes 5 de octubre''' para votar el diseño
  * desde ahora hasta el martes 5 de octubre para hacer tu pedido y recibir tu remera en PyConAr. (si no llegás a anotarte antes de esa fecha, consultá si queda stock a <<MailTo(gaitan EN gmail PUNTO com)>> )
 
-== Propuestas == 
+== Propuestas ==
 
  * [[RemerasV2/FacundoBatista2]]
  * [[RemerasV2/PabloZiliani1]]
 
-== Anotá tu pedido == 
+== Anotá tu pedido ==
 
 [[https://spreadsheets.google.com/viewform?formkey=dElRbl9oZFFGQnpDLTNwdDVEcTF2VkE6MQ|En este formulario]]
-
-
