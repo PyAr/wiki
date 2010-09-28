@@ -33,4 +33,4 @@ El que gane tendrá el honor de recibir una remera gratis, o pagar una vuelta de
 
 == Anotá tu pedido ==
 
-[[https://spreadsheets.google.com/viewform?formkey=dElRbl9oZFFGQnpDLTNwdDVEcTF2VkE6MQ|En este formulario]]
+En [[RemerasV3/Pedidos]]
