@@ -17,5 +17,3 @@
  y el proyecto desarrollado para ese taller fue el puntapié inicial de [[Proyectos/Caucho]].
 
  * [[http://www.softlibre.org.ar/|Segundo Congreso Nacional de Software Libre - USUARIA 2005]].
-
- Un pequeño consejo: escribir una breve [[http://custom-essay-writing-service.org/index.php|essay]] corto, después de visitar la conferencia. Esto ayudará a obtener más información de la conferencia. Incluir en él las principales reflexiones y las ideas, que se disscussed en la conferencia. 
