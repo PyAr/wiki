@@ -3,7 +3,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra.
  ||'''Nombre''' ||'''Cantidad/Talle/Color/corte''' ||'''Modo de entrega ''' ||'''Observaciones''' ||
  ||Esteban K ||2 M (hombre) Arena/Azul Marino || || ||
  ||Martín ||1  M (hombre) ¿color? || || ||
- ||Juanjo Conti ||2  M (hombre) ¿color? ||personalmente en PyConAr || ||
+ ||JuanjoConti ||2  M (hombre) Gris Oscuro/Chocolate ||personalmente en PyConAr || ||
  ||Walter Alini ||1 XXL (hombre) ¿color? ||personalmente en PyConAr || ||
  || Mariano García Berrotarán ||1 XL (hombre) ¿color? / 1 S (mujer) ¿color? ||personalmente en PyConAr || ||
  ||Manuel Quiñones ||1 S (hombre) Azul Marino ||personalmente en PyConAr || ||
