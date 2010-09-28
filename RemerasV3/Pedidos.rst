@@ -17,6 +17,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra.
  ||Lucio Torre || 1 XL Azul Marino || PyConAr || ||
  ||AlbertoPaparelli || 2 XL (hombre) Negro / Blanco || PyConAr || alberto@paparelli.com.ar ||
  ||Marcelo Martinovic || 2 XL (hombre) Negro / Blanco || Contra-Reebolso || marcelo.martinovic@gmail.com ||
+ ||Martin Alderete || 1 S (hombre) Arena || Contra-Reebolso || malderete@gmail.com ||
 
 == FAQs ==
  * '''¿Cuánto sale? '''
