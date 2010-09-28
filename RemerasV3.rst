@@ -1,4 +1,4 @@
-'''Python Argentina declara abierto el proceso de creación de las Remeras 3.0.'''. Las realizará un el [[http://www.agrupacionmazamorra.com.ar/taller-de-serigrafia-30|taller de serigrafía de la agrupación Mazamorra]] de Córdoba Capital. 
+'''Python Argentina declara abierto el proceso de creación de las Remeras 3.0.'''. Las realizará un el [[http://www.agrupacionmazamorra.com.ar/taller-de-serigrafia-30|taller de serigrafía de la agrupación Mazamorra]] de Córdoba Capital. Los plazos son ajustados para aprovechar la realización de la PyConAr
 
 
 == Proceso ==
@@ -22,20 +22,17 @@ El que gane tendrá el honor de recibir una remera gratis, o pagar una vuelta de
 
 == Plazos == 
 
-- desde ahora hasta el '''sábado 2 de octubre de 2010''' para diseñar, proponer, y corregir según indicaciones.
-- desde  '''el sábado 2 hasta el martes 5 de octubre''' para votar el diseño
-- desde ahora hasta el martes 5 de octubre para hacer tu pedido y recibir tu remera en PyConAr. (si no llegás a anotarte antes de esa fecha, consultá si queda stock a <<MailTo(gaitan EN gmail PUNTO com)>> )
+ * desde ahora hasta el '''sábado 2 de octubre de 2010''' para diseñar, proponer, y corregir según indicaciones.
+ * desde  '''el sábado 2 hasta el martes 5 de octubre''' para votar el diseño
+ * desde ahora hasta el martes 5 de octubre para hacer tu pedido y recibir tu remera en PyConAr. (si no llegás a anotarte antes de esa fecha, consultá si queda stock a <<MailTo(gaitan EN gmail PUNTO com)>> )
 
 == Propuestas == 
 
-* [[RemerasV2/FacundoBatista2]]
-* [[RemerasV2/PabloZiliani1]]
+ * [[RemerasV2/FacundoBatista2]]
+ * [[RemerasV2/PabloZiliani1]]
 
 == Anotá tu pedido == 
 
-
-[[HTML(<iframe width='500' height='400' frameborder='0' src='https://spreadsheets.google.com/viewform?formkey=dElRbl9oZFFGQnpDLTNwdDVEcTF2VkE6MQ&widget=true'></iframe>)]]
-
-
+[[https://spreadsheets.google.com/viewform?formkey=dElRbl9oZFFGQnpDLTNwdDVEcTF2VkE6MQ|En este formulario]]
 
 
