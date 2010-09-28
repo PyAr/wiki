@@ -12,6 +12,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra.
  ||Tomas Zulberti ||2 L (hombre) Gris Oscuro / Blanco ||personalmente en PyConAr || ||
  ||Roberto L. Bozzacchi || 1 M (hombre) Azul Marino || Contra-Reebolso || robbie@metasigno.com ||
  ||DanielMoisset || 1M (hombre) cuando vea el diseño te digo el color || PyConAr || ||
+ ||Eka (Esteban Feldman) ||2 M (hombre) Negro/Azul Marino || Buscando alguien que me haga la onda || ||
 
 
 
