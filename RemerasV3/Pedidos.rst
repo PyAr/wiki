@@ -31,7 +31,10 @@ Anotarse aquí implica un compromiso tácito de concretar la compra.
   * Anotá ''encomienda previo depósito'' y tu email en '''observaciones'''. Te la enviaré por encomienda a pagar vía omnibus a la ciudad que me indiques previo depósito a la cuenta bancaria que te indicaré por mail (probablemente después de la PyConAr).  Tené en cuenta que el costo de envío es a cargo del comprador.
 
 == Referencias de colores y talles ==
+
 {{http://www.agrupacionmazamorra.org.ar/sites/www.agrupacionmazamorra.org.ar/IMG/jpg/GAMA_DE_REMERAS-2.jpg}}
+
+'''ATENCION''' Por problemas de stock del proveedor, puede que no todos los colores están disponibles en todos los talles.
 
 Es algodón peinado, buena calidad (no se deforma).
 
