@@ -11,6 +11,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra.
  ||Diego Sarmentero ||1 L (hombre) Negro ||personalmente en PyConAr || ||
  ||Tomas Zulberti ||2 L (hombre) Gris Oscuro / Blanco ||personalmente en PyConAr || ||
  ||Roberto L. Bozzacchi || 1 M (hombre) Azul Marino || Contra-Reebolso || robbie@metasigno.com ||
+ ||DanielMoisset || 1M (hombre) cuando vea el diseño te digo el color || PyConAr || ||
 
 
 
