@@ -8,7 +8,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra.
  ||Mariano García Berrotarán ||1 XL (hombre) ¿color? / 1 S (mujer) ¿color? ||personalmente en PyConAr || ||
  ||Manuel Quiñones ||1 S (hombre) Azul Marino ||personalmente en PyConAr || ||
  ||Manuel Naranjo ||1 XXL (hombre) Azul Francia ||personalmente en PyConAr ||r ||
- ||Diego Sarmentero ||1 L (hombre) Negro ||personalmente en PyConAr || ||
+ ||Diego Sarmentero ||1 L (hombre) Negro, 1 L (hombre) Blanco ||personalmente en PyConAr || ||
  ||Tomas Zulberti ||2 L (hombre) Gris Oscuro / Blanco ||personalmente en PyConAr || ||
  ||Roberto L. Bozzacchi || 1 M (hombre) Azul Marino || Contra-Reebolso || robbie@metasigno.com ||
  ||DanielMoisset || 1M (hombre) cuando vea el diseño te digo el color || PyConAr || ||
