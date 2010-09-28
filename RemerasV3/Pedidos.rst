@@ -9,6 +9,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra.
  ||Manuel Quiñones ||1 S (hombre) Azul Marino ||personalmente en PyConAr || ||
  ||Manuel Naranjo ||1 XXL (hombre) Azul Francia ||personalmente en PyConAr ||r ||
  ||Diego Sarmentero ||1 L (hombre) Negro ||personalmente en PyConAr || ||
+ ||Roberto L. Bozzacchi || 1 M (hombre) Azul Marino || Contra-Reebolso || robbie@metasigno.com ||
 
 
 
