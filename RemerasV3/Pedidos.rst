@@ -5,6 +5,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra.
  ||Martín ||1  M (hombre) ¿color? || || ||
  ||Juanjo Conti ||2  M (hombre) ¿color? ||personalmente en PyConAr || ||
  ||Walter Alini ||1 XXL (hombre) ¿color? ||personalmente en PyConAr || ||
+ || Mariano García Berrotarán ||1 XL (hombre) ¿color? / 1 S (mujer) ¿color? ||personalmente en PyConAr || ||
 
 
 
