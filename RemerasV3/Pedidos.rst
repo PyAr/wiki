@@ -19,6 +19,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra.
  ||Marcelo Martinovic || 2 XL (hombre) Negro / Blanco || Contra-Reebolso || marcelo.martinovic@gmail.com ||
  ||Martin Alderete || 1 S (hombre) Arena || Contra-Reebolso || malderete@gmail.com ||
  ||Horacio Bertorello || 1 L (hombre) Blanco/negro || PyConAr || svankie@gmail.com ||
+ ||FacundoBatista || Dos o tres de hombre, color en función del diseño; quizás una de mujer || En PyConAr 10 || ||
 
 == FAQs ==
  * '''¿Cuánto sale? '''
