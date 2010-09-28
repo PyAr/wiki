@@ -15,6 +15,8 @@ Anotarse aquí implica un compromiso tácito de concretar la compra.
  ||Eka (Esteban Feldman) ||2 M (hombre) Negro/Azul Marino || Entregar a Felipe Lerena || ||
  ||Guido Accardo || 1 L (hombre) Negro || Contra-Reebolso || gaccardo@gmail.com ||
  ||Lucio Torre || 1 XL Azul Marino || PyConAr || ||
+ ||AlbertoPaparelli || 2 XL (hombre) Negro / Blanco || PyConAr || alberto@paparelli.com.ar ||
+
 
 == FAQs ==
  * '''¿Cuánto sale? '''
