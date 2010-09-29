@@ -19,7 +19,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra.
  ||Marcelo Martinovic ||2 XL (hombre) Negro / Blanco ||Contra-Reebolso || marcelo.martinovic@gmail.com ||
  ||Martin Alderete ||1 S (hombre) Arena ||Contra-Reebolso || malderete@gmail.com ||
  ||Horacio Bertorello ||1 L (hombre) Blanco/negro ||PyConAr || svankie@gmail.com ||
- ||FacundoBatista ||Dos o tres de hombre, color en función del diseño; quizás una de mujer ||En PyConAr 10 || ||
+ ||FacundoBatista || Dos XL de hombre, un XS de hombre, y una XL de mujer; colores, a definir en función del diseño. ||En PyConAr 10 || ||
 
 
 
@@ -58,5 +58,3 @@ Medida corte mujer:
 ||M ||45 ||40 ||59 ||
 ||L ||46 ||41 ||60 ||
 ||XL ||47 ||42 ||60 ||
-
-
