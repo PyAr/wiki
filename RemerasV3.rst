@@ -31,6 +31,8 @@ El que gane tendrá el honor de recibir una remera gratis, o pagar una vuelta de
  * [[RemerasV2/FacundoBatista2]]
  * [[RemerasV2/PabloZiliani1]]
  * [[RemerasV3/LucioTorre1]]
+ * [[RemerasV3/ManuelArgüelles1]]
+ * [[RemerasV3/ManuelArgüelles2]]
 
 == Anotá tu pedido ==
 
