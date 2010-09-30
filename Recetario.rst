@@ -98,6 +98,8 @@ PythonCard: Ejemplo de como hacer una aplicación de escritorio desde 0 (para pr
 
 [[tkWindowIcon]]: una ventana con icono (usando Tk).
 
+[[tkButtonIcon]]: unos botones con iconos, ideal mini-toolbar (usando Tk).
+
 == Emails ==
 === GMail ===
 /GmailMail : Cómo enviar emails usando Gmail como SMTP
