@@ -96,6 +96,8 @@ PythonCard: Ejemplo de como hacer una aplicación de escritorio desde 0 (para pr
 === Tkinter + ttk ===
 [[ttkHolamundo]]: una ventana que muestra el mensaje hola mundo (usando Tk themed widgets).
 
+[[tkWindowIcon]]: una ventana con icono (usando Tk).
+
 == Emails ==
 === GMail ===
 /GmailMail : Cómo enviar emails usando Gmail como SMTP
