@@ -148,6 +148,8 @@ SimpleXmlElement: ejemplo de manejo de xml por elementos simples (simil php), pe
 == Python Internals ==
 LocalsDeUnaFuncionQueLanzoUnaExcepcion: ejemplo de como obtener las variables locales a la función que lanzo una excepion
 
+[[PsycoSpeedUp]]: Como acelerar las aplicaciones con Psyco, si esta presente.
+
 == Numpy, Scipy, Matplotlib ==
 [[/Histograma]]: Ejemplo sencillo de uso de la función ''hist''
 
