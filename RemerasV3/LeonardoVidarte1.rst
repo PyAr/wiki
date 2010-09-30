@@ -1,5 +1,5 @@
 Otra con el logo en la espalda.
 
-{{attachment:pyar1.png}}
+{{attachment:pyar1b.png}}
 
-[[attachment:pyar1.svg]]
+[[attachment:pyar1b.svg]]
