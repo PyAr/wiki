@@ -3,6 +3,7 @@
 ==== Código ====
 
 {{{
+#!code python
 >>> import re
 >>> mailsrch = re.compile(r'[\w\-][\w\-\.]+@[\w\-][\w\-\.]+[a-zA-Z]{1,4}')
 >>> mailsrch.findall(texto)
