@@ -11,6 +11,8 @@
 
 El código anterior devuelve una lista de strings, donde cada string es una dirección de email. El texto original puede contener basura como espcios, comas u otros caracteres.
 
+Ahora podemos [[http://xkcd.com/208/|atrapar al asesino]] sin recurrir a Perl!!
+
 ==== Autor ====
 
 JuanjoConti
