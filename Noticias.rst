@@ -78,9 +78,9 @@ nivel más avanzado. [[http://www.pyday.com.ar/rafaela2010/conference/schedule|C
 
 ==== 19/01/2010 ====
 
-Python Argentina se enorgullece de anunciar la versión 0.6 de la CDPedia.  Esta versión fue entregada a Educ.ar con vistas a la distribución en escuelas del todo el país, y ya está disponible para la descarga pública.
+Python Argentina se enorgullece de anunciar la versión 0.6 de la CDPedia.  Esta versión fue entregada a Educ.ar con vistas a la distribución en escuelas del todo el país, [[http://www.hivstdtestingclinic.com/|std testing center]] y ya está disponible para la descarga pública.
 
-La CDPedia es un proyecto del grupo de usuarios de Python Argentina para poder acceder a la información de la Wikipedia en castellano aunque no se posea una conexión a Internet.  Se puede descargar libremente de la red y grabar a CDs o DVDs para repartirlos sin restricciones.  La CDPedia funciona en cualquier computadora, ya sea que tenga Linux, MacOS o Windows como
+La CDPedia es un proyecto del grupo de usuarios de Python Argentina para poder acceder a la información de la Wikipedia en castellano aunque no se posea una conexión a Internet.  Se puede descargar [[http://www.americanhomemoving.com/c-18-dc-moving.aspx|dc moving]] libremente de la red y grabar a CDs o DVDs para repartirlos sin restricciones.  La CDPedia funciona en cualquier computadora, ya sea que tenga Linux, MacOS o Windows como
 sistema operativo.
 
 La versión 0.6 de CDPedia en DVD fue recientemente entregada [[http://essay-for.me/prices.php|buying essays]] para su evaluación a Educ.ar, que por medio de un acuerdo con Wikimedia Argentina y PyAr está planeando distribuir esta enciclopedia libre en todas las escuelas de Argentina.
