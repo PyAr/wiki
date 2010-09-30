@@ -102,7 +102,7 @@ PythonCard: Ejemplo de como hacer una aplicación de escritorio desde 0 (para pr
 
 [[tkScrollWhell]]: usando la rueda de Scroll del raton (usando Tk).
 
-[[tkOnlineOfflineIcon]]: Icono de OnLine/OffLine simple (usando Tk).
+[[tkOnlineOfflineIcon]]: Icono de On Line u Off Line simple (usando Tk).
 
 == Emails ==
 === GMail ===
