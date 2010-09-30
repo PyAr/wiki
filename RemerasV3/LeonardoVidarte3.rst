@@ -1,4 +1,4 @@
-Una variación sobre la de Manuel.
+Una variación sobre la de [[RemerasV3/ManuelArgüelles1|Manuel]].
 
 {{attachment:pyar3.png}}
 
