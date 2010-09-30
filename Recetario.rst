@@ -18,7 +18,7 @@ Cómo IterarSobrePares de una secuencia.
 
 == Expresiones regulares ==
 === Extraer todos los mails de un texto ===
-ExtraerMails de un texto utilizando el módulo re.
+/ExtraerMails de un texto utilizando el módulo re.
 == Formatos, datos, números y conversiones ==
 === aLetras ===
 [[aLetras]] : Función que al recibir un número lo convierte a letras. Regresa su forma por extensión (ejemplo: 123 -> "CIENTO VEINTITRES")
