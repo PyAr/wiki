@@ -1,1 +1,5 @@
-Escribe acerca de RemerasV3/LeonardoVidarte1 aquí.
+Otra con el logo en la espalda.
+
+{{attachment:pyar1.png}}
+
+[[attachment:pyar1.svg]]
