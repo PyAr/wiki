@@ -13,7 +13,7 @@ El código anterior devuelve una lista de strings, donde cada string es una dire
 
 Ahora podemos [[http://xkcd.com/208/|atrapar al asesino]] sin recurrir a Perl!!
 
-La expresión regular que sigue es del proyecto [http://code.djangoproject.com/browser/django/trunk/django/core/validators.py#L116|django]. 
+La expresión regular que sigue es del proyecto [[http://code.djangoproject.com/browser/django/trunk/django/core/validators.py#L116|django]]. 
 
 {{{
 #!code python
