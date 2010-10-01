@@ -22,6 +22,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra.
  ||FacundoBatista || Dos XL de hombre, un XS de hombre, y una XL de mujer; colores, a definir en función del diseño. ||En PyConAr 10 || ||
  ||Leonardo Vidarte ||2 M (hombre) Negro / Chocolate ||PyConAr || lvidarte gmail ||
  ||RamiroAlgozino || 1 M (hombre) Azul Marino ó Verde Militar||PyConAr|| ||
+ ||JuanFisanotti || 1 M (hombre) Negra o Gris Oscuro ||PyConAr|| ||
 
 
 == FAQs ==
