@@ -23,6 +23,8 @@ Anotarse aquí implica un compromiso tácito de concretar la compra.
  ||Leonardo Vidarte ||2 M (hombre) Negro / Chocolate ||PyConAr || lvidarte gmail ||
  ||RamiroAlgozino || 1 M (hombre) Azul Marino ó Verde Militar||PyConAr|| ||
  ||JuanFisanotti || 1 M (hombre) Negra o Gris Oscuro ||PyConAr|| ||
+ ||NahuelDefossé || 2 XL (hombre) Negra / Chocolate ||Contrareembolso/Envío|| nahuel (punto) defosse (en) gmail ||
+
 
 
 == FAQs ==
