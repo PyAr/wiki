@@ -23,6 +23,7 @@ email_re = re.compile(
 	    r')@(?:[A-Z0-9](?:[A-Z0-9-]{0,61}[A-Z0-9])?\.)+[A-Z]{2,6}\.?$', re.IGNORECASE)  # domain
 }}}
 
+Se puede utilizar en la receta de Juanjo arriba.
 
 ==== Autor ====
 
