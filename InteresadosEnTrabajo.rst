@@ -25,6 +25,7 @@ Si usted se inscribe acá probablemente reciba emails contactándolo.
 ||[[http://www.pguridi.com|Pedro Guridi]] ||                        ||                        ||Capital Federal, trabajo remotamente. ||
 ||Pablo Lerner ||Sí ||                        ||Capital Federal ||
 ||AlbertoPaparelli ||                        ||                        ||Capital Federal, GBA Zona Sur ||
+||ManuelQuiñones ||Sí ||No ||Santa Fe, Trabajo remotamente ||
 ||MartinAlderete ||Sí ||No ||Trabajo remotamente ||
 ||MartinGalan - <<MailTo(chinomng EN gmail PUNTO com)>> ||Sí ||No ||Santa Fe, trabajo remotamente ||
 ||Canicue  - <<MailTo(canicue EN gmail PUNTO com)>> ||Sí ||No ||Mar del Plata,trabajo remotamente ||
