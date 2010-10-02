@@ -7,7 +7,7 @@ un screenshot:
 {{attachment:screenshot.png}}
 
 {{{
-#!code: python
+#!python
 '''modulo que muestra el uso de los stock icons en gtk'''
 import gtk
 
@@ -16,13 +16,13 @@ def run():
     ventana = gtk.Window()
     ventana.set_default_size(400, 400)
 
-    box = gtk.VBox()
+    box = gtk.VBox(spacing=4)
 
     for id in gtk.stock_list_ids():
         imagen = gtk.Image()
         imagen.set_from_stock(id, gtk.ICON_SIZE_BUTTON)
 
-        etiqueta = gtk.Label(id)
+        etiqueta = gtk.Label("gtk.STOCK" + id[3:].replace("-", "_").upper())
         etiqueta.set_alignment(0.0, 0.5)
 
         caja = gtk.HBox()
@@ -45,4 +45,5 @@ def run():
 
 if __name__ == '__main__':
     run()
+
 }}}
