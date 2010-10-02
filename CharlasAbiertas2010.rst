@@ -101,6 +101,9 @@ No hace falta registrarse, pero vení temprano para asegurarte un lugar porque l
 
  * 13 a 15 horas
 
+<<Video(http://pyar.usla.org.ar/charlasabiertas2010/plone.ogg)>>
+
+
 === Día 6: Sábado 2 de Octubre ===
 '''Introducción a las Interfaces Gráficas de Escritorio II'''
 
