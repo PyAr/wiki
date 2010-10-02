@@ -82,6 +82,8 @@ GtkLabelConColor: ejemplo de como cambiar el color de un label sin usar pango ma
 
 [[/GtkXMLRPCServer]] Servidor XMLRPC dentro de un hilo gtk
 
+/GtkStockItems: ejemplo que muestra todos los iconos stock de gtk con su respectivo nombre
+
 === Gtk + glade ===
 [[GtkGladeHolaMundoOO]] : una ventana que muestra el mensaje hola mundo programado utilizando orientacion a objetos
 
