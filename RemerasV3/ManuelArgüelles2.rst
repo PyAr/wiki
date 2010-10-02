@@ -4,3 +4,7 @@ Una sutil modificación del diseño 1.
 
 
 [[attachment:v2.tar.gz|svg]]
+
+
+== Comentarios ==
+...
