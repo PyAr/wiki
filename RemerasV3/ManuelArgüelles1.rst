@@ -4,3 +4,7 @@ Un lindo tapiz blanco y negro de serpientes pythonicas!
 
 
 [[http://www.agrupacionmazamorra.org.ar/sites/www.agrupacionmazamorra.org.ar/IMG/gz/v1-tar.gz|svg]]
+
+
+== Comentarios ==
+...
