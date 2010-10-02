@@ -2,6 +2,10 @@
 
 ejemplo que muestra todos los iconos stock de gtk con su respectivo nombre 
 
+un screenshot:
+
+{{attachment:screenshot.png}}
+
 {{{
 #!code: python
 '''modulo que muestra el uso de los stock icons en gtk'''
