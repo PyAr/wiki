@@ -4,7 +4,7 @@ ejemplo que muestra todos los iconos stock de gtk con su respectivo nombre
 
 un screenshot:
 
-{{attachment:screenshot.png}}
+{{attachment:stock-gtk.png}}
 
 {{{
 #!python
