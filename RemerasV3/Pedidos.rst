@@ -25,6 +25,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra.
  ||JuanFisanotti || 1 M (hombre) Negra o Gris Oscuro ||PyConAr|| ||
  ||NahuelDefossé || 2 XL (hombre) Negra / Chocolate ||Contrareembolso/Envío|| nahuel (punto) defosse (en) gmail ||
  ||ManuelKaufmann || 2 L (hombre) Naranja / Roja || PyConAr || ||
+ ||NicoEchaniz || 2 M (hombre) Gris Oscuro / Rojo || PyConAr || ||
 
 
 
