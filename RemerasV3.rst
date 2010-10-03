@@ -1,14 +1,44 @@
 '''Python Argentina declara abierto el proceso de creación de las Remeras 3.0.'''. Las realizará el [[http://www.agrupacionmazamorra.com.ar/taller-de-serigrafia-30|taller de serigrafía de la agrupación Mazamorra]] de Córdoba Capital. Los plazos son ajustados para aprovechar la realización de la PyConAr
 
+== Votación ==
+
+A través de este [[https://spreadsheets.google.com/gform?key=tefOC9CaZLH4nxxduOD1TdQ&hl=es#edit|formulario]]. 
+
+== Propuestas ==
+
+El plazo para enviar diseños expiró. Estas son las opciones por las que podés votar. 
+
+ * RemerasV2/FacundoBatista2
+
+ * RemerasV2/PabloZiliani1
+
+ * RemerasV3/LucioTorre1
+
+ * RemerasV3/ManuelArgüelles1
+
+ * RemerasV3/ManuelArgüelles2
+
+ * RemerasV3/ManuelArgüelles3
+
+ * RemerasV3/LeonardoVidarte1
+
+ * RemerasV3/LeonardoVidarte2
+
+ * RemerasV3/LeonardoVidarte3
+
+ * RemerasV3/LeonardoVidarte4
+
+== Anotá tu pedido ==
+
+En [[RemerasV3/Pedidos]]
 
 == Proceso ==
 
-Es el mismo que el usado en ediciones anteriores. Cada persona que proponga un diseño creará una página hija aquí, usando su nombre y un nro consecutivo. 
-Si te gusta algún diseño de ediciones anteriores también podés proponerlo a votación. 
+Es el mismo que el usado en ediciones anteriores. Cada persona que proponga un diseño creará una página hija aquí, usando su nombre y un nro consecutivo.  Si te gusta algún diseño de ediciones anteriores también podés proponerlo a votación.
 
 En esa página se incluirá una imágen (recomendamos PNG) con el frente y el reverso de la remera, y adjunto en la página (para bajarlo, pero que no se muestre), el diseño original de la misma (en formato SVG), y toda la información que corresponda (si usó alguna font en particular, puede subirla también, pero siempre todo tiene que ser de uso libre).
 
-El resto de la gente podrá visitar esas páginas, y agregar comentarios abajo de los diseños, de manera que el autor pueda mejorar (si quiere) su diseño. La gente, también, podrá usar esos diseños como base para propuestas propias. 
+El resto de la gente podrá visitar esas páginas, y agregar comentarios abajo de los diseños, de manera que el autor pueda mejorar (si quiere) su diseño. La gente, también, podrá usar esos diseños como base para propuestas propias.
 
 Cuanto antes la gente suba sus diseños, más comentarios recibirán para mejorarlos y tener más chances de ganar (pero también tendrá más chances de que le forkeen el diseño, pero esa también es un poco la idea, ;).
 
@@ -21,24 +51,8 @@ La votación será a través de un formulario oportunamente indicando en esta p�
 El que gane tendrá el honor de recibir una remera gratis, o pagar una vuelta de cerveza a todos en la próxima reunión de PyAr, según elija.
 
 == Plazos ==
-
  * desde ahora hasta el '''sábado 2 de octubre de 2010''' para diseñar, proponer, y corregir según indicaciones.
+
  * desde  '''el sábado 2 hasta el martes 5 de octubre''' para votar el diseño
+
  * desde ahora hasta el martes 5 de octubre para hacer tu pedido y recibir tu remera en PyConAr. (si no llegás a anotarte antes de esa fecha, consultá si queda stock a <<MailTo(gaitan EN gmail PUNTO com)>> )
-
-== Propuestas ==
-
- * [[RemerasV2/FacundoBatista2]]
- * [[RemerasV2/PabloZiliani1]]
- * [[RemerasV3/LucioTorre1]]
- * [[RemerasV3/ManuelArgüelles1]]
- * [[RemerasV3/ManuelArgüelles2]]
- * [[RemerasV3/LeonardoVidarte1]]
- * [[RemerasV3/LeonardoVidarte2]]
- * [[RemerasV3/LeonardoVidarte3]]
- * [[RemerasV3/ManuelArgüelles3]]
- * [[RemerasV3/LeonardoVidarte4]]
-
-== Anotá tu pedido ==
-
-En [[RemerasV3/Pedidos]]
