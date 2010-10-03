@@ -168,3 +168,7 @@ LocalsDeUnaFuncionQueLanzoUnaExcepcion: ejemplo de como obtener las variables lo
 /RevisarConexion: revisar si estamos conectados a internet conexión.
 
 /ObtenerBytesTransferidos: obtener la cantidad de datos transferidos en Bytes. 
+
+== Misceláneo ==
+
+/MatrixPythonToy: Efecto "The Matrix" en linea de comandos, ideal CLI Screen Saver / Screen Lock.
