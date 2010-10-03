@@ -27,6 +27,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra.
  ||ManuelKaufmann || 2 L (hombre) Naranja / Roja || PyConAr || ||
  ||NicoEchaniz || 2 M (hombre) Gris Oscuro / Rojo || PyConAr || ||
  ||Mariano Verdú || 1M (hombre) Depende el diseño, luego edito || en PyConAr || ||
+ ||Claudio Canepa || 1L (hombre) Azul Francia || en PyConAr || ||
 
 
 
