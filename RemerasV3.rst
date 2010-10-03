@@ -12,7 +12,9 @@ El plazo para enviar diseños expiró. Estas son las opciones por las que podés
 
  * RemerasV2/PabloZiliani1
 
- * RemerasV3/LucioTorre1
+ * RemerasV3/LucioTorre1  
+
+ * [[RemerasV3/LucioTorre1|RemerasV3/LucioTorre2]]
 
  * RemerasV3/ManuelArgüelles1
 
