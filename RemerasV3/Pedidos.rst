@@ -26,6 +26,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra.
  ||NahuelDefossé || 2 XL (hombre) Negra / Chocolate ||Contrareembolso/Envío|| nahuel (punto) defosse (en) gmail ||
  ||ManuelKaufmann || 2 L (hombre) Naranja / Roja || PyConAr || ||
  ||NicoEchaniz || 2 M (hombre) Gris Oscuro / Rojo || PyConAr || ||
+ ||Mariano Verdú || 1M (hombre) Depende el diseño, luego edito || en PyConAr || ||
 
 
 
