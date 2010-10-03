@@ -4,6 +4,8 @@
 
 Podés puntuar los diseños a través de este [[https://spreadsheets.google.com/viewform?formkey=dGVmT0M5Q2FaTEg0bnh4ZHVPRDFUZFE6MQ|formulario]]. La votación cierra el martes 5/11 a las 15hs. 
 
+<<GoogleSpreadSheet(dGVmT0M5Q2FaTEg0bnh4ZHVPRDFUZFE6MQ)>>
+
 == Propuestas ==
 
 El plazo para enviar diseños expiró. Estas son las opciones por las que podés votar. 
