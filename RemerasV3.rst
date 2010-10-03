@@ -2,7 +2,7 @@
 
 == Votación ==
 
-A través de este [[https://spreadsheets.google.com/gform?key=tefOC9CaZLH4nxxduOD1TdQ&hl=es#edit|formulario]]. 
+A través de este [[https://spreadsheets.google.com/viewform?formkey=dGVmT0M5Q2FaTEg0bnh4ZHVPRDFUZFE6MQ|formulario]]. 
 
 == Propuestas ==
 
