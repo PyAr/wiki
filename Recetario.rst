@@ -165,4 +165,6 @@ LocalsDeUnaFuncionQueLanzoUnaExcepcion: ejemplo de como obtener las variables lo
 
 == Internet ==
 
-/RevisarConexion: revisar si estamos conectados a internet conexión 
+/RevisarConexion: revisar si estamos conectados a internet conexión.
+
+/ObtenerBytesTransferidos: obtener la cantidad de datos transferidos en Bytes. 
