@@ -19,19 +19,19 @@ Anotarse aquí implica un compromiso tácito de concretar la compra.
  ||Marcelo Martinovic ||2 XL (hombre) Negro / Blanco ||Contra-Reebolso || marcelo.martinovic@gmail.com ||
  ||Martin Alderete ||2 S (hombre) Arena / Gris oscuro o Chocolate ||Contra-Reebolso || malderete@gmail.com ||
  ||Horacio Bertorello ||1 L (hombre) Blanco/negro ||PyConAr || svankie@gmail.com ||
- ||FacundoBatista || Dos XL de hombre, un XS de hombre, y una XL de mujer; colores, a definir en función del diseño. ||En PyConAr 10 || ||
- ||Leonardo Vidarte ||2 M (hombre) Negro / Chocolate ||PyConAr || lvidarte gmail ||
- ||RamiroAlgozino || 1 M (hombre) Azul Marino ó Verde Militar||PyConAr|| ||
- ||JuanFisanotti || 1 M (hombre) Negra o Gris Oscuro ||PyConAr|| ||
- ||NahuelDefossé || 2 XL (hombre) Negra / Chocolate ||Contrareembolso/Envío|| nahuel (punto) defosse (en) gmail ||
- ||ManuelKaufmann || 2 L (hombre) Naranja / Roja || PyConAr || ||
- ||NicoEchaniz || 2 M (hombre) Gris Oscuro / Rojo || PyConAr || ||
- ||Mariano Verdú || 1M (hombre) Depende el diseño, luego edito || en PyConAr || ||
- ||Claudio Canepa || 1L (hombre) Azul Francia || en PyConAr || ||
- ||Manuel Muradás || 2 L (hombre) Negro Naranja (tal vez edite al ver el diseño elegido) || en PyConAr || ||
- ||Ariel Rossanigo || 2 L (hombre) Gris Oscuro/Arena 1 M (Mujer) Negra || en PyConAr || ||
- ||Manuel Argüelles || 1 S (hombre) Negra (tal vez edite al ver el diseño) || en PyConAr || ||
-
+ ||FacundoBatista ||Dos XL de hombre, un XS de hombre, y una XL de mujer; colores, a definir en función del diseño. ||En PyConAr 10 || ||
+ ||Leonardo Vidarte ||2 M (hombre) Negro / Chocolate ||PyConAr ||lvidarte gmail ||
+ ||RamiroAlgozino ||1 M (hombre) Azul Marino ó Verde Militar ||PyConAr || ||
+ ||JuanFisanotti ||1 M (hombre) Negra o Gris Oscuro ||PyConAr || ||
+ ||NahuelDefossé ||2 XL (hombre) Negra / Chocolate ||Contrareembolso/Envío ||nahuel (punto) defosse (en) gmail ||
+ ||ManuelKaufmann ||2 L (hombre) Naranja / Roja ||PyConAr || ||
+ ||NicoEchaniz ||2 M (hombre) Gris Oscuro / Rojo ||PyConAr || ||
+ ||Mariano Verdú ||1M (hombre) Depende el diseño, luego edito ||en PyConAr || ||
+ ||Claudio Canepa ||1L (hombre) Azul Francia ||en PyConAr || ||
+ ||Manuel Muradás ||2 L (hombre) Negro Naranja (tal vez edite al ver el diseño elegido) ||en PyConAr || ||
+ ||Ariel Rossanigo ||2 L (hombre) Gris Oscuro/Arena 1 M (Mujer) Negra ||en PyConAr || ||
+ ||Manuel Argüelles ||1 S (hombre) Negra (tal vez edite al ver el diseño) ||en PyConAr || ||
+ ||Juan Rodriguez Monti ||2 XL (hombre) Negra y Azul Francia || personalmente en PyConAr || juanrodriguezmonti (en) gmail (punto) com || 
 
 
 == FAQs ==
@@ -69,3 +69,4 @@ Medida corte mujer:
 ||M ||45 ||40 ||59 ||
 ||L ||46 ||41 ||60 ||
 ||XL ||47 ||42 ||60 ||
+
