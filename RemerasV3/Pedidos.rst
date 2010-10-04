@@ -31,7 +31,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra.
  ||Manuel Muradás ||2 L (hombre) Negro Naranja (tal vez edite al ver el diseño elegido) ||en PyConAr || ||
  ||Ariel Rossanigo ||2 L (hombre) Gris Oscuro/Arena 1 M (Mujer) Negra ||en PyConAr || ||
  ||Manuel Argüelles ||1 S (hombre) Negra (tal vez edite al ver el diseño) ||en PyConAr || ||
- ||Juan Rodriguez Monti ||2 XL (hombre) Negra y Azul Francia || personalmente en PyConAr || juanrodriguezmonti (en) gmail (punto) com || 
+ ||Juan Rodriguez Monti ||2 XL (hombre) Negra y Azul Francia ||personalmente en PyConAr ||juanrodriguezmonti (en) gmail (punto) com ||
 
 
 == FAQs ==
@@ -69,4 +69,3 @@ Medida corte mujer:
 ||M ||45 ||40 ||59 ||
 ||L ||46 ||41 ||60 ||
 ||XL ||47 ||42 ||60 ||
-
