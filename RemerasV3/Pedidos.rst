@@ -29,6 +29,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra.
  ||Mariano Verdú || 1M (hombre) Depende el diseño, luego edito || en PyConAr || ||
  ||Claudio Canepa || 1L (hombre) Azul Francia || en PyConAr || ||
  ||Manuel Muradás || 2 L (hombre) Negro Naranja (tal vez edite al ver el diseño elegido) || en PyConAr || ||
+ ||Ariel Rossanigo || 2 L (hombre) Gris Oscuro/Arena 1 M (Mujer) Negra || en PyConAr || ||
 
 
 
