@@ -30,6 +30,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra.
  ||Claudio Canepa || 1L (hombre) Azul Francia || en PyConAr || ||
  ||Manuel Muradás || 2 L (hombre) Negro Naranja (tal vez edite al ver el diseño elegido) || en PyConAr || ||
  ||Ariel Rossanigo || 2 L (hombre) Gris Oscuro/Arena 1 M (Mujer) Negra || en PyConAr || ||
+ ||Manuel Argüelles || 1 S (hombre) Negra (tal vez edite al ver el diseño) || en PyConAr || ||
 
 
 
