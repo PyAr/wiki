@@ -32,6 +32,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra.
  ||Ariel Rossanigo ||2 L (hombre) Gris Oscuro/Arena 1 M (Mujer) Negra ||en PyConAr || ||
  ||Manuel Argüelles ||1 S (hombre) Negra (tal vez edite al ver el diseño) ||en PyConAr || ||
  ||Juan Rodriguez Monti ||2 XL (hombre) Negra y Azul Francia ||personalmente en PyConAr ||juanrodriguezmonti (en) gmail (punto) com ||
+ ||OSiRiS (OSiUX) || 1 XXL (hombre) Negra preferentemente || retira Joac en PyConAr || osiux@osiux.com.ar ||
 
 
 == FAQs ==
