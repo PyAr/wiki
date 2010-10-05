@@ -31,7 +31,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra. Hasta el __
 ||Manuel Muradás ||2 L (hombre) Negro Naranja (tal vez edite al ver el diseño elegido) ||en PyConAr || ||
 ||Ariel Rossanigo ||2 L (hombre) Gris Oscuro/Arena 1 M (Mujer) Negra ||en PyConAr || ||
 ||Manuel Argüelles ||1 S (hombre) Negra (tal vez edite al ver el diseño) ||en PyConAr || ||
-||Juan Rodriguez Monti ||2 XL (hombre) Negra y Azul Francia ||personalmente en PyConAr ||juanrodriguezmonti (en) gmail (punto) com ||
+||Juan Rodriguez Monti ||1 XL (hombre) Negra ||personalmente en PyConAr ||juanrodriguezmonti (en) gmail (punto) com ||
 ||OSiRiS (OSiUX) ||1 XXL (hombre) Negra preferentemente ||retira Joac en PyConAr || osiux@osiux.com.ar ||
 ||HectorSanchez (Karucha) ||1 XL (hombre) Verde #088A08 / Roja , y 1 S (mujer) Roja ||en PyConAr || ||
 ||Orfi Schleppi ||1 M (mujer) Negra y 1 XXL (hombre) Negra ||en PyConAr || ||
