@@ -21,7 +21,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra. Hasta el __
 ||Martin Alderete ||2 S (hombre) Arena / Gris oscuro ||Contra-Reebolso || malderete@gmail.com ||
 ||Horacio Bertorello ||1 L (hombre) Blanco/negro ||PyConAr || svankie@gmail.com ||
 ||FacundoBatista ||Dos XL de hombre, un XS de hombre, y una XL de mujer; colores, a definir en función del diseño. ||En PyConAr 10 || ||
-||Leonardo Vidarte ||2 M (hombre) Negro / Chocolate ||PyConAr ||lvidarte gmail ||
+||Leonardo Vidarte ||1 M (hombre) Negro ||PyConAr ||lvidarte gmail ||
 ||RamiroAlgozino ||1 M (hombre) Azul Marino ó Verde Militar ||PyConAr || ||
 ||JuanFisanotti ||1 M (hombre) Negra o Gris Oscuro ||PyConAr || ||
 ||NahuelDefossé ||2 XL (hombre) Negra / Chocolate ||Contrareembolso/Envío ||nahuel (punto) defosse (en) gmail ||
