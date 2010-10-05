@@ -39,6 +39,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra. Hasta el __
 ||EzequielMarquez ||1 M (hombre) Negra o Azul Marino ||PyConAr || ||
 ||SamantaFernandez ||3 (mujer, talle a confirmar hoy) Negro, Azul Marino y Rojo ||personalmente en PyConAr ||samanta.fernandez  gmail ||
 ||DiegoMascialino ||1 L (hombre) Azul Marino ||PyConAr || ||
+||Patricio Gómez ||1 XL (hombre) Azul Marino ||PyConAr || ||
 
 
 
