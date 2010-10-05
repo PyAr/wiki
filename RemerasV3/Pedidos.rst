@@ -33,7 +33,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra.
  ||Manuel Argüelles ||1 S (hombre) Negra (tal vez edite al ver el diseño) ||en PyConAr || ||
  ||Juan Rodriguez Monti ||2 XL (hombre) Negra y Azul Francia ||personalmente en PyConAr ||juanrodriguezmonti (en) gmail (punto) com ||
  ||OSiRiS (OSiUX) || 1 XXL (hombre) Negra preferentemente || retira Joac en PyConAr || osiux@osiux.com.ar ||
- ||HectorSanchez (Karucha) || 1 L (hombre) Verde #088A08 / Roja , y 1 S (mujer) Roja || en PyConAr ||  ||
+ ||HectorSanchez (Karucha) || 1 XL (hombre) Verde #088A08 / Roja , y 1 S (mujer) Roja || en PyConAr ||  ||
 
 
 == FAQs ==
