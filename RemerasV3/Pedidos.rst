@@ -34,7 +34,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra.
  ||Juan Rodriguez Monti ||2 XL (hombre) Negra y Azul Francia ||personalmente en PyConAr ||juanrodriguezmonti (en) gmail (punto) com ||
  ||OSiRiS (OSiUX) || 1 XXL (hombre) Negra preferentemente || retira Joac en PyConAr || osiux@osiux.com.ar ||
  ||HectorSanchez (Karucha) || 1 XL (hombre) Verde #088A08 / Roja , y 1 S (mujer) Roja || en PyConAr ||  ||
-
+ ||Orfi Schleppi || 1 M (mujer) Negra y 1 XXL (hombre) Negra || en PyConAr || ||
 
 == FAQs ==
  * '''¿Cuánto sale? '''
