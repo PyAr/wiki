@@ -1,8 +1,23 @@
 '''Python Argentina declara abierto el proceso de creación de las Remeras 3.0.'''. Las realizará el [[http://www.agrupacionmazamorra.com.ar/taller-de-serigrafia-30|taller de serigrafía de la agrupación Mazamorra]] de Córdoba Capital. Los plazos son ajustados para aprovechar la realización de la PyConAr
 
-== Votación ==
 
-El plazo de votación terminó. En unos minutos los resultados!
+== Resultado == 
+
+Tenemos un ganador!
+
+[[RemerasV3/ManuelArgüelles3]]
+
+{{attachment:arguellesv3.png||height="295px",width="814px"}}
+
+Aquí [[https://spreadsheets.google.com/pub?key=0Au9td98rqeZ0dGVmT0M5Q2FaTEg0bnh4ZHVPRDFUZFE&hl=es&single=true&gid=0&output=html|la planilla de votos]]
+
+
+Tenés hasta mañana a las 13hs para encargar tu pedido. Las remeras serán impresas en blanco sobre las remeras oscura (negro, gris topo, azul marino, etc) y en negro sobre las claras. 
+
+== Anotá tu pedido ==
+
+En [[RemerasV3/Pedidos]]
+
 
 == Propuestas ==
 
@@ -30,9 +45,6 @@ El plazo para enviar diseños expiró. Estas son las opciones por las que podés
 
  * RemerasV3/LeonardoVidarte4
 
-== Anotá tu pedido ==
-
-En [[RemerasV3/Pedidos]]
 
 == Proceso ==
 
