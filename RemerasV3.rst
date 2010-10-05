@@ -6,7 +6,7 @@ Tenemos un ganador!
 
 [[RemerasV3/ManuelArgüelles3]]
 
-{{attachment:arguellesv3.png||height="295px",width="814px"}}
+{{http://python.org.ar/pyar/RemerasV3/ManuelArg%C3%BCelles3?action=AttachFile&do=get&target=arguellesv3.png||height="295px",width="814px"}}
 
 Aquí [[https://spreadsheets.google.com/pub?key=0Au9td98rqeZ0dGVmT0M5Q2FaTEg0bnh4ZHVPRDFUZFE&hl=es&single=true&gid=0&output=html|la planilla de votos]]
 
