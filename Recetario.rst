@@ -84,6 +84,8 @@ GtkLabelConColor: ejemplo de como cambiar el color de un label sin usar pango ma
 
 /GtkStockItems: ejemplo que muestra todos los iconos stock de gtk con su respectivo nombre
 
+/GtkWebkitEditor: ejemplo de como usar webkit para editar paginas HTML como si fuera un editor
+
 === Gtk + glade ===
 [[GtkGladeHolaMundoOO]] : una ventana que muestra el mensaje hola mundo programado utilizando orientacion a objetos
 
