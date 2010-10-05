@@ -2,6 +2,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra. Hasta el __
 
 ||'''Nombre''' ||'''Cantidad/Talle/Color/corte''' ||'''Modo de entrega ''' ||'''Observaciones''' ||
 ||Esteban K ||2 M (hombre) Arena/Azul Marino || || ||
+||Roberto Alsina||2 XXL Amarillo/Azul Marino || PyCon en persona || Solo si son XXL en serio. No talle Hobbit :-) ||
 ||[[http://www.stealthissoftware.blogspot.com|Martín Cerdeira]] ||1  M (hombre) Celeste Bandera ||Contra-reembolso || martincerdeira@gmail.com ||
 ||JuanjoConti ||2  M (hombre) Gris Oscuro/Celeste bandera ||personalmente en PyConAr || ||
 ||WalterAlini ||1 XXL (hombre) color-a-definir ||personalmente en PyConAr || ||
