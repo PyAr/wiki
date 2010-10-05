@@ -1,8 +1,7 @@
 Anotarse aquí implica un compromiso tácito de concretar la compra. Hasta el __miercoles 6 a las 13hs está abierta la lista__ para agregarse o modificar el pedido.  NO HAY STOCK de remeras en color CHOCOLATE y VERDE MILITAR. El precio de la remera es $35.-
-
 ||'''Nombre''' ||'''Cantidad/Talle/Color/corte''' ||'''Modo de entrega ''' ||'''Observaciones''' ||
 ||Esteban K ||2 M (hombre) Arena/Azul Marino || || ||
-||Roberto Alsina||2 XXL Amarillo/Azul Marino || PyCon en persona || Solo si son XXL en serio. No talle Hobbit :-) ||
+||Roberto Alsina ||2 XXL Amarillo/Azul Marino ||PyCon en persona ||Solo si son XXL en serio. No talle Hobbit :-) ||
 ||[[http://www.stealthissoftware.blogspot.com|Martín Cerdeira]] ||1  M (hombre) Celeste Bandera ||Contra-reembolso || martincerdeira@gmail.com ||
 ||JuanjoConti ||2  M (hombre) Gris Oscuro/Celeste bandera ||personalmente en PyConAr || ||
 ||WalterAlini ||1 XXL (hombre) color-a-definir ||personalmente en PyConAr || ||
@@ -40,6 +39,8 @@ Anotarse aquí implica un compromiso tácito de concretar la compra. Hasta el __
 ||SamantaFernandez ||3 (mujer, talle a confirmar hoy) Negro, Azul Marino y Rojo ||personalmente en PyConAr ||samanta.fernandez  gmail ||
 ||DiegoMascialino ||1 L (hombre) Azul Marino ||PyConAr || ||
 ||Patricio Gómez ||1 XL (hombre) Azul Marino ||PyConAr || ||
+||SebastianMarro||1 XL (hombre) Gris Oscuro, 1 XL (hombre) Negra, 1 XL (hombre) Blanca, 1 L (hombre) Negra, 1 M (hombre) Negra||PyConAr|| ||
+
 
 
 
@@ -78,3 +79,5 @@ Medida corte mujer:
 ||M ||45 ||40 ||59 ||
 ||L ||46 ||41 ||60 ||
 ||XL ||47 ||42 ||60 ||
+
+
