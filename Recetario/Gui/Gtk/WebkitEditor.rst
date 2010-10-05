@@ -4,6 +4,10 @@ ejemplo de como usar webkit para editar paginas HTML como si fuera un editor
 
 para probarlo correlo, entra una direccion que empiece con http://, hace foco en alguna parte de la pagina y ponete a tipear como si fuera un editor de texto comun.
 
+un ejemplo de su uso (tarea del autor encontrar los cambios ;)
+
+{{attachment:webkit.png}}
+
 {{{
 #!code python
 import gtk
