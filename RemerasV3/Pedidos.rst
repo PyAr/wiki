@@ -2,7 +2,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra. Hasta el __
 ||'''Nombre''' ||'''Cantidad/Talle/Color/corte''' ||'''Modo de entrega ''' ||'''Observaciones''' ||
 ||Esteban K ||2 M (hombre) Arena/Azul Marino || || ||
 ||Roberto Alsina ||2 XXL Amarillo/Azul Marino ||PyCon en persona ||Solo si son XXL en serio. No talle Hobbit :-) ||
-||[[http://www.stealthissoftware.blogspot.com|Martín Cerdeira]] ||1  M (hombre) Azul Marino ||Contra-reembolso || martincerdeira@gmail.com ||
+||[[http://www.stealthissoftware.blogspot.com|Martín Cerdeira]] ||1  M (hombre) Azul Marino ||Contra-reembolso || <<MailTo(martincerdeira EN gmail PUNTO com)>> ||
 ||JuanjoConti ||2  M (hombre) Gris Oscuro/Celeste bandera ||personalmente en PyConAr || ||
 ||WalterAlini ||1 XXL (hombre) Gris Oscuro ||personalmente en PyConAr || ||
 ||Mariano García Berrotarán ||1 XL (hombre) ¿color? / 1 S (mujer) ¿color? ||personalmente en PyConAr || ||
@@ -10,7 +10,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra. Hasta el __
 ||Manuel Naranjo ||1 XXL (hombre) Azul Francia ||personalmente en PyConAr ||r ||
 ||Diego Sarmentero ||1 L (hombre) Negro, 1 L (hombre) Blanco ||personalmente en PyConAr || ||
 ||Tomas Zulberti ||3 L (hombre) Azul Marino / Blanco / Arena ||personalmente en PyConAr || ||
-||Roberto L. Bozzacchi ||1 M (hombre) Azul Marino ||Contra-Reebolso || robbie@metasigno.com ||
+||Roberto L. Bozzacchi ||1 M (hombre) Azul Marino ||Contra-Reebolso || <<MailTo(robbie EN metasigno PUNTO com)>> ||
 ||DanielMoisset ||1M (hombre) cuando vea el diseño te digo el color ||PyConAr || ||
 ||Eka (Esteban Feldman) ||2 M (hombre) Negro/Azul Marino ||Entregar a Felipe Lerena || ||
 ||Guido Accardo ||1 L (hombre) Negro ||Contra-Reebolso || gaccardo@gmail.com ||
@@ -32,7 +32,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra. Hasta el __
 ||Ariel Rossanigo ||2 L (hombre) Gris Oscuro/Arena 1 M (Mujer) Negra ||en PyConAr || ||
 ||Manuel Argüelles ||1 S (hombre) Negro ||en PyConAr || ||
 ||Juan Rodriguez Monti ||1 XL (hombre) Negra ||personalmente en PyConAr ||juanrodriguezmonti (en) gmail (punto) com ||
-||OSiRiS (OSiUX) ||1 XXL (hombre) Negra preferentemente ||retira Joac en PyConAr || osiux@osiux.com.ar ||
+||OSiRiS (OSiUX) ||1 XXL (hombre) Negra preferentemente ||retira Joac en PyConAr || <<MailTo(osiux EN osiux PUNTO com PUNTO ar)>> ||
 ||HectorSanchez (Karucha) ||1 XL (hombre) Verde #088A08 / Roja , y 1 S (mujer) Roja ||en PyConAr || ||
 ||Orfi Schleppi ||1 M (mujer) Negra y 1 XXL (hombre) Negra ||en PyConAr || ||
 ||EzequielMarquez ||1 M (hombre) Negra o Azul Marino ||PyConAr || ||
@@ -50,8 +50,15 @@ Anotarse aquí implica un compromiso tácito de concretar la compra. Hasta el __
 ||CesarPortela ||1 XXL (hombre) Negra || personalmente en PyConAr || repito: XXL ||
 ||NataliaBidart ||1 M (hombre) Azul Marino, 1 S (mujer) Gris Claro ||PyConAr || ||
 ||MatiasGieco ||1 L (hombre) Azul Marino ||Retira CesarPortela || matigro@gmail.com ||
+
+---- /!\ '''Edit conflict - other version:''' ----
 ||PabloMouzo ||1 L (hombre) Azul Marino, 1 L (hombre) Negro ||PyConAr || ||
 
+
+---- /!\ '''Edit conflict - your version:''' ----
+||JoaquinSorianello ||1 L (hombre) Azul Marino || PyConAr || ||
+
+---- /!\ '''End of edit conflict''' ----
 
 == FAQs ==
  * '''¿Cuánto sale? '''
@@ -88,3 +95,9 @@ Medida corte mujer:
 ||M ||45 ||40 ||59 ||
 ||L ||46 ||41 ||60 ||
 ||XL ||47 ||42 ||60 ||
+
+---- /!\ '''Edit conflict - other version:''' ----
+
+---- /!\ '''Edit conflict - your version:''' ----
+
+---- /!\ '''End of edit conflict''' ----
