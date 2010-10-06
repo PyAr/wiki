@@ -4,7 +4,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra. Hasta el __
 ||Roberto Alsina ||2 XXL Amarillo/Azul Marino ||PyCon en persona ||Solo si son XXL en serio. No talle Hobbit :-) ||
 ||[[http://www.stealthissoftware.blogspot.com|Martín Cerdeira]] ||1  M (hombre) Azul Marino ||Contra-reembolso || martincerdeira@gmail.com ||
 ||JuanjoConti ||2  M (hombre) Gris Oscuro/Celeste bandera ||personalmente en PyConAr || ||
-||WalterAlini ||1 XXL (hombre) color-a-definir ||personalmente en PyConAr || ||
+||WalterAlini ||1 XXL (hombre) Gris Oscuro ||personalmente en PyConAr || ||
 ||Mariano García Berrotarán ||1 XL (hombre) ¿color? / 1 S (mujer) ¿color? ||personalmente en PyConAr || ||
 ||Manuel Quiñones ||1 S (hombre) Azul Marino ||personalmente en PyConAr || ||
 ||Manuel Naranjo ||1 XXL (hombre) Azul Francia ||personalmente en PyConAr ||r ||
