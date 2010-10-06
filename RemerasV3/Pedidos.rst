@@ -48,6 +48,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra. Hasta el __
 ||Yamila Gaston ||1 S (mujer) Blanca ||PyConAr || ||
 ||Emiliano Dalla Verde Marcozzi ||1 XL (hombre) Azul Marino sino se puede Negra :) ||PyConAr || ||
 ||CesarPortela ||1 XXL (hombre) Negra || personalmente en PyConAr || repito: XXL ||
+||NataliaBidart ||1 M (hombre) Azul Marino, 1 S (mujer) Gris Claro ||PyConAr || ||
 
 
 == FAQs ==
