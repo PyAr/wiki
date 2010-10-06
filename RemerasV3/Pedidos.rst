@@ -9,7 +9,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra. Hasta el __
 ||Manuel Quiñones ||1 S (hombre) Azul Marino ||personalmente en PyConAr || ||
 ||Manuel Naranjo ||1 XXL (hombre) Azul Francia ||personalmente en PyConAr ||r ||
 ||Diego Sarmentero ||1 L (hombre) Negro, 1 L (hombre) Blanco ||personalmente en PyConAr || ||
-||Tomas Zulberti ||2 L (hombre) Gris Oscuro / Blanco ||personalmente en PyConAr || ||
+||Tomas Zulberti ||3 L (hombre) Azul Marino / Blanco / Arena ||personalmente en PyConAr || ||
 ||Roberto L. Bozzacchi ||1 M (hombre) Azul Marino ||Contra-Reebolso || robbie@metasigno.com ||
 ||DanielMoisset ||1M (hombre) cuando vea el diseño te digo el color ||PyConAr || ||
 ||Eka (Esteban Feldman) ||2 M (hombre) Negro/Azul Marino ||Entregar a Felipe Lerena || ||
