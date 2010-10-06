@@ -45,7 +45,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra. Hasta el __
 ||Germán Ceballos||1 L (hombre) Azul Marino||PyConAr|| ||
 ||Cristian Morales||1 L (hombre) Azul Francia||PyConAr|| ||
 ||CesarRoldan ||1 XXL (hombre) Negra o Gris Oscuro ||PyConAr || ||
-
+||Yamila Gaston ||1 S (mujer) Blanca ||PyConAr || ||
 
 == FAQs ==
  * '''¿Cuánto sale? '''
