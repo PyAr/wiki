@@ -1,33 +1,32 @@
 Anotarse aquí implica un compromiso tácito de concretar la compra. Hasta el __miercoles 6 a las 13hs está abierta la lista__ para agregarse o modificar el pedido.  NO HAY STOCK de remeras en color CHOCOLATE y VERDE MILITAR. El precio de la remera es $35.-
 
 === Pedidos post PyConAr (o no garantizados para PyConAr) ===
+Si todavía querés tu remera y no llegaste a pedirla, anotate en esta nueva lista de interesados. Nos pondremos en contacto con vos.
+||'''Nombre''' ||'''Cantidad/Talle/Color/corte''' ||'''Modo de entrega ''' ||'''Observaciones''' ||
+||judaz ||1 L Hombre Arena /1 M Mujer Azul Marino ||PyConAr (or later) || ||
+||DanielMoisset ||1M (hombre) cuando vea el diseño te digo el color ||PyConAr || ||
+||FacundoBatista ||Dos XL de hombre, un XS de hombre, y una XL de mujer; colores, a definir en función del diseño. ||En PyConAr 10 || ||
+||Mariano Verdú ||1M (hombre) Depende el diseño, luego edito ||en PyConAr || ||
+||Mariano García Berrotarán ||1 XL (hombre) negro / 1 S (mujer) negro ||personalmente en PyConAr || ||
+||Anónimo R ||1 L de hombre Azul francia / 1 L hombre Arena ||personalmente en PyConAr || ||
+||FrancoPellegrini||1 L (hombre) Negro||en PyConAr|| ||
 
-Si todavía querés tu remera y no llegaste a pedirla, anotate en esta nueva lista de interesados. Nos pondremos en contacto con vos. 
 
-||'''Nombre''' ||'''Cantidad/Talle/Color/corte''' ||'''Modo de entrega ''' || '''Observaciones''' ||
-|| judaz ||  1 L Hombre Arena /1 M Mujer Azul Marino || PyConAr (or later) || ||
-|| DanielMoisset ||1M (hombre) cuando vea el diseño te digo el color ||PyConAr || ||
-|| FacundoBatista ||Dos XL de hombre, un XS de hombre, y una XL de mujer; colores, a definir en función del diseño. ||En PyConAr 10 || ||
-|| Mariano Verdú ||1M (hombre) Depende el diseño, luego edito ||en PyConAr || ||
-|| Mariano García Berrotarán ||1 XL (hombre) negro / 1 S (mujer) negro || personalmente en PyConAr || ||
-|| Anónimo R || 1 L de hombre Azul francia / 1 L hombre Arena || personalmente en PyConAr || ||
+
 
 === Pedidos para PyConAr -- cerrado -- ===
-
 '''NO EDITAR ESTA TABLA!!! '''
-
-
 ||'''Nombre''' ||'''Cantidad/Talle/Color/corte''' ||'''Modo de entrega ''' ||'''Observaciones''' ||
 ||Esteban K ||2 M (hombre) Arena/Azul Marino || || ||
 ||Roberto Alsina ||1 XXL Azul Marino / 1 XXL Amarillo ||PyCon en persona ||Solo si son XXL en serio. No talle Hobbit :-) ||
-||[[http://www.stealthissoftware.blogspot.com|Martín Cerdeira]] ||1  M (hombre) Azul Marino ||Contra-reembolso || <<MailTo(martincerdeira EN gmail PUNTO com)>> ||
+||[[http://www.stealthissoftware.blogspot.com|Martín Cerdeira]] ||1  M (hombre) Azul Marino ||Contra-reembolso ||<<MailTo(martincerdeira EN gmail PUNTO com)>> ||
 ||JuanjoConti ||2  M (hombre) Gris Oscuro/Celeste bandera ||personalmente en PyConAr || ||
 ||WalterAlini ||1 XXL (hombre) Gris Oscuro ||personalmente en PyConAr || ||
 ||Manuel Quiñones ||1 S (hombre) Azul Marino ||personalmente en PyConAr || ||
 ||Manuel Naranjo ||1 XXL (hombre) Azul Francia ||personalmente en PyConAr ||r ||
 ||Diego Sarmentero ||1 L (hombre) Negro, 1 L (hombre) Blanco ||personalmente en PyConAr || ||
 ||Tomas Zulberti ||3 L (hombre) Azul Marino / Blanco / Arena ||personalmente en PyConAr || ||
-||Roberto L. Bozzacchi ||1 M (hombre) Azul Marino ||Contra-Reebolso || <<MailTo(robbie EN metasigno PUNTO com)>> ||
+||Roberto L. Bozzacchi ||1 M (hombre) Azul Marino ||Contra-Reebolso ||<<MailTo(robbie EN metasigno PUNTO com)>> ||
 ||Eka (Esteban Feldman) ||2 M (hombre) Negro/Azul Marino ||Entregar a Felipe Lerena || ||
 ||Guido Accardo ||1 L (hombre) Negro ||Contra-Reebolso || gaccardo@gmail.com ||
 ||Lucio Torre ||1 XL Azul Marino ||PyConAr || ||
@@ -46,7 +45,7 @@ Si todavía querés tu remera y no llegaste a pedirla, anotate en esta nueva lis
 ||Ariel Rossanigo ||2 L (hombre) Gris Oscuro/Arena 1 M (Mujer) Negra ||en PyConAr || ||
 ||Manuel Argüelles ||1 S (hombre) Negro ||en PyConAr || ||
 ||Juan Rodriguez Monti ||1 XL (hombre) Negra ||personalmente en PyConAr ||juanrodriguezmonti (en) gmail (punto) com ||
-||OSiRiS (OSiUX) ||1 XXL (hombre) Negra preferentemente ||retira Joac en PyConAr || <<MailTo(osiux EN osiux PUNTO com PUNTO ar)>> ||
+||OSiRiS (OSiUX) ||1 XXL (hombre) Negra preferentemente ||retira Joac en PyConAr ||<<MailTo(osiux EN osiux PUNTO com PUNTO ar)>> ||
 ||HectorSanchez (Karucha) ||1 XL (hombre) Verde #088A08 / Roja , y 1 S (mujer) Roja ||en PyConAr || ||
 ||Orfi Schleppi ||1 M (mujer) Negra y 1 XXL (hombre) Negra ||en PyConAr || ||
 ||EzequielMarquez ||1 M (hombre) Negra ||PyConAr || ||
@@ -61,13 +60,15 @@ Si todavía querés tu remera y no llegaste a pedirla, anotate en esta nueva lis
 ||CesarRoldan ||1 XXL (hombre) Negra ||PyConAr || ||
 ||Yamila Gaston ||1 S (mujer) Blanca ||PyConAr || ||
 ||Emiliano Dalla Verde Marcozzi ||1 XL (hombre) Azul Marino sino se puede Negra :) ||PyConAr || ||
-||CesarPortela ||1 XXL (hombre) Negra || personalmente en PyConAr || repito: XXL ||
+||CesarPortela ||1 XXL (hombre) Negra ||personalmente en PyConAr ||repito: XXL ||
 ||NataliaBidart ||1 M (hombre) Azul Marino, 1 S (mujer) Gris Claro ||PyConAr || ||
 ||MatiasGieco ||1 L (hombre) Azul Marino ||Retira CesarPortela || matigro@gmail.com ||
 ||PabloMouzo ||1 L (hombre) Azul Marino, 1 L (hombre) Negro ||PyConAr || ||
-||JoaquinSorianello ||1 L (hombre) Azul Marino || PyConAr || ||
-||MarcosMoyano ||1 L (hombre) Gris Oscuro || PyConAr || ||
-||JPFuertes (via dave) ||2 L (hombre) Negro || PyConAr || ||
+||JoaquinSorianello ||1 L (hombre) Azul Marino ||PyConAr || ||
+||MarcosMoyano ||1 L (hombre) Gris Oscuro ||PyConAr || ||
+||JPFuertes (via dave) ||2 L (hombre) Negro ||PyConAr || ||
+
+
 
 
 == FAQs ==
@@ -105,3 +106,5 @@ Medida corte mujer:
 ||M ||45 ||40 ||59 ||
 ||L ||46 ||41 ||60 ||
 ||XL ||47 ||42 ||60 ||
+
+
