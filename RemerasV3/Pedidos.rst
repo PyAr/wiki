@@ -12,7 +12,7 @@ Si todavía querés tu remera y no llegaste a pedirla, anotate en esta nueva lis
 
 ||'''Nombre''' ||'''Cantidad/Talle/Color/corte''' ||'''Modo de entrega ''' ||'''Observaciones''' ||
 ||Esteban K ||2 M (hombre) Arena/Azul Marino || || ||
-||Roberto Alsina ||2 XXL Amarillo/Azul Marino ||PyCon en persona ||Solo si son XXL en serio. No talle Hobbit :-) ||
+||Roberto Alsina ||1 XXL Azul Marino ||PyCon en persona ||Solo si son XXL en serio. No talle Hobbit :-) ||
 ||[[http://www.stealthissoftware.blogspot.com|Martín Cerdeira]] ||1  M (hombre) Azul Marino ||Contra-reembolso || <<MailTo(martincerdeira EN gmail PUNTO com)>> ||
 ||JuanjoConti ||2  M (hombre) Gris Oscuro/Celeste bandera ||personalmente en PyConAr || ||
 ||WalterAlini ||1 XXL (hombre) Gris Oscuro ||personalmente en PyConAr || ||
@@ -33,7 +33,7 @@ Si todavía querés tu remera y no llegaste a pedirla, anotate en esta nueva lis
 ||FacundoBatista ||Dos XL de hombre, un XS de hombre, y una XL de mujer; colores, a definir en función del diseño. ||En PyConAr 10 || ||
 ||Leonardo Vidarte ||1 M (hombre) Negro ||PyConAr ||lvidarte gmail ||
 ||RamiroAlgozino ||1 M (hombre) Azul Marino ó Verde Militar ||PyConAr || ||
-||JuanFisanotti ||1 M (hombre) Negra o Gris Oscuro ||PyConAr || ||
+||JuanFisanotti ||1 M (hombre) Negra ||PyConAr || ||
 ||NahuelDefossé ||2 XL (hombre) Negra / Chocolate ||Contrareembolso/Envío ||nahuel (punto) defosse (en) gmail ||
 ||ManuelKaufmann ||2 L (hombre) Naranja / Roja ||PyConAr || ||
 ||NicoEchaniz ||2 M (hombre) Gris Oscuro / Rojo ||PyConAr || ||
@@ -46,7 +46,7 @@ Si todavía querés tu remera y no llegaste a pedirla, anotate en esta nueva lis
 ||OSiRiS (OSiUX) ||1 XXL (hombre) Negra preferentemente ||retira Joac en PyConAr || <<MailTo(osiux EN osiux PUNTO com PUNTO ar)>> ||
 ||HectorSanchez (Karucha) ||1 XL (hombre) Verde #088A08 / Roja , y 1 S (mujer) Roja ||en PyConAr || ||
 ||Orfi Schleppi ||1 M (mujer) Negra y 1 XXL (hombre) Negra ||en PyConAr || ||
-||EzequielMarquez ||1 M (hombre) Negra o Azul Marino ||PyConAr || ||
+||EzequielMarquez ||1 M (hombre) Negra ||PyConAr || ||
 ||SamantaFernandez ||1 S (hombre) Negra, 1 L (hombre) Negra y 3 XL(mujer) Negra, Azul Marino y Roja ||personalmente en PyConAr ||samanta.fernandez  gmail ||
 ||DiegoMascialino ||1 L (hombre) Azul Marino ||PyConAr || ||
 ||Patricio Gómez ||1 XL (hombre) Azul Marino ||PyConAr || ||
@@ -55,7 +55,7 @@ Si todavía querés tu remera y no llegaste a pedirla, anotate en esta nueva lis
 ||GonzaloAlmeida ||1 XL (hombre) Azul Marino, 1 XL (hombre) Negra y 1 XL (hombre) Naranja ||PyConAr || ||
 ||Germán Ceballos ||1 L (hombre) Azul Marino ||PyConAr || ||
 ||Cristian Morales ||1 L (hombre) Azul Francia ||PyConAr || ||
-||CesarRoldan ||1 XXL (hombre) Negra o Gris Oscuro ||PyConAr || ||
+||CesarRoldan ||1 XXL (hombre) Negra ||PyConAr || ||
 ||Yamila Gaston ||1 S (mujer) Blanca ||PyConAr || ||
 ||Emiliano Dalla Verde Marcozzi ||1 XL (hombre) Azul Marino sino se puede Negra :) ||PyConAr || ||
 ||CesarPortela ||1 XXL (hombre) Negra || personalmente en PyConAr || repito: XXL ||
