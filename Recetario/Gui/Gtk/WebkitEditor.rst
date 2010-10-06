@@ -20,7 +20,6 @@ class Editor(webkit.WebView):
         webkit.WebView.__init__(self)
         self.set_editable(True)
 
-
 class EditorWindow(gtk.Window):
     '''the editor window'''
 
