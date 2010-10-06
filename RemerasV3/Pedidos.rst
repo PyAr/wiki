@@ -29,7 +29,7 @@ Si todavía querés tu remera y no llegaste a pedirla, anotate en esta nueva lis
 ||AlbertoPaparelli ||2 XL (hombre) Negro / Blanco ||PyConAr || alberto@paparelli.com.ar ||
 ||Marcelo Martinovic ||2 XL (hombre) Negro / Blanco ||Contra-Reebolso || marcelo.martinovic@gmail.com ||
 ||Martin Alderete ||2 S (hombre) Arena / Gris oscuro ||Contra-Reebolso || malderete@gmail.com ||
-||Horacio Bertorello ||1 L (hombre) Blanco/negro ||PyConAr || svankie@gmail.com ||
+||Horacio Bertorello ||1 L (hombre) Negro ||PyConAr || svankie@gmail.com ||
 ||FacundoBatista ||Dos XL de hombre, un XS de hombre, y una XL de mujer; colores, a definir en función del diseño. ||En PyConAr 10 || ||
 ||Leonardo Vidarte ||1 M (hombre) Negro ||PyConAr ||lvidarte gmail ||
 ||RamiroAlgozino ||1 M (hombre) Azul Marino ||PyConAr || ||
