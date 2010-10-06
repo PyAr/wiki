@@ -40,6 +40,8 @@ Anotarse aquí implica un compromiso tácito de concretar la compra. Hasta el __
 ||DiegoMascialino ||1 L (hombre) Azul Marino ||PyConAr || ||
 ||Patricio Gómez ||1 XL (hombre) Azul Marino ||PyConAr || ||
 ||SebastianMarro||1 XL (hombre) Gris Oscuro, 1 XL (hombre) Negra, 1 XL (hombre) Blanca, 1 L (hombre) Negra, 1 M (hombre) Negra||PyConAr|| ||
+||IgnacioFiandrino||1 L (hombre) Azul Marino, 1 L (hombre) Negra y 1 S (mujer) Arena||PyConAr|| ||
+
 
 
 
@@ -79,3 +81,9 @@ Medida corte mujer:
 ||M ||45 ||40 ||59 ||
 ||L ||46 ||41 ||60 ||
 ||XL ||47 ||42 ||60 ||
+
+---- /!\ '''Edit conflict - other version:''' ----
+
+---- /!\ '''Edit conflict - your version:''' ----
+
+---- /!\ '''End of edit conflict''' ----
