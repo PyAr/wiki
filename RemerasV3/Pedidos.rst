@@ -2,7 +2,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra. Hasta el __
 ||'''Nombre''' ||'''Cantidad/Talle/Color/corte''' ||'''Modo de entrega ''' ||'''Observaciones''' ||
 ||Esteban K ||2 M (hombre) Arena/Azul Marino || || ||
 ||Roberto Alsina ||2 XXL Amarillo/Azul Marino ||PyCon en persona ||Solo si son XXL en serio. No talle Hobbit :-) ||
-||[[http://www.stealthissoftware.blogspot.com|Martín Cerdeira]] ||1  M (hombre) Celeste Bandera ||Contra-reembolso || martincerdeira@gmail.com ||
+||[[http://www.stealthissoftware.blogspot.com|Martín Cerdeira]] ||1  M (hombre) Azul Marino ||Contra-reembolso || martincerdeira@gmail.com ||
 ||JuanjoConti ||2  M (hombre) Gris Oscuro/Celeste bandera ||personalmente en PyConAr || ||
 ||WalterAlini ||1 XXL (hombre) color-a-definir ||personalmente en PyConAr || ||
 ||Mariano García Berrotarán ||1 XL (hombre) ¿color? / 1 S (mujer) ¿color? ||personalmente en PyConAr || ||
@@ -39,13 +39,16 @@ Anotarse aquí implica un compromiso tácito de concretar la compra. Hasta el __
 ||SamantaFernandez ||1 S (hombre) Negra, 1 L (hombre) Negra y 3 XL(mujer) Negra, Azul Marino y Roja ||personalmente en PyConAr ||samanta.fernandez  gmail ||
 ||DiegoMascialino ||1 L (hombre) Azul Marino ||PyConAr || ||
 ||Patricio Gómez ||1 XL (hombre) Azul Marino ||PyConAr || ||
-||SebastianMarro||1 XL (hombre) Gris Oscuro, 1 XL (hombre) Negra, 1 XL (hombre) Blanca, 1 L (hombre) Negra, 1 M (hombre) Negra||PyConAr|| ||
-||IgnacioFiandrino||1 L (hombre) Azul Marino, 1 L (hombre) Negra y 1 S (mujer) Arena||PyConAr|| ||
-||GonzaloAlmeida||1 XL (hombre) Azul Marino, 1 XL (hombre) Negra y 1 XL (hombre) Naranja||PyConAr|| ||
-||Germán Ceballos||1 L (hombre) Azul Marino||PyConAr|| ||
-||Cristian Morales||1 L (hombre) Azul Francia||PyConAr|| ||
+||SebastianMarro ||1 XL (hombre) Gris Oscuro, 1 XL (hombre) Negra, 1 XL (hombre) Blanca, 1 L (hombre) Negra, 1 M (hombre) Negra ||PyConAr || ||
+||IgnacioFiandrino ||1 L (hombre) Azul Marino, 1 L (hombre) Negra y 1 S (mujer) Arena ||PyConAr || ||
+||GonzaloAlmeida ||1 XL (hombre) Azul Marino, 1 XL (hombre) Negra y 1 XL (hombre) Naranja ||PyConAr || ||
+||Germán Ceballos ||1 L (hombre) Azul Marino ||PyConAr || ||
+||Cristian Morales ||1 L (hombre) Azul Francia ||PyConAr || ||
 ||CesarRoldan ||1 XXL (hombre) Negra o Gris Oscuro ||PyConAr || ||
 ||Yamila Gaston ||1 S (mujer) Blanca ||PyConAr || ||
+
+
+
 
 == FAQs ==
  * '''¿Cuánto sale? '''
@@ -83,8 +86,20 @@ Medida corte mujer:
 ||L ||46 ||41 ||60 ||
 ||XL ||47 ||42 ||60 ||
 
----- /!\ '''Edit conflict - other version:''' ----
 
----- /!\ '''Edit conflict - your version:''' ----
 
----- /!\ '''End of edit conflict''' ----
+
+----
+/!\ '''Edit conflict - other version:'''
+
+----
+
+----
+/!\ '''Edit conflict - your version:'''
+
+----
+
+----
+/!\ '''End of edit conflict'''
+
+----
