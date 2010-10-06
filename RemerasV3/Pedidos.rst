@@ -32,9 +32,9 @@ Si todavía querés tu remera y no llegaste a pedirla, anotate en esta nueva lis
 ||Horacio Bertorello ||1 L (hombre) Blanco/negro ||PyConAr || svankie@gmail.com ||
 ||FacundoBatista ||Dos XL de hombre, un XS de hombre, y una XL de mujer; colores, a definir en función del diseño. ||En PyConAr 10 || ||
 ||Leonardo Vidarte ||1 M (hombre) Negro ||PyConAr ||lvidarte gmail ||
-||RamiroAlgozino ||1 M (hombre) Azul Marino ó Verde Militar ||PyConAr || ||
+||RamiroAlgozino ||1 M (hombre) Azul Marino ||PyConAr || ||
 ||JuanFisanotti ||1 M (hombre) Negra ||PyConAr || ||
-||NahuelDefossé ||2 XL (hombre) Negra / Chocolate ||Contrareembolso/Envío ||nahuel (punto) defosse (en) gmail ||
+||NahuelDefossé ||1 XL (hombre) Negra / 1 Xl (hombre) Azul Marino ||Contrareembolso/Envío ||nahuel (punto) defosse (en) gmail ||
 ||ManuelKaufmann ||2 L (hombre) Naranja / Roja ||PyConAr || ||
 ||NicoEchaniz ||2 M (hombre) Gris Oscuro / Rojo ||PyConAr || ||
 ||Mariano Verdú ||1M (hombre) Depende el diseño, luego edito ||en PyConAr || ||
