@@ -46,7 +46,7 @@ Si todavía querés tu remera y no llegaste a pedirla, anotate en esta nueva lis
 ||OSiRiS (OSiUX) ||1 XXL (hombre) Negra preferentemente ||retira Joac en PyConAr || <<MailTo(osiux EN osiux PUNTO com PUNTO ar)>> ||
 ||HectorSanchez (Karucha) ||1 XL (hombre) Verde #088A08 / Roja , y 1 S (mujer) Roja ||en PyConAr || ||
 ||Orfi Schleppi ||1 M (mujer) Negra y 1 XXL (hombre) Negra ||en PyConAr || ||
-||EzequielMarquez ||1 M (hombre) Negra ||PyConAr || ||
+||EzequielMarquez ||1 L (hombre) Negra ||PyConAr || ||
 ||SamantaFernandez ||1 S (hombre) Negra, 1 L (hombre) Negra y 3 XL(mujer) Negra, Azul Marino y Roja ||personalmente en PyConAr ||samanta.fernandez  gmail ||
 ||DiegoMascialino ||1 L (hombre) Azul Marino ||PyConAr || ||
 ||Patricio Gómez ||1 XL (hombre) Azul Marino ||PyConAr || ||
