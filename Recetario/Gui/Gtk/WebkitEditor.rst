@@ -18,10 +18,8 @@ class Editor(webkit.WebView):
 
     def __init__(self):
         webkit.WebView.__init__(self)
-        self.connect('load-finished', self._loading_finished_cb)
+        self.set_editable(True)
 
-    def _loading_finished_cb(self, *args):
-        self.execute_script("document.designMode='On';")
 
 class EditorWindow(gtk.Window):
     '''the editor window'''
