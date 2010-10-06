@@ -42,6 +42,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra. Hasta el __
 ||SebastianMarro||1 XL (hombre) Gris Oscuro, 1 XL (hombre) Negra, 1 XL (hombre) Blanca, 1 L (hombre) Negra, 1 M (hombre) Negra||PyConAr|| ||
 ||IgnacioFiandrino||1 L (hombre) Azul Marino, 1 L (hombre) Negra y 1 S (mujer) Arena||PyConAr|| ||
 ||GonzaloAlmeida||1 XL (hombre) Azul Marino, 1 XL (hombre) Negra y 1 XL (hombre) Naranja||PyConAr|| ||
+||Germán Ceballos||1 L (hombre) Azul Marino||PyConAr|| ||
 
 
 
