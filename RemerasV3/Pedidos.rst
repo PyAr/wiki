@@ -36,7 +36,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra. Hasta el __
 ||HectorSanchez (Karucha) ||1 XL (hombre) Verde #088A08 / Roja , y 1 S (mujer) Roja ||en PyConAr || ||
 ||Orfi Schleppi ||1 M (mujer) Negra y 1 XXL (hombre) Negra ||en PyConAr || ||
 ||EzequielMarquez ||1 M (hombre) Negra o Azul Marino ||PyConAr || ||
-||SamantaFernandez ||3 (mujer, talle a confirmar hoy) Negro, Azul Marino y Rojo ||personalmente en PyConAr ||samanta.fernandez  gmail ||
+||SamantaFernandez ||1 S (hombre) Negra, 1 L (hombre) Negra y 3 XL(mujer) Negra, Azul Marino y Roja ||personalmente en PyConAr ||samanta.fernandez  gmail ||
 ||DiegoMascialino ||1 L (hombre) Azul Marino ||PyConAr || ||
 ||Patricio Gómez ||1 XL (hombre) Azul Marino ||PyConAr || ||
 ||SebastianMarro||1 XL (hombre) Gris Oscuro, 1 XL (hombre) Negra, 1 XL (hombre) Blanca, 1 L (hombre) Negra, 1 M (hombre) Negra||PyConAr|| ||
@@ -79,5 +79,3 @@ Medida corte mujer:
 ||M ||45 ||40 ||59 ||
 ||L ||46 ||41 ||60 ||
 ||XL ||47 ||42 ||60 ||
-
-
