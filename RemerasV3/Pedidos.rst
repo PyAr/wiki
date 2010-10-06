@@ -9,12 +9,12 @@ Si todavía querés tu remera y no llegaste a pedirla, anotate en esta nueva lis
 || DanielMoisset ||1M (hombre) cuando vea el diseño te digo el color ||PyConAr || ||
 || FacundoBatista ||Dos XL de hombre, un XS de hombre, y una XL de mujer; colores, a definir en función del diseño. ||En PyConAr 10 || ||
 || Mariano Verdú ||1M (hombre) Depende el diseño, luego edito ||en PyConAr || ||
-|| Mariano García Berrotarán ||1 XL (hombre) negro / 1 S (mujer) negro ||personalmente en PyConAr || ||
-
+|| Mariano García Berrotarán ||1 XL (hombre) negro / 1 S (mujer) negro || personalmente en PyConAr || ||
+|| Anónimo R || 1 L de hombre Azul francia / 1 L hombre Arena || personalmente en PyConAr || ||
 
 === Pedidos para PyConAr -- cerrado -- ===
 
-'''NO EDITAR!!! '''
+'''NO EDITAR ESTA TABLA!!! '''
 
 
 ||'''Nombre''' ||'''Cantidad/Talle/Color/corte''' ||'''Modo de entrega ''' ||'''Observaciones''' ||
