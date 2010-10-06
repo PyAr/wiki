@@ -49,7 +49,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra. Hasta el __
 ||Emiliano Dalla Verde Marcozzi ||1 XL (hombre) Azul Marino sino se puede Negra :) ||PyConAr || ||
 ||CesarPortela ||1 XXL (hombre) Negra || personalmente en PyConAr || repito: XXL ||
 ||NataliaBidart ||1 M (hombre) Azul Marino, 1 S (mujer) Gris Claro ||PyConAr || ||
-||MatiasGieco ||1 L (hombre) Azul Marino ||Contra-Reembolso o envío (depende el mas barato :P ) || matigro@gmail.com ||
+||MatiasGieco ||1 L (hombre) Azul Marino ||Retira CesarPortela || matigro@gmail.com ||
 
 
 == FAQs ==
