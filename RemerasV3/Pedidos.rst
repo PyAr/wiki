@@ -50,15 +50,9 @@ Anotarse aquí implica un compromiso tácito de concretar la compra. Hasta el __
 ||CesarPortela ||1 XXL (hombre) Negra || personalmente en PyConAr || repito: XXL ||
 ||NataliaBidart ||1 M (hombre) Azul Marino, 1 S (mujer) Gris Claro ||PyConAr || ||
 ||MatiasGieco ||1 L (hombre) Azul Marino ||Retira CesarPortela || matigro@gmail.com ||
-
----- /!\ '''Edit conflict - other version:''' ----
 ||PabloMouzo ||1 L (hombre) Azul Marino, 1 L (hombre) Negro ||PyConAr || ||
-
-
----- /!\ '''Edit conflict - your version:''' ----
 ||JoaquinSorianello ||1 L (hombre) Azul Marino || PyConAr || ||
 
----- /!\ '''End of edit conflict''' ----
 
 == FAQs ==
  * '''¿Cuánto sale? '''
@@ -95,9 +89,3 @@ Medida corte mujer:
 ||M ||45 ||40 ||59 ||
 ||L ||46 ||41 ||60 ||
 ||XL ||47 ||42 ||60 ||
-
----- /!\ '''Edit conflict - other version:''' ----
-
----- /!\ '''Edit conflict - your version:''' ----
-
----- /!\ '''End of edit conflict''' ----
