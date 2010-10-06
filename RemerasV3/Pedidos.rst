@@ -19,7 +19,7 @@ Si todavía querés tu remera y no llegaste a pedirla, anotate en esta nueva lis
 
 ||'''Nombre''' ||'''Cantidad/Talle/Color/corte''' ||'''Modo de entrega ''' ||'''Observaciones''' ||
 ||Esteban K ||2 M (hombre) Arena/Azul Marino || || ||
-||Roberto Alsina ||1 XXL Azul Marino ||PyCon en persona ||Solo si son XXL en serio. No talle Hobbit :-) ||
+||Roberto Alsina ||1 XXL Azul Marino / 1 XXL Amarillo ||PyCon en persona ||Solo si son XXL en serio. No talle Hobbit :-) ||
 ||[[http://www.stealthissoftware.blogspot.com|Martín Cerdeira]] ||1  M (hombre) Azul Marino ||Contra-reembolso || <<MailTo(martincerdeira EN gmail PUNTO com)>> ||
 ||JuanjoConti ||2  M (hombre) Gris Oscuro/Celeste bandera ||personalmente en PyConAr || ||
 ||WalterAlini ||1 XXL (hombre) Gris Oscuro ||personalmente en PyConAr || ||
