@@ -52,6 +52,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra. Hasta el __
 ||MatiasGieco ||1 L (hombre) Azul Marino ||Retira CesarPortela || matigro@gmail.com ||
 ||PabloMouzo ||1 L (hombre) Azul Marino, 1 L (hombre) Negro ||PyConAr || ||
 ||JoaquinSorianello ||1 L (hombre) Azul Marino || PyConAr || ||
+||MarcosMoyano ||1 L (hombre) Gris Oscuro || PyConAr || ||
 
 
 == FAQs ==
