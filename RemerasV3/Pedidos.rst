@@ -4,7 +4,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra. Hasta el __
 Si todavía querés tu remera y no llegaste a pedirla, anotate en esta nueva lista de interesados. Nos pondremos en contacto con vos.
 ||'''Nombre''' ||'''Cantidad/Talle/Color/corte''' ||'''Modo de entrega ''' ||'''Observaciones''' ||
 ||judaz ||1 L Hombre Arena /1 M Mujer Azul Marino ||PyConAr (or later) || ||
-||DanielMoisset ||1M (hombre) cuando vea el diseño te digo el color ||PyConAr || ||
+||DanielMoisset ||1M (hombre) Arena ||PyConAr || ||
 ||FacundoBatista ||Dos XL de hombre, un XS de hombre, y una XL de mujer; colores, a definir en función del diseño. ||En PyConAr 10 || ||
 ||Mariano Verdú ||1M (hombre) Azul Francia ||en PyConAr || ||
 ||Mariano García Berrotarán ||1 XL (hombre) negro / 1 S (mujer) negro ||personalmente en PyConAr || ||
