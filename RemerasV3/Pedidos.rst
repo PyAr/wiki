@@ -10,6 +10,7 @@ Si todavía querés tu remera y no llegaste a pedirla, anotate en esta nueva lis
 ||Anónimo R ||1 L de hombre Azul francia / 1 L hombre Arena ||personalmente en PyConAr || ||
 ||FrancoPellegrini||1 L (hombre) Negro||en PyConAr|| ||
 ||Matías Graña||1 L (hombre) negro||en PyConAr, por interpósita persona|| ||
+||FacundoBatista ||Una XL de hombre (gris claro), otra XL de hombre (celeste bandera), un XS de hombre (celeste bandera), y una XL de mujer (gris oscuro) ||En PyConAr 10 || ||
 
 
 
@@ -66,7 +67,6 @@ Si todavía querés tu remera y no llegaste a pedirla, anotate en esta nueva lis
 ||JoaquinSorianello ||1 L (hombre) Azul Marino ||PyConAr || ||
 ||MarcosMoyano ||1 L (hombre) Gris Oscuro ||PyConAr || ||
 ||JPFuertes (via dave) ||2 L (hombre) Negro ||PyConAr || ||
-||FacundoBatista ||Una XL de hombre (gris claro), otra XL de hombre (celeste bandera), un XS de hombre (celeste bandera), y una XL de mujer (gris oscuro) ||En PyConAr 10 || ||
 
 
 
