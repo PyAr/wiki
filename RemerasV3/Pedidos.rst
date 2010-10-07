@@ -10,7 +10,7 @@ Si todavía querés tu remera y no llegaste a pedirla, anotate en esta nueva lis
 ||Mariano García Berrotarán ||1 XL (hombre) negro / 1 S (mujer) negro ||personalmente en PyConAr || ||
 ||Anónimo R ||1 L de hombre Azul francia / 1 L hombre Arena ||personalmente en PyConAr || ||
 ||FrancoPellegrini||1 L (hombre) Negro||en PyConAr|| ||
-
+||Matías Graña||1 L (hombre) negro||en PyConAr, por interpósita persona|| ||
 
 
 
