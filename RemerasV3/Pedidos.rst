@@ -5,7 +5,6 @@ Si todavía querés tu remera y no llegaste a pedirla, anotate en esta nueva lis
 ||'''Nombre''' ||'''Cantidad/Talle/Color/corte''' ||'''Modo de entrega ''' ||'''Observaciones''' ||
 ||judaz ||1 L Hombre Arena /1 M Mujer Azul Marino ||PyConAr (or later) || ||
 ||DanielMoisset ||1M (hombre) Arena ||PyConAr || ||
-||FacundoBatista ||Dos XL de hombre, un XS de hombre, y una XL de mujer; colores, a definir en función del diseño. ||En PyConAr 10 || ||
 ||Mariano Verdú ||1M (hombre) Azul Francia ||en PyConAr || ||
 ||Mariano García Berrotarán ||1 XL (hombre) negro / 1 S (mujer) negro ||personalmente en PyConAr || ||
 ||Anónimo R ||1 L de hombre Azul francia / 1 L hombre Arena ||personalmente en PyConAr || ||
@@ -67,7 +66,7 @@ Si todavía querés tu remera y no llegaste a pedirla, anotate en esta nueva lis
 ||JoaquinSorianello ||1 L (hombre) Azul Marino ||PyConAr || ||
 ||MarcosMoyano ||1 L (hombre) Gris Oscuro ||PyConAr || ||
 ||JPFuertes (via dave) ||2 L (hombre) Negro ||PyConAr || ||
-
+||FacundoBatista ||Una XL de hombre (gris claro), otra XL de hombre (celeste bandera), un XS de hombre (celeste bandera), y una XL de mujer (gris oscuro) ||En PyConAr 10 || ||
 
 
 
