@@ -180,3 +180,5 @@ LocalsDeUnaFuncionQueLanzoUnaExcepcion: ejemplo de como obtener las variables lo
 /SaberSiNlibreriaEstaInstalada: Saber si N Libreria esta instalada sin ingresar al interprete de Python.
 
 /PythonVersionCheck: Chequea la version de Python, y sale o imprime error en funcion de eso.
+
+/RootCheck: Comprobar si somos root y actuar en funcion de eso, orientado a Linux.
