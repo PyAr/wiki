@@ -108,6 +108,8 @@ PythonCard: Ejemplo de como hacer una aplicación de escritorio desde 0 (para pr
 
 [[tkOnlineOfflineIcon]]: Icono de On Line u Off Line simple (usando Tk).
 
+[[tkVersionPrint]]: Obtener la version de TK que se esta usando.
+
 == Emails ==
 === GMail ===
 /GmailMail : Cómo enviar emails usando Gmail como SMTP
