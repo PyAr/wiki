@@ -178,3 +178,5 @@ LocalsDeUnaFuncionQueLanzoUnaExcepcion: ejemplo de como obtener las variables lo
 /MatrixPythonToy: Efecto "The Matrix" en linea de comandos, ideal CLI Screen Saver / Screen Lock.
 
 /SaberSiNlibreriaEstaInstalada: Saber si N Libreria esta instalada sin ingresar al interprete de Python.
+
+/PythonVersionCheck: Chequea la version de Python, y sale o imprime error en funcion de eso.
