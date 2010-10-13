@@ -24,6 +24,10 @@ Están hechos con Inkscape.
  * Sorteo: [[attachment:Eventos/Conferencias/8JRSL/Carteles/sorteo.svg|sorteo.svg]]
  * Cartelera de Trabajos: [[attachment:Eventos/Conferencias/8JRSL/Carteles/Trabajos.odt|Trabajos.odt]] [[attachment:Eventos/Conferencias/8JRSL/Carteles/labura.svg|labura.svg]]
 
+= PyCon 2010 =
+
+Diseños para /PyCon 2010
+
 = Banners para Eventos =
 
 El logo de PyAr, Python Argentina, www.python.org.ar, el logo de Python y las franjas celestes de la bandera ya estan impresos. 
