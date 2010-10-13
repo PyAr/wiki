@@ -37,7 +37,7 @@ Si todavía querés tu remera y no llegaste a pedirla, anotate en esta nueva lis
 ||Martin Alderete ||2 S (hombre) Arena / Gris oscuro ||Contra-Reebolso || malderete@gmail.com ||
 ||Horacio Bertorello ||1 L (hombre) Negro ||PyConAr || svankie@gmail.com ||
 ||Leonardo Vidarte ||1 M (hombre) Negro ||PyConAr ||lvidarte gmail ||
-||RamiroAlgozino ||1 M (hombre) Azul Marino ||PyConAr || ||
+||RamiroAlgozino ||1 M (hombre) Azul Marino ||encomienda previo depósito||algozino@gmail.com||
 ||JuanFisanotti ||1 M (hombre) Negra ||PyConAr || ||
 ||NahuelDefossé ||1 XL (hombre) Negra / 1 Xl (hombre) Azul Marino ||Contrareembolso/Envío ||nahuel (punto) defosse (en) gmail ||
 ||ManuelKaufmann ||2 L (hombre) Naranja / Roja ||PyConAr || ||
