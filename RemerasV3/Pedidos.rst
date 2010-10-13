@@ -14,6 +14,7 @@ Si todavía querés tu remera y no llegaste a pedirla, anotate en esta nueva lis
 ||RicardoKirkner|| 1 L hombre Azul Francia, 1 L hombre Gris oscuro, 1 M mujer Naranja || PyConAr || ||
 ||Federico Peretti (fperetti) ||1 XXL Hombre Arena /1 XXL Hombre Negra ||Amigo en PyConAr|| ||
 ||Fabián E. Gallina (fabian AT anue DOT biz)||1 L Hombre Negra ||personalmente en PyConAr|| ||
+||Alejandro Santos (alejolp) ||1 XL Hombre Negra ||PyConAr|| ||
 
 === Pedidos para PyConAr -- cerrado -- ===
 '''NO EDITAR ESTA TABLA!!! '''
