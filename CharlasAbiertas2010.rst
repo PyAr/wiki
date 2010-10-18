@@ -82,6 +82,8 @@ No hace falta registrarse, pero vení temprano para asegurarte un lugar porque l
 
  * 13 a 15 horas
 
+ * Presentación: En el [[http://humitos.wordpress.com/2010/09/11/introduccion-a-django-charla/|blog]] de Manuel.
+
 === Día 5: Sábado 25 de Septiembre ===
 '''Introducción a las Interfaces Gráficas de Escritorio I'''
 
