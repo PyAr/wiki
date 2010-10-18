@@ -97,6 +97,14 @@ Es parte de la distribución de Python. Muy buen soporte del lenguaje, class bro
 [[http://www.jetbrains.com/pycharm/index.html|PyCharm]] JetBrains PyCharm — es un Python IDE con un completo juego de herramientas para el desarrollo productivo con el lenguaje de programacion Python. Adicionalmente, el IDE provee capacidades de alto rango para desarrolladores profesionales de Web con el framework Django.
 [[http://www.jetbrains.com/pycharm/index.html]]
 
+=== NINJA-IDE ===
+
+NINJA-IDE (Ninja Is Not Just Another IDE), es un IDE para Python hecho en Python. El objetivo de este proyecto es lograr un IDE especialmente diseñado para el desarrollo de aplicaciones Python, incorporando las características tradicionales de cualquier IDE y agregando funcionalidades extra con la que a todo programador de este lenguaje le gustaría contar.
+Esta desarrollado utilizando PyQt y gracias al sistema de Plugins que posee NINJA-IDE, hace que este sea fácilmente extensible.
+Realizado por miembros de PyAr y otros Colaboradores.
+
+[[http://ninja-ide.googlecode.com]]
+
 
 
 == Editores de texto avanzados ==
@@ -148,11 +156,3 @@ Tiene una licencia comercial y privativa pero si sos usuario de OSX seguramente 
 Spyder may also be used as an extension library providing powerful console-related PyQt4 widgets.
 
 [[http://packages.python.org/spyder/]]
-
-=== NINJA-IDE ===
-
-NINJA-IDE (Ninja Is Not Just Another IDE), es un IDE para Python hecho en Python. El objetivo de este proyecto es lograr un IDE especialmente diseñado para el desarrollo de aplicaciones Python, incorporando las características tradicionales de cualquier IDE y agregando funcionalidades extra con la que a todo programador de este lenguaje le gustaría contar.
-Esta desarrollado utilizando PyQt y gracias al sistema de Plugins que posee NINJA-IDE, hace que este sea fácilmente extensible.
-Realizado por miembros de PyAr y otros Colaboradores.
-
-[[http://ninja-ide.googlecode.com]]
