@@ -93,6 +93,7 @@ GtkGladeSignals : manejo basico de señales
 
 === Qt ===
 QtMultiThread : ejemplo de como manipular la GUI usando múltiples threads sin usar locks (con colas)
+/QtImprimirPagina: ejemplo de como imprimir una pagina web a pdf
 
 === Pythoncard (wxPython) ===
 PythonCard: Ejemplo de como hacer una aplicación de escritorio desde 0 (para principiantes)
