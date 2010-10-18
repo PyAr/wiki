@@ -153,7 +153,7 @@ No hace falta registrarse, pero vení temprano para asegurarte un lugar porque l
 
 '''Twisted'''
 
-''(falta texto)''
+''Vamos a ver porque el modelo de twisted es necesario, como se programa en modo asyncronico usando deferreds y conocer el api de red de twisted para hacer servicios.''
 
  * Disertante: Lucio Torre
 
