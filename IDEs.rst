@@ -153,5 +153,6 @@ Spyder may also be used as an extension library providing powerful console-relat
 
 NINJA-IDE (Ninja Is Not Just Another IDE), es un IDE para Python hecho en Python. El objetivo de este proyecto es lograr un IDE especialmente diseñado para el desarrollo de aplicaciones Python, incorporando las características tradicionales de cualquier IDE y agregando funcionalidades extra con la que a todo programador de este lenguaje le gustaría contar.
 Esta desarrollado utilizando PyQt y gracias al sistema de Plugins que posee NINJA-IDE, hace que este sea fácilmente extensible.
+Realizado por miembros de PyAr y otros Colaboradores.
 
 [[http://ninja-ide.googlecode.com]]
