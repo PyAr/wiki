@@ -148,3 +148,10 @@ Tiene una licencia comercial y privativa pero si sos usuario de OSX seguramente 
 Spyder may also be used as an extension library providing powerful console-related PyQt4 widgets.
 
 [[http://packages.python.org/spyder/]]
+
+=== NINJA-IDE ===
+
+NINJA-IDE (Ninja Is Not Just Another IDE), es un IDE para Python hecho en Python. El objetivo de este proyecto es lograr un IDE especialmente diseñado para el desarrollo de aplicaciones Python, incorporando las características tradicionales de cualquier IDE y agregando funcionalidades extra con la que a todo programador de este lenguaje le gustaría contar.
+Esta desarrollado utilizando PyQt y gracias al sistema de Plugins que posee NINJA-IDE, hace que este sea fácilmente extensible.
+
+[[http://ninja-ide.googlecode.com]]
