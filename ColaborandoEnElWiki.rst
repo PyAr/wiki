@@ -8,7 +8,7 @@
 
 == Colaborando con Código ==
 
-* Podes agregar tus recetas en el [[recetario | Recetario]]
+* Podes agregar tus recetas en el [[Recetario | Recetario]]
 
 Tenemos Instalado Pygments, asi que podes colorear tu codigo con:
 {{{{
@@ -95,3 +95,41 @@ Otro Título
 <<Video(http://pyar.usla.org.ar/charlasabiertas2010/intro_python.ogg)>>
 }}}
 <<Video(http://pyar.usla.org.ar/charlasabiertas2010/intro_python.ogg)>>
+
+=== Figuras ===
+{{{{
+!#code moin
+{{{#!aafig aspect=0.5
+          ggggggggg
+        gg  ggggggggg
+        ggggggggggggg 
+        ggggggggggggg
+ gggggggggggggggggggg hhhhhh
+gggggggggggggggggggg  hhhhhhh
+gggggggg             hhhhhhhh
+ggggggg  hhhhhhhhhhhhhhhhhhhh
+ gggggg hhhhhhhhhhhhhhhhhhh
+        hhhhhhhhhhhhh
+        hhhhhhhhhhhhh
+        hhhhhhhhh  hh  
+         hhhhhhhhhh
+}}}
+
+}}}}
+
+
+{{{#!aafig aspect=0.5
+          ggggggggg
+        gg  ggggggggg
+        ggggggggggggg 
+        ggggggggggggg
+ gggggggggggggggggggg hhhhhh
+gggggggggggggggggggg  hhhhhhh
+gggggggg             hhhhhhhh
+ggggggg  hhhhhhhhhhhhhhhhhhhh
+ gggggg hhhhhhhhhhhhhhhhhhh
+        hhhhhhhhhhhhh
+        hhhhhhhhhhhhh
+        hhhhhhhhh  hh  
+         hhhhhhhhhh
+}}}
