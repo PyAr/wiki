@@ -122,5 +122,6 @@ JuanFisanotti
 
 ----
 == Depuración y defragmentación de memoria en Python ==
-'''Slides: '''[[attachment:MemDefrag.pdf]] (pdf) [[attachment:MemDefrag.odp]] (OpenOffice)
+''Claudio Freire''
 
+'''Slides: '''[[attachment:MemDefrag.pdf]] (pdf) [[attachment:MemDefrag.odp]] (OpenOffice)
