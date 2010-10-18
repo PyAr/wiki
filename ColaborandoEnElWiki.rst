@@ -99,37 +99,40 @@ Otro Título
 === Figuras ===
 {{{{
 !#code moin
-{{{#!aafig aspect=0.5
-          ggggggggg
-        gg  ggggggggg
-        ggggggggggggg 
-        ggggggggggggg
- gggggggggggggggggggg hhhhhh
-gggggggggggggggggggg  hhhhhhh
-gggggggg             hhhhhhhh
-ggggggg  hhhhhhhhhhhhhhhhhhhh
- gggggg hhhhhhhhhhhhhhhhhhh
-        hhhhhhhhhhhhh
-        hhhhhhhhhhhhh
-        hhhhhhhhh  hh  
-         hhhhhhhhhh
+{{{#!aafig aspect=0.5 scale=2
+          ddddddddd
+        dd  ddddddddd
+        ddddddddddddd 
+        ddddddddddddd
+ dddddddddddddddddddd eeeeee
+dddddddddddddddddddd  eeeeeee
+dddddddd             eeeeeeee
+ddddddd  eeeeeeeeeeeeeeeeeeee
+ dddddd eeeeeeeeeeeeeeeeeee
+        eeeeeeeeeeeee
+        eeeeeeeeeeeee
+        eeeeeeeee  ee  
+         eeeeeeeeee
+
 }}}
 
 }}}}
 
 
-{{{#!aafig aspect=0.5
-          ggggggggg
-        gg  ggggggggg
-        ggggggggggggg 
-        ggggggggggggg
- gggggggggggggggggggg hhhhhh
-gggggggggggggggggggg  hhhhhhh
-gggggggg             hhhhhhhh
-ggggggg  hhhhhhhhhhhhhhhhhhhh
- gggggg hhhhhhhhhhhhhhhhhhh
-        hhhhhhhhhhhhh
-        hhhhhhhhhhhhh
-        hhhhhhhhh  hh  
-         hhhhhhhhhh
+{{{#!aafig aspect=0.5 scale=2
+
+          ddddddddd
+        dd  ddddddddd
+        ddddddddddddd 
+        ddddddddddddd
+ dddddddddddddddddddd eeeeee
+dddddddddddddddddddd  eeeeeee
+dddddddd             eeeeeeee
+ddddddd  eeeeeeeeeeeeeeeeeeee
+ dddddd eeeeeeeeeeeeeeeeeee
+        eeeeeeeeeeeee
+        eeeeeeeeeeeee
+        eeeeeeeee  ee  
+         eeeeeeeeee
+
 }}}
