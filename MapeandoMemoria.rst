@@ -16,6 +16,7 @@ Este código sólo funciona en CPython, puesto que utiliza el hecho de que id() 
 
 {{{#!python
 
+import cPickle
 from guppy import hpy as heapy
 _heapy = heapy()
 
