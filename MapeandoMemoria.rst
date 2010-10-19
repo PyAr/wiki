@@ -1,5 +1,6 @@
 #format wiki
 #language es
+= Mapeando Memoria =
 
 Las funciones de abajo utilizan [[http://guppy-pe.sourceforge.net/|heapy]] para generar una descripción visual (en ascii) de la memoria, junto con otras estadísticas.
 
