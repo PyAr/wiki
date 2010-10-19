@@ -141,9 +141,9 @@ JuanFisanotti
 == Introducción a wxPython ==
 MarceloFernández
 
-'''Slides ODP: ''' [[attachment:Introduccion a wxPython.odp]]
-'''Slides PDF: ''' [[attachment:Introduccion a wxPython.pdf]]
-'''Código de ejemplos: ''' [[attachment:Introduccion a wxPython.zip]]
+'''Slides ODP: ''' [[attachment:Introduccion a wxPython.odp]] <<BR>>
+'''Slides PDF: ''' [[attachment:Introduccion a wxPython.pdf]] <<BR>>
+'''Código de ejemplos: ''' [[attachment:Introduccion a wxPython.zip]] <<BR>>
 
 ----
 == Python a los bifes ==
