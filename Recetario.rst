@@ -112,6 +112,8 @@ PythonCard: Ejemplo de como hacer una aplicación de escritorio desde 0 (para pr
 
 [[tkVersionPrint]]: Obtener la version de TK que se esta usando.
 
+[[GTKonTK]]: Usar temas de GTK en Tk ''(Hack)''.
+
 == Emails ==
 === GMail ===
 /GmailMail : Cómo enviar emails usando Gmail como SMTP
