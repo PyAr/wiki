@@ -2,6 +2,8 @@ System Tray
 
 Más info en http://www.learnpygtk.org/pygtktutorial/statusicon.html
 
+{{attachment:trayapp.png}}
+
 {{{
 #!code python
 '''Mini ejemplo de system tray app.'''
