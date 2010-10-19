@@ -86,7 +86,7 @@ GtkLabelConColor: ejemplo de como cambiar el color de un label sin usar pango ma
 
 /GtkWebkitEditor: ejemplo de como usar webkit para editar paginas HTML como si fuera un editor
 
-GtkStatusIcon: ejemplo de aplicación con ícono en el system tray.
+/GtkStatusIcon: ejemplo de aplicación con ícono en el system tray.
 
 === Gtk + glade ===
 [[GtkGladeHolaMundoOO]] : una ventana que muestra el mensaje hola mundo programado utilizando orientacion a objetos
