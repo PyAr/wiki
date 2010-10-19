@@ -144,3 +144,13 @@ MarceloFernández
 '''Slides ODP: ''' [[attachment:Introduccion a wxPython.odp]]
 '''Slides PDF: ''' [[attachment:Introduccion a wxPython.pdf]]
 '''Código de ejemplos: ''' [[attachment:Introduccion a wxPython.zip]]
+
+----
+== Python a los bifes ==
+MartinGaitan
+
+"Ejemplos de aplicación de Python en una carrera de Ingeniería"
+
+'''Slides: ''' [[http://lab.nqnwebs.com/charlas/alosbifes/python_a_los_bifes.html]]
+'''Fuentes: ''' [[http://nqnwebs.com/IMG/gz/alosbifestardc6c.gz]]
+'''Post: ''' [[http://nqnwebs.com/blog/article/charla-python-a-los-bifes]]
