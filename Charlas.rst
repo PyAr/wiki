@@ -127,3 +127,12 @@ JuanFisanotti
 ''Claudio Freire''
 
 '''Slides: '''[[attachment:MemDefrag.pdf]] (pdf) [[attachment:MemDefrag.odp]] (OpenOffice)
+
+----
+== Mini Introducción a Django ==
+JuanFisanotti
+
+
+'''Slides: ''' [[attachment:intro django.odp]]
+'''Guión del ejemplo: ''' [[attachment:guion-ejemplo-intro-django.txt]]
+'''Código del ejemplo: ''' [[attachment:ejemplo-intro-django.zip]]
