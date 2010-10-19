@@ -13,6 +13,7 @@ De fondo Gedit en Ubuntu, usando el tema Ambiance, arriba una ventana con simila
 '''El Codigo para hacer GTK on TK:'''
 
 {{{
+#!code python
 #
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
@@ -178,6 +179,7 @@ Descripcion: Crea 2 ventanas pequeñas iguales, una tratara de imitar el tema de
 ~-''(el ejemplo funciona en Ubuntu, que es lo que yo uso, usa el codigo de arriba, lejos de estar bien hecho, pero sirve de ejemplo)''.-~
 
 {{{
+#!code python
 #
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
