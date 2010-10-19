@@ -1,4 +1,7 @@
+== GtkStatusIcon ==
+
 Aplicación con ícono en el area de notificaciones.
+
 Tiene un menú contextual (About/Close) y con el botón izquierdo abre una ventana simple.
 
 Más info en http://www.learnpygtk.org/pygtktutorial/statusicon.html
