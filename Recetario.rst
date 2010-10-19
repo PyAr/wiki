@@ -1,6 +1,5 @@
-#language es 
+#language es
 #pragma section-numbers 2
-
 = Recetario =
 ''Nuestro !CookBook, en vías desarrollo.'' A este lugar uno recurre cada vez que se encuentra en la cocina de Python, cuchillo en mano y se da cuenta que a sus ingredientes le faltan el toque de un cheff experto. Nuestra especialidad son las recetas autóctonas. ¿Platos magistrales que fallan al sazonar con acentos y eñes? ¿números que saben mal si no son previamente fritos en castellano? ¡Siga leyendo!
 
@@ -19,6 +18,7 @@ Cómo IterarSobrePares de una secuencia.
 == Expresiones regulares ==
 === Extraer todos los mails de un texto ===
 /ExtraerMails de un texto utilizando el módulo re.
+
 == Formatos, datos, números y conversiones ==
 === aLetras ===
 [[aLetras]] : Función que al recibir un número lo convierte a letras. Regresa su forma por extensión (ejemplo: 123 -> "CIENTO VEINTITRES")
@@ -164,23 +164,22 @@ SimpleXmlElement: ejemplo de manejo de xml por elementos simples (simil php), pe
 == Python Internals ==
 LocalsDeUnaFuncionQueLanzoUnaExcepcion: ejemplo de como obtener las variables locales a la función que lanzo una excepion
 
-[[PsycoSpeedUp]]: Como acelerar las aplicaciones con Psyco, si esta presente.
+PsycoSpeedUp: Como acelerar las aplicaciones con Psyco, si esta presente.
+
+MapeandoMemoria: Cómo generar un mapa de la memoria con heapy
 
 == Numpy, Scipy, Matplotlib ==
 [[/Histograma]]: Ejemplo sencillo de uso de la función ''hist''
 
 == Administracion de Sistemas Operativos ==
-
 /ListarProcesos: como listar procesos multiplataforma
 
 == Internet ==
-
 /RevisarConexion: revisar si estamos conectados a internet conexión.
 
-/ObtenerBytesTransferidos: obtener la cantidad de datos transferidos en Bytes. 
+/ObtenerBytesTransferidos: obtener la cantidad de datos transferidos en Bytes.
 
 == Misceláneo ==
-
 /MatrixPythonToy: Efecto "The Matrix" en linea de comandos, ideal CLI Screen Saver / Screen Lock.
 
 /SaberSiNlibreriaEstaInstalada: Saber si N Libreria esta instalada sin ingresar al interprete de Python.
