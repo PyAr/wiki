@@ -15,6 +15,7 @@ Si todavía querés tu remera y no llegaste a pedirla, anotate en esta nueva lis
 ||Federico Peretti (fperetti) ||1 XXL Hombre Arena /1 XXL Hombre Negra ||Amigo en PyConAr|| ||
 ||Fabián E. Gallina (fabian AT anue DOT biz)||1 L Hombre Negra ||personalmente en PyConAr|| ||
 ||Alejandro Santos (alejolp) ||1 XL Hombre Negra ||PyConAr|| ||
+||Nicolas Bordenabe || 1 L (hombre) Azul Francia ||Personalmente donde haga falta si es en CBA, si no, contrarreembolso|| nbordenabe EN gmail ||
 
 === Pedidos para PyConAr -- cerrado -- ===
 '''NO EDITAR ESTA TABLA!!! '''
