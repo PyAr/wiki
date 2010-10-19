@@ -11,7 +11,7 @@ Finalmente, memmap tiene el mapa de la memoria, y el detalle por si se quiere ge
 
 Probablemente para un uso concreto sea necesario extender memmap antes del memmap.sort(), agregando buffers específicos de la aplicación que no caigan dentro de lo consumido por python. Por ejemplo, los objetos mmap tienen asociados grandes pedazos de memoria que no aparecerían en el mapa, y si se usan mucho en la aplicación convendría incluirlos, o buffers significativos utilizados por bibliotecas de extensión.
 
-Este código sólo funciona en CPython, puesto que utiliza el hecho de que id() devuelve la dirección en memoria de un objeto. Eso no es cierto en Jython, PyPy y muchas otras implementaciones.
+Este código sólo funciona en CPython, puesto que utiliza el hecho de que id() devuelve la dirección en memoria de un objeto. Eso no es cierto en Jython, !PyPy y muchas otras implementaciones.
 
 
 {{{#!python
