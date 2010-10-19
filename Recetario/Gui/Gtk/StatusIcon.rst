@@ -2,7 +2,7 @@
 
 Aplicación con ícono en el area de notificaciones.
 
-Tiene un menú contextual (About/Close) y con el botón izquierdo abre una ventana simple.
+Tiene un menú contextual (About/Quit) y con el botón izquierdo abre una ventana simple.
 
 {{attachment:trayapp.png}}
 
