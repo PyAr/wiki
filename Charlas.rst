@@ -136,3 +136,11 @@ JuanFisanotti
 '''Slides: ''' [[attachment:intro django.odp]]
 '''Guión del ejemplo: ''' [[attachment:guion-ejemplo-intro-django.txt]]
 '''Código del ejemplo: ''' [[attachment:ejemplo-intro-django.zip]]
+
+----
+== Introducción a wxPython ==
+MarceloFernández
+
+'''Slides ODP: ''' [[attachment:Introduccion a wxPython.odp]]
+'''Slides PDF: ''' [[attachment:Introduccion a wxPython.pdf]]
+'''Código de ejemplos: ''' [[attachment:Introduccion a wxPython.zip]]
