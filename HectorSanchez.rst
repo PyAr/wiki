@@ -1,5 +1,6 @@
 ##master-page:HomepageTemplate
 #format wiki
+<<Twitter(usuario="hectorksanchez")>>
 == Héctor Sanchez - (Karucha) ==
 
 Me divierte programar, me gusta trabajar en grupo y compartir proyectos.
@@ -20,7 +21,6 @@ Email: <<MailTo(hsanchez AT SPAMFREE pressenter DOT com DOT ar)>>
 Blog : [[http://www.karuchin.com.ar]]
 
 Twitter: 
-<<Twitter(usuario="hectorksanchez")>>
 
 ----
 CategoryHomepage
