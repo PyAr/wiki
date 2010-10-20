@@ -154,3 +154,12 @@ MartinGaitan
 '''Slides: ''' [[http://lab.nqnwebs.com/charlas/alosbifes/python_a_los_bifes.html]]
 '''Fuentes: ''' [[http://nqnwebs.com/IMG/gz/alosbifestardc6c.gz]]
 '''Post: ''' [[http://nqnwebs.com/blog/article/charla-python-a-los-bifes]]
+
+----
+== Extendiendo aplicaciones en C y C++ con Python ==
+AngelFreire
+
+"Extender aplicaciones desarrolladas en C o C++ utilizando la API que CPython provee."
+
+'''Slides: ''' [[http://github.com/cuerty/eacpy/raw/master/eacpy.odp]]
+'''Fuentes: ''' [[http://github.com/cuerty/eacpy]]
