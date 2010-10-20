@@ -12,7 +12,7 @@ En esta página podrán encontrar los ''slides'' de charlas y presentaciones dic
 == De 0 a Python en 45 minutos ==
 ''Daniel F. Moisset''
 
-'''Links:''' [[http://www.grulic.org.ar/eventos/pythonday1/material/20060819-de-0-a-python.odp|slides]].
+'''Slides:''' [[attachment:de0aPython.odp]].
 
 ----
 == PyGTK y Glade ==
