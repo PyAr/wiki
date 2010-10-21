@@ -1,7 +1,7 @@
 ## page was renamed from Recetario/CerrarCorrectamenteTuPrograma
 {{{#!wiki caution
    '''Cuidado!'''
-   flushear todo el file system usando esto, es bastante peligroso, y poco eficiente.
+   Esta receta no se aplica en todos los casos...
 }}}
 
 
