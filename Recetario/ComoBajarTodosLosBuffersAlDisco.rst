@@ -1,6 +1,6 @@
 {{{#!wiki caution
    '''Cuidado!'''
-   flushear todo el file system usando esto, es bastante peligroso, y poco eficiente, el mejor camino es utilizar os.fsync(<file-descriptor>) al cerrar un archivo... [[http://docs.python.org/library/os.html | ver la documentación de python]]
+   flushear todo el file system usando esto, es bastante peligroso, y poco eficiente.
 }}}
 
 
