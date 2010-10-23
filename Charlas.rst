@@ -164,13 +164,16 @@ AngelFreire
 '''Slides: ''' [[http://github.com/cuerty/eacpy/raw/master/eacpy.odp]]
 '''Fuentes: ''' [[http://github.com/cuerty/eacpy]]
 
+----
 == Pycasa Inside: PyGTK usando Glade ==
 NataliaBidart
 
 '''Slides: ''' [[attachment:pycasa_inside_pygtk_on_glade.pdf]]
 
+----
 == Mythbusters: Tests ==
 NataliaBidart
 
 '''Slides: ''' [[attachment:mythbusters-tests.pdf]]
+
 '''Slides "Test runners": ''' [[attachment:test-runners.pdf]]
