@@ -194,3 +194,15 @@ NicoEchaniz
 
 [[ http://nicoechaniz.com.ar/charla_pycon2010_s5/ | Slides ]]
 [[ http://cyclope3.codigosur.org/movieclip/charla-en-pycon2010/ | Video]]
+
+----
+== Programando Python en Android ==
+MatiasBordese
+
+'''Slides: ''' [[attachment:PythonEnAndroid.pdf]]
+
+----
+== Behind the scenes: Python Bytecode ==
+MatiasBordese
+
+'''Slides: ''' [[attachment:PythonBytecode.pdf]]
