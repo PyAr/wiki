@@ -186,4 +186,4 @@ NataliaBidart
 == Entendiendo decoradores en Python ==
 JuanjoConti
 
-'''Slides: ''' [[attachment:EntendiendoDecoradoresEnPython2010JuanjoConti]]
+'''Slides: ''' [[attachment:EntendiendoDecoradoresEnPython2010JuanjoConti.pdf]]
