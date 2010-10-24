@@ -177,3 +177,9 @@ NataliaBidart
 '''Slides: ''' [[attachment:mythbusters-tests.pdf]]
 
 '''Slides "Test runners": ''' [[attachment:test-runners.pdf]]
+
+----
+== Entendiendo decoradores en Python ==
+JuanjoConti
+
+'''Slides: ''' 
