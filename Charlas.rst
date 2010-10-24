@@ -187,3 +187,10 @@ NataliaBidart
 JuanjoConti
 
 '''Slides: ''' [[attachment:EntendiendoDecoradoresEnPython2010JuanjoConti.pdf]]
+
+----
+== Cyclope 3: un CMS libre desarrollado en Python/Django ==
+NicoEchaniz
+
+[[ http://nicoechaniz.com.ar/charla_pycon2010_s5/ | Slides ]]
+[[ http://cyclope3.codigosur.org/movieclip/charla-en-pycon2010/ | Video]]
