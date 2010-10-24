@@ -129,14 +129,6 @@ JuanFisanotti
 '''Slides: '''[[attachment:MemDefrag.pdf]] (pdf) [[attachment:MemDefrag.odp]] (OpenOffice)
 
 ----
-== Introducción a wxPython ==
-MarceloFernández
-
-'''Slides ODP: ''' [[attachment:Introduccion a wxPython.odp]] <<BR>>
-'''Slides PDF: ''' [[attachment:Introduccion a wxPython.pdf]] <<BR>>
-'''Código de ejemplos: ''' [[attachment:Introduccion a wxPython.zip]] <<BR>>
-
-----
 == Python a los bifes ==
 MartinGaitan
 
@@ -206,3 +198,11 @@ MatiasBordese
 MatiasBordese
 
 '''Slides: ''' [[attachment:PythonBytecode.pdf]]
+
+----
+== Introducción a wxPython ==
+MarceloFernández
+
+'''Slides ODP: ''' [[attachment:Introduccion a wxPython.odp]] <<BR>>
+'''Slides PDF: ''' [[attachment:Introduccion a wxPython.pdf]] <<BR>>
+'''Código de ejemplos: ''' [[attachment:Introduccion a wxPython.zip]] <<BR>>
