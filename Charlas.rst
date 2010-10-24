@@ -129,15 +129,6 @@ JuanFisanotti
 '''Slides: '''[[attachment:MemDefrag.pdf]] (pdf) [[attachment:MemDefrag.odp]] (OpenOffice)
 
 ----
-== Mini Introducción a Django ==
-JuanFisanotti
-
-
-'''Slides: ''' [[attachment:intro django.odp]]
-'''Guión del ejemplo: ''' [[attachment:guion-ejemplo-intro-django.txt]]
-'''Código del ejemplo: ''' [[attachment:ejemplo-intro-django.zip]]
-
-----
 == Introducción a wxPython ==
 MarceloFernández
 
@@ -164,7 +155,20 @@ AngelFreire
 '''Slides: ''' [[http://github.com/cuerty/eacpy/raw/master/eacpy.odp]]
 '''Fuentes: ''' [[http://github.com/cuerty/eacpy]]
 
+= PyConAr2010 =
+
+
+== Mini Introducción a Django ==
+
+JuanFisanotti
+
+
+'''Slides: ''' [[attachment:intro django.odp]]
+'''Guión del ejemplo: ''' [[attachment:guion-ejemplo-intro-django.txt]]
+'''Código del ejemplo: ''' [[attachment:ejemplo-intro-django.zip]]
+
 ----
+
 == Pycasa Inside: PyGTK usando Glade ==
 NataliaBidart
 
@@ -182,4 +186,4 @@ NataliaBidart
 == Entendiendo decoradores en Python ==
 JuanjoConti
 
-'''Slides: ''' 
+'''Slides: ''' [[attachment:EntendiendoDecoradoresEnPython2010JuanjoConti]]
