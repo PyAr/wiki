@@ -30,46 +30,16 @@ No hace falta registrarse, pero vení temprano para asegurarte un lugar porque l
 
 
 === Día 4: Sábado 11 de Septiembre ===
-'''Introducción al Desarrollo Web II'''
+'''[[/IntroducciónAlDesarrolloWebII| Introducción al Desarrollo Web II]]'''
 
-''Esta charla busca introducir a los asistentes la historia, situación actual y características principales del mundo web (HTML, HTTP, MVC, etc.), presentando la herramienta de desarrollo Web2Py, de muy fácil uso y aprendizaje, y a su vez, completamente funcional para desarrollar aplicaciones web 2.0 de manera totalmente interactiva (diseño y programación por el navegador web!), incluyendo las últimas tecnologías de una forma simple y clara (javascript, ajax, css, etc.). Recorreremos los temas principales mostrando el desarrollo rápido de una aplicación a modo de ejemplo. (segunda parte)''
-
- * Disertantes: Mariano Reingart y Alejandro J. Cura
-
- * 10:30 a 12:30 horas
-
-'''Django'''
-
-''Django es un framework para construir páginas web de una manera sencilla, facilitando las tareas comunes que esto implica y protegiéndonos de los ataques más conocidos en la web. La principal idea de Django es hacer que nuestro desarrollo sea placentero y poco repetitivo, brindándonos las herramientas básicas para resolver los problemas  que se frecuentan en el desarrollo web. ''
-
-''Esta charla está orientada a principiantes, con poco conocimiento en el desarrollo web y en Python. Iniciaremos con una introducción a los principales aspectos e iremos construyendo un sitio muy simple mostrando los conceptos antes mencionados.''
-
- * Disertante: Manuel Kaufmann
-
- * 13 a 15 horas
-
- * Presentación: En el [[http://humitos.wordpress.com/2010/09/11/introduccion-a-django-charla/|blog]] de Manuel.
+'''[[/Django | Django]]'''
 
 === Día 5: Sábado 25 de Septiembre ===
-'''Introducción a las Interfaces Gráficas de Escritorio I'''
+'''[[/IntroducciónGUI_I |Introducción a las Interfaces Gráficas de Escritorio I]]'''
 
-''En esta charla se verán los conceptos básicos de desarrollo de aplicaciones gráficas, programación orientada a eventos, diseño de interfaces gráficas, y tecnologías relacionadas. (primera parte)''
 
- * Disertante: Roberto Alsina
+'''[[/IntroducciónAPlone | Introducción al uso y desarrollo con Plone]]'''
 
- * 10:30 a 12:30 horas
-
-<<Video(http://pyar.usla.org.ar/charlasabiertas2010/intro_desktop_1.ogg)>>
-
-'''Introducción al uso y desarrollo con Plone'''
-
-''Plone es un sistema de gestión de contenidos (CMS) que permite desarrollar sitios e intranets con alto nivel de personalización y funcionalidades muy complejas en muy poco tiempo. En esta charla se presentarán los conceptos escenciales para su uso y la filosofía detras del desarrollo centrado en Plone.''
-
- * Disertante: Roberto Allende
-
- * 13 a 15 horas
-
-<<Video(http://pyar.usla.org.ar/charlasabiertas2010/plone.ogg)>>
 
 
 === Día 6: Sábado 2 de Octubre ===
