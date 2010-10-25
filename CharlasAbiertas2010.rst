@@ -24,27 +24,10 @@ No hace falta registrarse, pero vení temprano para asegurarte un lugar porque l
 
 
 === Día 3: Sábado 21 de Agosto ===
-'''Introducción al Desarrollo Web I'''
+'''[[/IntroducciónAlDesarrolloWebI |Introducción al Desarrollo Web I]]'''
 
-''Esta charla busca introducir a los asistentes la historia, situación actual y características principales del mundo web (HTML, HTTP, MVC, etc.), presentando la herramienta de desarrollo !Web2Py, de muy fácil uso y aprendizaje, y a su vez, completamente funcional para desarrollar aplicaciones web 2.0 de manera totalmente interactiva (diseño y programación por el navegador web!), incluyendo las últimas tecnologías de una forma simple y clara (javascript, ajax, css, etc.). Recorreremos los temas principales mostrando el desarrollo rápido de una aplicación a modo de ejemplo. (primera parte)''
+'''[[/FooBar |!FooBar (virtualenv, buildout, nose)]]'''
 
- * Disertantes: Mariano Reingart y Alejandro J. Cura
-
- * 10:30 a 12:30 horas
-
-<<Video(http://pyar.usla.org.ar/charlasabiertas2010/intro_web_1.ogg)>>
-
-'''!FooBar (virtualenv, buildout, nose)'''
-
-''Esta charla muestra como utilizar herramientas para producir entornos reproducibles de desarrollo, de manera que tus aplicaciones funcionen en cualquier sistema en el que desees instalarlo. ''
-
-''Adicionalmente, se verá la relación con testing mediante nose.''
-
- * Disertante: Roberto Alsina
-
- * 13 a 15 horas
-
-<<Video("http://pyar.usla.org.ar/charlasabiertas2010/foobar.ogg")>>
 
 === Día 4: Sábado 11 de Septiembre ===
 '''Introducción al Desarrollo Web II'''
