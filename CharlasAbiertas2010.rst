@@ -5,6 +5,8 @@ Distribuidas a lo largo de varios sábados del segundo semestre del año, cubren
 
 Por favor ayuden con la difusión! Si quieren pueden imprimir [[attachment:CharlasAbiertasPythonLaTribu2010.pdf|este folleto]] y pegarlo en vuestros lugares de trabajo y/o estudio.
 
+<<TableOfContents>>
+
 == Datos del evento ==
 Las charlas serán dadas en La Tribu, Lambaré 873.
 
@@ -13,34 +15,6 @@ La entrada es libre y gratuita. Se pasará una gorra voluntaria durante los curs
 No hace falta registrarse, pero vení temprano para asegurarte un lugar porque los cupos son limitados.
 
 == Cronograma ==
-=== Día 1: Sábado 24 de Julio ===
-'''[[/IntroducciónALaProgramación |Introducción a la Programación]]'''
-
-
-
-=== Día 2: Sábado 31 de Julio ===
-'''[[/IntroducciónAPython | Introducción a Python]]'''
-
-
-
-=== Día 3: Sábado 21 de Agosto ===
-'''[[/IntroducciónAlDesarrolloWebI |Introducción al Desarrollo Web I]]'''
-
-'''[[/FooBar |!FooBar (virtualenv, buildout, nose)]]'''
-
-
-=== Día 4: Sábado 11 de Septiembre ===
-'''[[/IntroducciónAlDesarrolloWebII| Introducción al Desarrollo Web II]]'''
-
-'''[[/Django | Django]]'''
-
-=== Día 5: Sábado 25 de Septiembre ===
-'''[[/IntroducciónGUI_I |Introducción a las Interfaces Gráficas de Escritorio I]]'''
-
-
-'''[[/IntroducciónAPlone | Introducción al uso y desarrollo con Plone]]'''
-
-
 
 === Día 6: Sábado 2 de Octubre ===
 '''Introducción a las Interfaces Gráficas de Escritorio II'''
@@ -105,3 +79,21 @@ No hace falta registrarse, pero vení temprano para asegurarte un lugar porque l
  * Disertantes: Alejandro J. Cura y Hector Sanchez
 
  * 10:30 a 15 horas, con un break de 30' en el medio
+
+== Charlas Realizadas ==
+
+ * '''[[/IntroducciónALaProgramación |Introducción a la Programación]]'''
+
+ * '''[[/IntroducciónAPython | Introducción a Python]]'''
+
+ * '''[[/IntroducciónAlDesarrolloWebI |Introducción al Desarrollo Web I]]'''
+ 
+ * '''[[/IntroducciónAlDesarrolloWebII| Introducción al Desarrollo Web II]]'''
+
+ * '''[[/FooBar |!FooBar (virtualenv, buildout, nose)]]'''
+ 
+ * '''[[/Django | Django]]'''
+
+ * '''[[/IntroducciónGUI_I |Introducción a las Interfaces Gráficas de Escritorio I]]'''
+
+ * '''[[/IntroducciónAPlone | Introducción al uso y desarrollo con Plone]]'''
