@@ -17,7 +17,7 @@ No hace falta registrarse, pero vení temprano para asegurarte un lugar porque l
 == Cronograma ==
 
 === Día 6: Sábado 2 de Octubre ===
-'''Introducción a las Interfaces Gráficas de Escritorio II'''
+==== Introducción a las Interfaces Gráficas de Escritorio II ====
 
 ''En esta charla se verán los conceptos básicos de desarrollo de aplicaciones gráficas, programación orientada a eventos, diseño de interfaces gráficas, y tecnologías relacionadas. (segunda parte)''
 
@@ -25,7 +25,7 @@ No hace falta registrarse, pero vení temprano para asegurarte un lugar porque l
 
  * 10:30 a 12:30 horas
 
-'''wxPython'''
+==== wxPython ====
 
 ''Se presentará una introducción al desarrollo "visual" de aplicaciones de escritorio (GUI), usando PythonCard, un conjunto de herramientas de  construcción GUI para crear aplicaciones de escritorio multiplataforma  (simil Visual Basic). PythonCard usa wxPython y veremos las características básicas de este potente toolkit gráfico, incluyendo el diseño "visual" de interfaces  "modernas" con wxGlade y una intro sobre buenas prácticas con wx  -como separar una aplicación en capas (MVC)-, entre otros ejemplos.''
 
@@ -34,7 +34,7 @@ No hace falta registrarse, pero vení temprano para asegurarte un lugar porque l
  * 13 a 15 horas
 
 === Día 7: Sábado 30 de Octubre ===
-'''Optimizando Python'''
+==== Optimizando Python ====
 
 ''Optimización: Elección del algoritmo y estructura de datos adecuados al problema. Medición de performance usando timeit. Herramientas para mejorar la velocidad: psyco y shedskin (genéricas); Cython (extensiones en C); !NumPy (para cálculo numérico).''
 
@@ -42,7 +42,7 @@ No hace falta registrarse, pero vení temprano para asegurarte un lugar porque l
 
  * 10:30 a 12:30 horas
 
-'''!PyQt'''
+ ==== !PyQt ====
 
 ''Veremos el desarrollo de una aplicación de escritorio sencilla de principio a fin, con todos sus componentes, internacionalización, deployment, etc.''
 
@@ -51,7 +51,7 @@ No hace falta registrarse, pero vení temprano para asegurarte un lugar porque l
  * 13 a 15 horas
 
 === Día 8: Sábado 13 de Noviembre ===
-'''Python 3000'''
+==== Python 3000 ====
 
 ''Esta charla presenta la evolución de Python, la versión 3 del lenguaje (a.k.a. Python 3000), y explica las razones por las cuales se planeó y ejecutó esta evolución.''
 
@@ -61,7 +61,7 @@ No hace falta registrarse, pero vení temprano para asegurarte un lugar porque l
 
  * 10:30 a 12:30 horas
 
-'''Twisted'''
+==== Twisted ====
 
 ''Vamos a ver porque el modelo de twisted es necesario, como se programa en modo asyncronico usando deferreds y conocer el api de red de twisted para hacer servicios.''
 
@@ -70,7 +70,7 @@ No hace falta registrarse, pero vení temprano para asegurarte un lugar porque l
  * 13 a 15 horas
 
 === Día 9: Sábado 20 de Noviembre ===
-'''Taller de Programación de Juegos'''
+==== Taller de Programación de Juegos ====
 
 ''Mostraremos cómo hacer juegos y actividades educativas sencillas, usando Python y la biblioteca PyGame. ''
 
