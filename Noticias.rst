@@ -1,3 +1,4 @@
+#acl AdminGroup:admin,read,write,delete,revert ToqueTones:read,write All:read 
 ## Las noticias se agregan acá. Mantener un orden cronológico descendente.
 ## Cuando el texto de la noticia es suficientemente amplio, crear una nueva página con el detalle de la noticia como una sub-página de ésta.
 ##
