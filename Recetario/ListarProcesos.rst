@@ -19,3 +19,16 @@ for pid in psutil.get_pid_list():
     print proc.name, proc.cmdline, proc.pid
 
 }}}
+
+En la versión 0.3 de psutil el Ejemplo puede quedar como:
+
+{{{
+#!code python
+import psutil
+
+for proc in psutil.get_process_list():
+    if proc.username != "root":
+        continue
+    print proc.name, proc.cmdline, proc.pid
+
+}}}
