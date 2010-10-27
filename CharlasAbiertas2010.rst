@@ -42,7 +42,7 @@ No hace falta registrarse, pero vení temprano para asegurarte un lugar porque l
 
  * 10:30 a 12:30 horas
 
- ==== PyQt ====
+==== PyQt ====
 
 ''Veremos el desarrollo de una aplicación de escritorio sencilla de principio a fin, con todos sus componentes, internacionalización, deployment, etc.''
 
