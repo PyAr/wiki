@@ -189,3 +189,5 @@ MapeandoMemoria: Cómo generar un mapa de la memoria con heapy
 /RootCheck: Comprobar si somos root y actuar en funcion de eso, orientado a Linux.
 
 /CerrarCorrectamenteTuPrograma: Best Practice para un programa en Linux para cerrarse.
+
+/ProgressbarUrllib2: Como descargar algo de internet y mostrar una barrita de progreso.
