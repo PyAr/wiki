@@ -1,6 +1,7 @@
 = Progressbar y Urllib2 =
 Este es un ejemplito de como descargar algo y a medida que se descarga, mostrar una barrita de progreso.
 
+{{{
 def download_python():
     url = 'http://www.python.org/ftp/python/2.7/Python-2.7.tar.bz2'
     fname = url.split('/')[-1]
@@ -24,3 +25,4 @@ def download_python():
     file.write(data)
     pbar.finish()
     file.close()
+}}}
