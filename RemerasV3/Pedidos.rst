@@ -1,6 +1,19 @@
 Anotarse aquí implica un compromiso tácito de concretar la compra. Hasta el __miercoles 6 a las 13hs está abierta la lista__ para agregarse o modificar el pedido.  NO HAY STOCK de remeras en color CHOCOLATE y VERDE MILITAR. El precio de la remera es $35.-
 
 === Pedidos post PyConAr (o no garantizados para PyConAr) ===
+Pedidos via encomienda (a enviar)
+
+
+|| Roberto L. Bozzacchi || 1 M (hombre) Azul Marino || Contra-Reebolso || <<Erobbie@metasigno.com ||
+|| Guido Accardo ||1 L (hombre) Negro ||Contra-Reebolso || gaccardo@gmail.com ||
+|| Marcelo Martinovic ||2 XL (hombre) Negro / Blanco ||Contra-Reebolso || marcelo.martinovic@gmail.com ||
+|| Martin Alderete ||2 S (hombre) Arena / Gris oscuro ||Contra-Reebolso || malderete@gmail.com ||
+|| NahuelDefossé ||1 XL (hombre) Negra / 1 Xl (hombre) Azul Marino ||Contrareembolso/Envío || nahuel.defosse@gmail.com ||
+|| RamiroAlgozino ||1 M (hombre) Azul Marino ||encomienda previo depósito|| algozino@gmail.com ||
+
+
+
+
 Si todavía querés tu remera y no llegaste a pedirla, anotate en esta nueva lista de interesados. Nos pondremos en contacto con vos.
 ||'''Nombre''' ||'''Cantidad/Talle/Color/corte''' ||'''Modo de entrega ''' ||'''Observaciones''' ||
 ||judaz ||1 L Hombre Arena /1 M Mujer Azul Marino ||PyConAr (or later) || ||
@@ -8,14 +21,17 @@ Si todavía querés tu remera y no llegaste a pedirla, anotate en esta nueva lis
 ||Mariano Verdú ||1M (hombre) Azul Francia ||en PyConAr || ||
 ||Mariano García Berrotarán ||1 XL (hombre) negro / 1 S (mujer) negro ||personalmente en PyConAr || ||
 ||Anónimo R ||1 L de hombre Azul francia / 1 L hombre Arena ||personalmente en PyConAr || ||
-||FrancoPellegrini||1 L (hombre) Negro||en PyConAr|| ||
-||Matías Graña||1 L (hombre) negro||en PyConAr, por interpósita persona|| ||
+||FrancoPellegrini ||1 L (hombre) Negro ||en PyConAr || ||
+||Matías Graña ||1 L (hombre) negro ||en PyConAr, por interpósita persona || ||
 ||FacundoBatista ||Una XL de hombre (gris claro), otra XL de hombre (celeste bandera), un XS de hombre (celeste bandera), y una XL de mujer (gris oscuro) ||En PyConAr 10 || ||
-||RicardoKirkner|| 1 L hombre Azul Francia, 1 L hombre Gris oscuro, 1 M mujer Naranja || PyConAr || ||
-||Federico Peretti (fperetti) ||1 XXL Hombre Arena /1 XXL Hombre Negra ||Amigo en PyConAr|| ||
-||Fabián E. Gallina (fabian AT anue DOT biz)||1 L Hombre Negra ||personalmente en PyConAr|| ||
-||Alejandro Santos (alejolp) ||1 XL Hombre Negra ||PyConAr|| ||
-||Nicolas Bordenabe || 1 L (hombre) Azul Francia ||Personalmente donde haga falta si es en CBA, si no, contrarreembolso|| nbordenabe EN gmail ||
+||RicardoKirkner ||1 L hombre Azul Francia, 1 L hombre Gris oscuro, 1 M mujer Naranja ||PyConAr || ||
+||Federico Peretti (fperetti) ||1 XXL Hombre Arena /1 XXL Hombre Negra ||Amigo en PyConAr || ||
+||Fabián E. Gallina (fabian AT anue DOT biz) ||1 L Hombre Negra ||personalmente en PyConAr || ||
+||Alejandro Santos (alejolp) ||1 XL Hombre Negra ||PyConAr || ||
+||Nicolas Bordenabe ||1 L (hombre) Azul Francia ||Personalmente donde haga falta si es en CBA, si no, contrarreembolso ||nbordenabe EN gmail ||
+
+
+
 
 === Pedidos para PyConAr -- cerrado -- ===
 '''NO EDITAR ESTA TABLA!!! '''
@@ -38,7 +54,7 @@ Si todavía querés tu remera y no llegaste a pedirla, anotate en esta nueva lis
 ||Martin Alderete ||2 S (hombre) Arena / Gris oscuro ||Contra-Reebolso || malderete@gmail.com ||
 ||Horacio Bertorello ||1 L (hombre) Negro ||PyConAr || svankie@gmail.com ||
 ||Leonardo Vidarte ||1 M (hombre) Negro ||PyConAr ||lvidarte gmail ||
-||RamiroAlgozino ||1 M (hombre) Azul Marino ||encomienda previo depósito||algozino@gmail.com||
+||RamiroAlgozino ||1 M (hombre) Azul Marino ||encomienda previo depósito || algozino@gmail.com ||
 ||JuanFisanotti ||1 M (hombre) Negra ||PyConAr || ||
 ||NahuelDefossé ||1 XL (hombre) Negra / 1 Xl (hombre) Azul Marino ||Contrareembolso/Envío ||nahuel (punto) defosse (en) gmail ||
 ||ManuelKaufmann ||2 L (hombre) Naranja / Roja ||PyConAr || ||
@@ -70,6 +86,7 @@ Si todavía querés tu remera y no llegaste a pedirla, anotate en esta nueva lis
 ||JoaquinSorianello ||1 L (hombre) Azul Marino ||PyConAr || ||
 ||MarcosMoyano ||1 L (hombre) Gris Oscuro ||PyConAr || ||
 ||JPFuertes (via dave) ||2 L (hombre) Negro ||PyConAr || ||
+
 
 
 
@@ -108,3 +125,4 @@ Medida corte mujer:
 ||M ||45 ||40 ||59 ||
 ||L ||46 ||41 ||60 ||
 ||XL ||47 ||42 ||60 ||
+
