@@ -1,4 +1,4 @@
-Aprovechar antes de que limpiemos los shablones!
+= Aprovechen antes de que limpiemos los shablones! =
 
 Anotarse aquí implica un compromiso tácito de concretar la compra. NO HAY STOCK de remeras en color CHOCOLATE y VERDE MILITAR. El precio de la remera es $35.-
 
@@ -13,7 +13,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra. NO HAY STOC
 || RamiroAlgozino ||1 M (hombre) Azul Marino ||encomienda previo depósito|| algozino@gmail.com ||
 
 
-=== Pedidos Remeras V3b (Diseño Boa - las remeras celestes del Staff de PyConAr) ===
+=== Pedidos Remeras V3b ([[http://python.org.ar/pyar/RemerasV2/PabloZiliani2 Diseño Boa - las remeras celestes del Staff de PyConAr]]) ===
 
 Estas remeras las haremos sólo en 2 colores: celestes con impresión azul (como las que usaban l@s colaboradores/as en PyConAr) y Arena con impresión Marrón. Todos los talles disponibles. '''Muy bonitas!'''.   El precio es $35 c/u o PROMO 5 x $150 (para que la encomienda te salga casi gratis!)
 
