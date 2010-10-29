@@ -1,8 +1,6 @@
 Anotarse aquí implica un compromiso tácito de concretar la compra. Hasta el __miercoles 6 a las 13hs está abierta la lista__ para agregarse o modificar el pedido.  NO HAY STOCK de remeras en color CHOCOLATE y VERDE MILITAR. El precio de la remera es $35.-
 
 === Pedidos post PyConAr (o no garantizados para PyConAr) ===
-Pedidos via encomienda (a enviar)
-
 
 || Roberto L. Bozzacchi || 1 M (hombre) Azul Marino || Contra-Reebolso || <<Erobbie@metasigno.com ||
 || Guido Accardo ||1 L (hombre) Negro ||Contra-Reebolso || gaccardo@gmail.com ||
@@ -12,6 +10,8 @@ Pedidos via encomienda (a enviar)
 || RamiroAlgozino ||1 M (hombre) Azul Marino ||encomienda previo depósito|| algozino@gmail.com ||
 
 
+
+=== Pedidos entregados (no modificar) ===
 
 
 Si todavía querés tu remera y no llegaste a pedirla, anotate en esta nueva lista de interesados. Nos pondremos en contacto con vos.
@@ -125,4 +125,3 @@ Medida corte mujer:
 ||M ||45 ||40 ||59 ||
 ||L ||46 ||41 ||60 ||
 ||XL ||47 ||42 ||60 ||
-
