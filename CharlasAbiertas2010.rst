@@ -16,23 +16,6 @@ No hace falta registrarse, pero vení temprano para asegurarte un lugar porque l
 
 == Cronograma ==
 
-=== Día 6: Sábado 2 de Octubre ===
-==== Introducción a las Interfaces Gráficas de Escritorio II ====
-
-''En esta charla se verán los conceptos básicos de desarrollo de aplicaciones gráficas, programación orientada a eventos, diseño de interfaces gráficas, y tecnologías relacionadas. (segunda parte)''
-
- * Disertante: Roberto Alsina
-
- * 10:30 a 12:30 horas
-
-==== wxPython ====
-
-''Se presentará una introducción al desarrollo "visual" de aplicaciones de escritorio (GUI), usando PythonCard, un conjunto de herramientas de  construcción GUI para crear aplicaciones de escritorio multiplataforma  (simil Visual Basic). PythonCard usa wxPython y veremos las características básicas de este potente toolkit gráfico, incluyendo el diseño "visual" de interfaces  "modernas" con wxGlade y una intro sobre buenas prácticas con wx  -como separar una aplicación en capas (MVC)-, entre otros ejemplos.''
-
- * Disertante: Mariano Reingart
-
- * 13 a 15 horas
-
 === Día 7: Sábado 30 de Octubre ===
 ==== Optimizando Python ====
 
@@ -95,5 +78,9 @@ No hace falta registrarse, pero vení temprano para asegurarte un lugar porque l
  * '''[[/Django | Django]]'''
 
  * '''[[/IntroducciónGUI_I |Introducción a las Interfaces Gráficas de Escritorio I]]'''
+ 
+ * '''[[/IntroducciónGUI_II |Introducción a las Interfaces Gráficas de Escritorio II]]'''
+ 
+ * '''[[/wxPython| wxPython]]'''
 
  * '''[[/IntroducciónAPlone | Introducción al uso y desarrollo con Plone]]'''
