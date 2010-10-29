@@ -9,7 +9,8 @@ Anotarse aquí implica un compromiso tácito de concretar la compra. NO HAY STOC
 ||Martin Alderete ||2 S (hombre) Arena / Gris oscuro ||Contra-Reebolso || malderete@gmail.com ||
 ||NahuelDefossé ||1 XL (hombre) Negra / 1 Xl (hombre) Azul Marino ||Contrareembolso/Envío || nahuel.defosse@gmail.com ||
 ||RamiroAlgozino ||1 M (hombre) Azul Marino ||encomienda previo depósito || algozino@gmail.com ||
-
+||RamiroAlgozino ||1 M (hombre) Azul Marino ||encomienda previo depósito || algozino@gmail.com ||
+|| Martín Cerdeira || 1 M (hombre) Azul Marino  || Contra-Reebolso || martincerdeira@gmail.com ||
 
 === Pedidos Remeras V3b (Diseño Boa - las remeras celestes del Staff de PyConAr) ===
 
