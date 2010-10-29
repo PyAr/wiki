@@ -20,7 +20,7 @@ Estas remeras las haremos sólo en 2 colores: celestes con impresión azul (como
 
 
 ||'''Nombre''' ||'''Cantidad/Talle/Color/corte''' ||'''Modo de entrega ''' ||'''Observaciones''' ||
-
+|| Alejandro Pereira || 1 XL (hombre) Arena con impresión Marrón  || Contra-Reebolso || alepereira86@gmail.com ||
 
 
 == FAQs ==
