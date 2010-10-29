@@ -2,7 +2,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra. Hasta el __
 
 === Pedidos post PyConAr (o no garantizados para PyConAr) ===
 
-|| Roberto L. Bozzacchi || 1 M (hombre) Azul Marino || Contra-Reebolso || <<Erobbie@metasigno.com ||
+|| Roberto L. Bozzacchi || 1 M (hombre) Azul Marino || Contra-Reebolso || robbie@metasigno.com ||
 || Guido Accardo ||1 L (hombre) Negro ||Contra-Reebolso || gaccardo@gmail.com ||
 || Marcelo Martinovic ||2 XL (hombre) Negro / Blanco ||Contra-Reebolso || marcelo.martinovic@gmail.com ||
 || Martin Alderete ||2 S (hombre) Arena / Gris oscuro ||Contra-Reebolso || malderete@gmail.com ||
