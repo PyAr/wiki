@@ -1,8 +1,10 @@
 = CheckDistroVersion =
 
-Chequea la version de la Distribucion Linux, y actua en funcion de eso.
+Chequea la versión de la Distribución Linux, y actúa en función de eso.
+Utiliza el módulo [[http://www.python.org/doc//current/library/platform.html | platform]]
 
 {{{
+#!code python
 import platform
 
 osInfo = ('Ubuntu', '10.10', 'maverick')
