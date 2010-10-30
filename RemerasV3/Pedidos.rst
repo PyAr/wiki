@@ -11,6 +11,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra. NO HAY STOC
 ||RamiroAlgozino ||1 M (hombre) Azul Marino ||encomienda previo depósito || <<MailTo(algozino ARROBA gmail PUNTO com)>> ||
 || Martín Cerdeira || 1 M (hombre) Azul Marino  || Contra-Reebolso || <<MailTo(martincerdeira ARROBA gmail PUNTO com)>> ||
 || Natalia Villegas || 1 M (mujer) Arena  || Contra-Reembolso || <<MailTo(villegasnaty ARROBA gmail PUNTO com)>> ||
+|| Claudia Quispe || 1 S (mujer) Blanco  || Contra-Reembolso || <<MailTo(clauva83 ARROBA gmail PUNTO com)>> ||
 
 === Pedidos Remeras V3b (Diseño Boa - las remeras celestes del Staff de PyConAr) ===
 
