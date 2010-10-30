@@ -3,15 +3,14 @@ Anotarse aquí implica un compromiso tácito de concretar la compra. NO HAY STOC
 
 === Pedidos Remeras V3 (diseño del Zen) PyConAr ===
 ||'''Nombre''' ||'''Cantidad/Talle/Color/corte''' ||'''Modo de entrega ''' ||'''Observaciones''' ||
-||Roberto L. Bozzacchi ||1 M (hombre) Azul Marino ||Contra-Reebolso || robbie@metasigno.com ||
-||Guido Accardo ||1 L (hombre) Negro ||Contra-Reebolso || gaccardo@gmail.com ||
-||Marcelo Martinovic ||2 XL (hombre) Negro / Blanco ||Contra-Reebolso || marcelo.martinovic@gmail.com ||
-||Martin Alderete ||2 S (hombre) Arena / Gris oscuro ||Contra-Reebolso || malderete@gmail.com ||
-||NahuelDefossé ||1 XL (hombre) Negra / 1 Xl (hombre) Azul Marino ||Contrareembolso/Envío || nahuel.defosse@gmail.com ||
-||RamiroAlgozino ||1 M (hombre) Azul Marino ||encomienda previo depósito || algozino@gmail.com ||
-||RamiroAlgozino ||1 M (hombre) Azul Marino ||encomienda previo depósito || algozino@gmail.com ||
-|| Martín Cerdeira || 1 M (hombre) Azul Marino  || Contra-Reebolso || martincerdeira@gmail.com ||
-|| Natalia Villegas || 1 M (mujer) Arena  || Contra-Reembolso || villegasnaty@gmail.com ||
+||Roberto L. Bozzacchi ||1 M (hombre) Azul Marino ||Contra-Reebolso || <<MailTo(robbie ARROBA metasigno PUNTO com)>> ||
+||Guido Accardo ||1 L (hombre) Negro ||Contra-Reebolso || <<MailTo(gaccardo ARROBA gmail PUNTO com)>> ||
+||Marcelo Martinovic ||2 XL (hombre) Negro / Blanco ||Contra-Reebolso || <<MailTo(marcelo.martinovic ARROBA gmail PUNTO com)>> ||
+||Martin Alderete ||2 S (hombre) Arena / Gris oscuro ||Contra-Reebolso || <<MailTo(malderete ARROBA gmail PUNTO com)>> ||
+||NahuelDefossé ||1 XL (hombre) Negra / 1 Xl (hombre) Azul Marino ||Contrareembolso/Envío || <<MailTo(nahuel PUNTO defosse ARROBA gmail PUNTO com)>> ||
+||RamiroAlgozino ||1 M (hombre) Azul Marino ||encomienda previo depósito || <<MailTo(algozino ARROBA gmail PUNTO com)>> ||
+|| Martín Cerdeira || 1 M (hombre) Azul Marino  || Contra-Reebolso || <<MailTo(martincerdeira ARROBA gmail PUNTO com)>> ||
+|| Natalia Villegas || 1 M (mujer) Arena  || Contra-Reembolso || <<MailTo(villegasnaty ARROBA gmail PUNTO com)>> ||
 
 === Pedidos Remeras V3b (Diseño Boa - las remeras celestes del Staff de PyConAr) ===
 
