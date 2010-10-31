@@ -16,23 +16,6 @@ No hace falta registrarse, pero vení temprano para asegurarte un lugar porque l
 
 == Cronograma ==
 
-=== Día 7: Sábado 30 de Octubre ===
-==== Optimizando Python ====
-
-''Optimización: Elección del algoritmo y estructura de datos adecuados al problema. Medición de performance usando timeit. Herramientas para mejorar la velocidad: psyco y shedskin (genéricas); Cython (extensiones en C); !NumPy (para cálculo numérico).''
-
- * Disertante: Gabriel Genellina
-
- * 10:30 a 12:30 horas
-
-==== PyQt ====
-
-''Veremos el desarrollo de una aplicación de escritorio sencilla de principio a fin, con todos sus componentes, internacionalización, deployment, etc.''
-
- * Disertante: Roberto Alsina
-
- * 13 a 15 horas
-
 === Día 8: Sábado 13 de Noviembre ===
 ==== Python 3000 ====
 
@@ -84,3 +67,7 @@ No hace falta registrarse, pero vení temprano para asegurarte un lugar porque l
  * '''[[/wxPython| wxPython]]'''
 
  * '''[[/IntroducciónAPlone | Introducción al uso y desarrollo con Plone]]'''
+
+ * '''[[/OptimizandoPython | Optimizando Python]]'''
+
+ * '''[[/PyQt | PyQt]]'''
