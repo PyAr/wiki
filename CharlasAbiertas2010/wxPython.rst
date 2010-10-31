@@ -4,3 +4,5 @@
  * Disertante: Mariano Reingart
 
  * 13 a 15 horas
+
+<<Video(http://pyar.usla.org.ar/charlasabiertas2010/wxpython.ogg)>>
