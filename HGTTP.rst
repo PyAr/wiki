@@ -11,7 +11,7 @@ El tutorial solo tiene la parte organizacional y los detallitos del evento, la p
 
  * [[HGTTP/Equipo|Eleccion del equipo]]
  * [[HGTTP/Lugar|Eleccion del Lugar]]
- * [[HGTTP/Lugar|Sponsoring]]
+ * [[HGTTP/Sponsoring|Sponsoring]]
  * [[HGTTP/Informacion|Informacion]]
  * [[HGTTP/Contabilidad|Contabilidad]]
  * [[HGTTP/Disertantes|Disertantes]]
