@@ -4,3 +4,5 @@
  * Disertante: Roberto Alsina
 
  * 10:30 a 12:30 horas
+
+<<Video(http://pyar.usla.org.ar/charlasabiertas2010/intro_desktop_2.ogg)>>
