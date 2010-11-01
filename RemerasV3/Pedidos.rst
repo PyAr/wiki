@@ -8,7 +8,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra. NO HAY STOC
 ||Marcelo Martinovic ||2 XL (hombre) Negro / Blanco ||Contra-Reebolso || <<MailTo(marcelo.martinovic ARROBA gmail PUNTO com)>> ||
 ||Martin Alderete ||2 S (hombre) Arena / Gris oscuro ||Contra-Reebolso || <<MailTo(malderete ARROBA gmail PUNTO com)>> ||
 ||NahuelDefossé ||1 XL (hombre) Negra / 1 Xl (hombre) Azul Marino ||Contrareembolso/Envío || <<MailTo(nahuel PUNTO defosse ARROBA gmail PUNTO com)>> ||
-||RamiroAlgozino ||1 M (hombre) Azul Marino ||encomienda previo depósito || <<MailTo(algozino ARROBA gmail PUNTO com)>> ||
+||RamiroAlgozino ||1 S (hombre) Azul Marino (si no hay azul, cualquier color) ||encomienda previo depósito || <<MailTo(algozino ARROBA gmail PUNTO com)>> ||
 || Martín Cerdeira || 1 M (hombre) Azul Marino  || Contra-Reebolso || <<MailTo(martincerdeira ARROBA gmail PUNTO com)>> ||
 || Natalia Villegas || 1 M (mujer) Arena  || Contra-Reembolso || <<MailTo(villegasnaty ARROBA gmail PUNTO com)>> ||
 || Claudia Quispe || 1 S (mujer) Blanco  || Contra-Reembolso || <<MailTo(clauva83 ARROBA gmail PUNTO com)>> ||
