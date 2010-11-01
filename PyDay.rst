@@ -56,11 +56,13 @@ Luego del evento, para los interesados y en la medida de lo posible, se suelen h
 
 === Sitios organizativos pasados ===
  * PyDay Rafaela: http://groups.google.com.ar/group/pyday-rafaela
+ * PyDay Buenos Aires: http://groups.google.com.ar/group/pyday-baires
 
 === Sitios web pasados ===
  * http://pyday.python.com.ar/
  * http://www.pythonsantafe.com.ar/
  * http://www.pyday.com.ar/rafaela2010
+ * http://www.pyday.com.ar/buenosaires2010
 
 === Materiales ===
  * [[Material]] (Bandera, folletos de PyAr, estandartes)
@@ -78,6 +80,6 @@ Aplicación lista para usar hecha en [[http://www.web2py.com.ar|web2py]], basada
  * Listados de asistencia y para envío de emails
  * Auspiciantes, ayuda económica, gastos, pagos (algunos deshabilitados)
 
-Pueden verlo andando para el [[http://www.pyday.com.ar/rafaela2010|PyDay Rafaela 2010]] y [[http://www.institutopascal.edu.ar/flisol2010|FLISOL 2010 González Catán]]
+Pueden verlo andando para el [[http://www.pyday.com.ar/rafaela2010|PyDay Rafaela 2010]] y [[http://www.institutopascal.edu.ar/flisol2010|FLISOL 2010 González Catán]] y [[http://www.jornadasregionales.org/jrsl2010v2|Jornadas Regionales de Software Libre 2010]]
 
-Próximamente estará publicado el código fuente y paquete instalable
+El código fuente está publicado en [[http://code.google.com/r/reingart-web2conf/|googlecode]], proximamente paquete instalable
