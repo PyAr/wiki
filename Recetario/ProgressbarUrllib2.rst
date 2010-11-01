@@ -3,6 +3,8 @@ Este es un ejemplito de como descargar algo y a medida que se descarga, mostrar 
 
 {{{
 #!code python
+from progressbar import ProgressBar, Percentage, Bar
+
 def download_python():
     url = 'http://www.python.org/ftp/python/2.7/Python-2.7.tar.bz2'
     fname = url.split('/')[-1]
