@@ -78,6 +78,7 @@ Aplicación lista para usar hecha en [[http://www.web2py.com.ar|web2py]], basada
  * Inscripción de participantes, Mapa de procedencia y Estadísticas
  * Generación identificadores ("credenciales") y Certificados (PDF)
  * Listados de asistencia y para envío de emails
+ * Agenda (Programa de actividades por horario/salón), listado de charlas y oradores
  * Auspiciantes, ayuda económica, gastos, pagos (algunos deshabilitados)
 
 Pueden verlo andando para el [[http://www.pyday.com.ar/rafaela2010|PyDay Rafaela 2010]] y [[http://www.institutopascal.edu.ar/flisol2010|FLISOL 2010 González Catán]] y [[http://www.jornadasregionales.org/jrsl2010v2|Jornadas Regionales de Software Libre 2010]]
