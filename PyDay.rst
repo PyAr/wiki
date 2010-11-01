@@ -10,25 +10,32 @@ Un !PyDay es una jornada sobre el lenguaje Python de 1 día, con el formato de m
   * habla con una compañía local que pueda ayudarte (y tal vez pueda auspiciar el evento)
  2. Preguntar a otras personas (1-2 o más) para que te ayuden a organizar y crea las listas de correo para el seguimiento de lo que están haciendo
   * No es necesario que sean gente técnica! Cualquiera deseando ayudar que conozcas puede se útil :)
-  * De hecho, voluntarios no técnicos pueden ser realmente bueno ya que te verán las cosas desde diferentes perspectivas
+  * De hecho, voluntarios no técnicos pueden ser realmente buenos ya que te verán las cosas desde diferentes perspectivas
   * Las listas de correo ayudan al seguimiento del evento. Recuerda también subir los archivos y diseños para encontrarlos más fácilmente.
   * Es util permitir una inscripción previa de los asistentes/participantes:
    * para que entonces se pueda enviar información acerca de los cambios de último minuto,
    * y tengas un panorama de la cantidad de personas que asistiran para estimar los cupos de las aulas y salones, cantidad de impresiones y materiales, etc.
- 3. Recluta Oradores y disertantes
+ 3. Instala una página web para el evento (preferentemente que maneje automáticamente la mayor cantidad de tareas para ahorrar tiempo), por ej.:
+  * Información general (ubicación, mapas, propuestas, etc.)
+  * Registración de Usuarios (organizadores, oradores, asistentes)
+  * Programa/Cronograma con las actividades a realizar (charlas, talleres, etc.)
+  * Estadísticas y temas menores (listados, mailings, impresiones, etc.) 
+ 4. Recluta Oradores y disertantes (con por lo menos 2 meses de anticipación)
   * Envía un mensaje a las listas de correo solicitando oradores
-  * Ten en cuenta los viáticos (transporte y hotel) si son necesarios
- 4. Instala una página web para el evento
- 5. Pide a las compañías locales si pueden auspiciar la conferencia:
+  * Ten en cuenta los viáticos (transporte y hotel) si son necesarios (en general, los !PyDays son eventos locales...)
+  * Solicita con anticipación que envién los datos de las charlas, su resumen biográfico y fotografía (para evitar correr a último momento)
+  * Permitir proponer las charlas por un sistema web (en vez de por email) facilita ordenar y organizar la jornada
+ 5. Pide a las empresas locales si pueden auspiciar la conferencia:
   * Los temas a auspiciar pueden incluir:
    * viáticos de los disertantes: pasajes de micro, estadías en el hotel, almuerzos y cenas, etc.
    * publicidad del evento en diarios, radios, televisión, etc.
-   * desayundo/caffe-breaks: café, té, facturas, galletitas, mate
+   * desayundo/refrigerios: café, té, facturas, galletitas, mate
    * almuerzo: puede ser complicado - usualmente se hace solo para organizadores
    * impresiones y gráfica: afiches, estandartes, folletos, volantes, banderas
    * regalos: remeras, calcos, libros, prendedores, lapiceras, etc.
-  * Recuerda que no es imprescindible tener auspiciantes, puedes pedirles a los asistentes que desayunen antes, y todos pueden ir a comer juntos pagando cada uno. 
- 6. Elige los oradores, y anuncia tu PyDay a las listas de correo!
+  * Recuerda que no es imprescindible tener auspiciantes, puedes pedirles a los asistentes que desayunen antes, y todos pueden ir a comer juntos pagando cada uno (y no es necesario imprimir el programa para cada asistente ni realizar regalos y sorteos)
+  * Para reducir gastos, consulta con el grupo de usuarios si han quedado materiales de otros eventos o pueden ayudar económicamente.
+ 6. Elige los oradores, y anuncia tu PyDay a las listas de correo! (preferentemente con 1 mes de anticipación para que los interesados puedan organizar su asistencia)
  7. Planifica el día
   * Reune suministros - proyector, computadora, marcadore, tizas y borradores, papel, tarjetas, identificaciones, etc.
   * Los oradores y organizadores deberían tener algun distintivo para ubicarlos más fácilmente. Es útil de tener identificadores (pueden ser una etiqueta "Hola, mi nombre es...").
