@@ -24,7 +24,7 @@ Estas remeras las haremos sólo en 2 colores: celestes con impresión azul (como
 || Alejandro Pereira || 1 XL (hombre) Arena con impresión Marrón  || Contra-Reebolso || alepereira86@gmail.com ||
 || Natalia Villegas || 1 M (mujer) Celeste con impresión azul  || Contra-Reembolso || villegasnaty@gmail.com ||
 || Facundo Casco || 1 M (hombre) Celeste con impresión azul  || Contra-Reembolso || fcasco@gmail.com ||
-
+|| Marcelo Martinovic || 1 XL (hombre) Celeste con impresión azul  || Contra-Reembolso || marcelo.martinovic@gmail.com ||
 
 == FAQs ==
  * '''¿Cuánto sale? '''
