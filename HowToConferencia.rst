@@ -6,3 +6,4 @@ Los siguientes son textos que nos ayudarían a hacer una conferencia, en sus dis
  * [[http://www.taniquetil.com.ar/plog/post/1/425 | PyCon Argentina 2009, ¡terminada! ]]
  * [[http://python.org.ar/pyar/HGTTP | Hitchhiker's guide to make a PyConAr2010]]
  * PyDay: guía de recomendaciones para armar una jornada python (adaptado de [[http://wiki.postgresql.org/wiki/PgDayManual|PgDayManual]])
+ * [[http://robertoallende.com/es/evaluacion-de-las-7jrsl | Evaluación de las Séptimas Jornadas de Software Libre realizadas en Córdoba. ]]
