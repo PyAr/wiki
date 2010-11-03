@@ -153,6 +153,9 @@ SimpleXmlElement: ejemplo de manejo de xml por elementos simples (simil php), pe
 === Generación de Facturas en PDF ===
 /FacturaPyFpdf: Ejemplo de como generar una factura gráficamente en PDF utilizando PyFpdf
 
+=== Modificación de Estilos en rst2pdf ===
+/EstilosRst2Pdf: Explicación de Roberto Alsina, sobre cómo modificar los estilos de diseño en rst2pdf
+
 == Dbf ==
 === Leer y modificar Archivos .DBF ===
 /DbfPy: Ejemplo de como leer y modificar bases de datos en formato DBF
