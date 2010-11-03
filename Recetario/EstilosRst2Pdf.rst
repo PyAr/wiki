@@ -66,17 +66,15 @@ Y '''¿como lo usas en tu documento?''' O lo usas como clase para un objeto, por
 
 {{{
 .. class:: verde
-}}}
-
 Este texto es verde
+}}}
 
 O definis un rol y lo aplicas a un pedazo de texto:
 
 {{{
 .. role:: verde
+La ultima palabra es de color :verde:`esmeralda`
 }}}
-
-La ultima palabra es de color {{{:verde:`esmeralda`}}}
 
 Si queres cambiar como se ve alguna de las cosas que ya estan definidas, pisás el estilo como quieras. Si por ejemplo querés que el estilo "base" en tu documento sea de 8 puntos en vez de diez, te creas una hoja de estilo que tenga esto adentro:
 
