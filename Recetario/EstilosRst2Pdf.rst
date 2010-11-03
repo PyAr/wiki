@@ -12,7 +12,7 @@ base:
      fontSize: 10
      leading: 12
      leftIndent: 0
-     rightIndent: 0
+     rightIndent: 0> http://python.org.ar/pyar/Recetario/EstilosRst2Pdf
      firstLineIndent: 0
      alignment: TA_LEFT
      spaceBefore: 0
@@ -66,6 +66,7 @@ Y '''¿como lo usas en tu documento?''' O lo usas como clase para un objeto, por
 
 {{{
 .. class:: verde
+
 Este texto es verde
 }}}
 
@@ -73,6 +74,7 @@ O definis un rol y lo aplicas a un pedazo de texto:
 
 {{{
 .. role:: verde
+
 La ultima palabra es de color :verde:`esmeralda`
 }}}
 
