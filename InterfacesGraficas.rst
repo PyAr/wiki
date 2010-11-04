@@ -10,17 +10,17 @@ Existen varias librerias que implementan interfaces gráficas de usuario (GUI) e
 
 === Tabla comparativa ===
 
-|| '''Caracteristica''' || '''TkInter''' || '''WxPython''' ||  '''PyQT''' || '''PyGTK''' ||
+|| '''Caracteristica''' || '''Tkinter''' || '''WxPython''' ||  '''PyQT''' || '''PyGTK''' ||
 || '''Portabilidad''' || Windows/Linux/Mac || Windows, Linux (GTK+/X11/Motif), Mac OS X || Windows, Linux, Mac OS X || Windows, Linux, Mac OS X (via servidor de X) ||
 || '''Apariencia''' || "alien" en todos || nativa en todos || nativa en linux y windows || nativa en linux ||
 || '''Orientación/Influencias''' || Motif || Windows || KDE || GNOME ||
-|| '''Diseñador "Visual"''' || GUI Builder (Komodo) || wxFormBuilder/wxGlade/XRCed || QT Designer || Glade, Gazpacho ||
+|| '''Diseñador "Visual"''' || GUI Builder (Komodo) || [[http://wxformbuilder.org|wxFormBuilder]]/wxGlade/XRCed || QT Designer || Glade, Gazpacho ||
 || '''IDEs Python''' || IDLE || SPE, BoaConstructor, DrPython || Eric4 || ?? ||
 || '''Formato XML''' || No || sí (XRC incorporado) || ?? || sí (vía libglade antes, GTKBuilder ahora) ||
 || '''Otras facilidades''' || ?? || soporte para imagenes (BMP, PNG, JPG, etc.), visualización e impresión de HTML, clipboard y drag and drop, ayuda en linea, libreria de graficación de objetos ("vectoriales"), OpenGL, texto enriquecido (RTF) y "estilizado" (STC), programación en red, flujos, multitarea, bases de datos, unicode, gizmos varios, animaciones y multimedia || hilos, control de procesos en segundo plano, renderización de svg, definición de aspectos estéticos de la GUI con CSS, personalización de la app en js, sockets, acceso a base de datos, pareso de XML, OpenGL || Pango (texto multilingual), Cairo (gráficos 2D), ATK (accesibilidad) ||
 || '''Documentación''' || Excelente || Buena || Regular || Limitada ||
 || '''Ejemplos''' || ?? || Excelente (200 simples y 10 complejos) || Bueno (20 simples y 20 complejos) || ?? ||
-|| '''Licencia''' || PSFL || LGPL || GPL (o PySide que es LGPL) || LGPL ||
+|| '''Licencia''' || PSFL || LGPL || GPL (o [[http://www.pyside.org|PySide]] que es LGPL) || LGPL ||
 
 === Características comunes ===
  * Tamaño aprox. (instalador windows desarrollo): 15MB (excepto tkinter que viene preinstalado)
@@ -28,7 +28,7 @@ Existen varias librerias que implementan interfaces gráficas de usuario (GUI) e
 
 === Ventajas y Desventajas ===
 
-==== TkInter ====
+==== Tkinter ====
  * Ventajas:
   * Preinstalado con python en casi todas las plataformas 
   * Relativamente simple y fácil de aprender (recomendado para "aprendices")
@@ -39,7 +39,7 @@ Existen varias librerias que implementan interfaces gráficas de usuario (GUI) e
   * Lento (dibuja cada botón, etiqueta, menú, etc.) **
   * Apariencia "extraña" (no se parece a las aplicaciones nativas) **
 
-Nota **: cabe aclarar que las ultimas versiones de Tk/TCL mejoran varios de estos puntos, dibujando con las funciones nativas de la plataforma, lo que acelera y mejora la apariencia.
+Nota **: cabe aclarar que las ultimas versiones de TCL/TK mejoran varios de estos puntos, dibujando con las funciones nativas de la plataforma, lo que acelera y mejora la apariencia.
 
 ==== WxPython ====
  * Ventajas:
@@ -48,18 +48,20 @@ Nota **: cabe aclarar que las ultimas versiones de Tk/TCL mejoran varios de esto
   * Rápido y de Apariencia nativa (diseñado para utilizar funciones nativas de cada plataforma)
   * "Baterias Incluidas": más de 12 librerias y utilitarios complementarios (ver comparación)
   * Independencia: no esta orientado a ningún entorno, ni QT ni GTK, hay una capa mas que agrega un grado de libertad adicional
-  * Soporta las características comunes de Windows, y las emula en linux cuando no se pueden hacer nativamente (y viceversa)
-  * Es mas "pitónico", por ej. espacio de nombres mas claro, sin referencias a C/C++, etc. 
+  * No se cierra en el mínimo denominador común; soporta las características comunes de Windows, y las emula en Linux/Mac OS cuando no se pueden hacer nativamente (y viceversa).
+  * Es mas "pitónico", por ej. espacio de nombres mas claro, sin referencias a C/C++, etc.
   * Permite separar completamente el diseño de la interface en XML del código python (XRC)
+  * Es fácil armar componentes personalizados, tanto que incorpora widgets que no están en wxWidgets mismo, ya que están escritos en Python ([[http://xoomer.virgilio.it/infinity77/main/freeware.html|AGW]]).
   * Documentación completa y ejemplos extensivos.
+  * Su lista oficial de usuarios ([[http://groups.google.com/group/wxpython-users|wxpython-users]]) es *muy* activa y amigable, donde participan los desarrolladores principales del proyecto.
  * Desventajas:
-  * No viene preinstalado con python, se debe instalar un paquete (wxPython en windows,  wxWidgets+wxPython en linux)
+  * No viene preinstalado con python, se debe instalar un paquete (wxPython en Windows y Mac OS,  wxWidgets+wxPython en Linux, aunque en este último caso está generalmente está fácilmente disponible en los repositorios).
   * Relativamente mas complejo de aprender 
-  * Al tener un desarrollo bastante rápido y sostenido, se liberan versiones frecuentemente, lo que en la práctica le confiere cierto nivel de "volatilidad" y problemas de compatibilidad si se deben mantener varias versiones de wx para el mismo código. 
-  * Es una capa más sobre el toolkit gráfico que se usa debajo (ej: gtk)
+  * Al tener un desarrollo bastante rápido y sostenido, se liberan versiones frecuentemente, lo que en la práctica le confiere cierto nivel de "volatilidad" y problemas de compatibilidad si se deben mantener varias versiones de wx para el mismo código.
+  * Es una capa más sobre el toolkit gráfico que se usa debajo (ej: GTK).
   * Las características emuladas de otras plataformas no siempre se ven bien.
   * Hacer interfaces multiplataformas que se vean bien requiere conocimiento del toolkit subyacente (win32, gtk).
-  * Inestable y dificil de debuggear: en windows es muy facil segfaultear si se pasan parámetros incorrectos.
+  * En proyectos medianos/grandes, puede ser inestable y dificil de debuggear: en windows es muy facil segfaultear si se pasan parámetros incorrectos.
 
 ==== PyQt ====
  * Ventajas:
