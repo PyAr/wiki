@@ -3,8 +3,8 @@
 '''Advertencia''': Esta página esta basada (en parte) en opiniones y experiencias personales de distintas personas. YMMV
 
 Existen varias librerias que implementan interfaces gráficas de usuario (GUI) en python, las principales son:
- * TkInter: Basada en las librerías gráficas TK/TCL, interface "de-facto" ([[#1]]) preinstalada con python, es la generalmente recomendada para proyectos triviales y/o de aprendizaje.
- * WxPython: Basada en WxWidgets (una libreria multiplataforma C/C++), "bendecida" ([[#2]]) como la "más pitónica" por GvR (creador de Python), y sería la interface por defecto si no hubiese existido tk en primer lugar.
+ * Tkinter: Basada en las librerías gráficas TCL/TK, interface "de-facto" ([[#1]]) preinstalada con python, es la generalmente recomendada para proyectos triviales y/o de aprendizaje.
+ * WxPython: Basada en WxWidgets (una libreria multiplataforma C/C++), "bendecida" ([[#2]]) como la "más pitónica" por GvR (creador de Python), y sería la interface por defecto si no hubiese existido TK en primer lugar.
  * PyQT: basado en la libreria C++ QT (KDE)
  * PyGTK: basado en la libreria C GTK (GNOME)
 
@@ -14,13 +14,13 @@ Existen varias librerias que implementan interfaces gráficas de usuario (GUI) e
 || '''Portabilidad''' || Windows/Linux/Mac || Windows, Linux (GTK+/X11/Motif), Mac OS X || Windows, Linux, Mac OS X || Windows, Linux, Mac OS X (via servidor de X) ||
 || '''Apariencia''' || "alien" en todos || nativa en todos || nativa en linux y windows || nativa en linux ||
 || '''Orientación/Influencias''' || Motif || Windows || KDE || GNOME ||
-|| '''Diseñador "Visual"''' || GUI Builder (Komodo) || wxGlade/XRCed || Qt Designer || Glade, Gazpacho ||
+|| '''Diseñador "Visual"''' || GUI Builder (Komodo) || wxFormBuilder/wxGlade/XRCed || QT Designer || Glade, Gazpacho ||
 || '''IDEs Python''' || IDLE || SPE, BoaConstructor, DrPython || Eric4 || ?? ||
-|| '''Formato XML''' || No || sí (XRC incorporado) || ?? || sí (vía libglade) ||
+|| '''Formato XML''' || No || sí (XRC incorporado) || ?? || sí (vía libglade antes, GTKBuilder ahora) ||
 || '''Otras facilidades''' || ?? || soporte para imagenes (BMP, PNG, JPG, etc.), visualización e impresión de HTML, clipboard y drag and drop, ayuda en linea, libreria de graficación de objetos ("vectoriales"), OpenGL, texto enriquecido (RTF) y "estilizado" (STC), programación en red, flujos, multitarea, bases de datos, unicode, gizmos varios, animaciones y multimedia || hilos, control de procesos en segundo plano, renderización de svg, definición de aspectos estéticos de la GUI con CSS, personalización de la app en js, sockets, acceso a base de datos, pareso de XML, OpenGL || Pango (texto multilingual), Cairo (gráficos 2D), ATK (accesibilidad) ||
 || '''Documentación''' || Excelente || Buena || Regular || Limitada ||
 || '''Ejemplos''' || ?? || Excelente (200 simples y 10 complejos) || Bueno (20 simples y 20 complejos) || ?? ||
-|| '''Licencia''' || PSFL || LGPL || GPL || LGPL ||
+|| '''Licencia''' || PSFL || LGPL || GPL (o PySide que es LGPL) || LGPL ||
 
 === Características comunes ===
  * Tamaño aprox. (instalador windows desarrollo): 15MB (excepto tkinter que viene preinstalado)
