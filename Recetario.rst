@@ -98,6 +98,8 @@ QtMultiThread : ejemplo de como manipular la GUI usando múltiples threads sin u
 
 /QtImprimirPagina: ejemplo de como imprimir una pagina web a pdf
 
+/QtExtraerTextoRecurso : como extraer un archivo de texto embebido en el sistema de recursos de !PyQt
+
 === Pythoncard (wxPython) ===
 PythonCard: Ejemplo de como hacer una aplicación de escritorio desde 0 (para principiantes)
 
