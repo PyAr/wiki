@@ -4,6 +4,8 @@ Crea un Wizard amigable para actividades o previo de instalaciones, con multiple
 
 Sacando todo el codigo necesario para generar el Wizard en si mismo, agregar nuevas paginas es simple.
 
+Las paginas pueden contener cualquier widget, en este ejemplo solo se usa 1 label por cada una.
+
 '''Screenshot:'''
 
  {{attachment:temp.jpg}}
