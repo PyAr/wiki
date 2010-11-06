@@ -202,3 +202,5 @@ MapeandoMemoria: Cómo generar un mapa de la memoria con heapy
 /ProgressbarUrllib2: Como descargar algo de internet y mostrar una barrita de progreso.
 
 /CheckDistroVersion: Chequea la version de la Distribucion Linux y actuar en funcion de eso.
+
+[[AlarmaPrecaria]]: Alarma minima y basica de linea de comandos.
