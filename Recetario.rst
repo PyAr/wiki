@@ -118,6 +118,8 @@ PythonCard: Ejemplo de como hacer una aplicación de escritorio desde 0 (para pr
 
 [[GTKonTK]]: Usar temas de GTK en Tk ''(Hack)''.
 
+[[TKWizards]]: Crear un Wizard amigable de multiples paginas (siguiente, siguiente, ... terminar)
+
 == Emails ==
 === GMail ===
 /GmailMail : Cómo enviar emails usando Gmail como SMTP
