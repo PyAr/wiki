@@ -120,6 +120,8 @@ PythonCard: Ejemplo de como hacer una aplicación de escritorio desde 0 (para pr
 
 [[TKWizards]]: Crear un Wizard amigable de multiples paginas (siguiente, siguiente, ... terminar)
 
+[[DisplayLCD7Segmentos]]: Crear un Widget de Canvas tipo Display LCD de 7 Segmentos.
+
 == Emails ==
 === GMail ===
 /GmailMail : Cómo enviar emails usando Gmail como SMTP
