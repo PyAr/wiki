@@ -1,3 +1,4 @@
+## page was renamed from AlarmaPrecaria
 = Alarma Precaria =
 
 Alarma minima y basica de linea de comandos.
