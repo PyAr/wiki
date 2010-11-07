@@ -9,7 +9,7 @@
 
 == Configuracion del entorno python ==
 === Mejorando el interprete python ===
-AutocomplecionEnConsolaInteractiva: tip sobre como agregar autocompleción con tab en la consola interactiva imitando el comportamiento ipython.
+[[Recetario/AutocomplecionEnConsolaInteractiva| Autocompletado en consola interactiva]]: tip sobre como agregar autocompleción con tab en la consola interactiva imitando el comportamiento ipython.
 
 == Estructuras de datos ==
 === IterarSobrePares ===
