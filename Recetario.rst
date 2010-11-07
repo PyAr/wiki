@@ -203,4 +203,4 @@ MapeandoMemoria: Cómo generar un mapa de la memoria con heapy
 
 /CheckDistroVersion: Chequea la version de la Distribucion Linux y actuar en funcion de eso.
 
-[[AlarmaPrecaria]]: Alarma minima y basica de linea de comandos.
+/AlarmaPrecaria: Alarma minima y basica de linea de comandos.
