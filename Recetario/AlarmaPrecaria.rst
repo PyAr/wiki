@@ -60,3 +60,6 @@ if delta < 0:
 time.sleep(delta)
 os.system("xdg-open /home/user/ring.ogg") # RingTone (?)
 }}}
+=== Juancarlospaco ===
+
+''Por lo menos en Linux se necesita el Shebang y declarar encoding, por que sino al usar "Vídeo-de-Música.ogv" de Ringtone traen problemas los acentos.''
