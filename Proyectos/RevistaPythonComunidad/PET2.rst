@@ -20,4 +20,5 @@ Diseños de tapas por acá:
 http://www.imgs.com.ar/imgs/2/9/b/29b7bcefc7ab3eee01c8e5f5458fefc2ffcfd4a7.html
 
 * MarianoGuerra: +1 (sacando el hecho de que dice Phython y no Python ;)
+
 * DiegoSarmentero +1
