@@ -64,6 +64,32 @@ if delta < 0:
 time.sleep(delta)
 os.system("xdg-open /home/user/ring.ogg") # RingTone (?)
 }}}
+
+=== DanielMoisset ===
+
+Yo prefiero no scar cuentas de fecha a mano, y en vez que datetime haga el trabajo sucio. Sobre todo porque maneja mejor casos delicados (que pasa si pongo la alarma justo antes de un cambio a horario de verano?) sin tener que pensarlos
+
+{{{
+#!code python
+
+import time, datetime
+import os
+
+# modificar hour y minute a la hora deseada
+
+HOUR = 8
+MIN = 30
+
+now = datetime.datetime.now()
+alarm = now.replace(hour=HOUR, minute=MIN)
+if alarm < now:
+    # Set the alarm tomorrow
+    alarm += datetime.timedelta(days=1)
+time.sleep((alarm-now).seconds)
+os.system("xdg-open /home/user/ring.ogg") # RingTone (?)
+
+}}}
+
 === Juancarlospaco ===
 
 ''Por lo menos en Linux se necesita el Shebang y declarar encoding, por que sino al usar "Vídeo-de-Música.ogv" de Ringtone traen problemas los acentos.''
