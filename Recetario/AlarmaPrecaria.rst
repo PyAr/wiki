@@ -1,9 +1,11 @@
 = Alarma Precaria =
 
-Alarma minima y basica de linea de comandos.
+Alarma mínima y básica de linea de comandos.
 
- {{{
- #!/usr/bin/env python
+{{{
+#!code python
+
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 import time
 import os
@@ -25,6 +27,8 @@ while(not_executed):
 Hay un par de cambios triviales para hacerle: se puede reemplazar el not_executed por un break, no hace falta declarar el encoding, y usar localtime() como corresponde..
 
 {{{
+#!code python
+
 #!/usr/bin/env python
 
 import time
@@ -41,7 +45,7 @@ while(True):
 
 
 {{{
-#!/usr/bin/env python
+#!code python
 
 import time
 import os
@@ -63,3 +67,16 @@ os.system("xdg-open /home/user/ring.ogg") # RingTone (?)
 === Juancarlospaco ===
 
 ''Por lo menos en Linux se necesita el Shebang y declarar encoding, por que sino al usar "Vídeo-de-Música.ogv" de Ringtone traen problemas los acentos.''
+
+----
+
+A esta altura creo que es mas importante agregar el correcto coloreado de sintaxis y cuidar la ortografia, a discutir si poner o no el encoding y el shebang. La idea es que las recetas sean genericas, con ese encoding y ese shebang, no cubris todos los casos. Pej, copias y pegas, y tu editor guarda en latin1??
+  
+Si funciona con:
+{{{
+#!code bash
+usuario@maquina: ~$ python receta.py
+}}}
+
+Es mas que suficiente. -- JoaquinSorianello <<DateTime(2010-11-08T10:56:40-0300)>>
+----
