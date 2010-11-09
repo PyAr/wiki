@@ -1,6 +1,7 @@
 = Trabajos con Python =
 
 == 2010 ==
+ * (09/11/2010) Estamos buscando estudiantes avanzados y profesionales de las carreras de Sistemas con al menos uno o dos años de experiencia con Python, para incorporar al equipo de ''Desarrollo de'' '''''Hexacta'''''. Se requiere actitud proactiva y ganas de trabajar y aprender en un entorno de mejora continua. Se valoraran los conocimientos avanzados del idioma inglés y el background académico. Somos una empresa de Consultoría y Desarrollo de software enfocada en la utilización de las nuevas tecnologías para generar valor a nuestros clientes. Un equipo realmente diferente respecto de lo que la comunidad profesional y jóvenes estudiantes pueden encontrar en el mercado. Si te interesa conocernos envianos tu CV a <<MailTo(careers@hexacta.com)>> indicando como referencia Python o visitá nuestra web: [[www.hexacta.com|www.hexacta.com]]
 
  * (17/09/2010) Skills: python en general; uso de pyserial (manejo de puerto serie); mySQL, SQLite; deseable C, C++, C sharp; deseable experiencia en sistemas de tiempo real; deseable zona La Plata, o zona Belgrano. Por favor enviar el contacto a <<MailTo(mario.mongini EN atemponet PUNTO com)>>
 
