@@ -8,7 +8,7 @@ Por favor ayuden con la difusión! Si quieren pueden imprimir [[attachment:Charl
 <<TableOfContents>>
 
 == Datos del evento ==
-Las charlas serán dadas en La Tribu, Lambaré 873.
+Las charlas serán dadas en La Tribu, Lambaré 873, Ciudad de Buenos Aires, Argentina.
 
 La entrada es libre y gratuita. Se pasará una gorra voluntaria durante los cursos para hacer frente a viáticos y gastos generales.
 
