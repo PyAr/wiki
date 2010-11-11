@@ -12,7 +12,14 @@ Anotarse aquí implica un compromiso tácito de concretar la compra. NO HAY STOC
 || Martín Cerdeira || 1 M (hombre) Azul Marino  || Contra-Reebolso || <<MailTo(martincerdeira ARROBA gmail PUNTO com)>> ||
 || Natalia Villegas || 1 M (mujer) Arena  || Contra-Reembolso || <<MailTo(villegasnaty ARROBA gmail PUNTO com)>> ||
 || Claudia Quispe || 1 S (mujer) Blanco  || Contra-Reembolso || <<MailTo(clauva83 ARROBA gmail PUNTO com)>> ||
+|| Juan Manuel García || 1 XL (hombre) Azul Francia  || Contra-Reembolso || <<MailTo(jmg.utn ARROBA gmail PUNTO com)>> ||
+
+---- /!\ '''Edit conflict - other version:''' ----
 || Juan Manuel García || 1 XL (hombre) Azul Marino  || Contra-Reembolso || <<MailTo(jmg.utn ARROBA gmail PUNTO com)>> ||
+
+---- /!\ '''Edit conflict - your version:''' ----
+
+---- /!\ '''End of edit conflict''' ----
 
 === Pedidos Remeras V3b (Diseño Boa - las remeras celestes del Staff de PyConAr) ===
 
