@@ -12,10 +12,15 @@ if __name__ == "__main__":
    except ImportError:
        print "Module readline not available."
    else:
+       import sys
        import rlcompleter
-       readline.parse_and_bind("tab: complete")
+       if sys.platform == "darwin":
+          readline.parse_and_bind ("bind ^I rl_complete")
+       else:
+            readline.parse_and_bind("tab: complete")
        del readline
        del rlcompleter
+       del sys
 }}}
 y en el environment se setea la variable:
 
@@ -30,3 +35,8 @@ Lo que hace es darte Tab-completion en el interprete, cuando no se recuerda que 
 y lista los metodos y atributos disponibles.
 
 Otros interpretes ya lo hacen.  ipython es notable por tener todo esto y mucho mas, pero hay gente que no se acostumbra a usarlo todavia, y esto le pone Tab-completion al interprete comuncito de siempre.
+
+
+==== OS X ====
+
+Aparentemente apple no distribuye OSX con soporte para readline de fabrica. Yo estoy seguro que hace tiempo instalé readline 6.1 y py25-readline.
