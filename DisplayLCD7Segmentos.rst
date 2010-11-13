@@ -10,8 +10,8 @@ Util para importarlo dentro de otro programa para representar otras cosas.
 
 {{attachment:temp.jpg}}
 
- {{{
- #!/usr/bin/env python
+{{{#!code python
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
 try:  
