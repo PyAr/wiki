@@ -4,4 +4,4 @@
 
 '''Disertante: Roberto Alsina'''
 
-Esta charla fue cancelada por problemas de salud del disertante, por lo que no hay video...
+Esta charla fue cancelada por problemas de salud del disertante.
