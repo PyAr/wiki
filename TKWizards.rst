@@ -10,8 +10,8 @@ Las paginas pueden contener cualquier widget, en este ejemplo solo se usa 1 labe
 
  {{attachment:temp.jpg}}
 
-{{{
- #!/usr/bin/env python
+{{{#!code python
+#!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
 try:
