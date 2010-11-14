@@ -16,25 +16,6 @@ No hace falta registrarse, pero vení temprano para asegurarte un lugar porque l
 
 == Cronograma ==
 
-=== Día 8: Sábado 13 de Noviembre ===
-==== Python 3000 ====
-
-''Esta charla presenta la evolución de Python, la versión 3 del lenguaje (a.k.a. Python 3000), y explica las razones por las cuales se planeó y ejecutó esta evolución.''
-
-''Además de las nuevas características del lenguajes y mejoras generales se detallan los cambios que presentarán problemas de compatibilidad, y las estrategias para migrar de la rama actual (Python 2) a esta nueva versión: cómo y cuando migrar, y qué herramientas tendremos como ayuda.''
-
- * Disertante: Facundo Batista
-
- * 10:30 a 12:30 horas
-
-==== Twisted ====
-
-''Vamos a ver porque el modelo de twisted es necesario, como se programa en modo asyncronico usando deferreds y conocer el api de red de twisted para hacer servicios.''
-
- * Disertante: Lucio Torre
-
- * 13 a 15 horas
-
 === Día 9: Sábado 20 de Noviembre ===
 ==== Taller de Programación de Juegos ====
 
@@ -71,3 +52,7 @@ No hace falta registrarse, pero vení temprano para asegurarte un lugar porque l
  * '''[[/OptimizandoPython | Optimizando Python]]'''
 
  * '''[[/PyQt | PyQt]]'''
+
+ * '''[[/Python3000 | Python3000]]'''
+
+ * '''[[/Twisted | Twisted]]'''
