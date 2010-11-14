@@ -7,3 +7,4 @@
  * Disertante: Facundo Batista
  * Día 8: Sábado 13 de Noviembre
  * 10:30 a 12:30 horas
+ * Presentación: http://tools.assembla.com/svn/homedevel/presents/py3k.pdf
