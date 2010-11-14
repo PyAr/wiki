@@ -239,3 +239,457 @@ root.mainloop()
 Comentario personal: 
 
 ''Es mas bonito que TTK  :)  Como sea, la idea es aprovechar que en Linux TODO es un archivo, la magia esta en parsear.''
+
+== Comentarios ==
+
+=== Alejandro Autalan ===
+
+Me gusto esta idea de usar los temas de gtk en tkinter. Pero tener que especificar
+el estilo de cada widget es un poco tedioso :). Asi que a continuación va una
+variante de la receta.
+
+Ventajas:
+  * No es necesario especificar el estilo de cada widget al crearlos.
+  
+Desventajas:
+  * Requiere PyGtk.
+  * No funciona con ttk.
+
+Probado con python 2.6 y PyGtk 2.17
+
+{{{
+#!code python
+
+# -*- coding: utf-8 -*-
+
+#
+# colour.py
+#
+
+__all__ = ['apply_gtk_theme']
+
+import tkFont as tkfont
+
+HAS_GTK = False
+try:
+    import gtk
+    HAS_GTK = True
+except:
+    pass
+
+def _get_color_scheme():
+    gtkSet = gtk.settings_get_default()
+    return gtkSet.get_property('gtk-color-scheme')
+
+def get_color_scheme_item(colorName):
+    gtkSch = _get_color_scheme()
+    findLine = ''
+    for l in gtkSch.splitlines():
+        if l.startswith(colorName):
+            findLine = l
+            break
+    c = findLine.replace(colorName+":", "").strip()
+    c = c.replace("#", "")
+    rgba = []
+    if len(c) == 12:
+        rgba = [c[0:4], c[4:8], c[8:12], ""]
+    colourFound = '#'
+    for set in rgba:
+       colourFound = "".join([colourFound, set[:2].upper()])  
+    if len(colourFound) == 0:
+        raise error
+        return None
+    else:
+        return colourFound
+
+
+tk_fonts = {}
+tk_font_families= None
+
+def get_tk_font(font_desc):
+    """Crea una fuente tk"""
+    
+    global tk_font_families
+    global tk_fonts
+    
+    if tk_font_families is None:
+        tk_font_families = tkfont.families()
+    font = None
+    if font_desc in tk_fonts:
+        font = tk_fonts[font_desc]
+    else:
+        family = 'Helvetica'
+        for x in tk_font_families:
+            if x in font_desc:
+                family = x
+        s = font_desc.split()
+        size = s[-1]
+        lower = font_desc.lower()
+        weight = 'normal'
+        slant = 'roman'
+        if 'bold' in lower:
+            weight = 'bold'
+        if 'italic' in lower:
+            slant='italic'
+        #print '%s, %s, %s, %s' % (family, weight, slant, size)
+        f = tkfont.Font(family=family, size=size, weight=weight, slant=slant )
+        tk_fonts[font_desc]= font = f
+    return font
+
+
+#gtk_states = [gtk.STATE_NORMAL, gtk.STATE_PRELIGHT, gtk.STATE_ACTIVE, gtk.STATE_SELECTED, gtk.STATE_INSENSITIVE]
+
+def get_tk_styles():
+    """Toma los estilos de Gtk y los "traduce" a estilos tk."""
+    tk_styles = {}
+    
+    style = gtk.rc_get_style_by_paths(gtk.settings_get_default(),
+        '*<GtkLabel>*', '<GtkLabel>', gtk.Label)
+    c = {
+        'foreground': str(style.text[gtk.STATE_NORMAL]),
+        'background': str(style.bg[gtk.STATE_NORMAL]),
+        'activeForeground': str(style.text[gtk.STATE_SELECTED]),
+        'activeBackground': str(style.bg[gtk.STATE_SELECTED]),
+        'font': get_tk_font(str(style.font_desc)),
+    }
+    tk_styles['Label'] = label = c
+    tk_styles['Message'] = c
+    
+    style = gtk.rc_get_style_by_paths(gtk.settings_get_default(),
+        '*<GtkEntry>*', 'GtkEntry', gtk.Entry)
+    c = {
+        'foreground': str(style.text[gtk.STATE_NORMAL]),
+        'background': get_color_scheme_item('base_color'),
+        'selectForeground': str(style.text[gtk.STATE_SELECTED]),
+        'selectBackground': str(style.bg[gtk.STATE_SELECTED]),
+        'activeForeground': str(style.bg[gtk.STATE_NORMAL]),
+        'activeBackground': str(style.bg[gtk.STATE_SELECTED]),
+        'font': get_tk_font(str(style.font_desc)),
+    }
+    tk_styles['Entry'] = c
+    tk_styles['Text'] = c
+    tk_styles['Spinbox'] = c
+    
+    style = gtk.rc_get_style_by_paths(gtk.settings_get_default(),
+        '*<GtkMenuBar>*', 'GtkMenuBar', gtk.MenuBar)
+    c = {
+        'foreground': str(style.text[gtk.STATE_NORMAL]),
+        'background': str(style.bg[gtk.STATE_NORMAL]),
+        'activeForeground': str(style.text[gtk.STATE_SELECTED]),
+        'activeBackground': str(style.bg[gtk.STATE_SELECTED]),
+        'font': get_tk_font(str(style.font_desc)),
+    }
+    tk_styles['Menu'] = c
+
+    style = gtk.rc_get_style_by_paths(gtk.settings_get_default(),
+        '*<GtkButton>*', 'GtkButton', gtk.Button)
+    c = {
+        'foreground': str(style.text[gtk.STATE_NORMAL]),
+        'background': str(style.bg[gtk.STATE_NORMAL]),
+        'activeForeground': str(style.text[gtk.STATE_SELECTED]),
+        'activeBackground': str(style.bg[gtk.STATE_SELECTED]),
+        'font': get_tk_font(str(style.font_desc)),
+    }
+    tk_styles['Button'] = c
+    tk_styles['OptionMenu'] = c
+    
+    style = gtk.rc_get_style_by_paths(gtk.settings_get_default(),
+        '*<GtkCheck>*', 'GtkCheck', gtk.CheckButton)
+    c = {
+        'foreground': label['foreground'],
+        'background': label['background'],
+        'activeForeground': str(style.text[gtk.STATE_SELECTED]),
+        'activeBackground': str(style.bg[gtk.STATE_SELECTED]),
+        'selectColor': str(style.bg[gtk.STATE_SELECTED]),
+        'font': get_tk_font(str(style.font_desc)),
+    }
+    tk_styles['Checkbutton'] = c
+    
+    style = gtk.rc_get_style_by_paths(gtk.settings_get_default(),
+        '*<GtkRadio>*', 'GtkRadio', gtk.RadioButton)
+    c = {
+        'foreground': label['foreground'],
+        'background': label['background'],
+        'activeForeground': str(style.text[gtk.STATE_SELECTED]),
+        'activeBackground': str(style.bg[gtk.STATE_SELECTED]),
+        'selectColor': str(style.bg[gtk.STATE_SELECTED]),
+        'font': get_tk_font(str(style.font_desc)),
+    }
+    tk_styles['Radiobutton'] = c
+    
+    style = gtk.rc_get_style_by_paths(gtk.settings_get_default(),
+        '*<GtkList>*', 'GtkList', gtk.List)
+    c = {
+        'foreground': str(style.text[gtk.STATE_NORMAL]),
+        'background': str(style.bg[gtk.STATE_NORMAL]),
+        'activeForeground': str(style.text[gtk.STATE_SELECTED]),
+        'activeBackground': str(style.bg[gtk.STATE_SELECTED]),
+        'selectForeground': str(style.text[gtk.STATE_SELECTED]),
+        'selectBackground': str(style.bg[gtk.STATE_SELECTED]),
+        'font': get_tk_font(str(style.font_desc)),
+    }
+    tk_styles['Listbox'] = c
+    
+    style = gtk.rc_get_style_by_paths(gtk.settings_get_default(),
+        '*<GtkScrollbar>*', 'GtkScrollbar', gtk.Scrollbar)
+    c = {
+        'foreground': str(style.text[gtk.STATE_NORMAL]),
+        'background': str(style.bg[gtk.STATE_NORMAL]),
+        'activeForeground': str(style.text[gtk.STATE_SELECTED]),
+        'activeBackground': str(style.bg[gtk.STATE_SELECTED]),
+        'troughColor': str(style.bg[gtk.STATE_ACTIVE]),
+        'font': get_tk_font(str(style.font_desc)),
+    }
+    tk_styles['Scrollbar'] = c
+    tk_styles['Scale'] = c
+    
+    return tk_styles
+    
+ 
+def apply_gtk_theme_real(w):
+    tk_style = get_tk_styles()
+    bg_color = get_color_scheme_item('bg_color')
+    selected_bg_color = get_color_scheme_item('selected_bg_color')
+    patterns = (
+        ('*Frame*background', bg_color),
+        
+        ('*Menu*foreground', tk_style['Menu']['foreground']),
+        ('*Menu*background', tk_style['Menu']['background']),
+        ('*Menu*activeBackground', tk_style['Menu']['activeBackground']),
+        ('*Menu*activeForeground', tk_style['Menu']['activeForeground']),
+        ('*Menu*font', tk_style['Menu']['font']),
+        ('*Menu*highlightBackground', bg_color),
+        ('*Menu*highlightColor', selected_bg_color),
+        
+        ('*Button*foreground', tk_style['Button']['foreground']),
+        ('*Button*background', tk_style['Button']['background']),
+        ('*Button*activeBackground', tk_style['Button']['activeBackground']),
+        ('*Button*activeForeground', tk_style['Button']['activeForeground']),
+        ('*Button*font', tk_style['Button']['font']),
+        ('*Button*highlightBackground', bg_color),
+        ('*Button*highlightColor', selected_bg_color),
+        
+        ('*Label*foreground', tk_style['Label']['foreground']),
+        ('*Label*background', tk_style['Label']['background']),
+        ('*Label*activeBackground', tk_style['Label']['activeBackground']),
+        ('*Label*activeForeground', tk_style['Label']['activeForeground']),
+        ('*Label*font', tk_style['Label']['font']),
+        ('*Label*highlightBackground', bg_color),
+        ('*Label*highlightColor', selected_bg_color),
+        
+        ('*Message*foreground', tk_style['Message']['foreground']),
+        ('*Message*background', tk_style['Message']['background']),
+        ('*Message*activeBackground', tk_style['Message']['activeBackground']),
+        ('*Message*activeForeground', tk_style['Message']['activeForeground']),
+        ('*Message*font', tk_style['Message']['font']),
+        ('*Message*highlightBackground', bg_color),
+        ('*Message*highlightColor', selected_bg_color),
+        
+        ('*Checkbutton*foreground', tk_style['Checkbutton']['foreground']),
+        ('*Checkbutton*background', tk_style['Checkbutton']['background']),
+        ('*Checkbutton*activeBackground', tk_style['Checkbutton']['activeBackground']),
+        ('*Checkbutton*activeForeground', tk_style['Checkbutton']['activeForeground']),
+        ('*Checkbutton*selectColor', tk_style['Checkbutton']['selectColor']),
+        ('*Checkbutton*font', tk_style['Checkbutton']['font']),
+        ('*Checkbutton*highlightBackground', bg_color),
+        ('*Checkbutton*highlightColor', selected_bg_color),
+        
+        ('*Radiobutton*foreground', tk_style['Radiobutton']['foreground']),
+        ('*Radiobutton*background', tk_style['Radiobutton']['background']),
+        ('*Radiobutton*activeBackground', tk_style['Radiobutton']['activeBackground']),
+        ('*Radiobutton*activeForeground', tk_style['Radiobutton']['activeForeground']),
+        ('*Radiobutton*selectColor', tk_style['Radiobutton']['selectColor']),
+        ('*Radiobutton*font', tk_style['Radiobutton']['font']),
+        ('*Radiobutton*highlightBackground', bg_color),
+        ('*Radiobutton*highlightColor', selected_bg_color),
+        
+        ('*Entry*foreground', tk_style['Entry']['foreground']),
+        ('*Entry*background', tk_style['Entry']['background']),
+        ('*Entry*selectForeground', tk_style['Entry']['selectForeground']),
+        ('*Entry*selectBackground', tk_style['Entry']['selectBackground']),
+        ('*Entry*font', tk_style['Entry']['font']),
+        ('*Entry*highlightBackground', bg_color),
+        ('*Entry*highlightColor', selected_bg_color),
+        ('*Entry*insertBackground', tk_style['Entry']['foreground']),
+        
+        ('*Text*foreground', tk_style['Text']['foreground']),
+        ('*Text*background', tk_style['Text']['background']),
+        ('*Text*selectForeground', tk_style['Text']['selectForeground']),
+        ('*Text*selectBackground', tk_style['Text']['selectBackground']),
+        ('*Text*font', tk_style['Text']['font']),
+        ('*Text*highlightBackground', bg_color),
+        ('*Text*highlightColor', selected_bg_color),
+        ('*Text*insertBackground', tk_style['Text']['foreground']),
+        
+        ('*Spinbox*foreground', tk_style['Spinbox']['foreground']),
+        ('*Spinbox*background', tk_style['Spinbox']['background']),
+        ('*Spinbox*selectForeground', tk_style['Spinbox']['selectForeground']),
+        ('*Spinbox*selectBackground', tk_style['Spinbox']['selectBackground']),
+        ('*Spinbox*font', tk_style['Spinbox']['font']),
+        ('*Spinbox*highlightBackground', bg_color),
+        ('*Spinbox*highlightColor', selected_bg_color),
+        ('*Spinbox*insertBackground', tk_style['Spinbox']['foreground']),
+        
+        ('*Menubutton.foreground', tk_style['OptionMenu']['foreground']),
+        ('*Menubutton.background', tk_style['OptionMenu']['background']),
+        ('*Menubutton.activeBackground', tk_style['OptionMenu']['activeBackground']),
+        ('*Menubutton.activeForeground', tk_style['OptionMenu']['activeForeground']),
+        ('*Menubutton.font', tk_style['OptionMenu']['font']),
+        ('*Menubutton*highlightBackground', tk_style['OptionMenu']['background']),
+        ('*Menubutton*highlightColor', tk_style['OptionMenu']['activeForeground']),
+        
+        ('*Listbox*foreground', tk_style['Listbox']['foreground']),
+        ('*Listbox*background', tk_style['Listbox']['background']),
+        ('*Listbox*activeBackground', tk_style['Listbox']['activeBackground']),
+        ('*Listbox*activeForeground', tk_style['Listbox']['activeForeground']),
+        ('*Listbox*selectBackground', tk_style['Listbox']['selectBackground']),
+        ('*Listbox*selectForeground', tk_style['Listbox']['selectForeground']),
+        ('*Listbox*font', tk_style['Listbox']['font']),
+        ('*Listbox*highlightBackground', bg_color),
+        ('*Listbox*highlightColor', selected_bg_color),
+        
+        ('*Scrollbar*foreground', tk_style['Scrollbar']['foreground']),
+        ('*Scrollbar*background', tk_style['Scrollbar']['background']),
+        ('*Scrollbar*activeBackground', tk_style['Scrollbar']['activeBackground']),
+        ('*Scrollbar*activeForeground', tk_style['Scrollbar']['activeForeground']),
+        ('*Scrollbar*troughColor', tk_style['Scrollbar']['troughColor']),
+        ('*Scrollbar*highlightBackground', bg_color),
+        ('*Scrollbar*highlightColor', selected_bg_color),
+        
+        ('*Scale*foreground', tk_style['Scale']['foreground']),
+        ('*Scale*background', tk_style['Scale']['background']),
+        ('*Scale*activeBackground', tk_style['Scale']['activeBackground']),
+        ('*Scale*activeForeground', tk_style['Scale']['activeForeground']),
+        ('*Scale*troughColor', tk_style['Scale']['troughColor']),
+        ('*Scale*font', tk_style['Scale']['font']),
+        ('*Scale*highlightBackground', bg_color),
+        ('*Scale*highlightColor', selected_bg_color),
+    )
+    #w.option_add('pattern',value, priority)
+    for p, v in patterns:
+        w.option_add(p, v)
+
+def apply_gtk_theme_noop(w):
+    #No gtk installed
+    pass
+
+apply_gtk_theme = apply_gtk_theme_noop
+if HAS_GTK:
+    apply_gtk_theme = apply_gtk_theme_real
+
+}}}
+
+'''Ejemplo:'''
+
+Descripcion: Crea 2 ventanas pequeñas iguales, una tratara de imitar el tema de GTK, la otra se mostrara como es por defecto.
+
+{{{
+#!code python
+
+#!/usr/bin/env python2
+#-*- coding:utf-8 -*-
+
+#
+# test.py
+#
+
+import Tkinter as tk
+import colour
+
+class GtkOnTkApp(tk.Frame):
+    '''Gtk on tk test"'''
+    
+    def __entry_scrollHandler(self, *L):
+        op, howMany = L[0], L[1]
+        if op == "scroll":
+            units = L[2]
+            self.entry.xview_scroll ( howMany, units )
+        elif op == "moveto":
+            self.entry.xview_moveto ( howMany )
+
+
+    def __init__(self, master, title):
+        tk.Frame.__init__(self, master)
+        root = self.winfo_toplevel()
+        
+        o = tk.Label(self, text="Label: " + title)
+        o.pack(side='top', pady=2)
+        
+        o = tk.Button(self, text="Button")
+        o.pack(side='top', pady=2)
+        
+        self.entry = o = tk.Entry(self)
+        o.insert('end', 'Entry + Scrollbar ' * 10)
+        o.pack(side='top', pady=2)
+        
+        o = tk.Scrollbar(self,orient='horizontal', command=self.__entry_scrollHandler)
+        o.pack(side='top', fill='x', pady=2)
+        self.entry.configure(xscrollcommand=o.set)
+        
+        o = tk.Spinbox(self, from_=0, to=50)
+        o.pack(side='top', pady=2)
+        
+        opciones = ('OptionMenu', 'Opcion2', 'Opcion3')
+        self.ovar = tk.StringVar()
+        self.ovar.set(opciones[0])
+        o = tk.OptionMenu(self, self.ovar, *opciones)
+        o.pack(side='top', pady=2)
+        
+        self.items = tk.StringVar()
+        self.items.set('Listbox Item2 Item3')
+        o = tk.Listbox(self, listvariable=self.items, height=3)
+        o.pack(side='top', fill='x', pady=2)
+        
+        o = tk.Checkbutton(self,text='Checkbutton')
+        o.pack(side='top', pady=2)
+        
+        self.rbar = tk.IntVar()
+        self.rbar.set(0)
+        o = tk.Radiobutton(self,text='Radiobutton1', value=0, variable=self.rbar)
+        o.pack(side='top', pady=2)
+        o = tk.Radiobutton(self,text='Radiobutton2', value=1, variable=self.rbar)
+        o.pack(side='top', pady=2)
+        
+        o = tk.Scale(self,label='Scale', orient='horizontal')
+        o.pack(side='top', fill='x', pady=2)
+        
+        o = tk.Message(self, text='Message widget')
+        o.pack(side='top', fill='x', pady=2)
+        
+        o = tk.Text(self, height=4)
+        o.insert('0.0', 'Text widget ' * 20)
+        o.pack(side='top', pady=2)
+        
+        self.pack(expand=True, fill='both')
+        
+        # Menubar
+        menubar = tk.Menu(root)
+        filemenu = tk.Menu(menubar, tearoff=0)
+        filemenu.add_command(label="Nuevo", state='disabled')
+        filemenu.add_command(label="Menuitem 2")
+        filemenu.add_command(label="Menuitem 3")
+        filemenu.add_separator()
+        filemenu.add_command(label="Cerrar ✗", command= lambda: root.destroy())
+        menubar.add_cascade(label="Archivo", menu=filemenu)
+        root.config(menu=menubar)
+        root.title(title)
+        
+
+if __name__ == '__main__':
+    root = tk.Tk()
+    # Creamos una ventana sin estilos
+    app1 = GtkOnTkApp(tk.Toplevel(), 'Ventana sin tema Gtk')
+    
+    # Definimos los estilos gtk. Despues de la llamada a apply_gtk_theme
+    # los widgets que se crean posen "estilo" gtk:
+    colour.apply_gtk_theme(root)
+    #Creamos ventana con estilos
+    app2 = GtkOnTkApp(root, 'Ventana con tema Gtk')
+    root.mainloop()
+
+
+}}}
+
+Capturas:
+{{attachment:gtkontk01.png}}
+{{attachment:gtkontk02.png}}
