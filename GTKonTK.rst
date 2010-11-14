@@ -691,5 +691,7 @@ if __name__ == '__main__':
 }}}
 
 Capturas:
+
 {{attachment:gtkontk01.png}}
+
 {{attachment:gtkontk02.png}}
