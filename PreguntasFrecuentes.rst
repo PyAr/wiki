@@ -217,7 +217,7 @@ Acceder a bases de datos a traves de Db-Api es relativamente de bajo nivel. Se p
 
 Por el momento no hay ningún concenso en la lista sobre cual es mejor o peor.
 
-También existen librerías para acceso de datos (similar al patron ActiveRecord o librerias DAO/ADO de otras plataformas) que permiten escribir consultas e interactuar con los datos más facilmente (incluso sin usar SQL), sin necesidad de definir un modelo de clases:
+También existen librerías para acceso de datos (similar al patron [[http://es.wikipedia.org/wiki/Patr%C3%B3n_ActiveRecord|ActiveRecord]] o librerias DAO/ADO de otras plataformas) que permiten escribir consultas e interactuar con los datos más facilmente (incluso sin usar SQL), sin necesidad de definir un modelo de clases:
 
  * [[http://www.web2py.com.ar/examples/default/dal|DAL]]: Capa de Abstracción de Base de Datos (Web2Py)
 
