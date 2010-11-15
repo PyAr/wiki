@@ -183,6 +183,8 @@ MapeandoMemoria: Cómo generar un mapa de la memoria con heapy
 == Administracion de Sistemas Operativos ==
 /ListarProcesos: como listar procesos multiplataforma
 
+[[Xdg-Sudo]]: El sudo Grafico Universal, para Escritorios GTK/QT/whatever, inspirado en ''xdg-open'' de Linux.
+
 == Internet ==
 /RevisarConexion: revisar si estamos conectados a internet conexión.
 
