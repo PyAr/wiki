@@ -86,5 +86,7 @@ Ahora, ¿a dónde podrías recurrir para obtener información que te inicie en l
 == Videos ==
  * Ejemplos de aplicaciones, cursos para Principiantes, Medios y Avanzados. Algunas categorías: python, wxpython, ipython, Django, Turbogears, etc.
   . http://showmedo.com/videotutorials/
+ * Charlas Abiertas de Python, organizadas por Python Argentina
+  . [[CharlasAbiertas2010#Charlas Realizadas|Lista de charlas realizadas]] (Español)
 
 '' Links revisados al 03/03/2008 ''
