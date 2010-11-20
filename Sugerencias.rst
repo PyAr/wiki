@@ -20,4 +20,4 @@ Y si estás buscando una dirección de e-mail para comunicarte, permitinos suger
      1. Usar otro navegador, como Mozilla Firefox.
      2. Pasar la página a "Vista de Impresión" antes de guardarla. Esto funciona con MSIE. Fijate que al pie de la página, hacia el centro, hay una lista desplegable que dice "Más Acciones". Seleccioná la opción "Vista de Impresión". Luego, guardá la página normalmente.
 
- * A la [[http://docs.python.org.ar/tutorial/index.html|página inicial del tutorial]] le falta el índice y además no tiene un enlace a la siguiente página, con lo cual al llegar a ella te quedas en punto muerto. Comparando la fuente con la del original en inglés lo único que echo en falta es el índice al final. ¿Podría arreglarse?
+ * A la [[http://docs.python.org.ar/tutorial/index.html|página inicial del tutorial]] le falta la tabla de contenidos y además no tiene un enlace a la siguiente página, con lo cual al llegar a ella te quedas en punto muerto. Comparando la fuente con la del original en inglés lo único que echo en falta es la tabla de contenidos al final. ¿Podría arreglarse?
