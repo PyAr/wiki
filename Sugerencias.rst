@@ -19,3 +19,5 @@ Y si estás buscando una dirección de e-mail para comunicarte, permitinos suger
    * No. Ignoro por qué se produce el error. Con Firefox, las páginas pueden guardarse perfectamente, incluso en Windows. Lamentablemente, el mensaje de error de MSIE no dice NADA acerca de por qué no puede guardarse. Existen dos posibles soluciones, al menos por el momento:
      1. Usar otro navegador, como Mozilla Firefox.
      2. Pasar la página a "Vista de Impresión" antes de guardarla. Esto funciona con MSIE. Fijate que al pie de la página, hacia el centro, hay una lista desplegable que dice "Más Acciones". Seleccioná la opción "Vista de Impresión". Luego, guardá la página normalmente.
+
+ * A la [[http://docs.python.org.ar/tutorial/index.html|página inicial del tutorial]] le falta el índice y además no tiene un enlace a la siguiente página, con lo cual al llegar a ella te quedas en punto muerto. Comparando la fuente con la del original en inglés lo único que echo en falta es el índice al final. ¿Podría arreglarse?
