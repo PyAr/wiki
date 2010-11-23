@@ -18,7 +18,7 @@ Si estas cerca o tenes alguna relación con una universidad que no tiene el Tuto
 ||Martín Gaitán ||<<MailTo(  gaitan EN  gmail PUNTO com)>> ||Universidad Nacional de Córdoba ||(4) [[http://biblio.efn.unc.edu.ar/cgi-bin/koha/opac-detail.pl?biblionumber=8459|Ref. 8459]] ||
 ||Federico Vincenti ||<<MailTo(  federicovincenti EN  gmail PUNTO com)>> ||Universidad Católica de Santiago del Estero - Departamento Académico Rafaela ||(4) Tutorial de Python - Van Rossum, Guido. Nº 5.552  ||
 ||Marcos Alcazar ||<<MailTo(  marcos.alcazar EN  gmail PUNTO com)>> ||UTN - Facultad Regional Mendoza ||(4) Tutorial de Python. Nº 547 ||
-||Adrian Pardini ||<<MailTo(  pardo PUNTO bsso EN  gmail PUNTO com)>> ||UNLP Ingeniería ||(1) ||
+||Adrian Pardini ||<<MailTo(  pardo PUNTO bsso EN  gmail PUNTO com)>> ||UNLP Ingeniería ||(4) El tutorial de Python. [[http://biblio.ing.unlp.edu.ar/cgi-bin/koha/opac-detail.pl?bib=INGC-MON-017574 | Ref. 519.682 VAN Bloque 4]]||
 ||Matías Herranz ||<<MailTo(  matiasherranz EN  gmail PUNTO com)>> ||UNC (Universidad Nacional de Córdoba) ||(3) ||
 ||Ezequiel Chan ||<<MailTo(  ezequielchan EN  gmail PUNTO com)>> ||Universidad Nacional de Luján ||(1) ||
 ||Julian Cardonnet ||<<MailTo(  jcardonnet EN  gmail PUNTO com)>> ||Universidad Nacional del Centro - Ingenieria de Sistemas (Tandil) ||(1) ||
