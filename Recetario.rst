@@ -124,6 +124,8 @@ PythonCard: Ejemplo de como hacer una aplicación de escritorio desde 0 (para pr
 
 [[BotonGraficoTK]]: Crear botones graficos personalizados de 3 estados con TK.
 
+[[VentanaPasswordVibra]]: Crear una ventana de password que Vibra si la password es incorrecta.
+
 == Emails ==
 === GMail ===
 /GmailMail : Cómo enviar emails usando Gmail como SMTP
