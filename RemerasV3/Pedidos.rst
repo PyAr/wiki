@@ -13,7 +13,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra. NO HAY STOC
 || Natalia Villegas || 1 M (mujer) Arena  || Contra-Reembolso || <<MailTo(villegasnaty ARROBA gmail PUNTO com)>> ||
 || Claudia Quispe || 1 S (mujer) Blanco  || Contra-Reembolso || <<MailTo(clauva83 ARROBA gmail PUNTO com)>> ||
 || Juan Manuel García || 1 XL (hombre) Azul Francia  || Contra-Reembolso || <<MailTo(jmg.utn ARROBA gmail PUNTO com)>> ||
-
+||PabloPetenello ||1 XL (hombre) Negra / 1 Xl (hombre) Amarillo ||Contrareembolso/Envío || <<MailTo(pablopetenello ARROBA gmail PUNTO com)>> ||
 === Pedidos Remeras V3b (Diseño Boa - las remeras celestes del Staff de PyConAr) ===
 
 Ver el [[diseño|http://python.org.ar/pyar/RemerasV2/PabloZiliani2]]
