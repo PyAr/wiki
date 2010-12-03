@@ -141,7 +141,7 @@ Reference Implementation
 
     Although it is just a proof of concept, final version shouldn't be 
     much different than this, as internationalization points are 
-    well-known so just 2 C files where modified. Indeed, a version using
+    well-known so just 2 C files were modified. Indeed, a version using
     gettext would be even smaller as messages would be in separated files,
     i18n could reduce just to _ (gettext) C function.
     
