@@ -32,3 +32,8 @@ http://www.imgs.com.ar/imgs/2/9/b/29b7bcefc7ab3eee01c8e5f5458fefc2ffcfd4a7.html
 * Marcelo Martinovic +1
 
 * Elías +1
+
+== Tareas PET2 ==
+Acá vamos a organizar las tareas para sacar la PET2, si tienen comentarios los agregan a la sección correspondiente mas abajo.
+
+=== Listado de voluntarios y tareas ===
