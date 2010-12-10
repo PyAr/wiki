@@ -38,6 +38,8 @@ Acá vamos a organizar las tareas para sacar la PET2, si tienen comentarios los 
 
 === Listado de voluntarios y tareas ===
 
+Si querés participar, por favor envía un correo a luciano acavaunpunto campagnolo acavaunarroba gmail acavaunpunto acavalousual o simplemente agréguese al listado. Gracias!
+
 || Nombre || Tareas || Asignadas || Estado||
 || Tomas Zulberti ||rev-es || Asignando || ||
 || Claudio Canepa || rev-es || Asignando || ||
@@ -46,3 +48,8 @@ Acá vamos a organizar las tareas para sacar la PET2, si tienen comentarios los 
 || Ezequiel || tr-en rev-es || Asignando || ||
 || Jesús Francisco || rev-es || Asignando || ||
 || Luciano Campagnolo || tr-en rev-es || Asignando || ||
+
+=== Comentarios ===
+Por favor, para comentar adjunten su nombre y dirección de correo obsfuscada para que no la parseen los amigos de lo ajeno.
+Los comentarios deberían agregarse así:
+ *Este es un primer comentario. Usuario:Montoto <montoto lalala hotmail lelele com>
