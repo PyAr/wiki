@@ -47,6 +47,7 @@ Si querés participar, por favor envía un correo a luciano acavaunpunto campagn
 || Daniel Moisset || rev-es || Asignando || ||
 || Ezequiel || tr-en rev-es || Asignando || ||
 || Jesús Francisco || rev-es || Asignando || ||
+|| Gustavo Campanelli || rev-es || Asignando || ||
 || Luciano Campagnolo || tr-en rev-es || Asignando || ||
 
 === Comentarios ===
