@@ -28,6 +28,7 @@ Codename: ''Bajo el signo del vino''
   || Diego Mascialino ||
   || AlbertoPaparelli ||
   || HoracioBertorello ||
+  || MarianoReingart ||
 
 '''Minuta'''
 
