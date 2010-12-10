@@ -14,18 +14,6 @@ La entrada es libre y gratuita. Se pasará una gorra voluntaria durante los curs
 
 No hace falta registrarse, pero vení temprano para asegurarte un lugar porque los cupos son limitados.
 
-== Cronograma ==
-
-=== Día 9: Sábado 20 de Noviembre ===
-==== Taller de Programación de Juegos ====
-
-''Mostraremos cómo hacer juegos y actividades educativas sencillas, usando Python y la biblioteca PyGame. ''
-
-''No es imprescindible, pero si tenés notebook traela!''
-
- * Disertantes: Alejandro J. Cura y Hector Sanchez
-
- * 10:30 a 15 horas, con un break de 30' en el medio
 
 == Charlas Realizadas ==
 
@@ -54,5 +42,7 @@ No hace falta registrarse, pero vení temprano para asegurarte un lugar porque l
  * '''[[/PyQt | PyQt]]'''
 
  * '''[[/Python3000 | Python3000]]'''
-
+ 
  * '''[[/Twisted | Twisted]]'''
+
+ * '''[[/TallerJuegos | Taller de Programación de Juegos]]'''
