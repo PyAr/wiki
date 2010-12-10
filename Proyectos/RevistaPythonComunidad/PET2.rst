@@ -37,3 +37,12 @@ http://www.imgs.com.ar/imgs/2/9/b/29b7bcefc7ab3eee01c8e5f5458fefc2ffcfd4a7.html
 Acá vamos a organizar las tareas para sacar la PET2, si tienen comentarios los agregan a la sección correspondiente mas abajo.
 
 === Listado de voluntarios y tareas ===
+
+|| Nombre || Tareas || Asignadas || Estado||
+|| Tomas Zulberti ||rev-es || Asignando || ||
+|| Claudio Canepa || rev-es || Asignando || ||
+|| Douglas Cerna || tr-en rev-es || Asignando || ||
+|| Daniel Moisset || rev-es || Asignando || ||
+|| Ezequiel || tr-en rev-es || Asignando || ||
+|| Jesús Francisco || rev-es || Asignando || ||
+|| Luciano Campagnolo || tr-en rev-es || Asignando || ||
