@@ -8,6 +8,6 @@ Acá está el listado de artículos con los links a las paginas individuales de 
 || Ezequiel || tr-en rev-es || Asignando || ||
 || Jesús Francisco || rev-es || Depuración y defragmentación de memoria || ||
 || Gustavo Campanelli || rev-es || Py Afip Ws || ||
-|| Luciano Campagnolo || tr-en rev-es || Cómo se hizo PyConAr2010 || ||
+|| Luciano Campagnolo || tr-en rev-es || Cómo se hizo PyConAr2010 || [[Proyectos/RevistaPythonComunidad/PET2/comosehizo]] ||
 
 La idea es asignar los artículos menos extensos a los voluntarios que van a traducir al ingles, así no los cargamos con tanto...
