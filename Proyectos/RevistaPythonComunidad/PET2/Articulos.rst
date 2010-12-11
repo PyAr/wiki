@@ -6,7 +6,7 @@ Acá esta el html resultante: http://revista.python.org.ar/2estoessecretonoselod
 || Tomas Zulberti ||rev-es || Entendiendo Decoradores en Python || [[Proyectos/RevistaPythonComunidad/PET2/decoradores]] ||
 || Claudio Canepa || rev-es || Info Python || [[Proyectos/RevistaPythonComunidad/PET2/InfoPython]] ||
 || Douglas Cerna || tr-en rev-es || Asignando || ||
-|| Daniel Moisset || rev-es || Introducción a Django || [[http://python.org.ar/pyar/Proyectos/RevistaPythonComunidad/PET2/IntroDjango]] ||
+|| Daniel Moisset || rev-es || Introducción a Django || [[Proyectos/RevistaPythonComunidad/PET2/IntroDjango]] ||
 || Ezequiel || tr-en rev-es || Asignando || ||
 || Jesús Francisco || rev-es || Depuración y defragmentación de memoria || ||
 || Gustavo Campanelli || rev-es || Py Afip Ws || ||
