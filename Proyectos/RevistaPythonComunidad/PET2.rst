@@ -41,14 +41,14 @@ Acá vamos a organizar las tareas para sacar la PET2, si tienen comentarios los 
 Si querés participar, por favor envía un correo a luciano acavaunpunto campagnolo acavaunarroba gmail acavaunpunto acavalousual o simplemente agréguese al listado. Gracias!
 
 || Nombre || Tareas || Asignadas || Estado||
-|| Tomas Zulberti ||rev-es || Asignando || ||
-|| Claudio Canepa || rev-es || Asignando || ||
+|| Tomas Zulberti ||rev-es || Asignado || ||
+|| Claudio Canepa || rev-es || Asignado || ||
 || Douglas Cerna || tr-en rev-es || Asignando || ||
-|| Daniel Moisset || rev-es || Asignando || ||
+|| Daniel Moisset || rev-es || Asignado || ||
 || Ezequiel || tr-en rev-es || Asignando || ||
-|| Jesús Francisco || rev-es || Asignando || ||
-|| Gustavo Campanelli || rev-es || Asignando || ||
-|| Luciano Campagnolo || tr-en rev-es || Asignando || ||
+|| Jesús Francisco || rev-es || Asignado || ||
+|| Gustavo Campanelli || rev-es || Asignado || ||
+|| Luciano Campagnolo || tr-en rev-es || Asignado || ||
 
 === Comentarios ===
 Por favor, para comentar adjunten su nombre y dirección de correo obsfuscada para que no la parseen los amigos de lo ajeno.
