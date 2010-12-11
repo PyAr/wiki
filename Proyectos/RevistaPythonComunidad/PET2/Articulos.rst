@@ -4,7 +4,7 @@ Acá esta el html resultante: http://revista.python.org.ar/2estoessecretonoselod
 
 || Nombre || Tareas || Asignadas || Link ||
 || Tomas Zulberti ||rev-es || Entendiendo Decoradores en Python || [[Proyectos/RevistaPythonComunidad/PET2/decoradores]] ||
-|| Claudio Canepa || rev-es || Info Python || ||
+|| Claudio Canepa || rev-es || Info Python || [[Proyectos/RevistaPythonComunidad/PET2/InfoPython]] ||
 || Douglas Cerna || tr-en rev-es || Asignando || ||
 || Daniel Moisset || rev-es || Introducción a Django || ||
 || Ezequiel || tr-en rev-es || Asignando || ||
