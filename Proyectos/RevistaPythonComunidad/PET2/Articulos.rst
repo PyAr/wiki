@@ -1,0 +1,13 @@
+Acá está el listado de artículos con los links a las paginas individuales de cada uno, por favor suban las versiones revisadas/actualizadas con un sufijo de versión
+
+|| Nombre || Tareas || Asignadas || Link ||
+|| Tomas Zulberti ||rev-es || Entendiendo Decoradores en Python || [[Proyectos/RevistaPythonComunidad/PET2/decoradores]] ||
+|| Claudio Canepa || rev-es || InfoPython || ||
+|| Douglas Cerna || tr-en rev-es || Asignando || ||
+|| Daniel Moisset || rev-es || Introducción a Django || ||
+|| Ezequiel || tr-en rev-es || Asignando || ||
+|| Jesús Francisco || rev-es || Depuración y defragmentación de memoria || ||
+|| Gustavo Campanelli || rev-es || PyAfipWs || ||
+|| Luciano Campagnolo || tr-en rev-es || Cómo se hizo PyConAr2010 || ||
+
+La idea es asignar los artículos menos extensos a los voluntarios que van a traducir al ingles, así no los cargamos con tanto...
