@@ -1,5 +1,7 @@
 Acá está el listado de artículos con los links a las paginas individuales de cada uno, por favor suban las versiones revisadas/actualizadas con un sufijo de versión
 
+Acá esta el html resultante: http://revista.python.org.ar/2estoessecretonoselodigananadie/html/es/index.html por si quieren ver como esta armada
+
 || Nombre || Tareas || Asignadas || Link ||
 || Tomas Zulberti ||rev-es || Entendiendo Decoradores en Python || [[Proyectos/RevistaPythonComunidad/PET2/decoradores]] ||
 || Claudio Canepa || rev-es || Info Python || ||
