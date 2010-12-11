@@ -8,7 +8,7 @@ Acá esta el html resultante: http://revista.python.org.ar/2estoessecretonoselod
 || Douglas Cerna || tr-en rev-es || Asignando || ||
 || Daniel Moisset || rev-es || Introducción a Django || [[Proyectos/RevistaPythonComunidad/PET2/IntroDjango]] ||
 || Ezequiel || tr-en rev-es || Asignando || ||
-|| Jesús Francisco || rev-es || Depuración y defragmentación de memoria || ||
+|| Jesús Francisco || rev-es || Depuración y defragmentación de memoria || [[Proyectos/RevistaPythonComunidad/PET2/DepuracionDefragmentacion]] ||
 || Gustavo Campanelli || rev-es || Py Afip Ws || ||
 || Luciano Campagnolo || tr-en rev-es || Cómo se hizo PyConAr2010 || [[Proyectos/RevistaPythonComunidad/PET2/comosehizo]] ||
 
