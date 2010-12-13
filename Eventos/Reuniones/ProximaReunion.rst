@@ -21,7 +21,7 @@ Codename: ''Bajo el signo del vino''
  * Llamado por Colaboradores: Proyectos presentados en Conurbania 2010 (python+web2py+postgresql), para hablar sobre organización interna, estado y futuro, cursos, ¿propuestas?, etc.:
   * [[http://ampatu.googlecode.com/|Ampatu]]: Gestión de Eventos 911
   * [[http://www.facturalibre.com.ar/|FacturaLibre]] y [[http://gestionlibre.googlecode.com|GestionLibre]]
-  * [[http://www.sistemasagiles.com.ar/trac/wiki/SiaPy|SiaPy]]: SIAP Libre, [[http://pyafipws.googlecode.com/|PyAfipWs]]: Proyecto Factura Electrónica ( y derivados
+  * [[http://www.sistemasagiles.com.ar/trac/wiki/SiaPy|SiaPy]]: SIAP Libre, [[http://pyafipws.googlecode.com/|PyAfipWs]]: Proyecto Factura Electrónica y derivados
 
 ''' Asistentes:''' Por favor, si venís a la reunión, anotate en esta lista:
 
