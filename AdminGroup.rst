@@ -6,6 +6,7 @@
  * JoaquinSorianello
  * JohnLenton
  * LucioTorre
+ * MarianoGuerra
  * NubIs
  * PabloZiliani
  * RicardoKirkner
