@@ -18,7 +18,7 @@ Codename: ''Bajo el signo del vino''
 
  * Charlas Abiertas de Python en La Tribu: Conclusiones; Discusión: ¿valen la pena?
  * PyAr y PyBar
- * Llamado por Colaboradores: Proyectos presentados en Conurbania 2011 (python+web2py+postgresql)
+ * Llamado por Colaboradores: Proyectos presentados en Conurbania 2010 (python+web2py+postgresql)
   * [[http://ampatu.googlecode.com/|Ampatu]]: Gestión de Eventos 911
   * [[http://www.facturalibre.com.ar/|FacturaLibre]] y [[http://gestionlibre.googlecode.com|GestionLibre]]
 
