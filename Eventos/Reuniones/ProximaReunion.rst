@@ -3,13 +3,27 @@
 ## No borres el siguiente párrafo! Comentalo. Así, pasada la reunión,
 ## lo descomentamos y listo (es el texto estándar que mostramos cuando
 ## no hay reuniones programadas):
+
+
 = Próximas Reuniones =
 ##Por el momento, no hay planificada una reunión.
 ##Si querés organizar alguna, o proponer temas para juntar ''quorum'' y que se organice, te invitamos a proponerlo en nuestra ListaDeCorreo. Te sugerimos consultar nuestro [[Eventos/Reuniones/ReleaseProcedure|Release Procedure]] para tener una idea de como organizar una reunión.
 == Reunión 45 - Jueves 16 de Diciembre - Ciudad de Buenos Aires, en el bar de la esquina de Medrano y Guardia Vieja - 19hs ==
+
+= Próximas Reuniones =
+
+##Por el momento, no hay planificada una reunión. 
+
+##Si querés organizar alguna, o proponer temas para juntar ''quorum'' y que se organice, te invitamos a proponerlo en nuestra ListaDeCorreo. Te sugerimos consultar nuestro [[Eventos/Reuniones/ReleaseProcedure|Release Procedure]] para tener una idea de como organizar una reunión.
+
+<<TableOfContents>>
+
+
+== Reunión 45 - Jueves 16 de Diciembre - Ciudad de Buenos Aires, en el bar de la esquina de Medrano y Guardia Vieja - 19hs ==
+
 Codename: ''Bajo el signo del vino''
 
-'''Temario:'''
+=== Temario: ===
 
  * Charlas Abiertas de Python en La Tribu: Conclusiones; Discusión: ¿valen la pena?
  * PyAr y PyBar
@@ -18,7 +32,11 @@ Codename: ''Bajo el signo del vino''
   * [[http://www.facturalibre.com.ar/|FacturaLibre]] y [[http://gestionlibre.googlecode.com|GestionLibre]]
   * [[http://www.sistemasagiles.com.ar/trac/wiki/SiaPy|SiaPy]]: SIAP Libre, [[http://pyafipws.googlecode.com/|PyAfipWs]]: Proyecto Factura Electrónica y derivados
 
-''' Asistentes:''' Por favor, si venís a la reunión, anotate en esta lista:
+
+=== Asistentes: ===
+
+Por favor, si venís a la reunión, anotate en esta lista:
+
 
  ||Facundo Batista ||
  ||Tomas Zulberti ||
@@ -33,8 +51,12 @@ Codename: ''Bajo el signo del vino''
  ||Gustavo Orrillo||
  ||[[JoaquinSorianello|Joac]] ||
 
+=== Lugar ===
 
+El Bar de siempre, en Medrano y Guardia Vieja.
 
-'''Minuta'''
+<<GoogleMaps(msa=0,msid=105017401461870163751.0004787ee56982073d1c6,ll="-34.601228,-58.419124",spn="0.005484,0.013078",z=17)>>
+
+=== Minuta ===
 
 Obvio, luego de la reunión.
