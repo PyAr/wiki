@@ -30,6 +30,7 @@ Codename: ''Bajo el signo del vino''
   || HoracioBertorello ||
   || MarianoReingart ||
   || AlejandroDavidWeil ||
+  || Marcos Costales (de Ubuntu Asturias) ||
 
 '''Minuta'''
 
