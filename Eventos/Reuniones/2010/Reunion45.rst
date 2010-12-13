@@ -29,6 +29,7 @@ Por favor, si venís a la reunión, anotate en esta lista:
  ||Marcos Costales (de Ubuntu Asturias) ||
  ||Gustavo Orrillo||
  ||[[JoaquinSorianello|Joac]] ||
+ ||Vicente ||
 
 === Lugar ===
 
