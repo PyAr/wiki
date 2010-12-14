@@ -30,6 +30,7 @@ Por favor, si venís a la reunión, anotate en esta lista:
  ||Gustavo Orrillo||
  ||[[JoaquinSorianello|Joac]] ||
  ||Vicente ||
+ ||SAn ||
 
 === Lugar ===
 
