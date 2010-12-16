@@ -31,7 +31,7 @@ Por favor, si venís a la reunión, anotate en esta lista:
  ||[[JoaquinSorianello|Joac]] ||
  ||Vicente ||
  ||SAn ||
- ||Enjambre ||
+ ||Annoying Noob ||
 
 === Lugar ===
 
