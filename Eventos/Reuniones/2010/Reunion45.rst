@@ -36,6 +36,7 @@ Por favor, si venís a la reunión, anotate en esta lista:
  ||Marga Manterola ||
  ||[[dieresys|Manuel Muradás]] ||
  ||HugoRuscitti||
+ ||PabloZiliani ||
 
 
 === Lugar ===
