@@ -10,7 +10,7 @@ Codename: ''Bajo el signo del vino''
   * [[http://ampatu.googlecode.com/|Ampatu]]: Gestión de Eventos 911
   * [[http://www.facturalibre.com.ar/|FacturaLibre]] y [[http://gestionlibre.googlecode.com|GestionLibre]]
   * [[http://www.sistemasagiles.com.ar/trac/wiki/SiaPy|SiaPy]]: SIAP Libre, [[http://pyafipws.googlecode.com/|PyAfipWs]]: Proyecto Factura Electrónica y derivados
-
+ * PyDay Bs.As. 2011
 
 === Asistentes: ===
 
