@@ -33,6 +33,8 @@ Por favor, si venís a la reunión, anotate en esta lista:
  ||SAn ||
  ||Annoying Noob ||
  ||Marga Manterola ||
+ ||[[dieresys|Manuel Muradás]] ||
+
 
 === Lugar ===
 
