@@ -13,4 +13,5 @@
 
 ##Si querés organizar alguna, o proponer temas para juntar ''quorum'' y que se organice, te invitamos a proponerlo en nuestra ListaDeCorreo. Te sugerimos consultar nuestro [[Eventos/Reuniones/ReleaseProcedure|Release Procedure]] para tener una idea de como organizar una reunión.
 
- * [[Eventos/Reuniones/Reunion45|Reunión 45]]: Jueves 16 de Diciembre - Ciudad de Buenos Aires, en el bar de la esquina de Medrano y Guardia Vieja - 19hs
+
+* [[Eventos/Reuniones/Reunion46|Reunión 46]]: TBD - Ciudad de Córdoba
