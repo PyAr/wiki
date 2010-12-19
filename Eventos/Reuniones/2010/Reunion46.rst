@@ -4,6 +4,7 @@
 
 ''' Asistentes: '''
 || MarianoGarcia ||
+|| CarlosBarroso ||
 
 
 '''Temario'''
