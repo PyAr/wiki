@@ -15,3 +15,4 @@
 
 
 * [[Eventos/Reuniones/Reunion46|Reunión 46]]: TBD - Ciudad de Córdoba
+* [[Eventos/Reuniones/Reunion47|Reunión 47]]: Rosario - Santa Fe
