@@ -1,4 +1,4 @@
-== Reunión 47 - 8 de Enero del 2011 - Rosario, Santa Fe. Bar Davis - Oronio y el rio ==
+== Reunión 47 - 8 de Enero del 2011 - Rosario, Santa Fe. Bar Davis - Oronio y el rio, 19 PM ==
 
 '' codename : 7DB ''
 
