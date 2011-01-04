@@ -14,6 +14,4 @@
 ##Si querés organizar alguna, o proponer temas para juntar ''quorum'' y que se organice, te invitamos a proponerlo en nuestra ListaDeCorreo. Te sugerimos consultar nuestro [[Eventos/Reuniones/ReleaseProcedure|Release Procedure]] para tener una idea de como organizar una reunión.
 
 
-* [[Eventos/Reuniones/Reunion46|Reunión 46]]: TBD - Ciudad de Córdoba
-
 * [[Eventos/Reuniones/Reunion47|Reunión 47]]: Rosario - Santa Fe
