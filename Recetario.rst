@@ -214,3 +214,5 @@ MapeandoMemoria: Cómo generar un mapa de la memoria con heapy
 /AlarmaPrecaria: Alarma minima y basica de linea de comandos.
 
 [[KeyboardLedsDemo]]: Como controlar los Leds del Teclado con Python.
+
+[[BloquearClickDelMouse]]: Como bloquear temporalmente el click izquierdo del mouse cuando se tipea en Linux.
