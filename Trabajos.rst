@@ -1,4 +1,7 @@
 = Trabajos con Python =
+== 2011 ==
+ * (06/01/2011) [[http://globant.com|Globant]] está buscando un programador Python. Es indispensable manejarse con inglés oral (hay "''calls''" y viajes) y tener experiencia con sitios de alto tráfico. Más información [[http://mx.grulic.org.ar/lurker/message/20110106.145112.8e9f9802.es.html|acá]]. Si estás interesado enviá un mail a <<MailTo(sebastian.bassi EN globant PUNTO com)>>
+
 == 2010 ==
  * (29/12/2010) En [[http://popego.com/|Popego]] estamos incorporando nuevos desarrolladores a nuestro equipo. Actualmente tenemos posiciones abiertas tanto para el equipo de Ingeniería como para el de Machine Learning, en perfiles Junior, Semi-Senior y Senior. Full-Time, en nuestras oficinas de Palermo, buen clima, hay clases de idiomas, libros y juegos disponibles. Si estás interesado y te apasionan los desafíos visitá http://popego.com/jobs.html y escribinos a <<MailTo(jobs EN popego PUNTO com)>> .
 
