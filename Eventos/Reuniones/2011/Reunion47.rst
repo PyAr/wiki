@@ -11,6 +11,7 @@
 || Juan Pablo Gimenez ||
 || Mariano Street ||
 || Emiliano Dalla Verde Marcozzi ||
+|| DanielMoisset ||
 
 
 '''Temario'''
