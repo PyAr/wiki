@@ -23,9 +23,9 @@ Debido a que no sé que poner, voy a seguir los consejos de este wiki de cómo a
 
 Algunos links interesantes:
 
- * Conozcan Viale y su gente: http://www.nuevazona.com.ar/ Y si quieren ir a la [[Fiesta Provincial del Asado con Cuero|http://www.asadoconcuero.com.ar]] están invitados, quizás podemos arreglar para ir juntos.
+ * Conozcan [[Viale y su gente|http://www.nuevazona.com.ar]]. Y si quieren ir a la [[Fiesta Provincial del Asado con Cuero|http://www.asadoconcuero.com.ar]] están invitados, quizás podemos arreglar para ir juntos.
  * Mi árbol genealógico para que busquen parientes: http://gw3.geneanet.org/index.php3?b=matigro. Si se encuentran, estén contentos y conozcan sus raíces, plata ni herencia hay (Ya averigué)   
- * Estoy en [[http://www.linkedin.com/in/matiasgieco|LinkedIn]], porque da chapa de que se algo, en los grupos de python y pyar: http://www.linkedin.com/in/matiasgieco
+ * Estoy en [[http://www.linkedin.com/in/matiasgieco|LinkedIn]], en los grupos de python y PyAr, porque da chapa de que se algo.
 
 Si quieren algún otro usuario y contraseña de algún otro servicio, manden un email a la dirección escrita y se las doy, total quien va a romper lo que no es suyo.
 
