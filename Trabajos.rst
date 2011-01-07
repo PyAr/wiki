@@ -1,5 +1,6 @@
 = Trabajos con Python =
 == 2011 ==
+ * (07/01/2011) Desarrollador(a) freelance part-time/full-time para empresa en crecimiento. La paga es a convenir y todos los proyectos son a largo plazo. Experiencia con Django, Mercurial/Git, Trac, APIs (Facebook, Twitter, Flickr, etcétera). Más información [[http://mx.grulic.org.ar/lurker/message/20110107.153049.d65311ba.es.html|acá]]. Si estás interesado enviá un mail en texto plano a <<MailTo(xavier EN link-b PUNTO com)>>
  * (06/01/2011) [[http://globant.com|Globant]] está buscando un programador Python. Es indispensable manejarse con inglés oral (hay "''calls''" y viajes) y tener experiencia con sitios de alto tráfico. Más información [[http://mx.grulic.org.ar/lurker/message/20110106.145112.8e9f9802.es.html|acá]]. Si estás interesado enviá un mail a <<MailTo(sebastian.bassi EN globant PUNTO com)>>
 
 == 2010 ==
