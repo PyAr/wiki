@@ -30,4 +30,4 @@
 || Fabian Gallina ||
 
 ''' Temas Tratados: '''
-Nos juntamos a tomar cervezas, licuados orgasimos y hablar de huevadas, nada importante. Fue una reunión pura y exclusivamente de relajación para vernos las caras los pythoneros rosarigasinos en estre nuevo anio.
+Nos juntamos a tomar cervezas, licuados orgásmicos y hablar de huevadas, nada importante. Fue una reunión pura y exclusivamente de relajación para vernos las caras los pythoneros rosarigasinos en este nuevo año.
