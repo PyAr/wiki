@@ -16,12 +16,12 @@
 
 '''Resumen'''
 
-El pasado jueves 23 nos reunimos Mariano Guerra (marianoguerra), Mariano
+El pasado jueves 23 de diciembre de 2010 nos reunimos Mariano Guerra (marianoguerra), Mariano
 Garcia Berrotarán(nassty) y yo (nueces), no hubo mucha cerveza, pero
 llegamos a un par de puntos sobre el pycamp. A saber:
 
  * Definimos la fecha para el Jueves 24, Viernes 25, Sábado 26 y Domingo
-27. En principio son 4 días, pero de acuerdo a los costes y lo que
+27 de marzo. En principio son 4 días, pero de acuerdo a los costes y lo que
 quiera el resto de PyAr pueden ser solo 3. 
  * Revisamos la lista de posibles locaciones, actualmente hay dos en
 tentativas. La primera es en un hostel en La Cumbrecita, estamos a la
