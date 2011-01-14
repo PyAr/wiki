@@ -14,6 +14,7 @@ Anotarse aquí implica un compromiso tácito de concretar la compra. NO HAY STOC
 || Claudia Quispe || 1 S (mujer) Blanco  || Contra-Reembolso || <<MailTo(clauva83 ARROBA gmail PUNTO com)>> ||
 || Juan Manuel García || 1 XL (hombre) Azul Francia  || Contra-Reembolso || <<MailTo(jmg.utn ARROBA gmail PUNTO com)>> ||
 ||PabloPetenello ||1 XL (hombre) Negra / 1 Xl (hombre) Amarillo ||Contrareembolso/Envío || <<MailTo(pablopetenello ARROBA gmail PUNTO com)>> ||
+||Marco Mansilla ||5 XXL (hombre) Negra / Amarillo / Gris Oscuro / Rojo / Gris Claro ||Contrareembolso || <<MailTo(big ARROBA esdebian PUNTO org)>> ||
 === Pedidos Remeras V3b (Diseño Boa - las remeras celestes del Staff de PyConAr) ===
 
 Ver el [[diseño|http://python.org.ar/pyar/RemerasV2/PabloZiliani2]]
