@@ -34,6 +34,8 @@ Si querés ver el histórico de la lista de correo de PyAr, te podés fijar en e
 
 A partir del 17/10/2006, GMANE también está archivando nuestra lista. Este archive es accesible desde [[http://dir.gmane.org/gmane.org.user-groups.python.argentina|acá]].
 
+También hay una réplica de la lista en un grupo de Google: http://groups.google.com/group/pythonargentina
+
 <<BR>>
 ----
 ||<tablestyle="background-color:#f0f8fd; width:100%;"> (./) '''El servicio de hosting, tanto del portal como de la lista de correo es de --([[http://www.decode.com.ar|Decode]])-- [[http://drupal.usla.org.ar/|USLA]].'''<<BR>> (./) '''El servicio de archivo es cortesía de [[http://www.grulic.org.ar/|GrULiC]], que gentilmente nos ha prestado espacio.'''<<BR>> (./) '''El proyecto [[http://www.gmane.org/|GMANE]] nos da archive, feeds RSS y acceso vía NNTP.'''<<BR>><<BR>>A estas organizaciones, ~+¡muchas gracias!+~||
