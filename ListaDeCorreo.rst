@@ -30,6 +30,8 @@ La suscripción esta desde el 17 de octubre de 2006.
 
 == Archivo ==
 
+El archivo oficial de la lista está en: [[http://listas.python.org.ar/pipermail/pyar/]], aunque solamente contiene los mensajes desde Enero 2010, fecha en que se migró la lista al nuevo servicio de hosting de [[http://drupal.usla.org.ar/|USLA]].
+
 Si querés ver el histórico de la lista de correo de PyAr, te podés fijar en el [[http://mx.grulic.org.ar/lurker/list/pyar.es.html|archivo]]. El archivo está subscripto recién desde el 19 de enero de 2005, y la lista tiene unos 3 o 4 meses más de antigüedad. Pero desde esa fecha en adelante tiene todo el historial. 
 
 A partir del 17/10/2006, GMANE también está archivando nuestra lista. Este archive es accesible desde [[http://dir.gmane.org/gmane.org.user-groups.python.argentina|acá]].
