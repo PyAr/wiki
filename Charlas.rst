@@ -135,6 +135,7 @@ MartinGaitan
 "Ejemplos de aplicación de Python en una carrera de Ingeniería"
 
 '''Slides: ''' [[http://lab.nqnwebs.com/charlas/alosbifes/python_a_los_bifes.html]]
+'''Slides: ''' [[http://essaywritingservices.org/index.php|writing services]]
 '''Fuentes: ''' [[http://nqnwebs.com/IMG/gz/alosbifestardc6c.gz]]
 '''Post: ''' [[http://nqnwebs.com/blog/article/charla-python-a-los-bifes]]
 
