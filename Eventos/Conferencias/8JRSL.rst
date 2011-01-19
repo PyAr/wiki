@@ -132,6 +132,7 @@ Learn the descriptor protocol, see how it is invoked, examine real examples from
 
 Walk away with a sound understanding of methods, properties, super,
 classmethods, and staticmethods. 
+ * [[http://cvresumewritingservices.org/|resume writing service]]
 
 ----
 === PloneGetPaid, estilo, calidad e ecommerce en un solo paquete ===
