@@ -25,7 +25,6 @@ apt-get install pythoncard
  * Bajar e instalar Python desde [[http://www.python.org/ftp/python/2.5.2/python-2.5.2.msi|www.python.org, Downloads, Windows Installer Python 2.5.2]]. 
  * Bajar e instalar wxPython desde [[http://downloads.sourceforge.net/wxpython/wxPython2.8-win32-unicode-2.8.7.1-py25.exe|wxPython.org, Binaries, win32 unicode]]. 
  * Bajar e instalar PythonCard [[http://downloads.sourceforge.net/pythoncard/PythonCard-0.8.2.win32.exe|pythoncard.sourceforge.net, Downloads, PythonCard 0.8.2 win32]]. 
- * [[http://essaywritingservices.org/index.php|writing services]]
 
 == Ejemplos ==
 Si todo se instaló correctamente, podemos probar los ejemplos que vienen con PythonCard, menú Inicio, PythonCard, Sample Launcher (o buscar el script en C:\Python25\Lib\site-packages\PythonCard\samples\samples.pyw o similar para la plataforma en que estemos).
