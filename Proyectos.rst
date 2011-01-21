@@ -56,8 +56,6 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr, están rela
    * SIAP Libre: [[http://www.sistemasagiles.com.ar/trac/wiki/SiaPy|Prototipo SIAPy]]
    * Controladores Fiscales: [[http://code.google.com/p/pyfiscalprinter/|PyFiscalPrinter]] (por el momento es un proyecto separado)
 
- * [[http://essay-for.me/|essays online]]
-
  * [[http://www.sistemasagiles.com.ar/trac/wiki/PyReplicaEs|PyReplica]]
   * Replicador simple y flexible para PostgreSQL escrito exclusivamente en Python (asincrónico, multimaster limitado, notificaciones por email, etc.)
 
