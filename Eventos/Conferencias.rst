@@ -17,5 +17,3 @@
  y el proyecto desarrollado para ese taller fue el puntapié inicial de [[Proyectos/Caucho]].
 
  * [[http://www.softlibre.org.ar/|Segundo Congreso Nacional de Software Libre - USUARIA 2005]].
- 
- * [[http://perfectresume.org/|professional resume]]
