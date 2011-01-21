@@ -16,6 +16,8 @@ Usando !BitTorrent, mediante alguno de estos archivos .torrent:
 
  * http://www.taniquetil.com.ar/facundo/CDPedia-DVD-0.6.torrent [4,3 GB]
 
+ * [[http://customcollegeessays.com/index.php|college essay]]
+
 En caso de que no tengas alguno ya instalado en tu sistema, Wikipedia mantiene una [[http://es.wikipedia.org/wiki/Comparación_de_clientes_BitTorrent|lista comparativa de clientes de BitTorrent]]. Para mayor información sobre las generalidades de este protocolo, podés consultar [[http://es.wikipedia.org/wiki/BitTorrent_(protocolo)|este artículo]] de la misma fuente.
 
 Tu ayuda es importante: por favor no borres el archivo de la CDPedia un vez finalizada tu descarga. Compartílo para que, como vos, otras personas también puedan bajarlo mientras tu cliente esté conectado a Internet.
