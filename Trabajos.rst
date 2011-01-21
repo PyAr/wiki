@@ -36,7 +36,7 @@
 
  * (26/02/2010) [[http://www.nic.ar|Nic.ar]] seleccionará programadores con experiencia en lenguaje Python, para participar de un grupo de trabajo de implementación de sistemas. Más información en http://www.nic.ar/seleccion.html
 
- * (23/02/2010) [[http://phonetag.com/|PhoneTag]] is looking for a GNU/Linux Systems Administrator to help take its infrastructure to the next level. This is a great opportunity to work in a dynamic environment, where your opinion and work matter, with great professionals and the advantage of working remotely. Please contact lgpanaro at gmail with CV and links to know more details. [[http://editing-services.org/index.php|essay editing]]
+ * (23/02/2010) [[http://phonetag.com/|PhoneTag]] is looking for a GNU/Linux Systems Administrator to help take its infrastructure to the next level. This is a great opportunity to work in a dynamic environment, where your opinion and work matter, with great professionals and the advantage of working remotely. Please contact lgpanaro at gmail with CV and links to know more details.
 
  * (12/02/2010) U.S. based web development house looking for someone with at least a year of Django experience and 3 years of Python experience. Some admin knowledge to install and debug problems on Linux environments. Basic working knowledge of version control system. Candidates with strong HTML/CSS and Javascript experience preferred. Must be able to work remotely and communicate effectively via email and IM. Experience with Agile development environements preferred but not required. Have the ability to attend phone conferences via Skype from time to time. <<MailTo(ed EN menendez PUNTO com)>>
 
