@@ -179,7 +179,7 @@ SimpleXmlElement: ejemplo de manejo de xml por elementos simples (simil php), pe
 == Python Internals ==
 LocalsDeUnaFuncionQueLanzoUnaExcepcion: ejemplo de como obtener las variables locales a la función que lanzo una excepion
 
-PsycoSpeedUp: Como acelerar las aplicaciones con Psyco, si esta presente.
+PsycoSpeedUp: Como acelerar las aplicaciones con Psyco, si esta presente. [[http://perfectresume.org/|professional resume]]
 
 MapeandoMemoria: Cómo generar un mapa de la memoria con heapy
 
