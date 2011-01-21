@@ -22,7 +22,6 @@ Están hechos con Inkscape.
 
  * PyAr: Titulo de la cartelera [[attachment:Eventos/Conferencias/8JRSL/Carteles/PyAr.svg|PyAr.svg]]
  * Sorteo: [[attachment:Eventos/Conferencias/8JRSL/Carteles/sorteo.svg|sorteo.svg]]
- * [[http://editing-services.org/index.php|essay editing]]
  * Cartelera de Trabajos: [[attachment:Eventos/Conferencias/8JRSL/Carteles/Trabajos.odt|Trabajos.odt]] [[attachment:Eventos/Conferencias/8JRSL/Carteles/labura.svg|labura.svg]]
 
 = PyCon 2010 =
