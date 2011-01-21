@@ -4,7 +4,7 @@ El lenguaje procedural plpython permite escribir funciones python para la base d
 
 Como se puede acceder a todas las funciones de python, no debe usarse para usuarios no confiados, por eso se lo llama plpythonu (u=untrusted).
 
-Para más información ver [[http://www.arpug.com.ar/|Sitio del Grupo de Usuarios de PostgreSQL Argentina]], sección [[http://www.arpug.com.ar/trac/wiki/PlPython|PlPython]]
+Para más información ver [[http://www.arpug.com.ar/|Sitio del Grupo de Usuarios de PostgreSQL Argentina]], sección [[http://www.arpug.com.ar/trac/wiki/PlPython|PlPython]], [[http://essaywritingservices.org/prices.php|write my paper]]
 
 == Funciones ("Procedimientos almacenados") ==
 
