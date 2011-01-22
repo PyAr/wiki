@@ -86,11 +86,11 @@
 
  * (04/10/2007) Desarrolladores senior y junior para proyectos internacionales. Programadores de Python/Zope/Plone para integrar un equipo de desarrollo con desafiantes proyectos internacionales. Interesados enviar curriculum a: <<MailTo(info EN inter GUION cultura PUNTO com)>>
 
- * (04/10/2007) Cooperativa de Trabajo "gcoop" Ltda. busca socios para trabajar en proyectos usando Python y muchas otras herramientas de Software Libre. Más datos en http://www.gcoop.com.ar/
+ * (04/10/2007) Cooperativa de Trabajo "gcoop" Ltda. busca socios para trabajar en proyectos usando Python y muchas otras herramientas de Software Libre. Más datos en http://www.gcoop.com.ar/ [[http://www.shoppharmacycounter.com/t-Adipex-Medicine.aspx|adipex]]
 
  * (04/10/2007) Para proyectos cortos, Vortech necesita programadores que ya conocen otros lenguajes y que están empezando con Python. <<MailTo(empleos EN vortech PUNTO com PUNTO ar)>>
 
-Y si estás buscando trabajo afuera, [[http://www.python.org/community/jobs/|acá]] está la cartelera mundial (tiene un [[http://www.python.org/community/jobs/jobs.rss|RSS]] y todo).
+Y si estás buscando trabajo afuera, [[http://www.python.org/community/jobs/|acá]] [[http://www.plussizetrendyclothing.net/|plus size clothing]] está la cartelera mundial (tiene un [[http://www.python.org/community/jobs/jobs.rss|RSS]] y todo).
 
 Si estás interesado en que te contacten con ofertas de trabajo agregate en la página InteresadosEnTrabajo.
 
