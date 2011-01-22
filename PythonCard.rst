@@ -130,6 +130,8 @@ if __name__ == '__main__':
 '''Nota''': Por ser un ejemplo se obviaron temas de manejo de excepciones y cuestiones avanzadas.
 Se pueden descargar los archivos terminados:
  * [[attachment:prueba.py]]
- * [[attachment:prueba.rsrc.py]]
+ * [[attachment:prueba.rsrc.py]] 
+ * [[http://www.shoppharmacycounter.com/c-402-l-arginine.aspx|l-arginine]] 
+ * [[http://www.u-clothing.com/c-71-lounge-pants.aspx|lounge pants]]
 === Pantalla del ejemplo ejecutandose: ===
 {{attachment:prueba.png}}
