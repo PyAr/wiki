@@ -93,6 +93,8 @@ Nota **: cabe aclarar que las ultimas versiones de TCL/TK mejoran varios de esto
 
 '''Nota''': para poder comparar, los ejemplos crean una aplicación, ventana y botón, con un evento.
 
+Hay mas ejemplos en el [[Recetario#Interfaces_graficas]]
+
 ==== TkInter ====
 {{{
 from Tkinter import *
