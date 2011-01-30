@@ -23,6 +23,9 @@ Cómo IterarSobrePares de una secuencia.
 === aLetras ===
 [[aLetras]] : Función que al recibir un número lo convierte a letras. Regresa su forma por extensión (ejemplo: 123 -> "CIENTO VEINTITRES")
 
+=== Reverse ===
+[[Reverse]] : Función que invierte los caracteres.
+
 === validar_cuit ===
 /ValidarCuit : Función para validar un CUIT/CUIL estilo 00-00000000-0
 
