@@ -1,5 +1,11 @@
 = Trabajos con Python =
 == 2011 ==
+
+ * (03/02/2011) [[http://anue.biz/|anue]] is looking for a freelance[0] experienced Python/Django developer. Good Javascript knowledge (preferably jQuery) and markup ninja skills are welcome. If you can read this, then you have enough english knowledge :) Send us an email with your resume and contact data to <<MailTo(info EN anue PUNTO biz)>>
+   
+   [0] Depending on how things work, this can be turn into a long term relationship.
+
+
  * (31/01/2011) "Desarrollador(a) Python" full-time con conocimientos: Python, preferentemente framework Django. Conocimientos de BD MySQL y PostgresSQL. HTML, Javascript, CSS. ; nuestra empresa ofrece relación de dependencia por tiempo inderminando con todos los beneficios que eso significa. Indispensable manejar inglés. En niveles Semisenior y Senior. Actividades a desarrollarse en oficinas de Córdoba Capital. La empresa: www.santexamerica.com Enviar CV a ana.mercado@santexgroup.com//jobs@santexgroup.com
 
  * (07/01/2011) Desarrollador(a) freelance part-time/full-time para empresa en crecimiento. La paga es a convenir y todos los proyectos son a largo plazo. Experiencia con Django, Mercurial/Git, Trac, APIs (Facebook, Twitter, Flickr, etcétera). Más información [[http://mx.grulic.org.ar/lurker/message/20110107.153049.d65311ba.es.html|acá]]. Si estás interesado enviá un mail en texto plano a <<MailTo(xavier EN link-b PUNTO com)>>
