@@ -1,4 +1,4 @@
-= B¿Qué es la CDPedia? =
+= ¿Qué es la CDPedia? =
 Es un proyecto de Python Argentina para tener la información de la Wikipedia en castellano accesible aunque no tengas una conexión a Internet.
 
 Como toda la información de la Wikipedia no entra en un CD o DVD, necesariamente tuvimos que seleccionar qué artículos poner y cuales dejar afuera, y de aquellos que entraron, en cuales poner las imágenes en el tamaño original, en cuales poner imágenes reducidas, o en cuales directamente no poner la imagen.
@@ -8,6 +8,8 @@ Toda la información aquí incluida fue obtenida de Wikipedia, pero por razones 
 Por último, te recomendamos que copies estos discos y los regales a tus amigos, familia y conocidos. La información debe ser libre, así mejoramos la calidad de nuestra educación.
 
 ¡Que lo disfrutes!
+
+{{attachment:logo-disco.png}}
 
 == ¿Dónde la consigo? ==
 Usando !BitTorrent, mediante alguno de estos archivos .torrent:
