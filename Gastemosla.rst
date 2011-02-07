@@ -1,3 +1,4 @@
+## page was renamed from Gastémosla
 == PyAr tiene plata, ¡gastémosla! ==
 
 [[http://listas.python.org.ar/pipermail/pyar/2011-February/009164.html|Hilo original]]
