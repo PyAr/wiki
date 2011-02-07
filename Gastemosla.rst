@@ -9,6 +9,7 @@
  * Esponsorear algún evento importante (como las JRSL) trayendo a alguien groso en Python
  * Imprimir la(s) PET
  * Patrocinar cursos que dicten miembros de PyAr para que cuesten menos a los alumnos y de esta manera se pueda capacitar más gente.
- * Invertir en merchandising de PyAr(más remeras, lapiceras, calcos, tazas, etc.) 
- * Comprar elementos de sonido, iluminación, red, etc para los distintos eventos.
+ * Invertir en merchandising de PyAr (más remeras, lapiceras, calcos, tazas, etc.) 
+ * Comprar elementos de sonido, iluminación, red, etc. para los distintos eventos.
+ 
 Una vez recopiladas las distintas opciones podremos votar la(s) mejor(es) en un formulario de Google Docs.
