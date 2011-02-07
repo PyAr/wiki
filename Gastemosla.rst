@@ -11,5 +11,7 @@
  * Patrocinar cursos que dicten miembros de PyAr para que cuesten menos a los alumnos y de esta manera se pueda capacitar más gente.
  * Invertir en merchandising de PyAr (más remeras, lapiceras, calcos, tazas, etc.) 
  * Comprar elementos de sonido, iluminación, red, etc. para los distintos eventos.
+ * Organizar un concurso para alumnos de colegios secundarios
+ * Donación de material para USLA
  
 Una vez recopiladas las distintas opciones podremos votar la(s) mejor(es) en un formulario de Google Docs.
