@@ -1,6 +1,7 @@
 Si te esta pasa que necesitas saber porque placa de red tenes internet en Gnu/Linux con Python ? bueno, por ahi esto te sirve :)
 
 {{{
+#!code python
 import socket
 
 DEBUG = True
@@ -251,6 +252,7 @@ def gateway_recheable(dest_addr=None, inet=None):
 Ejemplitos de como se usa:
 
 {{{
+#!code python
 
 In [8]: # chequeamos conexion contra la db
 
@@ -291,7 +293,5 @@ ttl: 10 chost: 200.49.159.254 rhost: 209.85.195.104 failures: 6 accerts: 4
 ttl: 11 chost: 209.85.251.28 rhost: 209.85.195.104 failures: 6 accerts: 5
 ttl: 12 chost: 209.85.251.6 rhost: 209.85.195.104 failures: 6 accerts: 6
 Out[20]: True
-
-}}}
 
 }}}
