@@ -13,3 +13,4 @@ Esta es la lista de interesados, más adelante publicaremos las instrucciones pa
 ''' Interesados''' (tengo ganas pero no estoy seguro):
 
  * Elías
+ * DanielMoisset
