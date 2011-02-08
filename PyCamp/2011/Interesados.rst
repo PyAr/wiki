@@ -19,3 +19,4 @@ Esta es la lista de interesados, más adelante publicaremos las instrucciones pa
  * DanielMoisset
  * SAn
  * Diego Mascialino
+ * MaxiRobaina
