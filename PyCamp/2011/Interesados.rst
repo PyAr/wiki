@@ -7,6 +7,7 @@ Esta es la lista de interesados, más adelante publicaremos las instrucciones pa
 '''Confirmados '''(voy o voy):
 
  * nueces
+ * ralsina + 2 (Esposa e hijito)
 
 ''' Interesados''' (tengo ganas pero no estoy seguro):
 
