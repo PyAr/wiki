@@ -6,7 +6,8 @@ Esta es la lista de interesados, más adelante publicaremos las instrucciones pa
 
 '''Confirmados '''(voy o voy):
 
-
  * nueces
 
 ''' Interesados''' (tengo ganas pero no estoy seguro):
+
+ * Elías
