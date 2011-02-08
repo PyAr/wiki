@@ -11,6 +11,7 @@ Esta es la lista de interesados, más adelante publicaremos las instrucciones pa
  * DiegoSarmentero
  * SebastianAlvarez
  * MarianoGarcia ( posiblemente +1)
+ * FacundoBatista (quizás + 1.5)
 
 ''' Interesados''' (tengo ganas pero no estoy seguro):
 
