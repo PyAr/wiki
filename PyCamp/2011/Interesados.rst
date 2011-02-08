@@ -1,4 +1,4 @@
-Interesados en asistir a PyCamp 2011
+Interesados en asistir a PyCamp 2011a realizarse durante los días Jueves 24, Viernes 25, Sábado 26 y Domingo 27 de Marzo.
 
 Para estimar mejor la cantidad de asistentes, por favor anótense en esta página todos los que tengan intención de participar en esta edición del PyCamp.
 
