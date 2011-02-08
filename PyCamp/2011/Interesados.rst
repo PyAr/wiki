@@ -24,3 +24,4 @@ Esta es la lista de interesados, más adelante publicaremos las instrucciones pa
  * dieresys
  * JuanFisanotti
  * Pablo Mouzo
+ * JoaquinSorianello
