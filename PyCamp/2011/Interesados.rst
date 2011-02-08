@@ -10,6 +10,7 @@ Esta es la lista de interesados, más adelante publicaremos las instrucciones pa
  * ralsina + 2 (Esposa e hijito)
  * DiegoSarmentero
  * SebastianAlvarez
+ * MarianoGarcia ( posiblemente +1)
 
 ''' Interesados''' (tengo ganas pero no estoy seguro):
 
