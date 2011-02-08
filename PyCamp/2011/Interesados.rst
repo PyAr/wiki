@@ -4,5 +4,8 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
 
 Esta es la lista de interesados, más adelante publicaremos las instrucciones para confirmar la asistencia y pagar la reserva.
 
+ '''Confirmados '''(voy o voy):
+
  * nueces
- *
+
+''' Interesados''' (tengo ganas pero no estoy seguro):
