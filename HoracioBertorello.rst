@@ -2,7 +2,7 @@
 #format wiki
 #language en
 
-Taste the waste, mang. svankie@gmail.com
+Taste the waste, mang. <<MailTo(svankie EN gmail PUNTO com)>>
 
 ----
 CategoryHomepage
