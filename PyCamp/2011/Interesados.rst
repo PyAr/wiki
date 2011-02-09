@@ -27,3 +27,4 @@ Esta es la lista de interesados, más adelante publicaremos las instrucciones pa
  * JoaquinSorianello
  * HoracioBertorello
  * PabloZiliani
+ * Marcos Vanetta
