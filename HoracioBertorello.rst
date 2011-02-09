@@ -1,7 +1,8 @@
 ##master-page:HomepageTemplate
 #format wiki
 #language en
-== @``ME@ ==
+
+Taste the waste, mang. svankie@gmail.com
 
 ----
 CategoryHomepage
