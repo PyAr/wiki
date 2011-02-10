@@ -25,7 +25,7 @@
 Nos llega de Brasil una pésima noticia: falleció Dorneles Tremea, presidente de la Asociación de Python Brasil, y una gran persona. Más información [[http://associacao.python.org.br/associacao/imprensa/noticias/associacao-python-brasil-esta-em-luto|aquí]].
 
 ##irss stop
-
+## ULTIMAS_END
 == Anteriores ==
  * [[Noticias/2010 |Año 2010]]
  * [[Noticias/2009 |Año 2009]]
@@ -34,4 +34,3 @@ Nos llega de Brasil una pésima noticia: falleció Dorneles Tremea, presidente d
  * [[Noticias/2006 |Año 2006]]
  * [[Noticias/2005 |Año 2005]]
  * [[Noticias/2004 |Año 2004]]
-## ULTIMAS_END
