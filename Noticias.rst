@@ -20,6 +20,9 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 
+==== 10/02/2011 ====
+
+Nos llega de Brasil una pésima noticia: falleció Dorneles Tremea, presidente de la Asociación de Python Brasil, y una gran persona. Más información [[http://associacao.python.org.br/associacao/imprensa/noticias/associacao-python-brasil-esta-em-luto|aquí]].
 
 ==== 13/09/2010 ====
 
