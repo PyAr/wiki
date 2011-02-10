@@ -13,6 +13,8 @@
  * Invertir en merchandising de PyAr (más remeras, lapiceras, calcos, tazas, etc.) 
  * Comprar elementos de sonido, iluminación, red, etc. para los distintos eventos.
  * Organizar un concurso para alumnos de colegios secundarios
- * Donación de material para USLA
+ * Donación de material para USLA.
+ * Colocar el dinero a plazo fijo hasta que se considere necesario utilizarlo. 
+ * Disminuir los costos de los miembros que viajen en representación de PyAr a algún evento(estadía, pasajes, comida, etc.)
  
 Una vez recopiladas las distintas opciones podremos votar la(s) mejor(es) en un formulario de Google Docs.
