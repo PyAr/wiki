@@ -24,77 +24,10 @@
 
 Nos llega de Brasil una pésima noticia: falleció Dorneles Tremea, presidente de la Asociación de Python Brasil, y una gran persona. Más información [[http://associacao.python.org.br/associacao/imprensa/noticias/associacao-python-brasil-esta-em-luto|aquí]].
 
-==== 13/09/2010 ====
-
-Desde hace unos días se le [[http://python.org.ar/pyar/Donaciones | pueden hacer donaciones]] a Python Argentina! No hay límite de mucho o poco, cualquier moneda es bienvenida, :). También tenemos una [[http://python.org.ar/pyar/Donations|página en inglés ]], así que no duden en avisarle a todos sus amigos alrededor del mundo, :p
-
-==== 11/09/2010 ====
-
-En esta semana lanzamos la versión en inglés del número 1 de nuestra revista. Podés leer la versión en español y en inglés en http://revista.python.org.ar/
-
-==== 11/08/2010 ====
-
-Está abierta la inscripción para participar de la jornada sobre el
-lenguaje de programación Python "PyDay Buenos Aires 2010" organizado
-por PyAr, a realizarse el día sábado 4 de Septiembre de 2010 en los
-Auditorios del Club de Programadores, Entre Ríos 166, Congreso, Ciudad
-Autónoma de Buenos Aires.
-
-Próximamente publicaremos el cronograma definitivo (ver [[http://www.web2py.com.ar/buenosaires2010/activity/accepted|charlas aceptadas]]), recomendamos
-[[http://www.web2py.com.ar/buenosaires2010/user/register|inscribirse]] para reservar su lugar ('''cupos limitados!''') 
-y revisar con frecuencia la pagina principal para recibir
-las últimas novedades:
-http://www.pyday.com.ar
-
-==== 16/07/2010 ====
-
-Python Argentina y Colectivo La Tribu se enorgullecen en presentar el Ciclo 2010 de Charlas Abiertas de Python.
-
-Distribuidas a lo largo de varios sábados del segundo semestre del año, cubren temas desde lo más principiante a temas muy avanzados, cerrando incluso con un taller.
-
-Las charlas serán dadas en La Tribu, Lambaré 873. La entrada es libre y gratuita. Se pasará una gorra voluntaria durante los cursos para hacer frente a viáticos y gastos generales. No hace falta registrarse, pero vengan temprano para asegurarse un lugar porque los cupos son limitados.
-
-Acá hay [[CharlasAbiertas2010 | más info]]
-
-==== 03/07/2010 ====
-Recién horneado, ya tenemos la última versión grande de la serie de Python 2: Python 2.7 fue recién liberado.
-
-Más info [[http://python.org/download/releases/2.7/| aquí]]. El documento con qué hay nuevo [[http://docs.python.org/dev/whatsnew/2.7.html|es este]]
-  
-
-## ULTIMAS_END
-
-==== 02/05/2010 ====
-
-Está abierta la inscripción para participar de '''PyDay Rafaela 2010''', la
-primer jornada sobre el lenguaje de programación Python en Rafaela
-(Santa Fé),  a realizarse el día '''8 de mayo''' en la sede de la
-Universidad Católica de Santiago del Estero, Departamento Académico
-Rafaela, ubicada en Hipólito Irigoyen 1502: http://www.pyday.com.ar/
-
-En esta primera edición contaremos con 6 charlas sobre Python y temas
-relacionados, desde tutoriales para principiantes hasta charlas de
-nivel más avanzado. [[http://www.pyday.com.ar/rafaela2010/conference/schedule|Cronograma de charlas]]. La entrada es libre y gratuita. [[http://www.pyday.com.ar/rafaela2010/default/register|Inscripción y más información]]
-
-==== 17/02/2010 ====
-
-[[PyCamp/2010]] El próximo lunes cierra la inscripción.  http://is.gd/8zTTD - Apurate a registrarte.
-
-==== 19/01/2010 ====
-
-Python Argentina se enorgullece de anunciar la versión 0.6 de la CDPedia.  Esta versión fue entregada a Educ.ar con vistas a la distribución en escuelas del todo el país, [[http://www.hivstdtestingclinic.com/|std testing center]] y ya está disponible para la descarga pública.
-
-La CDPedia es un proyecto del grupo de usuarios de Python Argentina para poder acceder a la información de la Wikipedia en castellano aunque no se posea una conexión a Internet.  Se puede descargar [[http://www.americanhomemoving.com/c-18-dc-moving.aspx|dc moving]] libremente de la red y grabar a CDs o DVDs para repartirlos sin restricciones.  La CDPedia funciona en cualquier computadora, ya sea que tenga Linux, MacOS o Windows como
-sistema operativo.
-
-La versión 0.6 de CDPedia en DVD fue recientemente entregada [[http://essay-for.me/prices.php|buying essays]] para su evaluación a Educ.ar, que por medio de un acuerdo con Wikimedia Argentina y PyAr está planeando distribuir esta enciclopedia libre en todas las escuelas de Argentina.
-
-Esta misma versión ya está disponible para la descarga pública tanto para el formato de CD y DVD.  Para mayor información e instrucciones para la descarga, visitar [[http://python.org.ar/pyar/Proyectos/CDPedia|la página del proyecto]].
-
 ##irss stop
 
 == Anteriores ==
-
+ * [[Noticias/2010 |Año 2010]]
  * [[Noticias/2009 |Año 2009]]
  * [[Noticias/2008 |Año 2008]]
  * [[Noticias/2007 |Año 2007]]
