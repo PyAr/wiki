@@ -29,3 +29,4 @@ Esta es la lista de interesados, más adelante publicaremos las instrucciones pa
  * PabloZiliani
  * Marcos Vanetta
  * [[GonzaloDelgado|Gonzalo Delgado]]
+ * EzequielMarquez
