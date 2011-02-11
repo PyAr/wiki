@@ -14,6 +14,7 @@ Esta es la lista de interesados, más adelante publicaremos las instrucciones pa
  * FacundoBatista (quizás + 1.5)
  * [[GonzaloDelgado|Gonzalo Delgado]]
  * alecu (este año solo)
+ * Pablo Mouzo
 
 ''' Interesados''' (tengo ganas pero no estoy seguro):
 
@@ -25,7 +26,6 @@ Esta es la lista de interesados, más adelante publicaremos las instrucciones pa
  * Emilio Ramirez
  * dieresys
  * JuanFisanotti
- * Pablo Mouzo
  * JoaquinSorianello
  * HoracioBertorello
  * PabloZiliani
