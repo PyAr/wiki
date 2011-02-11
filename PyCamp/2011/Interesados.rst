@@ -33,3 +33,4 @@ Esta es la lista de interesados, más adelante publicaremos las instrucciones pa
  * EzequielMarquez
  * NicoEchaniz (quizás +1)
  * MarianoReingart (quizás +1 +0.50 +0.25)
+ * RamiroMorales
