@@ -32,3 +32,4 @@ Esta es la lista de interesados, más adelante publicaremos las instrucciones pa
  * Marcos Vanetta
  * EzequielMarquez
  * NicoEchaniz (quizás +1)
+ * MarianoReingart (quizás +1 +0.50 +0.25)
