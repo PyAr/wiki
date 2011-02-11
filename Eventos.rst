@@ -17,7 +17,5 @@ Participamos en eventos de Software Libre con temas concernientes a Python.[[htt
 
 <<Anchor(conferencias)>> <<Include(Eventos/Conferencias, ,editlink)>>
 
-[[http://custom-paper-writing.com/custom-thesis-writing | thesis writing service]]
-
 ----
  <<FootNote>>
