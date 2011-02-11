@@ -12,6 +12,7 @@ Esta es la lista de interesados, más adelante publicaremos las instrucciones pa
  * SebastianAlvarez
  * MarianoGarcia ( posiblemente +1)
  * FacundoBatista (quizás + 1.5)
+ * [[GonzaloDelgado|Gonzalo Delgado]]
 
 ''' Interesados''' (tengo ganas pero no estoy seguro):
 
@@ -28,6 +29,5 @@ Esta es la lista de interesados, más adelante publicaremos las instrucciones pa
  * HoracioBertorello
  * PabloZiliani
  * Marcos Vanetta
- * [[GonzaloDelgado|Gonzalo Delgado]]
  * EzequielMarquez
  * NicoEchaniz (quizás +1)
