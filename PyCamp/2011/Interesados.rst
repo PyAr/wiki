@@ -15,6 +15,7 @@ Esta es la lista de interesados, más adelante publicaremos las instrucciones pa
  * [[GonzaloDelgado|Gonzalo Delgado]]
  * alecu (este año solo)
  * Pablo Mouzo
+ * [[HugoRuscitti|Hugo Ruscitti]]
 
 ''' Interesados''' (tengo ganas pero no estoy seguro):
 
