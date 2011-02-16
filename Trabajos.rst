@@ -1,6 +1,8 @@
 = Trabajos con Python =
 == 2011 ==
 
+ * (16/02/2011) En [[http://atommica.com|atommica]] continúan buscando programadores Python. Más información en [[http://www.python.org/community/jobs/index.html#atommica-buenos-aires-arg|Python Job Board]] o enviando tu CV a <<MailTo(jobs EN atommica PUNTO com)>>
+
  * (03/02/2011) [[http://anue.biz/|anue]] is looking for a freelance[0] experienced Python/Django developer. Good Javascript knowledge (preferably jQuery) and markup ninja skills are welcome. If you can read this, then you have enough english knowledge :) Send us an email with your resume and contact data to <<MailTo(info EN anue PUNTO biz)>>
    
    [0] Depending on how things work, this can be turn into a long term relationship.
