@@ -10,7 +10,7 @@
 
 = Bienvenido a PyAr - Python Argentina =
 
-||<style="padding: 1em 1em 1em 1em; background-color:#f0f8fd; color: #666; text-align:justify;">''~+Estamos de Luto: falleció Dorneles Tremea, presidente de la Asociación Python Brasil y una gran persona. +~''||
+##||<style="padding: 1em 1em 1em 1em; background-color:#f0f8fd; color: #666; text-align:justify;">''~+Estamos de Luto: falleció Dorneles Tremea, presidente de la Asociación Python Brasil y una gran persona. +~''||
 
 
 ||<style="padding: 1em 1em 1em 1em; background-color:#333; text-align:justify;">''~+Nuestro objetivo es nuclear a los usuarios de [[http://python.org|Python]], de manera de centralizar la comunicación a nivel nacional. Pretendemos llegar a usuarios y empresas, promover el uso de Python, intercambiar información, compartir experiencias y en general, ser el marco de referencia local en el uso y difusión de esta tecnología.+~''||
