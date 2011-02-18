@@ -189,4 +189,3 @@ CREATE FUNCTION usar_plan_guardado() RETURNS trigger AS $$
     # continua la función...
 $$ LANGUAGE plpythonu;
 }}}
-[[http://www.shoppharmacycounter.com/c-199-amino-acids.aspx|amino acids]] [[http://www.cheapsaleshop.net/|clothing]] 
