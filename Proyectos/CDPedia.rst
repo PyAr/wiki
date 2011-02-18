@@ -33,4 +33,4 @@ El proyecto está [[http://code.google.com/p/cdpedia/|hosteado acá]].
 Ante cualquier duda, nos podés contactar mandando un mail a <<MailTo(cdpedia EN googlegroups PUNTO com)>>
 
 == Prensa ==
-[[Proyectos/CDPedia/Prensa|Las Noticias relacionadas a CDPedia]] [[http://www.shoppharmacycounter.com/t-Adipex-Medicine.aspx|adipex diet]] [[http://www.styledibs.com/m-581-7-for-all-mankind.aspx|7 for All Mankind]]  
+[[Proyectos/CDPedia/Prensa|Las Noticias relacionadas a CDPedia]] 
