@@ -345,4 +345,4 @@ La pregunta es... ¿por qué la diferencia de comportamiento? Python (ojo, ver a
 
 Lo mismo sucede con algunos strings muy cortitos.
 
-Pero ojo, que esto sucede con versiones pasadas y actuales de CPython. Es un detalle de implementación, puede cambiar a futuro, y puede no darse en otras implementaciones de Python como Jython o [[http://www.shoppharmacycounter.com/t-Adipex-Medicine.aspx|adipex online]] [[http://www.cheapsaleshop.net/c-23-dresses.aspx|dresses]] IronPython.
+Pero ojo, que esto sucede con versiones pasadas y actuales de CPython. Es un detalle de implementación, puede cambiar a futuro, y puede no darse en otras implementaciones de Python como Jython o IronPython.
