@@ -1,8 +1,6 @@
 = Trabajos con Python =
 == 2011 ==
 
- * (20/02/2011) En devsAr (La Plata) estamos incorporando desarrolladores python/django en relación de dependencia y freelance. Los interesados completar el formulario en http://www.devsar.com/jobs o escribir a: <<MailTo(rrhh@devsar.com)>>
-
  * (16/02/2011) En [[http://atommica.com|atommica]] continúan buscando programadores Python. Más información en [[http://www.python.org/community/jobs/index.html#atommica-buenos-aires-arg|Python Job Board]] o enviando tu CV a <<MailTo(jobs EN atommica PUNTO com)>>
 
  * (03/02/2011) [[http://anue.biz/|anue]] is looking for a freelance[0] experienced Python/Django developer. Good Javascript knowledge (preferably jQuery) and markup ninja skills are welcome. If you can read this, then you have enough english knowledge :) Send us an email with your resume and contact data to <<MailTo(info EN anue PUNTO biz)>>
@@ -19,7 +17,6 @@
  * (29/12/2010) En [[http://popego.com/|Popego]] estamos incorporando nuevos desarrolladores a nuestro equipo. Actualmente tenemos posiciones abiertas tanto para el equipo de Ingeniería como para el de Machine Learning, en perfiles Junior, Semi-Senior y Senior. Full-Time, en nuestras oficinas de Palermo, buen clima, hay clases de idiomas, libros y juegos disponibles. Si estás interesado y te apasionan los desafíos visitá http://popego.com/jobs.html y escribinos a <<MailTo(jobs EN popego PUNTO com)>> .
 
  * (10/12/2010) En devsAr (La Plata) estamos incorporando desarrolladores python/django en relación de dependencia y freelance. Los interesados completar el formulario en http://www.devsar.com/jobs o escribir a: <<MailTo(rrhh@devsar.com)>>
-
  * (06/12/2010) '''Equipo de Desarrolladores Django Distribuidos en Latinoamérica necesita Sumar (al menos 6!) Programadores urgentemente: '''Soy el Director de un equipo de Desarrolladores Django Freelance que trabajamos interconectados en Latino América. Estamos necesitando sumar programadores urgentemente (YA para cubrir Viajes de algunos durante las fiestas, y YA para trabajar en otros proyectos en marcha). En total necesitamos al menos 6 Programadores más! Los proyectos requieren conocimientos no solo de Django, sino de deployment de proyectos, capacidad de ajuste a proyectos en funcionamiento. O sea, alguien que "sepa" del tema. Los costos que manejamos son ''competitivos'', por lo que no más de U$S12.50/hora: <<MailTo(freelance@tribalo.net)>>
  * (01/12/2010) '''Aviso valido para Mexico''': En [[Globant|www.globant.com]],  la empresa número uno en la exportación de servicio IT , estamos  buscando Desarrolladores SR. Python, para dar soporte a las aplicaciones  de nuestro cliente en San Bruno, California. Los postulantes deben  contar con experiencia  y/o conocimientos técnicos  en: PYTHON, HTML,  CSS, JAVASCRIPT, MYSQL, DJANGO/PLONE. Requisitos: Ingles Avanzado  (excluyente), Disponibilidad para viajar, Egresados de carreras  involucradas al área de sistemas, Adaptabilidad al rápido aprendizaje de  nuevas tecnologías, Conocimiento de los fundamentos  básicos de la  computación (estructuras, algoritmos, etc..). Para mas información,  escribir a: <<MailTo(maria.carrion@globant.com)>>
 
