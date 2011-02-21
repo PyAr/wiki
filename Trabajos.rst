@@ -1,6 +1,8 @@
 = Trabajos con Python =
 == 2011 ==
 
+ * (20/02/2011) En devsAr (La Plata) estamos incorporando desarrolladores python/django en relación de dependencia y freelance. Los interesados completar el formulario en http://www.devsar.com/jobs o escribir a: <<MailTo(rrhh@devsar.com)>>
+
  * (16/02/2011) En [[http://atommica.com|atommica]] continúan buscando programadores Python. Más información en [[http://www.python.org/community/jobs/index.html#atommica-buenos-aires-arg|Python Job Board]] o enviando tu CV a <<MailTo(jobs EN atommica PUNTO com)>>
 
  * (03/02/2011) [[http://anue.biz/|anue]] is looking for a freelance[0] experienced Python/Django developer. Good Javascript knowledge (preferably jQuery) and markup ninja skills are welcome. If you can read this, then you have enough english knowledge :) Send us an email with your resume and contact data to <<MailTo(info EN anue PUNTO biz)>>
