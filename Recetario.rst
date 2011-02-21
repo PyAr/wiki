@@ -81,6 +81,8 @@ GtkMultiThread: ejemplo de como manipular la GUI desde múltiples threads sin us
 
 GtkMultiThread2: ejemplo de como manipular la GUI usando múltiples threads
 
+[[/GtkRunner]] ejemplo de como correr funciones que demoran sin bloquear la ui y obtener los resultados en el thread de gtk
+
 GtkLabelConColor: ejemplo de como cambiar el color de un label sin usar pango markup
 
 [[/GtkXMLRPCServer]] Servidor XMLRPC dentro de un hilo gtk
