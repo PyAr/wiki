@@ -1,6 +1,8 @@
 = Trabajos con Python =
 == 2011 ==
 
+ * (25/02/2011) El Instituto Nacional de Tecnología Agropecuaria (INTA) abrió un concurso para un puesto de Profesional de Gestión Externa (Graduado en Carrera de Grado en Informática o Ciencias de la Computación). Los datos de concurso, fechas importantes y el perfil lo pueden encontrar [[http://www.inta.gov.ar/rrhh/ingresos/seleccion/cirn/0072011/index.htm|aquí]]. El lugar de trabajo es el [[http://climayagua.inta.gov.ar|Instituto de Clima y Agua]].
+
  * (20/02/2011) En devsAr (La Plata) estamos incorporando desarrolladores python/django en relación de dependencia y freelance. Los interesados completar el formulario en http://www.devsar.com/jobs o escribir a: <<MailTo(rrhh@devsar.com)>>
 
  * (16/02/2011) En [[http://atommica.com|atommica]] continúan buscando programadores Python. Más información en [[http://www.python.org/community/jobs/index.html#atommica-buenos-aires-arg|Python Job Board]] o enviando tu CV a <<MailTo(jobs EN atommica PUNTO com)>>
