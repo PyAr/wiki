@@ -9,7 +9,6 @@ Esta es la lista de interesados, más adelante publicaremos las instrucciones pa
  * nueces
  * ralsina + 2 (Esposa e hijito)
  * DiegoSarmentero
- * SebastianAlvarez
  * MarianoGarcia ( posiblemente +1)
  * FacundoBatista (quizás + 1.5)
  * [[GonzaloDelgado|Gonzalo Delgado]]
@@ -35,3 +34,4 @@ Esta es la lista de interesados, más adelante publicaremos las instrucciones pa
  * NicoEchaniz (quizás +1)
  * MarianoReingart (quizás +1 +0.50 +0.25)
  * RamiroMorales
+ * SebastianAlvarez
