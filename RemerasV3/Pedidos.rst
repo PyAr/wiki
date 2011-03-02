@@ -23,10 +23,10 @@ Estas remeras las haremos sólo en 2 colores: celestes con impresión azul (como
 
 
 ||'''Nombre''' ||'''Cantidad/Talle/Color/corte''' ||'''Modo de entrega ''' ||'''Observaciones''' ||
-|| Alejandro Pereira || 1 XL (hombre) Arena con impresión Marrón  || Contra-Reebolso || alepereira86@gmail.com ||
-|| Natalia Villegas || 1 M (mujer) Celeste con impresión azul  || Contra-Reembolso || villegasnaty@gmail.com ||
-|| Facundo Casco || 1 M (hombre) Celeste con impresión azul  || Contra-Reembolso || fcasco@gmail.com ||
-|| Marcelo Martinovic || 1 XL (hombre) Celeste con impresión azul  || Contra-Reembolso || marcelo.martinovic@gmail.com ||
+|| Alejandro Pereira || 1 XL (hombre) Arena con impresión Marrón  || Contra-Reebolso || <<MailTo(alepereira86 EN gmail PUNTO com)>> ||
+|| Natalia Villegas || 1 M (mujer) Celeste con impresión azul  || Contra-Reembolso || <<MailTo(villegasnaty EN gmail PUNTO com)>> ||
+|| Facundo Casco || 1 M (hombre) Celeste con impresión azul  || Contra-Reembolso || <<MailTo(fcasco EN gmail PUNTO com)>> ||
+|| Marcelo Martinovic || 1 XL (hombre) Celeste con impresión azul  || Contra-Reembolso || <<MailTo(marcelo PUNTO martinovic EN gmail PUNTO com)>> ||
 
 == FAQs ==
  * '''¿Cuánto sale? '''
