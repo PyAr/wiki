@@ -16,3 +16,5 @@
  * Lista de correo: <<MailTo(pyday GUION baires EN googlegroups PUNTO com)>>
  * Reuniones:
   * [[Eventos/Reuniones/Reunion42|Reunión 42]]: Presentación de la propuesta
+
+[[http://iresearchpapers.com/prices.php|term papers for sale]]
