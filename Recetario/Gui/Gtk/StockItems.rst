@@ -7,7 +7,7 @@ un screenshot:
 {{attachment:stock-gtk.png}}
 
 {{{
-#!python
+#!code python
 '''modulo que muestra el uso de los stock icons en gtk'''
 import gtk
 
