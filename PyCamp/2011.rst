@@ -1,45 +1,49 @@
 = PyCamp 2011 =
-
-== Fotos del PyCamp!! ==
-
-== Cronograma de charlas y reuniones ==
-[[PyCamp/2011/Cronograma|Cronograma]]
-
 == Fecha ==
  * 24 al 27 de Marzo, 2010.
 
 == Sede ==
-
 === Hotel El Brigadier ===
  * Del Sindicato de Luz y Fuerza.
- * ciudad: [[http://es.wikipedia.org/wiki/La_Falda | La Falda, Córdoba ]] 
- * dirección:  Buenos Aires 283 - Ruta 38 ([[ http://wikimapia.org/#lat=-31.0902594&lon=-64.487434&z=19&l=3&m=b | mapa]])
+ * ciudad: [[http://es.wikipedia.org/wiki/La_Falda|La Falda, Córdoba]]
+ * dirección:  Buenos Aires 283 - Ruta 38 ([[http://wikimapia.org/#lat=-31.0902594&lon=-64.487434&z=19&l=3&m=b|mapa]])
  * contacto: Juan A. Diaz (nueces)
  * precio de la estadía: $400 / 4 dias __(*)__
- * fotos: [[ http://www.cordobaserrana.com.ar/elbrigadier.htm | acá]]
+ * fotos del hotel: [[http://www.cordobaserrana.com.ar/elbrigadier.htm|acá]]
+ * información turística de la ciudad: [[http://www.lafalda.gov.ar/turismo/turismoenlafalda.htm|acá]]
  * Internet: 3 Mbps por ADSL (Es lo que tienen contratado actualmente según el Hotel, resta confirmar con Arnet y ver un posible upgrade temporal).
 
-__(*) Sobre el precio:__ Dado que aun restan ver algunas cosas, es posible que se realice un ajuste sobre el precio que deberia ser abonado luego en el lugar. Las cosas que queremos ver son:
+__(*) Sobre el precio:__ Dado que aun restan ver algunas cosas, es posible que se realice un ajuste sobre el precio que debería ser abonado luego en el lugar. Las cosas que queremos ver son:
+
  * Posibilidad del upgrade de internet.
  * Asado para Sábado a la Noche.
- * Remeras 
+ * Remeras
+ * Excursión nocturna para todo el grupo al Hotel Eden. Este punto puede ser contratado luego en forma indivual por quienes quieran realizar la actividad.
+
+==== Como pagar ====
+Hay que hacer un deposito banacario
+
+ . Caja de ahorro en pesos.
+ . Banco de La Nación Argentina.
+ . Sucursal La Falda, Número 2145.
+ . Nº 318088412/5
+ . CBU: 0110318030031808841251
+ . A nombre de: Sanches Gabriela Roxana
+ . CUIT: 27-26919437-0
 
 ==== Como Llegar ====
 ===== En Micro =====
-Existen varias empresas de transporte que van a La Falda, desde la Ciudad de Córdoba y desde distintos puntos del país. 
+Existen varias empresas de transporte que van a La Falda, desde la Ciudad de Córdoba y desde distintos puntos del país.
 
-Desde Córdoba 
+Desde Córdoba
 
-__Horarios:__ Completar
+Horarios: #FIXME
 
 == Asistentes ==
-
- Ver [[PyCamp/2011/Interesados|Interesados]]
+ . Ver [[PyCamp/2011/Interesados|Interesados]]
 
 == Programa ==
-
- Ver [[PyCamp/2011/TemasPropuestos|Temas propuestos]]
+ . Ver [[PyCamp/2011/TemasPropuestos|Temas propuestos]]
 
 == Qué llevar? ==
- 
- Ver [[PyCamp/2011/QueLlevar|Lista de cosas a llevar]]
+ . Ver [[PyCamp/2011/QueLlevar|Lista de cosas a llevar]]
