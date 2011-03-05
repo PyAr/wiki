@@ -7,7 +7,7 @@ Esta es la lista de interesados, más adelante publicaremos las instrucciones pa
 '''Confirmados '''(voy o voy): Colocar junto al nombre el talle de
 
 ||||||||<tablestyle="width: 100%">'''Confirmados'''||
-||<tablestyle="width: 100%">'''Nombre'''||'''Talle remera'''||'''Requerimiento Dietario'''|| '''Deposito'''||
+||<tablestyle="width: 100%">'''Nombre'''||'''Talle remera'''||'''Requerimiento Dietario'''||'''Deposito'''||
 ||nueces||large||lacto, ovo vegetariano|| ||
 || ralsina + 2 (Esposa e hijito)|| || || ||
 || DiegoSarmentero|| || || ||
