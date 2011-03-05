@@ -1,0 +1,45 @@
+= PyCamp 2011 =
+
+== Fotos del PyCamp!! ==
+
+== Cronograma de charlas y reuniones ==
+[[PyCamp/2011/Cronograma|Cronograma]]
+
+== Fecha ==
+ * 24 al 27 de Marzo, 2010.
+
+== Sede ==
+
+=== Hotel El Brigadier ===
+ * Del Sindicato de Luz y Fuerza.
+ * ciudad: [[http://es.wikipedia.org/wiki/La_Falda | La Falda, Córdoba ]] 
+ * dirección:  Buenos Aires 283 - Ruta 38 ([[ http://wikimapia.org/#lat=-31.0902594&lon=-64.487434&z=19&l=3&m=b | mapa]])
+ * contacto: Juan A. Diaz (nueces)
+ * precio de la estadía: $400 / 4 dias __(*)__
+ * fotos: [[ http://www.cordobaserrana.com.ar/elbrigadier.htm | acá]]
+ * Internet: 3 Mbps por ADSL (Es lo que tienen contratado actualmente según el Hotel, resta confirmar con Arnet y ver un posible upgrade temporal).
+
+__(*) Sobre el precio:__ Dado que aun restan ver algunas cosas, es posible que se realice un ajuste sobre el precio que deberia ser abonado luego en el lugar. Las cosas que queremos ver son:
+ * Posibilidad del upgrade de internet.
+ * Asado para Sábado a la Noche.
+ * Remeras 
+
+==== Como Llegar ====
+===== En Micro =====
+Existen varias empresas de transporte que van a La Falda, desde la Ciudad de Córdoba y desde distintos puntos del país. 
+
+Desde Córdoba 
+
+__Horarios:__ Completar
+
+== Asistentes ==
+
+ Ver [[PyCamp/2011/Interesados|Interesados]]
+
+== Programa ==
+
+ Ver [[PyCamp/2011/TemasPropuestos|Temas propuestos]]
+
+== Qué llevar? ==
+ 
+ Ver [[PyCamp/2011/QueLlevar|Lista de cosas a llevar]]
