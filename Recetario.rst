@@ -203,6 +203,8 @@ MapeandoMemoria: Cómo generar un mapa de la memoria con heapy
 
 /ObtenerBytesTransferidos: obtener la cantidad de datos transferidos en Bytes.
 
+[[ipPublica]] : obtener la direccion ip publica usando 3 lineas de Python.
+
 == Misceláneo ==
 /MatrixPythonToy: Efecto "The Matrix" en linea de comandos, ideal CLI Screen Saver / Screen Lock.
 
