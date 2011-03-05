@@ -225,5 +225,8 @@ MapeandoMemoria: Cómo generar un mapa de la memoria con heapy
 [[KeyboardLedsDemo]]: Como controlar los Leds del Teclado con Python.
 
 [[BloquearClickDelMouse]]: Como bloquear temporalmente el click izquierdo del mouse cuando se tipea en Linux.
+
+[[NotificarDispocitivosUSB]]: Como detectar y notificar dispocitivos USB en Linux.
+
 ----
 CategoryRecetas
