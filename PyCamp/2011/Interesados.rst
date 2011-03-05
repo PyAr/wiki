@@ -17,7 +17,7 @@ Esta es la lista de interesados, más adelante publicaremos las instrucciones pa
 || alecu (este año solo) || || || ||
 || Pablo Mouzo|| || || ||
 || [[HugoRuscitti|Hugo Ruscitti]]|| || || ||
-| Gonzalo "flecox" Almeida|| Large || || ||
+|| Gonzalo "flecox" Almeida|| Large || || ||
 
 ''' Interesados''' (tengo ganas pero no estoy seguro):
 
