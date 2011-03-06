@@ -17,6 +17,7 @@ Esta es la lista de interesados, más adelante publicaremos las instrucciones pa
 || Pablo Mouzo|| || || ||
 || [[HugoRuscitti|Hugo Ruscitti]]|| || || ||
 || Gonzalo "flecox" Almeida|| Large || || ||
+|| HoracioDuran perrito|| XLarge || omnivoro || ||
 
 ''' Interesados''' (tengo ganas pero no estoy seguro):
 
