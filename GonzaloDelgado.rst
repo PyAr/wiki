@@ -10,7 +10,7 @@ Trabajé en [[http://fortix.com.ar/|Fortix]] desde el año 2006 hasta el año 20
 
 Trabajé también con la gente piola de [[http://www.machinalis.com/|Machinalis]] a fines del 2009 desarrollando sitios web con Django.
 
-Actualmente trabajo para [[http://www.5qcommunications.com/|5Q Communications]] también con Django.
+Actualmente trabajo para [[http://www.fiveq.com/|Five Q]], también con Django.
 
 
 
