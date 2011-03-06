@@ -38,3 +38,4 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011 |
  * MarianoReingart (quizás +1 +0.50 +0.25)
  * RamiroMorales
  * SebastianAlvarez
+ * Mariano Verdú
