@@ -10,7 +10,6 @@ Esta es la lista de interesados, más adelante publicaremos las instrucciones pa
 ||<tablestyle="width: 90%">'''Nombre'''||'''Talle remera'''||'''Requerimiento Dietario'''||'''Deposito'''||
 ||nueces||large||lacto, ovo vegetariano|| ||
 || ralsina + 2 (Esposa e hijito)|| || || ||
-|| DiegoSarmentero|| || || ||
 || MarianoGarcia ( posiblemente +1)|| || || ||
 || FacundoBatista (quizás + 1.5)|| || || ||
 || [[GonzaloDelgado|Gonzalo Delgado]]|| || || ||
