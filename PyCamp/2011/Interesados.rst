@@ -2,7 +2,7 @@ Interesados en asistir a PyCamp 2011 a realizarse durante los días Jueves 24, V
 
 Para estimar mejor la cantidad de asistentes, por favor anótense en esta página todos los que tengan intención de participar en esta edición del PyCamp.
 
-Esta es la lista de interesados, más adelante publicaremos las instrucciones para confirmar la asistencia y pagar la reserva.
+Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011 | PyCamp 2011]]
 
 '''Confirmados '''(voy o voy): Colocar junto al nombre el talle de
 
