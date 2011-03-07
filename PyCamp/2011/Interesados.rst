@@ -2,22 +2,24 @@ Interesados en asistir a PyCamp 2011 a realizarse durante los días Jueves 24, V
 
 Para estimar mejor la cantidad de asistentes, por favor anótense en esta página todos los que tengan intención de participar en esta edición del PyCamp.
 
-Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011 | PyCamp 2011]]
+Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011|PyCamp 2011]]
 
 '''Confirmados '''(voy o voy): Colocar junto al nombre el talle de
+||||||||<tablewidth="90%"style="text-align: center;">'''Confirmados''' ||
+||'''Nombre''' ||'''Talle remera''' ||'''Requerimiento Dietario''' ||'''Deposito''' ||
+||nueces ||large ||lacto, ovo vegetariano || ||
+||ralsina + 2 (Esposa e hijito) || || || ||
+||MarianoGarcia ( posiblemente +1) || || || ||
+||FacundoBatista (quizás + 1.5) || || || ||
+||[[GonzaloDelgado|Gonzalo Delgado]] ||Medium || || ||
+||alecu (este año solo) || || || ||
+||Pablo Mouzo || || || ||
+||[[HugoRuscitti|Hugo Ruscitti]] ||Medium||omnivoro|| ||
+||Gonzalo "flecox" Almeida ||Large || || ||
+||HoracioDuran perrito ||XLarge ||omnivoro || ||
 
-||||||||<tablestyle="width: 90%">'''Confirmados'''||
-||<tablestyle="width: 90%">'''Nombre'''||'''Talle remera'''||'''Requerimiento Dietario'''||'''Deposito'''||
-||nueces||large||lacto, ovo vegetariano|| ||
-|| ralsina + 2 (Esposa e hijito)|| || || ||
-|| MarianoGarcia ( posiblemente +1)|| || || ||
-|| FacundoBatista (quizás + 1.5)|| || || ||
-|| [[GonzaloDelgado|Gonzalo Delgado]]|| Medium || || ||
-|| alecu (este año solo) || || || ||
-|| Pablo Mouzo|| || || ||
-|| [[HugoRuscitti|Hugo Ruscitti]]|| || || ||
-|| Gonzalo "flecox" Almeida|| Large || || ||
-|| HoracioDuran perrito|| XLarge || omnivoro || ||
+
+
 
 ''' Interesados''' (tengo ganas pero no estoy seguro):
 
