@@ -41,3 +41,4 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011|P
  * SebastianAlvarez
  * Mariano Verdú
  * AnthonyLenton
+ * DiegoSarmentero
