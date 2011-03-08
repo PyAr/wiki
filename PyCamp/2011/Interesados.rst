@@ -17,12 +17,12 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011|P
 ||[[HugoRuscitti|Hugo Ruscitti]] ||Medium||omnivoro|| ||
 ||Gonzalo "flecox" Almeida ||Large || || ||
 ||HoracioDuran perrito ||XLarge ||omnivoro || ||
-||Elias Andrawos ||Large ||omnivoro || ||
+
 
 
 
 ''' Interesados''' (tengo ganas pero no estoy seguro):
-
+ * Elias Andrawos
  * DanielMoisset
  * SAn
  * Diego Mascialino
