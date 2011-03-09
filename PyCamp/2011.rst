@@ -1,6 +1,6 @@
 = PyCamp 2011 =
 == Fecha ==
- * 24 al 27 de Marzo, 2010.
+ * 24 al 27 de Marzo, 2011.
 
 == Sede ==
 === Hotel El Brigadier ===
