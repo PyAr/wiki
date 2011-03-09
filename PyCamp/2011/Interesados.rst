@@ -13,7 +13,7 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011|P
 ||FacundoBatista || XL || Omnívoro || Hecho ||
 ||[[GonzaloDelgado|Gonzalo Delgado]] ||Medium || || ||
 ||alecu (este año solo) || || || ||
-||Pablo Mouzo || || || ||
+||Pablo Mouzo || XL || || ||
 ||[[HugoRuscitti|Hugo Ruscitti]] ||Medium||omnivoro|| ||
 ||Gonzalo "flecox" Almeida ||Large || || ||
 ||HoracioDuran perrito ||XLarge ||omnivoro || ||
