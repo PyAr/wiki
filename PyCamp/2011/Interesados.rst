@@ -11,10 +11,10 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011|P
 ||ralsina + 2 (Esposa e hijito) || || || ||
 ||MarianoGarcia ( posiblemente +1) || || || ||
 ||FacundoBatista || XL || Omnívoro || Hecho ||
-||[[GonzaloDelgado|Gonzalo Delgado]] ||Medium || || ||
+||[[GonzaloDelgado|Gonzalo Delgado]] ||Medium || ||Hecho||
 ||alecu (este año solo) || || || ||
 ||Pablo Mouzo || XL || || ||
-||[[HugoRuscitti|Hugo Ruscitti]] ||Medium||omnivoro|| ||
+||[[HugoRuscitti|Hugo Ruscitti]] ||Medium||omnivoro|| Hecho ||
 ||Gonzalo "flecox" Almeida ||Large || || ||
 ||HoracioDuran perrito ||XLarge ||omnivoro || ||
 
