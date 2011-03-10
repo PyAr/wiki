@@ -17,6 +17,7 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011|P
 ||[[HugoRuscitti|Hugo Ruscitti]] ||Medium||omnivoro|| Hecho ||
 ||Gonzalo "flecox" Almeida ||Large || || ||
 ||HoracioDuran perrito ||XLarge ||omnivoro || ||
+||Gonzalo García Berrotaran || || || ||
 
 
 
@@ -42,4 +43,3 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011|P
  * Mariano Verdú
  * AnthonyLenton
  * DiegoSarmentero
- * Gonzalo García Berrotaran
