@@ -24,7 +24,6 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011|P
 
 ''' Interesados''' (tengo ganas pero no estoy seguro):
 
- * Elias Andrawos
  * DanielMoisset
  * SAn
  * Diego Mascialino
