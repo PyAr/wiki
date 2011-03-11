@@ -9,7 +9,7 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011|P
 ||'''Nombre''' ||'''Talle remera''' ||'''Requerimiento Dietario''' ||'''Deposito''' ||
 ||nueces ||large ||lacto, ovo vegetariano || ||
 ||ralsina + 2 (Esposa e hijito) || || || ||
-||MarianoGarcia || XL || Omnívoro || A depositar el 11/03 ||
+||MarianoGarcia || XL || Omnívoro || Hecho ||
 ||FacundoBatista ||XL ||Omnívoro ||Hecho ||
 ||[[GonzaloDelgado|Gonzalo Delgado]] ||Medium || ||Hecho ||
 ||alecu (este año solo) || || || ||
@@ -19,10 +19,23 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011|P
 ||HoracioDuran perrito ||XLarge ||omnivoro || ||
 ||Gonzalo García Berrotaran || || || ||
 ||AnthonyLenton || M || Comida! || ||
+
+---- /!\ '''Edit conflict - other version:''' ----
 ||Emiliano Dalla Verde Marcozzi || || || ||
 
+---- /!\ '''Edit conflict - your version:''' ----
+
+---- /!\ '''End of edit conflict''' ----
 
 
+
+
+---- /!\ '''Edit conflict - other version:''' ----
+
+---- /!\ '''Edit conflict - your version:''' ----
+
+
+---- /!\ '''End of edit conflict''' ----
 ''' Interesados''' (tengo ganas pero no estoy seguro):
 
  * DanielMoisset
