@@ -1,6 +1,7 @@
 #language es
 = Eventos =
 En PyAr planeamos tres tipos de eventos:
+*[[http://www.professay.com/?page=university_essays|university essays]]
 
  * ''[[#reuniones|Reuniones PyAr]]'':
 Son las reuniones que hacemos los miembros de PyAr para planificar y realizar actividades concernientes a nuestro objetivo. Las reuniones se organizan cuando consideramos que hay un motivo específico que tratar (o juntamos demasiadas ganas de tomar cerveza... :-? ) <<FootNote(Al principio, comenzamos realizando reuniones mensuales, el segundo jueves de cada mes. Con el tiempo, esta modalidad cayó en desuso. [[http://www.bookwormlab.com|college essay]])>>
