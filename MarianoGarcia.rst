@@ -10,4 +10,4 @@ Vivo en Córdoba
 Actualmente trabajo como Web Developer. En la oficina programo en PHP / Javascript / Java y en mi casa en Python.
 
 
-Al momento de escribir esto estoy trabajando en Globant
+Al momento de escribir esto estoy trabajando en Globant para la cuenta Walt Disney Parks and Resorts Online.
