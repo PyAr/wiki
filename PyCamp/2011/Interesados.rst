@@ -17,7 +17,7 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011|P
 ||[[HugoRuscitti|Hugo Ruscitti]] ||Medium ||omnivoro ||Hecho ||
 ||Gonzalo "flecox" Almeida ||Large || || ||
 ||HoracioDuran perrito ||XLarge ||omnivoro || ||
-||Gonzalo García Berrotaran || || || ||
+||Gonzalo García Berrotaran || || omnivoro || Hecho ||
 ||AnthonyLenton || M || Comida! || ||
 ||Emiliano Dalla Verde Marcozzi || || || ||
 
