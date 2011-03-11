@@ -14,7 +14,7 @@ Actualmente trabajo para [[http://www.fiveq.com/|Five Q]], también con Django.
 
 
 
-Estoy armando (con muuucha tranquilidad) mi [[http://gonzalodelgado.com.ar/|sitio web personal]] [[http://essay-writer.org/|essay writers]], de nuevo con Django y usando [[http://www.lighttpd.net/|Lighttpd]] sobre un server web casero.
+Estoy armando (con muuucha tranquilidad) mi [[http://gonzalodelgado.com.ar/|sitio web personal]], de nuevo con Django y usando [[http://www.lighttpd.net/|Lighttpd]] sobre un server web casero.
 
 
 Si estás en Tucumán y programás en Python, te invito un café ;)
