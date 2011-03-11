@@ -18,6 +18,7 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011|P
 ||Gonzalo "flecox" Almeida ||Large || || ||
 ||HoracioDuran perrito ||XLarge ||omnivoro || ||
 ||Gonzalo García Berrotaran || || || ||
+||AnthonyLenton || M || Comida! || ||
 
 
 
@@ -41,5 +42,4 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011|P
  * RamiroMorales
  * SebastianAlvarez
  * Mariano Verdú
- * AnthonyLenton
  * DiegoSarmentero
