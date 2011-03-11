@@ -12,30 +12,15 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011|P
 ||MarianoGarcia || XL || Omnívoro || Hecho ||
 ||FacundoBatista ||XL ||Omnívoro ||Hecho ||
 ||[[GonzaloDelgado|Gonzalo Delgado]] ||Medium || ||Hecho ||
-||alecu (este año solo) || || || ||
+||alecu (este año solo) || XL || || Hecho ||
 ||Pablo Mouzo ||XL || ||Hecho||
 ||[[HugoRuscitti|Hugo Ruscitti]] ||Medium ||omnivoro ||Hecho ||
 ||Gonzalo "flecox" Almeida ||Large || || ||
 ||HoracioDuran perrito ||XLarge ||omnivoro || ||
 ||Gonzalo García Berrotaran || || || ||
 ||AnthonyLenton || M || Comida! || ||
-
----- /!\ '''Edit conflict - other version:''' ----
 ||Emiliano Dalla Verde Marcozzi || || || ||
 
----- /!\ '''Edit conflict - your version:''' ----
-
----- /!\ '''End of edit conflict''' ----
-
-
-
-
----- /!\ '''Edit conflict - other version:''' ----
-
----- /!\ '''Edit conflict - your version:''' ----
-
-
----- /!\ '''End of edit conflict''' ----
 ''' Interesados''' (tengo ganas pero no estoy seguro):
 
  * DanielMoisset
