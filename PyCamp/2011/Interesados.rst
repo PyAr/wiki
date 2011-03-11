@@ -9,7 +9,7 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011|P
 ||'''Nombre''' ||'''Talle remera''' ||'''Requerimiento Dietario''' ||'''Deposito''' ||
 ||nueces ||large ||lacto, ovo vegetariano || ||
 ||ralsina + 2 (Esposa e hijito) || || || ||
-||MarianoGarcia ( posiblemente +1) || || || ||
+||MarianoGarcia |XL | || Omnívoro || A depositar el 11/03 ||
 ||FacundoBatista ||XL ||Omnívoro ||Hecho ||
 ||[[GonzaloDelgado|Gonzalo Delgado]] ||Medium || ||Hecho ||
 ||alecu (este año solo) || || || ||
