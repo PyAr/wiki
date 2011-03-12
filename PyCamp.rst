@@ -1,6 +1,6 @@
 = PyCamp =
 
-PyCamp Es un evento organizado por la comunidad de PyAr, donde nos reunimos para trabajar en distintos proyectos desoftware libre relacionados con el lenguaje de programación Python, conocernos y compartir experiencias.
+PyCamp es un evento organizado por la comunidad de PyAr, donde nos reunimos para trabajar en distintos proyectos desoftware libre relacionados con el lenguaje de programación Python, conocernos y compartir experiencias.
 
 === ¿A quienes esta apuntado el evento? ===
 El evento esta apuntado principalmente a las personas de la comunidad de Pyhon, pero tambíen pueden participar personas de la comunidad de Software Libre en general y cualquier otra interesada. No hay requerimientos en cuanto a los conocimientos necesarios, solo hay que tener deseos de participar y trabajar en equipo con el resto de la comunidad.
