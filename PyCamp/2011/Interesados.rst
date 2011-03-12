@@ -20,12 +20,12 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011|P
 ||Gonzalo García Berrotaran || || omnivoro || Hecho ||
 ||AnthonyLenton || M || Comida! || ||
 ||Emiliano Dalla Verde Marcozzi || || || ||
+||DiegoMascialino || XL || ||  ||
 
 ''' Interesados''' (tengo ganas pero no estoy seguro):
 
  * DanielMoisset
  * SAn
- * Diego Mascialino
  * MaxiRobaina
  * Emilio Ramirez
  * dieresys
