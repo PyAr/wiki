@@ -1,3 +1,5 @@
+= GtkErrorHandler =
+
 Si aplicamos el decorador error_handler a una funcion, cuando lance una excepcion, vamos a obtener un dialogo modal mostrandomos el traceback. 
 Recomiendo usarlo solo para debug o versiones beta, un usuario no debería ver el traceback crudo.
 
