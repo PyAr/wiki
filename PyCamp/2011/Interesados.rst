@@ -22,11 +22,11 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011|P
 ||Emiliano Dalla Verde Marcozzi || || || ||
 ||DiegoMascialino || XL || ||  ||
 ||JoaquinSorianello || L || Omnivoro ||  ||
+||SantiagoPiccinini || M || Omnívoro ||  ||
 
 ''' Interesados''' (tengo ganas pero no estoy seguro):
 
  * DanielMoisset
- * SAn
  * MaxiRobaina
  * Emilio Ramirez
  * dieresys
