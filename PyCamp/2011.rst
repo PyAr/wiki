@@ -20,6 +20,10 @@ __(*) Sobre el precio:__ Dado que nos gustaría ver algunas cosas más, es posib
  * Remeras
  * Excursión nocturna para todo el grupo al Hotel Eden. Esto puede ser contratado luego en forma individual por quienes deseen realizar la actividad.
 
+==== Mapa ====
+
+ <<GoogleMaps(msa="0",msid="202175897033525759258.00049e65b342a0480d2f2",t="h",ll="-31.088213,-64.486527",spn="0.002178,0.013443",z="17")>>
+
 ==== Como pagar ====
 Hay que hacer un deposito bancario, los datos de la cuenta están a continuación.
 
