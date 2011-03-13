@@ -93,6 +93,8 @@ GtkLabelConColor: ejemplo de como cambiar el color de un label sin usar pango ma
 
 /GtkStatusIcon: ejemplo de aplicación con ícono en el system tray.
 
+/GtkErorHandler: un ejemplo de capturar una excepción y mostrarla en un dialogo modal
+
 === Gtk + glade ===
 [[GtkGladeHolaMundoOO]] : una ventana que muestra el mensaje hola mundo programado utilizando orientacion a objetos
 
