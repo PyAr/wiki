@@ -9,20 +9,23 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011|P
 ||'''Nombre''' ||'''Talle remera''' ||'''Requerimiento Dietario''' ||'''Deposito''' ||
 ||nueces ||large ||lacto, ovo vegetariano || ||
 ||ralsina + 2 (Esposa e hijito) || || || ||
-||MarianoGarcia || XL || Omnívoro || Hecho ||
+||MarianoGarcia ||XL ||Omnívoro ||Hecho ||
 ||FacundoBatista ||XL ||Omnívoro ||Hecho ||
 ||[[GonzaloDelgado|Gonzalo Delgado]] ||Medium || ||Hecho ||
-||alecu (este año solo) || XL || || Hecho ||
-||Pablo Mouzo ||XL || ||Hecho||
+||alecu (este año solo) ||XL || ||Hecho ||
+||Pablo Mouzo ||XL || ||Hecho ||
 ||[[HugoRuscitti|Hugo Ruscitti]] ||Medium ||omnivoro ||Hecho ||
 ||Gonzalo "flecox" Almeida ||Large || || ||
 ||HoracioDuran perrito ||XLarge ||omnivoro || ||
-||Gonzalo García Berrotaran || || omnivoro || Hecho ||
-||AnthonyLenton || M || Comida! || ||
+||Gonzalo García Berrotaran || ||omnivoro ||Hecho ||
+||AnthonyLenton ||M ||Comida! || ||
 ||Emiliano Dalla Verde Marcozzi || || || ||
-||DiegoMascialino || XL || ||  ||
-||JoaquinSorianello || L || Omnivoro ||  ||
-||SantiagoPiccinini || M || Omnívoro ||  ||
+||DiegoMascialino ||XL || || ||
+||JoaquinSorianello ||L ||Omnivoro || ||
+||SantiagoPiccinini ||M ||Omnívoro || ||
+
+
+
 
 ''' Interesados''' (tengo ganas pero no estoy seguro):
 
@@ -41,6 +44,8 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011|P
  * SebastianAlvarez
  * Mariano Verdú
  * DiegoSarmentero
- * ManuelKaufmann (humitos)
+ * ManuelKaufmann (humitos
+ * Facundo Couzo
+
 ----
 CategoryPyCamp
