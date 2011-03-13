@@ -21,7 +21,7 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011|P
 ||AnthonyLenton || M || Comida! || ||
 ||Emiliano Dalla Verde Marcozzi || || || ||
 ||DiegoMascialino || XL || ||  ||
-||JoaquinSorianello || L  || Omnivoro || en proceso || 
+||JoaquinSorianello || L || Omnivoro ||  ||
 
 ''' Interesados''' (tengo ganas pero no estoy seguro):
 
