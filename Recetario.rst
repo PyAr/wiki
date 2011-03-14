@@ -13,8 +13,6 @@
 
 == Estructuras de datos ==
 === IterarSobrePares ===
-Cómo IterarSobrePares de una secuencia.
-
 == Expresiones regulares ==
 === Extraer todos los mails de un texto ===
 /ExtraerMails de un texto utilizando el módulo re.
@@ -224,11 +222,11 @@ MapeandoMemoria: Cómo generar un mapa de la memoria con heapy
 
 /AlarmaPrecaria: Alarma minima y basica de linea de comandos.
 
-[[KeyboardLedsDemo]]: Como controlar los Leds del Teclado con Python.
+/KeyboardLedsDemo: Como controlar los Leds del Teclado con Python.
 
-[[BloquearClickDelMouse]]: Como bloquear temporalmente el click izquierdo del mouse cuando se tipea en Linux.
+/BloquearClickDelMouse: Como bloquear temporalmente el click izquierdo del mouse cuando se tipea en Linux.
 
-[[NotificarDispocitivosUSB]]: Como detectar y notificar dispocitivos USB en Linux.
+/NotificarDispositivosUSB : Como detectar y notificar dispocitivos USB en Linux.
 
 ----
 CategoryRecetas
