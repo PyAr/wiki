@@ -1,3 +1,4 @@
+## page was renamed from NotificarDispositivosUSB
 ## page was renamed from NotificarDispocitivosUSB
 = Detectar y Notificar Dispocitivos USB =
 
