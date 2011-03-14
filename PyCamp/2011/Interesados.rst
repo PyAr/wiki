@@ -46,6 +46,7 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011|P
  * DiegoSarmentero
  * ManuelKaufmann (humitos
  * Facundo Couzo
+ * RobertoAllende
 
 ----
 CategoryPyCamp
