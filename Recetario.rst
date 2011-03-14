@@ -226,7 +226,7 @@ MapeandoMemoria: Cómo generar un mapa de la memoria con heapy
 
 /BloquearClickDelMouse: Como bloquear temporalmente el click izquierdo del mouse cuando se tipea en Linux.
 
-/NotificarDispositivosUSB : Como detectar y notificar dispocitivos USB en Linux.
+/NotificarDispositivosUsb : Como detectar y notificar dispocitivos USB en Linux.
 
 ----
 CategoryRecetas
