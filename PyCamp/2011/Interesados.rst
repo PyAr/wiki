@@ -21,7 +21,7 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011|P
 ||AnthonyLenton ||M ||Comida! || ||
 ||Emiliano Dalla Verde Marcozzi || || || ||
 ||DiegoMascialino ||XL || || ||
-||JoaquinSorianello* ||L ||Omnivoro || ||
+||JoaquinSorianello* ||L ||Omnivoro || Hecho ||
 ||SantiagoPiccinini ||M ||Omnívoro || ||
 
 * El Viernes 25 es mi cumpleaños, regalos se aceptan :P
