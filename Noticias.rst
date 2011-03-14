@@ -20,6 +20,10 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 
+==== 13/03/2011 ====
+
+Falta muy poco para el PyCamp 2011 ¿Que esperas para inscribirte? [[PyCamp/2011 |Mas info...]]
+
 ==== 10/02/2011 ====
 
 Nos llega de Brasil una pésima noticia: falleció Dorneles Tremea, presidente de la Asociación de Python Brasil, y una gran persona. Más información [[http://associacao.python.org.br/associacao/imprensa/noticias/associacao-python-brasil-esta-em-luto|aquí]].
