@@ -1,3 +1,4 @@
+## page was renamed from NotificarDispocitivosUSB
 = Detectar y Notificar Dispocitivos USB =
 
  * Como Detectar y Notificar Dispocitivos USB, usando Python, en Linux, ejemplo simple.
