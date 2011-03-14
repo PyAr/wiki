@@ -2,17 +2,32 @@
 ##master-date:Unknown-Date
 #format wiki
 #language es
-= Joaquín Sorianello =
+= Joaquín Sorianello A.K.A. Joac =
 
 Estudiante de Licenciatura en Ciencias de la Computación en la UBA, oriundo de Bariloche.
 
-Trabajo de Electricista Industrial y Técnico en Automatización en [[http://www.flowtec.com.ar|Flowtec SRL]]
+--(Trabajo de Electricista Industrial y Técnico en Automatización en [[http://www.flowtec.com.ar|Flowtec SRL]])--
+
+Trabajo en [[http://www.gcoop.coop|Gcoop]]
 
 Empeze a usar Python como Hobby, básicamente para armar scripts administrativos.
 
-Actualmente estoy trabajando con un Mix de Python + PyQt + PostgreSQL, para crear un sistema de adquisición de datos para PLC (Programable Logic Controler), apoyándome en el protocolo industrial [[http://www.modbus.org|MODBUS TCP/IP]]
+--(Actualmente estoy trabajando con un Mix de Python + PyQt + PostgreSQL, para crear un sistema de adquisición de datos para PLC (Programable Logic Controler), apoyándome en el protocolo industrial [[http://www.modbus.org|MODBUS TCP/IP]])--
 
 El objetivo intermedio es una aplicación especifica, y el objetivo final crear un toolkit para crear sistemas [[http://es.wikipedia.org/wiki/SCADA|SCADA]]
+
+== Me gusta ==
+
+ * El Codigo autodocumentado (pero con pocos comentarios :P)
+ * Twisted
+ * El olor del estaño cuando sueldo
+ * Trabajar descalzo
+ * Los WM tiling
+ * Vim
+ * Mantener el wiki
+ * Dedicarme a la infraestructura de eventos de SL
+ * Aprender mas sobre git (the stupid CVS)
+ * Decir 'debemos rechazar' (si, como a federico heinz en pyconar2011 con el .flv)
 
 == Blog ==
 
@@ -20,13 +35,7 @@ http://www.joaclandia.com.ar
 
 == Mail ==
 
-<<MailTo(IDONTWANT soriasoft AT CRIPPY gmail SPAM DOT com)>>
+<<MailTo(IDONTWANT joac AT CRIPPY joac SPAM DOT com BIG DOT ar)>>
 
-<<MailTo(pepito DASH todo DASH es PUNTO un EN ejemplo PUNTO com)>>
-
-{{{
-#!code python
-
-import this
-
-}}}
+----
+CategoryHomepage
