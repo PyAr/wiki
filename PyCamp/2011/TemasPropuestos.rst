@@ -5,12 +5,13 @@
 [[http://humitos.wordpress.com/2008/05/05/colaborando-con-python/|BugDay]]: Salimos a la caza de bugs de Python (esto seguro que será sólo medio día o un día como muuucho)
 
  * FacundoBatista
-
+ * Pablo Mouzo
 
 Hacer algo con [[http://twistedmatrix.com/trac/ | Twisted]] (cualquier cosa)
 
  * FacundoBatista: lo estoy portando a Python 3
  * JoaquinSorianello
+ * Pablo Mouzo
 
 Incluir soporte de MySQL a [[https://github.com/coleifer/peewee | PeeWee]]
 
