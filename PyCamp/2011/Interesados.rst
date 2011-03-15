@@ -20,7 +20,7 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011|P
 ||Gonzalo García Berrotaran || ||omnivoro ||Hecho ||
 ||AnthonyLenton ||M ||Comida! || ||
 ||Emiliano Dalla Verde Marcozzi || || || ||
-||DiegoMascialino ||XL || || ||
+||DiegoMascialino ||XL || Omnívoro || Hecho ||
 ||JoaquinSorianello* ||L ||Omnivoro || Hecho ||
 ||SantiagoPiccinini ||M ||Omnívoro || ||
 
