@@ -26,3 +26,7 @@ Incluir soporte de MySQL a [[https://github.com/coleifer/peewee | PeeWee]]
     * Que pase pep8.py
     * votar comentarios, eliminar/ocultar comentarios con muchos comentarios negativos
     * unittests
+
+Terminar de traducir la [[http://www.taniquetil.com.ar/lalita/tutorial_sp.html| documentacion de lalita ]]
+
+ * MarianoGarcia
