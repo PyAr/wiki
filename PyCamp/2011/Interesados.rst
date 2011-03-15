@@ -35,7 +35,7 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011|P
  * dieresys
  * JuanFisanotti
  * HoracioBertorello
- * PabloZiliani
+ * --( PabloZiliani )--
  * Marcos Vanetta
  * EzequielMarquez
  * NicoEchaniz (quizás +1)
@@ -44,7 +44,7 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011|P
  * SebastianAlvarez
  * Mariano Verdú
  * DiegoSarmentero
- * ManuelKaufmann (humitos
+ * ManuelKaufmann (humitos)
  * Facundo Couzo
  * RobertoAllende
 
