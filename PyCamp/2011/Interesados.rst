@@ -25,6 +25,7 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011|P
 ||SantiagoPiccinini ||M ||Omnívoro || ||
 ||MateoBengualid ||L ||Omnívoro || Hecho ||
 ||ManuelKaufmann (humitos) || L || Cerveeezaaaa.... || ||
+||MartinGaitan || L ||  || ||
 
 * El Viernes 25 es mi cumpleaños, regalos se aceptan :P
 
