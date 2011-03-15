@@ -9,3 +9,5 @@
  * Presentación: [[attachment:../introprogram.odp]] (y los ejemplos hechos durante la charla: [[attachment:../codigo_introprog.tar.gz]])
 
 <<Video(http://pyar.usla.org.ar/charlasabiertas2010/intro_programacion.ogg)>>
+----
+CategoryVideo
