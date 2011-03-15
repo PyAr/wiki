@@ -25,3 +25,4 @@ Incluir soporte de MySQL a [[https://github.com/coleifer/peewee | PeeWee]]
     * Registración
     * Que pase pep8.py
     * votar comentarios, eliminar/ocultar comentarios con muchos comentarios negativos
+    * unittests
