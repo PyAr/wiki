@@ -39,3 +39,5 @@ Ver como se puede internacionalizar [[http://www.pilas-engine.com.ar/|pilas!]]
 Terminar la [[http://python.org.ar/moin_static/pyar/grafo.svg|vista de grafo del wiki]]
 
  * JoaquinSorianello
+----
+CategoryPyCamp
