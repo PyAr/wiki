@@ -31,10 +31,12 @@ Incluir soporte de MySQL a [[https://github.com/coleifer/peewee | PeeWee]]
 Terminar de traducir la [[http://www.taniquetil.com.ar/lalita/tutorial_sp.html| documentacion de lalita ]]
 
  * MarianoGarcia
+ * [[GonzaloDelgado|Gonzalo Delgado]]
 
 Ver como se puede internacionalizar [[http://www.pilas-engine.com.ar/|pilas!]]
 
  * JoaquinSorianello
+ * [[GonzaloDelgado|Gonzalo Delgado]]
 
 Terminar la [[http://python.org.ar/moin_static/pyar/grafo.svg|vista de grafo del wiki]]
 
