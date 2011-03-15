@@ -10,6 +10,7 @@
 Hacer algo con [[http://twistedmatrix.com/trac/ | Twisted]] (cualquier cosa)
 
  * FacundoBatista: lo estoy portando a Python 3
+ * JoaquinSorianello
 
 Incluir soporte de MySQL a [[https://github.com/coleifer/peewee | PeeWee]]
 
@@ -32,5 +33,9 @@ Terminar de traducir la [[http://www.taniquetil.com.ar/lalita/tutorial_sp.html| 
  * MarianoGarcia
 
 Ver como se puede internacionalizar [[http://www.pilas-engine.com.ar/|pilas!]]
+
+ * JoaquinSorianello
+
+Terminar la [[http://python.org.ar/moin_static/pyar/grafo.svg|vista de grafo del wiki]]
 
  * JoaquinSorianello
