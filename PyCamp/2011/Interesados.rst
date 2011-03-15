@@ -24,6 +24,7 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011|P
 ||JoaquinSorianello* ||L ||Omnivoro || Hecho ||
 ||SantiagoPiccinini ||M ||Omnívoro || ||
 ||MateoBengualid ||L ||Omnívoro || Hecho ||
+||ManuelKaufmann (humitos) || L || Cerveeezaaaa.... || ||
 
 * El Viernes 25 es mi cumpleaños, regalos se aceptan :P
 
@@ -45,7 +46,6 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011|P
  * SebastianAlvarez
  * Mariano Verdú
  * DiegoSarmentero
- * ManuelKaufmann (humitos)
  * Facundo Couzo
  * RobertoAllende
 
