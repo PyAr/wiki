@@ -23,6 +23,7 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011|P
 ||DiegoMascialino ||XL || Omnívoro || Hecho ||
 ||JoaquinSorianello* ||L ||Omnivoro || Hecho ||
 ||SantiagoPiccinini ||M ||Omnívoro || ||
+||MateoBengualid ||L ||Omnívoro || Hecho ||
 
 * El Viernes 25 es mi cumpleaños, regalos se aceptan :P
 
