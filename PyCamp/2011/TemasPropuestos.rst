@@ -1,3 +1,5 @@
+=== Proyectos ===
+
 [[http://code.google.com/p/cdpedia/|CDPedia]]: Proyecto para tener la información de la Wikipedia en castellano accesible aunque no tengas una conexión a Internet. Tenemos que terminar detalles de CDPedia para la versión 0.7
 
  * FacundoBatista
@@ -33,6 +35,7 @@ Terminar de traducir la [[http://www.taniquetil.com.ar/lalita/tutorial_sp.html| 
 
  * MarianoGarcia
  * [[GonzaloDelgado|Gonzalo Delgado]]
+ * FacundoBatista
 
 Ver como se puede internacionalizar [[http://www.pilas-engine.com.ar/|pilas!]]
 
@@ -42,5 +45,11 @@ Ver como se puede internacionalizar [[http://www.pilas-engine.com.ar/|pilas!]]
 Terminar la [[http://python.org.ar/moin_static/pyar/grafo.svg|vista de grafo del wiki]]
 
  * JoaquinSorianello
+
+
+=== Otros temas que no son necesariamente proyectos de código ===
+
+ * [FacundoBatista] Me gustaría que charlemos sobre un posible Concurso de Algo para Estudiantes de Secundario.
+
 ----
 CategoryPyCamp
