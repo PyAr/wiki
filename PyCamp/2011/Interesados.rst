@@ -19,7 +19,7 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011|P
 ||HoracioDuran perrito ||XLarge ||omnivoro || ||
 ||Gonzalo García Berrotaran || ||omnivoro ||Hecho ||
 ||AnthonyLenton ||M ||Comida! || ||
-||Emiliano Dalla Verde Marcozzi || || || ||
+||EmilianoDallaVerdeMarcozzi ||XL || || ||
 ||DiegoMascialino ||XL || Omnívoro || Hecho ||
 ||JoaquinSorianello* ||L ||Omnivoro || Hecho ||
 ||SantiagoPiccinini ||M ||Omnívoro || ||
