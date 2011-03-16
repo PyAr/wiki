@@ -18,7 +18,7 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011|P
 ||Gonzalo "flecox" Almeida ||Large || || ||
 ||HoracioDuran perrito ||XLarge ||omnivoro || ||
 ||Gonzalo García Berrotaran || ||omnivoro ||Hecho ||
-||AnthonyLenton ||M ||Comida! || ||
+||AnthonyLenton ||M ||Comida! || Hecho ||
 ||EmilianoDallaVerdeMarcozzi ||XL || || ||
 ||DiegoMascialino ||XL || Omnívoro || Hecho ||
 ||JoaquinSorianello* ||L ||Omnivoro || Hecho ||
