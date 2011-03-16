@@ -17,7 +17,7 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011|P
 ||[[HugoRuscitti|Hugo Ruscitti]] ||Medium ||omnivoro ||Hecho ||
 ||Gonzalo "flecox" Almeida ||Large || || ||
 ||HoracioDuran perrito ||XLarge ||omnivoro || Hecho (inicie la transferencia via weg, creo que anduvo) ||
-||Gonzalo García Berrotaran || ||omnivoro ||Hecho ||
+||Gonzalo García Berrotaran || L ||omnivoro ||Hecho ||
 ||AnthonyLenton ||M ||Comida! || Hecho ||
 ||EmilianoDallaVerdeMarcozzi ||XL || || ||
 ||DiegoMascialino ||XL || Omnívoro || Hecho ||
