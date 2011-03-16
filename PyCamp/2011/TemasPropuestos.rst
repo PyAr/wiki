@@ -46,6 +46,10 @@ Terminar la [[http://python.org.ar/moin_static/pyar/grafo.svg|vista de grafo del
 
  * JoaquinSorianello
 
+Escribir un generador de estadisticas de la lista de pyar.
+
+ * JoaquinSorianello
+
 
 === Otros temas que no son necesariamente proyectos de código ===
 
