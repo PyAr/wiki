@@ -4,7 +4,7 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
 
 Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011|PyCamp 2011]]
 
-'''Confirmados '''(voy o voy): Colocar junto al nombre el talle de
+'''Confirmados '''(voy o voy): Colocar junto al nombre el talle de la remera
 ||||||||<tablewidth="90%"style="text-align: center;">'''Confirmados''' ||
 ||'''Nombre''' ||'''Talle remera''' ||'''Requerimiento Dietario''' ||'''Deposito''' ||
 ||nueces ||large ||lacto, ovo vegetariano || ||
@@ -26,6 +26,7 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011|P
 ||MateoBengualid ||L ||Omnívoro || Hecho ||
 ||ManuelKaufmann (humitos) || L || Cerveeezaaaa.... || ||
 ||MartinGaitan || L ||  || ||
+||Facundo Couzo || XL || Omnívoro || Hecho ||
 
 * El Viernes 25 es mi cumpleaños, regalos se aceptan :P
 
@@ -47,7 +48,6 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011|P
  * SebastianAlvarez
  * Mariano Verdú
  * DiegoSarmentero
- * Facundo Couzo
  * RobertoAllende
 
 ----
