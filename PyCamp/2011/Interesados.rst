@@ -36,7 +36,7 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011|P
  * MaxiRobaina
  * Emilio Ramirez
  * dieresys
- * JuanFisanotti
+ * --( JuanFisanotti )--
  * HoracioBertorello
  * --( PabloZiliani )--
  * Marcos Vanetta
