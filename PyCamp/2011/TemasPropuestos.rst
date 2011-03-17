@@ -3,6 +3,7 @@
 [[http://code.google.com/p/cdpedia/|CDPedia]]: Proyecto para tener la información de la Wikipedia en castellano accesible aunque no tengas una conexión a Internet. Tenemos que terminar detalles de CDPedia para la versión 0.7
 
  * FacundoBatista
+ * alecu
 
 [[http://humitos.wordpress.com/2008/05/05/colaborando-con-python/|BugDay]]: Salimos a la caza de bugs de Python (esto seguro que será sólo medio día o un día como muuucho)
 
@@ -14,6 +15,7 @@ Hacer algo con [[http://twistedmatrix.com/trac/ | Twisted]] (cualquier cosa)
  * FacundoBatista: lo estoy portando a Python 3
  * JoaquinSorianello
  * Pablo Mouzo
+ * alecu
 
 Incluir soporte de MySQL a [[https://github.com/coleifer/peewee | PeeWee]]
 
@@ -41,14 +43,21 @@ Ver como se puede internacionalizar [[http://www.pilas-engine.com.ar/|pilas!]]
 
  * JoaquinSorianello
  * [[GonzaloDelgado|Gonzalo Delgado]]
+ * alecu
 
 Terminar la [[http://python.org.ar/moin_static/pyar/grafo.svg|vista de grafo del wiki]]
 
  * JoaquinSorianello
 
-Escribir un generador de estadisticas de la lista de pyar.
+Escribir un generador de estadisticas de la lista de pyar. Partir de lo que hizo humitos, moverlo a USLA.
 
  * JoaquinSorianello
+ * alecu
+
+
+Multitouch - llevo una idea para hacer un juego multitouch, que puede ser también multijugador cooperativo, y llevo una tabletita configurada para transmitir multitouch por bluetooth.
+
+ * alecu
 
 
 === Otros temas que no son necesariamente proyectos de código ===
