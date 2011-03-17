@@ -64,5 +64,13 @@ Multitouch - llevo una idea para hacer un juego multitouch, que puede ser tambi�
 
  * [FacundoBatista] Me gustaría que charlemos sobre un posible Concurso de Algo para Estudiantes de Secundario.
 
+Hacer un evento para newbies, con una invitación especial para mujeres.  El evento es para todos, pero en el boca a boca se invita especialmente a que vayan mujeres.  Sería bueno que al menos haya una mujer dentro de los que den las charlas.  Al final del evento, se propone a todas las personas que fueron, que participen mediante la colaboración en algún proyecto que sea fácil colaborar (por ejemplo: aranduka), lo ideal sería que se cree una lista especialmente para este proyecto (en el caso de que no exista), ya que tener listas específicas ayuda a que la gente no se sienta tan perdida.  Si prende, se pueden luego organizar sprints para ese proyecto.
+
+ * Charlado en el canal de #pyar, marga/facundobatista/ralsina:
+
+Sería interesante charlar sobre asumir un posible código de conducta para los eventos (pycamp, sprints, pycon), como por ejemplo [[http://2010.osdc.com.au/code-conduct|el de osdc]].  Esto permite mostrar que la conferencia está comprometida con crear un ambiente agradable para todos, y que actitudes desagradables no van a ser permitidas.
+
+ * Charlado en el canal de #pyar, marga/facundobatista:
+
 ----
 CategoryPyCamp
