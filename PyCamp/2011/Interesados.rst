@@ -27,7 +27,7 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011|P
 ||ManuelKaufmann (humitos) || L || Cerveeezaaaa.... || ||
 ||MartinGaitan || L ||  || ||
 ||Facundo Couzo || XL || Omnívoro || Hecho ||
-||FelipeLerena "Lipe" || XL || lo que venga ||  ||
+||FelipeLerena "Lipe" || XL || lo que venga || Hecho ||
 
 * El Viernes 25 es mi cumpleaños, regalos se aceptan :P
 
