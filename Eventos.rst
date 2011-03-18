@@ -3,7 +3,7 @@
 En PyAr planeamos tres tipos de eventos:
 
  * ''[[#reuniones|Reuniones PyAr]]'':
-Son las reuniones que hacemos los miembros de PyAr para planificar y realizar actividades concernientes a nuestro objetivo. Las reuniones se organizan cuando consideramos que hay un motivo específico que tratar (o juntamos demasiadas ganas de tomar cerveza... :-? ) <<FootNote(Al principio, comenzamos realizando reuniones mensuales, el segundo jueves de cada mes. Con el tiempo, esta modalidad cayó en desuso. [[http://www.bookwormlab.com|college essay]])>>
+Son las reuniones que hacemos los miembros de PyAr para planificar y realizar actividades concernientes a nuestro objetivo. Las reuniones se organizan cuando consideramos que hay un motivo específico que tratar (o juntamos demasiadas ganas de tomar cerveza... :-? ) <<FootNote(Al principio, comenzamos realizando reuniones mensuales, el segundo jueves de cada mes. Con el tiempo, esta modalidad cayó en desuso. [[http://www.bookwormlab.com|college essay]] [[ http://www.vinfotech.com/web_2.0/web_20_design.htm|Web 2.0 Design]])>>
 
  * ''[[#sprints|Sprints]]'' <<FootNote(El concepto de sprint está explicado aquí: ["PreguntasFrecuentes#SPRINT"])>>:
 Pretendemos realizar sesiones de desarrollo para proyectos que nos llamen la atención, como un evento social y de mejora para el software (libre) argentino. [[http://www.bestessayhelp.com/essay-help/classification-essay|classification essay]]
