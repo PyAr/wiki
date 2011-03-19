@@ -25,7 +25,7 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011|P
 ||SantiagoPiccinini ||M ||Omnívoro || ||
 ||MateoBengualid ||L ||Omnívoro || Hecho ||
 ||ManuelKaufmann (humitos) || L || Cerveeezaaaa.... || ||
-||MartinGaitan || L ||  || ||
+||MartinGaitan || L ||  || Hecho - transferencia bancaria - ||
 ||Facundo Couzo || XL || Omnívoro || Hecho ||
 ||FelipeLerena "Lipe" || XL || lo que venga || Hecho ||
 
