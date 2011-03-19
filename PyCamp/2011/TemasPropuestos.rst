@@ -3,11 +3,13 @@
 
  * FacundoBatista
  * alecu
+ * DiegoMascialino
 
 [[http://humitos.wordpress.com/2008/05/05/colaborando-con-python/|BugDay]]: Salimos a la caza de bugs de Python (esto seguro que será sólo medio día o un día como muuucho)
 
  * FacundoBatista
  * Pablo Mouzo
+ * DiegoMascialino
 
 Hacer algo con [[http://twistedmatrix.com/trac/|Twisted]] (cualquier cosa)
 
@@ -15,6 +17,7 @@ Hacer algo con [[http://twistedmatrix.com/trac/|Twisted]] (cualquier cosa)
  * JoaquinSorianello
  * Pablo Mouzo
  * alecu
+ * DiegoMascialino: Cambio el cualquier cosa por [[http://bitbucket.org/san/luisito/|luisito]]. "Proxy for multi server deployments. Used to serve thousands of django projects while keeping memory footprint low.". Se acuerdan de PyCon 2010 y cómo hostear *muchos* proyectos de Django en un servidor con RAM finita ?
 
 Incluir soporte de MySQL a [[https://github.com/coleifer/peewee|PeeWee]]
 
@@ -42,6 +45,7 @@ Ver como se puede internacionalizar [[http://www.pilas-engine.com.ar/|pilas!]]
  * JoaquinSorianello
  * [[GonzaloDelgado|Gonzalo Delgado]]
  * alecu
+ * DiegoMascialino
 
 Terminar la [[http://python.org.ar/moin_static/pyar/grafo.svg|vista de grafo del wiki]]
 
@@ -51,6 +55,7 @@ Escribir un generador de estadisticas de la lista de pyar. Partir de lo que hizo
 
  * JoaquinSorianello
  * alecu
+ * DiegoMascialino
 
 Multitouch - llevo una idea para hacer un juego multitouch, que puede ser también multijugador cooperativo, y llevo una tabletita configurada para transmitir multitouch por bluetooth.
 
