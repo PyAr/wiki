@@ -60,6 +60,10 @@ Hamster Project - hacer un plugin para poder sincronizar los hamsters de varias 
 
  * Lipe
 
+Frontend gráfico (Cocos) para [[https://bitbucket.org/san/pyanola|Pyanola]] - Pyanola es como un Guitar Hero, pero para aprender música en serio desarrollado en el PyCamp 2010. Actualmente soporta aprender temas en archivos midi y ssv (?), usando un instrumento midi o el teclado de la pc como entrada y tiene salida ALSA y OSS. Pero no tiene interfaz gráfica!!!
+
+
+
 === Otros temas que no son necesariamente proyectos de código ===
  * [FacundoBatista] Me gustaría que charlemos sobre un posible Concurso de Algo para Estudiantes de Secundario.
 
