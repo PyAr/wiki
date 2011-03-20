@@ -64,6 +64,7 @@ Multitouch - llevo una idea para hacer un juego multitouch, que puede ser tambi�
 Hamster Project - hacer un plugin para poder sincronizar los hamsters de varias maquinas, plugin para manejar precios por hora y poder sacar reportes con totales de hora y plata, quizas ver si es posible hacerlo compatible con GNOME 3.0
 
  * Lipe
+ * [[GonzaloDelgado|Gonzalo Delgado]]
 
 Frontend gráfico (Cocos) para [[https://bitbucket.org/san/pyanola|Pyanola]] - Pyanola es como un Guitar Hero, pero para aprender música en serio desarrollado en el PyCamp 2010. Actualmente soporta aprender temas en archivos midi y ssv (?), usando un instrumento midi o el teclado de la pc como entrada y tiene salida ALSA y OSS. Pero no tiene interfaz gráfica!!!
 
