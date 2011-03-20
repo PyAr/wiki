@@ -4,6 +4,7 @@
  * FacundoBatista
  * alecu
  * DiegoMascialino
+ * SAn
 
 [[http://humitos.wordpress.com/2008/05/05/colaborando-con-python/|BugDay]]: Salimos a la caza de bugs de Python (esto seguro que será sólo medio día o un día como muuucho)
 
@@ -18,6 +19,7 @@ Hacer algo con [[http://twistedmatrix.com/trac/|Twisted]] (cualquier cosa)
  * Pablo Mouzo
  * alecu
  * DiegoMascialino: Cambio el cualquier cosa por [[http://bitbucket.org/san/luisito/|luisito]]. "Proxy for multi server deployments. Used to serve thousands of django projects while keeping memory footprint low.". Se acuerdan de PyCon 2010 y cómo hostear *muchos* proyectos de Django en un servidor con RAM finita ?
+ * SAn
 
 Incluir soporte de MySQL a [[https://github.com/coleifer/peewee|PeeWee]]
 
@@ -60,6 +62,7 @@ Escribir un generador de estadisticas de la lista de pyar. Partir de lo que hizo
 Multitouch - llevo una idea para hacer un juego multitouch, que puede ser también multijugador cooperativo, y llevo una tabletita configurada para transmitir multitouch por bluetooth.
 
  * alecu
+ * SAn
 
 Hamster Project - hacer un plugin para poder sincronizar los hamsters de varias maquinas, plugin para manejar precios por hora y poder sacar reportes con totales de hora y plata, quizas ver si es posible hacerlo compatible con GNOME 3.0
 
