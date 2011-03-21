@@ -49,7 +49,7 @@
 
  * ¿De qué forma usamos Python?: El sitio utiliza software hecho en python: [[http://plone.org/|Plone]]/[[http://zope.org/|Zope]], con productos adicionales desarrollados a medida para el proyecto. Utilizamos también [[http://www.gnu.org/software/mailman/|mailman]] para manejar las listas de correo de las comunidades. La mayoría de los scripts de mantenimiento y administración del servidor están hechos en python. Para gestionar el desarrollo usamos [[http://www.edgewall.com/trac|trac]], también hecho en python.
 
- * RicardoKirkner y SantiagoPereson trabajaban en el proyecto.
+ * RicardoKirkner [[http://www.bookwormlab.com/write-term-paper| write my college paper]] y SantiagoPereson trabajaban en el proyecto.
 
 === Hansa World Argentina ===
  * URL: http://www.hansaworld.com.ar/
@@ -61,7 +61,7 @@
 
  * Dirección: Patricio Diez 1026 - Reconquista, Santa Fe, Argentina
 
- * ¿De qué forma usamos Python?: Estamos desarrollando todo el sistema de gestión completo en python, con la interfaz gráfica wxWidgets. El sistema una vez terminado trabajará preferentemente sobre Linux, y constará de un sistema de manejo de Emergencias Médicas, Facturación, Sistemas de Caja Diaria y Manejo de Abonados, entre otras cosas (el sistema es demasiado amplio como para explicarlo en pocas líneas).
+ * ¿De qué forma usamos Python?:[[http://www.proficientwriters.com/writing-jobs| essay writing jobs]] Estamos desarrollando todo el sistema de gestión completo en python, con la interfaz gráfica wxWidgets. El sistema una vez terminado trabajará preferentemente sobre Linux, y constará de un sistema de manejo de Emergencias Médicas, Facturación,[[http://www.dissertationlab.com/| Dissertation writing]] Sistemas de Caja Diaria y Manejo de Abonados, entre otras cosas (el sistema es demasiado amplio como para explicarlo en pocas líneas).
 
  * Librerías/frameworks utilizadas: [[http://www.wxwindows.org|wxWidgets]]/[[http://www.wxpython.org/|wxPython]]
 
