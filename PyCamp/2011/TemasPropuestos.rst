@@ -84,5 +84,13 @@ Sería interesante charlar sobre asumir un posible código de conducta para los 
 
  * Charlado en el canal de #pyar, marga/facundobatista
 
+=== Trasnoche ===
+
+Juegos de Mesa: 
+ * [[ http://www.wunderland.com/LooneyLabs/Fluxx/Martian/ | Martian Fluxx ]]
+ * [[ http://www.sjgames.com/illuminati/ | Illuminati ]]
+ * [[ http://www.wunderland.com/LooneyLabs/Chrononauts/ | Chrononauts ]]
+ * [[ http://www.wunderland.com/LooneyLabs/Aquarius/ | Aquarius ]]
+
 ----
 CategoryPyCamp
