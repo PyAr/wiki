@@ -29,6 +29,7 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011|P
 ||Facundo Couzo ||XL ||Omnívoro ||Hecho ||
 ||FelipeLerena "Lipe" ||XL ||lo que venga ||Hecho ||
 ||Roberto Allende (Sabado y Domingo) ||XL ||lo que venga ||No - puede ser en el lugar? ||
+||MarcosVanetta || M || comida || ||
 
 
 
@@ -44,7 +45,6 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011|P
  * --( JuanFisanotti )--
  * HoracioBertorello
  * --( PabloZiliani )--
- * Marcos Vanetta
  * EzequielMarquez
  * NicoEchaniz (quizás +1)
  * --( MarianoReingart (quizás +1 +0.50 +0.25) )--
