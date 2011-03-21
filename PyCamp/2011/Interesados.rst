@@ -28,6 +28,7 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011|P
 ||MartinGaitan ||L || ||Hecho - transferencia bancaria - ||
 ||Facundo Couzo ||XL ||Omnívoro ||Hecho ||
 ||FelipeLerena "Lipe" ||XL ||lo que venga ||Hecho ||
+||Roberto Allende (Sabado y Domingo) ||XL ||lo que venga ||No - puede ser en el lugar? ||
 
 
 
