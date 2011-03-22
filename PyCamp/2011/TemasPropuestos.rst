@@ -59,7 +59,7 @@ Escribir un generador de estadisticas de la lista de pyar. Partir de lo que hizo
  * alecu
  * DiegoMascialino
 
-Multitouch - llevo una idea para hacer un juego multitouch, que puede ser también multijugador cooperativo, y llevo una tabletita configurada para transmitir multitouch por bluetooth.
+Multitouch - llevo una idea para hacer un juego multitouch, que puede ser también multijugador cooperativo, y llevo una tabletita configurada para transmitir multitouch por bluetooth. Si tenés un android, instalate [[http://code.google.com/p/accelerometer-based-remote-droid/ | RemoteDroid]]
 
  * alecu
  * SAn
