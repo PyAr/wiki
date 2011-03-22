@@ -11,14 +11,13 @@ Si estas cerca o tenes alguna relación con una universidad que no tiene el Tuto
 (3) Entregado a la unidad académica, esperando asignación de nro. catálogo.
 
 (4) Completo (incluir por favor el nro. de catálogo)
-
 ||Nombre del responsable ||Email ||Universidad[es] ||Estado ||
 ||Sebastián Bassi ||<<MailTo(  sbassi EN  gmail PUNTO com)>> ||Universidad Nacional de Quilmes ||(4) 005.13 ROS ||
 ||Sebastián Bassi ||<<MailTo(  sbassi EN  gmail PUNTO com)>> ||UNNOBA ||(3) ||
 ||Martín Gaitán ||<<MailTo(  gaitan EN  gmail PUNTO com)>> ||Universidad Nacional de Córdoba ||(4) [[http://biblio.efn.unc.edu.ar/cgi-bin/koha/opac-detail.pl?biblionumber=8459|Ref. 8459]] ||
-||Federico Vincenti ||<<MailTo(  federicovincenti EN  gmail PUNTO com)>> ||Universidad Católica de Santiago del Estero - Departamento Académico Rafaela ||(4) Tutorial de Python - Van Rossum, Guido. Nº 5.552  ||
+||Federico Vincenti ||<<MailTo(  federicovincenti EN  gmail PUNTO com)>> ||Universidad Católica de Santiago del Estero - Departamento Académico Rafaela ||(4) Tutorial de Python - Van Rossum, Guido. Nº 5.552 ||
 ||Marcos Alcazar ||<<MailTo(  marcos.alcazar EN  gmail PUNTO com)>> ||UTN - Facultad Regional Mendoza ||(4) Tutorial de Python. Nº 547 ||
-||Adrian Pardini ||<<MailTo(  pardo PUNTO bsso EN  gmail PUNTO com)>> ||UNLP Ingeniería ||(4) El tutorial de Python. [[http://biblio.ing.unlp.edu.ar/cgi-bin/koha/opac-detail.pl?bib=INGC-MON-017574 | Ref. 519.682 VAN Bloque 4]]||
+||Adrian Pardini ||<<MailTo(  pardo PUNTO bsso EN  gmail PUNTO com)>> ||UNLP Ingeniería ||(4) El tutorial de Python. [[http://biblio.ing.unlp.edu.ar/cgi-bin/koha/opac-detail.pl?bib=INGC-MON-017574|Ref. 519.682 VAN Bloque 4]] ||
 ||Matías Herranz ||<<MailTo(  matiasherranz EN  gmail PUNTO com)>> ||UNC (Universidad Nacional de Córdoba) ||(3) ||
 ||Ezequiel Chan ||<<MailTo(  ezequielchan EN  gmail PUNTO com)>> ||Universidad Nacional de Luján ||(1) ||
 ||Julian Cardonnet ||<<MailTo(  jcardonnet EN  gmail PUNTO com)>> ||Universidad Nacional del Centro - Ingenieria de Sistemas (Tandil) ||(1) ||
@@ -36,7 +35,7 @@ Si estas cerca o tenes alguna relación con una universidad que no tiene el Tuto
 ||Santiago Banchero ||<<MailTo(  santiagobanchero EN  gmail PUNTO com)>> ||Universidad Nacional de Luján (Centro Regional Chivilcoy) ||(1) ||
 ||Diego Gaspar ||<<MailTo(  armandogaspar EN  gmail PUNTO com)>> ||Universidad Nacional de Cuyo y otros ||(1) ||
 ||Gonzalo Fernandez ||<<MailTo(  buurentriko EN  gmail PUNTO com)>> ||Universidad Nacional de Rio Cuarto ||(1) ||
-||Ignacio Fiandrino ||<<MailTo(  tucumetal EN  gmail PUNTO com)>> ||Universidad Nacional de Rio Cuarto ||(3) ||
+||Ignacio Fiandrino ||<<MailTo(  tucumetal EN  gmail PUNTO com)>> ||Universidad Nacional de Rio Cuarto ||(4)El tutorial de python. Van Rossum, Guido. [[http://juanfilloy.bib.unrc.edu.ar/consulta/script/frame_bottom.php?termino=python&isdoc=true&idbibliografia=33258&titulo=El%20tutorial%20de%20python&bases=a:4:{i:0;s:5:"libro";i:1;s:5:"tesis";i:2;s:5:"trafi";i:3;s:4:"unrc";}|681.3.06 V 280]] ||
 ||Gonzalo Delgado ||<<MailTo(  gonzalodel EN  gmail PUNTO com)>> ||Universidad Nacional de Tucumán (Facultad de Ciencias Exactas y Tecnología); Universidad Tecnológica Nacional (Facultad Regional Tucumán) ||(1) ||
 ||Alejandro Santos ||<<MailTo(  alejolp EN  alejolp PUNTO com PUNTO ar)>> ||UNLP ||(4) Van Rossum, Guido. Tutorial de Python. [[http://catalogo.info.unlp.edu.ar/cgi-bin/koha/opac-detail.pl?bib=2915|DIF-03497, DIF-03498]] ||
 ||Pereyra Carlos ||<<MailTo(  pereyra-carlos EN  hotmail PUNTO com)>> ||UTN FRLP ||(1) ||
@@ -45,5 +44,9 @@ Si estas cerca o tenes alguna relación con una universidad que no tiene el Tuto
 ||Manuel Muradás ||<<MailTo(  mmuradas EN  dieresys PUNTO com PUNTO ar)>> ||UADE ||(2) ||
 ||Manuel Muradás ||<<MailTo(  mmuradas EN  dieresys PUNTO com PUNTO ar)>> ||"José Hernandez" E.E.T. Nº7 de Avellaneda ||(2) ||
 ||Diego Mascialino ||<<MailTo(  dmascialino EN  gmail PUNTO com)>> ||UBA - Facultad de Ingeniería, Biblioteca "Ing Butty" y Biblioteca del LABI ||(3) ||
+
+
+
+
 ----
 CategoryCategory
