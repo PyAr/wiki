@@ -30,7 +30,8 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011|P
 ||FelipeLerena "Lipe" ||XL ||lo que venga ||Hecho ||
 ||Roberto Allende (Sabado y Domingo) ||XL ||lo que venga ||No - puede ser en el lugar? ||
 ||MarcosVanetta || M || comida || ||
-|| EzequielMarquez || L || Omnivoro || ||
+||EzequielMarquez || L || Omnivoro || ||
+||Mariano Verdú || || || ||
 
 
 
@@ -49,9 +50,8 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011|P
  * --( MarianoReingart (quizás +1 +0.50 +0.25) )--
  * RamiroMorales
  * SebastianAlvarez
- * Mariano Verdú
  * DiegoSarmentero
- * RobertoAllende
+
 
 ----
 CategoryPyCamp
