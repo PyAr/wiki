@@ -59,7 +59,7 @@ Escribir un generador de estadisticas de la lista de pyar. Partir de lo que hizo
  * alecu
  * DiegoMascialino
 
-Multitouch - llevo una idea para hacer un juego multitouch, que puede ser también multijugador cooperativo, y llevo una tabletita configurada para transmitir multitouch por bluetooth. Si tenés un android, instalate [[http://code.google.com/p/accelerometer-based-remote-droid/ | RemoteDroid]]
+Multitouch - llevo una idea para hacer un juego multitouch, que puede ser también multijugador cooperativo, y llevo una tabletita configurada para transmitir multitouch por bluetooth. Si tenés un android, instalate [[http://code.google.com/p/accelerometer-based-remote-droid/|RemoteDroid]]
 
  * alecu
  * SAn
@@ -71,7 +71,10 @@ Hamster Project - hacer un plugin para poder sincronizar los hamsters de varias 
 
 Frontend gráfico (Cocos) para [[https://bitbucket.org/san/pyanola|Pyanola]] - Pyanola es como un Guitar Hero, pero para aprender música en serio desarrollado en el PyCamp 2010. Actualmente soporta aprender temas en archivos midi y ssv (?), usando un instrumento midi o el teclado de la pc como entrada y tiene salida ALSA y OSS. Pero no tiene interfaz gráfica!!!
 
+Karma@pyar - un filtro de mails que agregue puntajes a los mails que salen de la lista segun una [[http://www.advogato.org/trust-metric.html|red de confianza]].
 
+ * nueces
+ * alecu
 
 === Otros temas que no son necesariamente proyectos de código ===
  * [FacundoBatista] Me gustaría que charlemos sobre un posible Concurso de Algo para Estudiantes de Secundario.
@@ -85,12 +88,12 @@ Sería interesante charlar sobre asumir un posible código de conducta para los 
  * Charlado en el canal de #pyar, marga/facundobatista
 
 === Trasnoche ===
+Juegos de Mesa:
 
-Juegos de Mesa: 
- * [[ http://www.wunderland.com/LooneyLabs/Fluxx/Martian/ | Martian Fluxx ]]
- * [[ http://www.sjgames.com/illuminati/ | Illuminati ]]
- * [[ http://www.wunderland.com/LooneyLabs/Chrononauts/ | Chrononauts ]]
- * [[ http://www.wunderland.com/LooneyLabs/Aquarius/ | Aquarius ]]
+ * [[http://www.wunderland.com/LooneyLabs/Fluxx/Martian/|Martian Fluxx]]
+ * [[http://www.sjgames.com/illuminati/|Illuminati]]
+ * [[http://www.wunderland.com/LooneyLabs/Chrononauts/|Chrononauts]]
+ * [[http://www.wunderland.com/LooneyLabs/Aquarius/|Aquarius]]
 
 ----
 CategoryPyCamp
