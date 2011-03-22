@@ -35,7 +35,7 @@ Si estas cerca o tenes alguna relación con una universidad que no tiene el Tuto
 ||Santiago Banchero ||<<MailTo(  santiagobanchero EN  gmail PUNTO com)>> ||Universidad Nacional de Luján (Centro Regional Chivilcoy) ||(1) ||
 ||Diego Gaspar ||<<MailTo(  armandogaspar EN  gmail PUNTO com)>> ||Universidad Nacional de Cuyo y otros ||(1) ||
 ||Gonzalo Fernandez ||<<MailTo(  buurentriko EN  gmail PUNTO com)>> ||Universidad Nacional de Rio Cuarto ||(1) ||
-||Ignacio Fiandrino ||<<MailTo(  tucumetal EN  gmail PUNTO com)>> ||Universidad Nacional de Rio Cuarto ||(4)El tutorial de python. Van Rossum, Guido. [[http://juanfilloy.bib.unrc.edu.ar/consulta/script/frame_bottom.php?termino=python&isdoc=true&idbibliografia=33258&titulo=El%20tutorial%20de%20python&bases=a:4:{i:0;s:5:"libro";i:1;s:5:"tesis";i:2;s:5:"trafi";i:3;s:4:"unrc";}|681.3.06 V 280]] ||
+||Ignacio Fiandrino ||<<MailTo(  tucumetal EN  gmail PUNTO com)>> ||Universidad Nacional de Rio Cuarto ||(4) El tutorial de Python. Van Rossum, Guido. [[http://juanfilloy.bib.unrc.edu.ar/consulta/script/frame_bottom.php?termino=python&isdoc=true&idbibliografia=33258&titulo=El%20tutorial%20de%20python&bases=a:4:{i:0;s:5:"libro";i:1;s:5:"tesis";i:2;s:5:"trafi";i:3;s:4:"unrc";}|681.3.06 V 280]] ||
 ||Gonzalo Delgado ||<<MailTo(  gonzalodel EN  gmail PUNTO com)>> ||Universidad Nacional de Tucumán (Facultad de Ciencias Exactas y Tecnología); Universidad Tecnológica Nacional (Facultad Regional Tucumán) ||(1) ||
 ||Alejandro Santos ||<<MailTo(  alejolp EN  alejolp PUNTO com PUNTO ar)>> ||UNLP ||(4) Van Rossum, Guido. Tutorial de Python. [[http://catalogo.info.unlp.edu.ar/cgi-bin/koha/opac-detail.pl?bib=2915|DIF-03497, DIF-03498]] ||
 ||Pereyra Carlos ||<<MailTo(  pereyra-carlos EN  hotmail PUNTO com)>> ||UTN FRLP ||(1) ||
