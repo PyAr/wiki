@@ -1,3 +1,4 @@
+#acl nueces:read,write All:read
 = PyCamp 2011 =
 == Fecha ==
  * 24 al 27 de Marzo, 2011.
