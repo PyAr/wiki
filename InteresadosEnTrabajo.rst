@@ -30,4 +30,4 @@ Si usted se inscribe acá probablemente reciba emails contactándolo.
 ||MartinGalan - <<MailTo(chinomng EN gmail PUNTO com)>> ||Sí ||No ||Santa Fe, trabajo remotamente ||
 ||Canicue  - <<MailTo(canicue EN gmail PUNTO com)>> ||Sí ||No ||Mar del Plata,trabajo remotamente ||
 ||EzequielMarquez ||                        ||                        ||S.M. de Tucumán, trabajo remotamente ||
-||Daniel Ceillan ||Sí ||Sí ||Disponible para viajar, europa preferentemente. ||
+||Daniel Ceillan  - <<MailTo(codigodaniel EN gmail PUNTO com)>> ||Sí ||Sí ||Disponible para viajar, europa preferentemente. ||
