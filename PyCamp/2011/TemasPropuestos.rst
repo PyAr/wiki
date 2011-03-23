@@ -42,12 +42,14 @@ Terminar de traducir la [[http://www.taniquetil.com.ar/lalita/tutorial_sp.html|d
  * [[GonzaloDelgado|Gonzalo Delgado]]
  * FacundoBatista
 
+
 Ver como se puede internacionalizar [[http://www.pilas-engine.com.ar/|pilas!]]
 
  * JoaquinSorianello
  * [[GonzaloDelgado|Gonzalo Delgado]]
  * alecu
  * DiegoMascialino
+ * HugoRuscitti
 
 Terminar la [[http://python.org.ar/moin_static/pyar/grafo.svg|vista de grafo del wiki]]
 
@@ -75,6 +77,14 @@ Karma@pyar - un filtro de mails que agregue puntajes a los mails que salen de la
 
  * nueces
  * alecu
+
+
+Mejorar el motor de juegos [[http://www.pilas-engine.com.ar|pilas]], agregando soporte de redes (con django?), handlers de colisiones en el motor de fisica y hacer algun juego nuevo completo.
+
+ * HugoRuscitti
+
+ 
+
 
 === Otros temas que no son necesariamente proyectos de código ===
  * [FacundoBatista] Me gustaría que charlemos sobre un posible Concurso de Algo para Estudiantes de Secundario.
