@@ -32,7 +32,7 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2011|P
 ||MarcosVanetta || M || comida || ||
 ||EzequielMarquez || L || Omnivoro || ||
 ||Mariano Verdú || || || ||
-
+||Maximiliano David Bustos|| || || ||
 
 
 * El Viernes 25 es mi cumpleaños, regalos se aceptan :P
