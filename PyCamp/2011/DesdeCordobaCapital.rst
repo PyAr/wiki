@@ -3,6 +3,6 @@ Estamos viendo de armar una combie para los que viajan desde Córdoba capital a 
 ||Roberto Alsina +1.5 ||10AM ||
 ||EmilianoDallaVerdeMarcozzi (x-ip) ||4:45 am ||
 ||MarianoVerdu ||  ||
-||EzequielMarquez || 8:15  ||
+||EzequielMarquez || 8:15 am  ||
 ||Maximiliano Bustos ||  ||
 ||Mateo Bengualid ||  ||
