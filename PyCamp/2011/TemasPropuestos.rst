@@ -50,6 +50,7 @@ Ver como se puede internacionalizar [[http://www.pilas-engine.com.ar/|pilas!]]
  * alecu
  * DiegoMascialino
  * HugoRuscitti
+ * MartinGaitan
 
 Terminar la [[http://python.org.ar/moin_static/pyar/grafo.svg|vista de grafo del wiki]]
 
@@ -60,6 +61,7 @@ Escribir un generador de estadisticas de la lista de pyar. Partir de lo que hizo
  * JoaquinSorianello
  * alecu
  * DiegoMascialino
+ * MartinGaitan
 
 Multitouch - llevo una idea para hacer un juego multitouch, que puede ser también multijugador cooperativo, y llevo una tabletita configurada para transmitir multitouch por bluetooth. Si tenés un android, instalate [[http://code.google.com/p/accelerometer-based-remote-droid/|RemoteDroid]]
 
@@ -82,7 +84,7 @@ Karma@pyar - un filtro de mails que agregue puntajes a los mails que salen de la
 Mejorar el motor de juegos [[http://www.pilas-engine.com.ar|pilas]], agregando soporte de redes (con django?), handlers de colisiones en el motor de fisica y hacer algun juego nuevo completo.
 
  * HugoRuscitti
-
+ * MartinGaitan
  
 
 
