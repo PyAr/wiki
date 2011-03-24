@@ -6,3 +6,4 @@ Estamos viendo de armar una combie para los que viajan desde Córdoba capital a 
 ||EzequielMarquez || 8:15 am  ||
 ||Maximiliano Bustos ||  ||
 ||Mateo Bengualid ||  ||
+||ManuelKaufmann (humitos) || estoy en cba ya ||
