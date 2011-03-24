@@ -81,7 +81,7 @@ Karma@pyar - un filtro de mails que agregue puntajes a los mails que salen de la
  * alecu
 
 
-Mejorar el motor de juegos [[http://www.pilas-engine.com.ar|pilas]], agregando soporte de redes (con django?), handlers de colisiones en el motor de fisica y hacer algun juego nuevo completo.
+Mejorar el motor de juegos [[http://www.pilas-engine.com.ar|pilas]], agregando soporte de redes (con twisted?), handlers de colisiones en el motor de fisica y hacer algun juego nuevo completo.
 
  * HugoRuscitti
  * MartinGaitan
