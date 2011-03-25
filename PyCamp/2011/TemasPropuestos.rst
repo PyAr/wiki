@@ -115,7 +115,7 @@ Juegos de Mesa:
 +---------------------------------------------------+
 | Diego M - Lipe --> Elsurexiste - Facundo C.       |
 | Diego M - Lipe --> John - Mariano Verdu           |
-| John - Mariano Verdu --> Elsurexiste - Facundo C. |
+| John - Mariano Verdu --> Elsurexiste - Facundo C. |  5 - 0
 +---------------------------------------------------+
 
 
