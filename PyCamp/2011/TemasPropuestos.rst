@@ -111,11 +111,11 @@ Juegos de Mesa:
 
 == Torneo Metegol ==
 
-{{{
-+---------------------------------------------------+         Clasificados
-| Alecu - Humito --> Elsurexiste - Facundo C.       |
-| Alecu - Humitos --> John - Mariano Verdu          |
-| John - Mariano Verdu --> Elsurexiste - Facundo C. |  5 - 0
+{{{                                                         Clasificados  (dif de gol)
++---------------------------------------------------+         
+| Alecu - Humitos --> Elsurexiste - Facundo C.      |  5 - 0
+| Alecu - Humitos --> John - Mariano Verdu          |  3 - 5   1° +7  John - Mariano Verdu
+| John - Mariano Verdu --> Elsurexiste - Facundo C. |  5 - 0   2° +3  Alecu - Humitos
 +---------------------------------------------------+
 
 
@@ -127,9 +127,9 @@ Juegos de Mesa:
 
 
 +---------------------------------------------------+
-| Diego M - Lipe --> San - Joac                     | 4 - 5  
-| Diego M - Lipe --> nueces - ralsina               | 2 - 5   1° +3 San - Joac A.K.A "is not none"
-| San - Joac --> nueces - ralsina                   | 5 - 3   2° +1  nueces - ralsina
+| Diego M - Lipe --> San - Joac                     |  4 - 5  
+| Diego M - Lipe --> nueces - ralsina               |  2 - 5   1° +3  San - Joac A.K.A "is not none"
+| San - Joac --> nueces - ralsina                   |  5 - 3   2° +1  nueces - ralsina
 +---------------------------------------------------+
 }}}
 
