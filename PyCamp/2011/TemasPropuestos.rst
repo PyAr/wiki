@@ -107,5 +107,31 @@ Juegos de Mesa:
  * [[http://www.wunderland.com/LooneyLabs/Chrononauts/|Chrononauts]]
  * [[http://www.wunderland.com/LooneyLabs/Aquarius/|Aquarius]]
 
+== Tornero Metegol ==
+
+{{{
++---------------------------------------------------+
+| Diego M - Lipe --> Elsurexiste - Facundo C.       |
+| Diego M - Lipe --> John - Mariano Verdu           |
+| John - Mariano Verdu --> Elsurexiste - Facundo C. |
++---------------------------------------------------+
+
+
++---------------------------------------------------+
+| M. Gaitán - X-IP --> Pablo M. - Facundo B.        |
+| M. Gaitán - X-IP --> Maxi - Ezequiel Marquez      |
+| Maxi - Ezequiel Marquez --> Pablo M. - Facundo B. |
++---------------------------------------------------+
+
+
++---------------------------------------------------+
+| Humito - Alecu --> San - Joac                     |
+| Humito - Alecu --> nueces - ralsina               |
+| San - Joac --> nueces - ralsina                   |
++---------------------------------------------------+
+}}}
+
+
+
 ----
 CategoryPyCamp
