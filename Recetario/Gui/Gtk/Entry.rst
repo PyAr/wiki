@@ -1,3 +1,4 @@
+## page was renamed from GtkEntry
 == GtkEntry ==
 
 crea una ventana con un label y un campo de texto y muestra el mensaje hola '''nombre''' con el valor ingresado en el entry.
