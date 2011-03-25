@@ -123,7 +123,7 @@ Juegos de Mesa:
 +---------------------------------------------------+
 | M. Gaitán - X-IP --> Pablo M. - Facundo B.        |  0 - 5
 | M. Gaitán - X-IP --> Maxi - Ezequiel Marquez      |
-| Maxi - Ezequiel Marquez --> Pablo M. - Facundo B. |
+| Maxi - Ezequiel Marquez --> Pablo M. - Facundo B. |  1 - 5
 +---------------------------------------------------+
 
 
