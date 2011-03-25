@@ -111,7 +111,8 @@ Juegos de Mesa:
 
 == Torneo Metegol ==
 
-{{{                                                         Clasificados  (dif de gol)
+{{{                                                        
+                                                               Clasificados  (dif de gol)
 +---------------------------------------------------+         
 | Alecu - Humitos --> Elsurexiste - Facundo C.      |  5 - 0
 | Alecu - Humitos --> John - Mariano Verdu          |  3 - 5   1° +7  John - Mariano Verdu
