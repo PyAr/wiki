@@ -112,7 +112,7 @@ Juegos de Mesa:
 == Torneo Metegol ==
 
 {{{
-+---------------------------------------------------+
++---------------------------------------------------+         Clasificados
 | Alecu - Humito --> Elsurexiste - Facundo C.       |
 | Alecu - Humitos --> John - Mariano Verdu          |
 | John - Mariano Verdu --> Elsurexiste - Facundo C. |  5 - 0
@@ -127,11 +127,12 @@ Juegos de Mesa:
 
 
 +---------------------------------------------------+
-| Diego M - Lipe --> San - Joac                     | 4 - 5
-| Diego M - Lipe --> nueces - ralsina               | 2 - 5
-| San - Joac --> nueces - ralsina                   | 5 - 3
+| Diego M - Lipe --> San - Joac                     | 4 - 5  
+| Diego M - Lipe --> nueces - ralsina               | 2 - 5   1° +3 San - Joac A.K.A "is not none"
+| San - Joac --> nueces - ralsina                   | 5 - 3   2° +1  nueces - ralsina
 +---------------------------------------------------+
 }}}
+
 
 Los tres primeros de cada zona, más el mejor segundo, pasan a una llave de 4 con eliminación directa (el mejor primero contra el segundo por un lado, los otros dos primeros por el otro). Para ordenar los equipos, lo que vale es: primero, mayor diferencia de gol, segundo, menor goles en contra.
 
