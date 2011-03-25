@@ -113,8 +113,8 @@ Juegos de Mesa:
 
 {{{
 +---------------------------------------------------+
-| Diego M - Lipe --> Elsurexiste - Facundo C.       |
-| Diego M - Lipe --> John - Mariano Verdu           |
+| Alecu - Humito --> Elsurexiste - Facundo C.       |
+| Alecu - Humitos --> John - Mariano Verdu          |
 | John - Mariano Verdu --> Elsurexiste - Facundo C. |  5 - 0
 +---------------------------------------------------+
 
@@ -127,9 +127,9 @@ Juegos de Mesa:
 
 
 +---------------------------------------------------+
-| Humito - Alecu --> San - Joac                     |
-| Humito - Alecu --> nueces - ralsina               |
-| San - Joac --> nueces - ralsina                   |
+| Diego M - Lipe --> San - Joac                     | 4 - 5
+| Diego M - Lipe --> nueces - ralsina               | 2 - 5
+| San - Joac --> nueces - ralsina                   | 5 - 3
 +---------------------------------------------------+
 }}}
 
