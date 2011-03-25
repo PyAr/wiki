@@ -134,6 +134,13 @@ Juegos de Mesa:
 +---------------------------------------------------+
 
 
+'''Finales'''
+
+   Pablo M - Facundo B
+   Alecu - Humitos
+
+   John - Mariano
+   SAn - Joac
 
 
 
