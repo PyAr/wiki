@@ -109,7 +109,7 @@ Juegos de Mesa:
  * [[http://www.wunderland.com/LooneyLabs/Chrononauts/|Chrononauts]]
  * [[http://www.wunderland.com/LooneyLabs/Aquarius/|Aquarius]]
 
-== Tornero Metegol ==
+== Torneo Metegol ==
 
 {{{
 +---------------------------------------------------+
@@ -120,7 +120,7 @@ Juegos de Mesa:
 
 
 +---------------------------------------------------+
-| M. Gaitán - X-IP --> Pablo M. - Facundo B.        |
+| M. Gaitán - X-IP --> Pablo M. - Facundo B.        |  0 - 5
 | M. Gaitán - X-IP --> Maxi - Ezequiel Marquez      |
 | Maxi - Ezequiel Marquez --> Pablo M. - Facundo B. |
 +---------------------------------------------------+
