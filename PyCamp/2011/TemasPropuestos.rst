@@ -86,7 +86,7 @@ Mejorar el motor de juegos [[http://www.pilas-engine.com.ar|pilas]], agregando s
  * HugoRuscitti
  * MartinGaitan
  
-Continuar ZODBBrowser: un browser de zodb hecho en zope2. Ver [[http://code.google.com/p/zodbbrowser/ video]].
+Continuar ZODBBrowser: un browser de zodb hecho en zope2. Ver [[http://code.google.com/p/zodbbrowser/|video]].
 
  * RobertoAllende (sabado y domingo)
 
