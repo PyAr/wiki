@@ -1,3 +1,4 @@
+## page was renamed from GtkAutoComplete
 = Gtk Auto Complete =
 
 ejemplo de campo de texto con auto complesion
