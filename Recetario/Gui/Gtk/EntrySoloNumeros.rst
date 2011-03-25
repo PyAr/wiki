@@ -1,3 +1,4 @@
+## page was renamed from GtkEntrySoloNumeros
 = GtkEntrySoloNumeros =
 
 Este ejemplo muestra como permitir el ingreso de solo números en un gtk.Entry, a través de la señal [[http://library.gnome.org/devel/pygtk/stable/class-gtkeditable.html#signal-gtkeditable--insert-text|insert-text]] de gtk.Editable (clase de la que hereda gtk.Entry) y usando el método [[http://library.gnome.org/devel/pygobject/stable/class-gobject.html#method-gobject--stop-emission|stop_emission]] de gobject para vitar que la señal se propague y sea manejada por el handler por defecto para la señal (que es el que inserta el carácter en el widget)
