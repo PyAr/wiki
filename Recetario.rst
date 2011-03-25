@@ -41,60 +41,60 @@ Es bueno /NormalizarCaracteresUnicode para hacer búsquedas en strings sin que s
 
 == Interfaces graficas ==
 === Gtk ===
-GtkHolaMundo : una ventana que muestra el mensaje hola mundo
+[[/Gtk/HolaMundo]] : una ventana que muestra el mensaje hola mundo
 
-[[GtkHolaMundoOO]] : una ventana que muestra el mensaje hola mundo programado utilizando orientacion a objetos
+[[/Gtk/HolaMundoOO]] : una ventana que muestra el mensaje hola mundo programado utilizando orientacion a objetos
 
-GtkEntry : una ventana que solicita un valor y luego lo muestra en una ventana aparte
+[[/Gtk/Entry]] : una ventana que solicita un valor y luego lo muestra en una ventana aparte
 
-GtkEntrySoloNumeros: un ejemplo de como permitir el ingreso de solo numeros en un gtk.Entry
+[[/Gtk/EntrySoloNumeros]]: un ejemplo de como permitir el ingreso de solo numeros en un gtk.Entry
 
-[[GtkHBox]] : ejemplo que muestra como organizar elementos continuos horizontalmente
+[[/Gtk/HBox]] : ejemplo que muestra como organizar elementos continuos horizontalmente
 
-[[GtkVBox]] : ejemplo que muestra como organizar elementos continuos verticalmente
+[[/Gtk/VBox]] : ejemplo que muestra como organizar elementos continuos verticalmente
 
-GtkGrid : ejemplo que muestra como organizar elementos en forma de grilla
+[[/Gtk/Grid]] : ejemplo que muestra como organizar elementos en forma de grilla
 
-GtkButton : ejemplo que muestra como crear botones de diversas maneras
+[[/Gtk/Button]] : ejemplo que muestra como crear botones de diversas maneras
 
-GtkButtonBox : ejemplo que muestra como crear botones y agruparlos en un contenedor
+[[/Gtk/ButtonBox]] : ejemplo que muestra como crear botones y agruparlos en un contenedor
 
-GtkAutoComplete : ejemplo que muestra como crear un campo de texto con auto complesion
+[[/Gtk/AutoComplete]] : ejemplo que muestra como crear un campo de texto con auto complesion
 
-GtkDialog : ejemplo para crear dialogos modales
+[[/Gtk/Dialog]] : ejemplo para crear dialogos modales
 
-GtkFileChooser : ejemplo que permite al usuario seleccionar un archivo
+[[/Gtk/FileChooser]] : ejemplo que permite al usuario seleccionar un archivo
 
-GtkMenu :  ejemplo que mustra como crear un menu con distintos items
+[[/Gtk/Menu]] :  ejemplo que mustra como crear un menu con distintos items
 
-GtkTextArea : ejemplo sobre manipulacion basica de un area de texto con scroll
+[[/Gtk/TextArea]] : ejemplo sobre manipulacion basica de un area de texto con scroll
 
-GtkPrintNonGtk : ejemplo sobre como usar el dialogo de impresion de gtk en aplicaciones no gtk (que no usan el main loop de gtk)
+[[/Gtk/PrintNonGtk]] : ejemplo sobre como usar el dialogo de impresion de gtk en aplicaciones no gtk (que no usan el main loop de gtk)
 
-GtkRichText: ejemplo sobre como insertar texto con formato basico a un textview
+[[/Gtk/RichText]]: ejemplo sobre como insertar texto con formato basico a un textview
 
-GtkConfirmClose: ejemplo sobre como solicitar confirmacion para el cierre de una ventana
+[[/Gtk/ConfirmClose]]: ejemplo sobre como solicitar confirmacion para el cierre de una ventana
 
-GtkMultiThread: ejemplo de como manipular la GUI desde múltiples threads sin usar locks (con colas)
+[[/Gtk/MultiThread]]: ejemplo de como manipular la GUI desde múltiples threads sin usar locks (con colas)
 
-GtkMultiThread2: ejemplo de como manipular la GUI usando múltiples threads
+[[/Gtk/MultiThread2]]: ejemplo de como manipular la GUI usando múltiples threads
 
-[[/GtkRunner]] ejemplo de como correr funciones que demoran sin bloquear la ui y obtener los resultados en el thread de gtk
+[[/Gtk/Runner]] ejemplo de como correr funciones que demoran sin bloquear la ui y obtener los resultados en el thread de gtk
 
-GtkLabelConColor: ejemplo de como cambiar el color de un label sin usar pango markup
+[[/Gtk/LabelConColor]]: ejemplo de como cambiar el color de un label sin usar pango markup
 
-[[/GtkXMLRPCServer]] Servidor XMLRPC dentro de un hilo gtk
+[[/Gtk/XMLRPCServer]] Servidor XMLRPC dentro de un hilo gtk
 
-/GtkStockItems: ejemplo que muestra todos los iconos stock de gtk con su respectivo nombre
+[[/Gtk/StockItems]]: ejemplo que muestra todos los iconos stock de gtk con su respectivo nombre
 
-/GtkWebkitEditor: ejemplo de como usar webkit para editar paginas HTML como si fuera un editor
+[[/Gtk/WebkitEditor]]: ejemplo de como usar webkit para editar paginas HTML como si fuera un editor
 
-/GtkStatusIcon: ejemplo de aplicación con ícono en el system tray.
+[[/Gtk/StatusIcon]]: ejemplo de aplicación con ícono en el system tray.
 
-/GtkErorHandler: un ejemplo de capturar una excepción y mostrarla en un dialogo modal
+[[/Gtk/ErorHandler]]: un ejemplo de capturar una excepción y mostrarla en un dialogo modal
 
 === Gtk + glade ===
-[[GtkGladeHolaMundoOO]] : una ventana que muestra el mensaje hola mundo programado utilizando orientacion a objetos
+GtkGladeHolaMundoOO : una ventana que muestra el mensaje hola mundo programado utilizando orientacion a objetos
 
 GtkGladeSignals : manejo basico de señales
 
