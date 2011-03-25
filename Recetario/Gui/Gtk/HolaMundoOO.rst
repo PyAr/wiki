@@ -1,3 +1,4 @@
+## page was renamed from GtkHolaMundoOO
 == GtkHolaMundoOO ==
 
 ejemplo que hace lo mismo que GtkHolaMundo pero orientado a objetos
