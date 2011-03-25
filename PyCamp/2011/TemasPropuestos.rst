@@ -122,8 +122,8 @@ Juegos de Mesa:
 
 +---------------------------------------------------+
 | M. Gaitán - X-IP --> Pablo M. - Facundo B.        |  0 - 5
-| M. Gaitán - X-IP --> Maxi - Ezequiel Marquez      |
-| Maxi - Ezequiel Marquez --> Pablo M. - Facundo B. |  1 - 5
+| M. Gaitán - X-IP --> Maxi - Ezequiel Marquez      |  0 - 5   1° +9   Pablo M - Facundo B
+| Maxi - Ezequiel Marquez --> Pablo M. - Facundo B. |  1 - 5   2° +1   Maxi - Ezequiel
 +---------------------------------------------------+
 
 
@@ -132,6 +132,11 @@ Juegos de Mesa:
 | Diego M - Lipe --> nueces - ralsina               |  2 - 5   1° +3  San - Joac A.K.A "is not none"
 | San - Joac --> nueces - ralsina                   |  5 - 3   2° +1  nueces - ralsina
 +---------------------------------------------------+
+
+
+
+
+
 }}}
 
 
