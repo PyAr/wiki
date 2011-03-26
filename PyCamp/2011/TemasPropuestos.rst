@@ -140,8 +140,10 @@ Juegos de Mesa:
 
 '''Finales'''
 
-   Pablo M - Facundo B
-   Alecu - Humitos
+   Semifinal                               Gran Final                 Campeones
+
+   Pablo M - Facundo B            
+   Alecu - Humitos                         Alecu - Humitos
 
    John - Mariano
    SAn - Joac
