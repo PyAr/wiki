@@ -1,3 +1,4 @@
+## page was renamed from Recetario/GtkErorHandler
 = GtkErrorHandler =
 
 Si aplicamos el decorador error_handler a una función, cuando lance una excepción, vamos a obtener un dialogo modal mostrandomos el traceback. 
@@ -60,3 +61,6 @@ if __name__ == "__main__":
     app = Gui()
     gtk.main()
 }}}
+
+----
+ CategoryRecetas
