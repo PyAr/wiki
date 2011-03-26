@@ -1,3 +1,4 @@
+## page was renamed from Recetario/Gtk/RichText
 ## page was renamed from GtkRichText
  == GtkRichText ==
 
