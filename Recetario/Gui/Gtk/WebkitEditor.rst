@@ -1,3 +1,4 @@
+## page was renamed from Recetario/GtkWebkitEditor
 = Gtk Webkit Editor =
 
 ejemplo de como usar webkit para editar paginas HTML como si fuera un editor
@@ -78,3 +79,6 @@ if __name__ == '__main__':
     window.entry.activate()
     gtk.main()
 }}}
+
+----
+ CategoryRecetas
