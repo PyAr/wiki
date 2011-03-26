@@ -1,3 +1,4 @@
+## page was renamed from GtkLabelConColor
 = Gtk Label Con Color =
 
 ejemplo de como cambiar el color de un label sin usar pango markup 
