@@ -1,3 +1,4 @@
+## page was renamed from Recetario/Gtk/WebkitEditor
 ## page was renamed from Recetario/GtkWebkitEditor
 = Gtk Webkit Editor =
 
