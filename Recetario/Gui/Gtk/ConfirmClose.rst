@@ -1,3 +1,4 @@
+## page was renamed from Recetario/Gtk/ConfirmClose
 ## page was renamed from GtkConfirmClose
 == GtkConfirmClose ==
 
