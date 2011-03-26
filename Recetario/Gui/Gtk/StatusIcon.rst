@@ -1,3 +1,4 @@
+## page was renamed from Recetario/GtkStatusIcon
 == GtkStatusIcon ==
 
 Aplicación con ícono en el area de notificaciones.
@@ -65,3 +66,6 @@ if __name__ == '__main__':
 }}}
 
 Más info en http://www.learnpygtk.org/pygtktutorial/statusicon.html
+
+----
+ CategoryRecetas
