@@ -1,3 +1,4 @@
+## page was renamed from Recetario/Gtk/Entry
 ## page was renamed from GtkEntry
 == GtkEntry ==
 
