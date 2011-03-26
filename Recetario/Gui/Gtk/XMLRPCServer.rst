@@ -1,3 +1,4 @@
+## page was renamed from Recetario/GtkXMLRPCServer
 Servidor XMLRPC dentro de un hilo gtk
 
 {{{
@@ -43,3 +44,6 @@ win.add(label)
 win.show_all()
 gtk.main()
 }}}
+
+----
+ CategoryRecetas
