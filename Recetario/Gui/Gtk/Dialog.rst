@@ -1,3 +1,4 @@
+## page was renamed from Recetario/Gtk/Dialog
 ## page was renamed from GtkDialog
 == GtkDialog ==
 
