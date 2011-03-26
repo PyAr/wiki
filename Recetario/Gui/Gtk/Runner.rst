@@ -1,3 +1,4 @@
+## page was renamed from Recetario/Gtk/Runner
 ## page was renamed from Recetario/GtkRunner
 = GtkRunner =
 
