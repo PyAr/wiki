@@ -1,3 +1,4 @@
+## page was renamed from GtkRichText
  == GtkRichText ==
 
 Ejemplo sobre como mostrar texto con formato en un gtk.TextView, se crea una clase que extiende gtk.TextBuffer para facilitar la inserción de texto con formato.
