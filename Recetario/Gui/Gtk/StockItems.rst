@@ -1,3 +1,4 @@
+## page was renamed from Recetario/GtkStockItems
 = Gtk stock items =
 
 ejemplo que muestra todos los iconos stock de gtk con su respectivo nombre 
@@ -47,3 +48,6 @@ if __name__ == '__main__':
     run()
 
 }}}
+
+----
+ CategoryRecetas
