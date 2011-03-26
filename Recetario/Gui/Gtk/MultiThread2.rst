@@ -1,3 +1,4 @@
+## page was renamed from GtkMultiThread2
 Otro ejemplo del uso de threads con gtk, compare con el [[GtkMultiThread|otro ejemplo]] que utiliza colas
 
 
