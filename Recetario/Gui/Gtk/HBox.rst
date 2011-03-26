@@ -1,3 +1,4 @@
+## page was renamed from Recetario/Gtk/HBox
 ## page was renamed from GtkHBox
 == GtkHBox ==
 
