@@ -1,3 +1,4 @@
+## page was renamed from Recetario/Gtk/GladeHolaMundoOO
 ## page was renamed from GtkGladeHolaMundoOO
 == GtkGladeHolaMundoOO ==
 
