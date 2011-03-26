@@ -1,3 +1,4 @@
+## page was renamed from Recetario/Gtk/MultiThread
 ## page was renamed from GtkMultiThread
 == GtkMultiThread ==
 
