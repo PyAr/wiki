@@ -1,3 +1,4 @@
+## page was renamed from Recetario/GtkRunner
 = GtkRunner =
 
 ejemplo de como correr funciones que demoran sin bloquear la ui y obtener los resultados en el thread de gtk 
@@ -192,3 +193,6 @@ if __name__ == '__main__':
     main()
 
 }}}
+
+----
+ CategoryRecetas
