@@ -41,57 +41,57 @@ Es bueno /NormalizarCaracteresUnicode para hacer búsquedas en strings sin que s
 
 == Interfaces graficas ==
 === Gtk ===
-[[/Gtk/HolaMundo]] : una ventana que muestra el mensaje hola mundo
+[[/Gui/Gtk/HolaMundo]] : una ventana que muestra el mensaje hola mundo
 
-[[/Gtk/HolaMundoOO]] : una ventana que muestra el mensaje hola mundo programado utilizando orientacion a objetos
+[[/Gui/Gtk/HolaMundoOO]] : una ventana que muestra el mensaje hola mundo programado utilizando orientacion a objetos
 
-[[/Gtk/Entry]] : una ventana que solicita un valor y luego lo muestra en una ventana aparte
+[[/Gui/Gtk/Entry]] : una ventana que solicita un valor y luego lo muestra en una ventana aparte
 
-[[/Gtk/EntrySoloNumeros]]: un ejemplo de como permitir el ingreso de solo numeros en un gtk.Entry
+[[/Gui/Gtk/EntrySoloNumeros]]: un ejemplo de como permitir el ingreso de solo numeros en un gtk.Entry
 
-[[/Gtk/HBox]] : ejemplo que muestra como organizar elementos continuos horizontalmente
+[[/Gui/Gtk/HBox]] : ejemplo que muestra como organizar elementos continuos horizontalmente
 
-[[/Gtk/VBox]] : ejemplo que muestra como organizar elementos continuos verticalmente
+[[/Gui/Gtk/VBox]] : ejemplo que muestra como organizar elementos continuos verticalmente
 
-[[/Gtk/Grid]] : ejemplo que muestra como organizar elementos en forma de grilla
+[[/Gui/Gtk/Grid]] : ejemplo que muestra como organizar elementos en forma de grilla
 
-[[/Gtk/Button]] : ejemplo que muestra como crear botones de diversas maneras
+[[/Gui/Gtk/Button]] : ejemplo que muestra como crear botones de diversas maneras
 
-[[/Gtk/ButtonBox]] : ejemplo que muestra como crear botones y agruparlos en un contenedor
+[[/Gui/Gtk/ButtonBox]] : ejemplo que muestra como crear botones y agruparlos en un contenedor
 
-[[/Gtk/AutoComplete]] : ejemplo que muestra como crear un campo de texto con auto complesion
+[[/Gui/Gtk/AutoComplete]] : ejemplo que muestra como crear un campo de texto con auto complesion
 
-[[/Gtk/Dialog]] : ejemplo para crear dialogos modales
+[[/Gui/Gtk/Dialog]] : ejemplo para crear dialogos modales
 
-[[/Gtk/FileChooser]] : ejemplo que permite al usuario seleccionar un archivo
+[[/Gui/Gtk/FileChooser]] : ejemplo que permite al usuario seleccionar un archivo
 
-[[/Gtk/Menu]] :  ejemplo que mustra como crear un menu con distintos items
+[[/Gui/Gtk/Menu]] :  ejemplo que mustra como crear un menu con distintos items
 
-[[/Gtk/TextArea]] : ejemplo sobre manipulacion basica de un area de texto con scroll
+[[/Gui/Gtk/TextArea]] : ejemplo sobre manipulacion basica de un area de texto con scroll
 
-[[/Gtk/PrintNonGtk]] : ejemplo sobre como usar el dialogo de impresion de gtk en aplicaciones no gtk (que no usan el main loop de gtk)
+[[/Gui/Gtk/PrintNonGtk]] : ejemplo sobre como usar el dialogo de impresion de gtk en aplicaciones no gtk (que no usan el main loop de gtk)
 
-[[/Gtk/RichText]]: ejemplo sobre como insertar texto con formato basico a un textview
+[[/Gui/Gtk/RichText]]: ejemplo sobre como insertar texto con formato basico a un textview
 
-[[/Gtk/ConfirmClose]]: ejemplo sobre como solicitar confirmacion para el cierre de una ventana
+[[/Gui/Gtk/ConfirmClose]]: ejemplo sobre como solicitar confirmacion para el cierre de una ventana
 
-[[/Gtk/MultiThread]]: ejemplo de como manipular la GUI desde múltiples threads sin usar locks (con colas)
+[[/Gui/Gtk/MultiThread]]: ejemplo de como manipular la GUI desde múltiples threads sin usar locks (con colas)
 
-[[/Gtk/MultiThread2]]: ejemplo de como manipular la GUI usando múltiples threads
+[[/Gui/Gtk/MultiThread2]]: ejemplo de como manipular la GUI usando múltiples threads
 
-[[/Gtk/Runner]] ejemplo de como correr funciones que demoran sin bloquear la ui y obtener los resultados en el thread de gtk
+[[/Gui/Gtk/Runner]] ejemplo de como correr funciones que demoran sin bloquear la ui y obtener los resultados en el thread de gtk
 
-[[/Gtk/LabelConColor]]: ejemplo de como cambiar el color de un label sin usar pango markup
+[[/Gui/Gtk/LabelConColor]]: ejemplo de como cambiar el color de un label sin usar pango markup
 
-[[/Gtk/XMLRPCServer]] Servidor XMLRPC dentro de un hilo gtk
+[[/Gui/Gtk/XMLRPCServer]] Servidor XMLRPC dentro de un hilo gtk
 
-[[/Gtk/StockItems]]: ejemplo que muestra todos los iconos stock de gtk con su respectivo nombre
+[[/Gui/Gtk/StockItems]]: ejemplo que muestra todos los iconos stock de gtk con su respectivo nombre
 
-[[/Gtk/WebkitEditor]]: ejemplo de como usar webkit para editar paginas HTML como si fuera un editor
+[[/Gui/Gtk/WebkitEditor]]: ejemplo de como usar webkit para editar paginas HTML como si fuera un editor
 
-[[/Gtk/StatusIcon]]: ejemplo de aplicación con ícono en el system tray.
+[[/Gui/Gtk/StatusIcon]]: ejemplo de aplicación con ícono en el system tray.
 
-[[/Gtk/ErorHandler]]: un ejemplo de capturar una excepción y mostrarla en un dialogo modal
+[[/Gui/Gtk/ErorHandler]]: un ejemplo de capturar una excepción y mostrarla en un dialogo modal
 
 === Gtk + glade ===
 GtkGladeHolaMundoOO : una ventana que muestra el mensaje hola mundo programado utilizando orientacion a objetos
