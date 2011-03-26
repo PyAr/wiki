@@ -1,3 +1,4 @@
+## page was renamed from GtkConfirmClose
 == GtkConfirmClose ==
 
 Ejemplo de como solicitar confirmación de cierre en una ventana
