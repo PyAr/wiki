@@ -1,3 +1,4 @@
+## page was renamed from Recetario/Gtk/EntrySoloNumeros
 ## page was renamed from GtkEntrySoloNumeros
 = GtkEntrySoloNumeros =
 
