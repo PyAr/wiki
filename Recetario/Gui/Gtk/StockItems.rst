@@ -1,3 +1,4 @@
+## page was renamed from Recetario/Gtk/StockItems
 ## page was renamed from Recetario/GtkStockItems
 = Gtk stock items =
 
