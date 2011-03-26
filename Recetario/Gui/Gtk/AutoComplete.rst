@@ -1,3 +1,4 @@
+## page was renamed from Recetario/Gtk/AutoComplete
 ## page was renamed from GtkAutoComplete
 = Gtk Auto Complete =
 
