@@ -1,3 +1,4 @@
+## page was renamed from Recetario/Gtk/XMLRPCServer
 ## page was renamed from Recetario/GtkXMLRPCServer
 Servidor XMLRPC dentro de un hilo gtk
 
