@@ -1,3 +1,4 @@
+## page was renamed from Recetario/Gtk/VBox
 ## page was renamed from GtkVBox
 == GtkVBox ==
 
