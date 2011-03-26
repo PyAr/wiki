@@ -1,3 +1,4 @@
+## page was renamed from Recetario/Gtk/ErorHandler
 ## page was renamed from Recetario/GtkErorHandler
 = GtkErrorHandler =
 
