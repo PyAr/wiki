@@ -1,3 +1,4 @@
+## page was renamed from GtkPrintNonGtk
 = GtkPrintNonGtk =
 
 Este ejemplo muestra como usar gtk para mostrar el dialogo de imprimir pero sin usar el main loop.
