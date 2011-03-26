@@ -1,3 +1,4 @@
+## page was renamed from Recetario/Gtk/StatusIcon
 ## page was renamed from Recetario/GtkStatusIcon
 == GtkStatusIcon ==
 
