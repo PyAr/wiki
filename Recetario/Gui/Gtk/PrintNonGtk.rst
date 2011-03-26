@@ -1,3 +1,4 @@
+## page was renamed from Recetario/Gtk/PrintNonGtk
 ## page was renamed from GtkPrintNonGtk
 = GtkPrintNonGtk =
 
