@@ -1,3 +1,4 @@
+## page was renamed from Recetario/Gtk/LabelConColor
 ## page was renamed from GtkLabelConColor
 = Gtk Label Con Color =
 
