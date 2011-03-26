@@ -90,6 +90,10 @@ Continuar ZODBBrowser: un browser de zodb hecho en zope2. Ver [[http://code.goog
 
  * RobertoAllende (sabado y domingo)
 
+[[https://launchpad.net/geoarcade|GeoArcade]]: Queremos hacer un pequeño sitio con Djagno y [[http://www.openstreetmap.org/index.html?mlat=-31.1&mlon=-64.5&zoom=15|OpenStreetMap]] donde se puedan encontrar salas de arcades (fichines) en todo el mundo.
+
+  * [[GonzaloDelgado|Gonzalo Delgado]]
+
 === Otros temas que no son necesariamente proyectos de código ===
  * [FacundoBatista] Me gustaría que charlemos sobre un posible Concurso de Algo para Estudiantes de Secundario.
 
