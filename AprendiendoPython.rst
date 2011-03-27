@@ -52,9 +52,6 @@ Ahora, ¿a dónde podrías recurrir para obtener información que te inicie en l
  * Introducción a Python y PostgreSQL Un ejemplo sencillo
   . [[http://users.servicios.retecal.es/tjavier/docfinal/out-htmls/index.html|Introduccion a python/postgresql]] Tomás Javier Robles Prado 2002
 
- * Implementando el patrón MVC con Webware-WebKit y PySQLite en la Web
-  . [[http://pythonmexico.org/index_html/doc/mvc1/mvc.html|Patron MVC]] César Cárdenas '''(link roto)'''
-
  * Procesando archivos XML con minidom, que forma parte de la libreria estandar de Python
   . [[http://sbassi.googlepages.com/leyendoxmlenpython:dom2|Introducción a Minidom]] SebastianBassi.
 
