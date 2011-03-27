@@ -3,7 +3,7 @@ Antes que nada ¡FELICITACIONES!
 
 Ahora, ¿a dónde podrías recurrir para obtener información que te inicie en la programación ''pythonesca''? Bueno, estos son algunos libros que se propusieron en la ListaDeCorreo. De todos modos, no dudes en preguntar.
 
- * [[http://openbookproject.net/thinkcs/python/english2e/|How to Think Like a Computer Scientist]] (Python 2.x) es de conceptos generales de programación usando Python.  Hay una versión en español llamada [[http://manuales.gfc.edu.co/python/tlc/thinkCSpy.es.pdf|Aprenda a pensar como un programador (con Python)]].
+ * [[http://greenteapress.com/thinkpython/thinkpython.html|How to Think Like a Computer Scientist]] (Python 2.x) es de conceptos generales de programación usando Python.  Hay una versión en español llamada [[http://manuales.gfc.edu.co/python/tlc/thinkCSpy.es.pdf|Aprenda a pensar como un programador (con Python)]].
 
  * [[http://www.byteofpython.info|Byte of Python]] es un libro para iniciarse en Python, el autor proclama que es para quien lo unico que sabe de computación es grabar un archivo. Actualmente cuenta con ediciones para Python 2.x y 3.
 
