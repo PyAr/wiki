@@ -21,7 +21,10 @@
 ##[[http://python.org.ar/pyar/CharlasAbiertas2010|{{attachment:banner_charlas_abiertas.png}}]]
 <<Twitter(usuario="planetapyar")>>
 
+== Últimas noticias ==
+<<Include(Noticias, , ,from="ULTIMAS_START", to="ULTIMAS_END")>>
 
+<<BR>>
 
 == Contenido ==
 
@@ -51,9 +54,6 @@
 
  * [[Donaciones]]: ¡Donale una moneda a PyAr!
  
-
-== Últimas noticias ==
-<<Include(Noticias, , ,from="ULTIMAS_START", to="ULTIMAS_END")>>
 
 <<BR>>
 
