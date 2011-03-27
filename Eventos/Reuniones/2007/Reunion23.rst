@@ -1,3 +1,4 @@
+## page was renamed from Eventos/Reuniones/Reunion23
 ## Template para minutas de reunión
 = Reunión 23 - 11/08/2007 - Except =
 
