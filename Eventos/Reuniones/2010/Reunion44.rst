@@ -1,3 +1,4 @@
+## page was renamed from Eventos/Reuniones/2011/Reunion44
 ## page was renamed from Eventos/Reuniones/Reunion44
 == Reunión 44 - Jueves 26 de Agosto - Ciudad de Buenos Aires, en el bar de la esquina de Medrano y Guardia Vieja - 19hs ==
 
