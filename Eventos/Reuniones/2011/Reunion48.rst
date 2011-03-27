@@ -7,9 +7,7 @@ Reunión 48 - 26 de Marzo del 2011 - La Falda, Provincia de Córdoba
 Temas
 =====
 
-- asasd
-- asdasd                                                                                                                                                                                                                                                                                                                                            
-
+* `Meta Pycamp`_
 
 Asistentes
 ==========
