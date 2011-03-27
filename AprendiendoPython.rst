@@ -36,7 +36,7 @@ Ahora, ¿a dónde podrías recurrir para obtener información que te inicie en l
   . [[http://users.servicios.retecal.es/tjavier/python/Un_poco_de_Python-2.html|Un poco de python]] Tomás Javier Robles Prado
 
  * Pequeña introducción al lenguaje Python.
-  . [[http://usuarios.lycos.es/arturosa/pag/documentacion/minipython.html|MiniPython]] Arturo Suelves Albert (2001)
+  . [[http://usuarios.lycos.es/arturosa/pag/documentacion/minipython.html|MiniPython]] (Link roto) Arturo Suelves Albert (2001)
 
  * Curso intensivo de introducción mínima al lenguaje de programación.
   . [[http://usuarios.lycos.es/arturosa/pag/documentacion/pythoninstantaneo.html|Python Instantáneo]] Magnus Lie Hetland  - Traducción de Marcos Sánchez Provencio
