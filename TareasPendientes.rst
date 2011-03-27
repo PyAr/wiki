@@ -20,8 +20,6 @@ PyArTrac https://opensvn.csie.org/traccgi/PyAr/trac.cgi/wiki/
  * Completar la data de [[Eventos/Conferencias]]. Hubo por lo menos una charla más en otra conferencia.
  Evaluar si vale la pena abrir una página por cada conferencia (como hacemos con las reuniones).
 
- * Darle contenido a la página de [[Proyectos/Caucho]] y [[Proyectos/Caucho/ActionSprite]].
-
  * Escalar las fotos adjuntas a algunas páginas, para que queden de un tamaño razonable (hoy son muy grandes y pesadas).
 
  * Hacer que los usuarios puedan dejar comentarios en el Wiki (ver con qué restricciones...)
