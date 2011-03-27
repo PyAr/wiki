@@ -55,6 +55,7 @@
  * MarcosDione
  * MarcosVanetta
  * MarianoCortesi
+ * MarianoVerdu
  * MarianoGalan
  * MarianoGuerra
  * MarianoMara
