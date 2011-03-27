@@ -4,7 +4,7 @@ Un [[MiembrosDePyAr|grupo de entusiastas de Python]], que decidió aunar esfuerz
 
 == ¿Qué hacemos? ==
 
-Organizamos [[Eventos|reuniones]] donde debatimos ideas, mantenemos una ListaDeCorreo a través de la cual nos comunicamos, creamos y mantenemos este portal, el cual pretendemos que tenga contenido útil tanto para los miembros de PyAr como para toda aquella persona que se interese por Python. Hoy estamos abocados a lograr evolucionar como grupo, contribuyendo con diversos proyectos.
+Organizamos [[Eventos|eventos]] de distinto tipo para difundir el lenguaje y [[Eventos|reuniones]] donde debatimos ideas, mantenemos una ListaDeCorreo a través de la cual nos comunicamos, creamos y mantenemos este portal, el cual pretendemos que tenga contenido útil tanto para los miembros de PyAr como para toda aquella persona que se interese por Python. Hoy estamos abocados a lograr evolucionar como grupo, contribuyendo con diversos proyectos.
 
 == ¿Cómo surgió? ==
 
@@ -15,7 +15,3 @@ A mediados del 2004, el sitio era gratuito y "ranqueaba" alto en los resultados 
 == ¿Cómo participar? ==
 
 Suscribiéndote a la ListaDeCorreo, registrándote en el portal, asistiendo a cualquiera de nuetros [[Eventos]], aportando ideas. También tenemos un canal de IRC. El servidor es `irc.freenode.net`, y el nombre del canal es `#pyar`. Podés ingresar vía Web [[http://webchat.freenode.net/?channels=pyar|aquí]] o [[IRC|aquí]]. Si querés colaborar aportando contenido al Wiki, o ayudando en su mantenimiento, también es posible. Por favor, leé ContribuyendoAlWiki.
-
-== ¿Qué puedo esperar de PyAr en el futuro? ==
-
-Qué el grupo crezca, se consolide y organice formalmente. Que podamos brindar aportes útiles a la sociedad, tales como una ''Bolsa de Empleos'' relacionados con Python. Que podamos asesorar a empresas en la utilización de Python. Que comencemos a organizar eventos y seminarios en universidades, foros y empresas. Que promovamos sprints periódicos en los que podamos desarrollar o mejorar productos de software. Que nos contactemos con otros grupos de usuarios de Latinoamérica, y coordinemos esfuerzos con ellos. <<Anchor(SPRINT)>>
