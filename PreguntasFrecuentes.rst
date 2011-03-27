@@ -303,6 +303,7 @@ SebastianBassi pregunto en este hilo: http://mx.grulic.org.ar/lurker/thread/2009
 
 sobre en que casos convenia usar el modulo de la libreria estandar array por sobre una lista comun.
 
+
 La respuesta de GabrielGenellina fue:
 
 El array de la libreria estandar es un "chorizo" de elementos, todos del mismo tipo, pero tipos nativos (no objetos; por ejemplo "unsigned long integer"). Es unidimensional, y no tiene casi métodos. El array de Numpy también guarda tipos nativos, pero es multidimensional, y tiene un montón de métodos y operaciones definidos.
