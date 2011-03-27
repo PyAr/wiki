@@ -4,15 +4,6 @@
  . Estas son organizaciones y empresas argentinas que utilizan python regularmente de distintas formas<<FootNote(Por orden alfabético.)>>.
 
 == Organizaciones ==
-=== Advanta Semillas ===
- * Contacto: <<MailTo(sebastian DOT bassi AT advantasemillas DOT com DOT ar, Sebastián Bassi)>>
-
- * URL: http://www.advantasemillas.com.ar
-
- * Dirección postal: Ruta 226 Km 60.5. (7620), Balcarce.
-
- * ¿De qué forma usamos Python?: Se usa para manipulación de datos. Basicamente se usa para procesar los datos provenientes del campo y de los secuenciadores de ADN y luego para incluirlos en una base de datos de marcadores moleculares. También para algunas aplicaciones web de uso interno (como CGI).
-
 === Atommica ===
  * Contacto: <<MailTo(mconte AT atommica DOT com, Martín Conte Mac Donell)>>
 
@@ -51,8 +42,6 @@
 
  * RicardoKirkner y SantiagoPereson trabajaban en el proyecto.
 
-=== Hansa World Argentina ===
- * URL: http://www.hansaworld.com.ar/
 
 === Hector E. Nardelli S.A. ===
  * Contacto: <<MailTo( ariel DOT nardelli AT hensa DOT com DOT ar, Panflin)>>
