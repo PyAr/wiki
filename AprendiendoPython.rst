@@ -5,11 +5,11 @@ Ahora, ¿a dónde podrías recurrir para obtener información que te inicie en l
 
  * [[http://openbookproject.net/thinkcs/python/english2e/|How to Think Like a Computer Scientist]] (Python 2.x) es de conceptos generales de programación usando Python.  Hay una versión en español llamada [[http://manuales.gfc.edu.co/python/tlc/thinkCSpy.es.pdf|Aprenda a pensar como un programador (con Python)]].
 
- * [[http://www.byteofpython.info|Byte of Python]] es un libro para iniciarse en Python, el autor proclama que es para quien lo unico que sabe de computación es grabar un archivo.
+ * [[http://www.byteofpython.info|Byte of Python]] es un libro para iniciarse en Python, el autor proclama que es para quien lo unico que sabe de computación es grabar un archivo. Actualmente cuenta con ediciones para Python 2.x y 3.
 
- * [[http://www.diveintopython.org/|Dive into Python]], está en varios idiomas, se viene escribiendo/actualizando hace bastante, y viene con Ubuntu. [[http://almacen.gulic.org/diveintopython-5.4-es/|Inmersión en Python]] es la versión en castellano y ya han sido traducidos algunos capitulos.
+ * [[http://www.diveintopython.org/|Dive into Python]], está en varios idiomas, se viene escribiendo/actualizando hace bastante, y viene con Ubuntu. [[http://almacen.gulic.org/diveintopython-5.4-es/|Inmersión en Python]] es la versión en castellano y ya han sido traducidos algunos capitulos. También tiene versiones para Python 2.x y 3.
 
- * [[http://www.hetland.org/python/instant-python.php|Instant Python]] es un curso de entrenamiento corto e intensivo.
+ * [[http://www.hetland.org/python/instant-python.php|Instant Python]] es un curso de entrenamiento corto e intensivo. ([[http://www.arrakis.es/~rapto/AprendaPython.html|Versión en español]]).
 
  * [[http://compbiol.plosjournals.org/perlserv/?request=get-document&doi=10.1371/journal.pcbi.0030199|A Primer on Python for Life Science Researchers]], versión en forma de publicación científica del trabajo anterior. La principal diferencia es que está versión ha sido revisada por el sistema de peer-review que se usa para las publicaciones científicas.
 
