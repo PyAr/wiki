@@ -145,7 +145,7 @@ Juegos de Mesa:
    Pablo M - Facundo B            
    Alecu - Humitos                         Alecu - Humitos
 
-   John - Mariano
+   John - Mariano                          John - Mariano
    SAn - Joac
 
 
