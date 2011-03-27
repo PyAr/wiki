@@ -1,3 +1,4 @@
+## page was renamed from Eventos/Reuniones/Reunion36
 = Reunión 36 - Sábado 02/05/09 - Bar el Cairo, Rosario =
 
 == Asitieron ==
