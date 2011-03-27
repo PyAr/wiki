@@ -37,7 +37,7 @@ Ahora, ¿a dónde podrías recurrir para obtener información que te inicie en l
   . [[http://usuarios.lycos.es/arturosa/pag/documentacion/minipython.html|MiniPython]] (Link roto) Arturo Suelves Albert (2001)
 
  * Curso intensivo de introducción mínima al lenguaje de programación.
-  . [[http://usuarios.lycos.es/arturosa/pag/documentacion/pythoninstantaneo.html|Python Instantáneo]](Link roto) Magnus Lie Hetland  - Traducción de Marcos Sánchez Provencio
+  . [[http://users.servicios.retecal.es/tjavier/python/Pequeno_tutorial_de_Pyhton.html|Python Instantáneo]](Link roto) Magnus Lie Hetland  - Traducción de Marcos Sánchez Provencio
 
  * Guía para alguien que no tiene experiencia previa en programación.
   . [[http://honors.montana.edu/~jjc/easytut/easytut_es/|Tutor para No-Programadores]] Josh Cogliati 1999-2002 - Traducción Victor M. Rosas Garcia. '''(link roto)'''
