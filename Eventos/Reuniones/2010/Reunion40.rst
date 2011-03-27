@@ -1,3 +1,4 @@
+## page was renamed from Eventos/Reuniones/Reunion40
 = Reunión 40 - Sábado 06/03/10 - Durante el PyCamp, en Verónica =
 
 == Asistieron ==
