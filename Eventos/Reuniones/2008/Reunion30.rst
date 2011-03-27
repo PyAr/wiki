@@ -1,3 +1,4 @@
+## page was renamed from Eventos/Reuniones/2011/Reunion30
 ## page was renamed from Eventos/Reuniones/Reunion30
 = Reunión 30 - Jueves 21/08/2008 - Bar "El Clásico", Buenos Aires =
 
