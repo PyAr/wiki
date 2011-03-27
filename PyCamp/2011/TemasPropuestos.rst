@@ -119,8 +119,8 @@ Juegos de Mesa:
                                                                Clasificados  (dif de gol)
 +---------------------------------------------------+         
 | Alecu - Humitos --> Elsurexiste - Facundo C.      |  5 - 0
-| Alecu - Humitos --> John - Mariano Verdu          |  3 - 5   1° +7  John - Mariano Verdu
-| John - Mariano Verdu --> Elsurexiste - Facundo C. |  5 - 0   2° +3  Alecu - Humitos
+| Alecu - Humitos --> j0hn - Mariano Verdu          |  3 - 5   1° +7  j0hn - Mariano Verdu
+| j0hn - Mariano Verdu --> Elsurexiste - Facundo C. |  5 - 0   2° +3  Alecu - Humitos
 +---------------------------------------------------+
 
 
@@ -144,8 +144,8 @@ Juegos de Mesa:
 
    Pablo M - Facundo B            
    Alecu - Humitos                         Alecu - Humitos
-
-   John - Mariano                          John - Mariano
+                                                                      j0hn - Mariano
+   j0hn - Mariano                          j0hn - Mariano
    SAn - Joac
 
 
