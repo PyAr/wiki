@@ -48,9 +48,6 @@ Según la [[http://c2.com/cgi/wiki?PythonSprint|Portland Pattern Repository's Wi
 
 Probablemente los sprints de PyAr no duren 3 a 5 días, al menos al principio... ni contamos con tener una audiencia multinacional. Pero pensamos divertirnos, aprender, y hacer algo útil.
 
-=== ¿Qué es el ''Hip Bar''? ===
-El Hip Bar es el pub donde organizamos la mayoría de los encuentros en Capital Federal. Durante mucho tiempo, estuvimos creídos que el lugar se llamaba ''Hip Hop''... si encontrás en el portal o en la lista referencias a ese lugar, tené en cuenta que se trata del mismo pub. Para mayor información (dirección, fotos), tenemos una página dedicada al HipBar.
-
 === ¿Como contribuyo al Wiki? ===
 En la sección ContribuyendoAlWiki vas a encontrar todo ('''todo''' se refiere a dos cositas nomás) lo que necesitás para poder empezar a contribuir al wiki.
 
