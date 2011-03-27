@@ -33,7 +33,7 @@ Ahora, ¿a dónde podrías recurrir para obtener información que te inicie en l
   . [[http://python.org.ar/pyar/Tutorial|Guia de Aprendizaje de Python]] Autor original Guido van Rossum, traducido por PyAr
 
  * Completa introducción a Python.
-  . [[http://users.servicios.retecal.es/tjavier/python/Un_poco_de_Python.html|Un poco de python]] Tomás Javier Robles Prado
+  . [[http://users.servicios.retecal.es/tjavier/python/Un_poco_de_Python-2.html|Un poco de python]] Tomás Javier Robles Prado
 
  * Pequeña introducción al lenguaje Python.
   . [[http://usuarios.lycos.es/arturosa/pag/documentacion/minipython.html|MiniPython]] Arturo Suelves Albert (2001)
