@@ -1,4 +1,4 @@
-== ¿Quienes Somos? ==
+== ¿Quiénes Somos? ==
 
 Un [[MiembrosDePyAr|grupo de entusiastas de Python]], que decidió aunar esfuerzos para crear una comunidad local como marco de referencia para la aplicación, difusión y mejora de este lenguaje.
 
