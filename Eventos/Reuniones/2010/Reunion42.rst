@@ -1,3 +1,4 @@
+## page was renamed from Eventos/Reuniones/2011/Reunion42
 ## page was renamed from Eventos/Reuniones/Reunion42
 == Reunión 42 - 28 de Mayo de 2010 - Bar Dr Mason, Buenos Aires - 19:00 ==
 '''Edición Pycentenario'''
