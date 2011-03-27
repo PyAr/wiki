@@ -8,6 +8,10 @@ Temas
 =====
 
 * `Meta Pycamp`_
+* `Mujeres, newbies y brecha pycamp`_
+* `Pycon USA 2011`_
+* `Wiki Pyar`_
+* `Lista de correo`_
 
 Asistentes
 ==========
