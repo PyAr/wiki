@@ -1,3 +1,4 @@
+## page was renamed from Eventos/Reuniones/Reunion29
 = Reunión 29 - 09/05/08 - Bar "Plataforma", Santa Fe =
 
 == Asistentes ==
