@@ -1,3 +1,4 @@
+## page was renamed from Eventos/Reuniones/Reunion33
 ## Template para minutas de reunión
 = Reunión 33 - 15/11/2008 - Balcarce Lounge, Rosario =
 == Temas ==
