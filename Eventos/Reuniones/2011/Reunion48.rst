@@ -69,4 +69,27 @@ __________
 - humitos quiere que salga un evento en Entre Rios, necesita una mano.
 - Facundo, propone que enviemos un mail para ser mentores del próximo pyday (30 de Abril).
 - Roberto Alsina propone que el Martes escribe algo de pycamp en su blog en inglés para que se publique en el planeta de python, cada uno tendría que escribir algo en su blog.
+
+
+Pycon USA 2011
+--------------
+- Pypy cumple con el 99% de Python 2.6 y es más rápido que CPython... se le da bola a CPython.
+- 3 Días de conferencia y 4 días de sprint, PSF preparará un folleto muy elegante para difundir python a empresas.
+- PyCon ¿Cómo ir?: hay becas (media) pero hay que inscribirse, una propuesta de charla es una buena forma de obtener un lugar, priorizan charlas sobre comunidad.
+- Hay otros eventos, en el circuito local, nos podemos dedicar a estos para lograr acceso a los eventos internacionales.
+
+
+Wiki Pyar
+---------
+- Como hacemos una front page, ¿Qué se ofrece? y Maxi cuenta que se anima a comenzar en 3 o 4 semanas.
+- Hacerlo privado, se necesitan colaboradores.
+- Alsina saca las revetas del wiki ¿En una semana?. Se ve el domingo a la mañana.
+
+
+Lista de correo
+---------------
+- Sugerimos que neceistamos un mail de bienvenida, citando lo que es pyar y cómo el subscriptor puede conocer mejor a la comunidad.
+- Está bueno que la binvenida sea cordial acorde a que la gente nueva se sienta cómoda y se sume al proyecto.
+- Está bueno que mencione el recetario y la wiki.
+
 }}}
