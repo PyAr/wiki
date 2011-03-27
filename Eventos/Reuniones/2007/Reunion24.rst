@@ -1,3 +1,4 @@
+## page was renamed from Eventos/Reuniones/Reunion24
 ## Template para minutas de reunión
 = Reunión 24 - 19/09/2007 - Hip Bar, Buenos Aires =
 
