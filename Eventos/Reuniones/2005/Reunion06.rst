@@ -1,3 +1,4 @@
+## page was renamed from Eventos/Reuniones/Reunion06
 ## page was renamed from Eventos/Reuniones/ReunionSeis
 ## page was renamed from Eventos/ReunionSeis
 #language es
