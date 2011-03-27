@@ -1,3 +1,4 @@
+## page was renamed from Eventos/Reuniones/Reunion25
 ## Template para minutas de reunión
 = Reunión 25 - 16/02/2008 - Centro Allen Gardiner, Los Cocos, Córdoba =
 
