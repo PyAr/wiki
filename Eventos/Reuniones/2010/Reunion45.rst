@@ -1,3 +1,4 @@
+## page was renamed from Eventos/Reuniones/2011/Reunion45
 ## page was renamed from Eventos/Reuniones/Reunion45
 == Reunión 45 - Jueves 16 de Diciembre - Ciudad de Buenos Aires, en el bar de la esquina de Medrano y Guardia Vieja - 19hs ==
 
