@@ -87,4 +87,4 @@ Ahora, ¿a dónde podrías recurrir para obtener información que te inicie en l
  * Charlas Abiertas de Python, organizadas por Python Argentina
   . [[CharlasAbiertas2010#Charlas Realizadas|Lista de charlas realizadas]] (Español)
 
-'' Links revisados al 03/03/2008 ''
+'' Links revisados al 27/03/2011 ''
