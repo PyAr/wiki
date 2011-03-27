@@ -20,8 +20,6 @@ Ahora, ¿a dónde podrías recurrir para obtener información que te inicie en l
    * [[http://rgruet.free.fr/PQR25/PQR2.5.html|Python 2.5 Quick Reference]]
    * [[http://rgruet.free.fr/PQR24/PQR2.4.html|Python 2.4 Quick Reference]]
 
- * Listado de [[Ejercicios]] para practicar Python.
-
  * Para los impacientes, para quienes quieren impresionar al jefe, para los que gustan de las ejemplos cortos, simples y efectivos, están estos MiniEjemplos.
 
  * Y por último, el único, original e inimitable, clásico de clásicos que casi todos en la lista usamos para empezar: el [[http://www.python.org/doc/tut/|Tutorial de Python]]. '''Hay gente de la lista que hizo una traducción al castellano''', esta disponible en http://tutorialpython.com.ar/
