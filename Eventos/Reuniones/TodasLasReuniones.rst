@@ -4,9 +4,7 @@
 = Indice de reuniones realizadas =
 
 == 2004 ==
-
 <<PageList(regex:^Eventos/Reuniones/2004/Reunion[0-9]+)>>
-
 == 2005 ==
 <<PageList(regex:^Eventos/Reuniones/2005/Reunion[0-9]+)>>
 == 2006 ==
