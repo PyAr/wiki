@@ -1,3 +1,4 @@
+## page was renamed from Eventos/Reuniones/Reunion34
 #acl Known:read,write All:read
 #language es
 = Reunión 34 - Miércoles 03/12/2008 - Bar "El Imaginario Cultural", Buenos Aires - 19:30hs =
