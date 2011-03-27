@@ -1,3 +1,4 @@
+## page was renamed from Eventos/Reuniones/Reunion39
 == Reunión 39 - Martes 17/11 - Buenos Aires - 19:00 Hs ==
 '''Temas:'''
 
