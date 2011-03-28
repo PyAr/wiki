@@ -18,4 +18,4 @@ Participamos en eventos de Software Libre con temas concernientes a Python.
 <<Anchor(conferencias)>> <<Include(Eventos/Conferencias, ,editlink)>>
 
 ----
- <<FootNote>>
+<<FootNote>>
