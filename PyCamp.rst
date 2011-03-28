@@ -22,5 +22,6 @@ La próxima edición se realizará en La Falda, Córdoba, durante los días 24, 
  * Primera edición, Los Cocos, Córdoba. Marzo de 2008.
  * Segunda edición, [[PyCamp/2009|Los Cocos, Córdoba. Marzo de 2009]].
  * Tercera edición, [[PyCamp/2010|Veronica, Buenos Aires. Marzo de 2010]].
+ * Cuarta edición, [[PyCamp/2011|La Falda, Córdoba. Marzo de 2011]].
 ----
 CategoryCategory CategoryPyCamp
