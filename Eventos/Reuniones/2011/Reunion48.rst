@@ -16,8 +16,14 @@ Temas
 Asistentes
 ==========
 
+Ver [[http://python.org.ar/pyar/PyCamp/2011/Interesados|Acá]]
+
+
 Lugar
 =====
+
+Hotel El Brigadier, La Falda, Córdoba
+
 
 Minuta
 ======
