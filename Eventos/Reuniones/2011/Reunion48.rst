@@ -16,7 +16,7 @@ Temas
 Asistentes
 ==========
 
-Ver [[http://python.org.ar/pyar/PyCamp/2011/Interesados|Acá]]
+Ver [[http://python.org.ar/pyar/PyCamp/2011/Interesados|acá]].
 
 
 Lugar
