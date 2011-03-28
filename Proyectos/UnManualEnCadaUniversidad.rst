@@ -30,7 +30,7 @@ Si estas cerca o tenes alguna relación con una universidad que no tiene el Tuto
 ||Samanta Fernandez ||<<MailTo(  samanta.fernandez EN  gmail PUNTO com)>> ||UTN - FRCU (C. del Uruguay, Entre Ríos) ||(2) ||
 ||Juan Martin Muguerza ||<<MailTo(  juanma EN  gnutn PUNTO org PUNTO ar)>> ||UTN Facultad Regional Buenos Aires ||(1) ||
 ||Agustin Henze ||<<MailTo(  agustinhenze EN  gmail PUNTO com)>> ||UTN Regional Córdoba ||(2) ||
-||Daniel F. Moisset ||<<MailTo(  dmoisset EN  machinalis PUNTO com)>> ||FaMAF, Univ. Nac. de Córdoba ||(3) ||
+||Daniel F. Moisset ||<<MailTo(  dmoisset EN  machinalis PUNTO com)>> ||FaMAF, Univ. Nac. de Córdoba ||(4) 20351 ||
 ||Andres Pardini ||<<MailTo(  unpardos EN  gmail PUNTO com)>> ||UNLP facultad informatica ||(1) ||
 ||Santiago Banchero ||<<MailTo(  santiagobanchero EN  gmail PUNTO com)>> ||Universidad Nacional de Luján (Centro Regional Chivilcoy) ||(1) ||
 ||Diego Gaspar ||<<MailTo(  armandogaspar EN  gmail PUNTO com)>> ||Universidad Nacional de Cuyo y otros ||(1) ||
