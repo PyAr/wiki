@@ -16,7 +16,11 @@ Respecto  la version anterior en graphviz que se puede ver [[http://python.org.a
 == zodbbrowser ==
 #Fixme Completar
 == pep8fy ==
-#Fixme Completar
+
+[[https://bitbucket.org/edvm/pep8fy|Pep8fy]] fue una idea de RobertoAlsina y como su nombre lo indica, es un pep8ficador de código. La popular herramienta [[http://pypi.python.org/pypi/pep8|pep8.py]] se limita a ejercer el poder acusador de decirte que tu código no pasa la PEP8. En cambio, Pep8fy aspira a hacer esta tarea automáticamente. 
+La arquitectura es muy simple: con el modulo tokenizer se obtiene una lista de tokens del módulo a pep8ficar que se manipulan mediante una serie de filtros (uno para cada regla definida en la PEP8) y al final se regenera el código con la lista de tokens alterados. 
+Se lograron algunos filtros, pero es un trabajo en desarrollo. 
+
 == modulo video pilas ==
 #Fixme Completar
 == i18n pilas ==
@@ -26,6 +30,10 @@ Respecto  la version anterior en graphviz que se puede ver [[http://python.org.a
 == twisted 3 ==
 #Fixme Completar
 == cdpedia ==
-#Fixme Completar
+
+Viejos y nuevos contribuyentes al hermoso y noble proyecto [[http://code.google.com/p/cdpedia/|CDPedia]] estuvimos laburando en algunas tareas para obtener la version 0.7 . A partir de los cambios realizados, se empaquetará un nuevo DVD de CDPedia para presentar a Educ.ar que tiene firme interés en enviar copias de esta enciclopedia a todas las escuelas del pais. 
+
+Algunos cambios importantes fueron el empaquetado de imágenes en bloques, que permite un aprovechamiento importante en el espacio utilizado. Tambien se creó un generador de "bogus" al vuelo. (la imágen que se muestra cuando la imágen original no está en el CD) que suprime el problema de la variedad de tamaños y la posibilidad de que se vean feos por forzar las dimensiones. . Algunas funciones fueron mejoradas:o la obtención de un artículo al azar ahora se realiza mediante una redirección http que cambia la URL (antes cambiaba el contenido aleatoriamente, pero la url se mantenia en \al_azar). Por último, retoques de CSS y plantillas. 
+
 == bugday ==
 #Fixme Completar
