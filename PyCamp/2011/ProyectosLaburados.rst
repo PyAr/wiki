@@ -2,7 +2,7 @@
 
 Esta es una lista de los proyectos sobre los que trabajamos durante el PyCamp y que fueron presentados durante el cierre del mismo.
 
- * geoarcade
+ * [[https://launchpad.net/geoarcade|geoarcade]]
  * pilasnet
  * grafo wiki PyAr
  * faldatouch
