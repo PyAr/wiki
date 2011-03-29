@@ -1,4 +1,5 @@
-= Folletos =
+= Material =
+== Folletos ==
 
 De uso general 01 (por Cesar Portela): [[attachment:folletoPython01.svg]] / [[attachment:folletoPython01.pdf]]
 
@@ -11,12 +12,12 @@ Este archivo utiliza el font [[attachment:FolletosCarteles/DejaVuSansCondensed.t
 sudo apt-get install ttf-dejavu
 }}}
 
-= Logo =
+== Logo ==
 
  * --( El logo de PyAr, en vectorial: [[attachment:pyar.zip]] )-- 
  * El logo de PyAr, en vectorial: [[attachment:logo-pyar-2009.svg]] (hecho con inkscape)
 
-= Carteles para las 8JRSL =
+== Carteles para las 8JRSL ==
 
 Están hechos con Inkscape.
 
@@ -24,11 +25,11 @@ Están hechos con Inkscape.
  * Sorteo: [[attachment:Eventos/Conferencias/8JRSL/Carteles/sorteo.svg|sorteo.svg]]
  * Cartelera de Trabajos: [[attachment:Eventos/Conferencias/8JRSL/Carteles/Trabajos.odt|Trabajos.odt]] [[attachment:Eventos/Conferencias/8JRSL/Carteles/labura.svg|labura.svg]]
 
-= PyCon 2010 =
+== PyCon 2010 ==
 
 Diseños para /PyCon 2010
 
-= Banners para Eventos =
+== Banners para Eventos ==
 
 El logo de PyAr, Python Argentina, www.python.org.ar, el logo de Python y las franjas celestes de la bandera ya estan impresos. 
 
