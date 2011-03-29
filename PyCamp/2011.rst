@@ -51,6 +51,7 @@ Horarios: #FIXME
 
 == Programa ==
  . Ver [[PyCamp/2011/TemasPropuestos|Temas propuestos]]
+ . Ver [[PyCamp/2011/TemasDesarrollados|Temas desarrollados]]
 
 == Qué llevar? ==
  . Ver [[PyCamp/2011/QueLlevar|Lista de cosas a llevar]]
