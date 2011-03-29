@@ -3,9 +3,13 @@
 Esta es una lista de los proyectos sobre los que trabajamos durante el PyCamp y que fueron presentados durante el cierre del mismo.
 
 == Geoarcade ==
+
  * [[https://launchpad.net/geoarcade|geoarcade]]: Con el objetivo de introducir a nuevos en Django, aprender algo de spatial databases y jugar con HTML5, CSS3 y la base de datos de open street map, nació este pequeño proyecto. El proyecto es un localizador de Fichines o Arcades. Cualquier usuario se registra y puede agregar un nuevo fichín marcando su posición exacta en el mapa. Pronto estará deployado en algún lugar.
+
 == pilasnet ==
-#Fixme Completar
+
+Junté el reactor de twisted con el bucle de pygame de pilas, y levanté un twisted.manhole para que mucha gente pueda entrar a la instancia de pilas por ssh. Gracias a Juanjo Conti por su blogpost con una receta para usar manhole pude hacer todo esto en 15 minutos antes de las presentaciones del fin de PyCamp. Ahora le mandé a Hugo un diff para que si le gusta lo pueda emprolijar un poco e integrar a pilas.
+
 == Grafo wiki PyAr ==
 
 Estuvimos trabajando en un grafo navegable de los enlaces entre paginas del wiki.
