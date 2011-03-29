@@ -14,9 +14,9 @@ Ver acá__
 
 __ acá:PyCamp/2011/Interesados
 
------------
+-----
 Lugar
------------
+-----
 
 Hotel El Brigadier, La Falda, Córdoba
 
@@ -43,7 +43,7 @@ Notamos que podríamos recaudar fondos desde otros eventos, como
 pycon o con micro-donaciones.
 
 Conclusión
-===========
+__________
 
 - Tenemos que definir las fechas del pycamp antes.
 - Usar fondos para no necesitar recolectar el dinero de gastos tan cerca del pycamp.
@@ -59,14 +59,15 @@ poca cantidad de mujeres. ¿Qué podemos hacer en pyar para reducir esa
 brecha?. Se habló del tema anteriormente en la lista y una de las
 observaciones que hizo una de las chicas de la comunidad es que las chicas
 se sienten mas newbies, y que podríamos hacer algo para newbies.
-------
+
+
 Pablo M. Surgió la idea de hacer charlas para newbies, dadas por newbies con
 mentores. Lipe va a enviar un mail contando cómo es la propuesta
 PeerToPeer University, que se relaciona con este tema.
 
 
 Conclusión
-@@@@@@@@@@@
+__________
 
 - El pycamp es significativo, tenemos que escribir para difundirlo.
 - Tenemos que subir mas info de pycamp contando experiencias.
