@@ -31,3 +31,4 @@ Si usted se inscribe acá probablemente reciba emails contactándolo.
 ||Canicue  - <<MailTo(canicue EN gmail PUNTO com)>> ||Sí ||No ||Mar del Plata,trabajo remotamente ||
 ||EzequielMarquez ||                        ||                        ||S.M. de Tucumán, trabajo remotamente ||
 ||Daniel Ceillan  - <<MailTo(codigodaniel EN gmail PUNTO com)>> ||Sí ||Sí ||Disponible para viajar, europa preferentemente. ||
+||AdrianPardini || Si || Si || Preferentemente teletrabajo. Zona La Plata||
