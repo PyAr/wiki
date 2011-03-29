@@ -1,5 +1,7 @@
 = Trabajos con Python =
 == 2011 ==
+ * (29/03/2011) [[http://LeanderGames.com/|LeanderGames.com]] es una empresa en pleno crecimiento que está buscando un Python Developer que sepa HTML, CSS, Javascript y SQL. Si trabajó con Django mejor! <<BR>> Las tareas incluyen desarrollo de backend y reportes, prometemos grandes desafíos técnicos. Ofrecemos relación de dependencia, además el clima laboral es muy bueno! <<BR>> Enviar e-mail a <<MailTo(rrhh EN leandergames PUNTO com)>>
+
  * (06/03/2011) [[http://gs-mag.co.uk/|GS Mag]] Buscamos programador Python,con conocimiento BDMySQL/PostgresSQL/HTML/CSS/Javascript/EC2 S3, proyecto web/ios. Trabajo freelancer/relacion de dependencia. Buen nivel de ingles preferido. Enviar CV a <<MailTo(info EN gs-digital PUNTO co PUNTO uk)>>
 
  * (25/02/2011) El Instituto Nacional de Tecnología Agropecuaria (INTA) abrió un concurso para un puesto de Profesional de Gestión Externa (Graduado en Carrera de Grado en Informática o Ciencias de la Computación). Los datos de concurso, fechas importantes y el perfil lo pueden encontrar [[http://www.inta.gov.ar/rrhh/ingresos/seleccion/cirn/0072011/index.htm|aquí]]. El lugar de trabajo es el [[http://climayagua.inta.gov.ar|Instituto de Clima y Agua]].
