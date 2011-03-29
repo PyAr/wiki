@@ -1,35 +1,31 @@
 {{{#!rst
-
-==================================================================
+===================================================================
 Reunión 48 - 26 de Marzo del 2011 - La Falda, Provincia de Córdoba
-==================================================================
+===================================================================
 
-Temas
-=====
+.. contents:: Contenidos
 
-* `Meta Pycamp`_
-* `Mujeres, newbies y brecha pycamp`_
-* `Pycon USA 2011`_
-* `Wiki Pyar`_
-* `Lista de correo`_
-
+------------
 Asistentes
-==========
-
-Ver [[http://python.org.ar/pyar/PyCamp/2011/Interesados|acá]].
+------------
 
 
+Ver acá__
+
+__ acá:PyCamp/2011/Interesados
+
+-----------
 Lugar
-=====
+-----------
 
 Hotel El Brigadier, La Falda, Córdoba
 
-
+---------
 Minuta
-======
+---------
 
 Meta Pycamp
------------
+------------
 
 Nueces organizó pycamp, y comenta que a futuro sería bueno
 que podamos hacer que el pycamp sea mas económico para los
@@ -47,7 +43,7 @@ Notamos que podríamos recaudar fondos desde otros eventos, como
 pycon o con micro-donaciones.
 
 Conclusión
-__________
+===========
 
 - Tenemos que definir las fechas del pycamp antes.
 - Usar fondos para no necesitar recolectar el dinero de gastos tan cerca del pycamp.
@@ -63,14 +59,14 @@ poca cantidad de mujeres. ¿Qué podemos hacer en pyar para reducir esa
 brecha?. Se habló del tema anteriormente en la lista y una de las
 observaciones que hizo una de las chicas de la comunidad es que las chicas
 se sienten mas newbies, y que podríamos hacer algo para newbies.
-
+------
 Pablo M. Surgió la idea de hacer charlas para newbies, dadas por newbies con
 mentores. Lipe va a enviar un mail contando cómo es la propuesta
 PeerToPeer University, que se relaciona con este tema.
 
 
 Conclusión
-__________
+@@@@@@@@@@@
 
 - El pycamp es significativo, tenemos que escribir para difundirlo.
 - Tenemos que subir mas info de pycamp contando experiencias.
@@ -91,13 +87,15 @@ Wiki Pyar
 ---------
 - Como hacemos una front page, ¿Qué se ofrece? y Maxi cuenta que se anima a comenzar en 3 o 4 semanas.
 - Hacerlo privado, se necesitan colaboradores.
-- Alsina saca las revetas del wiki ¿En una semana?. Se ve el domingo a la mañana.
+- Alsina saca las recetas del wiki ¿En una semana?. Se ve el domingo a la mañana.
 
 
 Lista de correo
 ---------------
-- Sugerimos que neceistamos un mail de bienvenida, citando lo que es pyar y cómo el subscriptor puede conocer mejor a la comunidad.
-- Está bueno que la binvenida sea cordial acorde a que la gente nueva se sienta cómoda y se sume al proyecto.
+- Sugerimos que necesitamos un mail de bienvenida, citando lo que es pyar y cómo el subscriptor puede conocer mejor a la comunidad.
+- Está bueno que la bienvenida sea cordial acorde a que la gente nueva se sienta cómoda y se sume al proyecto.
 - Está bueno que mencione el recetario y la wiki.
 
 }}}
+----
+CategoryReuniones
