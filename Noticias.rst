@@ -20,6 +20,10 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 
+==== 28/03/2011 ====
+
+Se terminó el PyCamp 2011, los proyectos en los que trabajamos estan [[PyCamp/2011/ProyectosLaburados | acá]]
+
 ==== 13/03/2011 ====
 
 Falta muy poco para el PyCamp 2011 ¿Que esperas para inscribirte? [[PyCamp/2011 |Mas info...]]
