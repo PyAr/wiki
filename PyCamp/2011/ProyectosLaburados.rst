@@ -50,3 +50,5 @@ Algunos cambios importantes fueron el empaquetado de imágenes en bloques, que p
 
 == bugday ==
 #Fixme Completar
+----
+CategoryPyCamp
