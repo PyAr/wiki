@@ -12,13 +12,15 @@ Se llevó a cabo la quinta reunión de PyAr con total éxito. Como MarianoDraghi
 
  * Expuse Decimal. Estuvo muy interesante, porque nos poníamos a discutir sobre la curvatura del círculo, que los complejos tienen infinitos todo alrededor, sobre el pelo del gato y la quinta pata del huevo. ¡Y hasta les pude contar como usar el módulo! Realmente me encantó. Ah, de paso:
 
-{{{>>> from decimal import *
+{{{
+>>> from decimal import *
 >>> Decimal("-0")
 Decimal("-0")
 >>> Decimal("0")
 Decimal("0")
 >>> Decimal("0") == Decimal("-0")
-True}}}
+True
+}}}
 
  * Definimos el tema del Primer Sprint PyAr: vamos a hacer el Administrador de Colas de Mensajes (nombre no oficial), con interfaces SMTP (mail), SMPP (SMSs o mensajes cortos) y MM7 (MMSs o mensajes multimedia). La primer reunión será el Jueves 27 de Enero en el mismo lugar que hicimos la reunión, ya que comenzaremos con el diseño del sistema, y no necesitamos más que papel, lápiz, y buenas ideas (y, por supuesto, cerveeeeza).
 
@@ -43,3 +45,5 @@ Acá hay menos gente, por lo que es mas fácil, de izquierda a derecha: Octavio,
 {{attachment:fotopyar3.jpg}}
 
 Leonardo y Facundo.
+----
+CategoryReuniones
