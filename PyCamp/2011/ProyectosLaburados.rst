@@ -26,9 +26,18 @@ La arquitectura es muy simple: con el modulo tokenizer se obtiene una lista de t
 Se lograron algunos filtros, pero es un trabajo en desarrollo. 
 
 == modulo video pilas ==
-#Fixme Completar
+
+Perrito integró opencv a pilas, y creó dos nuevos actores, uno para tener un video en la pantalla de pilas o otro para
+poder observar la webcam dentro de pilas. El resultado estúvo buenisimo, los videos pueden rotar, escalar o incluso rebotar
+cómo una pelota...
+
 == i18n pilas ==
-#Fixme Completar
+
+Achuni creó una implementación para que pilas pueda traducirse a varios idiomas, modificó el comportamiento
+builtin de la sentencia "import" para que se reconstruya dinámicamente un alias de pilas en otro idioma. En medio hay
+un diccionario que define la traducción para cada cadena.
+
+
 == peewee ==
 #Fixme Completar
 == twisted 3 ==
