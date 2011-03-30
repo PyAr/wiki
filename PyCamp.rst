@@ -33,6 +33,7 @@ La próxima edición todavía no tiene sede y fecha confirmada.
  * RamiroMorales: http://rmorales.com.ar/blog/2009/03/30/pycamp-2009-de-pyar/
  * Linux-Os.com.ar: http://www.linux-os.com.ar/linuxos/python-pycamp-2009-cordoba/
  * FacundoBatista: http://www.taniquetil.com.ar/plog/post/1/404
+ * MarcosDione: http://grulicueva.homelinux.net/~mdione/glob/posts/pycamp-2009/
 === 2010 ===
  * django.es: http://django.es/blog/sprint-django-pycamp-argentina-2009/
  * GonzaloOdiard: http://godiard.blogspot.com/2010/03/en-el-pycamp.html
