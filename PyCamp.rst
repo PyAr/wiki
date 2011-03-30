@@ -44,5 +44,6 @@ La próxima edición todavía no tiene sede y fecha confirmada.
 === 2011 ===
  * Python Software Fundation: http://pythonsprints.com/2011/03/25/sponsoring-pycamp-argentina/
  * FacundoBatista: http://www.taniquetil.com.ar/plog/post/1/506
+ * MateoBengualid: http://aplacetospillmybraininto.blogspot.com/2011/03/fui-al-pycamp-2011.html
 ----
 CategoryPyCamp
