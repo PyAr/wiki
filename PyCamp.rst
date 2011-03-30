@@ -25,7 +25,7 @@ La próxima edición todavía no tiene sede y fecha confirmada.
  * Tercera edición, [[PyCamp/2010|Veronica, Buenos Aires. Marzo de 2010]].
  * Cuarta edición, [[PyCamp/2011|La Falda, Córdoba. Marzo de 2011]].
 
-== Blogpost de personas que participaron en Pycamps ==
+== Blogpost sobre Pycamps ==
 === 2008 ===
  * FacundoBatista: http://www.taniquetil.com.ar/plog/post/1/329
  * Dieresys: http://blog.dieresys.com.ar/2008/02/16/live-from-pycamp-2008/
