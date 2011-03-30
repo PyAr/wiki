@@ -30,5 +30,10 @@ Inauguramos la QOTM (Quote of the Meeting, o Cita de la Reunión), una
 frase que queremos destacar entre todos. Esperemos que en las próximas
 podamos rescatar varias de buena calidad, como ésta:
 
-{{{Mientras sea open source me lo hago, no me hago un implante
-propietario en la cabeza ni a palos. (por Lucio)}}}
+{{{
+Mientras sea open source me lo hago, no me hago un implante
+propietario en la cabeza ni a palos. 
+}}}
+(por LucioTorre)
+----
+CategoryReuniones
