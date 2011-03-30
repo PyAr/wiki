@@ -27,14 +27,19 @@ La próxima edición todavía no tiene sede y fecha confirmada.
 
 == Blogpost de personas que participaron en Pycamps ==
 === 2008 ===
+ * FacundoBatista: http://www.taniquetil.com.ar/plog/post/1/329
 === 2009 ===
  * RamiroMorales: http://rmorales.com.ar/blog/2009/03/30/pycamp-2009-de-pyar/
  * Linux-Os.com.ar: http://www.linux-os.com.ar/linuxos/python-pycamp-2009-cordoba/
+ * FacundoBatista: http://www.taniquetil.com.ar/plog/post/1/404
 === 2010 ===
  * django.es: http://django.es/blog/sprint-django-pycamp-argentina-2009/
  * GonzaloOdiard: http://godiard.blogspot.com/2010/03/en-el-pycamp.html
  * JohnLenton: http://pyvore.com/2010/03/10/pycamp.html
+ * FacundoBatista: http://www.taniquetil.com.ar/plog/post/1/452
+ * JoaquinSorianello: http://www.joaclandia.com.ar/2010/03/buenas-nuevas.html
 === 2011 ===
  * Python Software Fundation: http://pythonsprints.com/2011/03/25/sponsoring-pycamp-argentina/
+ * FacundoBatista: http://www.taniquetil.com.ar/plog/post/1/506
 ----
 CategoryCategory CategoryPyCamp CategoryPyCamp
