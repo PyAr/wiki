@@ -46,5 +46,6 @@ La próxima edición todavía no tiene sede y fecha confirmada.
  * FacundoBatista: http://www.taniquetil.com.ar/plog/post/1/506
  * MateoBengualid: http://aplacetospillmybraininto.blogspot.com/2011/03/fui-al-pycamp-2011.html
  * EzequielMarquez: http://ezequielmarquez.com.ar/pycamp
+ * MartinGaitan: http://nqnwebs.com/blog/article/apuntes-del-pycamp-2011
 ----
 CategoryPyCamp
