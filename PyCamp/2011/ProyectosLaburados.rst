@@ -39,16 +39,24 @@ un diccionario que define la traducción para cada cadena.
 
 
 == peewee ==
+
 #Fixme Completar
-== twisted 3 ==
-#Fixme Completar
-== cdpedia ==
+
+== Port de Twisted a Python 3 ==
+
+Facundo B siguió con un branch que tenía de antes, lo terminó y ya está en trunk. Nueces arrancó un branch desde cero, el cual desembocó en muchos tickets con sendos parches, los cuales entraron ya a trunk. Muy productivo!
+
+
+== CDPedia ==
 
 Viejos y nuevos contribuyentes al hermoso y noble proyecto [[http://code.google.com/p/cdpedia/|CDPedia]] estuvimos laburando en algunas tareas para obtener la version 0.7 . A partir de los cambios realizados, se empaquetará un nuevo DVD de CDPedia para presentar a Educ.ar que tiene firme interés en enviar copias de esta enciclopedia a todas las escuelas del pais. 
 
 Algunos cambios importantes fueron el empaquetado de imágenes en bloques, que permite un aprovechamiento importante en el espacio utilizado. Tambien se creó un generador de "bogus" al vuelo. (la imágen que se muestra cuando la imágen original no está en el CD) que suprime el problema de la variedad de tamaños y la posibilidad de que se vean feos por forzar las dimensiones. . Algunas funciones fueron mejoradas:o la obtención de un artículo al azar ahora se realiza mediante una redirección http que cambia la URL (antes cambiaba el contenido aleatoriamente, pero la url se mantenia en \al_azar). Por último, retoques de CSS y plantillas. 
 
-== bugday ==
-#Fixme Completar
+
+== Bug days ==
+
+Se hizo un bugday de Python y de Django, de forma presencial y virtual. Con respecto a Python se trabajó en un sólo ticket, pero varias personas aprendieron a conocer un poco las fuentes y el workflow de desarrollo; se charló mucho acerca de Mercurial, y cómo usarlo mejor para el proyecto (en sintonía con la larguísima discusión sobre el mismo tema en la lista python-dev). En Django se trabajó un poco más, sobre cinco tickets, logrando integrar a un desarrollador nuevo al workflow de Django.
+
 ----
 CategoryPyCamp
