@@ -40,7 +40,7 @@ Ahora, ¿a dónde podrías recurrir para obtener información que te inicie en l
   . [[http://users.servicios.retecal.es/tjavier/python/Pequeno_tutorial_de_Pyhton.html|Python Instantáneo]] Magnus Lie Hetland  - Traducción de Marcos Sánchez Provencio
 
  * Guía para alguien que no tiene experiencia previa en programación.
-  . [[http://honors.montana.edu/~jjc/easytut/easytut_es/|Tutor para No-Programadores]] Josh Cogliati 1999-2002 - Traducción Victor M. Rosas Garcia. '''(link roto)'''
+  . [[http://jjc.freeshell.org/easytut/easytut_es/easytut.html|Tutor para No-Programadores]] Josh Cogliati 1999-2002 - Traducción Victor M. Rosas Garcia.
 
  * Libro Python no muerde de Roberto Alsina, para alguien que tiene experiencia previa en programación.
   . [[http://nomuerde.netmanagers.com.ar/|Python no muerde]] Roberto Alsina - En español(Licencia Creative Commons)
