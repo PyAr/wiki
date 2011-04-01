@@ -58,5 +58,9 @@ Algunos cambios importantes fueron el empaquetado de imágenes en bloques, que p
 
 Se hizo un bugday de Python y de Django, de forma presencial y virtual. Con respecto a Python se trabajó en un sólo ticket, pero varias personas aprendieron a conocer un poco las fuentes y el workflow de desarrollo; se charló mucho acerca de Mercurial, y cómo usarlo mejor para el proyecto (en sintonía con la larguísima discusión sobre el mismo tema en la lista python-dev). En Django se trabajó un poco más, sobre cinco tickets, logrando integrar a un desarrollador nuevo al workflow de Django.
 
+== Luisito (el enano) ==
+
+SAn estuvo reescribiendo [[http://bitbucket.org/san/luisito|luisito]] basado en una nueva estrategia charlada con Alecu y RAlsina. Alecu le dio una mano gigante para entender mejor dónde convenia pararse dentro de twisted.web.proxy. También se escribieron algunos casos de prueba y Facu B le tiro unos tips a SAn de cómo convenía implementarlos.
+
 ----
 CategoryPyCamp
