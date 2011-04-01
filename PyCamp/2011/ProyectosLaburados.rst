@@ -40,7 +40,7 @@ un diccionario que define la traducción para cada cadena.
 
 == peewee ==
 
-#Fixme Completar
+MarianoGarcia, EmilianoDallaVerdeMarcozzi, MarcosVanetta y MateoBengualid se dedicaron a darle soporte para MySQL a  [[https://github.com/coleifer/peewee|PeeWee]]. PeeWee es un ORM liviano ( un solo archivo ) ahora con soporte para Sqlite, MySQL y Postgresql.
 
 == Port de Twisted a Python 3 ==
 
