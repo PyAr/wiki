@@ -48,5 +48,6 @@ La próxima edición todavía no tiene sede y fecha confirmada.
  * EzequielMarquez: http://ezequielmarquez.com.ar/pycamp
  * MartinGaitan: http://nqnwebs.com/blog/article/apuntes-del-pycamp-2011
  * MarcosVanetta: http://blog.malev.com.ar/2011/03/31/pycamp-2011/
+ * HugoRuscitti: http://www.examplelab.com.ar/personal/2011-03-30-python_pycamp_2011.rst
 ----
 CategoryPyCamp
