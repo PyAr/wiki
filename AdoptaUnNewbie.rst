@@ -1,5 +1,4 @@
 = Adopta Un Newbiew =
-
  * gente se postula como mentores
  * gente se postula como mentados
  * los intereses comunes se juntan
@@ -10,39 +9,31 @@
  * todos felices
 
 == Mentores Propuestos ==
-
 === Disponibles ===
-
  * Diego Sarmentero (Ninja-IDE)
  * Mauro Lizaur
  * Mariano Guerra (emesene, flask, cualquier cosa relacionada con estos proyectos https://github.com/marianoguerra o cualquier cosa de python en general)
+ * Martin Alderete (Ninja-IDE, python web frameworks, python en general)
 
 === Disponibles como mentores de charlas ===
-
  * Juan BC
  * alecu
  * facundobastista
  * Roberto Alsina
 
-(seguro me olvido de alguno) 
+(seguro me olvido de alguno)
 
 === Asignados ===
-
 == Mentados Propuestos ==
-
 === Disponibles ===
-
  * Carlos Cabrera
  * Martín Volpe
  * Maximiliano Churichi
  * enrique.gmv
  * Pablo Codeiro
 
-
 === Asignados ===
-
 == Mentores Buscados ==
-
  * debian
  * web2py
  * twisted a python 3
