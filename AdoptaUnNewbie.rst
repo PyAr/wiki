@@ -31,6 +31,7 @@
  * Maximiliano Churichi
  * enrique.gmv
  * Pablo Codeiro
+ * Marco Mansilla
 
 === Asignados ===
 == Mentores Buscados ==
