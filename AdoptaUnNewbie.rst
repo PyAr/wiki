@@ -16,6 +16,7 @@
  * Martin Alderete (Ninja-IDE, Qt/PyQt, python web frameworks, python en general) http://github.com/malderete
  * JuanFisanotti (django, python en general, un poco de vim)
  * ManuelNaranjo (django, dbus, bluetooth, opencv, numpy y scipy, cosas relacionadas con electrónica en general y señales)
+ * Facundo Batista: Para CDPedia, Lalita, Python, Twisted a Py3, Enjuewemela y Magicicada (más info [[http://www.taniquetil.com.ar/plog/post/1/507|acá]]).
 
 === Disponibles como mentores de charlas ===
  * Juan BC
@@ -37,12 +38,10 @@
  * Pablo Codeiro
  * [[MartinVolpe|Martín Volpe]]
  * enrique.gmv
- * Facundo Batista: Para CDPedia, Lalita, Python, Twisted a Py3, Enjuewemela y Magicicada (más info [[http://www.taniquetil.com.ar/plog/post/1/507|acá]]).
 
 === Asignados ===
 == Mentores Buscados ==
  * debian
  * web2py
- * twisted a python 3
 
 == Mentados Buscados ==
