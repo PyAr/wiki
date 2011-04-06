@@ -26,7 +26,9 @@
 (seguro me olvido de alguno)
 
 === Asignados ===
+
 == Mentados Propuestos ==
+
 === Disponibles ===
  * Carlos Cabrera
  * Marco Mansilla
@@ -35,6 +37,7 @@
  * Pablo Codeiro
  * [[MartinVolpe|Martín Volpe]]
  * enrique.gmv
+ * Facundo Batista: Para CDPedia, Lalita, Python, Twisted a Py3, Enjuewemela y Magicicada (más info [[http://www.taniquetil.com.ar/plog/post/1/507|acá]]).
 
 === Asignados ===
 == Mentores Buscados ==
