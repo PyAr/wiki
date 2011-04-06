@@ -36,7 +36,7 @@
  * Carlos Cabrera
  * Marco Mansilla
  * Matias Novoa
- * Maximiliano Churichi
+ * [[MaximilianoChurichi|Maximiliano Churichi]]
  * Pablo Codeiro
  * [[MartinVolpe|Martín Volpe]]
  * enrique.gmv
