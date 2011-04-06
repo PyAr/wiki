@@ -10,7 +10,7 @@
 
 == Mentores Propuestos ==
 === Disponibles ===
- * Diego Sarmentero (Ninja-IDE, Qt/PyQt)
+ * Diego Sarmentero (Ninja-IDE, Qt/PyQt, GAE Python) http://code.google.com/u/diego.sarmentero/
  * Mauro Lizaur (debian, algo de django, cosas en general, ayuda con proyectos grandes(?). )
  * Mariano Guerra (emesene, flask, cualquier cosa relacionada con estos proyectos https://github.com/marianoguerra o cualquier cosa de python en general)
  * Martin Alderete (Ninja-IDE, Qt/PyQt, python web frameworks, python en general) http://github.com/malderete
