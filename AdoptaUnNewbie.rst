@@ -1,4 +1,4 @@
-= Adopta Un Newbiew =
+= Adopta Un Newbie =
  * gente se postula como mentores
  * gente se postula como mentados
  * los intereses comunes se juntan
