@@ -40,6 +40,7 @@
  * enrique.gmv
  * Gustavo Cárdenas (Python, Django, Python orientado a script de juegos)
  * [[MarcosVanetta|malev]] (lalita y django)
+ * EzequielMarquez (Twisted, Django, Python3)
 
 === Asignados ===
 == Mentores Buscados ==
