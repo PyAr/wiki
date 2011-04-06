@@ -39,6 +39,7 @@
  * [[MartinVolpe|Martín Volpe]]
  * enrique.gmv
  * Gustavo Cárdenas (Python, Django, Python orientado a script de juegos)
+ * [[MarcosVanetta|malev]] (lalita y django)
 
 === Asignados ===
 == Mentores Buscados ==
