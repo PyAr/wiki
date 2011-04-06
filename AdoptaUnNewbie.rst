@@ -15,6 +15,7 @@
  * Mariano Guerra (emesene, flask, cualquier cosa relacionada con estos proyectos https://github.com/marianoguerra o cualquier cosa de python en general)
  * Martin Alderete (Ninja-IDE, python web frameworks, python en general)
  * JuanFisanotti (django, python en general, un poco de vim)
+ * ManuelNaranjo (django, dbus, bluetooth, opencv, numpy y scipy, cosas relacionadas con electrónica en general y señales)
 
 === Disponibles como mentores de charlas ===
  * Juan BC
