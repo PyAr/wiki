@@ -17,12 +17,14 @@
  * JuanFisanotti (django, python en general, un poco de vim)
  * ManuelNaranjo (django, dbus, bluetooth, opencv, numpy y scipy, cosas relacionadas con electrónica en general y señales)
  * Facundo Batista: Para CDPedia, Lalita, Python, Twisted a Py3, Enjuewemela y Magicicada (más info [[http://www.taniquetil.com.ar/plog/post/1/507|acá]]).
+ * Horacio Duran: Para plone, python, django bastante basico, pregunten y les cuento si se o no.
 
 === Disponibles como mentores de charlas ===
  * Juan BC
  * alecu
  * facundobastista
  * Roberto Alsina
+ * HoracioDuran
 
 (seguro me olvido de alguno)
 
