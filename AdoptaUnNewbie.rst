@@ -26,12 +26,14 @@
 === Asignados ===
 == Mentados Propuestos ==
 === Disponibles ===
+
  * Carlos Cabrera
- * [[MartinVolpe|Martín Volpe]]
- * Maximiliano Churichi
- * enrique.gmv
- * Pablo Codeiro
  * Marco Mansilla
+ * Matias Novoa
+ * Maximiliano Churichi
+ * Pablo Codeiro
+ * [[MartinVolpe|Martín Volpe]]
+ * enrique.gmv
 
 === Asignados ===
 == Mentores Buscados ==
