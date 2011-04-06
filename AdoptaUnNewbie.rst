@@ -38,6 +38,7 @@
  * Pablo Codeiro
  * [[MartinVolpe|Martín Volpe]]
  * enrique.gmv
+ * Gustavo Cárdenas (Python, Django, Python orientado a script de juegos)
 
 === Asignados ===
 == Mentores Buscados ==
