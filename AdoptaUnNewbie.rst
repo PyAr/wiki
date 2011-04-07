@@ -45,6 +45,7 @@
  * EzequielMarquez (Twisted, Django, Python3)
 
 === Asignados ===
+ * Daniel Malisani -> Manuel Naranjo (opencv)
 == Mentores Buscados ==
  * debian
  * web2py
