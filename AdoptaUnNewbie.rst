@@ -51,6 +51,7 @@
  * Cesar Vargas -> Diego Sarmentero (Qt/PyQt)
  * [[AnaMassone|Ana Massone]] -> MarianoGuerra (web)
  * [[DiegoAhumada|Diego Ahumada]] -> MarianoGuerra (web)
+ * EzequielMarquez -> HoracioDuran (web)
 
 == Mentores Buscados ==
  * debian
