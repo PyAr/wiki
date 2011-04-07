@@ -18,7 +18,7 @@
  * Facundo Batista: Para CDPedia, Lalita, Python, Twisted a Py3, Enjuewemela y Magicicada (más info [[http://www.taniquetil.com.ar/plog/post/1/507|acá]]).
  * Horacio Duran: Para plone, python, django bastante basico, pregunten y les cuento si se o no.
 
-== Ocupados == 
+=== Ocupados ===
 
  * Mariano Guerra ([[AnaMassone|Anna Massone]] y [[DiegoAhumada|Diego Ahumada]])
 
