@@ -19,11 +19,9 @@
  * Horacio Duran: Para plone, python, django bastante basico, pregunten y les cuento si se o no.
 
 === Ocupados ===
-
  * Mariano Guerra ([[AnaMassone|Anna Massone]] y [[DiegoAhumada|Diego Ahumada]])
 
 === Disponibles como mentores de charlas ===
-
  * Juan BC
  * alecu
  * facundobastista
@@ -49,7 +47,7 @@
 === Asignados ===
  * Daniel Malisani -> Manuel Naranjo (opencv)
  * [[MaximilianoChurichi|Maximiliano Churichi]] -> Diego Sarmentero (Qt/PyQt)
- * [[AnaMassone|Anna Massone]] -> MarianoGuerra (web)
+ * [[AnaMassone|Ana Massone]] -> MarianoGuerra (web)
  * [[DiegoAhumada|Diego Ahumada]] -> MarianoGuerra (web)
 
 == Mentores Buscados ==
