@@ -41,6 +41,7 @@
  * [[MarcosVanetta|malev]] (lalita y django)
  * EzequielMarquez (Twisted, Django, Python3)
  * Ana Massone (Aplicaciones Web)
+ * Carlos Do Carmo (Django)
 
 === Asignados ===
  * Daniel Malisani -> Manuel Naranjo (opencv)
