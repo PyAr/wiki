@@ -40,12 +40,13 @@
  * Gustavo Cárdenas (Python, Django, Python orientado a script de juegos)
  * [[MarcosVanetta|malev]] (lalita y django)
  * EzequielMarquez (Twisted, Django, Python3)
- * Ana Massone (Aplicaciones Web)
  * Carlos Do Carmo (Django)
 
 === Asignados ===
  * Daniel Malisani -> Manuel Naranjo (opencv)
  * [[MaximilianoChurichi|Maximiliano Churichi]] -> Diego Sarmentero (Qt/PyQt)
+ * [[AnaMassone|Anna Massone]] -> MarianoGuerra (web)
+ * [[DiegoAhumada|Diego Ahumada]] -> MarianoGuerra (web)
 
 == Mentores Buscados ==
  * debian
