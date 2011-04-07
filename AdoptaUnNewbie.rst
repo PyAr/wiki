@@ -36,7 +36,6 @@
  * Carlos Cabrera
  * Marco Mansilla
  * Matias Novoa
- * [[MaximilianoChurichi|Maximiliano Churichi]]
  * Pablo Codeiro
  * [[MartinVolpe|Martín Volpe]]
  * enrique.gmv
@@ -46,7 +45,7 @@
 
 === Asignados ===
  * Daniel Malisani -> Manuel Naranjo (opencv)
- * Maximiliano Churichi -> Diego Sarmentero (Qt/PyQt)
+ * [[MaximilianoChurichi|Maximiliano Churichi]] -> Diego Sarmentero (Qt/PyQt)
 == Mentores Buscados ==
  * debian
  * web2py
