@@ -46,6 +46,7 @@
 
 === Asignados ===
  * Daniel Malisani -> Manuel Naranjo (opencv)
+ * Maximiliano Churichi -> Diego Sarmentero (Qt/PyQt)
 == Mentores Buscados ==
  * debian
  * web2py
