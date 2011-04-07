@@ -47,6 +47,7 @@
 === Asignados ===
  * Daniel Malisani -> Manuel Naranjo (opencv)
  * [[MaximilianoChurichi|Maximiliano Churichi]] -> Diego Sarmentero (Qt/PyQt)
+ * Cesar Vargas -> Diego Sarmentero (Qt/PyQt)
  * [[AnaMassone|Ana Massone]] -> MarianoGuerra (web)
  * [[DiegoAhumada|Diego Ahumada]] -> MarianoGuerra (web)
 
