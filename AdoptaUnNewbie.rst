@@ -20,6 +20,7 @@
 
 === Ocupados ===
  * Mariano Guerra ([[AnaMassone|Anna Massone]] y [[DiegoAhumada|Diego Ahumada]])
+ * Diego Sarmentero ([[MaximilianoChurichi|Maximiliano Churichi]] y Cesar Vargas)
 
 === Disponibles como mentores de charlas ===
  * Juan BC
