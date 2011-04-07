@@ -29,9 +29,7 @@
 (seguro me olvido de alguno)
 
 === Asignados ===
-
 == Mentados Propuestos ==
-
 === Disponibles ===
  * Carlos Cabrera
  * Marco Mansilla
@@ -42,10 +40,12 @@
  * Gustavo Cárdenas (Python, Django, Python orientado a script de juegos)
  * [[MarcosVanetta|malev]] (lalita y django)
  * EzequielMarquez (Twisted, Django, Python3)
+ * Ana Massone (Aplicaciones Web)
 
 === Asignados ===
  * Daniel Malisani -> Manuel Naranjo (opencv)
  * [[MaximilianoChurichi|Maximiliano Churichi]] -> Diego Sarmentero (Qt/PyQt)
+
 == Mentores Buscados ==
  * debian
  * web2py
