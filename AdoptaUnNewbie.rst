@@ -16,7 +16,7 @@
  * JuanFisanotti (django, python en general, un poco de vim)
  * ManuelNaranjo (django, dbus, bluetooth, opencv, numpy y scipy, cosas relacionadas con electrónica en general y señales)
  * Facundo Batista: Para CDPedia, Lalita, Python, Twisted a Py3, Enjuewemela y Magicicada (más info [[http://www.taniquetil.com.ar/plog/post/1/507|acá]]).
- * Horacio Duran: Para plone, python, django bastante basico, pregunten y les cuento si se o no.
+ * --(Horacio Duran: Para plone, python, django bastante basico, pregunten y les cuento si se o no.)--
 
 === Ocupados ===
  * Mariano Guerra ([[AnaMassone|Anna Massone]] y [[DiegoAhumada|Diego Ahumada]])
@@ -42,7 +42,7 @@
  * enrique.gmv
  * Gustavo Cárdenas (Python, Django, Python orientado a script de juegos)
  * [[MarcosVanetta|malev]] (lalita y django)
- * EzequielMarquez (Twisted, Django, Python3)
+ * --(EzequielMarquez (Twisted, Django, Python3) )--
  * Carlos Do Carmo (Django)
 
 === Asignados ===
