@@ -10,7 +10,6 @@
 
 == Mentores Propuestos ==
 === Disponibles ===
- * Diego Sarmentero (Ninja-IDE, Qt/PyQt, GAE Python) http://code.google.com/u/diego.sarmentero/
  * Mauro Lizaur (debian, algo de django, cosas en general, ayuda con proyectos grandes(?). )
  * Martin Alderete (Ninja-IDE, Qt/PyQt, python web frameworks, python en general) http://github.com/malderete
  * JuanFisanotti (django, python en general, un poco de vim)
@@ -20,7 +19,7 @@
 
 === Ocupados ===
  * Mariano Guerra ([[AnaMassone|Anna Massone]] y [[DiegoAhumada|Diego Ahumada]])
- * Diego Sarmentero ([[MaximilianoChurichi|Maximiliano Churichi]] y Cesar Vargas)
+ * DiegoSarmentero ([[MaximilianoChurichi|Maximiliano Churichi]] y Cesar Vargas)
 
 === Disponibles como mentores de charlas ===
  * Juan BC
