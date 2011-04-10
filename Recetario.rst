@@ -91,7 +91,7 @@ Es bueno /NormalizarCaracteresUnicode para hacer búsquedas en strings sin que s
 
 [[/Gui/Gtk/StatusIcon]]: ejemplo de aplicación con ícono en el system tray.
 
-[[/Gui/Gtk/ErorHandler]]: un ejemplo de capturar una excepción y mostrarla en un dialogo modal
+[[/Gui/Gtk/ErrorHandler]]: un ejemplo de capturar una excepción y mostrarla en un dialogo modal
 
 === Gtk + glade ===
 GtkGladeHolaMundoOO : una ventana que muestra el mensaje hola mundo programado utilizando orientacion a objetos
