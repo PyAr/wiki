@@ -3,7 +3,10 @@ Este es un ejemplito de como descargar algo y a medida que se descarga, mostrar 
 
 {{{
 #!code python
-from progressbar import ProgressBar, Percentage, Bar
+from progressbar import ProgressBar
+from progressbar import Percentage
+from progressbar import Bar
+
 
 def download_python():
     url = 'http://www.python.org/ftp/python/2.7/Python-2.7.tar.bz2'
@@ -29,3 +32,6 @@ def download_python():
     pbar.finish()
     file.close()
 }}}
+
+----
+ CategoryRecetas
