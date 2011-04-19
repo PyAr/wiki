@@ -205,6 +205,8 @@ MapeandoMemoria: Cómo generar un mapa de la memoria con heapy
 
 [[ipPublica]] : obtener la direccion ip publica usando 3 lineas de Python.
 
+ObtenerUbicacionGeografica: obtener datos de la ubicacion geografica (Geo-Location) usando Python-Geoip.
+
 == Misceláneo ==
 /MatrixPythonToy: Efecto "The Matrix" en linea de comandos, ideal CLI Screen Saver / Screen Lock.
 
