@@ -1,3 +1,4 @@
+## page was renamed from ObtenerUbicacionGeografica
 = Obtener Ubicacion Geografica =
 
  * Como obtener distintos datos de la ubicacion Geografica, usando Python-Geoip, ejemplo simple.
