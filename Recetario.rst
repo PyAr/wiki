@@ -205,7 +205,7 @@ MapeandoMemoria: Cómo generar un mapa de la memoria con heapy
 
 [[ipPublica]] : obtener la direccion ip publica usando 3 lineas de Python.
 
-ObtenerUbicacionGeografica: obtener datos de la ubicacion geografica (Geo-Location) usando Python-Geoip.
+/ObtenerUbicacionGeografica: obtener datos de la ubicacion geografica (Geo-Location) usando Python-Geoip.
 
 == Misceláneo ==
 /MatrixPythonToy: Efecto "The Matrix" en linea de comandos, ideal CLI Screen Saver / Screen Lock.
@@ -225,8 +225,6 @@ ObtenerUbicacionGeografica: obtener datos de la ubicacion geografica (Geo-Locati
 /AlarmaPrecaria: Alarma minima y basica de linea de comandos.
 
 /KeyboardLedsDemo: Como controlar los Leds del Teclado con Python.
-
-/BloquearClickDelMouse: Como bloquear temporalmente el click izquierdo del mouse cuando se tipea en Linux.
 
 /NotificarDispositivosUsb : Como detectar y notificar dispocitivos USB en Linux.
 
