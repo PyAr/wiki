@@ -1,5 +1,7 @@
 = Trabajos con Python =
 == 2011 ==
+ * (18/04/2011) En [[http://www.anting.com.ar/|Anting]] buscamos a un desarrollador(freelance en principio) Python con conocimiento de algún framework web y de migración de bases de datos. Tenemos varios proyectos pendientes de los que no nos podemos encargar al 100% por lo que nos vendría muy bien una mano.
+
  * (29/03/2011) [[http://LeanderGames.com/|LeanderGames.com]] es una empresa en pleno crecimiento que está buscando un Python Developer que sepa HTML, CSS, Javascript y SQL. Si trabajó con Django mejor! <<BR>> Las tareas incluyen desarrollo de backend y reportes, prometemos grandes desafíos técnicos. Ofrecemos relación de dependencia, además el clima laboral es muy bueno! <<BR>> Enviar e-mail a <<MailTo(rrhh EN leandergames PUNTO com)>>
 
  * (06/03/2011) [[http://gs-mag.co.uk/|GS Mag]] Buscamos programador Python,con conocimiento BDMySQL/PostgresSQL/HTML/CSS/Javascript/EC2 S3, proyecto web/ios. Trabajo freelancer/relacion de dependencia. Buen nivel de ingles preferido. Enviar CV a <<MailTo(info EN gs-digital PUNTO co PUNTO uk)>>
@@ -11,9 +13,7 @@
  * (16/02/2011) En [[http://atommica.com|atommica]] continúan buscando programadores Python. Más información en [[http://www.python.org/community/jobs/index.html#atommica-buenos-aires-arg|Python Job Board]] o enviando tu CV a <<MailTo(jobs EN atommica PUNTO com)>>
 
  * (03/02/2011) [[http://anue.biz/|anue]] is looking for a freelance[0] experienced Python/Django developer. Good Javascript knowledge (preferably jQuery) and markup ninja skills are welcome. If you can read this, then you have enough english knowledge :) Send us an email with your resume and contact data to <<MailTo(info EN anue PUNTO biz)>>
-   
-   [0] Depending on how things work, this can be turn into a long term relationship.
-
+  . [0] Depending on how things work, this can be turn into a long term relationship.
 
  * (31/01/2011) "Desarrollador(a) Python" full-time con conocimientos: Python, preferentemente framework Django. Conocimientos de BD MySQL y PostgresSQL. HTML, Javascript, CSS. ; nuestra empresa ofrece relación de dependencia por tiempo inderminando con todos los beneficios que eso significa. Indispensable manejar inglés. En niveles Semisenior y Senior. Actividades a desarrollarse en oficinas de Córdoba Capital. La empresa: www.santexamerica.com Enviar CV a <<MailTo(ana PUNTO mercado EN santexgroup PUNTO com)>>//<<MailTo(jobs EN santexgroup PUNTO com)>>
 
@@ -56,7 +56,6 @@
  * (23/02/2010) [[http://phonetag.com/|PhoneTag]] is looking for a GNU/Linux Systems Administrator to help take its infrastructure to the next level. This is a great opportunity to work in a dynamic environment, where your opinion and work matter, with great professionals and the advantage of working remotely. Please contact lgpanaro at gmail with CV and links to know more details.
 
  * (12/02/2010) U.S. based web development house looking for someone with at least a year of Django experience and 3 years of Python experience. Some admin knowledge to install and debug problems on Linux environments. Basic working knowledge of version control system. Candidates with strong HTML/CSS and Javascript experience preferred. Must be able to work remotely and communicate effectively via email and IM. Experience with Agile development environements preferred but not required. Have the ability to attend phone conferences via Skype from time to time. <<MailTo(ed EN menendez PUNTO com)>>
-
 
 == 2009 ==
  * (29/12/2009) [[http://www.msa.com.ar|MSA]] busca ampliar su equipo de desarrollo, el cual tendrá a cargo un proyecto muy interesante con tecnologías Web y Open Source, como Python y Linux. Son deseables conocimientos de Desarrollo Web, PostgreSQL, PyGTK y SQL. Buscamos gente proactiva, con habilidades autodidactas y afinidad al Software Libre, dentro del área de Capital Federal, al menos mientras dure el "start-up" del proyecto. Si pensás que puede interesarte la propuesta, no dejes de comunicarte con nosotros vía mail con el CV y/o pretensiones a <<MailTo(rrhh EN msa PUNTO com PUNTO ar)>> .
