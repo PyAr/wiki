@@ -33,6 +33,8 @@
 === Normalizar caracteres Unicode ===
 Es bueno /NormalizarCaracteresUnicode para hacer búsquedas en strings sin que se tengan en cuenta los caracteres latinos, como los acentos y la eñe.
 
+ObtenerSensacionTermica: Calcular la Sensacion Termica o Temperatura Aparente.
+
 == Frameworks Web ==
 === Django ===
 [[Django/TestFormularioConFileUpload]] :  un ejemplo de como probar un formulario que tiene un campo para subir un archivo.
