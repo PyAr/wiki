@@ -1,5 +1,8 @@
 = Trabajos con Python =
 == 2011 ==
+
+ * (26/04/2011) NIC.AR seleccionará programadores con experiencia en Python, para participar de un grupo de trabajo de implementación de sistemas.Las tareas a realizar serán de programación y mantenimiento de sistemas utilizando el lenguaje Python con framework Django, siendo el sistema operativo Unix y/o Linux. Los interesados deberán enviar Currículum Vitae por correo electrónico a la dirección rrhh EN nic PUNTO ar, sin omitir remuneración. Jornada laboral completa. Ver requisitos minimos en www.nic.ar
+
  * (18/04/2011) En [[http://www.anting.com.ar/|Anting]] buscamos a un desarrollador(freelance en principio) Python con conocimiento de algún framework web y de migración de bases de datos. Tenemos varios proyectos pendientes de los que no nos podemos encargar al 100% por lo que nos vendría muy bien una mano. Si les interesa por favor contactarse al siguiente mail: <<MailTo(mf2286 EN gmail PUNTO com)>>
 
  * (29/03/2011) [[http://LeanderGames.com/|LeanderGames.com]] es una empresa en pleno crecimiento que está buscando un Python Developer que sepa HTML, CSS, Javascript y SQL. Si trabajó con Django mejor! <<BR>> Las tareas incluyen desarrollo de backend y reportes, prometemos grandes desafíos técnicos. Ofrecemos relación de dependencia, además el clima laboral es muy bueno! <<BR>> Enviar e-mail a <<MailTo(rrhh EN leandergames PUNTO com)>>
