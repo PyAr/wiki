@@ -210,8 +210,9 @@ MarceloFernández
 
 = PyDay Córdoa 2011 =
 
-==MyHDL, de Python al Silicio ==
+==MyHDL, de Python al Silicio==
+
 MartinGaitan
 
-- [[https://nqnwebs.github.com/myhdl-talk|Slides]]
-- [[https://github.com/nqnwebs/myhdl-talk|Fuentes y ejemplos]] (fork me!)
+- [[https://nqnwebs.github.com/myhdl-talk|Slides]] <<BR>>
+- [[https://github.com/nqnwebs/myhdl-talk|Fuentes y ejemplos]] (fork me!) <<BR>>
