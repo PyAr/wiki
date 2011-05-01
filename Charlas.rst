@@ -206,3 +206,12 @@ MarceloFernández
 '''Slides ODP: ''' [[attachment:Introduccion a wxPython.odp]] <<BR>>
 '''Slides PDF: ''' [[attachment:Introduccion a wxPython.pdf]] <<BR>>
 '''Código de ejemplos: ''' [[attachment:Introduccion a wxPython.zip]] <<BR>>
+
+
+= PyDay Córdoa 2011 =
+
+==MyHDL, de Python al Silicio ==
+MartinGaitan
+
+- [[https://nqnwebs.github.com/myhdl-talk|Slides]]
+- [[https://github.com/nqnwebs/myhdl-talk|Fuentes y ejemplos]] (fork me!)
