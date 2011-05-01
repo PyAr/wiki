@@ -210,7 +210,7 @@ MarceloFernández
 
 = PyDay Córdoa 2011 =
 
-==MyHDL, de Python al Silicio==
+== MyHDL, de Python al Silicio ==
 
 MartinGaitan
 
