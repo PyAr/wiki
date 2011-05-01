@@ -214,5 +214,5 @@ MarceloFernández
 
 MartinGaitan
 
-- [[https://nqnwebs.github.com/myhdl-talk|Slides]] <<BR>>
+- [[http://nqnwebs.github.com/myhdl-talk|Slides]] <<BR>>
 - [[https://github.com/nqnwebs/myhdl-talk|Fuentes y ejemplos]] (fork me!) <<BR>>
