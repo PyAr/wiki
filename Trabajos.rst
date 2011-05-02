@@ -1,7 +1,9 @@
 = Trabajos con Python =
 == 2011 ==
 
- * (29/4/2011) [[http://www.machinalis.com/|Machinalis]] busca desarrolladores con experiencia en Django (y conocimientos de HTML+CSS+JS). Interesados tienen una oreja escuchando en <<MailTo(msponton AT machinalis DOT com)>>
+ * (02/05/2011) [[http://www.binariagroup.com/|Binaria Group]] busca desarrolladores Python para realizar tareas relacionadas con el procesamiento y análisis de grandes volumenes de datos de redes sociales; en Capital Federal o a distancia. Interesados contactarse a <<MailTo(mat AT binariagroup DOT com)>>
+
+ * (29/04/2011) [[http://www.machinalis.com/|Machinalis]] busca desarrolladores con experiencia en Django (y conocimientos de HTML+CSS+JS). Interesados tienen una oreja escuchando en <<MailTo(msponton AT machinalis DOT com)>>
 
  * (26/04/2011) NIC.AR seleccionará programadores con experiencia en Python, para participar de un grupo de trabajo de implementación de sistemas.Las tareas a realizar serán de programación y mantenimiento de sistemas utilizando el lenguaje Python con framework Django, siendo el sistema operativo Unix y/o Linux. Los interesados deberán enviar Currículum Vitae por correo electrónico a la dirección rrhh EN nic PUNTO ar, sin omitir remuneración pretendida y referencias comprobables, indicando en el Asunto: Referencia Programador Python. Jornada laboral completa. Ver requisitos minimos en www.nic.ar
 
