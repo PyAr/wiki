@@ -16,7 +16,7 @@ Si usted se inscribe acá probablemente reciba emails contactándolo.
 ||RicardoKirkner ||                        ||                        ||                        ||
 ||MartinBorthiry ||                        ||                        ||Mar del Plata (teletrabajo) ||
 ||RobertoRodríguez ||                        ||                        ||Capital Federal y GBA ||
-||RenzoCarbonara ||                        ||                        ||Cap. Federal, E. Rios o freelance ||
+||RenzoCarbonara ||                        ||                        ||Freelance||
 ||WalterAlini ||Sí ||No ||Córdoba, trabajo remotamente ||
 ||[[http://www.estebanfeldman.com/|EstebanFeldman]] ||Sí ||No ||                        ||
 ||EstebanKüber <<MailTo(ekuber EN gmail PUNTO com)>> ||                        ||                        ||Capital Federal ||
