@@ -208,7 +208,7 @@ MarceloFernández
 '''Código de ejemplos: ''' [[attachment:Introduccion a wxPython.zip]] <<BR>>
 
 
-= PyDay Córdoa 2011 =
+= PyDay Córdoba 2011 =
 
 == MyHDL, de Python al Silicio ==
 
