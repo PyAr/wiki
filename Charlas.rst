@@ -231,3 +231,19 @@ EmilianoDallaVerdeMarcozzi
 
 - [[http://xip.piluex.com/PYCAMP_ORM.pdf|Slides]] <<BR>>
 - [[https://bitbucket.org/edvm/pycamp.orm/overview|Fuente]] <<BR>>
+
+== Introducción a PyQt ==
+
+DiegoSarmentero
+
+- [[http://wingedbox.com/downloads/14009-Intro-PyQt.pdf|Slides]] <<BR>>
+- [[http://wingedbox.com/downloads/14013-Ejemplo-Intro-PyQt.zip|Ejemplos]] <<BR>>
+- [[http://youtu.be/EwGnbpTyaMQ|Fragmento de Video de la Charla (Ejemplo)]] <<BR>>
+
+== Desarrollando Aplicaciones Desktop con UI Web ==
+
+DiegoSarmentero
+
+- [[http://wingedbox.com/downloads/14012-Desarrollando-Aplicaciones-Desktop-con-UI-Web.pdf|Slides]] <<BR>>
+- [[http://wingedbox.com/downloads/14014-Ejemplo-Ui-Desktop-Web.zip|Ejemplos]] <<BR>>
+- [[http://youtu.be/J5qgZx6VHhw|Fragmento de Video de la Charla (Ejemplo)]] <<BR>>
