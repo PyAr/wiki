@@ -15,6 +15,14 @@ En esta página podrán encontrar los ''slides'' de charlas y presentaciones dic
 '''Slides:''' [[attachment:de0aPython.odp]].
 
 ----
+== Introducción a Python  ==
+''Daniel F. Moisset''
+
+'''Slides:''' https://github.com/dmoisset/slides/tree/master/intro-python
+
+En formato Markdown para usar con [[https://github.com/adamzap/landslide/|Landslide]]); y HTML5
+
+----
 == PyGTK y Glade ==
 ''Natalia Bidart''
 
