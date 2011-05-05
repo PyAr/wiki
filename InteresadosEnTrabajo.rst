@@ -32,3 +32,4 @@ Si usted se inscribe acá probablemente reciba emails contactándolo.
 ||EzequielMarquez ||                        ||                        ||S.M. de Tucumán, trabajo remotamente ||
 ||Daniel Ceillan  - <<MailTo(codigodaniel EN gmail PUNTO com)>> ||Sí ||Sí ||Disponible para viajar, europa preferentemente. ||
 ||AdrianPardini || Si || Si || Preferentemente teletrabajo. Zona La Plata||
+||MartinChikilian ||Sí ||No ||Córdoba, trabajo remotamente ||
