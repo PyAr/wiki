@@ -7,6 +7,7 @@
  * JohnLenton
  * LucioTorre
  * MarianoGuerra
+ * MarianoReingart
  * NubIs
  * PabloZiliani
  * RicardoKirkner
