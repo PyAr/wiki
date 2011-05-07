@@ -1,7 +1,7 @@
 = Trabajos con Python =
 == 2011 ==
 
- * (02/05/2011) [[http://www.binariagroup.com/|Binaria Group]] busca desarrolladores Python para realizar tareas relacionadas con el procesamiento y análisis de grandes volumenes de datos de redes sociales; en Capital Federal o a distancia. Interesados contactarse a <<MailTo(mat AT binariagroup DOT com)>>
+ * (02/05/2011) [[http://www.binariagroup.com/|Binaria Group]] busca desarrolladores Python para realizar tareas relacionadas con el scrapping, procesamiento y análisis de grandes volumenes de datos de redes sociales; en Capital Federal o a distancia. Interesados contactarse a <<MailTo(mat AT binariagroup DOT com)>>
 
  * (29/04/2011) [[http://www.machinalis.com/|Machinalis]] busca desarrolladores con experiencia en Django (y conocimientos de HTML+CSS+JS). Interesados tienen una oreja escuchando en <<MailTo(msponton AT machinalis DOT com)>>
 
