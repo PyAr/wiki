@@ -1,7 +1,16 @@
-Minuta de reunión en San Luis.
+= Minuta de reunión 49 en San Luis =
+
 Fecha de reunión: 7/05/2011
+
 Hora: 18:00
-Asistentes: Franco Neri, Samuel Bustamente, RamiroAlgozino, Marcelo Alaniz.
+
+== Asistentes: ==
+  * Franco Neri
+  * Samuel Bustamente
+  * RamiroAlgozino
+  *Marcelo Alaniz
+
+== Temas ==
 Básicamente se trataron los siguientes temas:
   * Organización de un pyDay en San Luis, mas específicamente en Villa Mercedes San Luis.
   * Ramiro conto experiencias de pycon2010, Marcelo pycon2009, y pyDays como asistentes.
