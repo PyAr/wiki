@@ -4,13 +4,13 @@ Fecha de reunión: 7/05/2011
 
 Hora: 18:00
 
-== Asistentes: ==
+== Asistentes ==
   * Franco Neri
   * Samuel Bustamente
   * RamiroAlgozino
   *Marcelo Alaniz
 
-== Temas ==
+== Temario ==
 Básicamente se trataron los siguientes temas:
   * Organización de un pyDay en San Luis, mas específicamente en Villa Mercedes San Luis.
   * Ramiro conto experiencias de pycon2010, Marcelo pycon2009, y pyDays como asistentes.
