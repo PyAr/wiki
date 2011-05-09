@@ -64,12 +64,14 @@ Luego del evento, para los interesados y en la medida de lo posible, se suelen h
 === Sitios organizativos pasados ===
  * PyDay Rafaela: http://groups.google.com.ar/group/pyday-rafaela
  * PyDay Buenos Aires: http://groups.google.com.ar/group/pyday-baires
+ * PyDay Córdoba: http://groups.google.com/group/pyday-cba2011
 
 === Sitios web pasados ===
  * http://pyday.python.com.ar/
  * http://www.pythonsantafe.com.ar/
  * http://www.pyday.com.ar/rafaela2010
  * http://www.pyday.com.ar/buenosaires2010
+ * http://www.pyday.com.ar/cordoba2011
 
 === Materiales ===
  * [[Material]] (Bandera, folletos de PyAr, estandartes)
