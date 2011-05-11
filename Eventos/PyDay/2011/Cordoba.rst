@@ -1,4 +1,23 @@
-Escribe acerca de Eventos/PyDay/2011/Cordoba aquí.
+= Pyday 2011 =
+
+TODO
+
+<<TableOfContents>>
+
+== Datos del evento ==
+
+TODO
+
+== Charlas Realizadas ==
 
 
-<<Video(http://pyar.usla.org.ar/comunidad001.ogv)>>
+
+ * '''[[/ComunidadAnarquiaSubversion | Comunidad, anarquía y subversión]]'''
+
+ * '''[[/PythonSugarIcaro | Python, Sugar y Robotica Educativa]]'''
+
+ * '''[[PycampORM | pycamp.orm, haciendo facil usar sqlalchemy :)]]'''
+
+ * '''[[/PythonPilas | Haciendo videojuegos con Pilas]]'''
+
+ * '''[[/PythonTests | Mythbusters: Tests]]'''
