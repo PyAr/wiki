@@ -12,6 +12,7 @@
 ## * Código: 
 ## [[attachment:nombreadjunto ]] ##Link al archivo adjunto o pagina externa 
 
+Pensamientos sobre nuestras comunidades, formas de organización en las distintas etapas de las mismas, y temas relacionados.
 
 <<Video(http://pyar.usla.org.ar/comunidad001.ogv)>>   
 
