@@ -5,7 +5,7 @@
 
 '''Lista de paginas en esta categoria:'''
 
-<<FullSearchCached(category:CategoryVideo)>>
+<<FullSearch(category:CategoryVideo)>>
 
 ----
 CategoryCategory
