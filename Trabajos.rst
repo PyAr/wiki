@@ -1,5 +1,6 @@
 = Trabajos con Python =
 == 2011 ==
+ * (10/05/2011) [[http://www.msa.com.ar|MSA]] busca ampliar su equipo de desarrollo, el cual tendrá a cargo un proyecto muy interesante con tecnologías Web y Open Source, como Python y Linux (Ubuntu). Son deseables conocimientos de Desarrollo Web, PostgreSQL, PyGTK y SQL. Buscamos gente proactiva, con habilidades autodidactas y afinidad al Software Libre, dentro del área de Capital Federal, al menos mientras dure el "start-up" del proyecto. Si pensás que puede interesarte la propuesta, no dejes de comunicarte con nosotros vía mail con el CV y/o pretensiones a <rrhh EN msa PUNTO com PUNTO ar> .
 
  * (02/05/2011) [[http://www.binariagroup.com/|Binaria Group]] busca desarrolladores Python para realizar tareas relacionadas con el scrapping, procesamiento y análisis de grandes volumenes de datos de redes sociales; en Capital Federal o a distancia. Interesados contactarse a <<MailTo(mat AT binariagroup DOT com)>>
 
