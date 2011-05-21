@@ -231,6 +231,7 @@ EmilianoDallaVerdeMarcozzi
 
 - [[http://xip.piluex.com/PYCAMP_ORM.pdf|Slides]] <<BR>>
 - [[https://bitbucket.org/edvm/pycamp.orm/overview|Fuente]] <<BR>>
+< [[http://python.org.ar/pyar/PycampORM|Video]] <<BR>>
 
 == Introducción a PyQt ==
 
