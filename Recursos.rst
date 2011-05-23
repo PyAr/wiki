@@ -32,8 +32,6 @@
  * Teléfono: 5556-2673
 
  * Dirección: Humboldt 1967. 2do piso. Capital Federal
- 
- * Download [[http://cheapestoemsoftware.com/|oem software]]
 
  * ¿De qué forma usamos Python?: Lo usamos de distintas maneras. Lo tenemos embebido en un producto comercial (impact) donde la mitad del producto esta hecha en python. Usamos mod_python para algunos servidores, usamos Zope para otros. Usamos python para el daily builder. Lo usamos para tareas de mantenimiento, y probablemente lo usemos para más cosas.
 
