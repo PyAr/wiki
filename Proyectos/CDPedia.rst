@@ -1,6 +1,6 @@
 = ¿Qué es la CDPedia? =
 
-{{attachment:logo-disco-180x180-white.jpg|align="left"}} Es un proyecto de Python Argentina para acceder a la información de la Wikipedia en castellano aunque no tengas una conexión a Internet.
+{{attachment:logo-disco-180x180-white.jpg|cdpedia logo|align="left"}} Es un proyecto de Python Argentina para acceder a la información de la Wikipedia en castellano aunque no tengas una conexión a Internet.
 
 Como toda la información de la Wikipedia no entra en un CD o DVD, necesariamente tuvimos que seleccionar cuales artículos poner y cuales dejar afuera, y de aquellos que entraron, en cuales poner las imágenes en el tamaño original, en cuales poner imágenes reducidas, o en cuales directamente no incluir sus imagenes.
 
