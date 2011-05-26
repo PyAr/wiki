@@ -21,20 +21,26 @@ Usando !BitTorrent, mediante alguno de estos archivos .torrent:
 
 Si no tenés un cliente de !BitTorrent instalado en tu equipo, te recomendamos [[http://www.utorrent.com/|µTorrent]] que es un software muy pequeño, simple y tiene versiones para Windows, Linux y Mac. <<FootNote( Wikipedia mantiene una [[http://es.wikipedia.org/wiki/Comparación_de_clientes_BitTorrent|lista comparativa de clientes de BitTorrent]])>> <<FootNote(Para mayor información sobre las generalidades de este protocolo, podés consultar [[http://es.wikipedia.org/wiki/BitTorrent_(protocolo)|este artículo]])>>
 
-{{{#!wiki tip
+{{{#!wiki important
 '''Tu ayuda es importante'''
 
 Por favor no borres el archivo de la CDPedia un vez finalizada tu descarga. Compartílo para que, como vos, otras personas también puedan bajarlo mientras tu cliente esté conectado a Internet.
 }}}
 
-== ¿Que hago con el archivo que bajé? ==
+== ¿Qué hago con el archivo que bajé? ==
 
 El archivo descargado es una imágen de disco (especialmente pensado para caber en un CD o un DVD, dependiendo la versión). Lo primero que tenés que hacer es grabarlo a un disco virgen, para lo cual necesitas una grabadora y un software para grabar. Si usas Windows y no tenés ninguno instalado en tu equipo, te recomendamos [[http://infrarecorder.org/?page_id=5|InfraRecorder]] que es Software Libre y muy fácil de usar (como ejemplo, podes ver [[http://www.youtube.com/watch?v=_5QLoTl9qu8|ver una guia en video]]). 
+
+{{{#!wiki tip
+'''Hacé copias para regalar'''
+
+Si tenés más discos, hacé algunas copias de CDPedia para regalar a tus familiares o amigos, a la biblioteca de tu barrio, a la escuela de hijos. Difundí CDPedia!
+}}}
 
 
 == ¿Cómo la uso? ==
 
-Ponés el disco generado en tu equipo y cuando se abra la carpeta con el CD hacés doble click en el archivo main.py.
+Ponés el disco generado en tu equipo y cuando se abra la carpeta con el CD hacés doble click en el archivo main.py. Se abrirá tu navegador.
 
 Esta versión funciona en Linux, Mac o Windows, sin tener que instalar ningún software adicional (se necesita solamente Python: en Linux y Mac ya viene instalado, la versión para Windows está incluída en el CD y se usa directamente).
 
