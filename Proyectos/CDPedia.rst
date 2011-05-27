@@ -24,7 +24,7 @@ Si no tenés un cliente de !BitTorrent instalado en tu equipo, te recomendamos [
 {{{#!wiki important
 '''Tu ayuda es importante'''
 
-Por favor no borres el archivo de la CDPedia un vez finalizada tu descarga. Compartílo para que, como vos, otras personas también puedan bajarlo mientras tu cliente esté conectado a Internet.
+Por favor no borres el archivo de la CDPedia un vez finalizada tu descarga. Compartelo para que, como vos, otras personas también puedan bajarlo mientras tu cliente esté conectado a Internet.
 }}}
 
 == ¿Qué hago con el archivo que bajé? ==
@@ -34,15 +34,15 @@ El archivo descargado es una imágen de disco (especialmente pensado para caber 
 {{{#!wiki tip
 '''Hacé copias para regalar'''
 
-Si tenés más discos, hacé algunas copias de CDPedia para regalar a tus familiares o amigos, a la biblioteca de tu barrio, a la escuela de hijos. Difundí CDPedia!
+Si tenés discos disponibles, hacé algunas copias de CDPedia para regalar a tus familiares y amigos, a la biblioteca de tu barrio, o a la escuela de hijos. ¡Difundí CDPedia!
 }}}
 
 
 == ¿Cómo la uso? ==
 
-Ponés el disco generado en tu equipo y cuando se abra la carpeta con el CD hacés doble click en el archivo main.py. Se abrirá tu navegador.
+Ponés el disco generado en tu equipo y cuando se abra la carpeta con el CD hacés doble click en el archivo main.py. Se abrirá tu navegador con la portada de CDPedia. 
 
-Esta versión funciona en Linux, Mac o Windows, sin tener que instalar ningún software adicional (se necesita solamente Python: en Linux y Mac ya viene instalado, la versión para Windows está incluída en el CD y se usa directamente).
+Esta versión funciona en Linux, Mac o Windows sin tener que instalar ningún software adicional (se necesita solamente Python: en Linux y Mac ya viene instalado, la versión para Windows está incluída en el CD y se usa directamente).
 
 == Información del proyecto ==
 
