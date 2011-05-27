@@ -7,6 +7,10 @@ Esta página servirá para sistematizar lo expuesto en ese hilo así como nuevos
  * 2010/8/13 Martín Gaitán :
   . (...) Desde el año pasado, impulsado por el Ing. Carlos Bartó, la mayoría de las cátedras de Informática, materia de primer año común a todas las carreras, utilizan Python, en reemplazo de C++ y Octave, siguiendo el libro "Introducción a la programación con Python" que utiliza el entorno PythonG. Según los comentarios de los docentes, los resultados hasta el momento han sido sobresalientes. (...)
 
+=== FaMAF - Universidad Nacional de Córdoba ===
+ * 2011/5/27 DanielMoisset:
+  . Por segundo año consecutiva, en la cátedra de redes y sistemas distribuidos damos proyectos en Python. Se usa tanto la API de sockets de la standard library (incluyendo select.poll), y para uno de los proyectos se usa scapy. Los resultados han sido muy buenos comparados con años anteriores (donde se daban los mismos proyectos en C y C++)
+
 == Artículos / Bibliografía ==
  * ''[[http://scholar.google.com.ar/scholar?cluster=4615917205655943662&hl=es&as_sdt=2000|Aprender a programar con Python: una experiencia docente]]'', A Marzal, D Llorense, I Gracia, Universitat Jaume I,
   . Resumen: La elección del primer lenguaje de programación es un debate recurrente entre los docentes universitarios de ingenierías informáticas. La Universitat Jaume I ha optado por una solución poco convencional: en el primer curso de dos titulaciones de ingenier ́ inform ́tica se aprende a programar con Python y C. Python es un lenguaje que está en auge en el mundo del software libre y que presenta una serie de caracter ́ısticas que lo hacen muy atractivo para ense ̃ar a programar. Como material de apoyo hemos escrito un libro de texto (accesible gratuitamente) y desarrollado un sencillo entorno de programaci ́multiplataforma para Python que se distribuye con licencia GPL: el entorno PythonG, formado por un intérprete interactivo, un editor, un depurador sencillo y una ventana con salida gráfica. Con el material docente elaborado se facilita la formación autodidacta para cualquiera que quiera aprender a programar desde cero. En este artículo reflexionamos sobre la idoneidad de Python como primer lenguaje de programación, describimos la experiencia docente de enseñar Python y C en primer curso y presentamos el entorno de progra- maciónn PythonG.
@@ -24,8 +28,10 @@ Esta página servirá para sistematizar lo expuesto en ese hilo así como nuevos
 == Herramientas / Software ==
 === Reemplazo a Matlab (cálculo numérico) ===
  * [[http://numpy.scipy.org/|SciPy]] Genial para cálculo numérico. Introduce un nuevo tipo de datos: Arrays (parecidos al los de C) pero optimizados para cálculos. Permite hacer cálculos de tiras enormes de datos en una sola línea.
+
 === Reemplazo a Symbolic Math Toolbox (de Matlab) ===
  * [[http://code.google.com/p/sympy/|SymPy]] Librerías para cálculo simbólico. Esta bastante verde todavía, ni se compara con las herramientas comerciales como Mathematica o MathCad, pero para cosas no muy complicadas es de buena ayuda. Si bien funciona en la consola exclusivamente, permite visualizar fórmulas de manera legible, introduciendolas con un sistema similar a LaTEX.
+
 === Listado de librerías de ploteo ===
  * [[http://matplotlib.sourceforge.net/|matplotlib]]: Muy recomendado. Puede requerir más trabajo que otras librerías más sencilla, pero tiene toda la funcionalidad de graficación que tiene Matlab.
  * [[https://launchpad.net/cairoplot|CairoPlot]]: Bueno, bonito y barato. Permite tener gráficos andando de manera rápida, pero su performance puede ser baja para ciertas aplicaciones.
