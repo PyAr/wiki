@@ -18,17 +18,15 @@ def download_python():
     print "Descargando: %s Bytes: %s" % (fname, file_size)
     pbar = ProgressBar(widgets=[Percentage(), Bar()], maxval=file_size).start()
     i = 0
-    data = str()
     chunk = 10240
     while True:
         buffer = u.read(chunk)
         if buffer:
-            data += buffer
+            file.write(buffer)
             pbar.update(i)
             i += chunk
         else:
             break
-    file.write(data)
     pbar.finish()
     file.close()
 }}}
