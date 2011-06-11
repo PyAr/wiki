@@ -20,6 +20,19 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 
+==== 11/06/2011 ====
+
+Se encuentra abierta la inscripción para el evento 
+[[http://www.pyday.com.ar/catan2011 | PyDay Gonzalez Catán 2011: "Jornada de Programación en Python"]] 
+a realizarse el sábado '''16 de Julio de 2011''' de '''9 a 19hs''' en el 
+[[http://www.institutopascal.edu.ar/ | Instituto Superior Tecnológico Blaise Pascal]], 
+que contará con Charlas Introductorias, Talleres Prácticos y espacios abiertos 
+([[http://www.pyday.com.ar/catan2011/conference/schedule | ver Agenda]]).
+
+Entrada libre y gratuita previa [[http://www.pyday.com.ar/catan2011/user/register | inscripción web]] (cupos limitados)
+Se entregan certificados sin cargo.
+
+
 ==== 28/03/2011 ====
 
 Se terminó el PyCamp 2011, los proyectos en los que trabajamos estan [[PyCamp/2011/ProyectosLaburados | acá]]
