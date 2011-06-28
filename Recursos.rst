@@ -98,7 +98,7 @@
 
  * URL: http://machinalis.com
 
- * ¿De qué forma usamos Python?: Hacemos mucho desarrollo web en Plone/Zope/Python, y en Django. Estamos trabajando en aplicaciones de escritorio multiplataforma con PyGTK.
+ * ¿De qué forma usamos Python?: Hacemos mucho desarrollo web en Django y Plone/Zope/Python. Estamos trabajando en aplicaciones de escritorio multiplataforma con PyGTK, y en proyectos con Python que involucran Procesamiento de Lenguaje Natural, Data Mining e Inteligencia Artificial.
 
  * Librerías/frameworks utilizadas: Django, pyGTK, Zope, Plone
 
