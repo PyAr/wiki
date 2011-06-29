@@ -16,6 +16,7 @@ Por último, CDPedia es Software Libre: te recomendamos (y te agradecemos) que c
 La última versión es la 0.7 (junio de 2011) y se puede descargar desde acá: 
 
 *  http://cdpedia.nqnwebs.com/cdpedia-CD-0.7.iso   (701 Mb) 
+*  http://cdpedia.nassty.com.ar/cdpedia-CD-0.7.iso   (701 Mb) 
 
 Versiones anteriores se encuentran listadas en [[Proyectos/CDPedia/VersionesAnteriores|esta página]]. 
 
