@@ -3,9 +3,9 @@
 
 Toda la información incluída fue obtenida de Wikipedia durante Febrero del 2011, y es una foto del contenido on-line en un momento dado. Te sugerimos acceder a la información directamente en la Wikipedia Web si es que necesitás información actualizada de uno de los temas.
 
-Por último, CDPedia es Software Libre: te recomendamos (y te agradecemos) que copies estos discos y los regales a tus amigos, familia y conocidos. La información debe ser libre, así mejoramos la calidad de nuestra educación.
+Importante: la CDPedia es Software Libre, te recomendamos (y te agradecemos) que copies estos discos y los regales a tus amigos, familia y conocidos. La información debe ser libre, así mejoramos la calidad de nuestra educación.
 
-¡Que lo disfrutes!
+¡Que la disfrutes!
 
 == ¿Dónde la consigo? ==
 La última versión es la 0.7 (junio de 2011) y se puede descargar desde acá:
