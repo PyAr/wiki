@@ -24,7 +24,7 @@ El archivo descargado es una imágen de disco (especialmente pensado para caber 
 {{{#!wiki tip
 '''Hacé copias para regalar'''
 
-Si tenés discos disponibles, hacé algunas copias de CDPedia para regalar a tus familiares y amigos, a la biblioteca de tu barrio, o a la escuela de hijos. ¡Difundí CDPedia!
+Si tenés discos disponibles, hacé algunas copias de CDPedia para regalar a tus familiares y amigos, a la biblioteca de tu barrio, o a la escuela de tus hijos. ¡Difundí CDPedia!
 }}}
 == ¿Cómo la uso? ==
 Ponés el disco generado en tu equipo y cuando se abra la carpeta con el CD hacés doble click en el archivo main.py. Se abrirá tu navegador con la portada de CDPedia.
