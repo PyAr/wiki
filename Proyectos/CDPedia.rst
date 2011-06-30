@@ -11,7 +11,7 @@ Importante: la CDPedia es Software Libre, te recomendamos (y te agradecemos) que
 La última versión es la 0.7 (junio de 2011) y se puede descargar desde acá:
 ||<tablewidth="90%" tablestyle="text-align:center"style="font-weight: bold;">Formato||<style="font-weight: bold;">Tamaño||<style="font-weight: bold;">sha1sum||<style="font-weight: bold;">Fuentes||<style="font-weight: bold;">Contenido||
 ||CD ||700.7Mb ||e674c7d19ab8e5ac53a1d09b7bb172047cd1f0c9 || [[http://cdpedia.nassty.com.ar/cdpedia-CD-0.7.iso|Mirror 1]] [[http://cdpedia.nqnwebs.com/cdpedia-CD-0.7.iso|Mirror 2]] ||93500 artículos, 10% de imágenes||
-||DVD ||4.4Gb ||2c7b3746f4e68fc351e727d2ef8b342478e64667 ||[[http://cdpedia.nqnwebs.com/cdpedia-DVD5-0.7.iso|Mirror 1]] [[http://cdpedia.nassty.com.ar/cdpedia-DVD5-0.7.iso|Mirror 2]] ||Todos los artículos, 45% de imágenes.||
+||DVD ||4.4Gb ||2c7b3746f4e68fc351e727d2ef8b342478e64667 ||[[http://cdpedia.nqnwebs.com/cdpedia-DVD5-0.7.iso|Mirror 1]] [[http://cdpedia.nassty.com.ar/cdpedia-DVD5-0.7.iso|Mirror 2]] ||Todos los artículos (886 mil), 45% de imágenes.||
 
 
 Versiones anteriores se encuentran listadas en [[Proyectos/CDPedia/VersionesAnteriores|esta página]].
