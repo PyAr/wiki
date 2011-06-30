@@ -25,7 +25,7 @@ El archivo descargado es una imágen de disco (especialmente pensado para caber 
 Si tenés discos disponibles, hacé algunas copias de CDPedia para regalar a tus familiares y amigos, a la biblioteca de tu barrio, o a la escuela de tus hijos. ¡Difundí CDPedia!
 }}}
 == ¿Cómo la uso? ==
-Ponés el disco generado en tu equipo y cuando se abra la carpeta con el CD hacés doble click en el archivo main.py. Se abrirá tu navegador con la portada de CDPedia.
+Ponés el disco generado en tu equipo y cuando se abra la carpeta con el CD hacés doble click en el archivo cdpedia.py. Se abrirá tu navegador con la portada de CDPedia.
 
 Esta versión funciona en Linux, Mac o Windows sin tener que instalar ningún software adicional (se necesita solamente Python: en Linux y Mac ya viene instalado, la versión para Windows está incluída en el CD y se usa directamente).
 
