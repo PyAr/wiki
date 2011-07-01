@@ -1,3 +1,7 @@
+#acl AdminGroup:admin,read,write,delete,revert ToqueTones:read,write All:read 
+#language es
+#pragma keywords Python, PyAr, Python Argentina, user group, grupo de usuarios, community portal
+
 = ¿Qué es la CDPedia? =
 {{attachment:logo-disco-180x180-white.jpg|cdpedia logo|align="left"}} Es un proyecto de Python Argentina para acceder a la información de la Wikipedia en castellano aunque no tengas una conexión a Internet.
 
@@ -9,10 +13,11 @@ Importante: la CDPedia es Software Libre, te recomendamos (y te agradecemos) que
 
 == ¿Dónde la consigo? ==
 La última versión es la 0.7 (junio de 2011) y se puede descargar desde acá:
-||<tablewidth="90%" tablestyle="text-align:center"style="font-weight: bold;">Formato||<style="font-weight: bold;">Tamaño||<style="font-weight: bold;">sha1sum||<style="font-weight: bold;">Descargar||<style="font-weight: bold;">Contenido||
-||CD ||700.7Mb ||e674c7d19ab8e5ac53a1d09b7bb172047cd1f0c9 || [[http://cdpedia.nassty.com.ar/cdpedia-CD-0.7.iso|Mirror 1]]<<BR>>[[http://cdpedia.nqnwebs.com/cdpedia-CD-0.7.iso|Mirror 2]]<<BR>>[[http://cdpedia.usla.org.ar/cdpedia-CD-0.7.iso|Mirror 3]] ||93500 artículos, 10% de imágenes||
-||DVD ||4.4Gb ||2c7b3746f4e68fc351e727d2ef8b342478e64667 ||[[http://cdpedia.nqnwebs.com/cdpedia-DVD5-0.7.iso|Mirror 1]]<<BR>>[[http://cdpedia.nassty.com.ar/cdpedia-DVD5-0.7.iso|Mirror 2]]<<BR>>[[http://cdpedia.usla.org.ar/cdpedia-DVD5-0.7.iso|Mirror 3]] ||Todos los artículos (886 mil), 45% de imágenes.||
+||<tablewidth="90%" tablestyle="text-align:center">'''Formato'''||'''Tamaño'''||<style="font-weight: bold;">sha1sum||'''Descargar'''^[1]^||'''Contenido'''||
+||CD ||700.7Mb ||e674c7d19ab8e5ac53a1d09b7bb172047cd1f0c9 || [[http://cdpedia.nassty.com.ar/cdpedia-CD-0.7.iso|Descargar]]<<BR>>[[http://cdpedia.nqnwebs.com/cdpedia-CD-0.7.iso|Descargar]]<<BR>>[[http://cdpedia.usla.org.ar/cdpedia-CD-0.7.iso|Descargar]] ||93500 artículos, 10% de imágenes||
+||DVD ||4.4Gb ||2c7b3746f4e68fc351e727d2ef8b342478e64667 ||[[http://cdpedia.nqnwebs.com/cdpedia-DVD5-0.7.iso|Descargar]]<<BR>>[[http://cdpedia.nassty.com.ar/cdpedia-DVD5-0.7.iso|Descargar]]<<BR>>[[http://cdpedia.usla.org.ar/cdpedia-DVD5-0.7.iso|Descargar]] ||Todos los artículos (886 mil), 45% de imágenes.||
 
+^[1]^ Elija alguno de los tres links de descarga.
 
 Versiones anteriores se encuentran listadas en [[Proyectos/CDPedia/VersionesAnteriores|esta página]].
 
@@ -30,7 +35,7 @@ Ponés el disco generado en tu equipo y cuando se abra la carpeta con el CD hac�
 Esta versión funciona en Linux, Mac o Windows sin tener que instalar ningún software adicional (se necesita solamente Python: en Linux y Mac ya viene instalado, la versión para Windows está incluída en el CD y se usa directamente).
 
 == Información del proyecto ==
-El proyecto está [[http://code.google.com/p/cdpedia/|hosteado acá]].
+El desarrollo de CDPedia se realiza en [[http://code.google.com/p/cdpedia/|este sitio]].
 
 Ante cualquier duda, nos podés contactar mandando un mail a <<MailTo(cdpedia EN googlegroups PUNTO com)>>
 
