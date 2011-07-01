@@ -1,4 +1,8 @@
-= Qué dice la prensa sobre CDPedia =
+= Notas de prensa =
+
+ * [[Proyectos/CDPedia/Prensa/Release0.7|Versión 0.7]] (30 de junio de 2011)
+
+= Artículo sobre CDPedia =
 
  * Infobae: [[http://www.infobae.com/tecnologia/496509-601275-0-Reparten-escuelas-argentinas-DVD-contenido-Wikipedia|Reparten en escuelas argentinas DVD con contenido de Wikipedia]]
  * RedUSERS: [[http://www.redusers.com/llega-cdpedia-una-wikipedia-en-cd-para-quienes-no-tienen-internet| CDPedia: una Wikipedia en CD para quienes no tienen Internet ]]
