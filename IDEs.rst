@@ -103,7 +103,7 @@ NINJA-IDE (Ninja Is Not Just Another IDE), es un IDE para Python hecho en Python
 Esta desarrollado utilizando PyQt y gracias al sistema de Plugins que posee NINJA-IDE, hace que este sea fácilmente extensible.
 Realizado por miembros de PyAr y otros Colaboradores.
 
-[[http://ninja-ide.org.ar]]
+[[http://ninja-ide.org]]
 
 
 
