@@ -1,5 +1,7 @@
 == Conferencias ==
 
+ * [[http://ar.pycon.org/2011/conference/about| PyCon Argentina 2011]], a realizarse el 23 y 24 de Septiembre de 2011 en la ciudad de Junín ( Buenos Aires ).
+
  * [[http://ar.pycon.org/2010/about/| PyCon Argentina 2010]], a realizarse el 15 y 16 de octubre de 2010 en la ciudad de Córdoba.
 
  * [[/PyDayBuenosAires2010| Python Day Buenos Aires 2010]], a realizarse el 04 de Septiembre del 2010, en la Ciudad Autónoma de Buenos Aires.
