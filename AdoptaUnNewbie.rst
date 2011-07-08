@@ -12,7 +12,6 @@
 === Disponibles ===
  * Mauro Lizaur (debian, algo de django, cosas en general, ayuda con proyectos grandes(?). )
  * MartinAlderete (Ninja-IDE, Qt/PyQt, python web frameworks, python en general) http://github.com/malderete
- * JuanFisanotti (django, python en general, un poco de vim)
  * ManuelNaranjo (django, dbus, bluetooth, opencv, numpy y scipy, cosas relacionadas con electrónica en general y señales)
  * Facundo Batista: Para CDPedia, Lalita, Python, Twisted a Py3, Enjuewemela y Magicicada (más info [[http://www.taniquetil.com.ar/plog/post/1/507|acá]]).
  * --(Horacio Duran: Para plone, python, django bastante basico, pregunten y les cuento si se o no.)--
@@ -21,6 +20,7 @@
 === Ocupados ===
  * Mariano Guerra ([[AnaMassone|Anna Massone]] y [[DiegoAhumada|Diego Ahumada]])
  * DiegoSarmentero ([[MaximilianoChurichi|Maximiliano Churichi]] y Cesar Vargas)
+ * JuanFisanotti (django, python en general, un poco de vim) (Hernan Lozano)
 
 === Disponibles como mentores de charlas ===
  * Juan BC
