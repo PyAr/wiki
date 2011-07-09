@@ -23,7 +23,7 @@ Por privado, al correo electrónico ''' pyconar2011@gmail.com ''' , un miembro d
  * Descripción de la aplicación.
  * Funcionalidades básicas ( las que se pretende que pueden llegar a escribir durante la competencia )
  * Funcionalidades futuras ( las que se podran agregar luego )
- * Categoría de aplicación: Por ej: Juego, Framework, Sysadmin, Web, etc.
+ * Categoría de aplicación: Por ej: Juego, Utilidad, Sysadmin, Web, etc.
 
 '''La  idea detrás de todo esto es divertirnos y ver que se puede hacer en 2 o 3 horas  de programación con amigos en Python. La única ventaja que tienen es que pueden  pensar la aplicación antes del evento. Lo que no pueden es programar desde antes. El código lo deben escribir durante la competencia.'''
 
