@@ -1,6 +1,6 @@
 '''PyConApp 2011'''
 
-El juego consiste en '''armar grupos de hasta 4 personas ( máximo )'''  que deben preparar en los dos días que dura PyConAr 2011 una  aplicación, que tenga al menos sus funcionalidades básicas terminadas, en  los tracks de juegos que va a tener PyConAr 2011.
+El juego consiste en '''armar grupos de hasta 4 personas ( máximo )'''  que deben preparar en los dos días que dura el evento una  aplicación, que tenga al menos sus funcionalidades básicas terminadas, en  los tracks de juegos que habrá.
 
  '''¿ Cuanto tiempo va a haber ?; muy poco. Cada equipo va a tener entre 2 y 3 horas entre los dos días'''.''' Pero, vamos!, es Python, tenemos una comunidad de programadores muy buena, así que queremos ver qué sale.'''
 
