@@ -27,6 +27,6 @@ Por privado, al correo electrónico ''' pyconar2011@gmail.com ''' , un miembro d
 
 '''La  idea detrás de todo esto es divertirnos y ver que se puede hacer en 2 o 3 horas  de programación con amigos en Python. La única ventaja que tienen es que pueden  pensar la aplicación antes del evento. Lo que no pueden es programar desde antes. El código lo deben escribir durante la competencia.'''
 
-Deadline presentación de propuestas y equipos : 24 de Julio de 2011.
+Deadline presentación de propuestas y equipos : '''24 de Julio de 2011'''.
 
 Equipos PyConApp 2011
