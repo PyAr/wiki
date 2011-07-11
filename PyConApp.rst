@@ -1,4 +1,4 @@
-'''PyConApp 2011'''
+= PyConApp 2011 =
 
 El juego consiste en '''armar grupos de hasta 4 personas ( máximo )'''  que deben preparar en los dos días que dura el evento una  aplicación, que tenga al menos sus funcionalidades básicas terminadas, en  los tracks de juegos que habrá.
 
@@ -29,4 +29,7 @@ Por privado, al correo electrónico ''' pyconar2011@gmail.com ''' , un miembro d
 
 Deadline presentación de propuestas y equipos : '''24 de Julio de 2011'''.
 
-Equipos PyConApp 2011
+== Equipos PyConApp 2011 ==
+
+|| '''Miembros''' || '''Nombre del Equipo''' || '''Nombre de la Aplicación''' ||
+|| ''agrega nombre y mail de cada miembro del equipo'' || ''Aquí el nombre del equipo'' || ''Aquí el nombre de la aplicación'' ||
