@@ -17,7 +17,7 @@ Tenés que elegir tres de las disponibles y podés proponer ( hasta ) una nueva 
  * Llavero
  * Taza
  * Calcomanías
- * Muñeco/Figura de serpientes
+ * Muñeco/Figura de serpiente python
  * Otro ( especificar cúal )
 
 Para votar simplemente completá con tu nombre, dirección de email y elección en esta misma página.''' '''
