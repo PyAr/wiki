@@ -1,6 +1,3 @@
-Material de difusión PyConAr 2011
-
-Banner web
-
-
-Gráfica
+= Material de difusión Pyconar 2011 =
+=== Banner web ===
+=== Gráfica ===
