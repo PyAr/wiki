@@ -25,6 +25,6 @@ Para votar simplemente completá con tu nombre, dirección de email y elección 
 
 '''Marcelo Martinovic - marcelo.martinovic@gmail.com - Taza / Calcomanía / Pin'''
 
-'''Juan Rodríguez Monti - juanrodriguezmonti_en_gmail.com - Taza - Llavero - Calcomania'''
+'''Juan Rodríguez Monti - juanrodriguezmonti_en_gmail.com - Taza / Llavero / Calcomania'''
 
 === ( Se recibirán votos hasta el 1 de Agosto de 2011 ) ===
