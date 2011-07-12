@@ -21,6 +21,7 @@ Por cuestiones presupuestarias no podemos garantizar que la primera opción ser�
 Para votar simplemente completá con tu nombre, dirección de email y elección en esta misma página.
 
 '''Alfredo Pérez - aperez@gmail.com - Gorra / Taza / Calcomanía'''
+
 '''Marcos Vanetta - marcosvanetta_no_quiero_spam_gmail_com - Taza / Calcomanía / Pin'''
 
 === Votos - ( Se recibirán votos hasta el 1 de Agosto de 2011 ) ===
