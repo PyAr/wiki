@@ -1,6 +1,5 @@
 == Merchandising Pyconar 2011 ==
-¿ Que regalo te gustaría que haya en tu bolsa de Pyconar 2011 ?
-
+=== ¿ Que regalo te gustaría que haya en tu bolsa de Pyconar 2011 ? ===
 Para Pyconar 2011 vamos a hacer que elijas uno de los regalos ( seran varios ? ) que te gustaría llevarte del evento.
 
 ¿ Te gusta el merchandising de los eventos y conferencias ?, a nosotros nos encanta. Entonces pensamos que seria bueno que este año podamos elegir entre todos uno de los regalos que va a haber en la bolsa de Pyconar 2011 para cada uno de los asistentes.
