@@ -18,9 +18,8 @@ Por cuestiones presupuestarias no podemos garantizar que la primera opción ser�
  * Muñeco/Figura de serpientes
  * Otro ( especificar cúal )
 
-Para votar simplemente completá con tu nombre, dirección de email y elección en esta misma página.
-
-'''<<BR>>'''
+Para votar simplemente completá con tu nombre, dirección de email y elección en esta misma página.'''
+'''
 
 '''Marcos Vanetta - marcosvanetta_no_quiero_spam_gmail_com - Taza / Calcomanía / Pin'''
 
