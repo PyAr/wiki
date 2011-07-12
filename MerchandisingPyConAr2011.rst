@@ -24,4 +24,6 @@ Para votar simplemente completá con tu nombre, dirección de email y elección 
 
 '''Marcos Vanetta - marcosvanetta_no_quiero_spam_gmail_com - Taza / Calcomanía / Pin'''
 
+'''Marcelo Martinovic - marcelo.martinovic@gmail.com - Taza / Calcomanía / Pin'''
+
 === Votos - ( Se recibirán votos hasta el 1 de Agosto de 2011 ) ===
