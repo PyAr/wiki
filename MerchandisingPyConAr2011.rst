@@ -27,4 +27,6 @@ Para votar simplemente completá con tu nombre, dirección de email y elección 
 
 '''Juan Rodríguez Monti - juanrodriguezmonti_en_gmail.com - Taza / Llavero / Calcomania'''
 
+'''Gonzalo García Berrotarán - j0hn.com.ar_at_gmail.com - Taza / Calcomania / Pin'''
+
 === ( Se recibirán votos hasta el 1 de Agosto de 2011 ) ===
