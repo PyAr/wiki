@@ -29,4 +29,6 @@ Para votar simplemente completá con tu nombre, dirección de email y elección 
 
 '''Gonzalo García Berrotarán - j0hn.com.ar_at_gmail.com - Taza / Calcomania / Pin'''
 
+'''Emiliano Dalla Verde Marcozzi - edvm at airtrack.com.ar - Taza / Gorra / Pin'''
+
 === ( Se recibirán votos hasta el 1 de Agosto de 2011 ) ===
