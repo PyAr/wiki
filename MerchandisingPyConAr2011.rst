@@ -31,4 +31,6 @@ Para votar simplemente completá con tu nombre, dirección de email y elección 
 
 '''Emiliano Dalla Verde Marcozzi - edvm at airtrack.com.ar - Taza / Gorra / Pin'''
 
+'''Martín Volpe - martin.volpe º gmail.com - Taza / Calcomanía / Muñeco'''
+
 === ( Se recibirán votos hasta el 1 de Agosto de 2011 ) ===
