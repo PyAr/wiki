@@ -20,6 +20,11 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 
+==== 1/07/2011 ====
+
+Python Argentina se enorgullece de anunciar la versión 0.7 de la CDPedia.  Esta versión fue entregada a Educ.ar para ser distribuida en escuelas del todo el país, y ya está disponible para la descarga pública. Más información e instrucciones para la descarga, [[http://cdpedia.python.org.ar/|aquí]].
+
+
 ==== 11/06/2011 ====
 
 Se encuentra abierta la inscripción para el evento 
