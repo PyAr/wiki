@@ -45,7 +45,7 @@ ObtenerSensacionTermica: Calcular la Sensacion Termica o Temperatura Aparente.
 
 [[Recetario/Bottle/HolaMundo|Hola Mundo]] : una aplicacion minima que muestra el mensaje hola mundo.
 
-
+[[Recetario/Bottle/Galeria|Mini Galeria de Imagenes]] : una aplicacion minima que muestra una Galeria de Imagenes Animada.
 
 == Interfaces graficas ==
 === Gtk ===
