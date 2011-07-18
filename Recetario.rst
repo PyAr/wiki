@@ -200,6 +200,8 @@ MapeandoMemoria: Cómo generar un mapa de la memoria con heapy
 
 [[Xdg-Sudo]]: El sudo Grafico Universal, para Escritorios GTK/QT/whatever, inspirado en ''xdg-open'' de Linux.
 
+[[Chequeo de Paquetes, APT, Linux]]: Chequear si un Programa esta instalado, o no, y si existe en Linux.
+
 == Internet ==
 /RevisarConexion: revisar si estamos conectados a internet conexión.
 
