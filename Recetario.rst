@@ -41,6 +41,12 @@ ObtenerSensacionTermica: Calcular la Sensacion Termica o Temperatura Aparente.
 
 [[Django/ObtenerClaseOriginalCuandoHayHerencia]] : Cuando usamos herencia de modelos, si `bar` y `baz` son subclases de `foo`, podemos hacer que `foo.objects.all()` devuelva instancias de `bar` o `baz` dependiendo de cómo creamos el objeto orignalmente.
 
+=== Bottle ===
+
+[[Recetario/Bottle/HolaMundo|Hola Mundo]] : una aplicacion minima que muestra el mensaje hola mundo.
+
+
+
 == Interfaces graficas ==
 === Gtk ===
 [[/Gui/Gtk/HolaMundo]] : una ventana que muestra el mensaje hola mundo
