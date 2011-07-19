@@ -7,9 +7,11 @@ PyAr, el '''Grupo de Usuarios de Python de Argentina''' invita a toda la comunid
 En este evento nos juntaremos desarrolladores y programadores tanto principiantes como avanzados; bloggers, autores y diseñadores web; gerentes, administradores y emprendedores; científicos, ingenieros, curiosos y todo aquel que tenga ganas de acercarse a la comunidad Python en Argentina. El autor de cada charla seleccionada participará presencialmente, como orador en el evento. En los casos en que la charla sea realizada por varios autores, se permitirá un máximo de 3 oradores.
 
 == Dónde enviar las Charlas ==
-Hay dos modos de enviar las charlas. El primero es para aquellas personas que tengan una idea de charla en la cabeza, o tengan planeado dar una charla pero todavía no han armado los slides, ni la han preparado al 100 %.''' Si tenés una idea de charla, si creés que estás capacitado para dar una charla sobre un tema, envianos un mail contandonos sobre la idea de tu charla a : pyconar2011@gmail.com y la organización se comunicará con vos para ayudarte a preparar tu propuesta para luego ser evaluada. Todas las charlas van a ser ingresadas al sistema para su evaluación. '''
+Hay dos modos de enviar las charlas.
 
-La segunda opción es para quienes tienen una propuesta de charla definida, con el material de la charla listo. Si tenés tu charla preparada, registrate en el sitio y enviá tu propuesta allí mismo. La dirección web es :  http://ar.pycon.org/2011/conference/proposals/submit/ .
+El primero es hacerlo a través del correo electrónico. '''Podés enviar tu propuesta de charla a '''''' : pyconar2011@gmail.com . Si te falta armar los slides o si tenés alguna inquietud sobre tu propuesta de charla, escribinos y vamos a ayudarte. '''
+
+La segunda opción es cargar la charla directamente en el sistema. Enviá la charla hoy mismo!. La dirección web es :  http://ar.pycon.org/2011/conference/proposals/submit/ .
 
 La fecha límite de envío de charlas es el '''Viernes 1 de Julio de 2011''' inclusive. En caso de que necesiten hacer consultas o plantear inconvenientes, por favor contactarse a: '''pyconar2011 <en> gmail.com''' o a nuestra lista de correo : https://listas.usla.org.ar/cgi-bin/mailman/listinfo/pyconar2011 .
 
