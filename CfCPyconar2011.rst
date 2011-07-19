@@ -1,7 +1,7 @@
 = Call for Charlas Pyconar 2011 =
 == Tercera Conferencia Argentina de Python ==
-== 23 y 24 de Septiembre de 2011 ==
-== Universidad Nacional del Noroeste de la Provincia de Buenos Aires -  UNNOBA Junín ( Buenos Aires ) ==
+== 23 y 24 de Septiembre de 2011 -  UNNOBA Junín ( Buenos Aires ) ==
+== Universidad Nacional del Noroeste de la Provincia de Buenos Aires ==
 PyAr, el '''Grupo de Usuarios de Python de Argentina''' invita a toda la comunidad de usuarios de Python y del Software Libre en general a proponer presentaciones y charlas para la Tercera Conferencia Argentina de Python que se realizará los días '''23 y 24 de Septiembre de 2011''', en la '''Universidad Nacional del Noroeste de la Provincia de Buenos Aires - UNNOBA''', en la '''ciudad de Junín ( Buenos Aires)'''.
 
 En este evento nos juntaremos desarrolladores y programadores tanto principiantes como avanzados; bloggers, autores y diseñadores web; gerentes, administradores y emprendedores; científicos, ingenieros, curiosos y todo aquel que tenga ganas de acercarse a la comunidad Python en Argentina. El autor de cada charla seleccionada participará presencialmente, como orador en el evento. En los casos en que la charla sea realizada por varios autores, se permitirá un máximo de 3 oradores.
