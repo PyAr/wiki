@@ -39,7 +39,7 @@ Si estas cerca o tenes alguna relación con una universidad que no tiene el Tuto
 ||Gonzalo Delgado ||<<MailTo(  gonzalodel EN  gmail PUNTO com)>> ||Universidad Nacional de Tucumán (Facultad de Ciencias Exactas y Tecnología); Universidad Tecnológica Nacional (Facultad Regional Tucumán) ||(1) ||
 ||Alejandro Santos ||<<MailTo(  alejolp EN  alejolp PUNTO com PUNTO ar)>> ||UNLP ||(4) Van Rossum, Guido. Tutorial de Python. [[http://catalogo.info.unlp.edu.ar/cgi-bin/koha/opac-detail.pl?bib=2915|DIF-03497, DIF-03498]] ||
 ||Pereyra Carlos ||<<MailTo(  pereyra-carlos EN  hotmail PUNTO com)>> ||UTN FRLP ||(1) ||
-||Rafael Moyano ||<<MailTo(  moyanor EN  gmail PUNTO com)>> ||Universidad Nacional de La Rioja ||236 - Id. de libros: 15486 y 15487 ||
+||Rafael Moyano ||<<MailTo(  moyanor EN  gmail PUNTO com)>> ||Universidad Nacional de La Rioja ||(4) 236 - Id. de libros: 15486 y 15487 ||
 ||Pablo Papes ||<<MailTo(  pablopapes EN  gmail PUNTO com)>> ||UTN FRCU ||(1) ||
 ||Manuel Muradás ||<<MailTo(  mmuradas EN  dieresys PUNTO com PUNTO ar)>> ||UADE ||(2) ||
 ||Manuel Muradás ||<<MailTo(  mmuradas EN  dieresys PUNTO com PUNTO ar)>> ||"José Hernandez" E.E.T. Nº7 de Avellaneda ||(2) ||
