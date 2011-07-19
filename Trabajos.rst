@@ -1,5 +1,7 @@
-= Trabajos con Python =
+﻿= Trabajos con Python =
 == 2011 ==
+ * (19/07/2011) Estamos buscando para un start-up programadores (freelance en principio) con experiencia en PYTHON. Se valorarán conocimientos en OpenObject y experiencia en software de gestión. La propuesta es para trabajar en proyectos a largo plazo en desarrollo de ERP OpenSource sobre Linux.  CABA o GBA.  Si te interesa el desafío comunícate con nosotros vía email con el CV y pretensiones a: <<MailTo(contacto EN i3 PUNTO com PUNTO ar)>>
+
  * (15/06/2011) [[http://www.waragon.com|Waragon]] busca desarrolladores web con experiencia laboral en lenguaje Python. El empleo es Full Time (9 a 18), en relación de dependencia, en Capital Federal. Los salarios ofrecidos por nuestro cliente son buenos, dependiendo del nivel técnico del candidato. Los proyectos son aplicaciones web y juegos online, realizados con Flash y Python. Los interesados por favor escribir a <pedro EN waragon PUNTO com>
 
  * (10/05/2011) [[http://www.msa.com.ar|MSA]] busca ampliar su equipo de desarrollo, el cual tendrá a cargo un proyecto muy interesante con tecnologías Web y Open Source, como Python y Linux (Ubuntu). Son deseables conocimientos de Desarrollo Web, PostgreSQL, PyGTK y SQL. Buscamos gente proactiva, con habilidades autodidactas y afinidad al Software Libre, dentro del área de Capital Federal, al menos mientras dure el "start-up" del proyecto. Si pensás que puede interesarte la propuesta, no dejes de comunicarte con nosotros vía mail con el CV y/o pretensiones a <rrhh EN msa PUNTO com PUNTO ar> .
