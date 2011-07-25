@@ -25,7 +25,7 @@
 === Disponibles como mentores de charlas ===
  * Juan BC
  * alecu
- * facundobastista
+ * FacundoBatista
  * Roberto Alsina
  * HoracioDuran
 
