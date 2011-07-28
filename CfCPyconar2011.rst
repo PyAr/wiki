@@ -13,7 +13,7 @@ El primero es hacerlo a través del correo electrónico. '''Podés enviar tu pro
 
 La segunda opción es cargar la charla directamente en el sistema. Enviá la charla hoy mismo!. La dirección web es :  http://ar.pycon.org/2011/conference/proposals/submit/ .
 
-La fecha límite de envío de charlas es el '''Viernes 1 de Julio de 2011''' inclusive. En caso de que necesiten hacer consultas o plantear inconvenientes, por favor contactarse a: '''pyconar2011 <en> gmail.com''' o a nuestra lista de correo : https://listas.usla.org.ar/cgi-bin/mailman/listinfo/pyconar2011 .
+La fecha límite de envío de charlas es el '''Viernes 1 de Agosto de 2011''' inclusive. En caso de que necesiten hacer consultas o plantear inconvenientes, por favor contactarse a: '''pyconar2011 <en> gmail.com''' o a nuestra lista de correo : https://listas.usla.org.ar/cgi-bin/mailman/listinfo/pyconar2011 .
 
 == Cómo enviar las Charlas ==
 El envío de la propuesta de charla debe tener los siguientes datos:
