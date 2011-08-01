@@ -6,11 +6,9 @@ PyAr, el '''Grupo de Usuarios de Python de Argentina''' invita a toda la comunid
 
 En este evento nos juntaremos desarrolladores y programadores tanto principiantes como avanzados; bloggers, autores y diseñadores web; gerentes, administradores y emprendedores; científicos, ingenieros, curiosos y todo aquel que tenga ganas de acercarse a la comunidad Python en Argentina.
 
-'''ACLARACIÓN: Debido a la oferta de becas ofrecidas por Python Argentina para gente que necesite ayuda económica para poder asistir al evento,'''
-''' así como por todos los pedidos de extensión de la fecha de cierre por parte de oradores que hemos recibido, la organización de PyConAr decide volver a extender''' '''el plazo para el envio de propuestas de charlas a PyConAr 2011.'''
+'''ACLARACIÓN: Debido a la oferta de becas ofrecidas por Python Argentina para gente que necesite ayuda económica para poder asistir al evento,''' ''' así como por todos los pedidos de extensión de la fecha de cierre por parte de oradores que hemos recibido, la organización decide volver a extender''' '''el plazo para el envio de propuestas de charlas al evento.'''
 
-''' Por cuestiones de logística y de organización no podremos volver a extender el llamado a charlas, por lo que invitamos a todos a proponer sus charlas'''
-''' próximamente, disponiendo de la extensión que hemos realizado de la fecha límite de entrega de propuestas.'''
+''' Por cuestiones de logística y de organización no podremos volver a extender el llamado a charlas, por lo que invitamos a todos a proponer sus charlas''' ''' próximamente, disponiendo de la extensión que hemos realizado de la fecha límite de entrega de propuestas.'''
 
 El autor de cada charla seleccionada participará presencialmente, como orador en el evento. En los casos en que la charla sea realizada por varios autores, se permitirá un máximo de 3 oradores. No será permitido disertar en forma remota a través de videoconferencia u otra tecnología similar. Las charlas deben ser dictadas en el evento de forma presencial teniendo en cuenta las consideraciones indicadas en este documento. Ante cualquier duda, contactarnos a través de los medios de contacto.
 
