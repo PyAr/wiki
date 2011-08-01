@@ -4,7 +4,17 @@
 == Universidad Nacional del Noroeste de la Provincia de Buenos Aires ==
 PyAr, el '''Grupo de Usuarios de Python de Argentina''' invita a toda la comunidad de usuarios de Python y del Software Libre en general a proponer presentaciones y charlas para la Tercera Conferencia Argentina de Python que se realizará los días '''23 y 24 de Septiembre de 2011''', en la '''Universidad Nacional del Noroeste de la Provincia de Buenos Aires - UNNOBA''', en la '''ciudad de Junín ( Buenos Aires)'''.
 
-En este evento nos juntaremos desarrolladores y programadores tanto principiantes como avanzados; bloggers, autores y diseñadores web; gerentes, administradores y emprendedores; científicos, ingenieros, curiosos y todo aquel que tenga ganas de acercarse a la comunidad Python en Argentina. El autor de cada charla seleccionada participará presencialmente, como orador en el evento. En los casos en que la charla sea realizada por varios autores, se permitirá un máximo de 3 oradores.
+En este evento nos juntaremos desarrolladores y programadores tanto principiantes como avanzados; bloggers, autores y diseñadores web; gerentes, administradores y emprendedores; científicos, ingenieros, curiosos y todo aquel que tenga ganas de acercarse a la comunidad Python en Argentina.
+
+'''ACLARACIÓN: Debido a la oferta de becas ofrecidas por Python Argentina para gente que necesite ayuda económica para poder asistir al evento,'''
+''' así como por todos los pedidos de extensión de la fecha de cierre por parte de oradores que hemos recibido, la organización de PyConAr decide volver a extender''' '''el plazo para el envio de propuestas de charlas a PyConAr 2011.'''
+
+''' Por cuestiones de logística y de organización no podremos volver a extender el llamado a charlas, por lo que invitamos a todos a proponer sus charlas'''
+''' próximamente, disponiendo de la extensión que hemos realizado de la fecha límite de entrega de propuestas.'''
+
+El autor de cada charla seleccionada participará presencialmente, como orador en el evento. En los casos en que la charla sea realizada por varios autores, se permitirá un máximo de 3 oradores. No será permitido disertar en forma remota a través de videoconferencia u otra tecnología similar. Las charlas deben ser dictadas en el evento de forma presencial teniendo en cuenta las consideraciones indicadas en este documento. Ante cualquier duda, contactarnos a través de los medios de contacto.
+
+Por cuestiones presupuestarias, los oradores pueden disponer de las becas ofrecidas por Python Argentina. Quienes necesiten ayuda, deben indicarlo al enviar su propuesta o contactarse por correo privado. [[http://python.org.ar/pyar/BecasPyconar2011|Pueden consultar el documento sobre Becas para PyConAr 2011 si necesitan ayuda económica para asistir al evento]].
 
 == Dónde enviar las Charlas ==
 Hay dos modos de enviar las charlas.
@@ -13,7 +23,7 @@ El primero es hacerlo a través del correo electrónico. '''Podés enviar tu pro
 
 La segunda opción es cargar la charla directamente en el sistema. Enviá la charla hoy mismo!. La dirección web es :  http://ar.pycon.org/2011/conference/proposals/submit/ .
 
-La fecha límite de envío de charlas es el '''Viernes 1 de Agosto de 2011''' inclusive. En caso de que necesiten hacer consultas o plantear inconvenientes, por favor contactarse a: '''pyconar2011 <en> gmail.com''' o a nuestra lista de correo : https://listas.usla.org.ar/cgi-bin/mailman/listinfo/pyconar2011 .
+La fecha límite de envío de charlas es el '''Lunes 15 de Agosto de 2011''' inclusive. En caso de que necesiten hacer consultas o plantear inconvenientes, por favor contactarse a: '''pyconar2011 <en> gmail.com''' o a nuestra lista de correo : https://listas.usla.org.ar/cgi-bin/mailman/listinfo/pyconar2011 .
 
 == Cómo enviar las Charlas ==
 El envío de la propuesta de charla debe tener los siguientes datos:
