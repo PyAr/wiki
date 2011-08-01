@@ -1,5 +1,5 @@
 = Becas PyConAr 2011 =
-Con orgullo anuncio que Python Argentina ofrecerá becas para quienes quieran venir a pyconar 2011, en Septiembre ( ver sitio web para más datos [0] ), y necesiten ayuda económica.
+Con orgullo anuncio que Python Argentina ofrecerá becas para quienes quieran venir a pyconar 2011, en Septiembre ( [[http://ar.pycon.org/2011|ver sitio web para más datos]] ), y necesiten ayuda económica.
 
 Los interesados en recibir ayuda deberan enviar un mail a ''' juanrodriguezmonti@gmail.com ''' detallando  :
 
@@ -19,4 +19,4 @@ Algunas consideraciones útiles sobre las becas :
 
  * Intente pedir el monto de lo que REALMENTE necesita (menos plata para usted significa mas becas y un mejor evento con mas gente)
  * Recuerde que si usted viaja, puede alojarse en lo de un amigo.
- * '''Recuerde que hay promociones con hoteles para los asistentes con un descuento. '''
+ * Recuerde que hay promociones con hoteles para los asistentes con un descuento.
