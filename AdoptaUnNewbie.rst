@@ -8,6 +8,12 @@
  * al terminar el proceso presenta una charla de lo aprendido en un evento (PyDay, PyCamp, PyCon etc.)
  * todos felices
 
+== Proyectos en busca de mentados ==
+
+ * emesene, un cliente de mensajeria instantanea multiplataform escrito en python y gtk (y una version alpha en qt4) 
+   * http://emesene.org
+   * mas info: http://blog.emesene.org/2011/08/call-for-wannabe-developers.html
+
 == Mentores Propuestos ==
 === Disponibles ===
  * Mauro Lizaur (debian, algo de django, cosas en general, ayuda con proyectos grandes(?). )
