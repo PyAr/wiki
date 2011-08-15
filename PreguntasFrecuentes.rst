@@ -196,7 +196,7 @@ Las opciones disponibles son:
 === ¿Como puedo configurar mi interprete para que sea mas amigable? ===
 Si estas usando el interprete interactivo por defecto de python, se recomienda leer los siguientes articulos:
 
- * AutocomplecionEnConsolaInteractiva: Explica como agregar autocomplecion de metodos y atributos con tab en la consola interactiva
+ * [[Recetario/AutocomplecionEnConsolaInteractiva|AutocomplecionEnConsolaInteractiva]]: Explica como agregar autocomplecion de metodos y atributos con tab en la consola interactiva
  * GuardarHistorialEnConsolaInteractiva: Explica como guardar el historial de comandos entre sesiones en la consola interactiva.
  * [[http://www.eseth.org/2008/pimp-pythonrc.html|recursos externos]]
 
