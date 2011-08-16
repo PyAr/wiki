@@ -1,4 +1,3 @@
-
 == Reunión 50  - Martes 23 de Agosto - Ciudad de Buenos Aires, en el bar de la esquina de Medrano y Guardia Vieja - 19hs ==
 
 Codename: ''Al pan pan y al código Python''
@@ -22,6 +21,7 @@ Por favor, si venís a la reunión, anotate en esta lista:
 
 
  ||Facundo Batista ||
+ ||Pablo Mouzo ||
 
 === Lugar ===
 
