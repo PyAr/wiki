@@ -24,6 +24,7 @@ Por favor, si venís a la reunión, anotate en esta lista:
  ||Pablo Mouzo ||
  ||HugoRuscitti ||
  ||JoaquinSorianello ||
+ ||DiegoMascialino ||
 
 == Lugar ==
 
