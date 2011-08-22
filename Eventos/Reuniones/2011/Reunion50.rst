@@ -27,6 +27,7 @@ Por favor, si venís a la reunión, anotate en esta lista:
  ||DiegoMascialino ||
  ||Tomas Zulberti ||
  ||SantiagoPiccinini||
+ ||Tenuki||
 
 == Lugar ==
 
