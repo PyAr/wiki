@@ -26,6 +26,7 @@ Por favor, si venís a la reunión, anotate en esta lista:
  ||JoaquinSorianello ||
  ||DiegoMascialino ||
  ||Tomas Zulberti ||
+ ||SantiagoPiccinini||
 
 == Lugar ==
 
