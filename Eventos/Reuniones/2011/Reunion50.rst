@@ -20,19 +20,19 @@ Codename: ''Al pan pan y al código Python''
 Por favor, si venís a la reunión, anotate en esta lista:
 
 
- ||Facundo Batista ||
- ||Pablo Mouzo ||
- ||HugoRuscitti ||
- ||JoaquinSorianello ||
- ||DiegoMascialino ||
- ||Tomas Zulberti ||
- ||SantiagoPiccinini||
- ||Tenuki||
- ||HectorSanchez||
- ||alecu||
- ||OSiUX||
- ||Damián||
-
+ ||Facundo Batista || x ||
+ ||Pablo Mouzo || x ||
+ ||HugoRuscitti || x ||
+ ||JoaquinSorianello || x ||
+ ||DiegoMascialino || x ||
+ ||Tomas Zulberti ||||
+ ||SantiagoPiccinini||||
+ ||Tenuki||||
+ ||HectorSanchez|| x ||
+ ||alecu||||
+ ||OSiUX|| x ||
+ ||Damián|| x ||
+ ||chagi || x ||
 == Lugar ==
 
 El Bar de siempre, en Medrano y Guardia Vieja.
