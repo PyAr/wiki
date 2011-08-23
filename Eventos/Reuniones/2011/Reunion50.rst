@@ -27,12 +27,12 @@ Por favor, si venís a la reunión, anotate en esta lista:
  ||DiegoMascialino || x ||
  ||Tomas Zulberti ||||
  ||SantiagoPiccinini||||
- ||Tenuki||||
+ ||Tenuki|| x ||
  ||HectorSanchez|| x ||
  ||alecu||||
  ||OSiUX|| x ||
  ||Damián|| x ||
- ||chagi || x ||
+ ||chaghi || x ||
 == Lugar ==
 
 El Bar de siempre, en Medrano y Guardia Vieja.
