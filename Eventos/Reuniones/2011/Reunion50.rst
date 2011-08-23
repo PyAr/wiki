@@ -30,6 +30,7 @@ Por favor, si venís a la reunión, anotate en esta lista:
  ||Tenuki||
  ||HectorSanchez||
  ||alecu||
+ ||OSiUX||
 
 == Lugar ==
 
