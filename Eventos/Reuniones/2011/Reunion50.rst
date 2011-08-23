@@ -29,11 +29,19 @@ Por favor, si venís a la reunión, anotate en esta lista:
  ||SantiagoPiccinini||||
  ||Tenuki|| x ||
  ||HectorSanchez|| x ||
+
+---- /!\ '''Edit conflict - other version:''' ----
  ||alecu|| x ||
+
+---- /!\ '''Edit conflict - your version:''' ----
+ ||alecu|| x ||
+
+---- /!\ '''End of edit conflict''' ----
  ||OSiUX|| x ||
  ||Damián|| x ||
  ||chaghi || x ||
-== Lugar ==
+ ||pablo zilliani || x ||
+ == Lugar ==
 
 El Bar de siempre, en Medrano y Guardia Vieja.
 
