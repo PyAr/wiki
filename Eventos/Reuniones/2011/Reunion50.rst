@@ -8,7 +8,7 @@ Codename: ''Al pan pan y al código Python''
 
  * Próxima PyCon
 
- * CDPedia: estado de situación, futuro
+ * CDPedia: estado de situción, futuro
 
  * Promover Python en el sistema educativo
 
@@ -29,18 +29,13 @@ Por favor, si venís a la reunión, anotate en esta lista:
  ||SantiagoPiccinini||||
  ||Tenuki|| x ||
  ||HectorSanchez|| x ||
-
----- /!\ '''Edit conflict - other version:''' ----
  ||alecu|| x ||
-
----- /!\ '''Edit conflict - your version:''' ----
- ||alecu|| x ||
-
----- /!\ '''End of edit conflict''' ----
  ||OSiUX|| x ||
  ||Damián|| x ||
  ||chaghi || x ||
  ||pablo zilliani || x ||
+ ||javier kragen || x ||
+
  == Lugar ==
 
 El Bar de siempre, en Medrano y Guardia Vieja.
