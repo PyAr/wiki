@@ -29,7 +29,7 @@ Por favor, si venís a la reunión, anotate en esta lista:
  ||SantiagoPiccinini||||
  ||Tenuki|| x ||
  ||HectorSanchez|| x ||
- ||alecu||||
+ ||alecu|| x ||
  ||OSiUX|| x ||
  ||Damián|| x ||
  ||chaghi || x ||
