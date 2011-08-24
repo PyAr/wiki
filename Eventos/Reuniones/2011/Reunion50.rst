@@ -35,6 +35,8 @@ Por favor, si venís a la reunión, anotate en esta lista:
  ||chaghi || x ||
  ||pablo zilliani || x ||
  ||javier kragen || x ||
+ ||leitomonk|| x ||
+ ||nicolás pace || x ||
 
  == Lugar ==
 
