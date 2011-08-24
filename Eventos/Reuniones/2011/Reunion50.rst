@@ -82,8 +82,8 @@ Las desventajas:
  * Quizas cambie el espiritu del grupo
 
 Para que sirve la personeria:
-* Conseguir donaciones
-* Dejar de depender de otros organismos.
+ * Conseguir donaciones
+ * Dejar de depender de otros organismos.
 
 No logramos ponernos demasiado de acuerdo con cual es el objetivo real de tener personería juridica, ni para que necesitamos la plata.
 
