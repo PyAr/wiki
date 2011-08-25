@@ -1,22 +1,22 @@
 ## page was renamed from Eventos/Reuniones/2011/Reunion46
 ## page was renamed from Eventos/Reuniones/Reunion46
-== Reunión 46 - 7 de Diciembre - Ciudad de Cordoba, en Alfonsina (Casa Tomada) Belgrano 763. ==
+= Reunión 46 - 7 de Diciembre - Ciudad de Cordoba, en Alfonsina (Casa Tomada) Belgrano 763. =
 
 '' codename : better late than never ''
 
-''' Asistentes: '''
+== Asistentes: ==
 || MarianoGarcia ||
 || CarlosBarroso ||
 || DiegoSarmentero ||
 || MarianoGuerra ||
 
 
-'''Temario'''
+== Temario ==
 
  * Organización PyCamp 2011
  * PyAr y PyBar
 
-'''Resumen'''
+== Minuta ==
 
 El pasado jueves 23 de diciembre de 2010 nos reunimos Mariano Guerra (marianoguerra), Mariano
 Garcia Berrotarán(nassty) y yo (nueces), no hubo mucha cerveza, pero
@@ -41,4 +41,6 @@ claro el costo aproximado del evento.
 Esto es todo.
 
 PD: Estamos pidiendo el presupuesto para 40 o 50 personas, por lo que
-sería bueno tener una idea de la cantidad de personas interesadas. 
+sería bueno tener una idea de la cantidad de personas interesadas.
+----
+CategoryReuniones
