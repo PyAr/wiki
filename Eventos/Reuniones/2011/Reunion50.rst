@@ -33,7 +33,7 @@ Por favor, si venís a la reunión, anotate en esta lista:
  ||OSiUX|| x ||
  ||Damián|| x ||
  ||chaghi || x ||
- ||pablo zilliani || x ||
+ ||Pablo Ziliani || x ||
  ||javier kragen || x ||
  ||LeitoMonk|| x ||
  ||NicolasPace || x ||
