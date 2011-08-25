@@ -5,11 +5,11 @@ Cierra EveryDNS y tenemos que mudar los servidores de DNS a usla.
 Los dominios que tenemos, y los registrantes son:
 
  * python.org.ar -> gcoop
- * --(python.com.ar)-- -> nubis
  * pyar.org.ar -> gcoop
- * --(pyar.com.ar)-- -> pabloz
- * pycon.com.ar -> mreingart
  * tutorialpython.com.ar -> humitos
+ * --(python.com.ar)-- -> nubis
+ * --(pyar.com.ar)-- -> pabloz
+ * --(pycon.com.ar)-- -> mreingart
 
 Están --(tachados)-- los que ya fueron mudados.
 
