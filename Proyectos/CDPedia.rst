@@ -43,3 +43,7 @@ Ante cualquier duda, nos podés contactar mandando un mail a <<MailTo(cdpedia EN
 
 == Prensa ==
 [[Proyectos/CDPedia/Prensa|Las Noticias relacionadas a CDPedia]]
+
+== Historia ==
+
+Algo de historia del proyecto, [[Proyectos/CDPedia/Historia|aquí]]
