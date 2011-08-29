@@ -28,6 +28,7 @@
  * Mariano Guerra ([[AnaMassone|Anna Massone]] y [[DiegoAhumada|Diego Ahumada]])
  * DiegoSarmentero ([[MaximilianoChurichi|Maximiliano Churichi]] y Cesar Vargas)
  * JuanFisanotti (django, python en general, un poco de vim) (Hernan Lozano)
+ * MartinAlderete ( PyQt, GUI programming)(Ochoa Gerardo Fidel)
 
 === Disponibles como mentores de charlas ===
  * Juan BC
