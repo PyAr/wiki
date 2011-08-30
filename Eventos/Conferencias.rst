@@ -6,6 +6,8 @@
 
  * [[http://ar.pycon.org/2010/about/| PyCon Argentina 2010]], a realizarse el 15 y 16 de octubre de 2010 en la ciudad de Córdoba.
 
+ * [[CharlasAbiertas2010| Ciclo de Charlas Abiertas de Python Argentina en La Tribu]], realizadas durante el 2010, en [[http://www.fmlatribu.com/|La Tribu]].
+
  * [[/PyDayBuenosAires2010| Python Day Buenos Aires 2010]], a realizarse el 04 de Septiembre del 2010, en la Ciudad Autónoma de Buenos Aires.
 
  * [[/PyDayRafaela2010| Python Day Rafaela 2010]], a realizarse el 08 de Mayo del 2010, en la ciudad de Rafaela, Santa Fe.
