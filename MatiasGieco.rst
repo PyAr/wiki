@@ -44,5 +44,8 @@ nac_bb = datetime.date(2008,04,15) }}}
 {{{
 nac_bullie = datetime.date(2008,04,15) -  datetime.timedelta(366) # si, un año justo justo! }}}
 
+
+--------------
+Pruebas con la wiki en: [[http://python.com.ar/pyar/MatiasGieco/prueba01|Mis Pruebas]]
 ----
  CategoryHomepage
