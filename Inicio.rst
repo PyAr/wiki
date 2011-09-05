@@ -49,6 +49,8 @@
  * [[Trabajos]]: Cartelera de ofertas laborales relacionadas con Python.
 
  * [[Donaciones]]: ¡Donale una moneda a PyAr!
+
+ * [[AdoptaUnNewbie]]: Ayuda en proyectos para gente que recién comienza
  
 
 <<BR>>
