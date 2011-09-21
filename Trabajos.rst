@@ -1,6 +1,8 @@
 = Trabajos con Python =
 
 == 2011 ==
+ * (21/09/2011) [[http://www.onapsis.com|Onapsis]], Empresa líder en seguridad ERP con sede en BsAs, busca programadores Python para incorporar a su equipo de desarrollo, con experiencia en frameworks web Pyramid/Pylons, SQLAlchemy, Javascript, ExtJS/Sencha, JQuery, TDD. Contacto, mas detalles y requisitos [[http://www.onapsis.com/company-careers-PYD01.php|aca(Ingles)]], para trabajar en el desarrollo de innovadoras  soluciones de software de seguridad, usadas por algunas de las organizaciones mas grandes del mundo.
+
  * (21/09/2011) Se busca desarrolladores Python con framework Django. Son deseables conocimiento de Desarrollo Web, PostgreSQL, PyGTK y SQL.  Trabajo en principio, freelance para el desarrollo de un sistema a medida. Los Interesados contactarse a contacto@anting.com.ar
 
  * (24/08/2011) Seeking a Django developer with previous Django experience for freelance work to add features and capabilities to an existing web site. Please contact me at http://www.frugalpharmacies.com/help/  Please include examples of work and hourly rates.
