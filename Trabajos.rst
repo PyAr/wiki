@@ -1,6 +1,8 @@
 = Trabajos con Python =
 
 == 2011 ==
+ * (21/09/2011) Se busca desarrolladores Python con framework Django. Son deseables conocimiento de Desarrollo Web, PostgreSQL, PyGTK y SQL.  Trabajo en principio, freelance para el desarrollo de un sistema a medida. Los Interesados contactarse a contacto@anting.com.ar
+
  * (24/08/2011) Seeking a Django developer with previous Django experience for freelance work to add features and capabilities to an existing web site. Please contact me at http://www.frugalpharmacies.com/help/  Please include examples of work and hourly rates.
 
  * (19/07/2011) Estamos buscando para un start-up programadores (freelance en principio) con experiencia en PYTHON. Se valorarán conocimientos en OpenObject y experiencia en software de gestión. La propuesta es para trabajar en proyectos a largo plazo en desarrollo de ERP OpenSource sobre Linux.  CABA o GBA.  Si te interesa el desafío comunícate con nosotros vía email con el CV y pretensiones a: <<MailTo(contacto EN i3 PUNTO com PUNTO ar)>>
