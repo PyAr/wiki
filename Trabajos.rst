@@ -1,6 +1,8 @@
 = Trabajos con Python =
 
 == 2011 ==
+ * (26/09/2011) estamos buscando a una persona para que nos ayude algunas semanas a completar una suite de tests para un proyecto web en el que estamos involucrados. Las herramientas que estamos utilizando son: pyramid, sqlalchemy, mako, xlrd, geraldo reports, webtest y nose. Si bien no hace falta ser especialista en ninguna de ellas, la persona que esté interesada en el trabajo debe tener experiencia al menos en unit testing. Si estás interesado, escribime a <<MailTo(mariano.mara EN gmail PUNTO com)>>
+
  * (26/09/2011) Se buscan desarrolladores Python con al menos 2 años de experiencia para trabajar en el desarrollo de aplicaciones Web 2.0. Se requiere buen dominio de Inglés. Se valorarán conocimientos de Django. Interesados, enviar email a matias@bandofcoders.com indicando en el título "REF: Python"
 
  * (21/09/2011) [[http://www.onapsis.com|Onapsis]], Empresa líder en seguridad ERP con sede en BsAs, busca programadores Python para incorporar a su equipo de desarrollo, con experiencia en frameworks web Pyramid/Pylons, SQLAlchemy, Javascript, ExtJS/Sencha, JQuery, TDD. Contacto, mas detalles y requisitos [[http://www.onapsis.com/company-careers-PYD01.php|aca(Ingles)]], para trabajar en el desarrollo de innovadoras  soluciones de software de seguridad, usadas por algunas de las organizaciones mas grandes del mundo.
