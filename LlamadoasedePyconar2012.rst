@@ -1,10 +1,10 @@
-Llamado a sede para PyConAr 2012
+Llamado a sede para pyconar 2012
 
-Estimados pythoner@s, los invitamos a proponerse ustedes y a su ciudad como la posible sede de la próxima PyCon Argentina.
+Estimados pythoner@s, los invitamos a proponerse ustedes y a su ciudad como la posible sede de la próxima Pycon Argentina.
 
 Vamos a recibir propuestas hasta el 15 de Noviembre de 2011.
 
-Quienes deseen postularse, envien un mail a juanrodriguezmonti@gmail.com - escriban a ese mail, y no a la lista - contando porqué creen que estaría bueno hacer PyConAr en su ciudad, y porqué les parece que pueden cargarse al hombro una PyCon. Cuenten qué tienen pensado para PyConAr 2012. Las ideas nuevas son siempre bienvenidas.
+Quienes deseen postularse, envien un mail a juanrodriguezmonti@gmail.com - escriban a ese mail, y no a la lista - contando porqué creen que estaría bueno hacer PyConAr en su ciudad, y porqué les parece que pueden cargarse al hombro un eveto así. Cuenten qué tienen pensado para la edición 2012. Las ideas nuevas son siempre bienvenidas.
 
 Y no se asusten, manden propuestas que se puede hacer un evento así y es muy lindo organizarlo!.
 
