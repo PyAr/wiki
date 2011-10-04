@@ -1,6 +1,8 @@
 = Trabajos con Python =
 
 == 2011 ==
+ * (04/10/2011) Después de varios años de trabajar freelance en Django y luego ir creando un equipo y sumando programadores, llegué al punto desde el cual ya necesito algún Project Manager que me ayude acompañando proyectos y programadores. El trabajo puede ser a comisión, o con pago por hora; lo podemos hablar.  Si tenés buena experiencia en Django y ganas de liderar proyectos contactame a <<MailTo(javier EN tribalo PUNTO net)>>.
+
  * (26/09/2011) estamos buscando a una persona para que nos ayude algunas semanas a completar una suite de tests para un proyecto web en el que estamos involucrados. Las herramientas que estamos utilizando son: pyramid, sqlalchemy, mako, xlrd, geraldo reports, webtest y nose. Si bien no hace falta ser especialista en ninguna de ellas, la persona que esté interesada en el trabajo debe tener experiencia al menos en unit testing. Si estás interesado, escribime a <<MailTo(mariano.mara EN gmail PUNTO com)>>
 
  * (26/09/2011) Se buscan desarrolladores Python con al menos 2 años de experiencia para trabajar en el desarrollo de aplicaciones Web 2.0. Se requiere buen dominio de Inglés. Se valorarán conocimientos de Django. Interesados, enviar email a matias@bandofcoders.com indicando en el título "REF: Python"
