@@ -2,6 +2,8 @@
 
 == 2011 ==
 
+* (18/10/2011) Se buscan desarrolladores Python con al menos 2 años de experiencia para trabajar en el desarrollo de aplicaciones Web 2.0. Interesados, enviar email a emilia.giobio@nextperience.net indicando en el título "REF: Python"
+
  * (07/10/2011) Buscamos colaboradores (freelance $$) para Proyectos Sofware Libre, temas puntuales (web2py, pyfpdf, pysimplesoap, pyafipws). Más info en: http://listas.python.org.ar/pipermail/pyar/2011-October/014063.html. Contactar a <<MailTo(proyectos EN sistemasagiles PUNTO com PUNTO ar)>>.
 
  * (04/10/2011) Después de varios años de trabajar freelance en Django y luego ir creando un equipo y sumando programadores, llegué al punto desde el cual ya necesito algún Project Manager que me ayude acompañando proyectos y programadores. El trabajo puede ser a comisión, o con pago por hora; lo podemos hablar.  Si tenés buena experiencia en Django y ganas de liderar proyectos contactame a <<MailTo(javier EN tribalo PUNTO net)>>.
