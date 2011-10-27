@@ -10,5 +10,3 @@
  
 
 <<Video(http://pyar.usla.org.ar/final/twisted.ogv)>>
-
-[[http://essay-writer.org/|essay writer]]
