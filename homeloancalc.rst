@@ -7,3 +7,5 @@ There are two main types of '''home''' equity '''loans''' available. A line of c
 {{http://www.insured-life.com/v2/wp-content/gallery/ing-home-loan/ing-home-loan-calculator.jpg}}
 
 ]Input the amount of the '''[[http://www.wiwiculture.com/user_detail.php?u=homeloancalc|home loan calculator]]'''. Find your interest rate and put it into the '''calculator'''. Put in the number of years for the '''loan'''. Use the interest only option. Press calculate. Try the old fashioned way. Multiply the amount that you are borrowing, include fees, times the interest rate. Divide that number by 12. [[BR]][[BR]]
+
+[[http://essaywritingservices.org/prices.php|write my paper]]
