@@ -32,7 +32,7 @@
 == Coordinadores ==
  * Coordinador General: MarianoReingart
  * Co-coordinador general: JuanCabral
- * Coordinación del Lugar: AlbertoPaparelli (contacto con UnQui)
+ * Coordinación del Lugar (contacto con la Universidad): AlbertoPaparelli 
  * Coordinación de Difusión (publicidad):
  * Coordinación de Charlas:
  * Coordinación de Posters: JuanCabral
