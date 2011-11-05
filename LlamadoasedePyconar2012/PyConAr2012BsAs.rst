@@ -93,9 +93,9 @@ Para facilitar la transparencia y rendición de cuentas, todos los ingresos y eg
 
 Se priorizará la ayuda económica (becas) para poder tener mayor diversidad y pluralidad, sobre todo de personas del interior y paises vecinos. Dar una charla, participar de los sprints o colaborar con la organización seran requisitos (importante pero no excluyente) para obtener una beca.
 
-Las remeras y el merchandising (regalos) serán gratuitas solo para los disertantes y organizadores, tendrán un costo (bono contribución) para los asistentes que quieran adquirirlos.
+Las remeras y el merchandising (regalos) serán gratuitas solo para los disertantes y organizadores (de permitirlo el presupuesto), tendrían un costo (bono contribución) para los asistentes que quieran adquirirlos.
 
-Para reunir fondos, también podría ser necesario cobrar un bono contribución para entregar los materiales (el programa, carpeta/bolsas, identificadores y/o certificados).
+Para reunir fondos, también podría ser necesario cobrar un bono contribución para cubrir y entregar los materiales (el programa, carpeta/bolsas, identificadores y/o certificados, dependiendo del presupuesto y calidad deseada).
 
 == Sitio Web ==
 Se utilizará el sitio actual (PyConAr2011) que ya cumple con la mayoría de la funcionalidad necesaria:
