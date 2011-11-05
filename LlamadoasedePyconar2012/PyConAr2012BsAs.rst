@@ -4,7 +4,7 @@
  * Lugar: [[http://www.unq.edu.ar/|UNQUI]] (preconfirmada, ver: [[http://python.org.ar/pyar/LlamadoasedePyconar2012/PyConAr2012BsAs?action=AttachFile&do=get&target=nota_unqui_31_10_2011.jpg|nota]]); [[http://upe.edu.ar/|UPE]] (interesada); [[http://www.frba.utn.edu.ar/|UTN FRBA]], [[http://www.ungs.edu.ar/ms_ungs/|UNGS]] (contactadas); +2 posibles sedes aún no contactadas
  * 5 tracks: 1 auditorio principal, 4 aulas + espacios abiertos/laboratorios/stands
  * Niveles: introductorio, intermedio, avanzado y [[http://us.pycon.org/2012/speaker/extreme|extremo]]
- * Temáticas: python, web (bottle, django, web2py), gui (gtk, qt,wx), comunidad, educacion, empresas, etc.
+ * Temáticas: lenguaje, web (bottle, django, web2py), gui (gtk, qt, wx), juegos, comunidad, educacion, empresas, ciencia.
  * [[http://us.pycon.org/2012/about/|Eventos]]:
   * Sprints (desarrollo): 3 días (Lun/Mar/Mie)
   * Talleres: 1 día (Jue)
