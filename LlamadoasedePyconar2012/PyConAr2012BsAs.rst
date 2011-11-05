@@ -86,7 +86,7 @@ El grupo de revisión será abierto pudiendo participar cualquier miembro de PyA
 
 También serán considerádas las preferencias de los asistentes (votación publica por el sitio web).
 
-== Presupuesto y Becas ==
+== Presupuesto, Becas y Sponsors ==
 La entrada al evento será libre y gratuita.
 
 Para facilitar la transparencia y rendición de cuentas, todos los ingresos y egresos serán registrados a través del sitio web y estarán publicados sin restricciones.
@@ -96,6 +96,11 @@ Se priorizará la ayuda económica (becas) para poder tener mayor diversidad y p
 Las remeras y el merchandising (regalos) serán gratuitas solo para los disertantes y organizadores (de permitirlo el presupuesto), tendrían un costo (bono contribución) para los asistentes que quieran adquirirlos.
 
 Para reunir fondos, también podría ser necesario cobrar un bono contribución para cubrir y entregar los materiales (el programa, carpeta/bolsas, identificadores y/o certificados, dependiendo del presupuesto y calidad deseada).
+
+Los auspiciantes podrán realizar donaciones en las categorías manejadas para eventos anteriores, y posiblemente se contemplarán descuentos para startups, cooperativas y pequeñas o micro empresas. A su vez, los auspiciantes podrán optar por cubrir el costo de los articulos de la conferencia (remeras, colgantes, bolsas, carpetas, lapiceras, impresiones y demás materiales) pudiendo incorporar su logo.
+
+De ser posible, el manejo de fondos se realizará mediante una organización sin fines de lucro (a definir, preferentemente "neutral") y los excedentes quedarán a disponibilidad de futuras ediciones de PyConAr.
+
 
 == Sitio Web ==
 Se utilizará el sitio actual (PyConAr2011) que ya cumple con la mayoría de la funcionalidad necesaria:
