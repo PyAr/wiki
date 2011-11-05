@@ -1,4 +1,7 @@
+{{https://docs.google.com/document/pubimage?id=19j8m7yTCVUKyygY2YDt8CS32wunl8bkYK_-UvgoCfXM&image_id=1No-oqI2pmr3glBQ5aJ9uWfmeb50-xAE|PyConAr2012|width=300}}
+
 = PyCon Argentina 2012 - Buenos Aires =
+
 == Propuesta tentativa ==
  * Fecha: 17 al 22 de Septiembre de 2012 o 1 al 6 de Octubre de 2012
  * Lugar: [[http://www.unq.edu.ar/|UNQUI]] (preconfirmada, ver: [[http://python.org.ar/pyar/LlamadoasedePyconar2012/PyConAr2012BsAs?action=AttachFile&do=get&target=nota_unqui_31_10_2011.jpg|nota]]); [[http://upe.edu.ar/|UPE]] (interesada); [[http://www.frba.utn.edu.ar/|UTN FRBA]], [[http://www.ungs.edu.ar/ms_ungs/|UNGS]] (contactadas); +2 posibles sedes aún no contactadas
