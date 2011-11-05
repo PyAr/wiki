@@ -67,9 +67,9 @@ Sería importante tener más de un coordinador por área, para no recargar de tr
 == Programa ==
 === Llamado a charlas ===
  * Diciembre 2011 - Abril 2012: Recepción de Charlas
- * Abril 2012: Revisión de Charlas
- * Mayo 2012: Notificación de Charlas aceptadas y rechazadas
- * Junio 2012: Armado y publicación del Programa
+ * Mayo 2012: Revisión de Charlas
+ * Junio 2012: Notificación de Charlas aceptadas y rechazadas
+ * Julio 2012: Armado y publicación del Programa
 
 Los posters, talleres, stands de proyectos y startups se revisarán y aprobarán a medida que sean recibidos (hasta completar el cupo).
 
@@ -78,15 +78,19 @@ Las actividades en los Sprints y espacios abiertos pueden ser presentadas en cua
 Las Charlas Relámpago podrán ser subidas al sitio luego de presentarlas.
 
 === Revisión de Charlas ===
+
 Para buscar diversidad, simplificar y facilitar la elección de charlas, se utilizará un sistema de votación ponderada como el usado en PyConAr2011 (similar al de PyConBr2011).
 
 La justificación de cada voto será obligatoria. Se podrá dejar comentarios a los disertantes para que estos puedan modificar o mejorar la charla de ser necesario.
 
-El grupo de revisión será abierto pudiendo participar cualquier miembro de PyAr (previa presentación y aceptación de los miembros interesados, esquema similar al de PyConUS2012).
+El grupo de revisión será abierto pudiendo participar cualquier integrante de PyAr (previa presentación y aceptación de los miembros interesados, esquema similar al de PyConUS2012).
 
 También serán considerádas las preferencias de los asistentes (votación publica por el sitio web).
 
-== Presupuesto, Becas y Sponsors ==
+En principio no se contamplarán prorrogas en la recepción de charlas, y no se harán excepciones para incluir charlas que no hayan pasado por el circuito de revisión.
+
+== Presupuesto, Becas, Sponsors y publicidad ==
+
 La entrada al evento será libre y gratuita.
 
 Para facilitar la transparencia y rendición de cuentas, todos los ingresos y egresos serán registrados a través del sitio web y estarán publicados sin restricciones.
@@ -101,6 +105,7 @@ Los auspiciantes podrán realizar donaciones en las categorías manejadas para e
 
 De ser posible, el manejo de fondos se realizará mediante una organización sin fines de lucro (a definir, preferentemente "neutral") y los excedentes quedarán a disponibilidad de futuras ediciones de PyConAr.
 
+Uno de los objetivos de la conferencia será difundir el lenguaje Python en Argentina, por lo que posiblemente se contraten servicios de publicidad, tanto en medios especializados (revistas, diarios, etc.) como en internet (por ej. adwords)
 
 == Sitio Web ==
 Se utilizará el sitio actual (PyConAr2011) que ya cumple con la mayoría de la funcionalidad necesaria:
