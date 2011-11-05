@@ -35,11 +35,11 @@
 == Coordinadores ==
 
  * Coordinador General: MarianoReingart
- * Co-coordinador general:
+ * Co-coordinador general: JuanCabral
  * Coordinación del Lugar:
  * Coordinación de Difusión (publicidad):
  * Coordinación de Charlas:
- * Coordinación de Posters: 
+ * Coordinación de Posters: JuanCabral
  * Coordinación de Talleres: 
  * Coordinación de Sprints:
  * Coordinación de Espacios Abiertos: 
