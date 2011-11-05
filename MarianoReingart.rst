@@ -4,15 +4,36 @@
 
 Email: <<MailTo(mariano AT SPAMFREE nsis DOT com DOT ar)>>
 
-Academicamente, estoy terminando la tesis de grado en sistemas de la Universidad de Morón, sobre "Desarrollo Rápido de Aplicaciones bajo un Proceso de Software Personal" (ver [[http://docs.google.com/Doc?id=dd9bm82g_9hdxr5whc|artículo]]), para lo cual creo que Python es la solución, por eso me interesan temas que involucren RAD para GUI/WEB, tomando una IDE (Pythonwin, PyCrust, PythonCard, etc.) y "extenderla" para lograr control y aseguramiento de calidad en una herramienta totalmente integrada, desde el analisis a la implementación.
+Academicamente, estoy terminando la tesis de grado en sistemas de la Universidad de Morón, sobre "Desarrollo Rápido de Aplicaciones bajo un Proceso de Software Personal" (ver [[http://docs.google.com/Doc?id=dd9bm82g_9hdxr5whc|artículo]], y proyecto [[http://rad2py.googlecode.com/|rad2py]]), para lo cual creo que Python es la solución, por eso me interesan temas que involucren RAD para GUI/WEB (sobre todo web2py), tomando una IDE (IDLE, Pythonwin, PyCrust, PythonCard, etc.) y "extenderla" para lograr control y aseguramiento de calidad en una herramienta totalmente integrada, desde el analisis a la implementación.
 
 Laboralmente, trabajo como programador por cuenta propia / freelance, en proyectos propios, de terceros y otros ad-horem; con Python, VisualBasic, PHP; en Linux, Windows; etc., etc.
 
 Me interesa contribuir y fomentar el Software Libre, principalmente programando y/o contestando consultas, dando charlas, cursos de capacitación o participando de conferencias.
 
 === Proyectos ===
- * [[http://www.nsis.com.ar/public/wiki/PyAfip|PyAfip]]: Herramientas para AFIP ([[http://groups.google.com.ar/group/pyafipws|PyAfipWs]] Web Services Factura Electrónica, Controladores Fiscales, etc.)
+
+Algunos de mis proyectos de software libre / código abierto:
+
+ * [[http://pyafipws.googlecode.com/|PyAfip]]: Herramientas para AFIP ([[http://groups.google.com.ar/group/pyafipws|PyAfipWs]] Web Services [[http://www.sistemasagiles.com.ar/trac/wiki/PyAfipWs|Factura Electrónica]], Controladores Fiscales, etc.)
  * [[http://www.nsis.com.ar/public/wiki/PyReplicaEs|PyReplica]]: Replicador simple para PostgreSQL
+ * [[http://rad2py.googlecode.com/|rad2py]]: Plataforma de desarrollo rápido de aplicaciones
+ * [[http://pyfpdf.googlecode.com/|pyfpdf]]: Generardor simple de PDF
+ * [[http://pysimplesoap.googlecode.com/|pysimplesoap]]: Servicios Web
+ * [[http://gui2py.googlecode.com/|gui2py]]: Framework para desarrollo desktop (GUI)
+ * [[http://pyfiscalprinter.googlecode.com/|pyfiscalprinter]]: interfaz para impresoras fiscales (mantainer)
+
+=== Colaboraciones ===
+
+ * [[http://www.postgresql.org/about/press/contact|PostgreSQL Regional Contact para Argentina]]: principalmente difusión, documentación y traducciones (mantengo [[http://www.arpug.com.ar/|ArPUG]], el sitio del grupo de usuarios de PostgreSQL argentina)
+ * [[http://www.web2py.com/examples/default/who|Contributor de web2py]]: snapshot de errores, depurador, webservices, py3k, etc.
+
+=== Docencia ===
+
+Desde 2009 soy docente en el [[http://www.institutopascal.edu.ar/|Instituto Superior Tecnológico Blaise Pascal]], donde dicto dos materias de la carrera de Analista de Sistemas:
+ * [[http://reingart.blogspot.com/p/materia-base-de-datos.html|Bases de Datos]]: modelo relacional, algebra relacional, sql, administración, etc.
+ * [[http://reingart.blogspot.com/p/materia-edi-3.html|Espacio Desarrollo Institucional 3]]: metodologías, procesos y herramientas de software
+
+Para dicha carrera, junto con otros docentes, hemos propuesto un [[https://docs.google.com/View?id=dd9bm82g_428g8zvfvdx|Proyecto Curricular orientado al Software Libre]], para coordinar y mejorar los contenidos de las diversas materias con el software libre como eje principal.
 
 === Temas en los que trato/traté de contribuir ===
  * [[http://www.nsis.com.ar/public/wiki/PyFpdf|PyFpdf]] (generador de PDF): mantenimiento y algunos ports de funciones
