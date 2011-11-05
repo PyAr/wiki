@@ -81,13 +81,14 @@ El grupo de revisión será abierto pudiendo participar cualquier miembro de PyA
 
 También serán considerádas las preferencias de los asistentes (votación publica por el sitio web).
 
-=== Presupuesto y Becas ===
+== Presupuesto y Becas ==
 
 La entrada al evento será libre y gratuita.
 
 Para facilitar la transparencia y rendición de cuentas, todos los ingresos y egresos serán registrados a través del sitio web y estarán publicados sin restricciones.
 
 Se priorizará la ayuda económica (becas) para poder tener mayor diversidad y pluralidad, sobre todo de personas del interior y paises vecinos.
+Dar una charla, participar de los sprints o colaborar con la organización seran requisitos (importante pero no excluyente) para obtener una beca. 
 
 Las remeras y el merchandising (regalos) serán gratuitas solo para los disertantes y organizadores, tendrán un costo (bono contribución) para los asistentes que quieran adquirirlos.
 
