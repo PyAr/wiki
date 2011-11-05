@@ -65,7 +65,9 @@ Para proponerse como colaborador tener en cuenta los siguientes temas:
 
 No son condiciones excluyentes pero ayudan a facilitar la organización.  Ver colaboradores abajo para participar en temas puntuales.
 
-Sería importante tener más de un coordinador por área, para no recargar de trabajo y compartir las responsabilidades. Sobre todo, sería bueno poder coordinar también en conjunto con futuros interesados (por ej. próximas ediciones de PyConAr)
+Tampoco es necesario ser de Buenos Aires, la mayoría de las tareas pueden realizarse de manera remota.
+
+Sería importante tener más de un coordinador por área, para no recargarse de trabajo y compartir las responsabilidades. Sobre todo, sería bueno poder coordinar también en conjunto con futuros interesados (por ej. próximas ediciones de PyConAr)
 
 == Programa ==
 === Llamado a charlas ===
