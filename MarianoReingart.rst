@@ -43,7 +43,7 @@ Desde 2009 soy docente en el [[http://www.institutopascal.edu.ar/|Instituto Supe
  * [[http://reingart.blogspot.com/p/materia-base-de-datos.html|Bases de Datos]]: modelo relacional, algebra relacional, sql, administración, etc.
  * [[http://reingart.blogspot.com/p/materia-edi-3.html|Espacio Desarrollo Institucional 3]]: metodologías, procesos y herramientas de software
 
-Para dicha carrera, junto con otros docentes, hemos propuesto un [[https://docs.google.com/View?id=dd9bm82g_428g8zvfvdx|Proyecto Curricular orientado al Software Libre]], para coordinar y mejorar los contenidos de las diversas materias con el software libre como eje principal.
+Para dicha carrera, junto con otros docentes, hemos propuesto un [[https://docs.google.com/View?id=dd9bm82g_428g8zvfvdx|Proyecto Curricular orientado al Software Libre]], para coordinar y mejorar los contenidos de las diversas materias con Python + PostgreSQL + Ubuntu (GNU/Linux) como ejes principales.
 
 === Temas en los que trato/traté de contribuir ===
  * [[http://www.nsis.com.ar/public/wiki/PyFpdf|PyFpdf]] (generador de PDF): mantenimiento y algunos ports de funciones
