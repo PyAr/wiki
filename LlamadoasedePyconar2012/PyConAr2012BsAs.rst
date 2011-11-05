@@ -34,7 +34,7 @@
 
 == Coordinadores ==
 
- * Coordinador General: 
+ * Coordinador General: MarianoReingart
  * Co-coordinador general:
  * Coordinación del Lugar:
  * Coordinación de Difusión (publicidad):
@@ -54,7 +54,7 @@
  * Coordinación de Materiales (papelería/bolsas/etc.):
  * Coordinación de Transportes y Alojamientos:
  * Coordinación de Voluntarios (colaboradores):
- * Webmaster: 
+ * Webmaster: MarianoReingart
 
 === Requisitos ===
 
