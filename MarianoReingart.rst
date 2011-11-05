@@ -37,6 +37,8 @@ En PyAr, desde 2008 vengo ayudando a organizar distintas conferencias, jornadas 
 
 En 2010 he ayudado en las Jornadas Regionales para traer a Massimo Di Pierro (Lider de Proyecto de Web2Py); y en 2008 ayudé con la organización del PgDay, que contó con la presencia de David Fetter (PostgreSQL) y otros invitados de la región (Brasil, Venezuela).
 
+Internacionalmente, he dado una charla en PgConBr (Conferencia de PostgreSQL Brasil) sobre Replicación y Python (pyreplica)
+
 === Docencia ===
 
 Desde 2009 soy docente en el [[http://www.institutopascal.edu.ar/|Instituto Superior Tecnológico Blaise Pascal]], donde dicto dos materias de la carrera de Analista de Sistemas:
