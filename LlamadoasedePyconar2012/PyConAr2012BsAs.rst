@@ -56,6 +56,17 @@
  * Coordinación de Voluntarios (colaboradores):
  * Webmaster: 
 
+=== Requisitos ===
+
+Para proponerse como colaborador tener en cuenta los siguientes temas:
+ * Ser miembro de PyAr y tener actualizada la página  Wiki personal
+ * Tener tiempo disponible
+ * Tener experiencia mínima en la organización de eventos de este tipo
+ * Haber participado en otros eventos nacionales o internacionales
+
+No son condiciones excluyentes pero ayudan a facilitar la organización. 
+Ver colaboradores abajo para participar en temas puntuales.
+
 == Programa ==
 
 === Llamado a charlas ===
@@ -97,6 +108,7 @@ Para reunir fondos, también podría ser necesario cobrar un bono contribución 
 == Sitio Web ==
 
 Se utilizará el sitio actual (PyConAr2011) que ya cumple con la mayoría de la funcionalidad necesaria:
+ * inscripción (asistentes, disertantes y organizadores)
  * propuesta y revisión de actividades (charlas, talleres, etc.)
  * armado de cronograma
  * ayuda económica (financial aid)
