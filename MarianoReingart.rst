@@ -4,7 +4,7 @@
 
 Email: <<MailTo(reingart AT SPAMFREE gamil DOT com)>>
 
-Academicamente, estoy terminando la tesis de grado en sistemas de la Universidad de Morón, sobre "Desarrollo Rápido de Aplicaciones bajo un Proceso de Software Personal" (ver [[http://docs.google.com/Doc?id=dd9bm82g_9hdxr5whc|artículo]], y proyecto [[http://rad2py.googlecode.com/|rad2py]]), para lo cual creo que Python es la solución, por eso me interesan temas que involucren RAD para GUI/WEB (sobre todo web2py), tomando una IDE (IDLE, Pythonwin, PyCrust, PythonCard, etc.) y "extenderla" para lograr control y aseguramiento de calidad en una herramienta totalmente integrada, desde el analisis a la implementación.
+Academicamente, estoy terminando la tesis de grado en sistemas de la Universidad de Morón, sobre "Desarrollo Rápido de Aplicaciones bajo un Proceso de Software Personal" (ver [[http://docs.google.com/Doc?id=dd9bm82g_9hdxr5whc|artículo]], y proyecto [[http://rad2py.googlecode.com/|rad2py]]), para lo cual creo que Python es la solución, por eso me interesan temas que involucren RAD para GUI/WEB (sobre todo [[http://www.web2py.com/|web2py]]), tomando una IDE (IDLE, Pythonwin, PyCrust, PythonCard, etc.) y "extenderla" para lograr control y aseguramiento de calidad en una herramienta totalmente integrada, desde el analisis a la implementación.
 
 Laboralmente, trabajo como programador por cuenta propia / freelance, en proyectos propios, de terceros y otros ad-horem; con Python, VisualBasic, PHP; en Linux, Windows; etc., etc.
 
@@ -31,7 +31,7 @@ Algunos de mis proyectos de software libre / código abierto:
 === Colaboraciones ===
 
  * [[http://www.postgresql.org/about/press/contact|PostgreSQL Regional Contact para Argentina]]: principalmente difusión, documentación y traducciones (mantengo [[http://www.arpug.com.ar/|ArPUG]], el sitio del grupo de usuarios de PostgreSQL argentina)
- * [[http://www.web2py.com/examples/default/who|Contributor de web2py]]: snapshot de errores, depurador, webservices, py3k, etc.
+ * [[http://www.web2py.com/examples/default/who|Contributor de web2py]]: snapshot de errores, depurador, webservices, py3k, etc. (mangengo [[http://www.web2py.com.ar|web2py.com.ar]], el sitio de web2py en español)
 
 En PyAr, desde 2008 vengo ayudando a organizar distintas conferencias, jornadas y charlas; tratando de difundir el lenguaje y el grupo de usuarios.
 
