@@ -2,13 +2,19 @@
 #format wiki
 == Mariano Reingart ==
 
-Email: <<MailTo(mariano AT SPAMFREE nsis DOT com DOT ar)>>
+Email: <<MailTo(reingart AT SPAMFREE gamil DOT com)>>
 
 Academicamente, estoy terminando la tesis de grado en sistemas de la Universidad de Morón, sobre "Desarrollo Rápido de Aplicaciones bajo un Proceso de Software Personal" (ver [[http://docs.google.com/Doc?id=dd9bm82g_9hdxr5whc|artículo]], y proyecto [[http://rad2py.googlecode.com/|rad2py]]), para lo cual creo que Python es la solución, por eso me interesan temas que involucren RAD para GUI/WEB (sobre todo web2py), tomando una IDE (IDLE, Pythonwin, PyCrust, PythonCard, etc.) y "extenderla" para lograr control y aseguramiento de calidad en una herramienta totalmente integrada, desde el analisis a la implementación.
 
 Laboralmente, trabajo como programador por cuenta propia / freelance, en proyectos propios, de terceros y otros ad-horem; con Python, VisualBasic, PHP; en Linux, Windows; etc., etc.
 
+A su vez, soy docente en un instituto terciario.
+
 Me interesa contribuir y fomentar el Software Libre, principalmente programando y/o contestando consultas, dando charlas, cursos de capacitación o participando de conferencias.
+
+
+Para más información ver [[http://reingart.blogspot.com/p/resume.html|(mi blog)]]
+
 
 === Proyectos ===
 
@@ -26,6 +32,10 @@ Algunos de mis proyectos de software libre / código abierto:
 
  * [[http://www.postgresql.org/about/press/contact|PostgreSQL Regional Contact para Argentina]]: principalmente difusión, documentación y traducciones (mantengo [[http://www.arpug.com.ar/|ArPUG]], el sitio del grupo de usuarios de PostgreSQL argentina)
  * [[http://www.web2py.com/examples/default/who|Contributor de web2py]]: snapshot de errores, depurador, webservices, py3k, etc.
+
+En PyAr, desde 2008 vengo ayudando a organizar distintas conferencias, jornadas y charlas; tratando de difundir el lenguaje y el grupo de usuarios.
+
+En 2010 he ayudado en las Jornadas Regionales para traer a Massimo Di Pierro (Lider de Proyecto de Web2Py); y en 2008 ayudé con la organización del PgDay, que contó con la presencia de David Fetter (PostgreSQL) y otros invitados de la región (Brasil, Venezuela).
 
 === Docencia ===
 
