@@ -2,7 +2,7 @@
 #format wiki
 == Mariano Reingart ==
 
-Email: <<MailTo(reingart AT SPAMFREE gamil DOT com)>>
+Email: <<MailTo(reingart AT SPAMFREE gmail DOT com)>>
 
 Academicamente, estoy terminando la tesis de grado en sistemas de la Universidad de Morón, sobre "Desarrollo Rápido de Aplicaciones bajo un Proceso de Software Personal" (ver [[http://docs.google.com/Doc?id=dd9bm82g_9hdxr5whc|artículo]], y proyecto [[http://rad2py.googlecode.com/|rad2py]]), para lo cual creo que Python es la solución, por eso me interesan temas que involucren RAD para GUI/WEB (sobre todo [[http://www.web2py.com/|web2py]]), tomando una IDE (IDLE, Pythonwin, PyCrust, PythonCard, etc.) y "extenderla" para lograr control y aseguramiento de calidad en una herramienta totalmente integrada, desde el analisis a la implementación.
 
