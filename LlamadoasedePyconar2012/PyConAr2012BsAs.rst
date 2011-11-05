@@ -52,12 +52,14 @@
  * Coordinación de Juegos/Asado:
  * Coordinación de "Merchandising":
  * Coordinación de Materiales (papelería/bolsas/etc.):
+ * Coordinación de Transportes y Alojamientos:
  * Coordinación de Voluntarios (colaboradores):
  * Webmaster: 
 
-== Cronograma ==
+== Programa ==
 
-Llamado a charlas:
+=== Llamado a charlas ===
+
  * Diciembre 2011 - Abril 2012: Recepción de Charlas
  * Abril 2012: Revisión de Charlas
  * Mayo 2012: Notificación de Charlas aceptadas y rechazadas
@@ -68,6 +70,43 @@ Los posters, talleres, stands de proyectos y startups se revisarán y aprobarán
 Las actividades en los Sprints y espacios abiertos pueden ser presentadas en cualquier momento y no requerirán revisión o autorización previa.
 
 Las Charlas Relámpago podrán ser subidas al sitio luego de presentarlas.
+
+=== Revisión de Charlas ===
+
+Para buscar diversidad, simplificar y facilitar la elección de charlas, se utilizará un sistema de votación ponderada como el usado en PyConAr2011 (similar al de PyConBr2011).
+
+La justificación de cada voto será obligatoria. Se podrá dejar comentarios a los disertantes para que estos puedan modificar o mejorar la charla de ser necesario.
+
+El grupo de revisión será abierto pudiendo participar cualquier miembro de PyAr (previa presentación y aceptación de los miembros interesados, esquema similar al de PyConUS2012).
+
+También serán considerádas las preferencias de los asistentes (votación publica por el sitio web).
+
+=== Presupuesto y Becas ===
+
+La entrada al evento será libre y gratuita.
+
+Para facilitar la transparencia y rendición de cuentas, todos los ingresos y egresos serán registrados a través del sitio web y estarán publicados sin restricciones.
+
+Se priorizará la ayuda económica (becas) para poder tener mayor diversidad y pluralidad, sobre todo de personas del interior y paises vecinos.
+
+Las remeras y el merchandising (regalos) serán gratuitas solo para los disertantes y organizadores, tendrán un costo (bono contribución) para los asistentes que quieran adquirirlos.
+
+Para reunir fondos, también podría ser necesario cobrar un bono contribución para entregar los materiales (el programa, carpeta/bolsas, identificadores y/o certificados).
+
+== Sitio Web ==
+
+Se utilizará el sitio actual (PyConAr2011) que ya cumple con la mayoría de la funcionalidad necesaria:
+ * propuesta y revisión de actividades (charlas, talleres, etc.)
+ * armado de cronograma
+ * ayuda económica (financial aid)
+ * sponsors
+ * gastos
+ * identificadores (badges)
+ * certificados
+
+De ser necesario se adaptará y/o modificará el software, pero sería minimo respecto a desarrollo completo, pudiendo utilizar los recursos para otros temas.
+
+Se conversará con la gente USLA respecto al acceso (sudo) y actualización del servidor (python y postgresql), y en caso de no ser viable, se publicara el sitio en un servidor independiente para evitar caidas y contratiempos.
 
 == Colaboradores ==
 
