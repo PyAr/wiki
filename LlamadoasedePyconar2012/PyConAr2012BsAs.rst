@@ -21,7 +21,7 @@
    * [[http://us.pycon.org/2012/sponsors/jobs/|Cartelera de Trabajos]]
    * Posters
  * Sitio Web: http://ar.pycon.or/2012 (simil PyConAr2011)
- * [[https://docs.google.com/document/d/1R2WhSqZqeO3WOpysG7kU2YeA1blOtDWvkKH_ndQqZ5c/edit|Carta de Presentación]]
+ * [[https://docs.google.com/document/pub?id=19j8m7yTCVUKyygY2YDt8CS32wunl8bkYK_-UvgoCfXM|Carta de Presentación]]
 
 == Organización ==
  * Sitio web: http://groups.google.com/group/pyday-baires
