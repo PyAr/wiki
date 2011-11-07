@@ -52,7 +52,6 @@
  * Coordinación de "Merchandising":
  * Coordinación de Materiales (papelería/bolsas/etc.):
  * Coordinación de Transportes y Alojamientos:
- * Coordinación de Voluntarios (colaboradores):
  * Webmaster: MarianoReingart
 
 === Requisitos ===
