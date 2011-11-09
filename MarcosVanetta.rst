@@ -4,7 +4,7 @@
 == Marcos Vanetta - malev ==
 
 Hola!
-Mi nombre es Marcos Vanetta, soy ingeniero Biomédico devenido en programador. Actualmente hago desarrollo web con RoR y uso mucho python para proyectos de código abierto.
+Mi nombre es Marcos Vanetta, soy ingeniero Biomédico y espero pronto convertirme en ingeniero de software. Actualmente hago desarrollo web con RoR y uso mucho python para proyectos de código abierto.
 Les dejo mi [[http://blog.malev.com.ar|blog]] personal por si quieren saber más de mi.
 
 Saludos
