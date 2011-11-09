@@ -37,7 +37,7 @@
  * Co-coordinador general: JuanCabral
  * Coordinación del Lugar (contacto con la Universidad): AlbertoPaparelli 
  * Coordinación de Difusión (publicidad):
- * Coordinación de Charlas:
+ * Coordinación de Charlas: MarcosVanetta
  * Coordinación de Posters: JuanCabral
  * Coordinación de Talleres:
  * Coordinación de Sprints:
