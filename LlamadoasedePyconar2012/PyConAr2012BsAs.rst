@@ -40,17 +40,14 @@
  * Coordinación de Charlas: MarcosVanetta
  * Coordinación de Posters: JuanCabral
  * Coordinación de Talleres:
- * Coordinación de Sprints:
- * Coordinación de Espacios Abiertos:
+ * Coordinación de Sprints, Espacios Abiertos y "Expo Hall":
  * Coordinación de Sponsors (ingresos):
  * Coordinación de Ayuda Económica (becas):
  * Coordinación de Invitados Internacionales:
  * Coordinación de Registración:
- * Coordinación de "Expo Hall":
  * Coordinación de Fotografía, Audio-Video y Streaming:
- * Coordinación de Juegos/Asado:
- * Coordinación de "Merchandising":
- * Coordinación de Materiales (papelería/bolsas/etc.):
+ * Coordinación de "Asado":
+ * Coordinación de Materiales (papelería/bolsas/etc.) y "Merchandising":
  * Coordinación de Transportes y Alojamientos:
  * Webmaster: MarianoReingart
 
