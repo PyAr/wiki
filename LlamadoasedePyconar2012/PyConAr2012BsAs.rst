@@ -41,6 +41,7 @@
  * Coordinación de Posters: JuanCabral
  * Coordinación de Talleres:
  * Coordinación de Sprints, Espacios Abiertos y "Expo Hall":
+ * Coordinación de Difusión/Publicidad: SebastianBassi
  * Coordinación de Sponsors (ingresos):
  * Coordinación de Ayuda Económica (becas):
  * Coordinación de Invitados Internacionales:
