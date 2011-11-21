@@ -2,7 +2,9 @@
 
 == 2011 ==
 
-* (18/10/2011) Se buscan desarrolladores Python con al menos 2 años de experiencia para trabajar en el desarrollo de aplicaciones Web 2.0. Interesados, enviar email a emilia.giobio@nextperience.net indicando en el título "REF: Python"
+ * (21/11/2011) MSA está buscando programadores Python con al menos un año de experiencia para trabajar con tecnologías Web, Linux (Ubuntu), y Software Open Source en general. Son deseables conocimientos de Desarrollo Web y PostgreSQL. Buscamos gente proactiva, con habilidades autodidactas y afinidad al Software Libre, dentro del área de Capital Federal o Gran Bs.As. Hay posibilidades de trabajar a distancia y con horarios flexibles. Si pensás que puede interesarte la propuesta, no dejes de comunicarte con nosotros vía mail con el CV y/o pretensiones a <rrhh EN msa PUNTO com PUNTO ar>.
+
+ * (18/10/2011) Se buscan desarrolladores Python con al menos 2 años de experiencia para trabajar en el desarrollo de aplicaciones Web 2.0. Interesados, enviar email a emilia.giobio@nextperience.net indicando en el título "REF: Python"
 
  * (07/10/2011) Buscamos colaboradores (freelance $$) para Proyectos Sofware Libre, temas puntuales (web2py, pyfpdf, pysimplesoap, pyafipws). Más info en: http://listas.python.org.ar/pipermail/pyar/2011-October/014063.html. Contactar a <<MailTo(proyectos EN sistemasagiles PUNTO com PUNTO ar)>>.
 
