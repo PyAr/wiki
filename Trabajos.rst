@@ -2,6 +2,8 @@
 
 == 2011 ==
 
+ * (24/11/2011) http://xpenser.com/ esta buscando programadores python con conocimientos de django/MySQL/jquery y algo de YUI. Si estas interesado y queres mas detalle contactar a <<MailTo(parand EN xpenser PUNTO com)>>.
+
  * (21/11/2011) MSA está buscando programadores Python con al menos un año de experiencia para trabajar con tecnologías Web, Linux (Ubuntu), y Software Open Source en general. Son deseables conocimientos de Desarrollo Web y PostgreSQL. Buscamos gente proactiva, con habilidades autodidactas y afinidad al Software Libre, dentro del área de Capital Federal o Gran Bs.As. Hay posibilidades de trabajar a distancia y con horarios flexibles. Si pensás que puede interesarte la propuesta, no dejes de comunicarte con nosotros vía mail con el CV y/o pretensiones a <rrhh EN msa PUNTO com PUNTO ar>.
 
  * (18/10/2011) Se buscan desarrolladores Python con al menos 2 años de experiencia para trabajar en el desarrollo de aplicaciones Web 2.0. Interesados, enviar email a emilia.giobio@nextperience.net indicando en el título "REF: Python"
