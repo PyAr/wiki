@@ -91,6 +91,8 @@ También serán considerádas las preferencias de los asistentes (votación publ
 
 En principio no se contamplarán prorrogas en la recepción de charlas, y no se harán excepciones para incluir charlas que no hayan pasado por el circuito de revisión.
 
+De ser posible, se solicitará a los autores de las charlas seleccionadas que presenten artículos relevantes para ser publicados en una edición especial de la Revista [[http://revista.python.org.ar/|Python Entre Todos]]  (''Proceedings''), para ser distribuida en la conferencia.
+
 == Presupuesto, Becas, Sponsors y publicidad ==
 
 La entrada al evento será libre y gratuita.
@@ -105,7 +107,7 @@ Para reunir fondos, también podría ser necesario cobrar un bono contribución 
 
 Los auspiciantes podrán realizar donaciones en las categorías manejadas para eventos anteriores, y posiblemente se contemplarán descuentos para startups, cooperativas y pequeñas o micro empresas. A su vez, los auspiciantes podrán optar por cubrir el costo de los articulos de la conferencia (remeras, colgantes, bolsas, carpetas, lapiceras, impresiones y demás materiales) pudiendo incorporar su logo.
 
-De ser posible, el manejo de fondos se realizará mediante una organización sin fines de lucro (a definir, preferentemente "neutral") y los excedentes quedarán a disponibilidad de futuras ediciones de PyConAr.
+De ser posible, el manejo de fondos se realizará mediante una organización sin fines de lucro (a definir, preferentemente "neutral"), preferentemente relacionada y cercana al evento, y los excedentes quedarán a disponibilidad de futuras ediciones de PyConAr. Miembros del [[http://www.quilmeslug.org/|Quilmes LUG]] se ofrecieron para colaborar ya que la UnQui articula los eventos de software libre con dicha Asociación Civil.
 
 Uno de los objetivos de la conferencia será difundir el lenguaje Python en Argentina, por lo que posiblemente se contraten servicios de publicidad, tanto en medios especializados (revistas, diarios, etc.) como en internet (por ej. adwords)
 
