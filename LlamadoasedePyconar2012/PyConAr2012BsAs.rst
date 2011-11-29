@@ -24,7 +24,7 @@
    * [[http://us.pycon.org/2012/sponsors/jobs/|Cartelera de Trabajos]]
    * Posters
  * Sitio Web: http://ar.pycon.or/2012 (simil PyConAr2011)
- * [[https://docs.google.com/document/pub?id=19j8m7yTCVUKyygY2YDt8CS32wunl8bkYK_-UvgoCfXM|Carta de Presentación]]
+ * [[https://docs.google.com/document/pub?id=1R2WhSqZqeO3WOpysG7kU2YeA1blOtDWvkKH_ndQqZ5c|Carta de Presentación]]
 
 == Organización ==
  * Sitio web: http://groups.google.com/group/pyday-baires
@@ -107,7 +107,7 @@ Para reunir fondos, también podría ser necesario cobrar un bono contribución 
 
 Los auspiciantes podrán realizar donaciones en las categorías manejadas para eventos anteriores, y posiblemente se contemplarán descuentos para startups, cooperativas y pequeñas o micro empresas. A su vez, los auspiciantes podrán optar por cubrir el costo de los articulos de la conferencia (remeras, colgantes, bolsas, carpetas, lapiceras, impresiones y demás materiales) pudiendo incorporar su logo.
 
-De ser posible, el manejo de fondos se realizará mediante una organización sin fines de lucro (a definir, preferentemente "neutral"), preferentemente relacionada y cercana al evento, y los excedentes quedarán a disponibilidad de futuras ediciones de PyConAr. Miembros del [[http://www.quilmeslug.org/|Quilmes LUG]] se ofrecieron para colaborar ya que la UnQui articula los eventos de software libre con dicha Asociación Civil.
+De ser posible, el manejo de fondos se realizará mediante una organización sin fines de lucro (a definir, preferentemente "neutral") relacionada y cercana al evento, y los excedentes quedarán a disponibilidad de futuras ediciones de PyConAr. Miembros del [[http://www.quilmeslug.org/|Quilmes LUG]] se ofrecieron para colaborar ya que la UnQui articula los eventos de software libre con dicha Asociación Civil.
 
 Uno de los objetivos de la conferencia será difundir el lenguaje Python en Argentina, por lo que posiblemente se contraten servicios de publicidad, tanto en medios especializados (revistas, diarios, etc.) como en internet (por ej. adwords)
 
