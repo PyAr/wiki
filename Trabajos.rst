@@ -2,6 +2,8 @@
 
 == 2011 ==
 
+ * (02/12/2011) Estamos buscando un programador Django con buenas ideas de arquitectura de APIs y modelos de datos para que nos ayude a implementar una webapp y un API rest. El proyecto es muy interesante y con varios desafios tecnicos. Por favor contactarse con <<MailTo(juan EN fitnity PUNTO com)>> para mas detalles.
+
  * (24/11/2011) http://xpenser.com/ esta buscando programadores python con conocimientos de django/MySQL/jquery y algo de YUI. Si estas interesado y queres mas detalle contactar a <<MailTo(parand EN xpenser PUNTO com)>>.
 
  * (21/11/2011) MSA está buscando programadores Python con al menos un año de experiencia para trabajar con tecnologías Web, Linux (Ubuntu), y Software Open Source en general. Son deseables conocimientos de Desarrollo Web y PostgreSQL. Buscamos gente proactiva, con habilidades autodidactas y afinidad al Software Libre, dentro del área de Capital Federal o Gran Bs.As. Hay posibilidades de trabajar a distancia y con horarios flexibles. Si pensás que puede interesarte la propuesta, no dejes de comunicarte con nosotros vía mail con el CV y/o pretensiones a <rrhh EN msa PUNTO com PUNTO ar>.
