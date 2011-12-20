@@ -27,8 +27,8 @@
  * [[https://docs.google.com/document/pub?id=1R2WhSqZqeO3WOpysG7kU2YeA1blOtDWvkKH_ndQqZ5c|Carta de Presentación]]
 
 == Organización ==
- * Sitio web: http://groups.google.com/group/pyday-baires
- * Lista de correo: <<MailTo(pyday GUION baires EN googlegroups PUNTO com)>>
+ * Sitio web: http://groups.google.com/group/pybaires
+ * Lista de correo: <<MailTo(pybaires EN googlegroups PUNTO com)>>
  * Reuniones:
   * [[Eventos/Reuniones/ReunionXX|Reunión XX]]: Presentación de la propuesta
 
