@@ -23,7 +23,7 @@
    * Stands para [[http://us.pycon.org/2011/blog/2011/01/19/announcing-startup-row-pycon-2011/|Startups]]
    * [[http://us.pycon.org/2012/sponsors/jobs/|Cartelera de Trabajos]]
    * Posters
- * Sitio Web: http://ar.pycon.or/2012 (simil PyConAr2011)
+ * Sitio Web: http://ar.pycon.org/2012 (simil PyConAr2011)
  * [[https://docs.google.com/document/pub?id=1R2WhSqZqeO3WOpysG7kU2YeA1blOtDWvkKH_ndQqZ5c|Carta de Presentación]]
 
 == Organización ==
