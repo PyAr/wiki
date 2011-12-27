@@ -60,6 +60,7 @@
  * [[AnaMassone|Ana Massone]] -> MarianoGuerra (web)
  * [[DiegoAhumada|Diego Ahumada]] -> MarianoGuerra (web)
  * EzequielMarquez -> HoracioDuran (web)
+ * Hernan Lozano -> JuanFisanotti (django, python en general, un poco de vim)
 
 == Mentores Buscados ==
  * debian
