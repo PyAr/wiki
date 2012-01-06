@@ -6,7 +6,7 @@ Por favor poner nombre o nick y su voto al lugar:
 
 || nombre |||| lugar ||
 || x-ip   |||| los benitos ||
-
+|| dlitvak|||| cualquiera ||
 
 == Posibles Lugares ==
 === En Rosario ===
