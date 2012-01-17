@@ -1,5 +1,9 @@
 = Trabajos con Python =
 
+== 2012 ==
+
+ * (17/01/2012) Estamos buscando un programador o programadora Python Senior, para el área de sistemas de una industria (es decir, no una software factory).  Más detalles en: http://www.computrabajo.com.ar/bt-ofrd-margamanterola-7148.htm
+
 == 2011 ==
 
  * (02/12/2011) Estamos buscando un programador Django con buenas ideas de arquitectura de APIs y modelos de datos para que nos ayude a implementar una webapp y un API rest. El proyecto es muy interesante y con varios desafios tecnicos. Por favor contactarse con <<MailTo(juan EN fitnity PUNTO com)>> para mas detalles.
