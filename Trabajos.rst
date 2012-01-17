@@ -2,7 +2,7 @@
 
 == 2012 ==
 
- * (17/01/2012) Estamos buscando un programador o programadora Python Senior, para el área de sistemas de una industria (es decir, no una software factory).  Más detalles en: http://www.computrabajo.com.ar/bt-ofrd-margamanterola-7148.htm
+ * (17/01/2012) Estamos buscando un programador o programadora Python Senior, para el área de sistemas de una industria (es decir, no una software factory).  Es un trabajo on-site en Flores, Ciudad de Buenos Aires. Más detalles en: http://www.computrabajo.com.ar/bt-ofrd-margamanterola-7148.htm
 
 == 2011 ==
 
