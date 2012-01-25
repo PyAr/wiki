@@ -16,6 +16,7 @@ Si sos nuevo, podes poner una '''x''' en la columna correspondiente.
  ||AngelVelasquez ||  || ||
  ||[[JoaquinSorianello|Joac]] || || ||
  ||[[EugeniaBahit|Eugenia]] (llego tarde) || X || ||
+ ||MarianoReingart (si no se me complica)|| || ||
 
 
 == Lugar ==
