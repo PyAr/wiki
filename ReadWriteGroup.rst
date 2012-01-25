@@ -5,6 +5,7 @@
  * AlejandroDavidWeil
  * AlejandroJCura
  * alfonsopalomares
+ * AngelVelazquez
  * AndresBlanco
  * AnthonyLenton
  * arturoeanton
