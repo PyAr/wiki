@@ -5,14 +5,16 @@ Codename: ''no ha sido definido todavía''
 == Temario: ==
 
  * PyCon
-
+ * Como darle un marco legal y de soporte administrativo a python argentina sin desvirtuar la actual anarquía de la comunidad
 
 == Asistentes: ==
 
 Por favor, si venís a la reunión, anotate en esta lista:
+Si sos nuevo, podes poner una '''x''' en la columna correspondiente. 
 
-
- ||Angel Velásquez || x ||
+ || '''Persona''' || '''Nuevo''' || '''Asistio''' ||
+ ||AngelVelasquez ||  || ||
+ ||[[JoaquinSorianello|Joac]] || || ||
 
 
 == Lugar ==
