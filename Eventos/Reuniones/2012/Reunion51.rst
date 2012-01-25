@@ -6,6 +6,7 @@ Codename: ''no ha sido definido todavía''
 
  * PyCon
  * Como darle un marco legal y de soporte administrativo a python argentina sin desvirtuar la actual anarquía de la comunidad
+ * PyCamp
 
 == Asistentes: ==
 
@@ -17,7 +18,7 @@ Si sos nuevo, podes poner una '''x''' en la columna correspondiente.
  ||[[JoaquinSorianello|Joac]] || || ||
  ||[[EugeniaBahit|Eugenia]] (llego tarde) || X || ||
  ||MarianoReingart (si no se me complica)|| || ||
-
+ ||[[DiegoMascialino|diegoM]] || || ||
 
 == Lugar ==
 
