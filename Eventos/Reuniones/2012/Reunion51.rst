@@ -7,6 +7,7 @@ Codename: ''no ha sido definido todavía''
  * PyCon
  * Como darle un marco legal y de soporte administrativo a python argentina sin desvirtuar la actual anarquía de la comunidad
  * PyCamp
+ * Resolución del bug [[http://bugs.python.org/issue11739|issue11739]] para este año
 
 == Asistentes: ==
 
@@ -23,6 +24,7 @@ Si sos nuevo, podes poner una '''x''' en la columna correspondiente.
  ||[[AlejandroDavidWeil|Dave(tenuki)]] || || ||
  ||[[SantiagoPiccinini|SAn]] (me voy temprano)|| || ||
  ||[[AlejandroJCura|alecu]] || || ||
+ ||[[FelipeLerena|Lipe]] || || ||
 
 == Lugar ==
 
