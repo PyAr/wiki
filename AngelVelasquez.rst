@@ -4,7 +4,7 @@
 
 Email: <<MailTo(angvp AT SPAMFREE archlinux DOT org)>>
 
-Venezolano, radicado en Argentina (Buenos Aires) de hace muy poco (2 años), desarrollador PHP durante mucho tiempo (hay que pagar cuentas aún), aprendiendo python cada día y cada día más contento de poder hacerlo.
+Venezolano, radicado en Argentina (Buenos Aires), desarrollador PHP durante mucho tiempo y python (desde hace no tanto), aún sigo aprendiendo python cada día, y cada día más contento de poder hacerlo.
 
 Entusiasta del Software Libre llevándolo en la mayoría de lo posible al campo laboral y usándolo 100% en la vida cotidiana o proyectos independientes.
 
