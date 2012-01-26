@@ -25,7 +25,7 @@ Si sos nuevo, podes poner una '''x''' en la columna correspondiente.
  ||[[SantiagoPiccinini|SAn]] (me voy temprano)|| || || ||
  ||[[AlejandroJCura|alecu]] || || || ||
  ||[[FelipeLerena|Lipe]] || || || ||
- ||[[DavidLitvak]] (me voy temprano) || || || x ||
+ ||[[DavidLitvak]] (me voy temprano) || (mas o menos) || || x ||
 
 == Lugar ==
 
