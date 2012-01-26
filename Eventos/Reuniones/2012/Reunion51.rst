@@ -22,6 +22,7 @@ Si sos nuevo, podes poner una '''x''' en la columna correspondiente.
  ||FacundoBatista || || ||
  ||Dave(tenuki) || || ||
  ||[[SantiagoPiccinini|SAn]] (me voy temprano)|| || ||
+ ||[[AlejandroJCura|alecu]] || || ||
 
 == Lugar ==
 
