@@ -23,6 +23,7 @@ Si sos nuevo, podes poner una '''x''' en la columna correspondiente.
  ||Dave(tenuki) || || ||
  ||[[SantiagoPiccinini|SAn]] (me voy temprano)|| || ||
  ||[[AlejandroJCura|alecu]] || || ||
+ ||[[JavyerDerDerian|Javyer]]  || X || ||
 
 == Lugar ==
 
