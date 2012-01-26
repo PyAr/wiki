@@ -26,7 +26,7 @@ Si sos nuevo, podes poner una '''x''' en la columna correspondiente.
  ||[[AlejandroJCura|alecu]] || || || ||
  ||[[FelipeLerena|Lipe]] || || || ||
  ||[[DavidLitvak]] (me voy temprano) || (mas o menos) || || x ||
-||[[RayentrayTappa]] (me voy temprano) || (es mi primera reunion en caba) || || x ||
+ ||[[RayentrayTappa]] (me voy temprano) || (es mi primera reunion en caba) || || x ||
 
 == Lugar ==
 
