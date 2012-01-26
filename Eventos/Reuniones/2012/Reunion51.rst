@@ -14,17 +14,17 @@ Codename: ''no ha sido definido todavía''
 Por favor, si venís a la reunión, anotate en esta lista:
 Si sos nuevo, podes poner una '''x''' en la columna correspondiente. 
 
- || '''Persona''' || '''Nuevo''' || '''Asistio''' ||
- ||AngelVelasquez ||  || ||
- ||[[JoaquinSorianello|Joac]] || || ||
- ||[[EugeniaBahit|Eugenia]]|| X || ||
- ||MarianoReingart (si no se me complica)|| || ||
- ||[[DiegoMascialino|diegoM]] || || ||
- ||FacundoBatista || || ||
- ||[[AlejandroDavidWeil|Dave(tenuki)]] || || ||
- ||[[SantiagoPiccinini|SAn]] (me voy temprano)|| || ||
- ||[[AlejandroJCura|alecu]] || || ||
- ||[[FelipeLerena|Lipe]] || || ||
+ || '''Persona''' || '''Nuevo''' || '''Asistio''' || '''No quiere tomar nota''' ||
+ ||AngelVelasquez ||  || || ||
+ ||[[JoaquinSorianello|Joac]] || || || x ||
+ ||[[EugeniaBahit|Eugenia]]|| X || || ||
+ ||MarianoReingart (si no se me complica)|| || || ||
+ ||[[DiegoMascialino|diegoM]] || || || ||
+ ||FacundoBatista || || || ||
+ ||[[AlejandroDavidWeil|Dave(tenuki)]] || || || ||
+ ||[[SantiagoPiccinini|SAn]] (me voy temprano)|| || || ||
+ ||[[AlejandroJCura|alecu]] || || || ||
+ ||[[FelipeLerena|Lipe]] || || || ||
 
 == Lugar ==
 
