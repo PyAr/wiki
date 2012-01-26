@@ -15,7 +15,7 @@ Por favor, si venís a la reunión, anotate en esta lista:
 Si sos nuevo, podes poner una '''x''' en la columna correspondiente. 
 
  || '''Persona''' || '''Nuevo''' || '''Asistio''' || '''No quiere tomar nota''' || '''Pero lo va a hacer igual''' ||
- ||AngelVelasquez ||  || || || ||
+ ||AngelVelasquez ||  || || x || ||
  ||[[JoaquinSorianello|Joac]] || || || x || x ||
  ||[[EugeniaBahit|Eugenia]]|| X || || || ||
  ||MarianoReingart (si no se me complica)|| || || || ||
