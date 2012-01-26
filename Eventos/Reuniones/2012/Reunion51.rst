@@ -21,6 +21,7 @@ Si sos nuevo, podes poner una '''x''' en la columna correspondiente.
  ||[[DiegoMascialino|diegoM]] || || ||
  ||FacundoBatista || || ||
  ||Dave(tenuki) || || ||
+ ||[[SantiagoPiccinini|SAn]] (me voy temprano)|| || ||
 
 == Lugar ==
 
