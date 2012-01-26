@@ -20,7 +20,7 @@ Si sos nuevo, podes poner una '''x''' en la columna correspondiente.
  ||MarianoReingart (si no se me complica)|| || ||
  ||[[DiegoMascialino|diegoM]] || || ||
  ||FacundoBatista || || ||
- ||Dave(tenuki) || || ||
+ ||[[AlejandroDavidWeil|Dave(tenuki)]] || || ||
  ||[[SantiagoPiccinini|SAn]] (me voy temprano)|| || ||
  ||[[AlejandroJCura|alecu]] || || ||
 
