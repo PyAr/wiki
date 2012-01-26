@@ -1,16 +1,42 @@
 = PyCamp 2012 =
 
-== Votaciones de los lugares ==
-
-Por favor poner nombre o nick y su voto al lugar:
-
-|| nombre |||| lugar ||
-|| x-ip   |||| los benitos ||
-|| dlitvak|||| cualquiera ||
-
 == Posibles Lugares ==
 === En Rosario ===
 ==== Presupuestos ====
+
+===== Los Benitos / Opcion salvaje, natural y barata =====
+
+Url: http://www.losbenitos.com.ar/
+
+Fecha: '''Sabado 28/4''' arrancando a la matina hasta el '''Martes 1/5''' hasta las 17 pm aprox
+
+Hay Internet: '''Si, por wifi.'''
+
+Distribucion de plazas: capacidad en las cabanias para 13 personas, el resto va en carpas con colchones inflables y bolsas de dormir que te da el establecimiento (osea no hay que llevarlas).
+
+Costo: En la pagina tienen 4 dias y 3 noches a $750 por persona y esto incluye el traslado en lancha desde Rosario al lugar (ida y vuelta) alojamiento y las comidas, estoy en tratativas para
+bajar este costo aun mas por la cantidad de personas que vamos.
+
+Posibilidades copadas: Clavarse una buena parrillada y pescados (hay que arreglar precio por esto y si todos estamos interesados en hacerlo una de las noches), aventuras y excursiones en lancha y kayak.
+
+'''FORMACION DE GRUPOS''':
+
+Por una cuestión de costos, formamos dos grupos:
+
+*Sea el grupo '''A''' quien va a hacer uso de estos servicios: http://www.losbenitos.com.ar/ofrecemos.php?id=00010
+
+*Sea el grupo '''B''' la version barata (paga el uso de camping $10, este precio va a subir un poco por el uso de internet, etc), osea que lleva su propia carpa, comida, etc ...)
+
+Por favor anotate en la sección que corresponde, nos viene bien para tener un numero de cuantos somos en cada grupo y tratar de conseguir descuentos por ser cantidad.
+
+||Tu nombre o nick||A que grupo?||
+||gatox||B||
+||gaucho||B||
+||angvp||B||
+||x-ip||B||
+||JuanBC||A||
+
+
 ===== Rincon de Timbues / Opcion Cara y Careta =====
 Url: http://www.rincondetimbues.com.ar/
 Fecha:
@@ -56,17 +82,3 @@ Contratación:
     Para reservar las cabañas y servicios, deben abonar el 50 % del total como seña  y el saldo del 50 % lo abonan cuando ingresan al complejo, no trabajamos con ningún tipo de tarjeta, solo efectivo '''De ser así tienen que emitirnos un comprobante FISCAL. en mi experiencia esta frase va acompañada de "porque no pagamos impuestos" asi que o nos bajan un 21% o nos emiten factura comprobable -- HoracioDuran'''.
 
 Valor Aprox por Persona: $1300
-
-===== Los Benitos / Opcion salvaje, natural y barata =====
-
-Url: http://www.losbenitos.com.ar/
-Fecha: Sabado 28/4 arrancando a la matina hasta el Martes 1/5 hasta las 17 pm aprox
-
-Internet: Si, por wifi.
-
-Distribucion de plazas: capacidad en las cabanias para 13 personas, el resto va en carpas con colchones inflables y bolsas de dormir que te da el establecimiento (osea no hay que llevarlas).
-
-Costo: En la pagina tienen 4 dias y 3 noches a $750 por persona y esto incluye el traslado en lancha desde Rosario al lugar (ida y vuelta) alojamiento y las comidas, estoy en tratativas para
-bajar este costo aun mas por la cantidad de personas que vamos.
-
-Posibilidades copadas: Clavarse una buena parrillada y pescados (hay que arreglar precio por esto y si todos estamos interesados en hacerlo una de las noches), aventuras y excursiones en lancha y kayak.
