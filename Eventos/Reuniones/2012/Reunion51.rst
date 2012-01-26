@@ -1,6 +1,6 @@
 = Reunión 51  - Jueves 26 de Enero - Ciudad de Buenos Aires, en el bar de la esquina de Medrano y Guardia Vieja - 19hs =
 
-Codename: ''no ha sido definido todavía''
+Codename: ''La verdad que le erramos en la formacion de esgrima en StarWars® -- @georgelucas febrero de 2015''
 
 == Temario: ==
 
