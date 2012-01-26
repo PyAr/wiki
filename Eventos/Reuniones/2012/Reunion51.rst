@@ -14,19 +14,19 @@ Codename: ''La verdad que le erramos en la formacion de esgrima en StarWars® --
 Por favor, si venís a la reunión, anotate en esta lista:
 Si sos nuevo, podes poner una '''x''' en la columna correspondiente. 
 
- || '''Persona''' || '''Nuevo''' || '''Asistio''' || '''No quiere tomar nota''' ||
- ||AngelVelasquez ||  || || ||
- ||[[JoaquinSorianello|Joac]] || || || x ||
- ||[[EugeniaBahit|Eugenia]]|| X || || ||
- ||MarianoReingart (si no se me complica)|| || || ||
- ||[[DiegoMascialino|diegoM]] || || || ||
- ||FacundoBatista || || || ||
- ||[[AlejandroDavidWeil|Dave(tenuki)]] || || || ||
- ||[[SantiagoPiccinini|SAn]] (me voy temprano)|| || || ||
- ||[[AlejandroJCura|alecu]] || || || ||
- ||[[FelipeLerena|Lipe]] || || || ||
- ||[[DavidLitvak]] (me voy temprano) || (mas o menos) || || x ||
- ||[[RayentrayTappa]] (me voy temprano) || (es mi primera reunion en caba) || || x ||
+ || '''Persona''' || '''Nuevo''' || '''Asistio''' || '''No quiere tomar nota''' || '''Pero lo va a hacer igual''' ||
+ ||AngelVelasquez ||  || || || ||
+ ||[[JoaquinSorianello|Joac]] || || || x || x ||
+ ||[[EugeniaBahit|Eugenia]]|| X || || || ||
+ ||MarianoReingart (si no se me complica)|| || || || ||
+ ||[[DiegoMascialino|diegoM]] || || || || ||
+ ||FacundoBatista || || || || ||
+ ||[[AlejandroDavidWeil|Dave(tenuki)]] || || || || ||
+ ||[[SantiagoPiccinini|SAn]] (me voy temprano)|| || || || ||
+ ||[[AlejandroJCura|alecu]] || || || || ||
+ ||[[FelipeLerena|Lipe]] || || || || ||
+ ||[[DavidLitvak]] (me voy temprano) || (mas o menos) || || x || ||
+ ||[[RayentrayTappa]] (me voy temprano) || (es mi primera reunion en caba) || || x || ||
 
 == Lugar ==
 
