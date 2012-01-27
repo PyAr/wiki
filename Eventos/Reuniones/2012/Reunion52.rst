@@ -1,4 +1,4 @@
-= Reunión 52  - Miércoles 1 de Febrero - Ciudad de Córdoba, Di Solito Pizzería - 19hs =
+= Reunión 52  - Miércoles 1 de Febrero - Ciudad de Córdoba, Oficinas de Machinalis - 19hs =
 
 Codename: tbd
 
@@ -24,11 +24,10 @@ Si sos nuevo, podes poner una '''x''' en la columna correspondiente.
 
 == Lugar ==
 
-Di Solito Pizzería,
-Santa Rosa 826,
+Oficinas de Machinalis,
+Paraguay 70,
 Córdoba Capital.
 
-<<GoogleMaps(msid=202347166333688848401.0004b784515ee69c1b84f,msa=0,ll="-31.408667,-64.194918",spn="0.016372,0.033023",iwloc=0004b7845165e1e3e709e,z=16)>>
-
+<<GoogleMaps(msid=202347166333688848401.0004b784515ee69c1b84f,msa=0,ll="-31.412073,-64.201849",spn="0.016372,0.033023",iwloc=0004b78851904f1396061,z=16)>>
 
 CategoryReuniones
