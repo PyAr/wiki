@@ -21,6 +21,7 @@ Si sos nuevo, podes poner una '''x''' en la columna correspondiente.
  ||[[MartinChikilian|mguillech]] || || ||
  ||[[MarianoMara|marianom]] || || ||
  ||[[MarianoGarcia|Nassty]] || || ||
+ ||FacundoBatista || || ||
 
 == Lugar ==
 
