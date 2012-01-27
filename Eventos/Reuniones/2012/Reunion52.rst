@@ -19,7 +19,7 @@ Si sos nuevo, podes poner una '''x''' en la columna correspondiente.
  || '''Persona''' || '''Nuevo''' || '''Asistió''' ||
  ||[[AlejandroJCura|alecu]] || || ||
  ||[[MartinChikilian|mguillech]] || || ||
- ||[[Mariano Mara|marianom]] || || ||
+ ||[[MarianoMara|marianom]] || || ||
 
 == Lugar ==
 
