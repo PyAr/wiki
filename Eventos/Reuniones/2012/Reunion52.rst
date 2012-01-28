@@ -23,6 +23,7 @@ Si sos nuevo, podes poner una '''x''' en la columna correspondiente.
  ||[[MarianoGarcia|Nassty]] || || ||
  ||FacundoBatista || || ||
  ||[[MatiasBellone|toote]] || || ||
+ ||[[gatox|gatox]] || || ||
 
 == Lugar ==
 
