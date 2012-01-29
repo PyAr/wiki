@@ -24,6 +24,8 @@ Si sos nuevo, podes poner una '''x''' en la columna correspondiente.
  ||FacundoBatista || || ||
  ||[[MatiasBellone|toote]] || || ||
  ||[[gatox|gatox]] || || ||
+ || nessita || || ||
+ || matiasb || || ||
 
 == Lugar ==
 
