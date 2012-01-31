@@ -31,6 +31,7 @@ Si sos nuevo, podes poner una '''x''' en la columna correspondiente.
  || Sofía Denner || x || ||
  || [[SebastianAlvarez|judaz]] ||  || ||
  || Rafael Moyano || x || ||
+ || Hernan Lozano || x || ||
 == Lugar ==
 
 Oficinas de Machinalis,
