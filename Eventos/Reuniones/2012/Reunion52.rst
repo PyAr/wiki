@@ -30,6 +30,7 @@ Si sos nuevo, podes poner una '''x''' en la columna correspondiente.
  || JuanBCabral || || ||
  || Sofía Denner || x || ||
  || [[SebastianAlvarez|judaz]] ||  || ||
+ || [[HoracioDuran|perrito666]] ||  || ||
  || Hernan Lozano || x || ||
 == Lugar ==
 
