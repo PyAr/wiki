@@ -1,6 +1,6 @@
 = Reunión 52  - Miércoles 1 de Febrero - Ciudad de Córdoba, Oficinas de Machinalis - 19hs =
 
-Codename: tbd
+Codename: tbd (que te parece: Storm Survivors)
 
 == Temario: ==
 
@@ -32,6 +32,7 @@ Si sos nuevo, podes poner una '''x''' en la columna correspondiente.
  || [[SebastianAlvarez|judaz]] ||  || ||
  || [[HoracioDuran|perrito666]] ||  || ||
  || Hernan Lozano || x || ||
+ || RobertoAllende ||  || ||
 == Lugar ==
 
 Oficinas de Machinalis,
