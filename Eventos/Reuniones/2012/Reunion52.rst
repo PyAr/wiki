@@ -66,12 +66,12 @@ Hay gente diciendo "averiguemos en otro lado seria razonable que sea que el prec
 
 Ademas nassty dijo que estaria bueno un pycamp howto que va a arrancar, y despues otros mas experienciados completan
 
-De aca a 2 semanas:
+De aca a 2 semanas (15 de feb):
 
-* juan averigua embalse
-* alecu san fernando
-* presidente, si puede, en veronica (el si puede es porque tal vez los de verónica están de vacaciones)
-* perrito los cocos y la falda
+ * juan averigua embalse
+ * alecu san fernando
+ * presidente, si puede, en veronica (el si puede es porque tal vez los de verónica están de vacaciones)
+ * perrito los cocos y la falda
 
 === Pyar como ONG/Asoc. Civil/religion ===
 
