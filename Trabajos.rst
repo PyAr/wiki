@@ -2,6 +2,8 @@
 
 == 2012 ==
 
+ * (09/03/2012) Anting está buscando programadores freelance Python y Django dentro del área de Capital Federal o Gran Bs.As para que nos ayuden en los proyecto actuales y futuros.Si estás interesado podés enviar un mail a <nmartinet EN anting PUNTO com PUNTO ar> o a <mf2286 EN gmail PUNTO com>.
+
  * (30/01/2012) MSA está buscando programadores Python con al menos un año de experiencia para trabajar con tecnologías Web, Linux (Ubuntu), y Software Open Source en general. Son deseables conocimientos de Desarrollo Web, PHP y Oracle DB. Buscamos gente proactiva, con habilidades autodidactas y afinidad al Software Libre, dentro del área de Capital Federal o Gran Bs.As. Hay posibilidades de trabajar a distancia, y hay flexibilidad horaria y de relación laboral. Si pensás que puede interesarte la propuesta, no dejes de comunicarte con nosotros vía mail con el CV y/o pretensiones a <rrhh EN msa PUNTO com PUNTO ar>.
 
  * (17/01/2012) Estamos buscando un programador o programadora Python Senior, para el área de sistemas de una industria (es decir, no una software factory).  Es un trabajo on-site en Flores, Ciudad de Buenos Aires. Más detalles en: http://www.computrabajo.com.ar/bt-ofrd-margamanterola-7148.htm
