@@ -22,6 +22,8 @@ La ventaja de Unicode es que al contener todo, es posible que, dado un Encoding,
 UnicodeDecodeError: 'ascii' codec can't decode byte 0xc3 in position 0: ordinal not in range(128)
 }}}
 
+Es por eso que Python3, en cambio, tiene otros dos tipos para ello: `str` se usa para el almacenamiento de cadenas de caracteres y `bytes` para bichos encodeados. De aquí en más seguiré con la nomenclatura de Python2; si están usando Python3, agreguen a su ensalada el hecho de que cada vez que diga `unicode` ustedes deben pensar en `str`, y cuando diga `str`, ustedes piensen en `bytes`. Cuando Python3 sea más utilizado, y si aún estoy vivo y con uso de mis facultades, volveré a esta página y les juro que pongo todo en nomenclatura Python3.
+
 Ver también:
 
  * [[Recetario/NormalizarCaracteresUnicode]]
