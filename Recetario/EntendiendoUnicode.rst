@@ -16,7 +16,11 @@ La ventaja de Unicode es que al contener todo, es posible que, dado un Encoding,
 
 = Unicode, Encodings y Python =
 
-¿Qué tiene tooooodo esto que ver con Python? Los no muy frescos de zabiola ya se habrán dado cuenta que al fin y al cabo Python corre sobre computadoras y Python maneja cadenas de caracteres (strings). Para dicho propósito Python tiene dos tipos distintos. Inicialmente, en Python2 usa el tipo `unicode` para representar bichos unicode y `str` para representar bichos encodeados. Esto suele traer millones de dolores de cabeza, pues el tipo `str` es mayormente (mal) usado en tutoriales para almacenar 
+¿Qué tiene tooooodo esto que ver con Python? Bueno, los no muy frescos de zabiola ya se habrán dado cuenta que al fin y al cabo Python corre sobre computadoras y Python maneja cadenas de caracteres (strings). Para dicho propósito Python tiene dos tipos distintos. Inicialmente, en Python2 usa el tipo `unicode` para representar bichos unicode y `str` para representar bichos encodeados. Esto suele traer millones de dolores de cabeza, pues el tipo `str` es mayormente (mal) usado en tutoriales para almacenar cadenas de caracteres, y así es como de repente terminamos con el fatídico y über-odiado mensaje:
+
+{{{
+UnicodeDecodeError: 'ascii' codec can't decode byte 0xc3 in position 0: ordinal not in range(128)
+}}}
 
 Ver también:
 
