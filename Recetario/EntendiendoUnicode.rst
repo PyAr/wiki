@@ -1,3 +1,9 @@
+{{{
+< dash> herrFoo: the difference between a unicode string and an encoded byte string is exactly the same kind of difference as between the list [1, 2, 3] and the string "[1, 2, 3]"
+}}}
+
+----
+
 El nivel de la ensalada que se arma en la cabeza a la hora de entender Unicode hace que el tema deba explicarse una y otra vez, que se deban escribir ad infinitum posts, mails, dar chiquicientas charlas en conferencia  y tal. En un intento de darle fin (si, jua!) a semejante derroche de recursos es que escribimos esta página.
 
 Bienvenido a La Última Página Acerca De Unicode Y Cómo Se Usa (O «cómo aprendí a dejar de preocuparme y odiar los encodings»).
@@ -16,19 +22,34 @@ La ventaja de Unicode es que al contener todo, es posible que, dado un Encoding,
 
 = Unicode, Encodings y Python =
 
-¿Qué tiene tooooodo esto que ver con Python? Bueno, los no muy frescos de zabiola ya se habrán dado cuenta que al fin y al cabo Python corre sobre computadoras y Python maneja cadenas de caracteres (strings). Para dicho propósito Python tiene dos tipos distintos. Inicialmente, en Python2 usa el tipo `unicode` para representar bichos unicode y `str` para representar bichos encodeados. Esto suele traer millones de dolores de cabeza, pues el tipo `str` es mayormente (mal) usado en tutoriales para almacenar cadenas de caracteres, y así es como de repente terminamos con el fatídico y über-odiado mensaje:
+¿Qué tiene tooooodo esto que ver con Python? Bueno, los no muy frescos de zabiola ya se habrán dado cuenta que al fin y al cabo Python corre sobre computadoras y Python maneja cadenas de caracteres (strings). Para dicho propósito Python tiene dos tipos distintos. Inicialmente, en Python2 usa el tipo `unicode` para representar bichos Unicode y `str` para representar bichos Encodeados. Esto suele traer millones de dolores de cabeza, pues el tipo `str` es mayormente (mal) usado en tutoriales para almacenar cadenas de caracteres, y así es como de repente terminamos con el fatídico y über-odiado mensaje:
 
 {{{
 UnicodeDecodeError: 'ascii' codec can't decode byte 0xc3 in position 0: ordinal not in range(128)
 }}}
 
-Es por eso que Python3, en cambio, tiene otros dos tipos para ello: `str` se usa para el almacenamiento de cadenas de caracteres y `bytes` para bichos encodeados. De aquí en más seguiré con la nomenclatura de Python2; si están usando Python3, agreguen a su ensalada el hecho de que cada vez que diga `unicode` ustedes deben pensar en `str`, y cuando diga `str`, ustedes piensen en `bytes`. Cuando Python3 sea más utilizado, y si aún estoy vivo y con uso de mis facultades, volveré a esta página y les juro que pongo todo en nomenclatura Python3.
+Es por eso que Python3, en cambio, tiene otros dos tipos para ello: `str` se usa para el almacenamiento de cadenas de caracteres Unicode y `bytes` para bichos Encodeados. De aquí en más seguiré con la nomenclatura de Python2; si están usando Python3, agreguen a su ensalada el hecho de que cada vez que diga `unicode` ustedes deben pensar en `str`, y cuando diga `str`, ustedes piensen en `bytes`. Cuando Python3 sea más utilizado, y si aún estoy vivo y con uso de mis facultades, volveré a esta página y les juro que pongo todo en nomenclatura Python3.
+
+Entonces, tamos listos con la nomenclatura: `unicode` para bichos Unicode y `str` para bichos Encodeados. La forma de crear un bicho Unicode es muy simple[1]:
+
+{{{#!code python
+a= u'Aló mundo!'
+}}}
+
+= El source también existe, y está encodeado =
+
+¿Vieron ese [1] que puse más arriba? Bueno, resulta que hay una mentira casi tan grande como una casa en todo esto. Más que una mentira, una vuelta más de rosca. ¿Vieron que dije que cuando uno deja el mundo Python/Unicode uno pasa al mundo Encodeado? Bueno, les cuento, y agárrensé: Los archivos que contienen el código fuente de su programa Python también están Encodeados. Esto trae como consecuencia...
+
+{{{#!code python
+# -*- coding: utf-8 -*-
+}}}
 
 Ver también:
 
  * [[Recetario/NormalizarCaracteresUnicode]]
  * http://www.joelonsoftware.com/articles/Unicode.html
  * [[http://tools.assembla.com/svn/homedevel/presents/unicode.odp|LA charla de facu de Unicode]]
+
 
 ----
  CategoryRecetas
