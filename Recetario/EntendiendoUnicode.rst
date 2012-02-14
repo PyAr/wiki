@@ -1,3 +1,3 @@
 Ver también:
 
- * Recetario/NormalizarCaracteresUnicode
+ * [[Recetario/NormalizarCaracteresUnicode]]
