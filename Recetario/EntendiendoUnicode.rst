@@ -16,21 +16,21 @@ Entonces, desde los tiempos inmemoriables las computadoras han representado los 
 
 Todo estaría de maravillas sino fuera que Encodings hay millones. Estos mapeos fueron establecidos casi independientemente en muchas empresas y países del mundo, cada uno prácticamente con el suyo. La mayoría de los Encodings usan sólo un byte (8 bits) para almacenar el número, así que sólo cabía la posibilidad de 256 símbolos, lo cual claramente no alcanza para todos los símbolos del mundo. Piensen por ejemplo en los idiomas que no usan ni siquiera como base al alfabeto latín. Así es que terminamos con cientos de Encodings llamados `'latin1'`, `'utf-8'`, `'cp-1250'` y cosas más esotéricas.
 
-Para resolver este problema es que se inventó [[http://es.wikipedia.org/wiki/Unicode|Unicode]] (cualquier semejanza con http://xkcd.com/927/ es un error de concepto; ahora explico porqué). Unicode '''no''' es un encoding, aunque se asemeja mucho. Unicode es una serie de tablas de símbolos, nada mas. Estos símbolos son no sólo aquellos que encontramos en todos los encodings habidos y por haber (incluyendo la mayoría de los alfabetos usados en el mundo, incluyendo el ya mencionado Braille, y hasta ficticios, como el klingon [sí, klingon, no pregunten]), sino muchos, muchos, muchos mas. Demasiados, quizás. Para muestra vale un botón: http://boingboing.net/2012/02/03/unicodes-pile-of-poo-cha.html
+Para resolver este problema es que se inventó [[http://es.wikipedia.org/wiki/Unicode|Unicode]] (cualquier semejanza con http://xkcd.com/927/ es un error de concepto; ahora explico porqué). Unicode '''no''' es un encoding, aunque se asemeja mucho. Unicode es una serie de tablas de símbolos, nada mas. Estos símbolos son no sólo aquellos que encontramos en todos los encodings habidos y por haber (incluyendo la mayoría de los alfabetos usados en el mundo, incluyendo el ya mencionado Braille, y hasta ficticios, como el klingon [sí, klingon, no pregunten]), sino muchos, muchos, muchos mas. Demasiados, quizás. Para muestra vale un botón: http://www.fileformat.info/info/unicode/char/1f4a9/index.htm
 
-La ventaja de Unicode es que al contener todo, es posible que, dado un Encoding, se pueden encontrar los símbolos que abarca y hacer una traducción Unicode <-> Encoding. Al paso hacia la derecha se le llama Encodeado y la inversa Decodeado. Ver [[http://www.taniquetil.com.ar/unicode.png|Unicode en una filmina]].
-
-= Unicode, Encodings y Python =
-
-¿Qué tiene tooooodo esto que ver con Python? Bueno, los no muy frescos de zabiola ya se habrán dado cuenta que al fin y al cabo Python corre sobre computadoras y Python maneja cadenas de caracteres (strings). Para dicho propósito Python tiene dos tipos distintos. Inicialmente, en Python2 usa el tipo `unicode` para representar bichos Unicode y `str` para representar bichos Encodeados. Esto suele traer millones de dolores de cabeza, pues el tipo `str` es mayormente (mal) usado en tutoriales para almacenar cadenas de caracteres, y así es como de repente terminamos con el fatídico y über-odiado mensaje:
+La ventaja de Unicode es que al contener todo, es posible que, dado un Encoding, se pueden encontrar los símbolos que abarca y hacer una traducción Unicode <-> Encoding. Al paso hacia la derecha se le llama Encodeado y la inversa Decodeado. Ver [[http://www.taniquetil.com.ar/unicode.png|Unicode en una filmina]]. Notar que como Unicode es más grande (o igual?) que cualquier Encoding, hay símbolos en Unicode que no están en un Encoding dado. El Encodeado de un caracter no presente en el Encoding resulta en el fatídico y über-odiado mensaje:
 
 {{{
 UnicodeDecodeError: 'ascii' codec can't decode byte 0xc3 in position 0: ordinal not in range(128)
 }}}
 
-Es por eso que Python3, en cambio, tiene otros dos tipos para ello: `str` se usa para el almacenamiento de cadenas de caracteres Unicode y `bytes` para bichos Encodeados. De aquí en más seguiré con la nomenclatura de Python2; si están usando Python3, agreguen a su ensalada el hecho de que cada vez que diga `unicode` ustedes deben pensar en `str`, y cuando diga `str`, ustedes piensen en `bytes`. Cuando Python3 sea más utilizado, y si aún estoy vivo y con uso de mis facultades, volveré a esta página y les juro que pongo todo en nomenclatura Python3.
+= Unicode, Encodings y Python =
 
-Entonces, tamos listos con la nomenclatura: `unicode` para bichos Unicode y `str` para bichos Encodeados. La forma de crear un bicho Unicode es muy simple[1]:
+¿Qué tiene tooooodo esto que ver con Python? Bueno, los no muy frescos de zabiola ya se habrán dado cuenta que al fin y al cabo Python corre sobre computadoras y Python maneja cadenas de caracteres (strings). Para dicho propósito Python tiene dos tipos distintos. Inicialmente, en Python2 usa el tipo `unicode` para representar bichos Unicode y `str` para representar bichos Encodeados. Esto suele traer millones de dolores de cabeza, pues el tipo `str` es mayormente (mal) usado en tutoriales para almacenar cadenas de caracteres, cuando se debería usar Unicode. ya explico porqué.
+
+Para complicar las cosas[2], Python3, en cambio, tiene otros dos tipos para ello: `str` se usa para el almacenamiento de cadenas de caracteres Unicode y `bytes` para bichos Encodeados. De aquí en más seguiré con la nomenclatura de Python2; si están usando Python3, agreguen a su ensalada el hecho de que cada vez que diga `unicode` ustedes deben pensar en `str`, y cuando diga `str`, ustedes piensen en `bytes`. Cuando Python3 sea más utilizado, y si aún estoy vivo y con uso de mis facultades, volveré a esta página y les juro que pongo todo en nomenclatura Python3.
+
+Entonces, tamos listoso0 con la nomenclatura: `unicode` para bichos Unicode y `str` para bichos Encodeados. La forma de crear un bicho Unicode es muy simple[1]:
 
 {{{#!code python
 a= u'Aló mundo!'
