@@ -3,7 +3,7 @@
 
 Propuesta encontrarnos en [[http://www.ccborges.org.ar/|Centro cultural Borges]]
 
-resto... a definir
+[[http://www.doodle.com/ue9r8xk4597w875v|Elegí horario!]]
 
 
-#Descripción de los temas tratados, participantes, etc.
+##Descripción de los temas tratados, participantes, etc.
