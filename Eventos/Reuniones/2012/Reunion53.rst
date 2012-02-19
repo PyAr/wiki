@@ -1,4 +1,4 @@
-= Reunión 52 - ??/02/2012 - Lugar =  Bs As - Microcentro  17:30 a 19:30 =
+= Reunión 53 - ??/02/2012 - Lugar =  Bs As - Microcentro  17:30 a 19:30 =
 
 [[http://www.doodle.com/ue9r8xk4597w875v|Elegí fecha/horario!]]
 
