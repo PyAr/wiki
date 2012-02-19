@@ -15,3 +15,5 @@
 
 
 * [[Eventos/Reuniones/2012/Reunion51|Reunión 51]]: Jueves 26 de Enero - Ciudad de Buenos Aires, en el bar de la esquina de Medrano y Guardia Vieja - 19:30hs
+
+* [[Eventos/Reuniones/2012/Reunion52|Reunión 52]]: ?? Febrero - Ciudad de Buenos Aires, en microcentro - 17:30hs
