@@ -1,10 +1,6 @@
-= PyCamp 2012 =
+= Posibles Lugares =
 
-== Posibles Lugares ==
-=== En Rosario ===
-==== Presupuestos ====
-
-===== Los Benitos / Opcion salvaje, natural y barata =====
+== Los Benitos - Rosario (opción salvaje, natural y barata) ==
 
 Url: http://www.losbenitos.com.ar/
 
@@ -37,7 +33,8 @@ Por favor anotate en la sección que corresponde, nos viene bien para tener un n
 ||JuanBC||A||
 
 
-===== Rincon de Timbues / Opcion Cara y Careta =====
+== Rincon de Timbues - Rosario (opción Cara y Careta) ==
+
 Url: http://www.rincondetimbues.com.ar/
 Fecha:
 
@@ -82,3 +79,17 @@ Contratación:
     Para reservar las cabañas y servicios, deben abonar el 50 % del total como seña  y el saldo del 50 % lo abonan cuando ingresan al complejo, no trabajamos con ningún tipo de tarjeta, solo efectivo '''De ser así tienen que emitirnos un comprobante FISCAL. en mi experiencia esta frase va acompañada de "porque no pagamos impuestos" asi que o nos bajan un 21% o nos emiten factura comprobable -- HoracioDuran'''.
 
 Valor Aprox por Persona: $1300
+
+== Hogar Escuela Verónica - Verónica ==
+
+El lugar ya lo conocemos: un par de aulas para laburar, mucho mucho verde (y mosquitos!), muy relajado para estar. Para dormir, los típicos "barracones pycamp".
+
+Precios para una base de 25 personas:
+
+ * Estadía: $65.13 por día por persona
+
+ * Comidas: $58.94 por día por persona (cuatro comidas diarias, si un día queremos asado son $25 más)
+
+Con respecto a Internet, tienen una ADSL de Magdalenavirtual de 512 KB. Upgradearlo a 3MB sale $450 (de los cuales nos descontarían los $120 que pagan actualmente, y sólo tenemos que pagar el extra por un mes).
+
+Entonces... tomando cuatro días, incluyendo asado y el proporcional por el extra de internet, nos da un costo por persona para el evento de $535.-
