@@ -1,6 +1,6 @@
 = Trabajos con Python =
-
 == 2012 ==
+ * (24/02/2012) Itecnis está buscando desarrolladores Python con disponibilidad fulltime en el área de Rosario, son deseables conocimientos en ingeniería de software, herramientas de versionado y testing. los intersados pueden comunicarse o enviar CV vía mail a <<MailTo(hdacharry EN itecnis PUNTO com)>>.
 
  * (09/03/2012) Anting está buscando programadores freelance Python y Django dentro del área de Capital Federal o Gran Bs.As para que nos ayuden en los proyecto actuales y futuros.Si estás interesado podés enviar un mail a <<MailTo(nmartinet EN anting PUNTO com PUNTO ar)>> o a <<MailTo(mf2286 EN gmail PUNTO com)>>.
 
@@ -9,7 +9,6 @@
  * (17/01/2012) Estamos buscando un programador o programadora Python Senior, para el área de sistemas de una industria (es decir, no una software factory).  Es un trabajo on-site en Flores, Ciudad de Buenos Aires. Más detalles en: http://www.computrabajo.com.ar/bt-ofrd-margamanterola-7148.htm
 
 == 2011 ==
-
  * (02/12/2011) Estamos buscando un programador Django con buenas ideas de arquitectura de APIs y modelos de datos para que nos ayude a implementar una webapp y un API rest. El proyecto es muy interesante y con varios desafios tecnicos. Por favor contactarse con <<MailTo(juan EN fitnity PUNTO com)>> para mas detalles.
 
  * (24/11/2011) http://xpenser.com/ esta buscando programadores python con conocimientos de django/MySQL/jquery y algo de YUI. Si estas interesado y queres mas detalle contactar a <<MailTo(parand EN xpenser PUNTO com)>>.
