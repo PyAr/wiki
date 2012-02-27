@@ -1,5 +1,7 @@
 == Gtk ListView ==
 
+{{attachment:gtklistexample.png}}
+
 {{{
 #!code python
 
