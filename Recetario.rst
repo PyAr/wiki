@@ -101,6 +101,8 @@ ObtenerSensacionTermica: Calcular la Sensacion Termica o Temperatura Aparente.
 
 [[/Gui/Gtk/ErrorHandler]]: un ejemplo de capturar una excepción y mostrarla en un dialogo modal
 
+[[/Gui/Gtk/ListView]]: un ejemplo de como mostrar elementos en una lista
+
 === Gtk + glade ===
 GtkGladeHolaMundoOO : una ventana que muestra el mensaje hola mundo programado utilizando orientacion a objetos
 
