@@ -1,5 +1,7 @@
 = Trabajos con Python =
 == 2012 ==
+ * (29/02/2012) Kinetik.com, una guía social para App Store, esta buscando un desarrollador de Python. Buscamos alguien que este en Capital Federal o que pueda reubicarse por lo menos un mes. Kinetik va participar en NXTP Labs y busca crecer su equipo. Interesados por favor contactarse con <<MailTo(raul EN kinetik PUNTO com)>>.
+
  * (24/02/2012) Itecnis está buscando desarrolladores Python con disponibilidad fulltime en el área de Rosario, son deseables conocimientos en ingeniería de software, herramientas de versionado y testing. los intersados pueden comunicarse o enviar CV vía mail a <<MailTo(hdacharry EN itecnis PUNTO com)>>.
 
  * (09/03/2012) Anting está buscando programadores freelance Python y Django dentro del área de Capital Federal o Gran Bs.As para que nos ayuden en los proyecto actuales y futuros.Si estás interesado podés enviar un mail a <<MailTo(nmartinet EN anting PUNTO com PUNTO ar)>> o a <<MailTo(mf2286 EN gmail PUNTO com)>>.
