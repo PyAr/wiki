@@ -1,5 +1,7 @@
 = Trabajos con Python =
 == 2012 ==
+ * (01/03/2012) En devsAr (La Plata) estamos incorporando desarrolladores python/django. Los interesados completar el formulario en http://www.devsar.com o escribir a: rrhh@devsar.com
+
  * (29/02/2012) Kinetik.com, una guía social para App Store, esta buscando un desarrollador de Python. Buscamos alguien que este en Capital Federal o que pueda reubicarse por lo menos un mes. Kinetik va participar en NXTP Labs y busca crecer su equipo. Interesados por favor contactarse con <<MailTo(raul EN kinetik PUNTO com)>>.
 
  * (24/02/2012) Itecnis está buscando desarrolladores Python con disponibilidad fulltime en el área de Rosario, son deseables conocimientos en ingeniería de software, herramientas de versionado y testing. los intersados pueden comunicarse o enviar CV vía mail a <<MailTo(hdacharry EN itecnis PUNTO com)>>.
