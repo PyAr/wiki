@@ -28,3 +28,4 @@ Esta pagina esta dedicada a enumerar los programas de python que es posible usar
  . [[http://www.disqus.com/|Disqus]]
  . [[http://www.google.com/|Google]]
  . [[http://www.bitbucket.org/|Bitbucket]]
+ . [[http://www.dpaste.com/|Dpaste]]
