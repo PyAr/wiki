@@ -1,9 +1,13 @@
 Esta pagina esta dedicada a enumerar los programas de python que es posible usar en cosas comunes, ademas de hacer una lista la idea seria poner las librerias mas importantes que usa.
 
 = Programas escritos en python =
+
+== IDE ==
+ * [[http://ninja-ide.org/|Ninja-Ide]]
+
 == Gestor de bibliotecas ==
  * [[http://calibre-ebook.com/|Calibre]]
- * [[http://ninja-ide.org/|Ninja-Ide]]
+
 
 == P2P ==
 === Bit Torrent ===
