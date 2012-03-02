@@ -3,6 +3,7 @@ Esta pagina esta dedicada a enumerar los programas de python que es posible usar
 = Programas escritos en python =
 == Gestor de bibliotecas ==
  * [[http://calibre-ebook.com/|Calibre]]
+ * [[http://ninja-ide.org/|Ninja-Ide]]
 
 == P2P ==
 === Bit Torrent ===
@@ -20,3 +21,6 @@ Esta pagina esta dedicada a enumerar los programas de python que es posible usar
 
 = Programas scripteables en python =
 = Sitios web =
+ . [[http://www.disqus.com/|Disqus]]
+ . [[http://www.google.com/|Google]]
+ . [[http://www.bitbucket.org/|Bitbucket]]
