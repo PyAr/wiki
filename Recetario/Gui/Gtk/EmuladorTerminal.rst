@@ -2,6 +2,8 @@
 
 un ejemplo de como hacer una terminal visual al estilo gnome-terminal 
 
+{{attachment:pyshell.png}}
+
 {{{
 #!code python
 
