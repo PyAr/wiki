@@ -1,5 +1,8 @@
 = Trabajos con Python =
 == 2012 ==
+
+ * (06/03/2012) Seleccionaremos para la empresa Mobil-Tonic / Entaste un programador Python. La búsqueda se orienta a una persona con sólidos conocimientos en programación orientada a objetos, en lenguajes tales como: Python, Groovy, Rails, etc. Participará de importantes proyectos web y mobile para lo cuál será capacitado en tecnologías de vanguardia. También será parte del equipo de I + D para explorar nuevas tecnologías y tendencias. La empresa ofrece muy buenas condiciones de contratación y muy buen paquete salarial. Interesados enviar un mail a sosterc@ghidinirodil.com.ar o comunicarse al 4-8198834.
+
  * (01/03/2012) En devsAr (La Plata) estamos incorporando desarrolladores python/django. Los interesados completar el formulario en http://www.devsar.com o escribir a: rrhh@devsar.com
 
  * (29/02/2012) Kinetik.com, una guía social para App Store, esta buscando un desarrollador de Python. Buscamos alguien que este en Capital Federal o que pueda reubicarse por lo menos un mes. Kinetik va participar en NXTP Labs y busca crecer su equipo. Interesados por favor contactarse con <<MailTo(raul EN kinetik PUNTO com)>>.
