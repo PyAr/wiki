@@ -17,6 +17,20 @@ sudo apt-get install ttf-dejavu
  * --( El logo de PyAr, en vectorial: [[attachment:pyar.zip]] )-- 
  * El logo de PyAr, en vectorial: [[attachment:logo-pyar-2009.svg]] (hecho con inkscape)
 
+== Video ==
+
+Video que se uso para presentar a PyAr en PyCon (USA) 2012
+
+ * [[http://pyar.usla.org.ar/institucional/pyar_360p.mp4|360p Baja Calidad]] (MD5: 393c892a4e72664a5a49e29c2849dbce)
+ * [[http://pyar.usla.org.ar/institucional/pyar_480p.mp4|480p Calidad Media]] (MD5: 0a124b89c72ee7d07268edf6b230b3c4)
+ * [[http://pyar.usla.org.ar/institucional/pyar_720p.mp4|720pHD]] (MD5: ea3efb33e929cf965a50e74231655a93)
+
+ * '''mirror'' [[https://bitbucket.org/leliel12/video_pyconar_2012/downloads|Bitbucket]] (también están las "fuentes" del video en el repo mercurial)
+
+ * Ver online en [[http://animoto.com/play/Uiqk9VQDUSDL0wIa3oMLKQ|Animoto]]
+ * Ver online en [[http://www.youtube.com/watch?v=sbsXRVS158M&context=C4a18a63ADvjVQa1PpcFNW-DdE4h-Zj56e44qiWjR_-7ykyK7SLfk=|Youtube]]
+
+
 == Carteles para las 8JRSL ==
 
 Están hechos con Inkscape.
