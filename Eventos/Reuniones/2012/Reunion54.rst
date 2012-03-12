@@ -7,7 +7,7 @@
 
 === Asistentes ===
 || '''Persona''' || '''Nuevo''' || '''Asistió''' || '''Viene de la StartUps''' ||
-||[[emilioramirez|gaucho]] || ||  ||  ||
+||[[emilioramirez|Emilio Ramirez]] || ||  ||  ||
 ||[[gatox|Diego Sarmentero]] || ||  ||  ||
 ||[[DavidLitvak|David Litvak]]|| || || X ||
 ||DanielMoisset|| || || ||
