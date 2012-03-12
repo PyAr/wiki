@@ -6,9 +6,10 @@
 
 
 === Asistentes ===
-|| '''Persona''' || '''Nuevo''' || '''Asistió''' ||
-||[[emilioramirez|gaucho]] || ||  ||
-||[[gatox|Diego Sarmentero]] || ||  ||
+|| '''Persona''' || '''Nuevo''' || '''Asistió''' || '''Viene de la StartUps''' ||
+||[[emilioramirez|gaucho]] || ||  ||  ||
+||[[gatox|Diego Sarmentero]] || ||  ||  ||
+||David Litvak|||||| X ||
 
 
 === Fecha y Hora ===
