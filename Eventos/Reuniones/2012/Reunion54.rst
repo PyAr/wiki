@@ -10,6 +10,7 @@
 ||[[emilioramirez|gaucho]] || ||  ||  ||
 ||[[gatox|Diego Sarmentero]] || ||  ||  ||
 ||David Litvak|| || || X ||
+||DanielMoisset|| || || ||
 
 
 === Fecha y Hora ===
