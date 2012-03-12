@@ -7,8 +7,8 @@
 
 === Asistentes ===
 || '''Persona''' || '''Nuevo''' || '''Asistió''' ||
-||[[Username|nickname]] || ||  ||
 ||[[emilioramirez|gaucho]] || ||  ||
+||[[gatox|Diego Sarmentero]] || ||  ||
 
 
 === Fecha y Hora ===
