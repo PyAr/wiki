@@ -12,7 +12,7 @@
 ||[[DavidLitvak|David Litvak]]|| || || X ||
 ||DanielMoisset|| || || ||
 ||[[HoracioDuran|perrito]]|| || || ||
-
+||[[SergioSchvezov|Sergio Schvezov (sergiusens)]]|| || || ||
 
 === Fecha y Hora ===
  * 17 de Marzo 2012, 22hs
