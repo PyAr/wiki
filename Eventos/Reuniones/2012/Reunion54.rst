@@ -11,6 +11,7 @@
 ||[[gatox|Diego Sarmentero]] || ||  ||  ||
 ||[[DavidLitvak|David Litvak]]|| || || X ||
 ||DanielMoisset|| || || ||
+||[[HoracioDuran|perrito]]|| || || ||
 
 
 === Fecha y Hora ===
