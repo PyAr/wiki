@@ -1,4 +1,4 @@
-= Reunión 54  - Sabado 17 de Marzo - Ciudad de Córdoba, Oficinas de Machinalis - 22hs =
+= NO Reunión 54  - Sabado 17 de Marzo - Ciudad de Córdoba, Oficinas de Machinalis - 22hs = 
 
 === Temario ===
  * Coding Dojo (Ninja IDE)
