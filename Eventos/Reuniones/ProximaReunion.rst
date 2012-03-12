@@ -19,3 +19,5 @@
 * [[Eventos/Reuniones/2012/Reunion52|Reunión 52]]: 1 Febrero
 
 * [[Eventos/Reuniones/2012/Reunion53|Reunión 53]]: ?? Febrero - Ciudad de Buenos Aires, en microcentro - 17:30hs
+
+* [[Eventos/Reuniones/2012/Reunion54|Reunión 54]]: 17 Marzo - Ciudad de Córdoba Capital, en Oficinas de Machinalis - 22:hs
