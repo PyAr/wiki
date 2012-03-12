@@ -2,11 +2,11 @@
 #format wiki
 == Horacio Durán (perrito) ==
 
-Email: <<MailTo(horacio.duran AT SPAMFREE gmail DOT com)>>
+Email: <<MailTo(hduran AT SPAMFREE machinalis DOT com)>>
 
 Soy... dejenme volver a empezar. Comencé las carreras de Ingeniería Electrónica, Arquitectura, Tecnicatura en Programación y un atisbo de Lic. en ciencias de la computación, no terminé tantas como empece.. ninguna de hecho.
 
-Igualmente me dedico a la informática desde hace varios años. Fui freelancer hasta 2003 cuando comencé a trabajar en una pequeña empresa de desarrollo de donde me fui bastante rápido, porque usaban php mas que nada.
+Igualmente me dedico a la informática desde hace varios años. Fui freelancer hasta 2003 cuando comencé a trabajar en una pequeña empresa de desarrollo de donde me fui bastante rápido, porque usaban php y tenian tanto foco en lacalidad del software como en la del cafe, habia cafe instantaneo solamente.
 
 En 2004 mas o menos, empecé a trabajar en el proyecto PAPO de la [[http://vialibre.org.ar|Fundación Via Libre]], puntualmente en Luca un software de administración de recursos contables para PyMes (en Python, evidentemente), en ese momento conocí python y nunca mas lo dejé.
 
@@ -16,8 +16,10 @@ Cuando me cansé de ser sysadmin me dediqué durante algunos años a desarrollar
 
 Esta demás decir que me prendo en cualquier actividad pythonica que se presente, he podido participar de python days en Córdoba, Aparecí en los stands de PyAr de varios eventos (cebando mates nomas) fui al primer PyCamp donde llevamos la bandera de PyAr a nuevas alturas y participé de algunos varios PyWeeks y para colmo estoy escribiendo esto usando la fantástica remera de PyAr, si, soy un fanboy.
 
-Actualmente soy uno de los dueños de una empresa que pone mucho, pero mucho, enfasis en el software libre y no es secreto que a todos nos encanta Python y vamos a seguir metiendole tanta pila como le quepa, si me ves en algun evento vení a saludarme así te convenzo de usar Python.
+Actualmente soy uno de los dueños de [[http://www.machinalis.com|machinalis]], una empresa que pone mucho, pero mucho, enfasis en el software libre y no es secreto que a todos nos encanta Python y vamos a seguir metiendole tanta pila como le quepa, si me ves en algun evento vení a saludarme así te convenzo de usar Python.
 
 No se me ocurre que mas contar, si llegaste hasta esta parte del texto es que no me entendiste, deberías haber dejado de leer a mitad texto y salir corriendo a codear Python.
+
+P.D. Esta demas decir, tenemos una maquina de cafe expreso...
 ----
 CategoryHomepage
