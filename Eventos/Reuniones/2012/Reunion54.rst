@@ -9,7 +9,7 @@
 || '''Persona''' || '''Nuevo''' || '''Asistió''' || '''Viene de la StartUps''' ||
 ||[[emilioramirez|gaucho]] || ||  ||  ||
 ||[[gatox|Diego Sarmentero]] || ||  ||  ||
-||David Litvak|| || || X ||
+||[[DavidLitvak|David Litvak]]|| || || X ||
 ||DanielMoisset|| || || ||
 
 
