@@ -15,6 +15,7 @@
 ||[[SergioSchvezov|Sergio Schvezov (sergiusens)]]|| || || ||
 ||[[Apokalyptica79 (Verónica)]]|| || || X ||
 ||[[Strathyvarius (Arturo)]]|| || || X ||
+||MarianoVerdu|| || || ||
 
 === Fecha y Hora ===
  * 17 de Marzo 2012, 22hs
