@@ -13,6 +13,9 @@
   * http://emesene.org
   * mas info: http://blog.emesene.org/2011/08/call-for-wannabe-developers.html
 
+ * Crawley-Project, un framework de web crawling y screen scraping escrito en python sobre una libreria de I/O asincronico llamada eventlet
+  * http://www.crawley-project.org
+
 == Mentores Propuestos ==
 === Disponibles ===
  * Mauro Lizaur (debian, algo de django, cosas en general, ayuda con proyectos grandes(?). )
@@ -23,6 +26,7 @@
  * --(Horacio Duran: Para plone, python, django bastante basico, pregunten y les cuento si se o no.)--
  * Lucio Torre (varios)
  * Mariano Reingart (web2py, wxpython, postgresql, ubuntu y/o windows, proyectos de factura electrónica, "gestion libre", etc.)
+ * [[DavidLitvak|David Litvak]]: Para Crawley-Project, python orientado a objetos, django y un poco de vim
  * [[MarianoGuerra|Mariano Guerra]] emesene, python en general, flask, REST, web
 
 === Ocupados ===
