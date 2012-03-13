@@ -30,6 +30,7 @@
  * [[MarianoGuerra|Mariano Guerra]] emesene, python en general, flask, REST, web
 
 === Ocupados ===
+
  * JuanFisanotti (django, python en general, un poco de vim) (Hernan Lozano)
  * MartinAlderete ( PyQt, GUI programming)(Ochoa Gerardo Fidel)
 
@@ -60,8 +61,6 @@
  * Daniel Malisani -> Manuel Naranjo (opencv)
  * [[MaximilianoChurichi|Maximiliano Churichi]] -> [[gatox|Diego Sarmentero]] (Qt/PyQt)
  * Cesar Vargas -> [[gatox|Diego Sarmentero]] (Qt/PyQt)
- * [[AnaMassone|Ana Massone]] -> MarianoGuerra (web)
- * [[DiegoAhumada|Diego Ahumada]] -> MarianoGuerra (web)
  * EzequielMarquez -> HoracioDuran (web)
  * Hernan Lozano -> JuanFisanotti (django, python en general, un poco de vim)
 
