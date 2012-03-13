@@ -77,3 +77,6 @@
  * Mariano Guerra 
    * [[AnaMassone|Anna Massone]] perdida de contacto
    * [[DiegoAhumada|Diego Ahumada]] perdida de contacto
+
+ * Diego Sarmentero
+   * Cesar Vargas -> perdida de contacto
