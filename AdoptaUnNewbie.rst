@@ -23,9 +23,9 @@
  * --(Horacio Duran: Para plone, python, django bastante basico, pregunten y les cuento si se o no.)--
  * Lucio Torre (varios)
  * Mariano Reingart (web2py, wxpython, postgresql, ubuntu y/o windows, proyectos de factura electrónica, "gestion libre", etc.)
+ * [[MarianoGuerra|Mariano Guerra]] emesene, python en general, flask, REST, web
 
 === Ocupados ===
- * Mariano Guerra ([[AnaMassone|Anna Massone]] y [[DiegoAhumada|Diego Ahumada]])
  * JuanFisanotti (django, python en general, un poco de vim) (Hernan Lozano)
  * MartinAlderete ( PyQt, GUI programming)(Ochoa Gerardo Fidel)
 
@@ -67,3 +67,9 @@
 
 == Mentados Buscados ==
  * Factura Electrónica, Gestión Libre (comercial/administrativo/contable), desarrollo web c/ web2py
+
+== Adopciones Finalizadas ==
+
+ * Mariano Guerra 
+   * [[AnaMassone|Anna Massone]] perdida de contacto
+   * [[DiegoAhumada|Diego Ahumada]] perdida de contacto
