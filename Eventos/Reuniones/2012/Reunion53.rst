@@ -1,6 +1,7 @@
 = Reunión 53  - Sabado 17 de Marzo - Ciudad de Córdoba, Oficinas de Machinalis - 22hs =
 
 === Temario ===
+ * Organización de PyDay
  * Coding Dojo (Ninja IDE)
 
 
