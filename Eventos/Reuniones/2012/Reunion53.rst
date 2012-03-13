@@ -14,7 +14,7 @@
 ||DanielMoisset|| || || ||
 ||[[HoracioDuran|perrito]]|| || || ||
 ||[[SergioSchvezov|Sergio Schvezov (sergiusens)]]|| || || ||
-||[[Apokalyptica79 (Verónica)]]|| || || X ||
+||[[Apokalyptica79 (Verónica)]]|| X || || X ||
 ||[[Strathyvarius (Arturo)]]|| || || X ||
 ||MarianoVerdu|| || || ||
 ||Juan Manuel García|| X || || X ||
