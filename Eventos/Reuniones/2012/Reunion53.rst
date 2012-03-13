@@ -13,7 +13,7 @@
 ||[[DavidLitvak|David Litvak]]|| || || X ||
 ||DanielMoisset|| || || ||
 ||[[HoracioDuran|perrito]]|| || || ||
-||[[SergioSchvezov|Sergio Schvezov (sergiusens)]]|| || || ||
+||[[SergioSchvezov|Sergio Schvezov (sergiusens)]]|| X || || ||
 ||[[Apokalyptica79 (Verónica)]]|| X || || X ||
 ||[[Strathyvarius (Arturo)]]|| || || X ||
 ||MarianoVerdu|| || || ||
