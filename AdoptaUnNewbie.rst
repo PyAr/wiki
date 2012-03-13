@@ -9,14 +9,14 @@
  * todos felices
 
 == Proyectos en busca de mentados ==
-
- * emesene, un cliente de mensajeria instantanea multiplataform escrito en python y gtk (y una version alpha en qt4) 
-   * http://emesene.org
-   * mas info: http://blog.emesene.org/2011/08/call-for-wannabe-developers.html
+ * emesene, un cliente de mensajeria instantanea multiplataform escrito en python y gtk (y una version alpha en qt4)
+  * http://emesene.org
+  * mas info: http://blog.emesene.org/2011/08/call-for-wannabe-developers.html
 
 == Mentores Propuestos ==
 === Disponibles ===
  * Mauro Lizaur (debian, algo de django, cosas en general, ayuda con proyectos grandes(?). )
+ * [[gatox|Diego Sarmentero]] (Ninja-IDE, Qt/PyQt, python en general) http://ninja-ide.org
  * MartinAlderete (Ninja-IDE, Qt/PyQt, python web frameworks, python en general) http://github.com/malderete
  * ManuelNaranjo (django, dbus, bluetooth, opencv, numpy y scipy, cosas relacionadas con electrónica en general y señales)
  * Facundo Batista: Para CDPedia, Lalita, Python, Twisted a Py3, Enjuewemela y Magicicada (más info [[http://www.taniquetil.com.ar/plog/post/1/507|acá]]).
@@ -26,7 +26,6 @@
 
 === Ocupados ===
  * Mariano Guerra ([[AnaMassone|Anna Massone]] y [[DiegoAhumada|Diego Ahumada]])
- * DiegoSarmentero ([[MaximilianoChurichi|Maximiliano Churichi]] y Cesar Vargas)
  * JuanFisanotti (django, python en general, un poco de vim) (Hernan Lozano)
  * MartinAlderete ( PyQt, GUI programming)(Ochoa Gerardo Fidel)
 
@@ -55,8 +54,8 @@
 
 === Asignados ===
  * Daniel Malisani -> Manuel Naranjo (opencv)
- * [[MaximilianoChurichi|Maximiliano Churichi]] -> Diego Sarmentero (Qt/PyQt)
- * Cesar Vargas -> Diego Sarmentero (Qt/PyQt)
+ * [[MaximilianoChurichi|Maximiliano Churichi]] -> [[gatox|Diego Sarmentero]] (Qt/PyQt)
+ * Cesar Vargas -> [[gatox|Diego Sarmentero]] (Qt/PyQt)
  * [[AnaMassone|Ana Massone]] -> MarianoGuerra (web)
  * [[DiegoAhumada|Diego Ahumada]] -> MarianoGuerra (web)
  * EzequielMarquez -> HoracioDuran (web)
