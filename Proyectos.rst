@@ -89,7 +89,7 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr, están rela
  * [[http://code.google.com/p/quickdiagrams/|QuickDiagrams]]
   * Permite crear diagramas de clase a partir de un archivo de texto muy sencillo o un modulo python.
 
- * [[http://code.google.com/p/ninja-ide/|NINJA-IDE]]
+ * [[http://ninja-ide.org|NINJA-IDE]]
   * El objetivo de este proyecto es lograr un IDE especialmente diseñado para el desarrollo de aplicaciones Python, incorporando las características tradicionales de cualquier IDE y agregando funcionalidades extra con la que a todo programador de este lenguaje le gustaría contar.
 
  * [[http://code.google.com/p/fisa-vim-config/|fisa-vim-config]]
