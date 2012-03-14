@@ -92,6 +92,9 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr, están rela
  * [[http://code.google.com/p/ninja-ide/|NINJA-IDE]]
   * El objetivo de este proyecto es lograr un IDE especialmente diseñado para el desarrollo de aplicaciones Python, incorporando las características tradicionales de cualquier IDE y agregando funcionalidades extra con la que a todo programador de este lenguaje le gustaría contar.
 
+ * [[http://code.google.com/p/fisa-vim-config/|fisa-vim-config]]
+  * Una configuración de vim con muchas cosas listas para programar en python (autocompletado, navegador de clases, debugger, detección de errores, etc.)
+
 <<BR>>
 ----
  <<Navigation(children, 1)>> 
