@@ -15,7 +15,6 @@
 ||[[HoracioDuran|perrito]]|| || || ||
 ||[[SergioSchvezov|Sergio Schvezov (sergiusens)]]|| X || || ||
 ||[[Apokalyptica79 (Verónica)]]|| X || || X ||
-||[[Strathyvarius (Arturo)]]|| || || X ||
 ||MarianoVerdu|| || || ||
 ||Juan Manuel García|| X || || X ||
 ||Daniel Valverde|| X || || X ||
