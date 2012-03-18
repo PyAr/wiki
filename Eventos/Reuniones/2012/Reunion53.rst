@@ -8,14 +8,14 @@
 
 === Asistentes ===
 || '''Persona''' || '''Nuevo''' || '''Asistió''' || '''Viene de la StartUps''' ||
-||[[emilioramirez|Emilio Ramirez]] || ||  ||  ||
-||[[gatox|Diego Sarmentero]] || ||  ||  ||
+||[[emilioramirez|Emilio Ramirez]] || || X ||  ||
+||[[gatox|Diego Sarmentero]] || || X ||  ||
 ||[[DavidLitvak|David Litvak]]|| || || X ||
 ||DanielMoisset|| || || ||
-||[[HoracioDuran|perrito]]|| || || ||
-||[[SergioSchvezov|Sergio Schvezov (sergiusens)]]|| X || || ||
-||[[Apokalyptica79 (Verónica)]]|| X || || X ||
-||MarianoVerdu|| || || ||
+||[[HoracioDuran|perrito]]|| ||X || ||
+||[[SergioSchvezov|Sergio Schvezov (sergiusens)]]|| X ||X || ||
+||[[Apokalyptica79 (Verónica)]]|| X ||X || X ||
+||MarianoVerdu|| ||X || ||
 ||Juan Manuel García|| X || || X ||
 ||Daniel Valverde|| X || || X ||
 
