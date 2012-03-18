@@ -18,6 +18,7 @@
 ||MarianoVerdu|| ||X || ||
 ||Juan Manuel García|| X || || X ||
 ||Daniel Valverde|| X || || X ||
+||[[Dardo (Yaco) & Esposa]]||  ||X ||  ||
 
 === Fecha y Hora ===
  * 17 de Marzo 2012, 22hs
