@@ -1,36 +1,36 @@
 = Reunión 53  - Sabado 17 de Marzo - Ciudad de Córdoba, Oficinas de Machinalis - 22hs =
-
 === Temario ===
  * Organización de PyDay
  * Coding Dojo (Ninja IDE)
 
-
-
 === Asistentes ===
-|| '''Persona''' || '''Nuevo''' || '''Asistió''' || '''Viene de la StartUps''' ||
-||[[emilioramirez|Emilio Ramirez]] || || X ||  ||
-||[[gatox|Diego Sarmentero]] || || X ||  ||
-||[[DavidLitvak|David Litvak]]|| || || X ||
-||DanielMoisset|| || || ||
-||[[HoracioDuran|perrito]]|| ||X || ||
-||[[SergioSchvezov|Sergio Schvezov (sergiusens)]]|| X ||X || ||
-||[[Apokalyptica79 (Verónica)]]|| X ||X || X ||
-||MarianoVerdu|| ||X || ||
-||Juan Manuel García|| X || || X ||
-||Daniel Valverde|| X || || X ||
-||[[Dardo (Yaco) & Esposa]]||  ||X ||  ||
+||'''Persona''' ||'''Nuevo''' ||'''Asistió''' ||'''Viene de la StartUps''' ||
+||[[emilioramirez|Emilio Ramirez]] || ||X || ||
+||[[gatox|Diego Sarmentero]] || ||X || ||
+||[[DavidLitvak|David Litvak]] || || ||X ||
+||DanielMoisset || || || ||
+||[[HoracioDuran|perrito]] || ||X || ||
+||[[SergioSchvezov|Sergio Schvezov (sergiusens)]] ||X ||X || ||
+||[[Apokalyptica79 (Verónica)]] ||X ||X ||X ||
+||MarianoVerdu || ||X || ||
+||Juan Manuel García ||X || ||X ||
+||Daniel Valverde ||X || ||X ||
+||[[Dardo (Yaco) & Esposa]] || ||X || ||
+
 
 === Fecha y Hora ===
  * 17 de Marzo 2012, 22hs
 
 === Lugar ===
-
-Oficinas de Machinalis,
-Paraguay 70,
-Córdoba Capital.
+Oficinas de Machinalis, Paraguay 70, Córdoba Capital.
 
 <<GoogleMaps(msid=202347166333688848401.0004b784515ee69c1b84f,msa=0,ll="-31.412073,-64.201849",spn="0.016372,0.033023",iwloc=0004b78851904f1396061,z=16)>>
 
+=== Minuta ===
+Temas que se trataron:
 
-=== Confeccionar la minuta ===
-Eso.
+ * Diva Satanica como dijo en su mail, se va a poner en campaña de organizar un PyDay en Corrientes (así la gente de PyAr tiene la chance de ir a conocer por esos lados y seguir evangelizando gente por más partes de la Argentina).
+ * En cuanto al PyDay Córdoba, quedamos como organizadores 3 personas (para que ninguno se vuelva loco solo), asi que estamos Perrito, Emilio Ramirez y yo (Tenemos que juntarnos a ver cuando, etc).
+ * Se habló de la insistencia de que cualquiera que tenga un proyecto por más chico que sea, presente Poster para poder poner en la entrada y que se vean las distintas cosas que se hacen.
+ * Se mencionó igual que esta la idea de hacer el Sábado 31 de Marzo un Coding Dojo de NINJA-IDE, interesados avisar así podemos ver en que lugar sería mejor hacerlo en base a la cantidad de personas.
+ * Y se conoció la historia detrás de la foto de Facundo :P
