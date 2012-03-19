@@ -7,13 +7,13 @@
 ||'''Persona''' ||'''Nuevo''' ||'''Asistió''' ||'''Viene de la StartUps''' ||
 ||[[emilioramirez|Emilio Ramirez]] || ||X || ||
 ||[[gatox|Diego Sarmentero]] || ||X || ||
-||[[DavidLitvak|David Litvak]] || || ||X ||
+||[[DavidLitvak|David Litvak]] || ||X ||X ||
 ||DanielMoisset || || || ||
 ||[[HoracioDuran|perrito]] || ||X || ||
 ||[[SergioSchvezov|Sergio Schvezov (sergiusens)]] ||X ||X || ||
 ||[[Apokalyptica79 (Verónica)]] ||X ||X ||X ||
 ||MarianoVerdu || ||X || ||
-||Juan Manuel García ||X || ||X ||
+||Juan Manuel García ||X ||X ||X ||
 ||Daniel Valverde ||X || ||X ||
 ||[[Dardo (Yaco) & Esposa]] || ||X || ||
 
