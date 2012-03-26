@@ -24,7 +24,7 @@
  * Sábado 31 de Marzo 2012, 12hs (mediodia)
 
 === Lugar ===
-Buffet de la Universidad Nacional de Quilmes
+"Bar/Kiosco" dentro de la Universidad Nacional de Quilmes
 
  * Roque Saenz Peña 352
  * Bernal (a 5 cuadras de la estación de trenes)
