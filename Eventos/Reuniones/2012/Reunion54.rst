@@ -16,6 +16,7 @@
 === Asistentes ===
 ||'''Persona''' ||'''Nuevo''' ||'''Asistió''' ||'''Voluntario para PyConAr''' ||
 ||MarianoReingart|| || || X ||
+||AlbertoPaparelli|| || || X ||
 
 
 === Fecha y Hora ===
