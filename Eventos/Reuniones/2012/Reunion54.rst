@@ -1,12 +1,15 @@
 = Reunión 54  - Sabado 31 de Marzo - Buenos Aires, Universidad de Quilmes - 12hs =
 
 === Temario ===
+
  * PyCon USA 2012: reseña y reparto de merchandizing (remeras, pines, calcos, bolsos, folletos, etc.)
  * Organización de PyCon Argentina 2012
   * Recorrida por el lugar
   * Búsqueda de Coordinadores y Voluntarios 
   * Presupuesto, Sponsors y Ayuda Económica
   * Invitados y Call for Proposal
+  * Organización Formal: Via Libre, Solar, QuilmesLug etc. ?¿
+ * Fundación/Asociación Python Argentina y organización de eventos "profesionales"
 
 === Asistentes ===
 ||'''Persona''' ||'''Nuevo''' ||'''Asistió''' ||'''Voluntario para PyConAr''' ||
