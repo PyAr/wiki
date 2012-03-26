@@ -1,16 +1,16 @@
 == Conferencias ==
 
- * [[http://ar.pycon.org/2011/conference/venue| PyCon Argentina 2011]], a realizarse el 23 y 24 de Septiembre de 2011 en la ciudad de Junín ( Buenos Aires ).
+ * [[http://ar.pycon.org/2011/conference/venue| PyCon Argentina 2011]], a realizada el 23 y 24 de Septiembre de 2011 en la ciudad de Junín ( Buenos Aires ).
 
- * [[http://www.pyday.com.ar/sanluis2011/ | PyDay San Luis 2011]], a realizarse el *20* de Agosto de 2011 en la ciudad de San Luis.
+ * [[http://www.pyday.com.ar/sanluis2011/ | PyDay San Luis 2011]], realizada el *20* de Agosto de 2011 en la ciudad de San Luis.
 
- * [[http://ar.pycon.org/2010/about/| PyCon Argentina 2010]], a realizarse el 15 y 16 de octubre de 2010 en la ciudad de Córdoba.
+ * [[http://ar.pycon.org/2010/about/| PyCon Argentina 2010]], realizada el 15 y 16 de octubre de 2010 en la ciudad de Córdoba.
 
  * [[CharlasAbiertas2010| Ciclo de Charlas Abiertas de Python Argentina en La Tribu]], realizadas durante el 2010, en [[http://www.fmlatribu.com/|La Tribu]].
 
- * [[/PyDayBuenosAires2010| Python Day Buenos Aires 2010]], a realizarse el 04 de Septiembre del 2010, en la Ciudad Autónoma de Buenos Aires.
+ * [[/PyDayBuenosAires2010| Python Day Buenos Aires 2010]], realizada el 04 de Septiembre del 2010, en la Ciudad Autónoma de Buenos Aires.
 
- * [[/PyDayRafaela2010| Python Day Rafaela 2010]], a realizarse el 08 de Mayo del 2010, en la ciudad de Rafaela, Santa Fe.
+ * [[/PyDayRafaela2010| Python Day Rafaela 2010]], realizada el 08 de Mayo del 2010, en la ciudad de Rafaela, Santa Fe.
 
  * [[http://ar.pycon.org/2009/about/| PyCon Argentina 2009]], realizada 4 y 5 de Septiembre en la Universidad de Belgrano, Buenos Aires. Primer conferencia Python en castellano del mundo.
 
