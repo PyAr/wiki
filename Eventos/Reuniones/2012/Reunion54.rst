@@ -19,6 +19,7 @@
 ||MarianoReingart|| || || X ||
 ||AlbertoPaparelli|| || || X ||
 ||AngelVelasquez|| || || X ||
+||JuanCabral|| || || X ||
 
 
 === Fecha y Hora ===
