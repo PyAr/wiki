@@ -17,6 +17,7 @@
 ||'''Persona''' ||'''Nuevo''' ||'''Asistió''' ||'''Voluntario para PyConAr''' ||
 ||MarianoReingart|| || || X ||
 ||AlbertoPaparelli|| || || X ||
+||AngelVelasquez|| || || X ||
 
 
 === Fecha y Hora ===
