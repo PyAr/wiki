@@ -6,7 +6,8 @@
 
 === Asistentes ===
 ||'''Persona''' ||'''Nuevo''' ||'''Asistió''' ||'''Voluntario''' ||
-||ArielRossanigo|| || || X ||
+||ArielRossanigo|| || ||<:> X ||
+||CesarRoldan|| || ||<:> X ||
 
 
 === Fecha y Hora ===
