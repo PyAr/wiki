@@ -9,7 +9,9 @@
   * Presupuesto, Sponsors y Ayuda Económica
   * Invitados y Call for Proposal
   * Organización Formal: Via Libre, Solar, QuilmesLug etc. ?¿
+  * ¿PgDay, Sugar Day dentro o en paralelo a PyConAr?
  * Fundación/Asociación Python Argentina y organización de eventos "profesionales"
+ * Reuniones regulares para exposición de proyectos...
 
 === Asistentes ===
 ||'''Persona''' ||'''Nuevo''' ||'''Asistió''' ||'''Voluntario para PyConAr''' ||
