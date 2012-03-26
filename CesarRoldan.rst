@@ -2,6 +2,9 @@
 #format wiki
 == Cesar Roldan ==
 
-Mis datos
+<<Twitter(usuario="ihuro")>>
+
+Email: <<MailTo(croldan AT SPAMFREE gmail DOT com)>>
+
 ----
 CategoryHomepage
