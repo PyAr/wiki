@@ -10,6 +10,7 @@
   * Invitados y Call for Proposal
   * Organización Formal: Via Libre, Solar, QuilmesLug etc. ?¿
   * ¿PgDay, Sugar Day dentro o en paralelo a PyConAr?
+  * Instrumentación de donaciones y bono colaboración materiales
  * Fundación/Asociación Python Argentina y organización de eventos "profesionales"
  * Reuniones regulares para exposición de proyectos...
 
