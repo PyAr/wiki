@@ -1,8 +1,8 @@
 == Conferencias ==
 
- * [[http://ar.pycon.org/2011/conference/venue| PyCon Argentina 2011]], a realizada el 23 y 24 de Septiembre de 2011 en la ciudad de Junín ( Buenos Aires ).
+ * [[http://ar.pycon.org/2011/conference/venue| PyCon Argentina 2011]], realizada el 23 y 24 de Septiembre de 2011 en la ciudad de Junín ( Buenos Aires ).
 
- * [[http://www.pyday.com.ar/sanluis2011/ | PyDay San Luis 2011]], realizada el *20* de Agosto de 2011 en la ciudad de San Luis.
+ * [[http://www.pyday.com.ar/sanluis2011/ | PyDay San Luis 2011]], realizada el 20 de Agosto de 2011 en la ciudad de San Luis.
 
  * [[http://ar.pycon.org/2010/about/| PyCon Argentina 2010]], realizada el 15 y 16 de octubre de 2010 en la ciudad de Córdoba.
 
