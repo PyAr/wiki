@@ -2,7 +2,13 @@
 
 === Temario ===
 
- * PyCon USA 2012: reseña y reparto de merchandizing (remeras, pines, calcos, bolsos, folletos, etc.)
+ * PyCon USA 2012: reseña y sorteo de merchandizing:
+  * Remeras del evento
+  * Calcos de Python 3, PyCon US, Builbot y otros
+  * Pines de Android, New Relic y otras
+  * Frisbees, helicoptercitos, etc.
+  * Un par de tazas, llaveritos, destapadores, etc.
+  * Folleteria en general
  * Organización de PyCon Argentina 2012
   * Recorrida por el lugar
   * Búsqueda de Coordinadores y Voluntarios 
