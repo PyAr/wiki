@@ -8,6 +8,7 @@
 ||'''Persona''' ||'''Nuevo''' ||'''Asistió''' ||'''Voluntario''' ||
 ||ArielRossanigo|| || ||<:> X ||
 ||CesarRoldan|| || ||<:> X ||
+||LorenaDiorio|| || ||<:> X ||
 
 
 === Fecha y Hora ===
