@@ -5,10 +5,10 @@
  * Organización de PyDay en Rafaela en 2012
 
 === Asistentes ===
-||'''Persona''' ||'''Nuevo''' ||'''Asistió''' ||'''Voluntario''' ||
-||ArielRossanigo|| || ||<:> X ||
-||CesarRoldan|| || ||<:> X ||
-||LorenaDiorio|| || ||<:> X ||
+||'''Persona''' ||'''Nuevo''' ||'''Asistió''' ||
+||ArielRossanigo|| || ||
+||CesarRoldan|| || ||
+||LorenaDiorio|| || ||
 
 
 === Fecha y Hora ===
