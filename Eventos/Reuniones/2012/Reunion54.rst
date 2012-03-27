@@ -21,6 +21,7 @@
 ||AngelVelasquez|| || || X ||
 ||JuanCabral|| || || X ||
 
+NOTA: Ser voluntario para PyConAr no es obligatorio para asistir a la reunión, ni genera ningún compromiso, simplemente está el casillero para ir organizandonos y tener una idea sobre los asistentes y orden del día.
 
 === Fecha y Hora ===
  * Sábado 31 de Marzo 2012, 12hs (mediodia)
