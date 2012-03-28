@@ -12,11 +12,12 @@
  * Organización de PyCon Argentina 2012
   * Recorrida por el lugar
   * Búsqueda de Coordinadores y Voluntarios 
-  * Presupuesto, Sponsors y Ayuda Económica
-  * Invitados y Call for Proposal
+  * Presupuesto/Financiación, Sponsors y Ayuda Económica
+  * Invitados Internacionales y Call for Proposal
+  * Convocatoria Summit: formato, temas de paneles e invitados
   * Organización Formal: Via Libre, Solar, QuilmesLug etc. ?¿
   * ¿PgDay, Sugar Day dentro o en paralelo a PyConAr?
-  * Instrumentación de donaciones y bono colaboración materiales
+  * Instrumentación de donaciones, bono colaboración materiales y certificado
  * Fundación/Asociación Python Argentina y organización de eventos "profesionales"
  * Reuniones regulares para exposición de proyectos...
 
