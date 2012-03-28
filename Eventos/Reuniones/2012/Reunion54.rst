@@ -18,6 +18,7 @@
   * Organización Formal: Via Libre, Solar, QuilmesLug etc. ?¿
   * ¿PgDay, Sugar Day dentro o en paralelo a PyConAr?
   * Instrumentación de donaciones, bono colaboración materiales y certificado
+  * Difusión/Publicidad: Facebook, Linked-In, Twitter, Blog, AdWords y Media Sponsors 
  * Fundación/Asociación Python Argentina y organización de eventos "profesionales"
  * Reuniones regulares para exposición de proyectos...
 
