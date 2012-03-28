@@ -2,7 +2,7 @@
 
 === Temario ===
 
- * PyCon USA 2012: reseña y sorteo de merchandizing:
+ * PyCon USA 2012: reseña ([[http://reingart.blogspot.com.ar/2012/03/pycon-us-2012.html|blog M.R.]]) y sorteo de merchandizing:
   * Remeras del evento
   * Calcos de Python 3, PyCon US, Builbot y otros
   * Pines de Android, New Relic y otras
