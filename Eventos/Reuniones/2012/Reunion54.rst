@@ -28,6 +28,7 @@
 ||AlbertoPaparelli|| || || X ||
 ||AngelVelasquez|| || || X ||
 ||JuanCabral|| || || X ||
+||SebastianBassi|| || || X ||
 
 NOTA: Ser voluntario para PyConAr no es obligatorio para asistir a la reunión, ni genera ningún compromiso, simplemente está el casillero para ir organizandonos y tener una idea sobre los asistentes y orden del día.
 
@@ -35,7 +36,7 @@ NOTA: Ser voluntario para PyConAr no es obligatorio para asistir a la reunión, 
  * Sábado 31 de Marzo 2012, 12hs (mediodia)
 
 === Lugar ===
-"Bar/Kiosco" dentro de la Universidad Nacional de Quilmes
+"Bar/Kiosco" dentro de la Universidad Nacional de Quilmes (Cual de los 2? El de Sociales -a la entrada- o el de CyT?)
 
  * Roque Saenz Peña 352
  * Bernal (a 5 cuadras de la estación de trenes)
