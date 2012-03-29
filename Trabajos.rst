@@ -1,5 +1,7 @@
 = Trabajos con Python =
 == 2012 ==
+ * (29/03/2012) [[http://www.towebs.com|Towebs Webhosting]] esta buscando dos desarrolladores Python con al menos un año de experiencia, son requeridos conocimientos de desarrollo web. Son deseables conocimientos de Linux. Interesados por favor contactarse con <<MailTo(walter EN towebs PUNTO com)>>
+
  * (21/03/2012) En Shift4 estamos buscando un desarrollador Python-Django, para un proyecto de unos 4 meses, mínimo. Es para trabajar remoto, un mínimo de 4hs al dia, pero sin exigencias estrictas de horarios.. Estamos en Santa Fe Capital, por lo que nos vendría bien alguien de acá para reunirnos periódicamente, pero no es indispensable. Si alguien está interesado por favor envíe un mail a comercial@shift4.com.ar
 
  * (06/03/2012) Seleccionaremos para la empresa Mobil-Tonic / Entaste un programador Python. La búsqueda se orienta a una persona con sólidos conocimientos en programación orientada a objetos, en lenguajes tales como: Python, Groovy, Rails, etc. Participará de importantes proyectos web y mobile para lo cuál será capacitado en tecnologías de vanguardia. También será parte del equipo de I + D para explorar nuevas tecnologías y tendencias. La empresa ofrece muy buenas condiciones de contratación y muy buen paquete salarial. Interesados enviar un mail a sosterc@ghidinirodil.com.ar o comunicarse al 4-8198834.
