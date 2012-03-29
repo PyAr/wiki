@@ -6,12 +6,12 @@
 
 === Asistentes ===
 ||'''Persona''' ||'''Nuevo''' ||'''Asistió''' ||
-||ArielRossanigo|| || X ||
-||CesarRoldan|| || X ||
-||LorenaDiorio|| || X ||
-||GustavoTell|| || X ||
-|| JuanFisanotti|| || X ||
-|| MarioPozzo|| || X ||
+||ArielRossanigo|| ||<:> X ||
+||CesarRoldan|| ||<:> X ||
+||LorenaDiorio|| ||<:> X ||
+||GustavoTell|| ||<:> X ||
+|| JuanFisanotti|| ||<:> X ||
+|| MarioPozzo|| ||<:> X ||
 
 === Fecha y Hora ===
  * Miércoles 28 de Marzo 2012, 21hs 
@@ -110,7 +110,7 @@ Dentro de los roles quedamos así:
 Dentro de las tareas a realizar más inmediatas:
  * Revisar que la fecha no se superponga con algún evento importante.
  * Ariel se compromete a hablar con la universidad para manguear lugar, equipos y demás.
- * Cesar tiene que corroborar las posibilidades del equipo de teleconferencias
+ * Cesar tiene que corroborar las posibilidades del equipo de videoconferencias
 
 Por otro lado dije que iba a buscar los documentos que habíamos armado para el PyDay anterior, dejo los enlaces:
 
