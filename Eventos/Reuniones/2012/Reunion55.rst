@@ -113,7 +113,11 @@ Dentro de las tareas a realizar más inmediatas:
  * Cesar tiene que corroborar las posibilidades del equipo de teleconferencias
 
 Por otro lado dije que iba a buscar los documentos que habíamos armado para el PyDay anterior, dejo los enlaces:
-[[Asignación de tareas|https://docs.google.com/spreadsheet/ccc?key=0AnNHEk3yeJLRdDVGdmdnakNwWWhPRTcydXNpSVdoZVE]]
-[[Mas tareas|https://docs.google.com/document/d/1Iv7Yv7MLyrblKnjM0fZ0l-ioK8C--wCVHAPF9qquV4Q/edit]]
-[[Carta sponsors|https://docs.google.com/document/d/1GW8xHCjsqv64OUtEAi0p-RktzwmCdeqzDyxP_0R4NeQ/edit]]
-[[Presupuesto|https://docs.google.com/spreadsheet/ccc?key=0AnNHEk3yeJLRdERSZGdrX0pQYXpPUkk4azFSSVV2Q2c]]
+
+[[https://docs.google.com/spreadsheet/ccc?key=0AnNHEk3yeJLRdDVGdmdnakNwWWhPRTcydXNpSVdoZVE|Asignación de tareas]]
+
+[[https://docs.google.com/document/d/1Iv7Yv7MLyrblKnjM0fZ0l-ioK8C--wCVHAPF9qquV4Q/edit|Mas tareas]]
+
+[[https://docs.google.com/document/d/1GW8xHCjsqv64OUtEAi0p-RktzwmCdeqzDyxP_0R4NeQ/edit|Carta sponsors]]
+
+[[https://docs.google.com/spreadsheet/ccc?key=0AnNHEk3yeJLRdERSZGdrX0pQYXpPUkk4azFSSVV2Q2c|Presupuesto]]
