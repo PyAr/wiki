@@ -38,17 +38,17 @@ Sobre las temáticas de las charlas mucho no se habló, lo único que se mencion
 La noche del sábado la idea sería hacer una ''codemida'' (término acuñado por Fisa), una juntada que involucra comida y sprint/coding dojo. Las temáticas sobre las cuales trabajar serían abiertas, se pueden proponer con anterioridad o durante el día de las charlas; para lo que si habría que anotarse de antemano es para la asistencia a la comida. 
 
 Respecto a temas organizativos que hay que tener en cuenta identificamos:
-* Lugar
-* Sponsors
-* Difusión
-* Redes y equipamiento
-* Fotos y Filmación
-* Sitio
-* Comidas y cathering
-* Diplomas
-* Ambientación del lugar
-* Tesorería
-* Hoteles 
+ * Lugar
+ * Sponsors
+ * Difusión
+ * Redes y equipamiento
+ * Fotos y Filmación
+ * Sitio
+ * Comidas y cathering
+ * Diplomas
+ * Ambientación del lugar
+ * Tesorería
+ * Hoteles 
 
 Sobre los temas que ahondamos fueron:
 
@@ -60,9 +60,9 @@ Además tenemos buena llegada a los directivos y no debiera haber inconvenientes
 
 ==== Filmación ====
 El PyDay de 2010 lo filmamos completo, pero hubo detalles a mejorar... 
-1. Hubo una mínima edición posterior por problemas de la filmadora, pero no se compaginaron las filminas para mostrarlas cuando se hacían referencia a ellas. Aún siendo menor, el tema de edición fue trabajoso y embolante...
-2. El audio era malo. 
-3. La disposición de disertante, pantalla blanca y filmadora no era necesariamente la mejor...
+ 1. Hubo una mínima edición posterior por problemas de la filmadora, pero no se compaginaron las filminas para mostrarlas cuando se hacían referencia a ellas. Aún siendo menor, el tema de edición fue trabajoso y embolante...
+ 2. El audio era malo. 
+ 3. La disposición de disertante, pantalla blanca y filmadora no era necesariamente la mejor...
 
 Buscando una solución a todos estos temas Cesar se acordó que en la facu hay un flamante equipo de video conferencias, el cual en principio permite varias entradas simultáneas de video con la posibilidad de editar en tiempo real el layout del video.
 El equipo cuenta además con un micrófono ambiental que capturaría bien el sonido. 
@@ -76,10 +76,10 @@ Tavo menciono que el dispone de una maquina digital con salida HDMI.
 
 ==== Ambientación ====
 Dentro de las cosas a mejorar de la edición anterior recordamos:
-1. Conseguir algo para tapar las ventanas y que no molesten en la proyección
-2. Colocar un atril donde el disertante pueda estar cómodamente parado con su notebook para no tener que estar siguiendo continuamente con la filmadora al disertante. Además si no se mueve tanto tenemos la ventaja de que el sonido va a ser más claro.
-3. Cambiar la disposición de la pantalla blanca. Pantalla al centro, disertante al costado.
-
+ 1. Conseguir algo para tapar las ventanas y que no molesten en la proyección
+ 2. Colocar un atril donde el disertante pueda estar cómodamente parado con su notebook para no tener que estar siguiendo continuamente con la filmadora al disertante. Además si no se mueve tanto tenemos la ventaja de que el sonido va a ser más claro.
+ 3. Cambiar la disposición de la pantalla blanca. Pantalla al centro, disertante al costado.
+ 
 ==== Redes y equipamiento ====
 Este punto está casi resuelto; en la facu hay internet wifi abierto, solo quedaría ver si se hace streaming de las charlas de llevar hasta el lugar la conexión dedicada del equipo de video conferencia.
 
@@ -97,21 +97,23 @@ Está el sitio que en utilizan todos los eventos, Mariano en la edición anterio
 === Roles y tareas ===
 
 Dentro de los roles quedamos así:
-Coordinador general y tesorero: Ariel 
-Encargado de Sponsors: Fisa
-Encargado de equipamientos: Cesar
-Encargada de Cathering y ambientación: Lore
+
+ __Coordinador general y tesorero:__ Ariel 
+
+ __Encargado de Sponsors:__ Fisa
+
+ __Encargado de equipamientos:__ Cesar
+
+ __Encargada de Cathering y ambientación:__ Lore
+
 
 Dentro de las tareas a realizar más inmediatas:
-* Revisar que la fecha no se superponga con algún evento importante.
-* Ariel se compromete a hablar con la universidad para manguear lugar, equipos y demás.
-* Cesar tiene que corroborar las posibilidades del equipo de teleconferencias
+ * Revisar que la fecha no se superponga con algún evento importante.
+ * Ariel se compromete a hablar con la universidad para manguear lugar, equipos y demás.
+ * Cesar tiene que corroborar las posibilidades del equipo de teleconferencias
 
-
-
-
-
-
-
-
-
+Por otro lado dije que iba a buscar los documentos que habíamos armado para el PyDay anterior, dejo los enlaces:
+[[Asignación de tareas|https://docs.google.com/spreadsheet/ccc?key=0AnNHEk3yeJLRdDVGdmdnakNwWWhPRTcydXNpSVdoZVE]]
+[[Mas tareas|https://docs.google.com/document/d/1Iv7Yv7MLyrblKnjM0fZ0l-ioK8C--wCVHAPF9qquV4Q/edit]]
+[[Carta sponsors|https://docs.google.com/document/d/1GW8xHCjsqv64OUtEAi0p-RktzwmCdeqzDyxP_0R4NeQ/edit]]
+[[Presupuesto|https://docs.google.com/spreadsheet/ccc?key=0AnNHEk3yeJLRdERSZGdrX0pQYXpPUkk4azFSSVV2Q2c]]
