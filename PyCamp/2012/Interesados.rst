@@ -7,6 +7,7 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2012|P
 '''Confirmados '''(voy o voy):
 ||'''Nombre''' ||'''Requerimiento Dietario''' ||'''Deposito''' ||
 ||RicardoKirkner||Omnívoro||No||
+||DavidLitvak||Vegetariano||Not yet||
 
 ''' Interesados''' (tengo ganas pero no estoy seguro):
 
