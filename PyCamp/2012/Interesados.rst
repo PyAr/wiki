@@ -8,6 +8,7 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2012|P
 ||'''Nombre''' ||'''Requerimiento Dietario''' ||'''Deposito''' ||
 ||RicardoKirkner||Omnívoro||No||
 ||DavidLitvak||Vegetariano||Not yet||
+||Claudio Canepa||lo que venga||si||
 
 ''' Interesados''' (tengo ganas pero no estoy seguro):
 
