@@ -8,9 +8,15 @@ Si hay interesados, se puede encarar como se comento en IRC, de hacer ninja comp
 
 === Otros temas que no son necesariamente proyectos de código ===
 
+ * Cómo ser sysadmin del Wiki y la lista
+ * Organizando PyCon 2012
+
 === Trasnoche ===
 
 Juegos de Mesa:
+ * Zug (parecido al Carcassone, pero con trenes, y ambientado en Tucumán!)
+ * Illuminati
+ * Battlestar Galáctica
 
 == Torneo Metegol ==
 
