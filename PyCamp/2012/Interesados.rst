@@ -13,5 +13,8 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2012|P
 
 ''' Interesados''' (tengo ganas pero no estoy seguro):
 
+||'''Nombre''' ||'''Cuándo vas a saber?'''||
+||JuanFisanotti||Tengo que preguntar en el trabajo, en estos días confirmo||
+
 ----
 CategoryPyCamp
