@@ -32,6 +32,7 @@
 ||Nadia|| || || X ||
 ||SebastianBassi|| || || X ||
 ||Alejandro J. Cura || || || X ||
+||Héctor Sanchez|| || || X ||
 
 NOTA: Ser voluntario para PyConAr no es obligatorio para asistir a la reunión, ni genera ningún compromiso, simplemente está el casillero para ir organizandonos y tener una idea sobre los asistentes y orden del día.
 
