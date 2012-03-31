@@ -10,6 +10,7 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2012|P
 ||DavidLitvak||Vegetariano||Not yet||
 ||Claudio Canepa||lo que venga||si||
 ||Alejandro J. Cura||alimento balanceado||todavía no||
+||Anthony Lenton||  ||Todavía no||
 
 ''' Interesados''' (tengo ganas pero no estoy seguro):
 
