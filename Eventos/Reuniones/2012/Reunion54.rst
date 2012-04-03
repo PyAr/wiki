@@ -50,7 +50,6 @@ NOTA: Ser voluntario para PyConAr no es obligatorio para asistir a la reunión, 
 === Minuta ===
 
 La reunión duró 8hs y media
-La reunión duró 8hs y media
 
     * se repartio algo de merchandising de pycon us 2012 y lo que sobro se repartira en pyday lujan
     * Sponsors tenemos confirmados: MSA, Lambda, y Sistemas Ágiles, los cuales son la reserva económica para poder invitar a disertantes extranjeros
