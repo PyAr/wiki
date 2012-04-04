@@ -69,7 +69,7 @@ La reunión duró 8hs y media
     * Se va  limitar los abstracts de cada charla y la bibliografía a un determinado número de palabras.
     * Se duda si el coding dojo va el dia de los paneles o tutoriales.
     * La duración de las charlas va a ser de 30', 10' para preguntas y un receso de 10' (para cambiar de speakers y eso)
-    * Van a haber al menos 4 tracks.
+    * Van a haber entre 3 y 4 tracks.
     * Hay temas que hay que tener en cuenta particularmente o que estan de "moda": mobile, arduino, android, big data y social, ya que llevan mucha gente.
     * Vamos a presentar papeles para el subsidios del fonsoft para eventos cientificos. Este subsidio nos pide: Analisis post mortem completo (que no están disponibles y por eso pidieron al menos los programas anteriores que juanbc va a enviar 2010 y 2011 y alecu el 2009)
     * Si alguien en la lista tiene encuestas u otra cosa que sirva para demostrar eventos anteriores; por favor enviélos.
