@@ -1,5 +1,8 @@
 = PyCamp 2012 =
 
+== Que se hace en un PyCamp ==
+[[PyCamp/QueSeHace|Que se hace en un PyCamp]]
+
 == Cronograma de charlas y reuniones ==
 [[PyCamp/2012/Cronograma|Cronograma]]
 
