@@ -12,6 +12,7 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2012|P
 ||Alejandro J. Cura||alimento balanceado||todavía no||
 ||Anthony Lenton||  ||Todavía no||
 ||Manuel Quiñones||  ||Todavía no||
+||Diego Mascialino|| ||Sí||
 
 ''' Interesados''' (tengo ganas pero no estoy seguro):
 
