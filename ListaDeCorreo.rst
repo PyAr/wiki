@@ -34,7 +34,11 @@ A partir del 17/10/2006, GMANE también está archivando nuestra lista. Este arc
 También hay una réplica de la lista en un grupo de Google: http://groups.google.com/group/pythonargentina
 
 <<BR>>
+
+## No borrar!!! Sirve para linkear desde http://listas.python.org.ar/listinfo/pyar
 <<Anchor(Busqueda)>>
+## No borrar!!!
+
 == Buscar en los archivos de la lista ==
 Hemos hablado de muchas cosas en la lista de PyAr, si tienes un problema o una duda, antes de preguntar en la lista de PyAr te recomendamos que busques en el archivo de la lista, puedes hacerlo al menos de estas formas:
 
