@@ -36,15 +36,11 @@ También hay una réplica de la lista en un grupo de Google: http://groups.googl
 <<BR>>
 <<Anchor(Busqueda)>>
 == Buscar en los archivos de la lista ==
-Hemos hablado de muchas cosas en la lista de PyAr, si tienes un problema o una duda, antes de preguntar en la lista de PyAr te recomendamos que busques en el archivo de la lista, puedes hacerlo en:
+Hemos hablado de muchas cosas en la lista de PyAr, si tienes un problema o una duda, antes de preguntar en la lista de PyAr te recomendamos que busques en el archivo de la lista, puedes hacerlo al menos de estas formas:
 
-http://blog.gmane.org/gmane.org.user-groups.python.argentina (vas a ver una parte que dice '''Search Archive''')
+ * http://blog.gmane.org/gmane.org.user-groups.python.argentina (vas a ver una parte que dice '''Search Archive''')
 
-O bien utilizando google con el comando '''site:''', por ejemplo, si busco servicios de ''hosting'' para python puedo hacer una busqueda del tipo:
-
-''hosting'' '''site:'''listas.python.org.ar/pipermail/pyar/
-
-Donde le decimos a google que busque la palabra 'hosting' solamente en el sitio listas.python.org.ar/pipermail/pyar/
+ * O bien utilizando [[http://www.google.com Google]] con el comando '''site:''', por ejemplo, si busco servicios de ''hosting'' para python puedo hacer una busqueda del tipo: <<BR>><<BR>>''hosting'' '''site:'''listas.python.org.ar/pipermail/pyar/ <<BR>><<BR>>Donde le decimos a google que busque la palabra 'hosting' solamente en el sitio del archivo de las listas: http://listas.python.org.ar/pipermail/pyar/ .
 
 <<BR>>
 
