@@ -9,7 +9,7 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2012|P
 ||RicardoKirkner||Omnívoro||No||
 ||DavidLitvak||Vegetariano||Not yet||
 ||Claudio Canepa||lo que venga||si||
-||Alejandro J. Cura||alimento balanceado||todavía no||
+||Alejandro J. Cura||alimento balanceado||Sí!||
 ||Anthony Lenton||  ||Todavía no||
 ||Manuel Quiñones||  ||Todavía no||
 ||Diego Mascialino|| ||Sí||
