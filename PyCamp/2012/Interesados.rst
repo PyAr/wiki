@@ -14,7 +14,7 @@ Instrucciones para confirmar la asistencia y pagar la reserva en [[PyCamp/2012|P
 ||Manuel Quiñones||  ||Todavía no||
 ||Diego Mascialino|| ||Sí||
 ||HectorSanchez|| Un asadito ||Sí||
-||SantiagoPiccinini|| Omnívoro ||Todavía no||
+||SantiagoPiccinini|| Omnívoro ||Sí||
 
 ''' Interesados''' (tengo ganas pero no estoy seguro):
 
