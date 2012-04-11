@@ -5,6 +5,10 @@ PyCamp es un evento organizado por la comunidad de PyAr, donde nos reunimos para
 == ¿A quienes esta apuntado el evento? ==
 El evento esta apuntado principalmente a las personas de la comunidad de Python, pero también pueden participar personas de la comunidad de Software Libre en general y cualquier otra interesada. No hay requerimientos en cuanto a los conocimientos necesarios, solo hay que tener deseos de participar y trabajar en equipo con el resto de la comunidad.
 
+== ¿ Como se desarrolla un PyCamp ? ==
+Se proponen temas y la gente interesada trabaja en ellos.
+Para mas detalles ver [[PyCamp/QueSeHace | aqui]].  
+
 == Como se organiza y financia el evento ==
 El evento se organiza por la comunidad misma. Según las diferentes ciudades donde se realiza un grupo de voluntarios se encarga de buscar un lugar y realizar las gestiones necesarias. Financieramente el evento es soportado por sus propios participantes, aunque PyAr, según el dinero disponible, suele otorgar becas totales o parciales a estudiantes e interesados que desen participar.
 
@@ -17,7 +21,7 @@ En cada PyCamp se realizan una serie de proyectos que son decididos por los part
 
 == Proxima edición ==
 
-La próxima edición todavía no tiene sede y fecha confirmada.
+La próxima edición [[PyCamp/2012|está en marcha]], pendiente de suficientes confirmaciones.
 
 == Ediciones anteriores ==
  * Primera edición, Los Cocos, Córdoba. Marzo de 2008.
