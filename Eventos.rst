@@ -1,6 +1,6 @@
 #language es
 = Eventos =
-En PyAr planeamos tres tipos de eventos:
+En PyAr planeamos cuatro tipos de eventos:
 
  * ''[[#reuniones|Reuniones PyAr]]'':
 Son las reuniones que hacemos los miembros de PyAr para planificar y realizar actividades concernientes a nuestro objetivo. Las reuniones se organizan cuando consideramos que hay un motivo específico que tratar (o juntamos demasiadas ganas de tomar cerveza... :-? ) <<FootNote(Al principio, comenzamos realizando reuniones mensuales, el segundo jueves de cada mes. Con el tiempo, esta modalidad cayó en desuso. )>>
@@ -11,11 +11,15 @@ Pretendemos realizar sesiones de desarrollo para proyectos que nos llamen la ate
  * ''[[#conferencias|Conferencias]]''
 Participamos en eventos de Software Libre con temas concernientes a Python.
 
+ * ''[[PyCamp|PyCamps]]'':
+Nos reunimos varios dias para trabajar en distintos proyectos de software libre relacionados con el lenguaje de programación Python, conocernos y compartir experiencias.
+
 <<Anchor(reuniones)>> <<Include(Eventos/Reuniones, ,editlink)>>
 
 <<Anchor(sprints)>> <<Include(Eventos/Sprints, ,editlink)>>
 
 <<Anchor(conferencias)>> <<Include(Eventos/Conferencias, ,editlink)>>
+
 
 ----
 <<FootNote>>
