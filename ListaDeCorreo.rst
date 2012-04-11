@@ -34,21 +34,19 @@ A partir del 17/10/2006, GMANE también está archivando nuestra lista. Este arc
 También hay una réplica de la lista en un grupo de Google: http://groups.google.com/group/pythonargentina
 
 <<BR>>
-
+<<Anchor(Busqueda)>>
 == Buscar en los archivos de la lista ==
 Hemos hablado de muchas cosas en la lista de PyAr, si tienes un problema o una duda, antes de preguntar en la lista de PyAr te recomendamos que busques en el archivo de la lista, puedes hacerlo en:
 
 http://blog.gmane.org/gmane.org.user-groups.python.argentina (vas a ver una parte que dice '''Search Archive''')
 
-O bien utilizando google con el comando site: , por ejemplo, si busco servicios de hosting para python puedo hacer una busqueda del tipo:
+O bien utilizando google con el comando '''site:''', por ejemplo, si busco servicios de ''hosting'' para python puedo hacer una busqueda del tipo:
 
-hosting site:listas.python.org.ar/pipermail/pyar/
+''hosting'' '''site:'''listas.python.org.ar/pipermail/pyar/
 
-Donde le decimos a google que busque la palabra 'hosting' solamente en el sitio site:listas.python.org.ar/pipermail/pyar/
+Donde le decimos a google que busque la palabra 'hosting' solamente en el sitio listas.python.org.ar/pipermail/pyar/
 
 <<BR>>
 
 ----
 ||<tablebgcolor="#f0f8fd" tablewidth="100%" tablestyle=""> (./) '''El servicio de hosting, tanto del portal como de la lista de correo es de --([[http://www.decode.com.ar|Decode]])-- [[http://drupal.usla.org.ar/|USLA]].'''<<BR>> (./) '''El servicio de archivo es cortesía de [[http://www.grulic.org.ar/|GrULiC]], que gentilmente nos ha prestado espacio.'''<<BR>> (./) '''El proyecto [[http://www.gmane.org/|GMANE]] nos da archive, feeds RSS y acceso vía NNTP.'''<<BR>><<BR>>A estas organizaciones, ~+¡muchas gracias!+~ ||
-
-
