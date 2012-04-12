@@ -35,22 +35,21 @@
 == Coordinadores ==
  * Coordinador General: MarianoReingart
  * Co-coordinador general: JuanCabral
- * Coordinación del Lugar (contacto con la Universidad): AlbertoPaparelli 
- * Coordinación de Difusión (publicidad):
- * Coordinación de Charlas: MarcosVanetta
+ * Coordinación del Lugar (contacto con la Universidad): AlbertoPaparelli y SebastianBassi
+ * Coordinación de Charlas: Alejandro Cura (alecu)
  * Coordinación de Posters: JuanCabral
  * Coordinación de Talleres:
  * Coordinación de Sprints, Espacios Abiertos y "Expo Hall":
  * Coordinación de Difusión/Publicidad: SebastianBassi
- * Coordinación de Sponsors (ingresos):
- * Coordinación de Ayuda Económica (becas):
- * Coordinación de Invitados Internacionales:
- * Coordinación de Registración:
+ * Coordinación de Sponsors (ingresos): Nadia Luczywo
+ * Coordinación de Ayuda Económica (becas): 
+ * Coordinación de Invitados Internacionales: Mariano Reingart
+ * Coordinación de Registración: Romina Castrogiovani
  * Coordinación de Fotografía, Audio-Video y Streaming:
- * Coordinación de "Asado":
- * Coordinación de Materiales (papelería/bolsas/etc.) y "Merchandising":
+ * Coordinación de "Asado": 
+ * Coordinación de Materiales (papelería/bolsas/etc.) y "Merchandising": Romina Castrogiovani
  * Coordinación de Transportes y Alojamientos:
- * Webmaster: MarianoReingart
+ * Webmaster: AlanEtkin
 
 === Requisitos ===
 Para proponerse como colaborador tener en cuenta los siguientes temas:
