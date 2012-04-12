@@ -33,8 +33,9 @@
   * [[Eventos/Reuniones/2012/Reunion51|Reunión 51]]: Presentación de la propuesta (enero)
   * [[Eventos/Reuniones/2012/Reunion54|Reunión 54]]: Recorrida Sede y Arranque (marzo)
   * [[Eventos/Reuniones/2012/Reunion5x|Reunión 5x?]]: call for colaboradores, actividades, sponsors, etc. (mayo - PyDay Luján)
-  * [[Eventos/Reuniones/2012/Reunion5x|Reunión 5x?]]: revisión del programa (julio - PyCamp Verónica)
+  * [[Eventos/Reuniones/2012/Reunion5x|Reunión 5x?]]: revisión del programa y financial aid (julio - PyCamp Verónica)
   * [[Eventos/Reuniones/2012/Reunion5x|Reunión 5x?]]: cierre del programa (septiembre - PyDay Córdoba)
+  * [[Eventos/Reuniones/2012/Reunion5x|Reunión 5x?]]: call for colaboradores locales y preparativos (octubre - PyDay Rafaela?)
 
 == Coordinadores ==
  * Coordinador General: MarianoReingart
