@@ -30,7 +30,11 @@
  * Sitio web: http://groups.google.com/group/pybaires
  * Lista de correo: <<MailTo(pybaires EN googlegroups PUNTO com)>>
  * Reuniones:
-  * [[Eventos/Reuniones/ReunionXX|Reunión XX]]: Presentación de la propuesta
+  * [[Eventos/Reuniones/2012/Reunion51|Reunión 51]]: Presentación de la propuesta (enero)
+  * [[Eventos/Reuniones/2012/Reunion54 Reunión 54]]: Recorrida Sede y Arranque (marzo)
+  * [[Eventos/Reuniones/2012/Reunion5x Reunión 5x?]]: call for colaboradores, actividades, sponsors, etc. (mayo - PyDay Luján)
+  * [[Eventos/Reuniones/2012/Reunion5x Reunión 5x?]]: revisión del programa (julio - PyCamp Verónica)
+  * [[Eventos/Reuniones/2012/Reunion5x Reunión 5x?]]: cierre del programa (septiembre - PyDay Córdoba)
 
 == Coordinadores ==
  * Coordinador General: MarianoReingart
