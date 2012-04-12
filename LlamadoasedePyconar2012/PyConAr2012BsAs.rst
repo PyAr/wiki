@@ -144,8 +144,7 @@ Revisores de charlas, poster y talleres:
 === Diseñadores Gráficos ===
 Diseño de logos, banners, html/css para la web, etc.:
 
- * ''agregarse aqui''
- * ''agregarse aqui''
+ * '''Por el momento, tercerizado (consultar)'''
 
 === Encargados de Aulas ===
 Presentadores de las charlas, control de limite de tiempo, responsables de los elementos del aula (proyector, cables, micrófono, etc.) y demás comodidades para los disertantes:
