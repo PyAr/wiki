@@ -25,10 +25,11 @@ Ver también el [[http://es.wikipedia.org/wiki/Alojamiento_web|artículo en Wiki
 
 == Lista de verificación (''checklist'') para contratar un servicio ==
 
- * ¿Qué método(s) de interfaz servidor Web <-> Aplicación web ha implementado?
+ * ¿Qué método(s) de interfaz servidor Web <-> Aplicación web Python ha implementado?
    * WSGI
    * FastCGI
    * mod_python (no recomendado, este método se ha abandonado)
+   * CGI (¡definitivamente no!)
 
  * ¿Qué componentes y qué esquema técnico ha implementado/diseñado el proveedor?
 
@@ -46,6 +47,6 @@ Ver también el [[http://es.wikipedia.org/wiki/Alojamiento_web|artículo en Wiki
    * mod_wsgi
    * uWSGI
 
-   También puede ser útil conocer
+   También puede ser útil conocer:
 
    * Publicación de secciones dinámicas (aplicación web Python) y recursos estáticos (imágenes, hojas de estilo, código JavaScript) con servidores separados.
