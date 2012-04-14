@@ -37,6 +37,8 @@ Esta versión funciona en Linux, Mac o Windows sin tener que instalar ningún so
 
 == Información del proyecto ==
 
+{{attachment:cdpedia_process.png|alt text|width=100 height=150}}
+
 El desarrollo de CDPedia se realiza en [[http://code.google.com/p/cdpedia/|este sitio]].
 
 Ante cualquier duda, nos podés contactar mandando un mail a <<MailTo(cdpedia EN googlegroups PUNTO com)>>
