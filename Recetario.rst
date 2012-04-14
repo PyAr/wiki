@@ -242,5 +242,7 @@ MapeandoMemoria: Cómo generar un mapa de la memoria con heapy
 
 /NotificarDispositivosUsb : Como detectar y notificar dispocitivos USB en Linux.
 
+== Python en Apache OpenOffice / LibreOffice ==
+
 ----
 CategoryRecetas
