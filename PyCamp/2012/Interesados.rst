@@ -21,11 +21,11 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
 ||Diego Mascialino|| ||Sí||
 ||HectorSanchez|| Un asadito ||Sí||
 ||SantiagoPiccinini|| Omnívoro ||Sí||
+||JuanFisanotti||Todo menos banana (soy alérgico -_-)||No||
 
 ''' Interesados''' (tengo ganas pero no estoy seguro):
 
 ||'''Nombre''' ||'''Cuándo vas a saber?'''||
-||JuanFisanotti||Tengo que preguntar en el trabajo, en estos días confirmo||
 
 ----
 CategoryPyCamp
