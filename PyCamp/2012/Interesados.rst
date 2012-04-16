@@ -16,7 +16,7 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
 ||DavidLitvak||Vegetariano||Not yet||
 ||Claudio Canepa||lo que venga||si||
 ||Alejandro J. Cura||alimento balanceado||Sí!||
-||Anthony Lenton||  ||Todavía no||
+||Anthony Lenton||  ||Sí||
 ||Manuel Quiñones||  ||Todavía no||
 ||Diego Mascialino|| ||Sí||
 ||HectorSanchez|| Un asadito ||Sí||
