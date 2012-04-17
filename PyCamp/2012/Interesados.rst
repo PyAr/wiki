@@ -34,6 +34,7 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
 ||SantiagoPiccinini|| Omnívoro ||Sí||
 ||JuanFisanotti||Todo menos banana (soy alérgico -_-)||No||
 ||MartinAlbisetti||Lo contrario de lo que coma nessita||Sí!||
+||GonzaloOdiard||Cualquier cosa||No||
 
 ''' Interesados''' (tengo ganas pero no estoy seguro):
 
