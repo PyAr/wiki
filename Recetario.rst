@@ -89,6 +89,8 @@ ObtenerSensacionTermica: Calcular la Sensacion Termica o Temperatura Aparente.
 
 [[/Gui/Gtk/Runner]] ejemplo de como correr funciones que demoran sin bloquear la ui y obtener los resultados en el thread de gtk
 
+[[/Gui/Gtk/FuncionRunner]] idem al anterior pero usando una funcion en lugar de un objeto
+
 [[/Gui/Gtk/LabelConColor]]: ejemplo de como cambiar el color de un label sin usar pango markup
 
 [[/Gui/Gtk/XMLRPCServer]] Servidor XMLRPC dentro de un hilo gtk
