@@ -35,6 +35,7 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
 ||JuanFisanotti||Todo menos banana (soy alérgico -_-)||No||
 ||MartinAlbisetti||Lo contrario de lo que coma nessita||Sí!||
 ||GonzaloOdiard||Cualquier cosa||No||
+||MarianoReingart|| - ||No||
 
 ''' Interesados''' (tengo ganas pero no estoy seguro):
 
