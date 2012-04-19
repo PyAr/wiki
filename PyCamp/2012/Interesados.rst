@@ -23,7 +23,7 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
 
 '''Confirmados '''(voy o voy):
 ||'''Nombre''' ||'''Requerimiento Dietario''' ||'''Deposito''' ||
-||RicardoKirkner||Omnívoro||No||
+||RicardoKirkner||Omnívoro||Si||
 ||DavidLitvak||Vegetariano||Not yet||
 ||Claudio Canepa||lo que venga||si||
 ||Alejandro J. Cura||alimento balanceado||Sí!||
