@@ -23,19 +23,26 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
 
 '''Confirmados '''(voy o voy):
 ||'''Nombre''' ||'''Requerimiento Dietario''' ||'''Deposito''' ||
-||RicardoKirkner||Omnívoro||Si||
-||DavidLitvak||Vegetariano||Not yet||
-||Claudio Canepa||lo que venga||si||
 ||Alejandro J. Cura||alimento balanceado||Sí!||
 ||Anthony Lenton||  ||Sí||
-||Manuel Quiñones||  ||Todavía no||
+||Claudio Canepa||lo que venga||si||
+||DavidLitvak||Vegetariano||Not yet||
 ||Diego Mascialino|| ||Sí||
-||HectorSanchez|| Un asadito ||Sí||
-||SantiagoPiccinini|| Omnívoro ||Sí||
-||JuanFisanotti||Todo menos banana (soy alérgico -_-)||No||
-||MartinAlbisetti||Lo contrario de lo que coma nessita||Sí!||
+||Diego Sarmentero|| || Si ||
+||Facundo Batista|| || Si ||
 ||GonzaloOdiard||Cualquier cosa||No||
+||HectorSanchez|| Un asadito ||Sí||
+||Hugo Ruscitti|| || Si ||
+||JuanFisanotti||Todo menos banana (soy alérgico -_-)||No||
+||Manuel Kaufmann|| || Si ||
+||Manuel Quiñones||  ||Todavía no||
 ||MarianoReingart|| - ||No||
+||MartinAlbisetti||Lo contrario de lo que coma nessita||Sí!||
+||Pablo Mouzo|| || Si ||
+||RicardoKirkner||Omnívoro||Si||
+||Roberto Alsina|| || Si ||
+||SantiagoPiccinini|| Omnívoro ||Sí||
+
 
 ''' Interesados''' (tengo ganas pero no estoy seguro):
 
