@@ -60,4 +60,12 @@ Un modelo es la fuente única y definitiva de información sobre tus datos, cont
 
 ==== Web2py ORM ====
 
-ORM del framework web web2py
+web2py incluye una capa de abstracción de base de datos (DAL), una API que mapea objetos python a objetos de la base de datos como queries, tablas, registros.
+
+El DAL genera SQL dinámicamente en tiempo real usando el dialecto especifico de la base de datos, de manera que no tenes que escribir SQL o aprender diferentes dialectos (el termino SQL es usado genéricamente), y la aplicación sera portable entre distintos tipos de bases de datos.
+
+Al momento de escribir esto las bases de datos soportadas son SQLite (que viene con python y por lo tanto web2py), PostgreSQL, MySQL, Oracle, MSSQL, FireBird, DB2, Informix, Ingres y (parcialmente) Google App Engine (SQL y NoSQL).
+
+Experimentalmente soporta mas bases de datos, visita el sitio web de web2py y la lista de correos para adaptadores mas recientes.
+
+[[http://web2py.com/book/default/chapter/06|Documentación]]
