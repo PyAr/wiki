@@ -6,6 +6,10 @@ El mapeo objeto-relacional (más conocido por su nombre en inglés, Object-Relat
 
 mas información en [[https://es.wikipedia.org/wiki/Mapeo_objeto-relacional|wikipedia]]
 
+=== Threads relacionados en PyAr ===
+
+[[http://thread.gmane.org/gmane.org.user-groups.python.argentina/53971|Que ORM python me recomiendan?]]
+
 === Alternativas ===
 
 ==== Sqlalchemy ====
@@ -19,6 +23,14 @@ Provee un conjunto completo de conocidos patrones de persistencia de nivel enter
 ===== Notas =====
 
     MarianoGuerra: muy poderoso, pero a veces muy complejo para lograr cosas simples. A mi entender el mas mantenido y completo de todos los ORMs independientes de un framework.
+
+==== SQLObject ====
+
+SQLObject es un gestor objeto relacional que provee interfaces de objetos a tu base de datos con tablas como clases, filas como instancias y columnas como atributos.
+
+SQLObject incluye un lenguaje de consultas basado en objetos Python que hace SQL mas abstracto, y provee independencia sustancial de la base de datos para aplicaciones.
+
+[[http://www.sqlobject.org/|Pagina del proyecto]]
 
 ==== Elixir ====
 
