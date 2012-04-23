@@ -1,9 +1,6 @@
 = Trabajos con Python =
 == 2012 ==
- * (23/04/2012) Estamos buscando programador Junior y Senior, para un startup que arranco en Abril. Es un proyecto con financiacion privada, y con un modelo de negocio a futuro muy prometedor.
-La mision principal de la empresa es desarrollar aplicaciones web focalizadas por rubro.
-Somos un equipo formado por jovenes profesionales; ingenieros en sistemas, diseñadores graficos y administrador de empresa.Estamos radicados en la Zona de Tigre - Nordelta con oficinas propias. Interesados contactarse via mail a
-<<MailTo(agustin.iglesias EN tokkobroker PUNTO com)>>
+ * (23/04/2012) Estamos buscando programador Junior y Senior, para un startup que arranco en Abril. Es un proyecto con financiacion privada, y con un modelo de negocio a futuro muy prometedor. La mision principal de la empresa es desarrollar aplicaciones web focalizadas por rubro. Somos un equipo formado por jovenes profesionales; ingenieros en sistemas, diseñadores graficos y administrador de empresa.Estamos radicados en la Zona de Tigre - Nordelta con oficinas propias. Interesados contactarse via mail a <<MailTo(agustin.iglesias EN tokkobroker PUNTO com)>>
 
  * (29/03/2012) [[http://www.towebs.com|Towebs Webhosting]] esta buscando dos desarrolladores Python con al menos un año de experiencia, son requeridos conocimientos de desarrollo web. Son deseables conocimientos de Linux. Interesados por favor contactarse con <<MailTo(walter EN towebs PUNTO com)>>
 
