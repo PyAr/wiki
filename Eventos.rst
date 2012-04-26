@@ -23,3 +23,8 @@ Nos reunimos varios dias para trabajar en distintos proyectos de software libre 
 
 ----
 <<FootNote>>
+
+=== Sponsor Sites ===
+
+ *  [[http://carinsurancecomparisonshelp.com|car insurance comparisons]] (Wiki)
+ *  [[http://www.faresoldisuinternet.com/guadagnare-online/|guadagnare online]] 
