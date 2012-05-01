@@ -8,6 +8,11 @@
 ----
 
 == Configuracion del entorno python ==
+
+=== Crear un entorno virtual y un esqueleto de proyecto ===
+
+[[Recetario/CreandoUnNuevoProyectoPython]]: Receta para crear un entorno de trabajo y un esqueleto minimo para un nuevo proyecto Python
+
 === Mejorando el interprete python ===
 [[Recetario/AutocomplecionEnConsolaInteractiva| Autocompletado en consola interactiva]]: tip sobre como agregar autocompleción con tab en la consola interactiva imitando el comportamiento ipython.
 
