@@ -3,7 +3,7 @@
 === Temario ===
 
  * Organización de PyCon Argentina 2012
-  * Informe intermedio: situación financiera, invitados, sponsors y organización general
+  * Informe intermedio: situación financiera, invitados, sponsors y avance general
   * Actividades Sociales: ¡Fiesta!, Asado/Picnic y día turístico
   * Revisar el Llamado a Sponsors y Ayuda Económica
   * Analizar la propuesta de Invitados Internacionales de Brasil 
