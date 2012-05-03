@@ -7,7 +7,7 @@
   * Actividades Sociales: ¡Fiesta!, Asado/Picnic y día turístico
   * Revisar el Llamado a Sponsors y Ayuda Económica
   * Analizar la propuesta de Invitados Internacionales de Brasil 
-  * Completar el Call for Proposals
+  * Completar el Call for Proposals, definir fechas de votación del público y revisión
   * Definir Paneles: formato, día, horarios, temas e invitados
   * Difusión/Publicidad: armar 1er Press Release. AdWords y publicación de anuncios en medios gráficos
 
