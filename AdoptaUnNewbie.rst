@@ -26,13 +26,13 @@
  * --(Horacio Duran: Para plone, python, django bastante basico, pregunten y les cuento si se o no.)--
  * Lucio Torre (varios)
  * Mariano Reingart (web2py, wxpython, postgresql, ubuntu y/o windows, proyectos de factura electrónica, "gestion libre", etc.)
- * [[DavidLitvak|David Litvak]]: Para Crawley-Project, python orientado a objetos, django, web y un poco de vim
  * [[MarianoGuerra|Mariano Guerra]] emesene, python en general, flask, REST, web
 
 === Ocupados ===
 
  * JuanFisanotti (django, python en general, un poco de vim) (Hernan Lozano)
  * MartinAlderete ( PyQt, GUI programming)(Ochoa Gerardo Fidel)
+ * [[DavidLitvak|David Litvak]]: Para Crawley-Project, python orientado a objetos, django, web y un poco de vim (Jonathan Scherz)
 
 === Disponibles como mentores de charlas ===
  * Juan BC
@@ -63,6 +63,7 @@
  * Cesar Vargas -> [[gatox|Diego Sarmentero]] (Qt/PyQt)
  * EzequielMarquez -> HoracioDuran (web)
  * Hernan Lozano -> JuanFisanotti (django, python en general, un poco de vim)
+ * Jonathan Scherz -> [[DavidLitvak|David Litvak]] (Django, TDD, vim)
 
 == Mentores Buscados ==
  * debian
