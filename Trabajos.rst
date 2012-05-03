@@ -1,6 +1,6 @@
 = Trabajos con Python =
 == 2012 ==
- * (03/05/2012) Estamos buscando programador Senior para un startup Brasileña, en Rio de Janeiro y y interesado en mudarse a Brasil. Salario en consonancia con el mercado Argentino 12-18k pesos. Interesados contactarse via mail ('''gihub link needed!''') a <<MailTo(felipe.cruz EN innvent PUNTO com PUNTO br)>>
+ * (03/05/2012) Estamos buscando programador Senior para un startup Brasileña, en Rio de Janeiro y y interesado en mudarse a Brasil. Salario en consonancia con el mercado Argentino 12-18k pesos. Interesados contactarse via mail ('''github link needed!''') a <<MailTo(felipe.cruz EN innvent PUNTO com PUNTO br)>>
 
  * (23/04/2012) Estamos buscando programador Junior y Senior, para un startup que arranco en Abril. Es un proyecto con financiacion privada, y con un modelo de negocio a futuro muy prometedor. La mision principal de la empresa es desarrollar aplicaciones web focalizadas por rubro. Somos un equipo formado por jovenes profesionales; ingenieros en sistemas, diseñadores graficos y administrador de empresa.Estamos radicados en la Zona de Tigre - Nordelta con oficinas propias. Interesados contactarse via mail a <<MailTo(agustin.iglesias EN tokkobroker PUNTO com)>>
 
