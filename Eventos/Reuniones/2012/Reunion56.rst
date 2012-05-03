@@ -15,7 +15,7 @@
 
 === Asistentes ===
 ||'''Persona''' ||'''Nuevo''' ||'''Asistió''' ||
-||MarianoReingart|| || X||
+||MarianoReingart|| || ||
 
 === Fecha, Hora y Lugar ===
  * Sábado 5 de Mayo 2012
