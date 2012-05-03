@@ -10,6 +10,8 @@
   * Completar el Call for Proposals, definir fechas de votación del público y revisión
   * Definir Paneles: formato, día, horarios, temas e invitados
   * Difusión/Publicidad: armar 1er Press Release. AdWords y publicación de anuncios en medios gráficos
+  * Armar Documento para solicitar autorizaciones y coordinar con la UNQ: eventos y cronograma tentativo día por día, requerimientos (espacios y aulas, networking, ''posibilidad'' de traducción simultánea, filmación y/o streaming ''limitado'')
+
 
 === Asistentes ===
 ||'''Persona''' ||'''Nuevo''' ||'''Asistió''' ||
