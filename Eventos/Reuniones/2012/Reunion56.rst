@@ -16,6 +16,7 @@
 === Asistentes ===
 ||'''Persona''' ||'''Nuevo''' ||'''Asistió''' ||
 ||MarianoReingart|| || ||
+||EmilianoDallaVerdeMarcozzi|| || ||
 
 === Fecha, Hora y Lugar ===
  * Sábado 5 de Mayo 2012
