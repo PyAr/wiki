@@ -22,8 +22,8 @@
 
 === Fecha, Hora y Lugar ===
  * Sábado 5 de Mayo 2012
- * Hora: a definir en el PyDay Luján ([[http://www.pyday.com.ar/lujan2012/conference/schedule|cronograma]])
- * Lugar: a definir, seguramente dentro de la Universidad de Luján ([[http://www.pyday.com.ar/lujan2012/conference/venue|mapa]])
+ * Hora: 20:00 al finalizar las charlas del PyDay Luján ([[http://www.pyday.com.ar/lujan2012/conference/schedule|cronograma]])
+ * Lugar: en el "quincho", dentro de la Universidad de Luján ([[http://www.pyday.com.ar/lujan2012/conference/venue|mapa]])
 
 === Minuta ===
 
