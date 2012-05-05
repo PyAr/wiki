@@ -19,12 +19,3 @@ Nos reunimos varios dias para trabajar en distintos proyectos de software libre 
 <<Anchor(sprints)>> <<Include(Eventos/Sprints, ,editlink)>>
 
 <<Anchor(conferencias)>> <<Include(Eventos/Conferencias, ,editlink)>>
-
-
-----
-<<FootNote>>
-
-=== Sponsor Sites ===
-
- *  [[http://carinsurancecomparisonshelp.com|car insurance comparisons]] (Wiki)
- *  [[http://www.faresoldisuinternet.com/guadagnare-online/|guadagnare online]] 
