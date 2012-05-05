@@ -18,6 +18,7 @@
 ||MarianoReingart|| || ||
 ||EmilianoDallaVerdeMarcozzi|| || ||
 ||GabrielGenellina|| || ||
+||FacundoBatista|| || ||
 
 === Fecha, Hora y Lugar ===
  * Sábado 5 de Mayo 2012
