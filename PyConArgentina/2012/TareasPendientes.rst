@@ -16,7 +16,7 @@
  * Terminar página http://ar.pycon.org/2012/conference/publicize (traducir de http://ar.pycon.org/2012/conference/publicize?lang=en)
  * Traducir http://ar.pycon.org/2012/conference/proposals?lang=en
  * Traducir http://ar.pycon.org/2012/conference/diversity?lang=es
- * Crear Flyers / Panfletos para pegar cada un mes y medio en las facultades de Buenos Aires!
+ * Crear Flyers / Panfletos para pegar cada un mes y medio en las facultades de Buenos Aires e Interior!
 
  * Terminar página http://ar.pycon.org/2012/conference/publicize (traducir de http://ar.pycon.org/2012/conference/publicize?lang=en)
 
