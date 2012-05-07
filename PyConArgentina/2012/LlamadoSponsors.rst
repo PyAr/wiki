@@ -1,4 +1,4 @@
-= Llamado a Sponsors PyCon Argentina 2012=
+= Llamado a Sponsors PyCon Argentina 2012 =
 
 Página:
  * Español: http://ar.pycon.org/2012/sponsors/prospectus?lang=es
