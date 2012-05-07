@@ -8,6 +8,16 @@ Documentos:
  * Carta (español): http://ar.pycon.org/2012/static/docs/carta_sponsors_pyconar2012.pdf
  * Brief (inglés): http://ar.pycon.org/2012/static/docs/pyconar2012_brief.pdf
 
+== Email Enviado a ==
+
+ * pyar@python.org.ar (MarianoReingart)
+ * conferences@python.org (MarianoReingart)
+ * python-es@python.org (MarianoReingart)
+ * python-peru@googlegroups.com (MarianoReingart)
+ * pythonchile@googlegroups.com (MarianoReingart)
+ * pyuy@googlegroups.com (MarianoReingart)
+ * python-es@python.org (MarianoReingart)
+
 = Sponsors Contactados =
 
 == Empresas ==
