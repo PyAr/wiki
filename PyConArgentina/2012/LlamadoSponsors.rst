@@ -53,6 +53,9 @@ Documentos:
  * GitHub?
  * Core?
  * Popego?
+ * Nemo? (Rosario, http://www.nemogroup.com.ar)
+ * Airtrack? (Rosario, http://www.airtrack.com.ar)
+ * Rcom? (Rosario, http://www.rcom.com.ar)
  * Atomica?
  * Canonical?
  * teracore?
