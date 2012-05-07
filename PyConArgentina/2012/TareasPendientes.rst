@@ -73,7 +73,7 @@
  * Reservar lugar para invitados internacionales
  * Contratar remis para invitados internacionales (AEP/EZE -> Bue y Bue<->UNQ)
  * Nogociar transporte grupal local Bue->UNQ (combis?, micros escolares?)
- * Coordinar [[PyConArgentina/2012/AlojamientoCompartido]] y [[[[PyConArgentina/2012/TransporteCompartido]]
+ * Coordinar [[PyConArgentina/2012/AlojamientoCompartido]] y [[PyConArgentina/2012/TransporteCompartido]]
 
 == Fiestas y Social ==
 
