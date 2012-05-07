@@ -12,8 +12,8 @@
  * Escribir [[PyConArgentina/2012/PressRelease]]
  * Armar AnuncioPublicitario gráfico y/o radial?
  * Terminar página http://ar.pycon.org/2012/conference/publicize (traducir de http://ar.pycon.org/2012/conference/publicize?lang=en)
- * Traducir [[http://ar.pycon.org/2012/conference/proposals?lang=en|call for proposals]]
- * Traducir http://ar.pycon.org/2012/conference/diversity
+ * Traducir http://ar.pycon.org/2012/conference/proposals?lang=en
+ * Traducir http://ar.pycon.org/2012/conference/diversity?lang=es
 
 == Revisión y Selección de Charlas ==
 
