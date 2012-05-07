@@ -17,14 +17,11 @@ http://pyconar.blogspot.com.ar/2012/05/pyconar2012-abierto-el-llamado.html
 
 http://ar.pycon.org/2012/conference/proposals
 
-== Motivo ==
+== Llamado a Propuestas (Español) ==
 
-{{{
-PyCon Argentina 2012: Llamado a Propuestas - Charlas, Tutoriales, Posters, Artículos Científicos y Trabajos  Estudiantiles
-}}}
+Motivo: PyCon Argentina 2012: Llamado a Propuestas - Charlas, Tutoriales, Posters, Artículos Científicos y Trabajos  Estudiantiles
 
-== Texto ==
-
+Texto:
 {{{
 
 PyCon Argentina 2012 - Cuarta Conferencia Argentina de Python
@@ -182,5 +179,75 @@ Se agradece difusión,
 Mariano Reingart
 Coordinador General PyCon Argentina 2012
 http://ar.pycon.org/2012
+
+}}}
+
+
+=== Call For Proposals (ingles) ===
+
+Subject: PyCon Argentina 2012: Call for Proposals: talks, tutorials, scientific papers and student works contest
+
+Body:
+{{{
+
+PyCon Argentina 2012 - Fourth Spanish-speaking National Python Conference 
+
+November 12th - 17th, 2012
+
+UNQ - National University of Quilmes - Buenos Aires
+
+http://ar.pycon.org/?lang=en
+
+
+PyAr, the Argentina Python User Group, is proud to present the 4th annual PyCon Argentina, in Buenos Aires this year again.
+
+The event is expected to join around 500 developers, technologists, programmers and hackers; bloggers, authors and web developers; CTOs, managers and entrepreneurs; scientists, engineers and domain experts, and free software community in general.
+
+We're especially interested in 40' presentations and 120' Tutorials that will teach conference-goers something new and useful. 
+Other presentation oportunities includes:
+
+ * Posters: http://ar.pycon.org/2012/conference/posters?lang=en
+ * Scientific Papers: http://ar.pycon.org/2012/conference/science?lang=en
+ * Student Works: http://ar.pycon.org/2012/conference/contest?lang=en
+ * Sprint Projects: http://ar.pycon.org/2012/conference/sprints?lang=en
+
+
+Can you show attendees how to use a module? Explore a Python language feature? Package an application? 
+Do you research with Python?
+Submit your activity proposal here: 
+
+http://ar.pycon.org/2012/conference/proposals/?lang=en 
+
+Please follow the instructions carefully.
+
+The proposals should be submitted preferably in Spanish (although English and Portuguese are allowed languages too). 
+
+Submission deadline is June 30th, 2012 23:59 ART (GMT-03)
+
+PyCon Argentina is organized and run by volunteers from the Python community. 
+Anyone can help, and all help is very much appreciated. 
+If you blog, please let your readers know about PyCon. 
+A blog badge is a nice way to enhance such a post: http://ar.pycon.org/2012/conference/publicize/
+
+PyCon Argentina is a free (as in beer) community conference. 
+We keep the costs low to make PyCon Argentina accessible to the greatest range of community members possible. 
+This means that PyCon Argentina cannot offer payment to conference speakers. 
+Conference registration, accommodations, and transportation are the responsibility of the speakers.
+
+However, financial aid will be available, and speakers who pay their own way are encouraged to apply. 
+Giving a talk is a great rationale when requesting aid. 
+If you require financial aid in order to attend PyCon Argentina, please note it in your proposal and be sure to apply.
+
+Sponsorship opportunities are open, for further information see:
+http://ar.pycon.org/2012/sponsors/prospectus?lang=en
+
+Free and Open Source projects will have booths or special events inside the conference, please contact us if your community is interested.
+
+
+Best regards,
+
+Mariano Reingart
+PyCon Argentina 2012 Chair
+http://ar.pycon.org/
 
 }}}
