@@ -12,22 +12,13 @@
  * Escribir [[PyConArgentina/2012/PressRelease]]
  * Armar AnuncioPublicitario gráfico y/o radial?
 
----- /!\ '''Edit conflict - other version:''' ----
  * Terminar página http://ar.pycon.org/2012/conference/publicize (traducir de http://ar.pycon.org/2012/conference/publicize?lang=en)
  * Traducir http://ar.pycon.org/2012/conference/proposals?lang=en
  * Traducir http://ar.pycon.org/2012/conference/diversity?lang=es
-
----- /!\ '''Edit conflict - your version:''' ----
  * Crear Flayers / Panfletos para pegar cada un mes y medio en las facultades de Buenos Aires!
 
----- /!\ '''End of edit conflict''' ----
-
----- /!\ '''Edit conflict - other version:''' ----
-
----- /!\ '''Edit conflict - your version:''' ----
  * Terminar página http://ar.pycon.org/2012/conference/publicize (traducir de http://ar.pycon.org/2012/conference/publicize?lang=en)
 
----- /!\ '''End of edit conflict''' ----
 
 == Revisión y Selección de Charlas ==
 
@@ -44,19 +35,7 @@
  * Armar Twitteador!!
  * Aplicar últimas correcciones menu y demás [MarianoReingart]
  * Ajustar notificaciones (incluir url del comentario, actividad, etc.)
-
----- /!\ '''Edit conflict - other version:''' ----
-
----- /!\ '''Edit conflict - your version:''' ----
-
----- /!\ '''End of edit conflict''' ----
-
----- /!\ '''Edit conflict - other version:''' ----
-
----- /!\ '''Edit conflict - your version:''' ----
  * Terminar de traducir página [[http://ar.pycon.org/2012/conference/proposals?lang=en|call for proposals]]
-
----- /!\ '''End of edit conflict''' ----
  * Preparar Integración con DineroMail (bono contribución)
  * Probar generación de PDF (badge y certificados)
  * Mejorar Schedule (Cronograma), hacer una tabla como [[https://us.pycon.org/2012/schedule/|PyCon US]]
