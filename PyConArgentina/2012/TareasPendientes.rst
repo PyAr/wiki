@@ -54,13 +54,25 @@
  * Diseñar Remeras (organizadores y público)
  * Diseñar Invitación a fiestas after y cierre
 
-== Materiales y Regalos ==
+== Impresiones, Materiales y Regalos ==
 
  * Preparar la Guia de Programa [JuanBC]
+ * Editar la PET
+ * Imprimir Programas! (conseguir imprenta "flexible"...)
+ * Imprimir PETs! (conseguir imprenta "flexible"...)
  * Definir y Comprar Regalo a disertantes
  * Definir y Comprar Bolsas o Carpetas
  * Definir y Comprar Identificadores y Colgante
  * Definir y Comprar "Recuerdo" Público General
+ * Hacer merchandising (stickers, pines, etc.)
+
+== Logistica ==
+
+ * Negociar con hoteles locales
+ * Reservar lugar para invitados internacionales
+ * Contratar remis para invitados internacionales (AEP/EZE -> Bue y Bue<->UNQ)
+ * Nogociar transporte grupal local Bue->UNQ (combis?, micros escolares?)
+ * Coordinar [[PyConArgentina/2012/AlojamientoCompartido]] y [[[[PyConArgentina/2012/TransporteCompartido]]
 
 == Fiestas y Social ==
 
