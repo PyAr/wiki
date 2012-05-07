@@ -12,6 +12,8 @@
  * Escribir [[PyConArgentina/2012/PressRelease]]
  * Armar AnuncioPublicitario gráfico y/o radial?
  * Terminar página http://ar.pycon.org/2012/conference/publicize (traducir de http://ar.pycon.org/2012/conference/publicize?lang=en)
+ * Traducir [[http://ar.pycon.org/2012/conference/proposals?lang=en|call for proposals]]
+ * Traducir http://ar.pycon.org/2012/conference/diversity
 
 == Revisión y Selección de Charlas ==
 
@@ -28,7 +30,6 @@
  * Armar Twitteador!!
  * Aplicar últimas correcciones menu y demás [MarianoReingart]
  * Ajustar notificaciones (incluir url del comentario, actividad, etc.)
- * Terminar de traducir página [[http://ar.pycon.org/2012/conference/proposals?lang=en|call for proposals]]
  * Preparar Integración con DineroMail (bono contribución)
  * Probar generación de PDF (badge y certificados)
  * Mejorar Schedule (Cronograma), hacer una tabla como [[https://us.pycon.org/2012/schedule/|PyCon US]]
