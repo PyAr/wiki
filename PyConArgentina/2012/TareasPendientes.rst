@@ -39,6 +39,7 @@
  * Preparar Integración con DineroMail (bono contribución)
  * Probar generación de PDF (badge y certificados)
  * Mejorar Schedule (Cronograma), hacer una tabla como [[https://us.pycon.org/2012/schedule/|PyCon US]]
+ * Integrar con google calendar / iCal
 
 == Gráfica ==
 
