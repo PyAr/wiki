@@ -3,6 +3,7 @@
 == Email Enviado a ==
 
  * pyar@python.org.ar (MarianoReingart)
+ * conferences@python.org (MarianoReingart)
  * python-es@python.org (MarianoReingart)
  * python-peru@googlegroups.com (MarianoReingart)
  * pythonchile@googlegroups.com (MarianoReingart)
