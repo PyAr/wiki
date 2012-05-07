@@ -25,7 +25,7 @@ Documentos:
  * Pythonero Historico: confirmado!
  * Grupo "Sistemas Ágiles": confirmado! (MarianoReingart)
 
-== F/OSS y Gubernamental ==
+== Institucional y Gubernamental ==
 
  * PSF: confirmado! (MarianoReingart)
  * PostgreSQL: confirmado (casi)! (MarianoReingart)
