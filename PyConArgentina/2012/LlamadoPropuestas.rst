@@ -2,13 +2,14 @@
 
 == Email Enviado a ==
 
- * pyar@python.org.ar (MarianoReingart)
- * conferences@python.org (MarianoReingart)
- * python-es@python.org (MarianoReingart)
- * python-peru@googlegroups.com (MarianoReingart)
- * pythonchile@googlegroups.com (MarianoReingart)
- * pyuy@googlegroups.com (MarianoReingart)
- * python-es@python.org (MarianoReingart)
+ * pyar@python.org.ar [MarianoReingart]
+ * conferences@python.org [MarianoReingart]
+ * anillo-lst@linux.org.ar [MarianoReingart]
+ * python-es@python.org [MarianoReingart]
+ * python-peru@googlegroups.com [MarianoReingart]
+ * pythonchile@googlegroups.com [MarianoReingart]
+ * pyuy@googlegroups.com [MarianoReingart]
+ * python-es@python.org [MarianoReingart]
 
 == Entrada Blog ==
 
@@ -177,10 +178,6 @@ Las mejores propuestas tendrán un reconocimiento especial al cierre del evento.
 Se agradece difusión,
 
 
-Mariano Reingart
-Coordinador General PyCon Argentina 2012
-http://ar.pycon.org/2012
-
 }}}
 
 
@@ -243,12 +240,5 @@ Sponsorship opportunities are open, for further information see:
 http://ar.pycon.org/2012/sponsors/prospectus?lang=en
 
 Free and Open Source projects will have booths or special events inside the conference, please contact us if your community is interested.
-
-
-Best regards,
-
-Mariano Reingart
-PyCon Argentina 2012 Chair
-http://ar.pycon.org/
 
 }}}
