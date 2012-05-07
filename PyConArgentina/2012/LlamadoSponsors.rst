@@ -10,24 +10,24 @@ Documentos:
 
 == Email Enviado a ==
 
- * pyar@python.org.ar (MarianoReingart)
- * conferences@python.org (MarianoReingart)
- * python-es@python.org (MarianoReingart)
- * python-peru@googlegroups.com (MarianoReingart)
- * pythonchile@googlegroups.com (MarianoReingart)
- * pyuy@googlegroups.com (MarianoReingart)
- * python-es@python.org (MarianoReingart)
+ * pyar@python.org.ar [MarianoReingart]
+ * conferences@python.org [MarianoReingart]
+ * python-es@python.org [MarianoReingart]
+ * python-peru@googlegroups.com [MarianoReingart]
+ * pythonchile@googlegroups.com [MarianoReingart]
+ * pyuy@googlegroups.com [MarianoReingart]
+ * python-es@python.org [MarianoReingart]
 
 = Sponsors Contactados =
 
 == Empresas ==
- * MSA: confirmado! (MarianoReingart)
- * Fierro- Lambda: confirmado! (MarianoReingart)
- * Machinalis: confirmando... (JuanBCabral)
- * Onapsis: intersado... (Nadia)
- * Thymbira: confirmado! (MarianoReingart)
+ * MSA: confirmado! [MarianoReingart]
+ * Fierro- Lambda: confirmado! [MarianoReingart]
+ * Machinalis: confirmando... [JuanBC]
+ * Onapsis: intersado... [Nadia]
+ * Thymbira: confirmado! [MarianoReingart]
  * Gcoop: no interesado
- * Globant: contactando... (SebastianBassi)
+ * Globant: contactando... [SebastianBassi]
 
 == Pythoneros ==
 
@@ -37,15 +37,15 @@ Documentos:
 
 == Institucional y Gubernamental ==
 
- * PSF: confirmado! (MarianoReingart)
- * PostgreSQL: confirmado (casi)! (MarianoReingart)
- * Mozilla: enviado mail (MarianoReingart cc FelipeLerena), sin respuesta
- * ANPCyT Fonsoft: presentando papeles... (MarianoReingart)
+ * PSF: confirmado! [MarianoReingart]
+ * PostgreSQL: confirmado (casi)! [MarianoReingart]
+ * Mozilla: enviado mail [MarianoReingart cc FelipeLerena], sin respuesta
+ * ANPCyT Fonsoft: presentando papeles... [MarianoReingart]
 
 == Internacionales ==
 
- * [[http://www.enthought.com/|Entohught]]: contactados (MarianoReingart, via EuroPython), lo estan evaluando 
- * [[http://wingware.com/|Wingware]]: email enviado (MarianoReingart), sin respuesta
+ * [[http://www.enthought.com/|Entohught]]: contactados [MarianoReingart via EuroPython], lo estan evaluando 
+ * [[http://wingware.com/|Wingware]]: email enviado [MarianoReingart], sin respuesta
 
 = Sponsors que Falta Contactar =
 
