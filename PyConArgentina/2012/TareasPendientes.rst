@@ -12,11 +12,10 @@
  * Difundir [[PyConArgentina/2012/LlamadoSponsors]], [[PyConArgentina/2012/LlamadoPropuestas]], etc. !!!!! 
  * Escribir [[PyConArgentina/2012/PressRelease]]
  * Armar AnuncioPublicitario gráfico y/o radial?
-
  * Terminar página http://ar.pycon.org/2012/conference/publicize (traducir de http://ar.pycon.org/2012/conference/publicize?lang=en)
  * Traducir http://ar.pycon.org/2012/conference/proposals?lang=en
  * Traducir http://ar.pycon.org/2012/conference/diversity?lang=es
- * Crear Flayers / Panfletos para pegar cada un mes y medio en las facultades de Buenos Aires!
+ * Crear Flyers / Panfletos para pegar cada un mes y medio en las facultades de Buenos Aires!
 
  * Terminar página http://ar.pycon.org/2012/conference/publicize (traducir de http://ar.pycon.org/2012/conference/publicize?lang=en)
 
