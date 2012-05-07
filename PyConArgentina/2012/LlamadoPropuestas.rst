@@ -1,0 +1,186 @@
+= Llamado a Propuestas: =
+
+== Email Enviado a ==
+
+ * pyar@python.org.ar (MarianoReingart)
+ * python-es@python.org (MarianoReingart)
+ * python-peru@googlegroups.com (MarianoReingart)
+ * pythonchile@googlegroups.com (MarianoReingart)
+ * pyuy@googlegroups.com (MarianoReingart)
+ * python-es@python.org (MarianoReingart)
+
+== Entrada Blog ==
+
+http://pyconar.blogspot.com.ar/2012/05/pyconar2012-abierto-el-llamado.html
+
+== Pagina Web ==
+
+http://ar.pycon.org/2012/conference/proposals
+
+== Motivo ==
+
+{{{
+PyCon Argentina 2012: Llamado a Propuestas - Charlas, Tutoriales, Posters, Artículos Científicos y Trabajos  Estudiantiles
+}}}
+
+== Texto ==
+
+{{{
+
+PyCon Argentina 2012 - Cuarta Conferencia Argentina de Python
+=============================================================
+
+12 al 17 de Noviembre de 2012
+
+UNQ - Universidad Nacional de Quilmes - Buenos Aires
+
+PyAr, el Grupo de Usuarios de Python de Argentina invita a toda la
+comunidad de usuarios de Python y del Software Libre en general a
+proponer presentaciones y charlas para la Cuarta Conferencia Argentina
+de Python que se realizará los días 12 y 17 de Novembre de 2012, en la
+UNQ Universidad Nacional de Quilmes, ciudad de Quilmes Buenos Aires.
+
+En este evento nos juntaremos desarrolladores y programadores tanto
+principiantes como avanzados; bloggers, autores y diseñadores web;
+gerentes, administradores y emprendedores; científicos, ingenieros,
+curiosos y todo aquel que tenga ganas de acercarse a la comunidad
+Python en Argentina.
+
+El autor de cada actividad seleccionada participará presencialmente,
+como orador en el evento excepto en caso de posters en el cual la
+asistencia es opcional, aunque recomendada, pero debe enviar impreso
+el afiche para su exposición. En los casos en que la actividad sea
+realizada por varios autores, se permitirá un máximo de 3 oradores.
+
+Aclaración: Por cuestiones presupuestarias, sólo se podrán financiar
+los pasajes y gastos, de forma total o parcial, de algunos pocos
+autores seleccionados. Por favor aclarar junto a la propuesta de
+charla si se solicita ayuda económica.
+
+Agradecemos la contribución de todos en la difusión de este llamado y
+del evento en si.
+
+Para más información: http://ar.pycon.org/2012
+
+
+Dónde enviar las Actividades
+-----------------------------------------
+
+Deben ser ingresadas, previa registración en el sitio, para su aprobación en :
+
+http://ar.pycon.org/2012/activity/propose/
+
+La fecha límite de envío de charlas es el Viernes 30 de Junio de 2012
+inclusive. En caso de que necesiten hacer consultas o plantear
+inconvenientes, por favor contactarse a nuestra lista de correo:
+pybaires@googlegroups.com
+
+Para mayor información, fechas importantes e instrucciones de envío:
+
+http://ar.pycon.org/2012/conference/proposals
+
+Cómo enviar las propuestas
+----------------------------------------
+
+El envío de la propuesta de actividad debe tener los siguientes datos:
+
+- Título
+- Tipo: El tipo de actividad puede ser...
+   - Charla Tradicional de 40'
+   - Charla Extrema de 30'
+   - Tutorial/Entrenamiento de 120'
+   - Poster
+   - Proyecto o taller para sprints de desarrollo
+   - Trabajos Estudiantiles
+   - Papers sobre Educación, Ingeniería y Computación Científica
+   - Paneles, plenarias, etc.
+- Autor(es):
+ - Nombre y apellido
+ - Email: dirección de correo electrónico válida (para recibir notificaciones)
+ - Biografía: Breve descripción de cada uno (en tercera persona)
+ - Foto: 100px x 100px
+ - Entidad: asociación, grupo de usuarios, organismo o empresa a la
+que pertenece (si corresponde).
+ - Teléfono:  del/los autor/es para poder comunicarnos (celular)
+ - Ciudad: de residencia del/los autor/es
+- Tiempo estimado de duración: Las charlas generalmente deberán ser de
+40' y los talleres de 120'. En caso de que sea mayor o menor el tiempo
+requerido solicitamos su justificación.
+- Abstract: Resumen de uno o dos párrafos donde se explique el contenido de la presentación (se imprimirá en el programa).
+- Descripción de la actividad: borrador del la actividad, enumerando los contenidos de cada diapositiva o sección, con referencias bibliográficas, URL al sitio de proyecto / documentación, etc.
+- Nivel objetivo de la actividad: Introductorio (usuarios sin
+conocimientos de Python), Intermedio (usuarios con conocimientos
+básicos de Python) o Avanzado (usuarios con experiencia en Python).
+- Track: general, científico, "extremo", trabajos estudiantiles
+- Categoría: Académico, Caso de Estudio, Ciencia, Comunidad, Core,
+Educación, Fomento, Juegos, Lenguaje, Móviles, Py3k, Redes, Seguridad,
+Testing, etc.
+- Notas:
+ - Tipo de público: Desarrolladores avanzados, desarrolladores
+principiantes, empresarios, docentes, público en general.
+ - Conocimientos previos: Especificar que conocimientos previos y
+programas instalados deberán tener los asistentes.
+ - Requisitos Especiales: Especificar necesidades de Hardware,
+Materiales Impresos y/o Ayuda financiera.
+- Licencia: La presentación de propuestas implican la aceptación por
+parte de sus autores, de la eventual publicación de dichos trabajos.
+Se recomienda la licencia *"CC BY-SA, Atribución - Compartir derivadas
+de la misma forma."* Para mas información, consultar en
+http://creativecommons.org/international/ar/
+
+
+Formato y Aplicación de Propuestas
+----------------------------------------------------
+
+1. Las propuestas deben enviarse mediante el sitio web de Python
+Argentina 2012 según lo indicado a continuación, respetando el
+calendario definido en este llamado y deben cumplir con:
+2. Los propuestas pueden escribirse en Español (preferentemente),
+Inglés o Portugués.
+3. Las presentaciones ("diapositivas" - slides) deben adjuntarse en
+formato PDF antes del 12 de Octubre de 2012, fecha limite para la
+Recepción de Trabajos “Camera Ready”.
+4. Los artículos deben adjuntarse antes del 30 de Junio de 2012 en
+formato PDF con página configurada en Hoja A4 respetando márgenes
+izquierdo y derecho: 4,40cm y superior e inferior: 5,20cm. Se usará
+Times 14 para el título principal, Times 12 para los títulos de las
+secciones y Times de 10 para el texto en general. La longitud de los
+artículos debe ser de un máximo de seis páginas (short paper) y diez
+páginas (full paper), incluyendo el abstract, figuras, y referencias
+bibliográficas.
+
+De no cumplir con todas las pautas y contestar todos los comentarios
+de los revisores, la propuesta podrá ser desestimada.
+
+Licencia
+------------
+
+Debe especificarse una licencia que permita que PyAr distribuya el
+material de la charla y la charla en sí en un CD y en el sitio web de
+PyAr. Todas las charlas del evento van a ser filmadas. Se recomienda
+Creative Commons o similares.
+
+Publicación, Entrega de Premios y Reconocimientos
+---------------------------------------------------------------------------
+
+Las contribuciones seleccionadas serán publicadas en la revista de la
+comunidad local de Python Argentina "Python Entre Todos", ISSN:
+1853-2071.
+Del Eje Científico, se seleccionará cuáles son los elegidos para ser
+evaluados y publicados en una revista internacional.
+
+La entrega de premios del "Concurso de Trabajos Estudiantiles" será
+realizada al cierre de PyCon Argentina 2012, definiendo un orden de
+merito final.
+
+Las mejores propuestas tendrán un reconocimiento especial al cierre del evento.
+
+
+Se agradece difusión,
+
+
+Mariano Reingart
+Coordinador General PyCon Argentina 2012
+http://ar.pycon.org/2012
+
+}}}
