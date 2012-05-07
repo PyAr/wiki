@@ -8,7 +8,7 @@
 
 == Difusión ==
 
- * Difundir [[/PyConArgentina/2012/LlamadoSponsors]], [[PyConArgentina/2012/LlamadoPropuestas]], etc. !!!!! 
+ * Difundir [[PyConArgentina/2012/LlamadoSponsors]], [[PyConArgentina/2012/LlamadoPropuestas]], etc. !!!!! 
  * Escribir PressRelease
  * Armar AnuncioPublicitario gráfico y/o radial?
 
