@@ -2,13 +2,13 @@
 
 == Documentación ==
 
- * --(Escribir LlamadoSponsors)-- [MarianoReingart]
- * --(Escribir LlamamoPropuestas)-- [MarianoReingart]
+ * --(Escribir [[PyConArgentina/2012/LlamadoSponsors]])-- [MarianoReingart]
+ * --(Escribir [[PyConArgentina/2012/LlamamoPropuestas]])-- [MarianoReingart]
  * Escribir DocumentoFormal para UNQ: pedido de autorización de aulas, mesas, sillas, cableado, energía, solicitud de colaboración para registración, traducción, filmación, etc.
 
 == Difusión ==
 
- * Difundir LlamadoSponsors, LlamadoPropuestas, etc. !!!!! 
+ * Difundir [[/PyConArgentina/2012/LlamadoSponsors]], [[PyConArgentina/2012/LlamadoPropuestas]], etc. !!!!! 
  * Escribir PressRelease
  * Armar AnuncioPublicitario gráfico y/o radial?
 
