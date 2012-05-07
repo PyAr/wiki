@@ -1,6 +1,14 @@
-== Llamado a Sponsors ==
+= Llamado a Sponsors PyCon Argentina 2012=
 
-= Contactado =
+Página:
+ * Español: http://ar.pycon.org/2012/sponsors/prospectus?lang=es
+ * Inglés: http://ar.pycon.org/2012/sponsors/prospectus?lang=en
+
+Documentos:
+ * Carta (español): http://ar.pycon.org/2012/static/docs/carta_sponsors_pyconar2012.pdf
+ * Brief (inglés): http://ar.pycon.org/2012/static/docs/pyconar2012_brief.pdf
+
+= Sponsors Contactados =
 
 == Empresas ==
  * MSA: confirmado! (MarianoReingart)
@@ -29,7 +37,7 @@
  * [[http://www.enthought.com/|Entohught]]: contactados (MarianoReingart, via EuroPython), lo estan evaluando 
  * [[http://wingware.com/|Wingware]]: email enviado (MarianoReingart), sin respuesta
 
-= Falta Contactar =
+= Sponsors que Falta Contactar =
 
  * Google! (por ahora, solo costo pasaje Brett Cannon)
  * GitHub?
