@@ -4,7 +4,7 @@
 
  * --(Escribir [[PyConArgentina/2012/LlamadoSponsors]])-- [MarianoReingart]
  * --(Escribir [[PyConArgentina/2012/LlamadoPropuestas]])-- [MarianoReingart]
- * Escribir [[[[PyConArgentina/2012/DocumentoFormal]] para UNQ: pedido de autorización de aulas, mesas, sillas, cableado, energía, solicitud de colaboración para registración, traducción, filmación, etc.
+ * Escribir [[PyConArgentina/2012/DocumentoFormal]] para UNQ: pedido de autorización de aulas, mesas, sillas, cableado, energía, solicitud de colaboración para registración, traducción, filmación, etc.
  * Escribir [[PyConArgentina/2012/InvitacionAlPublico]]
 
 == Difusión ==
