@@ -5,15 +5,23 @@
  * --(Escribir [[PyConArgentina/2012/LlamadoSponsors]])-- [MarianoReingart]
  * --(Escribir [[PyConArgentina/2012/LlamadoPropuestas]])-- [MarianoReingart]
  * Escribir [[PyConArgentina/2012/DocumentoFormal]] para UNQ: pedido de autorización de aulas, mesas, sillas, cableado, energía, solicitud de colaboración para registración, traducción, filmación, etc.
+ * Escribir [[PyConArgentina/2012/PressRelease]]
  * Escribir [[PyConArgentina/2012/InvitacionAlPublico]]
  * Escribir [[PyConArgentina/2012/Memoria]] y [[PyConArgentina/2012/Balance]] (post-conferencia!)
 
 == Difusión ==
 
  * Difundir [[PyConArgentina/2012/LlamadoSponsors]], [[PyConArgentina/2012/LlamadoPropuestas]], etc. !!!!! 
- * Escribir [[PyConArgentina/2012/PressRelease]]
+ * Difundir [[PyConArgentina/2012/PressRelease]]
+ * Anunciar cada keynote (entrada en el blog con bio y contenido charlas)
+  * Massimo
+  * Andrea
+  * Brett
  * Armar AnuncioPublicitario gráfico y/o radial?
  * Crear Flyers / Panfletos para pegar cada un mes y medio en las facultades de Buenos Aires e Interior!
+ * Anunciar Tutoriales y Charlas (cuando esten definidos)
+ * Difundir [[PyConArgentina/2012/InvitacionAlPublico]]
+ * Enviar recordatorios y notificaciones
 
 == Contenidos Web ==
 
