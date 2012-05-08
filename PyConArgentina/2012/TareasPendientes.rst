@@ -22,6 +22,7 @@
  * Anunciar Tutoriales y Charlas (cuando esten definidos)
  * Difundir [[PyConArgentina/2012/InvitacionAlPublico]]
  * Enviar recordatorios y notificaciones
+ * Anunciar Fiestas y Eventos Sociales (entrada en el blog)
 
 == Contenidos Web ==
 
