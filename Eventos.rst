@@ -19,36 +19,3 @@ Nos reunimos varios dias para trabajar en distintos proyectos de software libre 
 <<Anchor(sprints)>> <<Include(Eventos/Sprints, ,editlink)>>
 
 <<Anchor(conferencias)>> <<Include(Eventos/Conferencias, ,editlink)>>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-=== Sponsor Sites ===
-
- *  [[http://carinsurancecomparisonhelp.com|car insurance comparison]] (Wiki)
- *  [[http://www.oro-compro.com/|compro oro]] (Italy)
