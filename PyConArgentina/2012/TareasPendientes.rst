@@ -13,13 +13,14 @@
  * Difundir [[PyConArgentina/2012/LlamadoSponsors]], [[PyConArgentina/2012/LlamadoPropuestas]], etc. !!!!! 
  * Escribir [[PyConArgentina/2012/PressRelease]]
  * Armar AnuncioPublicitario gráfico y/o radial?
- * Terminar página http://ar.pycon.org/2012/conference/publicize (traducir de http://ar.pycon.org/2012/conference/publicize?lang=en)
- * Traducir http://ar.pycon.org/2012/conference/proposals?lang=en
- * Traducir http://ar.pycon.org/2012/conference/diversity?lang=es
  * Crear Flyers / Panfletos para pegar cada un mes y medio en las facultades de Buenos Aires e Interior!
 
- * Terminar página http://ar.pycon.org/2012/conference/publicize (traducir de http://ar.pycon.org/2012/conference/publicize?lang=en)
+== Contenidos Web ==
 
+ * Terminar página http://ar.pycon.org/2012/conference/publicize?lang=es (traducir de http://ar.pycon.org/2012/conference/publicize?lang=en)
+ * Traducir http://ar.pycon.org/2012/conference/proposals?lang=en (al ingles)
+ * Traducir http://ar.pycon.org/2012/conference/diversity?lang=es (al español)
+ * Crear página http://ar.pycon.org/2012/conference/registration?lang=es (traducir de http://ar.pycon.org/2012/conference/registration?lang=en)
 
 == Revisión y Selección de Charlas ==
 
@@ -40,7 +41,7 @@
  * Preparar Integración con DineroMail (bono contribución)
  * Probar generación de PDF (badge y certificados)
  * Mejorar Schedule (Cronograma), hacer una tabla como [[https://us.pycon.org/2012/schedule/|PyCon US]]
- * Integrar con google calendar / iCal
+ * Integrar con Google Calendar / iCal
 
 == Gráfica ==
 
@@ -75,6 +76,25 @@
  * Contratar remis para invitados internacionales (AEP/EZE -> Bue y Bue<->UNQ)
  * Nogociar transporte grupal local Bue->UNQ (combis?, micros escolares?)
  * Coordinar [[PyConArgentina/2012/AlojamientoCompartido]] y [[PyConArgentina/2012/TransporteCompartido]]
+
+== Registración ==
+
+ * Armar bolsas / carpetas con programa, PET, merchandizing, etc.
+ * Armar stand de registración
+ * Reunir Encargados de Registración
+ * Instalar PC para 
+ * Distribuir Credenciales y materiales!
+ * Entregar Remeras y Bolsas!
+
+== Aulas ==
+
+ * Conseguir LCD / Proyectores de Backup
+ * Armar Carteles para tiempos (10, 5, 1 minutos, Fin!)
+ * Reunir Encargados de Aula
+ * Probar Notebooks Disertantes con proyector
+ * Coordinar Encargados de Aula
+ * Proyectar videos/slides en intervalos (sponsors, info sobre python, etc.)
+ * Grabar audio+video de cada charla
 
 == Fiestas y Social ==
 
