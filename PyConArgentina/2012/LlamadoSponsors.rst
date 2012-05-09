@@ -27,6 +27,7 @@ Documentos:
  * Onapsis: intersado... [Nadia]
  * Thymbira: confirmado! [MarianoReingart]
  * Gcoop: no interesado
+ * Datattec: contacado al duenio, esperando confirmacion [EmilianoDallaVerdeMarcozzi]
  * Globant: contactando... [SebastianBassi]
 
 == Pythoneros ==
