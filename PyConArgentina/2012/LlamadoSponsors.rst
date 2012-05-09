@@ -1,5 +1,8 @@
 = Llamado a Sponsors PyCon Argentina 2012 =
 
+Formulario consulta:
+ * https://docs.google.com/spreadsheet/viewform?formkey=dE41VEhFWEpGVGp0dFBxa1Q5OGJBanc6MQ
+
 Página:
  * Español: http://ar.pycon.org/2012/sponsors/prospectus?lang=es
  * Inglés: http://ar.pycon.org/2012/sponsors/prospectus?lang=en
@@ -16,14 +19,13 @@ Documentos:
  * python-peru@googlegroups.com [MarianoReingart]
  * pythonchile@googlegroups.com [MarianoReingart]
  * pyuy@googlegroups.com [MarianoReingart]
- * python-es@python.org [MarianoReingart]
 
 = Sponsors Contactados =
 
 == Empresas ==
  * MSA: confirmado! [MarianoReingart]
  * Fierro- Lambda: confirmado! [MarianoReingart]
- * Machinalis: confirmando... [JuanBC]
+ * Machinalis: confirmando! [JuanBC]
  * Onapsis: intersado... [Nadia]
  * Thymbira: confirmado! [MarianoReingart]
  * Gcoop: no interesado
@@ -35,13 +37,14 @@ Documentos:
  * Pythonero Anónimo: confirmado!
  * Pythonero Historico: confirmado!
  * Grupo "Sistemas Ágiles": confirmado! (MarianoReingart)
+ * Pythonero Co-Organizador:
 
 == Institucional y Gubernamental ==
 
  * PSF: confirmado! [MarianoReingart]
  * PostgreSQL: confirmado (casi)! [MarianoReingart]
  * Mozilla: enviado mail [MarianoReingart cc FelipeLerena], sin respuesta
- * ANPCyT Fonsoft: presentando papeles... [MarianoReingart]
+ * ANCyT Fonsoft: presentando papeles... [Nadia] y UNQ
 
 == Internacionales ==
 
@@ -52,6 +55,7 @@ Documentos:
 
  * Google! (por ahora, solo costo pasaje Brett Cannon)
  * GitHub?
+ * Intel?
  * Core?
  * Popego?
  * Nemo? (Rosario, http://www.nemogroup.com.ar)
