@@ -11,9 +11,9 @@
  * pyuy@googlegroups.com [MarianoReingart]
  * gleducar@gleducar.org.ar [MarianoReingart]
  * universidad-libre@gleducar.org.ar [MarianoReingart]
- * web2py-usuarios@googlegroups.com
- * web2py@googlegroups.com
- * wxpython-users@googlegroups.com
+ * web2py-usuarios@googlegroups.com [MarianoReingart]
+ * web2py@googlegroups.com [MarianoReingart]
+ * wxpython-users@googlegroups.com [MarianoReingart]
 
 == Entrada Blog ==
 
