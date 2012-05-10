@@ -9,7 +9,8 @@
  * python-peru@googlegroups.com [MarianoReingart]
  * pythonchile@googlegroups.com [MarianoReingart]
  * pyuy@googlegroups.com [MarianoReingart]
- * python-es@python.org [MarianoReingart]
+ * gleducar@gleducar.org.ar [MarianoReingart]
+ * universidad-libre@gleducar.org.ar [MarianoReingart]
 
 == Entrada Blog ==
 
