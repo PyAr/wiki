@@ -11,6 +11,9 @@
  * pyuy@googlegroups.com [MarianoReingart]
  * gleducar@gleducar.org.ar [MarianoReingart]
  * universidad-libre@gleducar.org.ar [MarianoReingart]
+ * web2py-usuarios@googlegroups.com
+ * web2py@googlegroups.com
+ * wxpython-users@googlegroups.com
 
 == Entrada Blog ==
 
@@ -45,6 +48,11 @@ principiantes como avanzados; bloggers, autores y diseñadores web;
 gerentes, administradores y emprendedores; científicos, ingenieros,
 curiosos y todo aquel que tenga ganas de acercarse a la comunidad
 Python en Argentina.
+
+Los disertantes invitados y preconfirmados hasta el momento son: 
+ * Massimo Di Pierro - De Paul University - web2py / FermiQCD
+ * Andrea Gavana - Maersk Oil - wx.lib.agw & 2D/3D visualization
+ * Brett Cannon - Google - python core developer: importlib py3k pypy
 
 El autor de cada actividad seleccionada participará presencialmente,
 como orador en el evento excepto en caso de posters en el cual la
@@ -212,7 +220,7 @@ Other presentation oportunities includes:
 
 
 Can you show attendees how to use a module? Explore a Python language feature? Package an application? 
-Do you research with Python?
+Do you study with Python? Do you research with Python?
 Submit your activity proposal here: 
 
 http://ar.pycon.org/2012/conference/proposals/?lang=en 
@@ -236,6 +244,11 @@ Conference registration, accommodations, and transportation are the responsibili
 However, financial aid will be available, and speakers who pay their own way are encouraged to apply. 
 Giving a talk is a great rationale when requesting aid. 
 If you require financial aid in order to attend PyCon Argentina, please note it in your proposal and be sure to apply.
+
+Pre-Confirmed International invited speakers includes so far: 
+ * Massimo Di Pierro - De Paul University - web2py / FermiQCD
+ * Andrea Gavana - Maersk Oil - wx.lib.agw & 2D/3D visualization
+ * Brett Cannon - Google - python core developer: importlib py3k pypy
 
 Sponsorship opportunities are open, for further information see:
 http://ar.pycon.org/2012/sponsors/prospectus?lang=en
