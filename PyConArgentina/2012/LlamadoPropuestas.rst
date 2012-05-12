@@ -53,6 +53,7 @@ Los disertantes invitados y preconfirmados hasta el momento son:
  * Massimo Di Pierro - De Paul University - web2py / FermiQCD
  * Andrea Gavana - Maersk Oil - wx.lib.agw & 2D/3D visualization
  * Brett Cannon - Google - python core developer: importlib py3k pypy
+ * Christophe Pettus - PostgreSQL Experts - Django & ORMs 
 
 El autor de cada actividad seleccionada participará presencialmente,
 como orador en el evento excepto en caso de posters en el cual la
@@ -249,6 +250,7 @@ Pre-Confirmed International invited speakers includes so far:
  * Massimo Di Pierro - De Paul University - web2py / FermiQCD
  * Andrea Gavana - Maersk Oil - wx.lib.agw & 2D/3D visualization
  * Brett Cannon - Google - python core developer: importlib py3k pypy
+ * Christophe Pettus - PostgreSQL Experts - Django & ORMs 
 
 Sponsorship opportunities are open, for further information see:
 http://ar.pycon.org/2012/sponsors/prospectus?lang=en
