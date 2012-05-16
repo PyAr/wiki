@@ -31,6 +31,9 @@ Documentos:
  * Gcoop: no interesado
  * Datattec: contacado al duenio, esperando confirmacion [EmilianoDallaVerdeMarcozzi]
  * Globant: contactando... [SebastianBassi]
+ * Airtrack? (Rosario, http://www.airtrack.com.ar) [Nadia], esperando respuesta...
+ * Core: en tratativas... [Nadia]
+
 
 == Pythoneros ==
 
@@ -56,13 +59,11 @@ Documentos:
  * Google! (por ahora, solo costo pasaje Brett Cannon)
  * GitHub?
  * Intel?
- * Core?
+ * Canonical?
  * Popego?
  * Nemo? (Rosario, http://www.nemogroup.com.ar)
- * Airtrack? (Rosario, http://www.airtrack.com.ar)
  * Rcom? (Rosario, http://www.rcom.com.ar)
  * Atomica?
- * Canonical?
  * teracore?
  * Libra?
  * Brainpark?
