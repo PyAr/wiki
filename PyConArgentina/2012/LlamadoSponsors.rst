@@ -28,6 +28,7 @@ Documentos:
  * Machinalis: confirmando! [JuanBC]
  * Onapsis: intersado... [Nadia]
  * Thymbira: confirmado! [MarianoReingart]
+ * Rcom: Contactado, lo están viendo ... (Rosario, http://www.rcom.com.ar)[EmilianoDallaVerdeMarcozzi]
  * Gcoop: no interesado
  * Datattec: contacado al duenio, esperando confirmacion [EmilianoDallaVerdeMarcozzi]
  * Globant: contactando... [SebastianBassi]
@@ -64,7 +65,6 @@ Nos falta info de contacto de las siguientes empresas:
  * Canonical?
  * Popego?
  * Nemo? (Rosario, http://www.nemogroup.com.ar)
- * Rcom? (Rosario, http://www.rcom.com.ar)
  * Atomica?
  * teracore?
  * Libra?
