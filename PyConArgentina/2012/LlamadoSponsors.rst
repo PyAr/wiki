@@ -56,6 +56,8 @@ Documentos:
 
 = Sponsors que Falta Contactar =
 
+Nos falta info de contacto de las siguientes empresas:
+
  * Google! (por ahora, solo costo pasaje Brett Cannon)
  * GitHub?
  * Intel?
@@ -70,3 +72,7 @@ Documentos:
  * menttes
  * log_n
  * olx
+
+Si fuiste el contacto en eventos anteriores, por favor envíanos un mail (reingart@gmail.com, nluczywo@gmail.com) o a través del grupo de organización (pybaires@googlegroups.com):
+
+http://groups.google.com/group/pybaires
