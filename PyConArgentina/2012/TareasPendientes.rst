@@ -1,5 +1,7 @@
 = Tareas Pendientes =
 
+Para más info ver: http://wiki.python.org/moin/ConventionHowto
+
 == Documentación ==
 
  * --(Escribir [[PyConArgentina/2012/LlamadoSponsors]])-- [MarianoReingart]
