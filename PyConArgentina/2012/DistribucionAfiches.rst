@@ -38,7 +38,7 @@ Si estas cerca o tenes alguna relación con una universidad, empresa o instituci
 ||Samanta Fernandez ||<<MailTo(  samanta.fernandez EN  gmail PUNTO com)>> ||UTN - FRCU (C. del Uruguay, Entre Ríos) || ||
 ||Juan Martin Muguerza ||<<MailTo(  juanma EN  gnutn PUNTO org PUNTO ar)>> ||UTN Facultad Regional Buenos Aires || ||
 ||Agustin Henze ||<<MailTo(  agustinhenze EN  gmail PUNTO com)>> ||UTN Regional Córdoba || ||
-||Daniel F. Moisset ||<<MailTo(  dmoisset EN  machinalis PUNTO com)>> ||FaMAF, Univ. Nac. de Córdoba ||(4) 20351 ||
+||Daniel F. Moisset ||<<MailTo(  dmoisset EN  machinalis PUNTO com)>> ||FaMAF, Univ. Nac. de Córdoba || ||
 ||Andres Pardini ||<<MailTo(  unpardos EN  gmail PUNTO com)>> ||UNLP facultad informatica || ||
 ||Santiago Banchero ||<<MailTo(  santiagobanchero EN  gmail PUNTO com)>> ||Universidad Nacional de Luján (Centro Regional Chivilcoy) || ||
 ||Diego Gaspar ||<<MailTo(  armandogaspar EN  gmail PUNTO com)>> ||Universidad Nacional de Cuyo y otros || ||
