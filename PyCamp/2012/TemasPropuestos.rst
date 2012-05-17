@@ -17,6 +17,7 @@ Juegos de Mesa:
  * Zug (parecido al Carcassone, pero con trenes, y ambientado en Tucumán!)
  * Illuminati
  * Battlestar Galáctica
+ * Go
 
 == Torneo Metegol ==
 
