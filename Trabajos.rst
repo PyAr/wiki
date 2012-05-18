@@ -1,173 +1,24 @@
-= Trabajos con Python =
-== 2012 ==
- * (08/05/2012) Se busca desarolladores web Python con experiencia en framework Django y Bases de datos, para trabajar en un start-up orientado a mejorar la experiencia de los consumidores a través de la generación de movimientos colectivos integrados a las redes sociales. Se valorará la experiencia que tengas en otros lenguajes como PHP y Javascript/Jquery. La búsqueda es para Córdoba Capital. Se requiere disponibilidad full-time y part-time.
-Enviá tu curriculum, detallando conocimientos, experiencia laboral y links a trabajos realizados
-a rrhh@tuquejasuma.com , asunto: “Búsqueda Django”.
+Nos encontramos a la busqueda de un desarrollador senior con al menos 1/2 años de experiencia en las siguientes tecnologias:
 
- * (23/04/2012) Estamos buscando programador Junior y Senior, para un startup que arranco en Abril. Es un proyecto con financiacion privada, y con un modelo de negocio a futuro muy prometedor. La mision principal de la empresa es desarrollar aplicaciones web focalizadas por rubro. Somos un equipo formado por jovenes profesionales; ingenieros en sistemas, diseñadores graficos y administrador de empresa.Estamos radicados en la Zona de Tigre - Nordelta con oficinas propias. Interesados contactarse via mail a <<MailTo(agustin.iglesias EN tokkobroker PUNTO com)>>
+- Google App Engine
+- Phyton
+- Java
+- Metdologias Agiles (scrum/kanban)
+- InkScape
+- Gimp
+- Ubuntu / Linux
 
- * (29/03/2012) [[http://www.towebs.com|Towebs Webhosting]] esta buscando dos desarrolladores Python con al menos un año de experiencia, son requeridos conocimientos de desarrollo web. Son deseables conocimientos de Linux. Interesados por favor contactarse con <<MailTo(walter EN towebs PUNTO com)>>
+Es requisito tener un dominio fluido del idioma ingles.
 
- * (21/03/2012) En Shift4 estamos buscando un desarrollador Python-Django, para un proyecto de unos 4 meses, mínimo. Es para trabajar remoto, un mínimo de 4hs al dia, pero sin exigencias estrictas de horarios.. Estamos en Santa Fe Capital, por lo que nos vendría bien alguien de acá para reunirnos periódicamente, pero no es indispensable. Si alguien está interesado por favor envíe un mail a comercial@shift4.com.ar
+La posición implica inicialmente el desarrollo de la versión alpha/beta de la aplicación y posteriormente ser responsables de construir y gestionar el equipo de desarrollo a crear en el development center de Argentina.
 
- * (06/03/2012) Seleccionaremos para la empresa Mobil-Tonic / Entaste un programador Python. La búsqueda se orienta a una persona con sólidos conocimientos en programación orientada a objetos, en lenguajes tales como: Python, Groovy, Rails, etc. Participará de importantes proyectos web y mobile para lo cuál será capacitado en tecnologías de vanguardia. También será parte del equipo de I + D para explorar nuevas tecnologías y tendencias. La empresa ofrece muy buenas condiciones de contratación y muy buen paquete salarial. Interesados enviar un mail a sosterc@ghidinirodil.com.ar o comunicarse al 4-8198834.
+Se ofrece:
 
- * (01/03/2012) En devsAr (La Plata) estamos incorporando desarrolladores python/django. Los interesados completar el formulario en http://www.devsar.com o escribir a: rrhh@devsar.com
+- Laptop
+- Contrato de Consultor de 6 meses con salario Argentino
+- StockOptions
+- Luego de los 6 meses actualización de posición y salario en dólares de acuerdo a la responsabilidad.
 
- * (29/02/2012) Kinetik.com, una guía social para App Store, esta buscando un desarrollador de Python. Buscamos alguien que este en Capital Federal o que pueda reubicarse por lo menos un mes. Kinetik va participar en NXTP Labs y busca crecer su equipo. Interesados por favor contactarse con <<MailTo(raul EN kinetik PUNTO com)>>.
+Buscamos personas amantes de la tecnologia y entusiastas de iniciarse en la aventura de un nuevo proyecto.
 
- * (24/02/2012) Itecnis está buscando desarrolladores Python con disponibilidad fulltime en el área de Rosario, son deseables conocimientos en ingeniería de software, herramientas de versionado y testing. los intersados pueden comunicarse o enviar CV vía mail a <<MailTo(hdacharry EN itecnis PUNTO com)>>.
-
- * (09/03/2012) Anting está buscando programadores freelance Python y Django dentro del área de Capital Federal o Gran Bs.As para que nos ayuden en los proyecto actuales y futuros.Si estás interesado podés enviar un mail a <<MailTo(nmartinet EN anting PUNTO com PUNTO ar)>> o a <<MailTo(mf2286 EN gmail PUNTO com)>>.
-
- * (30/01/2012) MSA está buscando programadores Python con al menos un año de experiencia para trabajar con tecnologías Web, Linux (Ubuntu), y Software Open Source en general. Son deseables conocimientos de Desarrollo Web, PHP y Oracle DB. Buscamos gente proactiva, con habilidades autodidactas y afinidad al Software Libre, dentro del área de Capital Federal o Gran Bs.As. Hay posibilidades de trabajar a distancia, y hay flexibilidad horaria y de relación laboral. Si pensás que puede interesarte la propuesta, no dejes de comunicarte con nosotros vía mail con el CV y/o pretensiones a <rrhh EN msa PUNTO com PUNTO ar>.
-
- * (17/01/2012) Estamos buscando un programador o programadora Python Senior, para el área de sistemas de una industria (es decir, no una software factory).  Es un trabajo on-site en Flores, Ciudad de Buenos Aires. Más detalles en: http://www.computrabajo.com.ar/bt-ofrd-margamanterola-7148.htm
-
-== 2011 ==
- * (02/12/2011) Estamos buscando un programador Django con buenas ideas de arquitectura de APIs y modelos de datos para que nos ayude a implementar una webapp y un API rest. El proyecto es muy interesante y con varios desafios tecnicos. Por favor contactarse con <<MailTo(juan EN fitnity PUNTO com)>> para mas detalles.
-
- * (24/11/2011) http://xpenser.com/ esta buscando programadores python con conocimientos de django/MySQL/jquery y algo de YUI. Si estas interesado y queres mas detalle contactar a <<MailTo(parand EN xpenser PUNTO com)>>.
-
- * (21/11/2011) MSA está buscando programadores Python con al menos un año de experiencia para trabajar con tecnologías Web, Linux (Ubuntu), y Software Open Source en general. Son deseables conocimientos de Desarrollo Web y PostgreSQL. Buscamos gente proactiva, con habilidades autodidactas y afinidad al Software Libre, dentro del área de Capital Federal o Gran Bs.As. Hay posibilidades de trabajar a distancia y con horarios flexibles. Si pensás que puede interesarte la propuesta, no dejes de comunicarte con nosotros vía mail con el CV y/o pretensiones a <rrhh EN msa PUNTO com PUNTO ar>.
-
- * (18/10/2011) Se buscan desarrolladores Python con al menos 2 años de experiencia para trabajar en el desarrollo de aplicaciones Web 2.0. Interesados, enviar email a emilia.giobio@nextperience.net indicando en el título "REF: Python"
-
- * (07/10/2011) Buscamos colaboradores (freelance $$) para Proyectos Sofware Libre, temas puntuales (web2py, pyfpdf, pysimplesoap, pyafipws). Más info en: http://listas.python.org.ar/pipermail/pyar/2011-October/014063.html. Contactar a <<MailTo(proyectos EN sistemasagiles PUNTO com PUNTO ar)>>.
-
- * (04/10/2011) Después de varios años de trabajar freelance en Django y luego ir creando un equipo y sumando programadores, llegué al punto desde el cual ya necesito algún Project Manager que me ayude acompañando proyectos y programadores. El trabajo puede ser a comisión, o con pago por hora; lo podemos hablar.  Si tenés buena experiencia en Django y ganas de liderar proyectos contactame a <<MailTo(javier EN tribalo PUNTO net)>>.
-
- * (26/09/2011) estamos buscando a una persona para que nos ayude algunas semanas a completar una suite de tests para un proyecto web en el que estamos involucrados. Las herramientas que estamos utilizando son: pyramid, sqlalchemy, mako, xlrd, geraldo reports, webtest y nose. Si bien no hace falta ser especialista en ninguna de ellas, la persona que esté interesada en el trabajo debe tener experiencia al menos en unit testing. Si estás interesado, escribime a <<MailTo(mariano.mara EN gmail PUNTO com)>>
-
- * (26/09/2011) Se buscan desarrolladores Python con al menos 2 años de experiencia para trabajar en el desarrollo de aplicaciones Web 2.0. Se requiere buen dominio de Inglés. Se valorarán conocimientos de Django. Interesados, enviar email a matias@bandofcoders.com indicando en el título "REF: Python"
-
- * (21/09/2011) [[http://www.onapsis.com|Onapsis]], Empresa líder en seguridad ERP con sede en BsAs, busca programadores Python para incorporar a su equipo de desarrollo, con experiencia en frameworks web Pyramid/Pylons, SQLAlchemy, Javascript, ExtJS/Sencha, JQuery, TDD. Contacto, mas detalles y requisitos [[http://www.onapsis.com/company-careers-PYD01.php|aca(Ingles)]], para trabajar en el desarrollo de innovadoras  soluciones de software de seguridad, usadas por algunas de las organizaciones mas grandes del mundo.
-
- * (21/09/2011) Se busca desarrolladores Python con framework Django. Son deseables conocimiento de Desarrollo Web, PostgreSQL, PyGTK y SQL.  Trabajo en principio, freelance para el desarrollo de un sistema a medida. Los Interesados contactarse a contacto@anting.com.ar
-
- * (24/08/2011) Seeking a Django developer with previous Django experience for freelance work to add features and capabilities to an existing web site. Please contact me at http://www.frugalpharmacies.com/help/  Please include examples of work and hourly rates.
-
- * (19/07/2011) Estamos buscando para un start-up programadores (freelance en principio) con experiencia en PYTHON. Se valorarán conocimientos en OpenObject y experiencia en software de gestión. La propuesta es para trabajar en proyectos a largo plazo en desarrollo de ERP OpenSource sobre Linux.  CABA o GBA.  Si te interesa el desafío comunícate con nosotros vía email con el CV y pretensiones a: <<MailTo(contacto EN i3 PUNTO com PUNTO ar)>>
-
- * (15/06/2011) [[http://www.waragon.com|Waragon]] busca desarrolladores web con experiencia laboral en lenguaje Python. El empleo es Full Time (9 a 18), en relación de dependencia, en Capital Federal. Los salarios ofrecidos por nuestro cliente son buenos, dependiendo del nivel técnico del candidato. Los proyectos son aplicaciones web y juegos online, realizados con Flash y Python. Los interesados por favor escribir a <pedro EN waragon PUNTO com>
-
- * (10/05/2011) [[http://www.msa.com.ar|MSA]] busca ampliar su equipo de desarrollo, el cual tendrá a cargo un proyecto muy interesante con tecnologías Web y Open Source, como Python y Linux (Ubuntu). Son deseables conocimientos de Desarrollo Web, PostgreSQL, PyGTK y SQL. Buscamos gente proactiva, con habilidades autodidactas y afinidad al Software Libre, dentro del área de Capital Federal, al menos mientras dure el "start-up" del proyecto. Si pensás que puede interesarte la propuesta, no dejes de comunicarte con nosotros vía mail con el CV y/o pretensiones a <rrhh EN msa PUNTO com PUNTO ar> .
-
- * (02/05/2011) [[http://www.binariagroup.com/|Binaria Group]] busca desarrolladores Python para realizar tareas relacionadas con el scrapping, procesamiento y análisis de grandes volumenes de datos de redes sociales; en Capital Federal o a distancia. Interesados contactarse a <<MailTo(mat AT binariagroup DOT com)>>
-
- * (29/04/2011) [[http://www.machinalis.com/|Machinalis]] busca desarrolladores con experiencia en Django (y conocimientos de HTML+CSS+JS). Interesados tienen una oreja escuchando en <<MailTo(msponton AT machinalis DOT com)>>
-
- * (26/04/2011) NIC.AR seleccionará programadores con experiencia en Python, para participar de un grupo de trabajo de implementación de sistemas.Las tareas a realizar serán de programación y mantenimiento de sistemas utilizando el lenguaje Python con framework Django, siendo el sistema operativo Unix y/o Linux. Los interesados deberán enviar Currículum Vitae por correo electrónico a la dirección rrhh EN nic PUNTO ar, sin omitir remuneración pretendida y referencias comprobables, indicando en el Asunto: Referencia Programador Python. Jornada laboral completa. Ver requisitos minimos en www.nic.ar
-
- * (18/04/2011) En [[http://www.anting.com.ar/|Anting]] buscamos a un desarrollador(freelance en principio) Python con conocimiento de algún framework web y de migración de bases de datos. Tenemos varios proyectos pendientes de los que no nos podemos encargar al 100% por lo que nos vendría muy bien una mano. Si les interesa por favor contactarse al siguiente mail: <<MailTo(mf2286 EN gmail PUNTO com)>>
-
- * (29/03/2011) [[http://LeanderGames.com/|LeanderGames.com]] es una empresa en pleno crecimiento que está buscando un Python Developer que sepa HTML, CSS, Javascript y SQL. Si trabajó con Django mejor! <<BR>> Las tareas incluyen desarrollo de backend y reportes, prometemos grandes desafíos técnicos. Ofrecemos relación de dependencia, además el clima laboral es muy bueno! <<BR>> Enviar e-mail a <<MailTo(rrhh EN leandergames PUNTO com)>>
-
- * (06/03/2011) [[http://gs-mag.co.uk/|GS Mag]] Buscamos programador Python,con conocimiento BDMySQL/PostgresSQL/HTML/CSS/Javascript/EC2 S3, proyecto web/ios. Trabajo freelancer/relacion de dependencia. Buen nivel de ingles preferido. Enviar CV a <<MailTo(info EN gs-digital PUNTO co PUNTO uk)>>
-
- * (25/02/2011) El Instituto Nacional de Tecnología Agropecuaria (INTA) abrió un concurso para un puesto de Profesional de Gestión Externa (Graduado en Carrera de Grado en Informática o Ciencias de la Computación). Los datos de concurso, fechas importantes y el perfil lo pueden encontrar [[http://www.inta.gov.ar/rrhh/ingresos/seleccion/cirn/0072011/index.htm|aquí]]. El lugar de trabajo es el [[http://climayagua.inta.gov.ar|Instituto de Clima y Agua]].
-
- * (20/02/2011) En devsAr (La Plata) estamos incorporando desarrolladores python/django en relación de dependencia y freelance. Los interesados completar el formulario en http://www.devsar.com/jobs o escribir a: <<MailTo(rrhh EN devsar PUNTO com)>>
-
- * (16/02/2011) En [[http://atommica.com|atommica]] continúan buscando programadores Python. Más información en [[http://www.python.org/community/jobs/index.html#atommica-buenos-aires-arg|Python Job Board]] o enviando tu CV a <<MailTo(jobs EN atommica PUNTO com)>>
-
- * (03/02/2011) [[http://anue.biz/|anue]] is looking for a freelance[0] experienced Python/Django developer. Good Javascript knowledge (preferably jQuery) and markup ninja skills are welcome. If you can read this, then you have enough english knowledge :) Send us an email with your resume and contact data to <<MailTo(info EN anue PUNTO biz)>>
-  . [0] Depending on how things work, this can be turn into a long term relationship.
-
- * (31/01/2011) "Desarrollador(a) Python" full-time con conocimientos: Python, preferentemente framework Django. Conocimientos de BD MySQL y PostgresSQL. HTML, Javascript, CSS. ; nuestra empresa ofrece relación de dependencia por tiempo inderminando con todos los beneficios que eso significa. Indispensable manejar inglés. En niveles Semisenior y Senior. Actividades a desarrollarse en oficinas de Córdoba Capital. La empresa: www.santexamerica.com Enviar CV a <<MailTo(ana PUNTO mercado EN santexgroup PUNTO com)>>//<<MailTo(jobs EN santexgroup PUNTO com)>>
-
- * (07/01/2011) Desarrollador(a) freelance part-time/full-time para empresa en crecimiento. La paga es a convenir y todos los proyectos son a largo plazo. Experiencia con Django, Mercurial/Git, Trac, APIs (Facebook, Twitter, Flickr, etcétera). Más información [[http://mx.grulic.org.ar/lurker/message/20110107.153049.d65311ba.es.html|acá]]. Si estás interesado enviá un mail en texto plano a <<MailTo(xavier EN link-b PUNTO com)>>
- * (06/01/2011) [[http://globant.com|Globant]] está buscando un programador Python. Es indispensable manejarse con inglés oral (hay "''calls''" y viajes) y tener experiencia con sitios de alto tráfico. Más información [[http://mx.grulic.org.ar/lurker/message/20110106.145112.8e9f9802.es.html|acá]]. Si estás interesado enviá un mail a <<MailTo(sebastian.bassi EN globant PUNTO com)>>
-
-== 2010 ==
- * (29/12/2010) En [[http://popego.com/|Popego]] estamos incorporando nuevos desarrolladores a nuestro equipo. Actualmente tenemos posiciones abiertas tanto para el equipo de Ingeniería como para el de Machine Learning, en perfiles Junior, Semi-Senior y Senior. Full-Time, en nuestras oficinas de Palermo, buen clima, hay clases de idiomas, libros y juegos disponibles. Si estás interesado y te apasionan los desafíos visitá http://popego.com/jobs.html y escribinos a <<MailTo(jobs EN popego PUNTO com)>> .
-
- * (10/12/2010) En devsAr (La Plata) estamos incorporando desarrolladores python/django en relación de dependencia y freelance. Los interesados completar el formulario en http://www.devsar.com/jobs o escribir a: <<MailTo(rrhh EN devsar PUNTO com)>>
- * (06/12/2010) '''Equipo de Desarrolladores Django Distribuidos en Latinoamérica necesita Sumar (al menos 6!) Programadores urgentemente: '''Soy el Director de un equipo de Desarrolladores Django Freelance que trabajamos interconectados en Latino América. Estamos necesitando sumar programadores urgentemente (YA para cubrir Viajes de algunos durante las fiestas, y YA para trabajar en otros proyectos en marcha). En total necesitamos al menos 6 Programadores más! Los proyectos requieren conocimientos no solo de Django, sino de deployment de proyectos, capacidad de ajuste a proyectos en funcionamiento. O sea, alguien que "sepa" del tema. Los costos que manejamos son ''competitivos'', por lo que no más de U$S12.50/hora: <<MailTo(freelance EN tribalo PUNTO net)>>
- * (01/12/2010) '''Aviso valido para Mexico''': En [[Globant|www.globant.com]],  la empresa número uno en la exportación de servicio IT , estamos  buscando Desarrolladores SR. Python, para dar soporte a las aplicaciones  de nuestro cliente en San Bruno, California. Los postulantes deben  contar con experiencia  y/o conocimientos técnicos  en: PYTHON, HTML,  CSS, JAVASCRIPT, MYSQL, DJANGO/PLONE. Requisitos: Ingles Avanzado  (excluyente), Disponibilidad para viajar, Egresados de carreras  involucradas al área de sistemas, Adaptabilidad al rápido aprendizaje de  nuevas tecnologías, Conocimiento de los fundamentos  básicos de la  computación (estructuras, algoritmos, etc..). Para mas información,  escribir a: <<MailTo(maria PUNTO carrion EN globant PUNTO com)>>
-
- * (09/11/2010) Estamos buscando estudiantes avanzados y profesionales de las carreras de Sistemas con al menos uno o dos años de experiencia con Python, para incorporar al equipo de ''Desarrollo de'' '''''Hexacta'''''. Se requiere actitud proactiva y ganas de trabajar y aprender en un entorno de mejora continua. Se valoraran los conocimientos avanzados del idioma inglés y el background académico. Somos una empresa de Consultoría y Desarrollo de software enfocada en la utilización de las nuevas tecnologías para generar valor a nuestros clientes. Un equipo realmente diferente respecto de lo que la comunidad profesional y jóvenes estudiantes pueden encontrar en el mercado. Si te interesa conocernos envianos tu CV a <<MailTo(careers EN hexacta PUNTO com)>>indicando como referencia Python o visitá nuestra web: [[www.hexacta.com]]
-
- * (17/09/2010) Skills: python en general; uso de pyserial (manejo de puerto serie); mySQL, SQLite; deseable C, C++, C sharp; deseable experiencia en sistemas de tiempo real; deseable zona La Plata, o zona Belgrano. Por favor enviar el contacto a <<MailTo(mario.mongini EN atemponet PUNTO com)>>
-
- * (15/09/2010) En [[http://atommica.com|atommica]] estamos buscando programadores Python, para backend de juegos (Django + S3 + EC2 + SimpleDB) o frontend (!ActionScript). Zona Palermo. Enviá tu CV a <<MailTo(jobs EN atommica PUNTO com)>>
-
- * (30/08/2010) Se busca programador python para desarrollo y deployment de sitio web para [[http://www.postapolo.com.ar/|www.postapolo.com.ar]]. El proyecto sería hosteado en [[http://code.google.com/appengine/|Google App Engine]] y desarrollado con algún framework que pueda ejecutarse ahí. Incluído en el proyecto debería estar el desarrollo de la gráfica. Para mas información contactarse con <<MailTo(egutesman EN gmail PUNTO com)>>
-
- * (11/07/2010) En Core Security nos encontramos en la búsqueda de Desarrolladores Python para diferentes equipos de trabajo, para trabajar en nuestras oficinas de Capital Federal (Palermo). Somos una empresa que desarrolla e investiga tecnología de punta de seguridad informática, para ayudar a las organizaciones a protegerse y reducir el riesgo. Si estás interesado podés conocer nuestras propuestas en http://www.coresecurity.com/jobopportunities y mandarnos tu CV a <<MailTo(empleos.argentina EN coresecurity PUNTO com)>>
-
- * (14/07/2010) Desarrolladores Python: Buscamos profesionales de las carreras de Sistemas, con al menos 1 año de experiencia en desarrollo con tecnología Python para incorporar a nuestro Centro de Desarrollo en Las Cañitas. Participarán de proyectos a gran escala y trabajarán con metodologías Scrum y CMMI.  Si te interesa la propuesta, envianos tu CV a <<MailTo(careers EN hexacta PUNTO com)>> con la referencia PYTHON y conocé más de nuestra empresa en www.hexacta.com "... Estamos convencidos que se puede lograr la excelencia profesional en un entorno divertido, flexible y desafiante..."
-
- * (05/07/2010) Starbene está buscando un desarrollador Django para un proyecto puntual freelance de innovación tecnológica para equipamiento de electromedicina estética. Se requiere experiencia con Django y python; un buen criterio gráfico suma pero no es excluyente. Se ofrece inicialmente un contrato por el proyecto y la posibilidad de formar parte de nuestro staff. Si tenés muchas ganas de aprender y sabés comprometerte con tus plazos esperamos tu CV en <<MailTo(software EN starbene PUNTO com)>> contacto CarlosBarroso. Se requiere vivir en Córdoba capital o poder reunirse cada dos semanas en la ciudad de Córdoba. http://www.starbene.com.
-
- * '''Busco socio tecnológico para proyecto  de Red Social escrito en Python + Django + Pinnax.''' Se trata de  una red social que, además de las funciones típicas de redes sociales,  presenta una característica que le confiera plena originalidad. Ofrezco  participación en la sociedad y un monto asignable a la tarea que falta  realizar. El sitio fue desarrollado en '''Python  + Django + Pinnax'''.  Aunque actualmente está on line, aún le  falta terminación (diría que está realizado en, aproximadamente, un 60%)  Además, habría que mejorar/rehacer las interfaces de usuario y el  diseño porque son confusas y no demasiado modernos.  En pre-testeos no  sistemáticos la funcionalidad del sitio parece resultar atractiva y  hasta adictiva para muchas personas, razón por la cual podría llegar a  resultar un sitio de alto tráfico.  En cuanto a su desarrollo, el sitio  reviste  una mediana complejidad. Quisiera es asociarme a un programador  o a un grupo desarrollador con amplia experiencia en Python.  '''Ofrezco participar en la sociedad y, además,  dispongo de un pequeño monto monetario que permitiría solventar parte de  lo que restaría realizar.''' Como contraparte, '''necesito un socio que se comprometa  seriamente con el proyecto, que posea excelencia en el manejo de las  tecnologías mencionadas y que sea responsable con los tiempos'''.   Es muy importante que el futuro socio resida en CABA (Cdad. Autónoma de  Buenos Aires) o, en su defecto, que viaje a ésta con cierta frecuencia.   A los interesados, por favor, comuníquense al 15-6631-3421. ó a <<MailTo(fede1234 EN gmail PUNTO com)>> -  Federico González
-
- * (17/05/2010) Bonsai Information Security esta buscando un desarrollador full time para extender y mantener el software '''Open Source''' w3af (http://w3af.sf.net/). Se requiere amplia experiencia en Python, ganas de aprender seguridad en aplicaciones Web y Hacking. El lugar de trabajo es Belgrano y se ofrece '''excelente remuneración'''. Para más información por favor contactarse con Andrés Riancho a <<MailTo(andres EN bonsai GUION sec PUNTO com)>> . Gracias!
-
- * (10/06/2010) [[http://www.air-track.com.ar|AirTrack]] seleccionará un programador web Python de tiempo completo para sus oficinas en Rosario, Santa Fe, Argentina. El sistema está escrito enteramente en Python, utiliza Pylons, SqlAlchemy, D-Bus y eventlet. Conocimientos en Ajax, Comet, TDD (Test-driven Development) y CI (Continous Integration) son valorados. Si estás interesado mandá tu CV a <<MailTo(rrhh EN air GUION track PUNTO com PUNTO ar)>> .
-
- * (03/05/2010) Busco un programador Freelance para un proyecto nuevo bien remunerado, chico, de unos ~2 meses en Django para empezar en Junio a mas tardar. La mayor cantidad del trabajo puede ser remoto, pero requiere algo de trabajo en el lugar (Palermo, Capital Federal). Conocimientos en AJAX y TDD son valorados. Si te interesa, mandame un mail con alguna descripcion de tu experiencia a: <<MailTo(argentina EN gmail PUNTO com)>>
-
- * (16/03/2010) [[http://www.quipugmbh.com|Quipu GmbH]] seleccionará 2 programadores/consultores de tiempo completo para su sistema de datawarehouse/reporting. El sistema está escrito enteramente en Python, utiliza Django y WxWindows como interfase de usuario, Microsoft SQL como base de datos relacional/OLAP y OS Windows. La experiencia previa con Python será valorada pero no es excluyente. El lugar de trabajo es en Villa Crespo, Capital Federal. Requisitos adicionales: muy buen manejo de inglés tanto escrito como oral, posibilidad de viajes de trabajo cortos o largos, capacidad de trabajo en equipo y buena actitud para trabajar con los usuarios. Si estás interesado mandá tu CV a <<MailTo(argstaff EN quipugmbh PUNTO com)>>
-
- * (26/02/2010) [[http://www.nic.ar|Nic.ar]] seleccionará programadores con experiencia en lenguaje Python, para participar de un grupo de trabajo de implementación de sistemas. Más información en http://www.nic.ar/seleccion.html
-
- * (23/02/2010) [[http://phonetag.com/|PhoneTag]] is looking for a GNU/Linux Systems Administrator to help take its infrastructure to the next level. This is a great opportunity to work in a dynamic environment, where your opinion and work matter, with great professionals and the advantage of working remotely. Please contact lgpanaro at gmail with CV and links to know more details.
-
- * (12/02/2010) U.S. based web development house looking for someone with at least a year of Django experience and 3 years of Python experience. Some admin knowledge to install and debug problems on Linux environments. Basic working knowledge of version control system. Candidates with strong HTML/CSS and Javascript experience preferred. Must be able to work remotely and communicate effectively via email and IM. Experience with Agile development environements preferred but not required. Have the ability to attend phone conferences via Skype from time to time. <<MailTo(ed EN menendez PUNTO com)>>
-
-== 2009 ==
- * (29/12/2009) [[http://www.msa.com.ar|MSA]] busca ampliar su equipo de desarrollo, el cual tendrá a cargo un proyecto muy interesante con tecnologías Web y Open Source, como Python y Linux. Son deseables conocimientos de Desarrollo Web, PostgreSQL, PyGTK y SQL. Buscamos gente proactiva, con habilidades autodidactas y afinidad al Software Libre, dentro del área de Capital Federal, al menos mientras dure el "start-up" del proyecto. Si pensás que puede interesarte la propuesta, no dejes de comunicarte con nosotros vía mail con el CV y/o pretensiones a <<MailTo(rrhh EN msa PUNTO com PUNTO ar)>> .
-
- * (22/12/2009)  * En el Ministerio de Salud de la Ciudad de Buenos Aires, estamos necesitando programadores python y php para mantenimiento de proyectos existentes y creación de nuevos. Los desarrollos son varios y están armados en Python(Wxpython, GTK y Django) gran parte de las aplicaciones están también desarrolladas en PHP. Usamos bases de datos Mysql y Postgresql, y Debian/Ubuntu como sistemas operativos. El horario de trabajo es de 6 horas (en general +1 de almuerzo) y es flexible. Como condición es necesario ser monotributista. Interesados enviar email a <<MailTo(dgasis PUNTO gcba EN gmail PUNTO com)>>
-
- * (15/12/2009) En [[http://www.equiposcreativos.com | Equipos Creativos] (Córdoba) estamos creando un sistema de generacion de contenido automatico. Para ello, buscamos un programador Python con conocimientos en aprendizaje automático, manejo de probabilidades y/o procesamiento del lenguaje natural. Interesados enviar email a <<MailTo(rrhh EN equiposcreativos PUNTO com)>>
-
- * (19/11/2009) En [[http://www.devsar.com|devsAr]] (La Plata) estamos incorporando desarrolladores python/django en relación de dependencia y freelance. Los interesados completar el formulario en http://www.devsar.com/jobs o escribir a: <<MailTo(rrhh EN devsar PUNTO com)>>
- * (02/11/2009) En Lambda Sistemas trabajamos con Python, wxPython, PostgreSQL y diversos frameworks web en Python. Desarrollamos un sistema de gestión para la industria del libro (http://www.fierro-soft.com.ar) y sitios web para este y otros sectores. Estamos en Capital Federal, Villa Crespo. Interesados enviar CV a: <<MailTo(rrhh EN fierro GUION soft PUNTO com PUNTO ar)>> .
-
- * (18/09/2009) CME Argentina SA busca urgente!! Python/C Developers para su oficina en Mendoza. Interesados enviar CV y pretensiones a <<MailTo(jobs PUNTO argentina EN gotocme PUNTO com)>> .
- * (22/07/2009) Creciente equipo de desarrollo quiere contactarse con desarrolladores Python(principalmente django) freelance para futuros proyectos. Enviar CV, costo por hora y si tenés alguna muestra de trabajo, tambien. <<MailTo(freelance EN tribalo PUNTO com PUNTO ar)>>
-
- * (11/05/2009) La Facultad de Medicina incorporara 1 (un) programador Python, para programar en entornos web. Es necesario tener conocimientos de PostgreSQL y Linux (basico). Horario: 5 horas diarias, de lunes a viernes (horario a convenir). Salario ofrecido: $1800.- Debe ser monotributista. Interesados enviar CV a <<MailTo(empleos EN fmed PUNTO uba PUNTO ar)>>
-
- * (22/04/2009) Estoy buscando un desarrollador '''freelance''' para realizar unas tareas en '''pygtk'''. Las tareas a realizar se encuentran muy bien definidas, ya que será realizar en pygtk un clon de una herramienta que se encuentra en Java. Estas tareas se deberán desarrollar a lo largo de dos o tres meses y son en el contexto de la herramienta '''Open Source''' w3af ([[http://w3af.sf.net|http://w3af.sf.net/]]). Para más información por favor contactarse con Andrés Riancho en <<MailTo(andres EN bonsai GUION sec PUNTO com)>> . Gracias!
-
- * (13/04/2009) Estamos buscando desarrolladores para trabajar con Python en Brainpark (http://www.brainpark.com/). Necesitamos personas con inglés avanzado y que residan en la Ciudad de Buenos Aires (las oficinas están en Flores). Si estás interesado, mandá un mail a <<MailTo(patricio EN brainpark PUNTO com)>> .
-
- * (13/02/2009) Truelogic se encuentra seleccionando desarrolladores Python preferentemente con ingles avanzado (no es excluyente) en todos los niveles para importantes desarrollos locales e internacionales, seria deseable que cuente con experiencia comprobable en HTML y CSS y tenga muchas ganas de crecer profesionalmente asi como económicamente.  Ofrecemos remuneración acorde a función + beneficios propios del sector al que pertenecerá + capacitación in sittu + excelente clima laboral.  Los interesados deberán enviarnos remuneración pretendida y referencia PY.THON a <<MailTo(vtardito EN truelogic PUNTO com PUNTO ar)>> .
-
- * (05/02/2009) En Machinalis (http://machinalis.com) trabajamos con Python, Django, Zope, Plone. Somos un startup en Córdoba en busca de programadores experimentados con ganas de trabajar en proyectos desafiantes. Si te interesa, escribí a <<MailTo(info EN machinalis PUNTO com)>> .
-
-== 2008 ==
- * (22/12/2008) Estamos buscando profesionales que quieran desarrollar con Python para un cliente europeo. Es fundamental tener un nivel intermedio-avanzado de inglés dado que va a haber mucho contacto con el cliente. El contexto laboral es cómodo y divertido pero con objetivos claros y desafiantes que incitan a mejorar constantemente. No duden en contactarse con nosotros y dejar su C.V.: <<MailTo(cv EN globant PUNTO com)>>
-
- * (17/11/2008) En atommica nos apasionan nuestros proyectos y se nota, pero para poder terminarlos *todos* necesitamos de tu talento. Somos un startup con muchas ideas frezcas, si tenés ganas de aprender (y por qué no, enseñarnos) es tu oportunidad. Mas info en http://atommica.com/jobs.html o mandanos un mail a <<MailTo(python EN atommica PUNTO com)>>
-
- * (22/10/2008) Con Vista Al Mar busca programadores Python con 1 año de experiencia en desarrollo web (Django y frameworks similares). Buen clima de trabajo. Horario: 10hs a 19hs, en Barrio Norte, Capital. Enviar remuneración pretendida y CV a <<MailTo(python EN convistaalmar PUNTO com PUNTO ar)>>
-
- * (13/08/2008) Empresa de hosting está buscando programadores Junior en Python para armar nuevo equipo de desarrollo. Full-Time, 8hrs. en Capital Federal, enviar CV a <<MailTo(ivan EN reptoland PUNTO com)>>
-
- * (18/06/2008) Para importante proyecto de software ERP Open Source, estamos en la búsqueda de programadores Python que posean preferentemente conocimientos de PostgreSQL (no excluyente). En PuertaTotal estamos creciendo y necesitamos tu conocimiento. Te ofrecemos un muy buen ambiente de trabajo con posibilidades de progreso. Zona de Trabajo: San Miguel, Gran Bs As. Por favor enviar curriculum a <<MailTo(rrhh EN puertatotal PUNTO com PUNTO ar)>>
-
- * (10/04/2008) Estamos buscando desarrolladores con buenos conocimientos de Python, C++ ó Assembler, para trabajar en nuestras oficinas de Capital Federal (Palermo). CORE es una empresa que desarrolla e investiga tecnología de punta de seguridad informática, para ayudar a las organizaciones a protegerse y reducir el riesgo. Mandános tu CV a <<MailTo(empleos PUNTO argentina EN corest PUNTO com)>> y encontrá más info en www.coresecurity.com/jobopportunities
-
-== 2007 ==
- * (04/10/2007) We're looking for python web developers in switzerland (full time employment). So if you'd like to move to nice switzerland write to <<MailTo(florian PUNTO boesch EN dwsco PUNTO com)>>
-
- * (04/10/2007) Buscamos programadores enérgicos que deseen hacer carrera de superheroe. Se aprecia comunicación fluida en inglés y conocimiento de python, zope y plone (no excluyente). Para trabajar en la ciudad de Córdoba, o remotamente de otras partes del país y del cono sur.  Interesados escribir a <<MailTo(info EN menttes PUNTO com)>> . Mas info en http://labs.menttes.com
-
- * (04/10/2007) Para aplicacion web GIS con información sobre transportes urbanos buscamos desarrollador con conocimiento de Python, Django y PostgreSQL. Contactar a <<MailTo(pedroirusta EN gmail PUNTO com)>> o <<MailTo(sdistefano EN gmail PUNTO com)>>
-
- * (04/10/2007) Desarrolladores senior y junior para proyectos internacionales. Programadores de Python/Zope/Plone para integrar un equipo de desarrollo con desafiantes proyectos internacionales. Interesados enviar curriculum a: <<MailTo(info EN inter GUION cultura PUNTO com)>>
-
- * (04/10/2007) Cooperativa de Trabajo "gcoop" Ltda. busca socios para trabajar en proyectos usando Python y muchas otras herramientas de Software Libre. Más datos en http://www.gcoop.com.ar/
-
- * (04/10/2007) Para proyectos cortos, Vortech necesita programadores que ya conocen otros lenguajes y que están empezando con Python. <<MailTo(empleos EN vortech PUNTO com PUNTO ar)>>
-
-Y si estás buscando trabajo afuera, [[http://www.python.org/community/jobs/|acá]] está la cartelera mundial (tiene un [[http://www.python.org/community/jobs/jobs.rss|RSS]] y todo).
-
-Si estás interesado en que te contacten con ofertas de trabajo agregate en la página InteresadosEnTrabajo.
-
-----
-CategoryTrabajos
+Interesados enviar resume/cv a dgarcia@greelon.com
