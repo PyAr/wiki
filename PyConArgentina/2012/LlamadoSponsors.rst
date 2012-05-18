@@ -34,7 +34,9 @@ Documentos:
  * Globant: contactando... [SebastianBassi]
  * Airtrack? (Rosario, http://www.airtrack.com.ar) [Nadia], esperando respuesta...
  * Core: en tratativas... [Nadia]
-
+ * olx: estan averiguando (lista de pyar)
+ * Popego: contactado via Pythonero (lista de pyar)
+ * Intel: contactado (organizadores)
 
 == Pythoneros ==
 
@@ -54,16 +56,26 @@ Documentos:
 
  * [[http://www.enthought.com/|Entohught]]: contactados [MarianoReingart via EuroPython], lo estan evaluando 
  * [[http://wingware.com/|Wingware]]: email enviado [MarianoReingart], sin respuesta
+ * GitHub: contactado via Juan R. Monti
+ * Canonical: contactado (lista pyar)
+ * Heroku: contactado via formulario web [MarianoReingart]
+ * Dropbox: contactado via formulario web [MarianoReingart]
+ * PyCharm: contactado via formulario web [MarianoReingart]
+ * New Relic: contactado via email [MarianoReingart]
+ * [[http://www.nebula.com|Nebula]]: contactado via formulario web [MarianoReingart]
+ * [[https://www.dotcloud.com|dotcloud]]: contactado via formulario web [MarianoReingart] 
+ * ActiveState: contactado via formulario web [MarianoReingart]
+ * [[http://loggly.com/|loggly]:  contactado via email [MarianoReingart]
+ * [[http://www.revsys.com/|revolution systems]: contactado via email [MarianoReingart]
+ * http://www.aldebaran-robotics.com/en/: contactado via formulario web [MarianoReingart]
+ * http://www.10gen.com: contactado via formulario web [MarianoReingart]
+ * http://www.atlassian.com: contactado via formulario web [MarianoReingart]
 
 = Sponsors que Falta Contactar =
 
 Nos falta info de contacto de las siguientes empresas:
 
  * Google! (por ahora, solo costo pasaje Brett Cannon)
- * GitHub?
- * Intel?
- * Canonical?
- * Popego?
  * Nemo? (Rosario, http://www.nemogroup.com.ar)
  * Atomica?
  * teracore?
@@ -71,7 +83,6 @@ Nos falta info de contacto de las siguientes empresas:
  * Brainpark?
  * menttes
  * log_n
- * olx
 
 Si fuiste el contacto en eventos anteriores, por favor envíanos un mail (reingart@gmail.com, nluczywo@gmail.com) o a través del grupo de organización (pybaires@googlegroups.com):
 
