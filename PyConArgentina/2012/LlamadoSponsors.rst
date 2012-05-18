@@ -52,6 +52,12 @@ Documentos:
  * Mozilla: enviado mail [MarianoReingart cc FelipeLerena], sin respuesta
  * ANCyT Fonsoft: presentando papeles... [Nadia] y UNQ
 
+== Editoriales ==
+
+ * Packt: enviado mail personal [MarianoReingart]
+ * Pearson: enviado mail por la página [MarianoReingart]
+ * O'Reilly: enviado mail por la página [MarianoReingart]
+
 == Internacionales ==
 
  * [[http://www.enthought.com/|Entohught]]: contactados [MarianoReingart via EuroPython], lo estan evaluando 
