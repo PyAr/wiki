@@ -53,6 +53,7 @@ Si estas cerca o tenes alguna relación con una universidad, empresa o instituci
 ||Manuel Muradás ||<<MailTo(  mmuradas EN  dieresys PUNTO com PUNTO ar)>> ||UADE || ||
 ||Manuel Muradás ||<<MailTo(  mmuradas EN  dieresys PUNTO com PUNTO ar)>> ||"José Hernandez" E.E.T. Nº7 de Avellaneda || ||
 ||Diego Mascialino ||<<MailTo(  dmascialino EN  gmail PUNTO com)>> ||UBA - Facultad de Ingeniería, Biblioteca "Ing Butty" y Biblioteca del LABI || ||
+||Emiliano López ||<<MailTo(  emiliano.lopez EN  gmail PUNTO com)>> ||Universidad Nacional del Litoral (SFe) - Facultad de Ingeniería y Ciencias Hídricas, Facultad de Ingeniería Química || ||
 
 Para más información, escribe a la ListaDeCorreo
 
