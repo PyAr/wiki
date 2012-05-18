@@ -22,6 +22,7 @@ Si estas cerca o tenes alguna relación con una universidad, empresa o instituci
 ||Sebastián Bassi ||<<MailTo(  sbassi EN  gmail PUNTO com)>> ||Universidad Nacional de Quilmes || ||
 ||Sebastián Bassi ||<<MailTo(  sbassi EN  gmail PUNTO com)>> ||UNNOBA || ||
 ||Mariano Reingart||<<MailTo(  reingart EN  gmail PUNTO com)>> ||Universidad de Morón || ||
+||Mariano Reingart||<<MailTo(  reingart EN  gmail PUNTO com)>> ||Instituto Superior Tecnológico Blaise Pascal || ||
 ||Martín Gaitán ||<<MailTo(  gaitan EN  gmail PUNTO com)>> ||Universidad Nacional de Córdoba || ||
 ||Federico Vincenti ||<<MailTo(  federicovincenti EN  gmail PUNTO com)>> ||Universidad Católica de Santiago del Estero - Departamento Académico Rafaela || ||
 ||Marcos Alcazar ||<<MailTo(  marcos.alcazar EN  gmail PUNTO com)>> ||UTN - Facultad Regional Mendoza || ||
