@@ -20,6 +20,10 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 
+==== 07/05/2012 ====
+
+Python Argentina se enorgullece de anunciar que está abierto el período de recepción de propuestas para [[http://ar.pycon.org/2012|PyCon Argentina 2012]] Más información e instrucciones para envío, [[http://ar.pycon.org/2012/conference/proposals|aquí]].
+
 ==== 1/07/2011 ====
 
 Python Argentina se enorgullece de anunciar la versión 0.7 de la CDPedia.  Esta versión fue entregada a Educ.ar para ser distribuida en escuelas del todo el país, y ya está disponible para la descarga pública. Más información e instrucciones para la descarga, [[http://cdpedia.python.org.ar/|aquí]].
