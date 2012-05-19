@@ -22,7 +22,7 @@
 
 ==== 07/05/2012 ====
 
-Python Argentina se enorgullece de anunciar que está abierto el período de recepción de propuestas para [[http://ar.pycon.org/2012|PyCon Argentina 2012]] Más información e instrucciones para envío, [[http://ar.pycon.org/2012/conference/proposals|aquí]].
+Python Argentina se enorgullece de anunciar que está abierto el período de recepción de propuestas para [[http://ar.pycon.org/2012|PyCon Argentina 2012]], con fecha límite '''30 de Junio de 2012'''. Más información e instrucciones para envío, [[http://ar.pycon.org/2012/conference/proposals|aquí]].
 
 ==== 1/07/2011 ====
 
