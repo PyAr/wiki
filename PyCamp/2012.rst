@@ -77,5 +77,8 @@ Para los que vamos desde el interior y nos juntamos antes: [[PyCamp/2012/DelInte
  
  Ver [[PyCamp/2012/QueLlevar|Lista de cosas a llevar]]
 
+== Workshop Pre-PyCamp ==
+ 
+ Ver [[PyCamp/2012/Workshop|Workshop]]
 ----
 CategoryPyCamp
