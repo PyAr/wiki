@@ -2,6 +2,8 @@
 
 este ejemplo muestra como usar un contenedor de botones para agregar botones y hacer que mantengan su tamanio óptimo y se distribuyan por la pantalla de manera homogénea.
 
+{{attachment:buttonbox-demo.png}}
+
 {{{
 #!code python
 import gtk
