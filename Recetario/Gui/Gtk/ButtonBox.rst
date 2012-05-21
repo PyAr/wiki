@@ -30,6 +30,6 @@ gtk.main()
 
 == Mas Información ==
 
-* http://pygtk.org/docs/pygtk/class-gtkhbuttonbox.html
-* http://pygtk.org/docs/pygtk/class-gtkbuttonbox.html
-* http://pygtk.org/docs/pygtk/class-gtkbox.html
+ * http://pygtk.org/docs/pygtk/class-gtkhbuttonbox.html
+ * http://pygtk.org/docs/pygtk/class-gtkbuttonbox.html
+ * http://pygtk.org/docs/pygtk/class-gtkbox.html
