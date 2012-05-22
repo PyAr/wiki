@@ -1,5 +1,7 @@
 = Trabajos con Python =
 == 2012 ==
+ *  (22/05/2012) Se busca desarrolladores Python con al menos dos años de experiencia, son requeridos conocimientos de desarrollo web, Django y Linux. Modalidad de  trabajo remoto, un mínimo de 10 hs semanales, con 2 reuniones por semama en nuestras oficinas en palermo. <<MailTo(wildecity EN gmail PUNTO com)>>
+
  * (08/05/2012) Se busca desarolladores web Python con experiencia en framework Django y Bases de datos, para trabajar en un start-up orientado a mejorar la experiencia de los consumidores a través de la generación de movimientos colectivos integrados a las redes sociales. Se valorará la experiencia que tengas en otros lenguajes como PHP y Javascript/Jquery. La búsqueda es para Córdoba Capital. Se requiere disponibilidad full-time y part-time. Enviá tu curriculum, detallando conocimientos, experiencia laboral y links a trabajos realizados a rrhh@tuquejasuma.com , asunto: “Búsqueda Django”.
 
  * (23/04/2012) Estamos buscando programador Junior y Senior, para un startup que arranco en Abril. Es un proyecto con financiacion privada, y con un modelo de negocio a futuro muy prometedor. La mision principal de la empresa es desarrollar aplicaciones web focalizadas por rubro. Somos un equipo formado por jovenes profesionales; ingenieros en sistemas, diseñadores graficos y administrador de empresa.Estamos radicados en la Zona de Tigre - Nordelta con oficinas propias. Interesados contactarse via mail a <<MailTo(agustin.iglesias EN tokkobroker PUNTO com)>>
