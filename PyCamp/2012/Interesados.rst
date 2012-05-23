@@ -42,7 +42,7 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
 ||RicardoKirkner||Omnívoro||Si||
 ||Roberto Alsina|| || Si ||
 ||SantiagoPiccinini|| Omnívoro ||Sí||
-
+||OttoWald|| Omnívoro ||Sí||
 
 ''' Interesados''' (tengo ganas pero no estoy seguro):
 
