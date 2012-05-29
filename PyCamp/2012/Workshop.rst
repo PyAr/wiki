@@ -51,8 +51,7 @@ Gracias por esta ayuda, coordinemos la misma también por privado [0].
 
 == Lista de interesados para asistir ==
 
- * Fulano
- * Mengano
+ * OttoWald
 
 
 === Contacto ===
