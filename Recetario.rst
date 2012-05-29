@@ -251,5 +251,9 @@ MapeandoMemoria: Cómo generar un mapa de la memoria con heapy
 
 == Python en Apache OpenOffice / LibreOffice ==
 
+== Crypto ==
+
+[[/Crypto/BlowfishConBlowfishpy]]: como encriptar usando el modulo blowfish.py
+
 ----
 CategoryRecetas
