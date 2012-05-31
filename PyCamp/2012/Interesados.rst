@@ -49,6 +49,7 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
 
 ||'''Nombre''' ||'''Cuándo vas a saber?'''||
 ||Guillermo Gonzalez|| 1-2 Junio ||
+||EugeniaBahit|| 1-2 Junio ||
 
 ----
 CategoryPyCamp
