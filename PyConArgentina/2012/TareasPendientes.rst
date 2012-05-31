@@ -13,12 +13,13 @@ Para más info ver: http://wiki.python.org/moin/ConventionHowto
 
 == Difusión ==
 
- * Difundir [[PyConArgentina/2012/LlamadoSponsors]], [[PyConArgentina/2012/LlamadoPropuestas]], etc. !!!!! 
+ * --(Difundir [[PyConArgentina/2012/LlamadoSponsors]], [[PyConArgentina/2012/LlamadoPropuestas]], etc. !!!!! )--
  * Difundir [[PyConArgentina/2012/PressRelease]]
  * Anunciar cada keynote (entrada en el blog con bio y contenido charlas)
   * Massimo
   * Andrea
   * Brett
+  * Christophe
  * Armar AnuncioPublicitario gráfico y/o radial?
  * --(Crear Flyers / Panfletos para pegar cada un mes y medio en las facultades de Buenos Aires e Interior!)--
  * Anunciar Tutoriales y Charlas (cuando esten definidos)
