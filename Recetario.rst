@@ -255,5 +255,8 @@ MapeandoMemoria: Cómo generar un mapa de la memoria con heapy
 
 [[/Crypto/BlowfishConBlowfishpy]]: como encriptar usando el modulo blowfish.py
 
+== Divertidos ==
+
+[[/Fun/NadoSincronizado]]: bailarín de nado sincronizado en tu consola!
 ----
 CategoryRecetas
