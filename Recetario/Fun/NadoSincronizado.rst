@@ -2,6 +2,8 @@
 
 un generador de nado sincronizado
 
+<<Video(http://marianoguerra.com.ar/random/nado.ogv)>> 
+
 {{{
 #!code python
 import sys
