@@ -258,5 +258,8 @@ MapeandoMemoria: Cómo generar un mapa de la memoria con heapy
 == Divertidos ==
 
 [[/Fun/NadoSincronizado]]: bailarín de nado sincronizado en tu consola!
+
+[[/Fun/NadoSincronizadoDisco]]: bailarín de nado sincronizado en tu consola con luces de colores!
+
 ----
 CategoryRecetas
