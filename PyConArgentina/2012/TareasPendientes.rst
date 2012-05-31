@@ -20,7 +20,7 @@ Para más info ver: http://wiki.python.org/moin/ConventionHowto
   * Andrea
   * Brett
  * Armar AnuncioPublicitario gráfico y/o radial?
- * Crear Flyers / Panfletos para pegar cada un mes y medio en las facultades de Buenos Aires e Interior!
+ * --(Crear Flyers / Panfletos para pegar cada un mes y medio en las facultades de Buenos Aires e Interior!)--
  * Anunciar Tutoriales y Charlas (cuando esten definidos)
  * Difundir [[PyConArgentina/2012/InvitacionAlPublico]]
  * Enviar recordatorios y notificaciones
@@ -29,9 +29,12 @@ Para más info ver: http://wiki.python.org/moin/ConventionHowto
 == Contenidos Web ==
 
  * Terminar página http://ar.pycon.org/2012/conference/publicize?lang=es (traducir de http://ar.pycon.org/2012/conference/publicize?lang=en)
- * Traducir http://ar.pycon.org/2012/conference/proposals?lang=en (al ingles)
+ * --(Traducir http://ar.pycon.org/2012/conference/proposals?lang=en (al ingles) )--
  * Traducir http://ar.pycon.org/2012/conference/diversity?lang=es (al español)
  * Crear página http://ar.pycon.org/2012/conference/registration?lang=es (traducir de http://ar.pycon.org/2012/conference/registration?lang=en)
+ * --(Crear página http://ar.pycon.org/2012/conference/volunteer?lang=es)-- [MarianoReingart]
+ * Crear página http://ar.pycon.org/2012/conference/press [MarianoReingart]
+
 
 == Revisión y Selección de Charlas ==
 
@@ -40,32 +43,31 @@ Para más info ver: http://wiki.python.org/moin/ConventionHowto
  * Reunir por IRC del comité de programa
  * Definir charlas y enviar notificaciones
  * Armar Cronograma
- * Definir Paneles (Summit)
+ * --(Definir Paneles (Summit) )-- suspendido por el momento
 
 == Sitio Web ==
 
  * --(Corregir temas envio de propuesta)-- [MarianoReingart]
  * Armar Twitteador!!
- * Aplicar últimas correcciones menu y demás [MarianoReingart]
+ * --(Aplicar últimas correcciones menu y demás)-- [MarianoReingart]
  * Ajustar notificaciones (incluir url del comentario, actividad, etc.)
- * Terminar de traducir página [[http://ar.pycon.org/2012/conference/proposals?lang=en|call for proposals]]
- * Preparar Integración con DineroMail (bono contribución)
+ * Preparar Integración con DineroMail (bono contribución) [AlanEtkin]
  * Probar generación de PDF (badge y certificados)
- * Mejorar Schedule (Cronograma), hacer una tabla como [[https://us.pycon.org/2012/schedule/|PyCon US]]
- * Integrar con Google Calendar / iCal
+ * --(Mejorar Schedule (Cronograma), hacer una tabla como [[https://us.pycon.org/2012/schedule/|PyCon US]])-- [AlanEtkin]
+ * Integrar con Google Calendar / iCal [AlanEtkin]
 
 == Gráfica ==
 
- * --(Diseñar Logo y CSS para web)--
- * Diseñar logo light 
- * Diseñar banner web
- * Diseñar Afiche
- * Diseñar Folletos para repartir
+ * --(Diseñar Logo y CSS para web)-- 
+ * --(Diseñar logo light)--
+ * --(Diseñar banner web)--
+ * --(Diseñar Afiche)--
+ * --(Diseñar Folletos para repartir)--
  * Diseñar Badge
  * Diseñar Certificado
  * Diseñar Estandartes
  * Diseñar Cartelería en general (aulas, registración, etc.)
- * Diseñar Remeras (organizadores y público)
+ * Diseñar Remeras (organizadores y público) [JuanBC]
  * Diseñar Invitación a fiestas after y cierre
 
 == Impresiones, Materiales y Regalos ==
@@ -74,8 +76,8 @@ Para más info ver: http://wiki.python.org/moin/ConventionHowto
  * Editar la PET
  * Imprimir Programas! (conseguir imprenta "flexible"...)
  * Imprimir PETs! (conseguir imprenta "flexible"...)
- * Definir y Comprar Regalo a disertantes
- * Definir y Comprar Bolsas o Carpetas
+ * --(Definir y Comprar Regalo a disertantes)-- terminados y empaquetados (JuanBC)
+ * --(Definir y Comprar Bolsas o Carpetas)-- resuelto con sponsor
  * Definir y Comprar Identificadores y Colgante
  * Definir y Comprar "Recuerdo" Público General
  * Hacer merchandising (stickers, pines, etc.)
@@ -110,5 +112,5 @@ Para más info ver: http://wiki.python.org/moin/ConventionHowto
 == Fiestas y Social ==
 
  * PyCon After Party: definir empresa de Catering y contratar!
- * PyCon Cena: Reservar lugar, averiguar presupuestos, contratar!
+ * PyCon Cena: Reservar lugar, averiguar presupuestos, contratar! [JuanBC] y [MarcosVanetta]
  * Definir picnic y actividades día turístico
