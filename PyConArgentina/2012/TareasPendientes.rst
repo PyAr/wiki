@@ -28,7 +28,7 @@ Para más info ver: http://wiki.python.org/moin/ConventionHowto
 
 == Contenidos Web ==
 
- * Terminar página http://ar.pycon.org/2012/conference/publicize?lang=es (traducir de http://ar.pycon.org/2012/conference/publicize?lang=en)
+ * --(Terminar página http://ar.pycon.org/2012/conference/publicize?lang=es (traducir de http://ar.pycon.org/2012/conference/publicize?lang=en) )--
  * --(Traducir http://ar.pycon.org/2012/conference/proposals?lang=en (al ingles) )--
  * Traducir http://ar.pycon.org/2012/conference/diversity?lang=es (al español)
  * Crear página http://ar.pycon.org/2012/conference/registration?lang=es (traducir de http://ar.pycon.org/2012/conference/registration?lang=en)
@@ -39,6 +39,7 @@ Para más info ver: http://wiki.python.org/moin/ConventionHowto
 == Revisión y Selección de Charlas ==
 
  * Hacer el llamado a revisores para formar el comité de programa
+ * Hacer el llamado a votación del público (preferencias no vinculantes)
  * Pre-seleccinar charlas (en el PyCamp)
  * Reunir por IRC del comité de programa
  * Definir charlas y enviar notificaciones
@@ -54,29 +55,30 @@ Para más info ver: http://wiki.python.org/moin/ConventionHowto
  * Preparar Integración con DineroMail (bono contribución) [AlanEtkin]
  * Probar generación de PDF (badge y certificados)
  * --(Mejorar Schedule (Cronograma), hacer una tabla como [[https://us.pycon.org/2012/schedule/|PyCon US]])-- [AlanEtkin]
- * Integrar con Google Calendar / iCal [AlanEtkin]
+ * Integrar con Google Calendar / iCal
 
 == Gráfica ==
 
  * --(Diseñar Logo y CSS para web)-- 
- * --(Diseñar logo light)--
- * --(Diseñar banner web)--
- * --(Diseñar Afiche)--
- * --(Diseñar Folletos para repartir)--
- * Diseñar Badge
- * Diseñar Certificado
- * Diseñar Estandartes
+ * --(Diseñar logo light)-- [JuanBC]
+ * --(Diseñar banner web)-- [JuanBC]
+ * --(Diseñar Afiche)-- [JuanBC] y [MarianoReingart]
+ * --(Diseñar Folletos para repartir)-- [JuanBC] y [MarianoReingart]
+ * Diseñar Badge [JuanBC]
+ * Diseñar Certificado [JuanBC]
+ * Diseñar Estandartes [JuanBC]?
  * Diseñar Cartelería en general (aulas, registración, etc.)
  * Diseñar Remeras (organizadores y público) [JuanBC]
+ * Diseñar regalo al público [JuanBC]
  * Diseñar Invitación a fiestas after y cierre
 
 == Impresiones, Materiales y Regalos ==
 
  * Preparar la Guia de Programa [JuanBC]
- * Editar la PET
+ * Editar la PET [JuanBC]
  * Imprimir Programas! (conseguir imprenta "flexible"...)
  * Imprimir PETs! (conseguir imprenta "flexible"...)
- * --(Definir y Comprar Regalo a disertantes)-- terminados y empaquetados (JuanBC)
+ * --(Definir y Comprar Regalo a disertantes)-- terminados y empaquetados [JuanBC]
  * --(Definir y Comprar Bolsas o Carpetas)-- resuelto con sponsor
  * Definir y Comprar Identificadores y Colgante
  * Definir y Comprar "Recuerdo" Público General
@@ -86,7 +88,7 @@ Para más info ver: http://wiki.python.org/moin/ConventionHowto
 
  * Negociar con hoteles locales
  * Reservar lugar para invitados internacionales
- * Contratar remis para invitados internacionales (AEP/EZE -> Bue y Bue<->UNQ)
+ * Contratar remis/combi para invitados internacionales (AEP/EZE -> Bue y Bue<->UNQ)
  * Nogociar transporte grupal local Bue->UNQ (combis?, micros escolares?)
  * Coordinar [[PyConArgentina/2012/AlojamientoCompartido]] y [[PyConArgentina/2012/TransporteCompartido]]
 
@@ -95,7 +97,7 @@ Para más info ver: http://wiki.python.org/moin/ConventionHowto
  * Armar bolsas / carpetas con programa, PET, merchandizing, etc.
  * Armar stand de registración
  * Reunir Encargados de Registración
- * Instalar PC para 
+ * Instalar PC para seguimiento de asistentes
  * Distribuir Credenciales y materiales!
  * Entregar Remeras y Bolsas!
 
@@ -112,5 +114,5 @@ Para más info ver: http://wiki.python.org/moin/ConventionHowto
 == Fiestas y Social ==
 
  * PyCon After Party: definir empresa de Catering y contratar!
- * PyCon Cena: Reservar lugar, averiguar presupuestos, contratar! [JuanBC] y [MarcosVanetta]
- * Definir picnic y actividades día turístico
+ * PyCon Fiesta de Cierre: Reservar lugar, averiguar presupuestos, contratar! [JuanBC] y [MarcosVanetta]?
+ * Definir y organizar picnic y actividades recreativas día turístico (asado en el tigre?)
