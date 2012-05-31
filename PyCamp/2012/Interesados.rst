@@ -33,6 +33,7 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
 ||GonzaloOdiard||Cualquier cosa||No||
 ||HectorSanchez|| Un asadito ||Sí||
 ||Hugo Ruscitti|| || Si ||
+||[[JoaquinSorianello|Joac]]|| Comida || Si ||
 ||JuanFisanotti||Todo menos banana (soy alérgico -_-)||Si||
 ||Manuel Kaufmann|| || Si ||
 ||Manuel Quiñones||  ||Todavía no||
