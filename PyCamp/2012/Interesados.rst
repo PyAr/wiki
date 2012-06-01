@@ -29,6 +29,7 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
 ||DavidLitvak||Vegetariano||Not yet||
 ||Diego Mascialino|| ||Sí||
 ||Diego Sarmentero|| || Si ||
+||EugeniaBahit|| comida!! ||No||
 ||Facundo Batista|| || Si ||
 ||GonzaloOdiard||Cualquier cosa||No||
 ||HectorSanchez|| Un asadito ||Sí||
@@ -45,7 +46,6 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
 ||SantiagoPiccinini|| Omnívoro ||Sí||
 ||OttoWald|| Omnívoro ||Sí||
 ||hernantz|| Omnívoro ||Sí||
-||EugeniaBahit|| comida!! ||No||
 
 
 ''' Interesados''' (tengo ganas pero no estoy seguro):
