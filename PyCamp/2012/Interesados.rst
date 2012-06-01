@@ -45,7 +45,7 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
 ||SantiagoPiccinini|| Omnívoro ||Sí||
 ||OttoWald|| Omnívoro ||Sí||
 ||hernantz|| Omnívoro ||Sí||
-||EugeniaBahit|| comida!! || No ||
+||EugeniaBahit|| comida!! ||No||
 
 
 ''' Interesados''' (tengo ganas pero no estoy seguro):
