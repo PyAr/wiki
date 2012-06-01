@@ -35,6 +35,7 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
 ||HectorSanchez|| Un asadito ||Sí||
 ||HoracioDuran|| Un asadito++ ||Sí||
 ||Hugo Ruscitti|| || Si ||
+||Javier Mansilla|| || Sí ||
 ||[[JoaquinSorianello|Joac]]|| Comida || Si ||
 ||JuanFisanotti||Todo menos banana (soy alérgico -_-)||Si||
 ||Manuel Kaufmann|| || Si ||
