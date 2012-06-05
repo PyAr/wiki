@@ -261,5 +261,7 @@ MapeandoMemoria: Cómo generar un mapa de la memoria con heapy
 
 [[/Fun/NadoSincronizadoDisco]]: bailarín de nado sincronizado en tu consola con luces de colores!
 
+[[/Fun/MiniSpaceInvaders]]: Un mini space invaders usando caracteres.
+
 ----
 CategoryRecetas
