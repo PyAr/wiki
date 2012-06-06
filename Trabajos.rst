@@ -1,6 +1,9 @@
 = Trabajos con Python =
 == 2012 ==
 
+ *  (06/06/2012) Machinalis En Machinalis (Córdoba) estamos buscando personas que, con conocimientos de Python (y de Django suma), sepan realizar Análisis Funcional, se muevan bien con las metodologías ágiles y quieran en el
+corto/mediano plazo estar dirigiendo proyectos pythónicos. ¿Requisitos? Ser buen/a tip@, saber metodologías ágiles, tener buena comunicación (tanto en español como inglés) con gente técnica y no-técnica (clientes, equipos de desarrollo y resto de Machinalis), gustar de resolver problemas proactivamente aún cuando se tenga poca información, y querer colocar a Argentina en la cúspide mundial de la provisión de servicios y tecnología pythónica. A riesgo de parecer un recruiter molesto más, si te interesa, pinguea sin mucho protocolo a msponton@machinalis.com y charlamos.
+
  *  (06/06/2012) Intel Software de Argentina está buscando programadores Python para incorporarse a su equipo de trabajo en Córdoba Capital. Requisitos: Ingenieros en Sistemas, Computación o afín con más de 5 años de experiencia relacionada. Interesados enviar CV a empleos.asdc@intel.com. Referencia: pyar-python
 
  *  (28/05/2012) MSA está buscando programadores Python con al menos un año de experiencia para trabajar con tecnologías Web, Linux (Ubuntu), y Software Open Source en general. Son deseables conocimientos de Desarrollo Web y PHP. Buscamos gente proactiva, con habilidades autodidactas y afinidad al Software Libre, dentro del área de Capital Federal o Gran Bs.As. Hay posibilidades de trabajar a distancia (no más de uno/dos días a la semana), siempre con flexibilidad horaria y de relación laboral. Si pensás que puede interesarte la propuesta, no dejes de comunicarte con nosotros vía mail con el CV y/o pretensiones a <rrhh EN msa PUNTO com PUNTO ar>.
