@@ -49,6 +49,7 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
 ||OttoWald|| Omnívoro ||Sí||
 ||hernantz|| Omnívoro ||Sí||
 ||ClaudioBidau|| Vegetariano ||Sí||
+||Leonardo Vidarte|| no diet ||No||
 
 
 ''' Interesados''' (tengo ganas pero no estoy seguro):
