@@ -16,6 +16,7 @@ Si hay interesados, se puede encarar como se comento en IRC, de hacer ninja comp
 Juegos de Mesa:
  * Zug (parecido al Carcassone, pero con trenes, y ambientado en Tucumán!)
  * Illuminati
+ * Munchkin
  * Battlestar Galáctica
  * Go
 
