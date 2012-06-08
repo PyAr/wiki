@@ -1,5 +1,6 @@
 = Trabajos con Python =
 == 2012 ==
+ *  (07/06/2012 Buscamos un programador que domine el lenguaje Python para customizar el progama OpenERP. Sus tareas se centraran en la reingenieria del sistema de gestión de la Compañia y mantenimeinto del mismo. Se requiere disponibilidad Part-time o freelance. Se valorara experiencia en tareas anteriores similares. Quiene quieran postularse deberan enviar CV a gerencia@bagservice.com.ar y en el asunso colocar OpenErp.
 
  *  (06/06/2012) En Machinalis (Córdoba) estamos buscando personas que, con conocimientos de Python (y de Django suma), sepan realizar Análisis Funcional, se muevan bien con las metodologías ágiles y quieran en el corto/mediano plazo estar dirigiendo proyectos pythónicos. ¿Requisitos? Ser buen/a tip@, saber metodologías ágiles, tener buena comunicación (tanto en español como inglés) con gente técnica y no-técnica (clientes, equipos de desarrollo y resto de Machinalis), gustar de resolver problemas proactivamente aún cuando se tenga poca información, y querer colocar a Argentina en la cúspide mundial de la provisión de servicios y tecnología pythónica. A riesgo de parecer un recruiter molesto más, si te interesa, pinguea sin mucho protocolo a msponton@machinalis.com y charlamos.
 
