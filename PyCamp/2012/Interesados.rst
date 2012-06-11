@@ -45,6 +45,7 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
 ||ClaudioBidau ||Vegetariano ||Sí ||
 ||Leonardo Vidarte ||no diet ||No ||
 ||Nicolas Bases || ||Sí ||
+||Daniel Stamm ||Lo que venga, un guiso de lentejas, locro para el frio ||No ||
 
 
 
