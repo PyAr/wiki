@@ -19,7 +19,7 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
 ||Alejandro J. Cura ||alimento balanceado ||Sí! ||
 ||Anthony Lenton || ||Sí ||
 ||Claudio Canepa ||lo que venga ||si ||
-||DanielMoisset || || si ||
+||DanielMoisset || ||si ||
 ||DavidLitvak ||Vegetariano ||Not yet ||
 ||Diego Mascialino || ||Sí ||
 ||Diego Sarmentero || ||Si ||
@@ -46,6 +46,8 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
 ||Leonardo Vidarte ||no diet ||No ||
 ||Nicolas Bases || ||Sí ||
 ||Daniel Stamm ||Lo que venga, un guiso de lentejas, locro para el frio ||No ||
+||TiN||lu qui venga y asado++||Si||
+
 
 
 
