@@ -53,6 +53,7 @@ Gracias por esta ayuda, coordinemos la misma también por privado [0].
 
  * OttoWald
  * RobertoAlsina
+ * ManuelKaufmann
 
 
 === Contacto ===
