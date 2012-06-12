@@ -48,6 +48,10 @@ Ahora, ¿a dónde podrías recurrir para obtener información que te inicie en l
  * Libro Python para todos de Raúl González Duque. Introducción al lenguaje e utilización de la librería estándard de python.
   . [[http://mundogeek.net/tutorial-python/|Python para todos]] Raúl González Duque - En español(Licencia Creative Commons)
 
+ * Libro Oficial de web2py de Massimo di Pierro. El lenguaje Python (Capítulo 2)
+  . [[http://www.latinuxpress.com/books/drafts/web2py/caps/cap2.html|documentación oficial web2py (cap.2)]] Massimo di Piero - En español (traducido Latinux, revisado por la comunidad)
+
+
 == Documentación adicional sobre python en español ==
  * Introducción a Python y PostgreSQL Un ejemplo sencillo
   . [[http://users.servicios.retecal.es/tjavier/docfinal/out-htmls/index.html|Introduccion a python/postgresql]] Tomás Javier Robles Prado 2002
@@ -73,6 +77,21 @@ Ahora, ¿a dónde podrías recurrir para obtener información que te inicie en l
 
  * Versión en desarrollo
   . http://docs.python.org/dev/library/index.html
+
+== Apuntes Universitarios ==
+
+Universidad de Buenos Aires, Facultad de Ingenierí a (FIUBA) materia "Algoritmos y Programación 1", cátedra Wachenchauzer, se utiliza Python y estan disponible los materiales en la siguiente página:
+
+ * Página Web:
+  . https://sites.google.com/site/fiuba7540rw/
+
+ * Apuntes
+  . https://sites.google.com/site/fiuba7540rw/home/apunte_7540.pdf
+
+ * Ejercicios
+  . https://sites.google.com/site/fiuba7540rw/home/ejercicios.pdf
+
+
 
 == Ejemplos prácticos de problemas y soluciones frecuentes ==
  * [[http://code.activestate.com/recipes/langs/python/|Python Recipes - ActiveState]] (Inglés)
