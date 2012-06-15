@@ -59,8 +59,7 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
 || Gustavo Signorele || 15 Junio ||
 || Alfredo Ramirez || 15 Junio ||
 || Pablo Diaz Ogni || 15 Junio ||
-
-
+|| SergioSchvezov || 25 Junio ||
 
 ----
 CategoryPyCamp
