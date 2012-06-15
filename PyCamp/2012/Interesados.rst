@@ -26,6 +26,7 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
 ||EugeniaBahit ||comida!! ||No ||
 ||Facundo Batista || ||Si ||
 ||GonzaloOdiard ||Cualquier cosa ||No ||
+||Guillermo Gonzalez || ||No ||
 ||HectorSanchez ||Un asadito ||Sí ||
 ||HoracioDuran ||Un asadito++ ||Sí ||
 ||Hugo Ruscitti || ||Si ||
