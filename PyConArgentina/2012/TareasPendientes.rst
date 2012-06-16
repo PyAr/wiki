@@ -31,7 +31,7 @@ Para más info ver: http://wiki.python.org/moin/ConventionHowto
 
  * --(Terminar página http://ar.pycon.org/2012/conference/publicize?lang=es (traducir de http://ar.pycon.org/2012/conference/publicize?lang=en) )--
  * --(Traducir http://ar.pycon.org/2012/conference/proposals?lang=en (al ingles) )--
- * Traducir http://ar.pycon.org/2012/conference/diversity?lang=es (al español)
+ * --(Traducir http://ar.pycon.org/2012/conference/diversity?lang=es (al español) )--
  * Crear página http://ar.pycon.org/2012/conference/registration?lang=es (traducir de http://ar.pycon.org/2012/conference/registration?lang=en)
  * --(Crear página http://ar.pycon.org/2012/conference/volunteer?lang=es)-- [MarianoReingart]
  * Crear página http://ar.pycon.org/2012/conference/press [MarianoReingart]
