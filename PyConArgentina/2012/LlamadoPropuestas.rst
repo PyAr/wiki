@@ -14,6 +14,7 @@
  * web2py-usuarios@googlegroups.com [MarianoReingart]
  * web2py@googlegroups.com [MarianoReingart]
  * wxpython-users@googlegroups.com [MarianoReingart]
+ * python-brasil@googlegroups.com [MarianoReingart]
 
 == Entrada Blog ==
 
@@ -222,7 +223,7 @@ Other presentation oportunities includes:
 
 Can you show attendees how to use a module? Explore a Python language feature? Package an application? 
 Do you study with Python? Do you research with Python?
-Submit your activity proposal here: 
+You can submit your activity proposal here: 
 
 http://ar.pycon.org/2012/conference/proposals/?lang=en 
 
@@ -231,26 +232,31 @@ Please follow the instructions carefully.
 The proposals should be submitted preferably in Spanish (although English and Portuguese are allowed languages too). 
 
 Submission deadline is June 30th, 2012 23:59 ART (GMT-03)
+Int'l speakers are advised to submit earlier to coordinate their travel needs.
+Reviews starts on June 18th and Public Voting will be from July 1st to July 7th.
+Selected talks will be notified on August 1st.
+Schedule will be published on September 12th.
 
 PyCon Argentina is organized and run by volunteers from the Python community. 
 Anyone can help, and all help is very much appreciated. 
 If you blog, please let your readers know about PyCon. 
 A blog badge is a nice way to enhance such a post: http://ar.pycon.org/2012/conference/publicize/
 
-PyCon Argentina is a free (as in beer) community conference. 
+PyCon Argentina is a non-profit and free (as in beer) community conference. 
 We keep the costs low to make PyCon Argentina accessible to the greatest range of community members possible. 
 This means that PyCon Argentina cannot offer payment to conference speakers. 
 Conference registration, accommodations, and transportation are the responsibility of the speakers.
 
 However, financial aid will be available, and speakers who pay their own way are encouraged to apply. 
 Giving a talk is a great rationale when requesting aid. 
-If you require financial aid in order to attend PyCon Argentina, please note it in your proposal and be sure to apply.
+If you require financial aid in order to attend PyCon Argentina, please note it in your proposal and be sure to apply here: http://ar.pycon.org/2012/fa 
 
 Pre-Confirmed International invited speakers includes so far: 
  * Massimo Di Pierro - De Paul University - web2py / FermiQCD
  * Andrea Gavana - Maersk Oil - wx.lib.agw & 2D/3D visualization
  * Brett Cannon - Google - python core developer: importlib py3k pypy
  * Christophe Pettus - PostgreSQL Experts - Django & ORMs 
+ * Thiago Avelino - Mochii - MongoDB - London
 
 Sponsorship opportunities are open, for further information see:
 http://ar.pycon.org/2012/sponsors/prospectus?lang=en
