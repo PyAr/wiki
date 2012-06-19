@@ -255,6 +255,10 @@ MapeandoMemoria: Cómo generar un mapa de la memoria con heapy
 
 [[/Crypto/BlowfishConBlowfishpy]]: como encriptar usando el modulo blowfish.py
 
+== Multiprocessing y threading (y otras yerbas) ==
+
+[[/MultiprocessingYThreading]]: ejemplo simple de como las apis de threading y multiprocessing son intercambiables.
+
 == Divertidos ==
 
 [[/Fun/NadoSincronizado]]: bailarín de nado sincronizado en tu consola!
