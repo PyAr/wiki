@@ -10,7 +10,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- 
 import urllib 
-ip = urllib.urlopen('http://www.whatismyip.com/automation/n09230945.asp').read() # esta URL puede ser reemplazada con otra que preste similar servicio
+ip = urllib.urlopen('http://automation.whatismyip.com/n09230945.asp').read() # esta URL puede ser reemplazada con otra que preste similar servicio
 print ip
 }}}
 
