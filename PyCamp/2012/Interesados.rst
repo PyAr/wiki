@@ -34,7 +34,7 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
 ||[[JoaquinSorianello|Joac]] ||Comida ||Si ||
 ||JuanFisanotti ||Todo menos banana (soy alérgico -_-) ||Si ||
 ||Manuel Kaufmann || ||Si ||
-||Manuel Quiñones || ||Todavía no ||
+||Manuel Quiñones || ||Sí ||
 ||MarianoReingart ||- ||No ||
 ||MartinAlbisetti ||Lo contrario de lo que coma nessita ||Sí! ||
 ||Pablo Mouzo || ||Si ||
