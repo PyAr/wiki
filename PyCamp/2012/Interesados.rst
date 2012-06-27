@@ -49,7 +49,6 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
 ||TiN||lu qui venga y asado++||Si||
 ||Leonardo Vidarte ||no diet ||No ||
 ||GabrielPatiño || || No ||
-||Gustavo Signorele || || No ||
 ||Alfredo Ramirez || || No ||
 ||Pablo Diaz Ogni || || No ||
 
