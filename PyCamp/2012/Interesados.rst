@@ -51,6 +51,7 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
 ||GabrielPatiño || || No ||
 ||Alfredo Ramirez || || No ||
 ||Pablo Diaz Ogni || || No ||
+||Nicolás Sarubbi || || Si ||
 
 
 
