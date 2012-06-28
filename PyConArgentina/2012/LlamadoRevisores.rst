@@ -24,11 +24,12 @@ Las decisiones son provisoras en este punto, ya que podemos encontrar la misma p
 
 == Charlas de Alto Perfil ==
 
-Independiente de la revisión del comité de programa mencionada anteriormente, cualquier charla de "alto perfil" podría ser identificada y aceptada por el Coordinador General o el Coordinador de Programa (con recomendaciones de los revisores). Plenarias, Keynotes y Charlas del tipo "Estado del proyecto X" para proyectos o implementaciones principales deberán ser identificadas y tratadas de manera diferenciada.
+Independiente de la revisión del comité de programa mencionada anteriormente, cualquier charla de "alto perfil" podría ser identificada y aceptada por el Coordinador General o el Coordinador de Programa (con recomendaciones de los revisores). 
+Plenarias, Keynotes, Charlas de invitados internacionales y del tipo "Estado del proyecto X" para proyectos o implementaciones principales deberán ser identificadas y tratadas de manera diferenciada.
 
 == Páginas Relacionadas ==
 
-El punto de partída para revisar las propuestas es la página de [[http://ar.pycon.org/2012/activity/proposed|Actividades Propuestas]]. 
+El punto de partída para revisar las propuestas es la página de [[http://ar.pycon.org/2012/activity/proposed|Actividades Propuestas]]. Ingresado a cada propuesta, aparecerá el link para revisar (en la esquina superior derecha).
 Para ver el estado de la votación, ir a [[http://ar.pycon.org/2012/activity/ratings|Puntajes]]
 
  1. Actividades Propuestas: http://ar.pycon.org/2012/activity/proposed
