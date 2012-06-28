@@ -15,7 +15,7 @@ Toda la comunicación con autores debe ser realizada vía los comentarios.
 Si ves una propuesta que puede ser buena, pero tiene carencias y no hay material suficiente para realizar la votación, por favor pedirle al autor que actualice su propuesta, usando los comentarios. 
 Sea específico sobre que partes de la propuesta esta incompleta, y sugiera adiciones que puedan mejorarla
 
-Se utiliza un sistema de voto ponderado, donde cada revisor le otorgará a cada propuesta un puntaje entre 1 y 5, según su consideración (a mayor puntaje, más posibilidades de que la charla sea seleccionada)
+Se utiliza un sistema de voto ponderado, donde cada revisor le otorgará a cada propuesta un puntaje entre 1 y 5, según su consideración sobre la calidad y relevancia (a mayor puntaje, más posibilidades de que la charla sea seleccionada)
 
 == Reunión del Comité de Programa ==
 
@@ -28,6 +28,13 @@ Las decisiones son provisoras en este punto, ya que podemos encontrar la misma p
 
 Independiente de la revisión del comité de programa mencionada anteriormente, cualquier charla de "alto perfil" podría ser identificada y aceptada por el Coordinador General o el Coordinador de Programa (con recomendaciones de los revisores). 
 Plenarias, Keynotes, Charlas de invitados internacionales y del tipo "Estado del proyecto X" para proyectos o implementaciones principales deberán ser identificadas y tratadas de manera diferenciada.
+
+== Fechas Importantes ==
+
+ * Llamado a Revisores: 2 de Julio de 2012
+ * Votación: hasta el 15 de Julio de 2012
+ * Preselección: Reuniones por IRC entre el 16 y 31 de Julio de 2012
+ * Notificación de propuestas aprobadas o rechazadas: 1 de Agosto de 2012
 
 == Páginas Relacionadas ==
 
