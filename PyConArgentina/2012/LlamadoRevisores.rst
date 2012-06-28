@@ -5,7 +5,7 @@ Los miembros deben ser reclutados de los proyectos principales para asegurarse d
 
 == Instrucciones para revisores ==
 
-Los revisores debe unirse a la lista de organización, donde se darán las discusiones del comité de programa.
+Los revisores debe unirse al [[http://groups.google.com/group/pybaires|grupo de organización]], donde se darán las discusiones del comité de programa, enviando un primer email de presentación para solicitar acceso al sistema de revisión.
 
 Alentamos a los revisores a votar en todas las propuestas. 
 Toda la comunicación con autores debe ser realizada vía los comentarios.
@@ -15,7 +15,7 @@ Sea específico sobre que partes de la propuesta esta incompleta, y sugiera adic
 
 Se utiliza un sistema de voto ponderado, donde cada revisor le otorgará a cada propuesta un puntaje entre 1 y 5, según su consideración (a mayor puntaje, más posibilidades de que la charla sea seleccionada)
 
-== Reunion del Comité de Programa ==
+== Reunión del Comité de Programa ==
 
 Una vez que todas las propuestas han recibido votos de diferentes revisores, agendaremos una reunión por IRC para hacer la selección final. 
 
@@ -33,3 +33,4 @@ Para ver el estado de la votación, ir a [[http://ar.pycon.org/2012/activity/rat
 
  1. Actividades Propuestas: http://ar.pycon.org/2012/activity/proposed
  2. Puntajes: http://ar.pycon.org/2012/activity/ratings
+ 3. Grupo de Organización: http://groups.google.com/group/pybaires
