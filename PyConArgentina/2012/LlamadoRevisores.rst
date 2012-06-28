@@ -1,8 +1,7 @@
-
 == Miembros del Comité de Programa ==
 
 La conferencia se beneficiará de un comité de programa tan diverso como sea posible.
-Los miembros deben ser reclutados de los proyectos principales para asegurarse de que estén representados.
+Los miembros deben ser reclutados de los proyectos principales para asegurarse de que estén representados, no obstante, la participación es abierta a toda la comunidad.
 
 == Instrucciones para revisores ==
 
