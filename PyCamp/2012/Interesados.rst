@@ -47,10 +47,10 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
 ||Nicolas Bases || ||Sí ||
 ||Daniel Stamm ||Lo que venga, un guiso de lentejas, locro para el frio ||No ||
 ||TiN||lu qui venga y asado++||Si||
-||Leonardo Vidarte ||no diet ||No ||
-||GabrielPatiño || || No ||
-||Alfredo Ramirez || || No ||
-||Pablo Diaz Ogni || || No ||
+||Leonardo Vidarte ||no diet ||Si||
+||GabrielPatiño || ||Si||
+||Alfredo Ramirez || ||Si||
+||Pablo Diaz Ogni || ||Si||
 ||Nicolás Sarubbi || || Si ||
 
 
