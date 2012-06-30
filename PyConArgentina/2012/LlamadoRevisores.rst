@@ -15,7 +15,8 @@ Toda la comunicación con autores debe ser realizada vía los comentarios.
 Si ves una propuesta que puede ser buena, pero tiene carencias y no hay material suficiente para realizar la votación, por favor pedile al autor que actualice su propuesta, usando los comentarios. 
 Se bien específico sobre que partes de la propuesta están incompletas, y sugerile adiciones que puedan mejorarla
 
-Se utiliza un sistema de voto ponderado, donde cada revisor le otorgará a cada propuesta un puntaje entre 1 y 5, según su consideración sobre la calidad y relevancia (a mayor puntaje, más posibilidades de que la charla sea seleccionada)
+Se utiliza un sistema de voto ponderado, donde cada revisor le otorgará a cada propuesta un puntaje entre 1 y 5, según su consideración sobre la calidad y relevancia (a mayor puntaje, mayor promedio, más posibilidades de que la charla sea seleccionada). 
+Se requerirá un mínimo de 3 votos para poder considerar el promedio de puntaje de cada charla.
 
 == Reunión del Comité de Programa ==
 
@@ -27,7 +28,7 @@ Las decisiones son provisoras en este punto, ya que podemos encontrar la misma p
 == Charlas de Alto Perfil ==
 
 Independiente de la revisión del comité de programa mencionada anteriormente, cualquier charla de "alto perfil" podría ser identificada y aceptada por el Coordinador General o el Coordinador de Programa (con recomendaciones de los revisores). 
-Plenarias, Keynotes, Charlas de invitados internacionales y del tipo "Estado del proyecto X" para proyectos o implementaciones principales deberán ser identificadas y tratadas de manera diferenciada.
+Plenarias, Keynotes, Charlas de invitados internacionales, Paneles y del tipo "Estado del proyecto X" para proyectos o implementaciones principales deberán ser identificadas y tratadas de manera diferenciada.
 
 == Fechas Importantes ==
 
