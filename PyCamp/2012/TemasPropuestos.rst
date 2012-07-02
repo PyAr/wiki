@@ -32,6 +32,7 @@ Mozilla tiene toneladas de proyectos en Python que son muy grandes (como Addons.
 
 ==== Interesados ====
  * [[FelipeLerena|Lipe]]
+ * [[AnthonyLenton|achuni]]
 
 == Otros temas que no son necesariamente proyectos de código ==
  * Cómo ser sysadmin del Wiki y la lista
@@ -45,7 +46,7 @@ Juegos de Mesa:
  * Munchkin [DanielMoisset]
  * Battlestar Galáctica [alecu]
  * SmallWorld [alecu]
- * 7 wonders [achuni]
+ * 7 wonders [ [[AnthonyLenton|achuni]] ]
  * Catan [JaviMansilla]
  * Agricola [JaviMansilla]
  * Go
