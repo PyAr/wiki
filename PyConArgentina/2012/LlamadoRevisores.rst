@@ -27,7 +27,7 @@ Las decisiones son provisoras en este punto, ya que podemos encontrar la misma p
 
 == Charlas de Alto Perfil ==
 
-Independiente de la revisión del comité de programa mencionada anteriormente, cualquier charla de "alto perfil" podría ser identificada y aceptada por el Coordinador General o el Coordinador de Programa (con recomendaciones de los revisores). 
+Independiente de la revisión del comité de programa mencionada anteriormente, cualquier charla de "alto perfil" podría ser identificada y aceptada por el Coordinador General o el Coordinador de Programa (preferentemente con recomendaciones de los revisores). 
 Plenarias, Keynotes, Charlas de invitados internacionales, Paneles y del tipo "Estado del proyecto X" para proyectos o implementaciones principales deberán ser identificadas y tratadas de manera diferenciada.
 
 == Fechas Importantes ==
