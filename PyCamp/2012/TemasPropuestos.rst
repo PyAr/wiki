@@ -9,6 +9,7 @@ Segun el interes de la gente se puede agregar funcionalidad nueva, cerrar alguno
 Si hay interesados, se puede encarar como se comento en IRC, de hacer ninja compatible con Python3, de paso para aprender más sobre Python3 y según dijeron ser el primer IDE en Python3 (a excepción de IDLE :P)
 ==== Interesados ====
  * [[EmilianoDallaVerdeMarcozzi|x-ip]]
+ * [[DavidLitvak|dlitvak]] (vale programar ninja en vim? =D)
 
 === Un Site copado para pyar ===
 La idea es pensar e implementar un frontend copado para la comunidad. Probablemente usemos flask y alguna de estas nuevas tecnologias faroleras para el navegador
@@ -40,6 +41,13 @@ Mozilla tiene toneladas de proyectos en Python que son muy grandes (como Addons.
  * [[FelipeLerena|Lipe]]
  * [[AnthonyLenton|achuni]]
  * [[EmilianoDallaVerdeMarcozzi|x-ip]]
+ * [[DavidLitvak|dlitvak]]
+
+
+=== MOVE: Un nuevo concepto de framework web ===
+Siguiendo los conceptos de [[http://cirw.in/blog/time-to-move-on|Time to MOVE on]], armar un framework web en Python que siga este modelo
+
+==== Interesados ====
  * [[DavidLitvak|dlitvak]]
 
 == Otros temas que no son necesariamente proyectos de código ==
