@@ -22,6 +22,7 @@ Es un torneo de combate de naves espaciales, donde cada nave es un bot escrito e
 ==== Interesados ====
  * [[AnthonyLenton|achuni]]
  * [[EmilianoDallaVerdeMarcozzi|x-ip]]
+ * [[RicardoKirkner|pindonga]]
 
 === Probemos esta librería v.2 ===
 Jugar con esa librería que tenés ganas de usar hace rato y nunca tuviste oportunidad, armar algún pequeño programa que lo use. Ideas: NLTK (...)
