@@ -31,7 +31,7 @@ Jugar con esa librería que tenés ganas de usar hace rato y nunca tuviste oport
 Juegos de Mesa:
 
  * Zug (parecido al Carcassone, pero con trenes, y ambientado en Tucumán!) [alecu]
- * Illuminati [DanielMoisset
+ * Illuminati [DanielMoisset]
  * Munchkin [DanielMoisset]
  * Battlestar Galáctica [alecu]
  * SmallWorld [alecu]
