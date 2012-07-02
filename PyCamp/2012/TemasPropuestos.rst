@@ -35,6 +35,7 @@ Juegos de Mesa:
  * Munchkin [DanielMoisset]
  * Battlestar Galáctica [alecu]
  * SmallWorld [alecu]
+ * 7 wonders [achuni]
  * Go
 
 == Torneo Metegol ==
