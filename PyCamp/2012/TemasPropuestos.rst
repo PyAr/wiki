@@ -23,6 +23,13 @@ Jugar con esa librería que tenés ganas de usar hace rato y nunca tuviste oport
 ==== Interesados ====
  * [[AnthonyLenton|achuni]]
 
+
+=== Bug fixing Mozilla ===
+Mozilla tiene toneladas de proyectos en Python que son muy grandes (como Addons.mozilla.org) en los que se puede colaborar
+
+==== Interesados ====
+ * [[FelipeLerena|Lipe]]
+
 == Otros temas que no son necesariamente proyectos de código ==
  * Cómo ser sysadmin del Wiki y la lista
  * Organizando PyCon 2012
