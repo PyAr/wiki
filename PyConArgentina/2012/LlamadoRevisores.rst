@@ -22,7 +22,7 @@ Se requerirá un mínimo de 3 votos para poder considerar el promedio de puntaje
 
 Una vez que todas las propuestas han recibido votos de diferentes revisores, agendaremos reuniones por IRC para hacer la selección final. 
 
-Se ordenará todas las propuestas por el promedio de puntaje, preseleccionando las primeras hasta cubrir el cupo de lugares disponibles.
+Se ordenará todas las propuestas por el promedio de puntaje (por cada track), preseleccionando las primeras hasta cubrir el cupo de lugares disponibles.
 Las decisiones son provisoras en este punto, ya que podemos encontrar la misma propuesta varias veces por diferentes personas, y podríamos vernos forzados a rechazar una o dos propuestas en favor de la diversidad.
 
 == Charlas de Alto Perfil ==
