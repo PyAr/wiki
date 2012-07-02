@@ -52,7 +52,7 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
 ||Alfredo Ramirez || ||Si||
 ||Pablo Diaz Ogni || ||Si||
 ||Nicolás Sarubbi || || Si ||
-
+||Martín Gaitán || || Si ||
 
 
 
