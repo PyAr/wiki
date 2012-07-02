@@ -45,3 +45,6 @@ Para ver el estado de la votación, ir a [[http://ar.pycon.org/2012/activity/rat
  1. Actividades Propuestas: http://ar.pycon.org/2012/activity/proposed
  2. Puntajes: http://ar.pycon.org/2012/activity/ratings
  3. Grupo de Organización: http://groups.google.com/group/pybaires
+
+Habilitamos el siguiente link para unirte al grupo de revisores y obtener acceso a poder revisar las charlas:
+ * http://ar.pycon.org/2012/user/join_reviewers
