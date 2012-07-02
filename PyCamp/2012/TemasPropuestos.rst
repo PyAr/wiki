@@ -15,6 +15,7 @@ La idea es pensar e implementar un frontend copado para la comunidad. Probableme
 
 ==== Interesados ====
  * [[JoaquinSorianello|Joac]]
+ * [[DavidLitvak|dlitvak]]
 
 === spacecraft ===
 Es un torneo de combate de naves espaciales, donde cada nave es un bot escrito en Python.  La idea es armar un par de torneos, mejorar el servidor y la API en sí misma, armar otro torneo, y así.
@@ -29,6 +30,7 @@ Jugar con esa librería que tenés ganas de usar hace rato y nunca tuviste oport
 
 ==== Interesados ====
  * [[AnthonyLenton|achuni]]
+ * [[DavidLitvak|dlitvak]]
 
 
 === Bug fixing Mozilla ===
@@ -38,6 +40,7 @@ Mozilla tiene toneladas de proyectos en Python que son muy grandes (como Addons.
  * [[FelipeLerena|Lipe]]
  * [[AnthonyLenton|achuni]]
  * [[EmilianoDallaVerdeMarcozzi|x-ip]]
+ * [[DavidLitvak|dlitvak]]
 
 == Otros temas que no son necesariamente proyectos de código ==
  * Cómo ser sysadmin del Wiki y la lista
