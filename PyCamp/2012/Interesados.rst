@@ -23,7 +23,7 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
 ||DavidLitvak ||Vegetariano ||Not yet ||
 ||Diego Mascialino || ||Sí ||
 ||Diego Sarmentero || ||Si ||
-||EugeniaBahit ||comida!! ||No ||
+||EugeniaBahit ||comida!! ||Si ||
 ||Facundo Batista || ||Si ||
 ||GonzaloOdiard ||Cualquier cosa ||No ||
 ||Guillermo Gonzalez || ||No ||
