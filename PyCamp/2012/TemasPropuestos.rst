@@ -16,11 +16,13 @@ Si hay interesados, se puede encarar como se comento en IRC, de hacer ninja comp
  * FacundoBatista
 
 === Un Site copado para pyar ===
-La idea es pensar e implementar un frontend copado para la comunidad. Probablemente usemos flask y alguna de estas nuevas tecnologias faroleras para el navegador
+La idea es pensar e implementar un frontend copado para la comunidad. Probablemente usemos flask y alguna de estas nuevas tecnologias faroleras para el navegador.
+Y hasta podemos pensar en pasar toda la wiki a github!
 
 ==== Interesados ====
  * [[JoaquinSorianello|Joac]]
  * [[DavidLitvak|dlitvak]]
+ * [[AlejandroJCura|alecu]]
 
 === spacecraft ===
 Es un torneo de combate de naves espaciales, donde cada nave es un bot escrito en Python.  La idea es armar un par de torneos, mejorar el servidor y la API en sí misma, armar otro torneo, y así.
