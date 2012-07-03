@@ -114,7 +114,7 @@ Epyoc es un programa, hecho en python, para generar documentación y graficos de
 ==== Interesados ====
 
  * [[MartinGaitan]]
- * [[alecu]]
+ * [[AlejandroJCura|alecu]]
  * [[JuanFisanotti]]
  * [[DiegoMascialino]]
  
@@ -223,13 +223,13 @@ Idea de aplicación simple, "sorteo": meter un número en un textentry, y que lu
  * Organizando PyCon 2012
 
 == Trasnoche ==
-Juegos de Mesa:
+Juegos de Mesa (quien lo lleva):
 
- * Zug (parecido al Carcassone, pero con trenes, y ambientado en Tucumán!) [alecu]
+ * Zug (parecido al Carcassone, pero con trenes, y ambientado en Tucumán!) [ [[AlejandroJCura|alecu]] ]
  * Illuminati [DanielMoisset]
  * Munchkin [DanielMoisset]
- * Battlestar Galáctica [alecu]
- * SmallWorld [alecu]
+ * Battlestar Galáctica [ [[AlejandroJCura|alecu]] ]
+ * SmallWorld [ [[AlejandroJCura|alecu]] ]
  * 7 wonders [ [[AnthonyLenton|achuni]] ]
  * Catan [JaviMansilla]
  * Agricola [JaviMansilla]
