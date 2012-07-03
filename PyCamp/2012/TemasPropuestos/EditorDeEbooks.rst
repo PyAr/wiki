@@ -46,6 +46,9 @@ Ideas
   que permite la edición simultánea? A priori, podemos arrancar en modo "bloqueante" 
   como hace moin moin. 
 
+  - por otro lado, yo (alecu) opino que es mejor no arrancar de algo bloqueante, sino partir de algo que ya tenga la colaboración metida adentro. Por ejemplo se le podría hacer un view de "ebook" a: https://github.com/Pita/etherpad-lite (a pesar de que es node.js)
+
+
 - En cualquier caso, parece necesario (o al menos util) tener un control de 
   versiones sobre la edicion. Conozco reversion_ y apesta bastante ¿alguien conoce
   una alternativa?
