@@ -54,6 +54,7 @@ mostrarlo y obtener feedback de cosas a mejorar, cosas copadas a implementar,
 
 ==== Interesados ====
  * [[RobertoAlsina]]
+ * [[Apokalyptica79]]
 
 === Hosting Web, Platform As A Service ===
 
@@ -66,6 +67,7 @@ procesan el input, generar los sitios, y servirlos via un server optimizado para
 
 ==== Interesados ====
  * [[RobertoAlsina]]
+ * [[Apokalyptica79]]
 
 === Bug fixing Mozilla ===
 Mozilla tiene toneladas de proyectos en Python que son muy grandes (como Addons.mozilla.org) en los que se puede colaborar
@@ -231,5 +233,6 @@ Se disputa por 2da vez el torneo de metegol o ping pong en PyCamp 2012.
 
  * MarianoVerdu
  * FacundoBatista
+ * [[Apokalyptica79]] --> no vale ganarme :$
 ----
 CategoryPyCamp
