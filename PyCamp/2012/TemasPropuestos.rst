@@ -29,6 +29,7 @@ Es un torneo de combate de naves espaciales, donde cada nave es un bot escrito e
  * [[EmilianoDallaVerdeMarcozzi|x-ip]]
  * [[RicardoKirkner|pindonga]]
  * MarianoVerdu
+ * [[JuanFisanotti]]
 
 === Probemos esta librería v.2 ===
 Jugar con esa librería que tenés ganas de usar hace rato y nunca tuviste oportunidad, armar algún pequeño programa que lo use. Ideas: NLTK (...)
@@ -46,7 +47,7 @@ Mozilla tiene toneladas de proyectos en Python que son muy grandes (como Addons.
  * [[AnthonyLenton|achuni]]
  * [[EmilianoDallaVerdeMarcozzi|x-ip]]
  * [[DavidLitvak|dlitvak]]
-
+ * [[JuanFisanotti]]
 
 === MOVE: Un nuevo concepto de framework web ===
 Siguiendo los conceptos de [[http://cirw.in/blog/time-to-move-on|Time to MOVE on]], armar un framework web en Python que siga este modelo
@@ -74,6 +75,7 @@ Epyoc es un programa, hecho en python, para generar documentación y graficos de
 
  * [[MartinGaitan]]
  * [[alecu]]
+ * [[JuanFisanotti]]
  
 
 === Pilas-engine y python sobre HTML5 ===
@@ -104,6 +106,17 @@ y el servidor).
 ==== Interesados ====
 
  * [[HugoRuscitti]]
+
+=== Vim para Python ===
+
+Vim es un editor por consola muy conocido, con un modo de trabajo bastante particular (uno "programa" para hacer las cosas, combinando instrucciones para editar texto). Además muy customizable y rápido. 
+
+La idea sería mostrar y compartir las cosas (plugins, trucos, etc) que cada uno conoce para vim, que lo hagan una mejor herramienta para programar en python.
+
+==== Interesados ====
+
+ * [[HugoRuscitti]]
+ * [[JuanFisanotti]]
 
 
 == Otros temas que no son necesariamente proyectos de código ==
