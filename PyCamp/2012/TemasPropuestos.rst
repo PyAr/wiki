@@ -44,6 +44,18 @@ Jugar con esa librería que tenés ganas de usar hace rato y nunca tuviste oport
  * [[DavidLitvak|dlitvak]]
 
 
+=== Hosting Web, Platform As A Service ===
+
+Objetivo: Ofrecer hosting sencillo a super bajo costo.
+
+Armar el esquema de hosting masivo más liviano del mundo. Usar Nikola, que genera sitios estáticos,
+alimentarlo via Ubuntu One, github, bitbucket, dropbox o lo que sea, hacer workers con celery que
+procesan el input, generar los sitios, y servirlos via un server optimizado para archivos estáticos
+(gunicorn + algunacosa + varnish? Apache?)
+
+==== Interesados ====
+ * [[RobertoAlsina]]
+
 === Bug fixing Mozilla ===
 Mozilla tiene toneladas de proyectos en Python que son muy grandes (como Addons.mozilla.org) en los que se puede colaborar
 
