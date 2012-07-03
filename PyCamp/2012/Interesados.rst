@@ -54,6 +54,7 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
 ||Nicolás Sarubbi || || Si ||
 ||Martín Gaitán || || Si ||
 ||CarlosBellucci ||Vegetariano ||Sí ||
+||GonzaloGarciaBerrotaran || ||Sí ||
 
 
 ''' Interesados''' (tengo ganas pero no estoy seguro):
