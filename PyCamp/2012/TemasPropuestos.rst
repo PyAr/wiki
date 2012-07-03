@@ -175,7 +175,7 @@ Yo llevo dispositivos MIDI y un wiimoite, tambien hay prometido un kinect. Si te
  * [[DavidLitvak|dlitvak]]
  * [[RobertoAlsina]]
  * [[gatox|DiegoSarmentero]]
-
+ * [[JuanFisanotti]]
 
 === Encuentro ===
 
@@ -212,7 +212,7 @@ Idea de aplicación simple, "sorteo": meter un número en un textentry, y que lu
  * FacundoBatista
  * [[RobertoAlsina]]
  * [[gatox|DiegoSarmentero]]
-
+ * [[JuanFisanotti]]
 
 == Otros temas que no son necesariamente proyectos de código ==
  * Cómo ser sysadmin del Wiki y la lista
@@ -241,6 +241,6 @@ Se disputa por 2da vez el torneo de metegol o ping pong en PyCamp 2012.
  * FacundoBatista
  * [[Apokalyptica79]] --> no vale ganarme :$
  * [[gatox|DiegoSarmentero]] (Ping Pong)
-
+ * [[JuanFisanotti]]
 
 CategoryPyCamp
