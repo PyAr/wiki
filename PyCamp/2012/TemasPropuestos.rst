@@ -50,6 +50,11 @@ Siguiendo los conceptos de [[http://cirw.in/blog/time-to-move-on|Time to MOVE on
 ==== Interesados ====
  * [[DavidLitvak|dlitvak]]
 
+=== epydoc ===
+Epyoc es un programa, hecho en python, para generar documentación y graficos de proyectos python, a pesar de que funciona, está abandonado y tiene un look noventoso que tumba, la idea es agiornarlo, tanto en el html como en el código.
+
+==== Interesados ====
+ * [[HoracioDuran|perrito]]
 == Otros temas que no son necesariamente proyectos de código ==
  * Cómo ser sysadmin del Wiki y la lista
  * Organizando PyCon 2012
