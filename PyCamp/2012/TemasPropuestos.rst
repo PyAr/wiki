@@ -30,6 +30,7 @@ Es un torneo de combate de naves espaciales, donde cada nave es un bot escrito e
  * [[RicardoKirkner|pindonga]]
  * MarianoVerdu
  * [[JuanFisanotti]]
+ * [[DiegoMascialino]]
 
 === Probemos esta librería v.2 ===
 Jugar con esa librería que tenés ganas de usar hace rato y nunca tuviste oportunidad, armar algún pequeño programa que lo use. Ideas: NLTK (...)
@@ -48,6 +49,7 @@ Mozilla tiene toneladas de proyectos en Python que son muy grandes (como Addons.
  * [[EmilianoDallaVerdeMarcozzi|x-ip]]
  * [[DavidLitvak|dlitvak]]
  * [[JuanFisanotti]]
+ * [[DiegoMascialino]]
 
 === MOVE: Un nuevo concepto de framework web ===
 Siguiendo los conceptos de [[http://cirw.in/blog/time-to-move-on|Time to MOVE on]], armar un framework web en Python que siga este modelo
@@ -55,6 +57,7 @@ Siguiendo los conceptos de [[http://cirw.in/blog/time-to-move-on|Time to MOVE on
 ==== Interesados ====
  * [[DavidLitvak|dlitvak]]
  * [[HugoRuscitti]]
+ * [[DiegoMascialino]]
 
 
 === epydoc ===
@@ -76,7 +79,7 @@ Epyoc es un programa, hecho en python, para generar documentación y graficos de
  * [[MartinGaitan]]
  * [[alecu]]
  * [[JuanFisanotti]]
- 
+ * [[DiegoMascialino]]
 
 === Pilas-engine y python sobre HTML5 ===
 
@@ -106,6 +109,7 @@ y el servidor).
 ==== Interesados ====
 
  * [[HugoRuscitti]]
+ * [[DiegoMascialino]]
 
 === Vim para Python ===
 
@@ -117,6 +121,7 @@ La idea sería mostrar y compartir las cosas (plugins, trucos, etc) que cada uno
 
  * [[HugoRuscitti]]
  * [[JuanFisanotti]]
+ * [[DiegoMascialino]]
 
 
 == Otros temas que no son necesariamente proyectos de código ==
