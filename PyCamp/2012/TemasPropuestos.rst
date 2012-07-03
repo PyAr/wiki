@@ -43,6 +43,15 @@ Jugar con esa librería que tenés ganas de usar hace rato y nunca tuviste oport
  * [[AnthonyLenton|achuni]]
  * [[DavidLitvak|dlitvak]]
 
+=== Nikola ===
+
+Nikola es un generador de sitios web y blogs estáticos. Tiene toda una 
+estructura que permite hacer cosas copadas con muy poco esfuerzo. Me interesa
+mostrarlo y obtener feedback de cosas a mejorar, cosas copadas a implementar,
+... e implementarlas!
+
+==== Interesados ====
+ * [[RobertoAlsina]]
 
 === Hosting Web, Platform As A Service ===
 
@@ -83,6 +92,7 @@ Epyoc es un programa, hecho en python, para generar documentación y graficos de
 ==== Interesados ====
  * [[HoracioDuran|perrito]]
  * MarianoVerdu
+ * [[RobertoAlsina]]
 
 
 === Editor de ebooks colaborativo y online ===
@@ -131,6 +141,7 @@ y el servidor).
  * [[JoaquinSorianello|Joac]]
  * [[DiegoMascialino]]
  * [[DavidLitvak|dlitvak]]
+ * [[RobertoAlsina]]
 
 === Vim para Python ===
 
@@ -155,6 +166,7 @@ Yo llevo dispositivos MIDI y un wiimoite, tambien hay prometido un kinect. Si te
 
  * [[JoaquinSorianello|Joac]]
  * [[DavidLitvak|dlitvak]]
+ * [[RobertoAlsina]]
 
 
 === Encuentro ===
@@ -190,7 +202,7 @@ Idea de aplicación simple, "sorteo": meter un número en un textentry, y que lu
 ==== Interesados ====
 
  * FacundoBatista
-
+ * [[RobertoAlsina]]
 
 == Otros temas que no son necesariamente proyectos de código ==
  * Cómo ser sysadmin del Wiki y la lista
