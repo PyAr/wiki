@@ -1,6 +1,8 @@
+ * Abrigo
  * Juegos de mesa 
  * Patchcord (Cable de red)
  * Pendrive
+ * Más abrigo
  * Guitarra
  * Zapatilla Electrica
  * Adaptadores (anda a saber con que nos encontramos)
