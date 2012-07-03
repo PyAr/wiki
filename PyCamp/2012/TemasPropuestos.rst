@@ -13,6 +13,7 @@ Si hay interesados, se puede encarar como se comento en IRC, de hacer ninja comp
 ==== Interesados ====
  * [[EmilianoDallaVerdeMarcozzi|x-ip]]
  * [[DavidLitvak|dlitvak]] (vale programar ninja en vim? =D)
+ * FacundoBatista
 
 === Un Site copado para pyar ===
 La idea es pensar e implementar un frontend copado para la comunidad. Probablemente usemos flask y alguna de estas nuevas tecnologias faroleras para el navegador
@@ -32,7 +33,7 @@ Es un torneo de combate de naves espaciales, donde cada nave es un bot escrito e
  * [[JuanFisanotti]]
  * [[JoaquinSorianello|Joac]]
  * [[DiegoMascialino]]
-
+ * FacundoBatista
 
 
 === Probemos esta librería v.2 ===
@@ -133,7 +134,7 @@ La idea sería mostrar y compartir las cosas (plugins, trucos, etc) que cada uno
  * [[DiegoMascialino]]
  * [[DavidLitvak|dlitvak]]
 
-== Hackeando Cosas ==
+=== Hackeando Cosas ===
 
 La idea es mirar protocolos con dispositivos, y hacer cosas artisticas/creativas/divertidas
 Yo llevo dispositivos MIDI y un wiimoite, tambien hay prometido un kinect. Si tenes algo que quieras hackear, bienvenido!
@@ -142,6 +143,42 @@ Yo llevo dispositivos MIDI y un wiimoite, tambien hay prometido un kinect. Si te
 
  * [[JoaquinSorianello|Joac]]
  * [[DavidLitvak|dlitvak]]
+
+
+=== Encuentro ===
+
+[[http://encuentro.taniquetil.com.ar/|Encuentro]] es un simple programa que permite buscar, descargar y ver contenido del Canal Encuentro. Notar que este programa no distribuye contenido de Canal Encuentro, sino que permite un mejor uso personal de esos contenidos. 
+
+La idea es cerrar los últimos detalles durante el PyCamp, apuntando a un release "final".
+
+==== Interesados ====
+
+ * FacundoBatista
+
+
+=== CDPedia ===
+
+La [[http://launchpad.net/cdpedia|CDPedia]] es un proyecto para acceder a la información de la Wikipedia en castellano aunque no tengas una conexión a Internet.
+
+Durante el PyCamp trabajaremos en los bugs más importantes para la próxima release.
+
+
+==== Interesados ====
+
+ * FacundoBatista
+
+
+=== Python en Android ===
+
+Proyecto: armar la infrastructura mínima para correr un programa de Python en Android. Puede ser algo simple (ver párrafo siguiente), pero no importa cual, sino aprender a "tener algo Python corriendo en el teléfono".
+
+Idea de aplicación simple, "sorteo": meter un número en un textentry, y que luego cada vez que se apreta un botón saque un random entre 0 y ese nro.
+
+
+==== Interesados ====
+
+ * FacundoBatista
+
 
 == Otros temas que no son necesariamente proyectos de código ==
  * Cómo ser sysadmin del Wiki y la lista
@@ -160,12 +197,13 @@ Juegos de Mesa:
  * Agricola [JaviMansilla]
  * Go [MarianoVerdu](Alguien tiene para llevar?)
 
-== Torneo Metegol ==
-Se disputa por 2da vez el torneo de metegol en PyCamp 2012.
+== Torneo Metegol o Ping Pong ==
+
+Se disputa por 2da vez el torneo de metegol o ping pong en PyCamp 2012.
 
 ==== Interesados ====
 
  * MarianoVerdu
-
+ * FacundoBatista
 ----
 CategoryPyCamp
