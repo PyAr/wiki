@@ -165,6 +165,7 @@ La idea sería mostrar y compartir las cosas (plugins, trucos, etc) que cada uno
  * [[JoaquinSorianello|Joac]]
  * [[DiegoMascialino]]
  * [[DavidLitvak|dlitvak]]
+ * [[gatox|DiegoSarmentero]]
 
 === Hackeando Cosas ===
 
