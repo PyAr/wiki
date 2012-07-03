@@ -30,7 +30,10 @@ Es un torneo de combate de naves espaciales, donde cada nave es un bot escrito e
  * [[RicardoKirkner|pindonga]]
  * MarianoVerdu
  * [[JuanFisanotti]]
+ * [[JoaquinSorianello|Joac]]
  * [[DiegoMascialino]]
+
+
 
 === Probemos esta librería v.2 ===
 Jugar con esa librería que tenés ganas de usar hace rato y nunca tuviste oportunidad, armar algún pequeño programa que lo use. Ideas: NLTK (...)
@@ -49,6 +52,7 @@ Mozilla tiene toneladas de proyectos en Python que son muy grandes (como Addons.
  * [[EmilianoDallaVerdeMarcozzi|x-ip]]
  * [[DavidLitvak|dlitvak]]
  * [[JuanFisanotti]]
+ * [[JoaquinSorianello|Joac]]
  * [[DiegoMascialino]]
 
 === MOVE: Un nuevo concepto de framework web ===
@@ -58,7 +62,7 @@ Siguiendo los conceptos de [[http://cirw.in/blog/time-to-move-on|Time to MOVE on
  * [[DavidLitvak|dlitvak]]
  * [[HugoRuscitti]]
  * [[DiegoMascialino]]
-
+ * [[JoaquinSorianello|Joac]]
 
 === epydoc ===
 Epyoc es un programa, hecho en python, para generar documentación y graficos de proyectos python, a pesar de que funciona, está abandonado y tiene un look noventoso que tumba, la idea es agiornarlo, tanto en el html como en el código.
@@ -80,7 +84,8 @@ Epyoc es un programa, hecho en python, para generar documentación y graficos de
  * [[alecu]]
  * [[JuanFisanotti]]
  * [[DiegoMascialino]]
-
+ * [[JuanFisanotti]]
+ 
 === Pilas-engine y python sobre HTML5 ===
 
 Pilas-engine funciona sobre python usando biblioteca locales (cómo qt y box2d), pero esto
@@ -95,6 +100,7 @@ pilas puedan usar python en lugar de javascript para programar.
 ==== Interesados ====
 
  * [[HugoRuscitti]]
+ * [[JoaquinSorianello|Joac]]
 
 === Taller de Flask, Celery y nodejs ===
 
@@ -109,6 +115,7 @@ y el servidor).
 ==== Interesados ====
 
  * [[HugoRuscitti]]
+ * [[JoaquinSorianello|Joac]]
  * [[DiegoMascialino]]
 
 === Vim para Python ===
@@ -121,8 +128,17 @@ La idea sería mostrar y compartir las cosas (plugins, trucos, etc) que cada uno
 
  * [[HugoRuscitti]]
  * [[JuanFisanotti]]
+ * [[JoaquinSorianello|Joac]]
  * [[DiegoMascialino]]
 
+== Hackeando Cosas ==
+
+La idea es mirar protocolos con dispositivos, y hacer cosas artisticas/creativas/divertidas
+Yo llevo dispositivos MIDI y un wiimoite, tambien hay prometido un kinect. Si tenes algo que quieras hackear, bienvenido!
+
+==== Interesados ====
+
+ * [[JoaquinSorianello|Joac]]
 
 == Otros temas que no son necesariamente proyectos de código ==
  * Cómo ser sysadmin del Wiki y la lista
