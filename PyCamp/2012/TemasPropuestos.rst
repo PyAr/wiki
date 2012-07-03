@@ -84,6 +84,7 @@ Mozilla tiene toneladas de proyectos en Python que son muy grandes (como Addons.
  * [[JoaquinSorianello|Joac]]
  * [[DiegoMascialino]]
  * [[gatox|DiegoSarmentero]]
+ * [[Apokalyptica79]]
 
 
 === MOVE: Un nuevo concepto de framework web ===
@@ -187,6 +188,7 @@ La idea es cerrar los últimos detalles durante el PyCamp, apuntando a un releas
 ==== Interesados ====
 
  * FacundoBatista
+ * [[Apokalyptica79]]
 
 
 === CDPedia ===
@@ -214,6 +216,7 @@ Idea de aplicación simple, "sorteo": meter un número en un textentry, y que lu
  * [[RobertoAlsina]]
  * [[gatox|DiegoSarmentero]]
  * [[JuanFisanotti]]
+ * [[Apokalyptica79]]
 
 == Otros temas que no son necesariamente proyectos de código ==
  * Cómo ser sysadmin del Wiki y la lista
@@ -231,6 +234,8 @@ Juegos de Mesa:
  * Catan [JaviMansilla]
  * Agricola [JaviMansilla]
  * Go [MarianoVerdu](Alguien tiene para llevar?)
+ * Cartas de truco [[Apokalyptica79]]
+ * Cartas de uno [[Apokalyptica79]]
 
 == Torneo Metegol o Ping Pong ==
 
