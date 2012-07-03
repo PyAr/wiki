@@ -25,6 +25,7 @@ Es un torneo de combate de naves espaciales, donde cada nave es un bot escrito e
  * [[AnthonyLenton|achuni]]
  * [[EmilianoDallaVerdeMarcozzi|x-ip]]
  * [[RicardoKirkner|pindonga]]
+ * MarianoVerdu
 
 === Probemos esta librería v.2 ===
 Jugar con esa librería que tenés ganas de usar hace rato y nunca tuviste oportunidad, armar algún pequeño programa que lo use. Ideas: NLTK (...)
@@ -55,6 +56,7 @@ Epyoc es un programa, hecho en python, para generar documentación y graficos de
 
 ==== Interesados ====
  * [[HoracioDuran|perrito]]
+ * MarianoVerdu
 
 
 === Editor de ebooks colaborativo y online ===
@@ -83,8 +85,14 @@ Juegos de Mesa:
  * 7 wonders [ [[AnthonyLenton|achuni]] ]
  * Catan [JaviMansilla]
  * Agricola [JaviMansilla]
- * Go
+ * Go [MarianoVerdu](Alguien tiene para llevar?)
 
 == Torneo Metegol ==
+Se disputa por 2da vez el torneo de metegol en PyCamp 2012.
+
+==== Interesados ====
+
+ * MarianoVerdu
+
 ----
 CategoryPyCamp
