@@ -1,6 +1,8 @@
 == Proyectos ==
+
 === cocos ===
 Segun el interes de la gente se puede agregar funcionalidad nueva, cerrar algunos issues, mejorar los microdemos, trabajar un poco en enjuewemela (a Facundo le encantaría)...
+
 ==== Interesados ====
  * ccanepa
 
@@ -51,6 +53,8 @@ Siguiendo los conceptos de [[http://cirw.in/blog/time-to-move-on|Time to MOVE on
 
 ==== Interesados ====
  * [[DavidLitvak|dlitvak]]
+ * [[HugoRuscitti]]
+
 
 === epydoc ===
 Epyoc es un programa, hecho en python, para generar documentación y graficos de proyectos python, a pesar de que funciona, está abandonado y tiene un look noventoso que tumba, la idea es agiornarlo, tanto en el html como en el código.
