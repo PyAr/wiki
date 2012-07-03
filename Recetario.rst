@@ -40,6 +40,9 @@ Es bueno /NormalizarCaracteresUnicode para hacer búsquedas en strings sin que s
 
 ObtenerSensacionTermica: Calcular la Sensacion Termica o Temperatura Aparente.
 
+=== Interceptar los prints ===
+/InterceptarPrints sirve para hacer reemplazos en las strings que se van a imprimir, por ejemplo para agregar un timestamp.
+
 == Frameworks Web ==
 === Django ===
 [[Django/TestFormularioConFileUpload]] :  un ejemplo de como probar un formulario que tiene un campo para subir un archivo.
