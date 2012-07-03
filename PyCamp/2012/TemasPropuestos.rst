@@ -69,6 +69,7 @@ procesan el input, generar los sitios, y servirlos via un server optimizado para
 ==== Interesados ====
  * [[RobertoAlsina]]
  * [[Apokalyptica79]]
+ * [[DavidLitvak|dlitvak]]
 
 
 === Bug fixing Mozilla ===
@@ -242,5 +243,6 @@ Se disputa por 2da vez el torneo de metegol o ping pong en PyCamp 2012.
  * [[Apokalyptica79]] --> no vale ganarme :$
  * [[gatox|DiegoSarmentero]] (Ping Pong)
  * [[JuanFisanotti]]
+ * [[DavidLitvak|dlitvak]]
 
 CategoryPyCamp
