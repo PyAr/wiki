@@ -7,6 +7,7 @@ Segun el interes de la gente se puede agregar funcionalidad nueva, cerrar alguno
 
 === NINJA-IDE ===
 Si hay interesados, se puede encarar como se comento en IRC, de hacer ninja compatible con Python3, de paso para aprender más sobre Python3 y según dijeron ser el primer IDE en Python3 (a excepción de IDLE :P)
+
 ==== Interesados ====
  * [[EmilianoDallaVerdeMarcozzi|x-ip]]
  * [[DavidLitvak|dlitvak]] (vale programar ninja en vim? =D)
@@ -70,6 +71,36 @@ Epyoc es un programa, hecho en python, para generar documentación y graficos de
  * [[MartinGaitan]]
  * [[alecu]]
  
+
+=== Pilas-engine y python sobre HTML5 ===
+
+Pilas-engine funciona sobre python usando biblioteca locales (cómo qt y box2d), pero esto
+hace un poco difícil llegar a público nuevo (hay que instalar cosas en cada nueva PC, tratar
+con distintos SO etc). ¿Que tal si se creamos una versión alternativa de pilas-engine que
+funcione directamente sobre el navegador?.
+
+Actualmente hay una versión de pilas que funciona ya sobre javascript, y otra versión
+viene en camino. La idea es poder lograr que los nuevos programadores que descubran
+pilas puedan usar python en lugar de javascript para programar. 
+
+==== Interesados ====
+
+ * [[HugoRuscitti]]
+
+=== Taller de Flask, Celery y nodejs ===
+
+Flask es un microframework que propone hacer aplicaciones web desacopladas y
+distribuidas.
+
+La idea es brindar un taller para quienes busquen conocer conceptos
+básicos de Flask y mostrar otros componentes cómo celery (para realizar tareas en
+segundo plano) y nodejs (para lograr conexiones persistentes entre el navegador
+y el servidor).
+
+==== Interesados ====
+
+ * [[HugoRuscitti]]
+
 
 == Otros temas que no son necesariamente proyectos de código ==
  * Cómo ser sysadmin del Wiki y la lista
