@@ -15,6 +15,13 @@ Si hay interesados, se puede encarar como se comento en IRC, de hacer ninja comp
  * [[DavidLitvak|dlitvak]] (vale programar ninja en vim? =D)
  * FacundoBatista
 
+---- /!\ '''Edit conflict - other version:''' ----
+
+---- /!\ '''Edit conflict - your version:''' ----
+ * [[gatox|DiegoSarmentero]]
+
+---- /!\ '''End of edit conflict''' ----
+
 === Un Site copado para pyar ===
 La idea es pensar e implementar un frontend copado para la comunidad. Probablemente usemos flask y alguna de estas nuevas tecnologias faroleras para el navegador.
 Y hasta podemos pensar en pasar toda la wiki a github!
@@ -54,7 +61,13 @@ mostrarlo y obtener feedback de cosas a mejorar, cosas copadas a implementar,
 
 ==== Interesados ====
  * [[RobertoAlsina]]
+
+---- /!\ '''Edit conflict - other version:''' ----
  * [[Apokalyptica79]]
+
+---- /!\ '''Edit conflict - your version:''' ----
+
+---- /!\ '''End of edit conflict''' ----
 
 === Hosting Web, Platform As A Service ===
 
@@ -67,7 +80,13 @@ procesan el input, generar los sitios, y servirlos via un server optimizado para
 
 ==== Interesados ====
  * [[RobertoAlsina]]
+
+---- /!\ '''Edit conflict - other version:''' ----
  * [[Apokalyptica79]]
+
+---- /!\ '''Edit conflict - your version:''' ----
+
+---- /!\ '''End of edit conflict''' ----
 
 === Bug fixing Mozilla ===
 Mozilla tiene toneladas de proyectos en Python que son muy grandes (como Addons.mozilla.org) en los que se puede colaborar
@@ -80,6 +99,13 @@ Mozilla tiene toneladas de proyectos en Python que son muy grandes (como Addons.
  * [[JuanFisanotti]]
  * [[JoaquinSorianello|Joac]]
  * [[DiegoMascialino]]
+
+---- /!\ '''Edit conflict - other version:''' ----
+
+---- /!\ '''Edit conflict - your version:''' ----
+ * [[gatox|DiegoSarmentero]]
+
+---- /!\ '''End of edit conflict''' ----
 
 === MOVE: Un nuevo concepto de framework web ===
 Siguiendo los conceptos de [[http://cirw.in/blog/time-to-move-on|Time to MOVE on]], armar un framework web en Python que siga este modelo
@@ -172,6 +198,13 @@ Yo llevo dispositivos MIDI y un wiimoite, tambien hay prometido un kinect. Si te
  * [[DavidLitvak|dlitvak]]
  * [[RobertoAlsina]]
 
+---- /!\ '''Edit conflict - other version:''' ----
+
+---- /!\ '''Edit conflict - your version:''' ----
+ * [[gatox|DiegoSarmentero]]
+
+---- /!\ '''End of edit conflict''' ----
+
 
 === Encuentro ===
 
@@ -208,6 +241,13 @@ Idea de aplicación simple, "sorteo": meter un número en un textentry, y que lu
  * FacundoBatista
  * [[RobertoAlsina]]
 
+---- /!\ '''Edit conflict - other version:''' ----
+
+---- /!\ '''Edit conflict - your version:''' ----
+ * [[gatox|DiegoSarmentero]]
+
+---- /!\ '''End of edit conflict''' ----
+
 == Otros temas que no son necesariamente proyectos de código ==
  * Cómo ser sysadmin del Wiki y la lista
  * Organizando PyCon 2012
@@ -233,6 +273,14 @@ Se disputa por 2da vez el torneo de metegol o ping pong en PyCamp 2012.
 
  * MarianoVerdu
  * FacundoBatista
+
+---- /!\ '''Edit conflict - other version:''' ----
  * [[Apokalyptica79]] --> no vale ganarme :$
 ----
 CategoryPyCamp
+
+---- /!\ '''Edit conflict - your version:''' ----
+----
+CategoryPyCamp
+
+---- /!\ '''End of edit conflict''' ----
