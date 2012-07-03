@@ -55,6 +55,19 @@ Epyoc es un programa, hecho en python, para generar documentación y graficos de
 
 ==== Interesados ====
  * [[HoracioDuran|perrito]]
+
+
+=== Editor de ebooks colaborativo y online ===
+
+ La lectura de libros electrónicos se hace cada más popular pero la conversión automática desde es mediocre y 
+ editar/corregir a mano mucha veces es un trabajo demasiado arduo para una sola persona. Ver ideas en 
+ [[PyCamp/2012/TemasPropuestos/EditorDeEbooks]]
+
+==== Interesados ====
+
+ * [[MartinGaitan]]
+ 
+
 == Otros temas que no son necesariamente proyectos de código ==
  * Cómo ser sysadmin del Wiki y la lista
  * Organizando PyCon 2012
