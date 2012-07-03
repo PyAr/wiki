@@ -117,6 +117,7 @@ y el servidor).
  * [[HugoRuscitti]]
  * [[JoaquinSorianello|Joac]]
  * [[DiegoMascialino]]
+ * [[DavidLitvak|dlitvak]]
 
 === Vim para Python ===
 
@@ -130,6 +131,7 @@ La idea sería mostrar y compartir las cosas (plugins, trucos, etc) que cada uno
  * [[JuanFisanotti]]
  * [[JoaquinSorianello|Joac]]
  * [[DiegoMascialino]]
+ * [[DavidLitvak|dlitvak]]
 
 == Hackeando Cosas ==
 
@@ -139,6 +141,7 @@ Yo llevo dispositivos MIDI y un wiimoite, tambien hay prometido un kinect. Si te
 ==== Interesados ====
 
  * [[JoaquinSorianello|Joac]]
+ * [[DavidLitvak|dlitvak]]
 
 == Otros temas que no son necesariamente proyectos de código ==
  * Cómo ser sysadmin del Wiki y la lista
