@@ -68,6 +68,7 @@ Epyoc es un programa, hecho en python, para generar documentación y graficos de
 ==== Interesados ====
 
  * [[MartinGaitan]]
+ * [[alecu]]
  
 
 == Otros temas que no son necesariamente proyectos de código ==
