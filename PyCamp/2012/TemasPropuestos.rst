@@ -115,7 +115,6 @@ Epyoc es un programa, hecho en python, para generar documentación y graficos de
  * [[alecu]]
  * [[JuanFisanotti]]
  * [[DiegoMascialino]]
- * [[JuanFisanotti]]
  
 === Pilas-engine y python sobre HTML5 ===
 
