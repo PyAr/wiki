@@ -20,7 +20,7 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
 ||Anthony Lenton || ||Sí ||
 ||Claudio Canepa ||lo que venga ||si ||
 ||DanielMoisset || ||si ||
-||DavidLitvak ||Vegetariano ||Not yet ||
+||DavidLitvak ||Vegetariano ||Si ||
 ||Diego Mascialino || ||Sí ||
 ||Diego Sarmentero || ||Si ||
 ||EugeniaBahit ||comida!! ||Si ||
