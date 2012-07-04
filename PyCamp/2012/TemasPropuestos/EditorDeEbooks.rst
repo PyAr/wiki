@@ -57,7 +57,8 @@ Ideas
     podemos usar un sistema de control de versiones conocido como mercurial o git. Si bien mercurial está hecho en python, 
     los propios desarrolladores `no recomiendan usar la API interna <http://mercurial.selenic.com/wiki/MercurialApi>`_ sino 
     `esta libreria <https://bitbucket.org/haard/hgapi>`_ que interactua con el CLI hg. Para git 
-    `dulwich_ <https://github.com/jelmer/dulwich>` parece muy piola
+    `dulwich_ <https://github.com/jelmer/dulwich>`_ parece muy piola
+
   - otra posibilidad: usar una base de datos documental (MongoDB , couchdb, cassandra? alguien tiene experiencia?)
 
 
