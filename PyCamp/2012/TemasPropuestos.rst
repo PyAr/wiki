@@ -250,5 +250,6 @@ Se disputa por 2da vez el torneo de metegol o ping pong en PyCamp 2012.
  * [[gatox|DiegoSarmentero]] (Ping Pong)
  * [[JuanFisanotti]]
  * [[DavidLitvak|dlitvak]]
+ * GonzaloGarciaBerrotaran
 
 CategoryPyCamp
