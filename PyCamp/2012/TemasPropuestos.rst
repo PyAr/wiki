@@ -151,6 +151,7 @@ y el servidor).
  * [[DiegoMascialino]]
  * [[DavidLitvak|dlitvak]]
  * [[RobertoAlsina]]
+ * [[RicardoKirkner|pindonga]]
 
 === Vim para Python ===
 
@@ -166,6 +167,7 @@ La idea sería mostrar y compartir las cosas (plugins, trucos, etc) que cada uno
  * [[DiegoMascialino]]
  * [[DavidLitvak|dlitvak]]
  * [[gatox|DiegoSarmentero]]
+ * [[RicardoKirkner|pindonga]]
 
 === Hackeando Cosas ===
 
@@ -218,6 +220,7 @@ Idea de aplicación simple, "sorteo": meter un número en un textentry, y que lu
  * [[gatox|DiegoSarmentero]]
  * [[JuanFisanotti]]
  * [[Apokalyptica79]]
+ * [[RicardoKirkner|pindonga]]
 
 
 === Propone tu Feature para NINJA-IDE ===
@@ -258,5 +261,6 @@ Se disputa por 2da vez el torneo de metegol o ping pong en PyCamp 2012.
  * [[JuanFisanotti]]
  * [[DavidLitvak|dlitvak]]
  * GonzaloGarciaBerrotaran
+ * [[RicardoKirkner|pindonga]]
 
 CategoryPyCamp
