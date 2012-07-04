@@ -219,6 +219,13 @@ Idea de aplicación simple, "sorteo": meter un número en un textentry, y que lu
  * [[JuanFisanotti]]
  * [[Apokalyptica79]]
 
+
+=== Propone tu Feature para NINJA-IDE ===
+Aprovechando que va a haber muchisimos programadores Python, me parecio que estaria copado si quieren ayudarnos a proponer que feature vieron en otro lado y no esta en ninja, que cosa se les ocurre que podria estar copado incluir en base a ideas que tuvieron, cosas que notan que mejoraria la productividad o usabilidad, o lo que fuera, para ayudarnos a tener en cuenta que seria importante incluir en la siguiente version que vamos a empezar.
+
+==== Interesados ====
+ * [[gatox|DiegoSarmentero]]
+
 == Otros temas que no son necesariamente proyectos de código ==
  * Cómo ser sysadmin del Wiki y la lista
  * Organizando PyCon 2012
