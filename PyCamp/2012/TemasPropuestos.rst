@@ -253,7 +253,7 @@ QML es un framework sobrino de Qt, que sirve para hacer aplicaciones cancheras p
 === lai ===
 [[https://github.com/lvidarte/lai|lai]] es un sencillo programa de línea de comandos que permite guardar anotaciones y mantenerlas sincronizadas entre varias computadoras. La idea es guardarte comandos, shortcuts, snippets y en gral cualquier cosa que quieras tener a mano en la consola. También podés compartir documentos con otros usuarios.
 
-La idea es avanzar con el proyecto y ver la posibilidad de hacer una implementación con [[https://launchpad.net/u1db/|u1db]].
+Nos gustaría avanzar con el proyecto y ver la posibilidad de hacer una implementación con [[https://launchpad.net/u1db/|u1db]].
 
 ==== Interesados ====
  * Leonardo Vidarte
