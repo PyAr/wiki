@@ -56,6 +56,7 @@ mostrarlo y obtener feedback de cosas a mejorar, cosas copadas a implementar,
 ==== Interesados ====
  * [[RobertoAlsina]]
  * [[Apokalyptica79]]
+ * ccanepa
 
 === Hosting Web, Platform As A Service ===
 
@@ -103,7 +104,7 @@ Epyoc es un programa, hecho en python, para generar documentación y graficos de
  * [[HoracioDuran|perrito]]
  * MarianoVerdu
  * [[RobertoAlsina]]
-
+ * ccanepa
 
 === Editor de ebooks colaborativo y online ===
 
