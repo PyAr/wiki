@@ -153,6 +153,7 @@ y el servidor).
  * [[DavidLitvak|dlitvak]]
  * [[RobertoAlsina]]
  * [[RicardoKirkner|pindonga]]
+ * Leonardo Vidarte
 
 === Vim para Python ===
 
@@ -169,6 +170,7 @@ La idea sería mostrar y compartir las cosas (plugins, trucos, etc) que cada uno
  * [[DavidLitvak|dlitvak]]
  * [[gatox|DiegoSarmentero]]
  * [[RicardoKirkner|pindonga]]
+ * Leonardo Vidarte
 
 === Hackeando Cosas ===
 
@@ -194,6 +196,7 @@ La idea es cerrar los últimos detalles durante el PyCamp, apuntando a un releas
 
  * FacundoBatista
  * [[Apokalyptica79]]
+ * Leonardo Vidarte
 
 
 === CDPedia ===
@@ -246,6 +249,15 @@ QML es un framework sobrino de Qt, que sirve para hacer aplicaciones cancheras p
 
 ==== Interesados ====
  * [[AlejandroJCura|alecu]]
+
+=== lai ===
+[[https://github.com/lvidarte/lai|lai]] es un sencillo programa de línea de comandos que permite guardar anotaciones y mantenerlas sincronizadas entre varias computadoras. La idea es guardarte comandos, shortcuts, snippets y en gral cualquier cosa que quieras tener a mano en la consola. También podés compartir documentos con otros usuarios.
+
+La idea es avanzar con el proyecto y ver la posibilidad de hacer una implementación con [[https://launchpad.net/u1db/|u1db]].
+
+==== Interesados ====
+ * Leonardo Vidarte
+ * Alfredo Ramirez
 
 == Otros temas que no son necesariamente proyectos de código ==
  * Cómo ser sysadmin del Wiki y la lista
