@@ -182,6 +182,7 @@ Yo llevo dispositivos MIDI y un wiimoite, tambien hay prometido un kinect. Si te
  * [[RobertoAlsina]]
  * [[gatox|DiegoSarmentero]]
  * [[JuanFisanotti]]
+ * [[AlejandroJCura|alecu]]
 
 === Encuentro ===
 
@@ -205,6 +206,7 @@ Durante el PyCamp trabajaremos en los bugs más importantes para la próxima rel
 ==== Interesados ====
 
  * FacundoBatista
+ * [[AlejandroJCura|alecu]]
 
 
 === Python en Android ===
@@ -223,13 +225,27 @@ Este puede ser un punto de partida: [[http://pygame.renpy.org/|Pygame Subset for
  * [[JuanFisanotti]]
  * [[Apokalyptica79]]
  * [[RicardoKirkner|pindonga]]
-
+ * [[AlejandroJCura|alecu]]
 
 === Propone tu Feature para NINJA-IDE ===
 Aprovechando que va a haber muchisimos programadores Python, me parecio que estaria copado si quieren ayudarnos a proponer que feature vieron en otro lado y no esta en ninja, que cosa se les ocurre que podria estar copado incluir en base a ideas que tuvieron, cosas que notan que mejoraria la productividad o usabilidad, o lo que fuera, para ayudarnos a tener en cuenta que seria importante incluir en la siguiente version que vamos a empezar.
 
 ==== Interesados ====
  * [[gatox|DiegoSarmentero]]
+
+=== Clon de 7 Wonders de Darni ===
+Darni tiene a casi terminar un juego igual que el juego de mesa 7 Wonders, pero con otro tema, otra historia, y hecho en django. Es decir, misma mecánica de juego, pero nada que ver. La idea es meterle un poco de código durante PyCamp.
+
+==== Interesados ====
+ * [DanielMoisset]
+ * [[AlejandroJCura|alecu]]
+
+=== Jugar con QML ===
+
+QML es un framework sobrino de Qt, que sirve para hacer aplicaciones cancheras para celulares y tabletas. Mi idea es encontrar alguno de los proyectos de más arriba (por ejemplo el clon de 7 Wonders) y hacerle una interfaz para aprender a usar QML en el camino.
+
+==== Interesados ====
+ * [[AlejandroJCura|alecu]]
 
 == Otros temas que no son necesariamente proyectos de código ==
  * Cómo ser sysadmin del Wiki y la lista
