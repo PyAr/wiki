@@ -213,6 +213,7 @@ Proyecto: armar la infrastructura mínima para correr un programa de Python en A
 
 Idea de aplicación simple, "sorteo": meter un número en un textentry, y que luego cada vez que se apreta un botón saque un random entre 0 y ese nro.
 
+Este puede ser un punto de partida: [[http://pygame.renpy.org/|Pygame Subset for Android]]
 
 ==== Interesados ====
 
