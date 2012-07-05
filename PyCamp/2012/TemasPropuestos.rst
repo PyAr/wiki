@@ -237,7 +237,7 @@ Aprovechando que va a haber muchisimos programadores Python, me parecio que esta
 Darni tiene a casi terminar un juego igual que el juego de mesa 7 Wonders, pero con otro tema, otra historia, y hecho en django. Es decir, misma mecánica de juego, pero nada que ver. La idea es meterle un poco de código durante PyCamp.
 
 ==== Interesados ====
- * [DanielMoisset]
+ * DanielMoisset
  * [[AlejandroJCura|alecu]]
 
 === Jugar con QML ===
