@@ -1,6 +1,6 @@
 = Buzos de PyAr! =
 
-Vamos a hacer buzos de PyAr!. A continuación una lista preliminar de la gente anotada para los buzos.
+Vamos a hacer buzos de Python Argentina!. A continuación una lista preliminar de la gente anotada para los buzos.
 
 El diseño lo vamos a votar entre todos de entre varias opciones disponibles. Los diseños también los pondremos en esta página.
 
