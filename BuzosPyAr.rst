@@ -10,7 +10,7 @@ El diseño lo vamos a elegir entre todos, votando una de varias opciones disponi
 ||Erwin Feser             || || ||
 ||Ezequiel Pacheco        || || ||
 ||Martin Alderete         || || ||
-||Walter Alini            || || ||
+||Walter Alini            || (X)XL || Córdoba ||
 ||Diego Sarmentero        || || ||
 ||Juan M. Santos          ||M || ||
 ||Javier Pepe             || || ||
