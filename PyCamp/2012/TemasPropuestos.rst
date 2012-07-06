@@ -258,6 +258,23 @@ Nos gustaría avanzar con el proyecto y ver la posibilidad de hacer una implemen
 ==== Interesados ====
  * Leonardo Vidarte
  * Alfredo Ramirez
+ * LucioTorre
+
+=== SLAM! Localizacion y Mapeo simultaneo. ===
+
+[[http://es.wikipedia.org/wiki/SLAM_(rob%C3%B3tica)|SLAM]]. Si nos prestan la kinect la idea seria usarla para tratar de hacer mapas de lugar y estimar la posicion del observador simultaneamente.
+
+==== Interesados ====
+ * LucioTorre
+
+=== Preguntas y respuestas automaticas ===
+
+[[http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.84.3515|AskMSR]]. Implementar un clon de AskMSR y ver como anda!
+
+==== Interesados ====
+ * LucioTorre
+
+
 
 == Otros temas que no son necesariamente proyectos de código ==
  * Cómo ser sysadmin del Wiki y la lista
