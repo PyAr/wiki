@@ -23,4 +23,4 @@ El diseño lo vamos a elegir entre todos, votando una de varias opciones disponi
 ||Gonzalo Martinez        || || ||
 ||Alberto Paparelli        || || ||
 ||Carlos Enrique Rodriguez || || Dos buzos.||
-||Guillermo Narvaez ||M ||La Rioja||
+||Guillermo Narvaez ||M ||La Rioja ||
