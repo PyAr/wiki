@@ -37,6 +37,7 @@ Es un torneo de combate de naves espaciales, donde cada nave es un bot escrito e
  * [[JoaquinSorianello|Joac]]
  * [[DiegoMascialino]]
  * FacundoBatista
+ * LucioTorre
 
 
 === Probemos esta librería v.2 ===
@@ -45,6 +46,7 @@ Jugar con esa librería que tenés ganas de usar hace rato y nunca tuviste oport
 ==== Interesados ====
  * [[AnthonyLenton|achuni]]
  * [[DavidLitvak|dlitvak]]
+ * LucioTorre
 
 === Nikola ===
 
@@ -71,6 +73,7 @@ procesan el input, generar los sitios, y servirlos via un server optimizado para
  * [[RobertoAlsina]]
  * [[Apokalyptica79]]
  * [[DavidLitvak|dlitvak]]
+ * LucioTorre
 
 
 === Bug fixing Mozilla ===
@@ -185,6 +188,7 @@ Yo llevo dispositivos MIDI y un wiimoite, tambien hay prometido un kinect. Si te
  * [[gatox|DiegoSarmentero]]
  * [[JuanFisanotti]]
  * [[AlejandroJCura|alecu]]
+ * LucioTorre
 
 === Encuentro ===
 
