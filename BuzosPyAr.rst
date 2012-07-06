@@ -14,10 +14,3 @@ El diseño lo vamos a elegir entre todos, votando una de varias opciones disponi
 ||Diego Sarmentero || ||
 ||Juan M. Santos || ||
 ||Javier Pepe || ||
-||Pablo Mouzo || || 
-||Tucumetal || || 
-||Mariano Verdú || ||
-||Gastón Menvielle || || 
-||Federico Apelhanz || || 
-||Marcelo Martinovic || ||
-||Gonzalo Martinez || ||
