@@ -22,3 +22,4 @@ El diseño lo vamos a elegir entre todos, votando una de varias opciones disponi
 ||Marcelo Martinovic      ||xl || ||
 ||Gonzalo Martinez        || || ||
 ||Alberto Paparelli        || || ||
+||Carlos Enrique Rodriguez || || Dos buzos.||
