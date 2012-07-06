@@ -14,3 +14,5 @@ El diseño lo vamos a elegir entre todos, votando una de varias opciones disponi
 ||Diego Sarmentero || ||
 ||Juan M. Santos || ||
 ||Javier Pepe || ||
+||Pablo Mouzo || || 
+||Tucumetal || || 
