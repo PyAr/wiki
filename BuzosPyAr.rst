@@ -16,7 +16,7 @@ El diseño lo vamos a elegir entre todos, votando una de varias opciones disponi
 ||Javier Pepe             || || ||
 ||Pablo Mouzo             || || ||
 ||Tucumetal               || || ||
-||Mariano Verdú           || || ||
+||Mariano Verdú           ||L || ||
 ||Gastón Menvielle        || || ||
 ||Federico Apelhanz       || || ||
 ||Marcelo Martinovic      ||XL || ||
