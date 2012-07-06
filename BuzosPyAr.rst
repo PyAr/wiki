@@ -9,7 +9,7 @@ El diseño lo vamos a elegir entre todos, votando una de varias opciones disponi
 || Diego Cañizares || ||
 || Erwin Feser || ||
 || Ezequiel Pacheco || ||
-|| Martin Alderete|| ||
+|| Martin Alderete || ||
 || Walter Alini || ||
 || Diego Sarmentero || ||
 || Juan Manuel Santos || ||
@@ -19,5 +19,5 @@ El diseño lo vamos a elegir entre todos, votando una de varias opciones disponi
 || Mariano Verdú || ||
 || Gastón Menvielle || || 
 || Federico Apelhanz || || 
-|| Marcelo Martinovic|| ||
+|| Marcelo Martinovic || ||
 || Gonzalo Martinez || ||
