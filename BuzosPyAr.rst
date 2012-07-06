@@ -12,7 +12,7 @@ El diseño lo vamos a elegir entre todos, votando una de varias opciones disponi
 ||Martin Alderete || ||
 ||Walter Alini || ||
 ||Diego Sarmentero || ||
-||Juan Manuel Santos || ||
+||Juan M. Santos || ||
 ||Javier Pepe || ||
 ||Pablo Mouzo || || 
 ||Tucumetal || || 
