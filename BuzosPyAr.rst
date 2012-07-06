@@ -12,14 +12,15 @@ El diseño lo vamos a elegir entre todos, votando una de varias opciones disponi
 ||Martin Alderete         || || ||
 ||Walter Alini            || || ||
 ||Diego Sarmentero        || || ||
-||Juan M. Santos          || || ||
+||Juan M. Santos          ||M || ||
 ||Javier Pepe             || || ||
 ||Pablo Mouzo             || || ||
 ||Tucumetal               || || ||
 ||Mariano Verdú           || || ||
 ||Gastón Menvielle        || || ||
 ||Federico Apelhanz       || || ||
-||Marcelo Martinovic      ||xl || ||
+||Marcelo Martinovic      ||XL || ||
 ||Gonzalo Martinez        || || ||
 ||Alberto Paparelli        || || ||
 ||Carlos Enrique Rodriguez || || Dos buzos.||
+||Guillermo Narvaez ||M ||La Rioja||
