@@ -19,5 +19,5 @@ El diseño lo vamos a elegir entre todos, votando una de varias opciones disponi
 ||Mariano Verdú           || || ||
 ||Gastón Menvielle        || || ||
 ||Federico Apelhanz       || || ||
-||Marcelo Martinovic      || || ||
+||Marcelo Martinovic      ||xl || ||
 ||Gonzalo Martinez        || || ||
