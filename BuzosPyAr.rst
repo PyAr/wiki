@@ -24,3 +24,4 @@ El diseño lo vamos a elegir entre todos, votando una de varias opciones disponi
 ||Alberto Paparelli        || || ||
 ||Carlos Enrique Rodriguez || || Dos buzos.||
 ||Guillermo Narvaez ||M ||La Rioja ||
+||Otto Wald      ||XL || ||
