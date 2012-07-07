@@ -25,3 +25,4 @@ El diseño lo vamos a elegir entre todos, votando una de varias opciones disponi
 ||Carlos Enrique Rodriguez || || Dos buzos.||
 ||Guillermo Narvaez ||M ||La Rioja ||
 ||Otto Wald      ||XL || ||
+||Facundo Batista      ||Depende del tamaño ||más de un buzo si hay "muy chicos" ||
