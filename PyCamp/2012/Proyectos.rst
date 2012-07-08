@@ -15,3 +15,8 @@ Trabajaron Roberto Alsina, Hugo Ruscitti, Martín Gaitán
 Una libreria que genera epubs a partir de una lista de urls. Trabajaron Gozalo Odiard y Martín Gaitán
 
 * repo: https://github.com/nqnwebs/haztelibro
+
+
+== Nuevo sitio de Pyar ==
+
+ver ideas en [[NuevoSitio]]. 
