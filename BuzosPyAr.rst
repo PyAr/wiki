@@ -30,3 +30,4 @@ El diseño lo vamos a elegir entre todos, votando una de varias opciones disponi
 ||Ezequiel Gonzalez Rial || || ||
 ||Marcos Moyano ||L || Rosario ||
 ||Claudio Bidau ||M || || ||
+||Joaquin Tita  ||M || Córdoba ||
