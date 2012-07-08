@@ -20,3 +20,8 @@ Una libreria que genera epubs a partir de una lista de urls. Trabajaron Gozalo O
 == Nuevo sitio de Pyar ==
 
 ver ideas en [[NuevoSitio]]. 
+
+
+== lai ==
+
+Se agregaron algunas mejoras a la [[https://github.com/lvidarte/lai|versión original]] y empezó con la [[https://github.com/lvidarte/lai-u1db|versión con u1db]]. En ambas queda resolver el caso en que debe hacerce un merge.
