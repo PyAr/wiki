@@ -29,3 +29,4 @@ El diseño lo vamos a elegir entre todos, votando una de varias opciones disponi
 ||Nahuel Defossé || || ||
 ||Ezequiel Gonzalez Rial || || ||
 ||Marcos Moyano ||L || Rosario ||
+||Claudio Bidau ||M || || ||
