@@ -122,3 +122,8 @@ Se estuvo jugando con el procesamiento de imágenes y el kinect (transparencia, 
 == Plugins de lalita ==
 
 Exportar eventos de lalita para usar "plugins" en procesos externos. 
+
+== MOVErónica ==
+
+Siguiendo el concepto de MOVE (Modelo, Operacion, Vistas y Eventos) y usando [[http://github.com/dlitvakb/mongomodels|mongomodels]] y [[http://github.com/maccman/juggernaut|Juggernaut]] para nuestros modelos con eventos, hicimos una aplicación de demo que actualiza una pagina estática desde cualquier cliente python que conozca los modelos sin realizar ningún tipo de request.
+El código se puede ver en [[http://github.com/dlitvakb/moveapp|MOVEapp]] 
