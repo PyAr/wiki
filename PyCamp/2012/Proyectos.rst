@@ -91,7 +91,11 @@ Se estudió la la libreria Skulpt para poder utilizar la API de pilas en el nave
 
 == 7 Wonders ==
 
-Se mejoro la UI con bootstraps css . Se cargaron datos (cartas y demás cosas necesarias). Pronto se pushea y se sube par jugar 
+Una implementación en django de un juego de mesa, https://github.com/dmoisset/evolve
+
+Se mejoro la UI con bootstraps css. Se cargaron datos (cartas y demás cosas necesarias). Se corrigieron algunos bugs. Se subió un embrión de API REST para poder hacer otras interfaces.
+
+Pronto se pushea y se sube para jugar 
 
 == NINJA-IDE ==
 
