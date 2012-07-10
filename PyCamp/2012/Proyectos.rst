@@ -49,7 +49,7 @@ Se agregaron algunas mejoras a la [[https://github.com/lvidarte/lai|versión ori
   
    Lista de comandos: [[http://www.catonmat.net/download/bash-vi-editing-mode-cheat-sheet.pdf|Bash vi editing mode cheat sheet]]
 
-== Spacecraft == 
+== Spacecraft ==
 
 Se mejoró el servidor y se hicieron muchos bots
 
@@ -76,16 +76,17 @@ http://ar.sugarlabs.org . Se estuvo mostrando e instalando (ahora es mucho más 
 Se agregaron soporte para YAML y puliendo cosas. Se [[http://pypi.python.org/pypi/Ojota|subió a PyPi]]
 
 
-== Encuentro == 
+== Encuentro ==
 
 Debido a que el contenido pasó al portal [[http://conectate.gov.ar|Conectate]] se estuvo laburando en terminar hacerlo andar y adapatando la UI a la nueva referencia. Se lanza nueva version en breve. 
 
 
-== Jugnado con NLTK ==
+== Jugando con NLTK ==
 
-Pablo celayes estuvo jugando con NLTK 
+Pablo celayes estuvo jugando con NLTK. 
 
-== Pilas en el navegador == 
+
+== Pilas en el navegador ==
 
 Se estudió la la libreria Skulpt para poder utilizar la API de pilas en el navegador y hacerlo andar sobre HTML5. 
 
