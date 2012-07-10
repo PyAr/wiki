@@ -133,3 +133,11 @@ El código se puede ver en [[http://github.com/dlitvakb/moveapp|MOVEapp]]
 
 == Documentator ==
 En el viaje de vuelta hablando con x-ip, ralsina y gatox, surgio la idea de usar un parte del codigo de ninja que saca la estructura del archivo, con los docstrings de cada clase y funcion, para que genere cierta informacion html, combinarlo con graphviz para los diagramas de clase y navegabilidad, y proveer la documentacion de un proyecto con Nikola SaaS
+
+== cocos ==
+
+Yamila le hizo un background animado bastante copado a Enjuewemela
+
+El feature de un render fallback para particulas cuando no hay soporte de gl point sprites adquirio forma definitiva y llego a trunk
+
+Una miniutilidad para editar visualmente caminos (secuencia de puntos) fue explorada a nivel de minima funcionalidad; se puede incorporar a cualquier app cocos porque esta autocontenida en un layer. Falta generalizar algunas cosas.
