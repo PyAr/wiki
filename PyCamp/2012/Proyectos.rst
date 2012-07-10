@@ -16,6 +16,7 @@ Una libreria que genera epubs a partir de una lista de urls. Trabajaron Gozalo O
 
 * repo: https://github.com/nqnwebs/haztelibro
 
+Nota: En la charla acerca de generar ebooks colaborativamente, comenté acerca de un proyecto que hace algo similar, pueden verlo aqui: http://www.sourcefabric.org/en/booktype
 
 == Nuevo sitio de Pyar ==
 
@@ -56,7 +57,6 @@ Se mejoró el servidor y se hicieron muchos bots
 
 Lipe estuvo laburando con [[http://kivy.org|Kivy]] un framewrok crossplatform que compila python para android y escritorio. Hicieron "botonera"
 
-
 == Nikola SaaS ==
 
 Un servicio de blogs en la nube usando flask, celery, github y Nikola. Usando un post hook de nikola, el servicio se entera que se actualizaron los fuentes en gihub y actualiza el blog rende
@@ -70,24 +70,22 @@ Lucio y otros cumpas laburaron en un programita para detectar/aislar/filtrar not
 
 Se estuvo limpiando y laburando 
 
+== OLPC ==
 
-== OLPC =
-
-http://ar.sugarlabs.org . Se estuvo mostrando e instalando (ahora es muhcos más facil en Ubuntu) el emulador para que se sumen colaboradores. 
+http://ar.sugarlabs.org . Se estuvo mostrando e instalando (ahora es mucho más facil en Ubuntu) el emulador para que se sumen colaboradores. 
 
 == ORM for Json ==
 
 Se agregaron soporte para YAML y puliendo cosas. Se [[http://pypi.python.org/pypi/Ojota|subió a PyPi]]
 
 == Encuentro == 
-Un 
+
 Debido a que el contenido pasó al portal [[http://conectate.gov.ar]] se estuvo laburando en hacerlo andar y adapatando la UI a la nueva referencia. Se lanza nueva version en breve. 
 
 
 == Jugnado con NLTK ==
 
 Pablo celayes estuvo jugando con NLTK 
-
 
 == Pilas en el navegador == 
 
