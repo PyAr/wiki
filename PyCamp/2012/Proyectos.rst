@@ -95,7 +95,7 @@ Se estudió la la libreria Skulpt para poder utilizar la API de pilas en el nave
 
 Se mejoro la UI con bootstraps css . Se cargaron datos (cartas y demás cosas necesarias). Pronto se pushea y se sube par jugar 
 
-== Nija IDE ==
+== NINJA-IDE ==
 
 Se migro el código de NINJA-IDE a la API2 de PyQt, se resolvieron bugs (uno bastante critico: thx perrito), se identificaron nuevas features y mejoras para hacer.
 Y se sumo gente para trabajar en algunos Plugins.
@@ -108,14 +108,14 @@ Tambien se mostraron algunas de las caracteristicas y features que consideramos 
 - taller de malabares (un éxito! descubriendo talentos ocultos en los geeks)
 - telescopio
 
-== QML == 
+== QML ==
 
 J0hn y Gatox estuvieron mirando QML para armar interfaces "piolas" en un codigo rápido estilo json.
 Se vieron varios ejemplos de QML de aca: http://doc.qt.nokia.com/4.7-snapshot/qdeclarativeexamples.html
 Y se empezo un proyectito muy chico para jugar un poco con como se hacen las cosas en QML:
 https://github.com/diegosarmentero/python_qml
 
-== Kinect == 
+== Kinect ==
 
 Se estuvo jugando con el procesamiento de imágenes y el kinect (transparencia, detección de bordes de primer plano, etc) (Joac, Manuq, perrito) y para relevar mapas 3D de un espacio fisco (Lucio)
 
@@ -130,3 +130,6 @@ Exportar eventos de lalita para usar "plugins" en procesos externos.
 
 Siguiendo el concepto de MOVE (Modelo, Operacion, Vistas y Eventos) y usando [[http://github.com/dlitvakb/mongomodels|mongomodels]] y [[http://github.com/maccman/juggernaut|Juggernaut]] para nuestros modelos con eventos, hicimos una aplicación de demo que actualiza una pagina estática desde cualquier cliente python que conozca los modelos sin realizar ningún tipo de request.
 El código se puede ver en [[http://github.com/dlitvakb/moveapp|MOVEapp]] 
+
+== Documentator ==
+En el viaje de vuelta hablando con x-ip, ralsina y gatox, surgio la idea de usar un parte del codigo de ninja que saca la estructura del archivo, con los docstrings de cada clase y funcion, para que genere cierta informacion html, combinarlo con graphviz para los diagramas de clase y navegabilidad, y proveer la documentacion de un proyecto con Nikola SaaS
