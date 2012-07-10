@@ -53,10 +53,6 @@ Se agregaron algunas mejoras a la [[https://github.com/lvidarte/lai|versión ori
 
 Se mejoró el servidor y se hicieron muchos bots
 
-== Python para Android ==
-
-Lipe estuvo laburando con [[http://kivy.org|Kivy]] un framewrok crossplatform que compila python para android y escritorio. Hicieron "botonera"
-
 == Nikola SaaS ==
 
 Un servicio de blogs en la nube usando flask, celery, github y Nikola. Usando un post hook de nikola, el servicio se entera que se actualizaron los fuentes en gihub y actualiza el blog rende
@@ -68,7 +64,8 @@ Lucio y otros cumpas laburaron en un programita para detectar/aislar/filtrar not
 
 == Cdpedia ==
 
-Se estuvo limpiando y laburando 
+Se corrigieron algunos bugs y se terminó de emprolijar todo lo necesario para generar un nuevo dump.
+
 
 == OLPC ==
 
@@ -78,9 +75,10 @@ http://ar.sugarlabs.org . Se estuvo mostrando e instalando (ahora es mucho más 
 
 Se agregaron soporte para YAML y puliendo cosas. Se [[http://pypi.python.org/pypi/Ojota|subió a PyPi]]
 
+
 == Encuentro == 
 
-Debido a que el contenido pasó al portal [[http://conectate.gov.ar]] se estuvo laburando en hacerlo andar y adapatando la UI a la nueva referencia. Se lanza nueva version en breve. 
+Debido a que el contenido pasó al portal [[http://conectate.gov.ar|Conectate]] se estuvo laburando en terminar hacerlo andar y adapatando la UI a la nueva referencia. Se lanza nueva version en breve. 
 
 
 == Jugnado con NLTK ==
