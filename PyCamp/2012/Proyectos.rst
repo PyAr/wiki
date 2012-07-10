@@ -97,7 +97,9 @@ Se mejoro la UI con bootstraps css . Se cargaron datos (cartas y demás cosas ne
 
 == Nija IDE ==
 
-Estudiando la nueva api de PyQT para pythonizar el código (no más Qstrings) 
+Se migro el código de NINJA-IDE a la API2 de PyQt, se resolvieron bugs (uno bastante critico: thx perrito), se identificaron nuevas features y mejoras para hacer.
+Y se sumo gente para trabajar en algunos Plugins.
+Tambien se mostraron algunas de las caracteristicas y features que consideramos valiosas de ninja y se mostro un pantallaso de que hacer para ponerser a jugar con el codigo de ninja.
 
 == Otras actividades ==
 
@@ -108,7 +110,10 @@ Estudiando la nueva api de PyQT para pythonizar el código (no más Qstrings)
 
 == QML == 
 
-J0hn estuvo mirando QML para armar interfaces "piolas" en un codigo rápido estilo json
+J0hn y Gatox estuvieron mirando QML para armar interfaces "piolas" en un codigo rápido estilo json.
+Se vieron varios ejemplos de QML de aca: http://doc.qt.nokia.com/4.7-snapshot/qdeclarativeexamples.html
+Y se empezo un proyectito muy chico para jugar un poco con como se hacen las cosas en QML:
+https://github.com/diegosarmentero/python_qml
 
 == Kinect == 
 
