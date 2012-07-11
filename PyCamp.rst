@@ -28,6 +28,7 @@ La próxima edición [[PyCamp/2012|está en marcha]], pendiente de suficientes c
  * Segunda edición, [[PyCamp/2009|Los Cocos, Córdoba. Marzo de 2009]].
  * Tercera edición, [[PyCamp/2010|Veronica, Buenos Aires. Marzo de 2010]].
  * Cuarta edición, [[PyCamp/2011|La Falda, Córdoba. Marzo de 2011]].
+ * Quinta edición, [[PyCamp/2012|Veronica, Buenos Aires. Julio de 2012]].
 
 == Blogpost sobre Pycamps ==
 === 2008 ===
