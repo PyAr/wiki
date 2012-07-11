@@ -1,5 +1,14 @@
 = Proyectos en los que se trabajó durante el Pycamp 2012 =
 
+== Kivi ==
+Se estuvo jugando con el framework kivi: http://kivy.org/ , que permite hacer aplicaciones para Android , programando en python  en nuestro entorno de trabajo habitual, y luego genera un APK compilando nuestro proyecto.
+
+Se instaló el entorno de desarrollo, probaron varios ejemplos, se subieron a distintos dispositivos con distintas versiones de Android, y hasta se hizo una botonera pastillera:
+
+Participantes: FelipeLerena, HectorSanchez, Mave, EzequielChan 
+
+link apk: http://www.felipelerena.com.ar/static/BotoneraPastillera-1.0-debug.apk 
+
 
 == Nikola ==
 
