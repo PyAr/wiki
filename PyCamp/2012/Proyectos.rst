@@ -1,7 +1,7 @@
 = Proyectos en los que se trabajó durante el Pycamp 2012 =
 
 == Kivi ==
-Se estuvo jugando con el framework kivi: http://kivy.org/ , que permite hacer aplicaciones para Android , programando en python  en nuestro entorno de trabajo habitual, y luego genera un APK compilando nuestro proyecto.
+Se estuvo jugando con el framework kivy: http://kivy.org/ , que permite hacer aplicaciones para Android , programando en python  en nuestro entorno de trabajo habitual, y luego genera un APK compilando nuestro proyecto.
 
 Se instaló el entorno de desarrollo, probaron varios ejemplos, se subieron a distintos dispositivos con distintas versiones de Android, y hasta se hizo una botonera pastillera:
 
