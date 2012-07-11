@@ -88,7 +88,11 @@ Pablo celayes estuvo jugando con NLTK.
 
 == Pilas en el navegador ==
 
-Se estudió la la libreria Skulpt para poder utilizar la API de pilas en el navegador y hacerlo andar sobre HTML5. 
+Se estudió la la libreria Skulpt para poder utilizar la API de pilas en el navegador y hacerlo andar sobre HTML5.
+
+
+https://github.com/hugoruscitti/pilasweb
+
 
 == 7 Wonders ==
 
