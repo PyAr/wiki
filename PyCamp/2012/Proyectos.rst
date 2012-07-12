@@ -58,9 +58,8 @@ Se agregaron algunas mejoras a la [[https://github.com/lvidarte/lai|versión ori
   
    Lista de comandos: [[http://www.catonmat.net/download/bash-vi-editing-mode-cheat-sheet.pdf|Bash vi editing mode cheat sheet]]
 
-ambién vimos muchos plugins y cosas interesantes para agregarle a vim y que sea un mejor entorno de desarrollo con python. La mayoría está en https://github.com/fisadev/fisa-vim-config .
-escubrimos que dos no andaban, uno ya está corregido (el que todavía no anda es el debugger, pero ya está identificado el problema).
- surgió la idea de meter el autocompletado de ninja ide en vim (como plugin). La gente de ninja va a separar la lógica del autocompletado como proyecto aparte, y nosotros vamos a meterlo en vim.
+También vimos muchos plugins y cosas interesantes para agregarle a vim y que sea un mejor entorno de desarrollo con python. La mayoría está en https://github.com/fisadev/fisa-vim-config . Descubrimos que dos no andaban, uno ya está corregido (el que todavía no anda es el debugger, pero ya está identificado el problema).
+Y surgió la idea de meter el autocompletado de ninja ide en vim (como plugin). La gente de ninja va a separar la lógica del autocompletado como proyecto aparte, y nosotros vamos a meterlo en vim.
 
 == Spacecraft ==
 
