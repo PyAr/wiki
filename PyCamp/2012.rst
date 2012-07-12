@@ -23,10 +23,10 @@
 
 == Fotos del PyCamp 2012!! ==
 
-# Ejemplo:
-# * [[http://www.flickr.com/photos/54757453@N00/sets/72157623601554224/ | de FacundoBatista ]]
  * [[http://lateral.netmanagers.com.ar/weblog/posts/pycamp-panorama.html | Panorámica]]
  * [[http://www.flickr.com/photos/70871182@N04/sets/72157630520932678/ | de YamilaCuestas]]
+ * [[http://www.flickr.com/photos/perrito667/sets/72157630537668742/ | de Perrito]]
+ * [[http://www.flickr.com/photos/54757453@N00/sets/72157630546100884/ | de Facundo]]
 
 == ¿Cómo reservar? ==
 
