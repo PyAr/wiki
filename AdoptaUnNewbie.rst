@@ -19,7 +19,6 @@
 == Mentores Propuestos ==
 === Disponibles ===
  * Mauro Lizaur (debian, algo de django, cosas en general, ayuda con proyectos grandes(?). )
- * [[gatox|Diego Sarmentero]] (Ninja-IDE, Qt/PyQt, python en general) http://ninja-ide.org
  * MartinAlderete (Ninja-IDE, Qt/PyQt, python web frameworks, python en general) http://github.com/malderete
  * ManuelNaranjo (django, dbus, bluetooth, opencv, numpy y scipy, cosas relacionadas con electrónica en general y señales)
  * Facundo Batista: Para CDPedia, Lalita, Python, Twisted a Py3, Enjuewemela y Magicicada (más info [[http://www.taniquetil.com.ar/plog/post/1/507|acá]]).
@@ -59,8 +58,6 @@
 
 === Asignados ===
  * Daniel Malisani -> Manuel Naranjo (opencv)
- * [[MaximilianoChurichi|Maximiliano Churichi]] -> [[gatox|Diego Sarmentero]] (Qt/PyQt)
- * Cesar Vargas -> [[gatox|Diego Sarmentero]] (Qt/PyQt)
  * EzequielMarquez -> HoracioDuran (web)
  * Hernan Lozano -> JuanFisanotti (django, python en general, un poco de vim)
  * Jonathan Scherz -> [[DavidLitvak|David Litvak]] (Django, TDD, vim)
