@@ -1,6 +1,8 @@
 = Trabajos con Python =
 == 2012 ==
 
+ * (16/07/2012) Lateco busca a personas dinámicas, creativas, apasionadas por tecnologia open-source y que valoren trabajar por objetivos. Las principales funciones serian el desarrollo de aplicaciones de telefonia en Python (uso de Pylons y Pyramid) y en C++ (Qt). Conocimientos en FreeSWITCH, Asterisk o sistemas de telefonia en general son sumamente valorados. Si te interesa, mandanos tu CV a fmujia <at> lateco <dot> com <dot> ar.
+
  * (05/07/2012) Onapsis, empresa líder en seguridad de ERP, te esta buscando!!, Si te gusta programar en Python y te interesa la seguridad informática, mandanos tu C.V. a careers@onapsis.com o ponete en contacto con nosotros en la próxima conferencia de PyCon 2012!! Para mas información ingresa a http://www.onapsis.com/company-careers-PYD01.php. En Onapsis trabajamos en el desarrollo de innovadoras soluciones de software de seguridad, usadas por algunas de las organizaciones mas grandes del mundo.
 
  * (01/07/2012) Voölks (2012) es una empresa de desarrollo de soluciones móviles incubada por el ITBA y estamos buscando a un talentoso ingeniero de software que quiera unirse a nuestro equipo. Debés tener: sólidos conocimientos de Python y Django, experiencia con bases de datos relacionales (ej: MySQL/PostgreSQL) y administración de sistemas Linux. También suma: conocimientos de JavaScript (ej: para trabajar con node.js), proyectos publicados en GitHub u otro repositorio público. Envianos tu CV con ejemplos de tus trabajos a emilio.mariscal [at] voolks.com
