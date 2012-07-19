@@ -1,6 +1,8 @@
 = Trabajos con Python =
 == 2012 ==
 
+ * (19/07/2012) Estamos buscando programadores SSr o Sr “Django/Python” para incorporar a nuestro equipo de trabajo. Requisitos: Conocimientos avanzados de Django/Python y al menos 2 años de experiencia relacionada. Se valorara experiencia en PHP, jQuery, HTML 5, CSS 3, Memcached, MySQL y PostgeSQL. Interesados enviar CV a <<MailTo(rrhh EN digbang PUNTO com)>> y Ref.: Python
+
  * (19/07/2012) '''MSA''' está buscando programadores '''''Python''''' con al menos un año de experiencia para trabajar con tecnologías Web, Linux (Ubuntu), y Software Open Source en general. Son deseables conocimientos de '''''Desarrollo Web'''''. Buscamos gente proactiva, con habilidades autodidactas y afinidad al Software Libre, dentro del área de Capital Federal o Gran Bs.As. Si pensás que puede interesarte la propuesta, no dejes de comunicarte con nosotros vía mail con el CV y/o pretensiones a <rrhh EN msa PUNTO com PUNTO ar>.
 
  * (16/07/2012) Lateco busca a personas dinámicas, creativas, apasionadas por tecnologia open-source y que valoren trabajar por objetivos. Las principales funciones serian el desarrollo de aplicaciones de telefonia en Python (uso de Pylons y Pyramid) y en C++ (Qt). Conocimientos en FreeSWITCH, Asterisk o sistemas de telefonia en general son sumamente valorados. Si te interesa, mandanos tu CV a fmujia <at> lateco <dot> com <dot> ar.
