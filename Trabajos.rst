@@ -1,6 +1,8 @@
 = Trabajos con Python =
 == 2012 ==
 
+ * (20/07/2012) Intel Software de Argentina está buscando programadores Python para incorporarse a su equipo de trabajo en Córdoba Capital. Requisitos: Ingenieros en Sistemas, Computación o afín con más de 5 años de experiencia relacionada. Interesados enviar CV a empleos.asdc@intel.com. Referencia: pyar-python
+
  * (19/07/2012) Estamos buscando programadores SSr o Sr “Django/Python” para incorporar a nuestro equipo de trabajo. Requisitos: Conocimientos avanzados de Django/Python y al menos 2 años de experiencia relacionada. Se valorara experiencia en PHP, jQuery, HTML 5, CSS 3, Memcached, MySQL y PostgeSQL. Interesados enviar CV a <<MailTo(rrhh EN digbang PUNTO com)>> y Ref.: Python
 
  * (19/07/2012) '''MSA''' está buscando programadores '''''Python''''' con al menos un año de experiencia para trabajar con tecnologías Web, Linux (Ubuntu), y Software Open Source en general. Son deseables conocimientos de '''''Desarrollo Web'''''. Buscamos gente proactiva, con habilidades autodidactas y afinidad al Software Libre, dentro del área de Capital Federal o Gran Bs.As. Si pensás que puede interesarte la propuesta, no dejes de comunicarte con nosotros vía mail con el CV y/o pretensiones a <rrhh EN msa PUNTO com PUNTO ar>.
