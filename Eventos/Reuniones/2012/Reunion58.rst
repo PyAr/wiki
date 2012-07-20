@@ -32,25 +32,27 @@ El cronograma tentativo para el viernes es comenzar con el taller de introducci�
 Respecto al sábado quedamos de acuerdo en que haya 6 charlas; 3 de 10 a 13 y las otras 3 de 14 a 17. Luego una hora para charlas relámpago y cierre.
 
 Un segundo tema que se tocó es el monetario... Los gastos a cubrir, en prioridad descendente, son:
-1. Folletería y publicidad en diario local.
-2. Breaks para viernes y sábado
-3. Viáticos para disertantes
-4. Comidas del día sábado
+
+ 1. Folletería y publicidad en diario local.
+ 2. Breaks para viernes y sábado
+ 3. Viáticos para disertantes
+ 4. Comidas del día sábado
 
 Para tratar de solventar los gastos tenemos las siguientes fuentes de ingresos:
-* Diplomas: tenemos pensado cobrar 10$ la emisión de diplomas por los talleres del viernes y/o charlas del sábado; sin ser obligación el requerir el diploma.
-* Facu: la facultad se va a hacer cargo los gastos de impresión de diplomas y de algunas noches de alojamiento. Por otro lado no cobra el uso de instalaciones, Internet, proyector, computadoras y equipo de video conferencia.
-* Auspiciantes: Pensamos distinguir distintos tipos de auspiciantes, con distintos privilegios
- 1. Bronce. 
-  * publicidad en diario y folletos en el tamaño más chico (a definir  "chico"..)
-  * posibilidad de repartir merchandising en el momento de la registración
-  * lista de participantes que acepten compartir sus datos para posibles contactos laborales
-  * logo en la pagina del evento
-  * banner
- 2. Plata.
-  * Idem bronce con gráficos un poco mas grandes
-  * Auspicio de presentación en los videos de las charlas que van a ser subidos a la red
- 3. Oro.
-  * Idem plata
-  * Logo y descripción de la empresa en la pagina del evento
-  * Revestimos el atril donde se ubica el disertante para que en los videos salga continuamente la publicidad
+
+ * Diplomas: tenemos pensado cobrar 10$ la emisión de diplomas por los talleres del viernes y/o charlas del sábado; sin ser obligación el requerir el diploma.
+ * Facu: la facultad se va a hacer cargo los gastos de impresión de diplomas y de algunas noches de alojamiento. Por otro lado no cobra el uso de instalaciones, Internet, proyector, computadoras y equipo de video conferencia.
+ * Auspiciantes: Pensamos distinguir distintos tipos de auspiciantes, con distintos privilegios
+  1. Bronce. 
+   * publicidad en diario y folletos en el tamaño más chico (a definir  "chico"..)
+   * posibilidad de repartir merchandising en el momento de la registración
+   * lista de participantes que acepten compartir sus datos para posibles contactos laborales
+   * logo en la pagina del evento
+   * banner
+  2. Plata.
+   * Idem bronce con gráficos un poco mas grandes
+   * Auspicio de presentación en los videos de las charlas que van a ser subidos a la red
+  3. Oro.
+   * Idem plata
+   * Logo y descripción de la empresa en la pagina del evento
+   * Revestimos el atril donde se ubica el disertante para que en los videos salga continuamente la publicidad
