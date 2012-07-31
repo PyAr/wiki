@@ -29,10 +29,7 @@ mediante ejercicios simples y una guía autodirigida / autodidacta
 el resto de la conferencia, incluso porque no, colaborar en algún
 sprint (por ej. taréas básicas de pruebas o documentación).
 Si quieren proponer workshops sobre otros temas (qt, gtk, wx, django,
-plone, web2py, etc.), pueden hacerlo por el sitio web.
-Los detalles los pueden ver en:
-
-http://ar.pycon.org/2012/conference/workshops
+plone, web2py, etc.), pueden hacerlo por el [[http://ar.pycon.org/2012/activity/propose/workshop|sitio web de propuestas]].
 
 Un temario tentativo incluiría:
 
