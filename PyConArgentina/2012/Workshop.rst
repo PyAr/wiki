@@ -68,9 +68,7 @@ materiales o tener conocimiento avanzados, simplemente necesitamos
 voluntarios que sepan Python y puedan ayudar y responder las consultas
 de los participantes.
 
-Tampoco tienen una duración específica ni día u horario rígido,
-podemos coordinar los espacios en los tres días de sprints (Lunes a
-Miércoles)
+Tampoco es un curso intensivo (se pueden por ej. trabajar en sprints en paralelo), y no tienen una duración específica ni día u horario rígido, podemos coordinar los espacios en los tres días de sprints (Lunes a Miércoles)
 
 Si estas interesado en colaborar, por favor anotate en la siguiente lista, indicando tema, datos de contacto y disponibilidad horaria:
 
