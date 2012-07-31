@@ -79,4 +79,4 @@ Recuerden que también necesitaríamos disertantes para dar el seminario introdu
 
 Si estas interesado en colaborar, por favor anotate en la siguiente lista, indicando tema, datos de contacto y disponibilidad horaria:
 
- * Marcelo Martinovic <<MailTo(marcelo.martinovic AT gmail DOT com)>>: instalacion en Linux y ayudar en los primeros pasos en python (dia y horario)
+ * Marcelo Martinovic <<MailTo(marcelo.martinovic AT gmail DOT com)>>: instalacion en Linux y ayudar en los primeros pasos en python (Lunes y Martes de 10 a 14)
