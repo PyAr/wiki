@@ -47,10 +47,9 @@ Un temario tentativo incluiría:
     * Trabajando con repositorios (mercurial, git y bazaar)
     * Cómo usar un Wiki / Issue Tracker
 
-
 === ¿Cuando sería y dónde? ===
 
-Capital Federal, del lunes 12 al Miércoles 13 de Noviembre de 2012 (en paralelo con los sprints de desarrollo). 
+Capital Federal (sucursales de [[http://argentina.enjoyurbanstation.com/es/|UrbanStation]] a definir), del lunes 12 al Miércoles 13 de Noviembre de 2012 (en paralelo con los sprints de desarrollo). 
 Al otro día arrancan los tutoriales (Jueves), y luego las charlas el Viernes y Sábado.
 
 Sí, si vienen de lejos van a tener algunas noches más de hotel o hostel, pero seguro que lo podemos resolver a nivel comunidad (gente de PyAr que tiene un colchón de más en la casa, por ejemplo... y si al otro día también vas a los tutoriales, es un win win). Para más info ver [[PyConArgentina/2012/AlojamientoCompartido|Alojamiento Compartido]]
@@ -61,6 +60,11 @@ Se puede hacer todo durante todo el día (arrancar a las 10hs, terminar a las 20
 
 ¡Todos!. 
 Un detalle muy importante: por favor registrense en la página de la conferencia si planean venir al workshop (para ver si juntamos gente interesada, estar en contacto y estimar cuantos seríamos): http://ar.pycon.org/2012 
+
+==== Seminario Pre-Pycon ====
+
+Adicionalmente, desde [[http://www.educacionit.com.ar/|EducacionIT]] también nos ofrecieron un lugar en Capital Federal para hacer alguna actividad pre-PyCon, por ejemplo, un seminario para difundir el lenguaje antes de la conferencia. La entidad ya realiza ese tipo de eventos para otros lenguajes, para más información pueden ver la página de dicha organización.
+
 
 == Lista de voluntarios para colaborar ==
 
