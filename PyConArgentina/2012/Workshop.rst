@@ -20,13 +20,7 @@ Por lo tanto este año, para ayudar a la gente que está tan cerca de ir a algo 
 
 En PyCon US 2012, los talleres tuvieron la forma de un [[https://us.pycon.org/2012/community/welcome/|"Comité de Bienvenida"]], donde se ayudaba en el bar a los participantes antes de los tutoriales.
 
----- /!\ '''Edit conflict - other version:''' ----
-También se realizan eventos similares alrededor del mundo, por ej el [[http://bostonpythonworkshop.com/|Boston Python Workshop]], y algo similar se intentó previo al [[PyConArgentina/2012/Workshop|PyCamp 2012]].
-
----- /!\ '''Edit conflict - your version:''' ----
 También se realizan eventos similares alrededor del mundo, por ej el [[http://bostonpythonworkshop.com/|Boston Python Workshop]], y algo similar se intentó previo al [[PyCamp/2012/Workshop|PyCamp 2012]].
-
----- /!\ '''End of edit conflict''' ----
 
 == ¿Qué estructura tendría este Workshop? ==
 
