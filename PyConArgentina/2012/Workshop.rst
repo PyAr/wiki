@@ -61,7 +61,7 @@ Se puede hacer todo durante todo el día (arrancar a las 10hs, terminar a las 20
 ¡Todos!. 
 Un detalle muy importante: por favor registrense en la página de la conferencia si planean venir al workshop (para ver si juntamos gente interesada, estar en contacto y estimar cuantos seríamos): http://ar.pycon.org/2012 
 
-==== Seminario Pre-Pycon ====
+== Seminario Pre-Pycon ==
 
 Adicionalmente, desde [[http://www.educacionit.com.ar/|EducacionIT]] también nos ofrecieron un lugar en Capital Federal para hacer alguna actividad pre-PyCon, por ejemplo, un seminario para difundir el lenguaje antes de la conferencia. La entidad ya realiza ese tipo de eventos para otros lenguajes, para más información pueden ver la página de dicha organización.
 
