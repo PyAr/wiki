@@ -16,7 +16,7 @@ Pero hay que animarse a venir a la Conferencia. Y se escucha muchas veces razone
  * Etc.
 
 En PyCon US 2012, los talleres tuvieron la forma de un "Comité de Bienvenida", donde se ayudaba en el bar a los participantes antes de los tutoriales: https://us.pycon.org/2012/community/welcome/
-
+También se realizan eventos similares alrededor del mundo, por ej el [[http://bostonpythonworkshop.com/|Boston Python Workshop]]
 
 == ¿Qué estructura tendría este Workshop? ==
 
