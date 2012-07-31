@@ -3,9 +3,8 @@
 Siempre que hablamos de diversidad sale el tema de ayudar a principiantes, de bajar la barrera de entrada para que los nuevos interesados participen en proyectos de la comunidad y se acerquen al lenguaje Python.
 
 Los [[http://ar.pycon.org/2012/conference/sprints|Sprints de PyCon]] son uno de esos eventos en los que un principiante puede tomar velocidad y salir, con una experiencia importante, habiendo trabajado codo a codo con desarrolladores "seniors", y todo en un ambiente divertido. 
+Además de las charlas (inaugurando este año un [[http://ar.pycon.org/2012/conference/science|track científico]] y otro [[http://ar.pycon.org/2012/conference/extreme|"extremo"]]), la conferencia este año también contará con [[http://ar.pycon.org/2012/conference/tutorials|Tutoriales]], cursos intensivos más formales, con temario, materiales, para reforzar y profundizar los conocimientos.
 Más info sobre PyCon Argentina 2012 en [[http://ar.pycon.org/2012|sitio web]].
-
-Además de las charlas, la conferencia este año también contará con [[http://ar.pycon.org/2012/conference/tutorials|Tutoriales]], cursos intensivos más formales, con temario, materiales, para reforzar y profundizar los conocimientos.
 
 Pero hay que animarse a venir a la Conferencia. Y se escucha muchas veces razones como las siguientes...
 
