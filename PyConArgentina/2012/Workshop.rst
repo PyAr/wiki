@@ -75,6 +75,8 @@ de los participantes.
 
 Tampoco es un curso intensivo (se pueden por ej. trabajar en sprints en paralelo), y no tienen una duración específica ni día u horario rígido, podemos coordinar los espacios en los tres días de sprints (Lunes a Miércoles)
 
+Recuerden que también necesitaríamos disertantes para dar el seminario introductorio mencionado anteriormente.
+
 Si estas interesado en colaborar, por favor anotate en la siguiente lista, indicando tema, datos de contacto y disponibilidad horaria:
 
  * Marcelo Martinovic <<MailTo(marcelo.martinovic AT gmail DOT com)>>: instalacion en Linux y ayudar en los primeros pasos en python (dia y horario)
