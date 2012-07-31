@@ -46,6 +46,8 @@ Un temario tentativo incluiría:
     * Trabajando con repositorios (mercurial, git y bazaar)
     * Cómo usar un Wiki / Issue Tracker
 
+'''NOTA''': También sirven instructivos paso a paso, videos u hojas de referencias, entre otros materiales.
+
 === ¿Cuando sería y dónde? ===
 
 Capital Federal (sucursales de [[http://argentina.enjoyurbanstation.com/es/|UrbanStation]] a definir), del lunes 12 al Miércoles 13 de Noviembre de 2012 (en paralelo con los sprints de desarrollo). 
