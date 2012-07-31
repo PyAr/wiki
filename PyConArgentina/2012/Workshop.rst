@@ -15,7 +15,7 @@ Pero hay que animarse a venir a la Conferencia. Y se escucha muchas veces razone
  * "¿Qué es bazaar, mercurial o git? ¿Cómo arranco?"
  * Etc.
 
-Por lo tanto este año, para ayudar a la gente que está tan cerca de ir a algo tan interesante como un PyCon pero que no termina de animarse, proponemos un [[http://ar.pycon.org/2012/conference/workshops|Workshops (talleres)]] para "limar estos detalles".
+Por lo tanto este año, para ayudar a la gente que está tan cerca de ir a algo tan interesante como un PyCon pero que no termina de animarse, proponemos un [[http://ar.pycon.org/2012/conference/workshops|Workshop (talleres)]] para "limar estos detalles".
 
 En PyCon US 2012, los talleres tuvieron la forma de un [[https://us.pycon.org/2012/community/welcome/|"Comité de Bienvenida"]], donde se ayudaba en el bar a los participantes antes de los tutoriales.
 También se realizan eventos similares alrededor del mundo, por ej el [[http://bostonpythonworkshop.com/|Boston Python Workshop]]
