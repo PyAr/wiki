@@ -11,6 +11,7 @@ Pero hay que animarse a venir a la Conferencia. Y se escucha muchas veces razone
  * "Pero yo sé muy poco de Python, apenas estoy empezando"
  * "Me da vergüenza trabajar con gente que sabe mucho"
  * "No conozco a nadie de la comunidad"
+ * "No puedo instalar o usar el Python"
  * "No sé editar un wiki para colaborar con otros"
  * "¿Qué es bazaar, mercurial o git? ¿Cómo arranco?"
  * Etc.
