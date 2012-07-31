@@ -40,7 +40,6 @@ Un temario tentativo incluiría:
     * Instalar sistemas de control de versiones
     * Instalar extensiones (PyGTK, PyQt, WxPython, PIL, NumPy, etc.)
     * Instalar frameworks (django, web2py, zope/plone, etc.)
-
  * Pequeñas gotas de conocimiento:
     * Intro a Python y más (con el [[Tutorial|Tutorial]] como guía)
     * Hagamos una aplicación sencilla!
