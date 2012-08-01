@@ -1,6 +1,8 @@
 = Trabajos con Python =
 == 2012 ==
 
+ * (01/08/2012) Onapsis, empresa líder en seguridad de ERP sigue incorporando Desarolladores Web Python!, buscamos developers con experiencia en frameworks web Pyramid/Pylons, SQLAlchemy, Javascript, ExtJS/Sencha, JQuery, TDD. Si conoces algunas de estas tecnologías y tenes ganas de aprender nuevas, no dudes en mandarnos tu C.V. a careers@onapsis.com o ponete en contacto con nosotros en la próxima conferencia de PyCon 2012!! Para mas información ingresa a http://www.onapsis.com/company-careers-PWD01.php
+
  * (20/07/2012) Intel Software de Argentina está buscando programadores Python para incorporarse a su equipo de trabajo en Córdoba Capital. Requisitos: Ingenieros en Sistemas, Computación o afín con más de 5 años de experiencia relacionada. Interesados enviar CV a empleos.asdc@intel.com. Referencia: pyar-python
 
  * (19/07/2012) Estamos buscando programadores SSr o Sr “Django/Python” para incorporar a nuestro equipo de trabajo. Requisitos: Conocimientos avanzados de Django/Python y al menos 2 años de experiencia relacionada. Se valorara experiencia en PHP, jQuery, HTML 5, CSS 3, Memcached, MySQL y PostgeSQL. Interesados enviar CV a <<MailTo(rrhh EN digbang PUNTO com)>> y Ref.: Python
