@@ -1,4 +1,4 @@
-= Gtk Browser Con Web Inspector = 
+== Gtk Browser Con Web Inspector ==
 
 esta receta va mas alla del "navegador en python en N lineas" (donde N < 30)
 
