@@ -6,7 +6,7 @@
  * [[http://git-scm.com | Git ]]
  * [[http://kippt.com | Kippt ]]
  * [[http://jsconf.com.ar | JsConfAr ]]
- * La primera parte de [[http://www.mozilla-hispano.com.ar | Mozilla Hispano ]]
+ * La primera parte de [[http://www.mozilla-hispano.org | Mozilla Hispano ]]
  * [[http://ninja-ide.org| Ninja Ide]]
 
 == Que queremos mostrar ==
