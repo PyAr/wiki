@@ -148,9 +148,10 @@ pdf.Output('c:/factura.pdf', 'F')
 
 os.system("c:/factura.pdf")
 }}}
+
 {{{
 # -*- coding: iso-8859-1 -*-
-
+#Actualizado 24/08/2012
 import os
 from fpdf import FPDF
 
@@ -288,7 +289,7 @@ os.system("/home/path/factura.pdf")
 ==== Autor / Autores: ====
 MarianoReingart
 
-===== Actualización =======
+==== Actualización ====
 Mathesis
 
 
