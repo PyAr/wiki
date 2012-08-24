@@ -148,6 +148,7 @@ pdf.Output('c:/factura.pdf', 'F')
 
 os.system("c:/factura.pdf")
 }}}
+{{{
 # -*- coding: iso-8859-1 -*-
 
 import os
@@ -281,7 +282,7 @@ pdf.cell(ln=0, h=7.0, align='L', w=120.0, txt='012345678905', border=0)
 pdf.output('/home/user/factura.pdf', 'F')
 
 os.system("/home/path/factura.pdf")
-
+}}}
 		
 
 ==== Autor / Autores: ====
