@@ -95,6 +95,9 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr, están rela
  * [[http://code.google.com/p/fisa-vim-config/|fisa-vim-config]]
   * Una configuración de vim con muchas cosas listas para programar en python (autocompletado, navegador de clases, debugger, detección de errores, etc.)
 
+ * [[https://github.com/maritnvol/Donnees-Acquisition-Data-software|Donnees]]
+  * Un software de adquisición de datos de datos, incluye gráficos en tiempo real, software SCADA y un cliente web.
+
 <<BR>>
 ----
  <<Navigation(children, 1)>> 
