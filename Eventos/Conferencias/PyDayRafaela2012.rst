@@ -11,7 +11,7 @@
 
 
 == Tareas previas al evento ==
-|| Nro actividad || Actividad || Fecha tentativa/deadline || Encargado ||
+||<:> '''Número''' ||<:> '''Actividad''' ||<:> '''Fecha''' ~-tentativa/deadline-~ ||<:> '''Encargado''' ||
 || 1 || --(Call for charlas)-- || 26/7  || Ariel ||
 || 2 || --(Carta para sponsors)-- || 22/8 || Ariel ||
 || 3 || Probar equipo de videoconferencia ||  || CesarRoldan ||
