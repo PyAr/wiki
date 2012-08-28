@@ -36,4 +36,4 @@
 || 22 || Coordinar la apertura de la facu || 18/10 || ||
 || 23 || Preparar laboratorio para el dictado de los talleres || || ||
 || 24 || Pedir presupuestos de impresión || 04/9 || ||
-|| 25 || Preparar un par de laptops para la registracion || || ||
+|| 25 || --(Preparar un par de laptops para la registracion)-- Confirmadas las netbooks de UCSE para usar durante todo el evento || 28/08 || Cesar ||
