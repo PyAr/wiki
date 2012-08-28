@@ -5,7 +5,7 @@
 || Coordinador general y tesorería || Ariel Rossanigo ||
 || Coordinador página || Orfi Schleppi ||
 || Coordinador difusión || JuanFisanotti ||
-|| Coordinador videos e infraestructura || Cesar Roldán ||
+|| Coordinador videos e infraestructura || CesarRoldan ||
 || Coordinador cathering y ambientación || Lorena D'Iorio ||
 || Coordinador sponsors || Ariel Rossanigo ||
 
@@ -14,13 +14,13 @@
 || Nro actividad || Actividad || Fecha tentativa/deadline || Encargado ||
 || 1 || --(Call for charlas)-- || 26/7  || Ariel ||
 || 2 || --(Carta para sponsors)-- || 22/8 || Ariel ||
-|| 3 || Probar equipo de videoconferencia ||  || Cesar ||
+|| 3 || Probar equipo de videoconferencia ||  || CesarRoldan ||
 || 4 || --(Reservar lugar en la facu)-- || 20/7 || Ariel ||
 || 5 || Contactar posibles auspiciantes || 22/8 || Ariel (Cámara), Fisa (Machinalis), Orfi (MSA) ||
 || 6 || Alta de auspiciantes en la web || 28/8 || Orfi ||
 || 7 || Consultar en el diario por el auspicio y posibilidad de realizar una nota. '''Costos''' ||  || ||
 || 8 || Diseño de logo para afiches y programa || || ||
-|| 9 || Asegurar que todo lo referente a redes funcione como debiera || || Cesar ||
+|| 9 || Asegurar que todo lo referente a redes funcione como debiera || || CesarRoldan ||
 || 10 || Diseño de afiches y folletos || 12/9 (estaría bueno llevar al PyDay en Cba || ||
 || 11 || Diseño de aviso para el diario || 06/10 || ||
 || 12 || Realizar nota en el diario || 18/10 || ||
@@ -36,4 +36,4 @@
 || 22 || Coordinar la apertura de la facu || 18/10 || ||
 || 23 || Preparar laboratorio para el dictado de los talleres || || ||
 || 24 || Pedir presupuestos de impresión || 04/9 || ||
-|| 25 || --(Preparar un par de laptops para la registracion)-- Confirmadas las netbooks de UCSE para usar durante todo el evento || 28/08 || Cesar ||
+|| 25 || --(Preparar un par de laptops para la registracion)-- Confirmadas las netbooks de UCSE para usar durante todo el evento || 28/08 || CesarRoldan ||
