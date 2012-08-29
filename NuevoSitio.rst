@@ -9,6 +9,11 @@
  * La primera parte de [[http://www.mozilla-hispano.org | Mozilla Hispano ]]
  * [[http://ninja-ide.org| Ninja Ide]]
 
+
+== Diseño tentativo ==
+ 
+ [[http://www.imgs.com.ar/imgs/f/6/7/f6710b27328bca52c9b2e2b8da012eda8f298749.png]]
+ 
 == Que queremos mostrar ==
 
 Nos encontramos con tres clave
