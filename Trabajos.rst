@@ -1,5 +1,6 @@
 = Trabajos con Python =
 == 2012 ==
+ * (29/08/2012) [[http://bixti.com.ar|Elo7/Bixti]] busca sumar desarrolladores Python/Django al equipo basado en Capital Federal. Elo7 es el líder del mercado brasilero, con más de 8 millones de visitas mensuales y funding para expandir el proyecto. El equipo argentino lleva dos años en el mercado al frente del proyecto Bixti y ahora tiene como desafío desarrollar el negocio en toda la región hispanohablante. Los conocimientos técnicos necesarios son: Django >= 1.3, Javascript, Fabric, PostgreSQL, virtualenv, git, memcached, Linux.La posición es para un puesto in-office, si crees que tenes un perfil parecido a lo que buscamos, envíanos tu CV a alexis@bixti.com queremos conocerte!.
 
  * (01/08/2012) Onapsis, empresa líder en seguridad de ERP sigue incorporando Desarolladores Web Python!, buscamos developers con experiencia en frameworks web Pyramid/Pylons, SQLAlchemy, Javascript, ExtJS/Sencha, JQuery, TDD. Si conoces algunas de estas tecnologías y tenes ganas de aprender nuevas, no dudes en mandarnos tu C.V. a careers@onapsis.com o ponete en contacto con nosotros en la próxima conferencia de PyCon 2012!! Para mas información ingresa a http://www.onapsis.com/company-careers-PWD01.php
 
