@@ -43,6 +43,7 @@
 || 29 || Coordinar opciones de catering para el almuerzo del sábado || || ||
 || 30 || Preparar parte de prensa para sacar en los diarios locales, en espacio cedido por UCSE || || ||
 || 31 || Reservar hoteles para los disertantes. (esto capaz que se puede hacer por medio de un convenio de UCSE) || || ||
+|| 32 || Preparar biromes, fibrones, papeles... || || ||
 
 == Tareas durante el evento ==
 ||<:> '''Número''' ||<:> '''Actividad''' ||<:> '''Encargado''' ||
@@ -50,11 +51,11 @@
 || 101 || Impresión de diplomas || ||
 || 102 || Asegurar que no falte agua en el auditorio o en los dispensers || ||
 || 103 || Preparar el break || ||
-|| 104 || Controlar tiempos || ||
+|| 104 || Controlar tiempos y ayudar con la parte técnica del proyector || ||
 || 105 || Filmar  || ||
 || 106 || Sacar fotos || ||
 || 107 || Presentar las charlas y el evento || ||
-
+|| 108 || Alguien que revise que todo esté en orden (responder preguntas, revisar papel de los baños, agua de dispenser, etc) || ||
 
 == Tareas posteriores al evento ==
 
