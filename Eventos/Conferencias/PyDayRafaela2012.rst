@@ -30,7 +30,7 @@
 || 16 || Preparar lo necesario para la ambientación del auditorio || 19/10 || ||
 || 17 || Refuerzo call for charlas || || ||
 || 18 || Envío de invitación formal || || ||
-|| 19 || Preparar un plan B para la filmación de videos ||  || ||
+|| 19 || Preparar un plan B para la filmación de videos ||  || GustavoTell ||
 || 20 || Revisar charlas presentadas || || ||
 || 21 || Tener preparado un segundo proyector || || ||
 || 22 || Coordinar la apertura de la facu || 18/10 || ||
