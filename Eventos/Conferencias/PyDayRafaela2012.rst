@@ -37,3 +37,28 @@
 || 23 || Preparar laboratorio para el dictado de los talleres || || ||
 || 24 || Pedir presupuestos de impresión || 04/9 || ||
 || 25 || --(Preparar un par de laptops para la registracion)-- Confirmadas las netbooks de UCSE para usar durante todo el evento || 28/08 || CesarRoldan ||
+|| 26 || Comprar agua para disertantes ||  || ||
+|| 27 || Preparar lo necesario para la cena after PyDay || || ||
+|| 28 || Preparar lo necesario para los breaks (1 viernes y 1 el sábado || || ||
+|| 29 || Coordinar opciones de catering para el almuerzo del sábado || || ||
+|| 30 || Preparar parte de prensa para sacar en los diarios locales, en espacio cedido por UCSE || || ||
+|| 31 || Reservar hoteles para los disertantes. (esto capaz que se puede hacer por medio de un convenio de UCSE) || || ||
+
+== Tareas durante el evento ==
+||<:> '''Número''' ||<:> '''Actividad''' ||<:> '''Encargado''' ||
+|| 100 || Registración. Revisar datos de los inscriptos, cobrar los diplomas y entregar mechandaising. ||  ||
+|| 101 || Impresión de diplomas || ||
+|| 102 || Asegurar que no falte agua en el auditorio o en los dispensers || ||
+|| 103 || Preparar el break || ||
+|| 104 || Controlar tiempos || ||
+|| 105 || Filmar  || ||
+|| 106 || Sacar fotos || ||
+|| 107 || Presentar las charlas y el evento || ||
+
+
+== Tareas posteriores al evento ==
+
+||<:> '''Número''' ||<:> '''Actividad''' ||<:> '''Fecha''' ~-tentativa/deadline-~ ||<:> '''Encargado''' ||
+|| 200 || Editar videos. Supuestamente solo vamos a tener que agregar los auspicios. ||   ||  ||
+|| 201 || Subir videos a algún sitio y crear los enlaces en la página  ||   ||  ||
+|| 202 || Actualizar el [[http://python.org.ar/pyar/Eventos#conferencias|wiki de eventos]] de PyAr cambiando '''a realizarse...''' por '''realizado...'''  ||   ||  ||
