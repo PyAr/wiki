@@ -20,6 +20,11 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 
+==== 31/08/2012 ====
+El día 15 de Septiembre se llevará a cabo un PyDay en Córdoba, enteraté más del evento accediendo a [[http://www.pydaycba.com.ar/|PyDay 2012 Córdoba]].
+
+El [[http://www.pydaycba.com.ar/schedule|programa de charlas]] se encuentra disponible. La [[http://www.pydaycba.com.ar/register|inscripción]] es libre y gratuita!
+
 ==== 07/05/2012 ====
 
 Python Argentina se enorgullece de anunciar que está abierto el período de recepción de propuestas para [[http://ar.pycon.org/2012|PyCon Argentina 2012]], con fecha límite '''30 de Junio de 2012'''. Más información e instrucciones para envío, [[http://ar.pycon.org/2012/conference/proposals|aquí]].
