@@ -60,6 +60,6 @@
 == Tareas posteriores al evento ==
 
 ||<:> '''Número''' ||<:> '''Actividad''' ||<:> '''Fecha''' ~-tentativa/deadline-~ ||<:> '''Encargado''' ||
-|| 200 || Editar videos. Supuestamente solo vamos a tener que agregar los auspicios. ||   ||  ||
-|| 201 || Subir videos a algún sitio y crear los enlaces en la página  ||   ||  ||
+|| 200 || Editar videos. Supuestamente solo vamos a tener que agregar los auspicios. ||   || GustavoTell ||
+|| 201 || Subir videos a algún sitio y crear los enlaces en la página  ||   || GustavoTell ||
 || 202 || Actualizar el [[http://python.org.ar/pyar/Eventos#conferencias|wiki de eventos]] de PyAr cambiando '''a realizarse...''' por '''realizado...'''  ||   ||  ||
