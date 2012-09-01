@@ -21,6 +21,14 @@
 ## ULTIMAS_START
 
 ==== 31/08/2012 ====
+
+Desde el 25 de agosto se puso para su descarga '''Python 3.3.0 RC1'''. La lista de novedades es muy amplia, e incluye desde entornos virtuales soportados en el core, paquete namespaces y algunas mejoras para facilitar el pasaje de 2.x a 3.x
+
+Los enlaces importantes son:
+* [[http://docs.python.org/dev/whatsnew/3.3.html|Listado con las novedades]]. 
+* [[http://www.python.org/download/releases/3.3.0/|Enlace para descargarlo]].
+ 
+==== 31/08/2012 ====
 El día 15 de Septiembre se llevará a cabo un PyDay en Córdoba, enteraté más del evento accediendo a [[http://www.pydaycba.com.ar/|PyDay 2012 Córdoba]].
 
 El [[http://www.pydaycba.com.ar/schedule|programa de charlas]] se encuentra disponible. La [[http://www.pydaycba.com.ar/register|inscripción]] es libre y gratuita!
