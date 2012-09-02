@@ -20,13 +20,22 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 
+==== 02/09/2012 ====
+
+El 15 de septiembre se llevará a cabo el encuentro '''Nea Extends''' en Formosa.
+
+El '''Nea Extends''' es un evento llevado adelante por programadores independientes, que desean dar a conocer las bondades, ventajas, y herramientas disponibles para los diferentes lenguajes de programación utilizados actualmente. Cómo aprovecharlos y cómo convertirlos en fuente de trabajo a través de la experiencia vivida por cada uno. 
+
+Para conocer a los disertantes, más información sobre el evento e inscripción: [[http://neaextends.net/|Página oficial de NeaExtends]]. 
+
+
 ==== 31/08/2012 ====
 
 Desde el 25 de agosto se puso para su descarga '''Python 3.3.0 RC1'''. La lista de novedades es muy amplia, e incluye desde entornos virtuales soportados en el core, paquete namespaces y algunas mejoras para facilitar el pasaje de 2.x a 3.x
 
 Los enlaces importantes son:
-* [[http://docs.python.org/dev/whatsnew/3.3.html|Listado con las novedades]]. 
-* [[http://www.python.org/download/releases/3.3.0/|Enlace para descargarlo]].
+ * [[http://docs.python.org/dev/whatsnew/3.3.html|Listado con las novedades]]. 
+ * [[http://www.python.org/download/releases/3.3.0/|Enlace para descargarlo]].
  
 ==== 31/08/2012 ====
 El día 15 de Septiembre se llevará a cabo un PyDay en Córdoba, enteraté más del evento accediendo a [[http://www.pydaycba.com.ar/|PyDay 2012 Córdoba]].
