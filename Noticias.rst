@@ -46,39 +46,10 @@ El [[http://www.pydaycba.com.ar/schedule|programa de charlas]] se encuentra disp
 
 Python Argentina se enorgullece de anunciar que está abierto el período de recepción de propuestas para [[http://ar.pycon.org/2012|PyCon Argentina 2012]], con fecha límite '''30 de Junio de 2012'''. Más información e instrucciones para envío, [[http://ar.pycon.org/2012/conference/proposals|aquí]].
 
-==== 1/07/2011 ====
-
-Python Argentina se enorgullece de anunciar la versión 0.7 de la CDPedia.  Esta versión fue entregada a Educ.ar para ser distribuida en escuelas del todo el país, y ya está disponible para la descarga pública. Más información e instrucciones para la descarga, [[http://cdpedia.python.org.ar/|aquí]].
-
-
-==== 11/06/2011 ====
-
-Se encuentra abierta la inscripción para el evento 
-[[http://www.pyday.com.ar/catan2011 | PyDay Gonzalez Catán 2011: "Jornada de Programación en Python"]] 
-a realizarse el sábado '''16 de Julio de 2011''' de '''9 a 19hs''' en el 
-[[http://www.institutopascal.edu.ar/ | Instituto Superior Tecnológico Blaise Pascal]], 
-que contará con Charlas Introductorias, Talleres Prácticos y espacios abiertos 
-([[http://www.pyday.com.ar/catan2011/conference/schedule | ver Agenda]]).
-
-Entrada libre y gratuita previa [[http://www.pyday.com.ar/catan2011/user/register | inscripción web]] (cupos limitados)
-Se entregan certificados sin cargo.
-
-
-==== 28/03/2011 ====
-
-Se terminó el PyCamp 2011, los proyectos en los que trabajamos estan [[PyCamp/2011/ProyectosLaburados | acá]]
-
-==== 13/03/2011 ====
-
-Falta muy poco para el PyCamp 2011 ¿Que esperas para inscribirte? [[PyCamp/2011 |Mas info...]]
-
-==== 10/02/2011 ====
-
-Nos llega de Brasil una pésima noticia: falleció Dorneles Tremea, presidente de la Asociación de Python Brasil, y una gran persona. Más información [[http://associacao.python.org.br/associacao/imprensa/noticias/associacao-python-brasil-esta-em-luto|aquí]].
-
 ##irss stop
 ## ULTIMAS_END
 == Anteriores ==
+ * [[Noticias/2011 |Año 2011]]
  * [[Noticias/2010 |Año 2010]]
  * [[Noticias/2009 |Año 2009]]
  * [[Noticias/2008 |Año 2008]]
