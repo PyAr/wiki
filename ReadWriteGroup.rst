@@ -8,6 +8,7 @@
  * AngelVelasquez
  * AndresBlanco
  * AnthonyLenton
+ * arielrossanigo
  * arturoeanton
  * CarlosEnriqueRodriguez
  * CesarPortela
