@@ -1,4 +1,4 @@
-= Objetivo =
+﻿= Objetivo =
 Entregar una copia impresa del [[http://docs.python.org.ar/tutorial/contenido.html|Tutorial de Python en español]]  a cada universidad del pais.
 
 = Como colaborar =
@@ -44,6 +44,7 @@ Si estas cerca o tenes alguna relación con una universidad que no tiene el Tuto
 ||Manuel Muradás ||<<MailTo(  mmuradas EN  dieresys PUNTO com PUNTO ar)>> ||UADE ||(2) ||
 ||Manuel Muradás ||<<MailTo(  mmuradas EN  dieresys PUNTO com PUNTO ar)>> ||"José Hernandez" E.E.T. Nº7 de Avellaneda ||(2) ||
 ||Diego Mascialino ||<<MailTo(  dmascialino EN  gmail PUNTO com)>> ||UBA - Facultad de Ingeniería, Biblioteca "Ing Butty" y Biblioteca del LABI ||(3) ||
+||Marcelo Cazon ||<<MailTo(  sandman PUNTO net EN gmail PUNTO com)>> ||UNCa - Facultad de Tecnologia y Ciencias Aplicadas ||(1) ||
 
 
 
