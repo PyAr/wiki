@@ -51,7 +51,7 @@
 || 101 || Impresión de diplomas || ||
 || 102 || Asegurar que no falte agua en el auditorio o en los dispensers || ||
 || 103 || Preparar el break || ||
-|| 104 || Controlar tiempos y ayudar con la parte técnica del proyector || ||
+|| 104 || Controlar tiempos y ayudar con la parte técnica del proyector || GustavoTell ||
 || 105 || Filmar  || ||
 || 106 || Sacar fotos || ||
 || 107 || Presentar las charlas y el evento || ||
