@@ -1,4 +1,4 @@
-= Objetivo =
+﻿= Objetivo =
 
 Pegar y mantener en las carteleras una copia impresa del [[http://ar.pycon.org/2012/static/docs/PyConAr2012_Afiche_A3.pdf|Afiche de PyCon Argentina 2012]] a cada universidad del pais, empresas y otras instituciones.
 
@@ -54,6 +54,7 @@ Si estas cerca o tenes alguna relación con una universidad, empresa o instituci
 ||Manuel Muradás ||<<MailTo(  mmuradas EN  dieresys PUNTO com PUNTO ar)>> ||"José Hernandez" E.E.T. Nº7 de Avellaneda || ||
 ||Diego Mascialino ||<<MailTo(  dmascialino EN  gmail PUNTO com)>> ||UBA - Facultad de Ingeniería, Biblioteca "Ing Butty" y Biblioteca del LABI || ||
 ||Emiliano López ||<<MailTo(  emiliano.lopez EN  gmail PUNTO com)>> ||Universidad Nacional del Litoral (SFe) - Facultad de Ingeniería y Ciencias Hídricas, Facultad de Ingeniería Química || ||
+||Marcelo Cazon ||<<MailTo( sandman PUNTO net EN gmail PUNTO com)>> ||UNCa - Facultad de Tecnologia y Ciencias Aplicadas || ||
 
 Para más información, escribe a la ListaDeCorreo
 
