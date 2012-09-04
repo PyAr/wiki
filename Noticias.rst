@@ -20,6 +20,14 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 
+
+==== 04/09/2012 ====
+Los días 19 y 20 de octubre de 2012 se llevará a cabo un PyDay en la ciudad de Rafaela, en la sede de la Universidad Católica de Santiago del Estero, Departamento Académico Rafaela.
+En la edición de este año se dictarán cursos introductorios el día viernes, dejando para el sábado charlas sobre Python y temas afines.
+
+La entrada es libre y gratuita. Para registrarse al evento u obtener más información se puede visitar el sitio web del evento: [[http://www.pyday.com.ar/rafaela2012|PyDay Rafaela 2012]].
+
+
 ==== 02/09/2012 ====
 
 El 15 de septiembre se llevará a cabo el encuentro '''Nea Extends''' en Formosa.
