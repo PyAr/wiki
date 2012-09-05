@@ -29,8 +29,8 @@ Para más info ver: http://wiki.python.org/moin/ConventionHowto
  * --(Traducir http://ar.pycon.org/2012/conference/proposals?lang=en (al ingles) )--
  * --(Traducir http://ar.pycon.org/2012/conference/diversity?lang=es (al español) )--
  * --(Crear página http://ar.pycon.org/2012/conference/registration?lang=es (traducir de http://ar.pycon.org/2012/conference/registration?lang=en) )--
- * --(Crear página http://ar.pycon.org/2012/conference/volunteer?lang=es)-- [MarianoReingart]
- * --(Crear página http://ar.pycon.org/2012/conference/press )-- [orfi]
+ * --(Crear página http://ar.pycon.org/2012/conference/volunteer?lang=es )-- [MarianoReingart] 
+ * --( Crear página http://ar.pycon.org/2012/conference/press )--  [orfi]
 
 
 == Revisión y Selección de Charlas ==
@@ -113,4 +113,4 @@ Para más info ver: http://wiki.python.org/moin/ConventionHowto
 
  * PyCon After Party: definir empresa de Catering y contratar! [romina]
  * PyCon Fiesta de Cierre: Reservar lugar, averiguar presupuestos, contratar! [romina]?
- * --(Definir y organizar picnic y actividades recreativas día turístico (asado en el tigre?) )-- [emilio unq]
+ * --(Definir y organizar picnic y actividades recreativas día turístico (asado en el tigre?) )-- [gabriela/emilio unq]
