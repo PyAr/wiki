@@ -30,12 +30,12 @@ Para más info ver: http://wiki.python.org/moin/ConventionHowto
  * --(Traducir http://ar.pycon.org/2012/conference/diversity?lang=es (al español) )--
  * --(Crear página http://ar.pycon.org/2012/conference/registration?lang=es (traducir de http://ar.pycon.org/2012/conference/registration?lang=en) )--
  * --(Crear página http://ar.pycon.org/2012/conference/volunteer?lang=es)-- [MarianoReingart]
- * --(Crear página http://ar.pycon.org/2012/conference/press)-- [Orfi]
+ * --(Crear página http://ar.pycon.org/2012/conference/press )-- [orfi]
 
 
 == Revisión y Selección de Charlas ==
 
- * --(Hacer el llamado a revisores para formar el comité de programa)--
+ * --(Hacer el llamado a revisores para formar el comité de programa )--
  * --(Hacer el llamado a votación del público (preferencias no vinculantes) )--
  * --(Pre-seleccinar charlas)--
  * --(Reunir por IRC del comité de programa)--
