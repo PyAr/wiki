@@ -27,7 +27,7 @@
 || 13 || 1° Aviso diario || 10/10 || ||
 || 14 || 2° Aviso diario || 17/10 || ||
 || 15 || Diseño de programas || 10/10 || ||
-|| 16 || Preparar lo necesario para la ambientación del auditorio || 19/10 || ||
+|| 16 || Preparar lo necesario para la ambientación del auditorio || 19/10 || Lore ||
 || 17 || Refuerzo call for charlas || || ||
 || 18 || Envío de invitación formal || || ||
 || 19 || Preparar un plan B para la filmación de videos ||  || GustavoTell ||
@@ -38,9 +38,9 @@
 || 24 || Pedir presupuestos de impresión || 04/10 ||Orfi ||
 || 25 || --(Preparar un par de laptops para la registracion)-- Confirmadas las netbooks de UCSE para usar durante todo el evento || 28/08 || CesarRoldan ||
 || 26 || Comprar agua para disertantes ||  ||Orfi ||
-|| 27 || Preparar lo necesario para la cena after PyDay || || ||
-|| 28 || Preparar lo necesario para los breaks (1 viernes y 1 el sábado || || ||
-|| 29 || Coordinar opciones de catering para el almuerzo del sábado || || ||
+|| 27 || Preparar lo necesario para la cena after PyDay || || Lore ||
+|| 28 || Preparar lo necesario para los breaks (1 viernes y 1 el sábado || || Lore ||
+|| 29 || Coordinar opciones de catering para el almuerzo del sábado || || Lore ||
 || 30 || Preparar parte de prensa para sacar en los diarios locales, en espacio cedido por UCSE || || ||
 || 31 || Reservar hoteles para los disertantes. (esto capaz que se puede hacer por medio de un convenio de UCSE) || || ||
 || 32 || Preparar biromes, fibrones, papeles... || ||Orfi ||
@@ -49,9 +49,9 @@
 == Tareas durante el evento ==
 ||<:> '''Número''' ||<:> '''Actividad''' ||<:> '''Encargado''' ||
 || 100 || Registración. Revisar datos de los inscriptos, cobrar los diplomas y entregar mechandaising. || Orfi y Martin||
-|| 101 || Impresión de diplomas || ||
+|| 101 || Impresión de diplomas ||  ||
 || 102 || Asegurar que no falte agua en el auditorio o en los dispensers ||Orfi ||
-|| 103 || Preparar el break || ||
+|| 103 || Preparar el break || Lore ||
 || 104 || Controlar tiempos y ayudar con la parte técnica del proyector || GustavoTell ||
 || 105 || Filmar  || ||
 || 106 || Sacar fotos || ||
