@@ -54,7 +54,7 @@
 || 103 || Preparar el break || Lore ||
 || 104 || Controlar tiempos y ayudar con la parte técnica del proyector || GustavoTell ||
 || 105 || Filmar  || ||
-|| 106 || Sacar fotos || ||
+|| 106 || Sacar fotos || GustavoTell ||
 || 107 || Presentar las charlas y el evento || ||
 || 108 || Alguien que revise que todo esté en orden (responder preguntas, revisar papel de los baños, agua de dispenser, etc) || ||
 
