@@ -20,6 +20,14 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 
+==== 09/09/2012 ====
+
+===== La conferencia PyConAr necesita tu colaboración =====
+ 
+  Ya está disponible la página donde se puede realizar la compra de un bono contribución o realizar donaciones que nos ayuden a afrontar los distintos gastos que conlleva un evento de esta magnitud.
+
+  Este año se decidió priorizar las becas por sobre el resto de las cosas, por eso, si podés ayudarnos date una vuelta por el [[http://pyconar.blogspot.com.ar/2012/09/la-conferencia-necesita-tu-contribucion.html| blog de PyConAr 2012]]. , donde se explica todo con lujo de detalles, y si todavía querés y podés, adquirís un bono de $250, $150, $75 o $0. Si, existe el $0 ya que es importante que sepas que '''la entrada a la conferencia es totalmente libre y gratuita'''. 
+
 
 ==== 04/09/2012 ====
 Los días 19 y 20 de octubre de 2012 se llevará a cabo un PyDay en la ciudad de Rafaela, en la sede de la Universidad Católica de Santiago del Estero, Departamento Académico Rafaela.
