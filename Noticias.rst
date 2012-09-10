@@ -20,6 +20,17 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 
+==== 10/09/2012 ====
+
+===== Llamado a Charlas - PyDay Rafaela 2012 =====
+
+La comunidad de pythoneros de Rafaela invita a los miembros de Python Argentina a proponer presentaciones, charlas y/o talleres
+para el segundo Python Day en Rafaela.
+La fecha límite original del 15 de septiembre se está pensando en extender al 30 de septiembre.
+
+Más información en el sitio del evento: [[http://www.pyday.com.ar/rafaela2012|PyDay Rafaela 2012]].
+
+
 ==== 09/09/2012 ====
 
 ===== La conferencia PyConAr necesita tu colaboración =====
