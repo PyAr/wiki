@@ -20,6 +20,15 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 
+==== 15/09/2012 ====
+
+Desde el 9 de septiembre esta para descargar '''Python 3.3.0 RC2'''. El segundo release candidate en menos de un mes, lo que augura un pronto lanzamiento de la versión definitiva. 
+
+Los enlaces importantes son:
+ * [[http://docs.python.org/dev/whatsnew/3.3.html|Listado con las novedades]]. 
+ * [[http://www.python.org/download/releases/3.3.0/|Enlace para descargarlo]].
+
+
 ==== 10/09/2012 ====
 
 ===== Llamado a Charlas - PyDay Rafaela 2012 =====
