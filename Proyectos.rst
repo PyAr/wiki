@@ -92,11 +92,15 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr, están rela
  * [[http://ninja-ide.org|NINJA-IDE]]
   * El objetivo de este proyecto es lograr un IDE especialmente diseñado para el desarrollo de aplicaciones Python, incorporando las características tradicionales de cualquier IDE y agregando funcionalidades extra con la que a todo programador de este lenguaje le gustaría contar.
 
- * [[http://code.google.com/p/fisa-vim-config/|fisa-vim-config]]
+ * [[https://github.com/fisadev/fisa-vim-config|fisa-vim-config]]
   * Una configuración de vim con muchas cosas listas para programar en python (autocompletado, navegador de clases, debugger, detección de errores, etc.)
 
  * [[https://github.com/maritnvol/Donnees-Acquisition-Data-software|Donnees]]
   * Un software de adquisición de datos de datos, incluye gráficos en tiempo real, software SCADA y un cliente web.
+
+ * [[https://github.com/fisadev/simpleai|SimpleAI]]
+  * Una lib para algoritmos de inteligencia artificial basada en AIMA (Artificial Intelligence, a Modern Approach, de Peter Norvig, el libro más usado para enseñar IA: http://aima.cs.berkeley.edu/).
+
 
 <<BR>>
 ----
