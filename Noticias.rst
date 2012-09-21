@@ -30,7 +30,7 @@ En este evento nos juntaremos desarrolladores y programadores tanto principiante
 
 El cronograma completo de actividades se encuentra en: http://ar.pycon.org/2012/schedule
 
-No olviden Inscribirse por el sitio web (cupos limitados): http://ar.pycon.org/2012/user/register (ver http://ar.pycon.org/2012/conference/registration para información sobre el bono contribución si están interesados en la remera y participar de los eventos sociales: recepción y fiesta de cierre).
+No olviden Inscribirse por el sitio web (cupos limitados): http://ar.pycon.org/2012/user/register (ver http://ar.pycon.org/2012/conference/registration para información sobre el bono contribución si están interesados en la remera, articulos promocionales y participar de los eventos sociales: recepción y fiesta de cierre).
 
 Agradecemos la colaboración de todos en la difusión de este llamado y del evento en si mediante los banners diseñados para tal fin y que se encuentran en http://ar.pycon.org/2012/conference/publicize/
 
