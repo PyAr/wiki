@@ -92,6 +92,16 @@ Universidad de Buenos Aires, Facultad de Ingenierí a (FIUBA) materia "Algoritmo
   . https://sites.google.com/site/fiuba7540rw/home/ejercicios.pdf
 
 
+Proyecto de Extensión "Programando Robots con Software Libre", Laboratorio de Investigación de Nuevas Tecnologías Informáticas (LINTI), Facultad de Informática, Universidad Nacional de La Plata. Lic. Claudia Banchoﬀ y grupo Lihuen.
+
+ * Sitio Web
+  . http://robots.linti.unlp.edu.ar
+
+ * Manual "Programando con Robots"
+  . http://robots.linti.unlp.edu.ar/img_auth.php/4/4a/Manual-programando-con-robots.pdf
+
+ * Paper " "Modificaciones realizadas al Robot Multiplo N6 para permitir programación interactiva", publicado en las 9º Jornadas de Sofware Libre (JAIIO JSL)
+  . http://www.41jaiio.org.ar/sites/default/files/11_JSL_2012.pdf
 
 == Ejemplos prácticos de problemas y soluciones frecuentes ==
  * [[http://code.activestate.com/recipes/langs/python/|Python Recipes - ActiveState]] (Inglés)
