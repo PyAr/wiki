@@ -28,7 +28,7 @@ PyAr, el grupo de usuarios de Python de Argentina invita a toda la comunidad de 
 
 En este evento nos juntaremos desarrolladores y programadores tanto principiantes como avanzados; bloggers, autores y diseñadores web; gerentes, administradores y emprendedores; científicos, ingenieros, curiosos y todo aquel que tenga ganas de acercarse a la comunidad Python en Argentina.  
 
-El cronograma completo de actividades se encuentra en: http://ar.pycon.org/2012/schedule/index
+El cronograma completo de actividades se encuentra en: http://ar.pycon.org/2012/schedule
 
 No olviden Inscribirse por el sitio web (cupos limitados): http://ar.pycon.org/2012/user/register (ver http://ar.pycon.org/2012/conference/registration para información sobre el bono contribución si están interesados en la remera y participar de los eventos sociales: recepción y fiesta de cierre).
 
