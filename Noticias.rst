@@ -20,6 +20,24 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 
+==== 20/09/2012 ====
+
+===== PyCon Argentina 2012: Invitación al público y gacetilla de prensa =====
+
+PyAr, el grupo de usuarios de Python de Argentina invita a toda la comunidad de usuarios de Python y de Software Libre en general a la Cuarta Conferencia Argentina de Python http://ar.pycon.org/2012, a realizarse en Buenos Aires del 12 al 17 de Noviembre de 2012.  
+
+En este evento nos juntaremos desarrolladores y programadores tanto principiantes como avanzados; bloggers, autores y diseñadores web; gerentes, administradores y emprendedores; científicos, ingenieros, curiosos y todo aquel que tenga ganas de acercarse a la comunidad Python en Argentina.  
+
+El cronograma completo de actividades se encuentra en: http://ar.pycon.org/2012/schedule/index
+
+No olviden Inscribirse por el sitio web (cupos limitados): http://ar.pycon.org/2012/user/register (ver http://ar.pycon.org/2012/conference/registration para información sobre el bono contribución si están interesados en la remera y participar de los eventos sociales: recepción y fiesta de cierre).
+
+Agradecemos la colaboración de todos en la difusión de este llamado y del evento en si mediante los banners diseñados para tal fin y que se encuentran en http://ar.pycon.org/2012/conference/publicize/
+
+Para más información ver:
+ * http://pyconar.blogspot.com.ar/2012/09/invitacion-al-publico.html
+ * http://pyconar.blogspot.com.ar/2012/09/gacetilla-de-prensa.html
+
 ==== 15/09/2012 ====
 
 Desde el 9 de septiembre esta para descargar '''Python 3.3.0 RC2'''. El segundo release candidate en menos de un mes, lo que augura un pronto lanzamiento de la versión definitiva. 
