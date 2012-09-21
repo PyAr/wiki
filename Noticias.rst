@@ -28,15 +28,13 @@ PyAr, el grupo de usuarios de Python de Argentina invita a toda la comunidad de 
 
 En este evento nos juntaremos desarrolladores y programadores tanto principiantes como avanzados; bloggers, autores y diseñadores web; gerentes, administradores y emprendedores; científicos, ingenieros, curiosos y todo aquel que tenga ganas de acercarse a la comunidad Python en Argentina.  
 
-El cronograma completo de actividades se encuentra en: http://ar.pycon.org/2012/schedule
+Se encuentra disponible el [[http://ar.pycon.org/2012/schedule|cronograma completo]] de actividades.
 
-No olviden Inscribirse por el sitio web (cupos limitados): http://ar.pycon.org/2012/user/register (ver http://ar.pycon.org/2012/conference/registration para información sobre el bono contribución si están interesados en la remera, articulos promocionales y participar de los eventos sociales: recepción y fiesta de cierre).
+No olviden [[http://ar.pycon.org/2012/user/register|Inscribirse]] por el sitio web (cupos limitados) (ver [[ http://ar.pycon.org/2012/conference/registration|información]] sobre el bono contribución si están interesados en la remera, articulos promocionales y participar de los eventos sociales: recepción y fiesta de cierre).
 
-Agradecemos la colaboración de todos en la difusión de este llamado y del evento en si mediante los banners diseñados para tal fin y que se encuentran en http://ar.pycon.org/2012/conference/publicize/
+Agradecemos la colaboración de todos en la difusión de este llamado y del evento en si mediante los [[http://ar.pycon.org/2012/conference/publicize/|banners]] diseñados para tal fin
 
-Para más información ver:
- * http://pyconar.blogspot.com.ar/2012/09/invitacion-al-publico.html
- * http://pyconar.blogspot.com.ar/2012/09/gacetilla-de-prensa.html
+Para más información ver [[http://pyconar.blogspot.com.ar/2012/09/invitacion-al-publico.html|Invitación al Público]] y [[http://pyconar.blogspot.com.ar/2012/09/gacetilla-de-prensa.html|Gacetilla de Prensa]]
 
 ==== 15/09/2012 ====
 
