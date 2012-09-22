@@ -1,4 +1,7 @@
 == Conferencias ==
+
+ * [[http://ar.pycon.org/2012| PyCon Argentina 2012]], a realizarse entre el 12 y 17 de Noviembre de 2012 en Buenos Aires (Bernal -Quilmes- y Capital Federal)
+
  * [[/PyDayRafaela2012 | PyDay Rafaela 2012]], a realizarse el 19 y 20 de Octubre de 2012 en Rafaela (Santa Fe).
 
  * [[http://ar.pycon.org/2011/conference/venue| PyCon Argentina 2011]], realizada el 23 y 24 de Septiembre de 2011 en la ciudad de Junín ( Buenos Aires ).
