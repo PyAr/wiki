@@ -1,5 +1,7 @@
 = Trabajos con Python =
 == 2012 ==
+ * (27/09/2012) En [[http://www.goviridian.com|Viridian]] buscamos desarrolladores para trabajar en nuestras oficinas de Puerto Madero. Es imprescindible el manejo del idioma inglés (intermedio), poseer gran capacidad resolutiva y demostrar compromiso con los plazos. Utilizamos Python (>= 2.7), Django, Apache HTTP Server, MySQL/PostgreSQL, RabbitMQ, entre otras. Ofrecemos OSDE 310, capacitaciones, cursos de inglés y un ambiente de trabajo distendido. Esperamos tu CV en <<MailTo(careers EN goviridian PUNTO com)>>.
+
  * (20/09/2012) [[http://www.msa.com.ar|MSA S.A.]] está conformando un nuevo equipo de desarrollo de aplicaciones (no electorales) basadas en Python, Software Libre en su totalidad y tecnología RFID, entre otras, para un '''proyecto de gran envergadura'''. La búsqueda es a nivel de "Líderes de Proyecto" como de "Desarrolladores" y "Analistas Funcionales". Puntualmente para la posición de Líder de Proyecto, se recibirán CVs en rrhh@msa.com.ar hasta el 15 de Octubre. A partir de dicha fecha, se hará la selección de quienes, como tarea inicial, deberán ayudar a la dirección de la empresa a seleccionar sus propios equipos de trabajo.
 
  * (18/09/2012) En [[http://www.airtrack.com.ar|Air Track S.A.]] buscamos desarrolladores Python senior o semi-senior que les guste la investigación, la innovación y con muchas ganas de aprender. Somos una empresa que desarrollamos sistemas de monitoreo satelital, telemetría, IVR, desarrollo sobre dispositivos móviles y muchas otras cosas mas. Enviar CV a rrhh@air-track.com.ar
