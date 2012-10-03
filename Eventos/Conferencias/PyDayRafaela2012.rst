@@ -8,6 +8,7 @@
 || Coordinador videos e infraestructura || CesarRoldan ||
 || Coordinador cathering y ambientación || Lorena D'Iorio ||
 || Coordinador sponsors || Ariel Rossanigo ||
+|| Colaborador || Gustavo Tell ||
 
 
 == Tareas previas al evento ==
