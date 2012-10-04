@@ -32,3 +32,4 @@ El diseño lo vamos a elegir entre todos, votando una de varias opciones disponi
 ||Claudio Bidau ||M || || ||
 ||Joaquin Tita  ||M || Córdoba ||
 ||HectorSanchez  ||XL || Buenos Aires ||
+||Manuel Muradas  ||M o L (depende) || Buenos Aires ||
