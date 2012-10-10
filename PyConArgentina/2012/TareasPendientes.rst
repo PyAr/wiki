@@ -94,7 +94,7 @@ Para más info ver: http://wiki.python.org/moin/ConventionHowto
 
  * Armar bolsas / carpetas con programa, PET, merchandizing, etc.
  * Armar stand de acreditación
- * Reunir [[Encargados de Acreditacion | PyConArgentina/2012/EncargadosAcreditacion]] 
+ * Reunir [[PyConArgentina/2012/EncargadosAcreditacion]] 
  * Instalar PC para seguimiento de asistentes
  * Distribuir Credenciales y materiales!
  * Entregar Remeras y Bolsas!
@@ -103,9 +103,9 @@ Para más info ver: http://wiki.python.org/moin/ConventionHowto
 
  * Conseguir LCD / Proyectores de Backup
  * Armar Carteles para tiempos (10, 5, 1 minutos, Fin!)
- * Reunir [[Encargados de Aula | PyConArgentina/2012/EncargadosAula]]
+ * Reunir [[PyConArgentina/2012/EncargadosAula]]
  * Probar Notebooks Disertantes con proyector
- * Coordinar [[Encargados de Aula | PyConArgentina/2012/EncargadosAula]]
+ * Coordinar [[PyConArgentina/2012/EncargadosAula]]
  * Proyectar videos/slides en intervalos (sponsors, info sobre python, etc.)
  * Grabar audio+video de cada charla ¡?
 
