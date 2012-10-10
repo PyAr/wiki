@@ -8,7 +8,7 @@ Para más info ver: http://wiki.python.org/moin/ConventionHowto
  * --(Escribir [[PyConArgentina/2012/LlamadoPropuestas]])-- [MarianoReingart]
  * Escribir [[PyConArgentina/2012/DocumentoFormal]] para UNQ: pedido de autorización de aulas, mesas, sillas, cableado, energía, solicitud de colaboración para registración, traducción, filmación, etc. [SebastianBassi]
  * --(Escribir [[PyConArgentina/2012/PressRelease]])--
- * Escribir [[PyConArgentina/2012/InvitacionAlPublico]]
+ * --(Escribir [[PyConArgentina/2012/InvitacionAlPublico]])--
  * Escribir [[PyConArgentina/2012/Memoria]] y [[PyConArgentina/2012/Balance]] [nadia] (post-conferencia!)
 
 == Difusión ==
@@ -19,9 +19,9 @@ Para más info ver: http://wiki.python.org/moin/ConventionHowto
  * Armar AnuncioPublicitario gráfico y/o radial?
  * --(Crear Flyers / Panfletos para pegar cada un mes y medio en las facultades de Buenos Aires e Interior!)--
  * --(Anunciar Tutoriales)--
- * Difundir [[PyConArgentina/2012/InvitacionAlPublico]]
+ * --(Difundir [[PyConArgentina/2012/InvitacionAlPublico]])-- [ro]
  * Enviar recordatorios y --(notificaciones)--
- * Anunciar Fiestas y Eventos Sociales (entrada en el blog)
+ * --(Anunciar Fiestas y Eventos Sociales (entrada en el blog))-- [ro]
 
 == Contenidos Web ==
 
@@ -52,7 +52,7 @@ Para más info ver: http://wiki.python.org/moin/ConventionHowto
  * --(Preparar Integración con DineroMail (bono contribución) )-- [AlanEtkin] 
  * Probar generación de PDF (badge y certificados)
  * --(Mejorar Schedule (Cronograma), hacer una tabla como [[https://us.pycon.org/2012/schedule/|PyCon US]])-- [AlanEtkin]
- * Integrar con Google Calendar / iCal
+ * --(Integrar con Google Calendar / iCal)--
 
 == Gráfica ==
 
@@ -63,15 +63,15 @@ Para más info ver: http://wiki.python.org/moin/ConventionHowto
  * --(Diseñar Folletos para repartir)-- [JuanBC] y [MarianoReingart]
  * --(Diseñar Badge)-- [JuanBC]
  * --(Diseñar Certificado)-- [JuanBC]
- * Diseñar Estandartes [JuanBC]?
+ * --(Diseñar Estandartes)-- [JuanBC]?
  * Diseñar Cartelería en general (aulas, registración, etc.)
  * --(Diseñar Remeras (organizadores y público) )-- [JuanBC]
- * Diseñar regalo al público [JuanBC]
+ * --(Diseñar regalo al público)-- [JuanBC]
  * Diseñar Invitación a fiestas after y cierre (pulseritas?)
 
 == Impresiones, Materiales y Regalos ==
 
- * Preparar la Guia de Programa [imprenta]
+ * Preparar la Guia de Programa [MarianoReingart/yo mendieta/imprenta]
  * Editar la PET [JuanBC]
  * Imprimir Programas! --(conseguir imprenta "flexible"...)--
  * Imprimir PETs! --(conseguir imprenta "flexible"...)--
@@ -86,15 +86,15 @@ Para más info ver: http://wiki.python.org/moin/ConventionHowto
 
  * --(Negociar con hoteles locales)-- [gabriela unq]
  * --(Reservar lugar para invitados internacionales)-- [gabriela unq]
- * Contratar remis/combi para invitados internacionales (Bue<->UNQ)
+ * --(Contratar remis/combi para invitados internacionales (Bue<->UNQ) )-- [ro]
  * Nogociar transporte grupal local Bue->UNQ (combis?, micros escolares?)
  * Coordinar [[PyConArgentina/2012/AlojamientoCompartido]] y [[PyConArgentina/2012/TransporteCompartido]]
 
-== Registración ==
+== Acreditación ==
 
  * Armar bolsas / carpetas con programa, PET, merchandizing, etc.
- * Armar stand de registración
- * Reunir Encargados de Registración
+ * Armar stand de acreditación
+ * Reunir [[Encargados de Acreditacion | PyConArgentina/2012/EncargadosAcreditacion]] 
  * Instalar PC para seguimiento de asistentes
  * Distribuir Credenciales y materiales!
  * Entregar Remeras y Bolsas!
@@ -103,14 +103,14 @@ Para más info ver: http://wiki.python.org/moin/ConventionHowto
 
  * Conseguir LCD / Proyectores de Backup
  * Armar Carteles para tiempos (10, 5, 1 minutos, Fin!)
- * Reunir Encargados de Aula
+ * Reunir [[Encargados de Aula | PyConArgentina/2012/EncargadosAula]]
  * Probar Notebooks Disertantes con proyector
- * Coordinar Encargados de Aula
+ * Coordinar [[Encargados de Aula | PyConArgentina/2012/EncargadosAula]]
  * Proyectar videos/slides en intervalos (sponsors, info sobre python, etc.)
- * Grabar audio+video de cada charla
+ * Grabar audio+video de cada charla ¡?
 
 == Fiestas y Social ==
 
- * PyCon After Party: definir empresa de Catering y contratar! [romina]
- * PyCon Fiesta de Cierre: Reservar lugar, averiguar presupuestos, contratar! [romina]?
+ * --(PyCon After Party: definir empresa de Catering y contratar!)-- [romina]
+ * --(PyCon Fiesta de Cierre: Reservar lugar, averiguar presupuestos, contratar!)-- [romina]
  * --(Definir y organizar picnic y actividades recreativas día turístico (asado en el tigre?) )-- [gabriela/emilio unq]
