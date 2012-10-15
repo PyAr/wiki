@@ -23,27 +23,27 @@
 || 8 || --(Diseño de logo para afiches y programa)-- || || Orfi Cesar ||
 || 9 || Asegurar que todo lo referente a redes funcione como debiera || || CesarRoldan ||
 || 10 || --(Diseño de afiches y folletos)-- || 12/9 (estaría bueno llevar al PyDay en Cba || Orfi Cesar ||
-|| 11 || Diseño de aviso para el diario || 06/10 || ||
-|| 12 || Realizar nota en el diario || 18/10 || ||
-|| 13 || 1° Aviso diario || 10/10 || ||
-|| 14 || 2° Aviso diario || 17/10 || ||
-|| 15 || Diseño de programas || 10/10 || Cesar ||
+|| 11 || --(Diseño de aviso para el diario)-- || 06/10 || Cesar ||
+|| 12 || Realizar nota en el diario || 18/10 || Ariel ||
+|| 13 || --(1° Aviso diario)-- || 11/10 || Ariel ||
+|| 14 || --(2° Aviso diario)-- || 18/10 || Ariel ||
+|| 15 || --(Diseño de programas)-- || 10/10 || Cesar ||
 || 16 || Preparar lo necesario para la ambientación del auditorio || 19/10 || Lore ||
 || 17 || --(Refuerzo call for charlas)-- || || Ariel ||
-|| 18 || Envío de invitación formal || || ||
+|| 18 || --(Envío de invitación formal)-- || || Ariel ||
 || 19 || Preparar un plan B para la filmación de videos ||  || GustavoTell ||
-|| 20 || Revisar charlas presentadas || || ||
+|| 20 || --(Revisar charlas presentadas)-- || || ||
 || 21 || Tener preparado un segundo proyector || || ||
 || 22 || Coordinar la apertura de la facu || 18/10 || ||
 || 23 || Preparar laboratorio para el dictado de los talleres || || ||
-|| 24 || Pedir presupuestos de impresión || 04/10 ||Orfi ||
+|| 24 || --(Pedir presupuestos de impresión)-- || 04/10 ||Orfi ||
 || 25 || --(Preparar un par de laptops para la registracion)-- Confirmadas las netbooks de UCSE para usar durante todo el evento || 28/08 || CesarRoldan ||
 || 26 || Comprar agua para disertantes ||  ||Orfi ||
 || 27 || Preparar lo necesario para la cena after PyDay || || Lore ||
 || 28 || Preparar lo necesario para los breaks (1 viernes y 1 el sábado || || Lore ||
 || 29 || Coordinar opciones de catering para el almuerzo del sábado || || Lore ||
 || 30 || Preparar parte de prensa para sacar en los diarios locales, en espacio cedido por UCSE || || ||
-|| 31 || Reservar hoteles para los disertantes. (esto capaz que se puede hacer por medio de un convenio de UCSE) || || ||
+|| 31 || --(Reservar hoteles para los disertantes. (esto capaz que se puede hacer por medio de un convenio de UCSE))-- || || Ariel ||
 || 32 || Preparar biromes, fibrones, papeles... || ||Orfi ||
 || 33 || Comprar presentes para los disertantes || ||Orfi ||
 
