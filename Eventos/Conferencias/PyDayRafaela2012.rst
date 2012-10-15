@@ -19,7 +19,7 @@
 || 4 || --(Reservar lugar en la facu)-- || 20/7 || Ariel ||
 || 5 || --(Contactar posibles auspiciantes)-- || 22/8 || Ariel (Cámara), Fisa (Machinalis), Orfi (MSA) ||
 || 6 || --(Alta de auspiciantes en la web)-- || 28/8 || Orfi ||
-|| 7 || Consultar en el diario por el auspicio y posibilidad de realizar una nota. '''Costos''' ||  || ||
+|| 7 || --(Consultar en el diario por el auspicio y posibilidad de realizar una nota. '''Costos''')-- ||  || ||
 || 8 || --(Diseño de logo para afiches y programa)-- || || Orfi Cesar ||
 || 9 || Asegurar que todo lo referente a redes funcione como debiera || || CesarRoldan ||
 || 10 || --(Diseño de afiches y folletos)-- || 12/9 (estaría bueno llevar al PyDay en Cba || Orfi Cesar ||
