@@ -1,7 +1,6 @@
 = Instrucciones para encargados de aula =
 
- * cada encargado tiene un bloque de tres charlas en la misma aula:
-10.00 a 12.45hs o 14.00 a 18.15hs.
+ * cada encargado tiene un bloque de tres charlas en la misma aula: 10.00 a 12.45hs o 14.00 a 18.15hs.
  * Hay 16 bloques disponibles. Una misma persona puede solicitar varios bloques no-simultáneos.
  * presentarse 30 minutos antes de la primera charla en el escritorio de registración
  * tener reloj digital con la hora exacta
@@ -19,8 +18,10 @@
  * a los 38 minutos, avisar en voz alta que faltan 2 min
  * a las 40 minutos, ser el primero en aplaudir y pasar a preguntas
  * a los 45 minutos, aplaudir e invitar a los asistentes a cambiar de aula si lo desean
- * si es la última charla del bloque, pedir al coordinador de aulas que cierre el aula o que se lleve el proyector
+ * si es la última charla del bloque, pedir al coordinador de aulas que cierre el aula o que se lleve el proyector 
+
 Horarios generales:
+
  * antes y después de la charla de las 12hs, invitar a los asistentes a almorzar de 12.45 a 13.45hs
  * antes y después de la charla de las 16, invitar a los asistentes a la sesión de posters y coffee break de las 16.45
  * antes y después de la última charla del aula, invitar a los asistentes a ir al aula magna para las Charlas Relámpago y el cierre
