@@ -20,7 +20,9 @@ Ha sido modificado el calendario y el plan de acción de los buzos en dos oportu
 
 - '''Semana 5/11''' - El Lunes 5/11 se anunciará el diseño ganador. Y durante esa semana se recibirán los últimos pedidos, hasta el Viernes 9/11.
 
-'''El creador del diseño ganador recibirá un buzo de regalo'''. No pierdas esta oportunidad!.
+'''El creador del diseño ganador recibirá un buzo de regalo'''. No pierdas esta oportunidad!. Empezamos a recibir nuevas propuestas y forks de los diseños actuales: ahora!.
+
+Las propuestas de diseño nuevas y los forks de los diseños actuales deberán enviarlas a : <<MailTo(juanrodriguezmonti EN gmail PUNTO com)>> .
 
 A continuación un listado de las personas que se anotaron para comprar uno o varios buzos.
 
