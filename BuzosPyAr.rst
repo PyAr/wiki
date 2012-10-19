@@ -14,7 +14,7 @@ Pueden ver un PDF con las opciones de diseño recibidas [[http://ubuntuone.com/3
 
 Ha sido modificado el calendario y el plan de acción de los buzos en dos oportunidades. La razón fué dar más tiempo a la recepción de las propuestas iniciales. No se volverá a extender ningún plazo. Este es el calendario '''definitivo'''.
 
-- '''Semana 22/10''' - Durante esta semana se recibirán las sugerencias/modificaciones para los diseños actuales, así como también nuevas propuestas. Seria muy bueno mejorar las propuestas entre todos y llegar a un mejor diseño final que nos guste a todos.
+- '''Semana 22/10''' - Durante esta semana se recibirán las sugerencias/modificaciones para los diseños actuales, así como también nuevas propuestas. Seria muy bueno mejorar las propuestas entre todos y llegar a un mejor diseño final.
 
 - '''Semana 29/10''' - El Lunes 29/10, se publicarán todos los diseños disponibles por este mismo medio. Ese mismo día comenzará la votación. Se recibirán votos hasta el Viernes 2/11 inclusive.
 
