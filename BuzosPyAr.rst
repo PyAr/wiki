@@ -20,7 +20,7 @@ Ha sido modificado el calendario y el plan de acción de los buzos en dos oportu
 
 - '''Semana 5/11''' - El Lunes 5/11 se anunciará el diseño ganador. Y durante esa semana se recibirán los últimos pedidos, hasta el Viernes 9/11.
 
-- '''Semana 12/11''' - El Lunes 12/11 vamos a tener el listado final de pedidos. En esa fecha, en base a la cantidad se establecerá con el proveedor de los buzos el tiempos de confección de los mismos, y se anunciarán por este mismo medio las formas de envío disponibles.
+- '''Semana 12/11''' - El Lunes 12/11 vamos a tener el listado final de pedidos. En esa fecha, en base a la cantidad de pedidos se establecerá con el proveedor de los buzos el tiempo de confección de los mismos, y se anunciaran por este mismo medio las formas de envío disponibles.
 
 '''El creador del diseño ganador recibirá un buzo de regalo'''. No pierdas esta oportunidad!. Empezamos a recibir nuevas propuestas y forks de los diseños actuales: ahora!.
 
