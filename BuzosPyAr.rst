@@ -37,7 +37,7 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Walter Alini            || (X)XL || Córdoba ||
 ||Diego Sarmentero        || || ||
 ||Juan M. Santos          ||M || ||
-||Javier Pepe             || || ||
+||Javier Pepe             ||XL|| ||
 ||Pablo Mouzo             || || ||
 ||Tucumetal               || || ||
 ||Mariano Verdú           ||L || ||
