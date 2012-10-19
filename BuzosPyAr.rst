@@ -4,7 +4,7 @@ Vamos a hacer buzos de Python Argentina!. ¿ Las razones ?, juntar dinero para P
 
 El diseño lo vamos a elegir entre todos, votando una de varias opciones disponibles
 
-Los diseños se basaron, en su mayoría, en otros usados anteriormente y todos han sido sugeridos por miembros de PyAr.
+Los diseños se basaron, en su mayoría, en otros usados anteriormente. La idea es que los diseños actuales puedan ser modificados, forkeados y recibir nuevas propuestas de diseño!.
 
 Los buzos son de tela de buena calidad, de tipo canguro, de color negro. 
 
@@ -22,7 +22,7 @@ Ha sido modificado el calendario y el plan de acción de los buzos en dos oportu
 
 '''El creador del diseño ganador recibirá un buzo de regalo'''. No pierdas esta oportunidad!. Empezamos a recibir nuevas propuestas y forks de los diseños actuales: ahora!.
 
-Las propuestas de diseño nuevas y los forks de los diseños actuales deberán enviarlas a : <<MailTo(juanrodriguezmonti EN gmail PUNTO com)>> .
+Las propuestas de diseño nuevas y los forks de los diseños actuales deben ser enviarlos a : <<MailTo(juanrodriguezmonti EN gmail PUNTO com)>> .
 
 A continuación un listado de las personas que se anotaron para comprar uno o varios buzos.
 
