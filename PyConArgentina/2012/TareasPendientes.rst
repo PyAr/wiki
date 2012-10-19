@@ -14,7 +14,7 @@ Para más info ver: http://wiki.python.org/moin/ConventionHowto
 == Difusión ==
 
  * --(Difundir [[PyConArgentina/2012/LlamadoSponsors]], [[PyConArgentina/2012/LlamadoPropuestas]], etc. !!!!! )--
- * Difundir [[PyConArgentina/2012/PressRelease]]
+ * --(Difundir [[PyConArgentina/2012/PressRelease]])--
  * --(Anunciar keynotes)--
  * Armar AnuncioPublicitario gráfico y/o radial?
  * --(Crear Flyers / Panfletos para pegar cada un mes y medio en las facultades de Buenos Aires e Interior!)--
@@ -50,7 +50,7 @@ Para más info ver: http://wiki.python.org/moin/ConventionHowto
  * --(Aplicar últimas correcciones menu y demás)-- [MarianoReingart]
  * --(Ajustar notificaciones (incluir url del comentario, actividad, etc.) )--
  * --(Preparar Integración con DineroMail (bono contribución) )-- [AlanEtkin] 
- * Probar generación de PDF (badge y certificados)
+ * --(Probar generación de PDF (badge y certificados) )--
  * --(Mejorar Schedule (Cronograma), hacer una tabla como [[https://us.pycon.org/2012/schedule/|PyCon US]])-- [AlanEtkin]
  * --(Integrar con Google Calendar / iCal)--
 
@@ -71,15 +71,15 @@ Para más info ver: http://wiki.python.org/moin/ConventionHowto
 
 == Impresiones, Materiales y Regalos ==
 
- * Preparar la Guia de Programa [MarianoReingart/yo mendieta/imprenta]
- * Editar la PET [JuanBC]
- * Imprimir Programas! --(conseguir imprenta "flexible"...)--
- * Imprimir PETs! --(conseguir imprenta "flexible"...)--
+ * --(Preparar la Guia de Programa [MarianoReingart/yo mendieta/imprenta]
+ * --(Editar la PET)-- [JuanBC]
+ * Imprimir Programas!)-- --(conseguir imprenta "flexible"...)--
+ * --(Imprimir PETs!)-- --(conseguir imprenta "flexible"...)--
  * --(Definir y Comprar Regalo a disertantes)-- terminados y empaquetados [JuanBC]
  * --(Definir y Comprar Bolsas o Carpetas)-- resuelto con sponsor
  * Definir y Comprar Identificadores 
  * Definir y comprar Colgante (con llavero?)
- * Definir y Comprar "Recuerdo" Público General
+ * --(Definir y Comprar "Recuerdo" Público General)--
  * --(Hacer merchandising (stickers, pines, etc.) )-- [JuanBC]
 
 == Logistica ==
