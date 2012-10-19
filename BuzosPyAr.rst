@@ -27,7 +27,7 @@ El diseño lo vamos a elegir entre todos, votando una de varias opciones disponi
 ||Otto Wald      ||XL || || ||
 ||Facundo Batista      ||Depende del tamaño ||más de un buzo si hay "muy chicos" || ||
 ||Nahuel Defossé || || || Si ||
-||Ezequiel Gonzalez Rial || || || ||
+||Ezequiel Gonzalez Rial || || || Si ||
 ||Marcos Moyano ||L || Rosario || ||
 ||Claudio Bidau ||M || || ||
 ||Joaquin Tita  ||M || Córdoba || ||
