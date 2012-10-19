@@ -4,7 +4,7 @@ Vamos a hacer buzos de Python Argentina!. ¿ Las razones ?, juntar dinero para P
 
 El diseño lo vamos a elegir entre todos, votando una de varias opciones disponibles
 
-Los diseños se basaron, en su mayoría, en otros usados anteriormente en propuestas de remeras. Se armó esta selección de cinco propuestas de diseño, con la ayuda de un diseñador, en base a sugerencias recibidas por gente de PyAr.
+Se armó esta selección de cinco propuestas de diseño iniciales, con la ayuda de un diseñador, en base a sugerencias recibidas por gente de PyAr tomando como punto de partida diseños propuestos,  anteriormente, para remeras de PyAr.
 
 Los buzos son de tela de buena calidad, de tipo canguro, de color negro. 
 
