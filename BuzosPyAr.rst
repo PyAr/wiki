@@ -22,7 +22,7 @@ El diseño lo vamos a elegir entre todos, votando una de varias opciones disponi
 ||Marcelo Martinovic      ||XL || || ||
 ||Gonzalo Martinez        ||XL ||Buenos Aires - San Martin || Si ||
 ||Alberto Paparelli        || || || ||
-||Carlos Enrique Rodriguez || || Dos buzos.|| ||
+||Carlos Enrique Rodriguez || || Dos buzos.|| Si ||
 ||Guillermo Narvaez ||M ||La Rioja || Si ||
 ||Otto Wald      ||XL || || ||
 ||Facundo Batista      ||Depende del tamaño ||más de un buzo si hay "muy chicos" || ||
