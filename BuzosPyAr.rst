@@ -4,23 +4,23 @@ Vamos a hacer buzos de Python Argentina!. ¿ Las razones ?, juntar dinero para P
 
 El diseño lo vamos a elegir entre todos, votando una de varias opciones disponibles
 
-Los diseños se basaron, en su mayoría, en otros diseños usados anteriormente y han sido sugeridos por miembros de PyAr.
+Los diseños se basaron, en su mayoría, en otros usados anteriormente y todos han sido sugeridos por miembros de PyAr.
 
-Los buzos son de una tela de buena calidad, de tipo canguro, de color negro. 
+Los buzos son de tela de buena calidad, de tipo canguro, de color negro. 
 
-Pueden ver un PDF con las opciones de diseño actuales [[http://ubuntuone.com/3qtvfumIzsI4UYoDPGmYGR|acá]].
-
-La idea es que a partir de los diseños actuales, se reciban sugerencias/modificaciones para los mismos.
+Pueden ver un PDF con las opciones de diseño recibidas [[http://ubuntuone.com/3qtvfumIzsI4UYoDPGmYGR|acá]].
 
 '''Fechas'''
 
 Ha sido modificado el calendario y el plan de acción de los buzos en dos oportunidades. La razón fué dar más tiempo a la recepción de las propuestas iniciales. No se volverá a extender ningún plazo. Este es el calendario '''definitivo'''.
 
-- '''Semana 22/10''' - Durante esta semana se recibirán las sugerencias/modificaciones para los diseños actuales, así como también nuevas propuestas. Seria muy bueno mejorar las propuestas entre todos y llegar a un mejor diseño final para el buzo.
+- '''Semana 22/10''' - Durante esta semana se recibirán las sugerencias/modificaciones para los diseños actuales, así como también nuevas propuestas. Seria muy bueno mejorar las propuestas entre todos y llegar a un mejor diseño final que nos guste a todos.
 
 - '''Semana 29/10''' - El Lunes 29/10, se publicarán todos los diseños disponibles por este mismo medio. Ese mismo día comenzará la votación. Se recibirán votos hasta el Viernes 2/11 inclusive.
 
-- '''Semana 5/11''' - El Lunes 5/11 se anunciará el diseño ganador. Y durante esa semana se recibirán los últimos pedidos, hasta el viernes 9/11.
+- '''Semana 5/11''' - El Lunes 5/11 se anunciará el diseño ganador. Y durante esa semana se recibirán los últimos pedidos, hasta el Viernes 9/11.
+
+'''El creador del diseño ganador recibirá un buzo de regalo'''. No pierdas esta oportunidad!.
 
 A continuación un listado de las personas que se anotaron para comprar uno o varios buzos.
 
