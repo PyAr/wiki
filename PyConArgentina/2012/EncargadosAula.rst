@@ -3,7 +3,7 @@
  * cada encargado tiene un bloque de tres charlas en la misma aula: 10.00 a 12.45hs o 14.00 a 18.15hs.
  * Hay 16 bloques disponibles. Una misma persona puede solicitar varios bloques no-simultáneos.
  * presentarse 30 minutos antes de la primera charla en el escritorio de registración
- * tener reloj digital con la hora exacta
+ * tener reloj con la hora sincronizada
  * no abandonar el aula sin algún conocido responsable que vigile el proyector
  * Cada encargado recibe:
    - listado de sus charlas
