@@ -10,6 +10,8 @@ Los buzos son de tela de buena calidad, de tipo canguro, de color negro.
 
 Pueden ver un PDF con las opciones de diseño recibidas [[http://ubuntuone.com/6fx4gPwQAG2cnsptj9IpRJ|acá]].
 
+El dibujo en vectores .SVG creado con Inkscape, para que puedan armar sus propuestas, forkear y hacer modificaciones lo pueden bajar [[http://ubuntuone.com/0blwTRrbPSKw190nFv5MPC|acá]]. 
+
 '''Fechas'''
 
 Ha sido modificado el calendario y el plan de acción de los buzos en dos oportunidades. La razón fué dar más tiempo a la recepción de las propuestas iniciales. No se volverá a extender ningún plazo. Este es el calendario '''definitivo'''.
