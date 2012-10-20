@@ -60,3 +60,5 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||HectorSanchez  ||XL || Buenos Aires ||
 ||Manuel Muradas  ||M o L (depende) || Buenos Aires ||
 ||Diego van Haaster || || ||
+||Felipe Lerena || || ||
+||Jairo Trad || || ||
