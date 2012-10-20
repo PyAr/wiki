@@ -8,7 +8,7 @@ Se armó esta selección de cinco propuestas de diseño iniciales, con la ayuda 
 
 Los buzos son de tela de buena calidad, de tipo canguro, de color negro. 
 
-Pueden ver un PDF con las opciones de diseño recibidas [[http://ubuntuone.com/3qtvfumIzsI4UYoDPGmYGR|acá]].
+Pueden ver un PDF con las opciones de diseño recibidas [[http://ubuntuone.com/6fx4gPwQAG2cnsptj9IpRJ|acá]].
 
 '''Fechas'''
 
