@@ -42,7 +42,6 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Javier Pepe             ||XL|| ||
 ||Pablo Mouzo             || || ||
 ||Tucumetal               || || ||
-||Mariano Verdú           ||L || ||
 ||Gastón Menvielle        || || ||
 ||Federico Apelhanz       || || ||
 ||Marcelo Martinovic      ||XL || ||
