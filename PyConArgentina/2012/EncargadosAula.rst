@@ -27,4 +27,4 @@ Horarios generales:
  * antes y después de la charla de las 16, invitar a los asistentes a la sesión de posters y coffee break de las 16.45
  * antes y después de la última charla del aula, invitar a los asistentes a ir al aula magna para las Charlas Relámpago y el cierre
 
-Anotarse en [LlamadoVoluntarios]
+Anotarse en LlamadoVoluntarios
