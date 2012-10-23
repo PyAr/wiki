@@ -2,7 +2,7 @@
 
 == Encargados de Aula ==
 
-Coordinador de encargados de aula: Sebastián Bassi (sbassi@genesdigitales.com)
+Coordinador de encargados de aula: SebastianBassi. 
 Por favor [[PyConArgentina/2012/LlamadoAyudantesAula|leer las instrucciones y anotarse]]:
 
  * Nombre Apellido Aula Dia Turno
