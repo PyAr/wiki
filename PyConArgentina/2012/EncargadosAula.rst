@@ -28,4 +28,5 @@ Horarios generales:
 
 Anotarse aca:
 
- * Nombre Apellido email@dominio
+ * Nombre Apellido Aula Dia Turno email
+ * Juan Ejemplo Aula C Viernes Mañana usuario@dominio
