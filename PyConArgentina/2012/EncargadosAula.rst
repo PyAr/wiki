@@ -21,6 +21,8 @@
  * a los 45 minutos, aplaudir e invitar a los asistentes a cambiar de aula si lo desean
  * si es la última charla del bloque, pedir al coordinador de aulas que cierre el aula o que se lleve el proyector 
 
+Para facilitar las tareas, es recomendable que haya 2 voluntarios por aula: un encargado y un ayudante que lo asista.
+
 Horarios generales:
 
  * antes y después de la charla de las 12hs, invitar a los asistentes a almorzar de 12.45 a 13.45hs
