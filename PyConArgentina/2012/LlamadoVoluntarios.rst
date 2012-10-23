@@ -3,7 +3,7 @@ Faltan pocos dias para la conferencia y necesitamos voluntarios para algunas tar
 Encargados de Aula:
 
 Coordinador de encargados de aula: Sebastián Bassi (sbassi@genesdigitales.com)
-Por favor leer las instrucciones aca y anotarse:
+Por favor [[PyConArgentina/2012/LlamadoAyudantesAula|leer las instrucciones y anotarse]]:
 
  * Nombre Apellido Aula Dia Turno
  * Juan Ejemplo Aula C Viernes Mañana
@@ -11,6 +11,10 @@ Por favor leer las instrucciones aca y anotarse:
 Redes:
 
 (anotarse aca)
+
+Testers de app para Android:
+
+Estamos cargando una app con guia del evento (http://Guidebook.com) y necesitamos reportes de bugs de los datos, por ejemplo "la charla Las maravillas de Google App Engine tiene mal formateado los espacios" u otros errores u omisiones. Para hacer esto hay que tener algún dispositivo con Android y pedir el código de verificación a sbassi@genesdigitales.com (y mandar los reportes de bugs a esa dirección).
 
 Encargados de Registración:
 
