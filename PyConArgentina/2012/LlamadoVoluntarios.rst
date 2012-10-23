@@ -1,3 +1,4 @@
+## page was renamed from LlamadoAVoluntariosPyconar2012
 = Faltan pocos dias para la conferencia y necesitamos voluntarios para algunas tareas =
 
 == Encargados de Aula ==
