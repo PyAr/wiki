@@ -127,6 +127,8 @@ QtMultiThread : ejemplo de como manipular la GUI usando múltiples threads sin u
 
 /QtExtraerTextoRecurso : como extraer un archivo de texto embebido en el sistema de recursos de !PyQt
 
+http://www.youtube.com/playlist?list=PLA955A8F9A95378CE : Python GUI Development with QT (videos 7 horas)
+
 === Pythoncard (wxPython) ===
 PythonCard: Ejemplo de como hacer una aplicación de escritorio desde 0 (para principiantes)
 
