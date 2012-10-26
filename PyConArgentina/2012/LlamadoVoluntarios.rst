@@ -55,6 +55,7 @@ Si estas interesada en colaborar, puedes anotarte en la siguiente lista y agenda
  * Orfi Schleppi
  * Yamila Cuestas
  * Virginia Gonzalez
+ * Romina Castrogiovani
 
 || Horario || Viernes 16 || Sábado 17 ||
 || 8:00 a 10:00 || (necesitamos al menos 10 personas)  || (necesitamos al menos 10 personas)  ||
