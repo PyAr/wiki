@@ -35,7 +35,7 @@ La noche antes de comenzar la conferencia principal, puedes ayudar cableando, co
 Necesitamos un coordinador de redes que se encargue de organizar la infraestructura y los equipos.
 Agrega tu nombre abajo si estas disponible el Jueves 15 por la noche en la Universidad para ayudar en este tema.
 
- * (anotarse aca)
+ * DiegoRamirez
  * (anotarse aca)
  * (anotarse aca)
 
