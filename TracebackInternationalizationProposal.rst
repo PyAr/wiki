@@ -126,7 +126,9 @@ Caveats
 
 Reference Implementation
 
-    A proof of concept can be downloaded from Python Argentina Wiki [8]
+    A proof of concept is attached to issue #16344 [10] for Python 3.3+
+    Original -obsolete- version (for python 2.x) can be downloaded from 
+    Python Argentina Wiki [8]
 
     It defines a Py_GETTEXT macro that is called from PyErr_SetString 
     and PyErr_Format (errors.c) and tb_displayline, PyTraceBack_Print 
@@ -181,6 +183,8 @@ References
     [8] http://python.org.ar/pyar/TracebackInternationalizationProposal?action=AttachFile&do=view&target=python_traceback_i18n_proof_of_concept.diff
 
     [9] http://bugs.python.org/issue16343
+
+    [10] http://bugs.python.org/issue16344
 
 
 Copyright
