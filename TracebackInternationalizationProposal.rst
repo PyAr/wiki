@@ -79,24 +79,29 @@ Usage
     setting 'C' locale will get back to untranslated original messages:
 
     Examples:
- 
+    
+    Python 3.4.0a0 (default:8f0d5ecca524+, Oct 28 2012, 00:46:34)
+    [GCC 4.6.3] on linux
+    Type "help", "copyright", "credits" or "license" for more information.
     >>> 1/0
     Traceback (most recent call last):
       File "<stdin>", line 1, in <module>
-    ZeroDivisionError: integer division or modulo by zero
+    ZeroDivisionError: division by zero
+
     >>> import locale
-    >>> locale.setlocale(locale.LC_MESSAGES,'es_AR')
-    'es_AR'
+    >>> locale.setlocale(locale.LC_MESSAGES,'es_AR.utf8')
+    'es_AR.utf8'
     >>> 1/0
-    Traza de rastreo (llamada mas reciente ultima):
-      Archivo "<stdin>", linea 1, en <module>
-    ZeroDivisionError: division entera o modulo por cero
+    Traza de rastreo (llamada más reciente última):
+      Archivo "<stdin>", línea 1, en <module>
+    ZeroDivisionError: división por cero
+
     >>> locale.setlocale(locale.LC_MESSAGES,'C')
     'C'
     >>> 1/0
     Traceback (most recent call last):
       File "<stdin>", line 1, in <module>
-    ZeroDivisionError: integer division or modulo by zero
+    ZeroDivisionError: division by zero
 
     By default, LC_MESSAGES should be 'C' locale, to prevent any
     misunderstanding.
@@ -104,12 +109,13 @@ Usage
     The user that needs translated messages could easily add a 
     line or setting LC_MESSAGES in his desired language:
 
-    import locale; locale.setlocale(locale.LC_MESSAGES,'es_AR')
+    import locale; locale.setlocale(locale.LC_MESSAGES,'es_AR.utf8')
 
 Caveats
 
-    i18n should allow return Unicode to be able to handle special 
-    characters like accents.
+    Internationalization uses UTF-8 to be able to handle special 
+    characters like accents. This should not be a problem in Python 3
+    but some functions may be revised like PyUnicode_FromFormatV() [9]
 
     Special care must be taken with positional placeholders like in:
     "name '%.200s' is not defined". If there is more than one 
@@ -122,28 +128,31 @@ Reference Implementation
 
     A proof of concept can be downloaded from Python Argentina Wiki [8]
 
-    It defines a i18n function that is called from PyErr_SetString and 
-    PyErr_Format (errors.c) and tb_displayline, PyTraceBack_Print 
+    It defines a Py_GETTEXT macro that is called from PyErr_SetString 
+    and PyErr_Format (errors.c) and tb_displayline, PyTraceBack_Print 
     (traceback.c).
 
-    As this is a proof of concept, i18n function just scans a C static 
-    string array, but furtherly it will use gettext functionality.
-
-    Also, i18n function emulates LC_MESSAGES functionality (as only some 
-    Spanish messages are translated so far for this example and it isn't 
-    using gettext by now), but this could  be modified easily once the 
-    internationalization mechanism is accepted.
-
-    Disclaimer: This proof of concept does not address known caveats and 
-    it is totally disposable, no comprehensive tests or revisions have been
-    done. It is just a quickly and dirty hack to show the point, a real 
-    implementation must be done.
+    A new subdirectory called Locale stores localized message files, 
+    but this could be installed in a standard system directory (i.e.
+    /usr/share/locale) as a special domain called "python" is used to
+    not interfere with python modules / libraries / packages already
+    using gettext.
+    
+    Some steps are required to set up internationalization correctly:
+    
+    1. locale.bind_textdomain_codeset("python", "utf8") should be 
+       called in pythonrun.c to initialize encoding (preventing nested
+       unicode exceptions if internationalization is not correctly)
+    2. locale.bindtextdomain("python", sysconfig._safe_realpath("Locale"))
+       should be called in site.py to specify the locale directory
+       (not needed if a standard directory is used, this would be 
+       platform dependent)
+    3. locale.setlocale(locale.LC_MESSAGES,'es_AR.utf8') should be
+       executed by the end user to finally enable internationalization
 
     Although it is just a proof of concept, final version shouldn't be 
     much different than this, as internationalization points are 
-    well-known so just 2 C files were modified. Indeed, a version using
-    gettext would be even smaller as messages would be in separated files,
-    i18n could reduce just to _ (gettext) C function.
+    well-known so just 2 C files were modified. 
     
     In order to keep the change small, and in order to not bother other 
     developers with new special issues, this approach needs a custom tool
@@ -170,6 +179,9 @@ References
     [7] http://docs.python.org/library/locale.html
 
     [8] http://python.org.ar/pyar/TracebackInternationalizationProposal?action=AttachFile&do=view&target=python_traceback_i18n_proof_of_concept.diff
+
+    [9] http://bugs.python.org/issue16343
+
 
 Copyright
 
