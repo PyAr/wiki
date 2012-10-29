@@ -1,5 +1,7 @@
 = Trabajos con Python =
 == 2012 ==
+ * (29/10/2012) En Anting estamos buscando programadores freelance Python y Django dentro del área de Capital Federal o Gran Bs.As para que nos ayuden en los proyecto actuales y futuros.Si estás interesado envianos un mail a <<MailTo(nmartinet EN anting PUNTO com PUNTO ar)>>.
+
  * (27/09/2012) En [[http://www.goviridian.com|Viridian]] buscamos desarrolladores para trabajar en nuestras oficinas de Puerto Madero. Es imprescindible el manejo del idioma inglés (intermedio), poseer gran capacidad resolutiva y demostrar compromiso con los plazos. Utilizamos Python (>= 2.7), Django, Apache HTTP Server, MySQL/PostgreSQL, RabbitMQ, entre otras. Ofrecemos OSDE 310, capacitaciones, cursos de inglés y un ambiente de trabajo distendido. Esperamos tu CV en <<MailTo(careers EN goviridian PUNTO com)>>.
 
  * (20/09/2012) [[http://www.msa.com.ar|MSA S.A.]] está conformando un nuevo equipo de desarrollo de aplicaciones (no electorales) basadas en Python, Software Libre en su totalidad y tecnología RFID, entre otras, para un '''proyecto de gran envergadura'''. La búsqueda es a nivel de "Líderes de Proyecto" como de "Desarrolladores" y "Analistas Funcionales". Puntualmente para la posición de Líder de Proyecto, se recibirán CVs en rrhh@msa.com.ar hasta el 15 de Octubre. A partir de dicha fecha, se hará la selección de quienes, como tarea inicial, deberán ayudar a la dirección de la empresa a seleccionar sus propios equipos de trabajo.
