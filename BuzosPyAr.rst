@@ -16,7 +16,7 @@ El dibujo en vectores .SVG creado con Inkscape, para que puedan armar sus propue
 
 {{attachment:buzosv2reducido.png}}
 
-Pueden ver una versión del dibujo en resolución grande ( para ver los detalles ) acá: [[{{attachment:buzosv2.png}}|acá]] . Y también la versión en PDF [[http://ubuntuone.com/6fx4gPwQAG2cnsptj9IpRJ|acá]].
+Pueden ver una versión del dibujo en resolución grande ( para ver los detalles ) acá: [[http://ubuntuone.com/4ApdQy8DQat4thlT5rvX1u|acá]] . Y también la versión en PDF [[http://ubuntuone.com/6fx4gPwQAG2cnsptj9IpRJ|acá]].
 
 '''Fechas'''
 
