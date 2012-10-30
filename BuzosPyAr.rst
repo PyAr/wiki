@@ -16,6 +16,8 @@ El dibujo en vectores .SVG creado con Inkscape, para que puedan armar sus propue
 
 {{attachment:buzosv2reducido.png}}
 
+Pueden ver una versión del dibujo en resolución más alta acá: {{attachment:buzosv2reducido.png}} . Y también la versión en PDF [[http://ubuntuone.com/6fx4gPwQAG2cnsptj9IpRJ|acá]].
+
 '''Fechas'''
 
 Ha sido modificado el calendario y el plan de acción de los buzos en dos oportunidades. La razón fué dar más tiempo a la recepción de las propuestas iniciales. No se volverá a extender ningún plazo. Este es el calendario '''definitivo'''.
