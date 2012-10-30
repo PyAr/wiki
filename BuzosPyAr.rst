@@ -14,7 +14,7 @@ El dibujo en vectores .SVG creado con Inkscape, para que puedan armar sus propue
 
 '''Diseños'''
 
-{{attachment:buzosv2.png}}
+{{attachment:buzosv2reducido.png}}
 
 '''Fechas'''
 
