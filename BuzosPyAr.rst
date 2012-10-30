@@ -8,15 +8,13 @@ Se armó esta selección de cinco propuestas de diseño iniciales, con la ayuda 
 
 Los buzos son de tela de buena calidad, de tipo canguro, de color negro. 
 
-Pueden ver un PDF con las opciones de diseño recibidas [[http://ubuntuone.com/6fx4gPwQAG2cnsptj9IpRJ|acá]].
-
 El dibujo en vectores .SVG creado con Inkscape, para que puedan armar sus propuestas, forkear y hacer modificaciones lo pueden bajar [[http://ubuntuone.com/0blwTRrbPSKw190nFv5MPC|acá]]. 
 
 '''Diseños'''
 
 {{attachment:buzosv2reducido.png}}
 
-Pueden ver una versión del dibujo en resolución grande ( para ver los detalles ) acá: [[http://ubuntuone.com/4ApdQy8DQat4thlT5rvX1u|acá]] . Y también la versión en PDF [[http://ubuntuone.com/6fx4gPwQAG2cnsptj9IpRJ|acá]].
+Pueden ver una versión de la imagen de resolución grande ( para ver los detalles ) acá: [[http://ubuntuone.com/4ApdQy8DQat4thlT5rvX1u|acá]] . Y también la versión en PDF [[http://ubuntuone.com/6fx4gPwQAG2cnsptj9IpRJ|acá]].
 
 '''Fechas'''
 
