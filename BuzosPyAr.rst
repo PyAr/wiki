@@ -16,6 +16,8 @@ El dibujo en vectores .SVG creado con Inkscape lo pueden bajar [[http://ubuntuon
 
 Pueden ver una versión de la imagen de resolución grande ( para ver los detalles ) acá: [[http://ubuntuone.com/4ApdQy8DQat4thlT5rvX1u|acá]] . Y también la versión en PDF [[http://ubuntuone.com/6fx4gPwQAG2cnsptj9IpRJ|acá]].
 
+Tu voto para el diseño envialo a : <<MailTo(juanrodriguezmonti EN gmail PUNTO com)>> . La propuesta con mayor cantidad de votos será la que usaremos para el buzo de Python Argentina.
+
 '''Fechas'''
 
 Ha sido modificado el calendario y el plan de acción de los buzos en dos oportunidades. La razón fué dar más tiempo a la recepción de las propuestas iniciales. No se volverá a extender ningún plazo. Este es el calendario '''definitivo'''.
@@ -29,8 +31,6 @@ Ha sido modificado el calendario y el plan de acción de los buzos en dos oportu
 - '''Semana 12/11''' - El Lunes 12/11 vamos a tener el listado final de pedidos. En esa fecha, en base a la cantidad de pedidos se establecerá con el proveedor de los buzos el tiempo de confección de los mismos, y se anunciaran por este mismo medio las formas de envío disponibles.
 
 --('''El creador del diseño ganador recibirá un buzo de regalo'''. No pierdas esta oportunidad!. Empezamos a recibir nuevas propuestas y forks de los diseños actuales: ahora!.)--
-
-Las propuestas de diseño nuevas y los forks de los diseños actuales deben ser enviarlos a : <<MailTo(juanrodriguezmonti EN gmail PUNTO com)>> .
 
 A continuación un listado de las personas que se anotaron para comprar uno o varios buzos.
 
