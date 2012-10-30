@@ -8,7 +8,7 @@ Se armó esta selección de cinco propuestas de diseño iniciales, con la ayuda 
 
 Los buzos son de tela de buena calidad, de tipo canguro, de color negro. 
 
-El dibujo en vectores .SVG creado con Inkscape, para que puedan armar sus propuestas, forkear y hacer modificaciones lo pueden bajar [[http://ubuntuone.com/0blwTRrbPSKw190nFv5MPC|acá]]. 
+El dibujo en vectores .SVG creado con Inkscape lo pueden bajar [[http://ubuntuone.com/0blwTRrbPSKw190nFv5MPC|acá]]. 
 
 '''Diseños'''
 
