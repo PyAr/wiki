@@ -20,7 +20,7 @@ La votación se realiza por email enviando un mail con la opción de diseño ele
 
 '''Fechas'''
 
-Ha sido modificado el calendario y el plan de acción de los buzos en dos oportunidades. La razón fué dar más tiempo a la recepción de las propuestas iniciales. No se volverá a extender ningún plazo. Este es el calendario '''definitivo'''.
+Ha sido modificado el calendario y el plan de acción de los buzos en dos oportunidades. La razón fué dar más tiempo a la recepción de las propuestas iniciales. Este es el calendario '''definitivo'''.
 
 - --('''Semana 22/10''' - Durante esta semana se recibirán las sugerencias/modificaciones para los diseños actuales, así como también nuevas propuestas. Seria muy bueno mejorar las propuestas entre todos y llegar a un mejor diseño final.)--
 
