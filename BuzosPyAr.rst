@@ -22,7 +22,7 @@ Pueden ver una versión del dibujo en resolución grande ( para ver los detalles
 
 Ha sido modificado el calendario y el plan de acción de los buzos en dos oportunidades. La razón fué dar más tiempo a la recepción de las propuestas iniciales. No se volverá a extender ningún plazo. Este es el calendario '''definitivo'''.
 
-- '''Semana 22/10''' - Durante esta semana se recibirán las sugerencias/modificaciones para los diseños actuales, así como también nuevas propuestas. Seria muy bueno mejorar las propuestas entre todos y llegar a un mejor diseño final.
+- --('''Semana 22/10''' - Durante esta semana se recibirán las sugerencias/modificaciones para los diseños actuales, así como también nuevas propuestas. Seria muy bueno mejorar las propuestas entre todos y llegar a un mejor diseño final.)--
 
 - '''Semana 29/10''' - El Lunes 29/10, se publicarán todos los diseños disponibles por este mismo medio. Ese mismo día comenzará la votación. Se recibirán votos hasta el Viernes 2/11 inclusive.
 
@@ -30,7 +30,7 @@ Ha sido modificado el calendario y el plan de acción de los buzos en dos oportu
 
 - '''Semana 12/11''' - El Lunes 12/11 vamos a tener el listado final de pedidos. En esa fecha, en base a la cantidad de pedidos se establecerá con el proveedor de los buzos el tiempo de confección de los mismos, y se anunciaran por este mismo medio las formas de envío disponibles.
 
-'''El creador del diseño ganador recibirá un buzo de regalo'''. No pierdas esta oportunidad!. Empezamos a recibir nuevas propuestas y forks de los diseños actuales: ahora!.
+--('''El creador del diseño ganador recibirá un buzo de regalo'''. No pierdas esta oportunidad!. Empezamos a recibir nuevas propuestas y forks de los diseños actuales: ahora!.)--
 
 Las propuestas de diseño nuevas y los forks de los diseños actuales deben ser enviarlos a : <<MailTo(juanrodriguezmonti EN gmail PUNTO com)>> .
 
