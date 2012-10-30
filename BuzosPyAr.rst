@@ -48,7 +48,7 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Gonzalo Martinez        ||XL ||Buenos Aires - San Martin ||
 ||Alberto Paparelli        || || ||
 ||Carlos Enrique Rodriguez || || Dos buzos.||
-||Guillermo Narvaez ||M ||La Rioja ||
+||Guillermo Narvaez ||L ||La Rioja ||
 ||Otto Wald      ||XL || ||
 ||Facundo Batista      ||Depende del tamaño ||más de un buzo si hay "muy chicos" ||
 ||Nahuel Defossé || || ||
