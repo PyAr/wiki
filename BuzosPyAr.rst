@@ -10,7 +10,7 @@ Los buzos son de tela de buena calidad, de tipo canguro, de color negro.
 
 El dibujo en vectores .SVG creado con Inkscape lo pueden bajar [[http://ubuntuone.com/0blwTRrbPSKw190nFv5MPC|acá]]. 
 
-'''Diseños'''
+'''Diseños - Comienza la votación'''
 
 {{attachment:buzosv2reducido.png}}
 
