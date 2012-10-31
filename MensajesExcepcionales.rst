@@ -244,13 +244,26 @@ SyntaxError: EOF while scanning triple-quoted string
 Las cadenas de múltiples líneas, deben empezar con triple comilla o tilde, y terminar con lo mismo. Aquí faltó cerrar la cadena con {{{"""}}}
 Nota: el error es simulado, es difícil que suceda en el intérprete, pero si ocurre en un archivo)
 
-==== Error de Sintaxis: no esposible asignar a un operador ====
+==== Error de Sintaxis: no es posible asignar a un operador ====
 {{{#!code python
 >>> numero+antiguo=1
   File "<input>", line 1
 SyntaxError: can't assign to operator (<input>, line 1)}}}
 
 El nombre de la variable es inválido, sería: {{{numero_mas_antiguo=1}}}
+
+==== Error de Sintaxis: token inválido ====
+
+{{{#!code python
+>>> print 08
+  File "<stdin>", line 1
+    print 08
+           ^
+SyntaxError: invalid token
+}}}
+
+El compilador de Python es muy estricto, y si no recibe el símbolo correcto (token) nos emitirá estos errores.
+En este caso, se debe a que los numeros que comienzan con 0 es un caso especial de notación octal (base 8), por lo que solo acepta números del 0 al 7. Para corregir el error, eliminar el 0 que precede al número {{{print 8}}}
 
 === Errores de Nombres (NameError) ===
 
