@@ -252,7 +252,7 @@ SyntaxError: can't assign to operator (<input>, line 1)}}}
 
 El nombre de la variable es inválido, sería: {{{numero_mas_antiguo=1}}}
 
-==== Error de Sintaxis: token inválido ====
+==== Error de Sintaxis: "token" inválido ====
 
 {{{#!code python
 >>> print 08
@@ -262,7 +262,7 @@ El nombre de la variable es inválido, sería: {{{numero_mas_antiguo=1}}}
 SyntaxError: invalid token
 }}}
 
-El compilador de Python es muy estricto, y si no recibe el símbolo correcto (token) nos emitirá estos errores.
+El compilador de Python es muy estricto, y si no recibe el símbolo/componente léxico correcto ("token") nos emitirá estos errores.
 En este caso, se debe a que los numeros que comienzan con 0 es un caso especial de notación octal (base 8), por lo que solo acepta números del 0 al 7. Para corregir el error, eliminar el 0 que precede al número {{{print 8}}}
 
 === Errores de Nombres (NameError) ===
