@@ -1,5 +1,7 @@
 = Trabajos con Python =
 == 2012 ==
+ * (01/11/2012) Pythonista, te quedan algunas horitas freelance para dedicar a Phasety ? Es una flamante empresa incubada por la Universidad Nacional de Córdoba, apuntando al desarrollo de software científico para la industria del petróleo. Mejor si tenés conocimientos de WxPython y Django. <<MailTo(gaitan EN phasety PUNTO com)>>.
+
  * (29/10/2012) En Anting estamos buscando programadores freelance Python y Django dentro del área de Capital Federal o Gran Bs.As para que nos ayuden en los proyecto actuales y futuros.Si estás interesado envianos un mail a <<MailTo(nmartinet EN anting PUNTO com PUNTO ar)>>.
 
  * (27/09/2012) En [[http://www.goviridian.com|Viridian]] buscamos desarrolladores para trabajar en nuestras oficinas de Puerto Madero. Es imprescindible el manejo del idioma inglés (intermedio), poseer gran capacidad resolutiva y demostrar compromiso con los plazos. Utilizamos Python (>= 2.7), Django, Apache HTTP Server, MySQL/PostgreSQL, RabbitMQ, entre otras. Ofrecemos OSDE 310, capacitaciones, cursos de inglés y un ambiente de trabajo distendido. Esperamos tu CV en <<MailTo(careers EN goviridian PUNTO com)>>.
