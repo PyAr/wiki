@@ -58,8 +58,7 @@ Si estas interesada en colaborar, puedes anotarte en la siguiente lista y agenda
  * Romina Castrogiovani
 
 || Horario || Viernes 16 || Sábado 17 ||
-|| 8:00 a 10:00 || (necesitamos al menos 10 personas)  || Marcelo Martinovic
-(necesitamos al menos 9 personas)  ||
+|| 8:00 a 10:00 || (necesitamos al menos 10 personas)  || Marcelo Martinovic(necesitamos al menos 9 personas)  ||
 || 10:00 || (necesitamos al menos 1 persona)  || (necesitamos al menos 1 persona)  ||
 || 11:00 || (necesitamos al menos 1 persona)  || (necesitamos al menos 1 persona)  ||
 || 12:00 || (necesitamos al menos 1 persona)  || (necesitamos al menos 1 persona)  ||
