@@ -18,7 +18,7 @@ Por favor [[PyConArgentina/2012/EncargadosAula|leer las instrucciones y anotarse
 Viernes 16:
 
 || Horario || Auditorio || Aula A || Aula B || Aula C ||
-|| 10:00 a 12:45 || TiN, falta otra mas  || (necesitamos al menos 2 personas) || (necesitamos al menos 2 personas) || (necesitamos al menos 2 personas) ||
+|| 10:00 a 12:45 || TiN, Marcelo Martinovic  || (necesitamos al menos 2 personas) || (necesitamos al menos 2 personas) || (necesitamos al menos 2 personas) ||
 || 14:00 a 16:45 || (necesitamos al menos 2 personas) || (necesitamos al menos 2 personas) || (necesitamos al menos 2 personas) || (necesitamos al menos 2 personas) ||
 || 17:30 a 18:30 || TiN, falta otra mas  || (necesitamos al menos 2 personas)  || (necesitamos al menos 2 personas) || (necesitamos al menos 2 personas) ||
 
