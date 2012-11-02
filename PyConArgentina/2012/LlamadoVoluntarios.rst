@@ -56,6 +56,7 @@ Si estas interesada en colaborar, puedes anotarte en la siguiente lista y agenda
  * Yamila Cuestas
  * Virginia Gonzalez
  * Romina Castrogiovani
+ * Stacey Haysler
 
 || Horario || Viernes 16 || Sábado 17 ||
 || 8:00 a 10:00 || (necesitamos al menos 10 personas)  || Marcelo Martinovic(necesitamos al menos 9 personas)  ||
