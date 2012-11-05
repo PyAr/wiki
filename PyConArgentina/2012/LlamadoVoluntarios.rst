@@ -36,7 +36,7 @@ Necesitamos un coordinador de redes que se encargue de organizar la infraestruct
 Agrega tu nombre abajo si estas disponible el Jueves 15 por la noche en la Universidad para ayudar en este tema.
 
  * DiegoRamirez
- * (anotarse aca)
+ * AngelVelasquez
  * (anotarse aca)
 
 
