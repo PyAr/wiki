@@ -45,7 +45,7 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Juan M. Santos          ||M || ||
 ||Javier Pepe             ||XL|| ||
 ||Pablo Mouzo             || || ||
-||Tucumetal               || || ||
+||TucumetaL               ||L||Río Cuarto (Córdoba)||
 ||Gastón Menvielle        || || ||
 ||Federico Apelhanz       || || ||
 ||Marcelo Martinovic      ||XL || ||
