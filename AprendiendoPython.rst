@@ -7,7 +7,7 @@ Ahora, ¿a dónde podrías recurrir para obtener información que te inicie en l
 
  * [[http://www.byteofpython.info|Byte of Python]] es un libro para iniciarse en Python, el autor proclama que es para quien lo unico que sabe de computación es grabar un archivo. Actualmente cuenta con ediciones para Python 2.x y 3.
 
- * [[http://www.diveintopython.org/|Dive into Python]], está en varios idiomas, se viene escribiendo/actualizando hace bastante, y viene con Ubuntu. [[http://almacen.gulic.org/diveintopython-5.4-es/|Inmersión en Python]] es la versión en castellano y ya han sido traducidos algunos capitulos. También tiene versiones para Python 2.x y 3.
+ * [[http://http://www.diveintopython.net/toc/index.html/|Dive into Python]], está en varios idiomas, se viene escribiendo/actualizando hace bastante, y viene con Ubuntu. [[http://almacen.gulic.org/diveintopython-5.4-es/|Inmersión en Python]] es la versión en castellano y ya han sido traducidos algunos capitulos. También tiene versiones para Python 2.x y 3.
 
  * [[http://www.hetland.org/python/instant-python.php|Instant Python]] es un curso de entrenamiento corto e intensivo. ([[http://www.arrakis.es/~rapto/AprendaPython.html|Versión en español]]).
 
