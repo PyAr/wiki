@@ -4,9 +4,9 @@ Vamos a hacer buzos de Python Argentina!. ¿ Las razones ?, juntar dinero para P
 
 El diseño lo elegimos entre todos, votando una de varias opciones disponibles.
 
-Los buzos son de tela de buena calidad, de tipo canguro, de color negro. Los diseños se basaron en propuestas de diseño que se enviaron para cuando PyAr armó sus remeras en diferentes ocasiones.
+Los buzos son de tela de buena calidad, de tipo canguro, de color negro. Los diseños se basaron en propuestas que se enviaron para cuando PyAr armó sus remeras en diferentes ocasiones.
 
-El dibujo de los diseños, en vectores , SVG creado con Inkscape lo pueden bajar [[http://ubuntuone.com/0blwTRrbPSKw190nFv5MPC|acá]]. 
+El dibujo en vectores SVG creado con Inkscape de los diseños lo pueden bajar [[http://ubuntuone.com/0blwTRrbPSKw190nFv5MPC|acá]]. 
 
 '''Votación finalizada: El diseño ganador fué el correspondiente a la opción número CUATRO!!!.'''
 
