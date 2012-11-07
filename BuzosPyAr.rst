@@ -10,13 +10,13 @@ Los buzos son de tela de buena calidad, de tipo canguro, de color negro.
 
 El dibujo en vectores .SVG creado con Inkscape lo pueden bajar [[http://ubuntuone.com/0blwTRrbPSKw190nFv5MPC|acá]]. 
 
-'''Diseños - Comienza la votación'''
+'''Votación finalizada: El diseño elegido fué la opción número CUATRO!!!.'''
 
 {{attachment:buzosv2reducido.png}}
 
 Pueden ver una versión de la imagen de resolución grande ( para ver los detalles ) acá: [[http://ubuntuone.com/4ApdQy8DQat4thlT5rvX1u|acá]] . Y también la versión en PDF [[http://ubuntuone.com/6fx4gPwQAG2cnsptj9IpRJ|acá]].
 
-La votación se realiza por email enviando un mail con la opción de diseño elegida y tu nombre a : <<MailTo(juanrodriguezmonti EN gmail PUNTO com)>> . La propuesta con mayor cantidad de votos será la que usaremos para el buzo de Python Argentina. El diseñoa ganador será anunciado por este mismo medio.
+-((La votación se realiza por email enviando un mail con la opción de diseño elegida y tu nombre a : <<MailTo(juanrodriguezmonti EN gmail PUNTO com)>> . La propuesta con mayor cantidad de votos será la que usaremos para el buzo de Python Argentina. El diseñoa ganador será anunciado por este mismo medio.))-
 
 '''Fechas'''
 
@@ -26,7 +26,7 @@ Ha sido modificado el calendario y el plan de acción de los buzos en dos oportu
 
 - --('''Semana 29/10''' - El Martes 30/10, se publicaron todos los diseños disponibles. Se recibirán votos hasta el Lunes 5/11 inclusive. Dado que se hizo el anuncio de los diseños un día más tarde - para dar un día más para las propuestas - se extendió también un día la votación, que iba a terminar el viernes y termina el Lunes 5/11.)--
 
-- '''Semana 5/11''' - El Martes 6/11 se anunciará el diseño ganador. Y durante esa semana se recibirán los últimos pedidos, hasta el Viernes 9/11.
+- -(('''Semana 5/11''' - El Martes 6/11 se anunciará el diseño ganador. Y durante esa semana se recibirán los últimos pedidos, hasta el Viernes 9/11.))-
 
 - '''Semana 12/11''' - El Lunes 12/11 vamos a tener el listado final de pedidos. En esa fecha, en base a la cantidad de pedidos se establecerá con el proveedor de los buzos el tiempo de confección de los mismos, y se anunciaran por este mismo medio las formas de envío disponibles.
 
