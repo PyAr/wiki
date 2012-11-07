@@ -32,6 +32,8 @@ Ha sido modificado el calendario y el plan de acción de los buzos en dos oportu
 
 --('''El creador del diseño ganador recibirá un buzo de regalo'''. No pierdas esta oportunidad!. Empezamos a recibir nuevas propuestas y forks de los diseños actuales: ahora!.)--
 
+'''Hay tiempo para hacer nuevos pedidos de buzos hasta el Lunes 12/11/2012 inclusive.'''
+
 A continuación un listado de las personas que se anotaron para comprar uno o varios buzos.
 
 ||Nombre ||Talle ||Observaciones ||
