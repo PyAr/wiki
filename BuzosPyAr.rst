@@ -12,6 +12,17 @@ El dibujo en vectores .SVG creado con Inkscape lo pueden bajar [[http://ubuntuon
 
 '''Votación finalizada: El diseño ganador fué el correspondiente a la opción número CUATRO!!!.'''
 
+Resultados de la votación
+
+||Opción || Porcentaje de votos ||
+||Opción 1 || 21 % ||
+||Opción 2 || 0 % ||
+||Opción 3 || 21 % ||
+||'''Opción 4''' || '''53 %''' ||
+||Opción 5 || 5 % ||
+
+Los diseños disponibles para votar fueron los siguientes:
+
 {{attachment:buzosv2reducido.png}}
 
 Pueden ver una versión de la imagen de resolución grande ( para ver los detalles ) acá: [[http://ubuntuone.com/4ApdQy8DQat4thlT5rvX1u|acá]] . Y también la versión en PDF [[http://ubuntuone.com/6fx4gPwQAG2cnsptj9IpRJ|acá]].
