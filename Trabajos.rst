@@ -1,5 +1,7 @@
 = Trabajos con Python =
 == 2012 ==
+ * (08/11/2012) En [[http://www.onapsis.com|Onapsis]] estamos incorporando Pythonianos a nuestro equipo en Bs As! Si te gusta trabajar en un ambiente relajado con plataformas libres y en tecnologías novedosas quizás te interese escuchar un poco más lo que tenemos para contarte!! postulate enviando tu cv a  <<MailTo(careers EN onapsis PUNTO com)>>.
+
  * (01/11/2012) Pythonista, te quedan algunas horitas freelance para dedicar a Phasety ? Es una flamante empresa incubada por la Universidad Nacional de Córdoba, apuntando al desarrollo de software científico para la industria del petróleo. Mejor si tenés conocimientos de WxPython y Django. <<MailTo(gaitan EN phasety PUNTO com)>>.
 
  * (29/10/2012) En Anting estamos buscando programadores freelance Python y Django dentro del área de Capital Federal o Gran Bs.As para que nos ayuden en los proyecto actuales y futuros.Si estás interesado envianos un mail a <<MailTo(nmartinet EN anting PUNTO com PUNTO ar)>>.
