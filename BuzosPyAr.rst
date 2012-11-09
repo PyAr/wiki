@@ -79,3 +79,4 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Jairo Trad || || ||
 ||Andrés Riancho ||L || ||
 ||Santiago Basulto || || ||
+||[[DavidLitvak|David Litvak]] || M || ||
