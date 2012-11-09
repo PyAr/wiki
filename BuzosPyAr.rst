@@ -2,11 +2,7 @@
 
 Vamos a hacer buzos de Python Argentina!. ¿ Las razones ?, juntar dinero para PyAr, y que podamos tener un espectacular buzo de Python Argentina!!.
 
-El diseño lo elegimos entre todos, votando una de varias opciones disponibles.
-
-Los buzos son de tela de buena calidad, de tipo canguro, de color negro. Los diseños se basaron en propuestas que se enviaron para cuando PyAr armó sus remeras en diferentes ocasiones.
-
-El dibujo en vectores SVG creado con Inkscape de los diseños lo pueden bajar [[http://ubuntuone.com/0blwTRrbPSKw190nFv5MPC|acá]]. 
+El diseño lo elegimos entre todos, votando una de varias opciones disponibles. Los buzos son de tela de buena calidad, de tipo canguro, de color negro, impresos en la espalda. 
 
 '''Pedidos'''
 
@@ -24,13 +20,15 @@ Resultados de la votación
 ||'''Opción 4''' || '''53 %''' ||
 ||Opción 5 || 5 % ||
 
-Los diseños disponibles para votar fueron los siguientes:
+'''Diseño final del buzo'''
 
-{{attachment:buzosv2reducido.png}}
+{{attachment:opcion4espalda.png}}
 
-Pueden ver una versión de la imagen de resolución grande ( para ver los detalles ) acá: [[http://ubuntuone.com/4ApdQy8DQat4thlT5rvX1u|acá]] . Y también la versión en PDF [[http://ubuntuone.com/6fx4gPwQAG2cnsptj9IpRJ|acá]].
+Pueden ver una versión de los diseños que se votaron en una imagen de resolución grande ( para ver los detalles ) acá: [[http://ubuntuone.com/4ApdQy8DQat4thlT5rvX1u|acá]] . Y también la versión en PDF [[http://ubuntuone.com/6fx4gPwQAG2cnsptj9IpRJ|acá]].
 
---(La votación se realiza por email enviando un mail con la opción de diseño elegida y tu nombre a : <<MailTo(juanrodriguezmonti EN gmail PUNTO com)>> . La propuesta con mayor cantidad de votos será la que usaremos para el buzo de Python Argentina. El diseñoa ganador será anunciado por este mismo medio.)--
+El dibujo en vectores SVG creado con Inkscape de los diseños lo pueden bajar [[http://ubuntuone.com/0blwTRrbPSKw190nFv5MPC|acá]]. 
+
+Los diseños se basaron en propuestas que se enviaron para cuando PyAr armó sus remeras en diferentes ocasiones.
 
 '''Fechas'''
 
@@ -43,8 +41,6 @@ Ha sido modificado el calendario y el plan de acción de los buzos en dos oportu
 - --('''Semana 5/11''' - El Martes 6/11 se anunciará el diseño ganador. Y durante esa semana se recibirán los últimos pedidos, hasta el Viernes 9/11.)--
 
 - '''Semana 12/11''' - El Lunes 12/11 vamos a tener el listado final de pedidos. En esa fecha, en base a la cantidad de pedidos se establecerá con el proveedor de los buzos el tiempo de confección de los mismos, y se anunciaran por este mismo medio las formas de envío disponibles.
-
---('''El creador del diseño ganador recibirá un buzo de regalo'''. No pierdas esta oportunidad!. Empezamos a recibir nuevas propuestas y forks de los diseños actuales: ahora!.)--
 
 '''Hay tiempo para hacer nuevos pedidos de buzos hasta el Lunes 12/11/2012 inclusive.'''
 
