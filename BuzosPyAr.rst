@@ -10,7 +10,7 @@ El dibujo en vectores SVG creado con Inkscape de los diseños lo pueden bajar [[
 
 '''Pedidos'''
 
-Para hacer pedidos de buzos enviame tenés que enviar un email a : <<MailTo(juanrodriguezmonti EN gmail PUNTO com)>>. 
+Para hacer pedidos de buzos tenés que enviar un email a : <<MailTo(juanrodriguezmonti EN gmail PUNTO com)>>. 
 Escribime y te indico los pasos a seguir.
 
 '''Votación'''
