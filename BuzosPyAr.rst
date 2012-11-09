@@ -4,7 +4,7 @@ Vamos a hacer buzos de Python Argentina!. ¿ Las razones ?, juntar dinero para P
 
 Los buzos son de tela de buena calidad, de tipo canguro, de color negro, impresos en la espalda. 
 
-El diseño se eligió votando entre 5 opciones disponibles. El diseño elegido es el siguiente :
+'''Diseño del buzo'''
 
 {{attachment:opcion4espalda.png}}
 
