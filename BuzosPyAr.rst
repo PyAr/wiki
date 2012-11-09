@@ -81,3 +81,5 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Diego van Haaster || || ||
 ||Felipe Lerena || || ||
 ||Jairo Trad || || ||
+||Andrés Riancho ||L || ||
+||Santiago Basulto || || ||
