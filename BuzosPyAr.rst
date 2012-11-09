@@ -2,16 +2,20 @@
 
 Vamos a hacer buzos de Python Argentina!. ¿ Las razones ?, juntar dinero para PyAr, y que podamos tener un espectacular buzo de Python Argentina!!.
 
-El diseño lo elegimos entre todos, votando una de varias opciones disponibles. Los buzos son de tela de buena calidad, de tipo canguro, de color negro, impresos en la espalda. 
+Los buzos son de tela de buena calidad, de tipo canguro, de color negro, impresos en la espalda. 
+
+El diseño se eligió votando entre 5 opciones disponibles. El diseño elegido es el siguiente :
+
+{{attachment:opcion4espalda.png}}
 
 '''Pedidos'''
 
 Para hacer pedidos de buzos tenés que enviar un email a : <<MailTo(juanrodriguezmonti EN gmail PUNTO com)>>. 
 Cuando escribas, se te responderá indicando cómo hacer el pago por el o los buzos que compres.
 
-'''Votación'''
+'''Notas sobre el diseño del buzo'''
 
-Resultados de la votación
+El diseño elegido, fué sometido a la votación de la gente que pertenece a PyAr. Los resultados de la votación fueron los siguientes:
 
 ||Opción || Porcentaje de votos ||
 ||Opción 1 || 21 % ||
@@ -19,10 +23,6 @@ Resultados de la votación
 ||Opción 3 || 21 % ||
 ||'''Opción 4''' || '''53 %''' ||
 ||Opción 5 || 5 % ||
-
-'''Diseño final del buzo'''
-
-{{attachment:opcion4espalda.png}}
 
 Pueden ver una versión de los diseños que se votaron en una imagen de resolución grande ( para ver los detalles ) acá: [[http://ubuntuone.com/4ApdQy8DQat4thlT5rvX1u|acá]] . Y también la versión en PDF [[http://ubuntuone.com/6fx4gPwQAG2cnsptj9IpRJ|acá]].
 
