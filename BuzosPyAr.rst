@@ -6,7 +6,7 @@ Los buzos son de tela de buena calidad, de tipo canguro, de color negro, impreso
 
 '''Diseño del buzo'''
 
-{{attachment:opcion4espalda.png}}
+{{attachment:opcion4espalda-reducido.png}}
 
 '''Pedidos'''
 
