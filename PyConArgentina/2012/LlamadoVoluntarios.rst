@@ -37,6 +37,7 @@ La noche antes de comenzar la conferencia principal, puedes ayudar cableando, co
 
  * DiegoRamirez
  * AngelVelasquez
+ * RobertoPerdomo
  * (anotarse aca)
 
 == Encargados de Registración ==
