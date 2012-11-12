@@ -18,7 +18,7 @@ Viernes 16:
 ||Horario ||Auditorio ||Aula A ||Aula B ||Aula C ||
 ||10:00 a 12:45 ||TiN, Marcelo Martinovic ||(necesitamos al menos 2 personas) ||(libre - espacios abiertos) ||SebastianBassi (necesitamos 1 persona) ||
 ||14:00 a 16:45 ||SebastianBassi (necesitamos 1 persona) ||CarlosEnriqueRodriguez (necesitamos 1 persona) ||AlbertoPaparelli, Ska ||(necesitamos al menos 2 personas) ||
-||17:30 a 18:30 ||TiN, falta otra mas ||SebastianBassi, falta otra mas ||CarlosEnriqueRodriguez (necesitamoS 1 personas) ||(necesitamos al menos 2 personas) ||
+||17:30 a 18:30 ||TiN, falta otra mas ||SebastianBassi, falta otra mas ||CarlosEnriqueRodriguez (necesitamo 1 persona) ||(necesitamos al menos 2 personas) ||
 
 
 
@@ -56,7 +56,7 @@ Si estas interesada en colaborar, puedes anotarte en la siguiente lista y agenda
  * Stacey Haysler
 
 ||Horario ||Viernes 16 ||Sábado 17 ||
-||8:00 a 10:00 ||SebastianBassi, Orfi Schleppi (faltan 8 personas) ||Marcelo Martinovic y SebastianBassi, Orfi Schleppi(faltan 7 personas) ||
+||8:00 a 10:00 ||SebastianBassi, Orfi Schleppi, CarlosEnriqueRodriguez (faltan 7 personas) ||Marcelo Martinovic y SebastianBassi, Orfi Schleppi, CarlosEnriqueRodriguez (faltan 6 personas) ||
 ||10:00 ||(necesitamos al menos 1 persona) ||(necesitamos al menos 1 persona) ||
 ||11:00 ||Orfi Schleppi ||Orfi Schleppi ||
 ||12:00 ||(necesitamos al menos 1 persona) ||(necesitamos al menos 1 persona) ||
