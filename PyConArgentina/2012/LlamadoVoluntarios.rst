@@ -16,9 +16,9 @@ Por favor [[PyConArgentina/2012/EncargadosAula|leer las instrucciones y anotarse
 
 Viernes 16:
 ||Horario ||Auditorio ||Aula A ||Aula B ||Aula C ||
-||10:00 a 12:45 ||TiN, Marcelo Martinovic ||(necesitamos al menos 2 personas) ||(libre - espacios abiertos) ||SebastianBassi (necesitamos 1 persona) ||
-||14:00 a 16:45 ||SebastianBassi (necesitamos 1 persona) ||CarlosEnriqueRodriguez (necesitamos 1 persona) ||AlbertoPaparelli, Ska ||(necesitamos al menos 2 personas) ||
-||17:30 a 18:30 ||TiN, falta otra mas ||SebastianBassi, falta otra mas ||CarlosEnriqueRodriguez (necesitamo 1 persona) ||(necesitamos al menos 2 personas) ||
+||10:00 a 12:45 ||TiN, Marcelo Martinovic ||JuanFisanotti (necesitamos 1 persona mas) ||(libre - espacios abiertos) ||SebastianBassi (necesitamos 1 persona) ||
+||14:00 a 16:45 ||SebastianBassi, JuanFisanotti ||CarlosEnriqueRodriguez (necesitamos 1 persona) ||AlbertoPaparelli, Ska ||(necesitamos al menos 2 personas) ||
+||17:30 a 18:30 ||TiN, falta otra mas ||SebastianBassi, JuanFisanotti ||CarlosEnriqueRodriguez (necesitamo 1 persona) ||(necesitamos al menos 2 personas) ||
 
 
 
