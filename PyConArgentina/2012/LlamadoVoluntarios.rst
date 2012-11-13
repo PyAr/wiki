@@ -25,8 +25,8 @@ Viernes 16:
 
 Sábado 17:
 ||Horario ||Auditorio ||Aula A ||Aula B ||Aula C ||
-||10:00 a 12:45 ||(necesitamos al menos 2 personas) ||CarlosEnriqueRodriguez (necesitamos 1 persona) ||(libre - espacios abiertos) ||SebastianBassi (necesitamos 1 persona) ||
-||14:00 a 16:45 ||(necesitamos al menos 2 personas) ||Virginia Gonzalez, CarlosEnriqueRodriguez ||(necesitamos al menos 2 personas) ||SebastianBassi (necesitamos 1 persona) ||
+||10:00 a 12:45 || JuanFisanotti (necesitamos 1 persona más) ||CarlosEnriqueRodriguez (necesitamos 1 persona) ||(libre - espacios abiertos) ||SebastianBassi (necesitamos 1 persona) ||
+||14:00 a 16:45 ||(necesitamos al menos 2 personas) ||Virginia Gonzalez, CarlosEnriqueRodriguez || JuanFisanotti (necesitamos 1 persona más) ||SebastianBassi (necesitamos 1 persona) ||
 ||17:30 a 18:30 ||SebastianBassi, CarlosEnriqueRodriguez ||Virginia Gonzalez (necesitamos 1 persona) ||(necesitamos al menos 2 personas) ||(necesitamos al menos 2 personas) ||
 
 
