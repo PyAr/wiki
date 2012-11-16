@@ -56,13 +56,13 @@ Si estas interesada en colaborar, puedes anotarte en la siguiente lista y agenda
  * Stacey Haysler
 
 ||Horario ||Viernes 16 ||Sábado 17 ||
-||8:00 a 10:00 ||SebastianBassi, Orfi Schleppi, CarlosEnriqueRodriguez (faltan 7 personas) ||Marcelo Martinovic y SebastianBassi, Orfi Schleppi, CarlosEnriqueRodriguez (faltan 6 personas) ||
-||10:00 ||(necesitamos al menos 1 persona) ||(necesitamos al menos 1 persona) ||
+||8:00 a 10:00 ||SebastianBassi, CarlosEnriqueRodriguez (faltan 8 personas) ||Marcelo Martinovic y SebastianBassi, Orfi Schleppi, CarlosEnriqueRodriguez (faltan 6 personas) ||
+||10:00 ||Orfi Schleppi ||(necesitamos al menos 1 persona) ||
 ||11:00 ||Orfi Schleppi ||Orfi Schleppi ||
 ||12:00 ||(necesitamos al menos 1 persona) ||(necesitamos al menos 1 persona) ||
 ||13:00 ||(necesitamos al menos 1 persona) ||(necesitamos al menos 1 persona) ||
-||14:00 ||Orfi Schleppi ||Orfi Schleppi ||
-||15:00 ||(necesitamos al menos 1 persona) ||(necesitamos al menos 1 persona) ||
+||14:00 ||(necesitamos al menos 1 persona) ||Orfi Schleppi ||
+||15:00 ||Orfi Schleppi ||(necesitamos al menos 1 persona) ||
 ||16:00 ||(necesitamos al menos 1 persona) ||(necesitamos al menos 1 persona) ||
 ||17:00 ||(necesitamos al menos 1 persona) ||(necesitamos al menos 1 persona) ||
 
