@@ -20,6 +20,19 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 
+==== 19/11/2012 ====
+
+===== PyCon Argentina 2012 =====
+
+
+
+
+[[http://pyconar.blogspot.com.ar/2012/11/gracias.html|Gracias!]]
+
+
+
+
+
 ==== 21/09/2012 ====
 
 ===== PyCon Argentina 2012: Invitación al público y gacetilla de prensa =====
