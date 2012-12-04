@@ -1,3 +1,5 @@
+= Llamado a Sedes PyCon Argentina 2013 =
+
 Bueno como nos comprometimos, lanzamos el kickof para elegir la sede para PyCon Argentina 2013.
 
 == Intro: Nuestros Objetivos en base a las lecciones aprendidas: ==
