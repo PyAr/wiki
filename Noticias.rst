@@ -20,18 +20,20 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 
+==== 04/12/2012 ====
+
+===== PyCon Argentina 2013: Llamado a sedes =====
+
+Abrió el período para postular sedes de la 5° Conferencia Nacional Python Argentina.
+Más información en: 
+[[PyConArgentina/2013/LlamadoSedes|Llamado a Sedes]]
+
+
 ==== 19/11/2012 ====
 
 ===== PyCon Argentina 2012 =====
 
-
-
-
 [[http://pyconar.blogspot.com.ar/2012/11/gracias.html|Gracias!]]
-
-
-
-
 
 ==== 21/09/2012 ====
 
