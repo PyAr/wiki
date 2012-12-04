@@ -12,7 +12,7 @@ Bueno como nos comprometimos, lanzamos el kickof para elegir la sede para PyCon 
 
 == Nuestras sugerencias para proponer sede de PyCon Argentina 2013: ==
 
-El que quiera proponer una sede debería crear una página en la wiki de PyAr, por ej usando de base [[LlamadoasedePyconar2012/PyConAr2012BsAs|PyCon Argentina 2012]], (ASAP para poder anunciarlo este año antes de las vacaciones), definiendo:
+El que quiera proponer una sede debería crear una página en la wiki de PyAr, por ej usando de base '''[[LlamadoasedePyconar2012/PyConAr2012BsAs|Propuesta PyCon Argentina 2012]]''', (ASAP para poder anunciarlo este año antes de las vacaciones), definiendo:
 
  * '''Objetivos''' (por ej. más diversidad, ampliar la comunidad y/o conectarse con otras comunidades, enfoque al desarrollo web, herramientas, py3k, core, etc.), público estimado y difusión (medios). Ver Brochure 2012[[https://docs.google.com/document/d/1IZEXffb90rO8IorTTTkRfgUQVCy_idrxMCCchAh0sSU/edit|inglés]] y [[http://ar.pycon.org/2012/static/docs/carta_sponsors_pyconar2012.pdf|español]] y [[http://dl.dropbox.com/u/6952651/brochure_magazine/brochure-pyconf-2012.pdf|Programa 2012]]
  * '''Experiencia previa''' (PyDays u otros eventos locales y/o internacionales), disponibilidad / recursos afectados y método de organización (lista de correo, grupo, wiki, etc.). Ver [[http://ar.pycon.org/2012/conference|Info. General]]
