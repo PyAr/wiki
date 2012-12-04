@@ -12,14 +12,14 @@ Bueno como nos comprometimos, lanzamos el kickof para elegir la sede para PyCon 
 
 == Nuestras sugerencias para proponer sede de PyCon Argentina 2013: ==
 
-El que quiera proponer una sede debería crear una página en la wiki de PyAr, por ej usando de base PyCon Arg. 2012, (ASAP para poder anunciarlo este año antes de las vacaciones), definiendo:
+El que quiera proponer una sede debería crear una página en la wiki de PyAr, por ej usando de base [[http://python.org.ar/pyar/LlamadoasedePyconar2012/PyConAr2012BsAs|PyCon Argentina 2012]], (ASAP para poder anunciarlo este año antes de las vacaciones), definiendo:
 
  * '''Objetivos''' (por ej. más diversidad, ampliar la comunidad y/o conectarse con otras comunidades, enfoque al desarrollo web, herramientas, py3k, core, etc.), público estimado y difusión (medios).
  * '''Experiencia previa''' (PyDays u otros eventos locales y/o internacionales), disponibilidad / recursos afectados y método de organización (lista de correo, grupo, wiki, etc.)
  * '''Sede Tentativa''' (Universidad, Institutos de Capacitación, Coworking  o similar), si es posible con una carta de la institución confirmando su deseo de participar y alcances (espacios reservados).
  * '''Roles principales''' (si es posible mínimamente un coordinador general, un co-coordinador, tesorero y secretaria, y que roles tradicionales plantean, como coordinador de charlas, becas, lugar, etc.). Por ej. ver [[http://ar.pycon.org/2012/conference/staff|Organizadores 2012]] y [[PyConArgentina/2012/LlamadoVoluntarios|Llamado a Voluntarios]]
  * '''Organización formal''' (ONG: Solar, Via Libre, o similar para el manejo de fondos): cuentas bancarias, tesoreros/gestores y cualquier otro tema que pudiera surgir (ej. sponsors y tiempos).
- * '''Propuestas de días y cronograma general''' (cantidad de tracks -general, extremo, científico, etc.- y actividades especiales como posters, reuniones de trabajo, talleres, etc.). Ver [[PyConArgentina/2012/LlamadoPropuestas|Llamado a Propuestas 2012]] y [[PyConArgentina/2012/LlamadoRevisores|Llamado Revisores 2012]] y [[http://ar.pycon.org/2012/schedule|Cronograma 2012]]
+ * '''Propuestas de días y cronograma general''' (cantidad de tracks -general, extremo, científico, etc.- y actividades especiales como posters, reuniones de trabajo, talleres, etc.). No olvidar definir el [[PyConArgentina/2012/LlamadoPropuestas|Llamado a Propuestas 2012]] y [[PyConArgentina/2012/LlamadoRevisores|Llamado Revisores 2012]] y [[http://ar.pycon.org/2012/schedule|Cronograma 2012]]
  * Presupuesto aproximado y financiamiento (próximamente publicaremos el balance, solicitar acceso las [[https://docs.google.com/spreadsheet/ccc?key=0Av_UYqYT4LNadHRReDhVS0k1Z2g0cTIzbFRwVFNTV3c#gid=1|planillas de trabajo del presupuesto y flujo de fondos de 2012]] p/estimados de gastos/ingresos de este año-)
  * '''Temas Accesorios''': impresiones (programas, credenciales, microtutoriales), artículos promocionales (remera, recuerdos, bolsa, etc.), catering (desayunos, almuerzos y coffee breaks) y logística (combis / taxis, si corresponde)
  * '''Actividades sociales''' (recepción, paseos turísticos, asado, fiesta de cierre), si bien no son imprescindibles, pueden ser muy interesantes para los viajeros internacionales y es una excelente oportunidad para conocer gente y hablar sobre proyectos de manera más distendida.
