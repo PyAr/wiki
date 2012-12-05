@@ -52,6 +52,7 @@
 
  * [[AdoptaUnNewbie]]: Ayuda en proyectos para gente que recién comienza
  
+ * [[SciPyar]]: PyAr para ciencia e ingeniería
 
 <<BR>>
 
@@ -63,4 +64,6 @@
 [[Noticias|Ver Noticias Antiguas]]
 ----
 ¿Comentarios? ¿Sugerencias? Enviá un mail a <<MailTo(admin AT python DOT org DOT ar)>>,
-o escribinos directamente [[Sugerencias|aquí]]. ¡Muchas gracias! 
+o escribinos directamente [[Sugerencias|aquí]]. ¡Muchas gracias!
+----
+CategoryCategory
