@@ -1,5 +1,7 @@
 = Trabajos con Python =
 == 2012 ==
+ * (17/12/2012) En [[http://oony.com|Oony]] buscamos desarrolladores Python semi-senior full-time. Construimos un servicio para encontrar las mejores ofertas todos los días en más de 16 países. Trabajamos con Tornado, PostgreSQL, MongoDB, Sphinx, Scrapy, Fabric, RabbitMQ, JQuery y Linux todo Python! Tenemos grandes desafíos en machine learning para recomendación y categorización, manejo de gran cantidad de datos para seguir expandiéndonos y producto. Indispensable manejar inglés. Nuestras oficinas están en Palermo, buen clima de trabajo. Envianos tu CV y remuneración pretendida a <<MailTo(jobs EN oony PUNTO com)>> Ref: Python Developer
+
  * (08/11/2012) En [[http://www.onapsis.com|Onapsis]] estamos incorporando Pythonianos a nuestro equipo en Bs As! Si te gusta trabajar en un ambiente relajado con plataformas libres y en tecnologías novedosas quizás te interese escuchar un poco más lo que tenemos para contarte!! postulate enviando tu cv a  <<MailTo(careers EN onapsis PUNTO com)>>.
 
  * (01/11/2012) Pythonista, te quedan algunas horitas freelance para dedicar a Phasety ? Es una flamante empresa incubada por la Universidad Nacional de Córdoba, apuntando al desarrollo de software científico para la industria del petróleo. Mejor si tenés conocimientos de WxPython y Django. <<MailTo(gaitan EN phasety PUNTO com)>>.
