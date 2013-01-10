@@ -12,6 +12,9 @@ Si querés suscribirte a la lista, te pedimos por favor que primero te tomes un 
 
  . ''(El paso 2. es opcional, pero muy bienvenido. Ha generado algunas de las conversaciones más interesantes de la lista...)''
 
+== Instrucciones para salirte de la lista ==
+Mandá un mensaje a <<MailTo(pyar-unsubscribe AT python DOT org DOT ar)>>
+
 == Ayuda ==
  * '''Tengo una duda sobre Python!''' No hay problema! primero puedes buscar lo que precises en el archivo de la lista, más abajo en la sección Buscar en los archivos de la lista te explicamos como :-) . En caso de que tu duda no sea resuelta por los archivos, no dudes en enviar un mail a la lista de PyAr (al momento de enviar un email a la lista de PyAr, asegurate de haber leído o saber las "costumbres" de la lista por aca: http://python.org.ar/pyar/EtiquetaPyAr)
 
