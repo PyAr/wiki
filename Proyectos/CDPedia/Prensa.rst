@@ -1,5 +1,6 @@
 = Notas de prensa =
 
+ * [[Proyectos/CDPedia/Prensa/Release0.8|Versión 0.8]] (17 de Enero de 2013)
  * [[Proyectos/CDPedia/Prensa/Release0.7|Versión 0.7]] (30 de junio de 2011)
 
 = Artículos sobre CDPedia =
