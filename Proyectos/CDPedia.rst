@@ -12,11 +12,13 @@ Importante: la CDPedia es Software Libre, te recomendamos (y te agradecemos) que
 ¡Que la disfrutes!
 
 == ¿Dónde la consigo? ==
-La última versión es la [[Proyectos/CDPedia/Prensa/Release0.7|0.7]] y se puede descargar desde acá:
+La última versión es la [[Proyectos/CDPedia/Prensa/Release0.8|0.8]] y se puede descargar desde acá:
 
 ||<tablewidth="90%" tablestyle="text-align:center">'''Formato'''||'''Tamaño'''||<style="font-weight: bold;">sha1sum||'''Descargar'''^[1]^||'''Contenido'''||
-||CD ||700.7Mb ||e674c7d19ab8e5ac53a1d09b7bb172047cd1f0c9 || [[http://cdpedia.nassty.com.ar/cdpedia-CD-0.7.iso|Opción 1]]<<BR>>[[http://cdpedia.nqnwebs.com/cdpedia-CD-0.7.iso|Opción 2]]<<BR>>[[http://cdpedia.usla.org.ar/cdpedia-CD-0.7.iso|Opción 3]] <<BR>> [[http://cdpedia.nqnwebs.com/cdpedia-CD-0.7.iso.torrent|Bittorrent]] || 93.500 artículos, 10% de imágenes||
-||DVD ||4.4Gb ||2c7b3746f4e68fc351e727d2ef8b342478e64667 ||[[http://cdpedia.nqnwebs.com/cdpedia-DVD5-0.7.iso|Opción 1]]<<BR>>[[http://cdpedia.nassty.com.ar/cdpedia-DVD5-0.7.iso|Opción 2]]<<BR>>[[http://cdpedia.usla.org.ar/cdpedia-DVD5-0.7.iso|Opción 3]] <<BR>> [[http://cdpedia.nqnwebs.com/cdpedia-DVD5-0.7.iso.torrent|Bittorrent]] ||Todos los artículos (886.000), 45% de imágenes.||
+||CD ||702 MB || f33a3c71754f645afe1a06780f2d0a058cd3198e || [[fixme|Opción 1]]<<BR>>[[fixme|Bittorrent]] || fixme||
+||DVD ||4.4 GB || 6b25b42abea19f5773c0d94d0d43cd1497c87531 ||[[fixme|Opción 1]]<<BR>>[[fixme|Bittorrent]] || fixme ||
+||tarball, grande || 11 GB || b0cdc989c8b3216a0d40abda2cabc25cdc3c0a4d ||[[fixme|Opción 1]]<<BR>>[[fixme|Bittorrent]] || fixme ||
+||tarball, medio || 2.7 GB || 9ab15a7ad6ffe310e82aece18ad395d2b8856e5c ||[[fixme|Opción 1]]<<BR>>[[fixme|Bittorrent]] || fixme ||
 
 ^[1]^ Si tenés la posibilidad, agradecemos que bajes y compartas los archivos vía !BitTorrent
 
