@@ -3,6 +3,15 @@
 [[http://python.org.ar|Python Argentina]] (!PyAr) se enorgullece de anunciar la versión 0.8 de la
 [[Proyectos/CDPedia|CDPedia]]. 
 
+Esta versión trae las siguientes novedades:
+
+ * Actualizamos el contenido a Diciembre 2012.
+ * Renovamos completamente la generación del ejecutable para Windows, se deberían tener muchísimos menos problemas para usar la CDPedia en ese entorno.
+ * Al extraer las páginas de Wikipedia, se les hace un análisis para evitar los artículos vandalizados (en este caso, se baja una versión más antigua, pero correcta).
+ * El servidor interno ahora es multiusuario, lo que simplifica enormemente instalar CDPedia en un servidor y que sea accedida desde distintos clientes.
+ * Ahora se incluyen en los discos todas las páginas de las categorías, no sólo la primera.
+ * Varias mejoras a la hora de la generación de discos y tarballs, así como también en la calidad del código.
+
 
 == Acerca de la CDPedia ==
 
