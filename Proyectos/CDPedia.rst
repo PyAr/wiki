@@ -45,7 +45,7 @@ Esta versión funciona en Linux, Mac o Windows sin tener que instalar ningún so
 
 == Información del proyecto ==
 
-El desarrollo de CDPedia se realiza en [[http://launchpad.net/cdpedia|este sitio]], aunque todavía tenemos los bugs en [[http://code.google.com/p/cdpedia/|el viejo lugar]].
+El desarrollo de CDPedia se realiza en [[http://launchpad.net/cdpedia|este sitio]], aunque todavía tenemos los bugs en [[http://code.google.com/p/cdpedia/|el viejo lugar]]. Los changelogs están [[http://python.org.ar/pyar/Proyectos/CDPedia/Changelogs|acá]].
 
 Ante cualquier duda, nos podés contactar mandando un mail a <<MailTo(cdpedia EN googlegroups PUNTO com)>>
 
