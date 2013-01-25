@@ -30,7 +30,9 @@ Hay poco movimiento en las universidades o terciarios, lo cual, obviamente no se
 Todo esto nos lleva a pensar en que un evento tan grande, con el apoyo y compromiso que está adoptando también la municipalidad, nos permitiría acercar a muchas instituciones educativas y de otro tipo también.
 
 == Experiencia previa ==
-Como grupo no tenemos mucha experiencia en organización de eventos, pero los integrantes somos profesionales con muchos años de experiencia en el desarrollo y coordinación de proyectos de variadas envergaduras. Además en este punto contamos nuevamente con el apoyo de la Secretaria de Cultura, inestimable en este caso, porque ellos se encargan semana a semana de gran parte de la agenda cultural de la ciudad y de los eventos mas concurridos, no es un dato menor, porque donde nosotros tenemos flaquezas ellos tienen un enorme know how para transmitirnos y apoyarnos.
+Como grupo no tenemos mucha experiencia en organización de eventos, pero los integrantes somos profesionales con muchos años de experiencia en el desarrollo y coordinación de proyectos de variadas envergaduras.
+En el mes de mayo vamos a ser sede del "Plone Symposium Latin America", un evento que cuenta con invitados internacionales, un público cercano a las 100 personas, organizado y coordinado por casi el mismo equipo de gente. Este evento nos serviría en el corto plazo para ganar experiencia y tener el equipo de trabajo listo para la PyCon.
+Además en este punto contamos nuevamente con el apoyo de la Secretaria de Cultura, inestimable en este caso, porque ellos se encargan semana a semana de gran parte de la agenda cultural de la ciudad y de los eventos mas concurridos, no es un dato menor, porque donde nosotros tenemos flaquezas ellos tienen un enorme know how para transmitirnos y apoyarnos.
 Obviamente también invitamos a todo aquel de la comunidad que crea que puede ayudarnos y guiarnos a hacerlo.
 
 == ¿Que podemos ofrecer como sede? ==
@@ -43,7 +45,7 @@ Una ciudad que está cerca, con una infraestructura acorde a su tamaño y modern
     * Fecha: A Confirmar
     * Niveles: introductorio, intermedio, avanzado
     * Tracks:
-        *  Python Core.
+        * Python Core.
         * Python Web Frameworks (bottle, django, web2py, zope, plone, grok, pyramid)
         * Python Desktop Development (gtk, qt, wx)
         * multimedia y juegos
