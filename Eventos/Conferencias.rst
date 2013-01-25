@@ -1,12 +1,20 @@
 == Conferencias ==
 
  * [[http://ar.pycon.org/2012| PyCon Argentina 2012]], a realizarse entre el 12 y 17 de Noviembre de 2012 en Buenos Aires (Bernal -Quilmes- y Capital Federal)
-
+ 
  * [[/PyDayRafaela2012 | PyDay Rafaela 2012]], jornada realizada el 19 y 20 de Octubre de 2012 en Rafaela (Santa Fe).
+
+ * [[http://pyday.com.ar/cordoba2012/ | PyDay Córdoba 2012]]
+
+ * [[http://pyday.com.ar/lujan2012/ | PyDay Luján 2012]]
 
  * [[http://ar.pycon.org/2011/conference/venue| PyCon Argentina 2011]], realizada el 23 y 24 de Septiembre de 2011 en la ciudad de Junín ( Buenos Aires ).
 
  * [[http://www.pyday.com.ar/sanluis2011/ | PyDay San Luis 2011]], realizada el 20 de Agosto de 2011 en la ciudad de San Luis.
+
+ * [[http://pyday.com.ar/catan2011/ | PyDay González Catán 2011]]
+
+ * [[http://pyday.com.ar/cordoba2011/ | PyDay Córdoba 2011]]
 
  * [[http://ar.pycon.org/2010/about/| PyCon Argentina 2010]], realizada el 15 y 16 de octubre de 2010 en la ciudad de Córdoba.
 
