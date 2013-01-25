@@ -25,4 +25,5 @@
 === Propuestas de Sedes ===
 
 PropuestaDePycon2013EnCordobaCapital
+
 PropuestaDePycon2013EnRosario
