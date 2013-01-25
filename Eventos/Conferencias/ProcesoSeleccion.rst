@@ -21,3 +21,8 @@
     9. De no existir objeciones la sede elegida por el CPI será la responsable de la siguiente PyConar a partir del día 8/02/2013
     10. De existir objeciones válidas; el CPI  reevaluará las sedes hasta el día 14 de febrero en el cual se presentará la sede ganadora con la correspondiente respuesta a las objeciones.
     11. Durante el mes de febrero un miembro del CPI a designar se reunirá con el nuevo coordinador general para pasarle papeles, datos y sugerencias.
+
+=== Propuestas de Sedes ===
+
+PropuestaDePycon2013EnCordobaCapital
+PropuestaDePycon2013EnRosario
