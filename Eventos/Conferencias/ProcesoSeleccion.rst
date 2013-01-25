@@ -24,6 +24,6 @@
 
 === Propuestas de Sedes ===
 
-PropuestaDePycon2013EnCordobaCapital
+[[Eventos/Conferencias/ProcesoSeleccion/PropuestaDePycon2013EnCordobaCapital|Pycon 2013 en Cordoba Capital]]
 
-PropuestaDePycon2013EnRosario
+[[Eventos/Conferencias/ProcesoSeleccion/PropuestaDePycon2013EnRosario|Pycon 2013 en Rosario]]
