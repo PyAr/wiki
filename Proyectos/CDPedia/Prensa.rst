@@ -5,6 +5,9 @@
 
 = Artículos sobre CDPedia =
 
+'''0.8'''
+ * Página 12: [[http://www.pagina12.com.ar/diario/cdigital/31-212790-2013-01-29.html|Se actualiza la CDPedia]]
+
 '''Más importantes:'''
 
  * Infobae: [[http://www.infobae.com/tecnologia/496509-601275-0-Reparten-escuelas-argentinas-DVD-contenido-Wikipedia|Reparten en escuelas argentinas DVD con contenido de Wikipedia]]
