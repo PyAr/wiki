@@ -1,4 +1,8 @@
 = Trabajos con Python =
+
+== 2013 ==
+ * (31/01/2013) [[http://Dzone.com|Dzone]], creadores de [[http://osqa.net|OSQA]], [[http://refcardz.dzone.com/|refcardz]] y mucho más está requiriendo programadores con muy buen conocimiento de Front End (Javascript [jQuery], Css, HTML), y conocimiento de Python. El trabajo es Full-Time (no freelancers por favor, o solo freelancers con ganas de comprometerse con una empresa) remoto, las oficinas están en EEUU y el equipo está distribuido entre distintos lugares del planeta. Hay mucho trabajo para hacer y el equipo está en pleno crecimiento. Envianos tu CV y remuneración pretendida a <<MailTo(javyer EN dzone PUNTO com)>> Ref: Front End Developer
+
 == 2012 ==
  * (17/12/2012) En [[http://oony.com|Oony]] buscamos desarrolladores Python semi-senior full-time. Construimos un servicio para encontrar las mejores ofertas todos los días en más de 16 países. Trabajamos con Tornado, PostgreSQL, MongoDB, Sphinx, Scrapy, Fabric, RabbitMQ, JQuery y Linux todo Python! Tenemos grandes desafíos en machine learning para recomendación y categorización, manejo de gran cantidad de datos para seguir expandiéndonos y producto. Indispensable manejar inglés. Nuestras oficinas están en Palermo, buen clima de trabajo. Envianos tu CV y remuneración pretendida a <<MailTo(jobs EN oony PUNTO com)>> Ref: Python Developer
 
