@@ -15,7 +15,7 @@
     
     3. --(De existir una única propuesta esa sede será la candidata)--
     4. --(El CPI designará a uno de sus miembro para validar  (con un idóneo en economía) los planes presentado.)--
-    5. El CPI  entrevistará personal o telefónicamente a los coordinadores generales candidatos para aclarar dudas con respecto a su propuesta entre los días 30/01/2013 y 1/02/2013 inclusive.
+    5. --(El CPI  entrevistará personal o telefónicamente a los coordinadores generales candidatos para aclarar dudas con respecto a su propuesta entre los días 30/01/2013 y 1/02/2013 inclusive.)--
     6. El CPI designará a uno de sus miembros para que durante los días 02/02/2013 y 03/02/2013 confecciones un resumen para el resto  del comite con una recomendación de la sede y con todos los datos tomados en cuenta.
     7. La sede candidata final será aprobada por el comité de primera instancia por mayoría. Se anunciará a la comunidad la elección el día 07/02/2013
     8. El CPI dará plazo hasta el 8 de febrero a la comunidad para que objete anonimamente (con un formulario por googledocs) la designación de sede.
