@@ -1,6 +1,9 @@
 = Trabajos con Python =
 
 == 2013 ==
+
+ * (01/02/2013) [[http://gentisoft.com|GentiSoft]], Buscamos freelance para terminar y continuar un desarrollo en Django, con una disponibilidad de por lo menos 4x5 a pagar AR$ 90 la hora ($AR 1.800 por semana). Interesados mandar CV o link a lined'in a <<MailTo(oscar EN gentisoft PUNTO com)>> Ref: Django Developer
+
  * (31/01/2013) [[http://Dzone.com|Dzone]], creadores de [[http://osqa.net|OSQA]], [[http://refcardz.dzone.com/|refcardz]] y mucho más está requiriendo programadores con muy buen conocimiento de Front End (Javascript [jQuery], Css, HTML), y conocimiento de Python. El trabajo es Full-Time (no freelancers por favor, o solo freelancers con ganas de comprometerse con una empresa) remoto, las oficinas están en EEUU y el equipo está distribuido entre distintos lugares del planeta. Hay mucho trabajo para hacer y el equipo está en pleno crecimiento. Envianos tu CV y remuneración pretendida a <<MailTo(javyer EN dzone PUNTO com)>> Ref: Front End Developer
 
  * (31/01/2013) [[http://www.msa.com.ar/|MSA]] busca programadores '''Python''' con deseables conocimientos de tecnologías Web, ambiente Open Source, Linux (Ubuntu), y manejo de bases de datos (SQL) . Buscamos gente proactiva, con habilidades autodidactas y afinidad al Software Libre. Si pensás que puede interesarte la propuesta, no dejes de comunicarte con nosotros vía mail con el CV y/o pretensiones a <rrhh EN msa PUNTO com PUNTO ar> 
