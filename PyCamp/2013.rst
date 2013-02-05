@@ -1,0 +1,15 @@
+= PyCamp 2012 =
+
+== Que se hace en un PyCamp ==
+
+[[PyCamp/QueSeHace|Que se hace en un PyCamp]]
+
+
+== Fecha ==
+
+A definir, manejamos por ahora dos posibles findes: del 20 al 23 de Junio, o del 6 al 9 de Julio.
+
+
+== Sede ==
+
+Todavía no está definida, pero [[PyCamp/2013/PosiblesSedes|en esta página]] se pueden ver las opciones que tenemos hasta ahora (puse una página aparte para que luego quede documentado ahí, mientras que este texto luego vuela y sólo queda acá la elegida)
