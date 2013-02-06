@@ -72,12 +72,12 @@ Más allá de la info general, algunos ítems tienen al costado un puntaje ''sob
 A 4 cuadras de la terminal de Villa Giardino, no hay forma de perderse, camino llano.
 
   * En auto: Desde Córdoba, por RN 38 vía Carlos Paz, o por el camino del cuadrado vía Río Ceballos (sale directo en La Falda). Hay cochera techada para 50 vehículos
-  * En bondi: Desde Córdoba, cualquier bondi que llegue a la terminal de Villa Giardino o más allá. Desde Buenos Aires, colectivos a Capilla del Monte y bajar en la terminal de Villa Giardino. Desde el resto del país, colectivos a Villa Giardino, La Falda, o Córdoba y aplicar las instrucciones del principio
+  * En bondi: Desde Córdoba, cualquier bondi que llegue a la terminal de Villa Giardino ($8 el remis al lugar desde allí) o más allá. Desde Buenos Aires, colectivos a Capilla del Monte y bajar en la terminal de Villa Giardino. Desde el resto del país, colectivos a Villa Giardino, La Falda, o Córdoba y aplicar las instrucciones del principio
 
-'''Qué onda el lugar: 4 pycampitas''' ++++-
+'''Qué onda el lugar: 5 pycampitas''' ++++-
   * Predio ENORME
-  * Canchas de todo tipo (futbol, tenis, paddle, etc)
-  * Pileta descubierta y climatizada
+  * Canchas de todo tipo (futbol, tenis, paddle, etc), uso incluido
+  * Pileta descubierta y climatizada ($15/día para usar la pileta climatizada)
   * Ofrecen 2 salones, uno enorme y uno más chico que se adapta a nuestras necesidades: con llave, muchos radiadores, y muchas ventanas para tener luz natural. En las fotos, el salón es: http://ubuntuone.com/5d8p1l7cTWQ7SSXa56pXpa
   * Experiencia haciendo eventos, de toda gama, han manejado grupos de más de 600 personas
   * Internet de 3MB de bajada con opción a subirla a 10MB por $1995 para los 4 días
@@ -129,35 +129,43 @@ A 4 cuadras de la terminal de Villa Giardino, no hay forma de perderse, camino l
 Está bien sobre la RN 38.
 
   * En auto: Desde Córdoba, por la RN 38, fácil acceso, hay cochera techada para 24 vehículos
-  * En bondi: blah.
+  * En bondi: Desde Córdoba, cualquier bondi que llegue a la terminal de Bialet Massé ($11 el remis al lugar desde allí). Desde Buenos Aires, colectivos a Capilla del Monte y bajar en la terminal de Bialet Massé.
 
-'''Qué onda el lugar: N pycampitas'''
-  * algo
-  * etc
+'''Qué onda el lugar: 4 pycampitas''' ++++-
+  * Hay un salón grande (que se usa para fiestas de casamiento, fiestas de 15, etc), quizás grande de más (habría que asegurarse la disponibilidad); las alternativas son un hall de distribución grande (pero muy abierto, no suficientemente grande).
+  * Predio grande
+  * Internet de 3MB (actualmente tramitando Arnet turbo para llevarlo a 7MB durante las horas de la mañana); aparentemente de necesitar algo más que esto, habría que hacerlo con anticipación porque lleva tiempo desde el pedido a la concreción.
+  * Es una casona vieja (habría pertenecido al hermano de Eva Duarte)
+  * Nos exigirían consumir/comprar la comida/bebida dentro del mismo hostal (que nos asegura tiene precios razonables)
 
-'''Qué onda las habitaciones: N pycampitas'''
-  * algo
-  * etc
+'''Qué onda las habitaciones: 3 pycampitas''' +++--
+  * Habitaciones dobles y triples; televisor mediano con DirecTV
+  * Baños viejitos
+  * Calefacción central, música funcional
 
-'''Qué onda la comida: N pycampitas'''
-  * algo
-  * etc
+'''Qué onda la comida: 3 pycampitas''' +++--
+  * Menú fijo de antemano (a definir)
+  * Hay entrada, plato principal y postre. El precio listado incluye una bebida de 500cc línea Coca Cola por comida
+  * Cafetería y bebidas con alcohol se pagan aparte
 
 '''Tres puntos a favor:'''
-  * 1
-  * 2
-  * 3
+  * Onda "familiar" (atención personalizada, buena predisposición, se adaptaría a nuestras necesidades)
+  * Las reviews dicen que la calidad de la comida y las habitaciones es buena
+  * El asado "casi" no modificaría el precio (valor a confirmar)
 
 '''Tres puntos en contra:'''
-  * 1
-  * 2
-  * 3
+  * De no contar con el salón grande, no parece haber un lugar suficientemente grande y cerrable
+  * Las restricciones del bar a la hora de conseguir comida/bebida extra
+  * Sobre la ruta, lejos de la terminal
 
-'''Disponibilidad:''' Fecha pre-hablada. 
-  * condiciones
+'''Disponibilidad:''' Jueves 20, Viernes 21, Sábado 22 y Domingo 23
+  * El jueves arranca desde el alumerzo (no hay desayuno), y el domingo termina a la tarde
+  * 4 comidas cada día (excepto lo dicho arriba)
+  * Habría que firmar un contrato en donde se especifica todo y se seña con el 30% del total
 
-'''Precio:''' $XXX por persona
-  * condiciones
+'''Precio:''' De 30 a 40, $760 + IVA por persona; más de 40, $680 + IVA
+  * Incluye bebida, se cuentan 3.5 días
+  * El que no quiera factura, no paga IVA. Se hacen facturas A individuales (hay que pagar el IVA)
 
 == Otra sede ==
 
