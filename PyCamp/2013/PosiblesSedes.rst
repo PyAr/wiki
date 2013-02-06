@@ -55,6 +55,104 @@ Más allá de la info general, algunos ítems tienen al costado un puntaje ''sob
   * La Asociación NO hace boletas (no tienen, son una entidad sin fines de lucro)
   * La base son 25 personas.
 
+== Hotel Luz y Fuerza ==
+
+'''Nombre del lugar:''' Hotel Luz y Fuerza
+
+'''Donde está:''' Sobre ruta nacional 38, Villa Giadirno.
+
+<<GoogleMaps(t="h",ll="-31.05237331484949, -64.50488448143005",spn="0.003459,0.007993",z="17")>>
+
+'''Fotos:''' http://ubuntuone.com/album/4lLGa4vkx6vaHvSzfhDhQb http://www.cordobaserrana.com.ar/luzyfuerzahotel.htm
+
+'''Contacto:''' nessita
+
+'''Formas de llegar: 5 pycampitas''' +++++
+
+A 4 cuadras de la terminal de Villa Giardino, no hay forma de perderse, camino llano.
+
+  * En auto: Desde Córdoba, por RN 38 vía Carlos Paz, o por el camino del cuadrado vía Río Ceballos (sale directo en La Falda)
+  * En bondi: Desde Córdoba, cualquier bondi que llegue a Villa Giardino o más allá. Desde Buenos Aires, colectivos a Capilla del Monte y bajar en la terminal de Villa Giardino.
+
+'''Qué onda el lugar: 4 pycampitas''' ++++-
+  * Predio ENORME
+  * Canchas de todo tipo (futbol, tenis, paddle, etc)
+  * Pileta descubierta y climatizada
+  * Ofrecen 2 salones, uno enorme y uno más chico que se adapta a nuestras necesidades: con llave, muchos radiadores, y muchas ventanas para tener luz natural. En las fotos, el salón es: http://ubuntuone.com/5d8p1l7cTWQ7SSXa56pXpa
+  * Experiencia haciendo eventos, de toda gama, han manejado grupos de más de 600 personas
+  * Internet de 3MB de bajada con opción a subirla a 10MB por $1995 para los 4 días
+
+'''Qué onda las habitaciones: 4 pycampitas''' ++++-
+  * algo
+  * etc
+
+'''Qué onda la comida: N pycampitas'''
+  * algo
+  * etc
+
+'''Tres puntos a favor:'''
+  * 1
+  * 2
+  * 3
+
+'''Tres puntos en contra:'''
+  * 1
+  * 2
+  * 3
+
+'''Disponibilidad:''' Fecha pre-hablada. 
+  * condiciones
+
+'''Precio:''' $XXX por persona
+  * condiciones
+
+== Otra sede ==
+
+'''Por favor copiar este template antes de usarlo, para que quede siempre al final.'''
+
+'''Nombre del lugar:''' Blah
+
+'''Donde está:''' Dirección!. Para el mapita de abajo, sacar los parámetros del mapa de google cuando piden el "link" al mismo, y sacarle la guarda para que se ejecute el plugin
+
+{{{
+<<GoogleMaps(t="h",ll="-35.38949,-57.320627",spn="0.003459,0.007993",z="18")>>
+}}}
+
+'''Fotos:''' Links, links.
+
+'''Contacto:''' El que lo carga
+
+'''Formas de llegar: N pycampitas'''
+  * En auto: blah.
+  * En bondi: blah.
+
+'''Qué onda el lugar: N pycampitas'''
+  * algo
+  * etc
+
+'''Qué onda las habitaciones: N pycampitas'''
+  * algo
+  * etc
+
+'''Qué onda la comida: N pycampitas'''
+  * algo
+  * etc
+
+'''Tres puntos a favor:'''
+  * 1
+  * 2
+  * 3
+
+'''Tres puntos en contra:'''
+  * 1
+  * 2
+  * 3
+
+'''Disponibilidad:''' Fecha pre-hablada. 
+  * condiciones
+
+'''Precio:''' $XXX por persona
+  * condiciones
 
 == Otra sede ==
 
