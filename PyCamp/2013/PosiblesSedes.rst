@@ -71,8 +71,8 @@ Más allá de la info general, algunos ítems tienen al costado un puntaje ''sob
 
 A 4 cuadras de la terminal de Villa Giardino, no hay forma de perderse, camino llano.
 
-  * En auto: Desde Córdoba, por RN 38 vía Carlos Paz, o por el camino del cuadrado vía Río Ceballos (sale directo en La Falda)
-  * En bondi: Desde Córdoba, cualquier bondi que llegue a Villa Giardino o más allá. Desde Buenos Aires, colectivos a Capilla del Monte y bajar en la terminal de Villa Giardino.
+  * En auto: Desde Córdoba, por RN 38 vía Carlos Paz, o por el camino del cuadrado vía Río Ceballos (sale directo en La Falda). Hay cochera techada para 50 vehículos
+  * En bondi: Desde Córdoba, cualquier bondi que llegue a la terminal de Villa Giardino o más allá. Desde Buenos Aires, colectivos a Capilla del Monte y bajar en la terminal de Villa Giardino. Desde el resto del país, colectivos a Villa Giardino, La Falda, o Córdoba y aplicar las instrucciones del principio
 
 '''Qué onda el lugar: 4 pycampitas''' ++++-
   * Predio ENORME
@@ -93,18 +93,19 @@ A 4 cuadras de la terminal de Villa Giardino, no hay forma de perderse, camino l
   * Hay opciones vegetarianas, para celíacos, sin sal, etc. Hay que avisar de antemano.
 
 '''Tres puntos a favor:'''
-  * Fácil acceso
-  * El predio está buenísimo, es grande, se puede pasear, ir con la familia
-  * Mucha experiencia en eventos grandes, y parece que la internet puede andar bastante bien
+  * Fácil acceso en transporte público o vehículo
+  * El predio está buenísimo, es grande, se puede pasear, ir con la familia. Las instalaciones se notan preparadas para el frío, y el salón que sería para el evento es seguro y lockeable
+  * Mucha experiencia en eventos grandes, y parece que la internet puede andar bien. Además, como es tan grande, pasaríamos "desapercibidos" y tendríamos menos controles
 
 '''Tres puntos en contra:'''
   * Las reviews de la web dicen que hay habitaciones feas y descuidadas, y que la comida es de mala calidad
   * Un poco caro?
   * A 80 km de la capital de Córdoba (o es ventaja esto?)
 
-'''Disponibilidad:''' Jueves 20, Viernes 21, Sábado 22 y Domingo 23. 
-  * El jueves arranca desde el alumerzo (no hay desayuno), y el domingo termina a la tarde.
+'''Disponibilidad:''' Jueves 20, Viernes 21, Sábado 22 y Domingo 23
+  * El jueves arranca desde el alumerzo (no hay desayuno), y el domingo termina a la tarde
   * 4 comidas cada día (excepto lo dicho arriba)
+  * Habría que firmar un contrato en donde se especifica todo y se seña con el 30% del total
 
 '''Precio:''' $745.5 + IVA
   * $213 + IVA por persona por día, incluye bebida, se cuentan 3.5 días
@@ -119,12 +120,15 @@ A 4 cuadras de la terminal de Villa Giardino, no hay forma de perderse, camino l
 
 <<GoogleMaps(t="h",ll="-31.330367,-64.46687",spn="0.001915,0.004128",z="18")>>
 
-'''Fotos:''' http://ubuntuone.com/album/6j16xRpveO4TMq877TqvJ7 http://hostalcolonialserrano.wordpress.com https://www.facebook.com/hostal.colonialserrano
+'''Fotos:''' http://ubuntuone.com/album/6j16xRpveO4TMq877TqvJ7 http://hostalcolonialserrano.wordpress.com https://www.facebook.com/hostal.colonialserrano http://www.facebook.com/pages/Hostal-Colonial-Serrano/297545386932938?sk=photos_albums
 
 '''Contacto:''' nessita
 
-'''Formas de llegar: N pycampitas'''
-  * En auto: blah.
+'''Formas de llegar: 4 pycampitas''' ++++-
+
+Está bien sobre la RN 38.
+
+  * En auto: Desde Córdoba, por la RN 38, fácil acceso, hay cochera techada para 24 vehículos
   * En bondi: blah.
 
 '''Qué onda el lugar: N pycampitas'''
