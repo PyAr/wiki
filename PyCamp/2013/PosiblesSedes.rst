@@ -59,9 +59,9 @@ Más allá de la info general, algunos ítems tienen al costado un puntaje ''sob
 
 '''Nombre del lugar:''' Hotel Luz y Fuerza
 
-'''Donde está:''' Sobre ruta nacional 38, Villa Giadirno.
+'''Donde está:''' Ruta Nacional 38, Villa Giadirno, Córdoba
 
-<<GoogleMaps(t="h",ll="-31.05237331484949, -64.50488448143005",spn="0.003459,0.007993",z="17")>>
+<<GoogleMaps(t="h",ll="-31.052479,-64.504852",spn="0.003842,0.008256",z="18")>>
 
 '''Fotos:''' http://ubuntuone.com/album/4lLGa4vkx6vaHvSzfhDhQb http://www.cordobaserrana.com.ar/luzyfuerzahotel.htm
 
@@ -83,44 +83,45 @@ A 4 cuadras de la terminal de Villa Giardino, no hay forma de perderse, camino l
   * Internet de 3MB de bajada con opción a subirla a 10MB por $1995 para los 4 días
 
 '''Qué onda las habitaciones: 4 pycampitas''' ++++-
-  * algo
-  * etc
+  * La que me mostraron, muy buena (ver http://ubuntuone.com/31w9lYLXLqJie1VpY4oGjZ y http://ubuntuone.com/4ZY2xqTyrHyKlSxcH0op7m)
+  * Serían todas camas individuales, en base doble y triple
+  * Todas con baño privado, radiador y caja de seguridad
 
-'''Qué onda la comida: N pycampitas'''
-  * algo
-  * etc
+'''Qué onda la comida: 3 pycampitas''' +++--
+  * Nos fijarían el menu de antemano al firmar el contrato
+  * Hay entrada, plato principal y postre. El precio listado incluye una bebida de 500cc línea Pepsi por comida
+  * Hay opciones vegetarianas, para celíacos, sin sal, etc. Hay que avisar de antemano.
 
 '''Tres puntos a favor:'''
-  * 1
-  * 2
-  * 3
+  * Fácil acceso
+  * El predio está buenísimo, es grande, se puede pasear, ir con la familia
+  * Mucha experiencia en eventos grandes, y parece que la internet puede andar bastante bien
 
 '''Tres puntos en contra:'''
-  * 1
-  * 2
-  * 3
+  * Las reviews de la web dicen que hay habitaciones feas y descuidadas, y que la comida es de mala calidad
+  * Un poco caro?
+  * A 80 km de la capital de Córdoba (o es ventaja esto?)
 
-'''Disponibilidad:''' Fecha pre-hablada. 
-  * condiciones
+'''Disponibilidad:''' Jueves 20, Viernes 21, Sábado 22 y Domingo 23. 
+  * El jueves arranca desde el alumerzo (no hay desayuno), y el domingo termina a la tarde.
+  * 4 comidas cada día (excepto lo dicho arriba)
 
-'''Precio:''' $XXX por persona
-  * condiciones
+'''Precio:''' $745.5 + IVA
+  * $213 + IVA por persona por día, incluye bebida, se cuentan 3.5 días
+  * El que no quiera factura, no paga IVA. Se hacen facturas A individuales (hay que pagar el IVA)
+  * El asado del sábado a la noche tiene un costo extra de $48 + IVA por persona
 
-== Otra sede ==
+== Hostal Colonial Serrano ==
 
-'''Por favor copiar este template antes de usarlo, para que quede siempre al final.'''
+'''Nombre del lugar:''' Hostal Colonial Serrano - FATIDA
 
-'''Nombre del lugar:''' Blah
+'''Donde está:''' Ruta Nacional 38, km 753, Bialet Massé, Córdoba
 
-'''Donde está:''' Dirección!. Para el mapita de abajo, sacar los parámetros del mapa de google cuando piden el "link" al mismo, y sacarle la guarda para que se ejecute el plugin
+<<GoogleMaps(t="h",ll="-31.330367,-64.46687",spn="0.001915,0.004128",z="18")>>
 
-{{{
-<<GoogleMaps(t="h",ll="-35.38949,-57.320627",spn="0.003459,0.007993",z="18")>>
-}}}
+'''Fotos:''' http://ubuntuone.com/album/6j16xRpveO4TMq877TqvJ7 http://hostalcolonialserrano.wordpress.com https://www.facebook.com/hostal.colonialserrano
 
-'''Fotos:''' Links, links.
-
-'''Contacto:''' El que lo carga
+'''Contacto:''' nessita
 
 '''Formas de llegar: N pycampitas'''
   * En auto: blah.
