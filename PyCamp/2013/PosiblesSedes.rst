@@ -103,7 +103,7 @@ A 4 cuadras de la terminal de Villa Giardino, no hay forma de perderse, camino l
   * Un poco caro?
   * A 80 km de la capital de Córdoba (o es ventaja esto?)
 
-'''Disponibilidad:''' Jueves 20, Viernes 21, Sábado 22 y Domingo 23
+'''Disponibilidad:''' Jueves 20, Viernes 21, Sábado 22 y Domingo 23 (de Junio de 2013)
   * El jueves arranca desde el alumerzo (no hay desayuno), y el domingo termina a la tarde
   * 4 comidas cada día (excepto lo dicho arriba)
   * Habría que firmar un contrato en donde se especifica todo y se seña con el 30% del total
@@ -164,7 +164,7 @@ Está bien sobre la RN 38.
   * Las restricciones del bar a la hora de conseguir comida/bebida extra
   * Sobre la ruta, lejos de la terminal
 
-'''Disponibilidad:''' Jueves 20, Viernes 21, Sábado 22 y Domingo 23
+'''Disponibilidad:''' Jueves 20, Viernes 21, Sábado 22 y Domingo 23 (de Junio de 2013)
   * El jueves arranca desde el alumerzo (no hay desayuno), y el domingo termina a la tarde
   * 4 comidas cada día (excepto lo dicho arriba)
   * Habría que firmar un contrato en donde se especifica todo y se seña con el 30% del total
