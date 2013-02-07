@@ -137,7 +137,7 @@ Está bien sobre la RN 38.
   * Hay un salón grande (ver foto en http://ubuntuone.com/3E62rW2zitWAaVmzvIfVju que se usa para fiestas de casamiento, fiestas de 15, etc), quizás un poco grande de más (habría que asegurarse la disponibilidad, en principio lo tenemos si lo queremos); las alternativas son el comedor (ver foto en http://ubuntuone.com/5RTH6X5FKnWP6oWFFx2moC) o un hall de distribución grande en el primer piso (pero muy abierto, quizás no lo suficientemente grande). Todos los salones con luz natural
   * Predio grande, mucho verde
   * Internet de 3MB (actualmente tramitando Arnet turbo para llevarlo a 7MB durante las horas de la mañana); aparentemente de necesitar algo más que esto, habría que hacerlo con anticipación porque lleva tiempo desde el pedido a la concreción.
-  * Es una casona vieja (habría pertenecido al hermano de Eva Duarte, Juan, que parece se la pasaba de fiesta en fiesta con otros políticos)
+  * Es una casona vieja (habría pertenecido al hermano de Eva Duarte, Juan, que --(parece)-- [[http://en.wikipedia.org/wiki/Ay_Juancito|se la pasaba de fiesta en fiesta]] con otros políticos)
   * Nos exigirían consumir/comprar la comida/bebida extra dentro del mismo hostal (que nos asegura tiene precios razonables, cerveza grande a $20 por ej)
   * Cancha de fubtol
   * Pileta de natación descubierta
