@@ -69,7 +69,7 @@ Más allá de la info general, algunos ítems tienen al costado un puntaje ''sob
 
 '''Formas de llegar: 5 pycampitas''' +++++
 
-A 4 cuadras de la terminal de Villa Giardino, no hay forma de perderse, camino llano.
+A 4 cuadras de la terminal de Villa Giardino, no hay forma de perderse, camino llano. Si se prefiere remis desde la terminal, $8
 
   * En auto: Desde Córdoba, por RN 38 vía Carlos Paz, o por el camino del cuadrado vía Río Ceballos (sale directo en La Falda). Hay cochera techada para 50 vehículos
   * En bondi: Desde Córdoba, cualquier bondi que llegue a la terminal de Villa Giardino ($8 el remis al lugar desde allí) o más allá. Desde Buenos Aires, colectivos a Capilla del Monte y bajar en la terminal de Villa Giardino. Desde el resto del país, colectivos a Villa Giardino, La Falda, o Córdoba y aplicar las instrucciones del principio
@@ -83,7 +83,7 @@ A 4 cuadras de la terminal de Villa Giardino, no hay forma de perderse, camino l
   * Internet de 3MB de bajada con opción a subirla a 10MB por $1995 para los 4 días
 
 '''Qué onda las habitaciones: 4 pycampitas''' ++++-
-  * La que me mostraron, muy buena (ver http://ubuntuone.com/31w9lYLXLqJie1VpY4oGjZ y http://ubuntuone.com/4ZY2xqTyrHyKlSxcH0op7m)
+  * La que me mostraron, muy buena (ver http://ubuntuone.com/31w9lYLXLqJie1VpY4oGjZ y http://ubuntuone.com/4ZY2xqTyrHyKlSxcH0op7m), está en una ala nueva del predio
   * Serían todas camas individuales, en base doble y triple
   * Todas con baño privado, radiador y caja de seguridad
 
@@ -134,16 +134,19 @@ Está bien sobre la RN 38.
   * En bondi: Desde Córdoba, cualquier bondi que pase por Bialet Massé, la parada está sobre la ruta al frente del hostal, líneas que van: Ciudad de Córdoba, Lumasa, Sarmiento (las tres con bauleras para bolsos). Desde Buenos Aires, cualquier colectivo a Capilla del Monte o La Falsa, y bajar en la terminal de Bialet Massé ($11 el remis al lugar desde allí). Dicen que si el chofer del colectivo es buena onda, los baja al frente del hostal (es más probable si los bolsos no están en la bodega)
 
 '''Qué onda el lugar: 4 pycampitas''' ++++-
-  * Hay un salón grande (que se usa para fiestas de casamiento, fiestas de 15, etc), quizás grande de más (habría que asegurarse la disponibilidad); las alternativas son un hall de distribución grande (pero muy abierto, no suficientemente grande).
-  * Predio grande
+  * Hay un salón grande (ver foto en http://ubuntuone.com/3E62rW2zitWAaVmzvIfVju que se usa para fiestas de casamiento, fiestas de 15, etc), quizás un poco grande de más (habría que asegurarse la disponibilidad, en principio lo tenemos si lo queremos); las alternativas son el comedor (ver foto en http://ubuntuone.com/5RTH6X5FKnWP6oWFFx2moC) o un hall de distribución grande en el primer piso (pero muy abierto, quizás no lo suficientemente grande). Todos los salones con luz natural
+  * Predio grande, mucho verde
   * Internet de 3MB (actualmente tramitando Arnet turbo para llevarlo a 7MB durante las horas de la mañana); aparentemente de necesitar algo más que esto, habría que hacerlo con anticipación porque lleva tiempo desde el pedido a la concreción.
-  * Es una casona vieja (habría pertenecido al hermano de Eva Duarte)
-  * Nos exigirían consumir/comprar la comida/bebida dentro del mismo hostal (que nos asegura tiene precios razonables, cerveza grande a $20 por ej)
+  * Es una casona vieja (habría pertenecido al hermano de Eva Duarte, Juan, que parece se la pasaba de fiesta en fiesta con otros políticos)
+  * Nos exigirían consumir/comprar la comida/bebida extra dentro del mismo hostal (que nos asegura tiene precios razonables, cerveza grande a $20 por ej)
+  * Cancha de fubtol
+  * Pileta de natación descubierta
 
 '''Qué onda las habitaciones: 3 pycampitas''' +++--
   * Habitaciones dobles y triples; televisor mediano con DirecTV
+  * Todas las camas son sommiers, incluso las individuales
   * Baños viejitos
-  * Calefacción central, música funcional
+  * Calefacción central, música funcional opcional
 
 '''Qué onda la comida: 4 pycampitas''' ++++-
   * Menú fijo de antemano (a definir)
