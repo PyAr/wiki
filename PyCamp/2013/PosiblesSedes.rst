@@ -87,10 +87,11 @@ A 4 cuadras de la terminal de Villa Giardino, no hay forma de perderse, camino l
   * Serían todas camas individuales, en base doble y triple
   * Todas con baño privado, radiador y caja de seguridad
 
-'''Qué onda la comida: 3 pycampitas''' +++--
-  * Nos fijarían el menu de antemano al firmar el contrato
+'''Qué onda la comida: 4 pycampitas''' ++++-
+  * Nos fijarían el menu de antemano al firmar el contrato, con opciones "a gusto"
   * Hay entrada, plato principal y postre. El precio listado incluye una bebida de 500cc línea Pepsi por comida
-  * Hay opciones vegetarianas, para celíacos, sin sal, etc. Hay que avisar de antemano.
+  * Hay opciones vegetarianas, para celíacos, sin sal, etc. Hay que avisar de antemano
+  * Cafetería y bebidas con alcohol se pagan aparte
 
 '''Tres puntos a favor:'''
   * Fácil acceso en transporte público o vehículo
@@ -110,6 +111,7 @@ A 4 cuadras de la terminal de Villa Giardino, no hay forma de perderse, camino l
 '''Precio:''' $745.5 + IVA
   * $213 + IVA por persona por día, incluye bebida, se cuentan 3.5 días
   * El que no quiera factura, no paga IVA. Se hacen facturas A individuales (hay que pagar el IVA)
+  * En principio no hay base mínima de gente, ni máximo
   * El asado del sábado a la noche tiene un costo extra de $48 + IVA por persona
 
 == Hostal Colonial Serrano ==
@@ -136,16 +138,17 @@ Está bien sobre la RN 38.
   * Predio grande
   * Internet de 3MB (actualmente tramitando Arnet turbo para llevarlo a 7MB durante las horas de la mañana); aparentemente de necesitar algo más que esto, habría que hacerlo con anticipación porque lleva tiempo desde el pedido a la concreción.
   * Es una casona vieja (habría pertenecido al hermano de Eva Duarte)
-  * Nos exigirían consumir/comprar la comida/bebida dentro del mismo hostal (que nos asegura tiene precios razonables)
+  * Nos exigirían consumir/comprar la comida/bebida dentro del mismo hostal (que nos asegura tiene precios razonables, cerveza grande a $20 por ej)
 
 '''Qué onda las habitaciones: 3 pycampitas''' +++--
   * Habitaciones dobles y triples; televisor mediano con DirecTV
   * Baños viejitos
   * Calefacción central, música funcional
 
-'''Qué onda la comida: 3 pycampitas''' +++--
+'''Qué onda la comida: 4 pycampitas''' ++++-
   * Menú fijo de antemano (a definir)
   * Hay entrada, plato principal y postre. El precio listado incluye una bebida de 500cc línea Coca Cola por comida
+  * Hay opciones vegetarianas, para celíacos, sin sal, etc. Hay que avisar de antemano.
   * Cafetería y bebidas con alcohol se pagan aparte
 
 '''Tres puntos a favor:'''
@@ -163,9 +166,11 @@ Está bien sobre la RN 38.
   * 4 comidas cada día (excepto lo dicho arriba)
   * Habría que firmar un contrato en donde se especifica todo y se seña con el 30% del total
 
-'''Precio:''' De 30 a 40, $760 + IVA por persona; más de 40, $680 + IVA
-  * Incluye bebida, se cuentan 3.5 días
+'''Precio:''' De 30 a 40 personas, $760 + IVA por persona; de 41 a 50 personas, $680 + IVA
+  * Incluye bebida para todas las comidas
   * El que no quiera factura, no paga IVA. Se hacen facturas A individuales (hay que pagar el IVA)
+  * La base mínima de gente es 30... si fuéramos menos cambiaría el precio
+  * El asado del sábado a la noche tendría un costo extra a definir, pero nos aseguraron que sería una variación mínima
 
 == Otra sede ==
 
