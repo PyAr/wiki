@@ -118,7 +118,7 @@ A 4 cuadras de la terminal de Villa Giardino, no hay forma de perderse, camino l
 
 '''Donde está:''' Ruta Nacional 38, km 753, Bialet Massé, Córdoba
 
-<<GoogleMaps(t="h",ll="-31.330367,-64.46687",spn="0.001915,0.004128",z="18")>>
+<<GoogleMaps(t="h",ll="-31.330344,-64.467092",spn="0.001927,0.001802",z="18")>>
 
 '''Fotos:''' http://ubuntuone.com/album/6j16xRpveO4TMq877TqvJ7 http://hostalcolonialserrano.wordpress.com https://www.facebook.com/hostal.colonialserrano http://www.facebook.com/pages/Hostal-Colonial-Serrano/297545386932938?sk=photos_albums
 
