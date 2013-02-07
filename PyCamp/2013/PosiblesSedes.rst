@@ -131,7 +131,7 @@ A 4 cuadras de la terminal de Villa Giardino, no hay forma de perderse, camino l
 Está bien sobre la RN 38.
 
   * En auto: Desde Córdoba, por la RN 38, fácil acceso, hay cochera techada para 24 vehículos
-  * En bondi: Desde Córdoba, cualquier bondi que llegue a la terminal de Bialet Massé ($11 el remis al lugar desde allí). Desde Buenos Aires, colectivos a Capilla del Monte y bajar en la terminal de Bialet Massé.
+  * En bondi: Desde Córdoba, cualquier bondi que pase por Bialet Massé, la parada está sobre la ruta al frente del hostal, líneas que van: Ciudad de Córdoba, Lumasa, Sarmiento (las tres con bauleras para bolsos). Desde Buenos Aires, cualquier colectivo a Capilla del Monte o La Falsa, y bajar en la terminal de Bialet Massé ($11 el remis al lugar desde allí). Dicen que si el chofer del colectivo es buena onda, los baja al frente del hostal (es más probable si los bolsos no están en la bodega)
 
 '''Qué onda el lugar: 4 pycampitas''' ++++-
   * Hay un salón grande (que se usa para fiestas de casamiento, fiestas de 15, etc), quizás grande de más (habría que asegurarse la disponibilidad); las alternativas son un hall de distribución grande (pero muy abierto, no suficientemente grande).
