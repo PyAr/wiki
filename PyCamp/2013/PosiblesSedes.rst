@@ -61,7 +61,7 @@ Más allá de la info general, algunos ítems tienen al costado un puntaje ''sob
 
 '''Donde está:''' Ruta Nacional 38, Villa Giadirno, Córdoba
 
-<<GoogleMaps(t="h",ll="-31.052479,-64.504852",spn="0.003842,0.008256",z="18")>>
+<<GoogleMaps(t="h",ll="-31.052226,-64.503141",spn="0.003865,0.003605",z="18")>>
 
 '''Fotos:''' http://ubuntuone.com/album/4lLGa4vkx6vaHvSzfhDhQb http://www.cordobaserrana.com.ar/luzyfuerzahotel.htm
 
