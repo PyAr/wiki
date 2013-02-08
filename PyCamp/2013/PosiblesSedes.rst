@@ -224,7 +224,51 @@ Está bien sobre la RN 38.
   * El precio puede varias dependiendo de las bebidas que se elijan.
 
 
+== Villa Maristas Mar del Plata ==
 
+'''Nombre del lugar:'''  VILLA MARISTA MAR DEL PLATA
+
+'''Donde está:''' Marcos Sastre 2787 (esquina Lucio V. Mansilla), [[http://es.wikipedia.org/wiki/Mar_del_Plata|Mar del Plata]]. 
+
+<<GoogleMaps(t="h",ll="-37.948673,-57.548329",spn="0.002961,0.00457",z="18")>>
+
+
+'''Fotos:''' hay algunos [[http://villamaristamdp.blogspot.com.ar/2009_07_01_archive.html|Videos]].
+
+'''Contacto:''' Yamila
+
+'''Formas de llegar: 4 pycampitas''' ++++-
+  * En auto: Es un lugar muy turístico, por lo cual es facil llegar. 
+  * En bondi: Hay empresas que viajan desde muchos lugares a Mar del Plata. Y desde la terminal, un remis o ver que colectivo puede dejarnos cerca del lugar. 
+
+'''Qué onda el lugar: 5 pycampitas''' +++++
+  * Es un lugar muy pero muy grande y hermoso. 
+  * Las instalaciones son amplias y tienen seguridad. 
+  * incluye sabanas, toallas,emergencias medicas, vigilancia nocturna, salones, parrillas, etc.
+  * Faltan detalles de Internet
+
+'''Qué onda las habitaciones: 4 pycampitas''' ++++-
+  * Por los comentarios de gente que fue al lugar, me dijo que son habitaciones bastantes cómodas. 
+  * Al igual que la Villa Maristas de Lujan, no ofrecen una casa entera para nosotros. 
+
+'''Qué onda la comida: 3 pycampitas''' +++--
+  * El menú hay que especificarlo con anticipación. Muy similar al anterior.
+  * No sirven ni permiten bebidas alcohólicas.
+
+'''Tres puntos a favor:'''
+  * Esta en Mar del Plata,nos sirve para cambiar un poco el aire y hacer el primer PyCamp cerca del Mar.
+  * seguramente desde cualquier lugar del país hay servicios que te llevan a Mar del Plata. 
+  * Es un Lugar Familiar y turístico como para llevar a la familia y que puedan pasear.
+
+'''Tres puntos en contra:'''
+  * No sirven ni permiten bebidas alcohólicas. 
+  * No esta disponible las fechas que preguntamos. 
+  * Es un poco mas caro que el anterior. 
+
+'''Disponibilidad:''' 30 de mayo al 02 de junio o 18 al 21 de julio. 
+
+'''Precio:''' $900xpersona Aproximadamente.($15000 xCasa. Desayuno $ 20. Almuerzo $ 50. Merienda $ 20. Cena $ 50) 
+  * A 30 personas nos da un total de $500 por personal mas cerca de $500 por las comidas. Pero suponemos que van a ir mas de 30. 
 
 
 
