@@ -157,7 +157,7 @@ Está bien sobre la RN 38.
 '''Tres puntos a favor:'''
   * Onda "familiar" (atención personalizada, buena predisposición, se adaptaría a nuestras necesidades)
   * Las reviews dicen que la calidad de la comida y las habitaciones es buena
-  * El asado "casi" no modificaría el precio (valor a confirmar)
+  * El asado es barato!
 
 '''Tres puntos en contra:'''
   * De no contar con el salón grande, no parece haber un lugar suficientemente grande y cerrable
@@ -173,7 +173,7 @@ Está bien sobre la RN 38.
   * Incluye bebida para todas las comidas
   * El que no quiera factura, no paga IVA. Se hacen facturas A individuales (hay que pagar el IVA)
   * La base mínima de gente es 30... si fuéramos menos cambiaría el precio
-  * El asado del sábado a la noche tendría un costo extra a definir, pero nos aseguraron que sería una variación mínima
+  * El asado del sábado a la noche tiene un costo extra de $18 + IVA por persona, e incluye: "vacío, costilla, chorizo, morcilla y matambre. Ensalada mixta como guarnición. La entrada pueden ser dos empanadas criollas si les parece bien"
 
 == Otra sede ==
 
