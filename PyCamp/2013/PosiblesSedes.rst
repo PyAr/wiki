@@ -175,6 +175,61 @@ Está bien sobre la RN 38.
   * La base mínima de gente es 30... si fuéramos menos cambiaría el precio
   * El asado del sábado a la noche tiene un costo extra de $18 + IVA por persona, e incluye: "vacío, costilla, chorizo, morcilla y matambre. Ensalada mixta como guarnición. La entrada pueden ser dos empanadas criollas si les parece bien"
 
+== Villa Maristas Lujan ==
+
+'''Nombre del lugar:'''  VILLA SAN JOSE - LUJÁN 
+
+'''Donde está:''' Champagnat 55, [[http://es.wikipedia.org/wiki/Luj%C3%A1n|Lujan]]. 
+
+<<GoogleMaps(t="h",ll="-34.561018,-59.125628",spn="0.003092,0.00457",z="18")>>
+
+
+'''Fotos:''' No tengo todavía.
+
+'''Contacto:''' Yamila
+
+'''Formas de llegar: 5 pycampitas''' +++++
+  * En auto: Para llegar es muy fácil ya que esta a unas cuadras de la entrada principal de Lujan. Desde Capital sera 1 hora de viaje como mucho por acceso Oeste.
+  * En bondi: Desde Capital llega directo el 57 que se toma en Once o en Palermo. Tambien vienen colectivos desde Pilar, Escobar, Mercedes, Capilla del Señor, etc. La terminal queda a pocas cuadras  del predio y hay varias empresas que vienen desde muchos puntos del país directamente a Lujan. 
+
+'''Qué onda el lugar: 5 pycampitas''' +++++
+  * Es un predio de casi 10 Hectáreas, cerrado, con mucho parque y tranquilo. Se Encuentra pegado al colegio Maristas y al Rio Lujan.
+  * Las instalaciones son amplias y tienen seguridad. 
+  * Nos ofrecen una casa entera para nosotros.[[https://docs.google.com/file/d/1_267d3qCJRT9gZKMb0YHjgNQ7eaX8Ql5vH9d8tzYfatJi6p5k8U7Xb12dVkg/edit?usp=sharing|Plano de la Casa]]
+  * Faltan detalles de Internet
+
+'''Qué onda las habitaciones: 3 pycampitas''' +++--
+  * La casa cuenta con 55 camas, distribuidas en 3 hab de cuchetas para 12 p cada una, otra para 16, y una pequeña con 3 camas. Cada sector tiene baños y duchas para compartir en 3 bloques.
+  * Son camas son de madera por lo que recuerdo y son habitaciones sencillas.
+
+'''Qué onda la comida: 4 pycampitas''' ++++-
+  * El menú hay que especificarlo con anticipación.
+  * La bebida está incluida en el servicio y También el Asado. 
+  * No sirven ni permiten bebidas alcohólicas.
+  * Si mal no recuerdo la casa ademas una cocina para poder calentar agua en cualquier momento. 
+
+'''Tres puntos a favor:'''
+  * Es MUY fácil llegar desde cualquier parte y esta a cuadras del centro de lujan por si se necesita algo. Ademas,  Estoy cerca del lugar como para poder ir a ver mas detalles si quieren.
+  * Podemos hacer uso de la casa con comodidad y la gente es muy amable. 
+  * Económico.
+
+'''Tres puntos en contra:'''
+  * No sirven ni permiten bebidas alcohólicas.(Se puede llegar a salir a tomar algo al centro que esta cerca)
+  * Quizás para alguno un poco anti-religioso no le resulte cómodo. Tiene una pequeña capilla y varias imágenes religiosas.
+  * Es en Lujan, a 20 cuadras de mi casa... así que no viajo a conocer otros lugares (Punto en contra Personal).
+
+'''Disponibilidad:''' Jueves 20, Viernes 21, Sábado 22 y Domingo 23 de Junio de 2013. 
+
+'''Precio:''' $600 por persona Aproximadamente -+100 como mucho.
+  * El precio puede varias dependiendo de las bebidas que se elijan.
+
+
+
+
+
+
+
+
 == Otra sede ==
 
 '''Por favor copiar este template antes de usarlo, para que quede siempre al final.'''
