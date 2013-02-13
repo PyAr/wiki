@@ -35,3 +35,8 @@
  y el proyecto desarrollado para ese taller fue el puntapié inicial de [[Proyectos/Caucho]].
 
  * [[http://www.softlibre.org.ar/|Segundo Congreso Nacional de Software Libre - USUARIA 2005]].
+
+== Documentación Relevante ==
+
+ * [[https://selpyconar2013.readthedocs.org|Selección de Sedes PyCon Argentina 2013]]
+ * [[https://pyconar20012-postmortem.readthedocs.org|PostMortem PyCon Argentina 2012]]
