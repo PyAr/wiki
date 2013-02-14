@@ -196,7 +196,7 @@ Está bien sobre la RN 38.
   * Es un predio de casi 10 Hectáreas, cerrado, con mucho parque y tranquilo. Se Encuentra pegado al colegio Maristas y al Rio Lujan.
   * Las instalaciones son amplias y tienen seguridad. 
   * Nos ofrecen una casa entera para nosotros.[[https://docs.google.com/file/d/1_267d3qCJRT9gZKMb0YHjgNQ7eaX8Ql5vH9d8tzYfatJi6p5k8U7Xb12dVkg/edit?usp=sharing|Plano de la Casa]]
-  * Faltan detalles de Internet
+  * Tiene internet, no se sabe cuanto, y no se sabe si lo pueden ampliar
 
 '''Qué onda las habitaciones: 3 pycampitas''' +++--
   * La casa cuenta con 55 camas, distribuidas en 3 hab de cuchetas para 12 p cada una, otra para 16, y una pequeña con 3 camas. Cada sector tiene baños y duchas para compartir en 3 bloques.
@@ -245,7 +245,7 @@ Está bien sobre la RN 38.
   * Es un lugar muy pero muy grande y hermoso. 
   * Las instalaciones son amplias y tienen seguridad. 
   * incluye sabanas, toallas,emergencias medicas, vigilancia nocturna, salones, parrillas, etc.
-  * Faltan detalles de Internet
+  * No se sabe si tiene internet (ni cuanto o si lo pueden ampliar)
 
 '''Qué onda las habitaciones: 4 pycampitas''' ++++-
   * Por los comentarios de gente que fue al lugar, me dijo que son habitaciones bastantes cómodas. 
@@ -269,55 +269,3 @@ Está bien sobre la RN 38.
 
 '''Precio:''' $900xpersona Aproximadamente.($15000 xCasa. Desayuno $ 20. Almuerzo $ 50. Merienda $ 20. Cena $ 50) 
   * A 30 personas nos da un total de $500 por personal mas cerca de $500 por las comidas. Pero suponemos que van a ir mas de 30. 
-
-
-
-
-
-== Otra sede ==
-
-'''Por favor copiar este template antes de usarlo, para que quede siempre al final.'''
-
-'''Nombre del lugar:''' Blah
-
-'''Donde está:''' Dirección!. Para el mapita de abajo, sacar los parámetros del mapa de google cuando piden el "link" al mismo, y sacarle la guarda para que se ejecute el plugin
-
-{{{
-<<GoogleMaps(t="h",ll="-35.38949,-57.320627",spn="0.003459,0.007993",z="18")>>
-}}}
-
-'''Fotos:''' Links, links.
-
-'''Contacto:''' El que lo carga
-
-'''Formas de llegar: N pycampitas'''
-  * En auto: blah.
-  * En bondi: blah.
-
-'''Qué onda el lugar: N pycampitas'''
-  * algo
-  * etc
-
-'''Qué onda las habitaciones: N pycampitas'''
-  * algo
-  * etc
-
-'''Qué onda la comida: N pycampitas'''
-  * algo
-  * etc
-
-'''Tres puntos a favor:'''
-  * 1
-  * 2
-  * 3
-
-'''Tres puntos en contra:'''
-  * 1
-  * 2
-  * 3
-
-'''Disponibilidad:''' Fecha pre-hablada. 
-  * condiciones
-
-'''Precio:''' $XXX por persona
-  * condiciones
