@@ -249,7 +249,7 @@ Está bien sobre la RN 38.
 
 '''Qué onda las habitaciones: 4 pycampitas''' ++++-
   * Por los comentarios de gente que fue al lugar, me dijo que son habitaciones bastantes cómodas. 
-  * Al igual que la Villa Maristas de Lujan, no ofrecen una casa entera para nosotros. 
+  * Al igual que la Villa Maristas de Lujan, nos ofrecen una casa entera para nosotros. 
 
 '''Qué onda la comida: 3 pycampitas''' +++--
   * El menú hay que especificarlo con anticipación. Muy similar al anterior.
