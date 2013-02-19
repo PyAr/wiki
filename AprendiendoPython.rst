@@ -53,6 +53,10 @@ Ahora, ¿a dónde podrías recurrir para obtener información que te inicie en l
 
 
 == Documentación adicional sobre python en español ==
+
+ * El Tutorial de Django
+  . [[http://tutorialdjango.com.ar]].
+
  * Introducción a Python y PostgreSQL Un ejemplo sencillo
   . [[http://users.servicios.retecal.es/tjavier/docfinal/out-htmls/index.html|Introduccion a python/postgresql]] Tomás Javier Robles Prado 2002
 
