@@ -8,8 +8,8 @@
  * ¿...?
 
 === Asistentes ===
-||'''Persona''' ||'''Nuevo''' ||
-|| Fixme ||  X ||
+||'''Persona''' ||'''Primera vez''' ||
+|| Facundo Batista ||   ||
 
 === Fecha y Hora ===
  * Miércoles 6 de Marzo de 2013, 19 hs
