@@ -5,6 +5,7 @@
  * PyCon 2013
  * PyCamp 2013
  * Manejo de dinero en PyAr
+ * Mentores de charlas
  * ¿...?
 
 === Asistentes ===
