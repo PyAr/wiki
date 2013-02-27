@@ -14,6 +14,7 @@
 || Marcelo Fernández ||   ||
 || José Massón || SI  ||
 || Alberto Paparelli ||   ||
+|| Juan Pablo Giménez || Sí  ||
 
 === Fecha y Hora ===
  * Miércoles 6 de Marzo de 2013, 19 hs
