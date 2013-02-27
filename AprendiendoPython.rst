@@ -24,6 +24,8 @@ Ahora, ¿a dónde podrías recurrir para obtener información que te inicie en l
 
  * Y por último, el único, original e inimitable, clásico de clásicos que casi todos en la lista usamos para empezar: el [[http://www.python.org/doc/tut/|Tutorial de Python]]. '''Hay gente de la lista que hizo una traducción al castellano''', esta disponible en http://tutorialpython.com.ar/
 
+ * [[http://www.biblioteca-digital.net.ve/wordpress/wp-content/uploads/2009/09/swfk-es-linux-0.0.2.pdf|Doma de Serpientes para Niños: Aprendiendo a Programar con Python]] "Snake Wrangling for Kids" es un libro electrónico para niños de 8 o más años que quieran aprender a programar. Cubre lo básico de la programación utilizando el lenguaje de programación Python 3 como base para aprender los conceptos. Los fuentes están disponibles en http://code.google.com/p/swfk-es/
+
  * [[http://pyspanishdoc.sourceforge.net/|Este]] es un proyecto público y libre para mantener '''toda''' la documentación de Python traducida a nuestro idioma.
 
 == Otras guias iniciales sobre python en español ==
