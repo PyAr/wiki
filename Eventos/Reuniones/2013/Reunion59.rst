@@ -6,6 +6,7 @@
  * PyCamp 2013
  * Manejo de dinero en PyAr
  * Mentores de charlas
+ * Raspberry Pi
  * ¿...?
 
 === Asistentes ===
@@ -16,6 +17,7 @@
 || Alberto Paparelli ||   ||
 || Juan Pablo Giménez || Sí  ||
 || Matías Lang || Sí ||
+|| alecu || No ||
 
 === Fecha y Hora ===
  * Miércoles 6 de Marzo de 2013, 19 hs
