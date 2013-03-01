@@ -1,3 +1,4 @@
+## page was renamed from PyCamp/2013/PosiblesSedes/PyCamp/2013/PosiblesSedes/Votos
 == Votación PyCamp 2013 ==
 
 El resultado de la votación fue:
