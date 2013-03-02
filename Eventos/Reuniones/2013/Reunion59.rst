@@ -18,6 +18,7 @@
 || Juan Pablo Giménez || Sí  ||
 || Matías Lang || Sí ||
 || alecu || No ||
+|| MarianoReingart || No ||
 
 === Fecha y Hora ===
  * Miércoles 6 de Marzo de 2013, 19 hs
