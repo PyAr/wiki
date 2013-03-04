@@ -7,6 +7,7 @@
  * Manejo de dinero en PyAr
  * Mentores de charlas
  * Raspberry Pi
+ * Sitio de PyAr
  * ¿...?
 
 === Asistentes ===
@@ -20,6 +21,7 @@
 || alecu || No ||
 || MarianoReingart || No ||
 || SAn || ||
+|| Ezequiel Chan || No ||
 
 === Fecha y Hora ===
  * Miércoles 6 de Marzo de 2013, 19 hs
