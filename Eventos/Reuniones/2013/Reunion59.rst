@@ -13,7 +13,7 @@
 === Asistentes ===
 ||'''Persona''' ||'''Primera vez''' ||
 || Facundo Batista ||   ||
-|| Marcelo Fernández ||   ||
+|| Marcelo Fernández || No  ||
 || José Massón || SI  ||
 || Alberto Paparelli ||   ||
 || Juan Pablo Giménez || Sí  ||
