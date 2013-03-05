@@ -9,7 +9,9 @@
  * Mentores de charlas
  * Raspberry Pi
  * Sitio de PyAr
+ * Capacitación introductoria a python
  * ¿...?
+ 
 
 === Asistentes ===
 ||'''Persona''' ||'''Primera vez''' ||
@@ -23,6 +25,7 @@
 || MarianoReingart || No ||
 || SAn || ||
 || Ezequiel Chan || No ||
+|| [[JoaquinSorianello | Joac]] || Nones ||
 
 === Fecha y Hora ===
  * Miércoles 6 de Marzo de 2013, 19 hs
