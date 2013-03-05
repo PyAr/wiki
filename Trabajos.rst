@@ -2,6 +2,8 @@
 
 == 2013 ==
 
+ * (05/02/2013) Empresa de Entreteminientos busca freelancers Python SR o SSR sobre framework DJANGO con solidos conocimientos de jQuery html,css,js, etc. Valoramos experiencia con bases de Datos (psql,sql,etc) y desarrollos WEB para aplicaciones de alto trafico. Enviar CV/link a linkedin a : <<MailTo(wildecity EN gmail PUNTO com)>>
+
  * (18/02/2013) Proveer mantenimiento y continuar desarrollo de sistema de tipo saas de soporte para la industria de la construcción con alcance en Argentina y Latinoamérica. Python / Django 1.4 / Mysql, Django templates, jQuery, jQueryUI, jqGrid, Git, South, django-nose, django-reversion. Enviar CV y propuestas a: <<MailTo(info EN ddobras PUNTO com PUNTO ar)>>
 
  * (11/02/2013) [[http://www.onapsis.com|Onapsis]], Buscamos programadores '''Python SR o SSR''' para arrancar un proyecto de seguridad informática que va a revolucionar la industria de las aplicaciones criticas de negocio. Valoramos el conocimiento de las siguientes tecnologías: Pylons/Pyramid, ExtJS (Sencha), HTML, CSS, JavaScript, SQLAlchemy, TDD, etc. Interesados pueden enviar un correo a <<MailTo(careers EN onapsis PUNTO com)>> Ref: PDSR01 
