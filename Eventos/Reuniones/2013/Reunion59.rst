@@ -1,3 +1,4 @@
+## page was renamed from Eventos/Reuniones/2012/Reunion59
 = Reunión 59  - Miércoles 6 de Marzo de 2013 - Buenos Aires, Post Street Bar - 19hs =
 
 === Temario ===
