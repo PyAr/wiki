@@ -28,6 +28,7 @@
 || [[JoaquinSorianello | Joac]] || Nones ||
 || diegoM || ||
 || Lipe || No ||
+|| Pablo Manera || Si ||
 
 === Fecha y Hora ===
  * Miércoles 6 de Marzo de 2013, 19 hs
