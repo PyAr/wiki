@@ -23,6 +23,8 @@ Es obvio, pero la reunión no podrá realizarse si no hay un mínimo de personas
 === Fijar fecha y lugar tentativos ===
 Como parte de la discusión, probablemente surjan una o dos fechas tentativas, y consenso sobre el o los lugares en que podría hacerse la reunión. Dependiendo de con cuanta anticipación se esté planificando, en esta etapa, esta fecha y lugar podría llegar a cambiarse.
 
+Una herramienta piola para elegir colaborativamente el día es [[http://www.doodle.com/|Doodle]]: Se pueden proponer varios días distintos, incluso en diferentes semanas, y la gente dice cuando puede: el día con más "votos", gana.
+
 === Seguir el ReleaseProcedure ===
 A partir de este punto, es importante seguir esta lista de pasos, para no olvidarse de nada. Sugerimos copiar los títulos del release procedure en el temario de la reunión, e irlos tachando o marcando a medida que se van cumpliendo.
 
