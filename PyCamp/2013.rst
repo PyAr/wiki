@@ -61,36 +61,37 @@ A 4 cuadras de la terminal de Villa Giardino, no hay forma de perderse, camino l
   * 4 comidas cada día (excepto lo dicho arriba)
   * Habría que firmar un contrato en donde se especifica todo y se seña con el 30% del total
 
-'''Precio:''' $745.5 + IVA
-  * $213 + IVA por persona por día, incluye bebida, se cuentan 3.5 días
-  * El que no quiera factura, no paga IVA. Se hacen facturas A individuales (hay que pagar el IVA)
-  * En principio no hay base mínima de gente, ni máximo
+'''Precio:''' 
+  * $750 + IVA por persona por día, incluye comida, bebida y hospedaje (se cuentan 3.5 días)
   * El asado del sábado a la noche tiene un costo extra de $48 + IVA por persona
+  * Luego del 1 de Mayo, estos costos aumentan un 10%.
 
 == Cómo reservar ==
 
-Si NO necesitan factura, le tienen que hacer una transferencia a Facundo por $800 a:
+Si NO necesitan factura, le tienen que hacer una transferencia a Facundo por $800 o $752 (dependiendo de las preferencias alimenticias, ver abajo) a:
 
  * Banco Credicoop
  * Facundo Batista
  * Caja de ahorros 149-13593/5
  * CBU 19101493-55114901359353
 
-Estamos averiguando qué precio se puede hacer si no pueden ir los cuatro días (pero recuerden que ese jueves y viernes son feriado!). También estamos averiguando si se puede no pagar el asado para los que no lo quieran.
+(si es una empresa que quiera hacer un paquete, mandar mail a Facundo y preguntar)
 
-Obviamente, luego del depósito / transferencia le mandan un mail *por privado* indicando:
+Obviamente, luego del depósito / transferencia le mandan un mail *por privado* a <<facundobatista AT gmail PUNTO com>> indicando:
 
-- Nombre y apellido
-- DNI
-- Todos los datos posibles de la transferencia o depósito
-- Preferencias alimenticias (o cosas que no pueden comer, etc)
+ * Nombre y apellido
+ * DNI
+ * Todos los datos posibles de la transferencia o depósito
+ * Preferencias alimenticias: "normal", "hiposódico/a", "celíaco/a", "vegetariano/a", y "ovo-lacto-vegetariano/a". Los primeros tres grupos pagan y comen asado, los últimos dos no.
 
 Ah, si hacen una transferencia, les pido por favor enviar algunos centavos más (por ejemplo, $800.13) de forma aleatoria, lo que permite relacionar la entrada de dinero en la cuenta con la persona de forma mucho más fácil (en un depósito es más complicado de hacer).
 
-'''¿Por qué $800? Ahí arriba dice $X''' Siempre hay algunos gastos extras en la organización (materiales, etc), está bueno tener un colchoncito. Y lo que sobre lo podemos usar para otros gastos allá. O quedará para PyAr.
+'''¿Por qué $800? Pensé que era una moneda menos''' Siempre hay algunos gastos extras en la organización (materiales, etc), está bueno tener un colchoncito. Y lo que sobre lo podemos usar para otros gastos allá. O quedará para PyAr.
 
 '''¿Por qué ahora?''' Necesitamos confirmar la reserva, y eso es el 30% de la base que indicamos... lo que es más de 9 mil pesos. Cuanto antes juntemos este dinero, más pronto confirmamos la reserva, y la fecha ya es nuestra-nuestra-nuestra.
 
 '''¿Por qué a una cuenta personal de Facundo?'''Porque todavía no tenemos una "cuenta de PyAr", y esto funcionó correctamente en años anteriores, así que seguimos con la misma.
 
-'''¿Y si quiero o necesito una factura?''' El precio es $800 + IVA, estamos viendo si se lo pueden transferir directamente a la gente del hotel, o igual lo tiene que juntar Facundo.
+'''¿Y si quiero o necesito una factura?''' El precio es $800 + IVA, si es una persona sola transferir a Facundo, si es una empresa que quiere pagar un "paquete", contactar a Facundo por mail.
+
+'''¿Y si no quiero ir todos los días?''' Se puede, pero se pierde lo que es el "precio paquete PyCamp". En otras palabras, cualquiera puede ir cualquier día o días libremente, pero está sujeto a disponibilidad de las plazas, y paga precio mostrador.
