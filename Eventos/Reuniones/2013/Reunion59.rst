@@ -84,7 +84,7 @@ para contarlo en la lista!)
 ==== Sitio de pyar ====
 
 Se va a trabajar en ofrecer una mejor portada, hacer algo de laburo Frontend que luego
-conduzca al wiki (joac tiene en claro cómo hacerlo). Ya hay un diseño armado, pero queda
+conduzca al wiki (joac tiene en claro cómo hacerlo). Ya hay un diseño armado [[http://python.org.ar/pyar/NuevoSitio|acá]], pero queda
 pasarlo a html y css. Lipe se propuso para hacer el maquetado y combinar con joac para
 realizarlo.
 
