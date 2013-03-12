@@ -28,7 +28,6 @@
  * [[MarianoGuerra|Mariano Guerra]] emesene, python en general, flask, REST, web
 
 === Ocupados ===
-
  * JuanFisanotti (django, python en general, un poco de vim) (Hernan Lozano)
  * MartinAlderete ( PyQt, GUI programming)(Ochoa Gerardo Fidel)
  * [[DavidLitvak|David Litvak]]: Para Crawley-Project, python orientado a objetos, django, web y un poco de vim (Jonathan Scherz)
@@ -55,6 +54,7 @@
  * [[MarcosVanetta|malev]] (lalita y django)
  * --(EzequielMarquez (Twisted, Django, Python3) )--
  * Carlos Do Carmo (Django)
+ * [[mailto:rafael.ferrero@gmail.com|Rafael E. Ferrero]] (web,Django, Python en general, linux, diseño de software, sistemas administrativos-contables, administración de servidores).
 
 === Asignados ===
  * Daniel Malisani -> Manuel Naranjo (opencv)
@@ -70,10 +70,9 @@
  * Factura Electrónica, Gestión Libre (comercial/administrativo/contable), desarrollo web c/ web2py
 
 == Adopciones Finalizadas ==
-
- * Mariano Guerra 
-   * [[AnaMassone|Anna Massone]] perdida de contacto
-   * [[DiegoAhumada|Diego Ahumada]] perdida de contacto
+ * Mariano Guerra
+  * [[AnaMassone|Anna Massone]] perdida de contacto
+  * [[DiegoAhumada|Diego Ahumada]] perdida de contacto
 
  * Diego Sarmentero
-   * Cesar Vargas -> perdida de contacto
+  * Cesar Vargas -> perdida de contacto
