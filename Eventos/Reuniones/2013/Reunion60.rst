@@ -25,7 +25,7 @@ Antares
 
  * Callao esquina Catamarca
 
-(iba a ser en Pichangú, pero los muy hippies no abrieron el bar a tiempo)
+(iba a ser en Pichangú pero estaba cerrado a esa hora)
 === Minuta ===
 
 ==== Presentación ====
