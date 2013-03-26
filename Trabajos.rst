@@ -2,6 +2,8 @@
 
 == 2013 ==
 
+ * (26/03/2013) En [[http://www.goviridian.com|Viridian]] buscamos desarrolladores Python para trabajar en nuestras oficinas de Puerto Madero. Es imprescindible el manejo del idioma inglés (intermedio), poseer gran capacidad resolutiva y demostrar compromiso con los plazos. Ofrecemos OSDE 310, capacitaciones, cursos de inglés y un ambiente de trabajo distendido. Enviá tu CV a <<MailTo(pmolina EN goviridian PUNTO com)>>.
+
  * (21/03/2013) Emprendimiento cordobés busca programador Python/DJANGO. Full Time o Part Time. Enviar CV a : <<MailTo(diegolis EN gmail PUNTO com)>>
 
  * (05/02/2013) Empresa de Entreteminientos busca freelancers Python SR o SSR sobre framework DJANGO con solidos conocimientos de jQuery html,css,js, etc. Valoramos experiencia con bases de Datos (psql,sql,etc) y desarrollos WEB para aplicaciones de alto trafico. Enviar CV/link a linkedin a : <<MailTo(wildecity EN gmail PUNTO com)>>
