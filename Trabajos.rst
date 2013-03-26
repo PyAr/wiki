@@ -2,7 +2,7 @@
 
 == 2013 ==
 
- * (26/03/2013) En [[http://www.goviridian.com|Viridian]] buscamos desarrolladores Python para trabajar en nuestras oficinas de Puerto Madero. Es imprescindible el manejo del idioma inglés (intermedio), poseer gran capacidad resolutiva y demostrar compromiso con los plazos. Ofrecemos OSDE 310, capacitaciones, cursos de inglés y un ambiente de trabajo distendido. Enviá tu CV a <<MailTo(pmolina EN goviridian PUNTO com)>>.
+ * (26/03/2013) En [[http://www.tradehelm.com|TradeHelm]] buscamos desarrolladores Python para trabajar en nuestras oficinas de Puerto Madero. Es imprescindible el manejo del idioma inglés (intermedio), poseer gran capacidad resolutiva y demostrar compromiso con los plazos. Ofrecemos OSDE 310, capacitaciones, cursos de inglés y un ambiente de trabajo distendido. Enviá tu CV a <<MailTo(pmolina EN goviridian PUNTO com)>>.
 
  * (21/03/2013) Emprendimiento cordobés busca programador Python/DJANGO. Full Time o Part Time. Enviar CV a : <<MailTo(diegolis EN gmail PUNTO com)>>
 
