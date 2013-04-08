@@ -43,6 +43,8 @@ Si bajaste los archivos comprimidos, sólo hace falta descomprimirlos en cualqui
 
 Esta versión funciona en Linux, Mac o Windows sin tener que instalar ningún software adicional (se necesita solamente Python que en Linux y Mac ya viene instalado, y la versión para Windows está incluída y se usa directamente).
 
+Para usar la CDPedia en modo ''servidor'' (instalándola en una sola máquina pero accediendo a la misma de muchas otras), [[Proyectos/CDPedia/ModoServidor|estas son las instrucciones]].
+
 == Información del proyecto ==
 
 El desarrollo de CDPedia se realiza en [[http://launchpad.net/cdpedia|este sitio]], aunque todavía tenemos los bugs en [[http://code.google.com/p/cdpedia/|el viejo lugar]]. Los changelogs están [[http://python.org.ar/pyar/Proyectos/CDPedia/Changelogs|acá]].
