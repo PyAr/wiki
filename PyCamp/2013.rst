@@ -95,3 +95,11 @@ Ah, si hacen una transferencia, les pido por favor enviar algunos centavos más 
 '''¿Y si quiero o necesito una factura?''' El precio es $800 + IVA, si es una persona sola transferir a Facundo, si es una empresa que quiere pagar un "paquete", contactar a Facundo por mail.
 
 '''¿Y si no quiero ir todos los días?''' Se puede, pero se pierde lo que es el "precio paquete PyCamp". En otras palabras, cualquiera puede ir cualquier día o días libremente, pero está sujeto a disponibilidad de las plazas, y paga precio mostrador.
+
+== Temas propuestos para este año ==
+
+Si te interesa proponer algún tema para trabajar en el PyCamp de este año, editá esta página de la wiki y agregalo. Recordá comentar brevemente de qué se trata el proyecto o idea, y qué te parece que se podría hacer durante el PyCamp.
+
+* [[http://github.com/simpleai-team/simpleai|SimpleAI]]: una biblioteca bien ordenada y documentada para hacer inteligencia artificial con python, que implementa cosas del libro "Artificial Intelligence: a Modern Approach" (AIMA). Podríamos implementar algunas cosas que faltan, agregar más ejemplos educativos, o simplemente jugar con ideas locas :) Yo no tendría drama en dar una mini-charla introductoria, o hangout antes (fisa).
+
+* '''Mejorar integración Vim+Python''': vim permite escribir plugins en python, pero el sistema que tiene para hacerlo casi que da pena. Podríamos intentar crear algo mejor, construído por sobre lo que vim da.
