@@ -36,37 +36,37 @@ Los buzos van a ser entregados en el PyCamp 2013.
 
 A continuación un listado de las personas que se anotaron para comprar uno o varios buzos.
 
-||Nombre ||Talle ||Observaciones ||
-||Jose Pezzarini          || || Más de un buzo. Necesita envio a Misiones. ||
-||Diego Cañizares         || || ||
-||Erwin Feser             || || ||
-||Ezequiel Pacheco        || || ||
-||Martin Alderete         || || ||
-||Juan M. Santos          ||M || ||
-||Javier Pepe             ||XL|| ||
-||Pablo Mouzo             || || ||
-||TucumetaL               ||L||Río Cuarto (Córdoba)||
-||Gastón Menvielle        || || ||
-||Federico Apelhanz       || || ||
-||Marcelo Martinovic      ||XL || ||
-||Gonzalo Martinez        ||XL ||Buenos Aires - San Martin ||
-||Alberto Paparelli        || || ||
-||Carlos Enrique Rodriguez || || Dos buzos.||
-||Guillermo Narvaez ||L ||La Rioja ||
-||Otto Wald      ||XL || ||
-||Facundo Batista      ||Depende del tamaño ||más de un buzo si hay "muy chicos" ||
-||Nahuel Defossé || || ||
-||Ezequiel Gonzalez Rial || || ||
-||Marcos Moyano ||L || Rosario ||
-||Claudio Bidau ||M || ||
-||Joaquin Tita  ||M || Córdoba ||
-||HectorSanchez  ||XL || Buenos Aires ||
-||Manuel Muradas  ||M o L (depende) || Buenos Aires ||
-||Diego van Haaster || || ||
-||Felipe Lerena || || ||
-||Jairo Trad || || ||
-||Andrés Riancho ||L || ||
-||Santiago Basulto || || ||
-||[[DavidLitvak|David Litvak]] || M || ||
-||Pato Gómez || || ||
-||Francisco J Capdevila || || ||
+||Nombre ||Talle ||Observaciones || Pagó ||
+||Jose Pezzarini          || || Más de un buzo. Necesita envio a Misiones. ||  ||
+||Diego Cañizares         || || || Si ||
+||Erwin Feser             || || ||  ||
+||Ezequiel Pacheco        || || || Si ||
+||Martin Alderete         || || || Si ||
+||Juan M. Santos          ||M || || Si ||
+||Javier Pepe             ||XL|| || ||
+||Pablo Mouzo             || || || ||
+||TucumetaL               ||L||Río Cuarto (Córdoba)|| ||
+||Gastón Menvielle        || || || ||
+||Federico Apelhanz       || || || ||
+||Marcelo Martinovic      ||XL || || ||
+||Gonzalo Martinez        ||XL ||Buenos Aires - San Martin || Si ||
+||Alberto Paparelli        || || || ||
+||Carlos Enrique Rodriguez || || Dos buzos.|| Si ||
+||Guillermo Narvaez ||L ||La Rioja || Si ||
+||Otto Wald      ||XL || || ||
+||Facundo Batista      ||Depende del tamaño ||más de un buzo si hay "muy chicos" || ||
+||Nahuel Defossé || || || Si ||
+||Ezequiel Gonzalez Rial || || || Si ||
+||Marcos Moyano ||L || Rosario || ||
+||Claudio Bidau ||M || || ||
+||Joaquin Tita  ||M || Córdoba || ||
+||HectorSanchez  ||XL || Buenos Aires || ||
+||Manuel Muradas  ||M o L (depende) || Buenos Aires || ||
+||Diego van Haaster || || || Si ||
+||Felipe Lerena || || || Si ||
+||Jairo Trad || || || Si ||
+||Andrés Riancho ||L || || Si ||
+||Santiago Basulto || || || ||
+||[[DavidLitvak|David Litvak]] || M || || ||
+||Pato Gómez || || || Si ||
+||Francisco J Capdevila || || || Si ||
