@@ -32,17 +32,7 @@ Los diseños se basaron en propuestas que se enviaron para cuando PyAr armó sus
 
 '''Fechas'''
 
-Ha sido modificado el calendario y el plan de acción de los buzos en dos oportunidades. La razón fué dar más tiempo a la recepción de las propuestas iniciales. Este es el calendario '''definitivo'''.
-
-- --('''Semana 22/10''' - Durante esta semana se recibirán las sugerencias/modificaciones para los diseños actuales, así como también nuevas propuestas. Seria muy bueno mejorar las propuestas entre todos y llegar a un mejor diseño final.)--
-
-- --('''Semana 29/10''' - El Martes 30/10, se publicaron todos los diseños disponibles. Se recibirán votos hasta el Lunes 5/11 inclusive. Dado que se hizo el anuncio de los diseños un día más tarde - para dar un día más para las propuestas - se extendió también un día la votación, que iba a terminar el viernes y termina el Lunes 5/11.)--
-
-- --('''Semana 5/11''' - El Martes 6/11 se anunciará el diseño ganador. Y durante esa semana se recibirán los últimos pedidos, hasta el Viernes 9/11.)--
-
-- '''Semana 12/11''' - El Lunes 12/11 vamos a tener el listado final de pedidos. En esa fecha, en base a la cantidad de pedidos se establecerá con el proveedor de los buzos el tiempo de confección de los mismos, y se anunciaran por este mismo medio las formas de envío disponibles.
-
-'''Hay tiempo para hacer nuevos pedidos de buzos hasta el Lunes 12/11/2012 inclusive.'''
+Los buzos van a ser entregados en el PyCamp 2013.
 
 A continuación un listado de las personas que se anotaron para comprar uno o varios buzos.
 
@@ -52,8 +42,6 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Erwin Feser             || || ||
 ||Ezequiel Pacheco        || || ||
 ||Martin Alderete         || || ||
-||Walter Alini            || (X)XL || Córdoba ||
-||Diego Sarmentero        || || ||
 ||Juan M. Santos          ||M || ||
 ||Javier Pepe             ||XL|| ||
 ||Pablo Mouzo             || || ||
@@ -80,3 +68,5 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Andrés Riancho ||L || ||
 ||Santiago Basulto || || ||
 ||[[DavidLitvak|David Litvak]] || M || ||
+||Pato Gómez || || ||
+||Francisco J Capdevila || || ||
