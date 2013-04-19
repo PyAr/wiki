@@ -36,10 +36,11 @@ Los buzos van a ser entregados en el PyCamp 2013.
 
 '''Talles'''
 
-S = 50 ancho y 40 de largo
-M = 55 ancho y 41 de largo
-L = 58 ancho y 42 de largo
-XL = 62 ancho y 45 de largo
+|| Talle || Ancho || Largo ||
+|| S || 50 cm | 40 cm ||
+|| M || 55 cm | 41 cm ||
+|| L || 58 cm | 42 cm ||
+|| XL || 62 cm | 45 cm ||
 
 XXL y XXL aumenta aproximadamente 5 cm de ancho y dos o tres de largo. Ambos talles están disponibles.
 
