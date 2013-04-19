@@ -44,6 +44,7 @@
 === Asignados ===
 == Mentados Propuestos ==
 === Disponibles ===
+ * [[Mauricio José Tobares|Mauricio José Tobares]]
  * Carlos Cabrera
  * Marco Mansilla
  * Matias Novoa
