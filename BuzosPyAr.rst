@@ -34,6 +34,17 @@ Los diseños se basaron en propuestas que se enviaron para cuando PyAr armó sus
 
 Los buzos van a ser entregados en el PyCamp 2013.
 
+'''Talles'''
+
+S = 50 ancho y 40 de largo
+M = 55 ancho y 41 de largo
+L = 58 ancho y 42 de largo
+XL = 62 ancho y 45 de largo
+
+XXL y XXL aumenta aproximadamente 5 cm de ancho y dos o tres de largo. Ambos talles están disponibles.
+
+'''Pedidos'''
+
 A continuación un listado de las personas que se anotaron para comprar uno o varios buzos.
 
 ||Nombre ||Talle ||Observaciones || Pagó ||
