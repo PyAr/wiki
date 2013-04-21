@@ -83,3 +83,4 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Pato Gómez || || || Si ||
 ||Francisco J Capdevila || || || Si ||
 ||Emiliano Dalla Verde Marcozzi || || || Si ||
+||Robbie || || || Si ||
