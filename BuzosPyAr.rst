@@ -85,5 +85,5 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Francisco J Capdevila || || ||Si ||
 ||Emiliano Dalla Verde Marcozzi || || ||Si ||
 ||Robbie || || ||Si ||
-
-
+||Florencia Mincucci || || || ||
+||Claudio Bidau || || || ||
