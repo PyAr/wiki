@@ -1,6 +1,9 @@
 = Trabajos con Python =
 
 == 2013 ==
+
+ * (22/04/2013) INFOXEL busca sys admin con conocimientos de Python, Bash y PHP. Full Time o Part Time. En Córdoba. Enviar CV a : <<MailTo(rrhh EN infoxel PUNTO com)>>
+
  * (22/04/2013) IURLAD busca freelancer PYTHON sobre framework DJANGO para proveer mantenimiento y continuar desarrollo de una plataforma. Valoramos el manejo del idioma inglés (intermedio), poseer gran capacidad resolutiva y demostrar compromiso con los plazos.  Enviá tu CV a <<MailTo(dgonzalez EN iurlad PUNTO com)>>.
 
  * (26/03/2013) En [[http://www.tradehelm.com|TradeHelm]] buscamos desarrolladores Python para trabajar en nuestras oficinas de Puerto Madero. Es imprescindible el manejo del idioma inglés (intermedio), poseer gran capacidad resolutiva y demostrar compromiso con los plazos. Ofrecemos OSDE 310, capacitaciones, cursos de inglés y un ambiente de trabajo distendido. Enviá tu CV a <<MailTo(pmolina EN goviridian PUNTO com)>>.
