@@ -52,38 +52,38 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Nombre ||Talle ||Observaciones ||Pagó ||
 ||Jose Pezzarini || ||Más de un buzo. Necesita envio a Misiones. || ||
 ||Diego Cañizares || || ||Si ||
-||Erwin Feser || || || ||
 ||Ezequiel Pacheco || || ||Si ||
 ||Martin Alderete || || ||Si ||
 ||Juan M. Santos ||M || ||Si ||
+||Gonzalo Martinez ||XL ||Buenos Aires - San Martin ||Si ||
+||Alberto Paparelli || || ||Si||
+||Carlos Enrique Rodriguez || ||Dos buzos. ||Si ||
+||Guillermo Narvaez ||L ||La Rioja ||Si ||
+||Nahuel Defossé || || ||Si ||
+||Ezequiel Gonzalez Rial || || ||Si ||
+||Diego van Haaster || || ||Si ||
+||Felipe Lerena || || ||Si ||
+||Jairo Trad || || ||Si ||
+||Andrés Riancho ||XL || ||Si ||
+||Pato Gómez || || ||Si ||
+||Francisco J Capdevila || XXL || Córdoba ||Si ||
+||Emiliano Dalla Verde Marcozzi || || ||Si ||
+||Robbie || || ||Si ||
+||Erwin Feser || || || ||
 ||Javier Pepe ||XL || || ||
 ||Pablo Mouzo || || || ||
 ||TucumetaL ||L ||Río Cuarto (Córdoba) || ||
 ||Gastón Menvielle || || || ||
 ||Federico Apelhanz || || || ||
 ||Marcelo Martinovic ||XL || || ||
-||Gonzalo Martinez ||XL ||Buenos Aires - San Martin ||Si ||
-||Alberto Paparelli || || ||Si||
-||Carlos Enrique Rodriguez || ||Dos buzos. ||Si ||
-||Guillermo Narvaez ||L ||La Rioja ||Si ||
 ||Otto Wald ||XL || || ||
 ||Facundo Batista ||Depende del tamaño ||más de un buzo si hay "muy chicos" || ||
-||Nahuel Defossé || || ||Si ||
-||Ezequiel Gonzalez Rial || || ||Si ||
 ||Marcos Moyano ||L ||Rosario || ||
 ||Claudio Bidau ||M || || ||
 ||Joaquin Tita ||M ||Córdoba || ||
 ||HectorSanchez ||XL ||Buenos Aires || ||
 ||Manuel Muradas ||M o L (depende) ||Buenos Aires || ||
-||Diego van Haaster || || ||Si ||
-||Felipe Lerena || || ||Si ||
-||Jairo Trad || || ||Si ||
-||Andrés Riancho ||XL || ||Si ||
 ||Santiago Basulto || || || ||
 ||[[DavidLitvak|David Litvak]] ||M || || ||
-||Pato Gómez || || ||Si ||
-||Francisco J Capdevila || XXL || Córdoba ||Si ||
-||Emiliano Dalla Verde Marcozzi || || ||Si ||
-||Robbie || || ||Si ||
 ||Florencia Mincucci || || || ||
 ||Claudio Bidau || || || ||
