@@ -78,7 +78,7 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Diego van Haaster || || ||Si ||
 ||Felipe Lerena || || ||Si ||
 ||Jairo Trad || || ||Si ||
-||Andrés Riancho ||L || ||Si ||
+||Andrés Riancho ||XL || ||Si ||
 ||Santiago Basulto || || || ||
 ||[[DavidLitvak|David Litvak]] ||M || || ||
 ||Pato Gómez || || ||Si ||
