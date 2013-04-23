@@ -14,7 +14,7 @@ Del 20 al 23 de Junio (eso es Jueves (feriado!), Viernes (feriado puente!), Sáb
 
 '''Nombre del lugar:''' Hotel Luz y Fuerza
 
-'''Donde está:''' Ruta Nacional 38, Villa Giadirno, Córdoba
+'''Donde está:''' Ruta Nacional 38, Villa Giardino, Córdoba
 
 <<GoogleMaps(t="h",ll="-31.052484,-64.504133",spn="0.003865,0.003605",z="18")>>
 
