@@ -50,7 +50,6 @@ XXL y XXL aumenta aproximadamente 5 cm de ancho y dos o tres de largo. Ambos tal
 
 A continuación un listado de las personas que se anotaron para comprar uno o varios buzos.
 ||Nombre ||Talle ||Observaciones ||Pagó ||
-||Jose Pezzarini || ||Más de un buzo. Necesita envio a Misiones. || ||
 ||Diego Cañizares || || ||Si ||
 ||Ezequiel Pacheco || || ||Si ||
 ||Martin Alderete || || ||Si ||
@@ -76,6 +75,7 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Gastón Menvielle || || || ||
 ||Federico Apelhanz || || || ||
 ||Marcelo Martinovic ||XL || || ||
+||Jose Pezzarini || ||Más de un buzo. Necesita envio a Misiones. || ||
 ||Otto Wald ||XL || || ||
 ||Facundo Batista ||Depende del tamaño ||más de un buzo si hay "muy chicos" || ||
 ||Marcos Moyano ||L ||Rosario || ||
