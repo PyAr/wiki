@@ -36,15 +36,19 @@ Los buzos van a ser entregados en el PyCamp 2013.
 
 '''Talles'''
 ||Talle ||Ancho ||Largo ||
-||S ||40 cm ||50 cm ||
-||M ||41 cm ||55 cm ||
-||L ||42 cm ||58 cm ||
-||XL ||45 cm ||62 cm ||
+||S ||53 cm ||42 cm ||
+||M ||55 cm ||45 cm ||
+||L ||56 cm ||47 cm ||
+||XL ||56 cm ||47 cm ||
+||XXL ||72 cm ||49 cm ||
 
-
-
-
-XXL y XXL aumenta aproximadamente 5 cm de ancho y dos o tres de largo. Ambos talles están disponibles.
+'''Medida de la manga'''
+||Talle ||Medida ||
+||S || 25 cm. ||
+||M || 25 cm. ||
+||L || 25 cm. ||
+||XL || 28 cm. ||
+||XXL || 31 cm. ||
 
 '''Pedidos'''
 
