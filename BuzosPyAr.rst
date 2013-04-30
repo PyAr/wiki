@@ -74,8 +74,6 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Pato Gómez || || ||Si ||
 ||Francisco J Capdevila || XXL || Córdoba ||Si ||
 ||Emiliano Dalla Verde Marcozzi || || ||Si ||
-||Florencia Mincucci || || ||Si ||
-||Claudio Bidau ||M || || ||Si || 
 ||Robbie || || ||Si ||
 ||Erwin Feser || || || ||
 ||Javier Pepe ||XL || || ||
@@ -93,5 +91,5 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Manuel Muradas ||M o L (depende) ||Buenos Aires || ||
 ||Santiago Basulto || || || ||
 ||[[DavidLitvak|David Litvak]] ||M || || ||
-||Florencia Mincucci || || || ||
+||Florencia Mincucci || || ||Si ||
 ||Claudio Bidau || || || ||
