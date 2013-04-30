@@ -75,7 +75,7 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Francisco J Capdevila || XXL || Córdoba ||Si ||
 ||Emiliano Dalla Verde Marcozzi || || ||Si ||
 ||Florencia Mincucci || || ||Si ||
-||Claudio Bidau ||M || ||Si || 
+||Claudio Bidau ||M || || ||Si || 
 ||Robbie || || ||Si ||
 ||Erwin Feser || || || ||
 ||Javier Pepe ||XL || || ||
