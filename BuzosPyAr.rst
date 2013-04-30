@@ -39,7 +39,7 @@ La medida del ancho se mide de sisa a sisa. La medida del largo se mide desde la
 ||S ||53 cm ||42 cm ||
 ||M ||55 cm ||45 cm ||
 ||L ||56 cm ||47 cm ||
-||XL ||56 cm ||47 cm ||
+||XL ||60 cm ||49 cm ||
 ||XXL ||72 cm ||49 cm ||
 
 '''Medida de la manga'''
