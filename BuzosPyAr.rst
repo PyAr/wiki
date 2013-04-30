@@ -85,7 +85,7 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Marcelo Martinovic ||XL || || ||
 ||Jose Pezzarini || ||Más de un buzo. Necesita envio a Misiones. || ||
 ||Otto Wald ||XL || || ||
-||Facundo Batista ||Depende del tamaño ||más de un buzo si hay "muy chicos" || ||
+||Facundo Batista ||Un XL y un S || || ||
 ||Marcos Moyano ||L ||Rosario || ||
 ||Joaquin Tita ||M ||Córdoba || ||
 ||HectorSanchez ||XL ||Buenos Aires || ||
