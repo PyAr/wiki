@@ -78,7 +78,7 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Florencia Mincucci || || ||Si ||
 ||TucumetaL ||L ||Río Cuarto (Córdoba) || ||
 ||Erwin Feser || || || ||
-||Javier Pepe ||XL || || ||
+||Javier Pepe ||XL ||Buenos Aires - Hurlingham  || ||
 ||Pablo Mouzo || || || ||
 ||Gastón Menvielle || || || ||
 ||Federico Apelhanz || || || ||
