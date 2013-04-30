@@ -21,9 +21,6 @@ El diseño elegido, fué sometido a la votación de la gente que pertenece a PyA
 ||'''Opción 4''' ||'''53 %''' ||
 ||Opción 5 ||5 % ||
 
-
-
-
 Pueden ver una versión de los diseños que se votaron en una imagen de resolución grande ( para ver los detalles ) acá: [[http://ubuntuone.com/4ApdQy8DQat4thlT5rvX1u|acá]] . Y también la versión en PDF [[http://ubuntuone.com/6fx4gPwQAG2cnsptj9IpRJ|acá]].
 
 El dibujo en vectores SVG creado con Inkscape de los diseños lo pueden bajar [[http://ubuntuone.com/0blwTRrbPSKw190nFv5MPC|acá]].
@@ -35,6 +32,9 @@ Los diseños se basaron en propuestas que se enviaron para cuando PyAr armó sus
 Los buzos van a ser entregados en el PyCamp 2013.
 
 '''Talles'''
+
+La medida del ancho se mide de siza a siza. La medida del largo se mide desde la siza hasta el final del buzo.
+
 ||Talle ||Ancho ||Largo ||
 ||S ||53 cm ||42 cm ||
 ||M ||55 cm ||45 cm ||
@@ -43,6 +43,9 @@ Los buzos van a ser entregados en el PyCamp 2013.
 ||XXL ||72 cm ||49 cm ||
 
 '''Medida de la manga'''
+
+La medida de la manga se mide desde el hombro donde comienza la costura, hasta la siza.
+
 ||Talle ||Medida ||
 ||S || 25 cm. ||
 ||M || 25 cm. ||
@@ -71,6 +74,8 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Pato Gómez || || ||Si ||
 ||Francisco J Capdevila || XXL || Córdoba ||Si ||
 ||Emiliano Dalla Verde Marcozzi || || ||Si ||
+||Florencia Mincucci || || ||Si ||
+||Claudio Bidau ||M || ||Si || 
 ||Robbie || || ||Si ||
 ||Erwin Feser || || || ||
 ||Javier Pepe ||XL || || ||
@@ -83,7 +88,6 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Otto Wald ||XL || || ||
 ||Facundo Batista ||Depende del tamaño ||más de un buzo si hay "muy chicos" || ||
 ||Marcos Moyano ||L ||Rosario || ||
-||Claudio Bidau ||M || || ||
 ||Joaquin Tita ||M ||Córdoba || ||
 ||HectorSanchez ||XL ||Buenos Aires || ||
 ||Manuel Muradas ||M o L (depende) ||Buenos Aires || ||
