@@ -2,6 +2,8 @@
 
 == 2013 ==
 
+ * (30/04/2013) Emprendimiento busca desarrollador freelance Python y Django. Conocimientos deseables no excluyentes: E-commerce, paypal, google wallet, e-books. Contacto: <<MailTo(feo.luciano EN gmail PUNTO com)>>
+
  * (22/04/2013) INFOXEL busca sys admin con conocimientos de Python, Bash y PHP. Full Time o Part Time. En Córdoba. Enviar CV a : <<MailTo(rrhh EN infoxel PUNTO com)>>
 
  * (22/04/2013) IURLAD busca freelancer PYTHON sobre framework DJANGO para proveer mantenimiento y continuar desarrollo de una plataforma. Valoramos el manejo del idioma inglés (intermedio), poseer gran capacidad resolutiva y demostrar compromiso con los plazos.  Enviá tu CV a <<MailTo(dgonzalez EN iurlad PUNTO com)>>.
