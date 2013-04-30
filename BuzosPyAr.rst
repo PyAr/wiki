@@ -72,7 +72,7 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Jairo Trad ||XXL || Córdoba ||Si ||
 ||Andrés Riancho ||XL || ||Si ||
 ||Pato Gómez || || ||Si ||
-||Francisco J Capdevila || XXL || Córdoba ||Si ||
+||Francisco J Capdevila || XL || Córdoba ||Si ||
 ||Emiliano Dalla Verde Marcozzi || || ||Si ||
 ||Robbie || || ||Si ||
 ||Florencia Mincucci || || ||Si ||
