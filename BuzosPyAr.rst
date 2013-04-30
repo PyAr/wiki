@@ -65,7 +65,7 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Alberto Paparelli || || ||Si||
 ||Carlos Enrique Rodriguez || ||Dos buzos. ||Si ||
 ||Guillermo Narvaez ||L ||La Rioja ||Si ||
-||Nahuel Defossé || || ||Si ||
+||Nahuel Defossé || ||Dos buzos. ||Si ||
 ||Ezequiel Gonzalez Rial || || ||Si ||
 ||Diego van Haaster || || ||Si ||
 ||Felipe Lerena || || ||Si ||
