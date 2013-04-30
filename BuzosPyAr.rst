@@ -76,10 +76,10 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Emiliano Dalla Verde Marcozzi || || ||Si ||
 ||Robbie || || ||Si ||
 ||Florencia Mincucci || || ||Si ||
+||TucumetaL ||L ||Río Cuarto (Córdoba) || ||
 ||Erwin Feser || || || ||
 ||Javier Pepe ||XL || || ||
 ||Pablo Mouzo || || || ||
-||TucumetaL ||L ||Río Cuarto (Córdoba) || ||
 ||Gastón Menvielle || || || ||
 ||Federico Apelhanz || || || ||
 ||Marcelo Martinovic ||XL || || ||
