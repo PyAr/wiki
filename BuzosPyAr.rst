@@ -33,7 +33,7 @@ Los buzos van a ser entregados en el PyCamp 2013.
 
 '''Talles'''
 
-La medida del ancho se mide de siza a siza. La medida del largo se mide desde la siza hasta el final del buzo.
+La medida del ancho se mide de sisa a sisa. La medida del largo se mide desde la sisa hasta el final del buzo.
 
 ||Talle ||Ancho ||Largo ||
 ||S ||53 cm ||42 cm ||
@@ -44,7 +44,7 @@ La medida del ancho se mide de siza a siza. La medida del largo se mide desde la
 
 '''Medida de la manga'''
 
-La medida de la manga se mide desde el hombro donde comienza la costura, hasta la siza.
+La medida de la manga se mide desde el hombro donde comienza la costura, hasta la sisa.
 
 ||Talle ||Medida ||
 ||S || 25 cm. ||
