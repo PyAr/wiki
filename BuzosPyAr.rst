@@ -69,7 +69,7 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Ezequiel Gonzalez Rial || || ||Si ||
 ||Diego van Haaster || || ||Si ||
 ||Felipe Lerena || || ||Si ||
-||Jairo Trad ||XXL || ||Si ||
+||Jairo Trad ||XXL || Córdoba ||Si ||
 ||Andrés Riancho ||XL || ||Si ||
 ||Pato Gómez || || ||Si ||
 ||Francisco J Capdevila || XXL || Córdoba ||Si ||
