@@ -77,7 +77,8 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Robbie || || ||Si ||
 ||Florencia Mincucci || || ||Si ||
 ||Matías Graña || || ||Si ||
-||TucumetaL ||L ||Río Cuarto (Córdoba) || ||
+||TucumetaL ||L ||Río Cuarto (Córdoba) ||Si||
+||Facundo Batista ||Un XL y un S || || ||
 ||Erwin Feser || || || ||
 ||Javier Pepe ||XL ||Buenos Aires - Hurlingham  || ||
 ||Pablo Mouzo || || || ||
@@ -86,7 +87,6 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Marcelo Martinovic ||XL || || ||
 ||Jose Pezzarini || ||Más de un buzo. Necesita envio a Misiones. || ||
 ||Otto Wald ||XL || || ||
-||Facundo Batista ||Un XL y un S || || ||
 ||Marcos Moyano ||L ||Rosario || ||
 ||Joaquin Tita ||M ||Córdoba || ||
 ||HectorSanchez ||XL ||Buenos Aires || ||
