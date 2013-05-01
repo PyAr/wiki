@@ -76,6 +76,7 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Emiliano Dalla Verde Marcozzi || || ||Si ||
 ||Robbie || || ||Si ||
 ||Florencia Mincucci || || ||Si ||
+||Matías Graña || || ||Si ||
 ||TucumetaL ||L ||Río Cuarto (Córdoba) || ||
 ||Erwin Feser || || || ||
 ||Javier Pepe ||XL ||Buenos Aires - Hurlingham  || ||
