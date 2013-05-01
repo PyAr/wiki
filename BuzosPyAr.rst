@@ -63,7 +63,7 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Juan M. Santos ||M || ||Si ||
 ||Gonzalo Martinez ||XL ||Buenos Aires - San Martin ||Si ||
 ||Alberto Paparelli || || ||Si||
-||Carlos Enrique Rodriguez || ||Dos buzos. ||Si ||
+||Carlos Enrique Rodriguez || XL XL||Dos buzos. ||Si ||
 ||Guillermo Narvaez ||L ||La Rioja ||Si ||
 ||Nahuel Defossé || ||Dos buzos. ||Si ||
 ||Ezequiel Gonzalez Rial || || ||Si ||
