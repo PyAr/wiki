@@ -78,7 +78,8 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Florencia Mincucci ||S || ||Si ||
 ||Matías Graña ||M || ||Si ||
 ||TucumetaL ||L ||Río Cuarto (Córdoba) ||Si||
-||Facundo Batista ||Un XL y un S || || ||
+||Facundo Batista ||Un XL y un S || ||Si||
+||Claudio Bidau || || ||Si||
 ||Erwin Feser || || || ||
 ||Javier Pepe ||XL ||Buenos Aires - Hurlingham  || ||
 ||Pablo Mouzo || || || ||
@@ -93,4 +94,3 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Manuel Muradas ||M o L (depende) ||Buenos Aires || ||
 ||Santiago Basulto || || || ||
 ||[[DavidLitvak|David Litvak]] ||M || || ||
-||Claudio Bidau || || || ||
