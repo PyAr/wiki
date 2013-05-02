@@ -1,4 +1,4 @@
-'''Buzos de PyAr!'''
+'''Buzos de Python Argentina!'''
 
 Vamos a hacer buzos de Python Argentina!. ¿ Las razones ?, juntar dinero para PyAr, y que podamos tener un espectacular buzo de Python Argentina!!.
 
