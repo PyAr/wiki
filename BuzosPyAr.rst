@@ -3,32 +3,7 @@ Vamos a hacer buzos de Python Argentina!. ¿ Las razones ?, juntar dinero para P
 
 Los buzos son de tela de buena calidad, de tipo canguro, de color negro, impresos en la espalda.
 
-'''Diseño del buzo'''
-
-{{attachment:opcion4espalda-reducido.png}}
-
-'''Pedidos'''
-
-Para hacer pedidos de buzos tenés que enviar un email a : <<MailTo(juanrodriguezmonti EN gmail PUNTO com)>>.  Cuando escribas, se te responderá indicando cómo hacer el pago por el o los buzos que compres.
-
-'''Notas sobre el diseño del buzo'''
-
-El diseño elegido, fué sometido a la votación de la gente que pertenece a PyAr. Los resultados de la votación fueron los siguientes:
-||Opción ||Porcentaje de votos ||
-||Opción 1 ||21 % ||
-||Opción 2 ||0 % ||
-||Opción 3 ||21 % ||
-||'''Opción 4''' ||'''53 %''' ||
-||Opción 5 ||5 % ||
-
-
-
-
 Pueden ver una versión de los diseños que se votaron en una imagen de resolución grande ( para ver los detalles ) acá: [[http://ubuntuone.com/4ApdQy8DQat4thlT5rvX1u|acá]] . Y también la versión en PDF [[http://ubuntuone.com/6fx4gPwQAG2cnsptj9IpRJ|acá]].
-
-El dibujo en vectores SVG creado con Inkscape de los diseños lo pueden bajar [[http://ubuntuone.com/0blwTRrbPSKw190nFv5MPC|acá]].
-
-Los diseños se basaron en propuestas que se enviaron para cuando PyAr armó sus remeras en diferentes ocasiones.
 
 '''Fechas'''
 
@@ -43,9 +18,6 @@ La medida del ancho se mide de sisa a sisa. La medida del largo se mide desde la
 ||L ||56 cm ||47 cm ||
 ||XL ||60 cm ||49 cm ||
 ||XXL ||72 cm ||49 cm ||
-
-
-
 
 '''Medida de la manga'''
 
