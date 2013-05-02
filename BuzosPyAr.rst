@@ -86,7 +86,7 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Matías Graña ||M || ||Si ||
 ||TucumetaL ||L ||Río Cuarto (Córdoba) ||Si ||
 ||Facundo Batista ||Un XL y un S || ||Si ||
-||Claudio Bidau || || ||Si ||
+||Claudio Bidau ||M || ||Si ||
 ||Manuel Muradas ||M ||Buenos Aires ||Si ||
 ||Javier Pepe ||XL ||Buenos Aires - Hurlingham ||Si ||
 ||Erwin Feser || || || ||
@@ -100,3 +100,4 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||HectorSanchez ||XL ||Buenos Aires || ||
 ||Santiago Basulto || || || ||
 ||[[DavidLitvak|David Litvak]] ||M || || ||
+||Tim Zenderman|| || || ||
