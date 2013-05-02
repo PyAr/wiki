@@ -84,7 +84,6 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Javier Pepe ||XL ||Buenos Aires - Hurlingham  || ||
 ||Pablo Mouzo || || || ||
 ||Gastón Menvielle || || || ||
-||Federico Apelhanz || || || ||
 ||Marcelo Martinovic ||XL || || ||
 ||Jose Pezzarini || ||Más de un buzo. Necesita envio a Misiones. || ||
 ||Otto Wald ||XL || || ||
