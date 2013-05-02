@@ -81,8 +81,8 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Facundo Batista ||Un XL y un S || ||Si||
 ||Claudio Bidau || || ||Si||
 ||Manuel Muradas ||M||Buenos Aires ||Si||
+||Javier Pepe ||XL ||Buenos Aires - Hurlingham  ||Si||
 ||Erwin Feser || || || ||
-||Javier Pepe ||XL ||Buenos Aires - Hurlingham  || ||
 ||Pablo Mouzo || || || ||
 ||Gastón Menvielle || || || ||
 ||Marcelo Martinovic ||XL || || ||
