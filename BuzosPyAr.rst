@@ -89,15 +89,4 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Claudio Bidau ||M || ||Si ||
 ||Manuel Muradas ||M ||Buenos Aires ||Si ||
 ||Javier Pepe ||XL ||Buenos Aires - Hurlingham ||Si ||
-||Erwin Feser || || || ||
-||Pablo Mouzo || || || ||
-||Gastón Menvielle || || || ||
-||Marcelo Martinovic ||XL || || ||
-||Jose Pezzarini || ||Más de un buzo. Necesita envio a Misiones. || ||
-||Otto Wald ||XL || || ||
-||Marcos Moyano ||L ||Rosario || ||
-||Joaquin Tita ||M ||Córdoba || ||
-||HectorSanchez ||XL ||Buenos Aires || ||
-||Santiago Basulto || || || ||
-||[[DavidLitvak|David Litvak]] ||M || || ||
-||Tim Zenderman|| || || ||
+||Tim Zenderman|| || ||Si||
