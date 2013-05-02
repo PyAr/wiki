@@ -73,7 +73,7 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Andrés Riancho ||XL || ||Si ||
 ||Pato Gómez ||XL || La busco en el pyday de Junin ||Si ||
 ||Francisco J Capdevila || XL || Córdoba ||Si ||
-||Emiliano Dalla Verde Marcozzi || || ||Si ||
+||Emiliano Dalla Verde Marcozzi ||XXL || ||Si ||
 ||Robbie ||M || ||Si ||
 ||Florencia Mincucci ||S || ||Si ||
 ||Matías Graña ||M || ||Si ||
