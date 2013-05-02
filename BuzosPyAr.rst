@@ -59,7 +59,7 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Nombre ||Talle ||Observaciones ||Pagó ||
 ||Diego Cañizares || || ||Si ||
 ||Ezequiel Pacheco || || ||Si ||
-||Martin Alderete || || ||Si ||
+||Martin Alderete ||M ||Buenos Aires - La Plata||Si ||
 ||Juan M. Santos ||M || ||Si ||
 ||Gonzalo Martinez ||XL ||Buenos Aires - San Martin ||Si ||
 ||Alberto Paparelli || || ||Si||
