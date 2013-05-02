@@ -36,6 +36,9 @@ La medida de la manga se mide desde el hombro donde comienza la costura, hasta l
 A continuación un listado de las personas que se anotaron para comprar uno o varios buzos.
 ||Nombre ||Talle ||Observaciones ||Pagó ||
 ||Diego Cañizares || || ||Si ||
+||Nahuel Defossé || ||Dos buzos. ||Si ||
+||Ezequiel Gonzalez Rial || || ||Si ||
+||Damian Mel|| || || ||
 ||Ezequiel Pacheco ||M|| ||Si ||
 ||Martin Alderete ||M ||Buenos Aires - La Plata ||Si ||
 ||Juan M. Santos ||M || ||Si ||
@@ -43,8 +46,6 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Alberto Paparelli ||XL|| ||Si ||
 ||Carlos Enrique Rodriguez ||XL XL ||Dos buzos. ||Si ||
 ||Guillermo Narvaez ||L ||La Rioja ||Si ||
-||Nahuel Defossé || ||Dos buzos. ||Si ||
-||Ezequiel Gonzalez Rial || || ||Si ||
 ||Diego van Haaster ||XL||Chubut ||Si ||
 ||Juan Rodríguez Monti ||XL || ||Si ||
 ||Jairo Trad ||XXL ||Córdoba ||Si ||
@@ -61,4 +62,3 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Manuel Muradas ||M ||Buenos Aires ||Si ||
 ||Javier Pepe ||XL ||Buenos Aires - Hurlingham ||Si ||
 ||Tim Zenderman||M|| ||Si||
-||Damian Mel|| || || ||
