@@ -74,9 +74,9 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Pato Gómez ||XL || La busco en el pyday de Junin ||Si ||
 ||Francisco J Capdevila || XL || Córdoba ||Si ||
 ||Emiliano Dalla Verde Marcozzi || || ||Si ||
-||Robbie || || ||Si ||
-||Florencia Mincucci || || ||Si ||
-||Matías Graña || || ||Si ||
+||Robbie ||M || ||Si ||
+||Florencia Mincucci ||S || ||Si ||
+||Matías Graña ||M || ||Si ||
 ||TucumetaL ||L ||Río Cuarto (Córdoba) ||Si||
 ||Facundo Batista ||Un XL y un S || || ||
 ||Erwin Feser || || || ||
