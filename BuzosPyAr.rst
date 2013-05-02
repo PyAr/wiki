@@ -80,6 +80,7 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||TucumetaL ||L ||Río Cuarto (Córdoba) ||Si||
 ||Facundo Batista ||Un XL y un S || ||Si||
 ||Claudio Bidau || || ||Si||
+||Manuel Muradas ||M o L (depende) ||Buenos Aires ||Si||
 ||Erwin Feser || || || ||
 ||Javier Pepe ||XL ||Buenos Aires - Hurlingham  || ||
 ||Pablo Mouzo || || || ||
@@ -90,6 +91,5 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Marcos Moyano ||L ||Rosario || ||
 ||Joaquin Tita ||M ||Córdoba || ||
 ||HectorSanchez ||XL ||Buenos Aires || ||
-||Manuel Muradas ||M o L (depende) ||Buenos Aires || ||
 ||Santiago Basulto || || || ||
 ||[[DavidLitvak|David Litvak]] ||M || || ||
