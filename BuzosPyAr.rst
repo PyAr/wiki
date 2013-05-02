@@ -1,9 +1,10 @@
-= Buzos de PyAr! =
+'''Buzos de PyAr!'''
+
 Vamos a hacer buzos de Python Argentina!. ¿ Las razones ?, juntar dinero para PyAr, y que podamos tener un espectacular buzo de Python Argentina!!.
 
 Los buzos son de tela de buena calidad, de tipo canguro, de color negro, impresos en la espalda.
 
-Pueden ver una versión de los diseños que se votaron en una imagen de resolución grande ( para ver los detalles ) acá: [[http://ubuntuone.com/4ApdQy8DQat4thlT5rvX1u|acá]] . Y también la versión en PDF [[http://ubuntuone.com/6fx4gPwQAG2cnsptj9IpRJ|acá]].
+Pueden ver una versión de los diseños que se votaron en una imagen de resolución grande ( para ver los detalles ) [[http://ubuntuone.com/4ApdQy8DQat4thlT5rvX1u|acá]] . Y también la versión en PDF [[http://ubuntuone.com/6fx4gPwQAG2cnsptj9IpRJ|acá]].
 
 '''Fechas'''
 
