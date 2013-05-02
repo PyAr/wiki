@@ -74,7 +74,7 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Guillermo Narvaez ||L ||La Rioja ||Si ||
 ||Nahuel Defossé || ||Dos buzos. ||Si ||
 ||Ezequiel Gonzalez Rial || || ||Si ||
-||Diego van Haaster || || ||Si ||
+||Diego van Haaster ||XL||Chubut ||Si ||
 ||Juan Rodríguez Monti || || ||Si ||
 ||Jairo Trad ||XXL ||Córdoba ||Si ||
 ||Andrés Riancho ||XL || ||Si ||
@@ -100,5 +100,3 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||HectorSanchez ||XL ||Buenos Aires || ||
 ||Santiago Basulto || || || ||
 ||[[DavidLitvak|David Litvak]] ||M || || ||
-
-
