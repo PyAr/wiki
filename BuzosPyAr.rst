@@ -71,7 +71,7 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Felipe Lerena || || ||Si ||
 ||Jairo Trad ||XXL || Córdoba ||Si ||
 ||Andrés Riancho ||XL || ||Si ||
-||Pato Gómez || || ||Si ||
+||Pato Gómez ||XL || La busco en el pyday de Junin ||Si ||
 ||Francisco J Capdevila || XL || Córdoba ||Si ||
 ||Emiliano Dalla Verde Marcozzi || || ||Si ||
 ||Robbie || || ||Si ||
