@@ -65,7 +65,7 @@ La medida de la manga se mide desde el hombro donde comienza la costura, hasta l
 A continuación un listado de las personas que se anotaron para comprar uno o varios buzos.
 ||Nombre ||Talle ||Observaciones ||Pagó ||
 ||Diego Cañizares || || ||Si ||
-||Ezequiel Pacheco || || ||Si ||
+||Ezequiel Pacheco ||M|| ||Si ||
 ||Martin Alderete ||M ||Buenos Aires - La Plata ||Si ||
 ||Juan M. Santos ||M || ||Si ||
 ||Gonzalo Martinez ||XL ||Buenos Aires - San Martin ||Si ||
