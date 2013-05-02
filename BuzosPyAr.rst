@@ -68,7 +68,7 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Nahuel Defossé || ||Dos buzos. ||Si ||
 ||Ezequiel Gonzalez Rial || || ||Si ||
 ||Diego van Haaster || || ||Si ||
-||Felipe Lerena || || ||Si ||
+||Juan Rodríguez Monti || || || Si ||
 ||Jairo Trad ||XXL || Córdoba ||Si ||
 ||Andrés Riancho ||XL || ||Si ||
 ||Pato Gómez ||XL || La busco en el pyday de Junin ||Si ||
