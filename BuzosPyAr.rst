@@ -89,4 +89,4 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Claudio Bidau ||M || ||Si ||
 ||Manuel Muradas ||M ||Buenos Aires ||Si ||
 ||Javier Pepe ||XL ||Buenos Aires - Hurlingham ||Si ||
-||Tim Zenderman|| || ||Si||
+||Tim Zenderman||M|| ||Si||
