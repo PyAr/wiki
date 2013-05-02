@@ -57,9 +57,6 @@ La medida de la manga se mide desde el hombro donde comienza la costura, hasta l
 ||XL ||28 cm. ||
 ||XXL ||31 cm. ||
 
-
-
-
 '''Pedidos'''
 
 A continuación un listado de las personas que se anotaron para comprar uno o varios buzos.
@@ -90,3 +87,4 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Manuel Muradas ||M ||Buenos Aires ||Si ||
 ||Javier Pepe ||XL ||Buenos Aires - Hurlingham ||Si ||
 ||Tim Zenderman||M|| ||Si||
+||Damian Mel|| || || ||
