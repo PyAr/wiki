@@ -62,3 +62,4 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Manuel Muradas ||M ||Buenos Aires ||Si ||
 ||Javier Pepe ||XL ||Buenos Aires - Hurlingham ||Si ||
 ||Tim Zenderman||M|| ||Si||
+||José Luis Dallapiccola||XL||Neuquén (a enviar por alguien)||No||
