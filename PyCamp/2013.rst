@@ -67,7 +67,7 @@ A 4 cuadras de la terminal de Villa Giardino, no hay forma de perderse, camino l
 
 == Cómo reservar ==
 
-Si NO necesitan factura, le tienen que hacer una transferencia a Facundo por $800 o $752 (dependiendo de las preferencias alimenticias, ver abajo) a:
+Si NO necesitan factura, le tienen que hacer una transferencia a Facundo por $878 o $825 (dependiendo de las preferencias alimenticias, ver abajo) a:
 
  * Banco Credicoop
  * Facundo Batista
@@ -83,15 +83,15 @@ Obviamente, luego del depósito / transferencia le mandan un mail *por privado* 
  * Todos los datos posibles de la transferencia o depósito
  * Preferencias alimenticias: "normal", "hiposódico/a", "celíaco/a", "vegetariano/a", y "ovo-lacto-vegetariano/a". Los primeros tres grupos pagan y comen asado, los últimos dos no.
 
-Ah, si hacen una transferencia, les pido por favor enviar algunos centavos más (por ejemplo, $800.13) de forma aleatoria, lo que permite relacionar la entrada de dinero en la cuenta con la persona de forma mucho más fácil (en un depósito es más complicado de hacer).
+Ah, si hacen una transferencia, les pido por favor enviar algunos centavos más (por ejemplo, $878.13) de forma aleatoria, lo que permite relacionar la entrada de dinero en la cuenta con la persona de forma mucho más fácil (en un depósito es más complicado de hacer).
 
-'''¿Por qué $800? Pensé que era una moneda menos''' Siempre hay algunos gastos extras en la organización (materiales, etc), está bueno tener un colchoncito. Y lo que sobre lo podemos usar para otros gastos allá. O quedará para PyAr.
+'''¿Por qué $878? Pensé que era una moneda menos''' Siempre hay algunos gastos extras en la organización (materiales, etc), está bueno tener un colchoncito. Y lo que sobre lo podemos usar para otros gastos allá. O quedará para PyAr.
 
 '''¿Por qué ahora?''' Necesitamos confirmar la reserva, y eso es el 30% de la base que indicamos... lo que es más de 9 mil pesos. Cuanto antes juntemos este dinero, más pronto confirmamos la reserva, y la fecha ya es nuestra-nuestra-nuestra.
 
 '''¿Por qué a una cuenta personal de Facundo?'''Porque todavía no tenemos una "cuenta de PyAr", y esto funcionó correctamente en años anteriores, así que seguimos con la misma.
 
-'''¿Y si quiero o necesito una factura?''' El precio es $800 + IVA, si es una persona sola transferir a Facundo, si es una empresa que quiere pagar un "paquete", contactar a Facundo por mail.
+'''¿Y si quiero o necesito una factura?''' El precio es $878 + IVA, si es una persona sola transferir a Facundo, si es una empresa que quiere pagar un "paquete", contactar a Facundo por mail.
 
 '''¿Y si no quiero ir todos los días?''' Se puede, pero se pierde lo que es el "precio paquete PyCamp". En otras palabras, cualquiera puede ir cualquier día o días libremente, pero está sujeto a disponibilidad de las plazas, y paga precio mostrador.
 
