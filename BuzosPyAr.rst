@@ -38,7 +38,7 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Diego Cañizares ||XL|| ||Si ||
 ||Nahuel Defossé || XL y un S ||Dos buzos. ||Si ||
 ||Ezequiel Gonzalez Rial ||XL||Capital ||Si ||
-||Damian Mel||XL||Buenos Aires - La Plata || ||
+||Damian Mel||XL||Buenos Aires - La Plata ||Si||
 ||Ezequiel Pacheco ||M|| ||Si ||
 ||Martin Alderete ||M ||Buenos Aires - La Plata ||Si ||
 ||Juan M. Santos ||M || ||Si ||
