@@ -95,6 +95,8 @@ Ah, si hacen una transferencia, les pido por favor enviar algunos centavos más 
 
 '''¿Y si no quiero ir todos los días?''' Se puede, pero se pierde lo que es el "precio paquete PyCamp". En otras palabras, cualquiera puede ir cualquier día o días libremente, pero está sujeto a disponibilidad de las plazas, y paga precio mostrador.
 
+Por último, recuerden que PyCamp 2013 adhiere al [[PyCamp/CoC|Código de Conducta]].
+
 == Temas propuestos para este año ==
 
 Si te interesa proponer algún tema para trabajar en el PyCamp de este año, editá [[PyCamp/2013/TemasPropuestos|esta página del wiki]] y agregalo. Recordá comentar brevemente de qué se trata el proyecto o idea, y qué te parece que se podría hacer durante el PyCamp.
