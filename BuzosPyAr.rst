@@ -37,7 +37,7 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Nombre ||Talle ||Observaciones ||Pagó ||
 ||Diego Cañizares || || ||Si ||
 ||Nahuel Defossé || ||Dos buzos. ||Si ||
-||Ezequiel Gonzalez Rial || || ||Si ||
+||Ezequiel Gonzalez Rial ||XL||Capital ||Si ||
 ||Damian Mel|| || || ||
 ||Ezequiel Pacheco ||M|| ||Si ||
 ||Martin Alderete ||M ||Buenos Aires - La Plata ||Si ||
