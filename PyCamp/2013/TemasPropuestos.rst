@@ -93,3 +93,15 @@ La [[http://python.org.ar/pyar/Proyectos/CDPedia|CDPedia]] es un proyecto de Pyt
 [[http://encuentro.taniquetil.com.ar/|Este]] es un simple programa que permite buscar, descargar y ver contenido del canal Encuentro, Paka Paka, BACUA, Educ.ar y otros. 
 
 ''Propone: FacundoBatista''
+
+=== RestoPY ===
+
+Django para restaurantes y bares (https://bitbucket.org/edvm/restopy/). Es un sistema simple que utiliza el admin de django para gestionar los productos que se venden, las bebidas, el stock, los empleados y sus horarios, las reservas, etc ... Faltan implementar módulos en la parte gestión e implementar las vistas del resto del sistema (las vistas que van a utilizar los mozos, el login, etc ).
+
+''Propone: Emiliano Dalla Verde Marcozzi''
+
+=== SAW / SQLAlchemy Wrapper ===
+
+Es una librería que quiere simplificar el uso de SQLAlchemy ( http://www.youtube.com/watch?feature=player_embedded&v=-vdl3UGxWcA ). Estaría bueno serializar el schema de la base a JSON/YAML/WHATAVA, crear unittests (la librería puede que tenga muchos tests desactualizados), crear doc copada en PyPI, si serializaste el schema se puede implementar un 'diff' fácil para poder comparar schemas entre bases de datos). El repo por acá https://bitbucket.org/msa_team/sawrapper
+
+''Propone: Emiliano Dalla Verde Marcozzi''
