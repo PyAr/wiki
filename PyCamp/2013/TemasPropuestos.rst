@@ -70,4 +70,26 @@ La idea es ofrecer un "espacio de colaboración de corta vida".  Algo así como 
 
 Más info en [[http://www.taniquetil.com.ar/plog/post/1/608|este post]]. 
 
-''Propone: Facundo Batista''
+''Propone: FacundoBatista''
+
+=== LocoLander ===
+
+La idea es tener un bot que automáticamente commitee a trunk un branch de cualquier proyecto que esté suscripto al servicio.
+
+Lo que haría este bot es revisar cada tanto los proyectos registrados, y si encuentra branches listos para commitear, levantaría el entorno que corresponda (customizado para cada proyecto), mergearía ese branch con trunk, correría tests, etc, y si está todo bien, lo ''landearía''.
+
+Más info en [[http://www.taniquetil.com.ar/plog/post/1/606|este post]].
+
+''Propone: FacundoBatista''
+
+=== CDPedia ===
+
+La [[http://python.org.ar/pyar/Proyectos/CDPedia|CDPedia]] es un proyecto de Python Argentina que permite acceder a la información de la Wikipedia en castellano sin necesidad de una conexión a Internet. Se puede descargar libremente de la red y grabar a CDs, DVDs o memorias USB para repartirlos sin restricciones. La CDPedia funciona en cualquier computadora, ya sea que tenga Linux, MacOS o Windows como sistema operativo.
+
+''Propone: FacundoBatista''
+
+=== Encuentro ===
+
+[[http://encuentro.taniquetil.com.ar/|Este]] es un simple programa que permite buscar, descargar y ver contenido del canal Encuentro, Paka Paka, BACUA, Educ.ar y otros. 
+
+''Propone: FacundoBatista''
