@@ -27,13 +27,6 @@ Programa para generar un sitio de documentacion de un proyecto analizando la est
 ''Propone: Diego Sarmentero''
 
 
-=== Emotiv hacking ===
-
-Jugar con el Emotiv (http://emotiv.com/) y ver de darle acceso a la api desde Python. 
-
-''Propone: Diego Sarmentero''
-
-
 === Torneo Spacecraft ===
 
 Al igual que el año pasado, unas peleitas de spacecraft no estaria nada mal (https://github.com/luciotorre/spacecraft) y podriamos hacer un evento especial de navecitas controladas por emotiv contra navecitas controladas por kinect.
