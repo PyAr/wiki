@@ -2,6 +2,8 @@
 
 == 2013 ==
 
+ * (10/05/2013) [[http://www.onapsis.com|Onapsis]], Buscamos programadores '''Python SR o SSR''' para colaborar en proyectos de seguridad informática que va a revolucionar la industria de las aplicaciones criticas de negocio. Valoramos el conocimiento de las siguientes tecnologías: Pylons/Pyramid, ExtJS (Sencha), HTML, CSS, JavaScript, SQLAlchemy, TDD, etc. Interesados pueden enviar un correo a <<MailTo(careers EN onapsis PUNTO com)>> Ref: PyDev 
+
  * (08/05/2013) Busco un desarrollador Python para un proyecto en curso. Se compone un servidor en Django, con una API restful que se conecta a un cliente escrito en PySide (Qt). Hay mucho trabajo por delante y es un proyecto muy interesante. Contacto: <<MailTo(raskovsky EN gmail PUNTO com)>>
 
  * (06/05/2013) Busco colaborador para proyecto basado en Django. Laburo con poca presión y remuneración acorde. Contacto: <<MailTo(maturburu EN gmail PUNTO com)>>
