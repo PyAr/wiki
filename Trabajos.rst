@@ -2,6 +2,10 @@
 
 == 2013 ==
 
+ * (13/05/2013) Estamos buscando un implementador OpenERP para realizar customización de dicho sistema para una industria dedicada a la fabricación de productos plásticos. La misma ya cuenta con el sistema instalado y ya se ha realizado la adaptación de varios módulos al funcionamiento de la empresa. Sin embargo, todavía restan por realizarse modificaciones de varios aspectos, incluidos el área contable y el de fabricación. Estimamos que insumirá alrededor de seis meses.
+No es necesario realizar el trabajo onsite, solamente habrá reuniones periódicas de avance y para recabar requisitos.
+Los interesados, por favor, contactarse al mail: <<MailTo(pablosandler EN gmail PUNTO com)>>
+
  * (13/05/2013) Un equipo de Licenciados en Letras e investigadores de Tecnología educativa en el cual participo estamos buscando un programador que nos asesore para crear un software educativo de lectura y escritura que pueda ser incorporado al sistema operativo Huayra Linux de Conectar Igualdad. El proyecto se va a presentar a la beca del Fondo Nacional de las Artes. El programador formaría parte del equipo de trabajo de la beca. Los interesados pueden escribirme a esta casilla: <<MailTo( alejogll EN hotmail PUNTO com)>>
 
  * (10/05/2013) [[http://www.onapsis.com|Onapsis]], Buscamos programadores '''Python SR o SSR''' para colaborar en proyectos de seguridad informática que va a revolucionar la industria de las aplicaciones criticas de negocio. Valoramos el conocimiento de las siguientes tecnologías: Pylons/Pyramid, ExtJS (Sencha), HTML, CSS, JavaScript, SQLAlchemy, TDD, etc. Interesados pueden enviar un correo a <<MailTo(careers EN onapsis PUNTO com)>> Ref: PyDev 
