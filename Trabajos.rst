@@ -2,6 +2,8 @@
 
 == 2013 ==
 
+ * (15/05/2013) Estamos buscando un programador de Python para un proyecto corto de aprox. 10/15 dias en la ciudad de Rosario. Interesados contactarse a Recursos Humanos <rrhh@oceantranslations.com> con el Subject "Python Developer".
+
  * (13/05/2013) Estamos buscando un programador Python/Django freelance con experiencia customizando el admin de Django (admin views, custom templates, row-level permissions). Para proyecto de aprox 1 mes de duración. Enviar CV, links o LinkedIn, y $/hora, a <<MailTo(py EN cvam PUNTO com PUNTO ar)>>
 
  * (13/05/2013) Estamos buscando un implementador OpenERP para realizar customización de dicho sistema para una industria dedicada a la fabricación de productos plásticos. La misma ya cuenta con el sistema instalado y ya se ha realizado la adaptación de varios módulos al funcionamiento de la empresa. Sin embargo, todavía restan por realizarse modificaciones de varios aspectos, incluidos el área contable y el de fabricación. Estimamos que insumirá alrededor de seis meses. No es necesario realizar el trabajo onsite, solamente habrá reuniones periódicas de avance y para recabar requisitos. Los interesados, por favor, contactarse al mail: <<MailTo(pablosandler EN gmail PUNTO com)>>
