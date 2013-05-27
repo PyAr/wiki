@@ -13,7 +13,7 @@
 || Juan Pablo Giménez || No?  ||
 || Emiliano Dalla Verde Marcozzi || No?  ||
 || José Rostagno || Si  ||
-|| Ezequiel Szturmaj  || Si   ||
+|| Ezequiel Pochiero || Si   ||
 || Ramiro Trovant || Si  ||
 || Ezequiel Garcia || Si  ||
 
