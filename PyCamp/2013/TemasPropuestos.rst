@@ -79,6 +79,12 @@ Más info en [[http://www.taniquetil.com.ar/plog/post/1/606|este post]].
 
 La [[http://python.org.ar/pyar/Proyectos/CDPedia|CDPedia]] es un proyecto de Python Argentina que permite acceder a la información de la Wikipedia en castellano sin necesidad de una conexión a Internet. Se puede descargar libremente de la red y grabar a CDs, DVDs o memorias USB para repartirlos sin restricciones. La CDPedia funciona en cualquier computadora, ya sea que tenga Linux, MacOS o Windows como sistema operativo.
 
+Me gustaría hacer foco en:
+
+ * Un sistema de generación continua: tener un Jenkins en un server que vaya generando CDPedias una atrás de la otra.
+ * Que la CDPedia funque en Android: debería ser fácil porque no necesitamos armar una interfaz, pero hay que empaquetarlo.
+ * Generar la CDPedia en Guaraní: sería el segundo idioma que hacemos, y debería ser fácil porque es chiquita.
+
 ''Propone: FacundoBatista''
 
 === Encuentro ===
