@@ -2,6 +2,12 @@
 
 == 2013 ==
 
+ * (16/05/2013) En la cooperativa donde trabajo estamos buscando programadores en
+software libre / hackers que estén interesados en trabajar en un
+proyecto relacionado con los medios. Envianos un correo electronico a <<MailTo(tic EN inaes PUNTO gob PUNTO ar)>> con tu currículum,
+algunos enlaces a tus contribuciones a proyectos de Software Libre,
+Hardware Libre o de Innovación Científica y se bienvenido a nuestro equipo. http://tic.inaes.gob.ar/jobs.html
+
  * (15/05/2013) Estamos buscando un programador de Python para un proyecto corto de aprox. 10/15 dias en la ciudad de Rosario. Interesados contactarse a Recursos Humanos <rrhh@oceantranslations.com> con el Subject "Python Developer".
 
  * (13/05/2013) Estamos buscando un programador Python/Django freelance con experiencia customizando el admin de Django (admin views, custom templates, row-level permissions). Para proyecto de aprox 1 mes de duración. Enviar CV, links o LinkedIn, y $/hora, a <<MailTo(py EN cvam PUNTO com PUNTO ar)>>
