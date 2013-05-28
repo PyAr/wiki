@@ -36,21 +36,17 @@ Al igual que el año pasado, unas peleitas de spacecraft no estaria nada mal (ht
 
 === TOMy ===
 
-[[http://abuelodelanada.github.io/TOMy/|TOMy]] es un cliente de MySQL (Ahora también PostgreSQL) de consola que espero, algún día tenga más y mejores funcionalidades que el cliente oficial, el cual es un poco limitado. El desarrollo está recién iniciado y me quedan muchísimas cosas por implementar y mejorar. Entre ellas: Coloreado de sintaxis (se podrá?), soporte de SSL, autocompletado usando [[http://www.taniquetil.com.ar/plog/post/1/598|árboles]] (servirá para este caso?), etc
+[[http://abuelodelanada.github.io/TOMy/|TOMy]] es un cliente de MySQL (Ahora también PostgreSQL... ponele) de consola que espero, algún día tenga más y mejores funcionalidades que el cliente oficial, el cual es un poco limitado. El desarrollo está recién iniciado y me quedan muchísimas cosas por implementar y mejorar. Entre ellas: Coloreado de sintaxis (se podrá?), soporte de SSL, autocompletado usando [[http://www.taniquetil.com.ar/plog/post/1/598|árboles]] (servirá para este caso?), etc
 
 Seguramente surgirán muchas más cosas por hacer, pero en principio, las más importantes son:
 
-* Armar virtualenv
-
-* Refactorizar método connect (no me gusta ni un poco como está)
-
-* La conexión no se reconecta automaticamente
-
-* Agregar tiempo de ejecución de consultas
-
-* Armar tests unitarios
-
-* Y varias cosas más que anoté en: https://github.com/Abuelodelanada/TOMy/issues?state=open
+ * Armar virtualenv
+ * Repensar la estructura del proyecto. ¿Servirá usar una similar a la que [[http://www.taniquetil.com.ar/plog/post/1/610 |usa Facundo en Encuentro]]?
+ * Refactorizar método connect (no me gusta ni un poco como está)
+ * La conexión no se reconecta automaticamente
+ * Agregar tiempo de ejecución de consultas
+ * Armar tests unitarios
+ * Y varias cosas más que anoté en: https://github.com/Abuelodelanada/TOMy/issues?state=open
 
 
 ''Propone: José Massón''
