@@ -142,3 +142,9 @@ Si alguien lleva un proyector, tambien podemos encarar la creaccion de algunas p
 Un espacio para traer arduinos, rasberrys, wimotes, kinects, camaras, smartphones y otros elementos "Hackeables" para hacer programación artistica.
 
 ''Propone: JoaquinSorianello''
+
+=== ArmagretronJS ===
+
+Implementar una version del Juego ArmagetronAD (furor de pycamp 2011) usando WebGL (y algo com three.js) + un servidor twisted para manejar la lógica del juego.
+
+''Propone JoaquinSorianello''
