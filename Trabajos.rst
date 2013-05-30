@@ -1,6 +1,7 @@
 = Trabajos con Python =
 
 == 2013 ==
+ * (30/05/2013) Buscamos capacitador para dictar curso introductorio de Python a un equipo de Testers, modalidad "in-company", zona Barracas - CABA. El curso debería ser de 3 a 6 clases de 2/3 horas cada una y el objetivo del mismo es que los participantes comprendan los principios del lenguaje para poder aplicarlo a un proyecto de automatización de pruebas que utiliza un framework escrito en Python. Es deseable que el instructor tenga conocimiento de JAVA. Interesados contactar a Alejandro Marcos a <<amarcos EN boldt PUNTO com PUNTO ar>> Ref: Capacitador Python      
 
  * (29/05/2013) [[http://Dzone.com|Dzone]], creadores de [[http://osqa.net|OSQA]], [[http://refcardz.dzone.com/|refcardz]] y mucho más está requiriendo programadores con muy buen conocimiento de Front End (Javascript [jQuery], Css, HTML), y conocimiento de Python y Java. Además estamos requiriendo gente para Q&A. El trabajo es Full-Time (no freelancers por favor, o solo freelancers con ganas de comprometerse con una empresa) remoto, las oficinas están en EEUU y el equipo está distribuido entre distintos lugares del planeta. Hay mucho trabajo para hacer y el equipo está en pleno crecimiento. Envianos tu CV y remuneración pretendida a <<MailTo(javyer EN dzone PUNTO com)>> Ref: Front End Developer
 
