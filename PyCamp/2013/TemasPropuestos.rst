@@ -115,3 +115,30 @@ Django para restaurantes y bares (https://bitbucket.org/edvm/restopy/). Es un si
 Es una librería que quiere simplificar el uso de SQLAlchemy ( http://www.youtube.com/watch?feature=player_embedded&v=-vdl3UGxWcA ). Estaría bueno serializar el schema de la base a JSON/YAML/WHATAVA, crear unittests (la librería puede que tenga muchos tests desactualizados), crear doc copada en PyPI, si serializaste el schema se puede implementar un 'diff' fácil para poder comparar schemas entre bases de datos). El repo por acá https://bitbucket.org/msa_team/sawrapper
 
 ''Propone: Emiliano Dalla Verde Marcozzi''
+
+=== Midinect ===
+
+Midinect es un generador de mensajes midi a partir de una kinect, el proyecto "arrancó" el pycamp del año pasado,
+falta hacerle muchas cosas:
+ * Reducir la latencia
+ * Hacer un mejor uso de numpy
+ * Crear una interface de configuracion (Probablemente con QT)
+ * Empaquetar para Linux y Mac (si... windows + midi Sucks)
+ 
+Las herramientas elegidas son Freenect y OpenCV, hacen falta mano de expertos en AI y procesamiento de imagenes en realtime.
+
+''Propone: JoaquinSorianello''
+
+=== Fugue ===
+
+Fugue es una herramienta de calibracion optica y deteccion de actitud para proyectores, permitiendo hacer *Projection Mapping* con mucha precision. La interface está empezada en QT, y para la calibración se usa OpenCV y un solido de dimensiones conocidas.
+
+Si alguien lleva un proyector, tambien podemos encarar la creaccion de algunas primitivas basicas para hacer projection mapping usando el canvas acelerado con OpenGL que tiene QT
+
+''Propone: JoaquinSorianello''
+
+=== Hackeando Cosas ===
+
+Un espacio para traer arduinos, rasberrys, wimotes, kinects, camaras, smartphones y otros elementos "Hackeables" para hacer programación artistica.
+
+''Propone: JoaquinSorianello''
