@@ -148,3 +148,19 @@ Un espacio para traer arduinos, rasberrys, wimotes, kinects, camaras, smartphone
 Implementar una version del Juego ArmagetronAD (furor de pycamp 2011) usando WebGL (y algo com three.js) + un servidor twisted para manejar la lógica del juego.
 
 ''Propone JoaquinSorianello''
+
+=== RedPanal reloaded ("Github para músicos") ===
+
+Plataforma para la creación colaborativa de proyectos musicales. Orientado a trabajos multipista.
+
+ * proyectos multipista completos
+ * cada músico trabaja en su propio DAW
+ * construccion colectiva: licencias CC
+ * busquedas: categorizaciones de audios y proyectos
+ * federación de contenidos
+   * sistema de torrents
+   * los usuarios comparten espacio en disco y ancho de banda para hostear una porcion de los audios de toda la comunidad
+ * cliente instalable en PC para sincronizacion de proyectos (aka, tortoiseMusical)
+ * web merges/ pull requests (me gusta esa pista la integro a mi proyecto con un click)
+
+''Propone SantiagoPiccinini''
