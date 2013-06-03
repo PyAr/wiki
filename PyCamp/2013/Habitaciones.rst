@@ -20,5 +20,5 @@ No hay garantía 100% de que se respete esto a rajatabla, pero lo más probable 
 ||Persona1||Persona2||Persona3||
 ||DiegoSarmentero||Horacio Duran||Emilio Ramirez||
 ||EmilianoDallaVerdeMarcozzi||EvangelinaAnderson||RobertoAlsina||
-||JoseMasson||FedericoPeretti||--||
+||JoseMasson||FedericoPeretti||HugoRuscitti||
 ||y así...||...||...||
