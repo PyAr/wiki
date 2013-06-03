@@ -17,12 +17,6 @@ No hay garantía 100% de que se respete esto a rajatabla, pero lo más probable 
 '''Camas individuales:'''
 
 ||Persona1||Persona2||Persona3||
-
----- /!\ '''Edit conflict - other version:''' ----
 ||Diego Sarmentero||Horacio Duran||Emilio Ramirez||
-
----- /!\ '''Edit conflict - your version:''' ----
 ||EmilianoDallaVerdeMarcozzi||Persona2||Persona3||
 ||y así...||...||...||
-
----- /!\ '''End of edit conflict''' ----
