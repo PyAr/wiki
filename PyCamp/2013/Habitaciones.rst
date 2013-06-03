@@ -10,7 +10,8 @@ No hay garantía 100% de que se respete esto a rajatabla, pero lo más probable 
 
 '''Con cama matrimonial'''
 
-|| Nombre1 || Nombre2 (que duerme con Nombre1||
+|| Nombre1 || Nombre2 (que duerme con Nombre1) ||
+|| Natalia || Matías ||
 || etc...  || etc...||
 
 
