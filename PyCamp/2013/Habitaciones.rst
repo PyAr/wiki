@@ -17,4 +17,4 @@ No hay garantía 100% de que se respete esto a rajatabla, pero lo más probable 
 '''Camas individuales:'''
 
 ||Persona1||Persona2||Persona3||
-||y así...||...||...||
+||Diego Sarmentero||Horacio Duran||Emilio Ramirez||
