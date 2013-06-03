@@ -22,4 +22,4 @@ No hay garantía 100% de que se respete esto a rajatabla, pero lo más probable 
 ||EmilianoDallaVerdeMarcozzi|| ... ||RobertoAlsina||
 ||JoseMasson||FedericoPeretti||HugoRuscitti||
 ||RicardoKirkner||...||...||
-||y así...||...||...||
+||DanielMoisset||JuanFisanotti||FranciscoCapdevilla||
