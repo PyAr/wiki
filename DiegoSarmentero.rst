@@ -9,7 +9,7 @@ En otras palabras:
 
  * Blog: http://diegosarmentero.com.ar
  * NINJA-IDE Página Oficial: http://ninja-ide.org
- * NINJA-IDE Source Code: http://code.google.com/p/ninja-ide/
+ * NINJA-IDE Source Code: https://github.com/ninja-ide/ninja-ide
  * Twitter: http://twitter.com/diegosarmentero
 
 Email: <<diego.sarmentero (At) gmail.com>>
