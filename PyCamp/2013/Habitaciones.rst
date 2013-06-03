@@ -21,5 +21,5 @@ No hay garantía 100% de que se respete esto a rajatabla, pero lo más probable 
 ||DiegoSarmentero||Horacio Duran||Emilio Ramirez||
 ||EmilianoDallaVerdeMarcozzi|| ... ||RobertoAlsina||
 ||JoseMasson||FedericoPeretti||HugoRuscitti||
-||RicardoKirkner||...||...||
+||RicardoKirkner||FacundoBatista||...||
 ||DanielMoisset||JuanFisanotti||FranciscoCapdevila||
