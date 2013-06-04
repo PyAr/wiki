@@ -23,3 +23,4 @@ No hay garantía 100% de que se respete esto a rajatabla, pero lo más probable 
 ||JoseMasson||FedericoPeretti||HugoRuscitti||
 ||RicardoKirkner||FacundoBatista||...||
 ||DanielMoisset||JuanFisanotti||FranciscoCapdevila||
+||LuisThur||EstefaniaRollino||AnahiJofre||
