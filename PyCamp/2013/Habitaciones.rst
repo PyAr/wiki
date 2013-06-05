@@ -25,4 +25,4 @@ No hay garantía 100% de que se respete esto a rajatabla, pero lo más probable 
 ||DanielMoisset||JuanFisanotti||FranciscoCapdevila||
 ||LuisThur||EstefaniaRollino||AnahiJofre||
 ||DiegoMascialino||JoaquinSorianello||alecu||
-||ManuelQuiñones|| || ||
+||ManuelQuiñones|| HernanLozano || ||
