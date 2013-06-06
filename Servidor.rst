@@ -19,8 +19,9 @@
 == Migración de los sitios pycon ==
 
  * Funcionando sobre mod-wsgi, bajo el usuario www-pycon
- * Sobre Python2.6, supongo que algún error de sintaxis.
- * El sitio de 2012 estaba desactivado (SUSPEND_SERVICE = True)
+ * Sobre Python2.6 porque sobre Python2.7 no levantaba, supongo que algún error de sintaxis.
+ * El sitio de 2012 estaba desactivado (SUSPEND_SERVICE = True en applications/2012/models/0.py)
+ * Reconstrucción de todas las apps.
 
 == Migración de las listas (Mailman) ==
 
