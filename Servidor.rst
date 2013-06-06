@@ -10,7 +10,7 @@
 
 == Migración de la Moin ==
 
- * Funcionando sobre mod-wsgi
+ * Funcionando sobre mod-wsgi, bajo el usuario www-pyar
  * Sobre Python2.6 por los sitios de pycon (supongo que algún error de
    sintaxis)
  * Sed rule sobre moin_static182 to moin_static
@@ -18,7 +18,7 @@
 
 == Migración de los sitios pycon ==
 
- * Funcionando sobre mod-wsgi
+ * Funcionando sobre mod-wsgi, bajo el usuario www-pycon
  * Sobre Python2.6, supongo que algún error de sintaxis.
  * El sitio de 2012 estaba desactivado (SUSPEND_SERVICE = True)
 
