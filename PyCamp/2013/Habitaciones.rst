@@ -12,7 +12,7 @@ No hay garantía 100% de que se respete esto a rajatabla, pero lo más probable 
 
 || Nombre1 || Nombre2 (que duerme con Nombre1) ||
 || Natalia || Matías ||
-|| etc...  || etc...||
+|| LucíaPrado || LucasChiesa ||
 
 
 '''Camas individuales:'''
@@ -27,3 +27,4 @@ No hay garantía 100% de que se respete esto a rajatabla, pero lo más probable 
 ||DiegoMascialino||JoaquinSorianello||alecu||
 ||ManuelQuiñones|| HernanLozano || ||
 ||ElvioToccalino||Gisele Scacchi||Paloma Suarez Hernando||
+||SantiagoPiccinini||Joaquín de Andres|| ||
