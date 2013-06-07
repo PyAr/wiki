@@ -38,6 +38,7 @@
  * FacundoBatista
  * Roberto Alsina
  * HoracioDuran
+ * MarianoGuerra
 
 (seguro me olvido de alguno)
 
