@@ -173,15 +173,15 @@ La idea es aprovechar el audio separador entre contenido y publicidad (el que di
 El problema a resolver es: Dado un audio corto encontrar los momentos en los que aparece en un audio largo. Luego puede integrarse a audacity o ffmpeg para acortar.
 
 Para esto se pueden usar distintas técnicas, en prinicpio se me ocurre:
-* En el dominio del tiempo haciendo un Filtro Adaptado ( http://en.wikipedia.org/wiki/Matched_filter )
-* En frecuencias utilizando algo del estilo de http://en.wikipedia.org/wiki/Mel-frequency_cepstrum
+ * En el dominio del tiempo haciendo un Filtro Adaptado ( http://en.wikipedia.org/wiki/Matched_filter )
+ * En frecuencias utilizando algo del estilo de http://en.wikipedia.org/wiki/Mel-frequency_cepstrum
 
 ''Propone DiegoMascialino''
 
 === Trabajar en Shiva ===
 
-Shiva https://github.com/tooxie/shiva-server es un proyecto para organizar tu música y exponer una api REST, y algunas cosas mas... lo comentaron en la lista hace unos meses.
-Yo todavía no lo uso, pero me parece un buen momento para meterle mano
+Shiva ( https://github.com/tooxie/shiva-server ) es un proyecto para organizar tu música y exponer una api REST, y algunas cosas mas... lo comentaron en la lista hace unos meses.
+Yo todavía no lo uso, pero me parece un buen momento para meterle mano.
 
 Mejorar la parte de lyrics:
  * Agregarle algunos scrapers
