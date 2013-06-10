@@ -251,3 +251,12 @@ http://www.youtube.com/watch?v=89giezKWgJE
 
 
 ''Propone: HugoRuscitti''
+
+=== Juegos electromecánicos: POV Hexagon ===
+
+Estoy buscando algún juego sencillo que pueda usar como pantalla una rueda de bicicleta con una hilera de leds, algo similar a: http://www.ladyada.net/make/spokepov/
+
+Mi idea durante pycamp es armar la base de un clon de Super Hexagon que pueda funcionar en una raspberry pi teniendo como salida dicha pantalla.
+
+
+''Propone: alecu''
