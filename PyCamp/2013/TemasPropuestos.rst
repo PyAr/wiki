@@ -8,12 +8,6 @@ Estas son propuestas, en el PyCamp el primer día se hace una votación para ele
 
 ''Propone: fisa''
 
-=== Mejorar integración Vim+Python ===
-
-vim permite escribir plugins en python, pero el sistema que tiene para hacerlo casi que da pena. Podríamos intentar crear algo mejor, construído por sobre lo que vim da 
-
-''Propone: fisa''
-
 === NINJA-IDE ===
 
 Trabajar en poder acercar mas a nuevos desarrolladores al codigo de ninja (http://ninja-ide.org) para crecer la comunidad de desarrolladores en Argentina (donde nacio este proyecto), y buscar de arreglar bugs, desarrollar alguna que otra feature y tirar ideas entre los presentes de cual podria ser el futuro de ninja y las features claves a tratar.
