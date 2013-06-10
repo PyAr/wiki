@@ -254,3 +254,10 @@ Mi idea durante pycamp es armar la base de un clon de Super Hexagon que pueda fu
 
 
 ''Propone: alecu''
+
+=== Stop drawing dead fish ===
+
+Bret Victor tiene geniales ideas para las interfaces de usuario. Por ejemplo: http://vimeo.com/64895205
+Estaría bueno hacer un ide para pilas similar a ese, de manera de poder crear animaciones y comportamientos que se puedan re-usar desde otros juegos hechos con pilas.
+
+''Propone: alecu'''
