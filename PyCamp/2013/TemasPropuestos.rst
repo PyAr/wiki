@@ -260,4 +260,26 @@ Mi idea durante pycamp es armar la base de un clon de Super Hexagon que pueda fu
 Bret Victor tiene geniales ideas para las interfaces de usuario. Por ejemplo: http://vimeo.com/64895205
 Estaría bueno hacer un ide para pilas similar a ese, de manera de poder crear animaciones y comportamientos que se puedan re-usar desde otros juegos hechos con pilas.
 
-''Propone: alecu'''
+''Propone: alecu''
+
+=== Pimp my Hexapod ===
+
+Para mi tesis de grado estoy haciendo un hexapod que se llama Diloboderus. El soft corre en una Beagleboard C4 y claramente esta en python. Esta andando pero fue escrito un poco a los ponchasos y me gustaría tunearlo.
+
+En este momento estoy utilizando:
+ * OpenGl para la interfaz gráfica del simulador
+ * Socket TCP pelados para la comunicacion entre procesos (gracias a esto los proceso pueden correr en distintas máquinas)
+ * SimpleUI para la interfaz de usuario (Lo use en un inicio del proyecto, ahora no hay interfaz más que la linea de comando)
+ * SciPy para las cuentas
+ * Threading para separar los calculos en distintos hilos utilizando colas para intercomunicarlos
+
+Me gustaria cambiar:
+ * Los sockets por ØMQ para simplificar la comunicación entre servidor y clientes
+ * Threading por Multiprocessing para tener procesos realmente en paralelo (esto hay que evaluarlo por que en realidad en la Beagle solo hay un procesador)
+ * Mejorar el programa con las opiniones de los Guru que estarán precentes :)
+ * Algo más que me estoy olvidando
+
+Algunos videos:
+https://www.youtube.com/user/elxcancerberox/videos
+
+''Propone: Joaquin aka cancerbero''
