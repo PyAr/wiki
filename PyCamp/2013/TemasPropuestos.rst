@@ -191,3 +191,11 @@ Mejorar la parte de lyrics:
  * Soporte para guardar la información en los tags de los archivo. Para poder agregarle la información obtenida a cada mp3, para visualizarla cuando se reproduce el archivo en un teléfono o ipod.
 
 ''Propone DiegoMascialino''
+
+=== Beam: editor de texto por consola ===
+
+La idea es hacer un editor de texto básico como el notepad pero por consola e inspirado en vim. De vim se toma la idea de tener varios modos/estados para interactuar, y lo de ser básico es para que sea muy customizable mediante plugins. Los plugins serían eggs instalables con pip y configurables en un settings.py (similar al .vimrc) que se puede versionar y compartir en un repo.
+Tengo un archivo beam.py que ya cuenta con el modo comando y modo inserción y permite editar un archivo y guardarlo. Estoy usando la librería urwid hecha en python (y bastante pythonica) para el dibujado de la consola. Pero falta definir mejor la arquitectura del editor.
+'''Propuesta:''' llegar a una version 0.1 que funcione(?), tenga las bases para integrarse con plugins y si queda tiempo, escribir algunos plugins.
+
+''Propone HernanLozano''
