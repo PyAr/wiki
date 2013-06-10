@@ -50,7 +50,7 @@ La próxima edición [[PyCamp/2013|está en marcha]], pendiente de suficientes c
  * Python Software Fundation: http://pythonsprints.com/2011/03/25/sponsoring-pycamp-argentina/
  * FacundoBatista: http://www.taniquetil.com.ar/plog/post/1/506
  * MateoBengualid: http://aplacetospillmybraininto.blogspot.com/2011/03/fui-al-pycamp-2011.html
- * EzequielMarquez: http://www.ezequielmarquez.com.ar/2013/05/pycamp-2011.html
+ * EzequielMarquez: http://www.ezequielmarquez.com.ar/2011/03/pycamp-2011.html
  * MartinGaitan: http://nqnwebs.com/blog/article/apuntes-del-pycamp-2011
  * MarcosVanetta: http://blog.malev.com.ar/2011/03/31/pycamp-2011/
  * HugoRuscitti: http://www.examplelab.com.ar/personal/2011-03-30-python_pycamp_2011.rst
