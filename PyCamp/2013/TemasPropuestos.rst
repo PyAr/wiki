@@ -199,3 +199,55 @@ Tengo un archivo beam.py que ya cuenta con el modo comando y modo inserción y p
 '''Propuesta:''' llegar a una version 0.1 que funcione(?), tenga las bases para integrarse con plugins y si queda tiempo, escribir algunos plugins.
 
 ''Propone HernanLozano''
+
+
+=== Python en las escuelas con pilas-editor ===
+
+Queremos acercar la posibilidad de aprender programación a los mas jóvenes de las escuelas:
+
+http://www.pilas-editor.com.ar
+
+Pero antes de comenzar a golpear puertas, la idea es mejorar el prototipo del editor online para programar videojuegos, mejorar el soporte para python y pilas en javascript.
+
+El proyecto es todo un desafío técnico y creativo, una oportunidad copada de hacer algo 'heavy', pero factible: python completamente en el navegador, diseñar un IDE, videojuegos, tutoriales online etc...
+
+''Propone: HugoRuscitti''
+
+=== Taller sobre webapps AngularJS ===
+
+Vamos a ver cómo construir webapps de manera práctica, usando un enfoque nuevo y simple.
+
+Usaremos herramientas como angularjs (para la interacción con el usuario), Flask como proveedor de datos json, y socketio con d3 para lograr gráficas en tiempo real.
+
+Pienso que puede ser un taller interesante para conversar sobre arquitecturas de aplicaciones web, encontrar una forma mas sencilla de hacer interacciones complejas y amigarnos con javascript (no es tan feo honestamente...)
+
+ * [[http://angularjs.org/|web de angularjs]].
+ * [[http://d3js.org/|web de d3]].
+
+''Propone: HugoRuscitti''
+
+
+
+===  Proyección de: Indie Game The Movie ===
+
+La idea es ver juntos un documental sobre video juegos independientes, en donde muestran los desafíos, altibajos y visión del mundo de 4 desarrolladores admirables:
+
+http://www.youtube.com/watch?v=5RjRb88XFL0
+
+Para darse una idea de los tipos de juegos que se consideran indie ver:
+
+http://www.youtube.com/watch?v=uqtSKkyJgFM
+
+''Propone: HugoRuscitti''
+
+
+=== Taller sobre como hacer un videjuego con pilas-engine ===
+
+La propuesta es hacer un juego sencillo paso a paso, contar algunos 'trucos' en la construcción de un juego y algunos patrones de diseño bien prácticos para no volverse loco haciendo un juego (o no tan loco).
+
+Comenzaríamos desde cero, no hace falta haber hecho juegos, vamos a hacer algo bien sencillo como lo siguiente:
+
+http://www.youtube.com/watch?v=89giezKWgJE
+
+
+''Propone: HugoRuscitti''
