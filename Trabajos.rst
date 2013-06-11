@@ -1,7 +1,6 @@
 = Trabajos con Python =
 
 == 2013 ==
- * (03/06/2013) (Python/Django) Somos una compañía estadounidense con inversores internacionales. Nuestro proyecto principal es un juego de Facebook próximo a ser lanzado. Como serás la persona más experimentada en Django de toda la empresa tu responsabilidad será mejorar la infraestructura. La línea correcta de código puede mejorar enormemente la experiencia de los usuarios. Contamos además con un servidor en tiempo real hecho en python, una de tus primeras tareas será mejorarlo para que soporte mucha carga y de esa manera todos puedan ver el poder de python. Nuestro lema de trabajo es "things must look nice and work properly", si estás de acuerdo te queremos adentro, y además si tenés proyectos en mente te ayudamos a darles forma y llevarlos a cabo. Estamos por abrir oficinas en Bs As asique hay espacio para crecer iykwim. <<MailTo(dnuske EN gmail PUNTO com)>>
 
  * (30/05/2013) Buscamos capacitador para dictar curso introductorio de Python a un equipo de Testers, modalidad "in-company", zona Barracas - CABA. El curso debería ser de 3 a 6 clases de 2/3 horas cada una y el objetivo del mismo es que los participantes comprendan los principios del lenguaje para poder aplicarlo a un proyecto de automatización de pruebas que utiliza un framework escrito en Python. Es deseable que el instructor tenga conocimiento de JAVA. Interesados contactar a Alejandro Marcos a <<amarcos EN boldt PUNTO com PUNTO ar>> Ref: Capacitador Python      
 
