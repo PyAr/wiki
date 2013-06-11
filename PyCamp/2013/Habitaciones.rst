@@ -27,4 +27,4 @@ No hay garantía 100% de que se respete esto a rajatabla, pero lo más probable 
 ||DiegoMascialino||JoaquinSorianello||alecu||
 ||ManuelQuiñones|| HernanLozano || ||
 ||ElvioToccalino||Gisele Scacchi||Paloma Suarez Hernando||
-||SantiagoPiccinini||Joaquín de Andres|| ||
+||SantiagoPiccinini||Joaquín de Andres|| NicoEchaniz ||
