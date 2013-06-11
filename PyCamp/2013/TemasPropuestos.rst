@@ -98,9 +98,10 @@ Me gustaría hacer foco en:
 
 ''Propone: FacundoBatista''
 
-=== RestoPY ===
+=== PyMyAdmin ===
 
-Django para restaurantes y bares (https://bitbucket.org/edvm/restopy/). Es un sistema simple que utiliza el admin de django para gestionar los productos que se venden, las bebidas, el stock, los empleados y sus horarios, las reservas, etc ... Faltan implementar módulos en la parte gestión e implementar las vistas del resto del sistema (las vistas que van a utilizar los mozos, el login, etc ).
+Un 'phpMyAdmin' pero usando Flask, SAW, Twitter Bootstrap y javascript? Pero que no solo soporte MySQL, sino también
+Oracle, PostgreSQL, Firebird, SQLite, etc? 
 
 ''Propone: Emiliano Dalla Verde Marcozzi''
 
