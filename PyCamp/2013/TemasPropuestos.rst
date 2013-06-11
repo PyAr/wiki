@@ -267,8 +267,8 @@ Estaría bueno hacer un ide para pilas similar a ese, de manera de poder crear a
 Para mi tesis de grado estoy haciendo un hexapod que se llama Diloboderus. El soft corre en una Beagleboard C4 y claramente esta en python. Esta andando pero fue escrito un poco a los ponchasos y me gustaría tunearlo.
 
 En este momento estoy utilizando:
- * OpenGl para la interfaz gráfica del simulador
- * Socket TCP pelados para la comunicacion entre procesos (gracias a esto los proceso pueden correr en distintas máquinas)
+ * OpenGL para la interfaz gráfica del simulador
+ * Socket TCP pelados para la comunicacion entre procesos (gracias a esto los procesos pueden correr en distintas máquinas)
  * SimpleUI para la interfaz de usuario (Lo use en un inicio del proyecto, ahora no hay interfaz más que la linea de comando)
  * SciPy para las cuentas
  * Threading para separar los calculos en distintos hilos utilizando colas para intercomunicarlos
@@ -276,7 +276,7 @@ En este momento estoy utilizando:
 Me gustaria cambiar:
  * Los sockets por ØMQ para simplificar la comunicación entre servidor y clientes
  * Threading por Multiprocessing para tener procesos realmente en paralelo (esto hay que evaluarlo por que en realidad en la Beagle solo hay un procesador)
- * Mejorar el programa con las opiniones de los Guru que estarán precentes :)
+ * Mejorar el programa con las opiniones de los Guru que estarán presentes :)
  * Algo más que me estoy olvidando
 
 Algunos videos:
@@ -297,3 +297,18 @@ La idea es desarrollar un sitio en Django que permita seguir series, con la resp
 Buscar y resolver bugs. Ayudar a los que quieran aportar sus primeros parches.
 
 ''Propone: matiasb''
+
+=== Urna electrónica para PyCon y PyCamps futuros ===
+
+La selección de charlas para PyCon y de temas propuestos para PyCamp la venimos haciendo bastante a mano. Estaría bueno contar con un sistema que permita la votación y que luego busque una buena manera de asignar las aulas y los horarios en base a la cantidad de interesados en cada charla o sesión.
+
+Para esto hacen falta algunas partes:
+ * un sitio web que junte todos los votos en una db
+ * un algoritmo[*] que procese los votos y arme una grilla
+ * otro sitio web que muestre los resultados, y el calendario de charlas a asistir para cada votante
+
+La idea es usar esta app para PyCon 2013, asi que vendría bien su ayuda.
+
+[*] No tengo idea que tipo de algoritmo. Programación dinámica? Lógica difusa? Imbecilizaje por debilitamiento? Uds cuentenmé.
+
+''Propone: alecu''
