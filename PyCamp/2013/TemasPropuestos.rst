@@ -298,7 +298,7 @@ Buscar y resolver bugs. Ayudar a los que quieran aportar sus primeros parches.
 
 ''Propone: matiasb''
 
-=== Urna electrónica para selección de charlas y temas para PyCon y PyCamp ===
+=== Web para selección de charlas y temas para PyCon y PyCamp ===
 
 La selección de charlas para PyCon y de temas propuestos para PyCamp la venimos haciendo bastante a mano. Estaría bueno contar con un sistema que permita la votación y que luego busque una buena manera de asignar las aulas y los horarios en base a la cantidad de interesados en cada charla o sesión.
 
