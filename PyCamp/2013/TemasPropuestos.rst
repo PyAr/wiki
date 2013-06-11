@@ -283,3 +283,17 @@ Algunos videos:
 https://www.youtube.com/user/elxcancerberox/videos
 
 ''Propone: Joaquin aka cancerbero''
+
+
+=== Qué salió anoche ===
+
+La idea es desarrollar un sitio en Django que permita seguir series, con la respectiva metadata (también de temporadas y episodios), la posibilidad de obtener links a torrents y subtítulos, calendario/agenda por usuario. Quizás extenderlo a películas. Algo parecido a http://espoilertv.com, o lo que empezó DiegoSarmentero con http://www.tvstalker.tv/.
+
+''Propone: matiasb''
+
+
+=== Bug fixing en Django ===
+
+Buscar y resolver bugs. Ayudar a los que quieran aportar sus primeros parches.
+
+''Propone: matiasb''
