@@ -3,9 +3,9 @@
 
 == Nicolás Echániz ==
 
-http://www.nicoechaniz.com.ar
+http://www.altermundi.net
 
-Email: <<MailTo(nico AT SPAMFREE rakar DOT com)>>
+Email: <<MailTo(nicoechaniz AT SPAMFREE altermundi DOT net)>>
 
 ----
 CategoryHomepage
