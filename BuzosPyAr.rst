@@ -64,3 +64,15 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Javier Pepe ||XL ||Buenos Aires - Hurlingham ||Si ||
 ||Tim Zenderman||M|| ||Si||
 ||José Luis Dallapiccola||XL||Neuquén (a enviar por alguien)||Si||
+
+'''Fotos del producto terminado!'''
+
+{{attachment:1.jpg}}
+
+{{attachment:2.jpg}}
+
+{{attachment:3.jpg}}
+
+{{attachment:4.jpg}}
+
+{{attachment:5.jpg}}
