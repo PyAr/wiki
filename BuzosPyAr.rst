@@ -67,12 +67,12 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 
 '''Fotos del producto terminado!'''
 
-{{attachment:1.jpg}}
+{{attachment:1.JPG}}
 
-{{attachment:2.jpg}}
+{{attachment:2.JPG}}
 
-{{attachment:3.jpg}}
+{{attachment:3.JPG}}
 
-{{attachment:4.jpg}}
+{{attachment:4.JPG}}
 
-{{attachment:5.jpg}}
+{{attachment:5.JPG}}
