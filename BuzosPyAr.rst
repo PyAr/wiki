@@ -52,7 +52,7 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 ||Jairo Trad ||XXL ||Córdoba ||Si ||
 ||Andrés Riancho ||XL || ||Si ||
 ||Pato Gómez ||XL ||La busco en el pyday de Junin ||Si ||
-||Francisco J Capdevila ||XL ||Córdoba ||Si ||
+||Francisco J Capdevila ||XL ||Córdoba - lo busco en el PyCamp ||Si ||
 ||Emiliano Dalla Verde Marcozzi ||XXL || ||Si ||
 ||Robbie ||M || ||Si ||
 ||Florencia Mincucci ||S || ||Si ||
