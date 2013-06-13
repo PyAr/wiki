@@ -25,6 +25,6 @@ No hay garantía 100% de que se respete esto a rajatabla, pero lo más probable 
 ||DanielMoisset||JuanFisanotti||FranciscoCapdevila||
 ||LuisThur||EstefaniaRollino||AnahiJofre||
 ||DiegoMascialino||JoaquinSorianello||alecu||
-||ManuelQuiñones|| HernanLozano || ||
+||ManuelQuiñones|| HernanLozano || Filly ||
 ||ElvioToccalino||Gisele Scacchi||Paloma Suarez Hernando||
 ||SantiagoPiccinini||Joaquín de Andres|| NicoEchaniz ||
