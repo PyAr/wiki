@@ -23,7 +23,7 @@ No hay garantía 100% de que se respete esto a rajatabla, pero lo más probable 
 ||EmilianoDallaVerdeMarcozzi|| LeandroPoblet ||RobertoAlsina||
 ||JoseMasson||FedericoPeretti||HugoRuscitti||
 ||RicardoKirkner||FacundoBatista||LucioTorre||
-||DanielMoisset||JuanFisanotti||FranciscoCapdevila||
+||MarianoVerdu||JuanFisanotti||FranciscoCapdevila||
 ||LuisThur||EstefaniaRollino||AnahiJofre||
 ||DiegoMascialino||JoaquinSorianello||alecu||
 ||ManuelQuiñones|| HernanLozano || Filly ||
