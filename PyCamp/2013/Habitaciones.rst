@@ -29,3 +29,4 @@ No hay garantía 100% de que se respete esto a rajatabla, pero lo más probable 
 ||ManuelQuiñones|| HernanLozano || Filly ||
 ||SantiagoPiccinini||Joaquín de Andres|| NicoEchaniz ||
 ||EzequielPochiero||MarcoRedondo||RamiroTrovant||
+||TimZenderman||||||
