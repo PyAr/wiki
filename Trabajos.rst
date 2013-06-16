@@ -1,6 +1,8 @@
 = Trabajos con Python =
 
 == 2013 ==
+ * (16/06/2013) Estamos buscando un desarrollador con experiencia en screen scraping/web crawling y que preferentemente sepa usar scrapy. Interesados comunicarse a: <<rod0n ARROBA live PUNTO com PUNTO ar>>
+
  * (14/06/2013) Somos un colegio de educación media de la Capital Federal y estamos buscando presupuesto por una capacitación en '''Python, Django y PostreSQL'''. Nuestra intención es capacitar a 4 de nuestros miembros del departamento de sistemas para hacer un desarrollo propio. La modalidad debería ser en on-site, semanal y con el objeto de obtener al fin de la capacitación el desarrollo. Estimamos en principio unas 20/30hs de capacitación a medida pero esto se puede adaptar de acuerdo a las necesidades. Comunicarse a: <<colomboleandro ARROBA pioix PUNTO edu PUNTO ar>>
 
  * (12/06/2013) '''Experto''' PLONE/ZOPE en CABA, cv a rrhh@naltu.com. Para desarrollo y mantenimiento de portales y sus interfaces con sistemas internos. Solo con EXPERIENCIA comprobable en portales PLONE.
