@@ -324,3 +324,32 @@ Entre otras cosas estaría bueno que implemente:
  * Reemplazo de la herramienta propietaria Kindlegen por Calibre o similares
 [1] https://github.com/sh4r3m4n/kindle-ttrss
 ''propone Matías Lang''
+
+=== Mejorar Ojota ===
+Ojota[0] es una base de datos flat file que desarrollamos en MSA y liberamos y reescribimos el el pycamp pasado. Este año la idea es mejorarlo y agregarle funcionalidad.
+Ideas:
+* mejorar el orden por default, que no funciona demasiado bien.
+* agregar opcion para que se precachee la data en memoria automaticamente cuando se importa la clase o aunque sea que haya un comando de cacheo
+* agregar capacidad para devolver representaciones en json para el set de datos
+[0] http://ojota.rtfd.org
+''Propone: FelipeLerena''
+
+=== Mejorar Havaiana ===
+havaiana[0] es una gui web "magica" para Ojota[1] Genera un ABM magico para todos los sets de datos y permite graficar facilmente los datos en cuestion. Surgio como una idea cuando me di cuenta de lo util que es ojota para prototipar.
+
+Ideas:
+* mejorar el tema de los graficos.
+* hacer que se pueda servir tipo web service la data en json de las fuentes, para poder usarlo como back end de proyectos web.
+* añadir autenticacion.
+* Mejorar los datos que se muestran en la pantalla principal de cada clase para que sea una grilla en vez de una lista y que sea configurable.
+* ver de agregarle paginado a la lista de elementos.
+
+[0] http://havaiana.rtfd.org
+[1] http://ojota.rtfd.org
+
+''Propone: FelipeLerena''
+
+
+=== hackeando desde el aire ===
+Tengo un AR Drone y lo llevo, la idea es hacer cosas copadas para eso.
+''Propone: FelipeLerena''
