@@ -313,3 +313,14 @@ La idea es usar esta app para PyCon 2013, asi que vendría bien su ayuda.
 [*] No tengo idea que tipo de algoritmo. Programación dinámica? Lógica difusa? Imbecilizaje por debilitamiento? Uds cuentenmé.
 
 ''Propone: alecu''
+
+=== kindle-ttrss ===
+Dado el cercano cierre de Google Reader, busqué alternativas libres y la mejor que encontré fue Tiny-Tiny-RSS, que es bastante similar.
+Mi idea es mejorar un script bastante simple[1] que hice para que nos permita exportar los elementos no leídos y convertirlos a un fichero PDF, EPUB o MOBI para mejorar la lectura en ebook readers.
+Entre otras cosas estaría bueno que implemente:
+ * Mejora de la interfaz: Actualmente son tres script que se corren desde la shell, se podría hacer algo más gráfico
+ * Envío de documentos remotamente mediante el protocolo SCP 
+ * Enviado de documentos por email (exclusivo para el Kindle)
+ * Reemplazo de la herramienta propietaria Kindlegen por Calibre o similares
+[1] https://github.com/sh4r3m4n/kindle-ttrss
+''propone Matías Lang''
