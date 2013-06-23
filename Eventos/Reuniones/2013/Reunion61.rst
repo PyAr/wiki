@@ -20,6 +20,7 @@ Villa Giardino, Córdoba, durante el PyCamp
 === Minuta ===
 
 Cosas positivas del 2013, a repetir en la próxima PyCamp:
+
 * La temperatura en el área de trabajo era agradable.
 * Hubo muchas carasa nuevas, exactamente 23 (¡más de la mitad!), de los cuales 5 eran becados.
 * Buen servicio de catering... aunque la comida no fue de tan buena calidad.
@@ -27,6 +28,7 @@ Cosas positivas del 2013, a repetir en la próxima PyCamp:
 * Los miembros con más experiencia "apadrinaron" las primeras horas de los proyectos con más participantes principiantes en la PyCamp. 
 
 Cosas negativas del 2013, a evitar en la próxima PyCamp:
+
 * En el área de trabajo había mucho olor... si.
 * Compartir el área de comedor y reunión con otros habitantes / pasajeros.
 * No tener un mirror de PyPI ni un apt-cacher, para emparejar la mala conexión.
@@ -37,6 +39,7 @@ Cosas negativas del 2013, a evitar en la próxima PyCamp:
 
 
 Otros temas tratados en la PyCamp:
+
 * fisa se compromete al IRC server
 * la red de Nico
 * 24 y 25 de Octubre PyConAR
