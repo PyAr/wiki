@@ -16,4 +16,4 @@
 === Lugar ===
 Villa Giardino, Córdoba, durante el PyCamp
 
-=== Minuta ====
+=== Minuta ===
