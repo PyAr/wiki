@@ -1,9 +1,16 @@
 = PyCamp 2013 =
 
-== Que se hace en un PyCamp ==
+== El PyCamp ya pasó ==
 
-[[PyCamp/QueSeHace|Que se hace en un PyCamp]]
+En este PyCamp hicimos un montón de cosas que [[PyCamp/2013/TemasPropuestos|están anotadas acá]] y un montón de cosas más.
 
+El último día hicimos una presentación de todo, próximamente se mostrará el video.
+
+Estas son las fotos:
+
+ * Link 1
+ * Link 2
+ * etc
 
 == Fecha ==
 
