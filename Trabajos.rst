@@ -1,6 +1,9 @@
 = Trabajos con Python =
 
 == 2013 ==
+
+ * (24/06/2013) Busco programador python freelance, con algo de experiencia en Django, html, css y javascript. Tengo varios proyectos. Interesados, mandar CV a <<MailTo(diegolis EN gmail PUNTO com)>>
+
  * (18/06/2013) (Python/Django) Somos una compañía estadounidense con inversores internacionales. Nuestro proyecto principal es un juego de Facebook próximo a ser lanzado. Como serás la persona más experimentada en Django de toda la empresa tu responsabilidad será mejorar la infraestructura. La línea correcta de código puede mejorar enormemente la experiencia de los usuarios. Contamos además con un servidor en tiempo real hecho en python, una de tus primeras tareas será mejorarlo para que soporte mucha carga y de esa manera todos puedan ver el poder de python. Nuestro lema de trabajo es "things must look nice and work properly", si estás de acuerdo te queremos adentro, y además si tenés proyectos en mente te ayudamos a darles forma y llevarlos a cabo. Estamos por abrir oficinas en Bs As asique hay espacio para crecer iykwim. dnuske@gmail.com
 
  * (16/06/2013) Estamos buscando un desarrollador con experiencia en screen scraping/web crawling y que preferentemente sepa usar scrapy. Interesados comunicarse a: <<rod0n ARROBA live PUNTO com PUNTO ar>>
