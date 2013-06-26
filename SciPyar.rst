@@ -11,7 +11,7 @@ Tenemos una lista de correo pública en [[https://groups.google.com/forum/?fromg
 
  * '''Introducción a Python Científico''', Damián Ávila [[http://damianavila.github.com/Python_Cientifico|Presentación]] | [[https://github.com/damianavila/Python_Cientifico|Fuentes]]
 
- * '''Numpy + Scipy''', Facundo Batista [[http://tools.assembla.com/svn/homedevel/presents/numsci.pdf|Presentación]] | [[http://tools.assembla.com/svn/homedevel/presents/numsci/|Fuentes]]
+ * '''Numpy + Scipy''', Facundo Batista [[http://www.taniquetil.com.ar/homedevel/presents/numsci.pdf|Presentación]] | [[http://www.taniquetil.com.ar/homedevel/presents/numsci/|Fuentes]]
 
 
 == Proyectos de interés ==
