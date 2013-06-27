@@ -39,6 +39,7 @@
  * HoracioDuran
  * HugoRuscitti
  * IgnacioFiandrino 
+ * JairoTrad
  * JavierCastrillo
  * JaviMansilla
  * JoaquinSorianello
