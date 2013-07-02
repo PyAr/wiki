@@ -19,7 +19,7 @@
 
 
 ##[[http://python.org.ar/pyar/CharlasAbiertas2010|{{attachment:banner_charlas_abiertas.png}}]]
-<<Twitter(usuario="planetapyar")>>
+## <<Twitter(usuario="planetapyar")>> API sin auth deprecada en twitter
 
 
 == Contenido ==
