@@ -260,7 +260,9 @@ MapeandoMemoria: Cómo generar un mapa de la memoria con heapy
 
 == Python en Apache OpenOffice / LibreOffice ==
 [[/pyUNO/HolaMundo]]: Hola Mundo
+
 [[/pyUNO/MiPrimerMacro]]: Mi primer macro
+
 
 == Crypto ==
 
