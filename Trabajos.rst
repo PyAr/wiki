@@ -2,6 +2,35 @@
 
 == 2013 ==
 
+
+  * (04/07/2013) Start up (busca programador).
+
+Hace 2 meses lanzamos entre mi socio y yo un producto mínimo viable. Logramos recaudar 667 dolares en 3 países de Latino América con una base de datos de 800 correos electrónicos en un modelo escalable (sin publicidad). Estamos en fase de consolidación del proyecto y deseamos involucrar un SOCIO (cofundador) programador.
+
+¿Qué buscamos?
+
+Desarrollador web python. 
+
+Preferencias aunque no exclusividad: Django, bootstrap, manejo de backend y front-end y si es posible (maquetación). Sin embargo no damos tanta relevancia a los conocimientos como a la capacidad de emprender.
+
+¿Qué ofrecemos?
+
+Desde el 5% hasta el 12% de propiedad de la empresa.
+Salario entre 600usd y 1000usd  una vez conseguido inversionista. (Actualmente en conversaciones con 2 con fuertes Vinculos en California)
+Nota: Desearíamos proponer más. pero solo somos emprendedores en serie con recursos limitados.
+
+Lo que no ofrecemos
+No ofrecemos una zona de Confort.
+No pedimos part time, ni full time, queremos un full live (el inversionista siempre busca que si su startup fracasa, él quiere que el emprendedor fracase con él).
+No garantizamos el éxito, pero garantizamos un nicho de mercado por explotar y técnicamente probado.
+No ofrecemos confianza inmediata. Ofrecemos un proceso de conocimiento mutuo que alimente la confianza.
+Nuestro objetivo laboral principal no es hacer dinero, es emprender, es innovar, es ayudar a otros. Es buscar la felicidad también en nuestro trabajo por lo que hacemos y no por lo que logremos.
+No ofrecemos una "oferta de trabajo", ofirecemos una "opción de vida".
+Algún(a) interesado(a) agregar usuario skype: jjcruzt 
+
+Abrazos a la comunidad python. 
+
+
  * (25/06/2013) Si queres trabajar con las ultimas tecnologías y con investigadores de seguridad (hackers) no dudes en enviarnos tu CV a <<careers EN onapsis PUNTO com>> Ref: PDSR04.
 
  * (24/06/2013) Busco programador python freelance, con algo de experiencia en Django, html, css y javascript. Tengo varios proyectos. Interesados, mandar CV a <<diegolis ARROBA gmail PUNTO com>>
@@ -65,4 +94,6 @@
 
  * (08/11/2012) En [[http://www.onapsis.com|Onapsis]] estamos incorporando Pythonianos a nuestro equipo en Bs As! Si te gusta trabajar en un ambiente relajado con plataformas libres y en tecnologías novedosas quizás te interese escuchar un poco más lo que tenemos para contarte!! postulate enviando tu cv a  <<MailTo(careers EN onapsis PUNTO com)>>.
 
- * (01/11/2012) Pythonista, te quedan algunas horitas freelance para dedicar a Phasety ? Es una flamante empresa incubada por la Universidad Nacional de Córdoba, apuntando al desarrollo de software científico para la industria del petróleo. Mejor si tenés conocimientos de WxPython y Django. <<MailTo(gaitan EN phasety 
+ * (01/11/2012) Pythonista, te quedan algunas horitas freelance para dedicar a Phasety ? Es una flamante empresa incubada por la Universidad Nacional de Córdoba, apuntando al desarrollo de software científico para la industria del petróleo. Mejor si tenés conocimientos de WxPython y Django. <<MailTo(gaitan EN phasety
+----
+CategoryHomepage
