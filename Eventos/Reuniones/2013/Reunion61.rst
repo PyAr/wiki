@@ -7,8 +7,52 @@
  
 
 === Asistentes ===
-||'''Persona''' ||'''Primera vez''' ||
-|| Llenar || No?  ||
+||'''Persona''' ||
+|| Alejandro Cura ||
+|| Alejo Pagadizabal ||
+|| Anahí Jofre ||
+|| Aylen Bombelli (Filly) ||
+|| Diego Mascialino ||
+|| Diego Sarmentero ||
+|| Elvio Rogelio Toccalino ||
+|| Emiliano Dalla Verde Marcozzi ||
+|| Emilio Ramirez ||
+|| Estefania Rollino ||
+|| Ezequiel Pochiero ||
+|| Facundo Batista ||
+|| Felipe Lerena ||
+|| Francisco José Capdevila ||
+|| Gabriel Gramajo ||
+|| Gisele Marisol Scacchi ||
+|| Hernán Lorenzo ||
+|| Horacio Durán  ||
+|| Hugo Ruscitti ||
+|| Jairo Trad ||
+|| Joaquin de Andres ||
+|| Joaquín Sorianello ||
+|| José Massón ||
+|| Juan Carizza ||
+|| Juan Pedro Fisanotti ||
+|| Leandro Nahuel Roque Poblet ||
+|| Leonardo Lazzaro ||
+|| Lucas Chiesa ||
+|| Lucia Prado ||
+|| Lucio Torre ||
+|| Luis Thur ||
+|| Manuel Quiñones ||
+|| Marco Redondo ||
+|| Mariano Verdú ||
+|| Matías Bordese ||
+|| Matías Lang ||
+|| Natalia Bidart ||
+|| Nico Echaniz ||
+|| Ramiro Floydant ||
+|| Ricardo Kirkner ||
+|| Samuel Fabrizio ||
+|| Santiago Piccinninni ||
+|| Tim Zenderman  ||
+
+
 
 === Fecha y Hora ===
  * Sábado 22 de Junio de 2013, 22 hs
