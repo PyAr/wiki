@@ -4,14 +4,7 @@
 
 En este PyCamp hicimos un montón de cosas que [[PyCamp/2013/TemasPropuestos|están anotadas acá]] y varias cosas más.
 
-
----- /!\ '''Edit conflict - other version:''' ----
 El último día hicimos una presentación de todo, [[https://www.youtube.com/watch?v=8kadky7RaXc|acá está el video]].
-
----- /!\ '''Edit conflict - your version:''' ----
-El último día hicimos una presentación de todo, [[https://www.youtube.com/watch?v=8kadky7RaXc|acá está el video]].
-
----- /!\ '''End of edit conflict''' ----
 
 Estas son las fotos:
 
