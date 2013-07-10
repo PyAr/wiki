@@ -2,6 +2,18 @@
 
 == 2013 ==
 
+ * (10/07/2013) Programador BackEnd - iBillionaire
+
+Buscamos un programador con experiencia en la construcción de aplicaciones web. Alguien que construya las API internas y externas de iBillionaire con experiencia en Python, Django y TastyPie (no excluyente).
+
+- Experiencia en el desarrollo de aplicaciones / sitios que utilizan Python
+
+- Experiencia crear REST / JSON API
+
+- Familiaridad con uno o más de los siguientes: redistribución, memcache, nginx,  mysql
+
+Interesados enviar CV o incluir links a trabajos realizados a info @ iBillionaire.me con el subject "BackEnd Dev".
+
 
   * (04/07/2013) Start up (busca programador).
 
