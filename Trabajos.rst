@@ -12,7 +12,7 @@ Buscamos un programador con experiencia en la construcción de aplicaciones web.
 
 - Familiaridad con uno o más de los siguientes: redistribución, memcache, nginx,  mysql
 
-Interesados enviar CV o incluir links a trabajos realizados a info @ iBillionaire.me con el subject "BackEnd Dev".
+Interesados enviar CV o incluir links a trabajos realizados a raul@iBillionaire.me con el subject "BackEnd Dev".
 
 
   * (04/07/2013) Start up (busca programador).
