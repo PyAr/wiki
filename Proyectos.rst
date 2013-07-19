@@ -101,6 +101,10 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr, están rela
  * [[https://github.com/fisadev/simpleai|SimpleAI]]
   * Una lib para algoritmos de inteligencia artificial basada en AIMA (Artificial Intelligence, a Modern Approach, de Peter Norvig, el libro más usado para enseñar IA: http://aima.cs.berkeley.edu/).
 
+ * [[https://github.com/alejandroautalan/pygubu|Pygubu]]
+  * Pygubu es una herramienta RAD que permite desarrollar interfaces de usuario rápida y fácilmente para el modulo tkinter de python. Pygubu esta inspirado por Glade (el diseñador de interfaces de gtk).
+
+
 
 <<BR>>
 ----
