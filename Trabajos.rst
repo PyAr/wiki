@@ -2,6 +2,27 @@
 
 == 2013 ==
 
+(24/07/2013) Programador python/Django - EstudioZ3
+
+ Buscamos programador Python/Django (Y javascript) Senior-level con buen nivel de ingles para trabajar en una red social en EEUU de forma remota.
+
+''Buscamos:''
+  - Senior level en Python/Django.
+  - Semi senior en Javascript.
+  - Experiencia en linux, Mysql, nginx, AWS, redis.
+  - Uso de repositorios como Git.
+
+
+''Ofrecemos:''
+  - Incorporación inmediata fulltime.
+  - Posibilidades de crecimiento internas.
+  - Flexibilidad horaria para estudio y exámenes.
+  - Muy buena remuneración, según seniority.
+
+
+Interesados enviar CV a oxxido@gmail.com
+
+
  * (10/07/2013) Programador BackEnd - iBillionaire
 
 Buscamos un programador con experiencia en la construcción de aplicaciones web. Alguien que construya las API internas y externas de iBillionaire con experiencia en Python, Django y TastyPie (no excluyente).
