@@ -17,7 +17,7 @@
   - Incorporación inmediata fulltime.
   - Posibilidades de crecimiento internas.
   - Flexibilidad horaria para estudio y exámenes.
-  - Muy buena remuneración, según seniority.
+  - Muy buena remuneración, según seniority (15.000, 20, 25...).
 
 
 Interesados enviar CV a oxxido@gmail.com
