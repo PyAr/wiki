@@ -1,17 +1,22 @@
 = Trabajos con Python =
 
-(05/08/2013)Desarrollador Python/Django - Córdoba Capital - Rubro Medios/Publicidad - Espíritu Start up
-Buscamos desarrolladores Semi Senior con experiencia en linux, bases de datos, python, y si es posible, en formatos y codecs de videos.
 
-Ofrecemos ser parte de un proyecto único en la región, con proyección internacional y trabajando en un ambiente de trabajo flexible, desafiante y con muy buenas condiciones para el desarrollo personal y profesional.
+== 2013 ==
+
+ * (05/08/2013) Desarrollador Python Senior - Espíritu Start up
+
+Buscamos desarrolladores Senior con experiencia en linux, bases de datos, python, y '''alguna''' de estas tecnologías:
+
+   1. ffmpeg, formatos y codecs de videos
+   1. webscraping
+   1. video fingerprint
+
+Ofrecemos ser parte de un proyecto único en la región, con proyección internacional y en un ambiente de trabajo flexible, desafiante y con muy buenas condiciones para el desarrollo personal y profesional.
 
 Les cuento un poco sobre el producto:
 En Infoxel desarrollamos tecnología para hacer más transparente el mundo de la publicidad. Para que los equipos de Marketing y Publicidad analicen y gestionen información estratégica sobre medios de comunicación, con herramientas online, transparentes, eficientes y simples. Somos el Google Analytics de los medios tradicionales (TV, Radios, Diarios y Revistas)  desarrollando herramientas tecnológicas, controlando la publicidad con una plataforma online, que brinda información en tiempo real.
 
-Si te interesa, por favor enviame el CV a ehartwig@infoxel.com 
-
-== 2013 ==
-
+Si les interesa, por favor enviar el CV a ehartwig@infoxel.com 
 
 
  * (10/07/2013) Programador BackEnd - iBillionaire
