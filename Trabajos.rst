@@ -94,8 +94,6 @@ Abrazos a la comunidad python.
 
  * (08/05/2013) Busco un desarrollador Python para un proyecto en curso. Se compone un servidor en Django, con una API restful que se conecta a un cliente escrito en PySide (Qt). Hay mucho trabajo por delante y es un proyecto muy interesante. Contacto: <<MailTo(raskovsky EN gmail PUNTO com)>>
 
- * (06/05/2013) Busco colaborador para proyecto basado en Django. Laburo con poca presión y remuneración acorde. Contacto: <<MailTo(maturburu EN gmail PUNTO com)>>
-
  * (06/05/2013) Empresa busca desarrollador '''Python/C/C++ SSr''' para tareas de Análisis, Diseño y Codificación en importantes proyectos de Ingeniería de Software vinculados a '''tecnologías geoespaciales'''. Se requiere: conocimiento de Python, C/C++, !WebServices, GNU/Linux y buen manejo de idioma inglés. Deseable no excluyente: UML, patrones de diseño, manejo de extensiones espaciales para base de datos (!PostGis, Oracle Spatial, SQLServer spatial), PHP, HTML, !JavaScript, estándar de calidad ISO9001. Full time. Bs. As. Contacto: <<MailTo(gabrielfusca EN suremptec PUNTO com PUNTO ar)>>
 
  * (30/04/2013) Emprendimiento busca desarrollador freelance Python y Django. Conocimientos deseables no excluyentes: E-commerce, paypal, google wallet, e-books. Contacto: <<MailTo(feo.luciano EN gmail PUNTO com)>>
