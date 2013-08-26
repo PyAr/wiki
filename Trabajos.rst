@@ -3,6 +3,26 @@
 
 == 2013 ==
 
+ * (26/08/2013) Se busca desarrollador Python/Django para trabajo remoto (homeworking) en proyectos internacionales, modalidad freelance.  Se tendrán en cuenta la capacidad de resolución de problemas, y de mantener contacto con el equipo remoto.
+ 
+   * Requisitos (excluyente):
+     * Experiencia de al menos 3 años programando en python.
+     * Experiencia mínima 2 años utilizando django.
+     * Nivel de inglés: intermedio avanzado. Capacidad de lectura y comunicación básica.
+ 
+   * Deseable:
+     * Manejo de entorno Linux
+     * Conocimientos de Javascript
+     * Metodologías agiles
+ 
+   * Se ofrece:
+     * Homeworking
+     * Tipo de contrato Freelance, por proyecto y/o  a largo plazo.
+     * Horario: 10 am a 7 pm
+     
+   *S i estás interesado en participar del proceso envíanos tu CV a rrhh@consultoracenit.com.ar "Python freelance"
+
+
  * (05/08/2013) Desarrollador Python Senior - Espíritu Start up
 
 Buscamos desarrolladores Senior con experiencia en linux, bases de datos, python, y '''alguna''' de estas tecnologías:
