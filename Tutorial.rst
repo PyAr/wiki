@@ -7,5 +7,5 @@ Las versiones en HTML y los respectivos PDFs se pueden acceder [[http://docs.pyt
 El proyecto con todas las fuentes e instrucciones para la generación de los diferentes formatos lo tenemos en USLA, para obtener una copia hacer:
 
 {{{
-svn checkout http://trac.usla.org.ar/proyectos/python-tutorial
+svn checkout http://trac.usla.org.ar/svn/python-tutorial
 }}}
