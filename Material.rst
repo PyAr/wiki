@@ -21,9 +21,7 @@ sudo apt-get install ttf-dejavu
 
 Video que se uso para presentar a PyAr en PyCon (USA) 2012
 
- * [[http://pyar.usla.org.ar/institucional/pyar_360p.mp4|360p Baja Calidad]] (MD5: 393c892a4e72664a5a49e29c2849dbce)
- * [[http://pyar.usla.org.ar/institucional/pyar_480p.mp4|480p Calidad Media]] (MD5: 0a124b89c72ee7d07268edf6b230b3c4)
- * [[http://pyar.usla.org.ar/institucional/pyar_720p.mp4|720pHD]] (MD5: ea3efb33e929cf965a50e74231655a93)
+ * [[attachment:VideoPyAr.avi|Video Institucional]]
 
  * '''mirror'' [[https://bitbucket.org/leliel12/video_pyconar_2012/downloads|Bitbucket]] (también están las "fuentes" del video en el repo mercurial)
 
