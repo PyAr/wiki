@@ -3,6 +3,24 @@
 
 == 2013 ==
 
+ * (09/09/2013) Se busca desarrollador Python/Django '''JR''' o '''SSR''' para trabajo en una start-up de viajes, la empresa cuenta con un grupo de inversores y un equipo internacional, ademas de un ambiente multicultural muy interesante.
+
+  * Nice to have:
+    * Conocimiento de Django 1.5+ (Forms, Admin)
+    * Capacidad de aprendizaje rapido.
+    * Manejo de entornos Linux y control de versiones.
+    * Conocimiento de unit testing.
+    * Buen nivel de inglés.
+
+  * Beneficios:
+    * Buena remuneración salarial.
+    * Oficina amplia y de cómodo acceso ubicada en Palermo (varias líneas de colectivos y subtes cercano).
+    * Mesa de ping pong, ps3.
+    * Posibilidad de viajes al interior o al exterior del pais.
+
+Interesados escribir a tech@routeatlas.com con su CV / linkedin (y link a github / bitbucket).
+
+
  * (26/08/2013) Se busca desarrollador Python/Django para trabajo remoto (homeworking) en proyectos internacionales, modalidad freelance.  Se tendrán en cuenta la capacidad de resolución de problemas, y de mantener contacto con el equipo remoto.
  
    * Requisitos (excluyente):
