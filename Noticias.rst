@@ -1,4 +1,4 @@
-#acl AdminGroup:admin,read,write,delete,revert ReadWriteGroup:read,write All:read 
+#acl AdminGroup:admin,read,write,delete,revert ReadWriteGroup:read,write All:read
 ## Las noticias se agregan acá. Mantener un orden cronológico descendente.
 ## Cuando el texto de la noticia es suficientemente amplio, crear una nueva página con el detalle de la noticia como una sub-página de ésta.
 ##
@@ -20,12 +20,19 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 
+==== 11/9/2013 ====
+
+===== PyCon Argentina 2013: Faltan 45 días =====
+
+El 24 y 25 de octubre se llevará a cabo la 5° Conferencia Nacional Python Argentina, en Rosario. Para más información: [[http://ar.pycon.org/2013]]
+
+
 ==== 04/12/2012 ====
 
 ===== PyCon Argentina 2013: Llamado a sedes =====
 
 Abrió el período para postular sedes de la 5° Conferencia Nacional Python Argentina.
-Más información en: 
+Más información en:
 [[PyConArgentina/2013/LlamadoSedes|Llamado a Sedes]]
 
 
@@ -39,9 +46,9 @@ Más información en:
 
 ===== PyCon Argentina 2012: Invitación al público y gacetilla de prensa =====
 
-PyAr, el grupo de usuarios de Python de Argentina invita a toda la comunidad de usuarios de Python y de Software Libre en general a la Cuarta Conferencia Argentina de Python http://ar.pycon.org/2012, a realizarse en Buenos Aires del 12 al 17 de Noviembre de 2012.  
+PyAr, el grupo de usuarios de Python de Argentina invita a toda la comunidad de usuarios de Python y de Software Libre en general a la Cuarta Conferencia Argentina de Python http://ar.pycon.org/2012, a realizarse en Buenos Aires del 12 al 17 de Noviembre de 2012.
 
-En este evento nos juntaremos desarrolladores y programadores tanto principiantes como avanzados; bloggers, autores y diseñadores web; gerentes, administradores y emprendedores; científicos, ingenieros, curiosos y todo aquel que tenga ganas de acercarse a la comunidad Python en Argentina.  
+En este evento nos juntaremos desarrolladores y programadores tanto principiantes como avanzados; bloggers, autores y diseñadores web; gerentes, administradores y emprendedores; científicos, ingenieros, curiosos y todo aquel que tenga ganas de acercarse a la comunidad Python en Argentina.
 
 Se encuentra disponible el [[http://ar.pycon.org/2012/schedule|cronograma completo]] de actividades. No olviden [[http://ar.pycon.org/2012/user/register|Inscribirse]] por el sitio web (cupos limitados) (ver [[ http://ar.pycon.org/2012/conference/registration|bono contribución]] si están interesados en la remera, articulos promocionales y participar de los eventos sociales: recepción y fiesta de cierre).
 
@@ -49,10 +56,10 @@ Agradecemos la colaboración de todos en la difusión de este llamado y del even
 
 ==== 15/09/2012 ====
 
-Desde el 9 de septiembre esta para descargar '''Python 3.3.0 RC2'''. El segundo release candidate en menos de un mes, lo que augura un pronto lanzamiento de la versión definitiva. 
+Desde el 9 de septiembre esta para descargar '''Python 3.3.0 RC2'''. El segundo release candidate en menos de un mes, lo que augura un pronto lanzamiento de la versión definitiva.
 
 Los enlaces importantes son:
- * [[http://docs.python.org/dev/whatsnew/3.3.html|Listado con las novedades]]. 
+ * [[http://docs.python.org/dev/whatsnew/3.3.html|Listado con las novedades]].
  * [[http://www.python.org/download/releases/3.3.0/|Enlace para descargarlo]].
 
 
@@ -70,10 +77,10 @@ Más información en el sitio del evento: [[http://www.pyday.com.ar/rafaela2012|
 ==== 09/09/2012 ====
 
 ===== La conferencia PyConAr necesita tu colaboración =====
- 
+
   Ya está disponible la página donde se puede realizar la compra de un bono contribución o realizar donaciones que nos ayuden a afrontar los distintos gastos que conlleva un evento de esta magnitud.
 
-  Este año se decidió priorizar las becas por sobre el resto de las cosas, por eso, si podés ayudarnos date una vuelta por el [[http://pyconar.blogspot.com.ar/2012/09/la-conferencia-necesita-tu-contribucion.html| blog de PyConAr 2012]]. , donde se explica todo con lujo de detalles, y si todavía querés y podés, adquirís un bono de $250, $150, $75 o $0. Si, existe el $0 ya que es importante que sepas que '''la entrada a la conferencia es totalmente libre y gratuita'''. 
+  Este año se decidió priorizar las becas por sobre el resto de las cosas, por eso, si podés ayudarnos date una vuelta por el [[http://pyconar.blogspot.com.ar/2012/09/la-conferencia-necesita-tu-contribucion.html| blog de PyConAr 2012]]. , donde se explica todo con lujo de detalles, y si todavía querés y podés, adquirís un bono de $250, $150, $75 o $0. Si, existe el $0 ya que es importante que sepas que '''la entrada a la conferencia es totalmente libre y gratuita'''.
 
 
 ==== 04/09/2012 ====
@@ -87,9 +94,9 @@ La entrada es libre y gratuita. Para registrarse al evento u obtener más inform
 
 El 15 de septiembre se llevará a cabo el encuentro '''Nea Extends''' en Formosa.
 
-El '''Nea Extends''' es un evento llevado adelante por programadores independientes, que desean dar a conocer las bondades, ventajas, y herramientas disponibles para los diferentes lenguajes de programación utilizados actualmente. Cómo aprovecharlos y cómo convertirlos en fuente de trabajo a través de la experiencia vivida por cada uno. 
+El '''Nea Extends''' es un evento llevado adelante por programadores independientes, que desean dar a conocer las bondades, ventajas, y herramientas disponibles para los diferentes lenguajes de programación utilizados actualmente. Cómo aprovecharlos y cómo convertirlos en fuente de trabajo a través de la experiencia vivida por cada uno.
 
-Para conocer a los disertantes, más información sobre el evento e inscripción: [[http://neaextends.net/|Página oficial de NeaExtends]]. 
+Para conocer a los disertantes, más información sobre el evento e inscripción: [[http://neaextends.net/|Página oficial de NeaExtends]].
 
 
 ==== 31/08/2012 ====
@@ -97,9 +104,9 @@ Para conocer a los disertantes, más información sobre el evento e inscripción
 Desde el 25 de agosto se puso para su descarga '''Python 3.3.0 RC1'''. La lista de novedades es muy amplia, e incluye desde entornos virtuales soportados en el core, paquete namespaces y algunas mejoras para facilitar el pasaje de 2.x a 3.x
 
 Los enlaces importantes son:
- * [[http://docs.python.org/dev/whatsnew/3.3.html|Listado con las novedades]]. 
+ * [[http://docs.python.org/dev/whatsnew/3.3.html|Listado con las novedades]].
  * [[http://www.python.org/download/releases/3.3.0/|Enlace para descargarlo]].
- 
+
 ==== 31/08/2012 ====
 El día 15 de Septiembre se llevará a cabo un PyDay en Córdoba, enteraté más del evento accediendo a [[http://www.pydaycba.com.ar/|PyDay 2012 Córdoba]].
 
