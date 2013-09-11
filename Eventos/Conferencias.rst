@@ -1,5 +1,7 @@
 == Conferencias ==
 
+ * [[http://ar.pycon.org/2013| PyCon Argentina 2013]], a realizarse los días 24 y 25 de octubre de 2013 en Rosario.
+
  * [[http://ar.pycon.org/2012| PyCon Argentina 2012]], a realizarse entre el 12 y 17 de Noviembre de 2012 en Buenos Aires (Bernal -Quilmes- y Capital Federal)
  
  * [[/PyDayRafaela2012 | PyDay Rafaela 2012]], jornada realizada el 19 y 20 de Octubre de 2012 en Rafaela (Santa Fe).
