@@ -3,6 +3,30 @@
 
 == 2013 ==
 
+* (09/11/2013) Linux sys admin con python, requisitos :
+   * Administracion de servidores Linux
+   * iptables y ACLs
+   * route
+   * tcpdump / wireshark
+   * TCP/IP 
+   * Relational Databases
+   * HTTP
+   * Python scripting
+   * Nivel de Inglés:  intermedio
+
+   * Deseables :
+      
+        * RESTFul APIs
+        * NGINX
+        * AWS
+        * GIT
+        * NoSQL databases (Cassandra, Mongo, Couch)
+
+   El trabajo es en palermo, relacion de dep. Varios beneficios. Es para un proyecto de RTB (sistema distribuido). Aca esta el link a la oferta :
+   http://www.linkedin.com/jobs2/view/7274479?trk=hp-feed-jymbii-jobTitle&goback=%2Enmp_*1_*1_*1_*1_*1_*1_*1_*1_*1_*1
+   y cualquier cosa me pueden escribir a n.r.emiliani@gmail.com
+
+
  * (09/09/2013) Se busca desarrollador Python/Django '''JR''' o '''SSR''' para trabajo en una start-up de viajes, la empresa cuenta con un grupo de inversores y un equipo internacional, ademas de un ambiente multicultural muy interesante.
 
   * Nice to have:
