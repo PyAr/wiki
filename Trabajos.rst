@@ -5,7 +5,7 @@
 
  * (17/09/2013) Estamos buscando un desarrollador con experiencia en screen scraping/web crawling y que preferentemente sepa usar scrapy. Interesados comunicarse a: <<rod0n ARROBA live PUNTO com PUNTO ar>>
 
-* (09/11/2013) Linux sys admin con python, requisitos :
+ * (11/09/2013) Linux sys admin con python, requisitos :
    * Administracion de servidores Linux
    * iptables y ACLs
    * route
