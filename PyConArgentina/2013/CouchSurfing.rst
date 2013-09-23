@@ -20,8 +20,9 @@ Ejemplo de entrada en Host o Guest:
  * Mariano Guerra (mariano en marianoguerra punto org), busco cama/sillon/alfombra/rincon
  * Claudio Freire (klaussfreire en gmail), busco rincón con o sin colchón
  * Facundo Batista
- * SAntiago Piccinini (spiccinini en codigosur punto org), busco lugar para la bolsa de dormir
+ * Santiago Piccinini (spiccinini en codigosur punto org), busco lugar para la bolsa de dormir
  * Diego Mascialino (diego en mascialino com ar) voy con mi bolsa de dormir, cualquier piso me deja bien
+ * Martín Gaitán (gaitan en gmail com). Tengo bolsa de dormir. Sé cocinar :)
 
 == Hosts Ocupados ==
 
