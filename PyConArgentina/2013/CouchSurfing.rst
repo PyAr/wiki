@@ -23,6 +23,7 @@ Ejemplo de entrada en Host o Guest:
  * Santiago Piccinini (spiccinini en codigosur punto org), busco lugar para la bolsa de dormir
  * Diego Mascialino (diego en mascialino com ar) voy con mi bolsa de dormir, cualquier piso me deja bien
  * Martín Gaitán (gaitan en gmail com). Tengo bolsa de dormir. Sé cocinar :)
+ * Apokalyptica79 (apokalyptica79 en gmail com) = Cualquier lugar está bien, preparo desayuno y limpio lo que uso, algo cocino, sugerencia: Strogonoff de carne y/o pollo y de postre brownie y tal vez con mucha suerte pizza casera
 
 == Hosts Ocupados ==
 
