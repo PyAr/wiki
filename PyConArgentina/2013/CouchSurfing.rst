@@ -19,6 +19,7 @@ Ejemplo de entrada en Host o Guest:
 
  * Mariano Guerra (mariano en marianoguerra punto org), busco cama/sillon/alfombra/rincon
  * Claudio Freire (klaussfreire en gmail), busco rincón con o sin colchón
+ * Facundo Batista
 
 == Hosts Ocupados ==
 
