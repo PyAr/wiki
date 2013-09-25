@@ -19,11 +19,11 @@ Ejemplo de entrada en Host o Guest:
 
 == Guests Disponibles ==
 
-* Mariano Guerra (mariano at marianoguerra dot org) busco un lugar en un auto, proveo mates y anecdotas malisimas.
+ * Mariano Guerra (mariano at marianoguerra dot org) busco un lugar en un auto, proveo mates y anecdotas malisimas.
 
 == Viajantes Disponibles ==
 
-* Mariano Guerra (mariano at marianoguerra dot org), de no conseguir transporte busco secuaces para viajar en bus de la terminal de cordoba el dia anterior a la PyConAr.
+ * Mariano Guerra (mariano at marianoguerra dot org), de no conseguir transporte busco secuaces para viajar en bus de la terminal de cordoba el dia anterior a la PyConAr.
 
 == Hosts Ocupados ==
 
