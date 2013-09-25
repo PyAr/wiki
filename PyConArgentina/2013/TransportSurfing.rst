@@ -28,3 +28,23 @@ Ejemplo de entrada en Host o Guest:
 == Hosts Ocupados ==
 
 == Guests Adoptados ==
+
+
+= Donde Dormir para PyConAr2013 =
+
+Es el mismo método del transportsurfing, sólo que aplica en donde dormir. Los '''Hosts''' disponibles son quienes '''viven en Rosario''' y tienen un/unos colchones libres para hospedar Guests que vienen a la conferencia. Ademas
+no olvides que podes agruparte con más gente y consultar a la gente de RosarioAlojamientos.com. Cuando los contactes,
+no olvides mencionar que vas a PyConAr2013, ellos están al tanto de la conferencia y nos consiguen precio en hostels
+y departamentos compartidos.
+
+== Hosts Disponibles ==
+
+
+== Guests Disponibles ==
+
+
+== Hosts Ocupados ==
+
+EmilianoDallaVerdeMarcozzi hostea a Gaucho y Joac
+
+== Guests Adoptados ==
