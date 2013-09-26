@@ -25,6 +25,7 @@ Ejemplo de entrada en Host o Guest:
 == Viajantes Disponibles ==
 
  * Mariano Guerra (mariano at marianoguerra dot org), de no conseguir transporte busco secuaces para viajar en bus de la terminal de cordoba el dia anterior a la PyConAr.
+ * Emilio Ramirez (emilioramirez04 at gmail dot com), busco transporte, soy de Córdoba Capital. De no conseguir transporte estoy analizando ir en cole o tren. Cole: mas caro, llegas mas rapido, vas y volves cuando queres. Tren: re barato, llevas mas lento, vas el miércoles, volvés el lunes. [[http://www.ferrocentralsa.com.ar/horario_cordoba_bs.html|Ferrocentral S.A]]
 
 == Hosts Ocupados ==
 
