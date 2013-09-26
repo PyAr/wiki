@@ -20,6 +20,7 @@ Ejemplo de entrada en Host o Guest:
 == Guests Disponibles ==
 
  * Mariano Guerra (mariano at marianoguerra dot org) busco un lugar en un auto, proveo mates y anecdotas malisimas.
+ * Jairo Trad (jairotrad at gmail dot com) Busco un lugar en auto, llevo mate!
 
 == Viajantes Disponibles ==
 
