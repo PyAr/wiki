@@ -2,6 +2,10 @@
 
 Esta pagina sirve para todos aquellos que tienen o buscan un lugar para hospedarse durante el PyConAr 2013 en Rosario.
 
+Ademasno olvides que podes agruparte con más gente y consultar a la gente de RosarioAlojamientos.com. Cuando los contactes,
+no olvides mencionar que vas a PyConAr2013, ellos están al tanto de la conferencia y nos consiguen precio en hostels
+y departamentos compartidos.
+
 == Como funciona? ==
 
 Los Hosts se anotan en la lista de Hosts, los Guests se anotan en la lista de Guests, se ponen en contacto acuerdan el hospedaje y una vez realizado el acuerdo lo reflejan en las respectivas listas.
