@@ -31,6 +31,9 @@ Ejemplo de entrada en Host o Guest:
  * Apokalyptica79 (apokalyptica79 en gmail com) = Cualquier lugar está bien, preparo desayuno y limpio lo que uso, algo cocino, sugerencia: Strogonoff de carne y/o pollo y de postre brownie y tal vez con mucha suerte pizza casera
 
 == Hosts Ocupados ==
+ * EmilianoDallaVerdeMarcozzi adoptó a Joaquín Sorianello y Emilio Ramirez 
 
 
 == Guests Adoptados ==
+ * Joaquín Sorianello
+ * Emilio Ramirez
