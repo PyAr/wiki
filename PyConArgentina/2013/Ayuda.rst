@@ -20,4 +20,4 @@ Este último punto puede ser controvertido, y es por eso que la decisión no la 
 
 ¡Pero no sean tímidos! "Estoy ayudando en la organización en la parte de selección de charlas" es una razón muy importante, pero también es súper válido decir "voy a dar una charla y estoy demasiado justo para viajar", o "me quedé sin laburo hace dos meses y no me quiero perder esto".  La filosofía acá es: si no piden la beca, no se la vamos a dar, y si la piden, lo peor que puede pasar es que no se las demos.
 
-Así que pídanla.
+Así que pídanla. El plazo vence el domingo 10, y el lunes 11 les indicamos a todos los postulantes qué pasó.
