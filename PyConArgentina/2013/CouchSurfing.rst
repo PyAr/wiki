@@ -29,7 +29,7 @@ Ejemplo de entrada en Host o Guest:
  * Diego Mascialino (diego en mascialino com ar) voy con mi bolsa de dormir, cualquier piso me deja bien
  * Martín Gaitán (gaitan en gmail com). Tengo bolsa de dormir. Sé cocinar :)
  * Apokalyptica79 (apokalyptica79 en gmail com) = Cualquier lugar está bien, preparo desayuno y limpio lo que uso, algo cocino, sugerencia: Strogonoff de carne y/o pollo y de postre brownie y tal vez con mucha suerte pizza casera
- * Gonzalo Martinez (gonzafirewall en gmail punto com) busco un lugar para dormir ninguna pretensión, no hago Strogonoff pero puedo prometer hacer unas pizzas con alguna premezcla.
+ * Gonzalo Martinez (gonzafirewall en gmail punto com) busco un lugar para dormir ninguna pretensión, es mi primer PyCon, no hago Strogonoff pero puedo prometer hacer unas pizzas con alguna premezcla.
 
 == Hosts Ocupados ==
  * EmilianoDallaVerdeMarcozzi adoptó a Joaquín Sorianello y Emilio Ramirez 
