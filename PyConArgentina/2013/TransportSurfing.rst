@@ -16,6 +16,7 @@ Ejemplo de entrada en Host o Guest:
 
 == Hosts Disponibles ==
 
+ * Manuel Kaufmann (humitos en gmail punto com), ofrezco un asiento en mi auto. Salgo de Paraná, Entre Ríos y, dependiendo de si alguien se suma en el viaje, puedo ir por Santa Fe o por Victoria.
 
 == Guests Disponibles ==
 
