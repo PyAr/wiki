@@ -18,7 +18,7 @@ Ejemplo de entrada en Host o Guest:
 
 == Hosts Disponibles ==
 
- * Francisco Rivera (franmrivera en gmail), ofrezco un sillón y mucho piso para bolsas de dormir
+ * Francisco Rivera (franmrivera en gmail), ofrezco mucho piso para bolsas de dormir
 
 == Guests Disponibles ==
 
