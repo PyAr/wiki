@@ -3,7 +3,7 @@
 
 == 2013 ==
 
- * (08/10/2013) En [[http://www.gersol.unlu.edu.ar/|GERSolar]] (UNLu) andamos buscando un desarrollador para participar de un proyecto de investigación. Se requiere conocer: OOP, patrones de diseño, python, git, linux; se valoran conocimientos en: refactoring, testing, django. Para ver mas detalles sobre el proyecto vean el pdf de [[https://docs.google.com/file/d/0B1aK1isdkuGLODRTMFVWYXFuWkE/edit?usp=sharing|este link]]. Quien tenga interés, debe escribirnos a [[mailto:gersolar@yahoo.com.ar|gersolar@yahoo.com.ar]].
+ * (08/10/2013) En [[http://www.gersol.unlu.edu.ar/|GERSolar]] (UNLu) andamos buscando un desarrollador para participar de un proyecto de investigación. Se requiere conocer: OOP, patrones de diseño, python, git, linux; se valoran conocimientos en: refactoring, testing, django. Para ver mas detalles sobre el proyecto vean el pdf de [[https://docs.google.com/file/d/0B1aK1isdkuGLODRTMFVWYXFuWkE/edit?usp=sharing|este link]]. Quien tenga interés, debe escribirnos a [[mailto:gersolar@yahoo.com.ar?subject=Busqueda de desarrollador|gersolar@yahoo.com.ar]].
 
  * En la empresa donde trabajo, Frank Collaboration (del grupo Corbis Global) estan buscando 1 programador django con 1 año de experiencia, cualquier cosa mi mail es pablo.dalmasso@frankcollaboration.com, cualquier cosa no duden en preguntar.
  
