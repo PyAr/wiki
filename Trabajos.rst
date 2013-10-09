@@ -3,6 +3,8 @@
 
 == 2013 ==
 
+ * En la empresa donde trabajo, Frank Collaboration (del grupo Corbis Global) estan buscando 1 programador django con 1 año de experiencia, cualquier cosa mi mail es pablo.dalmasso@frankcollaboration.com, cualquier cosa no duden en preguntar.
+ 
  * En [[http://www.juju.com|Juju]] buscamos desarrolladores con experiencia en Python y buen manejo de inglés para trabajo remoto (desde casa). Es para trabajar directamente en la expresa extranjera. Para más detalles visitar [[http://juju.theresumator.com/apply/vnGzCB/Web-Application-Developer-Chile-Argentina.html|este link]].
 
  * (17/09/2013) Estamos buscando un desarrollador con experiencia en screen scraping/web crawling y que preferentemente sepa usar scrapy. Interesados comunicarse a: <<rod0n ARROBA live PUNTO com PUNTO ar>>
