@@ -24,7 +24,6 @@ Ejemplo de entrada en Host o Guest:
 
  * Mariano Guerra (mariano en marianoguerra punto org), busco cama/sillon/alfombra/rincon
  * Claudio Freire (klaussfreire en gmail), busco rincón con o sin colchón
- * Facundo Batista (facundo en taniquetil punto com punto ar) busco lugar dormible, muy poca otra pretensión; sé Unicode (?)
  * Santiago Piccinini (spiccinini en codigosur punto org), busco lugar para la bolsa de dormir
  * Diego Mascialino (diego en mascialino com ar) voy con mi bolsa de dormir, cualquier piso me deja bien
  * Apokalyptica79 (apokalyptica79 en gmail com) = Cualquier lugar está bien, preparo desayuno y limpio lo que uso, algo cocino, sugerencia: Strogonoff de carne y/o pollo y de postre brownie y tal vez con mucha suerte pizza casera
