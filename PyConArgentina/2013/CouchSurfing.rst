@@ -25,16 +25,16 @@ Ejemplo de entrada en Host o Guest:
  * Mariano Guerra (mariano en marianoguerra punto org), busco cama/sillon/alfombra/rincon
  * Claudio Freire (klaussfreire en gmail), busco rincón con o sin colchón
  * Santiago Piccinini (spiccinini en codigosur punto org), busco lugar para la bolsa de dormir
- * Diego Mascialino (diego en mascialino com ar) voy con mi bolsa de dormir, cualquier piso me deja bien
  * Apokalyptica79 (apokalyptica79 en gmail com) = Cualquier lugar está bien, preparo desayuno y limpio lo que uso, algo cocino, sugerencia: Strogonoff de carne y/o pollo y de postre brownie y tal vez con mucha suerte pizza casera
  * Gonzalo Martinez (gonzafirewall en gmail punto com) busco un lugar para dormir ninguna pretensión, es mi primer PyCon, no hago Strogonoff pero puedo prometer hacer unas pizzas con alguna premezcla.
 
 == Hosts Ocupados ==
 
  * EmilianoDallaVerdeMarcozzi adoptó a Joaquín Sorianello y Emilio Ramirez 
- * Francisco Rivera hospedará a Martín Gaitán y ...
+ * Francisco Rivera hospedará a Martín Gaitán, Diego Mascialino y ...
 
 == Guests Adoptados ==
  * Joaquín Sorianello
  * Emilio Ramirez
  * Martín Gaitán 
+ * Diego Mascialino
