@@ -3,7 +3,7 @@
 
 == 2013 ==
 
- * (15/10/2013) En Imzaia estamos buscando un desarrollador con experiencia en aplicaciones E-commerce usando django-oscar, django-shop o alguna similar. Interesados comunicarse a: <<info ARROBA imzaia PUNTO com PUNTO ar>>
+ * (15/10/2013) En Imzaia estamos buscando un desarrollador con experiencia en aplicaciones E-commerce usando django-oscar, django-shop o alguna similar. Interesados comunicarse a: [[mailto:info@imzaia.com.ar?subject=Busqueda de desarrollador|info@imzaia.com.ar]]
 
  * (15/10/2013) [[https://brilliant.org/|Brilliant.org]], cuya misión es facilitar y promover el aprendizaje de matemáticas y física alrededor del mundo, busca desarrolladores Python/Django senior para ocupar posiciones de trabajo full-time remoto. Es imprescindible contar con una muy buena capacidad de comunicación oral y escrita del idioma Inglés, y tener voluntad de mudarse a San Francisco (Estados Unidos) en el futuro. Buscamos a aquellos desarrolladores a con vastos conocimientos de tecnologías para la web y bases de datos relacionales, con experiencia en la construcción de productos web y en entender las necesidades de los usuarios, con interés en las ciencias de la computación y los lenguajes de programación más allá de Python y JavaScript, comunicativos, responsables, con experiencia en el desarrollo de software libre y en el trabajo en equipo, y con un interés personal por lograr que un proyecto como Brilliant.org sea exitoso.
 
