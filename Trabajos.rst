@@ -3,6 +3,11 @@
 
 == 2013 ==
 
+ * (15/10/2013) [[https://brilliant.org/|Brilliant.org]], cuya misión es facilitar y promover el aprendizaje de matemáticas y física alrededor del mundo, busca desarrolladores Python/Django senior para ocupar posiciones de trabajo full-time remoto. Es imprescindible contar con una muy buena capacidad de comunicación oral y escrita del idioma Inglés, y tener voluntad de mudarse a San Francisco (Estados Unidos) en el futuro. Buscamos a aquellos desarrolladores a con vastos conocimientos de tecnologías para la web y bases de datos relacionales, con experiencia en la construcción de productos web y en entender las necesidades de los usuarios, con interés en las ciencias de la computación y los lenguajes de programación más allá de Python y JavaScript, comunicativos, responsables, con experiencia en el desarrollo de software libre y en el trabajo en equipo, y con un interés personal por lograr que un proyecto como Brilliant.org sea exitoso.
+
+ Ofrecemos una compensación altamente competitiva, horarios de trabajo y vacaciones flexibles, un ameno ambiente de trabajo, y cubrimos varios costos de formación profesional (libros, materiales, conferencias, cursos). En [[http://brilliant.theresumator.com/apply]] pueden encontrar más detalles sobre ésta y otras ofertas de trabajo, así como instrucciones de contacto. Please write your cover letter in English.
+
+
  * (08/10/2013) En [[http://www.gersol.unlu.edu.ar/|GERSolar]] (UNLu) andamos buscando un desarrollador para participar de un proyecto de investigación. Se requiere conocer: OOP, patrones de diseño, python, git, linux; se valoran conocimientos en: refactoring, testing, django. Para ver mas detalles sobre el proyecto vean el pdf de [[https://docs.google.com/file/d/0B1aK1isdkuGLODRTMFVWYXFuWkE/edit?usp=sharing|este link]]. Quien tenga interés, debe escribirnos a [[mailto:gersolar@yahoo.com.ar?subject=Busqueda de desarrollador|gersolar@yahoo.com.ar]].
 
  * En la empresa donde trabajo, Frank Collaboration (del grupo Corbis Global) estan buscando 1 programador django con 1 año de experiencia, cualquier cosa mi mail es pablo.dalmasso@frankcollaboration.com, cualquier cosa no duden en preguntar.
