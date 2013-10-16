@@ -22,7 +22,6 @@ Ejemplo de entrada en Host o Guest:
 
 == Guests Disponibles ==
 
- * Mariano Guerra (mariano en marianoguerra punto org), busco cama/sillon/alfombra/rincon
  * Claudio Freire (klaussfreire en gmail), busco rincón con o sin colchón
  * Santiago Piccinini (spiccinini en codigosur punto org), busco lugar para la bolsa de dormir
  * Apokalyptica79 (apokalyptica79 en gmail com) = Cualquier lugar está bien, preparo desayuno y limpio lo que uso, algo cocino, sugerencia: Strogonoff de carne y/o pollo y de postre brownie y tal vez con mucha suerte pizza casera
@@ -38,3 +37,7 @@ Ejemplo de entrada en Host o Guest:
  * Emilio Ramirez
  * Martín Gaitán 
  * Diego Mascialino
+
+== Guests que no buscan mas ==
+
+ * Mariano Guerra (mariano en marianoguerra punto org), buscaba cama/sillon/alfombra/rincon
