@@ -31,13 +31,12 @@ Ejemplo de entrada en Host o Guest:
 == Hosts Ocupados ==
 
  * EmilianoDallaVerdeMarcozzi adoptó a Joaquín Sorianello y Emilio Ramirez 
- * Francisco Rivera hospedará a Martín Gaitán y Diego Mascialino.
+ * Francisco Rivera hospedará a Martín Gaitán.
 
 == Guests Adoptados ==
  * Joaquín Sorianello
  * Emilio Ramirez
  * Martín Gaitán 
- * Diego Mascialino
 
 == Guests que no buscan mas ==
 
