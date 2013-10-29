@@ -1,5 +1,16 @@
 = Trabajos con Python =
+Nos encontramos en búsqueda de un Python & Django Developer para trabajar en importante cliente offshore.
+Requisitos técnicos
+Skill General: Python & Django SR (excluyente)
+Desarrollo web transaccionales high-volume/high-availability (idealmente LAMP stack)
+Alto nivel de inglés oral y escrito
+DB (SQL y NoSQL)
+Experiencia en front-end  (HTML, CSS, Ajax, Javascript)
+Django o RoR
+Desarrollador Oracle BPM 11 g al menos un año de experiencia
+Experiencia en contacto directo con el cliente
 
+Interesados enviar mail con CV adjunto a carolina.velayos@experis.com.ar
 
 == 2013 ==
 
