@@ -5,7 +5,6 @@
  * se acuerda la forma de intactuar (IM, Skype, en persona)
  * el mentor dedica unas horas semanales a ayudar al mentado
  * el mentado documenta lo que va aprendiendo en un blog
- * al terminar el proceso presenta una charla de lo aprendido en un evento (PyDay, PyCamp, PyCon etc.)
  * todos felices
 
 == Proyectos en busca de mentados ==
