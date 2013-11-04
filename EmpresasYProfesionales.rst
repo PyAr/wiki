@@ -5,6 +5,13 @@ La siguiente es una lista de las empresas que trabajan en Python.
 Obvio, no son todas, pero es un buen punto de arranque si se busca mandar un CV o se necesita un proveedor de servicios de programación o sistemas en general.
 
 
+=== devartis ===
+
+Somos una empresa de software joven, ágil e innovadora, fundada a inicios de 2009 en la Ciudad de Buenos Aires.
+Desarrollamos principalmente aplicaciones web en Django para clientes locales y del exterior. 
+
+CVs a jobs@devartis.com, contacto comercial a info@devartis.com. Esta es [[http://www.devartis.com/|nuestra página web]].
+
 
 === SuperEmpresaEjemplo ===
 
