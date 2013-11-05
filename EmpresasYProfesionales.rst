@@ -13,6 +13,13 @@ Desarrollamos principalmente aplicaciones web en Django para clientes locales y 
 CVs a jobs@devartis.com, contacto comercial a info@devartis.com. Esta es [[http://www.devartis.com/|nuestra página web]].
 
 
+=== Machinalis ===
+
+Custom Software Engineering and Development - We *love* Python / Django / AI / NLP / Machine Learning / Big Data. 
+
+CVs a msponton[at]machinalis.com, contacto comercial a info[at]machinalis.com. Esta es [[http://www.machinalis.com/|nuestra página web]].
+
+
 === SuperEmpresaEjemplo ===
 
 Hacemos foo, bar, y mucho más. Estamos en Tal Provincia, pero trabajamos para todo el país.
