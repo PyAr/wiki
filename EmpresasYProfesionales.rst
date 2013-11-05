@@ -17,7 +17,9 @@ CVs a jobs@devartis.com, contacto comercial a info@devartis.com. Esta es [[http:
 
 Custom Software Engineering and Development - We *love* Python / Django / AI / NLP / Machine Learning / Big Data. 
 
-CVs a msponton[at]machinalis.com, contacto comercial a mpich[at]machinalis.com. Esta es [[http://www.machinalis.com/|nuestra página web]].
+CVs a msponton[at]machinalis.com, contacto comercial a mpich[at]machinalis.com. 
+[[http://www.machinalis.com/|nuestra página web]]. 
+[[https://github.com/machinalis/|nuestro código en github]]
 
 
 === SuperEmpresaEjemplo ===
