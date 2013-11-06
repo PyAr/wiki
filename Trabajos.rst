@@ -2,6 +2,14 @@
 
 == 2013 ==
 
+ * (06/11/2013) Proveer mantenimiento y continuar desarrollo por etapas de sistema de soporte para la industria de la construcción con alcance en Argentina y Latinoamérica.
+
+   * Backend: Python / Django / Mysql / Virtualenv / Apache / Nginz
+   * Frontend: Django templates, jQuery, jQueryUI, jqGrid
+   * Versionado de código: Subversion
+   * Migraciones de base de datos: South
+   * Enviar CV y propuestas a: info@ddobras.com.ar
+
  * (31/11/2013) Desarrollador jr o ssr Django y Javascript
      '''XTech''' es una empresa que hace muchos años está en el mercado de Linux y Software Libre, orientada a la infraestrucutura. Actualmente estamos consolidando un sector de desarrollo en la empresa y buscamos programadores que quieran profundizar en python, django y javascript en un ambiente tranquilo y en crecimiento. Enviar CV con remuneración pretendida a rrhh@xtech.com.ar.
  * (29/10/2013) Nos encontramos en búsqueda de un Python & Django Developer para trabajar en importante cliente offshore. Requisitos técnicos:
