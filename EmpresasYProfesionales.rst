@@ -1,9 +1,9 @@
 ## page was renamed from Empresas
-== Empresas que trabajan con Python ==
+== Empresas y Profesionales que trabajan con Python ==
 
-La siguiente es una lista de las empresas que trabajan en Python.
+La siguiente es una lista de las empresas y profesionales que trabajan en Python.
 
-Obvio, no son todas, pero es un buen punto de arranque si se busca mandar un CV o se necesita un proveedor de servicios de programación o sistemas en general.
+Obvio, no son todas, pero es un buen punto de arranque si se busca mandar un CV a una empresa o se necesita un proveedor de servicios de programación o sistemas en general (tanto buscando la infraestructura de una empresa si es algo grande, como el servicio temporal de un profesional si es algo más pequeño).
 
 
 === devartis ===
