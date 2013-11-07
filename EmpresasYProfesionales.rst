@@ -1,3 +1,4 @@
+## page was renamed from Empresas
 == Empresas que trabajan con Python ==
 
 La siguiente es una lista de las empresas que trabajan en Python.
