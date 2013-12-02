@@ -64,6 +64,13 @@ y sea el referente para con las empresas.
 de que se realice el evento). Poner un deadline y luego incrementar el costo del sponsorship a partir
 de 'n' fecha puede servir de incentivo para obtener los pagos, pero no te asegura que así sea.
 
+* La web que utilizamos para PyConAr 2013 está hecha con web2conf. Tuvimos algunos problemas y por desconocimiento
+nuestro (cuando algo se rompía no teníamos idea de como arreglarlo) dependíamos completamente de Alan Etkin y
+Mariano Reingart (los dos siempre al pie del cañon nos ayudaron y fixearon los problemas muy rápido). Me parece
+algo a tener en cuenta. Tengo entendido que algunos miembros de PyAr están armando algo con Django llamado PyConference (preguntar a gatox sobre esta opción).
+
+* El hosting de la web ahora va a estar en USLA. Pingueá a TiN o facundobatista para ver como 'ownear' el hosting.
+
 * Sé agradecido con quienes te brindan ayuda y trabajan para que PyConAr 2014 sea un éxito.
 
 * Nunca está de más darle algún presente a quienes fueron sponsors ;-)
