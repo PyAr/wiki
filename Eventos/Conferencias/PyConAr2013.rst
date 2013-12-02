@@ -42,6 +42,9 @@ Facultad de ciencias exactas, ingeniería y agrimensura FCEIA no vino nadie :-(.
 con talleres y sprints. Por ahí, la idea sería hacer un call for 'interesados en sprintear', y
 esa gente se compromete a caer 2 días o 'n' días antes de pyconar para sprintear, dar talleres.
 
+* Posters. Sí, es otra forma de presentar un proyecto / información (por ejemplo para alguien 
+que no puede ir al evento pero que quiere 'mostrar algo').
+
 == Cosas a tener en cuenta ==
 
 * Esto es CRITICO: Las empresas te van a donar dinero, pero van a necesitar un recibo / factura. Podes leer más acerca de esto en este thread: http://thread.gmane.org/gmane.org.user-groups.python.argentina/63027
