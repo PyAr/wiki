@@ -1,7 +1,7 @@
 ## page was renamed from ListaDeMail
 #language es
 = Lista de Correo =
-La lista de correo de PyAr está abierta a todos los interesados en Python, y está dedicada en especial a los residentes de Argentina. En esta lista discutimos todos los temas que tengan que ver con la promoción y difusión del lenguaje de programación Python y planeamos eventos especiales y la creación de contenido local.
+La lista de correo de PyAr está abierta a todos los interesados en Python, y está dedicada en especial a los residentes de Argentina. '''En esta lista discutimos todos los temas que tengan que ver con la promoción, difusión y temas técnicos del lenguaje de programación Python''' (para otro tipo de discusiones ver la lista '''pyar-bar''' más abajo) y planeamos eventos especiales y la creación de contenido local.
 
 Si querés suscribirte a la lista, te pedimos por favor que primero te tomes un par de minutos para leer la EtiquetaPyAr.
 
@@ -13,7 +13,7 @@ Si querés suscribirte a la lista, te pedimos por favor que primero te tomes un 
  . ''(El paso 2. es opcional, pero muy bienvenido. Ha generado algunas de las conversaciones más interesantes de la lista...)''
 
 == PyAr Bar ==
-Si queres hablar sobre otro tipo de temas con la comunidad, podes hacerlo suscribiendote a http://listas.python.org.ar/mailman/listinfo/pyar-bar
+Si queres hablar sobre otro tipo de temas con la comunidad que '''no están relacionados con la promoción, difusión y temas técnicos del lenguaje de programación Python''', podes hacerlo suscribiendote a: http://listas.python.org.ar/mailman/listinfo/pyar-bar
 
 == Instrucciones para salirte de la lista ==
 Mandá un mensaje a <<MailTo(pyar-unsubscribe AT python DOT org DOT ar)>>
