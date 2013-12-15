@@ -29,7 +29,7 @@ La próxima edición [[PyCamp/2014|está en marcha]], pendiente de suficientes c
  * Tercera edición, [[PyCamp/2010|Veronica, Buenos Aires. Marzo de 2010]].
  * Cuarta edición, [[PyCamp/2011|La Falda, Córdoba. Marzo de 2011]].
  * Quinta edición, [[PyCamp/2012|Veronica, Buenos Aires. Julio de 2012]].
- * Sexta edición, [[PyCamp/2013|Villa Giardino, córdoba. Junio de 2013]].
+ * Sexta edición, [[PyCamp/2013|Villa Giardino, Córdoba. Junio de 2013]].
 
 == Blogpost sobre Pycamps ==
 === 2008 ===
