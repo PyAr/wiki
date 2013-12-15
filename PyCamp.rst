@@ -21,7 +21,7 @@ En cada PyCamp se realizan una serie de proyectos que son decididos por los part
 
 == Proxima edición ==
 
-La próxima edición [[PyCamp/2013|está en marcha]], pendiente de suficientes confirmaciones.
+La próxima edición [[PyCamp/2014|está en marcha]], pendiente de suficientes confirmaciones.
 
 == Ediciones anteriores ==
  * Primera edición, Los Cocos, Córdoba. Marzo de 2008.
@@ -29,6 +29,7 @@ La próxima edición [[PyCamp/2013|está en marcha]], pendiente de suficientes c
  * Tercera edición, [[PyCamp/2010|Veronica, Buenos Aires. Marzo de 2010]].
  * Cuarta edición, [[PyCamp/2011|La Falda, Córdoba. Marzo de 2011]].
  * Quinta edición, [[PyCamp/2012|Veronica, Buenos Aires. Julio de 2012]].
+ * sexta edición, [[PyCamp/2013|Villa Giardino, córdoba. Junio de 2013]].
 
 == Blogpost sobre Pycamps ==
 === 2008 ===
