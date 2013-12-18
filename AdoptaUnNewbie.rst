@@ -56,11 +56,11 @@
  * --(EzequielMarquez (Twisted, Django, Python3) )--
  * Carlos Do Carmo (Django)
  * [[mailto:rafael.ferrero@gmail.com|Rafael E. Ferrero]] (web,Django, Python en general, linux, diseño de software, sistemas administrativos-contables, administración de servidores).
+ * JuanFisanotti (django y web, python en general, inteligencia artificial, vim)
 
 === Asignados ===
  * Daniel Malisani -> Manuel Naranjo (opencv)
  * EzequielMarquez -> HoracioDuran (web)
- * Hernan Lozano -> JuanFisanotti (django, python en general, un poco de vim)
  * Jonathan Scherz -> [[DavidLitvak|David Litvak]] (Django, TDD, vim)
 
 == Mentores Buscados ==
@@ -71,6 +71,7 @@
  * Factura Electrónica, Gestión Libre (comercial/administrativo/contable), desarrollo web c/ web2py
 
 == Adopciones Finalizadas ==
+ * JuanFisanotti - Hernan Lozano: muy buena experiencia! :)
  * Mariano Guerra
   * [[AnaMassone|Anna Massone]] perdida de contacto
   * [[DiegoAhumada|Diego Ahumada]] perdida de contacto
