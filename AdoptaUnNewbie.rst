@@ -20,7 +20,7 @@
  * Mauro Lizaur (debian, algo de django, cosas en general, ayuda con proyectos grandes(?). )
  * MartinAlderete (Ninja-IDE, Qt/PyQt, python web frameworks, python en general) http://github.com/malderete
  * ManuelNaranjo (django, dbus, bluetooth, opencv, numpy y scipy, cosas relacionadas con electrónica en general y señales)
- * Facundo Batista: Para CDPedia, Lalita, Python, Twisted a Py3, Enjuewemela y Magicicada (más info [[http://www.taniquetil.com.ar/plog/post/1/507|acá]]).
+ * FacundoBatista: Para CDPedia, Lalita, Python, Twisted a Py3, Enjuewemela y Magicicada (más info [[http://www.taniquetil.com.ar/plog/post/1/507|acá]]).
  * --(Horacio Duran: Para plone, python, django bastante basico, pregunten y les cuento si se o no.)--
  * Lucio Torre (varios)
  * Mariano Reingart (web2py, wxpython, postgresql, ubuntu y/o windows, proyectos de factura electrónica, "gestion libre", etc.)
