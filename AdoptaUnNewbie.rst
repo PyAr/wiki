@@ -25,9 +25,9 @@
  * Lucio Torre (varios)
  * Mariano Reingart (web2py, wxpython, postgresql, ubuntu y/o windows, proyectos de factura electrónica, "gestion libre", etc.)
  * [[MarianoGuerra|Mariano Guerra]] emesene, python en general, flask, REST, web
+ * JuanFisanotti (django y web, python en general, inteligencia artificial, vim)
 
 === Ocupados ===
- * JuanFisanotti (django, python en general, un poco de vim) (Hernan Lozano)
  * MartinAlderete ( PyQt, GUI programming)(Ochoa Gerardo Fidel)
  * [[DavidLitvak|David Litvak]]: Para Crawley-Project, python orientado a objetos, django, web y un poco de vim (Jonathan Scherz)
 
@@ -56,7 +56,6 @@
  * --(EzequielMarquez (Twisted, Django, Python3) )--
  * Carlos Do Carmo (Django)
  * [[mailto:rafael.ferrero@gmail.com|Rafael E. Ferrero]] (web,Django, Python en general, linux, diseño de software, sistemas administrativos-contables, administración de servidores).
- * JuanFisanotti (django y web, python en general, inteligencia artificial, vim)
 
 === Asignados ===
  * Daniel Malisani -> Manuel Naranjo (opencv)
