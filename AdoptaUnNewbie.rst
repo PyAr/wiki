@@ -8,6 +8,9 @@
  * todos felices
 
 == Proyectos en busca de mentados ==
+
+ * rst-completion, procesamiento de restructuredtext  https://github.com/mgaitan/
+ * waliki, una wiki basada en flask y git  https://github.com/mgaitan/waliki/
  * emesene, un cliente de mensajeria instantanea multiplataform escrito en python y gtk (y una version alpha en qt4)
   * http://emesene.org
   * mas info: http://blog.emesene.org/2011/08/call-for-wannabe-developers.html
@@ -23,6 +26,7 @@
  * FacundoBatista: Para CDPedia, Lalita, Python, Twisted a Py3, Enjuewemela y Magicicada (más info [[http://www.taniquetil.com.ar/plog/post/1/507|acá]]).
  * --(Horacio Duran: Para plone, python, django bastante basico, pregunten y les cuento si se o no.)--
  * Lucio Torre (varios)
+ * Martín Gaitán (python, django, scrapping, python cientifico y cosas divertidas) 
  * Mariano Reingart (web2py, wxpython, postgresql, ubuntu y/o windows, proyectos de factura electrónica, "gestion libre", etc.)
  * [[MarianoGuerra|Mariano Guerra]] emesene, python en general, flask, REST, web
 
