@@ -2,6 +2,10 @@
 
 == 2013 ==
 
+ * (18/12/2013) Part Time o Freelance - SSr o Jr Exp - Empresa de Aplicaciones Mobile - Puesto para mantener y extender funcionalidad en backends de nuestras aplicaciones, así como desarrollar nuevos productos.
+   * Twisted / Gevent / RabbitMQ / MongoEngine / Google App Engine
+   * Enviar CV a: cv@tipitap.com con ref Python Developer 
+
  * (06/11/2013) Proveer mantenimiento y continuar desarrollo por etapas de sistema de soporte para la industria de la construcción con alcance en Argentina y Latinoamérica.
 
    * Backend: Python / Django / Mysql / Virtualenv / Apache / Nginz
