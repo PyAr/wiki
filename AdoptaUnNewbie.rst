@@ -25,11 +25,12 @@
  * Lucio Torre (varios)
  * Mariano Reingart (web2py, wxpython, postgresql, ubuntu y/o windows, proyectos de factura electrónica, "gestion libre", etc.)
  * [[MarianoGuerra|Mariano Guerra]] emesene, python en general, flask, REST, web
- * JuanFisanotti (django y web, python en general, inteligencia artificial, vim)
 
 === Ocupados ===
  * MartinAlderete ( PyQt, GUI programming)(Ochoa Gerardo Fidel)
  * [[DavidLitvak|David Litvak]]: Para Crawley-Project, python orientado a objetos, django, web y un poco de vim (Jonathan Scherz)
+ * JuanFisanotti (django y web, python en general, inteligencia artificial, vim) (Emanuel Toro y Jean Jacques)
+
 
 === Disponibles como mentores de charlas ===
  * Juan BC
@@ -61,6 +62,9 @@
  * Daniel Malisani -> Manuel Naranjo (opencv)
  * EzequielMarquez -> HoracioDuran (web)
  * Jonathan Scherz -> [[DavidLitvak|David Litvak]] (Django, TDD, vim)
+ * Emanuel Toro -> JuanFisanotti
+ * Jean Jacques -> JuanFisanotti
+
 
 == Mentores Buscados ==
  * debian
