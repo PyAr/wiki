@@ -1,6 +1,6 @@
 = Posibles sedes para el PyCamp 2014 =
 
-Estas son las distintas posibles sedes para el PyCamp 2014. Para votar mandá un mail a facundobatista en gmail punto com, indicando nombre completo, DNI, y el título de las opciones que les gustan, en orden descendiente (la más copada primero, digamos).
+Estas son las distintas posibles sedes para el PyCamp 2014. Se sometieron a votación y la ganadora es '''Hotel Luz y Fuerza'''. Votos y script, [[http://python.org.ar/PyCamp/2013/PosiblesSedes/Votos|acá]]. 
 
 Cada sede está cargada aquí por la persona de contacto, que es la persona que averiguó todos los datos y contacto con la administración de la sede, cualquier duda preguntarle a ella/él.
 
