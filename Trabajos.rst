@@ -1,9 +1,13 @@
 = Trabajos con Python =
 
+== 2014 ==
+
+ * (06/01/2014) En [[http://www.msa.com.ar/|MSA]] buscamos incorporar programadores Python (de todos los niveles) con deseables conocimientos de ambiente Open Source, Linux (Ubuntu), tecnologías Web y manejo de bases de datos (SQL).<<BR>>
+ Buscamos gente proactiva, con habilidades autodidactas y afinidad al Software Libre. Si pensás que puede interesarte la propuesta, no dejes de comunicarte con nosotros vía mail con el CV y/o pretensiones a <rrhh EN msa PUNTO com PUNTO ar>
+
 == 2013 ==
 
  * (18/12/2013) En [[http://www.devsar.com|devsAr]] estamos buscando desarrolladores web python para sumarse a nuestro equipo. Trabajo tiempo completo, en relación de dependencia, en nuestra oficina de La Plata. Ofrecemos un buen clima laboral, capacitaciones diversas (incluyendo inglés), aplicando nuevas tecnologías y desarrollando proyectos innovadores. Escribinos a [[mailto:rrhh@devsar.com|rrhh@devsar.com]] incluyendo CV.
-
 
  * (18/12/2013) Part Time o Freelance - SSr o Jr Exp - Empresa de Aplicaciones Mobile - Puesto para mantener y extender funcionalidad en backends de nuestras aplicaciones, así como desarrollar nuevos productos.
    * Twisted / Gevent / RabbitMQ / MongoEngine / Google App Engine
