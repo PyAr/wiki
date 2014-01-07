@@ -2,6 +2,10 @@
 
 == 2014 ==
 
+ * (07/01/2014) Buscamos Programador Python/Django/JS con espíritu hacker de los que cuando están aburridos programan, para trabajar en [[http://www.bitpagos.net|BitPagos]] la primer pasarela para pagos en Bitcoin de America Latina. Somos una empresa registrada en USA, indispensable hablar en ingles ya que parte del equipo esta en USA.
+  Escribir en ingles a founders@bitpagos.net adjuntando CV.
+
+
  * (06/01/2014) En [[http://www.msa.com.ar/|MSA]] buscamos incorporar programadores Python (de todos los niveles) con deseables conocimientos de ambiente Open Source, Linux (Ubuntu), tecnologías Web y manejo de bases de datos (SQL).<<BR>>
  Buscamos gente proactiva, con habilidades autodidactas y afinidad al Software Libre.<<BR>>Si pensás que puede interesarte la propuesta, no dejes de comunicarte con nosotros vía mail con el CV y/o pretensiones a <rrhh EN msa PUNTO com PUNTO ar>
 
