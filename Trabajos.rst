@@ -2,7 +2,7 @@
 
 == 2014 ==
 
-* (7/1/2014) [[http://machinalis.com|Machinalis]] La cosa es más o menos así: Machinalis es una empresa Argentina que hace software fundamentalmente pythónico. Laburamos en cosas de Data Mining, Machine Learning, Data Processing & Visualization, Complex Web Development otras cosas del rubro. Publicamos varios proyectos  por acá y damos regularmente charlas en la comunidad así que no sobreabundo en detalles (por cualquier cosa me pinguean por privado y les cuento más "de qué la vamos" con gusto). 
+ * (7/1/2014) [[http://machinalis.com|Machinalis]] La cosa es más o menos así: Machinalis es una empresa Argentina que hace software fundamentalmente pythónico. Laburamos en cosas de Data Mining, Machine Learning, Data Processing & Visualization, Complex Web Development otras cosas del rubro. Publicamos varios proyectos  por acá y damos regularmente charlas en la comunidad así que no sobreabundo en detalles (por cualquier cosa me pinguean por privado y les cuento más "de qué la vamos" con gusto). 
 En ese contexto, estamos evaluando la incorporación en el corto plazo de una persona de Córdoba para que se sume al equipo y meta mano a las cosas de Frontend (maquetado y desarrollo) de un proyecto en particular que tiene un hito dentro de seis meses, pero con ganas de que vaya metiéndole cabeza y desarrollo a cosas típicas de Data Visualization (tales como D3.js) en las cuales como buenos backenderos por ahí nos queda un buen camino por recorrer. 
 
 Algunas keywords que me pasan del área Operativa:
