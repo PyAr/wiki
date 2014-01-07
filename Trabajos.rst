@@ -2,6 +2,16 @@
 
 == 2014 ==
 
+ * (07/01/2014) En iBillionaire buscamos un programador con experiencia en la construcción de aplicaciones web. Alguien que construya las API internas y externas de iBillionaire con experiencia en Python, Django y TastyPie (no excluyente).
+
+- Experiencia en el desarrollo de aplicaciones / sitios que utilizan Python
+
+- Experiencia crear REST / JSON API
+
+- Familiaridad con uno o más de los siguientes: redistribución, memcache, nginx,  mysql
+
+Interesados enviar CV o incluir links a trabajos realizados a fernando@iBillionaire.me con el subject "BackEnd Dev".
+
  * (07/01/2014) Buscamos Programador Python/Django/JS con espíritu hacker de los que cuando están aburridos programan, para trabajar en [[http://www.bitpagos.net|BitPagos]] la primer pasarela para pagos en Bitcoin de America Latina. Somos una empresa registrada en USA, indispensable hablar en ingles ya que parte del equipo esta en USA.  Si te interesa escribí a founders@bitpagos.net adjuntando CV.
 
 
