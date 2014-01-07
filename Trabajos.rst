@@ -2,6 +2,9 @@
 
 == 2014 ==
 
+ * (7/1/2014) [[http://Dzone.com|Dzone]], creadores de [[http://osqa.net|OSQA]], [[http://refcardz.dzone.com/|refcardz]] y [[http://answerhub.com|AnswerHub]] está requiriendo programadores con muy buen conocimiento de Front End (Javascript [jQuery], Css, HTML, Freemarker), y conocimiento de Python y Java. El trabajo es Full o Part Time (pero con compromiso, conexiones diarias y disponibilidad en chat) remoto, las oficinas están en EEUU y el equipo está distribuido entre distintos lugares del planeta. Hay mucho trabajo para hacer y el equipo está en pleno crecimiento. Envianos tu CV y remuneración pretendida a <<MailTo(javyer EN dzone PUNTO com)>> Ref: Front End Developer
+
+
  * (07/01/2014) En iBillionaire buscamos un programador con experiencia en la construcción de aplicaciones web. Alguien que construya las API internas y externas de iBillionaire con experiencia en Python, Django y TastyPie (no excluyente).
 
 - Experiencia en el desarrollo de aplicaciones / sitios que utilizan Python
