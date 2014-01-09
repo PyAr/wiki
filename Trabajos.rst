@@ -62,7 +62,7 @@
 
  * (06/01/2014) Python or wannabe Python Dev
   En [[http://www.msa.com.ar/|MSA]] buscamos incorporar programadores Python (de todos los niveles) con deseables conocimientos de ambiente Open Source, Linux (Ubuntu), tecnologías Web y manejo de bases de datos (SQL).<<BR>>
- Buscamos gente proactiva, con habilidades autodidactas y afinidad al Software Libre.<<BR>>Si pensás que puede interesarte la propuesta, no dejes de comunicarte con nosotros vía mail con el CV y/o pretensiones a <rrhh EN msa PUNTO com PUNTO ar>
+  Buscamos gente proactiva, con habilidades autodidactas y afinidad al Software Libre.<<BR>>Si pensás que puede interesarte la propuesta, no dejes de comunicarte con nosotros vía mail con el CV y/o pretensiones a <rrhh EN msa PUNTO com PUNTO ar>
 
 
 == 2013 ==
