@@ -1,4 +1,17 @@
 = Trabajos con Python =
+ * (9/01/2014)
+Analista Desarrollador Python (Ssr - Sr)
+Consensus Group solicita programadores Python para importante empresa.
+Python 2.3
+Deseable:
+Experiencia en PHP / MySQL.
+Conocimientos Java Script, HTML, CSS.
+Framework Django.
+Ingles técnico. Estudios en Sistemas. Tiempo completo.
+Se ofrece relación de Dependencia.
+Lugar de trabajo: Capital Federal.
+Indicar remuneración pretendida.
+jrodriguez@consensusgroup.net
 
 == 2014 ==
 
