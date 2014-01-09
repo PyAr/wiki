@@ -3,60 +3,67 @@
 == 2014 ==
 
  * (7/1/2014) [[http://machinalis.com|Machinalis]] La cosa es más o menos así: Machinalis es una empresa Argentina que hace software fundamentalmente pythónico. Laburamos en cosas de Data Mining, Machine Learning, Data Processing & Visualization, Complex Web Development otras cosas del rubro. Publicamos varios proyectos  por acá y damos regularmente charlas en la comunidad así que no sobreabundo en detalles (por cualquier cosa me pinguean por privado y les cuento más "de qué la vamos" con gusto). 
-En ese contexto, estamos evaluando la incorporación en el corto plazo de una persona de Córdoba para que se sume al equipo y meta mano a las cosas de Frontend (maquetado y desarrollo) de un proyecto en particular que tiene un hito dentro de seis meses, pero con ganas de que vaya metiéndole cabeza y desarrollo a cosas típicas de Data Visualization (tales como D3.js) en las cuales como buenos backenderos por ahí nos queda un buen camino por recorrer. 
+  En ese contexto, estamos evaluando la incorporación en el corto plazo de una persona de Córdoba para que se sume al equipo y meta mano a las cosas de Frontend (maquetado y desarrollo) de un proyecto en particular que tiene un hito dentro de seis meses, pero con ganas de que vaya metiéndole cabeza y desarrollo a cosas típicas de Data Visualization (tales como D3.js) en las cuales como buenos backenderos por ahí nos queda un buen camino por recorrer. 
 
-Algunas keywords que me pasan del área Operativa:
-Must:
-- HTML5
-- CSS3
-- Proficient use of javascript libraries, at least jquery or equivalent
-- Understand written and oral english
-- Be able to convert designs in graphic formats to HTML+CSS+js code
+  Algunas keywords que me pasan del área Operativa:
 
-Nice to have:
-- Is able to communicate fluently in english
-- Advanced javascript
-- Experience debugging javascript
-- Backbone.js or similar
-- Cross browser development
-- Functional and Asynchronus Programming
-- Require.JS
-- Javascript Good Practices
-- Automated Lint Tools JsHint
-- Less/Sass
-- Bootstrap
-- Python / Django skills
+  Must:
 
-Nota: Haber hecho sólo un Tutorial o Proyecto en la Facultad es "bajo conocimiento" del asunto. Esto evidentemente no está mal porque nadie nace sabiendo, sólo lo digo para alinearnos respecto a la bara. Inclusive se puede tener bajo o nulo conocimiento y por alguna razón considerar ser un candidato pertinente.
+    * HTML5
+    * CSS3
+    * Proficient use of javascript libraries, at least jquery or equivalent
+    * Understand written and oral english
+    * Be able to convert designs in graphic formats to HTML+CSS+js code
 
-Otra keywords que me pasa Machinalis todo: 
-Must: 
-- Gustar de la comida en abundancia cualquier día
-- Ser *responsable* aún cuando seas informal
-- Que seas *buen tipo* y no te de lo mismo hacer las cosas bien o mal y dar una mano y compartir conocimientos con el que está a tu lado.
+  Nice to have:
 
-Ok, entonces, al que esté interesado, mandele un mail a Ignacio (de RRHH, que está operativizando la cosa) a idacal@machinalis.com o a mí o pinguee a su machinálico amigo para preguntarle más info sobre nosotros. 
+    * Is able to communicate fluently in english
+    * Advanced javascript
+    * Experience debugging javascript
+    * Backbone.js or similar
+    * Cross browser development
+    * Functional and Asynchronus Programming
+    * Require.JS
+    * Javascript Good Practices
+    * Automated Lint Tools JsHint
+    * Less/Sass
+    * Bootstrap
+    * Python / Django skills
 
-P.S.: Cualquier otro que ande cerca de las cosas que hacemos y justo tenga ganas y tiempo de hacernos ping sientase libre de hacerlo que del otro palo de cosas más Pythónicas/Djangosas seguimos incorporando con cierta regularidad.
+  Nota: Haber hecho sólo un Tutorial o Proyecto en la Facultad es "bajo conocimiento" del asunto. Esto evidentemente no está mal porque nadie nace sabiendo, sólo lo digo para alinearnos respecto a la bara. Inclusive se puede tener bajo o nulo conocimiento y por alguna razón considerar ser un candidato pertinente.
 
- * (7/1/2014) [[http://Dzone.com|Dzone]], creadores de [[http://osqa.net|OSQA]], [[http://refcardz.dzone.com/|refcardz]] y [[http://answerhub.com|AnswerHub]] está requiriendo programadores con muy buen conocimiento de Front End (Javascript [jQuery], Css, HTML, Freemarker), y conocimiento de Python y Java. El trabajo es Full o Part Time (pero con compromiso, conexiones diarias y disponibilidad en chat) remoto, las oficinas están en EEUU y el equipo está distribuido entre distintos lugares del planeta. Hay mucho trabajo para hacer y el equipo está en pleno crecimiento. Envianos tu CV y remuneración pretendida a <<MailTo(javyer EN dzone PUNTO com)>> Ref: Front End Developer
+  Otra keywords que me pasa Machinalis todo: 
 
+  Must: 
 
- * (07/01/2014) En iBillionaire buscamos un programador con experiencia en la construcción de aplicaciones web. Alguien que construya las API internas y externas de iBillionaire con experiencia en Python, Django y TastyPie (no excluyente).
+    * Gustar de la comida en abundancia cualquier día
+    * Ser *responsable* aún cuando seas informal
+    * Que seas *buen tipo* y no te de lo mismo hacer las cosas bien o mal y dar una mano y compartir conocimientos con el que está a tu lado.
 
-- Experiencia en el desarrollo de aplicaciones / sitios que utilizan Python
+  Ok, entonces, al que esté interesado, mandele un mail a Ignacio (de RRHH, que está operativizando la cosa) a idacal@machinalis.com o a mí o pinguee a su machinálico amigo para preguntarle más info sobre nosotros. 
 
-- Experiencia crear REST / JSON API
-
-- Familiaridad con uno o más de los siguientes: redistribución, memcache, nginx,  mysql
-
-Interesados enviar CV o incluir links a trabajos realizados a fernando@iBillionaire.me con el subject "BackEnd Dev".
-
- * (07/01/2014) Buscamos Programador Python/Django/JS con espíritu hacker de los que cuando están aburridos programan, para trabajar en [[http://www.bitpagos.net|BitPagos]] la primer pasarela para pagos en Bitcoin de America Latina. Somos una empresa registrada en USA, indispensable hablar en ingles ya que parte del equipo esta en USA.  Si te interesa escribí a founders@bitpagos.net adjuntando CV.
+  P.S.: Cualquier otro que ande cerca de las cosas que hacemos y justo tenga ganas y tiempo de hacernos ping sientase libre de hacerlo que del otro palo de cosas más Pythónicas/Djangosas seguimos incorporando con cierta regularidad.
 
 
- * (06/01/2014) En [[http://www.msa.com.ar/|MSA]] buscamos incorporar programadores Python (de todos los niveles) con deseables conocimientos de ambiente Open Source, Linux (Ubuntu), tecnologías Web y manejo de bases de datos (SQL).<<BR>>
+ * (7/1/2014) Ref: Front End Developer
+  [[http://Dzone.com|Dzone]], creadores de [[http://osqa.net|OSQA]], [[http://refcardz.dzone.com/|refcardz]] y [[http://answerhub.com|AnswerHub]] está requiriendo programadores con muy buen conocimiento de Front End (Javascript [jQuery], Css, HTML, Freemarker), y conocimiento de Python y Java. El trabajo es Full o Part Time (pero con compromiso, conexiones diarias y disponibilidad en chat) remoto, las oficinas están en EEUU y el equipo está distribuido entre distintos lugares del planeta. Hay mucho trabajo para hacer y el equipo está en pleno crecimiento. Envianos tu CV y remuneración pretendida a <<MailTo(javyer EN dzone PUNTO com)>> 
+
+
+ * (07/01/2014) Backend Dev
+  En iBillionaire buscamos un programador con experiencia en la construcción de aplicaciones web. Alguien que construya las API internas y externas de iBillionaire con experiencia en Python, Django y TastyPie (no excluyente).
+
+  * Experiencia en el desarrollo de aplicaciones / sitios que utilizan Python
+  * Experiencia crear REST / JSON API
+  * Familiaridad con uno o más de los siguientes: redistribución, memcache, nginx,  mysql
+  Interesados enviar CV o incluir links a trabajos realizados a fernando@iBillionaire.me con el subject "BackEnd Dev".
+
+ * (07/01/2014) Programador Python/Django/JS
+  Buscamos Programador Python/Django/JS con espíritu hacker de los que cuando están aburridos programan, para trabajar en [[http://www.bitpagos.net|BitPagos]] la primer pasarela para pagos en Bitcoin de America Latina. Somos una empresa registrada en USA, indispensable hablar en ingles ya que parte del equipo esta en USA.  Si te interesa escribí a founders@bitpagos.net adjuntando CV.
+
+ * (06/01/2014) Python or wannabe Python Dev
+  En [[http://www.msa.com.ar/|MSA]] buscamos incorporar programadores Python (de todos los niveles) con deseables conocimientos de ambiente Open Source, Linux (Ubuntu), tecnologías Web y manejo de bases de datos (SQL).<<BR>>
  Buscamos gente proactiva, con habilidades autodidactas y afinidad al Software Libre.<<BR>>Si pensás que puede interesarte la propuesta, no dejes de comunicarte con nosotros vía mail con el CV y/o pretensiones a <rrhh EN msa PUNTO com PUNTO ar>
+
 
 == 2013 ==
 
