@@ -13,6 +13,7 @@ Obviamente, tentativo:
 || FacundoBatista ||
 || Juan Gabardini ||
 || Dave ||
+|| Lipe ||
 
 === Fecha y Hora ===
 
