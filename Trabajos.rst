@@ -1,4 +1,8 @@
 = Trabajos con Python =
+
+ * (14/1/2014) En [[http://www.devsar.com|devsAr]] estamos buscando desarrolladores web python para sumarse a nuestro equipo. Trabajo tiempo completo, en relación de dependencia, en nuestra oficina de La Plata. Ofrecemos un buen clima laboral, capacitaciones diversas (incluyendo inglés), aplicando nuevas tecnologías y desarrollando proyectos innovadores. Escribinos a [[mailto:rrhh@devsar.com|rrhh@devsar.com]] incluyendo CV.
+
+
  * (9/01/2014) Analista Desarrollador Python (Ssr - Sr) -- Consensus Group solicita programadores Python para importante empresa. Python 2.3. Deseable: Experiencia en PHP / MySQL. Conocimientos Java Script, HTML, CSS. Framework Django. Ingles técnico. Estudios en Sistemas. Tiempo completo. Se ofrece relación de Dependencia. Lugar de trabajo: Capital Federal. Indicar remuneración pretendida. jrodriguez@consensusgroup.net
 
  * (7/1/2014) [[http://machinalis.com|Machinalis]] La cosa es más o menos así: Machinalis es una empresa Argentina que hace software fundamentalmente pythónico. Laburamos en cosas de Data Mining, Machine Learning, Data Processing & Visualization, Complex Web Development otras cosas del rubro. Publicamos varios proyectos  por acá y damos regularmente charlas en la comunidad así que no sobreabundo en detalles (por cualquier cosa me pinguean por privado y les cuento más "de qué la vamos" con gusto). 
