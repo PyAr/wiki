@@ -85,8 +85,7 @@ Ejemplo:
 {{{#!code python
 def f(x):
     def g():
-        x += 1
-        return x
+        return x + 1
     return g()
     # aquí "x" se incrementó, x no es local a 'g'
     # x es una celda en toda la función f
