@@ -1,6 +1,6 @@
 = Trabajos con Python =
 
- * (16/1/2014) En [[http://www.suremptec.com/]] estamos buscando analistas programadores python para desarrollar un producto de planificación y ejecución de procesos batch para la siguiente misión satelital Argentina. Hay más información en [[http://www.suremptec.com/es/la-empresa/trabajarensur/82-programadoresc.html|búsqueda python]]. Los interesados pueden enviar CV y pretensiones a [[mailto:rrhh@suremptec.com.ar]].
+ * (16/1/2014) En [[http://www.suremptec.com/]] estamos buscando analistas programadores python para desarrollar un producto de planificación y ejecución de procesos batch para la siguiente misión satelital Argentina. Hay más información en [[http://www.suremptec.com/es/la-empresa/trabajarensur/82-programadoresc.html|búsqueda python]]. Los interesados pueden enviar CV y pretensiones a [[mailto:rrhh@suremptec.com.ar|rrhh@suremptec.com.ar]].
 
  * (14/1/2014) En [[http://www.devsar.com|devsAr]] estamos buscando desarrolladores web python para sumarse a nuestro equipo. Trabajo tiempo completo, en relación de dependencia, en nuestra oficina de La Plata. Ofrecemos un buen clima laboral, capacitaciones diversas (incluyendo inglés), aplicando nuevas tecnologías y desarrollando proyectos innovadores. Escribinos a [[mailto:rrhh@devsar.com|rrhh@devsar.com]] incluyendo CV.
 
