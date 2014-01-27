@@ -1,4 +1,4 @@
-= Reunión 62 - 30/01/2013 - Post Street bar =
+= Reunión 62 - 30/01/2014 - Ciudad de Buenos Aires, en el bar de la esquina de Medrano y Guardia Vieja - 19hs
 
 === Temario ===
  
@@ -22,4 +22,4 @@ Jueves 30 de Enero de 2013 - 19hs
 
 === Lugar ===
 
-Post Street bar, Thames 1885, CABA
+Ciudad de Buenos Aires, en el bar de la esquina de Medrano y Guardia Vieja
