@@ -1,4 +1,4 @@
-= Reunión 62 - 30/01/2014 - Ciudad de Buenos Aires, en el bar de la esquina de Medrano y Guardia Vieja - 19hs
+= Reunión 62 - 30/01/2014 - CABA - 19hs =
 
 === Temario ===
  
