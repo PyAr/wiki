@@ -1,5 +1,8 @@
 = Trabajos con Python =
 
+ * (04/02/2014) En Santex estamos buscando un Desarrollador Python. Se valorará conocimiento en tecnologia relacionada: Django, XML, XPath, RestApi, Ant, Cloud Computing, Python OpenSource libraries, Vagrant, Celery.
+Habilidades: Conocimientos y manejo de herramientas de modelado para UML, metodología orientada a objetos, herramientas de pruebas, controlador de versiones, experiencia en el análisis, diseño y desarrollo de componentes empresariales. Trabajo en equipo, liderazgo personal y tecnológico. Ingles: avanzado. Los interesados en conocer más pueden enviar su CV a jobs@santexgroup.com.
+
  * (03/02/2014) En [[http://www.suremptec.com/]] estamos buscando programadores python para desarrollar procesadores batch de información geoespacial (imágenes satelitales, datos vectoriales) para misión satelital argentina. Hay más información en [[http://www.suremptec.com/es/la-empresa/trabajarensur/94-programador-python-sr-o-ssr-.html|búsqueda python batch]]. Los interesados pueden enviar CV y pretensiones a [[mailto:rrhh@suremptec.com.ar|rrhh@suremptec.com.ar]].
 
  * (16/01/2014) En [[http://www.suremptec.com/]] estamos buscando analistas programadores python para desarrollar un producto de planificación y ejecución de procesos batch para la siguiente misión satelital Argentina. Hay más información en [[http://www.suremptec.com/es/la-empresa/trabajarensur/82-programadoresc.html|búsqueda python]]. Los interesados pueden enviar CV y pretensiones a [[mailto:rrhh@suremptec.com.ar|rrhh@suremptec.com.ar]].
