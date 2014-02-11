@@ -1,6 +1,6 @@
 = Trabajos con Python =
 
- * (11/02/2014) En [[http://www.juju.com|Juju]] buscamos Desarrolladores Python con conocimientos de inglés para trabajo remoto. Se trabaja en forma directa para la expresa extranjera, sin intermediarios (su producto principal es un [[http://www.job-search-engine.com/|buscador de trabajos]]). Postularse en [[http://juju.theresumator.com/apply/vnGzCB/Web-Application-Developer-Chile-Argentina.html|esta página]].
+ * (11/02/2014) En [[http://www.juju.com|Juju]] buscamos Desarrolladores Python con conocimientos de inglés para trabajo remoto. Se trabaja en forma directa para la expresa extranjera, sin intermediarios (su producto principal es un [[http://www.job-search-engine.com/|buscador de trabajos]]). Postularse [[http://juju.theresumator.com/apply/vnGzCB/Web-Application-Developer-Chile-Argentina.html|aquí]].
 
  * (04/02/2014) En Santex estamos buscando un Desarrollador Python. Se valorará conocimiento en tecnologia relacionada: Django, XML, XPath, RestApi, Ant, Cloud Computing, Python OpenSource libraries, Vagrant, Celery.
 Habilidades: Conocimientos y manejo de herramientas de modelado para UML, metodología orientada a objetos, herramientas de pruebas, controlador de versiones, experiencia en el análisis, diseño y desarrollo de componentes empresariales. Trabajo en equipo, liderazgo personal y tecnológico. Ingles: avanzado. Los interesados en conocer más pueden enviar su CV a jobs@santexgroup.com.
