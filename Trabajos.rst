@@ -1,5 +1,7 @@
 = Trabajos con Python =
 
+ * (11/02/2014) En [[http://www.juju.com|Juju]] buscamos Desarrolladores Python con conocimientos de inglés para trabajo remoto. Se trabaja directamente en la expresa extranjera ([[http://www.job-search-engine.com/|buscador de trabajos]]). Postularse en [[http://juju.theresumator.com/apply/vnGzCB/Web-Application-Developer-Chile-Argentina.html|esta página]].
+
  * (04/02/2014) En Santex estamos buscando un Desarrollador Python. Se valorará conocimiento en tecnologia relacionada: Django, XML, XPath, RestApi, Ant, Cloud Computing, Python OpenSource libraries, Vagrant, Celery.
 Habilidades: Conocimientos y manejo de herramientas de modelado para UML, metodología orientada a objetos, herramientas de pruebas, controlador de versiones, experiencia en el análisis, diseño y desarrollo de componentes empresariales. Trabajo en equipo, liderazgo personal y tecnológico. Ingles: avanzado. Los interesados en conocer más pueden enviar su CV a jobs@santexgroup.com.
 
@@ -93,6 +95,7 @@ Habilidades: Conocimientos y manejo de herramientas de modelado para UML, metodo
 
  * (31/11/2013) Desarrollador jr o ssr Django y Javascript
      '''XTech''' es una empresa que hace muchos años está en el mercado de Linux y Software Libre, orientada a la infraestrucutura. Actualmente estamos consolidando un sector de desarrollo en la empresa y buscamos programadores que quieran profundizar en python, django y javascript en un ambiente tranquilo y en crecimiento. Enviar CV con remuneración pretendida a rrhh@xtech.com.ar.
+
  * (29/10/2013) Nos encontramos en búsqueda de un Python & Django Developer para trabajar en importante cliente offshore. Requisitos técnicos:
   * Skill General: Python & Django SR (excluyente)
   * Desarrollo web transaccionales high-volume/high-availability (idealmente LAMP stack)
@@ -120,7 +123,7 @@ Habilidades: Conocimientos y manejo de herramientas de modelado para UML, metodo
 
  * En la empresa donde trabajo, Frank Collaboration (del grupo Corbis Global) estan buscando 1 programador django con 1 año de experiencia, cualquier cosa mi mail es pablo.dalmasso@frankcollaboration.com, cualquier cosa no duden en preguntar.
  
- * En [[http://www.juju.com|Juju]] buscamos desarrolladores con experiencia en Python y buen manejo de inglés para trabajo remoto (desde casa). Es para trabajar directamente en la expresa extranjera. Para más detalles visitar [[http://juju.theresumator.com/apply/vnGzCB/Web-Application-Developer-Chile-Argentina.html|este link]].
+ * (20/09/2013) En [[http://www.juju.com|Juju]] buscamos desarrolladores con experiencia en Python y buen manejo de inglés para trabajo remoto (desde casa). Es para trabajar directamente en la expresa extranjera. Para más detalles visitar [[http://juju.theresumator.com/apply/vnGzCB/Web-Application-Developer-Chile-Argentina.html|este link]].
 
  * (17/09/2013) Estamos buscando un desarrollador con experiencia en screen scraping/web crawling y que preferentemente sepa usar scrapy. Interesados comunicarse a: <<rod0n ARROBA live PUNTO com PUNTO ar>>
 
