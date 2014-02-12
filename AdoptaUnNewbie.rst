@@ -22,6 +22,7 @@
 === Disponibles ===
  * Mauro Lizaur (debian, algo de django, cosas en general, ayuda con proyectos grandes(?). )
  * MartinAlderete (Qt/PyQt, python web frameworks, python en general) http://github.com/malderete
+ * Emiliano Dalla Verde Marcozzi (python en general)
  * ManuelNaranjo (django, dbus, bluetooth, opencv, numpy y scipy, cosas relacionadas con electrónica en general y señales)
  * FacundoBatista: Para CDPedia, Lalita, Python, Twisted a Py3, Enjuewemela y Magicicada (más info [[http://www.taniquetil.com.ar/plog/post/1/507|acá]]).
  * --(Horacio Duran: Para plone, python, django bastante basico, pregunten y les cuento si se o no.)--
