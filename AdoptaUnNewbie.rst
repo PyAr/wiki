@@ -33,7 +33,6 @@
 
 === Ocupados ===
  * MartinAlderete ( PyQt, GUI programming)(Ochoa Gerardo Fidel)
- * [[DavidLitvak|David Litvak]]: Para Crawley-Project, python orientado a objetos, django, web y un poco de vim (Jonathan Scherz)
  * JuanFisanotti (django y web, python en general, inteligencia artificial, vim) (Emanuel Toro y Jean Jacques)
 
 
