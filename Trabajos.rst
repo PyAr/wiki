@@ -1,5 +1,7 @@
 = Trabajos con Python =
 
+ * (14/02/2014) En [[http://www.onapsis.com|Onapsis]], Buscamos programadores '''Python SR o SSR''' y '''Front-End JS/HTML/CSS''' para colaborar en proyectos de seguridad informática. Interesados pueden mandar ping a <<MailTo(careers@onapsis.com)>> Ref: PyHacker
+
  * (13/02/2014) Programador de FRONT-END: iBillionaire busca un Front End Programador. 2 años  de experiencia en Front-End. Conocimientos de JavaScript, HTML, CSS. iBillionaire esta hecho en Python y el framework Django si sabes esto lenguajes aun mejor! Por favor enviar CV/Portfolio/Github a raul@iBillionaire.me
 
  * (11/02/2014) En [[http://www.juju.com|Juju]] buscamos Desarrolladores Python con conocimientos de inglés para trabajo remoto. Se trabaja en forma directa para la expresa extranjera, sin intermediarios (su producto principal es un [[http://www.job-search-engine.com/|buscador de trabajos]]). Postularse [[http://juju.theresumator.com/apply/vnGzCB/Web-Application-Developer-Chile-Argentina.html|aquí]].
