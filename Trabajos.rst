@@ -1,5 +1,7 @@
 = Trabajos con Python =
 
+ * (18/02/2014) En [[http://www.itcrowdarg.com|IT Crowd Argentina]],  buscamos programadores Python SR o SSR con 2 años experiencia minima para colaborar en el desarrollo del backend de una nueva red social norteamericana. Trabajo 100% remoto, horarios flexibles y muy buen ambiente laboral. Conocimientos de Django y Flask son un plus. Se requiere buen nivel de inglés (oral / escrito). Los interesados por favor contactarse con Alejandro Isacovich a <<MailTo(aisacovich@itcrowdarg.com)>> Ref: Python
+
  * (14/02/2014) En [[http://www.onapsis.com|Onapsis]], Buscamos programadores '''Python SR o SSR''' y '''Front-End JS/HTML/CSS''' para colaborar en proyectos de seguridad informática. Interesados pueden mandar ping a <<MailTo(careers@onapsis.com)>> Ref: PyHacker
 
  * (13/02/2014) Programador de FRONT-END: iBillionaire busca un Front End Programador. 2 años  de experiencia en Front-End. Conocimientos de JavaScript, HTML, CSS. iBillionaire esta hecho en Python y el framework Django si sabes esto lenguajes aun mejor! Por favor enviar CV/Portfolio/Github a raul@iBillionaire.me
