@@ -1,4 +1,11 @@
 = Trabajos con Python =
+ * (18/02/2014) En iBillionaire buscamos un programador con experiencia en la construcción de aplicaciones web. Alguien que construya las API internas y externas de iBillionaire con experiencia en Python, Django y TastyPie (no excluyente).
+
+Experiencia en el desarrollo de aplicaciones / sitios que utilizan Python
+Experiencia crear REST / JSON API
+Familiaridad con uno o más de los siguientes: redistribución, memcache, nginx, mysql
+Interesados enviar CV o incluir links a trabajos realizados a fernando@iBillionaire.me con el subject "BackEnd Dev"
+
 
  * (18/02/2014) En [[http://www.itcrowdarg.com|IT Crowd Argentina]],  buscamos programadores Python SR o SSR con 2 años experiencia minima para colaborar en el desarrollo del backend de una nueva red social norteamericana. Trabajo 100% remoto, horarios flexibles y muy buen ambiente laboral. Conocimientos de Django y Flask son un plus. Se requiere buen nivel de inglés (oral / escrito). Los interesados por favor contactarse con Alejandro Isacovich a <<MailTo(aisacovich@itcrowdarg.com)>> Ref: Python
 
