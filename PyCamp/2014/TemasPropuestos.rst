@@ -42,3 +42,9 @@ En este PyCamp pensamos estar trabajando en algunas de las nuevas features y dej
 Pequeña demo muy básica: http://youtu.be/wKxqTgC8Z7Q
 
 ''Propone: DiegoSarmentero''
+
+=== PyConference ===
+
+[[https://github.com/PyConference/PyConference|PyConference]] es una aplicación para administración de eventos. Si bien está pensada para tener features generales que puedan aplicarse a (casi) cualquier meetup, conferencia, hackaton, etc., surgió como una iniciativa para facilitar la creación y administración de eventos de PyAr (PyDay, PyConAr, etc.), ofreciendo hosting gratuito, personalización de estilos fácil de usar, sistema de votación de charlas para los organizadores, perfil y administrador de charlas para disertantes, entre otras.
+
+''Propone: Filly''
