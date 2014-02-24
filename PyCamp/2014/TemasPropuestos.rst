@@ -39,4 +39,6 @@ En este PyCamp pensamos estar trabajando en algunas de las nuevas features y dej
 
 [[https://github.com/diegosarmentero/CodeTranslator/|CodeTranslator]] es una simple aplicación que busca permitir la traducción de código fuente o APIs de una librería para que la misma pueda ser utilizada en distintos idiomas (Español, Ingles, etc). La idea surge principalmente basada en Pilas, cuya API es en español, pero es una gran herramienta de enseñanza para programar que podría ser utilizada por distintas personas que hablen distintos idiomas, y la idea de esta aplicación es poder permitir eso.
 
+Pequeña demo muy básica: http://youtu.be/wKxqTgC8Z7Q
+
 ''Propone: DiegoSarmentero''
