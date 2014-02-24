@@ -34,3 +34,9 @@ Más info en [[http://www.taniquetil.com.ar/plog/post/1/608|este post]]. El [[ht
 En este PyCamp pensamos estar trabajando en algunas de las nuevas features y dejar funcionando el soporte de Plugins acorde a la nueva arquitectura que facilita mucho el desarrollo y da mas opciones. Aquellos interesados en desarrollar plugins o features mismas del IDE pueden participar y aprender en simultaneo ambas cosas ya que la API utilizada para ambas tareas es la misma.
 
 ''Propone: DiegoSarmentero''
+
+=== CodeTranslator ===
+
+[[https://github.com/diegosarmentero/CodeTranslator/|CodeTranslator]] es una simple aplicación que busca permitir la traducción de código fuente o APIs de una librería para que la misma pueda ser utilizada en distintos idiomas (Español, Ingles, etc). La idea surge principalmente basada en Pilas, cuya API es en español, pero es una gran herramienta de enseñanza para programar que podría ser utilizada por distintas personas que hablen distintos idiomas, y la idea de esta aplicación es poder permitir eso.
+
+''Propone: DiegoSarmentero''
