@@ -1,3 +1,4 @@
+## page was renamed from PyCamp/2014/Beca
 === Ayuda económica para ir al PyCamp ===
 
 Este año también habrán becas para facilitar el ir al PyCamp.
