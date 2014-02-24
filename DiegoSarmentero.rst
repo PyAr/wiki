@@ -7,7 +7,8 @@ Creador de NINJA-IDE, amante del Software Libre y apasionado por todo lo relacio
 En otras palabras:
 "Programmer... Computer Geek... Human Being??"
 
- * Blog: http://diegosarmentero.com.ar
+ * Pagina Personal: http://diegosarmentero.org
+ * Blog: http://diegosarmentero.com
  * NINJA-IDE Página Oficial: http://ninja-ide.org
  * NINJA-IDE Source Code: https://github.com/ninja-ide/ninja-ide
  * Twitter: http://twitter.com/diegosarmentero
