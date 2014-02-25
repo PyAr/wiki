@@ -9,7 +9,8 @@
 
 --(Trabajo de Electricista Industrial y Técnico en Automatización en [[http://www.flowtec.com.ar|Flowtec SRL]])--
 
-Trabajo en [[http://www.gcoop.coop|Gcoop]]
+--(Trabajo en [[http://www.gcoop.coop|Gcoop]])--
+Trabajo en [[http://www.machinalis.com|Machinalis]] 
 
 Empeze a usar Python como Hobby, básicamente para armar scripts administrativos.
 
