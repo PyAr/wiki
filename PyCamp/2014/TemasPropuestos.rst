@@ -48,3 +48,9 @@ Pequeña demo muy básica: http://youtu.be/wKxqTgC8Z7Q
 [[https://github.com/PyConference/PyConference|PyConference]] es una aplicación para administración de eventos. Si bien está pensada para tener features generales que puedan aplicarse a (casi) cualquier meetup, conferencia, hackaton, etc., surgió como una iniciativa para facilitar la creación y administración de eventos de PyAr (PyDay, PyConAr, etc.), ofreciendo hosting gratuito, personalización de estilos fácil de usar, sistema de votación de charlas para los organizadores, perfil y administrador de charlas para disertantes, entre otras.
 
 ''Propone: Filly''
+
+=== Mint for argentina ===
+
+[[https://www.mint.com/]] es una aplicación de contabilidad personal, el feature mas interesante es que se conecta con tu cuenta de banco y puede analizar tus gastos para recomendarte formas de ahorrar mas. Por ahora es imposible atarse a la cuenta de banco pero la idea es hackear una aplicación como mint que ¿lea tu resumen de cuenta? y pueda ayudarte a gastar menos (o al menos que diga en que gastas mucho). Es un proyecto que tengo en la cabeza hace un tiempo y quizás a alguien mas le interesa.
+
+''Propone: SebastianAlvarez''
