@@ -148,5 +148,12 @@ Propongo **migrar** la wiki actual a una aplicación wiki basada en Django, inte
 
 La aplicación wiki "pluggable" más desarrollada y mantenida es [[http://django-wiki.readthedocs.org|Django-wiki]] que utiliza el markup Markdown y persiste el contenido en . Una alternativa es evaluar el desarrollo de una app ad hoc para Django inspirada en [[https://github.com/mgaitan/waliki/|Waliki]], que mantenga el contenido en formato de archivos y utilice como sistema de control de cambios Git
 
-
 ''Propone: MartinGaitan''
+
+=== En la búsqueda del testrunner soñado ===
+
+Propuse una lista de características que debería tener un test runner ideal; la idea es discutir eso, ver si hay que cambiar algo, y trabajar para lograrlo (no haciendo algo desde cero, sino muy probablemente realizando modificaciones o armando un plugin a algo que ya exista). 
+
+La lista de características y más explicación del tema, [[http://www.taniquetil.com.ar/plog/post/1/642|en mi blog]].
+
+''Propone: FacundoBatista''
