@@ -2,8 +2,9 @@
 
 == Que se hace en un PyCamp ==
 
-[[PyCamp/QueSeHace|Que se hace en un PyCamp]]
+Acá hay una página que explica en detalle la [[PyCamp/QueSeHace|dinámica de trabajo en un PyCamp]].
 
+Para esta edición, vamos anotando acá los [[PyCamp/2014/TemasPropuestos|temas propuestos]].
 
 == Fecha ==
 
