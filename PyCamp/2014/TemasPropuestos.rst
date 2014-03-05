@@ -144,9 +144,9 @@ Semanas antes del PyCamp se organizó un grupo espontáneo encabezado por Emilia
 
 El ''engine'' wiki con el que funciona el sitio actual es [[http://moinmo.in/|MoinMoin]], que, además de tener una apareciencia por  default bastante fea (un poco suavizada por la customización del encabezado) tiene un ''markup'' ad hoc bastante complicado, muy baja usabilidad, código fuente complejo y documentación escasa. 
 
-Propongo **migrar** la wiki actual a una aplicación wiki basada en Django, integrada al ''look & feel'' del nuevo sitio y motorizada por el mismo framework. Este incluye: a) usuarios b) estructura de URL y contenido de todas las páginas (preferentente convirtiendo markup) c) historial de modificaciones de todas las páginas 
+Propongo **migrar** la wiki actual a una aplicación wiki basada en Django, integrada al ''look & feel'' del nuevo sitio y motorizada por el mismo framework. Esto incluye: a) usuarios b) estructura de URL y contenido de todas las páginas (preferentente convirtiendo markup) c) historial de modificaciones de todas las páginas d) multimedia y otros contenidos
 
-La aplicación wiki "pluggable" más desarrollada y mantenida es [[http://django-wiki.readthedocs.org|Django-wiki]] que utiliza el markup Markdown y persiste el contenido en . Una alternativa es evaluar el desarrollo de una app ad hoc para Django inspirada en [[https://github.com/mgaitan/waliki/|Waliki]], que mantenga el contenido en formato de archivos y utilice como sistema de control de cambios Git
+La aplicación wiki "pluggable" pada Django más desarrollada y mantenida es [[http://django-wiki.readthedocs.org|Django-wiki]] que utiliza el markup Markdown y persiste el contenido (y las revisiones) de la base de datos. Una alternativa es evaluar el desarrollo de una app ad hoc para Django inspirada en [[https://github.com/mgaitan/waliki/|Waliki]], que mantenga el contenido en formato de archivos y utilice como sistema de control de cambios Git
 
 ''Propone: MartinGaitan''
 
