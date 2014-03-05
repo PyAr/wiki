@@ -81,3 +81,31 @@ Propuse una lista de características que debería tener un test runner ideal; l
 La lista de características y más explicación del tema, [[http://www.taniquetil.com.ar/plog/post/1/642|en mi blog]].
 
 ''Propone: FacundoBatista''
+
+=== Charla + actividad grupal: Key signing party ===
+
+==== Antes del PyCamp: ====
+
+ * Crear tu keypair, usar los algoritmo RSA y SHA2, se sugiere usar un tamaño de 4096 bits
+ * Imprimir varias etiquetas conteniendo información sobre tu keypair. Por ejemplo, múltlples copias por página de la salida del siguiente comando
+{{{
+gpg -v --fingerprint <ID de tu keypair>
+}}}
+o usando la utilidad ``gpg-key2ps`` del paquete ''signing-party'' (Debian/Ubuntu)
+
+ * llevar al PyCamp algun identificación: DNI, DU, pasaporte, tarjeta verde. Un documento en el cual se vea tu nombre y tu foto.
+
+==== Durante y depués de la keysigning party: ====
+
+Ver el material enlazado mas abajo.
+
+Ver:
+
+ * http://keyring.debian.org/creating-key.html
+ * http://ekaia.org/blog/2009/05/10/creating-new-gpgkey/
+ * https://wiki.debian.org/Keysigning
+ * http://pgp-tools.alioth.debian.org/
+ * https://help.ubuntu.com/community/GnuPrivacyGuardHowto
+
+ 
+''Propone: RamiroMorales''
