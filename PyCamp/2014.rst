@@ -1,3 +1,5 @@
+#acl AdminGroup:admin,read,write,delete,revert ReadWriteGroup:read,write All:read 
+
 = PyCamp 2014 =
 
 == Que se hace en un PyCamp ==
