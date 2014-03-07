@@ -37,7 +37,7 @@ BbsAnR8/eqRwlhxlbF2ZYP+bYDz8QUzU
 -----END PGP SIGNATURE-----
 }}}
 
-(Eso está firmado con la clave de Facundo, http://launchpad.net/~facundo )
+(Eso está firmado con [[http://launchpad.net/~facundo|la clave de Facundo]])
 
 Luego, mandan un mail al hotel ''*Y*'' a FacundoBatista, especificando los datos del movimiento, más nombre completo.
 
