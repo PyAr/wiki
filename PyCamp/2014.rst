@@ -19,11 +19,25 @@ Para hacer la reserva y confirmar tu lugar en el evento tenés que hacer una tra
 
 Los datos para la transferencia o depósito son:
 
- * Banco MACRO - SUCURSAL Nº 318
- * Titular: GRUPO MANSUR S.A
- * CUENTA CORRIENTE Nº: 3-318-0940805444-0
- * CBU: 2850318-7-3009408054440-1
- * CUIT: 30-71028304-0
+{{{
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Banco MACRO - SUCURSAL Nº 318
+Titular: GRUPO MANSUR S.A
+CUENTA CORRIENTE Nº: 3-318-0940805444-0
+CBU: 2850318-7-3009408054440-1
+CUIT: 30-71028304-0
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.14 (GNU/Linux)
+
+iEYEARECAAYFAlMaLI8ACgkQsvkJdNI0dU3wMACgwpr5+LgRBGWiwK1DjhncSB5o
+BbsAnR8/eqRwlhxlbF2ZYP+bYDz8QUzU
+=5F2g
+-----END PGP SIGNATURE-----
+}}}
+
+(Eso está firmado con la clave de Facundo, http://launchpad.net/~facundo )
 
 Luego, mandan un mail al hotel ''*Y*'' a FacundoBatista, especificando los datos del movimiento, más nombre completo.
 
