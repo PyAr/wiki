@@ -1,4 +1,6 @@
 = Trabajos con Python =
+ * (07/03/2014) Busco programador con experiencia en Python para proyecto de análisis de datos. Requeridos: conocer la librería Pandas (o el lenguage R) muy bien. Adicionales: JavaScript, iPython Notebook, Matplotlib y Scrappy. Para más información : federico.emiliani (at) ttwick.com
+
  * (06/03/2014) Busco programador con experiencia en Python/Django para trabajar de forma freelance por proyecto. La carga horaria semanal promedio sería de unas 12hs semanales en principio dada la demanda actual. De estar interesados se pueden comunicar a través del siguiente e-mail: rod0n@live.com.ar. Les pido me envíen CV/github/bitbucket/linkedin y remuneración horaria pretendida.
 
  * (19/02/2014) Sr. Python Engineer (remoto) para empresa de San Francisco: En Ampush (Facebook Strategic Partner)   estamos buscando un Sr. Python Engineer que contribuya a construir una plataforma de manejo de Ads para Facebook y Twitter. El salario es en USD, para candidatos en Rosario. Más información: http://www.computrabajo.com.ar/bt-ofrd-ampush-0.htm
