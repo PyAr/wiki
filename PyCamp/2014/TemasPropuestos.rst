@@ -109,3 +109,14 @@ Ver:
 
  
 ''Propone: RamiroMorales''
+
+
+=== Clínica de migración a Py3k ===
+
+La idea es migrar código a Python 3. 
+
+Puede ser un proyecto que tengas y quieras migrar, o una biblioteca que necesites y que haya que migrar, o incluso una biblioteca que sepamos que hay que migrar... 
+
+No importa qué, el tema es migrar código, y hacerlo entre varios así aprendemos y nos sacamos las dudas en el momento.
+
+''Propone: FacundoBatista''
