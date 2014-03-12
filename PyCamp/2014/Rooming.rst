@@ -14,6 +14,8 @@ Esto es: tres camas individuales.
  * Julian Waksberg -
  * HugoRuscitti - 
  * Juan Carizza - Emiliano Dalla Verde Marcozzi - Matias Barriento
+ * Bressan Micaela - Pron José - Scarafía Juan Ignacio
+ * Balaudo Gabriel - Fisanotti Juan Pedro - Mié Federico
 
 === Habitaciones matrimoniales ===
 
