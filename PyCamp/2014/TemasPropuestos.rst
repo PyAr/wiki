@@ -120,3 +120,11 @@ Puede ser un proyecto que tengas y quieras migrar, o una biblioteca que necesite
 No importa qué, el tema es migrar código, y hacerlo entre varios así aprendemos y nos sacamos las dudas en el momento.
 
 ''Propone: FacundoBatista''
+
+
+=== Granjita de robots twitteros ===
+
+Alguna vez quisiste tener 20mil seguidores en twitter y que todos tus chistes sean trending topic?
+
+
+''Propone: LucioTorre''
