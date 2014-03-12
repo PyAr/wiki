@@ -14,5 +14,7 @@ Esto es: tres camas individuales.
 
 === Habitaciones matrimoniales ===
 
+Esto es: una cama grandota.
+
  * Natalia Bidart - Matías Bordese
  * ...
