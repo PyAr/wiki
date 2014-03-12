@@ -14,5 +14,5 @@ Esto es: tres camas individuales.
 
 === Habitaciones matrimoniales ===
 
- * Gardel - Lepera
+ * Natalia Bidart - Matías Bordese
  * ...
