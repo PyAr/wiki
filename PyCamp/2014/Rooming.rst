@@ -12,6 +12,7 @@ Esto es: tres camas individuales.
  * JuanJo Ciarlante -
  * Lucio Torre -
  * Julian Waksberg -
+ * HugoRuscitti - 
  * Juan Carizza - Emiliano Dalla Verde Marcozzi - Matias Barriento
 
 === Habitaciones matrimoniales ===
