@@ -8,8 +8,7 @@ Hay tiempo hasta el viernes 14 al mediodía, los que no estén anotados acá se 
 
 Esto es: tres camas individuales.
 
- * Fulano - Mengano - Sutano 
- * Foo - Bar - Baz
+ * Diego Sarmentero - Horacio Durán - Emilio Ramirez
  * ...
 
 === Habitaciones matrimoniales ===
