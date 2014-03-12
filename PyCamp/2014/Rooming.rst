@@ -11,6 +11,7 @@ Esto es: tres camas individuales.
  * Diego Sarmentero - Horacio Durán - Emilio Ramirez
  * JuanJo Ciarlante -
  * Lucio Torre -
+ * Julia Waksberg -
 
 === Habitaciones matrimoniales ===
 
