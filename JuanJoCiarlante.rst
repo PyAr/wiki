@@ -1,7 +1,7 @@
 ##master-page:HomepageTemplate
 #format wiki
 #language en
-== @JuanJoCiarlante@ ==
+== JuanJoCiarlante ==
 
 Email: {{{ $ echo anVhbmpvc2VjQGdtYWlsLmNvbQo= | base64 -d }}}
 
