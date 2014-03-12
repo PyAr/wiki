@@ -1,6 +1,6 @@
 == Distribución de humanoides en habitaciones ==
 
-Anotate directamente, en grupos de 3 o de 2.
+Anotate directamente, en grupos de 3 (camas individuales) o de 2 (cama matrimonial).
 
 Hay tiempo hasta el viernes 14 al mediodía, los que no estén anotados acá se sortean!
 
