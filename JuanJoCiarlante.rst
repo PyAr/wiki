@@ -24,7 +24,7 @@ Soy profesor de grado y posgrado de la Universidad de Mendoza, desde
 1999.
 Orador de TEDx[7], he trabajado como Site Reliability Engineer para Google
 Switzerland GmbH, actualmente trabajo para Canonical Ltd en el equipo de
-DevOps/SA [7].
+DevOps/SA [8].
 
 
 
