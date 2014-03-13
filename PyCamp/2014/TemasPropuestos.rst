@@ -139,3 +139,9 @@ Yo tengo para poner tablet, disco (es muuy viejo), webcam (no graba con la re ca
 
 
 ''Propone: FedericoMie''
+
+=== pbt - Python Building Tools ===
+
+En una charla relampago en la ultima Pycon MarianoGuerra propuso implementar una herramienta que colabore en simplificar el desarrollo en python. Despues de varios vinos en el asado final se propuso construir pbt(Se lee pebete) se armo un repo, y mariano construyo un esqueleto que es [[https://github.com/pebete/pbt|este ]] la idea de trabajarlo en la pycamp es darle funcionalidades basicas como para tener una version "usable" del mismo.
+
+''Propone: JairoTrad''
