@@ -155,6 +155,18 @@ AngelFreire
 '''Slides: ''' [[http://github.com/cuerty/eacpy/raw/master/eacpy.odp]]
 '''Fuentes: ''' [[http://github.com/cuerty/eacpy]]
 
+----
+== Paralelismo en Python ==
+''Claudio Freire''
+
+'''Slides: '''[[attachment:multiprocessing.pdf]] (pdf) [[attachment:multiprocessing.odp]] (OpenOffice)
+
+----
+== Caching para hordas y estampidas ==
+''Claudio Freire''
+
+'''Slides: '''[[attachment:caching.pdf]] (pdf) [[attachment:caching.odp]] (OpenOffice)
+
 = PyConAr2010 =
 
 
