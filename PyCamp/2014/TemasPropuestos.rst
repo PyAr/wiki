@@ -128,3 +128,14 @@ Alguna vez quisiste tener 20mil seguidores en twitter y que todos tus chistes se
 
 
 ''Propone: LucioTorre''
+
+
+=== FlapPy Bot ===
+
+La idea sería armar un robot que pueda jugar al flappy bird (o alguna de sus numerosas copias).
+Algo parecido a [[https://www.youtube.com/watch?v=kHkMaWZFePI|ésto]].
+Según dicen lo armaron en sólo 4 días (son chinos, va a estar difícil, pero hay que ganarles).
+Yo tengo para poner tablet, disco (es muuy viejo), webcam (no graba con la re calidad), trípode.
+
+
+''Propone: FedericoMie''
