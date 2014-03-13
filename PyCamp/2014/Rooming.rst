@@ -16,6 +16,7 @@ Esto es: tres camas individuales.
  * Juan Carizza - Emiliano Dalla Verde Marcozzi - Matias Barriento
  * Bressan Micaela - Pron José - Scarafía Juan Ignacio
  * Balaudo Gabriel - Fisanotti Juan Pedro - Mié Federico
+ * Jairo Trad - Martín Gaitán - Pablo Celayes
 
 === Habitaciones matrimoniales ===
 
