@@ -11,12 +11,12 @@ Esto es: tres camas individuales.
  * Diego Sarmentero - Horacio Durán - Emilio Ramirez
  * EloyColell -
  * JuanJoCiarlante -
- * Lucio Torre -
+ * Lucio Torre 
  * Julian Waksberg -
  * HugoRuscitti - 
- * Juan Carizza - Emiliano Dalla Verde Marcozzi - Matias Barriento
- * Bressan Micaela - Pron José - Scarafía Juan Ignacio
- * Balaudo Gabriel - Fisanotti Juan Pedro - Mié Federico
+ * Emiliano Dalla Verde Marcozzi - Matias Barriento
+ * Micaela Bressan - José Pron - Juan Ignacio Scarafía 
+ * Gabriel Balaudo - Juan Pedro Fisanotti - Federico Mié 
  * Jairo Trad - Martín Gaitán - Pablo Celayes
 
 === Habitaciones matrimoniales ===
@@ -24,5 +24,5 @@ Esto es: tres camas individuales.
 Esto es: una cama grandota.
 
  * Natalia Bidart - Matías Bordese
- * Filly - Mariano Venier
+ * Aylen Bombelli - Mariano Venier
  * ...
