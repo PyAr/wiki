@@ -253,7 +253,7 @@ Propone: EloyColell
 
 La intención es automatizar la descarga de imágenes satelitales del satélite GOES-13 desde el [[http://www.nsof.class.noaa.gov/saa/products/search?datatype_family=GVAR_IMG|sitio web del NOAA (National Oceanic and Atmospheric Administration)]]. El repositorio se llama [[https://github.com/ecolell/solar_radiation_model|solar_radiation_model]].
 
-* Adaptar la automatización de la descarga desde el NOAA para que se realice utilizando ([[https://github.com/ecolell/factopy|factopy]]). Para realizar la descarga de la imágen satelital primero es necesario completar una solicitud en el sitio web, luego hay que esperar una notificación por correo electrónico, y luego recién proseguir con la descarga desde el servidor FTP.
+* Adaptar la automatización de la descarga desde el NOAA para que se realice utilizando [[https://github.com/ecolell/factopy|factopy]]. Para realizar la descarga de la imágen satelital primero es necesario completar una solicitud en el sitio web, luego hay que esperar una notificación por correo electrónico, y luego recién proseguir con la descarga desde el servidor FTP.
 
 * Estaría bueno que la descarga pueda realizarse con una raspberrypi + dísco externo.
 
