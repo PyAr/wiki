@@ -145,3 +145,94 @@ Yo tengo para poner tablet, disco (es muuy viejo), webcam (no graba con la re ca
 En una charla relampago en la ultima Pycon MarianoGuerra propuso implementar una herramienta que colabore en simplificar el desarrollo en python. Despues de varios vinos en el asado final se propuso construir pbt(Se lee pebete) se armo un repo, y mariano construyo un esqueleto que es [[https://github.com/pebete/pbt|este ]] la idea de trabajarlo en la pycamp es darle funcionalidades basicas como para tener una version "usable" del mismo.
 
 ''Propone: JairoTrad''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=== Traducción del video: Inventing on Principle ===
+
+'''Motivación:'''
+
+Bret Victor dio una charla impresionante dirigida
+a programadores y artistas. Por suerte esa charla
+está filmada con buena calidad y subtítulos "srt"
+en inglés.
+
+ * http://vimeo.com/36579366
+
+'''Propuesta:'''
+
+Mi intensión es que podamos dedicar unas horas
+a traducir los subtítulos de la charla. Pienso que así
+podemos compartir con muchos programadores de habla
+hispana las ideas de Bret y que se puedan inspirar con tremenda charla.
+
+''Propone: HugoRuscitti''
+
+
+
+=== Hacer la aplicación ciclo-fondos ===
+
+'''Motivación:'''
+
+Quisiera crear una aplicación que cambie
+automáticamente los fondos de pantalla del escritorio,
+digamos cada 30 minutos.
+
+La aplicación que podríamos tomar de inspiración es
+"simpledesktop":
+
+ * http://simpledesktops.com/app/mac/
+
+
+'''Propuesta:'''
+
+La idea es hacer una app que coloque un ícono en el
+systray del sistema con un temporizador. Esa app podría
+hablar con un webservice que tenga un grupo grande de fondos
+de pantalla (¿scrapeados de algún lado?). Ese webservice
+también lo podríamos crear nosotros, me lo imagino como una
+API rest :)
+
+''Propone: HugoRuscitti''
+
+=== Experimentar con Live-coding y programación reactiva ===
+
+'''Motivación:'''
+
+Siguiendo con las ideas de Bret, quisiera implementar
+live-coding en pilas-engine: Que los chicos puedan visualizar
+el código completo de un juego y hacer cambios en vivo, visualizando
+inmediatamente el resultado del cambio.
+
+Algo así:
+
+ * https://s3.amazonaws.com/worrydream.com/LearnableProgramming/Movies/Vocab13.mp4
+ * http://worrydream.com/LearnableProgramming/
+
+Pero me doy cuenta que es bien difícil y no encuentro la solución
+al enigma, siento que si lo conversamos en equipo y codeamos
+unos prototipos podemos encontrarle la vuelta.
+
+
+'''Propuesta:'''
+
+Investigar y charlar sobre instrumentación de código (bah, creo que
+viene por el lado de instrumentación, no se...). También leer un
+poco sobre algunas apps que lo implementan, como el editor brackets
+y google-chrome (que podrían darnos la posta sobre el tema) y
+hacer algún prototipo sobre pilas, pygame o cualquier otra
+cosa ...
+
+''Propone: HugoRuscitti''
