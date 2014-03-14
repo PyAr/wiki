@@ -241,7 +241,7 @@ cosa ...
 === Procesamiento distribuido en múltiples GPUses ===
 
 La idea es hacer una librería que abstraiga el procesamiento distribuido de varios streams de datos. Esta será la base de cualquier modelo que corra en el mini cluster del GERSolar (Grupo de Estudio de la Radiación Solar).
-En una primera instancia el mini cluster contará con el procesamiento de 8 GPUs (OpenCL) distribuidas en 8 nodos. [[https://github.com/ecolell/factopy|factopy]]) es el repo donde hice algún bosquejo.
+En una primera instancia el mini cluster contará con el procesamiento de 8 GPUs (OpenCL) distribuidas en 8 nodos. [[https://github.com/ecolell/factopy|factopy]] es el repo donde hice algún bosquejo.
 
 * Rediseñar/Diseñar/Pulir y/o implementar la parte del backend (tal vez utilizar [[http://pythonhosted.org/Pyro4/intro.html|Pyro4]]).
 
@@ -251,7 +251,7 @@ Propone: EloyColell
 
 === Descarga de imágenes satelitales ===
 
-La intención es automatizar la descarga de imágenes satelitales del satélite GOES-13 desde el [[http://www.nsof.class.noaa.gov/saa/products/search?datatype_family=GVAR_IMG|sitio web del NOAA (National Oceanic and Atmospheric Administration)]]. El repositorio se llama [[https://github.com/ecolell/solar_radiation_model|solar_radiation_model]]).
+La intención es automatizar la descarga de imágenes satelitales del satélite GOES-13 desde el [[http://www.nsof.class.noaa.gov/saa/products/search?datatype_family=GVAR_IMG|sitio web del NOAA (National Oceanic and Atmospheric Administration)]]. El repositorio se llama [[https://github.com/ecolell/solar_radiation_model|solar_radiation_model]].
 
 * Adaptar la automatización de la descarga desde el NOAA para que se realice utilizando ([[https://github.com/ecolell/factopy|factopy]]). Para realizar la descarga de la imágen satelital primero es necesario completar una solicitud en el sitio web, luego hay que esperar una notificación por correo electrónico, y luego recién proseguir con la descarga desde el servidor FTP.
 
