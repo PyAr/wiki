@@ -9,6 +9,7 @@ Hay tiempo hasta el viernes 14 al mediodía, los que no estén anotados acá se 
 Esto es: tres camas individuales.
 
  * Diego Sarmentero - Horacio Durán - Emilio Ramirez
+ * EloyColell -
  * JuanJoCiarlante -
  * Lucio Torre -
  * Julian Waksberg -
