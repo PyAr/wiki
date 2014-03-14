@@ -9,7 +9,7 @@ Con Python estoy trabajando para [[http://www.gersol.unlu.edu.ar/|GERSolar]], al
 
 Académicamente, soy Licenciado en Sistemas de la Universidad Nacional de Luján.
 
-Email: <<MailTo(eloypuntocolellgarabatogmailpuntocom)>> [[http://keys.gnupg.net/pks/lookup?search=Eloy+Colell&op=vindex&fingerprint=on|GPG]]
+Email: <<MailTo(eloypuntocolellgarabatogmailpuntocom)>> [[http://keys.gnupg.net/pks/lookup?search=Eloy+Colell&op=index|GPG]]
 
 ----
 CategoryHomepage
