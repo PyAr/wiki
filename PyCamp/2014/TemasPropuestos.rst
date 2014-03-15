@@ -258,3 +258,15 @@ La intención es automatizar la descarga de imágenes satelitales del satélite 
 * Estaría bueno que la descarga pueda realizarse con una raspberrypi + dísco externo.
 
 Propone: EloyColell
+
+=== Competencia de algoritmos para 2048 ===
+
+
+Se me ocurre hacer un competencia alrededor del juego [[|2048]] y ver quien puede hacer:
+
+ * El que lo resuelva mas rapido (cpu y moves)
+ * El que lo resuelva con menos codigo
+ * La estrategia mas interesante
+ * etc?
+
+Propone: Lucio Torre
