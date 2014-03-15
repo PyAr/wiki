@@ -262,7 +262,7 @@ Propone: EloyColell
 === Competencia de algoritmos para 2048 ===
 
 
-Se me ocurre hacer un competencia alrededor del juego [[|2048]] y ver quien puede hacer:
+Se me ocurre hacer un competencia alrededor del juego [[http://gabrielecirulli.github.io/2048/|2048]] y ver quien puede hacer:
 
  * El que lo resuelva mas rapido (cpu y moves)
  * El que lo resuelva con menos codigo
