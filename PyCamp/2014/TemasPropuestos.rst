@@ -270,3 +270,17 @@ Se me ocurre hacer un competencia alrededor del juego [[http://gabrielecirulli.g
  * etc?
 
 Propone: Lucio Torre
+
+=== Juego cooperativo de zombies por consola ===
+
+Similar a challenges que tuvimos en pyconar y a juegos que jugamos en otros pycamps (spacecraft), llevo Zombsole, un juego cooperativo de zombies por consola.
+
+Cada uno programa su bot, pero la idea es formar equipos y ganarle al juego en los varios modos cooperativos: escape, exterminio, refugio. Y si se juntan y programan sus bots de forma que se "entiendan" y complementen, mejor todavía! (hay mecanismos para que se comuniquen).
+
+Un dato extra: usa Docker para aislar a los procesos de los jugadores, cosa de que no hagan trampas del tipo "con este hack los zombies no me atacan porque patcheo la lógica del mundo", etc. Si a alguien le interesa intentar romper eso, también está interesante, jeje.
+
+El repo con una parte está acá: https://github.com/fisadev/zombsole
+
+Pero me falta cerrarlo y poner un poco de doc. En estos días lo voy a estar terminando, aunque seguro van a aparecer ideas para mejorarlo mientras estemos en pycamp.
+
+propone: fisa (JuanFisanotti)
