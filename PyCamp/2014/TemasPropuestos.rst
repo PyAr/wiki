@@ -241,7 +241,7 @@ cosa ...
 === Procesamiento distribuido en múltiples GPUses ===
 
 La idea es hacer una librería que abstraiga el procesamiento distribuido de varios streams de datos. Esta será la base de cualquier modelo que corra en el mini cluster del GERSolar (Grupo de Estudio de la Radiación Solar).
-En una primera instancia el mini cluster contará con el procesamiento de 8 GPUs (OpenCL) distribuidas en 8 nodos. [[https://github.com/ecolell/factopy|factopy]] es el repo donde hice algún bosquejo.
+En una primera instancia el mini cluster contará con un par de GPUs (OpenCL) distribuidas en algunos nodos. [[https://github.com/ecolell/factopy|factopy]] es el repo donde hice algún bosquejo.
 
 * Rediseñar/Diseñar/Pulir y/o implementar la parte del backend (tal vez utilizar [[http://pythonhosted.org/Pyro4/intro.html|Pyro4]]).
 
