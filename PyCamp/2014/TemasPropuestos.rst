@@ -288,6 +288,6 @@ propone: fisa (JuanFisanotti)
 
 === La maquina de hacer dinero :) ===
 
-[http://gbeced.github.io/pyalgotrade/||pyalgotrade] + bitcoin y ver que se aprende!
+[[http://gbeced.github.io/pyalgotrade/|pyalgotrade]] + bitcoin y ver que se aprende!
 
 propone: LucioTorre
