@@ -284,3 +284,10 @@ El repo con una parte está acá: https://github.com/fisadev/zombsole
 Pero me falta cerrarlo y poner un poco de doc. En estos días lo voy a estar terminando, aunque seguro van a aparecer ideas para mejorarlo mientras estemos en pycamp.
 
 propone: fisa (JuanFisanotti)
+
+
+=== La maquina de hacer dinero :) ===
+
+[http://gbeced.github.io/pyalgotrade/||pyalgotrade] + bitcoin y ver que se aprende!
+
+propone: LucioTorre
