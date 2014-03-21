@@ -291,3 +291,11 @@ propone: fisa (JuanFisanotti)
 [[http://gbeced.github.io/pyalgotrade/|pyalgotrade]] + bitcoin y ver que se aprende!
 
 propone: LucioTorre
+
+
+=== WeFree la interné en el teléfono ===
+
+Es una aplicacion para android y un servicio para compartir claves wifi y así conectarte a todos los AP's de la ciudad que quieras. La comunidad te conecta. (tambien conocido como el grán bypass a las telefónicas,  el roaming de la muerte, y otros)
+
+propone: GeraRicharte
+
