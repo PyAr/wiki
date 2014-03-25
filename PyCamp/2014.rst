@@ -2,53 +2,14 @@
 
 = PyCamp 2014 =
 
-== Que se hace en un PyCamp ==
+== El PyCamp ya pasó ==
 
-Acá hay una página que explica en detalle la [[PyCamp/QueSeHace|dinámica de trabajo en un PyCamp]].
+En este PyCamp hicimos un montón de cosas que [[PyCamp/2014/TemasPropuestos|están anotadas acá]] y varias cosas más.
 
-Para esta edición, vamos anotando acá los [[PyCamp/2014/TemasPropuestos|temas propuestos]].
+Estas son las fotos:
 
-== Fecha ==
+ * https://www.flickr.com/photos/121373908@N03/
 
-Viernes 21, Sábado 22, Domingo 23 y Lunes 24 (de Marzo de 2014, el 24 es feriado).
-
-
-== ¿Cómo me anoto? ==
-
-Para hacer la reserva y confirmar tu lugar en el evento tenés que hacer una transferencia/depósito al hotel por $1100 (si no necesitás IVA) o por $1331 (si sí necesitás la factura).
-
-Los datos para la transferencia o depósito son:
-
-{{{
------BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA1
-
-Banco MACRO - SUCURSAL Nº 318
-Titular: GRUPO MANSUR S.A
-CUENTA CORRIENTE Nº: 3-318-0940805444-0
-CBU: 2850318-7-3009408054440-1
-CUIT: 30-71028304-0
------BEGIN PGP SIGNATURE-----
-Version: GnuPG v1.4.14 (GNU/Linux)
-
-iEYEARECAAYFAlMaLI8ACgkQsvkJdNI0dU3wMACgwpr5+LgRBGWiwK1DjhncSB5o
-BbsAnR8/eqRwlhxlbF2ZYP+bYDz8QUzU
-=5F2g
------END PGP SIGNATURE-----
-}}}
-
-(Eso está firmado con [[http://launchpad.net/~facundo|la clave de Facundo]])
-
-Luego, mandan un mail al hotel ''*Y*'' a FacundoBatista, especificando los datos del movimiento, más nombre completo, DNI, y aclarando que son del grupo de PyCamp, que van del 21 al 24.
-
- * mail del Hotel: mediterraneaturismolyf || digitalcoop | com | ar
- * mail de Facundo: facundo || taniquetil | com | ar
-
-Cualquier duda (como hacer si se les complica para depósito o transferencia, si van menos días que los que indicamos acá, etc), se la preguntan a Facundo *antes* de enviar dinero.
-
-Notar que el evento está '''confirmado''', existe un contrato firmado con el proveedor del espacio y servicios.
-
-Por último, si necesitan un certificado de asistencia, se comunican con Facundo.
 
 == Sede ==
 
