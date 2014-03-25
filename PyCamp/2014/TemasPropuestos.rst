@@ -313,5 +313,6 @@ Web hecha con Django que va a ser el nuevo sitio de PyAr, se trabajó en muchís
  * Muchas cosas más que ahora se me escapen
 
 === Pilas ===
-- Implementación de plugins para pilas
-- Configurar pilas con archivo yaml
+
+ * Implementación de plugins para pilas
+ * Configurar pilas con archivo yaml
