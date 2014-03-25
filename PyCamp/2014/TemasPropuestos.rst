@@ -301,15 +301,16 @@ propone: GeraRicharte
 
 === Nueva web de PyAr ===
 Web hecha con Django que va a ser el nuevo sitio de PyAr, se trabajó en muchísimas partes y se avanzó en:
-- Frontend, tenemos banner re bonito. Fix de colores / tamanios de letras y muchas cosas gráficas
-- Aplicación de Jobs mejorada
-- Aplicación de News mejorada
-- Aplicación de Proyectos de PyAr 
-- Aplicación de adoptar un newbie
-- Aplicación de FAQs
-- Mejora del cliente embebido de IRC
-- Agregado de tags en app de jobs y news para filtrar
-- Muchas cosas más que ahora se me escapen
+
+* Frontend, tenemos banner re bonito. Fix de colores / tamanios de letras y muchas cosas gráficas
+* Aplicación de Jobs mejorada
+* Aplicación de News mejorada
+* Aplicación de Proyectos de PyAr 
+* Aplicación de adoptar un newbie
+* Aplicación de FAQs
+* Mejora del cliente embebido de IRC
+* Agregado de tags en app de jobs y news para filtrar
+* Muchas cosas más que ahora se me escapen
 
 === Pilas ===
 - Implementación de plugins para pilas
