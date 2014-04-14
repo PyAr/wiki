@@ -50,11 +50,20 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr, están rela
 
   * Pequeña librería para hacer APIs REST y aplicaciones web basado en [[http://werkzeug.pocoo.org/|Werkzeug]]
 
- * [[http://www.pyafipws.com.ar/|PyAfip]]
+ * [[http://www.pyafipws.com.ar/|PyAfipWs]] [[https://code.google.com/p/pyafipws/|código fuente]]
   * Interfaces y Herramientas relacionadas con la AFIP (Administración Federal de Ingresos Públicos)
-   * Servicios web de [[http://www.sistemasagiles.com.ar/public/wiki/FacturaElectronica|Factura Electrónica]] (Interfase con otros lenguajes: [[http://www.sistemasagiles.com.ar/public/wiki/PyAfipWs|PyAfipWs]], Aplicativo: [[http://www.sistemasagiles.com.ar/public/wiki/PyRece|PyRece]])
-   * SIAP Libre: [[http://www.sistemasagiles.com.ar/trac/wiki/SiaPy|Prototipo SIAPy]]
-   * Controladores Fiscales: [[http://code.google.com/p/pyfiscalprinter/|PyFiscalPrinter]] (por el momento es un proyecto separado)
+   * [[http://www.sistemasagiles.com.ar/public/wiki/FacturaElectronica|Factura Electrónica]] (Interfase con otros lenguajes: [[http://www.sistemasagiles.com.ar/public/wiki/PyAfipWs|PyAfipWs]], Aplicativo: [[http://www.sistemasagiles.com.ar/public/wiki/PyRece|PyRece]]), modulo [[https://github.com/reingart/openerp_pyafipws|OpenERP]] y otros
+   * Servicio web de [[http://www.sistemasagiles.com.ar/trac/wiki/ConstatacionComprobantes|constatación de comprobantes]] y [[http://www.sistemasagiles.com.ar/trac/wiki/PadronContribuyentesAFIP|padron de contribuyentes]]
+   * Servicio web de [[http://www.sistemasagiles.com.ar/trac/wiki/CodigoTrazabilidadGranos|trazabilidad]] y [[http://www.sistemasagiles.com.ar/trac/wiki/LiquidacionPrimariaGranos|liquidación]] de granos 
+   * Servicio web de [[http://www.sistemasagiles.com.ar/trac/wiki/ConsultaOperacionesCambiarias|operaciones cambiarias]], depositario fiel (aduanas), etc.
+  * Servicio web relacionados:
+   * [[http://www.sistemasagiles.com.ar/trac/wiki/RemitoElectronicoCotArba|Remito Electrónico]] (ARBA)
+   * [[http://www.sistemasagiles.com.ar/trac/wiki/TrazabilidadMedicamentos|Trazabilidad de Medicamentos]] (ANMAT) 
+   * [[http://www.sistemasagiles.com.ar/trac/wiki/TrazabilidadMedicamentos|Trazabilidad de Precursores Químicos]] (SEDRONAR) 
+  * Prototipo experimental de SIAP Libre: [[http://www.sistemasagiles.com.ar/trac/wiki/SiaPy|Prototipo SIAPy]]
+
+ * [[http://code.google.com/p/pyfiscalprinter/|PyFiscalPrinter]]
+   * Herramientas e interfaces para Controladores Fiscales (Epson y Hasar de Argentina), que gradualmente incluye modelos para otros paises (Epson Chile y Hasar Panama). Contempla el protocolo de bajo nivel y módulos para [[https://github.com/reingart/openerp_pyfiscalprinter/|OpenERP]] y otros sistemas de facturación.
 
  * [[http://www.sistemasagiles.com.ar/trac/wiki/PyReplicaEs|PyReplica]]
   * Replicador simple y flexible para PostgreSQL escrito exclusivamente en Python (asincrónico, multimaster limitado, notificaciones por email, etc.)
