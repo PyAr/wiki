@@ -25,6 +25,17 @@ Están disponible los materiales en la siguiente páginas:
  * Apuntes: https://sites.google.com/site/fiuba7540rw/home/apunte_7540.pdf
  * Ejercicios: https://sites.google.com/site/fiuba7540rw/home/ejercicios.pdf
 
+=== Instituto Superior Tecnológico Blaise Pascal ===
+
+En el instituto terciario, desde 2009 en la [[http://www.institutopascal.edu.ar/welcome/carreras/sistemas|Tecnicatura Superior en Análisis de Sistemas]] (Resolución Nº5817/03) y desde 2013 en [[http://www.institutopascal.edu.ar/welcome/carreras/redes|Tecnicatura Superior en Redes Informáticas]] (Resolución Nº6164/03), se utiliza transversalmente Python, PostgreSQL, GNU/Linux y otras tecnologías abiertas en el marco del [[http://docs.google.com/View?id=dd9bm82g_428g8zvfvdx|Proyecto Curricular Institucional orientado al software libre]]:
+
+ * Programación I
+ * Programación II
+ * [[http://reingart.blogspot.com.ar/p/materia-sistemas-operativos.html|Sistemas Operativos]]
+ * [[http://reingart.blogspot.com.ar/p/materia-base-de-datos.html|Bases de Datos]] (PlPython y conectores)
+ * [[http://reingart.blogspot.com.ar/p/materia-interconectividad-redes.html|Interconectividad]] ("Redes de computadoras")
+ * [[http://reingart.blogspot.com.ar/p/materia-practica-profesional.html|Práctica Profesional]]
+
 == Artículos / Bibliografía ==
  * ''[[http://scholar.google.com.ar/scholar?cluster=4615917205655943662&hl=es&as_sdt=2000|Aprender a programar con Python: una experiencia docente]]'', A Marzal, D Llorense, I Gracia, Universitat Jaume I,
   . Resumen: La elección del primer lenguaje de programación es un debate recurrente entre los docentes universitarios de ingenierías informáticas. La Universitat Jaume I ha optado por una solución poco convencional: en el primer curso de dos titulaciones de ingenier ́ inform ́tica se aprende a programar con Python y C. Python es un lenguaje que está en auge en el mundo del software libre y que presenta una serie de caracter ́ısticas que lo hacen muy atractivo para ense ̃ar a programar. Como material de apoyo hemos escrito un libro de texto (accesible gratuitamente) y desarrollado un sencillo entorno de programaci ́multiplataforma para Python que se distribuye con licencia GPL: el entorno PythonG, formado por un intérprete interactivo, un editor, un depurador sencillo y una ventana con salida gráfica. Con el material docente elaborado se facilita la formación autodidacta para cualquiera que quiera aprender a programar desde cero. En este artículo reflexionamos sobre la idoneidad de Python como primer lenguaje de programación, describimos la experiencia docente de enseñar Python y C en primer curso y presentamos el entorno de progra- maciónn PythonG.
