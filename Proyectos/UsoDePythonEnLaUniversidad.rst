@@ -16,6 +16,15 @@ Esta página servirá para sistematizar lo expuesto en ese hilo así como nuevos
   . Desde el año 2005 utilizamos Python en la cátedra Inteligencia Artificial para la implementación de problemas de búsqueda y satisfacción de restricciones. Los alumnos usan como base el framework provisto por Peter Norvig, [[http://code.google.com/p/aima-python/|Aima Python]].
   . Desde el 2007 usamos Python como lenguaje para la cátedra Compiladores e Intérpretes. En la misma, grupos de alumnos desarrollan un parser para resolver alguna situación problemática, de ser posible, de la vida real. Los trabajos varían desde compiladores de lenguajes de alto a bajo nivel, generadores de código a partir de scripts SQL, traductores de código entre lenguajes de alto nivel, etc. Como herramienta para la generación de los autómatas se utiliza [[http://www.dabeaz.com/ply/|PLY]].
 
+=== FIUBA - Universidad de Buenos Aires - Facultad de Ingeniería === 
+
+Python se enseña en la materia "Algoritmos y Programación 1", cátedra Wachenchauzer (desde hace varios años).
+Están disponible los materiales en la siguiente páginas:
+
+ * Página Web: https://sites.google.com/site/fiuba7540rw/
+ * Apuntes: https://sites.google.com/site/fiuba7540rw/home/apunte_7540.pdf
+ * Ejercicios: https://sites.google.com/site/fiuba7540rw/home/ejercicios.pdf
+
 == Artículos / Bibliografía ==
  * ''[[http://scholar.google.com.ar/scholar?cluster=4615917205655943662&hl=es&as_sdt=2000|Aprender a programar con Python: una experiencia docente]]'', A Marzal, D Llorense, I Gracia, Universitat Jaume I,
   . Resumen: La elección del primer lenguaje de programación es un debate recurrente entre los docentes universitarios de ingenierías informáticas. La Universitat Jaume I ha optado por una solución poco convencional: en el primer curso de dos titulaciones de ingenier ́ inform ́tica se aprende a programar con Python y C. Python es un lenguaje que está en auge en el mundo del software libre y que presenta una serie de caracter ́ısticas que lo hacen muy atractivo para ense ̃ar a programar. Como material de apoyo hemos escrito un libro de texto (accesible gratuitamente) y desarrollado un sencillo entorno de programaci ́multiplataforma para Python que se distribuye con licencia GPL: el entorno PythonG, formado por un intérprete interactivo, un editor, un depurador sencillo y una ventana con salida gráfica. Con el material docente elaborado se facilita la formación autodidacta para cualquiera que quiera aprender a programar desde cero. En este artículo reflexionamos sobre la idoneidad de Python como primer lenguaje de programación, describimos la experiencia docente de enseñar Python y C en primer curso y presentamos el entorno de progra- maciónn PythonG.
