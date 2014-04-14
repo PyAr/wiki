@@ -16,7 +16,7 @@ Esta página servirá para sistematizar lo expuesto en ese hilo así como nuevos
   . Desde el año 2005 utilizamos Python en la cátedra Inteligencia Artificial para la implementación de problemas de búsqueda y satisfacción de restricciones. Los alumnos usan como base el framework provisto por Peter Norvig, [[http://code.google.com/p/aima-python/|Aima Python]].
   . Desde el 2007 usamos Python como lenguaje para la cátedra Compiladores e Intérpretes. En la misma, grupos de alumnos desarrollan un parser para resolver alguna situación problemática, de ser posible, de la vida real. Los trabajos varían desde compiladores de lenguajes de alto a bajo nivel, generadores de código a partir de scripts SQL, traductores de código entre lenguajes de alto nivel, etc. Como herramienta para la generación de los autómatas se utiliza [[http://www.dabeaz.com/ply/|PLY]].
 
-=== FIUBA - Universidad de Buenos Aires - Facultad de Ingeniería === 
+=== FIUBA - Universidad de Buenos Aires - Facultad de Ingeniería ===
 
 Python se enseña en la materia "Algoritmos y Programación 1", cátedra Wachenchauzer (desde hace varios años).
 Están disponible los materiales en la siguiente páginas:
