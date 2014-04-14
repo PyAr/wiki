@@ -179,6 +179,8 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr, están rela
  * [[http://wefree.usla.org.ar/|WeFree]]
   * WeFree is a wireless network manager with a collaborative database of passwords for public (but protected) networks.
 
+ * [[https://code.google.com/p/web2conf/|web2conf]]
+  * Aplicación web simple para manejo de conferencias (registración, revisión de propuestas, cronograma de actividades con iCal, sponsors, manejo de fondos -ingresos / egresos-, páginas wiki, integración con redes sociales, generación de gafetes y certificados, etc.). Hecho con web2py. Originalmente desarrollado para PyConUs 2009/2010, usado luego en varios eventos regionales e internacionales en Argentina (JRSL, FLISOL, UbuntuCon, PgDay, PyDay, PyCon, etc.)
 
 <<BR>>
 ----
