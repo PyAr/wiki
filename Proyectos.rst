@@ -104,8 +104,8 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr, están rela
  * [[https://github.com/alejandroautalan/pygubu|Pygubu]]
   * Pygubu es una herramienta RAD que permite desarrollar interfaces de usuario rápida y fácilmente para el modulo tkinter de python. Pygubu esta inspirado por Glade (el diseñador de interfaces de gtk).
 
- * [[http://pythoncard.sourceforge.net/|PythonCard]]
-  * PythonCard is a GUI construction kit for building cross-platform desktop applications on Windows, Mac OS X, and Linux, using the Python language.
+ * [[https://code.google.com/p/gui2py/|gui2py]]
+  * gui2py es un kit de herraientas simple y poderoso para construcción de interfaces gráficas de usuario (GUI) de manera visual multiplataforma (Windows, Linux y Mac). Utiliza WxPython y es un fork de PythonCard con la intención de modernizarlo, agregarle menjoras y mantenerlo actualizado.
 
  * [[https://bitbucket.org/msa_team/sawrapper|SAW / SQLAlchemy Wrapper]]
   * This is a library that tries to make SQLAlchemy usage more easy. SQLAlchemy gives you a lot of different ways to acomplish what you want to do, and SAW tryies to give you 'one common and easy way to do a specific task' without interfering if you need to use all the power of SQLAlchemy.
