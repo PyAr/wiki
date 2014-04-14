@@ -182,8 +182,8 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr, están rela
  * [[https://code.google.com/p/web2conf/|web2conf]]
   * Aplicación web simple para manejo de conferencias (registración, revisión de propuestas, cronograma de actividades con iCal, sponsors, manejo de fondos -ingresos / egresos-, páginas wiki, integración con redes sociales, generación de gafetes y certificados, etc.). Hecho con web2py. Originalmente desarrollado para PyConUs 2009/2010, usado luego en varios eventos regionales e internacionales en Argentina (JRSL, FLISOL, UbuntuCon, PgDay, PyDay, PyCon, etc.)
 
-  * [[http://robots.linti.unlp.edu.ar|Programando con Robots]]
-   * Proyecto de Extensión "Programando Robots con Software Libre", Laboratorio de Investigación de Nuevas Tecnologías Informáticas (LINTI), Facultad de Informática, Universidad Nacional de La Plata. Lic. Claudia Banchoﬀ y grupo Lihuen.
+ * [[http://robots.linti.unlp.edu.ar|Programando con Robots]]
+  * Proyecto de Extensión "Programando Robots con Software Libre", Laboratorio de Investigación de Nuevas Tecnologías Informáticas (LINTI), Facultad de Informática, Universidad Nacional de La Plata. Lic. Claudia Banchoﬀ y grupo Lihuen.
 
 <<BR>>
 ----
