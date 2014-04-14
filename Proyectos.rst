@@ -68,6 +68,12 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr, están rela
  * [[http://www.sistemasagiles.com.ar/trac/wiki/PyReplicaEs|PyReplica]]
   * Replicador simple y flexible para PostgreSQL escrito exclusivamente en Python (asincrónico, multimaster limitado, notificaciones por email, etc.)
 
+ * [[http://code.google.com/p/pysimplesoap/|PySimpleSOAP]]
+  * Clases para desarrollar clientes y servidores de servicios web de manera simple y completa, incluyendo soporte para WSDL y manejo de XML. Inspirada extensión SOAP de PHP. Spin-off de PyAfipWs, incorporado en web2py. Python3 compatible.
+
+ * [[http://code.google.com/p/pyfpdf/|PyFPDF]]
+  * Clases para generar documentos PDF de manera simple y extensible, incluyendo soporte para imágenes, fuentes unicode (TTF). Inspirada extensión FPDF de PHP. Usado por PyAfipWs e incorporado a web2py. Python3 compatible (experimental)
+
  * [[http://python.org.ar/pyar/Proyectos/CDPedia|CDPedia]]
   * Proyecto para compilar una serie de artículos de la wikipedia en un cd autobrowseable. [[https://opensvn.csie.org/traccgi/PyAr/wiki/WikipediaOffline|Pag vieja]]
 
@@ -93,7 +99,7 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr, están rela
   * Aplicación para organizar el pedido de comida en empresas u organizaciones donde se come en el lugar.
 
  * [[http://code.google.com/p/gestionlibre/|Gestión Libre]]
-  * Proyecto para desarrollar un sistema de gestión de código abierto / software libre y sus herramientas relacionadas (diseñador de pantallas, editor de código, acceso a la base de datos, generación de reportes, etc.). 
+  * Proyecto para desarrollar un sistema de gestión de código abierto / software libre y sus herramientas relacionadas (diseñador de pantallas, editor de código, acceso a la base de datos, generación de reportes, etc.). Actualmente en etapa pre-alpha (experimental).
 
  * [[http://code.google.com/p/quickdiagrams/|QuickDiagrams]]
   * Permite crear diagramas de clase a partir de un archivo de texto muy sencillo o un modulo python.
@@ -115,6 +121,9 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr, están rela
 
  * [[https://code.google.com/p/gui2py/|gui2py]]
   * gui2py es un kit de herraientas simple y poderoso para construcción de interfaces gráficas de usuario (GUI) de manera visual multiplataforma (Windows, Linux y Mac). Utiliza WxPython y es un fork de PythonCard con la intención de modernizarlo, agregarle menjoras y mantenerlo actualizado.
+
+ * [[https://code.google.com/p/rad2py/|rad2py]]
+  * Plata forma de desarrollo rápido de aplicaciones que integra un editor de código, depurador y herramientas de repositorios, pruebas y gestión de calidad. Utiliza gui2py y web2py. Actualmente en desarrollo (investigación académica). Proximamente con funcionalidades para migrar proyectos legados de VisualBasic clásico 5 o 6 (ver [[https://code.google.com/p/vb2py/|vb2py]])
 
  * [[https://bitbucket.org/msa_team/sawrapper|SAW / SQLAlchemy Wrapper]]
   * This is a library that tries to make SQLAlchemy usage more easy. SQLAlchemy gives you a lot of different ways to acomplish what you want to do, and SAW tryies to give you 'one common and easy way to do a specific task' without interfering if you need to use all the power of SQLAlchemy.
