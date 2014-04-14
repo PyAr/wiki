@@ -104,6 +104,62 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr, están rela
  * [[https://github.com/alejandroautalan/pygubu|Pygubu]]
   * Pygubu es una herramienta RAD que permite desarrollar interfaces de usuario rápida y fácilmente para el modulo tkinter de python. Pygubu esta inspirado por Glade (el diseñador de interfaces de gtk).
 
+ * [[http://pythoncard.sourceforge.net/|PythonCard]]
+  * PythonCard is a GUI construction kit for building cross-platform desktop applications on Windows, Mac OS X, and Linux, using the Python language.
+
+ * [[https://bitbucket.org/msa_team/sawrapper|SAW / SQLAlchemy Wrapper]]
+  * This is a library that tries to make SQLAlchemy usage more easy. SQLAlchemy gives you a lot of different ways to acomplish what you want to do, and SAW tryies to give you 'one common and easy way to do a specific task' without interfering if you need to use all the power of SQLAlchemy.
+
+ * [[http://cocos2d.org/index.html|Cocos2d]]
+  * cocos2d is a framework for building 2D games, demos, and other graphical/interactive applications.
+
+ * [[http://encuentro.taniquetil.com.ar/|Encuentro]]
+  * Busque, descargue, y vea el maravilloso contenido ofrecido por el Canal Encuentro, Paka Paka, BACUA, Educ.ar y otros.
+
+ * [[http://enjuewemela.taniquetil.com.ar/|Enjuewemela]]
+  * Enjuewemela is yet another similar game to the popular "Bejeweled" or "Diamond Mine"
+
+ * [[https://github.com/facundobatista/kilink|Linkode]]
+  * Linkode is the useful pastebin!
+
+ * [[https://launchpad.net/locolander|LocoLander]]
+  * A bot that reviews branches from other projects and lands them if all is ok, setting up the environment needed according to each project's config.
+
+ * [[https://github.com/useless-code/midinect|Midinect]]
+  * Es una interfaz, para generar eventos MIDI a partir de un Escaner 3d Kinect.
+
+ * [[http://getnikola.com/|Nikola]]
+  * Nikola is a Static Site and Blog Generator
+
+ * [[http://ojota.readthedocs.org/en/latest/|Ojota]]
+  * Ojota is a ORM and flat file database engine.
+
+ * [[https://github.com/pebete/pbt|pbt]]
+  * python build tool
+
+ * [[http://pilas-engine.com.ar/|Pilas]]
+  * Crea videojuegos de manera didáctica y divertida.
+
+ * [[http://preciosdeargentina.com.ar/|PreciosA]]
+  * Preciosa (Precios de Argentina) es una plataforma web y una aplicación para teléfonos inteligentes que facilita el relevamiento de precios y ayuda a encontrar mejores ofertas.
+
+ * [[https://bitbucket.org/san/pyanola/overview|Pyanola]]
+  * Pyanola es como un Guitar Hero, pero para aprender música en serio.
+
+ * [[https://github.com/diegosarmentero/PyConference|PyConference]]
+  * Python website to manage conferences
+
+ * [[https://github.com/PyCamp/Rockola|Rockola]]
+  * Music Server depending on votes
+
+ * [[https://github.com/simpleai-team/simpleai|Simple AI]]
+  * This lib implements many of the artificial intelligence algorithms described on the book "Artificial Intelligence, a Modern Approach", from Stuart Russel and Peter Norvig. We strongly recommend you to read the book, or at least the introductory chapters and the ones related to the components you want to use, because we won't explain the algorithms here.
+
+ * [[http://abuelodelanada.github.io/TOMy/|TOMy]]
+  * Un cliente de MySQL que, esperamos, algún día tenga mejores funcionalidad que el oficial.
+
+ * [[http://wefree.usla.org.ar/|WeFree]]
+  * WeFree is a wireless network manager with a collaborative database of passwords for public (but protected) networks.
 
 
 <<BR>>
