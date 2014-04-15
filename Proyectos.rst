@@ -170,9 +170,6 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr, están rela
  * [[https://github.com/PyCamp/Rockola|Rockola]]
   * Music Server depending on votes
 
- * [[https://github.com/simpleai-team/simpleai|Simple AI]]
-  * This lib implements many of the artificial intelligence algorithms described on the book "Artificial Intelligence, a Modern Approach", from Stuart Russel and Peter Norvig. We strongly recommend you to read the book, or at least the introductory chapters and the ones related to the components you want to use, because we won't explain the algorithms here.
-
  * [[http://abuelodelanada.github.io/TOMy/|TOMy]]
   * Un cliente de MySQL que, esperamos, algún día tenga mejores funcionalidad que el oficial.
 
