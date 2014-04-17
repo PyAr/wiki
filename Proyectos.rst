@@ -166,8 +166,11 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr, están rela
  * [[https://bitbucket.org/san/pyanola/overview|Pyanola]]
   * Pyanola es como un Guitar Hero, pero para aprender música en serio.
 
- * [[https://github.com/diegosarmentero/PyConference|PyConference]]
-  * Python website to manage conferences
+ * [[https://github.com/PyConference/PyConference|PyConference]]
+  * Sitio desarrollado con Python y Django para crear y gestionar todo lo relacionado con una conferencia, con la posibilidad de tener un sitio de conferencia funcionando y disponible a traves de una url con solo un par de clicks. PyConference permite generar y controlar el frontend que veran los usuarios finales del sitio de la conferencia a traves de su dashboard, y ayuda a todo el backend que posee una conferencia permitiendo controlar los gastos, tareas, etc.
+
+ * [[https://github.com/diegosarmentero/documentor|Documentor]]
+  * Documentation generation tool for Python. Documentor scan all the source code of your project and generate a documentation site with the collected information of your project using Nikola.
 
  * [[https://github.com/PyCamp/Rockola|Rockola]]
   * Music Server depending on votes
