@@ -42,6 +42,11 @@ En el instituto terciario, desde 2009 en la [[http://www.institutopascal.edu.ar/
   . Para agregar un poco de data sobre la UNNOBA, el año pasado se arrancó en el primer cuatrimestre de las carreras de Informática con Python. El uso del intérprete (vía la consola e IDLE) y de Online Python Tutor[1] le aportaron bastante dinamismo a las clases y generó que los alumnos fueran probando código al mismo tiempo que se explicaban los temas o que se plantearan ellos mismos usos de cosas que no estaban explícitamente mencionadas. Otra cosa que resultó muy piola fue que en la práctica, muchos de los enunciados dados venían con sus doctest, por lo que podían usarlos para probar si el código que escribían andaba como se esperaba (a lo TDD). Este año esperamos incorporar el notebook de IPython para los apuntes y demás.
  * Ver artículo: [[http://journal.info.unlp.edu.ar/journal/journal35/papers/JCST-Apr13-6.pdf|"Analysis of suitable languages to teach Procedural Programming at the Universidad Nacional del Noroeste de la provincia de Buenos Aires"]] e [[http://listas.python.org.ar/pipermail/pyar/2014-February/028096.html|hilo]] en la lista de correo
 
+=== Universidad Nacional de Avellaneda ===
+
+ * El 7/10/2013 el portal de Educ.Ar publica un [[https://www.youtube.com/watch?v=cu7a9uPtxRw|Video en YouTube]] "Programación con Python":
+  . Rosita Wachenchauzer es profesora de la carrera Ingeniería en Informática, en la Universidad Nacional de Avellaneda. Aquí habla sobre las ventajas de utilizar Python, un lenguaje de programación interpretado que tiene una sintaxis muy limpia y simple, y permite alcanzar excelentes resultados. La profesora comenta que, por las características que posee este programa, se lo elige para que los alumnos se inicien en la programación.
+
 
 == Artículos / Bibliografía ==
  * ''[[http://scholar.google.com.ar/scholar?cluster=4615917205655943662&hl=es&as_sdt=2000|Aprender a programar con Python: una experiencia docente]]'', A Marzal, D Llorense, I Gracia, Universitat Jaume I,
