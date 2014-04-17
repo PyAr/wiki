@@ -26,10 +26,12 @@ Estos son los proyectos encarados ''institucionalmente'' por PyAr:
  * [[/UsoDePythonEnLaUniversidad]]
   * Sistematización de experiencias, herramientas y estrategias para difundir Python en la Universidad
 
-== Trac y SVN ==
-Abrimos un [[https://opensvn.csie.org/traccgi/PyAr/|Trac de Proyectos]] para poner los proyectos de aquí al futuro y que nuestra vida sea mas sencilla. La direccion del svn de este trac es: https://opensvn.csie.org/PyAr/ Si necesitas pedir un usuario para el trac/svn solicitalo en la lista.
+== Github.com ==
+
+Creamos un grupo en github llamado PyAr [[https://github.com/PyAr]] para poner los proyectos de aquí al futuro y que nuestra vida sea mas sencilla. Para sumarte a la lista de colaboradores y colgar tu proyecto bajo el grupo de PyAr, podés mandar un mensaje a la lista de correo.
 
 == Proyectos relacionados ==
+
 Estos son los proyectos que si bien no fueron impulsados desde PyAr, están relacionados con uno o más de sus miembros:
 
  * [[Proyectos/PythonPalm|Python for PalmOS]] (en inglés)
@@ -181,6 +183,18 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr, están rela
 
  * [[http://robots.linti.unlp.edu.ar|Programando con Robots]]
   * Proyecto de Extensión "Programando Robots con Software Libre", Laboratorio de Investigación de Nuevas Tecnologías Informáticas (LINTI), Facultad de Informática, Universidad Nacional de La Plata. Lic. Claudia Banchoﬀ y grupo Lihuen.
+
+ * [[https://pypi.python.org/pypi/linkodeit|linkodeit]]
+  * utilidad de línea de comandos para ''pastebinear'' en http://linkode.org
+
+ * [[https://github.com/humitos/obd2lib|obd2lib]]
+  * herramienta para chequear diferentes valores de los autos utilizando el protocolo de comunicación OBD2
+
+ * [[https://github.com/humitos/turtle-confusion-es/|La confusión de la tortuga]]
+  * Traducción al Español del libro "Turtle Confusion"
+
+ * [[https://bitbucket.org/humitos/virtualenvwrapper-docs-es|virtualenvwrapper docs]]
+  * Traducción al Español de la documentación de "virtualenvwrapper"
 
 <<BR>>
 ----
