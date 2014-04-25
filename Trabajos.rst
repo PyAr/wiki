@@ -1,5 +1,7 @@
 = Trabajos con Python =
 
+ * (25/04/2014) En Onapsis, Buscamos programadores Python SR o SSR y Front-End JS/HTML/CSS para colaborar en proyectos de seguridad informática. Interesados pueden mandar ping a careers@onapsis.com Ref: PyHacker
+
  * (23/04/2014) Estamos buscando un programador Python Jr o Semi Sr para ayudarnos en el desarrollo y soporte de aplicaciones web. El trabajo es 100% remoto, el ambiente de trabajo es muy bueno. El modo de contratación es como empleado (no freelance) y full time. Trabajamos con Python, PostgreSQL y Linux. Se aprecia conocimientos en HTML/CSS/JS/JQuery. Es necesario tener manejo de Inglés oral y escrito. A los interesados, mandar CV y pretensión salarial a hackers@kenwin.net
 
  * (07/03/2014) Busco programador con experiencia en Python para proyecto de análisis de datos. Requeridos: conocer la librería Pandas (o el lenguage R) muy bien. Adicionales: JavaScript, iPython Notebook, Matplotlib y Scrappy. Para más información : federico.emiliani (at) ttwick.com
