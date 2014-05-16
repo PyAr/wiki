@@ -15,8 +15,6 @@
 
  *(02/05/2014) En Falconius estamos buscando un programador freelance con unas horas disponibles por semana y con experiencia en scraping utilizando Scrapy. Las tareas a desarrollar serían scrapear nuevos sitios además de modificar y mantener scrapers ya hechos. Quién esté interesado le pedimos que mande CV/github/bitbucket/linkedin a mfalcon@falconius.com.
 
- *(28/04/2014) En Velocity Partners Buenos Aires buscamos Sr/ Ssr Python Developers fullstack con experiencia tanto en front como en backend. Se busca experiencia con Python/Django, Advanced HTML/CSS, Javascript, Backbone, Ember, or Angular, se apreciara quienes esten familiarizados con Coffeescript. Ingles oral intermedio. Mandanos tu cv actualizado a jobs@velocitypartners.net REF:PYBA
-
  * (25/04/2014) En Onapsis, Buscamos programadores Python SR o SSR y Front-End JS/HTML/CSS para colaborar en proyectos de seguridad informática. Interesados pueden mandar ping a careers@onapsis.com Ref: PyHacker
 
  * (23/04/2014) Estamos buscando un programador Python Jr o Semi Sr para ayudarnos en el desarrollo y soporte de aplicaciones web. El trabajo es 100% remoto, el ambiente de trabajo es muy bueno. El modo de contratación es como empleado (no freelance) y full time. Trabajamos con Python, PostgreSQL y Linux. Se aprecia conocimientos en HTML/CSS/JS/JQuery. Es necesario tener manejo de Inglés oral y escrito. A los interesados, mandar CV y pretensión salarial a hackers@kenwin.net
