@@ -47,7 +47,7 @@ Si estas cerca o tenes alguna relación con una universidad que no tiene el Tuto
 ||Marcelo Cazon ||<<MailTo(  sandman PUNTO net EN gmail PUNTO com)>> ||UNCa - Facultad de Tecnologia y Ciencias Aplicadas ||(1) ||
 ||Iván Truskalo||<<MailTo(  truskalo EN  gmail PUNTO com)>> ||Universidad Nacional de La Pampa - Facultad de Cs. Exactas ||(1) ||
 ||Carlos A. Giménez||<<MailTo(  scire1905 EN  gmail PUNTO com)>> ||Universidad Nacional del Nordeste - Facultad de Cs. Exactas||(1) ||
-
+||Alejandro M. Wechsler||<<MailTo( alew_mdq EN hotmail punto com)>> ||Universidad Nacional de Mar del Plata - Facultad de Ingenieria||(1) ||
 
 ----
 CategoryCategory
