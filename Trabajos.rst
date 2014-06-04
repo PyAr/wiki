@@ -1,5 +1,7 @@
 = Trabajos con Python =
 
+ *(04/06/2014) Buscamos desarrollador en Python/Django para un proyecto internacional. Enviá tu CV a hello@mobydigital.com
+
  *(14/05/2014) Hola! Cómo va? Les quería comentar que en HEXACTA estamos buscando un desarrollador Python con buena experiencia en dicha tecnología! Apuntamos a gente con experiencia previa, con background académico, buen nivel inglés y con ganas de continuar creciendo en un entorno de mejora continua. El lugar de trabajo sería en nuestras oficinas, ya sea en Las Cañitas (Palermo), en La Plata, en Bahía Blanca o en Paraná, en lugares estratégicos con excelente accesibilidad. No te pierdas esta oportunidad y anímate a formar parte de nuestro equipo de trabajo!!
 
   En HEXACTA podemos ofrecerte: • excelente clima laboral • un equipo apasionado por la tecnología • plan de carrera y formación • capacitación técnica y en idiomas • una relación JUNTOS a largo plazo… • muchas flexibilidad • running teams, torneos de fútbol, truco, étc! • after offices, wine-tastings, fiestas.
