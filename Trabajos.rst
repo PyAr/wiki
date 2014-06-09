@@ -1,5 +1,7 @@
 = Trabajos con Python =
 
+ *(09/06/2014) En Infoxel buscamos un programador Python que acompañe nuestro crecimiento y expansión hacia mercados internacionales. Lo más importante es un alto compromiso con los resultados y buena disposición. Lo demás es a conversar. Enviá tu CV a diegolis@infoad.com.ar
+
  *(04/06/2014) Buscamos desarrollador en Python/Django para un proyecto internacional. Enviá tu CV a hello@mobydigital.com
 
  *(14/05/2014) Hola! Cómo va? Les quería comentar que en HEXACTA estamos buscando un desarrollador Python con buena experiencia en dicha tecnología! Apuntamos a gente con experiencia previa, con background académico, buen nivel inglés y con ganas de continuar creciendo en un entorno de mejora continua. El lugar de trabajo sería en nuestras oficinas, ya sea en Las Cañitas (Palermo), en La Plata, en Bahía Blanca o en Paraná, en lugares estratégicos con excelente accesibilidad. No te pierdas esta oportunidad y anímate a formar parte de nuestro equipo de trabajo!!
