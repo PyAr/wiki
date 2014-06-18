@@ -2,12 +2,9 @@
 Si usted se inscribe acá probablemente reciba emails contactándolo.
 ||<tablewidth="867px" tableheight="754px" tablestyle="">'''Quien''' ||'''Sólo Freelance''' ||'''Sólo Rel. de Dependencia''' ||'''Unicamente en''' ||
 ||AlejandroDavidWeil ||                        ||                        ||Cap. Federal y Gran Buenos Aires ||
-||DanielMoisset ||Sí ||No ||Córdoba, trabajo remotamente ||
 ||FacundoBatista ||                        ||                        ||                        ||
 ||GuillermoFreschi ||                        ||                        ||Chaco y Corrientes (físicamente) ||
-||HoracioDuran ||Sí ||No ||Córdoba, trabajo remotamente ||
 ||MarceloAlaniz ||                        ||                        ||San Luis (físicamente) ||
-||JavierMansilla ||Sí ||No ||Córdoba, trabajo remotamente ||
 ||SantiagoSuarezO ||                        ||                        ||                        ||
 ||JohnLenton ||                        ||                        ||Córdoba (físicamente) ||
 ||[[http://gonzalodelgado.com.ar/|Gonzalo Delgado]] ||                        ||                        ||Tucumán, trabajo remotamente ||
@@ -17,7 +14,6 @@ Si usted se inscribe acá probablemente reciba emails contactándolo.
 ||MartinBorthiry ||                        ||                        ||Mar del Plata (teletrabajo) ||
 ||RobertoRodríguez ||                        ||                        ||Capital Federal y GBA ||
 ||RenzoCarbonara ||                        ||                        ||Freelance||
-||WalterAlini ||Sí ||No ||Córdoba, trabajo remotamente ||
 ||[[http://www.estebanfeldman.com/|EstebanFeldman]] ||Sí ||No ||                        ||
 ||EstebanKüber <<MailTo(ekuber EN gmail PUNTO com)>> ||                        ||                        ||Capital Federal ||
 ||PabloZiliani ||                        ||                        ||                        ||
