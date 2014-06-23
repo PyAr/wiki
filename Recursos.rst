@@ -133,11 +133,11 @@
 
  * URL: http://www.msa.com.ar
 
- * Teléfono: 4322-6800/6900
+ * Teléfono: +54-11-6091-1540
 
- * Dirección: Av. Corrientes 640, Piso 10, Of 1. Ciudad Autónoma de Buenos Aires (C1043AAT)
+ * Dirección: Atuel 362 - Parque Patricios, Distrito Tecnológico Ciudad Autónoma de Buenos Aires (C1437EPD)
 
- * ¿De qué forma usamos Python?: Como lenguaje de programación principal en proyectos de misión crítica, sistemas web (mod_python, django) y aplicaciones GUI (pygtk, glade).
+ * ¿De qué forma usamos Python?: Como lenguaje de programación principal en proyectos de misión crítica, sistemas web (Django, Flask) y aplicaciones GUI (pygtk, glade).
 
 === Vortech ===
  * Contacto: <<MailTo( alecu AT vortech DOT com DOT ar, Alejandro J. Cura)>>
