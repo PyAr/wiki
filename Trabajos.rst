@@ -1,5 +1,7 @@
 = Trabajos con Python =
 
+ * (24/06/2014) Se busca desarrollador Python/Django Part Time o Freelance, para empresa que hace desarrollo mobile. Puesto para mantener y extender funcionalidad en backends de nuestras aplicaciones, así como desarrollar nuevos productos. Se valora conocimientos en HTML, JavaScript, Jquery y CSS. De estar interesados se pueden comunicar a través del siguiente e-mail: alejandrodebard@idomo.info
+
  * (18/06/2014) En [[http://www.real-trends.com/|real trends]] estamos buscando un programador Python para trabajar en nuestras oficinas de Palermo. Somos un ''start-up'' joven y en crecimiento donde desarrollamos una aplicación web con herramientas para vendedores de MercadoLibre utilizando su API pública. Nuestras principales tecnologías son Django, MySQL, AWS, Git y Bootstrap. Por el momento es indispensable ser monotributista. Si estás interesado enviá un mail a patricio@real-trends.com, preferentemente con links a tus cuentas de GitHub y LinkedIn.
 
  * (18/06/2014) En Onapsis, Buscamos programadores Python SR o SSR y Front-End JS/HTML/CSS para colaborar en proyectos de seguridad informática. Interesados pueden mandar ping a careers@onapsis.com Ref: PyHacker
