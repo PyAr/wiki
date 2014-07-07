@@ -1,4 +1,8 @@
 = Trabajos con Python =
+ * (07/07/2014) En [[http://www.getmango.com|Mango Payments]] estamos buscando desarrolladores para las posiciones de Python Dev y QA Developer. Pueden ver el perfil de búsqueda en: 
+   * Python Dev: https://mango.hiretracking.com/mango/job/10062
+   * QA Developer: https://mango.hiretracking.com/mango/job/10129
+ Interesados mandar CV a bruno.acselrad@getmango.com .
 
  * (02/07/2014) Eynes se encuentra en la búsqueda de programadores con conocimientos de linux, base de datos postgreSQL y conocimiento del lenguaje Python (no excluyente), la búsqueda se orienta a una persona con dedicación full time. Los interesados pueden enviar CV a rrhh@eynes.com.ar indicando pretensiones económicas.
 
