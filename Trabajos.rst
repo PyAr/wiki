@@ -1,4 +1,7 @@
 = Trabajos con Python =
+
+*(18/07/2014) Intel Argentina te invita a formar parte de su equipo de desarrolladores en Córdoba! Si estas en otra provincia nosotros te ayudamos con el traslado… Actualmente estamos buscando desarrolladores en Python/Django – Frontend developers – Javascript - UI Developer (foco en JSP) - UI Developer (Foco en HTML/CSS/JS). Si estas interesado envianos tu CV a empleos.asdc@intel.com
+
  * (07/07/2014) En [[http://www.getmango.com|Mango Payments]] estamos buscando desarrolladores para las posiciones de Python Dev y QA Developer. Pueden ver el perfil de búsqueda en: 
    * Python Dev: https://mango.hiretracking.com/mango/job/10062
    * QA Developer: https://mango.hiretracking.com/mango/job/10129
