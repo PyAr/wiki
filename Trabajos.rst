@@ -1,6 +1,8 @@
 = Trabajos con Python =
 
-*(18/07/2014) Intel Argentina te invita a formar parte de su equipo de desarrolladores en Córdoba! Si estas en otra provincia nosotros te ayudamos con el traslado… Actualmente estamos buscando desarrolladores en Python/Django – Frontend developers – Javascript - UI Developer (foco en JSP) - UI Developer (Foco en HTML/CSS/JS). Si estas interesado envianos tu CV a empleos.asdc@intel.com
+ * (23/07/2014) En [[http://www.kenwin.net|Kenwin]] estamos buscando un programador Python Jr o Semi Sr para colaborar en el desarrollo y soporte de aplicaciones web. El trabajo es 100% remoto, el ambiente de trabajo es muy bueno. Trabajamos con Python, PostgreSQL y Linux. Se aprecia conocimientos en HTML/CSS/JS/JQuery/Linux/SQAlchemy y manejo de Inglés oral y escrito. A los interesados, mandar CV, pretensión salarial y preferencia de contratación (freelance o relación de dependencia) a tech@kenwin.net.
+
+ * (18/07/2014) Intel Argentina te invita a formar parte de su equipo de desarrolladores en Córdoba! Si estas en otra provincia nosotros te ayudamos con el traslado… Actualmente estamos buscando desarrolladores en Python/Django – Frontend developers – Javascript - UI Developer (foco en JSP) - UI Developer (Foco en HTML/CSS/JS). Si estas interesado envianos tu CV a empleos.asdc@intel.com
 
  * (07/07/2014) En [[http://www.getmango.com|Mango Payments]] estamos buscando desarrolladores para las posiciones de Python Dev y QA Developer. Pueden ver el perfil de búsqueda en: 
    * Python Dev: https://mango.hiretracking.com/mango/job/10062
