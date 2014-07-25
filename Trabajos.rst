@@ -1,5 +1,7 @@
 = Trabajos con Python =
 
+ * (23/07/2014) En [[http://www.graion.com|Graion]] estamos en busqueda de un Python Developer Semi Senior que cuente con experiencia y conocimientos en el area. Es requisito indispensable contar con un nivel intermedio - avanzado del idioma inglés ya que trabajara en conjunto con un equipo que se encuentra en NYC. Ofrecemos excelentes clima laboral, prepaga de excelente y beneficios. A los interesados enviar CV a recruiting@graion.com    
+
  * (23/07/2014) En [[http://www.kenwin.net|Kenwin]] estamos buscando un programador Python Jr o Semi Sr para colaborar en el desarrollo y soporte de aplicaciones web. El trabajo es 100% remoto, el ambiente de trabajo es muy bueno. Trabajamos con Python, PostgreSQL y Linux. Se aprecia conocimientos en HTML/CSS/JS/JQuery/Linux/SQAlchemy y manejo de Inglés oral y escrito. A los interesados, mandar CV, pretensión salarial y preferencia de contratación (freelance o relación de dependencia) a tech@kenwin.net.
 
  * (18/07/2014) Intel Argentina te invita a formar parte de su equipo de desarrolladores en Córdoba! Si estas en otra provincia nosotros te ayudamos con el traslado… Actualmente estamos buscando desarrolladores en Python/Django – Frontend developers – Javascript - UI Developer (foco en JSP) - UI Developer (Foco en HTML/CSS/JS). Si estas interesado envianos tu CV a empleos.asdc@intel.com
