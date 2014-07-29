@@ -1,4 +1,6 @@
 = Trabajos con Python =
+ * (29/07/2014) En [[http://www.itcrowdarg.com|IT Crowd Argentina]],  buscamos programadores Python SR con 3 años experiencia mínima para colaborar en el desarrollo de una Start-Up Web en EEUU en el area de Legal Analytics. Trabajo 100% remoto, horarios flexibles, excelente remuneración y muy buen ambiente laboral. Conocimientos de Django y Flask son un plus. Se requiere buen nivel de inglés (oral / escrito). Los interesados por favor contactarse con Alejandro Isacovich a <<MailTo(aisacovich@itcrowdarg.com)>> Ref: Python
+
  * (29/07/2014) El trabajo consiste en testear un proyecto en Django con unittest. Es un trabajo de 2 a 3 semanas. Ofrezco $5000. Soy de Córdoba Capital, así que daré prioridad a los que sean de dicha ciudad, así podemos trabajar codo a codo. Contacto: diegolis@infoad.com.ar
 
  * (28/07/2014) [[http://www.toteming.com/|Toteming]] se encuentra en la búsqueda de programadores Python, todos los seniorities, para incorporarse al equipo de tecnología de la empresa. Hacemos desarrollos web, mobile, Android, desktop (linux), juegos, análisis estadístico de datos, y más! Jugá con cosas como raspberry pi, lectores rfid, Kinect y films táctiles desarrollando productos propios de la empresa. Ambiente start-up. Interesados mandar CV a tech@toteming.com.
