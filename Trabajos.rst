@@ -1,4 +1,6 @@
 = Trabajos con Python =
+ * (29/07/2014) El trabajo consiste en testear un proyecto en Django con unittest. Es un trabajo de 2 a 3 semanas. Ofrezco $5000. Soy de Córdoba Capital, así que daré prioridad a los que sean de dicha ciudad, así podemos trabajar codo a codo. Contacto: diegolis@infoad.com.ar
+
  * (28/07/2014) [[http://www.toteming.com/|Toteming]] se encuentra en la búsqueda de programadores Python, todos los seniorities, para incorporarse al equipo de tecnología de la empresa. Hacemos desarrollos web, mobile, Android, desktop (linux), juegos, análisis estadístico de datos, y más! Jugá con cosas como raspberry pi, lectores rfid, Kinect y films táctiles desarrollando productos propios de la empresa. Ambiente start-up. Interesados mandar CV a tech@toteming.com.
 
  * (23/07/2014) En [[http://www.graion.com|Graion]] estamos en busqueda de un Python Developer Semi Senior que cuente con experiencia y conocimientos en el area. Es requisito indispensable contar con un nivel intermedio - avanzado del idioma inglés ya que trabajara en conjunto con un equipo que se encuentra en NYC. Ofrecemos excelente clima laboral, prepaga de excelencia y beneficios. A los interesados enviar CV a recruiting@graion.com    
