@@ -24,5 +24,5 @@ Esto es: tres camas individuales.
 Esto es: una cama grandota.
 
  * Natalia Bidart - Matías Bordese
- * Aylen Bombelli - Mariano Venier
+ * Filly - Mariano Venier
  * ...
