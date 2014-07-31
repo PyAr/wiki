@@ -1,7 +1,6 @@
 = Trabajos con Python =
 
- * (31/07/2014) En Infoxel (startup cordobesa), estamos ampliando nuestro equipo para entrar en mercados internacionales. Tenemos proyectos desafiantes y un excelente ambiente laboral. Hay buena paga, así que busco desarrolladores django y maquetadores Senior, preferentemente de Córdoba.
-El que esté interesado, me puede contactar a diegolis@infoad.com.ar, y conversamos.
+ * (31/07/2014) En Infoxel (startup cordobesa), estamos ampliando nuestro equipo para entrar en mercados internacionales. Tenemos proyectos desafiantes y un excelente ambiente laboral. Hay buena paga, así que busco desarrolladores django y maquetadores Senior, preferentemente de Córdoba. El que esté interesado, me puede contactar a diegolis@infoad.com.ar, y conversamos.
 
  * (31/07/2014) Python or wannabe Python Dev
   En [[http://www.msa.com.ar/|MSA]] buscamos incorporar programadores Python (de todos los niveles) con deseables conocimientos de ambiente Open Source, Linux (Ubuntu), tecnologías Web y manejo de bases de datos (SQL).<<BR>>
