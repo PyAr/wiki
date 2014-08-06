@@ -1,5 +1,6 @@
 = Trabajos con Python =
-
+* (06/08/2014) En [[Altoros Argentina|http://www.altoros.com]] estamos buscando un desarrollador/a Python.
+  Inicialmente trabajaría en asegurar la robustez de un conjunto de [[Juju Charms|https://juju.ubuntu.com]] programando tests de integración. Charms a trabajar: [[Cassandra|https://jujucharms.com/precise/cassandra-12/?text=cassandra]], Redis Cluster, couchdb, ELK (Elastickserarch, Logstassh and Kibana), Nagios, entre otros. <<BR>> Luego de este trabajo existe la posibilidad de continuar con otras tareas en Python relacionadas a Juju. <<BR>>Se requieren más de dos años de experiencia en python y buena comunicación oral en ingles dado que se requerirán sesiones de pair programming con desarrolladores de [[Canonical|http://www.canonical.com]]. <<BR>> La modalidad de contratación es full-time, inicialmente freelance y de un mínimo de 2 meses y medio.  Ofrecemos flexibilidad en horarios y lugar de trabajo, podes trabajar si querés en nuestras oficinas en la ciudad de Santa Fe (preferentemente) o CABA, o desde donde quieras. Es deseable que tengas disponibilidad para alguna posible reuniones presenciales en Santa Fe.<<BR>>  Si te interesa envianos  CV (formato que sea), cuenta github (opcional) y pretensión monetaria a <<MailTo(manuel.garcia@altoros.com)>>
  * (31/07/2014) En Infoxel (startup cordobesa), estamos ampliando nuestro equipo para entrar en mercados internacionales. Tenemos proyectos desafiantes y un excelente ambiente laboral. Hay buena paga, así que busco desarrolladores django y maquetadores Senior, preferentemente de Córdoba. El que esté interesado, me puede contactar a diegolis@infoad.com.ar, y conversamos.
 
  * (31/07/2014) Python or wannabe Python Dev
@@ -10,13 +11,13 @@
 
  * (28/07/2014) [[http://www.toteming.com/|Toteming]] se encuentra en la búsqueda de programadores Python, todos los seniorities, para incorporarse al equipo de tecnología de la empresa. Hacemos desarrollos web, mobile, Android, desktop (linux), juegos, análisis estadístico de datos, y más! Jugá con cosas como raspberry pi, lectores rfid, Kinect y films táctiles desarrollando productos propios de la empresa. Ambiente start-up. Interesados mandar CV a tech@toteming.com. Trabajo presencial en Núñez, CABA. Freelancers/consultores remotos también bienvenidos para sumar a la cartera de la empresa.
 
- * (23/07/2014) En [[http://www.graion.com|Graion]] estamos en busqueda de un Python Developer Semi Senior que cuente con experiencia y conocimientos en el area. Es requisito indispensable contar con un nivel intermedio - avanzado del idioma inglés ya que trabajara en conjunto con un equipo que se encuentra en NYC. Ofrecemos excelente clima laboral, prepaga de excelencia y beneficios. A los interesados enviar CV a recruiting@graion.com    
+ * (23/07/2014) En [[http://www.graion.com|Graion]] estamos en busqueda de un Python Developer Semi Senior que cuente con experiencia y conocimientos en el area. Es requisito indispensable contar con un nivel intermedio - avanzado del idioma inglés ya que trabajara en conjunto con un equipo que se encuentra en NYC. Ofrecemos excelente clima laboral, prepaga de excelencia y beneficios. A los interesados enviar CV a recruiting@graion.com
 
  * (23/07/2014) En [[http://www.kenwin.net|Kenwin]] estamos buscando un programador Python Jr o Semi Sr para colaborar en el desarrollo y soporte de aplicaciones web. El trabajo es 100% remoto, el ambiente de trabajo es muy bueno. Trabajamos con Python, PostgreSQL y Linux. Se aprecia conocimientos en HTML/CSS/JS/JQuery/Linux/SQAlchemy y manejo de Inglés oral y escrito. A los interesados, mandar CV, pretensión salarial y preferencia de contratación (freelance o relación de dependencia) a tech@kenwin.net.
 
  * (18/07/2014) Intel Argentina te invita a formar parte de su equipo de desarrolladores en Córdoba! Si estas en otra provincia nosotros te ayudamos con el traslado… Actualmente estamos buscando desarrolladores en Python/Django – Frontend developers – Javascript - UI Developer (foco en JSP) - UI Developer (Foco en HTML/CSS/JS). Si estas interesado envianos tu CV a empleos.asdc@intel.com
 
- * (07/07/2014) En [[http://www.getmango.com|Mango Payments]] estamos buscando desarrolladores para las posiciones de Python Dev y QA Developer. Pueden ver el perfil de búsqueda en: 
+ * (07/07/2014) En [[http://www.getmango.com|Mango Payments]] estamos buscando desarrolladores para las posiciones de Python Dev y QA Developer. Pueden ver el perfil de búsqueda en:
    * Python Dev: https://mango.hiretracking.com/mango/job/10062
    * QA Developer: https://mango.hiretracking.com/mango/job/10129
  Interesados mandar CV a bruno.acselrad@getmango.com .
@@ -44,7 +45,7 @@
 
  *(13/05/2014) Desarrollador jr o ssr Django y Javascript XTech es una empresa que hace muchos años está en el mercado de Linux y Software Libre, orientada a la infraestrucutura. Actualmente estamos consolidando un sector de desarrollo en la empresa y buscamos programadores que quieran profundizar en django y javascript y python en un ambiente tranquilo y constante capacitación. Enviar CV con remuneración pretendida a rrhh@xtech.com.ar.
 
-  Requisitos conocimiento en programación orientada a objetos conocimiento de cómo funcionan los sistemas web uso de eclipse u otra IDE de programación libre nivel básico de django y conocimiento de sintaxis python (preferentemente) 
+  Requisitos conocimiento en programación orientada a objetos conocimiento de cómo funcionan los sistemas web uso de eclipse u otra IDE de programación libre nivel básico de django y conocimiento de sintaxis python (preferentemente)
 
  *(02/05/2014) En Falconius estamos buscando un programador freelance con unas horas disponibles por semana y con experiencia en scraping utilizando Scrapy. Las tareas a desarrollar serían scrapear nuevos sitios además de modificar y mantener scrapers ya hechos. Quién esté interesado le pedimos que mande CV/github/bitbucket/linkedin a mfalcon@falconius.com.
 
@@ -86,8 +87,8 @@ Habilidades: Conocimientos y manejo de herramientas de modelado para UML, metodo
 
  * (9/01/2014) Analista Desarrollador Python (Ssr - Sr) -- Consensus Group solicita programadores Python para importante empresa. Python 2.3. Deseable: Experiencia en PHP / MySQL. Conocimientos Java Script, HTML, CSS. Framework Django. Ingles técnico. Estudios en Sistemas. Tiempo completo. Se ofrece relación de Dependencia. Lugar de trabajo: Capital Federal. Indicar remuneración pretendida. jrodriguez@consensusgroup.net
 
- * (7/1/2014) [[http://machinalis.com|Machinalis]] La cosa es más o menos así: Machinalis es una empresa Argentina que hace software fundamentalmente pythónico. Laburamos en cosas de Data Mining, Machine Learning, Data Processing & Visualization, Complex Web Development otras cosas del rubro. Publicamos varios proyectos  por acá y damos regularmente charlas en la comunidad así que no sobreabundo en detalles (por cualquier cosa me pinguean por privado y les cuento más "de qué la vamos" con gusto). 
-  En ese contexto, estamos evaluando la incorporación en el corto plazo de una persona de Córdoba para que se sume al equipo y meta mano a las cosas de Frontend (maquetado y desarrollo) de un proyecto en particular que tiene un hito dentro de seis meses, pero con ganas de que vaya metiéndole cabeza y desarrollo a cosas típicas de Data Visualization (tales como D3.js) en las cuales como buenos backenderos por ahí nos queda un buen camino por recorrer. 
+ * (7/1/2014) [[http://machinalis.com|Machinalis]] La cosa es más o menos así: Machinalis es una empresa Argentina que hace software fundamentalmente pythónico. Laburamos en cosas de Data Mining, Machine Learning, Data Processing & Visualization, Complex Web Development otras cosas del rubro. Publicamos varios proyectos  por acá y damos regularmente charlas en la comunidad así que no sobreabundo en detalles (por cualquier cosa me pinguean por privado y les cuento más "de qué la vamos" con gusto).
+  En ese contexto, estamos evaluando la incorporación en el corto plazo de una persona de Córdoba para que se sume al equipo y meta mano a las cosas de Frontend (maquetado y desarrollo) de un proyecto en particular que tiene un hito dentro de seis meses, pero con ganas de que vaya metiéndole cabeza y desarrollo a cosas típicas de Data Visualization (tales como D3.js) en las cuales como buenos backenderos por ahí nos queda un buen camino por recorrer.
 
   Algunas keywords que me pasan del área Operativa:
 
@@ -116,21 +117,21 @@ Habilidades: Conocimientos y manejo de herramientas de modelado para UML, metodo
 
   Nota: Haber hecho sólo un Tutorial o Proyecto en la Facultad es "bajo conocimiento" del asunto. Esto evidentemente no está mal porque nadie nace sabiendo, sólo lo digo para alinearnos respecto a la bara. Inclusive se puede tener bajo o nulo conocimiento y por alguna razón considerar ser un candidato pertinente.
 
-  Otra keywords que me pasa Machinalis todo: 
+  Otra keywords que me pasa Machinalis todo:
 
-  Must: 
+  Must:
 
     * Gustar de la comida en abundancia cualquier día
     * Ser *responsable* aún cuando seas informal
     * Que seas *buen tipo* y no te de lo mismo hacer las cosas bien o mal y dar una mano y compartir conocimientos con el que está a tu lado.
 
-  Ok, entonces, al que esté interesado, mandele un mail a Ignacio (de RRHH, que está operativizando la cosa) a idacal@machinalis.com o a mí o pinguee a su machinálico amigo para preguntarle más info sobre nosotros. 
+  Ok, entonces, al que esté interesado, mandele un mail a Ignacio (de RRHH, que está operativizando la cosa) a idacal@machinalis.com o a mí o pinguee a su machinálico amigo para preguntarle más info sobre nosotros.
 
   P.S.: Cualquier otro que ande cerca de las cosas que hacemos y justo tenga ganas y tiempo de hacernos ping sientase libre de hacerlo que del otro palo de cosas más Pythónicas/Djangosas seguimos incorporando con cierta regularidad.
 
 
  * (7/1/2014) Ref: Front End Developer
-  [[http://Dzone.com|Dzone]], creadores de [[http://osqa.net|OSQA]], [[http://refcardz.dzone.com/|refcardz]] y [[http://answerhub.com|AnswerHub]] está requiriendo programadores con muy buen conocimiento de Front End (Javascript [jQuery], Css, HTML, Freemarker), y conocimiento de Python y Java. El trabajo es Full o Part Time (pero con compromiso, conexiones diarias y disponibilidad en chat) remoto, las oficinas están en EEUU y el equipo está distribuido entre distintos lugares del planeta. Hay mucho trabajo para hacer y el equipo está en pleno crecimiento. Envianos tu CV y remuneración pretendida a <<MailTo(javyer EN dzone PUNTO com)>> 
+  [[http://Dzone.com|Dzone]], creadores de [[http://osqa.net|OSQA]], [[http://refcardz.dzone.com/|refcardz]] y [[http://answerhub.com|AnswerHub]] está requiriendo programadores con muy buen conocimiento de Front End (Javascript [jQuery], Css, HTML, Freemarker), y conocimiento de Python y Java. El trabajo es Full o Part Time (pero con compromiso, conexiones diarias y disponibilidad en chat) remoto, las oficinas están en EEUU y el equipo está distribuido entre distintos lugares del planeta. Hay mucho trabajo para hacer y el equipo está en pleno crecimiento. Envianos tu CV y remuneración pretendida a <<MailTo(javyer EN dzone PUNTO com)>>
 
 
  * (07/01/2014) Backend Dev
@@ -155,7 +156,7 @@ Habilidades: Conocimientos y manejo de herramientas de modelado para UML, metodo
 
  * (18/12/2013) Part Time o Freelance - SSr o Jr Exp - Empresa de Aplicaciones Mobile - Puesto para mantener y extender funcionalidad en backends de nuestras aplicaciones, así como desarrollar nuevos productos.
    * Twisted / Gevent / RabbitMQ / MongoEngine / Google App Engine
-   * Enviar CV a: cv@tipitap.com con ref Python Developer 
+   * Enviar CV a: cv@tipitap.com con ref Python Developer
 
  * (06/11/2013) Proveer mantenimiento y continuar desarrollo por etapas de sistema de soporte para la industria de la construcción con alcance en Argentina y Latinoamérica.
 
@@ -182,7 +183,7 @@ Habilidades: Conocimientos y manejo de herramientas de modelado para UML, metodo
 
  * (29/10/2013) Desarrollador Django - Javascript
      Somos una empresa cordobesa en pleno crecimiento y estamos buscando un desarrollador part-time o full-time. Hacemos todo en Python, y la interfaz web en Django / Js. Si te interesa trabajar en una empresa con espíritu de startup, con desafíos diarios y potencial de crecimiento, no dudes en escribir a diegolis@infoad.com.ar
-     
+
 
  * (15/10/2013) En Imzaia estamos buscando un desarrollador con experiencia en aplicaciones E-commerce usando django-oscar, django-shop o alguna similar. Interesados comunicarse a: [[mailto:info@imzaia.com.ar?subject=Busqueda de desarrollador|info@imzaia.com.ar]]
 
@@ -194,7 +195,7 @@ Habilidades: Conocimientos y manejo de herramientas de modelado para UML, metodo
  * (08/10/2013) En [[http://www.gersol.unlu.edu.ar/|GERSolar]] (UNLu) andamos buscando un desarrollador para participar de un proyecto de investigación. Se requiere conocer: OOP, patrones de diseño, python, git, linux; se valoran conocimientos en: refactoring, testing, django. Para ver mas detalles sobre el proyecto vean el pdf de [[https://docs.google.com/file/d/0B1aK1isdkuGLODRTMFVWYXFuWkE/edit?usp=sharing|este link]]. Quien tenga interés, debe escribirnos a [[mailto:gersolar@yahoo.com.ar?subject=Busqueda de desarrollador|gersolar@yahoo.com.ar]].
 
  * En la empresa donde trabajo, Frank Collaboration (del grupo Corbis Global) estan buscando 1 programador django con 1 año de experiencia, cualquier cosa mi mail es pablo.dalmasso@frankcollaboration.com, cualquier cosa no duden en preguntar.
- 
+
  * (20/09/2013) En [[http://www.juju.com|Juju]] buscamos desarrolladores con experiencia en Python y buen manejo de inglés para trabajo remoto (desde casa). Es para trabajar directamente en la expresa extranjera. Para más detalles visitar [[http://juju.theresumator.com/apply/vnGzCB/Web-Application-Developer-Chile-Argentina.html|este link]].
 
  * (17/09/2013) Estamos buscando un desarrollador con experiencia en screen scraping/web crawling y que preferentemente sepa usar scrapy. Interesados comunicarse a: <<rod0n ARROBA live PUNTO com PUNTO ar>>
@@ -204,14 +205,14 @@ Habilidades: Conocimientos y manejo de herramientas de modelado para UML, metodo
    * iptables y ACLs
    * route
    * tcpdump / wireshark
-   * TCP/IP 
+   * TCP/IP
    * Relational Databases
    * HTTP
    * Python scripting
    * Nivel de Inglés:  intermedio
 
    * Deseables :
-      
+
         * RESTFul APIs
         * NGINX
         * AWS
@@ -242,22 +243,22 @@ Interesados escribir a tech@routeatlas.com con su CV / linkedin (y link a github
 
 
  * (26/08/2013) Se busca desarrollador Python/Django para trabajo remoto (homeworking) en proyectos internacionales, modalidad freelance.  Se tendrán en cuenta la capacidad de resolución de problemas, y de mantener contacto con el equipo remoto.
- 
+
    * Requisitos (excluyente):
      * Experiencia de al menos 3 años programando en python.
      * Experiencia mínima 2 años utilizando django.
      * Nivel de inglés: intermedio avanzado. Capacidad de lectura y comunicación básica.
- 
+
    * Deseable:
      * Manejo de entorno Linux
      * Conocimientos de Javascript
      * Metodologías agiles
- 
+
    * Se ofrece:
      * Homeworking
      * Tipo de contrato Freelance, por proyecto y/o  a largo plazo.
      * Horario: 10 am a 7 pm
-     
+
    *S i estás interesado en participar del proceso envíanos tu CV a rrhh@consultoracenit.com.ar "Python freelance"
 
 
@@ -274,7 +275,7 @@ Ofrecemos ser parte de un proyecto único en la región, con proyección interna
 Les cuento un poco sobre el producto:
 En Infoxel desarrollamos tecnología para hacer más transparente el mundo de la publicidad. Para que los equipos de Marketing y Publicidad analicen y gestionen información estratégica sobre medios de comunicación, con herramientas online, transparentes, eficientes y simples. Somos el Google Analytics de los medios tradicionales (TV, Radios, Diarios y Revistas)  desarrollando herramientas tecnológicas, controlando la publicidad con una plataforma online, que brinda información en tiempo real.
 
-Si les interesa, por favor enviar el CV a ehartwig@infoxel.com 
+Si les interesa, por favor enviar el CV a ehartwig@infoxel.com
 
 
  * (10/07/2013) Programador BackEnd - iBillionaire
@@ -296,7 +297,7 @@ Hace 2 meses lanzamos entre mi socio y yo un producto mínimo viable. Logramos r
 
 ¿Qué buscamos?
 
-Desarrollador web python. 
+Desarrollador web python.
 
 Preferencias aunque no exclusividad: Django, bootstrap, manejo de backend y front-end y si es posible (maquetación). Sin embargo no damos tanta relevancia a los conocimientos como a la capacidad de emprender.
 
@@ -313,9 +314,9 @@ No garantizamos el éxito, pero garantizamos un nicho de mercado por explotar y 
 No ofrecemos confianza inmediata. Ofrecemos un proceso de conocimiento mutuo que alimente la confianza.
 Nuestro objetivo laboral principal no es hacer dinero, es emprender, es innovar, es ayudar a otros. Es buscar la felicidad también en nuestro trabajo por lo que hacemos y no por lo que logremos.
 No ofrecemos una "oferta de trabajo", ofirecemos una "opción de vida".
-Algún(a) interesado(a) agregar usuario skype: jjcruzt 
+Algún(a) interesado(a) agregar usuario skype: jjcruzt
 
-Abrazos a la comunidad python. 
+Abrazos a la comunidad python.
 
 
  * (25/06/2013) Si queres trabajar con las ultimas tecnologías y con investigadores de seguridad (hackers) no dudes en enviarnos tu CV a <<careers EN onapsis PUNTO com>> Ref: PDSR04.
@@ -330,7 +331,7 @@ Abrazos a la comunidad python.
 
  * (12/06/2013) '''Experto''' PLONE/ZOPE en CABA, cv a rrhh@naltu.com. Para desarrollo y mantenimiento de portales y sus interfaces con sistemas internos. Solo con EXPERIENCIA comprobable en portales PLONE.
 
- * (30/05/2013) Buscamos capacitador para dictar curso introductorio de Python a un equipo de Testers, modalidad "in-company", zona Barracas - CABA. El curso debería ser de 3 a 6 clases de 2/3 horas cada una y el objetivo del mismo es que los participantes comprendan los principios del lenguaje para poder aplicarlo a un proyecto de automatización de pruebas que utiliza un framework escrito en Python. Es deseable que el instructor tenga conocimiento de JAVA. Interesados contactar a Alejandro Marcos a <<amarcos EN boldt PUNTO com PUNTO ar>> Ref: Capacitador Python      
+ * (30/05/2013) Buscamos capacitador para dictar curso introductorio de Python a un equipo de Testers, modalidad "in-company", zona Barracas - CABA. El curso debería ser de 3 a 6 clases de 2/3 horas cada una y el objetivo del mismo es que los participantes comprendan los principios del lenguaje para poder aplicarlo a un proyecto de automatización de pruebas que utiliza un framework escrito en Python. Es deseable que el instructor tenga conocimiento de JAVA. Interesados contactar a Alejandro Marcos a <<amarcos EN boldt PUNTO com PUNTO ar>> Ref: Capacitador Python
 
  * (29/05/2013) [[http://Dzone.com|Dzone]], creadores de [[http://osqa.net|OSQA]], [[http://refcardz.dzone.com/|refcardz]] y mucho más está requiriendo programadores con muy buen conocimiento de Front End (Javascript [jQuery], Css, HTML), y conocimiento de Python y Java. Además estamos requiriendo gente para Q&A. El trabajo es Full-Time (no freelancers por favor, o solo freelancers con ganas de comprometerse con una empresa) remoto, las oficinas están en EEUU y el equipo está distribuido entre distintos lugares del planeta. Hay mucho trabajo para hacer y el equipo está en pleno crecimiento. Envianos tu CV y remuneración pretendida a <<MailTo(javyer EN dzone PUNTO com)>> Ref: Front End Developer
 
@@ -348,7 +349,7 @@ Abrazos a la comunidad python.
 
  * (13/05/2013) Un equipo de Licenciados en Letras e investigadores de Tecnología educativa en el cual participo estamos buscando un programador que nos asesore para crear un software educativo de lectura y escritura que pueda ser incorporado al sistema operativo Huayra Linux de Conectar Igualdad. El proyecto se va a presentar a la beca del Fondo Nacional de las Artes. El programador formaría parte del equipo de trabajo de la beca. Los interesados pueden escribirme a esta casilla: <<MailTo( alejogll EN hotmail PUNTO com)>>
 
- * (10/05/2013) [[http://www.onapsis.com|Onapsis]], Buscamos programadores '''Python SR o SSR''' para colaborar en proyectos de seguridad informática que va a revolucionar la industria de las aplicaciones criticas de negocio. Valoramos el conocimiento de las siguientes tecnologías: Pylons/Pyramid, ExtJS (Sencha), HTML, CSS, JavaScript, SQLAlchemy, TDD, etc. Interesados pueden enviar un correo a <<MailTo(careers EN onapsis PUNTO com)>> Ref: PyDev 
+ * (10/05/2013) [[http://www.onapsis.com|Onapsis]], Buscamos programadores '''Python SR o SSR''' para colaborar en proyectos de seguridad informática que va a revolucionar la industria de las aplicaciones criticas de negocio. Valoramos el conocimiento de las siguientes tecnologías: Pylons/Pyramid, ExtJS (Sencha), HTML, CSS, JavaScript, SQLAlchemy, TDD, etc. Interesados pueden enviar un correo a <<MailTo(careers EN onapsis PUNTO com)>> Ref: PyDev
 
  * (08/05/2013) Busco un desarrollador Python para un proyecto en curso. Se compone un servidor en Django, con una API restful que se conecta a un cliente escrito en PySide (Qt). Hay mucho trabajo por delante y es un proyecto muy interesante. Contacto: <<MailTo(raskovsky EN gmail PUNTO com)>>
 
@@ -368,11 +369,11 @@ Abrazos a la comunidad python.
 
  * (18/02/2013) Proveer mantenimiento y continuar desarrollo de sistema de tipo saas de soporte para la industria de la construcción con alcance en Argentina y Latinoamérica. Python / Django 1.4 / Mysql, Django templates, jQuery, jQueryUI, jqGrid, Git, South, django-nose, django-reversion. Enviar CV y propuestas a: <<MailTo(info EN ddobras PUNTO com PUNTO ar)>>
 
- * (11/02/2013) [[http://www.onapsis.com|Onapsis]], Buscamos programadores '''Python SR o SSR''' para arrancar un proyecto de seguridad informática que va a revolucionar la industria de las aplicaciones criticas de negocio. Valoramos el conocimiento de las siguientes tecnologías: Pylons/Pyramid, ExtJS (Sencha), HTML, CSS, JavaScript, SQLAlchemy, TDD, etc. Interesados pueden enviar un correo a <<MailTo(careers EN onapsis PUNTO com)>> Ref: PDSR01 
+ * (11/02/2013) [[http://www.onapsis.com|Onapsis]], Buscamos programadores '''Python SR o SSR''' para arrancar un proyecto de seguridad informática que va a revolucionar la industria de las aplicaciones criticas de negocio. Valoramos el conocimiento de las siguientes tecnologías: Pylons/Pyramid, ExtJS (Sencha), HTML, CSS, JavaScript, SQLAlchemy, TDD, etc. Interesados pueden enviar un correo a <<MailTo(careers EN onapsis PUNTO com)>> Ref: PDSR01
 
  * (01/02/2013) [[http://gentisoft.com|GentiSoft]], Buscamos freelance para terminar y continuar un desarrollo en Django, con una disponibilidad de por lo menos 4x5 a pagar AR$ 90 la hora ($AR 1.800 por semana). Interesados mandar CV o link a linked'in a <<MailTo(oscar EN gentisoft PUNTO com)>> Ref: Django Developer
 
- * (31/01/2013) [[http://www.msa.com.ar/|MSA]] busca programadores '''Python''' con deseables conocimientos de tecnologías Web, ambiente Open Source, Linux (Ubuntu), y manejo de bases de datos (SQL) . Buscamos gente proactiva, con habilidades autodidactas y afinidad al Software Libre. Si pensás que puede interesarte la propuesta, no dejes de comunicarte con nosotros vía mail con el CV y/o pretensiones a <rrhh EN msa PUNTO com PUNTO ar> 
+ * (31/01/2013) [[http://www.msa.com.ar/|MSA]] busca programadores '''Python''' con deseables conocimientos de tecnologías Web, ambiente Open Source, Linux (Ubuntu), y manejo de bases de datos (SQL) . Buscamos gente proactiva, con habilidades autodidactas y afinidad al Software Libre. Si pensás que puede interesarte la propuesta, no dejes de comunicarte con nosotros vía mail con el CV y/o pretensiones a <rrhh EN msa PUNTO com PUNTO ar>
 
 == 2012 ==
  * (17/12/2012) En [[http://oony.com|Oony]] buscamos desarrolladores Python semi-senior full-time. Construimos un servicio para encontrar las mejores ofertas todos los días en más de 16 países. Trabajamos con Tornado, PostgreSQL, MongoDB, Sphinx, Scrapy, Fabric, RabbitMQ, JQuery y Linux todo Python! Tenemos grandes desafíos en machine learning para recomendación y categorización, manejo de gran cantidad de datos para seguir expandiéndonos y producto. Indispensable manejar inglés. Nuestras oficinas están en Palermo, buen clima de trabajo. Envianos tu CV y remuneración pretendida a <<MailTo(jobs EN oony PUNTO com)>> Ref: Python Developer
