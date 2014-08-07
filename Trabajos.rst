@@ -1,4 +1,5 @@
 = Trabajos con Python =
+ * (07/08/2014) Estamos buscando una persona para desarrollar un proyecto de control de drones UAV. Se requiere ser SSR en python y algún conocimiento/interés en aeromodelismo. Interesados enviar CV con remuneración prentendida a dcoletti@xtech.com.ar. El trabajo es presencial en CABA.<<BR>>
 
  * (07/08/2014) Estamos buscando una persona para desarrollar un proyecto con OpenCV. Interesados enviar CV a la cuenta jldalla@gmail.com con el asunto "CV OpenCV". Muchas gracias y saludos.
 
