@@ -1,5 +1,8 @@
 = Trabajos con Python =
-* (07/08/2014) En [[InvGate|http://www.invgate.com]] estamos buscando un web developer. Nos interesa una persona que quiera sumarse al desarrollo de un producto nuevo involucrándose en todas las etapas del proceso.
+
+ * (07/08/2014) Estamos buscando una persona para desarrollar un proyecto con OpenCV. Interesados enviar CV a la cuenta jldalla@gmail.com con el asunto "CV OpenCV". Muchas gracias y saludos.
+
+ * (07/08/2014) En [[InvGate|http://www.invgate.com]] estamos buscando un web developer. Nos interesa una persona que quiera sumarse al desarrollo de un producto nuevo involucrándose en todas las etapas del proceso.
 
 '''Experiencia y conocimientos:'''
   * Desarrollo web con Python
