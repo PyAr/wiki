@@ -5,21 +5,21 @@
 
  * (07/08/2014) En [[InvGate|http://www.invgate.com]] estamos buscando un web developer. Nos interesa una persona que quiera sumarse al desarrollo de un producto nuevo involucrándose en todas las etapas del proceso.
 
-'''Experiencia y conocimientos:'''
-  * Desarrollo web con Python
-  * Conocimiento sobre desarrollo de aplicaciones REST
-  * Conocimiento de JQuery, Bootstrap, AngularJS (O muchas ganas de aprender)
-  * Experiencia con OOP
+    '''Experiencia y conocimientos:'''
+      * Desarrollo web con Python
+      * Conocimiento sobre desarrollo de aplicaciones REST
+      * Conocimiento de JQuery, Bootstrap, AngularJS (O muchas ganas de aprender)
+      * Experiencia con OOP
 
-'''Son un plus:'''
-  * Flask
-  * SQLAlchemy
-  * Empaquetado / creación de instaladores
-  * Experiencia con TDD
-  * Experiencia trabajando o liderando equipos que trabajan con metodologías ágiles
-  * Conocimiento sobre visualización de datos
+    '''Son un plus:'''
+      * Flask
+      * SQLAlchemy
+      * Empaquetado / creación de instaladores
+      * Experiencia con TDD
+      * Experiencia trabajando o liderando equipos que trabajan con metodologías ágiles
+      * Conocimiento sobre visualización de datos
 
-Si te interesa mandanos un mail a jobs@invgate.com.
+    Si te interesa mandanos un mail a jobs@invgate.com.
 
 * (06/08/2014) En [[Altoros Argentina|http://www.altoros.com]] estamos buscando un desarrollador/a Python.
   Inicialmente trabajaría en asegurar la robustez de un conjunto de [[Juju Charms|https://juju.ubuntu.com]] programando tests de integración. Charms a trabajar: [[Cassandra|https://jujucharms.com/precise/cassandra-12/?text=cassandra]], Redis Cluster, couchdb, ELK (Elastickserarch, Logstassh and Kibana), Nagios, entre otros. <<BR>> Luego de este trabajo existe la posibilidad de continuar con otras tareas en Python relacionadas a Juju. <<BR>>Se requieren más de dos años de experiencia en python y buena comunicación oral en ingles dado que se requerirán sesiones de pair programming con desarrolladores de [[Canonical|http://www.canonical.com]]. <<BR>> La modalidad de contratación es full-time, inicialmente freelance y de un mínimo de 2 meses y medio.  Ofrecemos flexibilidad en horarios y lugar de trabajo, podes trabajar si querés en nuestras oficinas en la ciudad de Santa Fe (preferentemente) o CABA, o desde donde quieras. Es deseable que tengas disponibilidad para alguna posible reuniones presenciales en Santa Fe.<<BR>>  Si te interesa envianos  CV (formato que sea), cuenta github (opcional) y pretensión monetaria a <<MailTo(manuel.garcia@altoros.com)>>
