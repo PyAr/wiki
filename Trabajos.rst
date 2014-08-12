@@ -1,4 +1,11 @@
 = Trabajos con Python =
+ * (12/08/2014) En Link-b estamos buscando ampliar la familia con un/a programador/a con sólidos conocimientos en PHP y/o Python. Que también haya trabajado con javascript y jquery. Que sepa maquetar un sitio desde su diseño en PSD/AI hasta entregar una HTML,CSS (o SASS), JS terminada lista para implementar. Usamos frameworks cómo Django, Compass, Foundation, jQuery y otros.
+    Nosotros somos una empresa copada, joven, divertida y en pleno crecimiento, nos gusta divertirnos pero cumplir (alguien dijo asados/cerveza/plaza?). Estamos en Vicente López (Buenos Aires Norte) las oficinas son limpias, el ambiente de laburo es super ameno, hay café, té, mate y cada tanto traemos torta y todos los días hay muchas buenas vibras :)
+
+    Si estas interesado/a o sabes de alguien que le puede interesar, hacele llegar este el mail.
+
+    Contacto al mail xavier@link-b.com con REF: print "Hola!"
+
  * (07/08/2014) Estamos buscando una persona para desarrollar un proyecto de control de drones UAV. Se requiere ser SSR en python y algún conocimiento/interés en aeromodelismo. Interesados enviar CV con remuneración prentendida a dcoletti@xtech.com.ar. El trabajo es presencial en CABA.<<BR>>
 
  * (07/08/2014) Estamos buscando una persona para desarrollar un proyecto con OpenCV. Interesados enviar CV a la cuenta jldalla@gmail.com con el asunto "CV OpenCV". Muchas gracias y saludos.
