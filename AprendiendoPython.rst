@@ -59,6 +59,10 @@ Ahora, ¿a dónde podrías recurrir para obtener información que te inicie en l
  * El Tutorial de Django
   . [[http://tutorialdjango.com.ar]].
 
+ * El libro de Web2py en español
+  . [[http://web2py.com/books/default/chapter/36]] (cuarta edición, traducción en progreso)
+  . [[http://www.latinuxpress.com/books/drafts/web2py/]] (traducción anterior de Latinux Press).
+
  * Introducción a Python y PostgreSQL Un ejemplo sencillo
   . [[http://users.servicios.retecal.es/tjavier/docfinal/out-htmls/index.html|Introduccion a python/postgresql]] Tomás Javier Robles Prado 2002
 
