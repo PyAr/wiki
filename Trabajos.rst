@@ -1,5 +1,7 @@
 = Trabajos con Python =
 
+ * (20/08/2014) En Onapsis, Buscamos programadores Python SR o SSR y Front-End JS/HTML/CSS para colaborar en proyectos de seguridad informática. Interesados pueden mandar ping a careers@onapsis.com Ref: PyHacker
+
  * (14/08/2014) [[http://listas.python.org.ar/pipermail/pyar/2014-August/030812.html|Code Dojo GCBA]]: Si sos programador con experiencia en Python, tenés vocación docente o espíritu educador, habilidades comunicacionales y estás interesado en incentivar el aprendizaje de la programación, formar autodidactas y acompañar a los jóvenes en la exploración de plataformas educativas y ejecución de proyectos ésta es tu oportunidad para sumarte como mentor e influenciar/motivar a los futuros programadores de la comunidad.   ¿Querés participar? Enviá tu CV a: programatufuturo@bue.edu.ar  Subject: DOJOS
 
  * (12/08/2014) En Link-b estamos buscando ampliar la familia con un/a programador/a con sólidos conocimientos en PHP y/o Python. Que también haya trabajado con javascript y jquery. Que sepa maquetar un sitio desde su diseño en PSD/AI hasta entregar una HTML,CSS (o SASS), JS terminada lista para implementar. Usamos frameworks cómo Django, Compass, Foundation, jQuery y otros.
