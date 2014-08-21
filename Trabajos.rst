@@ -1,5 +1,7 @@
 = Trabajos con Python =
 
+ * (21/08/2014) En [[http://www.itcrowdarg.com|IT Crowd Argentina]],  buscamos programadores Python SR con 3 años experiencia mínima para colaborar en el desarrollo de una Start-Up Web en EEUU en el area de Legal Analytics. Trabajo 100% remoto, horarios flexibles, excelente remuneración y muy buen ambiente laboral. Conocimientos de Django y Flask son un plus. Se requiere buen nivel de inglés (oral / escrito). Los interesados por favor contactarse con Alejandro Isacovich a <<MailTo(aisacovich@itcrowdarg.com)>> Ref: Python
+
  * (20/08/2014) En Onapsis, Buscamos programadores Python SR o SSR y Front-End JS/HTML/CSS para colaborar en proyectos de seguridad informática. Interesados pueden mandar ping a careers@onapsis.com Ref: PyHacker
 
  * (14/08/2014) [[http://listas.python.org.ar/pipermail/pyar/2014-August/030812.html|Code Dojo GCBA]]: Si sos programador con experiencia en Python, tenés vocación docente o espíritu educador, habilidades comunicacionales y estás interesado en incentivar el aprendizaje de la programación, formar autodidactas y acompañar a los jóvenes en la exploración de plataformas educativas y ejecución de proyectos ésta es tu oportunidad para sumarte como mentor e influenciar/motivar a los futuros programadores de la comunidad.   ¿Querés participar? Enviá tu CV a: programatufuturo@bue.edu.ar  Subject: DOJOS
