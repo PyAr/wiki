@@ -1,5 +1,7 @@
 = Trabajos con Python =
 
+ * (26/8/2014) [[http://machinalis.com|Machinalis]], Hola! Buscamos desarrollador web Python Semi Senior, experiencia de al menos un año, conocimientos de HTML y Java Script. Además tener manejo de inglés oral y escrito. La incorporación es ASAP. La carga horaria es de 30 horas semanales. Interesados por favor escribir a Ignacio Dacal Méndez <<MailTo(idacal@machinalis.com)>> y podré darles más información especifica y charlamos más del asunto. Buena semana! 
+
  * (21/08/2014) En [[http://www.itcrowdarg.com|IT Crowd Argentina]],  buscamos programadores Python Sr y Semi Sr para colaborar en el desarrollo de una Start-Up Web en EEUU en el area de Legal Analytics. Trabajo 100% remoto, horarios flexibles, excelente remuneración y muy buen ambiente laboral. Conocimientos de Django y Flask son un plus. Se requiere buen nivel de inglés (oral / escrito). Los interesados por favor contactarse con Alejandro Isacovich a <<MailTo(aisacovich@itcrowdarg.com)>> Ref: Python
 
  * (20/08/2014) En Onapsis, Buscamos programadores Python SR o SSR y Front-End JS/HTML/CSS para colaborar en proyectos de seguridad informática. Interesados pueden mandar ping a careers@onapsis.com Ref: PyHacker
