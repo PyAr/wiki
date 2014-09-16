@@ -1,5 +1,6 @@
 = Trabajos con Python =
-
+ * (16/09/2014) En Vixionar estamos en la busqueda de un Programador Python, con conocimientos de Frontend (Django), para sumar al equipo, puede ser remoto. Vixionar es un Startup donde gran parte del Team trabaja remoto, tenemos gente en Misiones, Entre Rios, y Bs As, buscamos alguien con muchas ganas de crear, en el proyecto usamos mucho Android/iOS, Mysql, Linux, Live Streaming entre otras tecnologias, es un proyecto super innovador! interesados escribir a alejandro.ferrari@vixionar.com
+ 
  * (02/09/2014) Eynes se encuentra en la búsqueda de programadores con conocimientos de linux, base de datos postgreSQL y conocimiento del lenguaje Python (no excluyente), la búsqueda se orienta a una persona con dedicación full time. Los interesados pueden enviar CV a rrhh@eynes.com.ar indicando pretensiones económicas. 
 
  * (26/8/2014) [[http://machinalis.com|Machinalis]], Hola! Buscamos desarrollador web Python Semi Senior, experiencia de al menos un año, conocimientos de HTML y Java Script. Además tener manejo de inglés oral y escrito. La incorporación es ASAP. La carga horaria es de 30 horas semanales. Interesados por favor escribir a Ignacio Dacal Méndez <<MailTo(idacal@machinalis.com)>> y podré darles más información especifica y charlamos más del asunto. Buena semana! 
