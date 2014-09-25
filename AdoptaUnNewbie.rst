@@ -32,7 +32,6 @@
  * [[MarianoGuerra|Mariano Guerra]] emesene, python en general, flask, REST, web
 
 === Ocupados ===
- * MartinAlderete ( PyQt, GUI programming)(Ochoa Gerardo Fidel)
  * JuanFisanotti (django y web, python en general, inteligencia artificial, vim) (Emanuel Toro y Jean Jacques)
 
 
@@ -82,3 +81,4 @@
  * Mariano Guerra
   * [[AnaMassone|Anna Massone]] perdida de contacto
   * [[DiegoAhumada|Diego Ahumada]] perdida de contacto
+ * MartinAlderete - Ochoa Gerardo Fidel, perdida de contacto.
