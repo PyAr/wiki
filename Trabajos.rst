@@ -1,4 +1,21 @@
 = Trabajos con Python =
+ * (1/10/2014)
+iBillionaire, una plataforma que monitorea los portfolio de inversion de Billionarios.
+
+Busca un programador con experiencia en la construcción de aplicaciones web. Alguien que construya las API internas y externas de iBillionaire.
+
+- Experiencia en Python, Django, TastyPie, South (excluyente).
+- Familiaridad con uno o más de los siguientes: Ubuntu, Varnish, NGINX, MySql
+- Experiencia en el desarrollo de aplicaciones, sitios que utilizan REST / JSON API 
+- El candidato ideal tiene experiencia tambien en Node Js, Mongo, y Redis
+
+Requisitos:
+- 4 años de experiencia
+- Trabajo a tiempo completo
+- En Buenos Aires, CABA (oficina Recoleta)
+
+Interesados enviar CV o incluir links a trabajos realizados a alina@iBillionaire.me con el subject "BackEnd iBillionaire".
+
  * (30/09/2014) Eynes [[http://eynes.com.ar]] se encuentra en la búsqueda de programadores con conocimientos de linux, base de datos postgreSQL y conocimiento del lenguaje Python (no excluyente), la búsqueda se orienta a una persona con dedicación full time. Los interesados pueden enviar CV a rrhh@eynes.com.ar indicando pretensiones económicas. 
 
  * (18/09/2014) Estamos en la búsqueda de nuevos integrantes para Devecoop, una Cooperativa de software libre [0], esto quiere decir que si bien para nuestros clientes somos como cualquier pyme tradicional, puertas hacia adentro somos una empresa autogestionada de manera democrática, cada uno de nosotros es dueño de una parte de Devecoop y posee un voto.
