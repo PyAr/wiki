@@ -1,20 +1,19 @@
 = Trabajos con Python =
- * (1/10/2014)
-iBillionaire, una plataforma que monitorea los portfolio de inversion de Billionarios.
+ * (1/10/2014) iBillionaire, una plataforma que monitorea los portfolio de inversion de Billionarios. Busca un programador con experiencia en la construcción de aplicaciones web. Alguien que construya las API internas y externas de iBillionaire.
 
-Busca un programador con experiencia en la construcción de aplicaciones web. Alguien que construya las API internas y externas de iBillionaire.
+   * Experiencia en Python, Django, TastyPie, South (excluyente).
+   * Familiaridad con uno o más de los siguientes: Ubuntu, Varnish, NGINX, MySql
+   * Experiencia en el desarrollo de aplicaciones, sitios que utilizan REST / JSON API 
+   * El candidato ideal tiene experiencia tambien en Node Js, Mongo, y Redis
 
-- Experiencia en Python, Django, TastyPie, South (excluyente).
-- Familiaridad con uno o más de los siguientes: Ubuntu, Varnish, NGINX, MySql
-- Experiencia en el desarrollo de aplicaciones, sitios que utilizan REST / JSON API 
-- El candidato ideal tiene experiencia tambien en Node Js, Mongo, y Redis
+   
+  Requisitos:
 
-Requisitos:
-- 4 años de experiencia
-- Trabajo a tiempo completo
-- En Buenos Aires, CABA (oficina Recoleta)
+   *  4 años de experiencia
+   * Trabajo a tiempo completo
+   * En Buenos Aires, CABA (oficina Recoleta)
 
-Interesados enviar CV o incluir links a trabajos realizados a raul@iBillionaire.me con el subject "BackEnd iBillionaire".
+  Interesados enviar CV o incluir links a trabajos realizados a raul@iBillionaire.me con el subject "BackEnd iBillionaire".
 
  * (30/09/2014) Eynes [[http://eynes.com.ar]] se encuentra en la búsqueda de programadores con conocimientos de linux, base de datos postgreSQL y conocimiento del lenguaje Python (no excluyente), la búsqueda se orienta a una persona con dedicación full time. Los interesados pueden enviar CV a rrhh@eynes.com.ar indicando pretensiones económicas. 
 
