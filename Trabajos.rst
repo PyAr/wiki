@@ -14,7 +14,7 @@ Requisitos:
 - Trabajo a tiempo completo
 - En Buenos Aires, CABA (oficina Recoleta)
 
-Interesados enviar CV o incluir links a trabajos realizados a alina@iBillionaire.me con el subject "BackEnd iBillionaire".
+Interesados enviar CV o incluir links a trabajos realizados a raul@iBillionaire.me con el subject "BackEnd iBillionaire".
 
  * (30/09/2014) Eynes [[http://eynes.com.ar]] se encuentra en la búsqueda de programadores con conocimientos de linux, base de datos postgreSQL y conocimiento del lenguaje Python (no excluyente), la búsqueda se orienta a una persona con dedicación full time. Los interesados pueden enviar CV a rrhh@eynes.com.ar indicando pretensiones económicas. 
 
