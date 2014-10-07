@@ -1,4 +1,7 @@
 = Trabajos con Python =
+
+ * (7/10/2014) En Onapsis, Buscamos programadores Python SR o SSR y Front-End JS/HTML/CSS para colaborar en proyectos de seguridad informática. Interesados pueden mandar ping a careers@onapsis.com Ref: PyHacker
+
  * (1/10/2014) iBillionaire, una plataforma que monitorea los portfolio de inversion de Billionarios. Busca un programador con experiencia en la construcción de aplicaciones web. Alguien que construya las API internas y externas de iBillionaire.
 
    * Experiencia en Python, Django, TastyPie, South (excluyente).
