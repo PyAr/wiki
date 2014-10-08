@@ -1,4 +1,8 @@
 = Trabajos con Python =
+ * (8/10/2014) Python or wannabe Python Dev
+  En [[http://www.msa.com.ar/|MSA]] buscamos incorporar programadores Python (de todos los niveles) con deseables conocimientos de ambiente Open Source, Linux (Ubuntu), tecnologías Web y manejo de bases de datos (SQL).<<BR>>
+  Buscamos gente proactiva, con habilidades autodidactas y afinidad al Software Libre.<<BR>>Si pensás que puede interesarte la propuesta, no dejes de comunicarte con nosotros vía mail con el CV y/o pretensiones a <rrhh EN msa PUNTO com PUNTO ar>
+El ambiente de trabajo es distendido y tenemos una cocinera que [[https://twitter.com/felipelerena/status/519896099738644480 | nos cocina asi de rico]]
 
 * (8/10/2014) GRUPODIN S.A. de Córdoba Capital busca incorporar 2 desarrolladores web python, semi senior, experiencia de al menos un año, conocimientos de HTML y Java Script. Incorporación inmediata. 25 horas semanales. Interesados por favor escribir a <<MailTo(contacto@grupo-din.com)>> ó completar el formulario provisto en www.espaciodin.com/trabajos ¡Se agradece la difusión!
 
