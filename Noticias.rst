@@ -20,6 +20,11 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 
+==== 13/10/2014 ====
+
+Python Argentina participará con un stand en la ekoparty 2014 (la conferencia de seguridad informática más grande de latinoamérica) que se realizará en Buenos Aires los días 29, 30 y 31 de octubre.
+
+
 ==== 11/9/2013 ====
 
 ===== PyCon Argentina 2013: Faltan 45 días =====
