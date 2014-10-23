@@ -1,10 +1,8 @@
-SURHIVE - Buscamos Desarrollador Senior Backend. Requerimientos: amplios conocimientos en Python, Ruby o Perl. Buscamos personas apasionadas por Internet y por el desarrollo web, con alta orientación al trabajo en equipo. Comprension del diseño orientado a objetos. Sólido conocimiento en SQL. Conocimiento de HTML y CSS para desarrollorar páginas mantenibles.
-
-Contacto: rrhh@surhive.com
-
- 
 
 = Trabajos con Python =
+
+ * (22/10/2014) SURHIVE - Buscamos Desarrollador Senior Backend. Requerimientos: amplios conocimientos en Python, Ruby o Perl. Buscamos personas apasionadas por Internet y por el desarrollo web, con alta orientación al trabajo en equipo. Comprension del diseño orientado a objetos. Sólido conocimiento en SQL. Conocimiento de HTML y CSS para desarrollorar páginas mantenibles. Contacto: rrhh@surhive.com
+ 
  * (8/10/2014) Python or wannabe Python Dev
   En [[http://www.msa.com.ar/|MSA]] buscamos incorporar programadores Python (de todos los niveles) con deseables conocimientos de ambiente Open Source, Linux (Ubuntu), tecnologías Web y manejo de bases de datos (SQL).<<BR>>
   Buscamos gente proactiva, con habilidades autodidactas y afinidad al Software Libre.<<BR>>Si pensás que puede interesarte la propuesta, no dejes de comunicarte con nosotros vía mail con el CV y/o pretensiones a <rrhh EN msa PUNTO com PUNTO ar><<BR>>
