@@ -1,4 +1,6 @@
-= Trabajos con Python = Buscamos Software Engineer para Compañia Lider IT en Mendoza
+= Trabajos con Python = 
+
+ * (29/10/2014) Buscamos Software Engineer para Compañia Lider IT en Mendoza
 Nuestro cliente una empresa en rápido crecimiento, se encuentra en la búsqueda de Ingenieros estrella que participen en la arquitectura, construicción y desarrollo de sus productos. Nos orientamos a aquella persona capaz de resolver retos complejos de ingeniería en todos sus productos. Como Ingeniero en estos proyectos participas de un equipo desafiante, altamente capacitado y como tarea principal será el responsable directo del desarrollo de las zonas críticas de su producto. Ayudará a diseñar y mejorar los sistemas de información, y desarrollo de otras herramientas cruciales para el sistema. 
 Requisitos:
 -Sólida experiencia en desarrollo de aplicaciones web en Python, Ruby on Rails o PHP o Java; y MySQL 
