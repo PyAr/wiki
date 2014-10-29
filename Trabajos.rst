@@ -1,4 +1,16 @@
-= Trabajos con Python =
+= Trabajos con Python = Buscamos Software Engineer para Compañia Lider IT en Mendoza
+Nuestro cliente una empresa en rápido crecimiento, se encuentra en la búsqueda de Ingenieros estrella que participen en la arquitectura, construicción y desarrollo de sus productos. Nos orientamos a aquella persona capaz de resolver retos complejos de ingeniería en todos sus productos. Como Ingeniero en estos proyectos participas de un equipo desafiante, altamente capacitado y como tarea principal será el responsable directo del desarrollo de las zonas críticas de su producto. Ayudará a diseñar y mejorar los sistemas de información, y desarrollo de otras herramientas cruciales para el sistema. 
+Requisitos:
+-Sólida experiencia en desarrollo de aplicaciones web en Python, Ruby on Rails o PHP o Java; y MySQL 
+-Experiencia diseñando APIs REST y arquitecturas web para los productos web de los consumidores 
+-Conocimiento de SQL, tecnologías NoSQL y NewSQL 
+-Estructuras de datos, diseño de software y programación orientada a objetos 
+-Sólida trayectoria de trabajo con diseño, producto e ingeniería para liderar proyectos de back-end complejos a la finalización.
+-Nivel de inglés intermedio/avanzado 
+Deseable: Javascript, CSS y HTML5 
+-Experiencia previa con Django o SQLAlchemy como ORM 
+-Diseño de base de datos y SQL quer.
+Si estás interesado en formar parte de proyectos de desarrollo en rápido movimiento, desafiantes con la posibilidad de desarrollarse profesionalmente en una ciudad combinando la tranquilidad y calidad de vida que ofrece Mendoza, por favor enviar sus datos a través de la posición deseada http://www.artdejobs.com.ar/empleos/software-engineer-compania-lider-it-en-mendoza/ o a Contacto: carina.cortinez@artdecode.com.ar
 
  * (29/10/2014) FRANKLABS - Buscamos Desarrolladores Django/Python con conocimientos en UI (no excluyente), HTML5 (no excluyente), y Javascript / JQuery para desarrollo de sitios y aplicaciones web/ Conocimientos requeridos: * HTML5 / CSS * Javascript / Jquery * Django/Python. Conocimientos Valorados: Conocimientos en Framework CSS Bootstrap 3 / Manejo de Heramientas de Diseño ( Illustrator y PhotoShop) Contacto: rr-hh@franklabs.biz
 
