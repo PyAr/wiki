@@ -1,4 +1,20 @@
-= Trabajos con Python = 
+= Trabajos con Python =
+
+ * (29/10/2014) En [[InvGate|http://www.invgate.com]] estamos buscando un web developer. Nos interesa una persona que quiera sumarse al desarrollo de un producto nuevo involucrándose en todas las etapas del proceso.
+
+    '''Experiencia y conocimientos:'''
+      * Desarrollo web con Python (Flask, Django, etc)
+      * SQLAlchemy
+      * Conocimiento sobre desarrollo de aplicaciones REST
+      * Conocimiento de JQuery, Bootstrap, AngularJS (O muchas ganas de aprender)
+      * Experiencia con OOP
+
+    '''Son un plus:'''
+      * Empaquetado / creación de instaladores
+      * Experiencia trabajando o liderando equipos que trabajan con metodologías ágiles
+      * Conocimiento sobre visualización de datos
+
+    Si te interesa mandanos un mail a jobs@invgate.com.
 
  * (29/10/2014) Buscamos Software Engineer para Compañia Lider IT en Mendoza
 Nuestro cliente una empresa en rápido crecimiento, se encuentra en la búsqueda de Ingenieros estrella que participen en la arquitectura, construicción y desarrollo de sus productos. Nos orientamos a aquella persona capaz de resolver retos complejos de ingeniería en todos sus productos. Como Ingeniero en estos proyectos participas de un equipo desafiante, altamente capacitado y como tarea principal será el responsable directo del desarrollo de las zonas críticas de su producto. Ayudará a diseñar y mejorar los sistemas de información, y desarrollo de otras herramientas cruciales para el sistema. 
