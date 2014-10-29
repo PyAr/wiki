@@ -1,5 +1,7 @@
 = Trabajos con Python =
 
+ * (29/10/2014) FRANKLABS - Buscamos Desarrolladores Django/Python con conocimientos en UI (no excluyente), HTML5 (no excluyente), y Javascript / JQuery para desarrollo de sitios y aplicaciones web/ Conocimientos requeridos: * HTML5 / CSS * Javascript / Jquery * Django/Python. Conocimientos Valorados: Conocimientos en Framework CSS Bootstrap 3 / Manejo de Heramientas de Diseño ( Illustrator y PhotoShop) Contacto: rr-hh@franklabs.biz
+
  * (22/10/2014) SURHIVE - Buscamos Desarrollador Senior Backend. Requerimientos: amplios conocimientos en Python, Ruby o Perl. Buscamos personas apasionadas por Internet y por el desarrollo web, con alta orientación al trabajo en equipo. Comprension del diseño orientado a objetos. Sólido conocimiento en SQL. Conocimiento de HTML y CSS para desarrollorar páginas mantenibles. Residencia en la ciudad de Rosario, Santa Fe. Contacto: rrhh@surhive.com
  
  * (8/10/2014) Python or wannabe Python Dev
