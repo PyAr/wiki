@@ -1,5 +1,16 @@
 = Trabajos con Python =
 
+* (31/10/2014) iBillionaire, una plataforma que monitorea los portfolio de inversion de Billionarios. Busca un programador con experiencia en la construcción de aplicaciones web. Alguien que construya las API internas y externas de iBillionaire.
+Experiencia en Python, Django, TastyPie, South (excluyente).
+Familiaridad con uno o más de los siguientes: Ubuntu, Varnish, NGINX, MySql
+Experiencia en el desarrollo de aplicaciones, sitios que utilizan REST / JSON API
+El candidato ideal tiene experiencia tambien en Node Js, Mongo, y Redis
+Requisitos:
+4 años de experiencia
+Trabajo a tiempo completo
+En Buenos Aires, CABA (oficina Recoleta)
+Interesados enviar CV o incluir links a trabajos realizados a raul@iBillionaire.me con el subject "BackEnd iBillionaire".
+
  * (29/10/2014) En [[InvGate|http://www.invgate.com]] estamos buscando un web developer. Nos interesa una persona que quiera sumarse al desarrollo de un producto nuevo involucrándose en todas las etapas del proceso.
 
     '''Experiencia y conocimientos:'''
