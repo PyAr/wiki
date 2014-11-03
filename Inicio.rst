@@ -6,7 +6,7 @@
 
 ##||<tablestyle="width:100%; color: red; text-align:center;"> {*} ~+''Cerro la votación de la Bandera. [wiki:Bandera/resultados Resultados]. ''+~ ||
 
-||<tablestyle="width:100%;text-align:center; border-style: hidden;">[[http://www.ekoparty.org/|{{attachment:ekoparty.png}}]]||
+##||<tablestyle="width:100%;text-align:center; border-style: hidden;">[[http://www.ekoparty.org/|{{attachment:ekoparty.png}}]]||
 
 = Bienvenido a PyAr - Python Argentina =
 
