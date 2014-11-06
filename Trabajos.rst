@@ -1,7 +1,7 @@
 = Trabajos con Python =
 
 
-* (06/11/2014) Buscamos desarrollador Python/Django que pueda liderar equipo para proyectos de back-end de apps móbiles. Tenemos varios proyectos interesantes para grandes compañías y pequeños startups en Estados Unidos.
+* (06/11/2014) Buscamos desarrollador Python/Django que pueda liderar equipo para proyectos de back-end de apps móviles. Tenemos varios proyectos interesantes para grandes compañías y startups en Estados Unidos.
 
 El buen manejo de idioma ingles es condición necesaria y excluyente.
 
