@@ -5,7 +5,7 @@
 
 El buen manejo de idioma ingles es condición necesaria y excluyente.
 
-'''Remuneración: excelente'''
+'''Remuneración: entre AR$20.000 y 25.000 al mes (dependiendo de perfil)'''
 
  * Lugar de trabajo: remoto desde domicilio particular del programador de manera independiente. El desarrollador debe vivir en la Ciudad Autónoma de Buenos Aires o sus alrededores.
 
