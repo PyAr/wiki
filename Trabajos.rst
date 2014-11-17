@@ -1,5 +1,58 @@
 = Trabajos con Python =
 
+* (17/11/2014) En [[http://machinalis.com|Machinalis]] estamos buscando para pronta incorporación:
+  + Una persona de Córdoba para que se sume a un equipo haciendo la parte de Frontend (maquetado y desarrollo)
+
+Algunas keywords:
+
+
+Must:
+
+    * HTML5 (todo lo que sea armado, detalles)
+    * Bootstrap (saber un sistema de grillas u otro framework CSS)
+    * Javascript
+    * Backbone
+    * Diseño responsive
+    * Cross browser development
+    * Jasmine y Sinon.js 
+    * Proficient use of javascript libraries, at least jquery or equivalent
+    * Understand written and oral english
+    * Be able to convert designs in graphic formats to HTML+CSS+js code
+  
+Experiencia 1 año desarrollando
+Idioma Inglés intermedio/avanzado (ideal)
+
+Nice to have:
+
+    * SASS (LESS en su defecto, mejor si los dos)
+    * Foundation 5 / Bootstrap3
+    * Bower, Grunt, Yeoman, Node.js, NPM
+    * Organización de aplicaciones javascript
+    * Nociones de UX
+    * BEM
+    * OOCSS
+
+  + Una persona de Córdoba para que se sume a un equipo haciendo testing funcional
+    
+Keywords:
+
+    * 1 Año de experiencia
+    * Idioma Inglés intermedio/avanzado (ideal)
+    * Ejecución de tareas para verificar cumplimientos de funcionalidad
+    * Ejecución de test automáticos en servidor de testing
+    * Conocer sistema de control de versiones
+
+  
+Otras keywords que hacen a los Machinálicos:
+
+    * Gustar de la comida en abundancia cualquier día
+    * Ser *responsable* aún cuando seas informal
+    * Que seas *buen tipo* y no te de lo mismo hacer las cosas bien o mal y dar una mano y compartir conocimientos con el que está a tu lado.
+
+Quien esté interesado, mande un mail a Ignacio (de RRHH) a idacal@machinalis.com, asunto [Búsqueda Vacante "Nombre Vacante"] o pinguee a su machinálico amigo para preguntarle más info sobre nosotros. Se agradece enviar CV actualizado o información referente a la experiencia y conocimientos.
+
+P.S.: Cualquier otro que ande cerca de las cosas que hacemos y justo tenga ganas y tiempo de hacernos ping sientase libre de hacerlo que del otro palo de cosas más Pythónicas/Djangosas seguimos incorporando con cierta regularidad.
+
 
 * (06/11/2014) Buscamos desarrollador Python/Django que pueda liderar equipo para proyectos de back-end de apps móviles. Tenemos varios proyectos interesantes para grandes compañías y startups en Estados Unidos.
 
