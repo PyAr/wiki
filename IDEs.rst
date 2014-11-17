@@ -112,6 +112,10 @@ Spyder también puede ser usado como una librería, ya que probee poderosos widg
 
 [[http://packages.python.org/spyder/]]
 
+=== PyScripter ===
+
+Windows-only, algo viejito, lleno de features (autocompletado, debugging, etc), utiliza pocos recursos, con versión portable y sencillo de usar
+
 
 == Editores de texto avanzados ==
 
