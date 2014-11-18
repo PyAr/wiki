@@ -268,3 +268,7 @@ DiegoSarmentero
 ManuelQuiñones
 
 - [[http://manuq.github.io/slides-charla-ansible/|Slides]] <<BR>>
+
+JuanjoConti
+
+- [[http://nbviewer.ipython.org/github/jjconti/aprendiendo-ruby/blob/PyConAr2014-with-output/RubyDesdePython.ipynb|Slides]] <<BR>>
