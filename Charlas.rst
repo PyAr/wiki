@@ -292,6 +292,12 @@ Perdón por el click-bait :-D No es una librería. Ni una biblioteca. Es ip mult
 Speakers: Cynthia Monastirsky, Juan Carizza, Emiliano Dalla Verde Marcozzi. Descripción: Cada vez es más común que existan diferentes servicios 'en la nube', que mediante una 'interface' nos permiten acceder y/o modificar los datos que procesan de una forma programática. Esto posibilita una abstracción sobre los lenguajes de programación en los que están desarrollados los sistemas, permitiendoles compartir información. Esta charla quiere ser una introducción a como poder compartir los datos que procesamos en nuestras aplicaciones, con aplicaciones de terceros, creando API's REST. 
 - Slides: [[https://docs.google.com/presentation/d/1xXrZQy3QtIu5n5Qz4IEw0lD8q83qoEq6ZqsHR2ixqvI/edit?usp=sharing]]
 
+== Argentina en Python: como matar el sueño de todo programador en 2 minutos ==
+
+ * Disertante: ManuelKaufmann
+ * Descripción: ''En Abril de 2014 empecé un proyecto llamado "Argentina en Python" con la idea de recorrer el país dando charlas de programación utilizando el lenguaje Python a quienes estuvieran interesados en aprender a programar. También, de esta forma, estaría devolviendo de alguna manera el conocimiento que obtuve libremente de la comunidad de Python durante todos estos años. La primera etapa del viaje duró 3 meses aproximadamente, visité 5 provincias y cerca de 10 ciudades. La segunda etapa comienza a principios de Septiembre y finaliza en la PyConAr 2014 en Rafaela. En esta charla se contará un poco sobre la historia del proyecto, sus inicios, su desarrollo y la experiencia vivida durante este tiempo, mencionando los pros y contra de viajar y trabajar como programador, como así también las experiencias en los cursos y charlas de Python.''
+ * Slides: [[ http://elblogdehumitos.com.ar/posts/python-conference-argentina-2014/argentina-en-python_pyconar2014_humitos.pdf ]]
+
 = Lighting Talks de PyConAr 2014 =
 
 == Pysenteishon - Controla tus slides desde tu smartphone ==
