@@ -260,3 +260,11 @@ DiegoSarmentero
 - [[http://wingedbox.com/downloads/14012-Desarrollando-Aplicaciones-Desktop-con-UI-Web.pdf|Slides]] <<BR>>
 - [[http://wingedbox.com/downloads/14014-Ejemplo-Ui-Desktop-Web.zip|Ejemplos]] <<BR>>
 - [[http://youtu.be/J5qgZx6VHhw|Fragmento de Video de la Charla (Ejemplo)]] <<BR>>
+
+= PyConAr Rafaela 2014 =
+
+== Ansible, la batuta de Python ==
+
+ManuelQuiñones
+
+- [[http://manuq.github.io/slides-charla-ansible/|Slides]] <<BR>>
