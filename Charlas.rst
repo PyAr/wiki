@@ -285,3 +285,17 @@ Perdón por el click-bait :-D No es una librería. Ni una biblioteca. Es ip mult
 
 - Slides: [[https://drive.google.com/file/d/0By78YYAMpgAUbHpKZTNtZ0dqYTA/view?usp=sharing|odp]] [[https://drive.google.com/file/d/0By78YYAMpgAUVk9CODZmWHR1dG8/view?usp=sharing|pdf]]
 - [[https://drive.google.com/folderview?id=0By78YYAMpgAUUzR1UGZPSUR0djg&usp=sharing|Ejemplos, fuentes y mucho más]]
+
+
+== RIP - Rest in Python 3 ==
+
+Speakers: Cynthia Monastirsky, Juan Carizza, Emiliano Dalla Verde Marcozzi. Descripción: Cada vez es más común que existan diferentes servicios 'en la nube', que mediante una 'interface' nos permiten acceder y/o modificar los datos que procesan de una forma programática. Esto posibilita una abstracción sobre los lenguajes de programación en los que están desarrollados los sistemas, permitiendoles compartir información. Esta charla quiere ser una introducción a como poder compartir los datos que procesamos en nuestras aplicaciones, con aplicaciones de terceros, creando API's REST. 
+- Slides: [[https://docs.google.com/presentation/d/1xXrZQy3QtIu5n5Qz4IEw0lD8q83qoEq6ZqsHR2ixqvI/edit?usp=sharing]]
+
+= Lighting Talks de PyConAr 2014 =
+
+== Pysenteishon - Controla tus slides desde tu smartphone ==
+[[ https://docs.google.com/presentation/d/1O61fDE2hQ58Vyzi9m751GYn-XpnnBYTjFSOlgwxqCLA/edit?usp=sharing]]
+
+== Nueva web de PyAr ==
+[[ https://docs.google.com/presentation/d/1iL6xhUzGeguvYcGa5DX23egxWEziJKLa_Opo3j28A0A/edit?usp=sharing]]
