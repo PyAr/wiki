@@ -269,8 +269,19 @@ ManuelQuiñones
 
 - [[http://manuq.github.io/slides-charla-ansible/|Slides]] <<BR>>
 
+
 == Ruby para programadores Python ==
+
 
 JuanjoConti
 
 - [[http://nbviewer.ipython.org/github/jjconti/aprendiendo-ruby/blob/PyConAr2014-with-output/RubyDesdePython.ipynb|Slides]] <<BR>>
+
+== Netflix en 10 líneas - Mulpycast ==
+
+'''Claudio Freire'''
+
+Perdón por el click-bait :-D No es una librería. Ni una biblioteca. Es ip multicast "para casi todos". Suena complicado, suena difícil, pero con un poco de buena suerte, y antigravity, se podrá ver en ~4 línas más imports un ejemplo funcional de multicast. Y con un poco más de líneas... de todo. Pytube? check. DroPyBox? check. Porrent (no es porro, es "torrent")? Check. Ip multicast es una herramienta genial para distribución de datos en LANs, WiFi, u overlays. Seh, vamos a ver un poco de overlays, IGMP y todo lo necesario para realmente enteder cómo funciona esto. En ipv4 (perdón, perdón).
+
+- Slides: [[https://drive.google.com/file/d/0By78YYAMpgAUbHpKZTNtZ0dqYTA/view?usp=sharing|odp]] [[https://drive.google.com/file/d/0By78YYAMpgAUVk9CODZmWHR1dG8/view?usp=sharing|pdf]]
+- [[https://drive.google.com/folderview?id=0By78YYAMpgAUUzR1UGZPSUR0djg&usp=sharing|Ejemplos, fuentes y mucho más]]
