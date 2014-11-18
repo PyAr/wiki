@@ -269,6 +269,8 @@ ManuelQuiñones
 
 - [[http://manuq.github.io/slides-charla-ansible/|Slides]] <<BR>>
 
+== Ruby para programadores Python ==
+
 JuanjoConti
 
 - [[http://nbviewer.ipython.org/github/jjconti/aprendiendo-ruby/blob/PyConAr2014-with-output/RubyDesdePython.ipynb|Slides]] <<BR>>
