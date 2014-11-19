@@ -298,6 +298,26 @@ Speakers: Cynthia Monastirsky, Juan Carizza, Emiliano Dalla Verde Marcozzi. Desc
  * Descripción: ''En Abril de 2014 empecé un proyecto llamado "Argentina en Python" con la idea de recorrer el país dando charlas de programación utilizando el lenguaje Python a quienes estuvieran interesados en aprender a programar. También, de esta forma, estaría devolviendo de alguna manera el conocimiento que obtuve libremente de la comunidad de Python durante todos estos años. La primera etapa del viaje duró 3 meses aproximadamente, visité 5 provincias y cerca de 10 ciudades. La segunda etapa comienza a principios de Septiembre y finaliza en la PyConAr 2014 en Rafaela. En esta charla se contará un poco sobre la historia del proyecto, sus inicios, su desarrollo y la experiencia vivida durante este tiempo, mencionando los pros y contra de viajar y trabajar como programador, como así también las experiencias en los cursos y charlas de Python.''
  * Slides: [[ http://elblogdehumitos.com.ar/posts/python-conference-argentina-2014/argentina-en-python_pyconar2014_humitos.pdf ]]
 
+== Introducción a Python ==
+
+ * Disertante: Facundo Batista
+ * Descripción: Esta charla se orienta a programadores, principiantes o avanzados, que desean conocer este lenguaje, de manera de aprender sus principios básicos.  Se presentan las características generales del lenguaje y su biblioteca estándar, su parte social, y se recorren los tipos de datos, los controles de flujo, y las diversas maneras de encapsular código, terminando con algunos detalles que muestran la expresividad, sencillez y poder de Python.
+ * Slides: [[ http://www.taniquetil.com.ar/homedevel/presents/intropython.odp ]]
+
+== Como debuguear código Python ==
+
+ * Disertante: Facundo Batista
+ * Descripción: Obviamente, al escribir código, no siempre funciona al primer intento. A veces corregirlo es fácil, en otras oportunidades encontrar qué es lo que no está bien lleva tiempo. La charla es una serie de consejos prácticos (y ejemplos en vivo) sobre cómo debuguear código Python. Aplicando estos consejos, el tiempo de depuración del código se reduce notablemente, lo cual incrementa nuestra productividad.
+ * Slides: [[ http://www.taniquetil.com.ar/homedevel/presents/debug/debugpython.odp ]]
+
+== Como los logs me salvaron el alma ==
+
+ * Disertante: Facundo Batista
+ * Descripción: Los logs son fáciles de hacer, pero también los debemos hacer útiles. Esta charla es una colección de recomendaciones para aprender a loguear de forma eficiente y útil, a partir de la experiencia del uso de logging en un producto utilizado por millones de personas en distintos entornos.
+
+ * Slides: [[ http://www.taniquetil.com.ar/homedevel/presents/logs.odp ]]
+
+
 = Lighting Talks de PyConAr 2014 =
 
 == Pysenteishon - Controla tus slides desde tu smartphone ==
