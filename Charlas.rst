@@ -317,6 +317,12 @@ Speakers: Cynthia Monastirsky, Juan Carizza, Emiliano Dalla Verde Marcozzi. Desc
 
  * Slides: [[ http://www.taniquetil.com.ar/homedevel/presents/logs.odp ]]
 
+== Tu propio cliente de Torrent Streaming en Python ==
+
+ * Disertantes: Felipe Lerena, Nicolás Demarchi
+ * Descripción: Esta charla intenta explicarle al asistente como crear su propio cliente de torrent streaming hecho 100% en Python basado en la experiencia de desarrollo de touchandgo. https://github.com/touchandgo-devs/touchandgo
+
+ * Slides: [[ http://bit.ly/pyconar ]]
 
 = Lighting Talks de PyConAr 2014 =
 
