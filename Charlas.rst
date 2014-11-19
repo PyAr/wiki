@@ -263,6 +263,8 @@ DiegoSarmentero
 
 = PyConAr Rafaela 2014 =
 
+Se está solicitado por mail a los disertantes que agreguen el material de sus charlas. Si alguna charla todavía no está, puede ir apareciendo en estos días. Si sigue sin aparecer, no dudes en preguntarnos! fisa (fisadev@gmail.com) se está encargando del tema.
+
 == Ansible, la batuta de Python ==
 
 ManuelQuiñones
