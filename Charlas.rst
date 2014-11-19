@@ -326,6 +326,13 @@ Speakers: Cynthia Monastirsky, Juan Carizza, Emiliano Dalla Verde Marcozzi. Desc
 
  * Slides: [[ http://bit.ly/pyconar ]]
 
+== Prediciendo el mundial con inteligencia artificial ==
+
+* Disertante: Juan Pedro Fisanotti
+* Descripción: La idea de esta charla es transmitir algunos conceptos básicos de machine learning (una de las ramas más importantes de la inteligencia artificial), mostrando cómo de forma sencilla pueden ser aprovechados para resolver un problema concreto: predecir resultados de partidos de fútbol del mundial. La primer parte de la charla expone los conceptos básicos que vamos a aplicar, y la segunda parte los muestra aplicados en el ejemplo concreto, incluyendo su código implementado en python.
+
+* Slides: (con links a fuentes al final) http://nbviewer.ipython.org/github/fisadev/talks/blob/master/machine-learning-intro-with-worldcup/machine-learning-intro-worldcup.ipynb
+
 = Lighting Talks de PyConAr 2014 =
 
 == Pysenteishon - Controla tus slides desde tu smartphone ==
