@@ -291,7 +291,7 @@ Perdón por el click-bait :-D No es una librería. Ni una biblioteca. Es ip mult
 
 == RIP - Rest in Python 3 ==
 
-Speakers: Cynthia Monastirsky, Juan Carizza, Emiliano Dalla Verde Marcozzi. Descripción: Cada vez es más común que existan diferentes servicios 'en la nube', que mediante una 'interface' nos permiten acceder y/o modificar los datos que procesan de una forma programática. Esto posibilita una abstracción sobre los lenguajes de programación en los que están desarrollados los sistemas, permitiendoles compartir información. Esta charla quiere ser una introducción a como poder compartir los datos que procesamos en nuestras aplicaciones, con aplicaciones de terceros, creando API's REST. 
+Speakers: Cynthia Monastirsky, Juan Carizza, Emiliano Dalla Verde Marcozzi. Descripción: Cada vez es más común que existan diferentes servicios 'en la nube', que mediante una 'interface' nos permiten acceder y/o modificar los datos que procesan de una forma programática. Esto posibilita una abstracción sobre los lenguajes de programación en los que están desarrollados los sistemas, permitiendoles compartir información. Esta charla quiere ser una introducción a como poder compartir los datos que procesamos en nuestras aplicaciones, con aplicaciones de terceros, creando API's REST.
 - Slides: [[https://docs.google.com/presentation/d/1xXrZQy3QtIu5n5Qz4IEw0lD8q83qoEq6ZqsHR2ixqvI/edit?usp=sharing]]
 
 == Argentina en Python: como matar el sueño de todo programador en 2 minutos ==
@@ -332,6 +332,13 @@ Speakers: Cynthia Monastirsky, Juan Carizza, Emiliano Dalla Verde Marcozzi. Desc
  * Descripción: La idea de esta charla es transmitir algunos conceptos básicos de machine learning (una de las ramas más importantes de la inteligencia artificial), mostrando cómo de forma sencilla pueden ser aprovechados para resolver un problema concreto: predecir resultados de partidos de fútbol del mundial. La primer parte de la charla expone los conceptos básicos que vamos a aplicar, y la segunda parte los muestra aplicados en el ejemplo concreto, incluyendo su código implementado en python.
 
  * Slides: (con links a fuentes al final) http://nbviewer.ipython.org/github/fisadev/talks/blob/master/machine-learning-intro-with-worldcup/machine-learning-intro-worldcup.ipynb
+
+== Speed is a feature ==
+
+ * Disertantes: PabloMouzo Martin Blech
+ * Descripción: A mystical journey through Django performance optimization techniques, tools and gotchas.
+
+ * Slides: (con links a fuentes al final) http://www.slideshare.net/PabloMouzo/speed-is-a-feature-pyconar-2014
 
 = Lighting Talks de PyConAr 2014 =
 
