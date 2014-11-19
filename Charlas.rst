@@ -319,6 +319,12 @@ Speakers: Cynthia Monastirsky, Juan Carizza, Emiliano Dalla Verde Marcozzi. Desc
 
  * Slides: [[ http://www.taniquetil.com.ar/homedevel/presents/logs.odp ]]
 
+
+== Taller: Introducción a Pilas ==
+
+ * Disertante: Hugo Ruscitti
+ * Slides: [[ https://speakerdeck.com/hugoruscitti/taller-introduccion-a-pilas-por-hugo-ruscitti ]]
+
 == Tu propio cliente de Torrent Streaming en Python ==
 
  * Disertantes: Felipe Lerena, Nicolás Demarchi
