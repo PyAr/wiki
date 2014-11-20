@@ -346,6 +346,13 @@ Speakers: Cynthia Monastirsky, Juan Carizza, Emiliano Dalla Verde Marcozzi. Desc
 
  * Slides: (con links a fuentes al final) http://www.slideshare.net/PabloMouzo/speed-is-a-feature-pyconar-2014
 
+== Trabajando de forma asincronica en Django/Python ==
+
+ * Disertante: Martin Alderete
+ * Descripción: Introducción a los sistemas distribuidos con Python, Django y brokers de mensajes. En la charla analizaremos distintas formas de separar el "trabajo pesado" en Django/Python utilizando procesos asíncronos, para esto se hará enfasis en Celery y se mostrarán sus característica, ventajas y usos avanzados. También se comentarán soluciones a problemas comunes usando Celery. Por último se dará una introducción al procesamiento asíncrono en la plataforma cloud de Google appengine usando la API de taskqueue.
+
+ * Slides: [[ https://drive.google.com/file/d/0B53_jZFtizVWYWhhVlQtNFltbVU/view?usp=sharing|pdf ]]
+
 = Lighting Talks de PyConAr 2014 =
 
 == Pysenteishon - Controla tus slides desde tu smartphone ==
