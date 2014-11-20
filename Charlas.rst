@@ -267,9 +267,9 @@ Se está solicitado por mail a los disertantes que agreguen el material de sus c
 
 == Ansible, la batuta de Python ==
 
-ManuelQuiñones
-
-- [[http://manuq.github.io/slides-charla-ansible/|Slides]] <<BR>>
+ * Disertante: ManuelQuiñones
+ * Descripción: Ansible (ansible.com) es una gran herramienta de automatización hecha en Python. No importa que manejes uno o miles de servidores, siempre es necesario automatizar el deploy de tu aplicación web o las configuraciones del sistema. Ansible tiene un encare declarativo muy simple, que va más allá de la automatización por scripts "imperativa" de Fabric y otras alternativas. En mi trabajo actual estoy a cargo de más de mil servidores, y una de mis herramientas preferidas es Ansible. Enterate porqué en esta charla.
+ * Slides: [[http://manuq.github.io/slides-charla-ansible/|Slides]] <<BR>>
 
 
 == Ruby para programadores Python ==
