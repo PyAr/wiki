@@ -1,3 +1,29 @@
+Seleccionaremos para importante cliente:
+
+Desarrollador Python (Ssr – Sr)
+
+Definición de la necesidad: contribuir al desarrollo de una de las aplicaciones que forman parte del negocio principal de la organización.
+
+Algunas de las funciones a realizar:
+ 
+• Especificaciones
+• Dividir los requerimientos de desarrollo en elementos más simples y traducir esta lógica en un lenguaje.
+• Elaboración de posibles soluciones.
+• Realizar pruebas iniciales y dejar los desarrollos listos para la instalación del programa en producción
+• Evoluciones y documentación
+          
+
+Skill – Experiencia:
+ 
+• Python: mínimo de 2 años de experiencia como desarrollador (excluyente)
+• Django y HTML5 (deseable)
+• Conocimiento en PHP (deseable)
+• Estudiante avanzado o graduado en carreras relacionadas con IT (deseable)
+ 
+Capital Federal - Relación de dependencia directa
+Se solicita envío del salario en bruto pretendido 
+(cvs a: afaletti@consensusgroup.net)
+
 = Trabajos con Python =
 
 * '''''(17/11/2014)''''' En [[http://machinalis.com|Machinalis]] estamos buscando para pronta incorporación:
