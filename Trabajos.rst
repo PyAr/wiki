@@ -1,4 +1,6 @@
-Seleccionaremos para importante cliente:
+= Trabajos con Python =
+
+* '''''(21/11/2014)''''' Seleccionaremos para importante cliente:
 
 Desarrollador Python (Ssr – Sr)
 
@@ -24,7 +26,6 @@ Capital Federal - Relación de dependencia directa
 Se solicita envío del salario en bruto pretendido 
 (cvs a: afaletti@consensusgroup.net)
 
-= Trabajos con Python =
 
 * '''''(17/11/2014)''''' En [[http://machinalis.com|Machinalis]] estamos buscando para pronta incorporación:
 ===     + Una persona de Córdoba para que se sume a un equipo haciendo la parte de Frontend (maquetado y desarrollo) ===
