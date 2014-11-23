@@ -300,6 +300,11 @@ Speakers: Cynthia Monastirsky, Juan Carizza, Emiliano Dalla Verde Marcozzi. Desc
  * Descripción: ''En Abril de 2014 empecé un proyecto llamado "Argentina en Python" con la idea de recorrer el país dando charlas de programación utilizando el lenguaje Python a quienes estuvieran interesados en aprender a programar. También, de esta forma, estaría devolviendo de alguna manera el conocimiento que obtuve libremente de la comunidad de Python durante todos estos años. La primera etapa del viaje duró 3 meses aproximadamente, visité 5 provincias y cerca de 10 ciudades. La segunda etapa comienza a principios de Septiembre y finaliza en la PyConAr 2014 en Rafaela. En esta charla se contará un poco sobre la historia del proyecto, sus inicios, su desarrollo y la experiencia vivida durante este tiempo, mencionando los pros y contra de viajar y trabajar como programador, como así también las experiencias en los cursos y charlas de Python.''
  * Slides: [[ http://elblogdehumitos.com.ar/posts/python-conference-argentina-2014/argentina-en-python_pyconar2014_humitos.pdf ]]
 
+== Django Security Quick Wins ==
+ * Slides 1 de 2: [[ https://speakerdeck.com/andresriancho/djangomeetup-buenos-aires-django-security-qui ]]
+ * Slides 2 de 2: [[ https://speakerdeck.com/andresriancho/djangomeetup-buenos-aires-django-security-quick-wins-ii ]]
+
+
 == Introducción a Python ==
 
  * Disertante: Facundo Batista
