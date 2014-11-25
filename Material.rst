@@ -3,7 +3,7 @@
 
 De uso general 01 (por Cesar Portela): [[attachment:folletoPython01.svg]] / [[attachment:folletoPython01.pdf]]
 
-Doble, a color y blanco y negro (por Facundo Batista): [[http://tools.assembla.com/svn/homedevel/docs/folleto-pyar-1.svg|(enlace)]]
+Doble, a color y blanco y negro (por Facundo Batista): [[attachment:microtutorial-pyar.svg]]
 
 Con algunos cambios: [[attachment:FolletosCarteles/folleto-pyar-1-alecu.svg.bz2|Folleto Plegable]] - Viene con un micro-tutorial de python.
 
