@@ -358,6 +358,13 @@ Speakers: Cynthia Monastirsky, Juan Carizza, Emiliano Dalla Verde Marcozzi. Desc
 
  * Slides: [[ https://drive.google.com/file/d/0B53_jZFtizVWYWhhVlQtNFltbVU/view?usp=sharing|pdf ]]
 
+== El niño tiene tests (y no hay naranja) ==
+
+ * Disertantes: Natalia Bidart, Matías Bordese
+ * Descripción: Esta charla resume nuestra experiencia como docentes del taller de programación de Algoritmos y Estructuras de Datos II en la Universidad Nacional de Córdoba, y las herramientas que desarrollamos (en Python, por supuesto) para facilitar nuestra tarea y al mismo tiempo, ayudar a los estudiantes a escribir código C sin errores o al menos detectarlos a tiempo. Se presentan las metodologías y herramientas implementadas para corregir y hacer devoluciones a los alumnos de sus proyectos escritos en C. Entre ellas, mostramos a nuestro mayordomo Jaime, un sitio web Django, que se encarga de correr unit tests escritos en Python (ejercitando el código C vía ctypes) y reportar los resultados.
+
+ * Slides: [[ http://matias.bordese.com.ar/talks/pycon/jaime-pycon2014.pdf|pdf ]]
+
 = Lighting Talks de PyConAr 2014 =
 
 == Pysenteishon - Controla tus slides desde tu smartphone ==
@@ -365,3 +372,6 @@ Speakers: Cynthia Monastirsky, Juan Carizza, Emiliano Dalla Verde Marcozzi. Desc
 
 == Nueva web de PyAr ==
 [[ https://docs.google.com/presentation/d/1iL6xhUzGeguvYcGa5DX23egxWEziJKLa_Opo3j28A0A/edit?usp=sharing]]
+
+== demiurge - Shaping HTML chaos ==
+[[ https://docs.google.com/presentation/d/1dsNcM590BxoIaTViGRvGeylYg82n-UYOk4hVJ33PjYk/edit?usp=sharing]]
