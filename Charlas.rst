@@ -365,6 +365,12 @@ Speakers: Cynthia Monastirsky, Juan Carizza, Emiliano Dalla Verde Marcozzi. Desc
 
  * Slides: [[ http://matias.bordese.com.ar/talks/pycon/jaime-pycon2014.pdf|pdf ]]
 
+== Robotica para gente de verdad? ==
+ * Disertante: Diego Ramirez
+ * Descripcion: Breve repaso de la problematica educativa desde la vision de developers que podemos ayudar. Mostramos ademas el stack con el que construimos a nuestra mascota robotica.
+
+ * Slides: http://www.slideshare.net/DiegoRamirez100/robtica-para-gente-de-verdad
+
 = Lighting Talks de PyConAr 2014 =
 
 == Pysenteishon - Controla tus slides desde tu smartphone ==
