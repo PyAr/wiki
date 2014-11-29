@@ -1,5 +1,12 @@
 = Encuesta Relevamiento =
 
+== Gráficos ==
+
+||<^|4> Prioridades:  {{attachment:prioridades.png}} ||Categorías Socio: {{attachment:categoria_socios.png}} ||
+||Cuota Social: {{attachment:cuota_social.png}}  ||
+||Autoridades: {{attachment:comision_directiva.png}} ||
+||Sub-Comisiones: {{attachment:sub_comisiones.png}} ||
+
 == Respuestas ==
 
 === ¿Que beneficios sociales y servicios a la comunidad te interesarían que ofreciera la "Asociación Civil Python Argentina"? ===
