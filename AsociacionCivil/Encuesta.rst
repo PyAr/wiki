@@ -114,7 +114,7 @@ Posiblemente se organicen grupos de trabajo "descentralizados" (más allá de la
 
 Otros (texto libre ingresado):
 
- * ''Integración de mujeres a la comunidad''
+ * ''Integración de mujeres a la comunidad'' (NOTA: esto estaría incluido en el comité de Diversidad)
  * ''Ramp Up for non-programmers''
 
 === Sugerencias ===
@@ -129,7 +129,9 @@ Por el formulario web ser registraron las siguientes preguntas / comentarios:
 
 ----
 
-''Si se va a invertir yo considero que uno de los focos deberian ser las escuelas primarias y secundarias para evocar en los niños el deseo de aprender a programar ...''
+''Si se va a invertir yo considero que uno de los focos deberían ser las escuelas primarias y secundarias para evocar en los niños el deseo de aprender a programar ...''
+
+'''Respuesta''': si, esto esta contemplado en varios puntos, el tema es cómo y quién lo haría... (por ej, podría ser con materiales didacticos, juegos, etc.)
 
 ----
 
@@ -144,6 +146,8 @@ Por el formulario web ser registraron las siguientes preguntas / comentarios:
 ----
 
 ''Todos estos son servicios hacia adentro de la comunidad, cuando formas una asociación quieras o no, la asociación se va a convertir en el referente ante la sociedad. El presidente tendrá una visibilidad que el resto de la comunidad no tiene, por lo cual, estaría bueno que se piense un poco en este sentido. Sino se quiere generar esto, se le debería cambiar el nombre, por ejemplo, asociación civil pyconar''
+
+'''Respuesta''': 1) como dice el texto (quizás no estaba muy claro y haya que refinar la redacción), muchos son beneficios sociales y otros serían servicios hacia la comunidad, con la finalidad del bien común (que requiere las leyes y normas relacionadas). De hecho, la mayoría fueron tomados / adaptados de otras ONG. 2) El presidente es el representante "formal" de la asociación, pero en definitiva, las decisiones las va a tomar la comisión directiva en su conjunto; como se explica en otro punto, se tomaron ajustes de otros estatutos para delegar y balancear estas cuestiones (hasta donde se pudo, si hay más ideas, pueden aportarlas). 3) el tema de sólo organizar eventos también se discutió en la lista META, y de hecho es sólo un punto de los objetivos (relacionado con el primer punto de esta respuesta), por lo que el objeto de la ONG sería más amplio de que sólo organizar eventos (aunque esto ha resultado en la primer prioridad según esta encuesta...)
 
 ----
 
@@ -163,15 +167,21 @@ Por el formulario web ser registraron las siguientes preguntas / comentarios:
 
 ----
 
-''Las preguntas sobre participacion son cerradas, es decir, no permiten elegir 'no participaria', que es lo que yo seleccionaria. ...'' 
+''Las preguntas sobre participación son cerradas, es decir, no permiten elegir 'no participaría', que es lo que yo seleccionaria. ...'' 
 
 '''Nota:''' no era exactamente así, había una opción "Otros" y muchos la usaron para indicar que no deseaban participar (salvo 2 personas que propusieron cargos alternativos)
 
 ----
 
-''Me parece muy interesante que PyAr pueda fomentar emprendimientos de tipo comercial pequeños ya sea con infraestructura, asesoramiento o economicamente. Tambien seria interesante identificar areas en los ambitos estatales, educativos, cientificos y otros, en las que podamos colaborar con aplicaciones y/o infraestructura'' 
+''Me parece muy interesante que PyAr pueda fomentar emprendimientos de tipo comercial pequeños ya sea con infraestructura, asesoramiento o económicamente. 
 
-'''Respuesta:''' Es interesante el planteo, pero hay otras ONG para fomentar emprendimientos (cámaras empresarias como CADESOL / FACTTIC podrían tener esta categoría). La idea de ésta ONG es impulsar proyectos relacionados con Python de software libre / código abierto. También podría llegar a ser un riesgo apoyar startups, seguramente necesitan otra escala de financiación, y hasta puede que haya problemas con la IGJ por el carácter comercial de los emprendimientos. Si hay interés y consenso, habría que consultarlo con el Abogado...
+'''Respuesta:''' Es interesante el planteo, pero hay otras ONG para fomentar emprendimientos (cámaras empresarias como CADESOL / FACTTIC podrían tener esta categoría). La idea de esta ONG es impulsar proyectos relacionados con Python de software libre / código abierto. También podría llegar a ser un riesgo apoyar startups, seguramente necesitan otra escala de financiación, y hasta puede que haya problemas con la IGJ por el carácter comercial de los emprendimientos. Si hay interés y consenso, habría que consultarlo con el Abogado...
+
+----
+
+'' También seria interesante identificar áreas en los ámbitos estatales, educativos, científicos y otros, en las que podamos colaborar con aplicaciones y/o infraestructura''
+
+'''Respuesta:''' este tema esta contemplado en varias de las sub-comisiones (difusión, infraestructura), pero posiblemente haya que analizarlo para ver como sería (¿que aplicaciones?, ¿que infraestructura?, ¿con que fin?). Creo que tampoco sería la idea de que la ONG se convierta en una empresa de desarrollo o de hosting...
 
 ----
 
