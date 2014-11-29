@@ -6,7 +6,7 @@ A continuación se transcribe un breve resumen de cada aspirante, para el detall
 Actualmente hay 10 cargos en la "Comisión Directiva" y 2 en el "Organo Fiscalizador" (ver [[https://docs.google.com/document/d/1iobvM5W8IL7dU4U7HWf1Jj3reywvxnryF9STMByU-j8/edit|Estatuto]],  mínimamente se debe cubrir el puesto de Presidente, Secretario, Tesorero y Revisor de Cuentas, pudiendo continuar con los Vocales y el resto de los cargos). 
 Puede haber más de un candidato para cada puesto (por ello realizaremos una elección no vinculante a modo de pre-selección por internet), pero luego los candidatos definitivos deberían ser consensuados por unanimidad (ver [[https://docs.google.com/document/d/1gyVuTknaHaCuvxiqMPX3SGqqu-D_ZbaaFU77O_TbilQ/edit|Acta Consitutiva]])
 
-Para más información, deberes  ver '''[[AsociacionCivil/Autoridades|Deberes y Responsabilidades de las Autoridades de la Asocación Civil]]'''
+Para más información, ver '''[[AsociacionCivil/Autoridades|Deberes y Responsabilidades de las Autoridades de la Asocación Civil]]'''
 
 ''Traducido y Adaptado de [[https://wiki.python.org/moin/PythonSoftwareFoundation/BoardCandidates2014|Board Candidates 2014 - Python Software Foundation]]''
 
