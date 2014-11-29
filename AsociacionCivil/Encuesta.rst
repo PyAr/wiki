@@ -1,5 +1,7 @@
 = Encuesta Relevamiento =
 
+Se registraron 68 respuestas en total
+
 == Gráficos ==
 
 ||<^|4> Prioridades:  {{attachment:prioridades.png||align="top"}} ||Categorías Socio: {{attachment:categoria_socios.png||align="top"}} ||
