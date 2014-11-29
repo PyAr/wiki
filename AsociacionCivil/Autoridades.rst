@@ -36,7 +36,7 @@ Los cargos en la "Comisión Directiva" y "Órgano de Fiscalización" son ad-hono
 
 Hay dos facetas sobre las atribuciones y deberes de las autoridades:
 
- 1. Tareas regulares administrativas para mantener la personería jurídica, mantener la Asociación operacional y responder otras cuestiones e incidencias legales.
+ 1. Tareas regulares administrativas para mantener la personería jurídica, mantener la Asociación operativa y responder otras cuestiones e incidencias legales.
  2. Liderar la Asociación hacia un futuro brillante, discutiendo la dirección con los otros miembros de la comisión directiva y gestionando para impulsar que los asociados persigan estas ideas. 
 
 Necesitamos personas que puedan y sean capaces de implementar la visión de la Asociación.
