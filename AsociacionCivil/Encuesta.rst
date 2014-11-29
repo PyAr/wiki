@@ -1,4 +1,4 @@
-= Encuesta Relevamiento =
+= Encuesta Relevamiento - Asociación Civil =
 
  * Se registraron 68 respuestas en total
  * Promedio aproximado de Cuota Social: $ 70
