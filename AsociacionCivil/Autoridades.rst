@@ -49,7 +49,7 @@ Si bien puede haber ciertos problemas logísticos, trataremos de resolverlos.
 
 El compromiso de tiempo es personal -- en lo que quieras trabajar, y cuanto tiempo quieras dedicarle. 
 Algunas actividades son pesadas, otras no; haz tu elección!. 
-'''Las dedicación mínima de los miembros de la Comisión Directiva varía dependiendo el cargo (aprox. de 2 hs para los vocales a 5 hs semanales para el presidente/secretario/tesorero, pudiendo incrementarse para los períodos especiales: conferencias, cierres de ejercicio, etc.). El revisor de cuentasdebe controlar las actividades de la Asociación, debiendo emitir dictámenes periódicamente (generalmente una vez por año).'''
+''La dedicación mínima de los miembros de la Comisión Directiva varía dependiendo el cargo (aprox. de 2 hs para los vocales a 5 hs semanales para el presidente/secretario/tesorero, pudiendo incrementarse para los períodos especiales: conferencias, cierres de ejercicio, etc.). El revisor de cuentasdebe controlar las actividades de la Asociación, debiendo emitir dictámenes periódicamente (generalmente una vez por año).''
 
 Asistir a las reuniones es extremadamente importante -- necesitamos una mayoría de autoridades concurrentes para lograr quorum y tratar cualquier tipo de resolución.
 
