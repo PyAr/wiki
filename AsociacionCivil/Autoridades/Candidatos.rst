@@ -1,6 +1,6 @@
 = Asociación Civil - Candidatos =
 
-Las siguientes personas se han nominado para cubrir los cargos iniciales de los organos de administración de la Asociación. 
+Las siguientes personas se han nominado para cubrir los cargos iniciales de los organos de administración y control de la Asociación. 
 A continuación se transcribe un breve resumen de cada aspirante, para el detalle ver su página personal y discusiones en la [[http://python.org.ar/mailman/listinfo/meta|lista de correo META]].
 
 Actualmente hay 10 cargos en la "Comisión Directiva" y 2 en el "Organo Fiscalizador" (ver [[https://docs.google.com/document/d/1iobvM5W8IL7dU4U7HWf1Jj3reywvxnryF9STMByU-j8/edit|Estatuto]],  mínimamente se debe cubrir el puesto de Presidente, Secretario, Tesorero y Revisor de Cuentas, pudiendo continuar con los Vocales y el resto de los cargos). 
