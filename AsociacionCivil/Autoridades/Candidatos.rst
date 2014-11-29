@@ -25,7 +25,7 @@ Mini CV:
 
 Propuestas:
  * Arrancar la Asociación Civil, ponerla en funcionamiento estable, y comenzar a contribuir con la comunidad.
- * Registrar el nombre Python, y tratar con la PSF de ser una rama local de ellos. Dialogar con PSF para ver si nos pueden financiar el personal para disminuir el trabajo administrativo de la ONG.
+ * Registrar el nombre Python, y tratar con la PSF de ser una rama local de ellos.
  * Presentación de la Asociación Civil en las empresas y organismos centrado en la búsqueda de recursos para el funcionamiento y fortalecimiento de la Asociación.
  * Establecer lazos con instituciones educativas de nivel medio y superior, formal y no formal para fomentar a Python como recurso educativo.
  * Lograr un mecanismo de comunicación con la Comunidad de Python Argentina, para difundir las acciones realizadas y para poder lograr conocimiento de las necesidades de la comunidad e intentar solucionarlo.
