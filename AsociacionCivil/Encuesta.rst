@@ -98,6 +98,9 @@ Otros (texto libre ingresado):
 
  * ''"Representante Zonal"'' 
  * ''"Distributed AdHocracy"''
+ * ''Ayudante en tareas necesarias''
+
+'''NOTA:''' estos cargos adicionales planteados no están contemplados formalmente por el momento, pero eventualmente se podrían proponer o participar como socios activos en las sub-comisiones / actividades / proyectos de la ONG.
 
 === ¿En que sub-comisión o área te interesaría participar? ===
 
