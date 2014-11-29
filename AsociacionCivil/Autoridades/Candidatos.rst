@@ -8,6 +8,8 @@ Puede haber más de un candidato para cada puesto (por ello realizaremos una ele
 
 Para más información, ver '''[[AsociacionCivil/Autoridades|Deberes y Responsabilidades de las Autoridades de la Asocación Civil]]'''
 
+La metodología para candidatearse es simple: deben agregarse a esta wiki (al final de la lista, completando en lo posible su página personal) y enviar las propuestas propias a la [[http://python.org.ar/mailman/listinfo/meta|lista de correo META]]
+
 ''Traducido y Adaptado de [[https://wiki.python.org/moin/PythonSoftwareFoundation/BoardCandidates2014|Board Candidates 2014 - Python Software Foundation]]''
 
 == Candidatos Iniciales ==
