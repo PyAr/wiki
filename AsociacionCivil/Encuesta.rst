@@ -1,6 +1,11 @@
 = Encuesta Relevamiento =
 
-Se registraron 68 respuestas en total. Promedio apróximado de Cuota Social: $ 70. Más información abajo:
+ * Se registraron 68 respuestas en total
+ * Promedio aproximado de Cuota Social: $ 70
+ * Personas interesadas en votar autoridades iniciales: 38
+ * Personas interesadas en participar de la comisión directiva / organo fiscalización: 15 (aprox).
+
+Más información a continuación:
 
 == Gráficos ==
 
