@@ -41,6 +41,16 @@ Si bien la ONG se planifica con una amplia gama de objetivos a futuro, en princi
 ||Asistencia en temas contables (contratos, modelos de negocio, recaudación de fondos, etc.)||15||22%||
 ||Otro||9||13%||
 
+Otros (texto libre ingresado):
+
+ * ''Ayuda en organización (contable, etc) para eventos relacionados con python, que no son exclusivos de la comunidad de pyar (django meetup, python científico, etc).''
+ * ''Ramp Up for non-programmers''
+ * ''marketing de python para empresas''
+ * ''Algún tipo de certificación oficial''
+ * ''Aportar pequeños capitales para comenzar startups que usen python''
+ * ''Incubadora de proyectos (solo asesoramiento)''
+ * ''Apoyo a la integración de más mujeres a la comunidad y a los grupos actualmente consolidados para ello''
+
 === ¿Que tipo de participación y/o aporte económico podrías ofrecer a la Asociación Civil? ===
 
 Para ser sustentable, la ONG necesita socios que participen en su organización y que contribuyan económicamente para cubrir los gastos fijos mínimos. Para ello estamos pensando en las siguientes categorías de asociados:
@@ -70,7 +80,7 @@ La asociación se financiaría en primer medida con el aporte de los socios, pri
 
 === ¿Te interesaría participar en la Comisión Directiva / Organo de Fiscalización de la asociación? ===
 
-Ver [[AsociacionCivil/Autoridades|Autoridades]]
+Ver [[AsociacionCivil/Autoridades|Autoridades]] y [[AsociacionCivil/Autoridades/Candidatos|Candidatos]]
 
 ||Presidente (representar a la asociación)||0||0%||
 ||Secretario (organizar y controlar las tareas administrativas de la asociación)||1||1%||
@@ -84,6 +94,10 @@ Ver [[AsociacionCivil/Autoridades|Autoridades]]
 ||Revisor de Cuentas suplente||1||1%||
 ||Otro||7||10%||
 
+Otros (texto libre ingresado):
+
+ * ''"Representante Zonal"'' 
+ * ''"Distributed AdHocracy"''
 
 === ¿En que sub-comisión o área te interesaría participar? ===
 
@@ -97,6 +111,11 @@ Posiblemente se organicen grupos de trabajo "descentralizados" (más allá de la
 ||Diversidad: financiar becas y ayuda económica para favorecer la expansión de una comunidad diversa||5||7%||
 ||Aspectos Legales: gestionar marcas y derechos de autor (entre otros)||4||6%||
 ||Otro||2||3%||
+
+Otros (texto libre ingresado):
+
+ * ''Integración de mujeres a la comunidad''
+ * ''Ramp Up for non-programmers''
 
 === Sugerencias ===
 
@@ -124,6 +143,10 @@ Por el formulario web ser registraron las siguientes preguntas / comentarios:
 
 ----
 
+''Todos estos son servicios hacia adentro de la comunidad, cuando formas una asociación quieras o no, la asociación se va a convertir en el referente ante la sociedad. El presidente tendrá una visibilidad que el resto de la comunidad no tiene, por lo cual, estaría bueno que se piense un poco en este sentido. Sino se quiere generar esto, se le debería cambiar el nombre, por ejemplo, asociación civil pyconar''
+
+----
+
 ''Tal vez estaría bueno que esta encuesta esté bajo el dominio de python.org.ar'' '''¡Hecho!'''
 
 ----
@@ -142,7 +165,7 @@ Por el formulario web ser registraron las siguientes preguntas / comentarios:
 
 ''Las preguntas sobre participacion son cerradas, es decir, no permiten elegir 'no participaria', que es lo que yo seleccionaria. ...'' 
 
-'''Nota:''' no era exactamente así, había una opción "Otros" y muchos la usaron para indicar que no deseaban participar (salvo 2 personas que propusieron cargos alternativos: "Representante Zonal" y "Distributed AdHocracy")
+'''Nota:''' no era exactamente así, había una opción "Otros" y muchos la usaron para indicar que no deseaban participar (salvo 2 personas que propusieron cargos alternativos)
 
 ----
 
