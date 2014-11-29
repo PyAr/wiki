@@ -1,10 +1,33 @@
 = Autoridades =
 
+La Asociación será dirigida y administrada por una Comisión Directiva (C.D.) compuesta de 3 a 10 miembros (elegidos por 2 años de mandato). El Organo de Fiscalización (O.F.) será compuesto por 1 miembro titular y su suplente.
+
+Los cargos mínimos a completar según el estatuto son:
+
+ * Presidente (C.D.)
+ * Secretario (C.D.)
+ * Tesorero (C.D.)
+ * Revisor de cuentas (O.F.)
+
+Sería recomendable completar, según el estatuto pasado por el Abogado:
+
+ * Vocal titular 1 (C.D.)
+ * Vocal titular 2 (C.D.)
+ * Vocal suplente 1 (C.D.)
+ * Vocal suplente 2 (C.D.)
+
+Adicionalmente se podrían completar los siguientes cargos
+
+ * Vice-presidente (C.D.)
+ * Pro-secretario (C.D.)
+ * Pro-tesorero (C.D.)
+ * Revisor de cuentas suplente (O.F.)
+
 == Deberes y responsabilidades ==
 
 En resumen, las autoridades trabajan para cumplimentar los [[https://docs.google.com/document/d/1V67iEOuqCWzYw6ndf3PQFIChZeqgKMiM13WFT5D6G2k/edit|Objetivos]] de la Asociación; tomando la responsabilidad de hacer progresar Python y la ONG. 
 Las obligaciones de los miembros de la "Comisión Directiva" y "Organismo de Fiscalización" están listadas en el [[https://docs.google.com/document/d/1iobvM5W8IL7dU4U7HWf1Jj3reywvxnryF9STMByU-j8/edit|Estatuto]], TITULO IV. 
-Por favor, revisa las minutas de las reuniones de otras ONG relacionadas ([[http://www.python.org/psf/records/board/minutes|Python Software Foundation]], [[http://documentos-asociacion.es.python.org/#actas-firmadas|Asociación Python España]], [[associacao.python.org.br/associacao/|Associação Python Brasil]]) para ver ejemplos de acciones y decisiones específicas tomadas.
+Por favor, revisa las minutas de las reuniones de otras ONG relacionadas ([[http://www.python.org/psf/records/board/minutes|Python Software Foundation]], [[http://documentos-asociacion.es.python.org/#actas-firmadas|Asociación Python España]], [[http://associacao.python.org.br/associacao/|Associação Python Brasil]]) para ver ejemplos de acciones y decisiones específicas tomadas.
 
 Las autoridades dirigirían y administrarían la Asociación vía reuniones mensuales (posiblemente por videoconferencia e IRC) y listas de correo activas. Discutirán el trabajo realizado y a realizar, y los miembros de la Comisión Directiva titulares votarán en las resoluciones necesarias.
 
