@@ -2,10 +2,10 @@
 
 == Gráficos ==
 
-||<^|4> Prioridades:  {{attachment:prioridades.png}} ||Categorías Socio: {{attachment:categoria_socios.png}} ||
-||Cuota Social: {{attachment:cuota_social.png}}  ||
-||Autoridades: {{attachment:comision_directiva.png}} ||
-||Sub-Comisiones: {{attachment:sub_comisiones.png}} ||
+||<^|4> Prioridades:  {{attachment:prioridades.png||align="top"}} ||Categorías Socio: {{attachment:categoria_socios.png||align="top"}} ||
+||Cuota Social: {{attachment:cuota_social.png||align="top"}}  ||
+||Autoridades: {{attachment:comision_directiva.png||align="top"}} ||
+||Sub-Comisiones: {{attachment:sub_comisiones.png||align="top"}} ||
 
 == Respuestas ==
 
