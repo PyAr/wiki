@@ -26,3 +26,15 @@ Si bien la ONG se planifica con una amplia gama de objetivos a futuro, en princi
 ||Descuentos y beneficios en la compra de libros, herramientas, hosting, etc.||16||24%||
 ||Asistencia en temas contables (contratos, modelos de negocio, recaudación de fondos, etc.)||15||22%||
 ||Otro||9||13%||
+
+=== ¿Que tipo de participación y/o aporte económico podrías ofrecer a la "Asociación Civil Python Argentina"? ===
+
+Para ser sustentable, la ONG necesita socios que participen en su organización y que contribuyan económicamente para cubrir los gastos fijos mínimos. Para ello estamos pensando en las siguientes categorías de asociados:
+
+||Socio Activo (aporte económico, participación con voz y voto, y eventualmente en cargos directivos)||39||57%||
+||Socio Adherente (aporte económico y participación limitada "de oyente": con voz pero sin voto)||34||50%||
+||Socio Colaborador (participación en las tareas), para contribuciones significativas||12||18%||
+||Socio Fundador, para los que colaboren en la creación de la ONG||10||15%||
+||Socio Cadete (aporte económico reducido) para estudiantes y/o* menores de 18 años -a definir-||7||10%||
+||Socio Benefactor (aporte económico especial) para empresas, cooperativas, y otras instituciones||4||6%||
+||Socio Honorario, para las personas destacadas que hayan realizado contribuciones extraordinarias||2||3%||
