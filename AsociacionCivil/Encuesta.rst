@@ -38,3 +38,18 @@ Para ser sustentable, la ONG necesita socios que participen en su organización 
 ||Socio Cadete (aporte económico reducido) para estudiantes y/o* menores de 18 años -a definir-||7||10%||
 ||Socio Benefactor (aporte económico especial) para empresas, cooperativas, y otras instituciones||4||6%||
 ||Socio Honorario, para las personas destacadas que hayan realizado contribuciones extraordinarias||2||3%||
+
+=== ¿Que cuota social mensual podrías aportar de estar interesado? ===
+
+La asociación se financiaría en primer medida con el aporte de los socios, principalmente para cubrir los gastos fijos mínimos operativos (delegando ciertas tareas a contadores, abogados, gestores, etc. para poder concentrarnos en los temas técnicos relacionados con Python) y eventualmente costos para mantener la infraestructura básica. Para ayudarnos a estimar los recursos, puedes seleccionar una opción de las siguientes sugerencias:
+
+||$75.- por mes (similar a la "Python Software Foundation": U$S 100 / año SIN recargos dolares tarjeta)||21||31%||
+||$25.- por mes (similar a "Associação Python Brasil", R$64 por año con recargos dólares tarjeta)||14||21%||
+||$100.- a $125.- por mes||13||19%||
+||$45.- por mes (similar a "Python España", 30 €/año con recargos dólares tarjeta)||12||18%||
+||$150.- por mes, por ej. para micro-emprendimientos||5||7%||
+||$0, no puedo colaborar económicamente en este momento||2||3%||
+||$300.- por mes, por ej. para cooperativas y pequeñas empresas||0||0%||
+||$500.- por mes, por ej. para empresas y cooperativas medianas||0||0%||
+||$1000.- a $2000.- por mes, por ej. para grandes empresas||0||0%||
+||> $2000 por mes, por ej. para contribuciones especiales||0||0%||
