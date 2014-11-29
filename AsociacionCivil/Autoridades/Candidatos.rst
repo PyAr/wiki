@@ -45,7 +45,7 @@ Propuestas (adhiere también a las propuestas de Facundo)
 
  * Intentar obtener financiación adicional de la PSF para poder cubrir los costos extra de administración necesarios para llevar a cabo proyectos locales más complejos y así poder disminuir la carga de trabajo.
  * Adquirir materiales didácticos (Raspberry Pi, robots educativos o similares) para fomentar la enseñanza de programación con Python, armando desafíos, concursos y aulas rodantes.
- * Explorar la realización de "meta-eventos" (sobre Python y tecnologías relacionadas como por ejemplo: PostgreSQL, Sugar, Huayra, etc...) pensando a futuro un PyCon "ConoSur" para facilitar la integración regional (al estilo de "PyCon US" o "EuroPycon")
+ * Explorar la realización de "meta-eventos" (sobre Python y tecnologías relacionadas como por ejemplo: PostgreSQL, Sugar, Huayra, etc... con multiples ejes: general, investigación, educación, expertos) pensando a futuro un PyCon "ConoSur" para facilitar la integración regional y formación de desarrolladores (al estilo de "PyCon US" o "EuroPycon")
  * Fomentar la publicación de libros / revistas, gestionando ISBN/ISSN.
  * Promover la realización de cursos, capacitaciones para docentes y "no programadores" (en especial, impulsando la "Diplomatura en Software Libre")
  * Generar un programa de becas de estudio y de apoyo a investigaciones académicas / científicas.
