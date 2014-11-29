@@ -4,24 +4,24 @@ La Asociación será dirigida y administrada por una Comisión Directiva (C.D.) 
 
 Los cargos mínimos a completar según el estatuto son:
 
- * Presidente (C.D.)
- * Secretario (C.D.)
- * Tesorero (C.D.)
- * Revisor de cuentas (O.F.)
+ * Presidente (representa a la asociación)
+ * Secretario (organiza y controla las tareas administrativas de la asociación)
+ * Tesorero (responsable, en forma general,  de los fondos y otros bienes)
+ * Revisor de cuentas (control - órgano de fiscalización)
 
 Sería recomendable completar, según el estatuto pasado por el Abogado:
 
- * Vocal titular 1 (C.D.)
- * Vocal titular 2 (C.D.)
- * Vocal suplente 1 (C.D.)
- * Vocal suplente 2 (C.D.)
+ * Vocal titular 1 (tareas generales)
+ * Vocal titular 2 (tareas generales)
+ * Vocal suplente 1 (reemplazo eventual de los vocales)
+ * Vocal suplente 2 (reemplazo eventual de los vocales)
 
 Adicionalmente se podrían completar los siguientes cargos
 
- * Vice-presidente (C.D.)
- * Pro-secretario (C.D.)
- * Pro-tesorero (C.D.)
- * Revisor de cuentas suplente (O.F.)
+ * Vice-presidente (reemplazo eventual del Presidente)
+ * Pro-secretario (reemplazo eventual del Secretario)
+ * Pro-tesorero (reemplazo eventual del Tesorero)
+ * Revisor de cuentas suplente (órgano de fiscalización)
 
 == Deberes y responsabilidades ==
 
