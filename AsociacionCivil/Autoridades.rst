@@ -34,7 +34,7 @@ Las autoridades dirigirían y administrarían la Asociación vía reuniones mens
 Los cargos en la "Comisión Directiva" y "Órgano de Fiscalización" son ad-honoren, puramente voluntarios. Algunas autoridades (Tesorero y Secretario) podrían llegar a recibir un salario (''NOTA: en principio, esto último no esta contemplado y debería ser acordado y determinado por la Asamblea General''). 
 ''Las tareas específicas (llevar los libros contables, presentaciones impositivas, cobranzas y gestiones legales) serán preferentemente delegadas a empresas o profesionales especializados (contadores, abogados, gestores) para disminuir la carga de trabajo en estas áreas y poder enfocarnos en temas técnicos relacionados a Python.''
 
-Hay dos facetas:
+Hay dos facetas sobre las atribuciones y deberes de las autoridades:
 
  1. Tareas regulares administrativas para mantener la personería jurídica, mantener la Asociación operacional y responder otras cuestiones e incidencias legales.
  2. Liderar la Asociación hacia un futuro brillante, discutiendo la dirección con los otros miembros de la comisión directiva y gestionando para impulsar que los asociados persigan estas ideas. 
