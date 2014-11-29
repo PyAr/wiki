@@ -42,7 +42,7 @@ Hay dos facetas sobre las atribuciones y deberes de las autoridades:
 Necesitamos personas que puedan y sean capaces de implementar la visión de la Asociación.
 
 La ubicación física de las autoridades no debería ser un factor excluyente, queremos que la Asociación sea bien Federal.
-Las reuniones serían virtuales; solo habría que reunirse físicamente un par de veces por año para firmar las actas.
+Las reuniones serían virtuales; por cuestiones legales solo un mínimo de integrantes tendrían que reunirse físicamente  en el lugar de celebración, y luego, a posteriori, el resto debería juntarse para firmar las actas aprox. dos veces por año (por ej. en los eventos principales: PyCon, PyDay, etc.).
 Si bien puede haber ciertos problemas logísticos, trataremos de resolverlos.
 
 '''''NOTA:''' por cuestiones legales, la Asamblea Fundacional y otras cuestiones deberán ser realizados en la jurisdicción donde se establece la sede central (Ciudad de Buenos Aires), por lo que sería conveniente que los miembros fundadores estén dispuestos a viajar ocasionalmente de manera imprevista (hay una cuestión de plazos entre que se inicia el trámite y su terminación, presentaciones ante organismos IGJ, AFIP, etc), y en especial que que los candidatos a Presidente, Secretario y Tesorero sean de Capital o Gran Buenos Aires para poder realizar las gestiones y presentaciones pertinentes (ver [[https://docs.google.com/document/d/1gyVuTknaHaCuvxiqMPX3SGqqu-D_ZbaaFU77O_TbilQ/edit|Acta Consitutiva]]).''
