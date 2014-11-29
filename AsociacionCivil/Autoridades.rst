@@ -31,7 +31,7 @@ Por favor, revisa las minutas de las reuniones de otras ONG relacionadas ([[http
 
 Las autoridades dirigirían y administrarían la Asociación vía reuniones mensuales (posiblemente por videoconferencia e IRC) y listas de correo activas. Discutirán el trabajo realizado y a realizar, y los miembros de la Comisión Directiva titulares votarán en las resoluciones necesarias.
 
-Los cargos en la "Comisión Directiva" y "Órgano de Fiscalización" son ad-honoren, puramente voluntarios. Algunas autoridades (Tesorero y Secretario) podrían llegar a recibir un salario (''NOTA: en principio, esto último no esta contemplado y debería ser acordado y determinado por la Asamblea General''). 
+Los cargos en la "Comisión Directiva" y "Órgano de Fiscalización" son ad-honoren, puramente voluntarios. Algunas autoridades (por ej. Tesorero y Secretario en la PSF) podrían llegar a recibir una remuneración (''NOTA: en principio, esto último no esta contemplado y debería ser acordado y determinado por la Asamblea General, corroborando que sea posible y previa conformidad de la IGJ.''). 
 ''Las tareas específicas (llevar los libros contables, presentaciones impositivas, cobranzas y gestiones legales) serán preferentemente delegadas a empresas o profesionales especializados (contadores, abogados, gestores) para disminuir la carga de trabajo en estas áreas y poder enfocarnos en temas técnicos relacionados a Python.''
 
 Hay dos facetas sobre las atribuciones y deberes de las autoridades:
