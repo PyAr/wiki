@@ -53,3 +53,19 @@ La asociación se financiaría en primer medida con el aporte de los socios, pri
 ||$500.- por mes, por ej. para empresas y cooperativas medianas||0||0%||
 ||$1000.- a $2000.- por mes, por ej. para grandes empresas||0||0%||
 ||> $2000 por mes, por ej. para contribuciones especiales||0||0%||
+
+=== ¿Te interesaría participar en la Comisión Directiva / Organo de Fiscalización de la asociación? ===
+
+Ver [[AsociacionCivil/Autoridades|Autoridades]]
+
+||Presidente (representar a la asociación)||0||0%||
+||Secretario (organizar y controlar las tareas administrativas de la asociación)||1||1%||
+||Tesorero (responsable, en forma general,  de los fondos y otros bienes)||1||1%||
+||Revisor de Cuentas (control - órgano de fiscalización)||0||0%||
+||2 Vocales titulares (tareas generales)||9||13%||
+||2 Vocales suplentes -reemplazo eventual de los vocales, participación de "oyente": con voz, sin voto-||2||3%||
+||Vice-presidente -reemplazo eventual del Presidente-||0||0%||
+||Pro-secretario -reemplazo eventual del Secretario-||2||3%||
+||Pro-tesorero -reemplazo eventual del tesorero-||1||1%||
+||Revisor de Cuentas suplente||1||1%||
+||Otro||7||10%||
