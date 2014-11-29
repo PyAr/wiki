@@ -57,4 +57,4 @@ Las listas de correo de la Comisión Directiva posiblemente tenga pocos mensajes
 
 ''Traducido y Adaptado de [[https://wiki.python.org/moin/PythonSoftwareFoundation/DutiesAndResponsibilitiesOfDirectors|Python Software Foundation: Duties and Responsibilities of Directors]]''
 
-'''Descargo Legal''': Posiblemente haya otras resposabilidades legales (civiles, penales o patrimoniales) para los directivos de la Asociación (especialmente a aquellos que obren fuera del mandato que establece el estatuto/reglamentos o hayan votado afirmativamente resoluciones que provocasen daño a la entidad). INAL. YMMV.
+'''Descargo Legal''': Posiblemente haya otras resposabilidades legales (civiles, penales o patrimoniales) para los directivos de la Asociación (especialmente a aquellos que obren fuera del mandato que establece el estatuto/reglamentos o hayan votado afirmativamente resoluciones que provocasen daño a la entidad). IANAL. YMMV.
