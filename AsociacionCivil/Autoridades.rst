@@ -56,3 +56,5 @@ Asistir a las reuniones es extremadamente importante -- necesitamos una mayoría
 Las listas de correo de la Comisión Directiva posiblemente tenga pocos mensajes por día, pero puede haber un pico cerca de los eventos (por ej. PyCon), cuando se realiza una reunión de sus miembros, en los cierres de ejercicios o cuando hay un asunto importante a tratar.
 
 ''Traducido y Adaptado de [[https://wiki.python.org/moin/PythonSoftwareFoundation/DutiesAndResponsibilitiesOfDirectors|Python Software Foundation: Duties and Responsibilities of Directors]]''
+
+'''Descargo Legal''': Posiblemente haya otras resposabilidades legales (civiles, penales o patrimoniales) para los directivos de la Asociación (especialmente a aquellos que obren fuera del mandato que establece el estatuto/reglamentos o hayan votado afirmativamente resoluciones que provocaron el daño a la entidad). INAL. YMMV.
