@@ -1,6 +1,6 @@
 = Encuesta Relevamiento =
 
-Se registraron 68 respuestas en total
+Se registraron 68 respuestas en total. Promedio apróximado de Cuota Social: $ 70. Más información abajo:
 
 == Gráficos ==
 
