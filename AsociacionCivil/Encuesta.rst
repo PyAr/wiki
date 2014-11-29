@@ -16,7 +16,7 @@ Más información a continuación:
 
 == Respuestas ==
 
-=== ¿Que beneficios sociales y servicios a la comunidad te interesarían que ofreciera la "Asociación Civil Python Argentina"? ===
+=== ¿Que beneficios sociales y servicios a la comunidad te interesarían que ofreciera la Asociación Civil? ===
 
 Si bien la ONG se planifica con una amplia gama de objetivos a futuro, en principio posiblemente se deberán priorizar sólo algunos. Ciertos beneficios sociales y servicios serían brindados a los asociados y otros al resto de la comunidad, según la capacidad de organización / recursos que se logren. A continuación puedes seleccionar los que te parezcan más apropiados para una primera etapa:
 
