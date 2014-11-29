@@ -3,7 +3,7 @@
 Las siguientes personas han sido nominadas para cubrir los cargos iniciales de la Asociación. 
 A continuación se transcribe un resumen de cada aspirante, para el detalle ver su página personal y discusiones en la lista meta.
 
-Actualmente hay 10 cargos en la "Comisión Directiva" y 2 en el "Organo Fiscalizador" (para más información, deberes y responsabilidades, ver '''[[Autoridades]]''')
+Actualmente hay 10 cargos en la "Comisión Directiva" y 2 en el "Organo Fiscalizador". Para más información, deberes  ver '''[[AsociacionCivil/Autoridades|Deberes y Responsabilidades de las Autoridades de la Asocación Civil]]'''
 
 ''Traducido y Adaptado de [[https://wiki.python.org/moin/PythonSoftwareFoundation/BoardCandidates2014|Board Candidates 2014 - Python Software Foundation]]''
 
