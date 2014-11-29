@@ -41,7 +41,7 @@ Si bien la ONG se planifica con una amplia gama de objetivos a futuro, en princi
 ||Asistencia en temas contables (contratos, modelos de negocio, recaudación de fondos, etc.)||15||22%||
 ||Otro||9||13%||
 
-=== ¿Que tipo de participación y/o aporte económico podrías ofrecer a la "Asociación Civil Python Argentina"? ===
+=== ¿Que tipo de participación y/o aporte económico podrías ofrecer a la Asociación Civil? ===
 
 Para ser sustentable, la ONG necesita socios que participen en su organización y que contribuyan económicamente para cubrir los gastos fijos mínimos. Para ello estamos pensando en las siguientes categorías de asociados:
 
