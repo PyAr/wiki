@@ -106,7 +106,7 @@ Por el formulario web ser registraron las siguientes preguntas / comentarios:
 
 ''La asociacion civil deberia ser desentralizada e invitar al resto del pais a conformar su comision directiva, evitar centralizar todo en buenos aires, armar reuniones mensuales para incentivar el debate que promuevan la innovacion a nivel tecnologico y social.'' 
 
-'''Respuesta''': Esto se tuvo en cuenta desde el principio, pero hay algunas cuestiones legales que hay que cumplir. Estamos viendo alternativas con el abogado para ver como flexibilizarlo, para más información ver resumen en la página de [[AsociacionCivil/Autoridades autoridades]], las discuciones en la lista META y los comentarios / sugerencias en el [[https://docs.google.com/document/d/1iobvM5W8IL7dU4U7HWf1Jj3reywvxnryF9STMByU-j8/edit|estatuto]] (por ej. reuniones por teleconferencia, descentralización en sub-comisiones, votación por poder / elecciones por correspondencia, etc.) 
+'''Respuesta''': Esto se tuvo en cuenta desde el principio, pero hay algunas cuestiones legales que hay que cumplir. Estamos viendo alternativas con el abogado para ver como flexibilizarlo, para más información ver resumen en la página de [[AsociacionCivil/Autoridades|autoridades]], las discuciones en la lista META y los comentarios / sugerencias en el [[https://docs.google.com/document/d/1iobvM5W8IL7dU4U7HWf1Jj3reywvxnryF9STMByU-j8/edit|estatuto]] (por ej. reuniones por teleconferencia, descentralización en sub-comisiones, votación por poder / elecciones por correspondencia, etc.) 
 
 ----
 
