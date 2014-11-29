@@ -69,3 +69,17 @@ Ver [[AsociacionCivil/Autoridades|Autoridades]]
 ||Pro-tesorero -reemplazo eventual del tesorero-||1||1%||
 ||Revisor de Cuentas suplente||1||1%||
 ||Otro||7||10%||
+
+
+=== ¿En que sub-comisión o área te interesaría participar? ===
+
+Posiblemente se organicen grupos de trabajo "descentralizados" (más allá de la Comisión Directiva), donde los interesados (socios y miembros de la comunidad) podrían participar de distintas maneras, llevando adelante las distintas actividades necesarias para cumplir los objetivos de la asociación. Las tareas a realizar serían más puntuales, por lo que la dedicación horaria sería menor (estimado aprox. 5 horas mensuales), y se podría participar en más de una sub-comisión:
+
+||Eventos: organizar o auspiciar encuentros, jornadas, conferencias, sprints, etc.||30||44%||
+||Educación: realizar adaptaciones, traducciones, materiales didácticos, programas educacionales||26||38%||
+||Difusión y Fomento: editar folletos, revistas, etc.; promoción en empresas, educación y gobierno||25||37%||
+||Infraestructura: mantener la presencia en internet, servidores experimentales, etc.||23||34%||
+||I+D: otorgar recursos y realizar el seguimiento de proyectos de investigación y desarrollo||17||25%||
+||Diversidad: financiar becas y ayuda económica para favorecer la expansión de una comunidad diversa||5||7%||
+||Aspectos Legales: gestionar marcas y derechos de autor (entre otros)||4||6%||
+||Otro||2||3%||
