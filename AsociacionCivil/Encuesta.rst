@@ -97,3 +97,63 @@ Posiblemente se organicen grupos de trabajo "descentralizados" (más allá de la
 ||Diversidad: financiar becas y ayuda económica para favorecer la expansión de una comunidad diversa||5||7%||
 ||Aspectos Legales: gestionar marcas y derechos de autor (entre otros)||4||6%||
 ||Otro||2||3%||
+
+=== Sugerencias ===
+
+Por el formulario web ser registraron las siguientes preguntas / comentarios:
+
+----
+
+''La asociacion civil deberia ser desentralizada e invitar al resto del pais a conformar su comision directiva, evitar centralizar todo en buenos aires, armar reuniones mensuales para incentivar el debate que promuevan la innovacion a nivel tecnologico y social.'' 
+
+'''Respuesta''': Esto se tuvo en cuenta desde el principio, pero hay algunas cuestiones legales que hay que cumplir. Estamos viendo alternativas con el abogado para ver como flexibilizarlo, para más información ver resumen en la página de [[AsociacionCivil/Autoridades autoridades]], las discuciones en la lista META y los comentarios / sugerencias en el [[https://docs.google.com/document/d/1iobvM5W8IL7dU4U7HWf1Jj3reywvxnryF9STMByU-j8/edit|estatuto]] (por ej. reuniones por teleconferencia, descentralización en sub-comisiones, votación por poder / elecciones por correspondencia, etc.) 
+
+----
+
+''Si se va a invertir yo considero que uno de los focos deberian ser las escuelas primarias y secundarias para evocar en los niños el deseo de aprender a programar ...''
+
+----
+
+''Quisiera que se tenga también en cuenta la diversidad y difusión del lenguaje también para personas con alguna discapacidad.'' 
+
+'''Respuesta''': si, el tema de diversidad también fue un punto fundamental discutido desde el principio (incluso está dentro de los [[https://docs.google.com/document/d/1V67iEOuqCWzYw6ndf3PQFIChZeqgKMiM13WFT5D6G2k/edit|objetivos]] de la asociación, junto con la federalización y otros temas). Dado que fue una de las subcomisiones menos elegidas, posiblemente haya que tomar otros enfoques en este tema.
+
+----
+
+''En la parte de servicios me interesaría que la asociación tenga todos los servicios, pero tal vez marcarlos a todos no le otorga prioridad a algunos y otros, por eso marqué los principales''
+
+----
+
+''Tal vez estaría bueno que esta encuesta esté bajo el dominio de python.org.ar'' '''¡Hecho!'''
+
+----
+
+''Un servicio que me parece interesante es el de ofrecer algún tipo de certificación ""oficial"" (ya lo puse en ""otro"").''
+
+----
+
+''Creo que es arriesgado formalizar una sociedad civil en este momento si no se integra en el core de la comunidad a gente con un background diverso o que no este vinculado simplemente por un lazo de amistad... . Simplemente por una cuestion de volumen y porque en una asoc. civil eso ya no es asi, ahora hay derechos y responsabilidades ante terceros y ante el Estado.'' 
+
+'''Respuesta:''' Si, esto también se tuvo en cuenta desde el principio (quizás de manera implícita al armar la ONG). Ver [[AsociacionCivil/Autoridades|Deberes y Responsabilidades de las Autoridades de la Asociación Civil]]. 
+
+'''NOTA''': Se revisaron y adaptaron partes de otros estatutos (como SOLAR, Wikimedia Argentina, Gleducar, SADIO, entre otros), para tratar de clarificar/balancear las responsabilidades, agregar controles cruzados y contemplar casos excepcionales. También se contemplaron categorías de socios más abiertas / amplias (basadas en la PSF) para que todos tengan la posibilidad de participar, siempre dentro del marco legal Argentino.
+
+----
+
+''Las preguntas sobre participacion son cerradas, es decir, no permiten elegir 'no participaria', que es lo que yo seleccionaria. ...'' 
+
+'''Nota:''' no era exactamente así, había una opción "Otros" y muchos la usaron para indicar que no deseaban participar (salvo 2 personas que propusieron cargos alternativos: "Representante Zonal" y "Distributed AdHocracy")
+
+----
+
+''Me parece muy interesante que PyAr pueda fomentar emprendimientos de tipo comercial pequeños ya sea con infraestructura, asesoramiento o economicamente. Tambien seria interesante identificar areas en los ambitos estatales, educativos, cientificos y otros, en las que podamos colaborar con aplicaciones y/o infraestructura'' 
+
+'''Respuesta:''' Es interesante el planteo, pero hay otras ONG para fomentar emprendimientos (CADESOL / FACTTIC podrían tener esta categoría). La idea de ésta ONG es impulsar proyectos relacionados con Python de software libre / código abierto. También podría llegar a ser un riesgo apoyar startups, seguramente necesitan otra escala de financiación, y hasta puede que haya problemas con la IJG por el carácter comercial de los emprendimientos. Si hay interés y consenso, habría que consultarlo con el Abogado...
+
+----
+
+''¿al "gestionar marcas y derechos de autor" no estamos yendo en contra del software libre?'' 
+
+'''Respuesta:''' No, por el contrario, es una forma de proteger el software libre. Incluso Linux es una marca registrada y muchas ONG gestionan derechos de autor (no solo la PSF, también la Apache Software Foundation, Django Software Foundation, etc.)
+
+----
