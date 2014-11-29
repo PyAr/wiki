@@ -148,7 +148,7 @@ Por el formulario web ser registraron las siguientes preguntas / comentarios:
 
 ''Me parece muy interesante que PyAr pueda fomentar emprendimientos de tipo comercial pequeños ya sea con infraestructura, asesoramiento o economicamente. Tambien seria interesante identificar areas en los ambitos estatales, educativos, cientificos y otros, en las que podamos colaborar con aplicaciones y/o infraestructura'' 
 
-'''Respuesta:''' Es interesante el planteo, pero hay otras ONG para fomentar emprendimientos (CADESOL / FACTTIC podrían tener esta categoría). La idea de ésta ONG es impulsar proyectos relacionados con Python de software libre / código abierto. También podría llegar a ser un riesgo apoyar startups, seguramente necesitan otra escala de financiación, y hasta puede que haya problemas con la IJG por el carácter comercial de los emprendimientos. Si hay interés y consenso, habría que consultarlo con el Abogado...
+'''Respuesta:''' Es interesante el planteo, pero hay otras ONG para fomentar emprendimientos (cámaras empresarias como CADESOL / FACTTIC podrían tener esta categoría). La idea de ésta ONG es impulsar proyectos relacionados con Python de software libre / código abierto. También podría llegar a ser un riesgo apoyar startups, seguramente necesitan otra escala de financiación, y hasta puede que haya problemas con la IGJ por el carácter comercial de los emprendimientos. Si hay interés y consenso, habría que consultarlo con el Abogado...
 
 ----
 
