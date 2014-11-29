@@ -9,7 +9,7 @@ Los cargos mínimos a completar según el estatuto son:
  * Tesorero (responsable, en forma general,  de los fondos y otros bienes)
  * Revisor de cuentas (control - órgano de fiscalización)
 
-Sería recomendable completar, según el estatuto pasado por el Abogado:
+Sería recomendable completar, según el acta constitutiva pasada por el Abogado:
 
  * Vocal titular 1 (tareas generales)
  * Vocal titular 2 (tareas generales)
