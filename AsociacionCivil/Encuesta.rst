@@ -9,7 +9,7 @@ Más información a continuación:
 
 == Gráficos ==
 
-||<^|4> Prioridades:  {{attachment:prioridades.png||align="top"}} Respuestas Diarias: {{attachment:respuestas_diarias.png||align="top"}} ||Categorías Socio: {{attachment:categoria_socios.png||align="top"}} ||
+||<^|4> Prioridades:  {{attachment:prioridades.png||align="top"}} <<BR>> <<BR>> Respuestas Diarias: {{attachment:respuestas_diarias.png||align="top"}} ||Categorías Socio: {{attachment:categoria_socios.png||align="top"}} ||
 ||Cuota Social: {{attachment:cuota_social.png||align="top"}}  ||
 ||Autoridades: {{attachment:comision_directiva.png||align="top"}} ||
 ||Sub-Comisiones: {{attachment:sub_comisiones.png||align="top"}} ||
