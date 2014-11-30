@@ -30,6 +30,8 @@ Propuestas:
  * Registrar el nombre Python, y tratar con la PSF de ser una rama local de ellos.
  * Presentación de la Asociación Civil en las empresas y organismos centrado en la búsqueda de recursos para el funcionamiento y fortalecimiento de la Asociación.
  * Establecer lazos con instituciones educativas de nivel medio y superior, formal y no formal para fomentar a Python como recurso educativo.
+ * Desarrollo de la asociación como soporte para la realización de eventos (a nivel de soporte financiero y de otros recursos)
+ * Imprimir otra tanda de tutoriales, tratando de que sea una edición impresa más formal a nivel de ISBN.
  * Lograr un mecanismo de comunicación con la Comunidad de Python Argentina, para difundir las acciones realizadas y para poder lograr conocimiento de las necesidades de la comunidad e intentar solucionarlo.
 
 === Mariano Reingart ===
