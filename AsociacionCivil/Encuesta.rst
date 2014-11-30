@@ -51,6 +51,8 @@ Otros (texto libre ingresado):
  * ''Incubadora de proyectos (solo asesoramiento)''
  * ''Apoyo a la integración de más mujeres a la comunidad y a los grupos actualmente consolidados para ello''
 
+'''NOTA:''' la mayoría de estas cuestiones adicionales ya están contempladas en los documentos legales de la asociación, pero posiblemente se necesiten voluntarios que estén familiarizados con esos temas para impulsarlos. Ver abajo las respuestas más en detalle.
+
 === ¿Que tipo de participación y/o aporte económico podrías ofrecer a la Asociación Civil? ===
 
 Para ser sustentable, la ONG necesita socios que participen en su organización y que contribuyan económicamente para cubrir los gastos fijos mínimos. Para ello estamos pensando en las siguientes categorías de asociados:
@@ -78,7 +80,7 @@ La asociación se financiaría en primer medida con el aporte de los socios, pri
 ||$1000.- a $2000.- por mes, por ej. para grandes empresas||0||0%||
 ||> $2000 por mes, por ej. para contribuciones especiales||0||0%||
 
-=== ¿Te interesaría participar en la Comisión Directiva / Organo de Fiscalización de la asociación? ===
+=== ¿Te interesaría participar en la Comisión Directiva / Órgano de Fiscalización de la asociación? ===
 
 Ver [[AsociacionCivil/Autoridades|Autoridades]] y [[AsociacionCivil/Autoridades/Candidatos|Candidatos]]
 
@@ -117,8 +119,10 @@ Posiblemente se organicen grupos de trabajo "descentralizados" (más allá de la
 
 Otros (texto libre ingresado):
 
- * ''Integración de mujeres a la comunidad'' (NOTA: esto estaría incluido en el comité de Diversidad)
+ * ''Integración de mujeres a la comunidad''
  * ''Ramp Up for non-programmers''
+
+'''NOTA:''' estas sub-comisiones adicionales planteadas estarían incluidas en el comité de Diversidad o Educación.
 
 === Sugerencias ===
 
@@ -126,7 +130,7 @@ Por el formulario web ser registraron las siguientes preguntas / comentarios:
 
 ----
 
-''La asociacion civil deberia ser desentralizada e invitar al resto del pais a conformar su comision directiva, evitar centralizar todo en buenos aires, armar reuniones mensuales para incentivar el debate que promuevan la innovacion a nivel tecnologico y social.'' 
+''La asociación civil debería ser desentralizada e invitar al resto del pais a conformar su comisión directiva, evitar centralizar todo en buenos aires, armar reuniones mensuales para incentivar el debate que promuevan la innovación a nivel tecnológico y social.'' 
 
 '''Respuesta''': Esto se tuvo en cuenta desde el principio, pero hay algunas cuestiones legales que hay que cumplir. Estamos viendo alternativas con el abogado para ver como flexibilizarlo, para más información ver resumen en la página de [[AsociacionCivil/Autoridades|autoridades]], las discuciones en la lista META y los comentarios / sugerencias en el [[https://docs.google.com/document/d/1iobvM5W8IL7dU4U7HWf1Jj3reywvxnryF9STMByU-j8/edit|estatuto]] (por ej. reuniones por teleconferencia, descentralización en sub-comisiones, delegación de representaciones / tareas, votación por poder / elecciones por correspondencia, etc.) 
 
@@ -134,7 +138,7 @@ Por el formulario web ser registraron las siguientes preguntas / comentarios:
 
 ''Si se va a invertir yo considero que uno de los focos deberían ser las escuelas primarias y secundarias para evocar en los niños el deseo de aprender a programar ...''
 
-'''Respuesta''': si, esto esta contemplado en varios puntos, el tema es cómo y quién lo haría... (por ej, podría ser con materiales didacticos, juegos, etc.)
+'''Respuesta''': si, esto esta contemplado en varios puntos, el tema es cómo y quién lo haría... (por ej, podría ser con libros, materiales didacticos, juegos, etc., hay varias propuestas de los [[AsociacionCivil/Autoridades/Candidatos|candidatos]] en este sentido)
 
 ----
 
@@ -146,25 +150,31 @@ Por el formulario web ser registraron las siguientes preguntas / comentarios:
 
 ''En la parte de servicios me interesaría que la asociación tenga todos los servicios, pero tal vez marcarlos a todos no le otorga prioridad a algunos y otros, por eso marqué los principales''
 
+'''Respuesta''': Si, justamente era la idea (ver que priorizar en una primera etapa), pero también listamos todos estos beneficios y servicos para corroborar que nos falto algo en los documentos legales, y para resumir y explicar un poco como podría ser el funcionamiento a futuro de la asociación.
+
 ----
 
 ''Todos estos son servicios hacia adentro de la comunidad, cuando formas una asociación quieras o no, la asociación se va a convertir en el referente ante la sociedad. El presidente tendrá una visibilidad que el resto de la comunidad no tiene, por lo cual, estaría bueno que se piense un poco en este sentido. Sino se quiere generar esto, se le debería cambiar el nombre, por ejemplo, asociación civil pyconar''
 
-'''Respuesta''': 1) como dice el texto (quizás no estaba muy claro y haya que refinar la redacción), muchos son beneficios sociales y otros serían servicios hacia la comunidad, con la finalidad del bien común (que requiere las leyes y normas relacionadas). De hecho, la mayoría fueron tomados / adaptados de otras ONG. Hay otras actividades que no encuadran en este punto y por eso no se mencionaron (ver los [[https://docs.google.com/document/d/1V67iEOuqCWzYw6ndf3PQFIChZeqgKMiM13WFT5D6G2k/edit|objetivos]]) 2) El presidente es el representante "formal" de la asociación, pero en definitiva, las decisiones las va a tomar la comisión directiva en su conjunto; como se explica en otro comentario, se tomaron ajustes de otros estatutos para delegar y balancear estas cuestiones (hasta donde se pudo, si hay más ideas, pueden aportarlas). 3) el tema de sólo organizar eventos también se discutió en la lista META, y de hecho es sólo un punto de los objetivos (relacionado con el primer punto de esta respuesta), por lo que el objeto de la ONG sería más amplio que sólo organizar/auspiciar eventos (aunque esto ha resultado en la primer prioridad según esta encuesta... hay otros que también fueron bastante elegidos)
+'''Respuesta''': 1) como dice el texto (quizás no estaba muy claro y haya que refinar la redacción), muchos son beneficios sociales y otros serían servicios hacia la comunidad, con la finalidad del bien común (que requiere las leyes y normas relacionadas). De hecho, la mayoría fueron tomados / adaptados de otras ONG. Hay otras actividades que no encuadran en este punto y por eso no se mencionaron (ver los [[https://docs.google.com/document/d/1V67iEOuqCWzYw6ndf3PQFIChZeqgKMiM13WFT5D6G2k/edit|objetivos]]) 2) El presidente es el representante "formal" de la asociación, pero en definitiva, las decisiones las va a tomar la Comisión Directiva en su conjunto; como se explica en otro comentario, se tomaron ajustes de otros estatutos para delegar y balancear estas cuestiones (hasta donde se pudo, si hay más ideas, pueden aportarlas). 3) el tema de sólo organizar eventos también se discutió en la lista META, y de hecho es sólo un punto de los objetivos (relacionado con el primer punto de esta respuesta), por lo que el objeto de la ONG sería más amplio que sólo organizar/auspiciar eventos (aunque esto ha resultado en la primer prioridad según esta encuesta... hay otros que también fueron bastante elegidos)
 
 ----
 
-''Tal vez estaría bueno que esta encuesta esté bajo el dominio de python.org.ar'' '''¡Hecho!'''
+''Tal vez estaría bueno que esta encuesta esté bajo el dominio de python.org.ar'' 
+
+'''¡Hecho!'''
 
 ----
 
 ''Un servicio que me parece interesante es el de ofrecer algún tipo de certificación ""oficial"" (ya lo puse en ""otro"").''
 
+'''Nota:''' esto se discutió varias veces en la lista de PyAr (generalmente es un tema controversial en las comunidades de software libre, pero puede llegar a ser útil en algunos ámbitos: por ej. el Estado, cierto tipo de empresas, etc.). Habría que ver como sería, que consenso habría, con que recursos se llevaría a cabo y quienes estarían interesados en impulsarlo (los socios activos podrán eventualmente presentar este tipo de propuestas, siempre que se ajusten al estatuto / objeto de la ONG).
+
 ----
 
 ''Creo que es arriesgado formalizar una sociedad civil en este momento si no se integra en el core de la comunidad a gente con un background diverso o que no este vinculado simplemente por un lazo de amistad... . Simplemente por una cuestion de volumen y porque en una asoc. civil eso ya no es asi, ahora hay derechos y responsabilidades ante terceros y ante el Estado.'' 
 
-'''Respuesta:''' Si, esto también se tuvo en cuenta desde el principio (quizás de manera implícita al armar la ONG). Ver [[AsociacionCivil/Autoridades|Deberes y Responsabilidades de las Autoridades de la Asociación Civil]]. 
+'''Respuesta:''' Si, esto también se tuvo en cuenta desde el principio (quizás de manera implícita al armar la ONG). Ver [[AsociacionCivil/Autoridades|Deberes y Responsabilidades de las Autoridades de la Asociación Civil]]. La idea de contratar profesionales específicos (contadores, abogados, gestores, etc.) también iría en este sentido, para tener apoyo capacitado en esas áreas y minimizar los riesgos, disminuyendo también el trabajo necesario.
 
 '''NOTA''': Se revisaron y adaptaron partes de otros estatutos (como SOLAR, Wikimedia Argentina, Gleducar, SADIO, entre otros), para tratar de clarificar/balancear las responsabilidades, agregar controles cruzados y contemplar casos excepcionales. También se contemplaron categorías de socios más abiertas / amplias (basadas en la PSF) para que todos tengan la posibilidad de participar, siempre dentro del marco legal Argentino.
 
@@ -172,7 +182,7 @@ Por el formulario web ser registraron las siguientes preguntas / comentarios:
 
 ''Las preguntas sobre participación son cerradas, es decir, no permiten elegir 'no participaría', que es lo que yo seleccionaria. ...'' 
 
-'''Nota:''' no era exactamente así, había una opción "Otros" y muchos la usaron para indicar que no deseaban participar (salvo 2 personas que propusieron cargos alternativos)
+'''Nota:''' no era exactamente así, ninguna pregunta era obligatoria y había una opción "Otros", que muchos usaron para indicar que no deseaban participar (salvo 2 personas que propusieron cargos alternativos)
 
 ----
 
