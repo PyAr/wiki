@@ -203,3 +203,12 @@ Por el formulario web ser registraron las siguientes preguntas / comentarios:
 '''Respuesta:''' No, por el contrario, es una forma de proteger el software libre. Incluso Linux es una marca registrada y muchas ONG gestionan derechos de autor (no solo la PSF, también la Apache Software Foundation, Django Software Foundation, etc.)
 
 ----
+
+== Conclusiones Generales ==
+
+Hasta el momento, ya contestaron 68 personas, incluso algunas proponiendo cosas interesantes sobre diversidad, federalismo, etc. que han sido tomadas en cuenta para revisar los documentos legales (estatuto, objeto, etc.).
+No ha habido objeciones a los temas propuestos, más allá de algunas sugerencias y dudas particulares.
+
+El promedio aproximado de cuota estaría rondando los $70 por mes, lo que si se concreta, seguramente cubra los costos fijos de contadores/abogados/gestores/etc. + infraestructura mínima, dejando un margen para eventualidades e incluso posiblemente para avanzar inicialmente sobre algunas propuestas puntuales.
+
+Hay interesados en ser candidatos tentativos para los puestos auxiliares (9 vocales titulares, 2 prosecretarios, 1 protesorero, 2 vocales suplentes y 1 revisor de cuentas suplente), pero falta todavía candidatos para los cargos más importantes: tesorero, revisor de cuentas, vicepresidente (este último no es obligatorio).
