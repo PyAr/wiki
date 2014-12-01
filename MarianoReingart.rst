@@ -34,8 +34,7 @@ Para más información, ver mi perfil completo en [[https://github.com/reingart|
 
 Soy co-autor del libro [[http://www.packtpub.com/web2py-application-development-recipes-to-master-python-web-framework-cookbook/book|"web2py application development cookbook"]] (Packt 2012, ISBN: 1849515468). Otras Publicaciones relacionadas a Python:
 
- * [[http://www.41jaiio.org.ar/sites/default/files/15_JSL_2012.pdf|PyAfipWs]]: facilitando, extendiendo y liberando los
-Servicios Web de AFIP (Factura Electrónica y otros)]] 41° JAIIO - JSL 2012 - ISSN: 1850-2857 - pp 164 - 178
+ * [[http://www.41jaiio.org.ar/sites/default/files/15_JSL_2012.pdf|PyAfipWs: facilitando, extendiendo y liberando los Servicios Web de AFIP (Factura Electrónica y otros)]] 41° JAIIO - JSL 2012 - ISSN: 1850-2857 - pp 164 - 178
  * [[http://43jaiio.sadio.org.ar/proceedings/STS/860%20-%20Cabral%20et%20al.pdf|Ingeniería del Software Libre de fuente abierta]] 43° JAIIO - STS 2014 - ISSN: 2362-5139 - pp 271 -285, co-autoría con Juan B. Cabral, Ricardo Medel, Nestor Navarro (UTN - FRC)
  * [[http://43jaiio.sadio.org.ar/proceedings/STS/859-Reingart.pdf|Diplomatura Abierta en Software Libre]] 43° JAIIO - STS 2014 - ISSN: 2362-5139 - pp 271 -285, co-autoría con Sebastian Dominguez
 
