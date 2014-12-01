@@ -9,7 +9,7 @@ Esta pagina contiene toda la informacion necesaria para hacer un call for charla
 A estas organizaciones simplemente se las copia en el mail de call for charlas, el formato del mail esta mas abajo
 
 || Organizacion || Mail ||
-|| PyAr         || pyar@python.org.ar ||
+|| PyAr         || <<MailTo(pyar AT python DOT org DOT ar)>> ||
 
 == Template Mail Call For Charlas ==
 
