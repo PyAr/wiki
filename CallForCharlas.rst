@@ -25,3 +25,4 @@ Si tenes requerimiento de informacion que debe contener la invitacion por favor 
 
 || Organizacion || Mail || Nombre del Contacto ||
 || Ascentio Technologies || jproyector@ascentio.com.ar || Javier Proyector ||
+|| IBM R&D Argentina || silvergate-team@wwpdl.vnet.ibm.com || Silvergate Team ||
