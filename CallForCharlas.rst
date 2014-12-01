@@ -22,6 +22,4 @@ Estas Organizaciones requirieron ser invitadas directamente por cuestiones organ
 Si tenes requerimiento de informacion que debe contener la invitacion por favor consulta en la lista o en el canal de irc para que lo tengamos en cuenta
 
 || Organizacion || Mail || Nombre del Contacto ||
-|| Organizacion Ejemlo || orgejemplo@example.com || Juan Contacto ||
-
-
+|| Ascentio Technologies || jproyector@ascentio.com.ar || Javier Proyector ||
