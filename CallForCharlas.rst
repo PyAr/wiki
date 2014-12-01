@@ -24,5 +24,6 @@ Si tenes requerimiento de informacion que debe contener la invitacion por favor 
 [[CallForCharlasInvitacionTemplate|Template de Call For Charlas Organizacion]]	
 
 || Organizacion || Mail || Nombre del Contacto ||
-|| Ascentio Technologies || jproyector@ascentio.com.ar || Javier Proyector ||
-|| IBM R&D Argentina || silvergate-team@wwpdl.vnet.ibm.com || Silvergate Team ||
+|| Ascentio Technologies || <<MailTo(jproyector AT ascentio DOT com DOT ar)>> || Javier Proyector ||
+|| IBM R&D Argentina || <<MailTo(silvergate-team AT wwpdl DOT vnet DOT ibm DOT com)>> || Silvergate Team ||
+|| Intel Argentina || <<MailTo(fernando.l.patrito AT intel DOT com)>> || Patrito, Fernando L ||
