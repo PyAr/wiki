@@ -14,17 +14,42 @@ Por otro lado, mantengo sistemas legados en Visual Basic de gestión administrat
 
 También trabajé en empresas del sector (MSA y Lambda Sistemas), desarrollando sistemas de misión crítica (boleta de voto electronica) o sistemas de gestión comercial ERP, y colaboré ad-honorem en proyectos comunitarios como el [[http://www.postgresql.com.ar/trac/wiki/Proyecto911|911]] para la Policía de la Provincia de Buenos Aires (principalmente en la Radioestación Matanza).
 
-A su vez, desde 2009 soy docente en un Instituto Superior Tecnológico Blaise Pascal (terciario), donde dicto las siguientes materias en las carreras de "Analista de Sistema" y "Redes Informáticas":
+A su vez, desde 2009 soy docente en un Instituto Superior Tecnológico Blaise Pascal (terciario), en el cual estamos trabajando en un [[http://docs.google.com/View?id=dd9bm82g_428g8zvfvdx|"Proyecto Curricular Institucional Orientado al Software Libre"]], donde dicto las siguientes materias en las carreras de "Analista de Sistema" y "Redes Informáticas":
  * [[http://reingart.blogspot.com.ar/p/materia-practica-profesional.html|Práctica Profesional]]
  * [[http://reingart.blogspot.com.ar/p/materia-sistemas-operativos.html|Sistemas Operativos]]
  * [[http://reingart.blogspot.com.ar/p/materia-bases-de-datos.html|Bases de Datos]]
  * [[http://reingart.blogspot.com.ar/p/materia-interconectividad-redes.html|Interconectividad ("Redes de Computadoras")]]
 
-He disertado y/o sido colaborador de varios eventos (incluyendo la mayoría de las PyCon Argentina, todos los PgDay y muchos PyDay), incluyendo los siguientes eventos de los cuales fuí el coordinador principal:
+He disertado y/o sido colaborador de varios eventos (incluyendo la mayoría de las PyCon Argentina, todos los PgDay y muchos PyDay, varias JSRL, CISL, etc.), incluyendo los siguientes eventos de los cuales fuí el coordinador principal:
  * [[http://www.flisol.info/FLISOL2010/Argentina/Gonzalez_Catan|FliSol 2010]] en Gonzalez Catan
- * [[http://www.postgresql.com.ar/trac/wiki/PgDayUnnoba|PgDay Unnoba 2009]], [[http://www.postgresql.org.ar/pgday2012|PgDay Argentina 2012]] y [[http://www.postgresql.org.ar/pgday2013|PgDay Argentina 2013]] 
+ * [[http://www.postgresql.org.ar/pgday2012|PgDay Argentina 2012]] y [[http://www.postgresql.org.ar/pgday2013|PgDay Argentina 2013]] 
  * [[http://www.pyday.com.ar/buenosaires2010|PyDay Buenos Aires 2010]], [[http://www.pyday.com.ar/catan2011|PyDay Gonzalez Catan 2011]] 
  * [[http://www.web2py.com.ar/2012|PyCon Argentina 2012]]
+
+Actualmente me desempeño en las siguientes organizaciones / proyectos de Software Libre: 
+
+ * [[http://www.postgresql.org/about/press/contact|Contacto Regional de PostgreSQL para Argentina]] desde 2011
+ * [[http://www.python.org/psf/members/|Python Software Foundation]] nominado por mérito y electo en 2012
+ * [[http://www.web2py.com/examples/default/who|Contribuidor principal de Web2py]] desarrollé temas como el [[http://reingart.blogspot.com.ar/2012/02/new-web2py-online-python-debugger.html|depurador online]] y otras mejoras
+ * [[http://www.google-melange.com/gsoc/proposal/public/google/gsoc2014/reingart/5629499534213120|wxWidgets wxQT commiter]] (proyecto aprobado para el GSoC 2014) -interesado en Android & wxPython-
+ * Miembro de S.O.L.A.R. (Asociación Civil Software Libre Argentina)
+
+También he desarrollado otros proyectos, como:
+
+ * [[http://code.google.com/p/pysimplesoap|PySimpleSOAP]]: biblioteca ad-hoc para comunicación con servicios web (cliente/servidor, análisis y generación del WSDL, manejo de xml, seguridad XML, etc.)
+ * [[http://code.google.com/p/pyfpdf|PyFPDF]]: biblioteca liviana para generar documentos en formato PDF (port de reconocidas extensiones para PHP)
+ * [[http://pgfoundry.org/projects/pyreplica/|PyReplica]]: replicación simple maestro/esclavo y multi-maestro para PostgreSQL usando disparadores PL/Python
+ * [[http://code.google.com/p/pg8000|pg8000]]: conector para PostgreSQL (incialmente fue un fork de mantenimiento, luego se reunificó en parte con el proyecto principal)
+ * [[http://code.google.com/p/web2conf|web2conf]]: sistema simple para gestión de conferencias y jornadas (se uso en varias PyCon y PgDay, entre otros)
+
+Para más información, ver mi perfil completo en [[https://github.com/reingart|GitHub]] / [[http://code.google.com/u/reingart/|GoogleCode]]
+
+Soy co-autor del libro [[http://www.packtpub.com/web2py-application-development-recipes-to-master-python-web-framework-cookbook/book|"web2py application development cookbook"]] (Packt 2012, ISBN: 1849515468). Otras Publicaciones relacionadas a Python:
+
+ * [[http://www.41jaiio.org.ar/sites/default/files/15_JSL_2012.pdf|PyAfipWs: facilitando, extendiendo y liberando los
+Servicios Web de AFIP (Factura Electrónica y otros)]] 41° JAIIO - JSL 2012 - ISSN: 1850-2857 - pp 164 - 178
+ * [[http://43jaiio.sadio.org.ar/proceedings/STS/860%20-%20Cabral%20et%20al.pdf|Ingeniería del Software Libre de fuente abierta]] 43° JAIIO - STS 2014 - ISSN: 2362-5139 - pp 271 -285, co-autoría con Juan B. Cabral, Ricardo Medel, Nestor Navarro (UTN - FRC)
+ * [[http://43jaiio.sadio.org.ar/proceedings/STS/859-Reingart.pdf|Diplomatura Abierta en Software Libre]] 43° JAIIO - STS 2014 - ISSN: 2362-5139 - pp 271 -285, co-autoría con Sebastian Dominguez
 
 Me interesa contribuir y fomentar el Software Libre, principalmente programando y/o contestando consultas, dando charlas, cursos de capacitación o participando de conferencias.
 
