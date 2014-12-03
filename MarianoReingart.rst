@@ -75,9 +75,9 @@ Internacionalmente, he dado una charla en PgConBr (Conferencia de PostgreSQL Bra
 
 Desde 2009 soy docente en el [[http://www.institutopascal.edu.ar/|Instituto Superior Tecnológico Blaise Pascal]], donde dicto dos materias de la carrera de Analista de Sistemas:
  * [[http://reingart.blogspot.com/p/materia-base-de-datos.html|Bases de Datos]]: modelo relacional, algebra relacional, sql, administración, etc.
- * [[http://reingart.blogspot.com.ar/p/materia-sistemas-operativos.html|Sistemas Operativos]]
- * [[http://reingart.blogspot.com.ar/p/materia-bases-de-datos.html|Bases de Datos]]
- * [[http://reingart.blogspot.com.ar/p/materia-practica-profesional.html|Práctica Profesional]]: metodologías, procesos y herramientas de software (web2py)
+ * [[http://reingart.blogspot.com.ar/p/materia-sistemas-operativos.html|Sistemas Operativos]]: script, archivos y directorios, procesos, hilos, bloqueos, señales, memoria compartida, etc. (la mayor parte con Python y algunos ejemplos en Bash / C)
+ * [[http://reingart.blogspot.com.ar/p/materia-interconectividad-redes.html|Interconectivdad (Redes de Computadoras)]]: estándares y protocolos, aplicaciones de internet: correo electrónico, transferencia de archivos, web, etc. (prácticas en Python)
+ * [[http://reingart.blogspot.com.ar/p/materia-practica-profesional.html|Práctica Profesional]]: metodologías, procesos y herramientas de software (proyecto final de la carrera con web2py -desarrollando software libre-)
 
 Para dicha carrera, junto con otros docentes, hemos propuesto un [[https://docs.google.com/View?id=dd9bm82g_428g8zvfvdx|Proyecto Curricular orientado al Software Libre]], para coordinar y mejorar los contenidos de las diversas materias con Python + PostgreSQL + Ubuntu (GNU/Linux) como ejes principales.
 
