@@ -1,9 +1,10 @@
 = Encuesta Relevamiento - Asociación Civil =
 
- * Se registraron 68 respuestas en total
+ * [[http://goo.gl/forms/3ea9xwMnXR|Formulario]] (¡continua abierto!) - [[http://listas.python.org.ar/pipermail/pyar/2014-November/031979.html|Anuncio en la lista de correo]] 
+ * Se registraron 68 respuestas en total al primer corte (30-11-2014)
  * Promedio aproximado de Cuota Social: $ 70
  * Personas interesadas en votar autoridades iniciales: 38
- * Personas interesadas en participar de la comisión directiva / organo fiscalización: 15 (aprox).
+ * Personas interesadas en participar de la comisión directiva / órgano fiscalización: 15 (aprox).
 
 Más información a continuación:
 
