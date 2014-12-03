@@ -34,9 +34,12 @@ Para más información, ver mi perfil completo en [[https://github.com/reingart|
 
 Soy co-autor del libro [[http://www.packtpub.com/web2py-application-development-recipes-to-master-python-web-framework-cookbook/book|"web2py application development cookbook"]] (Packt 2012, ISBN: 1849515468). Otras Publicaciones relacionadas a Python / software libre:
 
+ * [[http://www.41jaiio.org.ar/sites/default/files/17_EST_2012.pdf|Plataforma de Desarrollo Rápido de Aplicaciones bajo el Proceso de Software Personal: en busqueda de agilidad, solidez y disciplina para la Ingeniería de Software]] 41 JAIIO - EST 2012 - ISSN: 1850-2946 - pp 344 - 367
  * [[http://www.41jaiio.org.ar/sites/default/files/15_JSL_2012.pdf|PyAfipWs: facilitando, extendiendo y liberando los Servicios Web de AFIP (Factura Electrónica y otros)]] 41° JAIIO - JSL 2012 - ISSN: 1850-2857 - pp 164 - 178
  * [[http://43jaiio.sadio.org.ar/proceedings/STS/860%20-%20Cabral%20et%20al.pdf|Ingeniería del Software Libre de fuente abierta]] 43° JAIIO - STS 2014 - ISSN: 2362-5139 - pp 271 -285, co-autoría con Juan B. Cabral, Ricardo Medel, Nestor Navarro (UTN - FRC)
  * [[http://43jaiio.sadio.org.ar/proceedings/STS/859-Reingart.pdf|Diplomatura Abierta en Software Libre]] 43° JAIIO - STS 2014 - ISSN: 2362-5139 - pp 271 -285, co-autoría con Sebastian Dominguez
+
+También colaboré escribiendo varios artículos para la revista de la comunidad argentina de Python (PET: Python entre todos)
 
 Me interesa contribuir y fomentar el Software Libre, principalmente programando y/o contestando consultas, dando charlas, cursos de capacitación o participando de conferencias.
 
