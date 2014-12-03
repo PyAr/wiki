@@ -16,7 +16,7 @@ También trabajé en empresas del sector (MSA y Lambda Sistemas), desarrollando 
 
 A su vez, desde 2009 soy docente en un Instituto Superior Tecnológico Blaise Pascal (terciario).
 
-He disertado y/o sido colaborador de varios eventos (incluyendo la mayoría de las PyCon Argentina, todos los PgDay y muchos PyDay, varias JSRL, CISL, etc.), incluyendo los siguientes eventos de los cuales fuí el coordinador principal:
+He disertado y/o sido colaborador de varios eventos (incluyendo la mayoría de las PyCon Argentina, todos los PgDay y muchos PyDay, varias JSRL, CISL, etc.), y fui el coordinador principal de los siguientes eventos:
  * [[http://www.flisol.info/FLISOL2010/Argentina/Gonzalez_Catan|FliSol 2010]] en Gonzalez Catan
  * [[http://www.postgresql.org.ar/pgday2012|PgDay Argentina 2012]] y [[http://www.postgresql.org.ar/pgday2013|PgDay Argentina 2013]] 
  * [[http://www.pyday.com.ar/buenosaires2010|PyDay Buenos Aires 2010]], [[http://www.pyday.com.ar/catan2011|PyDay Gonzalez Catan 2011]] 
