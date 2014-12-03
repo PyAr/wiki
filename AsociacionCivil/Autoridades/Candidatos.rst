@@ -38,7 +38,7 @@ Propuestas:
 
 Cargo: Secretario
 
-Página personal en wiki PyAr: MarianoReingart (por actualizar)
+Página personal en wiki PyAr: MarianoReingart
 
 Mini CV:
 
