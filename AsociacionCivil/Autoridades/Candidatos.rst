@@ -87,3 +87,11 @@ Propuestas (adhiere también a las propuestas de Facundo y Mariano):
  * Fomentar las relaciones de la asociación con las Cooperativas de Trabajo de Tecnologías en Informática y la Federación en la integración de proyectos en conjunto para el beneficio mutuo de ambas y la sociedad entera.
  * Propuestas para actualizar el logo de la Asociación. 
  * Producción de material de "marketing".
+
+=== Enrique Gabriel Baquela ===
+
+Cargo elegido: Vocal
+
+Mini-CV:
+
+  Ingeniero Industrial y estudiante de Doctorado en Ingeniería, con 12 años de experiencia profesional, en empresas de servicios (pymes y multinacionales). Docente en UTN-FRSN y coordinador del grupo de investigación [[http://www.gisoiweb.com.ar/|GISOI]]. Miembro de la CD de la [[http://www.epio.org.ar/|EPIO]]. Actualmente me encuentro formando mi propia empresa de software, en el rubro de la investigación operativa. Comencé jugando con un ZX Spectrum cuando estaba en preescolar, programando en una XT con Basic a los 8 años y desde ahí no paré mas de programar. Si bien no trabajé oficialmente de programador, en todos mis trabajos terminé programando aplicaciones. También desarrollé consultoría y programación independiente para clientes particulares (algunos con éxito, otros no tanto)
