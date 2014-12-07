@@ -95,3 +95,14 @@ Cargo elegido: Vocal
 Mini-CV:
 
   Ingeniero Industrial y estudiante de Doctorado en Ingeniería, con 12 años de experiencia profesional, en empresas de servicios (pymes y multinacionales). Docente en UTN-FRSN y coordinador del grupo de investigación [[http://www.gisoiweb.com.ar/|GISOI]]. Miembro de la CD de la [[http://www.epio.org.ar/|EPIO]]. Actualmente me encuentro formando mi propia empresa de software, en el rubro de la investigación operativa. Comencé jugando con un ZX Spectrum cuando estaba en preescolar, programando en una XT con Basic a los 8 años y desde ahí no paré mas de programar. Si bien no trabajé oficialmente de programador, en todos mis trabajos terminé programando aplicaciones. También desarrollé consultoría y programación independiente para clientes particulares (algunos con éxito, otros no tanto)
+
+
+=== Nicolás Demarchi ===
+
+Cargo elegido: Vocal
+
+Mini-CV:
+
+  Trabajo en sistemas hace más de 10 años. Sysadmin/WebOps/SRE/etc. Estudiante truncado de Sistemas. Me gusta mucho trabajar en proyectos libres y participar/aportar a los mismos desde mis posibilidades. Estuve muchos años de 'oyente' en la lista de PyAr y desde el 2013 estoy participando activamente en todo lo que mi tiempo libre me permite.
+  Actualmente [[http://gilgamezh.me/dp/pagina-basica/resume_43|trabajo]] en el equipo de Operaciones de CMD (clarin global). Participo en el proyecto [[https://github.com/touchandgo-devs/touchandgo|TouchAndGo]] y picoteo en otros [[https://github.com/PyAr|varios de PyAr]] (likode, pyarweb, fades).
+  Pienso que la asociación civil puede ser un gran aporte para esta maravillosa comunidad de la misma manera que es un gran desafio lograr que simplemente sea eso: Un aporte. 
