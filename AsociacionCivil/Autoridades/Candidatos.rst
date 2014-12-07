@@ -103,6 +103,6 @@ Cargo elegido: Vocal
 
 Mini-CV:
 
-  Trabajo en sistemas hace más de 10 años. Sysadmin/WebOps/SRE/etc. Estudiante truncado de Sistemas. Me gusta mucho trabajar en proyectos libres y participar/aportar a los mismos desde mis posibilidades. Estuve muchos años de 'oyente' en la lista de PyAr y desde el 2013 estoy participando activamente en todo lo que mi tiempo libre me permite.
+  Tengo 32 años, actualmente vivo en CABA y trabajo en sistemas desde el Y2K. Sysadmin/WebOps/SRE/etc. Estudiante truncado de Sistemas. Me gusta mucho trabajar en proyectos libres y participar/aportar a los mismos desde mis posibilidades. Estuve muchos años de 'oyente' en la lista de PyAr y desde el 2013 estoy participando activamente en todo lo que mi tiempo libre me permite.
   Actualmente [[http://gilgamezh.me/dp/pagina-basica/resume_43|trabajo]] en el equipo de Operaciones de CMD (clarin global). Participo en el proyecto [[https://github.com/touchandgo-devs/touchandgo|TouchAndGo]] y picoteo en otros [[https://github.com/PyAr|varios de PyAr]] (likode, pyarweb, fades).
   Pienso que la asociación civil puede ser un gran aporte para esta maravillosa comunidad de la misma manera que es un gran desafio lograr que simplemente sea eso: Un aporte. 
