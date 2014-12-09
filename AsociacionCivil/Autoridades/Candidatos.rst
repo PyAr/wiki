@@ -63,7 +63,7 @@ Propuestas (adhiere también a las propuestas de Facundo)
 
 === Leandro E. Colombo Viña ===
 
-Cargo: Pro-secretario / vocal
+Cargo: Tesorero
 
 Página personal en wiki PyAr: LeandroColomboVina
 
