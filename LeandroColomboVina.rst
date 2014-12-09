@@ -3,11 +3,11 @@
 #language en
 == Leandro E. Colombo Viña ==
 
-Email: <<MailTo(you AT SPAMFREE example DOT com)>>
+Email: <<MailTo(colomboleandro AT SPAMFREE gmail DOT com)>>
 ## You can even more obfuscate your email address by adding more uppercase letters followed by a leading and trailing blank.
 
 Tengo 33 años y vivo en la Ciudad Autónoma de Buenos Aires. Soy Técnico Superior en Informática Aplicada y Profesor en Disciplinas Industriales. Trabajo como docente hace más de 10 años en el nivel medio, superior y de formación profesional. 
-Actualmente formo parte de una pre-cooperativa (BITSON) de tecnología, en la que me toca el rol de tesorero, ahí me gusta ocuparme de lo que es el backend de las aplicaciones y de coordinar técnicamente. Estamos trabajando en un sistema de control de acceso, por supuesto, con Python.
+Soy socio fundador de [http://bitson.com.ar/|Bitson], cooperativa de trabajo de tecnología, en la que me toca el rol de tesorero, ahí me gusta ocuparme de lo que es el backend de las aplicaciones y de coordinar técnicamente. Actualmente estamos trabajando en un sistema de control de acceso, por supuesto, con Python.
 Soy instructor de formación profesional en el CFP 34 donde dicto los cursos de Operador Básico GNU/Linux y Administración de Redes en GNU/Linux. También soy docente en el IFTS18 (Terciario) donde se dicta la carrera de Técnico Superior en Análisis de Sistemas. Allí doy las materias Arquitectura de Computadoras, Diagramación Lógica, Paradigmas de Programación y Estructura de Datos.
 
 Hace poco más de 1 año que empecé a meterme con Python y me encantó, lo empecé a usar para un proyecto que iniciamos en una escuela y desde ahí traté de seguir promoviendo su uso en cada lugar donde estoy. He dado algunos cursos para empresas sobre Python y ahora estoy intentando adoptarlo como lenguaje en las clases del Terciario.
