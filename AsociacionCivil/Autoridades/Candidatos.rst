@@ -65,21 +65,15 @@ Propuestas (adhiere también a las propuestas de Facundo)
 
 Cargo: Pro-secretario / vocal
 
-Página personal en wiki PyAr: (en construcción)
+Página personal en wiki PyAr: LeandroColomboVina
 
 Breve CV:
 
-  Tengo 33 años y vivo en la Ciudad Autónoma de Buenos Aires.
+  Tengo 33 años y vivo en la Ciudad Autónoma de Buenos Aires. Soy Técnico Superior en Informática Aplicada y Profesor en Disciplinas Industriales. Trabajo como docente hace más de 10 años en el nivel medio, superior y de formación profesional. Soy socio fundador de Bitson, cooperativa de trabajo de tecnología, en la que me toca el rol de tesorero, ahí me gusta ocuparme de lo que es el backend de las aplicaciones y de coordinar técnicamente. Actualmente estamos trabajando en un sistema de control de acceso, por supuesto, con Python. Soy instructor de formación profesional en el CFP 34 donde dicto los cursos de Operador Básico GNU/Linux y Administración de Redes en GNU/Linux. También soy docente en el IFTS18 (Terciario) donde se dicta la carrera de Técnico Superior en Análisis de Sistemas. Allí doy las materias Arquitectura de Computadoras, Diagramación Lógica, Paradigmas de Programación y Estructura de Datos.
 
-  Soy Técnico Superior en Informática Aplicada y Profesor en Disciplinas Industriales. 
+Hace poco más de 1 año que empecé a meterme con Python y me encantó, lo empecé a usar para un proyecto que iniciamos en una escuela y desde ahí traté de seguir promoviendo su uso en cada lugar donde estoy. He dado algunos cursos para empresas sobre Python y ahora estoy intentando adoptarlo como lenguaje en las clases del Terciario. Vengo del palo de la electrónica y me interesan mucho la informática y la programación como herramientas educativas.
 
-  Trabajo como docente hace más de 10 años en el nivel medio, superior y de formación profesional. Actualmente formo parte de una pre-cooperativa (BITSON) de tecnología, en la que me toca el rol de tesorero, ahí me ocupo un poco de lo que es el backend de la aplicación y de coordinar técnicamente. Estamos trabajando en un sistema de control de acceso, por supuesto, con Python. Soy instructor de formación profesional en el CFP 34 donde dicto los cursos de Operador Básico GNU/Linux y Administración de Redes en GNU/Linux. También soy docente en el IFTS18 (Terciario) donde se dicta la carrera de Técnico Superior en Análisis de Sistemas. Allí doy las materias Arquitectura de Computadoras, Diagramación Lógica, Paradigmas de Programación y Estructura de Datos.
-  
-  Hace poco más de 1 año que empecé a meterme con Python y me encantó, lo empecé a usar para un proyecto que iniciamos en la escuela y desde ahí traté de seguir promoviendo su uso en cada lugar donde estoy. He dado algunos cursos para empresas sobre Python y ahora estoy intentando adoptarlo como lenguaje en las clases del Terciario. Vengo del palo de la electrónica y me interesa mucho la informática y la programación como herramienta educativa.
-  
-  Sé que no tengo mucha experiencia como desarrollador, pero estoy convencido que para hacer que las cosas funcionen bien uno tiene que formar parte de ellas.
-
-  En el caso de que sea necesario podría ocupar el cargo de Vocal.
+Sé que no tengo mucha experiencia como desarrollador, pero estoy convencido que para hacer que las cosas funcionen uno tiene que formar parte de ellas.
 
 Propuestas (adhiere también a las propuestas de Facundo y Mariano):
 
