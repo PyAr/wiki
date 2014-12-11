@@ -20,10 +20,6 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 
-== 11/12/2014 ==
-Esto es una noticia porque creo que es genial poder publicar algo, cuando lo preciso, sin tener
-que esperar me moderen, gracias a todos!
-
 ==== 13/10/2014 ====
 [[http://www.ekoparty.org/|{{attachment:Inicio/Ekoparty-logo.png||height="64",align="right"}}]]
 Python Argentina participará con un stand en la ekoparty 2014 (la conferencia de seguridad informática más grande de latinoamérica) que se realizará en Buenos Aires los días 29, 30 y 31 de octubre.
