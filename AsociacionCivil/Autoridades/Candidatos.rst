@@ -112,3 +112,6 @@ Mini-CV:
 
 Propuestas:
   * Me propuse para el cargo porque soy relativamente nuevo en el grupo. Eso permitiría una fiscalización "más externa"/imparcial.
+
+Preguntas:
+ * Hace falta presencia física en algún lugar? O puede ser todo vía internet?
