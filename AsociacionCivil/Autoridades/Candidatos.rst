@@ -100,3 +100,15 @@ Mini-CV:
   Tengo 32 años, actualmente vivo en CABA y trabajo en sistemas desde el Y2K. Sysadmin/WebOps/SRE/etc. Estudiante truncado de Sistemas. Me gusta mucho trabajar en proyectos libres y participar/aportar a los mismos desde mis posibilidades. Estuve muchos años de 'oyente' en la lista de PyAr y desde el 2013 estoy participando activamente en todo lo que mi tiempo libre me permite.
   Actualmente [[http://gilgamezh.me/dp/pagina-basica/resume_43|trabajo]] en el equipo de Operaciones de CMD (clarin global). Participo en el proyecto [[https://github.com/touchandgo-devs/touchandgo|TouchAndGo]] y picoteo en otros [[https://github.com/PyAr|varios de PyAr]] (likode, pyarweb, fades).
   Pienso que la asociación civil puede ser un gran aporte para esta maravillosa comunidad de la misma manera que es un gran desafio lograr que simplemente sea eso: Un aporte. 
+
+
+=== Joaquín Duo ===
+
+Cargo elegido: Revisor de cuentas (órgano de fiscalización)
+
+Mini-CV:
+
+  Soy Licenciado en Sistemas de la Universidad de Mendoza. A los 16 años empecé a programar con C y un poco de C++, pasé luego por el uso de herramientas multimedia - 3d, video, audio y fotografía - volviendo de lleno a la prorgamación en el 2004 y desde ahí no he parado de programar. He contribuído a proyectos de software libre como K-3d (como programador) y Virtualbox (como traductor). Tengo algunos proyectos pequeños libres publicados, los más importantes son [[https://github.com/joaduo/smoothtest|smoothtest]] y [[https://code.google.com/p/mepinta/|mepinta]]. Actualmente trabajo en Juju Inc, empresa que tiene un buscador de trabajos (http://www.juju.com), la mayoría del trabajo es en Python.
+
+Propuestas:
+  * Me propuse para el cargo porque soy relativamente nuevo en el grupo. Eso permitiría una fiscalización "más externa"/imparcial.
