@@ -1,5 +1,26 @@
 = Trabajos con Python =
 
+* (14/12/2014) Buscamos desarrollador Python/Django que pueda liderar equipo para proyectos de back-end de apps móviles. Tenemos varios proyectos interesantes para grandes compañías y startups en Estados Unidos.
+
+El buen manejo de idioma ingles es condición necesaria y excluyente.
+
+'''Remuneración: entre AR$20.000 y 25.000 al mes (dependiendo de perfil)'''
+
+ * Lugar de trabajo: remoto desde domicilio particular del programador de manera independiente. El desarrollador debe vivir en la Ciudad Autónoma de Buenos Aires o sus alrededores.
+
+ *Carga horaria: si bien es por objetivos, la carga es jornada full-time (en caso de solo poder part-time también escribir aclarando)
+
+'''El candidato ideal tiene:'''
+ *4 a 5 años de experiencia preferentemente en posiciones de liderazgo.
+ *Experiencia comprobable que demuestre conocimiento práctico en Python.
+ *1 a 2 años de experiencia trabajando con Django.
+ *Experiencia con MySQL.
+ *Preferente (no excluyente) conocimientos de desarrollo de apps IOS/Android.
+ *Capacidad para manejarse de manera independiente formando parte de un equipo de trabajo a distancia.
+
+
+Enviar CV a busq.developer@gmail.com (Subject: Pyt-DEV03)
+
 * '''''(21/11/2014)''''' Seleccionaremos para importante cliente:
 
 Desarrollador Python (Ssr – Sr)
@@ -84,28 +105,6 @@ Quien esté interesado, mande un mail a Ignacio (de RRHH) a idacal@machinalis.co
 
 
 -------------------------------------------------------------------------------------------------------------------
-
-
-* (06/11/2014) Buscamos desarrollador Python/Django que pueda liderar equipo para proyectos de back-end de apps móviles. Tenemos varios proyectos interesantes para grandes compañías y startups en Estados Unidos.
-
-El buen manejo de idioma ingles es condición necesaria y excluyente.
-
-'''Remuneración: entre AR$20.000 y 25.000 al mes (dependiendo de perfil)'''
-
- * Lugar de trabajo: remoto desde domicilio particular del programador de manera independiente. El desarrollador debe vivir en la Ciudad Autónoma de Buenos Aires o sus alrededores.
-
- *Carga horaria: si bien es por objetivos, la carga es jornada full-time (en caso de solo poder part-time también escribir aclarando)
-
-'''El candidato ideal tiene:'''
- *4 a 5 años de experiencia preferentemente en posiciones de liderazgo.
- *Experiencia comprobable que demuestre conocimiento práctico en Python.
- *1 a 2 años de experiencia trabajando con Django.
- *Experiencia con MySQL.
- *Preferente (no excluyente) conocimientos de desarrollo de apps IOS/Android.
- *Capacidad para manejarse de manera independiente formando parte de un equipo de trabajo a distancia.
-
-
-Enviar CV a busq.developer@gmail.com (Subject: Pyt-DEV03)
 
 
 * (31/10/2014) iBillionaire, una plataforma que monitorea los portfolio de inversion de Billionarios. Busca un programador con experiencia en la construcción de aplicaciones web. Alguien que construya las API internas y externas de iBillionaire.
