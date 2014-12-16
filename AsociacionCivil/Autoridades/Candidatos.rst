@@ -115,3 +115,21 @@ Propuestas:
 
 Preguntas:
  * Hace falta presencia física en algún lugar? O puede ser todo vía internet?
+
+=== Felipe Lerena ===
+
+Cargo elegido: Prosecretario
+
+Mini-CV:
+    Soy miembro de Pyar hace mas de 6 años. Participé de una manera u otra de todas las pycones, de varios pydays y de diversos eventos. Soy parte de la comunidad de Software libre hace al menos 10 años, Colaboro con la fundacion Mozilla (soy representante oficial del proyecto) y colaboré en el pasado con Ubuntu-ar.
+
+
+Propuestas:
+    Mi objetivo para mi trabajo en la ONG es, como explicamos con Joac cuando formamos el Partido Conservador de Pyar, "que nada cambie". Tenemos que mantener y fomentar el espirito que existe en este momento en el grupo:
+ * Integracion y Tolerancia
+ * Federalismo
+ * Trabajo en equipo
+ * Diversion
+ * Fomento del Software libre
+ * Difundir mucho Python
+ * Pycones y Pycamps buena onda
