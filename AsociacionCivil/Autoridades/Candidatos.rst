@@ -145,7 +145,7 @@ Página personal en wiki PyAr: [[http://python.org.ar/EmilianoDallaVerdeMarcozzi
 
   Experiencia como Python Developer desde 2008. Trabaje como Gnu/Linux sysadmin
 desde 2006 hasta el 2012. He estado haciendo principalmente desarrollo en 
-backend utiliznado python aunque actualmente estoy haciendo algo de frontend. 
+backend utilizando python aunque actualmente estoy haciendo algo de frontend. 
 Estoy muy interesado en programación de servidores de redes y escalabilidad.
 Espero que algún día poder contribuir y modificar el kernel de Linux.
 Acerca de mí: Soy un estudiante autodidacta, aprendí a programar preguntando
