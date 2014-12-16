@@ -141,7 +141,7 @@ Cargo: Prosecretario
 
 Página personal en wiki PyAr: [[http://python.org.ar/EmilianoDallaVerdeMarcozzi|EmilianoDallaVerdeMarcozzi]]
 
-==== Mini CV:====
+==== Mini CV: ====
 
   Experiencia como Python Developer desde 2008. Trabaje como Gnu/Linux sysadmin
 desde 2006 hasta el 2012. Ha estado haciendo principalmente desarrollo en 
