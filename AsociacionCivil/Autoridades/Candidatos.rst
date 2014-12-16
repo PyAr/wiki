@@ -116,8 +116,6 @@ Propuestas:
 Preguntas:
  * Hace falta presencia física en algún lugar? O puede ser todo vía internet?
 
----- /!\ '''Edit conflict - other version:''' ----
-
 === Felipe Lerena ===
 
 Cargo elegido: Prosecretario
