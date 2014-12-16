@@ -21,5 +21,8 @@ En el 2007 conocí Python trabajando como administrador de sistemas Gnu/Linux en
 
 Otras contribuciones de código: [[https://github.com/edvm|"Github"]]
 
+== Curriculum ==
+Pueden ver un resumen de mi experiencia laboral en: [[https://ar.linkedin.com/pub/emiliano-dalla-verde-marcozzi/13/166/349|"Linkedin"]]
+
 ----
 CategoryHomepage
