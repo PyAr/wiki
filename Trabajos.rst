@@ -1,5 +1,27 @@
 = Trabajos con Python =
 
+17/12/2014
+Se requieren horas freelance para dos proyectos de largo plazo.(con un mínimo de 20hs semanales por proyecto)
+Un proyecto se enfoca en telefonía en la nube y el otro en gestión de contenidos.
+
+Habilidades:
+
+Flask y/o  Django
+Conocimientos de virtualenv y las herramientas necesarias para configurar un entorno de desarrollo y asistir en el empaquetado
+y pasajes a producción (pip, easy_install,uwsgi,gunicorn ,fabric,chef, etc) -- Py.test o alguna otra herramienta de testing
+
+Javascript
+Jquery , Backbone y Marionette
+Conocimientos de alguna herramientas para automatización  como Grunt,Bower,etc.
+Conocimiento de alguna herramienta de testing como Karma, BusterJS
+
+Lugar de trabajo: remoto
+
+enviar CV a gaston@droptek.com  preferentemente con perfil de github o links para poder ver los trabajos realizados.
+
+
+/////////////////////////////////////////////////////
+
 * (14/12/2014) Buscamos desarrollador Python/Django que pueda liderar equipo para proyectos de back-end de apps móviles. Tenemos varios proyectos interesantes para grandes compañías y startups en Estados Unidos.
 
 El buen manejo de idioma ingles es condición necesaria y excluyente.
