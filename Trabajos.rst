@@ -1,5 +1,47 @@
 = Trabajos con Python =
 
+*(18/12/2014)
+'''Senior Python Developer in Dominican Republic'''
+
+Requirements:
+— 3+ years of Python development 
+— 3+ years of PHP development
+— Experience of transfer backend from PHP to Python
+— Knowledge in working with various Database (MySQL, MongoDB others);
+— Understanding of Scrum/Agile
+— Upper-intermediate English (at least strong intermediate)
+— Team player, strong communication skills
+— Being able to fast absorb and learn new technologies should be a plus
+
+Would be a plus:
+— Magento Experience
+
+We propose:
+— Interesting project (US e-commerce market)
+— International environment 
+— Young and dynamic team
+— Professional growth
+— Competitive remuneration
+
+Responsibilities:
+— Acting as Senior Python developer
+— Transfer backend from PHP to Python
+— Working with Magento e-commerce platform
+— Working with CTO and team of developers to solve technical challenges 
+— Serving as a creative member of the team, ready to innovate and develop next generation products
+— Writing scalable and clean code.
+
+About project 
+
+[[www.lofty.com|www.lofty.com]]
+
+We are looking for a Senior Python Developer with good experience. If you are interested in and your professional profile satisfies our requirements, we will be glad to see you in our international fast-growing team (e-commerce project).
+Our development team works closely together, while providing professional creativity and individual autonomy.
+
+Please send your Skype name and CV / full LinkedIn profile to i.bazai@taventure.com
+
+-------------------------------------------------------------------------------------------------------------------
+
 17/12/2014
 Se requieren horas freelance para dos proyectos de largo plazo.(con un mínimo de 20hs semanales por proyecto)
 Un proyecto se enfoca en telefonía en la nube y el otro en gestión de contenidos.
