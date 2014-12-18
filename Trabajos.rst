@@ -1,6 +1,6 @@
 = Trabajos con Python =
 
-*(18/12/2014)
+* (18/12/2014)
 '''Senior Python Developer in Dominican Republic'''
 
 Requirements:
@@ -40,10 +40,8 @@ Our development team works closely together, while providing professional creati
 
 Please send your Skype name and CV / full LinkedIn profile to i.bazai@taventure.com
 
--------------------------------------------------------------------------------------------------------------------
 
-17/12/2014
-Se requieren horas freelance para dos proyectos de largo plazo.(con un mínimo de 20hs semanales por proyecto)
+* 17/12/2014 Se requieren horas freelance para dos proyectos de largo plazo.(con un mínimo de 20hs semanales por proyecto)
 Un proyecto se enfoca en telefonía en la nube y el otro en gestión de contenidos.
 
 Habilidades:
@@ -62,7 +60,6 @@ Lugar de trabajo: remoto
 enviar CV a gaston@droptek.com  preferentemente con perfil de github o links para poder ver los trabajos realizados.
 
 
-/////////////////////////////////////////////////////
 
 * (14/12/2014) Buscamos desarrollador Python/Django que pueda liderar equipo para proyectos de back-end de apps móviles. Tenemos varios proyectos interesantes para grandes compañías y startups en Estados Unidos.
 
@@ -166,9 +163,6 @@ Se solicita envío del salario en bruto pretendido
 Quien esté interesado, mande un mail a Ignacio (de RRHH) a idacal@machinalis.com, asunto '''[Búsqueda Vacante "Nombre Vacante"]''' o pinguee a su machinálico amigo para preguntarle más info sobre nosotros. Se agradece enviar CV actualizado o información referente a la experiencia y conocimientos.
 
 '''''P.S.:''''' Cualquier otro que ande cerca de las cosas que hacemos y justo tenga ganas y tiempo de hacernos ping sientase libre de hacerlo que del otro palo de cosas más Pythónicas/Djangosas seguimos incorporando con cierta regularidad.
-
-
--------------------------------------------------------------------------------------------------------------------
 
 
 * (31/10/2014) iBillionaire, una plataforma que monitorea los portfolio de inversion de Billionarios. Busca un programador con experiencia en la construcción de aplicaciones web. Alguien que construya las API internas y externas de iBillionaire.
