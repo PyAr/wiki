@@ -4,32 +4,32 @@
 '''Senior Python Developer in Dominican Republic'''
 
 Requirements:
-— 3+ years of Python development 
-— 3+ years of PHP development
-— Experience of transfer backend from PHP to Python
-— Knowledge in working with various Database (MySQL, MongoDB others);
-— Understanding of Scrum/Agile
-— Upper-intermediate English (at least strong intermediate)
-— Team player, strong communication skills
-— Being able to fast absorb and learn new technologies should be a plus
+ * 3+ years of Python development 
+ * 3+ years of PHP development
+ * Experience of transfer backend from PHP to Python
+ * Knowledge in working with various Database (MySQL, MongoDB others);
+ * Understanding of Scrum/Agile
+ * Upper-intermediate English (at least strong intermediate)
+ * Team player, strong communication skills
+ * Being able to fast absorb and learn new technologies should be a plus
 
 Would be a plus:
-— Magento Experience
+ * Magento Experience
 
 We propose:
-— Interesting project (US e-commerce market)
-— International environment 
-— Young and dynamic team
-— Professional growth
-— Competitive remuneration
+ * Interesting project (US e-commerce market)
+ * International environment 
+ * Young and dynamic team
+ * Professional growth
+ * Competitive remuneration
 
 Responsibilities:
-— Acting as Senior Python developer
-— Transfer backend from PHP to Python
-— Working with Magento e-commerce platform
-— Working with CTO and team of developers to solve technical challenges 
-— Serving as a creative member of the team, ready to innovate and develop next generation products
-— Writing scalable and clean code.
+ * Acting as Senior Python developer
+ * Transfer backend from PHP to Python
+ * Working with Magento e-commerce platform
+ * Working with CTO and team of developers to solve technical challenges 
+ * Serving as a creative member of the team, ready to innovate and develop next generation products
+ * Writing scalable and clean code.
 
 About project 
 
