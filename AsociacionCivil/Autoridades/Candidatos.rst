@@ -137,7 +137,7 @@ Propuestas:
 
 === Emiliano Dalla Verde Marcozzi ===
 
-Cargo: Prosecretario
+Cargo: El que se precise y crean puedo aportar
 
 Página personal en wiki PyAr: [[http://python.org.ar/EmilianoDallaVerdeMarcozzi|EmilianoDallaVerdeMarcozzi]]
 
