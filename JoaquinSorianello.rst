@@ -2,38 +2,25 @@
 ##master-date:Unknown-Date
 #format wiki
 #language es
-
+.
 = Joaquín Sorianello A.K.A. Joac =
 
---(Estudiante de Licenciatura en Ciencias de la Computación en la UBA, oriundo de Bariloche.)-- Me tomé vacaciones por tiempo indefinido
+Soy desarrollador de software autodidacta y me gusta trabajar en areas que van del arte programatico a los sistemas de alta disponibilidad.
 
---(Trabajo de Electricista Industrial y Técnico en Automatización en [[http://www.flowtec.com.ar|Flowtec SRL]])--
+Naci en Bariloche, actualmente vivo en Capital Federal
 
---(Trabajo en [[http://www.gcoop.coop|Gcoop]])--
-Trabajo en [[http://www.machinalis.com|Machinalis]] 
+Mis comienzos en el mundo de desarrollo de software fueron programando PLCs para procesos industriales. Gracias al consejo de DiegoMascialino en 2009 fui a mi primera reunión de PyAr. Esa reunión cambió mi visión del mundo del desarrollo completamente.
+Habia una comunidad de personas, algunas parecidas a mi, y otras distintas, compartiendo su pasión por hacer cosas con Python.
 
-Empeze a usar Python como Hobby, básicamente para armar scripts administrativos.
+Desde entonces, empeze a colaborar con la infraestructura para los PyCamps y PyCons, agregando funcionalidades y estilo a la wiki.
 
---(Actualmente estoy trabajando con un Mix de Python + PyQt + PostgreSQL, para crear un sistema de adquisición de datos para PLC (Programable Logic Controler), apoyándome en el protocolo industrial [[http://www.modbus.org|MODBUS TCP/IP]])-- Muertito
+Entre 2010 y 2013 fui socio de Gcoop. Despues, hasta mediados de 2014 trabajé en forma remota para Machinalis. Actualmente me dedico a hacer consultoria y desarrollo de software en forma independiente.
 
-El objetivo intermedio es una aplicación especifica, y el objetivo final crear un toolkit para crear sistemas [[http://es.wikipedia.org/wiki/SCADA|SCADA]]
-
-== Me gusta ==
-
- * El Codigo autodocumentado (pero con pocos comentarios :P)
- * Twisted
- * El olor del estaño cuando sueldo
- * Trabajar descalzo
- * Los WM tiling
- * Vim
- * Mantener el wiki
- * Dedicarme a la infraestructura de eventos de SL
- * Aprender mas sobre git (the stupid content tracker)
- * Decir 'debemos rechazar' (si, como a federico heinz en pyconar2011 con el .flv)
+Ademas de programar, dedico mis ratos libres a tocar el piano, cocinar cosas ricas y leer libros.
 
 == Blog ==
 
-[[http://www.joaclandia.com.ar]]
+[[http://blog.joac.com.ar]]
 
 == Mail ==
 
