@@ -118,7 +118,7 @@ Preguntas:
 
 === Felipe Lerena ===
 
-Cargo elegido: Vocal Suplente (o para el puesto vacante que se necesite)
+Cargo elegido: Prosecretario (o para el puesto vacante que se necesite)
 
 Mini-CV:
     Soy miembro de Pyar hace mas de 6 años. Participé de una manera u otra de todas las pycones, de varios pydays y de diversos eventos. Soy parte de la comunidad de Software libre hace al menos 10 años, Colaboro con la fundacion Mozilla (soy representante oficial del proyecto) y colaboré en el pasado con Ubuntu-ar.
