@@ -20,14 +20,15 @@ También podés escribir a <<MailTo(admin AT python DOT org DOT ar)>>
 * Delegado a: '''Afraid''' / ''ns1.afraid.org'' y ''ns2.afraid.org''.
 
 
-== pycon.com.ar == 
+== pycon.com.ar ==
+
 
 * Registrado por: Mariano Reingart
 
 * Delegado a: '''Afraid''' / ''ns1.afraid.org'' y ''ns2.afraid.org''.
 
 
-== pyday.com.ar == 
+== pyday.com.ar ==
 
 * Registrado por: Mariano Reingart
 
