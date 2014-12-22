@@ -2,7 +2,7 @@
 
 En esta entrada están documentados los dominios registrados y utilizados por PyAr.
 
-Si encontras algún problema con cualquiera de estos dominios por favor escribí a nuestra [[http://python.org.ar/ListaDeCorreo|lista de correos]] o en el [[canal de IRC|http://python.org.ar/IRC]].
+Si encontras algún problema con cualquiera de estos dominios por favor escribí a nuestra [[http://python.org.ar/ListaDeCorreo|lista de correos]] o en el [[http://python.org.ar/IRC|canal de IRC]] .
 También podés escribir a <<MailTo(admin AT python DOT org DOT ar)>>
 
 
