@@ -17,7 +17,7 @@ También podés escribir a <<MailTo(admin AT python DOT org DOT ar)>>
 
 * Registrado por: Cooperativa de Trabajo gcoop Ltda.
 
-* Delegado a: '''Afraid''' / ''ns1.afraid.org'' y ''ns2.afraid.org''.
+* Delegado a: '''Cloudflare''' / ''naomi.ns.cloudflare.com'' y ''nile.ns.cloudflare.com''.
 
 
 == pycon.com.ar ==
