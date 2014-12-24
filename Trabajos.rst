@@ -4,8 +4,8 @@
 '''Senior Python Developer in Dominican Republic'''
 
 Requirements:
- * 3+ years of Python development 
- * 3+ years of PHP development
+ * 2+ years of Python development 
+ * 2+ years of PHP development
  * Experience of transfer backend from PHP to Python
  * Knowledge in working with various Database (MySQL, MongoDB others);
  * Understanding of Scrum/Agile
