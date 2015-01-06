@@ -163,3 +163,16 @@ adquirido para que en otras localidades / lugares del país puedan aprovechar lo
 laboratorios de programación locales a la ciudad de Chascomús, para que los pibes aprendan Python y Gnu/Linux. Compartir el 
 conocimiento adquirido para que se puedan beneficiar otras partes del país interesadas en el proyecto.
  * Proponer y darle participación a empresas del sector tecnológico / y otras interesadas en contribuir con el proyecto "Python para Zumbies", reconociéndolas en su colaboración con la sociedad e integrándolas con la comunidad y actividades anuales de Python Argentina. 
+
+
+=== Juan Pedro Fisanotti ===
+
+Cargo: Vocal
+
+==== Mini CV: ====
+
+Experiencia con python desde hace unos 8 años (más fuerte en los últimos 6), y miembro activo de la comunidad (asisto a varios de los eventos que se hacen cada año, incluyendo haber organizado una PyConAr junto con Ariel Rossanigo).
+Trabajo en cosas relacionadas al desarrollo web y a la inteligencia artificial, también programo bastante por hobbie, y suelo participar de PyAr tanto por la posibilidad de seguir aprendiendo, como por la de poder aportar un poco de lo que se a los demás. Aparte de ello también utilizo python para dar clases en la universidad.
+Mi CV completo está [[http://goo.gl/tGAR|acá]], y también pueden ver cosas que hago con python en [[https://github.com/fisadev|github]].
+
+Me interesa participar como vocal para poder tener voto en las cosas que hacen a la comunidad y su tarea de difusión y enseñanza.
