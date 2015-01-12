@@ -1,5 +1,6 @@
 = Trabajos con Python =
 
+* (12/01/2015) Buscamos desarrollador Python con experiencia en desarrollo de aplicaciones de escritorio con interfaz gráfica. Interesados comunicarse a través del siguiente email: rod0n@live.com.ar.
 
 * (07/01/2015) Buscamos desarrollador Python con experiencia para formar parte de equipo para proyectos de back-end de apps móviles. Tenemos varios proyectos interesantes para grandes compañías y startups en Estados Unidos.
 
