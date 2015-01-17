@@ -20,7 +20,7 @@ Más allá de la info general, algunos ítems tienen al costado un puntaje sobre
         * 53km Córdoba Capital (1 hora en colectivo)
         * 20km de Alta Gracia
         * 20km del Dique Los Molinos
-        * 35km de Villa General Belgr
+        * 35km de Villa General Belgrano
 
 '''Contacto:''' Javier Mansilla
 
