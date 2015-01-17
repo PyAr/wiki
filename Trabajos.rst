@@ -1,5 +1,36 @@
 = Trabajos con Python =
 
+* (17/01/2015)
+'''Test Developer with Python/PHP experience in Dominican Republic'''
+
+Requirements:
+- 3+ years experience with automation testing e.g. testing UI, application or web applications
+- Experience with scripting
+- Testing experience in PHP / Python
+- Upper-Intermediate English (at least good intermediate English)
+
+We propose:
+- Interesting US e-commerce project
+- International team
+- Ability to grow professionally
+- Atlantic ocean 365 days a year
+http://www.fabricegrinda.com/entrepreneurship/silicon-cabarete-mvp/
+- Social package includes annual home trip flight
+- Basic allowance for rent compensation
+
+Responsibilities:
+- Acting as test developer by specifying and developing their auto tests
+- Learn the team’s testers to maintain the tests 
+- Maintain, co-drive and specify the auto test tools and frameworks
+
+About project 
+
+[[www.lofty.com|www.lofty.com]]
+
+Lofty is an expert-reviewed, online marketplace for valuable fine art, antiques and collectibles. Each Lofty item is reviewed and valued by Lofty’s carefully selected network of experts, which includes qualified appraisers, current and former auction house specialists, reputable dealers, and other art world professionals with decades of experience evaluating items in their specialties. They believe buying art and antiques should come with complete peace of mind, and stand behind this commitment with a <nobr>5-year</nobr> Authenticity Guarantee and a 100% Money Back Satisfaction Guarantee within seven days of delivery. Building sustainable, trusting relationships with clients is Lofty’s top priority.
+
+Please send your Skype name and CV / full LinkedIn profile to iurii.bazai@gmail.com
+
 * (12/01/2015) Buscamos desarrollador Python con experiencia en desarrollo de aplicaciones de escritorio con interfaz gráfica. Interesados comunicarse a través del siguiente email: rod0n@live.com.ar.
 
 * (07/01/2015) Buscamos desarrollador Python con experiencia para formar parte de equipo para proyectos de back-end de apps móviles. Tenemos varios proyectos interesantes para grandes compañías y startups en Estados Unidos.
@@ -42,7 +73,7 @@ Would be a plus:
 
 We propose:
  * Interesting project (US e-commerce market)
- * International environment 
+ * International environment (http://www.fabricegrinda.com/entrepreneurship/silicon-cabarete-mvp/)
  * Young and dynamic team
  * Professional growth
  * Competitive remuneration
@@ -62,7 +93,7 @@ About project
 We are looking for a Senior Python Developer with good experience. If you are interested in and your professional profile satisfies our requirements, we will be glad to see you in our international fast-growing team (e-commerce project).
 Our development team works closely together, while providing professional creativity and individual autonomy.
 
-Please send your Skype name and CV / full LinkedIn profile to i.bazai@taventure.com
+Please send your Skype name and CV / full LinkedIn profile to iurii.bazai@gmail.com
 
 
 * 17/12/2014 Se requieren horas freelance para dos proyectos de largo plazo.(con un mínimo de 20hs semanales por proyecto)
