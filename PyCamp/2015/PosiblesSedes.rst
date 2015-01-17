@@ -9,7 +9,7 @@ Más allá de la info general, algunos ítems tienen al costado un puntaje sobre
 
 == Villa La Bolsa, Córdoba ==
 
-'''Nombre del lugar:''' Villa Champagnat - Hermanos Maristas
+'''Nombre del lugar:''' Villa Marista
 
 '''Donde está:''' Hermanos Maristas 5189 [[http://es.wikipedia.org/wiki/Villa_La_Bolsa|Villa La Bolsa]] - Córdoba (-31.722189, -64.427520) [[https://www.google.com.ar/maps/place/31%C2%B043'19.9%22S+64%C2%B025'39.1%22W/@-31.722189,-64.42752,685m/data=!3m2!1e3!4b1!4m2!3m1!1s0x0:0x0|mapa]]
 
