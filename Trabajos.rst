@@ -29,7 +29,7 @@ Enviar CV a busq.developer@gmail.com (Subject: Pyt-DEV03)
 
 Requirements:
  * 2+ years of Python development 
- * 2+ years of PHP development
+ * 1,5+ years in any other programming language (PHP, Ruby, Java, C++, etc)
  * Experience of transfer backend from PHP to Python
  * Knowledge in working with various Database (MySQL, MongoDB others);
  * Understanding of Scrum/Agile
