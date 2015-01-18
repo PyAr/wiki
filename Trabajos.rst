@@ -27,7 +27,7 @@ About project
 
 [[www.lofty.com|www.lofty.com]]
 
-Lofty is an expert-reviewed, online marketplace for valuable fine art, antiques and collectibles. Each Lofty item is reviewed and valued by Lofty’s carefully selected network of experts, which includes qualified appraisers, current and former auction house specialists, reputable dealers, and other art world professionals with decades of experience evaluating items in their specialties. They believe buying art and antiques should come with complete peace of mind, and stand behind this commitment with a <nobr>5-year</nobr> Authenticity Guarantee and a 100% Money Back Satisfaction Guarantee within seven days of delivery. Building sustainable, trusting relationships with clients is Lofty’s top priority.
+Lofty is an expert-reviewed, online marketplace for valuable fine art, antiques and collectibles. Each Lofty item is reviewed and valued by Lofty’s carefully selected network of experts, which includes qualified appraisers, current and former auction house specialists, reputable dealers, and other art world professionals with decades of experience evaluating items in their specialties.
 
 Please send your Skype name and CV / full LinkedIn profile to iurii.bazai@gmail.com
 
