@@ -135,36 +135,6 @@ Propuestas:
  * Pycones y Pycamps buena onda
 
 
-=== Emiliano Dalla Verde Marcozzi ===
-
-Cargo: El que se precise y crean puedo aportar
-
-Página personal en wiki PyAr: [[http://python.org.ar/EmilianoDallaVerdeMarcozzi|EmilianoDallaVerdeMarcozzi]]
-
-==== Mini CV: ====
-
-  Experiencia como Python Developer desde 2008. Trabaje como Gnu/Linux sysadmin
-desde 2006 hasta el 2012. He estado haciendo principalmente desarrollo en 
-backend utilizando python aunque actualmente estoy haciendo algo de frontend. 
-Estoy muy interesado en programación de servidores de redes y escalabilidad.
-Espero que algún día poder contribuir y modificar el kernel de Linux.
-Acerca de mí: Soy un estudiante autodidacta, aprendí a programar preguntando
-en listas de correo, leyendo y tratando de escribir código.
-He estudiado música clásica desde que tengo 4 años. Me gusta leer ciencia
-ficción, historia y política. Siento que tengo una deuda conmigo mismo en
-el estudio de las matemáticas.
-
-
-==== Propuestas: ====
-
- * Implementar "Python para Zumbies" en Chascomús, esto comprende migrar los contenidos y adaptarlos. Crear un hacklab/compartir los sábados a 'n' hora una jornada donde se pueda codear/desarrollar y proponer ideas por parte de los pibes. Compartir el conocimiento
-adquirido para que en otras localidades / lugares del país puedan aprovechar lo aprendido y extender el proyecto para el beneficio de todos.
- * Proponer la enseñanza de Python en algún colegio local de Chascomús. Buscar maquinas en desuso por empresas para armar
-laboratorios de programación locales a la ciudad de Chascomús, para que los pibes aprendan Python y Gnu/Linux. Compartir el 
-conocimiento adquirido para que se puedan beneficiar otras partes del país interesadas en el proyecto.
- * Proponer y darle participación a empresas del sector tecnológico / y otras interesadas en contribuir con el proyecto "Python para Zumbies", reconociéndolas en su colaboración con la sociedad e integrándolas con la comunidad y actividades anuales de Python Argentina. 
-
-
 === Juan Pedro Fisanotti ===
 
 Cargo: Vocal
