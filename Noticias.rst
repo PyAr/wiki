@@ -20,6 +20,11 @@
 ##irss descr Últimas noticias
 ## ULTIMAS_START
 
+
+==== 14/02/2015 ====
+
+PyDay Formosa. Más información: [[http://pyday.forsol.org.ar/|aquí]]
+
 ==== 17/01/2015 ====
 
 Se llevó a cabo el "Primer Sprint de Python en Resistencia, Chaco". Más información [[http://elblogdehumitos.com.ar/posts/primer-sprint-de-python-en-resistencia-chaco/|aquí]]
