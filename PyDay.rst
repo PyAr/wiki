@@ -37,7 +37,7 @@ Un !PyDay es una jornada sobre el lenguaje Python de 1 día, con el formato de m
   * Para reducir gastos, consulta con el grupo de usuarios si han quedado materiales de otros eventos o pueden ayudar económicamente.
  6. Elige los oradores, y anuncia tu PyDay a las listas de correo! (preferentemente con 1 mes de anticipación para que los interesados puedan organizar su asistencia)
  7. Planifica el día
-  * Reune suministros - proyector, computadora, marcadore, tizas y borradores, papel, tarjetas, identificaciones, etc.
+  * Reune suministros - proyector, computadora, marcadores, tizas y borradores, papel, tarjetas, identificaciones, etc.
   * Los oradores y organizadores deberían tener algun distintivo para ubicarlos más fácilmente. Es útil de tener identificadores (pueden ser una etiqueta "Hola, mi nombre es...").
   * Asegurate de tener marcadores y/o indicar con carteles como llegar a las salas donde se realiza el evento
   * Si no se provee desyuno o almuerzo, haz una lista con los lugares donde la gente puede ir a comer
