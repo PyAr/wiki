@@ -2,10 +2,10 @@ Esta página es complementaria a la propuesta de [[NuevoSitio|renovación del Si
 
 Propuesta de Alecu:
 
-{{http://ubuntuone.com/4OP4suRnrORo7KOU7COhlC}}
+{{attachment:logo-pyar-2012.png}}
 
- * [[http://ubuntuone.com/4OP4suRnrORo7KOU7COhlC | Formato PNG ]]
- * [[http://ubuntuone.com/5o21HLAyyJDS041qK73lr8 | Formato SVG ]]
+ * [[attachment:logo-pyar-2012.png | Formato PNG ]]
+ * [[attachment:logo-pyar-2012.svg | Formato SVG ]]
 
 Propuesta de Damián Avila:
 
