@@ -1,35 +1,28 @@
-= Trabajos con Python =
+= DEVELOPER  PYTHON  =
 
-* (17/01/2015)
-'''Test Developer with Python/PHP experience in Dominican Republic'''
+* (03/02/2015)
+Innovadora empresa proveedora de servicios tecnológicos para el segmento de Turismo a nivel global, ubicada en Vicente López, se encuentra  en la búsqueda de un Developer Senior Python / Django.
 
-Requirements:
-- 3+ years experience with automation testing e.g. testing UI, application or web applications
-- Experience with scripting
-- Testing experience in PHP / Python
-- Upper-Intermediate English (at least good intermediate English)
+Entre sus tareas deberá llevar a cabo el desarrollo y/o mantenimiento de desarrollos de back-end. Es valorado el conocimiento y la experiencia en el desarrollo de aplicaciones móviles en plataformas Android y/o IOS.
 
-We propose:
-- Interesting US e-commerce project
-- International team
-- Ability to grow professionally
-- Atlantic ocean 365 days a year
-http://www.fabricegrinda.com/entrepreneurship/silicon-cabarete-mvp/
-- Social package includes annual home trip flight
-- Basic allowance for rent compensation
+Formará parte de un equipo de trabajo donde se valorará la proactividad, la comunicación y el desarrollo profesional.
+Los candidatos deberán poseer experiencia en la tarea no menor a 2 años, dominio del idioma inglés (excluyente), graduados o próximos a graduarse en la carrera de Ingeniería de Sistemas. Edad entre 24 a 30 años. Residir en cercanías a Vicente López (no excluyente). Horario de trabajo de 9:00 a 18:00 hs.
 
-Responsibilities:
-- Acting as test developer by specifying and developing their auto tests
-- Learn the team’s testers to maintain the tests 
-- Maintain, co-drive and specify the auto test tools and frameworks
+Se ofrecen excelentes condiciones de contratación, junto con un atractivo desarrollo profesional. 
+A todos los interesados enviar CV completo y actualizado, sin omitir remuneración pretendida rrhh@flyersconcierge.com
 
-About project 
 
-[[www.lofty.com|www.lofty.com]]
 
-Lofty is an expert-reviewed, online marketplace for valuable fine art, antiques and collectibles. Each Lofty item is reviewed and valued by Lofty’s carefully selected network of experts, which includes qualified appraisers, current and former auction house specialists, reputable dealers, and other art world professionals with decades of experience evaluating items in their specialties.
 
-Please send your Skype name and CV / full LinkedIn profile to iurii.bazai@gmail.com
+
+
+
+
+
+
+
+
+
 
 * (12/01/2015) Buscamos desarrollador Python con experiencia en desarrollo de aplicaciones de escritorio con interfaz gráfica. Interesados comunicarse a través del siguiente email: rod0n@live.com.ar.
 
