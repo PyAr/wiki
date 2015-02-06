@@ -265,18 +265,6 @@ Si estás interesado en formar parte de proyectos de desarrollo en rápido movim
 
  * (30/09/2014) Eynes [[http://eynes.com.ar]] se encuentra en la búsqueda de programadores con conocimientos de linux, base de datos postgreSQL y conocimiento del lenguaje Python (no excluyente), la búsqueda se orienta a una persona con dedicación full time. Los interesados pueden enviar CV a rrhh@eynes.com.ar indicando pretensiones económicas. 
 
- * (18/09/2014) Estamos en la búsqueda de nuevos integrantes para Devecoop, una Cooperativa de software libre [0], esto quiere decir que si bien para nuestros clientes somos como cualquier pyme tradicional, puertas hacia adentro somos una empresa autogestionada de manera democrática, cada uno de nosotros es dueño de una parte de Devecoop y posee un voto.
-    Nos gusta la tecnología, usamos mucho Python Django y Javascript (Angular/Backbone/Node.js). Actualmente trabajamos para distintos clientes, alguno de ellos por horas de desarrollo y otros son proyectos cerrados ("llave en mano"). Lo que estamos haciendo ahora es torcer un poco el rumbo, creando productos propios para ofrecer. Todo esto siempre con espíritu cooperativo, por eso mediante nuestra Federación FACTTIC[1], estamos en contacto con otras cooperativas todo el tiempo, compartiendo experiencias, conocimientos y trabajo. No competimos con otras cooperativas, nos potenciamos mutuamente.
-    Actualmente somos 9 personas en Devecoop, de Capital Federal y de Rosario, y estamos buscando sumar nuevos miembros. Nos interesa principalmente que sintonicen la buena onda con la que nos manejamos actualmente y quieran subirse a Devecoop para tirar para el mismo lado.
-    Si llegué a tocarte aunque sea una pequeña fibra del corazón, esa que busca sumarse a proyectos apasionantes y cooperar para lograr lo mejor (que todos los que rondamos el software libre tenemos), sería genial que nos pongamos en contacto para conocernos mutuamente, vos y Devecoop.
-
-email:contacto@devecoop.com ~ twitter:@devecoop ~ facebook: /devecoop ~ G+: https://plus.google.com/118302082484737717502
-
-[0]:http://www.devecoop.com
-[1]:http://www.facttic.org.ar
-
-Animate, Independizate, vení a Devecoop!﻿
-
  * (16/09/2014) En Vixionar estamos en la busqueda de un Programador Python, con conocimientos de Frontend (Django), para sumar al equipo, puede ser remoto. Vixionar es un Startup donde gran parte del Team trabaja remoto, tenemos gente en Misiones, Entre Rios, y Bs As, buscamos alguien con muchas ganas de crear, en el proyecto usamos mucho Android/iOS, Mysql, Linux, Live Streaming entre otras tecnologias, es un proyecto super innovador! interesados escribir a alejandro.ferrari@vixionar.com
  
  * (02/09/2014) Eynes se encuentra en la búsqueda de programadores con conocimientos de linux, base de datos postgreSQL y conocimiento del lenguaje Python (no excluyente), la búsqueda se orienta a una persona con dedicación full time. Los interesados pueden enviar CV a rrhh@eynes.com.ar indicando pretensiones económicas. 
