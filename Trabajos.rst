@@ -1,5 +1,53 @@
-= DEVELOPER  PYTHON  =
+= Trabajos en Python =
 
+* (10/02/2015) We are looking for a top notch Software Engineer for a NYC based business intelligence start-up. The company is looking to solve a pain point in a $25 billion dollar market, providing solutions for the consumer packaged goods industry.
+
+Requirements:
+
+- 3 or more years working with Python
+
+- At least 2 years working with production applications
+
+- Excellent OO programming skills. 
+
+- Familiarity with NoSQL and RDBMS DBs
+
+- Familiarity with cloud environments
+
+- CS or related degree.
+
+- Excellent English (spoken and written)
+
+- Must be able to work remotely
+
+- Experience with Scrapy is a plus
+
+- Experience with ETL, data visualization and analytics is a plus.
+
+We will initially have a part time engagement looking towards a long term full time engagement.
+
+Please send your resume, LinkedIn profile, github page, and any other cool stuff you want to show us to hr@bluecoding.com
+
+* (10/02/2015)
+En Big Deal nos encontramos en la búsqueda de Desarrolladores que idealmente posean dos años de experiencia para desempeñarse como Backend Developers.
+
+- Requisitos: Python / Django, Programación Orientada a Objetos, Arquitectura MVC, API Rest
+
+- Deseable: Programación funcional, Heroku, Git, TDD, Linux – Ubuntu
+
+- Responsabilidades: Desarrollo de nuevas plataformas vía la metodología Lean Startup. Interacción con distintas modalidades de pago. Integración con servicios internos y externos. Exploración sobre nuevas tecnologías. Mantenimiento y extensión de las plataformas existentes. Mantenimiento de sistemas distribuidos.
+
+Además, buscamos un Email Ninja Deliverator
+
+- Requisitos: Python / Django / Celery / RabbitMQ / Linux
+
+- Deseables: SendGrid / Postfix
+
+- Responsabilidades: Aumentar la probabilidad de entrega de newsletters (deliverability) en distintos ISP (Hotmail, Gmail, Yahoo, etc). SpamAssassin Hacker. Interacción con varios ESP (SendGrid, Mailchimp, etc.). Proceso de warmapping. Aumentar métricas tales como “Conversion Rate”, “Open / Click Rate” a través de la clasificación de usuarios via su comportamiento ante un modelo de negocio determinado.
+
+Aguardamos tu CV con pretensión salarial en jobs@bigdeal.com.ar
+
+En el asunto indicar BE o Ninja, de acuerdo a tu interés.
 
 * (10/02/2015) Buscamos desarrollador Python con experiencia para formar parte de equipo para proyectos de back-end de apps móviles. Tenemos varios proyectos interesantes para grandes compañías y startups en Estados Unidos. Por lo general es para la creación de aplicaciones desde cero.
 
