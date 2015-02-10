@@ -1,5 +1,28 @@
 = DEVELOPER  PYTHON  =
 
+
+* (10/02/2015) Buscamos desarrollador Python con experiencia para formar parte de equipo para proyectos de back-end de apps móviles. Tenemos varios proyectos interesantes para grandes compañías y startups en Estados Unidos. Por lo general es para la creación de aplicaciones desde cero.
+
+'''El buen manejo de idioma ingles es condición necesaria y excluyente, dado que la supervisión será directa desde Estados Unidos.'''
+
+'''Remuneración: entre 2.000 y 3.000 dólares al mes para puesto full time (dependiendo de perfil)'''
+
+ * Lugar de trabajo: remoto desde domicilio particular del programador de manera independiente. El desarrollador preferentemente (pero no excluyente) debe vivir en la Ciudad Autónoma de Buenos Aires o sus alrededores.
+
+ *Carga horaria: si bien es por objetivos, la carga es jornada full-time (en caso de solo poder part-time también escribir aclarando)
+
+'''El candidato ideal tiene:'''
+ *Experiencia comprobable que demuestre conocimiento práctico y profundo en Python.
+
+Preferente (no excluyente):
+ *Experiencia trabajando con Django (no es excluyente pero muy valorado).
+ *Experiencia con MySQL.
+ *Conocimientos de desarrollo de apps IOS/Android.
+ *Capacidad para manejarse de manera independiente formando parte de un equipo de trabajo a distancia.
+
+
+Enviar CV a busq.developer@gmail.com (Subject: Pyt-DEV04)
+
 * (03/02/2015)
 Innovadora empresa proveedora de servicios tecnológicos para el segmento de Turismo a nivel global, ubicada en Vicente López, se encuentra  en la búsqueda de un Developer Senior Python / Django.
 
@@ -25,28 +48,6 @@ A todos los interesados enviar CV completo y actualizado, sin omitir remuneraci�
 
 
 * (12/01/2015) Buscamos desarrollador Python con experiencia en desarrollo de aplicaciones de escritorio con interfaz gráfica. Interesados comunicarse a través del siguiente email: rod0n@live.com.ar.
-
-* (07/01/2015) Buscamos desarrollador Python con experiencia para formar parte de equipo para proyectos de back-end de apps móviles. Tenemos varios proyectos interesantes para grandes compañías y startups en Estados Unidos.
-
-El buen manejo de idioma ingles es condición necesaria y excluyente, dado que la supervisión será directa desde Estados Unidos.
-
-'''Remuneración: entre AR$25.000 y 30.000 al mes (dependiendo de perfil)'''
-
- * Lugar de trabajo: remoto desde domicilio particular del programador de manera independiente. El desarrollador debe vivir en la Ciudad Autónoma de Buenos Aires o sus alrededores.
-
- *Carga horaria: si bien es por objetivos, la carga es jornada full-time (en caso de solo poder part-time también escribir aclarando)
-
-'''El candidato ideal tiene:'''
- *Experiencia comprobable que demuestre conocimiento práctico  y profundo en Python.
-
-Preferente (no excluyente):
- *Experiencia trabajando con Django.
- *Experiencia con MySQL.
- *Conocimientos de desarrollo de apps IOS/Android.
- *Capacidad para manejarse de manera independiente formando parte de un equipo de trabajo a distancia.
-
-
-Enviar CV a busq.developer@gmail.com (Subject: Pyt-DEV03)
 
 * (18/12/2014)
 '''Senior Python Developer in Dominican Republic'''
