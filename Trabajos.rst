@@ -1,5 +1,43 @@
 = Trabajos en Python =
 
+* (13/02/2015) Búsqueda Desarrollador Python Part Time
+
+Estamos buscando un desarrollador Python Sr o Semi Sr. que se sume al desarrollo de una nueva red social distribuida de música con capacidad de realizar streaming basado en una red P2P. 
+
+Actualmente somos un equipo chico trabajando en un entorno de desarrollo ágil (Scrum).
+
+Requisitos:
+
+- Experiencia como desarrollador Python (al menos dos años de experiencia).
+
+- Experiencia en programación de GUI.
+
+- Experiencia con SQL y bases de datos.
+
+- Uso de sistemas de control de versiones.
+
+- Conocimiento de POO.
+
+
+Deseables:
+
+- Experiencia con PySide 1.2.2 o PyQt, o si tenés experiencia con Qt 4.8 puro también suma. 
+
+- Experiencia con Sqlite3.
+
+- Conocimiento en diseño de arquitectura de bases de datos.
+
+- Experiencia con Git.
+
+- Experiencia con TDD.
+
+
+Lugar de trabajo: Palermo
+
+Horario: 10 a 16 (de Lunes a Viernes).
+
+Enviar CV, remuneración pretendida y/o cualquier consulta a proyectoestelares@gmail.com
+
 * (10/02/2015) We are looking for a top notch Software Engineer for a NYC based business intelligence start-up. The company is looking to solve a pain point in a $25 billion dollar market, providing solutions for the consumer packaged goods industry.
 
 Requirements:
