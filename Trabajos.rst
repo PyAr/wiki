@@ -1,5 +1,35 @@
 = Trabajos en Python =
 
+* (18/02/2015) En InvGate estamos buscando un desarrollador Python para que se sume al equipo de un producto novedoso. El producto tiene aristas desafiantes como ser manejo de grafos grandes e integración de fuentes diversas de datos que hablan de lo mismo pero de maneras distintas. El desarrollo lo estamos realizando en python (usando Flask, SqlAlchemy, y otras libraries python) y en JS usando AngularJs para el frontend. 
+ 
+Sobre InvGate: 
+
+- Hacemos productos originales e innovadores de alta calidad (¡no somos una Software Factory!) 
+
+- Tenemos clientes a nivel global.
+
+- Somos empresa Endeavor (como en su momento lo fueron Globant, Core Security, MercadoLibre). 
+
+- Y la mejor parte: no nos conocés! Es porque recién somos 18 personas (+ 1 perro) esto implica que todavía hay mucho lugar en la mesa. 
+
+Ofrecemos:
+
+- Ser parte de una startup en una etapa temprana (con todo lo que eso conlleva), 
+
+- Desafíos para tirar al techo, 
+
+- La oportunidad de crecer profesionalmente al ritmo de la empresa (o sea, rápido), 
+
+- Estamos en Vicente López a 4 cuadras de Puente Saavedra (excelente ubicación y accesos)
+
+- Nuestras oficinas tienen un gran parque, pileta, parrilla y les damos un buen uso.
+
+- Ofrecemos un ambiente divertido y flexible, no se marca tarjeta, somos todos jóvenes y el acartonamiento no nos va.
+ 
+Si querés conocernos un poco más visitá: www.invgate.com
+ 
+Si te interesa o querés conocernos aún más, mandanos tu cv a jobs@invgate.com
+
 * (13/02/2015) Búsqueda Desarrollador Python Part Time
 
 Estamos buscando un desarrollador Python Sr o Semi Sr. que se sume al desarrollo de una nueva red social distribuida de música con capacidad de realizar streaming basado en una red P2P. 
