@@ -1,5 +1,32 @@
 = Trabajos en Python =
 
+* (28/02/2015) Somos una empresa joven y estamos buscando un desarrollador python que quiera sumarse a nuestro equipo en nuestro crecimiento. Las tareas serían varias y cambiantes, por lo tanto necesitamos una persona que disfrute de los desafíos y no le tema a aprender cosas nuevas sobre la marcha.
+
+'''La empresa:'''
+
+Nuestra especialidad es el Capital Intangible, y estamos llevando a cabo la primera medición a nivel nacional en la Argentina.
+Somos precursores en nuestro tema y permanentemente generamos nuevos contenidos.
+
+'''Tecnologías con las que trabajamos:'''
+
+ * Python
+ * Django
+ * Javascript
+ * Jquery
+ * HTML 5
+ * CSS 3
+ * Bootstrap
+ * MySQL
+ * otros
+
+'''Buscamos''' a una persona que no sólo sea buena en lo que hace, sino que además lo disfrute.
+
+'''Valoramos''' la participación en proyectos de software libre, dado que para ello son necesarias múltiples virtudes valiosas para el trabajo en equipo.
+
+'''Ofrecemos''' un ambiente de trabajo distendido, flexibilidad horaria, y libertad para administrar las responsabilidades de forma autónoma.
+
+Si estás interesado en ser parte envianos tu CV a rrhh@granpegaso.com
+
 * (18/02/2015) En InvGate estamos buscando un desarrollador Python para que se sume al equipo de un producto novedoso. El producto tiene aristas desafiantes como ser manejo de grafos grandes e integración de fuentes diversas de datos que hablan de lo mismo pero de maneras distintas. El desarrollo lo estamos realizando en python (usando Flask, SqlAlchemy, y otras libraries python) y en JS usando AngularJs para el frontend. 
  
 Sobre InvGate: 
