@@ -1,5 +1,21 @@
 = Trabajos en Python =
 
+* Se busca programador python/django freelance para 15/20 horas semanales. Mantenimiento de e-commerce de alto trafico con proyectos nuevos saliendo periodicamente.
+
+Skills necesarios:
+
+Conocimiento solido de Django, Javascript (jQuery), virtualenvs, pip, easy_install , excluyente.
+
+Fabric, Nginx, gunicorn, supervisor son un plus.
+
+Se necesita persona que pueda entender codigo de otro rapido y encontrar soluciones con poca o sin asistencia.
+
+Minimo 2/3 años de experiencia en desarrollo.
+
+El lugar de trabajo es remoto.
+
+Enviar CV a damian@apimtech.com, si es posible link a trabajos realizados (github,bitbucket)
+
 * (28/02/2015) Somos una empresa joven y estamos buscando un desarrollador python que quiera sumarse a nuestro equipo en nuestro crecimiento. Las tareas serían varias y cambiantes, por lo tanto necesitamos una persona que disfrute de los desafíos y no le tema a aprender cosas nuevas sobre la marcha.
 
 '''La empresa:'''
