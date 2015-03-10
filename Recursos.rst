@@ -141,6 +141,19 @@
 
  * Github: https://github.com/MSA-Argentina/
 
+=== Onapsis ===
+ * Contacto: Onapsis <info AT onapsis DOT com>
+
+ * URL: http://www.onapsis.com
+
+ * Ubicación: Riobamba 429, CABA, Argentina.
+
+ * ¿De qué forma usamos Python?: Nos especializamos en soluciones avanzadas de seguridad informatica las cuales desarrollamos exclusivamente con Python!.
+
+ * Librerías/frameworks utilizadas: Django, Pyramid, SQLAlchemy, entre otras.
+
+ * Además de utilizar Python, constantemente buscamos mejorar nuestros procesos de desarrollo e incorporamos nuevas tecnologias. Actualmente trabajamos con metodologias Agiles y usamos TDD, Git, Continuos Integration, entre otros.
+
 === Vortech ===
  * Contacto: <<MailTo( alecu AT vortech DOT com DOT ar, Alejandro J. Cura)>>
 
