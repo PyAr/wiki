@@ -163,7 +163,7 @@ https://www.google.com.ar/search?q=camping+mutual+chascomus&safe=off&espv=2&biw=
     * 8 cabañas con ropa de cama, frazadas, baño, ventilador, anafe, heladera y tv. Cada cabaña tiene capacidad para
       4 personas.
     * Tenemos un salón exclusivo que está BUENISIMO. Tiene varias mesas largas donde pueden laburar de 6 a 8
-      personas. TODA la parte de arriba 1 piso de esta foto: http://www.chascomus.com.ar/images/kayaks/atalaya.gif sería
+      personas. TODA la parte de arriba 1 piso de esta fotos: http://www.chascomus.com.ar/images/kayaks/atalaya.gif y     https://drive.google.com/folderview?id=0B_XLt7gm_Bcbfkt1YUo5MVhFNzVBVmJJTnVvc0VKQkhaVUlKT0RTb3BiOUFDdTdTVE1VZ00&usp=sharing sería
       para nosotros. Salón cubierto y lo que se ve a la izquierda es una terraza también para nuestro uso exclusivo.
     * Tiene varias piletas, hay que pagar un costo adicional para utilizarlas.
     * Hay un buffet donde se pueden comprar cosas básicas.
