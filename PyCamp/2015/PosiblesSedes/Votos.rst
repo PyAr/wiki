@@ -19,6 +19,7 @@ si aún no tenes usuario en la wiki :)
  * Juan Carizza
  * Daniel Moisset
  * Emilio Ramirez
+ * Joaquin de Andres
 
 
 == Chascomús, Buenos Aires ==
