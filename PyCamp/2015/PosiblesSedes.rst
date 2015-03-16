@@ -130,7 +130,7 @@ Más allá de la info general, algunos ítems tienen al costado un puntaje sobre
   * La base son FIXME(n) personas.
 
 
-== Chascomús, Buenos Aires ==
+== Chascomús, Buenos Aires (Fecha límite para confirmar la reserva, 20 de Marzo) ==
 
 '''Nombre del lugar:''' Camping 6 de Septiembre
 
