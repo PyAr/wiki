@@ -20,6 +20,7 @@ si aún no tenes usuario en la wiki :)
  * Daniel Moisset
  * Emilio Ramirez
  * Joaquin de Andres
+ * [[HoracioDuran|Horacio Duran]]
 
 
 == Chascomús, Buenos Aires ==
