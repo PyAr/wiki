@@ -11,14 +11,14 @@ si aún no tenes usuario en la wiki :)
 
 == La Bolsa, Córdoba ==
 
-* Filly
-* Pablo Celayes
-* Diego Sarmentero
-* Francisco Capdevila
-* Jairo Trad
-* Juan Carizza
-* Daniel Moisset
-* Emilio Ramirez
+ * Filly
+ * Pablo Celayes
+ * Diego Sarmentero
+ * Francisco Capdevila
+ * Jairo Trad
+ * Juan Carizza
+ * Daniel Moisset
+ * Emilio Ramirez
 
 
 == Chascomús, Buenos Aires ==
