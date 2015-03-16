@@ -199,3 +199,5 @@ https://www.google.com.ar/search?q=camping+mutual+chascomus&safe=off&espv=2&biw=
 '''Precio:''' FIXME: averiguar detalles finos
   * 900$ las cabañas, dívidido 4 personas: 225$ por cada noche, por 3 noches 675$ por persona solo alojamiento.
   * internet: Internet por antenas/radio.
+  * Costo estimado apróximado total por 4 días, 3 noches: 675$ alojamiento + 100$ por dia 2 comidas (a confirmar,
+    puede ser menos), total aproximado 975$.
