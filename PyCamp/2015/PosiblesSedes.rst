@@ -128,3 +128,74 @@ Más allá de la info general, algunos ítems tienen al costado un puntaje sobre
   * Incluye: seguro, y upgrade de internet?? No incluye el extra para asado??
   * La Asociación NO hace facturas (no tienen, son una entidad sin fines de lucro), pero sí hacen "recibo oficial".
   * La base son FIXME(n) personas.
+
+
+== Chascomús, Buenos Aires ==
+
+'''Nombre del lugar:''' Camping 6 de Septiembre
+
+'''Reseña del lugar:''' http://vamosachascomus.com/camping-en-6-de-septiembre.php
+
+'''Donde está:''' https://plus.google.com/103542796887194586201/about?gl=ar&hl=es
+
+    * reseñas del pueblo: [[http://es.wikipedia.org/wiki/Ciudad_de_Chascom%C3%BAs|acá]]
+
+    * distancias:
+    
+        * 125km hasta Capital Federal, Buenos Aires (1 hora 30m en auto, 2 horas en tren o traffic)
+
+'''Contacto:''' Emiliano Dalla Verde Marcozzi
+
+'''Fotos:'''
+
+https://www.google.com.ar/search?q=camping+mutual+chascomus&safe=off&espv=2&biw=1364&bih=667&source=lnms&tbm=isch&sa=X&ei=xh0GVbrpN6awsAS4-YJo&ved=0CAcQ_AUoAg&dpr=1#safe=off&tbm=isch&q=camping+6+de+septiembre+chascomus
+
+    
+'''Formas de llegar al camping: 2 pycampitas'''
+  * En auto: Es cómodo llegar, las rutas están bien, está a 10 minutos de la ciudad de Chascomús. En bicicleta son
+             30 minutos.
+  * En remis: Costo 30$ aprox para 4/5 personas, depende el tamaño de las personas (?)
+  * Caminando: Como 1h/1h 30m de caminata desde la ciudad de Chascomús
+  
+'''Qué onda el lugar: 4 pycampitas'''
+    * Muy tranquilo, mucho verde, nos podemos tirar a la laguna, parrilleros por todos lados, las instalaciones
+      están muy buenas.
+    * 8 cabañas con ropa de cama, frazadas, baño, ventilador, anafe, heladera y tv. Cada cabaña tiene capacidad para
+      4 personas.
+    * Tenemos un salón exclusivo que está BUENISIMO. Tiene varias mesas largas donde pueden laburar de 6 a 8
+      personas. TODA la parte de arriba 1 piso de esta foto: http://www.chascomus.com.ar/images/kayaks/atalaya.gif sería
+      para nosotros. Salón cubierto y lo que se ve a la izquierda es una terraza también para nuestro uso exclusivo.
+    * Tiene varias piletas, hay que pagar un costo adicional para utilizarlas.
+    * Hay un buffet donde se pueden comprar cosas básicas.
+    * El servicio de comidas esta gente me va a averiguar un presupuesto, sino podemos contratar a otra gente, esto
+      está pendiente.
+    * Lugares de esparcimiento: piletas, bajada a la laguna.
+
+'''Qué onda la comida: Averiguar menú'''
+  * De todas las veces que fui, nunca fue con el servicio de comida del lugar. 
+  * bebida: a averiguar si está incluida.
+
+'''Privacidad:'''
+    Tenemos exclusividad en el salón de arriba. El resto del camping e instalaciones es compartido con otras 
+    personas. Por lo que ví se llena en los findes largos.
+
+'''Tres puntos a favor:'''
+  * El salón exclusivo que nos dan esta muy bueno. Al lado del salón hay una terraza enorme con piso
+    de madera que para codear a la tarde/noche viendo las estrellas pinta buenísimo. Fotos por acá:
+    https://drive.google.com/folderview?id=0B_XLt7gm_Bcbfkt1YUo5MVhFNzVBVmJJTnVvc0VKQkhaVUlKT0RTb3BiOUFDdTdTVE1VZ00&usp=sharing
+  * Las cabañas tienen baño propio y ropa de cama.
+  * Está a hora y media de Capital Federal, Buenos Aires.
+  * Hay mucha libertad: se puede usar las instalaciones sin problema, uno es libre de moverse por todo el lugar, y se puede ingresar comida al lugar, como así también bebidas.
+  
+'''Tres puntos en contra:'''
+  * No hay micro que te lleve desde Chascomús al camping, si o si tenes que ir en auto o remis.
+  * En pleno invierno es muy frío.
+  * Hay lugar en cabañas sólo para 32 personas, el resto va en carpa. 
+  
+'''Disponibilidad:''' 
+  * 22, 23, 24 y 25 de Mayo: Tengo reservadas todas las cabañas hasta el viernes 20 de Marzo. 
+  * Todo lo anterior al finde largo de Mayo esta reservado/ocupado
+
+'''Precio:''' FIXME: averiguar detalles finos
+  * 900$ las cabañas, dívidido 4 personas: 225$ por cada noche, por 3 noches 675$ por persona solo alojamiento.
+  * internet: Internet por antenas/radio.
