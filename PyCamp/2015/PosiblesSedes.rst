@@ -172,8 +172,9 @@ https://www.google.com.ar/search?q=camping+mutual+chascomus&safe=off&espv=2&biw=
     * Lugares de esparcimiento: piletas, bajada a la laguna.
 
 '''Qué onda la comida: Averiguar menú'''
-  * De todas las veces que fui, nunca fue con el servicio de comida del lugar. 
-  * bebida: a averiguar si está incluida.
+  * El camping me averigua en caso que confirmemos por este servicio
+  * Podemos pedir en otro delivery que ya hace comidas para muchas personas del INTECH, seguramente nos hacen
+    un precio menor a 100$ por almuerzo y cena.
 
 '''Privacidad:'''
     Tenemos exclusividad en el salón de arriba. El resto del camping e instalaciones es compartido con otras 
