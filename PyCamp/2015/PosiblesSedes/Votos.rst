@@ -35,3 +35,4 @@ si aún no tenes usuario en la wiki :)
 
  * SAn
  * manuq (a confirmar cuando se sepa la fecha)
+ * LucioTorre (a confirmar cuando se sepa la fecha)
