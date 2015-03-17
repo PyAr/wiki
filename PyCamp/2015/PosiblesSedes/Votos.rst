@@ -29,3 +29,7 @@ si aún no tenes usuario en la wiki :)
 
 
 == Verónica, Buenos Aires ==
+
+== Cualquier sede (voto en blanco) ==
+
+ * SAn
