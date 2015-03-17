@@ -33,3 +33,4 @@ si aún no tenes usuario en la wiki :)
 == Cualquier sede (voto en blanco) ==
 
  * SAn
+ * manuq (a confirmar cuando se sepa la fecha)
