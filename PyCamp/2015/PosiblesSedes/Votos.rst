@@ -24,6 +24,7 @@ si aún no tenes usuario en la wiki :)
  * JuanFisanotti (+ bots)
  * [[Nueces|Nueces]]
  * Mariano Falcón
+ * Matías Barriento (+ magia)
 
 
 == Chascomús, Buenos Aires ==
