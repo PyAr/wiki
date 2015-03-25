@@ -1,5 +1,15 @@
 = Trabajos en Python =
 
+* Estamos buscando un programador con experiencia sólida en Python y Django. Un gran plus es tener experiencia con git, django-rest-framework, y jquery/javascript (o AngularJS).
+
+Es para un proyecto concreto. En otras palabras se trata de una locación de obra por tres a seis meses.
+
+Es importante que residan en Capital Federal o inmediaciones ya que preferimos que realicen el trabajo en nuestras oficinas de Balvanera.
+
+Los interesados, por favor envíen sus CV a nbensa@flacso.org.ar. Si pueden incluir links a proyectos en los que han colaborado, mejor aún.
+
+
+
 * Se busca programador python/django freelance para 15/20 horas semanales. Mantenimiento de e-commerce de alto trafico con proyectos nuevos saliendo periodicamente.
 
 Skills necesarios:
