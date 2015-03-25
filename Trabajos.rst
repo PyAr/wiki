@@ -1,5 +1,10 @@
 = Trabajos en Python =
 
+* ( 25/03/2015) En iBillionaire estamos buscando expertos en código seguro con conocimientos de python/django y seguridad de servidores. Es deseable conocimiento de finanzas o trading.
+
+Los interesados por favor enviar CV a fernando@ibillionaire.me
+
+
 * Estamos buscando un programador con experiencia sólida en Python y Django. Un gran plus es tener experiencia con git, django-rest-framework, y jquery/javascript (o AngularJS).
 
 Es para un proyecto concreto. En otras palabras se trata de una locación de obra por tres a seis meses.
