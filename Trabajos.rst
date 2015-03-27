@@ -1,5 +1,7 @@
 = Trabajos en Python =
 
+* (27/03/2015) en Jampp estamos buscando gente Senior o semi-Senior para hacer machine learning en Python. Conocimientos de ML especificamente son un bonus pero no requeridos (tenemos gente para entrenarlos), pero sí un buen nivel de programación y matemática, y una buena predisposición a aprender temas nuevos, nada triviales. Experiencia en webservices también suma, y también hay tareas más relacionadas a esto último que a ML para quienes prefieran.
+
 * ( 25/03/2015) En iBillionaire estamos buscando expertos en código seguro con conocimientos de python/django y seguridad de servidores. Es deseable conocimiento de finanzas o trading.
 
 Los interesados por favor enviar CV a fernando@ibillionaire.me
