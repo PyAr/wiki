@@ -1,4 +1,3 @@
-#format rst
 
 Eventos
 =======
@@ -39,7 +38,6 @@ Nos reunimos varios dias para trabajar en distintos proyectos de software libre 
 
 .. [2] El concepto de sprint está explicado aquí: ["PreguntasFrecuentes#SPRINT"]
 
-.. _PyAr: ../PyAr
 
 .. _Reuniones PyAr: Eventos#reuniones
 
@@ -47,5 +45,4 @@ Nos reunimos varios dias para trabajar en distintos proyectos de software libre 
 
 .. _Conferencias: Eventos#conferencias
 
-.. _PyCamps: ../PyCamp
 
