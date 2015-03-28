@@ -1,11 +1,25 @@
-#language es
-= GvR junto a la bandera de PyAr =
+#format rst
 
-Recién llagadita de !EuroPython 2007, cortesía de [[AlejandroJCura|alecu]], GvR posando con nuestra bandera:
+GvR junto a la bandera de PyAr
+==============================
 
-{{attachment:gvr-pyar-2-small.jpg}}
+Recién llagadita de EuroPython 2007, cortesía de alecu_, GvR posando con nuestra bandera:
 
-<<BR>>
-----
-== Adjuntos (incluye foto en tamaño original) ==
-<<AttachList>>
+`attachment:gvr-pyar-2-small.jpg`_
+
+
+
+
+-------------------------
+
+
+
+Adjuntos (incluye foto en tamaño original)
+------------------------------------------
+
+`[[AttachList]]`_
+
+.. ############################################################################
+
+.. _alecu: AlejandroJCura
+
