@@ -1,4 +1,3 @@
-#format rst
 
 **Python Argentina declara abierto el proceso de creación de las Remeras 3.0.**. Las realizará el `taller de serigrafía de la agrupación Mazamorra`_ de Córdoba Capital. Los plazos son ajustados para aprovechar la realización de la PyConAr_
 
@@ -79,7 +78,6 @@ Plazos
 
 .. _taller de serigrafía de la agrupación Mazamorra: http://www.agrupacionmazamorra.com.ar/taller-de-serigrafia-30
 
-.. _PyConAr: ../PyConAr
 
 .. _RemerasV3/ManuelArgüelles3: /ManuelArgüelles3
 
@@ -87,9 +85,7 @@ Plazos
 
 .. _RemerasV3/Pedidos: /Pedidos
 
-.. _RemerasV2/FacundoBatista2: ../RemerasV2/FacundoBatista2
 
-.. _RemerasV2/PabloZiliani1: ../RemerasV2/PabloZiliani1
 
 .. _RemerasV3/LucioTorre1:
 .. _RemerasV3/LucioTorre2: /LucioTorre1
@@ -106,5 +102,4 @@ Plazos
 
 .. _RemerasV3/LeonardoVidarte4: /LeonardoVidarte4
 
-.. _PyAr: ../PyAr
 
