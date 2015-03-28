@@ -1,4 +1,3 @@
-#format rst
 
 PyCamp
 ======
@@ -116,7 +115,6 @@ Blogpost sobre Pycamps
 
 .. ############################################################################
 
-.. _PyAr: ../PyAr
 
 .. _aqui: /QueSeHace
 
@@ -138,31 +136,17 @@ Blogpost sobre Pycamps
 
 .. _Villa Giardino, Córdoba. Marzo de 2014: /2014
 
-.. _FacundoBatista: ../FacundoBatista
 
-.. _RamiroMorales: ../RamiroMorales
 
-.. _MarcosDione: ../MarcosDione
 
-.. _GonzaloOdiard: ../GonzaloOdiard
 
-.. _JohnLenton: ../JohnLenton
 
-.. _JoaquinSorianello: ../JoaquinSorianello
 
-.. _TomasZulberti: ../TomasZulberti
 
-.. _MateoBengualid: ../MateoBengualid
 
-.. _EzequielMarquez: ../EzequielMarquez
 
-.. _MartinGaitan: ../MartinGaitan
 
-.. _MarcosVanetta: ../MarcosVanetta
 
-.. _HugoRuscitti: ../HugoRuscitti
 
-.. _EmilianoDallaVerdeMarcozzi: ../EmilianoDallaVerdeMarcozzi
 
-.. _CategoryPyCamp: ../CategoryPyCamp
 
