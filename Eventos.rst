@@ -12,7 +12,7 @@ En PyAr_ planeamos cuatro tipos de eventos:
 
 Son las reuniones que hacemos los miembros de PyAr_ para planificar y realizar actividades concernientes a nuestro objetivo. Las reuniones se organizan cuando consideramos que hay un motivo específico que tratar (o juntamos demasiadas ganas de tomar cerveza... ) [1]
 
-* Sprints_ `[2]`_ :
+* Sprints_ [2] :
 
 Pretendemos realizar sesiones de desarrollo para proyectos que nos llamen la atención, como un evento social y de mejora para el software (libre) argentino. 
 
