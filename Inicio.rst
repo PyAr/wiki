@@ -1,3 +1,16 @@
+<<<<<<< HEAD
+=======
+Contenido
+---------
+
+.. class:: alert alert-warning
+
+   ¡Ayudanos a corregir la wiki! Gran parte del contenido actual es el resultado de una migración desde el sistema 
+   MoinMoin que usabamos antes. Si bien el resultado es satisfactorio, el restructuredtext obtenido necesita 
+   algunas correcciones manuales.
+
+
+>>>>>>> 1f42d2f
 * Noticias_ de PyAr_, sus miembros, o noticias relevantes de Python.
 
 * Eventos_: Aquí encontrarás información sobre las actividades que realizamos.
@@ -26,4 +39,12 @@
 
 * AdoptaUnNewbie_: Ayuda en proyectos para gente que recién comienza
 
+<<<<<<< HEAD
 * SciPyar_: PyAr_ para ciencia e ingeniería
+=======
+* SciPyar_: PyAr_ para ciencia e ingeniería
+
+
+
+
+>>>>>>> 1f42d2f
