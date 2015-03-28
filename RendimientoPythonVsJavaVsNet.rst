@@ -1,4 +1,3 @@
-#format rst
 
 Comparación de Rendimiento entre Python, Java y .Net
 ====================================================
@@ -102,7 +101,6 @@ Referencias
 
 .. _#2: RendimientoPythonVsJavaVsNet#2
 
-.. _MatLab: ../MatLab
 
 .. _#4: RendimientoPythonVsJavaVsNet#4
 
