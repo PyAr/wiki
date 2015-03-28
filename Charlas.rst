@@ -1,8 +1,8 @@
 
 .. contents:: :depth: 2
 
-Charlas
-=======
+Charlas de Python
+=================
 
 En esta página podrán encontrar los *slides* de charlas y presentaciones dictadas por miembros de PyAr_.
 
