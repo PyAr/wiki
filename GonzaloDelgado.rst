@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Gonzalo Delgado
 ---------------
@@ -36,5 +34,4 @@ Si estás en Tucumán y programás en Python, te invito un café |;)|
 
 .. _Lighttpd: http://www.lighttpd.net/
 
-.. _CategoryHomepage: ../CategoryHomepage
 
