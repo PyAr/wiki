@@ -1,11 +1,15 @@
-~-volver a RemerasV2-~
+#format rst
 
-¡Mirá! ¡La última remera de LauBenech! (por ahora! :))
+:small:`volver a` RemerasV2_
 
-{{attachment:LauBenech6.png}}
+¡Mirá! ¡La última remera de LauBenech_! (por ahora! |:))|
 
-[[attachment:LauBenech6.svg]]
+`attachment:LauBenech6.png`_
 
-== Comentarios ==
+`attachment:LauBenech6.svg`_LauBenech6.svg`attachment:None`_
+
+Comentarios
+-----------
 
 * [quien?] (placeholder)
+
