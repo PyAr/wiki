@@ -1,5 +1,3 @@
-#format rst
-## page was renamed from recetario/Histograma
 
 Cómo generar un histograma
 ==========================
@@ -47,7 +45,7 @@ Para mas información, revisar:
       </span><span class="line"><span class="gp">&gt;&gt;&gt; </span><span class="n">show</span><span class="p">()</span>
       </span>
 
-`attachment:ej_tribu.jpg`_
+`ej_tribu.jpg </wiki/Recetario/Histograma/attachment/567/ej_tribu.jpg>`_
 
 -------------------------
 
