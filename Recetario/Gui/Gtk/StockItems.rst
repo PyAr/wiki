@@ -1,5 +1,3 @@
-#format rst
-## page was renamed from Recetario/Gtk/StockItems
 
 Gtk stock items
 ===============
@@ -8,7 +6,7 @@ ejemplo que muestra todos los iconos stock de gtk con su respectivo nombre
 
 un screenshot:
 
-`attachment:stock-gtk.png`_
+`stock-gtk.png </wiki/Recetario/Gui/Gtk/StockItems/attachment/581/stock-gtk.png>`_
 
 ::
 
