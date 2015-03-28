@@ -1,4 +1,3 @@
-#format rst
 
 Extraer direcciones de email de un texto
 ----------------------------------------
