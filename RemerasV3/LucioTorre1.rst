@@ -1,6 +1,10 @@
+#format rst
+
 Mi propuesta de remera, robada salvajemente
 
- * LucioTorre1 (diseño en remera negra)
- * LucioTorre2 (diseño en remera azul)
+* LucioTorre1_ (diseño en remera negra)
 
-{{attachment:remera1.png}}
+* LucioTorre2_ (diseño en remera azul)
+
+`attachment:remera1.png`_
+
