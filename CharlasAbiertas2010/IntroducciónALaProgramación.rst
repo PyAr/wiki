@@ -1,4 +1,3 @@
-## page was renamed from CharlasAbiertas2010/IntroducciónALaProgramacion
 = Introducción a la programación =
 ''Orientada a personas que no saben nada de programación, esta charla busca presentar los conceptos básicos de este arte de manera que dicha persona pueda, comprendiendo las bases de la disciplina, tener herramientas para luego si lo desea profundizar más en el tema y aprender formalmente a programar.''
 
