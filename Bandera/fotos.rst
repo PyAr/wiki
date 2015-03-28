@@ -1,4 +1,3 @@
-#format rst
 
 Fotos de la Bandera
 ===================
@@ -7,5 +6,5 @@ Fotos de la Bandera
 
 * La felicidad de alecu: no tiene precio
 
-`attachment:foto1.jpg`_ `attachment:foto2.jpg`_ `attachment:foto3.jpg`_
+
 
