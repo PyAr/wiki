@@ -1,4 +1,3 @@
-#format rst
 
 Contribuyendo al Wiki
 =====================
@@ -25,11 +24,9 @@ En cuanto al contenido, damos los siguientes consejos:
 
 .. ############################################################################
 
-.. _ReadWriteGroup: ../ReadWriteGroup
 
 .. _PyCon2006: http://www.python.com.ar/moin/Eventos/Conferencias/PyCon2006
 
 .. _ProximaReunion: http://www.python.com.ar/moin/eventos/reuniones/ProximaReunion
 
-.. _PabloZiliani: ../PabloZiliani
 
