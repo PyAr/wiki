@@ -1,5 +1,3 @@
-#format rst
-## page was renamed from Eventos/Reuniones/Reunion25
 
 Reunión 25 - 16/02/2008 - Centro Allen Gardiner, Los Cocos, Córdoba
 ===================================================================
