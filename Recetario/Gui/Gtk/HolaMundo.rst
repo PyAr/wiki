@@ -1,12 +1,10 @@
-#format rst
-## page was renamed from Recetario/Gtk/HolaMundo
 
 GtkHolaMundo
 ------------
 
 Crea y muestra una ventana que muestra el famoso mensaje hola mundo.
 
-`attachment:Hola mundo.png`_
+`Hola mundo.png </wiki/Recetario/Gui/Gtk/HolaMundo/attachment/582/Hola%20mundo.png>`_
 
 ::
 
