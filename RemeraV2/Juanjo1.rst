@@ -1,16 +1,15 @@
-#format rst
 
 Intento 01 de Juanjo
 ====================
 
 Simple, como Python.
 
-`attachment:Juanjo1-1.jpg`_
+`Juanjo1-1.jpg </wiki/RemeraV2/Juanjo1/attachment/545/Juanjo1-1.jpg>`_
 
 Fuente
 ------
 
-`attachment:Juanjo1-1SVG.svg`_Juanjo-1-1`attachment:None`_
+
 
 Comentarios
 ===========
