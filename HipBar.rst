@@ -1,4 +1,3 @@
-#format rst
 
 Hip Bar es donde solemos hacer las reuniones de PyAr_ en Capital Federal, hasta que a alguien se le ocurra algún lugar mejor o el *hacklab* este disponible.
 
@@ -30,5 +29,4 @@ Fotos
 
 .. ############################################################################
 
-.. _PyAr: ../PyAr
 
