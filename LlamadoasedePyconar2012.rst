@@ -1,4 +1,3 @@
-#format rst
 
 Llamado a sede para pyconar 2012
 
