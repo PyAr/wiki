@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Mauricio Ferrari
 ----------------
@@ -21,5 +19,4 @@ Email: `[[MailTo(mautuc AT SPAMFREE yahoo DOT com DOT ar)]]`_
 
 .. ############################################################################
 
-.. _CategoryHomepage: ../CategoryHomepage
 
