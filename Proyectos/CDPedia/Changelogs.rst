@@ -1,4 +1,3 @@
-#format rst
 
 Para la 0.8
 ~~~~~~~~~~~
