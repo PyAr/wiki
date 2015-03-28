@@ -1,4 +1,3 @@
-#format rst
 
 Python 3000 = Py3K = 3.x
 ------------------------
@@ -219,7 +218,5 @@ Pero en 3.0 no lo tenés. Por eso digo que 3.0 no es para producción, sino para
 
 .. _"Whats New 3.0": http://docs.python.org/dev/3.0/whatsnew/3.0.html
 
-.. _NotImplemented: ../NotImplemented
 
-.. _FacundoBatista: ../FacundoBatista
 
