@@ -1,6 +1,3 @@
-#format rst
-#acl AdminGroup:admin,read,write,delete,revert ReadWriteGroup:read,write All:read
-#language es
 
 .. ||<tablestyle="width:100%; color: red; text-align:center;"> {*} ~+'' HOY, miércoles 5 de marzo, 26^a^ reunión de PyAr, en Bs.As. Más detalles [wiki:Eventos/Reuniones/ProximaReunion aquí].''+~ ||
 
@@ -82,39 +79,21 @@ Contenido
 .. _Python: http://python.org
 
 .. _Noticias:
-.. _Ver Noticias Antiguas: ../Noticias
 
-.. _PyAr: ../PyAr
 
-.. _Eventos: ../Eventos
 
-.. _ListaDeCorreo: ../ListaDeCorreo
 
-.. _Proyectos: ../Proyectos
 
-.. _Recursos: ../Recursos
 
-.. _Charlas: ../Charlas
 
-.. _AprendiendoPython: ../AprendiendoPython
 
-.. _TareasPendientes: ../TareasPendientes
 
-.. _PreguntasFrecuentes: ../PreguntasFrecuentes
 
-.. _Recetario: ../Recetario
 
-.. _Material: ../Material
 
-.. _Trabajos: ../Trabajos
 
-.. _Donaciones: ../Donaciones
 
-.. _AdoptaUnNewbie: ../AdoptaUnNewbie
 
-.. _SciPyar: ../SciPyar
 
-.. _aquí: ../Sugerencias
 
-.. _CategoryCategory: ../CategoryCategory
 
