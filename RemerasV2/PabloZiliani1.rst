@@ -1,24 +1,31 @@
-~- Volver a RemerasV2 -~
+#format rst
 
-== Una remera con solpiente ==
+:small:`Volver a` RemerasV2_ 
 
-Dos versiones, una idea: mantener la identidad reusando la serpiente-sol que tenemos en la bandera.
-Uso solamente un color.
-Si alguna palabra no la entienden, revisen los archivos de la lista (o busquen en Gúgl)...
+Una remera con solpiente
+------------------------
 
-Apoyemos a la solpiente, derivemos arte de [[attachment:remera1.svg|este]] archivo.
-(nota: la tipografía usada en el svg es ligéramente diferente de las imágenes que se muestran, la tuve que modificar para cumplir con las reglas del concurso).
+Dos versiones, una idea: mantener la identidad reusando la serpiente-sol que tenemos en la bandera. Uso solamente un color. Si alguna palabra no la entienden, revisen los archivos de la lista (o busquen en Gúgl)...
 
-=== Subversión uno ===
+Apoyemos a la solpiente, derivemos arte de `attachment:remera1.svg`_este`attachment:None`_ archivo. (nota: la tipografía usada en el svg es ligéramente diferente de las imágenes que se muestran, la tuve que modificar para cumplir con las reglas del concurso).
 
-{{attachment:1a.png}}
+Subversión uno
+~~~~~~~~~~~~~~
 
-=== Subversión dos (con infograsada) ===
-{{attachment:1b.png}}
+`attachment:1a.png`_
 
-== Archivo ==
-[[attachment:remera1.svg]]
+Subversión dos (con infograsada)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-== Comentarios ==
+`attachment:1b.png`_
+
+Archivo
+-------
+
+`attachment:remera1.svg`_remera1.svg`attachment:None`_
+
+Comentarios
+-----------
 
 * [quien?] (placeholder)
+
