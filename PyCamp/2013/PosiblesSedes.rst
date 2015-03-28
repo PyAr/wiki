@@ -1,4 +1,3 @@
-#format rst
 
 Posibles sedes
 ==============
@@ -411,4 +410,9 @@ Villa Maristas Mar del Plata
 .. _Mar del Plata: http://es.wikipedia.org/wiki/Mar_del_Plata
 
 .. _Videos: http://villamaristamdp.blogspot.com.ar/2009_07_01_archive.html
+
+
+
+.. role:: strike
+   :class: strike
 
