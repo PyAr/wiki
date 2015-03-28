@@ -1,5 +1,3 @@
-#format rst
-## page was renamed from Eventos/Reuniones/Reunion27
 
 Reunión 27 - 07/05/2008 19hs - Bar "El Clásico", Buenos Aires
 =============================================================
