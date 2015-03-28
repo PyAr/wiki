@@ -1,4 +1,3 @@
-#format rst
 
 Nicolás Demarchi
 ----------------
@@ -17,7 +16,6 @@ También estoy participando con pequeños aportes a la formación de la asociaci
 
 .. ############################################################################
 
-.. _PyAr: ../PyAr
 
 .. _Trabajo: http://gilgamezh.me/dp/pagina-basica/resume_43
 
