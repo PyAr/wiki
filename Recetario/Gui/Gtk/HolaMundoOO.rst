@@ -1,12 +1,10 @@
-#format rst
-## page was renamed from Recetario/Gtk/HolaMundoOO
 
 GtkHolaMundoOO
 --------------
 
 ejemplo que hace lo mismo que GtkHolaMundo_ pero orientado a objetos
 
-`attachment:Hola mundo oo.png`_
+`Hola mundo oo.png </wiki/Recetario/Gui/Gtk/HolaMundoOO/attachment/575/Hola%20mundo%20oo.png>`_
 
 ::
 
