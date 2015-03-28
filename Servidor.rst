@@ -1,4 +1,3 @@
-#format rst
 
 Migración a Debian Wheezy
 =========================
