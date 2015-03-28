@@ -1,17 +1,31 @@
-= TheMostBiggestGamestInTheWorldst =
+#format rst
 
-== TODO ==
-  * dns *.worldst.com.ar -> pagina en google appengine
-  * escribir pitch
-  * pagina html con texto de pitch
-  * appengine con esa pagina html
-  * crear cuentas en redes sociales y link de subscripcion en el html
-     * tweeter
-     * facebook
-     * identica
-  * propaganda
+TheMostBiggestGamestInTheWorldst
+================================
 
-== Pitch ==
+TODO
+----
+
+* dns *.worldst.com.ar -> pagina en google appengine
+
+* escribir pitch
+
+* pagina html con texto de pitch
+
+* appengine con esa pagina html
+
+* crear cuentas en redes sociales y link de subscripcion en el html
+
+  * tweeter
+
+  * facebook
+
+  * identica
+
+* propaganda
+
+Pitch
+-----
 
 *Lets make the most biggest gamest in the worldst!*
 
@@ -24,3 +38,4 @@ You can type? You can participate! For each level of knowledge, there's a way to
 If you want to know more, follow us on twitter, facebook, identi.ca and more! (add links)
 
 get ready, we start on the end of march, we will post a definite date later this month.
+
