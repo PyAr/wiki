@@ -1,4 +1,3 @@
-#format rst
 
 Foto by Mail
 ============
@@ -11,5 +10,5 @@ Nada del otro mundo, pero lo subo porque está un poco relacionado con lo que va
 
 Saludos.
 
-`attachment:foto_by_mail.py`_foto_by_mail.py`attachment:None`_
+
 
