@@ -1,12 +1,10 @@
-#format rst
-## page was renamed from Recetario/Gtk/VBox
 
 GtkVBox
 -------
 
 ejemplo que muestra el uso de vbox (cajas verticales) para ordenar elementos de forma vertical
 
-`attachment:vbox.png`_
+`vbox.png </wiki/Recetario/Gui/Gtk/VBox/attachment/574/vbox.png>`_
 
 ::
 
