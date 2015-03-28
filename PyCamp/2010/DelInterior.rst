@@ -1,4 +1,3 @@
-#format rst
 
 Que cada uno vaya posteando la info para ver cómo nos podemos reunir y dónde:
 
