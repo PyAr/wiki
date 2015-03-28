@@ -1,4 +1,3 @@
-#format rst
 
 Reunión 51  - Jueves 26 de Enero - Ciudad de Buenos Aires, en el bar de la esquina de Medrano y Guardia Vieja - 19hs
 ====================================================================================================================
