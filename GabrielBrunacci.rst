@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Gabriel Brunacci
 ----------------
@@ -20,5 +18,4 @@ Saludos!
 
 .. ############################################################################
 
-.. _ParaHacerPaginas: ../ParaHacerPaginas
 
