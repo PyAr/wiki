@@ -1,21 +1,20 @@
-#format rst
 
 Intento 03 de Cesar Roldan
 --------------------------
 
 Con las sugerencias de FacundoBatista_ en la `RemerasV2/CesarRoldan2`_ y otras cosas ;-).
 
-`attachment:remeraCesar3.png`_
+`remeraCesar3.png </wiki/RemerasV2/CesarRoldan3/attachment/218/remeraCesar3.png>`_
 
 **Diseño:**
 
-`attachment:remeraCesar3.svg`_remeraCesar3.svg`attachment:None`_
+
 
 Casos reales y mas colores !!
 
-`attachment:remeraCesar3remera.png`_
+`remeraCesar3remera.png </wiki/RemerasV2/CesarRoldan3/attachment/222/remeraCesar3remera.png>`_
 
-`attachment:remera3CesarAzul.png`_ `attachment:remera3CesarNegra.png`_
+
 
 Comentarios
 -----------
@@ -24,5 +23,4 @@ Comentarios
 
 .. ############################################################################
 
-.. _RemerasV2/CesarRoldan2: ../CesarRoldan2
 
