@@ -1,4 +1,3 @@
-#format rst
 
 Interesados en asistir a PyCamp 2010
 ====================================
