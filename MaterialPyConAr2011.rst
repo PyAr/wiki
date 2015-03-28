@@ -1,4 +1,3 @@
-#format rst
 
 Material de difusión Pyconar 2011
 =================================
