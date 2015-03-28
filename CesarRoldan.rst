@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Cesar Roldan
 ------------
@@ -14,5 +12,4 @@ Email: `[[MailTo(croldan AT SPAMFREE gmail DOT com)]]`_
 
 .. ############################################################################
 
-.. _CategoryHomepage: ../CategoryHomepage
 
