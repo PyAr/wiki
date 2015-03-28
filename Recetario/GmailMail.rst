@@ -1,4 +1,3 @@
-#format rst
 
 GmailMail
 ---------
@@ -195,4 +194,9 @@ Referencias (que recuerdo):
 
 
   CategoryRecetas_
+
+
+
+.. role:: small
+   :class: small
 
