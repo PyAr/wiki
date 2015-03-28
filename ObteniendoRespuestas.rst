@@ -1,4 +1,3 @@
-#format rst
 
 Obteniendo Respuestas
 =====================
@@ -338,7 +337,6 @@ Preguntas, comentarios, u otro feedback? Envía un e-mail al autor: `[[MailTo(mi
 
 .. ############################################################################
 
-.. _Juan Pedro Fisanotti: ../JuanFisanotti
 
 .. _en el post del blog: http://www.mikeash.com/blog/pivot/entry.php?id=21
 
