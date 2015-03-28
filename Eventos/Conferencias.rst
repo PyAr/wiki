@@ -1,44 +1,94 @@
-== Conferencias ==
+#format rst
 
- * [[/PyConAr2013| PyCon Argentina 2013]], a realizarse los días 24 y 25 de octubre de 2013 en Rosario.
+Conferencias
+------------
 
- * [[http://ar.pycon.org/2012| PyCon Argentina 2012]], a realizarse entre el 12 y 17 de Noviembre de 2012 en Buenos Aires (Bernal -Quilmes- y Capital Federal)
- 
- * [[/PyDayRafaela2012 | PyDay Rafaela 2012]], jornada realizada el 19 y 20 de Octubre de 2012 en Rafaela (Santa Fe).
+* `PyCon Argentina 2013`_, a realizarse los días 24 y 25 de octubre de 2013 en Rosario.
 
- * [[http://pyday.com.ar/cordoba2012/ | PyDay Córdoba 2012]]
+* `PyCon Argentina 2012`_, a realizarse entre el 12 y 17 de Noviembre de 2012 en Buenos Aires (Bernal -Quilmes- y Capital Federal)
 
- * [[http://pyday.com.ar/lujan2012/ | PyDay Luján 2012]]
+* `PyDay Rafaela 2012`_, jornada realizada el 19 y 20 de Octubre de 2012 en Rafaela (Santa Fe).
 
- * [[http://ar.pycon.org/2011/conference/venue| PyCon Argentina 2011]], realizada el 23 y 24 de Septiembre de 2011 en la ciudad de Junín ( Buenos Aires ).
+* `PyDay Córdoba 2012`_
 
- * [[http://www.pyday.com.ar/sanluis2011/ | PyDay San Luis 2011]], realizada el 20 de Agosto de 2011 en la ciudad de San Luis.
+* `PyDay Luján 2012`_
 
- * [[http://pyday.com.ar/catan2011/ | PyDay González Catán 2011]]
+* `PyCon Argentina 2011`_, realizada el 23 y 24 de Septiembre de 2011 en la ciudad de Junín ( Buenos Aires ).
 
- * [[http://pyday.com.ar/cordoba2011/ | PyDay Córdoba 2011]]
+* `PyDay San Luis 2011`_, realizada el 20 de Agosto de 2011 en la ciudad de San Luis.
 
- * [[http://ar.pycon.org/2010/about/| PyCon Argentina 2010]], realizada el 15 y 16 de octubre de 2010 en la ciudad de Córdoba.
+* `PyDay González Catán 2011`_
 
- * [[CharlasAbiertas2010| Ciclo de Charlas Abiertas de Python Argentina en La Tribu]], realizadas durante el 2010, en [[http://www.fmlatribu.com/|La Tribu]].
+* `PyDay Córdoba 2011`_
 
- * [[/PyDayBuenosAires2010| Python Day Buenos Aires 2010]], realizada el 04 de Septiembre del 2010, en la Ciudad Autónoma de Buenos Aires.
+* `PyCon Argentina 2010`_, realizada el 15 y 16 de octubre de 2010 en la ciudad de Córdoba.
 
- * [[/PyDayRafaela2010| Python Day Rafaela 2010]], realizada el 08 de Mayo del 2010, en la ciudad de Rafaela, Santa Fe.
+* `Ciclo de Charlas Abiertas de Python Argentina en La Tribu`_, realizadas durante el 2010, en `La Tribu`_.
 
- * [[http://ar.pycon.org/2009/about/| PyCon Argentina 2009]], realizada 4 y 5 de Septiembre en la Universidad de Belgrano, Buenos Aires. Primer conferencia Python en castellano del mundo.
+* `Python Day Buenos Aires 2010`_, realizada el 04 de Septiembre del 2010, en la Ciudad Autónoma de Buenos Aires.
 
- * [[/2JornadaPythonStafe|2da Jornada de Python en Santa Fé]], el Sábado 9 de Junio de 2007 se realizó en la ciudad de Santa Fé. Contamos con la participación de gente de PyAr de Córdoba, Buenos Aires y Entre Ríos.
- 
- * [[/CaFeConf2006|CaFeCONF 2006]], el 10 y 11 de noviembre de 2006. Pudimos traer a Alex Martelli y Anna Ravenscroft. También hubo presentaciones de FacundoBatista, alecu y yaco. Por primera vez tuvimos un stand propio, y estrenamos la bandera.
+* `Python Day Rafaela 2010`_, realizada el 08 de Mayo del 2010, en la ciudad de Rafaela, Santa Fe.
 
- * [[http://www.cafeconf.org/|CaFeConf 2005]], el 12/10/2005. FacundoBatista tiene más info en 
- [[http://www.taniquetil.com.ar/plog/post/1/95|Bitácora de Vuelo]]. También dió un taller LucioTorre, sobre pyGame,
- y el proyecto desarrollado para ese taller fue el puntapié inicial de [[Proyectos/Caucho]].
+* `PyCon Argentina 2009`_, realizada 4 y 5 de Septiembre en la Universidad de Belgrano, Buenos Aires. Primer conferencia Python en castellano del mundo.
 
- * [[http://www.softlibre.org.ar/|Segundo Congreso Nacional de Software Libre - USUARIA 2005]].
+* `2da Jornada de Python en Santa Fé`_, el Sábado 9 de Junio de 2007 se realizó en la ciudad de Santa Fé. Contamos con la participación de gente de PyAr_ de Córdoba, Buenos Aires y Entre Ríos.
 
-== Documentación Relevante ==
+* `CaFeCONF 2006`_, el 10 y 11 de noviembre de 2006. Pudimos traer a Alex Martelli y Anna Ravenscroft. También hubo presentaciones de FacundoBatista_, alecu y yaco. Por primera vez tuvimos un stand propio, y estrenamos la bandera.
 
- * [[https://selpyconar2013.readthedocs.org|Selección de Sedes PyCon Argentina 2013]]
- * [[https://pyconar20012-postmortem.readthedocs.org|PostMortem PyCon Argentina 2012]]
+* `CaFeConf 2005`_, el 12/10/2005. FacundoBatista_ tiene más info en  `Bitácora de Vuelo`_. También dió un taller LucioTorre_, sobre pyGame, y el proyecto desarrollado para ese taller fue el puntapié inicial de `Proyectos/Caucho`_.
+
+* `Segundo Congreso Nacional de Software Libre - USUARIA 2005`_.
+
+Documentación Relevante
+-----------------------
+
+* `Selección de Sedes PyCon Argentina 2013`_
+
+* `PostMortem PyCon Argentina 2012`_
+
+.. ############################################################################
+
+.. _PyCon Argentina 2013: /PyConAr2013
+
+.. _PyCon Argentina 2012: http://ar.pycon.org/2012
+
+.. _PyDay Rafaela 2012: /PyDayRafaela2012
+
+.. _PyDay Córdoba 2012: http://pyday.com.ar/cordoba2012/
+
+.. _PyDay Luján 2012: http://pyday.com.ar/lujan2012/
+
+.. _PyCon Argentina 2011: http://ar.pycon.org/2011/conference/venue
+
+.. _PyDay San Luis 2011: http://www.pyday.com.ar/sanluis2011/
+
+.. _PyDay González Catán 2011: http://pyday.com.ar/catan2011/
+
+.. _PyDay Córdoba 2011: http://pyday.com.ar/cordoba2011/
+
+.. _PyCon Argentina 2010: http://ar.pycon.org/2010/about/
+
+.. _Ciclo de Charlas Abiertas de Python Argentina en La Tribu: CharlasAbiertas2010
+
+.. _La Tribu: http://www.fmlatribu.com/
+
+.. _Python Day Buenos Aires 2010: /PyDayBuenosAires2010
+
+.. _Python Day Rafaela 2010: /PyDayRafaela2010
+
+.. _PyCon Argentina 2009: http://ar.pycon.org/2009/about/
+
+.. _2da Jornada de Python en Santa Fé: /2JornadaPythonStafe
+
+.. _CaFeCONF 2006: /CaFeConf2006
+
+.. _CaFeConf 2005: http://www.cafeconf.org/
+
+.. _Bitácora de Vuelo: http://www.taniquetil.com.ar/plog/post/1/95
+
+.. _Segundo Congreso Nacional de Software Libre - USUARIA 2005: http://www.softlibre.org.ar/
+
+.. _Selección de Sedes PyCon Argentina 2013: https://selpyconar2013.readthedocs.org
+
+.. _PostMortem PyCon Argentina 2012: https://pyconar20012-postmortem.readthedocs.org
+
