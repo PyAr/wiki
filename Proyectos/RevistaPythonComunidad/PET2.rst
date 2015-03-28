@@ -1,4 +1,3 @@
-#format rst
 
 PET Deluxe / Edicion especial de PyCon 2010 Cordoba
 ===================================================
@@ -11,7 +10,7 @@ Diseños de tapas por acá:
 collage de manuq
 ~~~~~~~~~~~~~~~~
 
-* `attachment:tapa-manuq.jpg`_tapa-manuq.jpg`attachment:None`_
+* 
 
 * lo hice usando fotos de:
 
