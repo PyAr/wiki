@@ -1,10 +1,12 @@
-##master-page:HomepageTemplate
-#format wiki
-== Mariano Garcia ==
+#format rst
+## master-page:HomepageTemplate
 
-<<Twitter(usuario="elnassto")>>
+Mariano Garcia
+--------------
 
-Email: <<MailTo(garcia.berrotaran AT SPAMFREE gmail DOT com)>>
+`[[Twitter(usuario="elnassto")]]`_
 
-Vivo en Córdoba 
-Actualmente trabajo como Web Developer. En la oficina programo en PHP / Javascript / Java y en mi casa en Python.
+Email: `[[MailTo(garcia.berrotaran AT SPAMFREE gmail DOT com)]]`_
+
+Vivo en Córdoba  Actualmente trabajo como Web Developer. En la oficina programo en PHP / Javascript / Java y en mi casa en Python.
+
