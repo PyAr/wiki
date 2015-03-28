@@ -1,4 +1,3 @@
-#format rst
 
 Notas de prensa
 ===============
