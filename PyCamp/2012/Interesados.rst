@@ -1,4 +1,3 @@
-#format rst
 
 Interesados en asistir a PyCamp_ 2012 a realizarse durante los días Viernes 06, Sabado 07, Domingo 08 y Lunes 09 de Julio.
 
