@@ -1,5 +1,9 @@
-= Variables, valores y objetos =
+#format rst
 
-{{attachment:grafico1.png}}
+Variables, valores y objetos
+============================
 
-[[attachment:grafico1.svg]] formato svg
+`attachment:grafico1.png`_
+
+`attachment:grafico1.svg`_grafico1.svg`attachment:None`_ formato svg
+
