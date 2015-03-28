@@ -1,8 +1,7 @@
-#format rst
 
 La solpiente adelante.
 
-`attachment:pyar2.png`_
+`pyar2.png </wiki/RemerasV3/LeonardoVidarte2/attachment/225/pyar2.png>`_
 
-`attachment:pyar2.svg`_pyar2.svg`attachment:None`_
+
 
