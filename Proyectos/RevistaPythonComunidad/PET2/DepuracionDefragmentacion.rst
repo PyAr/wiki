@@ -1,4 +1,3 @@
-#format rst
 
 Página del articulo Depuración y defragmentación de memoria de la PET2
 ======================================================================
