@@ -1,4 +1,3 @@
-#format rst
 
 Logistica durante el evento
 ---------------------------
