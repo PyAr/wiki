@@ -1,48 +1,87 @@
-= Charlas Abiertas de Python en La Tribu =
+#format rst
+
+Charlas Abiertas de Python en La Tribu
+======================================
+
 Python Argentina y Colectivo La Tribu se enorgullecen en presentar el Ciclo 2010 de Charlas Abiertas de Python.
 
 Distribuidas a lo largo de varios sábados del segundo semestre del año, cubren temas desde lo más principiante a temas muy avanzados, cerrando incluso con un taller.
 
-Por favor ayuden con la difusión! Si quieren pueden imprimir [[attachment:CharlasAbiertasPythonLaTribu2010.pdf|este folleto]] y pegarlo en vuestros lugares de trabajo y/o estudio.
+Por favor ayuden con la difusión! Si quieren pueden imprimir `attachment:CharlasAbiertasPythonLaTribu2010.pdf`_este folleto`attachment:None`_ y pegarlo en vuestros lugares de trabajo y/o estudio.
 
-<<TableOfContents>>
+.. contents::
 
-== Datos del evento ==
+Datos del evento
+----------------
+
 Las charlas serán dadas en La Tribu, Lambaré 873, Ciudad de Buenos Aires, Argentina.
 
 La entrada es libre y gratuita. Se pasará una gorra voluntaria durante los cursos para hacer frente a viáticos y gastos generales.
 
 No hace falta registrarse, pero vení temprano para asegurarte un lugar porque los cupos son limitados.
 
+Charlas Realizadas
+------------------
 
-== Charlas Realizadas ==
+* `Introducción a la Programación`_
 
- * '''[[/IntroducciónALaProgramación |Introducción a la Programación]]'''
+* `Introducción a Python`_
 
- * '''[[/IntroducciónAPython | Introducción a Python]]'''
+* `Introducción al Desarrollo Web I`_
 
- * '''[[/IntroducciónAlDesarrolloWebI |Introducción al Desarrollo Web I]]'''
- 
- * '''[[/IntroducciónAlDesarrolloWebII| Introducción al Desarrollo Web II]]'''
+* `Introducción al Desarrollo Web II`_
 
- * '''[[/FooBar |!FooBar (virtualenv, buildout, nose)]]'''
- 
- * '''[[/Django | Django]]'''
+* `!FooBar (virtualenv, buildout, nose)`_
 
- * '''[[/IntroducciónGUI_I |Introducción a las Interfaces Gráficas de Escritorio I]]'''
- 
- * '''[[/IntroducciónGUI_II |Introducción a las Interfaces Gráficas de Escritorio II]]'''
- 
- * '''[[/wxPython| wxPython]]'''
+* Django_
 
- * '''[[/IntroducciónAPlone | Introducción al uso y desarrollo con Plone]]'''
+* `Introducción a las Interfaces Gráficas de Escritorio I`_
 
- * '''[[/OptimizandoPython | Optimizando Python]]'''
+* `Introducción a las Interfaces Gráficas de Escritorio II`_
 
- * '''[[/PyQt | PyQt]]'''
+* wxPython_
 
- * '''[[/Python3000 | Python3000]]'''
- 
- * '''[[/Twisted | Twisted]]'''
+* `Introducción al uso y desarrollo con Plone`_
 
- * '''[[/TallerJuegos | Taller de Programación de Juegos]]'''
+* `Optimizando Python`_
+
+* PyQt_
+
+* Python3000_
+
+* Twisted_
+
+* `Taller de Programación de Juegos`_
+
+.. ############################################################################
+
+.. _Introducción a la Programación: /IntroducciónALaProgramación
+
+.. _Introducción a Python: /IntroducciónAPython
+
+.. _Introducción al Desarrollo Web I: /IntroducciónAlDesarrolloWebI
+
+.. _Introducción al Desarrollo Web II: /IntroducciónAlDesarrolloWebII
+
+.. _!FooBar (virtualenv, buildout, nose): /FooBar
+
+.. _Django: /Django
+
+.. _Introducción a las Interfaces Gráficas de Escritorio I: /IntroducciónGUI_I
+
+.. _Introducción a las Interfaces Gráficas de Escritorio II: /IntroducciónGUI_II
+
+.. _wxPython: /wxPython
+
+.. _Introducción al uso y desarrollo con Plone: /IntroducciónAPlone
+
+.. _Optimizando Python: /OptimizandoPython
+
+.. _PyQt: /PyQt
+
+.. _Python3000: /Python3000
+
+.. _Twisted: /Twisted
+
+.. _Taller de Programación de Juegos: /TallerJuegos
+
