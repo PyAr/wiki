@@ -1,10 +1,15 @@
-= !FooBar (virtualenv, buildout, nose) =
-''Esta charla muestra como utilizar herramientas para producir entornos reproducibles de desarrollo, de manera que tus aplicaciones funcionen en cualquier sistema en el que desees instalarlo. ''
+#format rst
 
-''Adicionalmente, se verá la relación con testing mediante nose.''
+!FooBar (virtualenv, buildout, nose)
+====================================
 
- * Disertante: Roberto Alsina
+*Esta charla muestra como utilizar herramientas para producir entornos reproducibles de desarrollo, de manera que tus aplicaciones funcionen en cualquier sistema en el que desees instalarlo.* 
 
- * 13 a 15 horas
+*Adicionalmente, se verá la relación con testing mediante nose.*
 
-<<Video("http://pyar.usla.org.ar/charlasabiertas2010/foobar.ogg")>>
+* Disertante: Roberto Alsina
+
+* 13 a 15 horas
+
+`[[Video("http://pyar.usla.org.ar/charlasabiertas2010/foobar.ogg")]]`_
+
