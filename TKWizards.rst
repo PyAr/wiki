@@ -1,4 +1,3 @@
-#format rst
 
 TK Wizards
 ==========
@@ -11,7 +10,7 @@ Las paginas pueden contener cualquier widget, en este ejemplo solo se usa 1 labe
 
 **Screenshot:**
 
-  `attachment:temp.jpg`_
+  `temp.jpg </wiki/TKWizards/attachment/36/temp.jpg>`_
 
 ::
 
