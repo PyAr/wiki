@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Guillermo Freschi
 -----------------
@@ -14,5 +12,4 @@ Y... nada...
 
 .. ############################################################################
 
-.. _CategoryHomepage: ../CategoryHomepage
 
