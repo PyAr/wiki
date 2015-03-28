@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Martín Chikilian
 ----------------
@@ -18,5 +16,4 @@ Me gusta Python, Django, Linux y el Open Source en general.
 
 .. ############################################################################
 
-.. _CategoryHomepage: ../CategoryHomepage
 
