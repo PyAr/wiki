@@ -1,5 +1,3 @@
-#format rst
-## page was renamed from Recetario/Gtk/StatusIcon
 
 GtkStatusIcon
 -------------
@@ -8,7 +6,7 @@ Aplicación con ícono en el area de notificaciones.
 
 Tiene un menú contextual (About/Quit) y con el botón izquierdo abre una ventana simple.
 
-`attachment:trayapp.png`_
+`trayapp.png </wiki/Recetario/Gui/Gtk/StatusIcon/attachment/589/trayapp.png>`_
 
 ::
 
