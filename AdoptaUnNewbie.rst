@@ -1,4 +1,3 @@
-#format rst
 
 Adopta Un Newbie
 ================
@@ -155,34 +154,31 @@ Adopciones Finalizadas
 
 .. ############################################################################
 
-.. _MartinAlderete: ../MartinAlderete
 
-.. _ManuelNaranjo: ../ManuelNaranjo
 
-.. _FacundoBatista: ../FacundoBatista
 
 .. _acá: http://www.taniquetil.com.ar/plog/post/1/507
 
 .. _Mariano Guerra:
-.. _MarianoGuerra: ../MarianoGuerra
 
-.. _JuanFisanotti: ../JuanFisanotti
 
-.. _HoracioDuran: ../HoracioDuran
 
-.. _Mauricio José Tobares: ../Mauricio José Tobares
 
-.. _Martín Volpe: ../MartinVolpe
 
-.. _malev: ../MarcosVanetta
 
-.. _EzequielMarquez: ../EzequielMarquez
 
 .. _Rafael E. Ferrero: mailto:rafael.ferrero@gmail.com
 
-.. _David Litvak: ../DavidLitvak
 
-.. _Anna Massone: ../AnaMassone
 
-.. _Diego Ahumada: ../DiegoAhumada
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: strike
+   :class: strike
 
