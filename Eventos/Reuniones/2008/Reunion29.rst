@@ -1,23 +1,36 @@
+#format rst
 ## page was renamed from Eventos/Reuniones/2011/Reunion29
-## page was renamed from Eventos/Reuniones/Reunion29
-= Reunión 29 - 09/05/08 - Bar "Plataforma", Santa Fe =
 
-== Asistentes ==
+Reunión 29 - 09/05/08 - Bar "Plataforma", Santa Fe
+==================================================
+
+Asistentes
+----------
 
 (por orden alfabético)
 
- * César E. Portela
- * Daniel A. Mendoza
- * Diego Levental
- * Guillermo Heizenreder
- * Juan M. González
- * Manuel Kaufmann
- * Mariano N. Galán
- * Matías Gieco
- * Nicolás César
- * Pedro E. Prez
+* César E. Portela
 
-== Temas tratados ==
+* Daniel A. Mendoza
+
+* Diego Levental
+
+* Guillermo Heizenreder
+
+* Juan M. González
+
+* Manuel Kaufmann
+
+* Mariano N. Galán
+
+* Matías Gieco
+
+* Nicolás César
+
+* Pedro E. Prez
+
+Temas tratados
+--------------
 
 A pesar de algunas ausencias de última hora, tuvimos algunos asistentes no anunciados previamente y conservamos un cómodo número de 10 personas. Es un número perfecto para, entre otras cosas, dividir los gastos al final de la reunión. Pero no anticipemos el fin y comencemos por el principio.
 
@@ -36,3 +49,4 @@ Se habló de organizar la III Jornada Python en Santa Fe. En forma superficial s
 Manuel, recién llegado de la reunión en Buenos Aires, nos contó sobre los problemas para conseguir una pieza para los discos SCSI y que finalmente no se hiciera el sprint de instalación en Buenos Aires. Nicolás, curioso por el hardware de la OLPC, pidió detalles técnicos y propuso algunas formas para transformarla en un pisapapeles (respiren tranquilos, no lo logró).
 
 Hacia el final de la reunión Diego sacó el merchandising enviado por Facundo (¡gracias Facundo!) y dejando para futuras reuniones 1 bolso, 2 remeras y una revista; después del sorteo, realizado con la misma modalidad del cierre de la II Jornada Python (crear una lista con los nombres de los asistentes, desordenarla y extraer de a uno), dimos por finalizada la reunión. 
+
