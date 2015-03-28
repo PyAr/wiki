@@ -1,4 +1,3 @@
-#format rst
 
 Django Launch Party, (Buenos Aires ?)
 =====================================
