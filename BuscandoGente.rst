@@ -1,4 +1,3 @@
-#format rst
 
 Página de prueba, por favor no borrar!!
 =======================================
@@ -43,7 +42,6 @@ Plantilla
 
 .. ############################################################################
 
-.. _PyAr: ../PyAr
 
 .. _Computational Biology: http://www.ploscompbiol.org
 
