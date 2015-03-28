@@ -1,116 +1,224 @@
-= Tareas Pendientes =
+#format rst
+
+Tareas Pendientes
+=================
 
 Para más info ver: http://wiki.python.org/moin/ConventionHowto
 
-== Documentación ==
+Documentación
+-------------
 
- * --(Escribir [[PyConArgentina/2012/LlamadoSponsors]])-- [MarianoReingart]
- * --(Escribir [[PyConArgentina/2012/LlamadoPropuestas]])-- [MarianoReingart]
- * Escribir [[PyConArgentina/2012/DocumentoFormal]] para UNQ: pedido de autorización de aulas, mesas, sillas, cableado, energía, solicitud de colaboración para registración, traducción, filmación, etc. [SebastianBassi]
- * --(Escribir [[PyConArgentina/2012/PressRelease]])--
- * --(Escribir [[PyConArgentina/2012/InvitacionAlPublico]])--
- * Escribir [[PyConArgentina/2012/Memoria]] y [[PyConArgentina/2012/Balance]] [nadia] (post-conferencia!)
+* :strike:`Escribir` `PyConArgentina/2012/LlamadoSponsors`_ [MarianoReingart_]
 
-== Difusión ==
+* :strike:`Escribir` `PyConArgentina/2012/LlamadoPropuestas`_ [MarianoReingart_]
 
- * --(Difundir [[PyConArgentina/2012/LlamadoSponsors]], [[PyConArgentina/2012/LlamadoPropuestas]], etc. !!!!! )--
- * --(Difundir [[PyConArgentina/2012/PressRelease]])--
- * --(Anunciar keynotes)--
- * Armar AnuncioPublicitario gráfico y/o radial?
- * --(Crear Flyers / Panfletos para pegar cada un mes y medio en las facultades de Buenos Aires e Interior!)--
- * --(Anunciar Tutoriales)--
- * --(Difundir [[PyConArgentina/2012/InvitacionAlPublico]])-- [ro]
- * Enviar recordatorios y --(notificaciones)--
- * --(Anunciar Fiestas y Eventos Sociales (entrada en el blog))-- [ro]
+* Escribir `PyConArgentina/2012/DocumentoFormal`_ para UNQ: pedido de autorización de aulas, mesas, sillas, cableado, energía, solicitud de colaboración para registración, traducción, filmación, etc. [SebastianBassi_]
 
-== Contenidos Web ==
+* :strike:`Escribir` `PyConArgentina/2012/PressRelease`_
 
- * --(Terminar página http://ar.pycon.org/2012/conference/publicize?lang=es (traducir de http://ar.pycon.org/2012/conference/publicize?lang=en) )--
- * --(Traducir http://ar.pycon.org/2012/conference/proposals?lang=en (al ingles) )--
- * --(Traducir http://ar.pycon.org/2012/conference/diversity?lang=es (al español) )--
- * --(Crear página http://ar.pycon.org/2012/conference/registration?lang=es (traducir de http://ar.pycon.org/2012/conference/registration?lang=en) )--
- * --(Crear página http://ar.pycon.org/2012/conference/volunteer?lang=es )-- [MarianoReingart] 
- * --( Crear página http://ar.pycon.org/2012/conference/press )--  [orfi]
+* :strike:`Escribir` `PyConArgentina/2012/InvitacionAlPublico`_
 
+* Escribir `PyConArgentina/2012/Memoria`_ y `PyConArgentina/2012/Balance`_ [nadia] (post-conferencia!)
 
-== Revisión y Selección de Charlas ==
+Difusión
+--------
 
- * --(Hacer el llamado a revisores para formar el comité de programa )--
- * --(Hacer el llamado a votación del público (preferencias no vinculantes) )--
- * --(Pre-seleccinar charlas)--
- * --(Reunir por IRC del comité de programa)--
- * --(Definir charlas y enviar notificaciones)--
- * --(Armar Cronograma)--
- * --(Definir Paneles (Summit) )-- suspendido por el momento
+* :strike:`Difundir` `PyConArgentina/2012/LlamadoSponsors`_:strike:`,` `PyConArgentina/2012/LlamadoPropuestas`_:strike:`, etc. !!!!!` 
 
-== Sitio Web ==
+* :strike:`Difundir` `PyConArgentina/2012/PressRelease`_
 
- * --(Corregir temas envio de propuesta)-- [MarianoReingart]
- * Armar Twitteador!!
- * --(Aplicar últimas correcciones menu y demás)-- [MarianoReingart]
- * --(Ajustar notificaciones (incluir url del comentario, actividad, etc.) )--
- * --(Preparar Integración con DineroMail (bono contribución) )-- [AlanEtkin] 
- * --(Probar generación de PDF (badge y certificados) )--
- * --(Mejorar Schedule (Cronograma), hacer una tabla como [[https://us.pycon.org/2012/schedule/|PyCon US]])-- [AlanEtkin]
- * --(Integrar con Google Calendar / iCal)--
+* :strike:`Anunciar keynotes`
 
-== Gráfica ==
+* Armar AnuncioPublicitario_ gráfico y/o radial?
 
- * --(Diseñar Logo y CSS para web)-- 
- * --(Diseñar logo light)-- [JuanBC]
- * --(Diseñar banner web)-- [JuanBC]
- * --(Diseñar Afiche)-- [JuanBC] y [MarianoReingart]
- * --(Diseñar Folletos para repartir)-- [JuanBC] y [MarianoReingart]
- * --(Diseñar Badge)-- [JuanBC]
- * --(Diseñar Certificado)-- [JuanBC]
- * --(Diseñar Estandartes)-- [JuanBC]?
- * Diseñar Cartelería en general (aulas, registración, etc.)
- * --(Diseñar Remeras (organizadores y público) )-- [JuanBC]
- * --(Diseñar regalo al público)-- [JuanBC]
- * Diseñar Invitación a fiestas after y cierre (pulseritas?)
+* :strike:`Crear Flyers / Panfletos para pegar cada un mes y medio en las facultades de Buenos Aires e Interior!`
 
-== Impresiones, Materiales y Regalos ==
+* :strike:`Anunciar Tutoriales`
 
- * --(Preparar la Guia de Programa [MarianoReingart/yo mendieta/imprenta]
- * --(Editar la PET)-- [JuanBC]
- * Imprimir Programas!)-- --(conseguir imprenta "flexible"...)--
- * --(Imprimir PETs!)-- --(conseguir imprenta "flexible"...)--
- * --(Definir y Comprar Regalo a disertantes)-- terminados y empaquetados [JuanBC]
- * --(Definir y Comprar Bolsas o Carpetas)-- resuelto con sponsor
- * Definir y Comprar Identificadores 
- * Definir y comprar Colgante (con llavero?)
- * --(Definir y Comprar "Recuerdo" Público General)--
- * --(Hacer merchandising (stickers, pines, etc.) )-- [JuanBC]
+* :strike:`Difundir` `PyConArgentina/2012/InvitacionAlPublico`_ [ro]
 
-== Logistica ==
+* Enviar recordatorios y :strike:`notificaciones`
 
- * --(Negociar con hoteles locales)-- [gabriela unq]
- * --(Reservar lugar para invitados internacionales)-- [gabriela unq]
- * --(Contratar remis/combi para invitados internacionales (Bue<->UNQ) )-- [ro]
- * Nogociar transporte grupal local Bue->UNQ (combis?, micros escolares?)
- * Coordinar [[PyConArgentina/2012/AlojamientoCompartido]] y [[PyConArgentina/2012/TransporteCompartido]]
+* :strike:`Anunciar Fiestas y Eventos Sociales (entrada en el blog)` [ro]
 
-== Acreditación ==
+Contenidos Web
+--------------
 
- * Armar bolsas / carpetas con programa, PET, merchandizing, etc.
- * Armar stand de acreditación
- * Reunir [[PyConArgentina/2012/EncargadosAcreditacion]] 
- * Instalar PC para seguimiento de asistentes
- * Distribuir Credenciales y materiales!
- * Entregar Remeras y Bolsas!
+* :strike:`Terminar página` http://ar.pycon.org/2012/conference/publicize?lang=es :strike:`(traducir de` http://ar.pycon.org/2012/conference/publicize?lang=en:strike:`)` 
 
-== Aulas ==
+* :strike:`Traducir` http://ar.pycon.org/2012/conference/proposals?lang=en :strike:`(al ingles)` 
 
- * Conseguir LCD / Proyectores de Backup
- * Armar Carteles para tiempos (10, 5, 1 minutos, Fin!)
- * Reunir [[PyConArgentina/2012/EncargadosAula]]
- * Probar Notebooks Disertantes con proyector
- * Coordinar [[PyConArgentina/2012/EncargadosAula]]
- * Proyectar videos/slides en intervalos (sponsors, info sobre python, etc.)
- * Grabar audio+video de cada charla ¡?
+* :strike:`Traducir` http://ar.pycon.org/2012/conference/diversity?lang=es :strike:`(al español)` 
 
-== Fiestas y Social ==
+* :strike:`Crear página` http://ar.pycon.org/2012/conference/registration?lang=es :strike:`(traducir de` http://ar.pycon.org/2012/conference/registration?lang=en:strike:`)` 
 
- * --(PyCon After Party: definir empresa de Catering y contratar!)-- [romina]
- * --(PyCon Fiesta de Cierre: Reservar lugar, averiguar presupuestos, contratar!)-- [romina]
- * --(Definir y organizar picnic y actividades recreativas día turístico (asado en el tigre?) )-- [gabriela/emilio unq]
+* :strike:`Crear página` http://ar.pycon.org/2012/conference/volunteer?lang=es  [MarianoReingart_] 
+
+*  :strike:`Crear página` http://ar.pycon.org/2012/conference/press   [orfi]
+
+Revisión y Selección de Charlas
+-------------------------------
+
+* :strike:`Hacer el llamado a revisores para formar el comité de programa` 
+
+* :strike:`Hacer el llamado a votación del público (preferencias no vinculantes)` 
+
+* :strike:`Pre-seleccinar charlas`
+
+* :strike:`Reunir por IRC del comité de programa`
+
+* :strike:`Definir charlas y enviar notificaciones`
+
+* :strike:`Armar Cronograma`
+
+* :strike:`Definir Paneles (Summit)`  suspendido por el momento
+
+Sitio Web
+---------
+
+* :strike:`Corregir temas envio de propuesta` [MarianoReingart_]
+
+* Armar Twitteador!!
+
+* :strike:`Aplicar últimas correcciones menu y demás` [MarianoReingart_]
+
+* :strike:`Ajustar notificaciones (incluir url del comentario, actividad, etc.)` 
+
+* :strike:`Preparar Integración con` DineroMail_ :strike:`(bono contribución)`  [AlanEtkin_] 
+
+* :strike:`Probar generación de PDF (badge y certificados)` 
+
+* :strike:`Mejorar Schedule (Cronograma), hacer una tabla como` `PyCon US`_ [AlanEtkin_]
+
+* :strike:`Integrar con Google Calendar / iCal`
+
+Gráfica
+-------
+
+* :strike:`Diseñar Logo y CSS para web` 
+
+* :strike:`Diseñar logo light` [JuanBC]
+
+* :strike:`Diseñar banner web` [JuanBC]
+
+* :strike:`Diseñar Afiche` [JuanBC] y [MarianoReingart_]
+
+* :strike:`Diseñar Folletos para repartir` [JuanBC] y [MarianoReingart_]
+
+* :strike:`Diseñar Badge` [JuanBC]
+
+* :strike:`Diseñar Certificado` [JuanBC]
+
+* :strike:`Diseñar Estandartes` [JuanBC]?
+
+* Diseñar Cartelería en general (aulas, registración, etc.)
+
+* :strike:`Diseñar Remeras (organizadores y público)`  [JuanBC]
+
+* :strike:`Diseñar regalo al público` [JuanBC]
+
+* Diseñar Invitación a fiestas after y cierre (pulseritas?)
+
+Impresiones, Materiales y Regalos
+---------------------------------
+
+* :strike:`Preparar la Guia de Programa [MarianoReingart/yo mendieta/imprenta]
+
+  * --(Editar la PET` [JuanBC]
+
+* Imprimir Programas!)-- :strike:`conseguir imprenta "flexible"...`
+
+* :strike:`Imprimir PETs!` :strike:`conseguir imprenta "flexible"...`
+
+* :strike:`Definir y Comprar Regalo a disertantes` terminados y empaquetados [JuanBC]
+
+* :strike:`Definir y Comprar Bolsas o Carpetas` resuelto con sponsor
+
+* Definir y Comprar Identificadores 
+
+* Definir y comprar Colgante (con llavero?)
+
+* :strike:`Definir y Comprar "Recuerdo" Público General`
+
+* :strike:`Hacer merchandising (stickers, pines, etc.)`  [JuanBC]
+
+Logistica
+---------
+
+* :strike:`Negociar con hoteles locales` [gabriela unq]
+
+* :strike:`Reservar lugar para invitados internacionales` [gabriela unq]
+
+* :strike:`Contratar remis/combi para invitados internacionales (Bue<->UNQ)`  [ro]
+
+* Nogociar transporte grupal local Bue->UNQ (combis?, micros escolares?)
+
+* Coordinar `PyConArgentina/2012/AlojamientoCompartido`_ y `PyConArgentina/2012/TransporteCompartido`_
+
+Acreditación
+------------
+
+* Armar bolsas / carpetas con programa, PET, merchandizing, etc.
+
+* Armar stand de acreditación
+
+* Reunir `PyConArgentina/2012/EncargadosAcreditacion`_ 
+
+* Instalar PC para seguimiento de asistentes
+
+* Distribuir Credenciales y materiales!
+
+* Entregar Remeras y Bolsas!
+
+Aulas
+-----
+
+* Conseguir LCD / Proyectores de Backup
+
+* Armar Carteles para tiempos (10, 5, 1 minutos, Fin!)
+
+* Reunir `PyConArgentina/2012/EncargadosAula`_
+
+* Probar Notebooks Disertantes con proyector
+
+* Coordinar `PyConArgentina/2012/EncargadosAula`_
+
+* Proyectar videos/slides en intervalos (sponsors, info sobre python, etc.)
+
+* Grabar audio+video de cada charla ¡?
+
+Fiestas y Social
+----------------
+
+* PyCon_ :strike:`After Party: definir empresa de Catering y contratar!` [romina]
+
+* PyCon_ :strike:`Fiesta de Cierre: Reservar lugar, averiguar presupuestos, contratar!` [romina]
+
+* :strike:`Definir y organizar picnic y actividades recreativas día turístico (asado en el tigre?)`  [gabriela/emilio unq]
+
+.. ############################################################################
+
+.. _PyConArgentina/2012/LlamadoSponsors: ../LlamadoSponsors
+
+.. _PyConArgentina/2012/LlamadoPropuestas: ../LlamadoPropuestas
+
+.. _PyConArgentina/2012/DocumentoFormal: ../DocumentoFormal
+
+.. _PyConArgentina/2012/PressRelease: ../PressRelease
+
+.. _PyConArgentina/2012/InvitacionAlPublico: ../InvitacionAlPublico
+
+.. _PyConArgentina/2012/Memoria: ../Memoria
+
+.. _PyConArgentina/2012/Balance: ../Balance
+
+.. _PyCon US: https://us.pycon.org/2012/schedule/
+
+.. _PyConArgentina/2012/AlojamientoCompartido: ../AlojamientoCompartido
+
+.. _PyConArgentina/2012/TransporteCompartido: ../TransporteCompartido
+
+.. _PyConArgentina/2012/EncargadosAcreditacion: ../EncargadosAcreditacion
+
+.. _PyConArgentina/2012/EncargadosAula: ../EncargadosAula
+
