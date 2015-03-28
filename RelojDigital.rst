@@ -1,4 +1,3 @@
-#format rst
 
 Reloj Digital
 =============
@@ -7,7 +6,7 @@ Reloj Digital
 
 **Screenshot:**
 
-`attachment:temp.jpg`_
+`temp.jpg </wiki/RelojDigital/attachment/122/temp.jpg>`_
 
 ::
 
