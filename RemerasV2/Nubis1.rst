@@ -1,4 +1,3 @@
-#format rst
 
 Versión 1.0 de NubIs
 ====================
@@ -9,22 +8,22 @@ Versión 1.0 de NubIs
 
 * Hay una version real con una modificacion posible si llegara a ganar y el diseño no entra en la remera.
 
-`attachment:nubis01.png`_
+`nubis01.png </wiki/RemerasV2/Nubis1/attachment/192/nubis01.png>`_
 
-`attachment:nubis02.png`_
+`nubis02.png </wiki/RemerasV2/Nubis1/attachment/194/nubis02.png>`_
 
-`attachment:real01.png`_
+`real01.png </wiki/RemerasV2/Nubis1/attachment/191/real01.png>`_
 
 **Diseño**
 
-`attachment:nubis01.svg`_nubis01.svg`attachment:None`_
 
-`attachment:nubis02.svg`_nubis02.svg`attachment:None`_
+
+
 
 Comentarios
 -----------
 
 * dave: muy buena!
 
-* PabloZiliani_: Me encantó. Soez, como corresponde (`attachment:PabloZiliani/carlos-nair.gif`_PabloZiliani/carlos-nair.gif`attachment:None`_)
+* PabloZiliani_: Me encantó. Soez, como corresponde ()
 
