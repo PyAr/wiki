@@ -1,3 +1,6 @@
+#format rst
+
 Escribe acerca de pruebaVideo aquí.
 
-<<Video(http://www.gcoop.coop/ogv/sles-2010-chaparro.ogg)>>
+`[[Video(http://www.gcoop.coop/ogv/sles-2010-chaparro.ogg)]]`_
+
