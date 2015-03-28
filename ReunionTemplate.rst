@@ -1,4 +1,3 @@
-#format rst
 
 Reunión XX - dd/mm/aaaa - Lugar
 ===============================
