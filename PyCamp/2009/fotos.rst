@@ -1,4 +1,3 @@
-#format rst
 
 Fotos del PyCamp 2009
 ---------------------
