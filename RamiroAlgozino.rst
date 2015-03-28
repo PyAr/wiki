@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Ramiro Algozino
 ---------------
@@ -20,7 +18,5 @@ GoogleCode_: http://code.google.com/u/algozino
 
 .. ############################################################################
 
-.. _GoogleCode: ../GoogleCode
 
-.. _CategoryHomepage: ../CategoryHomepage
 
