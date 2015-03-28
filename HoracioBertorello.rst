@@ -1,8 +1,13 @@
-##master-page:HomepageTemplate
-#format wiki
-#language en
+#format rst
+## master-page:HomepageTemplate
 
-Taste the waste, mang. <<MailTo(svankie EN gmail PUNTO com)>>
+Taste the waste, mang. `[[MailTo(svankie EN gmail PUNTO com)]]`_
 
-----
-CategoryHomepage
+-------------------------
+
+ CategoryHomepage_
+
+.. ############################################################################
+
+.. _CategoryHomepage: ../CategoryHomepage
+
