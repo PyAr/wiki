@@ -1,7 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
-#acl JavierCastrillo:admin,read,write,delete,revert All:read
-#language es
 
 Javier Castrillo
 ----------------
@@ -26,7 +22,6 @@ Además estoy en la organización del `Epuel - Encuentro Por Una Educación Libr
 
 .. _mi blog: http://javiercastrillo.wordpress.com
 
-.. _CafeConf: ../CafeConf
 
 .. _Epuel - Encuentro Por Una Educación Libre: http://www.epuel.org.ar
 
