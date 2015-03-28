@@ -1,6 +1,3 @@
-#format rst
-## master-page:CharlaTemplate
-## master-date:Unknown-Date
 
 TituloCharla
 ============
@@ -33,5 +30,4 @@ TituloCharla
 
 .. ############################################################################
 
-.. _CategoryVideo: ../CategoryVideo
 
