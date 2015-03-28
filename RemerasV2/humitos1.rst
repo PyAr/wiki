@@ -1,16 +1,22 @@
-= Versión 0.1 de humitos =
+#format rst
 
- * Me gustaría que la remera sea blanca.
- * Estoy podrido de ver la serpiente por todos lados.
+Versión 0.1 de humitos
+======================
+
+* Me gustaría que la remera sea blanca.
+
+* Estoy podrido de ver la serpiente por todos lados.
 
 :P
 
-{{attachment:humitos01.png}}
+`attachment:humitos01.png`_
 
-'''Diseño'''
+**Diseño**
 
-[[attachment:humitos.svg]]
+`attachment:humitos.svg`_humitos.svg`attachment:None`_
 
-== Comentarios ==
+Comentarios
+-----------
 
- * [quien?] (placeholder)
+* [quien?] (placeholder)
+
