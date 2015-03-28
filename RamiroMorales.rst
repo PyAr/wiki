@@ -1,21 +1,41 @@
-##master-page:HomepageTemplate
-#format wiki
-== Ramiro Morales (aka cramm) ==
+#format rst
+## master-page:HomepageTemplate
 
- * Un usuario Linux desde 1.2 (1994/95)
- * Miembro del [[http://www.grulic.org.ar|GruLiC]] desde 1999.
- * Programando en C/C++ desde 1997.
- * Programando en Python desde 2003.
- * Miembro de !PyAr desde el 2006.
- * Obsesión actual (desde el 2006 bah): [[http://djangopeople.net/ramiro/|Django]]
+Ramiro Morales (aka cramm)
+--------------------------
 
-Email: ramiro+pyar ''at'' rmorales ''punto'' net
+* Un usuario Linux desde 1.2 (1994/95)
 
-=== Elsewhere ===
+* Miembro del GruLiC_ desde 1999.
 
- * IRC: ''cramm'' en Freenode
- * http://www.linkedin.com/in/ramiromorales
- * http://twitter.com/ramiromorales
+* Programando en C/C++ desde 1997.
 
-----
-CategoryHomepage
+* Programando en Python desde 2003.
+
+* Miembro de PyAr desde el 2006.
+
+* Obsesión actual (desde el 2006 bah): Django_
+
+Email: ramiro+pyar *at* rmorales *punto* net
+
+Elsewhere
+~~~~~~~~~
+
+* IRC: *cramm* en Freenode
+
+* http://www.linkedin.com/in/ramiromorales
+
+* http://twitter.com/ramiromorales
+
+-------------------------
+
+ CategoryHomepage_
+
+.. ############################################################################
+
+.. _GruLiC: http://www.grulic.org.ar
+
+.. _Django: http://djangopeople.net/ramiro/
+
+.. _CategoryHomepage: ../CategoryHomepage
+
