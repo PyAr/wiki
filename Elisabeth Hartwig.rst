@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 == @ME@ ==`ehartwig@infoxel.com`_
 
@@ -15,5 +13,4 @@ Email: `[[MailTo(you AT SPAMFREE example DOT com)]]`_.. You can even more obfusc
 
 .. _ehartwig@infoxel.com: mailto:ehartwig@infoxel.com
 
-.. _CategoryHomepage: ../CategoryHomepage
 
