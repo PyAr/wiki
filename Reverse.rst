@@ -1,4 +1,3 @@
-#format rst
 
 Reverse (a.k.a. "esrever")
 ==========================
