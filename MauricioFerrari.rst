@@ -1,15 +1,25 @@
-##master-page:HomepageTemplate
-#format wiki
-== Mauricio Ferrari ==
+#format rst
+## master-page:HomepageTemplate
 
- ''Que hago? mmm...aprendo python, uso slackware, mysql, postgresql, me peleo con wx'' <<BR>>
- ''use otras cosas que me aburren como vb, me hicieron padecer como C''<<BR>>
- ''alguna vez me interese con smalltalk pero no tenia con quien pelear''<<BR>> 
- ''me interesa sumarme a algun proyecto python pero no quiero aportar ignorancia plena''<<BR>><<BR>>
+Mauricio Ferrari
+----------------
 
-Email: <<MailTo(mautuc AT SPAMFREE yahoo DOT com DOT ar)>>
+  *Que hago? mmm...aprendo python, uso slackware, mysql, postgresql, me peleo con wx*
+   *use otras cosas que me aburren como vb, me hicieron padecer como C*
+   *alguna vez me interese con smalltalk pero no tenia con quien pelear*
+    *me interesa sumarme a algun proyecto python pero no quiero aportar ignorancia plena*
+
+
+
+Email: `[[MailTo(mautuc AT SPAMFREE yahoo DOT com DOT ar)]]`_
 
 ...
 
-----
-CategoryHomepage
+-------------------------
+
+ CategoryHomepage_
+
+.. ############################################################################
+
+.. _CategoryHomepage: ../CategoryHomepage
+
