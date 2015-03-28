@@ -1,4 +1,3 @@
-#format rst
 
 Versión 0.8
 ~~~~~~~~~~~
