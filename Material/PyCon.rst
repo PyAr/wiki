@@ -1,12 +1,18 @@
-Material para PyCon 2010
+#format rst
 
-Poster PyCon2010:
+Material para PyCon_ 2010
 
- * [[attachment:poster.svg]]
- * [[attachment:poster.png]]
+Poster PyCon2010_:
+
+* `attachment:poster.svg`_poster.svg`attachment:None`_
+
+* `attachment:poster.png`_poster.png`attachment:None`_
 
 "banners" para la web:
 
- * [[attachment:banner_pycon.svg]]
- * [[attachment:banner_pycon-en.png]]
- * [[attachment:banner_pycon.png]]
+* `attachment:banner_pycon.svg`_banner_pycon.svg`attachment:None`_
+
+* `attachment:banner_pycon-en.png`_banner_pycon-en.png`attachment:None`_
+
+* `attachment:banner_pycon.png`_banner_pycon.png`attachment:None`_
+
