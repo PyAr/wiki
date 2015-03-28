@@ -1,2 +1,7 @@
-== Martín Conte Mac Donell ==
-Email: <<MailTo(Reflejo AT SPAMFREE gmail DOT com)>>
+#format rst
+
+Martín Conte Mac Donell
+-----------------------
+
+Email: `[[MailTo(Reflejo AT SPAMFREE gmail DOT com)]]`_
+
