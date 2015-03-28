@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Marcos Vanetta - malev
 ----------------------
@@ -18,5 +16,4 @@ Saludos Email: `[[MailTo(marcosvanetta AT SPAMFREE gmail DOT com)]]`_.. You can 
 
 .. _blog: http://blog.malev.com.ar
 
-.. _CategoryHomepage: ../CategoryHomepage
 
