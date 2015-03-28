@@ -1,4 +1,3 @@
-## page was renamed from AaFigure
 <<TableOfContents>>
 = AaFigure Parser =
 
