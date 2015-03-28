@@ -1,4 +1,3 @@
-#format rst
 
 La propuesta es armar un livecd que permita ser usado para dictar un taller de Python para alumnos de secundaria.
 
@@ -163,5 +162,4 @@ Asuntos pendientes
 
 .. ############################################################################
 
-.. _MySql: ../MySql
 
