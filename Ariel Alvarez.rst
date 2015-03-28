@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Ariel Alvarez
 =============
@@ -14,5 +12,4 @@ Email: `[[MailTo(alvarez_ariel_utn AT SPAMFREE yahoo DOT com DOT ar)]]`_.. You c
 
 .. ############################################################################
 
-.. _CategoryHomepage: ../CategoryHomepage
 
