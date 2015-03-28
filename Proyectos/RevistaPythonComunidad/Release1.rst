@@ -1,10 +1,18 @@
-= Release 1 =
+#format rst
+
+Release 1
+=========
+
 Pagina dedicada a como viene la mano con la release 1.
 
-== Status actual ==
-* Juntando articulos, wanna be a PSS / PyAR Super Star ?! Envianos tu articulo para la primer release! :D
+Status actual
+-------------
 
-== Articuladores ==
+* Juntando articulos, wanna be a PSS / PyAR Super Star ?! Envianos tu articulo para la primer release! |:D|
+
+Articuladores
+-------------
+
 Se envia email de invitacion para mandar el articulo, el 'template' es el siguiente:
 
 Hola <nombre>, Hace tiempo mencionaste que estarias interesado en contribuir con algun articulo a la revista  comunitaria de Python Argentina,
@@ -23,19 +31,35 @@ meramente para poder ir estimando la fecha de lanzamiento .
 
 Me despido sin otro motivo, atte,
 
-==== Se ofrecieron para la primer release ====
- * Tomas Zulberti
- * Juan Rodriguez Monti
- * Roberto Allende
- * Roberto Alsina
- * Claudio Freire
- * Lucas Rollback
- * Mauro Caceres
+Se ofrecieron para la primer release
+::::::::::::::::::::::::::::::::::::
 
-==== Confirmados para la primer release ====
- * Roberto Alsina
- * Juan Rodriguez Monti
- * Claudio Freire
- * Fabian Gallina
- * Tomas Zulberti
- * Facundo Batista
+* Tomas Zulberti
+
+* Juan Rodriguez Monti
+
+* Roberto Allende
+
+* Roberto Alsina
+
+* Claudio Freire
+
+* Lucas Rollback
+
+* Mauro Caceres
+
+Confirmados para la primer release
+::::::::::::::::::::::::::::::::::
+
+* Roberto Alsina
+
+* Juan Rodriguez Monti
+
+* Claudio Freire
+
+* Fabian Gallina
+
+* Tomas Zulberti
+
+* Facundo Batista
+
