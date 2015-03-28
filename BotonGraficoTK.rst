@@ -1,11 +1,10 @@
-#format rst
 
 Boton Grafico TK
 ================
 
 Crear un boton grafico personalizado, con 3 estados posibles *(Activado, con el Roedor Encima, Normal)*, usando TK.
 
-`attachment:temp.jpg`_
+`temp.jpg </wiki/BotonGraficoTK/attachment/1/temp.jpg>`_
 
 *En la foto de pantalla se muestra el Ejemplo con el Raton Encima (Mouse Over)*
 
