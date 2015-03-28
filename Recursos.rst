@@ -1,174 +1,277 @@
+#format rst
 #acl All:read,write
-#language es
-= Recursos =
- . Estas son organizaciones y empresas argentinas que utilizan python regularmente de distintas formas<<FootNote(Por orden alfabético.)>>.
 
-== Organizaciones ==
-=== Atommica ===
- * Contacto: <<MailTo(mconte AT atommica DOT com, Martín Conte Mac Donell)>>
+Recursos
+========
 
- * URL: http://www.atommica.com
+  Estas son organizaciones y empresas argentinas que utilizan python regularmente de distintas formas[1]_.
 
- * ¿De qué forma usamos Python?: Tenemos varias plataformas (Server-side) para nuestros juegos multiplayers. No se usa otra cosa que no sea python en este sentido.
+Organizaciones
+--------------
 
-=== Cyclelogic ===
- * Contacto: [[http://www.mundomobile.com/corpsite/contactoform.php|con este formulario]]
+Atommica
+~~~~~~~~
 
- * URL: http://www.cyclelogic.com/
+* Contacto: `[[MailTo(mconte AT atommica DOT com, Martín Conte Mac Donell)]]`_
 
- * URL: [[http://cvresumewritingservices.org/|resume writing service]]
+* URL: http://www.atommica.com
 
- * Teléfono: 11.6777.3900
+* ¿De qué forma usamos Python?: Tenemos varias plataformas (Server-side) para nuestros juegos multiplayers. No se usa otra cosa que no sea python en este sentido.
 
- * Dirección: Libertador 6250, piso 6, Capital Federal
+Cyclelogic
+~~~~~~~~~~
 
- * Python se usa en muchas maneras: generación dinámica de páginas WAP, implementación de aplicaciones, web services de altísima producción, herramientas de soporte interno, etc...
+* Contacto: `con este formulario`_
 
-=== Core Security Technologies ===
- * Contacto: <<MailTo( info AT coresecurity DOT com, Info)>>
+* URL: http://www.cyclelogic.com/
 
- * URL: http://www.coresecurity.com
+* URL: `resume writing service`_
 
- * Teléfono: 5556-2673
+* Teléfono: 11.6777.3900
 
- * Dirección: Humboldt 1967. 2do piso. Capital Federal
+* Dirección: Libertador 6250, piso 6, Capital Federal
 
- * ¿De qué forma usamos Python?: Lo usamos de distintas maneras. Lo tenemos embebido en un producto comercial (impact) donde la mitad del producto esta hecha en python. Usamos mod_python para algunos servidores, usamos Zope para otros. Usamos python para el daily builder. Lo usamos para tareas de mantenimiento, y probablemente lo usemos para más cosas.
+* Python se usa en muchas maneras: generación dinámica de páginas WAP, implementación de aplicaciones, web services de altísima producción, herramientas de soporte interno, etc...
 
-=== EuskoSare ===
- * URL: [[http://www.euskosare.org/|www.euskosare.org]]
+Core Security Technologies
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
- * ¿De qué forma usamos Python?: El sitio utiliza software hecho en python: [[http://plone.org/|Plone]]/[[http://zope.org/|Zope]], con productos adicionales desarrollados a medida para el proyecto. Utilizamos también [[http://www.gnu.org/software/mailman/|mailman]] para manejar las listas de correo de las comunidades. La mayoría de los scripts de mantenimiento y administración del servidor están hechos en python. Para gestionar el desarrollo usamos [[http://www.edgewall.com/trac|trac]], también hecho en python.
+* Contacto: `[[MailTo( info AT coresecurity DOT com, Info)]]`_
 
- * RicardoKirkner y SantiagoPereson trabajaban en el proyecto.
+* URL: http://www.coresecurity.com
 
+* Teléfono: 5556-2673
 
-=== Hector E. Nardelli S.A. ===
- * Contacto: <<MailTo( ariel DOT nardelli AT hensa DOT com DOT ar, Panflin)>>
+* Dirección: Humboldt 1967. 2do piso. Capital Federal
 
- * URL: http://www.hensa.com.ar
+* ¿De qué forma usamos Python?: Lo usamos de distintas maneras. Lo tenemos embebido en un producto comercial (impact) donde la mitad del producto esta hecha en python. Usamos mod_python para algunos servidores, usamos Zope para otros. Usamos python para el daily builder. Lo usamos para tareas de mantenimiento, y probablemente lo usemos para más cosas.
 
- * Dirección: Patricio Diez 1026 - Reconquista, Santa Fe, Argentina
+EuskoSare
+~~~~~~~~~
 
- * ¿De qué forma usamos Python?: Estamos desarrollando todo el sistema de gestión completo en python, con la interfaz gráfica wxWidgets. El sistema una vez terminado trabajará preferentemente sobre Linux, y constará de un sistema de manejo de Emergencias Médicas, Facturación, Sistemas de Caja Diaria y Manejo de Abonados, entre otras cosas (el sistema es demasiado amplio como para explicarlo en pocas líneas).
+* URL: `www.euskosare.org`_
 
- * Librerías/frameworks utilizadas: [[http://www.wxwindows.org|wxWidgets]]/[[http://www.wxpython.org/|wxPython]]
+* ¿De qué forma usamos Python?: El sitio utiliza software hecho en python: Plone_/Zope_, con productos adicionales desarrollados a medida para el proyecto. Utilizamos también mailman_ para manejar las listas de correo de las comunidades. La mayoría de los scripts de mantenimiento y administración del servidor están hechos en python. Para gestionar el desarrollo usamos trac_, también hecho en python.
 
-=== Lambda Sistemas ===
- * Contacto: <<MailTo(guillermo DOT narvaja AT fierro-soft DOT com DOT ar, Guillermo Narvaja)>>
+* RicardoKirkner_ y SantiagoPereson_ trabajaban en el proyecto.
 
- * URL: http://www.fierro-soft.com.ar
+Hector E. Nardelli S.A.
+~~~~~~~~~~~~~~~~~~~~~~~
 
- * Teléfono: 4857-6662
+* Contacto: `[[MailTo( ariel DOT nardelli AT hensa DOT com DOT ar, Panflin)]]`_
 
- * La empresa desarrolla un sistema de gestión para librerías, editoriales y distribuidoras, llamado Fierro. El desarrollo empezó a mediados del 2004 y desde marzo del 2005 está en producción. Actualmente está instalado en 9 librerías. El sistema tiene una arquitectura de tres capas, servidor de base de datos ([[http://www.postgresql.org|Postgresql]]), servidor de aplicación, que corre bajo Linux, y los clientes que corren bajo Windows y Linux. En la página web podrán encontrar más información del sistema o pueden mandarnos consultas via mail.
+* URL: http://www.hensa.com.ar
 
- * ¿Cómo se usa Python? Toda la aplicación está desarrollada utilizando Python.
+* Dirección: Patricio Diez 1026 - Reconquista, Santa Fe, Argentina
 
- * Librerías utilizadas: [[http://www.wxpython.org/|wxPython]], [[http://kid.lesscode.org|kid]], [[http://spyce.sourceforge.net|spyce]], [[http://pyro.sourceforge.net|Pyro]], [[http://www.alcyone.com/pyos/empy/|empy]], [[http://www.pygresql.org|pygresql]], [[http://www.modpython.org|mod_python]], [[http://www.its4you.at/english/log4py.html|log4py]].
+* ¿De qué forma usamos Python?: Estamos desarrollando todo el sistema de gestión completo en python, con la interfaz gráfica wxWidgets. El sistema una vez terminado trabajará preferentemente sobre Linux, y constará de un sistema de manejo de Emergencias Médicas, Facturación, Sistemas de Caja Diaria y Manejo de Abonados, entre otras cosas (el sistema es demasiado amplio como para explicarlo en pocas líneas).
 
- * Desde hace un tiempo también utilizamos [[http://www.edgewall.com/trac|trac]] para la gestión del proyecto, tickets y wiki interno.
+* Librerías/frameworks utilizadas: wxWidgets_/wxPython_
 
-=== Livra.com ===
- * Contacto: <<MailTo(geeks AT livra.com)>>
+Lambda Sistemas
+~~~~~~~~~~~~~~~
 
- * URL: http://ar.livra.com/jobs
+* Contacto: `[[MailTo(guillermo DOT narvaja AT fierro-soft DOT com DOT ar, Guillermo Narvaja)]]`_
 
- * Utilizamos Python en herramientas internas y servicios de backend, algunas intensivas en cálculos, nada trivial.
+* URL: http://www.fierro-soft.com.ar
 
- * (algunas) Librerías utilizadas: [[http://numpy.scipy.org/|NumPy/SciPy]].
+* Teléfono: 4857-6662
 
-=== LUNIX S.R.L. ===
- * Contacto: <<MailTo(lucas AT lunix DOT com DOT ar, Lucas Di Pentima)>>
+* La empresa desarrolla un sistema de gestión para librerías, editoriales y distribuidoras, llamado Fierro. El desarrollo empezó a mediados del 2004 y desde marzo del 2005 está en producción. Actualmente está instalado en 9 librerías. El sistema tiene una arquitectura de tres capas, servidor de base de datos (Postgresql_), servidor de aplicación, que corre bajo Linux, y los clientes que corren bajo Windows y Linux. En la página web podrán encontrar más información del sistema o pueden mandarnos consultas via mail.
 
- * URL: http://www.lunix.com.ar
+* ¿Cómo se usa Python? Toda la aplicación está desarrollada utilizando Python.
 
- * Teléfono: (0342) 455-2760
+* Librerías utilizadas: wxPython_, kid_, spyce_, Pyro_, empy_, pygresql_, mod_python_, log4py_.
 
- * Dirección: Iturraspe 1366, Santa Fe Capital.
+* Desde hace un tiempo también utilizamos trac_ para la gestión del proyecto, tickets y wiki interno.
 
- * Utilizamos Python en varios proyectos, los que incluyen una consola gráfica para el servidor de backup Bacula, un sistema automático de conexión y testeo de servidores, un generador automático de informes en OpenOffice.org, webservices para un sistema interno de tickets, y otras herramientas de uso interno.
+Livra.com
+~~~~~~~~~
 
- * ¿Cómo usamos Python? Uso de todo tipo, desde integración con software escrito en otros lenguajes a sistemas escritos completos en el mismo.
+* Contacto: `[[MailTo(geeks AT livra.com)]]`_
 
- * Librerías utilizadas: [[http://www.pygtk.org/|PyGTK]], [[http://sf.net/projects/pexpect|Pexpect]], [[http://www.crummy.com/software/BeautifulSoup/|BeautifulSoup]], Snack, MySQLdb.
+* URL: http://ar.livra.com/jobs
 
-=== Machinalis ===
- * Contacto: <<MailTo( info AT machinalis DOT com , Machinalis)>>
+* Utilizamos Python en herramientas internas y servicios de backend, algunas intensivas en cálculos, nada trivial.
 
- * URL: http://machinalis.com
+* (algunas) Librerías utilizadas: `NumPy/SciPy`_.
 
- * ¿De qué forma usamos Python?: Hacemos mucho desarrollo web en Django y Plone/Zope/Python. Estamos trabajando en aplicaciones de escritorio multiplataforma con PyGTK, y en proyectos con Python que involucran Procesamiento de Lenguaje Natural, Data Mining e Inteligencia Artificial.
+LUNIX S.R.L.
+~~~~~~~~~~~~
 
- * Librerías/frameworks utilizadas: Django, pyGTK, Zope, Plone
+* Contacto: `[[MailTo(lucas AT lunix DOT com DOT ar, Lucas Di Pentima)]]`_
 
- * También utilizamos [[http://www.edgewall.com/trac|trac]] para la gestión del proyecto, tickets y wiki interno.
+* URL: http://www.lunix.com.ar
 
- * Los socios de la empresa son WalterAlini, HoracioDuran, JavierMansilla, DanielMoisset. (todos miembros de PyAR)
+* Teléfono: (0342) 455-2760
 
-=== Menttes ===
- * Contacto: <<MailTo( info AT menttes DOT com, Info)>>
+* Dirección: Iturraspe 1366, Santa Fe Capital.
 
- * URL: http://www.menttes.com
+* Utilizamos Python en varios proyectos, los que incluyen una consola gráfica para el servidor de backup Bacula, un sistema automático de conexión y testeo de servidores, un generador automático de informes en OpenOffice_.org, webservices para un sistema interno de tickets, y otras herramientas de uso interno.
 
- * Teléfono: (0351) 5680147
+* ¿Cómo usamos Python? Uso de todo tipo, desde integración con software escrito en otros lenguajes a sistemas escritos completos en el mismo.
 
- * Dirección: Dean Funes 353 of 203, Córdoba, Argentina
+* Librerías utilizadas: PyGTK_, Pexpect_, BeautifulSoup_, Snack, MySQLdb.
 
- * ¿De qué forma usamos Python?: Menttes trabaja exclusivamente con python y frameworks/aplicaciones desarrollados con este lenguaje. Brinda servicios de consultoria, desarrollo y entrenamiento en Python, Zope y Plone.
+Machinalis
+~~~~~~~~~~
 
-=== Movilogic ===
- * Contacto: <<MailTo( info AT movilogic DOT com, Info)>>
+* Contacto: `[[MailTo( info AT machinalis DOT com , Machinalis)]]`_
 
- * URL: http://www.movilogic.com
+* URL: http://machinalis.com
 
- * Teléfono: 5238-0098
+* ¿De qué forma usamos Python?: Hacemos mucho desarrollo web en Django y Plone/Zope/Python. Estamos trabajando en aplicaciones de escritorio multiplataforma con PyGTK, y en proyectos con Python que involucran Procesamiento de Lenguaje Natural, Data Mining e Inteligencia Artificial.
 
- * Dirección: Piedras 338. 1er piso 10. Capital Federal. (C1070AAH)
+* Librerías/frameworks utilizadas: Django, pyGTK, Zope, Plone
 
- * ¿De qué forma usamos Python?: Lo usamos de distintas maneras. Tenemos varios desarrollos para clientes en python, lo tenemos integrado con unos de nuestros productos y tenemos muchas de nuestras herramientas internas en python.
+* También utilizamos trac_ para la gestión del proyecto, tickets y wiki interno.
 
-=== MSA s.a. ===
- * Contacto: <<MailTo( info AT msa DOT com DOT ar, Info)>>
+* Los socios de la empresa son WalterAlini_, HoracioDuran_, JavierMansilla_, DanielMoisset_. (todos miembros de PyAR)
 
- * URL: http://www.msa.com.ar
+Menttes
+~~~~~~~
 
- * Teléfono: +54-11-6091-1540
+* Contacto: `[[MailTo( info AT menttes DOT com, Info)]]`_
 
- * Dirección: Atuel 362 - Parque Patricios, Distrito Tecnológico Ciudad Autónoma de Buenos Aires (C1437EPD)
+* URL: http://www.menttes.com
 
- * ¿De qué forma usamos Python?: Como lenguaje de programación principal en proyectos de misión crítica, sistemas web (Django, Flask) y aplicaciones GUI (pygtk, glade).
+* Teléfono: (0351) 5680147
 
- * Github: https://github.com/MSA-Argentina/
+* Dirección: Dean Funes 353 of 203, Córdoba, Argentina
 
-=== Onapsis ===
- * Contacto: Onapsis <info AT onapsis DOT com>
+* ¿De qué forma usamos Python?: Menttes trabaja exclusivamente con python y frameworks/aplicaciones desarrollados con este lenguaje. Brinda servicios de consultoria, desarrollo y entrenamiento en Python, Zope y Plone.
 
- * URL: http://www.onapsis.com
+Movilogic
+~~~~~~~~~
 
- * Ubicación: Riobamba 429, CABA, Argentina.
+* Contacto: `[[MailTo( info AT movilogic DOT com, Info)]]`_
 
- * ¿De qué forma usamos Python?: Nos especializamos en soluciones avanzadas de seguridad informatica las cuales desarrollamos exclusivamente con Python!.
+* URL: http://www.movilogic.com
 
- * Librerías/frameworks utilizadas: Django, Pyramid, SQLAlchemy, entre otras.
+* Teléfono: 5238-0098
 
- * Además de utilizar Python, constantemente buscamos mejorar nuestros procesos de desarrollo e incorporamos nuevas tecnologias. Actualmente trabajamos con metodologias Agiles y usamos TDD, Git, Continuos Integration, entre otros.
+* Dirección: Piedras 338. 1er piso 10. Capital Federal. (C1070AAH)
 
-=== Vortech ===
- * Contacto: <<MailTo( alecu AT vortech DOT com DOT ar, Alejandro J. Cura)>>
+* ¿De qué forma usamos Python?: Lo usamos de distintas maneras. Tenemos varios desarrollos para clientes en python, lo tenemos integrado con unos de nuestros productos y tenemos muchas de nuestras herramientas internas en python.
 
- * URL: http://www.vortech.com.ar/
+MSA s.a.
+~~~~~~~~
 
- * Teléfono: 4867-1797
+* Contacto: `[[MailTo( info AT msa DOT com DOT ar, Info)]]`_
 
- * Ubicación: Ciudad de Buenos Aires, Argentina.
+* URL: http://www.msa.com.ar
 
- * ¿De qué forma usamos Python?: Usamos python para todos los proyectos nuevos y varios existentes, y tambien jython para los clientes que tienen infraestructura en java.
+* Teléfono: +54-11-6091-1540
 
- * Además de python usamos: [[http://twistedmatrix.com|Twisted]], [[http://www.pygtk.org/|PyGTK]], [[http://www.pygame.org/|pygame]],[[http://www.turbogears.org/|Turbogears]], [[http://www.edgewall.com/trac|trac]]
+* Dirección: Atuel 362 - Parque Patricios, Distrito Tecnológico Ciudad Autónoma de Buenos Aires (C1437EPD)
 
-<<BR>> <<BR>>
+* ¿De qué forma usamos Python?: Como lenguaje de programación principal en proyectos de misión crítica, sistemas web (Django, Flask) y aplicaciones GUI (pygtk, glade).
 
-----
+* Github: https://github.com/MSA-Argentina/
 
- . <<FootNote>>
+Onapsis
+~~~~~~~
+
+* Contacto: Onapsis <info AT onapsis DOT com>
+
+* URL: http://www.onapsis.com
+
+* Ubicación: Riobamba 429, CABA, Argentina.
+
+* ¿De qué forma usamos Python?: Nos especializamos en soluciones avanzadas de seguridad informatica las cuales desarrollamos exclusivamente con Python!.
+
+* Librerías/frameworks utilizadas: Django, Pyramid, SQLAlchemy, entre otras.
+
+* Además de utilizar Python, constantemente buscamos mejorar nuestros procesos de desarrollo e incorporamos nuevas tecnologias. Actualmente trabajamos con metodologias Agiles y usamos TDD, Git, Continuos Integration, entre otros.
+
+Vortech
+~~~~~~~
+
+* Contacto: `[[MailTo( alecu AT vortech DOT com DOT ar, Alejandro J. Cura)]]`_
+
+* URL: http://www.vortech.com.ar/
+
+* Teléfono: 4867-1797
+
+* Ubicación: Ciudad de Buenos Aires, Argentina.
+
+* ¿De qué forma usamos Python?: Usamos python para todos los proyectos nuevos y varios existentes, y tambien jython para los clientes que tienen infraestructura en java.
+
+* Además de python usamos: Twisted_, PyGTK_, pygame_,Turbogears_, trac_
+
+
+
+
+
+-------------------------
+
+
+
+  .. [1] Por orden alfabético.
+
+
+
+.. ############################################################################
+
+.. _con este formulario: http://www.mundomobile.com/corpsite/contactoform.php
+
+.. _resume writing service: http://cvresumewritingservices.org/
+
+.. _www.euskosare.org: http://www.euskosare.org/
+
+.. _Plone: http://plone.org/
+
+.. _Zope: http://zope.org/
+
+.. _mailman: http://www.gnu.org/software/mailman/
+
+.. _trac: http://www.edgewall.com/trac
+
+.. _RicardoKirkner: ../RicardoKirkner
+
+.. _SantiagoPereson: ../SantiagoPereson
+
+.. _wxWidgets: http://www.wxwindows.org
+
+.. _wxPython: http://www.wxpython.org/
+
+.. _Postgresql: http://www.postgresql.org
+
+.. _kid: http://kid.lesscode.org
+
+.. _spyce: http://spyce.sourceforge.net
+
+.. _Pyro: http://pyro.sourceforge.net
+
+.. _empy: http://www.alcyone.com/pyos/empy/
+
+.. _pygresql: http://www.pygresql.org
+
+.. _mod_python: http://www.modpython.org
+
+.. _log4py: http://www.its4you.at/english/log4py.html
+
+.. _NumPy/SciPy: http://numpy.scipy.org/
+
+.. _OpenOffice: ../OpenOffice
+
+.. _PyGTK: http://www.pygtk.org/
+
+.. _Pexpect: http://sf.net/projects/pexpect
+
+.. _BeautifulSoup: http://www.crummy.com/software/BeautifulSoup/
+
+.. _WalterAlini: ../WalterAlini
+
+.. _HoracioDuran: ../HoracioDuran
+
+.. _JavierMansilla: ../JavierMansilla
+
+.. _DanielMoisset: ../DanielMoisset
+
+.. _Twisted: http://twistedmatrix.com
+
+.. _pygame: http://www.pygame.org/
+
+.. _Turbogears: http://www.turbogears.org/
+
