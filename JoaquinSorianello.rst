@@ -1,6 +1,3 @@
-#format rst
-## master-page:HomepagePrivatePageTemplate
-## master-date:Unknown-Date
 
 .
 
@@ -35,13 +32,8 @@ Mail
 
 .. ############################################################################
 
-.. _DiegoMascialino: ../DiegoMascialino
 
-.. _PyAr: ../PyAr
 
-.. _PyCamps: ../PyCamps
 
-.. _PyCons: ../PyCons
 
-.. _CategoryHomepage: ../CategoryHomepage
 
