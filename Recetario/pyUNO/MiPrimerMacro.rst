@@ -1,4 +1,3 @@
-#format rst
 
 La siguiente macro, detecta el tipo de documento (Calc, Writer, Draw, Impress, etc) desde el cual se ejecuta.
 
