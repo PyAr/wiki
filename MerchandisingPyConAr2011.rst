@@ -1,4 +1,3 @@
-#format rst
 
 Merchandising Pyconar 2011
 --------------------------
