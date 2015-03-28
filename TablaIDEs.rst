@@ -1,4 +1,3 @@
-#format rst
 
 *Pagina incompleta aun.* *Las opciones marcadas con '?', desconozco si estan o no al momento de hacer el artículo.*
 
@@ -13,5 +12,4 @@ Los siguientes son editores de texto avanzados. Tambien se pueden usar como IDE 
 
 .. ############################################################################
 
-.. _PyCharm: ../PyCharm
 
