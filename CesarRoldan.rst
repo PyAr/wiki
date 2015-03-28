@@ -1,10 +1,18 @@
-##master-page:HomepageTemplate
-#format wiki
-== Cesar Roldan ==
+#format rst
+## master-page:HomepageTemplate
 
-<<Twitter(usuario="ihuro")>>
+Cesar Roldan
+------------
 
-Email: <<MailTo(croldan AT SPAMFREE gmail DOT com)>>
+`[[Twitter(usuario="ihuro")]]`_
 
-----
-CategoryHomepage
+Email: `[[MailTo(croldan AT SPAMFREE gmail DOT com)]]`_
+
+-------------------------
+
+ CategoryHomepage_
+
+.. ############################################################################
+
+.. _CategoryHomepage: ../CategoryHomepage
+
