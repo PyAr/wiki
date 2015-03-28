@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Taste the waste, mang. `[[MailTo(svankie EN gmail PUNTO com)]]`_
 
@@ -9,5 +7,4 @@ Taste the waste, mang. `[[MailTo(svankie EN gmail PUNTO com)]]`_
 
 .. ############################################################################
 
-.. _CategoryHomepage: ../CategoryHomepage
 
