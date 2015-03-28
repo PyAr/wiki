@@ -1,2 +1,4 @@
-creo de nuevo
-consumo
+#format rst
+
+creo de nuevo consumo
+
