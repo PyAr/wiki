@@ -1,5 +1,3 @@
-#format rst
-## page was renamed from Recetario/Gtk/MultiThread2
 
 Otro ejemplo del uso de threads con gtk, compare con el `otro ejemplo`_ que utiliza colas
 
