@@ -1,6 +1,3 @@
-#format rst
-## page was renamed from Eventos/Reuniones/Reunion13
-#acl ReadWriteGroup:read,write All:read
 
 Reunión 13 - 01/02/2006 - Hip Bar
 =================================
