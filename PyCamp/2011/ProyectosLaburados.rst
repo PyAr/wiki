@@ -1,4 +1,3 @@
-#format rst
 
 PyCamp 2011: Proyectos en los que laburamos
 ===========================================
