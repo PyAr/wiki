@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 @``ME@
 ------
@@ -36,5 +34,4 @@ Email: `[[MailTo(gaitan AT gmail DOT com)]]`_
 
 .. _En LinkedIn: http://www.linkedin.com/in/martingaitan
 
-.. _CategoryHomepage: ../CategoryHomepage
 
