@@ -1,11 +1,16 @@
-##master-page:CategoryTemplate
-##master-date:Unknown-Date
-#format wiki
-#language en
+#format rst
+## master-page:CategoryTemplate
+## master-date:Unknown-Date
 
-'''Lista de paginas en esta categoria:'''
+**Lista de paginas en esta categoria:**
 
-<<FullSearch(category:CategoryVideo)>>
+`[[FullSearch(category:CategoryVideo)]]`_
 
-----
-CategoryCategory
+-------------------------
+
+ CategoryCategory_
+
+.. ############################################################################
+
+.. _CategoryCategory: ../CategoryCategory
+
