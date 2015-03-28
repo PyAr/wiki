@@ -1,29 +1,45 @@
-= Call For Charlas =
+#format rst
 
-Esta pagina contiene toda la informacion necesaria para hacer un call for charlas para un PyConAr o un PyDay, vamos a ir agregando info aca a medida que se va refinando con sucesivas call for charlas
+Call For Charlas
+================
 
-== Organizaciones a Invitar ==
+Esta pagina contiene toda la informacion necesaria para hacer un call for charlas para un PyConAr_ o un PyDay_, vamos a ir agregando info aca a medida que se va refinando con sucesivas call for charlas
 
-=== Listas de Correo ===
+Organizaciones a Invitar
+------------------------
+
+Listas de Correo
+~~~~~~~~~~~~~~~~
 
 A estas organizaciones simplemente se las copia en el mail de call for charlas, el formato del mail esta mas abajo
 
-|| Organizacion || Mail ||
-|| PyAr         || <<MailTo(pyar AT python DOT org DOT ar)>> ||
+[Table not converted]
 
-== Template Mail Call For Charlas ==
+Template Mail Call For Charlas
+------------------------------
 
-[[CallForCharlasTemplate|Template de Call For Charlas Mail]]	
+`Template de Call For Charlas Mail`_    
 
-== Otras Organizaciones a Invitar ==
+Otras Organizaciones a Invitar
+------------------------------
 
 Estas Organizaciones requirieron ser invitadas directamente por cuestiones organizativas, si sos miembro de una organizacion que requiera invitacion particular por favor lista la organizacion y el mail de contacto en la siguiente tabla. 
 
 Si tenes requerimiento de informacion que debe contener la invitacion por favor consulta en la lista o en el canal de irc para que lo tengamos en cuenta
 
-[[CallForCharlasInvitacionTemplate|Template de Call For Charlas Organizacion]]	
+`Template de Call For Charlas Organizacion`_  
 
-|| Organizacion || Mail || Nombre del Contacto ||
-|| Ascentio Technologies || <<MailTo(jproyector AT ascentio DOT com DOT ar)>> || Javier Proyector ||
-|| IBM R&D Argentina || <<MailTo(silvergate-team AT wwpdl DOT vnet DOT ibm DOT com)>> || Silvergate Team ||
-|| Intel Argentina || <<MailTo(fernando.l.patrito AT intel DOT com)>> || Patrito, Fernando L ||
+[Table not converted]
+
+.. ############################################################################
+
+.. _PyConAr: ../PyConAr
+
+.. _PyDay: ../PyDay
+
+.. _PyAr: ../PyAr
+
+.. _Template de Call For Charlas Mail: ../CallForCharlasTemplate
+
+.. _Template de Call For Charlas Organizacion: ../CallForCharlasInvitacionTemplate
+
