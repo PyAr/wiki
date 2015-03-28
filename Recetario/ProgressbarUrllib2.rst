@@ -1,4 +1,3 @@
-#format rst
 
 Progressbar y Urllib2
 =====================
