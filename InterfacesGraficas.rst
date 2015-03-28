@@ -1,4 +1,3 @@
-#format rst
 
 Interfaces Gráficas (GUI)
 -------------------------
@@ -273,17 +272,13 @@ Referencias
 
 .. _#1: InterfacesGraficas#1
 
-.. _WxPython: ../WxPython
 
-.. _WxWidgets: ../WxWidgets
 
 .. _#2: InterfacesGraficas#2
 
 .. _wxFormBuilder: http://wxformbuilder.org
 
-.. _BoaConstructor: ../BoaConstructor
 
-.. _DrPython: ../DrPython
 
 .. _PySide: http://www.pyside.org
 
@@ -291,9 +286,6 @@ Referencias
 
 .. _wxpython-users: http://groups.google.com/group/wxpython-users
 
-.. _PyOrbit: ../PyOrbit
 
-.. _Recetario#Interfaces_graficas: ../Recetario#Interfaces_graficas
 
-.. _PyAr: ../PyAr
 
