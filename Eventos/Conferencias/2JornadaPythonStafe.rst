@@ -1,4 +1,3 @@
-#format rst
 
 2da Jornada de Python en Santa Fé
 =================================
