@@ -1,5 +1,4 @@
-Contenido
----------
+
 
 .. class:: alert alert-warning
 
