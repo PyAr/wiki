@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Angel Velásquez
 ---------------
@@ -20,5 +18,4 @@ Saludos
 
 .. ############################################################################
 
-.. _CategoryHomepage: ../CategoryHomepage
 
