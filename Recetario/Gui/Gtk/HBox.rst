@@ -1,12 +1,10 @@
-#format rst
-## page was renamed from Recetario/Gtk/HBox
 
 GtkHBox
 -------
 
 ejemplo que muestra el uso de hbox (cajas horizontales) para ordenar elementos de forma horizontal
 
-`attachment:hbox.png`_
+`hbox.png </wiki/Recetario/Gui/Gtk/HBox/attachment/588/hbox.png>`_
 
 ::
 
