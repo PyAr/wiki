@@ -1,4 +1,3 @@
-#format rst
 
 Hola mundo! Estoy aca
 
