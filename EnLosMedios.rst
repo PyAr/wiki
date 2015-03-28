@@ -1,4 +1,3 @@
-#format rst
 
 PyAr y Python en los medios
 ===========================
