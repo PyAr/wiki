@@ -1,4 +1,3 @@
-#format rst
 
 Martín Conte Mac Donell
 -----------------------
