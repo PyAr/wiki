@@ -1,5 +1,3 @@
-#format rst
-## page was renamed from Recetario/Gtk/RichText
 
   == GtkRichText_ ==
 
@@ -170,7 +168,7 @@ Ejemplo sobre como mostrar texto con formato en un gtk.TextView_, se crea una cl
       </span><span class="line">    <span class="n">test</span><span class="p">()</span>
       </span>
 
-`attachment:GtkRichText.png`_
+`GtkRichText.png </wiki/Recetario/Gui/Gtk/RichText/attachment/572/GtkRichText.png>`_
 
 mas info:
 
