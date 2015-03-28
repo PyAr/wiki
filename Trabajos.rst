@@ -1,3 +1,7 @@
+.. class:: alert alert-warning
+
+**Atención:** Esta página es el resultado de la migración de nuestra `vieja wiki`_.
+En la nueva web tenemos una sección `trabajos`_
 
 Trabajos en Python
 ==================
@@ -320,8 +324,10 @@ Se solicita envío del salario en bruto pretendido  (cvs a: `afaletti@consensusg
 
 * **(17/11/2014)** En Machinalis_ estamos buscando para pronta incorporación:
 
-+ Una persona de Córdoba para que se sume a un equipo haciendo la parte de Frontend (maquetado y desarrollo)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Una persona de Córdoba para que se sume a un equipo haciendo la parte de Frontend (maquetado y desarrollo)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 **Algunas keywords:**
 
@@ -367,8 +373,8 @@ Se solicita envío del salario en bruto pretendido  (cvs a: `afaletti@consensusg
 
 * OOCSS
 
-+ Una persona de Córdoba para que se sume a un equipo haciendo testing funcional
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Una persona de Córdoba para que se sume a un equipo haciendo testing funcional
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Keywords:**
 
@@ -475,7 +481,7 @@ Nuestro cliente una empresa en rápido crecimiento, se encuentra en la búsqueda
 
 * (12/08/2014) En Link-b estamos buscando ampliar la familia con un/a programador/a con sólidos conocimientos en PHP y/o Python. Que también haya trabajado con javascript y jquery. Que sepa maquetar un sitio desde su diseño en PSD/AI hasta entregar una HTML,CSS (o SASS), JS terminada lista para implementar. Usamos frameworks cómo Django, Compass, Foundation, jQuery y otros.
 
-    Nosotros somos una empresa copada, joven, divertida y en pleno crecimiento, nos gusta divertirnos pero cumplir (alguien dijo asados/cerveza/plaza?). Estamos en Vicente López (Buenos Aires Norte) las oficinas son limpias, el ambiente de laburo es super ameno, hay café, té, mate y cada tanto traemos torta y todos los días hay muchas buenas vibras |:)|
+Nosotros somos una empresa copada, joven, divertida y en pleno crecimiento, nos gusta divertirnos pero cumplir (alguien dijo asados/cerveza/plaza?). Estamos en Vicente López (Buenos Aires Norte) las oficinas son limpias, el ambiente de laburo es super ameno, hay café, té, mate y cada tanto traemos torta y todos los días hay muchas buenas vibras :)
 
     Si estas interesado/a o sabes de alguien que le puede interesar, hacele llegar este el mail. Contacto al mail `xavier@link-b.com`_ con REF: print "Hola!"
 
@@ -524,9 +530,9 @@ Nuestro cliente una empresa en rápido crecimiento, se encuentra en la búsqueda
 
 * (31/07/2014) Python or wannabe Python Dev
 
-    En MSA_ buscamos incorporar programadores Python (de todos los niveles) con deseables conocimientos de ambiente Open Source, Linux (Ubuntu), tecnologías Web y manejo de bases de datos (SQL).
-     Buscamos gente proactiva, con habilidades autodidactas y afinidad al Software Libre.
-    Si pensás que puede interesarte la propuesta, no dejes de comunicarte con nosotros vía mail con el CV y/o pretensiones a <rrhh EN msa PUNTO com PUNTO ar>
+En MSA_ buscamos incorporar programadores Python (de todos los niveles) con deseables conocimientos de ambiente Open Source, Linux (Ubuntu), tecnologías Web y manejo de bases de datos (SQL).
+Buscamos gente proactiva, con habilidades autodidactas y afinidad al Software Libre.
+Si pensás que puede interesarte la propuesta, no dejes de comunicarte con nosotros vía mail con el CV y/o pretensiones a <rrhh EN msa PUNTO com PUNTO ar>
 
 * (29/07/2014) En `IT Crowd Argentina`_,  buscamos programadores Python SR con 3 años experiencia mínima para colaborar en el desarrollo de una Start-Up Web en EEUU en el area de Legal Analytics. Trabajo 100% remoto, horarios flexibles, excelente remuneración y muy buen ambiente laboral. Conocimientos de Django y Flask son un plus. Se requiere buen nivel de inglés (oral / escrito). Los interesados por favor contactarse con Alejandro Isacovich a `[[MailTo(aisacovich@itcrowdarg.com)]]`_ Ref: Python
 
@@ -678,9 +684,9 @@ Habilidades: Conocimientos y manejo de herramientas de modelado para UML, metodo
 
 * (06/01/2014) Python or wannabe Python Dev
 
-    En MSA_ buscamos incorporar programadores Python (de todos los niveles) con deseables conocimientos de ambiente Open Source, Linux (Ubuntu), tecnologías Web y manejo de bases de datos (SQL).
-     Buscamos gente proactiva, con habilidades autodidactas y afinidad al Software Libre.
-    Si pensás que puede interesarte la propuesta, no dejes de comunicarte con nosotros vía mail con el CV y/o pretensiones a <rrhh EN msa PUNTO com PUNTO ar>
+En MSA_ buscamos incorporar programadores Python (de todos los niveles) con deseables conocimientos de ambiente Open Source, Linux (Ubuntu), tecnologías Web y manejo de bases de datos (SQL).
+Buscamos gente proactiva, con habilidades autodidactas y afinidad al Software Libre.
+Si pensás que puede interesarte la propuesta, no dejes de comunicarte con nosotros vía mail con el CV y/o pretensiones a <rrhh EN msa PUNTO com PUNTO ar>
 
 2013
 ----
@@ -1078,8 +1084,6 @@ Abrazos a la comunidad python.
 
 .. _hackers@kenwin.net: mailto:hackers@kenwin.net
 
-.. _fernando@iBillionaire.me: mailto:fernando@iBillionaire.me
-
 .. _Onapsis: http://www.onapsis.com
 
 .. _Juju: http://www.juju.com
@@ -1157,6 +1161,9 @@ Abrazos a la comunidad python.
 
 .. _Oony: http://oony.com
 
+.. _trabajos: /trabajos
+
+.. _vieja wiki: http://old.python.org.ar/Trabajos/
 
 
 
