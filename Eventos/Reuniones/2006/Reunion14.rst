@@ -1,5 +1,3 @@
-#format rst
-## page was renamed from Eventos/Reuniones/Reunion14
 
 Reunión 14 - 08/03/2006 - Hip Bar
 =================================
@@ -61,4 +59,9 @@ A eso de las 23:30 se marcho el novato escriba (yo), dejando un pedido de llevar
 .. ############################################################################
 
 .. _ORCA: http://quark.fe.up.pt/orca/index.es.html
+
+
+
+.. role:: strike
+   :class: strike
 
