@@ -1,5 +1,3 @@
-#format rst
-## page was renamed from Eventos/Reuniones/Reunion17
 
 Reunión 17 - 05/07/2006 - Hip Bar
 =================================
