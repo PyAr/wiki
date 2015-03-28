@@ -1,4 +1,3 @@
-#format rst
 
 PyDay Buenos Aires 2010
 =======================
