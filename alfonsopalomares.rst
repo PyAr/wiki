@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Alfonso Palomares
 -----------------
@@ -38,9 +36,6 @@ Email: `[[MailTo(<<MailTo(la_palomares EN yahoo PUNTO es)]]`_ )>>
 
 .. ############################################################################
 
-.. _VialeTiziano: ../VialeTiziano
 
-.. _JavaScript: ../JavaScript
 
-.. _CategoryHomepage: ../CategoryHomepage
 
