@@ -1,7 +1,3 @@
-#format rst
-## page was renamed from Eventos/Reuniones/Reunion06
-## page was renamed from Eventos/Reuniones/ReunionSeis
-## page was renamed from Eventos/ReunionSeis
 
 Reunión 06 - 10/02/2005 - Hip Bar
 =================================
