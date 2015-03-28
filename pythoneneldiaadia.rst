@@ -1,31 +1,71 @@
+#format rst
+
 Esta pagina esta dedicada a enumerar los programas de python que es posible usar en cosas comunes, ademas de hacer una lista la idea seria poner las librerias mas importantes que usa.
 
-= Programas escritos en python =
+Programas escritos en python
+============================
 
-== IDE ==
- * [[http://ninja-ide.org/|Ninja-Ide]]
+IDE
+---
 
-== Gestor de bibliotecas ==
- * [[http://calibre-ebook.com/|Calibre]]
+* Ninja-Ide_
 
+Gestor de bibliotecas
+---------------------
 
-== P2P ==
-=== Bit Torrent ===
- . '''Clientes:'''
+* Calibre_
 
- . [[http://www.tribler.org/|Tribler]]
+P2P
+---
 
- . [[http://deluge-torrent.org|Deluge]]
+Bit Torrent
+~~~~~~~~~~~
 
- . [[http://code.google.com/p/lh-abc/|LH-ABC]]
+  **Clientes:**
 
- . '''Buscadores:'''
+  Tribler_
 
- . [[http://torrent-search.sourceforge.net/|Torrent Search]]
+  Deluge_
 
-= Programas scripteables en python =
-= Sitios web =
- . [[http://www.disqus.com/|Disqus]]
- . [[http://www.google.com/|Google]]
- . [[http://www.bitbucket.org/|Bitbucket]]
- . [[http://www.dpaste.com/|Dpaste]]
+  LH-ABC_
+
+  **Buscadores:**
+
+  `Torrent Search`_
+
+Programas scripteables en python
+================================
+
+Sitios web
+==========
+
+  Disqus_
+
+  Google_
+
+  Bitbucket_
+
+  Dpaste_
+
+.. ############################################################################
+
+.. _Ninja-Ide: http://ninja-ide.org/
+
+.. _Calibre: http://calibre-ebook.com/
+
+.. _Tribler: http://www.tribler.org/
+
+.. _Deluge: http://deluge-torrent.org
+
+.. _LH-ABC: http://code.google.com/p/lh-abc/
+
+.. _Torrent Search: http://torrent-search.sourceforge.net/
+
+.. _Disqus: http://www.disqus.com/
+
+.. _Google: http://www.google.com/
+
+.. _Bitbucket: http://www.bitbucket.org/
+
+.. _Dpaste: http://www.dpaste.com/
+
