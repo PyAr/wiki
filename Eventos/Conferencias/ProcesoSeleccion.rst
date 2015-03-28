@@ -1,13 +1,28 @@
-= PyCon Argentina =
-== Selección de sedes para PyCon Argentina 2013 ==
+#format rst
 
+PyCon Argentina
+===============
 
-=== Proceso: ===
+Selección de sedes para PyCon Argentina 2013
+--------------------------------------------
 
- [[https://selpyconar2013.readthedocs.org/|Documentación completa del proceso de selección de sedes]]
-    
-=== Propuestas de Sedes ===
+Proceso:
+~~~~~~~~
 
-[[Eventos/Conferencias/ProcesoSeleccion/PropuestaDePycon2013EnCordobaCapital|Pycon 2013 en Cordoba Capital]]
+  `Documentación completa del proceso de selección de sedes`_
 
-[[Eventos/Conferencias/ProcesoSeleccion/PropuestaDePycon2013EnRosario|Pycon 2013 en Rosario]]
+Propuestas de Sedes
+~~~~~~~~~~~~~~~~~~~
+
+`Pycon 2013 en Cordoba Capital`_
+
+`Pycon 2013 en Rosario`_
+
+.. ############################################################################
+
+.. _Documentación completa del proceso de selección de sedes: https://selpyconar2013.readthedocs.org/
+
+.. _Pycon 2013 en Cordoba Capital: /PropuestaDePycon2013EnCordobaCapital
+
+.. _Pycon 2013 en Rosario: /PropuestaDePycon2013EnRosario
+
