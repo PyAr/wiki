@@ -1,4 +1,3 @@
-#format rst
 
 PyDay
 =====
@@ -174,9 +173,7 @@ El código fuente está publicado en googlecode_, proximamente paquete instalabl
 
 .. ############################################################################
 
-.. _Material: ../Material
 
-.. _PyAr: ../PyAr
 
 .. _web2py: http://www.web2py.com.ar
 
