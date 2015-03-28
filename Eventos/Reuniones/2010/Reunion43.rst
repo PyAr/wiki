@@ -1,45 +1,38 @@
+#format rst
 ## page was renamed from Eventos/Reuniones/2011/Reunion43
-## page was renamed from Eventos/Reuniones/Reunion43
-== Reunión 43 - Martes 24 de Agosto - Ciudad de Cordoba, en Alfonsina de Belgrano -- 19hs ==
+
+Reunión 43 - Martes 24 de Agosto - Ciudad de Cordoba, en Alfonsina de Belgrano -- 19hs
+--------------------------------------------------------------------------------------
+
 Definimos cuando usando la lista de correo
 
-''' Asistentes: '''
+ **Asistentes:** 
 
- ||Mariano Guerra ||
- ||Alejandro Cura ||
- ||Horacio Duran ||
- ||Natalia Bidart ||
- ||Matias Bordese ||
- ||Invitados interacionales de canonical ||
- ||Martin Gaitan ||
- ||Daniel Moisset ||
- ||Federico Heinz ||
- ||John Lenton ||
- ||Nueces ||
- ||Matias Bellone ||
- ||Emanuel Sartor ||
- ||Silvestre Huens ||
+ 
 
-
+  [Table not converted]
 
 Si me olvide a alguien anotense
 
-'''Minuta'''
+**Minuta**
 
 Solución mas corta al problema planteado en PET
 
- * gente intentando hacerlo mas corto
- * gente diciendo que ese tipo de problemas va contra el zen
+* gente intentando hacerlo mas corto
 
-PyCamp de primavera
+* gente diciendo que ese tipo de problemas va contra el zen
 
- * se discutieron precios posibilidades e inconvenientes
- * el tema se iba a seguir por la lista
+PyCamp_ de primavera
 
-Anécdotas de SysAdmins
+* se discutieron precios posibilidades e inconvenientes
 
- * las mil y una noches versión sysadmin
+* el tema se iba a seguir por la lista
 
-Repaso por el estado de PyCon 2010
+Anécdotas de SysAdmins_
 
- * principalmente información de perrito hacia el resto
+* las mil y una noches versión sysadmin
+
+Repaso por el estado de PyCon_ 2010
+
+* principalmente información de perrito hacia el resto
+
