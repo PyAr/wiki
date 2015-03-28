@@ -1,4 +1,3 @@
-#format rst
 
 Instrucciones para encargados de aula
 =====================================
@@ -55,5 +54,4 @@ Anotarse en `Llamado a Voluntarios`_
 
 .. ############################################################################
 
-.. _Llamado a Voluntarios: ../LlamadoVoluntarios
 
