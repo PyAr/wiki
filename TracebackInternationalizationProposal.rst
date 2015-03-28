@@ -1,4 +1,3 @@
-#format rst
 
 ::
 
@@ -204,5 +203,5 @@
    coding: utf-8
    End:
 
-Attachment moin wiki code: `attachment:python_traceback_i18n_proof_of_concept.diff`_python_traceback_i18n_proof_of_concept.diff`attachment:None`_
+Attachment moin wiki code: 
 
