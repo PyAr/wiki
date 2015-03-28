@@ -1,6 +1,12 @@
-Es bastante común encontrar interesados en tener algún servicio de hosting.
-Esta es una lista de personas que estarían interesadas (comprometidas) en caso de existir algúno, en adquirir el servicio.
+#format rst
 
-||nombre||fecha||
-||AlejandroDavidWeil||2007 febrero||
-||GustavoSalvini||2007 febrero||
+Es bastante común encontrar interesados en tener algún servicio de hosting. Esta es una lista de personas que estarían interesadas (comprometidas) en caso de existir algúno, en adquirir el servicio.
+
+[Table not converted]
+
+.. ############################################################################
+
+.. _AlejandroDavidWeil: ../AlejandroDavidWeil
+
+.. _GustavoSalvini: ../GustavoSalvini
+
