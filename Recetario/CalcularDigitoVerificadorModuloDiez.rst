@@ -1,4 +1,3 @@
-#format rst
 
 Cálculo de Dígito Verificador Módulo 10
 ---------------------------------------
