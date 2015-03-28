@@ -1,4 +1,3 @@
-#format rst
 
 Ezequiel Diaz Marquez
 ---------------------
@@ -17,5 +16,4 @@ Email: `[[MailTo(exe.zaid AT SPAMFREE gmail DOT com)]]`_
 
 .. _Web Site: http://ezequielmarquez.com.ar/
 
-.. _CategoryHomepage: ../CategoryHomepage
 
