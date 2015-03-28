@@ -1,4 +1,3 @@
-#format rst
 
 Chistes y QOTW (Frases de la semana)
 ====================================
@@ -58,5 +57,4 @@ En la presentacion del blog propio de PyWars_
 
 .. ############################################################################
 
-.. _PyWars: ../PyWars
 
