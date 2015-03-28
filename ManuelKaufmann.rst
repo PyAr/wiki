@@ -1,8 +1,3 @@
-#format rst
-## Please edit system and help pages ONLY in the moinmaster wiki! For more
-## information, please see MoinMaster:MoinPagesEditorGroup.
-## master-page:CategoryTemplate
-## master-date:Unknown-Date
 
 Manuel Kaufmann
 ---------------
@@ -19,9 +14,6 @@ En Abril de 2014 empecé un proyecto llamado "Argentina en Python" (http://elblo
 
 .. ############################################################################
 
-.. _FacundoBatista: ../FacundoBatista
 
-.. _LucioTorre: ../LucioTorre
 
-.. _CategoryHomepage: ../CategoryHomepage
 
