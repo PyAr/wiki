@@ -1,6 +1,3 @@
-#format rst
-## master-page:CharlaTemplate
-## master-date:Unknown-Date
 
 pycamp.orm, haciendo facil usar sqlalchemy :)
 =============================================
@@ -29,11 +26,7 @@ SqlAlchemy_ es un excelente orm cual nos permite trabajar con bases de datos rel
 
 .. ############################################################################
 
-.. _PyDay 2011: ../Eventos/PyDay/2011/Cordoba
 
-.. _EmilianoDallaVerdeMarcozzi: ../EmilianoDallaVerdeMarcozzi
 
-.. _SqlAlchemy: ../SqlAlchemy
 
-.. _CategoryVideo: ../CategoryVideo
 
