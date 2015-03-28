@@ -1,4 +1,3 @@
-#format rst
 
 Locals De Una Funcion Que Lanzo Una Excepcion
 =============================================
