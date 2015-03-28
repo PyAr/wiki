@@ -1,11 +1,10 @@
-#format rst
 
 Emulador de terminal con Gtk y VTE
 ==================================
 
 un ejemplo de como hacer una terminal visual al estilo gnome-terminal 
 
-`attachment:pyshell.png`_
+`pyshell.png </wiki/Recetario/Gui/Gtk/EmuladorTerminal/attachment/590/pyshell.png>`_
 
 ::
 
