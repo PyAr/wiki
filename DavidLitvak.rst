@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 David Litvak
 ------------
@@ -20,5 +18,4 @@ Pueden ver proyectos mios en: GitHub_
 
 .. _GitHub: http://github.com/dlitvakb
 
-.. _CategoryHomepage: ../CategoryHomepage
 
