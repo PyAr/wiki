@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Sergio Vernis
 -------------
@@ -14,5 +12,4 @@ Email: `[[MailTo(svernis AT SPAMFREE gmail DOT com)]]`_
 
 .. ############################################################################
 
-.. _CategoryHomepage: ../CategoryHomepage
 
