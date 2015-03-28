@@ -1,195 +1,197 @@
-## page was renamed from PyCamp/2013/PosiblesSedes/PyCamp/2013/PosiblesSedes/Votos
-== Votación PyCamp 2013 ==
+#format rst
+
+Votación PyCamp 2013
+--------------------
 
 El resultado de la votación fue:
 
-{{{
-   84 Hotel Luz y Fuerza
-   75 Hostal Colonial Serrano
-   72 Verónica
-   47 Villa Maristas Lujan
-   24 Villa Maristas Mar del Plata
-}}}
+::
 
+      84 Hotel Luz y Fuerza
+      75 Hostal Colonial Serrano
+      72 Verónica
+      47 Villa Maristas Lujan
+      24 Villa Maristas Mar del Plata
 
 Estas fueron las votaciones en detalle:
 
-{{{
-Facundo Batista
-Hostal Colonial Serrano
-Verónica
-Villa Maristas Lujan
-Hotel Luz y Fuerza
+::
 
-Daniel F. Moisset
-Hotel Luz y Fuerza
-Hostal Colonial Serrano
-Verónica
+   Facundo Batista
+   Hostal Colonial Serrano
+   Verónica
+   Villa Maristas Lujan
+   Hotel Luz y Fuerza
 
-Sergio Schvezov
-Hotel Luz y Fuerza
-Villa Maristas Mar del Plata
-Hostal Colonial Serrano
+   Daniel F. Moisset
+   Hotel Luz y Fuerza
+   Hostal Colonial Serrano
+   Verónica
 
-Alejandro J. Cura
-Hostal Colonial Serrano
-Verónica
-Hotel Luz y Fuerza
+   Sergio Schvezov
+   Hotel Luz y Fuerza
+   Villa Maristas Mar del Plata
+   Hostal Colonial Serrano
 
-Emiliano Dalla Verde Marcozzi
-Hostal Colonial Serrano
-Hotel Luz y Fuerza
-Verónica
+   Alejandro J. Cura
+   Hostal Colonial Serrano
+   Verónica
+   Hotel Luz y Fuerza
 
-Marcos Vanetta
-Villa Maristas Lujan
-Verónica
-Hotel Luz y Fuerza
+   Emiliano Dalla Verde Marcozzi
+   Hostal Colonial Serrano
+   Hotel Luz y Fuerza
+   Verónica
 
-Natalia Bidart
-Hostal Colonial Serrano
-Hotel Luz y Fuerza
-Villa Maristas Lujan
+   Marcos Vanetta
+   Villa Maristas Lujan
+   Verónica
+   Hotel Luz y Fuerza
 
-Juan Pedro Fisanotti
-Villa Maristas Lujan
-Hotel Luz y Fuerza
-Hostal Colonial Serrano
-Verónica
+   Natalia Bidart
+   Hostal Colonial Serrano
+   Hotel Luz y Fuerza
+   Villa Maristas Lujan
 
-Erwin Feser
-Hostal Colonial Serrano
-Hotel Luz y Fuerza
+   Juan Pedro Fisanotti
+   Villa Maristas Lujan
+   Hotel Luz y Fuerza
+   Hostal Colonial Serrano
+   Verónica
 
-Juan A. Diaz
-Villa Maristas Mar del Plata
-Hostal Colonial Serrano
-Hotel Luz y Fuerza
+   Erwin Feser
+   Hostal Colonial Serrano
+   Hotel Luz y Fuerza
 
-Hernan Lozano
-Hotel Luz y Fuerza
-Hostal Colonial Serrano
-Verónica
-Villa Maristas Mar del Plata
+   Juan A. Diaz
+   Villa Maristas Mar del Plata
+   Hostal Colonial Serrano
+   Hotel Luz y Fuerza
 
-Agustin Henze
-Hotel Luz y Fuerza
-Hostal Colonial Serrano
-Verónica
+   Hernan Lozano
+   Hotel Luz y Fuerza
+   Hostal Colonial Serrano
+   Verónica
+   Villa Maristas Mar del Plata
 
-Santiago Piccinini
-Villa Maristas Lujan
-Verónica
+   Agustin Henze
+   Hotel Luz y Fuerza
+   Hostal Colonial Serrano
+   Verónica
 
-Diego Sarmentero
-Hostal Colonial Serrano
-Verónica
-Hotel Luz y Fuerza
+   Santiago Piccinini
+   Villa Maristas Lujan
+   Verónica
 
-Jairo Trad
-Verónica
-Villa Maristas Mar del Plata
-Hostal Colonial Serrano
+   Diego Sarmentero
+   Hostal Colonial Serrano
+   Verónica
+   Hotel Luz y Fuerza
 
-Pablo Mouzo
-Verónica
-Villa Maristas Lujan
+   Jairo Trad
+   Verónica
+   Villa Maristas Mar del Plata
+   Hostal Colonial Serrano
 
-Federico M. Peretti
-Verónica
-Villa Maristas Lujan
-Villa Maristas Mar del Plata
+   Pablo Mouzo
+   Verónica
+   Villa Maristas Lujan
 
-Matías Bordese
-Hotel Luz y Fuerza
-Hostal Colonial Serrano
-Verónica
+   Federico M. Peretti
+   Verónica
+   Villa Maristas Lujan
+   Villa Maristas Mar del Plata
 
-Leandro Nahuel Roque Poblet
-Hotel Luz y Fuerza
-Villa Maristas Lujan
-Verónica
+   Matías Bordese
+   Hotel Luz y Fuerza
+   Hostal Colonial Serrano
+   Verónica
 
-Ricardo Kirkner
-Hotel Luz y Fuerza
-Hostal Colonial Serrano
-Verónica
-Villa Maristas Lujan
+   Leandro Nahuel Roque Poblet
+   Hotel Luz y Fuerza
+   Villa Maristas Lujan
+   Verónica
 
-Sanchez Héctor
-Verónica
-Villa Maristas Mar del Plata
-Villa Maristas Lujan
+   Ricardo Kirkner
+   Hotel Luz y Fuerza
+   Hostal Colonial Serrano
+   Verónica
+   Villa Maristas Lujan
 
-Francisco Capdevila
-Hotel Luz y Fuerza
-Hostal Colonial Serrano
-Villa Maristas Lujan
+   Sanchez Héctor
+   Verónica
+   Villa Maristas Mar del Plata
+   Villa Maristas Lujan
 
-Elías Andrawos
-Hotel Luz y Fuerza
-Hostal Colonial Serrano
-Villa Maristas Lujan
-Villa Maristas Mar del Plata
-Verónica
+   Francisco Capdevila
+   Hotel Luz y Fuerza
+   Hostal Colonial Serrano
+   Villa Maristas Lujan
 
-Felipe Lerena
-Hotel Luz y Fuerza
-Hostal Colonial Serrano
-Verónica
+   Elías Andrawos
+   Hotel Luz y Fuerza
+   Hostal Colonial Serrano
+   Villa Maristas Lujan
+   Villa Maristas Mar del Plata
+   Verónica
 
-Claudio Canepa
-Verónica
-Hotel Luz y Fuerza
-Villa Maristas Lujan
-}}}
+   Felipe Lerena
+   Hotel Luz y Fuerza
+   Hostal Colonial Serrano
+   Verónica
+
+   Claudio Canepa
+   Verónica
+   Hotel Luz y Fuerza
+   Villa Maristas Lujan
 
 Las cuales se evaluaron con el siguiente script:
 
-{{{
-#!code python
+::
 
-# ¡Py3!
+   .. raw:: html
+      <span class="line"><span class="c"># ¡Py3!</span>
+      </span><span class="line">
+      </span><span class="line"><span class="kn">import</span> <span class="nn">operator</span>
+      </span><span class="line">
+      </span><span class="line"><span class="c"># this is the total number of possibilites open to vote</span>
+      </span><span class="line"><span class="n">TOP_SCORE</span> <span class="o">=</span> <span class="mi">5</span>
+      </span><span class="line">
+      </span><span class="line"><span class="k">class</span> <span class="nc">ResultCalculator</span><span class="p">:</span>
+      </span><span class="line">    <span class="sd">&quot;&quot;&quot;Calculate the voting result.&quot;&quot;&quot;</span>
+      </span><span class="line">    <span class="k">def</span> <span class="nf">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">_count</span> <span class="o">=</span> <span class="p">{}</span>
+      </span><span class="line">
+      </span><span class="line">    <span class="k">def</span> <span class="nf">vote</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">block</span><span class="p">):</span>
+      </span><span class="line">        <span class="sd">&quot;&quot;&quot;Feed the voting blocks.&quot;&quot;&quot;</span>
+      </span><span class="line">        <span class="c"># first line is a header, the rest are votes</span>
+      </span><span class="line">        <span class="n">votes</span> <span class="o">=</span> <span class="n">block</span><span class="p">[</span><span class="mi">1</span><span class="p">:]</span>
+      </span><span class="line">
+      </span><span class="line">        <span class="c"># score are descending</span>
+      </span><span class="line">        <span class="k">for</span> <span class="n">place</span><span class="p">,</span> <span class="n">score</span> <span class="ow">in</span> <span class="nb">zip</span><span class="p">(</span><span class="n">votes</span><span class="p">,</span> <span class="nb">range</span><span class="p">(</span><span class="n">TOP_SCORE</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="o">-</span><span class="mi">1</span><span class="p">)):</span>
+      </span><span class="line">            <span class="bp">self</span><span class="o">.</span><span class="n">_count</span><span class="p">[</span><span class="n">place</span><span class="p">]</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">_count</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="n">place</span><span class="p">,</span> <span class="mi">0</span><span class="p">)</span> <span class="o">+</span> <span class="n">score</span>
+      </span><span class="line">
+      </span><span class="line">    <span class="k">def</span> <span class="nf">print_result</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+      </span><span class="line">        <span class="sd">&quot;&quot;&quot;Show the result.&quot;&quot;&quot;</span>
+      </span><span class="line">        <span class="n">result</span> <span class="o">=</span> <span class="nb">sorted</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">_count</span><span class="o">.</span><span class="n">items</span><span class="p">(),</span>
+      </span><span class="line">                        <span class="n">key</span><span class="o">=</span><span class="n">operator</span><span class="o">.</span><span class="n">itemgetter</span><span class="p">(</span><span class="mi">1</span><span class="p">),</span> <span class="n">reverse</span><span class="o">=</span><span class="bp">True</span><span class="p">)</span>
+      </span><span class="line">        <span class="k">for</span> <span class="n">place</span><span class="p">,</span> <span class="n">score</span> <span class="ow">in</span> <span class="n">result</span><span class="p">:</span>
+      </span><span class="line">            <span class="k">print</span><span class="p">(</span><span class="s">&quot;{:5d} {}&quot;</span><span class="o">.</span><span class="n">format</span><span class="p">(</span><span class="n">score</span><span class="p">,</span> <span class="n">place</span><span class="p">))</span>
+      </span><span class="line">
+      </span><span class="line"><span class="k">with</span> <span class="nb">open</span><span class="p">(</span><span class="s">&quot;voto_pycamp.txt&quot;</span><span class="p">,</span> <span class="n">encoding</span><span class="o">=</span><span class="s">&quot;utf8&quot;</span><span class="p">)</span> <span class="k">as</span> <span class="n">fh</span><span class="p">:</span>
+      </span><span class="line">    <span class="n">block</span> <span class="o">=</span> <span class="p">[]</span>
+      </span><span class="line">    <span class="n">rc</span> <span class="o">=</span> <span class="n">ResultCalculator</span><span class="p">()</span>
+      </span><span class="line">    <span class="k">for</span> <span class="n">line</span> <span class="ow">in</span> <span class="n">fh</span><span class="p">:</span>
+      </span><span class="line">        <span class="n">line</span> <span class="o">=</span> <span class="n">line</span><span class="o">.</span><span class="n">strip</span><span class="p">()</span>
+      </span><span class="line">        <span class="k">if</span> <span class="n">line</span><span class="p">:</span>
+      </span><span class="line">            <span class="n">block</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">line</span><span class="p">)</span>
+      </span><span class="line">        <span class="k">else</span><span class="p">:</span>
+      </span><span class="line">            <span class="c"># empty line: block delimiter</span>
+      </span><span class="line">            <span class="n">rc</span><span class="o">.</span><span class="n">vote</span><span class="p">(</span><span class="n">block</span><span class="p">)</span>
+      </span><span class="line">            <span class="n">block</span> <span class="o">=</span> <span class="p">[]</span>
+      </span><span class="line">    <span class="n">rc</span><span class="o">.</span><span class="n">vote</span><span class="p">(</span><span class="n">block</span><span class="p">)</span>
+      </span><span class="line">
+      </span><span class="line"><span class="k">print</span><span class="p">(</span><span class="s">&quot;Resultado:&quot;</span><span class="p">)</span>
+      </span><span class="line"><span class="n">rc</span><span class="o">.</span><span class="n">print_result</span><span class="p">()</span>
+      </span>
 
-import operator
-
-# this is the total number of possibilites open to vote
-TOP_SCORE = 5
-
-class ResultCalculator:
-    """Calculate the voting result."""
-    def __init__(self):
-        self._count = {}
-
-    def vote(self, block):
-        """Feed the voting blocks."""
-        # first line is a header, the rest are votes
-        votes = block[1:]
-
-        # score are descending
-        for place, score in zip(votes, range(TOP_SCORE, 0, -1)):
-            self._count[place] = self._count.get(place, 0) + score
-
-    def print_result(self):
-        """Show the result."""
-        result = sorted(self._count.items(),
-                        key=operator.itemgetter(1), reverse=True)
-        for place, score in result:
-            print("{:5d} {}".format(score, place))
-
-with open("voto_pycamp.txt", encoding="utf8") as fh:
-    block = []
-    rc = ResultCalculator()
-    for line in fh:
-        line = line.strip()
-        if line:
-            block.append(line)
-        else:
-            # empty line: block delimiter
-            rc.vote(block)
-            block = []
-    rc.vote(block)
-
-print("Resultado:")
-rc.print_result()
-}}}
