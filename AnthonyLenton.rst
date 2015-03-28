@@ -1,10 +1,18 @@
-##master-page:HomepageTemplate
-#format wiki
-== Anthony Lenton ==
+#format rst
+## master-page:HomepageTemplate
 
-Email: <<MailTo(anthony AT SPAMFREE canonical DOT com)>>
+Anthony Lenton
+--------------
+
+Email: `[[MailTo(anthony AT SPAMFREE canonical DOT com)]]`_
 
 Trabajo en Canonical.  Ahí usamos Python un montón, porque es mejor que la leche condensada.
 
-----
-CategoryHomepage
+-------------------------
+
+ CategoryHomepage_
+
+.. ############################################################################
+
+.. _CategoryHomepage: ../CategoryHomepage
+
