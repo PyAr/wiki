@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Gabriel Genellina
 -----------------
@@ -16,5 +14,4 @@ Email: lainicialdeminombreseguidademiapellido arroba yahoo
 
 .. ############################################################################
 
-.. _CategoryHomepage: ../CategoryHomepage
 
