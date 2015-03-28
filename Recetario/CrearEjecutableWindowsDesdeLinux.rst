@@ -1,4 +1,3 @@
-#format rst
 
 Empaquetando programas de Python para Windows desde Linux
 =========================================================
