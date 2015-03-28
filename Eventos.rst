@@ -10,9 +10,9 @@ En PyAr_ planeamos cuatro tipos de eventos:
 
 * `Reuniones PyAr`_:
 
-Son las reuniones que hacemos los miembros de PyAr_ para planificar y realizar actividades concernientes a nuestro objetivo. Las reuniones se organizan cuando consideramos que hay un motivo específico que tratar (o juntamos demasiadas ganas de tomar cerveza... ) [1]_
+Son las reuniones que hacemos los miembros de PyAr_ para planificar y realizar actividades concernientes a nuestro objetivo. Las reuniones se organizan cuando consideramos que hay un motivo específico que tratar (o juntamos demasiadas ganas de tomar cerveza... ) [1]
 
-* Sprints_ [2]_:
+* Sprints_ `[2]`_ :
 
 Pretendemos realizar sesiones de desarrollo para proyectos que nos llamen la atención, como un evento social y de mejora para el software (libre) argentino. 
 
@@ -20,27 +20,23 @@ Pretendemos realizar sesiones de desarrollo para proyectos que nos llamen la ate
 
 Participamos en eventos de Software Libre con temas concernientes a Python.
 
-* PyCamps_:
+* PyCamp_:
 
 Nos reunimos varios dias para trabajar en distintos proyectos de software libre relacionados con el lenguaje de programación Python, conocernos y compartir experiencias.
 
-reuniones_:
-
-sprints_:
-
-conferencias_:
-
 .. ############################################################################
 
-.. [1] Al principio, comenzamos realizando reuniones mensuales, el segundo jueves de cada mes. Con el tiempo, esta modalidad cayó en desuso.
+.. [1]  Al principio, comenzamos realizando reuniones mensuales, el segundo jueves de cada mes. Con el tiempo, esta modalidad cayó en desuso.
 
-.. [2] El concepto de sprint está explicado aquí: ["PreguntasFrecuentes#SPRINT"]
+.. [2]  El concepto de sprint está explicado aquí: `PreguntasFrecuentes#que-es-un-sprint`_
 
 
-.. _Reuniones PyAr: Eventos#reuniones
+.. _Reuniones PyAr: Reuniones
 
-.. _Sprints: http://old.python.org.ar/Eventos
+.. _Sprints: Sprints
 
-.. _Conferencias: http://old.python.org.ar/Eventos
+.. _Conferencias: Conferencias
 
 .. _vieja wiki: http://old.python.org.ar/Eventos
+
+.. _PreguntasFrecuentes#que-es-un-sprint: /PreguntasFrecuentes#que-es-un-sprint
