@@ -1,4 +1,3 @@
-#format rst
 
 Esta página es una ayuda a los programadores que vienen del mundo "visual" (VB clásico versiones 5.0 y 6.0)
 
@@ -95,13 +94,9 @@ Entorno de desarrollo integrado (IDE) y Migración
 
 .. ############################################################################
 
-.. _StaniPythonEditor: ../StaniPythonEditor
 
-.. _WinPdb: ../WinPdb
 
-.. _PyChecker: ../PyChecker
 
-.. _PythonCard: ../PythonCard
 
 .. _vb2py: http://vb2py.sourceforge.net/
 
