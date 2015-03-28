@@ -1,4 +1,3 @@
-#format rst
 
 Mini space invaders
 -------------------
