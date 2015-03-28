@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Alejo aka Polar
 ---------------
@@ -14,5 +12,4 @@ Email: `[[MailTo(alejopa AT gmail example DOT com)]]`_.. You can even more obfus
 
 .. ############################################################################
 
-.. _CategoryHomepage: ../CategoryHomepage
 
