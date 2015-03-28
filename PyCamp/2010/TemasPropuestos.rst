@@ -1,4 +1,3 @@
-#format rst
 
 Acá van los temas propuestos, con adherentes:
 
