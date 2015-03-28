@@ -1,24 +1,6 @@
-
-.. ||<tablestyle="width:100%; color: red; text-align:center;"> {*} ~+'' HOY, miércoles 5 de marzo, 26^a^ reunión de PyAr, en Bs.As. Más detalles [wiki:Eventos/Reuniones/ProximaReunion aquí].''+~ ||
-
-.. ||<tablestyle="width:100%; color: red; text-align:center;"> {*} ~+''Cerro la votación de la Bandera. [wiki:Bandera/resultados Resultados]. ''+~ ||
-
-.. ||<tablestyle="width:100%;text-align:center; border-style: hidden;">[[http://www.ekoparty.org/|{{attachment:ekoparty.png}}]]||
-
-Bienvenido a PyAr - Python Argentina
+Bienvenid@s a la wiki de PyAr
 ====================================
 
-.. para sacar el color negro de fondo tocar en: /home/www-pyar/moin/share/moin/pyar/themes/pyar/css/common.css
-
-.. ||<style="padding: 1em 1em 1em 1em; background-color:#f0f8fd; color: #666; text-align:justify;">''~+Estamos de Luto: falleció Dorneles Tremea, presidente de la Asociación Python Brasil y una gran persona. +~''||
-
-<strong class="highlight">.. raw:: html
-
-</strong>[Table not converted]
-
-.. [[http://python.org.ar/pyar/CharlasAbiertas2010|{{attachment:banner_charlas_abiertas.png}}]]
-
-.. <<Twitter(usuario="planetapyar")>> API sin auth deprecada en twitter
 
 Contenido
 ---------
@@ -52,48 +34,4 @@ Contenido
 * AdoptaUnNewbie_: Ayuda en proyectos para gente que recién comienza
 
 * SciPyar_: PyAr_ para ciencia e ingeniería
-
-
-
-
-Últimas noticias
-----------------
-
-`[[Include(Noticias, , ,from="ULTIMAS_START", to="ULTIMAS_END")]]`_
-
-
-
-
-`Ver Noticias Antiguas`_
-
--------------------------
-
- ¿Comentarios? ¿Sugerencias? Enviá un mail a `[[MailTo(admin AT python DOT org DOT ar)]]`_, o escribinos directamente `aquí`_. ¡Muchas gracias!
-
--------------------------
-
- CategoryCategory_
-
-.. ############################################################################
-
-.. _Python: http://python.org
-
-.. _Noticias:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
