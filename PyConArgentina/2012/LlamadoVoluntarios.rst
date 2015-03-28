@@ -1,4 +1,3 @@
-#format rst
 
 Faltan pocos dias para la conferencia y necesitamos voluntarios para algunas tareas
 ===================================================================================
@@ -71,7 +70,6 @@ Estamos cargando una app con guia del evento (http://Guidebook.com) y necesitamo
 
 .. ############################################################################
 
-.. _leer las instrucciones y anotarse: ../EncargadosAula
 
 .. _sbassi@genesdigitales.com: mailto:sbassi@genesdigitales.com
 
