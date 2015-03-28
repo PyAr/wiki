@@ -1,4 +1,3 @@
-#format rst
 
 Minuta de reunión 49 en San Luis
 ================================
