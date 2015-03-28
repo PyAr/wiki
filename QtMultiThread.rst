@@ -1,4 +1,3 @@
-#format rst
 
 Qt Multi Thread
 ===============
