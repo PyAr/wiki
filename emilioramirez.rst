@@ -1,4 +1,3 @@
-#format rst
 
 Emilio Ramirez
 ==============
@@ -22,7 +21,6 @@ Contacto
 
 .. ############################################################################
 
-.. _PyQt: ../PyQt
 
 .. _emilioramirez04@gmail.com: mailto:emilioramirez04@gmail.com
 
