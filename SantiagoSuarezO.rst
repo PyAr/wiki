@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Santiago Suarez Ordoñez
 -----------------------
@@ -24,7 +22,5 @@ Me gusta el río, navego desde que tengo memoria y paso el poco tiempo que me qu
 
 .. ############################################################################
 
-.. _JavaScript: ../JavaScript
 
-.. _CategoryHomepage: ../CategoryHomepage
 
