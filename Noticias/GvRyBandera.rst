@@ -1,11 +1,10 @@
-#format rst
 
 GvR junto a la bandera de PyAr
 ==============================
 
 Recién llagadita de EuroPython 2007, cortesía de alecu_, GvR posando con nuestra bandera:
 
-`attachment:gvr-pyar-2-small.jpg`_
+`gvr-pyar-2-small.jpg </wiki/Noticias/GvRyBandera/attachment/556/gvr-pyar-2-small.jpg>`_
 
 
 
