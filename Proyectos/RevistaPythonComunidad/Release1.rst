@@ -1,4 +1,3 @@
-#format rst
 
 Release 1
 =========
