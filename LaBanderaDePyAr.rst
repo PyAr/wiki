@@ -1,4 +1,3 @@
-#format rst
 
 La Bandera de PyAr viaja por el mundo
 =====================================
