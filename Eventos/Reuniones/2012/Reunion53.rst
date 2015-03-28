@@ -1,4 +1,3 @@
-#format rst
 
 Reunión 53  - Sabado 17 de Marzo - Ciudad de Córdoba, Oficinas de Machinalis - 22hs
 ===================================================================================
