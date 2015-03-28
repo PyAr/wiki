@@ -21,7 +21,7 @@ El paso 2. es opcional, pero muy bienvenido. Ha generado algunas de las conversa
 PyAr Bar
 --------
 
-Si queres hablar sobre otro tipo de temas con la comunidad que **no están relacionados con la promoción, difusión y temas técnicos del lenguaje de programación Python**, podes hacerlo suscribiendote a: http://listas.python.org.ar/mailman/listinfo/pyar-bar
+Si querés hablar sobre otro tipo de temas con la comunidad que **no están relacionados con la promoción, difusión y temas técnicos del lenguaje de programación Python**, podés hacerlo suscribiéndote a: http://listas.python.org.ar/mailman/listinfo/pyar-bar
 
 Instrucciones para salirte de la lista
 --------------------------------------
@@ -31,9 +31,9 @@ Mandá un mensaje a **pyar-unsubscribe** AT **python** DOT **org** DOT **ar**
 Ayuda
 -----
 
-* **Tengo una duda sobre Python!** No hay problema! primero puedes buscar lo que precises en el archivo de la lista, más abajo en la sección Buscar en los archivos de la lista te explicamos como :-) . En caso de que tu duda no sea resuelta por los archivos, no dudes en enviar un mail a la lista de PyAr_ (al momento de enviar un email a la lista de PyAr_, asegurate de haber leído o saber las "costumbres" de la lista por aca: http://python.org.ar/pyar/EtiquetaPyAr)
+* **¡Tengo una duda sobre Python!** ¡No hay problema! Primero podés buscar tu duda en el archivo de la lista, más abajo en la sección Buscar en los archivos de la lista te explicamos cómo :-) . En caso de que tu duda no sea resuelta por los archivos, no dudes en enviar un mail a la lista de PyAr_ (al momento de enviar un email a la lista de PyAr_, asegurate de haber leído o saber las "costumbres" de la lista por aca: http://python.org.ar/pyar/EtiquetaPyAr)
 
-* Para comunicarte con los administradores de PyAr_, mandá un mensaje a **admin** AT **python** DOT **org** DOT **ar**. Esa sería la dirección de contacto para reportar problemas con la lista o con el sitio web.
+* Para comunicarte con los administradores de PyAr_, mandá un mensaje a **admin** AT **python** DOT **org** DOT **ar**. Esta es la dirección de contacto para reportar problemas con la lista o con el sitio web.
 
 * Para obtener ayuda y los comandos disponibles en la lista, mandá un mensaje a con el Asunto 'help' (sin las comillas) a **pyar-request** AT **python** DOT **org** DOT **ar**
 
@@ -42,7 +42,7 @@ RSS y NNTP
 
 La lista también es accesible vía RSS y NNTP. Entrá a http://dir.gmane.org/gmane.org.user-groups.python.argentina.
 
-La suscripción esta desde el 17 de octubre de 2006.
+La suscripción esté desde el 17 de octubre de 2006.
 
 Archivo
 -------
@@ -51,7 +51,7 @@ El archivo oficial de la lista está en: http://listas.python.org.ar/pipermail/p
 
 Si querés ver el histórico de la lista de correo de PyAr_, te podés fijar en el archivo_. El archivo está subscripto recién desde el 19 de enero de 2005, y la lista tiene unos 3 o 4 meses más de antigüedad. Pero desde esa fecha en adelante tiene todo el historial.
 
-A partir del 17/10/2006, GMANE también está archivando nuestra lista. Este archive es accesible desde `acá`_.
+A partir del 17/10/2006, GMANE también está archivando nuestra lista. Este archivo es accesible desde `acá`_.
 
 También hay una réplica de la lista en un grupo de Google: http://groups.google.com/group/pythonargentina
 
@@ -67,17 +67,15 @@ También hay una réplica de la lista en un grupo de Google: http://groups.googl
 Buscar en los archivos de la lista
 ----------------------------------
 
-Hemos hablado de muchas cosas en la lista de PyAr_, si tienes un problema o una duda, antes de preguntar en la lista de PyAr_ te recomendamos que busques en el archivo de la lista, puedes hacerlo al menos de estas formas:
+Hemos hablado de muchas cosas en la lista de PyAr_, si tenés un problema o una duda, antes de preguntar en la lista de PyAr_ te recomendamos que busques en el archivo de la lista. Podés hacerlo al menos de estas formas:
 
 * http://blog.gmane.org/gmane.org.user-groups.python.argentina (vas a ver una parte que dice **Search Archive**)
 
-* Utilizando Google_ con el comando **site:**, por ejemplo, si busco servicios de *hosting* para python puedo hacer una busqueda del tipo:
+* Utilizando Google_ con el comando **site:**, por ejemplo, si busco servicios de *hosting* para Python puedo hacer una búsqueda del tipo:
 
   *hosting* **site:** listas.python.org.ar/pipermail/pyar/
 
-  Donde le decimos a google que busque la palabra 'hosting' solamente en el sitio del archivo de las listas: http://listas.python.org.ar/pipermail/pyar/ .
-
-
+  Donde le decimos a Google que busque la palabra 'hosting' solamente en el sitio del archivo de las listas: http://listas.python.org.ar/pipermail/pyar/ .
 
 
 -------------------------
