@@ -1,4 +1,3 @@
-#format rst
 
 Taller OLPC
 ===========
@@ -61,5 +60,4 @@ Thread en PyAr_ sobre LiveCDs: http://article.gmane.org/gmane.org.user-groups.py
 
 .. ############################################################################
 
-.. _PyAr: ../PyAr
 
