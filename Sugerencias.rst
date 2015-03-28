@@ -1,5 +1,3 @@
-#format rst
-#acl All:read,write
 
 Sugerencias
 ===========
@@ -28,11 +26,8 @@ Y si estás buscando una dirección de e-mail para comunicarte, permitinos suger
 
 .. ############################################################################
 
-.. _PreguntasFrecuentes: ../PreguntasFrecuentes
 
-.. _ListaDeCorreo: ../ListaDeCorreo
 
-.. _Inicio: ../Inicio
 
 .. _página inicial del tutorial: http://docs.python.org.ar/tutorial/index.html
 
