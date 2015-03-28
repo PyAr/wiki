@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Lucio Torre
 -----------
@@ -12,5 +10,4 @@ piu avanti
 
 .. ############################################################################
 
-.. _CategoryHomepage: ../CategoryHomepage
 
