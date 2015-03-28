@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 @``Martin Alderete@
 -------------------
@@ -32,5 +30,4 @@ Email: `[[MailTo(malderete <ARROBA> ninja-ide <DOT> org)]]`_
 
 .. ############################################################################
 
-.. _CategoryHomepage: ../CategoryHomepage
 
