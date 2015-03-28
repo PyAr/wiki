@@ -1,11 +1,18 @@
-##master-page:HomepageTemplate
-#format wiki
+#format rst
+## master-page:HomepageTemplate
 
-== Nicolás Echániz ==
+Nicolás Echániz
+---------------
 
 http://www.altermundi.net
 
-Email: <<MailTo(nicoechaniz AT SPAMFREE altermundi DOT net)>>
+Email: `[[MailTo(nicoechaniz AT SPAMFREE altermundi DOT net)]]`_
 
-----
-CategoryHomepage
+-------------------------
+
+ CategoryHomepage_
+
+.. ############################################################################
+
+.. _CategoryHomepage: ../CategoryHomepage
+
