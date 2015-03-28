@@ -1,5 +1,3 @@
-#format rst
-## page was renamed from Eventos/Reuniones/Reunion12
 
 Reunión 12 - 30/11/2005 - Hip Bar
 =================================
