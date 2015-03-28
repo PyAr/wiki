@@ -1,5 +1,3 @@
-#format rst
-#acl All:read,write
 
 Recursos
 ========
@@ -227,9 +225,7 @@ Vortech
 
 .. _trac: http://www.edgewall.com/trac
 
-.. _RicardoKirkner: ../RicardoKirkner
 
-.. _SantiagoPereson: ../SantiagoPereson
 
 .. _wxWidgets: http://www.wxwindows.org
 
@@ -253,7 +249,6 @@ Vortech
 
 .. _NumPy/SciPy: http://numpy.scipy.org/
 
-.. _OpenOffice: ../OpenOffice
 
 .. _PyGTK: http://www.pygtk.org/
 
@@ -261,13 +256,9 @@ Vortech
 
 .. _BeautifulSoup: http://www.crummy.com/software/BeautifulSoup/
 
-.. _WalterAlini: ../WalterAlini
 
-.. _HoracioDuran: ../HoracioDuran
 
-.. _JavierMansilla: ../JavierMansilla
 
-.. _DanielMoisset: ../DanielMoisset
 
 .. _Twisted: http://twistedmatrix.com
 
