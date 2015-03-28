@@ -1,4 +1,3 @@
-#format rst
 
 Página del articulo Info Python
 ===============================
