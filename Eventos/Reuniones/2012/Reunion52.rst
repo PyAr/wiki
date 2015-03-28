@@ -1,4 +1,3 @@
-#format rst
 
 Reunión 52  - Miércoles 1 de Febrero - Ciudad de Córdoba, Oficinas de Machinalis - 19hs
 =======================================================================================
