@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Horacio Durán (perrito)
 -----------------------
@@ -32,17 +30,11 @@ P.D. Esta demas decir, tenemos una maquina de cafe expreso...
 
 .. _Fundación Via Libre: http://vialibre.org.ar
 
-.. _PyMes: ../PyMes
 
-.. _PyQt: ../PyQt
 
-.. _PyAr: ../PyAr
 
-.. _PyCamp: ../PyCamp
 
-.. _PyWeeks: ../PyWeeks
 
 .. _machinalis: http://www.machinalis.com
 
-.. _CategoryHomepage: ../CategoryHomepage
 
