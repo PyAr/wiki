@@ -1,9 +1,18 @@
-##master-page:HomepageTemplate
-#format wiki
-#language es
-== Maximiliano Churichi ==
-Email: <<MailTo(mchurichi AT SPAMFREE gmail DOT com)>>
+#format rst
+## master-page:HomepageTemplate
 
-Blog: [[http://www.weaponofchoice.com.ar|http://www.weaponofchoice.com.ar]]
-----
-CategoryHomepage
+Maximiliano Churichi
+--------------------
+
+Email: `[[MailTo(mchurichi AT SPAMFREE gmail DOT com)]]`_
+
+Blog: http://www.weaponofchoice.com.ar
+
+-------------------------
+
+ CategoryHomepage_
+
+.. ############################################################################
+
+.. _CategoryHomepage: ../CategoryHomepage
+
