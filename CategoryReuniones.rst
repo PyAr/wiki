@@ -1,11 +1,16 @@
-##master-page:CategoryTemplate
-##master-date:Unknown-Date
-#format wiki
-#language en
+#format rst
+## master-page:CategoryTemplate
+## master-date:Unknown-Date
 
-'''Lista de paginas en la categoria:'''
+**Lista de paginas en la categoria:**
 
-<<FullSearchCached(category:CategoryReuniones)>>
+`[[FullSearchCached(category:CategoryReuniones)]]`_
 
-----
-CategoryCategory
+-------------------------
+
+ CategoryCategory_
+
+.. ############################################################################
+
+.. _CategoryCategory: ../CategoryCategory
+
