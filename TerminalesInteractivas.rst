@@ -1,21 +1,33 @@
-= Terminales interactivas =
+#format rst
+
+Terminales interactivas
+=======================
 
 En esta pagina se listan las distintas alternativas que podemos usar para probar el código Python en una consola interactiva.
 
-== Python ==
+Python
+------
 
 Esta es la consola por defecto que se instala con Python, para ejecutarla hay que escribir python en la terminal.
 
-En el recetario se explica como agregarle [[ AutocomplecionEnConsolaInteractiva |autocompletado]] con TAB, al estilo IPython
+En el recetario se explica como agregarle autocompletado_ con TAB, al estilo IPython
 
-== IPython ==
+IPython
+-------
 
-[[http://ipython.scipy.org/]]
+http://ipython.scipy.org/
 
-== BPython ==
+BPython
+-------
 
-[[http://bpython-interpreter.org/]]
+http://bpython-interpreter.org/
 
-== Dreampie ==
+Dreampie
+--------
 
-[[http://dreampie.sourceforge.net/]]
+http://dreampie.sourceforge.net/
+
+.. ############################################################################
+
+.. _autocompletado: ../AutocomplecionEnConsolaInteractiva
+
