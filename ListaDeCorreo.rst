@@ -9,11 +9,14 @@ Si querés suscribirte a la lista, te pedimos por favor que primero te tomes un 
 Instrucciones para suscribirte
 ------------------------------
 
-1. Mandá un mensaje a `[[MailTo(pyar-subscribe AT python DOT org DOT ar)]]`_
+1. Mandá un mensaje a **pyar-subscribe** AT **python** DOT **org** DOT **ar**
 
-2. Mandá tu "Hola mundo" a `[[MailTo(pyar AT python DOT org DOT ar)]]`_ para que todos los suscriptos a la lista aprecien tu nivel de nerdismo. :-?
+2. Mandá tu "Hola mundo" a **pyar** AT **python** DOT **org** DOT **ar** para que todos los suscriptos a la lista aprecien tu nivel de nerdismo. :-?
 
-  *(El paso 2. es opcional, pero muy bienvenido. Ha generado algunas de las conversaciones más interesantes de la lista...)*
+
+.. class:: alert alert-warning
+
+El paso 2. es opcional, pero muy bienvenido. Ha generado algunas de las conversaciones más interesantes de la lista...
 
 PyAr Bar
 --------
@@ -23,16 +26,16 @@ Si queres hablar sobre otro tipo de temas con la comunidad que **no están relac
 Instrucciones para salirte de la lista
 --------------------------------------
 
-Mandá un mensaje a `[[MailTo(pyar-unsubscribe AT python DOT org DOT ar)]]`_
+Mandá un mensaje a **pyar-unsubscribe** AT **python** DOT **org** DOT **ar**
 
 Ayuda
 -----
 
 * **Tengo una duda sobre Python!** No hay problema! primero puedes buscar lo que precises en el archivo de la lista, más abajo en la sección Buscar en los archivos de la lista te explicamos como :-) . En caso de que tu duda no sea resuelta por los archivos, no dudes en enviar un mail a la lista de PyAr_ (al momento de enviar un email a la lista de PyAr_, asegurate de haber leído o saber las "costumbres" de la lista por aca: http://python.org.ar/pyar/EtiquetaPyAr)
 
-* Para comunicarte con los administradores de PyAr_, mandá un mensaje a `[[MailTo(admin AT python DOT org DOT ar)]]`_. Esa sería la dirección de contacto para reportar problemas con la lista o con el sitio web.
+* Para comunicarte con los administradores de PyAr_, mandá un mensaje a **admin** AT **python** DOT **org** DOT **ar**. Esa sería la dirección de contacto para reportar problemas con la lista o con el sitio web.
 
-* Para obtener ayuda y los comandos disponibles en la lista, mandá un mensaje a con el Asunto 'help' (sin las comillas) a `[[MailTo(pyar-request AT python DOT org DOT ar)]]`_
+* Para obtener ayuda y los comandos disponibles en la lista, mandá un mensaje a con el Asunto 'help' (sin las comillas) a **pyar-request** AT **python** DOT **org** DOT **ar**
 
 RSS y NNTP
 ----------
