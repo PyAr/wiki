@@ -1,5 +1,9 @@
-{{attachment:snapshot10.png}}
+#format rst
 
-== Comentarios ==
+`attachment:snapshot10.png`_
 
-* [RamiroMorales] No me peguen, soy tasteless!...
+Comentarios
+-----------
+
+* [RamiroMorales_] No me peguen, soy tasteless!...
+
