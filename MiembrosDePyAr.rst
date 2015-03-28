@@ -1,4 +1,3 @@
-#format rst
 
 Donde viven los miembros de PyAr ?
 ==================================
