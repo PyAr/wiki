@@ -1,4 +1,3 @@
-#format rst
 
 Temas propuestos para el PyCamp 2014
 ------------------------------------
