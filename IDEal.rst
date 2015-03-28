@@ -1,4 +1,3 @@
-#format rst
 
 Características esenciales y deseables en un IDE
 ================================================
@@ -45,5 +44,4 @@ Puedes ver una tabla comparativa de estas *features* en `Tabla comparativa`_ (*a
 
 .. ############################################################################
 
-.. _Tabla comparativa: ../TablaIDEs
 
