@@ -1,10 +1,9 @@
-#format rst
 
 Lo que python es. Inspirado en `¿Que es y por que Python?`_.
 
-`attachment:pyar4.png`_
+`pyar4.png </wiki/RemerasV3/LeonardoVidarte4/attachment/229/pyar4.png>`_
 
-`attachment:pyar4.svg`_pyar4.svg`attachment:None`_
+
 
 .. ############################################################################
 
