@@ -1,4 +1,3 @@
-#format rst
 
 **.. raw:: html
 Rendering of reStructured text is not possible, please install Docutils.**
