@@ -1,20 +1,31 @@
-##master-page:HomepageTemplate
-#format wiki
-== Mariano Mara ==
+#format rst
+## master-page:HomepageTemplate
 
- * Casado, 3 hijos.
- * Gran entusiasta del software libre.
- * Mayor entusiasta aún de la literatura y de la mayoría de las artes.
+Mariano Mara
+------------
 
-=== Python ===
+* Casado, 3 hijos.
 
- * Empecé con Python en 2007, educandome con mucha lectura y algo de práctica.
- * Actualmente trabajo tiempo completo con sqlalchemy y pyramid.
+* Gran entusiasta del software libre.
 
+* Mayor entusiasta aún de la literatura y de la mayoría de las artes.
 
-Email: <<MailTo(mariano.mara AT SPAMFREE gmail DOT com)>>
+Python
+~~~~~~
+
+* Empecé con Python en 2007, educandome con mucha lectura y algo de práctica.
+
+* Actualmente trabajo tiempo completo con sqlalchemy y pyramid.
+
+Email: `[[MailTo(mariano.mara AT SPAMFREE gmail DOT com)]]`_
 
 ...
 
-----
-CategoryHomepage
+-------------------------
+
+ CategoryHomepage_
+
+.. ############################################################################
+
+.. _CategoryHomepage: ../CategoryHomepage
+
