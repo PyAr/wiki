@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Diego Sarmentero (gatox)
 ------------------------
@@ -26,5 +24,4 @@ So Say We All!! :P
 
 .. ############################################################################
 
-.. _CategoryHomepage: ../CategoryHomepage
 
