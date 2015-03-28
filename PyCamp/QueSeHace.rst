@@ -1,4 +1,3 @@
-#format rst
 
 Que se hace en un PyCamp
 ========================
