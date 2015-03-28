@@ -1,4 +1,3 @@
-#format rst
 
 Escribe acerca de pruebaVideo aquí.
 
