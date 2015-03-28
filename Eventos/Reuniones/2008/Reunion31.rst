@@ -1,5 +1,3 @@
-#format rst
-## page was renamed from Eventos/Reuniones/2011/Reunion31
 
 Reunión 31 - 06/09/08 - Balcarce Lounge, Rosario
 ================================================
