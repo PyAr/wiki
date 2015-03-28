@@ -1,4 +1,3 @@
-#format rst
 
 Gauchito Gil
 ============
@@ -7,15 +6,15 @@ Bienvenidos al primer altar online del Gauchito Gil, una revisión digital de lu
 
 Primero, conozcan al ídolo nacional, pasión de multitudes. Un hombre patrio:
 
-`attachment:GauchitoGil.jpg`_
+`GauchitoGil.jpg </wiki/Proyectos/GauchitoGil/attachment/242/GauchitoGil.jpg>`_
 
 Ahora, vean su manifestación popular en la ruta:
 
-`attachment:IMG_6239.jpg`_
+`IMG_6239.jpg </wiki/Proyectos/GauchitoGil/attachment/243/IMG_6239.jpg>`_
 
-`attachment:IMG_6258.jpg`_
+`IMG_6258.jpg </wiki/Proyectos/GauchitoGil/attachment/244/IMG_6258.jpg>`_
 
-`attachment:IMG_6262.jpg`_
+`IMG_6262.jpg </wiki/Proyectos/GauchitoGil/attachment/245/IMG_6262.jpg>`_
 
 Bibliografía
 ------------
@@ -45,14 +44,14 @@ Bibliografía
 Workflows
 ---------
 
-`attachment:vanderaalst98application.pdf`_vanderaalst98application.pdf`attachment:None`_
+
 
 Matcheo de Eventos Sub Lineal
 -----------------------------
 
 Para esto ver el siguiente pdf:
 
-`attachment:aguilera99matching.pdf`_aguilera99matching.pdf`attachment:None`_
+
 
 Para ver el resultado de esto ver `/EventMatching`_
 
@@ -61,14 +60,14 @@ Reactor : An Object Behavioral Pattern for Concurrent Event Demultiplexing and D
 
 Este es un *pattern* interesante que estamos considerando
 
-`attachment:schmidt95reactor.pdf`_schmidt95reactor.pdf`attachment:None`_
+
 
 Modular Event-Based Systems
 ---------------------------
 
 Sobre como tiene que comportarse un sistema de eventos
 
-`attachment:modular-event-based-systems.pdf`_modular-event-based-systems.pdf`attachment:None`_
+
 
 -------------------------
 
