@@ -1,7 +1,3 @@
-
-Proyectos
-=========
-
 Juegos
 ------
 
@@ -12,33 +8,50 @@ Proyectos PyAr
 
 Estos son los proyectos encarados *institucionalmente* por PyAr_:
 
-* `/GauchitoGil`_
+* `GauchitoGil`_
 
   * Administrador de colas de mensajes, con soporte para múltiples protocolos: SMTP (mail), SMPP (SMSs o mensajes cortos) y MM7 (MMSs o mensajes multimedia)
+  
+.. _GauchitoGil: GauchitoGil
 
-* `/Caucho`_
+* `Caucho`_
 
   * Avanzadísimo juego de batalla en vehículos multijugador
 
-* `/STIM`_
+.. _Caucho: Caucho
+
+
+* `STIM`_
 
   * Juego que presentamos en PyAr_ para la segunda edición de PyWeek
+  
+.. _STIM: STIM
 
-* `/AlocadoAlocador`_
+* `AlocadoAlocador`_
 
   * Juego desarrollado para Pygame.draw 2006
 
-* `/UnManualEnCadaUniversidad`_
+.. _AlocadoAlocador: AlocadoAlocador
+
+* `UnManualEnCadaUniversidad`_
+
 
   * Enviar un manual de Python a cada Universidad Argentina.
+  
+.. _UnManualEnCadaUniversidad: UnManualEnCadaUniversidad
 
-* `/RevistaPythonComunidad`_
 
-  * Hacemos una magazine de python entre todos ? |;)|
+* `RevistaPythonComunidad`_
 
-* `/UsoDePythonEnLaUniversidad`_
+  * Hacemos una magazine de python entre todos ? ;)
+
+.. _RevistaPythonComunidad: RevistaPythonComunidad
+
+* `UsoDePythonEnLaUniversidad`_
 
   * Sistematización de experiencias, herramientas y estrategias para difundir Python en la Universidad
+
+.. _UsoDePythonEnLaUniversidad: UsoDePythonEnLaUniversidad
 
 Github.com
 ----------
@@ -276,20 +289,7 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
   * Traducción al Español de la documentación de "virtualenvwrapper"
 
-
-
-
 -------------------------
-
-
-
-  `[[Navigation(children, 1)]]`_ 
-
--------------------------
-
-
-
-  CategoryProyectos_
 
 .. ############################################################################
 
