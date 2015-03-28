@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Arturo Elias Anton
 ------------------
@@ -18,5 +16,4 @@ Email: `[[MailTo(arturoeanton EN gmail PUNTO com)]]`_ ...
 
 .. ############################################################################
 
-.. _CategoryHomepage: ../CategoryHomepage
 
