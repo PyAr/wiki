@@ -1,13 +1,22 @@
-##master-page:HomepageTemplate
-#format wiki
-== Nicolás Pace ==
+#format rst
+## master-page:HomepageTemplate
 
-[[http://www.linkedin.com/in/nickar|Perfil de linkedin]] 
+Nicolás Pace
+------------
+
+`Perfil de linkedin`_ 
 
 TODO:Hablar sobre mi.
 
-Email: <<MailTo(np AT SPAMFREE cs DOT uns DOT edu DOT ar)>>
+Email: `[[MailTo(np AT SPAMFREE cs DOT uns DOT edu DOT ar)]]`_
 
+-------------------------
 
-----
-CategoryHomepage
+ CategoryHomepage_
+
+.. ############################################################################
+
+.. _Perfil de linkedin: http://www.linkedin.com/in/nickar
+
+.. _CategoryHomepage: ../CategoryHomepage
+
