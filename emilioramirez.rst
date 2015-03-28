@@ -1,10 +1,32 @@
-= Emilio Ramirez =
- * Nickname: gaucho
- * Estudiante de Ing. en Sistemas en la UTN - FRC.
- * Desarrollador Python, Django, PyQt.
- * Usuario y activista del Software Libre.
+#format rst
 
-= Contacto =
- * email: emilioramirez04@gmail.com
- * linkedin: [[http://www.linkedin.com/in/emilioramirez|emilioramirez]]
- * twitter: [[https://twitter.com/#!/emilioramirez|@emilioramirez]]
+Emilio Ramirez
+==============
+
+* Nickname: gaucho
+
+* Estudiante de Ing. en Sistemas en la UTN - FRC.
+
+* Desarrollador Python, Django, PyQt_.
+
+* Usuario y activista del Software Libre.
+
+Contacto
+========
+
+* email: `emilioramirez04@gmail.com`_
+
+* linkedin: emilioramirez_
+
+* twitter: `@emilioramirez`_
+
+.. ############################################################################
+
+.. _PyQt: ../PyQt
+
+.. _emilioramirez04@gmail.com: mailto:emilioramirez04@gmail.com
+
+.. _emilioramirez: http://www.linkedin.com/in/emilioramirez
+
+.. _@emilioramirez: https://twitter.com/#!/emilioramirez
+
