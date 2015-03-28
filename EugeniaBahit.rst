@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Eugenia Bahit
 -------------
@@ -78,7 +76,6 @@ Otros
 
 .. _@eugeniabahit: http://www.twitter.com/eugeniabahit
 
-.. _LinkedIn: ../LinkedIn
 
 .. _linkedin.com/in/eugeniabahit: http://www.linkedin.com/in/eugeniabahit
 
@@ -86,5 +83,4 @@ Otros
 
 .. _~eugeniabahit: https://launchpad.net/~eugeniabahit
 
-.. _CategoryHomepage: ../CategoryHomepage
 
