@@ -1,4 +1,3 @@
-#format rst
 
 Proyectos
 =========
@@ -294,9 +293,7 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 .. ############################################################################
 
-.. _Juegos: ../juegos
 
-.. _PyAr: ../PyAr
 
 .. _Python for PalmOS: /PythonPalm
 
@@ -304,7 +301,6 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 .. _Gestion Integral para Empresas: /GeInE
 
-.. _TurboGears: ../TurboGears
 
 .. _oveja eléctrica: http://yaco.net/oe/
 
@@ -385,13 +381,10 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 .. _gui2py: https://code.google.com/p/gui2py/
 
-.. _WxPython: ../WxPython
 
-.. _PythonCard: ../PythonCard
 
 .. _rad2py: https://code.google.com/p/rad2py/
 
-.. _VisualBasic: ../VisualBasic
 
 .. _vb2py: https://code.google.com/p/vb2py/
 
@@ -433,15 +426,10 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 .. _web2conf: https://code.google.com/p/web2conf/
 
-.. _PyConUs: ../PyConUs
 
-.. _UbuntuCon: ../UbuntuCon
 
-.. _PgDay: ../PgDay
 
-.. _PyDay: ../PyDay
 
-.. _PyCon: ../PyCon
 
 .. _Programando con Robots: http://robots.linti.unlp.edu.ar
 
@@ -453,5 +441,4 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 .. _virtualenvwrapper docs: https://bitbucket.org/humitos/virtualenvwrapper-docs-es
 
-.. _CategoryProyectos: ../CategoryProyectos
 
