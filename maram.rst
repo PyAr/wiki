@@ -1,11 +1,20 @@
-##master-page:HomepageTemplate
-#format wiki
+#format rst
+## master-page:HomepageTemplate
 
-== Marcelo Gustavo Ametller ==
+Marcelo Gustavo Ametller
+------------------------
 
 Este usuario está suspendido porque sus links apuntan a propaganda, y el contacto de su usuario es un mail con fallas permanentes. 
 
-Cualquier duda preguntar en <<MailTo(admin EN python PUNTO com PUNTO ar)>>
+Cualquier duda preguntar en `[[MailTo(admin EN python PUNTO com PUNTO ar)]]`_
 
-----
- CategoryHomepage
+-------------------------
+
+
+
+  CategoryHomepage_
+
+.. ############################################################################
+
+.. _CategoryHomepage: ../CategoryHomepage
+
