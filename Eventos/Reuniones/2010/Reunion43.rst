@@ -1,5 +1,3 @@
-#format rst
-## page was renamed from Eventos/Reuniones/2011/Reunion43
 
 Reunión 43 - Martes 24 de Agosto - Ciudad de Cordoba, en Alfonsina de Belgrano -- 19hs
 --------------------------------------------------------------------------------------
