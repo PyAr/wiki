@@ -1,4 +1,3 @@
-#format rst
 
 Encuesta Relevamiento - Asociación Civil
 ========================================
@@ -219,14 +218,11 @@ Hay interesados en ser candidatos tentativos para los puestos auxiliares (9 voca
 .. _Anuncio en la lista de correo: http://listas.python.org.ar/pipermail/pyar/2014-November/031979.html
 
 .. _Autoridades:
-.. _autoridades: ../Autoridades
 
 .. _Candidatos:
-.. _candidatos: ../Autoridades/Candidatos
 
 .. _estatuto: https://docs.google.com/document/d/1iobvM5W8IL7dU4U7HWf1Jj3reywvxnryF9STMByU-j8/edit
 
 .. _objetivos: https://docs.google.com/document/d/1V67iEOuqCWzYw6ndf3PQFIChZeqgKMiM13WFT5D6G2k/edit
 
-.. _Deberes y Responsabilidades de las Autoridades de la Asociación Civil: ../Autoridades#Deberes_y_responsabilidades
 
