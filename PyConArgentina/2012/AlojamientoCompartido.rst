@@ -1,4 +1,3 @@
-#format rst
 
 PyCon Argentina 2012
 ====================
@@ -17,4 +16,14 @@ Necesitan lugar para alojarse
 -----------------------------
 
 *  **Peddro Ejemplo2** :strike:`- quiero compartir una habitación de hostel - `[[MailTo(peddro AT ejemplo2 DOT com DOT ar)]]`_` 
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: strike
+   :class: strike
 
