@@ -1,4 +1,3 @@
-#format rst
 
 Material
 ========
@@ -6,13 +5,13 @@ Material
 Folletos
 --------
 
-De uso general 01 (por Cesar Portela): `attachment:folletoPython01.svg`_folletoPython01.svg`attachment:None`_ / `attachment:folletoPython01.pdf`_folletoPython01.pdf`attachment:None`_
+De uso general 01 (por Cesar Portela): 
 
-Doble, a color y blanco y negro (por Facundo Batista): `attachment:microtutorial-pyar.svg`_microtutorial-pyar.svg`attachment:None`_
+Doble, a color y blanco y negro (por Facundo Batista): 
 
-Con algunos cambios: `attachment:FolletosCarteles/folleto-pyar-1-alecu.svg.bz2`_Folleto Plegable`attachment:None`_ - Viene con un micro-tutorial de python.
+Con algunos cambios:  - Viene con un micro-tutorial de python.
 
-Este archivo utiliza el font `attachment:FolletosCarteles/DejaVuSansCondensed.ttf.bz2`_Deja Vu Sans Condensed`attachment:None`_, que puede instalarse en ubuntu asi:
+Este archivo utiliza el font , que puede instalarse en ubuntu asi:
 
 ::
 
@@ -21,16 +20,16 @@ Este archivo utiliza el font `attachment:FolletosCarteles/DejaVuSansCondensed.tt
 Logo
 ----
 
-*  :strike:`El logo de` PyAr_:strike:`, en vectorial:` `attachment:pyar.zip`_:strike:`pyar.zip``attachment:None`_  
+*  :strike:`El logo de` PyAr_:strike:`, en vectorial:`   
 
-* El logo de PyAr_, en vectorial: `attachment:logo-pyar-2009.svg`_logo-pyar-2009.svg`attachment:None`_ (hecho con inkscape)
+* El logo de PyAr_, en vectorial:  (hecho con inkscape)
 
 Video
 -----
 
 Video que se uso para presentar a PyAr_ en PyCon_ (USA) 2012
 
-* `attachment:VideoPyAr.avi`_Video Institucional`attachment:None`_
+* 
 
 * **mirror** Bitbucket_ *(también están las "fuentes" del video en el repo mercurial)
 
@@ -43,11 +42,11 @@ Video que se uso para presentar a PyAr_ en PyCon_ (USA) 2012
 
   Están hechos con Inkscape.
 
-  ** PyAr_*: Titulo de la cartelera* `attachment:Eventos/Conferencias/8JRSL/Carteles/PyAr.svg`_*PyAr.svg*`attachment:None`_
+  ** PyAr_*: Titulo de la cartelera* 
 
-  ** Sorteo:* `attachment:Eventos/Conferencias/8JRSL/Carteles/sorteo.svg`_*sorteo.svg*`attachment:None`_
+  ** Sorteo:* 
 
-  ** Cartelera de Trabajos:* `attachment:Eventos/Conferencias/8JRSL/Carteles/Trabajos.odt`_*Trabajos.odt*`attachment:None`_ `attachment:Eventos/Conferencias/8JRSL/Carteles/labura.svg`_*labura.svg*`attachment:None`_
+  ** Cartelera de Trabajos:* 
 
 *PyCon 2010
 ----------
@@ -69,6 +68,10 @@ El logo de* PyAr_*, Python Argentina, www.python.org.ar, el logo de Python y las
 
   * Todo se desarma y se lleva en una bolsa de 1m de alto más o menos.
 
-  * Demo:* `attachment:banner-demo.jpg`_*banner-demo.jpg*`attachment:None`_
+  * Demo:* 
 
-  ** Foto:* `attachment:banner.jpg`_*banner.jpg*`attachment:None`_
+  ** Foto:* 
+
+.. role:: strike
+   :class: strike
+
