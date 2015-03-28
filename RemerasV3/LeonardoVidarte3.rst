@@ -1,12 +1,10 @@
-#format rst
 
 Una variación sobre la de Manuel_.
 
-`attachment:pyar3.png`_
+`pyar3.png </wiki/RemerasV3/LeonardoVidarte3/attachment/227/pyar3.png>`_
 
-`attachment:pyar3.svg`_pyar3.svg`attachment:None`_
+
 
 .. ############################################################################
 
-.. _Manuel: ../ManuelArgüelles1
 
