@@ -1,5 +1,3 @@
-#format rst
-## page was renamed from Recetario/Gtk/PrintNonGtk
 
 GtkPrintNonGtk
 ==============
@@ -29,5 +27,5 @@ explicación: lo que hacemos después de mostrar el dialogo es procesar los even
       </span><span class="line"><span class="k">print</span> <span class="s">&#39;chau&#39;</span>
       </span>
 
-`attachment:Imprimir.png`_
+`Imprimir.png </wiki/Recetario/Gui/Gtk/PrintNonGtk/attachment/587/Imprimir.png>`_
 
