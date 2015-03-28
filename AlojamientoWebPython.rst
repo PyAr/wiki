@@ -1,4 +1,3 @@
-#format rst
 
 Alojamiento para aplicaciones Web Python
 ========================================
