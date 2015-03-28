@@ -1,11 +1,18 @@
-##master-page:HomepageTemplate
-#format wiki
-#language es
-== LucianoRossi ==
+#format rst
+## master-page:HomepageTemplate
 
-Email: <<MailTo(lukio AT SPAMFREE gcoop DOT coop)>>
+LucianoRossi
+------------
+
+Email: `[[MailTo(lukio AT SPAMFREE gcoop DOT coop)]]`_
 
 Web: http://www.gcoop.coop
 
-----
-CategoryHomepage
+-------------------------
+
+ CategoryHomepage_
+
+.. ############################################################################
+
+.. _CategoryHomepage: ../CategoryHomepage
+
