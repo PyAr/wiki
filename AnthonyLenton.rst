@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Anthony Lenton
 --------------
@@ -14,5 +12,4 @@ Trabajo en Canonical.  Ahí usamos Python un montón, porque es mejor que la lec
 
 .. ############################################################################
 
-.. _CategoryHomepage: ../CategoryHomepage
 
