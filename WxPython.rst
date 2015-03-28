@@ -1,6 +1,3 @@
-#format rst
-## master-page:CategoryTemplate
-## master-date:Unknown-Date
 
 Describe the pages in this category... 
 
@@ -16,5 +13,4 @@ To add a page to this category, add a link to this page on the last line of the 
 
 .. ############################################################################
 
-.. _CategoryCategory: ../CategoryCategory
 
