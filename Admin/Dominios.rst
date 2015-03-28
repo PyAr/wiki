@@ -1,4 +1,3 @@
-#format rst
 
 Dominios de Python Argentina
 ============================
