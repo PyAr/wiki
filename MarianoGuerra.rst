@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Mariano Guerra
 --------------
@@ -20,5 +18,4 @@ Mi proyecto mas "famoso" es emesene (http://emesene.org) y tengo algunos otros p
 
 .. ############################################################################
 
-.. _mis snippets están en el recetario: ../Recetario
 
