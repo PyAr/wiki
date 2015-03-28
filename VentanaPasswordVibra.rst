@@ -1,4 +1,3 @@
-#format rst
 
 Ventana de Password que Vibra
 =============================
@@ -7,7 +6,7 @@ Ventana de Password que Vibra
 
 **Screenshot:**
 
-`attachment:temp.jpg`_
+`temp.jpg </wiki/VentanaPasswordVibra/attachment/128/temp.jpg>`_
 
 ::
 
