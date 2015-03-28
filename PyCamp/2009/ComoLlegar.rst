@@ -1,4 +1,3 @@
-#format rst
 
 Como llegar en auto particular
 ------------------------------
@@ -15,12 +14,12 @@ Como llegar en auto particular
 
   * No superar la cantidad de pasajeros del vehículo
 
-Adjunto un folleto de la `attachment:cap.jpg`_CAP`attachment:None`_ par más información
+Adjunto un folleto de la  par más información
 
 Desde Buenos Aires
 ~~~~~~~~~~~~~~~~~~
 
-Les paso el camino que hago para llegar (ver mapas de `attachment:cordoba.jpg`_Cordoba`attachment:None`_ y `attachment:punilla.jpg`_Punilla`attachment:None`_)
+Les paso el camino que hago para llegar (ver mapas de )
 
 * `Agarrar por panamericana, ramal Escobar/Rosario`_
 
