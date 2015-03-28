@@ -1,70 +1,80 @@
+#format rst
 ## page was renamed from Eventos/Reuniones/2011/Reunion44
-## page was renamed from Eventos/Reuniones/Reunion44
-== Reunión 44 - Jueves 26 de Agosto - Ciudad de Buenos Aires, en el bar de la esquina de Medrano y Guardia Vieja - 19hs ==
 
-Definimos cuando usando: [[http://www.doodle.com/anbnmdctxm7qkxgr|encuesta!]]
+Reunión 44 - Jueves 26 de Agosto - Ciudad de Buenos Aires, en el bar de la esquina de Medrano y Guardia Vieja - 19hs
+--------------------------------------------------------------------------------------------------------------------
 
-''' Asistentes: '''Por favor, si venís a la reunión, anotate en esta lista:
+Definimos cuando usando: `encuesta!`_
 
-  || Facundo Batista ||
-  || Pablo Mouzo ||
-  || Diego Mascialino ||
-  || Mariano Reingart ||
-  || Ricardo Kirkner ||
-  || Michel Peterson ||
-  || Leonardo Vidarte ||
-  || Santiago Piccinini ||
-  || Marcelo Fernandez ||
-  || Dave ||
-  || Manuel Muradas ||
+ **Asistentes:** Por favor, si venís a la reunión, anotate en esta lista:
 
+ 
 
-'''Minuta'''
+  [Table not converted]
 
+**Minuta**
 
-PyDay
+PyDay_
 
- * Club de Programadores
- * Capacidad: 70 personas
- * Falta anuncios/folletos
- * El 4 de Septiembre
+* Club de Programadores
 
-PyCon 2010
+* Capacidad: 70 personas
 
- * Hay más charlas de las posibles
- * Los sponsors están
+* Falta anuncios/folletos
 
-PyAr Jornadas del Sur
+* El 4 de Septiembre
 
- * Buscar gente que viaje para organizar el stand
+PyCon_ 2010
+
+* Hay más charlas de las posibles
+
+* Los sponsors están
+
+PyAr_ Jornadas del Sur
+
+* Buscar gente que viaje para organizar el stand
 
 PET
 
- * Increíble repercusión
+* Increíble repercusión
 
 Ciclo de charlas en la Tribu
 
- * Sorprende el éxito
- * Increíble recaudación
- * Se necesita impresión de tutoriales
+* Sorprende el éxito
+
+* Increíble recaudación
+
+* Se necesita impresión de tutoriales
 
 Micropagos
 
- * Explorar Dineromail
+* Explorar Dineromail
 
 Matlab en las Universidades
 
- * Python es más simple en comparación a costa de una baja despreciable de performance del lenguaje
- * Utilizar Spyder que da una interfáz parecida pero que usa Py + NumPy
- * LHC usa Python. Averiguar cómo y con qué biblioteca
- * Utilizar como excusa para enseñar Python, el cual es útil a la larga, en vez de Matlab, que no lo es.
- * Se debería generar algo parecido en performance/visual/etc al Matlab respaldandonos en la sencillez de Py para luego así promover como reemplazo.
- * Sería gratuito su uso.
+* Python es más simple en comparación a costa de una baja despreciable de performance del lenguaje
+
+* Utilizar Spyder que da una interfáz parecida pero que usa Py + NumPy_
+
+* LHC usa Python. Averiguar cómo y con qué biblioteca
+
+* Utilizar como excusa para enseñar Python, el cual es útil a la larga, en vez de Matlab, que no lo es.
+
+* Se debería generar algo parecido en performance/visual/etc al Matlab respaldandonos en la sencillez de Py para luego así promover como reemplazo.
+
+* Sería gratuito su uso.
 
 Lista Café y Karma
 
-''DISCLAIMER: Acá se fue a la mierda la discusión, tergiverso completamente. Pero, puedo rescatar lo siguiente de mi cabeza luego de un procesamiento:''
+*DISCLAIMER: Acá se fue a la mierda la discusión, tergiverso completamente. Pero, puedo rescatar lo siguiente de mi cabeza luego de un procesamiento:*
 
- * Es necesaria la creación de una lista café donde quien quiera se subscriba y donde se invite, amablemente, a subscribir a aquél que tire OT en la lista de PyAR
- * La implementación de Karma esta bastante avanzada pero por opiniones personales de varios se desrecomienda su implementación en la lista.
- * Palabras de Facu (de mis vagos recuerdos) pero buen consejo para solucionar problemas: "Yo apreto 'm' y me olvido de todo"
+* Es necesaria la creación de una lista café donde quien quiera se subscriba y donde se invite, amablemente, a subscribir a aquél que tire OT en la lista de PyAR
+
+* La implementación de Karma esta bastante avanzada pero por opiniones personales de varios se desrecomienda su implementación en la lista.
+
+* Palabras de Facu (de mis vagos recuerdos) pero buen consejo para solucionar problemas: "Yo apreto 'm' y me olvido de todo"
+
+.. ############################################################################
+
+.. _encuesta!: http://www.doodle.com/anbnmdctxm7qkxgr
+
