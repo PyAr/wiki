@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Nicolás Echániz
 ---------------
@@ -14,5 +12,4 @@ Email: `[[MailTo(nicoechaniz AT SPAMFREE altermundi DOT net)]]`_
 
 .. ############################################################################
 
-.. _CategoryHomepage: ../CategoryHomepage
 
