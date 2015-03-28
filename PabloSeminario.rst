@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Pablo Seminario
 ---------------
@@ -22,5 +20,4 @@ Mail
 
 .. ############################################################################
 
-.. _CategoryHomepage: ../CategoryHomepage
 
