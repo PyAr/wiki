@@ -1,4 +1,3 @@
-#format rst
 
 Servidor de PyAr/Adaptadores SCSI
 =================================
