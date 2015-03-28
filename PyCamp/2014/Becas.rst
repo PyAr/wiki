@@ -1,4 +1,3 @@
-#format rst
 
 Ayuda económica para ir al PyCamp
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
