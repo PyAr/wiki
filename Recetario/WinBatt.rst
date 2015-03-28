@@ -1,4 +1,3 @@
-#format rst
 
 WinBatt (ctypes + powrprof.dll en win)
 --------------------------------------
@@ -84,7 +83,7 @@ Para usarlo se puede ejecutar desde línea de comando:
    Rate: -9.435 W
    Estimated Time: 0 h 34 min
 
-Para Descargar Fuentes: `attachment:winbatt.py`_winbatt.py`attachment:None`_
+Para Descargar Fuentes: 
 
 Autor / Autores:
 ::::::::::::::::
