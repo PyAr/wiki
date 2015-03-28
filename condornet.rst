@@ -1,4 +1,3 @@
-#format rst
 
 Escribe acerca de condornet aquí.
 
@@ -8,5 +7,4 @@ Escribe acerca de condornet aquí.
 
 .. ############################################################################
 
-.. _CategoryCategory: ../CategoryCategory
 
