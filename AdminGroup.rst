@@ -1,14 +1,2 @@
-#acl AdminGroup:admin,read,write,revert
- * AlejandroDavidWeil
- * AlejandroJCura
- * AnthonyLenton
- * FacundoBatista
- * JoaquinSorianello
- * JohnLenton
- * LucioTorre
- * MarianoGuerra
- * MarianoReingart
- * NubIs
- * PabloZiliani
- * RicardoKirkner
- * TiN
+#format rst
+
