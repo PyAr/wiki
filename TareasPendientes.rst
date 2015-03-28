@@ -1,4 +1,3 @@
-#format rst
 
 Tareas Pendientes
 =================
@@ -62,15 +61,14 @@ Promoción
 
 .. ############################################################################
 
-.. _PyAr: ../PyAr
 
-.. _Noticias: ../Noticias
 
-.. _Recursos: ../Recursos
 
-.. _Eventos/Conferencias: ../Eventos/Conferencias
 
-.. _páginas con FIXMEs: ../FixMe
 
-.. _WantedPages: ../WantedPages
+
+
+
+.. role:: strike
+   :class: strike
 
