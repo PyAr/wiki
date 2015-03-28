@@ -1,11 +1,15 @@
-~-volver a RemerasV2-~
+#format rst
 
-Otra más :)
+:small:`volver a` RemerasV2_
 
-{{attachment:LauBenech5.png}}
+Otra más |:)|
 
-[[attachment:LauBenech5.svg]]
+`attachment:LauBenech5.png`_
 
-== Comentarios ==
+`attachment:LauBenech5.svg`_LauBenech5.svg`attachment:None`_
+
+Comentarios
+-----------
 
 * [quien?] (placeholder)
+
