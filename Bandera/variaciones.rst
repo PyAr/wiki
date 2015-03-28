@@ -1,4 +1,3 @@
-#format rst
 
 Con y sin versalitas
 ====================
@@ -6,14 +5,14 @@ Con y sin versalitas
 Forma original
 --------------
 
-`attachment:ganadora-stretch.png`_
+`ganadora-stretch.png </wiki/Bandera/variaciones/attachment/131/ganadora-stretch.png>`_
 
-* `attachment:ganadora-stretch.svg`_ganadora-stretch.svg`attachment:None`_
+* 
 
 Con PyAr en versalitas
 ----------------------
 
-`attachment:stretch-versalitas.png`_
+`stretch-versalitas.png </wiki/Bandera/variaciones/attachment/129/stretch-versalitas.png>`_
 
-* `attachment:stretch-versalitas.svg`_stretch-versalitas.svg`attachment:None`_
+* 
 
