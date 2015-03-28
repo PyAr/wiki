@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Diego Sarmentero
 ----------------
@@ -30,5 +28,4 @@ So Say We All!! :P
 
 .. ############################################################################
 
-.. _CategoryHomepage: ../CategoryHomepage
 
