@@ -1,16 +1,24 @@
-##master-page:HomepageTemplate
-#format wiki
-#language en
-== David Litvak ==
+#format rst
+## master-page:HomepageTemplate
 
-Email: <<MailTo(david DOT litvakb AT SPAMFREE gmail DOT com)>>
-## You can even more obfuscate your email address by adding more uppercase letters followed by a leading and trailing blank.
+David Litvak
+------------
+
+Email: `[[MailTo(david DOT litvakb AT SPAMFREE gmail DOT com)]]`_.. You can even more obfuscate your email address by adding more uppercase letters followed by a leading and trailing blank.
 
 ...
 
-Desarrollador de Crawley-Project: [[http://www.crawley-project.org]]
+Desarrollador de Crawley-Project: http://www.crawley-project.org
 
-Pueden ver proyectos mios en: [[http://github.com/dlitvakb|GitHub]]
+Pueden ver proyectos mios en: GitHub_
 
-----
-CategoryHomepage
+-------------------------
+
+ CategoryHomepage_
+
+.. ############################################################################
+
+.. _GitHub: http://github.com/dlitvakb
+
+.. _CategoryHomepage: ../CategoryHomepage
+
