@@ -1,5 +1,3 @@
-#format rst
-## page was renamed from Eventos/Reuniones/Reunion18
 
 Reunión 18 - 04/10/2006 - Hip Bar
 =================================
