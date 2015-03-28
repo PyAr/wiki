@@ -1,23 +1,41 @@
-= Pyday 2011 =
+#format rst
 
-El Python Day es un evento organizado por PyAr y dura un día donde se darán pequeños cursos y charlas relacionadas a este lenguaje que de a poco va a haciendo su lugar entre los desarrolladores. Tenemos como intención hacer un espacio en donde cualquier persona interesada pueda acercarse para preguntar, aprender y experimentar con estas herramientas.
+Pyday 2011
+==========
 
-<<TableOfContents>>
+El Python Day es un evento organizado por PyAr_ y dura un día donde se darán pequeños cursos y charlas relacionadas a este lenguaje que de a poco va a haciendo su lugar entre los desarrolladores. Tenemos como intención hacer un espacio en donde cualquier persona interesada pueda acercarse para preguntar, aprender y experimentar con estas herramientas.
 
-== Datos del evento ==
+.. contents::
 
- * [[http://www.pyday.com.ar/cordoba2011/default/index|Ir a la web oficial]]
+Datos del evento
+----------------
 
-== Charlas que se filmaron ==
+* `Ir a la web oficial`_
 
+Charlas que se filmaron
+-----------------------
 
+* `Comunidad, anarquía y subversión`_
 
- * '''[[/ComunidadAnarquiaSubversion | Comunidad, anarquía y subversión]]'''
+* `Python, Sugar y Robotica Educativa`_
 
- * '''[[/PythonSugarIcaro | Python, Sugar y Robotica Educativa]]'''
+* `pycamp.orm, haciendo facil usar sqlalchemy :)`_
 
- * '''[[PycampORM | pycamp.orm, haciendo facil usar sqlalchemy :)]]'''
+* `Haciendo videojuegos con Pilas`_
 
- * '''[[/PythonPilas | Haciendo videojuegos con Pilas]]'''
+* `Mythbusters: Tests`_
 
- * '''[[/PythonTests | Mythbusters: Tests]]'''
+.. ############################################################################
+
+.. _Ir a la web oficial: http://www.pyday.com.ar/cordoba2011/default/index
+
+.. _Comunidad, anarquía y subversión: /ComunidadAnarquiaSubversion
+
+.. _Python, Sugar y Robotica Educativa: /PythonSugarIcaro
+
+.. _`pycamp.orm, haciendo facil usar sqlalchemy :)`: PycampORM
+
+.. _Haciendo videojuegos con Pilas: /PythonPilas
+
+.. _`Mythbusters: Tests`: /PythonTests
+
