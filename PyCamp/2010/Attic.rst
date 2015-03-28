@@ -1,4 +1,3 @@
-#format rst
 
 Ático de PyCamp 2010
 ====================
