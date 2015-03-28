@@ -1,4 +1,3 @@
-#format rst
 
 * Juegos de mesa 
 
@@ -42,4 +41,9 @@ si tenes ganas de hacer dist-upgrade o pacman -Syu
 -------------------------
 
  CategoryPyCamp_
+
+
+
+.. role:: strike
+   :class: strike
 
