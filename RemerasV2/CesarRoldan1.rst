@@ -1,15 +1,14 @@
-#format rst
 
 Intento 01 de Cesar Roldan
 --------------------------
 
 Algo tranqui.
 
-`attachment:remeraCesar1.png`_
+`remeraCesar1.png </wiki/RemerasV2/CesarRoldan1/attachment/212/remeraCesar1.png>`_
 
 **Diseño:**
 
-`attachment:remeraCesar1.svg`_remeraCesar1.svg`attachment:None`_
+
 
 Comentarios
 -----------
