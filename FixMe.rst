@@ -1,7 +1,14 @@
-= FixMe =
+#format rst
 
-== Este es un listado de páginas pendientes de corrección ==
+FixMe
+=====
 
-  || {i} Si solo aparece la página FixMe, ¡estamos bien! (FixMe aparece siempre, por efecto colateral del full search)||
+Este es un listado de páginas pendientes de corrección
+------------------------------------------------------
 
-<<FullSearch(/!\ FIXME)>>
+ 
+
+  [Table not converted]
+
+`[[FullSearch(/!\ FIXME)]]`_
+
