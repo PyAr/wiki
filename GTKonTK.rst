@@ -1,697 +1,709 @@
-= GTK on TK =
+#format rst
+
+GTK on TK
+=========
 
 Usar temas de GTK en las aplicaciones de TKinter, no requiere ttk, funciona en KDE.
 
-'''Foto de Pantalla:''' 
+**Foto de Pantalla:** 
 
 De fondo Gedit en Ubuntu, usando el tema Ambiance, arriba una ventana con similar tema pero en TK, a su lado una ventana TK por defecto.
 
- ~-El codigo de este ejemplo esta mas abajo ''(la foto no esta editada, no hay truco, funciona en KDE, o inclusive lo he hecho funcionar sin GTK instalado)''.-~
+  :small:`El codigo de este ejemplo esta mas abajo` *(la foto no esta editada, no hay truco, funciona en KDE, o inclusive lo he hecho funcionar sin GTK instalado)*:small:`.`
 
-{{attachment:gtk-on-tk-hack.jpg}}
+`attachment:gtk-on-tk-hack.jpg`_
 
-'''El Codigo para hacer GTK on TK:'''
+**El Codigo para hacer GTK on TK:**
 
-{{{
-#!code python
-#
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-# 
-#   colour.py
-#
-import os
-import sys
-import gtk
-try:
-    import gconf
-    NOGCONF = False
-except:
-    NOGCONF = True
+::
 
-__all__ = ["_get_color_scheme", "_get_color_scheme_list", "get_color_scheme_item", "string_to_gdkColour", "string_to_rgba", "get_Gtk_Theme_Name", "get_Gtk_Theme_Path"]
+   .. raw:: html
+      <span class="line"><span class="c">#</span>
+      </span><span class="line"><span class="c">#!/usr/bin/env python</span>
+      </span><span class="line"><span class="c"># -*- coding: utf-8 -*-</span>
+      </span><span class="line"><span class="c"># </span>
+      </span><span class="line"><span class="c">#   colour.py</span>
+      </span><span class="line"><span class="c">#</span>
+      </span><span class="line"><span class="kn">import</span> <span class="nn">os</span>
+      </span><span class="line"><span class="kn">import</span> <span class="nn">sys</span>
+      </span><span class="line"><span class="kn">import</span> <span class="nn">gtk</span>
+      </span><span class="line"><span class="k">try</span><span class="p">:</span>
+      </span><span class="line">    <span class="kn">import</span> <span class="nn">gconf</span>
+      </span><span class="line">    <span class="n">NOGCONF</span> <span class="o">=</span> <span class="bp">False</span>
+      </span><span class="line"><span class="k">except</span><span class="p">:</span>
+      </span><span class="line">    <span class="n">NOGCONF</span> <span class="o">=</span> <span class="bp">True</span>
+      </span><span class="line">
+      </span><span class="line"><span class="n">__all__</span> <span class="o">=</span> <span class="p">[</span><span class="s">&quot;_get_color_scheme&quot;</span><span class="p">,</span> <span class="s">&quot;_get_color_scheme_list&quot;</span><span class="p">,</span> <span class="s">&quot;get_color_scheme_item&quot;</span><span class="p">,</span> <span class="s">&quot;string_to_gdkColour&quot;</span><span class="p">,</span> <span class="s">&quot;string_to_rgba&quot;</span><span class="p">,</span> <span class="s">&quot;get_Gtk_Theme_Name&quot;</span><span class="p">,</span> <span class="s">&quot;get_Gtk_Theme_Path&quot;</span><span class="p">]</span>
+      </span><span class="line">
+      </span><span class="line"><span class="k">def</span> <span class="nf">_get_color_scheme</span><span class="p">():</span>
+      </span><span class="line">    <span class="n">gtkSet</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">settings_get_default</span><span class="p">()</span>
+      </span><span class="line">    <span class="k">return</span> <span class="n">gtkSet</span><span class="o">.</span><span class="n">get_property</span><span class="p">(</span><span class="s">&#39;gtk-color-scheme&#39;</span><span class="p">)</span>
+      </span><span class="line">
+      </span><span class="line"><span class="k">def</span> <span class="nf">_get_color_scheme_list</span><span class="p">():</span>
+      </span><span class="line">    <span class="n">gtkSch</span> <span class="o">=</span> <span class="n">_get_color_scheme</span><span class="p">()</span>
+      </span><span class="line">    <span class="n">itemList</span> <span class="o">=</span> <span class="p">[]</span>
+      </span><span class="line">    <span class="k">for</span> <span class="n">line</span> <span class="ow">in</span> <span class="n">gtkSch</span><span class="o">.</span><span class="n">splitlines</span><span class="p">():</span>
+      </span><span class="line">        <span class="n">itemList</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">line</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="s">&quot;:&quot;</span><span class="p">)[</span><span class="mi">0</span><span class="p">])</span>
+      </span><span class="line">    <span class="k">return</span> <span class="n">itemList</span>
+      </span><span class="line">
+      </span><span class="line"><span class="k">def</span> <span class="nf">get_color_scheme_item</span><span class="p">(</span><span class="n">colorName</span><span class="p">):</span>
+      </span><span class="line">    <span class="n">gtkSch</span> <span class="o">=</span> <span class="n">_get_color_scheme</span><span class="p">()</span>
+      </span><span class="line">    <span class="n">findLine</span> <span class="o">=</span> <span class="n">gtkSch</span><span class="p">[</span><span class="n">gtkSch</span><span class="o">.</span><span class="n">find</span><span class="p">(</span><span class="n">colorName</span><span class="p">):]</span><span class="o">.</span><span class="n">splitlines</span><span class="p">()[</span><span class="mi">0</span><span class="p">]</span>
+      </span><span class="line">    <span class="n">c</span> <span class="o">=</span> <span class="n">findLine</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="n">colorName</span><span class="o">+</span><span class="s">&quot;:&quot;</span><span class="p">,</span> <span class="s">&quot;&quot;</span><span class="p">)</span><span class="o">.</span><span class="n">strip</span><span class="p">()</span>
+      </span><span class="line">    <span class="c">#print colorName, &quot;=&quot;, c</span>
+      </span><span class="line">    <span class="n">c</span> <span class="o">=</span> <span class="n">c</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="s">&quot;#&quot;</span><span class="p">,</span> <span class="s">&quot;&quot;</span><span class="p">)</span>
+      </span><span class="line">    <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">c</span><span class="p">)</span> <span class="o">==</span> <span class="mi">12</span><span class="p">:</span>
+      </span><span class="line">        <span class="c">#4 chars, r g b</span>
+      </span><span class="line">        <span class="n">rgba</span> <span class="o">=</span> <span class="p">[</span><span class="n">c</span><span class="p">[</span><span class="mi">0</span><span class="p">:</span><span class="mi">4</span><span class="p">],</span> <span class="n">c</span><span class="p">[</span><span class="mi">4</span><span class="p">:</span><span class="mi">8</span><span class="p">],</span> <span class="n">c</span><span class="p">[</span><span class="mi">8</span><span class="p">:</span><span class="mi">12</span><span class="p">],</span> <span class="s">&quot;&quot;</span><span class="p">]</span>
+      </span><span class="line">    <span class="n">colourFound</span> <span class="o">=</span> <span class="s">&#39;#&#39;</span>
+      </span><span class="line">    <span class="k">for</span> <span class="nb">set</span> <span class="ow">in</span> <span class="n">rgba</span><span class="p">:</span>
+      </span><span class="line">       <span class="n">colourFound</span> <span class="o">=</span> <span class="s">&quot;&quot;</span><span class="o">.</span><span class="n">join</span><span class="p">([</span><span class="n">colourFound</span><span class="p">,</span> <span class="nb">set</span><span class="p">[:</span><span class="mi">2</span><span class="p">]</span><span class="o">.</span><span class="n">upper</span><span class="p">()])</span> 
+      </span><span class="line">    <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">colourFound</span><span class="p">)</span> <span class="o">==</span> <span class="mi">0</span><span class="p">:</span>
+      </span><span class="line">        <span class="k">raise</span> <span class="n">error</span>
+      </span><span class="line">        <span class="k">return</span> <span class="bp">None</span>
+      </span><span class="line">    <span class="k">else</span><span class="p">:</span>
+      </span><span class="line">        <span class="k">return</span> <span class="n">colourFound</span>
+      </span><span class="line">
+      </span><span class="line"><span class="k">def</span> <span class="nf">incHex</span><span class="p">(</span><span class="n">c</span><span class="p">,</span> <span class="n">times</span><span class="o">=</span><span class="mi">1</span><span class="p">):</span>
+      </span><span class="line">    <span class="kn">import</span> <span class="nn">string</span>
+      </span><span class="line">    <span class="n">c</span> <span class="o">=</span> <span class="n">c</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="s">&quot;#&quot;</span><span class="p">,</span> <span class="s">&quot;&quot;</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">c</span> <span class="o">=</span> <span class="n">c</span><span class="o">.</span><span class="n">upper</span><span class="p">()</span>
+      </span><span class="line">    <span class="n">hexString</span> <span class="o">=</span> <span class="s">&#39;0123456789ABCDEF&#39;</span>
+      </span><span class="line">    <span class="k">if</span> <span class="n">times</span> <span class="o">&gt;</span> <span class="mi">0</span><span class="p">:</span>
+      </span><span class="line">        <span class="k">if</span> <span class="n">times</span> <span class="o">&gt;</span> <span class="mi">16</span><span class="p">:</span> <span class="n">times</span> <span class="o">=</span> <span class="mi">16</span>
+      </span><span class="line">        <span class="n">hexString</span> <span class="o">=</span> <span class="n">hexString</span><span class="p">[</span><span class="n">times</span><span class="p">:]</span>
+      </span><span class="line">        <span class="n">hexString</span> <span class="o">=</span> <span class="n">hexString</span><span class="o">.</span><span class="n">ljust</span><span class="p">(</span><span class="mi">16</span><span class="p">,</span> <span class="s">&#39;F&#39;</span><span class="p">)</span>
+      </span><span class="line">    <span class="k">else</span><span class="p">:</span>
+      </span><span class="line">        <span class="k">if</span> <span class="n">times</span> <span class="o">&lt;</span> <span class="o">-</span><span class="mi">16</span><span class="p">:</span> <span class="n">times</span> <span class="o">=</span> <span class="o">-</span><span class="mi">16</span>
+      </span><span class="line">        <span class="n">hexString</span> <span class="o">=</span> <span class="n">hexString</span><span class="p">[:</span><span class="n">times</span><span class="p">]</span>
+      </span><span class="line">        <span class="n">hexString</span> <span class="o">=</span> <span class="n">hexString</span><span class="o">.</span><span class="n">rjust</span><span class="p">(</span><span class="mi">16</span><span class="p">,</span> <span class="s">&#39;0&#39;</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">trans</span> <span class="o">=</span> <span class="n">string</span><span class="o">.</span><span class="n">maketrans</span><span class="p">(</span><span class="s">&#39;0123456789ABCDEF&#39;</span><span class="p">,</span> <span class="n">hexString</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">ic</span> <span class="o">=</span> <span class="n">c</span><span class="o">.</span><span class="n">translate</span><span class="p">(</span><span class="n">trans</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">ic</span> <span class="o">=</span> <span class="s">&quot;&quot;</span><span class="o">.</span><span class="n">join</span><span class="p">([</span><span class="s">&#39;#&#39;</span><span class="p">,</span> <span class="n">ic</span><span class="p">])</span>
+      </span><span class="line">    <span class="k">return</span> <span class="n">ic</span>
+      </span><span class="line">
+      </span><span class="line"><span class="k">def</span> <span class="nf">string_to_gdkColor</span><span class="p">(</span><span class="n">c</span><span class="p">):</span>
+      </span><span class="line">    <span class="k">if</span> <span class="n">c</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="o">!=</span> <span class="s">&#39;#&#39;</span><span class="p">:</span> <span class="n">c</span> <span class="o">=</span> <span class="s">&quot;&quot;</span><span class="o">.</span><span class="n">join</span><span class="p">([</span><span class="s">&#39;#&#39;</span><span class="p">,</span><span class="n">c</span><span class="p">])</span>
+      </span><span class="line">    <span class="k">while</span> <span class="nb">len</span><span class="p">(</span><span class="n">c</span><span class="p">)</span> <span class="ow">not</span> <span class="ow">in</span> <span class="p">[</span><span class="mi">4</span><span class="p">,</span> <span class="mi">7</span><span class="p">,</span> <span class="mi">10</span><span class="p">,</span> <span class="mi">13</span><span class="p">]:</span>
+      </span><span class="line">        <span class="n">c</span> <span class="o">=</span> <span class="n">c</span><span class="p">[</span><span class="mi">0</span><span class="p">:</span><span class="nb">len</span><span class="p">(</span><span class="n">c</span><span class="p">)</span><span class="o">-</span><span class="mi">1</span><span class="p">]</span>
+      </span><span class="line">    <span class="k">return</span> <span class="n">gtk</span><span class="o">.</span><span class="n">gdk</span><span class="o">.</span><span class="n">color_parse</span><span class="p">(</span><span class="n">c</span><span class="p">)</span>
+      </span><span class="line">
+      </span><span class="line"><span class="k">def</span> <span class="nf">rgba_to_string</span><span class="p">(</span><span class="n">r</span><span class="p">,</span> <span class="n">g</span><span class="p">,</span> <span class="n">b</span><span class="p">,</span> <span class="n">a</span><span class="o">=</span><span class="bp">None</span><span class="p">):</span>
+      </span><span class="line">    <span class="k">if</span> <span class="p">(</span><span class="n">a</span><span class="o">==</span><span class="bp">None</span><span class="p">):</span>
+      </span><span class="line">        <span class="n">a</span> <span class="o">=</span> <span class="mi">1</span>
+      </span><span class="line">    <span class="n">hr</span><span class="p">,</span> <span class="n">hg</span><span class="p">,</span> <span class="n">hb</span><span class="p">,</span> <span class="n">ha</span> <span class="o">=</span> <span class="p">[</span><span class="nb">hex</span><span class="p">(</span><span class="nb">min</span><span class="p">(</span><span class="nb">int</span><span class="p">(</span><span class="n">n</span><span class="o">*</span><span class="mi">255</span><span class="p">),</span> <span class="mi">255</span><span class="p">))[</span><span class="mi">2</span><span class="p">:]</span> <span class="k">for</span> <span class="n">n</span> <span class="ow">in</span><span class="p">(</span><span class="n">r</span><span class="p">,</span> <span class="n">g</span><span class="p">,</span> <span class="n">b</span><span class="p">,</span> <span class="n">a</span><span class="p">)]</span>
+      </span><span class="line">    <span class="n">hList</span> <span class="o">=</span> <span class="p">[</span><span class="s">&#39;#&#39;</span><span class="p">]</span>
+      </span><span class="line">    <span class="k">for</span> <span class="n">n</span> <span class="ow">in</span> <span class="p">(</span><span class="n">hr</span><span class="p">,</span> <span class="n">hg</span><span class="p">,</span> <span class="n">hb</span><span class="p">,</span> <span class="n">ha</span><span class="p">):</span>
+      </span><span class="line">        <span class="c">#print n</span>
+      </span><span class="line">        <span class="n">hList</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">n</span><span class="o">.</span><span class="n">rjust</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span> <span class="s">&#39;0&#39;</span><span class="p">)</span><span class="o">.</span><span class="n">upper</span><span class="p">())</span>
+      </span><span class="line">    <span class="n">hr</span> <span class="o">=</span> <span class="n">hr</span><span class="o">.</span><span class="n">rjust</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span> <span class="s">&#39;0&#39;</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">hg</span> <span class="o">=</span> <span class="n">hg</span><span class="o">.</span><span class="n">rjust</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span> <span class="s">&#39;0&#39;</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">hb</span> <span class="o">=</span> <span class="n">hb</span><span class="o">.</span><span class="n">rjust</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span> <span class="s">&#39;0&#39;</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">ha</span> <span class="o">=</span> <span class="n">ha</span><span class="o">.</span><span class="n">rjust</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span> <span class="s">&#39;0&#39;</span><span class="p">)</span>
+      </span><span class="line">    <span class="k">return</span> <span class="s">&quot;&quot;</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="n">hList</span><span class="p">)</span>
+      </span><span class="line">
+      </span><span class="line"><span class="k">def</span> <span class="nf">string_to_rgb</span><span class="p">(</span><span class="n">c</span><span class="p">):</span>
+      </span><span class="line">    <span class="n">r</span><span class="p">,</span> <span class="n">g</span><span class="p">,</span> <span class="n">b</span><span class="p">,</span> <span class="n">a</span> <span class="o">=</span> <span class="p">(</span><span class="n">string_to_rgba</span><span class="p">(</span><span class="n">c</span><span class="p">))</span>
+      </span><span class="line">    <span class="k">return</span> <span class="n">r</span><span class="p">,</span> <span class="n">g</span><span class="p">,</span> <span class="n">b</span>
+      </span><span class="line">
+      </span><span class="line"><span class="k">def</span> <span class="nf">string_to_rgba</span><span class="p">(</span><span class="n">c</span><span class="p">):</span>
+      </span><span class="line">    <span class="n">c</span> <span class="o">=</span> <span class="n">c</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="s">&quot;#&quot;</span><span class="p">,</span> <span class="s">&quot;&quot;</span><span class="p">)</span>
+      </span><span class="line">    <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">c</span><span class="p">)</span> <span class="o">==</span> <span class="mi">12</span><span class="p">:</span>
+      </span><span class="line">        <span class="c">#4 chars, r g b</span>
+      </span><span class="line">        <span class="n">r</span><span class="p">,</span> <span class="n">g</span><span class="p">,</span> <span class="n">b</span> <span class="o">=</span> <span class="p">(</span><span class="n">c</span><span class="p">[</span><span class="mi">0</span><span class="p">:</span><span class="mi">4</span><span class="p">],</span> <span class="n">c</span><span class="p">[</span><span class="mi">4</span><span class="p">:</span><span class="mi">8</span><span class="p">],</span> <span class="n">c</span><span class="p">[</span><span class="mi">8</span><span class="p">:</span><span class="mi">12</span><span class="p">])</span>
+      </span><span class="line">        <span class="n">r</span><span class="p">,</span> <span class="n">g</span><span class="p">,</span> <span class="n">b</span> <span class="o">=</span> <span class="p">[</span><span class="nb">int</span><span class="p">(</span><span class="n">n</span><span class="p">,</span> <span class="mi">16</span><span class="p">)</span><span class="o">/</span><span class="mf">65535.0</span> <span class="k">for</span> <span class="n">n</span> <span class="ow">in</span><span class="p">(</span><span class="n">r</span><span class="p">,</span> <span class="n">g</span><span class="p">,</span> <span class="n">b</span><span class="p">)]</span>
+      </span><span class="line">        <span class="n">a</span> <span class="o">=</span> <span class="mi">1</span>
+      </span><span class="line">    <span class="k">elif</span> <span class="nb">len</span><span class="p">(</span><span class="n">c</span><span class="p">)</span> <span class="o">==</span> <span class="mi">8</span><span class="p">:</span>
+      </span><span class="line">        <span class="c">#2 chars, r g b a</span>
+      </span><span class="line">        <span class="n">r</span><span class="p">,</span> <span class="n">g</span><span class="p">,</span> <span class="n">b</span><span class="p">,</span> <span class="n">a</span> <span class="o">=</span> <span class="p">(</span><span class="n">c</span><span class="p">[</span><span class="mi">0</span><span class="p">:</span><span class="mi">2</span><span class="p">],</span> <span class="n">c</span><span class="p">[</span><span class="mi">2</span><span class="p">:</span><span class="mi">4</span><span class="p">],</span> <span class="n">c</span><span class="p">[</span><span class="mi">4</span><span class="p">:</span><span class="mi">6</span><span class="p">],</span> <span class="n">c</span><span class="p">[</span><span class="mi">6</span><span class="p">:</span><span class="mi">8</span><span class="p">])</span>
+      </span><span class="line">        <span class="n">r</span><span class="p">,</span> <span class="n">g</span><span class="p">,</span> <span class="n">b</span><span class="p">,</span> <span class="n">a</span> <span class="o">=</span> <span class="p">[</span><span class="nb">int</span><span class="p">(</span><span class="n">n</span><span class="p">,</span> <span class="mi">16</span><span class="p">)</span><span class="o">/</span><span class="mf">255.0</span> <span class="k">for</span> <span class="n">n</span> <span class="ow">in</span><span class="p">(</span><span class="n">r</span><span class="p">,</span> <span class="n">g</span><span class="p">,</span> <span class="n">b</span><span class="p">,</span> <span class="n">a</span><span class="p">)]</span>
+      </span><span class="line">    <span class="k">elif</span> <span class="nb">len</span><span class="p">(</span><span class="n">c</span><span class="p">)</span> <span class="o">==</span> <span class="mi">6</span><span class="p">:</span>
+      </span><span class="line">        <span class="c">#2 chars, r g b</span>
+      </span><span class="line">        <span class="n">r</span><span class="p">,</span> <span class="n">g</span><span class="p">,</span> <span class="n">b</span> <span class="o">=</span> <span class="p">(</span><span class="n">c</span><span class="p">[</span><span class="mi">0</span><span class="p">:</span><span class="mi">2</span><span class="p">],</span> <span class="n">c</span><span class="p">[</span><span class="mi">2</span><span class="p">:</span><span class="mi">4</span><span class="p">],</span> <span class="n">c</span><span class="p">[</span><span class="mi">4</span><span class="p">:</span><span class="mi">6</span><span class="p">])</span>
+      </span><span class="line">        <span class="n">r</span><span class="p">,</span> <span class="n">g</span><span class="p">,</span> <span class="n">b</span> <span class="o">=</span> <span class="p">[</span><span class="nb">int</span><span class="p">(</span><span class="n">n</span><span class="p">,</span> <span class="mi">16</span><span class="p">)</span><span class="o">/</span><span class="mf">255.0</span> <span class="k">for</span> <span class="n">n</span> <span class="ow">in</span><span class="p">(</span><span class="n">r</span><span class="p">,</span> <span class="n">g</span><span class="p">,</span> <span class="n">b</span><span class="p">)]</span>
+      </span><span class="line">        <span class="n">a</span> <span class="o">=</span> <span class="mi">1</span>
+      </span><span class="line">    <span class="k">return</span> <span class="n">r</span><span class="p">,</span> <span class="n">g</span><span class="p">,</span> <span class="n">b</span><span class="p">,</span> <span class="n">a</span>
+      </span><span class="line">
+      </span><span class="line"><span class="k">def</span> <span class="nf">get_Gtk_Theme_Name</span><span class="p">():</span>
+      </span><span class="line">    <span class="k">if</span> <span class="n">NOGCONF</span><span class="p">:</span>
+      </span><span class="line">        <span class="k">try</span><span class="p">:</span>
+      </span><span class="line">            <span class="n">gtkrc</span> <span class="o">=</span> <span class="nb">open</span><span class="p">(</span><span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">expanduser</span><span class="p">(</span><span class="s">&#39;~/.gtkrc-2.0&#39;</span><span class="p">))</span>
+      </span><span class="line">        <span class="k">except</span><span class="p">:</span>
+      </span><span class="line">            <span class="n">gtkrc</span> <span class="o">=</span> <span class="nb">open</span><span class="p">(</span><span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">expanduser</span><span class="p">(</span><span class="s">&#39;~/.gtkrc-2.0-kde4&#39;</span><span class="p">))</span>
+      </span><span class="line">        <span class="k">for</span> <span class="n">line</span> <span class="ow">in</span> <span class="n">gtkrc</span><span class="p">:</span>
+      </span><span class="line">            <span class="k">if</span> <span class="s">&#39;include&#39;</span> <span class="ow">in</span> <span class="n">line</span><span class="p">:</span>
+      </span><span class="line">                <span class="n">themePath</span> <span class="o">=</span> <span class="n">line</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="s">&quot;</span><span class="se">\&quot;</span><span class="s">&quot;</span><span class="p">)[</span><span class="mi">1</span><span class="p">]</span>
+      </span><span class="line">                <span class="n">gtkTheme</span> <span class="o">=</span> <span class="n">themePath</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="s">&quot;/&quot;</span><span class="p">)[</span><span class="o">-</span><span class="mi">3</span><span class="p">]</span>
+      </span><span class="line">    <span class="k">else</span><span class="p">:</span>
+      </span><span class="line">        <span class="n">client</span> <span class="o">=</span> <span class="n">gconf</span><span class="o">.</span><span class="n">client_get_default</span><span class="p">()</span>
+      </span><span class="line">        <span class="n">gtkTheme</span> <span class="o">=</span> <span class="n">client</span><span class="o">.</span><span class="n">get_string</span><span class="p">(</span><span class="s">&#39;/desktop/gnome/interface/gtk_theme&#39;</span><span class="p">)</span>
+      </span><span class="line">    <span class="k">return</span> <span class="n">gtkTheme</span>
+      </span><span class="line">
+      </span><span class="line"><span class="k">def</span> <span class="nf">get_Gtk_Theme_Path</span><span class="p">(</span><span class="n">gtkTheme</span><span class="o">=</span><span class="bp">None</span><span class="p">):</span>
+      </span><span class="line">    <span class="k">if</span> <span class="n">gtkTheme</span> <span class="o">==</span> <span class="bp">None</span><span class="p">:</span>   
+      </span><span class="line">        <span class="n">gtkTheme</span> <span class="o">=</span> <span class="n">get_Gtk_Theme_Name</span><span class="p">()</span>
+      </span><span class="line">    <span class="n">localThemePath</span> <span class="o">=</span> <span class="s">&quot;&quot;</span><span class="o">.</span><span class="n">join</span><span class="p">([</span><span class="s">&quot;~/.themes/&quot;</span><span class="p">,</span> <span class="n">gtkTheme</span><span class="p">,</span> <span class="s">&quot;/gtk-2.0/gtkrc&quot;</span><span class="p">])</span>
+      </span><span class="line">    <span class="n">localThemePath</span> <span class="o">=</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">expanduser</span><span class="p">(</span><span class="n">localThemePath</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">globalThemePath</span> <span class="o">=</span> <span class="s">&quot;&quot;</span><span class="o">.</span><span class="n">join</span><span class="p">([</span><span class="s">&quot;/usr/share/themes/&quot;</span><span class="p">,</span> <span class="n">gtkTheme</span><span class="p">,</span> <span class="s">&quot;/gtk-2.0/gtkrc&quot;</span><span class="p">])</span>
+      </span><span class="line">    <span class="k">if</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">exists</span><span class="p">(</span><span class="n">localThemePath</span><span class="p">):</span>
+      </span><span class="line">        <span class="n">ThemePath</span> <span class="o">=</span> <span class="n">localThemePath</span>
+      </span><span class="line">    <span class="k">elif</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">exists</span><span class="p">(</span><span class="n">globalThemePath</span><span class="p">):</span>
+      </span><span class="line">        <span class="n">ThemePath</span> <span class="o">=</span> <span class="n">globalThemePath</span>
+      </span><span class="line">    <span class="k">else</span><span class="p">:</span>
+      </span><span class="line">        <span class="n">ThemePath</span> <span class="o">=</span> <span class="bp">None</span>
+      </span><span class="line">
+      </span><span class="line">    <span class="k">if</span> <span class="n">ThemePath</span><span class="p">:</span>
+      </span><span class="line">        <span class="k">return</span> <span class="n">ThemePath</span>
+      </span><span class="line">    <span class="k">else</span><span class="p">:</span>
+      </span><span class="line">        <span class="k">raise</span> <span class="ne">NameError</span>
+      </span><span class="line">
+      </span><span class="line"><span class="k">if</span> <span class="n">__name__</span> <span class="o">==</span> <span class="s">&quot;__main__&quot;</span><span class="p">:</span>
+      </span><span class="line">    <span class="kn">import</span> <span class="nn">random</span>
+      </span><span class="line">    <span class="k">print</span> <span class="s">&quot;COLOUR TEST HARNESS&quot;</span>
+      </span><span class="line">    <span class="k">print</span> <span class="n">get_Gtk_Theme_Name</span><span class="p">()</span>
+      </span><span class="line">    <span class="k">print</span> <span class="n">_get_color_scheme</span><span class="p">()</span>
+      </span><span class="line">    <span class="n">colourList</span> <span class="o">=</span> <span class="p">[</span><span class="s">&#39;030A16FF&#39;</span><span class="p">,</span> <span class="s">&#39;#090E1BDD&#39;</span><span class="p">,</span> <span class="s">&#39;#9595b0b0dbdb&#39;</span><span class="p">,</span> <span class="s">&#39;1414f3f3a8a8&#39;</span><span class="p">]</span>
+      </span><span class="line">    <span class="n">colourList</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">get_color_scheme_item</span><span class="p">(</span><span class="n">_get_color_scheme_list</span><span class="p">()[</span><span class="n">random</span><span class="o">.</span><span class="n">randint</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="nb">len</span><span class="p">(</span><span class="n">_get_color_scheme_list</span><span class="p">())</span><span class="o">-</span><span class="mi">1</span><span class="p">)]))</span>
+      </span><span class="line">    <span class="k">for</span> <span class="n">cc</span> <span class="ow">in</span> <span class="n">colourList</span><span class="p">:</span>
+      </span><span class="line">        <span class="k">break</span>
+      </span><span class="line">        <span class="k">print</span> <span class="s">&quot;Colour String &quot;</span><span class="p">,</span> <span class="n">cc</span>
+      </span><span class="line">        <span class="k">print</span> <span class="s">&quot;gdkColour     &quot;</span><span class="p">,</span> <span class="n">string_to_gdkColor</span><span class="p">(</span><span class="n">cc</span><span class="p">)</span>
+      </span><span class="line">        <span class="k">print</span> <span class="s">&quot;rgba          &quot;</span><span class="p">,</span> <span class="nb">zip</span><span class="p">(</span><span class="n">string_to_rgba</span><span class="p">(</span><span class="n">cc</span><span class="p">))</span>
+      </span><span class="line">    <span class="k">print</span> <span class="s">&quot;rgba to string&quot;</span><span class="p">,</span> <span class="n">rgba_to_string</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mf">0.5</span><span class="p">,</span> <span class="mi">1</span><span class="p">,</span> <span class="mf">0.3</span><span class="p">)</span>
+      </span><span class="line">    <span class="k">print</span> <span class="s">&quot;inc &quot;</span><span class="p">,</span> <span class="n">incHex</span><span class="p">(</span><span class="n">rgba_to_string</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mf">0.5</span><span class="p">,</span> <span class="mi">1</span><span class="p">,</span> <span class="mf">0.3</span><span class="p">))</span>
+      </span><span class="line">    <span class="k">print</span> <span class="n">get_color_scheme_item</span><span class="p">(</span><span class="s">&#39;selected_bg_color&#39;</span><span class="p">)</span>
+      </span>
 
-def _get_color_scheme():
-    gtkSet = gtk.settings_get_default()
-    return gtkSet.get_property('gtk-color-scheme')
+-------------------------
 
-def _get_color_scheme_list():
-    gtkSch = _get_color_scheme()
-    itemList = []
-    for line in gtkSch.splitlines():
-        itemList.append(line.split(":")[0])
-    return itemList
 
-def get_color_scheme_item(colorName):
-    gtkSch = _get_color_scheme()
-    findLine = gtkSch[gtkSch.find(colorName):].splitlines()[0]
-    c = findLine.replace(colorName+":", "").strip()
-    #print colorName, "=", c
-    c = c.replace("#", "")
-    if len(c) == 12:
-        #4 chars, r g b
-        rgba = [c[0:4], c[4:8], c[8:12], ""]
-    colourFound = '#'
-    for set in rgba:
-       colourFound = "".join([colourFound, set[:2].upper()])  
-    if len(colourFound) == 0:
-        raise error
-        return None
-    else:
-        return colourFound
 
-def incHex(c, times=1):
-    import string
-    c = c.replace("#", "")
-    c = c.upper()
-    hexString = '0123456789ABCDEF'
-    if times > 0:
-        if times > 16: times = 16
-        hexString = hexString[times:]
-        hexString = hexString.ljust(16, 'F')
-    else:
-        if times < -16: times = -16
-        hexString = hexString[:times]
-        hexString = hexString.rjust(16, '0')
-    trans = string.maketrans('0123456789ABCDEF', hexString)
-    ic = c.translate(trans)
-    ic = "".join(['#', ic])
-    return ic
-
-def string_to_gdkColor(c):
-    if c[0] != '#': c = "".join(['#',c])
-    while len(c) not in [4, 7, 10, 13]:
-        c = c[0:len(c)-1]
-    return gtk.gdk.color_parse(c)
-
-def rgba_to_string(r, g, b, a=None):
-    if (a==None):
-        a = 1 
-    hr, hg, hb, ha = [hex(min(int(n*255), 255))[2:] for n in(r, g, b, a)]
-    hList = ['#']
-    for n in (hr, hg, hb, ha):
-        #print n
-        hList.append(n.rjust(2, '0').upper())
-    hr = hr.rjust(2, '0')
-    hg = hg.rjust(2, '0')
-    hb = hb.rjust(2, '0')
-    ha = ha.rjust(2, '0')
-    return "".join(hList)
-
-def string_to_rgb(c):
-    r, g, b, a = (string_to_rgba(c))
-    return r, g, b
-
-def string_to_rgba(c):
-    c = c.replace("#", "")
-    if len(c) == 12:
-        #4 chars, r g b
-        r, g, b = (c[0:4], c[4:8], c[8:12])
-        r, g, b = [int(n, 16)/65535.0 for n in(r, g, b)]
-        a = 1
-    elif len(c) == 8:
-        #2 chars, r g b a
-        r, g, b, a = (c[0:2], c[2:4], c[4:6], c[6:8])
-        r, g, b, a = [int(n, 16)/255.0 for n in(r, g, b, a)]
-    elif len(c) == 6:
-        #2 chars, r g b
-        r, g, b = (c[0:2], c[2:4], c[4:6])
-        r, g, b = [int(n, 16)/255.0 for n in(r, g, b)]
-        a = 1
-    return r, g, b, a
-
-def get_Gtk_Theme_Name():
-    if NOGCONF:
-        try:
-            gtkrc = open(os.path.expanduser('~/.gtkrc-2.0'))
-        except:
-            gtkrc = open(os.path.expanduser('~/.gtkrc-2.0-kde4'))
-        for line in gtkrc:
-            if 'include' in line:
-                themePath = line.split("\"")[1]
-                gtkTheme = themePath.split("/")[-3]
-    else:
-        client = gconf.client_get_default()
-        gtkTheme = client.get_string('/desktop/gnome/interface/gtk_theme')
-    return gtkTheme
-
-def get_Gtk_Theme_Path(gtkTheme=None):
-    if gtkTheme == None:    
-        gtkTheme = get_Gtk_Theme_Name() 
-    localThemePath = "".join(["~/.themes/", gtkTheme, "/gtk-2.0/gtkrc"])
-    localThemePath = os.path.expanduser(localThemePath)
-    globalThemePath = "".join(["/usr/share/themes/", gtkTheme, "/gtk-2.0/gtkrc"])
-    if os.path.exists(localThemePath):
-        ThemePath = localThemePath
-    elif os.path.exists(globalThemePath):
-        ThemePath = globalThemePath
-    else:
-        ThemePath = None
-
-    if ThemePath:
-        return ThemePath
-    else:
-        raise NameError 
-
-if __name__ == "__main__":
-    import random
-    print "COLOUR TEST HARNESS"
-    print get_Gtk_Theme_Name()
-    print _get_color_scheme()
-    colourList = ['030A16FF', '#090E1BDD', '#9595b0b0dbdb', '1414f3f3a8a8']
-    colourList.append(get_color_scheme_item(_get_color_scheme_list()[random.randint(0, len(_get_color_scheme_list())-1)]))
-    for cc in colourList:
-        break 
-        print "Colour String ", cc
-        print "gdkColour     ", string_to_gdkColor(cc)
-        print "rgba          ", zip(string_to_rgba(cc))
-    print "rgba to string", rgba_to_string(0, 0.5, 1, 0.3)
-    print "inc ", incHex(rgba_to_string(0, 0.5, 1, 0.3))
-    print get_color_scheme_item('selected_bg_color')
-}}}
-
-------
-
-'''Ejemplo:'''
+**Ejemplo:**
 
 Descripcion: Crea 2 ventanas pequeñas iguales, una tratara de imitar el tema de GTK, la otra se mostrara como es por defecto.
 
-~-''(el ejemplo funciona en Ubuntu, que es lo que yo uso, usa el codigo de arriba, lejos de estar bien hecho, pero sirve de ejemplo)''.-~
+*(el ejemplo funciona en Ubuntu, que es lo que yo uso, usa el codigo de arriba, lejos de estar bien hecho, pero sirve de ejemplo)*:small:`.`
 
-{{{
-#!code python
-#
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-#
-#import this
-#import antigravity
-import colour  # <-------Aca esta la magia
-import tkFont
-from Tkinter import *
-#
-root = Tk()
-root.title('GTK Themes on TK: Demo')
-root.wm_attributes("-alpha", 1)
-root.focus()
-root.resizable(0, 0)
-# Muestra informacion
-print " GTK-On-TK Theme Hack:"
-print " I will try to mimic: "+colour.get_Gtk_Theme_Name()+" GTK Theme"
-print " By Parsing the file: "+colour.get_Gtk_Theme_Path()
-print " This is not perfect, if you are on KDE install QTCurve... "
-# Menubar con GTK
-menubar = Menu(root, bd=0, relief=FLAT, fg=str(colour.get_color_scheme_item('base_color')), bg=str(colour.get_color_scheme_item('text_color')), activebackground=str(colour.get_color_scheme_item('selected_bg_color')), activeforeground=str(colour.get_color_scheme_item('text_color')))
-filemenu = Menu(menubar, tearoff=0, bd=0, relief=FLAT, fg=str(colour.get_color_scheme_item('base_color')), bg=str(colour.get_color_scheme_item('text_color')), activebackground=str(colour.get_color_scheme_item('selected_bg_color')), activeforeground=str(colour.get_color_scheme_item('text_color')))
-filemenu.add_command(label="Nuevo", state='disabled')
-filemenu.add_separator()
-filemenu.add_command(label="Cerrar ✗", command= lambda: root.destroy())
-menubar.add_cascade(label="Archivo", menu=filemenu)
-root.config(menu=menubar)
-# GUI con GTK
-root.config(bg=str(colour.get_color_scheme_item('base_color')))
-labl1 = Label(root, text="Soy una ventana con Tema GTK", font=("Times", 12, 'bold'), bd=0, relief=FLAT, bg=str(colour.get_color_scheme_item('base_color')), fg=str(colour.get_color_scheme_item('text_color')), activebackground=str(colour.get_color_scheme_item('selected_bg_color')), activeforeground=str(colour.get_color_scheme_item('text_color')))
-labl1.pack(side=TOP, expand='YES', fill='x', pady=10, padx=20)
-button = Button(root, text="Soy Linda!", fg=str(colour.get_color_scheme_item('text_color')), bd=0, relief=FLAT, bg=str(colour.get_color_scheme_item('base_color')),  activebackground=str(colour.get_color_scheme_item('selected_bg_color')), activeforeground=str(colour.get_color_scheme_item('text_color')))
-button.pack(side=BOTTOM, pady=10, padx=10)
-# la misma GUI pero como es por defecto
-toplevel = Toplevel()
-menubarz = Menu(toplevel)
-filemenuz = Menu(toplevel, tearoff=0)
-filemenuz.add_command(label="Nuevo", state='disabled')
-filemenuz.add_separator()
-filemenuz.add_command(label="Cerrar ✗", command= lambda: root.destroy())
-menubarz.add_cascade(label="Archivo", menu=filemenuz)
-toplevel.config(menu=menubarz)
-labl2 = Label(toplevel, text="Soy una ventana SIN Tema GTK")
-labl2.pack(side=TOP, expand='YES', fill='x', pady=10, padx=20)
-button2 = Button(toplevel, text="Soy Fea!")
-button2.pack(side=BOTTOM, pady=10, padx=10)
-# Le pongo fuente de Ubuntu (se puede omitir)
-menubar.config(font=("ubuntu", 10, "normal", "roman") )
-labl1.config(font=("ubuntu", 10, "bold", "roman") )
-filemenu.config(font=("ubuntu", 10, "normal", "roman") )
-button.config(font=("ubuntu", 10, "bold", "roman") )
-#
-root.mainloop()
-}}}
+::
+
+   .. raw:: html
+      <span class="line"><span class="c">#</span>
+      </span><span class="line"><span class="c">#!/usr/bin/env python</span>
+      </span><span class="line"><span class="c"># -*- coding: utf-8 -*-</span>
+      </span><span class="line"><span class="c">#</span>
+      </span><span class="line"><span class="c">#import this</span>
+      </span><span class="line"><span class="c">#import antigravity</span>
+      </span><span class="line"><span class="kn">import</span> <span class="nn">colour</span>  <span class="c"># &lt;-------Aca esta la magia</span>
+      </span><span class="line"><span class="kn">import</span> <span class="nn">tkFont</span>
+      </span><span class="line"><span class="kn">from</span> <span class="nn">Tkinter</span> <span class="kn">import</span> <span class="o">*</span>
+      </span><span class="line"><span class="c">#</span>
+      </span><span class="line"><span class="n">root</span> <span class="o">=</span> <span class="n">Tk</span><span class="p">()</span>
+      </span><span class="line"><span class="n">root</span><span class="o">.</span><span class="n">title</span><span class="p">(</span><span class="s">&#39;GTK Themes on TK: Demo&#39;</span><span class="p">)</span>
+      </span><span class="line"><span class="n">root</span><span class="o">.</span><span class="n">wm_attributes</span><span class="p">(</span><span class="s">&quot;-alpha&quot;</span><span class="p">,</span> <span class="mi">1</span><span class="p">)</span>
+      </span><span class="line"><span class="n">root</span><span class="o">.</span><span class="n">focus</span><span class="p">()</span>
+      </span><span class="line"><span class="n">root</span><span class="o">.</span><span class="n">resizable</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">0</span><span class="p">)</span>
+      </span><span class="line"><span class="c"># Muestra informacion</span>
+      </span><span class="line"><span class="k">print</span> <span class="s">&quot; GTK-On-TK Theme Hack:&quot;</span>
+      </span><span class="line"><span class="k">print</span> <span class="s">&quot; I will try to mimic: &quot;</span><span class="o">+</span><span class="n">colour</span><span class="o">.</span><span class="n">get_Gtk_Theme_Name</span><span class="p">()</span><span class="o">+</span><span class="s">&quot; GTK Theme&quot;</span>
+      </span><span class="line"><span class="k">print</span> <span class="s">&quot; By Parsing the file: &quot;</span><span class="o">+</span><span class="n">colour</span><span class="o">.</span><span class="n">get_Gtk_Theme_Path</span><span class="p">()</span>
+      </span><span class="line"><span class="k">print</span> <span class="s">&quot; This is not perfect, if you are on KDE install QTCurve... &quot;</span>
+      </span><span class="line"><span class="c"># Menubar con GTK</span>
+      </span><span class="line"><span class="n">menubar</span> <span class="o">=</span> <span class="n">Menu</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bd</span><span class="o">=</span><span class="mi">0</span><span class="p">,</span> <span class="n">relief</span><span class="o">=</span><span class="n">FLAT</span><span class="p">,</span> <span class="n">fg</span><span class="o">=</span><span class="nb">str</span><span class="p">(</span><span class="n">colour</span><span class="o">.</span><span class="n">get_color_scheme_item</span><span class="p">(</span><span class="s">&#39;base_color&#39;</span><span class="p">)),</span> <span class="n">bg</span><span class="o">=</span><span class="nb">str</span><span class="p">(</span><span class="n">colour</span><span class="o">.</span><span class="n">get_color_scheme_item</span><span class="p">(</span><span class="s">&#39;text_color&#39;</span><span class="p">)),</span> <span class="n">activebackground</span><span class="o">=</span><span class="nb">str</span><span class="p">(</span><span class="n">colour</span><span class="o">.</span><span class="n">get_color_scheme_item</span><span class="p">(</span><span class="s">&#39;selected_bg_color&#39;</span><span class="p">)),</span> <span class="n">activeforeground</span><span class="o">=</span><span class="nb">str</span><span class="p">(</span><span class="n">colour</span><span class="o">.</span><span class="n">get_color_scheme_item</span><span class="p">(</span><span class="s">&#39;text_color&#39;</span><span class="p">)))</span>
+      </span><span class="line"><span class="n">filemenu</span> <span class="o">=</span> <span class="n">Menu</span><span class="p">(</span><span class="n">menubar</span><span class="p">,</span> <span class="n">tearoff</span><span class="o">=</span><span class="mi">0</span><span class="p">,</span> <span class="n">bd</span><span class="o">=</span><span class="mi">0</span><span class="p">,</span> <span class="n">relief</span><span class="o">=</span><span class="n">FLAT</span><span class="p">,</span> <span class="n">fg</span><span class="o">=</span><span class="nb">str</span><span class="p">(</span><span class="n">colour</span><span class="o">.</span><span class="n">get_color_scheme_item</span><span class="p">(</span><span class="s">&#39;base_color&#39;</span><span class="p">)),</span> <span class="n">bg</span><span class="o">=</span><span class="nb">str</span><span class="p">(</span><span class="n">colour</span><span class="o">.</span><span class="n">get_color_scheme_item</span><span class="p">(</span><span class="s">&#39;text_color&#39;</span><span class="p">)),</span> <span class="n">activebackground</span><span class="o">=</span><span class="nb">str</span><span class="p">(</span><span class="n">colour</span><span class="o">.</span><span class="n">get_color_scheme_item</span><span class="p">(</span><span class="s">&#39;selected_bg_color&#39;</span><span class="p">)),</span> <span class="n">activeforeground</span><span class="o">=</span><span class="nb">str</span><span class="p">(</span><span class="n">colour</span><span class="o">.</span><span class="n">get_color_scheme_item</span><span class="p">(</span><span class="s">&#39;text_color&#39;</span><span class="p">)))</span>
+      </span><span class="line"><span class="n">filemenu</span><span class="o">.</span><span class="n">add_command</span><span class="p">(</span><span class="n">label</span><span class="o">=</span><span class="s">&quot;Nuevo&quot;</span><span class="p">,</span> <span class="n">state</span><span class="o">=</span><span class="s">&#39;disabled&#39;</span><span class="p">)</span>
+      </span><span class="line"><span class="n">filemenu</span><span class="o">.</span><span class="n">add_separator</span><span class="p">()</span>
+      </span><span class="line"><span class="n">filemenu</span><span class="o">.</span><span class="n">add_command</span><span class="p">(</span><span class="n">label</span><span class="o">=</span><span class="s">&quot;Cerrar ✗&quot;</span><span class="p">,</span> <span class="n">command</span><span class="o">=</span> <span class="k">lambda</span><span class="p">:</span> <span class="n">root</span><span class="o">.</span><span class="n">destroy</span><span class="p">())</span>
+      </span><span class="line"><span class="n">menubar</span><span class="o">.</span><span class="n">add_cascade</span><span class="p">(</span><span class="n">label</span><span class="o">=</span><span class="s">&quot;Archivo&quot;</span><span class="p">,</span> <span class="n">menu</span><span class="o">=</span><span class="n">filemenu</span><span class="p">)</span>
+      </span><span class="line"><span class="n">root</span><span class="o">.</span><span class="n">config</span><span class="p">(</span><span class="n">menu</span><span class="o">=</span><span class="n">menubar</span><span class="p">)</span>
+      </span><span class="line"><span class="c"># GUI con GTK</span>
+      </span><span class="line"><span class="n">root</span><span class="o">.</span><span class="n">config</span><span class="p">(</span><span class="n">bg</span><span class="o">=</span><span class="nb">str</span><span class="p">(</span><span class="n">colour</span><span class="o">.</span><span class="n">get_color_scheme_item</span><span class="p">(</span><span class="s">&#39;base_color&#39;</span><span class="p">)))</span>
+      </span><span class="line"><span class="n">labl1</span> <span class="o">=</span> <span class="n">Label</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">text</span><span class="o">=</span><span class="s">&quot;Soy una ventana con Tema GTK&quot;</span><span class="p">,</span> <span class="n">font</span><span class="o">=</span><span class="p">(</span><span class="s">&quot;Times&quot;</span><span class="p">,</span> <span class="mi">12</span><span class="p">,</span> <span class="s">&#39;bold&#39;</span><span class="p">),</span> <span class="n">bd</span><span class="o">=</span><span class="mi">0</span><span class="p">,</span> <span class="n">relief</span><span class="o">=</span><span class="n">FLAT</span><span class="p">,</span> <span class="n">bg</span><span class="o">=</span><span class="nb">str</span><span class="p">(</span><span class="n">colour</span><span class="o">.</span><span class="n">get_color_scheme_item</span><span class="p">(</span><span class="s">&#39;base_color&#39;</span><span class="p">)),</span> <span class="n">fg</span><span class="o">=</span><span class="nb">str</span><span class="p">(</span><span class="n">colour</span><span class="o">.</span><span class="n">get_color_scheme_item</span><span class="p">(</span><span class="s">&#39;text_color&#39;</span><span class="p">)),</span> <span class="n">activebackground</span><span class="o">=</span><span class="nb">str</span><span class="p">(</span><span class="n">colour</span><span class="o">.</span><span class="n">get_color_scheme_item</span><span class="p">(</span><span class="s">&#39;selected_bg_color&#39;</span><span class="p">)),</span> <span class="n">activeforeground</span><span class="o">=</span><span class="nb">str</span><span class="p">(</span><span class="n">colour</span><span class="o">.</span><span class="n">get_color_scheme_item</span><span class="p">(</span><span class="s">&#39;text_color&#39;</span><span class="p">)))</span>
+      </span><span class="line"><span class="n">labl1</span><span class="o">.</span><span class="n">pack</span><span class="p">(</span><span class="n">side</span><span class="o">=</span><span class="n">TOP</span><span class="p">,</span> <span class="n">expand</span><span class="o">=</span><span class="s">&#39;YES&#39;</span><span class="p">,</span> <span class="n">fill</span><span class="o">=</span><span class="s">&#39;x&#39;</span><span class="p">,</span> <span class="n">pady</span><span class="o">=</span><span class="mi">10</span><span class="p">,</span> <span class="n">padx</span><span class="o">=</span><span class="mi">20</span><span class="p">)</span>
+      </span><span class="line"><span class="n">button</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">text</span><span class="o">=</span><span class="s">&quot;Soy Linda!&quot;</span><span class="p">,</span> <span class="n">fg</span><span class="o">=</span><span class="nb">str</span><span class="p">(</span><span class="n">colour</span><span class="o">.</span><span class="n">get_color_scheme_item</span><span class="p">(</span><span class="s">&#39;text_color&#39;</span><span class="p">)),</span> <span class="n">bd</span><span class="o">=</span><span class="mi">0</span><span class="p">,</span> <span class="n">relief</span><span class="o">=</span><span class="n">FLAT</span><span class="p">,</span> <span class="n">bg</span><span class="o">=</span><span class="nb">str</span><span class="p">(</span><span class="n">colour</span><span class="o">.</span><span class="n">get_color_scheme_item</span><span class="p">(</span><span class="s">&#39;base_color&#39;</span><span class="p">)),</span>  <span class="n">activebackground</span><span class="o">=</span><span class="nb">str</span><span class="p">(</span><span class="n">colour</span><span class="o">.</span><span class="n">get_color_scheme_item</span><span class="p">(</span><span class="s">&#39;selected_bg_color&#39;</span><span class="p">)),</span> <span class="n">activeforeground</span><span class="o">=</span><span class="nb">str</span><span class="p">(</span><span class="n">colour</span><span class="o">.</span><span class="n">get_color_scheme_item</span><span class="p">(</span><span class="s">&#39;text_color&#39;</span><span class="p">)))</span>
+      </span><span class="line"><span class="n">button</span><span class="o">.</span><span class="n">pack</span><span class="p">(</span><span class="n">side</span><span class="o">=</span><span class="n">BOTTOM</span><span class="p">,</span> <span class="n">pady</span><span class="o">=</span><span class="mi">10</span><span class="p">,</span> <span class="n">padx</span><span class="o">=</span><span class="mi">10</span><span class="p">)</span>
+      </span><span class="line"><span class="c"># la misma GUI pero como es por defecto</span>
+      </span><span class="line"><span class="n">toplevel</span> <span class="o">=</span> <span class="n">Toplevel</span><span class="p">()</span>
+      </span><span class="line"><span class="n">menubarz</span> <span class="o">=</span> <span class="n">Menu</span><span class="p">(</span><span class="n">toplevel</span><span class="p">)</span>
+      </span><span class="line"><span class="n">filemenuz</span> <span class="o">=</span> <span class="n">Menu</span><span class="p">(</span><span class="n">toplevel</span><span class="p">,</span> <span class="n">tearoff</span><span class="o">=</span><span class="mi">0</span><span class="p">)</span>
+      </span><span class="line"><span class="n">filemenuz</span><span class="o">.</span><span class="n">add_command</span><span class="p">(</span><span class="n">label</span><span class="o">=</span><span class="s">&quot;Nuevo&quot;</span><span class="p">,</span> <span class="n">state</span><span class="o">=</span><span class="s">&#39;disabled&#39;</span><span class="p">)</span>
+      </span><span class="line"><span class="n">filemenuz</span><span class="o">.</span><span class="n">add_separator</span><span class="p">()</span>
+      </span><span class="line"><span class="n">filemenuz</span><span class="o">.</span><span class="n">add_command</span><span class="p">(</span><span class="n">label</span><span class="o">=</span><span class="s">&quot;Cerrar ✗&quot;</span><span class="p">,</span> <span class="n">command</span><span class="o">=</span> <span class="k">lambda</span><span class="p">:</span> <span class="n">root</span><span class="o">.</span><span class="n">destroy</span><span class="p">())</span>
+      </span><span class="line"><span class="n">menubarz</span><span class="o">.</span><span class="n">add_cascade</span><span class="p">(</span><span class="n">label</span><span class="o">=</span><span class="s">&quot;Archivo&quot;</span><span class="p">,</span> <span class="n">menu</span><span class="o">=</span><span class="n">filemenuz</span><span class="p">)</span>
+      </span><span class="line"><span class="n">toplevel</span><span class="o">.</span><span class="n">config</span><span class="p">(</span><span class="n">menu</span><span class="o">=</span><span class="n">menubarz</span><span class="p">)</span>
+      </span><span class="line"><span class="n">labl2</span> <span class="o">=</span> <span class="n">Label</span><span class="p">(</span><span class="n">toplevel</span><span class="p">,</span> <span class="n">text</span><span class="o">=</span><span class="s">&quot;Soy una ventana SIN Tema GTK&quot;</span><span class="p">)</span>
+      </span><span class="line"><span class="n">labl2</span><span class="o">.</span><span class="n">pack</span><span class="p">(</span><span class="n">side</span><span class="o">=</span><span class="n">TOP</span><span class="p">,</span> <span class="n">expand</span><span class="o">=</span><span class="s">&#39;YES&#39;</span><span class="p">,</span> <span class="n">fill</span><span class="o">=</span><span class="s">&#39;x&#39;</span><span class="p">,</span> <span class="n">pady</span><span class="o">=</span><span class="mi">10</span><span class="p">,</span> <span class="n">padx</span><span class="o">=</span><span class="mi">20</span><span class="p">)</span>
+      </span><span class="line"><span class="n">button2</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">toplevel</span><span class="p">,</span> <span class="n">text</span><span class="o">=</span><span class="s">&quot;Soy Fea!&quot;</span><span class="p">)</span>
+      </span><span class="line"><span class="n">button2</span><span class="o">.</span><span class="n">pack</span><span class="p">(</span><span class="n">side</span><span class="o">=</span><span class="n">BOTTOM</span><span class="p">,</span> <span class="n">pady</span><span class="o">=</span><span class="mi">10</span><span class="p">,</span> <span class="n">padx</span><span class="o">=</span><span class="mi">10</span><span class="p">)</span>
+      </span><span class="line"><span class="c"># Le pongo fuente de Ubuntu (se puede omitir)</span>
+      </span><span class="line"><span class="n">menubar</span><span class="o">.</span><span class="n">config</span><span class="p">(</span><span class="n">font</span><span class="o">=</span><span class="p">(</span><span class="s">&quot;ubuntu&quot;</span><span class="p">,</span> <span class="mi">10</span><span class="p">,</span> <span class="s">&quot;normal&quot;</span><span class="p">,</span> <span class="s">&quot;roman&quot;</span><span class="p">)</span> <span class="p">)</span>
+      </span><span class="line"><span class="n">labl1</span><span class="o">.</span><span class="n">config</span><span class="p">(</span><span class="n">font</span><span class="o">=</span><span class="p">(</span><span class="s">&quot;ubuntu&quot;</span><span class="p">,</span> <span class="mi">10</span><span class="p">,</span> <span class="s">&quot;bold&quot;</span><span class="p">,</span> <span class="s">&quot;roman&quot;</span><span class="p">)</span> <span class="p">)</span>
+      </span><span class="line"><span class="n">filemenu</span><span class="o">.</span><span class="n">config</span><span class="p">(</span><span class="n">font</span><span class="o">=</span><span class="p">(</span><span class="s">&quot;ubuntu&quot;</span><span class="p">,</span> <span class="mi">10</span><span class="p">,</span> <span class="s">&quot;normal&quot;</span><span class="p">,</span> <span class="s">&quot;roman&quot;</span><span class="p">)</span> <span class="p">)</span>
+      </span><span class="line"><span class="n">button</span><span class="o">.</span><span class="n">config</span><span class="p">(</span><span class="n">font</span><span class="o">=</span><span class="p">(</span><span class="s">&quot;ubuntu&quot;</span><span class="p">,</span> <span class="mi">10</span><span class="p">,</span> <span class="s">&quot;bold&quot;</span><span class="p">,</span> <span class="s">&quot;roman&quot;</span><span class="p">)</span> <span class="p">)</span>
+      </span><span class="line"><span class="c">#</span>
+      </span><span class="line"><span class="n">root</span><span class="o">.</span><span class="n">mainloop</span><span class="p">()</span>
+      </span>
 
 Comentario personal: 
 
-''Es mas bonito que TTK  :)  Como sea, la idea es aprovechar que en Linux TODO es un archivo, la magia esta en parsear.''
+*Es mas bonito que TTK  |:)|  Como sea, la idea es aprovechar que en Linux TODO es un archivo, la magia esta en parsear.*
 
-== Comentarios ==
+Comentarios
+-----------
 
-=== Alejandro Autalan ===
+Alejandro Autalan
+~~~~~~~~~~~~~~~~~
 
-Me gusto esta idea de usar los temas de gtk en tkinter. Pero tener que especificar
-el estilo de cada widget es un poco tedioso :). Asi que a continuación va una
-variante de la receta.
+Me gusto esta idea de usar los temas de gtk en tkinter. Pero tener que especificar el estilo de cada widget es un poco tedioso :). Asi que a continuación va una variante de la receta.
 
 Ventajas:
-  * No es necesario especificar el estilo de cada widget al crearlos.
-  
+
+* No es necesario especificar el estilo de cada widget al crearlos.
+
 Desventajas:
-  * Requiere PyGtk.
-  * No funciona con ttk.
 
-Probado con python 2.6 y PyGtk 2.17
+* Requiere PyGtk_.
 
-{{{
-#!code python
+* No funciona con ttk.
 
-# -*- coding: utf-8 -*-
+Probado con python 2.6 y PyGtk_ 2.17
 
-#
-# colour.py
-#
+::
 
-__all__ = ['apply_gtk_theme']
+   .. raw:: html
+      <span class="line"><span class="c"># -*- coding: utf-8 -*-</span>
+      </span><span class="line">
+      </span><span class="line"><span class="c">#</span>
+      </span><span class="line"><span class="c"># colour.py</span>
+      </span><span class="line"><span class="c">#</span>
+      </span><span class="line">
+      </span><span class="line"><span class="n">__all__</span> <span class="o">=</span> <span class="p">[</span><span class="s">&#39;apply_gtk_theme&#39;</span><span class="p">]</span>
+      </span><span class="line">
+      </span><span class="line"><span class="kn">import</span> <span class="nn">tkFont</span> <span class="kn">as</span> <span class="nn">tkfont</span>
+      </span><span class="line">
+      </span><span class="line"><span class="n">HAS_GTK</span> <span class="o">=</span> <span class="bp">False</span>
+      </span><span class="line"><span class="k">try</span><span class="p">:</span>
+      </span><span class="line">    <span class="kn">import</span> <span class="nn">gtk</span>
+      </span><span class="line">    <span class="n">HAS_GTK</span> <span class="o">=</span> <span class="bp">True</span>
+      </span><span class="line"><span class="k">except</span><span class="p">:</span>
+      </span><span class="line">    <span class="k">pass</span>
+      </span><span class="line">
+      </span><span class="line"><span class="k">def</span> <span class="nf">_get_color_scheme</span><span class="p">():</span>
+      </span><span class="line">    <span class="n">gtkSet</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">settings_get_default</span><span class="p">()</span>
+      </span><span class="line">    <span class="k">return</span> <span class="n">gtkSet</span><span class="o">.</span><span class="n">get_property</span><span class="p">(</span><span class="s">&#39;gtk-color-scheme&#39;</span><span class="p">)</span>
+      </span><span class="line">
+      </span><span class="line"><span class="k">def</span> <span class="nf">get_color_scheme_item</span><span class="p">(</span><span class="n">colorName</span><span class="p">):</span>
+      </span><span class="line">    <span class="n">gtkSch</span> <span class="o">=</span> <span class="n">_get_color_scheme</span><span class="p">()</span>
+      </span><span class="line">    <span class="n">findLine</span> <span class="o">=</span> <span class="s">&#39;&#39;</span>
+      </span><span class="line">    <span class="k">for</span> <span class="n">l</span> <span class="ow">in</span> <span class="n">gtkSch</span><span class="o">.</span><span class="n">splitlines</span><span class="p">():</span>
+      </span><span class="line">        <span class="k">if</span> <span class="n">l</span><span class="o">.</span><span class="n">startswith</span><span class="p">(</span><span class="n">colorName</span><span class="p">):</span>
+      </span><span class="line">            <span class="n">findLine</span> <span class="o">=</span> <span class="n">l</span>
+      </span><span class="line">            <span class="k">break</span>
+      </span><span class="line">    <span class="n">c</span> <span class="o">=</span> <span class="n">findLine</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="n">colorName</span><span class="o">+</span><span class="s">&quot;:&quot;</span><span class="p">,</span> <span class="s">&quot;&quot;</span><span class="p">)</span><span class="o">.</span><span class="n">strip</span><span class="p">()</span>
+      </span><span class="line">    <span class="n">c</span> <span class="o">=</span> <span class="n">c</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="s">&quot;#&quot;</span><span class="p">,</span> <span class="s">&quot;&quot;</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">rgba</span> <span class="o">=</span> <span class="p">[]</span>
+      </span><span class="line">    <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">c</span><span class="p">)</span> <span class="o">==</span> <span class="mi">12</span><span class="p">:</span>
+      </span><span class="line">        <span class="n">rgba</span> <span class="o">=</span> <span class="p">[</span><span class="n">c</span><span class="p">[</span><span class="mi">0</span><span class="p">:</span><span class="mi">4</span><span class="p">],</span> <span class="n">c</span><span class="p">[</span><span class="mi">4</span><span class="p">:</span><span class="mi">8</span><span class="p">],</span> <span class="n">c</span><span class="p">[</span><span class="mi">8</span><span class="p">:</span><span class="mi">12</span><span class="p">],</span> <span class="s">&quot;&quot;</span><span class="p">]</span>
+      </span><span class="line">    <span class="n">colourFound</span> <span class="o">=</span> <span class="s">&#39;#&#39;</span>
+      </span><span class="line">    <span class="k">for</span> <span class="nb">set</span> <span class="ow">in</span> <span class="n">rgba</span><span class="p">:</span>
+      </span><span class="line">       <span class="n">colourFound</span> <span class="o">=</span> <span class="s">&quot;&quot;</span><span class="o">.</span><span class="n">join</span><span class="p">([</span><span class="n">colourFound</span><span class="p">,</span> <span class="nb">set</span><span class="p">[:</span><span class="mi">2</span><span class="p">]</span><span class="o">.</span><span class="n">upper</span><span class="p">()])</span> 
+      </span><span class="line">    <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">colourFound</span><span class="p">)</span> <span class="o">==</span> <span class="mi">0</span><span class="p">:</span>
+      </span><span class="line">        <span class="k">raise</span> <span class="n">error</span>
+      </span><span class="line">        <span class="k">return</span> <span class="bp">None</span>
+      </span><span class="line">    <span class="k">else</span><span class="p">:</span>
+      </span><span class="line">        <span class="k">return</span> <span class="n">colourFound</span>
+      </span><span class="line">
+      </span><span class="line">
+      </span><span class="line"><span class="n">tk_fonts</span> <span class="o">=</span> <span class="p">{}</span>
+      </span><span class="line"><span class="n">tk_font_families</span><span class="o">=</span> <span class="bp">None</span>
+      </span><span class="line">
+      </span><span class="line"><span class="k">def</span> <span class="nf">get_tk_font</span><span class="p">(</span><span class="n">font_desc</span><span class="p">):</span>
+      </span><span class="line">    <span class="sd">&quot;&quot;&quot;Crea una fuente tk&quot;&quot;&quot;</span>
+      </span><span class="line">   
+      </span><span class="line">    <span class="k">global</span> <span class="n">tk_font_families</span>
+      </span><span class="line">    <span class="k">global</span> <span class="n">tk_fonts</span>
+      </span><span class="line">   
+      </span><span class="line">    <span class="k">if</span> <span class="n">tk_font_families</span> <span class="ow">is</span> <span class="bp">None</span><span class="p">:</span>
+      </span><span class="line">        <span class="n">tk_font_families</span> <span class="o">=</span> <span class="n">tkfont</span><span class="o">.</span><span class="n">families</span><span class="p">()</span>
+      </span><span class="line">    <span class="n">font</span> <span class="o">=</span> <span class="bp">None</span>
+      </span><span class="line">    <span class="k">if</span> <span class="n">font_desc</span> <span class="ow">in</span> <span class="n">tk_fonts</span><span class="p">:</span>
+      </span><span class="line">        <span class="n">font</span> <span class="o">=</span> <span class="n">tk_fonts</span><span class="p">[</span><span class="n">font_desc</span><span class="p">]</span>
+      </span><span class="line">    <span class="k">else</span><span class="p">:</span>
+      </span><span class="line">        <span class="n">family</span> <span class="o">=</span> <span class="s">&#39;Helvetica&#39;</span>
+      </span><span class="line">        <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">tk_font_families</span><span class="p">:</span>
+      </span><span class="line">            <span class="k">if</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">font_desc</span><span class="p">:</span>
+      </span><span class="line">                <span class="n">family</span> <span class="o">=</span> <span class="n">x</span>
+      </span><span class="line">        <span class="n">s</span> <span class="o">=</span> <span class="n">font_desc</span><span class="o">.</span><span class="n">split</span><span class="p">()</span>
+      </span><span class="line">        <span class="n">size</span> <span class="o">=</span> <span class="n">s</span><span class="p">[</span><span class="o">-</span><span class="mi">1</span><span class="p">]</span>
+      </span><span class="line">        <span class="n">lower</span> <span class="o">=</span> <span class="n">font_desc</span><span class="o">.</span><span class="n">lower</span><span class="p">()</span>
+      </span><span class="line">        <span class="n">weight</span> <span class="o">=</span> <span class="s">&#39;normal&#39;</span>
+      </span><span class="line">        <span class="n">slant</span> <span class="o">=</span> <span class="s">&#39;roman&#39;</span>
+      </span><span class="line">        <span class="k">if</span> <span class="s">&#39;bold&#39;</span> <span class="ow">in</span> <span class="n">lower</span><span class="p">:</span>
+      </span><span class="line">            <span class="n">weight</span> <span class="o">=</span> <span class="s">&#39;bold&#39;</span>
+      </span><span class="line">        <span class="k">if</span> <span class="s">&#39;italic&#39;</span> <span class="ow">in</span> <span class="n">lower</span><span class="p">:</span>
+      </span><span class="line">            <span class="n">slant</span><span class="o">=</span><span class="s">&#39;italic&#39;</span>
+      </span><span class="line">        <span class="c">#print &#39;%s, %s, %s, %s&#39; % (family, weight, slant, size)</span>
+      </span><span class="line">        <span class="n">f</span> <span class="o">=</span> <span class="n">tkfont</span><span class="o">.</span><span class="n">Font</span><span class="p">(</span><span class="n">family</span><span class="o">=</span><span class="n">family</span><span class="p">,</span> <span class="n">size</span><span class="o">=</span><span class="n">size</span><span class="p">,</span> <span class="n">weight</span><span class="o">=</span><span class="n">weight</span><span class="p">,</span> <span class="n">slant</span><span class="o">=</span><span class="n">slant</span> <span class="p">)</span>
+      </span><span class="line">        <span class="n">tk_fonts</span><span class="p">[</span><span class="n">font_desc</span><span class="p">]</span><span class="o">=</span> <span class="n">font</span> <span class="o">=</span> <span class="n">f</span>
+      </span><span class="line">    <span class="k">return</span> <span class="n">font</span>
+      </span><span class="line">
+      </span><span class="line">
+      </span><span class="line"><span class="c">#gtk_states = [gtk.STATE_NORMAL, gtk.STATE_PRELIGHT, gtk.STATE_ACTIVE, gtk.STATE_SELECTED, gtk.STATE_INSENSITIVE]</span>
+      </span><span class="line">
+      </span><span class="line"><span class="k">def</span> <span class="nf">get_tk_styles</span><span class="p">():</span>
+      </span><span class="line">    <span class="sd">&quot;&quot;&quot;Toma los estilos de Gtk y los &quot;traduce&quot; a estilos tk.&quot;&quot;&quot;</span>
+      </span><span class="line">    <span class="n">tk_styles</span> <span class="o">=</span> <span class="p">{}</span>
+      </span><span class="line">   
+      </span><span class="line">    <span class="n">style</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">rc_get_style_by_paths</span><span class="p">(</span><span class="n">gtk</span><span class="o">.</span><span class="n">settings_get_default</span><span class="p">(),</span>
+      </span><span class="line">        <span class="s">&#39;*&lt;GtkLabel&gt;*&#39;</span><span class="p">,</span> <span class="s">&#39;&lt;GtkLabel&gt;&#39;</span><span class="p">,</span> <span class="n">gtk</span><span class="o">.</span><span class="n">Label</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">c</span> <span class="o">=</span> <span class="p">{</span>
+      </span><span class="line">        <span class="s">&#39;foreground&#39;</span><span class="p">:</span> <span class="nb">str</span><span class="p">(</span><span class="n">style</span><span class="o">.</span><span class="n">text</span><span class="p">[</span><span class="n">gtk</span><span class="o">.</span><span class="n">STATE_NORMAL</span><span class="p">]),</span>
+      </span><span class="line">        <span class="s">&#39;background&#39;</span><span class="p">:</span> <span class="nb">str</span><span class="p">(</span><span class="n">style</span><span class="o">.</span><span class="n">bg</span><span class="p">[</span><span class="n">gtk</span><span class="o">.</span><span class="n">STATE_NORMAL</span><span class="p">]),</span>
+      </span><span class="line">        <span class="s">&#39;activeForeground&#39;</span><span class="p">:</span> <span class="nb">str</span><span class="p">(</span><span class="n">style</span><span class="o">.</span><span class="n">text</span><span class="p">[</span><span class="n">gtk</span><span class="o">.</span><span class="n">STATE_SELECTED</span><span class="p">]),</span>
+      </span><span class="line">        <span class="s">&#39;activeBackground&#39;</span><span class="p">:</span> <span class="nb">str</span><span class="p">(</span><span class="n">style</span><span class="o">.</span><span class="n">bg</span><span class="p">[</span><span class="n">gtk</span><span class="o">.</span><span class="n">STATE_SELECTED</span><span class="p">]),</span>
+      </span><span class="line">        <span class="s">&#39;font&#39;</span><span class="p">:</span> <span class="n">get_tk_font</span><span class="p">(</span><span class="nb">str</span><span class="p">(</span><span class="n">style</span><span class="o">.</span><span class="n">font_desc</span><span class="p">)),</span>
+      </span><span class="line">    <span class="p">}</span>
+      </span><span class="line">    <span class="n">tk_styles</span><span class="p">[</span><span class="s">&#39;Label&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">label</span> <span class="o">=</span> <span class="n">c</span>
+      </span><span class="line">    <span class="n">tk_styles</span><span class="p">[</span><span class="s">&#39;Message&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">c</span>
+      </span><span class="line">   
+      </span><span class="line">    <span class="n">style</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">rc_get_style_by_paths</span><span class="p">(</span><span class="n">gtk</span><span class="o">.</span><span class="n">settings_get_default</span><span class="p">(),</span>
+      </span><span class="line">        <span class="s">&#39;*&lt;GtkEntry&gt;*&#39;</span><span class="p">,</span> <span class="s">&#39;GtkEntry&#39;</span><span class="p">,</span> <span class="n">gtk</span><span class="o">.</span><span class="n">Entry</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">c</span> <span class="o">=</span> <span class="p">{</span>
+      </span><span class="line">        <span class="s">&#39;foreground&#39;</span><span class="p">:</span> <span class="nb">str</span><span class="p">(</span><span class="n">style</span><span class="o">.</span><span class="n">text</span><span class="p">[</span><span class="n">gtk</span><span class="o">.</span><span class="n">STATE_NORMAL</span><span class="p">]),</span>
+      </span><span class="line">        <span class="s">&#39;background&#39;</span><span class="p">:</span> <span class="n">get_color_scheme_item</span><span class="p">(</span><span class="s">&#39;base_color&#39;</span><span class="p">),</span>
+      </span><span class="line">        <span class="s">&#39;selectForeground&#39;</span><span class="p">:</span> <span class="nb">str</span><span class="p">(</span><span class="n">style</span><span class="o">.</span><span class="n">text</span><span class="p">[</span><span class="n">gtk</span><span class="o">.</span><span class="n">STATE_SELECTED</span><span class="p">]),</span>
+      </span><span class="line">        <span class="s">&#39;selectBackground&#39;</span><span class="p">:</span> <span class="nb">str</span><span class="p">(</span><span class="n">style</span><span class="o">.</span><span class="n">bg</span><span class="p">[</span><span class="n">gtk</span><span class="o">.</span><span class="n">STATE_SELECTED</span><span class="p">]),</span>
+      </span><span class="line">        <span class="s">&#39;activeForeground&#39;</span><span class="p">:</span> <span class="nb">str</span><span class="p">(</span><span class="n">style</span><span class="o">.</span><span class="n">bg</span><span class="p">[</span><span class="n">gtk</span><span class="o">.</span><span class="n">STATE_NORMAL</span><span class="p">]),</span>
+      </span><span class="line">        <span class="s">&#39;activeBackground&#39;</span><span class="p">:</span> <span class="nb">str</span><span class="p">(</span><span class="n">style</span><span class="o">.</span><span class="n">bg</span><span class="p">[</span><span class="n">gtk</span><span class="o">.</span><span class="n">STATE_SELECTED</span><span class="p">]),</span>
+      </span><span class="line">        <span class="s">&#39;font&#39;</span><span class="p">:</span> <span class="n">get_tk_font</span><span class="p">(</span><span class="nb">str</span><span class="p">(</span><span class="n">style</span><span class="o">.</span><span class="n">font_desc</span><span class="p">)),</span>
+      </span><span class="line">    <span class="p">}</span>
+      </span><span class="line">    <span class="n">tk_styles</span><span class="p">[</span><span class="s">&#39;Entry&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">c</span>
+      </span><span class="line">    <span class="n">tk_styles</span><span class="p">[</span><span class="s">&#39;Text&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">c</span>
+      </span><span class="line">    <span class="n">tk_styles</span><span class="p">[</span><span class="s">&#39;Spinbox&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">c</span>
+      </span><span class="line">   
+      </span><span class="line">    <span class="n">style</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">rc_get_style_by_paths</span><span class="p">(</span><span class="n">gtk</span><span class="o">.</span><span class="n">settings_get_default</span><span class="p">(),</span>
+      </span><span class="line">        <span class="s">&#39;*&lt;GtkMenuBar&gt;*&#39;</span><span class="p">,</span> <span class="s">&#39;GtkMenuBar&#39;</span><span class="p">,</span> <span class="n">gtk</span><span class="o">.</span><span class="n">MenuBar</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">c</span> <span class="o">=</span> <span class="p">{</span>
+      </span><span class="line">        <span class="s">&#39;foreground&#39;</span><span class="p">:</span> <span class="nb">str</span><span class="p">(</span><span class="n">style</span><span class="o">.</span><span class="n">text</span><span class="p">[</span><span class="n">gtk</span><span class="o">.</span><span class="n">STATE_NORMAL</span><span class="p">]),</span>
+      </span><span class="line">        <span class="s">&#39;background&#39;</span><span class="p">:</span> <span class="nb">str</span><span class="p">(</span><span class="n">style</span><span class="o">.</span><span class="n">bg</span><span class="p">[</span><span class="n">gtk</span><span class="o">.</span><span class="n">STATE_NORMAL</span><span class="p">]),</span>
+      </span><span class="line">        <span class="s">&#39;activeForeground&#39;</span><span class="p">:</span> <span class="nb">str</span><span class="p">(</span><span class="n">style</span><span class="o">.</span><span class="n">text</span><span class="p">[</span><span class="n">gtk</span><span class="o">.</span><span class="n">STATE_SELECTED</span><span class="p">]),</span>
+      </span><span class="line">        <span class="s">&#39;activeBackground&#39;</span><span class="p">:</span> <span class="nb">str</span><span class="p">(</span><span class="n">style</span><span class="o">.</span><span class="n">bg</span><span class="p">[</span><span class="n">gtk</span><span class="o">.</span><span class="n">STATE_SELECTED</span><span class="p">]),</span>
+      </span><span class="line">        <span class="s">&#39;font&#39;</span><span class="p">:</span> <span class="n">get_tk_font</span><span class="p">(</span><span class="nb">str</span><span class="p">(</span><span class="n">style</span><span class="o">.</span><span class="n">font_desc</span><span class="p">)),</span>
+      </span><span class="line">    <span class="p">}</span>
+      </span><span class="line">    <span class="n">tk_styles</span><span class="p">[</span><span class="s">&#39;Menu&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">c</span>
+      </span><span class="line">
+      </span><span class="line">    <span class="n">style</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">rc_get_style_by_paths</span><span class="p">(</span><span class="n">gtk</span><span class="o">.</span><span class="n">settings_get_default</span><span class="p">(),</span>
+      </span><span class="line">        <span class="s">&#39;*&lt;GtkButton&gt;*&#39;</span><span class="p">,</span> <span class="s">&#39;GtkButton&#39;</span><span class="p">,</span> <span class="n">gtk</span><span class="o">.</span><span class="n">Button</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">c</span> <span class="o">=</span> <span class="p">{</span>
+      </span><span class="line">        <span class="s">&#39;foreground&#39;</span><span class="p">:</span> <span class="nb">str</span><span class="p">(</span><span class="n">style</span><span class="o">.</span><span class="n">text</span><span class="p">[</span><span class="n">gtk</span><span class="o">.</span><span class="n">STATE_NORMAL</span><span class="p">]),</span>
+      </span><span class="line">        <span class="s">&#39;background&#39;</span><span class="p">:</span> <span class="nb">str</span><span class="p">(</span><span class="n">style</span><span class="o">.</span><span class="n">bg</span><span class="p">[</span><span class="n">gtk</span><span class="o">.</span><span class="n">STATE_NORMAL</span><span class="p">]),</span>
+      </span><span class="line">        <span class="s">&#39;activeForeground&#39;</span><span class="p">:</span> <span class="nb">str</span><span class="p">(</span><span class="n">style</span><span class="o">.</span><span class="n">text</span><span class="p">[</span><span class="n">gtk</span><span class="o">.</span><span class="n">STATE_SELECTED</span><span class="p">]),</span>
+      </span><span class="line">        <span class="s">&#39;activeBackground&#39;</span><span class="p">:</span> <span class="nb">str</span><span class="p">(</span><span class="n">style</span><span class="o">.</span><span class="n">bg</span><span class="p">[</span><span class="n">gtk</span><span class="o">.</span><span class="n">STATE_SELECTED</span><span class="p">]),</span>
+      </span><span class="line">        <span class="s">&#39;font&#39;</span><span class="p">:</span> <span class="n">get_tk_font</span><span class="p">(</span><span class="nb">str</span><span class="p">(</span><span class="n">style</span><span class="o">.</span><span class="n">font_desc</span><span class="p">)),</span>
+      </span><span class="line">    <span class="p">}</span>
+      </span><span class="line">    <span class="n">tk_styles</span><span class="p">[</span><span class="s">&#39;Button&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">c</span>
+      </span><span class="line">    <span class="n">tk_styles</span><span class="p">[</span><span class="s">&#39;OptionMenu&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">c</span>
+      </span><span class="line">   
+      </span><span class="line">    <span class="n">style</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">rc_get_style_by_paths</span><span class="p">(</span><span class="n">gtk</span><span class="o">.</span><span class="n">settings_get_default</span><span class="p">(),</span>
+      </span><span class="line">        <span class="s">&#39;*&lt;GtkCheck&gt;*&#39;</span><span class="p">,</span> <span class="s">&#39;GtkCheck&#39;</span><span class="p">,</span> <span class="n">gtk</span><span class="o">.</span><span class="n">CheckButton</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">c</span> <span class="o">=</span> <span class="p">{</span>
+      </span><span class="line">        <span class="s">&#39;foreground&#39;</span><span class="p">:</span> <span class="n">label</span><span class="p">[</span><span class="s">&#39;foreground&#39;</span><span class="p">],</span>
+      </span><span class="line">        <span class="s">&#39;background&#39;</span><span class="p">:</span> <span class="n">label</span><span class="p">[</span><span class="s">&#39;background&#39;</span><span class="p">],</span>
+      </span><span class="line">        <span class="s">&#39;activeForeground&#39;</span><span class="p">:</span> <span class="nb">str</span><span class="p">(</span><span class="n">style</span><span class="o">.</span><span class="n">text</span><span class="p">[</span><span class="n">gtk</span><span class="o">.</span><span class="n">STATE_SELECTED</span><span class="p">]),</span>
+      </span><span class="line">        <span class="s">&#39;activeBackground&#39;</span><span class="p">:</span> <span class="nb">str</span><span class="p">(</span><span class="n">style</span><span class="o">.</span><span class="n">bg</span><span class="p">[</span><span class="n">gtk</span><span class="o">.</span><span class="n">STATE_SELECTED</span><span class="p">]),</span>
+      </span><span class="line">        <span class="s">&#39;selectColor&#39;</span><span class="p">:</span> <span class="nb">str</span><span class="p">(</span><span class="n">style</span><span class="o">.</span><span class="n">bg</span><span class="p">[</span><span class="n">gtk</span><span class="o">.</span><span class="n">STATE_SELECTED</span><span class="p">]),</span>
+      </span><span class="line">        <span class="s">&#39;font&#39;</span><span class="p">:</span> <span class="n">get_tk_font</span><span class="p">(</span><span class="nb">str</span><span class="p">(</span><span class="n">style</span><span class="o">.</span><span class="n">font_desc</span><span class="p">)),</span>
+      </span><span class="line">    <span class="p">}</span>
+      </span><span class="line">    <span class="n">tk_styles</span><span class="p">[</span><span class="s">&#39;Checkbutton&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">c</span>
+      </span><span class="line">   
+      </span><span class="line">    <span class="n">style</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">rc_get_style_by_paths</span><span class="p">(</span><span class="n">gtk</span><span class="o">.</span><span class="n">settings_get_default</span><span class="p">(),</span>
+      </span><span class="line">        <span class="s">&#39;*&lt;GtkRadio&gt;*&#39;</span><span class="p">,</span> <span class="s">&#39;GtkRadio&#39;</span><span class="p">,</span> <span class="n">gtk</span><span class="o">.</span><span class="n">RadioButton</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">c</span> <span class="o">=</span> <span class="p">{</span>
+      </span><span class="line">        <span class="s">&#39;foreground&#39;</span><span class="p">:</span> <span class="n">label</span><span class="p">[</span><span class="s">&#39;foreground&#39;</span><span class="p">],</span>
+      </span><span class="line">        <span class="s">&#39;background&#39;</span><span class="p">:</span> <span class="n">label</span><span class="p">[</span><span class="s">&#39;background&#39;</span><span class="p">],</span>
+      </span><span class="line">        <span class="s">&#39;activeForeground&#39;</span><span class="p">:</span> <span class="nb">str</span><span class="p">(</span><span class="n">style</span><span class="o">.</span><span class="n">text</span><span class="p">[</span><span class="n">gtk</span><span class="o">.</span><span class="n">STATE_SELECTED</span><span class="p">]),</span>
+      </span><span class="line">        <span class="s">&#39;activeBackground&#39;</span><span class="p">:</span> <span class="nb">str</span><span class="p">(</span><span class="n">style</span><span class="o">.</span><span class="n">bg</span><span class="p">[</span><span class="n">gtk</span><span class="o">.</span><span class="n">STATE_SELECTED</span><span class="p">]),</span>
+      </span><span class="line">        <span class="s">&#39;selectColor&#39;</span><span class="p">:</span> <span class="nb">str</span><span class="p">(</span><span class="n">style</span><span class="o">.</span><span class="n">bg</span><span class="p">[</span><span class="n">gtk</span><span class="o">.</span><span class="n">STATE_SELECTED</span><span class="p">]),</span>
+      </span><span class="line">        <span class="s">&#39;font&#39;</span><span class="p">:</span> <span class="n">get_tk_font</span><span class="p">(</span><span class="nb">str</span><span class="p">(</span><span class="n">style</span><span class="o">.</span><span class="n">font_desc</span><span class="p">)),</span>
+      </span><span class="line">    <span class="p">}</span>
+      </span><span class="line">    <span class="n">tk_styles</span><span class="p">[</span><span class="s">&#39;Radiobutton&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">c</span>
+      </span><span class="line">   
+      </span><span class="line">    <span class="n">style</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">rc_get_style_by_paths</span><span class="p">(</span><span class="n">gtk</span><span class="o">.</span><span class="n">settings_get_default</span><span class="p">(),</span>
+      </span><span class="line">        <span class="s">&#39;*&lt;GtkList&gt;*&#39;</span><span class="p">,</span> <span class="s">&#39;GtkList&#39;</span><span class="p">,</span> <span class="n">gtk</span><span class="o">.</span><span class="n">List</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">c</span> <span class="o">=</span> <span class="p">{</span>
+      </span><span class="line">        <span class="s">&#39;foreground&#39;</span><span class="p">:</span> <span class="nb">str</span><span class="p">(</span><span class="n">style</span><span class="o">.</span><span class="n">text</span><span class="p">[</span><span class="n">gtk</span><span class="o">.</span><span class="n">STATE_NORMAL</span><span class="p">]),</span>
+      </span><span class="line">        <span class="s">&#39;background&#39;</span><span class="p">:</span> <span class="nb">str</span><span class="p">(</span><span class="n">style</span><span class="o">.</span><span class="n">bg</span><span class="p">[</span><span class="n">gtk</span><span class="o">.</span><span class="n">STATE_NORMAL</span><span class="p">]),</span>
+      </span><span class="line">        <span class="s">&#39;activeForeground&#39;</span><span class="p">:</span> <span class="nb">str</span><span class="p">(</span><span class="n">style</span><span class="o">.</span><span class="n">text</span><span class="p">[</span><span class="n">gtk</span><span class="o">.</span><span class="n">STATE_SELECTED</span><span class="p">]),</span>
+      </span><span class="line">        <span class="s">&#39;activeBackground&#39;</span><span class="p">:</span> <span class="nb">str</span><span class="p">(</span><span class="n">style</span><span class="o">.</span><span class="n">bg</span><span class="p">[</span><span class="n">gtk</span><span class="o">.</span><span class="n">STATE_SELECTED</span><span class="p">]),</span>
+      </span><span class="line">        <span class="s">&#39;selectForeground&#39;</span><span class="p">:</span> <span class="nb">str</span><span class="p">(</span><span class="n">style</span><span class="o">.</span><span class="n">text</span><span class="p">[</span><span class="n">gtk</span><span class="o">.</span><span class="n">STATE_SELECTED</span><span class="p">]),</span>
+      </span><span class="line">        <span class="s">&#39;selectBackground&#39;</span><span class="p">:</span> <span class="nb">str</span><span class="p">(</span><span class="n">style</span><span class="o">.</span><span class="n">bg</span><span class="p">[</span><span class="n">gtk</span><span class="o">.</span><span class="n">STATE_SELECTED</span><span class="p">]),</span>
+      </span><span class="line">        <span class="s">&#39;font&#39;</span><span class="p">:</span> <span class="n">get_tk_font</span><span class="p">(</span><span class="nb">str</span><span class="p">(</span><span class="n">style</span><span class="o">.</span><span class="n">font_desc</span><span class="p">)),</span>
+      </span><span class="line">    <span class="p">}</span>
+      </span><span class="line">    <span class="n">tk_styles</span><span class="p">[</span><span class="s">&#39;Listbox&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">c</span>
+      </span><span class="line">   
+      </span><span class="line">    <span class="n">style</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">rc_get_style_by_paths</span><span class="p">(</span><span class="n">gtk</span><span class="o">.</span><span class="n">settings_get_default</span><span class="p">(),</span>
+      </span><span class="line">        <span class="s">&#39;*&lt;GtkScrollbar&gt;*&#39;</span><span class="p">,</span> <span class="s">&#39;GtkScrollbar&#39;</span><span class="p">,</span> <span class="n">gtk</span><span class="o">.</span><span class="n">Scrollbar</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">c</span> <span class="o">=</span> <span class="p">{</span>
+      </span><span class="line">        <span class="s">&#39;foreground&#39;</span><span class="p">:</span> <span class="nb">str</span><span class="p">(</span><span class="n">style</span><span class="o">.</span><span class="n">text</span><span class="p">[</span><span class="n">gtk</span><span class="o">.</span><span class="n">STATE_NORMAL</span><span class="p">]),</span>
+      </span><span class="line">        <span class="s">&#39;background&#39;</span><span class="p">:</span> <span class="nb">str</span><span class="p">(</span><span class="n">style</span><span class="o">.</span><span class="n">bg</span><span class="p">[</span><span class="n">gtk</span><span class="o">.</span><span class="n">STATE_NORMAL</span><span class="p">]),</span>
+      </span><span class="line">        <span class="s">&#39;activeForeground&#39;</span><span class="p">:</span> <span class="nb">str</span><span class="p">(</span><span class="n">style</span><span class="o">.</span><span class="n">text</span><span class="p">[</span><span class="n">gtk</span><span class="o">.</span><span class="n">STATE_SELECTED</span><span class="p">]),</span>
+      </span><span class="line">        <span class="s">&#39;activeBackground&#39;</span><span class="p">:</span> <span class="nb">str</span><span class="p">(</span><span class="n">style</span><span class="o">.</span><span class="n">bg</span><span class="p">[</span><span class="n">gtk</span><span class="o">.</span><span class="n">STATE_SELECTED</span><span class="p">]),</span>
+      </span><span class="line">        <span class="s">&#39;troughColor&#39;</span><span class="p">:</span> <span class="nb">str</span><span class="p">(</span><span class="n">style</span><span class="o">.</span><span class="n">bg</span><span class="p">[</span><span class="n">gtk</span><span class="o">.</span><span class="n">STATE_ACTIVE</span><span class="p">]),</span>
+      </span><span class="line">        <span class="s">&#39;font&#39;</span><span class="p">:</span> <span class="n">get_tk_font</span><span class="p">(</span><span class="nb">str</span><span class="p">(</span><span class="n">style</span><span class="o">.</span><span class="n">font_desc</span><span class="p">)),</span>
+      </span><span class="line">    <span class="p">}</span>
+      </span><span class="line">    <span class="n">tk_styles</span><span class="p">[</span><span class="s">&#39;Scrollbar&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">c</span>
+      </span><span class="line">    <span class="n">tk_styles</span><span class="p">[</span><span class="s">&#39;Scale&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">c</span>
+      </span><span class="line">   
+      </span><span class="line">    <span class="k">return</span> <span class="n">tk_styles</span>
+      </span><span class="line">   
+      </span><span class="line">
+      </span><span class="line"><span class="k">def</span> <span class="nf">apply_gtk_theme_real</span><span class="p">(</span><span class="n">w</span><span class="p">):</span>
+      </span><span class="line">    <span class="n">tk_style</span> <span class="o">=</span> <span class="n">get_tk_styles</span><span class="p">()</span>
+      </span><span class="line">    <span class="n">bg_color</span> <span class="o">=</span> <span class="n">get_color_scheme_item</span><span class="p">(</span><span class="s">&#39;bg_color&#39;</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">selected_bg_color</span> <span class="o">=</span> <span class="n">get_color_scheme_item</span><span class="p">(</span><span class="s">&#39;selected_bg_color&#39;</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">patterns</span> <span class="o">=</span> <span class="p">(</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Frame*background&#39;</span><span class="p">,</span> <span class="n">bg_color</span><span class="p">),</span>
+      </span><span class="line">       
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Menu*foreground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Menu&#39;</span><span class="p">][</span><span class="s">&#39;foreground&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Menu*background&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Menu&#39;</span><span class="p">][</span><span class="s">&#39;background&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Menu*activeBackground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Menu&#39;</span><span class="p">][</span><span class="s">&#39;activeBackground&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Menu*activeForeground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Menu&#39;</span><span class="p">][</span><span class="s">&#39;activeForeground&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Menu*font&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Menu&#39;</span><span class="p">][</span><span class="s">&#39;font&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Menu*highlightBackground&#39;</span><span class="p">,</span> <span class="n">bg_color</span><span class="p">),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Menu*highlightColor&#39;</span><span class="p">,</span> <span class="n">selected_bg_color</span><span class="p">),</span>
+      </span><span class="line">       
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Button*foreground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Button&#39;</span><span class="p">][</span><span class="s">&#39;foreground&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Button*background&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Button&#39;</span><span class="p">][</span><span class="s">&#39;background&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Button*activeBackground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Button&#39;</span><span class="p">][</span><span class="s">&#39;activeBackground&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Button*activeForeground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Button&#39;</span><span class="p">][</span><span class="s">&#39;activeForeground&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Button*font&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Button&#39;</span><span class="p">][</span><span class="s">&#39;font&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Button*highlightBackground&#39;</span><span class="p">,</span> <span class="n">bg_color</span><span class="p">),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Button*highlightColor&#39;</span><span class="p">,</span> <span class="n">selected_bg_color</span><span class="p">),</span>
+      </span><span class="line">       
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Label*foreground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Label&#39;</span><span class="p">][</span><span class="s">&#39;foreground&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Label*background&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Label&#39;</span><span class="p">][</span><span class="s">&#39;background&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Label*activeBackground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Label&#39;</span><span class="p">][</span><span class="s">&#39;activeBackground&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Label*activeForeground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Label&#39;</span><span class="p">][</span><span class="s">&#39;activeForeground&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Label*font&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Label&#39;</span><span class="p">][</span><span class="s">&#39;font&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Label*highlightBackground&#39;</span><span class="p">,</span> <span class="n">bg_color</span><span class="p">),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Label*highlightColor&#39;</span><span class="p">,</span> <span class="n">selected_bg_color</span><span class="p">),</span>
+      </span><span class="line">       
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Message*foreground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Message&#39;</span><span class="p">][</span><span class="s">&#39;foreground&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Message*background&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Message&#39;</span><span class="p">][</span><span class="s">&#39;background&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Message*activeBackground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Message&#39;</span><span class="p">][</span><span class="s">&#39;activeBackground&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Message*activeForeground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Message&#39;</span><span class="p">][</span><span class="s">&#39;activeForeground&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Message*font&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Message&#39;</span><span class="p">][</span><span class="s">&#39;font&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Message*highlightBackground&#39;</span><span class="p">,</span> <span class="n">bg_color</span><span class="p">),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Message*highlightColor&#39;</span><span class="p">,</span> <span class="n">selected_bg_color</span><span class="p">),</span>
+      </span><span class="line">       
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Checkbutton*foreground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Checkbutton&#39;</span><span class="p">][</span><span class="s">&#39;foreground&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Checkbutton*background&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Checkbutton&#39;</span><span class="p">][</span><span class="s">&#39;background&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Checkbutton*activeBackground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Checkbutton&#39;</span><span class="p">][</span><span class="s">&#39;activeBackground&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Checkbutton*activeForeground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Checkbutton&#39;</span><span class="p">][</span><span class="s">&#39;activeForeground&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Checkbutton*selectColor&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Checkbutton&#39;</span><span class="p">][</span><span class="s">&#39;selectColor&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Checkbutton*font&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Checkbutton&#39;</span><span class="p">][</span><span class="s">&#39;font&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Checkbutton*highlightBackground&#39;</span><span class="p">,</span> <span class="n">bg_color</span><span class="p">),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Checkbutton*highlightColor&#39;</span><span class="p">,</span> <span class="n">selected_bg_color</span><span class="p">),</span>
+      </span><span class="line">       
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Radiobutton*foreground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Radiobutton&#39;</span><span class="p">][</span><span class="s">&#39;foreground&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Radiobutton*background&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Radiobutton&#39;</span><span class="p">][</span><span class="s">&#39;background&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Radiobutton*activeBackground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Radiobutton&#39;</span><span class="p">][</span><span class="s">&#39;activeBackground&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Radiobutton*activeForeground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Radiobutton&#39;</span><span class="p">][</span><span class="s">&#39;activeForeground&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Radiobutton*selectColor&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Radiobutton&#39;</span><span class="p">][</span><span class="s">&#39;selectColor&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Radiobutton*font&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Radiobutton&#39;</span><span class="p">][</span><span class="s">&#39;font&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Radiobutton*highlightBackground&#39;</span><span class="p">,</span> <span class="n">bg_color</span><span class="p">),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Radiobutton*highlightColor&#39;</span><span class="p">,</span> <span class="n">selected_bg_color</span><span class="p">),</span>
+      </span><span class="line">       
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Entry*foreground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Entry&#39;</span><span class="p">][</span><span class="s">&#39;foreground&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Entry*background&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Entry&#39;</span><span class="p">][</span><span class="s">&#39;background&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Entry*selectForeground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Entry&#39;</span><span class="p">][</span><span class="s">&#39;selectForeground&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Entry*selectBackground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Entry&#39;</span><span class="p">][</span><span class="s">&#39;selectBackground&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Entry*font&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Entry&#39;</span><span class="p">][</span><span class="s">&#39;font&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Entry*highlightBackground&#39;</span><span class="p">,</span> <span class="n">bg_color</span><span class="p">),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Entry*highlightColor&#39;</span><span class="p">,</span> <span class="n">selected_bg_color</span><span class="p">),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Entry*insertBackground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Entry&#39;</span><span class="p">][</span><span class="s">&#39;foreground&#39;</span><span class="p">]),</span>
+      </span><span class="line">       
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Text*foreground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Text&#39;</span><span class="p">][</span><span class="s">&#39;foreground&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Text*background&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Text&#39;</span><span class="p">][</span><span class="s">&#39;background&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Text*selectForeground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Text&#39;</span><span class="p">][</span><span class="s">&#39;selectForeground&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Text*selectBackground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Text&#39;</span><span class="p">][</span><span class="s">&#39;selectBackground&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Text*font&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Text&#39;</span><span class="p">][</span><span class="s">&#39;font&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Text*highlightBackground&#39;</span><span class="p">,</span> <span class="n">bg_color</span><span class="p">),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Text*highlightColor&#39;</span><span class="p">,</span> <span class="n">selected_bg_color</span><span class="p">),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Text*insertBackground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Text&#39;</span><span class="p">][</span><span class="s">&#39;foreground&#39;</span><span class="p">]),</span>
+      </span><span class="line">       
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Spinbox*foreground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Spinbox&#39;</span><span class="p">][</span><span class="s">&#39;foreground&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Spinbox*background&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Spinbox&#39;</span><span class="p">][</span><span class="s">&#39;background&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Spinbox*selectForeground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Spinbox&#39;</span><span class="p">][</span><span class="s">&#39;selectForeground&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Spinbox*selectBackground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Spinbox&#39;</span><span class="p">][</span><span class="s">&#39;selectBackground&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Spinbox*font&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Spinbox&#39;</span><span class="p">][</span><span class="s">&#39;font&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Spinbox*highlightBackground&#39;</span><span class="p">,</span> <span class="n">bg_color</span><span class="p">),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Spinbox*highlightColor&#39;</span><span class="p">,</span> <span class="n">selected_bg_color</span><span class="p">),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Spinbox*insertBackground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Spinbox&#39;</span><span class="p">][</span><span class="s">&#39;foreground&#39;</span><span class="p">]),</span>
+      </span><span class="line">       
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Menubutton.foreground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;OptionMenu&#39;</span><span class="p">][</span><span class="s">&#39;foreground&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Menubutton.background&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;OptionMenu&#39;</span><span class="p">][</span><span class="s">&#39;background&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Menubutton.activeBackground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;OptionMenu&#39;</span><span class="p">][</span><span class="s">&#39;activeBackground&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Menubutton.activeForeground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;OptionMenu&#39;</span><span class="p">][</span><span class="s">&#39;activeForeground&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Menubutton.font&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;OptionMenu&#39;</span><span class="p">][</span><span class="s">&#39;font&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Menubutton*highlightBackground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;OptionMenu&#39;</span><span class="p">][</span><span class="s">&#39;background&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Menubutton*highlightColor&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;OptionMenu&#39;</span><span class="p">][</span><span class="s">&#39;activeForeground&#39;</span><span class="p">]),</span>
+      </span><span class="line">       
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Listbox*foreground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Listbox&#39;</span><span class="p">][</span><span class="s">&#39;foreground&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Listbox*background&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Listbox&#39;</span><span class="p">][</span><span class="s">&#39;background&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Listbox*activeBackground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Listbox&#39;</span><span class="p">][</span><span class="s">&#39;activeBackground&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Listbox*activeForeground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Listbox&#39;</span><span class="p">][</span><span class="s">&#39;activeForeground&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Listbox*selectBackground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Listbox&#39;</span><span class="p">][</span><span class="s">&#39;selectBackground&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Listbox*selectForeground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Listbox&#39;</span><span class="p">][</span><span class="s">&#39;selectForeground&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Listbox*font&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Listbox&#39;</span><span class="p">][</span><span class="s">&#39;font&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Listbox*highlightBackground&#39;</span><span class="p">,</span> <span class="n">bg_color</span><span class="p">),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Listbox*highlightColor&#39;</span><span class="p">,</span> <span class="n">selected_bg_color</span><span class="p">),</span>
+      </span><span class="line">       
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Scrollbar*foreground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Scrollbar&#39;</span><span class="p">][</span><span class="s">&#39;foreground&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Scrollbar*background&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Scrollbar&#39;</span><span class="p">][</span><span class="s">&#39;background&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Scrollbar*activeBackground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Scrollbar&#39;</span><span class="p">][</span><span class="s">&#39;activeBackground&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Scrollbar*activeForeground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Scrollbar&#39;</span><span class="p">][</span><span class="s">&#39;activeForeground&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Scrollbar*troughColor&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Scrollbar&#39;</span><span class="p">][</span><span class="s">&#39;troughColor&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Scrollbar*highlightBackground&#39;</span><span class="p">,</span> <span class="n">bg_color</span><span class="p">),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Scrollbar*highlightColor&#39;</span><span class="p">,</span> <span class="n">selected_bg_color</span><span class="p">),</span>
+      </span><span class="line">       
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Scale*foreground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Scale&#39;</span><span class="p">][</span><span class="s">&#39;foreground&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Scale*background&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Scale&#39;</span><span class="p">][</span><span class="s">&#39;background&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Scale*activeBackground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Scale&#39;</span><span class="p">][</span><span class="s">&#39;activeBackground&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Scale*activeForeground&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Scale&#39;</span><span class="p">][</span><span class="s">&#39;activeForeground&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Scale*troughColor&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Scale&#39;</span><span class="p">][</span><span class="s">&#39;troughColor&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Scale*font&#39;</span><span class="p">,</span> <span class="n">tk_style</span><span class="p">[</span><span class="s">&#39;Scale&#39;</span><span class="p">][</span><span class="s">&#39;font&#39;</span><span class="p">]),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Scale*highlightBackground&#39;</span><span class="p">,</span> <span class="n">bg_color</span><span class="p">),</span>
+      </span><span class="line">        <span class="p">(</span><span class="s">&#39;*Scale*highlightColor&#39;</span><span class="p">,</span> <span class="n">selected_bg_color</span><span class="p">),</span>
+      </span><span class="line">    <span class="p">)</span>
+      </span><span class="line">    <span class="c">#w.option_add(&#39;pattern&#39;,value, priority)</span>
+      </span><span class="line">    <span class="k">for</span> <span class="n">p</span><span class="p">,</span> <span class="n">v</span> <span class="ow">in</span> <span class="n">patterns</span><span class="p">:</span>
+      </span><span class="line">        <span class="n">w</span><span class="o">.</span><span class="n">option_add</span><span class="p">(</span><span class="n">p</span><span class="p">,</span> <span class="n">v</span><span class="p">)</span>
+      </span><span class="line">
+      </span><span class="line"><span class="k">def</span> <span class="nf">apply_gtk_theme_noop</span><span class="p">(</span><span class="n">w</span><span class="p">):</span>
+      </span><span class="line">    <span class="c">#No gtk installed</span>
+      </span><span class="line">    <span class="k">pass</span>
+      </span><span class="line">
+      </span><span class="line"><span class="n">apply_gtk_theme</span> <span class="o">=</span> <span class="n">apply_gtk_theme_noop</span>
+      </span><span class="line"><span class="k">if</span> <span class="n">HAS_GTK</span><span class="p">:</span>
+      </span><span class="line">    <span class="n">apply_gtk_theme</span> <span class="o">=</span> <span class="n">apply_gtk_theme_real</span>
+      </span>
 
-import tkFont as tkfont
-
-HAS_GTK = False
-try:
-    import gtk
-    HAS_GTK = True
-except:
-    pass
-
-def _get_color_scheme():
-    gtkSet = gtk.settings_get_default()
-    return gtkSet.get_property('gtk-color-scheme')
-
-def get_color_scheme_item(colorName):
-    gtkSch = _get_color_scheme()
-    findLine = ''
-    for l in gtkSch.splitlines():
-        if l.startswith(colorName):
-            findLine = l
-            break
-    c = findLine.replace(colorName+":", "").strip()
-    c = c.replace("#", "")
-    rgba = []
-    if len(c) == 12:
-        rgba = [c[0:4], c[4:8], c[8:12], ""]
-    colourFound = '#'
-    for set in rgba:
-       colourFound = "".join([colourFound, set[:2].upper()])  
-    if len(colourFound) == 0:
-        raise error
-        return None
-    else:
-        return colourFound
-
-
-tk_fonts = {}
-tk_font_families= None
-
-def get_tk_font(font_desc):
-    """Crea una fuente tk"""
-    
-    global tk_font_families
-    global tk_fonts
-    
-    if tk_font_families is None:
-        tk_font_families = tkfont.families()
-    font = None
-    if font_desc in tk_fonts:
-        font = tk_fonts[font_desc]
-    else:
-        family = 'Helvetica'
-        for x in tk_font_families:
-            if x in font_desc:
-                family = x
-        s = font_desc.split()
-        size = s[-1]
-        lower = font_desc.lower()
-        weight = 'normal'
-        slant = 'roman'
-        if 'bold' in lower:
-            weight = 'bold'
-        if 'italic' in lower:
-            slant='italic'
-        #print '%s, %s, %s, %s' % (family, weight, slant, size)
-        f = tkfont.Font(family=family, size=size, weight=weight, slant=slant )
-        tk_fonts[font_desc]= font = f
-    return font
-
-
-#gtk_states = [gtk.STATE_NORMAL, gtk.STATE_PRELIGHT, gtk.STATE_ACTIVE, gtk.STATE_SELECTED, gtk.STATE_INSENSITIVE]
-
-def get_tk_styles():
-    """Toma los estilos de Gtk y los "traduce" a estilos tk."""
-    tk_styles = {}
-    
-    style = gtk.rc_get_style_by_paths(gtk.settings_get_default(),
-        '*<GtkLabel>*', '<GtkLabel>', gtk.Label)
-    c = {
-        'foreground': str(style.text[gtk.STATE_NORMAL]),
-        'background': str(style.bg[gtk.STATE_NORMAL]),
-        'activeForeground': str(style.text[gtk.STATE_SELECTED]),
-        'activeBackground': str(style.bg[gtk.STATE_SELECTED]),
-        'font': get_tk_font(str(style.font_desc)),
-    }
-    tk_styles['Label'] = label = c
-    tk_styles['Message'] = c
-    
-    style = gtk.rc_get_style_by_paths(gtk.settings_get_default(),
-        '*<GtkEntry>*', 'GtkEntry', gtk.Entry)
-    c = {
-        'foreground': str(style.text[gtk.STATE_NORMAL]),
-        'background': get_color_scheme_item('base_color'),
-        'selectForeground': str(style.text[gtk.STATE_SELECTED]),
-        'selectBackground': str(style.bg[gtk.STATE_SELECTED]),
-        'activeForeground': str(style.bg[gtk.STATE_NORMAL]),
-        'activeBackground': str(style.bg[gtk.STATE_SELECTED]),
-        'font': get_tk_font(str(style.font_desc)),
-    }
-    tk_styles['Entry'] = c
-    tk_styles['Text'] = c
-    tk_styles['Spinbox'] = c
-    
-    style = gtk.rc_get_style_by_paths(gtk.settings_get_default(),
-        '*<GtkMenuBar>*', 'GtkMenuBar', gtk.MenuBar)
-    c = {
-        'foreground': str(style.text[gtk.STATE_NORMAL]),
-        'background': str(style.bg[gtk.STATE_NORMAL]),
-        'activeForeground': str(style.text[gtk.STATE_SELECTED]),
-        'activeBackground': str(style.bg[gtk.STATE_SELECTED]),
-        'font': get_tk_font(str(style.font_desc)),
-    }
-    tk_styles['Menu'] = c
-
-    style = gtk.rc_get_style_by_paths(gtk.settings_get_default(),
-        '*<GtkButton>*', 'GtkButton', gtk.Button)
-    c = {
-        'foreground': str(style.text[gtk.STATE_NORMAL]),
-        'background': str(style.bg[gtk.STATE_NORMAL]),
-        'activeForeground': str(style.text[gtk.STATE_SELECTED]),
-        'activeBackground': str(style.bg[gtk.STATE_SELECTED]),
-        'font': get_tk_font(str(style.font_desc)),
-    }
-    tk_styles['Button'] = c
-    tk_styles['OptionMenu'] = c
-    
-    style = gtk.rc_get_style_by_paths(gtk.settings_get_default(),
-        '*<GtkCheck>*', 'GtkCheck', gtk.CheckButton)
-    c = {
-        'foreground': label['foreground'],
-        'background': label['background'],
-        'activeForeground': str(style.text[gtk.STATE_SELECTED]),
-        'activeBackground': str(style.bg[gtk.STATE_SELECTED]),
-        'selectColor': str(style.bg[gtk.STATE_SELECTED]),
-        'font': get_tk_font(str(style.font_desc)),
-    }
-    tk_styles['Checkbutton'] = c
-    
-    style = gtk.rc_get_style_by_paths(gtk.settings_get_default(),
-        '*<GtkRadio>*', 'GtkRadio', gtk.RadioButton)
-    c = {
-        'foreground': label['foreground'],
-        'background': label['background'],
-        'activeForeground': str(style.text[gtk.STATE_SELECTED]),
-        'activeBackground': str(style.bg[gtk.STATE_SELECTED]),
-        'selectColor': str(style.bg[gtk.STATE_SELECTED]),
-        'font': get_tk_font(str(style.font_desc)),
-    }
-    tk_styles['Radiobutton'] = c
-    
-    style = gtk.rc_get_style_by_paths(gtk.settings_get_default(),
-        '*<GtkList>*', 'GtkList', gtk.List)
-    c = {
-        'foreground': str(style.text[gtk.STATE_NORMAL]),
-        'background': str(style.bg[gtk.STATE_NORMAL]),
-        'activeForeground': str(style.text[gtk.STATE_SELECTED]),
-        'activeBackground': str(style.bg[gtk.STATE_SELECTED]),
-        'selectForeground': str(style.text[gtk.STATE_SELECTED]),
-        'selectBackground': str(style.bg[gtk.STATE_SELECTED]),
-        'font': get_tk_font(str(style.font_desc)),
-    }
-    tk_styles['Listbox'] = c
-    
-    style = gtk.rc_get_style_by_paths(gtk.settings_get_default(),
-        '*<GtkScrollbar>*', 'GtkScrollbar', gtk.Scrollbar)
-    c = {
-        'foreground': str(style.text[gtk.STATE_NORMAL]),
-        'background': str(style.bg[gtk.STATE_NORMAL]),
-        'activeForeground': str(style.text[gtk.STATE_SELECTED]),
-        'activeBackground': str(style.bg[gtk.STATE_SELECTED]),
-        'troughColor': str(style.bg[gtk.STATE_ACTIVE]),
-        'font': get_tk_font(str(style.font_desc)),
-    }
-    tk_styles['Scrollbar'] = c
-    tk_styles['Scale'] = c
-    
-    return tk_styles
-    
- 
-def apply_gtk_theme_real(w):
-    tk_style = get_tk_styles()
-    bg_color = get_color_scheme_item('bg_color')
-    selected_bg_color = get_color_scheme_item('selected_bg_color')
-    patterns = (
-        ('*Frame*background', bg_color),
-        
-        ('*Menu*foreground', tk_style['Menu']['foreground']),
-        ('*Menu*background', tk_style['Menu']['background']),
-        ('*Menu*activeBackground', tk_style['Menu']['activeBackground']),
-        ('*Menu*activeForeground', tk_style['Menu']['activeForeground']),
-        ('*Menu*font', tk_style['Menu']['font']),
-        ('*Menu*highlightBackground', bg_color),
-        ('*Menu*highlightColor', selected_bg_color),
-        
-        ('*Button*foreground', tk_style['Button']['foreground']),
-        ('*Button*background', tk_style['Button']['background']),
-        ('*Button*activeBackground', tk_style['Button']['activeBackground']),
-        ('*Button*activeForeground', tk_style['Button']['activeForeground']),
-        ('*Button*font', tk_style['Button']['font']),
-        ('*Button*highlightBackground', bg_color),
-        ('*Button*highlightColor', selected_bg_color),
-        
-        ('*Label*foreground', tk_style['Label']['foreground']),
-        ('*Label*background', tk_style['Label']['background']),
-        ('*Label*activeBackground', tk_style['Label']['activeBackground']),
-        ('*Label*activeForeground', tk_style['Label']['activeForeground']),
-        ('*Label*font', tk_style['Label']['font']),
-        ('*Label*highlightBackground', bg_color),
-        ('*Label*highlightColor', selected_bg_color),
-        
-        ('*Message*foreground', tk_style['Message']['foreground']),
-        ('*Message*background', tk_style['Message']['background']),
-        ('*Message*activeBackground', tk_style['Message']['activeBackground']),
-        ('*Message*activeForeground', tk_style['Message']['activeForeground']),
-        ('*Message*font', tk_style['Message']['font']),
-        ('*Message*highlightBackground', bg_color),
-        ('*Message*highlightColor', selected_bg_color),
-        
-        ('*Checkbutton*foreground', tk_style['Checkbutton']['foreground']),
-        ('*Checkbutton*background', tk_style['Checkbutton']['background']),
-        ('*Checkbutton*activeBackground', tk_style['Checkbutton']['activeBackground']),
-        ('*Checkbutton*activeForeground', tk_style['Checkbutton']['activeForeground']),
-        ('*Checkbutton*selectColor', tk_style['Checkbutton']['selectColor']),
-        ('*Checkbutton*font', tk_style['Checkbutton']['font']),
-        ('*Checkbutton*highlightBackground', bg_color),
-        ('*Checkbutton*highlightColor', selected_bg_color),
-        
-        ('*Radiobutton*foreground', tk_style['Radiobutton']['foreground']),
-        ('*Radiobutton*background', tk_style['Radiobutton']['background']),
-        ('*Radiobutton*activeBackground', tk_style['Radiobutton']['activeBackground']),
-        ('*Radiobutton*activeForeground', tk_style['Radiobutton']['activeForeground']),
-        ('*Radiobutton*selectColor', tk_style['Radiobutton']['selectColor']),
-        ('*Radiobutton*font', tk_style['Radiobutton']['font']),
-        ('*Radiobutton*highlightBackground', bg_color),
-        ('*Radiobutton*highlightColor', selected_bg_color),
-        
-        ('*Entry*foreground', tk_style['Entry']['foreground']),
-        ('*Entry*background', tk_style['Entry']['background']),
-        ('*Entry*selectForeground', tk_style['Entry']['selectForeground']),
-        ('*Entry*selectBackground', tk_style['Entry']['selectBackground']),
-        ('*Entry*font', tk_style['Entry']['font']),
-        ('*Entry*highlightBackground', bg_color),
-        ('*Entry*highlightColor', selected_bg_color),
-        ('*Entry*insertBackground', tk_style['Entry']['foreground']),
-        
-        ('*Text*foreground', tk_style['Text']['foreground']),
-        ('*Text*background', tk_style['Text']['background']),
-        ('*Text*selectForeground', tk_style['Text']['selectForeground']),
-        ('*Text*selectBackground', tk_style['Text']['selectBackground']),
-        ('*Text*font', tk_style['Text']['font']),
-        ('*Text*highlightBackground', bg_color),
-        ('*Text*highlightColor', selected_bg_color),
-        ('*Text*insertBackground', tk_style['Text']['foreground']),
-        
-        ('*Spinbox*foreground', tk_style['Spinbox']['foreground']),
-        ('*Spinbox*background', tk_style['Spinbox']['background']),
-        ('*Spinbox*selectForeground', tk_style['Spinbox']['selectForeground']),
-        ('*Spinbox*selectBackground', tk_style['Spinbox']['selectBackground']),
-        ('*Spinbox*font', tk_style['Spinbox']['font']),
-        ('*Spinbox*highlightBackground', bg_color),
-        ('*Spinbox*highlightColor', selected_bg_color),
-        ('*Spinbox*insertBackground', tk_style['Spinbox']['foreground']),
-        
-        ('*Menubutton.foreground', tk_style['OptionMenu']['foreground']),
-        ('*Menubutton.background', tk_style['OptionMenu']['background']),
-        ('*Menubutton.activeBackground', tk_style['OptionMenu']['activeBackground']),
-        ('*Menubutton.activeForeground', tk_style['OptionMenu']['activeForeground']),
-        ('*Menubutton.font', tk_style['OptionMenu']['font']),
-        ('*Menubutton*highlightBackground', tk_style['OptionMenu']['background']),
-        ('*Menubutton*highlightColor', tk_style['OptionMenu']['activeForeground']),
-        
-        ('*Listbox*foreground', tk_style['Listbox']['foreground']),
-        ('*Listbox*background', tk_style['Listbox']['background']),
-        ('*Listbox*activeBackground', tk_style['Listbox']['activeBackground']),
-        ('*Listbox*activeForeground', tk_style['Listbox']['activeForeground']),
-        ('*Listbox*selectBackground', tk_style['Listbox']['selectBackground']),
-        ('*Listbox*selectForeground', tk_style['Listbox']['selectForeground']),
-        ('*Listbox*font', tk_style['Listbox']['font']),
-        ('*Listbox*highlightBackground', bg_color),
-        ('*Listbox*highlightColor', selected_bg_color),
-        
-        ('*Scrollbar*foreground', tk_style['Scrollbar']['foreground']),
-        ('*Scrollbar*background', tk_style['Scrollbar']['background']),
-        ('*Scrollbar*activeBackground', tk_style['Scrollbar']['activeBackground']),
-        ('*Scrollbar*activeForeground', tk_style['Scrollbar']['activeForeground']),
-        ('*Scrollbar*troughColor', tk_style['Scrollbar']['troughColor']),
-        ('*Scrollbar*highlightBackground', bg_color),
-        ('*Scrollbar*highlightColor', selected_bg_color),
-        
-        ('*Scale*foreground', tk_style['Scale']['foreground']),
-        ('*Scale*background', tk_style['Scale']['background']),
-        ('*Scale*activeBackground', tk_style['Scale']['activeBackground']),
-        ('*Scale*activeForeground', tk_style['Scale']['activeForeground']),
-        ('*Scale*troughColor', tk_style['Scale']['troughColor']),
-        ('*Scale*font', tk_style['Scale']['font']),
-        ('*Scale*highlightBackground', bg_color),
-        ('*Scale*highlightColor', selected_bg_color),
-    )
-    #w.option_add('pattern',value, priority)
-    for p, v in patterns:
-        w.option_add(p, v)
-
-def apply_gtk_theme_noop(w):
-    #No gtk installed
-    pass
-
-apply_gtk_theme = apply_gtk_theme_noop
-if HAS_GTK:
-    apply_gtk_theme = apply_gtk_theme_real
-
-}}}
-
-'''Ejemplo:'''
+**Ejemplo:**
 
 Descripcion: Crea 2 ventanas pequeñas iguales, una tratara de imitar el tema de GTK, la otra se mostrara como es por defecto.
 
-{{{
-#!code python
+::
 
-#!/usr/bin/env python2
-#-*- coding:utf-8 -*-
-
-#
-# test.py
-#
-
-import Tkinter as tk
-import colour
-
-class GtkOnTkApp(tk.Frame):
-    '''Gtk on tk test"'''
-    
-    def __entry_scrollHandler(self, *L):
-        op, howMany = L[0], L[1]
-        if op == "scroll":
-            units = L[2]
-            self.entry.xview_scroll ( howMany, units )
-        elif op == "moveto":
-            self.entry.xview_moveto ( howMany )
-
-
-    def __init__(self, master, title):
-        tk.Frame.__init__(self, master)
-        root = self.winfo_toplevel()
-        
-        o = tk.Label(self, text="Label: " + title)
-        o.pack(side='top', pady=2)
-        
-        o = tk.Button(self, text="Button")
-        o.pack(side='top', pady=2)
-        
-        self.entry = o = tk.Entry(self)
-        o.insert('end', 'Entry + Scrollbar ' * 10)
-        o.pack(side='top', pady=2)
-        
-        o = tk.Scrollbar(self,orient='horizontal', command=self.__entry_scrollHandler)
-        o.pack(side='top', fill='x', pady=2)
-        self.entry.configure(xscrollcommand=o.set)
-        
-        o = tk.Spinbox(self, from_=0, to=50)
-        o.pack(side='top', pady=2)
-        
-        opciones = ('OptionMenu', 'Opcion2', 'Opcion3')
-        self.ovar = tk.StringVar()
-        self.ovar.set(opciones[0])
-        o = tk.OptionMenu(self, self.ovar, *opciones)
-        o.pack(side='top', pady=2)
-        
-        self.items = tk.StringVar()
-        self.items.set('Listbox Item2 Item3')
-        o = tk.Listbox(self, listvariable=self.items, height=3)
-        o.pack(side='top', fill='x', pady=2)
-        
-        o = tk.Checkbutton(self,text='Checkbutton')
-        o.pack(side='top', pady=2)
-        
-        self.rbar = tk.IntVar()
-        self.rbar.set(0)
-        o = tk.Radiobutton(self,text='Radiobutton1', value=0, variable=self.rbar)
-        o.pack(side='top', pady=2)
-        o = tk.Radiobutton(self,text='Radiobutton2', value=1, variable=self.rbar)
-        o.pack(side='top', pady=2)
-        
-        o = tk.Scale(self,label='Scale', orient='horizontal')
-        o.pack(side='top', fill='x', pady=2)
-        
-        o = tk.Message(self, text='Message widget')
-        o.pack(side='top', fill='x', pady=2)
-        
-        o = tk.Text(self, height=4)
-        o.insert('0.0', 'Text widget ' * 20)
-        o.pack(side='top', pady=2)
-        
-        self.pack(expand=True, fill='both')
-        
-        # Menubar
-        menubar = tk.Menu(root)
-        filemenu = tk.Menu(menubar, tearoff=0)
-        filemenu.add_command(label="Nuevo", state='disabled')
-        filemenu.add_command(label="Menuitem 2")
-        filemenu.add_command(label="Menuitem 3")
-        filemenu.add_separator()
-        filemenu.add_command(label="Cerrar ✗", command= lambda: root.destroy())
-        menubar.add_cascade(label="Archivo", menu=filemenu)
-        root.config(menu=menubar)
-        root.title(title)
-        
-
-if __name__ == '__main__':
-    root = tk.Tk()
-    # Creamos una ventana sin estilos
-    app1 = GtkOnTkApp(tk.Toplevel(), 'Ventana sin tema Gtk')
-    
-    # Definimos los estilos gtk. Despues de la llamada a apply_gtk_theme
-    # los widgets que se crean posen "estilo" gtk:
-    colour.apply_gtk_theme(root)
-    #Creamos ventana con estilos
-    app2 = GtkOnTkApp(root, 'Ventana con tema Gtk')
-    root.mainloop()
-
-
-}}}
+   .. raw:: html
+      <span class="line"><span class="c">#!/usr/bin/env python2</span>
+      </span><span class="line"><span class="c">#-*- coding:utf-8 -*-</span>
+      </span><span class="line">
+      </span><span class="line"><span class="c">#</span>
+      </span><span class="line"><span class="c"># test.py</span>
+      </span><span class="line"><span class="c">#</span>
+      </span><span class="line">
+      </span><span class="line"><span class="kn">import</span> <span class="nn">Tkinter</span> <span class="kn">as</span> <span class="nn">tk</span>
+      </span><span class="line"><span class="kn">import</span> <span class="nn">colour</span>
+      </span><span class="line">
+      </span><span class="line"><span class="k">class</span> <span class="nc">GtkOnTkApp</span><span class="p">(</span><span class="n">tk</span><span class="o">.</span><span class="n">Frame</span><span class="p">):</span>
+      </span><span class="line">    <span class="sd">&#39;&#39;&#39;Gtk on tk test&quot;&#39;&#39;&#39;</span>
+      </span><span class="line">   
+      </span><span class="line">    <span class="k">def</span> <span class="nf">__entry_scrollHandler</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="o">*</span><span class="n">L</span><span class="p">):</span>
+      </span><span class="line">        <span class="n">op</span><span class="p">,</span> <span class="n">howMany</span> <span class="o">=</span> <span class="n">L</span><span class="p">[</span><span class="mi">0</span><span class="p">],</span> <span class="n">L</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span>
+      </span><span class="line">        <span class="k">if</span> <span class="n">op</span> <span class="o">==</span> <span class="s">&quot;scroll&quot;</span><span class="p">:</span>
+      </span><span class="line">            <span class="n">units</span> <span class="o">=</span> <span class="n">L</span><span class="p">[</span><span class="mi">2</span><span class="p">]</span>
+      </span><span class="line">            <span class="bp">self</span><span class="o">.</span><span class="n">entry</span><span class="o">.</span><span class="n">xview_scroll</span> <span class="p">(</span> <span class="n">howMany</span><span class="p">,</span> <span class="n">units</span> <span class="p">)</span>
+      </span><span class="line">        <span class="k">elif</span> <span class="n">op</span> <span class="o">==</span> <span class="s">&quot;moveto&quot;</span><span class="p">:</span>
+      </span><span class="line">            <span class="bp">self</span><span class="o">.</span><span class="n">entry</span><span class="o">.</span><span class="n">xview_moveto</span> <span class="p">(</span> <span class="n">howMany</span> <span class="p">)</span>
+      </span><span class="line">
+      </span><span class="line">
+      </span><span class="line">    <span class="k">def</span> <span class="nf">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">master</span><span class="p">,</span> <span class="n">title</span><span class="p">):</span>
+      </span><span class="line">        <span class="n">tk</span><span class="o">.</span><span class="n">Frame</span><span class="o">.</span><span class="n">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">master</span><span class="p">)</span>
+      </span><span class="line">        <span class="n">root</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">winfo_toplevel</span><span class="p">()</span>
+      </span><span class="line">       
+      </span><span class="line">        <span class="n">o</span> <span class="o">=</span> <span class="n">tk</span><span class="o">.</span><span class="n">Label</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">text</span><span class="o">=</span><span class="s">&quot;Label: &quot;</span> <span class="o">+</span> <span class="n">title</span><span class="p">)</span>
+      </span><span class="line">        <span class="n">o</span><span class="o">.</span><span class="n">pack</span><span class="p">(</span><span class="n">side</span><span class="o">=</span><span class="s">&#39;top&#39;</span><span class="p">,</span> <span class="n">pady</span><span class="o">=</span><span class="mi">2</span><span class="p">)</span>
+      </span><span class="line">       
+      </span><span class="line">        <span class="n">o</span> <span class="o">=</span> <span class="n">tk</span><span class="o">.</span><span class="n">Button</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">text</span><span class="o">=</span><span class="s">&quot;Button&quot;</span><span class="p">)</span>
+      </span><span class="line">        <span class="n">o</span><span class="o">.</span><span class="n">pack</span><span class="p">(</span><span class="n">side</span><span class="o">=</span><span class="s">&#39;top&#39;</span><span class="p">,</span> <span class="n">pady</span><span class="o">=</span><span class="mi">2</span><span class="p">)</span>
+      </span><span class="line">       
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">entry</span> <span class="o">=</span> <span class="n">o</span> <span class="o">=</span> <span class="n">tk</span><span class="o">.</span><span class="n">Entry</span><span class="p">(</span><span class="bp">self</span><span class="p">)</span>
+      </span><span class="line">        <span class="n">o</span><span class="o">.</span><span class="n">insert</span><span class="p">(</span><span class="s">&#39;end&#39;</span><span class="p">,</span> <span class="s">&#39;Entry + Scrollbar &#39;</span> <span class="o">*</span> <span class="mi">10</span><span class="p">)</span>
+      </span><span class="line">        <span class="n">o</span><span class="o">.</span><span class="n">pack</span><span class="p">(</span><span class="n">side</span><span class="o">=</span><span class="s">&#39;top&#39;</span><span class="p">,</span> <span class="n">pady</span><span class="o">=</span><span class="mi">2</span><span class="p">)</span>
+      </span><span class="line">       
+      </span><span class="line">        <span class="n">o</span> <span class="o">=</span> <span class="n">tk</span><span class="o">.</span><span class="n">Scrollbar</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span><span class="n">orient</span><span class="o">=</span><span class="s">&#39;horizontal&#39;</span><span class="p">,</span> <span class="n">command</span><span class="o">=</span><span class="bp">self</span><span class="o">.</span><span class="n">__entry_scrollHandler</span><span class="p">)</span>
+      </span><span class="line">        <span class="n">o</span><span class="o">.</span><span class="n">pack</span><span class="p">(</span><span class="n">side</span><span class="o">=</span><span class="s">&#39;top&#39;</span><span class="p">,</span> <span class="n">fill</span><span class="o">=</span><span class="s">&#39;x&#39;</span><span class="p">,</span> <span class="n">pady</span><span class="o">=</span><span class="mi">2</span><span class="p">)</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">entry</span><span class="o">.</span><span class="n">configure</span><span class="p">(</span><span class="n">xscrollcommand</span><span class="o">=</span><span class="n">o</span><span class="o">.</span><span class="n">set</span><span class="p">)</span>
+      </span><span class="line">       
+      </span><span class="line">        <span class="n">o</span> <span class="o">=</span> <span class="n">tk</span><span class="o">.</span><span class="n">Spinbox</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">from_</span><span class="o">=</span><span class="mi">0</span><span class="p">,</span> <span class="n">to</span><span class="o">=</span><span class="mi">50</span><span class="p">)</span>
+      </span><span class="line">        <span class="n">o</span><span class="o">.</span><span class="n">pack</span><span class="p">(</span><span class="n">side</span><span class="o">=</span><span class="s">&#39;top&#39;</span><span class="p">,</span> <span class="n">pady</span><span class="o">=</span><span class="mi">2</span><span class="p">)</span>
+      </span><span class="line">       
+      </span><span class="line">        <span class="n">opciones</span> <span class="o">=</span> <span class="p">(</span><span class="s">&#39;OptionMenu&#39;</span><span class="p">,</span> <span class="s">&#39;Opcion2&#39;</span><span class="p">,</span> <span class="s">&#39;Opcion3&#39;</span><span class="p">)</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">ovar</span> <span class="o">=</span> <span class="n">tk</span><span class="o">.</span><span class="n">StringVar</span><span class="p">()</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">ovar</span><span class="o">.</span><span class="n">set</span><span class="p">(</span><span class="n">opciones</span><span class="p">[</span><span class="mi">0</span><span class="p">])</span>
+      </span><span class="line">        <span class="n">o</span> <span class="o">=</span> <span class="n">tk</span><span class="o">.</span><span class="n">OptionMenu</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">ovar</span><span class="p">,</span> <span class="o">*</span><span class="n">opciones</span><span class="p">)</span>
+      </span><span class="line">        <span class="n">o</span><span class="o">.</span><span class="n">pack</span><span class="p">(</span><span class="n">side</span><span class="o">=</span><span class="s">&#39;top&#39;</span><span class="p">,</span> <span class="n">pady</span><span class="o">=</span><span class="mi">2</span><span class="p">)</span>
+      </span><span class="line">       
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">items</span> <span class="o">=</span> <span class="n">tk</span><span class="o">.</span><span class="n">StringVar</span><span class="p">()</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">items</span><span class="o">.</span><span class="n">set</span><span class="p">(</span><span class="s">&#39;Listbox Item2 Item3&#39;</span><span class="p">)</span>
+      </span><span class="line">        <span class="n">o</span> <span class="o">=</span> <span class="n">tk</span><span class="o">.</span><span class="n">Listbox</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">listvariable</span><span class="o">=</span><span class="bp">self</span><span class="o">.</span><span class="n">items</span><span class="p">,</span> <span class="n">height</span><span class="o">=</span><span class="mi">3</span><span class="p">)</span>
+      </span><span class="line">        <span class="n">o</span><span class="o">.</span><span class="n">pack</span><span class="p">(</span><span class="n">side</span><span class="o">=</span><span class="s">&#39;top&#39;</span><span class="p">,</span> <span class="n">fill</span><span class="o">=</span><span class="s">&#39;x&#39;</span><span class="p">,</span> <span class="n">pady</span><span class="o">=</span><span class="mi">2</span><span class="p">)</span>
+      </span><span class="line">       
+      </span><span class="line">        <span class="n">o</span> <span class="o">=</span> <span class="n">tk</span><span class="o">.</span><span class="n">Checkbutton</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span><span class="n">text</span><span class="o">=</span><span class="s">&#39;Checkbutton&#39;</span><span class="p">)</span>
+      </span><span class="line">        <span class="n">o</span><span class="o">.</span><span class="n">pack</span><span class="p">(</span><span class="n">side</span><span class="o">=</span><span class="s">&#39;top&#39;</span><span class="p">,</span> <span class="n">pady</span><span class="o">=</span><span class="mi">2</span><span class="p">)</span>
+      </span><span class="line">       
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">rbar</span> <span class="o">=</span> <span class="n">tk</span><span class="o">.</span><span class="n">IntVar</span><span class="p">()</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">rbar</span><span class="o">.</span><span class="n">set</span><span class="p">(</span><span class="mi">0</span><span class="p">)</span>
+      </span><span class="line">        <span class="n">o</span> <span class="o">=</span> <span class="n">tk</span><span class="o">.</span><span class="n">Radiobutton</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span><span class="n">text</span><span class="o">=</span><span class="s">&#39;Radiobutton1&#39;</span><span class="p">,</span> <span class="n">value</span><span class="o">=</span><span class="mi">0</span><span class="p">,</span> <span class="n">variable</span><span class="o">=</span><span class="bp">self</span><span class="o">.</span><span class="n">rbar</span><span class="p">)</span>
+      </span><span class="line">        <span class="n">o</span><span class="o">.</span><span class="n">pack</span><span class="p">(</span><span class="n">side</span><span class="o">=</span><span class="s">&#39;top&#39;</span><span class="p">,</span> <span class="n">pady</span><span class="o">=</span><span class="mi">2</span><span class="p">)</span>
+      </span><span class="line">        <span class="n">o</span> <span class="o">=</span> <span class="n">tk</span><span class="o">.</span><span class="n">Radiobutton</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span><span class="n">text</span><span class="o">=</span><span class="s">&#39;Radiobutton2&#39;</span><span class="p">,</span> <span class="n">value</span><span class="o">=</span><span class="mi">1</span><span class="p">,</span> <span class="n">variable</span><span class="o">=</span><span class="bp">self</span><span class="o">.</span><span class="n">rbar</span><span class="p">)</span>
+      </span><span class="line">        <span class="n">o</span><span class="o">.</span><span class="n">pack</span><span class="p">(</span><span class="n">side</span><span class="o">=</span><span class="s">&#39;top&#39;</span><span class="p">,</span> <span class="n">pady</span><span class="o">=</span><span class="mi">2</span><span class="p">)</span>
+      </span><span class="line">       
+      </span><span class="line">        <span class="n">o</span> <span class="o">=</span> <span class="n">tk</span><span class="o">.</span><span class="n">Scale</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span><span class="n">label</span><span class="o">=</span><span class="s">&#39;Scale&#39;</span><span class="p">,</span> <span class="n">orient</span><span class="o">=</span><span class="s">&#39;horizontal&#39;</span><span class="p">)</span>
+      </span><span class="line">        <span class="n">o</span><span class="o">.</span><span class="n">pack</span><span class="p">(</span><span class="n">side</span><span class="o">=</span><span class="s">&#39;top&#39;</span><span class="p">,</span> <span class="n">fill</span><span class="o">=</span><span class="s">&#39;x&#39;</span><span class="p">,</span> <span class="n">pady</span><span class="o">=</span><span class="mi">2</span><span class="p">)</span>
+      </span><span class="line">       
+      </span><span class="line">        <span class="n">o</span> <span class="o">=</span> <span class="n">tk</span><span class="o">.</span><span class="n">Message</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">text</span><span class="o">=</span><span class="s">&#39;Message widget&#39;</span><span class="p">)</span>
+      </span><span class="line">        <span class="n">o</span><span class="o">.</span><span class="n">pack</span><span class="p">(</span><span class="n">side</span><span class="o">=</span><span class="s">&#39;top&#39;</span><span class="p">,</span> <span class="n">fill</span><span class="o">=</span><span class="s">&#39;x&#39;</span><span class="p">,</span> <span class="n">pady</span><span class="o">=</span><span class="mi">2</span><span class="p">)</span>
+      </span><span class="line">       
+      </span><span class="line">        <span class="n">o</span> <span class="o">=</span> <span class="n">tk</span><span class="o">.</span><span class="n">Text</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">height</span><span class="o">=</span><span class="mi">4</span><span class="p">)</span>
+      </span><span class="line">        <span class="n">o</span><span class="o">.</span><span class="n">insert</span><span class="p">(</span><span class="s">&#39;0.0&#39;</span><span class="p">,</span> <span class="s">&#39;Text widget &#39;</span> <span class="o">*</span> <span class="mi">20</span><span class="p">)</span>
+      </span><span class="line">        <span class="n">o</span><span class="o">.</span><span class="n">pack</span><span class="p">(</span><span class="n">side</span><span class="o">=</span><span class="s">&#39;top&#39;</span><span class="p">,</span> <span class="n">pady</span><span class="o">=</span><span class="mi">2</span><span class="p">)</span>
+      </span><span class="line">       
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">pack</span><span class="p">(</span><span class="n">expand</span><span class="o">=</span><span class="bp">True</span><span class="p">,</span> <span class="n">fill</span><span class="o">=</span><span class="s">&#39;both&#39;</span><span class="p">)</span>
+      </span><span class="line">       
+      </span><span class="line">        <span class="c"># Menubar</span>
+      </span><span class="line">        <span class="n">menubar</span> <span class="o">=</span> <span class="n">tk</span><span class="o">.</span><span class="n">Menu</span><span class="p">(</span><span class="n">root</span><span class="p">)</span>
+      </span><span class="line">        <span class="n">filemenu</span> <span class="o">=</span> <span class="n">tk</span><span class="o">.</span><span class="n">Menu</span><span class="p">(</span><span class="n">menubar</span><span class="p">,</span> <span class="n">tearoff</span><span class="o">=</span><span class="mi">0</span><span class="p">)</span>
+      </span><span class="line">        <span class="n">filemenu</span><span class="o">.</span><span class="n">add_command</span><span class="p">(</span><span class="n">label</span><span class="o">=</span><span class="s">&quot;Nuevo&quot;</span><span class="p">,</span> <span class="n">state</span><span class="o">=</span><span class="s">&#39;disabled&#39;</span><span class="p">)</span>
+      </span><span class="line">        <span class="n">filemenu</span><span class="o">.</span><span class="n">add_command</span><span class="p">(</span><span class="n">label</span><span class="o">=</span><span class="s">&quot;Menuitem 2&quot;</span><span class="p">)</span>
+      </span><span class="line">        <span class="n">filemenu</span><span class="o">.</span><span class="n">add_command</span><span class="p">(</span><span class="n">label</span><span class="o">=</span><span class="s">&quot;Menuitem 3&quot;</span><span class="p">)</span>
+      </span><span class="line">        <span class="n">filemenu</span><span class="o">.</span><span class="n">add_separator</span><span class="p">()</span>
+      </span><span class="line">        <span class="n">filemenu</span><span class="o">.</span><span class="n">add_command</span><span class="p">(</span><span class="n">label</span><span class="o">=</span><span class="s">&quot;Cerrar ✗&quot;</span><span class="p">,</span> <span class="n">command</span><span class="o">=</span> <span class="k">lambda</span><span class="p">:</span> <span class="n">root</span><span class="o">.</span><span class="n">destroy</span><span class="p">())</span>
+      </span><span class="line">        <span class="n">menubar</span><span class="o">.</span><span class="n">add_cascade</span><span class="p">(</span><span class="n">label</span><span class="o">=</span><span class="s">&quot;Archivo&quot;</span><span class="p">,</span> <span class="n">menu</span><span class="o">=</span><span class="n">filemenu</span><span class="p">)</span>
+      </span><span class="line">        <span class="n">root</span><span class="o">.</span><span class="n">config</span><span class="p">(</span><span class="n">menu</span><span class="o">=</span><span class="n">menubar</span><span class="p">)</span>
+      </span><span class="line">        <span class="n">root</span><span class="o">.</span><span class="n">title</span><span class="p">(</span><span class="n">title</span><span class="p">)</span>
+      </span><span class="line">       
+      </span><span class="line">
+      </span><span class="line"><span class="k">if</span> <span class="n">__name__</span> <span class="o">==</span> <span class="s">&#39;__main__&#39;</span><span class="p">:</span>
+      </span><span class="line">    <span class="n">root</span> <span class="o">=</span> <span class="n">tk</span><span class="o">.</span><span class="n">Tk</span><span class="p">()</span>
+      </span><span class="line">    <span class="c"># Creamos una ventana sin estilos</span>
+      </span><span class="line">    <span class="n">app1</span> <span class="o">=</span> <span class="n">GtkOnTkApp</span><span class="p">(</span><span class="n">tk</span><span class="o">.</span><span class="n">Toplevel</span><span class="p">(),</span> <span class="s">&#39;Ventana sin tema Gtk&#39;</span><span class="p">)</span>
+      </span><span class="line">   
+      </span><span class="line">    <span class="c"># Definimos los estilos gtk. Despues de la llamada a apply_gtk_theme</span>
+      </span><span class="line">    <span class="c"># los widgets que se crean posen &quot;estilo&quot; gtk:</span>
+      </span><span class="line">    <span class="n">colour</span><span class="o">.</span><span class="n">apply_gtk_theme</span><span class="p">(</span><span class="n">root</span><span class="p">)</span>
+      </span><span class="line">    <span class="c">#Creamos ventana con estilos</span>
+      </span><span class="line">    <span class="n">app2</span> <span class="o">=</span> <span class="n">GtkOnTkApp</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="s">&#39;Ventana con tema Gtk&#39;</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">root</span><span class="o">.</span><span class="n">mainloop</span><span class="p">()</span>
+      </span>
 
 Capturas:
 
-{{attachment:gtkontk01.png}}
+`attachment:gtkontk01.png`_
 
-{{attachment:gtkontk02.png}}
+`attachment:gtkontk02.png`_
+
+.. ############################################################################
+
+.. _PyGtk: ../PyGtk
+
