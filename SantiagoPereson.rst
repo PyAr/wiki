@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 yaco (Santiágo Peresón)
 -----------------------
@@ -28,5 +26,4 @@ Correo electrónico: `[[MailTo(yaco AT yaco DOT net)]]`_
 
 .. _Música: http://yaco.net/listen/
 
-.. _CategoryHomepage: ../CategoryHomepage
 
