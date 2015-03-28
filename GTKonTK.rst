@@ -1,4 +1,3 @@
-#format rst
 
 GTK on TK
 =========
@@ -11,7 +10,7 @@ De fondo Gedit en Ubuntu, usando el tema Ambiance, arriba una ventana con simila
 
   :small:`El codigo de este ejemplo esta mas abajo` *(la foto no esta editada, no hay truco, funciona en KDE, o inclusive lo he hecho funcionar sin GTK instalado)*:small:`.`
 
-`attachment:gtk-on-tk-hack.jpg`_
+`gtk-on-tk-hack.jpg </wiki/GTKonTK/attachment/29/gtk-on-tk-hack.jpg>`_
 
 **El Codigo para hacer GTK on TK:**
 
@@ -699,11 +698,20 @@ Descripcion: Crea 2 ventanas pequeñas iguales, una tratara de imitar el tema de
 
 Capturas:
 
-`attachment:gtkontk01.png`_
+`gtkontk01.png </wiki/GTKonTK/attachment/27/gtkontk01.png>`_
 
-`attachment:gtkontk02.png`_
+`gtkontk02.png </wiki/GTKonTK/attachment/28/gtkontk02.png>`_
 
 .. ############################################################################
 
-.. _PyGtk: ../PyGtk
+
+
+
+.. role:: small
+   :class: small
+
+
+
+.. role:: small
+   :class: small
 
