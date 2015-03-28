@@ -1,5 +1,3 @@
-#format rst
-#acl AdminGroup:admin,read,write,delete,revert All:read
 
 Bandera para PyAr
 =================
@@ -66,9 +64,23 @@ El presupuesto que tenemos por impresion sobre lona es de $60 por metro cuadrado
 
 .. _Resultados: /resultados
 
-.. _PyAr: ../PyAr
 
 .. _alecu@vortech.com.ar: mailto:alecu@vortech.com.ar
 
 .. _pyar@decode.com.ar: mailto:pyar@decode.com.ar
+
+
+
+.. role:: underline
+   :class: underline
+
+
+
+.. role:: underline
+   :class: underline
+
+
+
+.. role:: strike
+   :class: strike
 
