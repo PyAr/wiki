@@ -1,4 +1,3 @@
-#format rst
 
 Recicla tu hardware por una buena causa
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -14,11 +13,7 @@ Cortita y al pie, en usla nos ofrecieron housing y la verdad que nos hace falta 
 
 .. ############################################################################
 
-.. _NubIs: ../NubIs
 
-.. _alecu: ../AlejandroJCura
 
-.. _LucioTorre: ../LucioTorre
 
-.. _DanielMoisset: ../DanielMoisset
 
