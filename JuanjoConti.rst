@@ -1,6 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
-#acl JuanjoConti:admin,read,write,delete,revert All:read
 
 `[[Twitter(usuario="jjconti")]]`_
 
@@ -19,5 +16,4 @@ Soy ingeniero de la FRSF-UTN_, trabajo en una empresa de telecomunicaciones y te
 
 .. _Aprendiendo Python en el blog Vientos de Libertad: http://www.juanjoconti.com.ar/categoria/aprendiendo-python/
 
-.. _CategoryHomepage: ../CategoryHomepage
 
