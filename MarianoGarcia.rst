@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Mariano Garcia
 --------------
