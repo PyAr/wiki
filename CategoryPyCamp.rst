@@ -1,10 +1,16 @@
-##master-page:CategoryTemplate
-##master-date:Unknown-Date
-#format wiki
-#language en
+#format rst
+## master-page:CategoryTemplate
+## master-date:Unknown-Date
+
 Paginas Relacionadas al Pycamp
 
-<<FullSearchCached(category:CategoryPyCamp)>>
+`[[FullSearchCached(category:CategoryPyCamp)]]`_
 
-----
-CategoryCategory
+-------------------------
+
+ CategoryCategory_
+
+.. ############################################################################
+
+.. _CategoryCategory: ../CategoryCategory
+
