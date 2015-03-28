@@ -1,4 +1,3 @@
-#format rst
 
 ¿Cómo hacer una conferencia?
 ============================
@@ -23,7 +22,6 @@ Los siguientes son textos que nos ayudarían a hacer una conferencia, en sus dis
 
 .. _Hitchhiker's guide to make a PyConAr2010: http://python.org.ar/pyar/HGTTP
 
-.. _PyDay: ../PyDay
 
 .. _PgDayManual: http://wiki.postgresql.org/wiki/PgDayManual
 
