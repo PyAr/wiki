@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Adrián Pardini
 --------------
@@ -14,5 +12,4 @@ Hola, actualmente (2011) me encuentro realizando el cuarto año de la carrera In
 
 .. ############################################################################
 
-.. _CategoryHomepage: ../CategoryHomepage
 
