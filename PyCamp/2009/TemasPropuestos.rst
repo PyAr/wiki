@@ -1,4 +1,3 @@
-#format rst
 
 Este es el programa:
 
