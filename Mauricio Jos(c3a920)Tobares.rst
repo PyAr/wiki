@@ -1,6 +1,3 @@
-##master-page:HomepageTemplate
-#format wiki
-#language es
 == Mauricio José Tobares ==
 
 Email: Contacto: <<MailTo(carrozadelamuerte@gmail.com)>>
