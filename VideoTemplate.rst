@@ -1,22 +1,37 @@
-##master-page:CharlaTemplate
-##master-date:Unknown-Date
-#format wiki
-#language es
+#format rst
+## master-page:CharlaTemplate
+## master-date:Unknown-Date
 
-= TituloCharla =
+TituloCharla
+============
 
- * Evento: 
-## [[urlevento|nombrelindo]]
- * Disertante: 
-## wikiname disertante o url a blog 
- * Presentación: 
-## [[attachment:nombreadjunto ]] ##Link al archivo adjunto o pagina externa 
- * Código: 
-## [[attachment:nombreadjunto ]] ##Link al archivo adjunto o pagina externa 
+* Evento: 
 
-## Descomentar y completar con el path del video
-## <<Video(http://pyar.usla.org.ar/path-al-video)>>   
+.. [[urlevento|nombrelindo]]
 
-## Puto el que lee
-----
-CategoryVideo
+* Disertante: 
+
+.. wikiname disertante o url a blog 
+
+* Presentación: 
+
+.. [[attachment:nombreadjunto ]] ##Link al archivo adjunto o pagina externa 
+
+* Código: 
+
+.. [[attachment:nombreadjunto ]] ##Link al archivo adjunto o pagina externa 
+
+.. Descomentar y completar con el path del video
+
+.. <<Video(http://pyar.usla.org.ar/path-al-video)>>   
+
+.. Puto el que lee
+
+-------------------------
+
+ CategoryVideo_
+
+.. ############################################################################
+
+.. _CategoryVideo: ../CategoryVideo
+
