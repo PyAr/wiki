@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 José Luis Dallapiccola
 ----------------------
@@ -32,5 +30,4 @@ Email: `[[MailTo(jldalla AT SPAMFREE gmail DOT com)]]`_
 
 .. ############################################################################
 
-.. _CategoryHomepage: ../CategoryHomepage
 
