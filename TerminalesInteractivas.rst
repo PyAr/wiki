@@ -1,4 +1,3 @@
-#format rst
 
 Terminales interactivas
 =======================
@@ -29,5 +28,4 @@ http://dreampie.sourceforge.net/
 
 .. ############################################################################
 
-.. _autocompletado: ../AutocomplecionEnConsolaInteractiva
 
