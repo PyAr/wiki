@@ -1,4 +1,3 @@
-#format rst
 
 Mensajes Excepcionales
 ======================
@@ -753,9 +752,6 @@ En esta versión de Python, el módulo md5 existe por compatibilidad hacia atrá
 
 .. ############################################################################
 
-.. _PythonZen: ../PythonZen
 
-.. _CamelCase: ../CamelCase
 
-.. _Python3Mil: ../Python3Mil
 
