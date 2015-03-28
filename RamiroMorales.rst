@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Ramiro Morales (aka cramm)
 --------------------------
@@ -37,5 +35,4 @@ Elsewhere
 
 .. _Django: http://djangopeople.net/ramiro/
 
-.. _CategoryHomepage: ../CategoryHomepage
 
