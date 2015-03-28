@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Joaquin Tita
 ------------
@@ -14,5 +12,4 @@ Nick irc: focojoaco
 
 .. ############################################################################
 
-.. _CategoryHomepage: ../CategoryHomepage
 
