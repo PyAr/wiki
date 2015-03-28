@@ -1,5 +1,3 @@
-#format rst
-#language es
 
 Mini Preguntas Frecuentes
 =========================
@@ -102,9 +100,7 @@ La página VisualBasic_ detalla las similitudes y diferencias entre ambos lengua
 
 .. ############################################################################
 
-.. _MensajesExcepcionales: ../MensajesExcepcionales
 
-.. _Python3Mil: ../Python3Mil
 
 .. _IDLE: http://en.wikipedia.org/wiki/IDLE_(Python)
 
@@ -114,13 +110,10 @@ La página VisualBasic_ detalla las similitudes y diferencias entre ambos lengua
 
 .. _wxPython: http://www.wxpython.org/
 
-.. _AutocomplecionEnConsolaInteractiva: ../AutocomplecionEnConsolaInteractiva
 
-.. _GuardarHistorialEnConsolaInteractiva: ../GuardarHistorialEnConsolaInteractiva
 
 .. _recursos externos: http://www.eseth.org/2008/pimp-pythonrc.html
 
-.. _RendimientoPythonVsJavaVsNet: ../RendimientoPythonVsJavaVsNet
 
 .. _BitTorrent: http://www.bittorrent.com
 
@@ -128,7 +121,6 @@ La página VisualBasic_ detalla las similitudes y diferencias entre ambos lengua
 
 .. _OpenErp: http://www.openerp.com
 
-.. _TinyErp: ../TinyErp
 
 .. _Meld: http://meld.sourceforge.net
 
@@ -138,7 +130,6 @@ La página VisualBasic_ detalla las similitudes y diferencias entre ambos lengua
 
 .. _PyRece: http://www.pyafipws.com.ar/pyrece
 
-.. _PythonCard: ../PythonCard
 
 .. _programado en Python: http://vimeo.com/6461983
 
@@ -146,7 +137,5 @@ La página VisualBasic_ detalla las similitudes y diferencias entre ambos lengua
 
 .. _NEBULA: http://nebula.nasa.gov/
 
-.. _GooglePersonFinder: ../GooglePersonFinder
 
-.. _VisualBasic: ../VisualBasic
 
