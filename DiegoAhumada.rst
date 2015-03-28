@@ -1,9 +1,18 @@
-##master-page:HomepageTemplate
-#format wiki
-#language en
-== Diego Ahumada ==
-Email: <<MailTo(eddie.cpp AT SPAMFREE gmail DOT com)>>
+#format rst
+## master-page:HomepageTemplate
 
-## You can even more obfuscate your email address by adding more uppercase letters followed by a leading and trailing blank.
-----
-CategoryHomepage
+Diego Ahumada
+-------------
+
+Email: `[[MailTo(eddie.cpp AT SPAMFREE gmail DOT com)]]`_
+
+.. You can even more obfuscate your email address by adding more uppercase letters followed by a leading and trailing blank.
+
+-------------------------
+
+ CategoryHomepage_
+
+.. ############################################################################
+
+.. _CategoryHomepage: ../CategoryHomepage
+
