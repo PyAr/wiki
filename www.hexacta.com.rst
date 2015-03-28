@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 @``ME@
 ------
@@ -14,5 +12,4 @@ Email: `[[MailTo(you AT SPAMFREE example DOT com)]]`_.. You can even more obfusc
 
 .. ############################################################################
 
-.. _CategoryHomepage: ../CategoryHomepage
 
