@@ -1,4 +1,3 @@
-#format rst
 
 Como Levantar Un Servidor Http Simple
 =====================================
