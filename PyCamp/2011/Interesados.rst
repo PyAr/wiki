@@ -1,4 +1,3 @@
-#format rst
 
 Interesados en asistir a PyCamp_ 2011 a realizarse durante los días Jueves 24, Viernes 25, Sábado 26 y Domingo 27 de Marzo.
 
@@ -51,4 +50,9 @@ Instrucciones para confirmar la asistencia y pagar la reserva en `PyCamp 2011`_
 .. _Gonzalo Delgado: GonzaloDelgado
 
 .. _Hugo Ruscitti: HugoRuscitti
+
+
+
+.. role:: strike
+   :class: strike
 
