@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Marcelo Gustavo Ametller
 ------------------------
@@ -16,5 +14,4 @@ Cualquier duda preguntar en `[[MailTo(admin EN python PUNTO com PUNTO ar)]]`_
 
 .. ############################################################################
 
-.. _CategoryHomepage: ../CategoryHomepage
 
