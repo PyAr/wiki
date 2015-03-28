@@ -1,6 +1,8 @@
-##master-page:HomepageTemplate
-#format wiki
-== Dieresys ==
+#format rst
+## master-page:HomepageTemplate
+
+Dieresys
+--------
 
 Manuel Muradás
 
@@ -10,10 +12,15 @@ Email: fijate en el archivo de la lista
 
 Si tenés GMail, no te olvides de:
 
-Matches: from:(enri57ar(AT)gmail.com)
-Do this: Skip Inbox, Delete it
+Matches: from:(enri57ar(AT)gmail.com) Do this: Skip Inbox, Delete it
 
 ...
 
-----
-CategoryHomepage
+-------------------------
+
+ CategoryHomepage_
+
+.. ############################################################################
+
+.. _CategoryHomepage: ../CategoryHomepage
+
