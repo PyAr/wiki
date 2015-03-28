@@ -1,4 +1,3 @@
-#format rst
 
 :small:`Volver a` RemerasV2_ 
 
@@ -7,17 +6,17 @@ Una remera con explicación para personas grandes
 
 http://www.franciscorobles.com.ar/libros/principito/pag01.htm Un solo color es suficiente. (nota: la tipografía usada en el svg es ligéramente diferente de las imágenes que se muestran, la tuve que modificar para cumplir con las reglas del concurso).
 
-`attachment:2.gif`_
+`2.gif </wiki/RemerasV2/PabloZiliani2/attachment/188/2.gif>`_
 
 Detalle:
 ::::::::
 
-`attachment:2d.png`_
+`2d.png </wiki/RemerasV2/PabloZiliani2/attachment/190/2d.png>`_
 
 Archivo
 -------
 
-`attachment:remera2.svg`_remera2.svg`attachment:None`_
+
 
 Comentarios
 -----------
@@ -28,5 +27,9 @@ Comentarios
 
 .. ############################################################################
 
-.. _diseño anterior: ../PabloZiliani1
+
+
+
+.. role:: small
+   :class: small
 
