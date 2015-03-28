@@ -1,18 +1,32 @@
-##master-page:HomepageTemplate
-#format wiki
-== yaco (Santiágo Peresón) ==
+#format rst
+## master-page:HomepageTemplate
 
-Correo electrónico: <<MailTo(yaco AT yaco DOT net)>>
+yaco (Santiágo Peresón)
+-----------------------
 
-  * Músico y programador. [[http://yaco.net/|yaco.net]]
+Correo electrónico: `[[MailTo(yaco AT yaco DOT net)]]`_
 
-  * Proyectos actuales:
+* Músico y programador. `yaco.net`_
 
-    * [[http://yaco.net/oe/|Oveja Eléctrica]]: un compositor no humano (mucho python, algo de C y programas auxiliares: csound, ecasound, sox...)
+* Proyectos actuales:
 
-    * [[http://yaco.net/listen/|Música]], mucha música. Por supuesto hay algo de python siempre metido en el origen de lo que se escucha.
+  * `Oveja Eléctrica`_: un compositor no humano (mucho python, algo de C y programas auxiliares: csound, ecasound, sox...)
 
-  * Nací en el 71, vivo en Caballito, Ciudad de Buenos Aires, tengo una hija (Azul) y un perro (Iván).
+  * `Música`_, mucha música. Por supuesto hay algo de python siempre metido en el origen de lo que se escucha.
 
-----
-CategoryHomepage
+* Nací en el 71, vivo en Caballito, Ciudad de Buenos Aires, tengo una hija (Azul) y un perro (Iván).
+
+-------------------------
+
+ CategoryHomepage_
+
+.. ############################################################################
+
+.. _yaco.net: http://yaco.net/
+
+.. _Oveja Eléctrica: http://yaco.net/oe/
+
+.. _Música: http://yaco.net/listen/
+
+.. _CategoryHomepage: ../CategoryHomepage
+
