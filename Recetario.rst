@@ -1,5 +1,3 @@
-#format rst
-#language es
 
 Recetario
 =========
@@ -397,73 +395,40 @@ Divertidos
 
 .. _Autocompletado en consola interactiva: /AutocomplecionEnConsolaInteractiva
 
-.. _aLetras: ../aLetras
 
-.. _Reverse: ../Reverse
 
-.. _ObtenerSensacionTermica: ../ObtenerSensacionTermica
 
-.. _Django/TestFormularioConFileUpload: ../Django/TestFormularioConFileUpload
 
-.. _Django/ObtenerClaseOriginalCuandoHayHerencia: ../Django/ObtenerClaseOriginalCuandoHayHerencia
 
 .. _Hola Mundo: /Bottle/HolaMundo
 
 .. _Mini Galeria de Imagenes: /Bottle/Galeria
 
-.. _GtkGladeSignals: ../GtkGladeSignals
 
-.. _QtMultiThread: ../QtMultiThread
 
-.. _PythonCard: ../PythonCard
 
-.. _ttkHolamundo: ../ttkHolamundo
 
-.. _tkWindowIcon: ../tkWindowIcon
 
-.. _tkButtonIcon: ../tkButtonIcon
 
-.. _tkScrollWhell: ../tkScrollWhell
 
-.. _tkOnlineOfflineIcon: ../tkOnlineOfflineIcon
 
-.. _tkVersionPrint: ../tkVersionPrint
 
-.. _GTKonTK: ../GTKonTK
 
-.. _TKWizards: ../TKWizards
 
-.. _DisplayLCD7Segmentos: ../DisplayLCD7Segmentos
 
-.. _BotonGraficoTK: ../BotonGraficoTK
 
-.. _VentanaPasswordVibra: ../VentanaPasswordVibra
 
-.. _RelojDigital: ../RelojDigital
 
-.. _ComunicarThreadsConQueue: ../ComunicarThreadsConQueue
 
-.. _ComoLevantarUnServidorHttpSimple: ../ComoLevantarUnServidorHttpSimple
 
-.. _ComoLevantarUnServidorHttpMultithread: ../ComoLevantarUnServidorHttpMultithread
 
-.. _XmlADiccionario: ../XmlADiccionario
 
-.. _SimpleXmlElement: ../SimpleXmlElement
 
-.. _PyFpdf: ../PyFpdf
 
-.. _LocalsDeUnaFuncionQueLanzoUnaExcepcion: ../LocalsDeUnaFuncionQueLanzoUnaExcepcion
 
-.. _PsycoSpeedUp: ../PsycoSpeedUp
 
-.. _MapeandoMemoria: ../MapeandoMemoria
 
-.. _Xdg-Sudo: ../Xdg-Sudo
 
-.. _Chequeo de Paquetes, APT, Linux: ../Chequeo de Paquetes, APT, Linux
 
-.. _ipPublica: ../ipPublica
 
-.. _CategoryRecetas: ../CategoryRecetas
 
