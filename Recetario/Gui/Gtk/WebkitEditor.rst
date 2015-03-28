@@ -1,5 +1,3 @@
-#format rst
-## page was renamed from Recetario/Gtk/WebkitEditor
 
 Gtk Webkit Editor
 =================
@@ -10,7 +8,7 @@ para probarlo correlo, entra una direccion que empiece con http://, hace foco en
 
 un ejemplo de su uso (tarea del autor encontrar los cambios |;)|
 
-`attachment:webkit.png`_
+`webkit.png </wiki/Recetario/Gui/Gtk/WebkitEditor/attachment/585/webkit.png>`_
 
 ::
 
