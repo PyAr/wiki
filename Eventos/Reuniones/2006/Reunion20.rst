@@ -1,6 +1,3 @@
-#format rst
-## page was renamed from Eventos/Reuniones/Reunion20
-#acl ReadWriteGroup:read,write All:read
 
 PyAr Santa Fe - Reunión 20
 ==========================
