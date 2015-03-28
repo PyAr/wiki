@@ -1,4 +1,3 @@
-#format rst
 
 PyCon Argentina 2009
 ====================
@@ -25,4 +24,14 @@ Necesitan lugar para alojarse
 * **Mariano Guerra** - Coordino con quien quiera para ir al mismo hostel el viernes y posiblemente el sabado - `[[MailTo(luismarianoguerra AT gmail DOT com)]]`_ - Si alguien tiene un colchon/sofa por ahi no hago lugar ni ruido |:)|
 
 * **Manuel Kaufmann (humitos)** - viajaría el jueves a la tarde ya que a la mañana del viernes doy una charla y me quedaría hasta el domingo a la tarde/noche después del asado |:)| - `[[MailTo(humitos AT gmail DOT com)]]`_
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: strike
+   :class: strike
 
