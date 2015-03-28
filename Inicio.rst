@@ -1,7 +1,3 @@
-Bienvenid@s a la wiki de PyAr
-====================================
-
-
 Contenido
 ---------
 
