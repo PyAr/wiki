@@ -1,8 +1,10 @@
-##master-page:HomepageTemplate
-#format wiki
-== Marcos Dione ==
+#format rst
+## master-page:HomepageTemplate
 
-Email: <<MailTo(mdione AT grulic DOT org DOT ar)>>
+Marcos Dione
+------------
+
+Email: `[[MailTo(mdione AT grulic DOT org DOT ar)]]`_
 
 Soy de Córdoba, Córdoba (una es la ciudad, la otra la provincia, en ese orden, no vayan a confundir). Licenciado en Cs. de la Computación, FaMAF, UNC, 2004.
 
@@ -12,7 +14,15 @@ A nivel academia, soy profe en mi facu desde que me recibí, y antes tuve mis tr
 
 Llevo también 10 años participando en GrULiC, el lug local de alcance internacional. Mis proyectos hechos en python nunca les di mucha bola, así que no son conocidos.
 
-Tengo un [[http://grulicueva.homelinux.net/~mdione/glob/|glob]] en el que hablo de todo, no s;olo de python. De hecho hablo poco de python, porque hace rato que no desarrollo en forma continua.
+Tengo un glob_ en el que hablo de todo, no s;olo de python. De hecho hablo poco de python, porque hace rato que no desarrollo en forma continua.
 
-----
-CategoryHomepage
+-------------------------
+
+ CategoryHomepage_
+
+.. ############################################################################
+
+.. _glob: http://grulicueva.homelinux.net/~mdione/glob/
+
+.. _CategoryHomepage: ../CategoryHomepage
+
