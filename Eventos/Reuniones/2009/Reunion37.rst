@@ -1,5 +1,3 @@
-#format rst
-## page was renamed from Eventos/Reuniones/2011/Reunion37
 
 Reunión 37 - Sábado 22/08/09 - Bar "El Cairo", Rosario, Argentina - 15.00hs
 ---------------------------------------------------------------------------
