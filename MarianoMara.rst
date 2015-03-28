@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Mariano Mara
 ------------
@@ -27,5 +25,4 @@ Email: `[[MailTo(mariano.mara AT SPAMFREE gmail DOT com)]]`_
 
 .. ############################################################################
 
-.. _CategoryHomepage: ../CategoryHomepage
 
