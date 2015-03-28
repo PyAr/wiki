@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Maximiliano Churichi
 --------------------
@@ -14,5 +12,4 @@ Blog: http://www.weaponofchoice.com.ar
 
 .. ############################################################################
 
-.. _CategoryHomepage: ../CategoryHomepage
 
