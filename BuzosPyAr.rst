@@ -1,4 +1,3 @@
-#format rst
 
 **Buzos de Python Argentina!**
 
@@ -34,19 +33,17 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 
 **Fotos del producto terminado!**
 
-`attachment:2reducido.JPG`_
+`2reducido.JPG </wiki/BuzosPyAr/attachment/50/2reducido.JPG>`_
 
-`attachment:3reducido.JPG`_
+`3reducido.JPG </wiki/BuzosPyAr/attachment/42/3reducido.JPG>`_
 
-`attachment:4reducido.JPG`_
+`4reducido.JPG </wiki/BuzosPyAr/attachment/45/4reducido.JPG>`_
 
-`attachment:5reducido.JPG`_
+`5reducido.JPG </wiki/BuzosPyAr/attachment/47/5reducido.JPG>`_
 
 .. ############################################################################
 
-.. _PyAr: ../PyAr
 
 .. _acá: http://ubuntuone.com/4ApdQy8DQat4thlT5rvX1u
 
-.. _PyCamp: ../PyCamp
 
