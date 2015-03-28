@@ -1,66 +1,74 @@
-= ButtonBox =
+#format rst
+
+ButtonBox
+=========
 
 este ejemplo muestra como usar un contenedor de botones para agregar botones y hacer que mantengan su tamanio óptimo y se distribuyan por la pantalla de manera homogénea.
 
-{{attachment:buttonbox-demo.png}}
+`attachment:buttonbox-demo.png`_
 
-{{{
-#!code python
-import gtk
+::
 
-window = gtk.Window()
-window.set_default_size(640, 480)
-window.set_title("button box demo")
+   .. raw:: html
+      <span class="line"><span class="kn">import</span> <span class="nn">gtk</span>
+      </span><span class="line">
+      </span><span class="line"><span class="n">window</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">Window</span><span class="p">()</span>
+      </span><span class="line"><span class="n">window</span><span class="o">.</span><span class="n">set_default_size</span><span class="p">(</span><span class="mi">640</span><span class="p">,</span> <span class="mi">480</span><span class="p">)</span>
+      </span><span class="line"><span class="n">window</span><span class="o">.</span><span class="n">set_title</span><span class="p">(</span><span class="s">&quot;button box demo&quot;</span><span class="p">)</span>
+      </span><span class="line">
+      </span><span class="line"><span class="n">vbox</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">VBox</span><span class="p">()</span>
+      </span><span class="line">
+      </span><span class="line"><span class="n">hbox1</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">HButtonBox</span><span class="p">()</span>
+      </span><span class="line"><span class="n">hbox1</span><span class="o">.</span><span class="n">pack_start</span><span class="p">(</span><span class="n">gtk</span><span class="o">.</span><span class="n">Button</span><span class="p">(</span><span class="n">stock</span><span class="o">=</span><span class="n">gtk</span><span class="o">.</span><span class="n">STOCK_OK</span><span class="p">))</span>
+      </span><span class="line">
+      </span><span class="line"><span class="k">def</span> <span class="nf">build_bbox</span><span class="p">():</span>
+      </span><span class="line">        <span class="sd">&quot;&quot;&quot;build a hbox fill it with example buttons and return it&quot;&quot;&quot;</span>
+      </span><span class="line">        <span class="n">hbox</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">HButtonBox</span><span class="p">()</span>
+      </span><span class="line">
+      </span><span class="line">        <span class="n">hbox</span><span class="o">.</span><span class="n">pack_start</span><span class="p">(</span><span class="n">gtk</span><span class="o">.</span><span class="n">Button</span><span class="p">(</span><span class="n">stock</span><span class="o">=</span><span class="n">gtk</span><span class="o">.</span><span class="n">STOCK_YES</span><span class="p">))</span>
+      </span><span class="line">        <span class="n">hbox</span><span class="o">.</span><span class="n">pack_start</span><span class="p">(</span><span class="n">gtk</span><span class="o">.</span><span class="n">Button</span><span class="p">(</span><span class="n">stock</span><span class="o">=</span><span class="n">gtk</span><span class="o">.</span><span class="n">STOCK_NO</span><span class="p">))</span>
+      </span><span class="line">
+      </span><span class="line">        <span class="k">return</span> <span class="n">hbox</span>
+      </span><span class="line">
+      </span><span class="line"><span class="n">hbox2</span> <span class="o">=</span> <span class="n">build_bbox</span><span class="p">()</span>
+      </span><span class="line"><span class="n">hbox2</span><span class="o">.</span><span class="n">set_layout</span><span class="p">(</span><span class="n">gtk</span><span class="o">.</span><span class="n">BUTTONBOX_SPREAD</span><span class="p">)</span>
+      </span><span class="line">
+      </span><span class="line"><span class="n">hbox3</span> <span class="o">=</span> <span class="n">build_bbox</span><span class="p">()</span>
+      </span><span class="line"><span class="n">hbox3</span><span class="o">.</span><span class="n">set_layout</span><span class="p">(</span><span class="n">gtk</span><span class="o">.</span><span class="n">BUTTONBOX_EDGE</span><span class="p">)</span>
+      </span><span class="line">
+      </span><span class="line"><span class="n">hbox4</span> <span class="o">=</span> <span class="n">build_bbox</span><span class="p">()</span>
+      </span><span class="line"><span class="n">hbox4</span><span class="o">.</span><span class="n">set_layout</span><span class="p">(</span><span class="n">gtk</span><span class="o">.</span><span class="n">BUTTONBOX_START</span><span class="p">)</span>
+      </span><span class="line">
+      </span><span class="line"><span class="n">hbox5</span> <span class="o">=</span> <span class="n">build_bbox</span><span class="p">()</span>
+      </span><span class="line"><span class="n">hbox5</span><span class="o">.</span><span class="n">set_layout</span><span class="p">(</span><span class="n">gtk</span><span class="o">.</span><span class="n">BUTTONBOX_END</span><span class="p">)</span>
+      </span><span class="line">
+      </span><span class="line"><span class="n">hbox6</span> <span class="o">=</span> <span class="n">build_bbox</span><span class="p">()</span>
+      </span><span class="line"><span class="n">hbox6</span><span class="o">.</span><span class="n">set_layout</span><span class="p">(</span><span class="n">gtk</span><span class="o">.</span><span class="n">BUTTONBOX_END</span><span class="p">)</span>
+      </span><span class="line"><span class="n">help_button</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">Button</span><span class="p">(</span><span class="n">stock</span><span class="o">=</span><span class="n">gtk</span><span class="o">.</span><span class="n">STOCK_HELP</span><span class="p">)</span>
+      </span><span class="line"><span class="n">hbox6</span><span class="o">.</span><span class="n">pack_start</span><span class="p">(</span><span class="n">help_button</span><span class="p">)</span>
+      </span><span class="line"><span class="n">hbox6</span><span class="o">.</span><span class="n">set_child_secondary</span><span class="p">(</span><span class="n">help_button</span><span class="p">,</span> <span class="bp">True</span><span class="p">)</span>
+      </span><span class="line">
+      </span><span class="line"><span class="n">vbox</span><span class="o">.</span><span class="n">pack_start</span><span class="p">(</span><span class="n">hbox1</span><span class="p">)</span>
+      </span><span class="line"><span class="n">vbox</span><span class="o">.</span><span class="n">pack_start</span><span class="p">(</span><span class="n">hbox2</span><span class="p">)</span>
+      </span><span class="line"><span class="n">vbox</span><span class="o">.</span><span class="n">pack_start</span><span class="p">(</span><span class="n">hbox3</span><span class="p">)</span>
+      </span><span class="line"><span class="n">vbox</span><span class="o">.</span><span class="n">pack_start</span><span class="p">(</span><span class="n">hbox4</span><span class="p">)</span>
+      </span><span class="line"><span class="n">vbox</span><span class="o">.</span><span class="n">pack_start</span><span class="p">(</span><span class="n">hbox5</span><span class="p">)</span>
+      </span><span class="line"><span class="n">vbox</span><span class="o">.</span><span class="n">pack_start</span><span class="p">(</span><span class="n">hbox6</span><span class="p">)</span>
+      </span><span class="line">
+      </span><span class="line"><span class="n">window</span><span class="o">.</span><span class="n">add</span><span class="p">(</span><span class="n">vbox</span><span class="p">)</span>
+      </span><span class="line"><span class="n">window</span><span class="o">.</span><span class="n">show_all</span><span class="p">()</span>
+      </span><span class="line">
+      </span><span class="line"><span class="n">window</span><span class="o">.</span><span class="n">connect</span><span class="p">(</span><span class="s">&#39;destroy&#39;</span><span class="p">,</span> <span class="n">gtk</span><span class="o">.</span><span class="n">main_quit</span><span class="p">)</span>
+      </span><span class="line">
+      </span><span class="line"><span class="n">gtk</span><span class="o">.</span><span class="n">main</span><span class="p">()</span>
+      </span>
 
-vbox = gtk.VBox()
+Mas Información
+---------------
 
-hbox1 = gtk.HButtonBox()
-hbox1.pack_start(gtk.Button(stock=gtk.STOCK_OK))
+* http://pygtk.org/docs/pygtk/class-gtkhbuttonbox.html
 
-def build_bbox():
-	"""build a hbox fill it with example buttons and return it"""
-	hbox = gtk.HButtonBox()
+* http://pygtk.org/docs/pygtk/class-gtkbuttonbox.html
 
-	hbox.pack_start(gtk.Button(stock=gtk.STOCK_YES))
-	hbox.pack_start(gtk.Button(stock=gtk.STOCK_NO))
+* http://pygtk.org/docs/pygtk/class-gtkbox.html
 
-	return hbox
-
-hbox2 = build_bbox()
-hbox2.set_layout(gtk.BUTTONBOX_SPREAD)
-
-hbox3 = build_bbox()
-hbox3.set_layout(gtk.BUTTONBOX_EDGE)
-
-hbox4 = build_bbox()
-hbox4.set_layout(gtk.BUTTONBOX_START)
-
-hbox5 = build_bbox()
-hbox5.set_layout(gtk.BUTTONBOX_END)
-
-hbox6 = build_bbox()
-hbox6.set_layout(gtk.BUTTONBOX_END)
-help_button = gtk.Button(stock=gtk.STOCK_HELP)
-hbox6.pack_start(help_button)
-hbox6.set_child_secondary(help_button, True)
-
-vbox.pack_start(hbox1)
-vbox.pack_start(hbox2)
-vbox.pack_start(hbox3)
-vbox.pack_start(hbox4)
-vbox.pack_start(hbox5)
-vbox.pack_start(hbox6)
-
-window.add(vbox)
-window.show_all()
-
-window.connect('destroy', gtk.main_quit)
-
-gtk.main()
-}}}
-
-== Mas Información ==
-
- * http://pygtk.org/docs/pygtk/class-gtkhbuttonbox.html
- * http://pygtk.org/docs/pygtk/class-gtkbuttonbox.html
- * http://pygtk.org/docs/pygtk/class-gtkbox.html
