@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Dieresys
 --------
@@ -22,5 +20,4 @@ Matches: from:(enri57ar(AT)gmail.com) Do this: Skip Inbox, Delete it
 
 .. ############################################################################
 
-.. _CategoryHomepage: ../CategoryHomepage
 
