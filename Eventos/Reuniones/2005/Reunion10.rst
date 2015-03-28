@@ -1,5 +1,3 @@
-#format rst
-## page was renamed from Eventos/Reuniones/Reunion10
 
 Reunión 10 - 09/06/2005 - Hip Bar
 =================================
