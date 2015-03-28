@@ -1,4 +1,3 @@
-#format rst
 
 Mini Galeria de Imagenes Bottle
 ===============================
