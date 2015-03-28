@@ -1,5 +1,3 @@
-#format rst
-#acl AdminGroup:admin,read,write,delete,revert All:read
 
 Banderas propuestas
 ===================
@@ -307,11 +305,9 @@ Pablo6
 
 .. ############################################################################
 
-.. _Resultados: ../resultados
 
 .. _Creative Commons Atribución-NoComercial 2.5 Argentina: http://creativecommons.org/licenses/by-nc/2.5/ar/
 
 .. _reglas del concurso: Bandera
 
-.. _Banderas Descalificadas: ../descalificadas
 
