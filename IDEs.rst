@@ -1,4 +1,3 @@
-#format rst
 
 Comparación de entornos de desarrollo
 =====================================
@@ -180,21 +179,14 @@ Scribes_ es un editor de textos para GNOME escrito en Python. Entre sus `caracte
 
 .. _PyCharm: http://www.jetbrains.com/pycharm/index.html
 
-.. _JetBrains: ../JetBrains
 
-.. _PyQt: ../PyQt
 
-.. _PyAr: ../PyAr
 
 .. _Spyder: http://packages.python.org/spyder/
 
-.. _NumPy: ../NumPy
 
-.. _SciPy: ../SciPy
 
-.. _MayaVi: ../MayaVi
 
-.. _PyQt4: ../PyQt4
 
 .. _Scribes: http://scribes.sourceforge.net/
 
