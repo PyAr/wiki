@@ -1,9 +1,3 @@
-#format rst
-## Please edit system and help pages ONLY in the moinmaster wiki! For more
-## information, please see MoinMaster:MoinPagesEditorGroup.
-## master-page:Unknown-Page
-## master-date:Unknown-Date
-#acl MoinPagesEditorGroup:read,write,delete,revert All:read
 
 UserPreferences_
 
@@ -40,7 +34,5 @@ La galleta expirará en la próxima medianoche - excepto si escoge **`[[GetText(
 
 .. ############################################################################
 
-.. _UserPreferences: ../UserPreferences
 
-.. _NombreWiki: ../NombreWiki
 
