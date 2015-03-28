@@ -1,4 +1,3 @@
-#format rst
 
 Guardar historial en consola interactiva
 ========================================
