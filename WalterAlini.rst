@@ -1,10 +1,17 @@
-##master-page:HomepageTemplate
-#format wiki
-== Walter Alini ==
+#format rst
+## master-page:HomepageTemplate
 
-Email: <<MailTo(walini AT machinalis DOT com)>> <<BR>>
-Nick en #pyar: walteralini
+Walter Alini
+------------
 
+Email: `[[MailTo(walini AT machinalis DOT com)]]`_
+ Nick en #pyar: walteralini
 
-----
-CategoryHomepage
+-------------------------
+
+ CategoryHomepage_
+
+.. ############################################################################
+
+.. _CategoryHomepage: ../CategoryHomepage
+
