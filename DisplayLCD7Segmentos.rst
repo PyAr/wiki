@@ -1,4 +1,3 @@
-#format rst
 
 Display LCD de 7 Segmentos
 ==========================
@@ -11,7 +10,7 @@ Util para importarlo dentro de otro programa para representar otras cosas.
 
 **Screenshot:**
 
-`attachment:temp.jpg`_
+`temp.jpg </wiki/DisplayLCD7Segmentos/attachment/69/temp.jpg>`_
 
 ::
 
