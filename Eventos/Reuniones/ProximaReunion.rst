@@ -1,8 +1,3 @@
-#format rst
-#acl Known:read,write All:read
-#language es
-## No borres el siguiente párrafo! Comentalo. Así, pasada la reunión,
-## lo descomentamos y listo (es el texto estándar que mostramos cuando
 
 Próximas Reuniones
 ==================
@@ -19,7 +14,5 @@ La última reunión que se hizo fue la 63_.
 
 .. ############################################################################
 
-.. _Release Procedure: ../ReleaseProcedure
 
-.. _63: ../2014/Reunion63
 
