@@ -1,25 +1,42 @@
-= Torneo Ping Pong =
+#format rst
 
-== Lugar ==
+Torneo Ping Pong
+================
 
- * La cancha de Ping Pong que está afuera (es la única que tiene red, si se consigue una red para la otra, mejor)
+Lugar
+-----
 
-== Horario ==
+* La cancha de Ping Pong que está afuera (es la única que tiene red, si se consigue una red para la otra, mejor)
 
- * A confirmar
-   * Puede ser hoy (Sábado) por la noche, pero no sabemos si va a alcanzar la luz chiquita está al lado
-   * Domingo: confirmar el horario
+Horario
+-------
 
-== Inscriptos ==
+* A confirmar
 
-Anotate en el siguiente lista para participar del torneo: ''el que no se anotó '''perdió''' ''
+  * Puede ser hoy (Sábado) por la noche, pero no sabemos si va a alcanzar la luz chiquita está al lado
 
- * Humitos
- * Pablo
- * Javimansilla
- * Facubatista
- * Manuq
- * Fisa
- * JuanjoConti
- * Luciano
- * Pablo Mouzo
+  * Domingo: confirmar el horario
+
+Inscriptos
+----------
+
+Anotate en el siguiente lista para participar del torneo: *el que no se anotó* **perdió** 
+
+* Humitos
+
+* Pablo
+
+* Javimansilla
+
+* Facubatista
+
+* Manuq
+
+* Fisa
+
+* JuanjoConti_
+
+* Luciano
+
+* Pablo Mouzo
+
