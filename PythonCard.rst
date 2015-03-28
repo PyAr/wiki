@@ -1,4 +1,3 @@
-#format rst
 
 PythonCard
 ==========
@@ -81,7 +80,7 @@ Editor de Pantallas
 
 PythonCard viene con un editor de pantallas (resource/layout editor), se encuentra en el menu Inicio, PythonCard, Layout Editor (o buscar el script en C:\Python25\Lib\site-packages\PythonCard\tools\resourceEditor\layoutEditor.py o similar para la plataforma en que estemos). Debería aparecer la pantalla de edición (ver imágenes y más información en `sitio de PythonCard <http://pythoncard.sourceforge.net/resource_editor_overview.html>`__):
 
-`attachment:pycard1.png`_
+`pycard1.png </wiki/PythonCard/attachment/32/pycard1.png>`_
 
 Ejemplo de como crear una aplicación de prueba (que tome una expresión/comando python ingresado por el usuario y devuelva su resultado):
 
@@ -124,7 +123,7 @@ Editor de Código
 
 PythonCard viene tambien con un editor de código, se encuentra en el menú Inicio, PythonCard, Code Editor (o buscar el script en C:\Python25\Lib\site-packages\PythonCard\tools\resourceEditor\codeEditor.py o similar para la plataforma en que estemos). También esta el *Tabbed Code Editor* que nos permite editar múltiples archivos y seleccionar los componentes y sus eventos. Debería aparecer la pantalla de edición de código (ver imágenes y más información en `sitio de PythonCard <http://pythoncard.sourceforge.net/tools/codeEditor.html>`__):
 
-`attachment:pycard2.png`_
+`pycard2.png </wiki/PythonCard/attachment/33/pycard2.png>`_
 
 Continuando con el ejemplo de como crear una aplicación de prueba (ver sección anterior):
 
@@ -175,14 +174,14 @@ Código completo final del ejemplo:
 
 **Nota**: Por ser un ejemplo se obviaron temas de manejo de excepciones y cuestiones avanzadas. Se pueden descargar los archivos terminados:
 
-* `attachment:prueba.py`_prueba.py`attachment:None`_
+* 
 
-* `attachment:prueba.rsrc.py`_prueba.rsrc.py`attachment:None`_
+* 
 
 Pantalla del ejemplo ejecutandose:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`attachment:prueba.png`_
+`prueba.png </wiki/PythonCard/attachment/30/prueba.png>`_
 
 .. ############################################################################
 
@@ -194,5 +193,4 @@ Pantalla del ejemplo ejecutandose:
 
 .. _sitio de PythonCard: http://pythoncard.sourceforge.net/samples/samples.html
 
-.. _SourceForgeTracker: ../SourceForgeTracker
 
