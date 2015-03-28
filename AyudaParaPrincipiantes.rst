@@ -1,9 +1,3 @@
-#format rst
-## Please edit system and help pages ONLY in the moinmaster wiki! For more
-## information, please see MoinMaster:MoinPagesEditorGroup.
-## master-page:HelpForBeginners
-## master-date:Unknown-Date
-#acl MoinPagesEditorGroup:read,write,delete,revert All:read
 
 Un WikiWikiWeb_ es un ambiente colaborativo hipertextual, con un énfasis en el fácil acceso y modificación de información.
 
@@ -33,37 +27,20 @@ Más ayuda en las páginas AyudaDeContenidos_ e `ÍndiceDeAyuda`_.
 
 .. ############################################################################
 
-.. _WikiWikiWeb: ../WikiWikiWeb
 
-.. _NombreWiki: ../NombreWiki
 
-.. _AyudaSobreCreaciónDePáginas: ../AyudaSobreCreaciónDePáginas
 
-.. _AreaDePráctica: ../AreaDePráctica
 
-.. _WhyWikiWorks: ../wiki:Wiki:WhyWikiWorks
 
-.. _WikiNature: ../wiki:Wiki:WikiNature
 
-.. _WikiWikiWebFaq: ../wiki:Wiki:WikiWikiWebFaq
 
-.. _OneMinuteWiki: ../wiki:Wiki:OneMinuteWiki
 
-.. _InterWiki: ../InterWiki
 
-.. _CambiosRecientes: ../CambiosRecientes
 
-.. _BuscarPágina: ../BuscarPágina
 
-.. _ÍndicePorTítulos: ../ÍndicePorTítulos
 
-.. _ÍndicePorPalabras: ../ÍndicePorPalabras
 
-.. _NavegaciónDelSitio: ../NavegaciónDelSitio
 
-.. _AyudaSobreEdición: ../AyudaSobreEdición
 
-.. _AyudaDeContenidos: ../AyudaDeContenidos
 
-.. _ÍndiceDeAyuda: ../ÍndiceDeAyuda
 
