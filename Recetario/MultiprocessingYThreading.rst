@@ -1,4 +1,3 @@
-#format rst
 
 Multiprocessing y Threading
 ---------------------------
