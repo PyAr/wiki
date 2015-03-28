@@ -1,22 +1,51 @@
-= 2005 =
+#format rst
 
+2005
+====
 
-==== 07/07/2005 ====
- * Última edición de [[Noticias/Inmersion54|Inmersión en Python]].
+07/07/2005
+::::::::::
 
-==== 25/04/2005 ====
- * NubIs nos muestra su script [[Noticias/FotoByMail|Foto by Mail]].
+* Última edición de `Inmersión en Python`_.
 
-==== 15/04/2005 ====
- * LucioTorre nos da detalles sobre [[Proyectos/PythonPalm|Python para PalmOS]] (en inglés).
+25/04/2005
+::::::::::
 
-==== 11/04/2005 ====
- * Está disponible la minuta de la [[Eventos/Reuniones/Reunion07|Reunión 7]] y la agenda que intentamos seguir en la próxima reunión ([[Eventos/Reuniones/Reunion08|Reunión 8]]).
+* NubIs_ nos muestra su script `Foto by Mail`_.
 
-==== 19/01/2005 ====
- * PyAr tiene su [[ListaDeCorreo|lista de correo]].
+15/04/2005
+::::::::::
 
+* LucioTorre_ nos da detalles sobre `Python para PalmOS`_ (en inglés).
 
-== Anteriores ==
+11/04/2005
+::::::::::
 
- * [[Noticias/2004 |Año 2004]]
+* Está disponible la minuta de la `Reunión 7`_ y la agenda que intentamos seguir en la próxima reunión (`Reunión 8`_).
+
+19/01/2005
+::::::::::
+
+* PyAr_ tiene su `lista de correo`_.
+
+Anteriores
+----------
+
+* `Año 2004`_
+
+.. ############################################################################
+
+.. _Inmersión en Python: ../Inmersion54
+
+.. _Foto by Mail: ../FotoByMail
+
+.. _Python para PalmOS: Proyectos/PythonPalm
+
+.. _Reunión 7: Eventos/Reuniones/Reunion07
+
+.. _Reunión 8: Eventos/Reuniones/Reunion08
+
+.. _lista de correo: ListaDeCorreo
+
+.. _Año 2004: ../2004
+
