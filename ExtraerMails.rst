@@ -1,4 +1,3 @@
-#format rst
 
 Extraer direcciones de email de un texto
 ----------------------------------------
@@ -28,5 +27,4 @@ http://code.activestate.com/recipes/138889-extract-email-addresses-from-files/
 
 .. ############################################################################
 
-.. _JuanjoConti: ../JuanjoConti
 
