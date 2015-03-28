@@ -1,10 +1,21 @@
-== Ezequiel Diaz Marquez ==
+#format rst
 
-Email: <<MailTo(exe.zaid AT SPAMFREE gmail DOT com)>>
+Ezequiel Diaz Marquez
+---------------------
 
-[[http://ezequielmarquez.com.ar/|Web Site]]
+Email: `[[MailTo(exe.zaid AT SPAMFREE gmail DOT com)]]`_
 
+`Web Site`_
 
-<<Twitter(usuario="exezaid")>>
-----
-CategoryHomepage
+`[[Twitter(usuario="exezaid")]]`_
+
+-------------------------
+
+ CategoryHomepage_
+
+.. ############################################################################
+
+.. _Web Site: http://ezequielmarquez.com.ar/
+
+.. _CategoryHomepage: ../CategoryHomepage
+
