@@ -1,31 +1,61 @@
-= Interesados en recibir ofertas de trabajo utilizando Python =
+#format rst
+
+Interesados en recibir ofertas de trabajo utilizando Python
+===========================================================
+
 Si usted se inscribe acá probablemente reciba emails contactándolo.
-||<tablewidth="867px" tableheight="754px" tablestyle="">'''Quien''' ||'''Sólo Freelance''' ||'''Sólo Rel. de Dependencia''' ||'''Unicamente en''' ||
-||AlejandroDavidWeil ||                        ||                        ||Cap. Federal y Gran Buenos Aires ||
-||FacundoBatista ||                        ||                        ||                        ||
-||GuillermoFreschi ||                        ||                        ||Chaco y Corrientes (físicamente) ||
-||MarceloAlaniz ||                        ||                        ||San Luis (físicamente) ||
-||SantiagoSuarezO ||                        ||                        ||                        ||
-||JohnLenton ||                        ||                        ||Córdoba (físicamente) ||
-||[[http://gonzalodelgado.com.ar/|Gonzalo Delgado]] ||                        ||                        ||Tucumán, trabajo remotamente ||
-||HernanOlivera ||                        ||                        ||(teletrabajo) ||
-||[[http://www.python.com.ar/moin/arturoeanton|Arturo Elias Anton]] ||                        ||                        ||                        ||
-||RicardoKirkner ||                        ||                        ||                        ||
-||MartinBorthiry ||                        ||                        ||Mar del Plata (teletrabajo) ||
-||RobertoRodríguez ||                        ||                        ||Capital Federal y GBA ||
-||RenzoCarbonara ||                        ||                        ||Freelance||
-||[[http://www.estebanfeldman.com/|EstebanFeldman]] ||Sí ||No ||                        ||
-||EstebanKüber <<MailTo(ekuber EN gmail PUNTO com)>> ||                        ||                        ||Capital Federal ||
-||PabloZiliani ||                        ||                        ||                        ||
-||[[http://www.l2radamanthys.com.ar|RicardoD.Quiroga]] ||                        ||                        ||                        ||
-||[[http://www.pguridi.com|Pedro Guridi]] ||                        ||                        ||Capital Federal, trabajo remotamente. ||
-||Pablo Lerner ||Sí ||                        ||Capital Federal ||
-||AlbertoPaparelli ||                        ||                        ||Capital Federal, GBA Zona Sur ||
-||ManuelQuiñones ||Sí ||No ||Santa Fe, Trabajo remotamente ||
-||MartinAlderete ||Sí ||No ||Trabajo remotamente ||
-||MartinGalan - <<MailTo(chinomng EN gmail PUNTO com)>> ||Sí ||No ||Santa Fe, trabajo remotamente ||
-||Canicue  - <<MailTo(canicue EN gmail PUNTO com)>> ||Sí ||No ||Mar del Plata,trabajo remotamente ||
-||EzequielMarquez ||                        ||                        ||S.M. de Tucumán, trabajo remotamente ||
-||Daniel Ceillan  - <<MailTo(codigodaniel EN gmail PUNTO com)>> ||Sí ||Sí ||Disponible para viajar, europa preferentemente. ||
-||AdrianPardini || Si || Si || Preferentemente teletrabajo. Zona La Plata||
-||MartinChikilian ||Sí ||No ||Córdoba, trabajo remotamente ||
+
+<strong class="highlight">.. raw:: html
+
+</strong>[Table not converted]
+
+.. ############################################################################
+
+.. _AlejandroDavidWeil: ../AlejandroDavidWeil
+
+.. _FacundoBatista: ../FacundoBatista
+
+.. _GuillermoFreschi: ../GuillermoFreschi
+
+.. _MarceloAlaniz: ../MarceloAlaniz
+
+.. _JohnLenton: ../JohnLenton
+
+.. _Gonzalo Delgado: http://gonzalodelgado.com.ar/
+
+.. _HernanOlivera: ../HernanOlivera
+
+.. _Arturo Elias Anton: http://www.python.com.ar/moin/arturoeanton
+
+.. _RicardoKirkner: ../RicardoKirkner
+
+.. _MartinBorthiry: ../MartinBorthiry
+
+.. _RobertoRodríguez: ../RobertoRodríguez
+
+.. _RenzoCarbonara: ../RenzoCarbonara
+
+.. _EstebanFeldman: http://www.estebanfeldman.com/
+
+.. _EstebanKüber: ../EstebanKüber
+
+.. _PabloZiliani: ../PabloZiliani
+
+.. _RicardoD.Quiroga: http://www.l2radamanthys.com.ar
+
+.. _Pedro Guridi: http://www.pguridi.com
+
+.. _AlbertoPaparelli: ../AlbertoPaparelli
+
+.. _ManuelQuiñones: ../ManuelQuiñones
+
+.. _MartinAlderete: ../MartinAlderete
+
+.. _MartinGalan: ../MartinGalan
+
+.. _EzequielMarquez: ../EzequielMarquez
+
+.. _AdrianPardini: ../AdrianPardini
+
+.. _MartinChikilian: ../MartinChikilian
+
