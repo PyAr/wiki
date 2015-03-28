@@ -1,7 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
-#acl MatiasGieco:admin,read,write,delete,revert All:read
-#language es
 
 Matias Gieco
 ------------
@@ -78,9 +74,7 @@ Si quieren algún otro usuario y contraseña de algún otro servicio, manden un 
 
 .. _LinkedIn: http://www.linkedin.com/in/matiasgieco
 
-.. _PyAr: ../PyAr
 
 .. _Mis Pruebas: http://python.com.ar/pyar/MatiasGieco/prueba01
 
-.. _CategoryHomepage: ../CategoryHomepage
 
