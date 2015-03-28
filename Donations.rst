@@ -1,4 +1,3 @@
-#format rst
 
 Donations
 =========
@@ -40,7 +39,5 @@ Thank you!
 
 .. ############################################################################
 
-.. _PyAr: ../PyAr
 
-.. _Versión en Español: ../Donaciones
 
