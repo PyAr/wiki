@@ -1,9 +1,10 @@
-= Página del articulo Depuración y defragmentación de memoria de la PET2 =
+#format rst
 
-|| Tarea || Check ||
-|| Revision ortografica || ||
-|| Test snipets || ||
-|| Revision gramatica y logica || ||
-|| Revision markup reST || ||
+Página del articulo Depuración y defragmentación de memoria de la PET2
+======================================================================
 
-== Observaciones ==
+[Table not converted]
+
+Observaciones
+-------------
+
