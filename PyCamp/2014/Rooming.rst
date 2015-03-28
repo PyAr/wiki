@@ -1,4 +1,3 @@
-#format rst
 
 Distribución de humanoides en habitaciones
 ------------------------------------------
