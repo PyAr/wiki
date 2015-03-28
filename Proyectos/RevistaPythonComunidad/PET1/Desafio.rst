@@ -1,4 +1,3 @@
-#format rst
 
 Esta página tiene como objetivo darle soporte al desafío planteado en el primer número de la revista PET.
 
@@ -19,7 +18,7 @@ Uso/*Use*:
       <span class="line"><span class="gp">some@example~:$</span> ./pet1-test.sh pet1-ejemplo.py
       </span>
 
-`attachment:pet1-test`_Descargar`attachment:None`_ `attachment:pet1-test2`_Descargar`attachment:None`_ (pet1-test2 no tiene en cuenta el stderr/ *pet-test2 is like 1 but without stderr*)
+ (pet1-test2 no tiene en cuenta el stderr/ *pet-test2 is like 1 but without stderr*)
 
 Los caracteres se cuentan con / *Characters are counted with:*
 
