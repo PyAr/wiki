@@ -1,4 +1,3 @@
-#format rst
 
 Xml a diccionario
 -----------------
@@ -152,7 +151,5 @@ Simplemente creamos un objeto de tipo XmlParser_ pasandole el string y obtenemos
 
 .. ############################################################################
 
-.. _XmlParser: ../XmlParser
 
-.. _DictObj: ../DictObj
 
