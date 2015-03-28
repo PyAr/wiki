@@ -1,4 +1,3 @@
-#format rst
 
 TransportSurfing en PyConAr2013
 ===============================
