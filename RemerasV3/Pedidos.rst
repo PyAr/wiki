@@ -1,4 +1,3 @@
-#format rst
 
 Aprovechen antes de que limpiemos los shablones!
 ================================================
