@@ -1,4 +1,3 @@
-#format rst
 
 Call for Charlas Pyconar 2011
 =============================
@@ -80,7 +79,6 @@ Debe especificarse una licencia **que permita** que PyAr_ distribuya el material
 
 .. ############################################################################
 
-.. _PyAr: ../PyAr
 
 .. _Pueden consultar el documento sobre Becas para PyConAr 2011 si necesitan ayuda económica para asistir al evento: http://python.org.ar/pyar/BecasPyconar2011
 
