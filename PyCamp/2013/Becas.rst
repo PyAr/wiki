@@ -1,4 +1,3 @@
-#format rst
 
 Ayuda económica para ir al PyCamp
 ---------------------------------
@@ -19,7 +18,6 @@ Obviamente, cuando la beca se otorgue, tendrán que pagar el resto del monto seg
 
 .. ############################################################################
 
-.. _temas para trabajar en el PyCamp: ../TemasPropuestos
 
 .. _la página del PyCamp: PyCamp/2013
 
