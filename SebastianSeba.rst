@@ -1,9 +1,18 @@
- * '''Twitter:''' [[https://twitter.com/ssebastianj]]
+#format rst
 
- * '''GitHub:''' [[https://github.com/ssebastianj]]
+* **Twitter:** https://twitter.com/ssebastianj
 
- * '''BitBucket:''' [[https://bitbucket.org/ssebastianj]]
+* GitHub_**:** https://github.com/ssebastianj
 
- * '''Facebook:''' [[https://facebook.com/ssebastianj]]
+* BitBucket_**:** https://bitbucket.org/ssebastianj
 
- * '''Blog:''' [[http://ssebastianj.github.io]]
+* **Facebook:** https://facebook.com/ssebastianj
+
+* **Blog:** http://ssebastianj.github.io
+
+.. ############################################################################
+
+.. _GitHub: ../GitHub
+
+.. _BitBucket: ../BitBucket
+
