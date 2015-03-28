@@ -1,4 +1,3 @@
-#format rst
 
 Twisted
 :::::::
@@ -11,7 +10,7 @@ Twisted
 
 * 13 a 15 horas
 
-* Presentación y código `attachment:twisted-tribu.tgz`_twisted-tribu.tgz`attachment:None`_
+* Presentación y código 
 
 `[[Video(http://pyar.usla.org.ar/final/twisted.ogv)]]`_
 
