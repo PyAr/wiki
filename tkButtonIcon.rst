@@ -1,70 +1,75 @@
-== tkButtonIcon ==
+#format rst
+
+tkButtonIcon
+------------
 
 Crea botones con Iconos. Si es en Windows sacar el '@'+ de la ruta al icono. Los archivos se pueden pasar a .XBM con Gimp.
 
 Ideal para crear mini-toolbars con iconos personalizados.
 
-{{{
-#!code python
-#!code python
-#!/usr/bin/env python
-#-*- coding:utf-8 -*-
+::
 
-from Tkinter import *
-root = Tk()
-#
-boton1 = Button(root, bitmap='error')
-boton1.pack()
-boton2 = Button(root, bitmap='hourglass')
-boton2.pack()
-boton3 = Button(root, bitmap='info')
-boton3.pack()
-boton4 = Button(root, bitmap='questhead')
-boton4.pack()
-boton5 = Button(root, bitmap='warning')
-boton5.pack()
-boton6 = Button(root, bitmap='question')
-boton6.pack()
-boton7 = Button(root, bitmap='gray75')
-boton7.pack()
-boton8 = Button(root, bitmap='gray50')
-boton8.pack()
-boton9 = Button(root, bitmap='gray25')
-boton9.pack()
-boton10 = Button(root, bitmap='gray12')
-boton10.pack()
-boton11 = Button(root, bitmap=('@'+'/usr/include/X11/bitmaps/icon'), state=DISABLED)
-boton11.pack()
-boton12 = Button(root, bitmap=('@'+'/usr/include/X11/bitmaps/calculator'), cursor='hand2')
-boton12.pack()
-boton13 = Button(root, bitmap=('@'+'/usr/include/X11/bitmaps/boxes'), relief=FLAT)
-boton13.pack()
-boton14 = Button(root, bitmap=('@'+'/usr/include/X11/bitmaps/noletters'), bg='green')
-boton14.pack()
-boton15 = Button(root, bitmap=('@'+'/usr/include/X11/bitmaps/dot'), bg='red')
-boton15.pack()
-boton16 = Button(root, bitmap=('@'+'/usr/include/X11/bitmaps/Down'), bg='blue')
-boton16.pack()
-boton17 = Button(root, bitmap=('@'+'/usr/include/X11/bitmaps/flagdown'), fg='green')
-boton17.pack()
-boton18 = Button(root, bitmap=('@'+'/usr/include/X11/bitmaps/mailfull'), fg='red')
-boton18.pack()
-boton19 = Button(root, bitmap=('@'+'/usr/include/X11/bitmaps/opendot'), fg='blue')
-boton19.pack()
-boton20 = Button(root, bitmap=('@'+'/usr/include/X11/bitmaps/stipple'), bg='black', fg='grey')
-boton20.pack()
-boton21 = Button(root, bitmap=('@'+'/usr/include/X11/bitmaps/target'), highlightcolor='red')
-boton21.pack()
-boton22 = Button(root, bitmap=('@'+'/usr/include/X11/bitmaps/terminal'))
-boton22.pack()
-boton23 = Button(root, bitmap=('@'+'/usr/include/X11/bitmaps/letters'))
-boton23.pack()
-boton24 = Button(root, bitmap=('@'+'/usr/include/X11/bitmaps/tie_fighter'))
-boton24.pack()
-boton25 = Button(root, bitmap=('@'+'/usr/include/X11/bitmaps/woman'), bg='pink')
-boton25.pack()
-# botonX = Button(root, bitmap=('@'+'/path/to/your/custom/icon.xbm'), bg='someColor', fg='AnotherColor')
-# botonX.pack()
-#
-root.mainloop()
-}}}
+   .. raw:: html
+      <span class="line"><span class="c">#!code python</span>
+      </span><span class="line"><span class="c">#!/usr/bin/env python</span>
+      </span><span class="line"><span class="c">#-*- coding:utf-8 -*-</span>
+      </span><span class="line">
+      </span><span class="line"><span class="kn">from</span> <span class="nn">Tkinter</span> <span class="kn">import</span> <span class="o">*</span>
+      </span><span class="line"><span class="n">root</span> <span class="o">=</span> <span class="n">Tk</span><span class="p">()</span>
+      </span><span class="line"><span class="c">#</span>
+      </span><span class="line"><span class="n">boton1</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="s">&#39;error&#39;</span><span class="p">)</span>
+      </span><span class="line"><span class="n">boton1</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+      </span><span class="line"><span class="n">boton2</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="s">&#39;hourglass&#39;</span><span class="p">)</span>
+      </span><span class="line"><span class="n">boton2</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+      </span><span class="line"><span class="n">boton3</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="s">&#39;info&#39;</span><span class="p">)</span>
+      </span><span class="line"><span class="n">boton3</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+      </span><span class="line"><span class="n">boton4</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="s">&#39;questhead&#39;</span><span class="p">)</span>
+      </span><span class="line"><span class="n">boton4</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+      </span><span class="line"><span class="n">boton5</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="s">&#39;warning&#39;</span><span class="p">)</span>
+      </span><span class="line"><span class="n">boton5</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+      </span><span class="line"><span class="n">boton6</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="s">&#39;question&#39;</span><span class="p">)</span>
+      </span><span class="line"><span class="n">boton6</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+      </span><span class="line"><span class="n">boton7</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="s">&#39;gray75&#39;</span><span class="p">)</span>
+      </span><span class="line"><span class="n">boton7</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+      </span><span class="line"><span class="n">boton8</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="s">&#39;gray50&#39;</span><span class="p">)</span>
+      </span><span class="line"><span class="n">boton8</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+      </span><span class="line"><span class="n">boton9</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="s">&#39;gray25&#39;</span><span class="p">)</span>
+      </span><span class="line"><span class="n">boton9</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+      </span><span class="line"><span class="n">boton10</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="s">&#39;gray12&#39;</span><span class="p">)</span>
+      </span><span class="line"><span class="n">boton10</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+      </span><span class="line"><span class="n">boton11</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="p">(</span><span class="s">&#39;@&#39;</span><span class="o">+</span><span class="s">&#39;/usr/include/X11/bitmaps/icon&#39;</span><span class="p">),</span> <span class="n">state</span><span class="o">=</span><span class="n">DISABLED</span><span class="p">)</span>
+      </span><span class="line"><span class="n">boton11</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+      </span><span class="line"><span class="n">boton12</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="p">(</span><span class="s">&#39;@&#39;</span><span class="o">+</span><span class="s">&#39;/usr/include/X11/bitmaps/calculator&#39;</span><span class="p">),</span> <span class="n">cursor</span><span class="o">=</span><span class="s">&#39;hand2&#39;</span><span class="p">)</span>
+      </span><span class="line"><span class="n">boton12</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+      </span><span class="line"><span class="n">boton13</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="p">(</span><span class="s">&#39;@&#39;</span><span class="o">+</span><span class="s">&#39;/usr/include/X11/bitmaps/boxes&#39;</span><span class="p">),</span> <span class="n">relief</span><span class="o">=</span><span class="n">FLAT</span><span class="p">)</span>
+      </span><span class="line"><span class="n">boton13</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+      </span><span class="line"><span class="n">boton14</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="p">(</span><span class="s">&#39;@&#39;</span><span class="o">+</span><span class="s">&#39;/usr/include/X11/bitmaps/noletters&#39;</span><span class="p">),</span> <span class="n">bg</span><span class="o">=</span><span class="s">&#39;green&#39;</span><span class="p">)</span>
+      </span><span class="line"><span class="n">boton14</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+      </span><span class="line"><span class="n">boton15</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="p">(</span><span class="s">&#39;@&#39;</span><span class="o">+</span><span class="s">&#39;/usr/include/X11/bitmaps/dot&#39;</span><span class="p">),</span> <span class="n">bg</span><span class="o">=</span><span class="s">&#39;red&#39;</span><span class="p">)</span>
+      </span><span class="line"><span class="n">boton15</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+      </span><span class="line"><span class="n">boton16</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="p">(</span><span class="s">&#39;@&#39;</span><span class="o">+</span><span class="s">&#39;/usr/include/X11/bitmaps/Down&#39;</span><span class="p">),</span> <span class="n">bg</span><span class="o">=</span><span class="s">&#39;blue&#39;</span><span class="p">)</span>
+      </span><span class="line"><span class="n">boton16</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+      </span><span class="line"><span class="n">boton17</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="p">(</span><span class="s">&#39;@&#39;</span><span class="o">+</span><span class="s">&#39;/usr/include/X11/bitmaps/flagdown&#39;</span><span class="p">),</span> <span class="n">fg</span><span class="o">=</span><span class="s">&#39;green&#39;</span><span class="p">)</span>
+      </span><span class="line"><span class="n">boton17</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+      </span><span class="line"><span class="n">boton18</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="p">(</span><span class="s">&#39;@&#39;</span><span class="o">+</span><span class="s">&#39;/usr/include/X11/bitmaps/mailfull&#39;</span><span class="p">),</span> <span class="n">fg</span><span class="o">=</span><span class="s">&#39;red&#39;</span><span class="p">)</span>
+      </span><span class="line"><span class="n">boton18</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+      </span><span class="line"><span class="n">boton19</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="p">(</span><span class="s">&#39;@&#39;</span><span class="o">+</span><span class="s">&#39;/usr/include/X11/bitmaps/opendot&#39;</span><span class="p">),</span> <span class="n">fg</span><span class="o">=</span><span class="s">&#39;blue&#39;</span><span class="p">)</span>
+      </span><span class="line"><span class="n">boton19</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+      </span><span class="line"><span class="n">boton20</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="p">(</span><span class="s">&#39;@&#39;</span><span class="o">+</span><span class="s">&#39;/usr/include/X11/bitmaps/stipple&#39;</span><span class="p">),</span> <span class="n">bg</span><span class="o">=</span><span class="s">&#39;black&#39;</span><span class="p">,</span> <span class="n">fg</span><span class="o">=</span><span class="s">&#39;grey&#39;</span><span class="p">)</span>
+      </span><span class="line"><span class="n">boton20</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+      </span><span class="line"><span class="n">boton21</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="p">(</span><span class="s">&#39;@&#39;</span><span class="o">+</span><span class="s">&#39;/usr/include/X11/bitmaps/target&#39;</span><span class="p">),</span> <span class="n">highlightcolor</span><span class="o">=</span><span class="s">&#39;red&#39;</span><span class="p">)</span>
+      </span><span class="line"><span class="n">boton21</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+      </span><span class="line"><span class="n">boton22</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="p">(</span><span class="s">&#39;@&#39;</span><span class="o">+</span><span class="s">&#39;/usr/include/X11/bitmaps/terminal&#39;</span><span class="p">))</span>
+      </span><span class="line"><span class="n">boton22</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+      </span><span class="line"><span class="n">boton23</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="p">(</span><span class="s">&#39;@&#39;</span><span class="o">+</span><span class="s">&#39;/usr/include/X11/bitmaps/letters&#39;</span><span class="p">))</span>
+      </span><span class="line"><span class="n">boton23</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+      </span><span class="line"><span class="n">boton24</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="p">(</span><span class="s">&#39;@&#39;</span><span class="o">+</span><span class="s">&#39;/usr/include/X11/bitmaps/tie_fighter&#39;</span><span class="p">))</span>
+      </span><span class="line"><span class="n">boton24</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+      </span><span class="line"><span class="n">boton25</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="p">(</span><span class="s">&#39;@&#39;</span><span class="o">+</span><span class="s">&#39;/usr/include/X11/bitmaps/woman&#39;</span><span class="p">),</span> <span class="n">bg</span><span class="o">=</span><span class="s">&#39;pink&#39;</span><span class="p">)</span>
+      </span><span class="line"><span class="n">boton25</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+      </span><span class="line"><span class="c"># botonX = Button(root, bitmap=(&#39;@&#39;+&#39;/path/to/your/custom/icon.xbm&#39;), bg=&#39;someColor&#39;, fg=&#39;AnotherColor&#39;)</span>
+      </span><span class="line"><span class="c"># botonX.pack()</span>
+      </span><span class="line"><span class="c">#</span>
+      </span><span class="line"><span class="n">root</span><span class="o">.</span><span class="n">mainloop</span><span class="p">()</span>
+      </span>
+
