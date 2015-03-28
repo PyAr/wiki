@@ -1,4 +1,3 @@
-#format rst
 
 * **Twitter:** https://twitter.com/ssebastianj
 
@@ -12,7 +11,5 @@
 
 .. ############################################################################
 
-.. _GitHub: ../GitHub
 
-.. _BitBucket: ../BitBucket
 
