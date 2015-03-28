@@ -1,65 +1,67 @@
-## page was renamed from ObtenerUbicacionGeografica
-= Obtener Ubicacion Geografica =
+#format rst
 
- * Como obtener distintos datos de la ubicacion Geografica, usando Python-Geoip, ejemplo simple.
+Obtener Ubicacion Geografica
+============================
 
-'''Requisitos:''' Base de Datos de Geo-Location en la misma ubicacion que el programa, descargarla usando: 
-{{{
-#!code bash
+* Como obtener distintos datos de la ubicacion Geografica, usando Python-Geoip, ejemplo simple.
 
-wget --verbose http://geolite.maxmind.com/download/geoip/database/GeoLiteCity.dat.gz
-}}}
+**Requisitos:** Base de Datos de Geo-Location en la misma ubicacion que el programa, descargarla usando: 
 
-'''Nota:''' ''Depende de la conectividad con Internet usando direccion ip publica version 4, se desconoce el comportamiento con ip version 6.''
+::
 
-{{{
-#!code python
+   .. raw:: html
+      <span class="line">wget --verbose http://geolite.maxmind.com/download/geoip/database/GeoLiteCity.dat.gz
+      </span>
 
-#!/usr/bin/env python
-# -*- coding: utf-8 -*- 
-# 
-import urllib
-try:
-    import GeoIP
-except ImportError: 
-    print(" ERROR: No PYTHON-GEOIP avaliable!!!. ") # que hacer si falla la importacion de la libreria
-    pass
+**Nota:** *Depende de la conectividad con Internet usando direccion ip publica version 4, se desconoce el comportamiento con ip version 6.*
 
-# La base de datos GeoLiteCity.dat debe estar en la misma ubicacion que este programa
-gi = GeoIP.open(
-"GeoLiteCity.dat", GeoIP.GEOIP_INDEX_CACHE | GeoIP.GEOIP_CHECK_CACHE)
+::
 
-# Obtiene la IP Publica
-try: 
-    # esta URL puede ser reemplazada con otra que preste similar servicio
-    ip = urllib.urlopen(
-    'http://www.whatismyip.com/automation/n09230945.asp').read() 
-    print ip
-except: # que hacer si falla la conectividad
-    print ("ERROR: Network error!!!. ")
-    pass
+   .. raw:: html
+      <span class="line"><span class="c">#!/usr/bin/env python</span>
+      </span><span class="line"><span class="c"># -*- coding: utf-8 -*- </span>
+      </span><span class="line"><span class="c"># </span>
+      </span><span class="line"><span class="kn">import</span> <span class="nn">urllib</span>
+      </span><span class="line"><span class="k">try</span><span class="p">:</span>
+      </span><span class="line">    <span class="kn">import</span> <span class="nn">GeoIP</span>
+      </span><span class="line"><span class="k">except</span> <span class="ne">ImportError</span><span class="p">:</span>
+      </span><span class="line">    <span class="k">print</span><span class="p">(</span><span class="s">&quot; ERROR: No PYTHON-GEOIP avaliable!!!. &quot;</span><span class="p">)</span> <span class="c"># que hacer si falla la importacion de la libreria</span>
+      </span><span class="line">    <span class="k">pass</span>
+      </span><span class="line">
+      </span><span class="line"><span class="c"># La base de datos GeoLiteCity.dat debe estar en la misma ubicacion que este programa</span>
+      </span><span class="line"><span class="n">gi</span> <span class="o">=</span> <span class="n">GeoIP</span><span class="o">.</span><span class="n">open</span><span class="p">(</span>
+      </span><span class="line"><span class="s">&quot;GeoLiteCity.dat&quot;</span><span class="p">,</span> <span class="n">GeoIP</span><span class="o">.</span><span class="n">GEOIP_INDEX_CACHE</span> <span class="o">|</span> <span class="n">GeoIP</span><span class="o">.</span><span class="n">GEOIP_CHECK_CACHE</span><span class="p">)</span>
+      </span><span class="line">
+      </span><span class="line"><span class="c"># Obtiene la IP Publica</span>
+      </span><span class="line"><span class="k">try</span><span class="p">:</span>
+      </span><span class="line">    <span class="c"># esta URL puede ser reemplazada con otra que preste similar servicio</span>
+      </span><span class="line">    <span class="n">ip</span> <span class="o">=</span> <span class="n">urllib</span><span class="o">.</span><span class="n">urlopen</span><span class="p">(</span>
+      </span><span class="line">    <span class="s">&#39;http://www.whatismyip.com/automation/n09230945.asp&#39;</span><span class="p">)</span><span class="o">.</span><span class="n">read</span><span class="p">()</span>
+      </span><span class="line">    <span class="k">print</span> <span class="n">ip</span>
+      </span><span class="line"><span class="k">except</span><span class="p">:</span> <span class="c"># que hacer si falla la conectividad</span>
+      </span><span class="line">    <span class="k">print</span> <span class="p">(</span><span class="s">&quot;ERROR: Network error!!!. &quot;</span><span class="p">)</span>
+      </span><span class="line">    <span class="k">pass</span>
+      </span><span class="line">
+      </span><span class="line"><span class="c"># Obtiene los datos de la DataBase usando la IP Publica</span>
+      </span><span class="line"><span class="n">data</span> <span class="o">=</span> <span class="n">gi</span><span class="o">.</span><span class="n">record_by_name</span><span class="p">(</span><span class="n">ip</span><span class="p">)</span>
+      </span><span class="line">
+      </span><span class="line"><span class="c"># Imprime los datos en la linea de comandos</span>
+      </span><span class="line"><span class="k">print</span> <span class="n">data</span>
+      </span>
 
-# Obtiene los datos de la DataBase usando la IP Publica
-data = gi.record_by_name(ip)
+**Ejemplo:**
 
-# Imprime los datos en la linea de comandos
-print data
+::
 
-}}}
+   .. raw:: html
+      <span class="line"><span class="o">/</span><span class="n">usr</span><span class="o">/</span><span class="nb">bin</span><span class="o">/</span><span class="n">env</span> <span class="n">python</span> <span class="n">geolocation</span><span class="o">.</span><span class="n">py</span>
+      </span><span class="line"><span class="mf">190.17</span><span class="o">.</span><span class="mf">169.</span><span class="n">XXX</span>
+      </span><span class="line"><span class="p">{</span><span class="s">&#39;city&#39;</span><span class="p">:</span> <span class="s">&#39;XXXXXX&#39;</span><span class="p">,</span> <span class="s">&#39;region_name&#39;</span><span class="p">:</span> <span class="s">&#39;Buenos Aires&#39;</span><span class="p">,</span> <span class="s">&#39;region&#39;</span><span class="p">:</span> <span class="s">&#39;01&#39;</span><span class="p">,</span> <span class="s">&#39;area_code&#39;</span><span class="p">:</span> <span class="mi">0</span><span class="p">,</span> <span class="s">&#39;time_zone&#39;</span><span class="p">:</span> <span class="s">&#39;America/Argentina/Buenos_Aires&#39;</span><span class="p">,</span> <span class="s">&#39;longitude&#39;</span><span class="p">:</span> <span class="o">-</span><span class="mf">58.92079000071094</span><span class="p">,</span> <span class="s">&#39;metro_code&#39;</span><span class="p">:</span> <span class="mi">0</span><span class="p">,</span> <span class="s">&#39;country_code3&#39;</span><span class="p">:</span> <span class="s">&#39;ARG&#39;</span><span class="p">,</span> <span class="s">&#39;latitude&#39;</span><span class="p">:</span> <span class="o">-</span><span class="mf">34.17680005629883</span><span class="p">,</span> <span class="s">&#39;postal_code&#39;</span><span class="p">:</span> <span class="bp">None</span><span class="p">,</span> <span class="s">&#39;dma_code&#39;</span><span class="p">:</span> <span class="mi">0</span><span class="p">,</span> <span class="s">&#39;country_code&#39;</span><span class="p">:</span> <span class="s">&#39;AR&#39;</span><span class="p">,</span> <span class="s">&#39;country_name&#39;</span><span class="p">:</span> <span class="s">&#39;Argentina&#39;</span><span class="p">}</span>
+      </span>
 
-'''Ejemplo:'''
+**Colaboracion:** *Si tenes conectividad con internet con ip version 6 NATIVA, puedes documentar tu experiencia aqui.*
 
-{{{
-#!code python
+*Disclaimer: el uso o no de SheBang/Declaracion de Encoding queda a criterio del usuario.*
 
-/usr/bin/env python geolocation.py
-190.17.169.XXX
-{'city': 'XXXXXX', 'region_name': 'Buenos Aires', 'region': '01', 'area_code': 0, 'time_zone': 'America/Argentina/Buenos_Aires', 'longitude': -58.92079000071094, 'metro_code': 0, 'country_code3': 'ARG', 'latitude': -34.17680005629883, 'postal_code': None, 'dma_code': 0, 'country_code': 'AR', 'country_name': 'Argentina'}
+*Fe de Erratas: seguramente hay una forma mejor de hacerlo, pero esta funciona correctamente.*
 
-}}}
-
-'''Colaboracion:''' ''Si tenes conectividad con internet con ip version 6 NATIVA, puedes documentar tu experiencia aqui.''
-
-~-''Disclaimer: el uso o no de SheBang/Declaracion de Encoding queda a criterio del usuario.''-~
-
-~-''Fe de Erratas: seguramente hay una forma mejor de hacerlo, pero esta funciona correctamente.''-~
