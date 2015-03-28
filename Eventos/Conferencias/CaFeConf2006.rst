@@ -1,6 +1,9 @@
+#format rst
 #acl All:read,write
-#language es
 
-= PyAr en CaFeCONF 2006 =
+PyAr en CaFeCONF 2006
+=====================
 
-== Charlas ==
+Charlas
+-------
+
