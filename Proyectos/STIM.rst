@@ -1,4 +1,3 @@
-#format rst
 
 STIM: Steam, The Incredible Machine
 ===================================
