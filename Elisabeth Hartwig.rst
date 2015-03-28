@@ -1,12 +1,19 @@
-##master-page:HomepageTemplate
-#format wiki
-#language en
-== @``ME@ ==ehartwig@infoxel.com
+#format rst
+## master-page:HomepageTemplate
 
-Email: <<MailTo(you AT SPAMFREE example DOT com)>>
-## You can even more obfuscate your email address by adding more uppercase letters followed by a leading and trailing blank.
+== @ME@ ==`ehartwig@infoxel.com`_
+
+Email: `[[MailTo(you AT SPAMFREE example DOT com)]]`_.. You can even more obfuscate your email address by adding more uppercase letters followed by a leading and trailing blank.
 
 ...
 
-----
-CategoryHomepage
+-------------------------
+
+ CategoryHomepage_
+
+.. ############################################################################
+
+.. _ehartwig@infoxel.com: mailto:ehartwig@infoxel.com
+
+.. _CategoryHomepage: ../CategoryHomepage
+
