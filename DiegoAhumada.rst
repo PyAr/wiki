@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Diego Ahumada
 -------------
@@ -14,5 +12,4 @@ Email: `[[MailTo(eddie.cpp AT SPAMFREE gmail DOT com)]]`_
 
 .. ############################################################################
 
-.. _CategoryHomepage: ../CategoryHomepage
 
