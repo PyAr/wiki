@@ -1,17 +1,16 @@
-#format rst
 
 Remeras de PyAr
 ===============
 
 Adjuntamos el diseño de las remeras de PyAr_, versión 1.0 ;-). Para el proceso de la **nueva edición**, en RemerasV2_.
 
-`attachment:remerapyar.jpg`_
+`remerapyar.jpg </wiki/Remeras/attachment/118/remerapyar.jpg>`_
 
 Acá pueden ver el artwork original del cual salieron, creado alguna noche allá en otra vida en la casa de `un tal Pablo`_, junto con LucioTorre_ y MarianoDraghi_.
 
-`attachment:remeras.png`_
+`remeras.png </wiki/Remeras/attachment/116/remeras.png>`_
 
-Si quieren, también pueden bajarse la versión SVG: `attachment:remeras.svg`_remeras.svg`attachment:None`_
+Si quieren, también pueden bajarse la versión SVG: 
 
 Un poco de historia
 -------------------
@@ -138,15 +137,10 @@ Alineado a la izquierda, cosa que lo que le siga mas abajo sea el pantalon en s�
 
 .. ############################################################################
 
-.. _PyAr: ../PyAr
 
-.. _RemerasV2: ../RemerasV2
 
-.. _un tal Pablo: ../PabloZiliani
 
-.. _LucioTorre: ../LucioTorre
 
-.. _MarianoDraghi: ../MarianoDraghi
 
 .. _Remeras PyAr - una propuesta: http://mx.grulic.org.ar/lurker/message/20050128.154413.918a2b22.es.html
 
@@ -156,7 +150,140 @@ Alineado a la izquierda, cosa que lo que le siga mas abajo sea el pantalon en s�
 
 .. _Remeras: http://mx.grulic.org.ar/lurker/message/20060107.161546.7197cd1a.es.html
 
-.. _FacundoBatista: ../FacundoBatista
 
-.. _NubIs: ../NubIs
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: strike
+   :class: strike
 
