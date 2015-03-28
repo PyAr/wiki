@@ -1,4 +1,3 @@
-#format rst
 
 El Zen de Python
 ================
