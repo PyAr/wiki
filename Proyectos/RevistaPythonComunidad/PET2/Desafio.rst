@@ -1,4 +1,3 @@
-#format rst
 
 Esta página tiene como objetivo darle soporte al desafío planteado en el segundo número de la revista PET.
 
