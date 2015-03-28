@@ -1,14 +1,20 @@
-##master-page:HomepageTemplate
-#format wiki
-#language en
-== @``ME@ ==
+#format rst
+## master-page:HomepageTemplate
+
+@``ME@
+------
 
 hello world!
 
-Email: <<MailTo(you AT SPAMFREE example DOT com)>>
-## You can even more obfuscate your email address by adding more uppercase letters followed by a leading and trailing blank.
+Email: `[[MailTo(you AT SPAMFREE example DOT com)]]`_.. You can even more obfuscate your email address by adding more uppercase letters followed by a leading and trailing blank.
 
 ...
 
-----
-CategoryHomepage
+-------------------------
+
+ CategoryHomepage_
+
+.. ############################################################################
+
+.. _CategoryHomepage: ../CategoryHomepage
+
