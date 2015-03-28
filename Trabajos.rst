@@ -1,4 +1,3 @@
-#format rst
 
 Trabajos en Python
 ==================
@@ -966,29 +965,20 @@ Abrazos a la comunidad python.
 .. _rrhh@granpegaso.com: mailto:rrhh@granpegaso.com
 
 .. _InvGate:
-.. _`http://www.invgate.com`: ../InvGate
 
-.. _SqlAlchemy: ../SqlAlchemy
 
-.. _AngularJs: ../AngularJs
 
-.. _MercadoLibre: ../MercadoLibre
 
 .. _jobs@invgate.com: mailto:jobs@invgate.com
 
-.. _PySide: ../PySide
 
-.. _PyQt: ../PyQt
 
 .. _proyectoestelares@gmail.com: mailto:proyectoestelares@gmail.com
 
-.. _LinkedIn: ../LinkedIn
 
 .. _hr@bluecoding.com: mailto:hr@bluecoding.com
 
-.. _SendGrid: ../SendGrid
 
-.. _SpamAssassin: ../SpamAssassin
 
 .. _jobs@bigdeal.com.ar: mailto:jobs@bigdeal.com.ar
 
@@ -998,7 +988,6 @@ Abrazos a la comunidad python.
 
 .. _rod0n@live.com.ar: mailto:rod0n@live.com.ar
 
-.. _www.lofty.com: ../www.lofty.com
 
 .. _iurii.bazai@gmail.com: mailto:iurii.bazai@gmail.com
 
@@ -1010,17 +999,13 @@ Abrazos a la comunidad python.
 
 .. _idacal@machinalis.com: mailto:idacal@machinalis.com
 
-.. _TastyPie: ../TastyPie
 
-.. _MySql: ../MySql
 
 .. _raul@iBillionaire.me: mailto:raul@iBillionaire.me
 
-.. _BackEnd: ../BackEnd
 
 .. _carina.cortinez@artdecode.com.ar: mailto:carina.cortinez@artdecode.com.ar
 
-.. _PhotoShop: ../PhotoShop
 
 .. _rr-hh@franklabs.biz: mailto:rr-hh@franklabs.biz
 
@@ -1034,7 +1019,6 @@ Abrazos a la comunidad python.
 
 .. _careers@onapsis.com: mailto:careers@onapsis.com
 
-.. _PyHacker: ../PyHacker
 
 .. _rrhh@eynes.com.ar: mailto:rrhh@eynes.com.ar
 
@@ -1052,13 +1036,9 @@ Abrazos a la comunidad python.
 
 .. _jldalla@gmail.com: mailto:jldalla@gmail.com
 
-.. _`http://www.altoros.com`: ../Altoros Argentina
 
-.. _`https://juju.ubuntu.com`: ../Juju Charms
 
-.. _`https://jujucharms.com/precise/cassandra-12/?text=cassandra`: ../Cassandra
 
-.. _`http://www.canonical.com`: ../Canonical
 
 .. _diegolis@infoad.com.ar: mailto:diegolis@infoad.com.ar
 
@@ -1080,7 +1060,6 @@ Abrazos a la comunidad python.
 
 .. _bruno.acselrad@getmango.com: mailto:bruno.acselrad@getmango.com
 
-.. _JavaScript: ../JavaScript
 
 .. _alejandrodebard@idomo.info: mailto:alejandrodebard@idomo.info
 
@@ -1088,7 +1067,6 @@ Abrazos a la comunidad python.
 
 .. _patricio@real-trends.com: mailto:patricio@real-trends.com
 
-.. _GitHub: ../GitHub
 
 .. _hello@mobydigital.com: mailto:hello@mobydigital.com
 
@@ -1110,9 +1088,7 @@ Abrazos a la comunidad python.
 
 .. _aquí: http://juju.theresumator.com/apply/vnGzCB/Web-Application-Developer-Chile-Argentina.html
 
-.. _RestApi: ../RestApi
 
-.. _OpenSource: ../OpenSource
 
 .. _jobs@santexgroup.com: mailto:jobs@santexgroup.com
 
@@ -1128,7 +1104,6 @@ Abrazos a la comunidad python.
 
 .. _jrodriguez@consensusgroup.net: mailto:jrodriguez@consensusgroup.net
 
-.. _JsHint: ../JsHint
 
 .. _Dzone: http://Dzone.com
 
@@ -1142,7 +1117,6 @@ Abrazos a la comunidad python.
 
 .. _founders@bitpagos.net: mailto:founders@bitpagos.net
 
-.. _MongoEngine: ../MongoEngine
 
 .. _cv@tipitap.com: mailto:cv@tipitap.com
 
@@ -1176,7 +1150,6 @@ Abrazos a la comunidad python.
 
 .. _rrhh@oceantranslations.com: mailto:rrhh@oceantranslations.com
 
-.. _PyDev: ../PyDev
 
 .. _TradeHelm: http://www.tradehelm.com
 
@@ -1184,9 +1157,6 @@ Abrazos a la comunidad python.
 
 .. _Oony: http://oony.com
 
-.. _WxPython: ../WxPython
 
-.. _MailTo: ../MailTo
 
-.. _CategoryHomepage: ../CategoryHomepage
 
