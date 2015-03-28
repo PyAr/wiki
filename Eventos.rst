@@ -10,7 +10,7 @@ En PyAr_ planeamos cuatro tipos de eventos:
 
 * `Reuniones PyAr`_:
 
-Son las reuniones que hacemos los miembros de PyAr_ para planificar y realizar actividades concernientes a nuestro objetivo. Las reuniones se organizan cuando consideramos que hay un motivo específico que tratar (o juntamos demasiadas ganas de tomar cerveza... |:-?| ) [1]_
+Son las reuniones que hacemos los miembros de PyAr_ para planificar y realizar actividades concernientes a nuestro objetivo. Las reuniones se organizan cuando consideramos que hay un motivo específico que tratar (o juntamos demasiadas ganas de tomar cerveza... ) [1]_
 
 * Sprints_ [2]_:
 
@@ -24,17 +24,11 @@ Participamos en eventos de Software Libre con temas concernientes a Python.
 
 Nos reunimos varios dias para trabajar en distintos proyectos de software libre relacionados con el lenguaje de programación Python, conocernos y compartir experiencias.
 
-.. _reuniones:
+reuniones_:
 
- `[[Include(Eventos/Reuniones, ,editlink)]]`_
+sprints_:
 
-.. _sprints:
-
- `[[Include(Eventos/Sprints, ,editlink)]]`_
-
-.. _conferencias:
-
- `[[Include(Eventos/Conferencias, ,editlink)]]`_
+conferencias_:
 
 .. ############################################################################
 
