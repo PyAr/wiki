@@ -1,5 +1,3 @@
-#format rst
-## page was renamed from Eventos/Reuniones/Reunion23
 
 Reunión 23 - 11/08/2007 - Except
 ================================
