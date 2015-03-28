@@ -1,4 +1,3 @@
-#format rst
 
 PyConApp 2011
 =============
