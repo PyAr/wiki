@@ -1,11 +1,19 @@
-##master-page:HomepageTemplate
+#format rst
+## master-page:HomepageTemplate
 #acl PabloZiliani:admin,read,write,delete,revert All:read
-#format wiki
 
-== Pablo Ziliani's Complete Waste of Time ==
+Pablo Ziliani's Complete Waste of Time
+--------------------------------------
 
-||<tablewidth="" tablestyle=""> {{attachment:birdman.jpg}} || {{attachment:hormigas.jpg}} || {{attachment:sugus.jpg}} || {{attachment:honey.jpg}}   ||
-|| {{attachment:safemode.jpg}}  || {{attachment:monstro.jpg}} || {{attachment:palmeras.jpg}} || {{attachment:saddam.jpg}} ||
-|| {{attachment:disneywar.jpg}} || {{attachment:southpark.jpg}} ||<-2 :> pablo {1} kultroom {2} com ||
-----
-CategoryHomepage
+<strong class="highlight">.. raw:: html
+
+</strong>[Table not converted]
+
+-------------------------
+
+ CategoryHomepage_
+
+.. ############################################################################
+
+.. _CategoryHomepage: ../CategoryHomepage
+
