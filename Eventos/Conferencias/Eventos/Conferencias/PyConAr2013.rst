@@ -1,8 +1,15 @@
-= PyConAr 2013 =
+#format rst
+
+PyConAr 2013
+============
 
 Url del evento: http://ar.pycon.org
 
-== Fotos ==
+Fotos
+-----
 
-=== Viernes 25 de Octubre ===
+Viernes 25 de Octubre
+~~~~~~~~~~~~~~~~~~~~~
+
 * http://www.flickr.com/photos/70871182@N04/sets/72157637010046074/
+
