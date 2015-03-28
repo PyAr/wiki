@@ -1,15 +1,18 @@
-##master-page:HomepageTemplate
-#format wiki
-#language en
-== Alejo aka Polar ==
+#format rst
+## master-page:HomepageTemplate
 
-Email: <<MailTo(alejopa AT gmail example DOT com)>>
-## You can even more obfuscate your email address by adding more uppercase letters followed by a leading and trailing blank.
+Alejo aka Polar
+---------------
+
+Email: `[[MailTo(alejopa AT gmail example DOT com)]]`_.. You can even more obfuscate your email address by adding more uppercase letters followed by a leading and trailing blank.
 
 ...
 
+-------------------------
 
+ CategoryHomepage_
 
+.. ############################################################################
 
-----
-CategoryHomepage
+.. _CategoryHomepage: ../CategoryHomepage
+
