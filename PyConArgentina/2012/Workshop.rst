@@ -1,4 +1,3 @@
-#format rst
 
 Workshop para principiantes en PyCon Argentina 2012
 ===================================================
@@ -116,7 +115,6 @@ Si estas interesado en colaborar, por favor anotate en la siguiente lista, indic
 
 .. _UrbanStation: http://argentina.enjoyurbanstation.com/es/
 
-.. _Alojamiento Compartido: ../AlojamientoCompartido
 
 .. _EducacionIT: http://www.educacionit.com.ar/
 
