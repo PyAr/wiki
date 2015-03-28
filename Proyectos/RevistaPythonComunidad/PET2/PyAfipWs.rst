@@ -1,9 +1,10 @@
-= Página del articulo PyAfipWs: facilitando, extendiendo y liberando los Servicios Web de AFIP de la PET2 =
+#format rst
 
-|| Tarea || Check ||
-|| Revision ortografica || X ||
-|| Test snipets || X ||
-|| Revision gramatica y logica || X ||
-|| Revision markup reST || X ||
+Página del articulo PyAfipWs: facilitando, extendiendo y liberando los Servicios Web de AFIP de la PET2
+=======================================================================================================
 
-== Observaciones ==
+[Table not converted]
+
+Observaciones
+-------------
+
