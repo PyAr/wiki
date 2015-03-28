@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Sebastian Bassi
 ---------------
@@ -32,5 +30,4 @@ Email: `sbassi@genesdigitales.com`_
 
 .. _sbassi@genesdigitales.com: mailto:sbassi@genesdigitales.com
 
-.. _CategoryHomepage: ../CategoryHomepage
 
