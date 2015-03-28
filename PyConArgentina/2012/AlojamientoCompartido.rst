@@ -1,14 +1,20 @@
-= PyCon Argentina 2012 =
-== Alojamiento Compartido ==
+#format rst
 
-Esta página es para organizar a quienes quieran y puedan compartir alojamiento durante los días de la conferencia.
-Anótense a continuación en alguna de las siguientes listas, y contacten a los que ya están anotados.
+PyCon Argentina 2012
+====================
 
-== Tienen lugar para compartir ==
+Alojamiento Compartido
+----------------------
 
- * --( '''Juan Ejemplo''' - tengo un colchón de una plaza en mi depto de Congreso - <<MailTo(juan AT ejemplo DOT com DOT ar)>> )--
+Esta página es para organizar a quienes quieran y puedan compartir alojamiento durante los días de la conferencia. Anótense a continuación en alguna de las siguientes listas, y contacten a los que ya están anotados.
 
+Tienen lugar para compartir
+---------------------------
 
-== Necesitan lugar para alojarse ==
+*  **Juan Ejemplo** :strike:`- tengo un colchón de una plaza en mi depto de Congreso - `[[MailTo(juan AT ejemplo DOT com DOT ar)]]`_` 
 
- * --( '''Peddro Ejemplo2''' - quiero compartir una habitación de hostel - <<MailTo(peddro AT ejemplo2 DOT com DOT ar)>> )--
+Necesitan lugar para alojarse
+-----------------------------
+
+*  **Peddro Ejemplo2** :strike:`- quiero compartir una habitación de hostel - `[[MailTo(peddro AT ejemplo2 DOT com DOT ar)]]`_` 
+
