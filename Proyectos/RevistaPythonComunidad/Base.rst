@@ -1,4 +1,3 @@
-#format rst
 
 Como se organizo la revista ?!
 ==============================
