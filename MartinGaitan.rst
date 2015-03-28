@@ -1,22 +1,40 @@
-##master-page:HomepageTemplate
-#format wiki
-#language es
-== @``ME@ ==
+#format rst
+## master-page:HomepageTemplate
 
-Email: <<MailTo(gaitan AT gmail DOT com)>>
+@``ME@
+------
 
-[[http://about.me/gaitan|sobre mi]]
+Email: `[[MailTo(gaitan AT gmail DOT com)]]`_
 
-[[http://nqnwebs.com/|Mi emprendimiento]]
+`sobre mi`_
 
-[[http://textosypretextos.com.ar|mi blog no geek]]
+`Mi emprendimiento`_
 
-[[http://nqnwebs.com/blog|mi blog algo geek]]
+`mi blog no geek`_
 
-[[http://twitter.com/nqnwebs|En twitter]]
+`mi blog algo geek`_
 
-[[http://www.linkedin.com/in/martingaitan|En LinkedIn]]
+`En twitter`_
 
+`En LinkedIn`_
 
-----
-CategoryHomepage
+-------------------------
+
+ CategoryHomepage_
+
+.. ############################################################################
+
+.. _sobre mi: http://about.me/gaitan
+
+.. _Mi emprendimiento: http://nqnwebs.com/
+
+.. _mi blog no geek: http://textosypretextos.com.ar
+
+.. _mi blog algo geek: http://nqnwebs.com/blog
+
+.. _En twitter: http://twitter.com/nqnwebs
+
+.. _En LinkedIn: http://www.linkedin.com/in/martingaitan
+
+.. _CategoryHomepage: ../CategoryHomepage
+
