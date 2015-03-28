@@ -1,12 +1,10 @@
-#format rst
-## page was renamed from Recetario/Gtk/Entry
 
 GtkEntry
 --------
 
 crea una ventana con un label y un campo de texto y muestra el mensaje hola **nombre** con el valor ingresado en el entry.
 
-`attachment:Entry.png`_
+`Entry.png </wiki/Recetario/Gui/Gtk/Entry/attachment/584/Entry.png>`_
 
 ::
 
