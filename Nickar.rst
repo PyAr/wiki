@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Nicolás Pace
 ------------
@@ -18,5 +16,4 @@ Email: `[[MailTo(np AT SPAMFREE cs DOT uns DOT edu DOT ar)]]`_
 
 .. _Perfil de linkedin: http://www.linkedin.com/in/nickar
 
-.. _CategoryHomepage: ../CategoryHomepage
 
