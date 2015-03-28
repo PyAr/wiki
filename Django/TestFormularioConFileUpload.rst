@@ -1,4 +1,3 @@
-#format rst
 
 Test Formulario Con File Upload en Django
 =========================================
