@@ -1,5 +1,3 @@
-#format rst
-## page was renamed from Eventos/Reuniones/2011/Reunion41
 
 Reunión 41 - Sábado 08/05/10 - Al finalizar el PyDay, en Rafaela
 ================================================================
