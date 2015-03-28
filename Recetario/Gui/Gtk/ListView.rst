@@ -1,9 +1,8 @@
-#format rst
 
 Gtk ListView
 ------------
 
-`attachment:gtklistexample.png`_
+`gtklistexample.png </wiki/Recetario/Gui/Gtk/ListView/attachment/583/gtklistexample.png>`_
 
 ::
 
