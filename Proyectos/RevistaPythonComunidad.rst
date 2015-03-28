@@ -1,4 +1,3 @@
-#format rst
 
 Bienvenido a PET !!! una magazine de Python Entre Todos :)
 ==========================================================
