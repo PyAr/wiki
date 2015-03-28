@@ -1,31 +1,46 @@
-#acl AdminGroup:read,write All:read
+#format rst
 
-= Donations =
+Donations
+=========
 
-
-{{{#!wiki important
-'''Hello! This is the donation page of Python Argentina.'''
+**Hello! This is the donation page of Python Argentina.**
 
 Please, select one of the options below, and thank you very much!
 
-Donations made to PyAr will be used to promote the language in events and to pay for python promotional materials like tutorials etc.
-}}}
-[[Donaciones| Versión en Español]]
------
+Donations made to PyAr_ will be used to promote the language in events and to pay for python promotional materials like tutorials etc.
 
-== DineroMail ==
-'''''From Argentina and other latin american countries'''''
-<<DineroMail()>>
+`Versión en Español`_
 
------
-
-== Cuenta Digital ==
-'''''From all over the World!'''''
-
-<<CuentaDigital()>>
-
------
+-------------------------
 
 
 
-= Thank you! =
+DineroMail
+----------
+
+**From Argentina and other latin american countries** `[[DineroMail()]]`_
+
+-------------------------
+
+
+
+Cuenta Digital
+--------------
+
+**From all over the World!**
+
+`[[CuentaDigital()]]`_
+
+-------------------------
+
+
+
+Thank you!
+==========
+
+.. ############################################################################
+
+.. _PyAr: ../PyAr
+
+.. _Versión en Español: ../Donaciones
+
