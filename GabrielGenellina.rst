@@ -1,6 +1,8 @@
-##master-page:HomepageTemplate
-#format wiki
-== Gabriel Genellina ==
+#format rst
+## master-page:HomepageTemplate
+
+Gabriel Genellina
+-----------------
 
 Nada por aqui (todavia)
 
@@ -8,5 +10,11 @@ Email: lainicialdeminombreseguidademiapellido arroba yahoo
 
 ...
 
-----
-CategoryHomepage
+-------------------------
+
+ CategoryHomepage_
+
+.. ############################################################################
+
+.. _CategoryHomepage: ../CategoryHomepage
+
