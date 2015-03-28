@@ -1,5 +1,3 @@
-#format rst
-## page was renamed from Eventos/Reuniones/Reunion11
 
 Reunión 11 - 04/08/2005 - Hip Bar
 =================================
@@ -19,11 +17,11 @@ También resolvimos participar en CaFeConf 2005 con dos charlas, una de LucioTor
 Fotos
 -----
 
-`attachment:Screenshot-11.png`_
+`Screenshot-11.png </wiki/Eventos/Reuniones/2005/Reunion11/attachment/536/Screenshot-11.png>`_
 
-`attachment:Screenshot-6.png`_
+`Screenshot-6.png </wiki/Eventos/Reuniones/2005/Reunion11/attachment/534/Screenshot-6.png>`_
 
-`attachment:Screenshot-8.png`_
+`Screenshot-8.png </wiki/Eventos/Reuniones/2005/Reunion11/attachment/535/Screenshot-8.png>`_
 
 .. ############################################################################
 
