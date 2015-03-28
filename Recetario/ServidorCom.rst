@@ -1,4 +1,3 @@
-#format rst
 
 Servidor Interfase COM
 ----------------------
@@ -133,7 +132,7 @@ o
 
    regsvr32 miservidorcom.dll
 
-Para Descargar Fuentes: `attachment:ejemplo.zip`_ejemplo.zip`attachment:None`_
+Para Descargar Fuentes: 
 
 Autor / Autores:
 ::::::::::::::::
@@ -154,5 +153,4 @@ MarianoReingart_
 
 .. _Bibliografia: http://oreilly.com/catalog/pythonwin32/chapter/ch12.html
 
-.. _CrearEjecutableWindows: ../CrearEjecutableWindows
 
