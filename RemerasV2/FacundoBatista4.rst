@@ -1,13 +1,18 @@
-== Intento 04 de Facundo Batista ==
+#format rst
 
-Esta es una idea que me pareció piola, pero que está '''ANULADA''' porque no cumple con el requisito de cantidad de colores.
+Intento 04 de Facundo Batista
+-----------------------------
 
-{{attachment:remera2-Facu04.png}}
+Esta es una idea que me pareció piola, pero que está **ANULADA** porque no cumple con el requisito de cantidad de colores.
 
-'''Diseño:'''
+`attachment:remera2-Facu04.png`_
 
-[[attachment:remera2-Facu04.svg]]
+**Diseño:**
 
-== Comentarios ==
+`attachment:remera2-Facu04.svg`_remera2-Facu04.svg`attachment:None`_
+
+Comentarios
+-----------
 
 * [quien?] (placeholder)
+
