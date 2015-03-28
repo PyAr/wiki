@@ -1,4 +1,3 @@
-#format rst
 
 Mudanza de servidores de DNS
 ============================
@@ -29,4 +28,24 @@ Los servidores de usla son:
    201.235.253.73 ns2.usla.org.ar
    190.228.30.157 ns1.linux.org.ar
    190.228.30.153 ns1.cafelug.org.ar
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: strike
+   :class: strike
 
