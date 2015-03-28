@@ -1,13 +1,18 @@
-== Intento 03 de Facundo Batista ==
+#format rst
 
-Parte del Zen (no se puede poner todo, es ilegible), más la frase de remate, :)
+Intento 03 de Facundo Batista
+-----------------------------
 
-{{attachment:remera2-Facu03.png}}
+Parte del Zen (no se puede poner todo, es ilegible), más la frase de remate, |:)|
 
-'''Diseño:'''
+`attachment:remera2-Facu03.png`_
 
-[[attachment:remera2-Facu03.svg]]
+**Diseño:**
 
-== Comentarios ==
+`attachment:remera2-Facu03.svg`_remera2-Facu03.svg`attachment:None`_
+
+Comentarios
+-----------
 
 * [quien?] (placeholder)
+
