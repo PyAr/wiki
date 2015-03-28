@@ -1,11 +1,13 @@
-= Propuesta tentativa PYCONAR 2013 en Córdoba Capital =
+#format rst
+
+Propuesta tentativa PYCONAR 2013 en Córdoba Capital
+===================================================
 
 Fecha: entre el 17 y 22 de Septiembre de 2013
 
 Duración: 2 a 3 días
 
-Lugar: UCC sede centro (preconfirmada); FAMAF-UNC (interesada); Centro de Convenciones en zona centrica (como plan de contingencias)
-Ciudad de Córdoba CapitaL
+Lugar: UCC sede centro (preconfirmada); FAMAF-UNC (interesada); Centro de Convenciones en zona centrica (como plan de contingencias) Ciudad de Córdoba CapitaL
 
 Infraestructura: Auditorio grande + salas menores.
 
@@ -27,10 +29,9 @@ Stands de Sponsors, Comunidades y Proyectos
 
 Posters
 
-Sitio Web: http://ar.pycon.org/2013 (simil PyConAr2011)
+Sitio Web: http://ar.pycon.org/2013 (simil PyConAr2011_)
 
-Coordinador General: Elías Andrawos
-Los colaboradores y responsabilidades se definirán más adelante
+Coordinador General: Elías Andrawos Los colaboradores y responsabilidades se definirán más adelante
 
-Aclaraciones: Pienso que desilusionaré a varios, con el simple hecho de que no será tan "grande" o con tantas cosas como otros eventos. Esta propuesta busca hacer algo pequeño pero bueno!, con la menor cantidad de dolores de cabeza posible y la máxima cantidad de satisfacciones cumplidas.
-========================================================
+Aclaraciones: Pienso que desilusionaré a varios, con el simple hecho de que no será tan "grande" o con tantas cosas como otros eventos. Esta propuesta busca hacer algo pequeño pero bueno!, con la menor cantidad de dolores de cabeza posible y la máxima cantidad de satisfacciones cumplidas. ========================================================
+
