@@ -1,11 +1,20 @@
-##master-page:HomepageTemplate
-#format wiki
-== Nubis ==
-''Cristian Bruno''
+#format rst
+## master-page:HomepageTemplate
 
-Proyectos: [[http://woobiz.com.ar]]
+Nubis
+-----
 
-Email: <<MailTo(gnubis AT gmail DOT com)>>
+*Cristian Bruno*
 
-----
-CategoryHomepage
+Proyectos: http://woobiz.com.ar
+
+Email: `[[MailTo(gnubis AT gmail DOT com)]]`_
+
+-------------------------
+
+ CategoryHomepage_
+
+.. ############################################################################
+
+.. _CategoryHomepage: ../CategoryHomepage
+
