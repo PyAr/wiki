@@ -1,13 +1,21 @@
-= Intento 01 de Juanjo =
+#format rst
+
+Intento 01 de Juanjo
+====================
+
 Simple, como Python.
 
-{{attachment:Juanjo1-1.jpg}}
+`attachment:Juanjo1-1.jpg`_
 
+Fuente
+------
 
-== Fuente ==
-[[attachment:Juanjo1-1SVG.svg|Juanjo-1-1]]
+`attachment:Juanjo1-1SVG.svg`_Juanjo-1-1`attachment:None`_
 
-= Comentarios =
-* [FacundoBatista] No me gusta que no diga PyAr en ningún lado...
+Comentarios
+===========
 
-* [JuanjoConti] Corregido!
+* [FacundoBatista_] No me gusta que no diga PyAr_ en ningún lado...
+
+* [JuanjoConti_] Corregido!
+
