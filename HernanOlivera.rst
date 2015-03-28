@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Hernan Olivera
 --------------
@@ -102,21 +100,12 @@ Linux que uso: Ubuntu 8.04 Linux que probé: Suse, Mandrake, Puppy, DSL, Slackwa
 
 .. ############################################################################
 
-.. _AutoHotKey: ../AutoHotKey
 
-.. _RadioShack: ../RadioShack
 
-.. _WordStar2000: ../WordStar2000
 
-.. _FidoNet: ../FidoNet
 
-.. _ArcView: ../ArcView
 
-.. _GoogleEarth: ../GoogleEarth
 
-.. _LifeDrive: ../LifeDrive
 
-.. _RedHat: ../RedHat
 
-.. _CategoryHomepage: ../CategoryHomepage
 
