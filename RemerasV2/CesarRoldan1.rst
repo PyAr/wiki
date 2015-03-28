@@ -1,13 +1,18 @@
-== Intento 01 de Cesar Roldan ==
+#format rst
+
+Intento 01 de Cesar Roldan
+--------------------------
 
 Algo tranqui.
 
-{{attachment:remeraCesar1.png}}
+`attachment:remeraCesar1.png`_
 
-'''Diseño:'''
+**Diseño:**
 
-[[attachment:remeraCesar1.svg]]
+`attachment:remeraCesar1.svg`_remeraCesar1.svg`attachment:None`_
 
-== Comentarios ==
+Comentarios
+-----------
 
 * [quien?] (placeholder)
+
