@@ -1,4 +1,3 @@
-#format rst
 
 Proyecto EduPython
 ==================
@@ -99,11 +98,8 @@ Talleres de Python
 
 .. ############################################################################
 
-.. _Mariano Reingart: ../MarianoReingart
 
-.. _Armar un live-cd para repartir en las charlas/talleres: ../EduPythonCD
 
 .. _Tortuga: http://pythoncard.sourceforge.net/samples/turtle.html
 
-.. _PythonCard: ../PythonCard
 
