@@ -1,4 +1,3 @@
-#format rst
 
 |PyConAr2012|
 
