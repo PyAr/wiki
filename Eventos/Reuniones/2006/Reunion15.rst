@@ -1,5 +1,3 @@
-#format rst
-## page was renamed from Eventos/Reuniones/Reunion15
 
 Reunión 15 - 28/04/2006 - 20:00 Hs - Hip Bar
 ============================================
