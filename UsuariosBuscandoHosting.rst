@@ -1,4 +1,3 @@
-#format rst
 
 Es bastante común encontrar interesados en tener algún servicio de hosting. Esta es una lista de personas que estarían interesadas (comprometidas) en caso de existir algúno, en adquirir el servicio.
 
@@ -6,7 +5,5 @@ Es bastante común encontrar interesados en tener algún servicio de hosting. Es
 
 .. ############################################################################
 
-.. _AlejandroDavidWeil: ../AlejandroDavidWeil
 
-.. _GustavoSalvini: ../GustavoSalvini
 
