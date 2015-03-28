@@ -1,4 +1,3 @@
-#format rst
 
 SciPyar
 =======
@@ -24,7 +23,6 @@ Proyectos de interés
 
 .. ############################################################################
 
-.. _PyAr: ../PyAr
 
 .. _sci-pyar@googlegroups.com: https://groups.google.com/forum/?fromgroups#!forum/sci-pyar
 
