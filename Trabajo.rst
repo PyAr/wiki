@@ -1,5 +1,6 @@
-Buenos dias, estoy necesitando actualizar mi sitio web. Si se pueden contactar conmigo al 4815.3991 o enviar mail a <<MailTo(mtorgovnick EN gmail PUNTO com)>>.
-El sitio web a actualizar es www.postapolo.com.ar.
+#format rst
 
-Muchas Gracias
-Matias
+Buenos dias, estoy necesitando actualizar mi sitio web. Si se pueden contactar conmigo al 4815.3991 o enviar mail a `[[MailTo(mtorgovnick EN gmail PUNTO com)]]`_. El sitio web a actualizar es www.postapolo.com.ar.
+
+Muchas Gracias Matias
+
