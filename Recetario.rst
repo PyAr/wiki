@@ -1,284 +1,469 @@
+#format rst
 #language es
-#pragma section-numbers 2
-= Recetario =
-''Nuestro !CookBook, en vías desarrollo.'' A este lugar uno recurre cada vez que se encuentra en la cocina de Python, cuchillo en mano y se da cuenta que a sus ingredientes le faltan el toque de un cheff experto. Nuestra especialidad son las recetas autóctonas. ¿Platos magistrales que fallan al sazonar con acentos y eñes? ¿números que saben mal si no son previamente fritos en castellano? ¡Siga leyendo!
 
-<<TableOfContents>>
+Recetario
+=========
 
-----
+*Nuestro CookBook, en vías desarrollo.* A este lugar uno recurre cada vez que se encuentra en la cocina de Python, cuchillo en mano y se da cuenta que a sus ingredientes le faltan el toque de un cheff experto. Nuestra especialidad son las recetas autóctonas. ¿Platos magistrales que fallan al sazonar con acentos y eñes? ¿números que saben mal si no son previamente fritos en castellano? ¡Siga leyendo!
 
-== Configuracion del entorno python ==
+.. contents::
 
-=== Crear un entorno virtual y un esqueleto de proyecto ===
+-------------------------
 
-[[Recetario/CreandoUnNuevoProyectoPython]]: Receta para crear un entorno de trabajo y un esqueleto minimo para un nuevo proyecto Python
 
-=== Mejorando el interprete python ===
-[[Recetario/AutocomplecionEnConsolaInteractiva| Autocompletado en consola interactiva]]: tip sobre como agregar autocompleción con tab en la consola interactiva imitando el comportamiento ipython.
 
-== Estructuras de datos ==
-=== IterarSobrePares ===
-== Expresiones regulares ==
-=== Extraer todos los mails de un texto ===
-/ExtraerMails de un texto utilizando el módulo re.
+Configuracion del entorno python
+--------------------------------
 
-== Formatos, datos, números y conversiones ==
-=== aLetras ===
-[[aLetras]] : Función que al recibir un número lo convierte a letras. Regresa su forma por extensión (ejemplo: 123 -> "CIENTO VEINTITRES")
+Crear un entorno virtual y un esqueleto de proyecto
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-=== Reverse ===
-[[Reverse]] : Función que invierte los caracteres.
+`Recetario/CreandoUnNuevoProyectoPython`_: Receta para crear un entorno de trabajo y un esqueleto minimo para un nuevo proyecto Python
 
-=== validar_cuit ===
-/ValidarCuit : Función para validar un CUIT/CUIL estilo 00-00000000-0
+Mejorando el interprete python
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-=== digito_verificador_modulo10 ===
-/CalcularDigitoVerificadorModuloDiez : Función para generar el dígito verificador módulo 10
+`Autocompletado en consola interactiva`_: tip sobre como agregar autocompleción con tab en la consola interactiva imitando el comportamiento ipython.
 
-=== Normalizar caracteres Unicode ===
-Es bueno /NormalizarCaracteresUnicode para hacer búsquedas en strings sin que se tengan en cuenta los caracteres latinos, como los acentos y la eñe.
+Estructuras de datos
+--------------------
 
-ObtenerSensacionTermica: Calcular la Sensacion Termica o Temperatura Aparente.
+IterarSobrePares
+~~~~~~~~~~~~~~~~
 
-=== Interceptar los prints ===
-/InterceptarPrints sirve para hacer reemplazos en las strings que se van a imprimir, por ejemplo para agregar un timestamp.
+Expresiones regulares
+---------------------
 
-== Frameworks Web ==
-=== Django ===
-[[Django/TestFormularioConFileUpload]] :  un ejemplo de como probar un formulario que tiene un campo para subir un archivo.
+Extraer todos los mails de un texto
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-[[Django/ObtenerClaseOriginalCuandoHayHerencia]] : Cuando usamos herencia de modelos, si `bar` y `baz` son subclases de `foo`, podemos hacer que `foo.objects.all()` devuelva instancias de `bar` o `baz` dependiendo de cómo creamos el objeto orignalmente.
+`/ExtraerMails`_ de un texto utilizando el módulo re.
 
-=== Bottle ===
+Formatos, datos, números y conversiones
+---------------------------------------
 
-[[Recetario/Bottle/HolaMundo|Hola Mundo]] : una aplicacion minima que muestra el mensaje hola mundo.
+aLetras
+~~~~~~~
 
-[[Recetario/Bottle/Galeria|Mini Galeria de Imagenes]] : una aplicacion minima que muestra una Galeria de Imagenes Animada.
+aLetras_ : Función que al recibir un número lo convierte a letras. Regresa su forma por extensión (ejemplo: 123 -> "CIENTO VEINTITRES")
 
-== Interfaces graficas ==
-=== Gtk ===
-[[/Gui/Gtk/HolaMundo]] : una ventana que muestra el mensaje hola mundo
+Reverse
+~~~~~~~
 
-[[/Gui/Gtk/HolaMundoOO]] : una ventana que muestra el mensaje hola mundo programado utilizando orientacion a objetos
+Reverse_ : Función que invierte los caracteres.
 
-[[/Gui/Gtk/Entry]] : una ventana que solicita un valor y luego lo muestra en una ventana aparte
+validar_cuit
+~~~~~~~~~~~~
 
-[[/Gui/Gtk/EntrySoloNumeros]]: un ejemplo de como permitir el ingreso de solo numeros en un gtk.Entry
+`/ValidarCuit`_ : Función para validar un CUIT/CUIL estilo 00-00000000-0
 
-[[/Gui/Gtk/HBox]] : ejemplo que muestra como organizar elementos continuos horizontalmente
+digito_verificador_modulo10
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-[[/Gui/Gtk/VBox]] : ejemplo que muestra como organizar elementos continuos verticalmente
+`/CalcularDigitoVerificadorModuloDiez`_ : Función para generar el dígito verificador módulo 10
 
-[[/Gui/Gtk/Grid]] : ejemplo que muestra como organizar elementos en forma de grilla
+Normalizar caracteres Unicode
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-[[/Gui/Gtk/Button]] : ejemplo que muestra como crear botones de diversas maneras
+Es bueno `/NormalizarCaracteresUnicode`_ para hacer búsquedas en strings sin que se tengan en cuenta los caracteres latinos, como los acentos y la eñe.
 
-[[/Gui/Gtk/ButtonBox]] : ejemplo que muestra como crear botones y agruparlos en un contenedor
+ObtenerSensacionTermica_: Calcular la Sensacion Termica o Temperatura Aparente.
 
-[[/Gui/Gtk/AutoComplete]] : ejemplo que muestra como crear un campo de texto con auto complesion
+Interceptar los prints
+~~~~~~~~~~~~~~~~~~~~~~
 
-[[/Gui/Gtk/Dialog]] : ejemplo para crear dialogos modales
+`/InterceptarPrints`_ sirve para hacer reemplazos en las strings que se van a imprimir, por ejemplo para agregar un timestamp.
 
-[[/Gui/Gtk/FileChooser]] : ejemplo que permite al usuario seleccionar un archivo
+Frameworks Web
+--------------
 
-[[/Gui/Gtk/Menu]] :  ejemplo que mustra como crear un menu con distintos items
+Django
+~~~~~~
 
-[[/Gui/Gtk/TextArea]] : ejemplo sobre manipulacion basica de un area de texto con scroll
+`Django/TestFormularioConFileUpload`_ :  un ejemplo de como probar un formulario que tiene un campo para subir un archivo.
 
-[[/Gui/Gtk/PrintNonGtk]] : ejemplo sobre como usar el dialogo de impresion de gtk en aplicaciones no gtk (que no usan el main loop de gtk)
+`Django/ObtenerClaseOriginalCuandoHayHerencia`_ : Cuando usamos herencia de modelos, si ``bar`` y ``baz`` son subclases de ``foo``, podemos hacer que ``foo.objects.all()`` devuelva instancias de ``bar`` o ``baz`` dependiendo de cómo creamos el objeto orignalmente.
 
-[[/Gui/Gtk/RichText]]: ejemplo sobre como insertar texto con formato basico a un textview
+Bottle
+~~~~~~
 
-[[/Gui/Gtk/ConfirmClose]]: ejemplo sobre como solicitar confirmacion para el cierre de una ventana
+`Hola Mundo`_ : una aplicacion minima que muestra el mensaje hola mundo.
 
-[[/Gui/Gtk/MultiThread]]: ejemplo de como manipular la GUI desde múltiples threads sin usar locks (con colas)
+`Mini Galeria de Imagenes`_ : una aplicacion minima que muestra una Galeria de Imagenes Animada.
 
-[[/Gui/Gtk/MultiThread2]]: ejemplo de como manipular la GUI usando múltiples threads
+Interfaces graficas
+-------------------
 
-[[/Gui/Gtk/Runner]] ejemplo de como correr funciones que demoran sin bloquear la ui y obtener los resultados en el thread de gtk
+Gtk
+~~~
 
-[[/Gui/Gtk/FuncionRunner]] idem al anterior pero usando una funcion en lugar de un objeto
+`/Gui/Gtk/HolaMundo`_ : una ventana que muestra el mensaje hola mundo
 
-[[/Gui/Gtk/LabelConColor]]: ejemplo de como cambiar el color de un label sin usar pango markup
+`/Gui/Gtk/HolaMundoOO`_ : una ventana que muestra el mensaje hola mundo programado utilizando orientacion a objetos
 
-[[/Gui/Gtk/XMLRPCServer]] Servidor XMLRPC dentro de un hilo gtk
+`/Gui/Gtk/Entry`_ : una ventana que solicita un valor y luego lo muestra en una ventana aparte
 
-[[/Gui/Gtk/StockItems]]: ejemplo que muestra todos los iconos stock de gtk con su respectivo nombre
+`/Gui/Gtk/EntrySoloNumeros`_: un ejemplo de como permitir el ingreso de solo numeros en un gtk.Entry
 
-[[/Gui/Gtk/WebkitEditor]]: ejemplo de como usar webkit para editar paginas HTML como si fuera un editor
+`/Gui/Gtk/HBox`_ : ejemplo que muestra como organizar elementos continuos horizontalmente
 
-[[/Gui/Gtk/StatusIcon]]: ejemplo de aplicación con ícono en el system tray.
+`/Gui/Gtk/VBox`_ : ejemplo que muestra como organizar elementos continuos verticalmente
 
-[[/Gui/Gtk/ErrorHandler]]: un ejemplo de capturar una excepción y mostrarla en un dialogo modal
+`/Gui/Gtk/Grid`_ : ejemplo que muestra como organizar elementos en forma de grilla
 
-[[/Gui/Gtk/ListView]]: un ejemplo de como mostrar elementos en una 
+`/Gui/Gtk/Button`_ : ejemplo que muestra como crear botones de diversas maneras
 
-[[/Gui/Gtk/EmuladorTerminal]]: un ejemplo de como hacer una terminal visual al estilo gnome-terminal
+`/Gui/Gtk/ButtonBox`_ : ejemplo que muestra como crear botones y agruparlos en un contenedor
 
-=== Gtk + glade ===
+`/Gui/Gtk/AutoComplete`_ : ejemplo que muestra como crear un campo de texto con auto complesion
+
+`/Gui/Gtk/Dialog`_ : ejemplo para crear dialogos modales
+
+`/Gui/Gtk/FileChooser`_ : ejemplo que permite al usuario seleccionar un archivo
+
+`/Gui/Gtk/Menu`_ :  ejemplo que mustra como crear un menu con distintos items
+
+`/Gui/Gtk/TextArea`_ : ejemplo sobre manipulacion basica de un area de texto con scroll
+
+`/Gui/Gtk/PrintNonGtk`_ : ejemplo sobre como usar el dialogo de impresion de gtk en aplicaciones no gtk (que no usan el main loop de gtk)
+
+`/Gui/Gtk/RichText`_: ejemplo sobre como insertar texto con formato basico a un textview
+
+`/Gui/Gtk/ConfirmClose`_: ejemplo sobre como solicitar confirmacion para el cierre de una ventana
+
+`/Gui/Gtk/MultiThread`_: ejemplo de como manipular la GUI desde múltiples threads sin usar locks (con colas)
+
+`/Gui/Gtk/MultiThread2`_: ejemplo de como manipular la GUI usando múltiples threads
+
+`/Gui/Gtk/Runner`_ ejemplo de como correr funciones que demoran sin bloquear la ui y obtener los resultados en el thread de gtk
+
+`/Gui/Gtk/FuncionRunner`_ idem al anterior pero usando una funcion en lugar de un objeto
+
+`/Gui/Gtk/LabelConColor`_: ejemplo de como cambiar el color de un label sin usar pango markup
+
+`/Gui/Gtk/XMLRPCServer`_ Servidor XMLRPC dentro de un hilo gtk
+
+`/Gui/Gtk/StockItems`_: ejemplo que muestra todos los iconos stock de gtk con su respectivo nombre
+
+`/Gui/Gtk/WebkitEditor`_: ejemplo de como usar webkit para editar paginas HTML como si fuera un editor
+
+`/Gui/Gtk/StatusIcon`_: ejemplo de aplicación con ícono en el system tray.
+
+`/Gui/Gtk/ErrorHandler`_: un ejemplo de capturar una excepción y mostrarla en un dialogo modal
+
+`/Gui/Gtk/ListView`_: un ejemplo de como mostrar elementos en una 
+
+`/Gui/Gtk/EmuladorTerminal`_: un ejemplo de como hacer una terminal visual al estilo gnome-terminal
+
+Gtk + glade
+~~~~~~~~~~~
+
 GtkGladeHolaMundoOO : una ventana que muestra el mensaje hola mundo programado utilizando orientacion a objetos
 
-GtkGladeSignals : manejo basico de señales
+GtkGladeSignals_ : manejo basico de señales
 
-=== Qt ===
-QtMultiThread : ejemplo de como manipular la GUI usando múltiples threads sin usar locks (con colas)
+Qt
+~~
 
-/QtImprimirPagina: ejemplo de como imprimir una pagina web a pdf
+QtMultiThread_ : ejemplo de como manipular la GUI usando múltiples threads sin usar locks (con colas)
 
-/QtExtraerTextoRecurso : como extraer un archivo de texto embebido en el sistema de recursos de !PyQt
+`/QtImprimirPagina`_: ejemplo de como imprimir una pagina web a pdf
+
+`/QtExtraerTextoRecurso`_ : como extraer un archivo de texto embebido en el sistema de recursos de PyQt
 
 http://www.youtube.com/playlist?list=PLA955A8F9A95378CE : Python GUI Development with QT (videos 7 horas)
 
-=== Pythoncard (wxPython) ===
-PythonCard: Ejemplo de como hacer una aplicación de escritorio desde 0 (para principiantes)
+Pythoncard (wxPython)
+~~~~~~~~~~~~~~~~~~~~~
 
-=== Tkinter + ttk ===
-[[ttkHolamundo]]: una ventana que muestra el mensaje hola mundo (usando Tk themed widgets).
+PythonCard_: Ejemplo de como hacer una aplicación de escritorio desde 0 (para principiantes)
 
-[[tkWindowIcon]]: una ventana con icono (usando Tk).
+Tkinter + ttk
+~~~~~~~~~~~~~
 
-[[tkButtonIcon]]: unos botones con iconos, ideal mini-toolbar (usando Tk).
+ttkHolamundo_: una ventana que muestra el mensaje hola mundo (usando Tk themed widgets).
 
-[[tkScrollWhell]]: usando la rueda de Scroll del raton (usando Tk).
+tkWindowIcon_: una ventana con icono (usando Tk).
 
-[[tkOnlineOfflineIcon]]: Icono de On Line u Off Line simple (usando Tk).
+tkButtonIcon_: unos botones con iconos, ideal mini-toolbar (usando Tk).
 
-[[tkVersionPrint]]: Obtener la version de TK que se esta usando.
+tkScrollWhell_: usando la rueda de Scroll del raton (usando Tk).
 
-[[GTKonTK]]: Usar temas de GTK en Tk ''(Hack)''.
+tkOnlineOfflineIcon_: Icono de On Line u Off Line simple (usando Tk).
 
-[[TKWizards]]: Crear un Wizard amigable de multiples paginas (siguiente, siguiente, ... terminar)
+tkVersionPrint_: Obtener la version de TK que se esta usando.
 
-[[DisplayLCD7Segmentos]]: Crear un Widget de Canvas tipo Display LCD de 7 Segmentos.
+GTKonTK_: Usar temas de GTK en Tk *(Hack)*.
 
-[[BotonGraficoTK]]: Crear botones graficos personalizados de 3 estados con TK.
+TKWizards_: Crear un Wizard amigable de multiples paginas (siguiente, siguiente, ... terminar)
 
-[[VentanaPasswordVibra]]: Crear una ventana de password que Vibra si la password es incorrecta.
+DisplayLCD7Segmentos_: Crear un Widget de Canvas tipo Display LCD de 7 Segmentos.
 
-[[RelojDigital]]: Crear un Reloj Digital simple, trucando un Label.
+BotonGraficoTK_: Crear botones graficos personalizados de 3 estados con TK.
 
-== Emails ==
-=== GMail ===
-/GmailMail : Cómo enviar emails usando Gmail como SMTP
+VentanaPasswordVibra_: Crear una ventana de password que Vibra si la password es incorrecta.
 
-=== Email con adjuntos ===
-/EmailConAdjunto : Cómo enviar emails con adjuntos binarios
+RelojDigital_: Crear un Reloj Digital simple, trucando un Label.
 
-== Creación de ejecutables para Windows ==
-=== Desde Linux ===
-/CrearEjecutableWindowsDesdeLinux : Cómo crear ejecutables para Windows desde Linux con Wine.
+Emails
+------
 
-=== En Windows ===
-/CrearEjecutableWindows: Cómo crear ejecutables para Windows nativamente.
+GMail
+~~~~~
 
-== Hilos y concurrencia ==
-=== threads ===
-ComunicarThreadsConQueue: ejemplo sobre como comunicar y sincronizar threads usando colas
+`/GmailMail`_ : Cómo enviar emails usando Gmail como SMTP
 
-== Web ==
-=== HTTP servers ===
-==== Servidor Simple ====
-ComoLevantarUnServidorHttpSimple  Ejemplo sobre como levantar un servidor http que sirva el contenido de un directorio local
+Email con adjuntos
+~~~~~~~~~~~~~~~~~~
 
-==== Servidor Multithread ====
-ComoLevantarUnServidorHttpMultithread  Ejemplo sobre como levantar un servidor http que sirva el contenido de un directorio local manejando los requests con threads
+`/EmailConAdjunto`_ : Cómo enviar emails con adjuntos binarios
 
-== Xml ==
-=== Xml a Diccionario ===
-[[XmlADiccionario]]: este ejemplo muestra como convertir un string xml en un conjunto de diccionarios y listas anidadas, también provee de dos clases que permiten acceder a los diccionarios y listas como si fueran objetos.
+Creación de ejecutables para Windows
+------------------------------------
 
-=== SimpleXmlElement ===
-SimpleXmlElement: ejemplo de manejo de xml por elementos simples (simil php), permite leer y/o crear xml accediendo a los tags como si fueran atributos de un objeto.
+Desde Linux
+~~~~~~~~~~~
 
-== Pdf ==
-=== Generación de Facturas en PDF ===
-/FacturaPyFpdf: Ejemplo de como generar una factura gráficamente en PDF utilizando PyFpdf
+`/CrearEjecutableWindowsDesdeLinux`_ : Cómo crear ejecutables para Windows desde Linux con Wine.
 
-=== Modificación de Estilos en rst2pdf ===
-/EstilosRst2Pdf: Explicación de Roberto Alsina, sobre cómo modificar los estilos de diseño en rst2pdf
+En Windows
+~~~~~~~~~~
 
-== Dbf ==
-=== Leer y modificar Archivos .DBF ===
-/DbfPy: Ejemplo de como leer y modificar bases de datos en formato DBF
+`/CrearEjecutableWindows`_: Cómo crear ejecutables para Windows nativamente.
 
-== Windows ==
-=== Servidor Interfase C.O.M. ===
-/ServidorCom: Ejemplo de como exponer objetos python a otros lenguajes (VB, VFP, etc.) vía interfase COM
+Hilos y concurrencia
+--------------------
 
-=== Llamar a librerías nativas con ctypes ===
-/WinBatt: Ejemplo de como usar ctypes para llamar a bibliotecas nativas usando estructuras C.
+threads
+~~~~~~~
 
+ComunicarThreadsConQueue_: ejemplo sobre como comunicar y sincronizar threads usando colas
 
-== Python Internals ==
-LocalsDeUnaFuncionQueLanzoUnaExcepcion: ejemplo de como obtener las variables locales a la función que lanzo una excepion
+Web
+---
 
-PsycoSpeedUp: Como acelerar las aplicaciones con Psyco, si esta presente.
+HTTP servers
+~~~~~~~~~~~~
 
-MapeandoMemoria: Cómo generar un mapa de la memoria con heapy
+Servidor Simple
+:::::::::::::::
 
-== Numpy, Scipy, Matplotlib ==
-[[/Histograma]]: Ejemplo sencillo de uso de la función ''hist''
+ComoLevantarUnServidorHttpSimple_  Ejemplo sobre como levantar un servidor http que sirva el contenido de un directorio local
 
-== Administracion de Sistemas Operativos ==
-/ListarProcesos: como listar procesos multiplataforma
+Servidor Multithread
+::::::::::::::::::::
 
-/ChequearInterfacesInternetLinux
+ComoLevantarUnServidorHttpMultithread_  Ejemplo sobre como levantar un servidor http que sirva el contenido de un directorio local manejando los requests con threads
 
-[[Xdg-Sudo]]: El sudo Grafico Universal, para Escritorios GTK/QT/whatever, inspirado en ''xdg-open'' de Linux.
+Xml
+---
 
-[[Chequeo de Paquetes, APT, Linux]]: Chequear si un Programa esta instalado, o no, y si existe en Linux.
+Xml a Diccionario
+~~~~~~~~~~~~~~~~~
 
-== Internet ==
-/RevisarConexion: revisar si estamos conectados a internet conexión.
+XmlADiccionario_: este ejemplo muestra como convertir un string xml en un conjunto de diccionarios y listas anidadas, también provee de dos clases que permiten acceder a los diccionarios y listas como si fueran objetos.
 
-/ObtenerBytesTransferidos: obtener la cantidad de datos transferidos en Bytes.
+SimpleXmlElement
+~~~~~~~~~~~~~~~~
 
-[[ipPublica]] : obtener la direccion ip publica usando 3 lineas de Python.
+SimpleXmlElement_: ejemplo de manejo de xml por elementos simples (simil php), permite leer y/o crear xml accediendo a los tags como si fueran atributos de un objeto.
 
-/ObtenerUbicacionGeografica: obtener datos de la ubicacion geografica (Geo-Location) usando Python-Geoip.
+Pdf
+---
 
-== Misceláneo ==
-/MatrixPythonToy: Efecto "The Matrix" en linea de comandos, ideal CLI Screen Saver / Screen Lock.
+Generación de Facturas en PDF
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-/SaberSiNlibreriaEstaInstalada: Saber si N Libreria esta instalada sin ingresar al interprete de Python.
+`/FacturaPyFpdf`_: Ejemplo de como generar una factura gráficamente en PDF utilizando PyFpdf_
 
-/PythonVersionCheck: Chequea la version de Python, y sale o imprime error en funcion de eso.
+Modificación de Estilos en rst2pdf
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-/RootCheck: Comprobar si somos root y actuar en funcion de eso, orientado a Linux.
+`/EstilosRst2Pdf`_: Explicación de Roberto Alsina, sobre cómo modificar los estilos de diseño en rst2pdf
 
-/ComoBajarTodosLosBuffersAlDisco: Best Practice para un programa en Linux para cerrarse.
+Dbf
+---
 
-/ProgressbarUrllib2: Como descargar algo de internet y mostrar una barrita de progreso.
+Leer y modificar Archivos .DBF
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-/CheckDistroVersion: Chequea la version de la Distribucion Linux y actuar en funcion de eso.
+`/DbfPy`_: Ejemplo de como leer y modificar bases de datos en formato DBF
 
-/AlarmaPrecaria: Alarma minima y basica de linea de comandos.
+Windows
+-------
 
-/KeyboardLedsDemo: Como controlar los Leds del Teclado con Python.
+Servidor Interfase C.O.M.
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
-/NotificarDispositivosUsb : Como detectar y notificar dispocitivos USB en Linux.
+`/ServidorCom`_: Ejemplo de como exponer objetos python a otros lenguajes (VB, VFP, etc.) vía interfase COM
 
-== Python en Apache OpenOffice / LibreOffice ==
-[[/pyUNO/HolaMundo]]: Hola Mundo
+Llamar a librerías nativas con ctypes
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-[[/pyUNO/MiPrimerMacro]]: Mi primer macro
+`/WinBatt`_: Ejemplo de como usar ctypes para llamar a bibliotecas nativas usando estructuras C.
 
+Python Internals
+----------------
 
-== Crypto ==
+LocalsDeUnaFuncionQueLanzoUnaExcepcion_: ejemplo de como obtener las variables locales a la función que lanzo una excepion
 
-[[/Crypto/BlowfishConBlowfishpy]]: como encriptar usando el modulo blowfish.py
+PsycoSpeedUp_: Como acelerar las aplicaciones con Psyco, si esta presente.
 
-== Multiprocessing y threading (y otras yerbas) ==
+MapeandoMemoria_: Cómo generar un mapa de la memoria con heapy
 
-[[/MultiprocessingYThreading]]: ejemplo simple de como las apis de threading y multiprocessing son intercambiables.
+Numpy, Scipy, Matplotlib
+------------------------
 
-== Divertidos ==
+`/Histograma`_: Ejemplo sencillo de uso de la función *hist*
 
-[[/Fun/NadoSincronizado]]: bailarín de nado sincronizado en tu consola!
+Administracion de Sistemas Operativos
+-------------------------------------
 
-[[/Fun/NadoSincronizadoDisco]]: bailarín de nado sincronizado en tu consola con luces de colores!
+`/ListarProcesos`_: como listar procesos multiplataforma
 
-[[/Fun/MiniSpaceInvaders]]: Un mini space invaders usando caracteres.
+`/ChequearInterfacesInternetLinux`_
 
-----
-CategoryRecetas
+Xdg-Sudo_: El sudo Grafico Universal, para Escritorios GTK/QT/whatever, inspirado en *xdg-open* de Linux.
+
+`Chequeo de Paquetes, APT, Linux`_: Chequear si un Programa esta instalado, o no, y si existe en Linux.
+
+Internet
+--------
+
+`/RevisarConexion`_: revisar si estamos conectados a internet conexión.
+
+`/ObtenerBytesTransferidos`_: obtener la cantidad de datos transferidos en Bytes.
+
+ipPublica_ : obtener la direccion ip publica usando 3 lineas de Python.
+
+`/ObtenerUbicacionGeografica`_: obtener datos de la ubicacion geografica (Geo-Location) usando Python-Geoip.
+
+Misceláneo
+----------
+
+`/MatrixPythonToy`_: Efecto "The Matrix" en linea de comandos, ideal CLI Screen Saver / Screen Lock.
+
+`/SaberSiNlibreriaEstaInstalada`_: Saber si N Libreria esta instalada sin ingresar al interprete de Python.
+
+`/PythonVersionCheck`_: Chequea la version de Python, y sale o imprime error en funcion de eso.
+
+`/RootCheck`_: Comprobar si somos root y actuar en funcion de eso, orientado a Linux.
+
+`/ComoBajarTodosLosBuffersAlDisco`_: Best Practice para un programa en Linux para cerrarse.
+
+`/ProgressbarUrllib2`_: Como descargar algo de internet y mostrar una barrita de progreso.
+
+`/CheckDistroVersion`_: Chequea la version de la Distribucion Linux y actuar en funcion de eso.
+
+`/AlarmaPrecaria`_: Alarma minima y basica de linea de comandos.
+
+`/KeyboardLedsDemo`_: Como controlar los Leds del Teclado con Python.
+
+`/NotificarDispositivosUsb`_ : Como detectar y notificar dispocitivos USB en Linux.
+
+Python en Apache OpenOffice / LibreOffice
+-----------------------------------------
+
+`/pyUNO/HolaMundo`_: Hola Mundo
+
+`/pyUNO/MiPrimerMacro`_: Mi primer macro
+
+Crypto
+------
+
+`/Crypto/BlowfishConBlowfishpy`_: como encriptar usando el modulo blowfish.py
+
+Multiprocessing y threading (y otras yerbas)
+--------------------------------------------
+
+`/MultiprocessingYThreading`_: ejemplo simple de como las apis de threading y multiprocessing son intercambiables.
+
+Divertidos
+----------
+
+`/Fun/NadoSincronizado`_: bailarín de nado sincronizado en tu consola!
+
+`/Fun/NadoSincronizadoDisco`_: bailarín de nado sincronizado en tu consola con luces de colores!
+
+`/Fun/MiniSpaceInvaders`_: Un mini space invaders usando caracteres.
+
+-------------------------
+
+ CategoryRecetas_
+
+.. ############################################################################
+
+.. _Recetario/CreandoUnNuevoProyectoPython: /CreandoUnNuevoProyectoPython
+
+.. _Autocompletado en consola interactiva: /AutocomplecionEnConsolaInteractiva
+
+.. _aLetras: ../aLetras
+
+.. _Reverse: ../Reverse
+
+.. _ObtenerSensacionTermica: ../ObtenerSensacionTermica
+
+.. _Django/TestFormularioConFileUpload: ../Django/TestFormularioConFileUpload
+
+.. _Django/ObtenerClaseOriginalCuandoHayHerencia: ../Django/ObtenerClaseOriginalCuandoHayHerencia
+
+.. _Hola Mundo: /Bottle/HolaMundo
+
+.. _Mini Galeria de Imagenes: /Bottle/Galeria
+
+.. _GtkGladeSignals: ../GtkGladeSignals
+
+.. _QtMultiThread: ../QtMultiThread
+
+.. _PythonCard: ../PythonCard
+
+.. _ttkHolamundo: ../ttkHolamundo
+
+.. _tkWindowIcon: ../tkWindowIcon
+
+.. _tkButtonIcon: ../tkButtonIcon
+
+.. _tkScrollWhell: ../tkScrollWhell
+
+.. _tkOnlineOfflineIcon: ../tkOnlineOfflineIcon
+
+.. _tkVersionPrint: ../tkVersionPrint
+
+.. _GTKonTK: ../GTKonTK
+
+.. _TKWizards: ../TKWizards
+
+.. _DisplayLCD7Segmentos: ../DisplayLCD7Segmentos
+
+.. _BotonGraficoTK: ../BotonGraficoTK
+
+.. _VentanaPasswordVibra: ../VentanaPasswordVibra
+
+.. _RelojDigital: ../RelojDigital
+
+.. _ComunicarThreadsConQueue: ../ComunicarThreadsConQueue
+
+.. _ComoLevantarUnServidorHttpSimple: ../ComoLevantarUnServidorHttpSimple
+
+.. _ComoLevantarUnServidorHttpMultithread: ../ComoLevantarUnServidorHttpMultithread
+
+.. _XmlADiccionario: ../XmlADiccionario
+
+.. _SimpleXmlElement: ../SimpleXmlElement
+
+.. _PyFpdf: ../PyFpdf
+
+.. _LocalsDeUnaFuncionQueLanzoUnaExcepcion: ../LocalsDeUnaFuncionQueLanzoUnaExcepcion
+
+.. _PsycoSpeedUp: ../PsycoSpeedUp
+
+.. _MapeandoMemoria: ../MapeandoMemoria
+
+.. _Xdg-Sudo: ../Xdg-Sudo
+
+.. _Chequeo de Paquetes, APT, Linux: ../Chequeo de Paquetes, APT, Linux
+
+.. _ipPublica: ../ipPublica
+
+.. _CategoryRecetas: ../CategoryRecetas
+
