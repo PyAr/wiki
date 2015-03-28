@@ -1,4 +1,3 @@
-#format rst
 
 Chequeo de Paquetes con APT
 ===========================
