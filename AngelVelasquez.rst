@@ -1,8 +1,10 @@
-##master-page:HomepageTemplate
-#format wiki
-== Angel Velásquez ==
+#format rst
+## master-page:HomepageTemplate
 
-Email: <<MailTo(angvp AT SPAMFREE archlinux DOT org)>>
+Angel Velásquez
+---------------
+
+Email: `[[MailTo(angvp AT SPAMFREE archlinux DOT org)]]`_
 
 Venezolano, radicado en Argentina (Buenos Aires), desarrollador PHP durante mucho tiempo y python (desde hace no tanto), aún sigo aprendiendo python cada día, y cada día más contento de poder hacerlo.
 
@@ -12,7 +14,11 @@ Inicialmente con algunos scripts en python que luego estaré colocando los links
 
 Saludos
 
+-------------------------
 
- 
-----
-CategoryHomepage
+ CategoryHomepage_
+
+.. ############################################################################
+
+.. _CategoryHomepage: ../CategoryHomepage
+
