@@ -1,6 +1,3 @@
-#format rst
-## master-page:HelpTemplate
-## master-date:Unknown-Date
 
 Extraer un archivo de texto embebido en un recurso .qrc
 -------------------------------------------------------
