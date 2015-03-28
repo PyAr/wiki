@@ -1,4 +1,3 @@
-#format rst
 
 Este es el listado de gente que viajará a `PyCon Argentina 2010`_ desde Retiro.
 
@@ -42,7 +41,16 @@ Comentarios
 
 .. _PyCon Argentina 2010: http://ar.pycon.org/2010/about/
 
-.. _PatricioMolina: ../PatricioMolina
 
 .. _Días y horarios flexibles: http://www.lan.com/cgi-bin/compra/paso2.cgi?fecha1_dia=14&fecha1_anomes=2010-10&fecha2_dia=17&fecha2_anomes=2010-10&otras_ciudades=&num_segmentos_interfaz=2&tipo_paso1=caja&from_city2=COR&to_city2=BUE&rand_check=3089.088685810566&from_city1=BUE&ida_vuelta=ida_vuelta&to_city1=COR&vuelos_fecha_salida=14/OCT/2010&vuelos_fecha_salida_ddmmaaaa=14/10/2010&vuelos_fecha_regreso=17/OCT/2010&vuelos_fecha_regreso_ddmmaaaa=17/10/2010&cabina=Y&flex=1&nadults=1&nchildren=0&ninfants=0
+
+
+
+.. role:: small
+   :class: small
+
+
+
+.. role:: small
+   :class: small
 
