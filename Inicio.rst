@@ -9,8 +9,6 @@ Contenido
    algunas correcciones manuales.
 
 
-* Noticias_ de PyAr_, sus miembros, o noticias relevantes de Python.
-
 * Eventos_: Aquí encontrarás información sobre las actividades que realizamos.
 
 * ListaDeCorreo_: Instrucciones para suscribirte a nuestra lista, hoy por hoy, nuestro principal canal de comunicación. (feed rss disponible)
