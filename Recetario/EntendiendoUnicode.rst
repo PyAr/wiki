@@ -1,4 +1,3 @@
-#format rst
 
 ::
 
@@ -75,7 +74,6 @@ Ver también:
 
 .. _Unicode en una filmina: http://www.taniquetil.com.ar/unicode.png
 
-.. _Recetario/NormalizarCaracteresUnicode: ../NormalizarCaracteresUnicode
 
 .. _LA charla de facu de Unicode: http://tools.assembla.com/svn/homedevel/presents/unicode.odp
 
