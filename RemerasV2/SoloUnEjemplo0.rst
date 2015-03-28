@@ -1,16 +1,20 @@
-## page was renamed from SoloUnEjemplo0
-== Solo un ejemplo ==
+#format rst
 
-Esta es sólo un ejemplo, la motivación de la misma fue que todos tengamos una base para arrancar, y que en el laburo tenía que hacer un documento y no tenía ganas, :)
+Solo un ejemplo
+---------------
 
-{{attachment:soloejemplo.png}}
+Esta es sólo un ejemplo, la motivación de la misma fue que todos tengamos una base para arrancar, y que en el laburo tenía que hacer un documento y no tenía ganas, |:)|
 
-'''Diseño:'''
+`attachment:soloejemplo.png`_
 
-[[attachment:soloejemplo.svg]]
+**Diseño:**
 
-== Comentarios ==
+`attachment:soloejemplo.svg`_soloejemplo.svg`attachment:None`_
 
-* [FacundoBatista] Buu, es una porquería
+Comentarios
+-----------
 
-* Es linda, :)
+* [FacundoBatista_] Buu, es una porquería
+
+* Es linda, |:)|
+
