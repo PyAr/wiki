@@ -1,4 +1,3 @@
-#format rst
 
 Nueva versión disponible de la CDPedia: 0.8
 ===========================================
