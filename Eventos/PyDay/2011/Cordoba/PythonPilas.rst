@@ -1,6 +1,3 @@
-#format rst
-## master-page:CharlaTemplate
-## master-date:Unknown-Date
 
 Haciendo videojuegos con Pilas
 ==============================
