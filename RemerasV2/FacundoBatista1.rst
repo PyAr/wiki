@@ -1,13 +1,18 @@
-== Intento 01 de Facundo Batista ==
+#format rst
 
-La idea acá es dar dos o tres palabras copadas sobre Python, más la clave abajo que es ''disfrutar'' la programación.
+Intento 01 de Facundo Batista
+-----------------------------
 
-{{attachment:remera2-Facu01.png}}
+La idea acá es dar dos o tres palabras copadas sobre Python, más la clave abajo que es *disfrutar* la programación.
 
-'''Diseño:'''
+`attachment:remera2-Facu01.png`_
 
-[[attachment:remera2-Facu01.svg]]
+**Diseño:**
 
-== Comentarios ==
+`attachment:remera2-Facu01.svg`_remera2-Facu01.svg`attachment:None`_
+
+Comentarios
+-----------
 
 * [quien?] (placeholder)
+
