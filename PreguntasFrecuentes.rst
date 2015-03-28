@@ -1,7 +1,3 @@
-
-Preguntas Frecuentes
-====================
-
 .. contents::
 
 -------------------------
@@ -123,45 +119,42 @@ Técnicamente hablando, las funciones internas, clases, expresiones generadoras 
 
 Ejemplo:
 
-::
+.. raw:: html
 
-   .. raw:: html
-      <span class="line"><span class="k">def</span> <span class="nf">f</span><span class="p">(</span><span class="n">x</span><span class="p">):</span>
-      </span><span class="line">    <span class="k">def</span> <span class="nf">g</span><span class="p">():</span>
-      </span><span class="line">        <span class="k">return</span> <span class="n">x</span> <span class="o">+</span> <span class="mi">1</span>
-      </span><span class="line">    <span class="k">return</span> <span class="n">g</span><span class="p">()</span>
-      </span><span class="line">    <span class="c"># aquí &quot;x&quot; se incrementó, x no es local a &#39;g&#39;</span>
-      </span><span class="line">    <span class="c"># x es una celda en toda la función f</span>
-      </span><span class="line">    <span class="c"># para que pueda ser accedida desde g y f a la vez</span>
-      </span>
+   <span class="line"><span class="k">def</span> <span class="nf">f</span><span class="p">(</span><span class="n">x</span><span class="p">):</span>
+   </span><span class="line">    <span class="k">def</span> <span class="nf">g</span><span class="p">():</span>
+   </span><span class="line">        <span class="k">return</span> <span class="n">x</span> <span class="o">+</span> <span class="mi">1</span>
+   </span><span class="line">    <span class="k">return</span> <span class="n">g</span><span class="p">()</span>
+   </span><span class="line">    <span class="c"># aquí &quot;x&quot; se incrementó, x no es local a &#39;g&#39;</span>
+   </span><span class="line">    <span class="c"># x es una celda en toda la función f</span>
+   </span><span class="line">    <span class="c"># para que pueda ser accedida desde g y f a la vez</span>
+   </span>
+
 
 Otro
 
-::
+.. raw:: html
 
-   .. raw:: html
-      <span class="line"><span class="k">def</span> <span class="nf">f</span><span class="p">(</span><span class="n">l</span><span class="p">):</span>
-      </span><span class="line">    <span class="n">escala</span> <span class="o">=</span> <span class="nb">sum</span><span class="p">(</span><span class="n">l</span><span class="p">)</span>
-      </span><span class="line">    <span class="k">return</span> <span class="nb">set</span><span class="p">(</span> <span class="n">x</span> <span class="o">/</span> <span class="n">escala</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">l</span> <span class="p">)</span>
-      </span><span class="line">    <span class="c"># escala es una celda porque &quot;x / escala for x in l&quot;</span>
-      </span><span class="line">    <span class="c"># es una expresión generadora, y su única forma de</span>
-      </span><span class="line">    <span class="c"># acceder a &quot;escala&quot; es a través de la celda</span>
-      </span>
+   <span class="line"><span class="k">def</span> <span class="nf">f</span><span class="p">(</span><span class="n">l</span><span class="p">):</span>
+   </span><span class="line">    <span class="n">escala</span> <span class="o">=</span> <span class="nb">sum</span><span class="p">(</span><span class="n">l</span><span class="p">)</span>
+   </span><span class="line">    <span class="k">return</span> <span class="nb">set</span><span class="p">(</span> <span class="n">x</span> <span class="o">/</span> <span class="n">escala</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">l</span> <span class="p">)</span>
+   </span><span class="line">    <span class="c"># escala es una celda porque &quot;x / escala for x in l&quot;</span>
+   </span><span class="line">    <span class="c"># es una expresión generadora, y su única forma de</span>
+   </span><span class="line">    <span class="c"># acceder a &quot;escala&quot; es a través de la celda</span>
+   </span>
 
 Es importante saber cuáles de nuestras variables son celdas y cuáles simplemente locales, porque la sintaxis de python nos prohibe borrar celdas, no así variables locales:
 
-::
-
-   .. raw:: html
-      <span class="line"><span class="k">def</span> <span class="nf">f</span><span class="p">(</span><span class="n">x</span><span class="p">):</span>
-      </span><span class="line">    <span class="n">rv</span> <span class="o">=</span> <span class="nb">set</span><span class="p">(</span> <span class="p">[</span> <span class="n">i</span><span class="o">*</span><span class="n">x</span> <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">xrange</span><span class="p">(</span><span class="mi">10</span><span class="p">)</span> <span class="p">]</span> <span class="p">)</span>
-      </span><span class="line">    <span class="k">del</span> <span class="n">x</span> <span class="c"># bizarro pero ok</span>
-      </span><span class="line">    <span class="k">return</span> <span class="n">rv</span>
-      </span><span class="line"><span class="k">def</span> <span class="nf">g</span><span class="p">(</span><span class="n">x</span><span class="p">):</span>
-      </span><span class="line">    <span class="n">rv</span> <span class="o">=</span> <span class="nb">set</span><span class="p">(</span> <span class="n">i</span><span class="o">*</span><span class="n">x</span> <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">xrange</span><span class="p">(</span><span class="mi">10</span><span class="p">)</span> <span class="p">)</span>
-      </span><span class="line">    <span class="k">del</span> <span class="n">x</span> <span class="c"># error de sintaxis, no se pueden borrar celdas</span>
-      </span><span class="line">    <span class="k">return</span> <span class="n">rv</span>
-      </span>
+.. raw:: html
+   <span class="line"><span class="k">def</span> <span class="nf">f</span><span class="p">(</span><span class="n">x</span><span class="p">):</span>
+   </span><span class="line">    <span class="n">rv</span> <span class="o">=</span> <span class="nb">set</span><span class="p">(</span> <span class="p">[</span> <span class="n">i</span><span class="o">*</span><span class="n">x</span> <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">xrange</span><span class="p">(</span><span class="mi">10</span><span class="p">)</span> <span class="p">]</span> <span class="p">)</span>
+   </span><span class="line">    <span class="k">del</span> <span class="n">x</span> <span class="c"># bizarro pero ok</span>
+   </span><span class="line">    <span class="k">return</span> <span class="n">rv</span>
+   </span><span class="line"><span class="k">def</span> <span class="nf">g</span><span class="p">(</span><span class="n">x</span><span class="p">):</span>
+   </span><span class="line">    <span class="n">rv</span> <span class="o">=</span> <span class="nb">set</span><span class="p">(</span> <span class="n">i</span><span class="o">*</span><span class="n">x</span> <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">xrange</span><span class="p">(</span><span class="mi">10</span><span class="p">)</span> <span class="p">)</span>
+   </span><span class="line">    <span class="k">del</span> <span class="n">x</span> <span class="c"># error de sintaxis, no se pueden borrar celdas</span>
+   </span><span class="line">    <span class="k">return</span> <span class="n">rv</span>
+   </span>
 
 Nótese que en *f*, x no es una celda porque ocurre en una expresión de lista por comprensión - que se parece, pero no es un generador.
 
@@ -172,26 +165,22 @@ La documentación de python sólo menciona un *scope lógico local*, el "local".
 
 Las variables locales todos las conocemos:
 
-::
-
-   .. raw:: html
-      <span class="line"><span class="k">def</span> <span class="nf">f</span><span class="p">():</span>
-      </span><span class="line">   <span class="n">x</span> <span class="o">=</span> <span class="mi">4</span> <span class="c"># x es local</span>
-      </span>
+.. raw:: html
+   <span class="line"><span class="k">def</span> <span class="nf">f</span><span class="p">():</span>
+   </span><span class="line">   <span class="n">x</span> <span class="o">=</span> <span class="mi">4</span> <span class="c"># x es local</span>
+   </span>
 
 Los parámetros de una función también son variables locales. Por ende, self, en una función de una instancia, es también una variable local.
 
 Las variables globales todos las conocemos también:
 
-::
-
-   .. raw:: html
-      <span class="line"><span class="n">llamadas</span> <span class="o">=</span> <span class="mi">0</span>
-      </span><span class="line">
-      </span><span class="line"><span class="k">def</span> <span class="nf">f</span><span class="p">():</span>
-      </span><span class="line">   <span class="k">global</span> <span class="n">llamadas</span> <span class="c"># llamadas es global</span>
-      </span><span class="line">   <span class="n">llamadas</span> <span class="o">+=</span> <span class="mi">1</span>
-      </span>
+.. raw:: html
+   <span class="line"><span class="n">llamadas</span> <span class="o">=</span> <span class="mi">0</span>
+   </span><span class="line">
+   </span><span class="line"><span class="k">def</span> <span class="nf">f</span><span class="p">():</span>
+   </span><span class="line">   <span class="k">global</span> <span class="n">llamadas</span> <span class="c"># llamadas es global</span>
+   </span><span class="line">   <span class="n">llamadas</span> <span class="o">+=</span> <span class="mi">1</span>
+   </span>
 
 Las variables globales son *"locales al módulo"*. Dentro de otro módulo, habrá otras globales.
 
@@ -418,11 +407,9 @@ MarianoGuerra_ preguntó esto en este hilo: http://mx.grulic.org.ar/lurker/threa
 
 La respuesta que le dio MartinBothiry_ es hacer:
 
-::
-
-   .. raw:: html
-      <span class="line">  <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">abspath</span><span class="p">(</span><span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">dirname</span><span class="p">(</span><span class="n">__file__</span><span class="p">))</span>
-      </span>
+.. raw:: html
+   <span class="line">  <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">abspath</span><span class="p">(</span><span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">dirname</span><span class="p">(</span><span class="n">__file__</span><span class="p">))</span>
+   </span>
 
 ¿Uso el modulo array o listas?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -456,25 +443,21 @@ A veces el "is" me dice una cosa y otras otra, ¿funciona mal?
 
 En algunos casos, ofrece resultado que a primera vista sorprenden...
 
-::
-
-   .. raw:: html
-      <span class="line"><span class="o">&gt;&gt;&gt;</span> <span class="n">a</span> <span class="o">=</span> <span class="mi">3</span>
-      </span><span class="line"><span class="o">&gt;&gt;&gt;</span> <span class="n">b</span> <span class="o">=</span> <span class="mi">3</span>
-      </span><span class="line"><span class="o">&gt;&gt;&gt;</span> <span class="n">a</span> <span class="ow">is</span> <span class="n">b</span>
-      </span><span class="line"><span class="bp">True</span>
-      </span>
+.. raw:: html
+   <span class="line"><span class="o">&gt;&gt;&gt;</span> <span class="n">a</span> <span class="o">=</span> <span class="mi">3</span>
+   </span><span class="line"><span class="o">&gt;&gt;&gt;</span> <span class="n">b</span> <span class="o">=</span> <span class="mi">3</span>
+   </span><span class="line"><span class="o">&gt;&gt;&gt;</span> <span class="n">a</span> <span class="ow">is</span> <span class="n">b</span>
+   </span><span class="line"><span class="bp">True</span>
+   </span>
 
 En este caso a apunta a un 3 en memoria, y b apunta al mismo 3 en memoria. Python no creó dos objetos "3", sino que usó el mismo para los nombres a y b.
 
-::
-
-   .. raw:: html
-      <span class="line"><span class="o">&gt;&gt;&gt;</span> <span class="n">a</span> <span class="o">=</span> <span class="mi">500</span>
-      </span><span class="line"><span class="o">&gt;&gt;&gt;</span> <span class="n">b</span> <span class="o">=</span> <span class="mi">500</span>
-      </span><span class="line"><span class="o">&gt;&gt;&gt;</span> <span class="n">a</span> <span class="ow">is</span> <span class="n">b</span>
-      </span><span class="line"><span class="bp">False</span>
-      </span>
+.. raw:: html
+   <span class="line"><span class="o">&gt;&gt;&gt;</span> <span class="n">a</span> <span class="o">=</span> <span class="mi">500</span>
+   </span><span class="line"><span class="o">&gt;&gt;&gt;</span> <span class="n">b</span> <span class="o">=</span> <span class="mi">500</span>
+   </span><span class="line"><span class="o">&gt;&gt;&gt;</span> <span class="n">a</span> <span class="ow">is</span> <span class="n">b</span>
+   </span><span class="line"><span class="bp">False</span>
+   </span>
 
 Aquí a apunta a un 500 en memoria, y b apunta a otro 500 en memoria. Python sí creó dos objetos "500".
 
@@ -491,26 +474,15 @@ Pero ojo, que esto sucede con versiones pasadas y actuales de CPython. Es un det
 
 .. _ListaDeCorreo:
 
-
 .. _grupo de Python de Buenos Aires de Meetup: http://python.meetup.com/cities/ar/buenos_aires/
 
 .. _SEO: http://es.wikipedia.org/wiki/Posicionamiento_en_buscadores
 
-
-.. _aquí: http://webchat.freenode.net/?channels=pyar
-
-
-
-
-
+.. _aquí: /irc/
 
 .. _Portland Pattern Repository's Wiki: http://c2.com/cgi/wiki?PythonSprint
 
-
-
 .. _FAQ General de Python: http://www.python.org/doc/faq/es/general/#por-qu-hay-tipos-de-datos-tuplas-y-listas-separados
-
-
 
 .. _IDLE: http://en.wikipedia.org/wiki/IDLE_(Python)
 
@@ -520,10 +492,7 @@ Pero ojo, que esto sucede con versiones pasadas y actuales de CPython. Es un det
 
 .. _wxPython: http://www.wxpython.org/
 
-
-
 .. _recursos externos: http://www.eseth.org/2008/pimp-pythonrc.html
-
 
 .. _SqlAlchemy: http://www.sqlalchemy.org/
 
@@ -535,15 +504,9 @@ Pero ojo, que esto sucede con versiones pasadas y actuales de CPython. Es un det
 
 .. _DAL: http://www.web2py.com.ar/examples/default/dal
 
-
-
-
-
 .. _Django: http://www.djangoproject.com
 
 .. _Turbogears: http://turbogears.org/
-
-
 
 .. _Zope: http://www.zope.org
 
