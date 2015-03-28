@@ -1,4 +1,3 @@
-#format rst
 
 CafeConf 2006
 =============
@@ -14,11 +13,7 @@ Nota: NubIs_ estaba anotado pero al final no puede.
 
 .. ############################################################################
 
-.. _alecu: ../AlejandroJCura
 
-.. _yaco: ../SantiagoPereson
 
-.. _GuillermoGonzalez: ../GuillermoGonzalez
 
-.. _NubIs: ../NubIs
 
