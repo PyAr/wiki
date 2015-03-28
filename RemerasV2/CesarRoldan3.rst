@@ -1,19 +1,28 @@
-== Intento 03 de Cesar Roldan ==
+#format rst
 
-Con las sugerencias de FacundoBatista en la RemerasV2/CesarRoldan2 y otras cosas ;-).
+Intento 03 de Cesar Roldan
+--------------------------
 
-{{attachment:remeraCesar3.png}}
+Con las sugerencias de FacundoBatista_ en la `RemerasV2/CesarRoldan2`_ y otras cosas ;-).
 
-'''Diseño:'''
+`attachment:remeraCesar3.png`_
 
-[[attachment:remeraCesar3.svg]]
+**Diseño:**
+
+`attachment:remeraCesar3.svg`_remeraCesar3.svg`attachment:None`_
 
 Casos reales y mas colores !!
 
-{{attachment:remeraCesar3remera.png}}
+`attachment:remeraCesar3remera.png`_
 
-{{attachment:remera3CesarAzul.png}} {{attachment:remera3CesarNegra.png}}
+`attachment:remera3CesarAzul.png`_ `attachment:remera3CesarNegra.png`_
 
-== Comentarios ==
+Comentarios
+-----------
 
- * [FacundoBatista] Me preocupa el tema de la impresión... ¿se puede hacer de costado? si la hacen en dos partes, va a ser dificil que coincida...
+* [FacundoBatista_] Me preocupa el tema de la impresión... ¿se puede hacer de costado? si la hacen en dos partes, va a ser dificil que coincida...
+
+.. ############################################################################
+
+.. _RemerasV2/CesarRoldan2: ../CesarRoldan2
+
