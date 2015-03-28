@@ -1,23 +1,40 @@
-##master-page:HomepageTemplate
-#format wiki
-== Gonzalo Delgado ==
+#format rst
+## master-page:HomepageTemplate
 
-Email: <<MailTo(gonzalodel AT gmail DOT com)>>
+Gonzalo Delgado
+---------------
 
-Soy Programador Universitario de la Facultad de Ciencias Exactas y Tecnología de la [[http://www.unt.edu.ar/|UNT]]
+Email: `[[MailTo(gonzalodel AT gmail DOT com)]]`_
 
-Trabajé en [[http://fortix.com.ar/|Fortix]] desde el año 2006 hasta el año 2009 como sysadmin. Es allí donde aprendí Python para automatizar tareas y extraer información de los servidores manejados.
+Soy Programador Universitario de la Facultad de Ciencias Exactas y Tecnología de la UNT_
 
-Trabajé también con la gente piola de [[http://www.machinalis.com/|Machinalis]] a fines del 2009 desarrollando sitios web con Django.
+Trabajé en Fortix_ desde el año 2006 hasta el año 2009 como sysadmin. Es allí donde aprendí Python para automatizar tareas y extraer información de los servidores manejados.
 
-Actualmente trabajo para [[http://www.fiveq.com/|Five Q]], también con Django.
+Trabajé también con la gente piola de Machinalis_ a fines del 2009 desarrollando sitios web con Django.
 
+Actualmente trabajo para `Five Q`_, también con Django.
 
+Estoy armando (con muuucha tranquilidad) mi `sitio web personal`_, de nuevo con Django y usando Lighttpd_ sobre un server web casero.
 
-Estoy armando (con muuucha tranquilidad) mi [[http://gonzalodelgado.com.ar/|sitio web personal]], de nuevo con Django y usando [[http://www.lighttpd.net/|Lighttpd]] sobre un server web casero.
+Si estás en Tucumán y programás en Python, te invito un café |;)|
 
+-------------------------
 
-Si estás en Tucumán y programás en Python, te invito un café ;)
+ CategoryHomepage_
 
-----
-CategoryHomepage
+.. ############################################################################
+
+.. _UNT: http://www.unt.edu.ar/
+
+.. _Fortix: http://fortix.com.ar/
+
+.. _Machinalis: http://www.machinalis.com/
+
+.. _Five Q: http://www.fiveq.com/
+
+.. _sitio web personal: http://gonzalodelgado.com.ar/
+
+.. _Lighttpd: http://www.lighttpd.net/
+
+.. _CategoryHomepage: ../CategoryHomepage
+
