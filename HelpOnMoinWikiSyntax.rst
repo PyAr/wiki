@@ -1,10 +1,3 @@
-#format rst
-## Please edit system and help pages ONLY in the master wiki!
-## For more information, please see MoinMoin:MoinDev/Translation.
-## page was renamed from SyntaxReference
-## master-page:Unknown-Page
-## master-date:Unknown-Date
-#acl -All:write Default
 
 This page aims to introduce the most important elements of MoinMoin_'s syntax at a glance, showing first the markup verbatim and then how it is rendered by the wiki engine. Additionally, you'll find links to the relative help pages. Please note that some of the features depend on your configuration.
 
@@ -129,7 +122,7 @@ Internal Links
 
 * `description <../PageName#anchorname>`__
 
-* `attachment:filename.txt`_filename.txt`attachment:None`_
+* 
 
 External Links
 --------------
@@ -563,54 +556,71 @@ Its visibility gets toggled the same way.
 
 .. ############################################################################
 
-.. _MoinMoin: ../MoinMoin
 
-.. _HelpOnHeadlines: ../HelpOnHeadlines
 
-.. _HelpOnFormatting: ../HelpOnFormatting
 
-.. _HelpOnLinking: ../HelpOnLinking
 
 .. _FrontPage:
-.. _named link: ../FrontPage
 
-.. _HelpOnEditing/SubPages: ../HelpOnEditing/SubPages
 
 .. _#anchorname:
 .. _description: HelpOnMoinWikiSyntax#anchorname
 
-.. _PageName#anchorname: ../PageName#anchorname
 
 .. _MoinMoin Wiki: http://moinmo.in/
 
 .. _moinmoin.png: http://static.moinmo.in/logos/moinmoin.png
 
 .. _InterWiki:
-.. _InterWiki page on MeatBall: ../wiki:MeatBall:InterWiki
 
 .. _link to file filename with spaces.txt: file://///servername/share/full/path/to/file/filename%20with%20spaces.txt
 
 .. _user@example.com: mailto:user@example.com
 
-.. _WikiName: ../WikiName
 
 .. _myexample.tdraw: drawing:myexample.tdraw
 
-.. _HelpOnLists: ../HelpOnLists
 
-.. _HelpOnRules: ../HelpOnRules
 
-.. _HelpOnTables: ../HelpOnTables
 
-.. _HelpOnMacros: ../HelpOnMacros
 
-.. _HelpOnVariables: ../HelpOnVariables
 
-.. _HelpOnSmileys: ../HelpOnSmileys
 
-.. _HelpOnParsers: ../HelpOnParsers
 
-.. _HelpOnAdmonitions: ../HelpOnAdmonitions
 
-.. _HelpOnComments: ../HelpOnComments
+
+
+
+.. role:: underline
+   :class: underline
+
+
+
+.. role:: subscript
+   :class: subscript
+
+
+
+.. role:: superscript
+   :class: superscript
+
+
+
+.. role:: small
+   :class: small
+
+
+
+.. role:: big
+   :class: big
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: underline
+   :class: underline
 
