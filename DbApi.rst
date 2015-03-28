@@ -1,4 +1,3 @@
-#format rst
 
 Acceso a Bases de Datos desde Python: Interfaz DB-API
 -----------------------------------------------------
