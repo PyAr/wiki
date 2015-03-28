@@ -1,4 +1,3 @@
-#format rst
 
 Servers Privados Virtuales
 ==========================
