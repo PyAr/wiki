@@ -1,4 +1,3 @@
-#format rst
 
 Decodificar entities de HTML
 ============================
