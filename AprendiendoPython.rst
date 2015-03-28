@@ -1,4 +1,3 @@
-#format rst
 
 ¡Quiero Aprender Python!
 ========================
@@ -171,7 +170,6 @@ Videos
 
 .. ############################################################################
 
-.. _ListaDeCorreo: ../ListaDeCorreo
 
 .. _How to Think Like a Computer Scientist: http://greenteapress.com/thinkpython/thinkpython.html
 
@@ -197,7 +195,6 @@ Videos
 
 .. _Python 2.4 Quick Reference: http://rgruet.free.fr/PQR24/PQR2.4.html
 
-.. _MiniEjemplos: ../MiniEjemplos
 
 .. _Tutorial de Python: https://docs.python.org/3/tutorial/index.html
 
@@ -207,7 +204,6 @@ Videos
 
 .. _Guia de Aprendizaje de Python: http://python.org.ar/pyar/Tutorial
 
-.. _PyAr: ../PyAr
 
 .. _Un poco de python: http://users.servicios.retecal.es/tjavier/python/Un_poco_de_Python-2.html
 
@@ -227,19 +223,12 @@ Videos
 
 .. _Introducción a Minidom: http://sbassi.googlepages.com/leyendoxmlenpython:dom2
 
-.. _SebastianBassi: ../SebastianBassi
 
-.. _DbApi: ../DbApi
 
-.. _MarianoReingart: ../MarianoReingart
 
-.. _PlPython: ../PlPython
 
-.. _PythonCard: ../PythonCard
 
 .. _Python Recipes - ActiveState: http://code.activestate.com/recipes/langs/python/
 
-.. _Recetario - Python Argentina: ../Recetario
 
-.. _Lista de charlas realizadas: ../CharlasAbiertas2010#Charlas Realizadas
 
