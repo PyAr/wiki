@@ -1,11 +1,19 @@
-##master-page:HomepageTemplate
-#format wiki
- 
+#format rst
+## master-page:HomepageTemplate
+
 IRC: verterok @ Freenode
 
-Email:  <<MailTo(guillo.gonzo AT SPAMFREE gmail DOT com)>>
+Email:  `[[MailTo(guillo.gonzo AT SPAMFREE gmail DOT com)]]`_
 
 ...
 
-----
- CategoryHomepage
+-------------------------
+
+
+
+  CategoryHomepage_
+
+.. ############################################################################
+
+.. _CategoryHomepage: ../CategoryHomepage
+
