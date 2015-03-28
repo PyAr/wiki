@@ -1,11 +1,16 @@
-##master-page:CategoryTemplate
-##master-date:Unknown-Date
-#format wiki
-#language en
+#format rst
+## master-page:CategoryTemplate
+## master-date:Unknown-Date
 
-'''Lista de Paginas en esta Categoria:'''
+**Lista de Paginas en esta Categoria:**
 
-<<FullSearchCached(category:CategoryRecetas)>>
+`[[FullSearchCached(category:CategoryRecetas)]]`_
 
-----
-CategoryCategory
+-------------------------
+
+ CategoryCategory_
+
+.. ############################################################################
+
+.. _CategoryCategory: ../CategoryCategory
+
