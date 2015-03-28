@@ -1,6 +1,3 @@
-##master-page:HomepageTemplate
-#format wiki
-#language en
 == Marcelo Fernández ==
 
 Miembro de PyAr desde... qué se yo, 2006 digamos.
