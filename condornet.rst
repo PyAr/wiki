@@ -1,3 +1,12 @@
+#format rst
+
 Escribe acerca de condornet aquí.
-----
-CategoryCategory
+
+-------------------------
+
+ CategoryCategory_
+
+.. ############################################################################
+
+.. _CategoryCategory: ../CategoryCategory
+
