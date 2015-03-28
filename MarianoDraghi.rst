@@ -1,7 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
-#acl MarianoDraghi:admin,read,write,delete,revert All:read
-#language es
 
 Mariano Draghi
 --------------
@@ -19,5 +15,4 @@ Si quieren saber en qué estoy pensando, o qué es de mi vida, pueden consultar 
 
 .. ############################################################################
 
-.. _CategoryHomepage: ../CategoryHomepage
 
