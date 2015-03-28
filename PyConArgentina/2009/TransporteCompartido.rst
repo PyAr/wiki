@@ -1,4 +1,3 @@
-#format rst
 
 PyCon Argentina 2009
 ====================
@@ -33,4 +32,9 @@ Salida en colectivo
 * **Juan Ejemplo** Salgo desde Cordoba en el practico a buenos aires el 03 a las 23 horas para Buenos Aires
 
 * **Mariano Guerra** Voy en colectivo desde Córdoba a Buenos Aires el Jueves a la noche y vuelvo Sábado a la noche/Domingo a la mañana `[[MailTo(luismarianoguerra AT gmail DOT com)]]`_ ) - Si alguien me quiere llevar en auto pago gastos |:)|
+
+
+
+.. role:: strike
+   :class: strike
 
