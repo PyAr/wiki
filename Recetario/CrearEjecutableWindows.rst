@@ -1,4 +1,3 @@
-#format rst
 
 Empaquetando programas de Python para Windows
 ---------------------------------------------
@@ -14,11 +13,11 @@ En esta receta se muestra como:
 
 Ver adjuntos:
 
-* `attachment:hola.py`_hola.py`attachment:None`_: aplicación de ejemplo
+* : aplicación de ejemplo
 
-* `attachment:setup.py`_setup.py`attachment:None`_: script de "compilación" para py2exe
+* : script de "compilación" para py2exe
 
-* `attachment:setup.exe`_setup.exe`attachment:None`_: instalador autoextraible producido con esta receta
+* : instalador autoextraible producido con esta receta
 
 Requerimientos:
 :::::::::::::::
