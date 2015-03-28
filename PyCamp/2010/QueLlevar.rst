@@ -1,4 +1,3 @@
-#format rst
 
 Si se les ocurren más cosas, anoten.
 
