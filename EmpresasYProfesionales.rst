@@ -1,4 +1,3 @@
-#format rst
 
 Empresas y Profesionales que trabajan con Python
 ------------------------------------------------
