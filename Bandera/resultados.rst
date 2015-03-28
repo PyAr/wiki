@@ -1,5 +1,3 @@
-#format rst
-#acl AdminGroup:admin,read,write,delete,revert All:read
 
 Bandera Ganadora: Pablo4
 ------------------------
@@ -23,5 +21,4 @@ Resultados
 
 .. ############################################################################
 
-.. _Detalle de Votos: ../detalleVotos
 
