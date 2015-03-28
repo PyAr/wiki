@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 @luistucho@
 -----------
@@ -18,5 +16,4 @@ Email: luist `luist.nagel@gmail.com`_
 
 .. _luist.nagel@gmail.com: mailto:luist.nagel@gmail.com
 
-.. _CategoryHomepage: ../CategoryHomepage
 
