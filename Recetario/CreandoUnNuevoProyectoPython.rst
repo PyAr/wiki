@@ -1,4 +1,3 @@
-#format rst
 
 Creando un nuevo proyecto Python
 ================================
