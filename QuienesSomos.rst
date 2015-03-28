@@ -1,4 +1,3 @@
-#format rst
 
 ¿Quiénes Somos?
 ---------------
@@ -24,23 +23,17 @@ Suscribiéndote a la ListaDeCorreo_, registrándote en el portal, asistiendo a c
 
 .. ############################################################################
 
-.. _grupo de entusiastas de Python: ../MiembrosDePyAr
 
 .. _eventos:
 .. _reuniones:
-.. _Eventos: ../Eventos
 
-.. _ListaDeCorreo: ../ListaDeCorreo
 
-.. _PyAr: ../PyAr
 
 .. _grupo de Python de Buenos Aires de Meetup: http://python.meetup.com/cities/ar/buenos_aires/
 
 .. _SEO: http://es.wikipedia.org/wiki/Posicionamiento_en_buscadores
 
-.. _primera reunión: ../Eventos/Reuniones/Reunion01
 
 .. _aquí: http://webchat.freenode.net/?channels=pyar
 
-.. _ContribuyendoAlWiki: ../ContribuyendoAlWiki
 
