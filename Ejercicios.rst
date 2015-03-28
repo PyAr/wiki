@@ -1,1 +1,2 @@
-## page was renamed from ejercicios
+#format rst
+
