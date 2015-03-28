@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 == Alberto Pastor==
 
@@ -13,5 +11,4 @@ Email: `[[MailTo(apastor63@gmail.com)]]`_.. You can even more obfuscate your ema
 
 .. ############################################################################
 
-.. _CategoryHomepage: ../CategoryHomepage
 
