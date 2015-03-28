@@ -1,20 +1,24 @@
-== Intento 02 de Cesar Roldan ==
+#format rst
+
+Intento 02 de Cesar Roldan
+--------------------------
 
 Lo que nos potencia..
 
-{{attachment:remeraCesar2.png}}
+`attachment:remeraCesar2.png`_
 
-Casos reales :-)
+Casos reales |:-)|
 
-{{attachment:remeraCesar2remera.png}}
-{{attachment:remeraCesar2chomba.png}}
+`attachment:remeraCesar2remera.png`_ `attachment:remeraCesar2chomba.png`_
 
-'''Diseño:'''
+**Diseño:**
 
-[[attachment:remeraCesar2.svg.bz2]]
+`attachment:remeraCesar2.svg.bz2`_remeraCesar2.svg.bz2`attachment:None`_
 
-== Comentarios ==
+Comentarios
+-----------
 
-* [FacundoBatista] ¡Me gusta! ¿Por qué no en azul? algo que estaría bueno también es ponerle algo como... "Este cuerpo es Python powered", o algo así...
+* [FacundoBatista_] ¡Me gusta! ¿Por qué no en azul? algo que estaría bueno también es ponerle algo como... "Este cuerpo es Python powered", o algo así...
 
-* [NubIs] Esta bueno, bastante sobria. De donde sacaste los casos reales? :)
+* [NubIs_] Esta bueno, bastante sobria. De donde sacaste los casos reales? |:)|
+
