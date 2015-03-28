@@ -1,5 +1,3 @@
-#format rst
-## page was renamed from Eventos/Reuniones/Reunion22
 
 Reunión 22 - 25/04/2007 - Hip Bar
 =================================
@@ -112,4 +110,9 @@ Más tarde fuimos a una pizzeria a comer algo y estuvimos charlando algunos tema
 .. _Pywiii: http://www.pyweek.org/e/Pywiii/
 
 .. _PyCor 2.0: http://www.pyweek.org/e/pycor2/
+
+
+
+.. role:: superscript
+   :class: superscript
 
