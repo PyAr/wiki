@@ -1,4 +1,3 @@
-#format rst
 
 MatiasBellone
 -------------
@@ -19,7 +18,5 @@ Porgramo en Python más que nada por diversión con un par de proyectos chicos e
 
 .. ############################################################################
 
-.. _LinkedIn: ../LinkedIn
 
-.. _CategoryHomepage: ../CategoryHomepage
 
