@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 OSiRiS (aka OSiUX)
 ------------------
@@ -16,5 +14,4 @@ OSiRiS (aka OSiUX)
 
 .. ############################################################################
 
-.. _CategoryHomepage: ../CategoryHomepage
 
