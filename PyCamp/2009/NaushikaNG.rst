@@ -1,4 +1,3 @@
-#format rst
 
 Cosas a hacerle a Naushika:
 
