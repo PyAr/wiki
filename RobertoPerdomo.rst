@@ -1,4 +1,3 @@
-#format rst
 
 Venezolano, Ingeniero de Sistemas, egresado de la Unefa. 
 
