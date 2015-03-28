@@ -1,4 +1,3 @@
-#format rst
 
 Manejo simple de xml (SimpleXMLElement)
 ---------------------------------------
