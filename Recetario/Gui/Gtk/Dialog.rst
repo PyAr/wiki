@@ -1,12 +1,10 @@
-#format rst
-## page was renamed from Recetario/Gtk/Dialog
 
 GtkDialog
 ---------
 
 ejemplo para crear dialogos modales de distintos tipos con distintos botones
 
-`attachment:dialog1.png`_ `attachment:dialog2.png`_ `attachment:dialog3.png`_ `attachment:dialog4.png`_
+
 
 ::
 
