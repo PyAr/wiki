@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Eloy Colell
 -----------
@@ -22,5 +20,4 @@ Email: `[[MailTo(eloypuntocolellgarabatogmailpuntocom)]]`_ GPG_
 
 .. _GPG: http://keys.gnupg.net/pks/lookup?search=Eloy+Colell&op=index
 
-.. _CategoryHomepage: ../CategoryHomepage
 
