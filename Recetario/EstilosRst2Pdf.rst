@@ -1,4 +1,3 @@
-#format rst
 
 Modificación de Estilos en rst2pdf
 ==================================
