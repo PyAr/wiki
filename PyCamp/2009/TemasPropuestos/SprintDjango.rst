@@ -1,16 +1,28 @@
-== Participantes ==
+#format rst
 
-  1. MartínBorthiry (si logra ir al PyCamp)
-  1. AnthonyLenton
-  1. NatyBidart
-  1. HernánOlivera (remotamente)
-  1. RamiroMorales
-  1. FedericoPeretti
-  1. AgustinHenze
-  1. Humillo
+Participantes
+-------------
 
-== Qué llevar ==
+1. `MartínBorthiry`_ (si logra ir al PyCamp_)
 
-  1. Un checkout del trunk de Django
+#. AnthonyLenton_
 
-       $ svn co http://code.djangoproject.com/svn/django/trunk/ django-trunk
+#. NatyBidart_
+
+#. `HernánOlivera`_ (remotamente)
+
+#. RamiroMorales_
+
+#. FedericoPeretti_
+
+#. AgustinHenze_
+
+#. Humillo
+
+Qué llevar
+----------
+
+1. Un checkout del trunk de Django
+
+     $ svn co http://code.djangoproject.com/svn/django/trunk/ django-trunk
+
