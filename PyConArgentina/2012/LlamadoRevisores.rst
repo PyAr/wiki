@@ -1,4 +1,3 @@
-#format rst
 
 Llamado a Revisores - PyCon Arg. 2012
 =====================================
