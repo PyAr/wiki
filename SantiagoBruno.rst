@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Santiago Bruno
 --------------
@@ -40,5 +38,4 @@ Mi nick en #pyar es sbruno
 
 .. _Radiolist-mplayer: http://www.kde-look.org/content/show.php?content=60627
 
-.. _CategoryHomepage: ../CategoryHomepage
 
