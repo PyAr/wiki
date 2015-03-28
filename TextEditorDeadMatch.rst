@@ -1,4 +1,3 @@
-#format rst
 
 Cuan pupudo es el editor de texto que usas para programar python. *Machos* abstenerce: yo también puedo programar con una impresora braile pero prefiero herramientas que me ayuden.
 
@@ -38,13 +37,8 @@ Estaría buenísimo también sacar un conjunto de funcionalidades que la mayorí
 
 .. ############################################################################
 
-.. _JohnLenton: ../JohnLenton
 
-.. _JaviMansilla: ../JaviMansilla
 
-.. _ManuelKaufmann: ../ManuelKaufmann
 
-.. _HoracioDuran: ../HoracioDuran
 
-.. _SlackDeb: ../SlackDeb
 
