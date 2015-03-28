@@ -1,4 +1,3 @@
-#format rst
 
 ORMs
 ----
@@ -108,11 +107,8 @@ Experimentalmente soporta mas bases de datos, visita el sitio web de web2py y la
 
 .. _Pagina del proyecto: http://www.sqlalchemy.org/
 
-.. _MarianoGuerra: ../MarianoGuerra
 
-.. _ActiveMapper: ../ActiveMapper
 
-.. _TurboEntity: ../TurboEntity
 
 .. _Documentacion: http://charlesleifer.com/docs/peewee/
 
@@ -120,5 +116,4 @@ Experimentalmente soporta mas bases de datos, visita el sitio web de web2py y la
 
 .. _Mas documentación: https://docs.djangoproject.com/en/1.4/#the-model-layer
 
-.. _FireBird: ../FireBird
 
