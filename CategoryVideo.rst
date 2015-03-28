@@ -1,6 +1,3 @@
-#format rst
-## master-page:CategoryTemplate
-## master-date:Unknown-Date
 
 **Lista de paginas en esta categoria:**
 
@@ -12,5 +9,4 @@
 
 .. ############################################################################
 
-.. _CategoryCategory: ../CategoryCategory
 
