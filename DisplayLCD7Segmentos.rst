@@ -1,273 +1,279 @@
-= Display LCD de 7 Segmentos =
+#format rst
+
+Display LCD de 7 Segmentos
+==========================
 
 Crear un Widget de Canvas tipo Display LCD Digital de 7 Segmentos.
 
-Toma los sys.argv, tiene punto, tiene guion de negativo, tiene import con wilcard ''(ups!)''.
+Toma los sys.argv, tiene punto, tiene guion de negativo, tiene import con wilcard *(ups!)*.
 
 Util para importarlo dentro de otro programa para representar otras cosas.
 
-'''Screenshot:'''
+**Screenshot:**
 
-{{attachment:temp.jpg}}
+`attachment:temp.jpg`_
 
-{{{#!code python
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-#
-try:  
-    from Tkinter import *  # Python2
-except ImportError:
-    from tkinter import *  # Python3
-import time
-import math
-import sys
+::
 
-def ledLit(pos, val):
-    if val < 0:
-        if pos == 1:
-            return 1
-        else:
-            return 0
-    else:
-        lookup = (125,80,55,87,90,79,111,81,127,95)
-        return (1<<pos) & lookup[val]
+   .. raw:: html
+      <span class="line"><span class="c">#!/usr/bin/env python</span>
+      </span><span class="line"><span class="c"># -*- coding: utf-8 -*-</span>
+      </span><span class="line"><span class="c">#</span>
+      </span><span class="line"><span class="k">try</span><span class="p">:</span> 
+      </span><span class="line">    <span class="kn">from</span> <span class="nn">Tkinter</span> <span class="kn">import</span> <span class="o">*</span>  <span class="c"># Python2</span>
+      </span><span class="line"><span class="k">except</span> <span class="ne">ImportError</span><span class="p">:</span>
+      </span><span class="line">    <span class="kn">from</span> <span class="nn">tkinter</span> <span class="kn">import</span> <span class="o">*</span>  <span class="c"># Python3</span>
+      </span><span class="line"><span class="kn">import</span> <span class="nn">time</span>
+      </span><span class="line"><span class="kn">import</span> <span class="nn">math</span>
+      </span><span class="line"><span class="kn">import</span> <span class="nn">sys</span>
+      </span><span class="line">
+      </span><span class="line"><span class="k">def</span> <span class="nf">ledLit</span><span class="p">(</span><span class="n">pos</span><span class="p">,</span> <span class="n">val</span><span class="p">):</span>
+      </span><span class="line">    <span class="k">if</span> <span class="n">val</span> <span class="o">&lt;</span> <span class="mi">0</span><span class="p">:</span>
+      </span><span class="line">        <span class="k">if</span> <span class="n">pos</span> <span class="o">==</span> <span class="mi">1</span><span class="p">:</span>
+      </span><span class="line">            <span class="k">return</span> <span class="mi">1</span>
+      </span><span class="line">        <span class="k">else</span><span class="p">:</span>
+      </span><span class="line">            <span class="k">return</span> <span class="mi">0</span>
+      </span><span class="line">    <span class="k">else</span><span class="p">:</span>
+      </span><span class="line">        <span class="n">lookup</span> <span class="o">=</span> <span class="p">(</span><span class="mi">125</span><span class="p">,</span><span class="mi">80</span><span class="p">,</span><span class="mi">55</span><span class="p">,</span><span class="mi">87</span><span class="p">,</span><span class="mi">90</span><span class="p">,</span><span class="mi">79</span><span class="p">,</span><span class="mi">111</span><span class="p">,</span><span class="mi">81</span><span class="p">,</span><span class="mi">127</span><span class="p">,</span><span class="mi">95</span><span class="p">)</span>
+      </span><span class="line">        <span class="k">return</span> <span class="p">(</span><span class="mi">1</span><span class="o">&lt;&lt;</span><span class="n">pos</span><span class="p">)</span> <span class="o">&amp;</span> <span class="n">lookup</span><span class="p">[</span><span class="n">val</span><span class="p">]</span>
+      </span><span class="line">
+      </span><span class="line"><span class="k">class</span> <span class="nc">ResolveSegColor</span><span class="p">:</span>
+      </span><span class="line">    <span class="k">def</span> <span class="nf">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">bg</span><span class="p">,</span> <span class="n">fg</span><span class="p">):</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">__bg</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">__fg</span> <span class="o">=</span> <span class="n">bg</span><span class="p">,</span> <span class="n">fg</span>
+      </span><span class="line">    <span class="k">def</span> <span class="nf">get</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">seg</span><span class="p">,</span> <span class="n">val</span><span class="p">):</span>
+      </span><span class="line">        <span class="k">if</span> <span class="n">ledLit</span><span class="p">(</span><span class="n">seg</span><span class="p">,</span> <span class="n">val</span><span class="p">):</span>
+      </span><span class="line">            <span class="k">return</span> <span class="bp">self</span><span class="o">.</span><span class="n">__fg</span>
+      </span><span class="line">        <span class="k">else</span><span class="p">:</span>
+      </span><span class="line">            <span class="k">return</span> <span class="bp">self</span><span class="o">.</span><span class="n">__bg</span>
+      </span><span class="line">
+      </span><span class="line"><span class="k">class</span> <span class="nc">Digit</span><span class="p">(</span><span class="n">Frame</span><span class="p">):</span>
+      </span><span class="line">    <span class="k">def</span> <span class="nf">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">master</span><span class="p">,</span> <span class="n">w</span><span class="p">,</span> <span class="n">h</span><span class="p">,</span> <span class="n">init</span> <span class="o">=</span> <span class="bp">None</span><span class="p">):</span>
+      </span><span class="line">        <span class="n">Frame</span><span class="o">.</span><span class="n">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">master</span><span class="p">)</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">__bg</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">__fg</span> <span class="o">=</span> <span class="s">&#39;#000000&#39;</span><span class="p">,</span> <span class="s">&#39;#0800FF&#39;</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">__lastVal</span> <span class="o">=</span> <span class="mi">0</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">__dpon</span> <span class="o">=</span> <span class="mi">0</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">__startx</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">__starty</span> <span class="o">=</span> <span class="mi">3</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">setSize</span><span class="p">(</span><span class="n">h</span><span class="p">,</span> <span class="n">w</span><span class="p">)</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">__c</span> <span class="o">=</span> <span class="n">Canvas</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">width</span> <span class="o">=</span> <span class="n">w</span><span class="p">,</span> <span class="n">height</span> <span class="o">=</span> <span class="n">h</span><span class="p">,</span> <span class="n">bg</span><span class="o">=</span><span class="bp">self</span><span class="o">.</span><span class="n">__bg</span><span class="p">,</span> <span class="n">highlightthickness</span><span class="o">=</span><span class="mi">0</span><span class="p">)</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">__c</span><span class="o">.</span><span class="n">pack</span><span class="p">(</span><span class="n">side</span><span class="o">=</span><span class="n">TOP</span><span class="p">,</span> <span class="n">fill</span><span class="o">=</span><span class="n">BOTH</span><span class="p">,</span> <span class="n">expand</span><span class="o">=</span><span class="n">YES</span><span class="p">)</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">__lines</span> <span class="o">=</span> <span class="p">[]</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">__dplines</span> <span class="o">=</span> <span class="p">[]</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">__makeLines</span><span class="p">()</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">__rseg</span> <span class="o">=</span> <span class="n">ResolveSegColor</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">__bg</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">__fg</span><span class="p">)</span>
+      </span><span class="line">        <span class="k">if</span> <span class="n">init</span> <span class="o">!=</span> <span class="bp">None</span><span class="p">:</span>
+      </span><span class="line">            <span class="bp">self</span><span class="o">.</span><span class="n">draw</span><span class="p">(</span><span class="n">init</span><span class="p">)</span>
+      </span><span class="line">
+      </span><span class="line">    <span class="k">def</span> <span class="nf">getCanvas</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>       
+      </span><span class="line">        <span class="k">return</span> <span class="bp">self</span><span class="o">.</span><span class="n">__c</span>
+      </span><span class="line">
+      </span><span class="line">    <span class="k">def</span> <span class="nf">setSize</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">h</span><span class="p">,</span> <span class="n">w</span><span class="p">):</span>       
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">__x</span> <span class="o">=</span> <span class="n">w</span> <span class="o">-</span> <span class="mi">6</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">__y</span> <span class="o">=</span> <span class="n">h</span><span class="o">/</span><span class="mi">2</span> <span class="o">-</span> <span class="mi">4</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">__w</span> <span class="o">=</span> <span class="nb">min</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">__x</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">__y</span><span class="p">)</span><span class="o">/</span><span class="mi">6</span>
+      </span><span class="line">        <span class="k">if</span> <span class="bp">self</span><span class="o">.</span><span class="n">__w</span> <span class="o">&lt;</span> <span class="mi">3</span><span class="p">:</span>
+      </span><span class="line">            <span class="bp">self</span><span class="o">.</span><span class="n">__w</span> <span class="o">=</span> <span class="mi">3</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">__x</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">__x</span> <span class="o">-</span> <span class="bp">self</span><span class="o">.</span><span class="n">__w</span> <span class="o">-</span> <span class="mi">1</span>
+      </span><span class="line">
+      </span><span class="line">    <span class="k">def</span> <span class="nf">resizeEvent</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">event</span><span class="p">):</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">setSize</span><span class="p">(</span><span class="n">event</span><span class="o">.</span><span class="n">height</span><span class="p">,</span> <span class="n">event</span><span class="o">.</span><span class="n">width</span><span class="p">)</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">__c</span><span class="o">.</span><span class="n">config</span><span class="p">(</span><span class="n">height</span> <span class="o">=</span> <span class="n">event</span><span class="o">.</span><span class="n">height</span><span class="p">,</span> <span class="n">width</span> <span class="o">=</span> <span class="n">event</span><span class="o">.</span><span class="n">width</span><span class="p">)</span>
+      </span><span class="line">        <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="bp">self</span><span class="o">.</span><span class="n">__lines</span><span class="p">:</span>
+      </span><span class="line">            <span class="bp">self</span><span class="o">.</span><span class="n">__c</span><span class="o">.</span><span class="n">delete</span><span class="p">(</span><span class="n">i</span><span class="p">)</span>
+      </span><span class="line">        <span class="k">del</span> <span class="bp">self</span><span class="o">.</span><span class="n">__lines</span><span class="p">[:]</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">__lines</span> <span class="o">=</span> <span class="p">[]</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">__makeLines</span><span class="p">()</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">draw</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">__lastVal</span><span class="p">)</span>
+      </span><span class="line">
+      </span><span class="line">    <span class="k">def</span> <span class="nf">dpon</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>       
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">__dpon</span> <span class="o">=</span> <span class="mi">1</span>
+      </span><span class="line">        <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="bp">self</span><span class="o">.</span><span class="n">__dplines</span><span class="p">:</span>
+      </span><span class="line">            <span class="bp">self</span><span class="o">.</span><span class="n">__c</span><span class="o">.</span><span class="n">itemconfigure</span><span class="p">(</span><span class="n">i</span><span class="p">,</span> <span class="n">fill</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">__fg</span><span class="p">)</span>
+      </span><span class="line">
+      </span><span class="line">    <span class="k">def</span> <span class="nf">dpoff</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">__dpon</span> <span class="o">=</span> <span class="mi">0</span>
+      </span><span class="line">        <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="bp">self</span><span class="o">.</span><span class="n">__dplines</span><span class="p">:</span>
+      </span><span class="line">            <span class="bp">self</span><span class="o">.</span><span class="n">__c</span><span class="o">.</span><span class="n">itemconfigure</span><span class="p">(</span><span class="n">i</span><span class="p">,</span> <span class="n">fill</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">__bg</span><span class="p">)</span>
+      </span><span class="line">       
+      </span><span class="line">    <span class="k">def</span> <span class="nf">refresh</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>       
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">draw</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">__lastVal</span><span class="p">)</span>
+      </span><span class="line">                 
+      </span><span class="line">    <span class="k">def</span> <span class="nf">draw</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">val</span><span class="p">,</span> <span class="n">dp</span> <span class="o">=</span> <span class="bp">None</span><span class="p">):</span>       
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">__lastVal</span> <span class="o">=</span> <span class="n">val</span>
+      </span><span class="line">        <span class="k">if</span> <span class="n">dp</span> <span class="o">!=</span> <span class="bp">None</span> <span class="ow">or</span> <span class="bp">self</span><span class="o">.</span><span class="n">__dpon</span><span class="p">:</span>
+      </span><span class="line">            <span class="n">dpc</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">__fg</span>
+      </span><span class="line">        <span class="k">else</span><span class="p">:</span>
+      </span><span class="line">            <span class="n">dpc</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">__bg</span>
+      </span><span class="line">        <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">__w</span><span class="p">):</span>
+      </span><span class="line">            <span class="n">ii</span> <span class="o">=</span> <span class="n">i</span><span class="o">*</span><span class="mi">8</span>
+      </span><span class="line">            <span class="bp">self</span><span class="o">.</span><span class="n">__c</span><span class="o">.</span><span class="n">itemconfigure</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">__lines</span><span class="p">[</span><span class="n">ii</span><span class="p">],</span>
+      </span><span class="line">                                   <span class="n">fill</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">__rseg</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="n">val</span><span class="p">))</span>
+      </span><span class="line">            <span class="k">if</span> <span class="ow">not</span> <span class="n">i</span> <span class="o">%</span> <span class="mi">2</span><span class="p">:</span>
+      </span><span class="line">                <span class="bp">self</span><span class="o">.</span><span class="n">__c</span><span class="o">.</span><span class="n">itemconfigure</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">__lines</span><span class="p">[</span><span class="n">ii</span> <span class="o">+</span> <span class="mi">1</span><span class="p">],</span>
+      </span><span class="line">                                       <span class="n">fill</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">__rseg</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="n">val</span><span class="p">))</span>
+      </span><span class="line">            <span class="k">else</span><span class="p">:</span>
+      </span><span class="line">                <span class="bp">self</span><span class="o">.</span><span class="n">__c</span><span class="o">.</span><span class="n">itemconfigure</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">__lines</span><span class="p">[</span><span class="n">ii</span> <span class="o">+</span> <span class="mi">1</span><span class="p">],</span>
+      </span><span class="line">                                       <span class="n">fill</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">__rseg</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="n">val</span><span class="p">))</span>
+      </span><span class="line">            <span class="bp">self</span><span class="o">.</span><span class="n">__c</span><span class="o">.</span><span class="n">itemconfigure</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">__lines</span><span class="p">[</span><span class="n">ii</span> <span class="o">+</span> <span class="mi">2</span><span class="p">],</span>
+      </span><span class="line">                                   <span class="n">fill</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">__rseg</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span> <span class="n">val</span><span class="p">))</span>
+      </span><span class="line">            <span class="bp">self</span><span class="o">.</span><span class="n">__c</span><span class="o">.</span><span class="n">itemconfigure</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">__lines</span><span class="p">[</span><span class="n">ii</span> <span class="o">+</span> <span class="mi">3</span><span class="p">],</span>
+      </span><span class="line">                                   <span class="n">fill</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">__rseg</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="mi">3</span><span class="p">,</span> <span class="n">val</span><span class="p">))</span>
+      </span><span class="line">            <span class="bp">self</span><span class="o">.</span><span class="n">__c</span><span class="o">.</span><span class="n">itemconfigure</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">__lines</span><span class="p">[</span><span class="n">ii</span> <span class="o">+</span> <span class="mi">4</span><span class="p">],</span>
+      </span><span class="line">                                   <span class="n">fill</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">__rseg</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="mi">4</span><span class="p">,</span> <span class="n">val</span><span class="p">))</span>
+      </span><span class="line">            <span class="bp">self</span><span class="o">.</span><span class="n">__c</span><span class="o">.</span><span class="n">itemconfigure</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">__lines</span><span class="p">[</span><span class="n">ii</span> <span class="o">+</span> <span class="mi">5</span><span class="p">],</span>
+      </span><span class="line">                                   <span class="n">fill</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">__rseg</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="mi">5</span><span class="p">,</span> <span class="n">val</span><span class="p">))</span>
+      </span><span class="line">            <span class="bp">self</span><span class="o">.</span><span class="n">__c</span><span class="o">.</span><span class="n">itemconfigure</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">__lines</span><span class="p">[</span><span class="n">ii</span> <span class="o">+</span> <span class="mi">6</span><span class="p">],</span>
+      </span><span class="line">                                   <span class="n">fill</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">__rseg</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="mi">6</span><span class="p">,</span> <span class="n">val</span><span class="p">))</span>
+      </span><span class="line">            <span class="bp">self</span><span class="o">.</span><span class="n">__c</span><span class="o">.</span><span class="n">itemconfigure</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">__lines</span><span class="p">[</span><span class="n">ii</span> <span class="o">+</span> <span class="mi">7</span><span class="p">],</span> <span class="n">fill</span> <span class="o">=</span> <span class="n">dpc</span><span class="p">)</span>
+      </span><span class="line">
+      </span><span class="line">    <span class="k">def</span> <span class="nf">clear</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>       
+      </span><span class="line">        <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="bp">self</span><span class="o">.</span><span class="n">__lines</span><span class="p">:</span>
+      </span><span class="line">            <span class="bp">self</span><span class="o">.</span><span class="n">__c</span><span class="o">.</span><span class="n">itemconfigure</span><span class="p">(</span><span class="n">i</span><span class="p">,</span> <span class="n">fill</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">__bg</span><span class="p">)</span>
+      </span><span class="line">       
+      </span><span class="line">    <span class="k">def</span> <span class="nf">__makeLines</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+      </span><span class="line">        <span class="n">start_x</span><span class="p">,</span> <span class="n">start_y</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">__startx</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">__starty</span>
+      </span><span class="line">        <span class="n">x</span><span class="p">,</span> <span class="n">y</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">__x</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">__y</span>
+      </span><span class="line">        <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">__w</span><span class="p">):</span>
+      </span><span class="line">            <span class="bp">self</span><span class="o">.</span><span class="n">__lines</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">__c</span><span class="o">.</span><span class="n">create_line</span><span class="p">(</span><span class="n">start_x</span><span class="o">+</span><span class="mi">1</span><span class="o">+</span><span class="n">i</span><span class="p">,</span> <span class="n">start_y</span><span class="o">+</span><span class="n">i</span><span class="p">,</span>
+      </span><span class="line">                                                     <span class="n">start_x</span><span class="o">+</span><span class="n">x</span><span class="o">-</span><span class="mi">2</span><span class="o">-</span><span class="n">i</span><span class="p">,</span> <span class="n">start_y</span><span class="o">+</span><span class="n">i</span><span class="p">,</span>
+      </span><span class="line">                                                     <span class="n">fill</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">__bg</span><span class="p">))</span>
+      </span><span class="line">            <span class="k">if</span> <span class="ow">not</span> <span class="n">i</span> <span class="o">%</span> <span class="mi">2</span><span class="p">:</span>
+      </span><span class="line">                <span class="bp">self</span><span class="o">.</span><span class="n">__lines</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">__c</span><span class="o">.</span><span class="n">create_line</span><span class="p">(</span><span class="n">start_x</span><span class="o">+</span><span class="mi">2</span><span class="o">+</span><span class="p">(</span><span class="n">i</span><span class="o">/</span><span class="mi">2</span><span class="p">),</span>
+      </span><span class="line">                                                         <span class="n">start_y</span><span class="o">+</span><span class="n">y</span><span class="o">-</span><span class="p">(</span><span class="n">i</span><span class="o">/</span><span class="mi">2</span><span class="p">)</span><span class="o">+</span><span class="mi">1</span><span class="p">,</span>
+      </span><span class="line">                                                         <span class="n">start_x</span><span class="o">+</span><span class="n">x</span><span class="o">-</span><span class="mi">3</span><span class="o">-</span><span class="p">(</span><span class="n">i</span><span class="o">/</span><span class="mi">2</span><span class="p">),</span>
+      </span><span class="line">                                                         <span class="n">start_y</span><span class="o">+</span><span class="n">y</span><span class="o">-</span><span class="p">(</span><span class="n">i</span><span class="o">/</span><span class="mi">2</span><span class="p">)</span><span class="o">+</span><span class="mi">1</span><span class="p">,</span>
+      </span><span class="line">                                                         <span class="n">fill</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">__bg</span><span class="p">))</span>
+      </span><span class="line">            <span class="k">else</span><span class="p">:</span>
+      </span><span class="line">                <span class="bp">self</span><span class="o">.</span><span class="n">__lines</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">__c</span><span class="o">.</span><span class="n">create_line</span><span class="p">(</span><span class="n">start_x</span><span class="o">+</span><span class="mi">2</span><span class="o">+</span><span class="p">(</span><span class="n">i</span><span class="o">/</span><span class="mi">2</span><span class="p">)</span><span class="o">+</span><span class="mi">1</span><span class="p">,</span>
+      </span><span class="line">                                                         <span class="n">start_y</span><span class="o">+</span><span class="n">y</span><span class="o">+</span><span class="p">(</span><span class="n">i</span><span class="o">/</span><span class="mi">2</span><span class="p">)</span><span class="o">+</span><span class="mi">2</span><span class="p">,</span>
+      </span><span class="line">                                                         <span class="n">start_x</span><span class="o">+</span><span class="n">x</span><span class="o">-</span><span class="mi">3</span><span class="o">-</span><span class="p">((</span><span class="n">i</span><span class="o">/</span><span class="mi">2</span><span class="p">)</span><span class="o">+</span><span class="mi">1</span><span class="p">),</span>
+      </span><span class="line">                                                         <span class="n">start_y</span><span class="o">+</span><span class="n">y</span><span class="o">+</span><span class="p">(</span><span class="n">i</span><span class="o">/</span><span class="mi">2</span><span class="p">)</span><span class="o">+</span><span class="mi">2</span><span class="p">,</span>
+      </span><span class="line">                                                         <span class="n">fill</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">__bg</span><span class="p">))</span>
+      </span><span class="line">            <span class="bp">self</span><span class="o">.</span><span class="n">__lines</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">__c</span><span class="o">.</span><span class="n">create_line</span><span class="p">(</span><span class="n">start_x</span><span class="o">+</span><span class="mi">1</span><span class="o">+</span><span class="n">i</span><span class="p">,</span>
+      </span><span class="line">                                                     <span class="n">start_y</span><span class="o">+</span><span class="mi">2</span><span class="o">*</span><span class="n">y</span><span class="o">-</span><span class="n">i</span><span class="o">+</span><span class="mi">2</span><span class="p">,</span>
+      </span><span class="line">                                                     <span class="n">start_x</span><span class="o">+</span><span class="n">x</span><span class="o">-</span><span class="mi">2</span><span class="o">-</span><span class="n">i</span><span class="p">,</span>
+      </span><span class="line">                                                     <span class="n">start_y</span><span class="o">+</span><span class="mi">2</span><span class="o">*</span><span class="n">y</span><span class="o">-</span><span class="n">i</span><span class="o">+</span><span class="mi">2</span><span class="p">,</span>
+      </span><span class="line">                                                     <span class="n">fill</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">__bg</span><span class="p">))</span>
+      </span><span class="line">            <span class="bp">self</span><span class="o">.</span><span class="n">__lines</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">__c</span><span class="o">.</span><span class="n">create_line</span><span class="p">(</span><span class="n">start_x</span><span class="o">+</span><span class="n">i</span><span class="p">,</span> <span class="n">start_y</span><span class="o">+</span><span class="mi">2</span><span class="o">+</span><span class="n">i</span><span class="p">,</span>
+      </span><span class="line">                                                     <span class="n">start_x</span><span class="o">+</span><span class="n">i</span><span class="p">,</span> <span class="n">start_y</span><span class="o">+</span><span class="n">y</span><span class="o">-</span><span class="n">i</span><span class="p">,</span>
+      </span><span class="line">                                                     <span class="n">fill</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">__bg</span><span class="p">))</span>
+      </span><span class="line">            <span class="bp">self</span><span class="o">.</span><span class="n">__lines</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">__c</span><span class="o">.</span><span class="n">create_line</span><span class="p">(</span><span class="n">start_x</span><span class="o">+</span><span class="n">x</span><span class="o">-</span><span class="n">i</span><span class="o">-</span><span class="mi">1</span><span class="p">,</span>
+      </span><span class="line">                                                     <span class="n">start_y</span><span class="o">+</span><span class="mi">2</span><span class="o">+</span><span class="n">i</span><span class="p">,</span>
+      </span><span class="line">                                                     <span class="n">start_x</span><span class="o">+</span><span class="n">x</span><span class="o">-</span><span class="n">i</span><span class="o">-</span><span class="mi">1</span><span class="p">,</span>
+      </span><span class="line">                                                     <span class="n">start_y</span><span class="o">+</span><span class="n">y</span><span class="o">-</span><span class="n">i</span><span class="p">,</span>
+      </span><span class="line">                                                     <span class="n">fill</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">__bg</span><span class="p">))</span>
+      </span><span class="line">            <span class="bp">self</span><span class="o">.</span><span class="n">__lines</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">__c</span><span class="o">.</span><span class="n">create_line</span><span class="p">(</span><span class="n">start_x</span><span class="o">+</span><span class="n">i</span><span class="p">,</span> <span class="n">start_y</span><span class="o">+</span><span class="mi">2</span><span class="o">+</span><span class="n">i</span><span class="o">+</span><span class="n">y</span><span class="p">,</span>
+      </span><span class="line">                                                     <span class="n">start_x</span><span class="o">+</span><span class="n">i</span><span class="p">,</span> <span class="n">start_y</span><span class="o">+</span><span class="mi">2</span><span class="o">*</span><span class="n">y</span><span class="o">-</span><span class="n">i</span><span class="p">,</span>
+      </span><span class="line">                                                     <span class="n">fill</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">__bg</span><span class="p">))</span>
+      </span><span class="line">            <span class="bp">self</span><span class="o">.</span><span class="n">__lines</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">__c</span><span class="o">.</span><span class="n">create_line</span><span class="p">(</span><span class="n">start_x</span><span class="o">+</span><span class="n">x</span><span class="o">-</span><span class="n">i</span><span class="o">-</span><span class="mi">1</span><span class="p">,</span>
+      </span><span class="line">                                                     <span class="n">start_y</span><span class="o">+</span><span class="mi">2</span><span class="o">+</span><span class="n">i</span><span class="o">+</span><span class="n">y</span><span class="p">,</span>
+      </span><span class="line">                                                     <span class="n">start_x</span><span class="o">+</span><span class="n">x</span><span class="o">-</span><span class="mi">1</span><span class="o">-</span><span class="n">i</span><span class="p">,</span>
+      </span><span class="line">                                                     <span class="n">start_y</span><span class="o">+</span><span class="mi">2</span><span class="o">*</span><span class="n">y</span><span class="o">-</span><span class="n">i</span><span class="p">,</span>
+      </span><span class="line">                                                     <span class="n">fill</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">__bg</span><span class="p">))</span>
+      </span><span class="line">
+      </span><span class="line">            <span class="n">l</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">__c</span><span class="o">.</span><span class="n">create_line</span><span class="p">(</span><span class="n">start_x</span> <span class="o">+</span> <span class="n">x</span> <span class="o">+</span> <span class="mi">4</span><span class="p">,</span>
+      </span><span class="line">                                     <span class="n">start_y</span> <span class="o">+</span><span class="mi">2</span><span class="o">*</span><span class="n">y</span> <span class="o">-</span> <span class="n">i</span><span class="p">,</span>
+      </span><span class="line">                                     <span class="n">start_x</span> <span class="o">+</span> <span class="n">x</span> <span class="o">+</span> <span class="mi">4</span> <span class="o">+</span> <span class="bp">self</span><span class="o">.</span><span class="n">__w</span><span class="p">,</span>
+      </span><span class="line">                                     <span class="n">start_y</span> <span class="o">+</span><span class="mi">2</span><span class="o">*</span><span class="n">y</span> <span class="o">-</span> <span class="n">i</span><span class="p">,</span>
+      </span><span class="line">                                     <span class="n">fill</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">__bg</span><span class="p">)</span>
+      </span><span class="line">            <span class="bp">self</span><span class="o">.</span><span class="n">__lines</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">l</span><span class="p">)</span>
+      </span><span class="line">            <span class="bp">self</span><span class="o">.</span><span class="n">__dplines</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">l</span><span class="p">)</span>
+      </span><span class="line">
+      </span><span class="line"><span class="k">class</span> <span class="nc">Display</span><span class="p">(</span><span class="n">Frame</span><span class="p">):</span>   
+      </span><span class="line">    <span class="k">def</span> <span class="nf">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">master</span><span class="p">,</span> <span class="n">w</span><span class="p">,</span> <span class="n">h</span><span class="p">,</span> <span class="n">ndigits</span><span class="p">,</span> <span class="n">orient</span> <span class="o">=</span> <span class="n">LEFT</span><span class="p">):</span>
+      </span><span class="line">        <span class="n">Frame</span><span class="o">.</span><span class="n">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">master</span><span class="p">)</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">__ndigits</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">__orient</span><span class="o">=</span> <span class="n">ndigits</span><span class="p">,</span> <span class="n">orient</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">setSize</span><span class="p">(</span><span class="n">h</span><span class="p">,</span> <span class="n">w</span><span class="p">)</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">digits</span> <span class="o">=</span> <span class="p">[]</span>
+      </span><span class="line">        <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">ndigits</span><span class="p">):</span>
+      </span><span class="line">            <span class="n">d</span> <span class="o">=</span> <span class="n">Digit</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">__w</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">__h</span><span class="p">)</span>
+      </span><span class="line">            <span class="n">d</span><span class="o">.</span><span class="n">pack</span><span class="p">(</span><span class="n">side</span> <span class="o">=</span> <span class="n">orient</span><span class="p">,</span> <span class="n">fill</span><span class="o">=</span><span class="n">BOTH</span><span class="p">,</span> <span class="n">expand</span><span class="o">=</span><span class="n">YES</span><span class="p">)</span>
+      </span><span class="line">            <span class="bp">self</span><span class="o">.</span><span class="n">digits</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">d</span><span class="p">)</span>
+      </span><span class="line">
+      </span><span class="line">    <span class="k">def</span> <span class="nf">int</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">val</span><span class="p">):</span>
+      </span><span class="line">        <span class="k">if</span> <span class="n">val</span> <span class="o">&lt;</span> <span class="mi">0</span><span class="p">:</span>
+      </span><span class="line">            <span class="n">negv</span> <span class="o">=</span> <span class="mi">1</span>
+      </span><span class="line">            <span class="n">maxval</span> <span class="o">=</span> <span class="n">math</span><span class="o">.</span><span class="n">pow</span><span class="p">(</span><span class="mi">10</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">__ndigits</span> <span class="o">-</span><span class="mi">1</span><span class="p">)</span> <span class="o">-</span><span class="mi">1</span>
+      </span><span class="line">        <span class="k">else</span><span class="p">:</span>
+      </span><span class="line">            <span class="n">negv</span> <span class="o">=</span> <span class="mi">0</span>
+      </span><span class="line">            <span class="n">maxval</span> <span class="o">=</span> <span class="n">math</span><span class="o">.</span><span class="n">pow</span><span class="p">(</span><span class="mi">10</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">__ndigits</span><span class="p">)</span> <span class="o">-</span> <span class="mi">1</span>
+      </span><span class="line">        <span class="n">val</span> <span class="o">=</span> <span class="nb">abs</span><span class="p">(</span><span class="n">val</span><span class="p">)</span>
+      </span><span class="line">        <span class="k">if</span> <span class="n">val</span> <span class="o">&gt;</span> <span class="n">maxval</span><span class="p">:</span>
+      </span><span class="line">            <span class="k">raise</span> <span class="s">&#39;Error del rango&#39;</span>
+      </span><span class="line">        <span class="nb">map</span><span class="p">(</span><span class="n">Digit</span><span class="o">.</span><span class="n">dpoff</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">digits</span><span class="p">)</span>
+      </span><span class="line">        <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">__ndigits</span> <span class="o">+</span> <span class="mi">1</span><span class="p">):</span>
+      </span><span class="line">            <span class="n">d</span> <span class="o">=</span> <span class="n">val</span><span class="o">%</span><span class="mi">10</span>
+      </span><span class="line">            <span class="bp">self</span><span class="o">.</span><span class="n">digits</span><span class="p">[</span><span class="o">-</span><span class="n">i</span><span class="p">]</span><span class="o">.</span><span class="n">draw</span><span class="p">(</span><span class="n">d</span><span class="p">)</span>
+      </span><span class="line">            <span class="n">val</span> <span class="o">=</span> <span class="n">val</span><span class="o">/</span><span class="mi">10</span>
+      </span><span class="line">        <span class="k">if</span> <span class="n">negv</span><span class="p">:</span>
+      </span><span class="line">            <span class="bp">self</span><span class="o">.</span><span class="n">digits</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">draw</span><span class="p">(</span><span class="o">-</span><span class="mi">1</span><span class="p">)</span>
+      </span><span class="line">
+      </span><span class="line">    <span class="k">def</span> <span class="nf">str</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">s</span><span class="p">):</span>
+      </span><span class="line">        <span class="k">if</span> <span class="s">&#39;.&#39;</span> <span class="ow">in</span> <span class="n">s</span><span class="p">:</span>
+      </span><span class="line">            <span class="n">l</span> <span class="o">=</span> <span class="nb">len</span><span class="p">(</span><span class="n">s</span><span class="p">)</span> <span class="o">-</span> <span class="mi">1</span>
+      </span><span class="line">        <span class="k">else</span><span class="p">:</span>
+      </span><span class="line">            <span class="n">l</span> <span class="o">=</span> <span class="nb">len</span><span class="p">(</span><span class="n">s</span><span class="p">)</span>
+      </span><span class="line">        <span class="k">if</span> <span class="n">l</span> <span class="o">&gt;</span> <span class="bp">self</span><span class="o">.</span><span class="n">__ndigits</span><span class="p">:</span>
+      </span><span class="line">            <span class="k">raise</span> <span class="s">&#39;Error del rango&#39;</span>
+      </span><span class="line">        <span class="nb">map</span><span class="p">(</span><span class="n">Digit</span><span class="o">.</span><span class="n">dpoff</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">digits</span><span class="p">)</span>
+      </span><span class="line">        <span class="n">p</span> <span class="o">=</span> <span class="mi">0</span>
+      </span><span class="line">        <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="n">s</span><span class="p">:</span>
+      </span><span class="line">            <span class="k">if</span> <span class="n">i</span> <span class="o">==</span> <span class="s">&#39;-&#39;</span><span class="p">:</span>
+      </span><span class="line">                <span class="bp">self</span><span class="o">.</span><span class="n">digits</span><span class="p">[</span><span class="n">p</span><span class="p">]</span><span class="o">.</span><span class="n">draw</span><span class="p">(</span><span class="o">-</span><span class="mi">1</span><span class="p">)</span>
+      </span><span class="line">                <span class="n">p</span> <span class="o">=</span> <span class="n">p</span> <span class="o">+</span> <span class="mi">1</span>
+      </span><span class="line">            <span class="k">elif</span> <span class="n">i</span> <span class="o">==</span> <span class="s">&#39;.&#39;</span><span class="p">:</span>
+      </span><span class="line">                <span class="bp">self</span><span class="o">.</span><span class="n">digits</span><span class="p">[</span><span class="n">p</span><span class="o">-</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">dpon</span><span class="p">()</span>
+      </span><span class="line">            <span class="k">else</span><span class="p">:</span>
+      </span><span class="line">                <span class="k">if</span> <span class="n">i</span> <span class="o">==</span> <span class="s">&#39; &#39;</span><span class="p">:</span>
+      </span><span class="line">                    <span class="bp">self</span><span class="o">.</span><span class="n">digits</span><span class="p">[</span><span class="n">p</span><span class="p">]</span><span class="o">.</span><span class="n">clear</span><span class="p">()</span>
+      </span><span class="line">                <span class="k">else</span><span class="p">:</span>
+      </span><span class="line">                    <span class="bp">self</span><span class="o">.</span><span class="n">digits</span><span class="p">[</span><span class="n">p</span><span class="p">]</span><span class="o">.</span><span class="n">draw</span><span class="p">(</span><span class="nb">ord</span><span class="p">(</span><span class="n">i</span><span class="p">)</span> <span class="o">-</span> <span class="mh">0x30</span><span class="p">)</span>
+      </span><span class="line">                <span class="n">p</span> <span class="o">=</span> <span class="n">p</span> <span class="o">+</span> <span class="mi">1</span>
+      </span><span class="line">
+      </span><span class="line">    <span class="k">def</span> <span class="nf">float</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">val</span><span class="p">,</span> <span class="n">format</span><span class="p">):</span>       
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">str</span><span class="p">(</span><span class="n">format</span> <span class="o">%</span> <span class="p">(</span><span class="n">val</span><span class="p">))</span>
+      </span><span class="line">       
+      </span><span class="line">    <span class="k">def</span> <span class="nf">clear</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+      </span><span class="line">        <span class="nb">map</span><span class="p">(</span><span class="n">Digit</span><span class="o">.</span><span class="n">clear</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">digits</span><span class="p">)</span>
+      </span><span class="line">
+      </span><span class="line">    <span class="k">def</span> <span class="nf">setSize</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">h</span><span class="p">,</span> <span class="n">w</span><span class="p">):</span>       
+      </span><span class="line">        <span class="k">if</span> <span class="bp">self</span><span class="o">.</span><span class="n">__orient</span> <span class="o">==</span> <span class="n">LEFT</span> <span class="ow">or</span> <span class="bp">self</span><span class="o">.</span><span class="n">__orient</span> <span class="o">==</span> <span class="n">RIGHT</span><span class="p">:</span>
+      </span><span class="line">            <span class="bp">self</span><span class="o">.</span><span class="n">__w</span> <span class="o">=</span> <span class="n">w</span><span class="o">/</span><span class="bp">self</span><span class="o">.</span><span class="n">__ndigits</span>
+      </span><span class="line">            <span class="bp">self</span><span class="o">.</span><span class="n">__h</span> <span class="o">=</span> <span class="n">h</span>
+      </span><span class="line">        <span class="k">elif</span> <span class="bp">self</span><span class="o">.</span><span class="n">__orient</span> <span class="o">==</span> <span class="n">TOP</span> <span class="ow">or</span> <span class="bp">self</span><span class="o">.</span><span class="n">__orient</span> <span class="o">==</span> <span class="n">BOTTOM</span><span class="p">:</span>
+      </span><span class="line">            <span class="bp">self</span><span class="o">.</span><span class="n">__h</span> <span class="o">=</span> <span class="n">h</span><span class="o">/</span><span class="bp">self</span><span class="o">.</span><span class="n">__ndigits</span>
+      </span><span class="line">            <span class="bp">self</span><span class="o">.</span><span class="n">__w</span> <span class="o">=</span> <span class="n">w</span>
+      </span><span class="line">       
+      </span><span class="line">    <span class="k">def</span> <span class="nf">resizeEvent</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">event</span><span class="p">):</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">setSize</span><span class="p">(</span><span class="n">event</span><span class="o">.</span><span class="n">height</span><span class="p">,</span> <span class="n">event</span><span class="o">.</span><span class="n">width</span><span class="p">)</span>
+      </span><span class="line">        <span class="k">for</span> <span class="n">d</span> <span class="ow">in</span> <span class="bp">self</span><span class="o">.</span><span class="n">digits</span><span class="p">:</span>
+      </span><span class="line">            <span class="n">event</span><span class="o">.</span><span class="n">height</span><span class="p">,</span> <span class="n">event</span><span class="o">.</span><span class="n">width</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">__h</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">__w</span>
+      </span><span class="line">            <span class="n">d</span><span class="o">.</span><span class="n">resizeEvent</span><span class="p">(</span><span class="n">event</span><span class="p">)</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">refresh</span><span class="p">()</span>
+      </span><span class="line">       
+      </span><span class="line">    <span class="k">def</span> <span class="nf">refresh</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+      </span><span class="line">        <span class="nb">map</span><span class="p">(</span><span class="n">Digit</span><span class="o">.</span><span class="n">refresh</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">digits</span><span class="p">)</span>
+      </span><span class="line">           
+      </span><span class="line"><span class="k">def</span> <span class="nf">updater</span><span class="p">(</span><span class="n">d</span><span class="p">,</span> <span class="n">v</span><span class="p">):</span>
+      </span><span class="line">    <span class="n">d</span><span class="o">.</span><span class="n">int</span><span class="p">(</span><span class="n">v</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">d</span><span class="o">.</span><span class="n">after</span><span class="p">(</span><span class="mi">100</span><span class="p">,</span> <span class="n">updater</span><span class="p">,</span> <span class="n">d</span><span class="p">,</span> <span class="n">v</span> <span class="o">+</span> <span class="mi">1</span><span class="p">)</span>
+      </span><span class="line">
+      </span><span class="line"><span class="k">if</span> <span class="n">__name__</span> <span class="o">==</span> <span class="s">&#39;__main__&#39;</span><span class="p">:</span>
+      </span><span class="line">    <span class="n">root</span> <span class="o">=</span> <span class="n">Tk</span><span class="p">()</span>
+      </span><span class="line">    <span class="n">root</span><span class="o">.</span><span class="n">title</span><span class="p">(</span><span class="s">&#39;Tienes 60 Segundos para salvar al Mundo&#39;</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">root</span><span class="o">.</span><span class="n">config</span><span class="p">(</span><span class="n">cursor</span><span class="o">=</span><span class="s">&#39;watch&#39;</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">root</span><span class="o">.</span><span class="n">focus</span><span class="p">()</span>
+      </span><span class="line">    <span class="k">print</span> <span class="p">(</span><span class="s">&#39; ... G O !!!&#39;</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">ndigits</span> <span class="o">=</span> <span class="mi">3</span>
+      </span><span class="line">    <span class="n">orient</span> <span class="o">=</span> <span class="n">LEFT</span>
+      </span><span class="line">    <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">sys</span><span class="o">.</span><span class="n">argv</span><span class="p">)</span> <span class="o">&gt;</span> <span class="mi">1</span><span class="p">:</span>
+      </span><span class="line">        <span class="n">ndigits</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="n">sys</span><span class="o">.</span><span class="n">argv</span><span class="p">[</span><span class="mi">1</span><span class="p">])</span>
+      </span><span class="line">    <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">sys</span><span class="o">.</span><span class="n">argv</span><span class="p">)</span> <span class="o">&gt;</span> <span class="mi">2</span><span class="p">:</span>
+      </span><span class="line">        <span class="n">orient</span> <span class="o">=</span> <span class="n">TOP</span>
+      </span><span class="line">    <span class="n">d</span> <span class="o">=</span> <span class="n">Display</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="mi">400</span><span class="p">,</span> <span class="mi">100</span><span class="p">,</span> <span class="n">ndigits</span><span class="p">,</span> <span class="n">orient</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">d</span><span class="o">.</span><span class="n">bind</span><span class="p">(</span><span class="s">&#39;&lt;Configure&gt;&#39;</span><span class="p">,</span> <span class="n">d</span><span class="o">.</span><span class="n">resizeEvent</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">d</span><span class="o">.</span><span class="n">bind</span><span class="p">(</span><span class="s">&#39;&lt;Expose&gt;&#39;</span><span class="p">,</span> <span class="n">d</span><span class="o">.</span><span class="n">refresh</span><span class="p">())</span>
+      </span><span class="line">    <span class="n">d</span><span class="o">.</span><span class="n">pack</span><span class="p">(</span><span class="n">fill</span><span class="o">=</span><span class="n">BOTH</span><span class="p">,</span> <span class="n">expand</span><span class="o">=</span><span class="n">YES</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">updater</span><span class="p">(</span><span class="n">d</span><span class="p">,</span> <span class="mi">0</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">root</span><span class="o">.</span><span class="n">mainloop</span><span class="p">()</span>
+      </span>
 
-class ResolveSegColor:
-    def __init__(self, bg, fg):
-        self.__bg, self.__fg = bg, fg
-    def get(self, seg, val):
-        if ledLit(seg, val):
-            return self.__fg
-        else:
-            return self.__bg
-
-class Digit(Frame):
-    def __init__(self, master, w, h, init = None):
-        Frame.__init__(self, master)
-        self.__bg, self.__fg = '#000000', '#0800FF'
-        self.__lastVal = 0
-        self.__dpon = 0
-        self.__startx = self.__starty = 3
-        self.setSize(h, w)
-        self.__c = Canvas(self, width = w, height = h, bg=self.__bg, highlightthickness=0)
-        self.__c.pack(side=TOP, fill=BOTH, expand=YES)
-        self.__lines = []
-        self.__dplines = []
-        self.__makeLines()
-        self.__rseg = ResolveSegColor(self.__bg, self.__fg)
-        if init != None:
-            self.draw(init)
-
-    def getCanvas(self):        
-        return self.__c
-
-    def setSize(self, h, w):        
-        self.__x = w - 6
-        self.__y = h/2 - 4
-        self.__w = min(self.__x, self.__y)/6
-        if self.__w < 3:
-            self.__w = 3
-        self.__x = self.__x - self.__w - 1
-
-    def resizeEvent(self, event):
-        self.setSize(event.height, event.width)
-        self.__c.config(height = event.height, width = event.width)
-        for i in self.__lines:
-            self.__c.delete(i)
-        del self.__lines[:]
-        self.__lines = []
-        self.__makeLines()
-        self.draw(self.__lastVal)
-
-    def dpon(self):        
-        self.__dpon = 1
-        for i in self.__dplines:
-            self.__c.itemconfigure(i, fill = self.__fg)
-
-    def dpoff(self):
-        self.__dpon = 0
-        for i in self.__dplines:
-            self.__c.itemconfigure(i, fill = self.__bg)
-        
-    def refresh(self):        
-        self.draw(self.__lastVal)
-                  
-    def draw(self, val, dp = None):        
-        self.__lastVal = val
-        if dp != None or self.__dpon:
-            dpc = self.__fg
-        else:
-            dpc = self.__bg
-        for i in range(self.__w):
-            ii = i*8
-            self.__c.itemconfigure(self.__lines[ii],
-                                   fill = self.__rseg.get(0, val))
-            if not i % 2:
-                self.__c.itemconfigure(self.__lines[ii + 1],
-                                       fill = self.__rseg.get(1, val))
-            else:
-                self.__c.itemconfigure(self.__lines[ii + 1],
-                                       fill = self.__rseg.get(1, val))
-            self.__c.itemconfigure(self.__lines[ii + 2],
-                                   fill = self.__rseg.get(2, val))
-            self.__c.itemconfigure(self.__lines[ii + 3],
-                                   fill = self.__rseg.get(3, val))
-            self.__c.itemconfigure(self.__lines[ii + 4],
-                                   fill = self.__rseg.get(4, val))
-            self.__c.itemconfigure(self.__lines[ii + 5],
-                                   fill = self.__rseg.get(5, val))
-            self.__c.itemconfigure(self.__lines[ii + 6],
-                                   fill = self.__rseg.get(6, val))
-            self.__c.itemconfigure(self.__lines[ii + 7], fill = dpc)
-
-    def clear(self):        
-        for i in self.__lines:
-            self.__c.itemconfigure(i, fill = self.__bg)
-        
-    def __makeLines(self):
-        start_x, start_y = self.__startx, self.__starty
-        x, y = self.__x, self.__y
-        for i in range(self.__w):
-            self.__lines.append(self.__c.create_line(start_x+1+i, start_y+i,
-                                                     start_x+x-2-i, start_y+i,
-                                                     fill = self.__bg))
-            if not i % 2:
-                self.__lines.append(self.__c.create_line(start_x+2+(i/2),
-                                                         start_y+y-(i/2)+1,
-                                                         start_x+x-3-(i/2),
-                                                         start_y+y-(i/2)+1,
-                                                         fill = self.__bg))
-            else:
-                self.__lines.append(self.__c.create_line(start_x+2+(i/2)+1,
-                                                         start_y+y+(i/2)+2,
-                                                         start_x+x-3-((i/2)+1),
-                                                         start_y+y+(i/2)+2,
-                                                         fill = self.__bg))
-            self.__lines.append(self.__c.create_line(start_x+1+i,
-                                                     start_y+2*y-i+2,
-                                                     start_x+x-2-i,
-                                                     start_y+2*y-i+2,
-                                                     fill = self.__bg))
-            self.__lines.append(self.__c.create_line(start_x+i, start_y+2+i,
-                                                     start_x+i, start_y+y-i,
-                                                     fill = self.__bg))
-            self.__lines.append(self.__c.create_line(start_x+x-i-1,
-                                                     start_y+2+i,
-                                                     start_x+x-i-1,
-                                                     start_y+y-i,
-                                                     fill = self.__bg))
-            self.__lines.append(self.__c.create_line(start_x+i, start_y+2+i+y,
-                                                     start_x+i, start_y+2*y-i,
-                                                     fill = self.__bg))
-            self.__lines.append(self.__c.create_line(start_x+x-i-1,
-                                                     start_y+2+i+y,
-                                                     start_x+x-1-i,
-                                                     start_y+2*y-i,
-                                                     fill = self.__bg))
-
-            l = self.__c.create_line(start_x + x + 4,
-                                     start_y +2*y - i,
-                                     start_x + x + 4 + self.__w,
-                                     start_y +2*y - i,
-                                     fill = self.__bg)
-            self.__lines.append(l)
-            self.__dplines.append(l)
-
-class Display(Frame):    
-    def __init__(self, master, w, h, ndigits, orient = LEFT):
-        Frame.__init__(self, master)
-        self.__ndigits, self.__orient= ndigits, orient
-        self.setSize(h, w)
-        self.digits = []
-        for i in range(ndigits):
-            d = Digit(self, self.__w, self.__h)
-            d.pack(side = orient, fill=BOTH, expand=YES)
-            self.digits.append(d)
-
-    def int(self, val):
-        if val < 0:
-            negv = 1
-            maxval = math.pow(10, self.__ndigits -1) -1
-        else:
-            negv = 0
-            maxval = math.pow(10, self.__ndigits) - 1
-        val = abs(val)
-        if val > maxval:
-            raise 'Error del rango'
-        map(Digit.dpoff, self.digits)
-        for i in range(1, self.__ndigits + 1):
-            d = val%10
-            self.digits[-i].draw(d)
-            val = val/10
-        if negv:
-            self.digits[0].draw(-1)
-
-    def str(self, s):
-        if '.' in s:
-            l = len(s) - 1
-        else:
-            l = len(s)
-        if l > self.__ndigits:
-            raise 'Error del rango'
-        map(Digit.dpoff, self.digits)
-        p = 0
-        for i in s:
-            if i == '-':
-                self.digits[p].draw(-1)
-                p = p + 1
-            elif i == '.':
-                self.digits[p-1].dpon()
-            else:
-                if i == ' ':
-                    self.digits[p].clear()
-                else:
-                    self.digits[p].draw(ord(i) - 0x30)
-                p = p + 1
-
-    def float(self, val, format):        
-        self.str(format % (val))
-        
-    def clear(self):
-        map(Digit.clear, self.digits)
-
-    def setSize(self, h, w):        
-        if self.__orient == LEFT or self.__orient == RIGHT:
-            self.__w = w/self.__ndigits
-            self.__h = h
-        elif self.__orient == TOP or self.__orient == BOTTOM:
-            self.__h = h/self.__ndigits
-            self.__w = w
-        
-    def resizeEvent(self, event):
-        self.setSize(event.height, event.width)
-        for d in self.digits:
-            event.height, event.width = self.__h, self.__w
-            d.resizeEvent(event)
-        self.refresh()
-        
-    def refresh(self):
-        map(Digit.refresh, self.digits)
-            
-def updater(d, v):
-    d.int(v)
-    d.after(100, updater, d, v + 1)
-
-if __name__ == '__main__':
-    root = Tk()
-    root.title('Tienes 60 Segundos para salvar al Mundo')
-    root.config(cursor='watch')
-    root.focus()
-    print (' ... G O !!!')
-    ndigits = 3
-    orient = LEFT
-    if len(sys.argv) > 1:
-        ndigits = int(sys.argv[1])
-    if len(sys.argv) > 2:
-        orient = TOP
-    d = Display(root, 400, 100, ndigits, orient)
-    d.bind('<Configure>', d.resizeEvent)
-    d.bind('<Expose>', d.refresh())
-    d.pack(fill=BOTH, expand=YES)
-    updater(d, 0)
-    root.mainloop()
-}}}
