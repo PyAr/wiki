@@ -1,4 +1,3 @@
-#format rst
 
 Sistema de Gestion de Tesoreria especializado en Fideicomiso.
 =============================================================
