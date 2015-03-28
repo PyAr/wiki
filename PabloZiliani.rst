@@ -1,6 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
-#acl PabloZiliani:admin,read,write,delete,revert All:read
 
 Pablo Ziliani's Complete Waste of Time
 --------------------------------------
@@ -15,5 +12,4 @@ Pablo Ziliani's Complete Waste of Time
 
 .. ############################################################################
 
-.. _CategoryHomepage: ../CategoryHomepage
 
