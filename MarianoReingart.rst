@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Mariano Reingart
 ----------------
@@ -156,7 +154,6 @@ Otros temas no relacionados directamente a Python
 
 .. ############################################################################
 
-.. _VisualBasic: ../VisualBasic
 
 .. _artículo: http://docs.google.com/Doc?id=dd9bm82g_9hdxr5whc
 
@@ -164,9 +161,7 @@ Otros temas no relacionados directamente a Python
 
 .. _web2py: http://www.web2py.com/
 
-.. _PyCrust: ../PyCrust
 
-.. _PythonCard: ../PythonCard
 
 .. _propuesta de investigación: https://docs.google.com/document/d/1Jo-_Nf_vMeKvszEuWA24yrfrqGGU-T73cczMPSBZ9ss/edit?usp=sharing
 
@@ -176,11 +171,8 @@ Otros temas no relacionados directamente a Python
 
 .. _911: http://www.postgresql.com.ar/trac/wiki/Proyecto911
 
-.. _PyCon: ../PyCon
 
-.. _PgDay: ../PgDay
 
-.. _PyDay: ../PyDay
 
 .. _FliSol 2010: http://www.flisol.info/FLISOL2010/Argentina/Gonzalez_Catan
 
@@ -252,11 +244,8 @@ Otros temas no relacionados directamente a Python
 
 .. _mi fork: https://www.github.com/reingart/wxWidgets
 
-.. _PyAr: ../PyAr
 
-.. _Web2Py: ../Web2Py
 
-.. _PgConBr: ../PgConBr
 
 .. _poster: https://us.pycon.org/2012/schedule/presentation/147/
 
@@ -280,9 +269,6 @@ Otros temas no relacionados directamente a Python
 
 .. _proxymin: http://www.nsis.com.ar/public/browser/proxymin
 
-.. _DrPython: ../DrPython
 
-.. _PythonWin: ../PythonWin
 
-.. _CategoryHomepage: ../CategoryHomepage
 
