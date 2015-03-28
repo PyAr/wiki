@@ -1,17 +1,20 @@
-== Diseño 1 de César Portela ==
+#format rst
 
-Incluye el Zen completo, pero se lee al estar cerca (no es la intención que se lea de lejos). 
-Sí de lejos se debe ver la boa.
+Diseño 1 de César Portela
+-------------------------
 
-{{attachment:remera1-CPortela.png}}
+Incluye el Zen completo, pero se lee al estar cerca (no es la intención que se lea de lejos).  Sí de lejos se debe ver la boa.
 
+`attachment:remera1-CPortela.png`_
 
-'''Diseño:'''
+**Diseño:**
 
-[[attachment:remera1-CesarPortela.svg]]
+`attachment:remera1-CesarPortela.svg`_remera1-CesarPortela.svg`attachment:None`_
 
-== Comentarios ==
+Comentarios
+-----------
 
-MarianoMara: ¿podrá ser con el logo de Python (PSF)?
+MarianoMara_: ¿podrá ser con el logo de Python (PSF)?
 
-CesarPortela: ¿en lugar de la cabeza de la serpiente al lado de PyAr?
+CesarPortela_: ¿en lugar de la cabeza de la serpiente al lado de PyAr_?
+
