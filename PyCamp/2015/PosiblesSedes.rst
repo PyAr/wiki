@@ -1,4 +1,3 @@
-#format rst
 
 Posibles sedes para el PyCamp 2015
 ==================================
