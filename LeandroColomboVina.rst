@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Leandro E. Colombo Viña
 -----------------------
@@ -75,5 +73,4 @@ Adhiero a las propuestas de Facundo_ y Mariano_:
 
 .. _Mariano: http://python.org.ar/MarianoReingart
 
-.. _CategoryHomepage: ../CategoryHomepage
 
