@@ -1,4 +1,3 @@
-#format rst
 
 Pl/Python: Python dentro de PostgreSQL
 ======================================
