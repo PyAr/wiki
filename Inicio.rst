@@ -29,7 +29,7 @@ Contenido
 
 * Material_: Material de difusión, folletos, etc.
 
-* Trabajos_: Cartelera de ofertas laborales relacionadas con Python.
+* Trabajos_: Cartelera de ofertas laborales relacionadas con Python. (Migración de antigua wiki)
 
 * Donaciones_: ¡Donale una moneda a PyAr_!
 
