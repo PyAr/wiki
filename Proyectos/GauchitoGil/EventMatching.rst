@@ -1,4 +1,3 @@
-#format rst
 
 Event Matching
 ==============
@@ -7,7 +6,7 @@ Estos son algunos de los resultados que encontré implementando lo que dice el *
 
 Primero, pueden hechar una mirada al código. No es lindo, posiblemente no sea óptimo, pero quería tener un *feel* real de qué iba a costar ésto:
 
-`attachment:matcher.py`_matcher.py`attachment:None`_
+
 
 El código tiene las siguientes partes:
 
@@ -28,13 +27,13 @@ Resultados
 
 Este es el plot que compara la cantidad de evaluaciones entre los dos métodos. El eje X es la cantidad de subscripciones x10. Probé de 1 a 1000 subscripciones. El eje Y es la cantidad de comparaciones que se realizaron para ver que subscripciones matcheaban contra 5000 eventos. (la cantidad de eventos no varía para las pruebas, solo la cantidad de subscripciones)
 
-`attachment:match_count.png`_
+`match_count.png </wiki/Proyectos/GauchitoGil/EventMatching/attachment/520/match_count.png>`_
 
 Como pueden ver, la cantidad de matcheos en la red es sub lineal y bastante menos que en el caso naive.
 
 Sin embargo, el problema se da con los tiempos, que no son nada buenos en ninguno de los dos casos.
 
-`attachment:match_time.png`_
+`match_time.png </wiki/Proyectos/GauchitoGil/EventMatching/attachment/519/match_time.png>`_
 
 Conclusiones
 ------------
