@@ -1,4 +1,3 @@
-#format rst
 
 Autocomplecion en consola interactiva
 =====================================
