@@ -1,4 +1,3 @@
-#format rst
 
 Python Bug day (Junio 2008)
 ===========================
