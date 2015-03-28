@@ -1,17 +1,3 @@
-#format rst
-#acl AdminGroup:admin,read,write,delete,revert ReadWriteGroup:read,write All:read
-## Las noticias se agregan acá. Mantener un orden cronológico descendente.
-## Cuando el texto de la noticia es suficientemente amplio, crear una nueva página con el detalle de la noticia como una sub-página de ésta.
-##
-## Muchas veces en esta página escribimos los links de manera que queden más descriptivos (y no tan wikis),
-## ya que esta info se ve en la página de inicio
-##
-## Los comentarios irss son interpretados por la macro que arma el feed de noticias. Deberían quedar fijos: el start inmediatamente
-## después del link (junto con el tópico y la descripción del feed), y el stop al final de la página.
-##
-## Los comentarios ULTIMAS_{START|END} marcan el From/To para hacer el import en la página Inicio.
-## El primero debería quedar fijo, inmediatamente antes de la primer fecha. El otro, es responsabilidad de quien
-## edite esta página irlo "subiendo", de manera que la página inicial solo contenga las últimas noticias.
 
 Noticias
 ========
@@ -41,7 +27,7 @@ Se llevó a cabo el "Primer Sprint de Python en Resistencia, Chaco". Más inform
 13/10/2014
 ::::::::::
 
-`attachment:Inicio/Ekoparty-logo.png`_ Python Argentina participará con un stand en la ekoparty 2014 (la conferencia de seguridad informática más grande de latinoamérica) que se realizará en Buenos Aires los días 29, 30 y 31 de octubre.
+ Python Argentina participará con un stand en la ekoparty 2014 (la conferencia de seguridad informática más grande de latinoamérica) que se realizará en Buenos Aires los días 29, 30 y 31 de octubre.
 
 11/9/2013
 :::::::::
@@ -176,15 +162,12 @@ Anteriores
 
 .. ############################################################################
 
-.. _PyDay: ../PyDay
 
 .. _aquí: http://pyday.forsol.org.ar/
 
-.. _Llamado a Sedes: ../PyConArgentina/2013/LlamadoSedes
 
 .. _Gracias!: http://pyconar.blogspot.com.ar/2012/11/gracias.html
 
-.. _PyAr: ../PyAr
 
 .. _cronograma completo: http://ar.pycon.org/2012/schedule
 
