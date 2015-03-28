@@ -1,4 +1,3 @@
-#format rst
 
 Grupos para ir a PyCamp
 =======================
