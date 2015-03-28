@@ -1,4 +1,3 @@
-#format rst
 
 Call for Charlas PyConAr ANIO
 =============================
@@ -60,7 +59,5 @@ Para más información : URL.
 
 .. ############################################################################
 
-.. _PyCon: ../PyCon
 
-.. _PyAr: ../PyAr
 
