@@ -1,5 +1,3 @@
-#format rst
-## page was renamed from Eventos/Reuniones/Reunion08
 
 Reunión 08 - 14/04/2005 - Hip Bar
 =================================
