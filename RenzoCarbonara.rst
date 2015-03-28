@@ -1,13 +1,18 @@
-##master-page:HomepageTemplate
-#format wiki
-#language en
-== Renzo Carbonara ==
+#format rst
+## master-page:HomepageTemplate
 
-Email: <<MailTo(gnuk0001 AT SPAMFREE gmail DOT com)>>
+Renzo Carbonara
+---------------
+
+Email: `[[MailTo(gnuk0001 AT SPAMFREE gmail DOT com)]]`_
 
 Homepage: http://renzocarbonara.com
 
+-------------------------
 
+ CategoryHomepage_
 
-----
-CategoryHomepage
+.. ############################################################################
+
+.. _CategoryHomepage: ../CategoryHomepage
+
