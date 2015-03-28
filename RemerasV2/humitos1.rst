@@ -1,4 +1,3 @@
-#format rst
 
 Versión 0.1 de humitos
 ======================
@@ -9,11 +8,11 @@ Versión 0.1 de humitos
 
 :P
 
-`attachment:humitos01.png`_
+`humitos01.png </wiki/RemerasV2/humitos1/attachment/181/humitos01.png>`_
 
 **Diseño**
 
-`attachment:humitos.svg`_humitos.svg`attachment:None`_
+
 
 Comentarios
 -----------
