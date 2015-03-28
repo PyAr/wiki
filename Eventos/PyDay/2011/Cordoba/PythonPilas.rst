@@ -1,21 +1,33 @@
-##master-page:CharlaTemplate
-##master-date:Unknown-Date
-#format wiki
-#language es
+#format rst
+## master-page:CharlaTemplate
+## master-date:Unknown-Date
 
-= Haciendo videojuegos con Pilas =
+Haciendo videojuegos con Pilas
+==============================
 
- * Evento: [[Eventos/PyDay/2011/Cordoba| PyDay 2011]]
- * Disertante: HugoRuscitti
-## * Presentación: 
-## [[attachment:nombreadjunto ]] ##Link al archivo adjunto o pagina externa 
-## * Código: 
-## [[attachment:nombreadjunto ]] ##Link al archivo adjunto o pagina externa 
+* Evento: `PyDay 2011`_
+
+* Disertante: HugoRuscitti_
+
+.. * Presentación: 
+
+.. [[attachment:nombreadjunto ]] ##Link al archivo adjunto o pagina externa 
+
+.. * Código: 
+
+.. [[attachment:nombreadjunto ]] ##Link al archivo adjunto o pagina externa 
 
 Pilas es un motor o biblioteca para hacer juegos de manera sencilla, orientado a principiantes y programadores.
 
-<<Video(http://pyar.usla.org.ar/pilas001.ogv)>>   
+`[[Video(http://pyar.usla.org.ar/pilas001.ogv)]]`_   
 
-## Puto el que lee
-----
-CategoryVideo
+.. Puto el que lee
+
+-------------------------
+
+ CategoryVideo_
+
+.. ############################################################################
+
+.. _PyDay 2011: Eventos/PyDay/2011/Cordoba
+
