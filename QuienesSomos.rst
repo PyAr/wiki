@@ -24,11 +24,8 @@ Suscribiéndote a la ListaDeCorreo_, registrándote en el portal, asistiendo a c
 .. ############################################################################
 
 
-.. _eventos:
-.. _reuniones:
-
-
-
+.. _eventos: /eventos
+.. _reuniones: reuniones
 .. _grupo de Python de Buenos Aires de Meetup: http://python.meetup.com/cities/ar/buenos_aires/
 
 .. _SEO: http://es.wikipedia.org/wiki/Posicionamiento_en_buscadores
