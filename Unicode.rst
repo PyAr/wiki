@@ -1,4 +1,3 @@
-#format rst
 
 Unicode
 =======
@@ -17,7 +16,6 @@ lista de recursos relacionados a unicode
 
 .. ############################################################################
 
-.. _Recetario/NormalizarCaracteresUnicode: ../Recetario/NormalizarCaracteresUnicode
 
 .. _Pragmatic Unicode: http://nedbatchelder.com/text/unipain.html
 
