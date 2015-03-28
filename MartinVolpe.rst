@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Martín Volpe
 ------------
@@ -14,5 +12,4 @@ Email: `[[MailTo(martin.volpe AT SPAMFREE correoG DOT com)]]`_.. You can even mo
 
 .. ############################################################################
 
-.. _CategoryHomepage: ../CategoryHomepage
 
