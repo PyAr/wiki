@@ -1,5 +1,3 @@
-#format rst
-#acl ReadWriteGroup:read,write All:read
 
 PyAr Santa Fe
 =============
@@ -61,29 +59,17 @@ Y hasta aquí llega la minuta de lo que fue la primera reunión en Santa Fe, ¿o
 
 .. ############################################################################
 
-.. _CafeConf: ../CafeConf
 
-.. _PyAr: ../PyAr
 
-.. _ManuelKaufmann: ../ManuelKaufmann
 
-.. _SantiagoPessat: ../SantiagoPessat
 
-.. _CesarPortela: ../CesarPortela
 
-.. _DiegoLevental: ../DiegoLevental
 
-.. _OscarGunsett: ../OscarGunsett
 
-.. _MarianoGalan: ../MarianoGalan
 
-.. _JuanjoConti: ../JuanjoConti
 
-.. _NicolasCesar: ../NicolasCesar
 
-.. _CesarBarlladini: ../CesarBarlladini
 
 .. _Universidad Adventista del Plata: http://www.uapar.edu/es/
 
-.. _TurboGears: ../TurboGears
 
