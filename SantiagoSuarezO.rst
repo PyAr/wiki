@@ -1,12 +1,14 @@
-##master-page:HomepageTemplate
-#format wiki
-== Santiago Suarez Ordoñez ==
+#format rst
+## master-page:HomepageTemplate
 
-Email: <<MailTo(santiycr arroba gmail punto com)>>
+Santiago Suarez Ordoñez
+-----------------------
+
+Email: `[[MailTo(santiycr arroba gmail punto com)]]`_
 
 Estoy rindiendo las últimas materias para recibirme de Ingeniero en sistemas de Información en la Universidad Tecnológica Nacional, Regional Rosario.
 
-Arranqué en 2005 trabajando en diseño web con tecnologías como: Flash, PHP y por supuesto mucho HTML+CSS+JavaScript.
+Arranqué en 2005 trabajando en diseño web con tecnologías como: Flash, PHP y por supuesto mucho HTML+CSS+JavaScript_.
 
 Desde Febrero de 2007 hasta 2009 trabajé en Neoris Argentina como tester funcional. Tras unos meses de hacer solo tests manuales presenté como iniciativa personal la oportunidad de utilizar Python+ Selenium como herramienta para la automatización de pruebas. El ultimo año trabajé 100% dedicado a esto, capacitando a mis compañeros y como principal referente del tema.
 
@@ -16,5 +18,13 @@ Desde Junio de 2009 trabajo en Sauce Labs, una empresa centrada en llevar la aut
 
 Me gusta el río, navego desde que tengo memoria y paso el poco tiempo que me queda con mi novia y amigos.
 
-----
-CategoryHomepage
+-------------------------
+
+ CategoryHomepage_
+
+.. ############################################################################
+
+.. _JavaScript: ../JavaScript
+
+.. _CategoryHomepage: ../CategoryHomepage
+
