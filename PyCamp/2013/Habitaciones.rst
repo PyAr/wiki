@@ -1,4 +1,3 @@
-#format rst
 
 Organización de habitaciones
 ----------------------------
