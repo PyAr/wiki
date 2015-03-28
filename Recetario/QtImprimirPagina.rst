@@ -1,4 +1,3 @@
-#format rst
 
 Qt Imprimir Pagina Web a PDF
 ============================
