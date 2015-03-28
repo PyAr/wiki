@@ -1,5 +1,3 @@
-#format rst
-## page was renamed from Eventos/Reuniones/Reunion28
 
 Reunión 28 - 08/05/2008 - Facultad de Ciencias Exactas Físicas y Naturales, subsuelo aula 100, Córdoba, Argentina
 =================================================================================================================
