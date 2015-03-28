@@ -1,34 +1,23 @@
-## page was renamed from Eventos/Reuniones/Reunion47
-== Reunión 47 - 8 de Enero del 2011 - Rosario, Santa Fe. Bar Davis - Oronio y el rio, 19 PM ==
+#format rst
 
-'' codename : 7DB ''
+Reunión 47 - 8 de Enero del 2011 - Rosario, Santa Fe. Bar Davis - Oronio y el rio, 19 PM
+----------------------------------------------------------------------------------------
 
-''' Asistentes: '''
-|| Guido ||
-|| Ernesto Savoretti ||
-|| Manuel Naranjo ||
-|| Ricardo Armas ||
-|| Mariano Street ||
-|| Juan Pablo Gimenez ||
-|| Mariano Street ||
-|| Emiliano Dalla Verde Marcozzi ||
-|| DanielMoisset ||
+ *codename : 7DB* 
 
+ **Asistentes:** 
 
-'''Temario'''
+[Table not converted]
 
- * Juntarnos los pythoneros rosarigasinos
+**Temario**
 
-'' Minuta ''
+* Juntarnos los pythoneros rosarigasinos
 
-''' Asistieron: '''
-|| Ernesto Savoretti ||
-|| Manuel Naranjo ||
-|| Mariano Street ||
-|| Emiliano Dalla Verde Marcozzi ||
-|| DanielMoisset ||
-|| Valentin Spurchisi ||
-|| Fabian Gallina ||
+ *Minuta* 
 
-''' Temas Tratados: '''
-Nos juntamos a tomar cervezas, licuados orgásmicos y hablar de huevadas, nada importante. Fue una reunión pura y exclusivamente de relajación para vernos las caras los pythoneros rosarigasinos en este nuevo año.
+ **Asistieron:** 
+
+[Table not converted]
+
+ **Temas Tratados:**  Nos juntamos a tomar cervezas, licuados orgásmicos y hablar de huevadas, nada importante. Fue una reunión pura y exclusivamente de relajación para vernos las caras los pythoneros rosarigasinos en este nuevo año.
+
