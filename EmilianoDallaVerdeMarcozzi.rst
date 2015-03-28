@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Emiliano Dalla Verde Marcozzi
 -----------------------------
@@ -35,7 +33,6 @@ Pueden ver un resumen de mi experiencia laboral en: `"Linkedin"`_
 
 .. ############################################################################
 
-.. _PyConAr: ../PyConAr
 
 .. _"Pysenteishon": http://edvm.github.io/pysenteishon
 
@@ -49,5 +46,4 @@ Pueden ver un resumen de mi experiencia laboral en: `"Linkedin"`_
 
 .. _"Linkedin": https://ar.linkedin.com/pub/emiliano-dalla-verde-marcozzi/13/166/349
 
-.. _CategoryHomepage: ../CategoryHomepage
 
