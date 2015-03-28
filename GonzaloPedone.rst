@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 hipersayan_x
 ------------
@@ -26,5 +24,4 @@ Y si soy un friki del anime que le gusta programar en Python, y que?
 
 .. _sushi-huh.sourceforge.net: http://sushi-huh.sourceforge.net
 
-.. _CategoryHomepage: ../CategoryHomepage
 
