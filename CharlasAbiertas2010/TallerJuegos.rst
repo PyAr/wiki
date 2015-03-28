@@ -1,7 +1,13 @@
-==== Taller de Programación de Juegos ====
+#format rst
 
-''Mostraremos cómo hacer juegos y actividades educativas sencillas, usando Python y la biblioteca PyGame..''
+Taller de Programación de Juegos
+::::::::::::::::::::::::::::::::
 
- * Disertantes: Alejandro J. Cura y Hector Sanchez
- * Día 9: Sábado 20 de Noviembre
- * 10:30 a 15 horas, con un break de 30' en el medio 
+*Mostraremos cómo hacer juegos y actividades educativas sencillas, usando Python y la biblioteca* PyGame_*..*
+
+* Disertantes: Alejandro J. Cura y Hector Sanchez
+
+* Día 9: Sábado 20 de Noviembre
+
+* 10:30 a 15 horas, con un break de 30' en el medio 
+
