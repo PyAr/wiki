@@ -1,5 +1,3 @@
-#format rst
-#language es
 
 Preguntas Frecuentes
 ====================
@@ -488,45 +486,31 @@ Pero ojo, que esto sucede con versiones pasadas y actuales de CPython. Es un det
 
 .. ############################################################################
 
-.. _grupo de entusiastas de Python: ../MiembrosDePyAr
 
 .. _reuniones:
-.. _Eventos: ../Eventos
 
 .. _ListaDeCorreo:
-.. _lista de correo: ../ListaDeCorreo
 
-.. _PyAr: ../PyAr
 
 .. _grupo de Python de Buenos Aires de Meetup: http://python.meetup.com/cities/ar/buenos_aires/
 
 .. _SEO: http://es.wikipedia.org/wiki/Posicionamiento_en_buscadores
 
-.. _primera reunión: ../Eventos/Reuniones/Reunion01
 
 .. _aquí: http://webchat.freenode.net/?channels=pyar
 
-.. _ContribuyendoAlWiki: ../ContribuyendoAlWiki
 
-.. _Eventos/Reuniones/ReleaseProcedure: ../Eventos/Reuniones/ReleaseProcedure
 
-.. _AprendiendoPython: ../AprendiendoPython
 
-.. _Recetario: ../Recetario
 
-.. _MiniEjemplos: ../MiniEjemplos
 
 .. _Portland Pattern Repository's Wiki: http://c2.com/cgi/wiki?PythonSprint
 
-.. _otras preguntas todavía sin respuesta: ../PreguntasSinRespuesta
 
-.. _PythonZen: ../PythonZen
 
 .. _FAQ General de Python: http://www.python.org/doc/faq/es/general/#por-qu-hay-tipos-de-datos-tuplas-y-listas-separados
 
-.. _MensajesExcepcionales: ../MensajesExcepcionales
 
-.. _Python3Mil: ../Python3Mil
 
 .. _IDLE: http://en.wikipedia.org/wiki/IDLE_(Python)
 
@@ -536,13 +520,10 @@ Pero ojo, que esto sucede con versiones pasadas y actuales de CPython. Es un det
 
 .. _wxPython: http://www.wxpython.org/
 
-.. _AutocomplecionEnConsolaInteractiva: ../Recetario/AutocomplecionEnConsolaInteractiva
 
-.. _GuardarHistorialEnConsolaInteractiva: ../GuardarHistorialEnConsolaInteractiva
 
 .. _recursos externos: http://www.eseth.org/2008/pimp-pythonrc.html
 
-.. _DbApi: ../DbApi
 
 .. _SqlAlchemy: http://www.sqlalchemy.org/
 
@@ -554,21 +535,15 @@ Pero ojo, que esto sucede con versiones pasadas y actuales de CPython. Es un det
 
 .. _DAL: http://www.web2py.com.ar/examples/default/dal
 
-.. _Web2Py: ../Web2Py
 
-.. _PlPython: ../PlPython
 
-.. _InterfacesGraficas: ../InterfacesGraficas
 
-.. _WSGI: ../WSGI
 
 .. _Django: http://www.djangoproject.com
 
 .. _Turbogears: http://turbogears.org/
 
-.. _CherryPy: ../CherryPy
 
-.. _MochiKit: ../MochiKit
 
 .. _Zope: http://www.zope.org
 
@@ -588,7 +563,6 @@ Pero ojo, que esto sucede con versiones pasadas y actuales de CPython. Es un det
 
 .. _TablaComparativa: http://python.org.ar/pyar/TablaIDEs
 
-.. _RendimientoPythonVsJavaVsNet: ../RendimientoPythonVsJavaVsNet
 
 .. _BitTorrent: http://www.bittorrent.com
 
@@ -596,7 +570,6 @@ Pero ojo, que esto sucede con versiones pasadas y actuales de CPython. Es un det
 
 .. _OpenErp: http://www.openerp.com
 
-.. _TinyErp: ../TinyErp
 
 .. _Meld: http://meld.sourceforge.net
 
@@ -604,7 +577,6 @@ Pero ojo, que esto sucede con versiones pasadas y actuales de CPython. Es un det
 
 .. _PyRece: http://www.pyafipws.com.ar/pyrece
 
-.. _PythonCard: ../PythonCard
 
 .. _programado en Python: http://vimeo.com/6461983
 
@@ -612,19 +584,16 @@ Pero ojo, que esto sucede con versiones pasadas y actuales de CPython. Es un det
 
 .. _NEBULA: http://nebula.nasa.gov/
 
-.. _GooglePersonFinder: ../GooglePersonFinder
 
-.. _PyConAr: ../PyConAr
 
-.. _VisualBasic: ../VisualBasic
 
-.. _MarianoGuerra: ../MarianoGuerra
 
-.. _MartinBothiry: ../MartinBothiry
 
-.. _SebastianBassi: ../SebastianBassi
 
-.. _GabrielGenellina: ../GabrielGenellina
 
-.. _IronPython: ../IronPython
+
+
+
+.. role:: underline
+   :class: underline
 
