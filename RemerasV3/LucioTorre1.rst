@@ -1,4 +1,3 @@
-#format rst
 
 Mi propuesta de remera, robada salvajemente
 
@@ -6,5 +5,5 @@ Mi propuesta de remera, robada salvajemente
 
 * LucioTorre2_ (diseño en remera azul)
 
-`attachment:remera1.png`_
+`remera1.png </wiki/RemerasV3/LucioTorre1/attachment/231/remera1.png>`_
 
