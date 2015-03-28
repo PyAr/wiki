@@ -1,15 +1,14 @@
-#format rst
 
 Intento 03 de Facundo Batista
 -----------------------------
 
 Parte del Zen (no se puede poner todo, es ilegible), más la frase de remate, |:)|
 
-`attachment:remera2-Facu03.png`_
+`remera2-Facu03.png </wiki/RemerasV2/FacundoBatista3/attachment/206/remera2-Facu03.png>`_
 
 **Diseño:**
 
-`attachment:remera2-Facu03.svg`_remera2-Facu03.svg`attachment:None`_
+
 
 Comentarios
 -----------
