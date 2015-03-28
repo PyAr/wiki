@@ -1,5 +1,3 @@
-#format rst
-#acl AdminGroup:admin,read,write,delete,revert All:read
 
 Detalle de Votos
 ================
