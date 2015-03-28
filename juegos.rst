@@ -1,29 +1,117 @@
-= Juegos realizados por PyAr =
+#format rst
 
-Los siguientes son juegos realizados por miembros de PyAr en forma grupal o individual, algunos son parte de la competencia internacional [[http://www.pyweek.org|PyWeek]].
- * [[http://pyweek.org/10/|PyWeek10]]
-  * TheMostBiggestGamestInTheWorldst
- * [[http://pyweek.org/6/|PyWeek6]]
-  * [[http://pyweek.org/e/pupo/|X25 Unplugged]]: Hecho en Córdoba por el team pupo [[http://media.pyweek.org/dl/6/pupo/x25-1.0.zip|download]]
-  * [[http://pyweek.org/e/pywiic/|Robo-T2]]: Hecho en Bs. As. [[http://www.python.com.ar/moin/juegos?action=AttachFile&do=get&target=Robo-T2+one+pyar+buenos+aires++team|download]] [[http://tenuki-misc.googlecode.com/files/Robo-T2.zip|downloadlink-2]]
-  * [[http://pyweek.org/e/pysfe/|Pedro's Robot Factory]] Hecho en Santa Fé [[http://media.pyweek.org/dl/6/pysfe/robotfactory-1.zip|download]] 
-  * [[http://pyweek.org/e/PandT/|HeRobot]] Hecho en ?? [[http://media.pyweek.org/tmp/herobot-10.zip|download]]
- * [[http://pyweek.org/5/|PyWeek5]]
-  * [[http://zombie.firebirds.com.ar|Twisted Zombie]] - Hecho en Santa Fe (tercer puesto)
-  * [[http://pyweek.org/e/Pynxilla/|Ventus Virginis]] - Hecho en Córdoba por el team Pynxilla de Córdoba [[http://media.pyweek.org/dl/5/Pynxilla/ventus_virginis-1.0.zip|download]]
-  * [[http://pyweek.org/e/pywv/|Ritmus Locus]] - Hecho en Buenos Aires (segundo puesto)
-  * [[http://pyweek.org/e/arbacamarbalap/|Aurora Fighter]] - Hecho en Córdoba por el team Arbacamarbalap
- * [[http://pyweek.org/4/|PyWeek4]]
-  * [[http://pyweek.org/e/pycor2/|Corp]] - Hecho en Córdoba
-  * [[http://pyweek.org/e/Pywiii/|Grossini's Hell]] - Hecho en Buenos Aires
- * [[http://pyweek.org/3/|PyWeek3]]
-  * [[juegos/TypusPocus|Typus Pocus]] - Hecho en Buenos Aires. (1er. puesto)
-  * [[http://pyweek.org/e/pycor/|SaturdayNightNinja]] - El juego del grupo de Córdoba. (3er. puestp)
- * [[http://media.pyweek.org/static/pygame.draw-0606.html|PyDraw]] (1 solo archivo .py < 64kb)
-  * [[http://www.python.com.ar/moin/Proyectos/AlocadoAlocador|Alocado Alocador]] - un juego completo en 53kb.
- * [[http://pyweek.org/2/|PyWeek2]]
-  * [[http://www.python.com.ar/moin/Proyectos/STIM|S.T.I.M.]] Hecho por el team de Buenos Aires
+Juegos realizados por PyAr
+==========================
+
+Los siguientes son juegos realizados por miembros de PyAr_ en forma grupal o individual, algunos son parte de la competencia internacional PyWeek_.
+
+* PyWeek10_
+
+  * TheMostBiggestGamestInTheWorldst_
+
+* PyWeek6_
+
+  * `X25 Unplugged`_: Hecho en Córdoba por el team pupo download_
+
+  * Robo-T2_: Hecho en Bs. As. `download <http://www.python.com.ar/moin/juegos?action=AttachFile&do=get&target=Robo-T2+one+pyar+buenos+aires++team>`__ downloadlink-2_
+
+  * `Pedro's Robot Factory`_ Hecho en Santa Fé `download <http://media.pyweek.org/dl/6/pysfe/robotfactory-1.zip>`__ 
+
+  * HeRobot_ Hecho en ?? `download <http://media.pyweek.org/tmp/herobot-10.zip>`__
+
+* PyWeek5_
+
+  * `Twisted Zombie`_ - Hecho en Santa Fe (tercer puesto)
+
+  * `Ventus Virginis`_ - Hecho en Córdoba por el team Pynxilla de Córdoba `download <http://media.pyweek.org/dl/5/Pynxilla/ventus_virginis-1.0.zip>`__
+
+  * `Ritmus Locus`_ - Hecho en Buenos Aires (segundo puesto)
+
+  * `Aurora Fighter`_ - Hecho en Córdoba por el team Arbacamarbalap
+
+* PyWeek4_
+
+  * Corp_ - Hecho en Córdoba
+
+  * `Grossini's Hell`_ - Hecho en Buenos Aires
+
+* PyWeek3_
+
+  * `Typus Pocus`_ - Hecho en Buenos Aires. (1er. puesto)
+
+  * SaturdayNightNinja_ - El juego del grupo de Córdoba. (3er. puestp)
+
+* PyDraw_ (1 solo archivo .py < 64kb)
+
+  * `Alocado Alocador`_ - un juego completo en 53kb.
+
+* PyWeek2_
+
+  * `S.T.I.M.`_ Hecho por el team de Buenos Aires
 
 Otras realizaciones:
- * [[http://www.python.com.ar/moin/Proyectos/TweetyFinger|Tweety Finger]] - ¿Qué tan rápido sos tipeando el abecedario?
- * [[http://code.google.com/p/life-fighter/|Life Fighter]] - Creado por un miembro para aprender [[http://www.pygame.org|PyGame]]
+
+* `Tweety Finger`_ - ¿Qué tan rápido sos tipeando el abecedario?
+
+* `Life Fighter`_ - Creado por un miembro para aprender PyGame_
+
+.. ############################################################################
+
+.. _PyAr: ../PyAr
+
+.. _PyWeek: http://www.pyweek.org
+
+.. _PyWeek10: http://pyweek.org/10/
+
+.. _TheMostBiggestGamestInTheWorldst: ../TheMostBiggestGamestInTheWorldst
+
+.. _PyWeek6: http://pyweek.org/6/
+
+.. _X25 Unplugged: http://pyweek.org/e/pupo/
+
+.. _download: http://media.pyweek.org/dl/6/pupo/x25-1.0.zip
+
+.. _Robo-T2: http://pyweek.org/e/pywiic/
+
+.. _downloadlink-2: http://tenuki-misc.googlecode.com/files/Robo-T2.zip
+
+.. _Pedro's Robot Factory: http://pyweek.org/e/pysfe/
+
+.. _HeRobot: http://pyweek.org/e/PandT/
+
+.. _PyWeek5: http://pyweek.org/5/
+
+.. _Twisted Zombie: http://zombie.firebirds.com.ar
+
+.. _Ventus Virginis: http://pyweek.org/e/Pynxilla/
+
+.. _Ritmus Locus: http://pyweek.org/e/pywv/
+
+.. _Aurora Fighter: http://pyweek.org/e/arbacamarbalap/
+
+.. _PyWeek4: http://pyweek.org/4/
+
+.. _Corp: http://pyweek.org/e/pycor2/
+
+.. _Grossini's Hell: http://pyweek.org/e/Pywiii/
+
+.. _PyWeek3: http://pyweek.org/3/
+
+.. _Typus Pocus: /TypusPocus
+
+.. _SaturdayNightNinja: http://pyweek.org/e/pycor/
+
+.. _PyDraw: http://media.pyweek.org/static/pygame.draw-0606.html
+
+.. _Alocado Alocador: http://www.python.com.ar/moin/Proyectos/AlocadoAlocador
+
+.. _PyWeek2: http://pyweek.org/2/
+
+.. _S.T.I.M.: http://www.python.com.ar/moin/Proyectos/STIM
+
+.. _Tweety Finger: http://www.python.com.ar/moin/Proyectos/TweetyFinger
+
+.. _Life Fighter: http://code.google.com/p/life-fighter/
+
+.. _PyGame: http://www.pygame.org
+
