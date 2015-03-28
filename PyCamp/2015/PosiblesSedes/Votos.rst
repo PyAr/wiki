@@ -1,4 +1,3 @@
-#format rst
 
 Votación de sede PyCamp 2015
 ============================
