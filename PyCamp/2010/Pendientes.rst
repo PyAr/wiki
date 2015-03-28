@@ -1,4 +1,3 @@
-#format rst
 
 Tareas Pendientes
 =================
@@ -31,5 +30,70 @@ Tareas Pendientes
 
 * :strike:`visita de reconocimiento` el lugar está genial
 
-* averiguar remeras `attachment:logov2.png`_logov2.png`attachment:None`_ `attachment:logov2.svg`_logov2.svg`attachment:None`_
+* averiguar remeras 
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: strike
+   :class: strike
+
+
+
+.. role:: strike
+   :class: strike
 
