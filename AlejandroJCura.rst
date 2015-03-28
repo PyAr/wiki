@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Alejandro J. Cura
 -----------------
@@ -31,5 +29,9 @@ Separados al nacer...
 
 .. ############################################################################
 
-.. _CategoryHomepage: ../CategoryHomepage
+
+
+
+.. role:: strike
+   :class: strike
 
