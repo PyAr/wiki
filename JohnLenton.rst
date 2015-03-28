@@ -1,4 +1,3 @@
-#format rst
 
 Hola! Acá se supone que tengo que hablar de mí, creo. A ver...
 
