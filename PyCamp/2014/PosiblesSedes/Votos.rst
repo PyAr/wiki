@@ -1,4 +1,3 @@
-#format rst
 
 Votación PyCamp 2014
 --------------------
