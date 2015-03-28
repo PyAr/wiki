@@ -1,4 +1,3 @@
-#format rst
 
 Llamado a Sponsors PyCon Argentina 2012
 =======================================
