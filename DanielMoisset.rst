@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Daniel F Moisset
 ----------------
@@ -88,21 +86,16 @@ Y cuando puedo, trato de `colaborar en la lista de correo`_
 
 .. ############################################################################
 
-.. _LinkedIn: ../LinkedIn
 
-.. _JohnLenton: ../JohnLenton
 
 .. _FaMAF: http://www.famaf.unc.edu.ar
 
-.. _PyAr: ../PyAr
 
 .. _GrULiC: http://grulic.org.ar
 
 .. _Pyweek: http://pyweek.org
 
-.. _PyWeek: ../PyWeek
 
-.. _AlejandroJCura: ../AlejandroJCura
 
 .. _Cocos2D: http://cocos2d.org
 
@@ -110,5 +103,4 @@ Y cuando puedo, trato de `colaborar en la lista de correo`_
 
 .. _colaborar en la lista de correo: http://grulic.org.ar/lurker/search/20990626.220752.00000000@au:moisset,ml:pyar.en.html
 
-.. _CategoryHomepage: ../CategoryHomepage
 
