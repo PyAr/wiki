@@ -1,11 +1,25 @@
-== MatiasBellone ==
+#format rst
+
+MatiasBellone
+-------------
 
 Porgramo en Python más que nada por diversión con un par de proyectos chicos en el laburo.
 
- * Email: <<MailTo(matiasbellone+pyar AT SPAMFREE gmail DOT com)>>
- * Web: http://enespanol.com.ar/
- * LinkedIn: http://www.linkedin.com/in/matiasbellone
- * Twitter: http://twitter.com/toote
+* Email: `[[MailTo(matiasbellone+pyar AT SPAMFREE gmail DOT com)]]`_
 
-----
-CategoryHomepage
+* Web: http://enespanol.com.ar/
+
+* LinkedIn_: http://www.linkedin.com/in/matiasbellone
+
+* Twitter: http://twitter.com/toote
+
+-------------------------
+
+ CategoryHomepage_
+
+.. ############################################################################
+
+.. _LinkedIn: ../LinkedIn
+
+.. _CategoryHomepage: ../CategoryHomepage
+
