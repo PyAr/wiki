@@ -1,4 +1,3 @@
-#format rst
 
 Hackeando Kinect en el PyCamp
 =============================
