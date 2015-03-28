@@ -1,177 +1,182 @@
+#format rst
 ## page was renamed from Recetario/Gtk/RichText
-## page was renamed from GtkRichText
- == GtkRichText ==
 
-Ejemplo sobre como mostrar texto con formato en un gtk.TextView, se crea una clase que extiende gtk.TextBuffer para facilitar la inserción de texto con formato.
+  == GtkRichText_ ==
 
-{{{
-#!code python
-'''a module that contains a class to insert rich text into a textview'''
+Ejemplo sobre como mostrar texto con formato en un gtk.TextView_, se crea una clase que extiende gtk.TextBuffer_ para facilitar la inserción de texto con formato.
 
-import gtk
-import pango
+::
 
-class RichBuffer(gtk.TextBuffer):
-    '''a buffer that makes it easy to manipulate a gtk textview with 
-    rich text'''
+   .. raw:: html
+      <span class="line"><span class="sd">&#39;&#39;&#39;a module that contains a class to insert rich text into a textview&#39;&#39;&#39;</span>
+      </span><span class="line">
+      </span><span class="line"><span class="kn">import</span> <span class="nn">gtk</span>
+      </span><span class="line"><span class="kn">import</span> <span class="nn">pango</span>
+      </span><span class="line">
+      </span><span class="line"><span class="k">class</span> <span class="nc">RichBuffer</span><span class="p">(</span><span class="n">gtk</span><span class="o">.</span><span class="n">TextBuffer</span><span class="p">):</span>
+      </span><span class="line">    <span class="sd">&#39;&#39;&#39;a buffer that makes it easy to manipulate a gtk textview with </span>
+      </span><span class="line"><span class="sd">    rich text&#39;&#39;&#39;</span>
+      </span><span class="line">
+      </span><span class="line">    <span class="k">def</span> <span class="nf">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+      </span><span class="line">        <span class="sd">&#39;&#39;&#39;constructor&#39;&#39;&#39;</span>
+      </span><span class="line">        <span class="n">gtk</span><span class="o">.</span><span class="n">TextBuffer</span><span class="o">.</span><span class="n">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">)</span>
+      </span><span class="line">
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">colormap</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">gdk</span><span class="o">.</span><span class="n">colormap_get_system</span><span class="p">()</span>
+      </span><span class="line">
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">fg_tags</span> <span class="o">=</span> <span class="p">{}</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">bg_tags</span> <span class="o">=</span> <span class="p">{}</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">font_tags</span> <span class="o">=</span> <span class="p">{}</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">size_tags</span> <span class="o">=</span> <span class="p">{}</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">bold_tag</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">create_tag</span><span class="p">(</span><span class="s">&quot;bold&quot;</span><span class="p">,</span> <span class="n">weight</span><span class="o">=</span><span class="n">pango</span><span class="o">.</span><span class="n">WEIGHT_BOLD</span><span class="p">)</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">italic_tag</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">create_tag</span><span class="p">(</span><span class="s">&quot;italic&quot;</span><span class="p">,</span> <span class="n">style</span><span class="o">=</span><span class="n">pango</span><span class="o">.</span><span class="n">STYLE_ITALIC</span><span class="p">)</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">underline_tag</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">create_tag</span><span class="p">(</span><span class="s">&quot;underline&quot;</span><span class="p">,</span>
+      </span><span class="line">            <span class="n">underline</span><span class="o">=</span><span class="n">pango</span><span class="o">.</span><span class="n">UNDERLINE_SINGLE</span><span class="p">)</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">strike_tag</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">create_tag</span><span class="p">(</span><span class="s">&quot;strike&quot;</span><span class="p">,</span> <span class="n">strikethrough</span><span class="o">=</span><span class="bp">True</span><span class="p">)</span>
+      </span><span class="line">
+      </span><span class="line">    <span class="k">def</span> <span class="nf">put_text</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">text</span><span class="p">,</span> <span class="n">fg_color</span><span class="o">=</span><span class="bp">None</span><span class="p">,</span> <span class="n">bg_color</span><span class="o">=</span><span class="bp">None</span><span class="p">,</span> <span class="n">font</span><span class="o">=</span><span class="bp">None</span><span class="p">,</span> <span class="n">size</span><span class="o">=</span><span class="bp">None</span><span class="p">,</span>
+      </span><span class="line">        <span class="n">bold</span><span class="o">=</span><span class="bp">False</span><span class="p">,</span> <span class="n">italic</span><span class="o">=</span><span class="bp">False</span><span class="p">,</span> <span class="n">underline</span><span class="o">=</span><span class="bp">False</span><span class="p">,</span> <span class="n">strike</span><span class="o">=</span><span class="bp">False</span><span class="p">):</span>
+      </span><span class="line">        <span class="sd">&#39;&#39;&#39;insert text at the current position with the style defined by the </span>
+      </span><span class="line"><span class="sd">        optional parameters&#39;&#39;&#39;</span>
+      </span><span class="line">        <span class="n">tags</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">_parse_tags</span><span class="p">(</span><span class="n">fg_color</span><span class="p">,</span> <span class="n">bg_color</span><span class="p">,</span> <span class="n">font</span><span class="p">,</span> <span class="n">size</span><span class="p">,</span> <span class="n">bold</span><span class="p">,</span> <span class="n">italic</span><span class="p">,</span>
+      </span><span class="line">            <span class="n">underline</span><span class="p">,</span> <span class="n">strike</span><span class="p">)</span>
+      </span><span class="line">        <span class="n">iterator</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">get_iter_at_mark</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">get_insert</span><span class="p">())</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">_insert</span><span class="p">(</span><span class="n">iterator</span><span class="p">,</span> <span class="n">text</span><span class="p">,</span> <span class="n">tags</span><span class="p">)</span>
+      </span><span class="line">
+      </span><span class="line">    <span class="k">def</span> <span class="nf">_insert</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">iterator</span><span class="p">,</span> <span class="n">text</span><span class="p">,</span> <span class="n">tags</span><span class="o">=</span><span class="bp">None</span><span class="p">):</span>
+      </span><span class="line">        <span class="sd">&#39;&#39;&#39;insert text at the current position with the style defined by the </span>
+      </span><span class="line"><span class="sd">        optional parameters&#39;&#39;&#39;</span>
+      </span><span class="line">        <span class="k">if</span> <span class="n">tags</span> <span class="ow">is</span> <span class="ow">not</span> <span class="bp">None</span><span class="p">:</span>
+      </span><span class="line">            <span class="bp">self</span><span class="o">.</span><span class="n">insert_with_tags</span><span class="p">(</span><span class="n">iterator</span><span class="p">,</span> <span class="n">text</span><span class="p">,</span> <span class="o">*</span><span class="n">tags</span><span class="p">)</span>
+      </span><span class="line">        <span class="k">else</span><span class="p">:</span>
+      </span><span class="line">            <span class="bp">self</span><span class="o">.</span><span class="n">insert</span><span class="p">(</span><span class="n">iterator</span><span class="p">,</span> <span class="n">text</span><span class="p">)</span>
+      </span><span class="line">
+      </span><span class="line">    <span class="k">def</span> <span class="nf">_parse_tags</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">fg_color</span><span class="o">=</span><span class="bp">None</span><span class="p">,</span> <span class="n">bg_color</span><span class="o">=</span><span class="bp">None</span><span class="p">,</span> <span class="n">font</span><span class="o">=</span><span class="bp">None</span><span class="p">,</span> <span class="n">size</span><span class="o">=</span><span class="bp">None</span><span class="p">,</span>
+      </span><span class="line">        <span class="n">bold</span><span class="o">=</span><span class="bp">False</span><span class="p">,</span> <span class="n">italic</span><span class="o">=</span><span class="bp">False</span><span class="p">,</span> <span class="n">underline</span><span class="o">=</span><span class="bp">False</span><span class="p">,</span> <span class="n">strike</span><span class="o">=</span><span class="bp">False</span><span class="p">):</span>
+      </span><span class="line">        <span class="sd">&#39;&#39;&#39;parse the parameters and return a list of tags to apply that </span>
+      </span><span class="line"><span class="sd">        format</span>
+      </span><span class="line"><span class="sd">        &#39;&#39;&#39;</span>
+      </span><span class="line">        <span class="n">tags</span> <span class="o">=</span> <span class="p">[]</span>
+      </span><span class="line">
+      </span><span class="line">        <span class="k">if</span> <span class="n">fg_color</span><span class="p">:</span>
+      </span><span class="line">            <span class="n">tag</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">_parse_fg</span><span class="p">(</span><span class="n">fg_color</span><span class="p">)</span>
+      </span><span class="line">            <span class="k">if</span> <span class="n">tag</span><span class="p">:</span>
+      </span><span class="line">                <span class="n">tags</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">tag</span><span class="p">)</span>
+      </span><span class="line">
+      </span><span class="line">        <span class="k">if</span> <span class="n">bg_color</span><span class="p">:</span>
+      </span><span class="line">            <span class="n">tag</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">_parse_bg</span><span class="p">(</span><span class="n">bg_color</span><span class="p">)</span>
+      </span><span class="line">            <span class="k">if</span> <span class="n">tag</span><span class="p">:</span>
+      </span><span class="line">                <span class="n">tags</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">tag</span><span class="p">)</span>
+      </span><span class="line">
+      </span><span class="line">        <span class="k">if</span> <span class="n">font</span><span class="p">:</span>
+      </span><span class="line">            <span class="n">tag</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">_parse_font</span><span class="p">(</span><span class="n">font</span><span class="p">)</span>
+      </span><span class="line">            <span class="k">if</span> <span class="n">tag</span><span class="p">:</span>
+      </span><span class="line">                <span class="n">tags</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">tag</span><span class="p">)</span>
+      </span><span class="line">
+      </span><span class="line">        <span class="k">if</span> <span class="n">size</span><span class="p">:</span>
+      </span><span class="line">            <span class="n">tag</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">_parse_size</span><span class="p">(</span><span class="n">size</span><span class="p">)</span>
+      </span><span class="line">            <span class="k">if</span> <span class="n">tag</span><span class="p">:</span>
+      </span><span class="line">                <span class="n">tags</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">tag</span><span class="p">)</span>
+      </span><span class="line">
+      </span><span class="line">        <span class="k">if</span> <span class="n">bold</span><span class="p">:</span>
+      </span><span class="line">            <span class="n">tags</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">bold_tag</span><span class="p">)</span>
+      </span><span class="line">
+      </span><span class="line">        <span class="k">if</span> <span class="n">italic</span><span class="p">:</span>
+      </span><span class="line">            <span class="n">tags</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">italic_tag</span><span class="p">)</span>
+      </span><span class="line">
+      </span><span class="line">        <span class="k">if</span> <span class="n">underline</span><span class="p">:</span>
+      </span><span class="line">            <span class="n">tags</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">underline_tag</span><span class="p">)</span>
+      </span><span class="line">
+      </span><span class="line">        <span class="k">if</span> <span class="n">strike</span><span class="p">:</span>
+      </span><span class="line">            <span class="n">tags</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">strike_tag</span><span class="p">)</span>
+      </span><span class="line">
+      </span><span class="line">        <span class="k">return</span> <span class="n">tags</span>
+      </span><span class="line">
+      </span><span class="line">    <span class="k">def</span> <span class="nf">_parse_fg</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">value</span><span class="p">):</span>
+      </span><span class="line">        <span class="sd">&#39;&#39;&#39;parse the foreground color and return a tag&#39;&#39;&#39;</span>
+      </span><span class="line">        <span class="k">if</span> <span class="n">value</span> <span class="ow">in</span> <span class="bp">self</span><span class="o">.</span><span class="n">fg_tags</span><span class="p">:</span>
+      </span><span class="line">            <span class="k">return</span> <span class="bp">self</span><span class="o">.</span><span class="n">fg_tags</span><span class="p">[</span><span class="n">value</span><span class="p">]</span>
+      </span><span class="line">
+      </span><span class="line">        <span class="k">try</span><span class="p">:</span>
+      </span><span class="line">            <span class="n">color</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">gdk</span><span class="o">.</span><span class="n">color_parse</span><span class="p">(</span><span class="n">value</span><span class="p">)</span>
+      </span><span class="line">            <span class="bp">self</span><span class="o">.</span><span class="n">colormap</span><span class="o">.</span><span class="n">alloc_color</span><span class="p">(</span><span class="n">color</span><span class="p">)</span>
+      </span><span class="line">        <span class="k">except</span> <span class="ne">ValueError</span><span class="p">:</span>
+      </span><span class="line">            <span class="k">return</span> <span class="bp">None</span>
+      </span><span class="line">
+      </span><span class="line">        <span class="n">color_tag</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">create_tag</span><span class="p">(</span><span class="s">&#39;fg_&#39;</span> <span class="o">+</span> <span class="n">value</span><span class="p">[</span><span class="mi">1</span><span class="p">:],</span> <span class="n">foreground_gdk</span><span class="o">=</span><span class="n">color</span><span class="p">)</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">fg_tags</span><span class="p">[</span><span class="n">value</span><span class="p">]</span> <span class="o">=</span> <span class="n">color_tag</span>
+      </span><span class="line">
+      </span><span class="line">        <span class="k">return</span> <span class="n">color_tag</span>
+      </span><span class="line">
+      </span><span class="line">    <span class="k">def</span> <span class="nf">_parse_bg</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">value</span><span class="p">):</span>
+      </span><span class="line">        <span class="sd">&#39;&#39;&#39;parse the background color and return a tag&#39;&#39;&#39;</span>
+      </span><span class="line">        <span class="k">if</span> <span class="n">value</span> <span class="ow">in</span> <span class="bp">self</span><span class="o">.</span><span class="n">bg_tags</span><span class="p">:</span>
+      </span><span class="line">            <span class="k">return</span> <span class="bp">self</span><span class="o">.</span><span class="n">bg_tags</span><span class="p">[</span><span class="n">value</span><span class="p">]</span>
+      </span><span class="line">
+      </span><span class="line">        <span class="k">try</span><span class="p">:</span>
+      </span><span class="line">            <span class="n">color</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">gdk</span><span class="o">.</span><span class="n">color_parse</span><span class="p">(</span><span class="n">value</span><span class="p">)</span>
+      </span><span class="line">            <span class="bp">self</span><span class="o">.</span><span class="n">colormap</span><span class="o">.</span><span class="n">alloc_color</span><span class="p">(</span><span class="n">color</span><span class="p">)</span>
+      </span><span class="line">        <span class="k">except</span> <span class="ne">ValueError</span><span class="p">:</span>
+      </span><span class="line">            <span class="k">return</span> <span class="bp">None</span>
+      </span><span class="line">
+      </span><span class="line">        <span class="n">color_tag</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">create_tag</span><span class="p">(</span><span class="s">&#39;bg_&#39;</span> <span class="o">+</span> <span class="n">value</span><span class="p">[</span><span class="mi">1</span><span class="p">:],</span> <span class="n">background_gdk</span><span class="o">=</span><span class="n">color</span><span class="p">)</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">bg_tags</span><span class="p">[</span><span class="n">value</span><span class="p">]</span> <span class="o">=</span> <span class="n">color_tag</span>
+      </span><span class="line">
+      </span><span class="line">        <span class="k">return</span> <span class="n">color_tag</span>
+      </span><span class="line">
+      </span><span class="line">    <span class="k">def</span> <span class="nf">_parse_font</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">value</span><span class="p">):</span>
+      </span><span class="line">        <span class="sd">&#39;&#39;&#39;parse the font and return a tag&#39;&#39;&#39;</span>
+      </span><span class="line">        <span class="k">if</span> <span class="n">value</span> <span class="ow">in</span> <span class="bp">self</span><span class="o">.</span><span class="n">font_tags</span><span class="p">:</span>
+      </span><span class="line">            <span class="k">return</span> <span class="bp">self</span><span class="o">.</span><span class="n">font_tags</span><span class="p">[</span><span class="n">value</span><span class="p">]</span>
+      </span><span class="line">
+      </span><span class="line">        <span class="n">font_tag</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">create_tag</span><span class="p">(</span><span class="s">&#39;font_&#39;</span> <span class="o">+</span> <span class="n">value</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="s">&#39; &#39;</span><span class="p">,</span> <span class="s">&#39;_&#39;</span><span class="p">),</span>
+      </span><span class="line">            <span class="n">font</span><span class="o">=</span><span class="n">value</span><span class="p">)</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">font_tags</span><span class="p">[</span><span class="n">value</span><span class="p">]</span> <span class="o">=</span> <span class="n">font_tag</span>
+      </span><span class="line">       
+      </span><span class="line">        <span class="k">return</span> <span class="n">font_tag</span>
+      </span><span class="line">
+      </span><span class="line">    <span class="k">def</span> <span class="nf">_parse_size</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">value</span><span class="p">):</span>
+      </span><span class="line">        <span class="sd">&#39;&#39;&#39;parse the font size and return a tag&#39;&#39;&#39;</span>
+      </span><span class="line">        <span class="k">if</span> <span class="n">value</span> <span class="ow">in</span> <span class="bp">self</span><span class="o">.</span><span class="n">size_tags</span><span class="p">:</span>
+      </span><span class="line">            <span class="k">return</span> <span class="bp">self</span><span class="o">.</span><span class="n">size_tags</span><span class="p">[</span><span class="n">value</span><span class="p">]</span>
+      </span><span class="line">
+      </span><span class="line">        <span class="n">size_tag</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">create_tag</span><span class="p">(</span><span class="s">&#39;size_&#39;</span> <span class="o">+</span> <span class="nb">str</span><span class="p">(</span><span class="n">value</span><span class="p">),</span> <span class="n">size_points</span><span class="o">=</span><span class="n">value</span><span class="p">)</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">size_tags</span><span class="p">[</span><span class="n">value</span><span class="p">]</span> <span class="o">=</span> <span class="n">size_tag</span>
+      </span><span class="line">        <span class="k">return</span> <span class="n">size_tag</span>
+      </span><span class="line">
+      </span><span class="line"><span class="k">def</span> <span class="nf">test</span><span class="p">():</span>
+      </span><span class="line">    <span class="sd">&#39;&#39;&#39;do some tests with the buffer&#39;&#39;&#39;</span>
+      </span><span class="line">    <span class="kn">import</span> <span class="nn">sys</span>
+      </span><span class="line">    <span class="k">def</span> <span class="nf">on_close</span><span class="p">(</span><span class="n">widget</span><span class="p">,</span> <span class="n">event</span><span class="p">):</span>
+      </span><span class="line">        <span class="sd">&#39;&#39;&#39;method called when the window is closed&#39;&#39;&#39;</span>
+      </span><span class="line">        <span class="n">sys</span><span class="o">.</span><span class="n">exit</span><span class="p">(</span><span class="mi">0</span><span class="p">)</span>
+      </span><span class="line">
+      </span><span class="line">    <span class="n">window</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">Window</span><span class="p">()</span>
+      </span><span class="line">    <span class="n">window</span><span class="o">.</span><span class="n">set_default_size</span><span class="p">(</span><span class="mi">640</span><span class="p">,</span> <span class="mi">480</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">window</span><span class="o">.</span><span class="n">connect</span><span class="p">(</span><span class="s">&#39;delete-event&#39;</span><span class="p">,</span> <span class="n">on_close</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">textview</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">TextView</span><span class="p">()</span>
+      </span><span class="line">    <span class="n">buff</span> <span class="o">=</span> <span class="n">RichBuffer</span><span class="p">()</span>
+      </span><span class="line">    <span class="n">textview</span><span class="o">.</span><span class="n">set_buffer</span><span class="p">(</span><span class="n">buff</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">window</span><span class="o">.</span><span class="n">add</span><span class="p">(</span><span class="n">textview</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">window</span><span class="o">.</span><span class="n">show_all</span><span class="p">()</span>
+      </span><span class="line">    <span class="n">buff</span><span class="o">.</span><span class="n">put_text</span><span class="p">(</span><span class="s">&#39;buenas, como va? &#39;</span><span class="p">,</span> <span class="s">&#39;#CCCCCC&#39;</span><span class="p">,</span> <span class="s">&#39;#000000&#39;</span><span class="p">,</span> <span class="s">&#39;Arial&#39;</span><span class="p">,</span> <span class="mi">12</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">buff</span><span class="o">.</span><span class="n">put_text</span><span class="p">(</span><span class="s">&#39;esto es una prueba</span><span class="se">\n</span><span class="s">&#39;</span><span class="p">,</span> <span class="s">&#39;#CC0000&#39;</span><span class="p">,</span> <span class="s">&#39;#AAAAAA&#39;</span><span class="p">,</span> <span class="s">&#39;Purisa&#39;</span><span class="p">,</span> <span class="mi">14</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">buff</span><span class="o">.</span><span class="n">put_text</span><span class="p">(</span><span class="s">&#39;un poco de formato</span><span class="se">\n</span><span class="s">&#39;</span><span class="p">,</span> <span class="s">&#39;#00CC00&#39;</span><span class="p">,</span> <span class="s">&#39;#FFFFFF&#39;</span><span class="p">,</span> <span class="s">&#39;Andale Mono&#39;</span><span class="p">,</span>
+      </span><span class="line">        <span class="mi">8</span><span class="p">,</span> <span class="bp">True</span><span class="p">,</span> <span class="bp">True</span><span class="p">,</span> <span class="bp">True</span><span class="p">,</span> <span class="bp">True</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">buff</span><span class="o">.</span><span class="n">put_text</span><span class="p">(</span><span class="s">&#39;un poco mas</span><span class="se">\n</span><span class="s">&#39;</span><span class="p">,</span> <span class="s">&#39;#CCCCCC&#39;</span><span class="p">,</span> <span class="s">&#39;#0000CC&#39;</span><span class="p">,</span> <span class="s">&#39;Andale Mono&#39;</span><span class="p">,</span> <span class="mi">16</span><span class="p">,</span>
+      </span><span class="line">        <span class="bp">False</span><span class="p">,</span> <span class="bp">True</span><span class="p">,</span> <span class="bp">False</span><span class="p">,</span> <span class="bp">True</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">gtk</span><span class="o">.</span><span class="n">main</span><span class="p">()</span>
+      </span><span class="line">
+      </span><span class="line"><span class="k">if</span> <span class="n">__name__</span> <span class="o">==</span> <span class="s">&#39;__main__&#39;</span><span class="p">:</span>
+      </span><span class="line">    <span class="n">test</span><span class="p">()</span>
+      </span>
 
-    def __init__(self):
-        '''constructor'''
-        gtk.TextBuffer.__init__(self)
-
-        self.colormap = gtk.gdk.colormap_get_system()
-
-        self.fg_tags = {}
-        self.bg_tags = {}
-        self.font_tags = {}
-        self.size_tags = {}
-        self.bold_tag = self.create_tag("bold", weight=pango.WEIGHT_BOLD) 
-        self.italic_tag = self.create_tag("italic", style=pango.STYLE_ITALIC) 
-        self.underline_tag = self.create_tag("underline", 
-            underline=pango.UNDERLINE_SINGLE) 
-        self.strike_tag = self.create_tag("strike", strikethrough=True) 
-
-    def put_text(self, text, fg_color=None, bg_color=None, font=None, size=None,
-        bold=False, italic=False, underline=False, strike=False):
-        '''insert text at the current position with the style defined by the 
-        optional parameters'''
-        tags = self._parse_tags(fg_color, bg_color, font, size, bold, italic,
-            underline, strike)
-        iterator = self.get_iter_at_mark(self.get_insert())
-        self._insert(iterator, text, tags)
-
-    def _insert(self, iterator, text, tags=None):
-        '''insert text at the current position with the style defined by the 
-        optional parameters'''
-        if tags is not None:
-            self.insert_with_tags(iterator, text, *tags)
-        else:
-            self.insert(iterator, text)
-
-    def _parse_tags(self, fg_color=None, bg_color=None, font=None, size=None,
-        bold=False, italic=False, underline=False, strike=False):
-        '''parse the parameters and return a list of tags to apply that 
-        format
-        '''
-        tags = []
-
-        if fg_color:
-            tag = self._parse_fg(fg_color)
-            if tag:
-                tags.append(tag)
-
-        if bg_color:
-            tag = self._parse_bg(bg_color)
-            if tag:
-                tags.append(tag)
-
-        if font:
-            tag = self._parse_font(font)
-            if tag:
-                tags.append(tag)
-
-        if size:
-            tag = self._parse_size(size)
-            if tag:
-                tags.append(tag)
-
-        if bold:
-            tags.append(self.bold_tag)
-
-        if italic:
-            tags.append(self.italic_tag)
-
-        if underline:
-            tags.append(self.underline_tag)
-
-        if strike:
-            tags.append(self.strike_tag)
-
-        return tags
-
-    def _parse_fg(self, value):
-        '''parse the foreground color and return a tag'''
-        if value in self.fg_tags:
-            return self.fg_tags[value]
-
-        try:
-            color = gtk.gdk.color_parse(value)
-            self.colormap.alloc_color(color)
-        except ValueError:
-            return None
-
-        color_tag = self.create_tag('fg_' + value[1:], foreground_gdk=color)
-        self.fg_tags[value] = color_tag
-
-        return color_tag
-
-    def _parse_bg(self, value):
-        '''parse the background color and return a tag'''
-        if value in self.bg_tags:
-            return self.bg_tags[value]
-
-        try:
-            color = gtk.gdk.color_parse(value)
-            self.colormap.alloc_color(color)
-        except ValueError:
-            return None
-
-        color_tag = self.create_tag('bg_' + value[1:], background_gdk=color)
-        self.bg_tags[value] = color_tag
-
-        return color_tag
-
-    def _parse_font(self, value):
-        '''parse the font and return a tag'''
-        if value in self.font_tags:
-            return self.font_tags[value]
-
-        font_tag = self.create_tag('font_' + value.replace(' ', '_'), 
-            font=value)
-        self.font_tags[value] = font_tag
-        
-        return font_tag
-
-    def _parse_size(self, value):
-        '''parse the font size and return a tag'''
-        if value in self.size_tags:
-            return self.size_tags[value]
-
-        size_tag = self.create_tag('size_' + str(value), size_points=value)
-        self.size_tags[value] = size_tag
-        return size_tag
-
-def test():
-    '''do some tests with the buffer'''
-    import sys
-    def on_close(widget, event):
-        '''method called when the window is closed'''
-        sys.exit(0)
-
-    window = gtk.Window()
-    window.set_default_size(640, 480)
-    window.connect('delete-event', on_close)
-    textview = gtk.TextView()
-    buff = RichBuffer()
-    textview.set_buffer(buff)
-    window.add(textview)
-    window.show_all()
-    buff.put_text('buenas, como va? ', '#CCCCCC', '#000000', 'Arial', 12)
-    buff.put_text('esto es una prueba\n', '#CC0000', '#AAAAAA', 'Purisa', 14)
-    buff.put_text('un poco de formato\n', '#00CC00', '#FFFFFF', 'Andale Mono', 
-        8, True, True, True, True)
-    buff.put_text('un poco mas\n', '#CCCCCC', '#0000CC', 'Andale Mono', 16, 
-        False, True, False, True)
-    gtk.main()
-
-if __name__ == '__main__':
-    test()
-}}}
-
-{{attachment:GtkRichText.png}}
+`attachment:GtkRichText.png`_
 
 mas info:
 
- * [[http://pygtk.org/docs/pygtk/]]
- * [[http://www.gtk.org/api/2.6/gtk/GtkTextTag.html]]
- * [[http://pygtk.org/docs/pygtk/class-gtktextbuffer.html]]
+* http://pygtk.org/docs/pygtk/
+
+* http://www.gtk.org/api/2.6/gtk/GtkTextTag.html
+
+* http://pygtk.org/docs/pygtk/class-gtktextbuffer.html
+
