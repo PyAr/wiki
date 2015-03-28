@@ -1,4 +1,3 @@
-#format rst
 
 Nueva release de Python
 =======================
