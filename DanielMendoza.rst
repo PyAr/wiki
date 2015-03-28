@@ -1,7 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
-#acl DanielMendoza:admin,read,write,delete,revert All:read
-#language es
 
 Daniel Mendoza
 --------------
@@ -24,5 +20,4 @@ mi blog: http://siempredesdeaca.blogspot.com/
 
 .. ############################################################################
 
-.. _FoxPro: ../FoxPro
 
