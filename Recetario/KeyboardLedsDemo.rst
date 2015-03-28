@@ -1,4 +1,3 @@
-#format rst
 
 Keyboard Leds Demo
 ==================
