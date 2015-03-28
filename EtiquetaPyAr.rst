@@ -1,4 +1,3 @@
-#format rst
 
 EtiquetaPyAr
 ============
@@ -74,7 +73,6 @@ Claramente ONTOPIC
 
 .. ############################################################################
 
-.. _PyAr: ../PyAr
 
 .. _Top-Posting: http://es.wikipedia.org/wiki/Top-posting
 
@@ -84,11 +82,14 @@ Claramente ONTOPIC
 
 .. _"La Campaña ASCII Ribbon": http://www.asciiribbon.org/index-es.html
 
-.. _Recetario: ../Recetario
 
 .. _"Cómo hacer preguntas inteligentes": http://www.sindominio.net/ayuda/preguntas-inteligentes.html
 
-.. _ObteniendoRespuestas: ../ObteniendoRespuestas
 
 .. _video gracioso ilustrando la situación: http://www.youtube.com/watch?v=MSUr0tHTwfw
+
+
+
+.. role:: strike
+   :class: strike
 
