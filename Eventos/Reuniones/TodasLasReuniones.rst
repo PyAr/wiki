@@ -1,5 +1,3 @@
-#format rst
-## Listado de todas las reuniones realizadas
 
 Indice de reuniones realizadas
 ==============================
