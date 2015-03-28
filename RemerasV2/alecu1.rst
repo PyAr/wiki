@@ -1,15 +1,14 @@
-#format rst
 
 Intento 01 de alecu
 -------------------
 
 Creo que les comenté que estoy podrido de remeras negras. Arme este diseño, aprovechando alguno de los diseños propuestos para la bandera. Pueden encontrarlos aca: http://alecu.com.ar/banderas/
 
-`attachment:remera2-alecu01.png`_
+`remera2-alecu01.png </wiki/RemerasV2/alecu1/attachment/183/remera2-alecu01.png>`_
 
 **Diseño:**
 
-`attachment:remera2-alecu01.svg`_remera2-alecu01.svg`attachment:None`_
+
 
 Comentarios
 -----------
