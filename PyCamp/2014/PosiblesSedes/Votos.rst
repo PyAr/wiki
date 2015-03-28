@@ -1,72 +1,79 @@
-== Votación PyCamp 2014 ==
+#format rst
+
+Votación PyCamp 2014
+--------------------
 
 El resultado de la votación fue:
 
-{{{
-   21 Hotel Luz y Fuerza
-   20 Verónica
-}}}
+::
 
+      21 Hotel Luz y Fuerza
+      20 Verónica
 
 Estas fueron las votaciones en detalle:
 
-{{{
-Facundo Batista
-Verónica
+::
 
-Horacio Durán
-Hotel Luz y Fuerza
-Verónica
+   Facundo Batista
+   Verónica
 
-Diego Sarmentero
-Hotel Luz y Fuerza
+   Horacio Durán
+   Hotel Luz y Fuerza
+   Verónica
 
-Tim Zenderman
-Verónica
+   Diego Sarmentero
+   Hotel Luz y Fuerza
 
-Natalia Bidart
-Hotel Luz y Fuerza
+   Tim Zenderman
+   Verónica
 
-Mariano Aquino
-Verónica
+   Natalia Bidart
+   Hotel Luz y Fuerza
 
-Daniel F. Moisset
-Hotel Luz y Fuerza
-Verónica
+   Mariano Aquino
+   Verónica
 
-Juan Pedro Fisanotti
-Verónica
-Hotel Luz y Fuerza
+   Daniel F. Moisset
+   Hotel Luz y Fuerza
+   Verónica
 
-Emiliano Dalla Verde Marcozzi
-Hotel Luz y Fuerza
+   Juan Pedro Fisanotti
+   Verónica
+   Hotel Luz y Fuerza
 
-Santiago Piccinini
-Verónica
-Hotel Luz y Fuerza
+   Emiliano Dalla Verde Marcozzi
+   Hotel Luz y Fuerza
 
-Juan Carizza
-Verónica
-Hotel Luz y Fuerza
+   Santiago Piccinini
+   Verónica
+   Hotel Luz y Fuerza
 
-Emilio Ramirez
-Hotel Luz y Fuerza
+   Juan Carizza
+   Verónica
+   Hotel Luz y Fuerza
 
-Ricardo Kirkner
-Verónica
-Hotel Luz y Fuerza
+   Emilio Ramirez
+   Hotel Luz y Fuerza
 
-Nicolas Demarchi
-Verónica
-Hotel Luz y Fuerza
+   Ricardo Kirkner
+   Verónica
+   Hotel Luz y Fuerza
 
-Hugo Ruscitti
-Hotel Luz y Fuerza
-Verónica
+   Nicolas Demarchi
+   Verónica
+   Hotel Luz y Fuerza
 
-Pablo Gabriel Celayes
-Hotel Luz y Fuerza
-Verónica
-}}}
+   Hugo Ruscitti
+   Hotel Luz y Fuerza
+   Verónica
 
-La evaluación fue con [[http://python.org.ar/PyCamp/2013/PosiblesSedes/Votos|el mismo script del año pasado]] (obviamente con TOP_SCORE = 2)
+   Pablo Gabriel Celayes
+   Hotel Luz y Fuerza
+   Verónica
+
+La evaluación fue con `el mismo script del año pasado`_ (obviamente con TOP_SCORE = 2)
+
+.. ############################################################################
+
+.. _el mismo script del año pasado: http://python.org.ar/PyCamp/2013/PosiblesSedes/Votos
+
