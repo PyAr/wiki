@@ -1,4 +1,3 @@
-#format rst
 
 PythonDay_ 2 (córdoba)
 
@@ -6,7 +5,6 @@ PythonDay_ 2 (córdoba)
 
 .. ############################################################################
 
-.. _PythonDay: ../PythonDay
 
 .. _PyDay2/CallForCharlas: /CallForCharlas
 
