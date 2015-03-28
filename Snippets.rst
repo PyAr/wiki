@@ -1,4 +1,3 @@
-#format rst
 
 Como crear snippets en el wiki
 ==============================
@@ -43,5 +42,4 @@ es recomendable crear los snippets bajo la jerarquia del nombre de usuario de ma
 
 .. ############################################################################
 
-.. _MarianoGuerra: ../MarianoGuerra
 
