@@ -1,5 +1,3 @@
-#format rst
-## page was renamed from ListaDeMail
 
 Lista de Correo
 ===============
@@ -89,9 +87,7 @@ Hemos hablado de muchas cosas en la lista de PyAr_, si tienes un problema o una 
 
 .. ############################################################################
 
-.. _PyAr: ../PyAr
 
-.. _EtiquetaPyAr: ../EtiquetaPyAr
 
 .. _USLA: http://drupal.usla.org.ar/
 
