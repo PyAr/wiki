@@ -1,8 +1,8 @@
-PyAR (Python Argentina) se encuentra en la organización del 2do Python Day en Córdoba.
-Convocamos a aquellos interesados en participar del mismo en calidad de
-disertantes a presentar sus charlas.
+#format rst
 
-Donde enviarlas: <<MailTo(charlas GUION pyday EN python PUNTO com PUNTO ar)>>
+PyAR (Python Argentina) se encuentra en la organización del 2do Python Day en Córdoba. Convocamos a aquellos interesados en participar del mismo en calidad de disertantes a presentar sus charlas.
+
+Donde enviarlas: `[[MailTo(charlas GUION pyday EN python PUNTO com PUNTO ar)]]`_
 
 Las mismas deben contener:
 
@@ -12,23 +12,17 @@ Las mismas deben contener:
 
 - tiempo estimado de duración (máximo 45')
 
-- descripción de la charla: uno o dos párrafos que explique el contenido de la
-presentación
+- descripción de la charla: uno o dos párrafos que explique el contenido de la presentación
 
 - nivel: básico/medio/avanzado
 
-- conocimientos previos: especificar los conocimientos previos que deberán tener
-los asistentes, si se requiere.
+- conocimientos previos: especificar los conocimientos previos que deberán tener los asistentes, si se requiere.
 
 Un autor podrá enviar más de una propuesta de charla.
 
-El formato de envío:
-Como archivo adjunto en algún formato libre (OpenOffice, HTML, PDF ó
-texto plano)
-y su licencia debe ser tal que nos permita su libre distribución en CD
-o sitio web.
+El formato de envío: Como archivo adjunto en algún formato libre (OpenOffice_, HTML, PDF ó texto plano) y su licencia debe ser tal que nos permita su libre distribución en CD o sitio web.
 
-La fecha límite de entrega es el sábado 25 de Octubre de 2008. Enviar las
-mismas a la dirección antes mencionada.
+La fecha límite de entrega es el sábado 25 de Octubre de 2008. Enviar las mismas a la dirección antes mencionada.
 
 Se agradece difusión. Muchas gracias.
+
