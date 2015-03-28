@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Nubis
 -----
@@ -16,5 +14,4 @@ Email: `[[MailTo(gnubis AT gmail DOT com)]]`_
 
 .. ############################################################################
 
-.. _CategoryHomepage: ../CategoryHomepage
 
