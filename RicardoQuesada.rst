@@ -1,7 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
-#acl RicardoQuesada:admin,read,write,delete,revert All:read
-#language es
 
 Ricardo Quesada
 ---------------
@@ -48,5 +44,4 @@ Intereses:
 
 .. _`http://www.cocos2d.org`: http://www.cocos2d.org/
 
-.. _CategoryHomepage: ../CategoryHomepage
 
