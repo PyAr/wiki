@@ -346,7 +346,7 @@ Cyclope 3: un CMS libre desarrollado en Python/Django
 
 NicoEchaniz_
 
-Slides_ Video_
+Slides_echaniz_ Video_
 
 -------------------------
 
@@ -380,8 +380,8 @@ Introducción a wxPython
 `MarceloFernández`_
 
 **Slides ODP:**  
- **Slides PDF:**  
- **Código de ejemplos:**  
+**Slides PDF:**  
+**Código de ejemplos:**  
 
 
 PyDay Córdoba 2011
@@ -648,7 +648,7 @@ https://docs.google.com/presentation/d/1dsNcM590BxoIaTViGRvGeylYg82n-UYOk4hVJ33P
 
 .. _Parte 8: http://docs.google.com/present/view?id=dd9bm82g_125fp6377hd
 
-.. _Slides: http://nicoechaniz.com.ar/charla_pycon2010_s5/
+.. _Slides_echaniz: http://nicoechaniz.com.ar/charla_pycon2010_s5/
 
 .. _Video: http://cyclope3.codigosur.org/movieclip/charla-en-pycon2010/
 
