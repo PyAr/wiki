@@ -1,10 +1,10 @@
-##master-page:HomepageTemplate
-#format wiki
-#language es
+#format rst
+## master-page:HomepageTemplate
 
-== Ramiro Algozino ==
+Ramiro Algozino
+---------------
 
-Email/Gtalk: <<MailTo(algozino AT SPAMFREE gmail DOT com)>>
+Email/Gtalk: `[[MailTo(algozino AT SPAMFREE gmail DOT com)]]`_
 
 IRC: ralgozino @ irc.freenode.com
 
@@ -12,8 +12,15 @@ Blog: http://ralgozino.wordpress.com
 
 Launchpad: https://launchpad.net/~algozino
 
-GoogleCode: http://code.google.com/u/algozino
+GoogleCode_: http://code.google.com/u/algozino
 
+-------------------------
 
-----
-CategoryHomepage
+ CategoryHomepage_
+
+.. ############################################################################
+
+.. _GoogleCode: ../GoogleCode
+
+.. _CategoryHomepage: ../CategoryHomepage
+
