@@ -1,10 +1,20 @@
-##master-page:HomepageTemplate
-#format wiki
-== OSiRiS (aka OSiUX) ==
+#format rst
+## master-page:HomepageTemplate
 
- * Email: <<MailTo(osiux AT SPAMFREE osiux DOT com)>>
- * Home: http://osiux.com
- * BAL: http://wiki.buenosaireslibre.org/NodoOsiux
+OSiRiS (aka OSiUX)
+------------------
 
-----
-CategoryHomepage
+* Email: `[[MailTo(osiux AT SPAMFREE osiux DOT com)]]`_
+
+* Home: http://osiux.com
+
+* BAL: http://wiki.buenosaireslibre.org/NodoOsiux
+
+-------------------------
+
+ CategoryHomepage_
+
+.. ############################################################################
+
+.. _CategoryHomepage: ../CategoryHomepage
+
