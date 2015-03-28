@@ -1,6 +1,3 @@
-Contenido1
----------
-
 * Noticias_ de PyAr_, sus miembros, o noticias relevantes de Python.
 
 * Eventos_: Aquí encontrarás información sobre las actividades que realizamos.
@@ -30,4 +27,3 @@ Contenido1
 * AdoptaUnNewbie_: Ayuda en proyectos para gente que recién comienza
 
 * SciPyar_: PyAr_ para ciencia e ingeniería
-
