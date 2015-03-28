@@ -1,5 +1,3 @@
-#format rst
-#acl All:read,write
 
 .. sectnum::
    :depth: 2
@@ -122,5 +120,4 @@ La versión inicial estará a cargo de quien haya dirigido la reunión. La pági
 
 .. _Doodle: http://www.doodle.com/
 
-.. _ProximaReunion: ../ProximaReunion
 
