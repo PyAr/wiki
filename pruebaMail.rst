@@ -1,3 +1,6 @@
-<<MailTo( joac ARROBA lo PUNTO arregle)>>
+#format rst
 
-<<MailTo( sebastian EN mira PUNTO lo)>>
+`[[MailTo( joac ARROBA lo PUNTO arregle)]]`_
+
+`[[MailTo( sebastian EN mira PUNTO lo)]]`_
+
