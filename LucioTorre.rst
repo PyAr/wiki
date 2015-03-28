@@ -1,10 +1,16 @@
-##master-page:HomepageTemplate
-#format wiki
-== Lucio Torre ==
+#format rst
+## master-page:HomepageTemplate
+
+Lucio Torre
+-----------
 
 piu avanti
 
+-------------------------
 
+ CategoryHomepage_
 
-----
-CategoryHomepage
+.. ############################################################################
+
+.. _CategoryHomepage: ../CategoryHomepage
+
