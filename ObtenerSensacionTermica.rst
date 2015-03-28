@@ -1,4 +1,3 @@
-#format rst
 
 Obtener Sensacion Termica
 =========================
