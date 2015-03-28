@@ -1,11 +1,3 @@
-## Please edit system and help pages ONLY in the moinmaster wiki! For more
-## information, please see MoinMaster:MoinPagesEditorGroup.
-##acl MoinPagesEditorGroup:read,write,delete,revert All:read
-##master-page:HelpOnEditing
-##master-date:Unknown-Date
-#acl MoinPagesEditorGroup:read,write,delete,revert All:read
-#format wiki
-#language es
 
 == Editar Página ==
 Los nombres de las páginas tienen que LucirAsí. Se llama un NombreWiki. Si escribes una palabra que LuzcaAsí, será automáticamente convertida en un enlace. Puedes encontrar más detalles sobre esto en AyudaParaPrincipiantes.
