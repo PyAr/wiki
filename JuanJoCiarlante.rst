@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 JuanJoCiarlante
 ---------------
@@ -38,5 +36,4 @@ Soy profesor de grado y posgrado de la Universidad de Mendoza, desde 1999. Orado
 
 .. ############################################################################
 
-.. _CategoryHomepage: ../CategoryHomepage
 
