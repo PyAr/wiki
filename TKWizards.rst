@@ -1,102 +1,108 @@
-= TK Wizards =
+#format rst
 
-Crea un Wizard amigable para actividades o previo de instalaciones, con multiples paginas, del tipo "siguiente, siguiente ''(...)'' Terminar"
+TK Wizards
+==========
+
+Crea un Wizard amigable para actividades o previo de instalaciones, con multiples paginas, del tipo "siguiente, siguiente *(...)* Terminar"
 
 Sacando todo el codigo necesario para generar el Wizard en si mismo, agregar nuevas paginas es simple.
 
 Las paginas pueden contener cualquier widget, en este ejemplo solo se usa 1 label por cada una.
 
-'''Screenshot:'''
+**Screenshot:**
 
- {{attachment:temp.jpg}}
+  `attachment:temp.jpg`_
 
-{{{#!code python
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
-#
-try:
-    import Tkinter as tk  # Python2
-except ImportError:
-    import tkinter as tk  # Python3
+::
 
-class Wizard(tk.Toplevel):
-    def __init__(self, npages, master=None):
-        self.master = master
-        self.pages = []
-        self.current = 0
-        tk.Toplevel.__init__(self)
-        #self.overrideredirect() # saca el decorador de ventana
-        self.protocol("WM_DELETE_WINDOW", self.onQuit)
-        #self.attributes('-toolwindow', True) # ToolWindowz
-        self.attributes('-topmost', True)
-        if master:
-            self.transient(self.master)
-            self.lift(master)
-        for page in range(npages):
-            self.pages.append(tk.Frame(self))
-        self.pages[0].pack(fill='both', expand=1)
-        self.__wizard_buttons()
+   .. raw:: html
+      <span class="line"><span class="c">#!/usr/bin/env python</span>
+      </span><span class="line"><span class="c"># -*- coding: utf-8 -*-</span>
+      </span><span class="line"><span class="c">#</span>
+      </span><span class="line"><span class="k">try</span><span class="p">:</span>
+      </span><span class="line">    <span class="kn">import</span> <span class="nn">Tkinter</span> <span class="kn">as</span> <span class="nn">tk</span>  <span class="c"># Python2</span>
+      </span><span class="line"><span class="k">except</span> <span class="ne">ImportError</span><span class="p">:</span>
+      </span><span class="line">    <span class="kn">import</span> <span class="nn">tkinter</span> <span class="kn">as</span> <span class="nn">tk</span>  <span class="c"># Python3</span>
+      </span><span class="line">
+      </span><span class="line"><span class="k">class</span> <span class="nc">Wizard</span><span class="p">(</span><span class="n">tk</span><span class="o">.</span><span class="n">Toplevel</span><span class="p">):</span>
+      </span><span class="line">    <span class="k">def</span> <span class="nf">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">npages</span><span class="p">,</span> <span class="n">master</span><span class="o">=</span><span class="bp">None</span><span class="p">):</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">master</span> <span class="o">=</span> <span class="n">master</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">pages</span> <span class="o">=</span> <span class="p">[]</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">current</span> <span class="o">=</span> <span class="mi">0</span>
+      </span><span class="line">        <span class="n">tk</span><span class="o">.</span><span class="n">Toplevel</span><span class="o">.</span><span class="n">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">)</span>
+      </span><span class="line">        <span class="c">#self.overrideredirect() # saca el decorador de ventana</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">protocol</span><span class="p">(</span><span class="s">&quot;WM_DELETE_WINDOW&quot;</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">onQuit</span><span class="p">)</span>
+      </span><span class="line">        <span class="c">#self.attributes(&#39;-toolwindow&#39;, True) # ToolWindowz</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">attributes</span><span class="p">(</span><span class="s">&#39;-topmost&#39;</span><span class="p">,</span> <span class="bp">True</span><span class="p">)</span>
+      </span><span class="line">        <span class="k">if</span> <span class="n">master</span><span class="p">:</span>
+      </span><span class="line">            <span class="bp">self</span><span class="o">.</span><span class="n">transient</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">master</span><span class="p">)</span>
+      </span><span class="line">            <span class="bp">self</span><span class="o">.</span><span class="n">lift</span><span class="p">(</span><span class="n">master</span><span class="p">)</span>
+      </span><span class="line">        <span class="k">for</span> <span class="n">page</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">npages</span><span class="p">):</span>
+      </span><span class="line">            <span class="bp">self</span><span class="o">.</span><span class="n">pages</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">tk</span><span class="o">.</span><span class="n">Frame</span><span class="p">(</span><span class="bp">self</span><span class="p">))</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">pages</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span><span class="o">.</span><span class="n">pack</span><span class="p">(</span><span class="n">fill</span><span class="o">=</span><span class="s">&#39;both&#39;</span><span class="p">,</span> <span class="n">expand</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">__wizard_buttons</span><span class="p">()</span>
+      </span><span class="line">
+      </span><span class="line">    <span class="k">def</span> <span class="nf">onQuit</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+      </span><span class="line">        <span class="k">pass</span> <span class="c"># hace algo on quit</span>
+      </span><span class="line">
+      </span><span class="line">    <span class="k">def</span> <span class="nf">__wizard_buttons</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+      </span><span class="line">        <span class="k">for</span> <span class="n">indx</span><span class="p">,</span> <span class="n">frm</span> <span class="ow">in</span> <span class="nb">enumerate</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">pages</span><span class="p">):</span>
+      </span><span class="line">            <span class="n">btnframe</span> <span class="o">=</span> <span class="n">tk</span><span class="o">.</span><span class="n">Frame</span><span class="p">(</span><span class="n">frm</span><span class="p">,</span> <span class="n">bd</span><span class="o">=</span><span class="mi">1</span><span class="p">,</span> <span class="n">bg</span><span class="o">=</span><span class="s">&#39;#3C3B37&#39;</span><span class="p">)</span>
+      </span><span class="line">            <span class="n">btnframe</span><span class="o">.</span><span class="n">pack</span><span class="p">(</span><span class="n">side</span><span class="o">=</span><span class="s">&#39;bottom&#39;</span><span class="p">,</span> <span class="n">fill</span><span class="o">=</span><span class="s">&#39;x&#39;</span><span class="p">)</span>
+      </span><span class="line">            <span class="n">nextbtn</span> <span class="o">=</span> <span class="n">tk</span><span class="o">.</span><span class="n">Button</span><span class="p">(</span><span class="n">btnframe</span><span class="p">,</span> <span class="n">bd</span><span class="o">=</span><span class="mi">0</span><span class="p">,</span> <span class="n">bg</span><span class="o">=</span><span class="s">&#39;#F2F1F0&#39;</span><span class="p">,</span> <span class="n">activebackground</span><span class="o">=</span><span class="s">&#39;#F58151&#39;</span><span class="p">,</span> <span class="n">highlightcolor</span><span class="o">=</span><span class="s">&#39;red&#39;</span><span class="p">,</span> <span class="n">cursor</span><span class="o">=</span><span class="s">&#39;hand2&#39;</span><span class="p">,</span> <span class="n">text</span><span class="o">=</span><span class="s">&quot;Siguiente &gt;&gt;&quot;</span><span class="p">,</span> <span class="n">width</span><span class="o">=</span><span class="mi">10</span><span class="p">,</span> <span class="n">command</span><span class="o">=</span><span class="bp">self</span><span class="o">.</span><span class="n">__next_page</span><span class="p">)</span>
+      </span><span class="line">            <span class="n">nextbtn</span><span class="o">.</span><span class="n">pack</span><span class="p">(</span><span class="n">side</span><span class="o">=</span><span class="s">&#39;right&#39;</span><span class="p">,</span> <span class="n">anchor</span><span class="o">=</span><span class="s">&#39;e&#39;</span><span class="p">,</span> <span class="n">padx</span><span class="o">=</span><span class="mi">5</span><span class="p">,</span> <span class="n">pady</span><span class="o">=</span><span class="mi">5</span><span class="p">)</span>
+      </span><span class="line">            <span class="k">if</span> <span class="n">indx</span> <span class="o">!=</span> <span class="mi">0</span><span class="p">:</span>
+      </span><span class="line">                <span class="n">prevbtn</span> <span class="o">=</span> <span class="n">tk</span><span class="o">.</span><span class="n">Button</span><span class="p">(</span><span class="n">btnframe</span><span class="p">,</span> <span class="n">bd</span><span class="o">=</span><span class="mi">0</span><span class="p">,</span> <span class="n">bg</span><span class="o">=</span><span class="s">&#39;#F2F1F0&#39;</span><span class="p">,</span> <span class="n">activebackground</span><span class="o">=</span><span class="s">&#39;#F58151&#39;</span><span class="p">,</span> <span class="n">highlightcolor</span><span class="o">=</span><span class="s">&#39;red&#39;</span><span class="p">,</span> <span class="n">cursor</span><span class="o">=</span><span class="s">&#39;hand2&#39;</span><span class="p">,</span> <span class="n">text</span><span class="o">=</span><span class="s">&quot;&lt;&lt; Atras&quot;</span><span class="p">,</span> <span class="n">width</span><span class="o">=</span><span class="mi">10</span><span class="p">,</span> <span class="n">command</span><span class="o">=</span><span class="bp">self</span><span class="o">.</span><span class="n">__prev_page</span><span class="p">)</span>
+      </span><span class="line">                <span class="n">prevbtn</span><span class="o">.</span><span class="n">pack</span><span class="p">(</span><span class="n">side</span><span class="o">=</span><span class="s">&#39;right&#39;</span><span class="p">,</span> <span class="n">anchor</span><span class="o">=</span><span class="s">&#39;e&#39;</span><span class="p">,</span> <span class="n">padx</span><span class="o">=</span><span class="mi">5</span><span class="p">,</span> <span class="n">pady</span><span class="o">=</span><span class="mi">5</span><span class="p">)</span>
+      </span><span class="line">                <span class="k">if</span> <span class="n">indx</span> <span class="o">==</span> <span class="nb">len</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">pages</span><span class="p">)</span> <span class="o">-</span> <span class="mi">1</span><span class="p">:</span>
+      </span><span class="line">                    <span class="n">nextbtn</span><span class="o">.</span><span class="n">configure</span><span class="p">(</span><span class="n">text</span><span class="o">=</span><span class="s">&quot;Terminar&quot;</span><span class="p">,</span> <span class="n">bd</span><span class="o">=</span><span class="mi">0</span><span class="p">,</span> <span class="n">bg</span><span class="o">=</span><span class="s">&#39;#F2F1F0&#39;</span><span class="p">,</span> <span class="n">activebackground</span><span class="o">=</span><span class="s">&#39;#F58151&#39;</span><span class="p">,</span> <span class="n">highlightcolor</span><span class="o">=</span><span class="s">&#39;red&#39;</span><span class="p">,</span> <span class="n">cursor</span><span class="o">=</span><span class="s">&#39;hand2&#39;</span><span class="p">,</span> <span class="n">command</span><span class="o">=</span><span class="bp">self</span><span class="o">.</span><span class="n">close</span><span class="p">)</span>
+      </span><span class="line">
+      </span><span class="line">    <span class="k">def</span> <span class="nf">__next_page</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+      </span><span class="line">        <span class="k">if</span> <span class="bp">self</span><span class="o">.</span><span class="n">current</span> <span class="o">==</span> <span class="nb">len</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">pages</span><span class="p">):</span>
+      </span><span class="line">            <span class="k">return</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">pages</span><span class="p">[</span><span class="bp">self</span><span class="o">.</span><span class="n">current</span><span class="p">]</span><span class="o">.</span><span class="n">pack_forget</span><span class="p">()</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">current</span> <span class="o">+=</span> <span class="mi">1</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">pages</span><span class="p">[</span><span class="bp">self</span><span class="o">.</span><span class="n">current</span><span class="p">]</span><span class="o">.</span><span class="n">pack</span><span class="p">(</span><span class="n">fill</span><span class="o">=</span><span class="s">&#39;both&#39;</span><span class="p">,</span> <span class="n">expand</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span>
+      </span><span class="line">
+      </span><span class="line">    <span class="k">def</span> <span class="nf">__prev_page</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+      </span><span class="line">        <span class="k">if</span> <span class="bp">self</span><span class="o">.</span><span class="n">current</span> <span class="o">==</span> <span class="mi">0</span><span class="p">:</span>
+      </span><span class="line">            <span class="k">return</span>       
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">pages</span><span class="p">[</span><span class="bp">self</span><span class="o">.</span><span class="n">current</span><span class="p">]</span><span class="o">.</span><span class="n">pack_forget</span><span class="p">()</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">current</span> <span class="o">-=</span> <span class="mi">1</span>
+      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">pages</span><span class="p">[</span><span class="bp">self</span><span class="o">.</span><span class="n">current</span><span class="p">]</span><span class="o">.</span><span class="n">pack</span><span class="p">(</span><span class="n">fill</span><span class="o">=</span><span class="s">&#39;both&#39;</span><span class="p">,</span> <span class="n">expand</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span>        
+      </span><span class="line">
+      </span><span class="line">    <span class="k">def</span> <span class="nf">add_page_body</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">body</span><span class="p">):</span>
+      </span><span class="line">        <span class="n">body</span><span class="o">.</span><span class="n">pack</span><span class="p">(</span><span class="n">side</span><span class="o">=</span><span class="s">&#39;top&#39;</span><span class="p">,</span> <span class="n">fill</span><span class="o">=</span><span class="s">&#39;both&#39;</span><span class="p">,</span> <span class="n">padx</span><span class="o">=</span><span class="mi">6</span><span class="p">,</span> <span class="n">pady</span><span class="o">=</span><span class="mi">12</span><span class="p">)</span>
+      </span><span class="line">
+      </span><span class="line">    <span class="k">def</span> <span class="nf">page</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">page_num</span><span class="p">):</span>
+      </span><span class="line">        <span class="k">try</span><span class="p">:</span>
+      </span><span class="line">            <span class="n">page</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">pages</span><span class="p">[</span><span class="n">page_num</span><span class="p">]</span>
+      </span><span class="line">        <span class="k">except</span> <span class="ne">KeyError</span><span class="p">(</span><span class="s">&quot;Pagina Invalida! : </span><span class="si">%s</span><span class="s">&quot;</span> <span class="o">%</span> <span class="n">page_num</span><span class="p">):</span>
+      </span><span class="line">            <span class="k">return</span> <span class="mi">0</span>
+      </span><span class="line">        <span class="k">return</span> <span class="n">page</span>
+      </span><span class="line">
+      </span><span class="line">    <span class="k">def</span> <span class="nf">close</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+      </span><span class="line">        <span class="k">if</span> <span class="bp">self</span><span class="o">.</span><span class="n">validate</span><span class="p">():</span>
+      </span><span class="line">            <span class="bp">self</span><span class="o">.</span><span class="n">master</span><span class="o">.</span><span class="n">iconify</span><span class="p">()</span>
+      </span><span class="line">            <span class="k">print</span> <span class="p">(</span><span class="s">&#39; TK Wizard finished... &#39;</span><span class="p">)</span>
+      </span><span class="line">            <span class="bp">self</span><span class="o">.</span><span class="n">destroy</span><span class="p">()</span>
+      </span><span class="line">            <span class="bp">self</span><span class="o">.</span><span class="n">master</span><span class="o">.</span><span class="n">destroy</span><span class="p">()</span> <span class="c"># remover?</span>
+      </span><span class="line">
+      </span><span class="line">    <span class="k">def</span> <span class="nf">validate</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+      </span><span class="line">        <span class="k">return</span> <span class="mi">1</span> <span class="c"># hace algo</span>
+      </span><span class="line">
+      </span><span class="line"><span class="k">if</span> <span class="n">__name__</span> <span class="o">==</span> <span class="s">&quot;__main__&quot;</span><span class="p">:</span>
+      </span><span class="line">    <span class="n">root</span> <span class="o">=</span> <span class="n">tk</span><span class="o">.</span><span class="n">Tk</span><span class="p">()</span>
+      </span><span class="line">    <span class="n">root</span><span class="o">.</span><span class="n">title</span><span class="p">(</span><span class="s">&#39; TK Wizards &#39;</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">root</span><span class="o">.</span><span class="n">focus</span><span class="p">()</span>
+      </span><span class="line">    <span class="n">wizard</span> <span class="o">=</span> <span class="n">Wizard</span><span class="p">(</span><span class="n">npages</span><span class="o">=</span><span class="mi">3</span><span class="p">,</span> <span class="n">master</span><span class="o">=</span><span class="n">root</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">wizard</span><span class="o">.</span><span class="n">minsize</span><span class="p">(</span><span class="mi">400</span><span class="p">,</span> <span class="mi">350</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">page0</span> <span class="o">=</span> <span class="n">tk</span><span class="o">.</span><span class="n">Label</span><span class="p">(</span><span class="n">wizard</span><span class="o">.</span><span class="n">page</span><span class="p">(</span><span class="mi">0</span><span class="p">),</span> <span class="n">text</span><span class="o">=</span><span class="s">&#39;Pagina 1: ...Bienvenido al Wizard de TK !&#39;</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">page1</span> <span class="o">=</span> <span class="n">tk</span><span class="o">.</span><span class="n">Label</span><span class="p">(</span><span class="n">wizard</span><span class="o">.</span><span class="n">page</span><span class="p">(</span><span class="mi">1</span><span class="p">),</span> <span class="n">text</span><span class="o">=</span><span class="s">&#39;Pagina 2: Acepta las condiciones de la WTFPL ?&#39;</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">page2</span> <span class="o">=</span> <span class="n">tk</span><span class="o">.</span><span class="n">Label</span><span class="p">(</span><span class="n">wizard</span><span class="o">.</span><span class="n">page</span><span class="p">(</span><span class="mi">2</span><span class="p">),</span> <span class="n">text</span><span class="o">=</span><span class="s">&#39;Pagina 3: Felicitaciones, nada no se ha instalado correctamente.&#39;</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">wizard</span><span class="o">.</span><span class="n">add_page_body</span><span class="p">(</span><span class="n">page0</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">wizard</span><span class="o">.</span><span class="n">add_page_body</span><span class="p">(</span><span class="n">page1</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">wizard</span><span class="o">.</span><span class="n">add_page_body</span><span class="p">(</span><span class="n">page2</span><span class="p">)</span>
+      </span><span class="line">    <span class="n">root</span><span class="o">.</span><span class="n">mainloop</span><span class="p">()</span>
+      </span>
 
-    def onQuit(self):
-        pass # hace algo on quit
-
-    def __wizard_buttons(self):
-        for indx, frm in enumerate(self.pages):
-            btnframe = tk.Frame(frm, bd=1, bg='#3C3B37')
-            btnframe.pack(side='bottom', fill='x')
-            nextbtn = tk.Button(btnframe, bd=0, bg='#F2F1F0', activebackground='#F58151', highlightcolor='red', cursor='hand2', text="Siguiente >>", width=10, command=self.__next_page)
-            nextbtn.pack(side='right', anchor='e', padx=5, pady=5)
-            if indx != 0:
-                prevbtn = tk.Button(btnframe, bd=0, bg='#F2F1F0', activebackground='#F58151', highlightcolor='red', cursor='hand2', text="<< Atras", width=10, command=self.__prev_page)
-                prevbtn.pack(side='right', anchor='e', padx=5, pady=5)
-                if indx == len(self.pages) - 1:
-                    nextbtn.configure(text="Terminar", bd=0, bg='#F2F1F0', activebackground='#F58151', highlightcolor='red', cursor='hand2', command=self.close)
-
-    def __next_page(self):
-        if self.current == len(self.pages):
-            return
-        self.pages[self.current].pack_forget()
-        self.current += 1
-        self.pages[self.current].pack(fill='both', expand=1)
-
-    def __prev_page(self):
-        if self.current == 0:
-            return        
-        self.pages[self.current].pack_forget()
-        self.current -= 1
-        self.pages[self.current].pack(fill='both', expand=1)         
-
-    def add_page_body(self, body):
-        body.pack(side='top', fill='both', padx=6, pady=12)
-
-    def page(self, page_num):
-        try:
-            page = self.pages[page_num]
-        except KeyError("Pagina Invalida! : %s" % page_num):
-            return 0
-        return page
-
-    def close(self):
-        if self.validate():
-            self.master.iconify()
-            print (' TK Wizard finished... ')
-            self.destroy()
-            self.master.destroy() # remover?
-
-    def validate(self):
-        return 1 # hace algo
-
-if __name__ == "__main__":
-    root = tk.Tk()
-    root.title(' TK Wizards ')
-    root.focus()
-    wizard = Wizard(npages=3, master=root)
-    wizard.minsize(400, 350)
-    page0 = tk.Label(wizard.page(0), text='Pagina 1: ...Bienvenido al Wizard de TK !')
-    page1 = tk.Label(wizard.page(1), text='Pagina 2: Acepta las condiciones de la WTFPL ?')
-    page2 = tk.Label(wizard.page(2), text='Pagina 3: Felicitaciones, nada no se ha instalado correctamente.')
-    wizard.add_page_body(page0)
-    wizard.add_page_body(page1)
-    wizard.add_page_body(page2)
-    root.mainloop()
-}}}
