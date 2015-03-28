@@ -1,5 +1,3 @@
-#format rst
-## page was renamed from Recetario/Gtk/XMLRPCServer
 
 Servidor XMLRPC dentro de un hilo gtk
 
