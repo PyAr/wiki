@@ -1,4 +1,3 @@
-#format rst
 
 Acá está el listado de artículos con los links a las paginas individuales de cada uno, por favor suban las versiones revisadas/actualizadas con un sufijo de versión
 
@@ -10,15 +9,9 @@ La idea es asignar los artículos menos extensos a los voluntarios que van a tra
 
 .. ############################################################################
 
-.. _Proyectos/RevistaPythonComunidad/PET2/decoradores: ../decoradores
 
-.. _Proyectos/RevistaPythonComunidad/PET2/InfoPython: ../InfoPython
 
-.. _Proyectos/RevistaPythonComunidad/PET2/IntroDjango: ../IntroDjango
 
-.. _Proyectos/RevistaPythonComunidad/PET2/DepuracionDefragmentacion: ../DepuracionDefragmentacion
 
-.. _Proyectos/RevistaPythonComunidad/PET2/PyAfipWs: ../PyAfipWs
 
-.. _Proyectos/RevistaPythonComunidad/PET2/comosehizo: ../comosehizo
 
