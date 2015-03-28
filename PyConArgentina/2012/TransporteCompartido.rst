@@ -1,4 +1,3 @@
-#format rst
 
 PyCon Argentina 2012
 ====================
@@ -31,4 +30,9 @@ Salida en colectivo
 -------------------
 
 * **Juan Ejemplo** Salgo desde Cordoba en el practico a buenos aires el 03 a las 23 horas para Buenos Aires
+
+
+
+.. role:: strike
+   :class: strike
 
