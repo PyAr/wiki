@@ -1,4 +1,3 @@
-#format rst
 
 Web Server Gateway Interface
 ----------------------------
