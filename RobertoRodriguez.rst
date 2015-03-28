@@ -1,7 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
-#acl RobertoRodriguez:admin,read,write,delete,revert All:read
-#language es
 
 Roberto Rodríguez
 -----------------
@@ -17,5 +13,4 @@ Roberto Rodríguez
 
 .. ############################################################################
 
-.. _CategoryHomepage: ../CategoryHomepage
 
