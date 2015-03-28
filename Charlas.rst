@@ -392,8 +392,9 @@ MyHDL, de Python al Silicio
 
 MartinGaitan_
 
+
 - `Slides <http://nqnwebs.github.com/myhdl-talk>`__
- - `Fuentes y ejemplos`_ (fork me!)
+- `Fuentes y ejemplos`_ (fork me!)
 
 
 pycamp.orm, haciendo *facil* sqlalchemy
@@ -402,8 +403,9 @@ pycamp.orm, haciendo *facil* sqlalchemy
 EmilianoDallaVerdeMarcozzi_
 
 - `Slides <http://xip.piluex.com/PYCAMP_ORM.pdf>`__
- - Fuente_
- < `Video <http://python.org.ar/pyar/PycampORM>`__
+- Fuente_
+
+< `Video <http://python.org.ar/pyar/PycampORM>`__
 
 
 Introducción a PyQt
@@ -412,8 +414,8 @@ Introducción a PyQt
 DiegoSarmentero_
 
 - `Slides <http://wingedbox.com/downloads/14009-Intro-PyQt.pdf>`__
- - Ejemplos_
- - `Fragmento de Video de la Charla (Ejemplo)`_
+- Ejemplos_
+- `Fragmento de Video de la Charla (Ejemplo)`_
 
 
 Desarrollando Aplicaciones Desktop con UI Web
@@ -422,8 +424,8 @@ Desarrollando Aplicaciones Desktop con UI Web
 DiegoSarmentero_
 
 - `Slides <http://wingedbox.com/downloads/14012-Desarrollando-Aplicaciones-Desktop-con-UI-Web.pdf>`__
- - `Ejemplos <http://wingedbox.com/downloads/14014-Ejemplo-Ui-Desktop-Web.zip>`__
- - `Fragmento de Video de la Charla (Ejemplo) <http://youtu.be/J5qgZx6VHhw>`__
+- `Ejemplos <http://wingedbox.com/downloads/14014-Ejemplo-Ui-Desktop-Web.zip>`__
+- `Fragmento de Video de la Charla (Ejemplo) <http://youtu.be/J5qgZx6VHhw>`__
 
 
 PyConAr Rafaela 2014
@@ -620,7 +622,6 @@ https://docs.google.com/presentation/d/1dsNcM590BxoIaTViGRvGeylYg82n-UYOk4hVJ33P
 
 .. _PostgreSql: http://www.postgresql.org/
 
-
 .. _Parte 4: http://docs.google.com/present/view?id=dd9bm82g_65gg3vxsvf
 
 .. _SQLObject: http://www.sqlobject.org/
@@ -641,33 +642,19 @@ https://docs.google.com/presentation/d/1dsNcM590BxoIaTViGRvGeylYg82n-UYOk4hVJ33P
 
 .. _Parte 6: http://docs.google.com/present/view?id=dd9bm82g_102cnn45kd4
 
-
-
 .. _Parte 7a: http://docs.google.com/present/view?id=dd9bm82g_112fz9kfmzq
 
 .. _Parte 7b: http://docs.google.com/present/view?id=dd9bm82g_404c5v965c6
 
-
 .. _Parte 8: http://docs.google.com/present/view?id=dd9bm82g_125fp6377hd
-
-
-
-
-
-
-
 
 .. _Slides: http://nicoechaniz.com.ar/charla_pycon2010_s5/
 
 .. _Video: http://cyclope3.codigosur.org/movieclip/charla-en-pycon2010/
 
-
-
 .. _Fuentes y ejemplos: https://github.com/nqnwebs/myhdl-talk
 
-
 .. _Fuente: https://bitbucket.org/edvm/pycamp.orm/overview
-
 
 .. _Ejemplos: http://wingedbox.com/downloads/14013-Ejemplo-Intro-PyQt.zip
 
@@ -675,15 +662,8 @@ https://docs.google.com/presentation/d/1dsNcM590BxoIaTViGRvGeylYg82n-UYOk4hVJ33P
 
 .. _fisadev@gmail.com: mailto:fisadev@gmail.com
 
-
-
-
 .. _odp: https://drive.google.com/file/d/0By78YYAMpgAUbHpKZTNtZ0dqYTA/view?usp=sharing
 
 .. _pdf: https://drive.google.com/file/d/0By78YYAMpgAUVk9CODZmWHR1dG8/view?usp=sharing
 
 .. _Ejemplos, fuentes y mucho más: https://drive.google.com/folderview?id=0By78YYAMpgAUUzR1UGZPSUR0djg&usp=sharing
-
-
-
-
