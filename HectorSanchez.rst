@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 `[[Twitter(usuario="hectorksanchez")]]`_
 
@@ -32,9 +30,7 @@ Twitter:
 
 .. ############################################################################
 
-.. _PyWeek: ../PyWeek
 
 .. _PressEnter: http://www.pressenter.com.ar
 
-.. _CategoryHomepage: ../CategoryHomepage
 
