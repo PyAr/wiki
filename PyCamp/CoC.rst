@@ -1,4 +1,3 @@
-#format rst
 
 Código de Conducta
 ------------------
