@@ -1,4 +1,3 @@
-#format rst
 
 Asociación Civil - Candidatos
 =============================
