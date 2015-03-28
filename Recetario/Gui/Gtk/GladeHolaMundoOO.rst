@@ -1,5 +1,3 @@
-#format rst
-## page was renamed from Recetario/Gtk/GladeHolaMundoOO
 
 GtkGladeHolaMundoOO
 -------------------
