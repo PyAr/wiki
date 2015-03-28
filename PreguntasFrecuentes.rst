@@ -146,6 +146,7 @@ Otro
 Es importante saber cuáles de nuestras variables son celdas y cuáles simplemente locales, porque la sintaxis de python nos prohibe borrar celdas, no así variables locales:
 
 .. raw:: html
+   
    <span class="line"><span class="k">def</span> <span class="nf">f</span><span class="p">(</span><span class="n">x</span><span class="p">):</span>
    </span><span class="line">    <span class="n">rv</span> <span class="o">=</span> <span class="nb">set</span><span class="p">(</span> <span class="p">[</span> <span class="n">i</span><span class="o">*</span><span class="n">x</span> <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">xrange</span><span class="p">(</span><span class="mi">10</span><span class="p">)</span> <span class="p">]</span> <span class="p">)</span>
    </span><span class="line">    <span class="k">del</span> <span class="n">x</span> <span class="c"># bizarro pero ok</span>
@@ -166,6 +167,7 @@ La documentación de python sólo menciona un *scope lógico local*, el "local".
 Las variables locales todos las conocemos:
 
 .. raw:: html
+
    <span class="line"><span class="k">def</span> <span class="nf">f</span><span class="p">():</span>
    </span><span class="line">   <span class="n">x</span> <span class="o">=</span> <span class="mi">4</span> <span class="c"># x es local</span>
    </span>
@@ -175,6 +177,7 @@ Los parámetros de una función también son variables locales. Por ende, self, 
 Las variables globales todos las conocemos también:
 
 .. raw:: html
+
    <span class="line"><span class="n">llamadas</span> <span class="o">=</span> <span class="mi">0</span>
    </span><span class="line">
    </span><span class="line"><span class="k">def</span> <span class="nf">f</span><span class="p">():</span>
@@ -408,6 +411,7 @@ MarianoGuerra_ preguntó esto en este hilo: http://mx.grulic.org.ar/lurker/threa
 La respuesta que le dio MartinBothiry_ es hacer:
 
 .. raw:: html
+
    <span class="line">  <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">abspath</span><span class="p">(</span><span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">dirname</span><span class="p">(</span><span class="n">__file__</span><span class="p">))</span>
    </span>
 
@@ -422,7 +426,7 @@ La respuesta de GabrielGenellina_ fue:
 
 El array de la libreria estandar es un "chorizo" de elementos, todos del mismo tipo, pero tipos nativos (no objetos; por ejemplo "unsigned long integer"). Es unidimensional, y no tiene casi métodos. El array de Numpy también guarda tipos nativos, pero es multidimensional, y tiene un montón de métodos y operaciones definidos.
 
-Extraer un elemento de un array es costoso, porque hay que crear el objeto Python que lo "envuelva", y lo mismo pasa al asignarle un valor a un elemento individual. Así que operar con arrays elemento-a-elemento en Python es mas lento que usar una lista estándar. Los arrays están pensados para usarlos desde código en C (o Numpy, que esta escrito en C); por ejemplo, un array.array("f") se puede pasar a una función en C declarada como "float x[]" o "float *x".
+Extraer un elemento de un array es costoso, porque hay que crear el objeto Python que lo "envuelva", y lo mismo pasa al asignarle un valor a un elemento individual. Así que operar con arrays elemento-a-elemento en Python es mas lento que usar una lista estándar. Los arrays están pensados para usarlos desde código en C (o Numpy, que esta escrito en C); por ejemplo, un array.array("f") se puede pasar a una función en C declarada como "float x[]" o "float \*x".
 
 Otra diferencia: array solo puede contener caracteres, números enteros nativos, o números de punto flotante; no objetos. Pero la representación en memoria es mucho mas compacta, cada elemento ocupa sólo lo necesario para guardar su valor y nada más (por ejemplo, 4 bytes para un float vs. 20 que se necesitan en una lista normal [16 para el objeto float de Python y 4 para el puntero en la lista], los tamaños son para Windows 32 bits).
 
@@ -444,6 +448,7 @@ A veces el "is" me dice una cosa y otras otra, ¿funciona mal?
 En algunos casos, ofrece resultado que a primera vista sorprenden...
 
 .. raw:: html
+
    <span class="line"><span class="o">&gt;&gt;&gt;</span> <span class="n">a</span> <span class="o">=</span> <span class="mi">3</span>
    </span><span class="line"><span class="o">&gt;&gt;&gt;</span> <span class="n">b</span> <span class="o">=</span> <span class="mi">3</span>
    </span><span class="line"><span class="o">&gt;&gt;&gt;</span> <span class="n">a</span> <span class="ow">is</span> <span class="n">b</span>
@@ -453,6 +458,7 @@ En algunos casos, ofrece resultado que a primera vista sorprenden...
 En este caso a apunta a un 3 en memoria, y b apunta al mismo 3 en memoria. Python no creó dos objetos "3", sino que usó el mismo para los nombres a y b.
 
 .. raw:: html
+
    <span class="line"><span class="o">&gt;&gt;&gt;</span> <span class="n">a</span> <span class="o">=</span> <span class="mi">500</span>
    </span><span class="line"><span class="o">&gt;&gt;&gt;</span> <span class="n">b</span> <span class="o">=</span> <span class="mi">500</span>
    </span><span class="line"><span class="o">&gt;&gt;&gt;</span> <span class="n">a</span> <span class="ow">is</span> <span class="n">b</span>
