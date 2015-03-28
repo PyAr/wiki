@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Alejandro Santos
 ----------------
@@ -14,5 +12,4 @@ Mi blog: http://alejolp.blogspot.com
 
 .. ############################################################################
 
-.. _CategoryHomepage: ../CategoryHomepage
 
