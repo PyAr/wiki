@@ -1,4 +1,3 @@
-#format rst
 
 Marcelo Alaniz [1]
 ------------------
