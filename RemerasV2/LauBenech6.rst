@@ -1,15 +1,19 @@
-#format rst
 
 :small:`volver a` RemerasV2_
 
 ¡Mirá! ¡La última remera de LauBenech_! (por ahora! |:))|
 
-`attachment:LauBenech6.png`_
+`LauBenech6.png </wiki/RemerasV2/LauBenech6/attachment/174/LauBenech6.png>`_
 
-`attachment:LauBenech6.svg`_LauBenech6.svg`attachment:None`_
+
 
 Comentarios
 -----------
 
 * [quien?] (placeholder)
+
+
+
+.. role:: small
+   :class: small
 
