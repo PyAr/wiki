@@ -1,4 +1,3 @@
-#format rst
 
 Python Day 3 Cordoba
 ====================
@@ -40,14 +39,14 @@ Pycasa inside: PyGTK on Glade
 
     Glade es un constructor de interfaces de usuario para GTK+ y Gnome. Glade guarda nuestros diseños en archivos XML, con lo cual obtenemos versatilidad, pues éstos pueden ser usados en diversos lenguajes de programación (C, C++, Java, Perl, Python, y más), y la posibilidad de cargarlos dinámicamente a medida que se necesitan.
 
-* Filminas: `attachment:PyGTK-on-glade-Natalia-Bidart.tar.gz`_PyGTK-on-glade-Natalia-Bidart.tar.gz`attachment:None`_
+* Filminas: 
 
 Utilizando la Google API con Python
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Matías Bordese
 
-* Filminas: `attachment:UsandoGoogleAPI_src.zip`_UsandoGoogleAPI_src.zip`attachment:None`_ `attachment:UsandoGoogleAPI.pdf`_UsandoGoogleAPI.pdf`attachment:None`_
+* Filminas: 
 
 Plone 4
 ~~~~~~~
@@ -61,7 +60,7 @@ Introducción a PyQT
 
 * Diego Sarmentero
 
-* Filminas: `attachment:ejemplosPyQt.zip`_ejemplosPyQt.zip`attachment:None`_ `attachment:pyqt-sarmentero.pdf`_pyqt-sarmentero.pdf`attachment:None`_
+* Filminas: 
 
 .. ############################################################################
 
