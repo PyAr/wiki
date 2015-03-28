@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 LucianoRossi
 ------------
@@ -14,5 +12,4 @@ Web: http://www.gcoop.coop
 
 .. ############################################################################
 
-.. _CategoryHomepage: ../CategoryHomepage
 
