@@ -1,18 +1,37 @@
-= PyDay Buenos Aires 2010 =
+#format rst
 
-== Propuesta tentativa ==
+PyDay Buenos Aires 2010
+=======================
 
- * Fecha: Sábado 4 de Septiembre de 2010
- * Lugar: Asociación Civil Club de Programadores - Auditorios Congreso
- * 3 tracks: Básico, Talleres, Abierto (cosas de la comunidad: postgres, ubuntu y temas avanzados).
- * Nivel: introductorio
- * Temáticas: python, wxPython, web2py, etc.
- * Formato: tutoriales (charlas de 45', talleres de 120')
- * Sitio Web: http://www.pyday.com.ar/ (proximamente)
+Propuesta tentativa
+-------------------
 
-== Organización ==
+* Fecha: Sábado 4 de Septiembre de 2010
 
- * Sitio web: http://groups.google.com/group/pyday-baires
- * Lista de correo: <<MailTo(pyday GUION baires EN googlegroups PUNTO com)>>
- * Reuniones:
-  * [[Eventos/Reuniones/Reunion42|Reunión 42]]: Presentación de la propuesta
+* Lugar: Asociación Civil Club de Programadores - Auditorios Congreso
+
+* 3 tracks: Básico, Talleres, Abierto (cosas de la comunidad: postgres, ubuntu y temas avanzados).
+
+* Nivel: introductorio
+
+* Temáticas: python, wxPython, web2py, etc.
+
+* Formato: tutoriales (charlas de 45', talleres de 120')
+
+* Sitio Web: http://www.pyday.com.ar/ (proximamente)
+
+Organización
+------------
+
+* Sitio web: http://groups.google.com/group/pyday-baires
+
+* Lista de correo: `[[MailTo(pyday GUION baires EN googlegroups PUNTO com)]]`_
+
+* Reuniones:
+
+  * `Reunión 42`_: Presentación de la propuesta
+
+  .. ############################################################################
+
+  .. _Reunión 42: Eventos/Reuniones/Reunion42
+
