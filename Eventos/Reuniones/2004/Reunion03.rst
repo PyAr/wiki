@@ -1,5 +1,3 @@
-#format rst
-## page was renamed from Eventos/Reuniones/Reunion03
 
 Reunión 03 - 11/11/2004 - Corner Bar
 ====================================
