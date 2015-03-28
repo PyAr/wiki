@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Roberto Allende (Aka r0ver)
 ---------------------------
@@ -20,11 +18,7 @@ Email: `[[MailTo(rover AT SPAMFREE menttes DOT com)]]`_
 
 .. ############################################################################
 
-.. _CafeConf: ../CafeConf
 
-.. _PloneConf: ../PloneConf
 
-.. _PyCon: ../PyCon
 
-.. _CategoryHomepage: ../CategoryHomepage
 
