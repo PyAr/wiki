@@ -1,4 +1,3 @@
-#format rst
 
 Listen acá sus requerimientos dietarios.
 
