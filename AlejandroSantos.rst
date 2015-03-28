@@ -1,12 +1,18 @@
-##master-page:HomepageTemplate
-#format wiki
-#language en
-== Alejandro Santos ==
+#format rst
+## master-page:HomepageTemplate
 
-Email: <<MailTo(alejolp AT NOQUIEROSPAM alejolp DOT com DOT ar)>>
-## You can even more obfuscate your email address by adding more uppercase letters followed by a leading and trailing blank.
+Alejandro Santos
+----------------
+
+Email: `[[MailTo(alejolp AT NOQUIEROSPAM alejolp DOT com DOT ar)]]`_.. You can even more obfuscate your email address by adding more uppercase letters followed by a leading and trailing blank.
 
 Mi blog: http://alejolp.blogspot.com
 
-----
-CategoryHomepage
+-------------------------
+
+ CategoryHomepage_
+
+.. ############################################################################
+
+.. _CategoryHomepage: ../CategoryHomepage
+
