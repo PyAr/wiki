@@ -1,15 +1,19 @@
-#format rst
 
 :small:`volver a` RemerasV2_
 
 Otra más |:)|
 
-`attachment:LauBenech5.png`_
+`LauBenech5.png </wiki/RemerasV2/LauBenech5/attachment/172/LauBenech5.png>`_
 
-`attachment:LauBenech5.svg`_LauBenech5.svg`attachment:None`_
+
 
 Comentarios
 -----------
 
 * [quien?] (placeholder)
+
+
+
+.. role:: small
+   :class: small
 
