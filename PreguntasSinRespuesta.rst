@@ -1,4 +1,3 @@
-#format rst
 
 Preguntas Sin Respuesta
 =======================
