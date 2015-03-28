@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Facundo Batista
 ---------------
@@ -46,15 +44,10 @@ Email: `[[MailTo(facundo mafalda arroba miguelito taniquetil guille com susanita
 
 .. ############################################################################
 
-.. _CeCubo: ../CeCubo
 
-.. _CycleLogic: ../CycleLogic
 
-.. _PyCon: ../PyCon
 
-.. _EuroPython: ../EuroPython
 
 .. _blog: http://taniquetil.com.ar/plog
 
-.. _CategoryHomepage: ../CategoryHomepage
 
