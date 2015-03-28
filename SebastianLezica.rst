@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Sebastián Lezica
 ----------------
@@ -22,5 +20,4 @@ Email: `[[MailTo(slezica AT SPAMFREE fibertel DOT com DOT ar)]]`_
 
 .. ############################################################################
 
-.. _CategoryHomepage: ../CategoryHomepage
 
