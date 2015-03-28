@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Renzo Carbonara
 ---------------
@@ -14,5 +12,4 @@ Homepage: http://renzocarbonara.com
 
 .. ############################################################################
 
-.. _CategoryHomepage: ../CategoryHomepage
 
