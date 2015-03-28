@@ -1,5 +1,3 @@
-#format rst
-## page was renamed from NotificarDispositivosUSB
 
 Detectar y Notificar Dispositivos USB
 =====================================
