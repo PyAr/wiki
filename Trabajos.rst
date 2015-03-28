@@ -670,7 +670,7 @@ Habilidades: Conocimientos y manejo de herramientas de modelado para UML, metodo
 
 * (07/01/2014) Backend Dev
 
-    En iBillionaire buscamos un programador con experiencia en la construcción de aplicaciones web. Alguien que construya las API internas y externas de iBillionaire con experiencia en Python, Django y TastyPie_ (no excluyente).
+En iBillionaire buscamos un programador con experiencia en la construcción de aplicaciones web. Alguien que construya las API internas y externas de iBillionaire con experiencia en Python, Django y TastyPie_ (no excluyente).
 
   * Experiencia en el desarrollo de aplicaciones / sitios que utilizan Python
 
@@ -680,7 +680,7 @@ Habilidades: Conocimientos y manejo de herramientas de modelado para UML, metodo
 
 * (07/01/2014) Programador Python/Django/JS
 
-    Buscamos Programador Python/Django/JS con espíritu hacker de los que cuando están aburridos programan, para trabajar en BitPagos_ la primer pasarela para pagos en Bitcoin de America Latina. Somos una empresa registrada en USA, indispensable hablar en ingles ya que parte del equipo esta en USA.  Si te interesa escribí a `founders@bitpagos.net`_ adjuntando CV.
+Buscamos Programador Python/Django/JS con espíritu hacker de los que cuando están aburridos programan, para trabajar en BitPagos_ la primer pasarela para pagos en Bitcoin de America Latina. Somos una empresa registrada en USA, indispensable hablar en ingles ya que parte del equipo esta en USA.  Si te interesa escribí a `founders@bitpagos.net`_ adjuntando CV.
 
 * (06/01/2014) Python or wannabe Python Dev
 
@@ -953,8 +953,6 @@ Abrazos a la comunidad python.
 * (01/11/2012) Pythonista, te quedan algunas horitas freelance para dedicar a Phasety ? Es una flamante empresa incubada por la Universidad Nacional de Córdoba, apuntando al desarrollo de software científico para la industria del petróleo. Mejor si tenés conocimientos de WxPython_ y Django. <<MailTo_(gaitan EN phasety
 
 -------------------------
-
- CategoryHomepage_
 
 .. ############################################################################
 
