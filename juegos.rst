@@ -1,4 +1,3 @@
-#format rst
 
 Juegos realizados por PyAr
 ==========================
@@ -57,13 +56,11 @@ Otras realizaciones:
 
 .. ############################################################################
 
-.. _PyAr: ../PyAr
 
 .. _PyWeek: http://www.pyweek.org
 
 .. _PyWeek10: http://pyweek.org/10/
 
-.. _TheMostBiggestGamestInTheWorldst: ../TheMostBiggestGamestInTheWorldst
 
 .. _PyWeek6: http://pyweek.org/6/
 
