@@ -1,4 +1,3 @@
-#format rst
 
 Call For Charlas
 ================
@@ -33,13 +32,8 @@ Si tenes requerimiento de informacion que debe contener la invitacion por favor 
 
 .. ############################################################################
 
-.. _PyConAr: ../PyConAr
 
-.. _PyDay: ../PyDay
 
-.. _PyAr: ../PyAr
 
-.. _Template de Call For Charlas Mail: ../CallForCharlasTemplate
 
-.. _Template de Call For Charlas Organizacion: ../CallForCharlasInvitacionTemplate
 
