@@ -1,4 +1,3 @@
-#format rst
 
 Resultados PyCamp 2009
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -109,7 +108,5 @@ PyCon2009
 
 .. _Tickets de pycamp2009: http://code.djangoproject.com/query?status=new&status=assigned&status=reopened&status=closed&keywords=~pycamp2009&order=priority
 
-.. _PyAr: ../PyAr
 
-.. _RamiroMorales: ../RamiroMorales
 
