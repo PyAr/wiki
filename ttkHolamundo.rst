@@ -1,11 +1,10 @@
-#format rst
 
 ttkHolaMundo
 ------------
 
 Crea una ventana que muestra el famoso mensaje "Hola mundo".
 
-`attachment:ttkHolamundo.png`_
+`ttkHolamundo.png </wiki/ttkHolamundo/attachment/121/ttkHolamundo.png>`_
 
 ::
 
