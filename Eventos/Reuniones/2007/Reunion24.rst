@@ -1,5 +1,3 @@
-#format rst
-## page was renamed from Eventos/Reuniones/Reunion24
 
 Reunión 24 - 19/09/2007 - Hip Bar, Buenos Aires
 ===============================================
