@@ -1,4 +1,3 @@
-#format rst
 
 PyCamp Argentina 2009
 =====================
@@ -142,4 +141,9 @@ Con muchas ganas, pero sin plata
 .. _Jose Luis Dallapiccola: JoseluisDallapiccola
 
 .. _Roberto Rodríguez: RobertoRodríguez
+
+
+
+.. role:: strike
+   :class: strike
 
