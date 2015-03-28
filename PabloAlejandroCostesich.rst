@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 @``ME@
 ------
@@ -14,5 +12,4 @@ I'm an Informatics Engineering student at ITBA
 
 .. ############################################################################
 
-.. _CategoryHomepage: ../CategoryHomepage
 
