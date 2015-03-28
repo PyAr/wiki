@@ -1,5 +1,3 @@
-#format rst
-## page was renamed from Eventos/Reuniones/Reunion04
 
 Reunión 04 - 09/12/2004 - Hip bar
 =================================
