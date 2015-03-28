@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Marcos Dione
 ------------
@@ -24,5 +22,4 @@ Tengo un glob_ en el que hablo de todo, no s;olo de python. De hecho hablo poco 
 
 .. _glob: http://grulicueva.homelinux.net/~mdione/glob/
 
-.. _CategoryHomepage: ../CategoryHomepage
 
