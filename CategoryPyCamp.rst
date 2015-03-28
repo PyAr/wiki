@@ -1,6 +1,3 @@
-#format rst
-## master-page:CategoryTemplate
-## master-date:Unknown-Date
 
 Paginas Relacionadas al Pycamp
 
@@ -12,5 +9,4 @@ Paginas Relacionadas al Pycamp
 
 .. ############################################################################
 
-.. _CategoryCategory: ../CategoryCategory
 
