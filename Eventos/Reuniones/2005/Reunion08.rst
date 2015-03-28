@@ -1,39 +1,35 @@
+#format rst
 ## page was renamed from Eventos/Reuniones/Reunion08
-## page was renamed from Eventos/Reuniones/ReunionOcho
-= Reunión 08 - 14/04/2005 - Hip Bar =
 
-Seguimos con los records de asistentes. En este caso, fuimos 13
-(¡Trece! ¿Qué te parece?). Aparte de los mismos de siempre, los
-debutantes fueron:
+Reunión 08 - 14/04/2005 - Hip Bar
+=================================
 
- * Sebastián: Viene de CafeLUG, trabaja en wxPython y Zope
+Seguimos con los records de asistentes. En este caso, fuimos 13 (¡Trece! ¿Qué te parece?). Aparte de los mismos de siempre, los debutantes fueron:
 
- * Héctor: Arma aplicaciones para cybercafés
+* Sebastián: Viene de CafeLUG, trabaja en wxPython y Zope
 
- * Leandro: No trabaja directamente en Python sino con Audio
+* Héctor: Arma aplicaciones para cybercafés
 
- * Ramón: Lo utiliza para administración de plataformas
+* Leandro: No trabaja directamente en Python sino con Audio
 
- * Luciano: Trabaja en nuestro gobierno, procesa estadísticas de Netcraft
+* Ramón: Lo utiliza para administración de plataformas
 
-Ya es imposible anotar lo que se habló en la reunión. No sólo por la
-cantidad de temas tratados, sino porque al ser tantos, se van armando
-grupos de charlas particulares y uno no puede prestar atención a
-todas. Dos temas se tocaron sin embargo, a nivel general y
-simultaneamente: Hacer remeras (o como surgió, también pines), y cuál
-va a ser el sitio de la próxima reunión.
+* Luciano: Trabaja en nuestro gobierno, procesa estadísticas de Netcraft
 
-Ambos temas se repetirán seguramente en la próxima reunión, ¡esperemos
-tomar una decisión!.
+Ya es imposible anotar lo que se habló en la reunión. No sólo por la cantidad de temas tratados, sino porque al ser tantos, se van armando grupos de charlas particulares y uno no puede prestar atención a todas. Dos temas se tocaron sin embargo, a nivel general y simultaneamente: Hacer remeras (o como surgió, también pines), y cuál va a ser el sitio de la próxima reunión.
 
-Inauguramos la QOTM (Quote of the Meeting, o Cita de la Reunión), una
-frase que queremos destacar entre todos. Esperemos que en las próximas
-podamos rescatar varias de buena calidad, como ésta:
+Ambos temas se repetirán seguramente en la próxima reunión, ¡esperemos tomar una decisión!.
 
-{{{
-Mientras sea open source me lo hago, no me hago un implante
-propietario en la cabeza ni a palos. 
-}}}
-(por LucioTorre)
-----
-CategoryReuniones
+Inauguramos la QOTM (Quote of the Meeting, o Cita de la Reunión), una frase que queremos destacar entre todos. Esperemos que en las próximas podamos rescatar varias de buena calidad, como ésta:
+
+::
+
+   Mientras sea open source me lo hago, no me hago un implante
+   propietario en la cabeza ni a palos.
+
+(por LucioTorre_)
+
+-------------------------
+
+ CategoryReuniones_
+
