@@ -1,4 +1,3 @@
-#format rst
 
 Están traducidos los tutoriales tanto para Python 2 como para Python 3.
 
