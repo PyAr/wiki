@@ -1,11 +1,15 @@
-~-volver a RemerasV2-~
+#format rst
 
-¡Mirá! ¡'''Otra''' remera!
+:small:`volver a` RemerasV2_
 
-{{attachment:LauBenech4.png}}
+¡Mirá! ¡**Otra** remera!
 
-[[attachment:LauBenech4.svg]]
+`attachment:LauBenech4.png`_
 
-== Comentarios ==
+`attachment:LauBenech4.svg`_LauBenech4.svg`attachment:None`_
 
-* [[AlejandroJCura]]: Me encanta esta. Podría ser igual, pero con la boca un poco más cerrada? PD: guarda que el svg tiene dos colores delante y dos detras.
+Comentarios
+-----------
+
+* AlejandroJCura_: Me encanta esta. Podría ser igual, pero con la boca un poco más cerrada? PD: guarda que el svg tiene dos colores delante y dos detras.
+
