@@ -1,5 +1,3 @@
-#format rst
-## page was renamed from Eventos/Reuniones/2011/Reunion32
 
 Reunión 32 - 18/09/08 - Except, Córdoba Capital
 ===============================================
