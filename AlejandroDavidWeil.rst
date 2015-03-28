@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 tenuki (aka dave)
 ~~~~~~~~~~~~~~~~~
@@ -20,7 +18,5 @@ Programo en Python desde, aproximadamente, el 2004.
 
 .. ############################################################################
 
-.. _Audio: ../wiki:PythonInfo:Audio
 
-.. _CategoryHomepage: ../CategoryHomepage
 
