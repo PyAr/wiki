@@ -1,4 +1,3 @@
-#format rst
 
 .. contents:: :depth: 2
 
@@ -23,7 +22,7 @@ De 0 a Python en 45 minutos
 
 *Daniel F. Moisset*
 
-**Slides:** `attachment:de0aPython.odp`_de0aPython.odp`attachment:None`_.
+**Slides:** .
 
 -------------------------
 
@@ -115,7 +114,7 @@ Testeos automáticos de seguridad (mediante simulación de ataques)
 
 *Matias Eissler*, *Alejandro David Weil*
 
-PDF: `attachment:Automated Security Testing.pdf`_Automated Security Testing.pdf`attachment:None`_ .
+PDF:  .
 
 -------------------------
 
@@ -192,7 +191,7 @@ Introducción a Python 2da. parte (Librería Estandar, Bases de datos, Aplicacio
 
 *Mariano Reingart*
 
-**Slides:** `attachment:intropython2.odp`_ODP`attachment:None`_ - `attachment:intropython2.pdf`_PDF`attachment:None`_
+**Slides:** 
 
 -------------------------
 
@@ -243,7 +242,7 @@ Depuración y defragmentación de memoria en Python
 
 *Claudio Freire*
 
-**Slides:** `attachment:MemDefrag.pdf`_MemDefrag.pdf`attachment:None`_ (pdf) `attachment:MemDefrag.odp`_MemDefrag.odp`attachment:None`_ (OpenOffice_)
+**Slides:**  (OpenOffice_)
 
 -------------------------
 
@@ -280,7 +279,7 @@ Paralelismo en Python
 
 *Claudio Freire*
 
-**Slides:** `attachment:multiprocessing.pdf`_multiprocessing.pdf`attachment:None`_ (pdf) `attachment:multiprocessing.odp`_multiprocessing.odp`attachment:None`_ (OpenOffice_)
+**Slides:**  (OpenOffice_)
 
 -------------------------
 
@@ -291,7 +290,7 @@ Caching para hordas y estampidas
 
 *Claudio Freire*
 
-**Slides:** `attachment:caching.pdf`_caching.pdf`attachment:None`_ (pdf) `attachment:caching.odp`_caching.odp`attachment:None`_ (OpenOffice_)
+**Slides:**  (OpenOffice_)
 
 PyConAr2010
 ===========
@@ -301,7 +300,7 @@ Mini Introducción a Django
 
 JuanFisanotti_
 
-**Slides:**  `attachment:intro django.odp`_intro django.odp`attachment:None`_ **Guión del ejemplo:**  `attachment:guion-ejemplo-intro-django.txt`_guion-ejemplo-intro-django.txt`attachment:None`_ **Código del ejemplo:**  `attachment:ejemplo-intro-django.zip`_ejemplo-intro-django.zip`attachment:None`_
+**Slides:**  
 
 -------------------------
 
@@ -312,7 +311,7 @@ Pycasa Inside: PyGTK usando Glade
 
 NataliaBidart_
 
-**Slides:**  `attachment:pycasa_inside_pygtk_on_glade.pdf`_pycasa_inside_pygtk_on_glade.pdf`attachment:None`_
+**Slides:**  
 
 -------------------------
 
@@ -323,9 +322,9 @@ Mythbusters: Tests
 
 NataliaBidart_
 
-**Slides:**  `attachment:mythbusters-tests.pdf`_mythbusters-tests.pdf`attachment:None`_
+**Slides:**  
 
-**Slides "Test runners":**  `attachment:test-runners.pdf`_test-runners.pdf`attachment:None`_
+**Slides "Test runners":**  
 
 -------------------------
 
@@ -336,7 +335,7 @@ Entendiendo decoradores en Python
 
 JuanjoConti_
 
-**Slides:**  `attachment:EntendiendoDecoradoresEnPython2010JuanjoConti.pdf`_EntendiendoDecoradoresEnPython2010JuanjoConti.pdf`attachment:None`_
+**Slides:**  
 
 -------------------------
 
@@ -358,7 +357,7 @@ Programando Python en Android
 
 MatiasBordese_
 
-**Slides:**  `attachment:PythonEnAndroid.pdf`_PythonEnAndroid.pdf`attachment:None`_
+**Slides:**  
 
 -------------------------
 
@@ -369,7 +368,7 @@ Behind the scenes: Python Bytecode
 
 MatiasBordese_
 
-**Slides:**  `attachment:PythonBytecode.pdf`_PythonBytecode.pdf`attachment:None`_
+**Slides:**  
 
 -------------------------
 
@@ -380,9 +379,9 @@ Introducción a wxPython
 
 `MarceloFernández`_
 
-**Slides ODP:**  `attachment:Introduccion a wxPython.odp`_Introduccion a wxPython.odp`attachment:None`_
- **Slides PDF:**  `attachment:Introduccion a wxPython.pdf`_Introduccion a wxPython.pdf`attachment:None`_
- **Código de ejemplos:**  `attachment:Introduccion a wxPython.zip`_Introduccion a wxPython.zip`attachment:None`_
+**Slides ODP:**  
+ **Slides PDF:**  
+ **Código de ejemplos:**  
 
 
 PyDay Córdoba 2011
@@ -588,7 +587,6 @@ https://docs.google.com/presentation/d/1dsNcM590BxoIaTViGRvGeylYg82n-UYOk4hVJ33P
 
 .. ############################################################################
 
-.. _PyAr: ../PyAr
 
 .. _slides: http://www.juanjoconti.com.ar/files/python/fu/charla-cordoba/
 
@@ -608,7 +606,6 @@ https://docs.google.com/presentation/d/1dsNcM590BxoIaTViGRvGeylYg82n-UYOk4hVJ33P
 
 .. _juego-facil-20080822.tar.gz: http://jornadas.cafelug.org.ar/8/es/filminas/tercer%20dia/Hacer%20un%20juego%20es%20facil/juego-facil-20080822.tar.gz
 
-.. _MarianoReingart: ../MarianoReingart
 
 .. _Parte 1: http://docs.google.com/present/view?id=dd9bm82g_45qbbqv2d7
 
@@ -616,7 +613,6 @@ https://docs.google.com/presentation/d/1dsNcM590BxoIaTViGRvGeylYg82n-UYOk4hVJ33P
 
 .. _Parte 3: http://docs.google.com/present/view?id=dd9bm82g_62cb37hphn
 
-.. _DbApi: ../DbApi
 
 .. _SQLite: http://www.sqlite.org/
 
@@ -624,7 +620,6 @@ https://docs.google.com/presentation/d/1dsNcM590BxoIaTViGRvGeylYg82n-UYOk4hVJ33P
 
 .. _PostgreSql: http://www.postgresql.org/
 
-.. _PlPython: ../PlPython
 
 .. _Parte 4: http://docs.google.com/present/view?id=dd9bm82g_65gg3vxsvf
 
@@ -646,47 +641,33 @@ https://docs.google.com/presentation/d/1dsNcM590BxoIaTViGRvGeylYg82n-UYOk4hVJ33P
 
 .. _Parte 6: http://docs.google.com/present/view?id=dd9bm82g_102cnn45kd4
 
-.. _PythonCard: ../PythonCard
 
-.. _WxPython: ../WxPython
 
 .. _Parte 7a: http://docs.google.com/present/view?id=dd9bm82g_112fz9kfmzq
 
 .. _Parte 7b: http://docs.google.com/present/view?id=dd9bm82g_404c5v965c6
 
-.. _Web2Py: ../Web2Py
 
 .. _Parte 8: http://docs.google.com/present/view?id=dd9bm82g_125fp6377hd
 
-.. _JuanFisanotti: ../JuanFisanotti
 
-.. _OpenOffice: ../OpenOffice
 
-.. _MartinGaitan: ../MartinGaitan
 
-.. _AngelFreire: ../AngelFreire
 
-.. _NataliaBidart: ../NataliaBidart
 
-.. _JuanjoConti: ../JuanjoConti
 
-.. _NicoEchaniz: ../NicoEchaniz
 
 .. _Slides: http://nicoechaniz.com.ar/charla_pycon2010_s5/
 
 .. _Video: http://cyclope3.codigosur.org/movieclip/charla-en-pycon2010/
 
-.. _MatiasBordese: ../MatiasBordese
 
-.. _MarceloFernández: ../MarceloFernández
 
 .. _Fuentes y ejemplos: https://github.com/nqnwebs/myhdl-talk
 
-.. _EmilianoDallaVerdeMarcozzi: ../EmilianoDallaVerdeMarcozzi
 
 .. _Fuente: https://bitbucket.org/edvm/pycamp.orm/overview
 
-.. _DiegoSarmentero: ../DiegoSarmentero
 
 .. _Ejemplos: http://wingedbox.com/downloads/14013-Ejemplo-Intro-PyQt.zip
 
@@ -694,11 +675,8 @@ https://docs.google.com/presentation/d/1dsNcM590BxoIaTViGRvGeylYg82n-UYOk4hVJ33P
 
 .. _fisadev@gmail.com: mailto:fisadev@gmail.com
 
-.. _ManuelQuiñones: ../ManuelQuiñones
 
-.. _DroPyBox: ../DroPyBox
 
-.. _WiFi: ../WiFi
 
 .. _odp: https://drive.google.com/file/d/0By78YYAMpgAUbHpKZTNtZ0dqYTA/view?usp=sharing
 
@@ -706,9 +684,6 @@ https://docs.google.com/presentation/d/1dsNcM590BxoIaTViGRvGeylYg82n-UYOk4hVJ33P
 
 .. _Ejemplos, fuentes y mucho más: https://drive.google.com/folderview?id=0By78YYAMpgAUUzR1UGZPSUR0djg&usp=sharing
 
-.. _ManuelKaufmann: ../ManuelKaufmann
 
-.. _PyConAr: ../PyConAr
 
-.. _PabloMouzo: ../PabloMouzo
 
