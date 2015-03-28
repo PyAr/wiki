@@ -1,4 +1,3 @@
-#format rst
 
 Hitchhiker's guide to make a PyConAr2010
 ========================================
