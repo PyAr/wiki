@@ -1,28 +1,45 @@
-== Distribución de humanoides en habitaciones ==
+#format rst
+
+Distribución de humanoides en habitaciones
+------------------------------------------
 
 Anotate directamente, en grupos de 3 (camas individuales) o de 2 (cama matrimonial).
 
 Hay tiempo hasta el viernes 14 al mediodía, los que no estén anotados acá se sortean!
 
-=== Habitaciones triples ===
+Habitaciones triples
+~~~~~~~~~~~~~~~~~~~~
 
 Esto es: tres camas individuales.
 
- * Diego Sarmentero - Horacio Durán - Emilio Ramirez
- * EloyColell -
- * JuanJoCiarlante -
- * Lucio Torre 
- * Julian Waksberg -
- * HugoRuscitti - 
- * Emiliano Dalla Verde Marcozzi - Matias Barriento
- * Micaela Bressan - José Pron - Juan Ignacio Scarafía 
- * Gabriel Balaudo - Juan Pedro Fisanotti - Federico Mié 
- * Jairo Trad - Martín Gaitán - Pablo Celayes
+* Diego Sarmentero - Horacio Durán - Emilio Ramirez
 
-=== Habitaciones matrimoniales ===
+* EloyColell_ -
+
+* JuanJoCiarlante_ -
+
+* Lucio Torre 
+
+* Julian Waksberg -
+
+* HugoRuscitti_ - 
+
+* Emiliano Dalla Verde Marcozzi - Matias Barriento
+
+* Micaela Bressan - José Pron - Juan Ignacio Scarafía 
+
+* Gabriel Balaudo - Juan Pedro Fisanotti - Federico Mié 
+
+* Jairo Trad - Martín Gaitán - Pablo Celayes
+
+Habitaciones matrimoniales
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Esto es: una cama grandota.
 
- * Natalia Bidart - Matías Bordese
- * Filly - Mariano Venier
- * ...
+* Natalia Bidart - Matías Bordese
+
+* Filly - Mariano Venier
+
+* ...
+
