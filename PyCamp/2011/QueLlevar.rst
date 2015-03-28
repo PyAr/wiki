@@ -1,28 +1,45 @@
- * Juegos de mesa 
- * Patchcord (Cable de red)
- * Pendrive
- * Guitarra
- * Zapatilla Electrica
- * Adaptadores (anda a saber con que nos encontramos)
- * Mirror de tu distro
- * Ganas de Codear
+#format rst
 
-== Si tenes un ratito ==
+* Juegos de mesa 
+
+* Patchcord (Cable de red)
+
+* Pendrive
+
+* Guitarra
+
+* Zapatilla Electrica
+
+* Adaptadores (anda a saber con que nos encontramos)
+
+* Mirror de tu distro
+
+* Ganas de Codear
+
+Si tenes un ratito
+------------------
 
 Instalate:
 
- * Git
- * mercurial (hg)
- * bazaar (bzr)
- * --(svn)-- <- ¿¿Realmente queres usar svn??
+* Git
 
-== Si te gusta ser un heroe de la humanidad ==
+* mercurial (hg)
 
- * Traete un mirror de la distro que usas
+* bazaar (bzr)
 
-== si tenes ganas de hacer dist-upgrade o pacman -Syu ==
+* :strike:`svn` <- ¿¿Realmente queres usar svn??
 
- * Hacelo en tu casa antes de venir
+Si te gusta ser un heroe de la humanidad
+----------------------------------------
 
-----
-CategoryPyCamp
+* Traete un mirror de la distro que usas
+
+si tenes ganas de hacer dist-upgrade o pacman -Syu
+--------------------------------------------------
+
+* Hacelo en tu casa antes de venir
+
+-------------------------
+
+ CategoryPyCamp_
+
