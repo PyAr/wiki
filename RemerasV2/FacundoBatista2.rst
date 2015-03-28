@@ -1,13 +1,18 @@
-== Intento 02 de Facundo Batista ==
+#format rst
+
+Intento 02 de Facundo Batista
+-----------------------------
 
 Dos mensajes medio mezclados... que es más piola en general, y que es re pacífico (ver colgante).
 
-{{attachment:remera2-Facu02.png}}
+`attachment:remera2-Facu02.png`_
 
-'''Diseño:'''
+**Diseño:**
 
-[[attachment:remera2-Facu02.svg]]
+`attachment:remera2-Facu02.svg`_remera2-Facu02.svg`attachment:None`_
 
-== Comentarios ==
+Comentarios
+-----------
 
 * [quien?] (placeholder)
+
