@@ -1,4 +1,3 @@
-#format rst
 
   **Cuidado!** Esta receta no se aplica en todos los casos...
 
