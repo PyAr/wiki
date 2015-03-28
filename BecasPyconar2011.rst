@@ -1,4 +1,3 @@
-#format rst
 
 Becas PyConAr 2011
 ==================
