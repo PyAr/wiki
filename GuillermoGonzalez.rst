@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 IRC: verterok @ Freenode
 
@@ -15,5 +13,4 @@ Email:  `[[MailTo(guillo.gonzo AT SPAMFREE gmail DOT com)]]`_
 
 .. ############################################################################
 
-.. _CategoryHomepage: ../CategoryHomepage
 
