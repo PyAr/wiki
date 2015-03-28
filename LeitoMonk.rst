@@ -1,5 +1,3 @@
-#format rst
-## master-page:HomepageTemplate
 
 Leandro Monk
 ------------
@@ -20,5 +18,4 @@ Miembro de gcoop_
 
 .. _gcoop: http://www.gcoop.com.ar
 
-.. _CategoryHomepage: ../CategoryHomepage
 
