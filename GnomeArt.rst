@@ -1,4 +1,3 @@
-#format rst
 
 GnomeArt
 ========
@@ -35,7 +34,5 @@ Estaria bueno que aprendan a usar el modulo unittest http://docs.python.org/libr
 
 .. ############################################################################
 
-.. _GtkMultiThread: ../GtkMultiThread
 
-.. _ComunicarThreadsConQueue: ../ComunicarThreadsConQueue
 
