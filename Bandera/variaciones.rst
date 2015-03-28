@@ -1,9 +1,19 @@
-= Con y sin versalitas =
+#format rst
 
-== Forma original ==
-{{attachment:ganadora-stretch.png}}
- * [[attachment:ganadora-stretch.svg]]
+Con y sin versalitas
+====================
 
-== Con PyAr en versalitas ==
-{{attachment:stretch-versalitas.png}}
- * [[attachment:stretch-versalitas.svg]]
+Forma original
+--------------
+
+`attachment:ganadora-stretch.png`_
+
+* `attachment:ganadora-stretch.svg`_ganadora-stretch.svg`attachment:None`_
+
+Con PyAr en versalitas
+----------------------
+
+`attachment:stretch-versalitas.png`_
+
+* `attachment:stretch-versalitas.svg`_stretch-versalitas.svg`attachment:None`_
+
