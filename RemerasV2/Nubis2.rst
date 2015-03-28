@@ -1,18 +1,26 @@
-= Versión 2.0 de NubIs =
+#format rst
 
- * Es lo suficientemente distinta como para ser otra version, la idea es la misma que en [[RemerasV2/Nubis1]] pero hice que la cabeza de la serpiente tenga un poco mas el estilo de la cola y el cuerpo.
+Versión 2.0 de NubIs
+====================
 
-{{attachment:nubis0201.png}}
+* Es lo suficientemente distinta como para ser otra version, la idea es la misma que en `RemerasV2/Nubis1`_ pero hice que la cabeza de la serpiente tenga un poco mas el estilo de la cola y el cuerpo.
 
-{{attachment:real02.png}}
+`attachment:nubis0201.png`_
 
+`attachment:real02.png`_
 
-'''Diseño'''
+**Diseño**
 
-[[attachment:nubis0201.svg]]
+`attachment:nubis0201.svg`_nubis0201.svg`attachment:None`_
 
-[[attachment:nubis0202.svg]]
+`attachment:nubis0202.svg`_nubis0202.svg`attachment:None`_
 
-== Comentarios ==
+Comentarios
+-----------
 
- * [FacundoBatista] Deberías guardar este diseño para cuando hagamos los calzoncillos y bombachitas de PyAr.
+* [FacundoBatista_] Deberías guardar este diseño para cuando hagamos los calzoncillos y bombachitas de PyAr_.
+
+.. ############################################################################
+
+.. _RemerasV2/Nubis1: ../Nubis1
+
