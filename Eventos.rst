@@ -1,3 +1,7 @@
+.. class:: alert alert-warning
+
+**Atención:** Esta página es el resultado de la migración de nuestra `vieja wiki`_.
+En la nueva web los eventos se publican en http://python.org.ar/eventos/
 
 Eventos
 =======
@@ -41,8 +45,8 @@ Nos reunimos varios dias para trabajar en distintos proyectos de software libre 
 
 .. _Reuniones PyAr: Eventos#reuniones
 
-.. _Sprints: Eventos#sprints
+.. _Sprints: http://old.python.org.ar/Eventos
 
-.. _Conferencias: Eventos#conferencias
+.. _Conferencias: http://old.python.org.ar/Eventos
 
-
+.. _vieja wiki: http://old.python.org.ar/Eventos
