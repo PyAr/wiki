@@ -17,7 +17,7 @@ Las donaciones realizadas a PyAr_ seran utilizadas para promover el lenguaje en 
 DineroMail
 ----------
 
-**De Argentina y otros paises de latinoamérica** `[[DineroMail()]]`_
+**De Argentina y otros paises de latinoamérica** `DineroMail()`_
 
 -------------------------
 
@@ -28,7 +28,7 @@ Cuenta Digital
 
 **¡De todo el mundo!**
 
-`[[CuentaDigital()]]`_
+`CuentaDigital()`_
 
 -------------------------
 
