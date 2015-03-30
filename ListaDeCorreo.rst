@@ -73,7 +73,7 @@ Hemos hablado de muchas cosas en la lista de PyAr_, si tenés un problema o una 
 
 * Utilizando Google_ con el comando **site:**, por ejemplo, si busco servicios de *hosting* para Python puedo hacer una búsqueda del tipo:
 
-  *hosting* **site:** listas.python.org.ar/pipermail/pyar/
+  hosting site:listas.python.org.ar/pipermail/pyar/
 
   Donde le decimos a Google que busque la palabra 'hosting' solamente en el sitio del archivo de las listas: http://listas.python.org.ar/pipermail/pyar/ .
 
