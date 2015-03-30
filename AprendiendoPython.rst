@@ -74,7 +74,7 @@ Documentación adicional sobre python en español
 
 * El Tutorial de Django
 
-    http://tutorialdjango.com.ar.
+    http://docs.python.org.ar/tutorial/django/index.html
 
 * El libro de Web2py en español
 
