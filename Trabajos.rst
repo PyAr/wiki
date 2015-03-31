@@ -3,6 +3,11 @@
 **Atención:** Esta página es el resultado de la migración de nuestra `vieja wiki`_.
 En la nueva web tenemos una sección `trabajos`_
 
+.. _trabajos: /trabajo/
+
+.. _vieja wiki: http://old.python.org.ar/Trabajos/
+
+
 Trabajos en Python
 ==================
 
@@ -1159,9 +1164,6 @@ Abrazos a la comunidad python.
 
 .. _Oony: http://oony.com
 
-.. _trabajos: /trabajos
-
-.. _vieja wiki: http://old.python.org.ar/Trabajos/
 
 
 
