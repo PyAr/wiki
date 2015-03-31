@@ -49,6 +49,6 @@ Funciones
    >>> def hola(nombre):
    ...     print u"Hola, %s, ¿cómo estás?" % nombre
    ...
-   >>> hola('Matías')
+   >>> hola('Mls')
    Hola, Matías, ¿cómo estás?
 
