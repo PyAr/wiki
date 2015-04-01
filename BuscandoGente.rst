@@ -17,7 +17,7 @@ Proyectos que buscan programadores
 
 **URL:** http://genesdigitales.com/inet2/wiki/pmwiki.php
 
-**Contacto:** `[[MailTo(sbassi EN gmail PUNTO com)]]`_
+**Contacto:** ``sbassi EN gmail PUNTO com``
 
 -------------------------
 
