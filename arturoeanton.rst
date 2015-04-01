@@ -6,9 +6,9 @@ Hola soy Arturo Elias Anton nací el 12 de septiembre de 1980, vivo en Parque Pa
 
 * Mi blog es http://www.binsd.com.ar
 
-* Mi mail es `[[MailTo(arturoeanton EN gmail PUNTO com)]]`_
+* Mi mail es ``arturoeanton EN gmail PUNTO com``
 
-Email: `[[MailTo(arturoeanton EN gmail PUNTO com)]]`_ ...
+Email: ``arturoeanton EN gmail PUNTO com`` ...
 
 -------------------------
 
