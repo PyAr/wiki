@@ -34,7 +34,7 @@ Me estoy candidateando para Presidente de la Asociación Civil en las primeras e
 Contacto
 ~~~~~~~~
 
-Email: `[[MailTo(facundo mafalda arroba miguelito taniquetil guille com susanita ar)]]`_
+Email: ``facundo mafalda arroba miguelito taniquetil guille com susanita ar``
 
 *Ok, parseen eso si quieren mi dirección, creo que es una buena manera de que no la levante un bot.*
 
