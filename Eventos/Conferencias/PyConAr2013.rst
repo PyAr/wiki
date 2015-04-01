@@ -23,7 +23,7 @@ Objetivos cumplidos
 
 * Tuvimos varios asistentes estudiantes de la Universidad Tecnológica Nacional de Rosario.
 
-* Gracias al PyDay_ y PyConAr_ en Rosario, varias personas se están juntando a programar armando hackatones u otro tipo de eventos. También se juntan a comer asado |;-)| La idea es que Rosario entre a tener una movida interesante en eventos relacionados a informática y si es con Python mejor! 
+* Gracias al PyDay_ y PyConAr_ en Rosario, varias personas se están juntando a programar armando hackatones u otro tipo de eventos. También se juntan a comer asado |wink| La idea es que Rosario entre a tener una movida interesante en eventos relacionados a informática y si es con Python mejor! 
 
 Objetivos no cumplidos
 ----------------------
@@ -62,7 +62,7 @@ Cosas a tener en cuenta
 
 * Sé agradecido con quienes te brindan ayuda y trabajan para que PyConAr_ 2014 sea un éxito.
 
-* Nunca está de más darle algún presente a quienes fueron sponsors |;-)|
+* Nunca está de más darle algún presente a quienes fueron sponsors |wink|
 
 Videos de las charlas
 ---------------------
