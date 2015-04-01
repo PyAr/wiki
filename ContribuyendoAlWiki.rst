@@ -4,7 +4,7 @@ Contribuyendo al Wiki
 
 Nuestra intención es hacer el wiki lo mas abierto posible, para editar la mayoria de las páginas, es necesario ser un usuario registrado (al wiki y a la lista) y pertenecer al ReadWriteGroup_, sin embargo, algunas páginas, como PyCon2006_ o ProximaReunion_ son editables para cualquiera.
 
-Para formar parte del ReadWriteGroup_ solo tenés que enviar un mail a la lista diciendo algo como: "Hola gente, soy **<tu nombre>** quiero editar **<lo que querés editar>**, porque **<el motivo de la edición>**. Mi nombre de usuario en el wiki es **<usuario>**". Si creés que tu aporte al wiki no justifica un email a la lista entera, podés optar por pedir el permiso a la lista de administración (`[[MailTo(admin EN python PUNTO org PUNTO ar)]]`_).
+Para formar parte del ReadWriteGroup_ solo tenés que enviar un mail a la lista diciendo algo como: "Hola gente, soy **<tu nombre>** quiero editar **<lo que querés editar>**, porque **<el motivo de la edición>**. Mi nombre de usuario en el wiki es **<usuario>**". Si creés que tu aporte al wiki no justifica un email a la lista entera, podés optar por pedir el permiso a la lista de administración (``admin EN python PUNTO org PUNTO ar``).
 
 En cuanto al contenido, damos los siguientes consejos:
 
