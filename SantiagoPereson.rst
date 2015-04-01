@@ -2,7 +2,7 @@
 yaco (Santiágo Peresón)
 -----------------------
 
-Correo electrónico: `[[MailTo(yaco AT yaco DOT net)]]`_
+Correo electrónico: ``yaco AT yaco DOT net``
 
 * Músico y programador. `yaco.net`_
 
