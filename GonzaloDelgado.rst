@@ -2,7 +2,7 @@
 Gonzalo Delgado
 ---------------
 
-Email: `[[MailTo(gonzalodel AT gmail DOT com)]]`_
+Email: ``gonzalodel AT gmail DOT com``
 
 Soy Programador Universitario de la Facultad de Ciencias Exactas y Tecnología de la UNT_
 
@@ -14,7 +14,7 @@ Actualmente trabajo para `Five Q`_, también con Django.
 
 Estoy armando (con muuucha tranquilidad) mi `sitio web personal`_, de nuevo con Django y usando Lighttpd_ sobre un server web casero.
 
-Si estás en Tucumán y programás en Python, te invito un café |;)|
+Si estás en Tucumán y programás en Python, te invito un café |wink|
 
 -------------------------
 
