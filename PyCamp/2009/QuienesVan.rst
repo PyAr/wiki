@@ -5,7 +5,7 @@ PyCamp Argentina 2009
 Quiénes Van
 -----------
 
-Por favor, alfabético por apellido. Locale es_AR |:)|
+Por favor, alfabético por apellido. Locale es_AR |smile|
 
 Confirmados
 ~~~~~~~~~~~
@@ -38,7 +38,7 @@ Desde donde viajan: `../Transporte`_
 
      Sábado:8-Martes:22-Pabellón-Monos...
 
-#. `El rey del Humo`_: lo que haga la mayoría |:)| . Supongo que es dormir en el pabellón y comer con todos los demás. Uso internet, llevo notebook y tomo birra.
+#. `El rey del Humo`_: lo que haga la mayoría |smile| . Supongo que es dormir en el pabellón y comer con todos los demás. Uso internet, llevo notebook y tomo birra.
 
 #. RicardoKirkner_: desde el sábado a las 10, hasta el martes a las 19; apoyo el socialismo gastro-onírico
 
@@ -74,7 +74,7 @@ Desde donde viajan: `../Transporte`_
 
 #. HugoRuscitti_ : llego el sabado a las 10 hs, vuelvo martes a las 9:45 hs, pabellon y Menu completo.
 
-#. HectorSanchez_  (32 años, programador, vuelvo con 33 |:(| ) (LLego el sábado a las 10:00 am, y vuelvo el martes 24 a las 9:45) al pabellón con los pibes, menú completo.
+#. HectorSanchez_  (32 años, programador, vuelvo con 33 |confused| ) (LLego el sábado a las 10:00 am, y vuelvo el martes 24 a las 9:45) al pabellón con los pibes, menú completo.
 
 #. LucioTorre_
 
