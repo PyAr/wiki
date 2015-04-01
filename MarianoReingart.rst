@@ -2,7 +2,7 @@
 Mariano Reingart
 ----------------
 
-Email: `[[MailTo(reingart AT SPAMFREE gmail DOT com)]]`_
+Email: ``reingart AT SPAMFREE gmail DOT com``
 
 Conocí a Python en 2006 buscando alternativas a VisualBasic_. En ese camino, para recibirme de Licenciado en Sistemas presenté la tesis de grado sobre "Desarrollo Rápido de Aplicaciones bajo un Proceso de Software Personal" (ver `artículo`_, y proyecto rad2py_), para lo cual creo que Python es parte de la solución, por eso me interesan temas que involucren RAD para GUI/WEB (sobre todo web2py_), tomando una IDE (IDLE, Pythonwin, PyCrust_, PythonCard_, etc.) y "extenderla" para lograr control y aseguramiento de calidad en una herramienta totalmente integrada, desde el análisis a la implementación.
 
