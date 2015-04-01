@@ -52,7 +52,7 @@ Nota
 
 Otros miembros de PyAr_, desde córdoba caapiiital, participaron en `PyWeek 3`_ como PyCor_. Aqui esta la lista de todos los `otros competidores`_ de esta edicion del concurso.
 
-Comentarios? Dudas? `[[MailTo(alecu EN vortech PUNTO com PUNTO ar)]]`_
+Comentarios? Dudas? ``alecu EN vortech PUNTO com PUNTO ar``
 
 .. ############################################################################
 
