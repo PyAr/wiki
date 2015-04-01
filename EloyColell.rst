@@ -8,7 +8,7 @@ Con Python estoy trabajando para GERSolar_, allí estamos automatizando un model
 
 Académicamente, soy Licenciado en Sistemas de la Universidad Nacional de Luján.
 
-Email: `[[MailTo(eloypuntocolellgarabatogmailpuntocom)]]`_ GPG_
+Email: ``eloypuntocolellgarabatogmailpuntocom`` GPG_
 
 -------------------------
 
