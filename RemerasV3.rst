@@ -57,7 +57,7 @@ El resto de la gente podrá visitar esas páginas, y agregar comentarios abajo d
 
 Cuanto antes la gente suba sus diseños, más comentarios recibirán para mejorarlos y tener más chances de ganar (pero también tendrá más chances de que le forkeen el diseño, pero esa también es un poco la idea, ;).
 
-Si alguien no quiere tomarse el trabajo de armar la página, puede mandar un .zip, .tar.gz, o .tar.bz2 con el SVG y demás info a `[[MailTo(gaitan EN gmail PUNTO com)]]`_ , que yo me encargo.
+Si alguien no quiere tomarse el trabajo de armar la página, puede mandar un .zip, .tar.gz, o .tar.bz2 con el SVG y demás info a ``gaitan EN gmail PUNTO com`` , que yo me encargo.
 
 Tengan en cuenta que pueden elegir el color de la remera y que pueden usar un (1) color al frente, y uno o dos (1 o 2) colores en la espalda.
 
@@ -72,7 +72,7 @@ Plazos
 
 * desde  **el sábado 2 hasta el martes 5 de octubre** para votar el diseño
 
-* desde ahora hasta el martes 5 de octubre para hacer tu pedido y recibir tu remera en PyConAr_. (si no llegás a anotarte antes de esa fecha, consultá si queda stock a `[[MailTo(gaitan EN gmail PUNTO com)]]`_ )
+* desde ahora hasta el martes 5 de octubre para hacer tu pedido y recibir tu remera en PyConAr_. (si no llegás a anotarte antes de esa fecha, consultá si queda stock a ``gaitan EN gmail PUNTO com`` )
 
 .. ############################################################################
 
