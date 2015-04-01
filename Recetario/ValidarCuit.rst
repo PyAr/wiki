@@ -11,7 +11,7 @@ El CUIT/CUIL es el código único de de identificación tributaria/laboral, que 
 
 **Aclaración**: que el CUIT sea válido no quiere decir que la persona titular exista y esté habilitada por los organismos correspondientes.
 
-Siempre se debe verificar la vigencia del CUIT en la página de la AFIP (Administración Federal de Ingresos Públicos). Por el momento es una página web, quizas en un futuro ofrezcan un servicio web para automatizar el proceso. Tambien es posible bajarse un padrón (archivo de texto plano), tarea para otra receta |:)|
+Siempre se debe verificar la vigencia del CUIT en la página de la AFIP (Administración Federal de Ingresos Públicos). Por el momento es una página web, quizas en un futuro ofrezcan un servicio web para automatizar el proceso. Tambien es posible bajarse un padrón (archivo de texto plano), tarea para otra receta |smile|
 
 Ejemplos:
 :::::::::
