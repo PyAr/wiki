@@ -10,7 +10,7 @@ Organizaciones
 Atommica
 ~~~~~~~~
 
-* Contacto: `[[MailTo(mconte AT atommica DOT com, Martín Conte Mac Donell)]]`_
+* Contacto: ``mconte AT atommica DOT com, Martín Conte Mac Donell``
 
 * URL: http://www.atommica.com
 
@@ -34,7 +34,7 @@ Cyclelogic
 Core Security Technologies
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Contacto: `[[MailTo( info AT coresecurity DOT com, Info)]]`_
+* Contacto: `` info AT coresecurity DOT com, Info``
 
 * URL: http://www.coresecurity.com
 
@@ -56,7 +56,7 @@ EuskoSare
 Hector E. Nardelli S.A.
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-* Contacto: `[[MailTo( ariel DOT nardelli AT hensa DOT com DOT ar, Panflin)]]`_
+* Contacto: `` ariel DOT nardelli AT hensa DOT com DOT ar, Panflin``
 
 * URL: http://www.hensa.com.ar
 
@@ -69,7 +69,7 @@ Hector E. Nardelli S.A.
 Lambda Sistemas
 ~~~~~~~~~~~~~~~
 
-* Contacto: `[[MailTo(guillermo DOT narvaja AT fierro-soft DOT com DOT ar, Guillermo Narvaja)]]`_
+* Contacto: ``guillermo DOT narvaja AT fierro-soft DOT com DOT ar, Guillermo Narvaja``
 
 * URL: http://www.fierro-soft.com.ar
 
@@ -86,7 +86,7 @@ Lambda Sistemas
 Livra.com
 ~~~~~~~~~
 
-* Contacto: `[[MailTo(geeks AT livra.com)]]`_
+* Contacto: ``geeks AT livra.com``
 
 * URL: http://ar.livra.com/jobs
 
@@ -97,7 +97,7 @@ Livra.com
 LUNIX S.R.L.
 ~~~~~~~~~~~~
 
-* Contacto: `[[MailTo(lucas AT lunix DOT com DOT ar, Lucas Di Pentima)]]`_
+* Contacto: ``lucas AT lunix DOT com DOT ar, Lucas Di Pentima``
 
 * URL: http://www.lunix.com.ar
 
@@ -114,7 +114,7 @@ LUNIX S.R.L.
 Machinalis
 ~~~~~~~~~~
 
-* Contacto: `[[MailTo( info AT machinalis DOT com , Machinalis)]]`_
+* Contacto: `` info AT machinalis DOT com , Machinalis``
 
 * URL: http://machinalis.com
 
@@ -129,7 +129,7 @@ Machinalis
 Menttes
 ~~~~~~~
 
-* Contacto: `[[MailTo( info AT menttes DOT com, Info)]]`_
+* Contacto: `` info AT menttes DOT com, Info``
 
 * URL: http://www.menttes.com
 
@@ -142,7 +142,7 @@ Menttes
 Movilogic
 ~~~~~~~~~
 
-* Contacto: `[[MailTo( info AT movilogic DOT com, Info)]]`_
+* Contacto: `` info AT movilogic DOT com, Info``
 
 * URL: http://www.movilogic.com
 
@@ -155,7 +155,7 @@ Movilogic
 MSA s.a.
 ~~~~~~~~
 
-* Contacto: `[[MailTo( info AT msa DOT com DOT ar, Info)]]`_
+* Contacto: `` info AT msa DOT com DOT ar, Info``
 
 * URL: http://www.msa.com.ar
 
@@ -185,7 +185,7 @@ Onapsis
 Vortech
 ~~~~~~~
 
-* Contacto: `[[MailTo( alecu AT vortech DOT com DOT ar, Alejandro J. Cura)]]`_
+* Contacto: `` alecu AT vortech DOT com DOT ar, Alejandro J. Cura``
 
 * URL: http://www.vortech.com.ar/
 
