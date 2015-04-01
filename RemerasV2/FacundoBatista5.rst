@@ -15,5 +15,5 @@ Comentarios
 
 * [LucioTorre_, en la lista] Sin la URL atrás, pero sí adelante.
 
-* [FacundoBatista_] Sigo esperando los colores, |;)|
+* [FacundoBatista_] Sigo esperando los colores, |wink|
 
