@@ -2,7 +2,7 @@
 Angel Velásquez
 ---------------
 
-Email: `[[MailTo(angvp AT SPAMFREE archlinux DOT org)]]`_
+Email: ``angvp AT SPAMFREE archlinux DOT org``
 
 Venezolano, radicado en Argentina (Buenos Aires), desarrollador PHP durante mucho tiempo y python (desde hace no tanto), aún sigo aprendiendo python cada día, y cada día más contento de poder hacerlo.
 
