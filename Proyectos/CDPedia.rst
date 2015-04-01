@@ -52,7 +52,7 @@ Información del proyecto
 
 El desarrollo de CDPedia se realiza en `este sitio`_, aunque todavía tenemos los bugs en `el viejo lugar`_. Los changelogs están `acá`_.
 
-Ante cualquier duda, nos podés contactar mandando un mail a `[[MailTo(cdpedia EN googlegroups PUNTO com)]]`_
+Ante cualquier duda, nos podés contactar mandando un mail a ``cdpedia EN googlegroups PUNTO com``
 
 Prensa
 ------
