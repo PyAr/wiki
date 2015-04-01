@@ -88,7 +88,7 @@ Linux que uso: Ubuntu 8.04 Linux que probé: Suse, Mandrake, Puppy, DSL, Slackwa
 
 
 
-  Email: `[[MailTo(lholivera AT g m a i l DOT com)]]`_
+  Email: ``lholivera AT g m a i l DOT com``
 
 ...
 
