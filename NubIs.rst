@@ -6,7 +6,7 @@ Nubis
 
 Proyectos: http://woobiz.com.ar
 
-Email: `[[MailTo(gnubis AT gmail DOT com)]]`_
+Email: ``gnubis AT gmail DOT com``
 
 -------------------------
 
