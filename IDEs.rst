@@ -173,7 +173,7 @@ http://macromates.com/
 Scribes
 ~~~~~~~
 
-Scribes_ es un editor de textos para GNOME escrito en Python. Entre sus `características`_ se destacan: autocompletado , templates (también conocido como **snippets**), indentado automático y marcado de línea (bookmarks). Vean la `demostración`_ para enamorarse |;)|
+Scribes_ es un editor de textos para GNOME escrito en Python. Entre sus `características`_ se destacan: autocompletado , templates (también conocido como **snippets**), indentado automático y marcado de línea (bookmarks). Vean la `demostración`_ para enamorarse |wink|
 
 .. ############################################################################
 
