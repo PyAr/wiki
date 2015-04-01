@@ -15,7 +15,7 @@ Python
 
 * Actualmente trabajo tiempo completo con sqlalchemy y pyramid.
 
-Email: `[[MailTo(mariano.mara AT SPAMFREE gmail DOT com)]]`_
+Email: ``mariano.mara AT SPAMFREE gmail DOT com``
 
 ...
 
