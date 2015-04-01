@@ -2,7 +2,7 @@
 Leandro Monk
 ------------
 
-Email: `[[MailTo(monk AT SPAMFREE cafelug DOT org DOT ar)]]`_
+Email: ``monk AT SPAMFREE cafelug DOT org DOT ar``
 
 Home: http://audiolibre.com.ar/
 
