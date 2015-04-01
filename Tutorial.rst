@@ -1,7 +1,7 @@
 
 Están traducidos los tutoriales tanto para Python 2 como para Python 3.
 
-La última versión de Py2 traducido fue 2.7.3, mientras que la última versión de Python liberada es la 3.4.0 Final y está cubierta en nuestra traducción |;)|
+La última versión de Py2 traducido fue 2.7.3, mientras que la última versión de Python liberada es la 3.4.0 Final y está cubierta en nuestra traducción |wink|
 
 Las versiones en HTML y los respectivos PDFs se pueden acceder `aquí`_.
 
