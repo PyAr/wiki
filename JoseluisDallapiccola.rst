@@ -2,7 +2,7 @@
 José Luis Dallapiccola
 ----------------------
 
-Email: `[[MailTo(jldalla AT SPAMFREE gmail DOT com)]]`_
+Email: ``jldalla AT SPAMFREE gmail DOT com``
 
 ...
 
