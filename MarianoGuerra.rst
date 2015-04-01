@@ -2,7 +2,7 @@
 Mariano Guerra
 --------------
 
-Email: `[[MailTo(luismarianoguerra AT SPAMFREE gmail DOT com)]]`_
+Email: ``luismarianoguerra AT SPAMFREE gmail DOT com``
 
 Nací en 1985 (hagan la resta así no lo tengo que actualizar todos los años), soy de Córdoba, recibido de Ingeniero en Sistemas de Información en la UTN en 2010.
 
