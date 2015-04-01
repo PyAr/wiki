@@ -2,7 +2,7 @@
 Eugenia Bahit
 -------------
 
-Email: `[[MailTo(ebahit AT member DOT fsf DOT org)]]`_.. You can even more obfuscate your email address by adding more uppercase letters followed by a leading and trailing blank.
+Email: ``ebahit AT member DOT fsf DOT org`` You can even more obfuscate your email address by adding more uppercase letters followed by a leading and trailing blank.
 
 **Arquitecta de Software y Agile Coach** (Buenos Aires, Argentina)
 
