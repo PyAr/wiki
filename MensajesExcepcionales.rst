@@ -58,7 +58,7 @@ En este ejemplo, vemos que le estamos pasando un nombre de archivo que no existe
 
 Aquí es donde se ve la utilidad de las trazas, a veces el error no es culpa de la línea en el que es producido, sino viene arrastrando un dato o condición inválida desde otro punto del programa.
 
-Que el árbol no nos impida ver el bosque ... |:-)|
+Que el árbol no nos impida ver el bosque ... |smile|
 
 Errores comunes
 ---------------
