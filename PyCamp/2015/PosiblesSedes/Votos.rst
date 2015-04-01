@@ -6,7 +6,7 @@ Por favor, si estas bastante seguro que vas a venir al PyCamp_, anotate debajo d
 
 Para ver las posibles sedes podes verlo por acá: http://python.org.ar/PyCamp/2015/PosiblesSedes/
 
-Si no podes editar esta página, recordá loguearte a esta wiki o registrarte como nuevo usuario si aún no tenes usuario en la wiki |:)| 
+Si no podes editar esta página, recordá loguearte a esta wiki o registrarte como nuevo usuario si aún no tenes usuario en la wiki |smile| 
 
 La Bolsa, Córdoba
 -----------------
