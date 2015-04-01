@@ -5,7 +5,7 @@ Reunión 17 - 05/07/2006 - Hip Bar
 Asistentes
 ----------
 
-En total nos juntamos 14 personas, de las cuales 6 vinieron por primera vez a una reunión (son las que están marcadas con |{*}| en la lista). Hubo también un par de ausentes sin aviso |;)|
+En total nos juntamos 14 personas, de las cuales 6 vinieron por primera vez a una reunión (son las que están marcadas con |{*}| en la lista). Hubo también un par de ausentes sin aviso |wink|
 
 * Adrian |{*}|
 
