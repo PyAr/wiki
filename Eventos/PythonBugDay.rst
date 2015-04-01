@@ -13,7 +13,7 @@ Básicamente es una fecha prefijada donde programadores de todo el mundo se enca
 Buenos Aires (Nuñez)
 ~~~~~~~~~~~~~~~~~~~~
 
-Livra_/Devego_ organiza en sus oficinas un encuentro para este propósito. (Mas información `aquí <http://geeks.livra.com>`__). El único requisito es que se anoten en la lista que figura mas abajo y si no tienen acceso manden un mail a `[[MailTo(pythonbugday EN livra PUNTO com)]]`_ .
+Livra_/Devego_ organiza en sus oficinas un encuentro para este propósito. (Mas información `aquí <http://geeks.livra.com>`__). El único requisito es que se anoten en la lista que figura mas abajo y si no tienen acceso manden un mail a ``pythonbugday EN livra PUNTO com`` .
 
 ¿Cuando? Sábado 21 de Junio (Cronograma mas abajo)
 
