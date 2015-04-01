@@ -2,7 +2,7 @@
 Daniel Mendoza
 --------------
 
-Email: `[[MailTo(danielmendoza.ing AT SPAMFREE gmail DOT com)]]`_
+Email: ``danielmendoza.ing AT SPAMFREE gmail DOT com``
 
 -------------------------
 
