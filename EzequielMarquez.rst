@@ -2,7 +2,7 @@
 Ezequiel Diaz Marquez
 ---------------------
 
-Email: `[[MailTo(exe.zaid AT SPAMFREE gmail DOT com)]]`_
+Email: ``exe.zaid AT SPAMFREE gmail DOT com``
 
 `Web Site`_
 
