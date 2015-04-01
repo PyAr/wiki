@@ -142,7 +142,7 @@ Mentados Buscados
 Adopciones Finalizadas
 ----------------------
 
-* JuanFisanotti_ - Hernan Lozano: muy buena experiencia! |:)|
+* JuanFisanotti_ - Hernan Lozano: muy buena experiencia! |smile|
 
 * Mariano Guerra
 
