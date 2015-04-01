@@ -9,7 +9,7 @@ Temas
 
 * Visita de Arturo a Rosario
 
-* Conocer la OLPC que nos prometió Humitos |;-)| (ahora autografiada por el Dr. Stallman |:)| )
+* Conocer la OLPC que nos prometió Humitos |wink| (ahora autografiada por el Dr. Stallman |smile| )
 
 **Dirigiendo:** Humitos
 
