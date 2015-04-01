@@ -2,13 +2,13 @@
 hipersayan_x
 ------------
 
-Email: `[[MailTo(HiPeRsAyAn pUnTo x ArRoBa gMaIl pUnTo MoC)]]`_
+Email: ``HiPeRsAyAn pUnTo x ArRoBa gMaIl pUnTo MoC``
 
 La pagina web de mi proyecto principal:
 
 `sushi-huh.sourceforge.net`_
 
-Mi poco elaborado blog |:-?| :
+Mi poco elaborado blog |smirk| :
 
 http://hipersayanx.blogspot.com
 
