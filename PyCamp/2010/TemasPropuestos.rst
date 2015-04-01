@@ -109,7 +109,7 @@ Probemos esta librería.  Jugar con esa librería que tenés ganas de usar hace 
 
 * Lucas Shrewsbury
 
-* LeitoMonk_ (OpenCV - llevo 2 webcams |:)| )
+* LeitoMonk_ (OpenCV - llevo 2 webcams |smile| )
 
 * SantiagoPiccinini_ (+1 OpenCV)
 
