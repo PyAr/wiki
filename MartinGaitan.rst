@@ -2,7 +2,7 @@
 @``ME@
 ------
 
-Email: `[[MailTo(gaitan AT gmail DOT com)]]`_
+Email: ``gaitan AT gmail DOT com``
 
 `sobre mi`_
 
