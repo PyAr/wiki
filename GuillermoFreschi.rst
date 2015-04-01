@@ -2,7 +2,7 @@
 Guillermo Freschi
 -----------------
 
-Email: `[[MailTo(kedrot AT gmail DOT com)]]`_
+Email: ``kedrot AT gmail DOT com``
 
 Y... nada...
 
