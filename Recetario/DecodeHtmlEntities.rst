@@ -41,7 +41,7 @@ Decodificar entities de HTML
       </span><span class="line">    <span class="k">return</span> <span class="n">text</span> <span class="ow">and</span> <span class="n">re</span><span class="o">.</span><span class="n">sub</span><span class="p">(</span><span class="s">&quot;&amp;#?\w+;&quot;</span><span class="p">,</span> <span class="n">fixup</span><span class="p">,</span> <span class="n">text</span><span class="p">)</span>
       </span>
 
-Gracias Martin Conte Mac Donell! |;)|
+Gracias Martin Conte Mac Donell! |wink|
 
 -------------------------
 
