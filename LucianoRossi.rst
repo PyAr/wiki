@@ -2,7 +2,7 @@
 LucianoRossi
 ------------
 
-Email: `[[MailTo(lukio AT SPAMFREE gcoop DOT coop)]]`_
+Email: ``lukio AT SPAMFREE gcoop DOT coop``
 
 Web: http://www.gcoop.coop
 
