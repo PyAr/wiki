@@ -11,7 +11,7 @@ La idea es juntarnos con Martín Langhoff, quien está encargado del `Server par
 
 El modo sería en principio presencial y estamos viendo la posibilidad de contar al mismo tiempo en el canal de irc para los que estén interesados y no estén en Buenos Aires.
 
-En principio se haría los días 7, 9, 14 y 16 de Abril, son los lunes y miercoles de las dos primeras semanas. Lamentablemente, está complicado para reunirse los fines de semana (al menos para Martín, por ahí podriamos sprintear igualmente sin él |:-)| ).
+En principio se haría los días 7, 9, 14 y 16 de Abril, son los lunes y miercoles de las dos primeras semanas. Lamentablemente, está complicado para reunirse los fines de semana (al menos para Martín, por ahí podriamos sprintear igualmente sin él |smile| ).
 
 Aca una tabla para anotarse para tener una idea de la cantidad de interesados. Agregue el 11/12/13 que es un tentativo de sprint, aunque Martín no pueda asistir.
 
