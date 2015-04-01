@@ -9,7 +9,7 @@ Quiero participar
 
   Si quieras participar anótate en la lista
 
-    "Recordad que para poder modificar la wiki y poder anotarse hay que pedir permiso a `[[MailTo(admin EN python PUNTO com PUNTO ar)]]`_ "
+    "Recordad que para poder modificar la wiki y poder anotarse hay que pedir permiso a ``admin EN python PUNTO com PUNTO ar`` "
 
 Lista de participantes
 ----------------------
