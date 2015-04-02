@@ -10,30 +10,28 @@ Hace falta instalar la libreria psutil_, disponible en aqui_. Hay paquetes para 
 
 ::
 
-   .. raw:: html
-      <span class="line"><span class="kn">import</span> <span class="nn">psutil</span>
-      </span><span class="line">
-      </span><span class="line"><span class="k">for</span> <span class="n">pid</span> <span class="ow">in</span> <span class="n">psutil</span><span class="o">.</span><span class="n">get_pid_list</span><span class="p">():</span>
-      </span><span class="line">    <span class="n">proc</span> <span class="o">=</span> <span class="n">psutil</span><span class="o">.</span><span class="n">Process</span><span class="p">(</span><span class="n">pid</span><span class="p">)</span>
-      </span><span class="line">
-      </span><span class="line">    <span class="k">if</span> <span class="n">proc</span><span class="o">.</span><span class="n">username</span> <span class="o">!=</span> <span class="s">&quot;root&quot;</span><span class="p">:</span>
-      </span><span class="line">        <span class="k">continue</span>
-      </span><span class="line">
-      </span><span class="line">    <span class="k">print</span> <span class="n">proc</span><span class="o">.</span><span class="n">name</span><span class="p">,</span> <span class="n">proc</span><span class="o">.</span><span class="n">cmdline</span><span class="p">,</span> <span class="n">proc</span><span class="o">.</span><span class="n">pid</span>
-      </span>
+    import psutil
+
+    for pid in psutil.get_pid_list():
+        proc = psutil.Process(pid)
+
+        if proc.username != "root":
+            continue
+
+        print proc.name, proc.cmdline, proc.pid
+
 
 En la versión 0.3 de psutil el Ejemplo puede quedar como:
 
 ::
 
-   .. raw:: html
-      <span class="line"><span class="kn">import</span> <span class="nn">psutil</span>
-      </span><span class="line">
-      </span><span class="line"><span class="k">for</span> <span class="n">proc</span> <span class="ow">in</span> <span class="n">psutil</span><span class="o">.</span><span class="n">get_process_list</span><span class="p">():</span>
-      </span><span class="line">    <span class="k">if</span> <span class="n">proc</span><span class="o">.</span><span class="n">username</span> <span class="o">!=</span> <span class="s">&quot;root&quot;</span><span class="p">:</span>
-      </span><span class="line">        <span class="k">continue</span>
-      </span><span class="line">    <span class="k">print</span> <span class="n">proc</span><span class="o">.</span><span class="n">name</span><span class="p">,</span> <span class="n">proc</span><span class="o">.</span><span class="n">cmdline</span><span class="p">,</span> <span class="n">proc</span><span class="o">.</span><span class="n">pid</span>
-      </span>
+    import psutil
+
+    for proc in psutil.get_process_list():
+        if proc.username != "root":
+            continue
+        print proc.name, proc.cmdline, proc.pid
+
 
 -------------------------
 
