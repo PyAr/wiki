@@ -16,39 +16,37 @@ Ejemplo:
 
 ::
 
-   .. raw:: html
-      <span class="line"><span class="o">&gt;&gt;&gt;</span> <span class="n">digito_verificador_modulo10</span><span class="p">(</span><span class="s">&quot;01234567890&quot;</span><span class="p">)</span>
-      </span><span class="line"><span class="s">&#39;5&#39;</span>
-      </span><span class="line"><span class="o">&gt;&gt;&gt;</span> <span class="n">digito_verificador_modulo10</span><span class="p">(</span><span class="s">&#39;111111111112233334444444444444455555555&#39;</span><span class="p">)</span>
-      </span><span class="line"><span class="s">&#39;3&#39;</span>
-      </span><span class="line"><span class="o">&gt;&gt;&gt;</span> <span class="n">digito_verificador_modulo10</span><span class="p">(</span><span class="s">&#39;123456789012345678901234567890123456789&#39;</span><span class="p">)</span>
-      </span><span class="line"><span class="s">&#39;0&#39;</span>
-      </span>
+    >>> digito_verificador_modulo10("01234567890")
+    '5'
+    >>> digito_verificador_modulo10('111111111112233334444444444444455555555')
+    '3'
+    >>> digito_verificador_modulo10('123456789012345678901234567890123456789')
+    '0'
+
 
 Código:
 :::::::
 
 ::
 
-   .. raw:: html
-      <span class="line"><span class="k">def</span> <span class="nf">digito_verificador_modulo10</span><span class="p">(</span><span class="n">codigo</span><span class="p">):</span>
-      </span><span class="line">    <span class="s">&quot;Rutina para el cálculo del dígito verificador &#39;módulo 10&#39;&quot;</span>
-      </span><span class="line">    <span class="c"># Ver RG 1702 AFIP</span>
-      </span><span class="line">    <span class="c"># Etapa 1: comenzar desde la izquierda, sumar todos los caracteres ubicados en las posiciones impares.</span>
-      </span><span class="line">    <span class="n">etapa1</span> <span class="o">=</span> <span class="nb">sum</span><span class="p">([</span><span class="nb">int</span><span class="p">(</span><span class="n">c</span><span class="p">)</span> <span class="k">for</span> <span class="n">i</span><span class="p">,</span><span class="n">c</span> <span class="ow">in</span> <span class="nb">enumerate</span><span class="p">(</span><span class="n">codigo</span><span class="p">)</span> <span class="k">if</span> <span class="ow">not</span> <span class="n">i</span><span class="o">%</span><span class="mi">2</span><span class="p">])</span>
-      </span><span class="line">    <span class="c"># Etapa 2: multiplicar la suma obtenida en la etapa 1 por el número 3</span>
-      </span><span class="line">    <span class="n">etapa2</span> <span class="o">=</span> <span class="n">etapa1</span> <span class="o">*</span> <span class="mi">3</span>
-      </span><span class="line">    <span class="c"># Etapa 3: comenzar desde la izquierda, sumar todos los caracteres que están ubicados en las posiciones pares.</span>
-      </span><span class="line">    <span class="n">etapa3</span> <span class="o">=</span> <span class="nb">sum</span><span class="p">([</span><span class="nb">int</span><span class="p">(</span><span class="n">c</span><span class="p">)</span> <span class="k">for</span> <span class="n">i</span><span class="p">,</span><span class="n">c</span> <span class="ow">in</span> <span class="nb">enumerate</span><span class="p">(</span><span class="n">codigo</span><span class="p">)</span> <span class="k">if</span> <span class="n">i</span><span class="o">%</span><span class="mi">2</span><span class="p">])</span>
-      </span><span class="line">    <span class="c"># Etapa 4: sumar los resultados obtenidos en las etapas 2 y 3.</span>
-      </span><span class="line">    <span class="n">etapa4</span> <span class="o">=</span> <span class="n">etapa2</span> <span class="o">+</span> <span class="n">etapa3</span>
-      </span><span class="line">    <span class="c"># Etapa 5: buscar el menor número que sumado al resultado obtenido en la etapa 4 dé un número múltiplo de 10. </span>
-      </span><span class="line">    <span class="c"># Este será el valor del dígito verificador del módulo 10.</span>
-      </span><span class="line">    <span class="n">digito</span> <span class="o">=</span> <span class="mi">10</span> <span class="o">-</span> <span class="p">(</span><span class="n">etapa4</span> <span class="o">-</span> <span class="p">(</span><span class="nb">int</span><span class="p">(</span><span class="n">etapa4</span> <span class="o">/</span> <span class="mi">10</span><span class="p">)</span> <span class="o">*</span> <span class="mi">10</span><span class="p">))</span>
-      </span><span class="line">    <span class="k">if</span> <span class="n">digito</span> <span class="o">==</span> <span class="mi">10</span><span class="p">:</span>
-      </span><span class="line">        <span class="n">digito</span> <span class="o">=</span> <span class="mi">0</span>
-      </span><span class="line">    <span class="k">return</span> <span class="nb">str</span><span class="p">(</span><span class="n">digito</span><span class="p">)</span>
-      </span>
+    def digito_verificador_modulo10(codigo):
+        "Rutina para el cálculo del dígito verificador 'módulo 10'"
+        # Ver RG 1702 AFIP
+        # Etapa 1: comenzar desde la izquierda, sumar todos los caracteres ubicados en las posiciones impares.
+        etapa1 = sum([int(c) for i,c in enumerate(codigo) if not i%2])
+        # Etapa 2: multiplicar la suma obtenida en la etapa 1 por el número 3
+        etapa2 = etapa1 * 3
+        # Etapa 3: comenzar desde la izquierda, sumar todos los caracteres que están ubicados en las posiciones pares.
+        etapa3 = sum([int(c) for i,c in enumerate(codigo) if i%2])
+        # Etapa 4: sumar los resultados obtenidos en las etapas 2 y 3.
+        etapa4 = etapa2 + etapa3
+        # Etapa 5: buscar el menor número que sumado al resultado obtenido en la etapa 4 dé un número múltiplo de 10. 
+        # Este será el valor del dígito verificador del módulo 10.
+        digito = 10 - (etapa4 - (int(etapa4 / 10) * 10))
+        if digito == 10:
+            digito = 0
+        return str(digito)
+
 
 Autor / Autores:
 ::::::::::::::::
