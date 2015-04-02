@@ -8,13 +8,12 @@ Obtener ip Publica
 
 ::
 
-   .. raw:: html
-      <span class="line"><span class="c">#!/usr/bin/env python</span>
-      </span><span class="line"><span class="c"># -*- coding: utf-8 -*- </span>
-      </span><span class="line"><span class="kn">import</span> <span class="nn">urllib</span>
-      </span><span class="line"><span class="n">ip</span> <span class="o">=</span> <span class="n">urllib</span><span class="o">.</span><span class="n">urlopen</span><span class="p">(</span><span class="s">&#39;http://automation.whatismyip.com/n09230945.asp&#39;</span><span class="p">)</span><span class="o">.</span><span class="n">read</span><span class="p">()</span> <span class="c"># esta URL puede ser reemplazada con otra que preste similar servicio</span>
-      </span><span class="line"><span class="k">print</span> <span class="n">ip</span>
-      </span>
+    #!/usr/bin/env python
+    # -*- coding: utf-8 -*- 
+    import urllib
+    ip = urllib.urlopen('http://automation.whatismyip.com/n09230945.asp').read() # esta URL puede ser reemplazada con otra que preste similar servicio
+    print ip
+
 
 **Ejemplo:**
 
