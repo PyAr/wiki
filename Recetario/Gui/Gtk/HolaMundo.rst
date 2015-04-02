@@ -4,9 +4,9 @@ GtkHolaMundo
 
 Crea y muestra una ventana que muestra el famoso mensaje hola mundo.
 
-`Hola mundo.png </wiki/Recetario/Gui/Gtk/HolaMundo/attachment/582/Hola%20mundo.png>`_
+.. image:: /wiki/Recetario/Gui/Gtk/HolaMundo/attachment/582/Hola%20mundo.png
 
-::
+.. code-block:: python
 
     import gtk
     import sys
