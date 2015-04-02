@@ -2,17 +2,19 @@ Email: ``gaitan AT gmail DOT com``
 
 * `sobre mi`_
 
-* github_
+* Mi github_
 
 * `Mi emprendimiento`_
 
 * `mi blog algo geek`_
 
+* Mis charlas_
+
 * `mi blog no geek`_
 
 * `En twitter`_ soy ``@tin_nqn_
 
-@ `En LinkedIn`_
+* `En LinkedIn`_
 
 
 
@@ -22,7 +24,10 @@ Email: ``gaitan AT gmail DOT com``
 
 .. _mi blog no geek: http://textosypretextos.com.ar
 
-.. _mi blog algo geek: http://nqnwebs.com/blog
+.. _mi blog algo geek: http://mgaitan.github.io
+
+.. _charlas: http://mgaitan.github.io/charlas.html
+
 
 .. _En twitter: http://twitter.com/tin_nqn_
 
