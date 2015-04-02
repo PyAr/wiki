@@ -18,42 +18,40 @@ Ejemplos:
 
 ::
 
-   .. raw:: html
-      <span class="line"><span class="o">&gt;&gt;&gt;</span> <span class="n">validar_cuit</span><span class="p">(</span><span class="s">&quot;00-00000000-0&quot;</span><span class="p">)</span>
-      </span><span class="line"><span class="bp">True</span>
-      </span><span class="line"><span class="o">&gt;&gt;&gt;</span> <span class="n">validar_cuit</span><span class="p">(</span><span class="s">&quot;00-00000000-1&quot;</span><span class="p">)</span>
-      </span><span class="line"><span class="bp">False</span>
-      </span>
+    >>> validar_cuit("00-00000000-0")
+    True
+    >>> validar_cuit("00-00000000-1")
+    False
+
 
 Código:
 :::::::
 
 ::
 
-   .. raw:: html
-      <span class="line"><span class="k">def</span> <span class="nf">validar_cuit</span><span class="p">(</span><span class="n">cuit</span><span class="p">):</span>
-      </span><span class="line">    <span class="c"># validaciones minimas</span>
-      </span><span class="line">    <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">cuit</span><span class="p">)</span> <span class="o">!=</span> <span class="mi">13</span> <span class="ow">or</span> <span class="n">cuit</span><span class="p">[</span><span class="mi">2</span><span class="p">]</span> <span class="o">!=</span> <span class="s">&quot;-&quot;</span> <span class="ow">or</span> <span class="n">cuit</span><span class="p">[</span><span class="mi">11</span><span class="p">]</span> <span class="o">!=</span> <span class="s">&quot;-&quot;</span><span class="p">:</span>
-      </span><span class="line">        <span class="k">return</span> <span class="bp">False</span>
-      </span><span class="line">
-      </span><span class="line">    <span class="n">base</span> <span class="o">=</span> <span class="p">[</span><span class="mi">5</span><span class="p">,</span> <span class="mi">4</span><span class="p">,</span> <span class="mi">3</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">7</span><span class="p">,</span> <span class="mi">6</span><span class="p">,</span> <span class="mi">5</span><span class="p">,</span> <span class="mi">4</span><span class="p">,</span> <span class="mi">3</span><span class="p">,</span> <span class="mi">2</span><span class="p">]</span>
-      </span><span class="line">
-      </span><span class="line">    <span class="n">cuit</span> <span class="o">=</span> <span class="n">cuit</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="s">&quot;-&quot;</span><span class="p">,</span> <span class="s">&quot;&quot;</span><span class="p">)</span> <span class="c"># remuevo las barras</span>
-      </span><span class="line">
-      </span><span class="line">    <span class="c"># calculo el digito verificador:</span>
-      </span><span class="line">    <span class="n">aux</span> <span class="o">=</span> <span class="mi">0</span>
-      </span><span class="line">    <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">xrange</span><span class="p">(</span><span class="mi">10</span><span class="p">):</span>
-      </span><span class="line">        <span class="n">aux</span> <span class="o">+=</span> <span class="nb">int</span><span class="p">(</span><span class="n">cuit</span><span class="p">[</span><span class="n">i</span><span class="p">])</span> <span class="o">*</span> <span class="n">base</span><span class="p">[</span><span class="n">i</span><span class="p">]</span>
-      </span><span class="line">
-      </span><span class="line">    <span class="n">aux</span> <span class="o">=</span> <span class="mi">11</span> <span class="o">-</span> <span class="p">(</span><span class="n">aux</span> <span class="o">-</span> <span class="p">(</span><span class="nb">int</span><span class="p">(</span><span class="n">aux</span> <span class="o">/</span> <span class="mi">11</span><span class="p">)</span> <span class="o">*</span> <span class="mi">11</span><span class="p">))</span>
-      </span><span class="line">
-      </span><span class="line">    <span class="k">if</span> <span class="n">aux</span> <span class="o">==</span> <span class="mi">11</span><span class="p">:</span>
-      </span><span class="line">        <span class="n">aux</span> <span class="o">=</span> <span class="mi">0</span>
-      </span><span class="line">    <span class="k">if</span> <span class="n">aux</span> <span class="o">==</span> <span class="mi">10</span><span class="p">:</span>
-      </span><span class="line">        <span class="n">aux</span> <span class="o">=</span> <span class="mi">9</span>
-      </span><span class="line">
-      </span><span class="line">    <span class="k">return</span> <span class="n">aux</span> <span class="o">==</span> <span class="nb">int</span><span class="p">(</span><span class="n">cuit</span><span class="p">[</span><span class="mi">10</span><span class="p">])</span>
-      </span>
+    def validar_cuit(cuit):
+        # validaciones minimas
+        if len(cuit) != 13 or cuit[2] != "-" or cuit[11] != "-":
+            return False
+
+        base = [5, 4, 3, 2, 7, 6, 5, 4, 3, 2]
+
+        cuit = cuit.replace("-", "") # remuevo las barras
+
+        # calculo el digito verificador:
+        aux = 0
+        for i in xrange(10):
+            aux += int(cuit[i]) * base[i]
+
+        aux = 11 - (aux - (int(aux / 11) * 11))
+
+        if aux == 11:
+            aux = 0
+        if aux == 10:
+            aux = 9
+
+        return aux == int(cuit[10])
+
 
 Autor / Autores:
 ::::::::::::::::
