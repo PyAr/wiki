@@ -12,8 +12,6 @@ Crear un boton grafico personalizado, con 3 estados posibles *(Activado, con el 
 
 ::
 
-   ::
-
     #!/usr/bin/env python
     # -*- coding: utf-8 -*-
     # Esto es okbutton.py
@@ -178,8 +176,6 @@ Crear un boton grafico personalizado, con 3 estados posibles *(Activado, con el 
 * **Ejemplo:** *(es el de la foto)*.
 
 ::
-
-   ::
 
     #!/usr/bin/env python
     # -*- coding: utf-8 -*-
