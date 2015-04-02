@@ -1,7 +1,4 @@
 
-Como compilar python
-====================
-
 Acá hay una breve explicación para compilar python desde su código fuente
 
 Compilando Py3k
