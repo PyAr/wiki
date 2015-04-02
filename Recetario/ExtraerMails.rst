@@ -7,11 +7,10 @@ Código
 
 ::
 
-   .. raw:: html
-      <span class="line"><span class="o">&gt;&gt;&gt;</span> <span class="kn">import</span> <span class="nn">re</span>
-      </span><span class="line"><span class="o">&gt;&gt;&gt;</span> <span class="n">mailsrch</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">compile</span><span class="p">(</span><span class="s">r&#39;[\w\-][\w\-\.]+@[\w\-][\w\-\.]+[a-zA-Z]{1,4}&#39;</span><span class="p">)</span>
-      </span><span class="line"><span class="o">&gt;&gt;&gt;</span> <span class="n">mailsrch</span><span class="o">.</span><span class="n">findall</span><span class="p">(</span><span class="n">texto</span><span class="p">)</span>
-      </span>
+    >>> import re
+    >>> mailsrch = re.compile(r'[\w\-][\w\-\.]+@[\w\-][\w\-\.]+[a-zA-Z]{1,4}')
+    >>> mailsrch.findall(texto)
+
 
 El código anterior devuelve una lista de strings, donde cada string es una dirección de email. El texto original puede contener basura como espcios, comas u otros caracteres.
 
@@ -21,12 +20,11 @@ La expresión regular que sigue es del proyecto django_.
 
 ::
 
-   .. raw:: html
-      <span class="line"><span class="n">email_re</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">compile</span><span class="p">(</span>
-      </span><span class="line">            <span class="s">r&quot;(^[-!#$%&amp;&#39;*+/=?^_`{}|~0-9A-Z]+(\.[-!#$%&amp;&#39;*+/=?^_`{}|~0-9A-Z]+)*&quot;</span>  <span class="c"># dot-atom</span>
-      </span><span class="line">            <span class="s">r&#39;|^&quot;([\001-\010\013\014\016-\037!#-\[\]-\177]|</span><span class="se">\\</span><span class="s">[\001-011\013\014\016-\177])*&quot;&#39;</span> <span class="c"># quoted-string</span>
-      </span><span class="line">            <span class="s">r&#39;)@(?:[A-Z0-9](?:[A-Z0-9-]{0,61}[A-Z0-9])?\.)+[A-Z]{2,6}\.?$&#39;</span><span class="p">,</span> <span class="n">re</span><span class="o">.</span><span class="n">IGNORECASE</span><span class="p">)</span>  <span class="c"># domain</span>
-      </span>
+    email_re = re.compile(
+                r"(^[-!#$%&'*+/=?^_`{}|~0-9A-Z]+(\.[-!#$%&'*+/=?^_`{}|~0-9A-Z]+)*"  # dot-atom
+                r'|^"([\001-\010\013\014\016-\037!#-\[\]-\177]|\\[\001-011\013\014\016-\177])*"' # quoted-string
+                r')@(?:[A-Z0-9](?:[A-Z0-9-]{0,61}[A-Z0-9])?\.)+[A-Z]{2,6}\.?$', re.IGNORECASE)  # domain
+
 
 Se puede utilizar en la receta de Juanjo arriba.
 
