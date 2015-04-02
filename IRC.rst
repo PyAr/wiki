@@ -1,17 +1,19 @@
+Además de la `lista de correo`_, un medio de comunicación que usamos mucho es nuestro canal de irc. 
 
-`[[IRC()]]`_
+Podés acceder via web desde `esta pagina <http://python.org.ar/irc/>` o bien usar el cliente IRC que prefieras. 
 
--------------------------
+Server
+  ``irc.freenode.net``
+  
+Canal
+  ``#pyar``
 
+
+.. _lista de correo: /ListaDeCorreo
 
 
 Archivo de IRC
 --------------
 
-el archivo del canal se encuentra disponible en http://irclogger.com/.pyar/
-
-Accediendo al canal desde tu cliente favorito
----------------------------------------------
-
-Si querés usar otro cliente de IRC, ingresá al canal: **#pyar** en el server: **irc.freenode.net**
-
+La actividad diaria del canal IRC se guarda y está indexada en nuestro buscador. 
+Si querés ver una fecha específicia, podés navegar desde esta web  http://irclogger.com/.pyar/
