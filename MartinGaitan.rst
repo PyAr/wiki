@@ -12,7 +12,7 @@ Email: ``gaitan AT gmail DOT com``
 
 * `mi blog no geek`_
 
-* `En twitter`_ soy ``@tin_nqn_
+* `En twitter`_ soy ``@tin_nqn_``
 
 * `En LinkedIn`_
 
