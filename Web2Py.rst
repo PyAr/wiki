@@ -50,13 +50,12 @@ Ejemplo:
 
 ::
 
-   .. raw:: html
-      <span class="line">sudo apt-get install python psycopg2
-      </span><span class="line">wget http://www.web2py.com/examples/static/web2py_src.zip
-      </span><span class="line">unzip web2py_src.zip
-      </span><span class="line"><span class="nb">cd </span>web2py
-      </span><span class="line">python web2py.py
-      </span>
+    sudo apt-get install python psycopg2
+    wget http://www.web2py.com/examples/static/web2py_src.zip
+    unzip web2py_src.zip
+    cd web2py
+    python web2py.py
+
 
 Recorrida
 ---------
