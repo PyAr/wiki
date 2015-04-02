@@ -6,14 +6,13 @@ Reverse (a.k.a. "esrever")
 
 ::
 
-   .. raw:: html
-      <span class="line"><span class="c">#!/usr/bin/env python</span>
-      </span><span class="line"><span class="c"># -*- coding: utf-8 -*- </span>
-      </span><span class="line"><span class="k">def</span> <span class="nf">reverse</span><span class="p">(</span><span class="n">this</span><span class="p">):</span>
-      </span><span class="line">    <span class="k">return</span> <span class="s">&#39; &#39;</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="s">&#39;&#39;</span><span class="o">.</span><span class="n">join</span><span class="p">(</span><span class="nb">list</span><span class="p">(</span><span class="n">things</span><span class="p">)[::</span><span class="o">-</span><span class="mi">1</span><span class="p">])</span> <span class="k">for</span> <span class="n">things</span> <span class="ow">in</span> <span class="n">this</span><span class="o">.</span><span class="n">split</span><span class="p">())</span>
-      </span><span class="line"><span class="n">inputz</span> <span class="o">=</span> <span class="nb">raw_input</span><span class="p">()</span>
-      </span><span class="line"><span class="k">print</span> <span class="n">reverse</span><span class="p">(</span><span class="n">inputz</span><span class="p">)</span>
-      </span>
+    #!/usr/bin/env python
+    # -*- coding: utf-8 -*- 
+    def reverse(this):
+        return ' '.join(''.join(list(things)[::-1]) for things in this.split())
+    inputz = raw_input()
+    print reverse(inputz)
+
 
 **Ejemplo:**
 
