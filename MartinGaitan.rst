@@ -1,36 +1,30 @@
-
-@``ME@
-------
-
 Email: ``gaitan AT gmail DOT com``
 
-`sobre mi`_
+* `sobre mi`_
 
-`Mi emprendimiento`_
+* github_
 
-`mi blog no geek`_
+* `Mi emprendimiento`_
 
-`mi blog algo geek`_
+* `mi blog algo geek`_
 
-`En twitter`_
+* `mi blog no geek`_
 
-`En LinkedIn`_
+* `En twitter`_ soy ``@tin_nqn_
 
--------------------------
+@ `En LinkedIn`_
 
- CategoryHomepage_
 
-.. ############################################################################
 
 .. _sobre mi: http://about.me/gaitan
 
-.. _Mi emprendimiento: http://nqnwebs.com/
+.. _github: http://github.com/mgaitan
 
 .. _mi blog no geek: http://textosypretextos.com.ar
 
 .. _mi blog algo geek: http://nqnwebs.com/blog
 
-.. _En twitter: http://twitter.com/nqnwebs
+.. _En twitter: http://twitter.com/tin_nqn_
 
 .. _En LinkedIn: http://www.linkedin.com/in/martingaitan
 
