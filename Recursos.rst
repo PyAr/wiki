@@ -1,13 +1,13 @@
+Estos son buenos recursos |smiley|
+
 .. embed:: https://www.youtube.com/watch?v=NID05AjC_V4
 
 
-Recursos
-========
+Estas son organizaciones y empresas argentinas que utilizan python regularmente de distintas formas[1]_.
+  
+ 
+.. tip:: ayudanos a pasar esta lista a la nueva sección específica de `empresas que usan python <http://python.org.ar/empresas/>`_
 
-  Estas son organizaciones y empresas argentinas que utilizan python regularmente de distintas formas[1]_.
-
-Organizaciones
---------------
 
 Atommica
 ~~~~~~~~
