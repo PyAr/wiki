@@ -16,123 +16,121 @@ Un mini space invaders usando caracteres, la nave dispara a quemarropas en una l
 
 ::
 
-   .. raw:: html
-      <span class="line"><span class="kn">import</span> <span class="nn">random</span>
-      </span><span class="line"><span class="kn">import</span> <span class="nn">time</span>
-      </span><span class="line"><span class="kn">import</span> <span class="nn">os</span>
-      </span><span class="line">
-      </span><span class="line">
-      </span><span class="line"><span class="n">ROWS</span> <span class="o">=</span> <span class="mi">14</span>
-      </span><span class="line"><span class="n">COLS</span> <span class="o">=</span> <span class="mi">16</span>
-      </span><span class="line"><span class="n">BULLET</span> <span class="o">=</span> <span class="s">&#39;.&#39;</span>
-      </span><span class="line"><span class="n">SHOTS</span> <span class="o">=</span> <span class="p">[]</span>
-      </span><span class="line"><span class="n">SCREEN</span> <span class="o">=</span> <span class="p">[]</span>
-      </span><span class="line"><span class="n">EMPTY</span> <span class="o">=</span> <span class="s">&#39; &#39;</span>
-      </span><span class="line"><span class="n">EXPLOSION</span> <span class="o">=</span> <span class="s">&#39;#&#39;</span>
-      </span><span class="line"><span class="n">SHIP</span> <span class="o">=</span> <span class="s">&#39;A&#39;</span>
-      </span><span class="line"><span class="n">BUG</span> <span class="o">=</span> <span class="s">&#39;W&#39;</span>
-      </span><span class="line">
-      </span><span class="line">
-      </span><span class="line"><span class="c">###############################################################################</span>
-      </span><span class="line"><span class="c"># Funciones del mundo</span>
-      </span><span class="line"><span class="c">###############################################################################</span>
-      </span><span class="line"><span class="k">def</span> <span class="nf">crear_mapa</span><span class="p">():</span>
-      </span><span class="line">    <span class="k">for</span> <span class="n">row</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="n">ROWS</span><span class="p">):</span>
-      </span><span class="line">        <span class="n">SCREEN</span><span class="o">.</span><span class="n">append</span><span class="p">([])</span>
-      </span><span class="line">        <span class="k">for</span> <span class="n">col</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="n">COLS</span><span class="p">):</span>
-      </span><span class="line">            <span class="n">SCREEN</span><span class="p">[</span><span class="n">row</span><span class="p">]</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">EMPTY</span><span class="p">)</span>
-      </span><span class="line">
-      </span><span class="line">
-      </span><span class="line"><span class="k">def</span> <span class="nf">mostrar_mapa</span><span class="p">():</span>
-      </span><span class="line">    <span class="k">for</span> <span class="n">row</span> <span class="ow">in</span> <span class="n">SCREEN</span><span class="p">:</span>
-      </span><span class="line">        <span class="k">for</span> <span class="n">col</span> <span class="ow">in</span> <span class="n">row</span><span class="p">:</span>
-      </span><span class="line">            <span class="k">print</span> <span class="n">col</span><span class="p">,</span>
-      </span><span class="line">        <span class="k">print</span>
-      </span><span class="line">
-      </span><span class="line">
-      </span><span class="line"><span class="k">def</span> <span class="nf">mover_disparos</span><span class="p">():</span>
-      </span><span class="line">    <span class="k">for</span> <span class="n">disparo</span> <span class="ow">in</span> <span class="n">SHOTS</span><span class="p">:</span>
-      </span><span class="line">        <span class="n">SCREEN</span><span class="p">[</span><span class="n">disparo</span><span class="p">[</span><span class="mi">0</span><span class="p">]][</span><span class="n">disparo</span><span class="p">[</span><span class="mi">1</span><span class="p">]]</span> <span class="o">=</span> <span class="n">EMPTY</span>
-      </span><span class="line">        <span class="k">if</span> <span class="n">disparo</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="o">&gt;</span> <span class="mi">0</span><span class="p">:</span>
-      </span><span class="line">            <span class="k">if</span> <span class="n">SCREEN</span><span class="p">[</span><span class="n">disparo</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="o">-</span> <span class="mi">1</span><span class="p">][</span><span class="n">disparo</span><span class="p">[</span><span class="mi">1</span><span class="p">]]</span> <span class="o">==</span> <span class="n">BUG</span><span class="p">:</span>
-      </span><span class="line">                <span class="n">SCREEN</span><span class="p">[</span><span class="n">disparo</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="o">-</span> <span class="mi">1</span><span class="p">][</span><span class="n">disparo</span><span class="p">[</span><span class="mi">1</span><span class="p">]]</span> <span class="o">=</span> <span class="n">EXPLOSION</span>
-      </span><span class="line">                <span class="k">return</span> <span class="bp">False</span>
-      </span><span class="line">            <span class="k">else</span><span class="p">:</span>
-      </span><span class="line">                <span class="n">SCREEN</span><span class="p">[</span><span class="n">disparo</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="o">-</span> <span class="mi">1</span><span class="p">][</span><span class="n">disparo</span><span class="p">[</span><span class="mi">1</span><span class="p">]]</span> <span class="o">=</span> <span class="n">BULLET</span>
-      </span><span class="line">                <span class="n">SHOTS</span><span class="o">.</span><span class="n">append</span><span class="p">((</span><span class="n">disparo</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="o">-</span> <span class="mi">1</span><span class="p">,</span> <span class="n">disparo</span><span class="p">[</span><span class="mi">1</span><span class="p">]))</span>
-      </span><span class="line">        <span class="n">SHOTS</span><span class="o">.</span><span class="n">remove</span><span class="p">(</span><span class="n">disparo</span><span class="p">)</span>
-      </span><span class="line">    <span class="k">return</span> <span class="bp">True</span>
-      </span><span class="line">
-      </span><span class="line">
-      </span><span class="line"><span class="k">def</span> <span class="nf">_mover_nave</span><span class="p">(</span><span class="n">direccion</span><span class="p">,</span> <span class="n">nave</span><span class="p">,</span> <span class="n">row</span><span class="p">):</span>
-      </span><span class="line">    <span class="k">try</span><span class="p">:</span>
-      </span><span class="line">        <span class="n">col</span> <span class="o">=</span> <span class="n">SCREEN</span><span class="p">[</span><span class="n">row</span><span class="p">]</span><span class="o">.</span><span class="n">index</span><span class="p">(</span><span class="n">nave</span><span class="p">)</span>
-      </span><span class="line">    <span class="k">except</span> <span class="ne">ValueError</span><span class="p">:</span>
-      </span><span class="line">            <span class="n">col</span> <span class="o">=</span> <span class="mi">0</span>
-      </span><span class="line">    <span class="n">SCREEN</span><span class="p">[</span><span class="n">row</span><span class="p">][</span><span class="n">col</span><span class="p">]</span> <span class="o">=</span> <span class="n">EMPTY</span>
-      </span><span class="line">    <span class="n">next_col</span> <span class="o">=</span> <span class="n">col</span> <span class="o">+</span> <span class="p">(</span><span class="mi">1</span> <span class="o">*</span> <span class="n">direccion</span><span class="p">)</span>
-      </span><span class="line">    <span class="k">if</span> <span class="n">next_col</span> <span class="o">&gt;</span> <span class="mi">15</span><span class="p">:</span>
-      </span><span class="line">        <span class="n">next_col</span> <span class="o">=</span> <span class="mi">0</span>
-      </span><span class="line">    <span class="n">SCREEN</span><span class="p">[</span><span class="n">row</span><span class="p">][</span><span class="n">next_col</span><span class="p">]</span> <span class="o">=</span> <span class="n">nave</span>
-      </span><span class="line">
-      </span><span class="line">
-      </span><span class="line"><span class="k">def</span> <span class="nf">limpiar_pantalla</span><span class="p">():</span>
-      </span><span class="line">    <span class="n">os</span><span class="o">.</span><span class="n">system</span><span class="p">([</span><span class="s">&#39;clear&#39;</span><span class="p">,</span> <span class="s">&#39;cls&#39;</span><span class="p">][</span><span class="n">os</span><span class="o">.</span><span class="n">name</span> <span class="o">==</span> <span class="s">&#39;nt&#39;</span><span class="p">])</span>
-      </span><span class="line">
-      </span><span class="line">
-      </span><span class="line"><span class="c">###############################################################################</span>
-      </span><span class="line"><span class="c"># Funciones para la nave</span>
-      </span><span class="line"><span class="c">###############################################################################</span>
-      </span><span class="line"><span class="k">def</span> <span class="nf">crear_nave</span><span class="p">():</span>
-      </span><span class="line">    <span class="n">SCREEN</span><span class="p">[</span><span class="o">-</span><span class="mi">1</span><span class="p">][</span><span class="n">random</span><span class="o">.</span><span class="n">randint</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="n">COLS</span> <span class="o">-</span> <span class="mi">1</span><span class="p">)]</span> <span class="o">=</span> <span class="n">SHIP</span>
-      </span><span class="line">
-      </span><span class="line">
-      </span><span class="line"><span class="k">def</span> <span class="nf">mover_nave</span><span class="p">():</span>
-      </span><span class="line">    <span class="k">if</span> <span class="n">random</span><span class="o">.</span><span class="n">randint</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">100</span><span class="p">)</span> <span class="o">&gt;</span> <span class="mi">50</span><span class="p">:</span>
-      </span><span class="line">        <span class="n">_mover_nave</span><span class="p">(</span><span class="o">-</span><span class="mi">1</span><span class="p">,</span> <span class="n">SHIP</span><span class="p">,</span> <span class="o">-</span><span class="mi">1</span><span class="p">)</span>
-      </span><span class="line">    <span class="k">else</span><span class="p">:</span>
-      </span><span class="line">        <span class="n">_mover_nave</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="n">SHIP</span><span class="p">,</span> <span class="o">-</span><span class="mi">1</span><span class="p">)</span>
-      </span><span class="line">
-      </span><span class="line">
-      </span><span class="line"><span class="k">def</span> <span class="nf">disparar</span><span class="p">():</span>
-      </span><span class="line">    <span class="k">if</span> <span class="n">random</span><span class="o">.</span><span class="n">randint</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">100</span><span class="p">)</span> <span class="o">&gt;</span> <span class="mi">70</span><span class="p">:</span>
-      </span><span class="line">        <span class="n">col</span> <span class="o">=</span> <span class="n">SCREEN</span><span class="p">[</span><span class="o">-</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">index</span><span class="p">(</span><span class="n">SHIP</span><span class="p">)</span>
-      </span><span class="line">        <span class="n">SCREEN</span><span class="p">[</span><span class="o">-</span><span class="mi">2</span><span class="p">][</span><span class="n">col</span><span class="p">]</span> <span class="o">=</span> <span class="n">BULLET</span>
-      </span><span class="line">        <span class="n">row</span> <span class="o">=</span> <span class="n">ROWS</span> <span class="o">-</span> <span class="mi">2</span>
-      </span><span class="line">        <span class="n">SHOTS</span><span class="o">.</span><span class="n">append</span><span class="p">((</span><span class="n">row</span><span class="p">,</span> <span class="n">col</span><span class="p">))</span>
-      </span><span class="line">
-      </span><span class="line">
-      </span><span class="line"><span class="c">###############################################################################</span>
-      </span><span class="line"><span class="c"># Funciones para el bicho</span>
-      </span><span class="line"><span class="c">###############################################################################</span>
-      </span><span class="line"><span class="k">def</span> <span class="nf">crear_bicho</span><span class="p">():</span>
-      </span><span class="line">    <span class="n">SCREEN</span><span class="p">[</span><span class="mi">0</span><span class="p">][</span><span class="n">random</span><span class="o">.</span><span class="n">randint</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="n">COLS</span> <span class="o">-</span> <span class="mi">1</span><span class="p">)]</span> <span class="o">=</span> <span class="n">BUG</span>
-      </span><span class="line">
-      </span><span class="line">
-      </span><span class="line"><span class="k">def</span> <span class="nf">mover_bicho</span><span class="p">():</span>
-      </span><span class="line">    <span class="k">if</span> <span class="n">random</span><span class="o">.</span><span class="n">randint</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">100</span><span class="p">)</span> <span class="o">&gt;</span> <span class="mi">50</span><span class="p">:</span>
-      </span><span class="line">        <span class="n">_mover_nave</span><span class="p">(</span><span class="o">-</span><span class="mi">1</span><span class="p">,</span> <span class="n">BUG</span><span class="p">,</span> <span class="mi">0</span><span class="p">)</span>
-      </span><span class="line">    <span class="k">else</span><span class="p">:</span>
-      </span><span class="line">        <span class="n">_mover_nave</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="n">BUG</span><span class="p">,</span> <span class="mi">0</span><span class="p">)</span>
-      </span><span class="line">
-      </span><span class="line">
-      </span><span class="line"><span class="k">def</span> <span class="nf">jugar</span><span class="p">():</span>
-      </span><span class="line">    <span class="n">crear_mapa</span><span class="p">()</span>
-      </span><span class="line">    <span class="n">crear_nave</span><span class="p">()</span>
-      </span><span class="line">    <span class="n">crear_bicho</span><span class="p">()</span>
-      </span><span class="line">    <span class="k">while</span> <span class="n">mover_disparos</span><span class="p">():</span>
-      </span><span class="line">        <span class="n">mover_bicho</span><span class="p">()</span>
-      </span><span class="line">        <span class="n">disparar</span><span class="p">()</span>
-      </span><span class="line">        <span class="n">mover_nave</span><span class="p">()</span>
-      </span><span class="line">        <span class="n">mostrar_mapa</span><span class="p">()</span>
-      </span><span class="line">        <span class="n">time</span><span class="o">.</span><span class="n">sleep</span><span class="p">(</span><span class="mf">0.2</span><span class="p">)</span>
-      </span><span class="line">        <span class="n">limpiar_pantalla</span><span class="p">()</span>
-      </span><span class="line">    <span class="n">limpiar_pantalla</span><span class="p">()</span>
-      </span><span class="line">    <span class="n">mostrar_mapa</span><span class="p">()</span>
-      </span><span class="line">    <span class="k">print</span> <span class="s">&quot;EL BICHO SE MURIO&quot;</span>
-      </span><span class="line">
-      </span><span class="line">
-      </span><span class="line"><span class="k">if</span> <span class="n">__name__</span> <span class="o">==</span> <span class="s">&#39;__main__&#39;</span><span class="p">:</span>
-      </span><span class="line">    <span class="n">jugar</span><span class="p">()</span>
-      </span>
+    import random
+    import time
+    import os
+
+
+    ROWS = 14
+    COLS = 16
+    BULLET = '.'
+    SHOTS = []
+    SCREEN = []
+    EMPTY = ' '
+    EXPLOSION = '#'
+    SHIP = 'A'
+    BUG = 'W'
+
+
+    ###############################################################################
+    # Funciones del mundo
+    ###############################################################################
+    def crear_mapa():
+        for row in range(0, ROWS):
+            SCREEN.append([])
+            for col in range(0, COLS):
+                SCREEN[row].append(EMPTY)
+
+
+    def mostrar_mapa():
+        for row in SCREEN:
+            for col in row:
+                print col,
+            print
+
+
+    def mover_disparos():
+        for disparo in SHOTS:
+            SCREEN[disparo[0]][disparo[1]] = EMPTY
+            if disparo[0] > 0:
+                if SCREEN[disparo[0] - 1][disparo[1]] == BUG:
+                    SCREEN[disparo[0] - 1][disparo[1]] = EXPLOSION
+                    return False
+                else:
+                    SCREEN[disparo[0] - 1][disparo[1]] = BULLET
+                    SHOTS.append((disparo[0] - 1, disparo[1]))
+            SHOTS.remove(disparo)
+        return True
+
+
+    def _mover_nave(direccion, nave, row):
+        try:
+            col = SCREEN[row].index(nave)
+        except ValueError:
+                col = 0
+        SCREEN[row][col] = EMPTY
+        next_col = col + (1 * direccion)
+        if next_col > 15:
+            next_col = 0
+        SCREEN[row][next_col] = nave
+
+
+    def limpiar_pantalla():
+        os.system(['clear', 'cls'][os.name == 'nt'])
+
+
+    ###############################################################################
+    # Funciones para la nave
+    ###############################################################################
+    def crear_nave():
+        SCREEN[-1][random.randint(0, COLS - 1)] = SHIP
+
+
+    def mover_nave():
+        if random.randint(0, 100) > 50:
+            _mover_nave(-1, SHIP, -1)
+        else:
+            _mover_nave(1, SHIP, -1)
+
+
+    def disparar():
+        if random.randint(0, 100) > 70:
+            col = SCREEN[-1].index(SHIP)
+            SCREEN[-2][col] = BULLET
+            row = ROWS - 2
+            SHOTS.append((row, col))
+
+
+    ###############################################################################
+    # Funciones para el bicho
+    ###############################################################################
+    def crear_bicho():
+        SCREEN[0][random.randint(0, COLS - 1)] = BUG
+
+
+    def mover_bicho():
+        if random.randint(0, 100) > 50:
+            _mover_nave(-1, BUG, 0)
+        else:
+            _mover_nave(1, BUG, 0)
+
+
+    def jugar():
+        crear_mapa()
+        crear_nave()
+        crear_bicho()
+        while mover_disparos():
+            mover_bicho()
+            disparar()
+            mover_nave()
+            mostrar_mapa()
+            time.sleep(0.2)
+            limpiar_pantalla()
+        limpiar_pantalla()
+        mostrar_mapa()
+        print "EL BICHO SE MURIO"
+
+
+    if __name__ == '__main__':
+        jugar()
 
