@@ -1,7 +1,3 @@
-
-Lista de Correo
-===============
-
 La lista de correo de PyAr_ está abierta a todos los interesados en Python de habla hispana.
 
 .. class:: alert alert-success
@@ -58,12 +54,11 @@ Cómo buscar en los archivos de la lista
 Hemos hablado de muchas cosas en la lista de PyAr_, si tenés un problema o una duda, antes de preguntar en la lista de PyAr_ 
 te recomendamos que uses el buscador. 
 
-Los mensajes de la lista siempre tienen el prefijo ``[pyar]`` entonces podés agregar eso a tu búsqueda.
-
+Los mensajes de la lista siempre tienen el prefijo ``[pyar]`` que podés agregar eso a tu búsqueda para acotar los resultados al archivo. 
 
 .. figure:: /wiki/ListaDeCorreo/attachment/596/buscar.png
    
-   Un ejemplo para buscar en los archivos de la lista
+   *Un ejemplo para buscar en los archivos de la lista*
 
 
 Ayuda
@@ -78,12 +73,12 @@ Ayuda
   saber las "costumbres" de la lista por aca: http://python.org.ar/pyar/EtiquetaPyAr)
 
 * Para comunicarte con los administradores de PyAr_, mandá un mensaje a 
-  ``admin AT python DOT org ar``. 
+  ``admin@python.org.ar``. 
   
   Esta es la dirección de contacto para reportar problemas con la lista o con el sitio web.
 
 * Para obtener ayuda y los comandos disponibles en la lista, 
-  mandá un mensaje a con el Asunto 'help' (sin las comillas) a ``pyar-request AT python org ar``
+  mandá un mensaje a con el Asunto 'help' (sin las comillas) a ``pyar-request@python.org.ar``
 
 
 Sobre el archivo
@@ -108,9 +103,7 @@ RSS y NNTP
 
 La lista también es accesible vía RSS y NNTP. Entrá a http://dir.gmane.org/gmane.org.user-groups.python.argentina.
 
-La suscripción esté desde el 17 de octubre de 2006.
-
-
+La suscripción está desde el 17 de octubre de 2006.
 
 .. _USLA: http://drupal.usla.org.ar/
 
