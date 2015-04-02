@@ -24,35 +24,34 @@ Archivo miservidorcom.py
 
 ::
 
-   .. raw:: html
-      <span class="line"><span class="c"># -*- coding: iso-8859-1 -*-</span>
-      </span><span class="line">
-      </span><span class="line"><span class="kn">import</span> <span class="nn">sys</span>
-      </span><span class="line">
-      </span><span class="line"><span class="k">class</span> <span class="nc">MiMiniInterpretePython</span><span class="p">:</span>
-      </span><span class="line">    <span class="n">_public_methods_</span> <span class="o">=</span> <span class="p">[</span><span class="s">&#39;Evaluar&#39;</span><span class="p">]</span>    <span class="c"># Métodos a exportar por el servidor COM</span>
-      </span><span class="line">    <span class="n">_public_attrs_</span> <span class="o">=</span> <span class="p">[</span><span class="s">&#39;Version&#39;</span><span class="p">]</span>      <span class="c"># Atributos a exportar por el servidor COM</span>
-      </span><span class="line">    <span class="n">_readonly_attrs_</span> <span class="o">=</span> <span class="n">_public_attrs_</span> <span class="c"># Atributos de solo lectura</span>
-      </span><span class="line">    <span class="n">_reg_progid_</span> <span class="o">=</span> <span class="s">&quot;MiMiniInterpretePython&quot;</span>   <span class="c"># Nombre para Crear el Objeto COM</span>
-      </span><span class="line">    <span class="c"># NUNCA copiar el siguiente ID </span>
-      </span><span class="line">    <span class="c"># Usar &quot;print pythoncom.CreateGuid()&quot; para crear uno nuevo</span>
-      </span><span class="line">    <span class="n">_reg_clsid_</span> <span class="o">=</span> <span class="s">&quot;{ECDDA31C-2999-4C77-9778-DDF75FBF81FC}&quot;</span>
-      </span><span class="line">
-      </span><span class="line">    <span class="k">def</span> <span class="nf">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
-      </span><span class="line">        <span class="c"># constructor, setear atributos:</span>
-      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">Version</span> <span class="o">=</span> <span class="n">sys</span><span class="o">.</span><span class="n">version</span>
-      </span><span class="line">   
-      </span><span class="line">    <span class="k">def</span> <span class="nf">Evaluar</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">expresion</span><span class="p">):</span>
-      </span><span class="line">        <span class="s">&quot;Evalua una expresión python y devuelve su resultado&quot;</span>
-      </span><span class="line">        <span class="k">return</span> <span class="nb">eval</span><span class="p">(</span><span class="n">expresion</span><span class="p">)</span>
-      </span><span class="line">   
-      </span><span class="line">
-      </span><span class="line"><span class="c"># Agregar código para que si este script es ejecutado por linea de comando,</span>
-      </span><span class="line"><span class="c"># por Python.exe, se auto-registre</span>
-      </span><span class="line"><span class="k">if</span> <span class="n">__name__</span><span class="o">==</span><span class="s">&#39;__main__&#39;</span><span class="p">:</span>
-      </span><span class="line">    <span class="kn">import</span> <span class="nn">win32com.server.register</span>
-      </span><span class="line">    <span class="n">win32com</span><span class="o">.</span><span class="n">server</span><span class="o">.</span><span class="n">register</span><span class="o">.</span><span class="n">UseCommandLine</span><span class="p">(</span><span class="n">MiMiniInterpretePython</span><span class="p">)</span>
-      </span>
+    # -*- coding: iso-8859-1 -*-
+
+    import sys
+
+    class MiMiniInterpretePython:
+        _public_methods_ = ['Evaluar']    # Métodos a exportar por el servidor COM
+        _public_attrs_ = ['Version']      # Atributos a exportar por el servidor COM
+        _readonly_attrs_ = _public_attrs_ # Atributos de solo lectura
+        _reg_progid_ = "MiMiniInterpretePython"   # Nombre para Crear el Objeto COM
+        # NUNCA copiar el siguiente ID 
+        # Usar "print pythoncom.CreateGuid()" para crear uno nuevo
+        _reg_clsid_ = "{ECDDA31C-2999-4C77-9778-DDF75FBF81FC}"
+
+        def __init__(self):
+            # constructor, setear atributos:
+            self.Version = sys.version
+
+        def Evaluar(self, expresion):
+            "Evalua una expresión python y devuelve su resultado"
+            return eval(expresion)
+
+
+    # Agregar código para que si este script es ejecutado por linea de comando,
+    # por Python.exe, se auto-registre
+    if __name__=='__main__':
+        import win32com.server.register
+        win32com.server.register.UseCommandLine(MiMiniInterpretePython)
+
 
 Para poder usarlo desde otros lenguajes, registrar el servidor COM ejecutando desde línea de comando:
 
@@ -105,14 +104,13 @@ Para generar una DLL o EXE y poder distribuir el servidor com sin necesidad de t
 
 ::
 
-   .. raw:: html
-      <span class="line"><span class="kn">from</span> <span class="nn">distutils.core</span> <span class="kn">import</span> <span class="n">setup</span>
-      </span><span class="line"><span class="kn">import</span> <span class="nn">py2exe</span>
-      </span><span class="line">
-      </span><span class="line"><span class="n">setup</span><span class="p">(</span> <span class="n">name</span> <span class="o">=</span> <span class="s">&quot;MiServidorCOM&quot;</span><span class="p">,</span>
-      </span><span class="line">    <span class="n">com_server</span> <span class="o">=</span> <span class="p">[</span><span class="s">&quot;miservidorcom&quot;</span><span class="p">],</span>
-      </span><span class="line">       <span class="p">)</span>
-      </span>
+    from distutils.core import setup
+    import py2exe
+
+    setup( name = "MiServidorCOM",
+        com_server = ["miservidorcom"],
+           )
+
 
 Ejecutar Py2Exe_ para crear el EXE, DLL y demás archivos de distribución (carpeta dist):
 
