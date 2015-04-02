@@ -28,6 +28,7 @@ Email: ``gaitan AT gmail DOT com``
 
 .. _charlas: http://mgaitan.github.io/charlas.html
 
+.. _Mi emprendimiento: http://phasety.com
 
 .. _En twitter: http://twitter.com/tin_nqn_
 
