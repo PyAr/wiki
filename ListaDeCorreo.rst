@@ -2,40 +2,106 @@
 Lista de Correo
 ===============
 
-La lista de correo de PyAr_ está abierta a todos los interesados en Python, y está dedicada en especial a los residentes de Argentina. **En esta lista discutimos todos los temas que tengan que ver con la promoción, difusión y temas técnicos del lenguaje de programación Python** (para otro tipo de discusiones ver la lista **pyar-bar** más abajo) y planeamos eventos especiales y la creación de contenido local.
+La lista de correo de PyAr_ está abierta a todos los interesados en Python de habla hispana.
 
-Si querés suscribirte a la lista, te pedimos por favor que primero te tomes un par de minutos para leer la EtiquetaPyAr_.
+.. class:: alert alert-success
+
+	En esta lista discutimos todos los temas que tengan que ver con la promoción, 
+	difusión y temas técnicos del lenguaje de programación Python
+
+Además de la lista principal, tenemos la lista `Pyar-bar <bar>`_ , donde los temas no necesariamente tienen que ver con Python, 
+y también la lista  `Pyar-meta <meta>`_, donde se discuten temas relativos a Python Argentina como organización, 
+como la conformación de la AsociacionCivil_
+
+Si querés suscribirte a la lista, 
+te pedimos por favor que primero te tomes un par de minutos para leer la EtiquetaPyAr_.
 
 Instrucciones para suscribirte
 ------------------------------
 
-1. Mandá un mensaje a **pyar-subscribe** AT **python** DOT **org** DOT **ar**
+La manera más simple de suscribirte a la lista es usando el formulario 
+que está en la barra de la derecha y se ve así
 
-2. Mandá tu "Hola mundo" a **pyar** AT **python** DOT **org** DOT **ar** para que todos los suscriptos a la lista aprecien tu nivel de nerdismo. :-?
+.. image:: /wiki/ListaDeCorreo/attachment/595/form_subscribe.png
+
+Te llegará un email con un link de confirmación y una vez que hagas click, ya serás parte de PyAr
+y podrás enviar tus mensajes a ``pyar@python.org.ar``
+
+**Paso Opcional** (pero muy recomendado)
+
+En PyAr tenemos la vieja tradición del *"Hola Mundo"* que ha generado algunas de las conversaciones 
+más interesantes de la lista y nos ayuda a conocer e integrar a los nuevos miembros 
+
+Tu "Hola mundo" puede ser cualquier pequeño código en Python, preferentemente divertido, acompañado
+de una breve presentación personal. 
+
+Para inspirarte podés buscar ejemplos `en el archivo <http://python.org.ar/buscador/?buscar=%22%5Bpyar%5D+hola+mundo%22>`_
 
 
-.. class:: alert alert-warning
+Cómo salirte de la lista y otras gestiones
+-------------------------------------------
 
-El paso 2. es opcional, pero muy bienvenido. Ha generado algunas de las conversaciones más interesantes de la lista...
+Podés desuscribirte desde el formulario a tal efecto que está al pie de esta página:
 
-PyAr Bar
---------
+http://listas.python.org.ar/listinfo/pyar
 
-Si querés hablar sobre otro tipo de temas con la comunidad que **no están relacionados con la promoción, difusión y temas técnicos del lenguaje de programación Python**, podés hacerlo suscribiéndote a: http://listas.python.org.ar/mailman/listinfo/pyar-bar
+Desde allí también podés solicitar una clave y acceder a un pequeño panel de administración, 
+para configurar, por ejemplo, si querés que te llegue un resumen diario de los mensajes en vez 
+de cada email que llega a la lista.  
 
-Instrucciones para salirte de la lista
---------------------------------------
+Alternativamente, podés enviar un email a ``pyar-unsubscribe@python.org.ar``
 
-Mandá un mensaje a **pyar-unsubscribe** AT **python** DOT **org** DOT **ar**
+
+Cómo buscar en los archivos de la lista
+---------------------------------------
+
+Hemos hablado de muchas cosas en la lista de PyAr_, si tenés un problema o una duda, antes de preguntar en la lista de PyAr_ 
+te recomendamos que uses el buscador. 
+
+Los mensajes de la lista siempre tienen el prefijo ``[pyar]`` entonces podés agregar eso a tu búsqueda.
+
+
+.. figure:: /wiki/ListaDeCorreo/attachment/596/buscar.png
+   
+   Un ejemplo para buscar en los archivos de la lista
+
 
 Ayuda
 -----
 
-* **¡Tengo una duda sobre Python!** ¡No hay problema! Primero podés buscar tu duda en el archivo de la lista, más abajo en la sección Buscar en los archivos de la lista te explicamos cómo :-) . En caso de que tu duda no sea resuelta por los archivos, no dudes en enviar un mail a la lista de PyAr_ (al momento de enviar un email a la lista de PyAr_, asegurate de haber leído o saber las "costumbres" de la lista por aca: http://python.org.ar/pyar/EtiquetaPyAr)
+* Tengo una duda sobre Python!
 
-* Para comunicarte con los administradores de PyAr_, mandá un mensaje a **admin** AT **python** DOT **org** DOT **ar**. Esta es la dirección de contacto para reportar problemas con la lista o con el sitio web.
+  ¡No hay problema! Primero podés buscar tu duda en el archivo de la lista (con el buscador de la derecha)
+  En caso de que tu duda no sea resuelta por los archivos, 
+  no dudes en enviar un mail a la lista de PyAr_ 
+  (al momento de enviar un email a la lista de PyAr_, asegurate de haber leído o 
+  saber las "costumbres" de la lista por aca: http://python.org.ar/pyar/EtiquetaPyAr)
 
-* Para obtener ayuda y los comandos disponibles en la lista, mandá un mensaje a con el Asunto 'help' (sin las comillas) a **pyar-request** AT **python** DOT **org** DOT **ar**
+* Para comunicarte con los administradores de PyAr_, mandá un mensaje a 
+  ``admin AT python DOT org ar``. 
+  
+  Esta es la dirección de contacto para reportar problemas con la lista o con el sitio web.
+
+* Para obtener ayuda y los comandos disponibles en la lista, 
+  mandá un mensaje a con el Asunto 'help' (sin las comillas) a ``pyar-request AT python org ar``
+
+
+Sobre el archivo
+-----------------
+
+El archivo oficial de la lista está en: http://listas.python.org.ar/pipermail/pyar/, 
+aunque solamente contiene los mensajes desde Enero 2010, 
+fecha en que se migró la lista al nuevo servicio de hosting de USLA_.
+
+Si querés ver el histórico de la lista de correo de PyAr_, te podés fijar en el archivo_.
+El archivo está subscripto recién desde el 19 de enero de 2005, 
+y la lista tiene unos 3 o 4 meses más de antigüedad. 
+Pero desde esa fecha en adelante tiene todo el historial.
+
+A partir del 17/10/2006, GMANE también está archivando nuestra lista. 
+Este archivo es accesible desde `acá`_.
+
+También hay una réplica de la lista en un grupo de Google: http://groups.google.com/group/pythonargentina
 
 RSS y NNTP
 ----------
@@ -43,44 +109,6 @@ RSS y NNTP
 La lista también es accesible vía RSS y NNTP. Entrá a http://dir.gmane.org/gmane.org.user-groups.python.argentina.
 
 La suscripción esté desde el 17 de octubre de 2006.
-
-Archivo
--------
-
-El archivo oficial de la lista está en: http://listas.python.org.ar/pipermail/pyar/, aunque solamente contiene los mensajes desde Enero 2010, fecha en que se migró la lista al nuevo servicio de hosting de USLA_.
-
-Si querés ver el histórico de la lista de correo de PyAr_, te podés fijar en el archivo_. El archivo está subscripto recién desde el 19 de enero de 2005, y la lista tiene unos 3 o 4 meses más de antigüedad. Pero desde esa fecha en adelante tiene todo el historial.
-
-A partir del 17/10/2006, GMANE también está archivando nuestra lista. Este archivo es accesible desde `acá`_.
-
-También hay una réplica de la lista en un grupo de Google: http://groups.google.com/group/pythonargentina
-
-
-
-
-.. No borrar!!! Sirve para linkear desde http://listas.python.org.ar/listinfo/pyar
-
-.. _Busqueda:
-
-.. No borrar!!!
-
-Buscar en los archivos de la lista
-----------------------------------
-
-Hemos hablado de muchas cosas en la lista de PyAr_, si tenés un problema o una duda, antes de preguntar en la lista de PyAr_ te recomendamos que busques en el archivo de la lista. Podés hacerlo al menos de estas formas:
-
-* http://blog.gmane.org/gmane.org.user-groups.python.argentina (vas a ver una parte que dice **Search Archive**)
-
-* Utilizando Google_ con el comando **site:**, por ejemplo, si busco servicios de *hosting* para Python puedo hacer una búsqueda del tipo:
-
-  hosting site:listas.python.org.ar/pipermail/pyar/
-
-  Donde le decimos a Google que busque la palabra 'hosting' solamente en el sitio del archivo de las listas: http://listas.python.org.ar/pipermail/pyar/ .
-
-
--------------------------
-
-.. ############################################################################
 
 
 
