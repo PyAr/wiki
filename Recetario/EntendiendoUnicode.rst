@@ -37,9 +37,8 @@ Entonces, tamos listoso0 con la nomenclatura: ``unicode`` para bichos Unicode y 
 
 ::
 
-   .. raw:: html
-      <span class="line"><span class="n">a</span><span class="o">=</span> <span class="s">u&#39;Aló mundo!&#39;</span>
-      </span>
+    a= u'Aló mundo!'
+
 
 El source también existe, y está encodeado
 ==========================================
@@ -48,9 +47,8 @@ El source también existe, y está encodeado
 
 ::
 
-   .. raw:: html
-      <span class="line"><span class="c"># -*- coding: utf-8 -*-</span>
-      </span>
+    # -*- coding: utf-8 -*-
+
 
 Ver también:
 
