@@ -6,23 +6,22 @@ Chequeo de Paquetes con APT
 
 ::
 
-   .. raw:: html
-      <span class="line"><span class="c">#!/usr/bin/env python</span>
-      </span><span class="line"><span class="c"># -*- coding: utf-8 -*-</span>
-      </span><span class="line"><span class="c">#</span>
-      </span><span class="line"><span class="kn">import</span> <span class="nn">apt</span>
-      </span><span class="line"><span class="c">#</span>
-      </span><span class="line"><span class="n">cache</span> <span class="o">=</span> <span class="n">apt</span><span class="o">.</span><span class="n">Cache</span><span class="p">()</span>
-      </span><span class="line"><span class="n">cache</span><span class="o">.</span><span class="n">open</span><span class="p">()</span>
-      </span><span class="line"><span class="n">program</span> <span class="o">=</span> <span class="nb">raw_input</span><span class="p">(</span><span class="s">&#39; Cual es el nombre del programa?: &#39;</span><span class="p">)</span>
-      </span><span class="line"><span class="k">if</span> <span class="n">program</span> <span class="ow">in</span> <span class="n">cache</span><span class="p">:</span>
-      </span><span class="line">    <span class="k">if</span> <span class="n">cache</span><span class="p">[</span><span class="n">program</span><span class="p">]</span><span class="o">.</span><span class="n">is_installed</span><span class="p">:</span>
-      </span><span class="line">        <span class="k">print</span> <span class="p">(</span><span class="s">&#39; El programa esta instalado!</span><span class="se">\n</span><span class="s">&#39;</span><span class="p">)</span>
-      </span><span class="line">    <span class="k">else</span><span class="p">:</span>
-      </span><span class="line">        <span class="k">print</span> <span class="p">(</span><span class="s">&#39; El programa no esta instalado!</span><span class="se">\n</span><span class="s">&#39;</span><span class="p">)</span>
-      </span><span class="line"><span class="k">else</span><span class="p">:</span>
-      </span><span class="line">    <span class="k">print</span> <span class="p">(</span><span class="s">&#39; Estas seguro del Nombre del programa?, el programa no existe!</span><span class="se">\n</span><span class="s">&#39;</span><span class="p">)</span>
-      </span>
+    #!/usr/bin/env python
+    # -*- coding: utf-8 -*-
+    #
+    import apt
+    #
+    cache = apt.Cache()
+    cache.open()
+    program = raw_input(' Cual es el nombre del programa?: ')
+    if program in cache:
+        if cache[program].is_installed:
+            print (' El programa esta instalado!\n')
+        else:
+            print (' El programa no esta instalado!\n')
+    else:
+        print (' Estas seguro del Nombre del programa?, el programa no existe!\n')
+
 
 **Ejemplo:**
 
