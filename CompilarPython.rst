@@ -4,7 +4,7 @@ Acá hay una breve explicación para compilar python desde su código fuente
 Compilando Py3k
 ---------------
 
-Para compilar primero tenemos descargar las fuentes desde el repositorio, para eso debemos tener un cliente de subversion ("sudo aptitude install subversion" en linux basados en debian)
+Para compilar primero tenemos que descargar las fuentes desde el repositorio. Para eso, debemos tener un cliente de subversion ("sudo aptitude install subversion" en linux basados en debian)
 
 el comando que hay que correr es el siguiente
 
@@ -13,9 +13,9 @@ el comando que hay que correr es el siguiente
     svn co http://svn.python.org/projects/python/branches/py3k/
 
 
-luego debemos tener instalados los archivos de desarrollo para poder tener habilitados algunos modulos de python, si no los instalamos, esos modulos no van a estar disponibles.
+luego debemos tener instalados los archivos de desarrollo para poder tener habilitados algunos módulos de Python; si no los instalamos, esos módulos no van a estar disponibles.
 
-la lista con los nombres en linux basados en debian es:
+La lista con los nombres en linux basados en debian es:
 
 * build-essential
 
@@ -37,7 +37,7 @@ la lista con los nombres en linux basados en debian es:
 
 * libdb-dev
 
-luego de instalar todas las librerías debemos correr los siguientes comandos
+Luego de instalar todas las librerías debemos correr los siguientes comandos:
 
 ::
 
@@ -47,9 +47,9 @@ luego de instalar todas las librerías debemos correr los siguientes comandos
     sudo make install
 
 
-si todo salio en orden, ahora podemos usar python 3.
+Si todo salió bien, ahora podemos usar python 3.
 
-podemos probar corriendo el comando python3.0 en la consola
+Podemos probar corriendo el comando python3.0 en la consola:
 
 ::
 
@@ -60,7 +60,7 @@ podemos probar corriendo el comando python3.0 en la consola
     >>> 
 
 
-cada vez que queramos actualizar al código mas nuevo en el repositorio, debemos hacer lo siguiente
+Cada vez que queramos actualizar al código más nuevo en el repositorio, debemos hacer lo siguiente:
 
 ::
 
@@ -70,12 +70,12 @@ cada vez que queramos actualizar al código mas nuevo en el repositorio, debemos
     sudo make install
 
 
-Como armar un paquete DEB de Python
+Cómo armar un paquete DEB de Python
 ===================================
 
 A veces es necesario armar un paquete para facilitar la instalación/desinstalación y pruebas en distintas máquinas.
 
-Aquí un ejemplo de como hacerlo para Debian o Ubuntu (bajando py3k):
+Aquí un ejemplo de cómo hacerlo para Debian o Ubuntu (bajando py3k):
 
 Bajamos y descomprimimos (en este caso, por SVN):
 
