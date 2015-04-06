@@ -17,6 +17,10 @@ Trabajos en Python
 
 Los interesados por favor enviar CV a `fernando@ibillionaire.me`_
 
+Acerca de iBillionaire:
+iBillionaire da acceso a las estrategias de inversion de los exitosos billionarios.Nuestra mision es ayudar a las personas a ser mejores inversores aprendiendo y siguiendo a los billionarios.
+Nuestra vision es que se puede seguir e invertir como los billionarios y que cada dia mas estas decisiones de inversion van hacerse desde el telefono movil.
+
 * Estamos buscando un programador con experiencia sólida en Python y Django. Un gran plus es tener experiencia con git, django-rest-framework, y jquery/javascript (o AngularJS).
 
 Es para un proyecto concreto. En otras palabras se trata de una locación de obra por tres a seis meses.
