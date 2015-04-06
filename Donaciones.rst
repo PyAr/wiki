@@ -17,7 +17,9 @@ Las donaciones realizadas a PyAr_ seran utilizadas para promover el lenguaje en 
 DineroMail
 ----------
 
-**De Argentina y otros paises de latinoamérica** `DineroMail()`_
+.. raw:: html
+
+   <iframe src="https://ar.dineromail.com/Landing/Index.aspx" width="80%" height="400px" />
 
 -------------------------
 
