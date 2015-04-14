@@ -1,7 +1,4 @@
 
-Nicolás Demarchi
-----------------
-
 Email: **mail** AT **gilgamezh** DOT **me**
 
 Blog: http://gilgamezh.me/blog
@@ -10,7 +7,7 @@ Actualmente vivo en CABA y trabajo en sistemas desde el Y2K. Sysadmin/WebOps/SRE
 
 Estuve muchos años de 'oyente' en la lista de PyAr_ y desde el 2013 estoy participando activamente en todo lo que mi tiempo libre me permite.
 
-Trabajo_ en el equipo de Operaciones de CMD (clarin global). Participo en el proyecto TouchAndGo_ y picoteo en otros `varios de PyAr`_ (likode, pyarweb, fades).
+Trabajo_ como SysAdmin en el Instituto de Astronomía y Física del Espacio. Participo en los proyectos TouchAndGo_, Fades_ y picoteo en otros `varios de PyAr`_ 
 
 También estoy participando con pequeños aportes a la formación de la asociación civil Python Argentina.
 
@@ -20,6 +17,8 @@ También estoy participando con pequeños aportes a la formación de la asociaci
 .. _Trabajo: http://gilgamezh.me/blog/stories/resume.html
 
 .. _TouchAndGo: https://github.com/touchandgo-devs/touchandgo
+
+.. _Fades: https://github.com/PyAr/fades
 
 .. _varios de PyAr: https://github.com/PyAr
 
