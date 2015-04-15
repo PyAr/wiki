@@ -31,11 +31,6 @@ Nos reunimos varios dias para trabajar en distintos proyectos de software libre 
 .. [2]  El concepto de sprint está explicado aquí: `PreguntasFrecuentes#que-es-un-sprint`_
 
 
-.. _Reuniones PyAr: Reuniones
-
-.. _Sprints: Sprints
-
-.. _Conferencias: Conferencias
 
 .. _vieja wiki: http://old.python.org.ar/Eventos
 
