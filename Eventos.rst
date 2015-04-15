@@ -16,7 +16,7 @@ Son las reuniones que hacemos los miembros de PyAr_ para planificar y realizar a
 
 Pretendemos realizar sesiones de desarrollo para proyectos que nos llamen la atención, como un evento social y de mejora para el software (libre) argentino. 
 
-* Eventos/Conferencias_
+* `Conferencias <Eventos/Conferencias`_
 
 Participamos en eventos de Software Libre con temas concernientes a Python.
 
