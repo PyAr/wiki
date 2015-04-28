@@ -4,6 +4,7 @@
    Gran parte del contenido actual es el resultado de una migración desde el sistema 
    MoinMoin que usábamos antes. Si bien el resultado es satisfactorio, el restructuredtext obtenido necesita 
    algunas correcciones manuales.
+   
 ======
 Indice
 ======
