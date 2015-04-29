@@ -114,6 +114,8 @@ Disponibles
 
 * `Rafael E. Ferrero`_ (web,Django, Python en general, linux, diseño de software, sistemas administrativos-contables, administración de servidores).
 
+* Francisco Chiarilgione (Python, web frameworks(Django, Flask))
+
 Asignados
 ~~~~~~~~~
 
