@@ -13,7 +13,7 @@ Debemos subir activamente en esta iniciativa a la comunidad académica, no solo 
 
 Asimismo debemos sumar a la comunidad empresaria, para que entiendan el alcance y las posibilidades reales, con casos concretos, que brinda Python. El día de mañana necesitaremos de las empresas para generar oportunidades de desarrollo laboral y profesional y el momento de involucrarlos puede ser desde ahora mismo.
 
-El año pasado organizamos nuestro primer PyDay Mendoza, con más de 120 participantes, y muchos y muy buenos speakers locales como el caso de Juan Jo Ciarlante, y otros  extranjeros como Daniel Greenfeld (pydanny) y Pat Poels, VP of Engineering en Eventbrite.
+El año pasado organizamos nuestro primer PyDay Mendoza, con más de 120 participantes, y muchos y muy buenos speakers locales como el caso de JuanJo Ciarlante, y otros  extranjeros como Daniel Greenfeld (pydanny) y Pat Poels, VP of Engineering en Eventbrite.
 
 En fin, realmente crear (o impulsar) una comunidad requiere de la voluntad y el esfuerzo común de un grupo de gente con un objetivo compartido, y hoy podemos comenzar a hacerlo realidad juntos.
 
@@ -55,7 +55,7 @@ Aspectos generales del evento
 Logística
 ~~~~~~~~~~~
 
-- Alojamiento: Tenemos la idea de cerrar acuerdos con dos o tres lugares para tener no solo disponiblidad sino tbien tarifas especiales para el evento, para que cada uno que venga tenga la opción más adecuada a sus requerimientos/posibilidades,
+- Alojamiento: Tenemos la idea de cerrar acuerdos con dos o tres lugares para tener no solo disponiblidad sino también tarifas especiales para el evento, para que cada uno que venga tenga la opción más adecuada a sus requerimientos/posibilidades,
 
 - Transporte: Del mismo modo, tenemos la idea de conversar con dos empresas de omnibus (Andesmar y otr más) para que podamos tener algunos charters desde BsAs (y eventualmente otras ciudades dependiendo del nro de gente) para abaratar y simplificar la logisitica de transporte
 
