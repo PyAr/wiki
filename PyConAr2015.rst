@@ -13,14 +13,14 @@ Debemos subir activamente en esta iniciativa a la comunidad académica, no solo 
 
 Asimismo debemos sumar a la comunidad empresaria, para que entiendan el alcance y las posibilidades reales, con casos concretos, que brinda Python. El día de mañana necesitaremos de las empresas para generar oportunidades de desarrollo laboral y profesional y el momento de involucrarlos puede ser desde ahora mismo.
 
-El año pasado organizamos nuestro primer PyDay Mendoza, con más de 120 participantes, y muchos y muy buenos speakers locales como el caso de JuanJo Ciarlante, y otros  extranjeros como Daniel Greenfeld (pydanny) y Pat Poels, VP of Engineering en Eventbrite.
+El año pasado organizamos nuestro primer PyDay Mendoza, con más de 120 participantes, y muchos y muy buenos speakers locales como el caso de `JuanJo Ciarlante`_, y otros  extranjeros como `Daniel Greenfeld (pydanny)`_ y `Pat Poels`_, VP of Engineering en Eventbrite.
 
 En fin, realmente crear (o impulsar) una comunidad requiere de la voluntad y el esfuerzo común de un grupo de gente con un objetivo compartido, y hoy podemos comenzar a hacerlo realidad juntos.
 
 ¿Qué necesitamos para que suceda?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Como toda iniciativa de este tipo, se requiere de mucho apoyo económico, logístico y humano para que suceda. En ese contexto en estas pocas semanas conseguimos:
+Como toda iniciativa de este tipo, se requiere de mucho apoyo económico, logístico y humano. En ese contexto en estas pocas semanas conseguimos:
 
 -	Apoyo de Universidades: Universidades de Mendoza nos apoyan para que esta inicitiva suceda aquí.
 
@@ -28,7 +28,7 @@ Como toda iniciativa de este tipo, se requiere de mucho apoyo económico, logís
 
 -	Apoyo económico: Además de los sponsors con los que PyConAr afortunadamente siempre cuenta, convencimos a Eventbrite, que ha sido sponsor platinum en las últimas tres ediciones de PyCon USA, nos apoyará desde San Francisco con los recursos económicos necesarios para realizar el evento.
 
--	Speakers nacionales e internacionales: Pudimos hablar en PyConAr 2014 con mucha gente muy interesada en venir a dar charlas a Mendoza! Además varios speakers extranjeros (algunos de ellos, como `Simon Willison`_,  hablaron el año pasado en PyCon 2014 en Montreal) nos dieran su ok para venir a Mendoza (ver lista de los que ya hemos contactado más abajo).
+-	Speakers nacionales e internacionales: Pudimos hablar en PyConAr 2014 con mucha gente muy interesada en venir a dar charlas a Mendoza! Además varios speakers extranjeros (algunos de ellos, como `Simon Willison`_,  hablaron el año pasado en PyCon 2014 en Montreal) nos dieran su ok para venir a Mendoza.
 
 Conseguimos los recursos materiales y logísticos, pero nos falta lo más importante: el apoyo de la comunidad PyAr para darle un gran contenido al evento.
 
@@ -68,3 +68,9 @@ Como dijimos, tenemos las ganas, energía y soporte para que el evento ocurra, p
 .. _`Espacio Julio LeParc`: https://www.google.com.ar/search?q=Espacio+Julio+Le+Parc&espv=2&biw=1649&bih=885&source=lnms&tbm=isch&sa=X&ei=kDNCVfq3EeXHsQTcpIHgDQ&ved=0CAYQ_AUoAQ&dpr=1
 
 .. _`Simon Willison`: http://en.wikipedia.org/wiki/Simon_Willison
+
+.. _`Pat Poels`: http://en.wikipedia.org/wiki/Pat_Poels
+
+.. _`Daniel Greenfeld (pydanny)`: http://www.pydanny.com/
+
+.. _`JuanJo Ciarlante`: https://www.youtube.com/watch?v=RoXoerNW3zY
