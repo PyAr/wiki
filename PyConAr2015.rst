@@ -28,7 +28,7 @@ Como toda iniciativa de este tipo, se requiere de mucho apoyo económico, logís
 
 -	Apoyo económico: Además de los sponsors con los que PyConAr afortunadamente siempre cuenta, convencimos a Eventbrite, que ha sido sponsor platinum en las últimas tres ediciones de PyCon USA, nos apoyará desde San Francisco con los recursos económicos necesarios para realizar el evento.
 
--	Speakers nacionales e internacionales: Pudimos hablar en PyConAr 2014 con mucha gente muy interesada en venir a dar charlas a Mendoza! Además varios speakers extranjeros (algunos de ellos hablaron el año pasado en PyCon 2014 en Montreal) nos dieran su ok para venir a Mendoza (ver lista de los que ya hemos contactado más abajo).
+-	Speakers nacionales e internacionales: Pudimos hablar en PyConAr 2014 con mucha gente muy interesada en venir a dar charlas a Mendoza! Además varios speakers extranjeros (algunos de ellos, como `Simon Willison`_,  hablaron el año pasado en PyCon 2014 en Montreal) nos dieran su ok para venir a Mendoza (ver lista de los que ya hemos contactado más abajo).
 
 Conseguimos los recursos materiales y logísticos, pero nos falta lo más importante: el apoyo de la comunidad PyAr para darle un gran contenido al evento.
 
@@ -66,3 +66,5 @@ Como dijimos, tenemos las ganas, energía y soporte para que el evento ocurra, p
 .. _`Nave Cultural Mendoza`: https://www.google.com.ar/search?q=nave+cultural+mendoza&espv=2&biw=1649&bih=885&source=lnms&tbm=isch&sa=X&ei=LTNCVfHdNerksATB6YC4Bg&ved=0CAYQ_AUoAQ
 
 .. _`Espacio Julio LeParc`: https://www.google.com.ar/search?q=Espacio+Julio+Le+Parc&espv=2&biw=1649&bih=885&source=lnms&tbm=isch&sa=X&ei=kDNCVfq3EeXHsQTcpIHgDQ&ved=0CAYQ_AUoAQ&dpr=1
+
+.. _`Simon Willison`: http://en.wikipedia.org/wiki/Simon_Willison
