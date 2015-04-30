@@ -57,7 +57,7 @@ Logística
 
 - Alojamiento: Tenemos la idea de cerrar acuerdos con dos o tres lugares para tener no solo disponiblidad sino también tarifas especiales para el evento, para que cada uno que venga tenga la opción más adecuada a sus requerimientos/posibilidades,
 
-- Transporte: Del mismo modo, tenemos la idea de conversar con dos empresas de omnibus (Andesmar y otr más) para que podamos tener algunos charters desde BsAs (y eventualmente otras ciudades dependiendo del nro de gente) para abaratar y simplificar la logisitica de transporte
+- Transporte: Del mismo modo, tenemos la idea de conversar con dos empresas de omnibus (Andesmar y otra más) para que podamos tener algunos charters desde BsAs (y eventualmente otras ciudades dependiendo del nro de gente) para abaratar y simplificar la logisitica de transporte
 
 Como dijimos, tenemos las ganas, energía y soporte para que el evento ocurra, pero necesitamos de ustedes para darle vida. Y eso empieza desde el armado del contenido: charlas, keynotes, sprints y talleres.
 
