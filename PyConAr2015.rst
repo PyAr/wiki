@@ -15,6 +15,10 @@ Asimismo debemos sumar a la comunidad empresaria, para que entiendan el alcance 
 
 El año pasado organizamos nuestro primer PyDay Mendoza, con más de 120 participantes, y muchos y muy buenos speakers locales como el caso de `JuanJo Ciarlante`_, y otros  extranjeros como `Daniel Greenfeld (pydanny)`_ y `Pat Poels`_, VP of Engineering en Eventbrite.
 
+Sabemos que Mendoza tiene una gran cantidad y calidad de programadores, devops, sysadmins y es una gran oportunidad para demostrarlo.
+
+Y porque todos deberían darse el gusto de conocer Mendoza y más en `invierno`_...
+
 En fin, realmente crear (o impulsar) una comunidad requiere de la voluntad y el esfuerzo común de un grupo de gente con un objetivo compartido, y hoy podemos comenzar a hacerlo realidad juntos.
 
 ¿Qué necesitamos para que suceda?
@@ -22,7 +26,7 @@ En fin, realmente crear (o impulsar) una comunidad requiere de la voluntad y el 
 
 Como toda iniciativa de este tipo, se requiere de mucho apoyo económico, logístico y humano. En ese contexto en estas pocas semanas conseguimos:
 
--	Apoyo de Universidades: Universidades de Mendoza nos apoyan para que esta inicitiva suceda aquí.
+-	Apoyo de Universidades: Universidades de Mendoza nos apoyan para que esta inicitiva suceda aquí. Universidad de Mendoza, UTN, Universidad del Aconcagua, etc.
 
 -	Apoyo gubernamental: Comenzamos las conversaciones con el Gobierno provincial para contar con su apoyo institucional y que nos facilite alguno de los venues, cosa que está muy cerca de concretarse.
 
@@ -63,9 +67,9 @@ Como dijimos, tenemos las ganas, energía y soporte para que el evento ocurra, p
 
 .. ############################################################################
 
-.. _`Nave Cultural Mendoza`: https://www.google.com.ar/search?q=nave+cultural+mendoza&espv=2&biw=1649&bih=885&source=lnms&tbm=isch&sa=X&ei=LTNCVfHdNerksATB6YC4Bg&ved=0CAYQ_AUoAQ
+.. _`Nave Cultural Mendoza`: https://www.google.com.ar/search?q=nave+cultural+mendoza&espv=2&biw=1649&bih=885&source=lnms&tbm=isch&sa=X
 
-.. _`Espacio Julio LeParc`: https://www.google.com.ar/search?q=Espacio+Julio+Le+Parc&espv=2&biw=1649&bih=885&source=lnms&tbm=isch&sa=X&ei=kDNCVfq3EeXHsQTcpIHgDQ&ved=0CAYQ_AUoAQ&dpr=1
+.. _`Espacio Julio LeParc`: https://www.google.com.ar/search?q=Espacio+Julio+Le+Parc&espv=2&biw=1649&bih=885&source=lnms&tbm=isch&sa=X
 
 .. _`Simon Willison`: http://en.wikipedia.org/wiki/Simon_Willison
 
@@ -74,3 +78,7 @@ Como dijimos, tenemos las ganas, energía y soporte para que el evento ocurra, p
 .. _`Daniel Greenfeld (pydanny)`: http://www.pydanny.com/
 
 .. _`JuanJo Ciarlante`: https://www.youtube.com/watch?v=RoXoerNW3zY
+
+.. _`invierno`: https://www.google.com.ar/search?q=mendoza+invierno&espv=2&biw=1649&bih=885&source=lnms&tbm=isch&sa=X
+
+
