@@ -50,7 +50,7 @@ Tkinter
 
   * Apariencia "extraña" (no se parece a las aplicaciones nativas) **
 
-Nota **: cabe aclarar que las ultimas versiones de TCL/TK mejoran varios de estos puntos, dibujando con las funciones nativas de la plataforma, lo que acelera y mejora la apariencia.
+Nota \**: cabe aclarar que las ultimas versiones de TCL/TK mejoran varios de estos puntos, dibujando con las funciones nativas de la plataforma, lo que acelera y mejora la apariencia.
 
 WxPython
 ::::::::
