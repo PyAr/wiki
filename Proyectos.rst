@@ -6,7 +6,19 @@ Juegos_ de PyAr_.
 Proyectos PyAr
 --------------
 
+Proyectos donde puedes colaborar
+================================
+
+Estos son los proyectos de PyAr_ a los cuales podes contactar si tenes ganas
+de colaborar en un proyecto de software libre:
+
+* `PrimerProyecto`_
+
+* `SegundoProyecto`_
+
+
 Estos son los proyectos encarados *institucionalmente* por PyAr_:
+=================================================================
 
 * `GauchitoGil`_
 
