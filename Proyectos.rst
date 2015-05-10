@@ -9,7 +9,7 @@ Proyectos PyAr
 Proyectos donde puedes colaborar
 ================================
 
-Estos son los proyectos de PyAr_ a los cuales podes contactar si tenes ganas
+Estos son los proyectos de PyAr_ a los cuales puedes contactar si tenes ganas
 de colaborar en un proyecto de software libre:
 
 * `PrimerProyecto`_
