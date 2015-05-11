@@ -98,6 +98,10 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 * Tubes_
 
   * Pequeña librería para hacer APIs REST y aplicaciones web basado en Werkzeug_
+  
+* chorde_
+
+  * Framework de cacheo funcional (de funciones, no páginas) para sistemas distribuidos complejos.
 
 * PyAfipWs_ `código fuente`_
 
@@ -453,4 +457,4 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 .. _virtualenvwrapper docs: https://bitbucket.org/humitos/virtualenvwrapper-docs-es
 
-
+.. _chorde: https://bitbucket.org/claudiofreire/chorde/
