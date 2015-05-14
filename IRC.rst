@@ -25,4 +25,4 @@ O podés entrar al canal directamente desde aquí:
 
 .. raw:: html
 
-   <iframe src="https://kiwiirc.com/client/irc.kiwiirc.com/#pyar" style="border:0; width:100%; height:450px;"></iframe>
+   <iframe src="https://kiwiirc.com/client/freenode/#pyar" style="border:0; width:100%; height:450px;"></iframe>
