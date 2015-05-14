@@ -17,3 +17,12 @@ Archivo de IRC
 
 La actividad diaria del canal IRC se guarda y está indexada en nuestro buscador. 
 Si querés ver una fecha específicia, podés navegar desde esta web  http://irclogger.com/.pyar/
+
+Cliente IRC
+-----------
+
+O podés entrar al canal directamente desde aquí:
+
+.. raw:: html
+
+   <iframe src="https://kiwiirc.com/client/irc.kiwiirc.com/#your_channel" style="border:0; width:100%; height:450px;"></iframe>
