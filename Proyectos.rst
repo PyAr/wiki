@@ -91,14 +91,6 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
   * Proyecto experimental sobre música y creatividad artificial
 
-* Emesene_
-
-  * Cliente de mensajería instantánea multiplataforma compatible con la red MSN de microsoft
-
-* Tubes_
-
-  * Pequeña librería para hacer APIs REST y aplicaciones web basado en Werkzeug_
-  
 * chorde_
 
   * Framework de cacheo funcional (de funciones, no páginas) para sistemas distribuidos complejos.
@@ -304,6 +296,10 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 * `virtualenvwrapper docs`_
 
   * Traducción al Español de la documentación de "virtualenvwrapper"
+  
+* `rst2html5`_
+
+  * Herramienta extensible para crear documentos HTML5 como presentaciones o paginas web
 
 -------------------------
 
@@ -319,12 +315,6 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 
 .. _oveja eléctrica: http://yaco.net/oe/
-
-.. _Emesene: http://www.emesene.org
-
-.. _Tubes: http://a-series-of-tubes.appspot.com/
-
-.. _Werkzeug: http://werkzeug.pocoo.org/
 
 .. _PyAfipWs: http://www.pyafipws.com.ar/
 
@@ -458,3 +448,5 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 .. _virtualenvwrapper docs: https://bitbucket.org/humitos/virtualenvwrapper-docs-es
 
 .. _chorde: https://bitbucket.org/claudiofreire/chorde/
+
+.. _rst2html5: https://github.com/marianoguerra/rst2html5/
