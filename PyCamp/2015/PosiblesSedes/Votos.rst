@@ -39,6 +39,8 @@ La Bolsa, Córdoba
 
 * Matías Barriento (+ magia)
 
+* Matías Varela (confirmo cuando se sepa la fecha)
+
 Chascomús, Buenos Aires
 -----------------------
 
