@@ -28,11 +28,11 @@ Video
 
 Video que se uso para presentar a PyAr_ en PyCon_ (USA) 2012
 
-* **mirror** Bitbucket_ (también están las "fuentes" del video en el repo mercurial)
+* **mirror** `Bitbucket <https://bitbucket.org/leliel12/video_pyconar_2012/downloads>`_ (también están las "fuentes" del video en el repo mercurial)
 
-* Ver online en Animoto_
+* Ver online en `Animoto <http://animoto.com/play/Uiqk9VQDUSDL0wIa3oMLKQ>`_
 
-* Ver online en Youtube_
+* Ver online en `Youtube <http://bit.ly/1dMsCrA>`_
 
 
 Carteles para las 8JRSL
