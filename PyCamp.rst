@@ -124,17 +124,17 @@ Blogpost sobre Pycamps
 
 .. _CDpedia: http://code.google.com/p/cdpedia/
 
-.. _Los Cocos, Córdoba. Marzo de 2009: /2009
+.. _Los Cocos, Córdoba. Marzo de 2009: /PyCamp/2009
 
-.. _Veronica, Buenos Aires. Marzo de 2010: /2010
+.. _Veronica, Buenos Aires. Marzo de 2010: /PyCamp/2010
 
-.. _La Falda, Córdoba. Marzo de 2011: /2011
+.. _La Falda, Córdoba. Marzo de 2011: /PyCamp/2011
 
-.. _Veronica, Buenos Aires. Julio de 2012: /2012
+.. _Veronica, Buenos Aires. Julio de 2012: /PyCamp/2012
 
-.. _Villa Giardino, Córdoba. Junio de 2013: /2013
+.. _Villa Giardino, Córdoba. Junio de 2013: /PyCamp/2013
 
-.. _Villa Giardino, Córdoba. Marzo de 2014: /2014
+.. _Villa Giardino, Córdoba. Marzo de 2014: /PyCamp/2014
 
 
 
