@@ -70,7 +70,10 @@ Hay un límite máximo de 40 (como mucho 45) camas entre ambas hosterías.
 Inscripciones:
 --------------
 
-  * Pre inscripción: por favor carga tus datos acá: http://goo.gl/MpS7Zk
+  * Pre inscripción:
+  
+    - la cantidad de inscriptos actuales ya supera las capacidades de alojamiento.
+    - Para entrar en una **lista de espera**, por favor carga tus datos acá: http://goo.gl/MpS7Zk y nos comunicaremos con vos si surge el lugar.
   * Para quedar finalmente inscripto hace falta efectuar el pago (No está claro aún cuándo ni cómo)
   * Recibos o Facturas: Pueden conseguirse facturas de Monotributista por algunos conceptos. Aún falta averiguar más detalles.
 
