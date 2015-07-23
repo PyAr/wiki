@@ -94,4 +94,4 @@ Organizadores:
 Proyectos Propuestos:
 ------------------------
 
-* **Juegos, Realidad Virtual y otras cosas:** El objetivo de esta actividad es tratar de armar algo utilizando Oculus, LeapMotion, Kinect, Controles y patineta de Xbox, y cualquier cosa que pinte combinar para la idea que se decida realizar junto a los interesados despues de algun brainstorming el primer dia. Obviamente por los dispositivos a usar, el objetivo esta orientado a tratar de crear algun juego o alguna experiencia particular. DISCLAIMER: No se va a usar Python, sino C# utilizando el Engine de Unity3D.
+* **Juegos, Realidad Virtual y otras cosas:** El objetivo de esta actividad es tratar de armar algo utilizando Oculus, LeapMotion, Kinect, Controles y patineta de Xbox, y cualquier cosa que pinte combinar para la idea que se decida realizar junto a los interesados despues de algun brainstorming el primer dia. Obviamente por los dispositivos a usar, el objetivo esta orientado a tratar de crear algun juego o alguna experiencia particular. DISCLAIMER: No se va a usar Python, sino C# utilizando el Engine de Unity3D. (Propone actividad: Gatox)
