@@ -116,7 +116,7 @@ Blogpost sobre Pycamps
 .. ############################################################################
 
 
-.. _aqui: /QueSeHace
+.. _aqui: /wiki/PyCamp/QueSeHace
 
 .. _Cocos2d: http://cocos2d.org/
 
