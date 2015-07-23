@@ -94,6 +94,5 @@ Organizadores:
 Proyectos Propuestos:
 ------------------------
 
-<<<<<<< HEAD
 Ver `aqui </wiki/PyCampActividades>`_
 
