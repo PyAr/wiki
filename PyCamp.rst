@@ -33,9 +33,8 @@ En cada PyCamp se realizan una serie de proyectos que son decididos por los part
 Proxima edición
 ---------------
 
-.. La próxima edición [[PyCamp/2014|está en marcha]], pendiente de suficientes confirmaciones.
+La próxima edición está en marcha_
 
-Suponemos que en el 2015, pero todavía no hay nada planeado.
 
 Ediciones anteriores
 --------------------
@@ -117,6 +116,8 @@ Blogpost sobre Pycamps
 
 
 .. _aqui: /wiki/PyCamp/QueSeHace
+
+.. _marcha: /wiki/PyCamp/2015
 
 .. _Cocos2d: http://cocos2d.org/
 
