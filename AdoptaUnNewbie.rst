@@ -115,6 +115,8 @@ Disponibles
 
 * `Rafael E. Ferrero`_ (web,Django, Python en general, linux, diseño de software, sistemas administrativos-contables, administración de servidores).
 
+* WillSantana_ (web, Django, Python en general, Mac OS X)
+
 Asignados
 ~~~~~~~~~
 
