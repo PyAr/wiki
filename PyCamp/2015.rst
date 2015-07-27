@@ -18,6 +18,8 @@ http://www.turismocordoba.com.ar/solesblancos/#fotos (ver más detalles del hosp
 
 **Donde está:** 
 
+ * Mapa: https://www.openstreetmap.org/#map=17/-31.73519/-64.45475
+
  * distancias:
  
   * 55km Córdoba Capital (1 hora en colectivo)
