@@ -25,3 +25,12 @@ Redes Libres
 
 Conocer y si es posible, colaborar con el proyecto de redes libres comunitarias.
 (Propone actividad: Javier -> emperna a Nico Echaniz)
+
+Tritcask
+~~~~~~~~
+
+Un key value store 100% python. Hay que hacerlo pip instalable, portar a python 3, hacer alguna doc, etcs...
+
+https://github.com/verterok/tritcask
+
+(propone: lucio)
