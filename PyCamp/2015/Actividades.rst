@@ -34,3 +34,30 @@ Un key value store 100% python. Hay que hacerlo pip instalable, portar a python 
 https://github.com/verterok/tritcask
 
 (propone: lucio)
+
+SASI
+~~~~~~~~
+SASI es sigla de Sistema Autogestivo de Saneamiento Integral. 
+
+Surge de un proyecto del que participo hace algún tiempo en conjunto con la Facultad de Ciencias Bioquimicas y Farmacéuticas 
+de la Universidad Nacional de Rosario que consiste en hacer un relevamiento del acceso al agua potable en una villa de Rosario, Villa Banana [1].
+
+La idea de hacer un sistema que permita gestionar las encuestas y las distintas actividades en el barrio y que además tenga la posibilidad de comunicarse con la gente del barrio, que en muchos casos no tiene posibilidades de hacerlo de forma directa. 
+Con respecto a esto último una de las alternativas es un sistema que reciba smss mediante un modem gsm en un raspberry y los reporte al servidor. Esta parte está mas o menos avanzada.
+
+Para los formularios de las encuestas podria utilizarse Open Data Kit [2]
+
+Aparte de esto está la complicación de que el barrio no está mapeado, 
+con lo cual también se estan haciendo actividades sobre mapeo comunitario y está la idea de georreferenciar las encuestas, ubicar centros de interés e ir incorporando todas las utilidades que tiene un GIS.
+
+Aparte de esto me parece que es un proyecto que puede tener varias funcionalidades generales para cierto tipo de proyecto que requiera actividades en campo, encuestas y GIS. 
+Se me ocurre que puede ser algo similar a Ushahidi [3], pero con otro objetivo, aunque con una dinámica similar.
+
+
+[1] http://www.riepibito.com.ar
+
+[2] https://opendatakit.org/
+
+[3] http://www.ushahidi.com/
+
+(propone: Bruno Geninatti)
