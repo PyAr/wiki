@@ -18,7 +18,7 @@ roadmaps de features) tiendo a hacer grafos muy parecidos a mind maps, mi idea e
 un editor que me deje crear nodos, lineas, flechas y todo tipo de dato que se pueda
 encodear en graficos con las menos palabras posibles. Voy a estar usando algun toolkit
 graficoso porque no quiero widgets standard sino algo que este mas cerca de una hoja de
-papel y una lapicera pero practico para el teclado.
+papel y una lapicera pero practico para el teclado. (Propone actividad: Perrito)
 
 Redes Libres
 ~~~~~~~~~~~~
