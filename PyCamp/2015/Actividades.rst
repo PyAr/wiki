@@ -19,3 +19,9 @@ un editor que me deje crear nodos, lineas, flechas y todo tipo de dato que se pu
 encodear en graficos con las menos palabras posibles. Voy a estar usando algun toolkit
 graficoso porque no quiero widgets standard sino algo que este mas cerca de una hoja de
 papel y una lapicera pero practico para el teclado.
+
+Redes Libres
+~~~~~~~~~~~~
+
+Conocer y si es posible, colaborar con el proyecto de redes libres comunitarias.
+(Propone actividad: Javier -> emperna a Nico Echaniz)
