@@ -71,7 +71,7 @@ Buscar en varios servers (wrappers), bajar uno de cada server para tener más de
 Python 3.4, asyncio, UI no definida.
 Usable en Touchandgo[1] (si touchandgo-devs quiere)
 
-**Aprendiz friendly
+**Aprendiz friendly**
 
 [0] https://github.com/matibarriento/subHunter
 [1] https://github.com/touchandgo-devs/touchandgo
