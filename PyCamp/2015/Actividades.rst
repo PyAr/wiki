@@ -23,6 +23,7 @@ papel y una lapicera pero practico para el teclado. (Propone actividad: Perrito)
 Redes Libres
 ~~~~~~~~~~~~
 Simulador de redes mesh con protocolo BATMAN Adv.
+
 Conocer y si es posible, colaborar con el proyecto de redes libres comunitarias.
 (Propone actividad: Javier -> emperna a Nico Echaniz)
 
