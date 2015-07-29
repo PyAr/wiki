@@ -66,14 +66,16 @@ Se me ocurre que puede ser algo similar a Ushahidi [3], pero con otro objetivo, 
 SubHunter
 ~~~~~~~~~
 
-App (cli y deskstop) para bajar subtitulos[0].
-Buscar en varios servers (wrappers), bajar uno de cada server para tener más de una opción.
+App (cli y deskstop) para bajar subtitulos[0].Buscar en varios servers (wrappers), bajar uno de cada server para tener más de una opción.
+
 Python 3.4, asyncio, UI no definida.
+
 Usable en Touchandgo[1] (si touchandgo-devs quiere)
 
 **Aprendiz friendly**
 
 [0] https://github.com/matibarriento/subHunter
+
 [1] https://github.com/touchandgo-devs/touchandgo
 
 (propone: Matías Barriento)
