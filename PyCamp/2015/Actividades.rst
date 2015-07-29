@@ -64,7 +64,7 @@ Se me ocurre que puede ser algo similar a Ushahidi [3], pero con otro objetivo, 
 
 
 SubHunter
-~~~~~~~~
+~~~~~~~~~
 
 App (cli y deskstop) para bajar subtitulos[0].
 Buscar en varios servers (wrappers), bajar uno de cada server para tener más de una opción.
