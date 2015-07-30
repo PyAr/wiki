@@ -20,7 +20,7 @@ Jampp
 
 * Dirección: Av Córdoba 5779, piso 2c, Capital Federal
 
-* A través de una plataforma de Big Data y real-time bidding, analizamos diariamente más de 1.5 TB de datos y determinamos (en menos de 80 ms) que valor tiene una impresión dependiendo de la probabilidad de convertir, el contexto del usuario y otros factores miles de veces por segundo. Actualmente proveemos 2 millones de instalaciones mensuales, pero necesitamos crecer nuestra capacidad de procesamiento y tenemos muchos desafíos de algoritmia, escalabilidad, big data, data visualization y machine learning por resolver!
+* Mobile marketing te suena conocido? A través de una plataforma de Big Data y real-time bidding, analizamos diariamente más de 1.5 TB de datos y determinamos (en menos de 80 ms) que valor tiene una impresión dependiendo de la probabilidad de convertir, el contexto del usuario y otros factores miles de veces por segundo. Actualmente proveemos 2 millones de instalaciones mensuales, pero necesitamos crecer nuestra capacidad de procesamiento y tenemos muchos desafíos de algoritmia, escalabilidad, big data, data visualization y machine learning por resolver!
 
 * Cúal es nuestro stack de tecnología? Nuestro stack está compuesto por Python/PHP/R/PyPy, Async (ZeroMQ), Mercurial/Git, Node.js, MySQL/Postgre y AWS
 
