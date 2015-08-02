@@ -82,3 +82,27 @@ Usable en Touchandgo[1] (si touchandgo-devs quiere)
 [1] https://github.com/touchandgo-devs/touchandgo
 
 (propone: Matías Barriento)
+
+
+Verificador de subtítulos
+~~~~~~~~~~~~~~~~~~~~~~~~~
+
+(empalmado con Sub Hunter ↑) La idea es verificar si un subtítulo matchea con el video... o mejor dicho, con el audio ;)  Lo básico es encontrar si en el momento del subtítulo hay alguien hablando, con eso uno ya se asegura que el subtítulo está sincronizado... [Propone: Facundo Batista]
+
+
+Encuentro
+~~~~~~~~~
+
+Fixear algún bug o meter algún feature en `Encuentro <https://launchpad.net/encuentro>`_, que es un simple programa que permite buscar, descargar y ver contenido del canal Encuentro, Paka Paka, BACUA, Educ.ar y otros. [Propone: Facundo Batista]
+
+
+fades
+~~~~~
+
+Fixear algún bug o meter algún feature en `fades <https://github.com/PyAr/fades>`_ (fades, "FAst DEpendencies for Scripts", is a system that automatically handles the virtualenvs in the simple cases normally found when writing scripts or simple programs). [Propone: Facundo Batista]
+
+
+Python Bug day
+~~~~~~~~~~~~~~
+
+La idea es trabajar un rato en Python en sí, cerrar algún bug del lenguaje propiamente dicho. Mucho código del lenguaje es en C, pero también hay mucho en Python mismo, y hay algunas cosas que son sencillas. [Propone: Facundo Batista]
