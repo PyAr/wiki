@@ -45,6 +45,14 @@ Dale!, acá un listado de personas que pueden poner el auto y quieren compartir 
 
 A Junín, desde CABA, tienen 267 kilómetros, así que si dividen entre 4, sale muy barato venir. Te esperamos!
 
+###########################################
+**Listado de personas que vienen en auto** 
+###########################################
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Completar nombre, espacios disponibles en el auto, desde donde vienen, y su email
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 ===============================
 Organizador general del evento
 ===============================
