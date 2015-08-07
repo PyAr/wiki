@@ -1,8 +1,5 @@
-<<<<<<< Updated upstream
-=======
-<<<<<<< Updated upstream
+
 #format rst
->>>>>>> Stashed changes
 
 ¿Quiénes Somos?
 ---------------
