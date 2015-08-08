@@ -102,6 +102,12 @@ fades
 Fixear algún bug o meter algún feature en `fades <https://github.com/PyAr/fades>`_ (fades, "FAst DEpendencies for Scripts", is a system that automatically handles the virtualenvs in the simple cases normally found when writing scripts or simple programs). [Propone: Facundo Batista]
 
 
+PyArWeb
+~~~~~~~
+
+Una manito para cerrar algunos de los 50~ issues que tenemos? en  `PyArWeb. La idea tambien es sumar personas via IRC así que estaría bueno hacerlo el Sábado o el Domingo <https://github.com/PyAr/pyarweb>`_  [Propone: Ángel Velásquez]
+
+
 Python Bug day
 ~~~~~~~~~~~~~~
 
