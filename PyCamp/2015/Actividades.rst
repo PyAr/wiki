@@ -105,7 +105,7 @@ Fixear algún bug o meter algún feature en `fades <https://github.com/PyAr/fade
 PyArWeb
 ~~~~~~~
 
-Una manito para cerrar algunos de los 50~ issues que tenemos? en  `PyArWeb. La idea tambien es sumar personas via IRC así que estaría bueno hacerlo el Sábado o el Domingo <https://github.com/PyAr/pyarweb>`_  [Propone: Ángel Velásquez]
+Una manito para cerrar algunos de los 50~ issues que tenemos? en  `PyArWeb <https://github.com/PyAr/pyarweb>`_. La idea tambien es sumar personas via IRC así que estaría bueno hacerlo el Sábado o el Domingo [Propone: Ángel Velásquez]
 
 
 Python Bug day
