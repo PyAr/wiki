@@ -124,3 +124,31 @@ La propuesta sería sentarnos unas horas entre quienes quieran ayudar y ver qué
 [Propone: NicoEchániz]
 
 
+Alineador de antenas para Android
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Cuando tengo que alinear una antena uso este oneliner:
+
+::
+
+ nodo=oncelotes-bbone; target=C0:4A:00:FC:3A:89; iface=wlan1-adhoc; while true; do signal=`ssh -4 $nodo "iwinfo $iface a | grep $target" | awk '{print $2}' | cut -c 2-`; pico2wave -w 1.wav -l es-ES "$signal"; echo $signal | figlet -f doh; paplay 1.wav;sleep 1; done
+
+que me va tirando cada 1 seg el nivel de señal en un font grande rendereado en ascii art (por figlet) y leído "en voz alta" (por pico TTS). Esto es muy útil, pero para que la gente se encargue de alinear sus propias antenas es un poco nerdoso :)
+
+Entonces... si alguien tiene experiencia con `Kivy <http://kivy.org>`_ o se suma a que exploremos junt@s, quería explorar la posibilidad de hacer una mini aplicación para Android que cualquiera pueda usar para alinear su antena, con una lectura en texto grande + audio.
+La idea es hacer algo útil para las redes comunitarias y de paso aprender un poco de Kivy, que nunca usé pero me llama la atención.
+
+Pensé que puede servir de base revisar esto: https://github.com/brousch/kivy-texttospeech-demo Android trae pico TTS instalado.
+
+Los nodos ya entregan por http un json con la data necesaria.
+Por ej: http://oncelotes-bbone/cgi-bin/luci/status/json/stations/wlan1-adhoc
+
+devuelve:
+
+::
+
+ [ { "type": "wifi", "station_hostname": "czuk-bbone_wlan1-adhoc", "station": "C0:4A:00:FC:3A:89", "attributes": { "inactive": 0, "channel": 36, "signal": -80 } }, { "type": "wifi", "station_hostname": "giordano-bbone_wlan1-adhoc", "station": "C0:4A:00:FC:38:E1", "attributes": { "inactive": 0, "channel": 36, "signal": -75 } } ]
+
+La idea entonces sería consumir esto desde la mini app.
+
+[Propone: NicoEchániz]
