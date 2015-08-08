@@ -160,3 +160,6 @@ orientados a públicos distintos.
 
 .. _El libro de web2py en español: http://web2py.com/books/default/chapter/36
 
+.. _Instant Python: http://www.hetland.org/python/instant-python.php
+
+.. _Versión en español: http://www.arrakis.es/~rapto/AprendaPython.html
