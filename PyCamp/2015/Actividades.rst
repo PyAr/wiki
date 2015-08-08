@@ -112,3 +112,15 @@ Python Bug day
 ~~~~~~~~~~~~~~
 
 La idea es trabajar un rato en Python en sí, cerrar algún bug del lenguaje propiamente dicho. Mucho código del lenguaje es en C, pero también hay mucho en Python mismo, y hay algunas cosas que son sencillas. [Propone: Facundo Batista]
+
+
+Cyclope CMS
+~~~~~~~~~~~
+
+`Cyclope <http://cyclope.codigosur.org>`_ ya es un proyecto con varios años de historia. Las primeras ideas las debatimos en un PyCamp. Es un CMS pensado para programadores que no quieren sufrir; y para pythonistas que no quieren switchear a Drupal cuando necesitan un CMS. La idea principal es que los usuarios y adminsitradores de contenido puedan hacer su tarea fácilmente pero que las implementaciones de tipos de contenido, vistas, aplicaciones, las hacemos en código y no con una interfaz web.
+Cyclope es usado por más de 100 organizaciones sociales latinoamericanas. Hemos participado de su desarrollo varias personas de PyAr y ahora ha vuelto a mi "cuidado". Me gustaría, si hay quienes quieran darme una mano, ver qué implicaría aggiornar Cyclope para que corra con la última versión de Django y de las decenas de apps que usamos.
+Hay muchas más cosas para hacer, pero esa es una fundamental y especialmente aburrida! que se puede hacer más leve en manada y pingpong de por medio :)
+La propuesta sería sentarnos unas horas entre quienes quieran ayudar y ver qué implicaría el cambio, no necesariamente implementarlo, pero sí hacernos una idea clara de cuál sería el trabajo.
+[Propone: NicoEchániz]
+
+
