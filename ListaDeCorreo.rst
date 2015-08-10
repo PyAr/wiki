@@ -16,7 +16,7 @@ Instrucciones para suscribirte
 ------------------------------
 
 La manera más simple de suscribirte a la lista es usando el formulario 
-que está en la barra de la derecha y se ve así
+que está arriba en la barra de la derecha y se ve así:
 
 .. image:: /wiki/ListaDeCorreo/attachment/595/form_subscribe.png
 
