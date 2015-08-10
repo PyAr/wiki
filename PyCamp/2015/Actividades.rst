@@ -152,3 +152,10 @@ devuelve:
 La idea entonces sería consumir esto desde la mini app.
 
 [Propone: NicoEchániz]
+
+File Sync Service
+~~~~~~~~~~~~~~~~~
+
+Tomar el servidor de FileSync de UbuntuOne https://launchpad.net/filesync-server , y hacerlo instalable en instancias personales. [Propone: Lucio Torre]
+
+
