@@ -1,10 +1,10 @@
-Ejemplos del año pasado (2014) acá http://python.org.ar/wiki/PyCamp/2014/TemasPropuestos
 
-Cronograma de actividades:
-
+Cronograma de actividades 2015:
+-------------------------------
 
 .. image:: /wiki/PyCamp/2015/Actividades/attachment/40553/IMG_1538.JPG
    :width: 800px
+   :target: /wiki/PyCamp/2015/Actividades/attachment/40553/IMG_1538.JPG
 
 Juegos, Realidad Virtual y otras cosas
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
