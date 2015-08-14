@@ -7,10 +7,10 @@ Hay dos maneras de usarlo, la más simple (pero tenes que acordarte el comando)
 
 ::
 
-	pip install --trusted-host alarm -i http://alarm:3141/root/pypi/ 
+	pip install --trusted-host alarm -i http://alarm:3141/root/pypi/ <paquete>
     
 
-La otra es editar `~/.pip/pip.conf` y dejar la config "fija: 
+La otra es editar `~/.pip/pip.conf` y dejar la config fija: 
 
 ::
 
