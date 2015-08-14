@@ -1,3 +1,23 @@
+pip-cache
+---------
+
+Tenemos un pip-cache funcionando en el host `alarm`. ¡¡Por favor utilizarlo!!
+
+Hay dos maneras de usarlo, la más simple (pero tenes que acordarte el comando)
+
+::
+
+	pip install --trusted-host alarm -i http://alarm:3141/root/pypi/ 
+    
+
+La otra es editar `~/.pip/pip.conf` y dejar la config "fija: 
+
+::
+
+	[global]
+	index-url = http://alarm:3141/root/pypi/+simple/
+    
+la ip de `alarm` es `10.5.20.252`
 
 Cronograma de actividades 2015:
 -------------------------------
