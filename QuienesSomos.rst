@@ -1,9 +1,3 @@
-<<<<<<< Updated upstream
-=======
-<<<<<<< Updated upstream
-#format rst
->>>>>>> Stashed changes
-
 ¿Quiénes Somos?
 ---------------
 
@@ -76,6 +70,3 @@ Suscribiéndote a la ListaDeCorreo_, registrándote en el portal, asistiendo a c
 
 
 .. _aquí: http://webchat.freenode.net/?channels=pyar
-
-
->>>>>>> Stashed changes
