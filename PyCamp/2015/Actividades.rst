@@ -1,3 +1,10 @@
+alineador de antenas
+--------------------
+
+usamos este pad para pasarnos cosas:
+https://pad.codigosur.org/kivy_notes
+
+
 pip-cache
 ---------
 
@@ -7,7 +14,7 @@ Hay dos maneras de usarlo, la más simple (pero tenes que acordarte el comando)
 
 ::
 
-	pip install --trusted-host alarm -i http://alarm:3141/root/pypi/ <paquete>
+	pip install -i http://alarm:3141/root/pypi/ <paquete>
     
 
 La otra es editar `~/.pip/pip.conf` y dejar la config fija: 
@@ -15,9 +22,13 @@ La otra es editar `~/.pip/pip.conf` y dejar la config fija:
 ::
 
 	[global]
-	index-url = http://alarm:3141/root/pypi/+simple/
+	index-url = http://10.5.20.252:3141/root/pypi/+simple/
+    trusted-host = 10.5.20.252
+	disable-pip-version-check = true
+	allow-all-external=true
+	timeout = 120
     
-la ip de `alarm` es `10.5.20.252`
+
 
 Cronograma de actividades 2015:
 -------------------------------
@@ -184,4 +195,41 @@ File Sync Service
 
 Tomar el servidor de FileSync de UbuntuOne https://launchpad.net/filesync-server , y hacerlo instalable en instancias personales. [Propone: Lucio Torre]
 
+Mejorar/arreglar el visor de grafos de SimpleAI
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+SimpleAI es una biblioteca de algoritmos de IA, y para lo que es búsqueda tiene un lindo debugger 
+gráfico que permite visualizar el grafo/árbol de búsqueda en tiempo real. Usa pydot+graphviz, y en 
+las últimas versiones se rompió y dejó de andar. La idea es reemplazarlo por algo mejor, que dibuje
+el grafo desde el navegador.
+
+Propone actividad: Fisa
+
+SimpleAI: 
+
+* repo https://github.com/simpleai-team/simpleai
+* docs http://simpleai.readthedocs.org
+
+Challenge!: Tota
+~~~~~~~~~~~~~~~~
+
+Una competencia de programar bots para un juego similar a dota, pero en consola, releaseado exclusívamente 
+para PyCamp (?).
+
+Propone actividad: Fisa
+
+Tota: https://github.com/fisadev/tota
+
+Tota Visualizer
+~~~~~~~~~~~~~~~
+
+Gatox, alecu y manuq hicieron un visualizador para la competencia Tota con el engine Unity.
+
+.. embed:: https://www.youtube.com/watch?v=E-vDVm9ll_w
+
+Actividad al aire libre: combate medieval
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Traje una espada (longsword), y algunas cosas básicas para el que le interese aprender :)
+
+Propone actividad: Fisa

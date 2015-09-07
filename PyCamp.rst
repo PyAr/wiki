@@ -19,6 +19,8 @@ Como se organiza y financia el evento
 
 El evento se organiza por la comunidad misma. Según las diferentes ciudades donde se realiza un grupo de voluntarios se encarga de buscar un lugar y realizar las gestiones necesarias. Financieramente el evento es soportado por sus propios participantes, aunque PyAr_, según el dinero disponible, suele otorgar becas totales o parciales a estudiantes e interesados que desen participar.
 
+Si estás interesado, acá hay más detalles de como organizar_ y las experiencias recolectadas.
+
 Proyectos
 ---------
 
@@ -116,6 +118,8 @@ Blogpost sobre Pycamps
 
 
 .. _aqui: /wiki/PyCamp/QueSeHace
+
+.. _organizar: /wiki/PyCamp/OrganizandoUnPyCamp
 
 .. _marcha: /wiki/PyCamp/2015
 
