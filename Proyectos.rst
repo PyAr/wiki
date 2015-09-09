@@ -301,6 +301,10 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
   * Herramienta extensible para crear documentos HTML5 como presentaciones o paginas web
 
+* `Pireal`_
+  
+  * Herramienta educativa para trabajar con Álgebra Relacional.
+  
 -------------------------
 
 .. ############################################################################
@@ -450,3 +454,5 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 .. _chorde: https://bitbucket.org/claudiofreire/chorde/
 
 .. _rst2html5: https://github.com/marianoguerra/rst2html5/
+
+.. _Pireal: https://centaurialpha.github.io/pireal
