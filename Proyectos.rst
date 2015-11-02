@@ -297,6 +297,10 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
   * Traducción al Español de la documentación de "virtualenvwrapper"
   
+* `Pimp my pillow`_
+  
+  * Pimp My Pillow will leave you with a full working Pillow installation, no more 'decoder * not available' messages!
+  
 * `rst2html5`_
 
   * Herramienta extensible para crear documentos HTML5 como presentaciones o paginas web
