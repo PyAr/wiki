@@ -299,7 +299,7 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
   
 * `Pimp my pillow`_
   
-  * Pimp My Pillow will leave you with a full working Pillow installation, no more 'decoder * not available' messages!
+  * Pimp My Pillow will leave you with a full working Pillow installation, no more 'decoder * not available' messages! https://github.com/edvm/pimp-my-pillow
   
 * `rst2html5`_
 
