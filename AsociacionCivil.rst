@@ -12,7 +12,7 @@ También estamos en el proceso de selección de las autoridades_ iniciales, actu
 
 .. ############################################################################
 
-.. _esta lista de correo: http://python.org.ar/mailman/listinfo/meta
+.. _esta lista de correo: http://listas.python.org.ar/mailman/listinfo/meta
 
 .. _Objetivos de la Asociación: https://docs.google.com/document/d/1V67iEOuqCWzYw6ndf3PQFIChZeqgKMiM13WFT5D6G2k/edit
 
