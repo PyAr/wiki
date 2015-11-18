@@ -606,6 +606,20 @@ Si son como yo, usan la computadora para solucionar problemas complejos, pero le
 
   * pdf: `respondiendo_en_ms.pdf`_
 
+Manejando 220.000 QPS sin despeinarse
+-------------------------------------
+
+**Claudio Freire**, **Patricio Rocca Huget**
+
+Describe la arquitectura que permite que Jampp maneje 220.000 requests por segundo de forma eficiente y escalable.
+
+- Slides: 
+
+  * odp: `manejando_220kqps.odp`_
+
+  * pdf: `manejando_220kqps.pdf`_
+
+
 
 
 .. ############################################################################
@@ -693,3 +707,6 @@ Si son como yo, usan la computadora para solucionar problemas complejos, pero le
 
 .. _respondiendo_en_ms.pdf: https://drive.google.com/file/d/0By78YYAMpgAUZDNOTFM3RUJaOGc/view?usp=sharing
 
+.. _manejando_220kqps.odp: https://drive.google.com/file/d/0By78YYAMpgAUTUl2dkdMU1g4TWM/view?usp=sharing
+
+.. _manejando_220kqps.pdf: https://drive.google.com/file/d/0By78YYAMpgAUcm1OOWVwM1d1ZDQ/view?usp=sharing
