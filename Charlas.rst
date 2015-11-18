@@ -577,6 +577,7 @@ Pysenteishon - Controla tus slides desde tu smartphone
 
 https://docs.google.com/presentation/d/1O61fDE2hQ58Vyzi9m751GYn-XpnnBYTjFSOlgwxqCLA/edit?usp=sharing
 
+
 Nueva web de PyAr
 -----------------
 
@@ -586,6 +587,26 @@ demiurge - Shaping HTML chaos
 -----------------------------
 
 https://docs.google.com/presentation/d/1dsNcM590BxoIaTViGRvGeylYg82n-UYOk4hVJ33PjYk/edit?usp=sharing
+
+PyConAr Mendoza 2015
+====================
+
+Si alguna charla no aparece, no dudes en solicitar al autor que la incluya a través de la lista.
+
+Respondiendo en milisegundos
+----------------------------
+
+**Claudio Freire**
+
+Si son como yo, usan la computadora para solucionar problemas complejos, pero les impacienta cuando tarda más de un minuto en responder. Los usuarios son así también. En esta charla vamos a ver cómo obtener respuestas en milisegundos en vez de minutos u horas, pero claro, con un truco: cacheando. La mayoría de los procesos que hay en un sistema útil son todos cacheables. Vamos a aprender a implementar arquitecturas complejas para solucionar problemas complejos.
+
+- Slides: 
+
+  * odp: `respondiendo_en_ms.odp`_
+
+  * pdf: `respondiendo_en_ms.pdf`_
+
+
 
 .. ############################################################################
 
@@ -667,3 +688,8 @@ https://docs.google.com/presentation/d/1dsNcM590BxoIaTViGRvGeylYg82n-UYOk4hVJ33P
 .. _pdf: https://drive.google.com/file/d/0By78YYAMpgAUVk9CODZmWHR1dG8/view?usp=sharing
 
 .. _Ejemplos, fuentes y mucho más: https://drive.google.com/folderview?id=0By78YYAMpgAUUzR1UGZPSUR0djg&usp=sharing
+
+.. _respondiendo_en_ms.odp: https://drive.google.com/file/d/0By78YYAMpgAUamh1cVUyTUFFRjQ/view?usp=sharing
+
+.. _respondiendo_en_ms.pdf: https://drive.google.com/file/d/0By78YYAMpgAUZDNOTFM3RUJaOGc/view?usp=sharing
+
