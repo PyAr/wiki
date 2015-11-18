@@ -600,7 +600,7 @@ Respondiendo en milisegundos
 
 Si son como yo, usan la computadora para solucionar problemas complejos, pero les impacienta cuando tarda más de un minuto en responder. Los usuarios son así también. En esta charla vamos a ver cómo obtener respuestas en milisegundos en vez de minutos u horas, pero claro, con un truco: cacheando. La mayoría de los procesos que hay en un sistema útil son todos cacheables. Vamos a aprender a implementar arquitecturas complejas para solucionar problemas complejos.
 
-- Slides: 
+- Slides (CC-BY-SA): 
 
   * odp: `respondiendo_en_ms.odp`_
 
@@ -613,7 +613,7 @@ Manejando 220.000 QPS sin despeinarse
 
 Describe la arquitectura que permite que Jampp maneje 220.000 requests por segundo de forma eficiente y escalable.
 
-- Slides: 
+- Slides (CC-BY-SA): 
 
   * odp: `manejando_220kqps.odp`_
 
