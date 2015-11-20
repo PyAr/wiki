@@ -89,6 +89,8 @@ Mentados Propuestos
 Disponibles
 ~~~~~~~~~~~
 
+* Catriel López
+
 * `Mauricio José Tobares`_
 
 * Carlos Cabrera
