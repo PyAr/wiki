@@ -145,6 +145,7 @@ orientados a públicos distintos.
 
 * `El libro de Web2py en español`_
 
+* `El wiki oficial de Apache OpenOffice`_ - Como crear macros con Python
 
 ----
 
@@ -163,3 +164,5 @@ orientados a públicos distintos.
 .. _Instant Python: http://www.hetland.org/python/instant-python.php
 
 .. _Versión en español: http://www.arrakis.es/~rapto/AprendaPython.html
+
+.. _El wiki oficial de Apache OpenOffice: https://wiki.openoffice.org/wiki/ES/Manuales/GuiaAOO/TemasAvanzados/Macros/Python
