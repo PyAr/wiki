@@ -620,6 +620,13 @@ Describe la arquitectura que permite que Jampp maneje 220.000 requests por segun
   * pdf: `manejando_220kqps.pdf`_
 
 
+Lightning Talks de PyConAr 2014
+===============================
+
+ayrton y Elevation
+------------------
+
+http://www.grulic.org.ar/~mdione/ayrton_elevation_lightning.odp
 
 
 .. ############################################################################
