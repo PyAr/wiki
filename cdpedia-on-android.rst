@@ -10,7 +10,8 @@ Para que funcione correctamente es necesario tener descomprimido (no soporta el 
    sync
    umount /mnt
 
-Si querés probar la primera versión de la aplicación para android, podés descargarte el .apk desde 
+Si querés probar la primera versión de la aplicación para android, podés descargarte el .apk desde
+`acá <http://cdpedia.python.org.ar/CDPedia-release.apk>`_.
 
 -------------------------
 
