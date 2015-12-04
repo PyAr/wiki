@@ -63,7 +63,7 @@ Test Driven Development
 
 
 
-            Twisted Framework
+Twisted Framework
 -----------------
 
 *Anthony Lenton*
@@ -703,9 +703,9 @@ Lightning Talks de PyConAr 2014
 ayrton y Elevation
 ------------------
 
-
 http://www.grulic.org.ar/~mdione/ayrton_elevation_lightning.odp
 
+enjoy!
 
 .. ############################################################################
 
