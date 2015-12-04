@@ -197,6 +197,51 @@ Introducción a Python 2da. parte (Librería Estandar, Bases de datos, Aplicacio
 
 
 
+
+La pythonicidad al palo
+------------------------
+
+*Martín Gaitán*
+
+	¿Qué significa que un código sea "pythónico"?
+	Una charla sobre python idiomático: características de este lenguaje para expresar de forma simple, elegante y potente.
+
+:diapositivas: http://mgaitan.github.com/pythonicidad/
+:repo: http://github.com/mgaitan/pythonicidad/
+:evento: `PyCon Argentina 2013 <http://ar.pycon.org/2013>`_
+:fecha: Viernes 25 de octubre de 2013
+:lugar: Rosario, Argentina
+
+-----
+
+MyHDL, de Python al silicio
+---------------------------
+
+*Martín Gaitán*
+
+    En el mundo del hardware se usan lenguajes de descripción
+    como VHDL o Verilog. MyHDL_ es un paquete que permite utilizar
+    la potencia de alto nivel de Python como reemplazo (o abstracción)
+    de un lenguaje de descripción de hardware tradicional.
+
+    ¿Imaginaste alguna vez diseñar tu propio procesador? O implementar
+    un sistema de embebido en un chip? Esas cosas requieren lidiar con
+    los lenguajes HDL (hardware description language), que si bien no
+    son de bajo nivel como un ensamblador, tienen sitaxis y mañas complejas.
+    No es para menos:  esos "programas" se sintetizan y se vuelven
+    los planos internos de un chip, por ejemplo una FPGA.
+
+    MyHDL permite reemplazarlos programando en Python, pudiendo simular
+    y hacer test de manera mucho más fácil. Incluso se puede obtener
+    código en lenguajes HDL sintetizables y hacer tu sueño
+    realidad: ¡hacer hardware con Python!
+
+:diapositivas: http://mgaitan.github.com/myhdl-talk/
+:repo: http://github.com/mgaitan/myhdl-talk/
+
+
+
+
 Curso programación en Python
 ----------------------------
 
