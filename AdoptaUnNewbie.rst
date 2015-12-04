@@ -145,10 +145,13 @@ Adopciones Finalizadas
 
 * JuanFisanotti_ - Hernan Lozano: muy buena experiencia!
 
+<<<<<<< Updated upstream
 * JuanFisanotti_ - Emanuel Toro: prácticamente no hubo contacto. Voy a re-contactar solo por las dudas.
 
 * JuanFisanotti_ - Jean Jacques: prácticamente no hubo contacto. Voy a re-contactar solo por las dudas.
 
+=======
+>>>>>>> Stashed changes
 * Mariano Guerra
 
   * `Anna Massone`_ perdida de contacto

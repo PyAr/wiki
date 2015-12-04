@@ -1,8 +1,4 @@
-
 .. contents:: :depth: 2
-
-Charlas
-=======
 
 En esta página podrán encontrar los *slides* de charlas y presentaciones dictadas por miembros de PyAr_.
 
