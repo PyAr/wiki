@@ -63,7 +63,7 @@ Test Driven Development
 
 
 
-Twisted Framework
+            Twisted Framework
 -----------------
 
 *Anthony Lenton*
@@ -622,6 +622,10 @@ Describe la arquitectura que permite que Jampp maneje 220.000 requests por segun
 Missing Python
 --------------
 
+
+¿Qué extrañé de Python?
+-----------------------
+
 **Juanjo Conti**
 
 Qué extrañé de Python en los últimos 4 lenguajes en los que trabajé: PHP, Ruby, Swift, Clojure. PHP: el feo, Ruby: el gemelo malvado, Swift: el nuevo, Clojure: el raro. Pasaron varios años ya desde la última vez que utilicé Python profesionalmente. Desde aquel entonces, transité diversos caminos y aprendí nuevas tecnologías. Pero, como pasa con la primera novia, no puedo dejar de compararlo con cada nuevo lenguaje con el que trabajo. Analizo y comparo características de los distintos lenguajes.
@@ -648,6 +652,14 @@ El debugger de Python 'pdb' es una valiosa herramienta a la hora de entender los
 
 - Slides: https://docs.google.com/presentation/d/1fEJSoiIsd3ZKCysKj2ndlW048ec7hvRnp8gsbIes8Yo/edit?usp=sharing
 
+Lightning Talks de PyConAr 2014
+===============================
+
+ayrton y Elevation
+------------------
+
+
+http://www.grulic.org.ar/~mdione/ayrton_elevation_lightning.odp
 
 
 .. ############################################################################
