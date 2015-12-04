@@ -6,6 +6,8 @@ Charlas
 
 En esta página podrán encontrar los *slides* de charlas y presentaciones dictadas por miembros de PyAr_.
 
+¡Agregá la tuya!
+
 Creando plug-ins para GIMP con Python
 -------------------------------------
 
