@@ -695,6 +695,12 @@ El debugger de Python 'pdb' es una valiosa herramienta a la hora de entender los
 
 - Slides: https://docs.google.com/presentation/d/1fEJSoiIsd3ZKCysKj2ndlW048ec7hvRnp8gsbIes8Yo/edit?usp=sharing
 
+Primera aplicación en Kivy
+-------------------------------------
+
+**Sofía Martin**
+- Presentación: https://speakerdeck.com/entrerrianas/tu-primera-aplicacion-con-kivy-para-moviles
+
 Lightning Talks de PyConAr 2014
 ===============================
 
