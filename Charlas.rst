@@ -618,7 +618,35 @@ Describe la arquitectura que permite que Jampp maneje 220.000 requests por segun
   * odp: `manejando_220kqps.odp`_
 
   * pdf: `manejando_220kqps.pdf`_
+  
+Missing Python
+--------------
 
+**Juanjo Conti**
+
+Qué extrañé de Python en los últimos 4 lenguajes en los que trabajé: PHP, Ruby, Swift, Clojure. PHP: el feo, Ruby: el gemelo malvado, Swift: el nuevo, Clojure: el raro. Pasaron varios años ya desde la última vez que utilicé Python profesionalmente. Desde aquel entonces, transité diversos caminos y aprendí nuevas tecnologías. Pero, como pasa con la primera novia, no puedo dejar de compararlo con cada nuevo lenguaje con el que trabajo. Analizo y comparo características de los distintos lenguajes.
+
+- Slides: www.juanjoconti.com/charlas/missing-python/
+
+Django ORM to win!
+------------------
+
+**Martin Alderete**
+
+Veremos como se comporta el ORM de Django con bases de datos grandes. Para esto nos focalizaremos en como funciona el ORM de Django, describir sus componentes y funcionalidades con el fin de generar consultas mas precisas y complejas para disminuir problemas de performance. Tambien se discutira sobre el uso de "managers" personalizados y consejos de escalabilidad con Django como el uso de multiples bases de datos.
+
+- Slides: `django_orm_to_win.pdf`_
+
+
+Asi que tu piensas que puedes PDBear? 
+-------------------------------------
+
+**Emiliano Dalla Verde Marcozzi**
+
+El debugger de Python 'pdb' es una valiosa herramienta a la hora de entender los errores que ocurren en tus programas. Aprende en esta introducción los comandos comúnmente utilizados en el depurador de Python, a navegar e inspeccionar el código utilizando pdb, pdbpp, ipdb o rpdb.
+
+
+- Slides: https://docs.google.com/presentation/d/1fEJSoiIsd3ZKCysKj2ndlW048ec7hvRnp8gsbIes8Yo/edit?usp=sharing
 
 
 
@@ -710,3 +738,5 @@ Describe la arquitectura que permite que Jampp maneje 220.000 requests por segun
 .. _manejando_220kqps.odp: https://drive.google.com/file/d/0By78YYAMpgAUTUl2dkdMU1g4TWM/view?usp=sharing
 
 .. _manejando_220kqps.pdf: https://drive.google.com/file/d/0By78YYAMpgAUcm1OOWVwM1d1ZDQ/view?usp=sharing
+
+.. _django_orm_to_win.pdf: https://speakerdeck.com/malderete/django-orm-to-win

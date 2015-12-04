@@ -58,10 +58,12 @@ Disponibles
 
 * `Mariano Guerra`_ emesene, python en general, flask, REST, web
 
+* JuanFisanotti_ (django y web, python en general, inteligencia artificial, vim)
+
 Ocupados
 ~~~~~~~~
 
-* JuanFisanotti_ (django y web, python en general, inteligencia artificial, vim) (Emanuel Toro y Jean Jacques)
+(nadie)
 
 Disponibles como mentores de charlas
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -126,10 +128,6 @@ Asignados
 
 * Jonathan Scherz -> `David Litvak`_ (Django, TDD, vim)
 
-* Emanuel Toro -> JuanFisanotti_
-
-* Jean Jacques -> JuanFisanotti_
-
 Mentores Buscados
 -----------------
 
@@ -146,6 +144,10 @@ Adopciones Finalizadas
 ----------------------
 
 * JuanFisanotti_ - Hernan Lozano: muy buena experiencia!
+
+* JuanFisanotti_ - Emanuel Toro: prácticamente no hubo contacto. Voy a re-contactar solo por las dudas.
+
+* JuanFisanotti_ - Jean Jacques: prácticamente no hubo contacto. Voy a re-contactar solo por las dudas.
 
 * Mariano Guerra
 
