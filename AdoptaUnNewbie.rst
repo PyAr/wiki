@@ -32,11 +32,8 @@ Proyectos en busca de mentados
 
   * http://www.crawley-project.org
 
-Mentores Propuestos
--------------------
-
-Disponibles
-~~~~~~~~~~~
+Mentores Disponibles
+--------------------
 
 * Mauro Lizaur (debian, algo de django, cosas en general, ayuda con proyectos grandes(?). )
 
@@ -58,12 +55,8 @@ Disponibles
 
 * `Mariano Guerra`_ emesene, python en general, flask, REST, web
 
-* JuanFisanotti_ (django y web, python en general, inteligencia artificial, vim)
+* Fisa (JuanFisanotti_) (django y web, python en general, inteligencia artificial, vim)
 
-Ocupados
-~~~~~~~~
-
-(nadie)
 
 Disponibles como mentores de charlas
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -82,16 +75,10 @@ Disponibles como mentores de charlas
 
 (seguro me olvido de alguno)
 
-Asignados
-~~~~~~~~~
 
-Mentados Propuestos
--------------------
+Mentados buscando mentores
+--------------------------
 
-Disponibles
-~~~~~~~~~~~
-
-* Catriel López
 
 * `Mauricio José Tobares`_
 
@@ -119,14 +106,19 @@ Disponibles
 
 * WillSantana_ (web, Django, Python en general, Mac OS X)
 
-Asignados
-~~~~~~~~~
+
+Adopciones en curso
+-------------------
+
 
 * Daniel Malisani -> Manuel Naranjo (opencv)
 
 * EzequielMarquez_ -> HoracioDuran_ (web)
 
 * Jonathan Scherz -> `David Litvak`_ (Django, TDD, vim)
+
+* Catriel López, Marco Moresi, José de Jesus Marquez Rangel, Rommel Augusto Gutierrez Roa -> Fisa 
+
 
 Mentores Buscados
 -----------------
@@ -143,11 +135,13 @@ Mentados Buscados
 Adopciones Finalizadas
 ----------------------
 
-* JuanFisanotti_ - Hernan Lozano: muy buena experiencia!
+* JuanFisanotti_ 
 
-* JuanFisanotti_ - Emanuel Toro: prácticamente no hubo contacto. Voy a re-contactar solo por las dudas.
+  * Hernan Lozano: muy buena experiencia!
 
-* JuanFisanotti_ - Jean Jacques: prácticamente no hubo contacto. Voy a re-contactar solo por las dudas.
+  * Emanuel Toro: prácticamente no hubo contacto. Voy a re-contactar solo por las dudas.
+
+  * Jean Jacques: prácticamente no hubo contacto. Voy a re-contactar solo por las dudas.
 
 * Mariano Guerra
 
