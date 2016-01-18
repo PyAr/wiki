@@ -53,7 +53,7 @@ Mentores Disponibles
 
 * Mariano Reingart (web2py, wxpython, postgresql, ubuntu y/o windows, proyectos de factura electrónica, "gestion libre", etc.)
 
-* `Mariano Guerra`_ emesene, python en general, flask, REST, web
+* `Mariano Guerra` emesene, python en general, flask, REST, web
 
 * Fisa (JuanFisanotti_) (django y web, python en general, inteligencia artificial, vim)
 
@@ -102,7 +102,7 @@ Mentados buscando mentores
 
 * Carlos Do Carmo (Django)
 
-* `Rafael E. Ferrero`_ (web,Django, Python en general, linux, diseño de software, sistemas administrativos-contables, administración de servidores).
+* Rafael E. Ferrero (web,Django, Python en general, linux, diseño de software, sistemas administrativos-contables, administración de servidores).
 
 * WillSantana_ (web, Django, Python en general, Mac OS X)
 
