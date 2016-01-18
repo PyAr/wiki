@@ -106,6 +106,8 @@ Mentados buscando mentores
 
 * WillSantana_ (web, Django, Python en general, Mac OS X)
 
+* Mendoza Daniel (chiquito): me interesa aprender y aportar en el proyecto "waliki".
+
 
 Adopciones en curso
 -------------------
