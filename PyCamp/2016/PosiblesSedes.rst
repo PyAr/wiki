@@ -79,7 +79,7 @@ Hogar Germán Frers - Baradero
 
 * Hacen facturas o recibos individuales si alguno necesita.
 
-* Estan averiguando que onda internet. en estos dias me confirman.
+* Tienen dos servicios de internet (3mb con un wisp local, que no se pueden ampliar) y 1 mb con ARNET, que tampoco puede ampliarse.
 
 .. ############################################################################
 
