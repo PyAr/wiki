@@ -5,6 +5,12 @@ Las cooperativas en el sector de tecnología es una novedad en la Argentina. La 
 Actualmente en FACTTIC somos 18 cooperativas con 316 socios distribuidos en 15 ciudades desde la provincia de Jujuy hasta Río Negro. 
 Consideramos al conocimiento como un bien social y una construcción histórica y colectiva. Impulsamos actividades de formación y promoción del modelo de empresas cooperativas y sus valores. Promovemos el uso de software libre en todos los ámbitos, entendiendo que este garantiza: la independencia tecnológica y el libre acceso al conocimiento, únicos.
 
+Nuestra motivación
+==================
+
+Muchas de nuestras cooperativas nacieron del deseo de llevar un paso más allá la cultura del software libre por los integrantes de algunos de los lugs de Argentina como BBLug, CafeLug, Lanux, Quilmes Lug y otros. La manera en la que encaramos nuestro trabajo cotidiano, está muy influenciado en estas raíces y en la forma en la que aprendimos a relacionarnos durante estos años. 
+Así como las comunidades de software libre en la Argentina terminaron agrupandose en USLA, nosotros decidimos fundar una federación de cooperativas de tecnología llamada FACTTIC, basada en los mismos principios de cooperación y un fuerte sentido de comunidad. Permitiéndonos diariamente encarar proyectos conjuntos de manera interdisciplinaria, lo cual nos permite complementar nuestras habilidades y a su vez afrontar mayores desafíos. 
+Es por eso que hoy queremos poner toda nuestra fuerza, ya no sólo en el auspicio, sino en la realización de la PyCon Argentina para este año. Un evento que con la dedicación y esfuerzo de quienes lo han organizado y quienes han asistido, nos ha llenado de amigos y buenas experiencias a lo largo de los años y creemos que es momento de devolver ese esfuerzo a la comunidad Python.
 
 Nuestra propuesta
 ==================
