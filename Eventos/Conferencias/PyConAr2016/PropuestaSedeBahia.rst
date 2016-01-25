@@ -59,11 +59,11 @@ Responsables
 Los responsables del evento serán la cara visible de la organización, pero contarán además con el apoyo económico y técnico de FACTTIC para la realización de las tareas. 
 En la semana previa y durante el evento el coordinador general junto con al menos 1 colaborador en CABA estarán dedicados a tiempo completo a la realización del evento. Durante los previos a la organización, se realizarán reuniones semanales y quincenales para coordinar y repartir tareas.
 
-* Coordinador General: Gabriel Hernández gabriel.hernandez at unixono.com.ar (Unixono)
-* Tesorero: Leandro E. Colombo Viña (Bitson)
-* Colaborador: Claudio Bidau (Cambá)
-* Colaborador: Agustín Recouso (Fiqus)
-* Colaborador: Juan Manuel Schillaci (Devecoop)
+* Coordinador General: Gabriel Hernández (Unixono) contacto: gabriel.hernandez at unixono.com.ar
+* Tesorero: Leandro E. Colombo Viña (Bitson) contacto: colomboleandro at bitson.com.ar
+* Colaborador: Claudio Bidau (Cambá) contacto: clodo at camba.coop
+* Colaborador: Agustín Recouso (Fiqus) contacto: agustinrecousoa at fiqus.com
+* Colaborador: Juan Manuel Schillaci (Devecoop): juan.schillaci at devecoop.com
 
 Antecedentes 
 ============
