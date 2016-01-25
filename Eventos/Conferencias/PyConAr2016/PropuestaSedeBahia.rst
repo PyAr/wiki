@@ -1,3 +1,11 @@
+¿Quiénes somos?
+===============
+
+Las cooperativas en el sector de tecnología es una novedad en la Argentina. La empresa con mayor antigüedad tiene solo 10 años. En la actualidad, Argentina se destaca por ser el país con más empresas cooperativas de tecnología en todo el mundo.
+Actualmente en FACTTIC somos 18 cooperativas con 316 socios distribuidos en 15 ciudades desde la provincia de Jujuy hasta Río Negro. 
+Consideramos al conocimiento como un bien social y una construcción histórica y colectiva. Impulsamos actividades de formación y promoción del modelo de empresas cooperativas y sus valores. Promovemos el uso de software libre en todos los ámbitos, entendiendo que este garantiza: la independencia tecnológica y el libre acceso al conocimiento, únicos.
+
+
 Nuestra propuesta
 ==================
 Nuestra propuesta es realizar este evento en la ciudad bonaerense de Bahía Blanca. Bahía Blanca posee dos universidades nacionales la Universidad Nacional del Sur y una sucursal de la UTN. 
