@@ -95,3 +95,60 @@ Hogar Germán Frers - Baradero
 
 .. _el otro lado del PyCamp de EugeniaBahit: https://plus.google.com/u/0/photos/104151223595939241834/albums/5767077860795015489
 
+
+
+Sede: La Serranita, Córdoba
+---------------------------
+
+**Fechas**: 24, 25, 26 y 27  de Marzo de 2016 (jueves feriado, viernes feriado, sábado,  domingo)
+
+**Nombre del lugar:** Complejos Soles Blancos (datos + Fotos en el link)
+
+http://www.turismocordoba.com.ar/solesblancos/#fotos (ver más detalles del hospedaje abajo)
+
+**Donde está:**
+    * Mapa: https://www.openstreetmap.org/#map=17/-31.73519/-64.45475
+    * distancias:
+        * 55km Córdoba Capital (1 hora en colectivo)
+
+
+**Contacto:** Emilio Ramirez (guacho) hemilioramirez@gmail.com
+
+
+**Formas de llegar: 5 pycampitas**
+    * En auto: Es cómodo llegar, las rutas están bien, es 1 hora desde Córdoba Capital.
+    * En colectivo:
+        * En general, todos los que salen desde Córdoba para Villa General Belgrano, o para Santa Rosa de Calamuchita pasan por La Serranita, por lo que hay mucho muchos servicios diarios (1 cada 45 minutos aprox) ofrecidos por al menos 3 empresas (Sierras de Calamuchita, Buses Lep o Pájaro Blanco)
+        * Muy probablemente los bondis que salgan de (Retiro|Rosario|Santa Fe|cualquier ciudad al norte de Córdoba) para VG Belgrano o Santa Rosa de Calamuchita, van a ir por ese camino y también pasarán por La Serranita.
+    * Costo aproximado:
+        * Córdoba -> La Serranita: valor pasaje aprox $54
+        * Retiro -> La serranita: valor pasaje aprox $800
+
+**Precio:** aprox $1600
+    * Incluye:
+        * Ropa de cama, Ropa blanca y uso de todas las Instalaciones y servicios del Complejo (Internet Wi-Fi, Cocheras cubiertas, Uso del SUM, Uso del Quincho, Piscina, jacuzzi, etc.).
+        * Comidas: desayuno, almuerzo, cena.
+        * Internet: tiene; el lugar está dentro del rango de la red comunitaria enlazada con el resto de las redes comunitarias del valle (aprox 20Mbps)
+
+
+Detalles extras del alojamiento
+-------------------------------
+
+Hay 2 "complejos", a una cuadra de distancia entre ellos, que en conjunto nos servirán de base. Los apartamentos en el Complejo (cuentan con habitación, comedor, cocina y baño).
+
+Uno de los lugares (Complejo Soles Blancos), tiene cabañas para dormir (con salones chicos), 1 salón grandecito para 25-30 personas, y un quincho grande techado pero no cerrado. Este complejo estará COMPLETAMENTE reservado para nosotros.
+
+El segundo de los lugares, tiene más habitaciones, y además restaurante, así que ahí es donde comeríamos todos.
+
+El clima en esa fecha aun es muy cálido, ademas del SUM (que estaría mejor distribuido que en el evento anterior), se pueden aprovechar mejor el Quincho y algunos sectores en los patios. Esta a la disposición la pileta y el jacuzzi para momentos de esparcimiento ;-).
+
+Hay un límite máximo de 40 (como mucho 45) camas entre ambas hosterías.
+
+Cosas a definir
+---------------
+
+Estoy esperando respuesta del complejo a las siguiente preguntas:
+
+1. ¿Hay mínimo de gente a confirmar?
+2. ¿Cuanta plata hay que poner para reservar?
+3. ¿Cual es la fecha limite para reservar?
