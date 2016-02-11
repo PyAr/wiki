@@ -102,7 +102,7 @@ Mentados buscando mentores
 
 * Carlos Do Carmo (Django)
 
-* Rafael E. Ferrero (web,Django, Python en general, linux, diseño de software, sistemas administrativos-contables, administración de servidores).
+* Rafael E. Ferrero (Django, Python en general).
 
 * WillSantana_ (web, Django, Python en general, Mac OS X)
 
