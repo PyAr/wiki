@@ -144,11 +144,15 @@ El clima en esa fecha aun es muy cálido, ademas del SUM (que estaría mejor dis
 
 Hay un límite máximo de 40 (como mucho 45) camas entre ambas hosterías.
 
-Cosas a definir
----------------
 
-Estoy esperando respuesta del complejo a las siguiente preguntas:
+FAQ
+---------
+
+Esto me respondieron del complejo:
 
 1. ¿Hay mínimo de gente a confirmar?
+    **Si, hay un mínimo de 21 personas para cerrar el evento.**
 2. ¿Cuanta plata hay que poner para reservar?
+    **Hay que reservar con el 20% del monto total de personas.**
 3. ¿Cual es la fecha limite para reservar?
+    **Tenemos hasta el 25 de Febrero de 2016 para confirmar.**
