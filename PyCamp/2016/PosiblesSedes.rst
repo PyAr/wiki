@@ -156,3 +156,8 @@ Esto me respondieron del complejo:
     **Hay que reservar con el 20% del monto total de personas.**
 3. ¿Cual es la fecha limite para reservar?
     **Tenemos hasta el 25 de Febrero de 2016 para confirmar.**
+    
+Inscripciones
+--------------
+
+Los que iran al PyCamp 2016 La Serranita es necesario que se anoten aquí http://goo.gl/forms/RnLz3CEDtx
