@@ -112,7 +112,7 @@ http://www.turismocordoba.com.ar/solesblancos/#fotos (ver más detalles del hosp
         * 55km Córdoba Capital (1 hora en colectivo)
 
 
-**Contacto:** Emilio Ramirez (guacho) hemilioramirez@gmail.com
+**Contacto:** Emilio Ramirez (guacho) emilioramirez04@gmail.com
 
 
 **Formas de llegar: 5 pycampitas**
