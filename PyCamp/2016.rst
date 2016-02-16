@@ -16,7 +16,7 @@ Qué llevo (sección en construcción):
  
  - Tu computadora (mejor si es portatil). Actualizala con toda la información, paquetes y datos que creas que podrías necesitar, cosa de no exigirle a la internet del lugar más de lo necesario
 
- - La hostería **sí provee** Todo lo que tiene que ver con sábanas, frazadas, toallas, lo provee la hostería así que no nos tenemos que preocupar (aclaro porque hubo PyCamps donde no fue así)
+ - La hostería **sí provee** Todo lo que tiene que ver con sábanas, frazadas, toallas, así que no nos tenemos que preocupar (aclaro porque hubo PyCamps donde no fue así)
  
  
 
@@ -41,7 +41,7 @@ http://www.turismocordoba.com.ar/solesblancos/#fotos (ver más detalles del hosp
 
   * 33km de Villa General Belgrano
 
-**Contacto:** Jairo Trad, Javier Mansilla
+**Contacto:** Emilio Ramirez y Facundo Batista. `mandanos un mail <mailto:pycamp@python.org.ar>`_
 
 **Formas de llegar: 5 pycampitas**
 
@@ -79,6 +79,7 @@ Uno de los lugares (Complejo Soles Blancos), tiene cabañas para dormir (con sal
 El segundo de los lugares, tiene más habitaciones, y además restaurante, así que ahí es donde comeríamos todos.
 
 Hay un límite máximo de 40 (como mucho 45) camas entre ambas hosterías.
+
 
 Inscripciones:
 --------------
