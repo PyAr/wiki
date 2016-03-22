@@ -79,9 +79,7 @@ Hay un límite máximo de 40 (como mucho 45) camas entre ambas hosterías.
 Inscripciones:
 --------------
 
-Estamos en proceso de pre-inscripción. Si querés venir anotate `en este formulario <http://goo.gl/forms/RnLz3CEDtx>`_.
-
-Cualquier duda `mandanos un mail <mailto:pycamp@python.org.ar>`_.
+`Mandanos un mail <mailto:pycamp@python.org.ar>`_.
 
 ..  * Pre inscripción:
   
@@ -108,5 +106,5 @@ Cualquier duda, tema, o lo que quieras preguntar, `mandanos un mail <mailto:pyca
 Proyectos Propuestos:
 ------------------------
 
-ToDo.
+`Estos son <http://www.python.org.ar/wiki/PyCamp/2016/Actividades>`_, anotá el proyecto o idea que lleves y que tengas ganas de trabajar.
 
