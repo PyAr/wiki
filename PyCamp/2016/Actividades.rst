@@ -90,4 +90,6 @@ Acá hay algunos links que pueden ser útiles:
 
 [7] https://pypi.python.org/pypi/02exercicio/json
 
+[8] https://pypi.python.org/simple/
+
 Propone: ArielRossanigo
