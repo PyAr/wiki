@@ -17,10 +17,14 @@ Más info en este post. El servicio ya está online.
 
 Propone: FacundoBatista
 
+
 fades
+-----
+
 Fixear algún bug o meter algún feature en fades (fades is a system that automatically handles the virtualenvs in the cases normally found when writing scripts and simple programs, and even helps to administer big projects).
 
 Propone: FacundoBatista
+
 
 Clínica de migración a Py3k
 ---------------------------
