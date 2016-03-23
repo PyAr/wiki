@@ -93,3 +93,11 @@ Acá hay algunos links que pueden ser útiles:
 [8] https://pypi.python.org/simple/
 
 Propone: ArielRossanigo
+
+Controlando Señaladores Digitales con Bluetooh LE
+-------------------------------------------------
+
+Usando una Raspberry Pi para generar un señalador digital, vamos a conectarnos con un dispositivo Nuimo (emulado)
+con el cual vamos a controlar y disparar eventos en el señalador.
+
+Propone: DavidLitvak
