@@ -70,3 +70,24 @@ Sería una (otra) forma de difusión. Podria haber más de un canal (uno para Pl
 [4] https://telegram.org/faq_channels
 
 Propone: MatiBarriento
+
+
+Cache personalizada de PyPi
+---------------------------
+La idea de este proyecto es armar un script que prepare un cache de PyPi con paquetes pre-cacheados donde:
+
+1. El pre-cacheo se pueda suspender en cualquier momento sin romper nada
+2. Primero se debieran cachear los paquetes más importantes
+3. Se pueda fijar un tamaño máximo para el total de paquetes pre-cacheados
+
+El motivo de este script sería facilitarle la vida a quienes se encargan de generar mirrors de PyPi para PyCamps, PyCon, etc
+
+Acá hay algunos links que pueden ser útiles:
+
+[5] https://pypi.python.org/pypi/bandersnatch
+
+[6] http://pypi-ranking.info/alltime
+
+[7] https://pypi.python.org/pypi/02exercicio/json
+
+Propone: ArielRossanigo
