@@ -69,6 +69,8 @@ Sería una (otra) forma de difusión. Podria haber más de un canal (uno para Pl
 
 [4] https://telegram.org/faq_channels
 
+Está el canal, pero no tiene contenido todavía https://telegram.me/pythonargentina
+
 Propone: MatiBarriento
 
 
