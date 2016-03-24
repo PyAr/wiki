@@ -94,6 +94,7 @@ Acá hay algunos links que pueden ser útiles:
 
 Propone: ArielRossanigo
 
+
 Controlando Señaladores Digitales con Bluetooh LE
 -------------------------------------------------
 
@@ -101,3 +102,31 @@ Usando una Raspberry Pi para generar un señalador digital, vamos a conectarnos 
 con el cual vamos a controlar y disparar eventos en el señalador.
 
 Propone: DavidLitvak
+
+
+Hackeando el sitio de PyAr
+--------------------------
+
+O mejor dicho...
+
+- ver como podemos hacer más robusto el tema del uso del repo git
+
+- fixear cosas mal traducidas/migradas al sitio nuevo
+
+Propone: Facundo Batista
+
+
+Actividad grupal de programación
+--------------------------------
+
+O Coding Dojo, se llama, creo.
+
+
+Propone: Facundo Batista
+
+
+
+Jugando con la Raspi
+--------------------
+
+Emilio y Matías tienen sensores.
