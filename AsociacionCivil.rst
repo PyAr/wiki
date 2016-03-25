@@ -18,7 +18,7 @@ También estamos en el proceso de selección de las autoridades_ iniciales, actu
 
 .. _Estatuto: https://docs.google.com/document/d/1iobvM5W8IL7dU4U7HWf1Jj3reywvxnryF9STMByU-j8/edit
 
-.. _autoridades: /Autoridades
+.. _autoridades: /AsociacionCivil/Autoridades
 
-.. _candidatos: /Autoridades/Candidatos
+.. _candidatos: /AsociacionCivil/Autoridades/Candidatos
 
