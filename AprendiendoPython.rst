@@ -63,7 +63,7 @@ más básico:
   <TutorialPython3.pdf>`_)
 
 * `Aprenda a pensar como un programador con Python
-  <http://web.ballardini.com.ar/ai/raw-attachment/wiki/BibliografiaPython/thinkCSpy-es.pdf>`_
+  <http://argentinaenpython.com.ar/quiero-aprender-python/aprenda-a-pensar-como-un-programador-con-python.pdf>`_
 
 * `Python (curso interactivo en Code Academy)
   <https://www.codecademy.com/es/tracks/python-traduccion-al-espanol-america-latina-clone-1>`_
