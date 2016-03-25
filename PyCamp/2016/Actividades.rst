@@ -71,6 +71,8 @@ Sería una (otra) forma de difusión. Podria haber más de un canal (uno para Pl
 
 Está el canal, pero no tiene contenido todavía https://telegram.me/pythonargentina
 
+Dejo un ejemplo de code http://linkode.org/iaWxsTgJGnMdVEgYTaOqC
+
 Propone: MatiBarriento
 
 
