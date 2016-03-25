@@ -1,6 +1,6 @@
 Estos son buenos recursos |smiley|
 
-.. embed:: https://www.youtube.com/watch?v=NID05AjC_V4
+.. embed:: https://www.youtube.com/watch?v=viJoP21JQqk
 
 
 Estas son organizaciones y empresas argentinas que utilizan python regularmente de distintas formas[1]_.
