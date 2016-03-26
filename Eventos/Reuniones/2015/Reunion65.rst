@@ -12,7 +12,7 @@ Domingo 26 de Agosto de 2015 - 22hs
 Lugar
 ~~~~~
 
-La Serranita, Córdoba, en el marco del `PyCamp 2015 </wiki/PyCamp2015>`_
+La Serranita, Córdoba, en el marco del `PyCamp 2015 </wiki/PyCamp/2015>`_
 
 
 Minuta
