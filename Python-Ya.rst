@@ -1,1 +1,1 @@
->>> 'huevos y pan' 
+>>> print(r'C:\algun\nombre')
