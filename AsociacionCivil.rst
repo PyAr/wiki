@@ -6,9 +6,26 @@ Durante el 2014 se empezó a empujar en serio la idea de que Python Argentina se
 
 Estamos discutiendo todo en `esta lista de correo`_.
 
-En este momento (Nov 2014) ya tenemos cerrados los `Objetivos de la Asociación`_ y el Estatuto_. Bueno, "cerrados", siempre nos queda alguna duda con alguna palabra, y todavía no tenemos el OK final del Abogado. Pero ya casi.
+En este momento ya tenemos cerrados los `Objetivos de la Asociación`_ y el Estatuto_, y se presentaron en la IGJ, estamos a la espera de novedades.
 
-También estamos en el proceso de selección de las autoridades_ iniciales, actualmente esperando que se junten los candidatos_ para los distintos cargos. En cualquier momento sale el mail a la lista general para lo que es el proceso de la elección.
+Las autoridades para el primer ciclo son:
+
+- Presidente: Facundo Batista 
+- Vicepresidente: Joaquín Sorianello 
+- Secretario: Mariano Reingart 
+- Prosecretario: Nicolás Demarchi 
+- Tesorero: Leandro E. Colombo Viña 
+- Protesorero: Emiliano Dalla Verde Marcozzi 
+- Vocal: Mauro Javier Silva 
+- Vocal: Eliana Sofía Martin 
+- Suplente: Diego Amor Vocal 
+- Revisor de cuenta titular: Diego Mascialino 
+- Revisor de Cuenta suplente: Eduardo Arturo Enriquez 
+
+
+Se realizó también la reunión fundacional de la asociación, donde participaron los arriba mencionados más Leandro Brunner, Alejandro Javier Cura, y Gabriel Alejandro Genellina en caracter de Socios Fundadores.
+
+
 
 .. ############################################################################
 
