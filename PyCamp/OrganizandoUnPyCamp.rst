@@ -19,10 +19,7 @@ Espacios de hacking
 * Mínimo uno, donde puedan estar cómodamente sentados todos los participantes.
 * Idealmente dos, uno donde puedan estar todos y otro que se utilice durante las actividades por grupos más reducidos.
 * Los espacios deben poder estar disponibles las 24hs.
-<<<<<<< Updated upstream
 * Acceso a Internet (por cable o WiFi).
-=======
->>>>>>> Stashed changes
 
 Alojamiento
 ~~~~~~~~~~~~
@@ -34,11 +31,7 @@ Comida
 * El lugar debe proveer pensión completa, desayuno, almuerzo, merienda y cena. Adicionalmente puede incluirse algún cofee break.
 * Lo ideal es que la comida sea, además de abundante, medianamente sana. 
 * Las bebidas no alcohólicas deben estar incluidas.
-<<<<<<< Updated upstream
 * Tienen que poder brindar menus alternativos para vegetarianos, intolerantes a la berenjena, diabéticos (por ejemplo, bebidas sin azúcar) y/o celíacos, dependiendo de los inscriptos.  
-=======
-* Tienen que poder brindar menus alternativos para vegetarianos, intolerantes a la berenjena y/o celiacos, dependiendo de los inscriptos.  
->>>>>>> Stashed changes
 
 * La última noche se suele realizar una cena pre reunión, donde históricamente se realiza un asado.
 

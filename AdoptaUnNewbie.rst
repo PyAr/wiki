@@ -1,6 +1,11 @@
 Adopta Un Newbie
 ================
 
+Buenas! Adopta-un-newbie es un proyecto de PyAr orientado a permitir que gente
+que está buscando aprender de algo en particular, encuentre y se conecte con gente
+que está dispuesta a mentorear en esos temas.
+
+Básicamente:
 
 * gente se postula como mentores
 
@@ -15,6 +20,17 @@ Adopta Un Newbie
 * el mentado documenta lo que va aprendiendo en un blog
 
 * todos felices
+
+La manera de mentorear varía de mentor a mentor, algunos se dedican más a 
+responder dudas por mail, otros a hacer más revisiones de código, otros a 
+acompañar el desarrollo de algo en particular, etc. Pero en general, la 
+idea central sigue siendo la misma: alguien que puede seguir de cerca al 
+mentado, sabiendo "en qué anda" y pudiendo guiarlo de forma más personalizada.
+
+Si te interesa, no hace falta más que anotarte acá, en la lista que corresponda
+(como newbie o como mentor). Y si vez que se puede formar una pareja, simplemente
+comunicarte de forma directa con la otra persona (si no tenés el mail, podés 
+buscarlo en irc, o mandar un mail a la lista pidiendo contactarlo).
 
 Proyectos en busca de mentados
 ------------------------------
