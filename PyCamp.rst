@@ -55,6 +55,11 @@ Ediciones anteriores
 
 * Séptima edición, `Villa Giardino, Córdoba. Marzo de 2014`_.
 
+* Octava edición `La Serranita, Córdoba. Agosto de 2015`_
+
+* Novena edición `La Serranita, Córdoba. Marzo de 2016`_
+
+
 Blogpost sobre Pycamps
 ----------------------
 
@@ -140,6 +145,10 @@ Blogpost sobre Pycamps
 .. _Villa Giardino, Córdoba. Junio de 2013: /PyCamp/2013
 
 .. _Villa Giardino, Córdoba. Marzo de 2014: /PyCamp/2014
+
+.. _La Serranita, Córdoba. Agosto de 2015: /PyCamp/2015
+
+.. _La Serranita, Córdoba. Marzo de 2016: /PyCamp/2016
 
 
 
