@@ -60,7 +60,7 @@ más básico:
 
 * `El Tutorial de Python en Español
   <http://docs.python.org.ar/tutorial/3/index.html>`_ (`PDF
-  <TutorialPython3.pdf>`_)
+  <http://docs.python.org.ar/tutorial/pdfs/TutorialPython3.pdf>`_)
 
 * `Aprenda a pensar como un programador con Python
   <http://argentinaenpython.com.ar/quiero-aprender-python/aprenda-a-pensar-como-un-programador-con-python.pdf>`_
