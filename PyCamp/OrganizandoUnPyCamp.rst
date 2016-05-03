@@ -21,6 +21,7 @@ Espacios de hacking
 * Los espacios deben poder estar disponibles las 24hs.
 * Acceso a Internet (por cable o WiFi).
 
+
 Alojamiento
 ~~~~~~~~~~~~
 * Los alojamientos para dormir pueden ser del tipo pabellones y/o habitaciones compartidas.
