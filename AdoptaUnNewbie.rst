@@ -125,6 +125,8 @@ Mentados buscando mentores
 
 * Mendoza Daniel (chiquito): me interesa aprender y aportar en el proyecto "waliki".
 
+* Julian Silva (Python, Django,HTML5/CSS3)
+
 
 Adopciones en curso
 -------------------
