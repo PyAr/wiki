@@ -166,3 +166,5 @@ orientados a públicos distintos.
 .. _Versión en español: http://www.arrakis.es/~rapto/AprendaPython.html
 
 .. _El wiki oficial de Apache OpenOffice: https://wiki.openoffice.org/wiki/ES/Manuales/GuiaAOO/TemasAvanzados/Macros/Python
+
+.. _Python Ya: http://pythonya.appspot.com/
