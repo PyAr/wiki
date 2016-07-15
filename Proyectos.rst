@@ -8,7 +8,7 @@ Estos son los proyectos encarados *institucionalmente* por PyAr_ en los que pued
 
   * Administrador de colas de mensajes, con soporte para múltiples protocolos: SMTP (mail), SMPP (SMSs o mensajes cortos) y MM7 (MMSs o mensajes multimedia)
   
-.. _GauchitoGil: GauchitoGil
+.. _GauchitoGil: http://python.org.ar/pyar/Proyectos/GauchitoGil
 
 * `Caucho`_
 
