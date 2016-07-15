@@ -16,7 +16,7 @@ Configuracion del entorno python
 Crear un entorno virtual y un esqueleto de proyecto
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`Creando un nuevo proyecto python <CreandoUnNuevoProyectoPython>`_: Receta para crear un entorno de trabajo y un esqueleto minimo para un nuevo proyecto Python
+`Creando un nuevo proyecto python <Recetarior/CreandoUnNuevoProyectoPython>`_: Receta para crear un entorno de trabajo y un esqueleto minimo para un nuevo proyecto Python
 
 Mejorando el interprete python
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
