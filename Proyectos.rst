@@ -1,8 +1,3 @@
-Juegos
-------
-
-Juegos_ de PyAr_.
-
 Proyectos PyAr
 --------------
 
