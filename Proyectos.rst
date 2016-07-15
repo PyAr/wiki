@@ -30,40 +30,40 @@ Estos son los proyectos encarados *institucionalmente* por PyAr_:
 
   * Avanzadísimo juego de batalla en vehículos multijugador
 
-.. _Caucho: Caucho
+.. _Caucho: http://python.org.ar/pyar/Proyectos/Caucho
 
 
 * `STIM`_
 
   * Juego que presentamos en PyAr_ para la segunda edición de PyWeek
   
-.. _STIM: STIM
+.. _STIM: http://python.org.ar/pyar/Proyectos/STIM
 
 * `AlocadoAlocador`_
 
   * Juego desarrollado para Pygame.draw 2006
 
-.. _AlocadoAlocador: AlocadoAlocador
+.. _AlocadoAlocador: http://python.org.ar/pyar/Proyectos/AlocadoAlocador
 
 * `UnManualEnCadaUniversidad`_
 
 
   * Enviar un manual de Python a cada Universidad Argentina.
   
-.. _UnManualEnCadaUniversidad: UnManualEnCadaUniversidad
+.. _UnManualEnCadaUniversidad: http://python.org.ar/pyar/Proyectos/UnManualEnCadaUniversidad
 
 
 * `RevistaPythonComunidad`_
 
   * Hacemos una magazine de python entre todos ? ;)
 
-.. _RevistaPythonComunidad: RevistaPythonComunidad
+.. _RevistaPythonComunidad: http://python.org.ar/pyar/Proyectos/RevistaPythonComunidad
 
 * `UsoDePythonEnLaUniversidad`_
 
   * Sistematización de experiencias, herramientas y estrategias para difundir Python en la Universidad
 
-.. _UsoDePythonEnLaUniversidad: UsoDePythonEnLaUniversidad
+.. _UsoDePythonEnLaUniversidad: http://python.org.ar/pyar/Proyectos/UsoDePythonEnLaUniversidad
 
 Github.com
 ----------
@@ -361,7 +361,6 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 .. _PyFPDF: http://code.google.com/p/pyfpdf/
 
-.. _CDPedia: http://python.org.ar/pyar/Proyectos/CDPedia
 
 .. _Pag vieja: https://opensvn.csie.org/traccgi/PyAr/wiki/WikipediaOffline
 
