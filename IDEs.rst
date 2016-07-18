@@ -140,6 +140,8 @@ Vim es un editor de texto altamente configurable que permite editar texto de man
 
 http://www.vim.org
 
+Una **configuración** para vim orientada a python y fácil de instalar es esta (mantenida por fisa, de pyar): http://fisadev.github.io/fisa-vim-config
+
 Emacs
 ~~~~~
 
