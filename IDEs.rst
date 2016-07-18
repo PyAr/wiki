@@ -84,6 +84,11 @@ Editra es un editor de texto multiplataforma con una implementación que se cent
    - multiplataforma (en el trabajo hay windows :( ) y portable (te
    llevas la carpeta y listo, con configuracion y todo si pones adentro
    la .Editra)
+   
+   fisa actualiza su opinión en 2016:
+   
+   Hace rato que ya no lo uso, y el último release fue del 2013, así que no lo recomendaría más.
+   (por mi cuenta ahora uso mucho vim, y recomiendo sublime text o ninja-ide para principiantes)
 
 http://editra.org/
 
