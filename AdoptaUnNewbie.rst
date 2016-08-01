@@ -74,6 +74,8 @@ Mentores Disponibles
 
 * Fisa (JuanFisanotti_) (django y web, python en general, inteligencia artificial, vim)
 
+* DavidLitvak_ (python, web en general, REST, vim)
+
 
 Disponibles como mentores de charlas
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -89,6 +91,8 @@ Disponibles como mentores de charlas
 * HoracioDuran_
 
 * MarianoGuerra_
+
+* DavidLitvak_
 
 (seguro me olvido de alguno)
 
@@ -136,8 +140,6 @@ Adopciones en curso
 
 * EzequielMarquez_ -> HoracioDuran_ (web)
 
-* Jonathan Scherz -> `David Litvak`_ (Django, TDD, vim)
-
 * Catriel López, Marco Moresi, José de Jesus Marquez Rangel, Rommel Augusto Gutierrez Roa -> Fisa 
 
 
@@ -171,6 +173,8 @@ Adopciones Finalizadas
   * `Diego Ahumada`_ perdida de contacto
 
 * MartinAlderete_ - Ochoa Gerardo Fidel, perdida de contacto.
+
+* DavidLitvak_ - Jonathan Scherz, perdida de contacto.
 
 .. ############################################################################
 
