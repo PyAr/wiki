@@ -1,4 +1,4 @@
 Información
 ~~~~~~~~~~~~
-* Twitter: ``<ARROBA> amjalca``
-* Email: ``heyamjalca <ARROBA> gmail <DOT> com``
+* Twitter: ``AT SPAMFREE amjalca``
+* Email: ``heyamjalca AT SPAMFREE gmail DOT com``
