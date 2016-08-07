@@ -131,6 +131,8 @@ Mentados buscando mentores
 
 * Julian Silva (Python, Django,HTML5/CSS3)
 
+* Ana María Jalca (amjalca_): Python, Inteligencia Artificial y Web.
+
 
 Adopciones en curso
 -------------------
