@@ -142,8 +142,6 @@ Adopciones en curso
 
 * EzequielMarquez_ -> HoracioDuran_ (web)
 
-* Catriel López, Marco Moresi, José de Jesus Marquez Rangel, Rommel Augusto Gutierrez Roa -> Fisa 
-
 
 Mentores Buscados
 -----------------
@@ -164,9 +162,7 @@ Adopciones Finalizadas
 
   * Hernan Lozano: muy buena experiencia!
 
-  * Emanuel Toro: prácticamente no hubo contacto. Voy a re-contactar solo por las dudas.
-
-  * Jean Jacques: prácticamente no hubo contacto. Voy a re-contactar solo por las dudas.
+  * Emanuel Toro, Jean Jacques, Catriel López, Marco Moresi, José de Jesus Marquez Rangel, Rommel Augusto Gutierrez Roa: hubo contacto, pero más esporádico, con consultas puntuales más que nada. No hubo una especie de "cierre" formal de la adopción, pero no estamos teniendo contacto habitual.
 
 * Mariano Guerra
 
