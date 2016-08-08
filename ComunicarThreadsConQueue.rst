@@ -77,7 +77,9 @@ En este ejemplo, los hilos estan dormidos y solo se despiertan cuando hay algo q
 
   Usando esta estrategia nos queda el hilo principal libre para hacer lo que queramos (por ejemplo el main loop de un widget toolkit) el cual no se vera bloqueado por el trabajo realizado por los hilos.
 
-Mas info sobre el modulo Queue: http://www.python.org/doc/current/lib/module-Queue.html
+Mas info sobre el modulo Queue: https://docs.python.org/current/library/queue.html
+
+Asynchronous Queue a partir de Python 3.4:  https://docs.python.org/current/library/asyncio-queue.html
 
 la salida obtenida ejecutando el archivo:
 
