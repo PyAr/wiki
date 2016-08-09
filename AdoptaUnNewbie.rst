@@ -143,6 +143,8 @@ Adopciones en curso
 
 * EzequielMarquez_ -> HoracioDuran_ (web)
 
+* JuanFisanotti_ -> Ana Maria Jalca Montano (IA)
+
 
 Mentores Buscados
 -----------------
