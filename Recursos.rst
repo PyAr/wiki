@@ -126,13 +126,15 @@ Machinalis
 
 * URL: http://machinalis.com
 
-* ¿De qué forma usamos Python?: Hacemos mucho desarrollo web en Django y Plone/Zope/Python. Estamos trabajando en aplicaciones de escritorio multiplataforma con PyGTK, y en proyectos con Python que involucran Procesamiento de Lenguaje Natural, Data Mining e Inteligencia Artificial.
+* **This is what we are great at**
 
-* Librerías/frameworks utilizadas: Django, pyGTK, Zope, Plone
+* Making computers learn: Machine Learning / NLP / Data Mining / Artificial Intelligence
 
-* También utilizamos trac_ para la gestión del proyecto, tickets y wiki interno.
+* Shaping the Web: Complex Web Development / Process Automation / Python-Django Development
 
-* Los socios de la empresa son WalterAlini_, HoracioDuran_, JavierMansilla_, DanielMoisset_. (todos miembros de PyAR)
+* Data culture: Data Extraction / Data Analysis / Data Processing / Data Visualization
+ 
+* Github: http://github.com/machinalis
 
 Menttes
 ~~~~~~~
