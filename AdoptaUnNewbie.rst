@@ -100,6 +100,7 @@ Disponibles como mentores de charlas
 Mentados buscando mentores
 --------------------------
 
+* Bryan Velasco (brygevel_): Python enfocado a videojuegos.
 
 * `Mauricio José Tobares`_
 
