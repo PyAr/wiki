@@ -126,7 +126,7 @@ Python más rápido que C
 
 *Facundo Batista*, *Lucio Torre*
 
-**Slides y código:** http://tools.assembla.com/svn/homedevel/presents/pyrapidc/
+**Slides y código:** http://www.taniquetil.com.ar/homedevel/presents/pyrapidc/
 
 -------------------------
 
@@ -765,10 +765,19 @@ http://www.grulic.org.ar/~mdione/ayrton_elevation_lightning.odp
 PyDay Baradaero 2016
 ===============================
 
+Python más rápido que C
+-----------------------
+
+*Facundo Batista*
+
+**Slides y código:** http://www.taniquetil.com.ar/homedevel/presents/pyrapidc/
+
+-------------------------
+
 Python para humanos
 ---------------------------------
 
-Carlos de la Torre (`@py_litox <https://twitter.com/py_litox>`_)
+*Carlos de la Torre* (`@py_litox <https://twitter.com/py_litox>`_)
 
 SPOILER ALERT: esta charla no incluye código
 
@@ -780,7 +789,7 @@ La charla incluye mención a diversos ámbitos, de la industria y académicos, d
 
 La primera versión de esta charla fue presentada en el FLISoL Serrano 2015, Capilla del Monte, Córdoba. Fue concebida para estudiantes iniciales de una tecnicatura en programación.
 
-* Slides: https://docs.google.com/presentation/d/1fZUuySkCbBjP477VoHdhBns6Bouj92C33ku-BX-WCGM/
+**Slides**: https://docs.google.com/presentation/d/1fZUuySkCbBjP477VoHdhBns6Bouj92C33ku-BX-WCGM/
 
 
 enjoy!
