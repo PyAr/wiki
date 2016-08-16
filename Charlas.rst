@@ -794,6 +794,23 @@ La primera versión de esta charla fue presentada en el FLISoL Serrano 2015, Cap
 
 enjoy!
 
+Introducción a Docker
+-----------------------
+
+*Emiliano Dalla Verde Marcozzi*
+
+**Slides:** https://drive.google.com/open?id=1VdWZm_opKFOdibQzHNopcDM_X9QlIZlCmOzylVP0IiE 
+
+Introducción informal a la programacion
+---------------------------------------
+
+*Emiliano Dalla Verde Marcozzi*
+
+**Slides:** https://drive.google.com/open?id=1qHkzva6fi4VverbrLn9RSqxcVFRUMeNLulRuBH_zBJI 
+
+
+-------------------------
+
 .. ############################################################################
 
 .. _slides: http://www.juanjoconti.com.ar/files/python/fu/charla-cordoba/
