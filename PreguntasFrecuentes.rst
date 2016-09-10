@@ -529,7 +529,7 @@ Pero ojo, que esto sucede con versiones pasadas y actuales de CPython. Es un det
 
 .. _ClamWin: http://es.clamwin.com
 
-.. _OpenErp: http://www.openerp.com
+.. _Odoo: http://www.odoo.com (ex **OpenErp**)
 
 
 .. _Meld: http://meld.sourceforge.net
