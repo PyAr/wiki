@@ -83,7 +83,7 @@ Hogar German Frers
 ------------------
 
 
-**Nombre del lugar:** Centro de retiros y Albergue "Hogar Germán Frers" `Sitio Web <http://www.habitatyerra.com.ar/>`_
+**Nombre del lugar:** Centro de retiros y Albergue "Hogar Germán Frers" `Web <http://www.habitatyerra.com.ar/>`_
 
 
 **Donde está:** Ruta 41 y Juan XXIII, Baradero. `Aca <https://goo.gl/maps/ocn6Hnjaoq72>`_
