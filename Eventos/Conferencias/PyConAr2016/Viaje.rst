@@ -6,8 +6,8 @@
 CABA
 ----
 
-* Manuel Kaufmann (humitos): No tengo auto. Llego el Miércoles 23 de Noviembre a Bs As.
-* Johanna Sanchez (ellaquimica): No tengo auto. Llego el Miércoles 23 de Noviembre a Bs As.
+* Manuel Kaufmann (humitos): No tengo auto. Llego el Miércoles 23 de Noviembre a Bs As a las 18:30hs
+* Johanna Sanchez (ellaquimica): No tengo auto. Llego el Miércoles 23 de Noviembre a Bs As a las 18:30hs
 
 [Agregar contactos de colectivos que salgan, mail, o nick irc de alguien que quiera compartir el auto]
 
