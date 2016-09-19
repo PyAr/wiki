@@ -1,7 +1,7 @@
 
 Conferencias
 ------------
-* `Pycon Argentina 2016 </Eventos/Conferencias/PyConAr2016>`_:
+* `Pycon Argentina 2016 </Eventos/Conferencias/PyConAr2016>`_:  25, 26 y 27 de Noviembre - Bahía Blanca.
 * `PyCon Argentina 2013`_, a realizarse los días 24 y 25 de octubre de 2013 en Rosario.
 
 * `PyCon Argentina 2012`_, a realizarse entre el 12 y 17 de Noviembre de 2012 en Buenos Aires (Bernal -Quilmes- y Capital Federal)
