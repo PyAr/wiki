@@ -791,8 +791,9 @@ La primera versión de esta charla fue presentada en el FLISoL Serrano 2015, Cap
 
 **Slides**: https://docs.google.com/presentation/d/1fZUuySkCbBjP477VoHdhBns6Bouj92C33ku-BX-WCGM/
 
-
 enjoy!
+
+-------------------------
 
 Introducción a Docker
 -----------------------
@@ -801,6 +802,8 @@ Introducción a Docker
 
 **Slides:** https://drive.google.com/open?id=1VdWZm_opKFOdibQzHNopcDM_X9QlIZlCmOzylVP0IiE 
 
+-------------------------
+
 Introducción informal a la programacion
 ---------------------------------------
 
@@ -808,8 +811,38 @@ Introducción informal a la programacion
 
 **Slides:** https://drive.google.com/open?id=1qHkzva6fi4VverbrLn9RSqxcVFRUMeNLulRuBH_zBJI 
 
+-------------------------
+
+PyDay Rafela 2016
+===============================
+
+Python para humanos
+---------------------------------
+
+*Carlos de la Torre* (`@py_litox <https://twitter.com/py_litox>`_)
+
+Se trata de una breve introducción a Python: como lenguaje pero principalmente de su Ecosistema. 
+¿Para qué y cómo se usa Python? ¿Por qué? 
+La charla se enfoca en una de sus mayores ventajas: la comunidad. 
+Incluye apenas una breve descripción técnica del lenguaje al comienzo.
+
+Hay muchas charlas que apuntan a lo técnico: a enseñar el lenguaje o herramientas asociadas. En esta charla propongo analizar Python con una mirada ortogonal, que se basa en la comunidad. 
+Es para dar una perspectiva más amplia y abarcadora del lenguaje, para dimensionar su utilidad y ventajas desde una perspectiva no tan común.
+La charla incluye mención a diversos ámbitos, de la industria y académicos, donde se usa Python y a cuestiones asociadas al entorno laboral.
+
+**Slides**: https://docs.google.com/presentation/d/1lsNKc73mVMkpbqqpUPZ-gwbGXllvKv86GkylsCsJM7Q/edit?usp=sharing
 
 -------------------------
+
+Lightning talk: buscando aliens
+---------------------------------
+
+*Carlos de la Torre* (`@py_litox <https://twitter.com/py_litox>`_)
+
+**Slides**: https://docs.google.com/presentation/d/1pq9qPpLHnUOR4QGNCAILsZ9W377Y21c4x8YRTW3HZPc/edit?usp=sharing
+
+-------------------------
+
 
 .. ############################################################################
 
