@@ -37,6 +37,17 @@ Core Security Technologies
 
 * ¿De qué forma usamos Python?: Lo usamos de distintas maneras. Lo tenemos embebido en un producto comercial (impact) donde la mitad del producto esta hecha en python. Usamos mod_python para algunos servidores, usamos Zope para otros. Usamos python para el daily builder. Lo usamos para tareas de mantenimiento, y probablemente lo usemos para más cosas.
 
+Devsar
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Contacto: `` contact AT devsar DOT com, Info``
+
+* URL: http://www.devsar.com
+
+* Teléfono: 0221-553-1191
+
+* Dirección: Calle 43 915 1-A-B. La Plata, Buenos Aires.
+
 EuskoSare
 ~~~~~~~~~
 
