@@ -42,7 +42,7 @@ Devsar
 
 * Contacto: `` contact AT devsar DOT com, Info``
 
-* URL: http://www.devsar.com
+* URL: http://devsar.com
 
 * Teléfono: 0221-553-1191
 
