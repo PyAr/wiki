@@ -50,7 +50,7 @@ Claramente OFFTOPIC
 
 * Consultas de otros lenguajes
 
-* Temas filosóficos, políticos o religiosos, que probablemente tengan otras listas para discutirlos. (desde software libre hasta kirchnerismo)
+* Temas filosóficos, políticos o religiosos, que probablemente tengan otras listas para discutirlos. (desde software libre hasta kirchnerismo, Macrismo)
 
 * Mi pitón me esta estrangulando... que hago?
 
