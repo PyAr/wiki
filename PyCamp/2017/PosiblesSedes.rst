@@ -168,7 +168,7 @@ El Colorado - Formosa
 
 **Contacto:** Ariel Montenegro -Fabián Bassi
 
-**Formas de llegar: 4 pycampitas**
+**Formas de llegar: 3 pycampitas**
 
 * En auto: La ciudad de Formosa (capital) se encuentra a 150 kms y las rutas están en buen estado. Se actualizará información sobre algunos baches que se van generando y están presentes en las rutas. Capital Federal se encuentra a 1150 kms (aprox.) y el viaje en auto lleva entre 12 y 14 hs. Desde la ciudad de Córdoba tomaría unas 12 o 14 horas de viaje. Y desde la ciudad de Santa Fe entre 10 y 12 horas.
 
@@ -230,7 +230,7 @@ El Colorado - Formosa
 * Desde Santa Fe a Resistencia en colectivo: $ 850
 
 
-**Qué onda el lugar: 80 pycampitas**
+**Qué onda el lugar: 4 pycampitas**
 
 Muy tranquilo, cero ruidos, mucho verde, "en el medio del campo".
 Dentro del predio se puede acampar, se puede utilizar el parrillero para hacer asados y se pueden realizar actividades de recreación al aire libre (fútbol, Voleibol, etc)
@@ -239,7 +239,7 @@ El lugar cuenta con Wi-Fi, proyector multimedia, pizarra y un salón de actos (S
 Mucho verde!
 ..
 
-**Qué onda las habitaciones: 28 pycampitas**
+**Qué onda las habitaciones: 4 pycampitas**
 
 El lugar para alojarse cuenta con cuatro habitaciones (3 simples y 1 especial) con Wi-Fi y aire acondicionado.
 En total hay 28 camas. En el salón (al lado) se puede agregar colchones, por lo que podrían entrar más participantes. El Costo hoy es $ 150 por día.
@@ -249,7 +249,7 @@ Las habitaciones cuentan con enchufes y aire acondicionado. Se pueden agregar za
 El lugar cuenta con una cocina y una heladera que se comparte con el resto de las personas alojadas. 
 
 
-**Qué onda la comida y alojamiento: 1 pycampitas (no se cobra por entrar a la institución, si alojamiento)**
+**Qué onda la comida y alojamiento: 3 pycampitas (no se cobra por entrar a la institución, si alojamiento)**
 
 Precio: Alojamiento + Comida (servicio de catering).
 Alojamiento:
