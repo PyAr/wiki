@@ -162,9 +162,9 @@ El Colorado - Formosa
 **Nombre del lugar:** Estación Experimental Agropecuaria El Colorado del INTA - http://www.inta.gob.ar/elcolorado
 
 
-**Donde está:**  El Colorado, Provincia de Formosa - https://goo.gl/maps/79nnQ5zeptj
+**Donde está:**  El Colorado, Provincia de Formosa - https://goo.gl/Apq3M4
 
-**Fotos:**  https://www.dropbox.com/sc/nfsiz4ggty07qn9/AADFlEVTtB276dOKHhqvY6Esa
+**Fotos:**  https://goo.gl/qNu38z
 
 **Contacto:** Ariel Montenegro -Fabián Bassi
 
@@ -218,7 +218,7 @@ El Colorado - Formosa
 * Empresa Nueva Godoy, sale desde Formosa (capital) a El Colorado a las 06:00 hs, 10:00 hs, 13:00 hs, 18:00 hs y 20:00 hs – Servicio Común (duración 2:30 hs aprox.)
 * Empresa Nueva Godoy, sale desde El Colorado a Formosa (capital) a las 05:00 hs, 09:00 hs, 13:00 hs, 16:00 hs – Servicio Común (duración 2:30 hs aprox.)
 
-**Costos aproximados con fecha actual:**
+**Costos aproximados con fecha actual (Octubre 2016):**
 
 * Desde Formosa a El Colorado en Minibus: $ 110
 * Desde Formosa a El Colorado en colectivo: $ 110
@@ -234,8 +234,8 @@ El Colorado - Formosa
 
 Muy tranquilo, cero ruidos, mucho verde, "en el medio del campo".
 Dentro del predio se puede acampar, se puede utilizar el parrillero para hacer asados y se pueden realizar actividades de recreación al aire libre (fútbol, Voleibol, etc)
-El predio se encuentra a 3,5 Km del pueblo
-El lugar cuenta con Wi-Fi, proyector multimedia, pizarra y un salón de actos (SUM) con aire acondicionado para alojar alrededor de 90 personas (cómodas). El acceso Wi-Fi es de 12 Mbps de bajada y 8 Mbps de subida. Determinados sitios son filtrados/denegados por políticas de seguridad de la información de la institución.
+. El predio se encuentra a 3,5 Km del pueblo
+. El lugar cuenta con Wi-Fi, proyector multimedia, pizarra y un salón de actos (SUM) con aire acondicionado para alojar alrededor de 90 personas (cómodas). El acceso Wi-Fi es de 12 Mbps de bajada y 8 Mbps de subida. Determinados sitios son filtrados/denegados por políticas de seguridad de la información de la institución.
 Mucho verde!
 ..
 
@@ -244,8 +244,8 @@ Mucho verde!
 El lugar para alojarse cuenta con cuatro habitaciones (3 simples y 1 especial) con Wi-Fi y aire acondicionado.
 En total hay 28 camas. En el salón (al lado) se puede agregar colchones, por lo que podrían entrar más participantes. El Costo hoy es $ 150 por día.
 Las habitaciones tienen entre 6 y 8 camas (total 28)
-Cada habitación cuenta con baño privado. También hay baños que son compartidos y que son utilizados para los días de capacitación.
-Las habitaciones cuentan con enchufes y aire acondicionado. Se pueden agregar zapatillas eléctricas
+. Cada habitación cuenta con baño privado. También hay baños que son compartidos y que son utilizados para los días de capacitación.
+Las habitaciones cuentan con enchufes y aire acondicionado. Se pueden agregar zapatillas eléctricas. 
 El lugar cuenta con una cocina y una heladera que se comparte con el resto de las personas alojadas. 
 
 
@@ -260,7 +260,7 @@ Se paga ese mismo día, al ingresar al lugar.
 Se hacen facturas o recibos individuales por si alguien lo necesita.
 Catering:
 Con respecto a la comida: contratando a un servicio de rotisería del pueblo, el almuerzo y la cena saldría $ 150 por día por persona. Esta cotización se realizó en base a una cantidad estimada de 60 personas participantes del Pycamp. Si son más, se reduciría el precio por persona.
-El precio por persona por día del desayuno es (a definir...Cargaremos ni bien contamos con la info)
+El precio por persona por día del desayuno es $50.
 Detalle:
 * Día Viernes: incluye cena.
 * Día Sábado: incluye desayuno, almuerzo y cena.
@@ -281,7 +281,7 @@ Disponibilidad: queda averiguar fechas.
 
 * No se cobra entrada al lugar, es una institución del estado (Instituto Nacional de Tecnología Agropecuaria de El Colorado)
 * Comodidad en las habitaciones. Todas cuentan con aire acondicionado
-* A 800 mts del lugar propuesto, existe el Camping de El Colorado para actividades de recreación y entrenamiento. Es muy buen lugar, mucho verde y está sobre el Río Bermejo, que viene muy bien para relajar la vista (de los desarrolladores). Cuenta con parrillas y es especial para hacer asados. Cuenta con baños públicos y mucho mucho verde. Es especial para acampar a la costa del río. Fotos en este Link: https://www.facebook.com/pages/Camping-El-Coloradooo/736039843138283 
+* A 800 mts del lugar propuesto, existe el Camping de El Colorado para actividades de recreación y entrenamiento. Es muy buen lugar, mucho verde y está sobre el Río Bermejo, que viene muy bien para relajar la vista (de los desarrolladores). Cuenta con parrillas y es especial para hacer asados. Cuenta con baños públicos y mucho mucho verde. Es especial para acampar a la costa del río. Fotos en este Link: https://goo.gl/Bsq9VC 
 
 **Tres puntos en contra:**
 
