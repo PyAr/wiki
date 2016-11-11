@@ -166,7 +166,7 @@ El Colorado - Formosa
 
 **Fotos:**  https://goo.gl/qNu38z
 
-**Contacto:** Ariel Montenegro -Fabián Bassi
+**Contacto:** Ariel Montenegro - Fabián Bassi
 
 **Formas de llegar: 3 pycampitas**
 
