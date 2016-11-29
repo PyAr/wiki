@@ -862,6 +862,12 @@ Bots charlatanes
 
 **Slides** https://github.com/edvm/talks/tree/master/pycon2016
 
+Redes Neuronales con Python utilizando Keras
+--------------------------------------------
+
+*Juan Pedro Fisanotti* (`@fisadev <https://twitter.com/fisadev>`_) 
+
+**Slides** https://github.com/fisadev/talks/tree/master/keras-neural-networks
 
 .. ############################################################################
 
