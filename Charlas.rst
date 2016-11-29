@@ -855,7 +855,13 @@ Infraestructura como código
 **Slides** http://bit.ly/2gEL72Y
 
 
--------------------------
+Bots charlatanes
+----------------
+
+*Emiliano Dalla Verde Marcozzi* (`@edvm <https://twitter.com/edvm>`_) 
+
+**Slides** https://github.com/edvm/talks/tree/master/pycon2016
+
 
 .. ############################################################################
 
