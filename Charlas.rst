@@ -844,6 +844,19 @@ Lightning talk: buscando aliens
 -------------------------
 
 
+PyConAr 2016 Bahia Blanca
+===============================
+
+Infraestructura como código
+----------------------------
+
+*Nicolás Demarchi* (`@gilgamezh <https://twitter.com/gilgamezh>`_) 
+
+**Slides** http://bit.ly/2gEL72Y
+
+
+-------------------------
+
 .. ############################################################################
 
 .. _slides: http://www.juanjoconti.com.ar/files/python/fu/charla-cordoba/
