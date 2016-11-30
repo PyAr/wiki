@@ -168,7 +168,7 @@ El Colorado - Formosa
 
 **Contacto:** Ariel Montenegro - Fabián Bassi
 
-**Formas de llegar: 3 pycampitas**
+**Formas de llegar: 4 pycampitas**
 
 * En auto: La ciudad de Formosa (capital) se encuentra a 150 kms y las rutas están en buen estado. Se actualizará información sobre algunos baches que se van generando y están presentes en las rutas. Capital Federal se encuentra a 1150 kms (aprox.) y el viaje en auto lleva entre 12 y 14 hs. Desde la ciudad de Córdoba tomaría unas 12 o 14 horas de viaje. Y desde la ciudad de Santa Fe entre 10 y 12 horas.
 
