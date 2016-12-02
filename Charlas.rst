@@ -869,6 +869,14 @@ Redes Neuronales con Python utilizando Keras
 
 **Slides** https://github.com/fisadev/talks/tree/master/keras-neural-networks
 
+
+Bindings, mutable default arguments, y otros quilom... detalles
+---------------------------------------------------------------
+
+Por `Facundo Batista <http://taniquetil.com.ar/plog/>`_
+
+`Slides <http://www.taniquetil.com.ar/homedevel/presents/pydetalles.odp>`_
+
 .. ############################################################################
 
 .. _slides: http://www.juanjoconti.com.ar/files/python/fu/charla-cordoba/
