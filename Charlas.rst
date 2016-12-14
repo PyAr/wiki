@@ -877,6 +877,15 @@ Por `Facundo Batista <http://taniquetil.com.ar/plog/>`_
 
 `Slides <http://www.taniquetil.com.ar/homedevel/presents/pydetalles.odp>`_
 
+
+Concurrencia en Python
+----------------------
+
+*Martin Alderete* (`@malderete <https://twitter.com/alderetemartin>`_) 
+
+**Slides** https://docs.google.com/presentation/d/1NswnJQXJR3E45hzX3vfZRmyxKFXoQRWBefZBb41gUZU/edit?usp=sharing
+
+
 .. ############################################################################
 
 .. _slides: http://www.juanjoconti.com.ar/files/python/fu/charla-cordoba/
