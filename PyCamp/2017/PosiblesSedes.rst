@@ -161,6 +161,7 @@ Hogar German Frers
 
 El Colorado - Formosa
 ----------------------
+Por ser un predio del INTA no hay fecha limite de reserva.
 
 **Nombre del lugar:** Estación Experimental Agropecuaria El Colorado del INTA - http://www.inta.gob.ar/elcolorado
 
