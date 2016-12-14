@@ -135,25 +135,28 @@ Hogar German Frers
 
 * No se si ofrecen el servicio de asado para la última cena.
 
-* Tienen lugar para 90 personas. si somos pocos, el precio es un poco alto.
+* Hay que decidir con bastante anticipacion. 
 
 **Disponibilidad:** queda averiguar fechas.
 
 * Hay que confirmar con 50% de la estadía 30 dias antes del evento (mediados de febrero) y el 50% restante 15 dias antes del evento, aunque se puede charlar.
 
-**Precio:** $67200 TOTAL alojamiento (+ $1505 por las comidas por persona). si somos 30 sale $3745, 40 $3185, 50 $2849, 68 $2250
+**Precio:** $2465 (por persona, en edificio principal) o $2065 (por persona, en edificio colonial. por la diferencia de precio, yo recomiendo el edificio principal.
 
 * Se consideran tres días y medio, desde el almuerzo del primer día hasta la merienda del último (aunque se puede entrar antes y salir tarde el último día, sin problemas). Obviamente son tres noches.
 
 * Incluye: Incluyen ropa de cama + el libre uso (Pileta, canchas, SUM, WIFI).
 
-* Tendriamos que ser al menos 40(?), para que el precio no sea demasiado alto.
+* El presupuesto es en base a 30 personas. si somos bastantes mas puede variar (para abajo)
 
 * Hay que entregarles toda la plata junta. Alguien debería encargarse de juntarla.
 
 * Hacen facturas o recibos individuales si alguno necesita.
 
-* Tienen dos servicios de internet (3mb con un wisp local, que no se pueden ampliar) y 1 mb con ARNET, que tampoco puede ampliarse.
+* Tienen dos servicios de internet (3mb con un wisp local, que no se pueden ampliar) y 1 mb con ARNET, que tampoco puede ampliarse. Están por contratar un tercer servicio, ya que colocaron cámaras y piensan dejar una conexion exclusiva para eso.
+
+
+* Adjunto `presupuesto que me enviaron por mail <http://www.python.org.ar/wiki/PyCamp/2017/PosiblesSedes/attachment/53475/2017-03-23%20al%2026%20-%20Evento%20Programadores%20-%20Laureno%20Bara%20_14-12_.pdf>`_
 
 
 El Colorado - Formosa
