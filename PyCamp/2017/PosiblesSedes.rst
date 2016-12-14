@@ -149,6 +149,8 @@ Hogar German Frers
 
 * El presupuesto es en base a 30 personas. si somos bastantes mas puede variar (para abajo)
 
+* Por el momento la fecha que consulté y tienen libre es 23, 24, 25 y 26 de marzo.
+
 * Hay que entregarles toda la plata junta. Alguien debería encargarse de juntarla.
 
 * Hacen facturas o recibos individuales si alguno necesita.
