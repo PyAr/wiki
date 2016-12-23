@@ -253,9 +253,9 @@ Las habitaciones tienen entre 6 y 8 camas (total 28)
 . Cada habitación cuenta con baño privado. También hay baños que son compartidos y que son utilizados para los días de capacitación.
 Las habitaciones cuentan con enchufes y aire acondicionado. Se pueden agregar zapatillas eléctricas.
 
-Habitación 1 con 4 camas (cucheta) y con baño privado (aloja 8 personas)
-Habitación 2 con 4 camas (cucheta) y con baño privado (aloja 8 personas)
-Habitación 3 con 4 camas (cucheta) y con baño privado (aloja 8 personas)
+Habitación 1 con 4 camas (cucheta) y con baño privado (aloja 8 personas).
+Habitación 2 con 4 camas (cucheta) y con baño privado (aloja 8 personas).
+Habitación 3 con 4 camas (cucheta) y con baño privado (aloja 8 personas).
 Habitación 4 con 3 camas (cucheta) y con baño privado (aloja 6 personas).
 
 El lugar cuenta con una cocina y una heladera que se comparte con el resto de las personas alojadas. 
