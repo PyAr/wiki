@@ -251,8 +251,16 @@ El lugar para alojarse cuenta con cuatro habitaciones (3 simples y 1 especial) c
 En total hay 28 camas. En el salón (al lado) se puede agregar colchones, por lo que podrían entrar más participantes. El Costo hoy es $ 150 por día.
 Las habitaciones tienen entre 6 y 8 camas (total 28)
 . Cada habitación cuenta con baño privado. También hay baños que son compartidos y que son utilizados para los días de capacitación.
-Las habitaciones cuentan con enchufes y aire acondicionado. Se pueden agregar zapatillas eléctricas. 
+Las habitaciones cuentan con enchufes y aire acondicionado. Se pueden agregar zapatillas eléctricas.
+
+Habitación 1 con 4 camas (cucheta) y con baño privado (aloja 8 personas)
+Habitación 2 con 4 camas (cucheta) y con baño privado (aloja 8 personas)
+Habitación 3 con 4 camas (cucheta) y con baño privado (aloja 8 personas)
+Habitación 4 con 3 camas (cucheta) y con baño privado (aloja 6 personas).
+
 El lugar cuenta con una cocina y una heladera que se comparte con el resto de las personas alojadas. 
+
+
 
 
 **Qué onda la comida y alojamiento: 3 pycampitas (no se cobra por entrar a la institución, si alojamiento)**
