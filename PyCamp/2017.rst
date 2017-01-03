@@ -74,7 +74,7 @@ Por otro lado, para congelar ya la tarifa, se necesitaria el 70% del total ($343
 Inscripciones:
 --------------
 
-`Manda un mail <mailto:laureano.bara@gmail.com>`_.
+`Manda un mail <mailto:pycamp@python.org.ar>`_.
 
 
 Organizadores:
@@ -82,7 +82,7 @@ Organizadores:
 
 Laureano Silva.
 
-Cualquier duda, tema, o lo que quieras preguntar, `mandanos un mail <mailto:laureano.bara@gmail.com>`_
+Cualquier duda, tema, o lo que quieras preguntar, `mandanos un mail <mailto:pycamp@python.org.ar>`_
 
 
 Proyectos Propuestos:
