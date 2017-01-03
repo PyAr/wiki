@@ -82,6 +82,8 @@ Organizadores:
 
 Laureano Silva.
 
+Facundo Batista.
+
 Cualquier duda, tema, o lo que quieras preguntar, `mandanos un mail <mailto:pycamp@python.org.ar>`_
 
 
