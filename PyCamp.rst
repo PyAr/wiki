@@ -126,7 +126,7 @@ Blogpost sobre Pycamps
 
 .. _organizar: /wiki/PyCamp/OrganizandoUnPyCamp
 
-.. _marcha: /wiki/PyCamp/2017/PosiblesSedes
+.. _marcha: /wiki/PyCamp/2017
 
 .. _Cocos2d: http://cocos2d.org/
 
