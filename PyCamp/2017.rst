@@ -1,3 +1,9 @@
+¿Un qué?
+--------
+
+Antes que nada, ¿qué es un PyCamp? `Acá tenés una buena descripción y mucha info <http://www.python.org.ar/wiki/PyCamp/>`_.
+
+
 Fechas: 
 -------
 
