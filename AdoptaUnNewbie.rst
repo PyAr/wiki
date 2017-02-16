@@ -134,6 +134,8 @@ Mentados buscando mentores
 
 * Ana María Jalca (amjalca_): Python, Inteligencia Artificial y Web.
 
+* Sebas Giustra (sebasgiustra): Python, PyQt y Django, en ese orden.
+
 
 Adopciones en curso
 -------------------
