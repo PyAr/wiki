@@ -26,6 +26,6 @@ Varios temas a charlar:
 
 
 Cómo reservar
--------------
+~~~~~~~~~~~~~ 
 
 No hay que reservar, sólo ir. Pero si comparten por las redes que van a venir, mejor :)
