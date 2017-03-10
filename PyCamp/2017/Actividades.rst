@@ -16,9 +16,24 @@ InfoGrafias Smarts:
 
 Propone: <Ariel Silvio Norberto RAMOS: asnramos[Berny]>
 
+
+__init__
+---------
+
+La idea es hacer un taller de "como sumarte a un proyecto del pycamp" explicando python, debug, git, virtualenv, etc para que quien esta dando sus primeros pasos pueda integrarse facilmente.
+Te recomiendo sumarte si recien arrancas.
+Y si ya sabes todo esto, veni a dar una mano.
+
+Requirements: python, git, virtualenv. Opcionales: ipython, ipdb, virtualenvwrapper, etc
+
+Propone: Mati Barriento
+
+
 Template: Otro proyecto o software o actividad
 ----------------------------------------------
 
 Como se llama, que hace?, en que beneficiaria? porque esta bueno?
+
+Requirements: <Que estaría bueno tener instalado antes del evento>
 
 Propone: <Quien propone la idea o empuja el proyecto>
