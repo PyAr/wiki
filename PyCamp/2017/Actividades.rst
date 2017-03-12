@@ -9,14 +9,6 @@ Fixear algún bug o meter algún feature en fades (fades is a system that automa
 Propone: FacundoBatista
 
 
-InfoGrafias Smarts:
--------------------
-
-(Infografias y/o Pictogramas): Dado un texto o palabras, generar una imagen lo mas representativa posible acompañada del texto con palabras que transmiten la idea (infografia) o un Pictograma, sirve para enseñar de manera Entretenida y transmitir una idea o un concepto de manera visual y llamativa, tambien tiene que generar sugerencias y mejorar el resultado grafico de la infografia y/o pictograma resultante segun se va usando la aplicacion, busca informacion en internet o bien en una base de datos local y propia o una intranet con contenido como RACHELOFFLINE.ORG, opcion para trabajar con diferentes idiomas, está bueno porque ayuda a enseñar de una manera Entretenida y tal vez pueda generar lenguaje de señas (analizar en conjunto, esto ultimo).
-
-Propone: <Ariel Silvio Norberto RAMOS: asnramos[Berny]>
-
-
 __init__
 ---------
 
