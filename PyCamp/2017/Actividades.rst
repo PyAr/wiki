@@ -21,6 +21,18 @@ Requirements: python, git, virtualenv. Opcionales: ipython, ipdb, virtualenvwrap
 Propone: Mati Barriento
 
 
+Web PyAr
+---------
+
+Según entiendo, hay conflictos para actualizar el branch master del sitio web de PyAr. En develop hay features nuevos.
+Propongo trabajar en equipo para destrabar eso.
+
+Requirements: lo que haga falta para poner en marcha https://github.com/PyAr/pyarweb
+
+Propone: Litox
+
+
+
 Template: Otro proyecto o software o actividad
 ----------------------------------------------
 
