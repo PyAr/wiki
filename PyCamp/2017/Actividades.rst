@@ -41,3 +41,25 @@ Como se llama, que hace?, en que beneficiaria? porque esta bueno?
 Requirements: <Que estaría bueno tener instalado antes del evento>
 
 Propone: <Quien propone la idea o empuja el proyecto>
+
+
+Programación: Qué es esto?
+--------------------------
+
+Un tallercito para aprender a aprender a programar desde 0, o refrezcar las neuronas
+
+Requirements: Lapiz y papel o compu y muchas ganas
+
+Propone: DavidLitvak
+
+
+Metaprogramación en Python
+--------------------------
+
+Un tallercito para aprender conceptos avanzados de programación, en particular, metaprogramación.
+Para qué sirve? Cómo se usa? Situaciones reales donde esto sirve.
+
+Requirements: Python 2.7+ o 3.x y algun editor de texto o IDE que prefieras
+
+Propone: DavidLitvak
+
