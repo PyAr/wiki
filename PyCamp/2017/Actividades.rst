@@ -32,17 +32,6 @@ Requirements: lo que haga falta para poner en marcha https://github.com/PyAr/pya
 Propone: Litox
 
 
-
-Template: Otro proyecto o software o actividad
-----------------------------------------------
-
-Como se llama, que hace?, en que beneficiaria? porque esta bueno?
-
-Requirements: <Que estaría bueno tener instalado antes del evento>
-
-Propone: <Quien propone la idea o empuja el proyecto>
-
-
 Programación: Qué es esto?
 --------------------------
 
@@ -63,3 +52,13 @@ Requirements: Python 2.7+ o 3.x y algun editor de texto o IDE que prefieras
 
 Propone: DavidLitvak
 
+
+
+Template: Otro proyecto o software o actividad
+----------------------------------------------
+
+Como se llama, que hace?, en que beneficiaria? porque esta bueno?
+
+Requirements: <Que estaría bueno tener instalado antes del evento>
+
+Propone: <Quien propone la idea o empuja el proyecto>
