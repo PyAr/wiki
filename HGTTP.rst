@@ -32,7 +32,7 @@ El tutorial solo tiene la parte organizacional y los detallitos del evento, la p
 
 .. _Eleccion del equipo: HGTTP/Equipo
 
-.. _Eleccion del Lugar: Lugar
+.. _Eleccion del Lugar: HGTTP/Lugar
 
 .. _Sponsoring: HGTTP/Sponsoring
 
