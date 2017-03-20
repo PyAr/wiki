@@ -1,5 +1,6 @@
-PyconAr 2017
+PyconAr 2016
 ============
 
-* `Propuesta sede Córdoba </Eventos/Conferencias/PyConAr2017/PropuestaSedeCordoba>`_
-
+* `Propuesta sede B.Blanca </Eventos/Conferencias/PyConAr2016/PropuestaSedeBahia>`_
+*  `Sitio oficial` http://ar.pycon.org/
+* `Viaje </Eventos/Conferencias/PyConAr2016/Viaje>`_
