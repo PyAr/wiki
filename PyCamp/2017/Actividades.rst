@@ -53,6 +53,19 @@ Requirements: Python 2.7+ o 3.x y algun editor de texto o IDE que prefieras
 Propone: DavidLitvak
 
 
+Mirror PyPI - Una mejor alternativa
+-----------------------------------
+
+Cada PyCamp traemos un mirror de PyPI completo, pero cada vez crece más en tamaño, la estructura interna de PyPI
+varía y todos nos volvemos un poco más locos. Por lo tanto, estaría bueno armar una solución un poco mas robusta.
+Similar a DevPI pero con un poco mas de configurabilidad y la posibilidad de hacer un buen warm-up via config.
+El fín del proyecto, es poder meterlo en nuestra "valijita pycampera" y poder tenerlo disponible en cada PyCamp
+por venir.
+
+Requirements: A investigar
+
+Propone: DavidLitvak, fisa, GiLgAmEzH
+
 
 Template: Otro proyecto o software o actividad
 ----------------------------------------------
