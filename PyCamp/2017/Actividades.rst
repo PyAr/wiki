@@ -70,7 +70,7 @@ Propone: DavidLitvak, fisa, GiLgAmEzH
 Moravec: Como encarar un proyecto ya realizado
 ----------------------------------------------
 
-El proyecto se llava Moravec, es de la gente de ElGatoYLaCaja y el backend se encuentra en Python. 
+El proyecto se llama Moravec, es de la gente de ElGatoYLaCaja y el backend se encuentra en Python. 
 Para ver detalles del proyecto: https://elgatoylacaja.com.ar/moravec/ .
 Código fuente: https://github.com/elgatoylacaja/Dennett.
 Una de las razones de porque me uní al evento, es poder aprender lo suficiente para poder darles una mano a la gente que esta atrás de este proyecto, en especial a Jorge que lo esta haciendo de manera voluntaria.
