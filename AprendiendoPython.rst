@@ -68,6 +68,8 @@ más básico:
 * `Python (curso interactivo en Code Academy)
   <https://www.codecademy.com/es/tracks/python-traduccion-al-espanol-america-latina-clone-1>`_
 
+* `Aprender python
+  <http://cursosletter.com/curso/curso-iniciacion-la-programacion>`_
 
 ¿Por dónde seguir?
 ------------------
