@@ -17,7 +17,7 @@ La ciudad se encuentra en el centro del país. Lo que hace más fácil y económ
 Responsables
 ************
 La organización será coordinada por Matías Iturburu y Emilio Ramirez.
-Conforme surgan tareas específicas, estas serán canalizadas en colaboración con los responsables que las instituciones académicas nombren. Por el momento estos son: Pedro Perez y Nicolas Jares (FaMAF), Leonardo Marengo (DUI)
+Conforme surjan tareas específicas, estas serán canalizadas en colaboración con los responsables que las instituciones académicas nombren. Por el momento estos son: Pedro Perez y Nicolas Jares (FaMAF), Leonardo Marengo (DUI)
 
 Fecha
 *****
