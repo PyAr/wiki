@@ -13,4 +13,5 @@ Sebastián J. Seba
 **Twitter**                   https://twitter.com/ssebastianj 
 **LinkedIn**                  https://www.linkedin.com/in/ssebastianj
 **BitBucket**                 https://bitbucket.org/ssebastianj
+**IRC nick**                  ssebastianj   
 ============================  =======================================
