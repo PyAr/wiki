@@ -77,7 +77,7 @@ Una de las razones de porque me uní al evento, es poder aprender lo suficiente 
 
 Requirements: No tengo conocimientos de Python como para determinarlo, pero si alguien puede, le podría dar una mirada y ver que tan complejo es.
 
-Propone: Mario Chacon
+Propone: Mario
 
 
 Template: Otro proyecto o software o actividad
