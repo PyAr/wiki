@@ -88,3 +88,10 @@ Como se llama, que hace?, en que beneficiaria? porque esta bueno?
 Requirements: <Que estaría bueno tener instalado antes del evento>
 
 Propone: <Quien propone la idea o empuja el proyecto>
+
+
+LabJM: Laboratorio online
+-----------------------------------------------
+La idea es automatizar procesos de cargado de resultados de análisis en un laboratorio bioquímico.
+
+En principio está pensado para realizarse en django. Su complejidad no es para nada elevada.
