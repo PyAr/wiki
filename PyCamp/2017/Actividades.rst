@@ -95,3 +95,5 @@ LabJM: Laboratorio online
 La idea es automatizar procesos de cargado de resultados de análisis en un laboratorio bioquímico.
 
 En principio está pensado para realizarse en django. Su complejidad no es para nada elevada.
+
+Propone: agucurto
