@@ -80,6 +80,54 @@ Requirements: No tengo conocimientos de Python como para determinarlo, pero si a
 Propone: Mario
 
 
+LabJM: Laboratorio online
+-----------------------------------------------
+La idea es automatizar procesos de cargado de resultados de análisis en un laboratorio bioquímico.
+
+En principio está pensado para realizarse en django. Su complejidad no es para nada elevada.
+
+Propone: agucurto
+
+
+Recordium
+---------
+
+Recordium es una aplicación simple que ayuda que cuando estés alejado de la compu puedas recordarle cosa a tu futuro vos que va a estar en la compu.
+
+Más data en `el proyecto <https://github.com/facundobatista/recordium>`_. Ver también allí cómo instalar las dependencias necesarias.
+
+Mi idea es cerrar un par de (los pocos) issues que tiene el proyecto, que está casi casi "feature complete".
+
+Propone: FacundoBatista
+
+
+Linkode, el pastebin útil
+-------------------------
+
+La idea es ofrecer un "espacio de colaboración de corta vida".  Algo así como un pastebin dinámico, pero que al mismo tiempo sea fácil de usar. 
+
+¿Por qué usar Linkode?
+
+* Se puede usar anonimamente...
+
+* ...pero recuerda quien sos
+
+* Permite compartir un texto en pocos clicks
+
+* Se da cuenta del lenguaje
+
+* Es amigable a nivel de interfaz
+
+* Copia el texto directamente a tu clipboard
+
+* Se puede integrar el texto en donde quieras, por versión o siempre actualizado!
+
+El `servicio ya está online <http://linkode.org>`_. El `proyecto está acá <https://github.com/facundobatista/kilink>`_
+
+Propone: FacundoBatista
+
+
+
 Template: Otro proyecto o software o actividad
 ----------------------------------------------
 
@@ -89,11 +137,3 @@ Requirements: <Que estaría bueno tener instalado antes del evento>
 
 Propone: <Quien propone la idea o empuja el proyecto>
 
-
-LabJM: Laboratorio online
------------------------------------------------
-La idea es automatizar procesos de cargado de resultados de análisis en un laboratorio bioquímico.
-
-En principio está pensado para realizarse en django. Su complejidad no es para nada elevada.
-
-Propone: agucurto
