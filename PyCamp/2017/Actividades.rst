@@ -148,6 +148,12 @@ Una capa encima de Pilas para definir personajes, habitaciones, diálogos, puzzl
 
 Propone: manuq
 
+Discusión: encajonar apps de escritorio en linux, para qué y cómo
+-----------------------------------------------------------------
+
+Quien haya intentado distribuir una aplicación en linux sabrá lo jodido que es. Y los bugs que se reportan por diferencias entre distros, usuarios corriendo la app con dependencias en distintas versiones, etc.  Hay una movida (o dos) de mejorar esta situación, basada en containers.  La idea es discutirla(s).  Yo conozco Flatpak, si alguien conoce Snappy podríamos compararlas.
+
+Propone: manuq
 
 Template: Otro proyecto o software o actividad
 ----------------------------------------------
