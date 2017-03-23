@@ -126,7 +126,20 @@ El `servicio ya está online <http://linkode.org>`_. El `proyecto está acá <ht
 
 Propone: FacundoBatista
 
+EasyCamp - Analisis Funcional
+-----------------------------
 
+
+Ideemos una App de Django que nos ayude a organizar un PyCamp. La idea es hacer un relevamiento, ver que debería hacer la app (features) y cómo podemos hacerlo.
+
+* Encuesta asado
+* Qué datos pedimos? (formulario con datos obligatorios)
+* Habitaciones
+* Carpooling
+
+Posibilidad de fusionarse/mezclarse/tocarse con la valijita del PyCamp
+
+Proponen: MatiBarriento, LuriSilva
 
 Template: Otro proyecto o software o actividad
 ----------------------------------------------
