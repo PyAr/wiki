@@ -141,6 +141,14 @@ Posibilidad de fusionarse/mezclarse/tocarse con la valijita del PyCamp
 
 Proponen: MatiBarriento, LuriSilva
 
+Juego de aventura gráfica con Pilas engine
+------------------------------------------
+
+Una capa encima de Pilas para definir personajes, habitaciones, diálogos, puzzles.
+
+Propone: manuq
+
+
 Template: Otro proyecto o software o actividad
 ----------------------------------------------
 
