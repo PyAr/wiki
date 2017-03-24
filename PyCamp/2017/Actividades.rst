@@ -160,6 +160,8 @@ ChopPycamp:
 
 Programar un juego donde un bot tiene que juntar cervezas.
 
+propone: fisa
+
 Verano/12 Epub
 ---------------
 
@@ -174,8 +176,8 @@ Recopilar de internet programas de radio y tenerlos disponibles en una interfaz 
 
 Propone: diegom. 
 
-Jugar con pizeroW
-------------------
+Jugar con RaspberryPi zero W:
+-----------------------------
 
 Jugar con una raspi Zero W.
 
@@ -188,9 +190,12 @@ Una lib para importar redes neuronales y visualizarlas en un notebook.
 
 propone: rossanigo.
 
+PyCampVotingManager:
+--------------------
 
+Una app para votar proyectos en un pycamp y asignarle slots.
 
-Propone: fisa
+propone: zoe
 
 Template: Otro proyecto o software o actividad
 ----------------------------------------------
