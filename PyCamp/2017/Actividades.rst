@@ -155,6 +155,43 @@ Quien haya intentado distribuir una aplicación en linux sabrá lo jodido que es
 
 Propone: manuq
 
+ChopPycamp:
+----------
+
+Programar un juego donde un bot tiene que juntar cervezas.
+
+Verano/12 Epub
+---------------
+
+Compilar cuentos de Verano/12 
+
+Propone: diegom.
+
+Recopilador de programas de radio:
+----------------------------------
+
+Recopilar de internet programas de radio y tenerlos disponibles en una interfaz para escucharlos.
+
+Propone: diegom. 
+
+Jugar con pizeroW
+------------------
+
+Jugar con una raspi Zero W.
+
+Propone: dlitvak.
+
+NNVisualizer:
+-------------
+
+Una lib para importar redes neuronales y visualizarlas en un notebook.
+
+propone: rossanigo.
+
+
+
+Propone: fisa
+
 Template: Otro proyecto o software o actividad
 ----------------------------------------------
 
