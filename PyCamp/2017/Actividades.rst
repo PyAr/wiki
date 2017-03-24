@@ -156,7 +156,7 @@ Quien haya intentado distribuir una aplicación en linux sabrá lo jodido que es
 Propone: manuq
 
 ChopPycamp:
-----------
+-----------
 
 Programar un juego donde un bot tiene que juntar cervezas.
 
