@@ -9,6 +9,13 @@ Fechas:
 
 24, 25, 26 y  27 de Marzo de 2017 (Viernes -feriado-, sábado, domingo y lunes).
 
+WiFi
+-----
+
+ASL1@pyar y ASL2@pyar.
+password: pycamp2017 
+Mirror pipy: http://192.168.42.250/index.html
+
 
 Qué llevo (sección en construcción):
 ------------------------------------
