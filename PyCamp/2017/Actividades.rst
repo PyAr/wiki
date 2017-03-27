@@ -167,6 +167,12 @@ Verano/12 Epub
 
 Compilar cuentos de Verano/12 
 
+Estuvimos trabajando, usando Scrapy para bajar obtener el contenido de los cuentos.
+
+Luego con Jinja2 generamos un documento reStructuredText, y usamos la aplicación rst2epub2 para obtener el epub
+
+Aca está el `repo <https://github.com/dmascialino/cuentos_verano12>`_
+
 Propone: diegom.
 
 Recopilador de programas de radio:
