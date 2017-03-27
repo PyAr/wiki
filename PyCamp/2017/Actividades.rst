@@ -174,6 +174,11 @@ Recopilador de programas de radio:
 
 Recopilar de internet programas de radio y tenerlos disponibles en una interfaz para escucharlos.
 
+Una idea era publicarlo en un canal de Telegram, pero charlando con varios, decidimos estudiar los podcasts.
+Estuvimos usando: `feedgen <https://github.com/lkiesow/python-feedgen>`_ para generar el podcast.
+
+Tambien vimos http://podsync.net/ , queremos hacer algo parecido pero que se extraiga solo el audio.
+
 Propone: diegom. 
 
 Jugar con RaspberryPi zero W:
