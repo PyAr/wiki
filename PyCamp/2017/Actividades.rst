@@ -66,6 +66,19 @@ Requirements: A investigar
 
 Propone: DavidLitvak, fisa, GiLgAmEzH
 
+Resultado
+.........
+
+Hicimos fork del proyecto bandersnatch:
+https://bitbucket.org/fisadev/bandersnatch-pycamp2017
+
+Incorporamos la opción de hacer la descarga inicial de solo una lista de paquetes.
+Porque bandersnatch se trae todo Pypi, incluídas versiones viejas de paquetes grandes, y
+paquetes que nadie usa. La lista tiene un formato parecido a requirements.txt, con lo que
+se puede restringir las versiones a descargar de los paquetes.
+
+También incorporamos el cacheo de los paquetes a demanda. Con lo que si un usuario del proxy hace pip install
+de un paquete no descargado (no en la lista inicial), se descarga y queda listo para el resto de los usuarios.
 
 Moravec: Como encarar un proyecto ya realizado
 ----------------------------------------------
