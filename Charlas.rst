@@ -91,7 +91,7 @@ Introducción a Python
 
 *Facundo Batista*
 
-**Slides:** http://tools.assembla.com/svn/homedevel/presents/intropython.odp
+**Slides:** http://taniquetil.com.ar/homedevel/presents/intropython.odp
 
 -------------------------
 
