@@ -52,7 +52,7 @@ Jueves 26 de Marzo de 2017 a la nochecita
 Lugar
 ~~~~~
 
- Hogar German Frers, Baradero, Buenos Aires
+Hogar German Frers, Baradero, Buenos Aires
 
 
 Minuta
