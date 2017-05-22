@@ -24,4 +24,4 @@ Propuestas:
 
 - Asociación Civil: ¡salió el trámite! ¿y ahora?
 
-- Ser un desarrollador latino en Europa: Invitado especial, StyXman
+- Ser un desarrollador latino en Europa: Invitado especial, Marcos Dione
