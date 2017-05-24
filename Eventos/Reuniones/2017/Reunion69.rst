@@ -7,7 +7,7 @@ Asistentes
 Fecha y Hora
 ~~~~~~~~~~~~
 
-Viernes 26 de Mayo de 2017 - 19:30hs
+Viernes 26 de Mayo de 2017 - 19:00hs
 
 Lugar
 ~~~~~
