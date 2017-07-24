@@ -130,6 +130,13 @@ PyScripter
 
 Windows-only, algo viejito, lleno de features (autocompletado, debugging, etc), utiliza pocos recursos, con versión portable y sencillo de usar
 
+Visual Studio Code
+~~~~~~~~~~~~~~~~~~
+
+Gratuito, propiedad de Microsoft, multiplataforma. Bastante rápido.
+
+https://code.visualstudio.com/
+
 Editores de texto avanzados
 ---------------------------
 
