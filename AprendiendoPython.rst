@@ -137,8 +137,6 @@ orientados a públicos distintos.
 
 * `Python Ya`_ Python desde cero. Tutorial web interactivo. Permite escribir y ejecutar nuestros programas directamente en la página, sin necesidad de tener Python instalado.
 
-* `Doma de Serpientes para Niños: Aprendiendo a Programar con Python`_: es un libro electrónico para niños de 8 o más años que quieran aprender a programar. Cubre lo básico de la programación utilizando el lenguaje de programación Python 3 como base para aprender los conceptos. Los fuentes están disponibles en http://code.google.com/p/swfk-es/
-
 * `Tutor para No-Programadores`_ Josh Cogliati 1999-2002 - Traducción Victor M. Rosas Garcia.
 
 * `Python no muerde`_ - Roberto Alsina 
