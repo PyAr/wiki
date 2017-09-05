@@ -153,8 +153,6 @@ orientados a públicos distintos.
 
 .. _Byte of Python: http://www.swaroopch.com/notes/python/
 
-.. _`Doma de Serpientes para Niños: Aprendiendo a Programar con Python`: http://www.biblioteca-digital.net.ve/wordpress/wp-content/uploads/2009/09/swfk-es-linux-0.0.2.pdf
-
 .. _Tutor para No-Programadores: http://jjc.freeshell.org/easytut/easytut_es/easytut.html
 
 .. _Python no muerde: https://python-no-muerde.googlecode.com/hg/python_no_muerde.pdf
