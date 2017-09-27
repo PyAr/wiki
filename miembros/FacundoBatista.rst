@@ -2,17 +2,18 @@
 Facundo Batista
 ---------------
 
-Soy Ingeniero en Electrónica de la Universidad Nacional de La Matanza, con un Master en Ingeniería de la Innovación en la Universidad de Bologna, Italia
+Facundo Batista es Ingeniero Electrónica de la Universidad Nacional de La Matanza, con un Master en Ingeniería de la Innovación en la Universidad de Bologna, Italia.
 
-Trabajé en Movistar (antes Unifón) del 2000 al 2006, primero en el área de Administración de Datos de la Red Celular (entre los que se destaca un proyecto llamado CeCubo_ para la generación automática de comandos para el mantenimiento de las centrales de conmutación; y el SACLLA, un datawarehousing sobre la información generada de por las centrales), y luego en el sector de Desarrollo de Servicios, principalmente a cargo del Servicio de Mensajes Cortos (SMSs), especificación e instalación de la plataforma WAP Gateway, y lider de proyecto de los servicios sobre OTA.
+Trabajó en Movistar (antes Unifón) durante seis años, en el área de Administración de Redes Celulares, luego fué Jefe de Desarrollo en CycleLogic por un año y medio, Arquitecto de Soluciones en Ericsson Argentina, en la parte Multimedia, y ahora hace Python en Canonical, en el equipo de Online Services.
 
-De Marzo del 2006 a Julio del 2007 trabajé como Jefe de Desarrollo en CycleLogic_, una empresa dedicada proveer contenidos para teléfonos móviles. Luego pasé a Ericsson Argentina, como Arquitecto de Soluciones en la parte Multimedia, hasta que en Octubre del 2008 entré como Technical Lead en Canonical, en el equipo de Online Dash, en Ubuntu Engineering.
+Fue profesor en la Universidad de La Matanza y en diversas instituciones secundarias y terciarias. También posee una amplia experiencia como analista de sistemas y programador, tanto freelance como bajo contrato, en diversos sistemas en múltiples plataformas y lenguajes.
 
-Fuí profesor en la Universidad de La Matanza (en talleres de la carrera de Ingeniería Informática) y en diversas instituciones secundarias y terciarias. También poseo una amplia experiencia como analista de sistemas y programador, tanto freelance como bajo contrato, en diversos sistemas en múltiples plataformas y lenguajes.
+Siguiendo en el ámbito de la programación, ama Python, habiéndose convertido en Desarrollador Oficial del lenguaje y miembro de la Python Software Foundation, fundando luego Python Argentina. Fue invitado como expositor a numerosas conferencias nacionales e internacionales y dictó cursos de Python en Universidades, ámbitos terciarios, y para particulares y empresas (`más info <http://www.taniquetil.com.ar/facundo/cursoPython.html>`_).
 
-Siguiendo en el ámbito de la programación, me encanta Python, habiéndome convertido en Desarrollador Oficial del lenguaje y miembro de la Python Software Foundation por mi trabajo en el módulo Decimal. Fuí invitado como expositor a conferencias nacionales e internacionales (PyCon_ 2005 en Washington, EuroPython_ 2005 en Suecia, PyCon_ 2006 en Dallas) y dicté cursos de Python tanto en la Universidad como en ámbitos terciarios.
+También participa en cantidad de proyectos libres, entre los que se encuentran CDPedia, Encuentro, Fades, Lalita, Magicicada, Launcherposta, Enjuewemela, Linkode, y más.
 
-Vivo en Buenos Aires, más específicamente en Olivos. Para más info, mi blog_.
+Para más info, mi `blog <http://taniquetil.com.ar/plog>`_ y mi `tuiter <https://twitter.com/facundobatista>`_.
+
 
 Propuesta electoral para la Asociación Civil de PyAr
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -43,11 +44,3 @@ Email: ``facundo mafalda arroba miguelito taniquetil guille com susanita ar``
  CategoryHomepage_
 
 .. ############################################################################
-
-
-
-
-
-.. _blog: http://taniquetil.com.ar/plog
-
-
