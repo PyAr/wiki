@@ -104,6 +104,8 @@ También hay una réplica de la lista en un grupo de Google: http://groups.googl
 Redes sociales
 ==============
 
+Python Argentina tiene presencia en las siguientes redes sociales:
+
 **Facebook**:  https://www.facebook.com/python.argentina/
 
 **IRC**:       #pyar en Freenode
@@ -120,7 +122,7 @@ Redes sociales
 
 
 RSS y NNTP
-----------
+=========
 
 La lista también es accesible vía RSS y NNTP. Entrá a http://dir.gmane.org/gmane.org.user-groups.python.argentina.
 
