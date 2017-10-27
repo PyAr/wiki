@@ -104,14 +104,19 @@ También hay una réplica de la lista en un grupo de Google: http://groups.googl
 Redes sociales
 ==============
 
-Facebook:  https://www.facebook.com/python.argentina/
-IRC:       #pyar en Freenode
-Instagram: https://www.instagram.com/pythonargentina/
-LinkedIn:  https://www.linkedin.com/groups/104084
-Mail list: http://www.python.org.ar/lista/
-Telegram:  https://t.me/pythonargentina
-Twitter:   https://twitter.com/pythonargentina
-YouTube:   https://www.youtube.com/channel/UCjYLIv07fw21w0uIAtUMnNA
+**Facebook**:  https://www.facebook.com/python.argentina/
+
+**IRC**:       #pyar en Freenode
+
+**Instagram**: https://www.instagram.com/pythonargentina/
+
+**LinkedIn**:  https://www.linkedin.com/groups/104084
+
+**Telegram**:  https://t.me/pythonargentina
+
+**Twitter**:   https://twitter.com/pythonargentina
+
+**YouTube**:   https://www.youtube.com/channel/UCjYLIv07fw21w0uIAtUMnNA
 
 
 RSS y NNTP
