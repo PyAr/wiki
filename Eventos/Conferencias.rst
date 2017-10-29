@@ -1,26 +1,28 @@
 
 Conferencias
 ------------
-* `Pycon Argentina 2016 </Eventos/Conferencias/PyConAr2016>`_:  25, 26 y 27 de Noviembre - Bahía Blanca.
-* `PyCon Argentina 2013`_, a realizarse los días 24 y 25 de octubre de 2013 en Rosario.
+* `Pycon Argentina 2016 </Eventos/Conferencias/PyConAr2016>`_, realizada los días 25, 26 y 27 de Noviembre - Bahía Blanca.
+* `PyCon Argentina 2015`_, realizada los días 12, 13 y 14  de Noviembre de 2015 en Mendoza.
+* `PyCon Argentina 2014`_, realizada los días 13, 14 y 15 de Noviembre de 2014 en Rafaela.
+* `PyCon Argentina 2013`_, realizada los días 24 y 25 de octubre de 2013 en Rosario.
 
-* `PyCon Argentina 2012`_, a realizarse entre el 12 y 17 de Noviembre de 2012 en Buenos Aires (Bernal -Quilmes- y Capital Federal)
+* `PyCon Argentina 2012`_, realizada los días 12 y 17 de Noviembre de 2012 en Buenos Aires (Bernal -Quilmes- y Capital Federal)
 
-* `PyDay Rafaela 2012`_, jornada realizada el 19 y 20 de Octubre de 2012 en Rafaela (Santa Fe).
+* `PyDay Rafaela 2012`_, jornada realizada los días 19 y 20 de Octubre de 2012 en Rafaela (Santa Fe).
 
 * `PyDay Córdoba 2012`_
 
 * `PyDay Luján 2012`_
 
-* `PyCon Argentina 2011`_, realizada el 23 y 24 de Septiembre de 2011 en la ciudad de Junín ( Buenos Aires ).
+* `PyCon Argentina 2011`_, realizada los días 23 y 24 de Septiembre de 2011 en la ciudad de Junín ( Buenos Aires ).
 
-* `PyDay San Luis 2011`_, realizada el 20 de Agosto de 2011 en la ciudad de San Luis.
+* `PyDay San Luis 2011`_, realizada los días 20 de Agosto de 2011 en la ciudad de San Luis.
 
 * `PyDay González Catán 2011`_
 
 * `PyDay Córdoba 2011`_
 
-* `PyCon Argentina 2010`_, realizada el 15 y 16 de octubre de 2010 en la ciudad de Córdoba.
+* `PyCon Argentina 2010`_, realizada los días 15 y 16 de octubre de 2010 en la ciudad de Córdoba.
 
 * `Ciclo de Charlas Abiertas de Python Argentina en La Tribu`_, realizadas durante el 2010, en `La Tribu`_.
 
@@ -28,7 +30,7 @@ Conferencias
 
 * `Python Day Rafaela 2010`_, realizada el 08 de Mayo del 2010, en la ciudad de Rafaela, Santa Fe.
 
-* `PyCon Argentina 2009`_, realizada 4 y 5 de Septiembre en la Universidad de Belgrano, Buenos Aires. Primer conferencia Python en castellano del mundo.
+* `PyCon Argentina 2009`_, realizada los días 4 y 5 de Septiembre en la Universidad de Belgrano, Buenos Aires. Primer conferencia Python en castellano del mundo.
 
 * `2da Jornada de Python en Santa Fé`_, el Sábado 9 de Junio de 2007 se realizó en la ciudad de Santa Fé. Contamos con la participación de gente de PyAr_ de Córdoba, Buenos Aires y Entre Ríos.
 
@@ -46,7 +48,8 @@ Documentación Relevante
 * `PostMortem PyCon Argentina 2012`_
 
 .. ############################################################################
-
+.. _PyCon Argentina 2015: http://www.python.org.ar/eventos/14/
+.. _PyCon Argentina 2014: https://github.com/fisadev/PyConAr2014
 .. _PyCon Argentina 2013: /PyConAr2013
 
 .. _PyCon Argentina 2012: http://ar.pycon.org/2012
