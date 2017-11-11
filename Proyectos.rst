@@ -3,6 +3,12 @@ Proyectos PyAr
 
 Estos son los proyectos encarados *institucionalmente* por PyAr_ en los que puedes colaborar:
 =============================================================================================
+ 
+  'Peicel Graphics'
+  
+   * Paint Programado en python Tkinter 
+   
+   Peicel Graphics: ge.tt/2LtQT7m2
 
 * `GauchitoGil`_
 
