@@ -59,6 +59,8 @@ Ediciones anteriores
 
 * Novena edición `La Serranita, Córdoba. Marzo de 2016`_
 
+* Décima edición `Baradero, Buenos Aires. Marzo de 2017`_
+
 
 Blogpost sobre Pycamps
 ----------------------
@@ -126,7 +128,7 @@ Blogpost sobre Pycamps
 
 .. _organizar: /wiki/PyCamp/OrganizandoUnPyCamp
 
-.. _marcha: /wiki/PyCamp/2017
+.. _marcha: /wiki/PyCamp/2018
 
 .. _Cocos2d: http://cocos2d.org/
 
@@ -149,6 +151,8 @@ Blogpost sobre Pycamps
 .. _La Serranita, Córdoba. Agosto de 2015: /PyCamp/2015
 
 .. _La Serranita, Córdoba. Marzo de 2016: /PyCamp/2016
+
+.. _Baradero, Buenos Aires. Marzo de 2017: /PyCamp/2017
 
 
 
