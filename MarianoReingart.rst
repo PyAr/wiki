@@ -150,7 +150,7 @@ Otros temas no relacionados directamente a Python
 
 -------------------------
 
- CategoryHomepage_
+ http://www.python.org.ar/wiki/
 
 .. ############################################################################
 
@@ -265,7 +265,7 @@ Otros temas no relacionados directamente a Python
 
 .. _Proyecto Curricular orientado al Software Libre: https://docs.google.com/View?id=dd9bm82g_428g8zvfvdx
 
-.. _PyFpdf: http://www.nsis.com.ar/public/wiki/PyFpdf
+.. _PyFpdf2: http://www.nsis.com.ar/public/wiki/PyFpdf
 
 .. _proxymin: http://www.nsis.com.ar/public/browser/proxymin
 
