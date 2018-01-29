@@ -3,12 +3,6 @@ Proyectos PyAr
 
 Estos son los proyectos encarados *institucionalmente* por PyAr_ en los que puedes colaborar:
 =============================================================================================
- 
-  'Peicel Graphics'
-  
-   * Paint Programado en python Tkinter 
-   
-   Peicel Graphics: ge.tt/2LtQT7m2
 
 * `GauchitoGil`_
 
@@ -36,7 +30,6 @@ Estos son los proyectos encarados *institucionalmente* por PyAr_ en los que pued
 .. _AlocadoAlocador: http://python.org.ar/pyar/Proyectos/AlocadoAlocador
 
 * `UnManualEnCadaUniversidad`_
-
 
   * Enviar un manual de Python a cada Universidad Argentina.
   
@@ -299,6 +292,10 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
   
   * Herramienta educativa para trabajar con Álgebra Relacional.
   
+* `Peicel Graphics`_
+  
+  * Paint Programado en python Tkinter 
+  
 -------------------------
 
 .. ############################################################################
@@ -429,11 +426,6 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 .. _web2conf: https://code.google.com/p/web2conf/
 
-
-
-
-
-
 .. _Programando con Robots: http://robots.linti.unlp.edu.ar
 
 .. _linkodeit: https://pypi.python.org/pypi/linkodeit
@@ -449,3 +441,5 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 .. _rst2html5: https://github.com/marianoguerra/rst2html5/
 
 .. _Pireal: https://centaurialpha.github.io/pireal
+
+.. _Peicel Graphics: http://ge.tt/2LtQT7m2
