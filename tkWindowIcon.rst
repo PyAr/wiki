@@ -2,7 +2,7 @@
 tkWindowIcon
 ------------
 
-Crea una ventana con Icono de ventana. Si es en Windows sacar el '@'+ de la ruta al icono. Los archivos se pueden pasar a .XBM con Gimp.
+Crea una ventana con Icono de ventana. Los archivos se pueden pasar a .XBM con Gimp.
 
 ::
 
@@ -21,4 +21,23 @@ Crea una ventana con Icono de ventana. Si es en Windows sacar el '@'+ de la ruta
         pass
     #
     root.mainloop()
+::
+Si estamos en Windows es mejor usar la funcion iconbitmap('Icono.ico') que tambien se puede pasar la imagen a .ico con Gimp.
+
+::
+	#!/usr/bin/python
+	# -*- coding: utf-8 -*-
+    from Tkinter import *
+    root = Tk()
+    #
+    try:
+        root.iconbitmap('Icono.ico')  # icono en  formato .ico de windows
+    except TclError:
+        print(" ")
+        print(" ERROR: Icon File not found... ") # imprime este mensaje si el icono no se encuentra
+        print(" ")
+        pass
+    #
+    root.mainloop()
+    
 
