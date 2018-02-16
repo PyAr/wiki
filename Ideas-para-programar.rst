@@ -26,5 +26,20 @@ Ideas para programar
 
 Agregá acá tus ideas. 
 
-   
+
+Un acortardor de urls con deeplinking 
+-------------------------------------
+
+El servicio `citebite.com <citebite.com>`_ es un generador de `deeplinks <https://en.wikipedia.org/wiki/Deep_linking>`_ a fragmentos de texto específicos que se encuentren en una página
+Se ingresa una url y un fragmento de texto contenido en ella, y genera un link cuyo contenido 
+es la misma página (o una versión muy parecida) con el texto citado resaltado con un color de fondo.  
+
+No sólo permite hacer citas especificas con fuente en un mismo paso, sino que es una manera 
+de archivar versiones de la web en un determinado momento. 
+
+¿El problema? Casi no funciona. Es muy lento. Y no permite cosas como resaltar más de un fragmento de texto del mismo sitio web. 
+
+Podría implementar usando `splash <https://github.com/scrapinghub/splash>`_ para obtener una versión estática de la url solicitada, 
+encontrar cada fragmento a resaltar usando `pyquery <http://pythonhosted.org/pyquery/>`_ (y probablemente algun algorimo de scoring 
+ya que un texto puede estar "desparramado" en múltiples nodos html)
    
