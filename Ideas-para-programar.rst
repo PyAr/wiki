@@ -21,7 +21,7 @@ Algunas observaciones previas
   con el autor/a a través de la lista o la sala de chat. 
 - En el historial de la página queda el registro de la autoría de cada edición. Si querés sabér quien propuso una idea concreta, revisá el historial de la página. 
 - Si una idea te inspiró y empezaste a hacerla, o conocés otro proyecto que es muy parecido al descripto, por 
-favor, linkealo, así otr@s se enteran que ya hay "contra qué comparar". 
+  favor, linkealo, así otr@s se enteran que ya hay "contra qué comparar". 
 
 Ideas para programar
 ====================
