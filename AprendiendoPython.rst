@@ -147,6 +147,8 @@ orientados a públicos distintos.
 
 * `El wiki oficial de Apache OpenOffice`_ - Como crear macros con Python
 
+* `Tutorial Django (Proyecto Biblioteca Local)`_ - Es un tutorial de Mozilla Developer para realizar un proyecto sobre una Biblioteca, tiene un poco mas de contenido que el tutorial oficial por eso en bueno para complementarlo.
+
 ----
 
 .. _Byte of Python: http://www.swaroopch.com/notes/python/
@@ -164,5 +166,7 @@ orientados a públicos distintos.
 .. _Versión en español: http://www.arrakis.es/~rapto/AprendaPython.html
 
 .. _El wiki oficial de Apache OpenOffice: https://wiki.openoffice.org/wiki/ES/Manuales/GuiaAOO/TemasAvanzados/Macros/Python
+
+.. _Tutorial Django (Proyecto Biblioteca Local): https://developer.mozilla.org/es/docs/Learn/Server-side/Django
 
 .. _Python Ya: http://pythonya.appspot.com/
