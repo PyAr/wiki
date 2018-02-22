@@ -1,4 +1,4 @@
-
+Buenas tardes, estoy buscando un experto Free Lance con experiencia en librería OpenCV para proyectos. Agradecería quien estè con disponibilidad e interesado pueda contactarse conmigo a la brevedad. Muchas gracias
 
 La lista de correo de PyAr_ está abierta a todos los interesados en Python de habla hispana.
 
