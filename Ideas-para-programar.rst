@@ -50,4 +50,16 @@ Un servicio capturador de tweets
 A twitter bot that respond to mentions or follow hashtags, taking an screenshot of the tweet being replied or cited. In addtion, it replies the tweet that trigger the capture with the link/image.
 https://github.com/mgaitan/tweetshot
 
+Miau, montaje automático
+------------------------
+
+Miau es una herramienta que hice para divertirme. Dado un archivo de audio o video y su desgrabación, permite 
+armar un guión con fragmentos textuales y automaticamente arma el montaje de ese guión. La mejor manera de 
+explicar para qué sirve es recordando la famosa entrevista a Homero: 
+
+.. raw:: html 
+   
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/wFVUeyEKSD8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Hay bugs y algunas ideas para mejorarlo: https://github.com/mgaitan/miau
    
