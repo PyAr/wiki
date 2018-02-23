@@ -1,5 +1,5 @@
-Esta página/sección recopila es un block de notas colectivo, un *TO-DO* donde cualquiera puede bosquejar la idea de un software 
-(o al menos la necesidad) y para que vos mismo u otr@s pueden inspirarse y "agarrar el guante" para implementarlo, por ejemplo, durante un PyCamp_
+Esta página es un block de notas colectivo, un *TO-DO* donde cualquiera puede bosquejar la idea germinal de un software, una mejora a otro existente,
+o al menos plantear un problema que sospeches que puede tener solución con software, para que vos mismo u otr@s pueden inspirarse y "agarrar el guante" para implementarlo, por ejemplo, durante un PyCamp_
 
 Algunas observaciones previas
 =============================
