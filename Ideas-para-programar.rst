@@ -44,4 +44,10 @@ de archivar versiones de la web en un determinado momento.
 Podría implementar usando `splash <https://github.com/scrapinghub/splash>`_ para obtener una versión estática de la url solicitada, 
 encontrar cada fragmento a resaltar usando `pyquery <http://pythonhosted.org/pyquery/>`_ (y probablemente algun algorimo de scoring 
 ya que un texto puede estar "desparramado" en múltiples nodos html)
+
+Un servicio capturador de tweets
+--------------------------------
+A twitter bot that respond to mentions or follow hashtags, taking an screenshot of the tweet being replied or cited. In addtion, it replies the tweet that trigger the capture with the link/image.
+https://github.com/mgaitan/tweetshot
+
    
