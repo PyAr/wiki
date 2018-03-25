@@ -1,4 +1,4 @@
-¡Felicitaciones! No todos los días se toma el coraje de adentrarse en
+¡Felicitaciones! No todos los días se toma el valor de adentrarse en
 un mundo desconocido para muchos y tan divertido para otros. Me pone
 muy contento que te haya surgido la inquietud de ver "¿de qué se trata
 esto de Python?" y hayas llegado a este sitio web.
