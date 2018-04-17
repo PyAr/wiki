@@ -5,3 +5,12 @@ Un nuevo plugin para The Sleuth Kit - Autopsy
 En mi trabajo de forense, encontré que en las PC secuestradas de pedófilos éstos ponen las fotos de los nenes incorporadas en archivos de Word, tipo doc o tipo docx. The Sleuth Kit permite hacer plugins en Jython, sería útil que estas imágenes embebidas sean automáticamente extraídas para ser rápidamente visibilizadas por los peritos, que ahora están forzados a abrir los documentos uno a uno para verificar su contenido. 
 
 Autopsy es la interfaz gráfica del framework The Sleuth Kit, y un software GPL muy usado para estos fines.
+
+Web PyAr
+========
+
+Propongo trabajar en issues y features del sitio de PyAr.
+
+Requirements: lo que haga falta para poner en marcha https://github.com/PyAr/pyarweb
+
+Propone: Litox
