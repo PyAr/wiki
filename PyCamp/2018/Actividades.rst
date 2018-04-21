@@ -7,6 +7,14 @@ En mi trabajo de forense, encontré que en las PC secuestradas de pedófilos és
 
 Autopsy es la interfaz gráfica del framework The Sleuth Kit, y un software GPL muy usado para estos fines.
 
+Un bot para telegram 
+---------------------------------------------
+Estuve laburando bastante para un bot de telegram que facilita un montón de cosas. Quizás podemos hacer uno para 
+comunicar el canal de irc con el canal de telegram, que avise de eventos, que guarde un log de lo que se habla,
+en fin muchas cosas que se pueden pensar.
+
+Propone: eduzen
+
 Web PyAr
 --------
 
