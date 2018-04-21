@@ -11,7 +11,9 @@ Un bot para telegram
 ---------------------------------------------
 Estuve laburando bastante para un bot de telegram que facilita un montón de cosas. Quizás podemos hacer uno para 
 comunicar el canal de irc con el canal de telegram, que avise de eventos, que guarde un log de lo que se habla,
-en fin muchas cosas que se pueden pensar.
+en fin muchas cosas que se pueden pensar. Si quieren ir viendo un poco del código de mi bot: https://github.com/eduzen/bot
+ 
+Estaría bueno que ya vengan con python 3.6 instalado y un venv con python-telegram-bot
 
 Propone: eduzen
 
