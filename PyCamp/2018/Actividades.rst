@@ -103,3 +103,13 @@ Propone: FacundoBatista
 Tenemos que hablar sobre la evolución de uno de las principales formas de comunicación dentro de PyAr. ¿Se quedó en el tiempo? ¿Sigue sirviendo? ¿Buscamos una solución nueva? ¿Mixta? ¿Qué queremos?
 
 Propone: FacundoBatista
+
+Mejorar Python
+--------------
+Podríamos invertir parte del tiempo en mejorar Python de las siguientes formas:
+* Testeando las nuevas features de 3.7.0b3
+* Resolviendo bugs reportados
+* Incrementando el test coverage
+* Mejorando documentación
+* Implementando features con +1 en bugs.python.org.
+Propone: Andrés Delfino
