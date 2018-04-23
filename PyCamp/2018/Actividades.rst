@@ -8,8 +8,11 @@ La idea principal es plantearlo como remplazo a las plataformas pagas para las d
 La propuesta para la pycamp es plantear su uso para los eventos de PyAr y agregarle las funcionalidades que le falten para ese fin.
 
 Les dejo un par de links:
+
 Github: https://github.com/eventoL/eventoL
+
 Documentación: http://eventol.github.io/eventoL/#/
+
 Instancia actual en USLA: https://eventol.flisol.org.ar/
 
 Propone: FedeG
