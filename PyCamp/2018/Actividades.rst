@@ -107,9 +107,11 @@ Propone: FacundoBatista
 Mejorar Python
 --------------
 Podríamos invertir parte del tiempo en mejorar Python de las siguientes formas:
+
 * Testeando las nuevas features de 3.7.0b3
 * Resolviendo bugs reportados
 * Incrementando el test coverage
 * Mejorando documentación
 * Implementando features con +1 en bugs.python.org.
+
 Propone: Andrés Delfino
