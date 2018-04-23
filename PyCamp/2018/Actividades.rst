@@ -115,3 +115,13 @@ Podríamos invertir parte del tiempo en mejorar Python de las siguientes formas:
 * Implementando features con +1 en bugs.python.org.
 
 Propone: Andrés Delfino
+
+Administración AC
+------------------
+
+Hemos crecido bastante y tenemos varias opciones de pago y registro de socios.
+La tarea manual es muy tediosa y nos atrasa bastante el laburo. Habría que hacer
+que al menos los pagos recibidos por TodoPago y MercadoPago se imputen directamente
+en la gDocs que tenemos o buscar alguna alternativa para que la gestión sea más simple.
+
+Propone: LeCoVi (aka Leo Colombo Viña)
