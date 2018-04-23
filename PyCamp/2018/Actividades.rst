@@ -108,7 +108,7 @@ Mejorar Python
 --------------
 Podríamos invertir parte del tiempo en mejorar Python de las siguientes formas:
 
-* Testeando las nuevas features de 3.7.0b3
+* Testeando las nuevas features de 3.7
 * Resolviendo bugs reportados
 * Incrementando el test coverage
 * Mejorando documentación
