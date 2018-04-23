@@ -1,5 +1,19 @@
 ¿Buscando inspiración? Fijate también la página de `Ideas para programar`_
 
+Uso de Eventol en PyAr y mejoras para el sistema
+------------------------------------------------
+Eventol es un proyecto libre que busca facilitar la administración y difusión de eventos relacionados con el software libre.
+Ya tiene varios años de desarrollo, esta hecho en Django (con python3), se viene usando en FLISoL a nivel nacional hace 4 años y actualmente contamos con el apoyo de USLA para la infraestructura.
+La idea principal es plantearlo como remplazo a las plataformas pagas para las distintas comunidades relacionadas con el software libre.
+La propuesta para la pycamp es plantear su uso para los eventos de PyAr y agregarle las funcionalidades que le falten para ese fin.
+
+Les dejo un par de links:
+Github: https://github.com/eventoL/eventoL
+Documentación: http://eventol.github.io/eventoL/#/
+Instancia actual en USLA: https://eventol.flisol.org.ar/
+
+Propone: FedeG
+
 Un nuevo plugin para The Sleuth Kit - Autopsy
 ---------------------------------------------
 
