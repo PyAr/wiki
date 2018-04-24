@@ -127,7 +127,7 @@ en la gDocs que tenemos o buscar alguna alternativa para que la gestión sea má
 Propone: LeCoVi (aka Leo Colombo Viña)
 
 Front, the assistant bot
------------------------
+------------------------
 A bot you talk to to add reminders, bookmark pages, things you need to search for later, movies you want to see, etc.
 
 v0: records everything you say
