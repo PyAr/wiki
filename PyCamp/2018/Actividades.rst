@@ -125,3 +125,26 @@ que al menos los pagos recibidos por TodoPago y MercadoPago se imputen directame
 en la gDocs que tenemos o buscar alguna alternativa para que la gestión sea más simple.
 
 Propone: LeCoVi (aka Leo Colombo Viña)
+
+Front, the assitant bot
+-----------------------
+A bot you talk to to add reminders, bookmark pages, things you need to search for later, movies you want to see, etc.
+
+v0: records everything you say
+v1: lets you tag stuff for easier searching, maybe add notifications
+vN: a social del.icio.us like global repository of hand encoded bits of information that can do stuff for you
+
+Propone: Lucio Torre
+
+Direct Manipulation Collaborative Dataflow Notebooks
+----------------------------------------------------
+
+Hacer un website como si fuese un excel, hacer un notebook de python compatiendo en realtime el desarrollo, 
+todo se recalcula cuando cambia un dato, y es una api REST::
+
+        )
+       (   
+  -=====#
+
+
+Propone: Lucio Torre
