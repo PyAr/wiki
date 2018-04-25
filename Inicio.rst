@@ -32,4 +32,4 @@ Indice
 	PyAr_ para ciencia e ingeniería.
 
 * `Ideas para programar`_
-	Un repositorio colectivo de ideas para inspirar a otr@s  (o a vos mismo!) a proramar. 
+	Un repositorio colectivo de ideas para inspirar a otr@s  (o a vos mismo!) a programar. 
