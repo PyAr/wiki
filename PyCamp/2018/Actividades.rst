@@ -142,3 +142,21 @@ todo se recalcula cuando cambia un dato, y es una api REST::
 
 
 Propone: Lucio Torre
+
+
+Escrutinio provisorio paralelo
+------------------------------
+
+La idea me surgió el año pasado, con las demoras que llevó la carga de telegramas en BA y cómo esas ineficiencias del sistema electoral actual se usan para impulsar el voto electrónico, con el que no estoy de acuerdo.
+
+Hacer un programa que lea las actas electorales de conteo, a partir de fotos que podrían sacar los fiscales en las mesas de votación.
+
+Según lo que estuve investigando y probando un poco, sería posible hacerlo combinando procesamiento de imágenes y algo de deep learning.
+
+Utilizando OpenCV (o alguna otra librería) habría que detectar la grilla y aislar las celdas donde se escriben los números. Luego dada una celda habría que separar en dígitos y finalmente reconocer los dígitos con deeplearning (ya está hecho en https://github.com/JoelKronander/TensorFlask usando base MNIST).
+
+Adicionalmente se podría laburar en el bot Telegram o alguna otra plataforma que reciba la data de los fiscales y en alguna interfaz de corrección colaborativa.
+
+Llevo set de datos de 1000 actas electorales.
+
+Propone: Guillo Narvaja
