@@ -160,3 +160,18 @@ Adicionalmente se podría laburar en el bot Telegram o alguna otra plataforma qu
 Llevo set de datos de 1000 actas electorales.
 
 Propone: Guillo Narvaja
+
+
+Mejorar la sección PyCamp de la Wiki.
+-------------------------------------
+
+Como todos sabemos (o están por saber) el PyCamp es genial!
+
+Leyendo la wiki noté que por ahi no se termina de reflejar al 100% QUE es un PyCamp y  COMO se desarrolla. 
+Además, la sección “Organizando un PyCamp” está vacía. Propongo ampliar la descripción, incluso hasta 
+hacer un video! Y tratar de rescatar lo que había en “organizando un PyCamp” o volver a escribirlo actualizado.
+
+Se podria hacer el último dia y pedir a las personas que vienen por primera vez que traten de contar 
+su experiencia y cuan diferente fué de lo que se imaginaron.
+
+Propone: Luri Silva
