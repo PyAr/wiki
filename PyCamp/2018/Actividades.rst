@@ -38,22 +38,6 @@ Requirements: lo que haga falta para poner en marcha https://github.com/PyAr/pya
 Propone: Litox
 
 
-Digitalizador de tarjetas de presentación
------------------------------------------
-
-Fui a un evento de negocios y me vine con decenas de tarjetas personales. A todos ellos quedé en mandarles un folleto digital...
-
-Quisiera sistematizar la extracción de datos de tarjetas personales. 
-A partir de una foto de una tarjeta personal, extraer email, teléfono, nombre, puesto, etc.
-
-Me parece lindo experimento para jugar con imágenes y texto (https://github.com/tesseract-ocr/tesseract).
-
-Hay cosas que lo hacen, pero pagando:
-http://www.enter.co/especiales/enterprise/cuatro-apps-para-dejar-de-coleccionar-tarjetas-de-presentacion/
-https://www.merca20.com/3-apps-para-digitalizar-y-organizar-tarjetas-de-presentacion/
-
-Propone: Litox
-
 fades
 -----
 
