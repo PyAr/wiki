@@ -175,3 +175,19 @@ Se podria hacer el último dia y pedir a las personas que vienen por primera vez
 su experiencia y cuan diferente fué de lo que se imaginaron.
 
 Propone: Luri Silva
+
+
+Eventes!
+--------
+
+Una django-app para pyarweb pensada primero desde la diversidad. 
+
+Make pyar chat great again
+--------------------------
+
+La gente nueva esta usando Telegram. Pero los elders estan en el IRC. Hagamos un bridge irc<->telegram 
+
+PyAr Infra as code
+------------------
+
+Estamos laburando con Tomás con traer la infra de PyAr a este siglo. (deploy automatizado, containers, hosting agnostico)
