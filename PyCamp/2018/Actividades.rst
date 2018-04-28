@@ -200,10 +200,10 @@ Un proyecto arrancado pero que aún no está funcional, buscando reemplazar un g
 Hay bastante para hacer. Parte de la UI está avanzada, y el server que la levanta y va a exponer la data que la web app necesita. También parte de la visualización, usando Cesium para el globo terraqueo/mapa.
 Falta generar la propagación de órbitas, plotearlas arriba del globo, administración de abms (satélites, estaciones terrenas, etc).
 
-Propone: fisa
-
 .. image:: https://i.imgur.com/bAcnBgC.png
    :height: 120px
+
+Propone: fisa
 
 Un Teclado para Ppysenteishon
 -----------------------------
@@ -220,3 +220,5 @@ Podemos aprender un poco las bases de artes marciales históricas europeas (espe
 
 .. image:: https://i.imgur.com/05g7DUW.jpg
    :height: 100px
+   
+Propone: fisa
