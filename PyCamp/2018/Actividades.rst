@@ -191,3 +191,29 @@ PyAr Infra as code
 ------------------
 
 Estamos laburando con Tomás con traer la infra de PyAr a este siglo. (deploy automatizado, containers, hosting agnostico)
+
+Sateye
+------
+
+Un proyecto arrancado pero que aún no está funcional, buscando reemplazar un grupo de herramientas bastante anticuadas y/o propietarias, para visualización y seguimiento de órbitas de satélites.
+
+Hay bastante para hacer. Parte de la UI está avanzada, y el server que la levanta y va a exponer la data que la web app necesita. También parte de la visualización, usando Cesium para el globo terraqueo/mapa.
+Falta generar la propagación de órbitas, plotearlas arriba del globo, administración de abms (satélites, estaciones terrenas, etc).
+
+Propone: fisa
+
+Un Teclado para Ppysenteishon
+-----------------------------
+
+Pysenteishon te permite hoy controlar tus slides desde el celular de forma re simple. Pero a mi me gustaría que tenga otra cosa más: un touchpad y teclado, para poder usarlo por ejemplo para ver series tirado en un sillón.
+Se le podría agregar un modo "pad y mouse", y pareciera que no es tan complicado.
+
+Propone: fisa, pero no me hago cargo porque seguro voy a estar más con Sateye. Tiro la idea por si a alguien le interesa tomarla!
+
+Pelear con espadas!
+-------------------
+
+Podemos aprender un poco las bases de artes marciales históricas europeas (específicamente, espada de dos manos), practicar, y pelear :)
+
+.. image:: https://i.imgur.com/05g7DUW.jpg
+   :height: 50px
