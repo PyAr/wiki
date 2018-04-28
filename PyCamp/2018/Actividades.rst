@@ -216,4 +216,4 @@ Pelear con espadas!
 Podemos aprender un poco las bases de artes marciales históricas europeas (específicamente, espada de dos manos), practicar, y pelear :)
 
 .. image:: https://i.imgur.com/05g7DUW.jpg
-   :height: 50px
+   :height: 100px
