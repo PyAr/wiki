@@ -222,3 +222,16 @@ Podemos aprender un poco las bases de artes marciales históricas europeas (espe
    :height: 100px
    
 Propone: fisa
+
+UManoCOMPu
+----------
+
+Explorar, investigar, creanear e implementar ideas de formas no convencionales de interacción 
+persona-computadora.
+
+Ejemplos: 
+
+* Joystick Vocal, en un juego de autos bajas los cambios haciendo el sonido del rebaje, etc
+* Usar los acelerómetros del celu como input para una computadora
+
+Propone: SAn
