@@ -235,3 +235,17 @@ Ejemplos:
 * Usar los acelerómetros del celu como input para una computadora
 
 Propone: SAn
+
+Juegos con micropython
+----------------------
+
+Traje varias placas que corren micropython, y algo de electrónica para conectarles. Quiero hacer una biblioteca que sea fácil de usar como PyGame para juegos electromecánicos, y algún juego usando eso.
+
+Propone: alecu
+
+Un bot que juegue Super Hexagon
+-------------------------------
+
+Hace muchos años que juego ese juego y nunca lo pude ganar. Me gustaría que al menos mi maquina lo haga, y en el camino poder aprender algunos rudimentos sobre computer visión. 
+
+
