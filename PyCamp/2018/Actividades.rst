@@ -202,6 +202,9 @@ Falta generar la propagación de órbitas, plotearlas arriba del globo, administ
 
 Propone: fisa
 
+.. image:: https://i.imgur.com/bAcnBgC.png
+   :height: 120px
+
 Un Teclado para Ppysenteishon
 -----------------------------
 
