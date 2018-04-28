@@ -248,4 +248,5 @@ Un bot que juegue Super Hexagon
 
 Hace muchos años que juego ese juego y nunca lo pude ganar. Me gustaría que al menos mi maquina lo haga, y en el camino poder aprender algunos rudimentos sobre computer visión. 
 
+Propone: alecu
 
