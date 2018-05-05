@@ -1,6 +1,7 @@
 
-Asociación Civil: https://ac.python.org.ar/
+Asociación Civil:
 ----------------
+Web de la asociación: https://ac.python.org.ar/
 
 Durante el 2014 se empezó a empujar en serio la idea de que Python Argentina sea una Asociación Civil.
 
