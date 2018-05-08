@@ -1,5 +1,3 @@
-#format rst
-## page was renamed from Eventos/Reuniones/Reunion03
 
 Reunión 03 - 11/11/2004 - Corner Bar
 ====================================
@@ -24,5 +22,5 @@ En esta reunión decidimos lo siguiente:
 
 * Hacer propaganda en donde se pueda (listas de python en castellano y en inglés, en pythonhispano, página central de Clarín, etc).
 
-Comprobamos que el lugar no es el más propicio, por la cantidad de gente y la atención (sobre todo, lo último). Facundo **prometió** |;)| encontrar un lugar mejor para la próxima...
+Comprobamos que el lugar no es el más propicio, por la cantidad de gente y la atención (sobre todo, lo último). Facundo **prometió** |wink| encontrar un lugar mejor para la próxima...
 

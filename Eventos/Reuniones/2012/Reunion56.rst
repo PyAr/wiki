@@ -1,4 +1,3 @@
-#format rst
 
 Reunión 56 - Sabado 5 de Mayo - Buenos Aires, Universidad de Luján
 ==================================================================

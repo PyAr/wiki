@@ -15,7 +15,7 @@ Entrada al sistema(login)
 
 .. Si desea reentrar, diligencie '''[[GetText(Name)]]''' y '''[[GetText(Password)]]''' y use '''[[GetText(Login)]]'''. En caso de olvido de su clave, indique su correo electrónico y use '''[[GetText(Mail me my account data)]]'''.
 
-Si desea reentrar, ingrese **`[[GetText(Name)]]`_** y **`[[GetText(Password)]]`_** y elija **`[[GetText(Login)]]`_**. En caso de olvido de su clave, envíe un email a los administradores del sistema (`[[MailTo(pyar_admin AT decode DOT com DOT ar)]]`_).
+Si desea reentrar, ingrese **`[[GetText(Name)]]`_** y **`[[GetText(Password)]]`_** y elija **`[[GetText(Login)]]`_**. En caso de olvido de su clave, envíe un email a los administradores del sistema (``pyar_admin AT decode DOT com DOT ar``).
 
 Cambio de preferencias
 ======================

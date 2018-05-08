@@ -1,20 +1,13 @@
+Estos son buenos recursos |smiley|
 
-Recursos
-========
+.. embed:: https://www.youtube.com/watch?v=viJoP21JQqk
 
-  Estas son organizaciones y empresas argentinas que utilizan python regularmente de distintas formas[1]_.
 
-Organizaciones
---------------
+Estas son organizaciones y empresas argentinas que utilizan python regularmente de distintas formas[1]_.
+  
+ 
+.. tip:: ayudanos a pasar esta lista a la nueva sección específica de `empresas que usan python <http://python.org.ar/empresas/>`_
 
-Atommica
-~~~~~~~~
-
-* Contacto: `[[MailTo(mconte AT atommica DOT com, Martín Conte Mac Donell)]]`_
-
-* URL: http://www.atommica.com
-
-* ¿De qué forma usamos Python?: Tenemos varias plataformas (Server-side) para nuestros juegos multiplayers. No se usa otra cosa que no sea python en este sentido.
 
 Cyclelogic
 ~~~~~~~~~~
@@ -34,7 +27,7 @@ Cyclelogic
 Core Security Technologies
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* Contacto: `[[MailTo( info AT coresecurity DOT com, Info)]]`_
+* Contacto: `` info AT coresecurity DOT com, Info``
 
 * URL: http://www.coresecurity.com
 
@@ -43,6 +36,17 @@ Core Security Technologies
 * Dirección: Humboldt 1967. 2do piso. Capital Federal
 
 * ¿De qué forma usamos Python?: Lo usamos de distintas maneras. Lo tenemos embebido en un producto comercial (impact) donde la mitad del producto esta hecha en python. Usamos mod_python para algunos servidores, usamos Zope para otros. Usamos python para el daily builder. Lo usamos para tareas de mantenimiento, y probablemente lo usemos para más cosas.
+
+Devsar
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+* Contacto: `` contact AT devsar DOT com, Info``
+
+* URL: http://devsar.com
+
+* Teléfono: 0221-553-1191
+
+* Dirección: Calle 43 915 1-A-B. La Plata, Buenos Aires.
 
 EuskoSare
 ~~~~~~~~~
@@ -56,7 +60,7 @@ EuskoSare
 Hector E. Nardelli S.A.
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-* Contacto: `[[MailTo( ariel DOT nardelli AT hensa DOT com DOT ar, Panflin)]]`_
+* Contacto: `` ariel DOT nardelli AT hensa DOT com DOT ar, Panflin``
 
 * URL: http://www.hensa.com.ar
 
@@ -66,10 +70,25 @@ Hector E. Nardelli S.A.
 
 * Librerías/frameworks utilizadas: wxWidgets_/wxPython_
 
+Jampp
+~~~~~
+
+* Contacto: ``jobs AT jampp DOT com``
+
+* URL: http://www.jampp.com/jobs.php
+
+* Teléfono: Quién usa el teléfono hoy en dia para hacer un llamado? *Go geeks go!*
+
+* Dirección: Av Córdoba 5779, piso 2c, Capital Federal
+
+* Mobile marketing te suena conocido? A través de una plataforma de Big Data y real-time bidding, analizamos diariamente más de 1.5 TB de datos y determinamos (en menos de 80 ms) que valor tiene una impresión dependiendo de la probabilidad de convertir, el contexto del usuario y otros factores miles de veces por segundo. Actualmente proveemos 2 millones de instalaciones mensuales, pero necesitamos crecer nuestra capacidad de procesamiento y tenemos muchos desafíos de algoritmia, escalabilidad, big data, data visualization y machine learning por resolver!
+
+* Cúal es nuestro stack de tecnología? Nuestro stack está compuesto por Python/PHP/R/PyPy, Async (ZeroMQ), Mercurial/Git, Node.js, MySQL/Postgre y AWS
+
 Lambda Sistemas
 ~~~~~~~~~~~~~~~
 
-* Contacto: `[[MailTo(guillermo DOT narvaja AT fierro-soft DOT com DOT ar, Guillermo Narvaja)]]`_
+* Contacto: ``guillermo DOT narvaja AT fierro-soft DOT com DOT ar, Guillermo Narvaja``
 
 * URL: http://www.fierro-soft.com.ar
 
@@ -86,7 +105,7 @@ Lambda Sistemas
 Livra.com
 ~~~~~~~~~
 
-* Contacto: `[[MailTo(geeks AT livra.com)]]`_
+* Contacto: ``geeks AT livra.com``
 
 * URL: http://ar.livra.com/jobs
 
@@ -97,7 +116,7 @@ Livra.com
 LUNIX S.R.L.
 ~~~~~~~~~~~~
 
-* Contacto: `[[MailTo(lucas AT lunix DOT com DOT ar, Lucas Di Pentima)]]`_
+* Contacto: ``lucas AT lunix DOT com DOT ar, Lucas Di Pentima``
 
 * URL: http://www.lunix.com.ar
 
@@ -114,22 +133,24 @@ LUNIX S.R.L.
 Machinalis
 ~~~~~~~~~~
 
-* Contacto: `[[MailTo( info AT machinalis DOT com , Machinalis)]]`_
+* Contacto: `` info AT machinalis DOT com , Machinalis``
 
 * URL: http://machinalis.com
 
-* ¿De qué forma usamos Python?: Hacemos mucho desarrollo web en Django y Plone/Zope/Python. Estamos trabajando en aplicaciones de escritorio multiplataforma con PyGTK, y en proyectos con Python que involucran Procesamiento de Lenguaje Natural, Data Mining e Inteligencia Artificial.
+* **This is what we are great at**
 
-* Librerías/frameworks utilizadas: Django, pyGTK, Zope, Plone
+* Making computers learn: Machine Learning / NLP / Data Mining / Artificial Intelligence
 
-* También utilizamos trac_ para la gestión del proyecto, tickets y wiki interno.
+* Shaping the Web: Complex Web Development / Process Automation / Python-Django Development
 
-* Los socios de la empresa son WalterAlini_, HoracioDuran_, JavierMansilla_, DanielMoisset_. (todos miembros de PyAR)
+* Data culture: Data Extraction / Data Analysis / Data Processing / Data Visualization
+ 
+* Github: http://github.com/machinalis
 
 Menttes
 ~~~~~~~
 
-* Contacto: `[[MailTo( info AT menttes DOT com, Info)]]`_
+* Contacto: `` info AT menttes DOT com, Info``
 
 * URL: http://www.menttes.com
 
@@ -142,7 +163,7 @@ Menttes
 Movilogic
 ~~~~~~~~~
 
-* Contacto: `[[MailTo( info AT movilogic DOT com, Info)]]`_
+* Contacto: `` info AT movilogic DOT com, Info``
 
 * URL: http://www.movilogic.com
 
@@ -155,7 +176,7 @@ Movilogic
 MSA s.a.
 ~~~~~~~~
 
-* Contacto: `[[MailTo( info AT msa DOT com DOT ar, Info)]]`_
+* Contacto: `` info AT msa DOT com DOT ar, Info``
 
 * URL: http://www.msa.com.ar
 
@@ -185,7 +206,7 @@ Onapsis
 Vortech
 ~~~~~~~
 
-* Contacto: `[[MailTo( alecu AT vortech DOT com DOT ar, Alejandro J. Cura)]]`_
+* Contacto: `` alecu AT vortech DOT com DOT ar, Alejandro J. Cura``
 
 * URL: http://www.vortech.com.ar/
 

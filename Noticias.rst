@@ -142,7 +142,7 @@ Python Argentina se enorgullece de anunciar que está abierto el período de rec
 .. ULTIMAS_END
 
 Anteriores
-----------
+::::::::::
 
 * `Año 2011`_
 

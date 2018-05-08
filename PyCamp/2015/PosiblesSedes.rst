@@ -8,6 +8,67 @@ Cada sede está cargada aquí por la persona de contacto, que es la persona que 
 
 Más allá de la info general, algunos ítems tienen al costado un puntaje sobre cinco, opinión personal de la persona de contacto. 
 
+La Serranita, Córdoba
+---------------------
+
+**Nombre del lugar:** Complejos Soles Blancos (datos + Fotos en el link)
+http://www.turismocordoba.com.ar/solesblancos/#fotos (ver más detalles del hospedaje abajo)
+
+**Donde está:** 
+
+ * distancias:
+ 
+  * 55km Córdoba Capital (1 hora en colectivo)
+
+  * 22km de Alta Gracia
+
+  * 18km del Dique Los Molinos
+
+  * 33km de Villa General Belgrano
+
+**Contacto:** Jairo Trad, Javier Mansilla
+
+**Formas de llegar: 5 pycampitas**
+
+* En auto: Es cómodo llegar, las rutas están bien, es 1 hora desde Córdoba Capital.
+
+* En colectivo:
+
+  * En general, todos los que salen desde Córdoba para Villa General Belgrano, o para Santa Rosa de Calamuchita pasan por La Serranita, por lo que hay mucho muchos servicios diarios (1 cada 45 minutos aprox) ofrecidos por al menos 3 empresas (Sierras de Calamuchita, Buses Lep o Pájaro Blanco)
+
+  * Muy probablemente los bondis que salgan de (Retiro|Rosario|Santa Fe|cualquier ciudad al norte de Córdoba) para VG Belgrano o Santa Rosa de Calamuchita, van a ir por ese camino y también pasarán por La Serranita.
+
+  * Costo aproximado: Córdoba - La Serranita: ida $40, ida y vuelta $80
+
+**Disponibilidad:** FIXME: averiguar!
+
+* 23 y 24 de Marzo: ya está ocupado.
+
+* Otras fechas a confirmar.
+
+**Precio:** aproximandamente $1450
+
+* Con comida completa
+
+* Incluye:
+
+  * comidas: desayuno, almuerzo, merienda, cena
+
+  * internet: tiene; el lugar está dentro del rango de la red comunitaria enlazada con el resto de las redes comunitarias del valle
+
+* Recibos o Facturas: Pueden conseguirse facturas de Monotributista por algunos conceptos. Aún falta averiguar más detalles.
+
+**Detalles extras del alojamiento:**
+
+Hay 2 "complejos", a una cuadra de distancia entre ellos, que en conjunto nos servirán de base.
+
+Uno de los lugares (Complejo Soles Blancos), tiene cabañas para dormir (con salones chicos), 1 salón grandecito para 25-30 personas, y un quincho grande techado pero no cerrado. Este complejo estará COMPLETAMENTE reservado para nosotros.
+
+El segundo de los lugares, tiene más habitaciones, y además restaurante, así que ahí es donde comeríamos todos.
+
+Hay un límite máximo de 40 (como mucho 45) camas entre ambas hosterías.
+
+
 Villa La Bolsa, Córdoba
 -----------------------
 

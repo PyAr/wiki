@@ -1,4 +1,3 @@
-#format rst
 
 Python 3000
 :::::::::::

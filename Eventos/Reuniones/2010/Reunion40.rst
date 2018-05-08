@@ -1,5 +1,3 @@
-#format rst
-## page was renamed from Eventos/Reuniones/2011/Reunion40
 
 Reunión 40 - Sábado 06/03/10 - Durante el PyCamp, en Verónica
 =============================================================

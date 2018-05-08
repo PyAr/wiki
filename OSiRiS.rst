@@ -2,7 +2,7 @@
 OSiRiS (aka OSiUX)
 ------------------
 
-* Email: `[[MailTo(osiux AT SPAMFREE osiux DOT com)]]`_
+* Email: ``osiux AT SPAMFREE osiux DOT com``
 
 * Home: http://osiux.com
 

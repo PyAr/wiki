@@ -1,7 +1,3 @@
-
-Preguntas Frecuentes
-====================
-
 .. contents::
 
 -------------------------
@@ -125,43 +121,37 @@ Ejemplo:
 
 ::
 
-   .. raw:: html
-      <span class="line"><span class="k">def</span> <span class="nf">f</span><span class="p">(</span><span class="n">x</span><span class="p">):</span>
-      </span><span class="line">    <span class="k">def</span> <span class="nf">g</span><span class="p">():</span>
-      </span><span class="line">        <span class="k">return</span> <span class="n">x</span> <span class="o">+</span> <span class="mi">1</span>
-      </span><span class="line">    <span class="k">return</span> <span class="n">g</span><span class="p">()</span>
-      </span><span class="line">    <span class="c"># aquí &quot;x&quot; se incrementó, x no es local a &#39;g&#39;</span>
-      </span><span class="line">    <span class="c"># x es una celda en toda la función f</span>
-      </span><span class="line">    <span class="c"># para que pueda ser accedida desde g y f a la vez</span>
-      </span>
+   def f(x):
+      def g():
+         return x + 1
+      return g()
+      # aquí "x" se incrementó, x no es local a 'g'
+      # x es una celda en toda la función f
+      # para que pueda ser accedida desde g y f a la vez
 
 Otro
 
 ::
 
-   .. raw:: html
-      <span class="line"><span class="k">def</span> <span class="nf">f</span><span class="p">(</span><span class="n">l</span><span class="p">):</span>
-      </span><span class="line">    <span class="n">escala</span> <span class="o">=</span> <span class="nb">sum</span><span class="p">(</span><span class="n">l</span><span class="p">)</span>
-      </span><span class="line">    <span class="k">return</span> <span class="nb">set</span><span class="p">(</span> <span class="n">x</span> <span class="o">/</span> <span class="n">escala</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">l</span> <span class="p">)</span>
-      </span><span class="line">    <span class="c"># escala es una celda porque &quot;x / escala for x in l&quot;</span>
-      </span><span class="line">    <span class="c"># es una expresión generadora, y su única forma de</span>
-      </span><span class="line">    <span class="c"># acceder a &quot;escala&quot; es a través de la celda</span>
-      </span>
+   def f(l):
+      escala = sum(l)
+      return set( x / escala for x in l )
+      # escala es una celda porque "x / escala for x in l"
+      # es una expresión generadora, y su única forma de
+      # acceder a "escala" es a través de la celda
 
 Es importante saber cuáles de nuestras variables son celdas y cuáles simplemente locales, porque la sintaxis de python nos prohibe borrar celdas, no así variables locales:
 
 ::
 
-   .. raw:: html
-      <span class="line"><span class="k">def</span> <span class="nf">f</span><span class="p">(</span><span class="n">x</span><span class="p">):</span>
-      </span><span class="line">    <span class="n">rv</span> <span class="o">=</span> <span class="nb">set</span><span class="p">(</span> <span class="p">[</span> <span class="n">i</span><span class="o">*</span><span class="n">x</span> <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">xrange</span><span class="p">(</span><span class="mi">10</span><span class="p">)</span> <span class="p">]</span> <span class="p">)</span>
-      </span><span class="line">    <span class="k">del</span> <span class="n">x</span> <span class="c"># bizarro pero ok</span>
-      </span><span class="line">    <span class="k">return</span> <span class="n">rv</span>
-      </span><span class="line"><span class="k">def</span> <span class="nf">g</span><span class="p">(</span><span class="n">x</span><span class="p">):</span>
-      </span><span class="line">    <span class="n">rv</span> <span class="o">=</span> <span class="nb">set</span><span class="p">(</span> <span class="n">i</span><span class="o">*</span><span class="n">x</span> <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="nb">xrange</span><span class="p">(</span><span class="mi">10</span><span class="p">)</span> <span class="p">)</span>
-      </span><span class="line">    <span class="k">del</span> <span class="n">x</span> <span class="c"># error de sintaxis, no se pueden borrar celdas</span>
-      </span><span class="line">    <span class="k">return</span> <span class="n">rv</span>
-      </span>
+   def f(x):
+      rv = set( [ i*x for i in xrange(10) ] )
+      del x # bizarro pero ok
+      return rv
+   def g(x):
+      rv = set( i*x for i in xrange(10) )
+      del x # error de sintaxis, no se pueden borrar celdas
+      return rv
 
 Nótese que en *f*, x no es una celda porque ocurre en una expresión de lista por comprensión - que se parece, pero no es un generador.
 
@@ -174,10 +164,8 @@ Las variables locales todos las conocemos:
 
 ::
 
-   .. raw:: html
-      <span class="line"><span class="k">def</span> <span class="nf">f</span><span class="p">():</span>
-      </span><span class="line">   <span class="n">x</span> <span class="o">=</span> <span class="mi">4</span> <span class="c"># x es local</span>
-      </span>
+   def f():
+      x = 4 # x es local
 
 Los parámetros de una función también son variables locales. Por ende, self, en una función de una instancia, es también una variable local.
 
@@ -185,13 +173,11 @@ Las variables globales todos las conocemos también:
 
 ::
 
-   .. raw:: html
-      <span class="line"><span class="n">llamadas</span> <span class="o">=</span> <span class="mi">0</span>
-      </span><span class="line">
-      </span><span class="line"><span class="k">def</span> <span class="nf">f</span><span class="p">():</span>
-      </span><span class="line">   <span class="k">global</span> <span class="n">llamadas</span> <span class="c"># llamadas es global</span>
-      </span><span class="line">   <span class="n">llamadas</span> <span class="o">+=</span> <span class="mi">1</span>
-      </span>
+   llamadas = 0
+
+   def f():
+      global llamadas # llamadas es global
+      llamadas += 1
 
 Las variables globales son *"locales al módulo"*. Dentro de otro módulo, habrá otras globales.
 
@@ -420,9 +406,8 @@ La respuesta que le dio MartinBothiry_ es hacer:
 
 ::
 
-   .. raw:: html
-      <span class="line">  <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">abspath</span><span class="p">(</span><span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">dirname</span><span class="p">(</span><span class="n">__file__</span><span class="p">))</span>
-      </span>
+   os.path.abspath(os.path.dirname(__file__))
+
 
 ¿Uso el modulo array o listas?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -435,7 +420,7 @@ La respuesta de GabrielGenellina_ fue:
 
 El array de la libreria estandar es un "chorizo" de elementos, todos del mismo tipo, pero tipos nativos (no objetos; por ejemplo "unsigned long integer"). Es unidimensional, y no tiene casi métodos. El array de Numpy también guarda tipos nativos, pero es multidimensional, y tiene un montón de métodos y operaciones definidos.
 
-Extraer un elemento de un array es costoso, porque hay que crear el objeto Python que lo "envuelva", y lo mismo pasa al asignarle un valor a un elemento individual. Así que operar con arrays elemento-a-elemento en Python es mas lento que usar una lista estándar. Los arrays están pensados para usarlos desde código en C (o Numpy, que esta escrito en C); por ejemplo, un array.array("f") se puede pasar a una función en C declarada como "float x[]" o "float *x".
+Extraer un elemento de un array es costoso, porque hay que crear el objeto Python que lo "envuelva", y lo mismo pasa al asignarle un valor a un elemento individual. Así que operar con arrays elemento-a-elemento en Python es mas lento que usar una lista estándar. Los arrays están pensados para usarlos desde código en C (o Numpy, que esta escrito en C); por ejemplo, un array.array("f") se puede pasar a una función en C declarada como "float x[]" o "float \*x".
 
 Otra diferencia: array solo puede contener caracteres, números enteros nativos, o números de punto flotante; no objetos. Pero la representación en memoria es mucho mas compacta, cada elemento ocupa sólo lo necesario para guardar su valor y nada más (por ejemplo, 4 bytes para un float vs. 20 que se necesitan en una lista normal [16 para el objeto float de Python y 4 para el puntero en la lista], los tamaños son para Windows 32 bits).
 
@@ -458,23 +443,19 @@ En algunos casos, ofrece resultado que a primera vista sorprenden...
 
 ::
 
-   .. raw:: html
-      <span class="line"><span class="o">&gt;&gt;&gt;</span> <span class="n">a</span> <span class="o">=</span> <span class="mi">3</span>
-      </span><span class="line"><span class="o">&gt;&gt;&gt;</span> <span class="n">b</span> <span class="o">=</span> <span class="mi">3</span>
-      </span><span class="line"><span class="o">&gt;&gt;&gt;</span> <span class="n">a</span> <span class="ow">is</span> <span class="n">b</span>
-      </span><span class="line"><span class="bp">True</span>
-      </span>
+   >>> a = 3
+   >>> b = 3
+   >>> a is b
+   True
 
 En este caso a apunta a un 3 en memoria, y b apunta al mismo 3 en memoria. Python no creó dos objetos "3", sino que usó el mismo para los nombres a y b.
 
 ::
 
-   .. raw:: html
-      <span class="line"><span class="o">&gt;&gt;&gt;</span> <span class="n">a</span> <span class="o">=</span> <span class="mi">500</span>
-      </span><span class="line"><span class="o">&gt;&gt;&gt;</span> <span class="n">b</span> <span class="o">=</span> <span class="mi">500</span>
-      </span><span class="line"><span class="o">&gt;&gt;&gt;</span> <span class="n">a</span> <span class="ow">is</span> <span class="n">b</span>
-      </span><span class="line"><span class="bp">False</span>
-      </span>
+   >>> a = 500
+   >>> b = 500
+   >>> a is b
+   False
 
 Aquí a apunta a un 500 en memoria, y b apunta a otro 500 en memoria. Python sí creó dos objetos "500".
 
@@ -491,26 +472,15 @@ Pero ojo, que esto sucede con versiones pasadas y actuales de CPython. Es un det
 
 .. _ListaDeCorreo:
 
-
 .. _grupo de Python de Buenos Aires de Meetup: http://python.meetup.com/cities/ar/buenos_aires/
 
 .. _SEO: http://es.wikipedia.org/wiki/Posicionamiento_en_buscadores
 
-
-.. _aquí: http://webchat.freenode.net/?channels=pyar
-
-
-
-
-
+.. _aquí: /irc/
 
 .. _Portland Pattern Repository's Wiki: http://c2.com/cgi/wiki?PythonSprint
 
-
-
 .. _FAQ General de Python: http://www.python.org/doc/faq/es/general/#por-qu-hay-tipos-de-datos-tuplas-y-listas-separados
-
-
 
 .. _IDLE: http://en.wikipedia.org/wiki/IDLE_(Python)
 
@@ -520,10 +490,7 @@ Pero ojo, que esto sucede con versiones pasadas y actuales de CPython. Es un det
 
 .. _wxPython: http://www.wxpython.org/
 
-
-
 .. _recursos externos: http://www.eseth.org/2008/pimp-pythonrc.html
-
 
 .. _SqlAlchemy: http://www.sqlalchemy.org/
 
@@ -535,15 +502,9 @@ Pero ojo, que esto sucede con versiones pasadas y actuales de CPython. Es un det
 
 .. _DAL: http://www.web2py.com.ar/examples/default/dal
 
-
-
-
-
 .. _Django: http://www.djangoproject.com
 
 .. _Turbogears: http://turbogears.org/
-
-
 
 .. _Zope: http://www.zope.org
 
@@ -568,7 +529,7 @@ Pero ojo, que esto sucede con versiones pasadas y actuales de CPython. Es un det
 
 .. _ClamWin: http://es.clamwin.com
 
-.. _OpenErp: http://www.openerp.com
+.. _Odoo: http://www.odoo.com (ex **OpenErp**)
 
 
 .. _Meld: http://meld.sourceforge.net

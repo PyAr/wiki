@@ -4,7 +4,7 @@ Nicolás Echániz
 
 http://www.altermundi.net
 
-Email: `[[MailTo(nicoechaniz AT SPAMFREE altermundi DOT net)]]`_
+Email: ``nicoechaniz AT SPAMFREE altermundi DOT net``
 
 -------------------------
 

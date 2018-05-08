@@ -2,7 +2,7 @@
 Horacio Durán (perrito)
 -----------------------
 
-Email: `[[MailTo(hduran AT SPAMFREE machinalis DOT com)]]`_
+Email: ``hduran AT SPAMFREE machinalis DOT com``
 
 Soy... dejenme volver a empezar. Comencé las carreras de Ingeniería Electrónica, Arquitectura, Tecnicatura en Programación y un atisbo de Lic. en ciencias de la computación, no terminé tantas como empece.. ninguna de hecho.
 

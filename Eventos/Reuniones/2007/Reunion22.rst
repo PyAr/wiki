@@ -1,5 +1,3 @@
-#format rst
-## page was renamed from Eventos/Reuniones/Reunion22
 
 Reunión 22 - 25/04/2007 - Hip Bar
 =================================
@@ -72,7 +70,7 @@ Concursos para PyAr
 
 **??? No se en que pensaba el chaghi cuando anoto este punto en la lista de temas!** 
 
-Juas! Alecu... Leé el título de esta sección. Ahora, leé el párrafo de la sección siguiente. ¿Te matchea algún string? |;)| Reconozco que me costó un poco darme cuenta que quise poner, pero en esencia, fue eso: Una referencia a lo que hablamos sobre organizar concursos.
+Juas! Alecu... Leé el título de esta sección. Ahora, leé el párrafo de la sección siguiente. ¿Te matchea algún string? |wink| Reconozco que me costó un poco darme cuenta que quise poner, pero en esencia, fue eso: Una referencia a lo que hablamos sobre organizar concursos.
 
 Trafico Lista
 ~~~~~~~~~~~~~
@@ -97,7 +95,7 @@ Durante el ultimo año hubo muchas propuestas enviadas a la lista para trabajar 
 Pizza conmigo
 ~~~~~~~~~~~~~
 
-Más tarde fuimos a una pizzeria a comer algo y estuvimos charlando algunos temas mas entre porción y porción, pero no hay un registro claro de la multitud de charlas que se dieron en ese momento. |:-)|
+Más tarde fuimos a una pizzeria a comer algo y estuvimos charlando algunos temas mas entre porción y porción, pero no hay un registro claro de la multitud de charlas que se dieron en ese momento. |smile|
 
 .. ############################################################################
 
@@ -112,4 +110,9 @@ Más tarde fuimos a una pizzeria a comer algo y estuvimos charlando algunos tema
 .. _Pywiii: http://www.pyweek.org/e/Pywiii/
 
 .. _PyCor 2.0: http://www.pyweek.org/e/pycor2/
+
+
+
+.. role:: superscript
+   :class: superscript
 

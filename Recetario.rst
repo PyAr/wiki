@@ -16,12 +16,12 @@ Configuracion del entorno python
 Crear un entorno virtual y un esqueleto de proyecto
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`Recetario/CreandoUnNuevoProyectoPython`_: Receta para crear un entorno de trabajo y un esqueleto minimo para un nuevo proyecto Python
+`Creando un nuevo proyecto python <Recetario/CreandoUnNuevoProyectoPython>`_: Receta para crear un entorno de trabajo y un esqueleto minimo para un nuevo proyecto Python
 
 Mejorando el interprete python
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`Autocompletado en consola interactiva`_: tip sobre como agregar autocompleción con tab en la consola interactiva imitando el comportamiento ipython.
+`Autocompletado en consola interactiva <Recetario/AutocomplecionEnConsolaInteractiva>`_: tip sobre como agregar autocompleción con tab en la consola interactiva imitando el comportamiento ipython.
 
 Estructuras de datos
 --------------------
@@ -53,24 +53,24 @@ Reverse_ : Función que invierte los caracteres.
 validar_cuit
 ~~~~~~~~~~~~
 
-`/ValidarCuit`_ : Función para validar un CUIT/CUIL estilo 00-00000000-0
+`<ValidarCuit>`_ : Función para validar un CUIT/CUIL estilo 00-00000000-0
 
 digito_verificador_modulo10
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`/CalcularDigitoVerificadorModuloDiez`_ : Función para generar el dígito verificador módulo 10
+`<CalcularDigitoVerificadorModuloDiez>`_ : Función para generar el dígito verificador módulo 10
 
 Normalizar caracteres Unicode
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Es bueno `/NormalizarCaracteresUnicode`_ para hacer búsquedas en strings sin que se tengan en cuenta los caracteres latinos, como los acentos y la eñe.
+Es bueno `<NormalizarCaracteresUnicode>`_ para hacer búsquedas en strings sin que se tengan en cuenta los caracteres latinos, como los acentos y la eñe.
 
 ObtenerSensacionTermica_: Calcular la Sensacion Termica o Temperatura Aparente.
 
 Interceptar los prints
 ~~~~~~~~~~~~~~~~~~~~~~
 
-`/InterceptarPrints`_ sirve para hacer reemplazos en las strings que se van a imprimir, por ejemplo para agregar un timestamp.
+`<InterceptarPrints>`_ sirve para hacer reemplazos en las strings que se van a imprimir, por ejemplo para agregar un timestamp.
 
 Frameworks Web
 --------------

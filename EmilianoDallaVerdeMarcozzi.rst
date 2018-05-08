@@ -2,7 +2,7 @@
 Emiliano Dalla Verde Marcozzi
 -----------------------------
 
-Email: `[[MailTo(edvm AT fedoraproject DOT org)]]`_.. You can even more obfuscate your email address by adding more uppercase letters followed by a leading and trailing blank.
+Email: ``edvm AT fedoraproject DOT org`` You can even more obfuscate your email address by adding more uppercase letters followed by a leading and trailing blank.
 
 Un poco sobre mi:
 -----------------

@@ -1,5 +1,3 @@
-#format rst
-#acl All:read,write
 
 .. sectnum::
    :depth: 2
@@ -28,7 +26,7 @@ Escribí un mail a la ListaDeCorreo_, proponiendo la reunión. Deberías indicar
 Obtener un mínimo de personas interesadas
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Es obvio, pero la reunión no podrá realizarse si no hay un mínimo de personas interesadas en asistir. ¿Cuánto es el mínimo? Dependerá de dónde se realice la reunión, y cuales sean los objetivos básicos de la misma. Ante la duda... usá tu sentido común |;)|
+Es obvio, pero la reunión no podrá realizarse si no hay un mínimo de personas interesadas en asistir. ¿Cuánto es el mínimo? Dependerá de dónde se realice la reunión, y cuales sean los objetivos básicos de la misma. Ante la duda... usá tu sentido común |wink|
 
 Fijar fecha y lugar tentativos
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -98,7 +96,7 @@ Alguien deberá hacerse responsable de llamar por TE o pasar personalmente por e
 Pedir que vayan de compras
 ::::::::::::::::::::::::::
 
-El *Hip Bar* tiene su historia de dejarnos de a pie, sin cerveza y sin comida. Al hacer la reserva, recordarles que son un bar, y que ¡no pueden quedarse sin cerveza! |:-?| 
+El *Hip Bar* tiene su historia de dejarnos de a pie, sin cerveza y sin comida. Al hacer la reserva, recordarles que son un bar, y que ¡no pueden quedarse sin cerveza! |smirk| 
 
 Tareas posteriores a la reunión
 -------------------------------
@@ -122,5 +120,4 @@ La versión inicial estará a cargo de quien haya dirigido la reunión. La pági
 
 .. _Doodle: http://www.doodle.com/
 
-.. _ProximaReunion: ../ProximaReunion
 

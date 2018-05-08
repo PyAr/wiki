@@ -2,9 +2,9 @@
 Nicolás Demarchi
 ----------------
 
-Email: `[[MailTo(mail AT SPAMFREE gilgamezh DOT me)]]`_
+Email: **mail** AT **gilgamezh** DOT **me**
 
-Blog: http://gilgamezh.me/dp 
+Blog: http://gilgamezh.me/blog
 
 Actualmente vivo en CABA y trabajo en sistemas desde el Y2K. Sysadmin/WebOps/SRE/etc. Estudiante truncado de Sistemas. Me gusta mucho trabajar en proyectos libres y participar/aportar a los mismos desde mis posibilidades. 
 
@@ -17,7 +17,7 @@ También estoy participando con pequeños aportes a la formación de la asociaci
 .. ############################################################################
 
 
-.. _Trabajo: http://gilgamezh.me/dp/pagina-basica/resume_43
+.. _Trabajo: http://gilgamezh.me/blog/stories/resume.html
 
 .. _TouchAndGo: https://github.com/touchandgo-devs/touchandgo
 

@@ -1,4 +1,3 @@
-#format rst
 
 Matrix Python Toy
 =================

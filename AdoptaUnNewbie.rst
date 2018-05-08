@@ -1,6 +1,11 @@
-
 Adopta Un Newbie
 ================
+
+Buenas! Adopta-un-newbie es un proyecto de PyAr orientado a permitir que gente
+que está buscando aprender de algo en particular, encuentre y se conecte con gente
+que está dispuesta a mentorear en esos temas.
+
+Básicamente:
 
 * gente se postula como mentores
 
@@ -15,6 +20,17 @@ Adopta Un Newbie
 * el mentado documenta lo que va aprendiendo en un blog
 
 * todos felices
+
+La manera de mentorear varía de mentor a mentor, algunos se dedican más a 
+responder dudas por mail, otros a hacer más revisiones de código, otros a 
+acompañar el desarrollo de algo en particular, etc. Pero en general, la 
+idea central sigue siendo la misma: alguien que puede seguir de cerca al 
+mentado, sabiendo "en qué anda" y pudiendo guiarlo de forma más personalizada.
+
+Si te interesa, no hace falta más que anotarte acá, en la lista que corresponda
+(como newbie o como mentor). Y si vez que se puede formar una pareja, simplemente
+comunicarte de forma directa con la otra persona (si no tenés el mail, podés 
+buscarlo en irc, o mandar un mail a la lista pidiendo contactarlo).
 
 Proyectos en busca de mentados
 ------------------------------
@@ -33,11 +49,8 @@ Proyectos en busca de mentados
 
   * http://www.crawley-project.org
 
-Mentores Propuestos
--------------------
-
-Disponibles
-~~~~~~~~~~~
+Mentores Disponibles
+--------------------
 
 * Mauro Lizaur (debian, algo de django, cosas en general, ayuda con proyectos grandes(?). )
 
@@ -57,12 +70,12 @@ Disponibles
 
 * Mariano Reingart (web2py, wxpython, postgresql, ubuntu y/o windows, proyectos de factura electrónica, "gestion libre", etc.)
 
-* `Mariano Guerra`_ emesene, python en general, flask, REST, web
+* `Mariano Guerra` emesene, python en general, flask, REST, web
 
-Ocupados
-~~~~~~~~
+* Fisa (JuanFisanotti_) (django y web, python en general, inteligencia artificial, vim)
 
-* JuanFisanotti_ (django y web, python en general, inteligencia artificial, vim) (Emanuel Toro y Jean Jacques)
+* DavidLitvak_ (python, web en general, REST, vim)
+
 
 Disponibles como mentores de charlas
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -79,16 +92,15 @@ Disponibles como mentores de charlas
 
 * MarianoGuerra_
 
+* DavidLitvak_
+
 (seguro me olvido de alguno)
 
-Asignados
-~~~~~~~~~
 
-Mentados Propuestos
--------------------
+Mentados buscando mentores
+--------------------------
 
-Disponibles
-~~~~~~~~~~~
+* Bryan Velasco (brygevel_): Python enfocado a videojuegos.
 
 * `Mauricio José Tobares`_
 
@@ -112,20 +124,29 @@ Disponibles
 
 * Carlos Do Carmo (Django)
 
-* `Rafael E. Ferrero`_ (web,Django, Python en general, linux, diseño de software, sistemas administrativos-contables, administración de servidores).
+* Rafael E. Ferrero (Django, Python en general).
 
-Asignados
-~~~~~~~~~
+* WillSantana_ (web, Django, Python en general, Mac OS X)
+
+* Mendoza Daniel (chiquito): me interesa aprender y aportar en el proyecto "waliki".
+
+* Julian Silva (Python, Django,HTML5/CSS3)
+
+* Ana María Jalca (amjalca_): Python, Inteligencia Artificial y Web.
+
+* Sebas Giustra (sebasgiustra): Python, PyQt y Django, en ese orden.
+
+
+Adopciones en curso
+-------------------
+
 
 * Daniel Malisani -> Manuel Naranjo (opencv)
 
 * EzequielMarquez_ -> HoracioDuran_ (web)
 
-* Jonathan Scherz -> `David Litvak`_ (Django, TDD, vim)
+* JuanFisanotti_ -> Ana Maria Jalca Montano (IA)
 
-* Emanuel Toro -> JuanFisanotti_
-
-* Jean Jacques -> JuanFisanotti_
 
 Mentores Buscados
 -----------------
@@ -142,7 +163,11 @@ Mentados Buscados
 Adopciones Finalizadas
 ----------------------
 
-* JuanFisanotti_ - Hernan Lozano: muy buena experiencia! |:)|
+* JuanFisanotti_ 
+
+  * Hernan Lozano: muy buena experiencia!
+
+  * Emanuel Toro, Jean Jacques, Catriel López, Marco Moresi, José de Jesus Marquez Rangel, Rommel Augusto Gutierrez Roa: hubo contacto, pero más esporádico, con consultas puntuales más que nada. No hubo una especie de "cierre" formal de la adopción, pero no estamos teniendo contacto habitual.
 
 * Mariano Guerra
 
@@ -152,8 +177,9 @@ Adopciones Finalizadas
 
 * MartinAlderete_ - Ochoa Gerardo Fidel, perdida de contacto.
 
-.. ############################################################################
+* DavidLitvak_ - Jonathan Scherz, perdida de contacto.
 
+.. ############################################################################
 
 
 
@@ -161,24 +187,8 @@ Adopciones Finalizadas
 
 .. _Mariano Guerra:
 
-
-
-
-
-
-
 .. _Rafael E. Ferrero: mailto:rafael.ferrero@gmail.com
 
 
-
-
-
-
 .. role:: strike
    :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-

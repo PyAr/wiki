@@ -1,9 +1,8 @@
 
 ::
 
-   .. raw:: html
-      <span class="line"><span class="k">print</span> <span class="s">&quot;hola mundo&quot;</span>
-      </span>
+    print "hola mundo"
+
 
 .. Show a category's events as a list:
 

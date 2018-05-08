@@ -1,4 +1,3 @@
-#format rst
 
 Creando un nuevo proyecto Python
 ================================
@@ -38,58 +37,48 @@ Notar que *skeleton* se está instalando desde un *fork* del proyecto original, 
 
 3. Configurá virtualenvwrapper. 
 
- 
+::
 
-  ::
+     $ mkdir ~/.virtualenvs           # acá se van a guardar tus entornos virtuales
+     $ mkdir ~/proyectos              # acá se van a guardar tus proyectos
 
-        $ mkdir ~/.virtualenvs           # acá se van a guardar tus entornos virtuales
-        $ mkdir ~/proyectos              # acá se van a guardar tus proyectos
-        $ mkdir ~/.pip_download_cache     # para no bajar paquetes cada vez
+Luego editá tu *~/.bashrc* agregando las siguientes líneas
 
-  Luego editá tu *~/.bashrc* agregando las siguientes líneas
+::
 
-  ::
+  WORKON_HOME=$HOME/.virtualenvs
+  PROJECT_HOME=$HOME/proyectos
+  
+  source /usr/local/bin/virtualenvwrapper.sh
 
-     .. raw:: html
-        <span class="line">   <span class="nb">export </span><span class="nv">WORKON_HOME</span><span class="o">=</span><span class="nv">$HOME</span>/.virtualenvs
-        </span><span class="line">   <span class="nb">export </span><span class="nv">PROJECT_HOME</span><span class="o">=</span><span class="nv">$HOME</span>/proyectos
-        </span><span class="line">   <span class="nb">export </span><span class="nv">VIRTUALENV_DISTRIBUTE</span><span class="o">=</span><span class="nb">true</span>
-        </span><span class="line"><span class="nb">   export </span><span class="nv">PIP_DOWNLOAD_CACHE</span><span class="o">=</span><span class="nv">$HOME</span>/.pip_download_cache
-        </span><span class="line">   <span class="nb">source</span> /usr/local/bin/virtualenvwrapper.sh
-        </span>
+y recargá tus cambios
 
-  y recargá tus cambios ::
-
-        $ source ~/.bashrc
+::
+  
+  $ source ~/.bashrc
 
 4. Inicializá tu proyecto. Por ejemplo el proyecto *zaraza*
 
- 
+::
 
-  ::
+  $ mkproject -t package zaraza
 
-        $ mkproject -t package zaraza
+Se te solicitarán algunos datos (nombre del proyecto, autor, licencia, etc.) y ¡(casi) listo! Estarás trabajando en tu proyecto *zaraza*. Tu prompt se verá así: 
 
-   Se te solicitarán algunos datos (nombre del proyecto, autor, licencia, etc.) y ¡(casi) listo! Estarás trabajando en tu proyecto *zaraza*. Tu prompt se verá así:
+::
 
- 
+  (zaraza)tin@morocha:~/proyectos/zaraza$
 
-  ::
-
-        (zaraza)tin@morocha:~/proyectos/zaraza$
-
-  ¿Qué sucedió? Se creó un directorio *~/proyectos/zaraza* para tu proyecto, asociado a un virtualenv ubicado  en  *~/.virtualenvs /zaraza*.  skeleton automáticamente creó una estructura básica de paquete python  *~/proyectos/zaraza/src* incluyendo un *setup.py* basado en distribute. 
+¿Qué sucedió? Se creó un directorio *~/proyectos/zaraza* para tu proyecto, asociado a un virtualenv ubicado  en  *~/.virtualenvs /zaraza*.  skeleton automáticamente creó una estructura básica de paquete python  *~/proyectos/zaraza/src* incluyendo un *setup.py* basado en distribute. 
 
 5. Instalá tu paquete en el virtualenv, para poder importarlo desde cualquier lado
 
- 
+::
 
-  ::
+  (zaraza) $ cd  ~/proyectos/zaraza/src
+  (zaraza) $ pip install -e .
 
-       (zaraza) $ cd  ~/proyectos/zaraza/src
-       (zaraza) $ pip install -e .
-
-  Esto agrega el directorio de desarrollo de tu proyecto al PYTHONPATH del virtualenv, de modo que puedes importar *zaraza* desde cualquier lado dentro del virtualenv (por ejemplo, cuando hagas una carpeta *src/test* al nivel de '/src/zaraza'
+Esto agrega el directorio de desarrollo de tu proyecto al PYTHONPATH del virtualenv, de modo que puedes importar *zaraza* desde cualquier lado dentro del virtualenv (por ejemplo, cuando hagas una carpeta *src/test* al nivel de '/src/zaraza'
 
 ¿Y ahora?
 ---------
@@ -98,17 +87,17 @@ Cada vez que quieras trabajar en tu proyecto *zaraza* podes correr
 
  
 
-  ::
+::
 
-       $ workon zaraza
+  $ workon zaraza
 
 Para salir del virtualenv
 
  
 
-  ::
+::
 
-       (zaraza) $ deactivate
+  (zaraza) $ deactivate
 
 Algunos tips más a modo de despedida
 ------------------------------------

@@ -1,4 +1,3 @@
-#format rst
 
 Reunión 58  - Miércoles 18 de Julio de 2012 - Rafaela, Cyrano Bar - 20hs
 ========================================================================

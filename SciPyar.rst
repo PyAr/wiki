@@ -2,7 +2,11 @@
 SciPyar
 =======
 
-Esta sección es el repositorio de ideas y recursos de un grupo creciente de miembros de PyAr_ interesados en el uso y la difusión de Python para el desarrollo y aplicación en ciencia e ingeniería. Aquí sistematizamos ideas, coordinación de eventos, recursos pedagógicos, links a proyectos interesantes, etc. 
+Esta sección es el repositorio de ideas y recursos de un grupo creciente de miembros de PyAr_ interesados en el uso y la difusión de Python para el desarrollo y aplicación en ciencia e ingeniería.
+
+A partir del año 2015 la comunidad de SciPyAr se extiende hacia nuevos países de Latinoamérica, comenzando a denominarse SciPyLA.
+
+Podrán encontrar más información de este comunidad y los eventos que la misma realiza en `scipyla.org`_.
 
 Lista de correo
 ---------------
@@ -16,10 +20,6 @@ Presentaciones y material sobre Python Científico
 
 * **Numpy + Scipy**, Facundo Batista `Presentación <http://www.taniquetil.com.ar/homedevel/presents/numsci.pdf>`__ | `Fuentes <http://www.taniquetil.com.ar/homedevel/presents/numsci/>`__
 
-Proyectos de interés
---------------------
-
-*
 
 .. ############################################################################
 
@@ -30,3 +30,4 @@ Proyectos de interés
 
 .. _Fuentes: https://github.com/damianavila/Python_Cientifico
 
+.. _`scipyla.org`: http://scipyla.org

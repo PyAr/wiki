@@ -1,7 +1,7 @@
 
 PyAR (Python Argentina) se encuentra en la organización del 2do Python Day en Córdoba. Convocamos a aquellos interesados en participar del mismo en calidad de disertantes a presentar sus charlas.
 
-Donde enviarlas: `[[MailTo(charlas GUION pyday EN python PUNTO com PUNTO ar)]]`_
+Donde enviarlas: ``charlas GUION pyday EN python PUNTO com PUNTO ar``
 
 Las mismas deben contener:
 

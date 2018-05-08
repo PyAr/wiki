@@ -14,7 +14,7 @@ Alejandro J. Cura
 
 * :strike:`Uso y me aburren C++, Java, xml.` ya no!
 
-Email: `[[MailTo(alecu AT vortech DOT com DOT ar)]]`_
+Email: ``alecu AT vortech DOT com DOT ar``
 
 ---
 

@@ -1,4 +1,3 @@
-#format rst
 
 Reunión 60 - Jueves 21 de Marzo de 2013 - Rosario, Antares - 19hs
 =================================================================

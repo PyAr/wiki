@@ -1,4 +1,3 @@
-#format rst
 
 Pyday 2011
 ==========

@@ -1,4 +1,3 @@
-#format rst
 
 Propuesta tentativa PYCONAR 2013 en Córdoba Capital
 ===================================================

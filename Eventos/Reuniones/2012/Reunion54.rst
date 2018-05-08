@@ -1,4 +1,3 @@
-#format rst
 
 Reunión 54  - Sabado 31 de Marzo - Buenos Aires, Universidad de Quilmes - 12hs
 ==============================================================================

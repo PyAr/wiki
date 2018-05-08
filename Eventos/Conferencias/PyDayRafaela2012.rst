@@ -1,4 +1,3 @@
-#format rst
 
 Organización PyDay Rafaela 2012
 ===============================

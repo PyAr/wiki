@@ -1,4 +1,3 @@
-#format rst
 
 Reunión 57 - 8 de Julio de 2012 - Verónica, Buenos Aires - 21:00
 ----------------------------------------------------------------
@@ -115,7 +114,7 @@ Asistentes:
 ¿Dónde?
 ~~~~~~~
 
-En el fogón del PyCamp_ |:)|
+En el fogón del PyCamp_ |smile|
 
 ¿De qué se hablo?
 ~~~~~~~~~~~~~~~~~

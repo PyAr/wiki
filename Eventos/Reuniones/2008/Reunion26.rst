@@ -1,5 +1,3 @@
-#format rst
-## page was renamed from Eventos/Reuniones/Reunion26
 
 Reunión 26 - 05/03/2008 - El Clásico Bar, Buenos Aires
 ======================================================

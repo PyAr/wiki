@@ -18,9 +18,9 @@ Mas info:
 
 * Github: http://github.com/malderete
 
-Email: `[[MailTo(malderete <ARROBA> gmail <DOT> com)]]`_
+Email: ``malderete <ARROBA> gmail <DOT> com``
 
-Email: `[[MailTo(malderete <ARROBA> ninja-ide <DOT> org)]]`_
+Email: ``malderete <ARROBA> ninja-ide <DOT> org``
 
 ...
 

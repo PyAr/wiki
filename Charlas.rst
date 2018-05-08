@@ -1,10 +1,11 @@
-
 .. contents:: :depth: 2
 
-Charlas
-=======
-
 En esta página podrán encontrar los *slides* de charlas y presentaciones dictadas por miembros de PyAr_.
+
+¡Agregá la tuya!https://www.bigboyscartoys.com/
+
+General
+=======
 
 Creando plug-ins para GIMP con Python
 -------------------------------------
@@ -90,7 +91,7 @@ Introducción a Python
 
 *Facundo Batista*
 
-**Slides:** http://tools.assembla.com/svn/homedevel/presents/intropython.odp
+**Slides:** http://taniquetil.com.ar/homedevel/presents/intropython.odp
 
 -------------------------
 
@@ -125,7 +126,7 @@ Python más rápido que C
 
 *Facundo Batista*, *Lucio Torre*
 
-**Slides y código:** http://tools.assembla.com/svn/homedevel/presents/pyrapidc/
+**Slides y código:** http://www.taniquetil.com.ar/homedevel/presents/pyrapidc/
 
 -------------------------
 
@@ -194,6 +195,51 @@ Introducción a Python 2da. parte (Librería Estandar, Bases de datos, Aplicacio
 **Slides:** 
 
 -------------------------
+
+
+
+
+La pythonicidad al palo
+------------------------
+
+*Martín Gaitán*
+
+	¿Qué significa que un código sea "pythónico"?
+	Una charla sobre python idiomático: características de este lenguaje para expresar de forma simple, elegante y potente.
+
+:diapositivas: http://mgaitan.github.com/pythonicidad/
+:repo: http://github.com/mgaitan/pythonicidad/
+:evento: `PyCon Argentina 2013 <http://ar.pycon.org/2013>`_
+:fecha: Viernes 25 de octubre de 2013
+:lugar: Rosario, Argentina
+
+-----
+
+MyHDL, de Python al silicio
+---------------------------
+
+*Martín Gaitán*
+
+    En el mundo del hardware se usan lenguajes de descripción
+    como VHDL o Verilog. MyHDL_ es un paquete que permite utilizar
+    la potencia de alto nivel de Python como reemplazo (o abstracción)
+    de un lenguaje de descripción de hardware tradicional.
+
+    ¿Imaginaste alguna vez diseñar tu propio procesador? O implementar
+    un sistema de embebido en un chip? Esas cosas requieren lidiar con
+    los lenguajes HDL (hardware description language), que si bien no
+    son de bajo nivel como un ensamblador, tienen sitaxis y mañas complejas.
+    No es para menos:  esos "programas" se sintetizan y se vuelven
+    los planos internos de un chip, por ejemplo una FPGA.
+
+    MyHDL permite reemplazarlos programando en Python, pudiendo simular
+    y hacer test de manera mucho más fácil. Incluso se puede obtener
+    código en lenguajes HDL sintetizables y hacer tu sueño
+    realidad: ¡hacer hardware con Python!
+
+:diapositivas: http://mgaitan.github.com/myhdl-talk/
+:repo: http://github.com/mgaitan/myhdl-talk/
+
 
 
 
@@ -346,7 +392,7 @@ Cyclope 3: un CMS libre desarrollado en Python/Django
 
 NicoEchaniz_
 
-Slides_ Video_
+Slides_echaniz_ Video_
 
 -------------------------
 
@@ -380,8 +426,8 @@ Introducción a wxPython
 `MarceloFernández`_
 
 **Slides ODP:**  
- **Slides PDF:**  
- **Código de ejemplos:**  
+**Slides PDF:**  
+**Código de ejemplos:**  
 
 
 PyDay Córdoba 2011
@@ -392,9 +438,11 @@ MyHDL, de Python al Silicio
 
 MartinGaitan_
 
-- `Slides <http://nqnwebs.github.com/myhdl-talk>`__
- - `Fuentes y ejemplos`_ (fork me!)
 
+- `Slides <http://nqnwebs.github.com/myhdl-talk>`__
+- `Fuentes y ejemplos`_ (fork me!)
+
+-------------------------
 
 pycamp.orm, haciendo *facil* sqlalchemy
 ---------------------------------------
@@ -402,9 +450,11 @@ pycamp.orm, haciendo *facil* sqlalchemy
 EmilianoDallaVerdeMarcozzi_
 
 - `Slides <http://xip.piluex.com/PYCAMP_ORM.pdf>`__
- - Fuente_
- < `Video <http://python.org.ar/pyar/PycampORM>`__
+- Fuente_
+- `Video <http://python.org.ar/pyar/PycampORM>`__
 
+
+-------------------------
 
 Introducción a PyQt
 -------------------
@@ -412,9 +462,10 @@ Introducción a PyQt
 DiegoSarmentero_
 
 - `Slides <http://wingedbox.com/downloads/14009-Intro-PyQt.pdf>`__
- - Ejemplos_
- - `Fragmento de Video de la Charla (Ejemplo)`_
+- Ejemplos_
+- `Fragmento de Video de la Charla (Ejemplo)`_
 
+-------------------------
 
 Desarrollando Aplicaciones Desktop con UI Web
 ---------------------------------------------
@@ -422,9 +473,10 @@ Desarrollando Aplicaciones Desktop con UI Web
 DiegoSarmentero_
 
 - `Slides <http://wingedbox.com/downloads/14012-Desarrollando-Aplicaciones-Desktop-con-UI-Web.pdf>`__
- - `Ejemplos <http://wingedbox.com/downloads/14014-Ejemplo-Ui-Desktop-Web.zip>`__
- - `Fragmento de Video de la Charla (Ejemplo) <http://youtu.be/J5qgZx6VHhw>`__
+- `Ejemplos <http://wingedbox.com/downloads/14014-Ejemplo-Ui-Desktop-Web.zip>`__
+- `Fragmento de Video de la Charla (Ejemplo) <http://youtu.be/J5qgZx6VHhw>`__
 
+-------------------------
 
 PyConAr Rafaela 2014
 ====================
@@ -440,6 +492,7 @@ Ansible, la batuta de Python
 
 * Slides: http://manuq.github.io/slides-charla-ansible/
 
+-------------------------
 
 Ruby para programadores Python
 ------------------------------
@@ -448,6 +501,7 @@ JuanjoConti_
 
 - `Slides <http://nbviewer.ipython.org/github/jjconti/aprendiendo-ruby/blob/PyConAr2014-with-output/RubyDesdePython.ipynb>`__
 
+-------------------------
 
 Netflix en 10 líneas - Mulpycast
 --------------------------------
@@ -458,10 +512,14 @@ Perdón por el click-bait :-D No es una librería. Ni una biblioteca. Es ip mult
 
 - Slides: odp_ pdf_ - `Ejemplos, fuentes y mucho más`_
 
+-------------------------
+
 RIP - Rest in Python 3
 ----------------------
 
 Speakers: Cynthia Monastirsky, Juan Carizza, Emiliano Dalla Verde Marcozzi. Descripción: Cada vez es más común que existan diferentes servicios 'en la nube', que mediante una 'interface' nos permiten acceder y/o modificar los datos que procesan de una forma programática. Esto posibilita una abstracción sobre los lenguajes de programación en los que están desarrollados los sistemas, permitiendoles compartir información. Esta charla quiere ser una introducción a como poder compartir los datos que procesamos en nuestras aplicaciones, con aplicaciones de terceros, creando API's REST. - Slides: https://docs.google.com/presentation/d/1xXrZQy3QtIu5n5Qz4IEw0lD8q83qoEq6ZqsHR2ixqvI/edit?usp=sharing
+
+-------------------------
 
 Argentina en Python: como matar el sueño de todo programador en 2 minutos
 -------------------------------------------------------------------------
@@ -471,6 +529,8 @@ Argentina en Python: como matar el sueño de todo programador en 2 minutos
 * Descripción: *En Abril de 2014 empecé un proyecto llamado "Argentina en Python" con la idea de recorrer el país dando charlas de programación utilizando el lenguaje Python a quienes estuvieran interesados en aprender a programar. También, de esta forma, estaría devolviendo de alguna manera el conocimiento que obtuve libremente de la comunidad de Python durante todos estos años. La primera etapa del viaje duró 3 meses aproximadamente, visité 5 provincias y cerca de 10 ciudades. La segunda etapa comienza a principios de Septiembre y finaliza en la* PyConAr_ *2014 en Rafaela. En esta charla se contará un poco sobre la historia del proyecto, sus inicios, su desarrollo y la experiencia vivida durante este tiempo, mencionando los pros y contra de viajar y trabajar como programador, como así también las experiencias en los cursos y charlas de Python.*
 
 * Slides: http://elblogdehumitos.com.ar/posts/python-conference-argentina-2014/argentina-en-python_pyconar2014_humitos.pdf
+
+-------------------------
 
 Django Security Quick Wins
 --------------------------
@@ -488,6 +548,8 @@ Introducción a Python
 
 * Slides: http://www.taniquetil.com.ar/homedevel/presents/intropython.odp
 
+-------------------------
+
 Como debuguear código Python
 ----------------------------
 
@@ -496,6 +558,8 @@ Como debuguear código Python
 * Descripción: Obviamente, al escribir código, no siempre funciona al primer intento. A veces corregirlo es fácil, en otras oportunidades encontrar qué es lo que no está bien lleva tiempo. La charla es una serie de consejos prácticos (y ejemplos en vivo) sobre cómo debuguear código Python. Aplicando estos consejos, el tiempo de depuración del código se reduce notablemente, lo cual incrementa nuestra productividad.
 
 * Slides: http://www.taniquetil.com.ar/homedevel/presents/debug/debugpython.odp
+
+-------------------------
 
 Como los logs me salvaron el alma
 ---------------------------------
@@ -506,12 +570,16 @@ Como los logs me salvaron el alma
 
 * Slides: http://www.taniquetil.com.ar/homedevel/presents/logs.odp
 
+-------------------------
+
 Taller: Introducción a Pilas
 ----------------------------
 
 * Disertante: Hugo Ruscitti
 
 * Slides: https://speakerdeck.com/hugoruscitti/taller-introduccion-a-pilas-por-hugo-ruscitti
+
+-------------------------
 
 Tu propio cliente de Torrent Streaming en Python
 ------------------------------------------------
@@ -522,6 +590,8 @@ Tu propio cliente de Torrent Streaming en Python
 
 * Slides: http://bit.ly/pyconar
 
+-------------------------
+
 Prediciendo el mundial con inteligencia artificial
 --------------------------------------------------
 
@@ -530,6 +600,8 @@ Prediciendo el mundial con inteligencia artificial
 * Descripción: La idea de esta charla es transmitir algunos conceptos básicos de machine learning (una de las ramas más importantes de la inteligencia artificial), mostrando cómo de forma sencilla pueden ser aprovechados para resolver un problema concreto: predecir resultados de partidos de fútbol del mundial. La primer parte de la charla expone los conceptos básicos que vamos a aplicar, y la segunda parte los muestra aplicados en el ejemplo concreto, incluyendo su código implementado en python.
 
 * Slides: (con links a fuentes al final) http://nbviewer.ipython.org/github/fisadev/talks/blob/master/machine-learning-intro-with-worldcup/machine-learning-intro-worldcup.ipynb
+
+-------------------------
 
 Speed is a feature
 ------------------
@@ -540,6 +612,8 @@ Speed is a feature
 
 * Slides: (con links a fuentes al final) http://www.slideshare.net/PabloMouzo/speed-is-a-feature-pyconar-2014
 
+-------------------------
+
 Trabajando de forma asincronica en Django/Python
 ------------------------------------------------
 
@@ -548,6 +622,8 @@ Trabajando de forma asincronica en Django/Python
 * Descripción: Introducción a los sistemas distribuidos con Python, Django y brokers de mensajes. En la charla analizaremos distintas formas de separar el "trabajo pesado" en Django/Python utilizando procesos asíncronos, para esto se hará enfasis en Celery y se mostrarán sus característica, ventajas y usos avanzados. También se comentarán soluciones a problemas comunes usando Celery. Por último se dará una introducción al procesamiento asíncrono en la plataforma cloud de Google appengine usando la API de taskqueue.
 
 * Slides: `pdf <https://drive.google.com/file/d/0B53_jZFtizVWYWhhVlQtNFltbVU/view?usp=sharing>`__
+
+-------------------------
 
 El niño tiene tests (y no hay naranja)
 --------------------------------------
@@ -558,6 +634,8 @@ El niño tiene tests (y no hay naranja)
 
 * Slides: `pdf <http://matias.bordese.com.ar/talks/pycon/jaime-pycon2014.pdf>`__
 
+-------------------------
+
 Robotica para gente de verdad?
 ------------------------------
 
@@ -567,6 +645,8 @@ Robotica para gente de verdad?
 
 * Slides: http://www.slideshare.net/DiegoRamirez100/robtica-para-gente-de-verdad
 
+-------------------------
+
 Lighting Talks de PyConAr 2014
 ==============================
 
@@ -575,18 +655,238 @@ Pysenteishon - Controla tus slides desde tu smartphone
 
 https://docs.google.com/presentation/d/1O61fDE2hQ58Vyzi9m751GYn-XpnnBYTjFSOlgwxqCLA/edit?usp=sharing
 
+-------------------------
+
 Nueva web de PyAr
 -----------------
 
 https://docs.google.com/presentation/d/1iL6xhUzGeguvYcGa5DX23egxWEziJKLa_Opo3j28A0A/edit?usp=sharing
+
+-------------------------
 
 demiurge - Shaping HTML chaos
 -----------------------------
 
 https://docs.google.com/presentation/d/1dsNcM590BxoIaTViGRvGeylYg82n-UYOk4hVJ33PjYk/edit?usp=sharing
 
-.. ############################################################################
+-------------------------
 
+PyConAr Mendoza 2015
+====================
+
+Si alguna charla no aparece, no dudes en solicitar al autor que la incluya a través de la lista.
+
+Respondiendo en milisegundos
+----------------------------
+
+**Claudio Freire**
+
+Si son como yo, usan la computadora para solucionar problemas complejos, pero les impacienta cuando tarda más de un minuto en responder. Los usuarios son así también. En esta charla vamos a ver cómo obtener respuestas en milisegundos en vez de minutos u horas, pero claro, con un truco: cacheando. La mayoría de los procesos que hay en un sistema útil son todos cacheables. Vamos a aprender a implementar arquitecturas complejas para solucionar problemas complejos.
+
+- Slides (CC-BY-SA): 
+
+  * odp: `respondiendo_en_ms.odp`_
+
+  * pdf: `respondiendo_en_ms.pdf`_
+
+-------------------------
+
+Manejando 220.000 QPS sin despeinarse
+-------------------------------------
+
+**Claudio Freire**, **Patricio Rocca Huget**
+
+Describe la arquitectura que permite que Jampp maneje 220.000 requests por segundo de forma eficiente y escalable.
+
+- Slides (CC-BY-SA): 
+
+  * odp: `manejando_220kqps.odp`_
+
+  * pdf: `manejando_220kqps.pdf`_
+
+-------------------------
+
+Missing Python
+--------------
+
+
+¿Qué extrañé de Python?
+-----------------------
+
+**Juanjo Conti**
+
+Qué extrañé de Python en los últimos 4 lenguajes en los que trabajé: PHP, Ruby, Swift, Clojure. PHP: el feo, Ruby: el gemelo malvado, Swift: el nuevo, Clojure: el raro. Pasaron varios años ya desde la última vez que utilicé Python profesionalmente. Desde aquel entonces, transité diversos caminos y aprendí nuevas tecnologías. Pero, como pasa con la primera novia, no puedo dejar de compararlo con cada nuevo lenguaje con el que trabajo. Analizo y comparo características de los distintos lenguajes.
+
+- Slides: www.juanjoconti.com/charlas/missing-python/
+
+-------------------------
+
+Django ORM to win!
+------------------
+
+**Martin Alderete**
+
+Veremos como se comporta el ORM de Django con bases de datos grandes. Para esto nos focalizaremos en como funciona el ORM de Django, describir sus componentes y funcionalidades con el fin de generar consultas mas precisas y complejas para disminuir problemas de performance. Tambien se discutira sobre el uso de "managers" personalizados y consejos de escalabilidad con Django como el uso de multiples bases de datos.
+
+- Slides: `django_orm_to_win.pdf`_
+
+-------------------------
+
+Asi que tu piensas que puedes PDBear? 
+-------------------------------------
+
+**Emiliano Dalla Verde Marcozzi**
+
+El debugger de Python 'pdb' es una valiosa herramienta a la hora de entender los errores que ocurren en tus programas. Aprende en esta introducción los comandos comúnmente utilizados en el depurador de Python, a navegar e inspeccionar el código utilizando pdb, pdbpp, ipdb o rpdb.
+
+
+- Slides: https://docs.google.com/presentation/d/1fEJSoiIsd3ZKCysKj2ndlW048ec7hvRnp8gsbIes8Yo/edit?usp=sharing
+
+-------------------------
+
+Primera aplicación en Kivy
+-------------------------------------
+
+**Sofía Martin**
+- Presentación: https://speakerdeck.com/entrerrianas/tu-primera-aplicacion-con-kivy-para-moviles
+
+-------------------------
+
+Lightning Talks de PyConAr 2014
+===============================
+
+ayrton y Elevation
+------------------
+
+http://www.grulic.org.ar/~mdione/ayrton_elevation_lightning.odp
+
+-------------------------
+
+PyDay Baradaero 2016
+===============================
+
+Python más rápido que C
+-----------------------
+
+*Facundo Batista*
+
+**Slides y código:** http://www.taniquetil.com.ar/homedevel/presents/pyrapidc/
+
+-------------------------
+
+Python para humanos
+---------------------------------
+
+*Carlos de la Torre* (`@py_litox <https://twitter.com/py_litox>`_)
+
+SPOILER ALERT: esta charla no incluye código
+
+Se trata de una presentación del Ecosistema Python. ¿Para qué y cómo se usa Python? ¿Por qué? La charla se enfoca en una de sus mayores ventajas: la comunidad. No incluye cuestiones técnicas ni formales sobre el lenguaje en si mismo.
+
+Hay muchas charlas que apuntan a lo técnico: a enseñar el lenguaje o herramientas asociadas. En esta charla propongo analizar Python con una mirada ortogonal, que se basa en la comunidad. 
+Es para dar una perspectiva más amplia y abarcadora del lenguaje, para dimensionar su utilidad y ventajas desde una perspectiva no tan común.
+La charla incluye mención a diversos ámbitos, de la industria y académicos, donde se usa Python y a cuestiones asociadas al entorno laboral.
+
+La primera versión de esta charla fue presentada en el FLISoL Serrano 2015, Capilla del Monte, Córdoba. Fue concebida para estudiantes iniciales de una tecnicatura en programación.
+
+**Slides**: https://docs.google.com/presentation/d/1fZUuySkCbBjP477VoHdhBns6Bouj92C33ku-BX-WCGM/
+
+enjoy!
+
+-------------------------
+
+Introducción a Docker
+-----------------------
+
+*Emiliano Dalla Verde Marcozzi*
+
+**Slides:** https://drive.google.com/open?id=1VdWZm_opKFOdibQzHNopcDM_X9QlIZlCmOzylVP0IiE 
+
+-------------------------
+
+Introducción informal a la programacion
+---------------------------------------
+
+*Emiliano Dalla Verde Marcozzi*
+
+**Slides:** https://drive.google.com/open?id=1qHkzva6fi4VverbrLn9RSqxcVFRUMeNLulRuBH_zBJI 
+
+-------------------------
+
+PyDay Rafela 2016
+===============================
+
+Python para humanos
+---------------------------------
+
+*Carlos de la Torre* (`@py_litox <https://twitter.com/py_litox>`_)
+
+Se trata de una breve introducción a Python: como lenguaje pero principalmente de su Ecosistema. 
+¿Para qué y cómo se usa Python? ¿Por qué? 
+La charla se enfoca en una de sus mayores ventajas: la comunidad. 
+Incluye apenas una breve descripción técnica del lenguaje al comienzo.
+
+Hay muchas charlas que apuntan a lo técnico: a enseñar el lenguaje o herramientas asociadas. En esta charla propongo analizar Python con una mirada ortogonal, que se basa en la comunidad. 
+Es para dar una perspectiva más amplia y abarcadora del lenguaje, para dimensionar su utilidad y ventajas desde una perspectiva no tan común.
+La charla incluye mención a diversos ámbitos, de la industria y académicos, donde se usa Python y a cuestiones asociadas al entorno laboral.
+
+**Slides**: https://docs.google.com/presentation/d/1lsNKc73mVMkpbqqpUPZ-gwbGXllvKv86GkylsCsJM7Q/edit?usp=sharing
+
+-------------------------
+
+Lightning talk: buscando aliens
+---------------------------------
+
+*Carlos de la Torre* (`@py_litox <https://twitter.com/py_litox>`_)
+
+**Slides**: https://docs.google.com/presentation/d/1pq9qPpLHnUOR4QGNCAILsZ9W377Y21c4x8YRTW3HZPc/edit?usp=sharing
+
+-------------------------
+
+
+PyConAr 2016 Bahia Blanca
+===============================
+
+Infraestructura como código
+----------------------------
+
+*Nicolás Demarchi* (`@gilgamezh <https://twitter.com/gilgamezh>`_) 
+
+**Slides** http://bit.ly/2gEL72Y
+
+
+Bots charlatanes
+----------------
+
+*Emiliano Dalla Verde Marcozzi* (`@edvm <https://twitter.com/edvm>`_) 
+
+**Slides** https://github.com/edvm/talks/tree/master/pycon2016
+
+Redes Neuronales con Python utilizando Keras
+--------------------------------------------
+
+*Juan Pedro Fisanotti* (`@fisadev <https://twitter.com/fisadev>`_) 
+
+**Slides** https://github.com/fisadev/talks/tree/master/keras-neural-networks
+
+
+Bindings, mutable default arguments, y otros quilom... detalles
+---------------------------------------------------------------
+
+Por `Facundo Batista <http://taniquetil.com.ar/plog/>`_
+
+`Slides <http://www.taniquetil.com.ar/homedevel/presents/pydetalles.odp>`_
+
+
+Concurrencia en Python
+----------------------
+
+*Martin Alderete* (`@malderete <https://twitter.com/alderetemartin>`_) 
+
+**Slides** https://docs.google.com/presentation/d/1NswnJQXJR3E45hzX3vfZRmyxKFXoQRWBefZBb41gUZU/edit?usp=sharing
+
+
+.. ############################################################################
 
 .. _slides: http://www.juanjoconti.com.ar/files/python/fu/charla-cordoba/
 
@@ -620,7 +920,6 @@ https://docs.google.com/presentation/d/1dsNcM590BxoIaTViGRvGeylYg82n-UYOk4hVJ33P
 
 .. _PostgreSql: http://www.postgresql.org/
 
-
 .. _Parte 4: http://docs.google.com/present/view?id=dd9bm82g_65gg3vxsvf
 
 .. _SQLObject: http://www.sqlobject.org/
@@ -641,33 +940,19 @@ https://docs.google.com/presentation/d/1dsNcM590BxoIaTViGRvGeylYg82n-UYOk4hVJ33P
 
 .. _Parte 6: http://docs.google.com/present/view?id=dd9bm82g_102cnn45kd4
 
-
-
 .. _Parte 7a: http://docs.google.com/present/view?id=dd9bm82g_112fz9kfmzq
 
 .. _Parte 7b: http://docs.google.com/present/view?id=dd9bm82g_404c5v965c6
 
-
 .. _Parte 8: http://docs.google.com/present/view?id=dd9bm82g_125fp6377hd
 
-
-
-
-
-
-
-
-.. _Slides: http://nicoechaniz.com.ar/charla_pycon2010_s5/
+.. _Slides_echaniz: http://nicoechaniz.com.ar/charla_pycon2010_s5/
 
 .. _Video: http://cyclope3.codigosur.org/movieclip/charla-en-pycon2010/
 
-
-
 .. _Fuentes y ejemplos: https://github.com/nqnwebs/myhdl-talk
 
-
 .. _Fuente: https://bitbucket.org/edvm/pycamp.orm/overview
-
 
 .. _Ejemplos: http://wingedbox.com/downloads/14013-Ejemplo-Intro-PyQt.zip
 
@@ -675,15 +960,18 @@ https://docs.google.com/presentation/d/1dsNcM590BxoIaTViGRvGeylYg82n-UYOk4hVJ33P
 
 .. _fisadev@gmail.com: mailto:fisadev@gmail.com
 
-
-
-
 .. _odp: https://drive.google.com/file/d/0By78YYAMpgAUbHpKZTNtZ0dqYTA/view?usp=sharing
 
 .. _pdf: https://drive.google.com/file/d/0By78YYAMpgAUVk9CODZmWHR1dG8/view?usp=sharing
 
 .. _Ejemplos, fuentes y mucho más: https://drive.google.com/folderview?id=0By78YYAMpgAUUzR1UGZPSUR0djg&usp=sharing
 
+.. _respondiendo_en_ms.odp: https://drive.google.com/file/d/0By78YYAMpgAUamh1cVUyTUFFRjQ/view?usp=sharing
 
+.. _respondiendo_en_ms.pdf: https://drive.google.com/file/d/0By78YYAMpgAUZDNOTFM3RUJaOGc/view?usp=sharing
 
+.. _manejando_220kqps.odp: https://drive.google.com/file/d/0By78YYAMpgAUTUl2dkdMU1g4TWM/view?usp=sharing
 
+.. _manejando_220kqps.pdf: https://drive.google.com/file/d/0By78YYAMpgAUcm1OOWVwM1d1ZDQ/view?usp=sharing
+
+.. _django_orm_to_win.pdf: https://speakerdeck.com/malderete/django-orm-to-win

@@ -37,7 +37,9 @@ Recomendaciones
 
 * Ante la duda sobre el tono o intención de un mensaje, pensar bien, darle crédito a quien lo escribe y suponer que su intención es buena. Tener en cuenta el historial de la persona y si parece que su mensaje es inapropiado leerlo de nuevo creyendo que, tal vez, se lo malinterpreto. Si sigue la duda pedir una aclaración.
 
-* Si ves que alguien no sigue estas recomendaciones, o envia mails que de algún modo te parecen ofensivos o molestas y tenés la necesidad de responder, por favor hacelo por privado, esto evita meter 'ruido' en la lista. Si no tenés exito, podés buscar consenso en la lista para tratar el asunto y ver quienes comparten tu opinión enviando un mail marcado como [META] en el subject. Evitemos que suceda esto: `video gracioso ilustrando la situación`_
+* No escribas el subject del correo TODO EN MAYÚSCULAS (y menos todo el mail de esa manera) ya que se interpreta que estás gritando, y es molesto.
+
+Si ves que alguien no sigue estas recomendaciones, o envia mails que de algún modo te parecen ofensivos o molestas y tenés la necesidad de responder, por favor hacelo por privado, esto evita meter 'ruido' en la lista. Si no tenés exito, podés buscar consenso en la lista para tratar el asunto y ver quienes comparten tu opinión enviando un mail marcado como [META] en el subject. Evitemos que suceda esto: `video gracioso ilustrando la situación`_
 
 Lo anteriormente expuesto **no** son reglas, sino recomendaciones. Recomendaciones para mejorar tu percepción en la comunidad, ayudar a la misma y por lo tanto a sus integrantes, y demás. Pero no es que si un día hiciste top-posting, te van a bannear de la lista. No, no, cada loco con su tema.
 
@@ -50,7 +52,7 @@ Claramente OFFTOPIC
 
 * Consultas de otros lenguajes
 
-* Temas filosóficos, políticos o religiosos, que probablemente tengan otras listas para discutirlos. (desde software libre hasta kirchnerismo)
+* Temas filosóficos, políticos o religiosos, que probablemente tengan otras listas para discutirlos. (desde software libre hasta kirchnerismo, Macrismo)
 
 * Mi pitón me esta estrangulando... que hago?
 

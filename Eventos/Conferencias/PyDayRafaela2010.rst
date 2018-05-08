@@ -1,4 +1,3 @@
-#format rst
 
 Organización del PyDay Rafaela 2010
 ===================================

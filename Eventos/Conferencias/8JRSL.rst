@@ -1,4 +1,3 @@
-#format rst
 
 Python en las 8JRSL
 ===================

@@ -2,7 +2,7 @@
 Ramiro Algozino
 ---------------
 
-Email/Gtalk: `[[MailTo(algozino AT SPAMFREE gmail DOT com)]]`_
+Email/Gtalk: ``algozino AT SPAMFREE gmail DOT com``
 
 IRC: ralgozino @ irc.freenode.com
 

@@ -2,7 +2,7 @@
 Marcos Dione
 ------------
 
-Email: `[[MailTo(mdione AT grulic DOT org DOT ar)]]`_
+Email: ``mdione AT grulic DOT org DOT ar``
 
 Soy de Córdoba, Córdoba (una es la ciudad, la otra la provincia, en ese orden, no vayan a confundir). Licenciado en Cs. de la Computación, FaMAF, UNC, 2004.
 

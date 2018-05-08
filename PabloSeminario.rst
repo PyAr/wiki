@@ -2,7 +2,7 @@
 Pablo Seminario
 ---------------
 
-Usuario de GNU/Linux desde hace unos años y dedicado a Python desde hace unos meses |:D|
+Usuario de GNU/Linux desde hace unos años y dedicado a Python desde hace unos meses |laughing|
 
 Blog
 ----
@@ -12,7 +12,7 @@ http://pabloseminario.com.ar
 Mail
 ----
 
-`[[MailTo(IDONTWANT pabluk AT CRIPPY gmail SPAM DOT com)]]`_
+``IDONTWANT pabluk AT CRIPPY gmail SPAM DOT com``
 
 -------------------------
 

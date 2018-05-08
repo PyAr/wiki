@@ -1,5 +1,5 @@
 
-`[[MailTo( joac ARROBA lo PUNTO arregle)]]`_
+`` joac ARROBA lo PUNTO arregle``
 
-`[[MailTo( sebastian EN mira PUNTO lo)]]`_
+`` sebastian EN mira PUNTO lo``
 

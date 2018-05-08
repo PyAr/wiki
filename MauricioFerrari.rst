@@ -9,7 +9,7 @@ Mauricio Ferrari
 
 
 
-Email: `[[MailTo(mautuc AT SPAMFREE yahoo DOT com DOT ar)]]`_
+Email: ``mautuc AT SPAMFREE yahoo DOT com DOT ar``
 
 ...
 

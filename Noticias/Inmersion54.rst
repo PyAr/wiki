@@ -1,4 +1,3 @@
-#format rst
 
 Inmersión en Python ver. 5.4
 ============================

@@ -23,9 +23,8 @@ Pythoncard esta soportado en Etch, así que su instalación es bastante simple
 
 ::
 
-   .. raw:: html
-      <span class="line">apt-get install pythoncard
-      </span>
+    apt-get install pythoncard
+
 
 Windows
 ~~~~~~~
@@ -59,17 +58,16 @@ Si algo anda mal y no se muestra la pantalla de ejemplos, podemos probar lo sigu
 
 ::
 
-   .. raw:: html
-      <span class="line"><span class="kn">import</span> <span class="nn">wx</span>
-      </span><span class="line"><span class="n">wx</span><span class="o">.</span><span class="n">version</span><span class="p">()</span> <span class="c"># debería imprimir &#39;2.8.7.1 (msw-unicode)&#39; o similar</span>
-      </span><span class="line">
-      </span><span class="line"><span class="kn">from</span> <span class="nn">PythonCard</span> <span class="kn">import</span> <span class="n">model</span>
-      </span><span class="line"><span class="n">rsrc</span> <span class="o">=</span> <span class="p">{</span><span class="s">&#39;application&#39;</span><span class="p">:{</span><span class="s">&#39;type&#39;</span><span class="p">:</span><span class="s">&#39;Application&#39;</span><span class="p">,</span> <span class="s">&#39;name&#39;</span><span class="p">:</span><span class="s">&#39;Minimal&#39;</span><span class="p">,</span>
-      </span><span class="line">    <span class="s">&#39;backgrounds&#39;</span><span class="p">:</span> <span class="p">[{</span><span class="s">&#39;type&#39;</span><span class="p">:</span><span class="s">&#39;Background&#39;</span><span class="p">,</span><span class="s">&#39;name&#39;</span><span class="p">:</span><span class="s">&#39;bgMin&#39;</span><span class="p">,</span>
-      </span><span class="line">        <span class="s">&#39;title&#39;</span><span class="p">:</span><span class="s">&#39;Prueba&#39;</span><span class="p">,</span><span class="s">&#39;size&#39;</span><span class="p">:(</span><span class="mi">200</span><span class="p">,</span> <span class="mi">100</span><span class="p">),</span><span class="s">&#39;components&#39;</span><span class="p">:</span> <span class="p">[]}]}</span> <span class="p">}</span>
-      </span><span class="line">
-      </span><span class="line"><span class="n">model</span><span class="o">.</span><span class="n">Application</span><span class="p">(</span><span class="n">model</span><span class="o">.</span><span class="n">Background</span><span class="p">,</span> <span class="bp">None</span><span class="p">,</span> <span class="n">rsrc</span><span class="p">)</span><span class="o">.</span><span class="n">MainLoop</span><span class="p">()</span>
-      </span>
+    import wx
+    wx.version() # debería imprimir '2.8.7.1 (msw-unicode)' o similar
+
+    from PythonCard import model
+    rsrc = {'application':{'type':'Application', 'name':'Minimal',
+        'backgrounds': [{'type':'Background','name':'bgMin',
+            'title':'Prueba','size':(200, 100),'components': []}]} }
+
+    model.Application(model.Background, None, rsrc).MainLoop()
+
 
 Debería aparecer una ventanita con título "Prueba".
 
@@ -146,31 +144,30 @@ Código completo final del ejemplo:
 
 ::
 
-   .. raw:: html
-      <span class="line"><span class="kn">from</span> <span class="nn">PythonCard</span> <span class="kn">import</span> <span class="n">model</span>
-      </span><span class="line"><span class="kn">from</span> <span class="nn">PythonCard</span> <span class="kn">import</span> <span class="n">dialog</span>
-      </span><span class="line">
-      </span><span class="line"><span class="k">class</span> <span class="nc">MyBackground</span><span class="p">(</span><span class="n">model</span><span class="o">.</span><span class="n">Background</span><span class="p">):</span>
-      </span><span class="line">
-      </span><span class="line">    <span class="k">def</span> <span class="nf">on_initialize</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">event</span><span class="p">):</span>
-      </span><span class="line">        <span class="c"># if you have any initialization</span>
-      </span><span class="line">        <span class="c"># including sizer setup, do it here</span>
-      </span><span class="line">        <span class="k">pass</span>
-      </span><span class="line">
-      </span><span class="line">    <span class="k">def</span> <span class="nf">on_btnEjecutar_mouseClick</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">event</span><span class="p">):</span>
-      </span><span class="line">        <span class="n">comando</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">components</span><span class="o">.</span><span class="n">txtComando</span><span class="o">.</span><span class="n">text</span>
-      </span><span class="line">        <span class="n">resultado</span> <span class="o">=</span> <span class="nb">str</span><span class="p">(</span><span class="nb">eval</span><span class="p">(</span><span class="n">comando</span><span class="p">))</span>
-      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">components</span><span class="o">.</span><span class="n">txtResultados</span><span class="o">.</span><span class="n">text</span> <span class="o">=</span> <span class="n">resultado</span>
-      </span><span class="line">
-      </span><span class="line">    <span class="k">def</span> <span class="nf">on_menuFileAyuda_select</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">event</span><span class="p">):</span>
-      </span><span class="line">        <span class="n">dialog</span><span class="o">.</span><span class="n">alertDialog</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span>
-      </span><span class="line">            <span class="s">&#39;Este programa de prueba ejecuta el comando ingresado por el usuario&#39;</span><span class="p">,</span>
-      </span><span class="line">            <span class="s">&#39;Ayuda&#39;</span><span class="p">)</span>
-      </span><span class="line">
-      </span><span class="line"><span class="k">if</span> <span class="n">__name__</span> <span class="o">==</span> <span class="s">&#39;__main__&#39;</span><span class="p">:</span>
-      </span><span class="line">    <span class="n">app</span> <span class="o">=</span> <span class="n">model</span><span class="o">.</span><span class="n">Application</span><span class="p">(</span><span class="n">MyBackground</span><span class="p">)</span>
-      </span><span class="line">    <span class="n">app</span><span class="o">.</span><span class="n">MainLoop</span><span class="p">()</span>
-      </span>
+    from PythonCard import model
+    from PythonCard import dialog
+
+    class MyBackground(model.Background):
+
+        def on_initialize(self, event):
+            # if you have any initialization
+            # including sizer setup, do it here
+            pass
+
+        def on_btnEjecutar_mouseClick(self, event):
+            comando = self.components.txtComando.text
+            resultado = str(eval(comando))
+            self.components.txtResultados.text = resultado
+
+        def on_menuFileAyuda_select(self, event):
+            dialog.alertDialog(self,
+                'Este programa de prueba ejecuta el comando ingresado por el usuario',
+                'Ayuda')
+
+    if __name__ == '__main__':
+        app = model.Application(MyBackground)
+        app.MainLoop()
+
 
 **Nota**: Por ser un ejemplo se obviaron temas de manejo de excepciones y cuestiones avanzadas. Se pueden descargar los archivos terminados:
 

@@ -1,4 +1,3 @@
-#format rst
 
 PyCon Argentina 2013 - Rosario
 ==============================

@@ -1,5 +1,3 @@
-#format rst
-## page was renamed from Eventos/Reuniones/2011/Reunion46
 
 Reunión 46 - 7 de Diciembre - Ciudad de Cordoba, en Alfonsina (Casa Tomada) Belgrano 763.
 =========================================================================================

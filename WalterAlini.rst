@@ -2,7 +2,7 @@
 Walter Alini
 ------------
 
-Email: `[[MailTo(walini AT machinalis DOT com)]]`_
+Email: ``walini AT machinalis DOT com``
  Nick en #pyar: walteralini
 
 -------------------------

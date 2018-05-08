@@ -1,5 +1,3 @@
-#format rst
-## page was renamed from Eventos/Reuniones/Reunion18
 
 Reunión 18 - 04/10/2006 - Hip Bar
 =================================
@@ -53,7 +51,7 @@ Conversamos un poco sobre alternativas para organizar una reunión mientras los 
 Typus Pocus y preparándose para pyWeek 4
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Debatimos un poco sobre el juego ganador de pyWeek 3. Todos estamos de acuerdo en que la producción final sumó mucho en el resultado, porque el juego estaba "completo". Por ahí surgió la pregunta "¿Cómo ganar pyWeek?", y FacundoBatista_ quiso llevarse la lista de 5 cosas imprescindibles... bueno, no pudo. Solo llegamos a 3 (más por una cuestión de que nos fuimos de tema, que por no poder hacer la lista... |;)|
+Debatimos un poco sobre el juego ganador de pyWeek 3. Todos estamos de acuerdo en que la producción final sumó mucho en el resultado, porque el juego estaba "completo". Por ahí surgió la pregunta "¿Cómo ganar pyWeek?", y FacundoBatista_ quiso llevarse la lista de 5 cosas imprescindibles... bueno, no pudo. Solo llegamos a 3 (más por una cuestión de que nos fuimos de tema, que por no poder hacer la lista... |wink|
 
 * El juego debe estar completo
 
@@ -66,7 +64,7 @@ alecu_ tiró un par de ideas para pyWeek 4; por ahora no son ideas de un juego, 
 IDEs para Python
 ~~~~~~~~~~~~~~~~
 
-Alguien tiró el tema... y se habló. Como era de esperar |;)| no hubo consenso. Pero bueno, por lo menos no terminó en *flamewar*. Muchos usamos Vim o algunas de sus variantes. FacundoBatista_ nos ilustró sobre que cosas tenía el IDE del Turbo C de Borland, que él no encuentra en otros IDEs. Hablamos de Eclipse, y que está bueno pero es pesadísimo. Hablamos de como la naturaleza de Python hace que sea posible trabajar sin un IDE al estilo MS VisualStudio, y de como el IDE ideal de Python debería tener cosas que a lo mejor no se encuentran en los IDEs para otros lenguajes.
+Alguien tiró el tema... y se habló. Como era de esperar |wink| no hubo consenso. Pero bueno, por lo menos no terminó en *flamewar*. Muchos usamos Vim o algunas de sus variantes. FacundoBatista_ nos ilustró sobre que cosas tenía el IDE del Turbo C de Borland, que él no encuentra en otros IDEs. Hablamos de Eclipse, y que está bueno pero es pesadísimo. Hablamos de como la naturaleza de Python hace que sea posible trabajar sin un IDE al estilo MS VisualStudio, y de como el IDE ideal de Python debería tener cosas que a lo mejor no se encuentran en los IDEs para otros lenguajes.
 
 Migración de un colegio a Software Libre
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -2,7 +2,7 @@
 Santiago Bruno
 --------------
 
-Email: `[[MailTo(santiago.emilio.bruno AT SPAMFREE gmail DOT com)]]`_
+Email: ``santiago.emilio.bruno AT SPAMFREE gmail DOT com``
 
 Soy rafaelino_ y vivo en Córdoba. Soy Licenciado en Ciencias de la Computación egresado de `Fa.M.A.F.`_ (Universidad Nacional de Córdoba)
 

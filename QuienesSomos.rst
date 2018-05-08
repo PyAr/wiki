@@ -1,8 +1,7 @@
-
 ¿Quiénes Somos?
----------------
+-----------------------------
 
-Un `grupo de entusiastas de Python`_, que decidió aunar esfuerzos para crear una comunidad local como marco de referencia para la aplicación, difusión y mejora de este lenguaje.
+Un grupo de entusiastas de Python, que decidió aunar esfuerzos para crear una comunidad local como marco de referencia para la aplicación, difusión y mejora de este lenguaje.
 
 ¿Qué hacemos?
 -------------
@@ -24,16 +23,11 @@ Suscribiéndote a la ListaDeCorreo_, registrándote en el portal, asistiendo a c
 .. ############################################################################
 
 
-.. _eventos:
-.. _reuniones:
-
-
-
+.. _eventos: /eventos/
+.. _reuniones: /wiki/reuniones
 .. _grupo de Python de Buenos Aires de Meetup: http://python.meetup.com/cities/ar/buenos_aires/
 
 .. _SEO: http://es.wikipedia.org/wiki/Posicionamiento_en_buscadores
 
 
 .. _aquí: http://webchat.freenode.net/?channels=pyar
-
-

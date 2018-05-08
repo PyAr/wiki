@@ -1,5 +1,3 @@
-#format rst
-## page was renamed from Eventos/Reuniones/2011/Reunion42
 
 Reunión 42 - 28 de Mayo de 2010 - Bar Dr Mason, Buenos Aires - 19:00
 --------------------------------------------------------------------
@@ -48,7 +46,7 @@ Por favor, si venís a la reunión, anotate en esta lista:
 
 * SebastianBassi_
 
-* GabrielGenellina_ (ufa |:(| )
+* GabrielGenellina_ (ufa |confused| )
 
 * DiegoMascialino_
 
@@ -114,7 +112,7 @@ PyDay_ Buenos Aires
 
 * También surgió la idea de hacer un librito con diferentes tutoriales. Por ejemplo, meter el tutorial de django, web2py, wxPython, easy_install/virtualenv. Sin embargo, las hojas machete salen mucho mas barato, y la gente se los lleva.
 
-* Falta conseguir sponsors. Tiene una lista de mails: `[[MailTo(pyday GUION baires EN googlegroups PUNTO com)]]`_
+* Falta conseguir sponsors. Tiene una lista de mails: ``pyday GUION baires EN googlegroups PUNTO com``
 
 I18n Exceptions:
 

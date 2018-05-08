@@ -1,4 +1,3 @@
-#format rst
 
 Alarma Precaria
 ===============
@@ -7,21 +6,20 @@ Alarma mínima y básica de linea de comandos.
 
 ::
 
-   .. raw:: html
-      <span class="line"><span class="c">#!/usr/bin/env python</span>
-      </span><span class="line"><span class="c"># -*- coding: utf-8 -*-</span>
-      </span><span class="line"><span class="kn">import</span> <span class="nn">time</span>
-      </span><span class="line"><span class="kn">import</span> <span class="nn">os</span>
-      </span><span class="line"><span class="n">not_executed</span> <span class="o">=</span> <span class="mi">1</span>
-      </span><span class="line"><span class="k">while</span><span class="p">(</span><span class="n">not_executed</span><span class="p">):</span>
-      </span><span class="line">    <span class="n">dt</span> <span class="o">=</span> <span class="nb">list</span><span class="p">(</span><span class="n">time</span><span class="o">.</span><span class="n">localtime</span><span class="p">())</span>
-      </span><span class="line">    <span class="n">hour</span> <span class="o">=</span> <span class="n">dt</span><span class="p">[</span><span class="mi">3</span><span class="p">]</span>
-      </span><span class="line">    <span class="n">minute</span> <span class="o">=</span> <span class="n">dt</span><span class="p">[</span><span class="mi">4</span><span class="p">]</span>
-      </span><span class="line">    <span class="n">sleep</span><span class="p">(</span><span class="mi">1</span><span class="p">)</span>
-      </span><span class="line">    <span class="k">if</span> <span class="n">hour</span> <span class="o">==</span> <span class="mi">8</span> <span class="ow">and</span> <span class="n">minute</span> <span class="o">==</span> <span class="mi">30</span><span class="p">:</span> <span class="c"># modificar hour y minute a la hora deseada</span>
-      </span><span class="line">        <span class="n">os</span><span class="o">.</span><span class="n">system</span><span class="p">(</span><span class="s">&quot;xdg-open /home/user/ring.ogg&quot;</span><span class="p">)</span> <span class="c"># RingTone (?)</span>
-      </span><span class="line">        <span class="n">not_executed</span> <span class="o">=</span> <span class="mi">0</span>
-      </span>
+    #!/usr/bin/env python
+    # -*- coding: utf-8 -*-
+    import time
+    import os
+    not_executed = 1
+    while(not_executed):
+        dt = list(time.localtime())
+        hour = dt[3]
+        minute = dt[4]
+        sleep(1)
+        if hour == 8 and minute == 30: # modificar hour y minute a la hora deseada
+            os.system("xdg-open /home/user/ring.ogg") # RingTone (?)
+            not_executed = 0
+
 
 Comentarios
 -----------
@@ -33,41 +31,39 @@ Hay un par de cambios triviales para hacerle: se puede reemplazar el not_execute
 
 ::
 
-   .. raw:: html
-      <span class="line"><span class="c">#!/usr/bin/env python</span>
-      </span><span class="line">
-      </span><span class="line"><span class="kn">import</span> <span class="nn">time</span>
-      </span><span class="line"><span class="kn">import</span> <span class="nn">os</span>
-      </span><span class="line"><span class="k">while</span><span class="p">(</span><span class="bp">True</span><span class="p">):</span>
-      </span><span class="line">    <span class="n">dt</span> <span class="o">=</span> <span class="n">time</span><span class="o">.</span><span class="n">localtime</span><span class="p">()</span>
-      </span><span class="line">    <span class="n">sleep</span><span class="p">(</span><span class="mi">1</span><span class="p">)</span>
-      </span><span class="line">    <span class="k">if</span> <span class="n">dt</span><span class="o">.</span><span class="n">tm_hour</span> <span class="o">==</span> <span class="mi">8</span> <span class="ow">and</span> <span class="n">dt</span><span class="o">.</span><span class="n">tm_min</span> <span class="o">==</span> <span class="mi">30</span><span class="p">:</span> <span class="c"># modificar hour y minute a la hora deseada</span>
-      </span><span class="line">        <span class="n">os</span><span class="o">.</span><span class="n">system</span><span class="p">(</span><span class="s">&quot;xdg-open /home/user/ring.ogg&quot;</span><span class="p">)</span> <span class="c"># RingTone (?)</span>
-      </span><span class="line">        <span class="k">break</span>
-      </span>
+    #!/usr/bin/env python
+
+    import time
+    import os
+    while(True):
+        dt = time.localtime()
+        sleep(1)
+        if dt.tm_hour == 8 and dt.tm_min == 30: # modificar hour y minute a la hora deseada
+            os.system("xdg-open /home/user/ring.ogg") # RingTone (?)
+            break
+
 
 ... pero realmente está mal planteado la resolución: no hay que usar un while ahí:
 
 ::
 
-   .. raw:: html
-      <span class="line"><span class="kn">import</span> <span class="nn">time</span>
-      </span><span class="line"><span class="kn">import</span> <span class="nn">os</span>
-      </span><span class="line">
-      </span><span class="line"><span class="c"># modificar hour y minute a la hora deseada</span>
-      </span><span class="line"><span class="n">HOUR</span> <span class="o">=</span> <span class="mi">8</span>
-      </span><span class="line"><span class="n">MIN</span> <span class="o">=</span> <span class="mi">30</span>
-      </span><span class="line">
-      </span><span class="line"><span class="n">t</span> <span class="o">=</span> <span class="n">time</span><span class="o">.</span><span class="n">localtime</span><span class="p">()</span>
-      </span><span class="line"><span class="n">nowhms</span> <span class="o">=</span> <span class="n">t</span><span class="o">.</span><span class="n">tm_hour</span> <span class="o">*</span> <span class="mi">3600</span> <span class="o">+</span> <span class="n">t</span><span class="o">.</span><span class="n">tm_min</span> <span class="o">*</span> <span class="mi">60</span> <span class="o">+</span> <span class="n">t</span><span class="o">.</span><span class="n">tm_sec</span>
-      </span><span class="line"><span class="n">alarm</span> <span class="o">=</span> <span class="n">HOUR</span> <span class="o">*</span> <span class="mi">3600</span> <span class="o">+</span> <span class="n">MIN</span> <span class="o">*</span> <span class="mi">60</span>
-      </span><span class="line"><span class="n">delta</span> <span class="o">=</span> <span class="n">alarm</span> <span class="o">-</span> <span class="n">nowhms</span>
-      </span><span class="line"><span class="k">if</span> <span class="n">delta</span> <span class="o">&lt;</span> <span class="mi">0</span><span class="p">:</span>
-      </span><span class="line">    <span class="c"># tomorrow</span>
-      </span><span class="line">    <span class="n">delta</span> <span class="o">+=</span> <span class="mi">3600</span> <span class="o">*</span> <span class="mi">24</span>
-      </span><span class="line"><span class="n">time</span><span class="o">.</span><span class="n">sleep</span><span class="p">(</span><span class="n">delta</span><span class="p">)</span>
-      </span><span class="line"><span class="n">os</span><span class="o">.</span><span class="n">system</span><span class="p">(</span><span class="s">&quot;xdg-open /home/user/ring.ogg&quot;</span><span class="p">)</span> <span class="c"># RingTone (?)</span>
-      </span>
+    import time
+    import os
+
+    # modificar hour y minute a la hora deseada
+    HOUR = 8
+    MIN = 30
+
+    t = time.localtime()
+    nowhms = t.tm_hour * 3600 + t.tm_min * 60 + t.tm_sec
+    alarm = HOUR * 3600 + MIN * 60
+    delta = alarm - nowhms
+    if delta < 0:
+        # tomorrow
+        delta += 3600 * 24
+    time.sleep(delta)
+    os.system("xdg-open /home/user/ring.ogg") # RingTone (?)
+
 
 DanielMoisset
 ~~~~~~~~~~~~~
@@ -76,23 +72,22 @@ Yo prefiero no scar cuentas de fecha a mano, y en vez que datetime haga el traba
 
 ::
 
-   .. raw:: html
-      <span class="line"><span class="kn">import</span> <span class="nn">time</span><span class="o">,</span> <span class="nn">datetime</span>
-      </span><span class="line"><span class="kn">import</span> <span class="nn">os</span>
-      </span><span class="line">
-      </span><span class="line"><span class="c"># modificar hour y minute a la hora deseada</span>
-      </span><span class="line">
-      </span><span class="line"><span class="n">HOUR</span> <span class="o">=</span> <span class="mi">8</span>
-      </span><span class="line"><span class="n">MIN</span> <span class="o">=</span> <span class="mi">30</span>
-      </span><span class="line">
-      </span><span class="line"><span class="n">now</span> <span class="o">=</span> <span class="n">datetime</span><span class="o">.</span><span class="n">datetime</span><span class="o">.</span><span class="n">now</span><span class="p">()</span>
-      </span><span class="line"><span class="n">alarm</span> <span class="o">=</span> <span class="n">now</span><span class="o">.</span><span class="n">replace</span><span class="p">(</span><span class="n">hour</span><span class="o">=</span><span class="n">HOUR</span><span class="p">,</span> <span class="n">minute</span><span class="o">=</span><span class="n">MIN</span><span class="p">)</span>
-      </span><span class="line"><span class="k">if</span> <span class="n">alarm</span> <span class="o">&lt;</span> <span class="n">now</span><span class="p">:</span>
-      </span><span class="line">    <span class="c"># Set the alarm tomorrow</span>
-      </span><span class="line">    <span class="n">alarm</span> <span class="o">+=</span> <span class="n">datetime</span><span class="o">.</span><span class="n">timedelta</span><span class="p">(</span><span class="n">days</span><span class="o">=</span><span class="mi">1</span><span class="p">)</span>
-      </span><span class="line"><span class="n">time</span><span class="o">.</span><span class="n">sleep</span><span class="p">((</span><span class="n">alarm</span><span class="o">-</span><span class="n">now</span><span class="p">)</span><span class="o">.</span><span class="n">seconds</span><span class="p">)</span>
-      </span><span class="line"><span class="n">os</span><span class="o">.</span><span class="n">system</span><span class="p">(</span><span class="s">&quot;xdg-open /home/user/ring.ogg&quot;</span><span class="p">)</span> <span class="c"># RingTone (?)</span>
-      </span>
+    import time, datetime
+    import os
+
+    # modificar hour y minute a la hora deseada
+
+    HOUR = 8
+    MIN = 30
+
+    now = datetime.datetime.now()
+    alarm = now.replace(hour=HOUR, minute=MIN)
+    if alarm < now:
+        # Set the alarm tomorrow
+        alarm += datetime.timedelta(days=1)
+    time.sleep((alarm-now).seconds)
+    os.system("xdg-open /home/user/ring.ogg") # RingTone (?)
+
 
 Juancarlospaco
 ~~~~~~~~~~~~~~
@@ -109,9 +104,8 @@ Si funciona con:
 
 ::
 
-   .. raw:: html
-      <span class="line">usuario@maquina: ~<span class="nv">$ </span>python receta.py
-      </span>
+    usuario@maquina: ~$ python receta.py
+
 
 Es mas que suficiente. -- JoaquinSorianello_ `[[DateTime(2010-11-08T10:56:40-0300)]]`_
 

@@ -123,7 +123,7 @@ Podemos discutir el diseño de la segunda tanda, pero.... ¿te vas a quedar sin 
 
 ``importate __esta__``
 
-Está buena, pero es difícil de explicar a quien no conoce el lenguaje |;-)|
+Está buena, pero es difícil de explicar a quien no conoce el lenguaje |wink|
 
 -------------------------
 

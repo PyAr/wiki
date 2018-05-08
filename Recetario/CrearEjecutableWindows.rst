@@ -1,4 +1,3 @@
-#format rst
 
 Empaquetando programas de Python para Windows
 ---------------------------------------------
@@ -14,11 +13,11 @@ En esta receta se muestra como:
 
 Ver adjuntos:
 
-* `attachment:hola.py`_hola.py`attachment:None`_: aplicación de ejemplo
+* : aplicación de ejemplo
 
-* `attachment:setup.py`_setup.py`attachment:None`_: script de "compilación" para py2exe
+* : script de "compilación" para py2exe
 
-* `attachment:setup.exe`_setup.exe`attachment:None`_: instalador autoextraible producido con esta receta
+* : instalador autoextraible producido con esta receta
 
 Requerimientos:
 :::::::::::::::
@@ -36,11 +35,10 @@ Como ejemplo tomamos una aplicación simple *hola.py*:
 
 ::
 
-   .. raw:: html
-      <span class="line"><span class="c"># -*- coding: iso-8859-1 -*-</span>
-      </span><span class="line">
-      </span><span class="line"><span class="k">print</span> <span class="s">&quot;hola mundo&quot;</span>
-      </span>
+    # -*- coding: iso-8859-1 -*-
+
+    print "hola mundo"
+
 
 "Compilando" Python con Py2Exe
 ::::::::::::::::::::::::::::::
@@ -51,12 +49,11 @@ Para crear el ejecutable es necesario crear un script de setup que extiende las 
 
 ::
 
-   .. raw:: html
-      <span class="line"><span class="kn">from</span> <span class="nn">distutils.core</span> <span class="kn">import</span> <span class="n">setup</span>
-      </span><span class="line"><span class="kn">import</span> <span class="nn">py2exe</span>
-      </span><span class="line">
-      </span><span class="line"><span class="n">setup</span><span class="p">(</span><span class="n">console</span><span class="o">=</span><span class="p">[</span><span class="s">&#39;hola.py&#39;</span><span class="p">])</span>
-      </span>
+    from distutils.core import setup
+    import py2exe
+
+    setup(console=['hola.py'])
+
 
 Luego en la carpeta de la aplicación, por línea de comandos, ejecutamos este script:
 

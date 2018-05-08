@@ -2,7 +2,7 @@
 Leandro E. Colombo Viña
 -----------------------
 
-Email: `[[MailTo(colomboleandro AT SPAMFREE gmail DOT com)]]`_.. You can even more obfuscate your email address by adding more uppercase letters followed by a leading and trailing blank.
+Email: ``colomboleandro AT SPAMFREE gmail DOT com``
 
 Tengo 33 años y vivo en la Ciudad Autónoma de Buenos Aires. Soy Técnico Superior en Informática Aplicada y Profesor en Disciplinas Industriales. Trabajo como docente hace más de 10 años en el nivel medio, superior y de formación profesional.  Soy socio fundador de Bitson_, cooperativa de trabajo de tecnología, en la que me toca el rol de tesorero, ahí me gusta ocuparme de lo que es el backend de las aplicaciones y de coordinar técnicamente. Actualmente estamos trabajando en un sistema de control de acceso, por supuesto, con Python. Soy instructor de formación profesional en el `CFP 34`_ donde dicto los cursos de Operador Básico GNU/Linux y Administración de Redes en GNU/Linux. También soy docente en el IFTS18_ (Terciario) donde se dicta la carrera de Técnico Superior en Análisis de Sistemas. Allí doy las materias Arquitectura de Computadoras, Diagramación Lógica, Paradigmas de Programación y Estructura de Datos.
 

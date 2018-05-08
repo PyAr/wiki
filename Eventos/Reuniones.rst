@@ -9,6 +9,7 @@ Para ver la agenda de la próxima reunión ir a: `ProximaReunion`_.
 
 Enlaces a las últimas reuniones realizadas:
 
+* `Reunión 70 - 2017 <Reuniones/2018/Reunion70>`_
 * `Reunión 69 - 2017 <Reuniones/2017/Reunion69>`_
 * `Reunión 68 - 2017 <Reuniones/2017/Reunion68>`_
 * `Reunión 67 - 2017 <Reuniones/2017/Reunion67>`_

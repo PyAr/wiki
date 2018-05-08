@@ -2,7 +2,7 @@
 Sergio Vernis
 -------------
 
-Email: `[[MailTo(svernis AT SPAMFREE gmail DOT com)]]`_
+Email: ``svernis AT SPAMFREE gmail DOT com``
 
 ...
 

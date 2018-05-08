@@ -15,10 +15,6 @@ Importante: la CDPedia es Software Libre, te recomendamos (y te agradecemos) que
 
 La última versión es la `0.8`_ y se puede descargar desde acá:
 
-<strong class="highlight">.. raw:: html
-
-</strong>[Table not converted]
-
 :superscript:`[1]` Si tenés la posibilidad, agradecemos que bajes y compartas los archivos vía BitTorrent
 
 Versiones anteriores se encuentran listadas en `esta página`_.
@@ -52,7 +48,7 @@ Información del proyecto
 
 El desarrollo de CDPedia se realiza en `este sitio`_, aunque todavía tenemos los bugs en `el viejo lugar`_. Los changelogs están `acá`_.
 
-Ante cualquier duda, nos podés contactar mandando un mail a `[[MailTo(cdpedia EN googlegroups PUNTO com)]]`_
+Ante cualquier duda, nos podés contactar mandando un mail a ``cdpedia EN googlegroups PUNTO com``
 
 Prensa
 ------

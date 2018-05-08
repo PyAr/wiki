@@ -1,5 +1,3 @@
-#format rst
-## page was renamed from Eventos/Reuniones/Reunion01
 
 Reunión 01 - 09/09/2004 - La Cigale
 ===================================

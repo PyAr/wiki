@@ -1,6 +1,10 @@
-
 PyCamp
 ======
+
+.. class:: alert alert-info
+
+   **Atención**: Está abierta la inscripción para el `PyCamp 2018 <PyCamp/2018>`_!
+   
 
 PyCamp es un evento organizado por la comunidad de PyAr_, donde nos reunimos para trabajar en distintos proyectos de software libre relacionados con el lenguaje de programación Python, conocernos y compartir experiencias.
 
@@ -19,6 +23,8 @@ Como se organiza y financia el evento
 
 El evento se organiza por la comunidad misma. Según las diferentes ciudades donde se realiza un grupo de voluntarios se encarga de buscar un lugar y realizar las gestiones necesarias. Financieramente el evento es soportado por sus propios participantes, aunque PyAr_, según el dinero disponible, suele otorgar becas totales o parciales a estudiantes e interesados que desen participar.
 
+Si estás interesado, acá hay más detalles de como organizar_ y las experiencias recolectadas.
+
 Proyectos
 ---------
 
@@ -33,9 +39,8 @@ En cada PyCamp se realizan una serie de proyectos que son decididos por los part
 Proxima edición
 ---------------
 
-.. La próxima edición [[PyCamp/2014|está en marcha]], pendiente de suficientes confirmaciones.
+La próxima edición está en marcha_
 
-Suponemos que en el 2015, pero todavía no hay nada planeado.
 
 Ediciones anteriores
 --------------------
@@ -53,6 +58,13 @@ Ediciones anteriores
 * Sexta edición, `Villa Giardino, Córdoba. Junio de 2013`_.
 
 * Séptima edición, `Villa Giardino, Córdoba. Marzo de 2014`_.
+
+* Octava edición `La Serranita, Córdoba. Agosto de 2015`_
+
+* Novena edición `La Serranita, Córdoba. Marzo de 2016`_
+
+* Décima edición `Baradero, Buenos Aires. Marzo de 2017`_
+
 
 Blogpost sobre Pycamps
 ----------------------
@@ -116,7 +128,11 @@ Blogpost sobre Pycamps
 .. ############################################################################
 
 
-.. _aqui: /QueSeHace
+.. _aqui: /wiki/PyCamp/QueSeHace
+
+.. _organizar: /wiki/PyCamp/OrganizandoUnPyCamp
+
+.. _marcha: /wiki/PyCamp/2018
 
 .. _Cocos2d: http://cocos2d.org/
 
@@ -124,17 +140,23 @@ Blogpost sobre Pycamps
 
 .. _CDpedia: http://code.google.com/p/cdpedia/
 
-.. _Los Cocos, Córdoba. Marzo de 2009: /2009
+.. _Los Cocos, Córdoba. Marzo de 2009: /PyCamp/2009
 
-.. _Veronica, Buenos Aires. Marzo de 2010: /2010
+.. _Veronica, Buenos Aires. Marzo de 2010: /PyCamp/2010
 
-.. _La Falda, Córdoba. Marzo de 2011: /2011
+.. _La Falda, Córdoba. Marzo de 2011: /PyCamp/2011
 
-.. _Veronica, Buenos Aires. Julio de 2012: /2012
+.. _Veronica, Buenos Aires. Julio de 2012: /PyCamp/2012
 
-.. _Villa Giardino, Córdoba. Junio de 2013: /2013
+.. _Villa Giardino, Córdoba. Junio de 2013: /PyCamp/2013
 
-.. _Villa Giardino, Córdoba. Marzo de 2014: /2014
+.. _Villa Giardino, Córdoba. Marzo de 2014: /PyCamp/2014
+
+.. _La Serranita, Córdoba. Agosto de 2015: /PyCamp/2015
+
+.. _La Serranita, Córdoba. Marzo de 2016: /PyCamp/2016
+
+.. _Baradero, Buenos Aires. Marzo de 2017: /PyCamp/2017
 
 
 

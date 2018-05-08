@@ -1,4 +1,3 @@
-#format rst
 
 PyAr mencionado entre los grupos de interés de Python
 =====================================================

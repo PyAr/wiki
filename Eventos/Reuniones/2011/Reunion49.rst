@@ -1,4 +1,3 @@
-#format rst
 
 Minuta de reunión 49 en San Luis
 ================================
@@ -45,7 +44,7 @@ Básicamente se trataron los siguientes temas:
 
 Aproximadamente a las 21 hs termino la reunión.
 
-Seguro faltó algo, pero esto es lo mas importante me parece (y es lo que tengo anotado |:)| ).
+Seguro faltó algo, pero esto es lo mas importante me parece (y es lo que tengo anotado |smile| ).
 
 -------------------------
 

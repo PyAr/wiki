@@ -1,4 +1,3 @@
-#format rst
 
 Python Version Check
 ====================

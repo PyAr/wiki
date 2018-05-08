@@ -1,4 +1,3 @@
-#format rst
 
 Taller de Programación de Juegos
 ::::::::::::::::::::::::::::::::

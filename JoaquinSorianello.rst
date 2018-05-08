@@ -24,7 +24,7 @@ http://blog.joac.com.ar
 Mail
 ----
 
-`[[MailTo(IDONTWANT joac AT CRIPPY joac SPAM DOT com BIG DOT ar)]]`_
+``IDONTWANT joac AT CRIPPY joac SPAM DOT com BIG DOT ar``
 
 -------------------------
 

@@ -1,4 +1,3 @@
-#format rst
 
 Reunión 55  - Miércoles 28 de Marzo - Rafaela, Cyrano Bar - 21hs
 ================================================================
@@ -88,7 +87,7 @@ Buscando una solución a todos estos temas Cesar se acordó que en la facu hay u
 
 Como ventaja adicional hay que evaluar si se puede hacer stream de las charlas a un sitio como justin.tv
 
-Como Cesar se acordó... Cesar se encarga de chequear estas cosas |:)|
+Como Cesar se acordó... Cesar se encarga de chequear estas cosas |smile|
 
 Tavo menciono que el dispone de una maquina digital con salida HDMI.
 
@@ -162,4 +161,24 @@ Presupuesto_
 .. _Carta sponsors: https://docs.google.com/document/d/1GW8xHCjsqv64OUtEAi0p-RktzwmCdeqzDyxP_0R4NeQ/edit
 
 .. _Presupuesto: https://docs.google.com/spreadsheet/ccc?key=0AnNHEk3yeJLRdERSZGdrX0pQYXpPUkk4azFSSVV2Q2c
+
+
+
+.. role:: underline
+   :class: underline
+
+
+
+.. role:: underline
+   :class: underline
+
+
+
+.. role:: underline
+   :class: underline
+
+
+
+.. role:: underline
+   :class: underline
 

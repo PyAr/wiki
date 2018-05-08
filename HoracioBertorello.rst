@@ -1,5 +1,5 @@
 
-Taste the waste, mang. `[[MailTo(svankie EN gmail PUNTO com)]]`_
+Taste the waste, mang. ``svankie EN gmail PUNTO com``
 
 -------------------------
 

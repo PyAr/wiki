@@ -1,5 +1,3 @@
-#format rst
-## page was renamed from Eventos/Reuniones/Reunion11
 
 Reunión 11 - 04/08/2005 - Hip Bar
 =================================
@@ -10,7 +8,7 @@ Tuvimos múltiples problemas: de drivers, de conectividad... pero sobre todo, ¡
 
 El momento *top* lo alcanzamos al hacer un ``open()`` a lo bruto de la cámara en ``/dev``, y luego comenzar a tirar hipótesis sobre formatos, *framerates*, y la cuadratura del huevo para tratar de reproducirlo, o de parsearlo de alguna manera como para sacar un screenshot.
 
-De todo esto, se saca en limpio una sola cosa: Nos divertimos. Mucho. |:)|
+De todo esto, se saca en limpio una sola cosa: Nos divertimos. Mucho. |smile|
 
 ... y como nada anduvo, LucioTorre_ terminó recurriendo al querido botonito de Print Screen, y como resultado, al final de éstas líneas les dejamos algunas imágenes de la última reunión.
 
@@ -19,11 +17,11 @@ También resolvimos participar en CaFeConf 2005 con dos charlas, una de LucioTor
 Fotos
 -----
 
-`attachment:Screenshot-11.png`_
+`Screenshot-11.png </wiki/Eventos/Reuniones/2005/Reunion11/attachment/536/Screenshot-11.png>`_
 
-`attachment:Screenshot-6.png`_
+`Screenshot-6.png </wiki/Eventos/Reuniones/2005/Reunion11/attachment/534/Screenshot-6.png>`_
 
-`attachment:Screenshot-8.png`_
+`Screenshot-8.png </wiki/Eventos/Reuniones/2005/Reunion11/attachment/535/Screenshot-8.png>`_
 
 .. ############################################################################
 

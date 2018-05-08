@@ -1,6 +1,3 @@
-#format rst
-## page was renamed from Eventos/Reuniones/2011/Reunion33
-## page was renamed from Eventos/Reuniones/Reunion33
 
 Reunión 33 - 15/11/2008 - Balcarce Lounge, Rosario
 ==================================================
@@ -12,7 +9,7 @@ Temas
 
 * Visita de Arturo a Rosario
 
-* Conocer la OLPC que nos prometió Humitos |;-)| (ahora autografiada por el Dr. Stallman |:)| )
+* Conocer la OLPC que nos prometió Humitos |wink| (ahora autografiada por el Dr. Stallman |smile| )
 
 **Dirigiendo:** Humitos
 

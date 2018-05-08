@@ -2,13 +2,12 @@
 El Zen de Python
 ================
 
-*Nuestros principios guía* |:-)|
+*Nuestros principios guía* |smile|
 
 ::
 
-   .. raw:: html
-      <span class="line"><span class="kn">import</span> <span class="nn">this</span>
-      </span>
+    import this
+
 
 1. Lindo es mejor que feo.
 

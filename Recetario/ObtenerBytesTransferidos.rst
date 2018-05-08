@@ -1,4 +1,3 @@
-#format rst
 
 Obtener la cantidad de Bytes transferidos
 =========================================

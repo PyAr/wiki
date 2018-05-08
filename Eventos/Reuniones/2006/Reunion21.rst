@@ -1,5 +1,3 @@
-#format rst
-## page was renamed from Eventos/Reuniones/Reunion21
 
 Reunión 21 - 27/12/2006 - en FM La Tribu - 19:00hs
 --------------------------------------------------

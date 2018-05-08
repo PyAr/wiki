@@ -4,7 +4,7 @@ Dominios de Python Argentina
 
 En esta entrada están documentados los dominios registrados y utilizados por PyAr_.
 
-Si encontras algún problema con cualquiera de estos dominios por favor escribí a nuestra `lista de correos`_ o en el `canal de IRC`_ . También podés escribir a `[[MailTo(admin AT python DOT org DOT ar)]]`_
+Si encontras algún problema con cualquiera de estos dominios por favor escribí a nuestra `lista de correos`_ o en el `canal de IRC`_ . También podés escribir a ``admin AT python DOT org DOT ar``
 
 python.org.ar
 -------------

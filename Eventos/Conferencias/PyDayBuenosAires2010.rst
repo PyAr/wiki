@@ -1,4 +1,3 @@
-#format rst
 
 PyDay Buenos Aires 2010
 =======================
@@ -25,7 +24,7 @@ Organización
 
 * Sitio web: http://groups.google.com/group/pyday-baires
 
-* Lista de correo: `[[MailTo(pyday GUION baires EN googlegroups PUNTO com)]]`_
+* Lista de correo: ``pyday GUION baires EN googlegroups PUNTO com``
 
 * Reuniones:
 

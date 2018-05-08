@@ -1,10 +1,9 @@
 
-Cesar Roldan
+Walter Alini
 ------------
 
-`[[Twitter(usuario="ihuro")]]`_
-
-Email: `[[MailTo(croldan AT SPAMFREE gmail DOT com)]]`_
+Email: ``walini AT machinalis DOT com``
+ Nick en #pyar: walteralini
 
 -------------------------
 

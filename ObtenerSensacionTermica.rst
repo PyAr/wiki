@@ -6,26 +6,24 @@ Obtener Sensacion Termica
 
 ::
 
-   .. raw:: html
-      <span class="line"><span class="c">#!/usr/bin/env python</span>
-      </span><span class="line"><span class="c"># -*- coding: utf-8 -*- </span>
-      </span><span class="line"><span class="c"># </span>
-      </span><span class="line"><span class="kn">import</span> <span class="nn">math</span>
-      </span><span class="line">
-      </span><span class="line"><span class="n">t</span><span class="o">=</span> <span class="mi">20</span> <span class="c"># Temperatura</span>
-      </span><span class="line"><span class="n">v</span> <span class="o">=</span> <span class="mi">20</span> <span class="c"># Velocidad del Viento</span>
-      </span><span class="line"><span class="n">st</span> <span class="o">=</span> <span class="mi">33</span> <span class="o">+</span> <span class="p">(</span><span class="n">t</span><span class="o">-</span> <span class="mi">33</span><span class="p">)</span><span class="o">*</span><span class="p">(</span><span class="mf">0.474</span> <span class="o">+</span> <span class="mf">0.454</span> <span class="o">*</span> <span class="n">math</span><span class="o">.</span><span class="n">sqrt</span><span class="p">((</span><span class="n">v</span><span class="p">))</span><span class="o">-</span><span class="mf">0.0454</span><span class="o">*</span><span class="n">v</span><span class="p">)</span>
-      </span><span class="line"><span class="k">print</span> <span class="n">st</span>
-      </span>
+    #!/usr/bin/env python
+    # -*- coding: utf-8 -*- 
+    # 
+    import math
+
+    t= 20 # Temperatura
+    v = 20 # Velocidad del Viento
+    st = 33 + (t- 33)*(0.474 + 0.454 * math.sqrt((v))-0.0454*v)
+    print st
+
 
 **Ejemplo:**
 
 ::
 
-   .. raw:: html
-      <span class="line"><span class="o">/</span><span class="n">usr</span><span class="o">/</span><span class="nb">bin</span><span class="o">/</span><span class="n">env</span> <span class="n">python</span> <span class="n">st</span><span class="o">.</span><span class="n">py</span>
-      </span><span class="line"><span class="mf">12.24</span>
-      </span>
+    /usr/bin/env python st.py
+    12.24
+
 
 *Disclaimer: el uso o no de SheBang/Declaracion de Encoding queda a criterio del usuario.*
 

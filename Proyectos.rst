@@ -1,44 +1,52 @@
-
-Proyectos
-=========
-
-Juegos
-------
-
-Juegos_ de PyAr_.
-
 Proyectos PyAr
 --------------
 
-Estos son los proyectos encarados *institucionalmente* por PyAr_:
+Estos son los proyectos encarados *institucionalmente* por PyAr_ en los que puedes colaborar:
+=============================================================================================
 
-* `/GauchitoGil`_
+* `GauchitoGil`_
 
   * Administrador de colas de mensajes, con soporte para múltiples protocolos: SMTP (mail), SMPP (SMSs o mensajes cortos) y MM7 (MMSs o mensajes multimedia)
+  
+.. _GauchitoGil: http://python.org.ar/pyar/Proyectos/GauchitoGil
 
-* `/Caucho`_
+* `Caucho`_
 
   * Avanzadísimo juego de batalla en vehículos multijugador
 
-* `/STIM`_
+.. _Caucho: http://python.org.ar/pyar/Proyectos/Caucho
+
+
+* `STIM`_
 
   * Juego que presentamos en PyAr_ para la segunda edición de PyWeek
+  
+.. _STIM: http://python.org.ar/pyar/Proyectos/STIM
 
-* `/AlocadoAlocador`_
+* `AlocadoAlocador`_
 
   * Juego desarrollado para Pygame.draw 2006
 
-* `/UnManualEnCadaUniversidad`_
+.. _AlocadoAlocador: http://python.org.ar/pyar/Proyectos/AlocadoAlocador
+
+* `UnManualEnCadaUniversidad`_
 
   * Enviar un manual de Python a cada Universidad Argentina.
+  
+.. _UnManualEnCadaUniversidad: http://python.org.ar/pyar/Proyectos/UnManualEnCadaUniversidad
 
-* `/RevistaPythonComunidad`_
 
-  * Hacemos una magazine de python entre todos ? |;)|
+* `RevistaPythonComunidad`_
 
-* `/UsoDePythonEnLaUniversidad`_
+  * Hacemos una magazine de python entre todos ? ;)
+
+.. _RevistaPythonComunidad: http://python.org.ar/pyar/Proyectos/RevistaPythonComunidad
+
+* `UsoDePythonEnLaUniversidad`_
 
   * Sistematización de experiencias, herramientas y estrategias para difundir Python en la Universidad
+
+.. _UsoDePythonEnLaUniversidad: http://python.org.ar/pyar/Proyectos/UsoDePythonEnLaUniversidad
 
 Github.com
 ----------
@@ -66,13 +74,9 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
   * Proyecto experimental sobre música y creatividad artificial
 
-* Emesene_
+* chorde_
 
-  * Cliente de mensajería instantánea multiplataforma compatible con la red MSN de microsoft
-
-* Tubes_
-
-  * Pequeña librería para hacer APIs REST y aplicaciones web basado en Werkzeug_
+  * Framework de cacheo funcional (de funciones, no páginas) para sistemas distribuidos complejos.
 
 * PyAfipWs_ `código fuente`_
 
@@ -275,21 +279,24 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 * `virtualenvwrapper docs`_
 
   * Traducción al Español de la documentación de "virtualenvwrapper"
+  
+* `Pimp my pillow`_
+  
+  * Pimp My Pillow will leave you with a full working Pillow installation, no more 'decoder * not available' messages! https://github.com/edvm/pimp-my-pillow
+  
+* `rst2html5`_
 
+  * Herramienta extensible para crear documentos HTML5 como presentaciones o paginas web
 
-
-
+* `Pireal`_
+  
+  * Herramienta educativa para trabajar con Álgebra Relacional.
+  
+* `Peicel Graphics`_
+  
+  * Paint Programado en python Tkinter 
+  
 -------------------------
-
-
-
-  `[[Navigation(children, 1)]]`_ 
-
--------------------------
-
-
-
-  CategoryProyectos_
 
 .. ############################################################################
 
@@ -303,12 +310,6 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 
 .. _oveja eléctrica: http://yaco.net/oe/
-
-.. _Emesene: http://www.emesene.org
-
-.. _Tubes: http://a-series-of-tubes.appspot.com/
-
-.. _Werkzeug: http://werkzeug.pocoo.org/
 
 .. _PyAfipWs: http://www.pyafipws.com.ar/
 
@@ -347,7 +348,6 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 .. _PyFPDF: http://code.google.com/p/pyfpdf/
 
-.. _CDPedia: http://python.org.ar/pyar/Proyectos/CDPedia
 
 .. _Pag vieja: https://opensvn.csie.org/traccgi/PyAr/wiki/WikipediaOffline
 
@@ -426,11 +426,6 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 .. _web2conf: https://code.google.com/p/web2conf/
 
-
-
-
-
-
 .. _Programando con Robots: http://robots.linti.unlp.edu.ar
 
 .. _linkodeit: https://pypi.python.org/pypi/linkodeit
@@ -441,4 +436,10 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 .. _virtualenvwrapper docs: https://bitbucket.org/humitos/virtualenvwrapper-docs-es
 
+.. _chorde: https://bitbucket.org/claudiofreire/chorde/
 
+.. _rst2html5: https://github.com/marianoguerra/rst2html5/
+
+.. _Pireal: https://centaurialpha.github.io/pireal
+
+.. _Peicel Graphics: http://ge.tt/2LtQT7m2

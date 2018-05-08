@@ -1,5 +1,3 @@
-#format rst
-## page was renamed from Eventos/Reuniones/Reunion27
 
 Reunión 27 - 07/05/2008 19hs - Bar "El Clásico", Buenos Aires
 =============================================================
@@ -24,13 +22,13 @@ Lucio nos contó que en líneas generales estuvo muy bueno. Hizo un comparación
 
 **Experiencia de Fisl 2008**
 
-Karucha y Alecu nos hablaron de lo que fue Fisl 2008. Algo que gustó muchísimo fue que durante el día había siempre 8 charlas simultáneas, de 9 a 21hs, entonces en cualquier momento se podía elegir una charla interesante para asistir. Por suerte para PyAr_ fue muy bien la venta de remeras en Brasil |:)| Luego nos contaron de la experiencia de falabracman, el juego que hicieron en 36 hs en el OLPC Game Jam, y con el cual salieron primeros! Además del reconocimiento, se ganaron una OLPC :). Felicitaciones!
+Karucha y Alecu nos hablaron de lo que fue Fisl 2008. Algo que gustó muchísimo fue que durante el día había siempre 8 charlas simultáneas, de 9 a 21hs, entonces en cualquier momento se podía elegir una charla interesante para asistir. Por suerte para PyAr_ fue muy bien la venta de remeras en Brasil |smile| Luego nos contaron de la experiencia de falabracman, el juego que hicieron en 36 hs en el OLPC Game Jam, y con el cual salieron primeros! Además del reconocimiento, se ganaron una OLPC :). Felicitaciones!
 
 **¿**PyCon_ **Argentina 2009?** Se habló de la posibilidad de realizar PyCon_ en Argentina el año que viene. Cómo era de esperarse estuvimos todos muy entusiasmados con esto, y se tocaron muchos temas en torno a la organización del evento. Se discutió sobre que lugar conviene para hacerlo, debería ser un lugar céntrico en Buenos Aires, disponer de WiFi_, seguridad, proyectores y por sobre todo 220v! También se planteó para que cantidad de gente pensar el evento, que charlas y sprints habrá, y otro tema no menor, ¿el objetivo es la difusión o el perfeccionamiento? Finalmente se decidió armar una lista aparte para la organización, y de esta forma no sobrecargar la lista de pyar, y que sólo estén involucrados los que estén interesados y puedan participar de la organización.
 
 **Sprint de instalación de nuestro Server**
 
-Para instalar el Server (que ya tenemos) hace falta comprar unos adaptadores SCSI, y luego se puede poner una fecha para hacer el sprint de instalación. Se habló de además de instalar todo lo que tiene que ver con el sitio de PyAr_, se ponga un svn + trac para hostear proyectos propios y de comunidades amigas |:)|
+Para instalar el Server (que ya tenemos) hace falta comprar unos adaptadores SCSI, y luego se puede poner una fecha para hacer el sprint de instalación. Se habló de además de instalar todo lo que tiene que ver con el sitio de PyAr_, se ponga un svn + trac para hostear proyectos propios y de comunidades amigas |smile|
 
 **Global Python Sprint Weekend**
 
@@ -52,7 +50,7 @@ Se habló de hacer un jueguito 3D que se controle mediante el wiimote. La idea p
 
 Lamentablemente todo lo bueno siempre termina. A eso de las 2300 hs se podría decir que terminó oficialmente la reunión 27 de PyAr_, algunos volvieron a sus casas y otros nos quedamos charlando de temas variados hasta eso de las 0030, en dónde nos dimos cuenta de que era tarde y que algunos teníamos que trabajar al otro día.
 
-La impresión que me llevé de mi primer reunión fue sublime; hubo regalos para todos, cerveza (mucha), picada (mucha), y lo mejor de todo: un excelente grupo humano (si es que podemos considerarnos humanos) |:)| , espero con ansias la próxima!
+La impresión que me llevé de mi primer reunión fue sublime; hubo regalos para todos, cerveza (mucha), picada (mucha), y lo mejor de todo: un excelente grupo humano (si es que podemos considerarnos humanos) |smile| , espero con ansias la próxima!
 
 .. ############################################################################
 

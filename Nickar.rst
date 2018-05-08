@@ -6,7 +6,7 @@ Nicolás Pace
 
 TODO:Hablar sobre mi.
 
-Email: `[[MailTo(np AT SPAMFREE cs DOT uns DOT edu DOT ar)]]`_
+Email: ``np AT SPAMFREE cs DOT uns DOT edu DOT ar``
 
 -------------------------
 

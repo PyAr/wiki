@@ -18,7 +18,7 @@ Dirijo PressEnter_, una consultora dedicada al software libre.
 
 En mi tiempo libre, me divierto haciendo cosas con python.
 
-Email: `[[MailTo(hsanchez AT SPAMFREE pressenter DOT com DOT ar)]]`_
+Email: ``hsanchez AT SPAMFREE pressenter DOT com DOT ar``
 
 Blog : http://www.karuchin.com.ar
 

@@ -1,4 +1,3 @@
-#format rst
 
 GmailMail
 ---------
@@ -11,125 +10,124 @@ Este script permite enviar emails a través de GMail. Los emails pueden tener te
 
 ::
 
-   .. raw:: html
-      <span class="line"><span class="c">#!/usr/bin/env python</span>
-      </span><span class="line">
-      </span><span class="line"><span class="c"># requires Python &gt;= 2.5</span>
-      </span><span class="line"><span class="kn">import</span> <span class="nn">smtplib</span>
-      </span><span class="line"><span class="kn">from</span> <span class="nn">email.mime.multipart</span> <span class="kn">import</span> <span class="n">MIMEMultipart</span>
-      </span><span class="line"><span class="kn">from</span> <span class="nn">email.mime.base</span> <span class="kn">import</span> <span class="n">MIMEBase</span>
-      </span><span class="line"><span class="kn">from</span> <span class="nn">email.mime.text</span> <span class="kn">import</span> <span class="n">MIMEText</span>
-      </span><span class="line"><span class="kn">from</span> <span class="nn">email.mime.audio</span> <span class="kn">import</span> <span class="n">MIMEAudio</span>
-      </span><span class="line"><span class="kn">from</span> <span class="nn">email.mime.image</span> <span class="kn">import</span> <span class="n">MIMEImage</span>
-      </span><span class="line"><span class="kn">from</span> <span class="nn">email.encoders</span> <span class="kn">import</span> <span class="n">encode_base64</span>
-      </span><span class="line"><span class="kn">from</span> <span class="nn">mimetypes</span> <span class="kn">import</span> <span class="n">guess_type</span>
-      </span><span class="line"><span class="kn">from</span> <span class="nn">os.path</span> <span class="kn">import</span> <span class="n">basename</span>
-      </span><span class="line">
-      </span><span class="line"><span class="k">class</span> <span class="nc">GmailMail</span><span class="p">():</span>
-      </span><span class="line">    <span class="k">def</span> <span class="nf">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">gmail_user</span><span class="p">,</span> <span class="n">gmail_pwd</span><span class="p">):</span>
-      </span><span class="line">        <span class="sd">&quot;&quot;&quot;</span>
-      </span><span class="line"><span class="sd">        Prepares an instance with basic authentication</span>
-      </span><span class="line">
-      </span><span class="line"><span class="sd">        &quot;&quot;&quot;</span>
-      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">gmail_user</span> <span class="o">=</span> <span class="n">gmail_user</span>
-      </span><span class="line">        <span class="bp">self</span><span class="o">.</span><span class="n">gmail_pwd</span> <span class="o">=</span> <span class="n">gmail_pwd</span>
-      </span><span class="line">
-      </span><span class="line">    <span class="k">def</span> <span class="nf">getAttachment</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">path</span><span class="p">,</span> <span class="n">charset</span><span class="o">=</span><span class="s">&#39;ASCII&#39;</span><span class="p">):</span>
-      </span><span class="line">        <span class="n">contentType</span><span class="p">,</span> <span class="n">encoding</span> <span class="o">=</span> <span class="n">guess_type</span><span class="p">(</span><span class="n">path</span><span class="p">)</span>
-      </span><span class="line">
-      </span><span class="line">        <span class="k">if</span> <span class="n">contentType</span> <span class="ow">is</span> <span class="bp">None</span> <span class="ow">or</span> <span class="n">encoding</span> <span class="ow">is</span> <span class="ow">not</span> <span class="bp">None</span><span class="p">:</span>
-      </span><span class="line">            <span class="n">contentType</span> <span class="o">=</span> <span class="s">&#39;application/octet-stream&#39;</span>
-      </span><span class="line">
-      </span><span class="line">        <span class="n">mainType</span><span class="p">,</span> <span class="n">subType</span> <span class="o">=</span> <span class="n">contentType</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="s">&#39;/&#39;</span><span class="p">,</span> <span class="mi">1</span><span class="p">)</span>
-      </span><span class="line">        <span class="n">_file</span> <span class="o">=</span> <span class="nb">open</span><span class="p">(</span><span class="n">path</span><span class="p">,</span> <span class="s">&#39;rb&#39;</span><span class="p">)</span>
-      </span><span class="line">
-      </span><span class="line">        <span class="k">if</span> <span class="n">mainType</span> <span class="o">==</span> <span class="s">&#39;text&#39;</span><span class="p">:</span>
-      </span><span class="line">            <span class="n">attachment</span> <span class="o">=</span> <span class="n">MIMEText</span><span class="p">(</span><span class="n">_file</span><span class="o">.</span><span class="n">read</span><span class="p">(),</span> <span class="n">subType</span><span class="p">,</span> <span class="n">charset</span><span class="p">)</span>
-      </span><span class="line">        <span class="k">elif</span> <span class="n">mainType</span> <span class="o">==</span> <span class="s">&#39;message&#39;</span><span class="p">:</span>
-      </span><span class="line">            <span class="n">attachment</span> <span class="o">=</span> <span class="n">email</span><span class="o">.</span><span class="n">message_from_file</span><span class="p">(</span><span class="n">_file</span><span class="p">)</span>
-      </span><span class="line">        <span class="k">elif</span> <span class="n">mainType</span> <span class="o">==</span> <span class="s">&#39;image&#39;</span><span class="p">:</span>
-      </span><span class="line">            <span class="n">attachment</span> <span class="o">=</span> <span class="n">MIMEImage</span><span class="p">(</span><span class="n">_file</span><span class="o">.</span><span class="n">read</span><span class="p">(),</span> <span class="n">_subType</span><span class="o">=</span><span class="n">subType</span><span class="p">)</span>
-      </span><span class="line">        <span class="k">elif</span> <span class="n">mainType</span> <span class="o">==</span> <span class="s">&#39;audio&#39;</span><span class="p">:</span>
-      </span><span class="line">            <span class="n">attachment</span> <span class="o">=</span> <span class="n">MIMEAudio</span><span class="p">(</span><span class="n">_file</span><span class="o">.</span><span class="n">read</span><span class="p">(),</span> <span class="n">_subType</span><span class="o">=</span><span class="n">subType</span><span class="p">)</span>
-      </span><span class="line">        <span class="k">else</span><span class="p">:</span>
-      </span><span class="line">            <span class="n">attachment</span> <span class="o">=</span> <span class="n">MIMEBase</span><span class="p">(</span><span class="n">mainType</span><span class="p">,</span> <span class="n">subType</span><span class="p">)</span>
-      </span><span class="line">            <span class="n">attachment</span><span class="o">.</span><span class="n">set_payload</span><span class="p">(</span><span class="n">_file</span><span class="o">.</span><span class="n">read</span><span class="p">())</span>
-      </span><span class="line">            <span class="n">encode_base64</span><span class="p">(</span><span class="n">attachment</span><span class="p">)</span>
-      </span><span class="line">
-      </span><span class="line">        <span class="n">_file</span><span class="o">.</span><span class="n">close</span><span class="p">()</span>
-      </span><span class="line">
-      </span><span class="line">        <span class="n">attachment</span><span class="o">.</span><span class="n">add_header</span><span class="p">(</span><span class="s">&#39;Content-Disposition&#39;</span><span class="p">,</span> <span class="s">&#39;attachment&#39;</span><span class="p">,</span>
-      </span><span class="line">            <span class="n">filename</span><span class="o">=</span><span class="n">basename</span><span class="p">(</span><span class="n">path</span><span class="p">))</span>
-      </span><span class="line">       
-      </span><span class="line">        <span class="k">return</span> <span class="n">attachment</span>
-      </span><span class="line">       
-      </span><span class="line">    <span class="k">def</span> <span class="nf">send</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">to</span><span class="p">,</span> <span class="n">subject</span><span class="p">,</span> <span class="n">text</span><span class="o">=</span><span class="s">u&quot;&quot;</span><span class="p">,</span> <span class="n">html</span><span class="o">=</span><span class="bp">None</span><span class="p">,</span> <span class="n">attachments</span><span class="o">=</span><span class="bp">None</span><span class="p">,</span> <span class="n">charset</span><span class="o">=</span><span class="s">&quot;iso-8859-15&quot;</span><span class="p">):</span>
-      </span><span class="line">        <span class="sd">&quot;&quot;&quot;</span>
-      </span><span class="line"><span class="sd">        Sends an email through Gmail using the authentication</span>
-      </span><span class="line"><span class="sd">        given to this instance.</span>
-      </span><span class="line">
-      </span><span class="line"><span class="sd">        If given, attachments must be a list of paths pointing</span>
-      </span><span class="line"><span class="sd">        to the files we want to include.</span>
-      </span><span class="line">
-      </span><span class="line"><span class="sd">        This script does not embed inline content (multipart/related)</span>
-      </span><span class="line">
-      </span><span class="line"><span class="sd">        &quot;&quot;&quot;</span>
-      </span><span class="line">        <span class="k">if</span> <span class="n">charset</span> <span class="ow">in</span> <span class="p">[</span><span class="s">&#39;utf8&#39;</span><span class="p">,</span><span class="s">&#39;utf-8&#39;</span><span class="p">]:</span> <span class="c">#bug?</span>
-      </span><span class="line">            <span class="kn">from</span> <span class="nn">email.charset</span> <span class="kn">import</span> <span class="n">add_charset</span><span class="p">,</span> <span class="n">SHORTEST</span>
-      </span><span class="line">            <span class="n">add_charset</span><span class="p">(</span><span class="s">&#39;utf-8&#39;</span><span class="p">,</span> <span class="n">SHORTEST</span><span class="p">,</span> <span class="bp">None</span><span class="p">,</span> <span class="bp">None</span><span class="p">)</span>
-      </span><span class="line">
-      </span><span class="line">        <span class="k">if</span> <span class="nb">isinstance</span><span class="p">(</span><span class="n">text</span><span class="p">,</span> <span class="nb">unicode</span><span class="p">):</span>
-      </span><span class="line">            <span class="n">text</span> <span class="o">=</span> <span class="n">text</span><span class="o">.</span><span class="n">encode</span><span class="p">(</span><span class="n">charset</span><span class="p">,</span> <span class="s">&#39;replace&#39;</span><span class="p">)</span>
-      </span><span class="line">
-      </span><span class="line">        <span class="k">if</span> <span class="nb">isinstance</span><span class="p">(</span><span class="n">html</span><span class="p">,</span> <span class="nb">unicode</span><span class="p">):</span>
-      </span><span class="line">            <span class="n">html</span> <span class="o">=</span> <span class="n">html</span><span class="o">.</span><span class="n">encode</span><span class="p">(</span><span class="n">charset</span><span class="p">,</span> <span class="s">&#39;replace&#39;</span><span class="p">)</span>
-      </span><span class="line">
-      </span><span class="line">        <span class="k">if</span> <span class="n">attachments</span> <span class="ow">is</span> <span class="bp">None</span><span class="p">:</span>
-      </span><span class="line">            <span class="n">attachments</span> <span class="o">=</span> <span class="p">[]</span>
-      </span><span class="line">       
-      </span><span class="line">        <span class="k">if</span> <span class="n">text</span><span class="p">:</span> <span class="n">plain_part</span> <span class="o">=</span> <span class="n">MIMEText</span><span class="p">(</span><span class="n">text</span><span class="p">,</span> <span class="s">&#39;plain&#39;</span><span class="p">,</span> <span class="n">charset</span><span class="p">)</span>
-      </span><span class="line">        <span class="k">if</span> <span class="n">html</span><span class="p">:</span> <span class="n">html_part</span> <span class="o">=</span> <span class="n">MIMEText</span><span class="p">(</span><span class="n">html</span><span class="p">,</span> <span class="s">&#39;html&#39;</span><span class="p">,</span> <span class="n">charset</span><span class="p">)</span>
-      </span><span class="line">
-      </span><span class="line">        <span class="n">is_alternative</span> <span class="o">=</span> <span class="n">html</span> <span class="ow">and</span> <span class="n">text</span>
-      </span><span class="line">        <span class="n">layers</span> <span class="o">=</span> <span class="p">[]</span>
-      </span><span class="line">        <span class="k">if</span> <span class="n">attachments</span> <span class="ow">or</span> <span class="n">is_alternative</span><span class="p">:</span>
-      </span><span class="line">            <span class="n">msg</span> <span class="o">=</span> <span class="n">MIMEMultipart</span><span class="p">()</span> <span class="c">#mixed</span>
-      </span><span class="line">            <span class="n">msg</span><span class="o">.</span><span class="n">set_charset</span><span class="p">(</span><span class="n">charset</span><span class="p">)</span>
-      </span><span class="line">            <span class="n">msg</span><span class="o">.</span><span class="n">preamble</span> <span class="o">=</span> <span class="s">&#39;This is a multi-part message in MIME format.&#39;</span>
-      </span><span class="line">            <span class="n">msg</span><span class="o">.</span><span class="n">epilogue</span> <span class="o">=</span> <span class="s">&#39;&#39;</span>
-      </span><span class="line">            <span class="n">layers</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">msg</span><span class="p">)</span>
-      </span><span class="line">           
-      </span><span class="line">            <span class="k">if</span> <span class="n">is_alternative</span><span class="p">:</span>
-      </span><span class="line">                <span class="n">msgAlternative</span> <span class="o">=</span> <span class="n">MIMEMultipart</span><span class="p">(</span><span class="s">&#39;alternative&#39;</span><span class="p">)</span>
-      </span><span class="line">                <span class="n">msg</span><span class="o">.</span><span class="n">attach</span><span class="p">(</span><span class="n">msgAlternative</span><span class="p">)</span>
-      </span><span class="line">                <span class="n">layers</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">msgAlternative</span><span class="p">)</span>
-      </span><span class="line">           
-      </span><span class="line">            <span class="k">if</span> <span class="n">text</span><span class="p">:</span>
-      </span><span class="line">                <span class="n">layers</span><span class="p">[</span><span class="o">-</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">attach</span><span class="p">(</span><span class="n">plain_part</span><span class="p">)</span>
-      </span><span class="line">            <span class="k">if</span> <span class="n">html</span><span class="p">:</span>
-      </span><span class="line">                <span class="n">layers</span><span class="p">[</span><span class="o">-</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">attach</span><span class="p">(</span><span class="n">html_part</span><span class="p">)</span>
-      </span><span class="line">           
-      </span><span class="line">        <span class="k">elif</span> <span class="n">text</span><span class="p">:</span>
-      </span><span class="line">            <span class="n">msg</span> <span class="o">=</span> <span class="n">plain_part</span>
-      </span><span class="line">        <span class="k">else</span><span class="p">:</span> <span class="c">#html only</span>
-      </span><span class="line">            <span class="n">msg</span> <span class="o">=</span> <span class="n">html_part</span>
-      </span><span class="line">
-      </span><span class="line">        <span class="k">for</span> <span class="n">path</span> <span class="ow">in</span> <span class="n">attachments</span><span class="p">:</span>
-      </span><span class="line">            <span class="n">msg</span><span class="o">.</span><span class="n">attach</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">getAttachment</span><span class="p">(</span><span class="n">path</span><span class="p">,</span> <span class="n">charset</span><span class="p">))</span>
-      </span><span class="line">       
-      </span><span class="line">        <span class="n">msg</span><span class="p">[</span><span class="s">&#39;From&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">gmail_user</span>
-      </span><span class="line">        <span class="n">msg</span><span class="p">[</span><span class="s">&#39;To&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">to</span>
-      </span><span class="line">        <span class="n">msg</span><span class="p">[</span><span class="s">&#39;Subject&#39;</span><span class="p">]</span> <span class="o">=</span> <span class="n">subject</span>
-      </span><span class="line">
-      </span><span class="line">        <span class="n">mailServer</span> <span class="o">=</span> <span class="n">smtplib</span><span class="o">.</span><span class="n">SMTP</span><span class="p">(</span><span class="s">&quot;smtp.gmail.com&quot;</span><span class="p">,</span> <span class="mi">587</span><span class="p">)</span>
-      </span><span class="line">        <span class="n">mailServer</span><span class="o">.</span><span class="n">ehlo</span><span class="p">()</span>
-      </span><span class="line">        <span class="n">mailServer</span><span class="o">.</span><span class="n">starttls</span><span class="p">()</span>
-      </span><span class="line">        <span class="n">mailServer</span><span class="o">.</span><span class="n">ehlo</span><span class="p">()</span>
-      </span><span class="line">        <span class="n">mailServer</span><span class="o">.</span><span class="n">login</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">gmail_user</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">gmail_pwd</span><span class="p">)</span>
-      </span><span class="line">        <span class="n">mailServer</span><span class="o">.</span><span class="n">sendmail</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">gmail_user</span><span class="p">,</span> <span class="n">to</span><span class="p">,</span> <span class="n">msg</span><span class="o">.</span><span class="n">as_string</span><span class="p">())</span>
-      </span><span class="line">        <span class="c"># Should be mailServer.quit(), but that crashes...</span>
-      </span><span class="line">        <span class="n">mailServer</span><span class="o">.</span><span class="n">close</span><span class="p">()</span>
-      </span>
+    #!/usr/bin/env python
+
+    # requires Python >= 2.5
+    import smtplib
+    from email.mime.multipart import MIMEMultipart
+    from email.mime.base import MIMEBase
+    from email.mime.text import MIMEText
+    from email.mime.audio import MIMEAudio
+    from email.mime.image import MIMEImage
+    from email.encoders import encode_base64
+    from mimetypes import guess_type
+    from os.path import basename
+
+    class GmailMail():
+        def __init__(self, gmail_user, gmail_pwd):
+            """
+            Prepares an instance with basic authentication
+
+            """
+            self.gmail_user = gmail_user
+            self.gmail_pwd = gmail_pwd
+
+        def getAttachment(self, path, charset='ASCII'):
+            contentType, encoding = guess_type(path)
+
+            if contentType is None or encoding is not None:
+                contentType = 'application/octet-stream'
+
+            mainType, subType = contentType.split('/', 1)
+            _file = open(path, 'rb')
+
+            if mainType == 'text':
+                attachment = MIMEText(_file.read(), subType, charset)
+            elif mainType == 'message':
+                attachment = email.message_from_file(_file)
+            elif mainType == 'image':
+                attachment = MIMEImage(_file.read(), _subType=subType)
+            elif mainType == 'audio':
+                attachment = MIMEAudio(_file.read(), _subType=subType)
+            else:
+                attachment = MIMEBase(mainType, subType)
+                attachment.set_payload(_file.read())
+                encode_base64(attachment)
+
+            _file.close()
+
+            attachment.add_header('Content-Disposition', 'attachment',
+                filename=basename(path))
+
+            return attachment
+
+        def send(self, to, subject, text=u"", html=None, attachments=None, charset="iso-8859-15"):
+            """
+            Sends an email through Gmail using the authentication
+            given to this instance.
+
+            If given, attachments must be a list of paths pointing
+            to the files we want to include.
+
+            This script does not embed inline content (multipart/related)
+
+            """
+            if charset in ['utf8','utf-8']: #bug?
+                from email.charset import add_charset, SHORTEST
+                add_charset('utf-8', SHORTEST, None, None)
+
+            if isinstance(text, unicode):
+                text = text.encode(charset, 'replace')
+
+            if isinstance(html, unicode):
+                html = html.encode(charset, 'replace')
+
+            if attachments is None:
+                attachments = []
+
+            if text: plain_part = MIMEText(text, 'plain', charset)
+            if html: html_part = MIMEText(html, 'html', charset)
+
+            is_alternative = html and text
+            layers = []
+            if attachments or is_alternative:
+                msg = MIMEMultipart() #mixed
+                msg.set_charset(charset)
+                msg.preamble = 'This is a multi-part message in MIME format.'
+                msg.epilogue = ''
+                layers.append(msg)
+
+                if is_alternative:
+                    msgAlternative = MIMEMultipart('alternative')
+                    msg.attach(msgAlternative)
+                    layers.append(msgAlternative)
+
+                if text:
+                    layers[-1].attach(plain_part)
+                if html:
+                    layers[-1].attach(html_part)
+
+            elif text:
+                msg = plain_part
+            else: #html only
+                msg = html_part
+
+            for path in attachments:
+                msg.attach(self.getAttachment(path, charset))
+
+            msg['From'] = self.gmail_user
+            msg['To'] = to
+            msg['Subject'] = subject
+
+            mailServer = smtplib.SMTP("smtp.gmail.com", 587)
+            mailServer.ehlo()
+            mailServer.starttls()
+            mailServer.ehlo()
+            mailServer.login(self.gmail_user, self.gmail_pwd)
+            mailServer.sendmail(self.gmail_user, to, msg.as_string())
+            # Should be mailServer.quit(), but that crashes...
+            mailServer.close()
+
 
 Algunos tests (ejemplos, casos de uso):
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -138,46 +136,45 @@ Algunos tests (ejemplos, casos de uso):
 
 ::
 
-   .. raw:: html
-      <span class="line"><span class="c"># -*- coding: utf-8 -*-</span>
-      </span><span class="line">
-      </span><span class="line"><span class="kn">from</span> <span class="nn">GmailMail</span> <span class="kn">import</span> <span class="n">GmailMail</span>
-      </span><span class="line"><span class="kn">from</span> <span class="nn">urllib2</span> <span class="kn">import</span> <span class="n">urlopen</span>
-      </span><span class="line">
-      </span><span class="line"><span class="n">text</span> <span class="o">=</span> <span class="s">u&quot;&quot;&quot;</span><span class="se">\</span>
-      </span><span class="line"><span class="s">Éste es el contenido en modo texto plano</span>
-      </span><span class="line"><span class="s">Tenemos acentos y eñes.</span>
-      </span><span class="line">
-      </span><span class="line"><span class="s">&quot;&quot;&quot;</span>
-      </span><span class="line"><span class="n">url</span> <span class="o">=</span> <span class="s">&quot;http://python.com.ar/moin&quot;</span>
-      </span><span class="line"><span class="n">html</span> <span class="o">=</span> <span class="n">urlopen</span><span class="p">(</span><span class="n">url</span><span class="p">)</span><span class="o">.</span><span class="n">read</span><span class="p">()</span>
-      </span><span class="line">
-      </span><span class="line"><span class="n">user</span> <span class="o">=</span> <span class="s">&#39;XXXXXX@gmail.com&#39;</span> <span class="c"># mi usuario de GMail</span>
-      </span><span class="line"><span class="n">pwd</span>  <span class="o">=</span> <span class="s">&#39;********&#39;</span>         <span class="c"># mi contraseña de GMail</span>
-      </span><span class="line">
-      </span><span class="line"><span class="n">m</span> <span class="o">=</span> <span class="n">GmailMail</span><span class="p">(</span><span class="n">user</span><span class="p">,</span> <span class="n">pwd</span><span class="p">)</span>
-      </span><span class="line">
-      </span><span class="line"><span class="k">print</span> <span class="s">&quot;mandando texto plano solamente&quot;</span>
-      </span><span class="line"><span class="n">m</span><span class="o">.</span><span class="n">send</span><span class="p">(</span><span class="n">user</span><span class="p">,</span> <span class="s">u&#39;prueba de sólo texto&#39;</span><span class="p">,</span> <span class="n">text</span><span class="p">)</span>
-      </span><span class="line">
-      </span><span class="line"><span class="k">print</span> <span class="s">&quot;mandando html solamente&quot;</span>
-      </span><span class="line"><span class="n">m</span><span class="o">.</span><span class="n">send</span><span class="p">(</span><span class="n">user</span><span class="p">,</span> <span class="s">u&#39;prueba con sólo html&#39;</span><span class="p">,</span> <span class="n">html</span><span class="o">=</span><span class="n">html</span><span class="p">)</span>
-      </span><span class="line">
-      </span><span class="line"><span class="k">print</span> <span class="s">&quot;mandando texto plano y html (sin attachments)&quot;</span>
-      </span><span class="line"><span class="n">m</span><span class="o">.</span><span class="n">send</span><span class="p">(</span><span class="n">user</span><span class="p">,</span> <span class="s">u&#39;prueba con texto plano y html (sin attachments)&#39;</span><span class="p">,</span> <span class="n">text</span><span class="p">,</span> <span class="n">html</span><span class="p">)</span>
-      </span><span class="line">
-      </span><span class="line"><span class="k">print</span> <span class="s">&quot;mandando texto plano y attachments&quot;</span>
-      </span><span class="line"><span class="n">m</span><span class="o">.</span><span class="n">send</span><span class="p">(</span><span class="n">user</span><span class="p">,</span> <span class="s">u&#39;prueba con texto plano y attachments&#39;</span><span class="p">,</span> <span class="n">text</span><span class="p">,</span> <span class="n">attachments</span><span class="o">=</span><span class="p">[</span><span class="s">&#39;GmailMail.py&#39;</span><span class="p">])</span>
-      </span><span class="line">
-      </span><span class="line"><span class="k">print</span> <span class="s">&quot;mandando html y attachments&quot;</span>
-      </span><span class="line"><span class="n">m</span><span class="o">.</span><span class="n">send</span><span class="p">(</span><span class="n">user</span><span class="p">,</span> <span class="s">u&#39;prueba con html y attachments&#39;</span><span class="p">,</span> <span class="n">html</span><span class="o">=</span><span class="n">html</span><span class="p">,</span> <span class="n">attachments</span><span class="o">=</span><span class="p">[</span><span class="s">&#39;GmailMail.py&#39;</span><span class="p">])</span>
-      </span><span class="line">
-      </span><span class="line"><span class="k">print</span> <span class="s">&quot;mandando attachments solamente&quot;</span>
-      </span><span class="line"><span class="n">m</span><span class="o">.</span><span class="n">send</span><span class="p">(</span><span class="n">user</span><span class="p">,</span> <span class="s">u&#39;prueba con attachments solamente&#39;</span><span class="p">,</span> <span class="n">attachments</span><span class="o">=</span><span class="p">[</span><span class="s">&#39;GmailMail.py&#39;</span><span class="p">])</span>
-      </span><span class="line">
-      </span><span class="line"><span class="k">print</span> <span class="s">&quot;mandando todo&quot;</span>
-      </span><span class="line"><span class="n">m</span><span class="o">.</span><span class="n">send</span><span class="p">(</span><span class="n">user</span><span class="p">,</span> <span class="s">u&#39;prueba con todo&#39;</span><span class="p">,</span> <span class="n">text</span><span class="p">,</span> <span class="n">html</span><span class="p">,</span> <span class="n">attachments</span><span class="o">=</span><span class="p">[</span><span class="s">&#39;GmailMail.py&#39;</span><span class="p">])</span>
-      </span>
+    # -*- coding: utf-8 -*-
+
+    from GmailMail import GmailMail
+    from urllib2 import urlopen
+
+    text = u"""\
+    Éste es el contenido en modo texto plano
+    Tenemos acentos y eñes.
+
+    """
+    url = "http://python.com.ar/moin"
+    html = urlopen(url).read()
+
+    user = 'XXXXXX@gmail.com' # mi usuario de GMail
+    pwd  = '********'         # mi contraseña de GMail
+
+    m = GmailMail(user, pwd)
+
+    print "mandando texto plano solamente"
+    m.send(user, u'prueba de sólo texto', text)
+
+    print "mandando html solamente"
+    m.send(user, u'prueba con sólo html', html=html)
+
+    print "mandando texto plano y html (sin attachments)"
+    m.send(user, u'prueba con texto plano y html (sin attachments)', text, html)
+
+    print "mandando texto plano y attachments"
+    m.send(user, u'prueba con texto plano y attachments', text, attachments=['GmailMail.py'])
+
+    print "mandando html y attachments"
+    m.send(user, u'prueba con html y attachments', html=html, attachments=['GmailMail.py'])
+
+    print "mandando attachments solamente"
+    m.send(user, u'prueba con attachments solamente', attachments=['GmailMail.py'])
+
+    print "mandando todo"
+    m.send(user, u'prueba con todo', text, html, attachments=['GmailMail.py'])
+
 
 Referencias (que recuerdo):
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -195,4 +192,9 @@ Referencias (que recuerdo):
 
 
   CategoryRecetas_
+
+
+
+.. role:: small
+   :class: small
 
