@@ -991,3 +991,9 @@ Sistemas Recomendadores en Python
 *María Emilia Charnelli* 
 
 **Presentación** https://github.com/mcharnelli/PyDayLP2018
+
+Una config para configurarlos a todos
+---------------------------------------------------------------
+*Hernan Lozano*
+
+**Presentación** http://hernantz.github.io/one-configpy-to-config-them-all.html
