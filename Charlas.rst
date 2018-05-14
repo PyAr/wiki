@@ -975,3 +975,18 @@ Concurrencia en Python
 .. _manejando_220kqps.pdf: https://drive.google.com/file/d/0By78YYAMpgAUcm1OOWVwM1d1ZDQ/view?usp=sharing
 
 .. _django_orm_to_win.pdf: https://speakerdeck.com/malderete/django-orm-to-win
+
+PyDay 2018 La Plata
+===============================
+__init__: Introducción a la programación con Python!
+---------------------------------------------------------------
+
+*Berenice Larsen y Andrés Delfino*
+
+**Presentación** https://github.com/pydaylp/pyday/blob/master/charlas/__init___%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n%20con%20Python.pdf
+
+Sistemas Recomendadores en Python
+---------------------------------------------------------------
+
+*María Emilia Charnelli* 
+**Presentación* https://github.com/mcharnelli/PyDayLP2018
