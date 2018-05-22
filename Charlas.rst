@@ -875,7 +875,7 @@ Bindings, mutable default arguments, y otros quilom... detalles
 
 Por `Facundo Batista <http://taniquetil.com.ar/plog/>`_
 
-`Slides <http://www.taniquetil.com.ar/homedevel/presents/pydetalles.odp>`_
+`Slides <http://www.taniquetil.com.ar/homedevel/presents/pydetalles.odp>`__
 
 
 Concurrencia en Python
