@@ -997,3 +997,13 @@ Una config para configurarlos a todos
 *Hernan Lozano*
 
 **Presentación** http://hernantz.github.io/one-configpy-to-config-them-all.html
+
+---------------------------------------------------------------
+*Facundo Batist*
+
+**Como los logs me salvaron el alma** http://blog.taniquetil.com.ar/
+
+---------------------------------------------------------------
+*Nicolas Demarchi*
+
+**¡Me están espiando! ¿Cómo saber con Python si el imperialismo te persigue o te pasaste de Focusyn?** https://speakerdeck.com/gilgamezh/me-estan-espiando-como-saber-con-python-si-el-imperialismo-te-persigue-o-te-pasaste-de-focusyn
