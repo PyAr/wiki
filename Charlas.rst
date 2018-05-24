@@ -998,12 +998,14 @@ Una config para configurarlos a todos
 
 **Presentación**: http://hernantz.github.io/one-configpy-to-config-them-all.html
 
+Como los logs me salvaron el alma
 ---------------------------------------------------------------
-*Facundo Batist*
+*Facundo Batista*
 
-**Como los logs me salvaron el alma**: http://blog.taniquetil.com.ar/
+ **Presentación**: http://blog.taniquetil.com.ar/
 
+¡Me están espiando! ¿Cómo saber con Python si el imperialismo te persigue o te pasaste de Focusyn?
 ---------------------------------------------------------------
 *Nicolas Demarchi*
 
-**¡Me están espiando! ¿Cómo saber con Python si el imperialismo te persigue o te pasaste de Focusyn?**: https://speakerdeck.com/gilgamezh/me-estan-espiando-como-saber-con-python-si-el-imperialismo-te-persigue-o-te-pasaste-de-focusyn
+**Presentación**: https://speakerdeck.com/gilgamezh/me-estan-espiando-como-saber-con-python-si-el-imperialismo-te-persigue-o-te-pasaste-de-focusyn
