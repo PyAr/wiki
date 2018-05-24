@@ -983,27 +983,27 @@ __init__: Introducción a la programación con Python!
 
 *Berenice Larsen y Andrés Delfino*
 
-**Presentación** https://github.com/pydaylp/pyday/blob/master/charlas/__init___%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n%20con%20Python.pdf
+**Presentación**: https://github.com/pydaylp/pyday/blob/master/charlas/__init___%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n%20con%20Python.pdf
 
 Sistemas Recomendadores en Python
 ---------------------------------------------------------------
 
 *María Emilia Charnelli* 
 
-**Presentación** https://github.com/mcharnelli/PyDayLP2018
+**Presentación**: https://github.com/mcharnelli/PyDayLP2018
 
 Una config para configurarlos a todos
 ---------------------------------------------------------------
 *Hernan Lozano*
 
-**Presentación** http://hernantz.github.io/one-configpy-to-config-them-all.html
+**Presentación**: http://hernantz.github.io/one-configpy-to-config-them-all.html
 
 ---------------------------------------------------------------
 *Facundo Batist*
 
-**Como los logs me salvaron el alma** http://blog.taniquetil.com.ar/
+**Como los logs me salvaron el alma**: http://blog.taniquetil.com.ar/
 
 ---------------------------------------------------------------
 *Nicolas Demarchi*
 
-**¡Me están espiando! ¿Cómo saber con Python si el imperialismo te persigue o te pasaste de Focusyn?** https://speakerdeck.com/gilgamezh/me-estan-espiando-como-saber-con-python-si-el-imperialismo-te-persigue-o-te-pasaste-de-focusyn
+**¡Me están espiando! ¿Cómo saber con Python si el imperialismo te persigue o te pasaste de Focusyn?**: https://speakerdeck.com/gilgamezh/me-estan-espiando-como-saber-con-python-si-el-imperialismo-te-persigue-o-te-pasaste-de-focusyn
