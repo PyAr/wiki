@@ -986,26 +986,39 @@ __init__: Introducción a la programación con Python!
 **Presentación**: https://github.com/pydaylp/pyday/blob/master/charlas/__init___%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n%20con%20Python.pdf
 
 Sistemas Recomendadores en Python
----------------------------------------------------------------
+---------------------------------
 
 *María Emilia Charnelli* 
 
 **Presentación**: https://github.com/mcharnelli/PyDayLP2018
 
 Una config para configurarlos a todos
----------------------------------------------------------------
+-------------------------------------
 *Hernan Lozano*
 
 **Presentación**: http://hernantz.github.io/one-configpy-to-config-them-all.html
 
 Como los logs me salvaron el alma
----------------------------------------------------------------
+---------------------------------
 *Facundo Batista*
 
- **Presentación**: http://blog.taniquetil.com.ar/
+**Presentación**: http://blog.taniquetil.com.ar/
 
 ¡Me están espiando! ¿Cómo saber con Python si el imperialismo te persigue o te pasaste de Focusyn?
----------------------------------------------------------------
+--------------------------------------------------------------------------------------------------
 *Nicolas Demarchi*
 
 **Presentación**: https://speakerdeck.com/gilgamezh/me-estan-espiando-como-saber-con-python-si-el-imperialismo-te-persigue-o-te-pasaste-de-focusyn
+
+Blockchain zero administration with python
+------------------------------------------
+*Julio Castro*
+
+**Presentación**: https://es.slideshare.net/JulioCastro27/blockchain-zero-administration-with-python
+
+
+Desarrollando y desplegando aplicaciones Python con Docker
+----------------------------------------------------------
+*Gerónimo Afonso y Matías Ferrigno*
+
+**Presentación**: https://matiferrigno.github.io/slides/pyday18-docker/
