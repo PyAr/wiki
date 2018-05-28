@@ -3,7 +3,7 @@ Conferencias
 ------------
 PyCon 
 *****
-* `PyCon Argenina 2017`_, realizada los días 17, 18 y 19 de Noviembre de 2017 en Córdoba.
+* `PyCon Argentina 2017`_, realizada los días 17, 18 y 19 de Noviembre de 2017 en Córdoba.
 * `Pycon Argentina 2016 </Eventos/Conferencias/PyConAr2016>`_, realizada los días 25, 26 y 27 de Noviembre - Bahía Blanca.
 * `PyCon Argentina 2015`_, realizada los días 12, 13 y 14  de Noviembre de 2015 en Mendoza.
 * `PyCon Argentina 2014`_, realizada los días 13, 14 y 15 de Noviembre de 2014 en Rafaela.
