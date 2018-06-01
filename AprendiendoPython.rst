@@ -80,8 +80,7 @@ quiero leer algo un *poquito* más avanzado:
 * `Inmersión en Python 3 (PDF) <https://inmersionenpython3.googlecode.com/files/inmersionEnPython3.0.11.pdf>`_
 
 * `El tutorial de Django
-  <http://docs.python.org.ar/tutorial/django/index.html>`_ (`PDF
-  <http://readthedocs.org/projects/djangotutorial/downloads/pdf/1.8/>`__)
+  <https://docs.djangoproject.com/es/2.0/intro/>`_
 
 
 Me manejo con el Inglés
