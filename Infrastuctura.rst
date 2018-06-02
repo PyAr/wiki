@@ -41,3 +41,10 @@ A dónde vamos:
 - De ser necesario podemos migrar entre diferentes cloud providers. 
 - Pequeños servicios como Bots (lalita) u otros proyectos se pueden deployar y ser mantenidos por nosotros. 
 - Administrar la infra va a ser más simple y nuevas personas van a poder participar simplemente utilizando nuestro repo de GitHub. 
+
+Quíero participar ¿Cómo hago?
+-----------------------------
+
+- Contactanos!
+- Mira nuestros issues y proponé soluciones: https://github.com/PyAr/pyar_infra/issues
+- Agrega mejoras en esta Wiki.
