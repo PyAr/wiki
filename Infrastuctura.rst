@@ -21,7 +21,7 @@ El equipo de infra está manteniendo este sitio web y la lista de correos.
 - Para la lista de correos tenemos un container LXC corriendo `Mailman <http://www.list.org/>`_
 
 Estos 3 containers están configurados manualmente, como 3 pequeñas mascotas que fueron pasando por las manos de diferentes pyarenses 
-hasta hace un tiempo que llegaron a las manos de @gilgamezh. Uno de los problemas que tenemos es que no tenemos un proceso automatizado
+hasta hace un tiempo que llegaron a las manos de @gilgamezh. Uno de los problemas que queremos resolver actualmente es que no existe un proceso automatizado
 para generar estos servers y tampoco un proceso automatizado para hacer deploy de la página web.
 
 Para solucionar este problema estamos trabajando en migrar nuestra infra con la filosofia de *infrastructura como código*. 
