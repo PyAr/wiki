@@ -30,6 +30,7 @@ Indice
 	Ayuda en proyectos para gente que recién comienza.
 * SciPyar_
 	PyAr_ para ciencia e ingeniería.
-
 * `Ideas para programar`_
 	Un repositorio colectivo de ideas para inspirar a otr@s  (o a vos mismo!) a programar. 
+* Infrastuctura_
+    Documentación de la infrastructura virtual de PyAr (página web, lista de correos, etc)
