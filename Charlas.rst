@@ -1022,3 +1022,33 @@ Desarrollando y desplegando aplicaciones Python con Docker
 *Gerónimo Afonso y Matías Ferrigno*
 
 **Presentación**: https://matiferrigno.github.io/slides/pyday18-docker/
+
+Desarrollo de un segmento terreno satelital de próxima generación con Python
+----------------------------------------------------------------------------
+*Pablo Soligo*
+
+**Presentación**: https://drive.google.com/open?id=0B4q9mzGMZNZ4THJLVkJZQ2Y1S0tYZm1ia0FZMndKVmJfeGcw
+
+Jugando con Python y el robot Cozmo
+-----------------------------------
+*Rafael Villalba*
+
+**Presentación**: https://drive.google.com/open?id=1gFD2asrW15t6oxHRpNtskWmpEhKt8iKWN_3OihdzhCA
+
+Conectando partes con ZeroMQ
+----------------------------
+*Martín Alderete*
+
+**Presentación**: https://drive.google.com/open?id=0B4q9mzGMZNZ4RFgwQXFpdDJPVU9rVjUxWnh5dlVCNEJULVow
+
+Usando Python para asistir al Ethical Hacker
+--------------------------------------------
+*Alejandro Fanjul*
+
+**Presentación**: https://drive.google.com/open?id=0B4q9mzGMZNZ4SmJKV3MwZHNlNzIxMUxhUEgwMGhvSVdmS1Vn
+
+Video Analytics events processing platform
+------------------------------------------
+*Juan Carniglia*
+
+**Presentación**: https://drive.google.com/open?id=0B4q9mzGMZNZ4Qzk5eUY2NHZNalJMeUpzemhmaWtsM3dQV2ZZ
