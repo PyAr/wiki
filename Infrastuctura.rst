@@ -10,7 +10,7 @@ Contacto:
 ---------
 - vía e-mail a infra@ac.python.org.ar
 - *#pyar-infra* en Freenode
-- También podes buscar a `gilgamezh` o `tomasdelvechio` en #pyar o en el `canal de telegram <https://t.me/pythonargentina>`_ de Python Argentina
+- También podes buscar a `gilgamezh`, `tuxman` o `tomasdelvechio` en #pyar o en el `canal de telegram <https://t.me/pythonargentina>`_ de Python Argentina
  
 
 Actualmente la infrastructura virtual de PyAr esta hosteada en `USLA <http://drupal.usla.org.ar/>`_ . Nuestro enorme agradecimiento a ellos por todos estos años de aguante. 
