@@ -13,7 +13,7 @@ Contacto:
 - También podes buscar a `gilgamezh`, `tuxman` o `tomasdelvechio` en #pyar o en el `canal de telegram <https://t.me/pythonargentina>`_ de Python Argentina
  
 
-Actualmente la infrastructura virtual de PyAr esta hosteada en `USLA <http://drupal.usla.org.ar/>`_ . Nuestro enorme agradecimiento a ellos por todos estos años de aguante. 
+Actualmente la infraestructura virtual de PyAr esta hosteada en `USLA <http://drupal.usla.org.ar/>`_ . Nuestro enorme agradecimiento a ellos por todos estos años de aguante. 
 
 El equipo de infra está manteniendo este sitio web y la lista de correos.
 
@@ -24,7 +24,7 @@ Estos 3 containers están configurados manualmente, como 3 pequeñas mascotas qu
 hasta hace un tiempo que llegaron a las manos de @gilgamezh. Uno de los problemas que queremos resolver actualmente es que no existe un proceso automatizado
 para generar estos servers y tampoco un proceso automatizado para hacer deploy de la página web.
 
-Para solucionar este problema estamos trabajando en migrar nuestra infra con la filosofia de *infrastructura como código*. 
+Para solucionar este problema estamos trabajando en migrar nuestra infra con la filosofia de *infraestructura como código*. 
 Charla que puede servir de referencia: https://speakerdeck.com/gilgamezh/infrastructure-as-code-docker-en-todos-lados
 
 
