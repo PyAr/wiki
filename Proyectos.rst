@@ -58,6 +58,10 @@ Proyectos relacionados
 
 Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están relacionados con uno o más de sus miembros:
 
+* `OpenLex <https://github.com/UniversidadDelEste/OpenLex/>`_.
+
+  * Software de gestión para estudios jurídicos
+
 * `Python for PalmOS`_ (en inglés)
 
   * El título ya lo dice todo...
