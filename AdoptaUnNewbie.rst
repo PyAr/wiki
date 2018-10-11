@@ -136,6 +136,8 @@ Mentados buscando mentores
 
 * Sebas Giustra (sebasgiustra): Python, PyQt y Django, en ese orden.
 
+* Ramiro Gallo: Python y Django https://www.linkedin.com/in/ramirogallo/
+
 
 Adopciones en curso
 -------------------
