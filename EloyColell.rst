@@ -20,6 +20,4 @@ Email: ``eloypuntocolellgarabatogmailpuntocom`` GPG_
 
 .. _mistic2: https://mistic2.leloir.org.ar
 
-.. _GPG: http://keys.gnupg.net/pks/lookup?search=Eloy+Colell&op=index
-
 
