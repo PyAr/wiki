@@ -72,6 +72,17 @@ Nos distribuiremos entra casas y el hostel. **Tenemos un cupo limitado de 50 per
 
 Incluyen ropa de cama + el libre uso (Pileta, canchas, SUM, WIFI).
 
+Es posible alojarse en el lugar uno o dos días antes y/o después del PyCamp. Los precios son los siguientes:
+
+* Casa o hostel: $400 por persona por día.
+
+* Apart: $1800 por día (2 personas)
+
+Dado que debemos reservar la/s casa/s o hostel (dependiendo de cuantas personas sean) con anticipación, por favor indicanos si deseas "días extra" al momento de inscribirte.
+
+Esto se abona directamente en el lugar, **no** lo incluyan en el pago de la inscripción.
+
+Tenés tiempo hasta el 15/02/2019 para reservar tu lugar.
 
 Precios e Inscripciones
 -----------------------
@@ -122,6 +133,10 @@ Luego de pagar tienen que mandar un mail a presidencia@ac.python.org.ar indicand
 - DNI
 
 - requerimientos dietarios, si tienen
+
+- si se quedan 0, 1 o 2 días antes y/o después del pycamp (opcional)
+
+- otras observaciones
 
 
 **Estos precios se mantendrán hasta el 15/2, luego se incrementan un 10%.**
