@@ -89,13 +89,13 @@ Precios e Inscripciones
 
 El precio por los cuatro días (incluye las comidas, alojamiento, usos de las instalaciones, WiFi, etc.) es: 
 
-  **$6400** final (IVA incluido)
+  **$7040** final (IVA incluido)
 
 Si sos socie de la Asociación Civil Python Argentina tenés descuento! El precio que aplica es:
 
-  Socies actives: **$5120** final (IVA incluido)
+  Socies actives: **$5632** final (IVA incluido)
 
-  Socies adherentes: **$5760** final (IVA incluido) 
+  Socies adherentes: **$6336** final (IVA incluido) 
   
 Se puede pagar por transferencia/depósito o por Todo Pago con rapipago/pagofacil/tarjetas/etc (con un 5% extra).
 
@@ -114,13 +114,13 @@ Se puede pagar por transferencia/depósito o por Todo Pago con rapipago/pagofaci
 
 * Por Todo Pago - con tarjetas, rapipago, pagofacil, etc (5% extra):
 
-    Socies actives: $5376 
+    Socies actives: $5914 
     https://forms.todopago.com.ar/formulario/commands?command=formulario&fr=1&m=ea7077b251caeb0719a6c7f4a0bbabf4
 
-    Socies adherentes: $6048 
+    Socies adherentes: $6653 
     https://forms.todopago.com.ar/formulario/commands?command=formulario&fr=1&m=91e846bc53f9ec44334200841adf2428
 
-    Resto: $6720 
+    Resto: $7392 
     https://forms.todopago.com.ar/formulario/commands?command=formulario&fr=1&m=ac27734ff45b18321bf25631c47a162d
 
 
@@ -138,8 +138,9 @@ Luego de pagar tienen que mandar un mail a presidencia@ac.python.org.ar indicand
 
 - otras observaciones
 
+Si querés que la empresa donde trabajás te pague el PyCamp, les hacemos factura A (el monto es el "final", pagado por transferencia).
 
-**Estos precios se mantendrán hasta el 15/2, luego se incrementan un 10%.**
+**Hay tiempo para anotarse hasta el 26/2.**
 
 Organizadores:
 --------------
