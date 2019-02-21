@@ -33,3 +33,5 @@ Hackear estos dispositivos, utilizando Micropython o su versión Loboris.
 - Material Bibliográfico: Programming with MicroPython (Nicholas H. Tollervey), MicroPython for ESP32 Development Workshop (Agus Kurniawan), Micropython for ESP32 Doc.
 
 - Software: ampy, picocom (o terminal de puerto serie para conectarse con el esp)
+
+Propone: @gsgerman
