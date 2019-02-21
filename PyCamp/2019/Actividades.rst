@@ -19,3 +19,17 @@ Terminar de emprolijar algunas cosas del Sistema de Miembros de la Asociación C
 El proyecto está `acá <https://github.com/PyAr/asoc_members/>`__.
 
 Propone: FacundoBatista
+
+ESP32 - Micropython:
+--------------------
+.. image:: /wiki/PyCamp/2019/Actividades/attachment/activity.png
+
+Hackear estos dispositivos, utilizando Micropython o su versión Loboris.
+
+- El Proyecto (General): Hacer un framework MVC bajo MicroPython para configurar un ESP32 con propositos generales.
+
+- Para Hackear (hardware): (2)ESP32, (2) Arduino, (1) Arduino Nano, Display touch con lector de tarjeta SD, Lector de Tarjeta SD, ESP-8266 con programador para armar, luces leds, Potenciometros, Display 16x2 I2C, Display 16x4 I2C, display de 7 segmentos 1 dígito, display de 7 segmentos 4 dígitos, relays etc...
+
+- Material Bibliográfico: Programming with MicroPython (Nicholas H. Tollervey), MicroPython for ESP32 Development Workshop (Agus Kurniawan), Micropython for ESP32 Doc.
+
+- Software: ampy, picocom (o terminal de puerto serie para conectarse con el esp)
