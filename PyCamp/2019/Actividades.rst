@@ -42,3 +42,12 @@ Intro a Python
 Si hay personas nuevas en el lenguaje, me animo a dar una intro, adaptando al nivel que haga falta.
 
 Propone: @fisadev
+
+Sateye
+------
+
+Hace rato arranqué y después abandoné una aplicación para visualización de satélites y otras cosas en órbita.
+Hay otras alternativas, pero todas me parecieron siempre re poco usables, por eso quería hacer algo mejor.
+La idea es retomarla y sacar una primer versión andando publicable.
+
+Propone: @fisadev
