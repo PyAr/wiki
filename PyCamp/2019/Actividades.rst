@@ -51,3 +51,11 @@ Hay otras alternativas, pero todas me parecieron siempre re poco usables, por es
 La idea es retomarla y sacar una primer versión andando publicable.
 
 Propone: @fisadev
+
+Espadas! (actividad recreativa)
+-------------------------------
+
+Llevo algunas espadas de práctica y equipo de protección, para el que quiera aprender cosas básicas de artes 
+marciales históricas europeas (no se daban garrotasos a lo bruto, eso es verso de hollywood :p).
+
+Propone: @fisadev
