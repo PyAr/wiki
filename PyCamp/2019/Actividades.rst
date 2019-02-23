@@ -35,3 +35,10 @@ Hackear estos dispositivos, utilizando Micropython o su versión Loboris.
 - Software: ampy, picocom (o terminal de puerto serie para conectarse con el esp)
 
 Propone: @gsgerman
+
+Intro a Python
+--------------
+
+Si hay personas nuevas en el lenguaje, me animo a dar una intro, adaptando al nivel que haga falta.
+
+Propone: @fisadev
