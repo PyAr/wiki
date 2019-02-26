@@ -75,9 +75,10 @@ Hoy hice Grillo, una herramienta que permite mandar datos de una máquina a otra
 y parlantes para transmitir y leer la data por audio. Tiene magias como esta:
 
 .. code::
-   maquina1> grillo listen
-   maquina2> grillo clipboard
- 
+
+    maquina1> grillo listen
+    maquina2> grillo clipboard
+
  
 Y después de escuchar un ruido, máquina 1 tiene en su clipboard el contenido que tiene el clipboard de máquina 2.
 Sirve para mandar textos y archivos también.
