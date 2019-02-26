@@ -67,3 +67,19 @@ Llevo algunas espadas de práctica y equipo de protección, para el que quiera a
 marciales históricas europeas (no se daban garrotasos a lo bruto, eso es verso de hollywood :p).
 
 Propone: @fisadev
+
+Grillo
+------
+
+Hoy hice Grillo, una herramienta que permite mandar datos de una máquina a otra re re fácil, usando micrófono 
+y parlantes para transmitir y leer la data por audio. Tiene magias como esta:
+
+   maquina1> grillo listen
+   maquina2> grillo clipboard
+   
+Y después de escuchar un ruido, máquina 1 tiene en su clipboard el contenido que tiene el clipboard de máquina 2.
+Sirve para mandar textos y archivos también.
+
+Peeeeeeeeeero, la lib que hace la comunicación por audio solo banca mandar mensajes de 32 bytes.
+Durante el pycamp podríamos reemplazarla por otra que no se si es simple de usar, o pensar en algo que use 
+muchos mensajes, coordinando la comunicación, etc.
