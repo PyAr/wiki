@@ -51,6 +51,8 @@ Más info ver `acá <https://github.com/marian-vignau/OpenLex/>`_ o bien unirse 
 
 Mirar resumen tutorial de las features en `video <https://youtu.be/GK1-XE2Nxdc/>`_
 
+Propone: Marian
+
 Sateye
 ------
 
@@ -86,3 +88,12 @@ Sirve para mandar textos y archivos también.
 Peeeeeeeeeero, la lib que hace la comunicación por audio solo banca mandar mensajes de 32 bytes.
 Durante el pycamp podríamos reemplazarla por otra que no se si es simple de usar, o pensar en algo que use 
 muchos mensajes, coordinando la comunicación, etc.
+
+Propone: @fisadev
+
+Coding dojo rotativo rápido
+---------------------------
+
+Juego para divertirnos todos juntos mientras programamos algo sencillo. ¡No importa tu nivel de Python o programación! La idea es divertirse :)
+
+Propone: FacundoBatista
