@@ -149,3 +149,13 @@ Esta vuelta no me resulta muy fácil llevar el ventilador, por lo que voy a llev
 Por ahora es sólo una prueba de concepto que muestra unas navecitas, el objetivo de la actividad es tener algo jugable, y de ser posible que sea también divertido!
 
 Propone: alecu
+
+Juegos de mesa (actividad para la noche)
+----------------------------------------
+
+Llevo algunos juegos de mesa, rápidos y divertidos:
+* Spyfall
+* Secret Hitler
+* y puede que algún otro más.
+
+Propone: alecu
