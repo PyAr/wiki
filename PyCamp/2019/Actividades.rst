@@ -130,3 +130,22 @@ Instancia actual en PyAr: https://eventos.python.org.ar/
 
 
 Propone: FedeG
+
+Algunos arreglos en la Wiki de PyAr
+-----------------------------------
+
+La wiki donde estás mirando esta misma página necesita algunos arreglos.
+Por ejemplo, no es modificable en celulares. Anda como el traste la interacción con el autocorrector.
+Me gustaría poder arreglar esto, pero nunca toqué el código de sitio nuevo de PyAr.
+La idea de fondo esta actividad es que cualquier persona que vaya al PyCamp pueda aprender cómo hacer arreglos en nuestro sitio.
+
+Propone: alecu
+
+Juegos para ventilador con Micropython
+--------------------------------------
+
+El pycamp pasado llevé un ventilador que tiene atornillado una tira de leds, y le estuvimos poniendo micropython.
+Esta vuelta no me resulta muy fácil llevar el ventilador, por lo que voy a llevar un "simulador de ventilador" que permite hacer juegos con micropython usando sólamente una computadora.
+Por ahora es sólo una prueba de concepto que muestra unas navecitas, el objetivo de la actividad es tener algo jugable, y de ser posible que sea también divertido!
+
+Propone: alecu
