@@ -106,3 +106,27 @@ Experimento que quiero hacer: una especie de máquina de estado automática para
 Pero repito, es un experimento. Todavía no sé ni la forma de encarar esta actividad.
 
 Proponer: FacundoBatista
+
+
+EventoL
+-------
+EventoL es un proyecto libre que busca facilitar la administración y difusión de eventos relacionados con el software libre.
+Ya tiene varios años de desarrollo, esta hecho en Django (con python3) y React (en algunas partes del frontend), se viene usando en FLISoL a nivel nacional hace 4 años (también se va a usar en el 2019) y actualmente contamos con el apoyo de USLA para la infraestructura.
+La idea principal es plantearlo como remplazo a las plataformas pagas para las distintas comunidades relacionadas con el software libre.
+En la pycamp pasada no solo se trabajo en el proyecto sino que se confirmo su uso para la comunidad de PyAr, logrando utilizar EventoL en el PyDay de Rosario y en la PyCon 2018 con éxito.
+La propuesta para la pycamp es seguir desarrollando, agregarle las funcionalidades que le falten para lograr su uso en mas eventos y agregar las funcionalidades que hacen falta para que un evento pueda gestionarse completamente.
+
+En cuanto a tareas hay de todo tipo para hacer tanto de infraestructura y configuracion como de desarrollo tanto en la parte frontend como backend.
+
+Les dejo un par de links:
+
+Github: https://github.com/eventoL/eventoL
+
+Documentación: http://eventol.github.io/eventoL/#/
+
+Instancia actual en USLA: https://eventol.flisol.org.ar/
+
+Instancia actual en PyAr: https://eventos.python.org.ar/
+
+
+Propone: FedeG
