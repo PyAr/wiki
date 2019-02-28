@@ -154,8 +154,9 @@ Juegos de mesa (actividad para la noche)
 ----------------------------------------
 
 Llevo algunos juegos de mesa, rápidos y divertidos:
-* Spyfall
-* Secret Hitler
-* y puede que algún otro más.
+
+ * Spyfall
+ * Secret Hitler
+ * y puede que algún otro más.
 
 Propone: alecu
