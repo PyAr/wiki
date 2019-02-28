@@ -97,3 +97,12 @@ Coding dojo rotativo rápido
 Juego para divertirnos todos juntos mientras programamos algo sencillo. ¡No importa tu nivel de Python o programación! La idea es divertirse :)
 
 Propone: FacundoBatista
+
+Experimento: FSM-flow-django-whatever
+-------------------------------------
+
+Experimento que quiero hacer: una especie de máquina de estado automática para sistemas de gestión basados en flujos preestablecidos, con Django, de manera que sea todo automático en función de algunas definiciones. 
+
+Pero repito, es un experimento. Todavía no sé ni la forma de encarar esta actividad.
+
+Proponer: FacundoBatista
