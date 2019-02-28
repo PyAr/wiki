@@ -47,7 +47,7 @@ OpenLex
 ---------
 Sistema para abogados y estudios jurídicos, hecho en web2py. Necesita una buena revisión, pasarlo a la versión nueva del framework, revisarlo, y quererlo un poquito
 
-Más info ver `acá <https://github.com/marian-vignau/OpenLex/>`_ o bien unirse a `grupo Telegram <https://t.me/OpenLex_SL/>`_
+Más info ver `acá <https://github.com/PyAr/OpenLex/>`_ o bien unirse a `grupo Telegram <https://t.me/OpenLex_SL/>`_
 
 Mirar resumen tutorial de las features en `video <https://youtu.be/GK1-XE2Nxdc/>`_
 
