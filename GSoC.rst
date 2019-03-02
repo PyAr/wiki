@@ -64,9 +64,7 @@ El mentoreo es ad-honorem: los fondos cubiertos por Google son re-destinados a l
 
 También buscamos miembros de la comunidad que puedan colaborar en otras tareas, como difundir los proyectos, contactar estudiantes y contestar dudas por la lista de correo o IRC.
 
-Si quieres ayudar, podemos encontrar la forma!
-
-Para más información ver: http://python-gsoc.org
+Si quieres ayudar, podemos encontrar la forma! Para más información ver: http://python-gsoc.org
 
 
 Instrucciones
@@ -112,28 +110,26 @@ Preguntas Frecuentes
 ¿Quienes pueden participar?
 ---------------------------
 
-* Estudiantes: alumno regular de universitarios / institutos nivel superior, mayores de 18 años entre otros requisitos (ver `Eligibility Requirements <https://developers.google.com/open-source/gsoc/faq#what_are_the_eligibility_requirements_for_participation>`_)
+* Estudiantes: **alumno regular** del nivel superior, mayores de 18 años entre otros requisitos (ver `Eligibility Requirements <https://developers.google.com/open-source/gsoc/faq#what_are_the_eligibility_requirements_for_participation>`_)
 * Mentores: ¡todo colaborador es bienvenido!
 
-Los estudiantes para poder ser aceptados deben presentar una "Constancia de Inscripción" 
-de una Entidad Educativa reconocida oficialmente (Universidad o Instituto Terciario), 
-que indique que al 6 de Mayo de 2019 están cursando una carrera acreditada (de grado o post-grado):
-
+Los estudiantes para poder ser aceptados deben presentar una **"Constancia de Inscripción"**
+de una Entidad Educativa reconocida oficialmente (Universidad o Instituto similar),
+que indique que esn cursando al 6 de Mayo de 2019:
 https://developers.google.com/open-source/gsoc/help/proof-of-enrollment
 
-NOTA: los cursos online en general no son aceptados (es requisito ser alumno regular -presencial o a distancia-)
+NOTA: los cursos online no son aceptados. Es requisito ser alumno regular -presencial o a distancia- de una carrera de grado o post-grado con reconocimiento oficial.
 
 ¿Cual es el importe de la beca en U$S?
 --------------------------------------
 
 El monto de la beca lo determina Google basado en la Paridad de Poder Adquisitivo (PPP) de cada país.
 
-Para Argentina 2019, el importe de la beca para estudiantes sería hasta: **U$D 4200** (dólares); se paga en 3 tramos dependiendo del avance del proyecto 
+Para Argentina 2019, el importe de la beca para estudiantes sería hasta: **USD 4200** (Dólares EE.UU.); se paga en 3 tramos dependiendo del avance del proyecto 
 (mientras el estudiante supere las evaluaciones y continúe en el GSoC):
-
 https://developers.google.com/open-source/gsoc/help/student-stipends
 
-NOTA: los mentores y administradores colaboran ad-honorem (voluntariado)
+NOTA: los mentores y administradores colaboran ad-honorem (voluntariado), por lo que no reciben ninguna retribución económica.
 
 ¿Cuanto tiempo hay que dedicarle al GSoC?
 -----------------------------------------
