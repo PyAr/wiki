@@ -181,17 +181,17 @@ Te alentamos a que busques y presentes solicitudes para otros `Proyectos Python 
 Amigos de la PSF: 
 
 * `Open Astronomy <https://openastronomy.org/gsoc/gsoc2019/#/projects>`_ 
-* `GNU Mailman <https://wiki.list.org/DEV/Google%20Summer%20of%20Code%202019>`_:
+* `GNU Mailman <https://wiki.list.org/DEV/Google%20Summer%20of%20Code%202019>`_
 
 Cronograma y Fechas Límite 2019:
 --------------------------------
 
-* 4 de Febrero - Limite para convocatoria Proyectos de Sub-Organizaciones bajo la PSF
-* 5 de Marzo - Cierre convocatoria extendida Proyectos de Sub-Organizaciones bajo la PSF
-* 25 de Marzo - 9 de Abril - período para envío de solicitudes de Estudiantes (¡no hay extensión!).
-* 26 de Junio - deadline Evaluación Fase 1 (para mentores)
-* 24 de Julio - deadline Evaluación Fase 2 (para mentores)
-* 31 de Agosto - deadline Evaluación Final
+* **4 de Febrero** - Limite para convocatoria Proyectos de Sub-Organizaciones bajo la PSF
+* **5 de Marzo** - Cierre convocatoria extendida Proyectos de Sub-Organizaciones bajo la PSF
+* **25 de Marzo** - 9 de Abril - período para envío de solicitudes de Estudiantes (¡no hay extensión!).
+* **26 de Junio** - deadline Evaluación Fase 1 (para mentores)
+* **24 de Julio** - deadline Evaluación Fase 2 (para mentores)
+* **31 de Agosto** - deadline Evaluación Final
 
 Blogs y Referencias sobre el GSoC
 =================================
