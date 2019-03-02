@@ -54,7 +54,7 @@ Mentores:
 
 ¿Interestado en voluntariado con `Python Software Foundation <https://www.python.org/psf/>`_ y la `Asociación Civil Python Argentina <https://ac.python.org.ar>`_?
 
-Mentorear a los estudiantes requiere cierta dedicación, pero es una oportunidad de brindarles una crecimiento en su formación sobre código abierto y avanzar proyectos de software libre.
+Mentorear a los estudiantes requiere cierta dedicación, pero es una oportunidad de brindarles un crecimiento en su formación sobre código abierto y avanzar proyectos de software libre.
 
 Mentoreamos en grupo, por lo que si sólo tienes tiempo limitado (por ej. para revisar código), puedes unirte a otros mentores y hacerlo en equipo.
 
