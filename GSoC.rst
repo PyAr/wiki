@@ -55,15 +55,15 @@ Mentores:
 ¿Interestado en voluntariado con `Python Software Foundation <https://www.python.org/psf/>`_ y la `Asociación Civil Python Argentina <https://ac.python.org.ar>`_?
 
 Mentorear a los estudiantes requiere cierta dedicación, pero es una oportunidad de brindarles un crecimiento en su formación sobre código abierto y avanzar proyectos de software libre.
-
 Mentoreamos en grupo, por lo que si sólo tienes tiempo limitado (por ej. para revisar código), puedes unirte a otros mentores y hacerlo en equipo.
 
 La dedicación aproximada es de **1 hora por semana** (para seguimiento periódico) y quizás unas horas más para revisión de código o preguntas (y evaluaciones mensuales).
-
 Los estudiantes más experimentados no requieren prácticamente supervisión, y podemos acompañarte con los que necesiten más ayuda.
 
 **IMPORTANTE**: El proceso de selección y otras tareas administrativas están siendo organizadas por miembros de la Asociación Civil, 
 para disminuir el esfuerzo de los mentores, asi pueden enfocarse en las cuestiones técnicas de los proyectos.
+
+El mentoreo es ad-honorem: los fondos cubiertos por Google son re-destinados a los distintos programas de ayuda financiera de la PSF.
 
 También buscamos miembros de la comunidad que puedan colaborar en otras tareas, como difundir los proyectos, contactar estudiantes y contestar dudas por la lista de correo o IRC.
 
