@@ -10,7 +10,7 @@ TL;DR:
 Proyectos Tentativos:
 =====================
 
-La Asociación Civil Python Argentina Civil es una organización sin fines de lucro de programadores
+La `Asociación Civil Python Argentina Civil </wiki/AsociacionCivil>`_ es una organización sin fines de lucro de programadores
 con foco en proyectos de la comunidad, principalmente de habla hispana y latinoamericanos:
 
 * **Iniciativas Educativas** (`CDPedia <https://github.com/PyAr/CDPedia>`__: Wikipedia offline, `PyZombis <https://github.com/PyAr/PyZombis>`__: MOOC Español, Tutoriales de Python)
@@ -25,7 +25,7 @@ Revisar frecuentemente `Página de Ideas <https://github.com/orgs/PyAr/projects>
 
 Para ver todos los proyectos de la comunidad Python Argentina: `Listado </wiki/Proyectos>`__ y `Repositorio <http://www.github.com/PyAr>`__
 
-¡Tenés una idea interesante para proponer o quieres mentorear? ¡Contáctanos en secretaria+gsoc2019@ac.python.org.ar!
+¡Tenés una idea interesante para proponer o querés mentorear? ¡Contáctanos en secretaria+gsoc2019@ac.python.org.ar!
 
 Como empezar:
 =============
@@ -45,9 +45,6 @@ Cualquier experiencia con software libre te ayudará a prepararte para el GSoC, 
 
 **IMPORTANTE**: Si bien las comunicaciones con Google deben ser en **Inglés**, ¡podemos ayudarte con las traducciones y redacciones para que puedas participar! 
 No te preocupes, el día a día y documentación en general están en **Español**.
-
-La interacción principal se realizará por la `Lista De Correo de PyAr </lista/>`_.
-Para más información ver `Página de Ideas <https://github.com/orgs/PyAr/projects>`_.
 
 Mentores:
 =========
@@ -79,7 +76,7 @@ Si quieres participar como estudiante, por favor sigue los siguientes lineamient
 
 1. **¡Preséntate!**
 
-   Escribe a la lista de coreo pyar@python.org.ar (para preguntas generales del GSoC: secretaria+gsoc2019@ac.python.org.ar). Indicar claramente:
+   Escribe a la `Lista De Correo de PyAr </lista/>`_ pyar@python.org.ar (para preguntas generales del GSoC: secretaria+gsoc2019@ac.python.org.ar). Indicar claramente:
 
    * Por qué quieres participar del GSoC, brevemente comenta tu experiencia y expectativas
    * Que proyecto preferirías: revisa la página de `ideas <https://github.com/orgs/PyAr/projects/1>`_
