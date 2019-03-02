@@ -1,16 +1,36 @@
 TL;DR: 
- * Los **Estudiantes** reciben becas para trabajar programando código abierto
- * Los **Proyectos** encuentran nuevos colaboradores y mentorean la nueva generación de desarrolladores
+ * Los **Estudiantes** reciben **becas** para trabajar programando **código abierto**
+ * Los **Proyectos** encuentran nuevos colaboradores y **mentorean** la nueva generación de desarrolladores
 
 .. class:: alert alert-info
 
   El `Google Summer of Code <https://summerofcode.withgoogle.com>`__ (**GSoC**) es un programa global que ofrece la oportunidad a estudiantes 
   universitarios de recibir una beca para contribuir a proyectos open source por un período de tres meses.
 
+Proyectos Tentativos:
+=====================
+
+La Asociación Civil Python Argentina Civil es una organización sin fines de lucro de programadores
+con foco en proyectos de la comunidad, principalmente de habla hispana y latinoamericanos:
+
+* Iniciativas Educativas (`CDPedia <https://github.com/PyAr/CDPedia>`__: Wikipedia offline, `PyZombis <https://github.com/PyAr/PyZombis>`__: MOOC Español, Tutoriales de Python)
+* Herramientas gestión comunitaria (`PyArWeb <https://github.com/PyAr/PyArWeb>`__: Sitio local, `asoc_members <https://github.com/PyAr/asoc_members>`__: administración de socios)
+* Software para Abogados y Contadores (`OpenLex <https://github.com/PyAr/OpenLex>`__: manejo de estudios jurídicos y oficinas judiciales, `PyAFIP WS <https://github.com/PyAr/PyAfipWS>`__: factura electrónica y aplicativos)
+* Herramientas para Desarrolladores (`fades <https://github.com/PyAr/fades>`__: easy virtualenv wrapper)
+
+Este año estamos participaremos en el `"Python Summer of Code" <http://python-gsoc.org/index.html#ideas>`_ (bajo la organización general de la `PSF <https://summerofcode.withgoogle.com/>`_).
+
+**NOTA**: por una cuestión administrativa y disponibilidad de mentores, la disponibilidad de proyectos en el GSoC es acotada.
+Revisar frecuentemente `Página de Ideas <https://github.com/orgs/PyAr/projects>`_
+
+Para ver todos los proyectos de la comunidad Python Argentina: `Listado </wiki/Proyectos>`__ y `Repositorio <http://www.github.com/PyAr>`__
+
+¡Tenés una idea interesante para proponer o quieres mentorear? ¡Contáctanos en secretaria+gsoc2019@ac.python.org.ar!
+
 Como empezar:
 =============
 
-La lista de proyectos tentativos para participar en Python Argentina está publicada en GitHub: https://github.com/orgs/PyAr/projects/1
+El detalle de los proyectos e ideas tentativas para participar en GSoC está publicada en GitHub: https://github.com/orgs/PyAr/projects/1
 
 Elegir un proyecto es una decisión muy personal. 
 Deberías decidirte por algo que te interese, algunos consejos:
@@ -23,10 +43,16 @@ Deberías decidirte por algo que te interese, algunos consejos:
 
 Cualquier experiencia con software libre te ayudará a prepararte para el GSoC, ¡no te preocupes por que proyecto elijes primero y no tengas miedo de cambiar tu opinión!
 
+**IMPORTANTE**: Si bien las comunicaciones con Google deben ser en **Inglés**, ¡podemos ayudarte con las traducciones y redacciones para que puedas participar! 
+No te preocupes, el día a día y documentación en general están en **Español**.
+
+La interacción principal se realizará por la `Lista De Correo de PyAr </lista/>`_.
+Para más información ver `Página de Ideas <https://github.com/orgs/PyAr/projects>`_.
+
 Mentores:
 =========
 
-¿Interestado en voluntariado con `Python Software Foundation <https://www.python.org/psf/>`__ y la `Asociación Civil Python Argentina <https://ac.python.org.ar>`__?
+¿Interestado en voluntariado con `Python Software Foundation <https://www.python.org/psf/>`_ y la `Asociación Civil Python Argentina <https://ac.python.org.ar>`_?
 
 Mentorear a los estudiantes requiere cierta dedicación, pero es una oportunidad de brindarles una crecimiento en su formación sobre código abierto y avanzar proyectos de software libre.
 
