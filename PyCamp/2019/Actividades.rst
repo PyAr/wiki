@@ -162,7 +162,7 @@ Llevo algunos juegos de mesa, rápidos y divertidos:
 Propone: alecu
 
 PyTest en 20 minutos
-====================
+--------------------
 
 Charlita/discusión de cómo usar pytest, estructurar los tests, reutilizar código, etc.
 
