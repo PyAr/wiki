@@ -160,3 +160,10 @@ Llevo algunos juegos de mesa, rápidos y divertidos:
  * y puede que algún otro más.
 
 Propone: alecu
+
+PyTest en 20 minutos
+====================
+
+Charlita/discusión de cómo usar pytest, estructurar los tests, reutilizar código, etc.
+
+Propone: fisa (pide: facu)
