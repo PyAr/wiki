@@ -130,6 +130,7 @@ Para Argentina 2019, el importe de la beca para estudiantes sería hasta: **USD 
 https://developers.google.com/open-source/gsoc/help/student-stipends
 
 NOTA: los mentores y administradores colaboran ad-honorem (voluntariado), por lo que no reciben ninguna retribución económica.
+Google dona USD 500 a las organizaciones por cada proyecto, que son redestinados a `programas de ayuda financiera de la PSF <https://www.python.org/psf/grants/>`_
 
 ¿Cuanto tiempo hay que dedicarle al GSoC?
 -----------------------------------------
@@ -148,8 +149,8 @@ lo habitual es 1 hora por semana para seguimiento periodico (y puede estar distr
 El trabajo administrativo más pesado lo haremos desde la Asociación Civil.
 
 
-¿Cuantos *Slots* hay para estudiantes del el proyecto X?
---------------------------------------------------------
+¿Cuantos *Slots* hay para estudiantes del proyecto X?
+-----------------------------------------------------
 
 Al ser nuestra primera participación, es posible que sólo tengamos disponibilidad para 1 o 2 estudiantes
 (en total para proyectos dentro de Python Argentina).
