@@ -167,3 +167,17 @@ PyTest en 20 minutos
 Charlita/discusión de cómo usar pytest, estructurar los tests, reutilizar código, etc.
 
 Propone: fisa (pide: facu)
+
+Chat para PyCamps
+--------------------
+
+Un chat descentralizado sin autenticación, que autodescubra los clientes, 
+y sin necesidad de internet, para los eventos como el pycamp. 
+Algunas funcionalidades:
+- Chat uno a uno
+- Chat grupales
+- Canales
+- Envío de archivos uno a uno
+
+Excusa: aprender algo de asyncio y pyQT/kivy/etc para la interfaz
+Propone: matuu
