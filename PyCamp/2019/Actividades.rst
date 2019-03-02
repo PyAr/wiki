@@ -60,6 +60,8 @@ Hace rato arranqué y después abandoné una aplicación para visualización de 
 Hay otras alternativas, pero todas me parecieron siempre re poco usables, por eso quería hacer algo mejor.
 La idea es retomarla y sacar una primer versión andando publicable.
 
+Repo: https://github.com/fisadev/sateye
+
 Propone: @fisadev
 
 Espadas! (actividad recreativa)
@@ -88,6 +90,8 @@ Sirve para mandar textos y archivos también.
 Peeeeeeeeeero, la lib que hace la comunicación por audio solo banca mandar mensajes de 32 bytes.
 Durante el pycamp podríamos reemplazarla por otra que no se si es simple de usar, o pensar en algo que use 
 muchos mensajes, coordinando la comunicación, etc.
+
+Repo: https://github.com/fisadev/grillo
 
 Propone: @fisadev
 
