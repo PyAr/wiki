@@ -155,7 +155,7 @@ El trabajo administrativo más pesado lo haremos desde la Asociación Civil.
 Al ser nuestra primera participación, es posible que sólo tengamos disponibilidad para 1 o 2 estudiantes
 (en total para proyectos dentro de Python Argentina).
 
-Te alentamos a que busques y presentes solicitudes para otros `Proyectos Python bajo la PSF <http://python-gsoc.org/#ideas>`_: 
+Te alentamos a que busques y también presentes solicitudes para otros `Proyectos Python bajo la PSF <http://python-gsoc.org/#ideas>`_: 
 
 * `MNE-Python <https://github.com/mne-tools/mne-python/wiki/GSOC-Ideas>`_ (processing electroencephalography (EEG) and magnetoencephalography (MEG) data)
 * `PySAL <https://github.com/pysal/pysal/wiki/Google-Summer-of-Code-2019>`_ (quantitative analysis of geographic data)
@@ -176,6 +176,13 @@ Amigos de la PSF:
 
 * `Open Astronomy <https://openastronomy.org/gsoc/gsoc2019/#/projects>`_ 
 * `GNU Mailman <https://wiki.list.org/DEV/Google%20Summer%20of%20Code%202019>`_
+
+Cada estudiante puede enviar hasta 3 solicitudes en total (mismo o distinto proyecto).
+Cada proyecto necesita al menos 2 mentores (uno principal y otro de "backup").
+
+El GSoC es un programa muy demandado a nivel mundial, por lo que en general sólo las propuestas más elaboradas son seleccionadas.
+
+¡Te recomendamos comenzar cuanto antes si estás interezado!
 
 Cronograma y Fechas Límite 2019:
 --------------------------------
