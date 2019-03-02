@@ -121,7 +121,7 @@ El trabajo administrativo más pesado lo haremos desde la Asociación Civil.
 --------------------------------------------------------
 
 Al ser nuestra primera participación, es posible que sólo tengamos disponibilidad para 1 o 2 estudiantes
-(para proyectos dentro de Python Argentina).
+(en total para proyectos dentro de Python Argentina).
 
 Te alentamos a que busques y presentes solicitudes para otros `Proyectos Python bajo la PSF <http://python-gsoc.org/#ideas>`_: 
 
