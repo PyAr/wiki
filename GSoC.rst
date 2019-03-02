@@ -185,7 +185,9 @@ Cronograma y Fechas Límite 2019:
 
 * **4 de Febrero** - Limite para convocatoria Proyectos de Sub-Organizaciones bajo la PSF
 * **5 de Marzo** - Cierre convocatoria extendida Proyectos de Sub-Organizaciones bajo la PSF
-* **25 de Marzo** - 9 de Abril - período para envío de solicitudes de Estudiantes (¡no hay extensión!).
+* **25 de Marzo** - **9 de Abril** - período para envío de solicitudes de Estudiantes (¡no hay extensión!).
+* **6 de Mayo**: Anuncio de los poyectos de estudiantes seleccionados e inicia el *community bonding* ("aclimatación")
+* **27 de Mayo**: ¡Los estudiantes comienzan a programar!
 * **26 de Junio** - deadline Evaluación Fase 1 (para mentores)
 * **24 de Julio** - deadline Evaluación Fase 2 (para mentores)
 * **31 de Agosto** - deadline Evaluación Final
@@ -194,7 +196,7 @@ Blogs y Referencias sobre el GSoC
 =================================
 
 * MarianoReingart_: https://reingart.blogspot.com/2017/10/gsoc2017.html (estudiante / mentor - en español)
-* Google Summer of Code Guide: https://google.github.io/gsocguides/student/
+* Google Summer of Code Guides: https://google.github.io/gsocguides (`Estudiantes <https://google.github.io/gsocguides/student/>`_ - `Mentores <https://google.github.io/gsocguides/mentor/>`_)
 * GSoC FAQ: https://developers.google.com/open-source/gsoc/faq
 * Python GSOC blogs: https://blogs.python-gsoc.org/
 * PSF 2011: http://pyfound.blogspot.com/2011/03/gsoc-student-applications-open.html
