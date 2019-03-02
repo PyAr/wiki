@@ -77,7 +77,7 @@ Instrucciones
 
 Si quieres participar como estudiante, por favor sigue los siguientes lineamientos:
 
-1. Preséntate!
+1. **¡Preséntate!**
 
    Escribe a la lista de coreo pyar@python.org.ar (para preguntas generales del GSoC: secretaria+gsoc2019@ac.python.org.ar). Indicar claramente:
 
@@ -85,7 +85,7 @@ Si quieres participar como estudiante, por favor sigue los siguientes lineamient
    * Que proyecto preferirías: revisa la página de `ideas <https://github.com/orgs/PyAr/projects/1>`_
    * Cual es tu experiencia previa, habilidades Python, django, hg/git, js, etc.
 
-2. Corrige un bug!
+2. **¡Corrige un bug!**
 
    Pide por un ticket simple (good first issue tag). Por ejemplo, mirá `CDPedia <https://github.com/PyAr/CDPedia/issues>`_
 
@@ -93,9 +93,10 @@ Si quieres participar como estudiante, por favor sigue los siguientes lineamient
    * Forkea el repositorio del proyecto e intenta solucionar el ticket para tu proyecto deseado
    * Discute con los mentores potenciales tu arreglo, ¡creando un Pull Request tan pronto como sea posible!
 
-3. Escribe una Propuesta
+3. **Escribe una Propuesta**
 
-   * Selecciona la idea de proyecto y escribe una propuesta detallada usando Google Docs (por adelantado!)
+   Selecciona la idea de proyecto y escribe una propuesta detallada usando Google Docs (por adelantado!)
+
    * Por favor abre y lee el detalle de la idea por adelantado. Pregunta si tienes dudas.
    * Define 3 hitos & entregables (i.e. Prueba-de-Concepto, Prototipo, Demo Final)
    * Planifica las tareas (objetivos de alto nivel para cada hito)
