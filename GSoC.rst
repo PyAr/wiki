@@ -13,10 +13,10 @@ Proyectos Tentativos:
 La Asociación Civil Python Argentina Civil es una organización sin fines de lucro de programadores
 con foco en proyectos de la comunidad, principalmente de habla hispana y latinoamericanos:
 
-* Iniciativas Educativas (`CDPedia <https://github.com/PyAr/CDPedia>`__: Wikipedia offline, `PyZombis <https://github.com/PyAr/PyZombis>`__: MOOC Español, Tutoriales de Python)
-* Herramientas gestión comunitaria (`PyArWeb <https://github.com/PyAr/PyArWeb>`__: Sitio local, `asoc_members <https://github.com/PyAr/asoc_members>`__: administración de socios)
-* Software para Abogados y Contadores (`OpenLex <https://github.com/PyAr/OpenLex>`__: manejo de estudios jurídicos y oficinas judiciales, `PyAFIP WS <https://github.com/PyAr/PyAfipWS>`__: factura electrónica y aplicativos)
-* Herramientas para Desarrolladores (`fades <https://github.com/PyAr/fades>`__: easy virtualenv wrapper)
+* **Iniciativas Educativas** (`CDPedia <https://github.com/PyAr/CDPedia>`__: Wikipedia offline, `PyZombis <https://github.com/PyAr/PyZombis>`__: MOOC Español, Tutoriales de Python)
+* **Herramientas gestión comunitaria** (`PyArWeb <https://github.com/PyAr/PyArWeb>`__: Sitio local, `asoc_members <https://github.com/PyAr/asoc_members>`__: administración de socios)
+* **Software para Abogados y Contadores** (`OpenLex <https://github.com/PyAr/OpenLex>`__: manejo de estudios jurídicos y oficinas judiciales, `PyAFIP WS <https://github.com/PyAr/PyAfipWS>`__: factura electrónica y aplicativos)
+* **Herramientas para Desarrolladores** (`fades <https://github.com/PyAr/fades>`__: easy virtualenv wrapper)
 
 Este año estamos participaremos en el `"Python Summer of Code" <http://python-gsoc.org/index.html#ideas>`_ (bajo la organización general de la `PSF <https://summerofcode.withgoogle.com/>`_).
 
@@ -70,6 +70,43 @@ También buscamos miembros de la comunidad que puedan colaborar en otras tareas,
 Si quieres ayudar, podemos encontrar la forma!
 
 Para más información ver: http://python-gsoc.org
+
+
+Instrucciones
+=============
+
+Si quieres participar como estudiante, por favor sigue los siguientes lineamientos:
+
+1. Preséntate!
+
+   Escribe a la lista de coreo pyar@python.org.ar (para preguntas generales del GSoC: secretaria+gsoc2019@ac.python.org.ar). Indicar claramente:
+
+   * Por qué quieres participar del GSoC, brevemente comenta tu experiencia y expectativas
+   * Que proyecto preferirías: revisa la página de `ideas <https://github.com/orgs/PyAr/projects/1>`_
+   * Cual es tu experiencia previa, habilidades Python, django, hg/git, js, etc.
+
+2. Corrige un bug!
+
+   Pide por un ticket simple (good first issue tag). Por ejemplo, mirá `CDPedia <https://github.com/PyAr/CDPedia/issues>`_
+
+   * Create una cuenta en GitHub (si aún no tienes una)
+   * Forkea el repositorio del proyecto e intenta solucionar el ticket para tu proyecto deseado
+   * Discute con los mentores potenciales tu arreglo, ¡creando un Pull Request tan pronto como sea posible!
+
+3. Escribe una Propuesta
+
+   * Selecciona la idea de proyecto y escribe una propuesta detallada usando Google Docs (por adelantado!)
+   * Por favor abre y lee el detalle de la idea por adelantado. Pregunta si tienes dudas.
+   * Define 3 hitos & entregables (i.e. Prueba-de-Concepto, Prototipo, Demo Final)
+   * Planifica las tareas (objetivos de alto nivel para cada hito)
+   * Describe el criterio de aceptación ("Producto Mínimo Viable" de cada fase)
+   * Comparte un borrador tempranamente y discute tu enfoque en la lista de correo
+
+IMPORTANTE:
+
+* Propuestas tardías, incompleta o de baja calidad no serán consideradas. El tiempo de los Mentores y disponibilidad de slots para estudiantes son limitados, por lo que haz preguntas inteligentes por adelantado y pide feedback frecuentemente.
+* Las solicitudes de último minuto en general son señal de problemas futuros (para vos y para nosotros, ¡por favor evítalo!). Las propuestas sin ninguna contribución previa en el repositorio (i.e. bug-fix issue) serán rechazados.
+* Se espera que le tengas prácticamente una dedicación completa al GSoC, por lo que planifica apropiadamente y avisa de cualquier otro compromiso (exámenes, trabajo, vacaciones, viajes, etc.)
 
 Preguntas Frecuentes
 ====================
