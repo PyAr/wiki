@@ -76,9 +76,9 @@ Si quieres participar como estudiante, por favor sigue los siguientes lineamient
 
    Escribe a la `Lista De Correo de PyAr </lista/>`_ pyar@python.org.ar (para preguntas generales del GSoC: secretaria+gsoc2019@ac.python.org.ar). Indicar claramente:
 
-   * Por qué quieres participar del GSoC, brevemente comenta tu experiencia y expectativas
-   * Que proyecto preferirías: revisa la página de `ideas <https://github.com/orgs/PyAr/projects/1>`_
-   * Cual es tu experiencia previa, habilidades Python, django, hg/git, js, etc.
+   * ¿Por qué querés participar del GSoC?, brevemente comenta tu experiencia y expectativas
+   * ¿Qué proyecto preferirías?: revisa la página de `ideas <https://github.com/orgs/PyAr/projects/1>`_
+   * ¿Cuál es tu experiencia previa?, habilidades Python, django, hg/git, js, etc.
 
 2. **¡Corrige un bug!**
 
@@ -100,7 +100,7 @@ Si quieres participar como estudiante, por favor sigue los siguientes lineamient
 
 IMPORTANTE:
 
-* Propuestas tardías, incompleta o de baja calidad no serán consideradas. El tiempo de los Mentores y disponibilidad de slots para estudiantes son limitados, por lo que haz preguntas inteligentes por adelantado y pide feedback frecuentemente.
+* Propuestas tardías, incompletas o de baja calidad no serán consideradas. El tiempo de los Mentores y disponibilidad de slots para estudiantes son limitados, por lo que haz preguntas inteligentes por adelantado y pide feedback frecuentemente.
 * Las solicitudes de último minuto en general son señal de problemas futuros (para vos y para nosotros, ¡por favor evítalo!). Las propuestas sin ninguna contribución previa en el repositorio (i.e. bug-fix issue) serán rechazados.
 * Se espera que le tengas prácticamente una dedicación completa al GSoC, por lo que planifica apropiadamente y avisa de cualquier otro compromiso (exámenes, trabajo, vacaciones, viajes, etc.)
 
@@ -130,7 +130,7 @@ Para Argentina 2019, el importe de la beca para estudiantes sería hasta: **USD 
 https://developers.google.com/open-source/gsoc/help/student-stipends
 
 NOTA: los mentores y administradores colaboran ad-honorem (voluntariado), por lo que no reciben ninguna retribución económica.
-Google dona USD 500 a las organizaciones por cada proyecto, que son redestinados a `programas de ayuda financiera de la PSF <https://www.python.org/psf/grants/>`_
+Google dona USD 500 a las organizaciones por cada proyecto aceptado, que son redestinados a `programas de ayuda financiera de la PSF <https://www.python.org/psf/grants/>`_
 
 ¿Cuanto tiempo hay que dedicarle al GSoC?
 -----------------------------------------
@@ -182,7 +182,7 @@ Cada proyecto necesita al menos 2 mentores (uno principal y otro de "backup").
 
 El GSoC es un programa muy demandado a nivel mundial, por lo que en general sólo las propuestas más elaboradas son seleccionadas.
 
-¡Te recomendamos comenzar cuanto antes si estás interezado!
+¡Te recomendamos comenzar cuanto antes si estás interesado!
 
 Cronograma y Fechas Límite 2019:
 --------------------------------
