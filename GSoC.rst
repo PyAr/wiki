@@ -18,7 +18,7 @@ con foco en proyectos de la comunidad, principalmente de habla hispana y latinoa
 * **Software para Abogados y Contadores** (`OpenLex <https://github.com/PyAr/OpenLex>`__: manejo de estudios jurídicos y oficinas judiciales, `PyAFIP WS <https://github.com/PyAr/PyAfipWS>`__: factura electrónica y aplicativos)
 * **Herramientas para Desarrolladores** (`fades <https://github.com/PyAr/fades>`__: easy virtualenv wrapper)
 
-Este año estamos participaremos en el `"Python Summer of Code" <http://python-gsoc.org/index.html#ideas>`_ (bajo la organización general de la `PSF <https://summerofcode.withgoogle.com/>`_).
+Este año participaremos en el `"Python Summer of Code" <http://python-gsoc.org/index.html#ideas>`_ (bajo la organización general de la `PSF <https://summerofcode.withgoogle.com/>`_).
 
 **NOTA**: por una cuestión administrativa y disponibilidad de mentores, la disponibilidad de proyectos en el GSoC es acotada.
 Revisar frecuentemente `Página de Ideas <https://github.com/orgs/PyAr/projects>`_
@@ -49,7 +49,7 @@ No te preocupes, el día a día y documentación en general están en **Español
 Mentores:
 =========
 
-¿Interesado en voluntariado con `Python Software Foundation <https://www.python.org/psf/>`_ y la `Asociación Civil Python Argentina <https://ac.python.org.ar>`_?
+¿Interesado en voluntariado con la `Python Software Foundation <https://www.python.org/psf/>`_ y la `Asociación Civil Python Argentina <https://ac.python.org.ar>`_?
 
 Mentorear a los estudiantes requiere cierta dedicación, pero es una oportunidad de brindarles un crecimiento en su formación sobre código abierto y avanzar proyectos de software libre.
 Mentoreamos en grupo, por lo que si sólo tienes tiempo limitado (por ej. para revisar código), puedes unirte a otros mentores y hacerlo en equipo.
@@ -63,7 +63,6 @@ para disminuir el esfuerzo de los mentores, así pueden enfocarse en las cuestio
 El mentoreo es ad-honorem: los fondos cubiertos por Google son re-destinados a los distintos programas de ayuda financiera de la PSF.
 
 También buscamos miembros de la comunidad que puedan colaborar en otras tareas, como difundir los proyectos, contactar estudiantes y contestar dudas por la lista de correo o IRC.
-
 Si quieres ayudar, podemos encontrar la forma! Para más información ver: http://python-gsoc.org
 
 
@@ -82,10 +81,11 @@ Si quieres participar como estudiante, por favor sigue los siguientes lineamient
 
 2. **¡Corrige un bug!**
 
-   Pide por un ticket simple (good first issue tag). Por ejemplo, mirá `CDPedia <https://github.com/PyAr/CDPedia/issues>`_
+   Pide por un ticket simple (good first issue tag). Por ejemplo, mirá `CDPedia <https://github.com/PyAr/CDPedia/issues>`_, `PyZombs <https://github.com/PyAr/PyZombis/issues>`_,
+   `OpenLex <https://github.com/PyAr/OpenLex/issues>`_, `PyAfipWS <https://github.com/reingart/PyAfipWs/issues>`_
 
-   * Create una cuenta en GitHub (si aún no tienes una)
-   * Forkea el repositorio del proyecto e intenta solucionar el ticket para tu proyecto deseado
+   * Create una cuenta en GitHub (si aún no tenés una)
+   * Forkea el repositorio del proyecto deseado e intenta solucionar el ticket
    * Discute con los mentores potenciales tu arreglo, ¡creando un Pull Request tan pronto como sea posible!
 
 3. **Escribe una Propuesta**
