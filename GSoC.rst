@@ -73,7 +73,8 @@ Si quieres participar como estudiante, por favor sigue los siguientes lineamient
 
 1. **¡Preséntate!**
 
-   Escribe a la `Lista De Correo de PyAr </lista/>`_ pyar@python.org.ar (para preguntas generales del GSoC: secretaria+gsoc2019@ac.python.org.ar). Indicar claramente:
+   Escribe a el `Grupo de Google <https://groups.google.com/d/forum/pyar-gsoc>`_ pyar-gsoc@@googlegroups.com 
+   (para preguntas generales del GSoC: secretaria+gsoc2019@ac.python.org.ar). Indicar claramente:
 
    * ¿Por qué querés participar del GSoC?, brevemente comenta tu experiencia y expectativas
    * ¿Qué proyecto preferirías?: revisa la página de `ideas <https://github.com/orgs/PyAr/projects/1>`_
