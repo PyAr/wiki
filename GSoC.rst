@@ -174,6 +174,7 @@ Te alentamos a que busques y también presentes solicitudes para otros `Proyecto
 * `TARDIS <http://opensupernova.org/tardis_gsoc2019/doku.php>`_ (open-source code to explore observations of supernovae)
 * `LiberTEM <https://libertem.github.io/LiberTEM/gsoc.html>`_ (platform for high-throughput distributed processing of pixelated scanning transmission electron microscopy (STEM))
 * `Panda3D <https://www.panda3d.org/gsoc-2019-ideas>`_ (framework for 3D rendering and games)
+* `Plone CMS <https://plone.org/community/gsoc/2019/>`_ (built with workflow and security at the forefront)
 
 Amigos de la PSF: 
 
