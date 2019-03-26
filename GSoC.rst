@@ -73,7 +73,7 @@ Si quieres participar como estudiante, por favor sigue los siguientes lineamient
 
 1. **¡Preséntate!**
 
-   Escribe a el `Grupo de Google <https://groups.google.com/d/forum/pyar-gsoc>`_ pyar-gsoc@@googlegroups.com 
+   Escribe a el `Grupo de Google <https://groups.google.com/d/forum/pyar-gsoc>`_ pyar-gsoc@googlegroups.com 
    (para preguntas generales del GSoC: secretaria+gsoc2019@ac.python.org.ar). Indicar claramente:
 
    * ¿Por qué querés participar del GSoC?, brevemente comenta tu experiencia y expectativas
@@ -97,7 +97,8 @@ Si quieres participar como estudiante, por favor sigue los siguientes lineamient
    * Define 3 hitos & entregables (i.e. Prueba-de-Concepto, Prototipo, Demo Final)
    * Planifica las tareas (objetivos de alto nivel para cada hito)
    * Describe el criterio de aceptación ("Producto Mínimo Viable" de cada fase)
-   * Comparte un borrador tempranamente y discute tu enfoque en la lista de correo
+   * Comparte un borrador tempranamente via Google Docs (ver `plantilla <https://github.com/python-gsoc/python-gsoc.github.io/blob/master/application2019.md>`_) y discute tu enfoque en la lista de correo con los mentores
+   * No olvides enviar tu propuesta por el `sistema de Google <https://summerofcode.withgoogle.com/>`_ cuando esté lista, antes de la fecha limite (no hay extensiones, sin excepción)
 
 IMPORTANTE:
 
