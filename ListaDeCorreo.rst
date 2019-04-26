@@ -121,7 +121,7 @@ Python Argentina tiene presencia en las siguientes redes sociales:
 **YouTube**:   https://www.youtube.com/channel/UCjYLIv07fw21w0uIAtUMnNA
 
 ¿Por qué no Slack?
-===============
+==================
 
 #FIXME
 
