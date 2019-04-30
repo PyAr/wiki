@@ -77,7 +77,7 @@ más básico:
 Tengo algún conocimiento en programación, o incluso en Python, y
 quiero leer algo un *poquito* más avanzado:
 
-* `Inmersión en Python 3 (PDF) <https://inmersionenpython3.googlecode.com/files/inmersionEnPython3.0.11.pdf>`_
+* `Inmersión en Python 3 (PDF) <https://argentinaenpython.com/quiero-aprender-python/inmersion-en-python-3.0.11.pdf>`_
 
 * `El tutorial de Django
   <https://docs.djangoproject.com/es/2.0/intro/>`_
