@@ -1,4 +1,3 @@
-
 Conferencias
 ------------
 PyCon 
@@ -88,4 +87,3 @@ Documentación Relevante
 .. _Selección de Sedes PyCon Argentina 2013: https://selpyconar2013.readthedocs.org
 
 .. _PostMortem PyCon Argentina 2012: https://pyconar20012-postmortem.readthedocs.org
-
