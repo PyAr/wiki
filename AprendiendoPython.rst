@@ -30,7 +30,7 @@ Ahora, ¿a dónde podrías recurrir para obtener información que te inicie en l
 
 * Y por último, el único, original e inimitable, clásico de clásicos que casi todos en la lista usamos para empezar: el `Tutorial de Python`_. **Hay gente de la lista que hizo una traducción al castellano**, esta disponible en http://tutorial.python.org.ar/
 
-* `Doma de Serpientes para Niños: Aprendiendo a Programar con Python`_ "Snake Wrangling for Kids" es un libro electrónico para niños de 8 o más años que quieran aprender a programar. Cubre lo básico de la programación utilizando el lenguaje de programación Python 3 como base para aprender los conceptos. Los fuentes están disponibles en http://code.google.com/p/swfk-es/
+* `Doma de Serpientes para Niños: Aprendiendo a Programar con Python`_ "Snake Wrangling for Kids" es un libro electrónico para niños de 8 o más años que quieran aprender a programar. Cubre lo básico de la programación utilizando el lenguaje de programación Python 3 como base para aprender los conceptos.
 
 * Este_ es un proyecto público y libre para mantener **toda** la documentación de Python traducida a nuestro idioma.
 
@@ -198,7 +198,7 @@ Videos
 
 .. _Tutorial de Python: https://docs.python.org/3/tutorial/index.html
 
-.. _`Doma de Serpientes para Niños: Aprendiendo a Programar con Python`: http://www.biblioteca-digital.net.ve/wordpress/wp-content/uploads/2009/09/swfk-es-linux-0.0.2.pdf
+.. _`Doma de Serpientes para Niños: Aprendiendo a Programar con Python`: http://code.google.com/p/swfk-es/
 
 .. _Este: http://pyspanishdoc.sourceforge.net/
 
