@@ -8,5 +8,3 @@ Pueden encontrar experimentos, comentarios, investigación, en mi blog: http://b
 
 Un poco más de info sobre mí, acá: http://www.marcelofernandez.info
 
-----
-CategoryHomepage

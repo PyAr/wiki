@@ -59,7 +59,7 @@ Descripcion de charlas
 ======================
 
 Entendiendo Unicode
-~~~~~~~~~~~~~~~~~~~
+-------------------
 
 **(Facundo Batista) - Aula 3.5, Miércoles 11hs**
 
@@ -70,7 +70,7 @@ La charla muestra de forma teórica/práctica qué son Unicode, las planillas de
 
 
 Introducción a Python
-~~~~~~~~~~~~~~~~~~~~~
+---------------------
 
 **(Facundo Batista) - Aula 10.1, Miércoles 14hs**
 
@@ -81,7 +81,7 @@ Esta charla se orienta a programadores, principiantes o avanzados, que desean co
 
 
 PyExPsiN: Python para Experimentos en Psicología y Neurociencias
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------------------------------------------
 
 **(Sergio Damián Vernis) - Aula 3.7, Miércoles 15hs**
 
@@ -94,7 +94,7 @@ http://sourceforge.net/projects/pyexpsin/
 
 
 ORM en Python
-~~~~~~~~~~~~~
+-------------
 
 **(Luis Tomas Wayar) - Auditorio Roca, Miércoles 16hs**
 
@@ -105,7 +105,7 @@ El software libre cada dia ocupa mas espacios en la pequeñas y medianas empresa
 
 
 ArchGenXML Haciendo Plone sin saber Plone
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------------------
 
 **(Francisco Sebastian Durán Barrionuevo) - Aula 10.1, Miércoles 16hs**
 
@@ -122,7 +122,7 @@ La idea de esta charla es mostrar los pasos necesarios para, usando algun progra
 
 
 Python 3000
-~~~~~~~~~~~
+-----------
 
 **(Raymond Hettinger) - Auditorio Sarmiento, Jueves 11hs**
 
@@ -135,7 +135,7 @@ Those deep conceptual changes give the language its new flavour. We discuss the 
 
 
 Introduccion a w3af - Un framework para conquistar la web
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------------------------------------
 
 **(Andrés Riancho) - Auditorio Roca, Jueves 11hs**
 
@@ -146,7 +146,7 @@ El movimiento Open Source está revolucionando la forma en la cual se diseña, d
 
 
 PyGTK usando Glade
-~~~~~~~~~~~~~~~~~~
+------------------
 
 **(Natalia Beatriz Bidart) - Aula 3.5, Jueves 12hs**
 
@@ -163,7 +163,7 @@ Glade es un constructor de interfaces de usuario para GTK+ y Gnome (http://www.g
 
 
 Introducción al desarrollo en Plone
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------------
 
 **(Emanuel Sartor) - Aula 13.1, Jueves 14hs**
 
@@ -174,7 +174,7 @@ Plone es un producto que provee una plataforma para el desarrollo de aplicacione
  
 
 Descriptor tutorial
-~~~~~~~~~~~~~~~~~~~
+-------------------
 
 **(Raymond Hettinger) - Auditorio Sarmiento, Jueves 15hs**
 
@@ -189,7 +189,7 @@ Walk away with a sound understanding of methods, properties, super, classmethods
 
 
 PloneGetPaid, estilo, calidad e ecommerce en un solo paquete
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------------------------------------------
 
 **(Horacio Francisco Sebastian Durán Barrionuevo) - Aula 3.4, Jueves 16hs**
 
@@ -204,7 +204,7 @@ Daremos un recorrido por las funcionalidades que nos provee GetPaid y veremos en
 
 
 Desarrollando Plone Batch dentro de Google Summer of Code
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------------------------------------
 
 **(Javier A. Mansilla) - Aula 3.1, Viernes 10hs**
 
@@ -215,7 +215,7 @@ Plone es un sistema de gestión de contenidos hecho en python 100% libre con una
 
 
 Taller: Actividades y juegos educativos para la OLPC
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------------------------------
 
 **(Héctor Sanchez / Alejandro J. Cura / Manuel Kaufmann) - Aula 3.3, Viernes 10hs**
 
@@ -226,7 +226,7 @@ En este taller mostraremos como hacer juegos y actividades educativas, en muy po
 
 
 Como colaborar con Python
-~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------
 
 **(Manuel Kaufmann) - Aula 3.6, Viernes 14hs**
 
@@ -237,7 +237,7 @@ La charla consiste en alentar a los oyentes a corregir bugs de Python mostrando 
 
 
 cocos2d: un framework para hacer juegos
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+---------------------------------------
 
 **(Ricardo Quesada, Lucio Torre) - Aula 3.4, Viernes 14hs**
 
@@ -248,7 +248,7 @@ cocos2d es un framework para hacer juegos 2d, demos, y otras aplicaciones gráfi
 
 
 Core containers - Under the hood
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+--------------------------------
 
 **(Raymond Hettinger) - Auditorio Sarmiento, Viernes 15hs**
 
@@ -259,7 +259,7 @@ Look under-the-hood at the implementation of Python's container classes. Underst
  
 
 /dev/wiimote > Experimentando con un wii remote en Gnu/Linux
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------------------------------------------
 
 **(Juan Manuel Schillaci / Héctor Sanchez / Christian Andres) - Aula 3.1, Viernes 15hs**
 
@@ -270,7 +270,7 @@ La charla intenta dar a conocer tecnicamente el dispositivo wiimote (que se encu
 
 
 Hacer un juego es fácil
-~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------
 
 **(Daniel F. Moisset) - Aula 3.6, Viernes 16hs**
 
@@ -281,7 +281,7 @@ Gran parte de los aficionados a la programación también juegan, y a casi todos
 
 
 Usando Python para integrar mis datos con GoogleMaps, y viceversa
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-----------------------------------------------------------------
 
 **(Anthony Lenton) - Aula 3.4, Viernes 16hs**
 

@@ -12,5 +12,3 @@ Ahora estoy pensando la forma de hacer un afinador de instrumentos (algo un poco
 También tengo como hobby tocar la guitarra, aunque mucho no he progresado, hace tres años más o menos que toco.
 
 
-----
-CategoryHomepage

@@ -167,9 +167,6 @@ Videos
 
  *Links revisados al 27/03/2011* 
 
-.. ############################################################################
-
-
 .. _How to Think Like a Computer Scientist: http://greenteapress.com/thinkpython/thinkpython.html
 
 .. _Aprenda a pensar como un programador (con Python): http://web.ballardini.com.ar/ai/raw-attachment/wiki/BibliografiaPython/thinkCSpy-es.pdf
@@ -179,19 +176,17 @@ Videos
 .. _Dive into Python: http://www.diveintopython.net/toc/index.html
 
 .. _Inmersión en Python: http://almacen.gulic.org/diveintopython-5.4-es/
->>>>>>> my-temporary-work
 
 .. _Instant Python: http://www.hetland.org/python/instant-python.php
 
 .. _Versión en español: http://www.arrakis.es/~rapto/AprendaPython.html
 
-<<<<<<< HEAD
 .. _El wiki oficial de Apache OpenOffice: https://wiki.openoffice.org/wiki/ES/Manuales/GuiaAOO/TemasAvanzados/Macros/Python
 
 .. _Tutorial Django (Proyecto Biblioteca Local): https://developer.mozilla.org/es/docs/Learn/Server-side/Django
 
 .. _Python Ya: http://pythonya.appspot.com/
-=======
+
 .. _A Primer on Python for Life Science Researchers: http://compbiol.plosjournals.org/perlserv/?request=get-document&doi=10.1371/journal.pcbi.0030199
 
 .. _Python Ya: http://pythonya.appspot.com/
