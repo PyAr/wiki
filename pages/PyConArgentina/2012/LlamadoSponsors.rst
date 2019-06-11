@@ -18,171 +18,175 @@ Documentos:
 
 * Brief (inglés): http://ar.pycon.org/2012/static/docs/pyconar2012_brief.pdf
 
-Email Enviado a
----------------
+.. todo:: Arreglar esta pagina
 
-* `pyar@python.org.ar`_ [MarianoReingart_]
+::
 
-* `conferences@python.org`_ [MarianoReingart_]
+    Email Enviado a
+    ---------------
 
-* `python-es@python.org`_ [MarianoReingart_]
+    * `pyar@python.org.ar`_ [MarianoReingart_]
 
-* `python-peru@googlegroups.com`_ [MarianoReingart_]
+    * `conferences@python.org`_ [MarianoReingart_]
 
-* `pythonchile@googlegroups.com`_ [MarianoReingart_]
+    * `python-es@python.org`_ [MarianoReingart_]
 
-* `pyuy@googlegroups.com`_ [MarianoReingart_]
+    * `python-peru@googlegroups.com`_ [MarianoReingart_]
 
-Sponsors Contactados
-====================
+    * `pythonchile@googlegroups.com`_ [MarianoReingart_]
 
-Empresas
---------
+    * `pyuy@googlegroups.com`_ [MarianoReingart_]
 
-* MSA: confirmado! [MarianoReingart_]
+    Sponsors Contactados
+    ====================
 
-* Fierro- Lambda: confirmado! [MarianoReingart_]
+    Empresas
+    --------
 
-* Machinalis: confirmando! [JuanBC]
+    * MSA: confirmado! [MarianoReingart_]
 
-* Onapsis: intersado... [Nadia]
+    * Fierro- Lambda: confirmado! [MarianoReingart_]
 
-* Thymbira: confirmado! [MarianoReingart_]
+    * Machinalis: confirmando! [JuanBC]
 
-* Rcom: Contactado, lo están viendo ... (Rosario, http://www.rcom.com.ar)[EmilianoDallaVerdeMarcozzi]
+    * Onapsis: intersado... [Nadia]
 
-* Gcoop: no interesado
+    * Thymbira: confirmado! [MarianoReingart_]
 
-* Datattec: contacado al duenio, esperando confirmacion [EmilianoDallaVerdeMarcozzi_]
+    * Rcom: Contactado, lo están viendo ... (Rosario, http://www.rcom.com.ar)[EmilianoDallaVerdeMarcozzi]
 
-* Globant: contactando... [SebastianBassi_]
+    * Gcoop: no interesado
 
-* Airtrack? (Rosario, http://www.airtrack.com.ar) [Nadia], esperando respuesta...
+    * Datattec: contacado al duenio, esperando confirmacion [EmilianoDallaVerdeMarcozzi_]
 
-* Core: en tratativas... [Nadia]
+    * Globant: contactando... [SebastianBassi_]
 
-* olx: estan averiguando (lista de pyar)
+    * Airtrack? (Rosario, http://www.airtrack.com.ar) [Nadia], esperando respuesta...
 
-* Popego: contactado via Pythonero (lista de pyar)
+    * Core: en tratativas... [Nadia]
 
-* Intel: contactado (organizadores)
+    * olx: estan averiguando (lista de pyar)
 
-Pythoneros
-----------
+    * Popego: contactado via Pythonero (lista de pyar)
 
-* Pythonero Anónimo: confirmado!
+    * Intel: contactado (organizadores)
 
-* Pythonero Historico: confirmado!
+    Pythoneros
+    ----------
 
-* Grupo "Sistemas Ágiles": confirmado! (MarianoReingart_)
+    * Pythonero Anónimo: confirmado!
 
-* Pythonero Co-Organizador:
+    * Pythonero Historico: confirmado!
 
-Institucional y Gubernamental
------------------------------
+    * Grupo "Sistemas Ágiles": confirmado! [MarianoReingart_]
 
-* PSF: confirmado! [MarianoReingart_]
+    * Pythonero Co-Organizador:
 
-* PostgreSQL: confirmado (casi)! [MarianoReingart_]
+    Institucional y Gubernamental
+    -----------------------------
 
-* Mozilla: enviado mail [MarianoReingart_ cc FelipeLerena_], sin respuesta
+    * PSF: confirmado! [MarianoReingart_]
 
-* ANCyT Fonsoft: presentando papeles... [Nadia] y UNQ
+    * PostgreSQL: confirmado (casi)! [MarianoReingart_]
 
-Editoriales
------------
+    * Mozilla: enviado mail [MarianoReingart_], sin respuesta
 
-* Packt: enviado mail personal [MarianoReingart_]
+    * ANCyT Fonsoft: presentando papeles... [Nadia] y UNQ
 
-* Pearson: enviado mail por la página [MarianoReingart_]
+    Editoriales
+    -----------
 
-* O'Reilly: enviado mail por la página [MarianoReingart_]
+    * Packt: enviado mail personal [MarianoReingart_]
 
-Internacionales
----------------
+    * Pearson: enviado mail por la página [MarianoReingart_]
 
-* Entohught_: contactados [MarianoReingart_ via EuroPython_], lo estan evaluando 
+    * O'Reilly: enviado mail por la página [MarianoReingart_]
 
-* Wingware_: email enviado [MarianoReingart_], sin respuesta
+    Internacionales
+    ---------------
 
-* GitHub_: contactado via Juan R. Monti
+    * Entohught_: contactados [MarianoReingart_], lo estan evaluando 
 
-* Canonical: contactado (lista pyar)
+    * Wingware_: email enviado [MarianoReingart_], sin respuesta
 
-* Heroku: contactado via formulario web [MarianoReingart_]
+    * GitHub_: contactado via Juan R. Monti
 
-* Dropbox: contactado via formulario web [MarianoReingart_]
+    * Canonical: contactado (lista pyar)
 
-* PyCharm_: contactado via formulario web [MarianoReingart_]
+    * Heroku: contactado via formulario web [MarianoReingart_]
 
-* New Relic: contactado via email [MarianoReingart_]
+    * Dropbox: contactado via formulario web [MarianoReingart_]
 
-* Nebula_: contactado via formulario web [MarianoReingart_]
+    * PyCharm_: contactado via formulario web [MarianoReingart_]
 
-* dotcloud_: contactado via formulario web [MarianoReingart_] 
+    * New Relic: contactado via email [MarianoReingart_]
 
-* ActiveState_: contactado via formulario web [MarianoReingart_]
+    * Nebula_: contactado via formulario web [MarianoReingart_]
 
-* [[http://loggly.com/|loggly]:  contactado via email [MarianoReingart_]
+    * dotcloud_: contactado via formulario web [MarianoReingart_] 
 
-* [[http://www.revsys.com/|revolution systems]: contactado via email [MarianoReingart_]
+    * ActiveState_: contactado via formulario web [MarianoReingart_]
 
-* http://www.aldebaran-robotics.com/en/: contactado via formulario web [MarianoReingart_]
+    * [[http://loggly.com/|loggly]:  contactado via email [MarianoReingart_]
 
-* http://www.10gen.com: contactado via formulario web [MarianoReingart_]
+    * [[http://www.revsys.com/|revolution systems]: contactado via email [MarianoReingart_]
 
-* http://www.atlassian.com: contactado via formulario web [MarianoReingart_]
+    * http://www.aldebaran-robotics.com/en/: contactado via formulario web [MarianoReingart_]
 
-Sponsors que Falta Contactar
-============================
+    * http://www.10gen.com: contactado via formulario web [MarianoReingart_]
 
-Nos falta info de contacto de las siguientes empresas:
+    * http://www.atlassian.com: contactado via formulario web [MarianoReingart_]
 
-* Google! (por ahora, solo costo pasaje Brett Cannon)
+    Sponsors que Falta Contactar
+    ============================
 
-* Nemo? (Rosario, http://www.nemogroup.com.ar)
+    Nos falta info de contacto de las siguientes empresas:
 
-* Atomica?
+    * Google! (por ahora, solo costo pasaje Brett Cannon)
 
-* teracore?
+    * Nemo? (Rosario, http://www.nemogroup.com.ar)
 
-* Libra?
+    * Atomica?
 
-* Brainpark?
+    * teracore?
 
-* menttes
+    * Libra?
 
-* log_n
+    * Brainpark?
 
-Si fuiste el contacto en eventos anteriores, por favor envíanos un mail (`reingart@gmail.com`_, `nluczywo@gmail.com`_) o a través del grupo de organización (`pybaires@googlegroups.com`_):
+    * menttes
 
-http://groups.google.com/group/pybaires
+    * log_n
 
-.. ############################################################################
+    Si fuiste el contacto en eventos anteriores, por favor envíanos un mail (`reingart@gmail.com`_, `nluczywo@gmail.com`_) o a través del grupo de organización (`pybaires@googlegroups.com`_):
 
-.. _pyar@python.org.ar: mailto:pyar@python.org.ar
+    http://groups.google.com/group/pybaires
 
-.. _conferences@python.org: mailto:conferences@python.org
+    .. ############################################################################
 
-.. _python-es@python.org: mailto:python-es@python.org
+    .. _pyar@python.org.ar: mailto:pyar@python.org.ar
 
-.. _python-peru@googlegroups.com: mailto:python-peru@googlegroups.com
+    .. _conferences@python.org: mailto:conferences@python.org
 
-.. _pythonchile@googlegroups.com: mailto:pythonchile@googlegroups.com
+    .. _python-es@python.org: mailto:python-es@python.org
 
-.. _pyuy@googlegroups.com: mailto:pyuy@googlegroups.com
+    .. _python-peru@googlegroups.com: mailto:python-peru@googlegroups.com
 
-.. _Entohught: http://www.enthought.com/
+    .. _pythonchile@googlegroups.com: mailto:pythonchile@googlegroups.com
 
-.. _Wingware: http://wingware.com/
+    .. _pyuy@googlegroups.com: mailto:pyuy@googlegroups.com
 
-.. _Nebula: http://www.nebula.com
+    .. _Entohught: http://www.enthought.com/
 
-.. _dotcloud: https://www.dotcloud.com
+    .. _Wingware: http://wingware.com/
 
-.. _reingart@gmail.com: mailto:reingart@gmail.com
+    .. _Nebula: http://www.nebula.com
 
-.. _nluczywo@gmail.com: mailto:nluczywo@gmail.com
+    .. _dotcloud: https://www.dotcloud.com
 
-.. _pybaires@googlegroups.com: mailto:pybaires@googlegroups.com
+    .. _reingart@gmail.com: mailto:reingart@gmail.com
+
+    .. _nluczywo@gmail.com: mailto:nluczywo@gmail.com
+
+    .. _pybaires@googlegroups.com: mailto:pybaires@googlegroups.com
 

@@ -17,6 +17,8 @@ Más información a continuación:
 Gráficos
 --------
 
+.. todo:: ver esto de aca
+
 <strong class="highlight">.. raw:: html
 
 </strong>[Table not converted]

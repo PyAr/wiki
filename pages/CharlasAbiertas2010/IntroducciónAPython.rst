@@ -1,5 +1,10 @@
-= Introducción a Python =
-''Esta charla se orienta a programadores, principiantes o avanzados, que desean conocer este lenguaje, de manera de aprender sus principios básicos.  Se presentan las características generales del lenguaje y su biblioteca estándar, su parte social, y se recorren los tipos de datos, los controles de flujo, y las diversas maneras de encapsular código, terminando con algunos detalles que muestran la expresividad, sencillez y poder de Python.''
+Introducción a Python
+=====================
+
+Esta charla se orienta a programadores, principiantes o avanzados, que desean conocer este lenguaje, de manera de aprender 
+sus principios básicos.  Se presentan las características generales del lenguaje y su biblioteca estándar, su parte social, 
+y se recorren los tipos de datos, los controles de flujo, y las diversas maneras de encapsular código, terminando con 
+algunos detalles que muestran la expresividad, sencillez y poder de Python.
 
  * Disertantes: Tomás Zulberti y Facundo Batista
 

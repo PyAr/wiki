@@ -5,6 +5,8 @@ Con y sin versalitas
 Forma original
 --------------
 
+.. todo:: poner los links a las imagenes correspondientes
+
 `ganadora-stretch.png </wiki/Bandera/variaciones/attachment/131/ganadora-stretch.png>`_
 
 * 

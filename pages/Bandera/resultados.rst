@@ -2,6 +2,8 @@
 Bandera Ganadora: Pablo4
 ------------------------
 
+.. todo:: ver esto de aca
+
 [Table not converted]
 
 * SVG: http://alecu.com.ar/banderas/pablo4.svg
