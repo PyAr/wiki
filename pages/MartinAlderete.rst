@@ -22,11 +22,6 @@ Email: ``malderete <ARROBA> gmail <DOT> com``
 
 Email: ``malderete <ARROBA> ninja-ide <DOT> org``
 
-...
-
--------------------------
-
- CategoryHomepage_
 
 .. ############################################################################
 

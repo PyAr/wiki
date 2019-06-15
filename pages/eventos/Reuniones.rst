@@ -1,7 +1,7 @@
 Reuniones PyAr
 --------------
 
-Las reuniones normalmente se anuncian en la `ListaDeCorreo`_, a la cual te sugerimos te suscribas para enterarte de los detalles de lugar, hora, etc. 
+Las reuniones normalmente se anuncian en la `ListaDeCorreo`_, a la cual te sugerimos te suscribas para enterarte de los detalles de lugar, hora, etc.
 Para ver la agenda de la próxima reunión ir a: `ProximaReunio_.
 ¿Querés organizar una reunión? Te sugerimos consultar el `Release procedure
 
@@ -18,3 +18,5 @@ Enlaces a las últimas reuniones realizadas
 * `Reunión 62 - 2014 <Reuniones/2014/Reunion62>`
 
 .. _Release procedure: /wiki/Eventos/Reuniones/ReleaseProcedure
+
+.. include:: pages/common_links.rst

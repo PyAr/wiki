@@ -6,10 +6,6 @@ Email: ``martin.volpe AT SPAMFREE correoG DOT com`` You can even more obfuscate 
 
 ...
 
--------------------------
-
- CategoryHomepage_
-
 .. ############################################################################
 
 

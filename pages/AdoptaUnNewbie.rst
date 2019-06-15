@@ -21,15 +21,15 @@ Básicamente:
 
 * todos felices
 
-La manera de mentorear varía de mentor a mentor, algunos se dedican más a 
-responder dudas por mail, otros a hacer más revisiones de código, otros a 
-acompañar el desarrollo de algo en particular, etc. Pero en general, la 
-idea central sigue siendo la misma: alguien que puede seguir de cerca al 
+La manera de mentorear varía de mentor a mentor, algunos se dedican más a
+responder dudas por mail, otros a hacer más revisiones de código, otros a
+acompañar el desarrollo de algo en particular, etc. Pero en general, la
+idea central sigue siendo la misma: alguien que puede seguir de cerca al
 mentado, sabiendo "en qué anda" y pudiendo guiarlo de forma más personalizada.
 
 Si te interesa, no hace falta más que anotarte acá, en la lista que corresponda
 (como newbie o como mentor). Y si vez que se puede formar una pareja, simplemente
-comunicarte de forma directa con la otra persona (si no tenés el mail, podés 
+comunicarte de forma directa con la otra persona (si no tenés el mail, podés
 buscarlo en irc, o mandar un mail a la lista pidiendo contactarlo).
 
 Proyectos en busca de mentados
@@ -58,15 +58,15 @@ Mentores Disponibles
 
 * Emiliano Dalla Verde Marcozzi (python en general)
 
-* ManuelNaranjo_ (django, dbus, bluetooth, opencv, numpy y scipy, cosas relacionadas con electrónica en general y señales)
+* Manuel Naranjo (django, dbus, bluetooth, opencv, numpy y scipy, cosas relacionadas con electrónica en general y señales)
 
 * FacundoBatista_: Para CDPedia, Lalita, Python, Twisted a Py3, Enjuewemela y Magicicada (más info `acá`_).
 
-* :strike:`Horacio Duran: Para plone, python, django bastante basico, pregunten y les cuento si se o no.`
+* Horacio Duran: Para plone, python, django bastante basico, pregunten y les cuento si se o no
 
 * Lucio Torre (varios)
 
-* Martín Gaitán (python, django, scrapping, python cientifico y cosas divertidas) 
+* Martín Gaitán (python, django, scrapping, python cientifico y cosas divertidas)
 
 * Mariano Reingart (web2py, wxpython, postgresql, ubuntu y/o windows, proyectos de factura electrónica, "gestion libre", etc.)
 
@@ -102,7 +102,7 @@ Mentados buscando mentores
 
 * Bryan Velasco (brygevel_): Python enfocado a videojuegos.
 
-* `Mauricio José Tobares`_
+* Mauricio José Tobares
 
 * Carlos Cabrera
 
@@ -112,15 +112,15 @@ Mentados buscando mentores
 
 * Pablo Codeiro
 
-* `Martín Volpe`_
+* `MartinVolpe`_
 
 * enrique.gmv
 
 * Gustavo Cárdenas (Python, Django, Python orientado a script de juegos)
 
-* malev_ (lalita y django)
+* malev (lalita y django)
 
-* EzequielMarquez_ :strike:`(Twisted, Django, Python3)` 
+* EzequielMarquez_ `(Twisted, Django, Python3)`
 
 * Carlos Do Carmo (Django)
 
@@ -132,7 +132,7 @@ Mentados buscando mentores
 
 * Julian Silva (Python, Django,HTML5/CSS3)
 
-* Ana María Jalca (amjalca_): Python, Inteligencia Artificial y Web.
+* Ana María Jalca (amjalca): Python, Inteligencia Artificial y Web.
 
 * Sebas Giustra (sebasgiustra): Python, PyQt y Django, en ese orden.
 
@@ -165,7 +165,7 @@ Mentados Buscados
 Adopciones Finalizadas
 ----------------------
 
-* JuanFisanotti_ 
+* JuanFisanotti_
 
   * Hernan Lozano: muy buena experiencia!
 
@@ -173,9 +173,9 @@ Adopciones Finalizadas
 
 * Mariano Guerra
 
-  * `Anna Massone`_ perdida de contacto
+  * `Anna Massone` perdida de contacto
 
-  * `Diego Ahumada`_ perdida de contacto
+  * `Diego Ahumada` perdida de contacto
 
 * MartinAlderete_ - Ochoa Gerardo Fidel, perdida de contacto.
 
@@ -185,12 +185,20 @@ Adopciones Finalizadas
 
 
 
+.. include:: pages/common_links.rst
+
 .. _acá: http://www.taniquetil.com.ar/plog/post/1/507
 
-.. _Mariano Guerra:
-
+.. _marianoguerra: pages/marianoguerra
+.. _horacioduran: pages/horacioduran
+.. _ezequielmarquez: pages/ezequielmarquez
+.. _willsantana: pages/willsantana
+.. _martinvolpe: pages/martinvolpe
+.. _brygevel: pages/brygevel
 .. _Rafael E. Ferrero: mailto:rafael.ferrero@gmail.com
 
+.. _martinalderete: pages/martinalderete
 
-.. role:: strike
-   :class: strike
+.. _juanfisanotti: pages/juanfisanotti
+
+.. _davidlitvak: pages/davidlitvak

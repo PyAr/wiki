@@ -1,13 +1,13 @@
 
-Esta página es complementaria a la propuesta de `renovación del Sitio`_, de ahí surgió también la idea de renovar el logo de PyAr_, y acá estan las propuestas para que puedas mejorarlas.
+Esta página es complementaria a la propuesta de renovación del Sitio, de ahí surgió también la idea de renovar el logo de PyAr_, y acá estan las propuestas para que puedas mejorarlas.
 
 Propuesta de Alecu:
 
 `logo-pyar-2012.png </wiki/NuevoLogo/attachment/8/logo-pyar-2012.png>`_
 
-* 
+*
 
-* 
+*
 
 Propuesta de Damián Avila:
 
@@ -29,3 +29,4 @@ http://i.imgur.com/hZGBi.jpg
 
 .. _Formato JPG: http://i.imgur.com/hZGBi.jpg
 
+.. include:: pages/common_links.rst

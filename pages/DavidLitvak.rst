@@ -10,9 +10,6 @@ Desarrollador de Crawley-Project: http://www.crawley-project.org
 
 Pueden ver proyectos mios en: GitHub_
 
--------------------------
-
- CategoryHomepage_
 
 .. ############################################################################
 

@@ -23,7 +23,7 @@ Aca se deben poner todas las ventanas, una descripcion de que hace y screenshots
 realizar modulo para interactuar con gnome-art
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Se debe hacer un modulo para obtener la informacion de los themes, recomendable que sea con threads para no bloquear la interfaz, para ello se debera aprender a usar httplib, urllib, urllib2 o similar y threading, hay un ejemplo de threads y gtk aca GtkMultiThread_ y este es ejemplo ComunicarThreadsConQueue_.
+Se debe hacer un modulo para obtener la informacion de los themes, recomendable que sea con threads para no bloquear la interfaz, para ello se debera aprender a usar httplib, urllib, urllib2 o similar y threading, hay un ejemplo de threads y gtk aca GtkMultiThread y este es ejemplo ComunicarThreadsConQueue_.
 
 Como ayuda se podria ver un poco el codigo de gnome-art, al menos para saber como interactua con el server.
 
@@ -35,4 +35,4 @@ Estaria bueno que aprendan a usar el modulo unittest http://docs.python.org/libr
 .. ############################################################################
 
 
-
+.. _comunicarthreadsconqueue: /pages/comunicarthreadsconqueue
