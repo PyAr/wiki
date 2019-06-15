@@ -12,11 +12,11 @@ Hechos:
 
 Comparando los instaladores de los entornos de desarrollo:
 
-* Python 2.5.1 installer windows: 10MB  
+* Python 2.5.1 installer windows: 10MB
 
 * Java EE SDK 5: 124.25MB
 
-* Net Framework 2.0 SDK: 354MB 
+* Net Framework 2.0 SDK: 354MB
 
 Habría que ver bien que funionalidad trae cada uno, pero tomando muy por arriba, nos da una idea que el codigo python es mucho mas compacto, considerando que en 354MB entra mucha mas "complejidad" que en 10MB (codigo, documentación, herramientas, etc.).
 
@@ -26,11 +26,11 @@ Comparando los lenguajes:
 
 * Python carga 6 veces mas rápido que Java cuando inicia
 
-* Python consume 4 veces menos memoria que java 
+* Python consume 4 veces menos memoria que java
 
-* Python tiene extensiones en C/C++ que son más rápidas que código nativo java, por mas que java tenga un compilador jit 
+* Python tiene extensiones en C/C++ que son más rápidas que código nativo java, por mas que java tenga un compilador jit
 
-* Python es bastante mas lento que java si medimos los tiempos de ejecución de programas de uso intensivo de procesador. Igualmente, si se usan extensiones en  C para el "procesamiento intensivo", python es más rápido que java. 
+* Python es bastante mas lento que java si medimos los tiempos de ejecución de programas de uso intensivo de procesador. Igualmente, si se usan extensiones en  C para el "procesamiento intensivo", python es más rápido que java.
 
 Resumen:
 --------
@@ -66,7 +66,7 @@ Sin embargo, debemos ver estos datos en perspectiva, como se hace notar en el wi
 
 Al mismo tiempo, en el sitio oficial de Python (`#2`_ y `#3`_) se dan ejemplos de código y consejos para mejorar el desempeño.
 
-Volviendo a la tabla comparativa de desempeño del articulo `#1`_, vemos que el desempeño de python en grandes operaciones matemáticas dista de ser el mejor (sea con enteros, punto flotante, punto flotante de doble precisión y trigonométricas). Para mejorarlo podemos usar Pyrex, que es un Python que se compila (aunque con limitaciones en la cantidad de módulos disponibles).  Pero su velocidad es casi tan buena como la de C++ puro y mayor que MatLab_ u Octave `#4`_.
+Volviendo a la tabla comparativa de desempeño del articulo `#1`_, vemos que el desempeño de python en grandes operaciones matemáticas dista de ser el mejor (sea con enteros, punto flotante, punto flotante de doble precisión y trigonométricas). Para mejorarlo podemos usar Pyrex, que es un Python que se compila (aunque con limitaciones en la cantidad de módulos disponibles).  Pero su velocidad es casi tan buena como la de C++ puro y mayor que MatLab u Octave `#4`_.
 
 Ahora bien, si nuestro punto critico no son los cálculos matemáticos, sino la velocidad de Entrada/Salida (I/O), vemos que en estos benchmarks la velocidad de Python es apenas menor que Visual C++, o incluso igual cuando se usa Psyco.
 
@@ -112,3 +112,4 @@ Referencias
 
 .. _Rendimiento en python sobre operaciones matemáticas: http://scipy.org/PerformancePython
 
+.. include:: pages/common_links.rst

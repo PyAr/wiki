@@ -6,7 +6,7 @@ Un grupo de entusiastas de Python, que decidió aunar esfuerzos para crear una c
 ¿Qué hacemos?
 -------------
 
-Organizamos eventos_ de distinto tipo para difundir el lenguaje y reuniones_ donde debatimos ideas, mantenemos una ListaDeCorreo_ a través de la cual nos comunicamos, creamos y mantenemos este portal, el cual pretendemos que tenga contenido útil tanto para los miembros de PyAr_ como para toda aquella persona que se interese por Python. Hoy estamos abocados a lograr evolucionar como grupo, contribuyendo con diversos proyectos.
+Organizamos eventos_ de distinto tipo para difundir el lenguaje y reuniones donde debatimos ideas, mantenemos una ListaDeCorreo_ a través de la cual nos comunicamos, creamos y mantenemos este portal, el cual pretendemos que tenga contenido útil tanto para los miembros de PyAr_ como para toda aquella persona que se interese por Python. Hoy estamos abocados a lograr evolucionar como grupo, contribuyendo con diversos proyectos.
 
 ¿Cómo surgió?
 -------------
@@ -23,8 +23,7 @@ Suscribiéndote a la ListaDeCorreo_, registrándote en el portal, asistiendo a c
 .. ############################################################################
 
 .. _listadecorreo: /pages/listadecorreo
-.. _eventos: /eventos/
-.. _reuniones: /wiki/reuniones
+.. _eventos: python.org.ar/eventos
 .. _grupo de Python de Buenos Aires de Meetup: http://python.meetup.com/cities/ar/buenos_aires/
 
 .. _SEO: http://es.wikipedia.org/wiki/Posicionamiento_en_buscadores
