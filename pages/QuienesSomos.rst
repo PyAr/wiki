@@ -13,7 +13,7 @@ Organizamos eventos_ de distinto tipo para difundir el lenguaje y reuniones_ don
 
 Merced a búsquedas en Internet, algunas personas se fueron registrando en el `grupo de Python de Buenos Aires de Meetup`_.
 
-A mediados del 2004, el sitio era gratuito y "ranqueaba" alto en los resultados de los buscadores. El origen de aquel grupo es incierto, algunos creen que algún ocasional interesado lo creó, otros suponen que Meetup creaba estos grupos artificialmente como técnica de posicionamiento en buscadores (SEO_). Lo único cierto es que un cambio en su funcionamiento (la aparición del rol de "Manager") ayudó a fomentar la organización y posterior concreción de la `primera reunión`_ del grupo en Buenos Aires, en septiembre de 2004.
+A mediados del 2004, el sitio era gratuito y "ranqueaba" alto en los resultados de los buscadores. El origen de aquel grupo es incierto, algunos creen que algún ocasional interesado lo creó, otros suponen que Meetup creaba estos grupos artificialmente como técnica de posicionamiento en buscadores (SEO_). Lo único cierto es que un cambio en su funcionamiento (la aparición del rol de "Manager") ayudó a fomentar la organización y posterior concreción de la primera reunión del grupo en Buenos Aires, en septiembre de 2004.
 
 ¿Cómo participar?
 -----------------
@@ -22,7 +22,7 @@ Suscribiéndote a la ListaDeCorreo_, registrándote en el portal, asistiendo a c
 
 .. ############################################################################
 
-
+.. _listadecorreo: /pages/listadecorreo
 .. _eventos: /eventos/
 .. _reuniones: /wiki/reuniones
 .. _grupo de Python de Buenos Aires de Meetup: http://python.meetup.com/cities/ar/buenos_aires/
@@ -31,3 +31,7 @@ Suscribiéndote a la ListaDeCorreo_, registrándote en el portal, asistiendo a c
 
 
 .. _aquí: http://webchat.freenode.net/?channels=pyar
+
+.. _contribuyendoalwiki: /pages/contribuyendoalwiki
+
+.. include:: pages/common_links.rst

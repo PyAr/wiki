@@ -57,11 +57,6 @@ Adhiero a las propuestas de Facundo_ y Mariano_:
 
 * Producción de material de "marketing" y promoción.
 
--------------------------
-
- CategoryHomepage_
-
-.. ############################################################################
 
 .. _Bitson: http://bitson.com.ar/
 
@@ -69,8 +64,4 @@ Adhiero a las propuestas de Facundo_ y Mariano_:
 
 .. _IFTS18: http://www.ifts18.edu.ar/
 
-.. _Facundo: http://python.org.ar/FacundoBatista
-
-.. _Mariano: http://python.org.ar/MarianoReingart
-
-
+.. include:: pages/common_links.rst

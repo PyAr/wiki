@@ -37,7 +37,7 @@ Guía básica (recomendaciones)
 
    * Programa/Cronograma con las actividades a realizar (charlas, talleres, etc.)
 
-   * Estadísticas y temas menores (listados, mailings, impresiones, etc.) 
+   * Estadísticas y temas menores (listados, mailings, impresiones, etc.)
 
 #. Recluta Oradores y disertantes (con por lo menos 2 meses de anticipación)
 
@@ -89,7 +89,7 @@ Guía básica (recomendaciones)
 
    * Sorteo: si tienes materiales para regalar, recuerda repartir números y tenerlos preparado hacia el final de la jornada
 
-   * Pizarra o pizzarrón: para anotar mensajes, propuestas de charlas relámpago, cambios en el horario, reuniones, etc. 
+   * Pizarra o pizzarrón: para anotar mensajes, propuestas de charlas relámpago, cambios en el horario, reuniones, etc.
 
 #. Pide más voluntarios (1-2 o más) para que te ayuden a que la conferencia siga sin sobresaltos
 
@@ -109,7 +109,7 @@ Guía básica (recomendaciones)
 
    * Comentar resultados y subir videos en youtube/blip.tv
 
-#. Pasalo bien |smile| 
+#. Pasalo bien |smile|
 
 Luego del evento, para los interesados y en la medida de lo posible, se suelen hacer reuniones sociales, cenas o almuerzos, juegos y actividades recreativas, etc.
 
@@ -143,7 +143,7 @@ Materiales
 
 * Material_ (Bandera, folletos de PyAr_, estandartes)
 
-* http://groups.google.com.ar/group/pyday-rafaela/files 
+* http://groups.google.com.ar/group/pyday-rafaela/files
 
 Software
 ~~~~~~~~
@@ -187,3 +187,6 @@ El código fuente está publicado en googlecode_, proximamente paquete instalabl
 
 .. _googlecode: http://code.google.com/r/reingart-web2conf/
 
+.. include:: pages/common_links.rst
+
+.. _material: /pages/material

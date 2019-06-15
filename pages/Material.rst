@@ -1,12 +1,13 @@
+.. todo:: ver si los podemos ver aca
 
 **ATENCIÓN: esta página tiene un montón de archivos adjuntos que no se listan aquí. Para visualizarlos hacer click en "Editar" y luego en "Archivos adjuntos"**
 
 Folletos
 --------
 
-De uso general 01 (por Cesar Portela): 
+De uso general 01 (por Cesar Portela):
 
-Doble, a color y blanco y negro (por Facundo Batista): 
+Doble, a color y blanco y negro (por Facundo Batista):
 
 Con algunos cambios:  - Viene con un micro-tutorial de python.
 
@@ -19,7 +20,7 @@ Este archivo utiliza el font , que puede instalarse en ubuntu asi:
 Logo
 ----
 
-*  :strike:`El logo de` PyAr_:strike:`, en vectorial:`   
+* **deprecado** El logo de PyAr_ , en vectorial:
 
 * El logo de PyAr_, en vectorial:  (hecho con inkscape)
 
@@ -50,12 +51,12 @@ Están hechos con Inkscape.
 PyCon 2010
 ----------
 
-Diseños para* `/PyCon`_ 2010
+Diseños para* PyCon_ 2010
 
 Banners para Eventos
 --------------------
 
-El logo de* PyAr_, Python Argentina, www.python.org.ar, el logo de Python y las franjas celestes de la bandera ya estan impresos. 
+El logo de* PyAr_, Python Argentina, www.python.org.ar, el logo de Python y las franjas celestes de la bandera ya estan impresos.
 
 El nombre del evento, lugar, fecha y logo (la serpiente de wx) se despegan y se puede plotear y pegar otras cosas para reusarlo (de hecho, el de la foto esta reusando un banner anterior).
 
@@ -67,10 +68,10 @@ El nombre del evento, lugar, fecha y logo (la serpiente de wx) se despegan y se 
 
 * Todo se desarma y se lleva en una bolsa de 1m de alto más o menos.
 
-* Demo: 
+* Demo:
 
 * Foto:
 
-.. role:: strike
-   :class: strike
 
+.. _pycon: /pages/pycon
+.. include:: pages/common_links.rst

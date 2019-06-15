@@ -4,7 +4,7 @@ Mariano Reingart
 
 Email: ``reingart AT SPAMFREE gmail DOT com``
 
-Conocí a Python en 2006 buscando alternativas a VisualBasic_. En ese camino, para recibirme de Licenciado en Sistemas presenté la tesis de grado sobre "Desarrollo Rápido de Aplicaciones bajo un Proceso de Software Personal" (ver `artículo`_, y proyecto rad2py_), para lo cual creo que Python es parte de la solución, por eso me interesan temas que involucren RAD para GUI/WEB (sobre todo web2py_), tomando una IDE (IDLE, Pythonwin, PyCrust_, PythonCard_, etc.) y "extenderla" para lograr control y aseguramiento de calidad en una herramienta totalmente integrada, desde el análisis a la implementación.
+Conocí a Python en 2006 buscando alternativas a VisualBasic_. En ese camino, para recibirme de Licenciado en Sistemas presenté la tesis de grado sobre "Desarrollo Rápido de Aplicaciones bajo un Proceso de Software Personal" (ver `artículo`_, y proyecto rad2py_), para lo cual creo que Python es parte de la solución, por eso me interesan temas que involucren RAD para GUI/WEB (sobre todo web2py_), tomando una IDE (IDLE, Pythonwin, PyCrust, PythonCard_, etc.) y "extenderla" para lograr control y aseguramiento de calidad en una herramienta totalmente integrada, desde el análisis a la implementación.
 
 Actualmente estoy terminando la Maestría en Software Libre de la Universidad Abierta de Cataluña, para la cual también presente como tesis de maestría "Desarrollo rápido de software libre de alta caliday d" (ver `propuesta de investigación`_), explorando herramientas de asistencia al desarrollador (agil ALM) con interfaces basadas en tareas (Eclipse Mylyn), migración de sistemas en lenguajes legados, etc.
 
@@ -18,13 +18,13 @@ He disertado y/o sido colaborador de varios eventos (incluyendo la mayoría de l
 
 * `FliSol 2010`_ en Gonzalez Catan
 
-* `PgDay Argentina 2012`_ y `PgDay Argentina 2013`_ 
+* `PgDay Argentina 2012`_ y `PgDay Argentina 2013`_
 
-* `PyDay Buenos Aires 2010`_, `PyDay Gonzalez Catan 2011`_ 
+* `PyDay Buenos Aires 2010`_, `PyDay Gonzalez Catan 2011`_
 
 * `PyCon Argentina 2012`_
 
-Actualmente me desempeño en las siguientes organizaciones / proyectos de Software Libre: 
+Actualmente me desempeño en las siguientes organizaciones / proyectos de Software Libre:
 
 * `Contacto Regional de PostgreSQL para Argentina`_ desde 2011
 
@@ -90,9 +90,9 @@ Colaboraciones
 
 En PyAr_, desde 2008 vengo ayudando a organizar distintas conferencias, jornadas y charlas; tratando de difundir el lenguaje y el grupo de usuarios.
 
-En 2010 he ayudado en las Jornadas Regionales para traer a Massimo Di Pierro (Lider de Proyecto de Web2Py_); y en 2008 ayudé con la organización del PgDay_, que contó con la presencia de David Fetter (PostgreSQL) y otros invitados de la región (Brasil, Venezuela). Siendo el coordinador principal, en 2012 ayude a organizar la PyCon_ Argentina 2012 en conjunto con el PgDay_ Argentina 2012, que contó con varios invitados internacionales, incluyendo a Simon Riggs (Commiter y Major Developer de PostgreSQL), Brett Cannon, Larry Hastings (Core Commiter de Python), entre más de una decena de invitados internacionales y de la región, contando con varios miembros de la PSF y desarrolladores destacados. 
+En 2010 he ayudado en las Jornadas Regionales para traer a Massimo Di Pierro (Lider de Proyecto de Web2Py_); y en 2008 ayudé con la organización del PgDay_, que contó con la presencia de David Fetter (PostgreSQL) y otros invitados de la región (Brasil, Venezuela). Siendo el coordinador principal, en 2012 ayude a organizar la PyCon_ Argentina 2012 en conjunto con el PgDay_ Argentina 2012, que contó con varios invitados internacionales, incluyendo a Simon Riggs (Commiter y Major Developer de PostgreSQL), Brett Cannon, Larry Hastings (Core Commiter de Python), entre más de una decena de invitados internacionales y de la región, contando con varios miembros de la PSF y desarrolladores destacados.
 
-Internacionalmente, he dado una charla en PgConBr_ (Conferencia de PostgreSQL Brasil) sobre Replicación y Python (pyreplica). También presenté poster_ en PyCon_ US 2012, fuí disertante en el `WebDev Summit`_ y participé en los sprints_.
+Internacionalmente, he dado una charla en PgConBr (Conferencia de PostgreSQL Brasil) sobre Replicación y Python (pyreplica). También presenté poster_ en PyCon_ US 2012, fuí disertante en el `WebDev Summit`_ y participé en los sprints_.
 
 Docencia
 ~~~~~~~~
@@ -118,7 +118,7 @@ Temas en los que trato/traté de contribuir
 
 * FCKeditor (conector python wsgi)
 
-* DrPython_
+* DrPython
 
 * PySVN (específicamente svn-load)
 
@@ -133,7 +133,7 @@ Otros temas en los que puedo ayudar
 
 * wxPython, PythonCard_
 
-* PythonWin_, py2exe y demás extensiones para Windows
+* PythonWin, py2exe y demás extensiones para Windows
 
 * Django
 
@@ -148,9 +148,6 @@ Otros temas no relacionados directamente a Python
 
 * M$ Windows; Debian, Slackware
 
--------------------------
-
- http://www.python.org.ar/wiki/
 
 .. ############################################################################
 
@@ -244,6 +241,7 @@ Otros temas no relacionados directamente a Python
 
 .. _mi fork: https://www.github.com/reingart/wxWidgets
 
+.. _pyconbr: https://2019.pythonbrasil.org.br/
 
 
 
@@ -269,6 +267,11 @@ Otros temas no relacionados directamente a Python
 
 .. _proxymin: http://www.nsis.com.ar/public/browser/proxymin
 
+.. _visualbasic: /pages/visualbasic
 
+.. _pythoncard: /pages/pythoncard
 
+.. _pycon: /pages/pycon
+
+.. include:: pages/common_links.rst
 
