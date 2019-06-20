@@ -4,7 +4,7 @@ Obteniendo Respuestas
 
 *por Mike Ash*
 
-Traducido por `Juan Pedro Fisanotti`_
+Traducido por Juan Pedro Fisanotti
 
 **Nota del Traductor**
 

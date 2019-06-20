@@ -29,7 +29,7 @@ Recomendaciones
 
 * Escribir respetando la ortografía y reglas de puntuación adecuadas para facilitar la lectura a los demás miembros.
 
-* :strike:`Leer atentamente el famoso paper de` `"Cómo hacer preguntas inteligentes"`_
+* `Leer atentamente el famoso paper de` `"Cómo hacer preguntas inteligentes"`_
 
 * Mejor lee ObteniendoRespuestas_, que es mas amigable
 
@@ -90,8 +90,7 @@ Claramente ONTOPIC
 
 .. _video gracioso ilustrando la situación: http://www.youtube.com/watch?v=MSUr0tHTwfw
 
+.. _recetario: /pages/recetario
+.. _obteniendorespuestas: /pages/obteniendorespuestas
 
-
-.. role:: strike
-   :class: strike
-
+.. include:: pages/common_links.rst

@@ -1,8 +1,9 @@
-.. contents:: :depth: 2
+.. contents:: 
+    :depth: 2
 
 En esta página podrán encontrar los *slides* de charlas y presentaciones dictadas por miembros de PyAr_.
 
-¡Agregá la tuya!https://www.bigboyscartoys.com/
+¡Agregá la tuya!
 
 General
 =======
@@ -221,7 +222,7 @@ MyHDL, de Python al silicio
 *Martín Gaitán*
 
     En el mundo del hardware se usan lenguajes de descripción
-    como VHDL o Verilog. MyHDL_ es un paquete que permite utilizar
+    como VHDL o Verilog. MyHDL es un paquete que permite utilizar
     la potencia de alto nivel de Python como reemplazo (o abstracción)
     de un lenguaje de descripción de hardware tradicional.
 
@@ -1052,3 +1053,33 @@ Video Analytics events processing platform
 *Juan Carniglia*
 
 **Presentación**: https://drive.google.com/open?id=0B4q9mzGMZNZ4Qzk5eUY2NHZNalJMeUpzemhmaWtsM3dQV2ZZ
+
+.. include:: pages/common_links.rst
+
+.. _juanjoconti: /pages/juanjoconti
+.. _diegosarmentero: /pages/diegosarmentero
+.. _marianoreingart: /pages/marianoreingart
+.. _dbapi: /pages/dbapi
+.. _plpython: /pages/plpython
+.. _pythoncard: /pages/pythoncard
+.. _wxpython: /pages/wxpython
+.. _web2py: /pages/web2py
+.. _juanfisanotti: /pages/juanfisanotti
+.. _openoffice: /pages/openoffice
+.. _martingaitan: /pages/martingaitan
+.. _angelfreire: /pages/angelfreire
+.. _juanfisanotti: /pages/juanfisanotti
+.. _nataliabidart: /pages/nataliabidart
+.. _nicoechaniz: /pages/nicoechaniz
+.. _matiasbordese: /pages/matiasbordese
+.. _marcelofernández: /pages/marcelofernandez
+.. _emilianodallaverdemarcozzi: /pages/emilianodallaverdemarcozzi
+.. _manuelquiñones: /pages/manuelquinones
+.. _dropybox: /pages/dropybox
+.. _wifi: /pages/wifi
+.. _manuelkaufmann: /pages/manuelkaufmann
+.. _pyconar: /pages/pyconar
+.. _pablomouzo: /pages/pablomouzo
+
+
+

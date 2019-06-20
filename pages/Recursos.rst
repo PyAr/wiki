@@ -1,7 +1,4 @@
-Estos son buenos recursos |smiley|
-
-.. embed:: https://www.youtube.com/watch?v=viJoP21JQqk
-
+Estos son buenos recursos |smile|
 
 Estas son organizaciones y empresas argentinas que utilizan python regularmente de distintas formas[1]_.
   
@@ -142,7 +139,7 @@ LUNIX S.R.L.
 
 * Dirección: Iturraspe 1366, Santa Fe Capital.
 
-* Utilizamos Python en varios proyectos, los que incluyen una consola gráfica para el servidor de backup Bacula, un sistema automático de conexión y testeo de servidores, un generador automático de informes en OpenOffice_.org, webservices para un sistema interno de tickets, y otras herramientas de uso interno.
+* Utilizamos Python en varios proyectos, los que incluyen una consola gráfica para el servidor de backup Bacula, un sistema automático de conexión y testeo de servidores, un generador automático de informes en OpenOffice.org, webservices para un sistema interno de tickets, y otras herramientas de uso interno.
 
 * ¿Cómo usamos Python? Uso de todo tipo, desde integración con software escrito en otros lenguajes a sistemas escritos completos en el mismo.
 
@@ -305,3 +302,6 @@ Vortech
 
 .. _Turbogears: http://www.turbogears.org/
 
+.. include:: pages/common_links.rst
+.. _ricardokirkner: /pages/ricardokirkner
+.. _santiagopereson: /pages/santiagopereson

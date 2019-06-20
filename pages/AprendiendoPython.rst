@@ -152,7 +152,7 @@ Ejemplos prácticos de problemas y soluciones frecuentes
 
 * `Python Recipes - ActiveState`_ (Inglés)
 
-* `Recetario - Python Argentina`_ (Español)
+* `Recetario`_ - Python Argentina (Español)
 
 Videos
 ------
@@ -227,10 +227,14 @@ Videos
 
 
 
-
-
-
 .. _Python Recipes - ActiveState: http://code.activestate.com/recipes/langs/python/
-
-
-
+.. include:: pages/common_links.rst
+.. _listadecorreo: /pages/listadecorreo
+.. _miniejemplos: /pages/miniejemplos
+.. _sebastianbassi: /pages/sebastianbassi
+.. _dbapi: /pages/dbapi
+.. _marianoreingart: /pages/marianoreingart
+.. _plpython: /pages/plpython
+.. _marianoreingart: /pages/marianoreingart
+.. _pythoncard: /pages/pythoncard
+.. _recetorio: /pages/recetario
