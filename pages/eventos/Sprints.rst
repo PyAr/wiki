@@ -14,5 +14,5 @@ Sprints
 
 .. _Gleducar: http://www.gleducar.org.ar/
 
-.. _Wikipedia Offline: http://www.python.com.ar/moin/Eventos/Sprints/WikipediaOffline1
+.. _Wikipedia Offline: /pages/eventos/Sprints/wikipediaoffline1
 

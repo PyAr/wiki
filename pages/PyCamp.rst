@@ -92,7 +92,7 @@ Blogpost sobre Pycamps
 
 * django.es: http://django.es/blog/sprint-django-pycamp-argentina-2009/
 
-* GonzaloOdiard_: http://godiard.blogspot.com/2010/03/en-el-pycamp.html
+* GonzaloOdiard: http://godiard.blogspot.com/2010/03/en-el-pycamp.html
 
 * JohnLenton_: http://pyvore.com/2010/03/10/pycamp.html
 
@@ -100,7 +100,7 @@ Blogpost sobre Pycamps
 
 * JoaquinSorianello_: http://www.joaclandia.com.ar/2010/03/buenas-nuevas.html
 
-* TomasZulberti_: http://www.tzulberti.com.ar/2010/04/17/pycamp-2010/
+* TomasZulberti: http://www.tzulberti.com.ar/2010/04/17/pycamp-2010/
 
 2011
 ~~~~
@@ -109,7 +109,7 @@ Blogpost sobre Pycamps
 
 * FacundoBatista_: http://www.taniquetil.com.ar/plog/post/1/506
 
-* MateoBengualid_: http://aplacetospillmybraininto.blogspot.com/2011/03/fui-al-pycamp-2011.html
+* MateoBengualid: http://aplacetospillmybraininto.blogspot.com/2011/03/fui-al-pycamp-2011.html
 
 * EzequielMarquez_: http://www.ezequielmarquez.com.ar/2011/03/pycamp-2011.html
 
@@ -121,18 +121,14 @@ Blogpost sobre Pycamps
 
 * EmilianoDallaVerdeMarcozzi_: http://ninjasandpythones.blogspot.com/2011/04/experiencia-del-pycamp-en-la-falda.html
 
--------------------------
-
- CategoryPyCamp_
-
 .. ############################################################################
 
 
-.. _aqui: /wiki/PyCamp/QueSeHace
+.. _aqui: /pages/PyCamp/quesehace
 
-.. _organizar: /wiki/PyCamp/OrganizandoUnPyCamp
+.. _organizar: /pages/PyCamp/organizandounpycamp
 
-.. _marcha: /wiki/PyCamp/2019
+.. _marcha: /pages/PyCamp/2019
 
 .. _Cocos2d: http://cocos2d.org/
 
@@ -140,35 +136,33 @@ Blogpost sobre Pycamps
 
 .. _CDpedia: http://code.google.com/p/cdpedia/
 
-.. _Los Cocos, Córdoba. Marzo de 2009: /PyCamp/2009
+.. _Los Cocos, Córdoba. Marzo de 2009: /pages/PyCamp/2009
 
-.. _Veronica, Buenos Aires. Marzo de 2010: /PyCamp/2010
+.. _Veronica, Buenos Aires. Marzo de 2010: /pages/PyCamp/2010
 
-.. _La Falda, Córdoba. Marzo de 2011: /PyCamp/2011
+.. _La Falda, Córdoba. Marzo de 2011: /pages/PyCamp/2011
 
-.. _Veronica, Buenos Aires. Julio de 2012: /PyCamp/2012
+.. _Veronica, Buenos Aires. Julio de 2012: /pages/PyCamp/2012
 
-.. _Villa Giardino, Córdoba. Junio de 2013: /PyCamp/2013
+.. _Villa Giardino, Córdoba. Junio de 2013: /pages/PyCamp/2013
 
-.. _Villa Giardino, Córdoba. Marzo de 2014: /PyCamp/2014
+.. _Villa Giardino, Córdoba. Marzo de 2014: /pages/PyCamp/2014
 
-.. _La Serranita, Córdoba. Agosto de 2015: /PyCamp/2015
+.. _La Serranita, Córdoba. Agosto de 2015: /pages/PyCamp/2015
 
-.. _La Serranita, Córdoba. Marzo de 2016: /PyCamp/2016
+.. _La Serranita, Córdoba. Marzo de 2016: /pages/PyCamp/2016
 
-.. _Baradero, Buenos Aires. Marzo de 2017: /PyCamp/2017
+.. _Baradero, Buenos Aires. Marzo de 2017: /pages/PyCamp/2017
 
+.. _ramiromorales: /pages/ramiromorales
+.. _marcosdione: /pages/marcosdione
+.. _johnlenton: /pages/johnlenton
+.. _JoaquinSorianello: /pages/joaquinsorianello
+.. _EzequielMarquez: /pages/ezequielmarquez
+.. _MartinGaitan: /pages/miembros/tin
+.. _MarcosVanetta: /pages/marcosvanetta
+.. _HugoRuscitti: /pages/hugoruscitti
+.. _EmilianoDallaVerdeMarcozzi: /pages/emilianodallaverdemarcozzi
 
-
-
-
-
-
-
-
-
-
-
-
-
+.. include:: pages/common_links.rst
 
