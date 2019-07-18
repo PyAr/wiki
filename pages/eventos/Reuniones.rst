@@ -17,7 +17,7 @@ Enlaces a las últimas reuniones realizadas
 * `Reunión 63 - 2014 <../Reuniones/2014/reunion63>`_
 * `Reunión 62 - 2014 <../Reuniones/2014/reunion62>`_
 
-.. _Release procedure: /pages/eventos/reuniones/releaseprocedure
+.. _Release procedure: /pages/eventos/Reuniones/releaseprocedure
 .. _listadecorreo: /pages/listadecorreo
 .. _ProximaReunion: /pages/proximareunion
 

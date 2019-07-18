@@ -10,7 +10,7 @@ En esta reunión decidimos lo siguiente:
 
   * Info institucional en la página principal
 
-  * Info sobre la próxima reunión 
+  * Info sobre la próxima reunión
 
 * Armar la lista de correo Laboral;
 
@@ -18,9 +18,10 @@ En esta reunión decidimos lo siguiente:
 
 * Configurar Plone para poner un loguito nuestro, que las listas queden visibles cuando se entra por primera vez, etc.
 
-* Replicar la info más importante en Meet Up 
+* Replicar la info más importante en Meet Up
 
 * Hacer propaganda en donde se pueda (listas de python en castellano y en inglés, en pythonhispano, página central de Clarín, etc).
 
-Comprobamos que el lugar no es el más propicio, por la cantidad de gente y la atención (sobre todo, lo último). Facundo **prometió** |wink| encontrar un lugar mejor para la próxima...
+Comprobamos que el lugar no es el más propicio, por la cantidad de gente y la atención (sobre todo, lo último). Facundo **prometió** encontrar un lugar mejor para la próxima...
 
+.. include:: pages/common_links.rst

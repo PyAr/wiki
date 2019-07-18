@@ -28,3 +28,4 @@ También discutimos ideas mas locas (bueno... algunas no tanto), a más largo pl
 
 La reunión fue muy amena, divertida y productiva. Contamos con que para la próxima seremos más.
 
+.. include:: pages/common_links.rst

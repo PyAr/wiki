@@ -8,7 +8,7 @@ Sprints
 
 .. ############################################################################
 
-.. _STIM: http://www.python.com.ar/moin/Proyectos/STIM
+.. _STIM: /pages/Proyectos/stim
 
 .. _Primera Jornada de Python en Santa Fé: http://www.python-santafe.com.ar/
 

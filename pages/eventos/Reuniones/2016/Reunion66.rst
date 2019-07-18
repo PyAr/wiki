@@ -12,7 +12,7 @@ Viernes 25 de Marzo de 2016 - 20hs
 Lugar
 ~~~~~
 
-La Serranita, Córdoba, en el marco del `PyCamp 2016 </wiki/PyCamp/2016>`_
+La Serranita, Córdoba, en el marco del `PyCamp 2016 </pages/PyCamp/2016>`_
 
 
 Minuta
@@ -40,3 +40,6 @@ Se charlaron varios temas, los principales fueron:
   * Limitar la cantidad de proyectos que cada persona puede votar.
   * Tener un proyecto "desde cero" para quienes se inician en Python desde el primer día. Podría ser un juego, como resultó el de este año "Tower Defense".
   * Generar algún tipo de alerta, podría ser por un grupo de Telegram, para anunciar los inicios de los proyectos, comidas, reuniones, juegos... (ya implementado)
+
+
+.. _pycamp: /pages/pycamp

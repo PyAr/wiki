@@ -165,7 +165,7 @@ Videos
 
     `Lista de charlas realizadas`_ (Español)
 
- *Links revisados al 27/03/2011* 
+ *Links revisados al 27/03/2011*
 
 .. _How to Think Like a Computer Scientist: http://greenteapress.com/thinkpython/thinkpython.html
 
@@ -237,4 +237,5 @@ Videos
 .. _plpython: /pages/plpython
 .. _marianoreingart: /pages/marianoreingart
 .. _pythoncard: /pages/pythoncard
-.. _recetorio: /pages/recetario
+.. _recetario: /pages/recetario
+.. _lista de charlas realizadas: /pages/charlas

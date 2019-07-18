@@ -54,33 +54,33 @@ Charlas Realizadas
 
 .. ############################################################################
 
-.. _Introducción a la Programación: /IntroducciónALaProgramación
+.. _Introducción a la Programación: /pages/CharlasAbiertas2010/introduccionalaprogramacion
 
-.. _Introducción a Python: /IntroducciónAPython
+.. _Introducción a Python: /pages/CharlasAbiertas2010/introduccionapython
 
-.. _Introducción al Desarrollo Web I: /IntroducciónAlDesarrolloWebI
+.. _Introducción al Desarrollo Web I: /pages/CharlasAbiertas2010/introduccionaldesarrollowebi
 
-.. _Introducción al Desarrollo Web II: /IntroducciónAlDesarrolloWebII
+.. _Introducción al Desarrollo Web II: /pages/CharlasAbiertas2010/introduccionaldesarrollowebii
 
-.. _!FooBar (virtualenv, buildout, nose): /FooBar
+.. _!FooBar (virtualenv, buildout, nose): /pages/CharlasAbiertas2010/foobar
 
-.. _Django: /Django
+.. _Django: /pages/CharlasAbiertas2010/django
 
-.. _Introducción a las Interfaces Gráficas de Escritorio I: /IntroducciónGUI_I
+.. _Introducción a las Interfaces Gráficas de Escritorio I: /pages/CharlasAbiertas2010/introducciongui_i
 
-.. _Introducción a las Interfaces Gráficas de Escritorio II: /IntroducciónGUI_II
+.. _Introducción a las Interfaces Gráficas de Escritorio II: /pages/CharlasAbiertas2010/introducciongui_ii
 
-.. _wxPython: /wxPython
+.. _wxPython: /pages/CharlasAbiertas2010/wxpython
 
-.. _Introducción al uso y desarrollo con Plone: /IntroducciónAPlone
+.. _Introducción al uso y desarrollo con Plone: /pages/CharlasAbiertas2010/introduccionaplone
 
-.. _Optimizando Python: /OptimizandoPython
+.. _Optimizando Python: /pages/CharlasAbiertas2010/optimizandopython
 
-.. _PyQt: /PyQt
+.. _PyQt: /pages/CharlasAbiertas2010/pyqt
 
-.. _Python3000: /Python3000
+.. _Python3000: /pages/CharlasAbiertas2010/python3000
 
-.. _Twisted: /Twisted
+.. _Twisted: /pages/CharlasAbiertas2010/twisted
 
-.. _Taller de Programación de Juegos: /TallerJuegos
+.. _Taller de Programación de Juegos: /pages/CharlasAbiertas2010/tallerjuegos
 

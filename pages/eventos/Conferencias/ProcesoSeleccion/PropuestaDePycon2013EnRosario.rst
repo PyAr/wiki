@@ -1,4 +1,3 @@
-
 PyCon Argentina 2013 - Rosario
 ==============================
 
@@ -15,7 +14,7 @@ Tren, no posee todas las comodidades de los medios anteriores, ya que como sabem
 
 La ciudad posee una gran capacidad hotelera, casi todos concentrados en la zona céntrica de la ciudad, que van desde hoteles económicos a opciones cinco estrellas. Tenemos un fuerte apoyo gubernamental
 
-La **Secretaría de Cultura de Rosario**, por medio del **Área de Prensa y Comunicación Social**, nos ha expresado su total apoyo y compromiso con la realización del evento. La **Municipalidad de Rosario** viene apoyando el uso de software libre desde hace muchos años. Varios sitios de la misma se encuentran desarrollados en Plone y es por esto que para varias reparticiones sería de suma importancia la realización del evento, asegurando público que está necesitando ampliar sus conocimientos. Esto nos permite contar con toda la experiencia de la Secretaría de Cultura para la realización de grandes eventos. 
+La **Secretaría de Cultura de Rosario**, por medio del **Área de Prensa y Comunicación Social**, nos ha expresado su total apoyo y compromiso con la realización del evento. La **Municipalidad de Rosario** viene apoyando el uso de software libre desde hace muchos años. Varios sitios de la misma se encuentran desarrollados en Plone y es por esto que para varias reparticiones sería de suma importancia la realización del evento, asegurando público que está necesitando ampliar sus conocimientos. Esto nos permite contar con toda la experiencia de la Secretaría de Cultura para la realización de grandes eventos.
 
 También contamos con el apoyo de la **Dirección General de Informática**. La infraestructura que nos han puesto a disposición sobrepasa holgadamente nuestros requerimientos. Luego entraremos en detalles de las características y capacidad de cada uno, pero cabe destacar que casi todos los lugares propuestos están muy cerca de la zona céntrica de la ciudad, como se mencionó antes con fácil acceso a muchas ofertas hoteleras y muy cerca de las estaciones de ómnibus y trenes.
 
@@ -108,7 +107,7 @@ Organización
 
 * Reuniones:
 
-  * A planificar por Google Hangout 
+  * A planificar por Google Hangout
 
 Coordinadores
 -------------
@@ -123,9 +122,9 @@ Coordinadores
 
 * Coordinación de Talleres:
 
-* Coordinación de Sprints y Espacios Abiertos: 
+* Coordinación de Sprints y Espacios Abiertos:
 
-* Coordinación de Diseños y Gráficas:  
+* Coordinación de Diseños y Gráficas:
 
 * Coordinación de Sponsors (ingresos):
 
@@ -143,7 +142,7 @@ Coordinadores
 
 * Coordinación de Transporte y Alojamiento:
 
-* Webmaster: 
+* Webmaster:
 
 Cabe destacar que para la organización general así como la puesta a punto y difusión del evento contamos con el apoyo y patrocinio del  **Ministerio de Cultura de la Municipalidad de la Ciudad de Rosario**. Intentaremos que por medio de pasantías del area de prensa y comunicación social, sumar pasantes de dicha carrera para que se hagan cargo de las tareas organizativas y de comunicación en las que tienen más experiencia.
 
@@ -251,7 +250,7 @@ Armado de bolsas o carpetas con los materiales, recepción de los participantes,
 Staff Fotografía, Audio-Video y Streaming
 -----------------------------------------
 
-  Grabación, edición o publicación de los contenidos:   
+  Grabación, edición o publicación de los contenidos:
 
   * Área de Coordinación de Prensa y Comunicación Social de la Municipalidad de Rosario.
 

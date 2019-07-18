@@ -49,7 +49,7 @@ A grandes rasgos es una experiencia positiva y está todo bien, algunas anotacio
 
 * los usan mucho para cobrar sponsors (pero avisó que los internacionales son un problema, por el lío de gestión que siempre es), y no cobran entradas generales a un evento (por la cantidad de transacciones, de nuevo el lío de gestión)
 
-Fue muy interesante la charla con Juan, y nos pareció que SADIO era una posibilidad. 
+Fue muy interesante la charla con Juan, y nos pareció que SADIO era una posibilidad.
 
 También comenté algo que habíamos charlado en el canal de IRC: contratar a un abogado o un contador para que nos prepare un informe de lo que implicaría (costo de plata y tiempos, etc) armar una sociedad civil que nos sirva puntualmente a nosotros. Supongo que con lo que nos contó Juan y este informe, ya podríamos tomar una decisión para avanzar en este tema.
 
@@ -59,3 +59,5 @@ También comenté algo que habíamos charlado en el canal de IRC: contratar a un
 
 .. _SADIO: http://www.sadio.org.ar/
 
+.. include:: pages/common_links.rst
+.. _pycon:  /pages/pycon
