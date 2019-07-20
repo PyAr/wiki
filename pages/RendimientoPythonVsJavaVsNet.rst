@@ -112,4 +112,4 @@ Referencias
 
 .. _Rendimiento en python sobre operaciones matemáticas: http://scipy.org/PerformancePython
 
-.. include:: pages/common_links.rst
+

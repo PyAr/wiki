@@ -273,5 +273,5 @@ Otros temas no relacionados directamente a Python
 
 .. _pycon: /pages/pycon
 
-.. include:: pages/common_links.rst
+
 

@@ -59,5 +59,5 @@ También comenté algo que habíamos charlado en el canal de IRC: contratar a un
 
 .. _SADIO: http://www.sadio.org.ar/
 
-.. include:: pages/common_links.rst
+
 .. _pycon:  /pages/pycon

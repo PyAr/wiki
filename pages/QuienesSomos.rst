@@ -33,4 +33,4 @@ Suscribiéndote a la ListaDeCorreo_, registrándote en el portal, asistiendo a c
 
 .. _contribuyendoalwiki: /pages/contribuyendoalwiki
 
-.. include:: pages/common_links.rst
+

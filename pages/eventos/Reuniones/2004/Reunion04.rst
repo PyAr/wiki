@@ -62,4 +62,4 @@ No nos costó mucho encontrar un tema interesante para la próxima serie de spri
 
 .. _CaFeLUG: http://www.cafelug.org.ar
 
-.. include:: pages/common_links.rst
+

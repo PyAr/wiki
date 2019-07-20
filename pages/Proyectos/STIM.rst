@@ -32,4 +32,4 @@ También PabloZiliani_ y nueces nos ayudaron a testear.
 .. _leitomonk: /pages/leitomonk
 .. _nubis: /pages/nubis
 .. _pabloziliani: /pages/pabloziliani
-.. include:: pages/common_links.rst
+

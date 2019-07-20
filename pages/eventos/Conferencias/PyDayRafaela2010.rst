@@ -200,6 +200,6 @@ Habría que pensar en hacer un asado o algo el día siguiente, con organizadores
 
 .. _aquí: http://www.pythonsantafe.com.ar/
 
-.. include:: pages/common_links.rst
+
 .. _pyweek: /pages/pyweek
 .. _pygame: /pages/pygame

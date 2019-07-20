@@ -40,5 +40,5 @@ pyday.com.ar
 
 .. _canal de IRC: http://python.org.ar/IRC
 
-.. include:: pages/common_links.rst
+
 

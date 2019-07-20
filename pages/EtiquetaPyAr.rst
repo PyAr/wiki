@@ -93,4 +93,4 @@ Claramente ONTOPIC
 .. _recetario: /pages/recetario
 .. _obteniendorespuestas: /pages/obteniendorespuestas
 
-.. include:: pages/common_links.rst
+

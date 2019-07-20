@@ -185,7 +185,7 @@ Adopciones Finalizadas
 
 
 
-.. include:: pages/common_links.rst
+
 
 .. _acá: http://www.taniquetil.com.ar/plog/post/1/507
 

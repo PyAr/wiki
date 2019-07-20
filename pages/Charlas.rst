@@ -1054,7 +1054,7 @@ Video Analytics events processing platform
 
 **Presentación**: https://drive.google.com/open?id=0B4q9mzGMZNZ4Qzk5eUY2NHZNalJMeUpzemhmaWtsM3dQV2ZZ
 
-.. include:: pages/common_links.rst
+
 
 .. _juanjoconti: /pages/juanjoconti
 .. _diegosarmentero: /pages/diegosarmentero

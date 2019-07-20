@@ -29,4 +29,4 @@ http://i.imgur.com/hZGBi.jpg
 
 .. _Formato JPG: http://i.imgur.com/hZGBi.jpg
 
-.. include:: pages/common_links.rst
+

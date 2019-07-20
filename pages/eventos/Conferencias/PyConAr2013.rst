@@ -74,5 +74,5 @@ Fotos
 
 * https://plus.google.com/photos/108155033271790413956/albums/5939980470881806081 * http://www.flickr.com/photos/70871182@N04/sets/72157637010046074/
 
-.. include:: pages/common_links.rst
+
 .. _pycon: /pages/pycon

@@ -187,6 +187,6 @@ El código fuente está publicado en googlecode_, proximamente paquete instalabl
 
 .. _googlecode: http://code.google.com/r/reingart-web2conf/
 
-.. include:: pages/common_links.rst
+
 
 .. _material: /pages/material

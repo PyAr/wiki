@@ -52,4 +52,4 @@ Indice
 .. _ideasparaprogramar: /pages/ideasparaprogramar
 .. _infraestructura: /pages/infraestructura
 
-.. include:: pages/common_links.rst
+

@@ -22,5 +22,5 @@ Aca una tabla para anotarse para tener una idea de la cantidad de interesados. A
 
 .. _Server para la OLPC: http://wiki.laptop.org/go/School_server
 
-.. include:: pages/common_links.rst
+
 

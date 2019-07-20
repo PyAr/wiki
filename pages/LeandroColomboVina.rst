@@ -64,4 +64,4 @@ Adhiero a las propuestas de Facundo_ y Mariano_:
 
 .. _IFTS18: http://www.ifts18.edu.ar/
 
-.. include:: pages/common_links.rst
+

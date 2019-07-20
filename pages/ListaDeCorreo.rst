@@ -148,4 +148,4 @@ La suscripción está desde el 17 de octubre de 2006.
 
 .. _asociacioncivil: /pages/asociacioncivil
 .. _etiquetapyar: /pages/etiquetapyar
-.. include:: pages/common_links.rst
+

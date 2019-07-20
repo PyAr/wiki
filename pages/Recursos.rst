@@ -302,6 +302,6 @@ Vortech
 
 .. _Turbogears: http://www.turbogears.org/
 
-.. include:: pages/common_links.rst
+
 .. _ricardokirkner: /pages/ricardokirkner
 .. _santiagopereson: /pages/santiagopereson

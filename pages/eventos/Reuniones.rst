@@ -21,4 +21,4 @@ Enlaces a las últimas reuniones realizadas
 .. _listadecorreo: /pages/listadecorreo
 .. _ProximaReunion: /pages/proximareunion
 
-.. include:: pages/common_links.rst
+

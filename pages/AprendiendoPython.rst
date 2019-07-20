@@ -228,7 +228,7 @@ Videos
 
 
 .. _Python Recipes - ActiveState: http://code.activestate.com/recipes/langs/python/
-.. include:: pages/common_links.rst
+
 .. _listadecorreo: /pages/listadecorreo
 .. _miniejemplos: /pages/miniejemplos
 .. _sebastianbassi: /pages/sebastianbassi

@@ -74,4 +74,4 @@ El nombre del evento, lugar, fecha y logo (la serpiente de wx) se despegan y se 
 
 
 .. _pycon: /pages/pycon
-.. include:: pages/common_links.rst
+

@@ -164,5 +164,5 @@ Blogpost sobre Pycamps
 .. _HugoRuscitti: /pages/hugoruscitti
 .. _EmilianoDallaVerdeMarcozzi: /pages/emilianodallaverdemarcozzi
 
-.. include:: pages/common_links.rst
+
 
