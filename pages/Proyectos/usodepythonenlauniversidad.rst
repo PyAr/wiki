@@ -162,3 +162,7 @@ http://stackoverflow.com/questions/1120542/what-is-the-best-plotting-library-for
 
 .. _gnuplot: http://www.gnuplot.info/
 
+.. _listadecorreo: /pages/listadecorreo
+.. _danielmoisset: /pages/danielmoisset
+.. _plpython: /pages/plpython
+.. _categoryproyectos: /pages/categoryproyectos

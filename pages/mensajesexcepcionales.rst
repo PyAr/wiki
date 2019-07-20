@@ -717,3 +717,5 @@ En esta versión de Python, el módulo md5 existe por compatibilidad hacia atrá
 
 
 
+.. _pythonzen: /pages/pythonzen
+.. _python3mil: /pages/python3mil

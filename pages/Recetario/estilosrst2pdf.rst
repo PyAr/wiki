@@ -129,3 +129,4 @@ Enlaces
 
 .. _Proyecto rst2pdf: https://code.google.com/p/rst2pdf/
 
+.. _categoryrecetas: /pages/categoryrecetas

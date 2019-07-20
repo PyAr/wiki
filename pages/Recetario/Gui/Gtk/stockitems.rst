@@ -55,3 +55,4 @@ un screenshot:
 
   CategoryRecetas_
 
+.. _categoryrecetas: /pages/categoryrecetas

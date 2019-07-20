@@ -122,3 +122,6 @@ Minuta
 
 .. _Dave(tenuki): AlejandroDavidWeil
 
+.. _pyar: /pages/pyar
+.. _categoryreuniones: /pages/categoryreuniones
+.. _pycon: /pages/pycon

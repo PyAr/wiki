@@ -48,3 +48,4 @@ Gracias Martin Conte Mac Donell! |wink|
 
   CategoryRecetas_
 
+.. _categoryrecetas: /pages/categoryrecetas

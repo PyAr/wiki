@@ -14,3 +14,4 @@ To add a page to this category, add a link to this page on the last line of the 
 .. ############################################################################
 
 
+.. _categorycategory: /pages/categorycategory

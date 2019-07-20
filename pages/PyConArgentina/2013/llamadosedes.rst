@@ -124,3 +124,6 @@ Juan B. Cabral
 
 .. _Jornada de PostgreSQL: http://www.pgday.com.ar/buenosaires2012
 
+.. _pyar: /pages/pyar
+.. _marianoreingart: /pages/marianoreingart
+.. _pycon: /pages/pycon

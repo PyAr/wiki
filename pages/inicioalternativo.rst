@@ -80,3 +80,13 @@ Contenido
 
 
 
+.. _pyar: /pages/pyar
+.. _eventos: /pages/eventos
+.. _listadecorreo: /pages/listadecorreo
+.. _recursos: /pages/recursos
+.. _charlas: /pages/charlas
+.. _aprendiendopython: /pages/aprendiendopython
+.. _preguntasfrecuentes: /pages/preguntasfrecuentes
+.. _recetario: /pages/recetario
+.. _material: /pages/material
+.. _trabajos: /pages/trabajos

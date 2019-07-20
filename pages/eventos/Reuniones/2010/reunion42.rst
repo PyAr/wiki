@@ -132,3 +132,12 @@ I18n Exceptions:
 
 .. _Doctor Mason: http://www.doctormason.com.ar/
 
+.. _pyday: /pages/pyday
+.. _marianoreingart: /pages/marianoreingart
+.. _albertopaparelli: /pages/albertopaparelli
+.. _joaquinsorianello: /pages/joaquinsorianello
+.. _angelvelasquez: /pages/angelvelasquez
+.. _hugoruscitti: /pages/hugoruscitti
+.. _sebastianbassi: /pages/sebastianbassi
+.. _gabrielgenellina: /pages/gabrielgenellina
+.. _pycon: /pages/pycon

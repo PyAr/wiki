@@ -263,3 +263,6 @@ Staff de Prensa y Difusión
 
 .. _aidigoras@rosario.gov.ar: mailto:aidigoras@rosario.gov.ar
 
+.. _pyday: /pages/pyday
+.. _pyar: /pages/pyar
+.. _pycon: /pages/pycon

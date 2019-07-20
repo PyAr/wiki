@@ -139,3 +139,10 @@ La página VisualBasic_ detalla las similitudes y diferencias entre ambos lengua
 
 
 
+.. _mensajesexcepcionales: /pages/mensajesexcepcionales
+.. _python3mil: /pages/python3mil
+.. _autocomplecionenconsolainteractiva: /pages/Recetario/autocomplecionenconsolainteractiva
+.. _guardarhistorialenconsolainteractiva: /pages/guardarhistorialenconsolainteractiva
+.. _rendimientopythonvsjavavsnet: /pages/rendimientopythonvsjavavsnet
+.. _pythoncard: /pages/pythoncard
+.. _visualbasic: /pages/visualbasic

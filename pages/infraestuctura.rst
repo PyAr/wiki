@@ -47,4 +47,4 @@ Quíero participar ¿Cómo hago?
 
 - Contactanos!
 - Mira nuestros issues y proponé soluciones: https://github.com/PyAr/pyar_infra/issues
-- Agrega mejoras en esta Wiki.
+- Agrega mejoras en esta Wiki... _pyar: /pages/pyar

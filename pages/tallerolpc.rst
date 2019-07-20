@@ -61,3 +61,4 @@ Thread en PyAr_ sobre LiveCDs: http://article.gmane.org/gmane.org.user-groups.py
 .. ############################################################################
 
 
+.. _pyar: /pages/pyar

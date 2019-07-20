@@ -147,3 +147,21 @@ Con muchas ganas, pero sin plata
 .. role:: strike
    :class: strike
 
+.. _marcosdione: /pages/marcosdione
+.. _horacioduran: /pages/horacioduran
+.. _nicoechaniz: /pages/nicoechaniz
+.. _ricardokirkner: /pages/ricardokirkner
+.. _anthonylenton: /pages/anthonylenton
+.. _johnlenton: /pages/johnlenton
+.. _hectorsanchez: /pages/hectorsanchez
+.. _marianomara: /pages/marianomara
+.. _ramiromorales: /pages/ramiromorales
+.. _ricardoquesada: /pages/ricardoquesada
+.. _marianoreingart: /pages/marianoreingart
+.. _hugoruscitti: /pages/hugoruscitti
+.. _luciotorre: /pages/luciotorre
+.. _pabloziliani: /pages/pabloziliani
+.. _guillermogonzalez: /pages/guillermogonzalez
+.. _robertoallende: /pages/robertoallende
+.. _sebastianbassi: /pages/sebastianbassi
+.. _nicocesar: /pages/nicocesar

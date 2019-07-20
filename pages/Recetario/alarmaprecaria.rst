@@ -119,3 +119,5 @@ Es mas que suficiente. -- JoaquinSorianello_ `[[DateTime(2010-11-08T10:56:40-030
 
   CategoryRecetas_
 
+.. _joaquinsorianello: /pages/joaquinsorianello
+.. _categoryrecetas: /pages/categoryrecetas

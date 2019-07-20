@@ -116,3 +116,14 @@ Más tarde fuimos a una pizzeria a comer algo y estuvimos charlando algunos tema
 .. role:: superscript
    :class: superscript
 
+.. _guillermogonzalez: /pages/guillermogonzalez
+.. _pabloziliani: /pages/pabloziliani
+.. _alejandrodavidweil: /pages/alejandrodavidweil
+.. _luciotorre: /pages/luciotorre
+.. _robertorodriguez: /pages/robertorodriguez
+.. _leitomonk: /pages/leitomonk
+.. _marianodraghi: /pages/marianodraghi
+.. _sebastianbassi: /pages/sebastianbassi
+.. _hugoruscitti: /pages/hugoruscitti
+.. _ricardoquesada: /pages/ricardoquesada
+.. _pycon: /pages/pycon

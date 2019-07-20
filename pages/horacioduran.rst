@@ -38,3 +38,5 @@ P.D. Esta demas decir, tenemos una maquina de cafe expreso...
 .. _machinalis: http://www.machinalis.com
 
 
+.. _pyqt: /pages/CharlasAbiertas2010/pyqt
+.. _pyar: /pages/pyar

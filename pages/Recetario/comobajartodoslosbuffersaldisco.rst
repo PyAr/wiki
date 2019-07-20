@@ -39,3 +39,4 @@ En mi Notebook, obtengo este resultado, si escribo un programa que no invoca a s
 
   CategoryRecetas_
 
+.. _categoryrecetas: /pages/categoryrecetas

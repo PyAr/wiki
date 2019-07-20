@@ -86,3 +86,6 @@ Por ultimo, Alecu comento que esto es similar a lo que se esta haciendo en una e
 
 .. _diferentes eventos: http://python.com.ar/moin/PyCamp/2009/TemasPropuestos
 
+.. _pyar: /pages/pyar
+.. _edupython: /pages/edupython
+.. _pycon: /pages/pycon

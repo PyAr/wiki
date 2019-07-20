@@ -118,3 +118,7 @@ Si estas interesado en colaborar, por favor anotate en la siguiente lista, indic
 
 .. _EducacionIT: http://www.educacionit.com.ar/
 
+.. _pyqt: /pages/CharlasAbiertas2010/pyqt
+.. _tutorial: /pages/tutorial
+.. _pyar: /pages/pyar
+.. _pycon: /pages/pycon

@@ -310,3 +310,5 @@ Mathesis
 
 .. _sito del proyecto: http://www.nsis.com.ar/public/wiki/PyFpdf
 
+.. _marianoreingart: /pages/marianoreingart
+.. _categoryrecetas: /pages/categoryrecetas

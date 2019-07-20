@@ -1083,3 +1083,4 @@ Video Analytics events processing platform
 
 
 
+.. _pyar: /pages/pyar

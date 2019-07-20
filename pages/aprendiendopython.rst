@@ -239,3 +239,4 @@ Videos
 .. _pythoncard: /pages/pythoncard
 .. _recetario: /pages/recetario
 .. _lista de charlas realizadas: /pages/charlas
+.. _pyar: /pages/pyar

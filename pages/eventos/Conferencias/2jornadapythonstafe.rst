@@ -52,3 +52,4 @@ Algunas fotos de la jornada:
 
 
 .. _manuelkaufmann: /pages/manuelkaufmann
+.. _pyar: /pages/pyar

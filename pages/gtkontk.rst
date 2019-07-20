@@ -711,3 +711,4 @@ Capturas:
 .. role:: small
    :class: small
 
+.. _base: /pages/Proyectos/RevistaPythonComunidad/base

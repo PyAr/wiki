@@ -47,3 +47,4 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 .. _acá: http://ubuntuone.com/4ApdQy8DQat4thlT5rvX1u
 
 
+.. _pyar: /pages/pyar

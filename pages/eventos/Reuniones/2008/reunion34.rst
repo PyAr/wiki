@@ -161,3 +161,9 @@ Abrazos para todos!!!!!!!!
 
 .. _Wiki de PyCon Argentina: http://trac.usla.org.ar/proyectos/pycon-ar/login
 
+.. _pyar: /pages/pyar
+.. _gonzalolarralde: /pages/gonzalolarralde
+.. _marianoreingart: /pages/marianoreingart
+.. _marceloalaniz: /pages/marceloalaniz
+.. _marianomara: /pages/marianomara
+.. _sebastianbassi: /pages/sebastianbassi

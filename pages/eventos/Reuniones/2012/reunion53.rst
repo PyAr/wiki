@@ -66,3 +66,5 @@ Eso es todo de parte mía
 
 .. _Sergio Schvezov (sergiusens): SergioSchvezov
 
+.. _pyday: /pages/pyday
+.. _pyar: /pages/pyar

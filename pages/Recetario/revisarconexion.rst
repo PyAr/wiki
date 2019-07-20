@@ -26,3 +26,4 @@ Si el DNS resuelve podés chequear con socket.gethostbyname('google.com').
 
   CategoryRecetas_
 
+.. _categoryrecetas: /pages/categoryrecetas

@@ -26,3 +26,4 @@ Muchos temas, de los cuales los más destacados fueron:
 
 * Reparto de merchandising traído de USA, y también de tutoriales y cositas varias
 
+.. _pycon: /pages/pycon

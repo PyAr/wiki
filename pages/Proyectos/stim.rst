@@ -33,3 +33,5 @@ También PabloZiliani_ y nueces nos ayudaron a testear.
 .. _nubis: /pages/nubis
 .. _pabloziliani: /pages/pabloziliani
 
+.. _pyar: /pages/pyar
+.. _luciotorre: /pages/luciotorre

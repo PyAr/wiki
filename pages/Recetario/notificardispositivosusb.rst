@@ -47,3 +47,4 @@ Detectar y Notificar Dispositivos USB
 
   CategoryRecetas_
 
+.. _categoryrecetas: /pages/categoryrecetas

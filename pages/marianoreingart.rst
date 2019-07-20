@@ -275,3 +275,5 @@ Otros temas no relacionados directamente a Python
 
 
 
+.. _pyday: /pages/pyday
+.. _pyar: /pages/pyar

@@ -51,3 +51,4 @@ Email: ``facundo mafalda arroba miguelito taniquetil guille com susanita ar``
 .. _blog: http://taniquetil.com.ar/plog
 
 
+.. _pycon: /pages/pycon

@@ -112,3 +112,5 @@ Otras realizaciones:
 
 .. _PyGame: http://www.pygame.org
 
+.. _pyar: /pages/pyar
+.. _themostbiggestgamestintheworldst: /pages/themostbiggestgamestintheworldst

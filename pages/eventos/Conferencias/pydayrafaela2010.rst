@@ -203,3 +203,4 @@ Habría que pensar en hacer un asado o algo el día siguiente, con organizadores
 
 .. _pyweek: /pages/pyweek
 .. _pygame: /pages/pygame
+.. _pyar: /pages/pyar

@@ -45,3 +45,6 @@ Anteriores
 .. _lista de correo: ListaDeCorreo
 
 
+.. _nubis: /pages/nubis
+.. _luciotorre: /pages/luciotorre
+.. _pyar: /pages/pyar

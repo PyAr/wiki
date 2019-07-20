@@ -50,3 +50,13 @@ Reunión 13 - 01/02/2006 - Hip Bar
 
   .. _ReleaseProcedure: Eventos/Reuniones/ReleaseProcedure
 
+.. _guillermogonzalez: /pages/guillermogonzalez
+.. _alejandrojcura: /pages/alejandrojcura
+.. _marianodraghi: /pages/marianodraghi
+.. _alejandrodavidweil: /pages/alejandrodavidweil
+.. _pabloziliani: /pages/pabloziliani
+.. _ricardokirkner: /pages/ricardokirkner
+.. _leitomonk: /pages/leitomonk
+.. _nubis: /pages/nubis
+.. _santiagopereson: /pages/santiagopereson
+.. _pyar: /pages/pyar

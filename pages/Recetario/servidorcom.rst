@@ -152,3 +152,6 @@ MarianoReingart_
 .. _Bibliografia: http://oreilly.com/catalog/pythonwin32/chapter/ch12.html
 
 
+.. _py2exe: /pages/py2exe
+.. _marianoreingart: /pages/marianoreingart
+.. _categoryrecetas: /pages/categoryrecetas

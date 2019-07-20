@@ -36,3 +36,4 @@ La galleta expirará en la próxima medianoche - excepto si escoge **`[[GetText(
 
 
 
+.. _pyar: /pages/pyar

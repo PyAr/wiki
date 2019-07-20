@@ -52,3 +52,4 @@ Aparentemente apple no distribuye OSX con soporte para readline de fabrica. Yo e
 
 
   CategoryRecetas_
+.. _categoryrecetas: /pages/categoryrecetas

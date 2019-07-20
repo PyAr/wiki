@@ -31,3 +31,5 @@ Inauguramos la QOTM (Quote of the Meeting, o Cita de la Reunión), una frase que
 
  CategoryReuniones_
 
+.. _luciotorre: /pages/luciotorre
+.. _categoryreuniones: /pages/categoryreuniones

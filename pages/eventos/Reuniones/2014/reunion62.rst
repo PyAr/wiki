@@ -61,3 +61,4 @@ También comenté algo que habíamos charlado en el canal de IRC: contratar a un
 
 
 .. _pycon:  /pages/pycon
+.. _pyar: /pages/pyar

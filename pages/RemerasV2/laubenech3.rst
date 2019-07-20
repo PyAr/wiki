@@ -17,3 +17,5 @@ Comentarios
 .. role:: small
    :class: small
 
+.. _remerasv2: /pages/remerasv2
+.. _ricardokirkner: /pages/ricardokirkner

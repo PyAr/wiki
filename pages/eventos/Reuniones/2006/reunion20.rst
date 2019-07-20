@@ -61,3 +61,6 @@ Y hasta aquí llega la minuta de lo que fue la primera reunión en Santa Fe, ¿o
 
 .. _Universidad Adventista del Plata: http://www.uapar.edu/es/
 
+.. _pyar: /pages/pyar
+.. _juanjoconti: /pages/juanjoconti
+.. _turbogears: /pages/turbogears

@@ -111,3 +111,5 @@ Anteriores
 
 
 
+.. _pyday: /pages/pyday
+.. _pyar: /pages/pyar

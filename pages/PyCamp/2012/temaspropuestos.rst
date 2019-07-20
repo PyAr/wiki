@@ -497,3 +497,10 @@ CategoryPyCamp_
 
 .. _AskMSR: http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.84.3515
 
+.. _marianoverdu: /pages/marianoverdu
+.. _juanfisanotti: /pages/juanfisanotti
+.. _luciotorre: /pages/luciotorre
+.. _hugoruscitti: /pages/hugoruscitti
+.. _danielmoisset: /pages/danielmoisset
+.. _categorypycamp: /pages/categorypycamp
+.. _pycon: /pages/pycon

@@ -104,3 +104,4 @@ La propuesta es que hugoruscitti trabaje en un futuro manual de programación pa
 
 .. _pycon: /pages/pycon
 .. _pycamp: /pages/pycamp
+.. _pyar: /pages/pyar

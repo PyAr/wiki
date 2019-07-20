@@ -63,3 +63,5 @@ MarianoReingart_
 
 .. _Resolución General 1702 de la AFIP: http://www.afip.gov.ar/afip/resol170204.html
 
+.. _marianoreingart: /pages/marianoreingart
+.. _categoryrecetas: /pages/categoryrecetas

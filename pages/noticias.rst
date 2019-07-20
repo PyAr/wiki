@@ -215,3 +215,5 @@ Anteriores
 
 .. _Año 2004: /2004
 
+.. _pyday: /pages/pyday
+.. _pyar: /pages/pyar

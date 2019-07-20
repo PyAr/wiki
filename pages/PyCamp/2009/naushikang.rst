@@ -15,3 +15,4 @@ Cosas a hacerle a Naushika:
 
 * Avatar, necesitamos alguien con habilidades de dibujo.
 
+.. _pyar: /pages/pyar

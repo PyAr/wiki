@@ -38,3 +38,4 @@ Hasta las 22 nadie había comido, pidieron unas picadas y yo me tuve que retirar
 
 .. _Santiago: SantiagoBruno
 
+.. _pyday: /pages/pyday

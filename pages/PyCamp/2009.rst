@@ -179,3 +179,12 @@ Fotos
 
 .. _comollegar: /pages/PyCamp/2009/comollegar
 .. _temaspropuestos: /pages/PyCamp/2009/temaspropuestos
+.. _pycamp2009resultados: /pages/pycamp2009resultados
+.. _horacioduran: /pages/horacioduran
+.. _johnlenton: /pages/johnlenton
+.. _luciotorre: /pages/luciotorre
+.. _anthonylenton: /pages/anthonylenton
+.. _hugoruscitti: /pages/hugoruscitti
+.. _pabloziliani: /pages/pabloziliani
+.. _marianoreingart: /pages/marianoreingart
+.. _hectorsanchez: /pages/hectorsanchez

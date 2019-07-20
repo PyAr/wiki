@@ -106,3 +106,12 @@ Este fue el tema de cierre, así que no hubo mucho tiempo para tratarlo. Se resc
 
 .. _alecu: AlejandroJCura
 
+.. _alejandrodavidweil: /pages/alejandrodavidweil
+.. _guillermogonzalez: /pages/guillermogonzalez
+.. _leitomonk: /pages/leitomonk
+.. _luciotorre: /pages/luciotorre
+.. _marianodraghi: /pages/marianodraghi
+.. _pabloziliani: /pages/pabloziliani
+.. _hipbar: /pages/hipbar
+.. _pyar: /pages/pyar
+.. _listadecorreo: /pages/listadecorreo

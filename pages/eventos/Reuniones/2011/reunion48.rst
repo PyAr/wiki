@@ -108,3 +108,4 @@ Rendering of reStructured text is not possible, please install Docutils.**
 
  CategoryReuniones_
 
+.. _categoryreuniones: /pages/categoryreuniones

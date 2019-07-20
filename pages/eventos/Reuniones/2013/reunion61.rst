@@ -68,3 +68,4 @@ Otros temas tratados en la PyCamp_:
 
 * Quintana pueblo Geek!
 
+.. _pycon: /pages/pycon

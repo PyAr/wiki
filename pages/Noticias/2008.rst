@@ -153,3 +153,5 @@ Anteriores
 .. role:: superscript
    :class: superscript
 
+.. _pyar: /pages/pyar
+.. _remerasv2: /pages/remerasv2

@@ -301,3 +301,4 @@ Ejemplitos de como se usa:
 
   CategoryRecetas_
 
+.. _categoryrecetas: /pages/categoryrecetas

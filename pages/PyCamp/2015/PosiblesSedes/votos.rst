@@ -64,3 +64,6 @@ Cualquier sede (voto en blanco)
 
 .. _Horacio Duran: HoracioDuran
 
+.. _juanfisanotti: /pages/juanfisanotti
+.. _luciotorre: /pages/luciotorre
+.. _ricardokirkner: /pages/ricardokirkner

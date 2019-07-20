@@ -25,3 +25,4 @@ Ejemplo:
 
   CategoryRecetas_
 
+.. _categoryrecetas: /pages/categoryrecetas

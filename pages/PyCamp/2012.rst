@@ -158,3 +158,4 @@ Workshop Pre-PyCamp
 .. role:: underline
    :class: underline
 
+.. _categorypycamp: /pages/categorypycamp

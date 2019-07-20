@@ -100,3 +100,4 @@ Internet: Wi-Fi (en un 60% del camping - es DEMASIADO grande)
 
 Valor Aprox por Persona: $602 a $786 + los extras posibles
 
+.. _horacioduran: /pages/horacioduran

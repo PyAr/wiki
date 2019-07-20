@@ -446,4 +446,11 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 .. _Pireal: https://centaurialpha.github.io/pireal
 
-.. _Peicel Graphics: http://ge.tt/2LtQT7m2
+.. _Peicel Graphics: http://ge.tt/2LtQT7m2.. _pyar: /pages/pyar
+.. _turbogears: /pages/turbogears
+.. _cdpedia: /pages/Proyectos/cdpedia
+.. _config: /pages/Planeta/config
+.. _pythoncard: /pages/pythoncard
+.. _visualbasic: /pages/visualbasic
+.. _pyday: /pages/pyday
+.. _pycon: /pages/pycon

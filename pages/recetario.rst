@@ -432,3 +432,30 @@ Divertidos
 
 
 
+.. _aletras: /pages/aletras
+.. _reverse: /pages/reverse
+.. _obtenersensaciontermica: /pages/obtenersensaciontermica
+.. _qtmultithread: /pages/qtmultithread
+.. _pythoncard: /pages/pythoncard
+.. _ttkholamundo: /pages/ttkholamundo
+.. _tkwindowicon: /pages/tkwindowicon
+.. _tkbuttonicon: /pages/tkbuttonicon
+.. _tkscrollwhell: /pages/tkscrollwhell
+.. _tkonlineofflineicon: /pages/tkonlineofflineicon
+.. _tkversionprint: /pages/tkversionprint
+.. _gtkontk: /pages/gtkontk
+.. _tkwizards: /pages/tkwizards
+.. _displaylcd7segmentos: /pages/displaylcd7segmentos
+.. _botongraficotk: /pages/botongraficotk
+.. _ventanapasswordvibra: /pages/ventanapasswordvibra
+.. _relojdigital: /pages/relojdigital
+.. _comunicarthreadsconqueue: /pages/comunicarthreadsconqueue
+.. _comolevantarunservidorhttpsimple: /pages/comolevantarunservidorhttpsimple
+.. _comolevantarunservidorhttpmultithread: /pages/comolevantarunservidorhttpmultithread
+.. _xmladiccionario: /pages/xmladiccionario
+.. _simplexmlelement: /pages/simplexmlelement
+.. _localsdeunafuncionquelanzounaexcepcion: /pages/localsdeunafuncionquelanzounaexcepcion
+.. _psycospeedup: /pages/psycospeedup
+.. _mapeandomemoria: /pages/mapeandomemoria
+.. _ippublica: /pages/ippublica
+.. _categoryrecetas: /pages/categoryrecetas

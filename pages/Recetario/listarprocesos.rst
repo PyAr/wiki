@@ -48,3 +48,4 @@ En la versión 0.3 de psutil el Ejemplo puede quedar como:
 
 .. _Ubuntu: http://packages.ubuntu.com/python-psutil
 
+.. _categoryrecetas: /pages/categoryrecetas

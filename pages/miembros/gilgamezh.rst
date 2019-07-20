@@ -22,3 +22,4 @@ También estoy participando con pequeños aportes a la formación de la asociaci
 
 .. _varios de PyAr: https://github.com/PyAr
 
+.. _pyar: /pages/pyar

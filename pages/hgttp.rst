@@ -48,3 +48,4 @@ El tutorial solo tiene la parte organizacional y los detallitos del evento, la p
 
 .. _Marketing: HGTTP/Marketing
 
+.. _logistica: /pages/HGTTP/logistica

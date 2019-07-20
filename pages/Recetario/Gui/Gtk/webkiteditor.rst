@@ -88,3 +88,4 @@ Entonces deberan agregar un "gtk.gdk.threads_init()" antes de llamar a "EditorWi
 
   CategoryRecetas_
 
+.. _categoryrecetas: /pages/categoryrecetas

@@ -42,3 +42,5 @@ Estaría buenísimo también sacar un conjunto de funcionalidades que la mayorí
 
 
 
+.. _johnlenton: /pages/johnlenton
+.. _horacioduran: /pages/horacioduran

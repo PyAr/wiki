@@ -40,3 +40,6 @@ En fin, Facundo organizó entre la muchedumbre el debate de los siguientes ítem
 
 .. _Marcelo Fernández: MarceloFernández
 
+.. _pyweek: /pages/pyweek
+.. _pyar: /pages/pyar
+.. _pycon: /pages/pycon

@@ -90,3 +90,4 @@ Anteriores
 .. role:: superscript
    :class: superscript
 
+.. _pyar: /pages/pyar

@@ -17,3 +17,4 @@ Comentarios
 
 * [FacundoBatista_] Sigo esperando los colores, |wink|
 
+.. _luciotorre: /pages/luciotorre

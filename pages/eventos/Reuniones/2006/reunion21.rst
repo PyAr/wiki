@@ -64,3 +64,5 @@ Como siempre, hablamos de todo un poco. Más o menos, este es el recuento de tem
 
 .. _las últimas declaraciones de EsR: http://catb.org/~esr/writings/world-domination/world-domination-201.html
 
+.. _hipbar: /pages/hipbar
+.. _pyar: /pages/pyar

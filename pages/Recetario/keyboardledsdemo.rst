@@ -46,3 +46,4 @@ Keyboard Leds Demo
 
   CategoryRecetas_
 
+.. _categoryrecetas: /pages/categoryrecetas

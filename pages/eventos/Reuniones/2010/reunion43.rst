@@ -34,3 +34,4 @@ Repaso por el estado de PyCon_ 2010
 
 * principalmente información de perrito hacia el resto
 
+.. _pycon: /pages/pycon

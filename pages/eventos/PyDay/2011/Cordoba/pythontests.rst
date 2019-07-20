@@ -28,3 +28,4 @@ Todos conocemos y aceptamos la vital importancia de escribir tests para nuestras
 
 .. _PyDay 2011: Eventos/PyDay/2011/Cordoba
 
+.. _categoryvideo: /pages/categoryvideo

@@ -121,3 +121,7 @@ MarianoReingart_
 
 .. _7-Zip: http://www.7-zip.org/
 
+.. _py2exe: /pages/py2exe
+.. _distutils: /pages/distutils
+.. _marianoreingart: /pages/marianoreingart
+.. _categoryrecetas: /pages/categoryrecetas

@@ -58,3 +58,5 @@ Temas tratados:
 
 .. _mapa: http://www.pyday.com.ar/lujan2012/conference/venue
 
+.. _pyday: /pages/pyday
+.. _pycon: /pages/pycon

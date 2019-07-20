@@ -39,3 +39,4 @@ ejemplo de como imprimir una pagina web a pdf
 
   CategoryRecetas_
 
+.. _categoryrecetas: /pages/categoryrecetas

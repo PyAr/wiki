@@ -213,3 +213,18 @@ Django bug-fixing sprint  Nos sentamos a cerrar tickets de Django en recta final
 
   .. _hilo: http://mx.grulic.org.ar/lurker/thread/20090308.185714.55696d61.es.html
 
+.. _marcosdione: /pages/marcosdione
+.. _johnlenton: /pages/johnlenton
+.. _anthonylenton: /pages/anthonylenton
+.. _marianoreingart: /pages/marianoreingart
+.. _marceloalaniz: /pages/marceloalaniz
+.. _pythoncard: /pages/pythoncard
+.. _hectorsanchez: /pages/hectorsanchez
+.. _pyar: /pages/pyar
+.. _gonzalodelgado: /pages/gonzalodelgado
+.. _luciotorre: /pages/luciotorre
+.. _ricardoquesada: /pages/ricardoquesada
+.. _ricardokirkner: /pages/ricardokirkner
+.. _ramiromorales: /pages/ramiromorales
+.. _texteditordeadmatch: /pages/texteditordeadmatch
+.. _pycon: /pages/pycon

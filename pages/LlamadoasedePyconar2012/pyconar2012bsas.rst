@@ -299,3 +299,9 @@ Se necesitarían 2 cámaras por aula (una fija para filmar la presentación, otr
 
 .. |PyConAr2012| image:: https://docs.google.com/document/pubimage?id=19j8m7yTCVUKyygY2YDt8CS32wunl8bkYK_-UvgoCfXM&image_id=1No-oqI2pmr3glBQ5aJ9uWfmeb50-xAE
 
+.. _pyday: /pages/pyday
+.. _marianoreingart: /pages/marianoreingart
+.. _albertopaparelli: /pages/albertopaparelli
+.. _sebastianbassi: /pages/sebastianbassi
+.. _pyar: /pages/pyar
+.. _pycon: /pages/pycon

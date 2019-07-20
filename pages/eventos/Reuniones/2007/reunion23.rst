@@ -240,3 +240,7 @@ A eso de las 5AM, decidimos que ya podíamos desconcentrar y cada uno partió pa
 
 .. _Mafia: http://en.wikipedia.org/wiki/Mafia_%28game%29
 
+.. _pyar: /pages/pyar
+.. _danielmoisset: /pages/danielmoisset
+.. _luciotorre: /pages/luciotorre
+.. _guillermogonzalez: /pages/guillermogonzalez

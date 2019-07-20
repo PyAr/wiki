@@ -558,3 +558,25 @@ Pero ojo, que esto sucede con versiones pasadas y actuales de CPython. Es un det
 .. role:: underline
    :class: underline
 
+.. _pyar: /pages/pyar
+.. _eventos: /pages/eventos
+.. _contribuyendoalwiki: /pages/contribuyendoalwiki
+.. _aprendiendopython: /pages/aprendiendopython
+.. _recetario: /pages/recetario
+.. _miniejemplos: /pages/miniejemplos
+.. _pythonzen: /pages/pythonzen
+.. _mensajesexcepcionales: /pages/mensajesexcepcionales
+.. _python3mil: /pages/python3mil
+.. _autocomplecionenconsolainteractiva: /pages/Recetario/autocomplecionenconsolainteractiva
+.. _guardarhistorialenconsolainteractiva: /pages/guardarhistorialenconsolainteractiva
+.. _dbapi: /pages/dbapi
+.. _plpython: /pages/plpython
+.. _interfacesgraficas: /pages/interfacesgraficas
+.. _wsgi: /pages/wsgi
+.. _cherrypy: /pages/cherrypy
+.. _rendimientopythonvsjavavsnet: /pages/rendimientopythonvsjavavsnet
+.. _pythoncard: /pages/pythoncard
+.. _visualbasic: /pages/visualbasic
+.. _marianoguerra: /pages/marianoguerra
+.. _sebastianbassi: /pages/sebastianbassi
+.. _gabrielgenellina: /pages/gabrielgenellina

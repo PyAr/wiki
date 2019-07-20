@@ -56,3 +56,5 @@ La impresión que me llevé de mi primer reunión fue sublime; hubo regalos para
 
 .. _MauroMackinze (1°): MauroMackinze
 
+.. _pyar: /pages/pyar
+.. _pycon: /pages/pycon

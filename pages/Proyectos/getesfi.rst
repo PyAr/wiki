@@ -16,3 +16,4 @@ Una descripción más detallada del proyecto se puede encontrar en http://pymara
 
  CategoryProyectos_
 
+.. _categoryproyectos: /pages/categoryproyectos

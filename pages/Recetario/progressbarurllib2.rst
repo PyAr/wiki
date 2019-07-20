@@ -40,3 +40,4 @@ Este es un ejemplito de como descargar algo y a medida que se descarga, mostrar 
 
   CategoryRecetas_
 
+.. _categoryrecetas: /pages/categoryrecetas

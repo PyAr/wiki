@@ -72,3 +72,6 @@ Promoción
 .. role:: strike
    :class: strike
 
+.. _pyar: /pages/pyar
+.. _noticias: /pages/noticias
+.. _recursos: /pages/recursos

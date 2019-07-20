@@ -76,3 +76,5 @@ Fotos
 
 
 .. _pycon: /pages/pycon
+.. _pyday: /pages/pyday
+.. _pyar: /pages/pyar

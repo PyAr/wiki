@@ -245,3 +245,15 @@ Anteriores
 .. role:: strike
    :class: strike
 
+.. _pyar: /pages/pyar
+.. _listadecorreo: /pages/listadecorreo
+.. _alejandrodavidweil: /pages/alejandrodavidweil
+.. _alejandrojcura: /pages/alejandrojcura
+.. _luciotorre: /pages/luciotorre
+.. _marianodraghi: /pages/marianodraghi
+.. _nubis: /pages/nubis
+.. _colectadehardware: /pages/colectadehardware
+.. _etiquetapyar: /pages/etiquetapyar
+.. _remeras: /pages/remeras
+.. _sugerencias: /pages/sugerencias
+.. _recursos: /pages/recursos

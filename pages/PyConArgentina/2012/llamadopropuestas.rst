@@ -308,3 +308,5 @@ Body:
 
 .. _python-brasil@googlegroups.com: mailto:python-brasil@googlegroups.com
 
+.. _marianoreingart: /pages/marianoreingart
+.. _pycon: /pages/pycon

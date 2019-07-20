@@ -28,3 +28,4 @@ Contacto
 
 .. _@emilioramirez: https://twitter.com/#!/emilioramirez
 
+.. _pyqt: /pages/CharlasAbiertas2010/pyqt

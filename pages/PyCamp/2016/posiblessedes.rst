@@ -161,3 +161,4 @@ Inscripciones
 --------------
 
 Los que iran al PyCamp 2016 La Serranita es necesario que se anoten aquí http://goo.gl/forms/RnLz3CEDtx
+.. _pyar: /pages/pyar

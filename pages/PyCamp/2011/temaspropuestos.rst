@@ -242,3 +242,10 @@ Los tres primeros de cada zona, más el mejor segundo, pasan a una llave de 4 co
 
 .. _Aquarius: http://www.wunderland.com/LooneyLabs/Aquarius/
 
+.. _joaquinsorianello: /pages/joaquinsorianello
+.. _marianogarcia: /pages/marianogarcia
+.. _hugoruscitti: /pages/hugoruscitti
+.. _robertoallende: /pages/robertoallende
+.. _categorypycamp: /pages/categorypycamp
+.. _tutorial: /pages/tutorial
+.. _pycon: /pages/pycon

@@ -132,3 +132,4 @@ http://python-distribute.org/pip_distribute.png
 
 .. _virtualenwrapper.django: http://www.doughellmann.com/projects/virtualenvwrapper.django/
 
+.. _categoryrecetas: /pages/categoryrecetas

@@ -141,3 +141,4 @@ Anteriores
 .. role:: strike
    :class: strike
 
+.. _pyar: /pages/pyar

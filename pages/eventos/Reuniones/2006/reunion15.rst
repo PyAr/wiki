@@ -74,3 +74,11 @@ Finalizada la reunión quedamos AlejandroDavidWeil_, PabloZiliani_ y yo_ jugando
 
 .. _yo: NubIs
 
+.. _nubis: /pages/nubis
+.. _guillermogonzalez: /pages/guillermogonzalez
+.. _leitomonk: /pages/leitomonk
+.. _pabloziliani: /pages/pabloziliani
+.. _alejandrodavidweil: /pages/alejandrodavidweil
+.. _luciotorre: /pages/luciotorre
+.. _etiquetapyar: /pages/etiquetapyar
+.. _colectadehardware: /pages/colectadehardware

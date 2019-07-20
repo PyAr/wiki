@@ -70,3 +70,12 @@ Y tratamos algunos otros temas más, que no fueron anotados detallados en los ma
 
 .. _alecu: AlejandroJCura
 
+.. _leitomonk: /pages/leitomonk
+.. _luciotorre: /pages/luciotorre
+.. _ricardoquesada: /pages/ricardoquesada
+.. _marianodraghi: /pages/marianodraghi
+.. _robertorodriguez: /pages/robertorodriguez
+.. _guillermogonzalez: /pages/guillermogonzalez
+.. _pabloziliani: /pages/pabloziliani
+.. _pyweek: /pages/pyweek
+.. _pyar: /pages/pyar

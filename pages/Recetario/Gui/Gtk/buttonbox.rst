@@ -70,3 +70,4 @@ Mas Información
 
 * http://pygtk.org/docs/pygtk/class-gtkbox.html
 
+.. _buttonbox: /pages/Recetario/Gui/Gtk/buttonbox

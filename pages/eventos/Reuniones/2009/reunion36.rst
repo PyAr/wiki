@@ -20,3 +20,4 @@ Les pido mil disculpas, pero estoy escribiendo esto 3 meses despues de la reunio
 
 * Python del lado del cliente en aplicaciones Web. Estado de las nuevas tecnologías. 
 
+.. _pycon: /pages/pycon

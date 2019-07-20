@@ -43,3 +43,4 @@ A: 9 – 12:40 B: 14 – 17:10 C: 18 – 20:40 D: 22 - ...
 
 * FUSE Lu – C
 
+.. _pythoncard: /pages/pythoncard

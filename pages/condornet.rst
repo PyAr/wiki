@@ -8,3 +8,4 @@ Escribe acerca de condornet aquí.
 .. ############################################################################
 
 
+.. _categorycategory: /pages/categorycategory

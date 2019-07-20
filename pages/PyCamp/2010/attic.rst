@@ -76,3 +76,4 @@ Centro Allen Gardiner
 
 .. _acá: http://www.flickr.com/photos/tags/pycamp/
 
+.. _anthonylenton: /pages/anthonylenton

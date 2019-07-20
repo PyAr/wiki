@@ -74,3 +74,4 @@ Contacto
 
 .. _acá: PyCamp/2012
 
+.. _pyar: /pages/pyar

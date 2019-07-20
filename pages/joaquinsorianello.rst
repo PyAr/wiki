@@ -37,3 +37,4 @@ Mail
 
 
 
+.. _pyar: /pages/pyar

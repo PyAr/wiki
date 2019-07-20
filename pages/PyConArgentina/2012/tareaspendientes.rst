@@ -480,3 +480,6 @@ Fiestas y Social
 .. role:: strike
    :class: strike
 
+.. _marianoreingart: /pages/marianoreingart
+.. _sebastianbassi: /pages/sebastianbassi
+.. _pycon: /pages/pycon

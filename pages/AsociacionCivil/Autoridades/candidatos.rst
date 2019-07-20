@@ -214,3 +214,8 @@ Me interesa participar como vocal para poder tener voto en las cosas que hacen a
 
 .. _github: https://github.com/fisadev
 
+.. _pyar: /pages/pyar
+.. _marianoreingart: /pages/marianoreingart
+.. _pyday: /pages/pyday
+.. _leandrocolombovina: /pages/leandrocolombovina
+.. _pycon: /pages/pycon

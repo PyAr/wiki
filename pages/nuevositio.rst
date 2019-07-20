@@ -87,3 +87,4 @@ No nos tenemos que olvidar que python, toma su nombre de Monty Python Flying Cir
 .. _Planeta Python: http://planeta.python.org.ar
 
 
+.. _categorypycamp: /pages/categorypycamp

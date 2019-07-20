@@ -42,3 +42,4 @@ pyday.com.ar
 
 
 
+.. _pyar: /pages/pyar

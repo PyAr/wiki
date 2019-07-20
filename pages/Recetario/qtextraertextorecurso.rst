@@ -43,3 +43,4 @@ Ademas de poder embeber imágenes, la librería Qt (y por ende PyQt) también pe
 
   CategoryRecetas_
 
+.. _categoryrecetas: /pages/categoryrecetas

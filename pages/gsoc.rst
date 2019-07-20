@@ -210,3 +210,4 @@ Blogs y Referencias sobre el GSoC
 * Python GSOC blogs: https://blogs.python-gsoc.org/
 * PSF 2011: http://pyfound.blogspot.com/2011/03/gsoc-student-applications-open.html
 * PSF 2007: http://pyfound.blogspot.com/2007/03/psf-and-googles-summer-of-code.html
+.. _marianoreingart: /pages/marianoreingart

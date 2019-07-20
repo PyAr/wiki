@@ -47,3 +47,4 @@ Está disponible en múltiples plataformas, desde una PC con Windows o Linux has
 
 .. _Wikimedia Argentina: http://www.wikimedia.org.ar/
 
+.. _pyar: /pages/pyar
