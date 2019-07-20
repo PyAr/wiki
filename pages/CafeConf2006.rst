@@ -7,6 +7,10 @@ Programa de las charlas: http://www.cafeconf.org/modules/myconference/program.ph
 Voluntarios para el Stand de PyAr
 ---------------------------------
 
+.. todo::
+
+    buscar el source de esta tabla
+
 [Table not converted]
 
 Nota: NubIs_ estaba anotado pero al final no puede.

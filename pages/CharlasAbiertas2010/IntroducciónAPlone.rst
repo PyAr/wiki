@@ -6,4 +6,8 @@ Introducción al uso y desarrollo con Plone
 
  * 13 a 15 horas
 
+.. todo::
+
+    Ver el tema del video
+
 <<Video(http://pyar.usla.org.ar/charlasabiertas2010/plone.ogg)>>

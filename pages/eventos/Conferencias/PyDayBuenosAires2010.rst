@@ -30,7 +30,7 @@ Organización
 
   * `Reunión 42`_: Presentación de la propuesta
 
-  .. ############################################################################
+.. ############################################################################
 
-  .. _Reunión 42: Eventos/Reuniones/Reunion42
+.. _Reunión 42: /pages/Eventos/Reuniones/2010/reunion42/
 

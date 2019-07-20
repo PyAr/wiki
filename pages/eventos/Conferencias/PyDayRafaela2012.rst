@@ -5,6 +5,10 @@ Organización PyDay Rafaela 2012
 Organizadores
 -------------
 
+.. todo::
+
+    Ver el tema de las tablas
+
 [Table not converted]
 
 Tareas previas al evento

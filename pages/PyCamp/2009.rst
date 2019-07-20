@@ -19,7 +19,7 @@ En el Centro Allen Gardiner, en Los Cocos, provincia de Córdoba. `Hay un mapa`_
 Cómo llegar
 -----------
 
-Ver Borrador y mapas en `/ComoLlegar`_
+Ver Borrador y mapas en `ComoLlegar`_
 
 Qué llevar
 ----------
@@ -103,12 +103,12 @@ Qué conviene tener en la compu
 Temario
 -------
 
-Ver `/TemasPropuestos`_
+Ver `TemasPropuestos`_
 
 Quiénes van
 -----------
 
-Ver `/QuienesVan`_
+Ver `QuienesVan`_
 
 Encargados de distintas cosas
 -----------------------------
@@ -117,7 +117,7 @@ Encargados de distintas cosas
 
 * Tener Internet:
 
-* WiFi_ (APs): HoracioDuran_ (FedeHeinz_, si hace falta)  - Karucha lleva un AP, 
+* WiFi_ (APs): HoracioDuran_ (FedeHeinz_, si hace falta)  - Karucha lleva un AP,
 
 * Red cableada:
 
@@ -177,3 +177,5 @@ Fotos
 
 .. _Página de fotos: /fotos
 
+.. _comollegar: /pages/PyCamp/2009/comollegar
+.. _temaspropuestos: /pages/PyCamp/2009/temaspropuestos

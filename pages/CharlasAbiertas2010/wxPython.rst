@@ -8,5 +8,10 @@ wxPython
 
 * 13 a 15 horas
 
+.. todo::
+
+    ver el tema del video
+
 `[[Video(http://pyar.usla.org.ar/charlasabiertas2010/wxpython.ogg)]]`_
 
+.. _PythonCard: /pages/pythoncard
