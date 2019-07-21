@@ -1,4 +1,3 @@
-
 Autocomplecion en consola interactiva
 =====================================
 
@@ -53,4 +52,3 @@ Aparentemente apple no distribuye OSX con soporte para readline de fabrica. Yo e
 
 
   CategoryRecetas_
-
