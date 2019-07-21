@@ -1,0 +1,137 @@
+Index: Python/errors.c
+===================================================================
+--- Python/errors.c	(revisión: 81195)
++++ Python/errors.c	(copia de trabajo)
+@@ -66,7 +66,7 @@
+ void
+ PyErr_SetString(PyObject *exception, const char *string)
+ {
+-    PyObject *value = PyString_FromString(string);
++    PyObject *value = PyString_FromString(i18n(string));
+     PyErr_SetObject(exception, value);
+     Py_XDECREF(value);
+ }
+@@ -545,7 +545,7 @@
+     va_start(vargs);
+ #endif
+ 
+-    string = PyString_FromFormatV(format, vargs);
++    string = PyString_FromFormatV(i18n(format), vargs);
+     PyErr_SetObject(exception, string);
+     Py_XDECREF(string);
+     va_end(vargs);
+Index: Python/traceback.c
+===================================================================
+--- Python/traceback.c	(revisión: 81195)
++++ Python/traceback.c	(copia de trabajo)
+@@ -8,6 +8,7 @@
+ #include "structmember.h"
+ #include "osdefs.h"
+ #include "traceback.h"
++#include "i18n.h"
+ 
+ #define OFF(x) offsetof(PyTracebackObject, x)
+ 
+@@ -225,7 +226,7 @@
+         return -1;
+     /* This is needed by Emacs' compile command */
+ #define FMT "  File \"%.500s\", line %d, in %.500s\n"
+-    PyOS_snprintf(linebuf, sizeof(linebuf), FMT, filename, lineno, name);
++    PyOS_snprintf(linebuf, sizeof(linebuf), i18n(FMT), filename, lineno, name);
+     err = PyFile_WriteString(linebuf, f);
+     if (err != 0)
+         return err;
+@@ -276,7 +277,7 @@
+         if (limit <= 0)
+             return 0;
+     }
+-    err = PyFile_WriteString("Traceback (most recent call last):\n", f);
++    err = PyFile_WriteString(i18n("Traceback (most recent call last):\n"), f);
+     if (!err)
+         err = tb_printinternal((PyTracebackObject *)v, f, limit);
+     return err;
+Index: Python/i18n.c
+===================================================================
+--- Python/i18n.c	(revisión: 0)
++++ Python/i18n.c	(revisión: 0)
+@@ -0,0 +1,59 @@
++/* Internal Internationalization Interface */
++
++/* this is a quick&dirty proof of concept 
++ * i18n should be _ (gettext) 
++ * msgid and msgstr would be in .po files
++ * messages will be extracted with some automated tool
++*/
++
++#include "Python.h"
++#include <locale.h>
++
++#ifdef __cplusplus
++extern "C" {
++#endif
++
++
++char *msgid[] = {
++"Traceback (most recent call last):\n",
++"  File \"%.500s\", line %d, in %.500s\n",
++"invalid syntax",
++"integer division or modulo by zero",
++"name '%.200s' is not defined",
++};
++
++char *msgstr[] = {
++"Traza de rastreo (llamada mas reciente ultima):\n",
++"  Archivo \"%.500s\", linea %d, en %.500s\n",
++"sintaxis invalida",
++"division entera o modulo por cero",
++"nombre '%s' no esta definido",
++};
++
++char *i18n(char *msg) {
++  int i;
++  char *result;
++
++  /* query current locale */  
++  result = setlocale(LC_MESSAGES, NULL);
++  if (!result) {
++      /* error? no translation */
++      return msg;
++  }
++  if (strncmp(result,"es",2)!=0) {
++      /* not in spanish, not translation by now */
++      return msg;
++  };
++  
++  for (i=0;i<5 /*sizeof(msgid)*/;i++) {
++    if (strcmp(msgid[i],msg)==0)
++       return msgstr[i];
++  }
++  /* msg not found, return untranslated */
++  return msg;
++}                                                         
++
++/* --- */
++#ifdef __cplusplus
++}
++#endif
+Index: Include/i18n.h
+===================================================================
+--- Include/i18n.h	(revisión: 0)
++++ Include/i18n.h	(revisión: 0)
+@@ -0,0 +1,16 @@
++
++#ifndef Py_I18N_H
++#define Py_I18N_H
++#ifdef __cplusplus
++extern "C" {
++#endif
++
++/* Internal Internationalization Interface */
++
++char *i18n(char *msg);
++
++/* --- */
++#ifdef __cplusplus
++}
++#endif
++#endif /* !Py_I18N_H */
