@@ -1,5 +1,5 @@
 
-.. image:: /wiki/miembros/FractionTech/attachment/fb-prof_pic.jpg
+.. image:: /images/miembros/FractionTech/fb-prof_pic.jpg
 
 Fraction Tech is a fast growing offshore web development company in India, dedicated to making you realize the true rewards of web & mobile development services. Additionally, when you outsource to us, you would most appreciate our willingness to assist you at every step. Fraction tech is a website development company and provides solutions in all technology in web development, mobile apps, software development, cloud development and CRM.
 

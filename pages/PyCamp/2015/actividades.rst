@@ -33,7 +33,7 @@ La otra es editar `~/.pip/pip.conf` y dejar la config fija:
 Cronograma de actividades 2015:
 -------------------------------
 
-.. image:: /wiki/PyCamp/2015/Actividades/attachment/40553/IMG_1538.JPG
+.. image:: /images/PyCamp/2015/Actividades/40553/IMG_1538.JPG
    :width: 800px
    :target: /wiki/PyCamp/2015/Actividades/attachment/40553/IMG_1538.JPG
 

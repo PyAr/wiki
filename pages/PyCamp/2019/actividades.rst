@@ -22,7 +22,7 @@ Propone: FacundoBatista
 
 ESP32 - Micropython:
 --------------------
-.. image:: /wiki/PyCamp/2019/Actividades/attachment/activity.png
+.. image:: /images/PyCamp/2019/Actividades/activity.png
 
 Hackear estos dispositivos, utilizando Micropython o su versión Loboris.
 

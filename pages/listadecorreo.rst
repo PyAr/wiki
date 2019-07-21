@@ -20,7 +20,7 @@ Instrucciones para suscribirte
 La manera más simple de suscribirte a la lista es usando el formulario
 que está arriba en la barra de la derecha y se ve así:
 
-.. image:: /wiki/ListaDeCorreo/attachment/lista.jpg
+.. image:: /images/ListaDeCorreo/lista.jpg
 
 Te llegará un email con un link de confirmación y una vez que hagas click, ya serás parte de PyAr
 y podrás enviar tus mensajes a ``pyar@python.org.ar``
@@ -58,8 +58,8 @@ te recomendamos que uses el buscador.
 
 Los mensajes de la lista siempre tienen el prefijo ``[pyar]`` que podés agregar eso a tu búsqueda para acotar los resultados al archivo.
 
-.. figure:: /wiki/ListaDeCorreo/attachment/ejemplo1.jpg
-.. figure:: /wiki/ListaDeCorreo/attachment/ejemplo2.jpg
+.. figure:: /images/ListaDeCorreo/ejemplo1.jpg
+.. figure:: /images/ListaDeCorreo/ejemplo2.jpg
 
    *Ejemplos para buscar en los archivos de la lista*
 
