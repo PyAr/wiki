@@ -1,0 +1,46 @@
+#!/bin/bash
+# pet1-test.sh 
+# (C) 2010 cesar@ballardini.com.ar / cesar@netmanagers.com.ar
+# License: WTFPL http://sam.zoy.org/wtfpl/
+
+# necesita shunit2 http://code.google.com/p/shunit2/
+
+# el nombre del programa PET1 a verificar:
+SCRIPT_A_PROBAR=$1
+
+
+# me cansa escribir funciones, que lo haga una funcion...
+texto_de_funcion() {
+ entrada=$1
+ esperado=$2
+ funcion='test_'${entrada}'() { resultado="`echo "'${entrada}'" | python2.7 '${SCRIPT_A_PROBAR}' 2>/dev/null`" ; assertEquals "'${esperado}'" "${resultado}"; }'
+ echo $funcion
+}
+
+# genera el caso de prueba y lo agrega a la suite
+gentest() {
+ eval `texto_de_funcion $1 "$2" test_$1`
+ suite_addTest test_$1
+}
+
+# los casos de prueba que se me ocurrieron...
+suite() {
+  gentest 0 0
+  gentest 1 1
+  gentest 2 2
+  gentest 6 '2 x 3'
+  gentest 11 11
+  gentest 17 17
+  gentest 42 "2 x 3 x 7"
+  gentest 168 "2^3 x 3 x 7"
+  gentest 1024  "2^10"
+}
+
+# muestra al final el resultado de la competencia en bytes
+oneTimeTearDown() {
+  echo "cantidad de bytes: "`wc -c ${SCRIPT_A_PROBAR}`
+}
+
+# load shunit2
+. /usr/share/shunit2/shunit2 
+
