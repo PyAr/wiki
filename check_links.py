@@ -63,7 +63,7 @@ def check_files(base_path, should_go_recursive=True):
 
         if added_links:
             with open(filename, 'w') as f:
-                f.write(content)
+                f.write(content + '\n')
                 f.writelines(added_links)
 
     if should_go_recursive:
