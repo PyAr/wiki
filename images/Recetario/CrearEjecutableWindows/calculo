@@ -1,0 +1,107 @@
+'''
+This script computes the moist adiabat for an atmosphere
+which is a mixture of a noncondensing and a condensing
+component.  It also computes the vertical profile of
+the mass specific concentration of the condensible
+component.  To plot the temperature profile, after running
+type   "plot(c)". To plot the specific concentration,
+type "plot(cq)"
+'''
+#Data on section of text which this script is associated with
+Chapter = '2.**'
+Figure = '**'
+
+#
+#ToDo:
+#       Add axis labels
+
+import phys
+from ClimateUtilities import *
+from math import *
+
+
+#Choose your mix of gases here
+#condensible = phys.water
+#noncon = phys.air
+condensible = phys.H2O
+noncon = phys.air
+
+
+eps = condensible.MolecularWeight/noncon.MolecularWeight
+L = condensible.L_vaporization
+Ra = noncon.R
+Rc = condensible.R
+cpa = noncon.cp
+cpc = condensible.cp
+
+
+
+#Dry and one-component adiabat functions, for comparison
+Tr = condensible.TriplePointT
+psat_ref = condensible.TriplePointP
+
+#Function that solves for temperature at which saturation
+#occurs, for a given pressure.  This uses the simplified
+#form of Clausius-Clapeyron based on the assumption that
+#the latent heat is constant.
+def Tsat(p):
+    return(1./(1./Tr - (Rc/L)*log(p/psat_ref)))
+
+#Function giving the temperature of the dry adiabat
+#p0 and T0 are the surface pressure and temperature
+def Tdry(p,p0,T0):
+    return(T0*(p/p0)**(Ra/cpa))
+
+
+#Define satvp function
+satvp = phys.satvps_function(condensible.TriplePointT,condensible.TriplePointP,condensible.MolecularWeight,L)
+
+def slope(logpa,logT,params):
+    pa = exp(logpa)
+    T = exp(logT)
+    qsat = eps*(satvp(T)/pa)
+    num = (1. + (L/(Ra*T))*qsat)*Ra
+    den = cpa + (cpc + (L/(Rc*T) - 1.)*(L/T))*qsat
+    return num/den
+
+#Initial conditions and creation of integrator
+logpa = log(1.e5)
+logT = log(350.)
+ad = integrator(slope,logpa,logT,-.05)
+
+#Initialize lists to save results
+pl = [exp(logpa) + satvp(exp(logT))]
+ql = [satvp(exp(logT))/pl[0]]
+Tl = [exp(logT)]
+TDryl = [Tl[0]]
+Tad1l = [Tsat(pl[0])]
+
+#Integration loop
+for i in range(200):
+	ans = ad.next()
+	pa = exp(ans[0])
+	T = exp(ans[1])
+	p = pa+satvp(T)
+	pl.append(p)
+	ql.append(satvp(T)/p)
+	Tl.append(T)
+	TDryl.append(Tdry(p,pl[0],Tl[0]))
+	Tad1l.append(Tsat(p))
+
+c = Curve()
+c.switchXY = c.reverseY = c.YlogAxis = True
+c.addCurve(pl,'p','Pressure (Pa)')
+c.addCurve(Tl,'T','Adiabat Temperature (K)')
+c.addCurve(TDryl,'Tdry','Dry Adiabat')
+c.addCurve(Tad1l,'Tad1','One-component adiabat')
+#c.addCurve(ql,'q','Volumetric concentration of water vapor')
+
+#Separate curve for plotting concentration
+cq = Curve()
+cq.switchXY = cq.reverseY=cq.YlogAxis = cq.XlogAxis = True
+cq.addCurve(pl,'p','Pressure (Pa)')
+cq.addCurve(ql,'q','Volumetric concentration of water vapor')
+#Add a little bit to the mixing ratio so it doesn't get rounded
+#to zero and make trouble with using a logarithmic axis
+cq['q'] = cq['q']+1.e-30
+
