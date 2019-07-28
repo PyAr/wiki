@@ -1,2 +1,0 @@
-Action India Home Products is the leading company in the Indian market for providing the best devices for Cheating Playing Cards in Delhi India. Our wide range of devices includes Playing cards invisible contact lenses, invisible ink playing cards, new K3 analyzer, Mobile phone soothsayer, CFL light playing cards devices, GSM Neckloop, CVK 500 playing cards device, and much more.
-http://www.kktash.com

@@ -1,0 +1,50 @@
+
+2005
+====
+
+07/07/2005
+::::::::::
+
+* Última edición de `Inmersión en Python`_.
+
+25/04/2005
+::::::::::
+
+* NubIs_ nos muestra su script `Foto by Mail`_.
+
+15/04/2005
+::::::::::
+
+* LucioTorre_ nos da detalles sobre `Python para PalmOS`_ (en inglés).
+
+11/04/2005
+::::::::::
+
+* Está disponible la minuta de la `Reunión 7`_ y la agenda que intentamos seguir en la próxima reunión (`Reunión 8`_).
+
+19/01/2005
+::::::::::
+
+* PyAr_ tiene su `lista de correo`_.
+
+Anteriores
+----------
+
+* `Año 2004`_
+
+.. ############################################################################
+
+
+
+.. _Python para PalmOS: Proyectos/PythonPalm
+
+.. _Reunión 7: Eventos/Reuniones/Reunion07
+
+.. _Reunión 8: Eventos/Reuniones/Reunion08
+
+.. _lista de correo: ListaDeCorreo
+
+
+.. _nubis: /pages/nubis
+.. _luciotorre: /pages/luciotorre
+.. _pyar: /pages/pyar

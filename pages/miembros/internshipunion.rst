@@ -1,0 +1,4 @@
+We are the best internship & job provider in China. If you are looking for some opportunities in China, our free service may suit you well. Our company recruits worldwide marketers and young talent who are interested in gaining experience in this booming marketplace. Our paid internship in China and job vacancies is one of the best ways to bolster your talents work in one of the most competitive markets in the entire world.
+
+Through our company you will get access to a paid internship in China in the marketing field. We are Chinese e-commerce store and we work with local and worldwide alumni’s to offer up express opportunities that could catapult your career to new heights. Through these internship programs you will have the chance to live directly with the Chinese family and enjoy a cultural exchange that is completely covered for free.
+Website: http://www.internshipunion.com/
