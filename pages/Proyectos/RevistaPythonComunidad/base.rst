@@ -19,7 +19,7 @@ Cosas Hechas
 
       * Joaquin Sorianello
 
-  * **PET que serian las siglas de 'Python Entre Todos'** 
+  * **PET que serian las siglas de 'Python Entre Todos'**
 
     * Votaron:
 
@@ -29,19 +29,19 @@ Cosas Hechas
 
       * Nicolás Bevilacqua
 
-  *  **The Greatest Pythonst Magazinest of the Worlds** 
+  *  **The Greatest Pythonst Magazinest of the Worlds**
 
     * Votaron:
 
       * Fabian Ezequiel Gallina
 
-  *  **Lampalagua (Pitón Argentina)** 
+  *  **Lampalagua (Pitón Argentina)**
 
     * Votaron:
 
       * Matias Hernan Vivas Maqueda
 
-* **Release Date**, fecha en la que se publica el numero uno. 
+* **Release Date**, fecha en la que se publica el numero uno.
 
   * Esto se esta definiendo aun.
 
@@ -89,7 +89,7 @@ Cosas Hechas
 
 * **Formato en que publicamos la revista ?**
 
-  * PDF y Roberto Alsina puede dar una mano para generarlo desde reST ! Aparte perfila la idea de automatizar el proceso de armado de la revista ... no somos vagos para nada :P. 
+  * PDF y Roberto Alsina puede dar una mano para generarlo desde reST ! Aparte perfila la idea de automatizar el proceso de armado de la revista ... no somos vagos para nada :P.
 
     * Votaron:
 
@@ -118,9 +118,8 @@ Una vez conformados los dos teams, se prosigue a realizar una reunion entre los 
 
 * release date - Se debe tener una fecha de lanzamiento y cumplirla! Cada vez que un editor defrauda a un lector, Dios mata un gatito ;_;.
 
-* make the rulz! muahahaha! Ejemplo, si la hacemos en texto plano algo como: # extraido de: http://www.phrack.com/
 
-4. The text has to be written in ASCII 7bit. No strange accents nor 
+4. The text has to be written in ASCII 7bit. No strange accents nor
 
      exotic letters. We do accept SPARC assembly. The lines should be 75-columns long MAX. [vi-for-dummies: set textwidth=75]
 
