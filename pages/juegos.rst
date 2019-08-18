@@ -12,9 +12,9 @@ Los siguientes son juegos realizados por miembros de PyAr_ en forma grupal o ind
 
   * `X25 Unplugged`_: Hecho en Córdoba por el team pupo download_
 
-  * Robo-T2_: Hecho en Bs. As. `download <http://www.python.com.ar/moin/juegos?action=AttachFile&do=get&target=Robo-T2+one+pyar+buenos+aires++team>`__ downloadlink-2_
+  * Robo-T2_: Hecho en Bs. As. downloadlink-2_
 
-  * `Pedro's Robot Factory`_ Hecho en Santa Fé `download <http://media.pyweek.org/dl/6/pysfe/robotfactory-1.zip>`__ 
+  * `Pedro's Robot Factory`_ Hecho en Santa Fé `download <http://media.pyweek.org/dl/6/pysfe/robotfactory-1.zip>`__
 
   * HeRobot_ Hecho en ?? `download <http://media.pyweek.org/tmp/herobot-10.zip>`__
 
