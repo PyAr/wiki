@@ -1,8 +1,8 @@
 Estos son buenos recursos |smile|
 
 Estas son organizaciones y empresas argentinas que utilizan python regularmente de distintas formas[1]_.
-  
- 
+
+
 .. tip:: ayudanos a pasar esta lista a la nueva sección específica de `empresas que usan python <http://python.org.ar/empresas/>`_
 
 =======
@@ -30,8 +30,6 @@ Cyclelogic
 * Contacto: `con este formulario`_
 
 * URL: http://www.cyclelogic.com/
-
-* URL: `resume writing service`_
 
 * Teléfono: 11.6777.3900
 
@@ -159,7 +157,7 @@ Machinalis
 * Shaping the Web: Complex Web Development / Process Automation / Python-Django Development
 
 * Data culture: Data Extraction / Data Analysis / Data Processing / Data Visualization
- 
+
 * Github: http://github.com/machinalis
 
 Menttes
@@ -249,7 +247,6 @@ Vortech
 
 .. _con este formulario: http://www.mundomobile.com/corpsite/contactoform.php
 
-.. _resume writing service: http://cvresumewritingservices.org/
 
 .. _www.euskosare.org: http://www.euskosare.org/
 

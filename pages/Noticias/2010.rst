@@ -97,12 +97,6 @@ Anteriores
 
 .. _Inscripción y más información: http://www.pyday.com.ar/rafaela2010/default/register
 
-.. _std testing center: http://www.hivstdtestingclinic.com/
-
-.. _dc moving: http://www.americanhomemoving.com/c-18-dc-moving.aspx
-
-.. _buying essays: http://essay-for.me/prices.php
-
 .. _la página del proyecto: http://python.org.ar/pyar/Proyectos/CDPedia
 
 
