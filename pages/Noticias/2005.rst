@@ -35,6 +35,8 @@ Anteriores
 .. ############################################################################
 
 
+.. _Año 2004: /pages/Noticias/2004
+
 
 .. _Python para PalmOS: Proyectos/PythonPalm
 

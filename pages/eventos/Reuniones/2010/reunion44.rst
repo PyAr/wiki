@@ -6,7 +6,7 @@ Definimos cuando usando: `encuesta!`_
 
  **Asistentes:** Por favor, si venís a la reunión, anotate en esta lista:
 
- 
+
 
   [Table not converted]
 
@@ -52,7 +52,7 @@ Matlab en las Universidades
 
 * Python es más simple en comparación a costa de una baja despreciable de performance del lenguaje
 
-* Utilizar Spyder que da una interfáz parecida pero que usa Py + NumPy_
+* Utilizar Spyder que da una interfáz parecida pero que usa Py + NumPy
 
 * LHC usa Python. Averiguar cómo y con qué biblioteca
 

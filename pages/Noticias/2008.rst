@@ -155,3 +155,9 @@ Anteriores
 
 .. _pyar: /pages/pyar
 .. _remerasv2: /pages/remerasv2
+
+.. _Año 2004: /pages/Noticias/2004
+.. _Año 2005: /pages/Noticias/2005
+.. _Año 2006: /pages/Noticias/2006
+.. _Año 2007: /pages/Noticias/2007
+

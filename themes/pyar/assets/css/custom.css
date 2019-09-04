@@ -570,3 +570,8 @@ a.white:hover {
 div.sponsored_jobs {
     padding: 5px;
 }
+
+/** Otras cosas especificas usada por los rST */
+.strike {
+    text-decoration: line-through;
+}

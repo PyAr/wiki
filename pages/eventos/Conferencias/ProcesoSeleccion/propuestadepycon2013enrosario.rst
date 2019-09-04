@@ -62,7 +62,7 @@ Propuesta tentativa
 
   * empresas: aplicaciones de gestión, ERP, CRM
 
-  * ciencia: SciPy_
+  * ciencia: SciPy
 
 * Eventos:
 

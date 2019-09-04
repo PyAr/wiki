@@ -257,3 +257,6 @@ Anteriores
 .. _remeras: /pages/remeras
 .. _sugerencias: /pages/sugerencias
 .. _recursos: /pages/recursos
+
+.. _Año 2004: /pages/Noticias/2004
+.. _Año 2005: /pages/Noticias/2005
