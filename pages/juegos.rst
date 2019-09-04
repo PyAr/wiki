@@ -100,13 +100,13 @@ Otras realizaciones:
 
 .. _PyDraw: http://media.pyweek.org/static/pygame.draw-0606.html
 
-.. _Alocado Alocador: http://www.python.com.ar/moin/Proyectos/AlocadoAlocador
+.. _Alocado Alocador: /pages/Proyectos/alocadoalocador
 
 .. _PyWeek2: http://pyweek.org/2/
 
-.. _S.T.I.M.: http://www.python.com.ar/moin/Proyectos/STIM
+.. _S.T.I.M.: /pages/Proyectos/stim
 
-.. _Tweety Finger: http://www.python.com.ar/moin/Proyectos/TweetyFinger
+.. _Tweety Finger: /pages/Proyectos/tweetyfinger
 
 .. _Life Fighter: http://code.google.com/p/life-fighter/
 

@@ -30,7 +30,7 @@
 19/08/2008
 ::::::::::
 
-* ¡Mañana ya arrancan las Regionales 2008! Python tendrá un lugar destacado en estas Conferencias, ya que contaremos con un Stand, traemos a Raymond Hettinger (que dará tres charlas, una de las cuales es keynote), e incluso tenemos algunos libros para regalar (no dejen de pasar por el stand para sacar el numerito). Y como corresponde, el jueves tendremos la `Reunion30 <http://www.python.com.ar/moin/Eventos/Reuniones/Reunion30>`__ de Python Argentina.
+* ¡Mañana ya arrancan las Regionales 2008! Python tendrá un lugar destacado en estas Conferencias, ya que contaremos con un Stand, traemos a Raymond Hettinger (que dará tres charlas, una de las cuales es keynote), e incluso tenemos algunos libros para regalar (no dejen de pasar por el stand para sacar el numerito). Y como corresponde, el jueves tendremos la `Reunion30`_ de Python Argentina.
 
 29/07/2008
 ::::::::::
@@ -120,7 +120,7 @@ Anteriores
 
 .. _Devego: http://www.devego.com
 
-.. _aquí: http://www.python.com.ar/moin/Eventos/PythonBugDay
+.. _aquí: /pages/eventos/pythonbugday
 
 .. _2das Jornadas de Software Libre de San Francisco: http://www.jornadas08.com.ar/
 
@@ -128,7 +128,7 @@ Anteriores
 
 .. _Mejor Lenguaje de Scripting: http://www.linuxjournal.com/article/10065
 
-.. _próxima reunión: http://www.python.com.ar/moin/Eventos/Reuniones/ProximaReunion
+.. _próxima reunión: /pages/eventos/Reuniones/proximareunion
 
 .. _Google Maps: http://maps.google.com/maps/ms?hl=en&ptab=2&ie=UTF8&t=h&msa=0&msid=117626973029192648931.000447d968ea4d494125a&ll=-32.7688,-61.435547&spn=8.86327,14.0625&z=6&source=embed
 
@@ -160,4 +160,4 @@ Anteriores
 .. _Año 2005: /pages/Noticias/2005
 .. _Año 2006: /pages/Noticias/2006
 .. _Año 2007: /pages/Noticias/2007
-
+.. _Reunion30: /pages/eventos/Reuniones/2008/reunion30

@@ -7,11 +7,11 @@ Bienvenidos a todos a la minuta de la reunión número 34 de Pyar! Debajo encont
 ¿Tomaron lista?
 ---------------
 
- **Los asistentes en orden de relevamiento y/o llegada:** 
+ **Los asistentes en orden de relevamiento y/o llegada:**
 
 [Table not converted]
 
- **Los desertores (los que se anotaron y no aparecieron |confused| ):** 
+ **Los desertores (los que se anotaron y no aparecieron |confused| ):**
 
 [Table not converted]
 
@@ -40,12 +40,12 @@ Resulta que nos reunimos en el bar `El Imaginario Cultural`_, Bulnes y Guardia V
 
 Y después de elegir una cerveza X y tomar una cerveza Y porque era lo único que tenían, esperamos un rato al resto de la gente, e indignados nos ubicamos nuevamente en la vereda. Ahí, gracias a Mariano "La hormiga exploradora" Reingart, caíamos a las 21hs aprox. en una pizzería llamada "Pachi", ubicada en `Guardia Vieja y Medrano`_, donde nos quedamos el resto de la noche atendidos realmente muy bien!!
 
-Faltaría agradecer a GonzaloLarralde_, cuyo mail enviado al partir de "El Imaginario Cultural" le permitió a DiegoMascialino_ llegar al nuevo bar! 
+Faltaría agradecer a GonzaloLarralde_, cuyo mail enviado al partir de "El Imaginario Cultural" le permitió a DiegoMascialino_ llegar al nuevo bar!
 
 ¿De qué se habló?
 -----------------
 
- PyReplica_ **y experiencia del** `1º PgDay en BsAs`_  
+ PyReplica_ **y experiencia del** `1º PgDay en BsAs`_
 
 MarianoReingart_ nos contó sobre el primer PostgresDay_ en Argentina. El mismo se llevó a cabo en la Asociación de Programadores de Congreso, el 22 de Noviembre del corriente. Parece que salió muy bien ya que vino gente de Brasil, Venezuela y USA, y si bien eran 30 personas nada más, para una primera reunión es un número más que interesante! Mariano ayudó en la organización y también dió una de las cuatro charlas, la referida a PyReplica_, que según la definición de su wiki:
 
@@ -53,7 +53,7 @@ MarianoReingart_ nos contó sobre el primer PostgresDay_ en Argentina. El mismo 
 
 También nos repartió pins! |smile|
 
- **Python y los Servicios Web de** `Factura Electrónica`_ **(AFIP), interfaces con otros lenguajes, SIAP libre... (**PyAfip_**)** 
+ **Python y los Servicios Web de** `Factura Electrónica`_ **(AFIP), interfaces con otros lenguajes, SIAP libre... (**PyAfip_**)**
 
 Luego MarianoReingart_ paso a explicar la problemática de las grandes empresas, que al ser autoimpresoras de sus facturas deben solicitar por Internet la autorización de emisión pertinente (CAE: Código de Autorización Electrónica) a la AFIP, mediante un WebService_ o la Web directamente, como se explica `aquí`_.  Con el paso del tiempo más y más rubros están siendo obligados a adoptar esta forma de operación, por eso para poder realizar esto desde programas escritos en Python, MarianoReingart_ y MarceloAlaniz_ desarrollaron PyAfipWs_, que según su wiki:
 
@@ -65,7 +65,7 @@ También se charló sobre el trabajo en conjunto con MarianoMara_ para el desarr
 
 Finalmente Mariano mencionó la interesante posibilidad de donar el código fuente de PyAfipWs_ a la comunidad de Pyar y que los ingresos se utilicen en pos de expandir Python el la Argentina. Grande Mariano! Veremos que pasa...
 
- **Organizando** PyCon_ **Argentina 2009** 
+ **Organizando** PyCon_ **Argentina 2009**
 
 Durante la `última reunión de PyAr en Santa Fé`_ se anunció, y durante la vuelta del viaje algunos participaron de un brainstorming, para dar vida a PyCon_ Argentina 2009! Sí!! la versión con choriceada y dulce de leche de PyCon_.
 
@@ -105,27 +105,27 @@ FacundoBatista_ mencionó los temas críticos y aquellos urgentes para la organi
 
 * Cantidad de gente esperada: Gente de Santa Fé, Córdoba. Organización de viajes desde el interior para abaratar costos de personas del interior, etc.
 
-* Tracks, Gente y Charlas: 
+* Tracks, Gente y Charlas:
 
-  * Encontrar equilibrio entre charlas de Django, Turbogears, Newbies, etc. 
+  * Encontrar equilibrio entre charlas de Django, Turbogears, Newbies, etc.
 
-  * Cuantos medios días queremos darle a cada tema? 
+  * Cuantos medios días queremos darle a cada tema?
 
-  * Qué temas? 
+  * Qué temas?
 
-  * Cuantos tracks disponibles (2 tracks vs. 4 tracks, según cuanta gente esperamos)? 
+  * Cuantos tracks disponibles (2 tracks vs. 4 tracks, según cuanta gente esperamos)?
 
-  * Cuantas charlas tenemos?   
+  * Cuantas charlas tenemos?
 
 * Capital Requerido: Cálculo de presupuesto (sponsors, infraestructura, se cobrará entrada?, etc.).
 
 * Habrá sprints?
 
- **Sorteo de una remera Slashdot (aniversario 10 años)** 
+ **Sorteo de una remera Slashdot (aniversario 10 años)**
 
 Hacia el final de la reunión, gracias a una donación de SebastianBassi_ y mediante complejos algoritmos matemáticos, ejecutados en diversos dispositivos de alta tecnología como notebooks, iPhones, zapatófonos, iPods, relojes cucú, etc. se obtuvo un simple número de dos cifras. El mismo fue utilizado como índice para acceder a un array de nombres, en cuya posición número 13 alojaba el string "GonzaloLarralde_"!!! Felicitaciones Gonzalo por la hermosa remera!
 
- **The End** 
+ **The End**
 
 Como pudimos; algunos con sus sistemas al 100%, algunos arruinados rippeando Dvds en una XT, otros en piloto automático, pero todos toditos, tuvimos que partir, sip, snif snif |confused| . Después de una noche en donde desfilaron muchas cervezas, acompañadas de muchas pizzas, y donde la amistad le empató al bit, con una gran sonrisa en nuestras caras todos nos dimos un gran abrazo y partimos hacía nuestros bunkers informáticos (que algunos llaman "hogar").
 
@@ -155,7 +155,7 @@ Abrazos para todos!!!!!!!!
 
 .. _SIAP: http://www.afip.gov.ar/genericos/emisorasGarantias/siap_main.asp
 
-.. _última reunión de PyAr en Santa Fé: http://www.python.com.ar/moin/Eventos/Reuniones/Reunion29
+.. _última reunión de PyAr en Santa Fé: /pages/eventos/Reuniones/2008/reunion29
 
 .. _PyCon: http://www.python.org/community/pycon/
 
