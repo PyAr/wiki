@@ -114,7 +114,7 @@ Asistentes:
 ¿Dónde?
 ~~~~~~~
 
-En el fogón del PyCamp_ |smile|
+En el fogón del PyCamp_ 🙂
 
 ¿De qué se hablo?
 ~~~~~~~~~~~~~~~~~

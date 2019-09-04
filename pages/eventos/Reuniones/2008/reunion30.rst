@@ -20,7 +20,7 @@ En fin, Facundo organizó entre la muchedumbre el debate de los siguientes ítem
 
 * PyCamp_ 2009: Esto se discutió más. La idea de los pythoneros cordobeses era obtener feedback acerca del lugar, experiencias de la de este año y de las expectativas sobre un posible PyCamp_ 2009. Se estuvo de acuerdo en que a falta de un mejor lugar (cosa difícil, todos los que asistieron estaban muy conformes), para 2009 se volvería a hacer en Los Cocos. Algo que se introdujo es no hacerlo en vacaciones, sino que se podría utilizar un fin de semana largo (o semi) de 4 días, como por ejemplo el 24 de Marzo (cae martes), Semana Santa (9 y 10 de Abril), o alguno posterior (aunque con el frío se pueden complicar las actividades al aire libre).
 
-* Sorteo: Se sorteó el merchandising que Facundo y Lucio trajeron de la PyCon_ 2008, haciendo un ``pop()`` de una lista generada con un ``random.shuffle(range(1,cantidad))``. Por suerte hubieron varias cosas (remeras, bolsos, revistas, etc.) y yo me gané un bolso de Python. |smile|
+* Sorteo: Se sorteó el merchandising que Facundo y Lucio trajeron de la PyCon_ 2008, haciendo un ``pop()`` de una lista generada con un ``random.shuffle(range(1,cantidad))``. Por suerte hubieron varias cosas (remeras, bolsos, revistas, etc.) y yo me gané un bolso de Python. 🙂
 
 * Lucio propuso hablar de la organización del próximo PyWeek_, que falta muy poco para su inicio. Comentó que le gustaría a él y a Ricardo Kirkner armar algún juego que sí o sí incorpore IA ("Reinforcement Learning").
 
@@ -28,7 +28,7 @@ En fin, Facundo organizó entre la muchedumbre el debate de los siguientes ítem
 
 * Más tarde, `Marcelo Fernández`_ (o sea yo), le pregunté a Facundo sobre el tema de las Certificaciones Python (cuestión que se tocó brevemente en la lista hace muy poco). Facundo hizo rancho aparte (previo aviso al resto, a viva voz, je) en el patiecito del bar para charlar esto y nos juntamos unos 10+ interesados. Básicamente, como miembro de la PSF, Facundo comentó que recién este año se planteó el tema en la Fundación. Charlamos un buen rato (2 horas?) discutiendo sobre los pros y las contras de una Certificación "Python", sin llegar a decidirnos por un esquema que genere "mejores programadores" en general. Se aventuraron posibilidades sobre el futuro del lenguaje, y Facundo prometió mantenernos al tanto de lo que pase a nivel de la PSF. (Si alguien quiere ampliar en esto, bienvenido sea).
 
-* Siendo las 23:40, cuando ya se disponían a jugar a un juego con pirámides de colores (?), me retiré saludando a todos los que pude y muy contento de haber asistido a mi primera reunión de PyAr_. |smile|
+* Siendo las 23:40, cuando ya se disponían a jugar a un juego con pirámides de colores (?), me retiré saludando a todos los que pude y muy contento de haber asistido a mi primera reunión de PyAr_. 🙂
 
 .. ############################################################################
 

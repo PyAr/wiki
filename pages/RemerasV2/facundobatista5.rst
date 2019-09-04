@@ -15,6 +15,6 @@ Comentarios
 
 * [LucioTorre_, en la lista] Sin la URL atrás, pero sí adelante.
 
-* [FacundoBatista_] Sigo esperando los colores, |wink|
+* [FacundoBatista_] Sigo esperando los colores, 😉
 
 .. _luciotorre: /pages/luciotorre

@@ -10,7 +10,7 @@
 29/10/2007
 ::::::::::
 
-* El sábado 3 de Noviembre nos convoca el `Ciclo de Charlas Unlux 2007`_, "Conectando puntos", en la Universidad de Luján. Es un día completo de charlas de todo tipo, donde Python tiene varios espacios asignados (miren el cronograma_), como nos tienen bien acostumbradas las últimas conferencias de Software Libre. Por lo pronto, está auspiciado por PyAr_, |smile|
+* El sábado 3 de Noviembre nos convoca el `Ciclo de Charlas Unlux 2007`_, "Conectando puntos", en la Universidad de Luján. Es un día completo de charlas de todo tipo, donde Python tiene varios espacios asignados (miren el cronograma_), como nos tienen bien acostumbradas las últimas conferencias de Software Libre. Por lo pronto, está auspiciado por PyAr_, 🙂
 
 31/08/2007
 ::::::::::
@@ -35,7 +35,7 @@
 11/07/2007
 ::::::::::
 
-* alecu está en EuroPython. Mientras esperamos jugosas noticias y relatos |wink| vamos posteando una foto de nada menos que `el BDFL junto a nuestra bandera`_.
+* alecu está en EuroPython. Mientras esperamos jugosas noticias y relatos 😉 vamos posteando una foto de nada menos que `el BDFL junto a nuestra bandera`_.
 
 7/06/2007
 :::::::::
@@ -45,7 +45,7 @@
 23/04/2007
 ::::::::::
 
-* Y así pasó `PyWeek 4`_. Para no perder la costumbre |wink| una vez más los grupos de Argentina que participaron salieron muy bien parados. Resultados, `acá`_. Bs. As. participó como Pywiii_, con *Grossini's Hell*, y Córdoba como `PyCor 2.0`_, con el juego homónimo, saliendo en 2:superscript:`do` y 5:superscript:`to` lugar, respectivamente. ¡Feliciataciones gente!
+* Y así pasó `PyWeek 4`_. Para no perder la costumbre 😉 una vez más los grupos de Argentina que participaron salieron muy bien parados. Resultados, `acá`_. Bs. As. participó como Pywiii_, con *Grossini's Hell*, y Córdoba como `PyCor 2.0`_, con el juego homónimo, saliendo en 2:superscript:`do` y 5:superscript:`to` lugar, respectivamente. ¡Feliciataciones gente!
 
 Anteriores
 ----------

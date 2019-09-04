@@ -16,7 +16,7 @@ Reunión 13 - 01/02/2006 - Hip Bar
 
     * LeitoMonk_ nos comentó de los avances en el hacklab que se está armando.
 
-    * El próximo lugar de reunión dependerá de la fecha en que la hagamos: Si el hacklab está listo, usaremos el hacklab. Si no, la idea es ir al Hip Bar, pero con **reserva previa** del sector de abajo. Y la idea es habilitar un lugar en el wiki para que los que seguro van se anoten, y de esa forma podamos gestionar pizza y cerveza libre |smile|
+    * El próximo lugar de reunión dependerá de la fecha en que la hagamos: Si el hacklab está listo, usaremos el hacklab. Si no, la idea es ir al Hip Bar, pero con **reserva previa** del sector de abajo. Y la idea es habilitar un lugar en el wiki para que los que seguro van se anoten, y de esa forma podamos gestionar pizza y cerveza libre 🙂
 
   * Se propuso contactar formalmente como PyAr_ a la gente de Mac Station, sobre la charla que darán de Python. Comentamos que estaría bueno que alguno(s) de nosotros podamos ir, y participar del evento.
 

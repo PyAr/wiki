@@ -7,7 +7,7 @@ Pagina dedicada a como viene la mano con la release 1.
 Status actual
 -------------
 
-* Juntando articulos, wanna be a PSS / PyAR Super Star ?! Envianos tu articulo para la primer release! |laughing|
+* Juntando articulos, wanna be a PSS / PyAR Super Star ?! Envianos tu articulo para la primer release! 🤣
 
 Articuladores
 -------------

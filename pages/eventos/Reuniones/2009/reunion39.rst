@@ -114,7 +114,7 @@ Certificación
 
 No se llegó a hablar del todo de como fomentar python en las empresas argentinas.
 
-A eso de las 11, la gente se empezó a retirar, algunos quedamos hablando de Traducción, CD-Pedia, Hardware vs Software Libre, el futuro de la web, la velocidad de la luz y telepatía |smile|
+A eso de las 11, la gente se empezó a retirar, algunos quedamos hablando de Traducción, CD-Pedia, Hardware vs Software Libre, el futuro de la web, la velocidad de la luz y telepatía 🙂
 
 Links a fotos
 ~~~~~~~~~~~~~

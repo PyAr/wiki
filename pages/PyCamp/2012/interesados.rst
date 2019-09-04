@@ -3,7 +3,7 @@ Interesados en asistir a PyCamp_ 2012 a realizarse durante los días Viernes 06,
 
 La inscripcion tiene dos etapas importantes:
 
-Etapa 1: Para reservar la fecha necesitamos 25 Confirmados si o si, de los cuales 13 hayan depositado. De acá surge un compromiso de pago con Veronica, asi que sean serios con el 'si o si' |smile| Interesa completar esta etapa lo antes posible para poder reservar la fecha.
+Etapa 1: Para reservar la fecha necesitamos 25 Confirmados si o si, de los cuales 13 hayan depositado. De acá surge un compromiso de pago con Veronica, asi que sean serios con el 'si o si' 🙂 Interesa completar esta etapa lo antes posible para poder reservar la fecha.
 
 Etapa 2: Se siguen aceptando inscripciones hasta <fecha limite> (una semana antes del evento ?). El deposito de dinero tiene que ser recibido por el tesorero antes de <fecha limite>, que es cuando se le confirma a Veronica el nro final de asistentes para que ellos puedan prepararse y se adquiere el compromiso de pagar por ese numero de personas.
 

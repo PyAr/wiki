@@ -46,7 +46,7 @@ Por favor, si venís a la reunión, anotate en esta lista:
 
 * SebastianBassi_
 
-* GabrielGenellina_ (ufa |confused| )
+* GabrielGenellina_ (ufa 😕 )
 
 * DiegoMascialino_
 

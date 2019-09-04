@@ -18,7 +18,7 @@ Si estas cerca o tenes alguna relación con una universidad, empresa o instituci
 
 (5) Renovado por daños o extravío
 
-**Importante:** para simplificar, usamos como base la página de distribución de tutoriales UnManualEnCadaUniversidad_, si no estas interesado, simplemente elimina tu nombre del listado, y si no estás y quieres agregarte, simplemente hazlo |wink|
+**Importante:** para simplificar, usamos como base la página de distribución de tutoriales UnManualEnCadaUniversidad_, si no estas interesado, simplemente elimina tu nombre del listado, y si no estás y quieres agregarte, simplemente hazlo 😉
 
 [Table not converted]
 

@@ -212,7 +212,7 @@ Se conversará con la gente USLA respecto al acceso (sudo) y actualización del 
 Colaboradores
 -------------
 
-PyConAr_ es un evento llevado a cabo por voluntarios (ad-honorem) por lo tanto, ¡necesitamos tu ayuda! Si estás interesado en colaborar, a continuación hay una lista de las tareas a realizar, para la organización es necesario anotarse y enumerar que tarea podrías realizar. Es importante usar la Página  Wiki personal en este sitio para conocernos mejor |wink|
+PyConAr_ es un evento llevado a cabo por voluntarios (ad-honorem) por lo tanto, ¡necesitamos tu ayuda! Si estás interesado en colaborar, a continuación hay una lista de las tareas a realizar, para la organización es necesario anotarse y enumerar que tarea podrías realizar. Es importante usar la Página  Wiki personal en este sitio para conocernos mejor 😉
 
 Comité de Programa
 ~~~~~~~~~~~~~~~~~~

@@ -1,7 +1,7 @@
 
 :small:`volver a` RemerasV2_
 
-Otra más |smile|
+Otra más 🙂
 
 `LauBenech5.png </wiki/RemerasV2/LauBenech5/attachment/172/LauBenech5.png>`_
 

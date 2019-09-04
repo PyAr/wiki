@@ -31,7 +31,7 @@ Salida en colectivo
 
 * **Juan Ejemplo** Salgo desde Cordoba en el practico a buenos aires el 03 a las 23 horas para Buenos Aires
 
-* **Mariano Guerra** Voy en colectivo desde Córdoba a Buenos Aires el Jueves a la noche y vuelvo Sábado a la noche/Domingo a la mañana ``luismarianoguerra AT gmail DOT com`` ) - Si alguien me quiere llevar en auto pago gastos |smile|
+* **Mariano Guerra** Voy en colectivo desde Córdoba a Buenos Aires el Jueves a la noche y vuelvo Sábado a la noche/Domingo a la mañana ``luismarianoguerra AT gmail DOT com`` ) - Si alguien me quiere llevar en auto pago gastos 🙂
 
 
 
