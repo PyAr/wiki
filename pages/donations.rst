@@ -8,7 +8,7 @@ Please, select one of the options below, and thank you very much!
 
 .. class:: alert alert-warning
 
-   ver  `versión en español </Donaciones>`_ 
+   ver  `versión en español </pages/donaciones>`_
 
 
 DineroMail
@@ -68,4 +68,6 @@ Cuenta Digital
 
 
 Thank you!
-==========.. _pyar: /pages/pyar
+==========
+
+.. _pyar: /pages/pyar

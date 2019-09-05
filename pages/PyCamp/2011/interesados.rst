@@ -23,15 +23,15 @@ Instrucciones para confirmar la asistencia y pagar la reserva en `PyCamp 2011`_
 
 * dieresys
 
-*  JuanFisanotti_ 
+*  JuanFisanotti_
 
 * HoracioBertorello_
 
-*  PabloZiliani_ 
+*  PabloZiliani_
 
 * NicoEchaniz_ (quizás +1)
 
-*  MarianoReingart_ :strike:`(quizás +1 +0.50 +0.25)` 
+*  MarianoReingart_ :strike:`(quizás +1 +0.50 +0.25)`
 
 * RamiroMorales_
 
@@ -45,11 +45,11 @@ Instrucciones para confirmar la asistencia y pagar la reserva en `PyCamp 2011`_
 
 .. ############################################################################
 
-.. _PyCamp 2011: PyCamp/2011
+.. _PyCamp 2011: /pages/PyCamp/2011
 
-.. _Gonzalo Delgado: GonzaloDelgado
+.. _Gonzalo Delgado: /pages/gonzalodelgado
 
-.. _Hugo Ruscitti: HugoRuscitti
+.. _Hugo Ruscitti: /pages/hugoruscitti
 
 
 

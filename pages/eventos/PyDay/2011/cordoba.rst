@@ -28,14 +28,14 @@ Charlas que se filmaron
 
 .. _Ir a la web oficial: http://www.pyday.com.ar/cordoba2011/default/index
 
-.. _Comunidad, anarquía y subversión: /ComunidadAnarquiaSubversion
+.. _Comunidad, anarquía y subversión: /pages/eventos/PyDay/2011/Cordoba/comunidadanarquiasubversion
 
-.. _Python, Sugar y Robotica Educativa: /PythonSugarIcaro
+.. _Python, Sugar y Robotica Educativa: /pages/eventos/PyDay/2011/Cordoba/pythonsugaricaro
 
-.. _`pycamp.orm, haciendo facil usar sqlalchemy :)`: PycampORM
+.. _`pycamp.orm, haciendo facil usar sqlalchemy :)`: /pages/pycamporm
 
-.. _Haciendo videojuegos con Pilas: /PythonPilas
+.. _Haciendo videojuegos con Pilas: /pages/eventos/PyDay/2011/Cordoba/pythonpilas
 
-.. _`Mythbusters: Tests`: /PythonTests
+.. _`Mythbusters: Tests`: /pages/eventos/PyDay/2011/Cordoba/pythontests
 
 .. _pyar: /pages/pyar

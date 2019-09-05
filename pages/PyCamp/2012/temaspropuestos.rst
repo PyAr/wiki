@@ -194,7 +194,7 @@ Pilas-engine y python sobre HTML5
 
 Pilas-engine funciona sobre python usando biblioteca locales (cómo qt y box2d), pero esto hace un poco difícil llegar a público nuevo (hay que instalar cosas en cada nueva PC, tratar con distintos SO etc). ¿Que tal si se creamos una versión alternativa de pilas-engine que funcione directamente sobre el navegador?.
 
-Actualmente hay una versión de pilas que funciona ya sobre javascript, y otra versión viene en camino. La idea es poder lograr que los nuevos programadores que descubran pilas puedan usar python en lugar de javascript para programar. 
+Actualmente hay una versión de pilas que funciona ya sobre javascript, y otra versión viene en camino. La idea es poder lograr que los nuevos programadores que descubran pilas puedan usar python en lugar de javascript para programar.
 
 Interesados
 ...........
@@ -230,7 +230,7 @@ Interesados
 Vim para Python
 ~~~~~~~~~~~~~~~
 
-Vim es un editor por consola muy conocido, con un modo de trabajo bastante particular (uno "programa" para hacer las cosas, combinando instrucciones para editar texto). Además muy customizable y rápido. 
+Vim es un editor por consola muy conocido, con un modo de trabajo bastante particular (uno "programa" para hacer las cosas, combinando instrucciones para editar texto). Además muy customizable y rápido.
 
 La idea sería mostrar y compartir las cosas (plugins, trucos, etc) que cada uno conoce para vim, que lo hagan una mejor herramienta para programar en python.
 
@@ -278,7 +278,7 @@ Interesados
 Encuentro
 ~~~~~~~~~
 
-Encuentro_ es un simple programa que permite buscar, descargar y ver contenido del Canal Encuentro. Notar que este programa no distribuye contenido de Canal Encuentro, sino que permite un mejor uso personal de esos contenidos. 
+Encuentro_ es un simple programa que permite buscar, descargar y ver contenido del Canal Encuentro. Notar que este programa no distribuye contenido de Canal Encuentro, sino que permite un mejor uso personal de esos contenidos.
 
 La idea es cerrar los últimos detalles durante el PyCamp_, apuntando a un release "final".
 
@@ -461,27 +461,27 @@ CategoryPyCamp_
 
 .. ############################################################################
 
-.. _x-ip: EmilianoDallaVerdeMarcozzi
+.. _x-ip: /pages/emilianodallaverdemarcozzi
 
-.. _dlitvak: DavidLitvak
+.. _dlitvak: /pages/davidlitvak
 
-.. _DiegoSarmentero: gatox
+.. _DiegoSarmentero: /pages/gatox
 
-.. _Joac: JoaquinSorianello
+.. _Joac: /pages/joaquinsorianello
 
-.. _alecu: AlejandroJCura
+.. _alecu: /pages/alejandrojcura
 
-.. _achuni: AnthonyLenton
+.. _achuni: /pages/anthonylenton
 
-.. _pindonga: RicardoKirkner
+.. _pindonga: /pages/ricardokirkner
 
-.. _Lipe: FelipeLerena
+.. _Lipe: /pages/felipelerena
 
 .. _Time to MOVE on: http://cirw.in/blog/time-to-move-on
 
-.. _perrito: HoracioDuran
+.. _perrito: /pages/horacioduran
 
-.. _PyCamp/2012/TemasPropuestos/EditorDeEbooks: /EditorDeEbooks
+.. _PyCamp/2012/TemasPropuestos/EditorDeEbooks: /pages/PyCamp/2012/TemasPropuestos/editordeebooks
 
 .. _Encuentro: http://encuentro.taniquetil.com.ar/
 

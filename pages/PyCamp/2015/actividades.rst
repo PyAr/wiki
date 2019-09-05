@@ -15,9 +15,9 @@ Hay dos maneras de usarlo, la más simple (pero tenes que acordarte el comando)
 ::
 
 	pip install -i http://alarm:3141/root/pypi/ <paquete>
-    
 
-La otra es editar `~/.pip/pip.conf` y dejar la config fija: 
+
+La otra es editar `~/.pip/pip.conf` y dejar la config fija:
 
 ::
 
@@ -27,15 +27,15 @@ La otra es editar `~/.pip/pip.conf` y dejar la config fija:
 	disable-pip-version-check = true
 	allow-all-external=true
 	timeout = 120
-    
+
 
 
 Cronograma de actividades 2015:
 -------------------------------
 
-.. image:: /images/PyCamp/2015/Actividades/40553/IMG_1538.JPG
+.. image:: /images/PyCamp/2015/Actividades/IMG_1538.JPG
    :width: 800px
-   :target: /wiki/PyCamp/2015/Actividades/attachment/40553/IMG_1538.JPG
+   :target: /images/PyCamp/2015/Actividades/IMG_1538.JPG
 
 Juegos, Realidad Virtual y otras cosas
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -77,20 +77,20 @@ https://github.com/verterok/tritcask
 
 SASI
 ~~~~~~~~
-SASI es sigla de Sistema Autogestivo de Saneamiento Integral. 
+SASI es sigla de Sistema Autogestivo de Saneamiento Integral.
 
-Surge de un proyecto del que participo hace algún tiempo en conjunto con la Facultad de Ciencias Bioquimicas y Farmacéuticas 
+Surge de un proyecto del que participo hace algún tiempo en conjunto con la Facultad de Ciencias Bioquimicas y Farmacéuticas
 de la Universidad Nacional de Rosario que consiste en hacer un relevamiento del acceso al agua potable en una villa de Rosario, Villa Banana [1].
 
-La idea de hacer un sistema que permita gestionar las encuestas y las distintas actividades en el barrio y que además tenga la posibilidad de comunicarse con la gente del barrio, que en muchos casos no tiene posibilidades de hacerlo de forma directa. 
+La idea de hacer un sistema que permita gestionar las encuestas y las distintas actividades en el barrio y que además tenga la posibilidad de comunicarse con la gente del barrio, que en muchos casos no tiene posibilidades de hacerlo de forma directa.
 Con respecto a esto último una de las alternativas es un sistema que reciba smss mediante un modem gsm en un raspberry y los reporte al servidor. Esta parte está mas o menos avanzada.
 
 Para los formularios de las encuestas podria utilizarse Open Data Kit [2]
 
-Aparte de esto está la complicación de que el barrio no está mapeado, 
+Aparte de esto está la complicación de que el barrio no está mapeado,
 con lo cual también se estan haciendo actividades sobre mapeo comunitario y está la idea de georreferenciar las encuestas, ubicar centros de interés e ir incorporando todas las utilidades que tiene un GIS.
 
-Aparte de esto me parece que es un proyecto que puede tener varias funcionalidades generales para cierto tipo de proyecto que requiera actividades en campo, encuestas y GIS. 
+Aparte de esto me parece que es un proyecto que puede tener varias funcionalidades generales para cierto tipo de proyecto que requiera actividades en campo, encuestas y GIS.
 Se me ocurre que puede ser algo similar a Ushahidi [3], pero con otro objetivo, aunque con una dinámica similar.
 
 
@@ -198,14 +198,14 @@ Tomar el servidor de FileSync de UbuntuOne https://launchpad.net/filesync-server
 Mejorar/arreglar el visor de grafos de SimpleAI
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-SimpleAI es una biblioteca de algoritmos de IA, y para lo que es búsqueda tiene un lindo debugger 
-gráfico que permite visualizar el grafo/árbol de búsqueda en tiempo real. Usa pydot+graphviz, y en 
+SimpleAI es una biblioteca de algoritmos de IA, y para lo que es búsqueda tiene un lindo debugger
+gráfico que permite visualizar el grafo/árbol de búsqueda en tiempo real. Usa pydot+graphviz, y en
 las últimas versiones se rompió y dejó de andar. La idea es reemplazarlo por algo mejor, que dibuje
 el grafo desde el navegador.
 
 Propone actividad: Fisa
 
-SimpleAI: 
+SimpleAI:
 
 * repo https://github.com/simpleai-team/simpleai
 * docs http://simpleai.readthedocs.org
@@ -213,7 +213,7 @@ SimpleAI:
 Challenge!: Tota
 ~~~~~~~~~~~~~~~~
 
-Una competencia de programar bots para un juego similar a dota, pero en consola, releaseado exclusívamente 
+Una competencia de programar bots para un juego similar a dota, pero en consola, releaseado exclusívamente
 para PyCamp (?).
 
 Propone actividad: Fisa

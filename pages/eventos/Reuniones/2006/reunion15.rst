@@ -70,9 +70,9 @@ Finalizada la reunión quedamos AlejandroDavidWeil_, PabloZiliani_ y yo_ jugando
 
 .. _pyweek: http://www.pyweek.org
 
-.. _STIM: Proyectos/STIM
+.. _STIM: /pages/Proyectos/stim
 
-.. _yo: /pages/nubIs
+.. _yo: /pages/nubis
 
 .. _nubis: /pages/nubis
 .. _guillermogonzalez: /pages/guillermogonzalez

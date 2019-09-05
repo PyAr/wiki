@@ -15,16 +15,16 @@ También discutimos un poquito sobre la dirección web que queríamos encontrar 
 El lugar, el mismo de siempre, se portó bien y mal. Bien porque una vez más nos regalaron una vuelta de choripanes, y mal porque esta vez realmente nos quedó chico (¡eramos once!).
 
 
-`IMG_0681.JPG </wiki/Eventos/Reuniones/2005/Reunion07/attachment/530/IMG_0681.JPG>`_
+`IMG_0681.JPG </images/Eventos/Reuniones/2005/Reunion07/IMG_0681.JPG>`_
 
 
-`IMG_0682.JPG </wiki/Eventos/Reuniones/2005/Reunion07/attachment/531/IMG_0682.JPG>`_
+`IMG_0682.JPG </images/Eventos/Reuniones/2005/Reunion07/IMG_0682.JPG>`_
 
 
-`IMG_0683.JPG </wiki/Eventos/Reuniones/2005/Reunion07/attachment/532/IMG_0683.JPG>`_
+`IMG_0683.JPG </images/Eventos/Reuniones/2005/Reunion07/IMG_0683.JPG>`_
 
 
-`IMG_0684.JPG </wiki/Eventos/Reuniones/2005/Reunion07/attachment/533/IMG_0684.JPG>`_
+`IMG_0684.JPG </images/Eventos/Reuniones/2005/Reunion07/IMG_0684.JPG>`_
 
 .. ############################################################################
 

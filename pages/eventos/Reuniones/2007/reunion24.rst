@@ -66,9 +66,9 @@ Y tratamos algunos otros temas más, que no fueron anotados detallados en los ma
 
 .. ############################################################################
 
-.. _dave: AlejandroDavidWeil
+.. _dave: /pages/alejandrodavidweil
 
-.. _alecu: AlejandroJCura
+.. _alecu: /pages/alejandrojcura
 
 .. _leitomonk: /pages/leitomonk
 .. _luciotorre: /pages/luciotorre

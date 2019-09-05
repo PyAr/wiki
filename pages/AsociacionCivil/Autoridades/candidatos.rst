@@ -98,7 +98,7 @@ Propuestas (adhiere también a las propuestas de Facundo y Mariano):
 
 * Fomentar las relaciones de la asociación con las Cooperativas de Trabajo de Tecnologías en Informática y la Federación en la integración de proyectos en conjunto para el beneficio mutuo de ambas y la sociedad entera.
 
-* Propuestas para actualizar el logo de la Asociación. 
+* Propuestas para actualizar el logo de la Asociación.
 
 * Producción de material de "marketing".
 
@@ -118,7 +118,7 @@ Cargo elegido: Vocal
 
 Mini-CV:
 
-  Tengo 32 años, actualmente vivo en CABA y trabajo en sistemas desde el Y2K. Sysadmin/WebOps/SRE/etc. Estudiante truncado de Sistemas. Me gusta mucho trabajar en proyectos libres y participar/aportar a los mismos desde mis posibilidades. Estuve muchos años de 'oyente' en la lista de PyAr_ y desde el 2013 estoy participando activamente en todo lo que mi tiempo libre me permite. Actualmente trabajo_ en el equipo de Operaciones de CMD (clarin global). Participo en el proyecto TouchAndGo_ y picoteo en otros `varios de PyAr`_ (likode, pyarweb, fades). Pienso que la asociación civil puede ser un gran aporte para esta maravillosa comunidad de la misma manera que es un gran desafio lograr que simplemente sea eso: Un aporte. 
+  Tengo 32 años, actualmente vivo en CABA y trabajo en sistemas desde el Y2K. Sysadmin/WebOps/SRE/etc. Estudiante truncado de Sistemas. Me gusta mucho trabajar en proyectos libres y participar/aportar a los mismos desde mis posibilidades. Estuve muchos años de 'oyente' en la lista de PyAr_ y desde el 2013 estoy participando activamente en todo lo que mi tiempo libre me permite. Actualmente trabajo_ en el equipo de Operaciones de CMD (clarin global). Participo en el proyecto TouchAndGo_ y picoteo en otros `varios de PyAr`_ (likode, pyarweb, fades). Pienso que la asociación civil puede ser un gran aporte para esta maravillosa comunidad de la misma manera que es un gran desafio lograr que simplemente sea eso: Un aporte.
 
 Joaquín Duo
 ~~~~~~~~~~~
@@ -178,7 +178,7 @@ Me interesa participar como vocal para poder tener voto en las cosas que hacen a
 
 .. ############################################################################
 
-.. _Asociación Civil: AsociacionCivil
+.. _Asociación Civil: /pages/asociacioncivil
 
 .. _lista de correo META: http://python.org.ar/mailman/listinfo/meta
 
@@ -186,7 +186,7 @@ Me interesa participar como vocal para poder tener voto en las cosas que hacen a
 
 .. _Acta Consitutiva: https://docs.google.com/document/d/1gyVuTknaHaCuvxiqMPX3SGqqu-D_ZbaaFU77O_TbilQ/edit
 
-.. _Deberes y Responsabilidades de las Autoridades de la Asocación Civil: AsociacionCivil/Autoridades#Deberes_y_responsabilidades
+.. _Deberes y Responsabilidades de las Autoridades de la Asocación Civil: /pages/AsociacionCivil/autoridades#Deberes_y_responsabilidades
 
 .. _Board Candidates 2014 - Python Software Foundation: https://wiki.python.org/moin/PythonSoftwareFoundation/BoardCandidates2014
 

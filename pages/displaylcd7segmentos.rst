@@ -10,7 +10,7 @@ Util para importarlo dentro de otro programa para representar otras cosas.
 
 **Screenshot:**
 
-`temp.jpg </wiki/DisplayLCD7Segmentos/attachment/69/temp.jpg>`_
+`temp.jpg </images/DisplayLCD7Segmentos/temp.jpg>`_
 
 ::
 

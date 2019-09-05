@@ -1,16 +1,16 @@
-TL;DR: 
+TL;DR:
  * Los **Estudiantes** reciben **becas** para trabajar programando **código abierto**
  * Los **Proyectos** encuentran nuevos colaboradores y **mentorean** la nueva generación de desarrolladores
 
 .. class:: alert alert-info
 
-  El `Google Summer of Code <https://summerofcode.withgoogle.com>`__ (**GSoC**) es un programa global que ofrece la oportunidad a estudiantes 
+  El `Google Summer of Code <https://summerofcode.withgoogle.com>`__ (**GSoC**) es un programa global que ofrece la oportunidad a estudiantes
   universitarios de recibir una beca para contribuir a proyectos open source por un período de tres meses.
 
 Proyectos Tentativos:
 =====================
 
-La `Asociación Civil Python Argentina Civil </wiki/AsociacionCivil>`_ es una organización sin fines de lucro de programadores
+La `Asociación Civil Python Argentina Civil </pages/asociacioncivil>`_ es una organización sin fines de lucro de programadores
 con foco en proyectos de la comunidad, principalmente de habla hispana y latinoamericanos:
 
 * **Iniciativas Educativas** (`CDPedia <https://github.com/PyAr/CDPedia>`__: Wikipedia offline, `PyZombis <https://github.com/PyAr/PyZombis>`__: MOOC Español, Tutoriales de Python)
@@ -23,7 +23,7 @@ Este año participaremos en el `"Python Summer of Code" <http://python-gsoc.org/
 **NOTA**: por una cuestión administrativa y disponibilidad de mentores, la disponibilidad de proyectos en el GSoC es acotada.
 Revisar frecuentemente `Página de Ideas <https://github.com/orgs/PyAr/projects>`_
 
-Para ver todos los proyectos de la comunidad Python Argentina: `Listado </wiki/Proyectos>`__ y `Repositorio <http://www.github.com/PyAr>`__
+Para ver todos los proyectos de la comunidad Python Argentina: `Listado </pages/proyectos>`__ y `Repositorio <http://www.github.com/PyAr>`__
 
 ¡Tenés una idea interesante para proponer o querés mentorear? ¡Contáctanos en secretaria+gsoc2019@ac.python.org.ar!
 
@@ -32,7 +32,7 @@ Como empezar:
 
 El detalle de los proyectos e ideas tentativas para participar en GSoC está publicada en GitHub: https://github.com/orgs/PyAr/projects/1
 
-Elegir un proyecto es una decisión muy personal. 
+Elegir un proyecto es una decisión muy personal.
 Deberías decidirte por algo que te interese, algunos consejos:
 
 * **¿Qué software usas actualmente?** ¡Conocerlo te permite opinar sobre como mejorarlo!
@@ -43,7 +43,7 @@ Deberías decidirte por algo que te interese, algunos consejos:
 
 Cualquier experiencia con software libre te ayudará a prepararte para el GSoC, ¡no te preocupes por que proyecto elijes primero y no tengas miedo de cambiar tu opinión!
 
-**IMPORTANTE**: Si bien las comunicaciones con Google deben ser en **Inglés**, ¡podemos ayudarte con las traducciones y redacciones para que puedas participar! 
+**IMPORTANTE**: Si bien las comunicaciones con Google deben ser en **Inglés**, ¡podemos ayudarte con las traducciones y redacciones para que puedas participar!
 No te preocupes, el día a día y documentación en general están en **Español**.
 
 Mentores:
@@ -57,7 +57,7 @@ Mentoreamos en grupo, por lo que si sólo tienes tiempo limitado (por ej. para r
 La dedicación aproximada es de **1 hora por semana** (para seguimiento periódico) y quizás unas horas más para revisión de código o preguntas (y evaluaciones mensuales).
 Los estudiantes más experimentados no requieren prácticamente supervisión, y podemos acompañarte con los que necesiten más ayuda.
 
-**IMPORTANTE**: El proceso de selección y otras tareas administrativas están siendo organizadas por miembros de la Asociación Civil, 
+**IMPORTANTE**: El proceso de selección y otras tareas administrativas están siendo organizadas por miembros de la Asociación Civil,
 para disminuir el esfuerzo de los mentores, así pueden enfocarse en las cuestiones técnicas de los proyectos.
 
 El mentoreo es ad-honorem: los fondos cubiertos por Google son re-destinados a los distintos programas de ayuda financiera de la PSF.
@@ -73,7 +73,7 @@ Si quieres participar como estudiante, por favor sigue los siguientes lineamient
 
 1. **¡Preséntate!**
 
-   Escribe a el `Grupo de Google <https://groups.google.com/d/forum/pyar-gsoc>`_ pyar-gsoc@googlegroups.com 
+   Escribe a el `Grupo de Google <https://groups.google.com/d/forum/pyar-gsoc>`_ pyar-gsoc@googlegroups.com
    (para preguntas generales del GSoC: secretaria+gsoc2019@ac.python.org.ar). Indicar claramente:
 
    * ¿Por qué querés participar del GSoC?, brevemente comenta tu experiencia y expectativas
@@ -127,7 +127,7 @@ NOTA: los cursos online no son aceptados. Es requisito ser alumno regular -prese
 
 El monto de la beca lo determina Google basado en la Paridad de Poder Adquisitivo (PPP) de cada país.
 
-Para Argentina 2019, el importe de la beca para estudiantes sería hasta: **USD 4200** (Dólares EE.UU.); se paga en 3 tramos dependiendo del avance del proyecto 
+Para Argentina 2019, el importe de la beca para estudiantes sería hasta: **USD 4200** (Dólares EE.UU.); se paga en 3 tramos dependiendo del avance del proyecto
 (mientras el estudiante supere las evaluaciones y continúe en el GSoC):
 https://developers.google.com/open-source/gsoc/help/student-stipends
 
@@ -137,7 +137,7 @@ Google dona USD 500 a las organizaciones por cada proyecto aceptado, que son red
 ¿Cuanto tiempo hay que dedicarle al GSoC?
 -----------------------------------------
 
-Se `espera <https://developers.google.com/open-source/gsoc/faq#how_much_time_does_gsoc_participation_take>`_ 
+Se `espera <https://developers.google.com/open-source/gsoc/faq#how_much_time_does_gsoc_participation_take>`_
 que los estudiantes le dediquen **30+ horas semanales** en el período de 3 meses que dura el programa, lo que equivale a una trabajo de tiempo completo.
 
 Idealmente no deberías tener otra pasantía, trabajo u obligación académica de tiempo completo mientras estés participando del GSoC.
@@ -146,8 +146,8 @@ NOTA: Entendemos que por estas latitudes, no son vacaciones de verano...
 Por eso intentaremos ser lo más flexible con los horarios, pero es recomendable que los candidatos indiquen
 cualquier compromiso por adelantado (exámenes, viajes, actividades laborales, etc.).
 
-NOTA: la dedicación de los mentores es variable, de 0 a 10 horas por semana (excepcionalmente); 
-lo habitual es 1 hora por semana para seguimiento periodico (y puede estar distribuido entre distintos mentores). 
+NOTA: la dedicación de los mentores es variable, de 0 a 10 horas por semana (excepcionalmente);
+lo habitual es 1 hora por semana para seguimiento periodico (y puede estar distribuido entre distintos mentores).
 El trabajo administrativo más pesado lo haremos desde la Asociación Civil.
 
 
@@ -157,7 +157,7 @@ El trabajo administrativo más pesado lo haremos desde la Asociación Civil.
 Al ser nuestra primera participación, es posible que sólo tengamos disponibilidad para 1 o 2 estudiantes
 (en total para proyectos dentro de Python Argentina).
 
-Te alentamos a que busques y también presentes solicitudes para otros `Proyectos Python bajo la PSF <http://python-gsoc.org/#ideas>`_: 
+Te alentamos a que busques y también presentes solicitudes para otros `Proyectos Python bajo la PSF <http://python-gsoc.org/#ideas>`_:
 
 * `MNE-Python <https://github.com/mne-tools/mne-python/wiki/GSOC-Ideas>`_ (processing electroencephalography (EEG) and magnetoencephalography (MEG) data)
 * `PySAL <https://github.com/pysal/pysal/wiki/Google-Summer-of-Code-2019>`_ (quantitative analysis of geographic data)
@@ -177,9 +177,9 @@ Te alentamos a que busques y también presentes solicitudes para otros `Proyecto
 * `Panda3D <https://www.panda3d.org/gsoc-2019-ideas>`_ (framework for 3D rendering and games)
 * `Plone CMS <https://plone.org/community/gsoc/2019/>`_ (built with workflow and security at the forefront)
 
-Amigos de la PSF: 
+Amigos de la PSF:
 
-* `Open Astronomy <https://openastronomy.org/gsoc/gsoc2019/#/projects>`_ 
+* `Open Astronomy <https://openastronomy.org/gsoc/gsoc2019/#/projects>`_
 * `GNU Mailman <https://wiki.list.org/DEV/Google%20Summer%20of%20Code%202019>`_
 
 Cada estudiante puede enviar hasta 3 solicitudes en total (mismo o distinto proyecto).
@@ -210,4 +210,5 @@ Blogs y Referencias sobre el GSoC
 * Python GSOC blogs: https://blogs.python-gsoc.org/
 * PSF 2011: http://pyfound.blogspot.com/2011/03/gsoc-student-applications-open.html
 * PSF 2007: http://pyfound.blogspot.com/2007/03/psf-and-googles-summer-of-code.html
+
 .. _marianoreingart: /pages/marianoreingart
