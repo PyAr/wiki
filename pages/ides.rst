@@ -109,7 +109,7 @@ http://www.python.org/idle/doc/idlemain.html
 PyCharm
 ~~~~~~~
 
-PyCharm_ JetBrains_ `PyCharm <../PyCharm>`__ — es un Python IDE con un completo juego de herramientas para el desarrollo productivo con el lenguaje de programacion Python. Adicionalmente, el IDE provee capacidades de alto rango para desarrolladores profesionales de Web con el framework Django. http://www.jetbrains.com/pycharm/index.html
+PyCharm_ JetBrains_ — es un Python IDE con un completo juego de herramientas para el desarrollo productivo con el lenguaje de programacion Python. Adicionalmente, el IDE provee capacidades de alto rango para desarrolladores profesionales de Web con el framework Django. http://www.jetbrains.com/pycharm/index.html
 
 NINJA-IDE
 ~~~~~~~~~

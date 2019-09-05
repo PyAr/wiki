@@ -38,13 +38,13 @@ Anteriores
 .. _Año 2004: /pages/Noticias/2004
 
 
-.. _Python para PalmOS: Proyectos/PythonPalm
+.. _Python para PalmOS: /pages/Proyectos/pythonpalm
 
-.. _Reunión 7: Eventos/Reuniones/Reunion07
+.. _Reunión 7: /pages/eventos/Reuniones/2005/reunion07
 
-.. _Reunión 8: Eventos/Reuniones/Reunion08
+.. _Reunión 8: /pages/eventos/Reuniones/2005/reunion08
 
-.. _lista de correo: ListaDeCorreo
+.. _lista de correo: /pages/listadecorreo
 
 
 .. _nubis: /pages/nubis

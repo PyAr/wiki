@@ -87,7 +87,7 @@ Anteriores
 
 .. _inscribirse: http://www.web2py.com.ar/buenosaires2010/user/register
 
-.. _más info: CharlasAbiertas2010
+.. _más info: /pages/charlasabiertas2010
 
 .. _aquí: http://python.org/download/releases/2.7/
 

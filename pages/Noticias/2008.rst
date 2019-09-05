@@ -30,7 +30,7 @@
 19/08/2008
 ::::::::::
 
-* ¡Mañana ya arrancan las Regionales 2008! Python tendrá un lugar destacado en estas Conferencias, ya que contaremos con un Stand, traemos a Raymond Hettinger (que dará tres charlas, una de las cuales es keynote), e incluso tenemos algunos libros para regalar (no dejen de pasar por el stand para sacar el numerito). Y como corresponde, el jueves tendremos la `Reunion30`_ de Python Argentina.
+* ¡Mañana ya arrancan las Regionales 2008! Python tendrá un lugar destacado en estas Conferencias, ya que contaremos con un Stand, traemos a Raymond Hettinger (que dará tres charlas, una de las cuales es keynote), e incluso tenemos algunos libros para regalar (no dejen de pasar por el stand para sacar el numerito). Y como corresponde, el jueves tendremos la Reunion30_ de Python Argentina.
 
 29/07/2008
 ::::::::::
@@ -110,11 +110,10 @@ Anteriores
 
 .. ############################################################################
 
-.. _Reunion30: Eventos/Reuniones/Reunion30
 
 .. _Jornadas Regionales de Software Libre: http://jornadas.cafelug.org.ar/8/
 
-.. _charlas y talleres sobre Python: Eventos/Conferencias/8JRSL
+.. _charlas y talleres sobre Python: /pages/eventos/Conferencias/8JRSL
 
 .. _Livra: http://geeks.livra.com
 
@@ -132,7 +131,7 @@ Anteriores
 
 .. _Google Maps: http://maps.google.com/maps/ms?hl=en&ptab=2&ie=UTF8&t=h&msa=0&msid=117626973029192648931.000447d968ea4d494125a&ll=-32.7688,-61.435547&spn=8.86327,14.0625&z=6&source=embed
 
-.. _ProximaReunion: Eventos/Reuniones/ProximaReunion
+.. _ProximaReunion: /pages/eventos/Reuniones/proximareunion
 
 .. _Lenguaje del Año: http://www.linuxquestions.org/questions/2007-linuxquestions.org-members-choice-awards-79/programming-language-of-the-year-610237/
 

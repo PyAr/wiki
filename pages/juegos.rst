@@ -94,7 +94,7 @@ Otras realizaciones:
 
 .. _PyWeek3: http://pyweek.org/3/
 
-.. _Typus Pocus: /TypusPocus
+.. _Typus Pocus: /pages/juegos/typuspocus
 
 .. _SaturdayNightNinja: http://pyweek.org/e/pycor/
 

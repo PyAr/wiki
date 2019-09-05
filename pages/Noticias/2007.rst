@@ -5,7 +5,7 @@
 15/11/2007
 ::::::::::
 
-* Los días 6 y 7 de diciembre próximo se estará realizando la 3era edición del evento `WhyFLOSS Conference`_ en las instalaciones del Instituto Tecnológico de Buenos Aires (ITBA) de Puerto Madero.
+* Los días 6 y 7 de diciembre próximo se estará realizando la 3era edición del evento WhyFLOSS Conference en las instalaciones del Instituto Tecnológico de Buenos Aires (ITBA) de Puerto Madero.
 
 29/10/2007
 ::::::::::
@@ -20,7 +20,7 @@
 14/08/2007
 ::::::::::
 
-* Esta abierta la convocatoria para aquellos interesados o que conocen a interesados en disertar en la edicion en BSAS del evento WhyFLOSS_.
+* Esta abierta la convocatoria para aquellos interesados o que conocen a interesados en disertar en la edicion en BSAS del evento WhyFLOSS.
 
 14/08/2007
 ::::::::::
@@ -58,18 +58,15 @@ Anteriores
 
 .. ############################################################################
 
-.. _WhyFLOSS Conference:
-.. _WhyFLOSS: WhyFloss
-
 .. _Ciclo de Charlas Unlux 2007: http://unlux.com.ar/index.php?option=com_content&task=view&id=11&Itemid=22
 
 .. _cronograma: http://unlux.com.ar/index.php?option=com_content&task=view&id=14&Itemid=24
 
 .. _Python 3000: http://python.org/download/releases/3.0/
 
-.. _Reunion23: Eventos/Reuniones/Reunion23
+.. _Reunion23: /pages/eventos/Reuniones/2007/reunion23
 
-.. _ProximaReunion: Eventos/Reuniones/ProximaReunion
+.. _ProximaReunion: /pages/eventos/Reuniones/proximareunion
 
 
 .. _python santa fe: http://www.pythonsantafe.com.ar/
