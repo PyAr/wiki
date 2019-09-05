@@ -12,7 +12,7 @@ http://python.org.ar/pyar/RemerasV3/ManuelArgüelles3?action=AttachFile&do=get&t
 
 Aquí `la planilla de votos`_
 
-Tenés hasta mañana a las 13hs para encargar tu pedido. Las remeras serán impresas en blanco sobre las remeras oscura (negro, gris topo, azul marino, etc) y en negro sobre las claras. 
+Tenés hasta mañana a las 13hs para encargar tu pedido. Las remeras serán impresas en blanco sobre las remeras oscura (negro, gris topo, azul marino, etc) y en negro sobre las claras.
 
 Anotá tu pedido
 ---------------
@@ -22,13 +22,13 @@ En `RemerasV3/Pedidos`_
 Propuestas
 ----------
 
-El plazo para enviar diseños expiró. Estas son las opciones por las que podés votar. 
+El plazo para enviar diseños expiró. Estas son las opciones por las que podés votar.
 
 * `RemerasV2/FacundoBatista2`_
 
 * `RemerasV2/PabloZiliani1`_
 
-* `RemerasV3/LucioTorre1`_  
+* `RemerasV3/LucioTorre1`_
 
 * `RemerasV3/LucioTorre2`_
 
@@ -79,28 +79,32 @@ Plazos
 .. _taller de serigrafía de la agrupación Mazamorra: http://www.agrupacionmazamorra.com.ar/taller-de-serigrafia-30
 
 
-.. _RemerasV3/ManuelArgüelles3: /ManuelArgüelles3
+.. _RemerasV3/ManuelArgüelles3: /pages/RemerasV3/manuelargüelles3
 
 .. _la planilla de votos: https://spreadsheets.google.com/pub?key=0Au9td98rqeZ0dGVmT0M5Q2FaTEg0bnh4ZHVPRDFUZFE&hl=es&single=true&gid=0&output=html
 
-.. _RemerasV3/Pedidos: /Pedidos
+.. _RemerasV3/Pedidos: /pages/RemerasV3/pedidos
 
+
+.. _RemerasV2/FacundoBatista2: /pages/RemerasV2/facundobatista2
+
+.. _RemerasV2/PabloZiliani1: /pages/RemerasV2/pabloziliani1
 
 
 .. _RemerasV3/LucioTorre1:
-.. _RemerasV3/LucioTorre2: /LucioTorre1
+.. _RemerasV3/LucioTorre2: /pages/RemerasV3/luciotorre1
 
-.. _RemerasV3/ManuelArgüelles1: /ManuelArgüelles1
+.. _RemerasV3/ManuelArgüelles1: /pages/RemerasV3/manuelargüelles1
 
-.. _RemerasV3/ManuelArgüelles2: /ManuelArgüelles2
+.. _RemerasV3/ManuelArgüelles2: /pages/RemerasV3/manuelargüelles2
 
-.. _RemerasV3/LeonardoVidarte1: /LeonardoVidarte1
+.. _RemerasV3/LeonardoVidarte1: /pages/RemerasV3/leonardovidarte1
 
-.. _RemerasV3/LeonardoVidarte2: /LeonardoVidarte2
+.. _RemerasV3/LeonardoVidarte2: /pages/RemerasV3/leonardovidarte2
 
-.. _RemerasV3/LeonardoVidarte3: /LeonardoVidarte3
+.. _RemerasV3/LeonardoVidarte3: /pages/RemerasV3/leonardovidarte3
 
-.. _RemerasV3/LeonardoVidarte4: /LeonardoVidarte4
+.. _RemerasV3/LeonardoVidarte4: /pages/RemerasV3/leonardovidarte4
 
 
 .. _pyar: /pages/pyar

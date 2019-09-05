@@ -4,13 +4,13 @@ GTK on TK
 
 Usar temas de GTK en las aplicaciones de TKinter, no requiere ttk, funciona en KDE.
 
-**Foto de Pantalla:** 
+**Foto de Pantalla:**
 
 De fondo Gedit en Ubuntu, usando el tema Ambiance, arriba una ventana con similar tema pero en TK, a su lado una ventana TK por defecto.
 
   :small:`El codigo de este ejemplo esta mas abajo` *(la foto no esta editada, no hay truco, funciona en KDE, o inclusive lo he hecho funcionar sin GTK instalado)*:small:`.`
 
-`gtk-on-tk-hack.jpg </wiki/GTKonTK/attachment/29/gtk-on-tk-hack.jpg>`_
+`gtk-on-tk-hack.jpg </images/GTKonTK/gtk-on-tk-hack.jpg>`_
 
 **El Codigo para hacer GTK on TK:**
 
@@ -19,7 +19,7 @@ De fondo Gedit en Ubuntu, usando el tema Ambiance, arriba una ventana con simila
     #
     #!/usr/bin/env python
     # -*- coding: utf-8 -*-
-    # 
+    #
     #   colour.py
     #
     import os
@@ -240,7 +240,7 @@ Descripcion: Crea 2 ventanas pequeñas iguales, una tratara de imitar el tema de
     root.mainloop()
 
 
-Comentario personal: 
+Comentario personal:
 
 *Es mas bonito que TTK  |smile|  Como sea, la idea es aprovechar que en Linux TODO es un archivo, la magia esta en parsear.*
 
@@ -694,9 +694,9 @@ Descripcion: Crea 2 ventanas pequeñas iguales, una tratara de imitar el tema de
 
 Capturas:
 
-`gtkontk01.png </wiki/GTKonTK/attachment/27/gtkontk01.png>`_
+`gtkontk01.png </images/GTKonTK/gtkontk01.png>`_
 
-`gtkontk02.png </wiki/GTKonTK/attachment/28/gtkontk02.png>`_
+`gtkontk02.png </images/GTKonTK/gtkontk02.png>`_
 
 .. ############################################################################
 

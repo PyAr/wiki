@@ -17,5 +17,5 @@ Códigos para los tamaños: S, M, L, XL y XXL.
 
 A, B y C corresponde a los siguiente:
 
-`tam-remeras.png </wiki/RemerasV2/PreAnotados/attachment/161/tam-remeras.png>`_
+`tam-remeras.png </images/RemerasV2/PreAnotados/tam-remeras.png>`_
 

@@ -2,7 +2,7 @@
 ¿Qué es la CDPedia?
 ===================
 
-`logo-disco-180x180-white.jpg </wiki/Proyectos/CDPedia/attachment/236/logo-disco-180x180-white.jpg>`_ Es un proyecto de Python Argentina para acceder a la información de la Wikipedia en castellano aunque no tengas una conexión a Internet.
+`logo-disco-180x180-white.jpg </images/Proyectos/CDPedia/logo-disco-180x180-white.jpg>`_ Es un proyecto de Python Argentina para acceder a la información de la Wikipedia en castellano aunque no tengas una conexión a Internet.
 
 Toda la información incluída fue obtenida de Wikipedia durante Diciembre del 2012, y es una foto del contenido on-line en un momento dado. Te sugerimos acceder a la información directamente en la Wikipedia Web si es que necesitás información actualizada de uno de los temas.
 
@@ -62,7 +62,7 @@ Algo de historia del proyecto, `aquí`_
 
 .. ############################################################################
 
-.. _0.8: /Prensa/Release0.8
+.. _0.8: /pages/Proyectos/CDPedia/Prensa/release0.8
 
 .. _Opción 1: http://cdpedia.nqnwebs.com/v0.8/cdpedia-0.8-cd.iso
 
@@ -72,13 +72,13 @@ Algo de historia del proyecto, `aquí`_
 
 .. _Bittorrent 2: http://torrentdirecto.comunidadhuayra.org/cdpedia-0.8-cd-comunidad.iso.torrent
 
-.. _esta página: /VersionesAnteriores
+.. _esta página: /pages/Proyectos/CDPedia/versionesanteriores
 
 .. _InfraRecorder: http://infrarecorder.org/?page_id=5
 
 .. _ver una guia en video: http://www.youtube.com/watch?v=_5QLoTl9qu8
 
-.. _estas son las instrucciones: /ModoServidor
+.. _estas son las instrucciones: /pages/Proyectos/CDPedia/modoservidor
 
 .. _este sitio: http://launchpad.net/cdpedia
 
@@ -86,9 +86,9 @@ Algo de historia del proyecto, `aquí`_
 
 .. _acá: http://python.org.ar/pyar/Proyectos/CDPedia/Changelogs
 
-.. _Las Noticias relacionadas a CDPedia: /Prensa
+.. _Las Noticias relacionadas a CDPedia: /pages/Proyectos/CDPedia/prensa
 
-.. _aquí: /Historia
+.. _aquí: /pages/Proyectos/CDPedia/historia
 
 
 

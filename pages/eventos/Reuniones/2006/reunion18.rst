@@ -104,7 +104,7 @@ Este fue el tema de cierre, así que no hubo mucho tiempo para tratarlo. Se resc
 
 .. ############################################################################
 
-.. _alecu: AlejandroJCura
+.. _alecu: /pages/alejandrojcura
 
 .. _alejandrodavidweil: /pages/alejandrodavidweil
 .. _guillermogonzalez: /pages/guillermogonzalez
