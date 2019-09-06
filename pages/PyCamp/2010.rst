@@ -1,6 +1,11 @@
-
 PyCamp 2010
 ===========
+
+.. role:: strike
+   :class: strike
+
+.. role:: underline
+   :class: underline
 
 Fotos del PyCamp!!
 ------------------
@@ -110,11 +115,4 @@ Qué llevar?
 
 
 
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: underline
-   :class: underline
 

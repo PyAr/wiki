@@ -68,3 +68,5 @@ explicar para qué sirve es recordando la famosa entrevista a Homero:
 
 Hay bugs y algunas ideas para mejorarlo: https://github.com/mgaitan/miau
 
+.. _pycamp: /pages/pycamp
+

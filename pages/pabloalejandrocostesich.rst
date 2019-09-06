@@ -6,10 +6,6 @@ Email: ``rhfixer EN SPAMFREE gmail PUNTO com`` You can even more obfuscate your 
 
 I'm an Informatics Engineering student at ITBA
 
--------------------------
-
- CategoryHomepage_
-
 .. ############################################################################
 
 

@@ -48,7 +48,7 @@ Si todo se instaló correctamente, podemos probar los ejemplos que vienen con Py
 
 * **Demostración del entorno**: proof, dialogs, minimal, minimalStandalone, noresource, pictureViewer, saveClipboardBitmap, simpleBrowser, simpleIEBrowser, samples, widgets
 
-* **Internet**: chat, jabberChat, pysshed, radioclient, SourceForgeTracker_, searchexplorer, stockprice, textRouter, webgrabber, webserver
+* **Internet**: chat, jabberChat, pysshed, radioclient, SourceForgeTracker, searchexplorer, stockprice, textRouter, webgrabber, webserver
 
 * **Utilitarios**: conversions (ºC a ºF), redemo (expresiones regulares), rpn (calculadora de impuestos)
 

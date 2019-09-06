@@ -14,12 +14,6 @@ Email: El que quiera saber mi dirección de mail, que se suscriba a la lista del
 
 ...
 
--------------------------
-
-
-
-  CategoryHomepage_
-
 .. ############################################################################
 
 

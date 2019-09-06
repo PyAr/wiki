@@ -26,9 +26,9 @@ Hogar Germán Frers - Baradero
 
 **Qué onda el lugar: 5 pycampitas**
 
-* Muy tranquilo, cero ruidos, mucho verde, "en el medio del campo". 
+* Muy tranquilo, cero ruidos, mucho verde, "en el medio del campo".
 
-* Hay varias actividades para hacer dentro del predio (hasta pileta, incluida en el precio) 
+* Hay varias actividades para hacer dentro del predio (hasta pileta, incluida en el precio)
 
 * En el medio de la colonia Suiza, a 2 Km del rio.
 
@@ -36,13 +36,13 @@ Hogar Germán Frers - Baradero
 
 **Qué onda las habitaciones: 4 pycampitas**
 
-* Son habitaciones sextuples con baño y duchas compartidas. 
+* Son habitaciones sextuples con baño y duchas compartidas.
 
 * También hay 2 habitaciones triples y 1 doble, con baño privado.
 
 **Qué onda la comida: 3 pycampitas**
 
-* (3 desayunos,4 almuerzos, 4 meriendas y 3 cenas). 
+* (3 desayunos,4 almuerzos, 4 meriendas y 3 cenas).
 
 *  Las comidas incluyen agua y jugo (hay proveeduria para comprar otra cosa si se desea).
 
@@ -156,9 +156,10 @@ Esto me respondieron del complejo:
     **Hay que reservar con el 20% del monto total de personas.**
 3. ¿Cual es la fecha limite para reservar?
     **Tenemos hasta el 25 de Febrero de 2016 para confirmar.**
-    
+
 Inscripciones
 --------------
 
 Los que iran al PyCamp 2016 La Serranita es necesario que se anoten aquí http://goo.gl/forms/RnLz3CEDtx
 .. _pyar: /pages/pyar
+.. _PyAr: /pages/pyar

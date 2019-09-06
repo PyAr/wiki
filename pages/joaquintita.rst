@@ -6,9 +6,6 @@ Email: ``carpincho AT SPAMFREE gmail DOT com`` You can even more obfuscate your 
 
 Nick irc: focojoaco
 
--------------------------
-
- CategoryHomepage_
 
 .. ############################################################################
 
