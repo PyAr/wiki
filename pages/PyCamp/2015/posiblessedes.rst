@@ -6,7 +6,7 @@ Estas son las distintas posibles sedes para el PyCamp_ 2015.
 
 Cada sede está cargada aquí por la persona de contacto, que es la persona que averiguó todos los datos y contacto con la administración de la sede, cualquier duda preguntarle a ella/él.
 
-Más allá de la info general, algunos ítems tienen al costado un puntaje sobre cinco, opinión personal de la persona de contacto. 
+Más allá de la info general, algunos ítems tienen al costado un puntaje sobre cinco, opinión personal de la persona de contacto.
 
 La Serranita, Córdoba
 ---------------------
@@ -14,10 +14,10 @@ La Serranita, Córdoba
 **Nombre del lugar:** Complejos Soles Blancos (datos + Fotos en el link)
 http://www.turismocordoba.com.ar/solesblancos/#fotos (ver más detalles del hospedaje abajo)
 
-**Donde está:** 
+**Donde está:**
 
  * distancias:
- 
+
   * 55km Córdoba Capital (1 hora en colectivo)
 
   * 22km de Alta Gracia
@@ -130,7 +130,7 @@ Villa La Bolsa, Córdoba
 
 **Qué onda la comida: Averiguar menú**
 
-* De todas las veces que fui, nunca fue con el servicio de comida del lugar. 
+* De todas las veces que fui, nunca fue con el servicio de comida del lugar.
 
 * bebida: a averiguar si está incluida.
 
@@ -162,7 +162,7 @@ Villa La Bolsa, Córdoba
 
 **Precio:** FIXME: averiguar detalles finos
 
-* Con comida, aproximadamente $300 por día. 
+* Con comida, aproximadamente $300 por día.
 
 * Incluye:
 
@@ -177,7 +177,7 @@ Villa La Bolsa, Córdoba
 Verónica
 --------
 
-**Nombre del lugar:** Hogar Escuela Verónica de la Comunidad de Escuelas Argentino-Alemanas 
+**Nombre del lugar:** Hogar Escuela Verónica de la Comunidad de Escuelas Argentino-Alemanas
 
 **Donde está:** Calle 39, Veronica_.
 
@@ -195,23 +195,23 @@ Verónica
 
 **Qué onda el lugar: 5 pycampitas**
 
-* Muy tranquilo, cero ruidos, mucho verde, "en el medio del campo". 
+* Muy tranquilo, cero ruidos, mucho verde, "en el medio del campo".
 
-* La gente tiene buena onda, y en general no tuvimos ningún problema. 
+* La gente tiene buena onda, y en general no tuvimos ningún problema.
 
 * Se pueden alquilar bicis, y hay mucho para salir a pasear.
 
 **Qué onda las habitaciones: 4 pycampitas**
 
-* Son barracas con camas de dos pisos. 
+* Son barracas con camas de dos pisos.
 
 * También hay cuatro o cinco habitaciones para dos personas, y un par para tres personas (todas con baño privado), que generalmente las usamos para familias que vayan (o personas que deseen una mayor intimidad)
 
 **Qué onda la comida: 4 pycampitas**
 
-* Comida simple, pensada para chicos. 
+* Comida simple, pensada para chicos.
 
-* Existe el opcional de comer asado una noche. 
+* Existe el opcional de comer asado una noche.
 
 * La bebida (agua de la canilla) está incluida.
 
@@ -330,11 +330,11 @@ https://www.google.com.ar/search?q=camping+mutual+chascomus&safe=off&espv=2&biw=
 
 * En pleno invierno es muy frío.
 
-* Hay lugar en cabañas sólo para 32 personas, el resto va en carpa. 
+* Hay lugar en cabañas sólo para 32 personas, el resto va en carpa.
 
-**Disponibilidad:** 
+**Disponibilidad:**
 
-* 22, 23, 24 y 25 de Mayo: Tengo reservadas todas las cabañas hasta el viernes 20 de Marzo. 
+* 22, 23, 24 y 25 de Mayo: Tengo reservadas todas las cabañas hasta el viernes 20 de Marzo.
 
 * Todo lo anterior al finde largo de Mayo esta reservado/ocupado
 
@@ -392,4 +392,5 @@ https://www.google.com.ar/search?q=camping+mutual+chascomus&safe=off&espv=2&biw=
 
   .. _de Facundo: http://www.flickr.com/photos/54757453@N00/sets/72157630546100884/
 
+.. _pycamp: /pages/pycamp
 .. _pyar: /pages/pyar

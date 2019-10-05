@@ -16,11 +16,6 @@ Estoy armando (con muuucha tranquilidad) mi `sitio web personal`_, de nuevo con 
 
 Si estás en Tucumán y programás en Python, te invito un café 😉
 
--------------------------
-
- CategoryHomepage_
-
-.. ############################################################################
 
 .. _UNT: http://www.unt.edu.ar/
 

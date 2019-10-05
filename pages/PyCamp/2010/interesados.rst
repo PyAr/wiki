@@ -126,4 +126,5 @@ Para detalles de la inscripción: http://is.gd/8zTTD
 .. _alejandrosantos: /pages/alejandrosantos
 .. _robertoallende: /pages/robertoallende
 .. _johnlenton: /pages/johnlenton
+.. _pycamp: /pages/pycamp
 .. _ricardoquesada: /pages/ricardoquesada

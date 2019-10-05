@@ -10,14 +10,3 @@ Por otra parte es una precursora, ya va por la versión 3 🙂 ...
 
 Email: ``slezica AT SPAMFREE fibertel DOT com DOT ar``
 
-...
-
--------------------------
-
-
-
-  CategoryHomepage_
-
-.. ############################################################################
-
-

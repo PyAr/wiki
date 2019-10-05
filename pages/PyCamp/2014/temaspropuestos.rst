@@ -7,7 +7,7 @@ Estas son propuestas, en el PyCamp_ el primer día se hace una votación para el
 Linkode, el pastebin útil
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-La idea es ofrecer un "espacio de colaboración de corta vida".  Algo así como un pastebin dinámico, pero que al mismo tiempo sea fácil de usar. 
+La idea es ofrecer un "espacio de colaboración de corta vida".  Algo así como un pastebin dinámico, pero que al mismo tiempo sea fácil de usar.
 
 ¿Por qué usar Linkode?
 
@@ -32,7 +32,7 @@ Más info en `este post`_. El `servicio ya está online`_.
 Encuentro
 ~~~~~~~~~
 
-Este_ es un simple programa que permite buscar, descargar y ver contenido del canal Encuentro, Paka Paka, BACUA, Educ.ar y otros. 
+Este_ es un simple programa que permite buscar, descargar y ver contenido del canal Encuentro, Paka Paka, BACUA, Educ.ar y otros.
 
 *Propone:* FacundoBatista_
 
@@ -71,16 +71,16 @@ https://www.mint.com/ es una aplicación de contabilidad personal, el feature ma
 Preciosa, Precios de Argentina
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Preciosa_ es una plataforma web con clientes para teléfonos móviles que funciona como una base de datos colaborativa (actualizable por los usuarios) para relevar precios de productos de supermercados. Con esa información es posible informar a los consumidores dónde se consigue el mejor precio de un producto, las mejores ofertas (relativas al precio promedio en la ciudad) en un comercio particular, y muchas más. Hay muchas tareas_ para realizar que implican desde scrapping de datos, geolocalización y cálculos estadísticos hasta la implementación de MVC en la aplicación HTML5 para móviles. 
+Preciosa_ es una plataforma web con clientes para teléfonos móviles que funciona como una base de datos colaborativa (actualizable por los usuarios) para relevar precios de productos de supermercados. Con esa información es posible informar a los consumidores dónde se consigue el mejor precio de un producto, las mejores ofertas (relativas al precio promedio en la ciudad) en un comercio particular, y muchas más. Hay muchas tareas_ para realizar que implican desde scrapping de datos, geolocalización y cálculos estadísticos hasta la implementación de MVC en la aplicación HTML5 para móviles.
 
 *Propone:* MartinGaitan_
 
 Muerte a Moin Moin // django-waliki ?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Semanas antes del PyCamp_ se organizó un grupo espontáneo encabezado por Emiliano para renovar el `sitio web`_ de Python Argentina. Hasta ahora, los alcances de esa renovación no incluyen modificar el sistema actual (esta wiki!) sino *complementarlo* con distintas "apps" de Django y un nuevo diseño gráfico para la portada. 
+Semanas antes del PyCamp_ se organizó un grupo espontáneo encabezado por Emiliano para renovar el `sitio web`_ de Python Argentina. Hasta ahora, los alcances de esa renovación no incluyen modificar el sistema actual (esta wiki!) sino *complementarlo* con distintas "apps" de Django y un nuevo diseño gráfico para la portada.
 
-El *engine* wiki con el que funciona el sitio actual es MoinMoin_, que, además de tener una apareciencia por  default bastante fea (un poco suavizada por la customización del encabezado) tiene un *markup* ad hoc bastante complicado, muy baja usabilidad, código fuente complejo y documentación escasa. 
+El *engine* wiki con el que funciona el sitio actual es MoinMoin_, que, además de tener una apareciencia por  default bastante fea (un poco suavizada por la customización del encabezado) tiene un *markup* ad hoc bastante complicado, muy baja usabilidad, código fuente complejo y documentación escasa.
 
 Propongo **migrar** la wiki actual a una aplicación wiki basada en Django, integrada al *look & feel* del nuevo sitio y motorizada por el mismo framework. Esto incluye: a) usuarios b) estructura de URL y contenido de todas las páginas (preferentente convirtiendo markup) c) historial de modificaciones de todas las páginas d) multimedia y otros contenidos
 
@@ -91,7 +91,7 @@ La aplicación wiki "pluggable" pada Django más desarrollada y mantenida es Dja
 En la búsqueda del testrunner soñado
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Propuse una lista de características que debería tener un test runner ideal; la idea es discutir eso, ver si hay que cambiar algo, y trabajar para lograrlo (no haciendo algo desde cero, sino muy probablemente realizando modificaciones o armando un plugin a algo que ya exista). 
+Propuse una lista de características que debería tener un test runner ideal; la idea es discutir eso, ver si hay que cambiar algo, y trabajar para lograrlo (no haciendo algo desde cero, sino muy probablemente realizando modificaciones o armando un plugin a algo que ya exista).
 
 La lista de características y más explicación del tema, `en mi blog`_.
 
@@ -137,9 +137,9 @@ Ver:
 Clínica de migración a Py3k
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-La idea es migrar código a Python 3. 
+La idea es migrar código a Python 3.
 
-Puede ser un proyecto que tengas y quieras migrar, o una biblioteca que necesites y que haya que migrar, o incluso una biblioteca que sepamos que hay que migrar... 
+Puede ser un proyecto que tengas y quieras migrar, o una biblioteca que necesites y que haya que migrar, o incluso una biblioteca que sepamos que hay que migrar...
 
 No importa qué, el tema es migrar código, y hacerlo entre varios así aprendemos y nos sacamos las dudas en el momento.
 
@@ -296,7 +296,7 @@ Web hecha con Django que va a ser el nuevo sitio de PyAr_, se trabajó en muchí
 
 * Aplicación de News mejorada
 
-* Aplicación de Proyectos de PyAr_ 
+* Aplicación de Proyectos de PyAr_
 
 * Aplicación de adoptar un newbie
 
@@ -366,4 +366,5 @@ Pilas
 .. _marianoguerra: /pages/marianoguerra
 .. _hugoruscitti: /pages/hugoruscitti
 .. _eloycolell: /pages/eloycolell
+.. _pycamp: /pages/pycamp
 .. _juanfisanotti: /pages/juanfisanotti

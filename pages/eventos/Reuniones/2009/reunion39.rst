@@ -20,17 +20,17 @@ Reunión 39 - Martes 17/11 - Buenos Aires - 19:00 Hs
 
  **Asistentes:**  Fuimos 24 en esta oportunidad...
 
- 
+
 
   [Table not converted]
 
- **Lugar** 
+ **Lugar**
 
 El Bar de siempre, en Medrano y Guardia Vieja.
 
 `[[GoogleMaps(msa=0,msid=105017401461870163751.0004787ee56982073d1c6,ll="-34.601228,-58.419124",spn="0.005484,0.013078",z=17)]]`_
 
- **Minuta** 
+ **Minuta**
 
 Luego de la ronda de introducción y repartija de stickers, anotadores y remeras, se comenzó a discutir los temas planteados:
 
@@ -38,7 +38,7 @@ PyCon_ 2009:
 
 * Sponsor en general conformes, para la próxima aclarar que es un evento para programadores.
 
-* Charlas: 
+* Charlas:
 
   * En algunas falto python, en otras el orador estaba medio perdido
 
@@ -60,7 +60,7 @@ PyCamp_ 2009:
 
 * fechaaa
 
-* <100$persona  
+* <100$persona
 
 PyCon_ 2010:
 
@@ -70,7 +70,7 @@ PyCon_ 2010:
 
 Lista pyar
 
-* is == is? conclusión: esta bien que se armen esos threads! 
+* is == is? conclusión: esta bien que se armen esos threads!
 
 * Recomendaciones de cuando habia 30 personas... (¿Actualizarlas?)
 
@@ -82,7 +82,7 @@ Lista pyar
 
   * Caso ubunta-ar
 
-    * lista novatos no crece nunca 
+    * lista novatos no crece nunca
 
     * no hay interesados en responder
 
@@ -96,7 +96,7 @@ Lista pyar
 
 * ¿Somos profesores de lengua?
 
-* Sacar la lista de decode + karma: pasar a mailman 
+* Sacar la lista de decode + karma: pasar a mailman
 
 Tutorial de python...
 
@@ -104,9 +104,9 @@ Tutorial de python...
 
 Certificación
 
-* ¿Que temas son importantes para un curso de Python? 
+* ¿Que temas son importantes para un curso de Python?
 
-* ¿Como adaptar el plan de estudio académico a Python? 
+* ¿Como adaptar el plan de estudio académico a Python?
 
 * Unificar esfuerzos, ponerse a trabajar
 
@@ -136,4 +136,5 @@ Links a fotos
 .. _anotense aca: http://spreadsheets.google.com/viewform?formkey=dG1EQzlLSklnVTdqOXlabEZYUXR3SFE6MA
 
 .. _pyar: /pages/pyar
+.. _pycamp: /pages/pycamp
 .. _pycon: /pages/pycon

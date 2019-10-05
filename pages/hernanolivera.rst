@@ -34,7 +34,7 @@ Tengo varios proyectos en mente para los cuales todavía estoy buscando un conte
 
 
 
-  **Notas históricas:** 
+  **Notas históricas:**
 
 1978 Lo primero que programé fue el Atari de un amigo, que tenía un juego que modificamos por diversion, adivinando.
 
@@ -90,15 +90,6 @@ Linux que uso: Ubuntu 8.04 Linux que probé: Suse, Mandrake, Puppy, DSL, Slackwa
 
   Email: ``lholivera AT g m a i l DOT com``
 
-...
-
--------------------------
-
-
-
-  CategoryHomepage_
-
-.. ############################################################################
 
 
 

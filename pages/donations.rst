@@ -1,4 +1,4 @@
-**Hello! This is the donation page of Python Argentina.** |star2|
+**Hello! This is the donation page of Python Argentina.**  🌟
 
 Please, select one of the options below, and thank you very much!
 

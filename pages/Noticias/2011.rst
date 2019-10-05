@@ -41,4 +41,5 @@ Nos llega de Brasil una pésima noticia: falleció Dorneles Tremea, presidente d
 .. _acá: /pages/PyCamp/2011/proyectoslaburados
 
 .. _Mas info...: /pages/PyCamp/2011
+.. _pycamp: /pages/pycamp
 

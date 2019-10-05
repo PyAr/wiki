@@ -18,9 +18,9 @@ Temario:
 Asistentes:
 -----------
 
-Por favor, si venís a la reunión, anotate en esta lista: Si sos nuevo, podes poner una **x** en la columna correspondiente. 
+Por favor, si venís a la reunión, anotate en esta lista: Si sos nuevo, podes poner una **x** en la columna correspondiente.
 
- 
+
 
   [Table not converted]
 
@@ -124,4 +124,5 @@ Minuta
 
 .. _pyar: /pages/pyar
 .. _categoryreuniones: /pages/categoryreuniones
+.. _pycamp: /pages/pycamp
 .. _pycon: /pages/pycon

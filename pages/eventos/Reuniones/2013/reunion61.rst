@@ -40,7 +40,7 @@ Cosas positivas del 2013, a repetir en la próxima PyCamp_:
 
 * accesibilidad desde varios lugares (capital, Córdoba capital, etc.).
 
-* Los miembros con más experiencia "apadrinaron" las primeras horas de los proyectos con más participantes principiantes en la PyCamp_. 
+* Los miembros con más experiencia "apadrinaron" las primeras horas de los proyectos con más participantes principiantes en la PyCamp_.
 
 Cosas negativas del 2013, a evitar en la próxima PyCamp_:
 
@@ -68,4 +68,5 @@ Otros temas tratados en la PyCamp_:
 
 * Quintana pueblo Geek!
 
+.. _pycamp: /pages/pycamp
 .. _pycon: /pages/pycon

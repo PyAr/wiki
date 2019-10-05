@@ -18,6 +18,7 @@ Les pido mil disculpas, pero estoy escribiendo esto 3 meses despues de la reunio
 
 * La crisis por supuesto 🙂
 
-* Python del lado del cliente en aplicaciones Web. Estado de las nuevas tecnologías. 
+* Python del lado del cliente en aplicaciones Web. Estado de las nuevas tecnologías.
 
+.. _pycamp: /pages/pycamp
 .. _pycon: /pages/pycon

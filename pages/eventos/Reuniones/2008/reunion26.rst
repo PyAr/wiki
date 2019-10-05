@@ -86,4 +86,5 @@ Tres horas después de comenzada, y con un promedio de un litro de cerveza por p
 
 .. _pyar: /pages/pyar
 .. _pyweek: /pages/pyweek
+.. _pycamp: /pages/pycamp
 .. _pycon: /pages/pycon

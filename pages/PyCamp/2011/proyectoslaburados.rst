@@ -32,7 +32,7 @@ zodbbrowser
 pep8fy
 ------
 
-Pep8fy_ fue una idea de RobertoAlsina_ y como su nombre lo indica, es un pep8ficador de código. La popular herramienta `pep8.py`_ se limita a ejercer el poder acusador de decirte que tu código no pasa la PEP8. En cambio, Pep8fy aspira a hacer esta tarea automáticamente.  La arquitectura es muy simple: con el modulo tokenizer se obtiene una lista de tokens del módulo a pep8ficar que se manipulan mediante una serie de filtros (uno para cada regla definida en la PEP8) y al final se regenera el código con la lista de tokens alterados.  Se lograron algunos filtros, pero es un trabajo en desarrollo. 
+Pep8fy_ fue una idea de RobertoAlsina_ y como su nombre lo indica, es un pep8ficador de código. La popular herramienta `pep8.py`_ se limita a ejercer el poder acusador de decirte que tu código no pasa la PEP8. En cambio, Pep8fy aspira a hacer esta tarea automáticamente.  La arquitectura es muy simple: con el modulo tokenizer se obtiene una lista de tokens del módulo a pep8ficar que se manipulan mediante una serie de filtros (uno para cada regla definida en la PEP8) y al final se regenera el código con la lista de tokens alterados.  Se lograron algunos filtros, pero es un trabajo en desarrollo.
 
 modulo video pilas
 ------------------
@@ -57,9 +57,9 @@ Facundo B siguió con un branch que tenía de antes, lo terminó y ya está en t
 CDPedia
 -------
 
-Viejos y nuevos contribuyentes al hermoso y noble proyecto CDPedia_ estuvimos laburando en algunas tareas para obtener la version 0.7 . A partir de los cambios realizados, se empaquetará un nuevo DVD de CDPedia para presentar a Educ.ar que tiene firme interés en enviar copias de esta enciclopedia a todas las escuelas del pais. 
+Viejos y nuevos contribuyentes al hermoso y noble proyecto CDPedia_ estuvimos laburando en algunas tareas para obtener la version 0.7 . A partir de los cambios realizados, se empaquetará un nuevo DVD de CDPedia para presentar a Educ.ar que tiene firme interés en enviar copias de esta enciclopedia a todas las escuelas del pais.
 
-Algunos cambios importantes fueron el empaquetado de imágenes en bloques, que permite un aprovechamiento importante en el espacio utilizado. Tambien se creó un generador de "bogus" al vuelo. (la imágen que se muestra cuando la imágen original no está en el CD) que suprime el problema de la variedad de tamaños y la posibilidad de que se vean feos por forzar las dimensiones. . Algunas funciones fueron mejoradas:o la obtención de un artículo al azar ahora se realiza mediante una redirección http que cambia la URL (antes cambiaba el contenido aleatoriamente, pero la url se mantenia en \al_azar). Por último, retoques de CSS y plantillas. 
+Algunos cambios importantes fueron el empaquetado de imágenes en bloques, que permite un aprovechamiento importante en el espacio utilizado. Tambien se creó un generador de "bogus" al vuelo. (la imágen que se muestra cuando la imágen original no está en el CD) que suprime el problema de la variedad de tamaños y la posibilidad de que se vean feos por forzar las dimensiones. . Algunas funciones fueron mejoradas:o la obtención de un artículo al azar ahora se realiza mediante una redirección http que cambia la URL (antes cambiaba el contenido aleatoriamente, pero la url se mantenia en \al_azar). Por último, retoques de CSS y plantillas.
 
 Bug days
 --------
@@ -96,4 +96,5 @@ SAn estuvo reescribiendo luisito_ basado en una nueva estrategia charlada con Al
 .. _marianogarcia: /pages/marianogarcia
 .. _emilianodallaverdemarcozzi: /pages/emilianodallaverdemarcozzi
 .. _marcosvanetta: /pages/marcosvanetta
+.. _pycamp: /pages/pycamp
 .. _categorypycamp: /pages/categorypycamp
