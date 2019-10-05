@@ -44,11 +44,11 @@ Entonces, estuve pensando, y creo que lo mejor que puedo hacer para ayudar a la 
 
 La idea de la charla de Python es para nivelar conocimientos, y de los sistemas de control de versiones no es hacer comparaciones ni discutir cual es mejor: sólo mostrar los cinco comandos más comunes de cada uno que le permitan a una persona trabajar con un grupo que está usando ese control de versiones.
 
-¿Cuando sería y dónde? Capital Federal, el jueves 5 de Julio. Al otro día arranca PyCamp_ en Verónica, y la mayor parte de los que vayan van a pasar por Capital Federal, así que "queda de paso"... sí, si vienen de lejos van a tener una noche más de hotel o hostel, pero seguro que lo podemos resolver a nivel comunidad (gente de PyAr_ que tiene un colchón de más en la casa, por ejemplo... y si al otro día también va a PyCamp_, es un win win).  Creo que se puede hacer todo en una tarde (arrancar a las 14hs, terminar a las 19hs, e ir a tomar/comer algo entre todos). 
+¿Cuando sería y dónde? Capital Federal, el jueves 5 de Julio. Al otro día arranca PyCamp_ en Verónica, y la mayor parte de los que vayan van a pasar por Capital Federal, así que "queda de paso"... sí, si vienen de lejos van a tener una noche más de hotel o hostel, pero seguro que lo podemos resolver a nivel comunidad (gente de PyAr_ que tiene un colchón de más en la casa, por ejemplo... y si al otro día también va a PyCamp_, es un win win).  Creo que se puede hacer todo en una tarde (arrancar a las 14hs, terminar a las 19hs, e ir a tomar/comer algo entre todos).
 
 ¿Quienes pueden venir? Obviamente, gente que esté anotada al PyCamp_. Pero si están tan indecisos de ir o no ir, me mandan un mail por privado [0] y vemos qué podemos hacer. Un detalle muy importante: por favor agreguen su nombre al final de esta página si planean venir al workshop (para ver si juntamos gente interesada, y estimar cuantos seríamos). Obvio, si no saben o no pueden editar el wiki, me mandan un mail por privado [0] y yo los agrego.
 
-Finalmente, acá es donde *yo* pido ayuda. Necesito: 
+Finalmente, acá es donde *yo* pido ayuda. Necesito:
 
 * Un lugar donde hacerlo... lugar para ~10 personas, con pizarrón, proyector, y servicios básicos (baño, agua para mate, etc).
 
@@ -72,6 +72,6 @@ Contacto
 
 .. ############################################################################
 
-.. _acá: PyCamp/2012
+.. _acá: /pages/PyCamp/2012
 
 .. _pyar: /pages/pyar

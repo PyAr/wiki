@@ -33,13 +33,13 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 
 **Fotos del producto terminado!**
 
-`2reducido.JPG </wiki/BuzosPyAr/attachment/50/2reducido.JPG>`_
+`2reducido.JPG </images/BuzosPyAr/2reducido.jpg>`_
 
-`3reducido.JPG </wiki/BuzosPyAr/attachment/42/3reducido.JPG>`_
+`3reducido.JPG </images/BuzosPyAr/3reducido.jpg>`_
 
-`4reducido.JPG </wiki/BuzosPyAr/attachment/45/4reducido.JPG>`_
+`4reducido.JPG </images/BuzosPyAr/4reducido.jpg>`_
 
-`5reducido.JPG </wiki/BuzosPyAr/attachment/47/5reducido.JPG>`_
+`5reducido.JPG </images/BuzosPyAr/5reducido.jpg>`_
 
 .. ############################################################################
 

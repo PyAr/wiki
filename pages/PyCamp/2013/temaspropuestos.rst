@@ -7,7 +7,7 @@ Estas son propuestas, en el PyCamp_ el primer día se hace una votación para el
 SimpleAI
 ~~~~~~~~
 
-SimpleAI_ es una biblioteca bien ordenada y documentada para hacer inteligencia artificial con python, que implementa cosas del libro "Artificial Intelligence: a Modern Approach" (AIMA). Podríamos implementar algunas cosas que faltan, agregar más ejemplos educativos, o simplemente jugar con ideas locas 🙂 Yo no tendría drama en dar una mini-charla introductoria, o hangout antes (fisa) 
+SimpleAI_ es una biblioteca bien ordenada y documentada para hacer inteligencia artificial con python, que implementa cosas del libro "Artificial Intelligence: a Modern Approach" (AIMA). Podríamos implementar algunas cosas que faltan, agregar más ejemplos educativos, o simplemente jugar con ideas locas 🙂 Yo no tendría drama en dar una mini-charla introductoria, o hangout antes (fisa)
 
 *Propone: fisa*
 
@@ -21,7 +21,7 @@ Trabajar en poder acercar mas a nuevos desarrolladores al codigo de ninja (http:
 Documentor
 ~~~~~~~~~~
 
-Programa para generar un sitio de documentacion de un proyecto analizando la estructura de los archivos, docstrings, etc. Utilizando ast y nikola. 
+Programa para generar un sitio de documentacion de un proyecto analizando la estructura de los archivos, docstrings, etc. Utilizando ast y nikola.
 
 *Propone: Diego Sarmentero*
 
@@ -58,14 +58,14 @@ Seguramente surgirán muchas más cosas por hacer, pero en principio, las más i
 GalaxyTrucker
 ~~~~~~~~~~~~~
 
-Existe un juego de tablero llamado `Galaxy Trucker`_ que está muy muy bueno. Quiero ver de armar alguna versión equivalente en digital. La dinámica se puede resumir en: 1. Armás tu nave (con restricciones como tiempo limitado, cantidad máxima de partes, etc), 2. Sometés la nave a un stress-test estructural (se puede romper si no es suficientemente robusta), 3. Mandás la nave a misiones (en función del azar pueden pasar varias cosas, como recolectar dinero, o que se rompa la nave, por ejemplo), 4. Se obtiene un puntaje. Goto 1. 
+Existe un juego de tablero llamado `Galaxy Trucker`_ que está muy muy bueno. Quiero ver de armar alguna versión equivalente en digital. La dinámica se puede resumir en: 1. Armás tu nave (con restricciones como tiempo limitado, cantidad máxima de partes, etc), 2. Sometés la nave a un stress-test estructural (se puede romper si no es suficientemente robusta), 3. Mandás la nave a misiones (en función del azar pueden pasar varias cosas, como recolectar dinero, o que se rompa la nave, por ejemplo), 4. Se obtiene un puntaje. Goto 1.
 
 *Propone: Ricardo Kirkner*
 
 Kilink, el pastebin útil
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-La idea es ofrecer un "espacio de colaboración de corta vida".  Algo así como un pastebin dinámico, pero que al mismo tiempo sea fácil de usar. En definitiva, algo útil.  Los kilinks van a poder ser editables, y cada nueva edición será hija del kilink editado.  Habrá tener coloreado de código, como todos los pastebines, pero con dos grandes diferencias: detección y coloreado automático de tipo de texto, y edición coloreada. 
+La idea es ofrecer un "espacio de colaboración de corta vida".  Algo así como un pastebin dinámico, pero que al mismo tiempo sea fácil de usar. En definitiva, algo útil.  Los kilinks van a poder ser editables, y cada nueva edición será hija del kilink editado.  Habrá tener coloreado de código, como todos los pastebines, pero con dos grandes diferencias: detección y coloreado automático de tipo de texto, y edición coloreada.
 
 ¿Por qué usar kilink?
 
@@ -83,7 +83,7 @@ La idea es ofrecer un "espacio de colaboración de corta vida".  Algo así como 
 
 * Se puede integrar el texto en donde quieras, por versión o siempre actualizado!
 
-Más info en `este post`_. 
+Más info en `este post`_.
 
 *Propone:* FacundoBatista_
 
@@ -116,14 +116,14 @@ Me gustaría hacer foco en:
 Encuentro
 ~~~~~~~~~
 
-Este_ es un simple programa que permite buscar, descargar y ver contenido del canal Encuentro, Paka Paka, BACUA, Educ.ar y otros. 
+Este_ es un simple programa que permite buscar, descargar y ver contenido del canal Encuentro, Paka Paka, BACUA, Educ.ar y otros.
 
 *Propone:* FacundoBatista_
 
 PyMyAdmin
 ~~~~~~~~~
 
-Un 'phpMyAdmin' pero usando Flask, SAW, Twitter Bootstrap y javascript? Pero que no solo soporte MySQL, sino también Oracle, PostgreSQL, Firebird, SQLite, etc? 
+Un 'phpMyAdmin' pero usando Flask, SAW, Twitter Bootstrap y javascript? Pero que no solo soporte MySQL, sino también Oracle, PostgreSQL, Firebird, SQLite, etc?
 
 *Propone: Emiliano Dalla Verde Marcozzi*
 
@@ -319,7 +319,7 @@ En este momento estoy utilizando:
 
 * SimpleUI para la interfaz de usuario (Lo use en un inicio del proyecto, ahora no hay interfaz más que la linea de comando)
 
-* SciPy_ para las cuentas
+* SciPy para las cuentas
 
 * Threading para separar los calculos en distintos hilos utilizando colas para intercomunicarlos
 
@@ -377,7 +377,7 @@ Dado el cercano cierre de Google Reader, busqué alternativas libres y la mejor 
 
 * Mejora de la interfaz: Actualmente son tres script que se corren desde la shell, se podría hacer algo más gráfico
 
-* Envío de documentos remotamente mediante el protocolo SCP 
+* Envío de documentos remotamente mediante el protocolo SCP
 
 * Enviado de documentos por email (exclusivo para el Kindle)
 

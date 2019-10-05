@@ -6,7 +6,7 @@ Aplicación con ícono en el area de notificaciones.
 
 Tiene un menú contextual (About/Quit) y con el botón izquierdo abre una ventana simple.
 
-`trayapp.png </wiki/Recetario/Gui/Gtk/StatusIcon/attachment/589/trayapp.png>`_
+`trayapp.png </images/Recetario/Gui/Gtk/StatusIcon/trayapp.png>`_
 
 ::
 

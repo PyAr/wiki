@@ -4,7 +4,7 @@ GtkEntry
 
 crea una ventana con un label y un campo de texto y muestra el mensaje hola **nombre** con el valor ingresado en el entry.
 
-`Entry.png </wiki/Recetario/Gui/Gtk/Entry/attachment/584/Entry.png>`_
+`Entry.png </images/Recetario/Gui/Gtk/Entry/Entry.png>`_
 
 ::
 

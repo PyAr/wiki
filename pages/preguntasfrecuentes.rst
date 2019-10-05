@@ -37,7 +37,7 @@ Hoy, mientras la cantidad de miembros del grupo lo permite, tenemos una organiza
 ¿Cómo participar?
 ~~~~~~~~~~~~~~~~~
 
-Suscribiéndote a la ListaDeCorreo_, registrándote en el portal, asistiendo a cualquiera de nuetros Eventos_, aportando ideas. También tenemos un canal de IRC. El servidor es ``irc.freenode.net``, y el nombre del canal es ``#pyar``. Podés ingresar vía Web `aquí`_ o `aquí <../IRC>`__. Si querés colaborar aportando contenido al Wiki, o ayudando en su mantenimiento, también es posible. Por favor, leé ContribuyendoAlWiki_.
+Suscribiéndote a la ListaDeCorreo_, registrándote en el portal, asistiendo a cualquiera de nuetros Eventos_, aportando ideas. También tenemos un canal de IRC. El servidor es ``irc.freenode.net``, y el nombre del canal es ``#pyar``. Podés ingresar vía Web `aquí`_ o `aquí </pages/irc>`__. Si querés colaborar aportando contenido al Wiki, o ayudando en su mantenimiento, también es posible. Por favor, leé ContribuyendoAlWiki_.
 
 ¿Cómo se organiza una reunión?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -206,7 +206,7 @@ La forma de "declarar" una variable de este tipo es simplemente asignandole un v
       x = 5
       ...
 
-Esto ya define a "x" como variable local rápida. Y ojo, **tiene ese status en todo el bloque.** 
+Esto ya define a "x" como variable local rápida. Y ojo, **tiene ese status en todo el bloque.**
 
 O sea que cosas como esta no van a funcionar:
 
@@ -476,7 +476,7 @@ Pero ojo, que esto sucede con versiones pasadas y actuales de CPython. Es un det
 
 .. _SEO: http://es.wikipedia.org/wiki/Posicionamiento_en_buscadores
 
-.. _aquí: /irc/
+.. _aquí: /pages/irc
 
 .. _Portland Pattern Repository's Wiki: http://c2.com/cgi/wiki?PythonSprint
 

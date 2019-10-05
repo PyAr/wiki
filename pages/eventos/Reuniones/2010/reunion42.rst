@@ -82,7 +82,7 @@ Curso de Python en La Tribu
 
 * ¿Es mejor enseñar python a programadores o a personas que no saben programar?
 
-* Para los no programadores, habría que ver porque una persona así quiere aprender a programar. ¿En que trabajan? 
+* Para los no programadores, habría que ver porque una persona así quiere aprender a programar. ¿En que trabajan?
 
 * Estaría bueno enseñar algo practico (django, web2py, etc..) pero el problema es que estas cosas tienen muchos conceptos mas (sql, templates, etc..). La ventaja es que la web es algo que motiva a la persona a seguir el curso.
 
@@ -128,7 +128,7 @@ I18n Exceptions:
 
 .. _PyDay Rafaela 2010: http://www.pyday.com.ar/rafaela2010
 
-.. _traducción mensajes de excepción: TracebackInternationalizationProposal
+.. _traducción mensajes de excepción: /pages/tracebackinternationalizationproposal
 
 .. _Doctor Mason: http://www.doctormason.com.ar/
 

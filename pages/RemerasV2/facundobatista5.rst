@@ -4,7 +4,7 @@ Intento 05 de Facundo Batista
 
 Según lo propuesto por Lucio en la lista.
 
-`remera2-Facu05.png </wiki/RemerasV2/FacundoBatista5/attachment/210/remera2-Facu05.png>`_
+`remera2-Facu05.png </images/RemerasV2/FacundoBatista5/remera2-Facu05.png>`_
 
 **Diseño:**
 

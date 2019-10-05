@@ -5,6 +5,6 @@ Mi propuesta de remera, robada salvajemente
 
 * LucioTorre2_ (diseño en remera azul)
 
-`remera1.png </wiki/RemerasV3/LucioTorre1/attachment/231/remera1.png>`_
+`remera1.png </images/RemerasV3/LucioTorre1/remera1.png>`_
 
 .. _luciotorre1: /pages/RemerasV3/luciotorre1

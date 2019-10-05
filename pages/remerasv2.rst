@@ -4,13 +4,13 @@ Resultado
 
 Habemus ganadorus: Ganó el tercer diseño de Cesar Roldan, `RemerasV2/CesarRoldan3`_.
 
-`remeraCesar3.png </wiki/RemerasV2/attachment/25/remeraCesar3.png>`_
+`remeraCesar3.png </images/RemerasV2/remeraCesar3.png>`_
 
 Esta es toda la info de los sufragios, con las direcciones de mail saneadas:
 
 
 
-Por favor, anotá en `RemerasV2/PreAnotados`_ cuantas remeras pensás comprar, de qué tamaño y color. 
+Por favor, anotá en `RemerasV2/PreAnotados`_ cuantas remeras pensás comprar, de qué tamaño y color.
 
 Propuestas
 ----------
@@ -102,55 +102,55 @@ Saludos, y largaaaaaaaaaaaaaaaaaron!
 
 .. ############################################################################
 
-.. _RemerasV2/CesarRoldan3: /CesarRoldan3
+.. _RemerasV2/CesarRoldan3: /pages/RemerasV2/cesarroldan3
 
-.. _RemerasV2/PreAnotados: /PreAnotados
+.. _RemerasV2/PreAnotados: /pages/RemerasV2/preanotados
 
-.. _RemerasV2/SoloUnEjemplo0: /SoloUnEjemplo0
+.. _RemerasV2/SoloUnEjemplo0: /pages/RemerasV2/solounejemplo0
 
-.. _RemerasV2/FacundoBatista1: /FacundoBatista1
+.. _RemerasV2/FacundoBatista1: /pages/RemerasV2/facundobatista1
 
-.. _RemerasV2/FacundoBatista2: /FacundoBatista2
+.. _RemerasV2/FacundoBatista2: /pages/RemerasV2/facundobatista2
 
-.. _RemerasV2/FacundoBatista3: /FacundoBatista3
+.. _RemerasV2/FacundoBatista3: /pages/RemerasV2/facundobatista3
 
-.. _RemerasV2/FacundoBatista4: /FacundoBatista4
+.. _RemerasV2/FacundoBatista4: /pages/RemerasV2/facundobatista4
 
-.. _RemerasV2/alecu1: /alecu1
+.. _RemerasV2/alecu1: /pages/RemerasV2/alecu1
 
-.. _RemerasV2/humitos1: /humitos1
-
-
-.. _RemerasV2/CesarRoldan1: /CesarRoldan1
-
-.. _RemerasV2/CesarRoldan2: /CesarRoldan2
-
-.. _RemerasV2/FacundoBatista5: /FacundoBatista5
+.. _RemerasV2/humitos1: /pages/RemerasV2/humitos1
 
 
-.. _RemerasV2/Nubis1: /Nubis1
+.. _RemerasV2/CesarRoldan1: /pages/RemerasV2/cesarroldan1
 
-.. _RemerasV2/Nubis2: /Nubis2
+.. _RemerasV2/CesarRoldan2: /pages/RemerasV2/cesarroldan2
 
-.. _RemerasV2/RamiroMorales1: /RamiroMorales1
+.. _RemerasV2/FacundoBatista5: /pages/RemerasV2/facundobatista5
 
-.. _RemerasV2/LauBenech1: /LauBenech1
 
-.. _RemerasV2/LauBenech2: /LauBenech2
+.. _RemerasV2/Nubis1: /pages/RemerasV2/nubis1
 
-.. _RemerasV2/LauBenech3: /LauBenech3
+.. _RemerasV2/Nubis2: /pages/RemerasV2/nubis2
 
-.. _RemerasV2/LauBenech4: /LauBenech4
+.. _RemerasV2/RamiroMorales1: /pages/RemerasV2/ramiromorales1
 
-.. _RemerasV2/HernanBalocco1: /HernanBalocco1
+.. _RemerasV2/LauBenech1: /pages/RemerasV2/laubenech1
 
-.. _RemerasV2/LauBenech5: /LauBenech5
+.. _RemerasV2/LauBenech2: /pages/RemerasV2/laubenech2
 
-.. _RemerasV2/LauBenech6: /LauBenech6
+.. _RemerasV2/LauBenech3: /pages/RemerasV2/laubenech3
 
-.. _RemerasV2/PabloZiliani1: /PabloZiliani1
+.. _RemerasV2/LauBenech4: /pages/RemerasV2/laubenech4
 
-.. _RemerasV2/PabloZiliani2: /PabloZiliani2
+.. _RemerasV2/HernanBalocco1: /pages/RemerasV2/hernanbalocco1
+
+.. _RemerasV2/LauBenech5: /pages/RemerasV2/laubenech5
+
+.. _RemerasV2/LauBenech6: /pages/RemerasV2/laubenech6
+
+.. _RemerasV2/PabloZiliani1: /pages/RemerasV2/pabloziliani1
+
+.. _RemerasV2/PabloZiliani2: /pages/RemerasV2/pabloziliani2
 
 
 .. _pyar: /pages/pyar

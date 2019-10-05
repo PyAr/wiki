@@ -8,11 +8,11 @@ en este caso vemos como agregar el web inspector para inspeccionar y debuggear l
 
 el resultado al principio es algo asi:
 
-`brser1.png </wiki/Recetario/Gui/Gtk/BrowserConWebInspector/attachment/591/brser1.png>`_
+`brser1.png </images/Recetario/Gui/Gtk/BrowserConWebInspector/brser1.png>`_
 
 luego de hacer click derecho en la pagina y hacer click en "Inspect Element" tenemos algo asi:
 
-`brser2.png </wiki/Recetario/Gui/Gtk/BrowserConWebInspector/attachment/592/brser2.png>`_
+`brser2.png </images/Recetario/Gui/Gtk/BrowserConWebInspector/brser2.png>`_
 
 el codigo:
 

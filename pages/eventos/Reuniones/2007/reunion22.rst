@@ -68,7 +68,7 @@ Unos dias antes de la charla se anunciaron los resultados de la ultima competenc
 Concursos para PyAr
 ~~~~~~~~~~~~~~~~~~~
 
-**??? No se en que pensaba el chaghi cuando anoto este punto en la lista de temas!** 
+**??? No se en que pensaba el chaghi cuando anoto este punto en la lista de temas!**
 
 Juas! Alecu... Leé el título de esta sección. Ahora, leé el párrafo de la sección siguiente. ¿Te matchea algún string? 😉 Reconozco que me costó un poco darme cuenta que quise poner, pero en esencia, fue eso: Una referencia a lo que hablamos sobre organizar concursos.
 
@@ -99,7 +99,7 @@ Más tarde fuimos a una pizzeria a comer algo y estuvimos charlando algunos tema
 
 .. ############################################################################
 
-.. _alecu: AlejandroJCura
+.. _alecu: /pages/alejandrojcura
 
 .. _PyCon2007: http://us.pycon.org/TX2007/HomePage
 

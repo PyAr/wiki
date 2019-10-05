@@ -1,5 +1,5 @@
 
-:small:`Volver a` RemerasV2_ 
+:small:`Volver a` RemerasV2_
 
 Una remera con solpiente
 ------------------------
@@ -11,12 +11,12 @@ Apoyemos a la solpiente, derivemos arte de  archivo. (nota: la tipografía usada
 Subversión uno
 ~~~~~~~~~~~~~~
 
-`1a.png </wiki/RemerasV2/PabloZiliani1/attachment/186/1a.png>`_
+`1a.png </images/RemerasV2/PabloZiliani1/1a.png>`_
 
 Subversión dos (con infograsada)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`1b.png </wiki/RemerasV2/PabloZiliani1/attachment/187/1b.png>`_
+`1b.png </images/RemerasV2/PabloZiliani1/1b.png>`_
 
 Archivo
 -------

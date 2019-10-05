@@ -44,11 +44,11 @@ Reunión 13 - 01/02/2006 - Hip Bar
 
   * Hablamos sobre la organización formal del grupo. Convenimos en que por ahora es una carga administrativa y de tiempos demasiado grande el transformarnos en una asociación. LeitoMonk_ nos propuso contactarnos con alguna fundación y/o organización existente, que actúe como *paraguas*, para aquellos casos en que necesitemos una figura legal que nos represente (ejemplo: para recibir donaciones).
 
-  .. ############################################################################
+.. ############################################################################
 
-  .. _ActionSprite: Proyectos:Caucho/ActionSprite
+.. _ActionSprite: /pages/Proyectos/caucho/
 
-  .. _ReleaseProcedure: Eventos/Reuniones/ReleaseProcedure
+.. _ReleaseProcedure: /pages/eventos/Reuniones/releaseprocedure
 
 .. _guillermogonzalez: /pages/guillermogonzalez
 .. _alejandrojcura: /pages/alejandrojcura

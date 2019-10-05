@@ -4,7 +4,7 @@ Intento 01 de Juanjo
 
 Simple, como Python.
 
-`Juanjo1-1.jpg </wiki/RemeraV2/Juanjo1/attachment/545/Juanjo1-1.jpg>`_
+`Juanjo1-1.jpg </images/RemeraV2/Juanjo1/Juanjo1-1.jpg>`_
 
 Fuente
 ------

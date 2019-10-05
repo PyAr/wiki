@@ -181,37 +181,37 @@ Editor de Texto deathmatch  Cuan pupudo es el editor de texto que usas para prog
 
 Django bug-fixing sprint  Nos sentamos a cerrar tickets de Django en recta final hacia el release de 1.1. Ver hilo_ en la lista.
 
-    Ver `/SprintDjango`_
+Ver `/SprintDjango`_
 
-  .. ############################################################################
+.. ############################################################################
 
-  .. _alecu: AlejandroJCura
+.. _alecu: /pages/alejandrojcura
 
-  .. _dave: AlejandroDavidWeil
+.. _dave: /pages/alejandrodavidweil
 
-  .. _Mariano Mara: MarianoMara
+.. _Mariano Mara: /pages/marianomara
 
-  .. _PyAfip: http://www.nsis.com.ar/public/wiki/PyAfip
+.. _PyAfip: http://www.nsis.com.ar/public/wiki/PyAfip
 
-  .. _`SiaPy: SIAP libre`: http://www.nsis.com.ar/public/wiki/SiaPy
+.. _`SiaPy: SIAP libre`: http://www.nsis.com.ar/public/wiki/SiaPy
 
-  .. _`PyAfipWs: Factura Electrónica`: http://www.nsis.com.ar/public/wiki/PyAfipWs
+.. _`PyAfipWs: Factura Electrónica`: http://www.nsis.com.ar/public/wiki/PyAfipWs
 
-  .. _Wiki: http://trac.usla.org.ar/proyectos/pycon-ar/wiki/PyConTech
+.. _Wiki: http://trac.usla.org.ar/proyectos/pycon-ar/wiki/PyConTech
 
-  .. _tickets: http://trac.usla.org.ar/proyectos/pycon-ar/query?status=assigned&status=new&status=accepted&status=reopened&group=status&milestone=PyCamp
+.. _tickets: http://trac.usla.org.ar/proyectos/pycon-ar/query?status=assigned&status=new&status=accepted&status=reopened&group=status&milestone=PyCamp
 
-  .. _lista de cosas a hacerle: ../NaushikaNG
+.. _lista de cosas a hacerle: /pages/PyCamp/2009/naushikang
 
-  .. _perrito: HoracioDuran
+.. _perrito: /pages/horacioduran
 
-  .. _similar a este: http://blog.wolfire.com/2009/01/aquaria-design-tour/
+.. _similar a este: http://blog.wolfire.com/2009/01/aquaria-design-tour/
 
-  .. _una red de confianza: http://www.advogato.org/trust-metric.html
+.. _una red de confianza: http://www.advogato.org/trust-metric.html
 
-  .. _fedora hace algo parecido: https://fedorahosted.org/web/new
+.. _fedora hace algo parecido: https://fedorahosted.org/web/new
 
-  .. _hilo: http://mx.grulic.org.ar/lurker/thread/20090308.185714.55696d61.es.html
+.. _hilo: http://mx.grulic.org.ar/lurker/thread/20090308.185714.55696d61.es.html
 
 .. _marcosdione: /pages/marcosdione
 .. _johnlenton: /pages/johnlenton

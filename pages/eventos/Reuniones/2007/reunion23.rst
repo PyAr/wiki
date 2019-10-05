@@ -68,11 +68,11 @@ Resumen Ejecutivo
 
 1. Difusión
 
-   * universidades, 
+   * universidades,
 
    * eventos de otras comunidades,
 
-   * ver la participación en el LUG de Luján, 
+   * ver la participación en el LUG de Luján,
 
    * organizar eventos propios,
 
@@ -88,7 +88,7 @@ Resumen Ejecutivo
 
    * mejorar el page rank de la web del grupo, más link, Planets...
 
-   * atraer con comida y cerrar la puerta... 
+   * atraer con comida y cerrar la puerta...
 
 #. EuroPython_
 
@@ -112,7 +112,7 @@ Resumen Ejecutivo
 
    * stripper y camisetas mojadas,
 
-   * y por supuesto, cerveza 
+   * y por supuesto, cerveza
 
 ¿Quiere saber más? Siga leyendo.
 
@@ -125,17 +125,17 @@ Se habló que la mayoría de las reuniones se hacen en Buenos Aires y las activi
 
 Alguien piensa que sería bueno organizar eventos en universidades y Matías se ofrece a conseguir un aula en su facultad para que PyAr_ organice charlas allí. Daniel quiere buscar ámbitos nuevos y Facundo sugiere dar charlas temáticas, por ejemplo, orientadas a las matemáticas.
 
-A todo esto, Facundo afirma que PyAr_ es un grupo nuevo que todavía está naciendo y se “aprovecha” de la gentileza de los “hermanos mayores”, la capacidad organizativa y la gente involucrada en los LUGs. Aquí se le hace un reconocimiento a Leito por estar metido en casi todas estas comunidades (sino todas) y se juzga que la colocación de stand en Cafeconf y en las jornadas fue exitosa. 
+A todo esto, Facundo afirma que PyAr_ es un grupo nuevo que todavía está naciendo y se “aprovecha” de la gentileza de los “hermanos mayores”, la capacidad organizativa y la gente involucrada en los LUGs. Aquí se le hace un reconocimiento a Leito por estar metido en casi todas estas comunidades (sino todas) y se juzga que la colocación de stand en Cafeconf y en las jornadas fue exitosa.
 
 Alecu plantea que el nombre dado a un evento no debería referenciar a un lugar específico (tal como Python en Santa Fe) y como ejemplo da un nombre como PyCon_ Argentina. Pero Lucio saltó diciendo que las conferencias PyCon_ son de alto nivel, para desarrolladores, no para estudiantes que se inician o personas que no conocen el lenguaje.
 
-Y por el tema de difusión, Matías ofrece un anillo que reúne los grupos de software libre de las universidades. Y entonces surge otra vez que para organizar reuniones y charlas, PyAr_ necesita que le ofrezcan un aula con proyector más gente que pueda arriarse. 
+Y por el tema de difusión, Matías ofrece un anillo que reúne los grupos de software libre de las universidades. Y entonces surge otra vez que para organizar reuniones y charlas, PyAr_ necesita que le ofrezcan un aula con proyector más gente que pueda arriarse.
 
 Se tuvo la noticia que el LUG de Luján está interesado en organizar un evento, pero hay que confirmar si se trata de algo de software libre en general o algo más parecido a un Python Day. Gente de ese LUG buscaba ver si algún profesor de su facultad podría introducirlos en el lenguaje y Alecu les había mencionado que tanto Facundo como Daniel disponen de charlas introductorias. Según parece, Lujan quiere organizar algo hacia noviembre. Habrá que ponerse en contacto con ellos y definir el público.
 
-Aquí se vuelve al tema de las universidades. La universidad es “un caldo de cultivo a infectar”. Se realizan algunas críticas a los docentes dinosaurios, “no maleables” en palabras de Mariano. Alguien más critica que la mayoría están casados con Java y entonces Lucio dice que deberíamos apuntar no a los estudiantes, sino a los programadores, a los profesionales de sistemas. Se dice que los alumnos presionen para la enseñanza de nuevos lenguajes (algo revolucionario) y se plantea que todavía hay docentes (y egresados que cursaron con esos docentes) quienes no comprenden la diferencia entre compilar e interpretar. Alecu menciona la dificultad de que la gente que está muy cómoda programando en C# y Java y que sería muy difícil sacarlos de sus IDEs, y entonces Lucio sugiere mostrar Eclipse con Python, u otros IDEs, para resultar más atractivos. Y aquí, haciendo un paréntesis, se critica a muchos programadores que creen programar en “visual c++” cuando en realidad es “c++” y si los sacas de sus IDEs, están perdidos. En general, gente que sabe programar “visual xxx” y no saben programar “xxx”. En esto también tienen culpa los avisos clasificados de los diarios, ya que piden programador “visual xxx”. 
+Aquí se vuelve al tema de las universidades. La universidad es “un caldo de cultivo a infectar”. Se realizan algunas críticas a los docentes dinosaurios, “no maleables” en palabras de Mariano. Alguien más critica que la mayoría están casados con Java y entonces Lucio dice que deberíamos apuntar no a los estudiantes, sino a los programadores, a los profesionales de sistemas. Se dice que los alumnos presionen para la enseñanza de nuevos lenguajes (algo revolucionario) y se plantea que todavía hay docentes (y egresados que cursaron con esos docentes) quienes no comprenden la diferencia entre compilar e interpretar. Alecu menciona la dificultad de que la gente que está muy cómoda programando en C# y Java y que sería muy difícil sacarlos de sus IDEs, y entonces Lucio sugiere mostrar Eclipse con Python, u otros IDEs, para resultar más atractivos. Y aquí, haciendo un paréntesis, se critica a muchos programadores que creen programar en “visual c++” cuando en realidad es “c++” y si los sacas de sus IDEs, están perdidos. En general, gente que sabe programar “visual xxx” y no saben programar “xxx”. En esto también tienen culpa los avisos clasificados de los diarios, ya que piden programador “visual xxx”.
 
-Alecu coincide con seguir con reuniones del estilo de la de Santa Fe. Seguir sumando a la gente que organiza eventos y llenar un aula. Entonces se menciona el tema de Zope y Plone. Lucio observa que en EuroPython_, las comunidades de Zope/Plone y Python estaban separadas y Daniel agrega que la gente de afuera del lenguaje casi no conoce Zope/Plone; es decir, que promocionar Zope/Plone no es una buena estrategia para la meta específica de difundir Python. 
+Alecu coincide con seguir con reuniones del estilo de la de Santa Fe. Seguir sumando a la gente que organiza eventos y llenar un aula. Entonces se menciona el tema de Zope y Plone. Lucio observa que en EuroPython_, las comunidades de Zope/Plone y Python estaban separadas y Daniel agrega que la gente de afuera del lenguaje casi no conoce Zope/Plone; es decir, que promocionar Zope/Plone no es una buena estrategia para la meta específica de difundir Python.
 
 ¿Y qué le interesa a la gente? fue la pregunta de Facundo. El sugiere realizar encuestas en CafeConf_: ¿sabes que es Python? ¿qué es Plone? ¿Zope?.... cosas así. Con esta encuesta se podrá tener alguna idea de lo que la gente conoce.  Y la rueda vuelve a girar y Alecu pregunta: ¿cómo hacer para que la gente sepa de la existencia de PyAr_?
 
@@ -145,7 +145,7 @@ Se insiste con el tema de que Python puede llegar a muchas más personas que só
 
 Bien, aquí se llegó a otro paréntesis. Un recreo. Lucio estaba que se regresaba a Buenos Aires y los presentes estábamos interesados en saber sobre su experiencia en Europa, como así también la de Alecu. A partir de aquí no se mencionarán nombres, los comentarios pueden ser comprometedores. Orden judicial de por medio, este cronista podría liberar esa información.
 
-Algunos de los comentarios tirados a la mesa fueron más o menos los siguientes: “Las lituanas están bárbaras, buenísimas”, “Buenísimas estéticamente”, “Sos morocho y las minas te remiran”, “vos pasas y ves una rubia bien armada, lindos corpiños... pasa otra también bien formada.... y de pronto pasa otra no tan bien formada...”, “les sonríes y te sonríen....”, “haberlo sabido hace 6 años....”, 
+Algunos de los comentarios tirados a la mesa fueron más o menos los siguientes: “Las lituanas están bárbaras, buenísimas”, “Buenísimas estéticamente”, “Sos morocho y las minas te remiran”, “vos pasas y ves una rubia bien armada, lindos corpiños... pasa otra también bien formada.... y de pronto pasa otra no tan bien formada...”, “les sonríes y te sonríen....”, “haberlo sabido hace 6 años....”,
 
 Sobre EuroPython_ se dijo que no había muchos sponsors, la gente es muy copada y está muy bueno ir. Se conoció a un par de australianos, uno con buena onda y otro con no tanta (quizás por jet lag). No se dirá el nombre de este último, aunque es bastante conocido y más de uno podría llegar a adivinarlo fácilmente por cierto evento internacional próximo a realizarse. Varios de los miembros de EuroPython_ son gente que se reúnen en los mismos sprint o gente de una misma empresa. El evento es para desarrolladores y más que nada es mostrar lo que se está haciendo, presentación de productos, en qué se trabaja. No hay tutoriales. Están todos ahí, Guido y otros. Es un evento interesante para pasear y conocer gente, pero no se formaron charlas informales fuera de hora como en PyCon_. En este último evento, esa experiencia fue impagable.
 
@@ -159,13 +159,13 @@ A todo esto, más gente se había sumado a la reunión:
 
 Gente nueva y volviendo al tema de la difusión, Daniel les pregunta cómo llegaron allí. Alfredo dice que por la jornada ya que no sabía de la existencia de PyAr_. Hacia apenas dos semanas que había comenzado a ver Python.
 
-Entonces se habla sobre el page rank de la web de Python y cómo elevarlo. Se sugieren algunas ideas: linkearlo desde más webs, otro hosting, publicitarla más, meterla en un Planet.... 
+Entonces se habla sobre el page rank de la web de Python y cómo elevarlo. Se sugieren algunas ideas: linkearlo desde más webs, otro hosting, publicitarla más, meterla en un Planet....
 
 Alecu plantea otro tema: ¿cuándo alguien es miembro de PyAr_? ¿Con suscribirse, con participar? Y la repuesta general fue con ponerse la camiseta, sólo suscribirse a la lista.
 
 Luego se habló sobre una charla en donde hubo comparaciones entre diferentes lenguajes, Python entre ellos. Sin embargo, no hubo ninguna mención a PyAr_. Incluso la noticia de esta charla llegó por otro medio que no fue la lista y parece ser que quien la dio era miembro. Entonces se propone que en toda charla que se de, haya al menos un slide donde mencione la existencia del grupo y si en alguna charla se habla de Python y no hay una mención al grupo, si hay algún miembro presente que levante la mano y agregue un comentario al respecto.
 
-Facundo cuenta las experiencias de las reuniones organizadas en Buenos Aires. Estas suelen espantar a la gente que no sabe tanto sobre el lenguaje (si mal no interpreté, se refería a espantadas de ir, no que van les miran las caras y salen despavoridas). Muchos miembros de la lista no asisten pensando que son de alto nivel, que tienen la idea de que “¿qué vamos a hacer ahí con esos grosos?”. Hay un mito alrededor de eso y las reuniones no son así, nada que ver. ¿Qué hacer para desmitificar? Se sugiere dar alguna charla introductoria en el bar, pero también se menciona que el bar no es un buen ámbito para ello. Las stripper distraen (en palabras de Horacio) ;-). 
+Facundo cuenta las experiencias de las reuniones organizadas en Buenos Aires. Estas suelen espantar a la gente que no sabe tanto sobre el lenguaje (si mal no interpreté, se refería a espantadas de ir, no que van les miran las caras y salen despavoridas). Muchos miembros de la lista no asisten pensando que son de alto nivel, que tienen la idea de que “¿qué vamos a hacer ahí con esos grosos?”. Hay un mito alrededor de eso y las reuniones no son así, nada que ver. ¿Qué hacer para desmitificar? Se sugiere dar alguna charla introductoria en el bar, pero también se menciona que el bar no es un buen ámbito para ello. Las stripper distraen (en palabras de Horacio) ;-).
 
 Otra alternativa para atraer gente es ofrecerles comidas. Luego se cierra la puerta y con todos encerrados, se da la charla. Por supuesto, esto fue dicho jocosamente (¿o no?).
 
@@ -177,7 +177,7 @@ Y seguían cayendo...
 
 * Rayentray Tappa
 
-* Pablo Dal Lago 
+* Pablo Dal Lago
 
 * Joaquín Rivera
 
@@ -187,7 +187,7 @@ Y seguían cayendo...
 
 ¿Cómo desmitificar las reuniones? Alguien propuso organizar partidos de fútbol 5 y allí fue cuando Alecu dijo que algunas de las mayores concurrencias fueron cuando se sortearon el remanente de los viajes internacionales. Salta Facundo recordando lo que había para sortear y entonces se interrumpe todo para proceder a ello.
 
-Antes de hacer un sorteo, se decide privilegiar a la gente que había dado alguna charla y así fue como Daniel fue uno de los afortunados en recibir una remera de PyAr_, quien luego se la regaló a Ra y fue entonces cuando todos en la mesa comenzamos a gritar: “piquito” una y otra vez. Ella fue rápida en contestar que no podría besarnos a todos y así zafó. 
+Antes de hacer un sorteo, se decide privilegiar a la gente que había dado alguna charla y así fue como Daniel fue uno de los afortunados en recibir una remera de PyAr_, quien luego se la regaló a Ra y fue entonces cuando todos en la mesa comenzamos a gritar: “piquito” una y otra vez. Ella fue rápida en contestar que no podría besarnos a todos y así zafó.
 
 Facundo hace una exposición de todo lo mangueado en los eventos internacionales: remeras, prendedores de Google, bolsos, licencias VMware y una lapicera multifunción (que gustó bastante). Mientras tanto, Alecu carga los nombres de los presentes para sortear los objetos a la manera de lo realizado en Santa Fe. No teníamos proyector y mucha gente se juntó tras la notebook para observar el código introducido y, con gran expectativa, ver si el nombre que salía era o no el suyo propio.
 
@@ -195,7 +195,7 @@ Y así fue como uno a uno cada premio fue festivamente distribuido. No se tiene 
 
 Lamentablemente, hasta aquí llega el registro de lo actuado por dos razones: una es la ya mencionada, la crisis energética no afecta sólo a la Nación. La otra: mi micro a Santa Fe partía en 30 minutos y debía llegar a la terminal.
 
-Y hasta aquí llegué. 
+Y hasta aquí llegué.
 
 Vermouth con papas fritas y... good show!
 
@@ -218,9 +218,9 @@ A eso de las 5AM, decidimos que ya podíamos desconcentrar y cada uno partió pa
 
 .. _IceTowers: http://www.wunderland.com/icehouse/IceTowers/Rules.html
 
-.. _dave: AlejandroDavidWeil
+.. _dave: /pages/alejandrodavidweil
 
-.. _alecu: AlejandroJCura
+.. _alecu: /pages/alejandrojcura
 
 .. _Plone: http://plone.org
 

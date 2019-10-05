@@ -29,11 +29,11 @@ Pythoncard esta soportado en Etch, así que su instalación es bastante simple
 Windows
 ~~~~~~~
 
-* Bajar e instalar Python desde `www.python.org, Downloads, Windows Installer Python 2.5.2`_. 
+* Bajar e instalar Python desde `www.python.org, Downloads, Windows Installer Python 2.5.2`_.
 
-* Bajar e instalar wxPython desde `wxPython.org, Binaries, win32 unicode`_. 
+* Bajar e instalar wxPython desde `wxPython.org, Binaries, win32 unicode`_.
 
-* Bajar e instalar PythonCard `pythoncard.sourceforge.net, Downloads, PythonCard 0.8.2 win32`_. 
+* Bajar e instalar PythonCard `pythoncard.sourceforge.net, Downloads, PythonCard 0.8.2 win32`_.
 
 Ejemplos
 --------
@@ -46,7 +46,7 @@ Si todo se instaló correctamente, podemos probar los ejemplos que vienen con Py
 
 * **Gráficos**: doodle (mano alzada), spirograph (espirografía), lsystem (fractales Lindenmayer), hopalong (fractales)
 
-* **Demostración del entorno**: proof, dialogs, minimal, minimalStandalone, noresource, pictureViewer, saveClipboardBitmap, simpleBrowser, simpleIEBrowser, samples, widgets 
+* **Demostración del entorno**: proof, dialogs, minimal, minimalStandalone, noresource, pictureViewer, saveClipboardBitmap, simpleBrowser, simpleIEBrowser, samples, widgets
 
 * **Internet**: chat, jabberChat, pysshed, radioclient, SourceForgeTracker_, searchexplorer, stockprice, textRouter, webgrabber, webserver
 
@@ -78,7 +78,7 @@ Editor de Pantallas
 
 PythonCard viene con un editor de pantallas (resource/layout editor), se encuentra en el menu Inicio, PythonCard, Layout Editor (o buscar el script en C:\Python25\Lib\site-packages\PythonCard\tools\resourceEditor\layoutEditor.py o similar para la plataforma en que estemos). Debería aparecer la pantalla de edición (ver imágenes y más información en `sitio de PythonCard <http://pythoncard.sourceforge.net/resource_editor_overview.html>`__):
 
-`pycard1.png </wiki/PythonCard/attachment/32/pycard1.png>`_
+`pycard1.png </images/PythonCard/pycard1.png>`_
 
 Ejemplo de como crear una aplicación de prueba (que tome una expresión/comando python ingresado por el usuario y devuelva su resultado):
 
@@ -86,7 +86,7 @@ Ejemplo de como crear una aplicación de prueba (que tome una expresión/comando
 
 * Seleccionar "Standard Template with File/Exit Menu" (Plantilla estandard con menú File/Exit)
 
-* Ingresar el nombre y ubicación de la aplicación, ej "Prueba" en el escritorio o carpeta personal. 
+* Ingresar el nombre y ubicación de la aplicación, ej "Prueba" en el escritorio o carpeta personal.
 
 * Se Generará los siguientes archivos:
 
@@ -121,7 +121,7 @@ Editor de Código
 
 PythonCard viene tambien con un editor de código, se encuentra en el menú Inicio, PythonCard, Code Editor (o buscar el script en C:\Python25\Lib\site-packages\PythonCard\tools\resourceEditor\codeEditor.py o similar para la plataforma en que estemos). También esta el *Tabbed Code Editor* que nos permite editar múltiples archivos y seleccionar los componentes y sus eventos. Debería aparecer la pantalla de edición de código (ver imágenes y más información en `sitio de PythonCard <http://pythoncard.sourceforge.net/tools/codeEditor.html>`__):
 
-`pycard2.png </wiki/PythonCard/attachment/33/pycard2.png>`_
+`pycard2.png </images/PythonCard/pycard2.png>`_
 
 Continuando con el ejemplo de como crear una aplicación de prueba (ver sección anterior):
 
@@ -171,14 +171,14 @@ Código completo final del ejemplo:
 
 **Nota**: Por ser un ejemplo se obviaron temas de manejo de excepciones y cuestiones avanzadas. Se pueden descargar los archivos terminados:
 
-* 
+*
 
-* 
+*
 
 Pantalla del ejemplo ejecutandose:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`prueba.png </wiki/PythonCard/attachment/30/prueba.png>`_
+`prueba.png </images/PythonCard/prueba.png>`_
 
 .. ############################################################################
 

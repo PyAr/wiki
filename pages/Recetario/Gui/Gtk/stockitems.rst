@@ -2,11 +2,11 @@
 Gtk stock items
 ===============
 
-ejemplo que muestra todos los iconos stock de gtk con su respectivo nombre 
+ejemplo que muestra todos los iconos stock de gtk con su respectivo nombre
 
 un screenshot:
 
-`stock-gtk.png </wiki/Recetario/Gui/Gtk/StockItems/attachment/581/stock-gtk.png>`_
+`stock-gtk.png </images/Recetario/Gui/Gtk/StockItems/stock-gtk.png>`_
 
 ::
 

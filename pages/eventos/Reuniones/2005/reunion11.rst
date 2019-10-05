@@ -17,11 +17,11 @@ También resolvimos participar en CaFeConf 2005 con dos charlas, una de LucioTor
 Fotos
 -----
 
-`Screenshot-11.png </wiki/Eventos/Reuniones/2005/Reunion11/attachment/536/Screenshot-11.png>`_
+`Screenshot-11.png </images/Eventos/Reuniones/2005/Reunion11/Screenshot-11.png>`_
 
-`Screenshot-6.png </wiki/Eventos/Reuniones/2005/Reunion11/attachment/534/Screenshot-6.png>`_
+`Screenshot-6.png </images/Eventos/Reuniones/2005/Reunion11/Screenshot-6.png>`_
 
-`Screenshot-8.png </wiki/Eventos/Reuniones/2005/Reunion11/attachment/535/Screenshot-8.png>`_
+`Screenshot-8.png </images/Eventos/Reuniones/2005/Reunion11/Screenshot-8.png>`_
 
 .. ############################################################################
 

@@ -93,7 +93,7 @@ Coordinadores
 
 * Coordinación de Sponsors (ingresos): Nadia Luczywo
 
-* Coordinación de Ayuda Económica (becas): 
+* Coordinación de Ayuda Económica (becas):
 
 * Coordinación de Invitados Internacionales: Mariano Reingart
 
@@ -101,7 +101,7 @@ Coordinadores
 
 * Coordinación de Fotografía, Audio-Video y Streaming:
 
-* Coordinación de "Asado": 
+* Coordinación de "Asado":
 
 * Coordinación de Materiales (papelería/bolsas/etc.) y "Merchandising": Romina Castrogiovani
 
@@ -287,11 +287,11 @@ Se necesitarían 2 cámaras por aula (una fija para filmar la presentación, otr
 
 .. _Carta de Presentación: https://docs.google.com/document/pub?id=1R2WhSqZqeO3WOpysG7kU2YeA1blOtDWvkKH_ndQqZ5c
 
-.. _Reunión 51: Eventos/Reuniones/2012/Reunion51
+.. _Reunión 51: /pages/eventos/Reuniones/2012/reunion51
 
-.. _Reunión 54: Eventos/Reuniones/2012/Reunion54
+.. _Reunión 54: /pages/eventos/Reuniones/2012/reunion54
 
-.. _Reunión 5x?: Eventos/Reuniones/2012/Reunion5x
+.. _Reunión 5x?: /pages/Eventos/Reuniones/2012/reunion5x
 
 .. _Python Entre Todos: http://revista.python.org.ar/
 

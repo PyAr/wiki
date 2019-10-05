@@ -95,21 +95,21 @@ Para detalles de la inscripción: http://is.gd/8zTTD
 
 .. ############################################################################
 
-.. _Mariano Mara: MarianoMara
+.. _Mariano Mara: /pages/marianomara
 
-.. _Maunuel Muradás: dieresys
+.. _Maunuel Muradás: /pages/dieresys
 
-.. _Joaquín Sorianello: JoaquinSorianello
+.. _Joaquín Sorianello: /pages/joaquinsorianello
 
-.. _Santiago Suarez Ordoñez: SantiagoSuarezO
+.. _Santiago Suarez Ordoñez: /pages/santiagosuarezO
 
-.. _José Luis Dallapiccola: JoseluisDallapiccola
+.. _José Luis Dallapiccola: /pages/joseluisdallapiccola
 
 .. _Humareda: http://www.wordreference.com/definicion/humareda
 
-.. _Lucas Shrewsbury: LucasShrewsbury
+.. _Lucas Shrewsbury: /pages/lucasshrewsbury
 
-.. _Angel Velásquez: AngelVelasquez
+.. _Angel Velásquez: /pages/angelvelasquez
 
 .. _malev: http://blog.malev.com.ar
 

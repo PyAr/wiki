@@ -8,7 +8,7 @@ Versión 0.1 de humitos
 
 :P
 
-`humitos01.png </wiki/RemerasV2/humitos1/attachment/181/humitos01.png>`_
+`humitos01.png </images/RemerasV2/humitos1/humitos01.png>`_
 
 **Diseño**
 

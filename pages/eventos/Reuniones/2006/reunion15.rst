@@ -50,7 +50,7 @@ Temario
 
     Facundo estuvo ausente con aviso porque tenia un casamiento (no de él :P ). Quizas para la próxima.
 
-* http://www.python-santafe.com.ar/ **Python Santa Fe!** 
+* http://www.python-santafe.com.ar/ **Python Santa Fe!**
 
     Python Santa Fe se retrazó para el 3 de junio. Aparentemente todos quieren ir con su novia. Pero para el resto (hasta ahora solo yo), LeitoMonk_ puede llegar a conseguir alojamiento en santa fe. Organizamos en la lista. Algo que surgio es una charla medio sorpresiva que le dieron a LucioTorre_ acerca de "python en el mundo real", La idea es hacer un cuestionario acerca de que herramientas se usan, que problemas surgen, que problemas que surgen con otros lenguajes no surgen en python, y bueno. Cualquier ayuda se acepta 🙂 (en la lista)
 
@@ -66,13 +66,13 @@ Finalizada la reunión quedamos AlejandroDavidWeil_, PabloZiliani_ y yo_ jugando
 
 .. ############################################################################
 
-.. _alecu: AlejandroJCura
+.. _alecu: /pages/alejandrojcura
 
 .. _pyweek: http://www.pyweek.org
 
-.. _STIM: Proyectos/STIM
+.. _STIM: /pages/Proyectos/stim
 
-.. _yo: NubIs
+.. _yo: /pages/nubis
 
 .. _nubis: /pages/nubis
 .. _guillermogonzalez: /pages/guillermogonzalez

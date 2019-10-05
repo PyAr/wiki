@@ -6,7 +6,7 @@ Reloj Digital
 
 **Screenshot:**
 
-`temp.jpg </wiki/RelojDigital/attachment/122/temp.jpg>`_
+`temp.jpg </images/RelojDigital/temp.jpg>`_
 
 ::
 

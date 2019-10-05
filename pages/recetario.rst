@@ -16,12 +16,12 @@ Configuracion del entorno python
 Crear un entorno virtual y un esqueleto de proyecto
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`Creando un nuevo proyecto python <Recetario/CreandoUnNuevoProyectoPython>`_: Receta para crear un entorno de trabajo y un esqueleto minimo para un nuevo proyecto Python
+`Creando un nuevo proyecto python </pages/Recetario/creandounnuevoproyectopython>`_: Receta para crear un entorno de trabajo y un esqueleto minimo para un nuevo proyecto Python
 
 Mejorando el interprete python
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`Autocompletado en consola interactiva <Recetario/AutocomplecionEnConsolaInteractiva>`_: tip sobre como agregar autocompleción con tab en la consola interactiva imitando el comportamiento ipython.
+`Autocompletado en consola interactiva </pages/Recetario/autocomplecionenconsolainteractiva>`_: tip sobre como agregar autocompleción con tab en la consola interactiva imitando el comportamiento ipython.
 
 Estructuras de datos
 --------------------
@@ -53,24 +53,24 @@ Reverse_ : Función que invierte los caracteres.
 validar_cuit
 ~~~~~~~~~~~~
 
-`<ValidarCuit>`_ : Función para validar un CUIT/CUIL estilo 00-00000000-0
+`</pages/Recetario/validarcuit>`_ : Función para validar un CUIT/CUIL estilo 00-00000000-0
 
 digito_verificador_modulo10
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`<CalcularDigitoVerificadorModuloDiez>`_ : Función para generar el dígito verificador módulo 10
+`</pages/Recetario/calculardigitoverificadormodulodiez>`_ : Función para generar el dígito verificador módulo 10
 
 Normalizar caracteres Unicode
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Es bueno `<NormalizarCaracteresUnicode>`_ para hacer búsquedas en strings sin que se tengan en cuenta los caracteres latinos, como los acentos y la eñe.
+Es bueno `</pages/Recetario/normalizarcaracteresunicode>`_ para hacer búsquedas en strings sin que se tengan en cuenta los caracteres latinos, como los acentos y la eñe.
 
 ObtenerSensacionTermica_: Calcular la Sensacion Termica o Temperatura Aparente.
 
 Interceptar los prints
 ~~~~~~~~~~~~~~~~~~~~~~
 
-`<InterceptarPrints>`_ sirve para hacer reemplazos en las strings que se van a imprimir, por ejemplo para agregar un timestamp.
+`</pages/Recetario/interceptarprints>`_ sirve para hacer reemplazos en las strings que se van a imprimir, por ejemplo para agregar un timestamp.
 
 Frameworks Web
 --------------
@@ -149,7 +149,7 @@ Gtk
 
 `/Gui/Gtk/ErrorHandler`_: un ejemplo de capturar una excepción y mostrarla en un dialogo modal
 
-`/Gui/Gtk/ListView`_: un ejemplo de como mostrar elementos en una 
+`/Gui/Gtk/ListView`_: un ejemplo de como mostrar elementos en una
 
 `/Gui/Gtk/EmuladorTerminal`_: un ejemplo de como hacer una terminal visual al estilo gnome-terminal
 
@@ -391,43 +391,18 @@ Divertidos
 
 .. ############################################################################
 
-.. _Recetario/CreandoUnNuevoProyectoPython: /CreandoUnNuevoProyectoPython
+.. _Recetario/CreandoUnNuevoProyectoPython: /pages/Recetario/creandounnuevoproyectopython
 
-.. _Autocompletado en consola interactiva: /AutocomplecionEnConsolaInteractiva
-
-
-
-
-
-
-.. _Hola Mundo: /Bottle/HolaMundo
-
-.. _Mini Galeria de Imagenes: /Bottle/Galeria
+.. _Autocompletado en consola interactiva: /pages/Recetario/autocomplecionenconsolainteractiva
 
 
 
 
 
 
+.. _Hola Mundo: /pages/Recetario/Bottle/holamundo
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.. _Mini Galeria de Imagenes: /pages/Recetario/Bottle/galeria
 
 
 

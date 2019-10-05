@@ -2,7 +2,7 @@
 Typus Pocus - Version final
 ===========================
 
-Un juego hecho (en una semana!) por algunos miembros de PyAr_, el grupo de usuarios de python de Argentina, para participar en `PyWeek 3`_, competencia que **ganó** en la categoría "por equipos". 
+Un juego hecho (en una semana!) por algunos miembros de PyAr_, el grupo de usuarios de python de Argentina, para participar en `PyWeek 3`_, competencia que **ganó** en la categoría "por equipos".
 
 Release 1.0
 -----------
@@ -80,9 +80,9 @@ Comentarios? Dudas? ``alecu EN vortech PUNTO com PUNTO ar``
 
 .. _yaco: http://yaco.net/
 
-.. _nubis: http://python.com.ar/moin/NubIs
+.. _nubis: /pages/nubis
 
-.. _pabloz: http://python.com.ar/moin/PabloZiliani
+.. _pabloz: /pages/pabloziliani
 
 .. _facundo: http://taniquetil.com.ar/plog/
 
