@@ -89,7 +89,7 @@ Eventos
 
 * Comentamos que está faltando algún evento que permita "vender" Python a un nivel más gerencial. O
 
-    sea, mostrar a un nivel genrencial que no es un "juguete". Habría que organizar una charla específica. yaco_ se ofreció a intentar conseguir la UCA como escenario. Si la idea prospera, habría que darle forma a la idea, y empujarla. 
+    sea, mostrar a un nivel genrencial que no es un "juguete". Habría que organizar una charla específica. yaco_ se ofreció a intentar conseguir la UCA como escenario. Si la idea prospera, habría que darle forma a la idea, y empujarla.
 
 Wikipedia off-line
 ~~~~~~~~~~~~~~~~~~
@@ -137,9 +137,9 @@ En Alocado Alocador se pudieron volcar muchas experiencias de Pyweek2, y todos c
 
 .. ############################################################################
 
-.. _alecu: AlejandroJCura
+.. _alecu: /pages/alejandrojcura
 
-.. _yaco: SantiagoPereson
+.. _yaco: /pages/santiagopereson
 
 .. _guillermogonzalez: /pages/guillermogonzalez
 .. _luciotorre: /pages/luciotorre

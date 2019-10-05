@@ -50,7 +50,6 @@ Indice
 .. _adoptaunnewbie: /pages/adoptaunnewbie
 .. _scipyar: /pages/scipyar
 .. _ideasparaprogramar: /pages/ideasparaprogramar
-.. _infraestructura: /pages/infraestructura
-
+.. _infraestructura: /pages/infraestuctura
 
 .. _pyar: /pages/pyar

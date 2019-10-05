@@ -152,16 +152,16 @@ Anteriores
 
 .. ############################################################################
 
-.. _Reunión 20: Eventos/Reuniones/Reunion20
+.. _Reunión 20: /pages/eventos/Reuniones/2006/reunion20
 
-.. _CaFeCONF 2006: Eventos/Conferencias/CaFeConf2006
+.. _CaFeCONF 2006: /pages/eventos/Conferencias/cafeconf2006
 
-.. _Reunión 19: Eventos/Reuniones/Reunion19
+.. _Reunión 19: /pages/eventos/Reuniones/2006/reunion19
 
-.. _resultados de la votación: Bandera/resultados
+.. _resultados de la votación: /pages/Bandera/resultados
 
 .. _ProximaReunion:
-.. _próxima reunión: Eventos/Reuniones/ProximaReunion
+.. _próxima reunión: /pages/eventos/Reuniones/proximareunion
 
 .. _GMANE: http://gmane.org/
 
@@ -207,21 +207,21 @@ Anteriores
 
 .. _como se organizó: http://www.ceportela.com.ar/como-se-hizo-la-i-jornada-python-en-santa-fe
 
-.. _como se vivió: Eventos/Reuniones/Reunion16
+.. _como se vivió: /pages/eventos/Reuniones/2006/reunion16
 
 .. _1ra Jornada de Python Santa Fe: http://www.python-santafe.com.ar/
 
-.. _Wikipedia Offline: Eventos/Sprints/WikipediaOffline1
+.. _Wikipedia Offline: /pages/eventos/Sprints/wikipediaoffline1
 
 .. _resume: http://cvresumewritingservices.org/
 
-.. _lista: ListaDeCorreo
+.. _lista: /pages/listadecorreo
 
 .. _mensaje: http://mail.python.org/pipermail/python-dev/2006-February/060415.html
 
 .. _PyCon 2006: http://us.pycon.org/TX2006/HomePage
 
-.. _aquí: Eventos/Conferencias/PyCon2006
+.. _aquí: /pages/eventos/Conferencias/pycon2006
 
 
 
@@ -257,3 +257,6 @@ Anteriores
 .. _remeras: /pages/remeras
 .. _sugerencias: /pages/sugerencias
 .. _recursos: /pages/recursos
+
+.. _Año 2004: /pages/Noticias/2004
+.. _Año 2005: /pages/Noticias/2005

@@ -34,7 +34,7 @@ Tkinter
 
 * Ventajas:
 
-  * Preinstalado con python en casi todas las plataformas 
+  * Preinstalado con python en casi todas las plataformas
 
   * Relativamente simple y fácil de aprender (recomendado para "aprendices")
 
@@ -83,7 +83,7 @@ WxPython
 
   * No viene preinstalado con python, se debe instalar un paquete (wxPython en Windows y Mac OS,  wxWidgets+wxPython en Linux, aunque en este último caso está generalmente está fácilmente disponible en los repositorios).
 
-  * Relativamente mas complejo de aprender 
+  * Relativamente mas complejo de aprender
 
   * Al tener un desarrollo bastante rápido y sostenido, se liberan versiones frecuentemente, lo que en la práctica le confiere cierto nivel de "volatilidad" y problemas de compatibilidad si se deben mantener varias versiones de wx para el mismo código.
 
@@ -114,7 +114,7 @@ PyQt
 
   * No viene preinstalado con python, se debe instalar por separado
 
-  * Relativamente mas complejo de aprender 
+  * Relativamente mas complejo de aprender
 
   * No del todo "pitónico". En ocasiones emerge la implentación en C++ subyacente, teniendo que hacer casts entre tipos de datos, etc. El prefijo Qt/Q (QtGUI, QWidget, QAplicattion) hace el código menos "pitónico"
 
@@ -137,7 +137,7 @@ PyGTK
 
   * No viene preinstalado con python, se debe instalar por separado
 
-  * Relativamente mas complejo de aprender 
+  * Relativamente mas complejo de aprender
 
   * Relativamente lento en Windows (dibuja cada botón, etiqueta, menú, etc.) lo que le da una Apariecia "extraña" (aunque es parecido a windows)
 
@@ -270,11 +270,11 @@ Referencias
 
 .. ############################################################################
 
-.. _#1: InterfacesGraficas#1
+.. _#1: /pages/interfacesgraficas#1
 
 
 
-.. _#2: InterfacesGraficas#2
+.. _#2: /pages/interfacesgraficas#2
 
 .. _wxFormBuilder: http://wxformbuilder.org
 

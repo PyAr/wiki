@@ -310,6 +310,6 @@ Pablo6
 
 .. _Creative Commons Atribución-NoComercial 2.5 Argentina: http://creativecommons.org/licenses/by-nc/2.5/ar/
 
-.. _reglas del concurso: Bandera
+.. _reglas del concurso: /pages/bandera
 
 

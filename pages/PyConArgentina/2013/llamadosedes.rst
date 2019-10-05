@@ -7,7 +7,7 @@ Bueno como nos comprometimos, lanzamos el kickof para elegir la sede para PyCon_
 Intro: Nuestros Objetivos en base a las lecciones aprendidas:
 -------------------------------------------------------------
 
-* Mejorar la forma de proponer sedes, con propuestas abiertas y discusiones públicas para mejorar la comunicación (feedback) y que toda la comunidad esté enterada y pueda participar, comentar ideas, compartir recursos y opiniones, etc. 
+* Mejorar la forma de proponer sedes, con propuestas abiertas y discusiones públicas para mejorar la comunicación (feedback) y que toda la comunidad esté enterada y pueda participar, comentar ideas, compartir recursos y opiniones, etc.
 
 * Aprovechar el conocimiento adquirido en las conferencias previas (documentos, planillas, software, etc.), a.k.a. no reescribir la rueda, para alivianar el trabajo de los organizadores y poder concentrarse en las cuestiones clave de la conferencia y difusión de python y el software libre.
 
@@ -32,11 +32,11 @@ El que quiera proponer una sede debería crear una página en la wiki de PyAr_, 
 
 * **Propuestas de días y cronograma general** (cantidad de tracks -general, extremo, científico, etc.- y actividades especiales como posters, reuniones de trabajo, talleres, etc.). No olvidar el `Llamado a Propuestas 2012`_ y `Llamado Revisores 2012`_
 
-* **Presupuesto aproximado y financiamiento** (próximamente publicaremos el balance, solicitar acceso las `planillas de trabajo del presupuesto y flujo de fondos de 2012`_ p/estimados de gastos/ingresos de este año-). Ver `Llamado a Sponsors`_. **Importante:** debido a dificultades para recibir fondos desde el exterior, recomendamos no hacer descuentos ni otras facilidades para los auspiciantes extranjeros, y contemplar al menos 4 meses para realizar todos los trámites necesarios y poder recibir el dinero. 
+* **Presupuesto aproximado y financiamiento** (próximamente publicaremos el balance, solicitar acceso las `planillas de trabajo del presupuesto y flujo de fondos de 2012`_ p/estimados de gastos/ingresos de este año-). Ver `Llamado a Sponsors`_. **Importante:** debido a dificultades para recibir fondos desde el exterior, recomendamos no hacer descuentos ni otras facilidades para los auspiciantes extranjeros, y contemplar al menos 4 meses para realizar todos los trámites necesarios y poder recibir el dinero.
 
 * **Temas Accesorios**: impresiones (programas, credenciales, microtutoriales), artículos promocionales (remera, recuerdos, bolsa, etc.), catering (desayunos, almuerzos y coffee breaks) y logística (combis / taxis, si corresponde)
 
-* **Actividades sociales** (recepción, paseos turísticos, asado, fiesta de cierre), si bien no son imprescindibles, pueden ser muy interesantes para los viajeros internacionales y es una excelente oportunidad para conocer gente y hablar sobre proyectos de manera más distendida. Ver `City Tour 2012`_ y 
+* **Actividades sociales** (recepción, paseos turísticos, asado, fiesta de cierre), si bien no son imprescindibles, pueden ser muy interesantes para los viajeros internacionales y es una excelente oportunidad para conocer gente y hablar sobre proyectos de manera más distendida. Ver `City Tour 2012`_ y
 
 * **Plaza hotelera** (oficialmente se debería elegir un hotel standard accesible y también un hotel 5 estrellas para los participantes que así lo requieran). Por experiencia, los hoteles deberían ser céntricos para facilitar la movilidad de los pasajeros, y tener flexibilidad para las reservas/pagos. Ver `Alojamiento 2012`_
 
@@ -76,7 +76,7 @@ Juan B. Cabral
 
 .. ############################################################################
 
-.. _Propuesta PyCon Argentina 2012: LlamadoasedePyconar2012/PyConAr2012BsAs
+.. _Propuesta PyCon Argentina 2012: /pages/LlamadoasedePyconar2012/pyconar2012bsas
 
 .. _inglés: https://docs.google.com/document/d/1IZEXffb90rO8IorTTTkRfgUQVCy_idrxMCCchAh0sSU/edit
 
@@ -92,11 +92,11 @@ Juan B. Cabral
 
 .. _Organizadores 2012: http://ar.pycon.org/2012/conference/staff
 
-.. _Llamado a Voluntarios: PyConArgentina/2012/LlamadoVoluntarios
+.. _Llamado a Voluntarios: /pages/PyConArgentina/2012/llamadovoluntarios
 
-.. _Llamado a Propuestas 2012: PyConArgentina/2012/LlamadoPropuestas
+.. _Llamado a Propuestas 2012: /pages/PyConArgentina/2012/llamadopropuestas
 
-.. _Llamado Revisores 2012: PyConArgentina/2012/LlamadoRevisores
+.. _Llamado Revisores 2012: /pages/PyConArgentina/2012/llamadorevisores
 
 .. _planillas de trabajo del presupuesto y flujo de fondos de 2012: https://docs.google.com/spreadsheet/ccc?key=0Av_UYqYT4LNadHRReDhVS0k1Z2g0cTIzbFRwVFNTV3c#gid=1
 

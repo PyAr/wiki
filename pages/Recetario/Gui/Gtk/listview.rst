@@ -2,7 +2,7 @@
 Gtk ListView
 ------------
 
-`gtklistexample.png </wiki/Recetario/Gui/Gtk/ListView/attachment/583/gtklistexample.png>`_
+`gtklistexample.png </images/Recetario/Gui/Gtk/ListView/gtklistexample.png>`_
 
 ::
 

@@ -158,7 +158,7 @@ Torneo Metegol
 ::
 
                                                                   Clasificados  (dif de gol)
-   +---------------------------------------------------+        
+   +---------------------------------------------------+
    | Alecu - Humitos --> Elsurexiste - Facundo C.      |  5 - 0
    | Alecu - Humitos --> j0hn - Mariano Verdu          |  3 - 5   1° +7  j0hn - Mariano Verdu
    | j0hn - Mariano Verdu --> Elsurexiste - Facundo C. |  5 - 0   2° +3  Alecu - Humitos
@@ -173,7 +173,7 @@ Torneo Metegol
 
 
    +---------------------------------------------------+
-   | Diego M - Lipe --> San - Joac                     |  4 - 5 
+   | Diego M - Lipe --> San - Joac                     |  4 - 5
    | Diego M - Lipe --> nueces - ralsina               |  2 - 5   1° +3  San - Joac A.K.A "is not none"
    | San - Joac --> nueces - ralsina                   |  5 - 3   2° +1  nueces - ralsina
    +---------------------------------------------------+
@@ -183,7 +183,7 @@ Torneo Metegol
 
       Semifinal                               Gran Final                 Campeones
 
-      Pablo M - Facundo B           
+      Pablo M - Facundo B
       Alecu - Humitos                         Alecu - Humitos
                                                                          j0hn - Mariano
       j0hn - Mariano                          j0hn - Mariano
@@ -212,7 +212,7 @@ Los tres primeros de cada zona, más el mejor segundo, pasan a una llave de 4 co
 
 .. _documentacion de lalita: http://www.taniquetil.com.ar/lalita/tutorial_sp.html
 
-.. _Gonzalo Delgado: GonzaloDelgado
+.. _Gonzalo Delgado: /pages/gonzalodelgado
 
 .. _pilas!: http://www.pilas-engine.com.ar/
 

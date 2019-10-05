@@ -22,7 +22,7 @@ Pero hay que animarse a venir a la Conferencia. Y se escucha muchas veces razone
 
 * Etc.
 
-Por lo tanto este año, para ayudar a la gente que está tan cerca de ir a algo tan interesante como un PyCon_ pero que no termina de animarse, proponemos un `Workshop (talleres)`_ para "limar estos detalles". 
+Por lo tanto este año, para ayudar a la gente que está tan cerca de ir a algo tan interesante como un PyCon_ pero que no termina de animarse, proponemos un `Workshop (talleres)`_ para "limar estos detalles".
 
 En PyCon_ US 2012, los talleres tuvieron la forma de un `"Comité de Bienvenida"`_, donde se ayudaba en el bar a los participantes antes de los tutoriales. También se realizan eventos similares alrededor del mundo, por ej el `Boston Python Workshop`_, y algo similar se intentó previo al `PyCamp 2012`_.
 
@@ -41,7 +41,7 @@ Un temario tentativo incluiría:
 
   * Instalar sistemas de control de versiones
 
-  * Instalar extensiones (PyGTK, PyQt_, WxPython_, PIL, NumPy_, etc.)
+  * Instalar extensiones (PyGTK, PyQt_, WxPython_, PIL, NumPy, etc.)
 
   * Instalar frameworks (django, web2py, zope/plone, etc.)
 
@@ -64,12 +64,12 @@ Capital Federal (sucursales de UrbanStation_ a definir), del lunes 12 al Miérco
 
 Sí, si vienen de lejos van a tener algunas noches más de hotel o hostel, pero seguro que lo podemos resolver a nivel comunidad (gente de PyAr_ que tiene un colchón de más en la casa, por ejemplo... y si al otro día también vas a los tutoriales, es un win win). Para más info ver `Alojamiento Compartido`_
 
-Se puede hacer todo durante todo el día (arrancar a las 10hs, terminar a las 20hs), y seguramente brindemos refrigerios, café, etc. 
+Se puede hacer todo durante todo el día (arrancar a las 10hs, terminar a las 20hs), y seguramente brindemos refrigerios, café, etc.
 
 ¿Quienes pueden venir?
 ~~~~~~~~~~~~~~~~~~~~~~
 
-¡Todos!.  Un detalle muy importante: por favor registrense en la página de la conferencia si planean venir al workshop (para ver si juntamos gente interesada, estar en contacto y estimar cuantos seríamos): http://ar.pycon.org/2012 
+¡Todos!.  Un detalle muy importante: por favor registrense en la página de la conferencia si planean venir al workshop (para ver si juntamos gente interesada, estar en contacto y estimar cuantos seríamos): http://ar.pycon.org/2012
 
 Seminario Pre-Pycon
 -------------------
@@ -107,9 +107,9 @@ Si estas interesado en colaborar, por favor anotate en la siguiente lista, indic
 
 .. _Boston Python Workshop: http://bostonpythonworkshop.com/
 
-.. _PyCamp 2012: PyCamp/2012/Workshop
+.. _PyCamp 2012: /pages/PyCamp/2012/workshop
 
-.. _Tutorial del Python: Tutorial
+.. _Tutorial del Python: /pages/tutorial
 
 .. _sitio web de propuestas: http://ar.pycon.org/2012/activity/propose/workshop
 

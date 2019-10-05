@@ -3,7 +3,7 @@
 
 Otra más |smile|
 
-`LauBenech5.png </wiki/RemerasV2/LauBenech5/attachment/172/LauBenech5.png>`_
+`LauBenech5.png </images/RemerasV2/LauBenech5/LauBenech5.png>`_
 
 
 

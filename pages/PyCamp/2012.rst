@@ -25,7 +25,7 @@ Hogar Escuela Verónica
 
 * de la Comunidad de Escuelas Argentino-Alemanas
 
-* ciudad: `Verónica, Bs. As.`_ 
+* ciudad: `Verónica, Bs. As.`_
 
 * dirección: Calle 39, Veronica (mapa_)
 
@@ -125,7 +125,7 @@ Workshop Pre-PyCamp
 .. ############################################################################
 
 
-.. _Cronograma: /Cronograma
+.. _Cronograma: /pages/PyCamp/2012/cronograma
 
 .. _Verónica, Bs. As.: http://en.wikipedia.org/wiki/Ver%C3%B3nica,_Buenos_Aires
 
@@ -141,17 +141,17 @@ Workshop Pre-PyCamp
 
 .. _El otro lado del PyCamp de EugeniaBahit: https://plus.google.com/u/0/photos/104151223595939241834/albums/5767077860795015489
 
-.. _Del Interior: /DelInterior
+.. _Del Interior: /pages/PyCamp/2012/delinterior
 
-.. _Proyectos: /Proyectos
+.. _Proyectos: /pages/PyCamp/2012/proyectos
 
-.. _Interesados: /Interesados
+.. _Interesados: /pages/PyCamp/2012/interesados
 
-.. _Temas propuestos: /TemasPropuestos
+.. _Temas propuestos: /pages/PyCamp/2012/temaspropuestos
 
-.. _Lista de cosas a llevar: /QueLlevar
+.. _Lista de cosas a llevar: /pages/PyCamp/2012/quellevar
 
-.. _Workshop: /Workshop
+.. _Workshop: /pages/PyCamp/2012/workshop
 
 
 

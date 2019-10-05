@@ -7,7 +7,7 @@ Estos son los proyectos encarados *institucionalmente* por PyAr_ en los que pued
 * `GauchitoGil`_
 
   * Administrador de colas de mensajes, con soporte para múltiples protocolos: SMTP (mail), SMPP (SMSs o mensajes cortos) y MM7 (MMSs o mensajes multimedia)
-  
+
 .. _GauchitoGil: http://python.org.ar/pyar/Proyectos/GauchitoGil
 
 * `Caucho`_
@@ -20,7 +20,7 @@ Estos son los proyectos encarados *institucionalmente* por PyAr_ en los que pued
 * `STIM`_
 
   * Juego que presentamos en PyAr_ para la segunda edición de PyWeek
-  
+
 .. _STIM: http://python.org.ar/pyar/Proyectos/STIM
 
 * `AlocadoAlocador`_
@@ -32,7 +32,7 @@ Estos son los proyectos encarados *institucionalmente* por PyAr_ en los que pued
 * `UnManualEnCadaUniversidad`_
 
   * Enviar un manual de Python a cada Universidad Argentina.
-  
+
 .. _UnManualEnCadaUniversidad: http://python.org.ar/pyar/Proyectos/UnManualEnCadaUniversidad
 
 
@@ -90,7 +90,7 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
     * Servicio web de `constatación de comprobantes`_ y `padron de contribuyentes`_
 
-    * Servicio web de trazabilidad_ y `liquidación`_ de granos 
+    * Servicio web de trazabilidad_ y `liquidación`_ de granos
 
     * Servicio web de `operaciones cambiarias`_, depositario fiel (aduanas), etc.
 
@@ -98,9 +98,9 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
     * `Remito Electrónico`_ (ARBA)
 
-    * `Trazabilidad de Medicamentos`_ (ANMAT) 
+    * `Trazabilidad de Medicamentos`_ (ANMAT)
 
-    * `Trazabilidad de Precursores Químicos`_ (SEDRONAR) 
+    * `Trazabilidad de Precursores Químicos`_ (SEDRONAR)
 
   * Prototipo experimental de SIAP Libre: `Prototipo SIAPy`_
 
@@ -114,11 +114,11 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 * PySimpleSOAP_
 
-  * Clases para desarrollar clientes y servidores de servicios web de manera simple y completa, incluyendo soporte para WSDL y manejo de XML. Inspirada extensión SOAP de PHP. Spin-off de `PyAfipWs <../PyAfipWs>`__, incorporado en web2py. Python3 compatible.
+  * Clases para desarrollar clientes y servidores de servicios web de manera simple y completa, incluyendo soporte para WSDL y manejo de XML. Inspirada extensión SOAP de PHP. Spin-off de `PyAfipWs </pages/Proyectos/RevistaPythonComunidad/PET2/pyafipws>`__, incorporado en web2py. Python3 compatible.
 
 * PyFPDF_
 
-  * Clases para generar documentos PDF de manera simple y extensible, incluyendo soporte para imágenes, fuentes unicode (TTF). Inspirada extensión FPDF de PHP. Usado por `PyAfipWs <../PyAfipWs>`__ e incorporado a web2py. Python3 compatible (experimental)
+  * Clases para generar documentos PDF de manera simple y extensible, incluyendo soporte para imágenes, fuentes unicode (TTF). Inspirada extensión FPDF de PHP. Usado por `PyAfipWs </pages/Proyectos/RevistaPythonComunidad/PET2/pyafipws>`__ e incorporado a web2py. Python3 compatible (experimental)
 
 * CDPedia_
 
@@ -242,7 +242,7 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 * PyConference_
 
-  * Sitio desarrollado con Python y Django para crear y gestionar todo lo relacionado con una conferencia, con la posibilidad de tener un sitio de conferencia funcionando y disponible a traves de una url con solo un par de clicks. `PyConference <../PyConference>`__ permite generar y controlar el frontend que veran los usuarios finales del sitio de la conferencia a traves de su dashboard, y ayuda a todo el backend que posee una conferencia permitiendo controlar los gastos, tareas, etc.
+  * Sitio desarrollado con Python y Django para crear y gestionar todo lo relacionado con una conferencia, con la posibilidad de tener un sitio de conferencia funcionando y disponible a traves de una url con solo un par de clicks. `PyConference </page/Proyectos/pyconference>`__ permite generar y controlar el frontend que veran los usuarios finales del sitio de la conferencia a traves de su dashboard, y ayuda a todo el backend que posee una conferencia permitiendo controlar los gastos, tareas, etc.
 
 * Documentor_
 
@@ -258,7 +258,7 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 * WeFree_
 
-  * `WeFree <../WeFree>`__ is a wireless network manager with a collaborative database of passwords for public (but protected) networks.
+  * `WeFree </pages/Proyectos/wefree>`__ is a wireless network manager with a collaborative database of passwords for public (but protected) networks.
 
 * web2conf_
 
@@ -283,34 +283,34 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 * `virtualenvwrapper docs`_
 
   * Traducción al Español de la documentación de "virtualenvwrapper"
-  
+
 * `Pimp my pillow`_
-  
+
   * Pimp My Pillow will leave you with a full working Pillow installation, no more 'decoder * not available' messages! https://github.com/edvm/pimp-my-pillow
-  
+
 * `rst2html5`_
 
   * Herramienta extensible para crear documentos HTML5 como presentaciones o paginas web
 
 * `Pireal`_
-  
+
   * Herramienta educativa para trabajar con Álgebra Relacional.
-  
+
 * `Peicel Graphics`_
-  
-  * Paint Programado en python Tkinter 
-  
+
+  * Paint Programado en python Tkinter
+
 -------------------------
 
 .. ############################################################################
 
 
 
-.. _Python for PalmOS: /PythonPalm
+.. _Python for PalmOS: /pages/Proyectos/pythonpalm
 
 .. _SiGeFi: http://sf.net/projects/sigefi
 
-.. _Gestion Integral para Empresas: /GeInE
+.. _Gestion Integral para Empresas: /pages/Proyectos/geine
 
 
 .. _oveja eléctrica: http://yaco.net/oe/

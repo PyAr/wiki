@@ -1,6 +1,6 @@
 **¡Hola! Esta es la página de donaciones a Python Argentina.** |star2|
 
-Por favor, elegí una de las opciones de abajo, ¡y muchas gracias! 
+Por favor, elegí una de las opciones de abajo, ¡y muchas gracias!
 
 .. class:: alert alert-success
 
@@ -8,7 +8,7 @@ Por favor, elegí una de las opciones de abajo, ¡y muchas gracias!
 
 .. class:: alert alert-warning
 
-   See `English version </Donations>`_ 
+   See `English version </pages/donations>`_
 
 -------------------------
 

@@ -130,17 +130,17 @@ Con muchas ganas, pero sin plata
 
 .. ############################################################################
 
-.. _alecu: AlejandroJCura
+.. _alecu: /pages/alejandrojcura
 
-.. _El rey del Humo: ManuelKaufmann
+.. _El rey del Humo: /pages/manuelkaufmann
 
-.. _Nicolás Miyasato: miya
+.. _Nicolás Miyasato: /pages/miya
 
-.. _Manuel Muradás: dieresys
+.. _Manuel Muradás: /pages/dieresys
 
-.. _Jose Luis Dallapiccola: JoseluisDallapiccola
+.. _Jose Luis Dallapiccola: /pages/joseluisdallapiccola
 
-.. _Roberto Rodríguez: RobertoRodríguez
+.. _Roberto Rodríguez: /pages/robertorodríguez
 
 
 

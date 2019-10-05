@@ -11,7 +11,7 @@ Más allá de la info general, algunos ítems tienen al costado un puntaje *sobr
 Verónica
 --------
 
-**Nombre del lugar:** Hogar Escuela Verónica de la Comunidad de Escuelas Argentino-Alemanas 
+**Nombre del lugar:** Hogar Escuela Verónica de la Comunidad de Escuelas Argentino-Alemanas
 
 **Donde está:** Calle 39, Veronica_.
 
@@ -29,23 +29,23 @@ Verónica
 
 **Qué onda el lugar: 5 pycampitas**
 
-* Muy tranquilo, cero ruidos, mucho verde, "en el medio del campo". 
+* Muy tranquilo, cero ruidos, mucho verde, "en el medio del campo".
 
-* La gente tiene buena onda, y en general no tuvimos ningún problema. 
+* La gente tiene buena onda, y en general no tuvimos ningún problema.
 
 * Se pueden alquilar bicis, y hay mucho para salir a pasear.
 
 **Qué onda las habitaciones: 4 pycampitas**
 
-* Son barracas con camas de dos pisos. 
+* Son barracas con camas de dos pisos.
 
 * También hay cuatro o cinco habitaciones para dos personas, y un par para tres personas (todas con baño privado), que generalmente las usamos para familias que vayan (o personas que deseen una mayor intimidad)
 
 **Qué onda la comida: 4 pycampitas**
 
-* Comida simple, pensada para chicos. 
+* Comida simple, pensada para chicos.
 
-* Existe el opcional de comer asado una noche. 
+* Existe el opcional de comer asado una noche.
 
 * La bebida (agua de la canilla) está incluida.
 
@@ -65,7 +65,7 @@ Verónica
 
 * Es medio complicado llegar si no estás en auto, hay que tomarse más de un micro y en función de los horarios que salgan/lleguen te puede hacer perder tiempo.
 
-**Disponibilidad:** Del 6 al 9 de Julio. 
+**Disponibilidad:** Del 6 al 9 de Julio.
 
 * Hay que confirmar con 50% de la estadía, algo que si lo hacemos durante Abril no creo que haya problema.
 
@@ -260,9 +260,9 @@ Está bien sobre la RN 38.
 Villa Maristas Lujan
 --------------------
 
-**Nombre del lugar:**  VILLA SAN JOSE - LUJÁN 
+**Nombre del lugar:**  VILLA SAN JOSE - LUJÁN
 
-**Donde está:** Champagnat 55, Lujan_. 
+**Donde está:** Champagnat 55, Lujan_.
 
 `[[GoogleMaps(t="h",ll="-34.561018,-59.125628",spn="0.003092,0.00457",z="18")]]`_
 
@@ -274,13 +274,13 @@ Villa Maristas Lujan
 
 * En auto: Para llegar es muy fácil ya que esta a unas cuadras de la entrada principal de Lujan. Desde Capital sera 1 hora de viaje como mucho por acceso Oeste.
 
-* En bondi: Desde Capital llega directo el 57 que se toma en Once o en Palermo. Tambien vienen colectivos desde Pilar, Escobar, Mercedes, Capilla del Señor, etc. La terminal queda a pocas cuadras  del predio y hay varias empresas que vienen desde muchos puntos del país directamente a Lujan. 
+* En bondi: Desde Capital llega directo el 57 que se toma en Once o en Palermo. Tambien vienen colectivos desde Pilar, Escobar, Mercedes, Capilla del Señor, etc. La terminal queda a pocas cuadras  del predio y hay varias empresas que vienen desde muchos puntos del país directamente a Lujan.
 
 **Qué onda el lugar: 5 pycampitas** +++++
 
 * Es un predio de casi 10 Hectáreas, cerrado, con mucho parque y tranquilo. Se Encuentra pegado al colegio Maristas y al Rio Lujan.
 
-* Las instalaciones son amplias y tienen seguridad. 
+* Las instalaciones son amplias y tienen seguridad.
 
 * Nos ofrecen una casa entera para nosotros.`Plano de la Casa`_
 
@@ -296,17 +296,17 @@ Villa Maristas Lujan
 
 * El menú hay que especificarlo con anticipación.
 
-* La bebida está incluida en el servicio y También el Asado. 
+* La bebida está incluida en el servicio y También el Asado.
 
 * No sirven ni permiten bebidas alcohólicas.
 
-* Si mal no recuerdo la casa ademas una cocina para poder calentar agua en cualquier momento. 
+* Si mal no recuerdo la casa ademas una cocina para poder calentar agua en cualquier momento.
 
 **Tres puntos a favor:**
 
 * Es MUY fácil llegar desde cualquier parte y esta a cuadras del centro de lujan por si se necesita algo. Ademas,  Estoy cerca del lugar como para poder ir a ver mas detalles si quieren.
 
-* Podemos hacer uso de la casa con comodidad y la gente es muy amable. 
+* Podemos hacer uso de la casa con comodidad y la gente es muy amable.
 
 * Económico.
 
@@ -318,7 +318,7 @@ Villa Maristas Lujan
 
 * Es en Lujan, a 20 cuadras de mi casa... así que no viajo a conocer otros lugares (Punto en contra Personal).
 
-**Disponibilidad:** Jueves 20, Viernes 21, Sábado 22 y Domingo 23 de Junio de 2013. 
+**Disponibilidad:** Jueves 20, Viernes 21, Sábado 22 y Domingo 23 de Junio de 2013.
 
 **Precio:** $600 por persona Aproximadamente -+100 como mucho.
 
@@ -329,7 +329,7 @@ Villa Maristas Mar del Plata
 
 **Nombre del lugar:**  VILLA MARISTA MAR DEL PLATA
 
-**Donde está:** Marcos Sastre 2787 (esquina Lucio V. Mansilla), `Mar del Plata`_. 
+**Donde está:** Marcos Sastre 2787 (esquina Lucio V. Mansilla), `Mar del Plata`_.
 
 `[[GoogleMaps(t="h",ll="-37.948673,-57.548329",spn="0.002961,0.00457",z="18")]]`_
 
@@ -339,15 +339,15 @@ Villa Maristas Mar del Plata
 
 **Formas de llegar: 4 pycampitas** ++++-
 
-* En auto: Es un lugar muy turístico, por lo cual es facil llegar. 
+* En auto: Es un lugar muy turístico, por lo cual es facil llegar.
 
-* En bondi: Hay empresas que viajan desde muchos lugares a Mar del Plata. Y desde la terminal, un remis o ver que colectivo puede dejarnos cerca del lugar. 
+* En bondi: Hay empresas que viajan desde muchos lugares a Mar del Plata. Y desde la terminal, un remis o ver que colectivo puede dejarnos cerca del lugar.
 
 **Qué onda el lugar: 5 pycampitas** +++++
 
-* Es un lugar muy pero muy grande y hermoso. 
+* Es un lugar muy pero muy grande y hermoso.
 
-* Las instalaciones son amplias y tienen seguridad. 
+* Las instalaciones son amplias y tienen seguridad.
 
 * incluye sabanas, toallas,emergencias medicas, vigilancia nocturna, salones, parrillas, etc.
 
@@ -355,9 +355,9 @@ Villa Maristas Mar del Plata
 
 **Qué onda las habitaciones: 4 pycampitas** ++++-
 
-* Por los comentarios de gente que fue al lugar, me dijo que son habitaciones bastantes cómodas. 
+* Por los comentarios de gente que fue al lugar, me dijo que son habitaciones bastantes cómodas.
 
-* Al igual que la Villa Maristas de Lujan, nos ofrecen una casa entera para nosotros. 
+* Al igual que la Villa Maristas de Lujan, nos ofrecen una casa entera para nosotros.
 
 **Qué onda la comida: 3 pycampitas** +++--
 
@@ -369,27 +369,27 @@ Villa Maristas Mar del Plata
 
 * Esta en Mar del Plata,nos sirve para cambiar un poco el aire y hacer el primer PyCamp_ cerca del Mar.
 
-* seguramente desde cualquier lugar del país hay servicios que te llevan a Mar del Plata. 
+* seguramente desde cualquier lugar del país hay servicios que te llevan a Mar del Plata.
 
 * Es un Lugar Familiar y turístico como para llevar a la familia y que puedan pasear.
 
 **Tres puntos en contra:**
 
-* No sirven ni permiten bebidas alcohólicas. 
+* No sirven ni permiten bebidas alcohólicas.
 
-* No esta disponible las fechas que preguntamos. 
+* No esta disponible las fechas que preguntamos.
 
-* Es un poco mas caro que el anterior. 
+* Es un poco mas caro que el anterior.
 
-**Disponibilidad:** 30 de mayo al 02 de junio o 18 al 21 de julio. 
+**Disponibilidad:** 30 de mayo al 02 de junio o 18 al 21 de julio.
 
-**Precio:** $900xpersona Aproximadamente.($15000 xCasa. Desayuno $ 20. Almuerzo $ 50. Merienda $ 20. Cena $ 50) 
+**Precio:** $900xpersona Aproximadamente.($15000 xCasa. Desayuno $ 20. Almuerzo $ 50. Merienda $ 20. Cena $ 50)
 
-* A 30 personas nos da un total de $500 por personal mas cerca de $500 por las comidas. Pero suponemos que van a ir mas de 30. 
+* A 30 personas nos da un total de $500 por personal mas cerca de $500 por las comidas. Pero suponemos que van a ir mas de 30.
 
 .. ############################################################################
 
-.. _acá: /Votos
+.. _acá: /pages/PyCamp/2013/votos
 
 .. _Veronica: http://es.wikipedia.org/wiki/Ver%C3%B3nica_%28Punta_Indio%29
 

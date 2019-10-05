@@ -8,7 +8,7 @@ para probarlo correlo, entra una direccion que empiece con http://, hace foco en
 
 un ejemplo de su uso (tarea del autor encontrar los cambios |wink|
 
-`webkit.png </wiki/Recetario/Gui/Gtk/WebkitEditor/attachment/585/webkit.png>`_
+`webkit.png </images/Recetario/Gui/Gtk/WebkitEditor/webkit.png>`_
 
 ::
 

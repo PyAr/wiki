@@ -87,7 +87,7 @@ Anteriores
 
 .. _inscribirse: http://www.web2py.com.ar/buenosaires2010/user/register
 
-.. _más info: CharlasAbiertas2010
+.. _más info: /pages/charlasabiertas2010
 
 .. _aquí: http://python.org/download/releases/2.7/
 
@@ -99,6 +99,12 @@ Anteriores
 
 .. _la página del proyecto: http://python.org.ar/pyar/Proyectos/CDPedia
 
+.. _Año 2004: /pages/Noticias/2004
+.. _Año 2005: /pages/Noticias/2005
+.. _Año 2006: /pages/Noticias/2006
+.. _Año 2007: /pages/Noticias/2007
+.. _Año 2008: /pages/Noticias/2008
+.. _Año 2009: /pages/Noticias/2009
 
 
 

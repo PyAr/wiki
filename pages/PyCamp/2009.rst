@@ -169,13 +169,13 @@ Fotos
 
 .. _Hay un mapa: http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=105533268989834891728.0004435f0d040c4a222f5&t=h&z=18
 
-.. _perrito: HoracioDuran
+.. _perrito: /pages/horacioduran
 
-.. _Mariano Mara: MarianoMara
+.. _Mariano Mara: /pages/marianomara
 
-.. _Dave: AlejandroDavidWeil
+.. _Dave: /pages/alejandrodavidweil
 
-.. _Página de fotos: /fotos
+.. _Página de fotos: /pages/PyCamp/2009/fotos
 
 .. _comollegar: /pages/PyCamp/2009/comollegar
 .. _temaspropuestos: /pages/PyCamp/2009/temaspropuestos

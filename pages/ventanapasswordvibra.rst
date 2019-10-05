@@ -6,7 +6,7 @@ Ventana de Password que Vibra
 
 **Screenshot:**
 
-`temp.jpg </wiki/VentanaPasswordVibra/attachment/128/temp.jpg>`_
+`temp.jpg </images/VentanaPasswordVibra/temp.jpg>`_
 
 ::
 
@@ -40,7 +40,7 @@ Ventana de Password que Vibra
             root.deiconify()
             root.geometry()
         var.set("")
-    #        
+    #
     root = Tk()
     root.resizable(0, 0)
     root.title("FBI VPN Client")

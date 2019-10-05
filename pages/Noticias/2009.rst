@@ -1,6 +1,8 @@
-
 2009
 ====
+
+.. role:: strike
+    :class: strike
 
 23/10/2009
 ::::::::::
@@ -15,7 +17,7 @@ El 23/10 a las 18:00 hs habrá una charla de Python a cargo de Héctor "Karucha"
 
 * Título: Juegos educativos con Python
 
-* Descripción: Mostraremos cómo hacer juegos y actividades educativas sencillas, usando Python y la biblioteca PyGame_. Para esto nos basaremos en Falabracman, un juego educativo hecho en 30 horas, y ganador del OLPC Game Jam 2008 en Porto Alegre.
+* Descripción: Mostraremos cómo hacer juegos y actividades educativas sencillas, usando Python y la biblioteca PyGame. Para esto nos basaremos en Falabracman, un juego educativo hecho en 30 horas, y ganador del OLPC Game Jam 2008 en Porto Alegre.
 
 * Destinatarios: Técnicos.
 
@@ -72,9 +74,9 @@ http://www.lugro.org.ar/node/1422
 27/05/2009 - Call For Charlas, PyCon Argentina 2009
 :::::::::::::::::::::::::::::::::::::::::::::::::::
 
-PyAr_, el grupo de usuarios de Python de Argentina invita a toda la comunidad de usuarios de Python y de Software Libre en general a proponer presentaciones y charlas para la Primera Conferencia Argentina de Python http://ar.pycon.org/, a realizarse en Buenos Aires los días 4 y 5 de Septiembre de 2009.  
+PyAr_, el grupo de usuarios de Python de Argentina invita a toda la comunidad de usuarios de Python y de Software Libre en general a proponer presentaciones y charlas para la Primera Conferencia Argentina de Python http://ar.pycon.org/, a realizarse en Buenos Aires los días 4 y 5 de Septiembre de 2009.
 
-En este evento nos juntaremos desarrolladores y programadores tanto principiantes como avanzados; bloggers, autores y diseñadores web; gerentes, administradores y emprendedores; científicos, ingenieros, curiosos y todo aquel que tenga ganas de acercarse a la comunidad Python en Argentina.  
+En este evento nos juntaremos desarrolladores y programadores tanto principiantes como avanzados; bloggers, autores y diseñadores web; gerentes, administradores y emprendedores; científicos, ingenieros, curiosos y todo aquel que tenga ganas de acercarse a la comunidad Python en Argentina.
 
 Agradecemos la contribución de todos en la difusión de este llamado y del evento en si mediante los banners diseñados para tal fin y que se encuentran en http://ar.pycon.org/2009/helping/publicize/
 
@@ -85,7 +87,7 @@ Más info, aquí http://ar.pycon.org/2009/conference/proposals/
 21/04/2009
 ::::::::::
 
-* Terminamos la migración del sitio a USLA_, y a una versión de MoinMoin_ más nueva. ¡Muchas gracias decode_, nuestro hosting anterior, por todos estos años de impecable servicio!
+* Terminamos la migración del sitio a USLA_, y a una versión de MoinMoin más nueva. ¡Muchas gracias decode_, nuestro hosting anterior, por todos estos años de impecable servicio!
 
 13/03/2009
 ::::::::::
@@ -123,7 +125,7 @@ Anteriores
 
 .. _decode: http://www.decode.com.ar/
 
-.. _minuta de la reunión 34 de Pyar: http://www.python.com.ar/moin/Eventos/Reuniones/Reunion34
+.. _minuta de la reunión 34 de Pyar: /pages/eventos/Reuniones/2008/reunion34
 
 .. _contra al canon digital en Argentina: http://noalcanon.org/
 
@@ -131,14 +133,10 @@ Anteriores
 
 .. _Introducción a Python (26/02/2009 de 18.30 a 21.30hs): http://www.clubdeprogramadores.com/cursos/CursoMuestra.php?Id=486
 
-
-
-
-
-
-
-
-.. role:: strike
-   :class: strike
-
 .. _pyar: /pages/pyar
+.. _Año 2004: /pages/Noticias/2004
+.. _Año 2005: /pages/Noticias/2005
+.. _Año 2006: /pages/Noticias/2006
+.. _Año 2007: /pages/Noticias/2007
+.. _Año 2008: /pages/Noticias/2008
+

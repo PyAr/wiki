@@ -11,7 +11,7 @@ Ejemplo sobre como mostrar texto con formato en un gtk.TextView_, se crea una cl
     import pango
 
     class RichBuffer(gtk.TextBuffer):
-        '''a buffer that makes it easy to manipulate a gtk textview with 
+        '''a buffer that makes it easy to manipulate a gtk textview with
         rich text'''
 
         def __init__(self):
@@ -32,7 +32,7 @@ Ejemplo sobre como mostrar texto con formato en un gtk.TextView_, se crea una cl
 
         def put_text(self, text, fg_color=None, bg_color=None, font=None, size=None,
             bold=False, italic=False, underline=False, strike=False):
-            '''insert text at the current position with the style defined by the 
+            '''insert text at the current position with the style defined by the
             optional parameters'''
             tags = self._parse_tags(fg_color, bg_color, font, size, bold, italic,
                 underline, strike)
@@ -40,7 +40,7 @@ Ejemplo sobre como mostrar texto con formato en un gtk.TextView_, se crea una cl
             self._insert(iterator, text, tags)
 
         def _insert(self, iterator, text, tags=None):
-            '''insert text at the current position with the style defined by the 
+            '''insert text at the current position with the style defined by the
             optional parameters'''
             if tags is not None:
                 self.insert_with_tags(iterator, text, *tags)
@@ -49,7 +49,7 @@ Ejemplo sobre como mostrar texto con formato en un gtk.TextView_, se crea una cl
 
         def _parse_tags(self, fg_color=None, bg_color=None, font=None, size=None,
             bold=False, italic=False, underline=False, strike=False):
-            '''parse the parameters and return a list of tags to apply that 
+            '''parse the parameters and return a list of tags to apply that
             format
             '''
             tags = []
@@ -167,7 +167,7 @@ Ejemplo sobre como mostrar texto con formato en un gtk.TextView_, se crea una cl
         test()
 
 
-`GtkRichText.png </wiki/Recetario/Gui/Gtk/RichText/attachment/572/GtkRichText.png>`_
+`GtkRichText.png </images/Recetario/Gui/Gtk/RichText/GtkRichText.png>`_
 
 mas info:
 
