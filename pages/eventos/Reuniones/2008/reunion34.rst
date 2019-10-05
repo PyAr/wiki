@@ -11,14 +11,14 @@ Bienvenidos a todos a la minuta de la reunión número 34 de Pyar! Debajo encont
 
 [Table not converted]
 
- **Los desertores (los que se anotaron y no aparecieron |confused| ):**
+ **Los desertores (los que se anotaron y no aparecieron 😕 ):**
 
 [Table not converted]
 
 ¿Dónde ocurrió el hecho?
 ------------------------
 
-Esta parte de la historia arrancó tristemente, pero tuvo final feliz! |smile|
+Esta parte de la historia arrancó tristemente, pero tuvo final feliz! 🙂
 
 Resulta que nos reunimos en el bar `El Imaginario Cultural`_, Bulnes y Guardia Vieja, Almagro, Ciudad de Buenos Aires, a las 19:00hs aprox. Esperamos en la vereda hasta que la masa de gente leudó, y entonces nos metimos al bar. Ahí surgió una extraña conversación con la mesera, algo tipo:
 
@@ -51,7 +51,7 @@ MarianoReingart_ nos contó sobre el primer PostgresDay_ en Argentina. El mismo 
 
 *"*PyReplica_ *es un replicador asincrónico maestro-esclavo simple para PostgreSQL basado en Python, usando un disparador maestro en plpython, señales, secuencias, y un script cliente en python (influenciado por slony & londiste, pero mucho más simple y fácil)."*
 
-También nos repartió pins! |smile|
+También nos repartió pins! 🙂
 
  **Python y los Servicios Web de** `Factura Electrónica`_ **(AFIP), interfaces con otros lenguajes, SIAP libre... (**PyAfip_**)**
 
@@ -61,7 +61,7 @@ Luego MarianoReingart_ paso a explicar la problemática de las grandes empresas,
 
 Creo muy piola el hecho de poder, mediante esta interfaz, emitir facturas electrónicas desde programas desarrollados en lenguajes viejos.
 
-También se charló sobre el trabajo en conjunto con MarianoMara_ para el desarrollo de SiaPy_, que es un prototipo (multiplataforma |smile| ) de un sistema similar al SIAP_ de la AFIP: un software para generar declaraciones juradas, que sólo corre en Windows |confused| .
+También se charló sobre el trabajo en conjunto con MarianoMara_ para el desarrollo de SiaPy_, que es un prototipo (multiplataforma 🙂 ) de un sistema similar al SIAP_ de la AFIP: un software para generar declaraciones juradas, que sólo corre en Windows 😕 .
 
 Finalmente Mariano mencionó la interesante posibilidad de donar el código fuente de PyAfipWs_ a la comunidad de Pyar y que los ingresos se utilicen en pos de expandir Python el la Argentina. Grande Mariano! Veremos que pasa...
 
@@ -127,7 +127,7 @@ Hacia el final de la reunión, gracias a una donación de SebastianBassi_ y medi
 
  **The End**
 
-Como pudimos; algunos con sus sistemas al 100%, algunos arruinados rippeando Dvds en una XT, otros en piloto automático, pero todos toditos, tuvimos que partir, sip, snif snif |confused| . Después de una noche en donde desfilaron muchas cervezas, acompañadas de muchas pizzas, y donde la amistad le empató al bit, con una gran sonrisa en nuestras caras todos nos dimos un gran abrazo y partimos hacía nuestros bunkers informáticos (que algunos llaman "hogar").
+Como pudimos; algunos con sus sistemas al 100%, algunos arruinados rippeando Dvds en una XT, otros en piloto automático, pero todos toditos, tuvimos que partir, sip, snif snif 😕 . Después de una noche en donde desfilaron muchas cervezas, acompañadas de muchas pizzas, y donde la amistad le empató al bit, con una gran sonrisa en nuestras caras todos nos dimos un gran abrazo y partimos hacía nuestros bunkers informáticos (que algunos llaman "hogar").
 
 Espero que todos la hayan pasado igual de bien que yo asistiendo a la reunión, y que se hayan divertido leyendo la minuta tanto como yo escribiéndola!!
 

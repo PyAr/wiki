@@ -28,13 +28,13 @@ collage de manuq
 
 * elegí las fotos que me parecieron más copadas, tratando de que sean representativas del evento, pero sobretodo las que más servían al collage... no se puede mostrar todo, y a todos, en una tapa
 
-* comparando con la tapa anterior, veo que no dejé lugar para el índice |confused|
+* comparando con la tapa anterior, veo que no dejé lugar para el índice 😕
 
 **tapa de juan(cc)**
 
 http://www.imgs.com.ar/imgs/2/9/b/29b7bcefc7ab3eee01c8e5f5458fefc2ffcfd4a7.html
 
-* MarianoGuerra_: +1 (sacando el hecho de que dice Phython y no Python |wink|
+* MarianoGuerra_: +1 (sacando el hecho de que dice Phython y no Python 😉
 
 * DiegoSarmentero_ +1
 

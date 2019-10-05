@@ -2,7 +2,7 @@
 Pablo Seminario
 ---------------
 
-Usuario de GNU/Linux desde hace unos años y dedicado a Python desde hace unos meses |laughing|
+Usuario de GNU/Linux desde hace unos años y dedicado a Python desde hace unos meses 🤣
 
 Blog
 ----

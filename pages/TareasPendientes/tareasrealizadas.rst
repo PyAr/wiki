@@ -72,7 +72,7 @@ La idea es que esta lista tenga relevancia histórica, es decir, que exprese hit
 
 No todas las TareasPendientes_ merecen pasarse acá cuando se completan. En esa página escribimos **todo**, para no olvidarnos de nada. Acá, volcamos principalmente aquello que en unos meses o años vale la pena ser recordado.
 
-Si dudás sobre si algo tiene o no que estar acá, lo mas probable es que **NO** tenga que estar. |smirk|
+Si dudás sobre si algo tiene o no que estar acá, lo mas probable es que **NO** tenga que estar. 😏
 
 .. ############################################################################
 

@@ -2,7 +2,7 @@
 Reunión 06 - 10/02/2005 - Hip Bar
 =================================
 
-Sin duda la "reunión" más extraña que celebramos... porque no existió |smirk|
+Sin duda la "reunión" más extraña que celebramos... porque no existió 😏
 
 La planificamos, pero nos faltó el anuncio. Ni siquiera lo recordamos en la lista. Ese día diluvió, y encima, resultó que la única persona que se acercó "a ver que onda...", se encontró con el Hip Bar cerrado por reformas.
 

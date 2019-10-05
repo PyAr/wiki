@@ -7,7 +7,7 @@ Estas son propuestas, en el PyCamp_ el primer día se hace una votación para el
 SimpleAI
 ~~~~~~~~
 
-SimpleAI_ es una biblioteca bien ordenada y documentada para hacer inteligencia artificial con python, que implementa cosas del libro "Artificial Intelligence: a Modern Approach" (AIMA). Podríamos implementar algunas cosas que faltan, agregar más ejemplos educativos, o simplemente jugar con ideas locas |smile| Yo no tendría drama en dar una mini-charla introductoria, o hangout antes (fisa)
+SimpleAI_ es una biblioteca bien ordenada y documentada para hacer inteligencia artificial con python, que implementa cosas del libro "Artificial Intelligence: a Modern Approach" (AIMA). Podríamos implementar algunas cosas que faltan, agregar más ejemplos educativos, o simplemente jugar con ideas locas 🙂 Yo no tendría drama en dar una mini-charla introductoria, o hangout antes (fisa)
 
 *Propone: fisa*
 
@@ -329,7 +329,7 @@ Me gustaria cambiar:
 
 * Threading por Multiprocessing para tener procesos realmente en paralelo (esto hay que evaluarlo por que en realidad en la Beagle solo hay un procesador)
 
-* Mejorar el programa con las opiniones de los Guru que estarán presentes |smile|
+* Mejorar el programa con las opiniones de los Guru que estarán presentes 🙂
 
 * Algo más que me estoy olvidando
 

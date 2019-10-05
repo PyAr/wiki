@@ -194,7 +194,7 @@ La aplicación que podríamos tomar de inspiración es "simpledesktop":
 
 **Propuesta:**
 
-La idea es hacer una app que coloque un ícono en el systray del sistema con un temporizador. Esa app podría hablar con un webservice que tenga un grupo grande de fondos de pantalla (¿scrapeados de algún lado?). Ese webservice también lo podríamos crear nosotros, me lo imagino como una API rest |smile|
+La idea es hacer una app que coloque un ícono en el systray del sistema con un temporizador. Esa app podría hablar con un webservice que tenga un grupo grande de fondos de pantalla (¿scrapeados de algún lado?). Ese webservice también lo podríamos crear nosotros, me lo imagino como una API rest 🙂
 
 *Propone:* HugoRuscitti_
 

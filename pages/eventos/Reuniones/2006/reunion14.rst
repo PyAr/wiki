@@ -28,7 +28,7 @@ Reunión 14 - 08/03/2006 - Hip Bar
 
   * Charla general, resultado de la Ligthning Talk de PyAr_, sprints, etc.
 
-      Nos contó FacundoBatista_ que la Ligthning Talk fue bastante bien, (sirvió también para hacer propaganda de las remeras), una de las preguntas más importantes que hizo la audiencia fue acerca de la presencia de Python en las universidades. La cual ahora que AlfonsoPalomares_ se va a Italia, va a ser (al menos casi) ``None``. Estuvimos de acuerdo en que el punto al que hay que entrar con python es la UTN, dando un curso de varias clases. Y también se hablo de dar charlas y subirse al trabajo promocional de las grandes empresas, por ejemplo MartinSarsale_ dijo "Programa mejor en .NET usando IronPython_", también tenemos para organizar charlas mas para *managers*, para que el empuje no sea siempre desde abajo. En cuanto a traer algun exponente de python (GuidoVanRossum_ o AlexMartelli_ por ejemplo) FacundoBatista_ confirmó que el dinero estaria en la PSF justamente para este tipo de cosas, y LeitoMonk_ nos dijo que en cafeconf serían seguramente keynote, lo que le daria cierta presencia al lenguaje. Si bien el keynote debiera ser no muy técnico y mas evangelizador, aparte se podria hacer una charla técnica dentro de la conferencia. La otra posibilidad era USUARIA2006 que al parecer no se va a hacer |confused|
+      Nos contó FacundoBatista_ que la Ligthning Talk fue bastante bien, (sirvió también para hacer propaganda de las remeras), una de las preguntas más importantes que hizo la audiencia fue acerca de la presencia de Python en las universidades. La cual ahora que AlfonsoPalomares_ se va a Italia, va a ser (al menos casi) ``None``. Estuvimos de acuerdo en que el punto al que hay que entrar con python es la UTN, dando un curso de varias clases. Y también se hablo de dar charlas y subirse al trabajo promocional de las grandes empresas, por ejemplo MartinSarsale_ dijo "Programa mejor en .NET usando IronPython_", también tenemos para organizar charlas mas para *managers*, para que el empuje no sea siempre desde abajo. En cuanto a traer algun exponente de python (GuidoVanRossum_ o AlexMartelli_ por ejemplo) FacundoBatista_ confirmó que el dinero estaria en la PSF justamente para este tipo de cosas, y LeitoMonk_ nos dijo que en cafeconf serían seguramente keynote, lo que le daria cierta presencia al lenguaje. Si bien el keynote debiera ser no muy técnico y mas evangelizador, aparte se podria hacer una charla técnica dentro de la conferencia. La otra posibilidad era USUARIA2006 que al parecer no se va a hacer 😕
 
 * |{*}| Planificación primer reunión de PyAr_ fuera de Cap. Fed: Tratar de fijar una fecha y contenido para una posible reunión en Tucumán.
 
@@ -48,7 +48,7 @@ Reunión 14 - 08/03/2006 - Hip Bar
 
 * Si hay tiempo y *quorum*: Charla de FacundoBatista_ sobre Decimal.
 
-    No hubo tiempo, se nos fué el orador |confused|
+    No hubo tiempo, se nos fué el orador 😕
 
 * Comentar acerca de la charla en macstation y las posibilidades de organizar algo similar desde PyAr_.
 

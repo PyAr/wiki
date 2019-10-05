@@ -2,7 +2,7 @@
 El Zen de Python
 ================
 
-*Nuestros principios guía* |smile|
+*Nuestros principios guía* 🙂
 
 ::
 

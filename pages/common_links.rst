@@ -9,7 +9,7 @@
 
 .. _PyDay: /pages/pyday
 
-.. |smile| image:: https://www.webfx.com/tools/emoji-cheat-sheet/graphics/emojis/smile.png
+.. 🙂 image:: https://www.webfx.com/tools/emoji-cheat-sheet/graphics/emojis/smile.png
 
 
 .. _LucioTorre: /pages/luciotorre

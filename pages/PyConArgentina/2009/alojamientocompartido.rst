@@ -21,9 +21,9 @@ Necesitan lugar para alojarse
 
 *  **Peddro Ejemplo2** :strike:`- quiero compartir una habitación de hostel - ``peddro AT ejemplo2 DOT com DOT ar``` 
 
-* **Mariano Guerra** - Coordino con quien quiera para ir al mismo hostel el viernes y posiblemente el sabado - ``luismarianoguerra AT gmail DOT com`` - Si alguien tiene un colchon/sofa por ahi no hago lugar ni ruido |smile|
+* **Mariano Guerra** - Coordino con quien quiera para ir al mismo hostel el viernes y posiblemente el sabado - ``luismarianoguerra AT gmail DOT com`` - Si alguien tiene un colchon/sofa por ahi no hago lugar ni ruido 🙂
 
-* **Manuel Kaufmann (humitos)** - viajaría el jueves a la tarde ya que a la mañana del viernes doy una charla y me quedaría hasta el domingo a la tarde/noche después del asado |smile| - ``humitos AT gmail DOT com``
+* **Manuel Kaufmann (humitos)** - viajaría el jueves a la tarde ya que a la mañana del viernes doy una charla y me quedaría hasta el domingo a la tarde/noche después del asado 🙂 - ``humitos AT gmail DOT com``
 
 
 
