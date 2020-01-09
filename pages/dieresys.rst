@@ -16,7 +16,7 @@ Matches: from:(enri57ar(AT)gmail.com) Do this: Skip Inbox, Delete it
 
 -------------------------
 
- CategoryHomepage_
+ 
 
 .. ############################################################################
 

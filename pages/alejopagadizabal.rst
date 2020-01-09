@@ -8,7 +8,7 @@ Email: ``alejopa AT gmail example DOT com`` You can even more obfuscate your ema
 
 -------------------------
 
- CategoryHomepage_
+ 
 
 .. ############################################################################
 

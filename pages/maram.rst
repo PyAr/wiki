@@ -10,7 +10,7 @@ Cualquier duda preguntar en ``admin EN python PUNTO com PUNTO ar``
 
 
 
-  CategoryHomepage_
+  
 
 .. ############################################################################
 

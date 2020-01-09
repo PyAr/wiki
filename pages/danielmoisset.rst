@@ -82,7 +82,7 @@ Y cuando puedo, trato de `colaborar en la lista de correo`_
 
 -------------------------
 
- CategoryHomepage_
+ 
 
 .. ############################################################################
 

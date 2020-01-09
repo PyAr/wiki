@@ -8,7 +8,7 @@ Email: ``nicoechaniz AT SPAMFREE altermundi DOT net``
 
 -------------------------
 
- CategoryHomepage_
+ 
 
 .. ############################################################################
 

@@ -6,10 +6,3 @@ Email: ``you AT SPAMFREE example DOT com`` You can even more obfuscate your emai
 
 ...
 
--------------------------
-
- CategoryHomepage_
-
-.. ############################################################################
-
-

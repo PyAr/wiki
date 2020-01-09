@@ -24,7 +24,7 @@ P.D. Esta demas decir, tenemos una maquina de cafe expreso...
 
 -------------------------
 
- CategoryHomepage_
+ 
 
 .. ############################################################################
 
