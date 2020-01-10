@@ -225,7 +225,7 @@ Tota Visualizer
 
 Gatox, alecu y manuq hicieron un visualizador para la competencia Tota con el engine Unity.
 
-.. embed:: https://www.youtube.com/watch?v=E-vDVm9ll_w
+.. youtube:: E-vDVm9ll_w
 
 Actividad al aire libre: combate medieval
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

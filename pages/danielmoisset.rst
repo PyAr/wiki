@@ -50,7 +50,7 @@ Además del software en Python que hecho/adaptado para clientes durante mi traba
 
 * El sistema de inscripcion a installfests de GrULiC: https://grulic.org.ar/svn/grulic/branches/django/
 
-* Cocos2D: colaboré en la etapa inicial de diseño (durante el Pycamp 2008), y documentación. 
+* Cocos2D: colaboré en la etapa inicial de diseño (durante el Pycamp 2008), y documentación.
 
 * Y parchecitos/fixes menores en aplicaciones varias (el unico que tengo anotado es ZWiki... seguramente hay mas pero no me acuerdo)
 
@@ -82,7 +82,7 @@ Y cuando puedo, trato de `colaborar en la lista de correo`_
 
 -------------------------
 
- 
+
 
 .. ############################################################################
 
@@ -106,5 +106,4 @@ Y cuando puedo, trato de `colaborar en la lista de correo`_
 
 .. _johnlenton: /pages/johnlenton
 .. _pyar: /pages/pyar
-.. _pyweek: /pages/pyweek
 .. _alejandrojcura: /pages/alejandrojcura
