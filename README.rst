@@ -5,7 +5,8 @@ Este es el repositorio de los contenidos de la Wiki de Python Argentina
 Podés editar los contenidos (incluso agregar páginas) y proponer un pull request, que se
 sincronizará automáticamente con la wiki una vez que sea mezclado.
 
-Antes de clonar el repo, asegurate de tener instalado [Git LFS][https://git-lfs.github.com/]
+Antes de clonar el repo, asegurate de tener instalado "Git LFS_".
+.. _Git LFS: https://git-lfs.github.com/
 
 Como buildear las paginas
 =========================
