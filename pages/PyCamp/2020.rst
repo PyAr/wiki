@@ -63,13 +63,13 @@ Seguramente haremos pycada y/o cerveza artesanal y/o vino local, pero está fuer
 
 **Detalles extras del alojamiento:**
 
-Nos distribuiremos entra casas y el hostel. **Tenemos un cupo limitado de 50 personas**.
+Nos distribuiremos entra casas y el hostel. **Tenemos un cupo limitado de 40 personas**.
 
 * Casa 1: 4 habiatciones con dos camas cada una y baño privado en cada habitación. 8 personas
 
 * Casa 2: 2 habitaciones con 2 camas -1 hab. con 3 camas - un baño común - 7 personas
 
-* Casa 3 y Casa 4 : 2 hab. con 2 camas- 2 hab. con 3 camas - 2 baños - 10 personas c/u 
+* Casa 3: 2 hab. con 2 camas- 2 hab. con 3 camas - 2 baños - 10 personas
 
 * Hostel: 4 hab. con 2 camas - 1 hab. con 3 camas - 1 hab. con 4 camas - 3 baños - 15 personas. 
 
@@ -81,20 +81,20 @@ Dado que debemos reservar la/s casa/s o hostel (dependiendo de cuantas personas 
 
 Esto se abona directamente en el lugar, **no** lo incluyan en el pago de la inscripción.
 
-Tenés tiempo hasta el 15/03/2020 para reservar tu lugar.
+Tenés tiempo hasta el 13/03/2020 para reservar tu lugar.
 
 Precios e Inscripciones
 -----------------------
 
 El precio por los cuatro días (incluye las comidas, alojamiento, usos de las instalaciones, WiFi, etc.) es: 
 
-  **$8.800** final (IVA incluido)
+  **$9.800** final (IVA incluido)
 
 Si sos socie de la Asociación Civil Python Argentina tenés descuento! El precio que aplica es:
 
-  Socies actives: **$7.040** final (IVA incluido)
+  Socies actives: **$7.840** final (IVA incluido)
 
-  Socies adherentes: **$7.920** final (IVA incluido) 
+  Socies adherentes: **$8.820** final (IVA incluido) 
   
 Se puede pagar por transferencia/depósito o por Todo Pago con rapipago/pagofacil/tarjetas/etc (con un 5% extra).
 
@@ -113,14 +113,14 @@ Se puede pagar por transferencia/depósito o por Todo Pago con rapipago/pagofaci
 
 * Por Todo Pago - con tarjetas, rapipago, pagofacil, etc (5% extra):
 
-    No socies ($9240)
-    https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=282968656-a1ea7e8c-dd1c-44d5-9ade-fe5e913eef92
+    No socies ($10.300)
+    https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=282968656-62aa4fb3-17fb-4171-bfeb-953a76092c82
 
-    Socies adherentes ($8316)
-    https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=282968656-058b6e7a-e636-4cc5-9556-c50c5cb350b0
+    Socies adherentes ($9.260)
+    https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=282968656-acf78faf-0406-436d-93ef-3fa2612edaa1
 
-    Socies actives ($7392)
-    https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=282968656-99d534ac-b8e6-4b1d-86c2-d1091ed2a813
+    Socies actives ($8.230)
+    https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=282968656-b29c7b76-1d33-44d3-b537-016c27e60377
 
 
 Luego de pagar tienen que mandar un mail a presidencia@ac.python.org.ar indicando:
