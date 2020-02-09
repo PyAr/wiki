@@ -22,6 +22,6 @@ Con todo este trabajo, y un nuevo "empujón" en el PyCamp_ del 2011, pudimos ter
 
 .. _Jimmy Wales le regaló para el casamiento: http://spanish.martinvarsavsky.net/tecnologaa-e-internet/el-regalo-de-boda-que-nos-hizo-jimmy-wales-lleva-wikipedia-a-las-escuelas-que-no-tienen-acceso-a-internet.html
 
-.. _pyday: /pages/pyday
-.. _pycamp: /pages/pycamp
-.. _pyar: /pages/pyar
+.. _pyday: /pages/pyday/index.html
+.. _pycamp: /pages/pycamp/index.html
+.. _pyar: /pages/pyar/index.html

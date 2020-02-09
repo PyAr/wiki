@@ -135,6 +135,6 @@ Links a fotos
 
 .. _anotense aca: http://spreadsheets.google.com/viewform?formkey=dG1EQzlLSklnVTdqOXlabEZYUXR3SFE6MA
 
-.. _pyar: /pages/pyar
-.. _pycamp: /pages/pycamp
-.. _pycon: /pages/pycon
+.. _pyar: /pages/pyar/index.html
+.. _pycamp: /pages/pycamp/index.html
+.. _pycon: /pages/pycon/index.html

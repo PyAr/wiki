@@ -1056,31 +1056,31 @@ Video Analytics events processing platform
 
 
 
-.. _juanjoconti: /pages/juanjoconti
-.. _diegosarmentero: /pages/diegosarmentero
-.. _marianoreingart: /pages/marianoreingart
-.. _dbapi: /pages/dbapi
-.. _plpython: /pages/plpython
-.. _pythoncard: /pages/pythoncard
-.. _wxpython: /pages/wxpython
-.. _web2py: /pages/web2py
-.. _juanfisanotti: /pages/juanfisanotti
-.. _openoffice: /pages/openoffice
-.. _martingaitan: /pages/martingaitan
-.. _angelfreire: /pages/angelfreire
-.. _juanfisanotti: /pages/juanfisanotti
-.. _nataliabidart: /pages/nataliabidart
-.. _nicoechaniz: /pages/nicoechaniz
-.. _matiasbordese: /pages/matiasbordese
-.. _marcelofernández: /pages/marcelofernandez
-.. _emilianodallaverdemarcozzi: /pages/emilianodallaverdemarcozzi
-.. _manuelquiñones: /pages/manuelquinones
-.. _dropybox: /pages/dropybox
-.. _wifi: /pages/wifi
-.. _manuelkaufmann: /pages/manuelkaufmann
-.. _pyconar: /pages/pyconar
-.. _pablomouzo: /pages/pablomouzo
+.. _juanjoconti: /pages/juanjoconti/index.html
+.. _diegosarmentero: /pages/diegosarmentero/index.html
+.. _marianoreingart: /pages/marianoreingart/index.html
+.. _dbapi: /pages/dbapi/index.html
+.. _plpython: /pages/plpython/index.html
+.. _pythoncard: /pages/pythoncard/index.html
+.. _wxpython: /pages/wxpython/index.html
+.. _web2py: /pages/web2py/index.html
+.. _juanfisanotti: /pages/juanfisanotti/index.html
+.. _openoffice: /pages/openoffice/index.html
+.. _martingaitan: /pages/martingaitan/index.html
+.. _angelfreire: /pages/angelfreire/index.html
+.. _juanfisanotti: /pages/juanfisanotti/index.html
+.. _nataliabidart: /pages/nataliabidart/index.html
+.. _nicoechaniz: /pages/nicoechaniz/index.html
+.. _matiasbordese: /pages/matiasbordese/index.html
+.. _marcelofernández: /pages/marcelofernandez/index.html
+.. _emilianodallaverdemarcozzi: /pages/emilianodallaverdemarcozzi/index.html
+.. _manuelquiñones: /pages/manuelquinones/index.html
+.. _dropybox: /pages/dropybox/index.html
+.. _wifi: /pages/wifi/index.html
+.. _manuelkaufmann: /pages/manuelkaufmann/index.html
+.. _pyconar: /pages/pyconar/index.html
+.. _pablomouzo: /pages/pablomouzo/index.html
 
 
 
-.. _pyar: /pages/pyar
+.. _pyar: /pages/pyar/index.html

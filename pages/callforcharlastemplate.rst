@@ -61,5 +61,5 @@ Para más información : URL.
 
 
 
-.. _pyar: /pages/pyar
-.. _pycon: /pages/pycon
+.. _pyar: /pages/pyar/index.html
+.. _pycon: /pages/pycon/index.html

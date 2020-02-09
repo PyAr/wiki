@@ -39,4 +39,4 @@ Download
 
 .. |http://aycu29.webshots.com/image/19708/2005100131074058179_rs.jpg| image:: http://aycu24.webshots.com/image/17383/2005152557233180044_rs.jpg
 
-.. _categoryproyectos: /pages/categoryproyectos
+.. _categoryproyectos: /pages/categoryproyectos/index.html

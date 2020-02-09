@@ -130,38 +130,38 @@ Con muchas ganas, pero sin plata
 
 .. ############################################################################
 
-.. _alecu: /pages/alejandrojcura
+.. _alecu: /pages/alejandrojcura/index.html
 
-.. _El rey del Humo: /pages/manuelkaufmann
+.. _El rey del Humo: /pages/manuelkaufmann/index.html
 
-.. _Nicolás Miyasato: /pages/miya
+.. _Nicolás Miyasato: /pages/miya/index.html
 
-.. _Manuel Muradás: /pages/dieresys
+.. _Manuel Muradás: /pages/dieresys/index.html
 
-.. _Jose Luis Dallapiccola: /pages/joseluisdallapiccola
+.. _Jose Luis Dallapiccola: /pages/joseluisdallapiccola/index.html
 
-.. _Roberto Rodríguez: /pages/robertorodríguez
+.. _Roberto Rodríguez: /pages/robertorodríguez/index.html
 
 
 
 .. role:: strike
    :class: strike
 
-.. _marcosdione: /pages/marcosdione
-.. _horacioduran: /pages/horacioduran
-.. _nicoechaniz: /pages/nicoechaniz
-.. _ricardokirkner: /pages/ricardokirkner
-.. _anthonylenton: /pages/anthonylenton
-.. _johnlenton: /pages/johnlenton
-.. _hectorsanchez: /pages/hectorsanchez
-.. _marianomara: /pages/marianomara
-.. _ramiromorales: /pages/ramiromorales
-.. _ricardoquesada: /pages/ricardoquesada
-.. _marianoreingart: /pages/marianoreingart
-.. _hugoruscitti: /pages/hugoruscitti
-.. _luciotorre: /pages/luciotorre
-.. _pabloziliani: /pages/pabloziliani
-.. _guillermogonzalez: /pages/guillermogonzalez
-.. _robertoallende: /pages/robertoallende
-.. _sebastianbassi: /pages/sebastianbassi
-.. _nicocesar: /pages/nicocesar
+.. _marcosdione: /pages/marcosdione/index.html
+.. _horacioduran: /pages/horacioduran/index.html
+.. _nicoechaniz: /pages/nicoechaniz/index.html
+.. _ricardokirkner: /pages/ricardokirkner/index.html
+.. _anthonylenton: /pages/anthonylenton/index.html
+.. _johnlenton: /pages/johnlenton/index.html
+.. _hectorsanchez: /pages/hectorsanchez/index.html
+.. _marianomara: /pages/marianomara/index.html
+.. _ramiromorales: /pages/ramiromorales/index.html
+.. _ricardoquesada: /pages/ricardoquesada/index.html
+.. _marianoreingart: /pages/marianoreingart/index.html
+.. _hugoruscitti: /pages/hugoruscitti/index.html
+.. _luciotorre: /pages/luciotorre/index.html
+.. _pabloziliani: /pages/pabloziliani/index.html
+.. _guillermogonzalez: /pages/guillermogonzalez/index.html
+.. _robertoallende: /pages/robertoallende/index.html
+.. _sebastianbassi: /pages/sebastianbassi/index.html
+.. _nicocesar: /pages/nicocesar/index.html

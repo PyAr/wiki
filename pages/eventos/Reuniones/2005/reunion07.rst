@@ -36,4 +36,4 @@ El lugar, el mismo de siempre, se portó bien y mal. Bien porque una vez más no
 
 .. _nuevo enlace: http://www.python.org/ar
 
-.. _pyar: /pages/pyar
+.. _pyar: /pages/pyar/index.html

@@ -29,4 +29,4 @@ Chequea la versión de la Distribución Linux, y actúa en función de eso. Util
 
 .. _platform: http://www.python.org/doc//current/library/platform.html
 
-.. _categoryrecetas: /pages/categoryrecetas
+.. _categoryrecetas: /pages/categoryrecetas/index.html

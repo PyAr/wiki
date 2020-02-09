@@ -39,4 +39,4 @@ Anotate en el siguiente lista para participar del torneo: *el que no se anotó* 
 
 * Pablo Mouzo
 
-.. _juanjoconti: /pages/juanjoconti
+.. _juanjoconti: /pages/juanjoconti/index.html

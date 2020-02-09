@@ -139,10 +139,10 @@ La página VisualBasic_ detalla las similitudes y diferencias entre ambos lengua
 
 
 
-.. _mensajesexcepcionales: /pages/mensajesexcepcionales
-.. _python3mil: /pages/python3mil
-.. _autocomplecionenconsolainteractiva: /pages/Recetario/autocomplecionenconsolainteractiva
-.. _guardarhistorialenconsolainteractiva: /pages/guardarhistorialenconsolainteractiva
-.. _rendimientopythonvsjavavsnet: /pages/rendimientopythonvsjavavsnet
-.. _pythoncard: /pages/pythoncard
-.. _visualbasic: /pages/visualbasic
+.. _mensajesexcepcionales: /pages/mensajesexcepcionales/index.html
+.. _python3mil: /pages/python3mil/index.html
+.. _autocomplecionenconsolainteractiva: /pages/Recetario/autocomplecionenconsolainteractiva/index.html
+.. _guardarhistorialenconsolainteractiva: /pages/guardarhistorialenconsolainteractiva/index.html
+.. _rendimientopythonvsjavavsnet: /pages/rendimientopythonvsjavavsnet/index.html
+.. _pythoncard: /pages/pythoncard/index.html
+.. _visualbasic: /pages/visualbasic/index.html

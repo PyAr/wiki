@@ -75,4 +75,4 @@ Ver también:
 
 .. _LA charla de facu de Unicode: http://tools.assembla.com/svn/homedevel/presents/unicode.odp
 
-.. _categoryrecetas: /pages/categoryrecetas
+.. _categoryrecetas: /pages/categoryrecetas/index.html

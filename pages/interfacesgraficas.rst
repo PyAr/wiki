@@ -270,11 +270,11 @@ Referencias
 
 .. ############################################################################
 
-.. _#1: /pages/interfacesgraficas#1
+.. _#1: /pages/interfacesgraficas#1/index.html
 
 
 
-.. _#2: /pages/interfacesgraficas#2
+.. _#2: /pages/interfacesgraficas#2/index.html
 
 .. _wxFormBuilder: http://wxformbuilder.org
 
@@ -288,6 +288,6 @@ Referencias
 
 
 
-.. _WxPython: /pages/wxpython
+.. _WxPython: /pages/wxpython/index.html
 
-.. _pyar: /pages/pyar
+.. _pyar: /pages/pyar/index.html

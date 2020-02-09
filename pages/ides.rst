@@ -208,5 +208,5 @@ Scribes_ es un editor de textos para GNOME escrito en Python. Entre sus `caracte
 
 .. _demostración: http://scribes.sourceforge.net/demo.htm
 
-.. _pyqt: /pages/CharlasAbiertas2010/pyqt
-.. _pyar: /pages/pyar
+.. _pyqt: /pages/CharlasAbiertas2010/pyqt/index.html
+.. _pyar: /pages/pyar/index.html

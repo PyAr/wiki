@@ -100,4 +100,4 @@ Entorno de desarrollo integrado (IDE) y Migración
 
 .. _vb2py: http://vb2py.sourceforge.net/
 
-.. _pythoncard: /pages/pythoncard
+.. _pythoncard: /pages/pythoncard/index.html

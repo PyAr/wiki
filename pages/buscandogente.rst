@@ -34,4 +34,4 @@ Plantilla
 
 .. _Computational Biology: http://www.ploscompbiol.org
 
-.. _pyar: /pages/pyar
+.. _pyar: /pages/pyar/index.html

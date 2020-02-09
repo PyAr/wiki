@@ -60,5 +60,5 @@ También comenté algo que habíamos charlado en el canal de IRC: contratar a un
 .. _SADIO: http://www.sadio.org.ar/
 
 
-.. _pycon:  /pages/pycon
-.. _pyar: /pages/pyar
+.. _pycon:  /pages/pycon/index.html
+.. _pyar: /pages/pyar/index.html

@@ -30,5 +30,5 @@ SqlAlchemy_ es un excelente orm cual nos permite trabajar con bases de datos rel
 
 
 
-.. _emilianodallaverdemarcozzi: /pages/emilianodallaverdemarcozzi
-.. _categoryvideo: /pages/categoryvideo
+.. _emilianodallaverdemarcozzi: /pages/emilianodallaverdemarcozzi/index.html
+.. _categoryvideo: /pages/categoryvideo/index.html

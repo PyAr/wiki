@@ -22,4 +22,4 @@ Email: ``rover AT SPAMFREE menttes DOT com``
 
 
 
-.. _pycon: /pages/pycon
+.. _pycon: /pages/pycon/index.html

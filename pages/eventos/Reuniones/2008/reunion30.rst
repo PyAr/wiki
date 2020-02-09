@@ -32,15 +32,15 @@ En fin, Facundo organizó entre la muchedumbre el debate de los siguientes ítem
 
 .. ############################################################################
 
-.. _8JRSL: /pages/eventos/Conferencias/8JRSL
+.. _8JRSL: /pages/eventos/Conferencias/8JRSL/index.html
 
 .. _Vídeo con los asistentes a la reunión: http://www.youtube.com/watch?v=H867-yS_lug
 
 .. _PSF: http://www.python.org/psf
 
-.. _Marcelo Fernández: /pages/marcelofernández
+.. _Marcelo Fernández: /pages/marcelofernández/index.html
 
-.. _pyweek: /pages/pyweek
-.. _pyar: /pages/pyar
-.. _pycamp: /pages/pycamp
-.. _pycon: /pages/pycon
+.. _pyweek: /pages/pyweek/index.html
+.. _pyar: /pages/pyar/index.html
+.. _pycamp: /pages/pycamp/index.html
+.. _pycon: /pages/pycon/index.html

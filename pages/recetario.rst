@@ -16,12 +16,12 @@ Configuracion del entorno python
 Crear un entorno virtual y un esqueleto de proyecto
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`Creando un nuevo proyecto python </pages/Recetario/creandounnuevoproyectopython>`_: Receta para crear un entorno de trabajo y un esqueleto minimo para un nuevo proyecto Python
+`Creando un nuevo proyecto python </pages/Recetario/creandounnuevoproyectopython>`_: Receta para crear un entorno de trabajo y un esqueleto minimo para un nuevo proyecto Python/index.html
 
 Mejorando el interprete python
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`Autocompletado en consola interactiva </pages/Recetario/autocomplecionenconsolainteractiva>`_: tip sobre como agregar autocompleción con tab en la consola interactiva imitando el comportamiento ipython.
+`Autocompletado en consola interactiva </pages/Recetario/autocomplecionenconsolainteractiva>`_: tip sobre como agregar autocompleción con tab en la consola interactiva imitando el comportamiento ipython./index.html
 
 Estructuras de datos
 --------------------
@@ -53,24 +53,24 @@ Reverse_ : Función que invierte los caracteres.
 validar_cuit
 ~~~~~~~~~~~~
 
-`</pages/Recetario/validarcuit>`_ : Función para validar un CUIT/CUIL estilo 00-00000000-0
+`</pages/Recetario/validarcuit>`_ : Función para validar un CUIT/CUIL estilo 00-00000000-0/index.html
 
 digito_verificador_modulo10
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`</pages/Recetario/calculardigitoverificadormodulodiez>`_ : Función para generar el dígito verificador módulo 10
+`</pages/Recetario/calculardigitoverificadormodulodiez>`_ : Función para generar el dígito verificador módulo 10/index.html
 
 Normalizar caracteres Unicode
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Es bueno `</pages/Recetario/normalizarcaracteresunicode>`_ para hacer búsquedas en strings sin que se tengan en cuenta los caracteres latinos, como los acentos y la eñe.
+Es bueno `</pages/Recetario/normalizarcaracteresunicode>`_ para hacer búsquedas en strings sin que se tengan en cuenta los caracteres latinos, como los acentos y la eñe./index.html
 
 ObtenerSensacionTermica_: Calcular la Sensacion Termica o Temperatura Aparente.
 
 Interceptar los prints
 ~~~~~~~~~~~~~~~~~~~~~~
 
-`</pages/Recetario/interceptarprints>`_ sirve para hacer reemplazos en las strings que se van a imprimir, por ejemplo para agregar un timestamp.
+`</pages/Recetario/interceptarprints>`_ sirve para hacer reemplazos en las strings que se van a imprimir, por ejemplo para agregar un timestamp./index.html
 
 Frameworks Web
 --------------
@@ -391,46 +391,46 @@ Divertidos
 
 .. ############################################################################
 
-.. _Recetario/CreandoUnNuevoProyectoPython: /pages/Recetario/creandounnuevoproyectopython
+.. _Recetario/CreandoUnNuevoProyectoPython: /pages/Recetario/creandounnuevoproyectopython/index.html
 
-.. _Autocompletado en consola interactiva: /pages/Recetario/autocomplecionenconsolainteractiva
-
-
+.. _Autocompletado en consola interactiva: /pages/Recetario/autocomplecionenconsolainteractiva/index.html
 
 
 
 
-.. _Hola Mundo: /pages/Recetario/Bottle/holamundo
-
-.. _Mini Galeria de Imagenes: /pages/Recetario/Bottle/galeria
 
 
+.. _Hola Mundo: /pages/Recetario/Bottle/holamundo/index.html
+
+.. _Mini Galeria de Imagenes: /pages/Recetario/Bottle/galeria/index.html
 
 
-.. _aletras: /pages/aletras
-.. _reverse: /pages/reverse
-.. _obtenersensaciontermica: /pages/obtenersensaciontermica
-.. _qtmultithread: /pages/qtmultithread
-.. _pythoncard: /pages/pythoncard
-.. _ttkholamundo: /pages/ttkholamundo
-.. _tkwindowicon: /pages/tkwindowicon
-.. _tkbuttonicon: /pages/tkbuttonicon
-.. _tkscrollwhell: /pages/tkscrollwhell
-.. _tkonlineofflineicon: /pages/tkonlineofflineicon
-.. _tkversionprint: /pages/tkversionprint
-.. _gtkontk: /pages/gtkontk
-.. _tkwizards: /pages/tkwizards
-.. _displaylcd7segmentos: /pages/displaylcd7segmentos
-.. _botongraficotk: /pages/botongraficotk
-.. _ventanapasswordvibra: /pages/ventanapasswordvibra
-.. _relojdigital: /pages/relojdigital
-.. _comunicarthreadsconqueue: /pages/comunicarthreadsconqueue
-.. _comolevantarunservidorhttpsimple: /pages/comolevantarunservidorhttpsimple
-.. _comolevantarunservidorhttpmultithread: /pages/comolevantarunservidorhttpmultithread
-.. _xmladiccionario: /pages/xmladiccionario
-.. _simplexmlelement: /pages/simplexmlelement
-.. _localsdeunafuncionquelanzounaexcepcion: /pages/localsdeunafuncionquelanzounaexcepcion
-.. _psycospeedup: /pages/psycospeedup
-.. _mapeandomemoria: /pages/mapeandomemoria
-.. _ippublica: /pages/ippublica
-.. _categoryrecetas: /pages/categoryrecetas
+
+
+.. _aletras: /pages/aletras/index.html
+.. _reverse: /pages/reverse/index.html
+.. _obtenersensaciontermica: /pages/obtenersensaciontermica/index.html
+.. _qtmultithread: /pages/qtmultithread/index.html
+.. _pythoncard: /pages/pythoncard/index.html
+.. _ttkholamundo: /pages/ttkholamundo/index.html
+.. _tkwindowicon: /pages/tkwindowicon/index.html
+.. _tkbuttonicon: /pages/tkbuttonicon/index.html
+.. _tkscrollwhell: /pages/tkscrollwhell/index.html
+.. _tkonlineofflineicon: /pages/tkonlineofflineicon/index.html
+.. _tkversionprint: /pages/tkversionprint/index.html
+.. _gtkontk: /pages/gtkontk/index.html
+.. _tkwizards: /pages/tkwizards/index.html
+.. _displaylcd7segmentos: /pages/displaylcd7segmentos/index.html
+.. _botongraficotk: /pages/botongraficotk/index.html
+.. _ventanapasswordvibra: /pages/ventanapasswordvibra/index.html
+.. _relojdigital: /pages/relojdigital/index.html
+.. _comunicarthreadsconqueue: /pages/comunicarthreadsconqueue/index.html
+.. _comolevantarunservidorhttpsimple: /pages/comolevantarunservidorhttpsimple/index.html
+.. _comolevantarunservidorhttpmultithread: /pages/comolevantarunservidorhttpmultithread/index.html
+.. _xmladiccionario: /pages/xmladiccionario/index.html
+.. _simplexmlelement: /pages/simplexmlelement/index.html
+.. _localsdeunafuncionquelanzounaexcepcion: /pages/localsdeunafuncionquelanzounaexcepcion/index.html
+.. _psycospeedup: /pages/psycospeedup/index.html
+.. _mapeandomemoria: /pages/mapeandomemoria/index.html
+.. _ippublica: /pages/ippublica/index.html
+.. _categoryrecetas: /pages/categoryrecetas/index.html

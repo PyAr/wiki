@@ -14,4 +14,4 @@ wxPython
 
 `[[Video(http://pyar.usla.org.ar/charlasabiertas2010/wxpython.ogg)]]`_
 
-.. _PythonCard: /pages/pythoncard
+.. _PythonCard: /pages/pythoncard/index.html

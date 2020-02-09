@@ -94,23 +94,23 @@ Otras realizaciones:
 
 .. _PyWeek3: http://pyweek.org/3/
 
-.. _Typus Pocus: /pages/juegos/typuspocus
+.. _Typus Pocus: /pages/juegos/typuspocus/index.html
 
 .. _SaturdayNightNinja: http://pyweek.org/e/pycor/
 
 .. _PyDraw: http://media.pyweek.org/static/pygame.draw-0606.html
 
-.. _Alocado Alocador: /pages/Proyectos/alocadoalocador
+.. _Alocado Alocador: /pages/Proyectos/alocadoalocador/index.html
 
 .. _PyWeek2: http://pyweek.org/2/
 
-.. _S.T.I.M.: /pages/Proyectos/stim
+.. _S.T.I.M.: /pages/Proyectos/stim/index.html
 
-.. _Tweety Finger: /pages/Proyectos/tweetyfinger
+.. _Tweety Finger: /pages/Proyectos/tweetyfinger/index.html
 
 .. _Life Fighter: http://code.google.com/p/life-fighter/
 
 .. _PyGame: http://www.pygame.org
 
-.. _pyar: /pages/pyar
-.. _themostbiggestgamestintheworldst: /pages/themostbiggestgamestintheworldst
+.. _pyar: /pages/pyar/index.html
+.. _themostbiggestgamestintheworldst: /pages/themostbiggestgamestintheworldst/index.html

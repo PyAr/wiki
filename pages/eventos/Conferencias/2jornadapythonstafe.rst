@@ -51,5 +51,5 @@ Algunas fotos de la jornada:
 .. _Galería 3: http://picasaweb.google.com/alecura/PythonSantaFe2007
 
 
-.. _manuelkaufmann: /pages/manuelkaufmann
-.. _pyar: /pages/pyar
+.. _manuelkaufmann: /pages/manuelkaufmann/index.html
+.. _pyar: /pages/pyar/index.html

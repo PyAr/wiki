@@ -62,7 +62,7 @@ Algo de historia del proyecto, `aquí`_
 
 .. ############################################################################
 
-.. _0.8: /pages/Proyectos/CDPedia/Prensa/release0.8
+.. _0.8: /pages/Proyectos/CDPedia/Prensa/release0.8/index.html
 
 .. _Opción 1: http://cdpedia.nqnwebs.com/v0.8/cdpedia-0.8-cd.iso
 
@@ -72,13 +72,13 @@ Algo de historia del proyecto, `aquí`_
 
 .. _Bittorrent 2: http://torrentdirecto.comunidadhuayra.org/cdpedia-0.8-cd-comunidad.iso.torrent
 
-.. _esta página: /pages/Proyectos/CDPedia/versionesanteriores
+.. _esta página: /pages/Proyectos/CDPedia/versionesanteriores/index.html
 
 .. _InfraRecorder: http://infrarecorder.org/?page_id=5
 
 .. _ver una guia en video: http://www.youtube.com/watch?v=_5QLoTl9qu8
 
-.. _estas son las instrucciones: /pages/Proyectos/CDPedia/modoservidor
+.. _estas son las instrucciones: /pages/Proyectos/CDPedia/modoservidor/index.html
 
 .. _este sitio: http://launchpad.net/cdpedia
 
@@ -86,9 +86,9 @@ Algo de historia del proyecto, `aquí`_
 
 .. _acá: http://python.org.ar/pyar/Proyectos/CDPedia/Changelogs
 
-.. _Las Noticias relacionadas a CDPedia: /pages/Proyectos/CDPedia/prensa
+.. _Las Noticias relacionadas a CDPedia: /pages/Proyectos/CDPedia/prensa/index.html
 
-.. _aquí: /pages/Proyectos/CDPedia/historia
+.. _aquí: /pages/Proyectos/CDPedia/historia/index.html
 
 
 

@@ -8,15 +8,15 @@ Eventos
 
 En PyAr_ planeamos cuatro tipos de eventos:
 
-* `Reuniones PyAr </pages/eventos/reuniones>`_:
+* `Reuniones PyAr </pages/eventos/reuniones/index.html>`_:
 
 Son las reuniones que hacemos los miembros de PyAr_ para planificar y realizar actividades concernientes a nuestro objetivo. Las reuniones se organizan cuando consideramos que hay un motivo específico que tratar (o juntamos demasiadas ganas de tomar cerveza... ) [1]
 
-* `Sprints </pages/eventos/sprints>`_ [2] :
+* `Sprints </pages/eventos/sprints/index.html>`_ [2] :
 
 Pretendemos realizar sesiones de desarrollo para proyectos que nos llamen la atención, como un evento social y de mejora para el software (libre) argentino.
 
-* `Conferencias </pages/eventos/conferencias>`_
+* `Conferencias </pages/eventos/conferencias/index.html>`_
 
 Participamos en eventos de Software Libre con temas concernientes a Python.
 
@@ -32,11 +32,11 @@ Nos reunimos varios dias para trabajar en distintos proyectos de software libre 
 
 
 
-.. _pycamp: /pages/pycamp
+.. _pycamp: /pages/pycamp/index.html
 
 .. _vieja wiki: http://old.python.org.ar/Eventos
 
-.. _PreguntasFrecuentes#que-es-un-sprint: /pages/preguntasfrecuentes#que-es-un-sprint
+.. _PreguntasFrecuentes#que-es-un-sprint: /pages/preguntasfrecuentes#que-es-un-sprint/index.html
 
 
-.. _pyar: /pages/pyar
+.. _pyar: /pages/pyar/index.html

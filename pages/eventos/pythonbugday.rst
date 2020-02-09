@@ -157,4 +157,4 @@ Existe un Mini-HowTo_ que explica como descargar y compilar Python paso a paso a
 
 .. _Mini-HowTo: http://humitos.homelinux.net/~humitos/pyar/como-colaborar-con-python.pdf
 
-.. _howto: /pages/PyCamp/howto
+.. _howto: /pages/PyCamp/howto/index.html

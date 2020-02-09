@@ -37,4 +37,4 @@ Si tenes requerimiento de informacion que debe contener la invitacion por favor 
 
 
 
-.. _pyday: /pages/pyday
+.. _pyday: /pages/pyday/index.html

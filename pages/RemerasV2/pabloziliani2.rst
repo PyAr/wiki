@@ -33,6 +33,6 @@ Comentarios
 .. role:: small
    :class: small
 
-.. _remerasv2: /pages/remerasv2
-.. _pyar: /pages/pyar
-.. _pabloziliani: /pages/pabloziliani
+.. _remerasv2: /pages/remerasv2/index.html
+.. _pyar: /pages/pyar/index.html
+.. _pabloziliani: /pages/pabloziliani/index.html

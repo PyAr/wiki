@@ -43,8 +43,8 @@ Leonardo y Facundo.
 
  CategoryReuniones_
 
-.. _pyar: /pages/pyar
-.. _marianodraghi: /pages/marianodraghi
-.. _luciotorre: /pages/luciotorre
-.. _pabloziliani: /pages/pabloziliani
-.. _categoryreuniones: /pages/categoryreuniones
+.. _pyar: /pages/pyar/index.html
+.. _marianodraghi: /pages/marianodraghi/index.html
+.. _luciotorre: /pages/luciotorre/index.html
+.. _pabloziliani: /pages/pabloziliani/index.html
+.. _categoryreuniones: /pages/categoryreuniones/index.html

@@ -29,7 +29,7 @@ Una descripción más detallada del proyecto se puede encontrar en el `wiki de C
 
 .. _wiki de Caucho: http://caucho.sourceforge.net/wiki/
 
-.. _luciotorre: /pages/luciotorre
-.. _alejandrodavidweil: /pages/alejandrodavidweil
-.. _nubis: /pages/nubis
-.. _categoryproyectos: /pages/categoryproyectos
+.. _luciotorre: /pages/luciotorre/index.html
+.. _alejandrodavidweil: /pages/alejandrodavidweil/index.html
+.. _nubis: /pages/nubis/index.html
+.. _categoryproyectos: /pages/categoryproyectos/index.html

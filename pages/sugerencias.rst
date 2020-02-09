@@ -31,6 +31,6 @@ Y si estás buscando una dirección de e-mail para comunicarte, permitinos suger
 
 .. _página inicial del tutorial: http://docs.python.org.ar/tutorial/index.html
 
-.. _preguntasfrecuentes: /pages/preguntasfrecuentes
-.. _listadecorreo: /pages/listadecorreo
-.. _inicio: /pages/inicio
+.. _preguntasfrecuentes: /pages/preguntasfrecuentes/index.html
+.. _listadecorreo: /pages/listadecorreo/index.html
+.. _inicio: /pages/inicio/index.html

@@ -358,13 +358,13 @@ Pilas
 
 .. _pyalgotrade: http://gbeced.github.io/pyalgotrade/
 
-.. _diegosarmentero: /pages/diegosarmentero
-.. _pyar: /pages/pyar
-.. _pyday: /pages/pyday
-.. _ramiromorales: /pages/ramiromorales
-.. _luciotorre: /pages/luciotorre
-.. _marianoguerra: /pages/marianoguerra
-.. _hugoruscitti: /pages/hugoruscitti
-.. _eloycolell: /pages/eloycolell
-.. _pycamp: /pages/pycamp
-.. _juanfisanotti: /pages/juanfisanotti
+.. _diegosarmentero: /pages/diegosarmentero/index.html
+.. _pyar: /pages/pyar/index.html
+.. _pyday: /pages/pyday/index.html
+.. _ramiromorales: /pages/ramiromorales/index.html
+.. _luciotorre: /pages/luciotorre/index.html
+.. _marianoguerra: /pages/marianoguerra/index.html
+.. _hugoruscitti: /pages/hugoruscitti/index.html
+.. _eloycolell: /pages/eloycolell/index.html
+.. _pycamp: /pages/pycamp/index.html
+.. _juanfisanotti: /pages/juanfisanotti/index.html

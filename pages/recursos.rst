@@ -300,5 +300,5 @@ Vortech
 .. _Turbogears: http://www.turbogears.org/
 
 
-.. _ricardokirkner: /pages/ricardokirkner
-.. _santiagopereson: /pages/santiagopereson
+.. _ricardokirkner: /pages/ricardokirkner/index.html
+.. _santiagopereson: /pages/santiagopereson/index.html

@@ -73,7 +73,7 @@ Estamos cargando una app con guia del evento (http://Guidebook.com) y necesitamo
 
 .. _sbassi@genesdigitales.com: mailto:sbassi@genesdigitales.com
 
-.. _sebastianbassi: /pages/sebastianbassi
-.. _angelvelasquez: /pages/angelvelasquez
-.. _robertoperdomo: /pages/robertoperdomo
-.. _pycon: /pages/pycon
+.. _sebastianbassi: /pages/sebastianbassi/index.html
+.. _angelvelasquez: /pages/angelvelasquez/index.html
+.. _robertoperdomo: /pages/robertoperdomo/index.html
+.. _pycon: /pages/pycon/index.html

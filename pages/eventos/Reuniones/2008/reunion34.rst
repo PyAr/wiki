@@ -155,15 +155,15 @@ Abrazos para todos!!!!!!!!
 
 .. _SIAP: http://www.afip.gov.ar/genericos/emisorasGarantias/siap_main.asp
 
-.. _última reunión de PyAr en Santa Fé: /pages/eventos/Reuniones/2008/reunion29
+.. _última reunión de PyAr en Santa Fé: /pages/eventos/Reuniones/2008/reunion29/index.html
 
 .. _PyCon: http://www.python.org/community/pycon/
 
 .. _Wiki de PyCon Argentina: http://trac.usla.org.ar/proyectos/pycon-ar/login
 
-.. _pyar: /pages/pyar
-.. _gonzalolarralde: /pages/gonzalolarralde
-.. _marianoreingart: /pages/marianoreingart
-.. _marceloalaniz: /pages/marceloalaniz
-.. _marianomara: /pages/marianomara
-.. _sebastianbassi: /pages/sebastianbassi
+.. _pyar: /pages/pyar/index.html
+.. _gonzalolarralde: /pages/gonzalolarralde/index.html
+.. _marianoreingart: /pages/marianoreingart/index.html
+.. _marceloalaniz: /pages/marceloalaniz/index.html
+.. _marianomara: /pages/marianomara/index.html
+.. _sebastianbassi: /pages/sebastianbassi/index.html

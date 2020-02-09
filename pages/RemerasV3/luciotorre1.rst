@@ -7,4 +7,4 @@ Mi propuesta de remera, robada salvajemente
 
 `remera1.png </images/RemerasV3/LucioTorre1/remera1.png>`_
 
-.. _luciotorre1: /pages/RemerasV3/luciotorre1
+.. _luciotorre1: /pages/RemerasV3/luciotorre1/index.html

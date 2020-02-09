@@ -104,14 +104,14 @@ Este fue el tema de cierre, así que no hubo mucho tiempo para tratarlo. Se resc
 
 .. ############################################################################
 
-.. _alecu: /pages/alejandrojcura
+.. _alecu: /pages/alejandrojcura/index.html
 
-.. _alejandrodavidweil: /pages/alejandrodavidweil
-.. _guillermogonzalez: /pages/guillermogonzalez
-.. _leitomonk: /pages/leitomonk
-.. _luciotorre: /pages/luciotorre
-.. _marianodraghi: /pages/marianodraghi
-.. _pabloziliani: /pages/pabloziliani
-.. _hipbar: /pages/hipbar
-.. _pyar: /pages/pyar
-.. _listadecorreo: /pages/listadecorreo
+.. _alejandrodavidweil: /pages/alejandrodavidweil/index.html
+.. _guillermogonzalez: /pages/guillermogonzalez/index.html
+.. _leitomonk: /pages/leitomonk/index.html
+.. _luciotorre: /pages/luciotorre/index.html
+.. _marianodraghi: /pages/marianodraghi/index.html
+.. _pabloziliani: /pages/pabloziliani/index.html
+.. _hipbar: /pages/hipbar/index.html
+.. _pyar: /pages/pyar/index.html
+.. _listadecorreo: /pages/listadecorreo/index.html

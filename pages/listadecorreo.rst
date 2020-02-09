@@ -146,7 +146,7 @@ La suscripción está desde el 17 de octubre de 2006.
 
 .. _GMANE: http://www.gmane.org/
 
-.. _asociacioncivil: /pages/asociacioncivil
-.. _etiquetapyar: /pages/etiquetapyar
+.. _asociacioncivil: /pages/asociacioncivil/index.html
+.. _etiquetapyar: /pages/etiquetapyar/index.html
 
-.. _pyar: /pages/pyar
+.. _pyar: /pages/pyar/index.html

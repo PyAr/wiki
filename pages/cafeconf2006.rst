@@ -21,4 +21,4 @@ Nota: NubIs_ estaba anotado pero al final no puede.
 
 
 
-.. _nubis: /pages/nubis
+.. _nubis: /pages/nubis/index.html

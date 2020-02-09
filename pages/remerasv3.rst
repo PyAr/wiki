@@ -79,32 +79,32 @@ Plazos
 .. _taller de serigrafía de la agrupación Mazamorra: http://www.agrupacionmazamorra.com.ar/taller-de-serigrafia-30
 
 
-.. _RemerasV3/ManuelArgüelles3: /pages/RemerasV3/manuelargüelles3
+.. _RemerasV3/ManuelArgüelles3: /pages/RemerasV3/manuelargüelles3/index.html
 
 .. _la planilla de votos: https://spreadsheets.google.com/pub?key=0Au9td98rqeZ0dGVmT0M5Q2FaTEg0bnh4ZHVPRDFUZFE&hl=es&single=true&gid=0&output=html
 
-.. _RemerasV3/Pedidos: /pages/RemerasV3/pedidos
+.. _RemerasV3/Pedidos: /pages/RemerasV3/pedidos/index.html
 
 
-.. _RemerasV2/FacundoBatista2: /pages/RemerasV2/facundobatista2
+.. _RemerasV2/FacundoBatista2: /pages/RemerasV2/facundobatista2/index.html
 
-.. _RemerasV2/PabloZiliani1: /pages/RemerasV2/pabloziliani1
+.. _RemerasV2/PabloZiliani1: /pages/RemerasV2/pabloziliani1/index.html
 
 
 .. _RemerasV3/LucioTorre1:
-.. _RemerasV3/LucioTorre2: /pages/RemerasV3/luciotorre1
+.. _RemerasV3/LucioTorre2: /pages/RemerasV3/luciotorre1/index.html
 
-.. _RemerasV3/ManuelArgüelles1: /pages/RemerasV3/manuelargüelles1
+.. _RemerasV3/ManuelArgüelles1: /pages/RemerasV3/manuelargüelles1/index.html
 
-.. _RemerasV3/ManuelArgüelles2: /pages/RemerasV3/manuelargüelles2
+.. _RemerasV3/ManuelArgüelles2: /pages/RemerasV3/manuelargüelles2/index.html
 
-.. _RemerasV3/LeonardoVidarte1: /pages/RemerasV3/leonardovidarte1
+.. _RemerasV3/LeonardoVidarte1: /pages/RemerasV3/leonardovidarte1/index.html
 
-.. _RemerasV3/LeonardoVidarte2: /pages/RemerasV3/leonardovidarte2
+.. _RemerasV3/LeonardoVidarte2: /pages/RemerasV3/leonardovidarte2/index.html
 
-.. _RemerasV3/LeonardoVidarte3: /pages/RemerasV3/leonardovidarte3
+.. _RemerasV3/LeonardoVidarte3: /pages/RemerasV3/leonardovidarte3/index.html
 
-.. _RemerasV3/LeonardoVidarte4: /pages/RemerasV3/leonardovidarte4
+.. _RemerasV3/LeonardoVidarte4: /pages/RemerasV3/leonardovidarte4/index.html
 
 
-.. _pyar: /pages/pyar
+.. _pyar: /pages/pyar/index.html

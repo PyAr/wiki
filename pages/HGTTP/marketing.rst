@@ -41,4 +41,4 @@ Gráficas
 
 * Tratá de conseguir una persona que sepa de RRPP y comunicación para preguntarle que deberian decir los posters y redactar las gacetillas de prensa.
 
-.. _pyar: /pages/pyar
+.. _pyar: /pages/pyar/index.html

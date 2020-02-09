@@ -46,17 +46,17 @@ Reunión 13 - 01/02/2006 - Hip Bar
 
 .. ############################################################################
 
-.. _ActionSprite: /pages/Proyectos/caucho/
+.. _ActionSprite: /pages/Proyectos/caucho//index.html
 
-.. _ReleaseProcedure: /pages/eventos/Reuniones/releaseprocedure
+.. _ReleaseProcedure: /pages/eventos/Reuniones/releaseprocedure/index.html
 
-.. _guillermogonzalez: /pages/guillermogonzalez
-.. _alejandrojcura: /pages/alejandrojcura
-.. _marianodraghi: /pages/marianodraghi
-.. _alejandrodavidweil: /pages/alejandrodavidweil
-.. _pabloziliani: /pages/pabloziliani
-.. _ricardokirkner: /pages/ricardokirkner
-.. _leitomonk: /pages/leitomonk
-.. _nubis: /pages/nubis
-.. _santiagopereson: /pages/santiagopereson
-.. _pyar: /pages/pyar
+.. _guillermogonzalez: /pages/guillermogonzalez/index.html
+.. _alejandrojcura: /pages/alejandrojcura/index.html
+.. _marianodraghi: /pages/marianodraghi/index.html
+.. _alejandrodavidweil: /pages/alejandrodavidweil/index.html
+.. _pabloziliani: /pages/pabloziliani/index.html
+.. _ricardokirkner: /pages/ricardokirkner/index.html
+.. _leitomonk: /pages/leitomonk/index.html
+.. _nubis: /pages/nubis/index.html
+.. _santiagopereson: /pages/santiagopereson/index.html
+.. _pyar: /pages/pyar/index.html

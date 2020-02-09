@@ -43,5 +43,5 @@ Unicode define equivalencias entre caracteres, o secuencias de caracteres, de lo
 
   CategoryRecetas_
 
-.. _unicode: /pages/unicode
-.. _categoryrecetas: /pages/categoryrecetas
+.. _unicode: /pages/unicode/index.html
+.. _categoryrecetas: /pages/categoryrecetas/index.html

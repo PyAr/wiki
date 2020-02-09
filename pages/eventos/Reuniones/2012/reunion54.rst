@@ -169,6 +169,6 @@ La reunión duró 8hs y media
 
 .. _nluczywo@gmail.com: mailto:nluczywo@gmail.com
 
-.. _pyar: /pages/pyar
-.. _pyday: /pages/pyday
-.. _pycon: /pages/pycon
+.. _pyar: /pages/pyar/index.html
+.. _pyday: /pages/pyday/index.html
+.. _pycon: /pages/pycon/index.html

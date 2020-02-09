@@ -35,18 +35,18 @@ Anteriores
 .. ############################################################################
 
 
-.. _Año 2004: /pages/Noticias/2004
+.. _Año 2004: /pages/Noticias/2004/index.html
 
 
-.. _Python para PalmOS: /pages/Proyectos/pythonpalm
+.. _Python para PalmOS: /pages/Proyectos/pythonpalm/index.html
 
-.. _Reunión 7: /pages/eventos/Reuniones/2005/reunion07
+.. _Reunión 7: /pages/eventos/Reuniones/2005/reunion07/index.html
 
-.. _Reunión 8: /pages/eventos/Reuniones/2005/reunion08
+.. _Reunión 8: /pages/eventos/Reuniones/2005/reunion08/index.html
 
-.. _lista de correo: /pages/listadecorreo
+.. _lista de correo: /pages/listadecorreo/index.html
 
 
-.. _nubis: /pages/nubis
-.. _luciotorre: /pages/luciotorre
-.. _pyar: /pages/pyar
+.. _nubis: /pages/nubis/index.html
+.. _luciotorre: /pages/luciotorre/index.html
+.. _pyar: /pages/pyar/index.html

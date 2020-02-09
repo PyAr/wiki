@@ -90,8 +90,8 @@ Claramente ONTOPIC
 
 .. _video gracioso ilustrando la situación: http://www.youtube.com/watch?v=MSUr0tHTwfw
 
-.. _recetario: /pages/recetario
-.. _obteniendorespuestas: /pages/obteniendorespuestas
+.. _recetario: /pages/recetario/index.html
+.. _obteniendorespuestas: /pages/obteniendorespuestas/index.html
 
 
-.. _pyar: /pages/pyar
+.. _pyar: /pages/pyar/index.html

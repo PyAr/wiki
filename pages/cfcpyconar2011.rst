@@ -84,4 +84,4 @@ Debe especificarse una licencia **que permita** que PyAr_ distribuya el material
 
 .. _pyconar2011@gmail.com: mailto:pyconar2011@gmail.com
 
-.. _pyar: /pages/pyar
+.. _pyar: /pages/pyar/index.html

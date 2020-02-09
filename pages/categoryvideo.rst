@@ -10,4 +10,4 @@
 .. ############################################################################
 
 
-.. _categorycategory: /pages/categorycategory
+.. _categorycategory: /pages/categorycategory/index.html

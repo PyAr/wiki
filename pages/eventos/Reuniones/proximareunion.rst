@@ -16,4 +16,4 @@ La última reunión que se hizo fue la 63_.
 
 
 
-.. _listadecorreo: /pages/listadecorreo
+.. _listadecorreo: /pages/listadecorreo/index.html

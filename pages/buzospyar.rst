@@ -47,5 +47,5 @@ A continuación un listado de las personas que se anotaron para comprar uno o va
 .. _acá: http://ubuntuone.com/4ApdQy8DQat4thlT5rvX1u
 
 
-.. _pycamp: /pages/pycamp
-.. _pyar: /pages/pyar
+.. _pycamp: /pages/pycamp/index.html
+.. _pyar: /pages/pyar/index.html

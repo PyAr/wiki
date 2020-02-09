@@ -80,8 +80,8 @@ Si dudás sobre si algo tiene o no que estar acá, lo mas probable es que **NO**
 
 .. _Archivo: http://mx.grulic.org.ar/lurker/list/pyar.html
 
-.. _listadecorreo: /pages/listadecorreo
-.. _pyar: /pages/pyar
-.. _eventos: /pages/eventos
-.. _Reunion01: /pages/eventos/Reuniones/reunion01.rst
-.. _Reunion02: /pages/eventos/Reuniones/reunion02.rst
+.. _listadecorreo: /pages/listadecorreo/index.html
+.. _pyar: /pages/pyar/index.html
+.. _eventos: /pages/eventos/index.html
+.. _Reunion01: /pages/eventos/Reuniones/reunion01.rst/index.html
+.. _Reunion02: /pages/eventos/Reuniones/reunion02.rst/index.html

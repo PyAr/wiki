@@ -71,5 +71,5 @@ Ejemplo de como manipular la api desde multiples threads sin usar locks. Compare
 
 .. ############################################################################
 
-.. _otro ejemplo: /pages/Recetario/Gui/Gtk/gtkmultithread2
+.. _otro ejemplo: /pages/Recetario/Gui/Gtk/gtkmultithread2/index.html
 

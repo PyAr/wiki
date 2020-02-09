@@ -10,7 +10,7 @@ TL;DR:
 Proyectos Tentativos:
 =====================
 
-La `Asociación Civil Python Argentina Civil </pages/asociacioncivil>`_ es una organización sin fines de lucro de programadores
+La `Asociación Civil Python Argentina Civil </pages/asociacioncivil/index.html>`_ es una organización sin fines de lucro de programadores
 con foco en proyectos de la comunidad, principalmente de habla hispana y latinoamericanos:
 
 * **Iniciativas Educativas** (`CDPedia <https://github.com/PyAr/CDPedia>`__: Wikipedia offline, `PyZombis <https://github.com/PyAr/PyZombis>`__: MOOC Español, Tutoriales de Python)
@@ -23,7 +23,7 @@ Este año participaremos en el `"Python Summer of Code" <http://python-gsoc.org/
 **NOTA**: por una cuestión administrativa y disponibilidad de mentores, la disponibilidad de proyectos en el GSoC es acotada.
 Revisar frecuentemente `Página de Ideas <https://github.com/orgs/PyAr/projects>`_
 
-Para ver todos los proyectos de la comunidad Python Argentina: `Listado </pages/proyectos>`__ y `Repositorio <http://www.github.com/PyAr>`__
+Para ver todos los proyectos de la comunidad Python Argentina: `Listado </pages/proyectos/index.html>`__ y `Repositorio <http://www.github.com/PyAr>`__
 
 ¡Tenés una idea interesante para proponer o querés mentorear? ¡Contáctanos en secretaria+gsoc2019@ac.python.org.ar!
 
@@ -211,4 +211,4 @@ Blogs y Referencias sobre el GSoC
 * PSF 2011: http://pyfound.blogspot.com/2011/03/gsoc-student-applications-open.html
 * PSF 2007: http://pyfound.blogspot.com/2007/03/psf-and-googles-summer-of-code.html
 
-.. _marianoreingart: /pages/marianoreingart
+.. _marianoreingart: /pages/marianoreingart/index.html

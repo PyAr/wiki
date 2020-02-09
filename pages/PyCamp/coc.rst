@@ -37,4 +37,4 @@ Información de Contacto
 
 Si eres objeto de acoso, notas que alguien más está siendo acosado, o tienes cualquier otro reclamo, por favor contáctate con uno de los organizadores del evento.
 
-.. _pycamp: /pages/pycamp
+.. _pycamp: /pages/pycamp/index.html

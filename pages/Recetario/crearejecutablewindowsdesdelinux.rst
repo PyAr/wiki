@@ -140,4 +140,4 @@ Como se darán cuenta, todas estas instrucciones de linea de comando se pueden c
 
   CategoryRecetas_
 
-.. _categoryrecetas: /pages/categoryrecetas
+.. _categoryrecetas: /pages/categoryrecetas/index.html

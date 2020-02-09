@@ -47,4 +47,4 @@ si tenes ganas de hacer dist-upgrade o pacman -Syu
 .. role:: strike
    :class: strike
 
-.. _categorypycamp: /pages/categorypycamp
+.. _categorypycamp: /pages/categorypycamp/index.html

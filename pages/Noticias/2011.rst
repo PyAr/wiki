@@ -38,8 +38,8 @@ Nos llega de Brasil una pésima noticia: falleció Dorneles Tremea, presidente d
 
 .. _inscripción web: http://www.pyday.com.ar/catan2011/user/register
 
-.. _acá: /pages/PyCamp/2011/proyectoslaburados
+.. _acá: /pages/PyCamp/2011/proyectoslaburados/index.html
 
-.. _Mas info...: /pages/PyCamp/2011
-.. _pycamp: /pages/pycamp
+.. _Mas info...: /pages/PyCamp/2011/index.html
+.. _pycamp: /pages/pycamp/index.html
 

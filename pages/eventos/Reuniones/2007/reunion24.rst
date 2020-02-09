@@ -66,16 +66,16 @@ Y tratamos algunos otros temas más, que no fueron anotados detallados en los ma
 
 .. ############################################################################
 
-.. _dave: /pages/alejandrodavidweil
+.. _dave: /pages/alejandrodavidweil/index.html
 
-.. _alecu: /pages/alejandrojcura
+.. _alecu: /pages/alejandrojcura/index.html
 
-.. _leitomonk: /pages/leitomonk
-.. _luciotorre: /pages/luciotorre
-.. _ricardoquesada: /pages/ricardoquesada
-.. _marianodraghi: /pages/marianodraghi
-.. _robertorodriguez: /pages/robertorodriguez
-.. _guillermogonzalez: /pages/guillermogonzalez
-.. _pabloziliani: /pages/pabloziliani
-.. _pyweek: /pages/pyweek
-.. _pyar: /pages/pyar
+.. _leitomonk: /pages/leitomonk/index.html
+.. _luciotorre: /pages/luciotorre/index.html
+.. _ricardoquesada: /pages/ricardoquesada/index.html
+.. _marianodraghi: /pages/marianodraghi/index.html
+.. _robertorodriguez: /pages/robertorodriguez/index.html
+.. _guillermogonzalez: /pages/guillermogonzalez/index.html
+.. _pabloziliani: /pages/pabloziliani/index.html
+.. _pyweek: /pages/pyweek/index.html
+.. _pyar: /pages/pyar/index.html

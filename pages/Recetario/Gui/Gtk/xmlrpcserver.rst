@@ -51,5 +51,5 @@ Servidor XMLRPC dentro de un hilo gtk
 
   CategoryRecetas_
 
-.. _dialog: /pages/Recetario/Gui/Gtk/dialog
-.. _categoryrecetas: /pages/categoryrecetas
+.. _dialog: /pages/Recetario/Gui/Gtk/dialog/index.html
+.. _categoryrecetas: /pages/categoryrecetas/index.html

@@ -76,7 +76,7 @@ Juan B. Cabral
 
 .. ############################################################################
 
-.. _Propuesta PyCon Argentina 2012: /pages/LlamadoasedePyconar2012/pyconar2012bsas
+.. _Propuesta PyCon Argentina 2012: /pages/LlamadoasedePyconar2012/pyconar2012bsas/index.html
 
 .. _inglés: https://docs.google.com/document/d/1IZEXffb90rO8IorTTTkRfgUQVCy_idrxMCCchAh0sSU/edit
 
@@ -92,11 +92,11 @@ Juan B. Cabral
 
 .. _Organizadores 2012: http://ar.pycon.org/2012/conference/staff
 
-.. _Llamado a Voluntarios: /pages/PyConArgentina/2012/llamadovoluntarios
+.. _Llamado a Voluntarios: /pages/PyConArgentina/2012/llamadovoluntarios/index.html
 
-.. _Llamado a Propuestas 2012: /pages/PyConArgentina/2012/llamadopropuestas
+.. _Llamado a Propuestas 2012: /pages/PyConArgentina/2012/llamadopropuestas/index.html
 
-.. _Llamado Revisores 2012: /pages/PyConArgentina/2012/llamadorevisores
+.. _Llamado Revisores 2012: /pages/PyConArgentina/2012/llamadorevisores/index.html
 
 .. _planillas de trabajo del presupuesto y flujo de fondos de 2012: https://docs.google.com/spreadsheet/ccc?key=0Av_UYqYT4LNadHRReDhVS0k1Z2g0cTIzbFRwVFNTV3c#gid=1
 
@@ -124,7 +124,7 @@ Juan B. Cabral
 
 .. _Jornada de PostgreSQL: http://www.pgday.com.ar/buenosaires2012
 
-.. _pyar: /pages/pyar
-.. _marianoreingart: /pages/marianoreingart
-.. _pycamp: /pages/pycamp
-.. _pycon: /pages/pycon
+.. _pyar: /pages/pyar/index.html
+.. _marianoreingart: /pages/marianoreingart/index.html
+.. _pycamp: /pages/pycamp/index.html
+.. _pycon: /pages/pycon/index.html

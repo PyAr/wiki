@@ -53,4 +53,4 @@ Que más?
 
 * server de svn y bazaar
 
-.. _juanjoconti: /pages/juanjoconti
+.. _juanjoconti: /pages/juanjoconti/index.html

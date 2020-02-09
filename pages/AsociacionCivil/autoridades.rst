@@ -83,5 +83,5 @@ Las listas de correo de la Comisión Directiva posiblemente tenga pocos mensajes
 
 .. _`Python Software Foundation: Duties and Responsibilities of Directors`: https://wiki.python.org/moin/PythonSoftwareFoundation/DutiesAndResponsibilitiesOfDirectors
 
-.. _pyday: /pages/pyday
-.. _pycon: /pages/pycon
+.. _pyday: /pages/pyday/index.html
+.. _pycon: /pages/pycon/index.html

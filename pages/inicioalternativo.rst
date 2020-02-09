@@ -80,13 +80,13 @@ Contenido
 
 
 
-.. _pyar: /pages/pyar
-.. _eventos: /pages/eventos
-.. _listadecorreo: /pages/listadecorreo
-.. _recursos: /pages/recursos
-.. _charlas: /pages/charlas
-.. _aprendiendopython: /pages/aprendiendopython
-.. _preguntasfrecuentes: /pages/preguntasfrecuentes
-.. _recetario: /pages/recetario
-.. _material: /pages/material
-.. _trabajos: /pages/trabajos
+.. _pyar: /pages/pyar/index.html
+.. _eventos: /pages/eventos/index.html
+.. _listadecorreo: /pages/listadecorreo/index.html
+.. _recursos: /pages/recursos/index.html
+.. _charlas: /pages/charlas/index.html
+.. _aprendiendopython: /pages/aprendiendopython/index.html
+.. _preguntasfrecuentes: /pages/preguntasfrecuentes/index.html
+.. _recetario: /pages/recetario/index.html
+.. _material: /pages/material/index.html
+.. _trabajos: /pages/trabajos/index.html

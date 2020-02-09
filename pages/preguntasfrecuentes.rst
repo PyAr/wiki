@@ -37,7 +37,7 @@ Hoy, mientras la cantidad de miembros del grupo lo permite, tenemos una organiza
 ¿Cómo participar?
 ~~~~~~~~~~~~~~~~~
 
-Suscribiéndote a la ListaDeCorreo_, registrándote en el portal, asistiendo a cualquiera de nuetros Eventos_, aportando ideas. También tenemos un canal de IRC. El servidor es ``irc.freenode.net``, y el nombre del canal es ``#pyar``. Podés ingresar vía Web `aquí`_ o `aquí </pages/irc>`__. Si querés colaborar aportando contenido al Wiki, o ayudando en su mantenimiento, también es posible. Por favor, leé ContribuyendoAlWiki_.
+Suscribiéndote a la ListaDeCorreo_, registrándote en el portal, asistiendo a cualquiera de nuetros Eventos_, aportando ideas. También tenemos un canal de IRC. El servidor es ``irc.freenode.net``, y el nombre del canal es ``#pyar``. Podés ingresar vía Web `aquí`_ o `aquí </pages/irc>`__. Si querés colaborar aportando contenido al Wiki, o ayudando en su mantenimiento, también es posible. Por favor, leé ContribuyendoAlWiki_./index.html
 
 ¿Cómo se organiza una reunión?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -476,7 +476,7 @@ Pero ojo, que esto sucede con versiones pasadas y actuales de CPython. Es un det
 
 .. _SEO: http://es.wikipedia.org/wiki/Posicionamiento_en_buscadores
 
-.. _aquí: /pages/irc
+.. _aquí: /pages/irc/index.html
 
 .. _Portland Pattern Repository's Wiki: http://c2.com/cgi/wiki?PythonSprint
 
@@ -558,25 +558,25 @@ Pero ojo, que esto sucede con versiones pasadas y actuales de CPython. Es un det
 .. role:: underline
    :class: underline
 
-.. _pyar: /pages/pyar
-.. _eventos: /pages/eventos
-.. _contribuyendoalwiki: /pages/contribuyendoalwiki
-.. _aprendiendopython: /pages/aprendiendopython
-.. _recetario: /pages/recetario
-.. _miniejemplos: /pages/miniejemplos
-.. _pythonzen: /pages/pythonzen
-.. _mensajesexcepcionales: /pages/mensajesexcepcionales
-.. _python3mil: /pages/python3mil
-.. _autocomplecionenconsolainteractiva: /pages/Recetario/autocomplecionenconsolainteractiva
-.. _guardarhistorialenconsolainteractiva: /pages/guardarhistorialenconsolainteractiva
-.. _dbapi: /pages/dbapi
-.. _plpython: /pages/plpython
-.. _interfacesgraficas: /pages/interfacesgraficas
-.. _wsgi: /pages/wsgi
-.. _cherrypy: /pages/cherrypy
-.. _rendimientopythonvsjavavsnet: /pages/rendimientopythonvsjavavsnet
-.. _pythoncard: /pages/pythoncard
-.. _visualbasic: /pages/visualbasic
-.. _marianoguerra: /pages/marianoguerra
-.. _sebastianbassi: /pages/sebastianbassi
-.. _gabrielgenellina: /pages/gabrielgenellina
+.. _pyar: /pages/pyar/index.html
+.. _eventos: /pages/eventos/index.html
+.. _contribuyendoalwiki: /pages/contribuyendoalwiki/index.html
+.. _aprendiendopython: /pages/aprendiendopython/index.html
+.. _recetario: /pages/recetario/index.html
+.. _miniejemplos: /pages/miniejemplos/index.html
+.. _pythonzen: /pages/pythonzen/index.html
+.. _mensajesexcepcionales: /pages/mensajesexcepcionales/index.html
+.. _python3mil: /pages/python3mil/index.html
+.. _autocomplecionenconsolainteractiva: /pages/Recetario/autocomplecionenconsolainteractiva/index.html
+.. _guardarhistorialenconsolainteractiva: /pages/guardarhistorialenconsolainteractiva/index.html
+.. _dbapi: /pages/dbapi/index.html
+.. _plpython: /pages/plpython/index.html
+.. _interfacesgraficas: /pages/interfacesgraficas/index.html
+.. _wsgi: /pages/wsgi/index.html
+.. _cherrypy: /pages/cherrypy/index.html
+.. _rendimientopythonvsjavavsnet: /pages/rendimientopythonvsjavavsnet/index.html
+.. _pythoncard: /pages/pythoncard/index.html
+.. _visualbasic: /pages/visualbasic/index.html
+.. _marianoguerra: /pages/marianoguerra/index.html
+.. _sebastianbassi: /pages/sebastianbassi/index.html
+.. _gabrielgenellina: /pages/gabrielgenellina/index.html

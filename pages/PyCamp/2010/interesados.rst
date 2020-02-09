@@ -95,36 +95,36 @@ Para detalles de la inscripción: http://is.gd/8zTTD
 
 .. ############################################################################
 
-.. _Mariano Mara: /pages/marianomara
+.. _Mariano Mara: /pages/marianomara/index.html
 
-.. _Maunuel Muradás: /pages/dieresys
+.. _Maunuel Muradás: /pages/dieresys/index.html
 
-.. _Joaquín Sorianello: /pages/joaquinsorianello
+.. _Joaquín Sorianello: /pages/joaquinsorianello/index.html
 
-.. _Santiago Suarez Ordoñez: /pages/santiagosuarezO
+.. _Santiago Suarez Ordoñez: /pages/santiagosuarezO/index.html
 
-.. _José Luis Dallapiccola: /pages/joseluisdallapiccola
+.. _José Luis Dallapiccola: /pages/joseluisdallapiccola/index.html
 
 .. _Humareda: http://www.wordreference.com/definicion/humareda
 
-.. _Lucas Shrewsbury: /pages/lucasshrewsbury
+.. _Lucas Shrewsbury: /pages/lucasshrewsbury/index.html
 
-.. _Angel Velásquez: /pages/angelvelasquez
+.. _Angel Velásquez: /pages/angelvelasquez/index.html
 
 .. _malev: http://blog.malev.com.ar
 
-.. _juanjoconti: /pages/juanjoconti
-.. _ricardokirkner: /pages/ricardokirkner
-.. _gonzalodelgado: /pages/gonzalodelgado
-.. _gonzalolarralde: /pages/gonzalolarralde
-.. _anthonylenton: /pages/anthonylenton
-.. _danielmoisset: /pages/danielmoisset
-.. _hernanolivera: /pages/hernanolivera
-.. _marianoreingart: /pages/marianoreingart
-.. _hugoruscitti: /pages/hugoruscitti
-.. _hectorsanchez: /pages/hectorsanchez
-.. _alejandrosantos: /pages/alejandrosantos
-.. _robertoallende: /pages/robertoallende
-.. _johnlenton: /pages/johnlenton
-.. _pycamp: /pages/pycamp
-.. _ricardoquesada: /pages/ricardoquesada
+.. _juanjoconti: /pages/juanjoconti/index.html
+.. _ricardokirkner: /pages/ricardokirkner/index.html
+.. _gonzalodelgado: /pages/gonzalodelgado/index.html
+.. _gonzalolarralde: /pages/gonzalolarralde/index.html
+.. _anthonylenton: /pages/anthonylenton/index.html
+.. _danielmoisset: /pages/danielmoisset/index.html
+.. _hernanolivera: /pages/hernanolivera/index.html
+.. _marianoreingart: /pages/marianoreingart/index.html
+.. _hugoruscitti: /pages/hugoruscitti/index.html
+.. _hectorsanchez: /pages/hectorsanchez/index.html
+.. _alejandrosantos: /pages/alejandrosantos/index.html
+.. _robertoallende: /pages/robertoallende/index.html
+.. _johnlenton: /pages/johnlenton/index.html
+.. _pycamp: /pages/pycamp/index.html
+.. _ricardoquesada: /pages/ricardoquesada/index.html

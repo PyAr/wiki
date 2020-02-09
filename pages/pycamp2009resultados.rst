@@ -110,5 +110,5 @@ PyCon2009
 
 
 
-.. _pyar: /pages/pyar
-.. _ramiromorales: /pages/ramiromorales
+.. _pyar: /pages/pyar/index.html
+.. _ramiromorales: /pages/ramiromorales/index.html

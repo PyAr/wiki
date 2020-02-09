@@ -124,11 +124,11 @@ Blogpost sobre Pycamps
 .. ############################################################################
 
 
-.. _aqui: /pages/PyCamp/quesehace
+.. _aqui: /pages/PyCamp/quesehace/index.html
 
-.. _organizar: /pages/PyCamp/organizandounpycamp
+.. _organizar: /pages/PyCamp/organizandounpycamp/index.html
 
-.. _marcha: /pages/PyCamp/2020
+.. _marcha: /pages/PyCamp/2020/index.html
 
 .. _Cocos2d: http://cocos2d.org/
 
@@ -136,34 +136,34 @@ Blogpost sobre Pycamps
 
 .. _CDpedia: http://code.google.com/p/cdpedia/
 
-.. _Los Cocos, Córdoba. Marzo de 2009: /pages/PyCamp/2009
+.. _Los Cocos, Córdoba. Marzo de 2009: /pages/PyCamp/2009/index.html
 
-.. _Veronica, Buenos Aires. Marzo de 2010: /pages/PyCamp/2010
+.. _Veronica, Buenos Aires. Marzo de 2010: /pages/PyCamp/2010/index.html
 
-.. _La Falda, Córdoba. Marzo de 2011: /pages/PyCamp/2011
+.. _La Falda, Córdoba. Marzo de 2011: /pages/PyCamp/2011/index.html
 
-.. _Veronica, Buenos Aires. Julio de 2012: /pages/PyCamp/2012
+.. _Veronica, Buenos Aires. Julio de 2012: /pages/PyCamp/2012/index.html
 
-.. _Villa Giardino, Córdoba. Junio de 2013: /pages/PyCamp/2013
+.. _Villa Giardino, Córdoba. Junio de 2013: /pages/PyCamp/2013/index.html
 
-.. _Villa Giardino, Córdoba. Marzo de 2014: /pages/PyCamp/2014
+.. _Villa Giardino, Córdoba. Marzo de 2014: /pages/PyCamp/2014/index.html
 
-.. _La Serranita, Córdoba. Agosto de 2015: /pages/PyCamp/2015
+.. _La Serranita, Córdoba. Agosto de 2015: /pages/PyCamp/2015/index.html
 
-.. _La Serranita, Córdoba. Marzo de 2016: /pages/PyCamp/2016
+.. _La Serranita, Córdoba. Marzo de 2016: /pages/PyCamp/2016/index.html
 
-.. _Baradero, Buenos Aires. Marzo de 2017: /pages/PyCamp/2017
+.. _Baradero, Buenos Aires. Marzo de 2017: /pages/PyCamp/2017/index.html
 
-.. _ramiromorales: /pages/ramiromorales
-.. _marcosdione: /pages/marcosdione
-.. _johnlenton: /pages/johnlenton
-.. _JoaquinSorianello: /pages/joaquinsorianello
-.. _EzequielMarquez: /pages/ezequielmarquez
-.. _MartinGaitan: /pages/miembros/tin
-.. _MarcosVanetta: /pages/marcosvanetta
-.. _HugoRuscitti: /pages/hugoruscitti
-.. _EmilianoDallaVerdeMarcozzi: /pages/emilianodallaverdemarcozzi
+.. _ramiromorales: /pages/ramiromorales/index.html
+.. _marcosdione: /pages/marcosdione/index.html
+.. _johnlenton: /pages/johnlenton/index.html
+.. _JoaquinSorianello: /pages/joaquinsorianello/index.html
+.. _EzequielMarquez: /pages/ezequielmarquez/index.html
+.. _MartinGaitan: /pages/miembros/tin/index.html
+.. _MarcosVanetta: /pages/marcosvanetta/index.html
+.. _HugoRuscitti: /pages/hugoruscitti/index.html
+.. _EmilianoDallaVerdeMarcozzi: /pages/emilianodallaverdemarcozzi/index.html
 
 
 
-.. _pyar: /pages/pyar
+.. _pyar: /pages/pyar/index.html

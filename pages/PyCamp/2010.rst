@@ -97,7 +97,7 @@ Qué llevar?
 
 .. _de FacundoBatista: http://www.flickr.com/photos/54757453@N00/sets/72157623601554224/
 
-.. _Cronograma: /pages/PyCamp/2010/cronograma
+.. _Cronograma: /pages/PyCamp/2010/cronograma/index.html
 
 .. _Verónica, Bs. As.: http://en.wikipedia.org/wiki/Ver%C3%B3nica,_Buenos_Aires
 
@@ -105,13 +105,13 @@ Qué llevar?
 
 .. _acá: http://www.agds.org.ar/Veronica/
 
-.. _Del Interior: /pages/PyCamp/2010/delinterior
+.. _Del Interior: /pages/PyCamp/2010/delinterior/index.html
 
-.. _Interesados: /pages/PyCamp/2010/interesados
+.. _Interesados: /pages/PyCamp/2010/interesados/index.html
 
-.. _Temas propuestos: /pages/PyCamp/2010/temaspropuestos
+.. _Temas propuestos: /pages/PyCamp/2010/temaspropuestos/index.html
 
-.. _Lista de cosas a llevar: /pages/PyCamp/2010/quellevar
+.. _Lista de cosas a llevar: /pages/PyCamp/2010/quellevar/index.html
 
 
 

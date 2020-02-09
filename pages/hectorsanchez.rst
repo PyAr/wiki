@@ -34,4 +34,4 @@ Twitter:
 .. _PressEnter: http://www.pressenter.com.ar
 
 
-.. _pyweek: /pages/pyweek
+.. _pyweek: /pages/pyweek/index.html

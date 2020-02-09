@@ -38,6 +38,6 @@ P.D. Esta demas decir, tenemos una maquina de cafe expreso...
 .. _machinalis: http://www.machinalis.com
 
 
-.. _pyqt: /pages/CharlasAbiertas2010/pyqt
-.. _pycamp: /pages/pycamp
-.. _pyar: /pages/pyar
+.. _pyqt: /pages/CharlasAbiertas2010/pyqt/index.html
+.. _pycamp: /pages/pycamp/index.html
+.. _pyar: /pages/pyar/index.html

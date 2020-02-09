@@ -104,4 +104,4 @@ Terminamos de comer, dimos una caminata y emprendimos el regreso. Bien tranqui. 
 
 Bueno, eso fue todo. Copada reunión, espero que se repita. Cambio y fuera.
 
-.. _pyar: /pages/pyar
+.. _pyar: /pages/pyar/index.html

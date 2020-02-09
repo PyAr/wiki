@@ -9,7 +9,7 @@ Canal
   ``#pyar``
 
 
-.. _lista de correo: /pages/listadecorreo
+.. _lista de correo: /pages/listadecorreo/index.html
 
 
 Archivo de IRC

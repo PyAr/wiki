@@ -139,16 +139,16 @@ En Alocado Alocador se pudieron volcar muchas experiencias de Pyweek2, y todos c
 
 .. ############################################################################
 
-.. _alecu: /pages/alejandrojcura
+.. _alecu: /pages/alejandrojcura/index.html
 
-.. _yaco: /pages/santiagopereson
+.. _yaco: /pages/santiagopereson/index.html
 
-.. _guillermogonzalez: /pages/guillermogonzalez
-.. _luciotorre: /pages/luciotorre
-.. _marianodraghi: /pages/marianodraghi
-.. _pabloziliani: /pages/pabloziliani
-.. _ricardokirkner: /pages/ricardokirkner
-.. _pyar: /pages/pyar
-.. _listadecorreo: /pages/listadecorreo
-.. _todo: /pages/todo
-.. _leitomonk: /pages/leitomonk
+.. _guillermogonzalez: /pages/guillermogonzalez/index.html
+.. _luciotorre: /pages/luciotorre/index.html
+.. _marianodraghi: /pages/marianodraghi/index.html
+.. _pabloziliani: /pages/pabloziliani/index.html
+.. _ricardokirkner: /pages/ricardokirkner/index.html
+.. _pyar: /pages/pyar/index.html
+.. _listadecorreo: /pages/listadecorreo/index.html
+.. _todo: /pages/todo/index.html
+.. _leitomonk: /pages/leitomonk/index.html

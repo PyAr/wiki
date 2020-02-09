@@ -54,33 +54,33 @@ Charlas Realizadas
 
 .. ############################################################################
 
-.. _Introducción a la Programación: /pages/CharlasAbiertas2010/introduccionalaprogramacion
+.. _Introducción a la Programación: /pages/CharlasAbiertas2010/introduccionalaprogramacion/index.html
 
-.. _Introducción a Python: /pages/CharlasAbiertas2010/introduccionapython
+.. _Introducción a Python: /pages/CharlasAbiertas2010/introduccionapython/index.html
 
-.. _Introducción al Desarrollo Web I: /pages/CharlasAbiertas2010/introduccionaldesarrollowebi
+.. _Introducción al Desarrollo Web I: /pages/CharlasAbiertas2010/introduccionaldesarrollowebi/index.html
 
-.. _Introducción al Desarrollo Web II: /pages/CharlasAbiertas2010/introduccionaldesarrollowebii
+.. _Introducción al Desarrollo Web II: /pages/CharlasAbiertas2010/introduccionaldesarrollowebii/index.html
 
-.. _!FooBar (virtualenv, buildout, nose): /pages/CharlasAbiertas2010/foobar
+.. _!FooBar (virtualenv, buildout, nose): /pages/CharlasAbiertas2010/foobar/index.html
 
-.. _Django: /pages/CharlasAbiertas2010/django
+.. _Django: /pages/CharlasAbiertas2010/django/index.html
 
-.. _Introducción a las Interfaces Gráficas de Escritorio I: /pages/CharlasAbiertas2010/introducciongui_i
+.. _Introducción a las Interfaces Gráficas de Escritorio I: /pages/CharlasAbiertas2010/introducciongui_i/index.html
 
-.. _Introducción a las Interfaces Gráficas de Escritorio II: /pages/CharlasAbiertas2010/introducciongui_ii
+.. _Introducción a las Interfaces Gráficas de Escritorio II: /pages/CharlasAbiertas2010/introducciongui_ii/index.html
 
-.. _wxPython: /pages/CharlasAbiertas2010/wxpython
+.. _wxPython: /pages/CharlasAbiertas2010/wxpython/index.html
 
-.. _Introducción al uso y desarrollo con Plone: /pages/CharlasAbiertas2010/introduccionaplone
+.. _Introducción al uso y desarrollo con Plone: /pages/CharlasAbiertas2010/introduccionaplone/index.html
 
-.. _Optimizando Python: /pages/CharlasAbiertas2010/optimizandopython
+.. _Optimizando Python: /pages/CharlasAbiertas2010/optimizandopython/index.html
 
-.. _PyQt: /pages/CharlasAbiertas2010/pyqt
+.. _PyQt: /pages/CharlasAbiertas2010/pyqt/index.html
 
-.. _Python3000: /pages/CharlasAbiertas2010/python3000
+.. _Python3000: /pages/CharlasAbiertas2010/python3000/index.html
 
-.. _Twisted: /pages/CharlasAbiertas2010/twisted
+.. _Twisted: /pages/CharlasAbiertas2010/twisted/index.html
 
-.. _Taller de Programación de Juegos: /pages/CharlasAbiertas2010/tallerjuegos
+.. _Taller de Programación de Juegos: /pages/CharlasAbiertas2010/tallerjuegos/index.html
 

@@ -182,4 +182,4 @@ Presupuesto_
 .. role:: underline
    :class: underline
 
-.. _pyday: /pages/pyday
+.. _pyday: /pages/pyday/index.html

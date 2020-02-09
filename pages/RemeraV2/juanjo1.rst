@@ -18,5 +18,5 @@ Comentarios
 
 * [JuanjoConti_] Corregido!
 
-.. _pyar: /pages/pyar
-.. _juanjoconti: /pages/juanjoconti
+.. _pyar: /pages/pyar/index.html
+.. _juanjoconti: /pages/juanjoconti/index.html

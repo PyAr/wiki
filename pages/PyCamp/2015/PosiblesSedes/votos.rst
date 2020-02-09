@@ -62,9 +62,9 @@ Cualquier sede (voto en blanco)
 
 .. ############################################################################
 
-.. _Horacio Duran: /pages/horacioduran
+.. _Horacio Duran: /pages/horacioduran/index.html
 
-.. _juanfisanotti: /pages/juanfisanotti
-.. _luciotorre: /pages/luciotorre
-.. _pycamp: /pages/pycamp
-.. _ricardokirkner: /pages/ricardokirkner
+.. _juanfisanotti: /pages/juanfisanotti/index.html
+.. _luciotorre: /pages/luciotorre/index.html
+.. _pycamp: /pages/pycamp/index.html
+.. _ricardokirkner: /pages/ricardokirkner/index.html

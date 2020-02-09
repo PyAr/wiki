@@ -24,4 +24,4 @@ Temas tratados
 
 * Se definió continuar con las reuniones en un plazo estimado de 60 días, si bien se seguirán en contacto por las listas de Pyar Argentina y el sitio PyAr_ Rosario.
 
-.. _pyar: /pages/pyar
+.. _pyar: /pages/pyar/index.html

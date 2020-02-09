@@ -46,7 +46,7 @@ MarianoReingart_
 
 .. _Factura Electronica: http://www.nsis.com.ar/public/browser/pyafip/ws/php.py
 
-.. _simplexmlelement: /pages/simplexmlelement
-.. _simplesoapclient: /pages/Recetario/simplesoapclient
-.. _marianoreingart: /pages/marianoreingart
-.. _categoryrecetas: /pages/categoryrecetas
+.. _simplexmlelement: /pages/simplexmlelement/index.html
+.. _simplesoapclient: /pages/Recetario/simplesoapclient/index.html
+.. _marianoreingart: /pages/marianoreingart/index.html
+.. _categoryrecetas: /pages/categoryrecetas/index.html

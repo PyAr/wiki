@@ -17,5 +17,5 @@ Comentarios
 .. role:: small
    :class: small
 
-.. _remerasv2: /pages/remerasv2
-.. _alejandrojcura: /pages/alejandrojcura
+.. _remerasv2: /pages/remerasv2/index.html
+.. _alejandrojcura: /pages/alejandrojcura/index.html
