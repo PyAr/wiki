@@ -117,3 +117,4 @@ A 4 cuadras de la terminal de Villa Giardino, no hay forma de perderse, camino l
 
 .. _acá está el video: https://www.youtube.com/watch?v=8kadky7RaXc
 
+.. _pycamp: /pages/pycamp

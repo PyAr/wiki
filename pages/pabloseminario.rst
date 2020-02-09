@@ -14,10 +14,3 @@ Mail
 
 ``IDONTWANT pabluk AT CRIPPY gmail SPAM DOT com``
 
--------------------------
-
- CategoryHomepage_
-
-.. ############################################################################
-
-

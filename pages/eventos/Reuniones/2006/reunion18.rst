@@ -7,7 +7,7 @@ Asistentes
 
 En total nos juntamos 12 personas:
 
-* Alejandro José |{*}|
+* Alejandro José 🤩
 
 * alecu_
 
@@ -29,9 +29,9 @@ En total nos juntamos 12 personas:
 
 * PabloZiliani_
 
-* Sebastián |{*}|
+* Sebastián 🤩
 
-Las personas marcadas con |{*}| son los que vinieron por primera vez. ¡Bienvenidos!
+Las personas marcadas con 🤩 son los que vinieron por primera vez. ¡Bienvenidos!
 
 Temario
 -------

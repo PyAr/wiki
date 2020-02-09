@@ -416,4 +416,5 @@ Villa Maristas Mar del Plata
 .. role:: strike
    :class: strike
 
+.. _pycamp: /pages/pycamp
 .. _pyar: /pages/pyar

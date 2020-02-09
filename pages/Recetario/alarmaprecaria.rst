@@ -109,15 +109,5 @@ Si funciona con:
 
 Es mas que suficiente. -- JoaquinSorianello_ `[[DateTime(2010-11-08T10:56:40-0300)]]`_
 
--------------------------
-
-
-
--------------------------
-
-
-
-  CategoryRecetas_
-
 .. _joaquinsorianello: /pages/joaquinsorianello
 .. _categoryrecetas: /pages/categoryrecetas

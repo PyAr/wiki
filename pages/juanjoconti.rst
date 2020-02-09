@@ -8,7 +8,7 @@ Soy ingeniero de la FRSF-UTN_, trabajo en una empresa de telecomunicaciones y te
 
 -------------------------
 
- CategoryHomepage_
+ 
 
 .. ############################################################################
 

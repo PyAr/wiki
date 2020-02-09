@@ -5,35 +5,37 @@ Reunión 17 - 05/07/2006 - Hip Bar
 Asistentes
 ----------
 
-En total nos juntamos 14 personas, de las cuales 6 vinieron por primera vez a una reunión (son las que están marcadas con |{*}| en la lista). Hubo también un par de ausentes sin aviso 😉
+En total nos juntamos 14 personas, de las cuales 6 vinieron por primera vez a una reunión (son las que están marcadas con 🤩 en la lista). Hubo también un par de ausentes sin aviso 😉
 
-* Adrian |{*}|
+* Adrian 🤩
 
 * alecu_
 
 * FacundoBatista_
 
-* Gabriel Patiño |{*}|
+* Gabriel Patiño 🤩
 
-* Gastón |{*}|
+* Gastón 🤩
 
 * GuillermoGonzalez_
 
-* Javier Marcon |{*}|
+* Javier Marcon 🤩
 
 * LucioTorre_
 
-* Lucas |{*}|
+* Lucas 🤩
 
 * MarianoDraghi_
 
-* Mariano Ferro |{*}|
+* Mariano Ferro 🤩
 
 * PabloZiliani_
 
 * RicardoKirkner_
 
 * yaco_
+
+Las personas marcadas con 🤩 son los que vinieron por primera vez. ¡Bienvenidos!
 
 Temario
 -------

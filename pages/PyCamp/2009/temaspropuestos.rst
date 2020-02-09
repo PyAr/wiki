@@ -181,7 +181,7 @@ Editor de Texto deathmatch  Cuan pupudo es el editor de texto que usas para prog
 
 Django bug-fixing sprint  Nos sentamos a cerrar tickets de Django en recta final hacia el release de 1.1. Ver hilo_ en la lista.
 
-Ver `/SprintDjango`_
+Ver `SprintDjango`_
 
 .. ############################################################################
 
@@ -228,3 +228,5 @@ Ver `/SprintDjango`_
 .. _ramiromorales: /pages/ramiromorales
 .. _texteditordeadmatch: /pages/texteditordeadmatch
 .. _pycon: /pages/pycon
+.. _SprintDjango: /pages/PyCamp/2009/TemasPropuestos/sprintdjango
+.. _pycamp: /pages/pycamp

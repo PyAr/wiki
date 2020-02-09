@@ -4,9 +4,9 @@ Reunión 43 - Martes 24 de Agosto - Ciudad de Cordoba, en Alfonsina de Belgrano 
 
 Definimos cuando usando la lista de correo
 
- **Asistentes:** 
+ **Asistentes:**
 
- 
+
 
   [Table not converted]
 
@@ -34,4 +34,5 @@ Repaso por el estado de PyCon_ 2010
 
 * principalmente información de perrito hacia el resto
 
+.. _pycamp: /pages/pycamp
 .. _pycon: /pages/pycon

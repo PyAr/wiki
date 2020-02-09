@@ -18,9 +18,9 @@ Temario:
 Asistentes:
 -----------
 
-Por favor, si venís a la reunión, anotate en esta lista: Si sos nuevo, podes poner una **x** en la columna correspondiente. 
+Por favor, si venís a la reunión, anotate en esta lista: Si sos nuevo, podes poner una **x** en la columna correspondiente.
 
- 
+
 
   [Table not converted]
 
@@ -80,11 +80,11 @@ Minuta
 
   * Se coincidió en que el almuerzo, debería cobrarse sí o sí
 
-    * Surgió la idea de vincular el cobro del mismo, a DineroMail_.com
+    * Surgió la idea de vincular el cobro del mismo, a DineroMail.com
 
   * Se planteó la posibilidad de cobrar una entrada
 
-    * Vinculando la venta de las mismas a través de DineroMail_.com
+    * Vinculando la venta de las mismas a través de DineroMail.com
 
     * o a través de uno de los auspiciantes el cual cuenta con un negocio de venta de entradas para teatro
 
@@ -99,12 +99,6 @@ Minuta
 * Joac_ quedó en averiguar todos los temas relativos a la formación de una ONG (tales como procedimientos / pasos legales e impositivos a seguir, requerimientos, inversión necesaria, etc.)
 
 * LuisMasuelli_ averiguaría acerca de las cuestiones impositivas inherentes a una ONG (ver e-mail sobre la reunión, donde comenta lo que pudo averiguar)
-
--------------------------
-
- CategoryReuniones_
-
-.. ############################################################################
 
 .. _issue11739: http://bugs.python.org/issue11739
 
@@ -124,4 +118,5 @@ Minuta
 
 .. _pyar: /pages/pyar
 .. _categoryreuniones: /pages/categoryreuniones
+.. _pycamp: /pages/pycamp
 .. _pycon: /pages/pycon

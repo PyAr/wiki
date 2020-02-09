@@ -2,7 +2,7 @@
 Posibles sedes para el PyCamp 2014
 ==================================
 
-Estas son las distintas posibles sedes para el PyCamp_ 2014. Se sometieron a votación y la ganadora es **Hotel Luz y Fuerza**. Votos y script, `acá`_. 
+Estas son las distintas posibles sedes para el PyCamp_ 2014. Se sometieron a votación y la ganadora es **Hotel Luz y Fuerza**. Votos y script, `acá`_.
 
 Cada sede está cargada aquí por la persona de contacto, que es la persona que averiguó todos los datos y contacto con la administración de la sede, cualquier duda preguntarle a ella/él.
 
@@ -11,7 +11,7 @@ Más allá de la info general, algunos ítems tienen al costado un puntaje *sobr
 Verónica
 --------
 
-**Nombre del lugar:** Hogar Escuela Verónica de la Comunidad de Escuelas Argentino-Alemanas 
+**Nombre del lugar:** Hogar Escuela Verónica de la Comunidad de Escuelas Argentino-Alemanas
 
 **Donde está:** Calle 39, Veronica_.
 
@@ -29,23 +29,23 @@ Verónica
 
 **Qué onda el lugar: 5 pycampitas**
 
-* Muy tranquilo, cero ruidos, mucho verde, "en el medio del campo". 
+* Muy tranquilo, cero ruidos, mucho verde, "en el medio del campo".
 
-* La gente tiene buena onda, y en general no tuvimos ningún problema. 
+* La gente tiene buena onda, y en general no tuvimos ningún problema.
 
 * Se pueden alquilar bicis, y hay mucho para salir a pasear.
 
 **Qué onda las habitaciones: 4 pycampitas**
 
-* Son barracas con camas de dos pisos. 
+* Son barracas con camas de dos pisos.
 
 * También hay cuatro o cinco habitaciones para dos personas, y un par para tres personas (todas con baño privado), que generalmente las usamos para familias que vayan (o personas que deseen una mayor intimidad)
 
 **Qué onda la comida: 4 pycampitas**
 
-* Comida simple, pensada para chicos. 
+* Comida simple, pensada para chicos.
 
-* Existe el opcional de comer asado una noche. 
+* Existe el opcional de comer asado una noche.
 
 * La bebida (agua de la canilla) está incluida.
 
@@ -178,4 +178,5 @@ A 4 cuadras de la terminal de Villa Giardino, no hay forma de perderse, camino l
 
 .. _el otro lado del PyCamp de EugeniaBahit: https://plus.google.com/u/0/photos/104151223595939241834/albums/5767077860795015489
 
+.. _pycamp: /pages/pycamp
 .. _pyar: /pages/pyar

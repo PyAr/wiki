@@ -30,7 +30,7 @@ Básicamente se trataron 3 temas:
 
 * Folleteria
 
-* Gafete 
+* Gafete
 
 *Remeras*
 
@@ -88,4 +88,5 @@ Por ultimo, Alecu comento que esto es similar a lo que se esta haciendo en una e
 
 .. _pyar: /pages/pyar
 .. _edupython: /pages/edupython
+.. _pycamp: /pages/pycamp
 .. _pycon: /pages/pycon

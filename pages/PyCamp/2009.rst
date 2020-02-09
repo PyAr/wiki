@@ -121,7 +121,7 @@ Encargados de distintas cosas
 
 * Red cableada:
 
-* Requerimientos Dietarios: NatyBidart_ (agregar prefs en `/RequerimientosDietarios`_)
+* Requerimientos Dietarios: NatyBidart_ (agregar prefs en `RequerimientosDietarios`_)
 
 * Armado del programa (tentativo?):
 
@@ -188,3 +188,4 @@ Fotos
 .. _pabloziliani: /pages/pabloziliani
 .. _marianoreingart: /pages/marianoreingart
 .. _hectorsanchez: /pages/hectorsanchez
+.. _RequerimientosDietarios: /pages/PyCamp/2009/requerimientosdietarios.rst

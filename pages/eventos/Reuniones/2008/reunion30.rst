@@ -42,4 +42,5 @@ En fin, Facundo organizó entre la muchedumbre el debate de los siguientes ítem
 
 .. _pyweek: /pages/pyweek
 .. _pyar: /pages/pyar
+.. _pycamp: /pages/pycamp
 .. _pycon: /pages/pycon

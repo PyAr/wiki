@@ -284,3 +284,4 @@ Twisted-XMPP, Implementar un server xmpp (o parte/s), ya que no hay ningun serve
 .. _danielmoisset: /pages/danielmoisset
 .. _nicoechaniz: /pages/nicoechaniz
 .. _robertoallende: /pages/robertoallende
+.. _pycamp: /pages/pycamp

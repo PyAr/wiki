@@ -248,4 +248,5 @@ Los tres primeros de cada zona, más el mejor segundo, pasan a una llave de 4 co
 .. _robertoallende: /pages/robertoallende
 .. _categorypycamp: /pages/categorypycamp
 .. _tutorial: /pages/tutorial
+.. _pycamp: /pages/pycamp
 .. _pycon: /pages/pycon

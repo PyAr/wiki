@@ -2,6 +2,10 @@
 GTK on TK
 =========
 
+.. role:: small
+   :class: small
+
+
 Usar temas de GTK en las aplicaciones de TKinter, no requiere ttk, funciona en KDE.
 
 **Foto de Pantalla:**
@@ -702,13 +706,5 @@ Capturas:
 
 
 
-
-.. role:: small
-   :class: small
-
-
-
-.. role:: small
-   :class: small
 
 .. _base: /pages/Proyectos/RevistaPythonComunidad/base

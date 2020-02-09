@@ -66,4 +66,5 @@ Cualquier sede (voto en blanco)
 
 .. _juanfisanotti: /pages/juanfisanotti
 .. _luciotorre: /pages/luciotorre
+.. _pycamp: /pages/pycamp
 .. _ricardokirkner: /pages/ricardokirkner

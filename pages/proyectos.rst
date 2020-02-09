@@ -454,3 +454,4 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 .. _visualbasic: /pages/visualbasic
 .. _pyday: /pages/pyday
 .. _pycon: /pages/pycon
+.. _pyar: /pages/pyar

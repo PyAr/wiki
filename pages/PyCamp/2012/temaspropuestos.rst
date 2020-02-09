@@ -503,4 +503,5 @@ CategoryPyCamp_
 .. _hugoruscitti: /pages/hugoruscitti
 .. _danielmoisset: /pages/danielmoisset
 .. _categorypycamp: /pages/categorypycamp
+.. _pycamp: /pages/pycamp
 .. _pycon: /pages/pycon

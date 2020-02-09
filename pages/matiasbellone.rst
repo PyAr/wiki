@@ -14,7 +14,7 @@ Porgramo en Python más que nada por diversión con un par de proyectos chicos e
 
 -------------------------
 
- CategoryHomepage_
+ 
 
 .. ############################################################################
 

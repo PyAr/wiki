@@ -304,4 +304,5 @@ Se necesitarían 2 cámaras por aula (una fija para filmar la presentación, otr
 .. _albertopaparelli: /pages/albertopaparelli
 .. _sebastianbassi: /pages/sebastianbassi
 .. _pyar: /pages/pyar
+.. _pycamp: /pages/pycamp
 .. _pycon: /pages/pycon

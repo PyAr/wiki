@@ -113,3 +113,4 @@ Anteriores
 
 .. _pyday: /pages/pyday
 .. _pyar: /pages/pyar
+.. _pycamp/2010: /pages/PyCamp/2010

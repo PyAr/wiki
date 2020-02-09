@@ -26,4 +26,5 @@ Qué llevar
      $ svn co http://code.djangoproject.com/svn/django/trunk/ django-trunk
 
 .. _anthonylenton: /pages/anthonylenton
+.. _pycamp: /pages/pycamp
 .. _ramiromorales: /pages/ramiromorales

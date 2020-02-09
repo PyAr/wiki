@@ -28,7 +28,7 @@ Tenemos Instalado Pygments, asi que podes colorear tu codigo con:
 Y queda:
 
 ::
-    
+
     {{{
     #!code python
     print "Hola Mundo"
@@ -43,28 +43,28 @@ Cuando Agregamos direcciones de mail conviene usar el macro MailTo, que evita qu
 
 
 ::
-    
+
     {{{
     #!code moin
-    <<MailTo(joac ARROBA NO QUIERO SPAM algundominio GUION otrodominio PUNTO com)>>   
+    <<MailTo(joac ARROBA NO QUIERO SPAM algundominio GUION otrodominio PUNTO com)>>
     }}}
 
 Y queda:
-<<MailTo(joac ARROBA NO QUIERO SPAM algundominio GUION otrodominio PUNTO com)>> 
+<<MailTo(joac ARROBA NO QUIERO SPAM algundominio GUION otrodominio PUNTO com)>>
 
 
 Mas Funcionalidades Copadas
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Mapas
-++++
++++++
 
 
 ::
-    
+
     {{{
     #!code moin
-    <<GoogleMaps(msa=0,msid=117626973029192648931.000447d968ea4d494125a,t="h",ll="-39.774769,-57.216797",spn="40.500047,77.607422",z=4)>>   
+    <<GoogleMaps(msa=0,msid=117626973029192648931.000447d968ea4d494125a,t="h",ll="-39.774769,-57.216797",spn="40.500047,77.607422",z=4)>>
     }}}
 
 
@@ -74,7 +74,7 @@ Twitter
 +++++++
 
 ::
-    
+
     {{{
     #!code moin
     <<Twitter(usuario="pyconar")>>
@@ -129,13 +129,13 @@ Figuras
 +++++++
 
 ::
-    
+
     {{{{
     !#code moin
     {{{#!aafig aspect=0.5 scale=2
             ddddddddd
             dd  ddddddddd
-            ddddddddddddd 
+            ddddddddddddd
             ddddddddddddd
     dddddddddddddddddddd eeeeee
     dddddddddddddddddddd  eeeeeee
@@ -144,7 +144,7 @@ Figuras
     dddddd eeeeeeeeeeeeeeeeeee
             eeeeeeeeeeeee
             eeeeeeeeeeeee
-            eeeeeeeee  ee  
+            eeeeeeeee  ee
             eeeeeeeeee
 
     }}}
@@ -156,7 +156,7 @@ Figuras
 
             ddddddddd
             dd  ddddddddd
-            ddddddddddddd 
+            ddddddddddddd
             ddddddddddddd
     dddddddddddddddddddd eeeeee
     dddddddddddddddddddd  eeeeeee
@@ -165,7 +165,7 @@ Figuras
     dddddd eeeeeeeeeeeeeeeeeee
             eeeeeeeeeeeee
             eeeeeeeeeeeee
-            eeeeeeeee  ee  
+            eeeeeeeee  ee
             eeeeeeeeee
 
     }}}

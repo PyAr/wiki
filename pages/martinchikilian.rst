@@ -12,7 +12,7 @@ Me gusta Python, Django, Linux y el Open Source en general.
 
 -------------------------
 
- CategoryHomepage_ CategoryHomepage_ CategoryHomepage_
+   
 
 .. ############################################################################
 

@@ -17,4 +17,5 @@ Más allá de eso, siempre está bueno que cuenten quien son, qué hacen, etc.
 .. ############################################################################
 
 .. _temas para trabajar en el PyCamp: http://python.org.ar/pyar/PyCamp/2014/TemasPropuestos
+.. _pycamp: /pages/pycamp
 
