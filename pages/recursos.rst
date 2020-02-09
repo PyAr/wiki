@@ -1,4 +1,4 @@
-Estos son buenos recursos |smile|
+Estos son buenos recursos 🙂
 
 Estas son organizaciones y empresas argentinas que utilizan python regularmente de distintas formas[1]_.
 

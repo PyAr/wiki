@@ -109,7 +109,7 @@ Probemos esta librería.  Jugar con esa librería que tenés ganas de usar hace 
 
 * Lucas Shrewsbury
 
-* LeitoMonk_ (OpenCV - llevo 2 webcams |smile| )
+* LeitoMonk_ (OpenCV - llevo 2 webcams 🙂 )
 
 * SantiagoPiccinini_ (+1 OpenCV)
 
@@ -284,3 +284,4 @@ Twisted-XMPP, Implementar un server xmpp (o parte/s), ya que no hay ningun serve
 .. _danielmoisset: /pages/danielmoisset
 .. _nicoechaniz: /pages/nicoechaniz
 .. _robertoallende: /pages/robertoallende
+.. _pycamp: /pages/pycamp

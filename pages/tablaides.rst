@@ -6,7 +6,7 @@ Tabla comparativa de las features de algunos IDEs disponibles para programar en 
 
 [Table not converted]
 
-Los siguientes son editores de texto avanzados. Tambien se pueden usar como IDE |smile|
+Los siguientes son editores de texto avanzados. Tambien se pueden usar como IDE 🙂
 
 [Table not converted]
 

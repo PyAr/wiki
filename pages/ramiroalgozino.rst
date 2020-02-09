@@ -12,8 +12,3 @@ Launchpad: https://launchpad.net/~algozino
 
 GoogleCode: http://code.google.com/u/algozino
 
-
-.. ############################################################################
-
-
-

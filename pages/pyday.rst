@@ -17,7 +17,7 @@ Guía básica (recomendaciones)
 
 #. Preguntar a otras personas (1-2 o más) para que te ayuden a organizar y crea las listas de correo para el seguimiento de lo que están haciendo
 
-   * No es necesario que sean gente técnica! Cualquiera deseando ayudar que conozcas puede se útil |smile|
+   * No es necesario que sean gente técnica! Cualquiera deseando ayudar que conozcas puede se útil 🙂
 
    * De hecho, voluntarios no técnicos pueden ser realmente buenos ya que te verán las cosas desde diferentes perspectivas
 
@@ -109,7 +109,7 @@ Guía básica (recomendaciones)
 
    * Comentar resultados y subir videos en youtube/blip.tv
 
-#. Pasalo bien |smile|
+#. Pasalo bien 🙂
 
 Luego del evento, para los interesados y en la medida de lo posible, se suelen hacer reuniones sociales, cenas o almuerzos, juegos y actividades recreativas, etc.
 

@@ -6,7 +6,7 @@ Te invitamos a dejar acá tus sugerencias, reportes de problemas, críticas, o c
 
 No dejes de leer la página de PreguntasFrecuentes_, para verificar que tu inquietud (y su posible respuesta/solución) ya esté documentada.
 
-Y si estás buscando una dirección de e-mail para comunicarte, permitinos sugerirte que vuelvas a leer en el mismo renglón en donde encontraste el link a ésta, la página que estás leyendo |wink| Y si llegaste acá directamente vía Google, podrías ver de que se trata ListaDeCorreo_, que aparece en la página de Inicio_ junto con los Contenidos del portal.
+Y si estás buscando una dirección de e-mail para comunicarte, permitinos sugerirte que vuelvas a leer en el mismo renglón en donde encontraste el link a ésta, la página que estás leyendo 😉 Y si llegaste acá directamente vía Google, podrías ver de que se trata ListaDeCorreo_, que aparece en la página de Inicio_ junto con los Contenidos del portal.
 
 ¡Muchas gracias!
 

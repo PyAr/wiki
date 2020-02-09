@@ -2,6 +2,10 @@
 GTK on TK
 =========
 
+.. role:: small
+   :class: small
+
+
 Usar temas de GTK en las aplicaciones de TKinter, no requiere ttk, funciona en KDE.
 
 **Foto de Pantalla:**
@@ -242,7 +246,7 @@ Descripcion: Crea 2 ventanas pequeñas iguales, una tratara de imitar el tema de
 
 Comentario personal:
 
-*Es mas bonito que TTK  |smile|  Como sea, la idea es aprovechar que en Linux TODO es un archivo, la magia esta en parsear.*
+*Es mas bonito que TTK  🙂  Como sea, la idea es aprovechar que en Linux TODO es un archivo, la magia esta en parsear.*
 
 Comentarios
 -----------
@@ -702,13 +706,5 @@ Capturas:
 
 
 
-
-.. role:: small
-   :class: small
-
-
-
-.. role:: small
-   :class: small
 
 .. _base: /pages/Proyectos/RevistaPythonComunidad/base

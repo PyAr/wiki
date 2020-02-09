@@ -114,7 +114,7 @@ Asistentes:
 ¿Dónde?
 ~~~~~~~
 
-En el fogón del PyCamp_ |smile|
+En el fogón del PyCamp_ 🙂
 
 ¿De qué se hablo?
 ~~~~~~~~~~~~~~~~~
@@ -126,4 +126,5 @@ No hubo anotadores, pero en general se charló del PyCamp_ mismo, del próximo P
 .. _PyCamp 2012: http://python.org.ar/pyar/PyCamp/2012/
 
 .. _pyar: /pages/pyar
+.. _pycamp: /pages/pycamp
 .. _pycon: /pages/pycon

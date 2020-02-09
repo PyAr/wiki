@@ -40,7 +40,7 @@ Decodificar entities de HTML
         return text and re.sub("&#?\w+;", fixup, text)
 
 
-Gracias Martin Conte Mac Donell! |wink|
+Gracias Martin Conte Mac Donell! 😉
 
 -------------------------
 

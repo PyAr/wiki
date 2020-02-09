@@ -1,4 +1,4 @@
-**¡Hola! Esta es la página de donaciones a Python Argentina.** |star2|
+**¡Hola! Esta es la página de donaciones a Python Argentina.** 🌟
 
 Por favor, elegí una de las opciones de abajo, ¡y muchas gracias!
 

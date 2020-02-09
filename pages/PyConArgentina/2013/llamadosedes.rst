@@ -126,4 +126,5 @@ Juan B. Cabral
 
 .. _pyar: /pages/pyar
 .. _marianoreingart: /pages/marianoreingart
+.. _pycamp: /pages/pycamp
 .. _pycon: /pages/pycon

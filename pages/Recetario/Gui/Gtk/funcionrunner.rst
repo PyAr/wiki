@@ -2,7 +2,7 @@
 GtkFuncionRunner
 ================
 
-ejemplo de como correr funciones que demoran sin bloquear la ui y obtener los resultados en el thread de gtk 
+ejemplo de como correr funciones que demoran sin bloquear la ui y obtener los resultados en el thread de gtk
 
 lo que tienen que reusar es la function run_in_thread
 
@@ -16,7 +16,7 @@ simplemente la llaman pasandole:
 
 * de 0 a n argumentos nombrados que serán pasados a func en la llamada
 
-func(*args, **kwargs) sera llamada en un thread aparte el cual sera monitoreado periódicamente por su finalizacion, una vez terminado llamara a callback pasandole una tupla cuyo primer elemento es True si la función termino con éxito y False si la función lanzo una excepción. El segundo elemento de la tupla es el valor retornado por la función si tuvo éxito o la excepción lanzada en caso que haya fallado.
+func(\*args, \*\*kwargs) sera llamada en un thread aparte el cual sera monitoreado periódicamente por su finalizacion, una vez terminado llamara a callback pasandole una tupla cuyo primer elemento es True si la función termino con éxito y False si la función lanzo una excepción. El segundo elemento de la tupla es el valor retornado por la función si tuvo éxito o la excepción lanzada en caso que haya fallado.
 
 obviamente en la función esa no pueden correr código relacionado con gtk
 

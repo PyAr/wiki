@@ -90,7 +90,7 @@ Al final pudimos terminar toda la primera etapa, y quedó algo copado, ya que la
 
 Yo crei que ya eran como las 22:00 pero no, todavia eran las 20:00. Nos fuimos cada uno por nuestro lado para despues reunirnos en "El Potrero". Yo me fui con Facundo y Lucio al hotel porque mis cosas estaban en el auto de Lucio que estaba ahi. Tiramos un par de ideas acerca de que se podria hacer con la plata recaudada con las remeras, y también hablamos acerca de hacer un menu de charlas PyAr_, para que en las conferencias se pueda elegir de una cierta variedad de charlas sobre distintos temas, para distintos niveles y dictadas por distintas personas.
 
-De nuevo en "El Potrero" jugamos al pool, tomamos vodka con speed, algun que otro té, etc etc. Yo jugue un partido con Luca y gane, despues jugando con nico perdimos ante Facundo y otro. (Juega bien el guacho...me refiero a otro |wink| ). Con nico le seguimos dando al vodka con speed, 
+De nuevo en "El Potrero" jugamos al pool, tomamos vodka con speed, algun que otro té, etc etc. Yo jugue un partido con Luca y gane, despues jugando con nico perdimos ante Facundo y otro. (Juega bien el guacho...me refiero a otro 😉 ). Con nico le seguimos dando al vodka con speed, 
 
 Lucio, (quien me iba a traer de vuelta) me dijo antes de irse:  "Si para las 12 no tengo planes de reunirme con vos, te dejo aca". Yo entre la escabiadez iba a recordar aquellas palabras.
 

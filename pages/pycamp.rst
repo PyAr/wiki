@@ -128,7 +128,7 @@ Blogpost sobre Pycamps
 
 .. _organizar: /pages/PyCamp/organizandounpycamp
 
-.. _marcha: /pages/PyCamp/2019
+.. _marcha: /pages/PyCamp/2020
 
 .. _Cocos2d: http://cocos2d.org/
 

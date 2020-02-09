@@ -18,7 +18,7 @@ Email: `sbassi@genesdigitales.com`_
 
 
 
-  CategoryHomepage_
+  
 
 .. ############################################################################
 

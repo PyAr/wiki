@@ -30,4 +30,5 @@ Presentaciones y material sobre Python Científico
 
 .. _Fuentes: https://github.com/damianavila/Python_Cientifico
 
-.. _`scipyla.org`: http://scipyla.org.. _pyar: /pages/pyar
+.. _`scipyla.org`: http://scipyla.org
+.. _pyar: /pages/pyar

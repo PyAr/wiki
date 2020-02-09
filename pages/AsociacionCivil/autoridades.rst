@@ -47,13 +47,13 @@ Hay dos facetas sobre las atribuciones y deberes de las autoridades:
 
 1. Tareas regulares administrativas para mantener la personería jurídica, mantener la Asociación operativa y responder otras cuestiones e incidencias legales.
 
-#. Liderar la Asociación hacia un futuro brillante, discutiendo la dirección con los otros miembros de la comisión directiva y gestionando para impulsar que los asociados persigan estas ideas. 
+#. Liderar la Asociación hacia un futuro brillante, discutiendo la dirección con los otros miembros de la comisión directiva y gestionando para impulsar que los asociados persigan estas ideas.
 
 Necesitamos personas que puedan y sean capaces de implementar la visión de la Asociación.
 
 La ubicación física de las autoridades no debería ser un factor excluyente, queremos que la Asociación sea bien Federal. Las reuniones serían virtuales; por cuestiones legales solo un mínimo de integrantes tendrían que reunirse físicamente  en el lugar de celebración, y luego, a posteriori, el resto debería juntarse para firmar las actas aprox. dos veces por año (por ej. en los eventos principales: PyCon_, PyDay_, etc.). Si bien puede haber ciertos problemas logísticos, trataremos de resolverlos.
 
-**NOTA:** *por cuestiones legales, la Asamblea Fundacional y otras reuniones deberán ser realizadas en la jurisdicción donde se establece la sede central (Ciudad de Buenos Aires), por lo que sería conveniente que los miembros fundadores estén dispuestos a viajar ocasionalmente de manera imprevista (hay una cuestión de plazos entre que se inicia el trámite y su terminación, presentaciones ante organismos IGJ, AFIP, etc), y en especial que los candidatos a Presidente, Secretario y Tesorero sean de Capital o Gran Buenos Aires para poder realizar las gestiones y presentaciones pertinentes (ver* `Acta Constitutiva`_*).*
+**NOTA:** \*por cuestiones legales, la Asamblea Fundacional y otras reuniones deberán ser realizadas en la jurisdicción donde se establece la sede central (Ciudad de Buenos Aires), por lo que sería conveniente que los miembros fundadores estén dispuestos a viajar ocasionalmente de manera imprevista (hay una cuestión de plazos entre que se inicia el trámite y su terminación, presentaciones ante organismos IGJ, AFIP, etc), y en especial que los candidatos a Presidente, Secretario y Tesorero sean de Capital o Gran Buenos Aires para poder realizar las gestiones y presentaciones pertinentes (ver `Acta Constitutiva`_).
 
 El compromiso de tiempo es personal -- en lo que quieras trabajar, y cuanto tiempo quieras dedicarle.  Algunas actividades son pesadas, otras no; haz tu elección!.  *La dedicación mínima de los miembros de la Comisión Directiva varía dependiendo el cargo (aprox. de 2 hs para los vocales a 5 hs semanales para el presidente/secretario/tesorero, pudiendo incrementarse para los períodos especiales: conferencias, cierres de ejercicio, etc.). El revisor de cuentas debe controlar las actividades de la Asociación, debiendo emitir dictámenes periódicamente (generalmente al menos una vez por año).*
 

@@ -48,7 +48,7 @@ En resumen basandonos en las comparaciones anteriores:
 Observaciones:
 --------------
 
-Si tomaramos el rendimiento de un programador sólo en funcion de las lineas de código que produce (y estas serían constantes e intercambiables entre los distintos programadores, o sea, que todos los programadores rindieramos igual), se podría decir que un programador de python equivale a 3 programadores de java, o lo que es lo mismo, que un programador de python realiza su trabajo en 3 veces menos el tiempo. |smile|
+Si tomaramos el rendimiento de un programador sólo en funcion de las lineas de código que produce (y estas serían constantes e intercambiables entre los distintos programadores, o sea, que todos los programadores rindieramos igual), se podría decir que un programador de python equivale a 3 programadores de java, o lo que es lo mismo, que un programador de python realiza su trabajo en 3 veces menos el tiempo. 🙂
 
 Fuentes:
 --------

@@ -16,7 +16,7 @@ Tengo un glob_ en el que hablo de todo, no s;olo de python. De hecho hablo poco 
 
 -------------------------
 
- CategoryHomepage_
+ 
 
 .. ############################################################################
 

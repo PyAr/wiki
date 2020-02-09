@@ -42,7 +42,7 @@ Temario
 
     Seguimos como estamos. En cuanto a los offtopics, nos dimos cuenta que pueden venir por 2 lados. 1) Trolls, que se soluciona ignorando o baneando de la lista. 2) Offtopics que tenemos dudas de si mandarlos o no. Esto se soluciona diciendole a todos los usuarios de la lista que lean la pagina de EtiquetaPyAr_ (<- hay que hacerla), donde definimos bien que temas son claramente ontopic y claramente offtopic. También podriamos poner algo acerca del lenguaje, acerca del uso del spanglish, etc. Algo que debieramos dejar en claro, es que la parte social es importante en pyar, mientras le incumban a TODOS los integrantes. Por otro lado, si se hace un grupo de amigos en pyar (bs.as.) y nos queremos hablar de lo que sea, eso se soluciona con otra lista totalmente separada de pyar. Si bien los chistes internos te hacen sentir dentro de un grupo, tambien ayudan a que el resto se sienta afuera, y lo que queremos por ahora es que el grupo se mantenga lo mas abierto a nuevos integrantes que se pueda.
 
-* Breve exposicion acerca de mis gafas http://www.flickr.com/photos/alecu/128571946/ |wink|
+* Breve exposicion acerca de mis gafas http://www.flickr.com/photos/alecu/128571946/ 😉
 
     RayBan_ aviator que compro mi viejo en su luna de miel y las uso por 2 decadas, siempre me parecieron re copadas y me las regalo cuando me vine a vivir a bs.as. [Si bien este no llega a ser un "chiste interno", esta bueno elaborar para que no se quede nadie atras, como hablaba mas arriba. igual es RE offtopic]
 
@@ -52,7 +52,7 @@ Temario
 
 * http://www.python-santafe.com.ar/ **Python Santa Fe!**
 
-    Python Santa Fe se retrazó para el 3 de junio. Aparentemente todos quieren ir con su novia. Pero para el resto (hasta ahora solo yo), LeitoMonk_ puede llegar a conseguir alojamiento en santa fe. Organizamos en la lista. Algo que surgio es una charla medio sorpresiva que le dieron a LucioTorre_ acerca de "python en el mundo real", La idea es hacer un cuestionario acerca de que herramientas se usan, que problemas surgen, que problemas que surgen con otros lenguajes no surgen en python, y bueno. Cualquier ayuda se acepta |smile| (en la lista)
+    Python Santa Fe se retrazó para el 3 de junio. Aparentemente todos quieren ir con su novia. Pero para el resto (hasta ahora solo yo), LeitoMonk_ puede llegar a conseguir alojamiento en santa fe. Organizamos en la lista. Algo que surgio es una charla medio sorpresiva que le dieron a LucioTorre_ acerca de "python en el mundo real", La idea es hacer un cuestionario acerca de que herramientas se usan, que problemas surgen, que problemas que surgen con otros lenguajes no surgen en python, y bueno. Cualquier ayuda se acepta 🙂 (en la lista)
 
 * PythonDay_ en Mendoza http://www.lugmen.org.ar/eventos/pdd-2006/
 

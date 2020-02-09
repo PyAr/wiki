@@ -24,7 +24,7 @@ P.D. Esta demas decir, tenemos una maquina de cafe expreso...
 
 -------------------------
 
- CategoryHomepage_
+ 
 
 .. ############################################################################
 
@@ -39,4 +39,5 @@ P.D. Esta demas decir, tenemos una maquina de cafe expreso...
 
 
 .. _pyqt: /pages/CharlasAbiertas2010/pyqt
+.. _pycamp: /pages/pycamp
 .. _pyar: /pages/pyar

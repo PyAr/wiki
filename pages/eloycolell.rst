@@ -6,13 +6,7 @@ Disfruto de solucionar problemas, o al menos intentarlo. Con Python estuve traba
 
 Académicamente, soy Licenciado en Sistemas de la Universidad Nacional de Luján.
 
-Email: ``eloypuntocolellgarabatogmailpuntocom`` GPG_
-
--------------------------
-
- CategoryHomepage_
-
-.. ############################################################################
+Email: ``eloypuntocolellgarabatogmailpuntocom``
 
 .. _GERSolar: http://www.gersol.unlu.edu.ar/
 

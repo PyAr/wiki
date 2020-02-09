@@ -23,7 +23,7 @@ A: 9 – 12:40 B: 14 – 17:10 C: 18 – 20:40 D: 22 - ...
 
 * Reunion      Do – C
 
-* Reply        
+* Reply
 
 * Karma        Sa – C
 
@@ -33,7 +33,7 @@ A: 9 – 12:40 B: 14 – 17:10 C: 18 – 20:40 D: 22 - ...
 
 * Recetario    Ma – B
 
-* ACheckersGame        
+* ACheckersGame
 
 * PyCamp_       Reunion
 
@@ -43,4 +43,5 @@ A: 9 – 12:40 B: 14 – 17:10 C: 18 – 20:40 D: 22 - ...
 
 * FUSE Lu – C
 
+.. _pycamp: /pages/pycamp
 .. _pythoncard: /pages/pythoncard

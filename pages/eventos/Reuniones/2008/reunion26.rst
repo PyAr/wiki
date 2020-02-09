@@ -64,7 +64,7 @@ Con motivo de que algunos chicos se van al FISL Brazil, surgió el tema de la se
 
 Se van a poner páginas en el wiki de PyAr_, una página para cada diseño que propongan, y en estas páginas se podrán recibir comentarios. El autor podrá aceptar (o no) estos comentarios e ir mejorando los diseños. Para no tener una barrera de entrada, también se podrá mandar un mail con el diseño, nos encargaremos de colgar eso en el wiki nosotros. En un momento determinado se hace un corte, y se toma una foto de esos diseños, luego del cual no se pueden hacer más cambios. Sobre estos diseños se hace la votación.
 
-Leito sugirió de manejar compras con DineroMail_, y hacer el delivery. También lo podemos hacer con PayPal_.
+Leito sugirió de manejar compras con DineroMail, y hacer el delivery. También lo podemos hacer con PayPal.
 
 PyCamp_, Córdoba 2008. Se comentó un poquito del lado de los usuarios y del lado de los organizadores cómo había sido la experiencia, para los que no habían ido. Estuvimos todos de acuerdo en que fue un éxito rotundo. Es por este suceso que a todos nos gustaría que se vuelva a repetir, no sólo en Córdoba sino también en otras provincias. Incluso sugirieron de hacer un PyCamp_ de invierno.
 
@@ -86,4 +86,5 @@ Tres horas después de comenzada, y con un promedio de un litro de cerveza por p
 
 .. _pyar: /pages/pyar
 .. _pyweek: /pages/pyweek
+.. _pycamp: /pages/pycamp
 .. _pycon: /pages/pycon

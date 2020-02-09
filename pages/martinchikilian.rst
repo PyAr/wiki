@@ -11,6 +11,3 @@ Hace unos años tenía pendiente empezar a incursionar en Python y finalmente ha
 Me gusta Python, Django, Linux y el Open Source en general.
 
 
-.. ############################################################################
-
-

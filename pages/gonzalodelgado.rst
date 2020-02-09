@@ -14,13 +14,8 @@ Actualmente trabajo para `Five Q`_, también con Django.
 
 Estoy armando (con muuucha tranquilidad) mi `sitio web personal`_, de nuevo con Django y usando Lighttpd_ sobre un server web casero.
 
-Si estás en Tucumán y programás en Python, te invito un café |wink|
+Si estás en Tucumán y programás en Python, te invito un café 😉
 
--------------------------
-
- CategoryHomepage_
-
-.. ############################################################################
 
 .. _UNT: http://www.unt.edu.ar/
 

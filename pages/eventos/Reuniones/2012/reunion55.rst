@@ -87,7 +87,7 @@ Buscando una solución a todos estos temas Cesar se acordó que en la facu hay u
 
 Como ventaja adicional hay que evaluar si se puede hacer stream de las charlas a un sitio como justin.tv
 
-Como Cesar se acordó... Cesar se encarga de chequear estas cosas |smile|
+Como Cesar se acordó... Cesar se encarga de chequear estas cosas 🙂
 
 Tavo menciono que el dispone de una maquina digital con salida HDMI.
 

@@ -188,7 +188,6 @@ Fotos
 .. _pabloziliani: /pages/pabloziliani
 .. _marianoreingart: /pages/marianoreingart
 .. _hectorsanchez: /pages/hectorsanchez
-
 .. _TemasPropuestos: /pages/PyCamp/2009/temaspropuestos
 .. _QuienesVan: /pages/PyCamp/2009/quienesvan
 .. _RequerimientosDietarios: /pages/PyCamp/2009/requerimientosdietarios

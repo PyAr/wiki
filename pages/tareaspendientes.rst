@@ -15,7 +15,7 @@ Sitio
 
    Así podremos linkear al wiki del trac de que abrimos en opensvn directamente.
 
-* Solucionar el error con la Macro IRSS al suscribirse al feed de Noticias_. Estaba arreglado, pero ahora parece que con Python 2.3 hay más problemas de Unicode |confused|
+* Solucionar el error con la Macro IRSS al suscribirse al feed de Noticias_. Estaba arreglado, pero ahora parece que con Python 2.3 hay más problemas de Unicode 😕
 
 * Evaluar la posibilidad de instalar pyXML y Docutils en el servidor, para poder aprovechar el parser de reStructuredText y la generación de DoocBook.
 

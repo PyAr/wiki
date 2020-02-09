@@ -2,7 +2,9 @@
 Modificación de Estilos en rst2pdf
 ==================================
 
-*(por* **Roberto Alsina***)* .. contents::
+*(por* **Roberto Alsina***)*
+
+.. contents::
 
 En el `svn de rst2pdf`_ se puede ver un archivo de ejemplo, que define todos los atributos posibles.
 
@@ -112,14 +114,6 @@ Enlaces
 * `Hoja de estilo completa`_
 
 * `Hoja de estilo eightpoint`_
-
--------------------------
-
-
-
-  CategoryRecetas_
-
-.. ############################################################################
 
 .. _svn de rst2pdf:
 .. _Hoja de estilo completa: http://code.google.com/p/rst2pdf/source/browse/trunk/rst2pdf/styles/styles.style

@@ -8,7 +8,7 @@ Email: ``jldalla AT SPAMFREE gmail DOT com``
 
 -------------------------
 
- CategoryHomepage_
+ 
 
 .. A personal home page is a nice place to publish data about yourself, like:
 

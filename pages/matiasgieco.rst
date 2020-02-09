@@ -2,7 +2,7 @@
 Matias Gieco
 ------------
 
-Debido a que no sé que poner, voy a seguir los consejos de este wiki de cómo armar mi perfil |smile|
+Debido a que no sé que poner, voy a seguir los consejos de este wiki de cómo armar mi perfil 🙂
 
 * Soy Matías Gieco, nacido bajo el mes de virgo allá por el 77. ¿Qué hago? Poco y nada.
 
@@ -60,7 +60,7 @@ Si quieren algún otro usuario y contraseña de algún otro servicio, manden un 
 
 
 
-  CategoryHomepage_
+  
 
 .. ############################################################################
 

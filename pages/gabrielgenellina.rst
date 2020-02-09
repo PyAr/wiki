@@ -8,7 +8,3 @@ Email: lainicialdeminombreseguidademiapellido arroba yahoo
 
 ...
 
-
-.. ############################################################################
-
-

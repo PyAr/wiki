@@ -64,4 +64,5 @@ Instrucciones para confirmar la asistencia y pagar la reserva en `PyCamp 2011`_
 .. _marianoreingart: /pages/marianoreingart
 .. _ramiromorales: /pages/ramiromorales
 .. _diegosarmentero: /pages/diegosarmentero
+.. _pycamp: /pages/pycamp
 .. _categorypycamp: /pages/categorypycamp
