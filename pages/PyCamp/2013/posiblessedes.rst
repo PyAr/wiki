@@ -2,6 +2,9 @@
 Posibles sedes
 ==============
 
+.. role:: strike
+   :class: strike
+
 Estas son las distintas posibles sedes para el PyCamp_ 2013. Se sometieron a votación y la ganadora es **Hotel Luz y Fuerza**. Votos y script, `acá`_.
 
 Cada sede está cargada aquí por la persona de contacto, que es la persona que averiguó todos los datos y contacto con la administración de la sede, cualquier duda preguntarle a ella/él.
@@ -410,11 +413,5 @@ Villa Maristas Mar del Plata
 .. _Mar del Plata: http://es.wikipedia.org/wiki/Mar_del_Plata
 
 .. _Videos: http://villamaristamdp.blogspot.com.ar/2009_07_01_archive.html
-
-
-
-.. role:: strike
-   :class: strike
-
 .. _pycamp: /pages/pycamp
 .. _pyar: /pages/pyar

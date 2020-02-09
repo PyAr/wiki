@@ -10,13 +10,5 @@ Blog: http://ralgozino.wordpress.com
 
 Launchpad: https://launchpad.net/~algozino
 
-GoogleCode_: http://code.google.com/u/algozino
-
--------------------------
-
- 
-
-.. ############################################################################
-
-
+GoogleCode: http://code.google.com/u/algozino
 

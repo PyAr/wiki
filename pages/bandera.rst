@@ -76,6 +76,3 @@ El presupuesto que tenemos por impresion sobre lona es de $60 por metro cuadrado
 .. _pyar@decode.com.ar: mailto:pyar@decode.com.ar
 .. _pyar: /pages/pyar
 
-
-
-

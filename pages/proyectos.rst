@@ -262,7 +262,7 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 * web2conf_
 
-  * Aplicación web simple para manejo de conferencias (registración, revisión de propuestas, cronograma de actividades con iCal, sponsors, manejo de fondos -ingresos / egresos-, páginas wiki, integración con redes sociales, generación de gafetes y certificados, etc.). Hecho con web2py. Originalmente desarrollado para PyConUs_ 2009/2010, usado luego en varios eventos regionales e internacionales en Argentina (JRSL, FLISOL, UbuntuCon_, PgDay_, PyDay_, PyCon_, etc.)
+  * Aplicación web simple para manejo de conferencias (registración, revisión de propuestas, cronograma de actividades con iCal, sponsors, manejo de fondos -ingresos / egresos-, páginas wiki, integración con redes sociales, generación de gafetes y certificados, etc.). Hecho con web2py. Originalmente desarrollado para PyConUs 2009/2010, usado luego en varios eventos regionales e internacionales en Argentina (JRSL, FLISOL, UbuntuCon, PgDay, PyDay_, PyCon_, etc.)
 
 * `Programando con Robots`_
 
@@ -284,7 +284,7 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
   * Traducción al Español de la documentación de "virtualenvwrapper"
 
-* `Pimp my pillow`_
+* `Pimp my pillow`
 
   * Pimp My Pillow will leave you with a full working Pillow installation, no more 'decoder * not available' messages! https://github.com/edvm/pimp-my-pillow
 
@@ -455,3 +455,4 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 .. _pyday: /pages/pyday
 .. _pycon: /pages/pycon
 .. _pyar: /pages/pyar
+.. _wxpython: /pages/wxpython

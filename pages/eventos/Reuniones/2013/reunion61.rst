@@ -70,3 +70,4 @@ Otros temas tratados en la PyCamp_:
 
 .. _pycamp: /pages/pycamp
 .. _pycon: /pages/pycon
+.. _pycamp: /pages/pycamp

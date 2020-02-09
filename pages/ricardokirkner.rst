@@ -12,14 +12,3 @@ LinkedIn: http://www.linkedin.com/in/ricardokirkner
 
 Email: El que quiera saber mi dirección de mail, que se suscriba a la lista del grupo, y mire desde donde escribo. :-P
 
-...
-
--------------------------
-
-
-
-  
-
-.. ############################################################################
-
-
