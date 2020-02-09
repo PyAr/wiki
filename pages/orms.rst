@@ -117,4 +117,4 @@ Experimentalmente soporta mas bases de datos, visita el sitio web de web2py y la
 .. _Mas documentación: https://docs.djangoproject.com/en/1.4/#the-model-layer
 
 
-.. _marianoguerra: /pages/marianoguerra
+.. _marianoguerra: /pages/marianoguerra.html

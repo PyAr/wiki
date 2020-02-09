@@ -93,9 +93,9 @@ De todas formas, al ser 10 personas en la capital, no es representativo de que o
 
  CategoryReuniones_
 
-.. _joaquinsorianello: /pages/joaquinsorianello
-.. _pyday: /pages/pyday
-.. _hugoruscitti: /pages/hugoruscitti
-.. _pyqt: /pages/CharlasAbiertas2010/pyqt
-.. _categoryreuniones: /pages/categoryreuniones
-.. _pycon: /pages/pycon
+.. _joaquinsorianello: /pages/joaquinsorianello.html
+.. _pyday: /pages/pyday.html
+.. _hugoruscitti: /pages/hugoruscitti.html
+.. _pyqt: /pages/CharlasAbiertas2010/pyqt.html
+.. _categoryreuniones: /pages/categoryreuniones.html
+.. _pycon: /pages/pycon.html

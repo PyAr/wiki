@@ -93,8 +93,8 @@ SAn estuvo reescribiendo luisito_ basado en una nueva estrategia charlada con Al
 
 .. _luisito: http://bitbucket.org/san/luisito
 
-.. _marianogarcia: /pages/marianogarcia
-.. _emilianodallaverdemarcozzi: /pages/emilianodallaverdemarcozzi
-.. _marcosvanetta: /pages/marcosvanetta
-.. _pycamp: /pages/pycamp
-.. _categorypycamp: /pages/categorypycamp
+.. _marianogarcia: /pages/marianogarcia.html
+.. _emilianodallaverdemarcozzi: /pages/emilianodallaverdemarcozzi.html
+.. _marcosvanetta: /pages/marcosvanetta.html
+.. _pycamp: /pages/pycamp.html
+.. _categorypycamp: /pages/categorypycamp.html

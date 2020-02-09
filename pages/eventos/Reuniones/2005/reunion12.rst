@@ -10,4 +10,4 @@ En lo Pythonico, conversamos acerca de alternativas para impulsar algún otro pr
 
 LucioTorre_ nos comentó también su idea de armar una aplicación web que sirviera como base de conocimiento y consulta para hacer un seguimiento de nuestra querida clase política. Discutimos sobre la factibilidad, y sobre la importancia de subir al barco a alguna ONG para que algo así funcione.
 
-.. _luciotorre: /pages/luciotorre
+.. _luciotorre: /pages/luciotorre.html

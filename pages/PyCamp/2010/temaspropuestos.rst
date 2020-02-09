@@ -269,19 +269,19 @@ Twisted-XMPP, Implementar un server xmpp (o parte/s), ya que no hay ningun serve
 
 .. _wokkel: http://wokkel.ik.nu/
 
-.. _joaquinsorianello: /pages/joaquinsorianello
-.. _gonzalodelgado: /pages/gonzalodelgado
-.. _ricardokirkner: /pages/ricardokirkner
-.. _juanjoconti: /pages/juanjoconti
-.. _luciotorre: /pages/luciotorre
-.. _ricardoquesada: /pages/ricardoquesada
-.. _pyweek: /pages/pyweek
-.. _marianoreingart: /pages/marianoreingart
-.. _anthonylenton: /pages/anthonylenton
-.. _alejandrosantos: /pages/alejandrosantos
-.. _leitomonk: /pages/leitomonk
-.. _pythoncard: /pages/pythoncard
-.. _danielmoisset: /pages/danielmoisset
-.. _nicoechaniz: /pages/nicoechaniz
-.. _robertoallende: /pages/robertoallende
-.. _pycamp: /pages/pycamp
+.. _joaquinsorianello: /pages/joaquinsorianello.html
+.. _gonzalodelgado: /pages/gonzalodelgado.html
+.. _ricardokirkner: /pages/ricardokirkner.html
+.. _juanjoconti: /pages/juanjoconti.html
+.. _luciotorre: /pages/luciotorre.html
+.. _ricardoquesada: /pages/ricardoquesada.html
+.. _pyweek: /pages/pyweek.html
+.. _marianoreingart: /pages/marianoreingart.html
+.. _anthonylenton: /pages/anthonylenton.html
+.. _alejandrosantos: /pages/alejandrosantos.html
+.. _leitomonk: /pages/leitomonk.html
+.. _pythoncard: /pages/pythoncard.html
+.. _danielmoisset: /pages/danielmoisset.html
+.. _nicoechaniz: /pages/nicoechaniz.html
+.. _robertoallende: /pages/robertoallende.html
+.. _pycamp: /pages/pycamp.html

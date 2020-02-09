@@ -63,5 +63,5 @@ Sin la promesa de un final feliz o “Deus ex machina” que resuelva la situaci
 
 
 
-.. _pyar: /pages/pyar
-.. _pycon: /pages/pycon
+.. _pyar: /pages/pyar.html
+.. _pycon: /pages/pycon.html

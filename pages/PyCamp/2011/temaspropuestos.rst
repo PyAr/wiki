@@ -212,7 +212,7 @@ Los tres primeros de cada zona, más el mejor segundo, pasan a una llave de 4 co
 
 .. _documentacion de lalita: http://www.taniquetil.com.ar/lalita/tutorial_sp.html
 
-.. _Gonzalo Delgado: /pages/gonzalodelgado
+.. _Gonzalo Delgado: /pages/gonzalodelgado.html
 
 .. _pilas!: http://www.pilas-engine.com.ar/
 
@@ -242,11 +242,11 @@ Los tres primeros de cada zona, más el mejor segundo, pasan a una llave de 4 co
 
 .. _Aquarius: http://www.wunderland.com/LooneyLabs/Aquarius/
 
-.. _joaquinsorianello: /pages/joaquinsorianello
-.. _marianogarcia: /pages/marianogarcia
-.. _hugoruscitti: /pages/hugoruscitti
-.. _robertoallende: /pages/robertoallende
-.. _categorypycamp: /pages/categorypycamp
-.. _tutorial: /pages/tutorial
-.. _pycamp: /pages/pycamp
-.. _pycon: /pages/pycon
+.. _joaquinsorianello: /pages/joaquinsorianello.html
+.. _marianogarcia: /pages/marianogarcia.html
+.. _hugoruscitti: /pages/hugoruscitti.html
+.. _robertoallende: /pages/robertoallende.html
+.. _categorypycamp: /pages/categorypycamp.html
+.. _tutorial: /pages/tutorial.html
+.. _pycamp: /pages/pycamp.html
+.. _pycon: /pages/pycon.html

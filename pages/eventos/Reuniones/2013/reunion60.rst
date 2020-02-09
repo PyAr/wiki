@@ -60,5 +60,5 @@ Charla en UTN Rosario
 
 José...
 
-.. _pyday: /pages/pyday
-.. _pycon: /pages/pycon
+.. _pyday: /pages/pyday.html
+.. _pycon: /pages/pycon.html

@@ -152,16 +152,16 @@ Anteriores
 
 .. ############################################################################
 
-.. _Reunión 20: /pages/eventos/Reuniones/2006/reunion20
+.. _Reunión 20: /pages/eventos/Reuniones/2006/reunion20.html
 
-.. _CaFeCONF 2006: /pages/eventos/Conferencias/cafeconf2006
+.. _CaFeCONF 2006: /pages/eventos/Conferencias/cafeconf2006.html
 
-.. _Reunión 19: /pages/eventos/Reuniones/2006/reunion19
+.. _Reunión 19: /pages/eventos/Reuniones/2006/reunion19.html
 
-.. _resultados de la votación: /pages/Bandera/resultados
+.. _resultados de la votación: /pages/Bandera/resultados.html
 
 .. _ProximaReunion:
-.. _próxima reunión: /pages/eventos/Reuniones/proximareunion
+.. _próxima reunión: /pages/eventos/Reuniones/proximareunion.html
 
 .. _GMANE: http://gmane.org/
 
@@ -207,21 +207,21 @@ Anteriores
 
 .. _como se organizó: http://www.ceportela.com.ar/como-se-hizo-la-i-jornada-python-en-santa-fe
 
-.. _como se vivió: /pages/eventos/Reuniones/2006/reunion16
+.. _como se vivió: /pages/eventos/Reuniones/2006/reunion16.html
 
 .. _1ra Jornada de Python Santa Fe: http://www.python-santafe.com.ar/
 
-.. _Wikipedia Offline: /pages/eventos/Sprints/wikipediaoffline1
+.. _Wikipedia Offline: /pages/eventos/Sprints/wikipediaoffline1.html
 
 .. _resume: http://cvresumewritingservices.org/
 
-.. _lista: /pages/listadecorreo
+.. _lista: /pages/listadecorreo.html
 
 .. _mensaje: http://mail.python.org/pipermail/python-dev/2006-February/060415.html
 
 .. _PyCon 2006: http://us.pycon.org/TX2006/HomePage
 
-.. _aquí: /pages/eventos/Conferencias/pycon2006
+.. _aquí: /pages/eventos/Conferencias/pycon2006.html
 
 
 
@@ -245,18 +245,18 @@ Anteriores
 .. role:: strike
    :class: strike
 
-.. _pyar: /pages/pyar
-.. _listadecorreo: /pages/listadecorreo
-.. _alejandrodavidweil: /pages/alejandrodavidweil
-.. _alejandrojcura: /pages/alejandrojcura
-.. _luciotorre: /pages/luciotorre
-.. _marianodraghi: /pages/marianodraghi
-.. _nubis: /pages/nubis
-.. _colectadehardware: /pages/colectadehardware
-.. _etiquetapyar: /pages/etiquetapyar
-.. _remeras: /pages/remeras
-.. _sugerencias: /pages/sugerencias
-.. _recursos: /pages/recursos
+.. _pyar: /pages/pyar.html
+.. _listadecorreo: /pages/listadecorreo.html
+.. _alejandrodavidweil: /pages/alejandrodavidweil.html
+.. _alejandrojcura: /pages/alejandrojcura.html
+.. _luciotorre: /pages/luciotorre.html
+.. _marianodraghi: /pages/marianodraghi.html
+.. _nubis: /pages/nubis.html
+.. _colectadehardware: /pages/colectadehardware.html
+.. _etiquetapyar: /pages/etiquetapyar.html
+.. _remeras: /pages/remeras.html
+.. _sugerencias: /pages/sugerencias.html
+.. _recursos: /pages/recursos.html
 
-.. _Año 2004: /pages/Noticias/2004
-.. _Año 2005: /pages/Noticias/2005
+.. _Año 2004: /pages/Noticias/2004.html
+.. _Año 2005: /pages/Noticias/2005.html

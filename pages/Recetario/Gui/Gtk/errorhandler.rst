@@ -68,4 +68,4 @@ Si aplicamos el decorador error_handler a una función, cuando lance una excepci
 
   CategoryRecetas_
 
-.. _categoryrecetas: /pages/categoryrecetas
+.. _categoryrecetas: /pages/categoryrecetas.html

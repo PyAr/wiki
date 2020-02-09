@@ -32,4 +32,4 @@ Si estas cerca o tenes alguna relación con una universidad que no tiene el Tuto
 
 .. _DIF-03497, DIF-03498: http://catalogo.info.unlp.edu.ar/cgi-bin/koha/opac-detail.pl?bib=2915
 
-.. _categorycategory: /pages/categorycategory
+.. _categorycategory: /pages/categorycategory.html

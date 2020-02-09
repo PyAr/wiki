@@ -125,7 +125,7 @@ Workshop Pre-PyCamp
 .. ############################################################################
 
 
-.. _Cronograma: /pages/PyCamp/2012/cronograma
+.. _Cronograma: /pages/PyCamp/2012/cronograma.html
 
 .. _Verónica, Bs. As.: http://en.wikipedia.org/wiki/Ver%C3%B3nica,_Buenos_Aires
 
@@ -141,21 +141,21 @@ Workshop Pre-PyCamp
 
 .. _El otro lado del PyCamp de EugeniaBahit: https://plus.google.com/u/0/photos/104151223595939241834/albums/5767077860795015489
 
-.. _Del Interior: /pages/PyCamp/2012/delinterior
+.. _Del Interior: /pages/PyCamp/2012/delinterior.html
 
-.. _Proyectos: /pages/PyCamp/2012/proyectos
+.. _Proyectos: /pages/PyCamp/2012/proyectos.html
 
-.. _Interesados: /pages/PyCamp/2012/interesados
+.. _Interesados: /pages/PyCamp/2012/interesados.html
 
-.. _Temas propuestos: /pages/PyCamp/2012/temaspropuestos
+.. _Temas propuestos: /pages/PyCamp/2012/temaspropuestos.html
 
-.. _Lista de cosas a llevar: /pages/PyCamp/2012/quellevar
+.. _Lista de cosas a llevar: /pages/PyCamp/2012/quellevar.html
 
-.. _Workshop: /pages/PyCamp/2012/workshop
+.. _Workshop: /pages/PyCamp/2012/workshop.html
 
 
 
 .. role:: underline
    :class: underline
 
-.. _categorypycamp: /pages/categorypycamp
+.. _categorypycamp: /pages/categorypycamp.html

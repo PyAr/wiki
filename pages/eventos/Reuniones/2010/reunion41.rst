@@ -67,8 +67,8 @@ Resumen del PyDay Rafaela 2010:
 
 * futuro de la comunidad pyrafaela
 
-.. _marianoreingart: /pages/marianoreingart
-.. _juanjoconti: /pages/juanjoconti
-.. _matiasgieco: /pages/matiasgieco
-.. _cesarroldan: /pages/miembros/cesarroldan
-.. _juanfisanotti: /pages/juanfisanotti
+.. _marianoreingart: /pages/marianoreingart.html
+.. _juanjoconti: /pages/juanjoconti.html
+.. _matiasgieco: /pages/matiasgieco.html
+.. _cesarroldan: /pages/miembros/cesarroldan.html
+.. _juanfisanotti: /pages/juanfisanotti.html

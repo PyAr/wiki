@@ -113,13 +113,13 @@ Anteriores
 
 .. _Jornadas Regionales de Software Libre: http://jornadas.cafelug.org.ar/8/
 
-.. _charlas y talleres sobre Python: /pages/eventos/Conferencias/8JRSL
+.. _charlas y talleres sobre Python: /pages/eventos/Conferencias/8JRSL.html
 
 .. _Livra: http://geeks.livra.com
 
 .. _Devego: http://www.devego.com
 
-.. _aquí: /pages/eventos/pythonbugday
+.. _aquí: /pages/eventos/pythonbugday.html
 
 .. _2das Jornadas de Software Libre de San Francisco: http://www.jornadas08.com.ar/
 
@@ -127,11 +127,11 @@ Anteriores
 
 .. _Mejor Lenguaje de Scripting: http://www.linuxjournal.com/article/10065
 
-.. _próxima reunión: /pages/eventos/Reuniones/proximareunion
+.. _próxima reunión: /pages/eventos/Reuniones/proximareunion.html
 
 .. _Google Maps: http://maps.google.com/maps/ms?hl=en&ptab=2&ie=UTF8&t=h&msa=0&msid=117626973029192648931.000447d968ea4d494125a&ll=-32.7688,-61.435547&spn=8.86327,14.0625&z=6&source=embed
 
-.. _ProximaReunion: /pages/eventos/Reuniones/proximareunion
+.. _ProximaReunion: /pages/eventos/Reuniones/proximareunion.html
 
 .. _Lenguaje del Año: http://www.linuxquestions.org/questions/2007-linuxquestions.org-members-choice-awards-79/programming-language-of-the-year-610237/
 
@@ -152,11 +152,11 @@ Anteriores
 .. role:: superscript
    :class: superscript
 
-.. _pyar: /pages/pyar
-.. _remerasv2: /pages/remerasv2
+.. _pyar: /pages/pyar.html
+.. _remerasv2: /pages/remerasv2.html
 
-.. _Año 2004: /pages/Noticias/2004
-.. _Año 2005: /pages/Noticias/2005
-.. _Año 2006: /pages/Noticias/2006
-.. _Año 2007: /pages/Noticias/2007
-.. _Reunion30: /pages/eventos/Reuniones/2008/reunion30
+.. _Año 2004: /pages/Noticias/2004.html
+.. _Año 2005: /pages/Noticias/2005.html
+.. _Año 2006: /pages/Noticias/2006.html
+.. _Año 2007: /pages/Noticias/2007.html
+.. _Reunion30: /pages/eventos/Reuniones/2008/reunion30.html

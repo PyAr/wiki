@@ -30,5 +30,5 @@ Se hizo la presentación de cada uno (que la deberíamos haber hecho charlaron p
 
 * PyCamp_ 2015: eh? dónde? queremos un lugar no tan cerrado, y si es posible que estemos nosotros solos y no con 500 otras personas. No recuerdo si había otra "condición" que se haya charlado. Seguramente estaremos haciendo el "llamado a propuestas" en los próximos meses.
 
-.. _pycamp: /pages/pycamp
-.. _pycon: /pages/pycon
+.. _pycamp: /pages/pycamp.html
+.. _pycon: /pages/pycon.html

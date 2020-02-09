@@ -137,5 +137,5 @@ La reunión termino oficialmente a las 23:03, luego algunos nos quedamos comenta
 
 .. _Manuel Muradás: dieresys
 
-.. _pyar: /pages/pyar
-.. _pyday: /pages/pyday
+.. _pyar: /pages/pyar.html
+.. _pyday: /pages/pyday.html

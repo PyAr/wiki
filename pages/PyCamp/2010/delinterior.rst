@@ -39,7 +39,7 @@ Que cada uno vaya posteando la info para ver cómo nos podemos reunir y dónde:
 
   * pidan celular por privado si quieren
 
-.. _juanfisanotti: /pages/juanfisanotti
-.. _juanjoconti: /pages/juanjoconti
-.. _horacioduran: /pages/horacioduran
-.. _gonzalodelgado: /pages/gonzalodelgado
+.. _juanfisanotti: /pages/juanfisanotti.html
+.. _juanjoconti: /pages/juanjoconti.html
+.. _horacioduran: /pages/horacioduran.html
+.. _gonzalodelgado: /pages/gonzalodelgado.html

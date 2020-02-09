@@ -65,19 +65,19 @@ A eso de las 23:30 se marcho el novato escriba (yo), dejando un pedido de llevar
 .. role:: strike
    :class: strike
 
-.. _guillermogonzalez: /pages/guillermogonzalez
-.. _alejandrojcura: /pages/alejandrojcura
-.. _marianodraghi: /pages/marianodraghi
-.. _alejandrodavidweil: /pages/alejandrodavidweil
-.. _pabloziliani: /pages/pabloziliani
-.. _ricardokirkner: /pages/ricardokirkner
-.. _leitomonk: /pages/leitomonk
-.. _nubis: /pages/nubis
-.. _alfonsopalomares: /pages/alfonsopalomares
-.. _luciotorre: /pages/luciotorre
-.. _remeras: /pages/remeras
-.. _pycon2006: /pages/eventos/Conferencias/pycon2006
-.. _pyar: /pages/pyar
-.. _mauricioferrari: /pages/mauricioferrari
-.. _listadecorreo: /pages/listadecorreo
-.. _hipbar: /pages/hipbar
+.. _guillermogonzalez: /pages/guillermogonzalez.html
+.. _alejandrojcura: /pages/alejandrojcura.html
+.. _marianodraghi: /pages/marianodraghi.html
+.. _alejandrodavidweil: /pages/alejandrodavidweil.html
+.. _pabloziliani: /pages/pabloziliani.html
+.. _ricardokirkner: /pages/ricardokirkner.html
+.. _leitomonk: /pages/leitomonk.html
+.. _nubis: /pages/nubis.html
+.. _alfonsopalomares: /pages/alfonsopalomares.html
+.. _luciotorre: /pages/luciotorre.html
+.. _remeras: /pages/remeras.html
+.. _pycon2006: /pages/eventos/Conferencias/pycon2006.html
+.. _pyar: /pages/pyar.html
+.. _mauricioferrari: /pages/mauricioferrari.html
+.. _listadecorreo: /pages/listadecorreo.html
+.. _hipbar: /pages/hipbar.html

@@ -20,5 +20,5 @@ Adjuntos (incluye foto en tamaño original)
 
 .. ############################################################################
 
-.. _alecu: /pages/alejandrojcura
+.. _alecu: /pages/alejandrojcura.html
 

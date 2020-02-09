@@ -32,5 +32,5 @@ Organización
 
 .. ############################################################################
 
-.. _Reunión 42: /pages/eventos/Reuniones/2010/reunion42
+.. _Reunión 42: /pages/eventos/Reuniones/2010/reunion42.html
 

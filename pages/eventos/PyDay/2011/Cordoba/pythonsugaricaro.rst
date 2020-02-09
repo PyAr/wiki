@@ -28,4 +28,4 @@ Presentación de ICARO, un entorno de robotica educativa con software libre dise
 
 .. _PyDay 2011: Eventos/PyDay/2011/Cordoba
 
-.. _categoryvideo: /pages/categoryvideo
+.. _categoryvideo: /pages/categoryvideo.html

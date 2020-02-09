@@ -95,36 +95,36 @@ Para detalles de la inscripción: http://is.gd/8zTTD
 
 .. ############################################################################
 
-.. _Mariano Mara: /pages/marianomara
+.. _Mariano Mara: /pages/marianomara.html
 
-.. _Maunuel Muradás: /pages/dieresys
+.. _Maunuel Muradás: /pages/dieresys.html
 
-.. _Joaquín Sorianello: /pages/joaquinsorianello
+.. _Joaquín Sorianello: /pages/joaquinsorianello.html
 
-.. _Santiago Suarez Ordoñez: /pages/santiagosuarezO
+.. _Santiago Suarez Ordoñez: /pages/santiagosuarezO.html
 
-.. _José Luis Dallapiccola: /pages/joseluisdallapiccola
+.. _José Luis Dallapiccola: /pages/joseluisdallapiccola.html
 
 .. _Humareda: http://www.wordreference.com/definicion/humareda
 
-.. _Lucas Shrewsbury: /pages/lucasshrewsbury
+.. _Lucas Shrewsbury: /pages/lucasshrewsbury.html
 
-.. _Angel Velásquez: /pages/angelvelasquez
+.. _Angel Velásquez: /pages/angelvelasquez.html
 
 .. _malev: http://blog.malev.com.ar
 
-.. _juanjoconti: /pages/juanjoconti
-.. _ricardokirkner: /pages/ricardokirkner
-.. _gonzalodelgado: /pages/gonzalodelgado
-.. _gonzalolarralde: /pages/gonzalolarralde
-.. _anthonylenton: /pages/anthonylenton
-.. _danielmoisset: /pages/danielmoisset
-.. _hernanolivera: /pages/hernanolivera
-.. _marianoreingart: /pages/marianoreingart
-.. _hugoruscitti: /pages/hugoruscitti
-.. _hectorsanchez: /pages/hectorsanchez
-.. _alejandrosantos: /pages/alejandrosantos
-.. _robertoallende: /pages/robertoallende
-.. _johnlenton: /pages/johnlenton
-.. _pycamp: /pages/pycamp
-.. _ricardoquesada: /pages/ricardoquesada
+.. _juanjoconti: /pages/juanjoconti.html
+.. _ricardokirkner: /pages/ricardokirkner.html
+.. _gonzalodelgado: /pages/gonzalodelgado.html
+.. _gonzalolarralde: /pages/gonzalolarralde.html
+.. _anthonylenton: /pages/anthonylenton.html
+.. _danielmoisset: /pages/danielmoisset.html
+.. _hernanolivera: /pages/hernanolivera.html
+.. _marianoreingart: /pages/marianoreingart.html
+.. _hugoruscitti: /pages/hugoruscitti.html
+.. _hectorsanchez: /pages/hectorsanchez.html
+.. _alejandrosantos: /pages/alejandrosantos.html
+.. _robertoallende: /pages/robertoallende.html
+.. _johnlenton: /pages/johnlenton.html
+.. _pycamp: /pages/pycamp.html
+.. _ricardoquesada: /pages/ricardoquesada.html

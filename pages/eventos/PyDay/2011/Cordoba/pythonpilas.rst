@@ -28,5 +28,5 @@ Pilas es un motor o biblioteca para hacer juegos de manera sencilla, orientado a
 
 .. _PyDay 2011: Eventos/PyDay/2011/Cordoba
 
-.. _hugoruscitti: /pages/hugoruscitti
-.. _categoryvideo: /pages/categoryvideo
+.. _hugoruscitti: /pages/hugoruscitti.html
+.. _categoryvideo: /pages/categoryvideo.html

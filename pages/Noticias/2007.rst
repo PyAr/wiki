@@ -64,9 +64,9 @@ Anteriores
 
 .. _Python 3000: http://python.org/download/releases/3.0/
 
-.. _Reunion23: /pages/eventos/Reuniones/2007/reunion23
+.. _Reunion23: /pages/eventos/Reuniones/2007/reunion23.html
 
-.. _ProximaReunion: /pages/eventos/Reuniones/proximareunion
+.. _ProximaReunion: /pages/eventos/Reuniones/proximareunion.html
 
 
 .. _python santa fe: http://www.pythonsantafe.com.ar/
@@ -87,8 +87,8 @@ Anteriores
 .. role:: superscript
    :class: superscript
 
-.. _pyar: /pages/pyar
+.. _pyar: /pages/pyar.html
 
-.. _Año 2004: /pages/Noticias/2004
-.. _Año 2005: /pages/Noticias/2005
-.. _Año 2006: /pages/Noticias/2006
+.. _Año 2004: /pages/Noticias/2004.html
+.. _Año 2005: /pages/Noticias/2005.html
+.. _Año 2006: /pages/Noticias/2006.html

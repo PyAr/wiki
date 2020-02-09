@@ -17,5 +17,5 @@ MarianoMara_: ¿podrá ser con el logo de Python (PSF)?
 
 CesarPortela_: ¿en lugar de la cabeza de la serpiente al lado de PyAr_?
 
-.. _marianomara: /pages/marianomara
-.. _pyar: /pages/pyar
+.. _marianomara: /pages/marianomara.html
+.. _pyar: /pages/pyar.html

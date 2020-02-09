@@ -26,4 +26,4 @@ Ejemplo:
 
   CategoryRecetas_
 
-.. _categoryrecetas: /pages/categoryrecetas
+.. _categoryrecetas: /pages/categoryrecetas.html

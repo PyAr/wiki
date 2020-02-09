@@ -229,14 +229,14 @@ Videos
 
 .. _Python Recipes - ActiveState: http://code.activestate.com/recipes/langs/python/
 
-.. _listadecorreo: /pages/listadecorreo
-.. _miniejemplos: /pages/miniejemplos
-.. _sebastianbassi: /pages/sebastianbassi
-.. _dbapi: /pages/dbapi
-.. _marianoreingart: /pages/marianoreingart
-.. _plpython: /pages/plpython
-.. _marianoreingart: /pages/marianoreingart
-.. _pythoncard: /pages/pythoncard
-.. _recetario: /pages/recetario
-.. _lista de charlas realizadas: /pages/charlas
-.. _pyar: /pages/pyar
+.. _listadecorreo: /pages/listadecorreo.html
+.. _miniejemplos: /pages/miniejemplos.html
+.. _sebastianbassi: /pages/sebastianbassi.html
+.. _dbapi: /pages/dbapi.html
+.. _marianoreingart: /pages/marianoreingart.html
+.. _plpython: /pages/plpython.html
+.. _marianoreingart: /pages/marianoreingart.html
+.. _pythoncard: /pages/pythoncard.html
+.. _recetario: /pages/recetario.html
+.. _lista de charlas realizadas: /pages/charlas.html
+.. _pyar: /pages/pyar.html

@@ -42,6 +42,6 @@ Esto es: una cama grandota.
 
 * ...
 
-.. _eloycolell: /pages/eloycolell
-.. _juanjociarlante: /pages/juanjociarlante
-.. _hugoruscitti: /pages/hugoruscitti
+.. _eloycolell: /pages/eloycolell.html
+.. _juanjociarlante: /pages/juanjociarlante.html
+.. _hugoruscitti: /pages/hugoruscitti.html

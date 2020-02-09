@@ -35,21 +35,21 @@ Indice
 * Infraestructura_
     Documentación de la infrastructura virtual de PyAr (página web, lista de correos, etc)
 
-.. _eventos: /pages/eventos
-.. _listadecorreo: /pages/listadecorreo
-.. _proyectos: /pages/proyectos
-.. _recursos: /pages/recursos
-.. _charlas: /pages/charlas
-.. _aprendiendopython: /pages/aprendiendopython
-.. _tareaspendientes: /pages/tareaspendientes
-.. _preguntasfrecuentes: /pages/preguntasfrecuentes
-.. _recetario: /pages/recetario
-.. _material: /pages/material
-.. _trabajos: /pages/trabajos
-.. _donaciones: /pages/donaciones
-.. _adoptaunnewbie: /pages/adoptaunnewbie
-.. _scipyar: /pages/scipyar
-.. _ideasparaprogramar: /pages/ideasparaprogramar
-.. _infraestructura: /pages/infraestuctura
+.. _eventos: /pages/eventos.html
+.. _listadecorreo: /pages/listadecorreo.html
+.. _proyectos: /pages/proyectos.html
+.. _recursos: /pages/recursos.html
+.. _charlas: /pages/charlas.html
+.. _aprendiendopython: /pages/aprendiendopython.html
+.. _tareaspendientes: /pages/tareaspendientes.html
+.. _preguntasfrecuentes: /pages/preguntasfrecuentes.html
+.. _recetario: /pages/recetario.html
+.. _material: /pages/material.html
+.. _trabajos: /pages/trabajos.html
+.. _donaciones: /pages/donaciones.html
+.. _adoptaunnewbie: /pages/adoptaunnewbie.html
+.. _scipyar: /pages/scipyar.html
+.. _ideasparaprogramar: /pages/ideasparaprogramar.html
+.. _infraestructura: /pages/infraestuctura.html
 
-.. _pyar: /pages/pyar
+.. _pyar: /pages/pyar.html

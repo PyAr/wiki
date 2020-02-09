@@ -99,7 +99,7 @@ Más tarde fuimos a una pizzeria a comer algo y estuvimos charlando algunos tema
 
 .. ############################################################################
 
-.. _alecu: /pages/alejandrojcura
+.. _alecu: /pages/alejandrojcura.html
 
 .. _PyCon2007: http://us.pycon.org/TX2007/HomePage
 
@@ -116,14 +116,14 @@ Más tarde fuimos a una pizzeria a comer algo y estuvimos charlando algunos tema
 .. role:: superscript
    :class: superscript
 
-.. _guillermogonzalez: /pages/guillermogonzalez
-.. _pabloziliani: /pages/pabloziliani
-.. _alejandrodavidweil: /pages/alejandrodavidweil
-.. _luciotorre: /pages/luciotorre
-.. _robertorodriguez: /pages/robertorodriguez
-.. _leitomonk: /pages/leitomonk
-.. _marianodraghi: /pages/marianodraghi
-.. _sebastianbassi: /pages/sebastianbassi
-.. _hugoruscitti: /pages/hugoruscitti
-.. _ricardoquesada: /pages/ricardoquesada
-.. _pycon: /pages/pycon
+.. _guillermogonzalez: /pages/guillermogonzalez.html
+.. _pabloziliani: /pages/pabloziliani.html
+.. _alejandrodavidweil: /pages/alejandrodavidweil.html
+.. _luciotorre: /pages/luciotorre.html
+.. _robertorodriguez: /pages/robertorodriguez.html
+.. _leitomonk: /pages/leitomonk.html
+.. _marianodraghi: /pages/marianodraghi.html
+.. _sebastianbassi: /pages/sebastianbassi.html
+.. _hugoruscitti: /pages/hugoruscitti.html
+.. _ricardoquesada: /pages/ricardoquesada.html
+.. _pycon: /pages/pycon.html

@@ -14,4 +14,4 @@ Para agregar una página a ésta categoría, agregá un link a ésta página en 
 .. ############################################################################
 
 
-.. _categorycategory: /pages/categorycategory
+.. _categorycategory: /pages/categorycategory.html

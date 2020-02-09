@@ -187,6 +187,6 @@ Una miniutilidad para editar visualmente caminos (secuencia de puntos) fue explo
 
 .. _MOVEapp: http://github.com/dlitvakb/moveapp
 
-.. _hectorsanchez: /pages/hectorsanchez
-.. _nuevositio: /pages/nuevositio
-.. _pyqt: /pages/CharlasAbiertas2010/pyqt
+.. _hectorsanchez: /pages/hectorsanchez.html
+.. _nuevositio: /pages/nuevositio.html
+.. _pyqt: /pages/CharlasAbiertas2010/pyqt.html

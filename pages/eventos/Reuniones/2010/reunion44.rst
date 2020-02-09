@@ -76,6 +76,6 @@ Lista Café y Karma
 
 .. _encuesta!: http://www.doodle.com/anbnmdctxm7qkxgr
 
-.. _pyday: /pages/pyday
-.. _pyar: /pages/pyar
-.. _pycon: /pages/pycon
+.. _pyday: /pages/pyday.html
+.. _pyar: /pages/pyar.html
+.. _pycon: /pages/pycon.html

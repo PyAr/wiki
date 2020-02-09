@@ -19,7 +19,7 @@ Obviamente, cuando la beca se otorgue, tendrán que pagar el resto del monto seg
 .. ############################################################################
 
 
-.. _la página del PyCamp: /pages/PyCamp/2013
+.. _la página del PyCamp: /pages/PyCamp/2013.html
 
-.. _pycamp: /pages/pycamp
-.. _pycon: /pages/pycon
+.. _pycamp: /pages/pycamp.html
+.. _pycon: /pages/pycon.html

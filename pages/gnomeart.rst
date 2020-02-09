@@ -35,4 +35,4 @@ Estaria bueno que aprendan a usar el modulo unittest http://docs.python.org/libr
 .. ############################################################################
 
 
-.. _comunicarthreadsconqueue: /pages/comunicarthreadsconqueue
+.. _comunicarthreadsconqueue: /pages/comunicarthreadsconqueue.html

@@ -26,5 +26,5 @@ Mail
 
 ``IDONTWANT joac AT CRIPPY joac SPAM DOT com BIG DOT ar``
 
-.. _pycamp: /pages/pycamp
-.. _pyar: /pages/pyar
+.. _pycamp: /pages/pycamp.html
+.. _pyar: /pages/pyar.html

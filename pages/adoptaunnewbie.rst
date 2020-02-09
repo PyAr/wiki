@@ -189,16 +189,16 @@ Adopciones Finalizadas
 
 .. _acá: http://www.taniquetil.com.ar/plog/post/1/507
 
-.. _marianoguerra: /pages/marianoguerra
-.. _horacioduran: /pages/horacioduran
-.. _ezequielmarquez: /pages/ezequielmarquez
-.. _willsantana: /pages/willsantana
-.. _martinvolpe: /pages/martinvolpe
-.. _brygevel: /pages/brygevel
+.. _marianoguerra: /pages/marianoguerra.html
+.. _horacioduran: /pages/horacioduran.html
+.. _ezequielmarquez: /pages/ezequielmarquez.html
+.. _willsantana: /pages/willsantana.html
+.. _martinvolpe: /pages/martinvolpe.html
+.. _brygevel: /pages/brygevel.html
 .. _Rafael E. Ferrero: mailto:rafael.ferrero@gmail.com
 
-.. _martinalderete: /pages/martinalderete
+.. _martinalderete: /pages/martinalderete.html
 
-.. _juanfisanotti: /pages/juanfisanotti
+.. _juanfisanotti: /pages/juanfisanotti.html
 
-.. _davidlitvak: /pages/davidlitvak
+.. _davidlitvak: /pages/davidlitvak.html

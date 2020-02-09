@@ -107,9 +107,9 @@ Si estas interesado en colaborar, por favor anotate en la siguiente lista, indic
 
 .. _Boston Python Workshop: http://bostonpythonworkshop.com/
 
-.. _PyCamp 2012: /pages/PyCamp/2012/workshop
+.. _PyCamp 2012: /pages/PyCamp/2012/workshop.html
 
-.. _Tutorial del Python: /pages/tutorial
+.. _Tutorial del Python: /pages/tutorial.html
 
 .. _sitio web de propuestas: http://ar.pycon.org/2012/activity/propose/workshop
 
@@ -118,7 +118,7 @@ Si estas interesado en colaborar, por favor anotate en la siguiente lista, indic
 
 .. _EducacionIT: http://www.educacionit.com.ar/
 
-.. _pyqt: /pages/CharlasAbiertas2010/pyqt
-.. _tutorial: /pages/tutorial
-.. _pyar: /pages/pyar
-.. _pycon: /pages/pycon
+.. _pyqt: /pages/CharlasAbiertas2010/pyqt.html
+.. _tutorial: /pages/tutorial.html
+.. _pyar: /pages/pyar.html
+.. _pycon: /pages/pycon.html

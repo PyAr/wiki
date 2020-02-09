@@ -64,5 +64,5 @@ MarianoReingart_
 
 .. _DbfPy: http://dbfpy.sourceforge.net/
 
-.. _marianoreingart: /pages/marianoreingart
-.. _categoryrecetas: /pages/categoryrecetas
+.. _marianoreingart: /pages/marianoreingart.html
+.. _categoryrecetas: /pages/categoryrecetas.html

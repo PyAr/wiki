@@ -54,4 +54,4 @@ Comentarios
 .. role:: small
    :class: small
 
-.. _patriciomolina: /pages/patriciomolina
+.. _patriciomolina: /pages/patriciomolina.html

@@ -1056,31 +1056,31 @@ Video Analytics events processing platform
 
 
 
-.. _juanjoconti: /pages/juanjoconti
-.. _diegosarmentero: /pages/diegosarmentero
-.. _marianoreingart: /pages/marianoreingart
-.. _dbapi: /pages/dbapi
-.. _plpython: /pages/plpython
-.. _pythoncard: /pages/pythoncard
-.. _wxpython: /pages/wxpython
-.. _web2py: /pages/web2py
-.. _juanfisanotti: /pages/juanfisanotti
-.. _openoffice: /pages/openoffice
-.. _martingaitan: /pages/martingaitan
-.. _angelfreire: /pages/angelfreire
-.. _juanfisanotti: /pages/juanfisanotti
-.. _nataliabidart: /pages/nataliabidart
-.. _nicoechaniz: /pages/nicoechaniz
-.. _matiasbordese: /pages/matiasbordese
-.. _marcelofernández: /pages/marcelofernandez
-.. _emilianodallaverdemarcozzi: /pages/emilianodallaverdemarcozzi
-.. _manuelquiñones: /pages/manuelquinones
-.. _dropybox: /pages/dropybox
-.. _wifi: /pages/wifi
-.. _manuelkaufmann: /pages/manuelkaufmann
-.. _pyconar: /pages/pyconar
-.. _pablomouzo: /pages/pablomouzo
+.. _juanjoconti: /pages/juanjoconti.html
+.. _diegosarmentero: /pages/diegosarmentero.html
+.. _marianoreingart: /pages/marianoreingart.html
+.. _dbapi: /pages/dbapi.html
+.. _plpython: /pages/plpython.html
+.. _pythoncard: /pages/pythoncard.html
+.. _wxpython: /pages/wxpython.html
+.. _web2py: /pages/web2py.html
+.. _juanfisanotti: /pages/juanfisanotti.html
+.. _openoffice: /pages/openoffice.html
+.. _martingaitan: /pages/martingaitan.html
+.. _angelfreire: /pages/angelfreire.html
+.. _juanfisanotti: /pages/juanfisanotti.html
+.. _nataliabidart: /pages/nataliabidart.html
+.. _nicoechaniz: /pages/nicoechaniz.html
+.. _matiasbordese: /pages/matiasbordese.html
+.. _marcelofernández: /pages/marcelofernandez.html
+.. _emilianodallaverdemarcozzi: /pages/emilianodallaverdemarcozzi.html
+.. _manuelquiñones: /pages/manuelquinones.html
+.. _dropybox: /pages/dropybox.html
+.. _wifi: /pages/wifi.html
+.. _manuelkaufmann: /pages/manuelkaufmann.html
+.. _pyconar: /pages/pyconar.html
+.. _pablomouzo: /pages/pablomouzo.html
 
 
 
-.. _pyar: /pages/pyar
+.. _pyar: /pages/pyar.html

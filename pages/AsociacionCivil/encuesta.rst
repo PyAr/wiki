@@ -228,6 +228,6 @@ Hay interesados en ser candidatos tentativos para los puestos auxiliares (9 voca
 .. _objetivos: https://docs.google.com/document/d/1V67iEOuqCWzYw6ndf3PQFIChZeqgKMiM13WFT5D6G2k/edit
 
 
-.. _autoridades: /pages/AsociacionCivil/autoridades
-.. _candidatos: /pages/AsociacionCivil/Autoridades/candidatos
-.. _pyar: /pages/pyar
+.. _autoridades: /pages/AsociacionCivil/autoridades.html
+.. _candidatos: /pages/AsociacionCivil/Autoridades/candidatos.html
+.. _pyar: /pages/pyar.html

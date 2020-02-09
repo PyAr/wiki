@@ -130,38 +130,38 @@ Con muchas ganas, pero sin plata
 
 .. ############################################################################
 
-.. _alecu: /pages/alejandrojcura
+.. _alecu: /pages/alejandrojcura.html
 
-.. _El rey del Humo: /pages/manuelkaufmann
+.. _El rey del Humo: /pages/manuelkaufmann.html
 
-.. _Nicolás Miyasato: /pages/miya
+.. _Nicolás Miyasato: /pages/miya.html
 
-.. _Manuel Muradás: /pages/dieresys
+.. _Manuel Muradás: /pages/dieresys.html
 
-.. _Jose Luis Dallapiccola: /pages/joseluisdallapiccola
+.. _Jose Luis Dallapiccola: /pages/joseluisdallapiccola.html
 
-.. _Roberto Rodríguez: /pages/robertorodríguez
+.. _Roberto Rodríguez: /pages/robertorodríguez.html
 
 
 
 .. role:: strike
    :class: strike
 
-.. _marcosdione: /pages/marcosdione
-.. _horacioduran: /pages/horacioduran
-.. _nicoechaniz: /pages/nicoechaniz
-.. _ricardokirkner: /pages/ricardokirkner
-.. _anthonylenton: /pages/anthonylenton
-.. _johnlenton: /pages/johnlenton
-.. _hectorsanchez: /pages/hectorsanchez
-.. _marianomara: /pages/marianomara
-.. _ramiromorales: /pages/ramiromorales
-.. _ricardoquesada: /pages/ricardoquesada
-.. _marianoreingart: /pages/marianoreingart
-.. _hugoruscitti: /pages/hugoruscitti
-.. _luciotorre: /pages/luciotorre
-.. _pabloziliani: /pages/pabloziliani
-.. _guillermogonzalez: /pages/guillermogonzalez
-.. _robertoallende: /pages/robertoallende
-.. _sebastianbassi: /pages/sebastianbassi
-.. _nicocesar: /pages/nicocesar
+.. _marcosdione: /pages/marcosdione.html
+.. _horacioduran: /pages/horacioduran.html
+.. _nicoechaniz: /pages/nicoechaniz.html
+.. _ricardokirkner: /pages/ricardokirkner.html
+.. _anthonylenton: /pages/anthonylenton.html
+.. _johnlenton: /pages/johnlenton.html
+.. _hectorsanchez: /pages/hectorsanchez.html
+.. _marianomara: /pages/marianomara.html
+.. _ramiromorales: /pages/ramiromorales.html
+.. _ricardoquesada: /pages/ricardoquesada.html
+.. _marianoreingart: /pages/marianoreingart.html
+.. _hugoruscitti: /pages/hugoruscitti.html
+.. _luciotorre: /pages/luciotorre.html
+.. _pabloziliani: /pages/pabloziliani.html
+.. _guillermogonzalez: /pages/guillermogonzalez.html
+.. _robertoallende: /pages/robertoallende.html
+.. _sebastianbassi: /pages/sebastianbassi.html
+.. _nicocesar: /pages/nicocesar.html

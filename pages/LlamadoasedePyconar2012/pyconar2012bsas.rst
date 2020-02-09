@@ -287,11 +287,11 @@ Se necesitarían 2 cámaras por aula (una fija para filmar la presentación, otr
 
 .. _Carta de Presentación: https://docs.google.com/document/pub?id=1R2WhSqZqeO3WOpysG7kU2YeA1blOtDWvkKH_ndQqZ5c
 
-.. _Reunión 51: /pages/eventos/Reuniones/2012/reunion51
+.. _Reunión 51: /pages/eventos/Reuniones/2012/reunion51.html
 
-.. _Reunión 54: /pages/eventos/Reuniones/2012/reunion54
+.. _Reunión 54: /pages/eventos/Reuniones/2012/reunion54.html
 
-.. _Reunión 5x?: /pages/Eventos/Reuniones/2012/reunion5x
+.. _Reunión 5x?: /pages/Eventos/Reuniones/2012/reunion5x.html
 
 .. _Python Entre Todos: http://revista.python.org.ar/
 
@@ -299,10 +299,10 @@ Se necesitarían 2 cámaras por aula (una fija para filmar la presentación, otr
 
 .. |PyConAr2012| image:: https://docs.google.com/document/pubimage?id=19j8m7yTCVUKyygY2YDt8CS32wunl8bkYK_-UvgoCfXM&image_id=1No-oqI2pmr3glBQ5aJ9uWfmeb50-xAE
 
-.. _pyday: /pages/pyday
-.. _marianoreingart: /pages/marianoreingart
-.. _albertopaparelli: /pages/albertopaparelli
-.. _sebastianbassi: /pages/sebastianbassi
-.. _pyar: /pages/pyar
-.. _pycamp: /pages/pycamp
-.. _pycon: /pages/pycon
+.. _pyday: /pages/pyday.html
+.. _marianoreingart: /pages/marianoreingart.html
+.. _albertopaparelli: /pages/albertopaparelli.html
+.. _sebastianbassi: /pages/sebastianbassi.html
+.. _pyar: /pages/pyar.html
+.. _pycamp: /pages/pycamp.html
+.. _pycon: /pages/pycon.html

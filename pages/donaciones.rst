@@ -8,7 +8,7 @@ Por favor, elegí una de las opciones de abajo, ¡y muchas gracias!
 
 .. class:: alert alert-warning
 
-   See `English version </pages/donations>`_
+   See `English version </pages/donations>`_.html
 
 -------------------------
 
@@ -75,4 +75,4 @@ Gracias!!
 
 
 
-.. _pyar: /pages/pyar
+.. _pyar: /pages/pyar.html

@@ -102,6 +102,6 @@ La propuesta es que hugoruscitti trabaje en un futuro manual de programación pa
 .. _acá: http://python.org.ar/pyar/NuevoSitio
 
 
-.. _pycon: /pages/pycon
-.. _pycamp: /pages/pycamp
-.. _pyar: /pages/pyar
+.. _pycon: /pages/pycon.html
+.. _pycamp: /pages/pycamp.html
+.. _pyar: /pages/pyar.html

@@ -73,6 +73,6 @@ El nombre del evento, lugar, fecha y logo (la serpiente de wx) se despegan y se 
 * Foto:
 
 
-.. _pycon: /pages/pycon
+.. _pycon: /pages/pycon.html
 
-.. _pyar: /pages/pyar
+.. _pyar: /pages/pyar.html

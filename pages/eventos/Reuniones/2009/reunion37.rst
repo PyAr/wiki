@@ -20,4 +20,4 @@ Bar  `El Cairo"`_
 
 .. _El Cairo": http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=101867880409776015898.0004715cb637fee827659&ll=-32.944928,-60.638437&spn=0.002922,0.005381&t=h&z=18"
 
-.. _pycon: /pages/pycon
+.. _pycon: /pages/pycon.html

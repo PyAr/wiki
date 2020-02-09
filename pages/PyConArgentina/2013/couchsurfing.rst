@@ -52,5 +52,5 @@ Guests que no buscan mas
 
 * Mariano Guerra (mariano en marianoguerra punto org), buscaba cama/sillon/alfombra/rincon
 
-.. _emilianodallaverdemarcozzi: /pages/emilianodallaverdemarcozzi
-.. _pycon: /pages/pycon
+.. _emilianodallaverdemarcozzi: /pages/emilianodallaverdemarcozzi.html
+.. _pycon: /pages/pycon.html

@@ -169,25 +169,25 @@ Fotos
 
 .. _Hay un mapa: http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=105533268989834891728.0004435f0d040c4a222f5&t=h&z=18
 
-.. _perrito: /pages/horacioduran
+.. _perrito: /pages/horacioduran.html
 
-.. _Mariano Mara: /pages/marianomara
+.. _Mariano Mara: /pages/marianomara.html
 
-.. _Dave: /pages/alejandrodavidweil
+.. _Dave: /pages/alejandrodavidweil.html
 
-.. _Página de fotos: /pages/PyCamp/2009/fotos
+.. _Página de fotos: /pages/PyCamp/2009/fotos.html
 
-.. _comollegar: /pages/PyCamp/2009/comollegar
-.. _temaspropuestos: /pages/PyCamp/2009/temaspropuestos
-.. _pycamp2009resultados: /pages/pycamp2009resultados
-.. _horacioduran: /pages/horacioduran
-.. _johnlenton: /pages/johnlenton
-.. _luciotorre: /pages/luciotorre
-.. _anthonylenton: /pages/anthonylenton
-.. _hugoruscitti: /pages/hugoruscitti
-.. _pabloziliani: /pages/pabloziliani
-.. _marianoreingart: /pages/marianoreingart
-.. _hectorsanchez: /pages/hectorsanchez
-.. _TemasPropuestos: /pages/PyCamp/2009/temaspropuestos
-.. _QuienesVan: /pages/PyCamp/2009/quienesvan
-.. _RequerimientosDietarios: /pages/PyCamp/2009/requerimientosdietarios
+.. _comollegar: /pages/PyCamp/2009/comollegar.html
+.. _temaspropuestos: /pages/PyCamp/2009/temaspropuestos.html
+.. _pycamp2009resultados: /pages/pycamp2009resultados.html
+.. _horacioduran: /pages/horacioduran.html
+.. _johnlenton: /pages/johnlenton.html
+.. _luciotorre: /pages/luciotorre.html
+.. _anthonylenton: /pages/anthonylenton.html
+.. _hugoruscitti: /pages/hugoruscitti.html
+.. _pabloziliani: /pages/pabloziliani.html
+.. _marianoreingart: /pages/marianoreingart.html
+.. _hectorsanchez: /pages/hectorsanchez.html
+.. _TemasPropuestos: /pages/PyCamp/2009/temaspropuestos.html
+.. _QuienesVan: /pages/PyCamp/2009/quienesvan.html
+.. _RequerimientosDietarios: /pages/PyCamp/2009/requerimientosdietarios.html

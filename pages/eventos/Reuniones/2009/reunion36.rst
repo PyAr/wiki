@@ -20,5 +20,5 @@ Les pido mil disculpas, pero estoy escribiendo esto 3 meses despues de la reunio
 
 * Python del lado del cliente en aplicaciones Web. Estado de las nuevas tecnologías.
 
-.. _pycamp: /pages/pycamp
-.. _pycon: /pages/pycon
+.. _pycamp: /pages/pycamp.html
+.. _pycon: /pages/pycon.html

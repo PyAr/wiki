@@ -39,4 +39,4 @@ saludos.
 
 .. _La Casa del Queso: http://www.lacasadelqueso.com.ar/
 
-.. _pyar: /pages/pyar
+.. _pyar: /pages/pyar.html

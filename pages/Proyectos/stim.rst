@@ -27,11 +27,11 @@ También PabloZiliani_ y nueces nos ayudaron a testear.
 
 .. _un trac: https://opensvn.csie.org/traccgi/PyAr/trac.cgi/wiki/STIM
 
-.. _tenuki: /pages/alejandrodavidweil
-.. _alecu: /pages/alejandrojcura
-.. _leitomonk: /pages/leitomonk
-.. _nubis: /pages/nubis
-.. _pabloziliani: /pages/pabloziliani
+.. _tenuki: /pages/alejandrodavidweil.html
+.. _alecu: /pages/alejandrojcura.html
+.. _leitomonk: /pages/leitomonk.html
+.. _nubis: /pages/nubis.html
+.. _pabloziliani: /pages/pabloziliani.html
 
-.. _pyar: /pages/pyar
-.. _luciotorre: /pages/luciotorre
+.. _pyar: /pages/pyar.html
+.. _luciotorre: /pages/luciotorre.html

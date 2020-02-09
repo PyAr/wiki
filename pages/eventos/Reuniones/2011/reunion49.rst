@@ -50,5 +50,5 @@ Seguro faltó algo, pero esto es lo mas importante me parece (y es lo que tengo 
 
  CategoryReuniones_
 
-.. _ramiroalgozino: /pages/ramiroalgozino
-.. _categoryreuniones: /pages/categoryreuniones
+.. _ramiroalgozino: /pages/ramiroalgozino.html
+.. _categoryreuniones: /pages/categoryreuniones.html

@@ -8,11 +8,11 @@ Sprints
 
 .. ############################################################################
 
-.. _STIM: /pages/Proyectos/stim
+.. _STIM: /pages/Proyectos/stim.html
 
 .. _Primera Jornada de Python en Santa Fé: http://www.python-santafe.com.ar/
 
 .. _Gleducar: http://www.gleducar.org.ar/
 
-.. _Wikipedia Offline: /pages/eventos/Sprints/wikipediaoffline1
+.. _Wikipedia Offline: /pages/eventos/Sprints/wikipediaoffline1.html
 

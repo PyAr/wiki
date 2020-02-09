@@ -30,4 +30,4 @@ http://i.imgur.com/hZGBi.jpg
 .. _Formato JPG: http://i.imgur.com/hZGBi.jpg
 
 
-.. _pyar: /pages/pyar
+.. _pyar: /pages/pyar.html

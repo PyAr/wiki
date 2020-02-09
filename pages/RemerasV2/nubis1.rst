@@ -27,4 +27,4 @@ Comentarios
 
 * PabloZiliani_: Me encantó. Soez, como corresponde ()
 
-.. _pabloziliani: /pages/pabloziliani
+.. _pabloziliani: /pages/pabloziliani.html
