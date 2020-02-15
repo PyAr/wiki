@@ -30,71 +30,7 @@ Tareas Pendientes
 
 * :strike:`visita de reconocimiento` el lugar está genial
 
-* averiguar remeras 
+* averiguar remeras
 
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
 
 .. _joaquinsorianello: /joaquinsorianello

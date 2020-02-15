@@ -1,5 +1,5 @@
 
-* Juegos de mesa 
+* Juegos de mesa
 
 * Patchcord (Cable de red)
 
@@ -37,14 +37,5 @@ si tenes ganas de hacer dist-upgrade o pacman -Syu
 --------------------------------------------------
 
 * Hacelo en tu casa antes de venir
-
--------------------------
-
- CategoryPyCamp_
-
-
-
-.. role:: strike
-   :class: strike
 
 .. _categorypycamp: /categorypycamp

@@ -22,7 +22,7 @@ Documentación
 Difusión
 --------
 
-* :strike:`Difundir` `PyConArgentina/2012/LlamadoSponsors`_:strike:`,` `PyConArgentina/2012/LlamadoPropuestas`_:strike:`, etc. !!!!!` 
+* :strike:`Difundir` `PyConArgentina/2012/LlamadoSponsors`_:strike:`,` `PyConArgentina/2012/LlamadoPropuestas`_:strike:`, etc. !!!!!`
 
 * :strike:`Difundir` `PyConArgentina/2012/PressRelease`_
 
@@ -43,24 +43,24 @@ Difusión
 Contenidos Web
 --------------
 
-* :strike:`Terminar página` http://ar.pycon.org/2012/conference/publicize?lang=es :strike:`(traducir de` http://ar.pycon.org/2012/conference/publicize?lang=en:strike:`)` 
+* :strike:`Terminar página` http://ar.pycon.org/2012/conference/publicize?lang=es :strike:`(traducir de` http://ar.pycon.org/2012/conference/publicize?lang=en:strike:`)`
 
-* :strike:`Traducir` http://ar.pycon.org/2012/conference/proposals?lang=en :strike:`(al ingles)` 
+* :strike:`Traducir` http://ar.pycon.org/2012/conference/proposals?lang=en :strike:`(al ingles)`
 
-* :strike:`Traducir` http://ar.pycon.org/2012/conference/diversity?lang=es :strike:`(al español)` 
+* :strike:`Traducir` http://ar.pycon.org/2012/conference/diversity?lang=es :strike:`(al español)`
 
-* :strike:`Crear página` http://ar.pycon.org/2012/conference/registration?lang=es :strike:`(traducir de` http://ar.pycon.org/2012/conference/registration?lang=en:strike:`)` 
+* :strike:`Crear página` http://ar.pycon.org/2012/conference/registration?lang=es :strike:`(traducir de` http://ar.pycon.org/2012/conference/registration?lang=en:strike:`)`
 
-* :strike:`Crear página` http://ar.pycon.org/2012/conference/volunteer?lang=es  [MarianoReingart_] 
+* :strike:`Crear página` http://ar.pycon.org/2012/conference/volunteer?lang=es  [MarianoReingart_]
 
 *  :strike:`Crear página` http://ar.pycon.org/2012/conference/press   [orfi]
 
 Revisión y Selección de Charlas
 -------------------------------
 
-* :strike:`Hacer el llamado a revisores para formar el comité de programa` 
+* :strike:`Hacer el llamado a revisores para formar el comité de programa`
 
-* :strike:`Hacer el llamado a votación del público (preferencias no vinculantes)` 
+* :strike:`Hacer el llamado a votación del público (preferencias no vinculantes)`
 
 * :strike:`Pre-seleccinar charlas`
 
@@ -81,11 +81,11 @@ Sitio Web
 
 * :strike:`Aplicar últimas correcciones menu y demás` [MarianoReingart_]
 
-* :strike:`Ajustar notificaciones (incluir url del comentario, actividad, etc.)` 
+* :strike:`Ajustar notificaciones (incluir url del comentario, actividad, etc.)`
 
-* :strike:`Preparar Integración con` DineroMail_ :strike:`(bono contribución)`  [AlanEtkin_] 
+* :strike:`Preparar Integración con` DineroMail_ :strike:`(bono contribución)`  [AlanEtkin_]
 
-* :strike:`Probar generación de PDF (badge y certificados)` 
+* :strike:`Probar generación de PDF (badge y certificados)`
 
 * :strike:`Mejorar Schedule (Cronograma), hacer una tabla como` `PyCon US`_ [AlanEtkin_]
 
@@ -94,7 +94,7 @@ Sitio Web
 Gráfica
 -------
 
-* :strike:`Diseñar Logo y CSS para web` 
+* :strike:`Diseñar Logo y CSS para web`
 
 * :strike:`Diseñar logo light` [JuanBC]
 
@@ -133,7 +133,7 @@ Impresiones, Materiales y Regalos
 
 * :strike:`Definir y Comprar Bolsas o Carpetas` resuelto con sponsor
 
-* Definir y Comprar Identificadores 
+* Definir y Comprar Identificadores
 
 * Definir y comprar Colgante (con llavero?)
 
@@ -161,7 +161,7 @@ Acreditación
 
 * Armar stand de acreditación
 
-* Reunir `PyConArgentina/2012/EncargadosAcreditacion`_ 
+* Reunir `PyConArgentina/2012/EncargadosAcreditacion`_
 
 * Instalar PC para seguimiento de asistentes
 
@@ -199,286 +199,9 @@ Fiestas y Social
 
 
 
-
-
-
-
-
 .. _PyCon US: https://us.pycon.org/2012/schedule/
 
 
-
-
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
 
 .. _marianoreingart: /marianoreingart
 .. _sebastianbassi: /sebastianbassi

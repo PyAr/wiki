@@ -30,22 +30,3 @@ Los servidores de usla son:
    190.228.30.153 ns1.cafelug.org.ar
 
 
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-
-
-
-.. role:: strike
-   :class: strike
-

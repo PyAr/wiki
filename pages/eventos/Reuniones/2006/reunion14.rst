@@ -60,11 +60,6 @@ A eso de las 23:30 se marcho el novato escriba (yo), dejando un pedido de llevar
 
 .. _ORCA: http://quark.fe.up.pt/orca/index.es.html
 
-
-
-.. role:: strike
-   :class: strike
-
 .. _guillermogonzalez: /guillermogonzalez
 .. _alejandrojcura: /alejandrojcura
 .. _marianodraghi: /marianodraghi

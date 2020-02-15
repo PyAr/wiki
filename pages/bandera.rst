@@ -5,9 +5,6 @@ Bandera para PyAr
 .. role:: underline
    :class: underline
 
-.. role:: strike
-   :class: strike
-
 <strong class="highlight">.. raw:: html
 
 </strong>[Table not converted]

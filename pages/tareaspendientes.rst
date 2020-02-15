@@ -62,16 +62,6 @@ Promoción
 .. ############################################################################
 
 
-
-
-
-
-
-
-
-.. role:: strike
-   :class: strike
-
 .. _pyar: /pyar
 .. _noticias: /noticias
 .. _recursos: /recursos

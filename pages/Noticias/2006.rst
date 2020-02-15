@@ -240,11 +240,6 @@ Anteriores
 .. role:: big
    :class: big
 
-
-
-.. role:: strike
-   :class: strike
-
 .. _pyar: /pyar
 .. _listadecorreo: /listadecorreo
 .. _alejandrodavidweil: /alejandrodavidweil

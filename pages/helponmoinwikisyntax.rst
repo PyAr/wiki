@@ -122,7 +122,7 @@ Internal Links
 
 * `description <../PageName#anchorname>`__
 
-* 
+*
 
 External Links
 --------------
@@ -613,11 +613,6 @@ Its visibility gets toggled the same way.
 
 .. role:: big
    :class: big
-
-
-
-.. role:: strike
-   :class: strike
 
 
 
