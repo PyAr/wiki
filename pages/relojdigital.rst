@@ -6,7 +6,7 @@ Reloj Digital
 
 **Screenshot:**
 
-`temp.jpg </images/RelojDigital/temp.jpg>`_
+.. image:: /images/RelojDigital/temp.jpg
 
 ::
 

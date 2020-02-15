@@ -6,7 +6,7 @@ ejemplo que muestra todos los iconos stock de gtk con su respectivo nombre
 
 un screenshot:
 
-`stock-gtk.png </images/Recetario/Gui/Gtk/StockItems/stock-gtk.png>`_
+.. image:: /images/Recetario/Gui/Gtk/StockItems/stock-gtk.png
 
 ::
 

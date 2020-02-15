@@ -3,7 +3,7 @@ Esta página es complementaria a la propuesta de renovación del Sitio, de ahí 
 
 Propuesta de Alecu:
 
-`logo-pyar-2012.png </images/NuevoLogo/logo-pyar-2012.png>`_
+.. image:: /images/NuevoLogo/logo-pyar-2012.png
 
 *
 

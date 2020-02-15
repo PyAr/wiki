@@ -3,7 +3,7 @@
 
 Otra más 🙂
 
-`LauBenech5.png </images/RemerasV2/LauBenech5/LauBenech5.png>`_
+.. image:: /images/RemerasV2/LauBenech5/LauBenech5.png
 
 
 

@@ -11,12 +11,12 @@ Apoyemos a la solpiente, derivemos arte de  archivo. (nota: la tipografía usada
 Subversión uno
 ~~~~~~~~~~~~~~
 
-`1a.png </images/RemerasV2/PabloZiliani1/1a.png>`_
+.. image:: /images/RemerasV2/PabloZiliani1/1a.png
 
 Subversión dos (con infograsada)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`1b.png </images/RemerasV2/PabloZiliani1/1b.png>`_
+.. image:: /images/RemerasV2/PabloZiliani1/1b.png
 
 Archivo
 -------

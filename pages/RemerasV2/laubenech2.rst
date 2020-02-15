@@ -3,11 +3,11 @@
 
 ¡Mirá! ¡Dos remeras!
 
-`LauBenech2a.png </images/RemerasV2/LauBenech2/LauBenech2a.png>`_
+.. image:: /images/RemerasV2/LauBenech2/LauBenech2a.png
 
 
 
-`LauBenech2b.png </images/RemerasV2/LauBenech2/LauBenech2b.png>`_
+.. image:: /images/RemerasV2/LauBenech2/LauBenech2b.png
 
 
 

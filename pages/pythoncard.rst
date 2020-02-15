@@ -78,7 +78,7 @@ Editor de Pantallas
 
 PythonCard viene con un editor de pantallas (resource/layout editor), se encuentra en el menu Inicio, PythonCard, Layout Editor (o buscar el script en C:\Python25\Lib\site-packages\PythonCard\tools\resourceEditor\layoutEditor.py o similar para la plataforma en que estemos). Debería aparecer la pantalla de edición (ver imágenes y más información en `sitio de PythonCard <http://pythoncard.sourceforge.net/resource_editor_overview.html>`__):
 
-`pycard1.png </images/PythonCard/pycard1.png>`_
+.. image:: /images/PythonCard/pycard1.png
 
 Ejemplo de como crear una aplicación de prueba (que tome una expresión/comando python ingresado por el usuario y devuelva su resultado):
 
@@ -121,7 +121,7 @@ Editor de Código
 
 PythonCard viene tambien con un editor de código, se encuentra en el menú Inicio, PythonCard, Code Editor (o buscar el script en C:\Python25\Lib\site-packages\PythonCard\tools\resourceEditor\codeEditor.py o similar para la plataforma en que estemos). También esta el *Tabbed Code Editor* que nos permite editar múltiples archivos y seleccionar los componentes y sus eventos. Debería aparecer la pantalla de edición de código (ver imágenes y más información en `sitio de PythonCard <http://pythoncard.sourceforge.net/tools/codeEditor.html>`__):
 
-`pycard2.png </images/PythonCard/pycard2.png>`_
+.. image:: /images/PythonCard/pycard2.png
 
 Continuando con el ejemplo de como crear una aplicación de prueba (ver sección anterior):
 
@@ -178,7 +178,7 @@ Código completo final del ejemplo:
 Pantalla del ejemplo ejecutandose:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`prueba.png </images/PythonCard/prueba.png>`_
+.. image:: /images/PythonCard/prueba.png
 
 .. ############################################################################
 

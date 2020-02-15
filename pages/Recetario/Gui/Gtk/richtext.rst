@@ -168,7 +168,7 @@ Ejemplo sobre como mostrar texto con formato en un gtk.TextView, se crea una cla
         test()
 
 
-`GtkRichText.png </images/Recetario/Gui/Gtk/RichText/GtkRichText.png>`_
+.. image:: /images/Recetario/Gui/Gtk/RichText/GtkRichText.png
 
 mas info:
 

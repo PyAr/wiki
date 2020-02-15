@@ -4,7 +4,7 @@ GtkHBox
 
 ejemplo que muestra el uso de hbox (cajas horizontales) para ordenar elementos de forma horizontal
 
-`hbox.png </images/Recetario/Gui/Gtk/HBox/hbox.png>`_
+.. image:: /images/Recetario/Gui/Gtk/HBox/hbox.png
 
 ::
 

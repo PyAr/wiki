@@ -69,52 +69,52 @@ Arranque
 
 Al ejecutar web2py nos mostrará la pantalla de bienvenida:
 
-`bienvenida.png </images/Web2Py/bienvenida.png>`_
+.. image:: /images/Web2Py/bienvenida.png
 
 Web2py trae incorporado un servidor web para desarrollo, para iniciarlo deberemos elegir y ingresar una contraseña de administrador propia (por ej. 'abc') y presionar ``start``:
 
-`servidor.png </images/Web2Py/servidor.png>`_
+.. image:: /images/Web2Py/servidor.png
 
 Bienvenida
 ~~~~~~~~~~
 
 Al iniciar, web2py lanzará un explorador con la página de bienvenida_ predeterminada:
 
-`welcome.png </images/Web2Py/welcome.png>`_
+.. image:: /images/Web2Py/welcome.png
 
 Interfaz Administrativa
 ~~~~~~~~~~~~~~~~~~~~~~~
 
 Allí podremos ver los ejemplos interactivos, documentación y lo más importante, empezar a crear y editar nuestras aplicaciones web, yendo a la  http://127.0.0.1:8000/admin/:
 
-`admin-login.png </images/Web2Py/admin-login.png>`_
+.. image:: /images/Web2Py/admin-login.png
 
 En dicha página, ingresar la contraseña previamente escogida en los pasos previos, y se abrirá un índice con las aplicaciones instaladas en esta instancia:
 
-`admin-site.png </images/Web2Py/admin-site.png>`_
+.. image:: /images/Web2Py/admin-site.png
 
 Por ejemplos, podemos ingresar a la aplicación welcome_ (bienvenida), presionando el enlace EDIT (editar):
 
-`admin-design.png </images/Web2Py/admin-design.png>`_
+.. image:: /images/Web2Py/admin-design.png
 
 Y allí, por ejemplo, podemos modificar el código fuente del controlador principal (`default.py`_ presionando en el link edit (editar):
 
-`admin-edit.png </images/Web2Py/admin-edit.png>`_
+.. image:: /images/Web2Py/admin-edit.png
 
 Administración de Base de datos
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Web2py viene con una controlador llamado AppAdmin_ que sirve para consultar, modificar e importar/exportar los datos de nuestra aplicación. Se ingresa por la interfaz administrativa, en el link `Database Administration`_:
 
-`appadmin-index.png </images/Web2Py/appadmin-index.png>`_
+.. image:: /images/Web2Py/appadmin-index.png
 
 Allí podemos agregar un nuevo registro, por ejemplo en la tabla usuarios (insert new record):
 
-`appadmin-insert.png </images/Web2Py/appadmin-insert.png>`_
+.. image:: /images/Web2Py/appadmin-insert.png
 
 Y también es posible realizar consultas y actualizaciones:
 
-`appadmin-query.png </images/Web2Py/appadmin-query.png>`_
+.. image:: /images/Web2Py/appadmin-query.png
 
 .. ############################################################################
 

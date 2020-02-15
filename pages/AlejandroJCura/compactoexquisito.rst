@@ -5,7 +5,7 @@ Commit is to be joyless
 -----------------------
 
 
-`mansoor-rana.png </images/AlejandroJCura/CompactoExquisito/mansoor-rana.png>`_
+.. image:: /images/AlejandroJCura/CompactoExquisito/mansoor-rana.png
 
 La ausencia de melodías en este disco parece algo planificado por Mansoor para volver a sorprendernos.
 Y es que el vigesimosegundo disco editado en 2009 de este multifacético artista, juega entre los ritmos

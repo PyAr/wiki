@@ -1,5 +1,5 @@
 
-`snapshot10.png </images/RemerasV2/RamiroMorales1/snapshot10.png>`_
+.. image:: /images/RemerasV2/RamiroMorales1/snapshot10.png
 
 Comentarios
 -----------

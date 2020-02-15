@@ -6,7 +6,7 @@ Ventana de Password que Vibra
 
 **Screenshot:**
 
-`temp.jpg </images/VentanaPasswordVibra/temp.jpg>`_
+.. image:: /images/VentanaPasswordVibra/temp.jpg
 
 ::
 

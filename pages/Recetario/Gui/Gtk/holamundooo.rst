@@ -4,7 +4,7 @@ GtkHolaMundoOO
 
 ejemplo que hace lo mismo que GtkHolaMundo_ pero orientado a objetos
 
-`Hola mundo oo.png </images/Recetario/Gui/Gtk/HolaMundoOO/Hola%20mundo%20oo.png>`_
+.. image:: /images/Recetario/Gui/Gtk/HolaMundoOO/Hola%20mundo%20oo.png
 
 ::
 

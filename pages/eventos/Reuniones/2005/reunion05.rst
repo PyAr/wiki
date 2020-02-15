@@ -27,15 +27,15 @@ Se llevó a cabo la quinta reunión de PyAr_ con total éxito. Como MarianoDragh
 Fotos sacadas por Lucio
 -----------------------
 
-`fotopyar1.jpg </images/Eventos/Reuniones/2005/Reunion05/fotopyar1.jpg>`_
+.. image:: /images/Eventos/Reuniones/2005/Reunion05/fotopyar1.jpg
 
 De izquierda a derecha, redactado por una persona disléxica y que no tiene memoria para los nombres: La sombra negra es Alejandro (Dave, para HAL) Detras de él, estoy yo, LucioTorre_. Y atras mío Octavio. A la izquierda de Octavio (corriendo la mirada un poco a la derecha), lo encontramos a FacundoBatista_. Frente a el esta Leonardo (quien vino desde San Luis exclusivisimamente para la reunion). Frente a el esta Santiago, apenas reconocible. Y en la punta, poniendo la mitad de la cara a la luz y la mitad a la sombra, lo tenemos al procer de PyAr_, PabloZiliani_.
 
-`fotopyar2.jpg </images/Eventos/Reuniones/2005/Reunion05/fotopyar2.jpg>`_
+.. image:: /images/Eventos/Reuniones/2005/Reunion05/fotopyar2.jpg
 
 Acá hay menos gente, por lo que es mas fácil, de izquierda a derecha: Octavio, Facundo, Leonardo, Pablo.
 
-`fotopyar3.jpg </images/Eventos/Reuniones/2005/Reunion05/fotopyar3.jpg>`_
+.. image:: /images/Eventos/Reuniones/2005/Reunion05/fotopyar3.jpg
 
 Leonardo y Facundo.
 

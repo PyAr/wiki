@@ -4,11 +4,11 @@ Remeras de PyAr
 
 Adjuntamos el diseño de las remeras de PyAr_, versión 1.0 ;-). Para el proceso de la **nueva edición**, en RemerasV2_.
 
-`remerapyar.jpg </images/Remeras/remerapyar.jpg>`_
+.. image:: /images/Remeras/remerapyar.jpg
 
 Acá pueden ver el artwork original del cual salieron, creado alguna noche allá en otra vida en la casa de `un tal Pablo`_, junto con LucioTorre_ y MarianoDraghi_.
 
-`remeras.png </images/Remeras/remeras.png>`_
+.. image:: /images/Remeras/remeras.png
 
 Si quieren, también pueden bajarse la versión SVG:
 

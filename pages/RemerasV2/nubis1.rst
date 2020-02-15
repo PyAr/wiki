@@ -8,11 +8,11 @@ Versión 1.0 de NubIs
 
 * Hay una version real con una modificacion posible si llegara a ganar y el diseño no entra en la remera.
 
-`nubis01.png </images/RemerasV2/Nubis1/nubis01.png>`_
+.. image:: /images/RemerasV2/Nubis1/nubis01.png
 
-`nubis02.png </images/RemerasV2/Nubis1/nubis02.png>`_
+.. image:: /images/RemerasV2/Nubis1/nubis02.png
 
-`real01.png </images/RemerasV2/Nubis1/real01.png>`_
+.. image:: /images/RemerasV2/Nubis1/real01.png
 
 **Diseño**
 

@@ -4,7 +4,7 @@ GtkVBox
 
 ejemplo que muestra el uso de vbox (cajas verticales) para ordenar elementos de forma vertical
 
-`vbox.png </images/Recetario/Gui/Gtk/VBox/vbox.png>`_
+.. image:: /images/Recetario/Gui/Gtk/VBox/vbox.png
 
 ::
 

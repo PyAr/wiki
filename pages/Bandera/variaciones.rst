@@ -5,14 +5,14 @@ Con y sin versalitas
 Forma original
 --------------
 
-`ganadora-stretch.png </images/Bandera/variaciones/ganadora-stretch.png>`_
+.. image:: /images/Bandera/variaciones/ganadora-stretch.png
 
 *
 
 Con PyAr en versalitas
 ----------------------
 
-`stretch-versalitas.png </images/Bandera/variaciones/stretch-versalitas.png>`_
+.. image:: /images/Bandera/variaciones/stretch-versalitas.png
 
 *
 
