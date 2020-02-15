@@ -100,9 +100,9 @@ Hogar German Frers
 
 **Qué onda el lugar: 5 pycampitas**
 
-* Muy tranquilo, cero ruidos, mucho verde, "en el medio del campo". 
+* Muy tranquilo, cero ruidos, mucho verde, "en el medio del campo".
 
-* Hay varias actividades para hacer dentro del predio (hasta pileta, incluida en el precio) 
+* Hay varias actividades para hacer dentro del predio (hasta pileta, incluida en el precio)
 
 * En el medio de la colonia Suiza, a 2 Km del rio.
 
@@ -110,13 +110,13 @@ Hogar German Frers
 
 **Qué onda las habitaciones: 4 pycampitas**
 
-* Son habitaciones sextuples (10) con baño y duchas compartidas. 
+* Son habitaciones sextuples (10) con baño y duchas compartidas.
 
 * También hay 3 habitaciones: 1 triple y 1 cuadruple y una quintuple, con baño privado.
 
 **Qué onda la comida: 3 pycampitas**
 
-* (3 desayunos,4 almuerzos, 4 meriendas y 3 cenas). 
+* (3 desayunos,4 almuerzos, 4 meriendas y 3 cenas).
 
 *  Las comidas incluyen agua y jugo (hay proveeduria para comprar otra cosa si se desea).
 
@@ -135,7 +135,7 @@ Hogar German Frers
 
 * No se si ofrecen el servicio de asado para la última cena.
 
-* Hay que decidir con bastante anticipacion. 
+* Hay que decidir con bastante anticipacion.
 
 **Disponibilidad:** queda averiguar fechas.
 
@@ -258,7 +258,7 @@ Las habitaciones cuentan con enchufes y aire acondicionado. Se pueden agregar za
 * Habitación 3 con 4 camas (cucheta) y con baño privado (aloja 8 personas).
 * Habitación 4 con 3 camas (cucheta) y con baño privado (aloja 6 personas).
 
-El lugar cuenta con una cocina y una heladera que se comparte con el resto de las personas alojadas. 
+El lugar cuenta con una cocina y una heladera que se comparte con el resto de las personas alojadas.
 
 
 
@@ -286,7 +286,7 @@ Se ingresa Viernes por la tarde y se sale Lunes por la mañana.
 Disponibilidad: queda averiguar fechas.
 
 * Se necesita confirmar la cantidad aproximada para hacer los preparativos. (Para lo cual se desarrollara un sistema de registro online para reservas).
-* No hay fecha límite de reserva. 
+* No hay fecha límite de reserva.
 * Por cuestiones de organización, sería bueno confirmar antes el alojamiento requerido, es decir, las camas como mínimo dos semanas antes.
 
 
@@ -295,16 +295,16 @@ Disponibilidad: queda averiguar fechas.
 
 * No se cobra entrada al lugar, es una institución del estado (Instituto Nacional de Tecnología Agropecuaria de El Colorado)
 * Comodidad en las habitaciones. Todas cuentan con aire acondicionado
-* A 800 mts del lugar propuesto, existe el Camping de El Colorado para actividades de recreación y entrenamiento. Es muy buen lugar, mucho verde y está sobre el Río Bermejo, que viene muy bien para relajar la vista (de los desarrolladores). Cuenta con parrillas y es especial para hacer asados. Cuenta con baños públicos y mucho mucho verde. Es especial para acampar a la costa del río. Fotos en este Link: https://goo.gl/Bsq9VC 
+* A 800 mts del lugar propuesto, existe el Camping de El Colorado para actividades de recreación y entrenamiento. Es muy buen lugar, mucho verde y está sobre el Río Bermejo, que viene muy bien para relajar la vista (de los desarrolladores). Cuenta con parrillas y es especial para hacer asados. Cuenta con baños públicos y mucho mucho verde. Es especial para acampar a la costa del río. Fotos en este Link: https://goo.gl/Bsq9VC
 
 **Tres puntos en contra:**
 
 * Mosquitos. Llevar repelentes.
-* Calor? Depende de la fecha. Quizá sea ideal hacerlo en Mayo/Junio o  Agosto/Septiembre. Incluso en Julio no es una mala idea. 
+* Calor? Depende de la fecha. Quizá sea ideal hacerlo en Mayo/Junio o  Agosto/Septiembre. Incluso en Julio no es una mala idea.
 * El lugar no cuenta con una cantina para comprar cosas, es decir, de falta algo el pueblo más cercano se encuentra a 10 minutos (3,5 km).
 
 
-**Disponibilidad:** 
+**Disponibilidad:**
 
 * Se confirma una semana antes de la fecha de ingreso.
 

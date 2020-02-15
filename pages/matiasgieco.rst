@@ -24,7 +24,7 @@ Algunos links interesantes:
 
 * Conozcan `Viale y su gente`_. Y si quieren ir a la `Fiesta Provincial del Asado con Cuero`_ están invitados, quizás podemos arreglar para ir juntos.
 
-* Mi árbol genealógico para que busquen parientes en Geneanet_. Si se encuentran, estén contentos y conozcan sus raíces, plata ni herencia hay (Ya averigué)   
+* Mi árbol genealógico para que busquen parientes en Geneanet_. Si se encuentran, estén contentos y conozcan sus raíces, plata ni herencia hay (Ya averigué)
 
 * Estoy en LinkedIn_, en los grupos de python y PyAr_, porque da chapa de que se algo.
 
@@ -34,7 +34,7 @@ Si quieren algún otro usuario y contraseña de algún otro servicio, manden un 
 
    def tiempo_de_vida(fecha_nac):
 
- 
+
 
   ::
 
@@ -60,7 +60,7 @@ Si quieren algún otro usuario y contraseña de algún otro servicio, manden un 
 
 
 
-  
+
 
 .. ############################################################################
 

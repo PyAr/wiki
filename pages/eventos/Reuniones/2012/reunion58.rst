@@ -15,7 +15,7 @@ Asistentes
 Fecha y Hora
 ~~~~~~~~~~~~
 
-* Miércoles 18 de Julio 2012, 20hs 
+* Miércoles 18 de Julio 2012, 20hs
 
 Lugar
 ~~~~~
@@ -29,7 +29,7 @@ Minuta
 
 El objetivo de la reunión era coordinar y ponernos de acuerdos en temas referentes a la organización del PyDay_.
 
-La primer definición era la fecha, consensuamos en que sea el viernes 19 y sábado 20 de octubre.  El viernes viernes solo se dictarían 2 talleres, Introducción a Python e Introducción a Django. La idea es que aquellas personas que se quieran acercar a conocer el lenguaje puedan, no solo escuchar sobre las bondades de Python, sino que también la experimenten frente a una computadora... Por otro lado, hacer esto nos da la posibilidad de que el sábado tengamos más lugar para charlas un poco más avanzadas... 
+La primer definición era la fecha, consensuamos en que sea el viernes 19 y sábado 20 de octubre.  El viernes viernes solo se dictarían 2 talleres, Introducción a Python e Introducción a Django. La idea es que aquellas personas que se quieran acercar a conocer el lenguaje puedan, no solo escuchar sobre las bondades de Python, sino que también la experimenten frente a una computadora... Por otro lado, hacer esto nos da la posibilidad de que el sábado tengamos más lugar para charlas un poco más avanzadas...
 
 El cronograma tentativo para el viernes es comenzar con el taller de introducción a Python a las 17, a las 19 hacer un break de media hora y luego destinar 2 horas para el taller de Django.
 
@@ -53,7 +53,7 @@ Para tratar de solventar los gastos tenemos las siguientes fuentes de ingresos:
 
 * Auspiciantes: Pensamos distinguir distintos tipos de auspiciantes, con distintos privilegios
 
-  1. Bronce. 
+  1. Bronce.
 
      * publicidad en diario y folletos en el tamaño más chico (a definir  "chico"..)
 

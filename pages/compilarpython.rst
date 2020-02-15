@@ -54,10 +54,10 @@ Podemos probar corriendo el comando python3.0 en la consola:
 ::
 
     mariano@mousehouse:~/Software/py3k$ python3.0
-    Python 3.0rc1+ (py3k:66685, Sep 29 2008, 17:25:48) 
+    Python 3.0rc1+ (py3k:66685, Sep 29 2008, 17:25:48)
     [GCC 4.2.3 (Ubuntu 4.2.3-2ubuntu7)] on linux2
     Type "help", "copyright", "credits" or "license" for more information.
-    >>> 
+    >>>
 
 
 Cada vez que queramos actualizar al código más nuevo en el repositorio, debemos hacer lo siguiente:

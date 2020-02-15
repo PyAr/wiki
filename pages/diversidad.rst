@@ -7,7 +7,7 @@ La Python Software Foundation y la comunidad global Python aprueba y alienta la 
 Apéndice
 ========
 
-Hemos creado esta esta declaración de diversidad porque creemos que una comunidad Python diversa es más fuerte y vibrante.  Una comunidad diversa donde las personas tratan a cada otra con respeto tiene más contribuidores potenciales y más fuentes de ideas. 
+Hemos creado esta esta declaración de diversidad porque creemos que una comunidad Python diversa es más fuerte y vibrante.  Una comunidad diversa donde las personas tratan a cada otra con respeto tiene más contribuidores potenciales y más fuentes de ideas.
 
 Aunque hemos enunciado la declaración formal de diversidad genérica para incluir todo, reconocemos que hay atributos específicos que son usados para discriminar contra las personas.  En orden alfabético, algunos de estos atributos incluyen (pero no estan limitados a): cultura, diferencias físicas o mentales, edad, estatus socioeconómico, etnia, genero (identidad o expresión), nacionalidad, orientación sexual, politica, raza, religión, sexo y subcultura.  Aceptamos a las personas sin importar los valores de estos u otros atributos.
 

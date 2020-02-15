@@ -2,7 +2,7 @@
 Python Day 3 Cordoba
 ====================
 
-El día 17 de abril de 2010 se realizado una Jornada de charlas sobre Python, contando con importantes disertantes. Las charlas se llevaron a cabo en el Salón de Usos Múltiples de la Universidad Tecnológica Nacional, Facultad Regional Córdoba, entre las 10 y las 17 horas. 
+El día 17 de abril de 2010 se realizado una Jornada de charlas sobre Python, contando con importantes disertantes. Las charlas se llevaron a cabo en el Salón de Usos Múltiples de la Universidad Tecnológica Nacional, Facultad Regional Córdoba, entre las 10 y las 17 horas.
 
 Detalles de las charlas
 -----------------------
@@ -39,14 +39,14 @@ Pycasa inside: PyGTK on Glade
 
     Glade es un constructor de interfaces de usuario para GTK+ y Gnome. Glade guarda nuestros diseños en archivos XML, con lo cual obtenemos versatilidad, pues éstos pueden ser usados en diversos lenguajes de programación (C, C++, Java, Perl, Python, y más), y la posibilidad de cargarlos dinámicamente a medida que se necesitan.
 
-* Filminas: 
+* Filminas:
 
 Utilizando la Google API con Python
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 * Matías Bordese
 
-* Filminas: 
+* Filminas:
 
 Plone 4
 ~~~~~~~
@@ -60,7 +60,7 @@ Introducción a PyQT
 
 * Diego Sarmentero
 
-* Filminas: 
+* Filminas:
 
 .. ############################################################################
 

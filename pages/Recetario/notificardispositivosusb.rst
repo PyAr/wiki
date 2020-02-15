@@ -7,7 +7,7 @@ Detectar y Notificar Dispositivos USB
 ::
 
     #!/usr/bin/env python
-    # -*- coding: utf-8 -*- 
+    # -*- coding: utf-8 -*-
     import glib
     import gudev
     import pynotify

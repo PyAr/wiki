@@ -2,9 +2,9 @@
 Reunión 47 - 8 de Enero del 2011 - Rosario, Santa Fe. Bar Davis - Oronio y el rio, 19 PM
 ----------------------------------------------------------------------------------------
 
- *codename : 7DB* 
+ *codename : 7DB*
 
- **Asistentes:** 
+ **Asistentes:**
 
 [Table not converted]
 
@@ -12,9 +12,9 @@ Reunión 47 - 8 de Enero del 2011 - Rosario, Santa Fe. Bar Davis - Oronio y el r
 
 * Juntarnos los pythoneros rosarigasinos
 
- *Minuta* 
+ *Minuta*
 
- **Asistieron:** 
+ **Asistieron:**
 
 [Table not converted]
 

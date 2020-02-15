@@ -57,11 +57,11 @@ La idea seria actualizar los wrappers que ya existem para la ultima version de T
 [2] https://github.com/vintasoftware/tapioca-wrapper/issues
 
 
-PyAr en Telegram 
+PyAr en Telegram
 ----------------
-La idea seria programar un bot de telegram[3] y un canal[4] de PyAr. 
+La idea seria programar un bot de telegram[3] y un canal[4] de PyAr.
 
-El bot seria admin del canal y publicaria contenido de forma automática. Ejemplo: Planeta PyAr, Eventos, Noticias, Empleos. 
+El bot seria admin del canal y publicaria contenido de forma automática. Ejemplo: Planeta PyAr, Eventos, Noticias, Empleos.
 
 Sería una (otra) forma de difusión. Podria haber más de un canal (uno para Planeta, otro para Eventos)
 

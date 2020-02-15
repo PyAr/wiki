@@ -10,7 +10,7 @@ Twisted
 
 * 13 a 15 horas
 
-* Presentación y código 
+* Presentación y código
 
 `[[Video(http://pyar.usla.org.ar/final/twisted.ogv)]]`_
 

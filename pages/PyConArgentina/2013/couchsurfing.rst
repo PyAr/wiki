@@ -34,7 +34,7 @@ Guests Disponibles
 Hosts Ocupados
 --------------
 
-* EmilianoDallaVerdeMarcozzi_ adoptó a Joaquín Sorianello y Emilio Ramirez 
+* EmilianoDallaVerdeMarcozzi_ adoptó a Joaquín Sorianello y Emilio Ramirez
 
 * Francisco Rivera hospedará a Martín Gaitán.
 
@@ -45,7 +45,7 @@ Guests Adoptados
 
 * Emilio Ramirez
 
-* Martín Gaitán 
+* Martín Gaitán
 
 Guests que no buscan mas
 ------------------------

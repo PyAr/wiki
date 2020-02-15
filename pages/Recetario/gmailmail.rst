@@ -179,13 +179,13 @@ Algunos tests (ejemplos, casos de uso):
 Referencias (que recuerdo):
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* http://docs.python.org/lib/module-email.html  
+* http://docs.python.org/lib/module-email.html
 
-* http://codecomments.wordpress.com/2008/01/04/python-gmail-smtp-example/  
+* http://codecomments.wordpress.com/2008/01/04/python-gmail-smtp-example/
 
-* http://mg.pov.lt/blog/unicode-emails-in-python.html  
+* http://mg.pov.lt/blog/unicode-emails-in-python.html
 
-* http://www.peterbe.com/plog/zope-html-emails  
+* http://www.peterbe.com/plog/zope-html-emails
 
 -------------------------
 

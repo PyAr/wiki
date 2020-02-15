@@ -2,20 +2,20 @@
 Creando un nuevo proyecto Python
 ================================
 
-Así que querés comenzar un nuevo proyecto usando Python? ¡Felicitaciones! ¿Querés que tenga la estructura recomendada para proyectos modernos? ¿queres que sea instalable fácilmente? ¿Querés que no se te arme lio de dependencias que colisionan con las de otros proyectos ? Bien, te propongo esta receta. 
+Así que querés comenzar un nuevo proyecto usando Python? ¡Felicitaciones! ¿Querés que tenga la estructura recomendada para proyectos modernos? ¿queres que sea instalable fácilmente? ¿Querés que no se te arme lio de dependencias que colisionan con las de otros proyectos ? Bien, te propongo esta receta.
 
 Las herramientas
 ----------------
 
-Virtualenv_ es una herramienta para aislar tu entorno de desarrollo python. Es muy pero muy útil para evitar conflictos entre las dependencias de tus distintos proyectos. 
+Virtualenv_ es una herramienta para aislar tu entorno de desarrollo python. Es muy pero muy útil para evitar conflictos entre las dependencias de tus distintos proyectos.
 
-virtualenvwrapper_ es un conjunto de extensiones que hacen la vida del usuario *virtualenv* aun más feliz, permitiendo crear y borrar entornos virtuales, asociarlos a un proyecto, automatizar tareas al activar o desactivar uno, etc. 
+virtualenvwrapper_ es un conjunto de extensiones que hacen la vida del usuario *virtualenv* aun más feliz, permitiendo crear y borrar entornos virtuales, asociarlos a un proyecto, automatizar tareas al activar o desactivar uno, etc.
 
 pip_ es la herramienta moderna, correcta y recomendada para administrar los paquetes python instalados en tu sistema/virtualenv. Es un reemplazo de *easy_install*
 
-Distribute_ es la herramienta moderna y recomendada para distribuir tu paquete python. Es un fork de *setuptools* (que es, a su vez, una mejora sobre el módulo estándar *distutils*) 
+Distribute_ es la herramienta moderna y recomendada para distribuir tu paquete python. Es un fork de *setuptools* (que es, a su vez, una mejora sobre el módulo estándar *distutils*)
 
-Skeleton_ es una herramienta que define *plantillas* para iniciar proyecto, generando la estructura básica necesaria. Es similar a *PasteScript_* pero enfocado en esta tarea concreta, sin dependencias y compatible con Python 3.x 
+Skeleton_ es una herramienta que define *plantillas* para iniciar proyecto, generando la estructura básica necesaria. Es similar a *PasteScript_* pero enfocado en esta tarea concreta, sin dependencias y compatible con Python 3.x
 
 La receta
 ---------
@@ -35,7 +35,7 @@ La receta
 
 Notar que *skeleton* se está instalando desde un *fork* del proyecto original, que resuelve bugs de la versión original (aparentemente desmantenida)
 
-3. Configurá virtualenvwrapper. 
+3. Configurá virtualenvwrapper.
 
 ::
 
@@ -48,13 +48,13 @@ Luego editá tu *~/.bashrc* agregando las siguientes líneas
 
   WORKON_HOME=$HOME/.virtualenvs
   PROJECT_HOME=$HOME/proyectos
-  
+
   source /usr/local/bin/virtualenvwrapper.sh
 
 y recargá tus cambios
 
 ::
-  
+
   $ source ~/.bashrc
 
 4. Inicializá tu proyecto. Por ejemplo el proyecto *zaraza*
@@ -63,13 +63,13 @@ y recargá tus cambios
 
   $ mkproject -t package zaraza
 
-Se te solicitarán algunos datos (nombre del proyecto, autor, licencia, etc.) y ¡(casi) listo! Estarás trabajando en tu proyecto *zaraza*. Tu prompt se verá así: 
+Se te solicitarán algunos datos (nombre del proyecto, autor, licencia, etc.) y ¡(casi) listo! Estarás trabajando en tu proyecto *zaraza*. Tu prompt se verá así:
 
 ::
 
   (zaraza)tin@morocha:~/proyectos/zaraza$
 
-¿Qué sucedió? Se creó un directorio *~/proyectos/zaraza* para tu proyecto, asociado a un virtualenv ubicado  en  *~/.virtualenvs /zaraza*.  skeleton automáticamente creó una estructura básica de paquete python  *~/proyectos/zaraza/src* incluyendo un *setup.py* basado en distribute. 
+¿Qué sucedió? Se creó un directorio *~/proyectos/zaraza* para tu proyecto, asociado a un virtualenv ubicado  en  *~/.virtualenvs /zaraza*.  skeleton automáticamente creó una estructura básica de paquete python  *~/proyectos/zaraza/src* incluyendo un *setup.py* basado en distribute.
 
 5. Instalá tu paquete en el virtualenv, para poder importarlo desde cualquier lado
 
@@ -83,9 +83,9 @@ Esto agrega el directorio de desarrollo de tu proyecto al PYTHONPATH del virtual
 ¿Y ahora?
 ---------
 
-Cada vez que quieras trabajar en tu proyecto *zaraza* podes correr 
+Cada vez que quieras trabajar en tu proyecto *zaraza* podes correr
 
- 
+
 
 ::
 
@@ -93,7 +93,7 @@ Cada vez que quieras trabajar en tu proyecto *zaraza* podes correr
 
 Para salir del virtualenv
 
- 
+
 
 ::
 
@@ -104,7 +104,7 @@ Algunos tips más a modo de despedida
 
 Virtualenwrapper es totalmente hookeable y extensible. Esta receta propone usar *skeleton* (que funciona como plugin de `virtualenvwrapper.project`_)  para crear una estructura de paquete estándar básica, pero hay plugins para proyectos más específicos. Por ejemplo `virtualenwrapper.django`_
 
-El comando usado en el paso 4 (*mkproject*) es un wrapper sobre el comando principal de virtualenvwrapper *mkvirtualenv*, que acepta muchos parámetros opcionales. Ejecutá *mkproject_help* o *mkvirtualenv --help* para saber más. 
+El comando usado en el paso 4 (*mkproject*) es un wrapper sobre el comando principal de virtualenvwrapper *mkvirtualenv*, que acepta muchos parámetros opcionales. Ejecutá *mkproject_help* o *mkvirtualenv --help* para saber más.
 
 Y ya sabés ...
 

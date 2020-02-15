@@ -46,7 +46,7 @@ Usa Bottle_ para servir 1 pagina incrustada en la propia aplicacion, la misma de
     }
     function imgturn(numb) {
         if (document.images) {
-            if (numb == "4") {         
+            if (numb == "4") {
                 document["demo"].src = eval("demo4.src");
                 timeimgs('1');
             }

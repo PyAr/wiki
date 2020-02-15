@@ -25,7 +25,7 @@ Ejemplo
    def hello(environ, start_response):
        start_response('200 OK',[('Content-type','text/plain')])
        return ['Hola PyAr!']
-      
+
    httpd = make_server('',8000, hello).serve_forever()
 
 (copiado de un mail "hello-word" de la lista)
@@ -35,7 +35,7 @@ Variables de entorno (diccionario {{{environ}}})
 
 El diccionario ``environ`` que se recibe con cada pedido HTTP, contiene las variables estándard de la especificación CGI, entre ellas:
 
-* REQUEST_METHOD: método "GET", "POST", tec. 
+* REQUEST_METHOD: método "GET", "POST", tec.
 
 * SCRIPT_NAME : la parte inicial de la "ruta", que corresponde a la aplicación
 
@@ -47,7 +47,7 @@ El diccionario ``environ`` que se recibe con cada pedido HTTP, contiene las vari
 
 * SERVER_NAME, SERVER_PORT, que combinadas con SCRIPT_NAME y PATH_INFO dan la URL
 
-* SERVER_PROTOCOL: la versión del protocolo ("HTTP/1.0" or "HTTP/1.1") 
+* SERVER_PROTOCOL: la versión del protocolo ("HTTP/1.0" or "HTTP/1.1")
 
 * Variables HTTP_
 
@@ -80,7 +80,7 @@ Ejemplos de configuración (tanto en /etc/apache2/... en un archivo .htaccess en
          PythonHandler mod_python.publisher
          PythonDebug On
      </Directory>
-    
+
      # Handler PSP:
      #  se ejecutará cualquier archivo .psp (código python embebido en texto html)
      <Directory /var/www/html/psp/>

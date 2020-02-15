@@ -33,7 +33,7 @@ Archivo miservidorcom.py
         _public_attrs_ = ['Version']      # Atributos a exportar por el servidor COM
         _readonly_attrs_ = _public_attrs_ # Atributos de solo lectura
         _reg_progid_ = "MiMiniInterpretePython"   # Nombre para Crear el Objeto COM
-        # NUNCA copiar el siguiente ID 
+        # NUNCA copiar el siguiente ID
         # Usar "print pythoncom.CreateGuid()" para crear uno nuevo
         _reg_clsid_ = "{ECDDA31C-2999-4C77-9778-DDF75FBF81FC}"
 
@@ -69,7 +69,7 @@ Archivo modulo1.bas:
 
        ' Creo el objeto Python exportado por el Servidor COM:
        Set ObjetoPython = CreateObject("MiMiniInterpretePython")
-      
+
        ' Obtengo un atributo del objeto python:
        Version = ObjetoPython.Version
        MsgBox Version, , "Versión de Python:"
@@ -81,7 +81,7 @@ Archivo modulo1.bas:
            Resultado = ObjetoPython.Evaluar(Expresion)
            MsgBox Resultado, , "Resultado:"
        Loop
-     
+
    End Sub
 
 Ejemplo en Visual Fox Pro:
@@ -130,7 +130,7 @@ o
 
    regsvr32 miservidorcom.dll
 
-Para Descargar Fuentes: 
+Para Descargar Fuentes:
 
 Autor / Autores:
 ::::::::::::::::

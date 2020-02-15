@@ -2,7 +2,7 @@
 JuanJoCiarlante
 ---------------
 
-Email:  ``$ echo anVhbmpvc2VjQGdtYWlsLmNvbQo= | base64 -d`` 
+Email:  ``$ echo anVhbmpvc2VjQGdtYWlsLmNvbQo= | base64 -d``
 
 Soy apasionado del Software Libre desde '93, cuando booteé por primera vez un Yggdrasil en mi 386 (partidura-de-cabeza si las hay...).
 
@@ -32,7 +32,7 @@ Soy profesor de grado y posgrado de la Universidad de Mendoza, desde 1999. Orado
 
 -------------------------
 
- 
+
 
 .. ############################################################################
 

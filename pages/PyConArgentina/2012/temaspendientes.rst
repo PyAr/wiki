@@ -8,7 +8,7 @@
 
 == Difusión ==
 
- * Difundir LlamadoSponsors, LlamadoPropuestas, etc. !!!!! 
+ * Difundir LlamadoSponsors, LlamadoPropuestas, etc. !!!!!
  * Escribir PressRelease
  * Armar AnuncioPublicitario gráfico y/o radial?
 
@@ -35,7 +35,7 @@
 == Gráfica ==
 
  * --(Diseñar Logo y CSS para web)--
- * Diseñar logo light 
+ * Diseñar logo light
  * Diseñar banner web
  * Diseñar Afiche
  * Diseñar Folletos para repartir

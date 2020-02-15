@@ -15,9 +15,9 @@ El cuerpo de una funcion plpythonu es simplemente un script de Python.  Cuando l
 
 Los valores ``NULL`` de PostgreSQL equivalen a ``None`` en Python.
 
-Está disponible el diccionario ``SD`` para almacenar datos entre cada llamada a función, y el diccionario globar ``GD`` para usar desde todas las funciones. 
+Está disponible el diccionario ``SD`` para almacenar datos entre cada llamada a función, y el diccionario globar ``GD`` para usar desde todas las funciones.
 
-**Nota**: PostgreSQL 8.1 no soporta argumentos por nombre, recibir valores compuestos, devolver listas/tuplas o usar generadores. 
+**Nota**: PostgreSQL 8.1 no soporta argumentos por nombre, recibir valores compuestos, devolver listas/tuplas o usar generadores.
 
 Ejemplo simple
 ~~~~~~~~~~~~~~
@@ -43,7 +43,7 @@ Calcular el valor máximo entre dos enteros, descartando valores nulos:
 Recibir tipos compuestos
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-Las funciones plpython pueden recibir tipos compuestos (ej.registros de tablas) como diccionarios: 
+Las funciones plpython pueden recibir tipos compuestos (ej.registros de tablas) como diccionarios:
 
 ::
 
@@ -139,18 +139,18 @@ Cuando una función plpython es usada en un disparador, el diccionario ``TD`` co
 
 * ``TD["table_name"]``: nombre de la tabla en que se disparó
 
-* ``TD["table_schema"]``: esquema en el que se disparó   
+* ``TD["table_schema"]``: esquema en el que se disparó
 
 * ``TD["relid"]``: OID de la tabla que disparó
 
 * Si el comando ``CREATE TRIGGER`` incluyó argumentos, estos estarán disponibles en  la lista ``TD["args"]``
 
-Si ``TD["when"]`` es BEFORE, se puede devolver ``None`` or "OK" para indicar que la fila no se modificó, "SKIP" para abortar el evento, o "MODIFY" para indicar que hemos modificado la fila. 
+Si ``TD["when"]`` es BEFORE, se puede devolver ``None`` or "OK" para indicar que la fila no se modificó, "SKIP" para abortar el evento, o "MODIFY" para indicar que hemos modificado la fila.
 
 Acceso a la base de datos
 -------------------------
 
-Automaticamente se importa un módulo llamado ``plpy``. 
+Automaticamente se importa un módulo llamado ``plpy``.
 
 Generar mensajes y lanzar errores
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -164,7 +164,7 @@ Las otras funciones solo generan mensajes en los distintos niveles de prioridad.
 Preparar y ejecutar consultas
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Adicionalmente, el módulo ``plpy`` provee dos funciones: ``execute`` y ``prepare``. 
+Adicionalmente, el módulo ``plpy`` provee dos funciones: ``execute`` y ``prepare``.
 
 Llamar a ``plpy.execute(query, limit)`` con una consulta (query: string) y un límite de registros opcional (limit),  permite ejecutar la consulta y devuelve los resultados en un objeto que emula una lista de diccionarios, pudiendo acceder por número de fila y nombre de columna. Tiene tres métodos adicionales: ``nrows`` que devuelve el número de filas, y ``status``.
 

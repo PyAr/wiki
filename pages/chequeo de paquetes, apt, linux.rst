@@ -34,7 +34,7 @@ Chequeo de Paquetes con APT
     Cual es el nombre del programa?: monodevelop
     El programa no esta instalado!
    juan@wind:~$ /usr/bin/env python apt-app-check.py
-    Cual es el nombre del programa?: hjklsdajflkdshjdskabnv         
+    Cual es el nombre del programa?: hjklsdajflkdshjdskabnv
     Estas seguro del Nombre del programa?, el programa no existe!
    juan@wind:~$
 

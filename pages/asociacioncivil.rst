@@ -12,17 +12,17 @@ En este momento ya tenemos cerrados los `Objetivos de la Asociación`_ y el Esta
 
 Las autoridades para el primer ciclo son:
 
-- Presidente: Facundo Batista 
-- Vicepresidente: Joaquín Sorianello 
-- Secretario: Mariano Reingart 
-- Prosecretario: Nicolás Demarchi 
-- Tesorero: Leandro E. Colombo Viña 
-- Protesorero: Emiliano Dalla Verde Marcozzi 
-- Vocal: Mauro Javier Silva 
-- Vocal: Eliana Sofía Martin 
-- Suplente: Diego Amor Vocal 
-- Revisor de cuenta titular: Diego Mascialino 
-- Revisor de Cuenta suplente: Eduardo Arturo Enriquez 
+- Presidente: Facundo Batista
+- Vicepresidente: Joaquín Sorianello
+- Secretario: Mariano Reingart
+- Prosecretario: Nicolás Demarchi
+- Tesorero: Leandro E. Colombo Viña
+- Protesorero: Emiliano Dalla Verde Marcozzi
+- Vocal: Mauro Javier Silva
+- Vocal: Eliana Sofía Martin
+- Suplente: Diego Amor Vocal
+- Revisor de cuenta titular: Diego Mascialino
+- Revisor de Cuenta suplente: Eduardo Arturo Enriquez
 
 
 Se realizó también la reunión fundacional de la asociación, donde participaron los arriba mencionados más Leandro Brunner, Alejandro Javier Cura, y Gabriel Alejandro Genellina en caracter de Socios Fundadores.

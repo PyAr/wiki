@@ -17,17 +17,17 @@ Esto es: tres camas individuales.
 
 * JuanJoCiarlante_ -
 
-* Lucio Torre 
+* Lucio Torre
 
 * Julian Waksberg -
 
-* HugoRuscitti_ - 
+* HugoRuscitti_ -
 
 * Emiliano Dalla Verde Marcozzi - Matias Barriento
 
-* Micaela Bressan - José Pron - Juan Ignacio Scarafía 
+* Micaela Bressan - José Pron - Juan Ignacio Scarafía
 
-* Gabriel Balaudo - Juan Pedro Fisanotti - Federico Mié 
+* Gabriel Balaudo - Juan Pedro Fisanotti - Federico Mié
 
 * Jairo Trad - Martín Gaitán - Pablo Celayes
 

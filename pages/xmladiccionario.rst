@@ -11,7 +11,7 @@ primero el codigo
     import xml.parsers.expat
 
     class XmlParser(object):
-        '''a class that parses a xml string an generates a nested 
+        '''a class that parses a xml string an generates a nested
         dict/list structure
         '''
 
@@ -108,7 +108,7 @@ primero el codigo
                 count += 1
 
     def raw_string(dct_):
-        '''return a string containing just the string parts removing all the 
+        '''return a string containing just the string parts removing all the
         xml stuff'''
 
         def helper(dct):

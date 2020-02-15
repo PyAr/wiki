@@ -7,7 +7,7 @@ Reverse (a.k.a. "esrever")
 ::
 
     #!/usr/bin/env python
-    # -*- coding: utf-8 -*- 
+    # -*- coding: utf-8 -*-
     def reverse(this):
         return ' '.join(''.join(list(things)[::-1]) for things in this.split())
     inputz = raw_input()

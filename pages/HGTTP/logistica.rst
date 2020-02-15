@@ -51,13 +51,13 @@ Bunker
 Comunicación
 ::::::::::::
 
-* Conseguite handies: 
+* Conseguite handies:
 
-* uno para cada aula, 
+* uno para cada aula,
 
-* uno para el bunker, 
+* uno para el bunker,
 
-* dos para personas que mandes a hacer mandados, 
+* dos para personas que mandes a hacer mandados,
 
 * dos para personas que anden por el evento ayudando a gente.
 

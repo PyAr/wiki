@@ -49,7 +49,7 @@ Y nos dice que:
 
 * El problema surgió en la línea 12 de ``form.py`` (dentro de la función ``__init__``): ``for linea in open(infile).readlines():``
 
-* Esta función fue llamada desde la línea 78 del mismo archivo (en el módulo, fuera de una función): ``f = Form("factura.csv")`` 
+* Esta función fue llamada desde la línea 78 del mismo archivo (en el módulo, fuera de una función): ``f = Form("factura.csv")``
 
 * y así sucesivamente (si tuvieramos más llamadas encadenadas, la lista sería más larga)
 
@@ -149,7 +149,7 @@ La sintaxis, como en cualquier lenguaje, es fundamental para que Python entienda
 
   * Nombres de clases en CamelCase_ (primer letra de cada palabra en mayúscula, luego minúsculas, sin separar por espacios), por ejemplo: ``MiClasePunto``
 
-* **Palabras clave reservadas**: deben ser escritas tal cual, deben estar al principio de una linea y/o separadas con espacios y no pueden ser usadas como nombres de variables: and as assert break class continue def elif else except exec finally for global if import in is lambda or pass print raise return try with yield. 
+* **Palabras clave reservadas**: deben ser escritas tal cual, deben estar al principio de una linea y/o separadas con espacios y no pueden ser usadas como nombres de variables: and as assert break class continue def elif else except exec finally for global if import in is lambda or pass print raise return try with yield.
 
   * Sentencias simples ``assert pass del print return yield raise break continue import global exec``: son comprendidos dentro de una línea lógica y varias sentencias simples pueden estar en una sola línea separadas por punto y coma
 
@@ -299,7 +299,7 @@ Error de Sintaxis: FinDeArchivo mientras se buscaba una cadena de "múltiples l�
 ::
 
     >>> """
-    ... mucho 
+    ... mucho
     ... texto
     ...
     SyntaxError: EOF while scanning triple-quoted string
@@ -457,7 +457,7 @@ Error de Tipo: el objeto 'NoneType' no es iterable
     TypeError: 'NoneType' object is not iterable
 
 
-Para iterar (recorrer uno a uno los elementos de una secuencia o colección), por ej. en un ``for``, es necesario que esta sea realmente una secuencia o iterable (tuplas, listas, diccionario, conjunto, etc.)  
+Para iterar (recorrer uno a uno los elementos de una secuencia o colección), por ej. en un ``for``, es necesario que esta sea realmente una secuencia o iterable (tuplas, listas, diccionario, conjunto, etc.)
 
 Funciones
 ~~~~~~~~~

@@ -4,7 +4,7 @@
 Antes que nada, ¿qué es un PyCamp? `Acá tenés una buena descripción y mucha info <http://www.python.org.ar/wiki/PyCamp/>`_.
 
 
-Fechas: 
+Fechas:
 -------
 
 21, 22, 23 y 24 de marzo (sábado, domingo, lunes (feriado puente) y martes feriado por el Día Nacional de la Memoria por la Verdad y la Justicia.
@@ -12,13 +12,13 @@ Fechas:
 
 Qué llevo:
 ----------
- 
+
  - Zapatillas, prolongadores, proyector, access points que puedas aportar, todo eso suma.
- 
+
  - Tu computadora (mejor si es portatil). Actualizala con toda la información, paquetes y datos que creas que podrías necesitar, cosa de no exigirle a la internet del lugar más de lo necesario.
 
  - El complejo **sí provee** todo lo que tiene que ver con sábanas, frazadas, así que no nos tenemos que preocupar (aclaro porque hubo PyCamps donde no fue así)
- 
+
  - Hay pileta de natación disponible (lleva lo que creas necesario como ojotas, protector solar, etc).
 
 Sede: Los reyunos, San Rafael, Mendoza
@@ -31,33 +31,33 @@ Sede: Los reyunos, San Rafael, Mendoza
 Como ya fuimos el año pasado, podés ver las `fotos de la edición anterior <https://bit.ly/34TnixX>`_.
 
 
-**Donde está:** 
+**Donde está:**
 
  * Mapa:  `Acá <https://goo.gl/8Jpa3C>`_.
 
  * Distancias:
- 
+
    * 716 Km Córdoba Capital (11 horas en colectivo)
- 
+
    * 238km de Mendoza Capital (~3:30 Hs en colectivo, hay viajas a cada hora aprox.)
 
    * 967km de Capital Federal (unas 14:00 en colectivo)
 
 **Formas de llegar:**
 
-El destino es la ciudad de San Rafael, Mendoza, ya que no hay forma directa de llegar sin pasar por San Rafael. Desde allí al lugar, hay colectivos urbanos y combis. También va a haber un transporte disponible para el evento brindado por la universidad. Las alternativas son:  
+El destino es la ciudad de San Rafael, Mendoza, ya que no hay forma directa de llegar sin pasar por San Rafael. Desde allí al lugar, hay colectivos urbanos y combis. También va a haber un transporte disponible para el evento brindado por la universidad. Las alternativas son:
 
 * En auto: las rutas desde Córdoba, Mendoza, y Buenos Aires a San Rafael están en condiciones. Desde San Rafael a Los Reyunos es media hora en auto.
 
 * En colectivo: hay gran variedad de empresas que llegan a la ciudad, es una ciudad muy turística. Por dar dos ejemplos, desde Buenos Aires a San Rafael, el Andesmar sale alas 20.15hs, llegando a destino a las 9:55hs (costo $3000). Desde Córdoba, la linea 20 de Junio sale a las 19.30hs, llegando a San Rafael a las 6:00hs (costo ~$1400).
 
 * En Avión: Existe solo un vuelo que llega a San Rafael, y viene desde Buenos Aires (Sale a las 11.30hs). Si vienen desde otros origenes, seguramente existan combinaciones. La forma más economica es viajar en avión a Mendoza, y desde allí en colectivo (tiene un costo de $270 y tarda un poquito más de 3hs en llegar)
-    
+
 * De San Rafael a Los Reyunos: existe un colectivo urbano que va en la mañana, mediodia y en la tarde a los Reyunos. Adicionalmente, se está coordinando con la facultad la utilización de un transporte propio, para el dia viernes y/o sábado. Se coordinará horario más sobre la fecha.
 
 **Comidas**
 
-Las cuatro comidas diarias, desde el almuerzo del primer día hasta el almuerzo del último día (el primer día no incluye el desayuno, el último día no incluye la merienda ni la cena). 
+Las cuatro comidas diarias, desde el almuerzo del primer día hasta el almuerzo del último día (el primer día no incluye el desayuno, el último día no incluye la merienda ni la cena).
 
 Seguramente haremos pycada y/o cerveza artesanal y/o vino local, pero está fuera de presupuesto. Lo coordinaremos en el lugar entre les interesades.
 
@@ -71,11 +71,11 @@ Nos distribuiremos entra casas y el hostel. **Tenemos un cupo limitado de 40 per
 
 * Casa 3: 2 hab. con 2 camas- 2 hab. con 3 camas - 2 baños - 10 personas
 
-* Hostel: 4 hab. con 2 camas - 1 hab. con 3 camas - 1 hab. con 4 camas - 3 baños - 15 personas. 
+* Hostel: 4 hab. con 2 camas - 1 hab. con 3 camas - 1 hab. con 4 camas - 3 baños - 15 personas.
 
 Incluyen ropa de cama + el libre uso (Pileta, canchas, SUM, WIFI).
 
-Es posible alojarse en el lugar uno o dos días antes y/o después del PyCamp. 
+Es posible alojarse en el lugar uno o dos días antes y/o después del PyCamp.
 
 Dado que debemos reservar la/s casa/s o hostel (dependiendo de cuantas personas sean) con anticipación, por favor indicanos si deseas "días extra" al momento de inscribirte.
 
@@ -86,7 +86,7 @@ Tenés tiempo hasta el 13/03/2020 para reservar tu lugar.
 Precios e Inscripciones
 -----------------------
 
-El precio por los cuatro días (incluye las comidas, alojamiento, usos de las instalaciones, WiFi, etc.) es: 
+El precio por los cuatro días (incluye las comidas, alojamiento, usos de las instalaciones, WiFi, etc.) es:
 
   **$9.800** final (IVA incluido)
 
@@ -94,20 +94,20 @@ Si sos socie de la Asociación Civil Python Argentina tenés descuento! El preci
 
   Socies actives: **$7.840** final (IVA incluido)
 
-  Socies adherentes: **$8.820** final (IVA incluido) 
-  
+  Socies adherentes: **$8.820** final (IVA incluido)
+
 Se puede pagar por transferencia/depósito o por Todo Pago con rapipago/pagofacil/tarjetas/etc (con un 5% extra).
 
 * Por transferencia:
 
     Datos bancarios:
-  
+
     Banco Credicoop
-  
+
     Cuenta Corriente en pesos
-  
+
     Nro. 191-153-009748/3
-  
+
     CBU 19101530-55015300974832 / Alias: python
 
 

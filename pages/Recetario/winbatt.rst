@@ -18,7 +18,7 @@ El ejemplo en Python (winbatt.py) registra un objeto python MiMiniInterpretePyth
 
 * carga la biblioteca ´powrprof.dll´
 
-* define la constante SystemBatteryState_ (InformationLevel_) de POWER_INFORMATION_LEVEL 
+* define la constante SystemBatteryState_ (InformationLevel_) de POWER_INFORMATION_LEVEL
 
 * define la estructura SYSTEM_BATTERY_STATE_
 
@@ -82,7 +82,7 @@ Para usarlo se puede ejecutar desde línea de comando:
    Rate: -9.435 W
    Estimated Time: 0 h 34 min
 
-Para Descargar Fuentes: 
+Para Descargar Fuentes:
 
 Autor / Autores:
 ::::::::::::::::

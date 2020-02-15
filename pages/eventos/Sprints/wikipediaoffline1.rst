@@ -11,7 +11,7 @@ Otro grupo se encargó de investigar diversos formatos y algoritmos de compresi�
 
 Y otro grupo se encargó de armar un ejecutable que contiene un mini servidor web y que levanta un browser apuntado a sí mismo. Este grupo también armó un script que genera un índice a partir de un archivo comprimido, permitiendo la búsqueda de artículos.
 
-Con la colaboración de todos los participantes se llegó a armar un prototipo que funciona y resulta muy prometedor. Fluyeron las ideas para extenderlo y distribuirlo. Fue una experiencia muy interesante, enriquecedora y sobre todo: útil. 
+Con la colaboración de todos los participantes se llegó a armar un prototipo que funciona y resulta muy prometedor. Fluyeron las ideas para extenderlo y distribuirlo. Fue una experiencia muy interesante, enriquecedora y sobre todo: útil.
 
 .. ############################################################################
 

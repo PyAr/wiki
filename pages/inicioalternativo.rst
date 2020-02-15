@@ -59,7 +59,7 @@ Contenido
 
 -------------------------
 
- ¿Comentarios? ¿Sugerencias? Enviá un mail a ``pyar_admin AT decode DOT com DOT ar``, o escribinos directamente `aquí`_. ¡Muchas gracias! 
+ ¿Comentarios? ¿Sugerencias? Enviá un mail a ``pyar_admin AT decode DOT com DOT ar``, o escribinos directamente `aquí`_. ¡Muchas gracias!
 
 .. ############################################################################
 

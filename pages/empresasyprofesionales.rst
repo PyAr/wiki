@@ -9,14 +9,14 @@ Obvio, no son todas, pero es un buen punto de arranque si se busca mandar un CV 
 devartis
 ~~~~~~~~
 
-Somos una empresa de software joven, ágil e innovadora, fundada a inicios de 2009 en la Ciudad de Buenos Aires. Desarrollamos principalmente aplicaciones web en Django para clientes locales y del exterior. 
+Somos una empresa de software joven, ágil e innovadora, fundada a inicios de 2009 en la Ciudad de Buenos Aires. Desarrollamos principalmente aplicaciones web en Django para clientes locales y del exterior.
 
 CVs a `jobs@devartis.com`_, contacto comercial a `info@devartis.com`_. Esta es `nuestra página web`_.
 
 Machinalis
 ~~~~~~~~~~
 
-Custom Software Engineering and Development - We *love* Python / Django / AI / NLP / Machine Learning / Big Data. 
+Custom Software Engineering and Development - We *love* Python / Django / AI / NLP / Machine Learning / Big Data.
 
 CVs a msponton[at]machinalis.com, contacto comercial a mpich[at]machinalis.com.  `nuestra página web <http://www.machinalis.com/>`__.  `nuestro código en github`_
 

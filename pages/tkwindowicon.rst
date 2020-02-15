@@ -39,4 +39,3 @@ Si estamos en Windows es mejor usar la funcion iconbitmap('Icono.ico') que tambi
 		pass
 	#
 	root.mainloop()
-    

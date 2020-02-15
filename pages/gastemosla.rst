@@ -18,7 +18,7 @@ PyAr tiene plata, ¡gastémosla!
 
 * Patrocinar cursos que dicten miembros de PyAr_ para que cuesten menos a los alumnos y de esta manera se pueda capacitar más gente.
 
-* Invertir en merchandising de PyAr_ (más remeras, lapiceras, calcos, tazas, etc.) 
+* Invertir en merchandising de PyAr_ (más remeras, lapiceras, calcos, tazas, etc.)
 
 * Comprar elementos de sonido, iluminación, red, etc. para los distintos eventos.
 
@@ -26,7 +26,7 @@ PyAr tiene plata, ¡gastémosla!
 
 * Donación de material para USLA.
 
-* Colocar el dinero a plazo fijo hasta que se considere necesario utilizarlo. 
+* Colocar el dinero a plazo fijo hasta que se considere necesario utilizarlo.
 
 * Disminuir los costos de los miembros que viajen en representación de PyAr_ a algún evento(estadía, pasajes, comida, etc.)
 

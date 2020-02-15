@@ -18,7 +18,7 @@ Ademas de poder embeber imágenes, la librería Qt (y por ende PyQt) también pe
     def loadTextFileFromRc(rcPath):
         u"""Extrae el contenido de un archivo de texto incluido en el sistema
         de recursos.
-            
+
         Parámetros:
             rcPath: ruta absoluta del archivo dentro del recurso. Por ejemplo:
                 ':/app/css/style.css'.

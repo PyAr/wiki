@@ -48,7 +48,7 @@ No me acuerdo si ya mencione que habia muchos geeks, y chicas también!
 
 Al que quiera hacer alguna carrera geek le recomiendo ir a la utn de santa fe ;). Y NO MAURICIO, no son tu target, asi que no vayas :P
 
-La primer charla la dio Facundo y nos hablo un poco (2 horas) sobre la comunidad pythonera, conferencias, sprints Extreme Programming, y todas las bondades del lenguaje. Hubiera estado bueno acompañar la charla de una sesion interactiva, era muy poco tiempo para hacer las 2 cosas. Una charla no muy técnica pero que seguramente Facundo va a postear en su blog asi que no vale la pena que estire aca. 
+La primer charla la dio Facundo y nos hablo un poco (2 horas) sobre la comunidad pythonera, conferencias, sprints Extreme Programming, y todas las bondades del lenguaje. Hubiera estado bueno acompañar la charla de una sesion interactiva, era muy poco tiempo para hacer las 2 cosas. Una charla no muy técnica pero que seguramente Facundo va a postear en su blog asi que no vale la pena que estire aca.
 
 Despues nos hablo Lucio acerca de python en el mundo real, quienes lo usan, como por ejemplo google, la NASA, y un monton de etceteras grosos. Tambien hablo de que se puede extender y embeber, y la memoria me falla, habló de muchas cosas pero las palabras le salian de la boca mas rapido de lo que mi cerebro las puede procesar.
 
@@ -90,7 +90,7 @@ Al final pudimos terminar toda la primera etapa, y quedó algo copado, ya que la
 
 Yo crei que ya eran como las 22:00 pero no, todavia eran las 20:00. Nos fuimos cada uno por nuestro lado para despues reunirnos en "El Potrero". Yo me fui con Facundo y Lucio al hotel porque mis cosas estaban en el auto de Lucio que estaba ahi. Tiramos un par de ideas acerca de que se podria hacer con la plata recaudada con las remeras, y también hablamos acerca de hacer un menu de charlas PyAr_, para que en las conferencias se pueda elegir de una cierta variedad de charlas sobre distintos temas, para distintos niveles y dictadas por distintas personas.
 
-De nuevo en "El Potrero" jugamos al pool, tomamos vodka con speed, algun que otro té, etc etc. Yo jugue un partido con Luca y gane, despues jugando con nico perdimos ante Facundo y otro. (Juega bien el guacho...me refiero a otro 😉 ). Con nico le seguimos dando al vodka con speed, 
+De nuevo en "El Potrero" jugamos al pool, tomamos vodka con speed, algun que otro té, etc etc. Yo jugue un partido con Luca y gane, despues jugando con nico perdimos ante Facundo y otro. (Juega bien el guacho...me refiero a otro 😉 ). Con nico le seguimos dando al vodka con speed,
 
 Lucio, (quien me iba a traer de vuelta) me dijo antes de irse:  "Si para las 12 no tengo planes de reunirme con vos, te dejo aca". Yo entre la escabiadez iba a recordar aquellas palabras.
 

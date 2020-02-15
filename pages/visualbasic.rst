@@ -13,7 +13,7 @@ Tipado
 
 * Python es tipado dinámicamente, VB depende de la declaración de la variable (en python todas las variables equivalen al tipo ``Variant`` de VB, o sea, pueden adquirir cualquier tipo de datos). En VB no se puede cambiar el tipo de la variable en tiempo de ejecución si no son ``Variant`` (no se puede asignar un flotante a un entero), en Python no existe esta restricción.
 
-* En Python no se puede utilizar variables indefinidas o sin inicializar, en VB si (mas allá de la instrucción ``Option Explicit`` que solo obliga a definir las variables, no a inicializarlas). En VB, a las variables sin inicializar se les asigna un valor implícito en el "aire" dependiendo del contexto (0, "", etc.), lo que permite usar variables inexistentes con valores indefinidos (una de las causas del célebre error "No coinciden los tipos"). 
+* En Python no se puede utilizar variables indefinidas o sin inicializar, en VB si (mas allá de la instrucción ``Option Explicit`` que solo obliga a definir las variables, no a inicializarlas). En VB, a las variables sin inicializar se les asigna un valor implícito en el "aire" dependiendo del contexto (0, "", etc.), lo que permite usar variables inexistentes con valores indefinidos (una de las causas del célebre error "No coinciden los tipos").
 
 * En Python no se define el tipo de la variable (ver tipado dinámico), solo basta con inicializar su valor (o None si no lo tiene). En VB en general es necesario hacer dos pasos, definir el tipo (``Dim var As tipo``) e inicializar la variable (salvo que el valor inicial sea el predeterminado que se le asigna implicitamente según el tipo, ej. enteros = 0). En general, se define el tipo para inicializarla con el valor predeterminado (para evitar el problema del punto anterior), perdiendo el dinamismo del lenguaje.
 
@@ -33,7 +33,7 @@ Tipos de datos
 Funciones y Subrutinas
 ~~~~~~~~~~~~~~~~~~~~~~
 
-* En Python no hay diferencia entre funciones y subrutinas (estas últimas en VB no devuelven resultado) y es obligatorio el uso de paréntesis para las llamadas, aunque no tenga parámetros o no se use el resultado devuelto (siempre devuelven un valor aunque no se lo utilize, si no se especifica devuelven None). 
+* En Python no hay diferencia entre funciones y subrutinas (estas últimas en VB no devuelven resultado) y es obligatorio el uso de paréntesis para las llamadas, aunque no tenga parámetros o no se use el resultado devuelto (siempre devuelven un valor aunque no se lo utilize, si no se especifica devuelven None).
 
 * En Python los parámetros se pueden pasar por nombre y/o por posición, y los parametros optativos (por nombre) directamente no se pasan ni se dejan en blanco.
 
@@ -44,14 +44,14 @@ Orientación a Objetos
 
 * Si bien ambos son lenguajes multiparadigma, en python se puede programar funcionalmente además del modo procedural y orientado a objetos, con muy buenas herramientas de introspección y metaprogramación.
 
-* Python soporta herencia (múltiple), constructores con parámetros, metodos de clase y estáticos, por lo que es un lenguaje más amigable desde el punto de vista de Orientación a Objetos. Las variables y métodos privados en python son semi-publicos, y python no soporta interfaces (aunque se pueden emular). Ambos soportan metodos y variables de instancia y propiedades. 
+* Python soporta herencia (múltiple), constructores con parámetros, metodos de clase y estáticos, por lo que es un lenguaje más amigable desde el punto de vista de Orientación a Objetos. Las variables y métodos privados en python son semi-publicos, y python no soporta interfaces (aunque se pueden emular). Ambos soportan metodos y variables de instancia y propiedades.
 
 * Python no soporta atributos/propiedades por defecto. En VB, si no se especifica atributo, en general hay uno por defecto. Ej. ``col('hola')`` en una colección en realidad esta accediendo al método Item: ``col.Item('hola')``. Esto es similar a la sintaxis de Python para los diccionarios: ``dic['hola']`` es similar a ``dic.__getitem__('hola')``, pero en VB tiene un uso implicito mucho mas extendido.
 
 Referencias
 ~~~~~~~~~~~
 
-* Python no distingue entre manejo por referencia y por valor, pero si entre tipos mutables e inmutables. Los tipos mutables (listas, diccionarios y objetos del usuario) se utilizan siempre por "referencia". Los tipos inmutables (enteros, flotantes, cadenas) se utilizan siempre por "valor". 
+* Python no distingue entre manejo por referencia y por valor, pero si entre tipos mutables e inmutables. Los tipos mutables (listas, diccionarios y objetos del usuario) se utilizan siempre por "referencia". Los tipos inmutables (enteros, flotantes, cadenas) se utilizan siempre por "valor".
 
 * En Python, los tipos mutables (por "referencia") se asignan de la misma manera que los tipos inmutables (por "valor"). No hay una distinción explícita como en VB donde es necesario utilizar la instrucción ``Set variable = valor``, ni en los argumentos con los modificadores ``ByValue`` y ``ByRef``.
 
@@ -71,7 +71,7 @@ Sintaxis
 
 * En Python la identación es obligatoria para definir los bloques, en VB es opcional y no define los bloques.
 
-* Python no utiliza delimitadores de bloque: ni llaves ni palabras claves (``End For``, ``End If``, etc. de VB). 
+* Python no utiliza delimitadores de bloque: ni llaves ni palabras claves (``End For``, ``End If``, etc. de VB).
 
 * En Python para separar varias instrucciones se puede utilizar el punto y coma (dos puntos en VB). Este no delimita el final de la linea, ya que solo se puede hacer una instrucción multilinea terminando la linea que continua con una \ (guion bajo en VB) salvo excepciones (textos multiples lineas con ``"""`` o cuando se abre un paréntesis)
 

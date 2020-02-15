@@ -34,7 +34,7 @@ Opciones
 
 * Otro ( especificar cúal es )
 
-Para votar simplemente completá con tu nombre, dirección de email y elección en esta misma página. 
+Para votar simplemente completá con tu nombre, dirección de email y elección en esta misma página.
 
 **Marcos Vanetta - marcosvanetta_no_quiero_spam_gmail_com - Taza / Calcomanía / Pin**
 

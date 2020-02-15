@@ -28,7 +28,7 @@ Asistentes:
 
 Por favor, si venís a la reunión, anotate en esta lista:
 
- 
+
 
   [Table not converted]
 
@@ -60,9 +60,9 @@ Listas de correo
 
 Se propuso ir un poco más lejos, creando una nueva lista pyar-anuncios para los eventos y noticias, ya que hay gente que no está suscripta ni a pyar ni a bar. Tambien se hablo sobre encauzar un poco la organización interna con una lista pyar-admin o pyar-meta, y ver que onda con la lista de organización de PyConAr_ que ya existe (continuarla o cerrarla)...
 
-Por último, al hablar de tantas listas, se propuso una global (pyar-todo) que reciba todos los mensajes, que podría también ser alguna otra de las que existen. 
+Por último, al hablar de tantas listas, se propuso una global (pyar-todo) que reciba todos los mensajes, que podría también ser alguna otra de las que existen.
 
-TO DO: 
+TO DO:
 
 1. pybar con nuevas reglas ok, mandar mail: reglas entran en vigencia
 
@@ -75,7 +75,7 @@ TO DO:
 Sitio web
 :::::::::
 
-Se empezó discutiendo sobre algunas recetas de baja calidad en el recetario, con la conclusión  de que habría que firmarlas. Se hablo de armar algo más avanzado (para la firma, comentarios, votación) pero no se llegó a ninguna conclusion realista, por ahora queda el wiki. 
+Se empezó discutiendo sobre algunas recetas de baja calidad en el recetario, con la conclusión  de que habría que firmarlas. Se hablo de armar algo más avanzado (para la firma, comentarios, votación) pero no se llegó a ninguna conclusion realista, por ahora queda el wiki.
 
 Pero el wiki sukea, sobre todo la portada, por lo que habría que contratar un diseñador para que arme una landing page como la gente (sprint pago o pagar proveedor)
 
@@ -88,7 +88,7 @@ PyCon 2011
 
 Cerrar llamado a propuesta: rafaela o junin, definir las fechas!!!
 
-Facundo propuso someter a votacion en lista pycon-ar. Este punto no quedo muy claro pero está relacionado al de la lista de pyconar-admin 
+Facundo propuso someter a votacion en lista pycon-ar. Este punto no quedo muy claro pero está relacionado al de la lista de pyconar-admin
 
 Se planteó si se va a participar con br por el tema de keynotes: hablar con br experiencia pasada, mejorar futuro avanzar en paralelo oradores.
 
@@ -115,7 +115,7 @@ Se presentaron nuevas propuestas en sociedad y se comento el estado de proyectos
 
 * cdpedia: scrapping wikipedia en español, presentación educar - wikimedia arg. falta retocar css, headers, logos, links, frntpage!!!. necesitamos ayuda cerebros (comunicacional!)
 
-* factura electronica: se hablo sobre el interesante grado de difusión que esta teniendo (N.del R.: pasaron 2 años desde que se presento en otra reunión de PyAr_), que estaría bueno hacer un sistema online alternativo al de AFIP, tambien nos reunimos varios para hablar temas de administración y desarrollo (commiters). 
+* factura electronica: se hablo sobre el interesante grado de difusión que esta teniendo (N.del R.: pasaron 2 años desde que se presento en otra reunión de PyAr_), que estaría bueno hacer un sistema online alternativo al de AFIP, tambien nos reunimos varios para hablar temas de administración y desarrollo (commiters).
 
 Todos los proyectos hicieron el respectivo llamado a la comunidad: se necesitan programadores, testers, documentadores, para la mayoría no hace falta ser un hacker para colaborar.
 

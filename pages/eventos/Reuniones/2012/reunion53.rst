@@ -46,9 +46,9 @@ Extra
 
 Invitados:
 
-* Yo (Diva Satanica) me tomé el atrevimiento de invitar a mi coterráneo Yaco (http://ar.linkedin.com/in/dardovaldez) y su Sra esposa, para que viera la buena onda y la calidad de gente que estoy conociendo en la lista de Pyar. 
+* Yo (Diva Satanica) me tomé el atrevimiento de invitar a mi coterráneo Yaco (http://ar.linkedin.com/in/dardovaldez) y su Sra esposa, para que viera la buena onda y la calidad de gente que estoy conociendo en la lista de Pyar.
 
-El hace mucho me había comentado que trató de contactarse con gente del ambiente en Cba pero no había tenido éxito, asi que le jodí a todos para juntarnos por suerte me dijeron que si y aproveché la ocasión para invitarlo. 
+El hace mucho me había comentado que trató de contactarse con gente del ambiente en Cba pero no había tenido éxito, asi que le jodí a todos para juntarnos por suerte me dijeron que si y aproveché la ocasión para invitarlo.
 
 Me dijo que la pasó bien ese breve tiempo que se quedó, creo que como máximo fue casi media hora, andaba con mucho laburo, por eso no se pudo quedar más tiempo. Y le sugerí que se meta en la lista de pyar.
 

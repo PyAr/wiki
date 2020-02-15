@@ -7,8 +7,8 @@ Obtener Sensacion Termica
 ::
 
     #!/usr/bin/env python
-    # -*- coding: utf-8 -*- 
-    # 
+    # -*- coding: utf-8 -*-
+    #
     import math
 
     t= 20 # Temperatura

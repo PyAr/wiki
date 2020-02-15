@@ -9,7 +9,7 @@ El juego consiste en **armar grupos de hasta 4 personas ( máximo )**  que deben
 La idea es que no programen ni antes del evento, ni durante el evento, salvo en los tracks asignados al juego.
 
 **Las  aplicaciones presentadas pueden ser de cualquier tipo, pueden utilizar  solamente el lenguaje Python, y los frameworks / librerías que quieran.**
- 
+
 
 Las aplicaciones seran evaluadas por un **jurado de notables**, y cada uno de los ganadores va a ser distinguido con el título de **Master of the PyConApp Argentina 2011**. Un título de nobleza, que es altamente deseable y que despertará la envidia de amigos y enemigos.
 

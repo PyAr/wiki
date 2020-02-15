@@ -21,7 +21,7 @@ Se utiliza un sistema de voto ponderado, donde cada revisor le otorgará a cada 
 Reunión del Comité de Programa
 ------------------------------
 
-Una vez que todas las propuestas han recibido votos de diferentes revisores, agendaremos reuniones por IRC para hacer la selección final. 
+Una vez que todas las propuestas han recibido votos de diferentes revisores, agendaremos reuniones por IRC para hacer la selección final.
 
 Se ordenará todas las propuestas por el promedio de puntaje (por cada track), preseleccionando las primeras hasta cubrir el cupo de lugares disponibles. Las decisiones son provisoras en este punto, ya que podemos encontrar la misma propuesta varias veces por diferentes personas, y podríamos vernos forzados a rechazar una o dos propuestas en favor de la diversidad.
 

@@ -85,7 +85,7 @@ Entonces:
 ::
 
     $ django-admin.py shell --settings=<nombre del proyecto>.settings
-    Python 2.6.5 (r265:79063, Apr 16 2010, 13:09:56) 
+    Python 2.6.5 (r265:79063, Apr 16 2010, 13:09:56)
     [GCC 4.4.3] on linux2
     Type "help", "copyright", "credits" or "license" for more information.
     (InteractiveConsole)

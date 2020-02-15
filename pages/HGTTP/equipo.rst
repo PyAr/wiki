@@ -26,7 +26,7 @@ Algunos tips para tener en cuenta:
 
 * Un amigo puede ser una luz, pero no necesariamente un buen colaborador: Cuando tenes un colaborador, tenes que poder delegar una tarea y suponer de ahi en adelante que esta se realizara en tiempo y forma.
 
-  * Delegar no es desentenderse: 
+  * Delegar no es desentenderse:
 
     * Tenes que tener en cuenta que si surge un problema tenes que estar listo para darle una mano a tu colaborador para volver a ponerse en carrera.
 
@@ -34,7 +34,7 @@ Algunos tips para tener en cuenta:
 
     * Si vas a delegar una tarea que requiere recursos o decisiones mas alla del rol de la persona, tenes que estar disponible para contestar a sus inquietudes.
 
-* Entusiasmo no es habilidad ni tiempo: Si bien cuando uno decide hacer un evento de magnitud considerable y muy interesante tenemos muchos prospectos de colaboradores, no todos son candidatos a coordinar tareas. 
+* Entusiasmo no es habilidad ni tiempo: Si bien cuando uno decide hacer un evento de magnitud considerable y muy interesante tenemos muchos prospectos de colaboradores, no todos son candidatos a coordinar tareas.
 
   * Muchos tienen mas entusiasmo que tiempo y no comprenden las consecuencias de incumplir alguna de sus tareas asignadas, a fin de cuenta uno suele ser el que pone la cara.
 

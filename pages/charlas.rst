@@ -1,4 +1,4 @@
-.. contents:: 
+.. contents::
     :depth: 2
 
 En esta página podrán encontrar los *slides* de charlas y presentaciones dictadas por miembros de PyAr_.
@@ -193,7 +193,7 @@ Introducción a Python 2da. parte (Librería Estandar, Bases de datos, Aplicacio
 
 *Mariano Reingart*
 
-**Slides:** 
+**Slides:**
 
 -------------------------
 
@@ -347,7 +347,7 @@ Mini Introducción a Django
 
 JuanFisanotti_
 
-**Slides:**  
+**Slides:**
 
 -------------------------
 
@@ -358,7 +358,7 @@ Pycasa Inside: PyGTK usando Glade
 
 NataliaBidart_
 
-**Slides:**  
+**Slides:**
 
 -------------------------
 
@@ -369,9 +369,9 @@ Mythbusters: Tests
 
 NataliaBidart_
 
-**Slides:**  
+**Slides:**
 
-**Slides "Test runners":**  
+**Slides "Test runners":**
 
 -------------------------
 
@@ -382,7 +382,7 @@ Entendiendo decoradores en Python
 
 JuanjoConti_
 
-**Slides:**  
+**Slides:**
 
 -------------------------
 
@@ -404,7 +404,7 @@ Programando Python en Android
 
 MatiasBordese_
 
-**Slides:**  
+**Slides:**
 
 -------------------------
 
@@ -415,7 +415,7 @@ Behind the scenes: Python Bytecode
 
 MatiasBordese_
 
-**Slides:**  
+**Slides:**
 
 -------------------------
 
@@ -426,9 +426,9 @@ Introducción a wxPython
 
 `MarceloFernández`_
 
-**Slides ODP:**  
-**Slides PDF:**  
-**Código de ejemplos:**  
+**Slides ODP:**
+**Slides PDF:**
+**Código de ejemplos:**
 
 
 PyDay Córdoba 2011
@@ -684,7 +684,7 @@ Respondiendo en milisegundos
 
 Si son como yo, usan la computadora para solucionar problemas complejos, pero les impacienta cuando tarda más de un minuto en responder. Los usuarios son así también. En esta charla vamos a ver cómo obtener respuestas en milisegundos en vez de minutos u horas, pero claro, con un truco: cacheando. La mayoría de los procesos que hay en un sistema útil son todos cacheables. Vamos a aprender a implementar arquitecturas complejas para solucionar problemas complejos.
 
-- Slides (CC-BY-SA): 
+- Slides (CC-BY-SA):
 
   * odp: `respondiendo_en_ms.odp`_
 
@@ -699,7 +699,7 @@ Manejando 220.000 QPS sin despeinarse
 
 Describe la arquitectura que permite que Jampp maneje 220.000 requests por segundo de forma eficiente y escalable.
 
-- Slides (CC-BY-SA): 
+- Slides (CC-BY-SA):
 
   * odp: `manejando_220kqps.odp`_
 
@@ -733,7 +733,7 @@ Veremos como se comporta el ORM de Django con bases de datos grandes. Para esto 
 
 -------------------------
 
-Asi que tu piensas que puedes PDBear? 
+Asi que tu piensas que puedes PDBear?
 -------------------------------------
 
 **Emiliano Dalla Verde Marcozzi**
@@ -784,7 +784,7 @@ SPOILER ALERT: esta charla no incluye código
 
 Se trata de una presentación del Ecosistema Python. ¿Para qué y cómo se usa Python? ¿Por qué? La charla se enfoca en una de sus mayores ventajas: la comunidad. No incluye cuestiones técnicas ni formales sobre el lenguaje en si mismo.
 
-Hay muchas charlas que apuntan a lo técnico: a enseñar el lenguaje o herramientas asociadas. En esta charla propongo analizar Python con una mirada ortogonal, que se basa en la comunidad. 
+Hay muchas charlas que apuntan a lo técnico: a enseñar el lenguaje o herramientas asociadas. En esta charla propongo analizar Python con una mirada ortogonal, que se basa en la comunidad.
 Es para dar una perspectiva más amplia y abarcadora del lenguaje, para dimensionar su utilidad y ventajas desde una perspectiva no tan común.
 La charla incluye mención a diversos ámbitos, de la industria y académicos, donde se usa Python y a cuestiones asociadas al entorno laboral.
 
@@ -801,7 +801,7 @@ Introducción a Docker
 
 *Emiliano Dalla Verde Marcozzi*
 
-**Slides:** https://drive.google.com/open?id=1VdWZm_opKFOdibQzHNopcDM_X9QlIZlCmOzylVP0IiE 
+**Slides:** https://drive.google.com/open?id=1VdWZm_opKFOdibQzHNopcDM_X9QlIZlCmOzylVP0IiE
 
 -------------------------
 
@@ -810,7 +810,7 @@ Introducción informal a la programacion
 
 *Emiliano Dalla Verde Marcozzi*
 
-**Slides:** https://drive.google.com/open?id=1qHkzva6fi4VverbrLn9RSqxcVFRUMeNLulRuBH_zBJI 
+**Slides:** https://drive.google.com/open?id=1qHkzva6fi4VverbrLn9RSqxcVFRUMeNLulRuBH_zBJI
 
 -------------------------
 
@@ -822,12 +822,12 @@ Python para humanos
 
 *Carlos de la Torre* (`@py_litox <https://twitter.com/py_litox>`_)
 
-Se trata de una breve introducción a Python: como lenguaje pero principalmente de su Ecosistema. 
-¿Para qué y cómo se usa Python? ¿Por qué? 
-La charla se enfoca en una de sus mayores ventajas: la comunidad. 
+Se trata de una breve introducción a Python: como lenguaje pero principalmente de su Ecosistema.
+¿Para qué y cómo se usa Python? ¿Por qué?
+La charla se enfoca en una de sus mayores ventajas: la comunidad.
 Incluye apenas una breve descripción técnica del lenguaje al comienzo.
 
-Hay muchas charlas que apuntan a lo técnico: a enseñar el lenguaje o herramientas asociadas. En esta charla propongo analizar Python con una mirada ortogonal, que se basa en la comunidad. 
+Hay muchas charlas que apuntan a lo técnico: a enseñar el lenguaje o herramientas asociadas. En esta charla propongo analizar Python con una mirada ortogonal, que se basa en la comunidad.
 Es para dar una perspectiva más amplia y abarcadora del lenguaje, para dimensionar su utilidad y ventajas desde una perspectiva no tan común.
 La charla incluye mención a diversos ámbitos, de la industria y académicos, donde se usa Python y a cuestiones asociadas al entorno laboral.
 
@@ -851,7 +851,7 @@ PyConAr 2016 Bahia Blanca
 Infraestructura como código
 ----------------------------
 
-*Nicolás Demarchi* (`@gilgamezh <https://twitter.com/gilgamezh>`_) 
+*Nicolás Demarchi* (`@gilgamezh <https://twitter.com/gilgamezh>`_)
 
 **Slides** http://bit.ly/2gEL72Y
 
@@ -859,14 +859,14 @@ Infraestructura como código
 Bots charlatanes
 ----------------
 
-*Emiliano Dalla Verde Marcozzi* (`@edvm <https://twitter.com/edvm>`_) 
+*Emiliano Dalla Verde Marcozzi* (`@edvm <https://twitter.com/edvm>`_)
 
 **Slides** https://github.com/edvm/talks/tree/master/pycon2016
 
 Redes Neuronales con Python utilizando Keras
 --------------------------------------------
 
-*Juan Pedro Fisanotti* (`@fisadev <https://twitter.com/fisadev>`_) 
+*Juan Pedro Fisanotti* (`@fisadev <https://twitter.com/fisadev>`_)
 
 **Slides** https://github.com/fisadev/talks/tree/master/keras-neural-networks
 
@@ -882,7 +882,7 @@ Por `Facundo Batista <http://taniquetil.com.ar/plog/>`_
 Concurrencia en Python
 ----------------------
 
-*Martin Alderete* (`@malderete <https://twitter.com/alderetemartin>`_) 
+*Martin Alderete* (`@malderete <https://twitter.com/alderetemartin>`_)
 
 **Slides** https://docs.google.com/presentation/d/1NswnJQXJR3E45hzX3vfZRmyxKFXoQRWBefZBb41gUZU/edit?usp=sharing
 
@@ -989,7 +989,7 @@ __init__: Introducción a la programación con Python!
 Sistemas Recomendadores en Python
 ---------------------------------
 
-*María Emilia Charnelli* 
+*María Emilia Charnelli*
 
 **Presentación**: https://github.com/mcharnelli/PyDayLP2018
 

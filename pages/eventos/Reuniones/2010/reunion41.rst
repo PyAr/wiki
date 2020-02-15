@@ -11,7 +11,7 @@ Asistieron
 
 * Mariano Galan
 
-* Tomas Zulberti 
+* Tomas Zulberti
 
 * Luis Visintini
 

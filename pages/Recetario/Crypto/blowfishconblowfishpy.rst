@@ -6,7 +6,7 @@ Escribe acerca de Recetario/Crypto/BlowfishConBlowfishpy aquí.
    ➜  ~  mkdir crypto_example
    ➜  ~  cd crypto_example
    ➜  crypto_example  wget http://www.seanet.com/\~bugbee/crypto/blowfish/blowfish.py3
-   ➜  crypto_example  mv blowfish.py3 blowfish.py 
+   ➜  crypto_example  mv blowfish.py3 blowfish.py
 
 con este codigo
 

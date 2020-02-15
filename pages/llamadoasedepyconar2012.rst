@@ -11,7 +11,7 @@ Y no se asusten, manden propuestas que se puede hacer un evento así y es muy li
 
 Es muy importante que tengan en cuenta acerca del lugar :
 
-- **La capacidad hotelera de su ciudad. Esto incluye cualquier lugar donde dormir, desde 5 estrellas hasta hostels. Viene gente muy diferente al evento y está** **buenisimo tener ofertas para todos.** 
+- **La capacidad hotelera de su ciudad. Esto incluye cualquier lugar donde dormir, desde 5 estrellas hasta hostels. Viene gente muy diferente al evento y está** **buenisimo tener ofertas para todos.**
 
 - **Mencionar cómo se puede llegar a su ciudad. Por ejemplo a Junín en avión no podés llegar. Comentar si hay micros directos, trenes, aereos.**
 

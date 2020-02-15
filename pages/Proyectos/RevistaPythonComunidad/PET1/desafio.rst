@@ -10,7 +10,7 @@ De esta página los participantes pueden bajar un programa que les permite valid
 
 *You can download a program to test your solution.*
 
-Uso/*Use*: 
+Uso/*Use*:
 
 ::
 

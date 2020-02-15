@@ -16,7 +16,7 @@ Efecto "The Matrix" en linea de comandos, con modificacion es util de Screen Sav
            self.x = random.randint(0, display().width)
            self.skip = 0
            return self
-     
+
        def move(self):
            if self.speed > self.skip:
                self.skip += 1
@@ -28,7 +28,7 @@ Efecto "The Matrix" en linea de comandos, con modificacion es util de Screen Sav
        def __init__(self):
            self.height, self.width = [int(x) for x in os.popen('stty size', 'r').read().split()]
            self[:] = [' ' for y in xrange(self.height) for x in xrange(self.width)]
-     
+
        def set_vertical(self, x, y, string):
            string = string[::-1]
            if x < 0:
@@ -45,9 +45,9 @@ Efecto "The Matrix" en linea de comandos, con modificacion es util de Screen Sav
            start = y*self.width+x
            length = self.width*(y+len(string))
            step = self.width
-         
+
            self[start:length:step] = string
-     
+
        def __str__(self):
            return ''.join(self)
 

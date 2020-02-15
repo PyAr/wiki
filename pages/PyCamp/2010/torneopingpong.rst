@@ -19,7 +19,7 @@ Horario
 Inscriptos
 ----------
 
-Anotate en el siguiente lista para participar del torneo: *el que no se anotó* **perdió** 
+Anotate en el siguiente lista para participar del torneo: *el que no se anotó* **perdió**
 
 * Humitos
 

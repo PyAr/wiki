@@ -25,9 +25,9 @@ A definir, tentativa a mediados de Octubre, Viernes, Sábado y Domingo de 9 a 18
 
 Administración
 **************
-La figura legal para la administración del dinero del evento será la Asociación Civil Python Argentina, al igual que la última Pycon. 
+La figura legal para la administración del dinero del evento será la Asociación Civil Python Argentina, al igual que la última Pycon.
 Aspectos sobresalientes:
-Estamos en plena negociación para conseguir: 
+Estamos en plena negociación para conseguir:
 Transporte para expositores.
 Catering en el comedor universitario.
 Becas.

@@ -81,7 +81,7 @@
        setting 'C' locale will get back to untranslated original messages:
 
        Examples:
-      
+
        Python 3.4.0a0 (default:8f0d5ecca524+, Oct 28 2012, 00:46:34)
        [GCC 4.6.3] on linux
        Type "help", "copyright", "credits" or "license" for more information.
@@ -141,9 +141,9 @@
        /usr/share/locale) as a special domain called "python" is used to
        not interfere with python modules / libraries / packages already
        using gettext.
-      
+
        Some steps are required to set up internationalization correctly:
-      
+
        1. locale.bind_textdomain_codeset("python", "utf8") should be
           called in pythonrun.c to initialize encoding (preventing nested
           unicode exceptions if internationalization is not correctly)
@@ -157,7 +157,7 @@
        Although it is just a proof of concept, final version shouldn't be
        much different than this, as internationalization points are
        well-known so just 2 C files were modified.
-      
+
        In order to keep the change small, and in order to not bother other
        developers with new special issues, this approach needs a custom tool
        for messages recollection from source files, similar to pygettext.py,
@@ -203,5 +203,5 @@
    coding: utf-8
    End:
 
-Attachment moin wiki code: 
+Attachment moin wiki code:
 

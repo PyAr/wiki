@@ -20,7 +20,7 @@ Asistentes
 
 Por favor, si viniste a la reunión, anotate en esta lista:
 
- 
+
 
   [Table not converted]
 
