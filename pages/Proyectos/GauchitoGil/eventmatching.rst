@@ -43,9 +43,3 @@ Aunque la cantidad de evaluaciones crece de manera sub lineal, el tiempo que tom
 Aunque vemos que el tiempo del algortimo de red crece menos que el naive, los tiempos son bastante malos. De base estamos viendo un nivel de matcheo de 700/s con 100 subscripciones, 200/s con 1000 subscripciones y 53/s con 10.000 subscripciones.
 
 Para poder soportar miles de usuarios, donde cada evento matchea con solo UNA subscripción (y hay miles de subscripciones, una por usuario) me parece **LENTO**. No necesariamente el O(), pero si en tiempo total de ejecución.
-
--------------------------
-
- CategoryProyectos_
-
-.. _categoryproyectos: /categoryproyectos

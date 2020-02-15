@@ -22,10 +22,3 @@ Ejemplo:
    2066696798 bytes received
    169266445 bytes sent
 
--------------------------
-
-
-
-  CategoryRecetas_
-
-.. _categoryrecetas: /categoryrecetas

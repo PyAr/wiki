@@ -3,7 +3,3 @@ Este proyecto está suspendido porque sus links apuntan a propaganda, y el conta
 
 Cualquier duda preguntar en ``admin EN python PUNTO com PUNTO ar``
 
--------------------------
-
- CategoryTemplate_
-

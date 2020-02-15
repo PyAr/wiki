@@ -89,14 +89,9 @@ No logramos ponernos demasiado de acuerdo con cual es el objetivo real de tener 
 
 De todas formas, al ser 10 personas en la capital, no es representativo de que opina la totalidad del grupo.
 
--------------------------
-
- CategoryReuniones_
-
 .. _joaquinsorianello: /joaquinsorianello
 .. _pyday: /pyday
 .. _hugoruscitti: /hugoruscitti
 .. _pyqt: /CharlasAbiertas2010/pyqt
-.. _categoryreuniones: /categoryreuniones
 .. _facundobatista: /miembros/facundobatista
 .. _pycon: /pycon

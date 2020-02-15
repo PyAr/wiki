@@ -25,10 +25,3 @@ Ejemplo:
 
     ERROR: Do not run as root...
 
--------------------------
-
-
-
-  CategoryRecetas_
-
-.. _categoryrecetas: /categoryrecetas

@@ -23,13 +23,8 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
 
 [Table not converted]
 
--------------------------
-
- CategoryPyCamp_
-
 .. ############################################################################
 
 .. _Joac: JoaquinSorianello
 
 .. _pycamp: /pycamp
-.. _categorypycamp: /categorypycamp

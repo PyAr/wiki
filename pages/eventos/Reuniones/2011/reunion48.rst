@@ -104,8 +104,3 @@ Rendering of reStructured text is not possible, please install Docutils.**
    - Está bueno que la bienvenida sea cordial acorde a que la gente nueva se sienta cómoda y se sume al proyecto.
    - Está bueno que mencione el recetario y la wiki.
 
--------------------------
-
- CategoryReuniones_
-
-.. _categoryreuniones: /categoryreuniones

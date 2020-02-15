@@ -42,10 +42,3 @@ Decodificar entities de HTML
 
 Gracias Martin Conte Mac Donell! 😉
 
--------------------------
-
-
-
-  CategoryRecetas_
-
-.. _categoryrecetas: /categoryrecetas

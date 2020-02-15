@@ -18,14 +18,8 @@ Presentación de ICARO, un entorno de robotica educativa con software libre dise
 
 `[[Video(http://pyar.usla.org.ar/icaro001.ogv)]]`_
 
-.. Puto el que lee
-
--------------------------
-
- CategoryVideo_
 
 .. ############################################################################
 
 .. _PyDay 2011: Eventos/PyDay/2011/Cordoba
 
-.. _categoryvideo: /categoryvideo

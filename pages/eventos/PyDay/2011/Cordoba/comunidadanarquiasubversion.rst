@@ -18,15 +18,8 @@ Pensamientos sobre nuestras comunidades, formas de organización en las distinta
 
 `[[Video(http://pyar.usla.org.ar/comunidad001.ogv)]]`_
 
-.. Puto el que lee
-
--------------------------
-
- CategoryVideo_
-
 .. ############################################################################
 
 .. _PyDay 2011: Eventos/PyDay/2011/Cordoba
 
 .. _facundobatista: /miembros/facundobatista
-.. _categoryvideo: /categoryvideo

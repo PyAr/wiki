@@ -107,12 +107,6 @@ Autor / Autores:
 
 MarianoReingart_
 
--------------------------
-
-
-
-  CategoryRecetas_
-
 .. ############################################################################
 
 .. _Python 2.5: http://www.python.org/download/
@@ -124,4 +118,3 @@ MarianoReingart_
 .. _py2exe: /py2exe
 .. _distutils: /distutils
 .. _marianoreingart: /marianoreingart
-.. _categoryrecetas: /categoryrecetas

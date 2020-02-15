@@ -12,8 +12,3 @@ Pagina de desarrollo principal
 
 Una descripción más detallada del proyecto se puede encontrar en http://pymaram.python-hosting.com/wiki/GeTesFi
 
--------------------------
-
- CategoryProyectos_
-
-.. _categoryproyectos: /categoryproyectos

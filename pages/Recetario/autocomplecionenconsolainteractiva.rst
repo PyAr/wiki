@@ -47,9 +47,3 @@ OS X
 
 Aparentemente apple no distribuye OSX con soporte para readline de fabrica. Yo estoy seguro que hace tiempo instalé readline 6.1 y py25-readline.
 
--------------------------
-
-
-
-  CategoryRecetas_
-.. _categoryrecetas: /categoryrecetas

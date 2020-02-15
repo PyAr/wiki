@@ -39,10 +39,5 @@ Esto es todo.
 
 PD: Estamos pidiendo el presupuesto para 40 o 50 personas, por lo que sería bueno tener una idea de la cantidad de personas interesadas.
 
--------------------------
-
- CategoryReuniones_
-
 .. _pyar: /pyar
 .. _pycamp: /pycamp
-.. _categoryreuniones: /categoryreuniones

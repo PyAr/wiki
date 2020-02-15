@@ -19,10 +19,4 @@ Ejemplo:
 
     Python version > 2.6.0
 
--------------------------
 
-
-
-  CategoryRecetas_
-
-.. _categoryrecetas: /categoryrecetas

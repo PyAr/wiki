@@ -20,10 +20,6 @@ SqlAlchemy_ es un excelente orm cual nos permite trabajar con bases de datos rel
 
 .. Puto el que lee
 
--------------------------
-
- CategoryVideo_
-
 .. ############################################################################
 
 
@@ -31,4 +27,3 @@ SqlAlchemy_ es un excelente orm cual nos permite trabajar con bases de datos rel
 
 
 .. _emilianodallaverdemarcozzi: /emilianodallaverdemarcozzi
-.. _categoryvideo: /categoryvideo

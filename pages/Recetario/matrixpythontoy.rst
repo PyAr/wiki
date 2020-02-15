@@ -71,10 +71,3 @@ Ejemplo:
    juan@maverick:~$ /usr/bin/env python matrix.py
    Input a message: PYTHON
 
--------------------------
-
-
-
-  CategoryRecetas_
-
-.. _categoryrecetas: /categoryrecetas

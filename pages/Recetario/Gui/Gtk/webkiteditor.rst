@@ -81,11 +81,3 @@ Entonces deberan agregar un "gtk.gdk.threads_init()" antes de llamar a "EditorWi
         window.entry.activate()
         gtk.main()
 
-
--------------------------
-
-
-
-  CategoryRecetas_
-
-.. _categoryrecetas: /categoryrecetas

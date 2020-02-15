@@ -36,11 +36,3 @@ Ademas de poder embeber imágenes, la librería Qt (y por ende PyQt) también pe
     if __name__ == '__main__':
         print loadTextFileFromRc(':/ruta/al/recurso.txt')
 
-
--------------------------
-
-
-
-  CategoryRecetas_
-
-.. _categoryrecetas: /categoryrecetas

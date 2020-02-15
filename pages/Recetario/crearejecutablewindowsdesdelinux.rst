@@ -134,10 +134,3 @@ Como se darán cuenta, todas estas instrucciones de linea de comando se pueden c
    tar -cf Linux-Nuevasideas.tar Linux/
    bzip2 Linux-Nuevasideas.tar
 
--------------------------
-
-
-
-  CategoryRecetas_
-
-.. _categoryrecetas: /categoryrecetas

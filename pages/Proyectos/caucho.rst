@@ -17,10 +17,6 @@ Descripción Técnica
 
 Una descripción más detallada del proyecto se puede encontrar en el `wiki de Caucho`_
 
--------------------------
-
- CategoryProyectos_
-
 .. ############################################################################
 
 .. _Caucho: http://caucho.sf.net/
@@ -32,4 +28,3 @@ Una descripción más detallada del proyecto se puede encontrar en el `wiki de C
 .. _luciotorre: /luciotorre
 .. _alejandrodavidweil: /alejandrodavidweil
 .. _nubis: /nubis
-.. _categoryproyectos: /categoryproyectos

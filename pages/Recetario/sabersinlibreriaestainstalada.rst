@@ -20,10 +20,3 @@ Ejemplo:
    ImportError: No module named libreriaquenoestainstalada
    juan@maverick:~$
 
--------------------------
-
-
-
-  CategoryRecetas_
-
-.. _categoryrecetas: /categoryrecetas
