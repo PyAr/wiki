@@ -4,7 +4,7 @@ Resultado
 
 Habemus ganadorus: Ganó el tercer diseño de Cesar Roldan, `RemerasV2/CesarRoldan3`_.
 
-`remeraCesar3.png </images/RemerasV2/remeraCesar3.png>`_
+.. image:: /images/RemerasV2/remeraCesar3.png
 
 Esta es toda la info de los sufragios, con las direcciones de mail saneadas:
 

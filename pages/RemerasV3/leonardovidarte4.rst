@@ -1,7 +1,7 @@
 
 Lo que python es. Inspirado en `¿Que es y por que Python?`_.
 
-`pyar4.png </images/RemerasV3/LeonardoVidarte4/pyar4.png>`_
+.. image:: /images/RemerasV3/LeonardoVidarte4/pyar4.png
 
 
 

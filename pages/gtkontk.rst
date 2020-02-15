@@ -14,7 +14,7 @@ De fondo Gedit en Ubuntu, usando el tema Ambiance, arriba una ventana con simila
 
   :small:`El codigo de este ejemplo esta mas abajo` *(la foto no esta editada, no hay truco, funciona en KDE, o inclusive lo he hecho funcionar sin GTK instalado)*:small:`.`
 
-`gtk-on-tk-hack.jpg </images/GTKonTK/gtk-on-tk-hack.jpg>`_
+.. image:: /images/GTKonTK/gtk-on-tk-hack.jpg
 
 **El Codigo para hacer GTK on TK:**
 
@@ -698,9 +698,9 @@ Descripcion: Crea 2 ventanas pequeñas iguales, una tratara de imitar el tema de
 
 Capturas:
 
-`gtkontk01.png </images/GTKonTK/gtkontk01.png>`_
+.. image:: /images/GTKonTK/gtkontk01.png
 
-`gtkontk02.png </images/GTKonTK/gtkontk02.png>`_
+.. image:: /images/GTKonTK/gtkontk02.png
 
 .. ############################################################################
 

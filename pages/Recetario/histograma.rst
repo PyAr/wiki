@@ -44,7 +44,7 @@ Para mas información, revisar:
     >>> show()
 
 
-`ej_tribu.jpg </images/Recetario/Histograma/ej_tribu.jpg>`_
+.. image:: /images/Recetario/Histograma/ej_tribu.jpg
 
 -------------------------
 

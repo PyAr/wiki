@@ -27,13 +27,13 @@ Resultados
 
 Este es el plot que compara la cantidad de evaluaciones entre los dos métodos. El eje X es la cantidad de subscripciones x10. Probé de 1 a 1000 subscripciones. El eje Y es la cantidad de comparaciones que se realizaron para ver que subscripciones matcheaban contra 5000 eventos. (la cantidad de eventos no varía para las pruebas, solo la cantidad de subscripciones)
 
-`match_count.png </images/Proyectos/GauchitoGil/EventMatching/match_count.png>`_
+.. image:: /images/Proyectos/GauchitoGil/EventMatching/match_count.png
 
 Como pueden ver, la cantidad de matcheos en la red es sub lineal y bastante menos que en el caso naive.
 
 Sin embargo, el problema se da con los tiempos, que no son nada buenos en ninguno de los dos casos.
 
-`match_time.png </images/Proyectos/GauchitoGil/EventMatching/match_time.png>`_
+.. image:: /images/Proyectos/GauchitoGil/EventMatching/match_time.png
 
 Conclusiones
 ------------

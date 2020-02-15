@@ -6,12 +6,12 @@ Una remera con explicación para personas grandes
 
 http://www.franciscorobles.com.ar/libros/principito/pag01.htm Un solo color es suficiente. (nota: la tipografía usada en el svg es ligéramente diferente de las imágenes que se muestran, la tuve que modificar para cumplir con las reglas del concurso).
 
-`2.gif </images/RemerasV2/PabloZiliani2/2.gif>`_
+.. image:: /images/RemerasV2/PabloZiliani2/2.gif
 
 Detalle:
 ::::::::
 
-`2d.png </images/RemerasV2/PabloZiliani2/2d.png>`_
+.. image:: /images/RemerasV2/PabloZiliani2/2d.png
 
 Archivo
 -------

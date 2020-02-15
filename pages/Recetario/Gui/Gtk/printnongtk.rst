@@ -26,5 +26,5 @@ explicación: lo que hacemos después de mostrar el dialogo es procesar los even
     print 'chau'
 
 
-`Imprimir.png </images/Recetario/Gui/Gtk/PrintNonGtk/Imprimir.png>`_
+.. image:: /images/Recetario/Gui/Gtk/PrintNonGtk/Imprimir.png
 

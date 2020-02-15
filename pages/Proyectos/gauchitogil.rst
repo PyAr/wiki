@@ -6,15 +6,15 @@ Bienvenidos al primer altar online del Gauchito Gil, una revisión digital de lu
 
 Primero, conozcan al ídolo nacional, pasión de multitudes. Un hombre patrio:
 
-`GauchitoGil.jpg </images/Proyectos/GauchitoGil/GauchitoGil.jpg>`_
+.. image:: /images/Proyectos/GauchitoGil/GauchitoGil.jpg
 
 Ahora, vean su manifestación popular en la ruta:
 
-`IMG_6239.jpg </images/Proyectos/GauchitoGil/IMG_6239.jpg>`_
+.. image:: /images/Proyectos/GauchitoGil/IMG_6239.jpg
 
-`IMG_6258.jpg </images/Proyectos/GauchitoGil/IMG_6258.jpg>`_
+.. image:: /images/Proyectos/GauchitoGil/IMG_6258.jpg
 
-`IMG_6262.jpg </images/Proyectos/GauchitoGil/IMG_6262.jpg>`_
+.. image:: /images/Proyectos/GauchitoGil/IMG_6262.jpg
 
 Bibliografía
 ------------

@@ -4,7 +4,7 @@ Intento 03 de Cesar Roldan
 
 Con las sugerencias de FacundoBatista_ en la `RemerasV2/CesarRoldan2`_ y otras cosas ;-).
 
-`remeraCesar3.png </images/RemerasV2/CesarRoldan3/remeraCesar3.png>`_
+.. image:: /images/RemerasV2/CesarRoldan3/remeraCesar3.png
 
 **Diseño:**
 
@@ -12,7 +12,7 @@ Con las sugerencias de FacundoBatista_ en la `RemerasV2/CesarRoldan2`_ y otras c
 
 Casos reales y mas colores !!
 
-`remeraCesar3remera.png </images/RemerasV2/CesarRoldan3/remeraCesar3remera.png>`_
+.. image:: /images/RemerasV2/CesarRoldan3/remeraCesar3remera.png
 
 
 

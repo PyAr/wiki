@@ -3,7 +3,7 @@
 
 ¡Mirá! ¡Otra remera!
 
-`LauBenech3.png </images/RemerasV2/LauBenech3/LauBenech3.png>`_
+.. image:: /images/RemerasV2/LauBenech3/LauBenech3.png
 
 
 

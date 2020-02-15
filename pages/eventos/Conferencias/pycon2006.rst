@@ -23,15 +23,15 @@ La idea es usar esta página para proponer contenido, y que sirva de base para q
 
 Algunas estadisticas que podemos decir sobre la evolucion de la lista:
 
-`post_mensuales.jpg </images/Eventos/Conferencias/PyCon2006/post_mensuales.jpg>`_
+.. image:: /images/Eventos/Conferencias/PyCon2006/post_mensuales.jpg
 
 Erratico, pero febrero aun no termino, asi que podriamos decir que estamos en una buena epoca.
 
-`posters_mensuales.jpg </images/Eventos/Conferencias/PyCon2006/posters_mensuales.jpg>`_
+.. image:: /images/Eventos/Conferencias/PyCon2006/posters_mensuales.jpg
 
 Aunque sean menos posts, hay mucha gente participando y somos cada vez mas.
 
-`posts_mensuales_por_miembros_iniciales.jpg </images/Eventos/Conferencias/PyCon2006/posts_mensuales_por_miembros_iniciales.jpg>`_
+.. image:: /images/Eventos/Conferencias/PyCon2006/posts_mensuales_por_miembros_iniciales.jpg
 
 Los miembros iniciales (aquellos que postearon en el primer mes) cada vez representan menos del total de mensajes de la lista. Yo lo veo como que la cosa va tomando empuje con fuerza propia y no solo un par de locos que charlan mucho.
 

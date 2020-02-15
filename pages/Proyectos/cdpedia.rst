@@ -2,7 +2,9 @@
 ¿Qué es la CDPedia?
 ===================
 
-`logo-disco-180x180-white.jpg </images/Proyectos/CDPedia/logo-disco-180x180-white.jpg>`_ Es un proyecto de Python Argentina para acceder a la información de la Wikipedia en castellano aunque no tengas una conexión a Internet.
+.. image:: /images/Proyectos/CDPedia/logo-disco-180x180-white.jpg
+
+Es un proyecto de Python Argentina para acceder a la información de la Wikipedia en castellano aunque no tengas una conexión a Internet.
 
 Toda la información incluída fue obtenida de Wikipedia durante Diciembre del 2012, y es una foto del contenido on-line en un momento dado. Te sugerimos acceder a la información directamente en la Wikipedia Web si es que necesitás información actualizada de uno de los temas.
 

@@ -4,7 +4,7 @@ Intento 02 de Cesar Roldan
 
 Lo que nos potencia..
 
-`remeraCesar2.png </images/RemerasV2/CesarRoldan2/remeraCesar2.png>`_
+.. image:: /images/RemerasV2/CesarRoldan2/remeraCesar2.png
 
 Casos reales 🙂
 
