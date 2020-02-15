@@ -707,4 +707,4 @@ Capturas:
 
 
 
-.. _base: /pages/Proyectos/RevistaPythonComunidad/base
+.. _base: /Proyectos/RevistaPythonComunidad/base

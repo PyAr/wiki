@@ -185,11 +185,11 @@ Ver `SprintDjango`_
 
 .. ############################################################################
 
-.. _alecu: /pages/alejandrojcura
+.. _alecu: /alejandrojcura
 
-.. _dave: /pages/alejandrodavidweil
+.. _dave: /alejandrodavidweil
 
-.. _Mariano Mara: /pages/marianomara
+.. _Mariano Mara: /marianomara
 
 .. _PyAfip: http://www.nsis.com.ar/public/wiki/PyAfip
 
@@ -201,9 +201,9 @@ Ver `SprintDjango`_
 
 .. _tickets: http://trac.usla.org.ar/proyectos/pycon-ar/query?status=assigned&status=new&status=accepted&status=reopened&group=status&milestone=PyCamp
 
-.. _lista de cosas a hacerle: /pages/PyCamp/2009/naushikang
+.. _lista de cosas a hacerle: /PyCamp/2009/naushikang
 
-.. _perrito: /pages/horacioduran
+.. _perrito: /horacioduran
 
 .. _similar a este: http://blog.wolfire.com/2009/01/aquaria-design-tour/
 
@@ -213,20 +213,20 @@ Ver `SprintDjango`_
 
 .. _hilo: http://mx.grulic.org.ar/lurker/thread/20090308.185714.55696d61.es.html
 
-.. _marcosdione: /pages/marcosdione
-.. _johnlenton: /pages/johnlenton
-.. _anthonylenton: /pages/anthonylenton
-.. _marianoreingart: /pages/marianoreingart
-.. _marceloalaniz: /pages/marceloalaniz
-.. _pythoncard: /pages/pythoncard
-.. _hectorsanchez: /pages/hectorsanchez
-.. _pyar: /pages/pyar
-.. _gonzalodelgado: /pages/gonzalodelgado
-.. _luciotorre: /pages/luciotorre
-.. _ricardoquesada: /pages/ricardoquesada
-.. _ricardokirkner: /pages/ricardokirkner
-.. _ramiromorales: /pages/ramiromorales
-.. _texteditordeadmatch: /pages/texteditordeadmatch
-.. _pycon: /pages/pycon
-.. _SprintDjango: /pages/PyCamp/2009/TemasPropuestos/sprintdjango
-.. _pycamp: /pages/pycamp
+.. _marcosdione: /marcosdione
+.. _johnlenton: /johnlenton
+.. _anthonylenton: /anthonylenton
+.. _marianoreingart: /marianoreingart
+.. _marceloalaniz: /marceloalaniz
+.. _pythoncard: /pythoncard
+.. _hectorsanchez: /hectorsanchez
+.. _pyar: /pyar
+.. _gonzalodelgado: /gonzalodelgado
+.. _luciotorre: /luciotorre
+.. _ricardoquesada: /ricardoquesada
+.. _ricardokirkner: /ricardokirkner
+.. _ramiromorales: /ramiromorales
+.. _texteditordeadmatch: /texteditordeadmatch
+.. _pycon: /pycon
+.. _SprintDjango: /PyCamp/2009/TemasPropuestos/sprintdjango
+.. _pycamp: /pycamp

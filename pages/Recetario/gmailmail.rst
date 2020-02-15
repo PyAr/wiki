@@ -198,5 +198,5 @@ Referencias (que recuerdo):
 .. role:: small
    :class: small
 
-.. _gmailmail: /pages/Recetario/gmailmail
-.. _categoryrecetas: /pages/categoryrecetas
+.. _gmailmail: /Recetario/gmailmail
+.. _categoryrecetas: /categoryrecetas

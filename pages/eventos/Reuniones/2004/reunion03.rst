@@ -25,4 +25,4 @@ En esta reunión decidimos lo siguiente:
 Comprobamos que el lugar no es el más propicio, por la cantidad de gente y la atención (sobre todo, lo último). Facundo **prometió** encontrar un lugar mejor para la próxima...
 
 
-.. _pyar: /pages/pyar
+.. _pyar: /pyar

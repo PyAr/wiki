@@ -65,19 +65,19 @@ A eso de las 23:30 se marcho el novato escriba (yo), dejando un pedido de llevar
 .. role:: strike
    :class: strike
 
-.. _guillermogonzalez: /pages/guillermogonzalez
-.. _alejandrojcura: /pages/alejandrojcura
-.. _marianodraghi: /pages/marianodraghi
-.. _alejandrodavidweil: /pages/alejandrodavidweil
-.. _pabloziliani: /pages/pabloziliani
-.. _ricardokirkner: /pages/ricardokirkner
-.. _leitomonk: /pages/leitomonk
-.. _nubis: /pages/nubis
-.. _alfonsopalomares: /pages/alfonsopalomares
-.. _luciotorre: /pages/luciotorre
-.. _remeras: /pages/remeras
-.. _pycon2006: /pages/eventos/Conferencias/pycon2006
-.. _pyar: /pages/pyar
-.. _mauricioferrari: /pages/mauricioferrari
-.. _listadecorreo: /pages/listadecorreo
-.. _hipbar: /pages/hipbar
+.. _guillermogonzalez: /guillermogonzalez
+.. _alejandrojcura: /alejandrojcura
+.. _marianodraghi: /marianodraghi
+.. _alejandrodavidweil: /alejandrodavidweil
+.. _pabloziliani: /pabloziliani
+.. _ricardokirkner: /ricardokirkner
+.. _leitomonk: /leitomonk
+.. _nubis: /nubis
+.. _alfonsopalomares: /alfonsopalomares
+.. _luciotorre: /luciotorre
+.. _remeras: /remeras
+.. _pycon2006: /eventos/Conferencias/pycon2006
+.. _pyar: /pyar
+.. _mauricioferrari: /mauricioferrari
+.. _listadecorreo: /listadecorreo
+.. _hipbar: /hipbar

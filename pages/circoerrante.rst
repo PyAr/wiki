@@ -42,4 +42,4 @@ Anotaos, poniendo nombre, zona en la que pueden dar la charla o presentación, y
 
 
 
-.. _pyar: /pages/pyar
+.. _pyar: /pyar

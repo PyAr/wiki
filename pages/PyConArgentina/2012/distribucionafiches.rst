@@ -34,5 +34,5 @@ Para más información, escribe a la ListaDeCorreo_
 
 .. _UnManualEnCadaUniversidad: http://python.org.ar/pyar/Proyectos/UnManualEnCadaUniversidad
 
-.. _listadecorreo: /pages/listadecorreo
-.. _categorycategory: /pages/categorycategory
+.. _listadecorreo: /listadecorreo
+.. _categorycategory: /categorycategory

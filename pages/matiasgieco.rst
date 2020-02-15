@@ -78,4 +78,4 @@ Si quieren algún otro usuario y contraseña de algún otro servicio, manden un 
 .. _Mis Pruebas: http://python.com.ar/pyar/MatiasGieco/prueba01
 
 
-.. _pyar: /pages/pyar
+.. _pyar: /pyar

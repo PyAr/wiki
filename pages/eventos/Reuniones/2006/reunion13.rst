@@ -46,17 +46,17 @@ Reunión 13 - 01/02/2006 - Hip Bar
 
 .. ############################################################################
 
-.. _ActionSprite: /pages/Proyectos/caucho/
+.. _ActionSprite: /Proyectos/caucho/
 
-.. _ReleaseProcedure: /pages/eventos/Reuniones/releaseprocedure
+.. _ReleaseProcedure: /eventos/Reuniones/releaseprocedure
 
-.. _guillermogonzalez: /pages/guillermogonzalez
-.. _alejandrojcura: /pages/alejandrojcura
-.. _marianodraghi: /pages/marianodraghi
-.. _alejandrodavidweil: /pages/alejandrodavidweil
-.. _pabloziliani: /pages/pabloziliani
-.. _ricardokirkner: /pages/ricardokirkner
-.. _leitomonk: /pages/leitomonk
-.. _nubis: /pages/nubis
-.. _santiagopereson: /pages/santiagopereson
-.. _pyar: /pages/pyar
+.. _guillermogonzalez: /guillermogonzalez
+.. _alejandrojcura: /alejandrojcura
+.. _marianodraghi: /marianodraghi
+.. _alejandrodavidweil: /alejandrodavidweil
+.. _pabloziliani: /pabloziliani
+.. _ricardokirkner: /ricardokirkner
+.. _leitomonk: /leitomonk
+.. _nubis: /nubis
+.. _santiagopereson: /santiagopereson
+.. _pyar: /pyar

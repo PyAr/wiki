@@ -124,11 +124,11 @@ Blogpost sobre Pycamps
 .. ############################################################################
 
 
-.. _aqui: /pages/PyCamp/quesehace
+.. _aqui: /PyCamp/quesehace
 
-.. _organizar: /pages/PyCamp/organizandounpycamp
+.. _organizar: /PyCamp/organizandounpycamp
 
-.. _marcha: /pages/PyCamp/2020
+.. _marcha: /PyCamp/2020
 
 .. _Cocos2d: http://cocos2d.org/
 
@@ -136,34 +136,34 @@ Blogpost sobre Pycamps
 
 .. _CDpedia: http://code.google.com/p/cdpedia/
 
-.. _Los Cocos, Córdoba. Marzo de 2009: /pages/PyCamp/2009
+.. _Los Cocos, Córdoba. Marzo de 2009: /PyCamp/2009
 
-.. _Veronica, Buenos Aires. Marzo de 2010: /pages/PyCamp/2010
+.. _Veronica, Buenos Aires. Marzo de 2010: /PyCamp/2010
 
-.. _La Falda, Córdoba. Marzo de 2011: /pages/PyCamp/2011
+.. _La Falda, Córdoba. Marzo de 2011: /PyCamp/2011
 
-.. _Veronica, Buenos Aires. Julio de 2012: /pages/PyCamp/2012
+.. _Veronica, Buenos Aires. Julio de 2012: /PyCamp/2012
 
-.. _Villa Giardino, Córdoba. Junio de 2013: /pages/PyCamp/2013
+.. _Villa Giardino, Córdoba. Junio de 2013: /PyCamp/2013
 
-.. _Villa Giardino, Córdoba. Marzo de 2014: /pages/PyCamp/2014
+.. _Villa Giardino, Córdoba. Marzo de 2014: /PyCamp/2014
 
-.. _La Serranita, Córdoba. Agosto de 2015: /pages/PyCamp/2015
+.. _La Serranita, Córdoba. Agosto de 2015: /PyCamp/2015
 
-.. _La Serranita, Córdoba. Marzo de 2016: /pages/PyCamp/2016
+.. _La Serranita, Córdoba. Marzo de 2016: /PyCamp/2016
 
-.. _Baradero, Buenos Aires. Marzo de 2017: /pages/PyCamp/2017
+.. _Baradero, Buenos Aires. Marzo de 2017: /PyCamp/2017
 
-.. _ramiromorales: /pages/ramiromorales
-.. _marcosdione: /pages/marcosdione
-.. _johnlenton: /pages/johnlenton
-.. _JoaquinSorianello: /pages/joaquinsorianello
-.. _EzequielMarquez: /pages/ezequielmarquez
-.. _MartinGaitan: /pages/miembros/tin
-.. _MarcosVanetta: /pages/marcosvanetta
-.. _HugoRuscitti: /pages/hugoruscitti
-.. _EmilianoDallaVerdeMarcozzi: /pages/emilianodallaverdemarcozzi
+.. _ramiromorales: /ramiromorales
+.. _marcosdione: /marcosdione
+.. _johnlenton: /johnlenton
+.. _JoaquinSorianello: /joaquinsorianello
+.. _EzequielMarquez: /ezequielmarquez
+.. _MartinGaitan: /miembros/tin
+.. _MarcosVanetta: /marcosvanetta
+.. _HugoRuscitti: /hugoruscitti
+.. _EmilianoDallaVerdeMarcozzi: /emilianodallaverdemarcozzi
 
 
 
-.. _pyar: /pages/pyar
+.. _pyar: /pyar

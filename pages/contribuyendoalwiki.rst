@@ -49,4 +49,4 @@ Consejos sobre contenido
   la de otros, por ejemplo la de un tal PabloZiliani_.
 
 
-.. _pabloziliani: /pages/pabloziliani
+.. _pabloziliani: /pabloziliani

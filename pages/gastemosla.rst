@@ -37,4 +37,4 @@ Una vez recopiladas las distintas opciones podremos votar la(s) mejor(es) en un 
 .. _Hilo original: http://listas.python.org.ar/pipermail/pyar/2011-February/009164.html
 
 
-.. _pyar: /pages/pyar
+.. _pyar: /pyar

@@ -16,12 +16,12 @@ Configuracion del entorno python
 Crear un entorno virtual y un esqueleto de proyecto
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`Creando un nuevo proyecto python </pages/Recetario/creandounnuevoproyectopython>`_: Receta para crear un entorno de trabajo y un esqueleto minimo para un nuevo proyecto Python
+`Creando un nuevo proyecto python </Recetario/creandounnuevoproyectopython>`_: Receta para crear un entorno de trabajo y un esqueleto minimo para un nuevo proyecto Python
 
 Mejorando el interprete python
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`Autocompletado en consola interactiva </pages/Recetario/autocomplecionenconsolainteractiva>`_: tip sobre como agregar autocompleción con tab en la consola interactiva imitando el comportamiento ipython.
+`Autocompletado en consola interactiva </Recetario/autocomplecionenconsolainteractiva>`_: tip sobre como agregar autocompleción con tab en la consola interactiva imitando el comportamiento ipython.
 
 Estructuras de datos
 --------------------
@@ -53,24 +53,24 @@ Reverse_ : Función que invierte los caracteres.
 validar_cuit
 ~~~~~~~~~~~~
 
-`</pages/Recetario/validarcuit>`_ : Función para validar un CUIT/CUIL estilo 00-00000000-0
+`</Recetario/validarcuit>`_ : Función para validar un CUIT/CUIL estilo 00-00000000-0
 
 digito_verificador_modulo10
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`</pages/Recetario/calculardigitoverificadormodulodiez>`_ : Función para generar el dígito verificador módulo 10
+`</Recetario/calculardigitoverificadormodulodiez>`_ : Función para generar el dígito verificador módulo 10
 
 Normalizar caracteres Unicode
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Es bueno `</pages/Recetario/normalizarcaracteresunicode>`_ para hacer búsquedas en strings sin que se tengan en cuenta los caracteres latinos, como los acentos y la eñe.
+Es bueno `</Recetario/normalizarcaracteresunicode>`_ para hacer búsquedas en strings sin que se tengan en cuenta los caracteres latinos, como los acentos y la eñe.
 
 ObtenerSensacionTermica_: Calcular la Sensacion Termica o Temperatura Aparente.
 
 Interceptar los prints
 ~~~~~~~~~~~~~~~~~~~~~~
 
-`</pages/Recetario/interceptarprints>`_ sirve para hacer reemplazos en las strings que se van a imprimir, por ejemplo para agregar un timestamp.
+`</Recetario/interceptarprints>`_ sirve para hacer reemplazos en las strings que se van a imprimir, por ejemplo para agregar un timestamp.
 
 Frameworks Web
 --------------
@@ -391,46 +391,46 @@ Divertidos
 
 .. ############################################################################
 
-.. _Recetario/CreandoUnNuevoProyectoPython: /pages/Recetario/creandounnuevoproyectopython
+.. _Recetario/CreandoUnNuevoProyectoPython: /Recetario/creandounnuevoproyectopython
 
-.. _Autocompletado en consola interactiva: /pages/Recetario/autocomplecionenconsolainteractiva
-
-
+.. _Autocompletado en consola interactiva: /Recetario/autocomplecionenconsolainteractiva
 
 
 
 
-.. _Hola Mundo: /pages/Recetario/Bottle/holamundo
-
-.. _Mini Galeria de Imagenes: /pages/Recetario/Bottle/galeria
 
 
+.. _Hola Mundo: /Recetario/Bottle/holamundo
+
+.. _Mini Galeria de Imagenes: /Recetario/Bottle/galeria
 
 
-.. _aletras: /pages/aletras
-.. _reverse: /pages/reverse
-.. _obtenersensaciontermica: /pages/obtenersensaciontermica
-.. _qtmultithread: /pages/qtmultithread
-.. _pythoncard: /pages/pythoncard
-.. _ttkholamundo: /pages/ttkholamundo
-.. _tkwindowicon: /pages/tkwindowicon
-.. _tkbuttonicon: /pages/tkbuttonicon
-.. _tkscrollwhell: /pages/tkscrollwhell
-.. _tkonlineofflineicon: /pages/tkonlineofflineicon
-.. _tkversionprint: /pages/tkversionprint
-.. _gtkontk: /pages/gtkontk
-.. _tkwizards: /pages/tkwizards
-.. _displaylcd7segmentos: /pages/displaylcd7segmentos
-.. _botongraficotk: /pages/botongraficotk
-.. _ventanapasswordvibra: /pages/ventanapasswordvibra
-.. _relojdigital: /pages/relojdigital
-.. _comunicarthreadsconqueue: /pages/comunicarthreadsconqueue
-.. _comolevantarunservidorhttpsimple: /pages/comolevantarunservidorhttpsimple
-.. _comolevantarunservidorhttpmultithread: /pages/comolevantarunservidorhttpmultithread
-.. _xmladiccionario: /pages/xmladiccionario
-.. _simplexmlelement: /pages/simplexmlelement
-.. _localsdeunafuncionquelanzounaexcepcion: /pages/localsdeunafuncionquelanzounaexcepcion
-.. _psycospeedup: /pages/psycospeedup
-.. _mapeandomemoria: /pages/mapeandomemoria
-.. _ippublica: /pages/ippublica
-.. _categoryrecetas: /pages/categoryrecetas
+
+
+.. _aletras: /aletras
+.. _reverse: /reverse
+.. _obtenersensaciontermica: /obtenersensaciontermica
+.. _qtmultithread: /qtmultithread
+.. _pythoncard: /pythoncard
+.. _ttkholamundo: /ttkholamundo
+.. _tkwindowicon: /tkwindowicon
+.. _tkbuttonicon: /tkbuttonicon
+.. _tkscrollwhell: /tkscrollwhell
+.. _tkonlineofflineicon: /tkonlineofflineicon
+.. _tkversionprint: /tkversionprint
+.. _gtkontk: /gtkontk
+.. _tkwizards: /tkwizards
+.. _displaylcd7segmentos: /displaylcd7segmentos
+.. _botongraficotk: /botongraficotk
+.. _ventanapasswordvibra: /ventanapasswordvibra
+.. _relojdigital: /relojdigital
+.. _comunicarthreadsconqueue: /comunicarthreadsconqueue
+.. _comolevantarunservidorhttpsimple: /comolevantarunservidorhttpsimple
+.. _comolevantarunservidorhttpmultithread: /comolevantarunservidorhttpmultithread
+.. _xmladiccionario: /xmladiccionario
+.. _simplexmlelement: /simplexmlelement
+.. _localsdeunafuncionquelanzounaexcepcion: /localsdeunafuncionquelanzounaexcepcion
+.. _psycospeedup: /psycospeedup
+.. _mapeandomemoria: /mapeandomemoria
+.. _ippublica: /ippublica
+.. _categoryrecetas: /categoryrecetas

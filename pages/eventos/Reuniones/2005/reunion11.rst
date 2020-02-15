@@ -27,4 +27,4 @@ Fotos
 
 .. _pygame: http://www.pygame.org/wiki/about
 
-.. _luciotorre: /pages/luciotorre
+.. _luciotorre: /luciotorre

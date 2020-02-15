@@ -461,27 +461,27 @@ CategoryPyCamp_
 
 .. ############################################################################
 
-.. _x-ip: /pages/emilianodallaverdemarcozzi
+.. _x-ip: /emilianodallaverdemarcozzi
 
-.. _dlitvak: /pages/davidlitvak
+.. _dlitvak: /davidlitvak
 
-.. _DiegoSarmentero: /pages/gatox
+.. _DiegoSarmentero: /gatox
 
-.. _Joac: /pages/joaquinsorianello
+.. _Joac: /joaquinsorianello
 
-.. _alecu: /pages/alejandrojcura
+.. _alecu: /alejandrojcura
 
-.. _achuni: /pages/anthonylenton
+.. _achuni: /anthonylenton
 
-.. _pindonga: /pages/ricardokirkner
+.. _pindonga: /ricardokirkner
 
-.. _Lipe: /pages/felipelerena
+.. _Lipe: /felipelerena
 
 .. _Time to MOVE on: http://cirw.in/blog/time-to-move-on
 
-.. _perrito: /pages/horacioduran
+.. _perrito: /horacioduran
 
-.. _PyCamp/2012/TemasPropuestos/EditorDeEbooks: /pages/PyCamp/2012/TemasPropuestos/editordeebooks
+.. _PyCamp/2012/TemasPropuestos/EditorDeEbooks: /PyCamp/2012/TemasPropuestos/editordeebooks
 
 .. _Encuentro: http://encuentro.taniquetil.com.ar/
 
@@ -497,11 +497,11 @@ CategoryPyCamp_
 
 .. _AskMSR: http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.84.3515
 
-.. _marianoverdu: /pages/marianoverdu
-.. _juanfisanotti: /pages/juanfisanotti
-.. _luciotorre: /pages/luciotorre
-.. _hugoruscitti: /pages/hugoruscitti
-.. _danielmoisset: /pages/danielmoisset
-.. _categorypycamp: /pages/categorypycamp
-.. _pycamp: /pages/pycamp
-.. _pycon: /pages/pycon
+.. _marianoverdu: /marianoverdu
+.. _juanfisanotti: /juanfisanotti
+.. _luciotorre: /luciotorre
+.. _hugoruscitti: /hugoruscitti
+.. _danielmoisset: /danielmoisset
+.. _categorypycamp: /categorypycamp
+.. _pycamp: /pycamp
+.. _pycon: /pycon

@@ -121,8 +121,8 @@ La versión inicial estará a cargo de quien haya dirigido la reunión. La pági
 .. _Doodle: http://www.doodle.com/
 
 
-.. _listadecorreo: /pages/listadecorreo
-.. _ProximaReunion: /pages/proximareunion
-.. _inicio: /pages/inicio
+.. _listadecorreo: /listadecorreo
+.. _ProximaReunion: /proximareunion
+.. _inicio: /inicio
 
-.. _pyar: /pages/pyar
+.. _pyar: /pyar

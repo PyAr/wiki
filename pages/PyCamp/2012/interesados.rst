@@ -31,5 +31,5 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
 
 .. _Joac: JoaquinSorianello
 
-.. _pycamp: /pages/pycamp
-.. _categorypycamp: /pages/categorypycamp
+.. _pycamp: /pycamp
+.. _categorypycamp: /categorypycamp

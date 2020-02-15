@@ -95,36 +95,36 @@ Para detalles de la inscripción: http://is.gd/8zTTD
 
 .. ############################################################################
 
-.. _Mariano Mara: /pages/marianomara
+.. _Mariano Mara: /marianomara
 
-.. _Maunuel Muradás: /pages/dieresys
+.. _Maunuel Muradás: /dieresys
 
-.. _Joaquín Sorianello: /pages/joaquinsorianello
+.. _Joaquín Sorianello: /joaquinsorianello
 
-.. _Santiago Suarez Ordoñez: /pages/santiagosuarezO
+.. _Santiago Suarez Ordoñez: /santiagosuarezO
 
-.. _José Luis Dallapiccola: /pages/joseluisdallapiccola
+.. _José Luis Dallapiccola: /joseluisdallapiccola
 
 .. _Humareda: http://www.wordreference.com/definicion/humareda
 
-.. _Lucas Shrewsbury: /pages/lucasshrewsbury
+.. _Lucas Shrewsbury: /lucasshrewsbury
 
-.. _Angel Velásquez: /pages/angelvelasquez
+.. _Angel Velásquez: /angelvelasquez
 
 .. _malev: http://blog.malev.com.ar
 
-.. _juanjoconti: /pages/juanjoconti
-.. _ricardokirkner: /pages/ricardokirkner
-.. _gonzalodelgado: /pages/gonzalodelgado
-.. _gonzalolarralde: /pages/gonzalolarralde
-.. _anthonylenton: /pages/anthonylenton
-.. _danielmoisset: /pages/danielmoisset
-.. _hernanolivera: /pages/hernanolivera
-.. _marianoreingart: /pages/marianoreingart
-.. _hugoruscitti: /pages/hugoruscitti
-.. _hectorsanchez: /pages/hectorsanchez
-.. _alejandrosantos: /pages/alejandrosantos
-.. _robertoallende: /pages/robertoallende
-.. _johnlenton: /pages/johnlenton
-.. _pycamp: /pages/pycamp
-.. _ricardoquesada: /pages/ricardoquesada
+.. _juanjoconti: /juanjoconti
+.. _ricardokirkner: /ricardokirkner
+.. _gonzalodelgado: /gonzalodelgado
+.. _gonzalolarralde: /gonzalolarralde
+.. _anthonylenton: /anthonylenton
+.. _danielmoisset: /danielmoisset
+.. _hernanolivera: /hernanolivera
+.. _marianoreingart: /marianoreingart
+.. _hugoruscitti: /hugoruscitti
+.. _hectorsanchez: /hectorsanchez
+.. _alejandrosantos: /alejandrosantos
+.. _robertoallende: /robertoallende
+.. _johnlenton: /johnlenton
+.. _pycamp: /pycamp
+.. _ricardoquesada: /ricardoquesada

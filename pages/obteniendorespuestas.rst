@@ -342,7 +342,7 @@ Preguntas, comentarios, u otro feedback? Envía un e-mail al autor: ``mike EN mi
 
 .. _How To Ask Questions The Smart Way (Cómo Realizar Preguntas De Manera Inteligente): http://catb.org/esr/faqs/smart-questions.html
 
-.. _`Help Vampires: A Spotter's Guide (Vampiros de Ayuda: Una Guía Para El Observador))`: http://www.slash7.com/pages/vampires
+.. _`Help Vampires: A Spotter's Guide (Vampiros de Ayuda: Una Guía Para El Observador))`: http://www.slash7.com/vampires
 
 .. _Getting help on IRC (Obteniendo ayuda en IRC): http://workaround.org/getting-help-on-irc
 

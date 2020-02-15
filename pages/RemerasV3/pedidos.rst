@@ -12,7 +12,7 @@ Pedidos Remeras V3 (diseño del Zen) PyConAr
 Pedidos Remeras V3b (Diseño Boa - las remeras celestes del Staff de PyConAr)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Ver el `/pages/RemerasV2/pabloziliani2`_
+Ver el `/RemerasV2/pabloziliani2`_
 
 Estas remeras las haremos sólo en 2 colores: celestes con impresión azul (como las que usaban l@s colaboradores/as en PyConAr_) y Arena con impresión Marrón. Todos los talles disponibles. **Muy bonitas!**.   El precio es $35 c/u o PROMO 5 x $150 (para que la encomienda te salga casi gratis!)
 

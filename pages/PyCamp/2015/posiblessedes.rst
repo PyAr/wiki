@@ -392,5 +392,5 @@ https://www.google.com.ar/search?q=camping+mutual+chascomus&safe=off&espv=2&biw=
 
   .. _de Facundo: http://www.flickr.com/photos/54757453@N00/sets/72157630546100884/
 
-.. _pycamp: /pages/pycamp
-.. _pyar: /pages/pyar
+.. _pycamp: /pycamp
+.. _pyar: /pyar

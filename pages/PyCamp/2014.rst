@@ -116,8 +116,8 @@ A 4 cuadras de la terminal de Villa Giardino, no hay forma de perderse, camino l
 
 .. ############################################################################
 
-.. _están anotadas acá: /pages/PyCamp/2014/temaspropuestos
+.. _están anotadas acá: /PyCamp/2014/temaspropuestos
 
 .. |Foto Grupal - Pycamp 2014| image:: http://farm3.staticflickr.com/2828/13415171245_71096a4863_z.jpg
-.. _pycamp: /pages/pycamp
+.. _pycamp: /pycamp
 

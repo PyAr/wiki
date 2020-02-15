@@ -34,5 +34,5 @@ Repaso por el estado de PyCon_ 2010
 
 * principalmente información de perrito hacia el resto
 
-.. _pycamp: /pages/pycamp
-.. _pycon: /pages/pycon
+.. _pycamp: /pycamp
+.. _pycon: /pycon

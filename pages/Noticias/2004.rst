@@ -16,4 +16,4 @@
 
 
 
-.. _pyar: /pages/pyar
+.. _pyar: /pyar

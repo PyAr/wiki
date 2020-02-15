@@ -80,9 +80,9 @@ Comentarios? Dudas? ``alecu EN vortech PUNTO com PUNTO ar``
 
 .. _yaco: http://yaco.net/
 
-.. _nubis: /pages/nubis
+.. _nubis: /nubis
 
-.. _pabloz: /pages/pabloziliani
+.. _pabloz: /pabloziliani
 
 .. _facundo: http://taniquetil.com.ar/plog/
 

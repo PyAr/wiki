@@ -6,5 +6,5 @@ PythonDay_ 2 (córdoba)
 .. ############################################################################
 
 
-.. _PyDay2/CallForCharlas: /pages/PyDay2/callforcharlas
+.. _PyDay2/CallForCharlas: /PyDay2/callforcharlas
 

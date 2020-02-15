@@ -79,4 +79,4 @@ Para tratar de solventar los gastos tenemos las siguientes fuentes de ingresos:
 
      * Revestimos el atril donde se ubica el disertante para que en los videos salga continuamente la publicidad
 
-.. _pyday: /pages/pyday
+.. _pyday: /pyday

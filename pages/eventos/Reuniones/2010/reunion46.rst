@@ -43,6 +43,6 @@ PD: Estamos pidiendo el presupuesto para 40 o 50 personas, por lo que sería bue
 
  CategoryReuniones_
 
-.. _pyar: /pages/pyar
-.. _pycamp: /pages/pycamp
-.. _categoryreuniones: /pages/categoryreuniones
+.. _pyar: /pyar
+.. _pycamp: /pycamp
+.. _categoryreuniones: /categoryreuniones

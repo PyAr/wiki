@@ -7,4 +7,4 @@ En Abril de 2014 empecé un proyecto llamado "Argentina en Python" (http://argen
 
 
 
-.. _luciotorre: /pages/luciotorre
+.. _luciotorre: /luciotorre

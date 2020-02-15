@@ -130,38 +130,38 @@ Con muchas ganas, pero sin plata
 
 .. ############################################################################
 
-.. _alecu: /pages/alejandrojcura
+.. _alecu: /alejandrojcura
 
-.. _El rey del Humo: /pages/manuelkaufmann
+.. _El rey del Humo: /manuelkaufmann
 
-.. _Nicolás Miyasato: /pages/miya
+.. _Nicolás Miyasato: /miya
 
-.. _Manuel Muradás: /pages/dieresys
+.. _Manuel Muradás: /dieresys
 
-.. _Jose Luis Dallapiccola: /pages/joseluisdallapiccola
+.. _Jose Luis Dallapiccola: /joseluisdallapiccola
 
-.. _Roberto Rodríguez: /pages/robertorodríguez
+.. _Roberto Rodríguez: /robertorodríguez
 
 
 
 .. role:: strike
    :class: strike
 
-.. _marcosdione: /pages/marcosdione
-.. _horacioduran: /pages/horacioduran
-.. _nicoechaniz: /pages/nicoechaniz
-.. _ricardokirkner: /pages/ricardokirkner
-.. _anthonylenton: /pages/anthonylenton
-.. _johnlenton: /pages/johnlenton
-.. _hectorsanchez: /pages/hectorsanchez
-.. _marianomara: /pages/marianomara
-.. _ramiromorales: /pages/ramiromorales
-.. _ricardoquesada: /pages/ricardoquesada
-.. _marianoreingart: /pages/marianoreingart
-.. _hugoruscitti: /pages/hugoruscitti
-.. _luciotorre: /pages/luciotorre
-.. _pabloziliani: /pages/pabloziliani
-.. _guillermogonzalez: /pages/guillermogonzalez
-.. _robertoallende: /pages/robertoallende
-.. _sebastianbassi: /pages/sebastianbassi
-.. _nicocesar: /pages/nicocesar
+.. _marcosdione: /marcosdione
+.. _horacioduran: /horacioduran
+.. _nicoechaniz: /nicoechaniz
+.. _ricardokirkner: /ricardokirkner
+.. _anthonylenton: /anthonylenton
+.. _johnlenton: /johnlenton
+.. _hectorsanchez: /hectorsanchez
+.. _marianomara: /marianomara
+.. _ramiromorales: /ramiromorales
+.. _ricardoquesada: /ricardoquesada
+.. _marianoreingart: /marianoreingart
+.. _hugoruscitti: /hugoruscitti
+.. _luciotorre: /luciotorre
+.. _pabloziliani: /pabloziliani
+.. _guillermogonzalez: /guillermogonzalez
+.. _robertoallende: /robertoallende
+.. _sebastianbassi: /sebastianbassi
+.. _nicocesar: /nicocesar

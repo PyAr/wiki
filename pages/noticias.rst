@@ -199,21 +199,21 @@ Anteriores
 
 .. _PyCon Argentina 2012: http://ar.pycon.org/2012
 
-.. _Año 2011: /pages/Noticias/2011
+.. _Año 2011: /Noticias/2011
 
-.. _Año 2010: /pages/Noticias/2010
+.. _Año 2010: /Noticias/2010
 
-.. _Año 2009: /pages/Noticias/2009
+.. _Año 2009: /Noticias/2009
 
-.. _Año 2008: /pages/Noticias/2008
+.. _Año 2008: /Noticias/2008
 
-.. _Año 2007: /pages/Noticias/2007
+.. _Año 2007: /Noticias/2007
 
-.. _Año 2006: /pages/Noticias/2006
+.. _Año 2006: /Noticias/2006
 
-.. _Año 2005: /pages/Noticias/2005
+.. _Año 2005: /Noticias/2005
 
-.. _Año 2004: /pages/Noticias/2004
+.. _Año 2004: /Noticias/2004
 
-.. _pyday: /pages/pyday
-.. _pyar: /pages/pyar
+.. _pyday: /pyday
+.. _pyar: /pyar

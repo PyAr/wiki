@@ -74,4 +74,4 @@ Más info en http://www.learnpygtk.org/pygtktutorial/statusicon.html
 
   CategoryRecetas_
 
-.. _categoryrecetas: /pages/categoryrecetas
+.. _categoryrecetas: /categoryrecetas

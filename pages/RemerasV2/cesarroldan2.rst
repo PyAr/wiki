@@ -21,4 +21,4 @@ Comentarios
 
 * [NubIs_] Esta bueno, bastante sobria. De donde sacaste los casos reales? 🙂
 
-.. _nubis: /pages/nubis
+.. _nubis: /nubis

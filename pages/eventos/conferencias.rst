@@ -3,7 +3,7 @@ Conferencias
 PyCon 
 *****
 * `PyCon Argentina 2017`_, realizada los días 17, 18 y 19 de Noviembre de 2017 en Córdoba.
-* `Pycon Argentina 2016 </pages/eventos/Conferencias/pyconar2016>`_, realizada los días 25, 26 y 27 de Noviembre - Bahía Blanca.
+* `Pycon Argentina 2016 </eventos/Conferencias/pyconar2016>`_, realizada los días 25, 26 y 27 de Noviembre - Bahía Blanca.
 * `PyCon Argentina 2015`_, realizada los días 12, 13 y 14  de Noviembre de 2015 en Mendoza.
 * `PyCon Argentina 2014`_, realizada los días 13, 14 y 15 de Noviembre de 2014 en Rafaela.
 * `PyCon Argentina 2013`_, realizada los días 24 y 25 de octubre de 2013 en Rosario.
@@ -44,11 +44,11 @@ Documentación Relevante
 .. _PyCon Argentina 2017: http://ar.pycon.org/
 .. _PyCon Argentina 2015: http://www.python.org.ar/eventos/14/
 .. _PyCon Argentina 2014: https://github.com/fisadev/PyConAr2014
-.. _PyCon Argentina 2013: /pages/eventos/Conferencias/pyconar2013
+.. _PyCon Argentina 2013: /eventos/Conferencias/pyconar2013
 
 .. _PyCon Argentina 2012: http://ar.pycon.org/2012
 
-.. _PyDay Rafaela 2012: /pages/eventos/Conferencias/pydayrafaela2012
+.. _PyDay Rafaela 2012: /eventos/Conferencias/pydayrafaela2012
 
 .. _PyDay Córdoba 2012: http://pyday.com.ar/cordoba2012/
 
@@ -64,19 +64,19 @@ Documentación Relevante
 
 .. _PyCon Argentina 2010: http://ar.pycon.org/2010/about/
 
-.. _Ciclo de Charlas Abiertas de Python Argentina en La Tribu: /pages/charlasabiertas2010
+.. _Ciclo de Charlas Abiertas de Python Argentina en La Tribu: /charlasabiertas2010
 
 .. _La Tribu: http://www.fmlatribu.com/
 
-.. _Python Day Buenos Aires 2010: /pages/eventos/Conferencias/pydaybuenosaires2010
+.. _Python Day Buenos Aires 2010: /eventos/Conferencias/pydaybuenosaires2010
 
-.. _Python Day Rafaela 2010: /pages/eventos/Conferencias/pydayrafaela2010
+.. _Python Day Rafaela 2010: /eventos/Conferencias/pydayrafaela2010
 
 .. _PyCon Argentina 2009: http://ar.pycon.org/2009/about/
 
-.. _2da Jornada de Python en Santa Fé: /pages/eventos/Conferencias/2jornadapythonstafe
+.. _2da Jornada de Python en Santa Fé: /eventos/Conferencias/2jornadapythonstafe
 
-.. _CaFeCONF 2006: /pages/cafeconf2006
+.. _CaFeCONF 2006: /cafeconf2006
 
 .. _CaFeConf 2005: http://www.cafeconf.org/
 
@@ -88,8 +88,8 @@ Documentación Relevante
 
 .. _PostMortem PyCon Argentina 2012: https://pyconar20012-postmortem.readthedocs.org
 
-.. _Proyectos/Caucho: /pages/Proyectos/caucho 
+.. _Proyectos/Caucho: /Proyectos/caucho 
 
 
-.. _pyar: /pages/pyar
-.. _luciotorre: /pages/luciotorre
+.. _pyar: /pyar
+.. _luciotorre: /luciotorre

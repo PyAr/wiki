@@ -12,6 +12,6 @@ Info:
 
 .. ############################################################################
 
-.. _Dominios: /pages/admin/dominios
+.. _Dominios: /admin/dominios
 
 

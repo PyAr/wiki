@@ -125,7 +125,7 @@ Anteriores
 
 .. _decode: http://www.decode.com.ar/
 
-.. _minuta de la reunión 34 de Pyar: /pages/eventos/Reuniones/2008/reunion34
+.. _minuta de la reunión 34 de Pyar: /eventos/Reuniones/2008/reunion34
 
 .. _contra al canon digital en Argentina: http://noalcanon.org/
 
@@ -133,10 +133,10 @@ Anteriores
 
 .. _Introducción a Python (26/02/2009 de 18.30 a 21.30hs): http://www.clubdeprogramadores.com/cursos/CursoMuestra.php?Id=486
 
-.. _pyar: /pages/pyar
-.. _Año 2004: /pages/Noticias/2004
-.. _Año 2005: /pages/Noticias/2005
-.. _Año 2006: /pages/Noticias/2006
-.. _Año 2007: /pages/Noticias/2007
-.. _Año 2008: /pages/Noticias/2008
+.. _pyar: /pyar
+.. _Año 2004: /Noticias/2004
+.. _Año 2005: /Noticias/2005
+.. _Año 2006: /Noticias/2006
+.. _Año 2007: /Noticias/2007
+.. _Año 2008: /Noticias/2008
 

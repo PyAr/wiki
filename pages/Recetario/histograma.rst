@@ -58,4 +58,4 @@ Para mas información, revisar:
 
 .. _Documentación de hist: http://matplotlib.sourceforge.net/api/pyplot_api.html?highlight=hist#matplotlib.pyplot.hist
 
-.. _categoryrecetas: /pages/categoryrecetas
+.. _categoryrecetas: /categoryrecetas

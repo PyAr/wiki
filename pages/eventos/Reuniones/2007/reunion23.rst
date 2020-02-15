@@ -218,9 +218,9 @@ A eso de las 5AM, decidimos que ya podíamos desconcentrar y cada uno partió pa
 
 .. _IceTowers: http://www.wunderland.com/icehouse/IceTowers/Rules.html
 
-.. _dave: /pages/alejandrodavidweil
+.. _dave: /alejandrodavidweil
 
-.. _alecu: /pages/alejandrojcura
+.. _alecu: /alejandrojcura
 
 .. _Plone: http://plone.org
 
@@ -240,7 +240,7 @@ A eso de las 5AM, decidimos que ya podíamos desconcentrar y cada uno partió pa
 
 .. _Mafia: http://en.wikipedia.org/wiki/Mafia_%28game%29
 
-.. _pyar: /pages/pyar
-.. _danielmoisset: /pages/danielmoisset
-.. _luciotorre: /pages/luciotorre
-.. _guillermogonzalez: /pages/guillermogonzalez
+.. _pyar: /pyar
+.. _danielmoisset: /danielmoisset
+.. _luciotorre: /luciotorre
+.. _guillermogonzalez: /guillermogonzalez
