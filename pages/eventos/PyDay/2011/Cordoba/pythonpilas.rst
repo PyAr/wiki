@@ -18,11 +18,8 @@ Pilas es un motor o biblioteca para hacer juegos de manera sencilla, orientado a
 
 `[[Video(http://pyar.usla.org.ar/pilas001.ogv)]]`_
 
-.. Puto el que lee
-
 .. ############################################################################
 
 .. _PyDay 2011: Eventos/PyDay/2011/Cordoba
 
 .. _hugoruscitti: /hugoruscitti
-.. _categoryvideo: /categoryvideo
