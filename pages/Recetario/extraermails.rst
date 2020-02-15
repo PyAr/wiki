@@ -16,7 +16,7 @@ El código anterior devuelve una lista de strings, donde cada string es una dire
 
 Ahora podemos `atrapar al asesino`_ sin recurrir a Perl!!
 
-La expresión regular que sigue es del proyecto django_. 
+La expresión regular que sigue es del proyecto django_.
 
 ::
 

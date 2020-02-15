@@ -7,7 +7,7 @@ Descripción
 
 *digito_verificador_modulo10* es una función a la que se le pasa un código (ej. cadena '01234567890') y devuelve el dígito verificador a agregar correspondiente a la verificación módulo 10.
 
-Esta verificación se usa en códigos de barra, por ej. en las facturas en el sistema impositivo argentino, donde se consigna el CUIT del emisor, CAI/CAE, número de factura, etc. 
+Esta verificación se usa en códigos de barra, por ej. en las facturas en el sistema impositivo argentino, donde se consigna el CUIT del emisor, CAI/CAE, número de factura, etc.
 
 Para más información, ver `Resolución General 1702 de la AFIP`_.
 
@@ -40,7 +40,7 @@ Código:
         etapa3 = sum([int(c) for i,c in enumerate(codigo) if i%2])
         # Etapa 4: sumar los resultados obtenidos en las etapas 2 y 3.
         etapa4 = etapa2 + etapa3
-        # Etapa 5: buscar el menor número que sumado al resultado obtenido en la etapa 4 dé un número múltiplo de 10. 
+        # Etapa 5: buscar el menor número que sumado al resultado obtenido en la etapa 4 dé un número múltiplo de 10.
         # Este será el valor del dígito verificador del módulo 10.
         digito = 10 - (etapa4 - (int(etapa4 / 10) * 10))
         if digito == 10:

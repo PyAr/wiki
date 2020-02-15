@@ -4,7 +4,7 @@ Obtener Ubicacion Geografica
 
 * Como obtener distintos datos de la ubicacion Geografica, usando Python-Geoip, ejemplo simple.
 
-**Requisitos:** Base de Datos de Geo-Location en la misma ubicacion que el programa, descargarla usando: 
+**Requisitos:** Base de Datos de Geo-Location en la misma ubicacion que el programa, descargarla usando:
 
 ::
 
@@ -16,8 +16,8 @@ Obtener Ubicacion Geografica
 ::
 
     #!/usr/bin/env python
-    # -*- coding: utf-8 -*- 
-    # 
+    # -*- coding: utf-8 -*-
+    #
     import urllib
     try:
         import GeoIP

@@ -18,12 +18,12 @@ Instancia actual en USLA: https://eventol.flisol.org.ar/
 Propone: FedeG
 
 
-Un bot para telegram 
+Un bot para telegram
 ---------------------------------------------
-Estuve laburando bastante para un bot de telegram que facilita un montón de cosas. Quizás podemos hacer uno para 
+Estuve laburando bastante para un bot de telegram que facilita un montón de cosas. Quizás podemos hacer uno para
 comunicar el canal de irc con el canal de telegram, que avise de eventos, que guarde un log de lo que se habla,
 en fin muchas cosas que se pueden pensar. Si quieren ir viendo un poco del código de mi bot: https://github.com/eduzen/bot
- 
+
 Estaría bueno que ya vengan con python 3.6 instalado y un venv con python-telegram-bot
 
 Propone: eduzen
@@ -51,7 +51,7 @@ Propone: FacundoBatista
 Linkode, el pastebin útil
 -------------------------
 
-La idea es ofrecer un "espacio de colaboración de corta vida".  Algo así como un pastebin dinámico, pero que al mismo tiempo sea fácil de usar. 
+La idea es ofrecer un "espacio de colaboración de corta vida".  Algo así como un pastebin dinámico, pero que al mismo tiempo sea fácil de usar.
 
 ¿Por qué usar Linkode?
 
@@ -117,11 +117,11 @@ Propone: Lucio Torre
 Direct Manipulation Collaborative Dataflow Notebooks
 ----------------------------------------------------
 
-Hacer un website como si fuese un excel, hacer un notebook de python compartiendo en realtime el desarrollo, 
+Hacer un website como si fuese un excel, hacer un notebook de python compartiendo en realtime el desarrollo,
 todo se recalcula cuando cambia un dato, y es una api REST::
 
         )
-       (   
+       (
   -=====#
 
 
@@ -151,11 +151,11 @@ Mejorar la sección PyCamp de la Wiki.
 
 Como todos sabemos (o están por saber) el PyCamp es genial!
 
-Leyendo la wiki noté que por ahi no se termina de reflejar al 100% QUE es un PyCamp y  COMO se desarrolla. 
-Además, la sección “Organizando un PyCamp” está vacía. Propongo ampliar la descripción, incluso hasta 
+Leyendo la wiki noté que por ahi no se termina de reflejar al 100% QUE es un PyCamp y  COMO se desarrolla.
+Además, la sección “Organizando un PyCamp” está vacía. Propongo ampliar la descripción, incluso hasta
 hacer un video! Y tratar de rescatar lo que había en “organizando un PyCamp” o volver a escribirlo actualizado.
 
-Se podria hacer el último dia y pedir a las personas que vienen por primera vez que traten de contar 
+Se podria hacer el último dia y pedir a las personas que vienen por primera vez que traten de contar
 su experiencia y cuan diferente fué de lo que se imaginaron.
 
 Propone: Luri Silva
@@ -164,12 +164,12 @@ Propone: Luri Silva
 Eventes!
 --------
 
-Una django-app para pyarweb pensada primero desde la diversidad. 
+Una django-app para pyarweb pensada primero desde la diversidad.
 
 Make pyar chat great again
 --------------------------
 
-La gente nueva esta usando Telegram. Pero los elders estan en el IRC. Hagamos un bridge irc<->telegram 
+La gente nueva esta usando Telegram. Pero los elders estan en el IRC. Hagamos un bridge irc<->telegram
 
 PyAr Infra as code
 ------------------
@@ -204,16 +204,16 @@ Podemos aprender un poco las bases de artes marciales históricas europeas (espe
 
 .. image:: https://i.imgur.com/05g7DUW.jpg
    :height: 100px
-   
+
 Propone: fisa
 
 UManoCOMPu
 ----------
 
-Explorar, investigar, creanear e implementar ideas de formas no convencionales de interacción 
+Explorar, investigar, creanear e implementar ideas de formas no convencionales de interacción
 persona-computadora.
 
-Ejemplos: 
+Ejemplos:
 
 * Joystick Vocal, en un juego de autos bajas los cambios haciendo el sonido del rebaje, etc
 * Usar los acelerómetros del celu como input para una computadora
@@ -230,7 +230,7 @@ Propone: alecu
 Un bot que juegue Super Hexagon
 -------------------------------
 
-Hace muchos años que juego ese juego y nunca lo pude ganar. Me gustaría que al menos mi maquina lo haga, y en el camino poder aprender algunos rudimentos sobre computer visión. 
+Hace muchos años que juego ese juego y nunca lo pude ganar. Me gustaría que al menos mi maquina lo haga, y en el camino poder aprender algunos rudimentos sobre computer visión.
 
 Propone: alecu
 

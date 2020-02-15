@@ -17,7 +17,7 @@ En el ejemplo se crea un hilo Reader, un Writer, se inicializan ambos y se conec
    import Queue
    import threading
 
-   # este thread se bloquea esperando que venga algo en la cola, 
+   # este thread se bloquea esperando que venga algo en la cola,
    # lo unico que hace es imprimirlo. Si el mensaje es quit finaliza
    class Reader(threading.Thread):
       def __init__(self, in_queue):
@@ -33,7 +33,7 @@ En el ejemplo se crea un hilo Reader, un Writer, se inicializan ambos y se conec
 
               print 'leido ' + msg
 
-   # este thread se bloquea esperando que venga algo en la cola de entrada, 
+   # este thread se bloquea esperando que venga algo en la cola de entrada,
    # cuando llega algo lo escribe al reves en la cola de salida.
    class Writer(threading.Thread):
       def __init__(self, in_queue, out_queue):
@@ -54,8 +54,8 @@ En el ejemplo se crea un hilo Reader, un Writer, se inicializan ambos y se conec
               self.out_queue.put(msg[::-1])
 
    # aca creo un lector y un escritor, le doy de salida a writer la
-   # entrada de reader, por lo tanto lo que escriba writer lo va a 
-   # leer reader al reves el recorrido es asi: 
+   # entrada de reader, por lo tanto lo que escriba writer lo va a
+   # leer reader al reves el recorrido es asi:
    # mensaje -> entra a writer -> lo invierte -> lo envia a la salida -> entra a reader
    def test():
       in_queue =  Queue.Queue()

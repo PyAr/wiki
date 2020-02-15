@@ -13,7 +13,7 @@ Temario
 
   * Revisar el Llamado a Sponsors y Ayuda Económica
 
-  * Analizar la propuesta de Invitados Internacionales de Brasil 
+  * Analizar la propuesta de Invitados Internacionales de Brasil
 
   * Completar el Call for Proposals, definir fechas de votación del público y revisión
 

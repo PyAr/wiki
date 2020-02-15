@@ -54,7 +54,7 @@ Se establece como chiste de la reunión: ClueBat_ == AviBate_ (elemento contunde
 Temas tratados
 --------------
 
-  La situación de los trolls en la lista: 
+  La situación de los trolls en la lista:
 
     Se interrumpió para brindar por os-penta, la reunión de pyar con mas gente y por otro pycamp. Acto seguido con los vasos rellenados se procedió a discutir que hacer con las personas que solo sirven a la lista como fuente de entropía. Se concluyó que:
 

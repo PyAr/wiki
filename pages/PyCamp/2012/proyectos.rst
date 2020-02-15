@@ -9,9 +9,9 @@ Se estuvo jugando con el framework kivy: http://kivy.org/ , que permite hacer ap
 
 Se instaló el entorno de desarrollo, probaron varios ejemplos, se subieron a distintos dispositivos con distintas versiones de Android, y hasta se hizo una botonera pastillera:
 
-Participantes: FelipeLerena_, HectorSanchez_, Mave, EzequielChan_ 
+Participantes: FelipeLerena_, HectorSanchez_, Mave, EzequielChan_
 
-link apk: http://www.felipelerena.com.ar/static/BotoneraPastillera-1.0-debug.apk 
+link apk: http://www.felipelerena.com.ar/static/BotoneraPastillera-1.0-debug.apk
 
 Nikola
 ------
@@ -34,7 +34,7 @@ Nota: En la charla acerca de generar ebooks colaborativamente, comenté acerca d
 Nuevo sitio de Pyar
 -------------------
 
-ver ideas en NuevoSitio_. Agreguen las suyas. Contactar con Joac. 
+ver ideas en NuevoSitio_. Agreguen las suyas. Contactar con Joac.
 
 lai
 ---
@@ -87,7 +87,7 @@ Se corrigieron algunos bugs y se terminó de emprolijar todo lo necesario para g
 OLPC
 ----
 
-http://ar.sugarlabs.org . Se estuvo mostrando e instalando (ahora es mucho más facil en Ubuntu) el emulador para que se sumen colaboradores. 
+http://ar.sugarlabs.org . Se estuvo mostrando e instalando (ahora es mucho más facil en Ubuntu) el emulador para que se sumen colaboradores.
 
 ORM for Json
 ------------
@@ -97,12 +97,12 @@ Se agregaron soporte para YAML y puliendo cosas. Se `subió a PyPi`_
 Encuentro
 ---------
 
-Debido a que el contenido pasó al portal Conectate_ se estuvo laburando en terminar hacerlo andar y adapatando la UI a la nueva referencia. Se lanza nueva version en breve. 
+Debido a que el contenido pasó al portal Conectate_ se estuvo laburando en terminar hacerlo andar y adapatando la UI a la nueva referencia. Se lanza nueva version en breve.
 
 Jugando con NLTK
 ----------------
 
-Pablo celayes estuvo jugando con NLTK. 
+Pablo celayes estuvo jugando con NLTK.
 
 Pilas en el navegador
 ---------------------
@@ -118,7 +118,7 @@ Una implementación en django de un juego de mesa, https://github.com/dmoisset/e
 
 Se mejoro la UI con bootstraps css. Se cargaron datos (cartas y demás cosas necesarias). Se corrigieron algunos bugs. Se subió un embrión de API REST para poder hacer otras interfaces.
 
-Pronto se pushea y se sube para jugar 
+Pronto se pushea y se sube para jugar
 
 NINJA-IDE
 ---------
@@ -146,12 +146,12 @@ generador de certificados SSL
 Plugins de lalita
 -----------------
 
-Exportar eventos de lalita para usar "plugins" en procesos externos. 
+Exportar eventos de lalita para usar "plugins" en procesos externos.
 
 MOVErónica
 ----------
 
-Siguiendo el concepto de MOVE (Modelo, Operacion, Vistas y Eventos) y usando mongomodels_ y Juggernaut_ para nuestros modelos con eventos, hicimos una aplicación de demo que actualiza una pagina estática desde cualquier cliente python que conozca los modelos sin realizar ningún tipo de request. El código se puede ver en MOVEapp_ 
+Siguiendo el concepto de MOVE (Modelo, Operacion, Vistas y Eventos) y usando mongomodels_ y Juggernaut_ para nuestros modelos con eventos, hicimos una aplicación de demo que actualiza una pagina estática desde cualquier cliente python que conozca los modelos sin realizar ningún tipo de request. El código se puede ver en MOVEapp_
 
 Documentator
 ------------

@@ -22,7 +22,7 @@ Hosts Disponibles
 
 * Manuel Kaufmann (humitos en gmail punto com), ofrezco un asiento en mi auto. Salgo de Paraná, Entre Ríos y, dependiendo de si alguien se suma en el viaje, puedo ir por Santa Fe o por Victoria.
 
-* Martin Gaitán (gaitan en gmail punto com), salgo desde córdoba, día y lugar a convenir. Tengo 2 lugares en auto, compartiendo gastos de combustible y peaje. 
+* Martin Gaitán (gaitan en gmail punto com), salgo desde córdoba, día y lugar a convenir. Tengo 2 lugares en auto, compartiendo gastos de combustible y peaje.
 
 Guests Disponibles
 ------------------

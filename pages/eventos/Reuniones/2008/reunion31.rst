@@ -10,9 +10,9 @@ Asistentes
 Temas tratados
 --------------
 
-* Hubo una presentación de los participantes donde nos conocimos y hablamos de nuestros trabajos y cosas. 
+* Hubo una presentación de los participantes donde nos conocimos y hablamos de nuestros trabajos y cosas.
 
-* Se charló de los proyectos personales de cada uno: X-IP por ejemplo tenía una idea muy loca, que era hacer un programa web que cumpla la misma función que Nautilus o algún otro explorador de archivos. Que se puedan arrastrar las carpetas para mover y demás. 
+* Se charló de los proyectos personales de cada uno: X-IP por ejemplo tenía una idea muy loca, que era hacer un programa web que cumpla la misma función que Nautilus o algún otro explorador de archivos. Que se puedan arrastrar las carpetas para mover y demás.
 
 * Se decidió apoyar un proyecto de desarrollos de juegos para discapacitados auditivos, propuesto por Juan Pablo.
 

@@ -46,5 +46,5 @@ Se habló de organizar la III Jornada Python en Santa Fe. En forma superficial s
 
 Manuel, recién llegado de la reunión en Buenos Aires, nos contó sobre los problemas para conseguir una pieza para los discos SCSI y que finalmente no se hiciera el sprint de instalación en Buenos Aires. Nicolás, curioso por el hardware de la OLPC, pidió detalles técnicos y propuso algunas formas para transformarla en un pisapapeles (respiren tranquilos, no lo logró).
 
-Hacia el final de la reunión Diego sacó el merchandising enviado por Facundo (¡gracias Facundo!) y dejando para futuras reuniones 1 bolso, 2 remeras y una revista; después del sorteo, realizado con la misma modalidad del cierre de la II Jornada Python (crear una lista con los nombres de los asistentes, desordenarla y extraer de a uno), dimos por finalizada la reunión. 
+Hacia el final de la reunión Diego sacó el merchandising enviado por Facundo (¡gracias Facundo!) y dejando para futuras reuniones 1 bolso, 2 remeras y una revista; después del sorteo, realizado con la misma modalidad del cierre de la II Jornada Python (crear una lista con los nombres de los asistentes, desordenarla y extraer de a uno), dimos por finalizada la reunión.
 

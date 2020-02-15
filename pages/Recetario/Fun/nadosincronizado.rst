@@ -4,7 +4,7 @@ Nado Sincronizado
 
 un generador de nado sincronizado
 
-`[[Video(http://marianoguerra.com.ar/random/nado.ogv)]]`_ 
+`[[Video(http://marianoguerra.com.ar/random/nado.ogv)]]`_
 
 ::
 

@@ -9,7 +9,7 @@ Esta receta es un ejemplo sencillo de como generar una factura en PDF utilizando
 
 Para más detalles sobre la libreria PyFpdf_ y bajar una versión actualizada y mejorada, ir a: `sito del proyecto`_ (incluye este ejemplo)
 
-La factura incluye logo, recuadros, textos y código de barra entrelazado 2 de 5, en un formato aplicable en Argentina. Ver muestra adjunta: 
+La factura incluye logo, recuadros, textos y código de barra entrelazado 2 de 5, en un formato aplicable en Argentina. Ver muestra adjunta:
 
 Este ejemplo esta harcodeado, en la vida real habría que abstraerlo en alguna especie de plantilla para facilitar su modificación.
 

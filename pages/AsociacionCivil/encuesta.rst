@@ -2,7 +2,7 @@
 Encuesta Relevamiento - Asociación Civil
 ========================================
 
-* Formulario_ (¡continua abierto!) - `Anuncio en la lista de correo`_ 
+* Formulario_ (¡continua abierto!) - `Anuncio en la lista de correo`_
 
 * Se registraron 68 respuestas en total al primer corte (30-11-2014)
 
@@ -74,7 +74,7 @@ Ver Autoridades_ y Candidatos_
 
 Otros (texto libre ingresado):
 
-* *"Representante Zonal"* 
+* *"Representante Zonal"*
 
 * *"Distributed* AdHocracy_*"*
 
@@ -106,9 +106,9 @@ Por el formulario web ser registraron las siguientes preguntas / comentarios:
 
 
 
-*La asociación civil debería ser desentralizada e invitar al resto del pais a conformar su comisión directiva, evitar centralizar todo en buenos aires, armar reuniones mensuales para incentivar el debate que promuevan la innovación a nivel tecnológico y social.* 
+*La asociación civil debería ser desentralizada e invitar al resto del pais a conformar su comisión directiva, evitar centralizar todo en buenos aires, armar reuniones mensuales para incentivar el debate que promuevan la innovación a nivel tecnológico y social.*
 
-**Respuesta**: Esto se tuvo en cuenta desde el principio, pero hay algunas cuestiones legales que hay que cumplir. Estamos viendo alternativas con el abogado para ver como flexibilizarlo, para más información ver resumen en la página de autoridades_, las discuciones en la lista META y los comentarios / sugerencias en el estatuto_ (por ej. reuniones por teleconferencia, descentralización en sub-comisiones, delegación de representaciones / tareas, votación por poder / elecciones por correspondencia, etc.) 
+**Respuesta**: Esto se tuvo en cuenta desde el principio, pero hay algunas cuestiones legales que hay que cumplir. Estamos viendo alternativas con el abogado para ver como flexibilizarlo, para más información ver resumen en la página de autoridades_, las discuciones en la lista META y los comentarios / sugerencias en el estatuto_ (por ej. reuniones por teleconferencia, descentralización en sub-comisiones, delegación de representaciones / tareas, votación por poder / elecciones por correspondencia, etc.)
 
 -------------------------
 
@@ -122,7 +122,7 @@ Por el formulario web ser registraron las siguientes preguntas / comentarios:
 
 
 
-*Quisiera que se tenga también en cuenta la diversidad y difusión del lenguaje también para personas con alguna discapacidad.* 
+*Quisiera que se tenga también en cuenta la diversidad y difusión del lenguaje también para personas con alguna discapacidad.*
 
 **Respuesta**: si, el tema de diversidad también fue un punto fundamental discutido desde el principio (incluso está dentro de los objetivos_ de la asociación, junto con la federalización y otros temas). Dado que fue una de las subcomisiones menos elegidas, posiblemente haya que tomar otros enfoques en este tema.
 
@@ -146,7 +146,7 @@ Por el formulario web ser registraron las siguientes preguntas / comentarios:
 
 
 
-*Tal vez estaría bueno que esta encuesta esté bajo el dominio de python.org.ar* 
+*Tal vez estaría bueno que esta encuesta esté bajo el dominio de python.org.ar*
 
 **¡Hecho!**
 
@@ -162,7 +162,7 @@ Por el formulario web ser registraron las siguientes preguntas / comentarios:
 
 
 
-*Creo que es arriesgado formalizar una sociedad civil en este momento si no se integra en el core de la comunidad a gente con un background diverso o que no este vinculado simplemente por un lazo de amistad... . Simplemente por una cuestion de volumen y porque en una asoc. civil eso ya no es asi, ahora hay derechos y responsabilidades ante terceros y ante el Estado.* 
+*Creo que es arriesgado formalizar una sociedad civil en este momento si no se integra en el core de la comunidad a gente con un background diverso o que no este vinculado simplemente por un lazo de amistad... . Simplemente por una cuestion de volumen y porque en una asoc. civil eso ya no es asi, ahora hay derechos y responsabilidades ante terceros y ante el Estado.*
 
 **Respuesta:** Si, esto también se tuvo en cuenta desde el principio (quizás de manera implícita al armar la ONG). Ver `Deberes y Responsabilidades de las Autoridades de la Asociación Civil`_. La idea de contratar profesionales específicos (contadores, abogados, gestores, etc.) también iría en este sentido, para tener apoyo capacitado en esas áreas y minimizar los riesgos, disminuyendo también el trabajo necesario.
 
@@ -172,7 +172,7 @@ Por el formulario web ser registraron las siguientes preguntas / comentarios:
 
 
 
-*Las preguntas sobre participación son cerradas, es decir, no permiten elegir 'no participaría', que es lo que yo seleccionaria. ...* 
+*Las preguntas sobre participación son cerradas, es decir, no permiten elegir 'no participaría', que es lo que yo seleccionaria. ...*
 
 **Nota:** no era exactamente así, ninguna pregunta era obligatoria y había una opción "Otros", que muchos usaron para indicar que no deseaban participar (salvo 2 personas que propusieron cargos alternativos)
 
@@ -196,7 +196,7 @@ Por el formulario web ser registraron las siguientes preguntas / comentarios:
 
 
 
-*¿al "gestionar marcas y derechos de autor" no estamos yendo en contra del software libre?* 
+*¿al "gestionar marcas y derechos de autor" no estamos yendo en contra del software libre?*
 
 **Respuesta:** No, por el contrario, es una forma de proteger el software libre. Incluso Linux es una marca registrada y muchas ONG gestionan derechos de autor (no solo la PSF, también la Apache Software Foundation, Django Software Foundation, etc.)
 

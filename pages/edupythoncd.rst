@@ -111,7 +111,7 @@ Librerias varias
 
 * beatifulsoup
 
-* elixir 
+* elixir
 
 * sqlalchemy
 

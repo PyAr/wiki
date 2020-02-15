@@ -21,7 +21,7 @@ Básicamente los que vinieron al PyCamp, creo que saqué a los que habían tenid
 - José Luis Zanotti
 - Juan Carlos Carizza
 - Juan Pedro Fisanotti
-- Laura Perez Cerrato 
+- Laura Perez Cerrato
 - Laureano Silva
 - Leandro E. Colombo Viña
 - Lisandro Martinez

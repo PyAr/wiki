@@ -26,7 +26,7 @@ Unicode define equivalencias entre caracteres, o secuencias de caracteres, de lo
 
         >>> normalizar_string(u'Mónica Viñao')
         'monica vinao'
-        
+
         """
         return normalize('NFKD', unicode_string).encode('ASCII', 'ignore').lower()
 

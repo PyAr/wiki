@@ -8,7 +8,7 @@ Vivo en Santa Fe y soy de Patagonia. Pythonero desde el 2006 aprox. y programado
 
 -------------------------
 
- 
+
 
 .. ############################################################################
 

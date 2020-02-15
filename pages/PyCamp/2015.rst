@@ -3,7 +3,7 @@ PyCamp 2015
 ===========
 
 
-Fechas: 
+Fechas:
 -------
 
 14, 15, 16 y 17 de Agosto de 2015 (viernes laborable, sábado,  domingo y lunes feriado)
@@ -11,14 +11,14 @@ Fechas:
 
 Qué llevo (sección en construcción):
 ------------------------------------
- 
+
  - Zapatillas, prolongadores, proyector, access points que puedas aportar, todo eso suma.
- 
+
  - Tu computadora (mejor si es portatil). Actualizala con toda la información, paquetes y datos que creas que podrías necesitar, cosa de no exigirle a la internet del lugar más de lo necesario
 
  - La hostería **sí provee** Todo lo que tiene que ver con sábanas, frazadas, toallas, lo provee la hostería así que no nos tenemos que preocupar (aclaro porque hubo PyCamps donde no fue así)
- 
- 
+
+
 
 Sede: La Serranita, Córdoba
 ---------------------------
@@ -27,12 +27,12 @@ Sede: La Serranita, Córdoba
 
 http://www.turismocordoba.com.ar/solesblancos/#fotos (ver más detalles del hospedaje abajo)
 
-**Donde está:** 
+**Donde está:**
 
  * Mapa: https://www.openstreetmap.org/#map=17/-31.73519/-64.45475
 
  * distancias:
- 
+
   * 55km Córdoba Capital (1 hora en colectivo)
 
   * 22km de Alta Gracia
@@ -53,12 +53,12 @@ http://www.turismocordoba.com.ar/solesblancos/#fotos (ver más detalles del hosp
 
   * Muy probablemente los bondis que salgan de (Retiro|Rosario|Santa Fe|cualquier ciudad al norte de Córdoba) para VG Belgrano o Santa Rosa de Calamuchita, van a ir por ese camino y también pasarán por La Serranita.
 
-  * Costo aproximado: 
-  
+  * Costo aproximado:
+
   	* Córdoba -> La Serranita: ida $40, ida y vuelta $80
   	* Retiro -> La serranita: ida $611 (por empresa T.u.s)
-  
-  
+
+
 
 
 **Precio:** $1400
@@ -84,7 +84,7 @@ Inscripciones:
 --------------
 
   * Pre inscripción:
-  
+
     - la cantidad de inscriptos actuales ya supera las capacidades de alojamiento.
     - Para entrar en una **lista de espera**, por favor carga tus datos acá: http://goo.gl/MpS7Zk y nos comunicaremos con vos si surge el lugar.
   * Para quedar finalmente inscripto hace falta efectuar el pago (No está claro aún cuándo ni cómo)

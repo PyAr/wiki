@@ -25,7 +25,7 @@ Crea y muestra una ventana que muestra el famoso mensaje hola mundo.
     window.show_all()
 
     def on_window_close(window, event):
-        '''este metodo es llamado cuando se aprieta la equis para cerrar la 
+        '''este metodo es llamado cuando se aprieta la equis para cerrar la
         ventana'''
         # cerramos el programa retornando 0 (exito)
         sys.exit(0)

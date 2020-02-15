@@ -67,7 +67,7 @@ Propone: @fisadev
 Espadas! (actividad recreativa)
 -------------------------------
 
-Llevo algunas espadas de práctica y equipo de protección, para el que quiera aprender cosas básicas de artes 
+Llevo algunas espadas de práctica y equipo de protección, para el que quiera aprender cosas básicas de artes
 marciales históricas europeas (no se daban garrotasos a lo bruto, eso es verso de hollywood :p).
 
 Propone: @fisadev
@@ -75,7 +75,7 @@ Propone: @fisadev
 Grillo
 ------
 
-Hoy hice Grillo, una herramienta que permite mandar datos de una máquina a otra re re fácil, usando micrófono 
+Hoy hice Grillo, una herramienta que permite mandar datos de una máquina a otra re re fácil, usando micrófono
 y parlantes para transmitir y leer la data por audio. Tiene magias como esta:
 
 .. code::
@@ -83,12 +83,12 @@ y parlantes para transmitir y leer la data por audio. Tiene magias como esta:
     maquina1> grillo listen
     maquina2> grillo clipboard
 
- 
+
 Y después de escuchar un ruido, máquina 1 tiene en su clipboard el contenido que tiene el clipboard de máquina 2.
 Sirve para mandar textos y archivos también.
 
 Peeeeeeeeeero, la lib que hace la comunicación por audio solo banca mandar mensajes de 32 bytes.
-Durante el pycamp podríamos reemplazarla por otra que no se si es simple de usar, o pensar en algo que use 
+Durante el pycamp podríamos reemplazarla por otra que no se si es simple de usar, o pensar en algo que use
 muchos mensajes, coordinando la comunicación, etc.
 
 Repo: https://github.com/fisadev/grillo
@@ -105,7 +105,7 @@ Propone: FacundoBatista
 Experimento: FSM-flow-django-whatever
 -------------------------------------
 
-Experimento que quiero hacer: una especie de máquina de estado automática para sistemas de gestión basados en flujos preestablecidos, con Django, de manera que sea todo automático en función de algunas definiciones. 
+Experimento que quiero hacer: una especie de máquina de estado automática para sistemas de gestión basados en flujos preestablecidos, con Django, de manera que sea todo automático en función de algunas definiciones.
 
 Pero repito, es un experimento. Todavía no sé ni la forma de encarar esta actividad.
 
@@ -175,8 +175,8 @@ Propone: fisa (pide: facu)
 Chat para PyCamps
 --------------------
 
-Un chat descentralizado sin autenticación, que autodescubra los clientes, 
-y sin necesidad de internet, para los eventos como el pycamp. 
+Un chat descentralizado sin autenticación, que autodescubra los clientes,
+y sin necesidad de internet, para los eventos como el pycamp.
 Algunas funcionalidades:
 - Chat uno a uno
 - Chat grupales

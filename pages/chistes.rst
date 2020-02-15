@@ -30,10 +30,10 @@ En la presentacion del blog propio de PyWars_
 
    Santiago Suarez Ordoñez wrote:
    > On Tue, Oct 21, 2008 at 12:59 PM, Enrique Martín <<<MailTo(enri57ar EN gmail PUNTO com)>>> wrote:
-   >  
+   >
    >> Para cuando la lista de correos propia de Pywars?
    >> No sabes a cuantos les va a encantar esa idea.
-   >>    
+   >>
    >
    > También podríamos armar una lista de correos propia para Enrique
    > Martin (creo que habría incluso más beneficiados)

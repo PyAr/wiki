@@ -2,7 +2,7 @@
 EtiquetaPyAr
 ============
 
-*A.K.A.* **REGLAS** *y a llorar a la iglesia* 
+*A.K.A.* **REGLAS** *y a llorar a la iglesia*
 
 Bienvenidos gente nueva de PyAr_, y también gente vieja olvidadiza. Estas son algunas cosas a tener en cuenta para postear en la lista, para que el contenido de la misma se condiga con la misión y valores de pyar, que nadie deje de postear algo importante por miedo a que no sea ontopic, y principalmente para que no se posteen cosas que son totalmente offtopic. Si tenés una duda razonable, posteá, tampoco es el fin del mundo.
 

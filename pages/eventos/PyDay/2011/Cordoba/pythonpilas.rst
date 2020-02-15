@@ -6,17 +6,17 @@ Haciendo videojuegos con Pilas
 
 * Disertante: HugoRuscitti_
 
-.. * Presentación: 
+.. * Presentación:
 
-.. [[attachment:nombreadjunto ]] ##Link al archivo adjunto o pagina externa 
+.. [[attachment:nombreadjunto ]] ##Link al archivo adjunto o pagina externa
 
-.. * Código: 
+.. * Código:
 
-.. [[attachment:nombreadjunto ]] ##Link al archivo adjunto o pagina externa 
+.. [[attachment:nombreadjunto ]] ##Link al archivo adjunto o pagina externa
 
 Pilas es un motor o biblioteca para hacer juegos de manera sencilla, orientado a principiantes y programadores.
 
-`[[Video(http://pyar.usla.org.ar/pilas001.ogv)]]`_   
+`[[Video(http://pyar.usla.org.ar/pilas001.ogv)]]`_
 
 .. Puto el que lee
 

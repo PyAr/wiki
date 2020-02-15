@@ -2,7 +2,7 @@
 Correr CDPedia como Servidor
 ----------------------------
 
-La CDPedia está preparada (desde su versión 0.8) para correr en modo servidor: la instalás en una máquina, y podés accederla desde muchas otras. 
+La CDPedia está preparada (desde su versión 0.8) para correr en modo servidor: la instalás en una máquina, y podés accederla desde muchas otras.
 
 ¿Cómo se arma esto?
 
@@ -37,7 +37,7 @@ Hay dos formas de hacer esto:
 Proxy reverso
 :::::::::::::
 
-El servidor web externo o principal hace de proxy reverso hacia el servidor integrado de la cdpedia. 
+El servidor web externo o principal hace de proxy reverso hacia el servidor integrado de la cdpedia.
 
 cliente <-> apache <-> cdpedia --daemon
 

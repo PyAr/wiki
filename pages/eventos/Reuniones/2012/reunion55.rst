@@ -15,7 +15,7 @@ Asistentes
 Fecha y Hora
 ~~~~~~~~~~~~
 
-* Miércoles 28 de Marzo 2012, 21hs 
+* Miércoles 28 de Marzo 2012, 21hs
 
 Lugar
 ~~~~~
@@ -27,7 +27,7 @@ Cyrano Bar
 Minuta
 ~~~~~~
 
-El tema a tratar en la reunión era ver la posibilidad de realizar un PyDay_ en Rafaela. 
+El tema a tratar en la reunión era ver la posibilidad de realizar un PyDay_ en Rafaela.
 
 Lo primero que se trató fue el tema de la fecha, la cual no tiene que coincidir con otro PyDay_ y debiera estar "alejada" de PyConAr_. La fecha tentativa que a todos nos pareció bien es el sábado 13/10.
 
@@ -37,7 +37,7 @@ El día del evento lo planificamos con 6 charlas + lightning talk's; sin la posi
 
 Sobre las temáticas de las charlas mucho no se habló, lo único que se mencionó es que estaría bueno que no sean de un nivel demasiado avanzado para poder capturar la atención de más newbies. Además dijimos que, de darse el tema de los talleres, las charlas de Intro a Python y Django quedarían descartadas...
 
-La noche del sábado la idea sería hacer una *codemida* (término acuñado por Fisa), una juntada que involucra comida y sprint/coding dojo. Las temáticas sobre las cuales trabajar serían abiertas, se pueden proponer con anterioridad o durante el día de las charlas; para lo que si habría que anotarse de antemano es para la asistencia a la comida. 
+La noche del sábado la idea sería hacer una *codemida* (término acuñado por Fisa), una juntada que involucra comida y sprint/coding dojo. Las temáticas sobre las cuales trabajar serían abiertas, se pueden proponer con anterioridad o durante el día de las charlas; para lo que si habría que anotarse de antemano es para la asistencia a la comida.
 
 Respecto a temas organizativos que hay que tener en cuenta identificamos:
 
@@ -61,7 +61,7 @@ Respecto a temas organizativos que hay que tener en cuenta identificamos:
 
 * Tesorería
 
-* Hoteles 
+* Hoteles
 
 Sobre los temas que ahondamos fueron:
 
@@ -75,15 +75,15 @@ Dentro de las ventajas contamos con que: tenemos laboratorios para hacer los tal
 Filmación
 :::::::::
 
-El PyDay_ de 2010 lo filmamos completo, pero hubo detalles a mejorar... 
+El PyDay_ de 2010 lo filmamos completo, pero hubo detalles a mejorar...
 
 1. Hubo una mínima edición posterior por problemas de la filmadora, pero no se compaginaron las filminas para mostrarlas cuando se hacían referencia a ellas. Aún siendo menor, el tema de edición fue trabajoso y embolante...
 
-#. El audio era malo. 
+#. El audio era malo.
 
 #. La disposición de disertante, pantalla blanca y filmadora no era necesariamente la mejor...
 
-Buscando una solución a todos estos temas Cesar se acordó que en la facu hay un flamante equipo de video conferencias, el cual en principio permite varias entradas simultáneas de video con la posibilidad de editar en tiempo real el layout del video. El equipo cuenta además con un micrófono ambiental que capturaría bien el sonido.  Si el lugar sería el mismo de la edición anterior, no haría falta tener un equipo de sonido. 
+Buscando una solución a todos estos temas Cesar se acordó que en la facu hay un flamante equipo de video conferencias, el cual en principio permite varias entradas simultáneas de video con la posibilidad de editar en tiempo real el layout del video. El equipo cuenta además con un micrófono ambiental que capturaría bien el sonido.  Si el lugar sería el mismo de la edición anterior, no haría falta tener un equipo de sonido.
 
 Como ventaja adicional hay que evaluar si se puede hacer stream de las charlas a un sitio como justin.tv
 
@@ -126,7 +126,7 @@ Roles y tareas
 
 Dentro de los roles quedamos así:
 
-  :underline:`Coordinador general y tesorero:` Ariel 
+  :underline:`Coordinador general y tesorero:` Ariel
 
   :underline:`Encargado de Sponsors:` Fisa
 

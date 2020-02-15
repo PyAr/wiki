@@ -4,7 +4,7 @@ Guardar historial en consola interactiva
 
 como guardar y recuperar el historial de las sesiones en la consola interactiva (donado por Matias Ribecky)
 
-crear un archivo llamado .pythonrc (se llama asi pero podria llamarse de cualquier otra forma), que dice: 
+crear un archivo llamado .pythonrc (se llama asi pero podria llamarse de cualquier otra forma), que dice:
 
 ::
 
@@ -27,5 +27,5 @@ crear un archivo llamado .pythonrc (se llama asi pero podria llamarse de cualqui
 
 y en el environment se setteada la variable
 
-PYTHONSTARTUP=/home/tuusuario/.pythonrc (aca importa que sea igual al nombre del alchivo). 
+PYTHONSTARTUP=/home/tuusuario/.pythonrc (aca importa que sea igual al nombre del alchivo).
 

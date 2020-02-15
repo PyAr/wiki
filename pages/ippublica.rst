@@ -9,7 +9,7 @@ Obtener ip Publica
 ::
 
     #!/usr/bin/env python
-    # -*- coding: utf-8 -*- 
+    # -*- coding: utf-8 -*-
     import urllib
     ip = urllib.urlopen('http://automation.whatismyip.com/n09230945.asp').read() # esta URL puede ser reemplazada con otra que preste similar servicio
     print ip

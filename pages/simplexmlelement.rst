@@ -49,7 +49,7 @@ En este ejemplo se muestra como convertir un string desde y hacia un objeto simp
 
 Simplemente creamos un objeto de tipo SimpleXmlElement pasandole el string y obtenemos el objeto parseado. Se puede:
 
-* Acceder por item (como si fuera un dict) 
+* Acceder por item (como si fuera un dict)
 
 * Acceder por atributo (como si fuera un objeto)
 

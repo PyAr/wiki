@@ -20,7 +20,7 @@ Miércoles 20/Ago/2008
 Jueves 21/Ago/2008
 ------------------
 
-* Python 3000 (Raymond Hettinger) - Auditorio Sarmiento, 11hs 
+* Python 3000 (Raymond Hettinger) - Auditorio Sarmiento, 11hs
 
 * Introduccion a w3af - Un framework para conquistar la web (Andrés Riancho) - Auditorio Roca, 11hs
 
@@ -28,7 +28,7 @@ Jueves 21/Ago/2008
 
 * Introducción al desarrollo en Plone (Emanuel Sartor) - Aula 13.1, 14hs
 
-* Descriptor tutorial (Raymond Hettinger) - Auditorio Sarmiento, 15hs 
+* Descriptor tutorial (Raymond Hettinger) - Auditorio Sarmiento, 15hs
 
 * PloneGetPaid, estilo, calidad e ecommerce en un solo paquete (Horacio Francisco Sebastian Durán Barrionuevo) - Aula 3.4, 16hs
 
@@ -171,7 +171,7 @@ Plone es un producto que provee una plataforma para el desarrollo de aplicacione
 
 -------------------------
 
- 
+
 
 Descriptor tutorial
 -------------------
@@ -182,7 +182,7 @@ Most of Python's advanced features are implemented with descriptors. Learning th
 
 Learn the descriptor protocol, see how it is invoked, examine real examples from the language, and learn to write your own.
 
-Walk away with a sound understanding of methods, properties, super, classmethods, and staticmethods. 
+Walk away with a sound understanding of methods, properties, super, classmethods, and staticmethods.
 
 -------------------------
 
@@ -256,7 +256,7 @@ Look under-the-hood at the implementation of Python's container classes. Underst
 
 -------------------------
 
- 
+
 
 /dev/wiimote > Experimentando con un wii remote en Gnu/Linux
 ------------------------------------------------------------

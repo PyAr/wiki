@@ -12,7 +12,7 @@ O sea, el mismo codigo se podría llegar a usar para cualquier base de datos, to
 
 Por ello, el manejo de bases de datos en python siempre sigue estos pasos:
 
-1. Importar el conector 
+1. Importar el conector
 
 #. Conectarse a la base de datos (función connect del módulo conector)
 
@@ -125,12 +125,12 @@ Algo más pitónico es crear el cursor simil diccionario (en vez de una lista de
 
 ::
 
-   >>> cur = conn.cursor(cursor_factory=psycopg2.extras.DictCursor)  
+   >>> cur = conn.cursor(cursor_factory=psycopg2.extras.DictCursor)
    >>> cur.execute("SELECT * FROM estudiante")
    >>> for row in cur: # itero sober cada fila
    >>>    # row es un diccionario, con las claves = nombres de campos
    >>>    print "Nombre y Apellido: %s, %s " % (row['nombre'],row['apellido'])
-      
+
    Nombre y Apellido: Joe, Capbell
    Nombre y Apellido: Joe, Doe
    Nombre y Apellido: Rick, Hunter

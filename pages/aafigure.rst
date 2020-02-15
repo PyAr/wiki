@@ -37,8 +37,8 @@ Aspecto
 ~~~~~~~
 
 
-:: 
-    
+::
+
     {{{{
         {{{#!aafig aspect=0.5 textual
         +---+    DDDD

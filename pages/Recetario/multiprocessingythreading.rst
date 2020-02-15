@@ -111,7 +111,7 @@ notar que el pid de quien lanza doer es igual al que imprime doer
 
 ::
 
-    diff controlled.py controlledthread.py 
+    diff controlled.py controlledthread.py
     4,5c4,5
     < from multiprocessing import Process
     < from multiprocessing import Queue

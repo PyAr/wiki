@@ -31,7 +31,7 @@ Hola Mundo Bottle
 
 -------------------------
 
- 
+
 
 * Mejorando nuestro  hola mundo en Bottle_, ejemplo mas completo, ideal para Plantilla para una App nueva.
 

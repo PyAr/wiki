@@ -28,7 +28,7 @@ Dónde enviar las Charlas
 
 Hay dos modos de enviar las charlas.
 
-El primero es hacerlo a través del correo electrónico. **Podés enviar tu propuesta de charla a**  **:** `pyconar2011@gmail.com`_ **. Si tenés una inquietud, o si querés que te ayudemos en algun aspecto en el envío de tu propuesta, escribinos y vamos a ayudarte.** 
+El primero es hacerlo a través del correo electrónico. **Podés enviar tu propuesta de charla a**  **:** `pyconar2011@gmail.com`_ **. Si tenés una inquietud, o si querés que te ayudemos en algun aspecto en el envío de tu propuesta, escribinos y vamos a ayudarte.**
 
 La segunda opción es cargar la charla directamente en el sistema. Enviá la charla hoy mismo!. La dirección web es :  http://ar.pycon.org/2011/conference/proposals/submit/ .
 

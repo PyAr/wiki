@@ -12,7 +12,7 @@ Si te esta pasa que necesitas saber porque placa de red tenes internet en Gnu/Li
         Lista todas las placas de red.
             Retorna:
                 Lista con diccionarios, cada diccionario de la lista tiene
-                como key el nombre de la iface asignada y los valores del 
+                como key el nombre de la iface asignada y los valores del
                 diccionario son los datos correspondiente a la interfaz de red
         '''
         fh = open('/proc/net/dev', 'r')

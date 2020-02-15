@@ -1,5 +1,5 @@
 
-Venezolano, Ingeniero de Sistemas, egresado de la Unefa. 
+Venezolano, Ingeniero de Sistemas, egresado de la Unefa.
 
 Amante del software libre desde el año 2001. Programador de corazón.
 

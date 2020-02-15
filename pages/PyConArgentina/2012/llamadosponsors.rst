@@ -105,7 +105,7 @@ Documentos:
     Internacionales
     ---------------
 
-    * Entohught_: contactados [MarianoReingart_], lo estan evaluando 
+    * Entohught_: contactados [MarianoReingart_], lo estan evaluando
 
     * Wingware_: email enviado [MarianoReingart_], sin respuesta
 
@@ -123,7 +123,7 @@ Documentos:
 
     * Nebula_: contactado via formulario web [MarianoReingart_]
 
-    * dotcloud_: contactado via formulario web [MarianoReingart_] 
+    * dotcloud_: contactado via formulario web [MarianoReingart_]
 
     * ActiveState_: contactado via formulario web [MarianoReingart_]
 

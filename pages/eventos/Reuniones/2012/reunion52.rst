@@ -20,7 +20,7 @@ Temario:
 Asistentes:
 -----------
 
- 
+
 
   [Table not converted]
 
@@ -74,7 +74,7 @@ Pyar como ONG/Asoc. Civil/religion
 
 Como se organiza pyar como ONG?, o ¿hace falta?
 
-joac esta impulsando la ONGitud, (para ver si queremos hacer una ONG, fundacion, asoc. civil, partido politico, religion). 
+joac esta impulsando la ONGitud, (para ver si queremos hacer una ONG, fundacion, asoc. civil, partido politico, religion).
 
 perrito: Esta el fantasma de uylug, donde al hacerse una ONG los desarmaron desde adentro. rover comento como se maneja en otras asociaciones y como se evita que eso suceda. Esencialmente tiene sentido que el manejo de la burocracia lo haga una organizacion burocratica, y eso separado de las cosas que la comunidad hace que seguirian siendo a modo libre y comunitaria. Alecu también propuso distinguir bien y separar por un lado "pyar" como lo que yaes ahora, y la asoc. civil (u otra forma legal que tome) python argentina
 

@@ -83,7 +83,7 @@ de un paquete no descargado (no en la lista inicial), se descarga y queda listo 
 Moravec: Como encarar un proyecto ya realizado
 ----------------------------------------------
 
-El proyecto se llama Moravec, es de la gente de ElGatoYLaCaja y el backend se encuentra en Python. 
+El proyecto se llama Moravec, es de la gente de ElGatoYLaCaja y el backend se encuentra en Python.
 Para ver detalles del proyecto: https://elgatoylacaja.com.ar/moravec/ .
 Código fuente: https://github.com/elgatoylacaja/Dennett.
 Una de las razones de porque me uní al evento, es poder aprender lo suficiente para poder darles una mano a la gente que esta atrás de este proyecto, en especial a Jorge que lo esta haciendo de manera voluntaria.
@@ -117,7 +117,7 @@ Propone: FacundoBatista
 Linkode, el pastebin útil
 -------------------------
 
-La idea es ofrecer un "espacio de colaboración de corta vida".  Algo así como un pastebin dinámico, pero que al mismo tiempo sea fácil de usar. 
+La idea es ofrecer un "espacio de colaboración de corta vida".  Algo así como un pastebin dinámico, pero que al mismo tiempo sea fácil de usar.
 
 ¿Por qué usar Linkode?
 
@@ -178,7 +178,7 @@ propone: fisa
 Verano/12 Epub
 ---------------
 
-Compilar cuentos de Verano/12 
+Compilar cuentos de Verano/12
 
 Estuvimos trabajando, usando Scrapy para bajar obtener el contenido de los cuentos.
 
@@ -198,7 +198,7 @@ Estuvimos usando: `feedgen <https://github.com/lkiesow/python-feedgen>`_ para ge
 
 Tambien vimos http://podsync.net/ , queremos hacer algo parecido pero que se extraiga solo el audio.
 
-Propone: diegom. 
+Propone: diegom.
 
 Jugar con RaspberryPi zero W:
 -----------------------------

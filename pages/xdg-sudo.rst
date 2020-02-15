@@ -9,7 +9,7 @@ El sudo grafico universal para escritorios GTK/QT/loquesea, inspirado en el func
     #!/usr/bin/env python
     # -*- coding: utf-8 -*-
     # Licence: GPLv3
-    # xdg-sudo: Automatically choose "gksudo" or "kdesudo" 
+    # xdg-sudo: Automatically choose "gksudo" or "kdesudo"
     import os
     import sys
     #import antigravity

@@ -2,25 +2,25 @@
 TituloCharla
 ============
 
-* Evento: 
+* Evento:
 
 .. [[urlevento|nombrelindo]]
 
-* Disertante: 
+* Disertante:
 
-.. wikiname disertante o url a blog 
+.. wikiname disertante o url a blog
 
-* Presentación: 
+* Presentación:
 
-.. [[attachment:nombreadjunto ]] ##Link al archivo adjunto o pagina externa 
+.. [[attachment:nombreadjunto ]] ##Link al archivo adjunto o pagina externa
 
-* Código: 
+* Código:
 
-.. [[attachment:nombreadjunto ]] ##Link al archivo adjunto o pagina externa 
+.. [[attachment:nombreadjunto ]] ##Link al archivo adjunto o pagina externa
 
 .. Descomentar y completar con el path del video
 
-.. <<Video(http://pyar.usla.org.ar/path-al-video)>>   
+.. <<Video(http://pyar.usla.org.ar/path-al-video)>>
 
 .. Puto el que lee
 

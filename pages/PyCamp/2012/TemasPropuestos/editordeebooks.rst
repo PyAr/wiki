@@ -44,10 +44,10 @@ Rendering of reStructured text is not possible, please install Docutils.**
 
    - Como se trata de "editar" (xhtml + css), necesitamos un editor. Para codigo Ace_ está
      `buenísimo <http://ajaxorg.github.com/ace/build/kitchen-sink.html>`_ ( y además
-     existe como `widget de django <https://github.com/Celc/django-ace-editor>`_ ) pero 
+     existe como `widget de django <https://github.com/Celc/django-ace-editor>`_ ) pero
      me parece que no tiene modo WYSIWYG para html. Quizas habrá que elegir alguno de
      `estos <http://www.djangopackages.com/grids/g/wysiwyg/>`_
-          
+
    - lo de "colaborativo" no lo tengo claro. Se podrá hacer algo como google docs
      que permite la edición simultánea? A priori, podemos arrancar en modo "bloqueante"
      como hace moin moin.
@@ -85,7 +85,7 @@ Rendering of reStructured text is not possible, please install Docutils.**
 
        - Creo que hay que manejarse en formato .epub (el estándar más extendido) y convertir desde ahí
          usando Calibre_.
-       - enviar por email 
+       - enviar por email
        - enviar al kindle  (simil anterior)
        - u1 / dropbox ?
 
@@ -112,11 +112,11 @@ Rendering of reStructured text is not possible, please install Docutils.**
      - No soy *muy* conocedor de estos menesteres pero creo que jquery-ui_ está bueno.
      - Les gusta `esto <http://layout.jquery-dev.net/demos/container_margins.html>`_ ?
      - Alguien maneja algun framework CSS ?
-      
+
 
    Se te ocurre algo ? tus ideas son bienvenidas!
 
-          
+
 
    .. _Calibre: http://calibre-ebook.com/
    .. _Sigil: http://code.google.com/p/sigil/

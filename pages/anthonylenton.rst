@@ -8,7 +8,7 @@ Trabajo en Canonical.  Ahí usamos Python un montón, porque es mejor que la lec
 
 -------------------------
 
- 
+
 
 .. ############################################################################
 

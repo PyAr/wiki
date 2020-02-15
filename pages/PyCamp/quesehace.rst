@@ -2,7 +2,7 @@
 Que se hace en un PyCamp
 ========================
 
-Los PyCamps_ son mas de 'hacer' que de 'escuchar'. 
+Los PyCamps_ son mas de 'hacer' que de 'escuchar'.
 
 Al principio del primer dia se hace la asignación de slots
 ----------------------------------------------------------
