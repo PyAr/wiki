@@ -367,4 +367,5 @@ Pilas
 .. _hugoruscitti: /hugoruscitti
 .. _eloycolell: /eloycolell
 .. _pycamp: /pycamp
+.. _facundobatista: /miembros/facundobatista
 .. _juanfisanotti: /juanfisanotti

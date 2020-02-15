@@ -44,13 +44,13 @@ Se puede encontrar la lista de cambios en `"Whats New 3.0"`_. En general, son co
 
   * Se elimina ``string.letters`` y similares (``string.lowercase`` y ``string.uppercase``). Usar ``string.ascii_letters``
 
-  * UTF-8 es la codificación del código fuente por defecto. Se agrega la posibilidad de tener identificadores con "letras" no ASCII. 
+  * UTF-8 es la codificación del código fuente por defecto. Se agrega la posibilidad de tener identificadores con "letras" no ASCII.
 
   * Nuevo esquema para el formateo de strings: ``"hola {quien}".format(quien="mundo")`` (se mantiene el % estilo C)
 
 * Iterables
 
-  * ``zip()``, ``map()`` y ``filter()`` devuelven iteradores. Un ajuste rápido sería por ej. ``list(map(...))``, pero algo mejor es usar comprehensión de listas (especialmente si se usa ``lambda``). 
+  * ``zip()``, ``map()`` y ``filter()`` devuelven iteradores. Un ajuste rápido sería por ej. ``list(map(...))``, pero algo mejor es usar comprehensión de listas (especialmente si se usa ``lambda``).
 
   * ``builtin.sorted()`` y ``list.sort()`` no aceptan un argumento cmp
 
@@ -58,11 +58,11 @@ Se puede encontrar la lista de cambios en `"Whats New 3.0"`_. En general, son co
 
   * ``xrange()`` se renombra a ``range()``
 
-  * ``.next()`` se renombra a ``__next__()``, se incorpora un nuevo builtin ``next()`` para llamara al método ``__next__()`` 
+  * ``.next()`` se renombra a ``__next__()``, se incorpora un nuevo builtin ``next()`` para llamara al método ``__next__()``
 
   * Unpacking extendido de iterables. Ahora se puede escribir ``a, b, *rest = some_sequence``
 
-* Diccionarios: 
+* Diccionarios:
 
   * ``dict.keys()``, ``dict.items()`` y ``dict.values()`` devuelven vistas en vez de listas (objetos que reflejan el contenido del diccionario). Por ejemplo, esto no funcionará: ``k = d.keys(); k.sort()``. Usar ``k = sorted(d)`` en su lugar.
 
@@ -76,11 +76,11 @@ Se puede encontrar la lista de cambios en `"Whats New 3.0"`_. En general, son co
 
   * ``long`` se renombra a ``int`` (se unifican los enteros)
 
-  * Se remueve ``sys.maxint``. Usar ``sys.maxsize`` 
+  * Se remueve ``sys.maxint``. Usar ``sys.maxsize``
 
-  * La ``repr()`` de un entero largo no incluye el prefijo L 
+  * La ``repr()`` de un entero largo no incluye el prefijo L
 
-* Excepciones: 
+* Excepciones:
 
   * Deben derivar de ``BaseException``
 
@@ -88,7 +88,7 @@ Se puede encontrar la lista de cambios en `"Whats New 3.0"`_. En general, son co
 
   * Se deben lanzar con un ``raise Exception(args)`` en vez de ``raise Exception, args``
 
-  * Se elimina el comportamiento de sequencias (slicing!) y el atributo ``message`` de las instancias 
+  * Se elimina el comportamiento de sequencias (slicing!) y el atributo ``message`` de las instancias
 
   * Caputra de excepciones: nueva sintaxis ``except clases as instancia`` en vez de ``except clases, instancia``. La instancia se libera al finalizar el bloque.
 
@@ -98,21 +98,21 @@ Se puede encontrar la lista de cambios en `"Whats New 3.0"`_. En general, son co
 
 * Clases y Metaclases
 
-  * Se remueven las clases "clasicas" 
+  * Se remueven las clases "clasicas"
 
-  * Se incorpora una nueva sintaxis de metaclases 
+  * Se incorpora una nueva sintaxis de metaclases
 
   * Abstract Base Classes (ABCs); decoradores ``@abstractmethod`` and ``@abstractproperty``; ABCs colecciones y numéricas
 
   * Decoradores de Clases
 
-  * Nuevo ``super()``. Se puede invocar sin argumentos y la clase correcta será elegida 
+  * Nuevo ``super()``. Se puede invocar sin argumentos y la clase correcta será elegida
 
 * Comparaciones
 
   * Se elimina ``<>`` (usar ``!=``)
 
-  * ``!=`` devuelve lo opuesto de ``==``, salvo que ``==`` devuelva NotImplemented_. 
+  * ``!=`` devuelve lo opuesto de ``==``, salvo que ``==`` devuelva NotImplemented_.
 
   * Los operadores de ordenamiento se comportan diferentes cuando se compara tipos incompatibles (lanza excepción)
 
@@ -124,11 +124,11 @@ Se puede encontrar la lista de cambios en `"Whats New 3.0"`_. En general, son co
 
   * Instrucción ``nonlocal`` (para usar variables de ambitos exteriores pero no globales)
 
-  * Se elimina el unpacking tuplas en parametros. En vez de ``def foo(a, (b, c)): ....`` usar ``def foo(a, b_c): b, c = b_c`` 
+  * Se elimina el unpacking tuplas en parametros. En vez de ``def foo(a, (b, c)): ....`` usar ``def foo(a, b_c): b, c = b_c``
 
 * Varios
 
-  * Se elimina la comilla invertida (usar ``repr()``) 
+  * Se elimina la comilla invertida (usar ``repr()``)
 
   * ``as`` y ``with`` son palabras reservadas (keywords)
 
@@ -138,11 +138,11 @@ Se puede encontrar la lista de cambios en `"Whats New 3.0"`_. En general, son co
 
   * Literales octales, binarios, ``oct()`` y ``bin()``. En vez de ``0666``, escribir ``0o666``. Ídem binarios
 
-  * Se elimina: ``apply()``, ``callable()``, ``coerce()``, ``execfile()``, ``file()``, ``reduce()``, ``reload()`` 
+  * Se elimina: ``apply()``, ``callable()``, ``coerce()``, ``execfile()``, ``file()``, ``reduce()``, ``reload()``
 
-  * ``exec()`` is ahora una function. 
+  * ``exec()`` is ahora una function.
 
-  * Nuevo representacion de formato punto flotante libre. ``repr(11./5)`` devuelve ``2.2`` en vez de ``2.2000000000000002`` 
+  * Nuevo representacion de formato punto flotante libre. ``repr(11./5)`` devuelve ``2.2`` en vez de ``2.2000000000000002``
 
   * Se eliminan ``__oct__()`` and ``__hex__()``. ``oct()`` y ``hex()`` usan ``__index__()``
 
@@ -150,13 +150,13 @@ Se puede encontrar la lista de cambios en `"Whats New 3.0"`_. En general, son co
 
 * Módulos
 
-  * Se elimina el módulo ``cPickle``. Usar ``pickle`` en su lugar. Eventualmente existirá un modulo acelerador transparente. 
+  * Se elimina el módulo ``cPickle``. Usar ``pickle`` en su lugar. Eventualmente existirá un modulo acelerador transparente.
 
   * Se eliminan los módulos ``StringIO`` y ``cStringIO``. En su lugar, importar ``io.StringIO`` o ``io.BytesIO`` (ver arriba)
 
   * Se elimina el módulo ``imageop``
 
-  * Se eliminan los módulos ``audiodev``, ``Bastion``, ``bsddb185``, ``exceptions``, ``linuxaudiodev``, ``md5``, ``MimeWriter``, ``mimify``, ``popen2``, ``rexec``, ``sets``, ``sha``, ``stringold``, ``strop``, ``sunaudiodev``, ``timing``, y ``xmllib`` 
+  * Se eliminan los módulos ``audiodev``, ``Bastion``, ``bsddb185``, ``exceptions``, ``linuxaudiodev``, ``md5``, ``MimeWriter``, ``mimify``, ``popen2``, ``rexec``, ``sets``, ``sha``, ``stringold``, ``strop``, ``sunaudiodev``, ``timing``, y ``xmllib``
 
   * Se elimina el módulo ``new``
 
@@ -173,19 +173,19 @@ Para facilitar la transición, Python 2.6 soportará compatibilidad hacia adelan
 
 Adicionalmente, y en vez de implementar todas las nuevas características en Python 2.6, existe una herramienta de conversión de código fuente (2to3), que ayudará a la traducción automática del código fuente.
 
-Suponiendo que se tengan test de unidades con cobertura aproximadamente completa, el modo recomendado de desarrollo para proyectos que deban soportar tanto Python 2.6 como 3.0 sería: 
+Suponiendo que se tengan test de unidades con cobertura aproximadamente completa, el modo recomendado de desarrollo para proyectos que deban soportar tanto Python 2.6 como 3.0 sería:
 
-1. Portar el proyecto a Python 2.6. 
+1. Portar el proyecto a Python 2.6.
 
-#. Activar el modo de advertencia de Py3k 
+#. Activar el modo de advertencia de Py3k
 
 #. Testear y editar hasta que no queden advertencias
 
-#. Usar la herramienta 2to3 para convertir el código fuente a la sintáxis 3.0. No editar manualmente la salida de este programa! 
+#. Usar la herramienta 2to3 para convertir el código fuente a la sintáxis 3.0. No editar manualmente la salida de este programa!
 
 #. Probar el código fuente convertido bajo Python 3.0
 
-#. Si se encuentran problemas, hacer las correcciones en el código fuente de la versión 2.6 y volver al paso 3 
+#. Si se encuentran problemas, hacer las correcciones en el código fuente de la versión 2.6 y volver al paso 3
 
 #. Al momento de publicar, publicar versiones separadas del proyecto sobre 2.6 y 3.0
 
@@ -219,4 +219,5 @@ Pero en 3.0 no lo tenés. Por eso digo que 3.0 no es para producción, sino para
 .. _"Whats New 3.0": http://docs.python.org/dev/3.0/whatsnew/3.0.html
 
 
+.. _facundobatista: /miembros/facundobatista
 

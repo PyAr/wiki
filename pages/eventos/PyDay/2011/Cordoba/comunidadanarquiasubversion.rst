@@ -6,17 +6,17 @@ Comunidad, anarquía y subversión
 
 * Disertante: FacundoBatista_
 
-.. * Presentación: 
+.. * Presentación:
 
-.. [[attachment:nombreadjunto ]] ##Link al archivo adjunto o pagina externa 
+.. [[attachment:nombreadjunto ]] ##Link al archivo adjunto o pagina externa
 
-.. * Código: 
+.. * Código:
 
-.. [[attachment:nombreadjunto ]] ##Link al archivo adjunto o pagina externa 
+.. [[attachment:nombreadjunto ]] ##Link al archivo adjunto o pagina externa
 
 Pensamientos sobre nuestras comunidades, formas de organización en las distintas etapas de las mismas, y temas relacionados.
 
-`[[Video(http://pyar.usla.org.ar/comunidad001.ogv)]]`_   
+`[[Video(http://pyar.usla.org.ar/comunidad001.ogv)]]`_
 
 .. Puto el que lee
 
@@ -28,4 +28,5 @@ Pensamientos sobre nuestras comunidades, formas de organización en las distinta
 
 .. _PyDay 2011: Eventos/PyDay/2011/Cordoba
 
+.. _facundobatista: /miembros/facundobatista
 .. _categoryvideo: /categoryvideo

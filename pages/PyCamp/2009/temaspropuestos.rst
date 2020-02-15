@@ -229,4 +229,5 @@ Ver `SprintDjango`_
 .. _texteditordeadmatch: /texteditordeadmatch
 .. _pycon: /pycon
 .. _SprintDjango: /PyCamp/2009/TemasPropuestos/sprintdjango
+.. _facundobatista: /miembros/facundobatista
 .. _pycamp: /pycamp

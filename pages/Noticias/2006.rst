@@ -252,6 +252,8 @@ Anteriores
 .. _remeras: /remeras
 .. _sugerencias: /sugerencias
 .. _recursos: /recursos
+.. _marianodraghi: /marianodra
+.. _facundobatista: /miembros/facundobatista
 
 .. _Año 2004: /Noticias/2004
 .. _Año 2005: /Noticias/2005

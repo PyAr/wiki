@@ -504,4 +504,5 @@ CategoryPyCamp_
 .. _danielmoisset: /danielmoisset
 .. _categorypycamp: /categorypycamp
 .. _pycamp: /pycamp
+.. _facundobatista: /miembros/facundobatista
 .. _pycon: /pycon

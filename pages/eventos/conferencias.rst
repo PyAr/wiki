@@ -1,6 +1,6 @@
 Conferencias
 ------------
-PyCon 
+PyCon
 *****
 * `PyCon Argentina 2017`_, realizada los días 17, 18 y 19 de Noviembre de 2017 en Córdoba.
 * `Pycon Argentina 2016 </eventos/Conferencias/pyconar2016>`_, realizada los días 25, 26 y 27 de Noviembre - Bahía Blanca.
@@ -88,8 +88,9 @@ Documentación Relevante
 
 .. _PostMortem PyCon Argentina 2012: https://pyconar20012-postmortem.readthedocs.org
 
-.. _Proyectos/Caucho: /Proyectos/caucho 
+.. _Proyectos/Caucho: /Proyectos/caucho
 
 
 .. _pyar: /pyar
+.. _facundobatista: /miembros/facundobatista
 .. _luciotorre: /luciotorre

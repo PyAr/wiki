@@ -17,4 +17,5 @@ Comentarios
 
 * [FacundoBatista_] Sigo esperando los colores, 😉
 
+.. _facundobatista: /miembros/facundobatista
 .. _luciotorre: /luciotorre

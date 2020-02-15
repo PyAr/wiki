@@ -4,7 +4,7 @@ PyCamp
 .. class:: alert alert-info
 
 ..   **Atención**: Está abierta la inscripción para el `PyCamp 2018 <PyCamp/2018>`_!
-   
+
 
 El PyCamp es un evento organizado por la comunidad de PyAr_, donde nos reunimos para trabajar en distintos proyectos de software libre relacionados con el lenguaje de programación Python, conocernos y compartir experiencias.
 
@@ -16,7 +16,7 @@ El evento esta apuntado principalmente a las personas de la comunidad de Python,
 ¿ Como se desarrolla un PyCamp ?
 --------------------------------
 
-Se proponen temas y la gente interesada trabaja en ellos. Para mas detalles ver aqui_.  
+Se proponen temas y la gente interesada trabaja en ellos. Para mas detalles ver aqui_.
 
 Como se organiza y financia el evento
 -------------------------------------
@@ -166,4 +166,5 @@ Blogpost sobre Pycamps
 
 
 
+.. _facundobatista: /miembros/facundobatista
 .. _pyar: /pyar

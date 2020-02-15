@@ -17,4 +17,5 @@ Comentarios
 
 * [FacundoBatista_] Che, ¿eso realmente saldría bien en una impresión normal? ¿o necesitás algo raro?
 
+.. _facundobatista: /miembros/facundobatista
 .. _pabloziliani: /pabloziliani

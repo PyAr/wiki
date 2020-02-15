@@ -47,4 +47,5 @@ Leonardo y Facundo.
 .. _marianodraghi: /marianodraghi
 .. _luciotorre: /luciotorre
 .. _pabloziliani: /pabloziliani
+.. _facundobatista: /miembros/facundobatista
 .. _categoryreuniones: /categoryreuniones

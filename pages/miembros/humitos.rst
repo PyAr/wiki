@@ -7,4 +7,5 @@ En Abril de 2014 empecé un proyecto llamado "Argentina en Python" (http://argen
 
 
 
+.. _facundobatista: /miembros/facundobatista
 .. _luciotorre: /luciotorre

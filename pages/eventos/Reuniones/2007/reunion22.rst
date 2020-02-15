@@ -126,4 +126,5 @@ Más tarde fuimos a una pizzeria a comer algo y estuvimos charlando algunos tema
 .. _sebastianbassi: /sebastianbassi
 .. _hugoruscitti: /hugoruscitti
 .. _ricardoquesada: /ricardoquesada
+.. _facundobatista: /miembros/facundobatista
 .. _pycon: /pycon

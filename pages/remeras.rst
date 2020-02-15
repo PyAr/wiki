@@ -155,4 +155,5 @@ Alineado a la izquierda, cosa que lo que le siga mas abajo sea el pantalon en s√
 .. _remerasv2: /remerasv2
 .. _luciotorre: /luciotorre
 .. _marianodraghi: /marianodraghi
+.. _facundobatista: /miembros/facundobatista
 .. _nubis: /nubis

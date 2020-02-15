@@ -75,4 +75,5 @@ A eso de las 23:30 se marcho el novato escriba (yo), dejando un pedido de llevar
 .. _pyar: /pyar
 .. _mauricioferrari: /mauricioferrari
 .. _listadecorreo: /listadecorreo
+.. _facundobatista: /miembros/facundobatista
 .. _hipbar: /hipbar

@@ -52,4 +52,5 @@ Algunas fotos de la jornada:
 
 
 .. _manuelkaufmann: /manuelkaufmann
+.. _facundobatista: /miembros/facundobatista
 .. _pyar: /pyar

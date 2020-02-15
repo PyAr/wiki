@@ -243,4 +243,5 @@ A eso de las 5AM, decidimos que ya podíamos desconcentrar y cada uno partió pa
 .. _pyar: /pyar
 .. _danielmoisset: /danielmoisset
 .. _luciotorre: /luciotorre
+.. _facundobatista: /miembros/facundobatista
 .. _guillermogonzalez: /guillermogonzalez
