@@ -36,10 +36,11 @@ Interesados en participar
 
 Anotaos, poniendo nombre, zona en la que pueden dar la charla o presentación, y un mail (si es que no lo tienen en el perfil del wiki)
 
-* FacundoBatista_ (CABA y Gran Buenos Aires) 
+* FacundoBatista_ (CABA y Gran Buenos Aires)
 
 .. ############################################################################
 
 
 
+.. _facundobatista: /miembros/facundobatista
 .. _pyar: /pyar

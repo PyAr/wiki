@@ -36,4 +36,5 @@ Aunque sean menos posts, hay mucha gente participando y somos cada vez mas.
 Los miembros iniciales (aquellos que postearon en el primer mes) cada vez representan menos del total de mensajes de la lista. Yo lo veo como que la cosa va tomando empuje con fuerza propia y no solo un par de locos que charlan mucho.
 
 
+.. _facundobatista: /miembros/facundobatista
 .. _pyar: /pyar

@@ -218,4 +218,5 @@ Me interesa participar como vocal para poder tener voto en las cosas que hacen a
 .. _marianoreingart: /marianoreingart
 .. _pyday: /pyday
 .. _leandrocolombovina: /leandrocolombovina
+.. _facundobatista: /miembros/facundobatista
 .. _pycon: /pycon

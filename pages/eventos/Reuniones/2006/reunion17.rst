@@ -151,4 +151,5 @@ En Alocado Alocador se pudieron volcar muchas experiencias de Pyweek2, y todos c
 .. _pyar: /pyar
 .. _listadecorreo: /listadecorreo
 .. _todo: /todo
+.. _facundobatista: /miembros/facundobatista
 .. _leitomonk: /leitomonk

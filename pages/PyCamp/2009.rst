@@ -190,4 +190,5 @@ Fotos
 .. _hectorsanchez: /hectorsanchez
 .. _TemasPropuestos: /PyCamp/2009/temaspropuestos
 .. _QuienesVan: /PyCamp/2009/quienesvan
+.. _facundobatista: /miembros/facundobatista
 .. _RequerimientosDietarios: /PyCamp/2009/requerimientosdietarios

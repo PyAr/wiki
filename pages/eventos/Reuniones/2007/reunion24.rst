@@ -78,4 +78,5 @@ Y tratamos algunos otros temas más, que no fueron anotados detallados en los ma
 .. _guillermogonzalez: /guillermogonzalez
 .. _pabloziliani: /pabloziliani
 .. _pyweek: /pyweek
+.. _facundobatista: /miembros/facundobatista
 .. _pyar: /pyar

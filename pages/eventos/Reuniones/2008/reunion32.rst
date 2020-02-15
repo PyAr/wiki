@@ -63,3 +63,5 @@ Se armó la siguiente lista de tareas:
 
 Al final de la reunión Daniel comentó un poco sobre la experiencia en pyweek, como viene cambiando el nivel de los juegos, y como viene cambiando el uso de tecnologías: menos pygame, más pyglet, más cocos, más libs de física (especialmente este ultimo pw que el tema daba).
 
+.. _facundobatista: /miembros/facundobatista
+

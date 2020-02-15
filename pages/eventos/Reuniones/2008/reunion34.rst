@@ -166,4 +166,5 @@ Abrazos para todos!!!!!!!!
 .. _marianoreingart: /marianoreingart
 .. _marceloalaniz: /marceloalaniz
 .. _marianomara: /marianomara
+.. _facundobatista: /miembros/facundobatista
 .. _sebastianbassi: /sebastianbassi

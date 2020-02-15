@@ -22,7 +22,7 @@ Asistentes:
 
 Por favor, si venís a la reunión, anotate en esta lista:
 
- 
+
 
   [Table not converted]
 
@@ -98,4 +98,5 @@ De todas formas, al ser 10 personas en la capital, no es representativo de que o
 .. _hugoruscitti: /hugoruscitti
 .. _pyqt: /CharlasAbiertas2010/pyqt
 .. _categoryreuniones: /categoryreuniones
+.. _facundobatista: /miembros/facundobatista
 .. _pycon: /pycon

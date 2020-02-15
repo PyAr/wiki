@@ -10,7 +10,7 @@ Diseños de tapas por acá:
 collage de manuq
 ~~~~~~~~~~~~~~~~
 
-* 
+*
 
 * lo hice usando fotos de:
 
@@ -70,4 +70,5 @@ Por favor, para comentar adjunten su nombre y dirección de correo obsfuscada pa
 .. _marcosdione: /marcosdione
 .. _marianoguerra: /marianoguerra
 .. _diegosarmentero: /diegosarmentero
+.. _facundobatista: /miembros/facundobatista
 .. _juanfisanotti: /juanfisanotti

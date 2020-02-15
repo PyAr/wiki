@@ -201,4 +201,5 @@ Adopciones Finalizadas
 
 .. _juanfisanotti: /juanfisanotti
 
+.. _facundobatista: /miembros/facundobatista
 .. _davidlitvak: /davidlitvak

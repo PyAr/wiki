@@ -432,4 +432,5 @@ Tengo un AR Drone y lo llevo, la idea es hacer cosas copadas para eso. *Propone:
 .. _hugoruscitti: /hugoruscitti
 .. _diegosarmentero: /diegosarmentero
 .. _pycamp: /pycamp
+.. _facundobatista: /miembros/facundobatista
 .. _pycon: /pycon

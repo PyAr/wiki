@@ -140,4 +140,5 @@ I18n Exceptions:
 .. _hugoruscitti: /hugoruscitti
 .. _sebastianbassi: /sebastianbassi
 .. _gabrielgenellina: /gabrielgenellina
+.. _facundobatista: /miembros/facundobatista
 .. _pycon: /pycon

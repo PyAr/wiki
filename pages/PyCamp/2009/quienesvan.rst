@@ -160,3 +160,5 @@ Con muchas ganas, pero sin plata
 .. _robertoallende: /robertoallende
 .. _sebastianbassi: /sebastianbassi
 .. _nicocesar: /nicocesar
+
+.. _facundobatista: /miembros/facundobatista

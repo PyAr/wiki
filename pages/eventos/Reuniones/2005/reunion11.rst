@@ -27,4 +27,5 @@ Fotos
 
 .. _pygame: http://www.pygame.org/wiki/about
 
+.. _facundobatista: /miembros/facundobatista
 .. _luciotorre: /luciotorre

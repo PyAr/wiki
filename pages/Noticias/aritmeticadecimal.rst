@@ -13,4 +13,5 @@ FacundoBatista_ puso disponible en la web, accesible facilmente las instruccione
 .. _Castellano: http://www.taniquetil.com.ar/facundo/bdvfiles/obtener_decimal.html
 
 .. _English: http://www.taniquetil.com.ar/facundo/bdvfiles/get_decimal.html
+.. _facundobatista: /miembros/facundobatista
 
