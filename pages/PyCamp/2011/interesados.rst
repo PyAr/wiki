@@ -39,22 +39,11 @@ Instrucciones para confirmar la asistencia y pagar la reserva en `PyCamp 2011`_
 
 * DiegoSarmentero_
 
--------------------------
-
- CategoryPyCamp_
-
-.. ############################################################################
-
 .. _PyCamp 2011: /PyCamp/2011
 
 .. _Gonzalo Delgado: /gonzalodelgado
 
 .. _Hugo Ruscitti: /hugoruscitti
-
-
-
-.. role:: strike
-   :class: strike
 
 .. _danielmoisset: /danielmoisset
 .. _juanfisanotti: /juanfisanotti

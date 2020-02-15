@@ -24,15 +24,10 @@ Tienen lugar en un auto para volver de pycon
 Necesitan lugar en auto
 -----------------------
 
-*  **Pedro Ejemplo2** :strike:`- quiero ir en auto, el dias 02 o 03 y volver el 05 estoy en Cordoba capital - ``peddro AT ejemplo2 DOT com DOT ar``` 
+*  **Pedro Ejemplo2** :strike:`- quiero ir en auto, el dias 02 o 03 y volver el 05 estoy en Cordoba capital - ``peddro AT ejemplo2 DOT com DOT ar```
 
 Salida en colectivo
 -------------------
 
 * **Juan Ejemplo** Salgo desde Cordoba en el practico a buenos aires el 03 a las 23 horas para Buenos Aires
-
-
-
-.. role:: strike
-   :class: strike
 

@@ -142,11 +142,6 @@ Con muchas ganas, pero sin plata
 
 .. _Roberto Rodríguez: /robertorodríguez
 
-
-
-.. role:: strike
-   :class: strike
-
 .. _marcosdione: /marcosdione
 .. _horacioduran: /horacioduran
 .. _nicoechaniz: /nicoechaniz
