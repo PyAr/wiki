@@ -2,6 +2,9 @@
 Reunión 55  - Miércoles 28 de Marzo - Rafaela, Cyrano Bar - 21hs
 ================================================================
 
+.. role:: underline
+   :class: underline
+
 Temario
 ~~~~~~~
 
@@ -161,25 +164,5 @@ Presupuesto_
 .. _Carta sponsors: https://docs.google.com/document/d/1GW8xHCjsqv64OUtEAi0p-RktzwmCdeqzDyxP_0R4NeQ/edit
 
 .. _Presupuesto: https://docs.google.com/spreadsheet/ccc?key=0AnNHEk3yeJLRdERSZGdrX0pQYXpPUkk4azFSSVV2Q2c
-
-
-
-.. role:: underline
-   :class: underline
-
-
-
-.. role:: underline
-   :class: underline
-
-
-
-.. role:: underline
-   :class: underline
-
-
-
-.. role:: underline
-   :class: underline
 
 .. _pyday: /pyday

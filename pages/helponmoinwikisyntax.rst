@@ -1,3 +1,15 @@
+.. role:: superscript
+   :class: superscript
+
+.. role:: small
+   :class: small
+
+.. role:: big
+   :class: big
+
+.. role:: underline
+   :class: underline
+
 
 This page aims to introduce the most important elements of MoinMoin_'s syntax at a glance, showing first the markup verbatim and then how it is rendered by the wiki engine. Additionally, you'll find links to the relative help pages. Please note that some of the features depend on your configuration.
 
@@ -582,40 +594,4 @@ Its visibility gets toggled the same way.
 
 
 
-
-
-
-
-
-
-
-
-
-.. role:: underline
-   :class: underline
-
-
-
-.. role:: subscript
-   :class: subscript
-
-
-
-.. role:: superscript
-   :class: superscript
-
-
-
-.. role:: small
-   :class: small
-
-
-
-.. role:: big
-   :class: big
-
-
-
-.. role:: underline
-   :class: underline
 

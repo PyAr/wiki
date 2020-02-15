@@ -575,3 +575,22 @@ div.sponsored_jobs {
 .strike {
     text-decoration: line-through;
 }
+
+small, .small {
+    font-size: 85%;
+}
+
+
+.. role:: small
+   :class: small
+
+
+
+.. role:: big
+   :class: big
+
+
+
+.. role:: underline
+   :class: underline
+
