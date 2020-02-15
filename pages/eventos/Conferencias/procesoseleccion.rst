@@ -21,7 +21,7 @@ Propuestas de Sedes
 
 .. _Documentación completa del proceso de selección de sedes: https://selpyconar2013.readthedocs.org/
 
-.. _Pycon 2013 en Cordoba Capital: /pages/eventos/Conferencias/propuestadepycon2013encordobacapital
+.. _Pycon 2013 en Cordoba Capital: /eventos/Conferencias/propuestadepycon2013encordobacapital
 
-.. _Pycon 2013 en Rosario: /pages/eventos/Conferencias/propuestadepycon2013enrosario
+.. _Pycon 2013 en Rosario: /eventos/Conferencias/propuestadepycon2013enrosario
 

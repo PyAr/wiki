@@ -10,4 +10,4 @@ Paginas Relacionadas al Pycamp
 .. ############################################################################
 
 
-.. _categorycategory: /pages/categorycategory
+.. _categorycategory: /categorycategory

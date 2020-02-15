@@ -267,13 +267,13 @@ Otros temas no relacionados directamente a Python
 
 .. _proxymin: http://www.nsis.com.ar/public/browser/proxymin
 
-.. _visualbasic: /pages/visualbasic
+.. _visualbasic: /visualbasic
 
-.. _pythoncard: /pages/pythoncard
+.. _pythoncard: /pythoncard
 
-.. _pycon: /pages/pycon
+.. _pycon: /pycon
 
 
 
-.. _pyday: /pages/pyday
-.. _pyar: /pages/pyar
+.. _pyday: /pyday
+.. _pyar: /pyar

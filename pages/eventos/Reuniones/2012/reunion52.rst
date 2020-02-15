@@ -97,7 +97,7 @@ Se deliro bastante sobre este tema, pero con mucha cerveza encima. hubo ideas su
 
 .. _perrito666: HoracioDuran
 
-.. _categoryreuniones: /pages/categoryreuniones
-.. _danielmoisset: /pages/danielmoisset
-.. _adoptaunnewbie: /pages/adoptaunnewbie
-.. _pycon: /pages/pycon
+.. _categoryreuniones: /categoryreuniones
+.. _danielmoisset: /danielmoisset
+.. _adoptaunnewbie: /adoptaunnewbie
+.. _pycon: /pycon

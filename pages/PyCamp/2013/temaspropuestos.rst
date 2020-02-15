@@ -428,8 +428,8 @@ Tengo un AR Drone y lo llevo, la idea es hacer cosas copadas para eso. *Propone:
 
 .. _web de d3: http://d3js.org/
 
-.. _joaquinsorianello: /pages/joaquinsorianello
-.. _hugoruscitti: /pages/hugoruscitti
-.. _diegosarmentero: /pages/diegosarmentero
-.. _pycamp: /pages/pycamp
-.. _pycon: /pages/pycon
+.. _joaquinsorianello: /joaquinsorianello
+.. _hugoruscitti: /hugoruscitti
+.. _diegosarmentero: /diegosarmentero
+.. _pycamp: /pycamp
+.. _pycon: /pycon

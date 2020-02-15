@@ -178,7 +178,7 @@ Me interesa participar como vocal para poder tener voto en las cosas que hacen a
 
 .. ############################################################################
 
-.. _Asociación Civil: /pages/asociacioncivil
+.. _Asociación Civil: /asociacioncivil
 
 .. _lista de correo META: http://python.org.ar/mailman/listinfo/meta
 
@@ -186,7 +186,7 @@ Me interesa participar como vocal para poder tener voto en las cosas que hacen a
 
 .. _Acta Consitutiva: https://docs.google.com/document/d/1gyVuTknaHaCuvxiqMPX3SGqqu-D_ZbaaFU77O_TbilQ/edit
 
-.. _Deberes y Responsabilidades de las Autoridades de la Asocación Civil: /pages/AsociacionCivil/autoridades#Deberes_y_responsabilidades
+.. _Deberes y Responsabilidades de las Autoridades de la Asocación Civil: /AsociacionCivil/autoridades#Deberes_y_responsabilidades
 
 .. _Board Candidates 2014 - Python Software Foundation: https://wiki.python.org/moin/PythonSoftwareFoundation/BoardCandidates2014
 
@@ -214,8 +214,8 @@ Me interesa participar como vocal para poder tener voto en las cosas que hacen a
 
 .. _github: https://github.com/fisadev
 
-.. _pyar: /pages/pyar
-.. _marianoreingart: /pages/marianoreingart
-.. _pyday: /pages/pyday
-.. _leandrocolombovina: /pages/leandrocolombovina
-.. _pycon: /pages/pycon
+.. _pyar: /pyar
+.. _marianoreingart: /marianoreingart
+.. _pyday: /pyday
+.. _leandrocolombovina: /leandrocolombovina
+.. _pycon: /pycon

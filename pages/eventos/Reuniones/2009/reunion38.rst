@@ -34,8 +34,8 @@ Hasta las 22 nadie había comido, pidieron unas picadas y yo me tuve que retirar
 
 .. ############################################################################
 
-.. _Mariano: /pages/marianoreingart
+.. _Mariano: /marianoreingart
 
-.. _Santiago: /pages/santiagobruno
+.. _Santiago: /santiagobruno
 
-.. _pyday: /pages/pyday
+.. _pyday: /pyday

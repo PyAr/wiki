@@ -104,6 +104,6 @@ Y cuando puedo, trato de `colaborar en la lista de correo`_
 .. _colaborar en la lista de correo: http://grulic.org.ar/lurker/search/20990626.220752.00000000@au:moisset,ml:pyar.en.html
 
 
-.. _johnlenton: /pages/johnlenton
-.. _pyar: /pages/pyar
-.. _alejandrojcura: /pages/alejandrojcura
+.. _johnlenton: /johnlenton
+.. _pyar: /pyar
+.. _alejandrojcura: /alejandrojcura

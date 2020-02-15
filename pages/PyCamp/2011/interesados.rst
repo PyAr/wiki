@@ -45,24 +45,24 @@ Instrucciones para confirmar la asistencia y pagar la reserva en `PyCamp 2011`_
 
 .. ############################################################################
 
-.. _PyCamp 2011: /pages/PyCamp/2011
+.. _PyCamp 2011: /PyCamp/2011
 
-.. _Gonzalo Delgado: /pages/gonzalodelgado
+.. _Gonzalo Delgado: /gonzalodelgado
 
-.. _Hugo Ruscitti: /pages/hugoruscitti
+.. _Hugo Ruscitti: /hugoruscitti
 
 
 
 .. role:: strike
    :class: strike
 
-.. _danielmoisset: /pages/danielmoisset
-.. _juanfisanotti: /pages/juanfisanotti
-.. _horaciobertorello: /pages/horaciobertorello
-.. _pabloziliani: /pages/pabloziliani
-.. _nicoechaniz: /pages/nicoechaniz
-.. _marianoreingart: /pages/marianoreingart
-.. _ramiromorales: /pages/ramiromorales
-.. _diegosarmentero: /pages/diegosarmentero
-.. _pycamp: /pages/pycamp
-.. _categorypycamp: /pages/categorypycamp
+.. _danielmoisset: /danielmoisset
+.. _juanfisanotti: /juanfisanotti
+.. _horaciobertorello: /horaciobertorello
+.. _pabloziliani: /pabloziliani
+.. _nicoechaniz: /nicoechaniz
+.. _marianoreingart: /marianoreingart
+.. _ramiromorales: /ramiromorales
+.. _diegosarmentero: /diegosarmentero
+.. _pycamp: /pycamp
+.. _categorypycamp: /categorypycamp

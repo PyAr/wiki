@@ -312,4 +312,4 @@ Disponibilidad: queda averiguar fechas.
 
 * Horarios de minibus El Colorado a Formosa Capital (estaríamos completando ni bien contamos con dicha información)
 * Horarios de minibus El Colorado a Resistencia Capital (estaríamos completando ni bien contamos con dicha información)
-.. _pyar: /pages/pyar
+.. _pyar: /pyar

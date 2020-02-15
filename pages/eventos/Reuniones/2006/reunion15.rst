@@ -66,19 +66,19 @@ Finalizada la reunión quedamos AlejandroDavidWeil_, PabloZiliani_ y yo_ jugando
 
 .. ############################################################################
 
-.. _alecu: /pages/alejandrojcura
+.. _alecu: /alejandrojcura
 
 .. _pyweek: http://www.pyweek.org
 
-.. _STIM: /pages/Proyectos/stim
+.. _STIM: /Proyectos/stim
 
-.. _yo: /pages/nubis
+.. _yo: /nubis
 
-.. _nubis: /pages/nubis
-.. _guillermogonzalez: /pages/guillermogonzalez
-.. _leitomonk: /pages/leitomonk
-.. _pabloziliani: /pages/pabloziliani
-.. _alejandrodavidweil: /pages/alejandrodavidweil
-.. _luciotorre: /pages/luciotorre
-.. _etiquetapyar: /pages/etiquetapyar
-.. _colectadehardware: /pages/colectadehardware
+.. _nubis: /nubis
+.. _guillermogonzalez: /guillermogonzalez
+.. _leitomonk: /leitomonk
+.. _pabloziliani: /pabloziliani
+.. _alejandrodavidweil: /alejandrodavidweil
+.. _luciotorre: /luciotorre
+.. _etiquetapyar: /etiquetapyar
+.. _colectadehardware: /colectadehardware

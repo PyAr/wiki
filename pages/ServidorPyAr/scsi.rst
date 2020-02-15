@@ -22,5 +22,5 @@ Carísimos
 
 * http://biz.tigerdirect.com/applications/SearchTools/item-details.asp?EdpNo=424585&CatId=70
 
-.. _pyar: /pages/pyar
-.. _sebastianbassi: /pages/sebastianbassi
+.. _pyar: /pyar
+.. _sebastianbassi: /sebastianbassi

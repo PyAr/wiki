@@ -1056,31 +1056,31 @@ Video Analytics events processing platform
 
 
 
-.. _juanjoconti: /pages/juanjoconti
-.. _diegosarmentero: /pages/diegosarmentero
-.. _marianoreingart: /pages/marianoreingart
-.. _dbapi: /pages/dbapi
-.. _plpython: /pages/plpython
-.. _pythoncard: /pages/pythoncard
-.. _wxpython: /pages/wxpython
-.. _web2py: /pages/web2py
-.. _juanfisanotti: /pages/juanfisanotti
-.. _openoffice: /pages/openoffice
-.. _martingaitan: /pages/martingaitan
-.. _angelfreire: /pages/angelfreire
-.. _juanfisanotti: /pages/juanfisanotti
-.. _nataliabidart: /pages/nataliabidart
-.. _nicoechaniz: /pages/nicoechaniz
-.. _matiasbordese: /pages/matiasbordese
-.. _marcelofernández: /pages/marcelofernandez
-.. _emilianodallaverdemarcozzi: /pages/emilianodallaverdemarcozzi
-.. _manuelquiñones: /pages/manuelquinones
-.. _dropybox: /pages/dropybox
-.. _wifi: /pages/wifi
-.. _manuelkaufmann: /pages/manuelkaufmann
-.. _pyconar: /pages/pyconar
-.. _pablomouzo: /pages/pablomouzo
+.. _juanjoconti: /juanjoconti
+.. _diegosarmentero: /diegosarmentero
+.. _marianoreingart: /marianoreingart
+.. _dbapi: /dbapi
+.. _plpython: /plpython
+.. _pythoncard: /pythoncard
+.. _wxpython: /wxpython
+.. _web2py: /web2py
+.. _juanfisanotti: /juanfisanotti
+.. _openoffice: /openoffice
+.. _martingaitan: /martingaitan
+.. _angelfreire: /angelfreire
+.. _juanfisanotti: /juanfisanotti
+.. _nataliabidart: /nataliabidart
+.. _nicoechaniz: /nicoechaniz
+.. _matiasbordese: /matiasbordese
+.. _marcelofernández: /marcelofernandez
+.. _emilianodallaverdemarcozzi: /emilianodallaverdemarcozzi
+.. _manuelquiñones: /manuelquinones
+.. _dropybox: /dropybox
+.. _wifi: /wifi
+.. _manuelkaufmann: /manuelkaufmann
+.. _pyconar: /pyconar
+.. _pablomouzo: /pablomouzo
 
 
 
-.. _pyar: /pages/pyar
+.. _pyar: /pyar

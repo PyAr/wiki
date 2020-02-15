@@ -128,16 +128,16 @@ I18n Exceptions:
 
 .. _PyDay Rafaela 2010: http://www.pyday.com.ar/rafaela2010
 
-.. _traducción mensajes de excepción: /pages/tracebackinternationalizationproposal
+.. _traducción mensajes de excepción: /tracebackinternationalizationproposal
 
 .. _Doctor Mason: http://www.doctormason.com.ar/
 
-.. _pyday: /pages/pyday
-.. _marianoreingart: /pages/marianoreingart
-.. _albertopaparelli: /pages/albertopaparelli
-.. _joaquinsorianello: /pages/joaquinsorianello
-.. _angelvelasquez: /pages/angelvelasquez
-.. _hugoruscitti: /pages/hugoruscitti
-.. _sebastianbassi: /pages/sebastianbassi
-.. _gabrielgenellina: /pages/gabrielgenellina
-.. _pycon: /pages/pycon
+.. _pyday: /pyday
+.. _marianoreingart: /marianoreingart
+.. _albertopaparelli: /albertopaparelli
+.. _joaquinsorianello: /joaquinsorianello
+.. _angelvelasquez: /angelvelasquez
+.. _hugoruscitti: /hugoruscitti
+.. _sebastianbassi: /sebastianbassi
+.. _gabrielgenellina: /gabrielgenellina
+.. _pycon: /pycon

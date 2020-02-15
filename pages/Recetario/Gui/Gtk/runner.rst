@@ -200,4 +200,4 @@ obviamente en la función esa no pueden correr código relacionado con gtk
 
   CategoryRecetas_
 
-.. _categoryrecetas: /pages/categoryrecetas
+.. _categoryrecetas: /categoryrecetas

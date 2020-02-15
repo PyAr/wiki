@@ -27,4 +27,4 @@ http://code.activestate.com/recipes/138889-extract-email-addresses-from-files/
 .. ############################################################################
 
 
-.. _juanjoconti: /pages/juanjoconti
+.. _juanjoconti: /juanjoconti

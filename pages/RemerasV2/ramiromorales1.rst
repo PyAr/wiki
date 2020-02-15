@@ -6,4 +6,4 @@ Comentarios
 
 * [RamiroMorales_] No me peguen, soy tasteless!...
 
-.. _ramiromorales: /pages/ramiromorales
+.. _ramiromorales: /ramiromorales

@@ -64,5 +64,5 @@ MarianoReingart_
 
   CategoryRecetas_
 
-.. _marianoreingart: /pages/marianoreingart
-.. _categoryrecetas: /pages/categoryrecetas
+.. _marianoreingart: /marianoreingart
+.. _categoryrecetas: /categoryrecetas

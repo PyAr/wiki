@@ -18,11 +18,11 @@ A mediados del 2004, el sitio era gratuito y "ranqueaba" alto en los resultados 
 ¿Cómo participar?
 -----------------
 
-Suscribiéndote a la ListaDeCorreo_, registrándote en el portal, asistiendo a cualquiera de nuetros Eventos_, aportando ideas. También tenemos un canal de IRC. El servidor es ``irc.freenode.net``, y el nombre del canal es ``#pyar``. Podés ingresar vía Web `aquí`_ o `aquí </pages/irc>`__. Si querés colaborar aportando contenido al Wiki, o ayudando en su mantenimiento, también es posible. Por favor, leé ContribuyendoAlWiki_.
+Suscribiéndote a la ListaDeCorreo_, registrándote en el portal, asistiendo a cualquiera de nuetros Eventos_, aportando ideas. También tenemos un canal de IRC. El servidor es ``irc.freenode.net``, y el nombre del canal es ``#pyar``. Podés ingresar vía Web `aquí`_ o `aquí </irc>`__. Si querés colaborar aportando contenido al Wiki, o ayudando en su mantenimiento, también es posible. Por favor, leé ContribuyendoAlWiki_.
 
 .. ############################################################################
 
-.. _listadecorreo: /pages/listadecorreo
+.. _listadecorreo: /listadecorreo
 .. _eventos: http://python.org.ar/eventos
 .. _grupo de Python de Buenos Aires de Meetup: http://python.meetup.com/cities/ar/buenos_aires/
 
@@ -31,7 +31,7 @@ Suscribiéndote a la ListaDeCorreo_, registrándote en el portal, asistiendo a c
 
 .. _aquí: http://webchat.freenode.net/?channels=pyar
 
-.. _contribuyendoalwiki: /pages/contribuyendoalwiki
+.. _contribuyendoalwiki: /contribuyendoalwiki
 
 
-.. _pyar: /pages/pyar
+.. _pyar: /pyar

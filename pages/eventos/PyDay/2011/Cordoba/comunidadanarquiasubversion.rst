@@ -28,4 +28,4 @@ Pensamientos sobre nuestras comunidades, formas de organización en las distinta
 
 .. _PyDay 2011: Eventos/PyDay/2011/Cordoba
 
-.. _categoryvideo: /pages/categoryvideo
+.. _categoryvideo: /categoryvideo

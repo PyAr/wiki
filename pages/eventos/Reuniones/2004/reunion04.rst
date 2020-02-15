@@ -63,4 +63,4 @@ No nos costó mucho encontrar un tema interesante para la próxima serie de spri
 .. _CaFeLUG: http://www.cafelug.org.ar
 
 
-.. _pyar: /pages/pyar
+.. _pyar: /pyar

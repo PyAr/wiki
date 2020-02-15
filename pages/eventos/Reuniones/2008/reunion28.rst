@@ -66,5 +66,5 @@ Hablamos en esta ocasión un rato de emesene, AMSN, libmsn y nos reimos del prot
 
 Salio la idea de un Python-day en la UTN F. R. Córdoba, organizado por integrantes de PyAr_ locales, judaz va a hablar con la gentes de sistemas de la facultad para ver que consigue.
 
-.. _pyar: /pages/pyar
-.. _marianoguerra: /pages/marianoguerra
+.. _pyar: /pyar
+.. _marianoguerra: /marianoguerra

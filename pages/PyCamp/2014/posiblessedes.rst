@@ -178,5 +178,5 @@ A 4 cuadras de la terminal de Villa Giardino, no hay forma de perderse, camino l
 
 .. _el otro lado del PyCamp de EugeniaBahit: https://plus.google.com/u/0/photos/104151223595939241834/albums/5767077860795015489
 
-.. _pycamp: /pages/pycamp
-.. _pyar: /pages/pyar
+.. _pycamp: /pycamp
+.. _pyar: /pyar

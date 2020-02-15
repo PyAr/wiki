@@ -103,5 +103,5 @@ Entonces:
 
 OJO: este mecanismo deshabilita el feature de Django según el cual un modelo no tiene un Manager por defecto cuando tiene cualquier Manager explícito. Se me ocurre que eso puede romper algo en subclases de ``SubclassedModel`` si uno no lo tiene en cuenta.
 
-.. _bar: /pages/ListaDeCorreo/bar
-.. _foo: /pages/foo
+.. _bar: /ListaDeCorreo/bar
+.. _foo: /foo

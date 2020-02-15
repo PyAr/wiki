@@ -114,11 +114,11 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 * PySimpleSOAP_
 
-  * Clases para desarrollar clientes y servidores de servicios web de manera simple y completa, incluyendo soporte para WSDL y manejo de XML. Inspirada extensión SOAP de PHP. Spin-off de `PyAfipWs </pages/Proyectos/RevistaPythonComunidad/PET2/pyafipws>`__, incorporado en web2py. Python3 compatible.
+  * Clases para desarrollar clientes y servidores de servicios web de manera simple y completa, incluyendo soporte para WSDL y manejo de XML. Inspirada extensión SOAP de PHP. Spin-off de `PyAfipWs </Proyectos/RevistaPythonComunidad/PET2/pyafipws>`__, incorporado en web2py. Python3 compatible.
 
 * PyFPDF_
 
-  * Clases para generar documentos PDF de manera simple y extensible, incluyendo soporte para imágenes, fuentes unicode (TTF). Inspirada extensión FPDF de PHP. Usado por `PyAfipWs </pages/Proyectos/RevistaPythonComunidad/PET2/pyafipws>`__ e incorporado a web2py. Python3 compatible (experimental)
+  * Clases para generar documentos PDF de manera simple y extensible, incluyendo soporte para imágenes, fuentes unicode (TTF). Inspirada extensión FPDF de PHP. Usado por `PyAfipWs </Proyectos/RevistaPythonComunidad/PET2/pyafipws>`__ e incorporado a web2py. Python3 compatible (experimental)
 
 * CDPedia_
 
@@ -258,7 +258,7 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 * WeFree_
 
-  * `WeFree </pages/Proyectos/wefree>`__ is a wireless network manager with a collaborative database of passwords for public (but protected) networks.
+  * `WeFree </Proyectos/wefree>`__ is a wireless network manager with a collaborative database of passwords for public (but protected) networks.
 
 * web2conf_
 
@@ -306,11 +306,11 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 
 
-.. _Python for PalmOS: /pages/Proyectos/pythonpalm
+.. _Python for PalmOS: /Proyectos/pythonpalm
 
 .. _SiGeFi: http://sf.net/projects/sigefi
 
-.. _Gestion Integral para Empresas: /pages/Proyectos/geine
+.. _Gestion Integral para Empresas: /Proyectos/geine
 
 
 .. _oveja eléctrica: http://yaco.net/oe/
@@ -446,13 +446,13 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 .. _Pireal: https://centaurialpha.github.io/pireal
 
-.. _Peicel Graphics: http://ge.tt/2LtQT7m2.. _pyar: /pages/pyar
-.. _turbogears: /pages/turbogears
-.. _cdpedia: /pages/Proyectos/cdpedia
-.. _config: /pages/Planeta/config
-.. _pythoncard: /pages/pythoncard
-.. _visualbasic: /pages/visualbasic
-.. _pyday: /pages/pyday
-.. _pycon: /pages/pycon
-.. _pyar: /pages/pyar
-.. _wxpython: /pages/wxpython
+.. _Peicel Graphics: http://ge.tt/2LtQT7m2.. _pyar: /pyar
+.. _turbogears: /turbogears
+.. _cdpedia: /Proyectos/cdpedia
+.. _config: /Planeta/config
+.. _pythoncard: /pythoncard
+.. _visualbasic: /visualbasic
+.. _pyday: /pyday
+.. _pycon: /pycon
+.. _pyar: /pyar
+.. _wxpython: /wxpython

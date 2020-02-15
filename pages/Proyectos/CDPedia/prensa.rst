@@ -67,9 +67,9 @@ Otros:
 
 .. ############################################################################
 
-.. _Versión 0.8: /pages/Projectos/CDPedia/Prensa/release0.8
+.. _Versión 0.8: /Projectos/CDPedia/Prensa/release0.8
 
-.. _Versión 0.7: /pages/Projectos/CDPedia/Prensa/Release0.7
+.. _Versión 0.7: /Projectos/CDPedia/Prensa/Release0.7
 
 .. _Se actualiza la CDPedia: http://www.pagina12.com.ar/diario/cdigital/31-212790-2013-01-29.html
 

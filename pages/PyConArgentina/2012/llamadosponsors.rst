@@ -190,6 +190,6 @@ Documentos:
 
     .. _pybaires@googlegroups.com: mailto:pybaires@googlegroups.com
 
-.. _marianoreingart: /pages/marianoreingart
-.. _emilianodallaverdemarcozzi: /pages/emilianodallaverdemarcozzi
-.. _sebastianbassi: /pages/sebastianbassi
+.. _marianoreingart: /marianoreingart
+.. _emilianodallaverdemarcozzi: /emilianodallaverdemarcozzi
+.. _sebastianbassi: /sebastianbassi

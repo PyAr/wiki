@@ -12,7 +12,7 @@ Domingo 26 de Agosto de 2015 - 22hs
 Lugar
 ~~~~~
 
-La Serranita, Córdoba, en el marco del `PyCamp 2015 </pages/PyCamp/2015>`_
+La Serranita, Córdoba, en el marco del `PyCamp 2015 </PyCamp/2015>`_
 
 
 Minuta
@@ -35,4 +35,4 @@ Se charlon varios temas los principales fueron:
 
   * último día sin tracks: Se planteo la alternativa de no tener tracks de actividades preestablecidas par el último día del pycamp, ya que por lo general ese día ya están todos trabajando en actividades previas. Además muchas personas se tienen que marchar antes, por lo que no se puede realizar un cierre entre todos.
 
-.. _pycamp: /pages/pycamp
+.. _pycamp: /pycamp

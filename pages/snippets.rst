@@ -43,4 +43,4 @@ es recomendable crear los snippets bajo la jerarquia del nombre de usuario de ma
 .. ############################################################################
 
 
-.. _marianoguerra: /pages/marianoguerra
+.. _marianoguerra: /marianoguerra

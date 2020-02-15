@@ -102,13 +102,13 @@ Qué llevar?
 
 .. _acá: http://www.cordobaserrana.com.ar/elbrigadier.htm
 
-.. _Interesados: /pages/PyCamp/2011/interesados
+.. _Interesados: /PyCamp/2011/interesados
 
-.. _Temas propuestos: /pages/PyCamp/2011/temaspropuestos
+.. _Temas propuestos: /PyCamp/2011/temaspropuestos
 
-.. _Proyectos en los que laburamos: /pages/PyCamp/2011/proyectoslaburados
+.. _Proyectos en los que laburamos: /PyCamp/2011/proyectoslaburados
 
-.. _Lista de cosas a llevar: /pages/PyCamp/2011/quellevar
+.. _Lista de cosas a llevar: /PyCamp/2011/quellevar
 
 
 

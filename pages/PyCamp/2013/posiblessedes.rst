@@ -178,7 +178,7 @@ Hostal Colonial Serrano
 
 `[[GoogleMaps(t="h",ll="-31.330344,-64.467092",spn="0.001927,0.001802",z="18")]]`_
 
-**Fotos:** http://ubuntuone.com/album/6j16xRpveO4TMq877TqvJ7 http://hostalcolonialserrano.wordpress.com https://www.facebook.com/hostal.colonialserrano http://www.facebook.com/pages/Hostal-Colonial-Serrano/297545386932938?sk=photos_albums
+**Fotos:** http://ubuntuone.com/album/6j16xRpveO4TMq877TqvJ7 http://hostalcolonialserrano.wordpress.com https://www.facebook.com/hostal.colonialserrano http://www.facebook.com/Hostal-Colonial-Serrano/297545386932938?sk=photos_albums
 
 **Contacto:** nessita
 
@@ -392,7 +392,7 @@ Villa Maristas Mar del Plata
 
 .. ############################################################################
 
-.. _acá: /pages/PyCamp/2013/votos
+.. _acá: /PyCamp/2013/votos
 
 .. _Veronica: http://es.wikipedia.org/wiki/Ver%C3%B3nica_%28Punta_Indio%29
 
@@ -413,5 +413,5 @@ Villa Maristas Mar del Plata
 .. _Mar del Plata: http://es.wikipedia.org/wiki/Mar_del_Plata
 
 .. _Videos: http://villamaristamdp.blogspot.com.ar/2009_07_01_archive.html
-.. _pycamp: /pages/pycamp
-.. _pyar: /pages/pyar
+.. _pycamp: /pycamp
+.. _pyar: /pyar

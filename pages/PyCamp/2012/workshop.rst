@@ -72,7 +72,7 @@ Contacto
 
 .. ############################################################################
 
-.. _acá: /pages/PyCamp/2012
+.. _acá: /PyCamp/2012
 
-.. _pyar: /pages/pyar
-.. _pycamp: /pages/pycamp
+.. _pyar: /pyar
+.. _pycamp: /pycamp

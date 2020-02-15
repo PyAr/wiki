@@ -102,55 +102,55 @@ Saludos, y largaaaaaaaaaaaaaaaaaron!
 
 .. ############################################################################
 
-.. _RemerasV2/CesarRoldan3: /pages/RemerasV2/cesarroldan3
+.. _RemerasV2/CesarRoldan3: /RemerasV2/cesarroldan3
 
-.. _RemerasV2/PreAnotados: /pages/RemerasV2/preanotados
+.. _RemerasV2/PreAnotados: /RemerasV2/preanotados
 
-.. _RemerasV2/SoloUnEjemplo0: /pages/RemerasV2/solounejemplo0
+.. _RemerasV2/SoloUnEjemplo0: /RemerasV2/solounejemplo0
 
-.. _RemerasV2/FacundoBatista1: /pages/RemerasV2/facundobatista1
+.. _RemerasV2/FacundoBatista1: /RemerasV2/facundobatista1
 
-.. _RemerasV2/FacundoBatista2: /pages/RemerasV2/facundobatista2
+.. _RemerasV2/FacundoBatista2: /RemerasV2/facundobatista2
 
-.. _RemerasV2/FacundoBatista3: /pages/RemerasV2/facundobatista3
+.. _RemerasV2/FacundoBatista3: /RemerasV2/facundobatista3
 
-.. _RemerasV2/FacundoBatista4: /pages/RemerasV2/facundobatista4
+.. _RemerasV2/FacundoBatista4: /RemerasV2/facundobatista4
 
-.. _RemerasV2/alecu1: /pages/RemerasV2/alecu1
+.. _RemerasV2/alecu1: /RemerasV2/alecu1
 
-.. _RemerasV2/humitos1: /pages/RemerasV2/humitos1
-
-
-.. _RemerasV2/CesarRoldan1: /pages/RemerasV2/cesarroldan1
-
-.. _RemerasV2/CesarRoldan2: /pages/RemerasV2/cesarroldan2
-
-.. _RemerasV2/FacundoBatista5: /pages/RemerasV2/facundobatista5
+.. _RemerasV2/humitos1: /RemerasV2/humitos1
 
 
-.. _RemerasV2/Nubis1: /pages/RemerasV2/nubis1
+.. _RemerasV2/CesarRoldan1: /RemerasV2/cesarroldan1
 
-.. _RemerasV2/Nubis2: /pages/RemerasV2/nubis2
+.. _RemerasV2/CesarRoldan2: /RemerasV2/cesarroldan2
 
-.. _RemerasV2/RamiroMorales1: /pages/RemerasV2/ramiromorales1
-
-.. _RemerasV2/LauBenech1: /pages/RemerasV2/laubenech1
-
-.. _RemerasV2/LauBenech2: /pages/RemerasV2/laubenech2
-
-.. _RemerasV2/LauBenech3: /pages/RemerasV2/laubenech3
-
-.. _RemerasV2/LauBenech4: /pages/RemerasV2/laubenech4
-
-.. _RemerasV2/HernanBalocco1: /pages/RemerasV2/hernanbalocco1
-
-.. _RemerasV2/LauBenech5: /pages/RemerasV2/laubenech5
-
-.. _RemerasV2/LauBenech6: /pages/RemerasV2/laubenech6
-
-.. _RemerasV2/PabloZiliani1: /pages/RemerasV2/pabloziliani1
-
-.. _RemerasV2/PabloZiliani2: /pages/RemerasV2/pabloziliani2
+.. _RemerasV2/FacundoBatista5: /RemerasV2/facundobatista5
 
 
-.. _pyar: /pages/pyar
+.. _RemerasV2/Nubis1: /RemerasV2/nubis1
+
+.. _RemerasV2/Nubis2: /RemerasV2/nubis2
+
+.. _RemerasV2/RamiroMorales1: /RemerasV2/ramiromorales1
+
+.. _RemerasV2/LauBenech1: /RemerasV2/laubenech1
+
+.. _RemerasV2/LauBenech2: /RemerasV2/laubenech2
+
+.. _RemerasV2/LauBenech3: /RemerasV2/laubenech3
+
+.. _RemerasV2/LauBenech4: /RemerasV2/laubenech4
+
+.. _RemerasV2/HernanBalocco1: /RemerasV2/hernanbalocco1
+
+.. _RemerasV2/LauBenech5: /RemerasV2/laubenech5
+
+.. _RemerasV2/LauBenech6: /RemerasV2/laubenech6
+
+.. _RemerasV2/PabloZiliani1: /RemerasV2/pabloziliani1
+
+.. _RemerasV2/PabloZiliani2: /RemerasV2/pabloziliani2
+
+
+.. _pyar: /pyar

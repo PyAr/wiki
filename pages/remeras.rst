@@ -287,8 +287,8 @@ Alineado a la izquierda, cosa que lo que le siga mas abajo sea el pantalon en s√
 .. role:: strike
    :class: strike
 
-.. _pyar: /pages/pyar
-.. _remerasv2: /pages/remerasv2
-.. _luciotorre: /pages/luciotorre
-.. _marianodraghi: /pages/marianodraghi
-.. _nubis: /pages/nubis
+.. _pyar: /pyar
+.. _remerasv2: /remerasv2
+.. _luciotorre: /luciotorre
+.. _marianodraghi: /marianodraghi
+.. _nubis: /nubis

@@ -67,7 +67,7 @@ Por favor, para comentar adjunten su nombre y dirección de correo obsfuscada pa
 
 * Este es un primer comentario. Usuario:Montoto <montoto lalala hotmail lelele com>
 
-.. _marcosdione: /pages/marcosdione
-.. _marianoguerra: /pages/marianoguerra
-.. _diegosarmentero: /pages/diegosarmentero
-.. _juanfisanotti: /pages/juanfisanotti
+.. _marcosdione: /marcosdione
+.. _marianoguerra: /marianoguerra
+.. _diegosarmentero: /diegosarmentero
+.. _juanfisanotti: /juanfisanotti

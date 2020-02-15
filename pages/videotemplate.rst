@@ -31,4 +31,4 @@ TituloCharla
 .. ############################################################################
 
 
-.. _categoryvideo: /pages/categoryvideo
+.. _categoryvideo: /categoryvideo

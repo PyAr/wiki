@@ -49,7 +49,7 @@ Está disponible en múltiples plataformas, desde una PC con Windows o Linux has
 
 .. _Python Argentina: http://python.org.ar
 
-.. _CDPedia: /pages/Proyectos/cdpedia
+.. _CDPedia: /Proyectos/cdpedia
 
 .. _Wikipedia en castellano: http://es.wikipedia.org
 

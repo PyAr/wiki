@@ -12,7 +12,7 @@ Viernes 25 de Marzo de 2016 - 20hs
 Lugar
 ~~~~~
 
-La Serranita, Córdoba, en el marco del `PyCamp 2016 </pages/PyCamp/2016>`_
+La Serranita, Córdoba, en el marco del `PyCamp 2016 </PyCamp/2016>`_
 
 
 Minuta
@@ -42,4 +42,4 @@ Se charlaron varios temas, los principales fueron:
   * Generar algún tipo de alerta, podría ser por un grupo de Telegram, para anunciar los inicios de los proyectos, comidas, reuniones, juegos... (ya implementado)
 
 
-.. _pycamp: /pages/pycamp
+.. _pycamp: /pycamp

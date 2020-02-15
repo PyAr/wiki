@@ -28,24 +28,24 @@ El tutorial solo tiene la parte organizacional y los detallitos del evento, la p
 
 .. ############################################################################
 
-.. _PyCon: /pages/HGTTP
+.. _PyCon: /HGTTP
 
-.. _Eleccion del equipo: /pages/HGTTP/equipo
+.. _Eleccion del equipo: /HGTTP/equipo
 
-.. _Eleccion del Lugar: /pages/HGTTP/lugar
+.. _Eleccion del Lugar: /HGTTP/lugar
 
-.. _Sponsoring: /pages/HGTTP/sponsoring
+.. _Sponsoring: /HGTTP/sponsoring
 
-.. _Informacion: /pages/HGTTP/informacion
+.. _Informacion: /HGTTP/informacion
 
-.. _Contabilidad: /pages/HGTTP/contabilidad
+.. _Contabilidad: /HGTTP/contabilidad
 
-.. _Disertantes: /pages/HGTTP/disertantes
+.. _Disertantes: /HGTTP/disertantes
 
-.. _Logistica pre evento: /pages/HGTTP/logistica_pre
+.. _Logistica pre evento: /HGTTP/logistica_pre
 
-.. _Logistica durante el evento: /pages/HGTTP/logistica
+.. _Logistica durante el evento: /HGTTP/logistica
 
-.. _Marketing: /pages/HGTTP/marketing
+.. _Marketing: /HGTTP/marketing
 
-.. _logistica: /pages/HGTTP/logistica
+.. _logistica: /HGTTP/logistica

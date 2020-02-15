@@ -35,21 +35,21 @@ Indice
 * Infraestructura_
     Documentación de la infrastructura virtual de PyAr (página web, lista de correos, etc)
 
-.. _eventos: /pages/eventos
-.. _listadecorreo: /pages/listadecorreo
-.. _proyectos: /pages/proyectos
-.. _recursos: /pages/recursos
-.. _charlas: /pages/charlas
-.. _aprendiendopython: /pages/aprendiendopython
-.. _tareaspendientes: /pages/tareaspendientes
-.. _preguntasfrecuentes: /pages/preguntasfrecuentes
-.. _recetario: /pages/recetario
-.. _material: /pages/material
-.. _trabajos: /pages/trabajos
-.. _donaciones: /pages/donaciones
-.. _adoptaunnewbie: /pages/adoptaunnewbie
-.. _scipyar: /pages/scipyar
-.. _ideasparaprogramar: /pages/ideasparaprogramar
-.. _infraestructura: /pages/infraestuctura
+.. _eventos: /eventos
+.. _listadecorreo: /listadecorreo
+.. _proyectos: /proyectos
+.. _recursos: /recursos
+.. _charlas: /charlas
+.. _aprendiendopython: /aprendiendopython
+.. _tareaspendientes: /tareaspendientes
+.. _preguntasfrecuentes: /preguntasfrecuentes
+.. _recetario: /recetario
+.. _material: /material
+.. _trabajos: /trabajos
+.. _donaciones: /donaciones
+.. _adoptaunnewbie: /adoptaunnewbie
+.. _scipyar: /scipyar
+.. _ideasparaprogramar: /ideasparaprogramar
+.. _infraestructura: /infraestuctura
 
-.. _pyar: /pages/pyar
+.. _pyar: /pyar

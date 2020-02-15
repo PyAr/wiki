@@ -27,4 +27,4 @@ Los siguientes son textos que nos ayudarían a hacer una conferencia, en sus dis
 
 .. _Evaluación de las Séptimas Jornadas de Software Libre realizadas en Córdoba.: http://robertoallende.com/es/evaluacion-de-las-7jrsl
 
-.. _pyday: /pages/pyday
+.. _pyday: /pyday

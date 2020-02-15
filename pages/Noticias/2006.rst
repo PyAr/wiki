@@ -152,16 +152,16 @@ Anteriores
 
 .. ############################################################################
 
-.. _Reunión 20: /pages/eventos/Reuniones/2006/reunion20
+.. _Reunión 20: /eventos/Reuniones/2006/reunion20
 
-.. _CaFeCONF 2006: /pages/eventos/Conferencias/cafeconf2006
+.. _CaFeCONF 2006: /eventos/Conferencias/cafeconf2006
 
-.. _Reunión 19: /pages/eventos/Reuniones/2006/reunion19
+.. _Reunión 19: /eventos/Reuniones/2006/reunion19
 
-.. _resultados de la votación: /pages/Bandera/resultados
+.. _resultados de la votación: /Bandera/resultados
 
 .. _ProximaReunion:
-.. _próxima reunión: /pages/eventos/Reuniones/proximareunion
+.. _próxima reunión: /eventos/Reuniones/proximareunion
 
 .. _GMANE: http://gmane.org/
 
@@ -207,21 +207,21 @@ Anteriores
 
 .. _como se organizó: http://www.ceportela.com.ar/como-se-hizo-la-i-jornada-python-en-santa-fe
 
-.. _como se vivió: /pages/eventos/Reuniones/2006/reunion16
+.. _como se vivió: /eventos/Reuniones/2006/reunion16
 
 .. _1ra Jornada de Python Santa Fe: http://www.python-santafe.com.ar/
 
-.. _Wikipedia Offline: /pages/eventos/Sprints/wikipediaoffline1
+.. _Wikipedia Offline: /eventos/Sprints/wikipediaoffline1
 
 .. _resume: http://cvresumewritingservices.org/
 
-.. _lista: /pages/listadecorreo
+.. _lista: /listadecorreo
 
 .. _mensaje: http://mail.python.org/pipermail/python-dev/2006-February/060415.html
 
 .. _PyCon 2006: http://us.pycon.org/TX2006/HomePage
 
-.. _aquí: /pages/eventos/Conferencias/pycon2006
+.. _aquí: /eventos/Conferencias/pycon2006
 
 
 
@@ -245,18 +245,18 @@ Anteriores
 .. role:: strike
    :class: strike
 
-.. _pyar: /pages/pyar
-.. _listadecorreo: /pages/listadecorreo
-.. _alejandrodavidweil: /pages/alejandrodavidweil
-.. _alejandrojcura: /pages/alejandrojcura
-.. _luciotorre: /pages/luciotorre
-.. _marianodraghi: /pages/marianodraghi
-.. _nubis: /pages/nubis
-.. _colectadehardware: /pages/colectadehardware
-.. _etiquetapyar: /pages/etiquetapyar
-.. _remeras: /pages/remeras
-.. _sugerencias: /pages/sugerencias
-.. _recursos: /pages/recursos
+.. _pyar: /pyar
+.. _listadecorreo: /listadecorreo
+.. _alejandrodavidweil: /alejandrodavidweil
+.. _alejandrojcura: /alejandrojcura
+.. _luciotorre: /luciotorre
+.. _marianodraghi: /marianodraghi
+.. _nubis: /nubis
+.. _colectadehardware: /colectadehardware
+.. _etiquetapyar: /etiquetapyar
+.. _remeras: /remeras
+.. _sugerencias: /sugerencias
+.. _recursos: /recursos
 
-.. _Año 2004: /pages/Noticias/2004
-.. _Año 2005: /pages/Noticias/2005
+.. _Año 2004: /Noticias/2004
+.. _Año 2005: /Noticias/2005

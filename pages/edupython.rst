@@ -103,4 +103,4 @@ Talleres de Python
 .. _Tortuga: http://pythoncard.sourceforge.net/samples/turtle.html
 
 
-.. _pythoncard: /pages/pythoncard
+.. _pythoncard: /pythoncard
