@@ -16,12 +16,6 @@ Si estas cerca o tenes alguna relación con una universidad que no tiene el Tuto
 
 [Table not converted]
 
--------------------------
-
- CategoryCategory_
-
-.. ############################################################################
-
 .. _Tutorial de Python en español: http://docs.python.org.ar/tutorial/contenido.html
 
 .. _Ref. 8459: http://biblio.efn.unc.edu.ar/cgi-bin/koha/opac-detail.pl?biblionumber=8459
@@ -33,4 +27,3 @@ Si estas cerca o tenes alguna relación con una universidad que no tiene el Tuto
 .. _DIF-03497, DIF-03498: http://catalogo.info.unlp.edu.ar/cgi-bin/koha/opac-detail.pl?bib=2915
 
 .. _facundobatista: /miembros/facundobatista
-.. _categorycategory: /categorycategory

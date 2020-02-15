@@ -60,12 +60,6 @@ Ver también:
 
 * http://pythonconquerstheuniverse.wordpress.com/2012/02/01/unicode-for-dummies-encoding/
 
--------------------------
-
-
-
-  CategoryRecetas_
-
 .. ############################################################################
 
 .. _Unicode: http://es.wikipedia.org/wiki/Unicode
@@ -74,5 +68,3 @@ Ver también:
 
 
 .. _LA charla de facu de Unicode: http://tools.assembla.com/svn/homedevel/presents/unicode.odp
-
-.. _categoryrecetas: /categoryrecetas

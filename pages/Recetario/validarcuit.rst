@@ -58,11 +58,4 @@ Autor / Autores:
 
 MarianoReingart_
 
--------------------------
-
-
-
-  CategoryRecetas_
-
 .. _marianoreingart: /marianoreingart
-.. _categoryrecetas: /categoryrecetas

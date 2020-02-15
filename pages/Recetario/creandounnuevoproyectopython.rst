@@ -110,12 +110,6 @@ Y ya sabés ...
 
 http://python-distribute.org/pip_distribute.png
 
--------------------------
-
-
-
-  CategoryRecetas_
-
 .. ############################################################################
 
 .. _Virtualenv: http://www.virtualenv.org
@@ -131,5 +125,3 @@ http://python-distribute.org/pip_distribute.png
 .. _virtualenvwrapper.project: http://www.doughellmann.com/projects/virtualenvwrapper.project/
 
 .. _virtualenwrapper.django: http://www.doughellmann.com/projects/virtualenvwrapper.django/
-
-.. _categoryrecetas: /categoryrecetas

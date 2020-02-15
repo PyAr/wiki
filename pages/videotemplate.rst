@@ -24,11 +24,3 @@ TituloCharla
 
 .. Puto el que lee
 
--------------------------
-
- CategoryVideo_
-
-.. ############################################################################
-
-
-.. _categoryvideo: /categoryvideo

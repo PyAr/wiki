@@ -137,12 +137,6 @@ Autor / Autores:
 
 MarianoReingart_
 
--------------------------
-
-
-
-  CategoryRecetas_
-
 .. ############################################################################
 
 .. _COM: http://es.wikipedia.org/wiki/Component_Object_Model
@@ -154,4 +148,3 @@ MarianoReingart_
 
 .. _py2exe: /py2exe
 .. _marianoreingart: /marianoreingart
-.. _categoryrecetas: /categoryrecetas

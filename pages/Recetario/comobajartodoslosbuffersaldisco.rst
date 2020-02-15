@@ -33,10 +33,3 @@ En mi Notebook, obtengo este resultado, si escribo un programa que no invoca a s
    juan@wind:~$ cat /proc/sys/vm/dirty_writeback_centisecs
    1000
 
--------------------------
-
-
-
-  CategoryRecetas_
-
-.. _categoryrecetas: /categoryrecetas

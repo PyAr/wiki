@@ -24,10 +24,6 @@ Si estas cerca o tenes alguna relación con una universidad, empresa o instituci
 
 Para más información, escribe a la ListaDeCorreo_
 
--------------------------
-
- CategoryCategory_
-
 .. ############################################################################
 
 .. _Afiche de PyCon Argentina 2012: http://ar.pycon.org/2012/static/docs/PyConAr2012_Afiche_A3.pdf
@@ -35,4 +31,3 @@ Para más información, escribe a la ListaDeCorreo_
 .. _UnManualEnCadaUniversidad: http://python.org.ar/pyar/Proyectos/UnManualEnCadaUniversidad
 
 .. _listadecorreo: /listadecorreo
-.. _categorycategory: /categorycategory

@@ -27,9 +27,4 @@ Inauguramos la QOTM (Quote of the Meeting, o Cita de la Reunión), una frase que
 
 (por LucioTorre_)
 
--------------------------
-
- CategoryReuniones_
-
 .. _luciotorre: /luciotorre
-.. _categoryreuniones: /categoryreuniones

@@ -37,11 +37,4 @@ Unicode define equivalencias entre caracteres, o secuencias de caracteres, de lo
 
 ¡Gracias a Martin Conte Mac Donell!
 
--------------------------
-
-
-
-  CategoryRecetas_
-
 .. _unicode: /unicode
-.. _categoryrecetas: /categoryrecetas

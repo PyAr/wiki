@@ -13,10 +13,6 @@ Download
 
 * `Paquete Debian v2.0`_
 
--------------------------
-
- CategoryProyectos_
-
 .. ############################################################################
 
 .. _Tweety Finger: http://code.google.com/p/tweety-finger/
@@ -38,5 +34,3 @@ Download
 .. |http://aycu12.webshots.com/image/18851/2002186966181777581_rs.jpg| image:: http://aycu12.webshots.com/image/19691/2003212231363110437_rs.jpg
 
 .. |http://aycu29.webshots.com/image/19708/2005100131074058179_rs.jpg| image:: http://aycu24.webshots.com/image/17383/2005152557233180044_rs.jpg
-
-.. _categoryproyectos: /categoryproyectos

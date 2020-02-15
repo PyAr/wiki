@@ -33,12 +33,6 @@ En la versión 0.3 de psutil el Ejemplo puede quedar como:
         print proc.name, proc.cmdline, proc.pid
 
 
--------------------------
-
-
-
-  CategoryRecetas_
-
 .. ############################################################################
 
 .. _psutil:
@@ -47,5 +41,3 @@ En la versión 0.3 de psutil el Ejemplo puede quedar como:
 .. _Debian: http://packages.debian.org/python-psutil
 
 .. _Ubuntu: http://packages.ubuntu.com/python-psutil
-
-.. _categoryrecetas: /categoryrecetas

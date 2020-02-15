@@ -45,11 +45,4 @@ Servidor XMLRPC dentro de un hilo gtk
     gtk.main()
 
 
--------------------------
-
-
-
-  CategoryRecetas_
-
 .. _dialog: /Recetario/Gui/Gtk/dialog
-.. _categoryrecetas: /categoryrecetas

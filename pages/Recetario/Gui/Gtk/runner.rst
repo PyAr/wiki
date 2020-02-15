@@ -193,11 +193,3 @@ obviamente en la función esa no pueden correr código relacionado con gtk
     if __name__ == '__main__':
         main()
 
-
--------------------------
-
-
-
-  CategoryRecetas_
-
-.. _categoryrecetas: /categoryrecetas

@@ -41,10 +41,3 @@ Detectar y Notificar Dispositivos USB
 
 *Fe de Erratas: seguramente hay una forma mejor de hacerlo, pero esta funciona correctamente.*
 
--------------------------
-
-
-
-  CategoryRecetas_
-
-.. _categoryrecetas: /categoryrecetas

@@ -46,9 +46,4 @@ Aproximadamente a las 21 hs termino la reunión.
 
 Seguro faltó algo, pero esto es lo mas importante me parece (y es lo que tengo anotado 🙂 ).
 
--------------------------
-
- CategoryReuniones_
-
 .. _ramiroalgozino: /ramiroalgozino
-.. _categoryreuniones: /categoryreuniones

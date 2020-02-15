@@ -38,12 +38,6 @@ Fuente
 
 http://code.activestate.com/recipes/138889-extract-email-addresses-from-files/
 
--------------------------
-
-
-
-  CategoryRecetas_
-
 .. ############################################################################
 
 .. _atrapar al asesino: http://xkcd.com/208/
@@ -51,4 +45,3 @@ http://code.activestate.com/recipes/138889-extract-email-addresses-from-files/
 .. _django: http://code.djangoproject.com/browser/django/trunk/django/core/validators.py#L116
 
 .. _juanjoconti: /juanjoconti
-.. _categoryrecetas: /categoryrecetas

@@ -66,10 +66,6 @@ Es importante priorizar la informacion justa, tratando de que los usuarios no se
 
 No nos tenemos que olvidar que python, toma su nombre de Monty Python Flying Circus, somos divertidos, tenemos sentido del humor, no somos una comunidad execivamente formal
 
--------------------------
-
- CategoryPyCamp_
-
 .. ############################################################################
 
 .. _Python Mexico: http://www.python.org.mx
@@ -85,6 +81,3 @@ No nos tenemos que olvidar que python, toma su nombre de Monty Python Flying Cir
 .. _Ninja Ide: http://ninja-ide.org
 
 .. _Planeta Python: http://planeta.python.org.ar
-
-
-.. _categorypycamp: /categorypycamp

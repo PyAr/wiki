@@ -114,10 +114,6 @@ Listado de librerías de ploteo
 
 http://stackoverflow.com/questions/1120542/what-is-the-best-plotting-library-for-python
 
--------------------------
-
- CategoryProyectos_
-
 .. ############################################################################
 
 .. _hilo: http://permalink.gmane.org/gmane.org.user-groups.python.argentina/38828
@@ -165,4 +161,3 @@ http://stackoverflow.com/questions/1120542/what-is-the-best-plotting-library-for
 .. _listadecorreo: /listadecorreo
 .. _danielmoisset: /danielmoisset
 .. _plpython: /plpython
-.. _categoryproyectos: /categoryproyectos

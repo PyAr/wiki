@@ -192,10 +192,6 @@ Torneo Metegol
 
 Los tres primeros de cada zona, más el mejor segundo, pasan a una llave de 4 con eliminación directa (el mejor primero contra el segundo por un lado, los otros dos primeros por el otro). Para ordenar los equipos, lo que vale es: primero, mayor diferencia de gol, segundo, menor goles en contra.
 
--------------------------
-
- CategoryPyCamp_
-
 .. ############################################################################
 
 .. _CDPedia: http://code.google.com/p/cdpedia/
@@ -246,7 +242,6 @@ Los tres primeros de cada zona, más el mejor segundo, pasan a una llave de 4 co
 .. _marianogarcia: /marianogarcia
 .. _hugoruscitti: /hugoruscitti
 .. _robertoallende: /robertoallende
-.. _categorypycamp: /categorypycamp
 .. _tutorial: /tutorial
 .. _pycamp: /pycamp
 .. _facundobatista: /miembros/facundobatista

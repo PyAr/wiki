@@ -39,13 +39,8 @@ Acá hay menos gente, por lo que es mas fácil, de izquierda a derecha: Octavio,
 
 Leonardo y Facundo.
 
--------------------------
-
- CategoryReuniones_
-
 .. _pyar: /pyar
 .. _marianodraghi: /marianodraghi
 .. _luciotorre: /luciotorre
 .. _pabloziliani: /pabloziliani
 .. _facundobatista: /miembros/facundobatista
-.. _categoryreuniones: /categoryreuniones

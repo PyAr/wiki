@@ -89,12 +89,6 @@ Autor / Autores:
 
 MarianoReingart_
 
--------------------------
-
-
-
-  CategoryRecetas_
-
 .. ############################################################################
 
 .. _ctypes: http://docs.python.org/2/library/ctypes.html
@@ -104,4 +98,3 @@ MarianoReingart_
 .. _SYSTEM_BATTERY_STATE: http://msdn.microsoft.com/en-us/library/windows/desktop/aa373212(v=vs.85).aspx
 
 .. _marianoreingart: /marianoreingart
-.. _categoryrecetas: /categoryrecetas

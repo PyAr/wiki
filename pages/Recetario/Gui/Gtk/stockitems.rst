@@ -49,10 +49,3 @@ un screenshot:
         run()
 
 
--------------------------
-
-
-
-  CategoryRecetas_
-
-.. _categoryrecetas: /categoryrecetas

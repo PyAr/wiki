@@ -61,11 +61,3 @@ Si aplicamos el decorador error_handler a una función, cuando lance una excepci
         app = Gui()
         gtk.main()
 
-
--------------------------
-
-
-
-  CategoryRecetas_
-
-.. _categoryrecetas: /categoryrecetas

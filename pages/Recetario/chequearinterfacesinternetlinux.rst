@@ -294,11 +294,3 @@ Ejemplitos de como se usa:
     ttl: 12 chost: 209.85.251.6 rhost: 209.85.195.104 failures: 6 accerts: 6
     Out[20]: True
 
-
--------------------------
-
-
-
-  CategoryRecetas_
-
-.. _categoryrecetas: /categoryrecetas

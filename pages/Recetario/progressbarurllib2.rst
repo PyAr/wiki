@@ -33,11 +33,3 @@ Este es un ejemplito de como descargar algo y a medida que se descarga, mostrar 
         pbar.finish()
         file.close()
 
-
--------------------------
-
-
-
-  CategoryRecetas_
-
-.. _categoryrecetas: /categoryrecetas

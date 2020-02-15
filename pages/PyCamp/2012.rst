@@ -118,10 +118,6 @@ Workshop Pre-PyCamp
 
   Ver Workshop_
 
--------------------------
-
- CategoryPyCamp_
-
 .. ############################################################################
 
 
@@ -157,5 +153,3 @@ Workshop Pre-PyCamp
 
 .. role:: underline
    :class: underline
-
-.. _categorypycamp: /categorypycamp

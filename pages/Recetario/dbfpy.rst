@@ -54,12 +54,6 @@ Autor / Autores:
 
 MarianoReingart_
 
--------------------------
-
-
-
-  CategoryRecetas_
-
 .. ############################################################################
 
 .. _DbfPy: http://dbfpy.sourceforge.net/

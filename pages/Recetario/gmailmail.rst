@@ -187,16 +187,8 @@ Referencias (que recuerdo):
 
 * http://www.peterbe.com/plog/zope-html-emails
 
--------------------------
-
-
-
-  CategoryRecetas_
-
-
 
 .. role:: small
    :class: small
 
 .. _gmailmail: /Recetario/gmailmail
-.. _categoryrecetas: /categoryrecetas

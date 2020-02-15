@@ -68,10 +68,3 @@ Tiene un menú contextual (About/Quit) y con el botón izquierdo abre una ventan
 
 Más info en http://www.learnpygtk.org/pygtktutorial/statusicon.html
 
--------------------------
-
-
-
-  CategoryRecetas_
-
-.. _categoryrecetas: /categoryrecetas

@@ -20,10 +20,3 @@ Si el DNS resuelve podés chequear con socket.gethostbyname('google.com').
    except socket.error:
        print "Connection error"
 
--------------------------
-
-
-
-  CategoryRecetas_
-
-.. _categoryrecetas: /categoryrecetas

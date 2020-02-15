@@ -71,10 +71,6 @@ Luisito (el enano)
 
 SAn estuvo reescribiendo luisito_ basado en una nueva estrategia charlada con Alecu y RAlsina. Alecu le dio una mano gigante para entender mejor dónde convenia pararse dentro de twisted.web.proxy. También se escribieron algunos casos de prueba y Facu B le tiro unos tips a SAn de cómo convenía implementarlos.
 
--------------------------
-
- CategoryPyCamp_
-
 .. ############################################################################
 
 .. _geoarcade: https://launchpad.net/geoarcade
@@ -97,4 +93,3 @@ SAn estuvo reescribiendo luisito_ basado en una nueva estrategia charlada con Al
 .. _emilianodallaverdemarcozzi: /emilianodallaverdemarcozzi
 .. _marcosvanetta: /marcosvanetta
 .. _pycamp: /pycamp
-.. _categorypycamp: /categorypycamp

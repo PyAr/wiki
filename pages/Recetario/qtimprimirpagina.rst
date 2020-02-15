@@ -32,11 +32,3 @@ ejemplo de como imprimir una pagina web a pdf
 
     sys.exit(app.exec_())
 
-
--------------------------
-
-
-
-  CategoryRecetas_
-
-.. _categoryrecetas: /categoryrecetas

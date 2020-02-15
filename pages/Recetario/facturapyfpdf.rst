@@ -298,12 +298,6 @@ Actualización
 
 Mathesis
 
--------------------------
-
-
-
-  CategoryRecetas_
-
 .. ############################################################################
 
 .. _FPDF: http://www.fpdf.org
@@ -311,4 +305,3 @@ Mathesis
 .. _sito del proyecto: http://www.nsis.com.ar/public/wiki/PyFpdf
 
 .. _marianoreingart: /marianoreingart
-.. _categoryrecetas: /categoryrecetas

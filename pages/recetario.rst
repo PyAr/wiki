@@ -385,10 +385,6 @@ Divertidos
 
 `/Fun/MiniSpaceInvaders`_: Un mini space invaders usando caracteres.
 
--------------------------
-
- CategoryRecetas_
-
 .. ############################################################################
 
 .. _Recetario/CreandoUnNuevoProyectoPython: /Recetario/creandounnuevoproyectopython
@@ -433,4 +429,3 @@ Divertidos
 .. _psycospeedup: /psycospeedup
 .. _mapeandomemoria: /mapeandomemoria
 .. _ippublica: /ippublica
-.. _categoryrecetas: /categoryrecetas

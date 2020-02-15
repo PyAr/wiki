@@ -36,12 +36,6 @@ Autor / Autores:
 
 MarianoReingart_
 
--------------------------
-
-
-
-  CategoryRecetas_
-
 .. ############################################################################
 
 .. _Factura Electronica: http://www.nsis.com.ar/public/browser/pyafip/ws/php.py
@@ -49,4 +43,3 @@ MarianoReingart_
 .. _simplexmlelement: /simplexmlelement
 .. _simplesoapclient: /Recetario/simplesoapclient
 .. _marianoreingart: /marianoreingart
-.. _categoryrecetas: /categoryrecetas

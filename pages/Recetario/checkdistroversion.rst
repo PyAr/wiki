@@ -19,14 +19,6 @@ Chequea la versión de la Distribución Linux, y actúa en función de eso. Util
         # Aca va que hacer si la version no es correcta
 
 
--------------------------
-
-
-
-  CategoryRecetas_
-
 .. ############################################################################
 
 .. _platform: http://www.python.org/doc//current/library/platform.html
-
-.. _categoryrecetas: /categoryrecetas

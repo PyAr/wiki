@@ -46,16 +46,9 @@ Para mas información, revisar:
 
 .. image:: /images/Recetario/Histograma/ej_tribu.jpg
 
--------------------------
-
-
-
-  CategoryRecetas_
-
 .. ############################################################################
 
 .. _Matplotlib: http://matplotlib.sourceforge.net/
 
 .. _Documentación de hist: http://matplotlib.sourceforge.net/api/pyplot_api.html?highlight=hist#matplotlib.pyplot.hist
 
-.. _categoryrecetas: /categoryrecetas

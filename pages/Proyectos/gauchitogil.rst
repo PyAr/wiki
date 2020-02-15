@@ -69,10 +69,6 @@ Sobre como tiene que comportarse un sistema de eventos
 
 
 
--------------------------
-
- CategoryProyectos_ `[[Navigation(children)]]`_
-
 .. ############################################################################
 
 .. _Especificación de MM7: http://www.3gpp2.org/Public_html/specs/X.S0016-370_v1.0_022404.pdf
@@ -85,4 +81,3 @@ Sobre como tiene que comportarse un sistema de eventos
 
 .. _Twisted Networks: http://twistedmatrix.com/products/twisted
 
-.. _categoryproyectos: /categoryproyectos
