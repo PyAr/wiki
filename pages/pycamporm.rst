@@ -18,8 +18,6 @@ SqlAlchemy_ es un excelente orm cual nos permite trabajar con bases de datos rel
 
 `[[Video(http://pyar.usla.org.ar/orm001.ogv)]]`_
 
-.. Puto el que lee
-
 .. ############################################################################
 
 

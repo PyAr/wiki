@@ -22,5 +22,3 @@ TituloCharla
 
 .. <<Video(http://pyar.usla.org.ar/path-al-video)>>
 
-.. Puto el que lee
-
