@@ -2,6 +2,10 @@
 GmailMail
 ---------
 
+.. role:: small
+   :class: small
+
+
 Este script permite enviar emails a través de GMail. Los emails pueden tener texto plano, HTML y archivos adjuntos (todos opcionales).
 
 **Nota:** :small:`el script lo escribí originalmente en inglés. Debería entenderse, pero pienso traducirlo cuando tenga algo más de tiempo.`
@@ -187,8 +191,5 @@ Referencias (que recuerdo):
 
 * http://www.peterbe.com/plog/zope-html-emails
 
-
-.. role:: small
-   :class: small
 
 .. _gmailmail: /Recetario/gmailmail
