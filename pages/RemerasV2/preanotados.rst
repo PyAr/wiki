@@ -100,8 +100,6 @@ Códigos para los tamaños: S, M, L, XL y XXL.
     B,48,50,55,60,65
     C,66,70,70,75,80
 
-[Table not converted]
-
 A, B y C corresponde a los siguiente:
 
 .. image:: /images/RemerasV2/PreAnotados/tam-remeras.png

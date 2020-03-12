@@ -12,7 +12,11 @@ Listas de Correo
 
 A estas organizaciones simplemente se las copia en el mail de call for charlas, el formato del mail esta mas abajo
 
-[Table not converted]
+
+.. csv-table::
+    :header: Organizacion,Mail
+
+    PyAr,<<MailTo(pyar AT python DOT org DOT ar)>>
 
 Template Mail Call For Charlas
 ------------------------------
@@ -28,13 +32,11 @@ Si tenes requerimiento de informacion que debe contener la invitacion por favor 
 
 `Template de Call For Charlas Organizacion`_
 
-[Table not converted]
+.. csv-table::
+	:header: Organizacion,Mail,Nombre del Contacto
 
-.. ############################################################################
-
-
-
-
-
+	Ascentio Technologies,<<MailTo(jproyector AT ascentio DOT com DOT ar)>>,Javier Proyector
+	IBM R&D Argentina,<<MailTo(silvergate-team AT wwpdl DOT vnet DOT ibm DOT com)>>,Silvergate Team
+	Intel Argentina,<<MailTo(fernando.l.patrito AT intel DOT com)>>,"Patrito, Fernando L"
 
 .. _pyday: /pyday

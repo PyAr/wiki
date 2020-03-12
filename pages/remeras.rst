@@ -32,13 +32,25 @@ Para aquellos que recién se suman a la iniciativa de las remeras (por lejos, la
 Reservá tu remera (Olvidate, no hay más stock)
 ----------------------------------------------
 
-[Table not converted]
+.. warning::
+
+    La gente que esté anotada en esta lista, tiene prioridad sobre el resto. El stock inicial es de 100 remeras.
+
+.. note::
+
+    La lista se cerró el 01/03/2006. Oportunamente informaremos como adquirir remeras por otra vía, si queda un excedente.
+
+.. note::
+
+    Ya no hay stock (hace rato)
 
 FacundoBatista_ dixit:
 
   *Definiendo tamaños (si se agregan acá los considero con fuerte intención de compra). Hay M, L y XL para elegir (como referencia, para mí, Facu, sería L (dije que era una referencia, no que fuese útil))*
 
-|{i}| Las personas que están tachadas, ya recibieron su remera. El resto, alpiste con la reserva. Las pocas que quedan están todas disponibles para la venta
+.. note::
+
+    Las personas que están tachadas, ya recibieron su remera. El resto, alpiste con la reserva. Las pocas que quedan están todas disponibles para la venta
 
 * :strike:`Facundo Batista: 3 L, 1 M`
 
@@ -111,7 +123,9 @@ PyCon 2006
 Discusión sobre el diseño
 -------------------------
 
-[Table not converted]
+.. warning::
+
+    Al menos para esta primera etapa, el diseño ya está cerrado.
 
 Podemos discutir el diseño de la segunda tanda, pero.... ¿te vas a quedar sin tu primer remera PyAr_?
 

@@ -5,9 +5,10 @@ Bandera para PyAr
 .. role:: underline
    :class: underline
 
-<strong class="highlight">.. raw:: html
+.. note::
+	
+	Cerro la votación de la Bandera. Resultados_
 
-</strong>[Table not converted]
 
 Necesitamos una bandera con el logo de PyAr_, para promocionarnos en charlas y conferencias.
 
@@ -72,4 +73,3 @@ El presupuesto que tenemos por impresion sobre lona es de $60 por metro cuadrado
 
 .. _pyar@decode.com.ar: mailto:pyar@decode.com.ar
 .. _pyar: /pyar
-
