@@ -7,11 +7,16 @@ Programa de las charlas: http://www.cafeconf.org/modules/myconference/program.ph
 Voluntarios para el Stand de PyAr
 ---------------------------------
 
-.. todo::
++----------+-------------------+------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------+
+| LLeva PC | Persona           | Horarios disponibles                                             | Que charlas quiere ver                                                                                   |
++----------+-------------------+------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------+
+| ☑        | alecu             | todo el viernes y sábado, salvo sábado 17 a 18hs                 | La de anna (Viernes 12 a 13hs), la de martelli (Sábado de 15 a 16hs) y la de yaco (Sábado de 16 a 17hs.) |
++----------+-------------------+------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------+
+| ☑        | yaco              | todo el viernes y sábado, salvo sábado 16 a 17hs                 | El viernes la de Anna, el sábado unas cuantas, una detrás de la otra...                                  |
++----------+-------------------+------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------+
+| ☑        | GuillermoGonzalez | parte del viernes (recien puedo llegar para la de anna) y sábado | La de anna (Viernes 12 a 13hs), la de martelli (Sábado de 15 a 16hs) y algunas mas del sabado            |
++----------+-------------------+------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------+
 
-    buscar el source de esta tabla
-
-[Table not converted]
 
 Nota: NubIs_ estaba anotado pero al final no puede.
 

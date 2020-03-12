@@ -7,7 +7,21 @@ Anotarse aquí implica un compromiso tácito de concretar la compra. NO HAY STOC
 Pedidos Remeras V3 (diseño del Zen) PyConAr
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-[Table not converted]
+.. csv-table::
+    :header: Nombre,Cantidad/Talle/Color/corte,Modo de entrega,Observaciones
+
+    Roberto L. Bozzacchi,1 M (hombre) Azul Marino,Contra-Reebolso,<<MailTo(robbie ARROBA metasigno PUNTO com)>>
+    Guido Accardo,1 L (hombre) Negro,Contra-Reebolso,<<MailTo(gaccardo ARROBA gmail PUNTO com)>>
+    Marcelo Martinovic,2 XL (hombre) Negro / Blanco,Contra-Reebolso,<<MailTo(marcelo.martinovic ARROBA gmail PUNTO com)>>
+    Martin Alderete,2 S (hombre) Arena / Gris oscuro,Contra-Reebolso,<<MailTo(malderete ARROBA gmail PUNTO com)>>
+    NahuelDefossé,1 XL (hombre) Negra / 1 Xl (hombre) Azul Marino,Contrareembolso/Envío,<<MailTo(nahuel PUNTO defosse ARROBA gmail PUNTO com)>>
+    RamiroAlgozino,"1 S (hombre) Azul Marino (si no hay azul, cualquier color)",encomienda previo depósito,<<MailTo(algozino ARROBA gmail PUNTO com)>>
+    Martín Cerdeira,1 M (hombre) Azul Marino,Contra-Reebolso,<<MailTo(martincerdeira ARROBA gmail PUNTO com)>>
+    Natalia Villegas,1 M (mujer) Arena,Contra-Reembolso,<<MailTo(villegasnaty ARROBA gmail PUNTO com)>>
+    Claudia Quispe,1 S (mujer) Blanco,Contra-Reembolso,<<MailTo(clauva83 ARROBA gmail PUNTO com)>>
+    Juan Manuel García,1 XL (hombre) Azul Francia,Contra-Reembolso,<<MailTo(jmg.utn ARROBA gmail PUNTO com)>>
+    PabloPetenello,1 XL (hombre) Negra / 1 Xl (hombre) Amarillo,Contrareembolso/Envío,<<MailTo(pablopetenello ARROBA gmail PUNTO com)>>
+    Marco Mansilla,5 XXL (hombre) Negra / Amarillo / Gris Oscuro / Rojo / Gris Claro,Contrareembolso,<<MailTo(big ARROBA esdebian PUNTO org)>>
 
 Pedidos Remeras V3b (Diseño Boa - las remeras celestes del Staff de PyConAr)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -16,7 +30,13 @@ Ver el `/RemerasV2/pabloziliani2`_
 
 Estas remeras las haremos sólo en 2 colores: celestes con impresión azul (como las que usaban l@s colaboradores/as en PyConAr_) y Arena con impresión Marrón. Todos los talles disponibles. **Muy bonitas!**.   El precio es $35 c/u o PROMO 5 x $150 (para que la encomienda te salga casi gratis!)
 
-[Table not converted]
+.. csv-table::
+    :header: Nombre,Cantidad/Talle/Color/corte,Modo de entrega,Observaciones
+
+    Alejandro Pereira,1 XL (hombre) Arena con impresión Marrón,Contra-Reebolso,<<MailTo(alepereira86 EN gmail PUNTO com)>>
+    Natalia Villegas,1 M (mujer) Celeste con impresión azul,Contra-Reembolso,<<MailTo(villegasnaty EN gmail PUNTO com)>>
+    Facundo Casco,1 M (hombre) Celeste con impresión azul,Contra-Reembolso,<<MailTo(fcasco EN gmail PUNTO com)>>
+    Marcelo Martinovic,1 XL (hombre) Celeste con impresión azul,Contra-Reembolso,<<MailTo(marcelo PUNTO martinovic EN gmail PUNTO com)>>
 
 FAQs
 ----
@@ -44,11 +64,26 @@ Es algodón peinado, buena calidad (no se deforma).
 
 Medida corte hombre:
 
-[Table not converted]
+.. csv-table::
+    :header: TALLE,ENTRE SISAS,LARGO
+
+    XS,44cm,66cm.
+    S,50,70
+    M,53,72
+    L,56,74
+    XL,59,76
+    XXL,61,80
+
 
 Medida corte mujer:
 
-[Table not converted]
+.. csv-table::
+    :header: TALLE,ENTRE SISAS,CINTURA,LARGO
+
+    S,44cm.,39cm.,58cm.
+    M,45,40,59
+    L,46,41,60
+    XL,47,42,60
 
 .. ############################################################################
 

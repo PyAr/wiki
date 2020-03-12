@@ -16,13 +16,13 @@ Alejandro J. Cura
 
 Email: ``alecu AT vortech DOT com DOT ar``
 
----
-
 Separados al nacer...
 ~~~~~~~~~~~~~~~~~~~~~
 
-[Table not converted]
 
--------------------------
+.. csv-table::
+
+    http://www.nic.ar/images/logo.gif,http://python.com.ar/images/pyar-logo.png
+
 
 

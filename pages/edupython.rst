@@ -14,7 +14,16 @@ Quiero participar
 Lista de participantes
 ----------------------
 
-[Table not converted]
+.. csv-table::
+    :header: Nombre,Contacto,Ciudad
+
+    Arturo Elias Antón,<<MailTo(arturoeanton EN gmail PUNTO com)>>,Bs.As. Cap Fed
+    Nicolás Pace,<<MailTo(nicopace EN gmail PUNTO com)>>,Bahía Blanca
+    Gabriel Brunacci,gbrunacci ashoba gmail poonto com,Bs.As. Cap Fed
+    Javier Castrillo,<<MailTo(riverplatense EN gmail PUNTO com)>>,Carapachay
+    Matias Gieco,matigro acávaelarroba gmail acávaelpunto com,"Paraná, Entre Ríos"
+    MarianoReingart|Mariano Reingart,<<MailTo(mariano EN nsis PUNTO com PUNTO ar)>>,Bs.As. Hurlingham
+
 
 Lista de tareas
 ---------------

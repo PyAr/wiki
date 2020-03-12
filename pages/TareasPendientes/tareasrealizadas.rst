@@ -4,9 +4,9 @@ Tareas realizadas
 
 Esta es la lista de TareasPendientes_ que ya fueron completadas.
 
+.. note::
 
-
-  [Table not converted]
+    Por favor, antes de modificar esta página, leé las [[#LEEME|recomendaciones]] expresadas al final
 
 Listas de correo
 ----------------

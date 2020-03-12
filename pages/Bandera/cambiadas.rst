@@ -13,9 +13,9 @@ Bandera 2
 
 * Licencia: FDL
 
-.. todo:: ver esto de aca
+.. csv-table::
 
-[Table not converted]
+    http://alecu.com.ar/banderas/bandera2.png
 
 |{*}| El usuario pidio cambiar este diseño por otro de su autoría.
 
