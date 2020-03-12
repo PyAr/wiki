@@ -58,7 +58,17 @@ Listado de voluntarios y tareas
 
 Si querés participar, por favor envía un correo a luciano acavaunpunto campagnolo acavaunarroba gmail acavaunpunto acavalousual o simplemente agréguese al listado. Gracias!
 
-[Table not converted]
+.. csv-table::
+	:header:Nombre,Tareas,Asignadas,Estado
+
+	Tomas Zulberti,rev-es,Asignado,
+	Claudio Canepa,rev-es,Asignado,
+	Douglas Cerna,tr-en rev-es,Asignando,
+	Daniel Moisset,rev-es,Asignado,
+	Ezequiel,tr-en rev-es,Asignando,
+	Jesús Francisco,rev-es,Asignado,
+	Gustavo Campanelli,rev-es,Asignado,
+	Luciano Campagnolo,tr-en rev-es,Asignado,
 
 Comentarios
 ~~~~~~~~~~~

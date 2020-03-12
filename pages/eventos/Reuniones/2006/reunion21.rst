@@ -13,7 +13,18 @@ Pero en general, el balance de La Tribu fue muy positivo.
 Asistentes
 ~~~~~~~~~~
 
-[Table not converted]
+.. csv-table::
+
+    AlejandroJCura|alecu
+    FacundoBatista
+    Guido
+    GuillermoGonzalez
+    HugoRuscitti
+    LeitoMonk
+    LucioTorre
+    MarianoDraghi
+    Rama
+    RobertoRodríguez
 
 Presentamos a los nuevos:
 

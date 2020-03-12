@@ -2,7 +2,14 @@
 Página del articulo Info Python
 ===============================
 
-[Table not converted]
+.. csv-table::
+	:header: Tarea,Check
+
+	Revision ortografica,x
+	Test snipets,x
+	Revision gramatica y logica,x
+	Revision markup reST,
+
 
 Observaciones
 -------------
