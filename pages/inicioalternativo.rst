@@ -8,9 +8,13 @@
 Bienvenido a PyAr - Python Argentina
 ====================================
 
-<strong class="highlight">.. raw:: html
+.. note::
 
-</strong>[Table not converted]
+    Nuestro objetivo es nuclear a los usuarios de [[http://python.org|Python]], de manera de
+    centralizar la comunicación a nivel nacional. Pretendemos llegar a usuarios y empresas, promover el
+    uso de Python, intercambiar información, compartir experiencias y en general, ser el marco de referencia local
+    en el uso y difusión de esta tecnología.
+
 
 `[[Twitter(usuario="planetapyar")]]`_
 

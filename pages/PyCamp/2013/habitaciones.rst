@@ -12,9 +12,27 @@ No hay garantía 100% de que se respete esto a rajatabla, pero lo más probable 
 
 **Con cama matrimonial**
 
-[Table not converted]
+.. csv-table::
+    :header: Nombre1,Nombre2 (que duerme con Nombre1)
+
+    Natalia,Matías
+    LucíaPrado,LucasChiesa
+    ElvioToccalino,Gisele Scacchi
+
 
 **Camas individuales:**
 
-[Table not converted]
+.. csv-table::
+    :header: Persona1,Persona2,Persona3
 
+    DiegoSarmentero,Horacio Duran,Emilio Ramirez
+    EmilianoDallaVerdeMarcozzi,LeandroPoblet,RobertoAlsina
+    JoseMasson,FedericoPeretti,HugoRuscitti
+    RicardoKirkner,FacundoBatista,LucioTorre
+    MarianoVerdu,JuanFisanotti,FranciscoCapdevila
+    LuisThur,EstefaniaRollino,AnahiJofre
+    DiegoMascialino,JoaquinSorianello,alecu
+    ManuelQuiñones,HernanLozano,Filly
+    SantiagoPiccinini,Joaquín de Andres,NicoEchaniz
+    EzequielPochiero,MarcoRedondo,RamiroTrovant
+    TimZenderman,,

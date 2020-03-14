@@ -17,11 +17,57 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
 
 **Confirmados** (voy o voy):
 
-[Table not converted]
+.. csv-table::
+    :header: Nombre,Requerimiento Dietario,Deposito
+
+    Alejandro J. Cura,alimento balanceado,Sí!
+    Anthony Lenton,,Sí
+    Claudio Canepa,lo que venga,si
+    DanielMoisset,,si
+    DavidLitvak,Vegetariano,Si
+    Diego Mascialino,,Sí
+    Diego Sarmentero,,Si
+    EugeniaBahit,comida!!,Si
+    Facundo Batista,,Si
+    GonzaloOdiard,Cualquier cosa,No
+    Guillermo Gonzalez,,No
+    HectorSanchez,Un asadito,Sí
+    HoracioDuran,Un asadito++,Sí
+    Hugo Ruscitti,,Si
+    Javier Mansilla,,Sí
+    JoaquinSorianello|Joac,Comida,Si
+    JuanFisanotti,Todo menos banana (soy alérgico -_-),Si
+    Manuel Kaufmann,,Si
+    Manuel Quiñones,,Sí
+    MarianoReingart,-,No
+    MartinAlbisetti,Lo contrario de lo que coma nessita,Sí!
+    Pablo Mouzo,,Si
+    RicardoKirkner,Omnívoro,Si
+    Roberto Alsina,,Si
+    SantiagoPiccinini,Omnívoro,Sí
+    OttoWald,Omnívoro,Sí
+    hernantz,Omnívoro,Sí
+    ClaudioBidau,Vegetariano,Sí
+    Nicolas Bases,,Sí
+    Daniel Stamm,"Lo que venga, un guiso de lentejas, locro para el frio",No
+    TiN,lu qui venga y asado++,Si
+    Leonardo Vidarte,no diet,Si
+    GabrielPatiño,,Si
+    Alfredo Ramirez,,Si
+    Pablo Diaz Ogni,,Si
+    Nicolás Sarubbi,,Si
+    Martín Gaitán,,Si
+    CarlosBellucci,Vegetariano,Sí
+    GonzaloGarciaBerrotaran,,Sí
+
 
  **Interesados** (tengo ganas pero no estoy seguro):
 
-[Table not converted]
+.. csv-table::
+    :header: Nombre,Cuándo vas a saber?
+
+    Guillermo Gonzalez,1-2 Junio
+    SergioSchvezov,25 Junio
 
 .. ############################################################################
 
