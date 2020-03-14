@@ -158,7 +158,7 @@ Hogar German Frers
 * Tienen dos servicios de internet (3mb con un wisp local, que no se pueden ampliar) y 1 mb con ARNET, que tampoco puede ampliarse. Están por contratar un tercer servicio, ya que colocaron cámaras y piensan dejar una conexion exclusiva para eso.
 
 
-* Adjunto `presupuesto que me enviaron por mail <http://www.python.org.ar/wiki/PyCamp/2017/PosiblesSedes/attachment/53475/2017-03-23%20al%2026%20-%20Evento%20Programadores%20-%20Laureno%20Bara%20_14-12_.pdf>`_
+* Adjunto `presupuesto que me enviaron por mail </PyCamp/2017/PosiblesSedes/attachment/53475/2017-03-23%20al%2026%20-%20Evento%20Programadores%20-%20Laureno%20Bara%20_14-12_.pdf>`_
 
 
 El Colorado - Formosa

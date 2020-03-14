@@ -1,7 +1,7 @@
 ¿Un qué?
 --------
 
-Antes que nada, ¿qué es un PyCamp? `Acá tenés una buena descripción y mucha info <http://www.python.org.ar/wiki/PyCamp/>`_.
+Antes que nada, ¿qué es un PyCamp? `Acá tenés una buena descripción y mucha info </PyCamp/>`_.
 
 
 Fechas:
@@ -108,7 +108,7 @@ Cualquier duda, tema, o lo que quieras preguntar, `mandanos un mail <mailto:pyca
 Proyectos Propuestos:
 ------------------------
 
-Se van cargando aquí `<http://www.python.org.ar/wiki/PyCamp/2018/Actividades>`_
+Se van cargando aquí `</PyCamp/2018/actividades>`_
 
 
 .. IRC y Mirror PyPI:
