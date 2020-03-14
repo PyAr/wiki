@@ -20,9 +20,26 @@ Asistentes:
 
 Por favor, si venís a la reunión, anotate en esta lista: Si sos nuevo, podes poner una **x** en la columna correspondiente.
 
+.. csv-table::
+    :header: Persona,Nuevo,Asistio,No quiere tomar nota,Pero tomó nota igual
 
-
-  [Table not converted]
+    JoaquinSorianello|Joac,,x,x,
+    FelipeLerena|Lipe,,x,,
+    SebastianBassi,,x,,
+    AngelVelasquez,,x,x,
+    LuisMasuelli,,x,,
+    EugeniaBahit|Eugenia,x,x,,x
+    FacundoBatista,,x,,
+    MarianoReingart,,x,,
+    SantiagoPiccinini|SAn,,x,,
+    DiegoMascialino|diegoM,,x,,
+    Julia,,x,,
+    AlejandroJCura|alecu,,x,,
+    RicardoKirkner,,x,,
+    AlejandroDavidWeil|Dave(tenuki),,x,,
+    DavidLitvak,(mas o menos),x,x,
+    RodrigueAlcazar (Python Ireland),,x,,
+    RayentrayTappa,(es mi primera reunion en caba),,x,
 
 Lugar
 -----

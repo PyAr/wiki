@@ -22,9 +22,25 @@ Asistentes:
 
 Por favor, si venís a la reunión, anotate en esta lista:
 
+.. csv-table::
 
-
-  [Table not converted]
+    Facundo Batista,x
+    Pablo Mouzo,x
+    HugoRuscitti,x
+    JoaquinSorianello,x
+    DiegoMascialino,x
+    Tomas Zulberti,
+    SantiagoPiccinini,
+    Tenuki,x
+    HectorSanchez,x
+    alecu,x
+    OSiUX,x
+    Damián,x
+    chaghi,x
+    Pablo Ziliani,x
+    javier kragen,x
+    LeitoMonk,x
+    NicolasPace,x
 
 Lugar
 -----

@@ -16,7 +16,15 @@ Obviamente, tentativo:
 Asistentes
 ~~~~~~~~~~
 
-[Table not converted]
+.. csv-table::
+    :header: Persona
+
+    FacundoBatista
+    Juan Gabardini
+    MarianoReingart
+    Lipe
+    Damián Avila
+    SAn
 
 Fecha y Hora
 ~~~~~~~~~~~~

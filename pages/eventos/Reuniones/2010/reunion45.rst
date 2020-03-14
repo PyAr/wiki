@@ -28,9 +28,28 @@ Asistentes:
 
 Por favor, si venís a la reunión, anotate en esta lista:
 
+.. csv-table::
 
+    Facundo Batista
+    Tomas Zulberti
+    Roberto Alsina
+    alecu
+    Diego Mascialino
+    AlbertoPaparelli
+    HoracioBertorello
+    MarianoReingart
+    AlejandroDavidWeil
+    Marcos Costales (de Ubuntu Asturias)
+    Gustavo Orrillo
+    JoaquinSorianello|Joac
+    Vicente
+    SAn
+    Annoying Noob
+    Marga Manterola
+    dieresys|Manuel Muradás
+    HugoRuscitti
+    PabloZiliani
 
-  [Table not converted]
 
 Lugar
 ~~~~~

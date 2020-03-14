@@ -11,8 +11,20 @@ Reunión 38 - Sábado 7/11 - Rafaela - 20:00 Hs
  **Asistieron:**
 
 
+.. csv-table::
 
-  [Table not converted]
+    ArielRossanigo
+    MarianoReingart
+    JuanFisanotti
+    Gustavo Tell
+    Federico Vincenti
+    Orfi Schleppi
+    FabricioDenardi
+    EmilianoGilli
+    SantiagoBruno
+    LuisVisintini
+    MartinBascolo
+
 
  **Lugar**
 

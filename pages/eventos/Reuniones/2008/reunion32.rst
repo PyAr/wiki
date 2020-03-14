@@ -5,7 +5,19 @@ Reunión 32 - 18/09/08 - Except, Córdoba Capital
 Asistentes
 ----------
 
-[Table not converted]
+.. csv-table::
+
+    DanielMoisset
+    SebastianAlvarez
+    DionisioAlonso
+    EzequielOyarzabal
+    MarcosDione
+    EmanuelSartor
+    SantiagoBruno
+    Nueces
+    MarianoMara
+    RamiroMorales
+    HoracioDuran
 
 Temas Tratados
 --------------

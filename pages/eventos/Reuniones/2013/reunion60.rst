@@ -16,7 +16,16 @@ Temario
 Asistentes
 ~~~~~~~~~~
 
-[Table not converted]
+.. csv-table::
+    :header: Persona,Primera vez
+
+    Juan Pablo Giménez,No?
+    Emiliano Dalla Verde Marcozzi,No?
+    José Rostagno,Si
+    Ezequiel Pochiero,Si
+    Ramiro Trovant,Si
+    Ezequiel Garcia
+
 
 Fecha y Hora
 ~~~~~~~~~~~~

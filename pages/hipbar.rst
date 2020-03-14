@@ -23,11 +23,10 @@ El teléfono es 4342-0234, pero dicen que están con problemas y actualmente ati
 Fotos
 -----
 
-<strong class="highlight">.. raw:: html
+.. image:: /images/HipBar/foto_hip_bar.jpg
 
-</strong>[Table not converted]
+.. image:: /images/HipBar/mapa_hip_bar.gif
 
-.. ############################################################################
 
 
 .. _pyar: /pyar

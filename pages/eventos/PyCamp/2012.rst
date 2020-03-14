@@ -27,7 +27,16 @@ Por una cuestión de costos, formamos dos grupos:
 
 Por favor anotate en la sección que corresponde, nos viene bien para tener un numero de cuantos somos en cada grupo y tratar de conseguir descuentos por ser cantidad.
 
-[Table not converted]
+.. csv-table::
+    :header: Tu nombre o nick,A que grupo?
+
+    gatox,B
+    gaucho,B
+    angvp,B
+    x-ip,B
+    JuanBC,A
+    dlitvak,B
+
 
 Rincon de Timbues - Rosario (opción Cara y Careta)
 --------------------------------------------------

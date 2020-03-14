@@ -5,7 +5,16 @@ Reunión 31 - 06/09/08 - Balcarce Lounge, Rosario
 Asistentes
 ----------
 
-[Table not converted]
+.. csv-table::
+
+    Osvaldo Campilongo,,Rosario
+    Juan Pablo Gimenez,,Rosario
+    Ernesto Savoretti,Sandy,Rosario
+    Santiago Suarez Ordoñez,,Rosario
+    Emiliano,X-IP,Rosario
+    Gustavo Andrés Moreno,,Rosario
+    Manuel Kaufmann,Humitos,Santa Fe
+    Gallina Fabián Ezequiel,,Rosario
 
 Temas tratados
 --------------

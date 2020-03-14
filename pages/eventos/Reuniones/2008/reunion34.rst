@@ -9,11 +9,41 @@ Bienvenidos a todos a la minuta de la reunión número 34 de Pyar! Debajo encont
 
  **Los asistentes en orden de relevamiento y/o llegada:**
 
-[Table not converted]
+
+.. csv-table::
+
+    Mauro NN (aka "LavaLaMano") (1st Time)
+    TomasZulberti
+    SebastianMaceda
+    AlejandroJCura (aka "Alecu")
+    LeitoMonk
+    NubIs
+    RicardoKirkner (aka "Sr. Presidente")
+    MarceloFernández
+    GabrielBrunacci (1st Time)
+    HectorSanchez (aka "Karucha")
+    LucasDevescovi (aka "LucasMetal") <-- It's me!!
+    MarianoReingart
+    MarianoDraghi (aka "cHagHi")
+    GonzaloLarralde (1st Time)
+    RicardoAraoz (1st Time)
+    SebastianBassi
+    AlejandroDavidWeil (aka "Tenuki")
+    ManuelMuradas (aka "Dieresys") (1st Time)
+    PabloZiliani (aka "PabloZ")
+    DiegoMascialino (1st Time)
+    RobertoAlsina
+    FacundoBatista
 
  **Los desertores (los que se anotaron y no aparecieron 😕 ):**
 
-[Table not converted]
+
+.. csv-table::
+
+    EzequielChan
+    RenzoCarbonara (aka "k0001")
+    AlbertoPaparelli
+    NicoEchaniz
 
 ¿Dónde ocurrió el hecho?
 ------------------------

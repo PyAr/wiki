@@ -24,7 +24,24 @@ Temario
 Asistentes
 ~~~~~~~~~~
 
-[Table not converted]
+.. csv-table::
+    :header: Persona,Primera vez
+
+    Facundo Batista,
+    Marcelo Fernández,No
+    José Massón,SI
+    Alberto Paparelli,
+    Juan Pablo Giménez,Sí
+    Matías Lang,Sí
+    alecu,No
+    MarianoReingart,No
+    SAn,
+    Ezequiel Chan,No
+    JoaquinSorianello | Joac,Nones
+    diegoM,
+    Lipe,No
+    Pablo Manera,Si
+    HugoRuscitti,No
 
 Fecha y Hora
 ~~~~~~~~~~~~

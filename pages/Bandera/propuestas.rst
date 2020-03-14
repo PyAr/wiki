@@ -2,17 +2,9 @@
 Banderas propuestas
 ===================
 
-.. todo:: ver esto de aca y en el resto de la pagina
+.. note::
 
-<strong class="highlight">.. raw:: html
-
-</strong>[Table not converted]
-
-<strong class="highlight">.. raw:: html
-
-</strong>[Table not converted]
-
--------------------------
+    Cerro la votación de la Bandera. `Resultados </Bandera/resultados>`__
 
 
 
@@ -26,12 +18,8 @@ Marcos Doerschlag
 Marcos1
 ~~~~~~~
 
-[Table not converted]
-
 * SVG: http://alecu.com.ar/banderas/marcos1.svg
-
--------------------------
-
+* PNG: http://alecu.com.ar/banderas/marcos1.png
 
 
 Héctor Sanchez
@@ -44,12 +32,8 @@ Héctor Sanchez
 Hector1
 ~~~~~~~
 
-[Table not converted]
-
 * SVG: http://alecu.com.ar/banderas/hector1.svg
-
--------------------------
-
+* PNG: http://alecu.com.ar/banderas/hector1.png
 
 
 Azul Peresón
@@ -62,13 +46,13 @@ Azul Peresón
 Azul1
 ~~~~~
 
-[Table not converted]
 
+* PNG: http://alecu.com.ar/banderas/azul1.png
 * SVG: http://alecu.com.ar/banderas/azul1.svg
 
 * Original: http://alecu.com.ar/banderas/azul1.ai
 
--------------------------
+
 
 
 
@@ -82,26 +66,26 @@ Sofía Obarrio
 Sofia1
 ~~~~~~
 
-[Table not converted]
 
 * SVG: http://alecu.com.ar/banderas/sofia1.svg
+* PNG: http://alecu.com.ar/banderas/sofia1.png
 
 * Original: http://alecu.com.ar/banderas/sofia1.ai
 
--------------------------
+
 
 
 
 Sofia2
 ~~~~~~
 
-[Table not converted]
 
 * SVG: http://alecu.com.ar/banderas/sofia2.svg
+* PNG: http://alecu.com.ar/banderas/sofia2.png
 
 * Original: http://alecu.com.ar/banderas/sofia2.ai
 
--------------------------
+
 
 
 
@@ -115,44 +99,36 @@ Facundo Batista
 Facundo1
 --------
 
-[Table not converted]
-
 * SVG: http://alecu.com.ar/banderas/facundo1.svg
-
--------------------------
-
+* PNG: http://alecu.com.ar/banderas/facundo1.png
 
 
 Facundo2
 --------
 
-[Table not converted]
-
 * SVG: http://alecu.com.ar/banderas/facundo2.svg
-
--------------------------
-
+* PNG: http://alecu.com.ar/banderas/facundo2.png
 
 
 Facundo3
 --------
 
-[Table not converted]
 
 * SVG: http://alecu.com.ar/banderas/facundo3.svg
+* PNG: http://alecu.com.ar/banderas/facundo3.png
 
--------------------------
+
 
 
 
 Facundo4
 --------
 
-[Table not converted]
 
 * SVG: http://alecu.com.ar/banderas/facundo4.svg
+* PNG: http://alecu.com.ar/banderas/facundo4.png
 
--------------------------
+
 
 
 
@@ -168,53 +144,56 @@ Timoteo O'Reilly
 Timoteo1
 --------
 
-[Table not converted]
-
 * SVG: http://alecu.com.ar/banderas/timoteo1.svg
+* PNG: http://alecu.com.ar/banderas/timoteo1.png
 
--------------------------
+
 
 
 
 Timoteo2
 --------
 
-[Table not converted]
 
 * SVG: http://alecu.com.ar/banderas/timoteo2.svg
+* PNG: http://alecu.com.ar/banderas/timoteo2.png
 
--------------------------
+
 
 
 
 Timoteo3
 --------
 
-[Table not converted]
 
 * SVG: http://alecu.com.ar/banderas/timoteo3.svg
+* PNG: http://alecu.com.ar/banderas/timoteo3.png
 
--------------------------
+
 
 
 
 Timoteo4
 --------
 
-[Table not converted]
 
 * SVG: http://alecu.com.ar/banderas/timoteo4.svg
+* PNG: http://alecu.com.ar/banderas/timoteo4.png
 
--------------------------
+
 
 
 
 Sergio1
 ~~~~~~~
 
-|{*}| Esta bandera debió ser *descalificada* porque no  cumple con las `reglas del concurso`_. Igual podés verla acá: `Banderas Descalificadas`_
+.. note::
 
--------------------------
+    Esta bandera debió ser *descalificada* porque no  cumple con las `reglas del concurso`_.
+
+Igual podés verla acá: `Banderas Descalificadas`_
+
+
 
 
 
@@ -230,82 +209,79 @@ Pablo Ziliani
 Pablo1
 ~~~~~~
 
-[Table not converted]
 
 * SVG: http://alecu.com.ar/banderas/pablo1.svg
+* PNG: http://alecu.com.ar/banderas/pablo1.png
 
 * Original: http://alecu.com.ar/banderas/pablo1.ai
 
--------------------------
+
 
 
 
 Pablo2
 ~~~~~~
 
-[Table not converted]
-
 * SVG: http://alecu.com.ar/banderas/pablo2.svg
+* PNG: http://alecu.com.ar/banderas/pablo2.png
 
 * Original: http://alecu.com.ar/banderas/pablo2.ai
 
--------------------------
+
 
 
 
 Pablo3
 ~~~~~~
 
-[Table not converted]
 
 * SVG: http://alecu.com.ar/banderas/pablo3.svg
+* PNG: http://alecu.com.ar/banderas/pablo3.png
 
 * Original: http://alecu.com.ar/banderas/pablo3.ai
 
--------------------------
+
 
 
 
 Pablo4
 ~~~~~~
 
-[Table not converted]
 
 * SVG: http://alecu.com.ar/banderas/pablo4.svg
+* PNG: http://alecu.com.ar/banderas/pablo4.png
 
 * Original: http://alecu.com.ar/banderas/pablo4.ai
 
--------------------------
+
 
 
 
 Pablo5
 ~~~~~~
 
-[Table not converted]
 
 * SVG: http://alecu.com.ar/banderas/pablo5.svg
+* PNG: http://alecu.com.ar/banderas/pablo5.png
 
 * Original: http://alecu.com.ar/banderas/pablo5.ai
 
--------------------------
+
 
 
 
 Pablo6
 ~~~~~~
 
-[Table not converted]
 
 * SVG: http://alecu.com.ar/banderas/pablo6.svg
+* PNG: http://alecu.com.ar/banderas/pablo6.png
 
 * Original: http://alecu.com.ar/banderas/pablo6.ai
 
--------------------------
 
 
 
-.. ############################################################################
 
 
 .. _Creative Commons Atribución-NoComercial 2.5 Argentina: http://creativecommons.org/licenses/by-nc/2.5/ar/

@@ -5,7 +5,52 @@ Reunión 30 - Jueves 21/08/2008 - Bar "El Clásico", Buenos Aires
 Asistentes (Record!)
 --------------------
 
-[Table not converted]
+.. csv-table::
+
+    Ramon Franco,,Bs. As.
+    Manuel Kaufmann,Humitos,Sta. Fe
+    Mariano Galán,chino,Sta. Fe
+    Roberto Alsina,,Bs. As
+    Gonzalo Slaboch,,Sta. Fe
+    Carlos Macarse,,Bs. As
+    Juan Pablo Giménez,,Rosario
+    Emiliano Dellaverde Mariezzi,x-ip,Rosario
+    Jason Kirtland,,"Portland, OR (USA)"
+    Tomás Rojas,cocho,Bs. As.
+    Sergio Damián Vernis,,Bs. As.
+    Silvestre Marcelo Huens,Quimera,Córdoba
+    Emanuel Sartor,,Córdoba
+    Héctor Sánchez,Karucha,Bs. As.
+    Tomás Zulberti,,Bs. As.
+    Ricardo Kirkner,Sr. Presidente,Bs. As.
+    Nicolás Echániz,,Bs. As.
+    Lucio Torre,lucio.torre,Bs. As.
+    Mauricio Ferrari,,Córdoba (o Tucumán... :p)
+    Marcelo Fernández,,Bs. As.
+    Emilio César Portela,,Sta. Fe
+    Leonardo De Luca,leorockway,
+    Guillermo González,guillogonzo,Bs. As.
+    Horacio Francisco Sebastián del Sagrado Corazón de Jesus Durán Barrionuevo,Perrito,Córdoba
+    Natalia Beatriz Bidart,nessita,Córdoba
+    Renzo Carbonara,k0001,Bs. As.
+    Christian Bruno,Nubis,Bs. As.
+    Otto Wald,,Bs. As.
+    Ezequiel Guterman,gutes,Bs. As.
+    Daniel Alejandro Mendoza,chiquito,Sta. Fe
+    Alejandro David Weil,Dave,Bs. As.
+    Alejandro J. Cura,alecu,Bs. As.
+    John R. Lenton,Chipaca,Córdoba
+    Javier Mansilla,Javimansilla,Córdoba
+    Daniel F. Moisset,Darni,Córdoba
+    Anthony Lenton,achuni,Córdoba
+    Hernán Sinclair,Pehua,Bs. As.
+    Javier Gallardo,JEG,"Madrid, España (colado!)"
+    Mariano Draghi,cHagHi,Bs. As.
+    Leandro Monk,Leito,Bs. As.
+    Roberto A. Dhios,,
+    Pablo Ziliani,,Bs. As.
+    Martin Albisetti,beuno,Bs. As.
+
 
 Temas tratados
 --------------

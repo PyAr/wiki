@@ -7,7 +7,13 @@ Reunión 46 - 7 de Diciembre - Ciudad de Cordoba, en Alfonsina (Casa Tomada) Bel
 Asistentes:
 -----------
 
-[Table not converted]
+.. csv-table::
+
+    MarianoGarcia
+    CarlosBarroso
+    DiegoSarmentero
+    MarianoGuerra
+
 
 Temario
 -------
