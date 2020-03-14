@@ -6,6 +6,3 @@ Podés revisar los avisos vigentes y publicar el tuyo.
 
 .. _trabajos: http://www.python.org.ar/trabajo/
 
-
-Si de cualquier manera querés ver los avisos que estaban publicados acá, podés revisar
-una `versión anterior <http://python.org.ar/wiki/Trabajos/version/18fb2e0>`_ de la página.

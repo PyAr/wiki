@@ -9,7 +9,7 @@ Entonces, sin mas preámbulos, queda oficialmente abierta la convocatoria o "cal
 
 La propuesta debe hacerse agregando un enlace al final de esta página (dejar el ejemplo) y dar aviso en la lista de correo para que todos estemos al tanto.
 
-Cosas mínimas que debiera cubrir la propuesta (es buena idea revisar propuestas anteriores: `2018 <http://www.python.org.ar/wiki/Eventos/Conferencias/PyConAr2018>`_, `2016 <http://www.python.org.ar/wiki/Eventos/Conferencias/PyConAr2016>`_, `2013 <http://www.python.org.ar/wiki/Eventos/Conferencias/PyConAr2013>`_):
+Cosas mínimas que debiera cubrir la propuesta (es buena idea revisar propuestas anteriores: `2018 </eventos/Conferencias/pyconar2018>`_, `2016 </eventos/Conferencias/pyconar2016>`_, `2013 </eventos/Conferencias/pyconar2013>`_):
 
 - Espacio físico donde se desarrollaría la conferencia (Se necesita mínimamente un auditorio y un aula grande)
 
@@ -27,4 +27,4 @@ Este llamado tiene como fecha límite el día 1° de Noviembre de 2019.
 Propuestas
 ----------
 
-* `Propuesta Ejemplo <http://www.python.org.ar/wiki/Eventos/Conferencias/PyConAr2020/PropuestaEjemplo>`_
+* `Propuesta Ejemplo </eventos/Conferencias/PyConAr2020/propuestaejemplo>`_
