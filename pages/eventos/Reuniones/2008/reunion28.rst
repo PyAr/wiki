@@ -5,7 +5,21 @@ Reunión 28 - 08/05/2008 - Facultad de Ciencias Exactas Físicas y Naturales, su
 Asistentes
 ----------
 
-[Table not converted]
+.. csv-table::
+
+    RayentrayTappa (la_rayis)
+    NataliaBidart (nessita)
+    MarcosDione (StyXman/StucKman)
+    DanielMoisset (Darni)
+    RamiroMorales (cramm)
+    FedericoPeretti (SlackDeb)
+    MarianoMara
+    SebastianAlvarez (judaz)
+    EmilioRamirez (addlez)
+    MarianoGuerra
+    JavierMansilla (javimansilla)
+    AnthonyLenton (achuni)
+    HoracioDuran (perrito)
 
 Temas tratados
 --------------

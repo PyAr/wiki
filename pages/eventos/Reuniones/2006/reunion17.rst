@@ -57,11 +57,23 @@ Tal como se había anunciado en la lista, se decidió resortear el material de P
 
 Los ganadores fueron:
 
-[Table not converted]
+.. csv-table::
+    :header:Pos,Premio,Ganador,Estado
 
-* Los marcados con |(./)| son los que ya retiraron su premio.
+    01,Vaso térmico,<<MailTo(lorena DOT giraldo AT gmail DOT com)>>,*
+    02,Remera !PyCon 2005 XL,<<MailTo(anifeno AT ubbi DOT com)>>,
+    03,Remera !PyCon 2005 XL,<<MailTo(conan AT lugmen DOT org DOT ar)>>,*
+    04,Remera !PyCon 2005 XL,<<MailTo(paburinu DOT san AT gmail DOT com)>>,
+    05,Remera !PyCon 2005 L,<<MailTo(pablot AT gmail DOT com)>>,
+    06,Remera !PyCon 2005 L,<<MailTo(pablodcar AT gmail DOT com)>>,*
+    07,Remera !PyCon 2005 L,<<MailTo(javierder AT gmail DOT com)>>,
+    08,Remera !PyCon 2005 L,<<MailTo(lucas AT lunix DOT com DOT ar)>>,*
+    09,Remera !PyCon 2006 XL,<<MailTo(enriqueaguerre AT gmail DOT com)>>,
+    10,Bolsa !PyCon 2006,<<MailTo(gepatino AT gmail DOT com)>>,-
 
-* Los marcados con |{*}| son los que confirmaron que están enterados que ganaron algo, y está pendiente la entrega.
+* Los marcados con `-` son los que ya retiraron su premio.
+
+* Los marcados con `*` son los que confirmaron que están enterados que ganaron algo, y está pendiente la entrega.
 
 Al igual que la vez pasada, el sorteo se realizó entre la gente que posteó al menos un mensaje a la lista dentro de los 120 días anteriores al sorteo.
 
@@ -119,7 +131,10 @@ Python se entiende
 
 yaco_ estuvo en Perú dando una charla sobre composición musical. Nos comentó que se sorprendió positivamente viendo como gente que no es para nada informática, y que no sabe nada de programación, podía leer el código que el mostraba de vez en cuando para explicar una idea, y entenderlo. Interesante experiencia.
 
-[Table not converted]
+::
+
+    QOTM: Mientras Santiago explicaba su experiencia en Perú... un tal Pablo dijo ''que lástima que no vino Santiago...!''
+
 
 Bandera PyAr
 ~~~~~~~~~~~~

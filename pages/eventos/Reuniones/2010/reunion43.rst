@@ -4,11 +4,25 @@ Reunión 43 - Martes 24 de Agosto - Ciudad de Cordoba, en Alfonsina de Belgrano 
 
 Definimos cuando usando la lista de correo
 
- **Asistentes:**
+**Asistentes:**
 
+.. csv-table::
 
+    Mariano Guerra
+    Alejandro Cura
+    Horacio Duran
+    Natalia Bidart
+    Matias Bordese
+    Invitados interacionales de canonical
+    Martin Gaitan
+    Daniel Moisset
+    Federico Heinz
+    John Lenton
+    Nueces
+    Matias Bellone
+    Emanuel Sartor
+    Silvestre Huens
 
-  [Table not converted]
 
 Si me olvide a alguien anotense
 

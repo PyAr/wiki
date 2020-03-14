@@ -20,9 +20,29 @@ Temario:
 Asistentes:
 -----------
 
+.. csv-table::
+    :header: Persona,Nuevo,Asistió
 
+    AlejandroJCura|alecu,,x
+    MarianoGarcia|Nassty,,x
+    FacundoBatista,,x
+    MatiasBellone|toote,,x
+    gatox|gatox,,x
+    nessita,,x
+    matiasb,,x
+    JuanFisanotti,,x
+    JuanBCabral,,x
+    Sofía Denner,x,x
+    SebastianAlvarez|judaz,,x
+    HoracioDuran|perrito666,,x
+    Hernan Lozano,x,x
+    RobertoAllende,,x
+    DanielMoisset,,x
+    dvalfre,,x
+    gaucho,,x
+    tin,,x
+    kot,,x
 
-  [Table not converted]
 
 (Hay un par que llegaron mas tarde y no anote. agreguense)
 
@@ -33,7 +53,6 @@ Oficinas de Machinalis, Paraguay 70, Córdoba Capital.
 
 `[[GoogleMaps(msid=202347166333688848401.0004b784515ee69c1b84f,msa=0,ll="-31.412073,-64.201849",spn="0.016372,0.033023",iwloc=0004b78851904f1396061,z=16)]]`_
 
-CategoryReuniones_
 
 Minuta
 ------

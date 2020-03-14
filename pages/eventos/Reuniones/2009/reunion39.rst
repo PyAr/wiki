@@ -18,13 +18,38 @@ Reunión 39 - Martes 17/11 - Buenos Aires - 19:00 Hs
 
 * ...
 
- **Asistentes:**  Fuimos 24 en esta oportunidad...
+**Asistentes:**  Fuimos 24 en esta oportunidad...
+
+.. csv-table::
+
+    Facundo Batista
+    Alejandro J. Cura
+    Tomas Zulberti
+    Diego Mascialino
+    Angel Velasquez (primer reunión!)
+    NubIs
+    Karucha
+    MarceloFernández
+    MarianoReingart
+    DiegoCanizares|Diego Cañizares (primer reunión!)
+    GustavoCarmona
+    Lipe
+    Javier Andalia (primer reunión!)
+    Claudio Canepa (primer reunión!)
+    SebastianBassi|Sebastian Bassi
+    dieresys|Manuel Muradás
+    Pablo Mouzo  (primer reunión!)
+    JoaquinSorianello|Joac
+    Claudio Cortés (primer reunión!)
+    Carlos Suarez (primer reunión!)
+    Anthony Lenton
+    Tenuki
+    W. Martin Borgert  (primer reunión!)
+    Brad Crittenden (primer reunión!)
 
 
 
-  [Table not converted]
-
- **Lugar**
+**Lugar**
 
 El Bar de siempre, en Medrano y Guardia Vieja.
 

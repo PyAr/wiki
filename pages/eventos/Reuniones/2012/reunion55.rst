@@ -13,7 +13,15 @@ Temario
 Asistentes
 ~~~~~~~~~~
 
-[Table not converted]
+.. csv-table::
+    :header: Persona,Nuevo,Asistió
+
+    ArielRossanigo,,X
+    CesarRoldan,,X
+    LorenaDiorio,,X
+    GustavoTell,,X
+    JuanFisanotti,,X
+    MarioPozzo,,X
 
 Fecha y Hora
 ~~~~~~~~~~~~

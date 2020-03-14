@@ -8,45 +8,45 @@ Estos son los proyectos encarados *institucionalmente* por PyAr_ en los que pued
 
   * Administrador de colas de mensajes, con soporte para múltiples protocolos: SMTP (mail), SMPP (SMSs o mensajes cortos) y MM7 (MMSs o mensajes multimedia)
 
-.. _GauchitoGil: http://python.org.ar/pyar/Proyectos/GauchitoGil
+.. _GauchitoGil: /Proyectos/gauchitogil
 
 * `Caucho`_
 
   * Avanzadísimo juego de batalla en vehículos multijugador
 
-.. _Caucho: http://python.org.ar/pyar/Proyectos/Caucho
+.. _Caucho: /Proyectos/caucho
 
 
 * `STIM`_
 
   * Juego que presentamos en PyAr_ para la segunda edición de PyWeek
 
-.. _STIM: http://python.org.ar/pyar/Proyectos/STIM
+.. _STIM: /Proyectos/stim
 
 * `AlocadoAlocador`_
 
   * Juego desarrollado para Pygame.draw 2006
 
-.. _AlocadoAlocador: http://python.org.ar/pyar/Proyectos/AlocadoAlocador
+.. _AlocadoAlocador: /Proyectos/alocadoalocador
 
 * `UnManualEnCadaUniversidad`_
 
   * Enviar un manual de Python a cada Universidad Argentina.
 
-.. _UnManualEnCadaUniversidad: http://python.org.ar/pyar/Proyectos/UnManualEnCadaUniversidad
+.. _UnManualEnCadaUniversidad: /Proyectos/unmanualencadauniversidad
 
 
 * `RevistaPythonComunidad`_
 
   * Hacemos una magazine de python entre todos ? ;)
 
-.. _RevistaPythonComunidad: http://python.org.ar/pyar/Proyectos/RevistaPythonComunidad
+.. _RevistaPythonComunidad: /Proyectos/revistapythoncomunidad
 
 * `UsoDePythonEnLaUniversidad`_
 
   * Sistematización de experiencias, herramientas y estrategias para difundir Python en la Universidad
 
-.. _UsoDePythonEnLaUniversidad: http://python.org.ar/pyar/Proyectos/UsoDePythonEnLaUniversidad
+.. _UsoDePythonEnLaUniversidad: /Proyectos/usodepythonenlauniversidad
 
 Github.com
 ----------

@@ -50,7 +50,11 @@ O doble clic sobre el icono del programa.
 
 Es importante decirle que python haga los .pyc, cuando sea preguntado por el instalador.
 
-[Table not converted]
+.. note::
+
+    Aún habiendo hecho lo anterior, puede pasar que cuando se intenta "compilar",aparezca un mensaje que
+    advierte que no se encontró un archivo .pyc, debe buscarse el .py correspondiente. Y ejecutarlo con
+    (Repita la operación con cada modulo en el que aparezca el error)
 
 ::
 

@@ -16,13 +16,32 @@ Reunión 14 - 08/03/2006 - Hip Bar
 
       El sorteo fue lo segundo que hicimos. A la lista de participantes se agregó SergioGomez_ ya que tiene problemas para registrarse y por eso no participó hasta ahora, y también la agregamos a :strike:`Purpura` Burbuja porque tenía una cartera de Debian (Debian, vieja!!).  AlejandroDavidWeil_ puso la notebook, que AlejandroJCura_, LeitoMonk_ y Burbuja (que viene desde Colombia) usaron para hacer el sorteo. Se le asignó un número de índice a cada uno de los que estaba en la lista de inscriptos. Se hizo una lista en python, se  mezcló, y se fue haciendo un ``pop()`` de esa lista randomizada. Hubo tensión al principio porque el primer ganador fue el índice 0... pero al final estaba bien randomizada la lista :). Los items se sortearon de la siguiente forma: Primero todas las remeras PyCon2005_ y PyCon2006_, luego todas las bolsas de PyCon2006_ vacías. Después una bolsa de PyCon2006_ llena con remera incluída, y por último la taza térmica PyCon2006_. La lista de ganadores fue la siguiente
 
-      [Table not converted]
+      .. csv-table::
+        :header:Pythonista,Premio,Estado
 
-      * Los marcados con |(./)| son los que ya retiraron su premio.
+        ArielNardelli,Vaso térmico PyCon2006,
+        MilenaArmada,Bolsa completa PyCon2006,-
+        SebastianBassi,1 bolsa vacia PyCon2006,
+        AlejandroJCura,1 bolsa vacia PyCon2006,-
+        AlfonsoPalomares,1 bolsa vacia PyCon2006,-
+        AlbertoBertogli,1 Remera L PyCon2005,*
+        FacundoEspinas,1 Remera XL PyCon2005,*
+        FernandoRuss,1 Remera L PyCon2005,*
+        LeandroFedericoBachwitz,1 Remera XL PyCon2005,
+        MauroCaceres,1 Remera XL PyCon2005,*
+        PabloBesada,1 Remera XL PyCon2005,
+        AlejandroDavidWeil,1 Remera L PyCon2005,-
+        RobertoAlsina,1 Remera XL PyCon2005,
+        SergioGomez,1 Remera L PyCon2005,-
+        PabloCarballo,1 Remera X PyCon2006,*
 
-      * Los marcados con |{*}| son los que confirmaron que están enterados que ganaron algo, y está pendiente la entrega.
+      * Los marcados con `-` son los que ya retiraron su premio.
 
-    [Table not converted]
+      * Los marcados con `*` son los que confirmaron que están enterados que ganaron algo, y está pendiente la entrega.
+
+      .. note::
+
+            Si ganaste, __tenés una semana__ para reclamar tu premio, lo que sobre, se sortea en la próxima reunión. Si sos del interior y no querés/podés venir a Capital Federal a buscar tu premio, Facundo te lo puede enviar por correo, con la misma modalidad que las compras de las remeras (ver arriba).
 
 * Experiencias de FacundoBatista_ en PyCon 2006
 

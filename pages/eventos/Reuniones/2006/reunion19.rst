@@ -13,7 +13,19 @@ La reunion internacional despues de cafeconf estuvo buenisima, porque vinieron A
 
 Rompimos nuevamente el record de asistencia, asi fue. (segun disposición en la mesa, usen la imaginacion que no tengo scanner)
 
-[Table not converted]
+.. csv-table::
+
+    Roberto Allende,Tabla con Fiambre,None
+    Santiago Peresón (yaco),"Jarra de birra, centro de operaciones federal",Carlos Navarro
+    Mariano Draghi (chaghi),Una Panera,Kaufmann Manuel
+    Carlos G. Alvarez,Un jugo de naranja y una birra,JohnLenton
+    NubIs,Una tabla de quesos que eligio alex,Alex Martelli
+    Alecu,Los condimentos para la tabla de quesos,Anna Ravenscroft
+    Juan Colome (joksnet),<-este es re joven (este es facundo->),FacundoBatista
+    Tenuki,Una jarrota de birra y Unos vinos,LucioTorre
+    Guillermo González,otra panera,PabloZiliani
+    Tom H. Hiplam ?,Tabla con fiambre bis,Matt Dorn
+    None,Ricardo Kirkner,el vacío a la derecha de Ricardo
 
 Fuimos a 'La Casa del queso' (aun no supero la decepción, yo me esperaba algo como esto http://www.thescreamonline.com/strange/strange2-1/index.html). Que manera de haber quesos. Al ser tantos en la reunión, se hablo de todo en distintos grupos, asi que solo voy a poner las perlitas de Alex y Anna que es lo que nos da mas rating.
 

@@ -40,9 +40,11 @@ Deadline presentación de propuestas y equipos : **24 de Julio de 2011**.
 Equipos PyConApp 2011
 ---------------------
 
-[Table not converted]
+.. csv-table::
+    :header: Miembros,Nombre del Equipo,Nombre de la Aplicación
 
-.. ############################################################################
+    agrega nombre y mail de cada miembro del equipo,Aquí el nombre del equipo,Aquí el nombre de la aplicación
+
 
 .. _pyconar2011@gmail.com: mailto:pyconar2011@gmail.com
 

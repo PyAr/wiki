@@ -5,7 +5,13 @@ Reunión 36 - Sábado 02/05/09 - Bar el Cairo, Rosario
 Asitieron
 ---------
 
-[Table not converted]
+.. csv-table::
+
+    SantiagoSuarezO
+    ManuelQuiñones
+    Gallina Fabián Ezequiel
+    Ernesto Savoretti
+
 
 ¿De qué se habló?
 -----------------

@@ -20,7 +20,11 @@ Asistentes
 
 Por favor, si viniste a la reunión, anotate en esta lista:
 
+.. csv-table::
 
-
-  [Table not converted]
+    SantiagoSuarezO
+    Humitos
+    Juan Pablo Giménez
+    Gustavo Andres Morero
+    Fabián Ezequiel Gallina
 

@@ -26,7 +26,15 @@ Temario
 Asistentes
 ~~~~~~~~~~
 
-[Table not converted]
+.. csv-table::
+    :header: Persona,Nuevo,Asistió
+
+    MarianoReingart,,si
+    EmilianoDallaVerdeMarcozzi,,si
+    GabrielGenellina,,
+    FacundoBatista,,
+    RobertoAlsina,,si
+    EzequielChan,,si
 
 Fecha, Hora y Lugar
 ~~~~~~~~~~~~~~~~~~~

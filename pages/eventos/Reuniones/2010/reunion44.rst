@@ -4,11 +4,22 @@ Reunión 44 - Jueves 26 de Agosto - Ciudad de Buenos Aires, en el bar de la esqu
 
 Definimos cuando usando: `encuesta!`_
 
- **Asistentes:** Por favor, si venís a la reunión, anotate en esta lista:
+**Asistentes:** Por favor, si venís a la reunión, anotate en esta lista:
 
+.. csv-table::
 
+    Facundo Batista
+    Pablo Mouzo
+    Diego Mascialino
+    Mariano Reingart
+    Ricardo Kirkner
+    Michel Peterson
+    Leonardo Vidarte
+    Santiago Piccinini
+    Marcelo Fernandez
+    Dave
+    Manuel Muradas
 
-  [Table not converted]
 
 **Minuta**
 

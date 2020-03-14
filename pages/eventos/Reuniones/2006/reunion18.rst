@@ -80,7 +80,18 @@ Sorteo
 
 Tal como fue anunciado, se realizó el sorteo entre los presentes del merchandising que FacundoBatista_ había traído de PyCon 2006. Se trataba de material sorteado ya en 2 oportunidades, y que no fue reclamado (o que el ganador no se puso las pilas para resolver como reunirse con su premio). Este es el resultado:
 
-[Table not converted]
+.. csv-table::
+    :header:Pos,Premio,Ganador
+
+    1,Vaso térmico,AlejandroJCura|alecu
+    2,Remera !PyCon,AlejandroDavidWeil
+    3,Remera !PyCon,LeitoMonk
+    4,Remera !PyCon,GuillermoGonzalez
+    5,Remera !PyCon,Héctor Sánchez
+    6,Remera !PyCon,LucioTorre
+    7,Remera !PyCon,FacundoBatista
+    8,Remera !PyCon,Alejandro José
+
 
 Notas:
 

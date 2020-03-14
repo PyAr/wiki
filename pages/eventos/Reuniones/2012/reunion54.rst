@@ -46,7 +46,19 @@ Temario
 Asistentes
 ~~~~~~~~~~
 
-[Table not converted]
+.. csv-table::
+    :header: Persona,Nuevo,Asistió,Voluntario para PyConAr
+
+    MarianoReingart,,X,X
+    Romina,,X,X
+    AlbertoPaparelli,,X,X
+    AngelVelasquez,,X,X
+    JuanCabral,,X,X
+    Nadia,,X,X
+    SebastianBassi,,X,X
+    Alejandro J. Cura,,X,X
+    Héctor Sanchez,,X,X
+
 
 NOTA: Ser voluntario para PyConAr_ no es obligatorio para asistir a la reunión, ni genera ningún compromiso, simplemente está el casillero para ir organizandonos y tener una idea sobre los asistentes y orden del día.
 

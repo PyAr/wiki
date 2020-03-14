@@ -5,7 +5,32 @@ Reunión 35 - Viernes 13/03/2009 - Buenos Aires - 19:30hs
 Asitieron
 ---------
 
-[Table not converted]
+.. csv-table::
+
+    RobertoRodríguez
+    MarianoReingart
+    AlbertoPaparelli (1º)
+    FacundoBatista
+    GustavoVillada (1º)
+    HugoRuscitti (1º)
+    AndresLopezLuksenberg (1º)
+    JoaquinSorianello(1º)
+    RobertoDhios
+    JohnLenton
+    HectorSanchez
+    FelipeLerena
+    NicolasMiyasato (1º)
+    NestorBalich (1º)
+    AnthonyLenton
+    NicoEchaniz
+    GabrielBrunacci
+    TomasZulberti
+    LeonardoDeLuca
+    JorgeChamorro
+    Nubis
+    Dave
+    alecu
+    LucasLiendro
 
 Para conocerles las caras está `este video`_.
 
