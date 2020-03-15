@@ -43,7 +43,7 @@ PyCamp_ Se comento que hay 33 programadores anotados para ir. Ante la pregunta d
 
 * Es lejos para que las personas se puedan realmente despejado
 
-* Los que los organizan son cordobeses. Antes este comentario, FacundoBastista_ comento que PyAr_ es federal. Hay eventos organizados en Santa Fe, Mendoza y Córdoba.
+* Los que los organizan son cordobeses. Antes este comentario, FacundoBatista_ comento que PyAr_ es federal. Hay eventos organizados en Santa Fe, Mendoza y Córdoba.
 
 Se hizo la pregunta de cómo podían participar en los `diferentes eventos`_ los que no van al PyCamp_ de forma remota. El problema es que el cronograma no se va a hacer hasta que las personas se encuentren en Córdoba, por lo que es difícil discutir el horario de antemano. Se propuso que los temas en las que personas que no fuesen a PyCamp_ fuesen pensadas de antemano. Al final se planteo que los interesados en participar se unan al irc de pyar
 
@@ -115,4 +115,5 @@ Por ultimo, Alecu comento que esto es similar a lo que se esta haciendo en una e
 .. _edupython: /edupython
 .. _pycamp: /pycamp
 .. _pycon: /pycon
+.. _facundobatista: /miembros/facundobatista
 .. _pycamp: /pycamp

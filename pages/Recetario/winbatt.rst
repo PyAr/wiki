@@ -7,18 +7,18 @@ Descripción
 
 Esta receta es un ejemplo de como utilizar funciones nativas de las bibliotecas de Windows desde python (usando ctypes_).
 
-Por ejemplo, en este caso se usa para consultar el estado de la batería (carga en Wh y tiempos estimados, consumo de energía en Watts, etc.) usando la función  CallNtPowerInformation_ de la biblioteca de windows PowrProf_.lib (PowrProf_.dll).  También se ilustra como usar estructuras de C en python para llamar a funciones externas.
+Por ejemplo, en este caso se usa para consultar el estado de la batería (carga en Wh y tiempos estimados, consumo de energía en Watts, etc.) usando la función  CallNtPowerInformation_ de la biblioteca de windows PowrProf.lib (PowrProf.dll).  También se ilustra como usar estructuras de C en python para llamar a funciones externas.
 
 Es necesario tener una versión de Python con ctypes y estar sobre windows.
 
 Ejemplo:
 ::::::::
 
-El ejemplo en Python (winbatt.py) registra un objeto python MiMiniInterpretePython_, exponiendo:
+El ejemplo en Python (winbatt.py) registra un objeto python MiMiniInterpretePython, exponiendo:
 
 * carga la biblioteca ´powrprof.dll´
 
-* define la constante SystemBatteryState_ (InformationLevel_) de POWER_INFORMATION_LEVEL
+* define la constante SystemBatteryState (InformationLevel) de POWER_INFORMATION_LEVEL
 
 * define la estructura SYSTEM_BATTERY_STATE_
 

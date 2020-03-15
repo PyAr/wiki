@@ -41,5 +41,5 @@ La siguiente macro, detecta el tipo de documento (Calc, Writer, Draw, Impress, e
         return msg.execute()
 
 
-Para saber donde guardar estas macros, mira el wiki de Apache OpenOffice_: http://wiki.openoffice.org/wiki/ES/Manuales/GuiaAOO/TemasAvanzados/Macros/Python
+Para saber donde guardar estas macros, mira el wiki de Apache OpenOffice: http://wiki.openoffice.org/wiki/ES/Manuales/GuiaAOO/TemasAvanzados/Macros/Python
 

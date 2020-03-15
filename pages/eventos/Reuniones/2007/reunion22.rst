@@ -23,7 +23,7 @@ Esta vez fuimos 18:
 
 * LeitoMonk_
 
-* DiegoVazquez_
+* DiegoVazquez
 
 * MarianoDraghi_
 
@@ -37,7 +37,7 @@ Esta vez fuimos 18:
 
 * SebastianBassi_
 
-* MatiasTorchinsky_
+* MatiasTorchinsky
 
 * HugoRuscitti_
 

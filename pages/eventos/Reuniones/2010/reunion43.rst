@@ -40,7 +40,7 @@ PyCamp_ de primavera
 
 * el tema se iba a seguir por la lista
 
-Anécdotas de SysAdmins_
+Anécdotas de SysAdmins
 
 * las mil y una noches versión sysadmin
 

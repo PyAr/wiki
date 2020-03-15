@@ -11,7 +11,7 @@ Asistentes
 
 * alecu_
 
-* GuillermoGonzalez_
+* GuillermoGonzalez
 
 * LeitoMonk_
 
@@ -19,9 +19,9 @@ Asistentes
 
 * AlejandroDavidWeil_
 
-* SebastianPagano_
+* SebastianPagano
 
-* MilenaArmada_
+* MilenaArmada
 
 * LucioTorre_
 
@@ -44,7 +44,7 @@ Temario
 
 * Breve exposicion acerca de mis gafas http://www.flickr.com/photos/alecu/128571946/ 😉
 
-    RayBan_ aviator que compro mi viejo en su luna de miel y las uso por 2 decadas, siempre me parecieron re copadas y me las regalo cuando me vine a vivir a bs.as. [Si bien este no llega a ser un "chiste interno", esta bueno elaborar para que no se quede nadie atras, como hablaba mas arriba. igual es RE offtopic]
+    RayBan aviator que compro mi viejo en su luna de miel y las uso por 2 decadas, siempre me parecieron re copadas y me las regalo cuando me vine a vivir a bs.as. [Si bien este no llega a ser un "chiste interno", esta bueno elaborar para que no se quede nadie atras, como hablaba mas arriba. igual es RE offtopic]
 
 * Sorteo de los items que sobraron de la reunión anterior.
 
@@ -54,13 +54,13 @@ Temario
 
     Python Santa Fe se retrazó para el 3 de junio. Aparentemente todos quieren ir con su novia. Pero para el resto (hasta ahora solo yo), LeitoMonk_ puede llegar a conseguir alojamiento en santa fe. Organizamos en la lista. Algo que surgio es una charla medio sorpresiva que le dieron a LucioTorre_ acerca de "python en el mundo real", La idea es hacer un cuestionario acerca de que herramientas se usan, que problemas surgen, que problemas que surgen con otros lenguajes no surgen en python, y bueno. Cualquier ayuda se acepta 🙂 (en la lista)
 
-* PythonDay_ en Mendoza http://www.lugmen.org.ar/eventos/pdd-2006/
+* PythonDay en Mendoza http://www.lugmen.org.ar/eventos/pdd-2006/
 
     No hablamos mucho al respecto pero es la clase de cosas que quisieramos fomentar desde el grupo, si bien la organizacion del pythonDay no tuvo que ver nada con pyar y esta organizado por los chicos del LugMen_. Podriamos contactarlos para ver el material que exponen y que posibilidades habria de hacer pythondays en otros lugares.
 
-* Estado actual del proyecto para traducir la documentación (encabezado por GuillermoGonzalez_)
+* Estado actual del proyecto para traducir la documentación (encabezado por GuillermoGonzalez)
 
-    Al fin un tema en serio!!! Esto fue lo mas destacado de la reunion. Con una serie de scripts GuillermoGonzales_ llego a pasar del formato latex a formato moin la documentacion de python. Algunas paginas tiraron errores pero la mayoria de las cosas estan. Lo vimos funcionando en la notebook de AlejandroDavidWeil_, Quedo MUY BUENO. Ya hay interesados en empezar a traducir. Lo que necesitariamos para no perder la semantica, es agregar manejo de tags bobos a moin. Para hacer esto propusimos un sprint para el 25 de mayo aprovechando el feriado, en la casa de LeitoMonk_. La idea seria hacerlo funcionar para nosotros y despues ver que faltaria para hacerlo una plataforma de traducción para todos. Para montar el moin de traducción y un trac, y anda a saber que mas, tenemos disponible housing en USLA, lo cual estaria buenisimo, pero tenemos que armar una maquina para mandarles. Por eso empezamos nuestra ColectaDeHardware_.
+    Al fin un tema en serio!!! Esto fue lo mas destacado de la reunion. Con una serie de scripts GuillermoGonzales llego a pasar del formato latex a formato moin la documentacion de python. Algunas paginas tiraron errores pero la mayoria de las cosas estan. Lo vimos funcionando en la notebook de AlejandroDavidWeil_, Quedo MUY BUENO. Ya hay interesados en empezar a traducir. Lo que necesitariamos para no perder la semantica, es agregar manejo de tags bobos a moin. Para hacer esto propusimos un sprint para el 25 de mayo aprovechando el feriado, en la casa de LeitoMonk_. La idea seria hacerlo funcionar para nosotros y despues ver que faltaria para hacerlo una plataforma de traducción para todos. Para montar el moin de traducción y un trac, y anda a saber que mas, tenemos disponible housing en USLA, lo cual estaria buenisimo, pero tenemos que armar una maquina para mandarles. Por eso empezamos nuestra ColectaDeHardware_.
 
 Finalizada la reunión quedamos AlejandroDavidWeil_, PabloZiliani_ y yo_ jugando al pool en una mesa clandestina que no cumple las leyes mas basicas, como por ejemplo las de la fisica. Un tal Pablo gano 3/6 partidos pero quizas hubiera sido diferente si no hubieramos usado palos de escoba. Le debo a alguien medio atado de camel y un encendedor que se olvido.
 
@@ -82,3 +82,5 @@ Finalizada la reunión quedamos AlejandroDavidWeil_, PabloZiliani_ y yo_ jugando
 .. _luciotorre: /luciotorre
 .. _etiquetapyar: /etiquetapyar
 .. _colectadehardware: /colectadehardware
+
+.. _lugmen: http://www.lugmen.org.ar

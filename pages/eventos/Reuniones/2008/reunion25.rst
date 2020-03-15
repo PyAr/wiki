@@ -49,7 +49,7 @@ Asistentes
 
 * Javier Mansilla.
 
-Se establece como chiste de la reunión: ClueBat_ == AviBate_ (elemento contundente para golpear a algun elemento de la lista que pregunta de manera poco nética)
+Se establece como chiste de la reunión: ClueBat == AviBate (elemento contundente para golpear a algun elemento de la lista que pregunta de manera poco nética)
 
 Temas tratados
 --------------

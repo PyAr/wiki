@@ -21,7 +21,7 @@ Asistieron
 
 * MatiasGieco_
 
-* `MarceloFernández`_
+* MarceloFernández
 
 * Martin Bascolo
 

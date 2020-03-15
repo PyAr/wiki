@@ -58,7 +58,7 @@ Temas tratados
 
 Tuvimos un nuevo record de asistencia, 23 personas de las cuales 5 fueron nuevos (ver las N en el listado de arriba). Incluso tuvimos un invitado (Eric), que viene del lado de Ruby, y se acercó a la reunión para ver como era esto de tener un grupo humano, una comunidad alrededor del lenguaje, porque no lo encuentra en otros lados.
 
-Hablamos bastante del framework LosCocos_. Riq nos contó que hicieron y por qué. Tenemos cuatro features importantes, a groso modo: Escenas, Transiciones, Efectos, y Acciones para los sprites.
+Hablamos bastante del framework LosCocos. Riq nos contó que hicieron y por qué. Tenemos cuatro features importantes, a groso modo: Escenas, Transiciones, Efectos, y Acciones para los sprites.
 
 Con motivo de que algunos chicos se van al FISL Brazil, surgió el tema de la segunda edición de la remera. Alecu contó como había sido el proceso de selección del diseño para la Bandera, y luego de mucha discusión llegamos a la conclusión de como encarar este proceso.
 

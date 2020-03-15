@@ -30,13 +30,13 @@ Por favor, si venís a la reunión, anotate en esta lista:
 
 * MarianoReingart_
 
-* TomasZulberti_
+* TomasZulberti
 
 * FacundoBatista_
 
 * AlbertoPaparelli_?
 
-* `MarceloFernández`_
+* MarceloFernández
 
 * JoaquinSorianello_ (Se me complico...)
 
@@ -48,9 +48,9 @@ Por favor, si venís a la reunión, anotate en esta lista:
 
 * GabrielGenellina_ (ufa 😕 )
 
-* DiegoMascialino_
+* DiegoMascialino
 
-* FelipeLerena_
+* FelipeLerena
 
 * Roberto Alsina
 

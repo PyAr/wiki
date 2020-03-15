@@ -32,7 +32,7 @@ Como llegamos todos a tiempo o similar hicimos presentación de los presentes, p
 
 * Biblioteca (la_rayis)
 
-* MyPreciousss_ (la_rayis)
+* MyPreciousss (la_rayis)
 
 * Cocos (Darni)
 
@@ -46,17 +46,17 @@ Como llegamos todos a tiempo o similar hicimos presentación de los presentes, p
 
 * Pycassa download (nessita)
 
-* Trieste ( `StyXman/StucKman`_ )
+* Trieste ( StyXman/StucKman )
 
-* Psync  ( `StyXman/StucKman`_ )
+* Psync  ( StyXman/StucKman )
 
-* Kreissy  ( `StyXman/StucKman`_ )
+* Kreissy  ( StyXman/StucKman )
 
-* PyAtame_ (perrito)
+* PyAtame (perrito)
 
-* PyKtalog_ (perrito)
+* PyKtalog (perrito)
 
-* Slackdeb estaba haciendo un clon de DrProject_
+* Slackdeb estaba haciendo un clon de DrProject
 
 **Comida**
 

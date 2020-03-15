@@ -7,7 +7,7 @@ Reunión 19, "La internacional" - 10/11/2006 - La Casa del Queso - A la salida d
 
 `La Casa del Queso`_, Av. Corrientes 3587, entre Billinghurst y Sánchez de Bustamante, Cap. Fed. Estaríamos, en la parte del primer piso.
 
-**¿Cuando?** A la salida de CafeConf_, o sea, de 19:30hs (gmt-3), aproximadamente, en adelante.
+**¿Cuando?** A la salida de CafeConf, o sea, de 19:30hs (gmt-3), aproximadamente, en adelante.
 
 La reunion internacional despues de cafeconf estuvo buenisima, porque vinieron Anna Ravenscroft y Alex Martelli, ademas de que hubo gente de todo PyAr_.
 
@@ -39,7 +39,7 @@ En cuanto a los lenguajes en Google: En google usan muchos lenguajes, siempre in
 
 En cuanto a su trabajo en google: El puesto de Alex en Google es 'Uber Technical Lead' (alto nombre, son grosos en google, hasta tienen tarjetitas con relieve), Basicamente se encarga de organizar a otros lideres y obviamente Codear. Un 75% de su tiempo lo pasa programando. Es muy bueno que estando en un cargo alto se encargue de estar en el campo de batalla, la experiencia que tienen en google, es que un técnico que se hace manager y pierde contacto con el dia a dia, se atrofia como técnico. El sector de alex se encarga de mantener los servidores funcionando correctamente todo el tiempo. Ya sea una conexion caida, un router que funciona mal, un disco que pincha, etc. Para eso hacen parches al kernel para que muestre mas informacion en /proc, y muchos scripts para recopilar esa informacion de cada maquina de los clusters de clusters que tienen. Tratan siempre de contribuir lo mas posible las mejoras que hacen.
 
-Alex en cuanto a base de datos: Si, google usa MySql_, pero el hubiera preferido Postgres, muchas decisiones se tomaron antes de que entre a trabajar ahi.
+Alex en cuanto a base de datos: Si, google usa MySql, pero el hubiera preferido Postgres, muchas decisiones se tomaron antes de que entre a trabajar ahi.
 
 De que habla Anna: Con Anna no pude hablar mucho, pero lo poco que hablamos fue divertidisimo. Actualmente esta trabajando en su tesis acerca de aprendizaje de computadoras, nos conto de un par de anecdotas graciosas, situaciones que se dan cuando estas en una clase de programacion en c++ siendo tan avocadamente pythonista. Por ejemplo, una vez un profesor pregunta 'Como ordenan una lista', a lo que Anna contesta: "List.sort", despues les mostraron distintos algoritmos para ordenar en c++. Pero segun ella, conociendo a Tim Peters, que trabaja hace muchisimo en algoritmos de ordenamiento, para que querria implementar ella su propio algoritmo en vez de usar el de Tim que esta disponible facilmente en python :). Es un claro ejemplo de alguien que aprecia como python te deja preocuparte de hacer lo que tenes que hacer en vez de pelearte con el lenguaje que estas usando.
 

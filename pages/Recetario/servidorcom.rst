@@ -14,7 +14,7 @@ Es necesario instalar `Extensiones Win32`_ (ver Bibliografia_)
 Ejemplo:
 ::::::::
 
-El ejemplo en Python (miservidorcom.py) registra un objeto python MiMiniInterpretePython_, exponiendo:
+El ejemplo en Python (miservidorcom.py) registra un objeto python MiMiniInterpretePython, exponiendo:
 
 * Atributo Version: almacena la versión del interprete
 
@@ -59,7 +59,7 @@ Para poder usarlo desde otros lenguajes, registrar el servidor COM ejecutando de
 
    python miservidorcom.py --register
 
-El siguiente ejemplo en Visual Basic (modulo1.bas) crea el objeto COM ("instanciando" MiMiniInterpretePython_) y muestra el atributo (Version), y luego solicita expresiones para evaluar en python.
+El siguiente ejemplo en Visual Basic (modulo1.bas) crea el objeto COM ("instanciando" MiMiniInterpretePython) y muestra el atributo (Version), y luego solicita expresiones para evaluar en python.
 
 Archivo modulo1.bas:
 
@@ -144,7 +144,7 @@ MarianoReingart_
 .. _Extensiones Win32: http://starship.python.net/crew/mhammond/win32/Downloads.html
 
 .. _Bibliografia: http://oreilly.com/catalog/pythonwin32/chapter/ch12.html
-
+.. _crearejecutablewindows: /Recetario/crearejecutablewindows
 
 .. _py2exe: /py2exe
 .. _marianoreingart: /marianoreingart

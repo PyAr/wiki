@@ -40,5 +40,3 @@ Keyboard Leds Demo
 
 *Disclaimer: el uso o no de SheBang/Declaracion de Encoding queda a criterio del usuario.*
 
--------------------------
-

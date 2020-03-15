@@ -23,7 +23,7 @@ Todo un clásico... un Hola Mundo desde pyUNO
         return msg.execute()
 
 
-Para saber donde guardar esta macro, mira el wiki de Apache OpenOffice_: http://wiki.openoffice.org/wiki/ES/Manuales/GuiaAOO/TemasAvanzados/Macros/Python
+Para saber donde guardar esta macro, mira el wiki de Apache OpenOffice: http://wiki.openoffice.org/wiki/ES/Manuales/GuiaAOO/TemasAvanzados/Macros/Python
 
-Para ejecutar la macro, desde cualquier aplicación de Apache OpenOffice_, menú Herramientas -> Macros -> Ejecutar macros...
+Para ejecutar la macro, desde cualquier aplicación de Apache OpenOffice, menú Herramientas -> Macros -> Ejecutar macros...
 

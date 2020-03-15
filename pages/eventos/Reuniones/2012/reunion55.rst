@@ -40,7 +40,7 @@ Minuta
 
 El tema a tratar en la reunión era ver la posibilidad de realizar un PyDay_ en Rafaela.
 
-Lo primero que se trató fue el tema de la fecha, la cual no tiene que coincidir con otro PyDay_ y debiera estar "alejada" de PyConAr_. La fecha tentativa que a todos nos pareció bien es el sábado 13/10.
+Lo primero que se trató fue el tema de la fecha, la cual no tiene que coincidir con otro PyDay_ y debiera estar "alejada" de PyConAr. La fecha tentativa que a todos nos pareció bien es el sábado 13/10.
 
 Una idea que reflotó de alguna reunión pasada es adicionar algunos cursos al tema del PyDay_. Acordamos que se podrían realizar un par de cursos (Intro a Python y Django) el día viernes.  Se eligen estos temas básicos para enganchar a más chicos a participar. Otra ventaja de hacer estos cursos básicos radica en que proporcionan una mínima base para que aquellos que no tienen ni idea de Python puedan comprender mejor los temas dados en las charlas del día siguiente. Estos cursos los podemos organizar y dictar directamente entre gente de Rafaela sin tener que joder a alguien para que venga de afuera (si alguien quiere venir, bienvenido sea!)
 
