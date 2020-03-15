@@ -22,7 +22,7 @@ Listas de correo
 Sitio
 -----
 
-* Migración del sitio Zope+Plone a MoinMoin_, y reestructuración de contenidos [enero 2006].
+* Migración del sitio Zope+Plone a MoinMoin, y reestructuración de contenidos [enero 2006].
 
 * Registración del dominio www.python.com.ar
 
@@ -85,3 +85,4 @@ Si dudás sobre si algo tiene o no que estar acá, lo mas probable es que **NO**
 .. _eventos: /eventos
 .. _Reunion01: /eventos/Reuniones/reunion01.rst
 .. _Reunion02: /eventos/Reuniones/reunion02.rst
+.. _TareasPendientes: /tareaspendientes

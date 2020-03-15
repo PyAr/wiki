@@ -15,7 +15,7 @@ CDPedia_: Proyecto para tener la información de la Wikipedia en castellano acce
 
 * Guillermo Gonzalez
 
-* SantiagoPiccinini_
+* SantiagoPiccinini
 
 BugDay_: Salimos a la caza de bugs de Python (esto seguro que será sólo medio día o un día como muuucho)
 
@@ -27,9 +27,9 @@ BugDay_: Salimos a la caza de bugs de Python (esto seguro que será sólo medio 
 
 * Lucas Shrewsbury
 
-* TomasZulberti_
+* TomasZulberti
 
-* SantiagoPiccinini_
+* SantiagoPiccinini
 
 Lalita_: Un bot de IRC donde agregar nuevas funcionalidades es muy fácil, sólo se necesita escribir un plugin muy sencillo.
 
@@ -55,7 +55,7 @@ enjuewemela_: Un juego loco donde un montón de gemas tienden a desaparecer extr
 
 * Lucas Shrewsbury
 
-* TomasZulberti_
+* TomasZulberti
 
 YACAM_: una plataforma para integrar utilidades CAM en python
 
@@ -71,7 +71,7 @@ cocos_: libreria de alto nivel para juegos y multimedia.
 
 * Lucas Shrewsbury
 
-* TomasZulberti_
+* TomasZulberti
 
 SIAP Libre (Proyecto simil aplicativo AFIP): Discutir, analizar, planificar, desarrollar y/o mejorar el prototipo SiaPy_ y/o la implementeación del aplicativo PyRECE_ de `factura electrónica`_
 
@@ -85,7 +85,7 @@ MIDI hacking.  Elegir un proyecto que interactúe con algún dispositivo MIDI, d
 
 * RicardoKirkner_
 
-* SantiagoPiccinini_
+* SantiagoPiccinini
 
 Tower defense.  Implementar algún juego de tower defense utilizando cocos2d_.  Discutir opciones, armar un roadmap y implementar hasta donde se pueda.
 
@@ -99,7 +99,7 @@ Tower defense.  Implementar algún juego de tower defense utilizando cocos2d_.  
 
 * AlejandroSantos_
 
-* TomasZulberti_
+* TomasZulberti
 
 Probemos esta librería.  Jugar con esa librería que tenés ganas de usar hace rato y nunca tuviste oportunidad, armar algún pequeño programa que lo use.  Ideas: `Open CV`_, (...)
 
@@ -111,7 +111,7 @@ Probemos esta librería.  Jugar con esa librería que tenés ganas de usar hace 
 
 * LeitoMonk_ (OpenCV - llevo 2 webcams 🙂 )
 
-* SantiagoPiccinini_ (+1 OpenCV)
+* SantiagoPiccinini (+1 OpenCV)
 
 Web2py_: Mejoras o Ajustes a la wiki_ y web2conf_. Traducción de documentación. Armar tutorial y/o aplicación de referencia (para enseñanza, ver proyecto_)
 
@@ -129,7 +129,7 @@ SprintDjango_: El Sábado 6, similar al que tuvo lugar durante el PyCamp '09. Da
 
 * JuanjoConti_
 
-* TomasZulberti_
+* TomasZulberti
 
 * AnthonyLenton_
 
@@ -137,7 +137,7 @@ SprintDjango_: El Sábado 6, similar al que tuvo lugar durante el PyCamp '09. Da
 
 * GonzaloDelgado_
 
-* SantiagoPiccinini_
+* SantiagoPiccinini
 
 (También, en Córdoba nos vamos juntar los que no pudimos ir al PyCamp_ y todos aquellos que se quieran sumar).
 
@@ -159,7 +159,7 @@ Django o web2py en jornadasregionales.org: Implementar pycontech+django o web2co
 
 * MarianoFalcon_
 
-* TomasZulberti_
+* TomasZulberti
 
 * GonzaloDelgado_
 
@@ -191,7 +191,7 @@ Worldst_: El juegost mast grandest del mundost.
 
 * alecu
 
-* TomasZulberti_
+* TomasZulberti
 
 Aplicación para medicos: Armar algo para satisfacer `este hilo`_
 

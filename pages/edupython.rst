@@ -37,7 +37,7 @@ Lista de tareas
 Algunas ideas
 -------------
 
-* `Armar un live-cd para repartir en las charlas/talleres`_
+* Armar un live-cd para repartir en las charlas/talleres
 
 * Armar folletos/panfletos explicando que es Python
 

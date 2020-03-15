@@ -8,7 +8,7 @@ CDPedia_: Proyecto para tener la información de la Wikipedia en castellano acce
 
 * alecu
 
-* DiegoMascialino_
+* DiegoMascialino
 
 * SAn
 
@@ -18,7 +18,7 @@ BugDay_: Salimos a la caza de bugs de Python (esto seguro que será sólo medio 
 
 * Pablo Mouzo
 
-* DiegoMascialino_
+* DiegoMascialino
 
 Hacer algo con Twisted_ (cualquier cosa)
 
@@ -30,7 +30,7 @@ Hacer algo con Twisted_ (cualquier cosa)
 
 * alecu
 
-* DiegoMascialino_: Cambio el cualquier cosa por luisito_. "Proxy for multi server deployments. Used to serve thousands of django projects while keeping memory footprint low.". Se acuerdan de PyCon_ 2010 y cómo hostear *muchos* proyectos de Django en un servidor con RAM finita ?
+* DiegoMascialino: Cambio el cualquier cosa por luisito_. "Proxy for multi server deployments. Used to serve thousands of django projects while keeping memory footprint low.". Se acuerdan de PyCon_ 2010 y cómo hostear *muchos* proyectos de Django en un servidor con RAM finita ?
 
 * SAn
 
@@ -72,11 +72,11 @@ Ver como se puede internacionalizar `pilas!`_
 
 * alecu
 
-* DiegoMascialino_
+* DiegoMascialino
 
 * HugoRuscitti_
 
-* MartinGaitan_
+* MartinGaitan
 
 Terminar la `vista de grafo del wiki`_
 
@@ -88,9 +88,9 @@ Escribir un generador de estadisticas de la lista de pyar. Partir de lo que hizo
 
 * alecu
 
-* DiegoMascialino_
+* DiegoMascialino
 
-* MartinGaitan_
+* MartinGaitan
 
 Multitouch - llevo una idea para hacer un juego multitouch, que puede ser también multijugador cooperativo, y llevo una tabletita configurada para transmitir multitouch por bluetooth. Si tenés un android, instalate RemoteDroid_
 
@@ -116,7 +116,7 @@ Mejorar el motor de juegos pilas_, agregando soporte de redes (con twisted?), ha
 
 * HugoRuscitti_
 
-* MartinGaitan_
+* MartinGaitan
 
 Continuar ZODBBrowser: un browser de zodb hecho en zope2. Ver video_.
 

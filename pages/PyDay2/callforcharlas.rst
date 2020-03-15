@@ -19,7 +19,7 @@ Las mismas deben contener:
 
 Un autor podrá enviar más de una propuesta de charla.
 
-El formato de envío: Como archivo adjunto en algún formato libre (OpenOffice_, HTML, PDF ó texto plano) y su licencia debe ser tal que nos permita su libre distribución en CD o sitio web.
+El formato de envío: Como archivo adjunto en algún formato libre (OpenOffice, HTML, PDF ó texto plano) y su licencia debe ser tal que nos permita su libre distribución en CD o sitio web.
 
 La fecha límite de entrega es el sábado 25 de Octubre de 2008. Enviar las mismas a la dirección antes mencionada.
 

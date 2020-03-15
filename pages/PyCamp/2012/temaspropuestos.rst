@@ -91,9 +91,9 @@ Interesados
 ...........
 
 
-* RobertoAlsina_
+* RobertoAlsina
 
-* Apokalyptica79_
+* Apokalyptica79
 
 * ccanepa
 
@@ -107,9 +107,9 @@ Armar el esquema de hosting masivo más liviano del mundo. Usar Nikola, que gene
 Interesados
 ...........
 
-* RobertoAlsina_
+* RobertoAlsina
 
-* Apokalyptica79_
+* Apokalyptica79
 
 * dlitvak_
 
@@ -135,11 +135,11 @@ Interesados
 
 * Joac_
 
-* DiegoMascialino_
+* DiegoMascialino
 
 * DiegoSarmentero_
 
-* Apokalyptica79_
+* Apokalyptica79
 
 MOVE: Un nuevo concepto de framework web
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -153,7 +153,7 @@ Interesados
 
 * HugoRuscitti_
 
-* DiegoMascialino_
+* DiegoMascialino
 
 * Joac_
 
@@ -169,7 +169,7 @@ Interesados
 
 * MarianoVerdu_
 
-* RobertoAlsina_
+* RobertoAlsina
 
 * ccanepa
 
@@ -187,7 +187,7 @@ Interesados
 
 * JuanFisanotti_
 
-* DiegoMascialino_
+* DiegoMascialino
 
 Pilas-engine y python sobre HTML5
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -217,11 +217,11 @@ Interesados
 
 * Joac_
 
-* DiegoMascialino_
+* DiegoMascialino
 
 * dlitvak_
 
-* RobertoAlsina_
+* RobertoAlsina
 
 * pindonga_
 
@@ -243,7 +243,7 @@ Interesados
 
 * Joac_
 
-* DiegoMascialino_
+* DiegoMascialino
 
 * dlitvak_
 
@@ -265,7 +265,7 @@ Interesados
 
 * dlitvak_
 
-* RobertoAlsina_
+* RobertoAlsina
 
 * DiegoSarmentero_
 
@@ -287,7 +287,7 @@ Interesados
 
 * FacundoBatista_
 
-* Apokalyptica79_
+* Apokalyptica79
 
 * Leonardo Vidarte
 
@@ -319,13 +319,13 @@ Interesados
 
 * FacundoBatista_
 
-* RobertoAlsina_
+* RobertoAlsina
 
 * DiegoSarmentero_
 
 * JuanFisanotti_
 
-* Apokalyptica79_
+* Apokalyptica79
 
 * pindonga_
 
@@ -423,15 +423,15 @@ Juegos de Mesa (quien lo lleva):
 
 * 7 wonders [ achuni_ ]
 
-* Catan [JaviMansilla_]
+* Catan [JaviMansilla]
 
-* Agricola [JaviMansilla_]
+* Agricola [JaviMansilla]
 
 * Go [MarianoVerdu_](Alguien tiene para llevar?)
 
-* Cartas de truco Apokalyptica79_
+* Cartas de truco Apokalyptica79
 
-* Cartas de uno Apokalyptica79_
+* Cartas de uno Apokalyptica79
 
 Torneo Metegol o Ping Pong
 --------------------------
@@ -445,7 +445,7 @@ Interesados
 
 * FacundoBatista_
 
-* Apokalyptica79_ --> no vale ganarme :$
+* Apokalyptica79 --> no vale ganarme :$
 
 * DiegoSarmentero_ (Ping Pong)
 

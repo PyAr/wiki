@@ -13,7 +13,7 @@ En el Banco Provincia de Bs As ademas de los datos en el mail me pedian el cuit-
 
 Es posible asistir por menos dias, a razon de $150 por dia.
 
-Para estimar mejor la cantidad de asistentes, por favor anótense en esta página todos los que tengan intención de participar en esta edición del `PyCamp/2012`_, y si estamos por debajo de la cantidad minima para reservar traten de depositar.
+Para estimar mejor la cantidad de asistentes, por favor anótense en esta página todos los que tengan intención de participar en esta edición del `PyCamp 2012`_, y si estamos por debajo de la cantidad minima para reservar traten de depositar.
 
 **Confirmados** (voy o voy):
 
@@ -74,3 +74,4 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
 .. _Joac: JoaquinSorianello
 
 .. _pycamp: /pycamp
+.. _pycamp 2012: /pycamp/2012

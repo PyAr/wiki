@@ -239,7 +239,7 @@ Por el formulario web ser registraron las siguientes preguntas / comentarios:
 
 *Creo que es arriesgado formalizar una sociedad civil en este momento si no se integra en el core de la comunidad a gente con un background diverso o que no este vinculado simplemente por un lazo de amistad... . Simplemente por una cuestion de volumen y porque en una asoc. civil eso ya no es asi, ahora hay derechos y responsabilidades ante terceros y ante el Estado.*
 
-**Respuesta:** Si, esto también se tuvo en cuenta desde el principio (quizás de manera implícita al armar la ONG). Ver `Deberes y Responsabilidades de las Autoridades de la Asociación Civil`_. La idea de contratar profesionales específicos (contadores, abogados, gestores, etc.) también iría en este sentido, para tener apoyo capacitado en esas áreas y minimizar los riesgos, disminuyendo también el trabajo necesario.
+**Respuesta:** Si, esto también se tuvo en cuenta desde el principio (quizás de manera implícita al armar la ONG). Ver Deberes y Responsabilidades de las Autoridades de la Asociación Civil. La idea de contratar profesionales específicos (contadores, abogados, gestores, etc.) también iría en este sentido, para tener apoyo capacitado en esas áreas y minimizar los riesgos, disminuyendo también el trabajo necesario.
 
 **NOTA**: Se revisaron y adaptaron partes de otros estatutos (como SOLAR, Wikimedia Argentina, Gleducar, SADIO, entre otros), para tratar de clarificar/balancear las responsabilidades, agregar controles cruzados y contemplar casos excepcionales. También se contemplaron categorías de socios más abiertas / amplias (basadas en la PSF) para que todos tengan la posibilidad de participar, siempre dentro del marco legal Argentino.
 

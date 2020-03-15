@@ -38,7 +38,7 @@ http://www.imgs.com.ar/imgs/2/9/b/29b7bcefc7ab3eee01c8e5f5458fefc2ffcfd4a7.html
 
 * DiegoSarmentero_ +1
 
-* ManuelArguelles_ +1
+* ManuelArguelles +1
 
 * JuanFisanotti_ +1
 
