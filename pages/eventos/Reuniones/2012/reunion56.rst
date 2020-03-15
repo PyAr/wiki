@@ -19,7 +19,7 @@ Temario
 
   * Definir Paneles: formato, día, horarios, temas e invitados
 
-  * Difusión/Publicidad: armar 1er Press Release. AdWords_ y publicación de anuncios en medios gráficos
+  * Difusión/Publicidad: armar 1er Press Release. AdWords y publicación de anuncios en medios gráficos
 
   * Armar Documento para solicitar autorizaciones y coordinar con la UNQ: eventos y cronograma tentativo día por día, requerimientos (espacios y aulas, networking, *posibilidad* de traducción simultánea, filmación y/o transmisión -*limitado y condicional*-, colaboración en registración, mesas, sillas, parrilla, etc)
 
@@ -56,7 +56,7 @@ Temas tratados:
 
 * Se habló de que se precisan sponsors, y de armar una agenda de contactos con mails / nums de tel / cualquier otra información de contacto con sponsors actuales y anteriores, para en posteriores eventos facilitar la ubicación de los mismos a los organizadores y volver a contactar a estos sponsors porque posiblemente pudieran estar interesados en volver o no a sponsorear eventos.
 
-* Se habló de que se precisa dar difusión al evento, a priori en las facultades que tienen carreras relacionadas con programación / informática. Se tira la idea de crear panfletos / flayers a ser pegados en el caso de los varones en la parte superior de un mijitorio emulando este concepto http://www.gamernenas.com/wp-content/uploads/2011/11/Control-Mijitorio.jpg pero en lugar de usar monitores, pegar ahi los flayers ya que es el punto de atención del varón mientras orina. En el caso de las mujeres, se acuerda pegar el flayer en la puerta del baño o arriba del lugar donde se pone el papel higiénico. Se busca con esto tener inscriptos en el sitio de PyConAr_ y ya ir dándole difusión y ruedo al evento.
+* Se habló de que se precisa dar difusión al evento, a priori en las facultades que tienen carreras relacionadas con programación / informática. Se tira la idea de crear panfletos / flayers a ser pegados en el caso de los varones en la parte superior de un mijitorio emulando este concepto http://www.gamernenas.com/wp-content/uploads/2011/11/Control-Mijitorio.jpg pero en lugar de usar monitores, pegar ahi los flayers ya que es el punto de atención del varón mientras orina. En el caso de las mujeres, se acuerda pegar el flayer en la puerta del baño o arriba del lugar donde se pone el papel higiénico. Se busca con esto tener inscriptos en el sitio de PyConAr y ya ir dándole difusión y ruedo al evento.
 
 * Se habló de que contamos con super infraestructura en la universidad desde el día Lunes, teniendo acceso al auditorio, internet y muchas cosas más, y de que RE daría para armar sprints / talleres en esos días. Ahora, vemos poco quorum en aprovechar esto, y no se sabe bien que vá a pasar o si hay interes de parte de la comunidad para que esto avance.
 

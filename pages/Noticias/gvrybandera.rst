@@ -7,18 +7,16 @@ Recién llagadita de EuroPython 2007, cortesía de alecu_, GvR posando con nuest
 .. image:: /images/Noticias/GvRyBandera/gvr-pyar-2-small.jpg
 
 
-
-
--------------------------
-
-
-
 Adjuntos (incluye foto en tamaño original)
 ------------------------------------------
 
-`[[AttachList]]`_
+.. image:: /images/Noticias/GvRyBandera/gvr-pyar.jpg
 
-.. ############################################################################
+.. image:: /images/Noticias/GvRyBandera/gvr-pyar-2.jpg
+
+.. image:: /images/Noticias/GvRyBandera/gvr-pyar-2-small.jpg
+
+.. image:: /images/Noticias/GvRyBandera/gvr-pyar-small.jpg
 
 .. _alecu: /alejandrojcura
 

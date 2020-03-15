@@ -10,19 +10,19 @@ Por favor, alfabético por apellido. Locale es_AR 🙂
 Confirmados
 ~~~~~~~~~~~
 
-Desde donde viajan: `../Transporte`_
+Desde donde viajan: Transporte_
 
 1. FacundoBatista_: desde el sábado a las 10, hasta el martes a las 19, morfo con todos, duermo en pabellón.
 
-#. NatyBidart_ (Domingo completo y Lunes hasta la tarde)
+#. NatyBidart (Domingo completo y Lunes hasta la tarde)
 
-#. MatiasBordese_ (Domingo completo y Lunes hasta la tarde)
+#. MatiasBordese (Domingo completo y Lunes hasta la tarde)
 
 #. alecu_ (33 años, programador), Lucila (31 años, psicóloga), Amelia (3 meses, beba). alecu y luli comen el menú fijo; amecu toma leche que llevamos para ella. Internet solo para alecu. Los 3 duermen en el depto de 4. Llegan el sábado al mediodía, se van el martes a la tarde.
 
-#. JorgeChamorro_ y María Luján (*la legal*) mas los clavos a saber : Isabel (*la nena*) , Maximiliano (*el atorrante*) , Lucía (*la charlatana*) y Gonzalo (*el bebé ... de 4 años*). Nos anotamos sin comida y Internet solo para el jefe de la familia (**yo**)
+#. JorgeChamorro y María Luján (*la legal*) mas los clavos a saber : Isabel (*la nena*) , Maximiliano (*el atorrante*) , Lucía (*la charlatana*) y Gonzalo (*el bebé ... de 4 años*). Nos anotamos sin comida y Internet solo para el jefe de la familia (**yo**)
 
-#. LeonardoDeLuca_ :strike:`y (quizás) familia`: desde el sábado a la mañana hasta el martes a la tarde. Me sumo al rebaño del pabellón y de comidas completas comunales.
+#. LeonardoDeLuca :strike:`y (quizás) familia`: desde el sábado a la mañana hasta el martes a la tarde. Me sumo al rebaño del pabellón y de comidas completas comunales.
 
 #. MarcosDione_
 
@@ -32,11 +32,11 @@ Desde donde viajan: `../Transporte`_
 
 #. NicoEchaniz_ desde el sábado a las 10, hasta el martes a las 19, omnívoro, duermo en pabellón.
 
-#. FedeHeinz_ + Joel (sólo el finde)
+#. FedeHeinz + Joel (sólo el finde)
 
-#. AgustinHenze_
+#. AgustinHenze
 
-     Sábado:8-Martes:22-Pabellón-Monos...
+    Sábado:8-Martes:22-Pabellón-Monos...
 
 #. `El rey del Humo`_: lo que haga la mayoría 🙂 . Supongo que es dormir en el pabellón y comer con todos los demás. Uso internet, llevo notebook y tomo birra.
 
@@ -52,7 +52,7 @@ Desde donde viajan: `../Transporte`_
 
 #. Polako (idem HectorSanchez_ - "LLego el sábado a las 10:00 am, y vuelvo el martes 24 a las 9:45) al pabellón con los pibes, menú completo.")
 
-#. JaviMansilla_ (desde sábado cómo a las 9 hasta martes cómo a las 20, como con todos, duermo en el pabellón)
+#. JaviMansilla (desde sábado cómo a las 9 hasta martes cómo a las 20, como con todos, duermo en el pabellón)
 
 #. MarianoMara_ (Desde Sábado mediados de la mañana hasta el Martes tarde, pabellón, como lo que se pueda...)
 
@@ -60,7 +60,7 @@ Desde donde viajan: `../Transporte`_
 
 #. RamiroMorales_
 
-#. FedericoPeretti_
+#. FedericoPeretti
 
      Desde el sábado a primera hora (las 10:00 mas o menos)
 
@@ -80,7 +80,7 @@ Desde donde viajan: `../Transporte`_
 
 #. Marian y familia
 
-#. DavidWeil_
+#. DavidWeil
 
 #. PabloZiliani_ + Cynthia Cortés:
 
@@ -105,19 +105,19 @@ Con muchas ganas, pero no confirmados
 
 #. `Jose Luis Dallapiccola`_
 
-#. MichelPeterson_
+#. MichelPeterson
 
 #. NicoCesar_
 
-#. MauroCaceres_
+#. MauroCaceres
 
-#. MartinAlbisetti_
+#. MartinAlbisetti
 
 #. `MarceloFernández`_
 
-#. Macarse_
+#. Macarse
 
-#. MartinPieuchot_
+#. MartinPieuchot
 
 #. `Roberto Rodríguez`_
 
@@ -132,7 +132,7 @@ Con muchas ganas, pero sin plata
 
 .. _alecu: /alejandrojcura
 
-.. _El rey del Humo: /manuelkaufmann
+.. _El rey del Humo: /humitos
 
 .. _Nicolás Miyasato: /miya
 
@@ -161,4 +161,8 @@ Con muchas ganas, pero sin plata
 .. _sebastianbassi: /sebastianbassi
 .. _nicocesar: /nicocesar
 
+.. _transporte: /PyCamp/2009/transporte
 .. _facundobatista: /miembros/facundobatista
+
+.. _MarceloFernández: /marcelofernandez
+.. _ManuelQuiñones: /manuelquinones

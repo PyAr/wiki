@@ -2,6 +2,10 @@
 2008
 ====
 
+.. role:: superscript
+   :class: superscript
+
+
 02/11/2008
 ::::::::::
 
@@ -10,7 +14,7 @@
 29/10/2008
 ::::::::::
 
-* Los invitamos al PythonDay_ 2008, a realizarse en la ciudad de Córdoba el día 1ro de noviembre de 2008. Este evento se realiza con la colaboración de GrULiC y la Universidad Tecnológica Nacional, y constará de disertaciones y talleres relacionadas a programación y herramientas del lenguaje Python, presentadas por conferencistas locales y nacionales. http://pyday.python.com.ar/
+* Los invitamos al PythonDay 2008, a realizarse en la ciudad de Córdoba el día 1ro de noviembre de 2008. Este evento se realiza con la colaboración de GrULiC y la Universidad Tecnológica Nacional, y constará de disertaciones y talleres relacionadas a programación y herramientas del lenguaje Python, presentadas por conferencistas locales y nacionales. http://pyday.python.com.ar/
 
 04/10/2008
 ::::::::::
@@ -143,15 +147,6 @@ Anteriores
 
 .. _Except: http://except.com.ar/
 
-
-
-
-
-
-
-.. role:: superscript
-   :class: superscript
-
 .. _pyar: /pyar
 .. _remerasv2: /remerasv2
 
@@ -160,3 +155,5 @@ Anteriores
 .. _Año 2006: /Noticias/2006
 .. _Año 2007: /Noticias/2007
 .. _Reunion30: /eventos/Reuniones/2008/reunion30
+.. _MiembrosDePyAr: /miembrosdepyar
+.. _LaBanderaDePyAr: /labanderadepyar

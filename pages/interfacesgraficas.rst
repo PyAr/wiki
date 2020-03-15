@@ -162,7 +162,7 @@ Hello World
 
 **Nota**: para poder comparar, los ejemplos crean una aplicación, ventana y botón, con un evento.
 
-Hay mas ejemplos en el `Recetario#Interfaces_graficas`_
+Hay mas ejemplos en el :ref:`recetario_interfaces_graficas`
 
 TkInter
 :::::::

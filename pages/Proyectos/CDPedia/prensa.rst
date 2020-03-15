@@ -25,9 +25,9 @@ Artículos sobre CDPedia
 
 * Viva Linux!: `CDPedia 0.6`_
 
-* WikiNoticias_: `La Wikipedia se distribuirá en CD en Argentina`_
+* WikiNoticias: `La Wikipedia se distribuirá en CD en Argentina`_
 
-* TechEye_: `South American project shrinks Wikipedia to a CD`_
+* TechEye: `South American project shrinks Wikipedia to a CD`_
 
 * Barrapunto: `Lanzamiento de CDPedia 0.6, la wikipedia en CD`_
 

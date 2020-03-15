@@ -54,11 +54,11 @@ En esta primera edición contaremos con 6 charlas sobre Python y temas relaciona
 19/01/2010
 ::::::::::
 
-Python Argentina se enorgullece de anunciar la versión 0.6 de la CDPedia.  Esta versión fue entregada a Educ.ar con vistas a la distribución en escuelas del todo el país, `std testing center`_ y ya está disponible para la descarga pública.
+Python Argentina se enorgullece de anunciar la versión 0.6 de la CDPedia.  Esta versión fue entregada a Educ.ar con vistas a la distribución en escuelas del todo el país, y ya está disponible para la descarga pública.
 
-La CDPedia es un proyecto del grupo de usuarios de Python Argentina para poder acceder a la información de la Wikipedia en castellano aunque no se posea una conexión a Internet.  Se puede descargar `dc moving`_ libremente de la red y grabar a CDs o DVDs para repartirlos sin restricciones.  La CDPedia funciona en cualquier computadora, ya sea que tenga Linux, MacOS o Windows como sistema operativo.
+La CDPedia es un proyecto del grupo de usuarios de Python Argentina para poder acceder a la información de la Wikipedia en castellano aunque no se posea una conexión a Internet.  Se puede descargar libremente de la red y grabar a CDs o DVDs para repartirlos sin restricciones.  La CDPedia funciona en cualquier computadora, ya sea que tenga Linux, MacOS o Windows como sistema operativo.
 
-La versión 0.6 de CDPedia en DVD fue recientemente entregada `buying essays`_ para su evaluación a Educ.ar, que por medio de un acuerdo con Wikimedia Argentina y PyAr_ está planeando distribuir esta enciclopedia libre en todas las escuelas de Argentina.
+La versión 0.6 de CDPedia en DVD fue recientemente entregada para su evaluación a Educ.ar, que por medio de un acuerdo con Wikimedia Argentina y PyAr_ está planeando distribuir esta enciclopedia libre en todas las escuelas de Argentina.
 
 Esta misma versión ya está disponible para la descarga pública tanto para el formato de CD y DVD.  Para mayor información e instrucciones para la descarga, visitar `la página del proyecto`_.
 
@@ -105,11 +105,6 @@ Anteriores
 .. _Año 2007: /Noticias/2007
 .. _Año 2008: /Noticias/2008
 .. _Año 2009: /Noticias/2009
-
-
-
-
-
 
 .. _pyday: /pyday
 .. _pyar: /pyar

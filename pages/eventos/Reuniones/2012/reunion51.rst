@@ -115,7 +115,7 @@ Minuta
 
 * Joac_ quedó en averiguar todos los temas relativos a la formación de una ONG (tales como procedimientos / pasos legales e impositivos a seguir, requerimientos, inversión necesaria, etc.)
 
-* LuisMasuelli_ averiguaría acerca de las cuestiones impositivas inherentes a una ONG (ver e-mail sobre la reunión, donde comenta lo que pudo averiguar)
+* LuisMasuelli averiguaría acerca de las cuestiones impositivas inherentes a una ONG (ver e-mail sobre la reunión, donde comenta lo que pudo averiguar)
 
 .. _issue11739: http://bugs.python.org/issue11739
 

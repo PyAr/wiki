@@ -17,7 +17,7 @@ Necesitamos al menos 2 personas por cada sesión:
 
 * El Ayudante busca a los disertantes y los conducen a su aula respectiva, verificando que los proyectores funcionen y ayudando al encargado del aula
 
-Por favor `leer las instrucciones y anotarse`_:
+Por favor leer las instrucciones y anotarse:
 
 Viernes 16:
 
@@ -42,7 +42,7 @@ Redes
 
 La noche antes de comenzar la conferencia principal, puedes ayudar cableando, conectando e instalando los dispositivos de red.  Necesitamos un coordinador de redes que se encargue de organizar la infraestructura y los equipos. Agrega tu nombre abajo si estas disponible el Jueves 15 por la noche en la Universidad para ayudar en este tema.
 
-* DiegoRamirez_
+* DiegoRamirez
 
 * AngelVelasquez_
 

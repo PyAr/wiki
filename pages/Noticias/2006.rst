@@ -1,6 +1,13 @@
-
 2006
 ====
+
+.. role:: underline
+   :class: underline
+
+
+.. role:: big
+   :class: big
+
 
 13/12/2006
 ::::::::::
@@ -30,7 +37,7 @@
 05/10/2006
 ::::::::::
 
-* Ayer se realizó la decimoctava reunión de PyAr_, en Capital Federal. Ya está disponible la minuta en `Eventos/Reuniones/Reunion18`_.
+* Ayer se realizó la decimoctava reunión de PyAr_, en Capital Federal. Ya está disponible la minuta en Reunion18_.
 
 24/09/2006
 ::::::::::
@@ -84,7 +91,7 @@
 28/04/2006
 ::::::::::
 
-* Realizamos la decimoquinta reunión de PyAr_, hablamos de todo un poco y surgieron muchas cosas para hacer, lean la minuta `Eventos/Reuniones/Reunion15`_, y también vean las secciones nuevas ColectaDeHardware_ y EtiquetaPyAr_
+* Realizamos la decimoquinta reunión de PyAr_, hablamos de todo un poco y surgieron muchas cosas para hacer, lean la minuta Reunion15_, y también vean las secciones nuevas ColectaDeHardware_ y EtiquetaPyAr_
 
 14/03/2006
 ::::::::::
@@ -94,7 +101,7 @@
 08/03/2006
 ::::::::::
 
-* Realizamos la decimocuarta reunión de PyAr_ que fué todo un éxito, si te la perdiste, podés ver un resumen en `Eventos/Reuniones/Reunion14`_
+* Realizamos la decimocuarta reunión de PyAr_ que fué todo un éxito, si te la perdiste, podés ver un resumen en Reunion14_
 
 01/03/2006
 ::::::::::
@@ -104,7 +111,7 @@
 24/02/2006
 ::::::::::
 
-* Estamos planificando la reunión 14. Fecha y lugar :underline:`tentativos`: 08/03/2006, Hip Bar. Ya está habilitada la página `Eventos/Reuniones/ProximaReunion`_ para que te anotes y colabores en el temario.
+* Estamos planificando la reunión 14. Fecha y lugar :underline:`tentativos`: 08/03/2006, Hip Bar. Ya está habilitada la página ProximaReunion_ para que te anotes y colabores en el temario.
 
 21/02/2006
 ::::::::::
@@ -125,14 +132,14 @@
 28/01/2006
 ::::::::::
 
-* ¡Lanzamos el nuevo portal!. Mucho antes de lo que esperábamos. Tenemos pendientes algunas mejoras en la configuración de Apache y MoinMoin_, pero podemos decir que el sitio está oficialmente lanzado. Cualquier problema, por favor repórtenlo en la ListaDeCorreo_, o en la nueva sección Sugerencias_.
+* ¡Lanzamos el nuevo portal!. Mucho antes de lo que esperábamos. Tenemos pendientes algunas mejoras en la configuración de Apache y MoinMoin, pero podemos decir que el sitio está oficialmente lanzado. Cualquier problema, por favor repórtenlo en la ListaDeCorreo_, o en la nueva sección Sugerencias_.
 
 * Nuevo portal, nueva sección: Recursos_, donde mantenemos la información sobre organizaciones que utilizan Python en Argentina.
 
 26/01/2006
 ::::::::::
 
-* |/!/| **Se larga la confección de** Remeras_**. El diseño está cerrado. Por favor, confirmá cuántas querés y de que talles en la página.**
+* ⚠️  **Se larga la confección de** Remeras_**. El diseño está cerrado. Por favor, confirmá cuántas querés y de que talles en la página.**
 
 * FacundoBatista_ viaja a `PyCon 2006`_. Habilitamos una sección para debatir y proponer contenido de una Lightning Talk sobre PyAr_. Podés ver en que estamos pensando y aportar ideas ingresando `aquí`_.
 
@@ -157,6 +164,10 @@ Anteriores
 .. _CaFeCONF 2006: /eventos/Conferencias/cafeconf2006
 
 .. _Reunión 19: /eventos/Reuniones/2006/reunion19
+.. _reunion18: /eventos/Reuniones/2006/reunion18
+.. _Reunión 18: /eventos/Reuniones/2006/reunion18
+.. _reunion15: /eventos/Reuniones/2006/reunion15
+.. _reunion14: /eventos/Reuniones/2006/reunion14
 
 .. _resultados de la votación: /Bandera/resultados
 
@@ -223,23 +234,6 @@ Anteriores
 
 .. _aquí: /eventos/Conferencias/pycon2006
 
-
-
-
-
-.. role:: underline
-   :class: underline
-
-
-
-.. role:: underline
-   :class: underline
-
-
-
-.. role:: big
-   :class: big
-
 .. _pyar: /pyar
 .. _listadecorreo: /listadecorreo
 .. _alejandrodavidweil: /alejandrodavidweil
@@ -252,8 +246,9 @@ Anteriores
 .. _remeras: /remeras
 .. _sugerencias: /sugerencias
 .. _recursos: /recursos
-.. _marianodraghi: /marianodra
 .. _facundobatista: /miembros/facundobatista
 
 .. _Año 2004: /Noticias/2004
 .. _Año 2005: /Noticias/2005
+.. _proyectos/alocadoalocador: /Proyectos/alocadoalocador
+.. _eventos/conferencias/pycon2006: /eventos/Conferencias/pycon2006

@@ -5,12 +5,12 @@
 07/07/2005
 ::::::::::
 
-* Última edición de `Inmersión en Python`_.
+* Última edición de Inmersión en Python.
 
 25/04/2005
 ::::::::::
 
-* NubIs_ nos muestra su script `Foto by Mail`_.
+* NubIs_ nos muestra su script Foto by Mail.
 
 15/04/2005
 ::::::::::
