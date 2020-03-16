@@ -44,4 +44,4 @@ Puedes ver una tabla comparativa de estas *features* en `Tabla comparativa`_ (*a
 
 .. ############################################################################
 
-
+.. _Tabla comparativa: /tablaides

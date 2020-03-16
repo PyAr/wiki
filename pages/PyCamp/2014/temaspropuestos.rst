@@ -57,7 +57,7 @@ Pequeña demo muy básica: http://youtu.be/wKxqTgC8Z7Q
 PyConference
 ~~~~~~~~~~~~
 
-PyConference_ es una aplicación para administración de eventos. Si bien está pensada para tener features generales que puedan aplicarse a (casi) cualquier meetup, conferencia, hackaton, etc., surgió como una iniciativa para facilitar la creación y administración de eventos de PyAr_ (PyDay_, PyConAr_, etc.), ofreciendo hosting gratuito, personalización de estilos fácil de usar, sistema de votación de charlas para los organizadores, perfil y administrador de charlas para disertantes, entre otras.
+PyConference_ es una aplicación para administración de eventos. Si bien está pensada para tener features generales que puedan aplicarse a (casi) cualquier meetup, conferencia, hackaton, etc., surgió como una iniciativa para facilitar la creación y administración de eventos de PyAr_ (PyDay_, PyConAr, etc.), ofreciendo hosting gratuito, personalización de estilos fácil de usar, sistema de votación de charlas para los organizadores, perfil y administrador de charlas para disertantes, entre otras.
 
 *Propone: Filly*
 
@@ -66,14 +66,14 @@ Mint for argentina
 
 https://www.mint.com/ es una aplicación de contabilidad personal, el feature mas interesante es que se conecta con tu cuenta de banco y puede analizar tus gastos para recomendarte formas de ahorrar mas. Por ahora es imposible atarse a la cuenta de banco pero la idea es hackear una aplicación como mint que ¿lea tu resumen de cuenta? y pueda ayudarte a gastar menos (o al menos que diga en que gastas mucho). Es un proyecto que tengo en la cabeza hace un tiempo y quizás a alguien mas le interesa.
 
-*Propone:* SebastianAlvarez_
+*Propone:* SebastianAlvarez
 
 Preciosa, Precios de Argentina
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Preciosa_ es una plataforma web con clientes para teléfonos móviles que funciona como una base de datos colaborativa (actualizable por los usuarios) para relevar precios de productos de supermercados. Con esa información es posible informar a los consumidores dónde se consigue el mejor precio de un producto, las mejores ofertas (relativas al precio promedio en la ciudad) en un comercio particular, y muchas más. Hay muchas tareas_ para realizar que implican desde scrapping de datos, geolocalización y cálculos estadísticos hasta la implementación de MVC en la aplicación HTML5 para móviles.
 
-*Propone:* MartinGaitan_
+*Propone:* MartinGaitan
 
 Muerte a Moin Moin // django-waliki ?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -86,7 +86,7 @@ Propongo **migrar** la wiki actual a una aplicación wiki basada en Django, inte
 
 La aplicación wiki "pluggable" pada Django más desarrollada y mantenida es Django-wiki_ que utiliza el markup Markdown y persiste el contenido (y las revisiones) de la base de datos. Una alternativa es evaluar el desarrollo de una app ad hoc para Django inspirada en Waliki_, que mantenga el contenido en formato de archivos y utilice como sistema de control de cambios Git
 
-*Propone:* MartinGaitan_
+*Propone:* MartinGaitan
 
 En la búsqueda del testrunner soñado
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -157,14 +157,14 @@ FlapPy Bot
 
 La idea sería armar un robot que pueda jugar al flappy bird (o alguna de sus numerosas copias). Algo parecido a `ésto`_. Según dicen lo armaron en sólo 4 días (son chinos, va a estar difícil, pero hay que ganarles). Yo tengo para poner tablet, disco (es muuy viejo), webcam (no graba con la re calidad), trípode.
 
-*Propone:* FedericoMie_
+*Propone:* FedericoMie
 
 pbt - Python Building Tools
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 En una charla relampago en la ultima Pycon MarianoGuerra_ propuso implementar una herramienta que colabore en simplificar el desarrollo en python. Despues de varios vinos en el asado final se propuso construir pbt(Se lee pebete) se armo un repo, y mariano construyo un esqueleto que es este_ la idea de trabajarlo en la pycamp es darle funcionalidades basicas como para tener una version "usable" del mismo.
 
-*Propone:* JairoTrad_
+*Propone:* JairoTrad
 
 Traducción del video: Inventing on Principle
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -283,7 +283,7 @@ WeFree la interné en el teléfono
 
 Es una aplicacion para android y un servicio para compartir claves wifi y así conectarte a todos los AP's de la ciudad que quieras. La comunidad te conecta. (tambien conocido como el grán bypass a las telefónicas,  el roaming de la muerte, y otros)
 
-propone: GeraRicharte_
+propone: GeraRicharte
 
 Nueva web de PyAr
 ~~~~~~~~~~~~~~~~~

@@ -125,7 +125,7 @@ SprintDjango_: El Sábado 6, similar al que tuvo lugar durante el PyCamp '09. Da
 
 * DanielMoisset_
 
-* MarianoFalcon_
+* MarianoFalcon
 
 * JuanjoConti_
 
@@ -145,7 +145,7 @@ SprintDjango_: El Sábado 6, similar al que tuvo lugar durante el PyCamp '09. Da
 
 * JuanjoConti_
 
-* LucianoBello_
+* LucianoBello
 
 * GonzaloDelgado_
 
@@ -157,7 +157,7 @@ Django o web2py en jornadasregionales.org: Implementar pycontech+django o web2co
 
 * MarianoReingart_
 
-* MarianoFalcon_
+* MarianoFalcon
 
 * TomasZulberti
 
@@ -177,7 +177,7 @@ Worldst_: El juegost mast grandest del mundost.
 
 * JoaquinSorianello_
 
-* MarianoFalcon_
+* MarianoFalcon
 
 * JuanjoConti_
 
@@ -201,7 +201,7 @@ Aplicación para medicos: Armar algo para satisfacer `este hilo`_
 
 Empaquetado de aplicaciones y bibliotecas python para Debian.
 
-* LucianoBello_
+* LucianoBello
 
 * alecu
 

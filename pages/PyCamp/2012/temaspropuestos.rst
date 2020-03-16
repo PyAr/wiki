@@ -62,7 +62,7 @@ Interesados
 
 * Joac_
 
-* DiegoMascialino_
+* DiegoMascialino
 
 * FacundoBatista_
 
@@ -181,7 +181,7 @@ Editor de ebooks colaborativo y online
 Interesados
 ...........
 
-* MartinGaitan_
+* MartinGaitan
 
 * alecu_
 
@@ -419,7 +419,7 @@ Juegos de Mesa (quien lo lleva):
 
 * Battlestar Galáctica [ alecu_ ]
 
-* SmallWorld_ [ alecu_ ]
+* SmallWorld [ alecu_ ]
 
 * 7 wonders [ achuni_ ]
 
@@ -453,7 +453,7 @@ Interesados
 
 * dlitvak_
 
-* GonzaloGarciaBerrotaran_
+* GonzaloGarciaBerrotaran
 
 * pindonga_
 

@@ -2,19 +2,19 @@
 Participantes
 -------------
 
-1. `MartínBorthiry`_ (si logra ir al PyCamp_)
+1. MartínBorthiry (si logra ir al PyCamp_)
 
 #. AnthonyLenton_
 
-#. NatyBidart_
+#. NatyBidart
 
 #. `HernánOlivera`_ (remotamente)
 
 #. RamiroMorales_
 
-#. FedericoPeretti_
+#. FedericoPeretti
 
-#. AgustinHenze_
+#. AgustinHenze
 
 #. Humillo
 
@@ -27,4 +27,5 @@ Qué llevar
 
 .. _anthonylenton: /anthonylenton
 .. _pycamp: /pycamp
+.. _HernánOlivera: /hernanolivera
 .. _ramiromorales: /ramiromorales
