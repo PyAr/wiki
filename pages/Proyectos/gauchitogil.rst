@@ -53,7 +53,7 @@ Para esto ver el siguiente pdf:
 
 
 
-Para ver el resultado de esto ver `/EventMatching`_
+Para ver el resultado de esto ver `EventMatching </pages/Proyectos/GauchitoGil/eventmatching>`__
 
 Reactor : An Object Behavioral Pattern for Concurrent Event Demultiplexing and Dispatching
 ------------------------------------------------------------------------------------------

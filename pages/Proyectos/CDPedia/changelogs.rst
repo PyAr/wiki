@@ -86,13 +86,13 @@ Para la 0.8
 
 * Support re-asking for the search after end of itself.
 
-* Fixed bug introduced on r421 (ExtraerContenido_ moved to scraper)
+* Fixed bug introduced on r421 (ExtraerContenido moved to scraper)
 
 * Added license header and some cleanup to web_app
 
 * Full search implemented.
 
-* #91. Movemos el preprocesador ExtraerContenido_ al scraper
+* #91. Movemos el preprocesador ExtraerContenido al scraper
 
 * Verify some details on the downloaded page.
 
@@ -134,7 +134,7 @@ Para la 0.8
 
 * Algunos tests para el watchdog
 
-* Browser WatchDog_ andando
+* Browser WatchDog andando
 
 * Wrapeo las paginas de institucional #136
 

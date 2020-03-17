@@ -84,7 +84,7 @@ Artículos / Bibliografía
 
     Abstract: Students will learn the basics of signal processing with examples in Python. Sampling and filtering of data will be covered in the time and frequency domain. Students will learn signal analysis and system simulation techniques. http://conference.scipy.org/scipy2010/tutorials.html#signals
 
-* `Fixing Statistical Errors in Spreadsheet Software: The Cases of Gnumeric and Excel`_, B. D. McCullough_
+* `Fixing Statistical Errors in Spreadsheet Software: The Cases of Gnumeric and Excel`_, B. D. McCullough
 
   The open source spreadsheet package "Gnumeric" was such a good clone of Microsoft Excel that it even had errors in its statistical functions similar to those in Excel's statistical functions. When apprised of the errors in v1.0.4, the developers of Gnumeric indicated that they would try to fix the errors. Indeed, Gnumeric v1.1.2, has largely fixed its flaws, while Microsoft has not fixed its errors through many successive versions. Persons who desire to use a spreadsheet package to perform statistical analyses are advised to use Gnumeric rather than Excel.
 
@@ -101,7 +101,7 @@ Reemplazo a Matlab (cálculo numérico)
 Reemplazo a Symbolic Math Toolbox (de Matlab)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* SymPy_ Librerías para cálculo simbólico. Esta bastante verde todavía, ni se compara con las herramientas comerciales como Mathematica o MathCad_, pero para cosas no muy complicadas es de buena ayuda. Si bien funciona en la consola exclusivamente, permite visualizar fórmulas de manera legible, introduciendolas con un sistema similar a LaTEX.
+* SymPy_ Librerías para cálculo simbólico. Esta bastante verde todavía, ni se compara con las herramientas comerciales como Mathematica o MathCad, pero para cosas no muy complicadas es de buena ayuda. Si bien funciona en la consola exclusivamente, permite visualizar fórmulas de manera legible, introduciendolas con un sistema similar a LaTEX.
 
 Listado de librerías de ploteo
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
