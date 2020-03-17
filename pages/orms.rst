@@ -45,7 +45,7 @@ Elixir
 
 Elixir es una capa declarativa sobre la librería SQLAlchemy, es una capa bastante fina, que provee la habilidad de crear simples clases en python que mapean directamente a tablas de una base de datos relacionales (este patrón es conocido como el patrón de disenio Active Record), proveyendo muchos de los beneficios de las bases de datos tradicionales sin perder la conveniencia de los objetos python.
 
-Elixir tiene la intención de reemplazar la extensión ActiveMapper_ de SQLAlchemy, y el proyecto TurboEntity_ pero no intena reemplazar las características básicas de SQLAlchemy, en su lugar se enfoca en proveer una sintaxis mas simple para definir modelos de objetos cuando no necesitas la expresividad del mapeo manual de definiciones de SQLAlchemy.
+Elixir tiene la intención de reemplazar la extensión ActiveMapper de SQLAlchemy, y el proyecto TurboEntity pero no intena reemplazar las características básicas de SQLAlchemy, en su lugar se enfoca en proveer una sintaxis mas simple para definir modelos de objetos cuando no necesitas la expresividad del mapeo manual de definiciones de SQLAlchemy.
 
 `Pagina del proyecto <http://elixir.ematia.de/trac/wiki>`__
 
@@ -93,7 +93,7 @@ web2py incluye una capa de abstracción de base de datos (DAL), una API que mape
 
 El DAL genera SQL dinámicamente en tiempo real usando el dialecto especifico de la base de datos, de manera que no tenes que escribir SQL o aprender diferentes dialectos (el termino SQL es usado genéricamente), y la aplicación sera portable entre distintos tipos de bases de datos.
 
-Al momento de escribir esto las bases de datos soportadas son SQLite (que viene con python y por lo tanto web2py), PostgreSQL, MySQL, Oracle, MSSQL, FireBird_, DB2, Informix, Ingres y (parcialmente) Google App Engine (SQL y NoSQL).
+Al momento de escribir esto las bases de datos soportadas son SQLite (que viene con python y por lo tanto web2py), PostgreSQL, MySQL, Oracle, MSSQL, FireBird, DB2, Informix, Ingres y (parcialmente) Google App Engine (SQL y NoSQL).
 
 Experimentalmente soporta mas bases de datos, visita el sitio web de web2py y la lista de correos para adaptadores mas recientes.
 

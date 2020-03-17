@@ -6,7 +6,7 @@ Email: ``santiycr arroba gmail punto com``
 
 Estoy rindiendo las últimas materias para recibirme de Ingeniero en sistemas de Información en la Universidad Tecnológica Nacional, Regional Rosario.
 
-Arranqué en 2005 trabajando en diseño web con tecnologías como: Flash, PHP y por supuesto mucho HTML+CSS+JavaScript_.
+Arranqué en 2005 trabajando en diseño web con tecnologías como: Flash, PHP y por supuesto mucho HTML+CSS+JavaScript.
 
 Desde Febrero de 2007 hasta 2009 trabajé en Neoris Argentina como tester funcional. Tras unos meses de hacer solo tests manuales presenté como iniciativa personal la oportunidad de utilizar Python+ Selenium como herramienta para la automatización de pruebas. El ultimo año trabajé 100% dedicado a esto, capacitando a mis compañeros y como principal referente del tema.
 

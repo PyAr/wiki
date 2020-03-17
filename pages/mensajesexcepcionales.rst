@@ -147,7 +147,7 @@ La sintaxis, como en cualquier lenguaje, es fundamental para que Python entienda
 
   * Nombres de variable y módulos (archivos) en minúsculas con las palabras separadas por guión bajo ('_'), por ejemplo: ``mi_variable_x``
 
-  * Nombres de clases en CamelCase_ (primer letra de cada palabra en mayúscula, luego minúsculas, sin separar por espacios), por ejemplo: ``MiClasePunto``
+  * Nombres de clases en CamelCase (primer letra de cada palabra en mayúscula, luego minúsculas, sin separar por espacios), por ejemplo: ``MiClasePunto``
 
 * **Palabras clave reservadas**: deben ser escritas tal cual, deben estar al principio de una linea y/o separadas con espacios y no pueden ser usadas como nombres de variables: and as assert break class continue def elif else except exec finally for global if import in is lambda or pass print raise return try with yield.
 

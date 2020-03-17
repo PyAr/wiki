@@ -24,7 +24,7 @@ Tremendo *typo*
 
  Tue, 21 Oct 2008 14:01:14 -0200
 
-En la presentacion del blog propio de PyWars_
+En la presentacion del blog propio de PyWars
 
 ::
 

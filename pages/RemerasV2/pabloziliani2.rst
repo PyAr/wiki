@@ -36,3 +36,4 @@ Comentarios
 .. _remerasv2: /remerasv2
 .. _pyar: /pyar
 .. _pabloziliani: /pabloziliani
+.. _diseño anterior: /RemerasV2/pabloziliani1
