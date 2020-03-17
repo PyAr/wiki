@@ -1,12 +1,17 @@
-
-UserPreferences_
+================
+User Preferences
+================
 
 Primera vez
 ===========
 
 Por favor diligencie **`[[GetText(Name)]]`_**, **`[[GetText(Password)]]`_**, **`[[GetText(Password repeat)]]`_** y **`[[GetText(Email)]]`_**.
 
-|(!)| Es mejor elegir un NombreWiki_ (Como PrimernombreApellido) como nombre de usuario para que sus aportes y firmas lo enlacen a su  PáginapersonalWiki. Su correo personal es para poder enviarle notificaciones de cambio de páginas y para recobrar datos en caso de olvido de la clave.
+.. note:
+
+    Es mejor elegir un NombreWiki (Como PrimernombreApellido) como nombre de usuario para que sus aportes y
+    firmas lo enlacen a su  PáginapersonalWiki. Su correo personal es para poder enviarle notificaciones de cambio
+    de páginas y para recobrar datos en caso de olvido de la clave.
 
 Si sigue el enlace de **`[[GetText(Create Profile)]]`_**, se le creará un perfil de usuario y entrará inmediatamente al sistema.
 

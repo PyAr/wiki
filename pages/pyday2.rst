@@ -1,5 +1,5 @@
 
-PythonDay_ 2 (córdoba)
+PythonDay 2 (córdoba)
 
 `PyDay2/CallForCharlas`_
 

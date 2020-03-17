@@ -11,7 +11,7 @@ Se propuso incluir los siguientes programas:
 
 * Entornos para programar como ipython, boa, etc.
 
-* Le agrego manejo de archivos y Base de datos (MySql_, PostgreSQL).
+* Le agrego manejo de archivos y Base de datos (MySql, PostgreSQL).
 
 También se habló de la posibilidad de hacer un liveCD para aprender a programar, no puntualmente para python sinó mas general, para varios lenguajes. Esto traeríá mas gente al proyecto, pero lo ampliaría mas de lo necesario.
 
