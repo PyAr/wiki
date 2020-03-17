@@ -55,12 +55,6 @@ Promoción
 
 * Exportar el logo a diferentes formatos y resoluciones, para que pueda usarse como banner, referrer, etc.
 
--------------------------
-
- `[[Navigation(children)]]`_
-
-.. ############################################################################
-
 .. _Eventos/Conferencias: /eventos/conferencias
 .. _pyar: /pyar
 .. _noticias: /noticias
