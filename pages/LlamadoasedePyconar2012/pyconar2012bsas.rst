@@ -1,6 +1,3 @@
-
-|PyConAr2012|
-
 PyCon Argentina 2012 - Buenos Aires
 ===================================
 
@@ -47,7 +44,7 @@ Propuesta tentativa
 
     * Posters
 
-* Sitio Web: http://ar.pycon.org/2012 (simil PyConAr2011_)
+* Sitio Web: http://ar.pycon.org/2012 (simil PyConAr2011)
 
 * `Carta de Presentación`_
 
@@ -77,13 +74,13 @@ Coordinadores
 
 * Coordinador General: MarianoReingart_
 
-* Co-coordinador general: JuanCabral_
+* Co-coordinador general: JuanCabral
 
 * Coordinación del Lugar (contacto con la Universidad): AlbertoPaparelli_ y SebastianBassi_
 
 * Coordinación de Charlas: Alejandro Cura (alecu)
 
-* Coordinación de Posters: JuanCabral_
+* Coordinación de Posters: JuanCabral
 
 * Coordinación de Talleres:
 
@@ -107,7 +104,7 @@ Coordinadores
 
 * Coordinación de Transportes y Alojamientos:
 
-* Webmaster: AlanEtkin_
+* Webmaster: AlanEtkin
 
 Requisitos
 ~~~~~~~~~~
@@ -126,7 +123,7 @@ No son condiciones excluyentes pero ayudan a facilitar la organización.  Ver co
 
 Tampoco es necesario ser de Buenos Aires, la mayoría de las tareas pueden realizarse de manera remota.
 
-Sería importante tener más de un coordinador por área, para no recargarse de trabajo y compartir las responsabilidades. Sobre todo, sería bueno poder coordinar también en conjunto con futuros interesados (por ej. próximas ediciones de PyConAr_)
+Sería importante tener más de un coordinador por área, para no recargarse de trabajo y compartir las responsabilidades. Sobre todo, sería bueno poder coordinar también en conjunto con futuros interesados (por ej. próximas ediciones de PyConAr)
 
 Programa
 --------
@@ -153,7 +150,7 @@ Las Charlas Relámpago podrán ser subidas al sitio luego de presentarlas.
 Revisión de Charlas
 ~~~~~~~~~~~~~~~~~~~
 
-Para buscar diversidad, simplificar y facilitar la elección de charlas, se utilizará un sistema de votación ponderada como el usado en PyConAr2011_ (similar al de PyConBr2011_).
+Para buscar diversidad, simplificar y facilitar la elección de charlas, se utilizará un sistema de votación ponderada como el usado en PyConAr2011 (similar al de PyConBr2011).
 
 La justificación de cada voto será obligatoria. Se podrá dejar comentarios a los disertantes para que estos puedan modificar o mejorar la charla de ser necesario.
 
@@ -180,14 +177,14 @@ Para reunir fondos, también podría ser necesario cobrar un bono contribución 
 
 Los auspiciantes podrán realizar donaciones en las categorías manejadas para eventos anteriores, y posiblemente se contemplarán descuentos para startups, cooperativas y pequeñas o micro empresas. A su vez, los auspiciantes podrán optar por cubrir el costo de los articulos de la conferencia (remeras, colgantes, bolsas, carpetas, lapiceras, impresiones y demás materiales) pudiendo incorporar su logo.
 
-De ser posible, el manejo de fondos se realizará mediante una organización sin fines de lucro (a definir, preferentemente "neutral") relacionada y cercana al evento, y los excedentes quedarán a disponibilidad de futuras ediciones de PyConAr_. Miembros del `Quilmes LUG`_ se ofrecieron para colaborar ya que la UnQui_ articula los eventos de software libre con dicha Asociación Civil.
+De ser posible, el manejo de fondos se realizará mediante una organización sin fines de lucro (a definir, preferentemente "neutral") relacionada y cercana al evento, y los excedentes quedarán a disponibilidad de futuras ediciones de PyConAr. Miembros del `Quilmes LUG`_ se ofrecieron para colaborar ya que la UnQui_ articula los eventos de software libre con dicha Asociación Civil.
 
 Uno de los objetivos de la conferencia será difundir el lenguaje Python en Argentina, por lo que posiblemente se contraten servicios de publicidad, tanto en medios especializados (revistas, diarios, etc.) como en internet (por ej. adwords)
 
 Sitio Web
 ---------
 
-Se utilizará el sitio actual (PyConAr2011_) que ya cumple con la mayoría de la funcionalidad necesaria:
+Se utilizará el sitio actual (PyConAr2011) que ya cumple con la mayoría de la funcionalidad necesaria:
 
 * inscripción (asistentes, disertantes y organizadores)
 
@@ -212,7 +209,7 @@ Se conversará con la gente USLA respecto al acceso (sudo) y actualización del 
 Colaboradores
 -------------
 
-PyConAr_ es un evento llevado a cabo por voluntarios (ad-honorem) por lo tanto, ¡necesitamos tu ayuda! Si estás interesado en colaborar, a continuación hay una lista de las tareas a realizar, para la organización es necesario anotarse y enumerar que tarea podrías realizar. Es importante usar la Página  Wiki personal en este sitio para conocernos mejor 😉
+PyConAr es un evento llevado a cabo por voluntarios (ad-honorem) por lo tanto, ¡necesitamos tu ayuda! Si estás interesado en colaborar, a continuación hay una lista de las tareas a realizar, para la organización es necesario anotarse y enumerar que tarea podrías realizar. Es importante usar la Página  Wiki personal en este sitio para conocernos mejor 😉
 
 Comité de Programa
 ~~~~~~~~~~~~~~~~~~

@@ -11,30 +11,30 @@ Documentación
 
 * :strike:`Escribir` `PyConArgentina/2012/LlamadoPropuestas`_ [MarianoReingart_]
 
-* Escribir `PyConArgentina/2012/DocumentoFormal`_ para UNQ: pedido de autorización de aulas, mesas, sillas, cableado, energía, solicitud de colaboración para registración, traducción, filmación, etc. [SebastianBassi_]
+* Escribir `PyConArgentina/2012/DocumentoFormal` para UNQ: pedido de autorización de aulas, mesas, sillas, cableado, energía, solicitud de colaboración para registración, traducción, filmación, etc. [SebastianBassi_]
 
-* :strike:`Escribir` `PyConArgentina/2012/PressRelease`_
+* :strike:`Escribir` `PyConArgentina/2012/PressRelease`
 
-* :strike:`Escribir` `PyConArgentina/2012/InvitacionAlPublico`_
+* :strike:`Escribir` `PyConArgentina/2012/InvitacionAlPublico`
 
-* Escribir `PyConArgentina/2012/Memoria`_ y `PyConArgentina/2012/Balance`_ [nadia] (post-conferencia!)
+* Escribir `PyConArgentina/2012/Memoria` y `PyConArgentina/2012/Balance` [nadia] (post-conferencia!)
 
 Difusión
 --------
 
 * :strike:`Difundir` `PyConArgentina/2012/LlamadoSponsors`_:strike:`,` `PyConArgentina/2012/LlamadoPropuestas`_:strike:`, etc. !!!!!`
 
-* :strike:`Difundir` `PyConArgentina/2012/PressRelease`_
+* :strike:`Difundir` `PyConArgentina/2012/PressRelease`
 
 * :strike:`Anunciar keynotes`
 
-* Armar AnuncioPublicitario_ gráfico y/o radial?
+* Armar `AnuncioPublicitario` gráfico y/o radial?
 
 * :strike:`Crear Flyers / Panfletos para pegar cada un mes y medio en las facultades de Buenos Aires e Interior!`
 
 * :strike:`Anunciar Tutoriales`
 
-* :strike:`Difundir` `PyConArgentina/2012/InvitacionAlPublico`_ [ro]
+* :strike:`Difundir` `PyConArgentina/2012/InvitacionAlPublico` [ro]
 
 * Enviar recordatorios y :strike:`notificaciones`
 
@@ -83,11 +83,11 @@ Sitio Web
 
 * :strike:`Ajustar notificaciones (incluir url del comentario, actividad, etc.)`
 
-* :strike:`Preparar Integración con` DineroMail_ :strike:`(bono contribución)`  [AlanEtkin_]
+* :strike:`Preparar Integración con DineroMail` :strike:`(bono contribución)`  [AlanEtkin]
 
 * :strike:`Probar generación de PDF (badge y certificados)`
 
-* :strike:`Mejorar Schedule (Cronograma), hacer una tabla como` `PyCon US`_ [AlanEtkin_]
+* :strike:`Mejorar Schedule (Cronograma), hacer una tabla como` `PyCon US`_ [AlanEtkin]
 
 * :strike:`Integrar con Google Calendar / iCal`
 
@@ -161,7 +161,7 @@ Acreditación
 
 * Armar stand de acreditación
 
-* Reunir `PyConArgentina/2012/EncargadosAcreditacion`_
+* Reunir `PyConArgentina/2012/EncargadosAcreditacion`
 
 * Instalar PC para seguimiento de asistentes
 
@@ -197,7 +197,11 @@ Fiestas y Social
 
 .. ############################################################################
 
-
+.. _PyConArgentina/2012/LlamadoSponsors: /PyConArgentina/2012/llamadosponsors
+.. _PyConArgentina/2012/LlamadoPropuestas: /PyConArgentina/2012/llamadopropuestas
+.. _pyconargentina/2012/alojamientocompartido: /PyConArgentina/2012/alojamientocompartido
+.. _pyconargentina/2012/transportecompartido: /PyConArgentina/2012/transportecompartido
+.. _pyconargentina/2012/encargadosaula: /PyConArgentina/2012/encargadosaula
 
 .. _PyCon US: https://us.pycon.org/2012/schedule/
 

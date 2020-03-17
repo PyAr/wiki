@@ -1,5 +1,5 @@
 
-**Python Argentina declara abierto el proceso de creación de las Remeras 3.0.**. Las realizará el `taller de serigrafía de la agrupación Mazamorra`_ de Córdoba Capital. Los plazos son ajustados para aprovechar la realización de la PyConAr_
+**Python Argentina declara abierto el proceso de creación de las Remeras 3.0.**. Las realizará el `taller de serigrafía de la agrupación Mazamorra`_ de Córdoba Capital. Los plazos son ajustados para aprovechar la realización de la PyConAr
 
 Resultado
 ---------
@@ -72,7 +72,7 @@ Plazos
 
 * desde  **el sábado 2 hasta el martes 5 de octubre** para votar el diseño
 
-* desde ahora hasta el martes 5 de octubre para hacer tu pedido y recibir tu remera en PyConAr_. (si no llegás a anotarte antes de esa fecha, consultá si queda stock a ``gaitan EN gmail PUNTO com`` )
+* desde ahora hasta el martes 5 de octubre para hacer tu pedido y recibir tu remera en PyConAr. (si no llegás a anotarte antes de esa fecha, consultá si queda stock a ``gaitan EN gmail PUNTO com`` )
 
 .. ############################################################################
 

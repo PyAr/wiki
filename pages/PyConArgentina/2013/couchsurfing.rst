@@ -2,9 +2,9 @@
 CouchSurfing en PyConAr2013
 ===========================
 
-Esta pagina sirve para todos aquellos que tienen o buscan un lugar para hospedarse durante el PyConAr_ 2013 en Rosario.
+Esta pagina sirve para todos aquellos que tienen o buscan un lugar para hospedarse durante el PyConAr 2013 en Rosario.
 
-Ademasno olvides que podes agruparte con más gente y consultar a la gente de RosarioAlojamientos_.com. Cuando los contactes, no olvides mencionar que vas a PyConAr2013_, ellos están al tanto de la conferencia y nos consiguen precio en hostels y departamentos compartidos.
+Ademas no olvides que podes agruparte con más gente y consultar a la gente de `RosarioAlojamientos.com`. Cuando los contactes, no olvides mencionar que vas a PyConAr2013, ellos están al tanto de la conferencia y nos consiguen precio en hostels y departamentos compartidos.
 
 Como funciona?
 --------------

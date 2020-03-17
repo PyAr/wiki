@@ -2,7 +2,7 @@
 TransportSurfing en PyConAr2013
 ===============================
 
-Esta pagina sirve para todos aquellos que buscan un lugar en el asiento de algun transporte para ir a PyConAr_ o solo buscan gente para no hacer el viaje en soledad
+Esta pagina sirve para todos aquellos que buscan un lugar en el asiento de algun transporte para ir a PyConAr o solo buscan gente para no hacer el viaje en soledad
 
 Como funciona?
 --------------
@@ -34,7 +34,7 @@ Guests Disponibles
 Viajantes Disponibles
 ---------------------
 
-* Mariano Guerra (mariano at marianoguerra dot org), de no conseguir transporte busco secuaces para viajar en bus de la terminal de cordoba el dia anterior a la PyConAr_.
+* Mariano Guerra (mariano at marianoguerra dot org), de no conseguir transporte busco secuaces para viajar en bus de la terminal de cordoba el dia anterior a la PyConAr.
 
 * Emilio Ramirez (emilioramirez04 at gmail dot com), busco transporte, soy de Córdoba Capital. De no conseguir transporte estoy analizando ir en cole o tren. Cole: mas caro, llegas mas rapido, vas y volves cuando queres. Tren: re barato, llevas mas lento, vas el miércoles, volvés el lunes. `Ferrocentral S.A`_
 
