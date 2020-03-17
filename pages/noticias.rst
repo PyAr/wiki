@@ -217,3 +217,5 @@ Anteriores
 
 .. _pyday: /pyday
 .. _pyar: /pyar
+
+.. _llamado a sedes: /PyConArgentina/2013/llamadosedes

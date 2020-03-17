@@ -2,7 +2,7 @@
 Reunión 13 - 01/02/2006 - Hip Bar
 =================================
 
-* Asistentes: ¡Volvimos a nuestro record histórico! Fuimos trece: GuillermoGonzalez_, AlejandroJCura_, FacundoBatista_, MarianoDraghi_, AlejandroDavidWeil_, PabloZiliani_, RicardoKirkner_, LeitoMonk_, GuillermoNarvaja_, MilenaArmada_, NubIs_,  SantiagoPereson_, Sergio
+* Asistentes: ¡Volvimos a nuestro record histórico! Fuimos trece: GuillermoGonzalez_, AlejandroJCura_, FacundoBatista_, MarianoDraghi_, AlejandroDavidWeil_, PabloZiliani_, RicardoKirkner_, LeitoMonk_, GuillermoNarvaja, MilenaArmada, NubIs_,  SantiagoPereson_, Sergio
 
 * Fue una reunión muy provechosa. Se tocaron múltiples temas:
 
@@ -28,7 +28,7 @@ Reunión 13 - 01/02/2006 - Hip Bar
 
     * Tenemos pendiente poner alguna nota más llamativa de agradecimiento a Decode y GrULiC por los servicios de hosting que nos prestan.
 
-  * NubIs_ nos contó del estado actual de `Proyectos/Caucho/ActionSprite`_.
+  * NubIs_ nos contó del estado actual de Proyectos/Caucho/ActionSprite.
 
   * MarianoDraghi_ comentó que tuvimos contacto con gente de Python de Uruguay, que también está formando un grupo, y de que hay intenciones de a futuro colaborar entre ambos grupos.
 
@@ -40,7 +40,7 @@ Reunión 13 - 01/02/2006 - Hip Bar
 
   * AlejandroJCura_ propuso armar un ReleaseProcedure_ para cada reunión, de manera que estén claros y documentados para todos los pasos, y no nos pasen cosas como olvidarnos de anunciar la reunión en algún lado, o de publicar la agenda, etc. La idea está buena, y la vamos a poner en práctica.
 
-  * FacundoBatista_ nos dió detalles sobre como es una lightning talk. Les recordamos a todos que está habilitada una página para que aportemos letra: `Eventos/Conferencias/PyCon2006`_.
+  * FacundoBatista_ nos dió detalles sobre como es una lightning talk. Les recordamos a todos que está habilitada una página para que aportemos letra: Eventos/Conferencias/PyCon2006.
 
   * Hablamos sobre la organización formal del grupo. Convenimos en que por ahora es una carga administrativa y de tiempos demasiado grande el transformarnos en una asociación. LeitoMonk_ nos propuso contactarnos con alguna fundación y/o organización existente, que actúe como *paraguas*, para aquellos casos en que necesitemos una figura legal que nos represente (ejemplo: para recibir donaciones).
 

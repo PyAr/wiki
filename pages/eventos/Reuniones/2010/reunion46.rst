@@ -20,7 +20,7 @@ Temario
 
 * Organización PyCamp_ 2011
 
-* PyAr_ y PyBar_
+* PyAr_ y PyBar
 
 Minuta
 ------

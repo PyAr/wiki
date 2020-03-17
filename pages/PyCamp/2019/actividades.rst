@@ -185,3 +185,7 @@ Algunas funcionalidades:
 
 Excusa: aprender algo de asyncio y pyQT/kivy/etc para la interfaz
 Propone: matuu
+
+
+.. _Ideas para programar: /ideas-para-programar
+

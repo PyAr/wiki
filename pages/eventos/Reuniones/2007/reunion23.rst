@@ -41,7 +41,7 @@ Los presentes al iniciar la reunión número 25, 24.... 23 de PyAr_ (tuvimos que
 
 * Matías Eissler
 
-* CesarPortela_
+* CesarPortela
 
 Durante el trascurso de la reunión llegó más y más gente...
 

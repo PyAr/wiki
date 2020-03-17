@@ -33,7 +33,7 @@ Para detalles de la inscripción: http://is.gd/8zTTD
 
 * AnthonyLenton_
 
-* LucasLiendo_
+* LucasLiendo
 
 * `Mariano Mara`_
 
@@ -51,7 +51,7 @@ Para detalles de la inscripción: http://is.gd/8zTTD
 
 * Alberto Paparelli
 
-* SantiagoPiccinini_ (posiblemente solo 6, 7, 8)
+* SantiagoPiccinini (posiblemente solo 6, 7, 8)
 
 * `ManuelQuiñones`_
 
@@ -81,7 +81,7 @@ Para detalles de la inscripción: http://is.gd/8zTTD
 
 * JohnLenton_
 
-* JavierMansilla_
+* JavierMansilla
 
 * ManuelKaufmann_ (Humareda_)
 
@@ -128,3 +128,6 @@ Para detalles de la inscripción: http://is.gd/8zTTD
 .. _johnlenton: /johnlenton
 .. _pycamp: /pycamp
 .. _ricardoquesada: /ricardoquesada
+.. _NicoEchániz: /nicoechaniz
+.. _ManuelQuiñones: /manuelquinones
+.. _ManuelKaufmann: /miembros/humitos

@@ -35,3 +35,5 @@ ejemplo que hace lo mismo que GtkHolaMundo_ pero orientado a objetos
         hola.show()
         gtk.main()
 
+
+.. _GtkHolaMundo: /Recetario/Gui/Gtk/holamundo

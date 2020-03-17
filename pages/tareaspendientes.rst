@@ -2,7 +2,7 @@
 Tareas Pendientes
 =================
 
-Esta es una lista de tareas que tenemos pendientes. También llevamos un registro de `/TareasRealizadas`_.
+Esta es una lista de tareas que tenemos pendientes. También llevamos un registro de `TareasRealizadas </TareasPendientes/tareasrealizadas>`__.
 
 Sitio
 -----
@@ -42,9 +42,9 @@ El Wiki requiere ciertas tareas rutinarias:
 
 * Mantener actualizadas las Noticias_ y los marcadores ``ULTIMAS_START`` y ``ULTIMAS_END``, para que se visualicen correctamente las últimas noticias en la página Inicio.
 
-* Corregir las `páginas con FIXMEs`_.
+* Corregir las páginas con FIXMEs.
 
-* Revisar las WantedPages_, para ver si hay páginas pendientes de edición, o *broken links*.
+* Revisar las WantedPages, para ver si hay páginas pendientes de edición, o *broken links*.
 
 Promoción
 ---------
@@ -61,7 +61,7 @@ Promoción
 
 .. ############################################################################
 
-
+.. _Eventos/Conferencias: /eventos/conferencias
 .. _pyar: /pyar
 .. _noticias: /noticias
 .. _recursos: /recursos

@@ -8,3 +8,4 @@ Mi propuesta de remera, robada salvajemente
 .. image:: /images/RemerasV3/LucioTorre1/remera1.png
 
 .. _luciotorre1: /RemerasV3/luciotorre1
+.. _LucioTorre2: /RemerasV3/luciotorre2

@@ -12,13 +12,13 @@ A: 9 – 12:40 B: 14 – 17:10 C: 18 – 20:40 D: 22 - ...
 
 * CDPedia      Sa – B
 
-* BugDay_       Lu – A
+* BugDay       Lu – A
 
 * PyAFIP       Ma – B
 
 * PythonCard_   Ma – B
 
-* PyconTech_    Ma – A
+* PyconTech    Ma – A
 
 * Naushika     Do – B
 
@@ -44,9 +44,9 @@ A: 9 – 12:40 B: 14 – 17:10 C: 18 – 20:40 D: 22 - ...
 
 * PyCamp_       Reunion
 
-* PyCon2009_    Reunion
+* PyCon2009    Reunion
 
-* EditorDeathMatch_     D
+* EditorDeathMatch     D
 
 * FUSE Lu – C
 

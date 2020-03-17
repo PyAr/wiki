@@ -197,7 +197,7 @@ Plataforma para la creación colaborativa de proyectos musicales. Orientado a tr
 
 * web merges/ pull requests (me gusta esa pista la integro a mi proyecto con un click)
 
-*Propone* SantiagoPiccinini_
+*Propone* SantiagoPiccinini
 
 Buscador de audio
 ~~~~~~~~~~~~~~~~~
@@ -212,7 +212,7 @@ Para esto se pueden usar distintas técnicas, en prinicpio se me ocurre:
 
 * En frecuencias utilizando algo del estilo de http://en.wikipedia.org/wiki/Mel-frequency_cepstrum
 
-*Propone* DiegoMascialino_
+*Propone* DiegoMascialino
 
 Trabajar en Shiva
 ~~~~~~~~~~~~~~~~~
@@ -229,14 +229,14 @@ Mejorar la parte de lyrics:
 
 * Soporte para guardar la información en los tags de los archivo. Para poder agregarle la información obtenida a cada mp3, para visualizarla cuando se reproduce el archivo en un teléfono o ipod.
 
-*Propone* DiegoMascialino_
+*Propone* DiegoMascialino
 
 Beam: editor de texto por consola
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 La idea es hacer un editor de texto básico como el notepad pero por consola e inspirado en vim. De vim se toma la idea de tener varios modos/estados para interactuar, y lo de ser básico es para que sea muy customizable mediante plugins. Los plugins serían eggs instalables con pip y configurables en un settings.py (similar al .vimrc) que se puede versionar y compartir en un repo. Tengo un archivo beam.py que ya cuenta con el modo comando y modo inserción y permite editar un archivo y guardarlo. Estoy usando la librería urwid hecha en python (y bastante pythonica) para el dibujado de la consola. Pero falta definir mejor la arquitectura del editor. **Propuesta:** llegar a una version 0.1 que funcione(?), tenga las bases para integrarse con plugins y si queda tiempo, escribir algunos plugins.
 
-*Propone* HernanLozano_
+*Propone* HernanLozano
 
 Python en las escuelas con pilas-editor
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -388,7 +388,9 @@ Dado el cercano cierre de Google Reader, busqué alternativas libres y la mejor 
 Mejorar Ojota
 ~~~~~~~~~~~~~
 
-Ojota[0] es una base de datos flat file que desarrollamos en MSA y liberamos y reescribimos el el pycamp pasado. Este año la idea es mejorarlo y agregarle funcionalidad. Ideas: * mejorar el orden por default, que no funciona demasiado bien. * agregar opcion para que se precachee la data en memoria automaticamente cuando se importa la clase o aunque sea que haya un comando de cacheo * agregar capacidad para devolver representaciones en json para el set de datos [0] http://ojota.rtfd.org *Propone:* FelipeLerena_
+Ojota[0] es una base de datos flat file que desarrollamos en MSA y liberamos y reescribimos el el pycamp pasado. Este año la idea es mejorarlo y agregarle funcionalidad. Ideas: * mejorar el orden por default, que no funciona demasiado bien. * agregar opcion para que se precachee la data en memoria automaticamente cuando se importa la clase o aunque sea que haya un comando de cacheo * agregar capacidad para devolver representaciones en json para el set de datos [0] http://ojota.rtfd.org
+
+*Propone:* FelipeLerena
 
 Mejorar Havaiana
 ~~~~~~~~~~~~~~~~
@@ -399,12 +401,14 @@ Ideas: * mejorar el tema de los graficos. * hacer que se pueda servir tipo web s
 
 [0] http://havaiana.rtfd.org [1] http://ojota.rtfd.org
 
-*Propone:* FelipeLerena_
+*Propone:* FelipeLerena
 
 hackeando desde el aire
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-Tengo un AR Drone y lo llevo, la idea es hacer cosas copadas para eso. *Propone:* FelipeLerena_
+Tengo un AR Drone y lo llevo, la idea es hacer cosas copadas para eso.
+
+*Propone:* FelipeLerena
 
 .. ############################################################################
 

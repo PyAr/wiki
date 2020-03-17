@@ -13,7 +13,7 @@ Marcos Doerschlag
 
 * Hecha con: Inkscape 0.44.1
 
-* Licencia: Creative Commons Attribution-ShareAlike_ 2.5 License.
+* Licencia: Creative Commons Attribution-ShareAlike 2.5 License.
 
 Marcos1
 ~~~~~~~
@@ -27,7 +27,7 @@ Héctor Sanchez
 
 * Hecha con: Inkscape
 
-* Licencia: Creative Commons Attribution-ShareAlike_ 2.5 License.
+* Licencia: Creative Commons Attribution-ShareAlike 2.5 License.
 
 Hector1
 ~~~~~~~
@@ -94,7 +94,7 @@ Facundo Batista
 
 * Hechas con: Inkscape
 
-* Licencia: Creative Commons Attribution-ShareAlike_ 2.5 License.
+* Licencia: Creative Commons Attribution-ShareAlike 2.5 License.
 
 Facundo1
 --------
@@ -137,7 +137,7 @@ Timoteo O'Reilly
 
 * Hechas con: Inkscape 0.43
 
-* Licencia: Creative Commons Attribution-ShareAlike_ 2.5 License.
+* Licencia: Creative Commons Attribution-ShareAlike 2.5 License.
 
 * (la imagen de la boa esta basada en "Cassell's Popular Natural History, London, circa. 1880" )
 
@@ -191,7 +191,7 @@ Sergio1
 
     Esta bandera debió ser *descalificada* porque no  cumple con las `reglas del concurso`_.
 
-Igual podés verla acá: `Banderas Descalificadas`_
+Igual podés verla acá: `Banderas Descalificadas </Bandera/descalificadas>`__
 
 
 
@@ -202,7 +202,7 @@ Pablo Ziliani
 
 * Hechas con: Adobe Illustrator
 
-* Licencia: Creative Commons Attribution-ShareAlike_ 2.5 License.
+* Licencia: Creative Commons Attribution-ShareAlike 2.5 License.
 
 * Basado en: http://commons.wikimedia.org/wiki/Image:Sol_de_Mayo-Bandera_de_Argentina.svg
 

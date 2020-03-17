@@ -24,7 +24,7 @@ Página personal en wiki PyAr_: FacundoBatista_
 
 Mini CV:
 
-  Facundo Batista es Ingeniero Electrónica de la Universidad Nacional de La Matanza, con un Master en Ingeniería de la Innovación en la Universidad de Bologna, Italia. Trabajó en Movistar (antes Unifón) durante seis años, en el área de Administración de Redes Celulares, luego fué Jefe de Desarrollo en CycleLogic_ por un año y medio, Arquitecto de Soluciones en Ericsson Argentina, en la parte Multimedia, y ahora es Senior Software Developer en Canonical, programando Python en el equipo de Online Services. Fue profesor en la Universidad de La Matanza y en diversas instituciones secundarias y terciarias. También posee una amplia experiencia como analista de sistemas y programador, tanto freelance como bajo contrato, en diversos sistemas en múltiples plataformas y lenguajes. Siguiendo en el ámbito de la programación, ama Python, habiéndose convertido en Desarrollador Oficial del lenguaje y miembro de la Python Software Foundation, fundando luego Python Argentina. Fue invitado como expositor a numerosas conferencias nacionales e internacionales y dictó cursos de Python en Universidades, ámbitos terciarios, y para particulares y empresas (más info: http://www.taniquetil.com.ar/facundo/cursoPython.html).
+  Facundo Batista es Ingeniero Electrónica de la Universidad Nacional de La Matanza, con un Master en Ingeniería de la Innovación en la Universidad de Bologna, Italia. Trabajó en Movistar (antes Unifón) durante seis años, en el área de Administración de Redes Celulares, luego fué Jefe de Desarrollo en CycleLogic por un año y medio, Arquitecto de Soluciones en Ericsson Argentina, en la parte Multimedia, y ahora es Senior Software Developer en Canonical, programando Python en el equipo de Online Services. Fue profesor en la Universidad de La Matanza y en diversas instituciones secundarias y terciarias. También posee una amplia experiencia como analista de sistemas y programador, tanto freelance como bajo contrato, en diversos sistemas en múltiples plataformas y lenguajes. Siguiendo en el ámbito de la programación, ama Python, habiéndose convertido en Desarrollador Oficial del lenguaje y miembro de la Python Software Foundation, fundando luego Python Argentina. Fue invitado como expositor a numerosas conferencias nacionales e internacionales y dictó cursos de Python en Universidades, ámbitos terciarios, y para particulares y empresas (más info: http://www.taniquetil.com.ar/facundo/cursoPython.html).
 
 Propuestas:
 
@@ -51,7 +51,7 @@ Página personal en wiki PyAr_: MarianoReingart_
 
 Mini CV:
 
-  Licenciado en Sistemas, actualmente finalizando el Máster en Software Libre (UOC) y Profesorado en Disciplinas Industriales (UTN-INSPT). Analista-Programador Freelance (emprendimiento propio "Sistemas Ágiles") y Docente (nivel terciario). Contacto Regional de PostgreSQL para Argentina desde 2011. Miembro de la Python Software Foundation desde 2012. Desarrollador principal de Web2py, commiter de wxWidgets (wxQT / wxPython + Android: proyecto p/ "Google Summer of Code 2014"), con más de una decena de proyectos de software libre en GoogleCode_ y GitHub_, incluyendo Factura Electrónica Libre (PyAfipWs_) y librerías para webservices, pdf, replicación, entre otras herramientas. Experiencia en desarrollo de Aplicaciones Empresariales de gestión administrativa/contable (ERP/SCM/CRM) y sistemas de Misión Crítica como Emergencias 911, Recuento Electoral y Boleta única de Voto Electrónico. Organizador de varios eventos (PgDay_'s, PyDay_'s y coordinador general de PyCon_ Argentina 2012), ha sido disertante y expositor en varias conferencias nacionales e internacionales, incluyendo PyCon_ US 2012 y PgCon_ Brasil 2009, presentando trabajos en la JAIIO y similares. Co-autor del libro "web2py aplication development cookbook" Packt (marzo 2012). . http://reingart.blogspot.com/p/resume.html
+  Licenciado en Sistemas, actualmente finalizando el Máster en Software Libre (UOC) y Profesorado en Disciplinas Industriales (UTN-INSPT). Analista-Programador Freelance (emprendimiento propio "Sistemas Ágiles") y Docente (nivel terciario). Contacto Regional de PostgreSQL para Argentina desde 2011. Miembro de la Python Software Foundation desde 2012. Desarrollador principal de Web2py, commiter de wxWidgets (wxQT / wxPython + Android: proyecto p/ "Google Summer of Code 2014"), con más de una decena de proyectos de software libre en GoogleCode_ y GitHub_, incluyendo Factura Electrónica Libre (PyAfipWs_) y librerías para webservices, pdf, replicación, entre otras herramientas. Experiencia en desarrollo de Aplicaciones Empresariales de gestión administrativa/contable (ERP/SCM/CRM) y sistemas de Misión Crítica como Emergencias 911, Recuento Electoral y Boleta única de Voto Electrónico. Organizador de varios eventos (PgDay's, PyDay_'s y coordinador general de PyCon_ Argentina 2012), ha sido disertante y expositor en varias conferencias nacionales e internacionales, incluyendo PyCon_ US 2012 y PgCon Brasil 2009, presentando trabajos en la JAIIO y similares. Co-autor del libro "web2py aplication development cookbook" Packt (marzo 2012). . http://reingart.blogspot.com/p/resume.html
 
 Propuestas (adhiere también a las propuestas de Facundo)
 
@@ -59,7 +59,7 @@ Propuestas (adhiere también a las propuestas de Facundo)
 
 * Adquirir materiales didácticos (Raspberry Pi, robots educativos o similares) para fomentar la enseñanza de programación con Python, armando desafíos, concursos y aulas rodantes.
 
-* Explorar la realización de "meta-eventos" (sobre Python y tecnologías relacionadas como por ejemplo: PostgreSQL, Sugar, Huayra, etc... con multiples ejes: general, investigación, educación, expertos) pensando a futuro un PyCon_ "ConoSur_" para facilitar la integración regional y formación de desarrolladores (al estilo de "PyCon_ US" o "EuroPycon_")
+* Explorar la realización de "meta-eventos" (sobre Python y tecnologías relacionadas como por ejemplo: PostgreSQL, Sugar, Huayra, etc... con multiples ejes: general, investigación, educación, expertos) pensando a futuro un PyCon_ "ConoSur" para facilitar la integración regional y formación de desarrolladores (al estilo de "PyCon_ US" o "EuroPycon")
 
 * Fomentar la publicación de libros (por ej. "web2py en español") y revistas períodicas (por ej. proceedings/anales de las conferencias), gestionando ISBN/ISSN y demás.
 
@@ -172,7 +172,7 @@ Cargo: Vocal
 Mini CV:
 ::::::::
 
-Experiencia con python desde hace unos 8 años (más fuerte en los últimos 6), y miembro activo de la comunidad (asisto a varios de los eventos que se hacen cada año, incluyendo haber organizado una PyConAr_ junto con Ariel Rossanigo). Trabajo en cosas relacionadas al desarrollo web y a la inteligencia artificial, también programo bastante por hobbie, y suelo participar de PyAr_ tanto por la posibilidad de seguir aprendiendo, como por la de poder aportar un poco de lo que se a los demás. Aparte de ello también utilizo python para dar clases en la universidad. Mi CV completo está `acá`_, y también pueden ver cosas que hago con python en github_.
+Experiencia con python desde hace unos 8 años (más fuerte en los últimos 6), y miembro activo de la comunidad (asisto a varios de los eventos que se hacen cada año, incluyendo haber organizado una PyConAr junto con Ariel Rossanigo). Trabajo en cosas relacionadas al desarrollo web y a la inteligencia artificial, también programo bastante por hobbie, y suelo participar de PyAr_ tanto por la posibilidad de seguir aprendiendo, como por la de poder aportar un poco de lo que se a los demás. Aparte de ello también utilizo python para dar clases en la universidad. Mi CV completo está `acá`_, y también pueden ver cosas que hago con python en `fisadev github`_.
 
 Me interesa participar como vocal para poder tener voto en las cosas que hacen a la comunidad y su tarea de difusión y enseñanza.
 
@@ -212,7 +212,7 @@ Me interesa participar como vocal para poder tener voto en las cosas que hacen a
 
 .. _acá: http://goo.gl/tGAR
 
-.. _github: https://github.com/fisadev
+.. _fisadev github: https://github.com/fisadev
 
 .. _pyar: /pyar
 .. _marianoreingart: /marianoreingart

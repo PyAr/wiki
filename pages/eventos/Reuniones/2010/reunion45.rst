@@ -9,7 +9,7 @@ Temario:
 
 * Charlas Abiertas de Python en La Tribu: Conclusiones; Discusión: ¿valen la pena?
 
-* PyAr_ y PyBar_
+* PyAr_ y PyBar
 
 * Llamado por Colaboradores: Proyectos presentados en Conurbania 2010 (python+web2py+postgresql), para hablar sobre organización interna, estado y futuro, cursos, ¿propuestas?, etc.:
 
@@ -77,7 +77,7 @@ Listas de correo
 
 ¿Dividir listas? parecería que hay consenso, pero no tanto con el tema de moderación, sí a la moderación colectiva. Igualmente falta definiciones... sugerncias vs reglas. Igual, como ya se voto, quedaría ese resultado.
 
-Se propuso ir un poco más lejos, creando una nueva lista pyar-anuncios para los eventos y noticias, ya que hay gente que no está suscripta ni a pyar ni a bar. Tambien se hablo sobre encauzar un poco la organización interna con una lista pyar-admin o pyar-meta, y ver que onda con la lista de organización de PyConAr_ que ya existe (continuarla o cerrarla)...
+Se propuso ir un poco más lejos, creando una nueva lista pyar-anuncios para los eventos y noticias, ya que hay gente que no está suscripta ni a pyar ni a bar. Tambien se hablo sobre encauzar un poco la organización interna con una lista pyar-admin o pyar-meta, y ver que onda con la lista de organización de PyConAr que ya existe (continuarla o cerrarla)...
 
 Por último, al hablar de tantas listas, se propuso una global (pyar-todo) que reciba todos los mensajes, que podría también ser alguna otra de las que existen.
 

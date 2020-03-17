@@ -88,6 +88,7 @@ Y cuando puedo, trato de `colaborar en la lista de correo`_
 
 
 
+.. _LinkedIn: http://ar.linkedin.com/in/dmoisset
 .. _FaMAF: http://www.famaf.unc.edu.ar
 
 

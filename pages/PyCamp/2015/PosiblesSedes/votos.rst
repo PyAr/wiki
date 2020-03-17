@@ -33,7 +33,7 @@ La Bolsa, Córdoba
 
 * JuanFisanotti_ (+ bots)
 
-* Nueces_
+* Nueces
 
 * Mariano Falcón
 

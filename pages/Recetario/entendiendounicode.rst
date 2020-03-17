@@ -65,6 +65,7 @@ Ver también:
 .. _Unicode: http://es.wikipedia.org/wiki/Unicode
 
 .. _Unicode en una filmina: http://www.taniquetil.com.ar/unicode.png
+.. _Recetario/NormalizarCaracteresUnicode: /Recetario/normalizarcaracteresunicode
 
 
 .. _LA charla de facu de Unicode: http://tools.assembla.com/svn/homedevel/presents/unicode.odp

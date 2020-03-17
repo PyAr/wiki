@@ -29,7 +29,7 @@ Propuestas
 
 * `RemerasV2/humitos1`_
 
-* `RemeraV2/Juanjo1`_
+* `RemerasV2/Juanjo1`_
 
 * `RemerasV2/CesarRoldan1`_
 
@@ -37,7 +37,7 @@ Propuestas
 
 * `RemerasV2/FacundoBatista5`_
 
-* `RemeraV2/CesarPortela1`_
+* `RemerasV2/CesarPortela1`_
 
 * `RemerasV2/Nubis1`_
 
@@ -152,5 +152,8 @@ Saludos, y largaaaaaaaaaaaaaaaaaron!
 
 .. _RemerasV2/PabloZiliani2: /RemerasV2/pabloziliani2
 
+.. _RemerasV2/Juanjo1: /RemerasV2/juanjo1
+
+.. _remerasv2/cesarportela1: /RemerasV2/cesarportela1
 
 .. _pyar: /pyar

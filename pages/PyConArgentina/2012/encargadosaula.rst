@@ -54,4 +54,5 @@ Anotarse en `Llamado a Voluntarios`_
 
 .. ############################################################################
 
+.. _Llamado a Voluntarios: /PyConArgetnina/2012/llamadovoluntarios
 

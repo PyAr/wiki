@@ -9,7 +9,7 @@ Se estuvo jugando con el framework kivy: http://kivy.org/ , que permite hacer ap
 
 Se instaló el entorno de desarrollo, probaron varios ejemplos, se subieron a distintos dispositivos con distintas versiones de Android, y hasta se hizo una botonera pastillera:
 
-Participantes: FelipeLerena_, HectorSanchez_, Mave, EzequielChan_
+Participantes: FelipeLerena, HectorSanchez_, Mave, EzequielChan
 
 link apk: http://www.felipelerena.com.ar/static/BotoneraPastillera-1.0-debug.apk
 

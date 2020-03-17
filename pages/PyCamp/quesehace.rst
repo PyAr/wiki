@@ -49,3 +49,4 @@ Que se hace en un slot
 
 * al terminar el slot, decidir si seguir y cuando. Hay espacios disponibles además de los dedicados a slots para continuar un desarrollo.
 
+.. _pycamps: /pycamp

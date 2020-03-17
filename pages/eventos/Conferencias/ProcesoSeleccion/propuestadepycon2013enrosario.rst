@@ -158,7 +158,7 @@ Las Charlas Relámpago podrán ser subidas al sitio luego de presentarlas.
 Revisión de Charlas
 -------------------
 
-Para buscar diversidad, simplificar y facilitar la elección de charlas, se utilizará un sistema de votación ponderada como el usado en PyConAr2011/2012 (similar al de PyConBr2011_). (si alecu quiere, alecu here)
+Para buscar diversidad, simplificar y facilitar la elección de charlas, se utilizará un sistema de votación ponderada como el usado en PyConAr2011/2012 (similar al de PyConBr2011). (si alecu quiere, alecu here)
 
 La justificación de cada voto será obligatoria. Se podrá dejar comentarios a los disertantes para que éstos, de ser necesario, puedan modificar o mejorar la charla.
 
@@ -175,7 +175,7 @@ Por motivos de transparencia y rendición de cuentas, todos los ingresos y egres
 
 Las remeras y el merchandising (regalos) serán gratuitas solo para los disertantes y organizadores (de permitirlo el presupuesto), tendrían un costo (bono contribución) para los asistentes que quieran adquirirlos.
 
-Los auspiciantes podrán realizar donaciones en las categorías manejadas para eventos anteriores. Los fondos excedentes que se generen de la realización del evento quedarán a disponibilidad de futuras ediciones de PyConAr_.
+Los auspiciantes podrán realizar donaciones en las categorías manejadas para eventos anteriores. Los fondos excedentes que se generen de la realización del evento quedarán a disponibilidad de futuras ediciones de PyConAr.
 
 Uno de los objetivos de la conferencia es difundir el lenguaje Python en Argentina y en Rosario, para lo que la Municipalidad brindará apoyo en materia de prensa y difusión del evento pudiendo contar con su red de prensa ya organizada y fija, medios de comunicación y de difusión todos firmemente consolidados, además de personal con basta experiencia en eventos internacionales.
 
@@ -184,7 +184,7 @@ Tenemos pensado destinar parte del presupuesto para becas y que tales adjudicaci
 Sitio Web
 ---------
 
-Se utilizará el sitio utilizado en el PyDay_ de Córdoba (PyConAr2012_) que ya cumple con la mayoría de la funcionalidad necesaria:
+Se utilizará el sitio utilizado en el PyDay_ de Córdoba (PyConAr2012) que ya cumple con la mayoría de la funcionalidad necesaria:
 
 * inscripción (asistentes, disertantes y organizadores)
 

@@ -14,7 +14,7 @@ Mi proyecto mas "famoso" es emesene (http://emesene.org) y tengo algunos otros p
 
 * site: http://marianoguerra.org
 
-* `mis snippets están en el recetario`_
+* mis snippets están en el `recetario </recetario>`__
 
 .. ############################################################################
 

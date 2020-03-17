@@ -234,3 +234,5 @@ Hace muchos años que juego ese juego y nunca lo pude ganar. Me gustaría que al
 
 Propone: alecu
 
+
+.. _Ideas para programar: /ideas-para-programar

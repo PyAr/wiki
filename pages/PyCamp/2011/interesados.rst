@@ -44,7 +44,7 @@ Instrucciones para confirmar la asistencia y pagar la reserva en `PyCamp 2011`_
 
 * DanielMoisset_
 
-* MaxiRobaina_
+* MaxiRobaina
 
 * Emilio Ramirez
 
@@ -62,7 +62,7 @@ Instrucciones para confirmar la asistencia y pagar la reserva en `PyCamp 2011`_
 
 * RamiroMorales_
 
-* SebastianAlvarez_
+* SebastianAlvarez
 
 * DiegoSarmentero_
 

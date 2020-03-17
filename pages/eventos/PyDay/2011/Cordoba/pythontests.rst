@@ -4,7 +4,7 @@ Mythbusters: Tests
 
 * Evento: `PyDay 2011`_
 
-* Disertante: NataliaBidart_
+* Disertante: NataliaBidart
 
 .. * Presentación:
 

@@ -92,3 +92,4 @@ Anteriores
 .. _Año 2004: /Noticias/2004
 .. _Año 2005: /Noticias/2005
 .. _Año 2006: /Noticias/2006
+.. _el BDFL junto a nuestra bandera: /Noticias/gvrybandera.rst

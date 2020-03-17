@@ -112,7 +112,7 @@ Se puede encontrar la lista de cambios en `"Whats New 3.0"`_. En general, son co
 
   * Se elimina ``<>`` (usar ``!=``)
 
-  * ``!=`` devuelve lo opuesto de ``==``, salvo que ``==`` devuelva NotImplemented_.
+  * ``!=`` devuelve lo opuesto de ``==``, salvo que ``==`` devuelva NotImplemented.
 
   * Los operadores de ordenamiento se comportan diferentes cuando se compara tipos incompatibles (lanza excepción)
 

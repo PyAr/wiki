@@ -49,7 +49,7 @@ El diccionario ``environ`` que se recibe con cada pedido HTTP, contiene las vari
 
 * SERVER_PROTOCOL: la versión del protocolo ("HTTP/1.0" or "HTTP/1.1")
 
-* Variables HTTP_
+* Variables HTTP
 
 Configuración apache + mod_python
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

@@ -117,15 +117,15 @@ Encargados de distintas cosas
 
 * Tener Internet:
 
-* WiFi_ (APs): HoracioDuran_ (FedeHeinz_, si hace falta)  - Karucha lleva un AP,
+* WiFi (APs): HoracioDuran_ (FedeHeinz, si hace falta)  - Karucha lleva un AP,
 
 * Red cableada:
 
-* Requerimientos Dietarios: NatyBidart_ (agregar prefs en `RequerimientosDietarios`_)
+* Requerimientos Dietarios: NatyBidart (agregar prefs en `RequerimientosDietarios`_)
 
 * Armado del programa (tentativo?):
 
-* Remera: RayentrayTappa_ (?)
+* Remera: RayentrayTappa (?)
 
 * Todo lo demás: JohnLenton_
 
@@ -154,9 +154,9 @@ Si te gusta el café Bonafide Franja Blanca anotate aca con la fracción con la 
 
 * 1/4 MarianoReingart_
 
-* 1/4 FedericoPeretti_
+* 1/4 FedericoPeretti
 
-* 1/4 AndresLopezLuksenber_
+* 1/4 AndresLopezLuksenber
 
 * 1/4 HectorSanchez_
 

@@ -6,7 +6,7 @@ Adjuntamos el diseño de las remeras de PyAr_, versión 1.0 ;-). Para el proceso
 
 .. image:: /images/Remeras/remerapyar.jpg
 
-Acá pueden ver el artwork original del cual salieron, creado alguna noche allá en otra vida en la casa de `un tal Pablo`_, junto con LucioTorre_ y MarianoDraghi_.
+Acá pueden ver el artwork original del cual salieron, creado alguna noche allá en otra vida en la casa de un tal Pablo, junto con LucioTorre_ y MarianoDraghi_.
 
 .. image:: /images/Remeras/remeras.png
 

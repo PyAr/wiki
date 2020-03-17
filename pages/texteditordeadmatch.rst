@@ -21,7 +21,7 @@ Anotados
 
 1. Emacs: JohnLenton_
 
-#. Kate: JaviMansilla_
+#. Kate: JaviMansilla
 
 #. VIM con muchas ganas de aprender Emacs: ManuelKaufmann_
 
@@ -29,7 +29,7 @@ Anotados
 
 #. Gedit: Achuni
 
-#. Ulipad: SlackDeb_
+#. Ulipad: SlackDeb
 
 #. Eric: nessita
 
@@ -44,3 +44,4 @@ Estaría buenísimo también sacar un conjunto de funcionalidades que la mayorí
 
 .. _johnlenton: /johnlenton
 .. _horacioduran: /horacioduran
+.. _ManuelKaufmann: /miembros/humitos

@@ -20,7 +20,7 @@ Pero hay que animarse a venir al PyCamp_. Y se escucha muchas veces razones como
 
 * Etc.
 
-Entonces, estuve pensando, y creo que lo mejor que puedo hacer para ayudar a la gente que está tan cerca de ir a algo tan groso como un PyCamp_ pero que no termina de animarse, es un workshop pre-PyCamp_ para "limar estos detalles".
+Entonces, estuve pensando, y creo que lo mejor que puedo hacer para ayudar a la gente que está tan cerca de ir a algo tan groso como un PyCamp_ pero que no termina de animarse, es un workshop pre-PyCamp para "limar estos detalles".
 
 ¿Qué estructura tendría este Workshop? Lo estaba pensando en dos partes más bien separadas, una donde dejemos la computadora de cada uno lista para trabajar, y otra donde aprendamos las distintas herramientas...
 
@@ -59,9 +59,9 @@ Gracias por esta ayuda, coordinemos la misma también por privado [0].
 Lista de interesados para asistir
 ---------------------------------
 
-* OttoWald_
+* OttoWald
 
-* RobertoAlsina_
+* RobertoAlsina
 
 * ManuelKaufmann_
 
@@ -73,6 +73,7 @@ Contacto
 .. ############################################################################
 
 .. _acá: /PyCamp/2012
+.. _ManuelKaufmann: /miembros/humitos
 
 .. _pyar: /pyar
 .. _pycamp: /pycamp

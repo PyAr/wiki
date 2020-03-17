@@ -8,7 +8,7 @@ Porgramo en Python más que nada por diversión con un par de proyectos chicos e
 
 * Web: http://enespanol.com.ar/
 
-* LinkedIn_: http://www.linkedin.com/in/matiasbellone
+* LinkedIn: http://www.linkedin.com/in/matiasbellone
 
 * Twitter: http://twitter.com/toote
 

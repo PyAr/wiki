@@ -14,7 +14,7 @@ También trabajé en empresas del sector (MSA y Lambda Sistemas), desarrollando 
 
 A su vez, desde 2009 soy docente en un Instituto Superior Tecnológico Blaise Pascal (terciario).
 
-He disertado y/o sido colaborador de varios eventos (incluyendo la mayoría de las PyCon_ Argentina, todos los PgDay_ y muchos PyDay_, varias JSRL, CISL, etc.), y fui el coordinador principal de los siguientes eventos:
+He disertado y/o sido colaborador de varios eventos (incluyendo la mayoría de las PyCon_ Argentina, todos los PgDay y muchos PyDay_, varias JSRL, CISL, etc.), y fui el coordinador principal de los siguientes eventos:
 
 * `FliSol 2010`_ en Gonzalez Catan
 
@@ -90,7 +90,7 @@ Colaboraciones
 
 En PyAr_, desde 2008 vengo ayudando a organizar distintas conferencias, jornadas y charlas; tratando de difundir el lenguaje y el grupo de usuarios.
 
-En 2010 he ayudado en las Jornadas Regionales para traer a Massimo Di Pierro (Lider de Proyecto de Web2Py_); y en 2008 ayudé con la organización del PgDay_, que contó con la presencia de David Fetter (PostgreSQL) y otros invitados de la región (Brasil, Venezuela). Siendo el coordinador principal, en 2012 ayude a organizar la PyCon_ Argentina 2012 en conjunto con el PgDay_ Argentina 2012, que contó con varios invitados internacionales, incluyendo a Simon Riggs (Commiter y Major Developer de PostgreSQL), Brett Cannon, Larry Hastings (Core Commiter de Python), entre más de una decena de invitados internacionales y de la región, contando con varios miembros de la PSF y desarrolladores destacados.
+En 2010 he ayudado en las Jornadas Regionales para traer a Massimo Di Pierro (Lider de Proyecto de Web2Py_); y en 2008 ayudé con la organización del PgDay, que contó con la presencia de David Fetter (PostgreSQL) y otros invitados de la región (Brasil, Venezuela). Siendo el coordinador principal, en 2012 ayude a organizar la PyCon_ Argentina 2012 en conjunto con el PgDay Argentina 2012, que contó con varios invitados internacionales, incluyendo a Simon Riggs (Commiter y Major Developer de PostgreSQL), Brett Cannon, Larry Hastings (Core Commiter de Python), entre más de una decena de invitados internacionales y de la región, contando con varios miembros de la PSF y desarrolladores destacados.
 
 Internacionalmente, he dado una charla en PgConBr (Conferencia de PostgreSQL Brasil) sobre Replicación y Python (pyreplica). También presenté poster_ en PyCon_ US 2012, fuí disertante en el `WebDev Summit`_ y participé en los sprints_.
 

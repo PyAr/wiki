@@ -41,7 +41,7 @@ Un temario tentativo incluiría:
 
   * Instalar sistemas de control de versiones
 
-  * Instalar extensiones (PyGTK, PyQt_, WxPython_, PIL, NumPy, etc.)
+  * Instalar extensiones (PyGTK, PyQt_, WxPython, PIL, NumPy, etc.)
 
   * Instalar frameworks (django, web2py, zope/plone, etc.)
 
@@ -74,7 +74,7 @@ Se puede hacer todo durante todo el día (arrancar a las 10hs, terminar a las 20
 Seminario Pre-Pycon
 -------------------
 
-Adicionalmente, desde EducacionIT_ también nos ofrecieron un lugar en Capital Federal para hacer alguna actividad pre-PyCon_, por ejemplo, un seminario para difundir el lenguaje antes de la conferencia. La entidad ya realiza ese tipo de eventos para otros lenguajes, para más información pueden ver la página de dicha organización.
+Adicionalmente, desde EducacionIT_ también nos ofrecieron un lugar en Capital Federal para hacer alguna actividad pre-PyCon, por ejemplo, un seminario para difundir el lenguaje antes de la conferencia. La entidad ya realiza ese tipo de eventos para otros lenguajes, para más información pueden ver la página de dicha organización.
 
 Lista de voluntarios para colaborar
 -----------------------------------
@@ -122,3 +122,5 @@ Si estas interesado en colaborar, por favor anotate en la siguiente lista, indic
 .. _tutorial: /tutorial
 .. _pyar: /pyar
 .. _pycon: /pycon
+
+.. _alojamiento compartido: /PyConArgentina/2012/alojamientocompartido

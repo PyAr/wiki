@@ -33,7 +33,7 @@ Bienvenidos a todos a la minuta de la reunión número 34 de Pyar! Debajo encont
     PabloZiliani (aka "PabloZ")
     DiegoMascialino (1st Time)
     RobertoAlsina
-    FacundoBatista
+    FacundoBatista_
 
  **Los desertores (los que se anotaron y no aparecieron 😕 ):**
 
@@ -70,14 +70,14 @@ Resulta que nos reunimos en el bar `El Imaginario Cultural`_, Bulnes y Guardia V
 
 Y después de elegir una cerveza X y tomar una cerveza Y porque era lo único que tenían, esperamos un rato al resto de la gente, e indignados nos ubicamos nuevamente en la vereda. Ahí, gracias a Mariano "La hormiga exploradora" Reingart, caíamos a las 21hs aprox. en una pizzería llamada "Pachi", ubicada en `Guardia Vieja y Medrano`_, donde nos quedamos el resto de la noche atendidos realmente muy bien!!
 
-Faltaría agradecer a GonzaloLarralde_, cuyo mail enviado al partir de "El Imaginario Cultural" le permitió a DiegoMascialino_ llegar al nuevo bar!
+Faltaría agradecer a GonzaloLarralde_, cuyo mail enviado al partir de "El Imaginario Cultural" le permitió a DiegoMascialino llegar al nuevo bar!
 
 ¿De qué se habló?
 -----------------
 
  PyReplica_ **y experiencia del** `1º PgDay en BsAs`_
 
-MarianoReingart_ nos contó sobre el primer PostgresDay_ en Argentina. El mismo se llevó a cabo en la Asociación de Programadores de Congreso, el 22 de Noviembre del corriente. Parece que salió muy bien ya que vino gente de Brasil, Venezuela y USA, y si bien eran 30 personas nada más, para una primera reunión es un número más que interesante! Mariano ayudó en la organización y también dió una de las cuatro charlas, la referida a PyReplica_, que según la definición de su wiki:
+MarianoReingart_ nos contó sobre el primer PostgresDay en Argentina. El mismo se llevó a cabo en la Asociación de Programadores de Congreso, el 22 de Noviembre del corriente. Parece que salió muy bien ya que vino gente de Brasil, Venezuela y USA, y si bien eran 30 personas nada más, para una primera reunión es un número más que interesante! Mariano ayudó en la organización y también dió una de las cuatro charlas, la referida a PyReplica_, que según la definición de su wiki:
 
 *"*PyReplica_ *es un replicador asincrónico maestro-esclavo simple para PostgreSQL basado en Python, usando un disparador maestro en plpython, señales, secuencias, y un script cliente en python (influenciado por slony & londiste, pero mucho más simple y fácil)."*
 
@@ -85,7 +85,7 @@ También nos repartió pins! 🙂
 
  **Python y los Servicios Web de** `Factura Electrónica`_ **(AFIP), interfaces con otros lenguajes, SIAP libre... (**PyAfip_**)**
 
-Luego MarianoReingart_ paso a explicar la problemática de las grandes empresas, que al ser autoimpresoras de sus facturas deben solicitar por Internet la autorización de emisión pertinente (CAE: Código de Autorización Electrónica) a la AFIP, mediante un WebService_ o la Web directamente, como se explica `aquí`_.  Con el paso del tiempo más y más rubros están siendo obligados a adoptar esta forma de operación, por eso para poder realizar esto desde programas escritos en Python, MarianoReingart_ y MarceloAlaniz_ desarrollaron PyAfipWs_, que según su wiki:
+Luego MarianoReingart_ paso a explicar la problemática de las grandes empresas, que al ser autoimpresoras de sus facturas deben solicitar por Internet la autorización de emisión pertinente (CAE: Código de Autorización Electrónica) a la AFIP, mediante un WebService o la Web directamente, como se explica `aquí`_.  Con el paso del tiempo más y más rubros están siendo obligados a adoptar esta forma de operación, por eso para poder realizar esto desde programas escritos en Python, MarianoReingart_ y MarceloAlaniz_ desarrollaron PyAfipWs_, que según su wiki:
 
 *"*PyAfipWs_ *es una interface COM (automatización) a los Servicios Web de la AFIP (web services de autenticación y factura electrónica), utiliza software libre desarrollado en Python y funciona con cualquier lenguaje compatible que pueda crear objetos COM en Windows (Visual Basic, ASP, Fox Pro, Delphi, .Net, Java, etc.)."*
 
@@ -111,7 +111,7 @@ FacundoBatista_ mencionó los temas críticos y aquellos urgentes para la organi
 
 * Manejo de charlas y disertantes: Alojamiento de gente del exterior, seguridad, etc.
 
-* Elección de fecha: No pisarse con otros eventos (ej: WikiMedia_, PyCon_ Brasil, Regionales de SL, PostgresDay_)
+* Elección de fecha: No pisarse con otros eventos (ej: WikiMedia, PyCon_ Brasil, Regionales de SL, PostgresDay)
 
 * Infraestructura: Sitio Web, etc.
 

@@ -56,7 +56,7 @@ Otros
 
 * Twitter: `@eugeniabahit`_
 
-* LinkedIn_: `linkedin.com/in/eugeniabahit`_
+* LinkedIn: `linkedin.com/in/eugeniabahit`_
 
 * Google+: `+Eugenia Bahit`_
 

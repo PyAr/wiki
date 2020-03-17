@@ -32,7 +32,7 @@ zodbbrowser
 pep8fy
 ------
 
-Pep8fy_ fue una idea de RobertoAlsina_ y como su nombre lo indica, es un pep8ficador de código. La popular herramienta `pep8.py`_ se limita a ejercer el poder acusador de decirte que tu código no pasa la PEP8. En cambio, Pep8fy aspira a hacer esta tarea automáticamente.  La arquitectura es muy simple: con el modulo tokenizer se obtiene una lista de tokens del módulo a pep8ficar que se manipulan mediante una serie de filtros (uno para cada regla definida en la PEP8) y al final se regenera el código con la lista de tokens alterados.  Se lograron algunos filtros, pero es un trabajo en desarrollo.
+Pep8fy_ fue una idea de RobertoAlsina y como su nombre lo indica, es un pep8ficador de código. La popular herramienta `pep8.py`_ se limita a ejercer el poder acusador de decirte que tu código no pasa la PEP8. En cambio, Pep8fy aspira a hacer esta tarea automáticamente.  La arquitectura es muy simple: con el modulo tokenizer se obtiene una lista de tokens del módulo a pep8ficar que se manipulan mediante una serie de filtros (uno para cada regla definida en la PEP8) y al final se regenera el código con la lista de tokens alterados.  Se lograron algunos filtros, pero es un trabajo en desarrollo.
 
 modulo video pilas
 ------------------
@@ -47,7 +47,7 @@ Achuni creó una implementación para que pilas pueda traducirse a varios idioma
 peewee
 ------
 
-MarianoGarcia_, EmilianoDallaVerdeMarcozzi_, MarcosVanetta_ y MateoBengualid_ se dedicaron a darle soporte para MySQL a  PeeWee_. PeeWee_ es un ORM liviano ( un solo archivo ) ahora con soporte para Sqlite, MySQL y Postgresql.
+MarianoGarcia_, EmilianoDallaVerdeMarcozzi_, MarcosVanetta_ y MateoBengualid se dedicaron a darle soporte para MySQL a  PeeWee_. PeeWee_ es un ORM liviano ( un solo archivo ) ahora con soporte para Sqlite, MySQL y Postgresql.
 
 Port de Twisted a Python 3
 --------------------------

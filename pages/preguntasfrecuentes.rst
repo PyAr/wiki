@@ -1,6 +1,7 @@
 .. contents::
 
--------------------------
+.. role:: underline
+   :class: underline
 
 
 
@@ -42,7 +43,7 @@ Suscribiéndote a la ListaDeCorreo_, registrándote en el portal, asistiendo a c
 ¿Cómo se organiza una reunión?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Los pasos a seguir para organizar una reunión están documentados en `Eventos/Reuniones/ReleaseProcedure`_.
+Los pasos a seguir para organizar una reunión están documentados en `ReleaseProcedure`_
 
 Quiero aprender Python. ¿Dónde consigo material?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -79,7 +80,7 @@ En la sección ContribuyendoAlWiki_ vas a encontrar todo (**todo** se refiere a 
 ¿Cómo colaboro con ésta lista de preguntas?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Hay `otras preguntas todavía sin respuesta`_, similares a éstas, que son sobre temas que tratamos varias veces en la lista de correo, pero aun a nadie las pasó acá. Si estás interesado y tenés usuario en el wiki, adelante. Sinó, fijate como en la pregunta anterior.
+Hay otras preguntas todavía sin respuesta, similares a éstas, que son sobre temas que tratamos varias veces en la lista de correo, pero aun a nadie las pasó acá. Si estás interesado y tenés usuario en el wiki, adelante. Sinó, fijate como en la pregunta anterior.
 
 ¿Por que Python y PyAr son como son?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -311,7 +312,7 @@ Para construir aplicaciones web complejas en python se pueden usar alguno de los
 
 * Django_: framework de alto nivel para desarrollo rapido y diseño claro y pragmático
 
-* Turbogears_: el megaframework que combina CherryPy_, Kid, SQLObject y MochiKit_.
+* Turbogears_: el megaframework que combina CherryPy_, Kid, SQLObject y MochiKit.
 
 * Zope_: el "abuelo" de los frameworks web de python
 
@@ -354,7 +355,7 @@ Las siguientes aplicaciones se pueden ver/probar/evaluar para conocer el lenguaj
 
 * ClamWin_: el antivirus libre, frontend de clamav (interfaz wx)
 
-* OpenErp_ (ex TinyErp_): completo sistema de gestión empresarial en tres capas (interfaz gtk)
+* OpenErp (ex TinyErp): completo sistema de gestión empresarial en tres capas (interfaz gtk)
 
 * Meld_: visor de diferencias (interfaz gtk)
 
@@ -385,9 +386,9 @@ Algunos sitios no tan conocidos pero que están hechos con Python y vale la pena
 
 * Kiosko.net (http://Kiosko.net) está hecho en Django.
 
-* GooglePersonFinder_ (http://haiticrisis.appspot.com) se utilizó para el terremoto de Haití de 2010.
+* GooglePersonFinder (http://haiticrisis.appspot.com) se utilizó para el terremoto de Haití de 2010.
 
-* PyConAr_ 2012 (http://ar.pycon.org/2012), un ejemplo de aplicación hecha en Web2py.
+* `PyConAr 2012`_ (http://ar.pycon.org/2012), un ejemplo de aplicación hecha en Web2py.
 
 ¿En que difieren Python y VisualBasic?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -402,7 +403,7 @@ Preguntas surtidas
 
 MarianoGuerra_ preguntó esto en este hilo: http://mx.grulic.org.ar/lurker/thread/20080719.055432.4df0ac40.es.html Esencialmente, el problema es saber la ruta absoluta del script python que se está ejecutando
 
-La respuesta que le dio MartinBothiry_ es hacer:
+La respuesta que le dio MartinBothiry es hacer:
 
 ::
 
@@ -463,15 +464,19 @@ La pregunta es... ¿por qué la diferencia de comportamiento? Python (ojo, ver a
 
 Lo mismo sucede con algunos strings muy cortitos.
 
-Pero ojo, que esto sucede con versiones pasadas y actuales de CPython. Es un detalle de implementación, puede cambiar a futuro, y puede no darse en otras implementaciones de Python como Jython o IronPython_.
+Pero ojo, que esto sucede con versiones pasadas y actuales de CPython. Es un detalle de implementación, puede cambiar a futuro, y puede no darse en otras implementaciones de Python como Jython o IronPython.
 
 .. ############################################################################
 
 
-.. _reuniones:
+.. _reuniones: /eventos/reuniones
 
-.. _ListaDeCorreo:
+.. _ListaDeCorreo: /listadecorreo
 
+.. _grupo de entusiastas de Python: /quienessomos
+.. _primera reunión: /eventos/Reuniones/2004/reunion01
+.. _lista de correo: /listadecorreo
+.. _ReleaseProcedure: /eventos/Reuniones/releaseprocedure
 .. _grupo de Python de Buenos Aires de Meetup: http://python.meetup.com/cities/ar/buenos_aires/
 
 .. _SEO: http://es.wikipedia.org/wiki/Posicionamiento_en_buscadores
@@ -555,9 +560,6 @@ Pero ojo, que esto sucede con versiones pasadas y actuales de CPython. Es un det
 
 
 
-.. role:: underline
-   :class: underline
-
 .. _pyar: /pyar
 .. _eventos: /eventos
 .. _contribuyendoalwiki: /contribuyendoalwiki
@@ -580,3 +582,4 @@ Pero ojo, que esto sucede con versiones pasadas y actuales de CPython. Es un det
 .. _marianoguerra: /marianoguerra
 .. _sebastianbassi: /sebastianbassi
 .. _gabrielgenellina: /gabrielgenellina
+.. _PyConAr 2012: /LlamadoasedePyconar2012/pyconar2012bsas

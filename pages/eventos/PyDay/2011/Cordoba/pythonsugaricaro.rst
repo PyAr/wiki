@@ -4,7 +4,7 @@ Python, Sugar y Robotica Educativa
 
 * Evento: `PyDay 2011`_
 
-* Disertante: ValentinBasel_
+* Disertante: ValentinBasel
 
 .. * Presentación:
 

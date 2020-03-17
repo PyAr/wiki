@@ -27,7 +27,7 @@ Stands de Sponsors, Comunidades y Proyectos
 
 Posters
 
-Sitio Web: http://ar.pycon.org/2013 (simil PyConAr2011_)
+Sitio Web: http://ar.pycon.org/2013 (simil PyConAr2011)
 
 Coordinador General: Elías Andrawos Los colaboradores y responsabilidades se definirán más adelante
 

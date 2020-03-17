@@ -262,11 +262,11 @@ Ventajas:
 
 Desventajas:
 
-* Requiere PyGtk_.
+* Requiere PyGtk.
 
 * No funciona con ttk.
 
-Probado con python 2.6 y PyGtk_ 2.17
+Probado con python 2.6 y PyGtk 2.17
 
 ::
 

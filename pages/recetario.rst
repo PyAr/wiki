@@ -35,7 +35,7 @@ Expresiones regulares
 Extraer todos los mails de un texto
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`/ExtraerMails`_ de un texto utilizando el módulo re.
+ExtraerMails_ de un texto utilizando el módulo re.
 
 Formatos, datos, números y conversiones
 ---------------------------------------
@@ -89,6 +89,8 @@ Bottle
 
 `Mini Galeria de Imagenes`_ : una aplicacion minima que muestra una Galeria de Imagenes Animada.
 
+.. _recetario_interaces_graficas:
+
 Interfaces graficas
 -------------------
 
@@ -117,11 +119,7 @@ Gtk
 
 `/Gui/Gtk/Dialog`_ : ejemplo para crear dialogos modales
 
-`/Gui/Gtk/FileChooser`_ : ejemplo que permite al usuario seleccionar un archivo
-
 `/Gui/Gtk/Menu`_ :  ejemplo que mustra como crear un menu con distintos items
-
-`/Gui/Gtk/TextArea`_ : ejemplo sobre manipulacion basica de un area de texto con scroll
 
 `/Gui/Gtk/PrintNonGtk`_ : ejemplo sobre como usar el dialogo de impresion de gtk en aplicaciones no gtk (que no usan el main loop de gtk)
 
@@ -158,16 +156,14 @@ Gtk + glade
 
 GtkGladeHolaMundoOO : una ventana que muestra el mensaje hola mundo programado utilizando orientacion a objetos
 
-GtkGladeSignals_ : manejo basico de señales
-
 Qt
 ~~
 
 QtMultiThread_ : ejemplo de como manipular la GUI usando múltiples threads sin usar locks (con colas)
 
-`/QtImprimirPagina`_: ejemplo de como imprimir una pagina web a pdf
+`QtImprimirPagina`_: ejemplo de como imprimir una pagina web a pdf
 
-`/QtExtraerTextoRecurso`_ : como extraer un archivo de texto embebido en el sistema de recursos de PyQt
+`QtExtraerTextoRecurso`_ : como extraer un archivo de texto embebido en el sistema de recursos de PyQt
 
 http://www.youtube.com/playlist?list=PLA955A8F9A95378CE : Python GUI Development with QT (videos 7 horas)
 
@@ -272,7 +268,7 @@ Pdf
 Generación de Facturas en PDF
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-`/FacturaPyFpdf`_: Ejemplo de como generar una factura gráficamente en PDF utilizando PyFpdf_
+`/FacturaPyFpdf`_: Ejemplo de como generar una factura gráficamente en PDF utilizando PyFpdf
 
 Modificación de Estilos en rst2pdf
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -429,3 +425,74 @@ Divertidos
 .. _psycospeedup: /psycospeedup
 .. _mapeandomemoria: /mapeandomemoria
 .. _ippublica: /ippublica
+.. _extraermails: /Recetario/extraermails
+.. _Django/TestFormularioConFileUpload: /Django/testformularioconfileupload
+.. _django/obtenerclaseoriginalcuandohayherencia: /Django/obtenerclaseoriginalcuandohayherencia
+.. _/gui/gtk/holamundo: /Recetario/Gui/Gtk/holamundo
+.. _/gui/gtk/holamundooo: /Recetario/Gui/Gtk/holamundooo
+.. _/gui/gtk/entry: /Recetario/Gui/Gtk/entry
+.. _/gui/gtk/entrysolonumeros: /Recetario/Gui/Gtk/entrysolonumeros
+.. _/gui/gtk/hbox: /Recetario/Gui/Gtk/hbox
+.. _/gui/gtk/vbox: /Recetario/Gui/Gtk/vbox
+.. _/gui/gtk/grid: /Recetario/Gui/Gtk/grid
+.. _/gui/gtk/button: /Recetario/Gui/Gtk/button
+.. _/gui/gtk/buttonbox: /Recetario/Gui/Gtk/buttonbox
+.. _/gui/gtk/autocomplete: /Recetario/Gui/Gtk/autocomplete
+.. _/gui/gtk/dialog: /Recetario/Gui/Gtk/dialog
+.. _/gui/gtk/menu: /Recetario/Gui/Gtk/menu
+.. _/gui/gtk/printnongtk: /Recetario/Gui/Gtk/printnongtk
+.. _/gui/gtk/richtext: /Recetario/Gui/Gtk/richtext
+.. _/gui/gtk/confirmclose: /Recetario/Gui/Gtk/confirmclose
+.. _/gui/gtk/multithread: /Recetario/Gui/Gtk/multithread
+.. _/gui/gtk/multithread2: /Recetario/Gui/Gtk/multithread2
+.. _/gui/gtk/runner: /Recetario/Gui/Gtk/runner
+.. _/gui/gtk/funcionrunner: /Recetario/Gui/Gtk/funcionrunner
+.. _/gui/gtk/labelconcolor: /Recetario/Gui/Gtk/labelconcolor
+.. _/gui/gtk/xmlrpcserver: /Recetario/Gui/Gtk/xmlrpcserver
+.. _/gui/gtk/stockitems: /Recetario/Gui/Gtk/stockitems
+.. _/gui/gtk/webkiteditor: /Recetario/Gui/Gtk/webkiteditor
+.. _/gui/gtk/statusicon: /Recetario/Gui/Gtk/statusicon
+.. _/gui/gtk/errorhandler: /Recetario/Gui/Gtk/errorhandler
+.. _/gui/gtk/listview: /Recetario/Gui/Gtk/listview
+.. _/gui/gtk/emuladorterminal: /Recetario/Gui/Gtk/emuladorterminal
+
+.. _QtImprimirPagina: /Recetario/qtimprimirpagina
+.. _QtExtraerTextoRecurso: /Recetario/qtextraertextorecurso
+
+
+.. _/gmailmail: /Recetario/gmailmail
+.. _/emailconadjunto: /Recetario/emailconadjunto
+.. _xdg-sudo: /Recetario/xdg-sudo
+.. _chequeo de paquetes, apt, linux: /Recetario/chequeo_de_paquetes_apt_linux
+
+.. _/crearejecutablewindowsdesdelinux: /Recetario/crearejecutablewindowsdesdelinux
+.. _/crearejecutablewindows: /Recetario/crearejecutablewindows
+.. _/facturapyfpdf: /Recetario/facturapyfpdf
+.. _/estilosrst2pdf: /Recetario/estilosrst2pdf
+.. _/dbfpy: /Recetario/dbfpy
+.. _/servidorcom: /Recetario/servidorcom
+.. _/winbatt: /Recetario/winbatt
+.. _/histograma: /Recetario/histograma
+.. _/listarprocesos: /Recetario/listarprocesos
+.. _/chequearinterfacesinternetlinux: /Recetario/chequearinterfacesinternetlinux
+.. _/revisarconexion: /Recetario/revisarconexion
+.. _/obtenerbytestransferidos: /Recetario/obtenerbytestransferidos
+.. _/obtenerubicaciongeografica: /Recetario/obtenerubicaciongeografica
+.. _/matrixpythontoy: /Recetario/matrixpythontoy
+.. _/sabersinlibreriaestainstalada: /Recetario/sabersinlibreriaestainstalada
+.. _/pythonversioncheck: /Recetario/pythonversioncheck
+.. _/rootcheck: /Recetario/rootcheck
+.. _/comobajartodoslosbuffersaldisco: /Recetario/comobajartodoslosbuffersaldisco
+.. _/progressbarurllib2: /Recetario/progressbarurllib2
+.. _/checkdistroversion: /Recetario/checkdistroversion
+.. _/alarmaprecaria: /Recetario/alarmaprecaria
+.. _/keyboardledsdemo: /Recetario/keyboardledsdemo
+.. _/notificardispositivosusb: /Recetario/notificardispositivosusb
+.. _/pyuno/holamundo: /Recetario/pyUnO/holamundo
+.. _/pyuno/miprimermacro: /Recetario/pyUNO/miprimermacro
+.. _/crypto/blowfishconblowfishpy: /Recetario/Crypto/blowfishconblowfishpy
+.. _/multiprocessingythreading: /Recetario/multiprocessingythreading
+.. _/fun/nadosincronizado: /Recetario/Fun/nadosincronizado
+.. _/fun/nadosincronizadodisco: /Recetario/Fun/nadosincronizadodisco
+.. _/fun/minispaceinvaders: /Recetario/Fun/minispaceinvaders
+

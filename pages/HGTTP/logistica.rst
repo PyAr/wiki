@@ -125,7 +125,7 @@ Las aulas deben contar con:
 
 * Una computadora que ande con el proyector.
 
-* WiFi_.
+* WiFi.
 
 * Audio con adaptadores de todo tipo por si el disertante necesita conectarlo a la computadora.
 

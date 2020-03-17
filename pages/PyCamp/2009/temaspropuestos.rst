@@ -17,9 +17,9 @@ CDPedia  La wikipedia offline en un disquito! http://code.google.com/p/cdpedia/
 
   #. `ManuelQuiñones`_
 
-  #. FedericoPeretti_
+  #. FedericoPeretti
 
-  #. AgustinHenze_
+  #. AgustinHenze
 
 BugDay  Salimos a la caza de bugs de Python (esto seguro que será sólo medio día o un día como muuucho)
 
@@ -27,7 +27,7 @@ BugDay  Salimos a la caza de bugs de Python (esto seguro que será sólo medio d
 
   #. JohnLenton_
 
-  #. JaviMansilla_
+  #. JaviMansilla
 
   #. AnthonyLenton_
 
@@ -37,11 +37,11 @@ BugDay  Salimos a la caza de bugs de Python (esto seguro que será sólo medio d
 
   #. dave_
 
-  #. FedeHeinz_
+  #. FedeHeinz
 
   #. AndresLopezLuksenberg_(Polako)
 
-  #. AgustinHenze_
+  #. AgustinHenze
 
 PyAfip  Terminar y/o revisar PyAfip_ (`SiaPy: SIAP libre`_, `PyAfipWs: Factura Electrónica`_)
 
@@ -57,7 +57,7 @@ PythonCard  Mejorar PythonCard_ (corregir problemas de diseño, integrar el edit
 
   #. dave_
 
-PyConTech  Temas del software para la conferencia PyConAr2009_ (ver Trac en USLA: Wiki_ y tickets_, básicamente registración gratuita, internacionalización, credenciales y constancias):
+PyConTech  Temas del software para la conferencia PyConAr2009 (ver Trac en USLA: Wiki_ y tickets_, básicamente registración gratuita, internacionalización, credenciales y constancias):
 
   1. MarianoReingart_
 
@@ -75,7 +75,7 @@ Mejorar naushika  mejorar o rehacer el robot del canal de IRC de PyAr_ (`lista d
 
   #. perrito_
 
-  #. JaviMansilla_
+  #. JaviMansilla
 
   #. ManuelKaufmann_
 
@@ -85,7 +85,7 @@ Mejorar naushika  mejorar o rehacer el robot del canal de IRC de PyAr_ (`lista d
 
   #. AnthonyLenton_
 
-  #. AgustinHenze_
+  #. AgustinHenze
 
 Cocos2d  Agregar fluidos, editor de escenarios no tileados `similar a este`_?, muchos etcs.
 
@@ -230,4 +230,6 @@ Ver `SprintDjango`_
 .. _pycon: /pycon
 .. _SprintDjango: /PyCamp/2009/TemasPropuestos/sprintdjango
 .. _facundobatista: /miembros/facundobatista
+.. _ManuelQuiñones: /manuelquinones
+.. _ManuelKaufmann: /miembros/humitos
 .. _pycamp: /pycamp

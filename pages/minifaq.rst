@@ -58,7 +58,7 @@ Las siguientes aplicaciones se pueden ver/probar/evaluar para conocer el lenguaj
 
 * ClamWin_: el antivirus libre, frontend de clamav (interfaz wx)
 
-* OpenErp_ (ex TinyErp_): completo sistema de gestión empresarial en tres capas (interfaz gtk)
+* OpenErp_ (ex TinyErp): completo sistema de gestión empresarial en tres capas (interfaz gtk)
 
 * Meld_: visor de diferencias (interfaz gtk)
 
@@ -89,7 +89,7 @@ Algunos sitios no tan conocidos pero que están hechos con Python y vale la pena
 
 * Kiosko.net (http://Kiosko.net) está hecho en Django.
 
-* GooglePersonFinder_ (http://haiticrisis.appspot.com) se utilizó para el terremoto de Haití de 2010.
+* GooglePersonFinder (http://haiticrisis.appspot.com) se utilizó para el terremoto de Haití de 2010.
 
 * Web2py HL7 (http://web2py.com/HLv3), un ejemplo de aplicación hecha en Web2py.
 

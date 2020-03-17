@@ -7,4 +7,4 @@ Una variación sobre la de Manuel_.
 
 .. ############################################################################
 
-
+.. _manuel: /RemerasV3/manuelarguelles2

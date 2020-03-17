@@ -31,13 +31,13 @@ Temario
 
   * Convocatoria Summit: formato, temas de paneles e invitados
 
-  * Organización Formal: Via Libre, Solar, QuilmesLug_ etc. ?¿
+  * Organización Formal: Via Libre, Solar, QuilmesLug, etc. ?¿
 
-  * ¿PgDay_, Sugar Day dentro o en paralelo a PyConAr_?
+  * ¿PgDay, Sugar Day dentro o en paralelo a PyConAr?
 
   * Instrumentación de donaciones, bono colaboración materiales y certificado
 
-  * Difusión/Publicidad: Facebook, Linked-In, Twitter, Blog, Banners, AdWords_ y Media Sponsors
+  * Difusión/Publicidad: Facebook, Linked-In, Twitter, Blog, Banners, AdWords y Media Sponsors
 
 * Fundación/Asociación Python Argentina y organización de eventos "profesionales"
 
@@ -60,7 +60,7 @@ Asistentes
     Héctor Sanchez,,X,X
 
 
-NOTA: Ser voluntario para PyConAr_ no es obligatorio para asistir a la reunión, ni genera ningún compromiso, simplemente está el casillero para ir organizandonos y tener una idea sobre los asistentes y orden del día.
+NOTA: Ser voluntario para PyConAr no es obligatorio para asistir a la reunión, ni genera ningún compromiso, simplemente está el casillero para ir organizandonos y tener una idea sobre los asistentes y orden del día.
 
 Fecha y Hora
 ~~~~~~~~~~~~
@@ -143,7 +143,7 @@ La reunión duró 8hs y media
 
   * Reservar el pasillo de arriba y de abajo para sponsors y posters
 
-* Sería bueno discutir el call for sedes de PyConAr_ 2013 un mes antes de la conferencia; para así poder anunciar el lugar del  próximo evento al finalizar PyCon_ 2012.
+* Sería bueno discutir el call for sedes de PyConAr 2013 un mes antes de la conferencia; para así poder anunciar el lugar del  próximo evento al finalizar PyCon_ 2012.
 
 * Dado que fue poca asistencia a la convocatoria en la zona sur, Alecu sugiere que se organicen reuniones en Capital y Córdoba para conseguir más colaboración.
 
@@ -153,7 +153,7 @@ La reunión duró 8hs y media
 
 * Los regalos a los disertantes ya estan casi definidos y Juanbc averigua
 
-* La gente de Sugar se interesó en organizar un evento dentro de PyConAr_ (el contacto sera Héctor Sanchez)
+* La gente de Sugar se interesó en organizar un evento dentro de PyConAr (el contacto sera Héctor Sanchez)
 
 * Seba Bassi que labura en Globant se comprometió a buscar a su empresa como sponsors.
 
