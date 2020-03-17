@@ -26,7 +26,7 @@ Actualmente estoy a cargo del area de sistemas del Colegio de Farmacéuticos de 
 
 La mayor parte de mis trabajos tuvieron que ver con algo poco convencional para un informático: me especialicé primero en Sistemas de Información Geográfica (GIS), y después en modelos de simulación de transporte urbano, usando un software que se llama Transcad, y después con algo mas complejo, que es la simulación integrada de transporte, uso del suelo y localización de actividades, con un modelo que se llama Tranus. Esto lo hice (cronológicamente) en la Municipalidad de La Plata (1996), en la Facultad de Arquitectura de la UNLP (delde 1997), entre 2001 y 2004 para el Gobierno de la Ciudad de Buenos Aires, simulando la demanda que iban a tener las nuevas lineas de subterraneos proyectadas, y entre 2005 y 2007 para el Gobierno de la Provincia de Buenos Aires. También participé en la propuesta para la segunda comunicación de cambio climático de la argentina, para el area de transporte, proponiendo el uso de Tranus. Trabajé también con un amigo en Chile que tiene la Corporacion Sintesys, mejorando aspectos de un gis que desarrollaron en Delphi, y haciendo algunas cosas web-gis con geotools.
 
-Mientras hacía estas cosas, programaba lo que necesitaba y no hacian los sistemas que tenía a mano, antes con Delphi, y hace un tiempo ya con python. Entre otras cosas: conversiones de formatos de archivos, análisis de información estadística por metodos no convencionales, sistemas de calibración automática de modelos (sobre Tranus), y en su momento una rutina para bajar imagenes de Google Earth y meterlas en el GIS (emulando las operaciones de teclado con AutoHotKey_).
+Mientras hacía estas cosas, programaba lo que necesitaba y no hacian los sistemas que tenía a mano, antes con Delphi, y hace un tiempo ya con python. Entre otras cosas: conversiones de formatos de archivos, análisis de información estadística por metodos no convencionales, sistemas de calibración automática de modelos (sobre Tranus), y en su momento una rutina para bajar imagenes de Google Earth y meterlas en el GIS (emulando las operaciones de teclado con AutoHotKey).
 
 Tengo varios proyectos en mente para los cuales todavía estoy buscando un contexto apropiado. Algo de eso había documentado en un espacio wiki que me habian abierto en Pyar, pero posiblemente por falta de actualización está desaparecida. Mas sobre esto en el futuro.
 
@@ -40,7 +40,7 @@ Tengo varios proyectos en mente para los cuales todavía estoy buscando un conte
 
 1979 Llegó a mis manos una calculadora programable Commodore que tenia un registro de memoria y hasta 24 pasos de programación, con la cual llegaba a resolver ecuaciones cuadraticas y todo lo que veia en el colegio.
 
-1981 Al Albert Thomas llegan las primeras RadioShack_ TRS-80, soy uno de los primeros usuarios, usando BASIC
+1981 Al Albert Thomas llegan las primeras RadioShack TRS-80, soy uno de los primeros usuarios, usando BASIC
 
 1982 Me compro una Casio fx-702 programable, con la que hago mis primeros juegos, resuelvo ecuaciones y otras cosas. La llevo encima todo el tiempo.
 
@@ -52,7 +52,7 @@ Tengo varios proyectos en mente para los cuales todavía estoy buscando un conte
 
 1988 Empiezo informática, me encuentro con la PC, el DOS y el turbo pascal.
 
-1989 Me encuentro con WordStar2000_, DBASE, Autocad, y programas cientificos varios.
+1989 Me encuentro con WordStar2000, DBASE, Autocad, y programas cientificos varios.
 
 1990 En la facultad, Smalltalk, Ada, C.
 
@@ -60,7 +60,7 @@ Tengo varios proyectos en mente para los cuales todavía estoy buscando un conte
 
 1992 Mi primera PC AT 286 con 1M de ram y disco de 40 M. Tetrismaniaco.
 
-1993 Creo, mi primer modem 2400, y mi primero correo en FidoNet_.
+1993 Creo, mi primer modem 2400, y mi primero correo en FidoNet.
 
 1994 Hago un sistema de identificacion de maderas para la Facultad de Agronomia, UNLP, en Clipper (todavia se usa).
 
@@ -72,17 +72,17 @@ Tengo varios proyectos en mente para los cuales todavía estoy buscando un conte
 
 1998 Tranus.
 
-2001 ArcView_. Prolog.
+2001 ArcView. Prolog.
 
 2005 Python.
 
-2006 Hack de GoogleEarth_ con AutoHotKey_ y Python. Me compro una LifeDrive_.
+2006 Hack de GoogleEarth con AutoHotKey y Python. Me compro una LifeDrive.
 
 2007 Muy a mi pesar, VB y MSSQL. También SVN, Trac, y un IPCop.
 
 2008 Django.
 
-Linux que uso: Ubuntu 8.04 Linux que probé: Suse, Mandrake, Puppy, DSL, Slackware, RedHat_, Ututo, Debian.
+Linux que uso: Ubuntu 8.04 Linux que probé: Suse, Mandrake, Puppy, DSL, Slackware, RedHat, Ututo, Debian.
 
 -------------------------
 

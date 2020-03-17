@@ -6,7 +6,7 @@ lista de recursos relacionados a unicode
 
 * `Recetario/NormalizarCaracteresUnicode`_
 
-* `Recetario/NormalizarCaracteresUnicode`_
+* `Recetario/EntendiendoUnicode`_
 
 * `Pragmatic Unicode`_
 
@@ -23,3 +23,5 @@ lista de recursos relacionados a unicode
 
 .. _there's a reason they're called "encodings": http://stackoverflow.com/questions/368805/python-unicodedecodeerror-am-i-misunderstanding-encode/370199#370199
 
+.. _Recetario/NormalizarCaracteresUnicode: /Recetario/normalizarcaracteresunicode
+.. _Recetario/EntendiendoUnicode: /Recetario/entendiendounicode

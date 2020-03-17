@@ -109,7 +109,7 @@ http://www.python.org/idle/doc/idlemain.html
 PyCharm
 ~~~~~~~
 
-PyCharm_ JetBrains_ — es un Python IDE con un completo juego de herramientas para el desarrollo productivo con el lenguaje de programacion Python. Adicionalmente, el IDE provee capacidades de alto rango para desarrolladores profesionales de Web con el framework Django. http://www.jetbrains.com/pycharm/index.html
+PyCharm_ JetBrains — es un Python IDE con un completo juego de herramientas para el desarrollo productivo con el lenguaje de programacion Python. Adicionalmente, el IDE provee capacidades de alto rango para desarrolladores profesionales de Web con el framework Django. http://www.jetbrains.com/pycharm/index.html
 
 NINJA-IDE
 ~~~~~~~~~
@@ -121,7 +121,7 @@ http://ninja-ide.org
 Spyder
 ~~~~~~
 
-Spyder_ es un IDE para python con edición avanzada, testing interactivo, introspección, etc... Esta especialmente recomendado para computación cientifica gracias a NumPy (algebra lineal), SciPy (procesamiento de imágenes y señales), matplotlib (ploteo interactivo en 2D/3D) y sporte a mlab de MayaVi_ (visualizacion 3D intetarctiva). Tiene un workflow especializado para "no programadores", aunque puede ser muy útil también para programdores. Spyder también puede ser usado como una librería, ya que probee poderosos widgets de PyQt4_ relacionados con la consola.
+Spyder_ es un IDE para python con edición avanzada, testing interactivo, introspección, etc... Esta especialmente recomendado para computación cientifica gracias a NumPy (algebra lineal), SciPy (procesamiento de imágenes y señales), matplotlib (ploteo interactivo en 2D/3D) y sporte a mlab de MayaVi (visualizacion 3D intetarctiva). Tiene un workflow especializado para "no programadores", aunque puede ser muy útil también para programdores. Spyder también puede ser usado como una librería, ya que probee poderosos widgets de PyQt4 relacionados con la consola.
 
 http://packages.python.org/spyder/
 

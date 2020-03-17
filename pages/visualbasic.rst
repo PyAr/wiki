@@ -86,7 +86,7 @@ Sintaxis
 Entorno de desarrollo integrado (IDE) y Migración
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-* En Python, no existe "Él" entorno de desarrollo integrado (Editor de Código y de Pantallas, Compilador, Depurador, etc.). Hay varias herramientas, que pueden llegar a usarse en conjunto (por ej. StaniPythonEditor_ es un editor + wxGlade para diseñar pantallas + WinPdb_ para depurar + PyChecker_ para verificar el código, etc.). Ver SPE, Boa, etc.
+* En Python, no existe "Él" entorno de desarrollo integrado (Editor de Código y de Pantallas, Compilador, Depurador, etc.). Hay varias herramientas, que pueden llegar a usarse en conjunto (por ej. `StaniPythonEditor` es un editor + wxGlade para diseñar pantallas + WinPdb para depurar + PyChecker para verificar el código, etc.). Ver SPE, Boa, etc.
 
 * Para el desarrollo rápido y simple, lo más parecido es PythonCard_, que incluye un diseñandor de pantallas y editor de código muy similar a VB, y el manejo de componentes es muy simple.
 

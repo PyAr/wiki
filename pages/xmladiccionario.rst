@@ -125,7 +125,7 @@ primero el codigo
         return ''.join(helper(dct_))
 
 
-Simplemente creamos un objeto de tipo XmlParser_ pasandole el string y obtenemos el resultado parseado en la variable result.  Si no queremos andar preguntado si las llaves existen antes de accederlas para evitar excepciones podemos usar la clase DictObj_ que nos permite acceder a las llaves como si fueran atributos, las variables que no existan como llaves contendran None. Aca va un ejemplo en la consola interactiva
+Simplemente creamos un objeto de tipo `XmlParser` pasandole el string y obtenemos el resultado parseado en la variable result.  Si no queremos andar preguntado si las llaves existen antes de accederlas para evitar excepciones podemos usar la clase `DictObj` que nos permite acceder a las llaves como si fueran atributos, las variables que no existan como llaves contendran None. Aca va un ejemplo en la consola interactiva
 
 ::
 

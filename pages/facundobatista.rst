@@ -4,9 +4,9 @@ Facundo Batista
 
 Soy Ingeniero en Electrónica de la Universidad Nacional de La Matanza, con un Master en Ingeniería de la Innovación en la Universidad de Bologna, Italia
 
-Trabajé en Movistar (antes Unifón) del 2000 al 2006, primero en el área de Administración de Datos de la Red Celular (entre los que se destaca un proyecto llamado CeCubo_ para la generación automática de comandos para el mantenimiento de las centrales de conmutación; y el SACLLA, un datawarehousing sobre la información generada de por las centrales), y luego en el sector de Desarrollo de Servicios, principalmente a cargo del Servicio de Mensajes Cortos (SMSs), especificación e instalación de la plataforma WAP Gateway, y lider de proyecto de los servicios sobre OTA.
+Trabajé en Movistar (antes Unifón) del 2000 al 2006, primero en el área de Administración de Datos de la Red Celular (entre los que se destaca un proyecto llamado CeCubo para la generación automática de comandos para el mantenimiento de las centrales de conmutación; y el SACLLA, un datawarehousing sobre la información generada de por las centrales), y luego en el sector de Desarrollo de Servicios, principalmente a cargo del Servicio de Mensajes Cortos (SMSs), especificación e instalación de la plataforma WAP Gateway, y lider de proyecto de los servicios sobre OTA.
 
-De Marzo del 2006 a Julio del 2007 trabajé como Jefe de Desarrollo en CycleLogic_, una empresa dedicada proveer contenidos para teléfonos móviles. Luego pasé a Ericsson Argentina, como Arquitecto de Soluciones en la parte Multimedia, hasta que en Octubre del 2008 entré como Technical Lead en Canonical, en el equipo de Online Dash, en Ubuntu Engineering.
+De Marzo del 2006 a Julio del 2007 trabajé como Jefe de Desarrollo en CycleLogic, una empresa dedicada proveer contenidos para teléfonos móviles. Luego pasé a Ericsson Argentina, como Arquitecto de Soluciones en la parte Multimedia, hasta que en Octubre del 2008 entré como Technical Lead en Canonical, en el equipo de Online Dash, en Ubuntu Engineering.
 
 Fuí profesor en la Universidad de La Matanza (en talleres de la carrera de Ingeniería Informática) y en diversas instituciones secundarias y terciarias. También poseo una amplia experiencia como analista de sistemas y programador, tanto freelance como bajo contrato, en diversos sistemas en múltiples plataformas y lenguajes.
 

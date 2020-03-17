@@ -104,7 +104,7 @@ Y allí, por ejemplo, podemos modificar el código fuente del controlador princi
 Administración de Base de datos
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Web2py viene con una controlador llamado AppAdmin_ que sirve para consultar, modificar e importar/exportar los datos de nuestra aplicación. Se ingresa por la interfaz administrativa, en el link `Database Administration`_:
+Web2py viene con una controlador llamado AppAdmin que sirve para consultar, modificar e importar/exportar los datos de nuestra aplicación. Se ingresa por la interfaz administrativa, en el link `Database Administration`_:
 
 .. image:: /images/Web2Py/appadmin-index.png
 

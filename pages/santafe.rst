@@ -15,7 +15,7 @@ Presentacíon de cada integrante y actividad actual, a modo de conocernos y sabe
 PyAr en CafeConf
 ~~~~~~~~~~~~~~~~
 
-Opinión y distíntos puntos de vista de cada uno acerca de lo que fué CafeConf_ y la participación de PyAr_ en la misma. Reuniones a las que asistimos e importancia de las charlas de PyAr_.
+Opinión y distíntos puntos de vista de cada uno acerca de lo que fué CafeConf y la participación de PyAr_ en la misma. Reuniones a las que asistimos e importancia de las charlas de PyAr_.
 
 Asistentes
 ----------
@@ -72,6 +72,7 @@ Y hasta aquí llega la minuta de lo que fue la primera reunión en Santa Fe, ¿o
 
 .. _Universidad Adventista del Plata: http://www.uapar.edu/es/
 
+.. _ManuelKaufmann: /miembros/humitos
 
 .. _pyar: /pyar
 .. _juanjoconti: /juanjoconti

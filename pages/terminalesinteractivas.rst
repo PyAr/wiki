@@ -9,7 +9,7 @@ Python
 
 Esta es la consola por defecto que se instala con Python, para ejecutarla hay que escribir python en la terminal.
 
-En el recetario se explica como agregarle autocompletado_ con TAB, al estilo IPython
+En el recetario se explica como agregarle autocompletado con TAB, al estilo IPython
 
 IPython
 -------
