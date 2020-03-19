@@ -5,7 +5,7 @@
    Title: Traceback internationalization
    Version: $Revision$
    Last-Modified: $Date$
-   Author: Mariano Reingart <<<MailTo(reingart EN gmail PUNTO com)>>>
+   Author: Mariano Reingart <reingart EN gmail PUNTO com>
    Status: Draft
    Type: Standards Track
    Content-Type: text/plain
