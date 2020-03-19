@@ -7,6 +7,9 @@ sincronizará automáticamente con la wiki una vez que sea mezclado.
 
 Antes de clonar el repo, asegurate de tener instalado [Git LFS][https://git-lfs.github.com/]
 
+Pueden ver como colaborar en la pagina de `Como colaborar
+<https://github.com/PyAr/wiki/blob/nikola/pages/colaborandoenelwiki.rst>`__
+
 Como buildear las paginas
 =========================
 
