@@ -29,6 +29,10 @@ p {
     color: #FB8B00;
     margin-top: 30px;
 }
+.pull-right {
+    float: right !important;
+}
+
 #content {
     background: #fff;
     border-radius: 8px;
@@ -580,17 +584,4 @@ small, .small {
     font-size: 85%;
 }
 
-
-.. role:: small
-   :class: small
-
-
-
-.. role:: big
-   :class: big
-
-
-
-.. role:: underline
-   :class: underline
 
