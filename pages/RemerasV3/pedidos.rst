@@ -10,18 +10,18 @@ Pedidos Remeras V3 (diseño del Zen) PyConAr
 .. csv-table::
     :header: Nombre,Cantidad/Talle/Color/corte,Modo de entrega,Observaciones
 
-    Roberto L. Bozzacchi,1 M (hombre) Azul Marino,Contra-Reebolso,<<MailTo(robbie ARROBA metasigno PUNTO com)>>
-    Guido Accardo,1 L (hombre) Negro,Contra-Reebolso,<<MailTo(gaccardo ARROBA gmail PUNTO com)>>
-    Marcelo Martinovic,2 XL (hombre) Negro / Blanco,Contra-Reebolso,<<MailTo(marcelo.martinovic ARROBA gmail PUNTO com)>>
-    Martin Alderete,2 S (hombre) Arena / Gris oscuro,Contra-Reebolso,<<MailTo(malderete ARROBA gmail PUNTO com)>>
-    NahuelDefossé,1 XL (hombre) Negra / 1 Xl (hombre) Azul Marino,Contrareembolso/Envío,<<MailTo(nahuel PUNTO defosse ARROBA gmail PUNTO com)>>
-    RamiroAlgozino,"1 S (hombre) Azul Marino (si no hay azul, cualquier color)",encomienda previo depósito,<<MailTo(algozino ARROBA gmail PUNTO com)>>
-    Martín Cerdeira,1 M (hombre) Azul Marino,Contra-Reebolso,<<MailTo(martincerdeira ARROBA gmail PUNTO com)>>
-    Natalia Villegas,1 M (mujer) Arena,Contra-Reembolso,<<MailTo(villegasnaty ARROBA gmail PUNTO com)>>
-    Claudia Quispe,1 S (mujer) Blanco,Contra-Reembolso,<<MailTo(clauva83 ARROBA gmail PUNTO com)>>
-    Juan Manuel García,1 XL (hombre) Azul Francia,Contra-Reembolso,<<MailTo(jmg.utn ARROBA gmail PUNTO com)>>
-    PabloPetenello,1 XL (hombre) Negra / 1 Xl (hombre) Amarillo,Contrareembolso/Envío,<<MailTo(pablopetenello ARROBA gmail PUNTO com)>>
-    Marco Mansilla,5 XXL (hombre) Negra / Amarillo / Gris Oscuro / Rojo / Gris Claro,Contrareembolso,<<MailTo(big ARROBA esdebian PUNTO org)>>
+    Roberto L. Bozzacchi,1 M (hombre) Azul Marino,Contra-Reebolso,robbie ARROBA metasigno PUNTO com
+    Guido Accardo,1 L (hombre) Negro,Contra-Reebolso,gaccardo ARROBA gmail PUNTO com
+    Marcelo Martinovic,2 XL (hombre) Negro / Blanco,Contra-Reebolso,marcelo.martinovic ARROBA gmail PUNTO com
+    Martin Alderete,2 S (hombre) Arena / Gris oscuro,Contra-Reebolso,malderete ARROBA gmail PUNTO com
+    NahuelDefossé,1 XL (hombre) Negra / 1 Xl (hombre) Azul Marino,Contrareembolso/Envío,nahuel PUNTO defosse ARROBA gmail PUNTO com
+    RamiroAlgozino,"1 S (hombre) Azul Marino (si no hay azul, cualquier color)",encomienda previo depósito,algozino ARROBA gmail PUNTO com
+    Martín Cerdeira,1 M (hombre) Azul Marino,Contra-Reebolso,martincerdeira ARROBA gmail PUNTO com
+    Natalia Villegas,1 M (mujer) Arena,Contra-Reembolso,villegasnaty ARROBA gmail PUNTO com
+    Claudia Quispe,1 S (mujer) Blanco,Contra-Reembolso,clauva83 ARROBA gmail PUNTO com
+    Juan Manuel García,1 XL (hombre) Azul Francia,Contra-Reembolso,jmg.utn ARROBA gmail PUNTO com
+    PabloPetenello,1 XL (hombre) Negra / 1 Xl (hombre) Amarillo,Contrareembolso/Envío,pablopetenello ARROBA gmail PUNTO com
+    Marco Mansilla,5 XXL (hombre) Negra / Amarillo / Gris Oscuro / Rojo / Gris Claro,Contrareembolso,big ARROBA esdebian PUNTO org
 
 Pedidos Remeras V3b (Diseño Boa - las remeras celestes del Staff de PyConAr)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -33,10 +33,10 @@ Estas remeras las haremos sólo en 2 colores: celestes con impresión azul (como
 .. csv-table::
     :header: Nombre,Cantidad/Talle/Color/corte,Modo de entrega,Observaciones
 
-    Alejandro Pereira,1 XL (hombre) Arena con impresión Marrón,Contra-Reebolso,<<MailTo(alepereira86 EN gmail PUNTO com)>>
-    Natalia Villegas,1 M (mujer) Celeste con impresión azul,Contra-Reembolso,<<MailTo(villegasnaty EN gmail PUNTO com)>>
-    Facundo Casco,1 M (hombre) Celeste con impresión azul,Contra-Reembolso,<<MailTo(fcasco EN gmail PUNTO com)>>
-    Marcelo Martinovic,1 XL (hombre) Celeste con impresión azul,Contra-Reembolso,<<MailTo(marcelo PUNTO martinovic EN gmail PUNTO com)>>
+    Alejandro Pereira,1 XL (hombre) Arena con impresión Marrón,Contra-Reebolso,alepereira86 EN gmail PUNTO com
+    Natalia Villegas,1 M (mujer) Celeste con impresión azul,Contra-Reembolso,villegasnaty EN gmail PUNTO com
+    Facundo Casco,1 M (hombre) Celeste con impresión azul,Contra-Reembolso,fcasco EN gmail PUNTO com
+    Marcelo Martinovic,1 XL (hombre) Celeste con impresión azul,Contra-Reembolso,marcelo PUNTO martinovic EN gmail PUNTO com
 
 FAQs
 ----

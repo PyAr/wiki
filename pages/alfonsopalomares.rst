@@ -26,7 +26,7 @@ Conocimientos de Informática:
 
 Vivo en el oeste del gran Buenos Aires, en San Justo.
 
-Email: ``<<MailTo(la_palomares EN yahoo PUNTO es`` )>>
+Email: ``la_palomares EN yahoo PUNTO es`` 
 
 -------------------------
 

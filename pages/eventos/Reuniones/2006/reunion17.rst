@@ -60,16 +60,16 @@ Los ganadores fueron:
 .. csv-table::
     :header:Pos,Premio,Ganador,Estado
 
-    01,Vaso térmico,<<MailTo(lorena DOT giraldo AT gmail DOT com)>>,*
-    02,Remera !PyCon 2005 XL,<<MailTo(anifeno AT ubbi DOT com)>>,
-    03,Remera !PyCon 2005 XL,<<MailTo(conan AT lugmen DOT org DOT ar)>>,*
-    04,Remera !PyCon 2005 XL,<<MailTo(paburinu DOT san AT gmail DOT com)>>,
-    05,Remera !PyCon 2005 L,<<MailTo(pablot AT gmail DOT com)>>,
-    06,Remera !PyCon 2005 L,<<MailTo(pablodcar AT gmail DOT com)>>,*
-    07,Remera !PyCon 2005 L,<<MailTo(javierder AT gmail DOT com)>>,
-    08,Remera !PyCon 2005 L,<<MailTo(lucas AT lunix DOT com DOT ar)>>,*
-    09,Remera !PyCon 2006 XL,<<MailTo(enriqueaguerre AT gmail DOT com)>>,
-    10,Bolsa !PyCon 2006,<<MailTo(gepatino AT gmail DOT com)>>,-
+    01,Vaso térmico,lorena DOT giraldo AT gmail DOT com,*
+    02,Remera !PyCon 2005 XL,anifeno AT ubbi DOT com,
+    03,Remera !PyCon 2005 XL,conan AT lugmen DOT org DOT ar,*
+    04,Remera !PyCon 2005 XL,paburinu DOT san AT gmail DOT com,
+    05,Remera !PyCon 2005 L,pablot AT gmail DOT com,
+    06,Remera !PyCon 2005 L,pablodcar AT gmail DOT com,*
+    07,Remera !PyCon 2005 L,javierder AT gmail DOT com,
+    08,Remera !PyCon 2005 L,lucas AT lunix DOT com DOT ar,*
+    09,Remera !PyCon 2006 XL,enriqueaguerre AT gmail DOT com,
+    10,Bolsa !PyCon 2006,gepatino AT gmail DOT com,-
 
 * Los marcados con `-` son los que ya retiraron su premio.
 

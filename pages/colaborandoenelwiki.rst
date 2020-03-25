@@ -46,11 +46,11 @@ Cuando Agregamos direcciones de mail conviene usar el macro MailTo, que evita qu
 
     {{{
     #!code moin
-    <<MailTo(joac ARROBA NO QUIERO SPAM algundominio GUION otrodominio PUNTO com)>>
+    joac ARROBA NO QUIERO SPAM algundominio GUION otrodominio PUNTO com
     }}}
 
 Y queda:
-<<MailTo(joac ARROBA NO QUIERO SPAM algundominio GUION otrodominio PUNTO com)>>
+joac ARROBA NO QUIERO SPAM algundominio GUION otrodominio PUNTO com
 
 
 Mas Funcionalidades Copadas
