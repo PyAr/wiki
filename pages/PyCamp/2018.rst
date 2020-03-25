@@ -1,7 +1,7 @@
 ¿Un qué?
 --------
 
-Antes que nada, ¿qué es un PyCamp? `Acá tenés una buena descripción y mucha info </PyCamp/>`_.
+Antes que nada, ¿qué es un PyCamp? `Acá tenés una buena descripción y mucha info </pycamp/>`_.
 
 
 Fechas:
@@ -58,9 +58,9 @@ http://www.habitatyerra.com.ar/
 
   * Costo aproximado:
 
-  	* Córdoba -> Rosario: ida $550-$650
+    * Córdoba -> Rosario: ida $550-$650
     * Rosario -> Baradero: ida $225
-  	* Retiro -> Baradero: ida ~$200
+    * Retiro -> Baradero: ida ~$200
 
 
 **Comidas**
@@ -81,13 +81,13 @@ Precios e Inscripciones
 
 El precio por los cuatro días (incluye las comidas, alojamiento, usos de las instalaciones, WiFi, etc.) es:
 
- 	**$4250** final (IVA incluido)
+    **$4250** final (IVA incluido)
 
 Si sos socio de la Asociación Civil Python Argentina tenés descuento! El precio que aplica es:
 
- 	Socios activos: **$3400** final (IVA incluido)
+    Socios activos: **$3400** final (IVA incluido)
 
- 	Otros tipos de socios: **$3820** final (IVA incluido)
+     Otros tipos de socios: **$3820** final (IVA incluido)
 
 Para anotarte, `escribinos un mail <mailto:presidencia@ac.python.org.ar?subject=Quiero%20anotarme%20en%20el%20PyCamp%202018&body=Hola%21%0A%0AEstos%20son%20mis%20datos%20%28rellenar%21%29%3A%0A%0A-%20Nombre%0A-%20Apellido%3A%0A-%20DNI%3A%0A-%20Edad%20%28necesario%20en%20caso%20de%20menor%20de%20edad%20solamente%29%3A%20%0A%0A%28Indicar%20aqu%C3%AD%20si%20ya%20sos%20socia/o%20de%20la%20Asociaci%C3%B3n%20Civil%20Python%20Argentina%20y%20de%20que%20tipo%29%0A%0AY%20quiero%20pagar...%20%28borrar%20lo%20que%20no%20corresponda%29%0A%0A%20%20%20%20-%20Directamente%20a%20la%20cuenta%20de%20la%20Asociaci%C3%B3n%20Civil%0A%0A%20%20%20%20-%20Por%20todos%20los%20medios%20de%20TodoPago%20%28ya%20s%C3%A9%20que%20el%20costo%20extra%20es%20de%205%25%29%0A>`_ indicando nombre, apellido, DNI, edad si sos menor de 18 años (si no no hace falta) y cómo preferís hacer el pago:
 
@@ -129,16 +129,16 @@ Se van cargando aquí `</PyCamp/2018/actividades>`_
 
 .. .. code::
 
-.. 	192.168.1.100 pypi.pycamp
+..     192.168.1.100 pypi.pycamp
 
 
 .. Y agregá esto en tu archivo ``/home/tuuser/.pip/pip.conf``:
 
 .. .. code::
 
- 	[global]
-	index-url = http://pypi.pycamp/simple
-	trusted-host = pypi.pycamp
+    [global]
+    index-url = http://pypi.pycamp/simple
+    trusted-host = pypi.pycamp
 
 
 .. Yastá! ahora podés hacer pip install y va a volar (a la velocidad de una raspi y nuestro wifi)

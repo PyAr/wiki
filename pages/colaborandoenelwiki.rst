@@ -46,7 +46,6 @@ ayudar:
 - `rST Syntax <https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html>`__
 - `Create Documentation with RST, Sphinx, Sublime, and GitHub <https://sublime-and-sphinx-guide.readthedocs.io/en/latest/>`__
 
-
 Cambio puntual
 ++++++++++++++
 
