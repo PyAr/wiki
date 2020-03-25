@@ -10,7 +10,7 @@ Introducción
 
 Existen varias maneras de contribuir con la wiki de Python Argentina:
 
-- reportando bugs,
+- `reportando bugs <https://github.com/PyAr/wiki/issues>`__,
 - revisando que esos bugs se encuentren vigentes,
 - etc,
 
