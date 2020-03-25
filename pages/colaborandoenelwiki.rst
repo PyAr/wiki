@@ -1,171 +1,84 @@
 Como colaborar en el Wiki de Pyar
 =================================
 
-.. todo:: Sacar esto de moin-moin y poner lo que corresponda
 
-Primeros Pasos
-~~~~~~~~~~~~~~
+.. contents::
+    :local:
 
- * Registrarse en el wiki!
- * Completar tu pagina personal (es opcional pero muy recomendado)
- * Si no queres responder 500 veces de que color es el caballo blanco de san martín podes pedirle a algun admin, o en la lista, que te agregen al ReadWriteGroup
+Introducción
+------------
 
-Colaborando con Código
-~~~~~~~~~~~~~~~~~~~~~~
+Existen varias maneras de contribuir con la wiki de Python Argentina:
 
-* Podes agregar tus recetas en el [[Recetario | Recetario]]
-
-Tenemos Instalado Pygments, asi que podes colorear tu codigo con:
-
-::
-
-    #!code moin
-    {{{
-    #!code python
-    print "Hola Mundo"
-    }}}
-
-Y queda:
-
-::
-
-    {{{
-    #!code python
-    print "Hola Mundo"
-    }}}
-
-Ademas de colorear python, colorea el lenguaje que quieras... incluso java
-
-Como agregar mails de forma un poco mas segura
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Cuando Agregamos direcciones de mail conviene usar el macro MailTo, que evita que los mails queden en plano en el wiki (cuando ponemos mails que no son nuestros)
+- `reportando bugs <https://github.com/PyAr/wiki/issues>`__,
+- revisando que esos bugs se encuentren vigentes,
+- etc,
 
 
-::
+No importa como colaboran, siempre se tiene que seguir el `Codigo de
+Conducta <https://ac.python.org.ar/#coc>`__
 
-    {{{
-    #!code moin
-    joac ARROBA NO QUIERO SPAM algundominio GUION otrodominio PUNTO com
-    }}}
+Reportanto Bugs
+---------------
 
-Y queda:
-joac ARROBA NO QUIERO SPAM algundominio GUION otrodominio PUNTO com
+Cuando se reporte un bug, lo ideal sería que el mismo tenga:
 
-
-Mas Funcionalidades Copadas
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Mapas
-+++++
+- El link de donde se encuentra el error
+- Una captura de pantalla de que es lo que está mal
+- Un mensaje describiendo el error que se quiere cambiar
 
 
-::
+Proponiendo una mejora
+----------------------
 
-    {{{
-    #!code moin
-    <<GoogleMaps(msa=0,msid=117626973029192648931.000447d968ea4d494125a,t="h",ll="-39.774769,-57.216797",spn="40.500047,77.607422",z=4)>>
-    }}}
+Hay dos formas de proponer mejoras:
 
+- Hacer un cambio en una página puntual desde GitHub.
+- Haciendo un Pull request
 
-    <<GoogleMaps(msa=0,msid=117626973029192648931.000447d968ea4d494125a,t="h",ll="-39.774769,-57.216797",spn="40.500047,77.607422",z=4)>>
+En cualquier caso, siempre es necesario que se creen una cuenta en
+`GitHub <https://github.com/>`__
 
-Twitter
-+++++++
+Sino saben mucho de reStructuredText, estos son algunos links que les pueden
+ayudar:
 
-::
+- `Wikipedia reStructeredText <https://es.wikipedia.org/wiki/ReStructuredText>`__
+- `rST Syntax <https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html>`__
+- `Create Documentation with RST, Sphinx, Sublime, and GitHub <https://sublime-and-sphinx-guide.readthedocs.io/en/latest/>`__
 
-    {{{
-    #!code moin
-    <<Twitter(usuario="pyconar")>>
-    }}}
+Cambio puntual
+++++++++++++++
 
-    <<Twitter(usuario="pyconar")>>
-
-Restructured Text
-+++++++++++++++++
-
-::
-
-    {{{{
-    #!code moin
-    {{{
-    #!rst
-
-    ========================
-    Restructured Text
-    ========================
-
-    Otro Título
-    ===========
-    **Algo En Negrita**
-    }}}
-    }}}}
-    {{{
-    #!rst
-
-    ========================
-    Restructured Text
-    ========================
-
-    Otro Título
-    ===========
-    **Algo En Negrita**
-
-    }}}
-
-Video HTML 5
-++++++++++++
-
-::
-
-    {{{
-    #! moin
-    <<Video(http://pyar.usla.org.ar/charlasabiertas2010/intro_python.ogg)>>
-    }}}
-    <<Video(http://pyar.usla.org.ar/charlasabiertas2010/intro_python.ogg)>>
-
-Figuras
-+++++++
-
-::
-
-    {{{{
-    !#code moin
-    {{{#!aafig aspect=0.5 scale=2
-            ddddddddd
-            dd  ddddddddd
-            ddddddddddddd
-            ddddddddddddd
-    dddddddddddddddddddd eeeeee
-    dddddddddddddddddddd  eeeeeee
-    dddddddd             eeeeeeee
-    ddddddd  eeeeeeeeeeeeeeeeeeee
-    dddddd eeeeeeeeeeeeeeeeeee
-            eeeeeeeeeeeee
-            eeeeeeeeeeeee
-            eeeeeeeee  ee
-            eeeeeeeeee
-
-    }}}
-
-    }}}}
+Si estas viendo una pagina que esta mal, a la derecha del título
+hay un link a Editar que los va a llevar al código fuente de todas
+paginas
 
 
-    {{{#!aafig aspect=0.5 scale=2
+Una vez en la misma, pueden editarla desde el mismo Github,
+y cuando commiten los cambios va a pedir crear un Pull request.
 
-            ddddddddd
-            dd  ddddddddd
-            ddddddddddddd
-            ddddddddddddd
-    dddddddddddddddddddd eeeeee
-    dddddddddddddddddddd  eeeeeee
-    dddddddd             eeeeeeee
-    ddddddd  eeeeeeeeeeeeeeeeeeee
-    dddddd eeeeeeeeeeeeeeeeeee
-            eeeeeeeeeeeee
-            eeeeeeeeeeeee
-            eeeeeeeee  ee
-            eeeeeeeeee
+Cambios masivos
++++++++++++++++
 
-    }}}
+Si tienen que hacer cambios masivos, por ahi usar la interfaz de
+Github para editar todos los archivos es ineficiente.
+
+En ese caso:
+
+- Tienen que hacer un fork del proyecto
+- Clonarse el fork
+- Lean el README.rst para saber como configurar el entorno local
+- Editar todos los cambios que crean necesarios
+- Hacer un pull requests de su fork al proyecto oficial
+
+Cosas a tener en cuenta
+-----------------------
+
+Cuando estas editando páginas rST, un par de cosas a tener en cuenta:
+
+- Los archivos tienen que tener los nombres en minúscula y no tener tildes
+  ni otros caracteres especiales
+- Los archivos tienen que tener extensión ``.rst``
+- Cuando tengan que poner una dirección de mail, no pongan la direccion del mail
+  real, `foobar@example.com`, sino que usen palabras como `dot, at`. Por ejemplo:
+  `foobar at example dot com`
