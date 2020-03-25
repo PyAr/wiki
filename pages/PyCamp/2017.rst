@@ -1,7 +1,7 @@
 ¿Un qué?
 --------
 
-Antes que nada, ¿qué es un PyCamp? `Acá tenés una buena descripción y mucha info </PyCamp/>`_.
+Antes que nada, ¿qué es un PyCamp? `Acá tenés una buena descripción y mucha info </pycamp/>`_.
 
 
 Fechas:
@@ -61,9 +61,9 @@ http://www.habitatyerra.com.ar/
 
   * Costo aproximado:
 
-  	* Córdoba -> Rosario: ida $460-$520
+    * Córdoba -> Rosario: ida $460-$520
     * Rosario -> Baradero: ida $170
-  	* Retiro -> Baradero: ida ~$150
+    * Retiro -> Baradero: ida ~$150
 
 
 **Precio:** $2500
@@ -124,16 +124,16 @@ Agregá esto al final de tu archivo ``/etc/hosts``:
 
 .. code::
 
-	192.168.1.100 pypi.pycamp
+    192.168.1.100 pypi.pycamp
 
 
 Y agregá esto en tu archivo ``/home/tuuser/.pip/pip.conf``:
 
 .. code::
 
-	[global]
-	index-url = http://pypi.pycamp/simple
-	trusted-host = pypi.pycamp
+    [global]
+    index-url = http://pypi.pycamp/simple
+    trusted-host = pypi.pycamp
 
 
 astá! ahora podés hacer pip install y va a volar (a la velocidad de una raspi y nuestro wifi)
