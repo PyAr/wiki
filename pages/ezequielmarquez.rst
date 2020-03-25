@@ -6,7 +6,7 @@ Email: ``exe.zaid AT SPAMFREE gmail DOT com``
 
 `Web Site`_
 
-`[[Twitter(usuario="exezaid")]]`_
+`Twitter <https://twitter.com/exezaid>`__
 
 -------------------------
 
