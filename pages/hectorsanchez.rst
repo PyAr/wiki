@@ -1,5 +1,5 @@
 
-`[[Twitter(usuario="hectorksanchez")]]`_
+`Twitter <https://twitter.com/hectorksanchez>`__
 
 Héctor Sanchez - (Karucha)
 --------------------------

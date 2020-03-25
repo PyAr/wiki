@@ -1,7 +1,7 @@
 
 Hola mundo! Estoy aca
 
-`[[Twitter(usuario="perrito666")]]`_
+`twitter <https://twitter.com/perrito666/>`__
 
 ESto es texto puesto aproposito asñkdfjasdkfjhaskdjfas asñdkljfhasñkdjfhaskdjfasdfasdfasdfasdfasdfasdf ESto es texto puesto aproposito asñkdfjasdkfjhaskdjfas asñdkljfhasñkdjfhaskdjfasdfasdfasdfasdfasdfasdf
 

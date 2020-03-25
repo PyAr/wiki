@@ -1,5 +1,5 @@
 
-`[[Twitter(usuario="jjconti")]]`_
+`Twitter <https://twitter.com/jjconti>`__
 
 Juanjo Conti
 ------------

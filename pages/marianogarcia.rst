@@ -2,7 +2,7 @@
 Mariano Garcia
 --------------
 
-`[[Twitter(usuario="elnassto")]]`_
+`Twitter <https://twitter.com/elnassto>`__
 
 Email: ``garcia.berrotaran AT SPAMFREE gmail DOT com``
 
