@@ -205,8 +205,8 @@ La pythonicidad al palo
 
 *Martín Gaitán*
 
-	¿Qué significa que un código sea "pythónico"?
-	Una charla sobre python idiomático: características de este lenguaje para expresar de forma simple, elegante y potente.
+    ¿Qué significa que un código sea "pythónico"?
+    Una charla sobre python idiomático: características de este lenguaje para expresar de forma simple, elegante y potente.
 
 :diapositivas: http://mgaitan.github.com/pythonicidad/
 :repo: http://github.com/mgaitan/pythonicidad/

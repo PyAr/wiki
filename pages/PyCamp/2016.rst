@@ -61,8 +61,8 @@ http://www.turismocordoba.com.ar/solesblancos/#fotos (ver más detalles del hosp
 
   * Costo aproximado:
 
-  	* Córdoba -> La Serranita: ida $54, ida y vuelta ~$100
-  	* Retiro -> La serranita: ida ~$800 (por empresa T.u.s)
+      * Córdoba -> La Serranita: ida $54, ida y vuelta ~$100
+      * Retiro -> La serranita: ida ~$800 (por empresa T.u.s)
 
 
 
@@ -138,16 +138,16 @@ Agregá esto al final de tu archivo ``/etc/hosts``:
 
 .. code::
 
-	192.168.1.100 pypi.pycamp
+    192.168.1.100 pypi.pycamp
 
 
 Y agregá esto en tu archivo ``/home/tuuser/.pip/pip.conf``:
 
 .. code::
 
-	[global]
-	index-url = http://pypi.pycamp/simple
-	trusted-host = pypi.pycamp
+    [global]
+    index-url = http://pypi.pycamp/simple
+    trusted-host = pypi.pycamp
 
 
 Yastá! ahora podés hacer pip install y va a volar (a la velocidad de una raspi y nuestro wifi)

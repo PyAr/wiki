@@ -18,22 +18,22 @@ Gráficos
 --------
 
 .. figure:: /images/AsociacionCivil/Encuesta/prioridades.png
-	:alt: Prioridades
+    :alt: Prioridades
 
 .. figure:: /images/AsociacionCivil/Encuesta/respuestas_diarias.png
-	:alt: Respuestas Diarias
+    :alt: Respuestas Diarias
 
 .. figure:: /images/AsociacionCivil/Encuesta/categoria_socios.png
-	:alt: Categorías Socio
+    :alt: Categorías Socio
 
 .. figure:: /images/AsociacionCivil/Encuesta/cuota_social.png
-	:alt: Cuota Social
+    :alt: Cuota Social
 
 .. figure:: /images/AsociacionCivil/Encuesta/comision_directiva.png
-	:alt: Autoridades
+    :alt: Autoridades
 
 .. figure:: /images/AsociacionCivil/Encuesta/sub_comisiones.png
-	:alt: Sub-Comisiones
+    :alt: Sub-Comisiones
 
 
 Respuestas
@@ -293,10 +293,6 @@ Hay interesados en ser candidatos tentativos para los puestos auxiliares (9 voca
 .. _Formulario: http://goo.gl/forms/3ea9xwMnXR
 
 .. _Anuncio en la lista de correo: http://listas.python.org.ar/pipermail/pyar/2014-November/031979.html
-
-.. _Autoridades:
-
-.. _Candidatos:
 
 .. _estatuto: https://docs.google.com/document/d/1iobvM5W8IL7dU4U7HWf1Jj3reywvxnryF9STMByU-j8/edit
 

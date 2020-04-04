@@ -3,6 +3,6 @@
 <title>Python-Skilled</title>
 </head>
 <body>
-	Python
+    Python
 </body>
 </html>

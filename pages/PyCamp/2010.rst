@@ -61,12 +61,12 @@ Los Micros a Veronica son de la empresa "Expreso La Plata" y salen unicamente de
 
 .. csv-table::
 
-	IDA,<-6> Todos los Dias
-	La Plata,08:00,11:00,14:00,16:00,18.30,20:30
-	Verónica,09:45,12:45,15:45,17.45,20.15,22:15
-	VUELTA,<-6> Todos los Dias
-	Veronica,06:00,11:00,13:50,17:30,19:45,
-	La Plata,07:45,12:45,15:35,19:15,21:30,
+    IDA,<-6> Todos los Dias
+    La Plata,08:00,11:00,14:00,16:00,18.30,20:30
+    Verónica,09:45,12:45,15:45,17.45,20.15,22:15
+    VUELTA,<-6> Todos los Dias
+    Veronica,06:00,11:00,13:50,17:30,19:45,
+    La Plata,07:45,12:45,15:35,19:15,21:30,
 
 :underline:`Advertencia:` por las dudas, confirmen con la terminal de micros de La Plata (0221-427-6841)
 

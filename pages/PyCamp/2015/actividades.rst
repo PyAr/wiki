@@ -14,19 +14,19 @@ Hay dos maneras de usarlo, la más simple (pero tenes que acordarte el comando)
 
 ::
 
-	pip install -i http://alarm:3141/root/pypi/ <paquete>
+    pip install -i http://alarm:3141/root/pypi/ <paquete>
 
 
 La otra es editar `~/.pip/pip.conf` y dejar la config fija:
 
 ::
 
-	[global]
-	index-url = http://10.5.20.252:3141/root/pypi/+simple/
+    [global]
+    index-url = http://10.5.20.252:3141/root/pypi/+simple/
     trusted-host = 10.5.20.252
-	disable-pip-version-check = true
-	allow-all-external=true
-	timeout = 120
+    disable-pip-version-check = true
+    allow-all-external=true
+    timeout = 120
 
 
 

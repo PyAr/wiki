@@ -33,10 +33,10 @@ Si tenes requerimiento de informacion que debe contener la invitacion por favor 
 Template de Call For Charlas Organizacion
 
 .. csv-table::
-	:header: Organizacion,Mail,Nombre del Contacto
+    :header: Organizacion,Mail,Nombre del Contacto
 
-	Ascentio Technologies,jproyector AT ascentio DOT com DOT ar,Javier Proyector
-	IBM R&D Argentina,silvergate-team AT wwpdl DOT vnet DOT ibm DOT com,Silvergate Team
-	Intel Argentina,fernando.l.patrito AT intel DOT com,"Patrito, Fernando L"
+    Ascentio Technologies,jproyector AT ascentio DOT com DOT ar,Javier Proyector
+    IBM R&D Argentina,silvergate-team AT wwpdl DOT vnet DOT ibm DOT com,Silvergate Team
+    Intel Argentina,fernando.l.patrito AT intel DOT com,"Patrito, Fernando L"
 
 .. _pyday: /pyday

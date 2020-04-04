@@ -6,8 +6,8 @@ Bandera para PyAr
    :class: underline
 
 .. note::
-	
-	Cerro la votación de la Bandera. Resultados_
+    
+    Cerro la votación de la Bandera. Resultados_
 
 
 Necesitamos una bandera con el logo de PyAr_, para promocionarnos en charlas y conferencias.

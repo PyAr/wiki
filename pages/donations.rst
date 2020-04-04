@@ -38,7 +38,7 @@ DineroMail
     <input type="hidden" value="4,2,7,13" name="MediosPago">
     <input type="submit" value="Donar" name="submit">
     </form>
-	<small>Moneda: pesos argentinos</small>
+    <small>Moneda: pesos argentinos</small>
 
 Cuenta Digital
 --------------
@@ -52,7 +52,7 @@ Cuenta Digital
 
 .. raw:: html
 
-	<form method="get" action="https://www.cuentadigital.com/api.php?">
+    <form method="get" action="https://www.cuentadigital.com/api.php?">
     <input type="text" value="10.00" name="precio">
     <input type="hidden" value="514869" name="id">
     <input type="hidden" value="" name="codigo">
@@ -63,7 +63,7 @@ Cuenta Digital
     <input type="hidden" value="pyar.org.ar" name="site">
     <input type="submit" value="Donate" name="submit">
     </form>
-	<small>Currency: Argentine pesos, it will translated to your locale</small>
+    <small>Currency: Argentine pesos, it will translated to your locale</small>
 
 
 
