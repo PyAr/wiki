@@ -3,7 +3,7 @@
 
 un generador de nado sincronizado con luces de colores usando colorama (sudo pip install colorama)
 
-::
+.. code-block:: python
 
     import sys
     import time

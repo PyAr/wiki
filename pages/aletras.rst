@@ -13,7 +13,7 @@ Siempre se trabaja con 2 decimales (se redondean los valores suministrados)
 Ejemplos:
 :::::::::
 
-::
+.. code-block:: python
 
     >>> aLetras(1234.56)
     ' MIL DOSCIENTOS TREINTA Y CUATRO CON CINCUENTA Y SEIS CENTAVOS'
@@ -36,7 +36,7 @@ La asignación y condicional en una línea -> numeros[1] = "UNO" if i == 2 else 
 
 Puede reemplazarse con:
 
-::
+.. code-block:: python
 
     if i == 2:
       numeros[1] = "UNO"
@@ -47,7 +47,7 @@ Puede reemplazarse con:
 Código:
 :::::::
 
-::
+.. code-block:: python
 
     #fuente: Recetario de PyAR, http://python.com.ar/moin/Recetario
     #autor: Cesar E Portela

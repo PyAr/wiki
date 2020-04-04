@@ -11,7 +11,7 @@ Se llevó a cabo la quinta reunión de PyAr_ con total éxito. Como MarianoDragh
 
 * Expuse Decimal. Estuvo muy interesante, porque nos poníamos a discutir sobre la curvatura del círculo, que los complejos tienen infinitos todo alrededor, sobre el pelo del gato y la quinta pata del huevo. ¡Y hasta les pude contar como usar el módulo! Realmente me encantó. Ah, de paso:
 
-::
+.. code-block:: python
 
    >>> from decimal import *
    >>> Decimal("-0")

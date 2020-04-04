@@ -3,7 +3,7 @@
 
 Acelera las aplicaciones en Python (JIT), disponible para 32bit.
 
-::
+.. code-block:: python
 
     #!/usr/bin/env python
     #-*- coding:utf-8 -*-

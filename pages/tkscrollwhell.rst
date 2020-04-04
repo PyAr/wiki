@@ -3,7 +3,7 @@
 
 Usando la rueda de Scroll del raton con TK. Ejemplo simple con un poco de imaginacion puede manejar mas cosas.
 
-::
+.. code-block:: python
 
     #!/usr/bin/env python
     #-*- coding:utf-8 -*-

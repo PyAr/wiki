@@ -32,7 +32,7 @@ Ejemplo
 
 Como ejemplo tomamos una aplicación simple *hola.py*:
 
-::
+.. code-block:: python
 
     # -*- coding: iso-8859-1 -*-
 
@@ -46,7 +46,7 @@ Py2Exe_ empaqueta los archivos necesarios para ejecutar la aplicación sin neces
 
 Para crear el ejecutable es necesario crear un script de setup que extiende las utilidades de distribución de python (DistUtils_), *setup.py*:
 
-::
+.. code-block:: python
 
     from distutils.core import setup
     import py2exe
@@ -56,7 +56,7 @@ Para crear el ejecutable es necesario crear un script de setup que extiende las 
 
 Luego en la carpeta de la aplicación, por línea de comandos, ejecutamos este script:
 
-::
+.. code-block:: console
 
    python setup.py py2exe
 
@@ -81,7 +81,7 @@ Con 7-zip se puede crear un único archivo comprimido autoextraible (ejecutable)
 
 Para ello, ejecutar 7-Zip en la linea de comandos sobre la carpeta de la aplicación:
 
-::
+.. code-block:: console
 
    7z.exe a -sfx setup.exe dist
 

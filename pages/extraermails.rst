@@ -4,7 +4,7 @@
 Código
 ::::::
 
-::
+.. code-block:: python
 
     >>> import re
     >>> mailsrch = re.compile(r'[\w\-][\w\-\.]+@[\w\-][\w\-\.]+[a-zA-Z]{1,4}')

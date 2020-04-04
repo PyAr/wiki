@@ -3,7 +3,7 @@
 
 * Como Detectar y Notificar Dispositivos USB, usando Python, en Linux, ejemplo simple.
 
-::
+.. code-block:: python
 
     #!/usr/bin/env python
     # -*- coding: utf-8 -*-

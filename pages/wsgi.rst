@@ -15,7 +15,7 @@ Resumen de la Especificación
 Ejemplo
 ~~~~~~~
 
-::
+.. code-block:: python
 
    # Aqui va mi 'Hola PyAr!, pero con WSGI, una maravilla de Python.
 
@@ -69,7 +69,7 @@ Además, puede utilizarse directamente mod_wsgi (ver siguiente sección).
 
 Ejemplos de configuración (tanto en /etc/apache2/... en un archivo .htaccess en el mismo directorio):
 
-::
+.. code-block:: apacheconf
 
      # handler Publisher:
      #  se ejecutará cualquier archivo .py del directorio, llamando a la función de la url:
@@ -105,7 +105,7 @@ Ejemplos de configuración (tanto en /etc/apache2/... en un archivo .htaccess en
 
 Para configurar una aplicación wsgi en mod_python:
 
-::
+.. code-block:: apacheconf
 
    SetHandler python-program
    PythonHandler modpython_gateway::handler
@@ -132,13 +132,13 @@ Para usar WSGI directamente desde apache, existe mod_wsgi, que es un módulo mas
 
 Ejemplo 1: ejecutar en el mismo proceso que apache (no independiente, estilo mod_python/php/etc.). En este caso se mapea la url /app al script wsgi app.py:
 
-::
+.. code-block:: apacheconf
 
    WSGIScriptAlias /app /usr/local/apache/app.py
 
 Ejemplo 2: ejecutar en un proceso (interprete) independiente con un usuario arbitrario diferente de apache (estilo FastCGI, mejorando seguridad y performance):
 
-::
+.. code-block:: apacheconf
 
    WSGIDaemonProcess site-1 user=trac group=trac threads=25
    WSGIScriptAlias /site-1 /usr/local/apache/app.py
@@ -161,7 +161,7 @@ Con respecto a la diferencia con PHP/PSP, la mayoría de las aplicaciones web en
 
 Ejemplo muy simple con WSGI:
 
-::
+.. code-block:: python
 
    def App(environ, start_response):
            "Punto de entrada WSGI"

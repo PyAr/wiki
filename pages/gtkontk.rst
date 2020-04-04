@@ -17,7 +17,7 @@ De fondo Gedit en Ubuntu, usando el tema Ambiance, arriba una ventana con simila
 
 **El Codigo para hacer GTK on TK:**
 
-::
+.. code-block:: python
 
     #
     #!/usr/bin/env python
@@ -185,7 +185,7 @@ Descripcion: Crea 2 ventanas pequeñas iguales, una tratara de imitar el tema de
 
 *(el ejemplo funciona en Ubuntu, que es lo que yo uso, usa el codigo de arriba, lejos de estar bien hecho, pero sirve de ejemplo)*:small:`.`
 
-::
+.. code-block:: python
 
     #
     #!/usr/bin/env python
@@ -267,7 +267,7 @@ Desventajas:
 
 Probado con python 2.6 y PyGtk 2.17
 
-::
+.. code-block:: python
 
     # -*- coding: utf-8 -*-
 
@@ -591,7 +591,7 @@ Probado con python 2.6 y PyGtk 2.17
 
 Descripcion: Crea 2 ventanas pequeñas iguales, una tratara de imitar el tema de GTK, la otra se mostrara como es por defecto.
 
-::
+.. code-block:: python
 
     #!/usr/bin/env python2
     #-*- coding:utf-8 -*-

@@ -2,7 +2,7 @@
 
 La siguiente macro, detecta el tipo de documento (Calc, Writer, Draw, Impress, etc) desde el cual se ejecuta.
 
-::
+.. code-block:: python
 
     # -*- coding: utf-8 -*-
     import uno

@@ -1,6 +1,6 @@
 .. title: Entendiendounicode
 
-::
+.. code-block:: python
 
    < dash> herrFoo: the difference between a unicode string and an encoded byte string is exactly the same kind of difference as between the list [1, 2, 3] and the string "[1, 2, 3]"
 
@@ -23,7 +23,7 @@ Para resolver este problema es que se inventó Unicode_ (cualquier semejanza con
 
 La ventaja de Unicode es que al contener todo, es posible que, dado un Encoding, se pueden encontrar los símbolos que abarca y hacer una traducción Unicode <-> Encoding. Al paso hacia la derecha se le llama Encodeado y la inversa Decodeado. Ver `Unicode en una filmina`_. Notar que como Unicode es más grande (o igual?) que cualquier Encoding, hay símbolos en Unicode que no están en un Encoding dado. El Encodeado de un caracter no presente en el Encoding resulta en el fatídico y über-odiado mensaje:
 
-::
+.. code-block:: python
 
    UnicodeDecodeError: 'ascii' codec can't decode byte 0xc3 in position 0: ordinal not in range(128)
 
@@ -36,7 +36,7 @@ Para complicar las cosas[2], Python3, en cambio, tiene otros dos tipos para ello
 
 Entonces, tamos listoso0 con la nomenclatura: ``unicode`` para bichos Unicode y ``str`` para bichos Encodeados. La forma de crear un bicho Unicode es muy simple[1]:
 
-::
+.. code-block:: python
 
     a= u'Aló mundo!'
 
@@ -46,7 +46,7 @@ El source también existe, y está encodeado
 
 ¿Vieron ese [1] que puse más arriba? Bueno, resulta que hay una mentira casi tan grande como una casa en todo esto. Más que una mentira, una vuelta más de rosca. ¿Vieron que dije que cuando uno deja el mundo Python/Unicode uno pasa al mundo Encodeado? Bueno, les cuento, y agárrensé: Los archivos que contienen el código fuente de su programa Python también están Encodeados. Esto trae como consecuencia...
 
-::
+.. code-block:: python
 
     # -*- coding: utf-8 -*-
 

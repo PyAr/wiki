@@ -5,7 +5,7 @@
 
 **Nota:** *Que tengas direccion ip publica no implica que tengas conectividad.*
 
-::
+.. code-block:: python
 
     #!/usr/bin/env python
     # -*- coding: utf-8 -*-
@@ -16,7 +16,7 @@
 
 **Ejemplo:**
 
-::
+.. code-block:: python
 
    sudo /usr/bin/env python getip.py
    190.139.27.XXX

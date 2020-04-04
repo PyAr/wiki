@@ -13,7 +13,7 @@ Probablemente para un uso concreto sea necesario extender memmap antes del memma
 
 Este código sólo funciona en CPython, puesto que utiliza el hecho de que id() devuelve la dirección en memoria de un objeto. Eso no es cierto en Jython, PyPy y muchas otras implementaciones.
 
-::
+.. code-block:: python
 
     import cPickle
     from guppy import hpy as heapy

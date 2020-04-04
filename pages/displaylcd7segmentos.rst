@@ -11,7 +11,7 @@ Util para importarlo dentro de otro programa para representar otras cosas.
 
 .. image:: /images/DisplayLCD7Segmentos/temp.jpg
 
-::
+.. code-block:: python
 
     #!/usr/bin/env python
     # -*- coding: utf-8 -*-

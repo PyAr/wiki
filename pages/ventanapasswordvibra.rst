@@ -7,7 +7,7 @@
 
 .. image:: /images/VentanaPasswordVibra/temp.jpg
 
-::
+.. code-block:: python
 
     #!/usr/bin/env python
     # -*- coding: utf-8 -*-

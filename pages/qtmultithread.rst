@@ -3,7 +3,7 @@
 
 ejemplo de como manipular la interfaz grafica desde multiples threads.
 
-::
+.. code-block:: python
 
     #!/usr/bin/env python
     # -*- coding: utf-8 -*-

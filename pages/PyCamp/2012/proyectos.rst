@@ -45,14 +45,14 @@ vim
 
 - Usar el modo de edición de vim desde la línea de comandos (funciona en la consola de python):
 
-::
+.. code-block:: vim
 
        set -o vi # bash
        bindkey -v # zsh
 
   Agregarlo al .bashrc o .zshrc respec. También se puede setear creando un .inputrc (en bash)
 
-::
+.. code-block:: vim
 
        set editing-mode vi
        set keymap vi

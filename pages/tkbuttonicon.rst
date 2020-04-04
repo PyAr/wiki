@@ -5,7 +5,7 @@ Crea botones con Iconos. Si es en Windows sacar el '@'+ de la ruta al icono. Los
 
 Ideal para crear mini-toolbars con iconos personalizados.
 
-::
+.. code-block:: python
 
     #!code python
     #!/usr/bin/env python

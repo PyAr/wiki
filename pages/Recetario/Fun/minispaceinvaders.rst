@@ -13,7 +13,7 @@ Un mini space invaders usando caracteres, la nave dispara a quemarropas en una l
 
 * En cuanto pueda pongo un videito.
 
-::
+.. code-block:: python
 
     import random
     import time

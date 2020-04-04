@@ -2,7 +2,7 @@
 
 Otra prueba:
 
-::
+.. code-block:: python
 
    import sqlite3
 

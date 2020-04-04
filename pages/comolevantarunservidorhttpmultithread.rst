@@ -5,7 +5,7 @@ este ejemplo muestra como levantar un servidor web en python sirviendo el conten
 
 para usar simplemente hay que llamar a este modulo desde la linea de comando, si se llamara test.py entonces correr "python test.py"
 
-::
+.. code-block:: python
 
     import SocketServer
     import BaseHTTPServer

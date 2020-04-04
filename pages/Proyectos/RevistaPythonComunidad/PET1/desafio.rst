@@ -13,7 +13,7 @@ De esta página los participantes pueden bajar un programa que les permite valid
 
 Uso/*Use*:
 
-::
+.. code-block:: bash
 
     some@example~:$ ./pet1-test.sh pet1-ejemplo.py
 
@@ -22,7 +22,7 @@ Uso/*Use*:
 
 Los caracteres se cuentan con / *Characters are counted with:*
 
-::
+.. code-block:: bash
 
     some@example:~$ wc -c pet1-ejemplo.py
 

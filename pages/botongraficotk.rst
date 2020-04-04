@@ -9,7 +9,7 @@ Crear un boton grafico personalizado, con 3 estados posibles *(Activado, con el 
 
 * **Requisitos:** Es necesario saber usar encoding en Base64, que NO es cubierto por esta Receta, disculpe.
 
-::
+.. code-block:: python
 
     #!/usr/bin/env python
     # -*- coding: utf-8 -*-
@@ -174,7 +174,7 @@ Crear un boton grafico personalizado, con 3 estados posibles *(Activado, con el 
 
 * **Ejemplo:** *(es el de la foto)*.
 
-::
+.. code-block:: python
 
     #!/usr/bin/env python
     # -*- coding: utf-8 -*-

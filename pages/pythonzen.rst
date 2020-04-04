@@ -3,7 +3,7 @@
 
 *Nuestros principios guía* 🙂
 
-::
+.. code-block:: python
 
     import this
 
