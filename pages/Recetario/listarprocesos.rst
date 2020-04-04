@@ -1,6 +1,5 @@
+.. title: Listar Procesos
 
-Listar Procesos
-===============
 
 Esta receta muestra una forma de listar procesos en python que soporta múltiples sistemas operativos
 

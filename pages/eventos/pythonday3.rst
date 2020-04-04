@@ -1,6 +1,5 @@
+.. title: Python Day 3 Cordoba
 
-Python Day 3 Cordoba
-====================
 
 El día 17 de abril de 2010 se realizado una Jornada de charlas sobre Python, contando con importantes disertantes. Las charlas se llevaron a cabo en el Salón de Usos Múltiples de la Universidad Tecnológica Nacional, Facultad Regional Córdoba, entre las 10 y las 17 horas.
 

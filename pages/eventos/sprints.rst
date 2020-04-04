@@ -1,6 +1,5 @@
+.. title: Sprints
 
-Sprints
--------
 
   Participamos en pyweek2 con STIM_
 

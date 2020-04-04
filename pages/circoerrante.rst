@@ -1,6 +1,5 @@
+.. title: El Circo Errante
 
-El Circo Errante
-----------------
 
 Esta página es el punto central de coordinación y acumulación de ideas para el proyecto de Circo Errante de PyAr_, que tiene como misión acercar Python a las Universidades de una forma distinta a las actuales.
 

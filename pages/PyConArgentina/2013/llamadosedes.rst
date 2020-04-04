@@ -1,6 +1,5 @@
+.. title: Llamado a Sedes PyCon Argentina 2013
 
-Llamado a Sedes PyCon Argentina 2013
-====================================
 
 Bueno como nos comprometimos, lanzamos el kickof para elegir la sede para PyCon_ Argentina 2013.
 

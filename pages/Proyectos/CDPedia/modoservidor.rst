@@ -1,6 +1,5 @@
+.. title: Correr CDPedia como Servidor
 
-Correr CDPedia como Servidor
-----------------------------
 
 La CDPedia está preparada (desde su versión 0.8) para correr en modo servidor: la instalás en una máquina, y podés accederla desde muchas otras.
 

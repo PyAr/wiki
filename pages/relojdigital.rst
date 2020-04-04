@@ -1,6 +1,5 @@
+.. title: Reloj Digital
 
-Reloj Digital
-=============
 
 * Crear un Reloj digital simple, empleando un Label de TK.
 

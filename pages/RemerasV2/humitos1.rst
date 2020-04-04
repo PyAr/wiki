@@ -1,6 +1,5 @@
+.. title: Versión 0.1 de humitos
 
-Versión 0.1 de humitos
-======================
 
 * Me gustaría que la remera sea blanca.
 

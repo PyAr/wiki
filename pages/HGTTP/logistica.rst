@@ -1,6 +1,5 @@
+.. title: Logistica durante el evento
 
-Logistica durante el evento
----------------------------
 
 Llegada la hora hay varias cosas importantes a tener en cuenta.
 

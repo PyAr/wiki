@@ -1,6 +1,5 @@
+.. title: Ariel Alvarez
 
-Ariel Alvarez
-=============
 
 /*TODO: todo*/
 

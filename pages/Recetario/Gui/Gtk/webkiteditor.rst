@@ -1,6 +1,5 @@
+.. title: Gtk Webkit Editor
 
-Gtk Webkit Editor
-=================
 
 ejemplo de como usar webkit para editar paginas HTML como si fuera un editor
 

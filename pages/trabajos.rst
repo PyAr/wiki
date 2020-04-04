@@ -1,3 +1,5 @@
+.. title: Trabajos
+
 .. class:: alert alert-warning
 
 **Atención:** Esta página solía ser el espacio para publicar ofertas de trabajo relacionadas con Python,

@@ -1,6 +1,5 @@
+.. title: LucianoRossi
 
-LucianoRossi
-------------
 
 Email: ``lukio AT SPAMFREE gcoop DOT coop``
 

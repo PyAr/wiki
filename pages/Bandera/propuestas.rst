@@ -1,6 +1,5 @@
+.. title: Banderas propuestas
 
-Banderas propuestas
-===================
 
 .. note::
 

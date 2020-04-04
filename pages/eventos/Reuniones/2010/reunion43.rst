@@ -1,6 +1,5 @@
+.. title: Reunión 43 - Martes 24 de Agosto - Ciudad de Cordoba, en Alfonsina de Belgrano -- 19hs
 
-Reunión 43 - Martes 24 de Agosto - Ciudad de Cordoba, en Alfonsina de Belgrano -- 19hs
---------------------------------------------------------------------------------------
 
 Definimos cuando usando la lista de correo
 

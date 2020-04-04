@@ -1,6 +1,5 @@
+.. title: Banderas cambiadas
 
-Banderas cambiadas
-==================
 
 Bandera 2
 ---------

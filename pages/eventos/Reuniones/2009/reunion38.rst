@@ -1,6 +1,5 @@
+.. title: Reunión 38 - Sábado 7/11 - Rafaela - 20:00 Hs
 
-Reunión 38 - Sábado 7/11 - Rafaela - 20:00 Hs
----------------------------------------------
 
 **Temas:**
 

@@ -1,6 +1,5 @@
+.. title: Pablo Seminario
 
-Pablo Seminario
----------------
 
 Usuario de GNU/Linux desde hace unos años y dedicado a Python desde hace unos meses 🤣
 

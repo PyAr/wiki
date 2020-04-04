@@ -1,6 +1,5 @@
+.. title: Obtener la cantidad de Bytes transferidos
 
-Obtener la cantidad de Bytes transferidos
-=========================================
 
 Imprime la cantidad de datos en Bytes transferidos en la interfaz indicada.
 

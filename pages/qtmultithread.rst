@@ -1,6 +1,5 @@
+.. title: Qt Multi Thread
 
-Qt Multi Thread
-===============
 
 ejemplo de como manipular la interfaz grafica desde multiples threads.
 

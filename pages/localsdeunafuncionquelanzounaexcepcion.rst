@@ -1,6 +1,5 @@
+.. title: Locals De Una Funcion Que Lanzo Una Excepcion
 
-Locals De Una Funcion Que Lanzo Una Excepcion
-=============================================
 
 ejemplo de como obtener las variables locales a la función que lanzo una excepion.
 

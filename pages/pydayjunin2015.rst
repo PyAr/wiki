@@ -1,6 +1,5 @@
-==================
-*PyDay Junín 2015*
-==================
+.. title: *PyDay Junín 2015*
+
 
 - Fecha : Sábado 26 de Septiembre de 2015
 - Lugar: UNNOBA ( www.unnoba.edu.ar )

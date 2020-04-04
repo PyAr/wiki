@@ -1,6 +1,5 @@
+.. title: Declaración de Diversidad
 
-Declaración de Diversidad
-=========================
 
 La Python Software Foundation y la comunidad global Python aprueba y alienta la participación de todos y todas :-).  Nuestra comunidad esta basada en respeto mutuo, tolerancia y fomento, y estamos trabajando para ayudar a cada uno a vivir a la altura de estos principios.  Queremos que la comunidad sea más diversa: quien quieras que seas, y cualquiera sean tus orígenes, te recibiremos.
 

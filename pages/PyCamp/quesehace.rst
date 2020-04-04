@@ -1,6 +1,5 @@
+.. title: Que se hace en un PyCamp
 
-Que se hace en un PyCamp
-========================
 
 Los PyCamps_ son mas de 'hacer' que de 'escuchar'.
 

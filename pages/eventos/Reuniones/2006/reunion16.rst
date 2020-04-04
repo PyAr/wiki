@@ -1,6 +1,5 @@
+.. title: Reunión 16 - 03/06/2006 - 9:00 Hs - UTN - Santa Fe
 
-Reunión 16 - 03/06/2006 - 9:00 Hs - UTN - Santa Fe
-==================================================
 
 Esta reunion fue un poco distinta a las demas, en parte porque no se hizo en el hip bar, y en parte porque la organizaron unos chabones copados del lugli en santa fe, fueron mas de 250 personas, y se promocionaron como las jornadas de python en santa fe (que loco!).
 

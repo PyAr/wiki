@@ -1,6 +1,5 @@
+.. title: Nicolás Echániz
 
-Nicolás Echániz
----------------
 
 http://www.altermundi.net
 

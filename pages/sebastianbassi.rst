@@ -1,6 +1,5 @@
+.. title: Sebastian Bassi
 
-Sebastian Bassi
----------------
 
 Soy licenciado en Biotecnología con orientación en genética molecular egresado de la UNQ (Universidad Nacional de Quilmes) y uso mucho Python para mis trabajos en bioinformatica y en programación en general.
 

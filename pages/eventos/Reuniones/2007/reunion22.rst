@@ -1,6 +1,5 @@
+.. title: Reunión 22 - 25/04/2007 - Hip Bar
 
-Reunión 22 - 25/04/2007 - Hip Bar
-=================================
 
 De vuelta en el Hip Bar: esta vez nos olvidamos de hacer reserva, y menos mal que no estaba ocupado el sotano, porque fuimos tantos que hubiera sido muy incomodo en las mesas de adelante... y no se agoto la cerveza!
 

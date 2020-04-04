@@ -1,6 +1,5 @@
+.. title: Twisted
 
-Twisted
-=======
 
 *Vamos a ver porque el modelo de twisted es necesario, como se programa en modo asyncronico usando deferreds y conocer el api de red de twisted para hacer servicios.*
 

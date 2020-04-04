@@ -1,6 +1,5 @@
+.. title: Nado Sincronizado
 
-Nado Sincronizado
------------------
 
 un generador de nado sincronizado
 

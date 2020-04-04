@@ -1,6 +1,5 @@
+.. title: Reunión 29 - 09/05/08 - Bar "Plataforma", Santa Fe
 
-Reunión 29 - 09/05/08 - Bar "Plataforma", Santa Fe
-==================================================
 
 Asistentes
 ----------

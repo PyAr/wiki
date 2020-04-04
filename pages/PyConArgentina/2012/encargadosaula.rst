@@ -1,6 +1,5 @@
+.. title: Instrucciones para encargados de aula
 
-Instrucciones para encargados de aula
-=====================================
 
 * Cada encargado tiene un bloque de tres charlas en la misma aula: 10.00 a 12.45hs o 14.00 a 18.15hs.
 

@@ -1,6 +1,5 @@
+.. title: Nicolas Cesar
 
-Nicolas Cesar
--------------
 
 Email: ``nico AT SPAMFREE nicocesar DOT com``
 

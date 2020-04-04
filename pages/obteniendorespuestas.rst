@@ -1,6 +1,5 @@
+.. title: Obteniendo Respuestas
 
-Obteniendo Respuestas
-=====================
 
 *por Mike Ash*
 

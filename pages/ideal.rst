@@ -1,6 +1,5 @@
+.. title: Características esenciales y deseables en un IDE
 
-Características esenciales y deseables en un IDE
-================================================
 
 En esta página se pretende mostrar una lista *features* que se desearían en un Entorno de Desarrollo Integrado (IDE en inglés) para desarrollar código en python. Parece que esto se ha convertido poco a poco en un proyecto que a varios (todos? :P) nos gustaria que se lleve a cabo 🙂
 

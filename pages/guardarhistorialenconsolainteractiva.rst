@@ -1,6 +1,5 @@
+.. title: Guardar historial en consola interactiva
 
-Guardar historial en consola interactiva
-========================================
 
 como guardar y recuperar el historial de las sesiones en la consola interactiva (donado por Matias Ribecky)
 

@@ -1,6 +1,5 @@
+.. title: Página de prueba, por favor no borrar!!
 
-Página de prueba, por favor no borrar!!
-=======================================
 
 Objetivo: Publicar los pedidos de búsqueda de colaboradores para proyectos en Python. La idea es poner pequeñas descripciones de los proyectos para que los integrantes de PyAr_ vean que es lo que se está haciendo y si les parece interesante, tienen un URL para ampliar y una dirección de contacto.
 

@@ -1,6 +1,5 @@
+.. title: Adrián Pardini
 
-Adrián Pardini
---------------
 
 Email: ``pyar AT SPAMFREE tangopardo DOT com DOT ar`` You can even more obfuscate your email address by adding more uppercase letters followed by a leading and trailing blank.
 

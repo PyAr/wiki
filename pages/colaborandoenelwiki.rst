@@ -1,5 +1,5 @@
-Como colaborar en el Wiki de Pyar
-=================================
+.. title: Como colaborar en el Wiki de Pyar
+
 
 
 .. contents::

@@ -1,6 +1,5 @@
+.. title: Mariano Reingart
 
-Mariano Reingart
-----------------
 
 Email: ``reingart AT SPAMFREE gmail DOT com``
 

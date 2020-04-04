@@ -1,6 +1,5 @@
+.. title: GmailMail
 
-GmailMail
----------
 
 .. role:: small
    :class: small

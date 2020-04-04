@@ -1,6 +1,5 @@
+.. title: Migración a Debian Wheezy
 
-Migración a Debian Wheezy
-=========================
 
 `[[DateTime(2013-06-06T09:28:29-0300)]]`_
 

@@ -1,3 +1,4 @@
+.. title: Desarrollador Jr O Ssr Django Y Javascript
 
 ﻿XTech es una empresa que hace muchos años está en el mercado de Linux y Software Libre, orientada a la infraestrucutura. Actualmente estamos consolidando un sector de desarrollo en la empresa y buscamos programadores que quieran profundizar en django y javascript y python en un ambiente tranquilo y constante capacitación. Enviar CV con remuneración pretendida a `rrhh@xtech.com.ar`_.
 

@@ -1,5 +1,5 @@
-PyCon
------
+.. title: PyCon
+
 
 La PyCon (Python Conference) es una convención anual pensada para la promoción del lenguaje de programación Python, así como para programar y discutir proyectos relacionados al mismo; se realiza una sola al año, con alcance nacional (e internacional, por invitados y asistentes); son siempre con entrada libre y gratuita.
 

@@ -1,6 +1,5 @@
+.. title: Votación PyCamp 2014
 
-Votación PyCamp 2014
---------------------
 
 El resultado de la votación fue:
 

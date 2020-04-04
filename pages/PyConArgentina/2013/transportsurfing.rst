@@ -1,6 +1,5 @@
+.. title: TransportSurfing en PyConAr2013
 
-TransportSurfing en PyConAr2013
-===============================
 
 Esta pagina sirve para todos aquellos que buscan un lugar en el asiento de algun transporte para ir a PyConAr o solo buscan gente para no hacer el viaje en soledad
 

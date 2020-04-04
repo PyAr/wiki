@@ -1,6 +1,5 @@
+.. title: pycamp.orm, haciendo facil usar sqlalchemy :)
 
-pycamp.orm, haciendo facil usar sqlalchemy :)
-=============================================
 
 * Evento: PyDay 2011
 

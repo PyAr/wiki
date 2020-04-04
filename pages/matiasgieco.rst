@@ -1,6 +1,5 @@
+.. title: Matias Gieco
 
-Matias Gieco
-------------
 
 Debido a que no sé que poner, voy a seguir los consejos de este wiki de cómo armar mi perfil 🙂
 

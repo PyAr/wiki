@@ -1,6 +1,5 @@
+.. title: Interfaces Gráficas (GUI)
 
-Interfaces Gráficas (GUI)
--------------------------
 
 **Advertencia**: Esta página esta basada (en parte) en opiniones y experiencias personales de distintas personas. YMMV
 

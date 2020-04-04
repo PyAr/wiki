@@ -1,6 +1,5 @@
+.. title: Web2Py
 
-Web2Py
-======
 
 Introducción
 ------------

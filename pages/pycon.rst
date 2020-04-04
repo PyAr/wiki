@@ -1,3 +1,4 @@
+.. title: Pycon
 
 PyCon es la denominación estándar para las conferencias nacionales de Python.
 

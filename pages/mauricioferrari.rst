@@ -1,6 +1,5 @@
+.. title: Mauricio Ferrari
 
-Mauricio Ferrari
-----------------
 
 ::
 

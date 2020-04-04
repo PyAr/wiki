@@ -1,3 +1,5 @@
+.. title: Donations
+
 **Hello! This is the donation page of Python Argentina.**  🌟
 
 Please, select one of the options below, and thank you very much!

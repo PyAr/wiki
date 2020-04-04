@@ -1,6 +1,5 @@
+.. title: Notas de prensa
 
-Notas de prensa
-===============
 
 * `Versión 0.8`_ (17 de Enero de 2013)
 

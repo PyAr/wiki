@@ -1,6 +1,5 @@
+.. title: Reunión 57 - 8 de Julio de 2012 - Verónica, Buenos Aires - 21:00
 
-Reunión 57 - 8 de Julio de 2012 - Verónica, Buenos Aires - 21:00
-----------------------------------------------------------------
 
 **Edición** PyCamp_
 

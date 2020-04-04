@@ -1,6 +1,5 @@
+.. title: Workshop para principiantes en PyCon Argentina 2012
 
-Workshop para principiantes en PyCon Argentina 2012
-===================================================
 
 Siempre que hablamos de diversidad sale el tema de ayudar a principiantes, de bajar la barrera de entrada para que los nuevos interesados participen en proyectos de la comunidad y se acerquen al lenguaje Python.
 

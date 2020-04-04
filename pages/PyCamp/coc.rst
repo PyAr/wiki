@@ -1,6 +1,5 @@
+.. title: Código de Conducta
 
-Código de Conducta
-------------------
 
 PyCamp_ es un evento de la comunidad que busca mejorar la comunicación y colaboración entre los desarrolladores.
 

@@ -1,3 +1,4 @@
+.. title: Changelogs
 
 Para la 0.8
 ~~~~~~~~~~~

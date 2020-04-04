@@ -1,3 +1,4 @@
+.. title: Callforcharlas
 
 PyAR (Python Argentina) se encuentra en la organización del 2do Python Day en Córdoba. Convocamos a aquellos interesados en participar del mismo en calidad de disertantes a presentar sus charlas.
 

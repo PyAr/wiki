@@ -1,6 +1,5 @@
+.. title: Fotos de la Bandera
 
-Fotos de la Bandera
-===================
 
 * Imprimir una bandera de Lona: $92,56+iva
 

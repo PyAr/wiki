@@ -1,5 +1,5 @@
-PyConAr 2020
-============
+.. title: PyConAr 2020
+
 
 Luego del segundo año consecutivo de realizar la PyCon Argentina en CABA (ediciones 10° y 11°), es hora de hacer el Llamado a Sedes para la próxima PyConAr!
 

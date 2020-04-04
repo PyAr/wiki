@@ -1,6 +1,5 @@
+.. title: PyCon Argentina
 
-PyCon Argentina
-===============
 
 Selección de sedes para PyCon Argentina 2013
 --------------------------------------------

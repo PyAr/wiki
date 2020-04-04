@@ -1,6 +1,5 @@
+.. title: Reunión 34 - Miércoles 03/12/2008 - Bar "El Imaginario Cultural", Buenos Aires - 19:30hs
 
-Reunión 34 - Miércoles 03/12/2008 - Bar "El Imaginario Cultural", Buenos Aires - 19:30hs
-========================================================================================
 
 Bienvenidos a todos a la minuta de la reunión número 34 de Pyar! Debajo encontrarán respuestas para algunas preguntas que tal vez ronden sus mentes, si las mismas no cuadran con lo que uds. percibieron, háganmelo saber y sincronizamos pensamientos... Ojalá la disfruten!
 

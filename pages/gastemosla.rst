@@ -1,6 +1,5 @@
+.. title: PyAr tiene plata, ¡gastémosla!
 
-PyAr tiene plata, ¡gastémosla!
-------------------------------
 
 `Hilo original`_
 

@@ -1,5 +1,5 @@
-Introducción a Python
-=====================
+.. title: Introducción a Python
+
 
 Esta charla se orienta a programadores, principiantes o avanzados, que desean conocer este lenguaje, de manera de aprender
 sus principios básicos.  Se presentan las características generales del lenguaje y su biblioteca estándar, su parte social,

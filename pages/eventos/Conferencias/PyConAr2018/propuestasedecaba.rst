@@ -1,5 +1,5 @@
-Propuesta de Sede para PyCon Argentina 2018
-===========================================
+.. title: Propuesta de Sede para PyCon Argentina 2018
+
 
 La siguiente es la propuesta formal para realizar PyCon Argentina 2018 en la
 Ciudad Autónoma de Buenos Aires, co-organizadas por Joaquín Sorianello y

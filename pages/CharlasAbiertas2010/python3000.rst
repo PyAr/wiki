@@ -1,6 +1,5 @@
+.. title: Python 3000
 
-Python 3000
-===========
 
 *Esta charla presenta la evolución de Python, la versión 3 del lenguaje (a.k.a. Python 3000), y explica las razones por las cuales se planeó y ejecutó esta evolución.*
 

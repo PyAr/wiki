@@ -1,6 +1,5 @@
+.. title: tkVersionPrint
 
-tkVersionPrint
-==============
 
 Imprime la version de TK que se esta usando actualmente.
 

@@ -1,3 +1,4 @@
+.. title: Pythoneneldiaadia
 
 Esta pagina esta dedicada a enumerar los programas de python que es posible usar en cosas comunes, ademas de hacer una lista la idea seria poner las librerias mas importantes que usa.
 

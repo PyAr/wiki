@@ -1,6 +1,5 @@
+.. title: Remeras de PyAr
 
-Remeras de PyAr
-===============
 
 Adjuntamos el diseño de las remeras de PyAr_, versión 1.0 ;-). Para el proceso de la **nueva edición**, en RemerasV2_.
 

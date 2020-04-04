@@ -1,3 +1,4 @@
+.. title: Buzospyar
 
 **Buzos de Python Argentina!**
 

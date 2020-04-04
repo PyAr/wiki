@@ -1,6 +1,5 @@
+.. title: Reunión 14 - 08/03/2006 - Hip Bar
 
-Reunión 14 - 08/03/2006 - Hip Bar
-=================================
 
 * Asistentes: ¡Copamos el hip bar, rompimos record, comimos pizza y tomamos birra (que alcanzó hasta el final)! Fuimos diecisiete: GuillermoGonzalez, AlejandroJCura_, FacundoBatista_, MarianoDraghi_, AlejandroDavidWeil_, PabloZiliani_, RicardoKirkner_, LeitoMonk_, GuillermoNarvaja, NubIs_,  SergioGomez, MartinSarsale, Andres, Mario, AlfonsoPalomares_, LucioTorre_, Purpura
 

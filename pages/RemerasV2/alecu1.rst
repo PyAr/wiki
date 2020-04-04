@@ -1,6 +1,5 @@
+.. title: Intento 01 de alecu
 
-Intento 01 de alecu
--------------------
 
 Creo que les comenté que estoy podrido de remeras negras. Arme este diseño, aprovechando alguno de los diseños propuestos para la bandera. Pueden encontrarlos aca: http://alecu.com.ar/banderas/
 

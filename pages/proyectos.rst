@@ -1,5 +1,5 @@
-Proyectos PyAr
---------------
+.. title: Proyectos PyAr
+
 
 Estos son los proyectos encarados *institucionalmente* por PyAr_ en los que puedes colaborar:
 =============================================================================================

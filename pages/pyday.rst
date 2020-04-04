@@ -1,6 +1,5 @@
+.. title: PyDay
 
-PyDay
-=====
 
 Un PyDay es una jornada sobre el lenguaje Python de 1 día, con el formato de mini-conferencia pero un poco más simplificado y desestructurado, incluyendo en general charlas y talleres introductorios.
 

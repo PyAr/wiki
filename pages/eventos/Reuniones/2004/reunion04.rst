@@ -1,6 +1,5 @@
+.. title: Reunión 04 - 09/12/2004 - Hip bar
 
-Reunión 04 - 09/12/2004 - Hip bar
-=================================
 
 Estos fueron los temas tratados
 

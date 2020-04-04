@@ -1,6 +1,5 @@
+.. title: yaco (Santiágo Peresón)
 
-yaco (Santiágo Peresón)
------------------------
 
 Correo electrónico: ``yaco AT yaco DOT net``
 

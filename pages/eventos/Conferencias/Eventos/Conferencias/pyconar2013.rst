@@ -1,6 +1,5 @@
+.. title: PyConAr 2013
 
-PyConAr 2013
-============
 
 Url del evento: http://ar.pycon.org
 

@@ -1,6 +1,5 @@
+.. title: Caucho
 
-Caucho
-======
 
 ¿Qué es Caucho?
 ---------------

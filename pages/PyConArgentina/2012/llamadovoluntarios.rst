@@ -1,6 +1,5 @@
+.. title: Faltan pocos dias para la conferencia y necesitamos voluntarios para algunas tareas
 
-Faltan pocos dias para la conferencia y necesitamos voluntarios para algunas tareas
-===================================================================================
 
 Una de las cosas que hace de PyCon_ un evento comunitario es quelas personas que asisten también colaboran en conjunto para hacer de este un gran evento.
 

@@ -1,6 +1,5 @@
+.. title: Posibles sedes para el PyCamp 2015
 
-Posibles sedes para el PyCamp 2015
-==================================
 
 Estas son las distintas posibles sedes para el PyCamp_ 2015.
 

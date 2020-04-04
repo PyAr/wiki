@@ -1,6 +1,5 @@
-=================
-Sebastián J. Seba
-=================
+.. title: Sebastián J. Seba
+
 
 ¡Hola! Si deseas contactarme, puedes hacerlo por los siguientes medios:
 

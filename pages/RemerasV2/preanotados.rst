@@ -1,6 +1,5 @@
+.. title: Intención de compra
 
-Intención de compra
--------------------
 
 Por favor, anoten a continuación qué quieren:
 

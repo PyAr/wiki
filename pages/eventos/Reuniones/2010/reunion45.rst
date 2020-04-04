@@ -1,6 +1,5 @@
+.. title: Reunión 45 - Jueves 16 de Diciembre - Ciudad de Buenos Aires, en el bar de la esquina de Medrano y Guardia Vieja - 19hs
 
-Reunión 45 - Jueves 16 de Diciembre - Ciudad de Buenos Aires, en el bar de la esquina de Medrano y Guardia Vieja - 19hs
------------------------------------------------------------------------------------------------------------------------
 
 Codename: *Bajo el signo del vino*
 

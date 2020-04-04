@@ -1,5 +1,5 @@
-2006
-====
+.. title: 2006
+
 
 .. role:: underline
    :class: underline

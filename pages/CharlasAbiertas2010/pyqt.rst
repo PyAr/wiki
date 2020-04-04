@@ -1,6 +1,5 @@
+.. title: PyQt
 
-PyQt
-====
 
 *Veremos el desarrollo de una aplicación de escritorio sencilla de principio a fin, con todos sus componentes, internacionalización, deployment, etc.*
 

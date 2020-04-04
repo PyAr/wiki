@@ -1,6 +1,5 @@
+.. title: aLetras
 
-aLetras
--------
 
 Descripción
 :::::::::::

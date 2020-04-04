@@ -1,6 +1,5 @@
+.. title: GTK on TK
 
-GTK on TK
-=========
 
 .. role:: small
    :class: small

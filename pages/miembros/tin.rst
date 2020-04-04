@@ -1,3 +1,5 @@
+.. title: Tin
+
 Email: ``gaitan AT gmail DOT com``
 
 * `sobre mi`_

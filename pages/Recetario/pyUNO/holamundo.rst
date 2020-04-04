@@ -1,3 +1,4 @@
+.. title: Holamundo
 
 Todo un clásico... un Hola Mundo desde pyUNO
 

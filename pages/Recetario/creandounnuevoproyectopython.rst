@@ -1,6 +1,5 @@
+.. title: Creando un nuevo proyecto Python
 
-Creando un nuevo proyecto Python
-================================
 
 Así que querés comenzar un nuevo proyecto usando Python? ¡Felicitaciones! ¿Querés que tenga la estructura recomendada para proyectos modernos? ¿queres que sea instalable fácilmente? ¿Querés que no se te arme lio de dependencias que colisionan con las de otros proyectos ? Bien, te propongo esta receta.
 

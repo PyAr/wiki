@@ -1,6 +1,5 @@
+.. title: Propuesta sede Córdoba:
 
-Propuesta sede Córdoba:
-=======================
 
 ¿Quiénes somos?
 ***************

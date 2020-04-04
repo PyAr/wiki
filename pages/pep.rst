@@ -1,3 +1,5 @@
+.. title: Pep
+
 Una Propuesta de Mejora de Python(PEP, `Python Enhancement Proposal`_) es un documento de diseño que proporciona información, describe o propone una nueva característica para el lenguaje de programación Python.
 
 =====

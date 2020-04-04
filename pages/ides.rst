@@ -1,6 +1,5 @@
+.. title: Comparación de entornos de desarrollo
 
-Comparación de entornos de desarrollo
-=====================================
 
 En esta pagina se pretende mostrar una lista de las herramientas que pueden ser usadas para desarrollar código en python, van desde las soluciones mas amistosas con los principiantes, hasta editores simples con soporte para el lenguaje.
 

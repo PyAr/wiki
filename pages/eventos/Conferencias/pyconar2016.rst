@@ -1,5 +1,5 @@
-PyconAr 2016
-============
+.. title: PyconAr 2016
+
 
 * `Propuesta sede B.Blanca </eventos/Conferencias/PyConAr2016/propuestasedebahia>`_
 *  `Sitio oficial` http://ar.pycon.org/

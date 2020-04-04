@@ -1,6 +1,5 @@
+.. title: Gtk ListView
 
-Gtk ListView
-------------
 
 .. image:: /images/Recetario/Gui/Gtk/ListView/gtklistexample.png
 

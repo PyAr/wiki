@@ -1,6 +1,5 @@
+.. title: Merchandising Pyconar 2011
 
-Merchandising Pyconar 2011
---------------------------
 
 ¿ Que regalo te gustaría que haya en tu bolsa de Pyconar 2011 ?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

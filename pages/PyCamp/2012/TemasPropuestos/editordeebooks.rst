@@ -1,3 +1,4 @@
+.. title: Editordeebooks
 
 **.. raw:: html
 Rendering of reStructured text is not possible, please install Docutils.**

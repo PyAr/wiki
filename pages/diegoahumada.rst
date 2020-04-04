@@ -1,6 +1,5 @@
+.. title: Diego Ahumada
 
-Diego Ahumada
--------------
 
 Email: ``eddie.cpp AT SPAMFREE gmail DOT com``
 

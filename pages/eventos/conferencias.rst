@@ -1,5 +1,5 @@
-Conferencias
-------------
+.. title: Conferencias
+
 PyCon
 *****
 * `PyCon Argentina 2017`_, realizada los días 17, 18 y 19 de Noviembre de 2017 en Córdoba.

@@ -1,5 +1,5 @@
-Reunión IRC 2016-09-21
-======================
+.. title: Reunión IRC 2016-09-21
+
 
 Reunión de la Comisión Directiva (CD) de la Asociación Civil (AC) de Python Argentina del 21 de Septiembre de 2016, por IRC en canal privado y Hangout simultaneamente.
 

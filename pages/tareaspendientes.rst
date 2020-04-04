@@ -1,6 +1,5 @@
+.. title: Tareas Pendientes
 
-Tareas Pendientes
-=================
 
 Esta es una lista de tareas que tenemos pendientes. También llevamos un registro de `TareasRealizadas </TareasPendientes/tareasrealizadas>`__.
 

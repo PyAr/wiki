@@ -1,3 +1,4 @@
+.. title: Multithread2
 
 Otro ejemplo del uso de threads con gtk, compare con el `otro ejemplo`_ que utiliza colas
 

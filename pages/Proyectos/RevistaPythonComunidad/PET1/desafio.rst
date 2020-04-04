@@ -1,3 +1,4 @@
+.. title: Desafio
 
 Esta página tiene como objetivo darle soporte al desafío planteado en el primer número de la revista PET.
 

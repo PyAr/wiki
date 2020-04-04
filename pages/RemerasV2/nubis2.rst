@@ -1,6 +1,5 @@
+.. title: Versión 2.0 de NubIs
 
-Versión 2.0 de NubIs
-====================
 
 * Es lo suficientemente distinta como para ser otra version, la idea es la misma que en `RemerasV2/Nubis1`_ pero hice que la cabeza de la serpiente tenga un poco mas el estilo de la cola y el cuerpo.
 

@@ -1,6 +1,5 @@
+.. title: José Luis Dallapiccola
 
-José Luis Dallapiccola
-----------------------
 
 Email: ``jldalla AT SPAMFREE gmail DOT com``
 

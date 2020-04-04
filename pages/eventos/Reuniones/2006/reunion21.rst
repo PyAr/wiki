@@ -1,6 +1,5 @@
+.. title: Reunión 21 - 27/12/2006 - en FM La Tribu - 19:00hs
 
-Reunión 21 - 27/12/2006 - en FM La Tribu - 19:00hs
---------------------------------------------------
 
 Y cerramos el año en FM La Tribu nomás. Es la primera vez que una reunión de Cap.Fed./Bs.As. se realizaba en otro lugar que no fuera el legendario HipBar_, y salió muy bien. La gente de La Tribu nos recibió bárbaro. Nos cedieron toda un aula arriba, con espacio de sobra.
 

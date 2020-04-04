@@ -1,6 +1,5 @@
+.. title: GtkRunner
 
-GtkRunner
-=========
 
 ejemplo de como correr funciones que demoran sin bloquear la ui y obtener los resultados en el thread de gtk
 

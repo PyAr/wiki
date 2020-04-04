@@ -1,6 +1,5 @@
+.. title: Comparación de Rendimiento entre Python, Java y .Net
 
-Comparación de Rendimiento entre Python, Java y .Net
-====================================================
 
 Mito:
 -----

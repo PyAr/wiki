@@ -1,6 +1,5 @@
+.. title: Donde viven los miembros de PyAr ?
 
-Donde viven los miembros de PyAr ?
-==================================
 
 `Agregate al mapa`_
 

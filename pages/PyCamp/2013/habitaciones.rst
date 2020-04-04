@@ -1,6 +1,5 @@
+.. title: Organización de habitaciones
 
-Organización de habitaciones
-----------------------------
 
 Se puede elegir entre:
 

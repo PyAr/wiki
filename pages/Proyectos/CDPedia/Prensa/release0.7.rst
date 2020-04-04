@@ -1,6 +1,5 @@
+.. title: Nueva versión disponible de la CDPedia: versión 0.7
 
-Nueva versión disponible de la CDPedia: versión 0.7
-===================================================
 
 `Python Argentina`_ (PyAr) se enorgullece de anunciar la versión 0.7 de la CDPedia_. Esta versión fue entregada a `Educ.ar`_ para ser distribuida en escuelas del todo el país, y ya está disponible para la descarga pública.
 

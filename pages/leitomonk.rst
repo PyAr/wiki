@@ -1,6 +1,5 @@
+.. title: Leandro Monk
 
-Leandro Monk
-------------
 
 Email: ``monk AT SPAMFREE cafelug DOT org DOT ar``
 

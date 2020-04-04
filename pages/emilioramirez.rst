@@ -1,6 +1,5 @@
+.. title: Emilio Ramirez
 
-Emilio Ramirez
-==============
 
 * Nickname: gaucho
 

@@ -1,6 +1,5 @@
+.. title: Reunión 44 - Jueves 26 de Agosto - Ciudad de Buenos Aires, en el bar de la esquina de Medrano y Guardia Vieja - 19hs
 
-Reunión 44 - Jueves 26 de Agosto - Ciudad de Buenos Aires, en el bar de la esquina de Medrano y Guardia Vieja - 19hs
---------------------------------------------------------------------------------------------------------------------
 
 Definimos cuando usando: `encuesta!`_
 

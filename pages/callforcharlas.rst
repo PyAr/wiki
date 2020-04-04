@@ -1,6 +1,5 @@
+.. title: Call For Charlas
 
-Call For Charlas
-================
 
 Esta pagina contiene toda la informacion necesaria para hacer un call for charlas para un PyConAr o un PyDay_, vamos a ir agregando info aca a medida que se va refinando con sucesivas call for charlas
 

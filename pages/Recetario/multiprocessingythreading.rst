@@ -1,6 +1,5 @@
+.. title: Multiprocessing y Threading
 
-Multiprocessing y Threading
----------------------------
 
 en esta receta se muestra como hacer para correr algo en otro thread o proceso con pocos cambios y como lograr comunicacion entre ellos.
 

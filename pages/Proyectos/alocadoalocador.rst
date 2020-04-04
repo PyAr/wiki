@@ -1,6 +1,5 @@
+.. title: Alocado Alocador
 
-Alocado Alocador
-================
 
 (Crazy Allocator)
 -----------------

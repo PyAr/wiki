@@ -1,6 +1,5 @@
+.. title: Proyectos en los que se trabajó durante el Pycamp 2012
 
-Proyectos en los que se trabajó durante el Pycamp 2012
-======================================================
 
 Kivy
 ----

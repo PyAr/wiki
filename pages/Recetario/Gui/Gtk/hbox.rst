@@ -1,6 +1,5 @@
+.. title: GtkHBox
 
-GtkHBox
--------
 
 ejemplo que muestra el uso de hbox (cajas horizontales) para ordenar elementos de forma horizontal
 

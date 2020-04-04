@@ -1,6 +1,5 @@
+.. title: Reunión 40 - Sábado 06/03/10 - Durante el PyCamp, en Verónica
 
-Reunión 40 - Sábado 06/03/10 - Durante el PyCamp, en Verónica
-=============================================================
 
 Asistieron
 ----------

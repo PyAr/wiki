@@ -1,6 +1,5 @@
+.. title: Haciendo videojuegos con Pilas
 
-Haciendo videojuegos con Pilas
-==============================
 
 * Evento: `PyDay 2011`_
 

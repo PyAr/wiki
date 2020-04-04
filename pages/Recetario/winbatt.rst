@@ -1,6 +1,5 @@
+.. title: WinBatt (ctypes + powrprof.dll en win)
 
-WinBatt (ctypes + powrprof.dll en win)
---------------------------------------
 
 Descripción
 :::::::::::

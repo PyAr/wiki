@@ -1,6 +1,5 @@
+.. title: Intento 05 de Facundo Batista
 
-Intento 05 de Facundo Batista
------------------------------
 
 Según lo propuesto por Lucio en la lista.
 

@@ -1,3 +1,4 @@
+.. title: Articulos
 
 Acá está el listado de artículos con los links a las paginas individuales de cada uno, por favor suban las versiones revisadas/actualizadas con un sufijo de versión
 

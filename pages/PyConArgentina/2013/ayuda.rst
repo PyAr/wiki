@@ -1,3 +1,4 @@
+.. title: Ayuda
 
 Los integrantes de Python Argentina estamos desparramados por todo el país, y esta Conferencia Nacional, `nuestra próxima PyCon`_ es también una excusa para juntarnos.  Sabemos que quizás algunos pythonistas quieran venir a la conferencia, pero los costos involucrados hagan que esto no sea posible.
 

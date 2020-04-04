@@ -1,6 +1,5 @@
+.. title: GtkVBox
 
-GtkVBox
--------
 
 ejemplo que muestra el uso de vbox (cajas verticales) para ordenar elementos de forma vertical
 

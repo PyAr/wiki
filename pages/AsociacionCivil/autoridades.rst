@@ -1,6 +1,5 @@
+.. title: Autoridades
 
-Autoridades
-===========
 
 La Asociación será dirigida y administrada por una Comisión Directiva (C.D.) compuesta de 3 a 10 miembros (elegidos por 2 años de mandato). El Organo de Fiscalización (O.F.) será compuesto por 1 miembro titular y su suplente. Ver `candidatos iniciales`_
 

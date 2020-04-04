@@ -1,3 +1,5 @@
+.. title: Actividades
+
 ¿Buscando inspiración? Fijate también la página de `Ideas para programar`_
 
 Uso de Eventol en PyAr y mejoras para el sistema

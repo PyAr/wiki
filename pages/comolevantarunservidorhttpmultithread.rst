@@ -1,6 +1,5 @@
+.. title: Como Levantar Un Servidor Http Multithread
 
-Como Levantar Un Servidor Http Multithread
-==========================================
 
 este ejemplo muestra como levantar un servidor web en python sirviendo el contenido del directorio actual utilizando threads para manejar las solicitudes.
 

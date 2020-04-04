@@ -1,6 +1,5 @@
+.. title: Eloy Colell
 
-Eloy Colell
------------
 
 Disfruto de solucionar problemas, o al menos intentarlo. Con Python estuve trabajando para GERSolar_. Y ahora me encuentro trabajando para el Laboratorio_de_Bioinformatica_Estructural_del_Instituto_Leloir_ en el proyecto mistic2_.
 

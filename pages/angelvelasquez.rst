@@ -1,5 +1,5 @@
-Angel Velásquez
----------------
+.. title: Angel Velásquez
+
 
 Email: ``angvp AT SPAMFREE archlinux DOT org``
 

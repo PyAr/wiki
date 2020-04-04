@@ -1,6 +1,5 @@
+.. title: Proyectos
 
-Proyectos
-=========
 
 cocos
 ~~~~~

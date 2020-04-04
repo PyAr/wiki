@@ -1,6 +1,5 @@
+.. title: Logistica pre evento
 
-Logistica pre evento
---------------------
 
 Mientras te acerca al evento, la carga de trabajo va aumentando, algunos de los siguientes tips ayudan a llegar en tiempo y forma y sin una úlcera.
 

@@ -1,6 +1,5 @@
+.. title: Servidor de PyAr/Adaptadores SCSI
 
-Servidor de PyAr/Adaptadores SCSI
-=================================
 
 En esta página están los links a distintos provedores de adaptadores scsi necesarios para el server de PyAr_ que nos donaron:
 

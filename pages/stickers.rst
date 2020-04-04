@@ -1,6 +1,5 @@
+.. title: Stickers
 
-Stickers
-========
 
 Propuestas varias.
 

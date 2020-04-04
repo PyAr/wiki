@@ -1,6 +1,5 @@
+.. title: Ramiro Morales (aka cramm)
 
-Ramiro Morales (aka cramm)
---------------------------
 
 * Un usuario Linux desde 1.2 (1994/95)
 

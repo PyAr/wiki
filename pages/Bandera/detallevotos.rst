@@ -1,6 +1,5 @@
+.. title: Detalle de Votos
 
-Detalle de Votos
-================
 
 votos.txt
 ---------

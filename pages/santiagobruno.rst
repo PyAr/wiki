@@ -1,6 +1,5 @@
+.. title: Santiago Bruno
 
-Santiago Bruno
---------------
 
 Email: ``santiago.emilio.bruno AT SPAMFREE gmail DOT com``
 

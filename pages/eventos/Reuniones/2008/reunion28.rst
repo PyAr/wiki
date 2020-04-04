@@ -1,6 +1,5 @@
+.. title: Reunión 28 - 08/05/2008 - Facultad de Ciencias Exactas Físicas y Naturales, subsuelo aula 100, Córdoba, Argentina
 
-Reunión 28 - 08/05/2008 - Facultad de Ciencias Exactas Físicas y Naturales, subsuelo aula 100, Córdoba, Argentina
-=================================================================================================================
 
 Asistentes
 ----------

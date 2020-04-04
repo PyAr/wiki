@@ -1,4 +1,4 @@
-
+.. title: Listadecorreo
 
 La lista de correo de PyAr_ está abierta a todos los interesados en Python de habla hispana.
 

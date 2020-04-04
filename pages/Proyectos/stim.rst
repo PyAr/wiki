@@ -1,6 +1,5 @@
+.. title: STIM: Steam, The Incredible Machine
 
-STIM: Steam, The Incredible Machine
-===================================
 
 *STIM The Incredible Machine para los valientes*
 

@@ -1,6 +1,5 @@
+.. title: Gauchito Gil
 
-Gauchito Gil
-============
 
 Bienvenidos al primer altar online del Gauchito Gil, una revisión digital de lugares reales en la provincia de Córdoba (y similares en el resto de Argentina).
 

@@ -1,3 +1,5 @@
+.. title: Eventos
+
 .. class:: alert alert-warning
 
 **Atención:** Esta página es el resultado de la migración de nuestra `vieja wiki`_.

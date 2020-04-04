@@ -1,3 +1,3 @@
-Propuestas de sedes
-===================
+.. title: Propuestas de sedes
+
 

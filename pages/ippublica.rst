@@ -1,6 +1,5 @@
+.. title: Obtener ip Publica
 
-Obtener ip Publica
-==================
 
 * Como obtener la ip Publica, usando Python, ejemplo simple.
 

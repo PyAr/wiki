@@ -1,6 +1,5 @@
+.. title: TK Wizards
 
-TK Wizards
-==========
 
 Crea un Wizard amigable para actividades o previo de instalaciones, con multiples paginas, del tipo "siguiente, siguiente *(...)* Terminar"
 

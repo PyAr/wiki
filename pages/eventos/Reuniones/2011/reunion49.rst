@@ -1,6 +1,5 @@
+.. title: Minuta de reunión 49 en San Luis
 
-Minuta de reunión 49 en San Luis
-================================
 
 Fecha de reunión: 7/05/2011
 

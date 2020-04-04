@@ -1,6 +1,5 @@
+.. title: Grupos para ir a PyCamp
 
-Grupos para ir a PyCamp
-=======================
 
 (ordenado alfabéticamente por Origen y por Nombre)
 

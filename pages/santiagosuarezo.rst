@@ -1,6 +1,5 @@
+.. title: Santiago Suarez Ordoñez
 
-Santiago Suarez Ordoñez
------------------------
 
 Email: ``santiycr arroba gmail punto com``
 

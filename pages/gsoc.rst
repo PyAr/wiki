@@ -1,3 +1,5 @@
+.. title: Gsoc
+
 TL;DR:
  * Los **Estudiantes** reciben **becas** para trabajar programando **código abierto**
  * Los **Proyectos** encuentran nuevos colaboradores y **mentorean** la nueva generación de desarrolladores

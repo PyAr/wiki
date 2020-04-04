@@ -1,3 +1,5 @@
+.. title: Pythonpalm
+
 === Python for PalmOS ===
 
 Here you can get the latests (only) release of this half baked port of python to palmOS.

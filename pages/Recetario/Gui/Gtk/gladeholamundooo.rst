@@ -1,6 +1,5 @@
+.. title: GtkGladeHolaMundoOO
 
-GtkGladeHolaMundoOO
--------------------
 
 ejemplo que carga la interfaz de un archivo .glade y lo muestra, el archivo .glade puede tener cualquier contenido mientras la ventana tenga el nombre "ventana"
 

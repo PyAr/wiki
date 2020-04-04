@@ -1,6 +1,5 @@
-========
-Objetivo
-========
+.. title: Objetivo
+
 
 Entregar una copia impresa del `Tutorial de Python en español`_  a cada universidad del pais.
 

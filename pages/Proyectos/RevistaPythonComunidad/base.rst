@@ -1,6 +1,5 @@
+.. title: Como se organizo la revista ?!
 
-Como se organizo la revista ?!
-==============================
 
 Cosas Hechas
 ------------

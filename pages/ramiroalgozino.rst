@@ -1,6 +1,5 @@
+.. title: Ramiro Algozino
 
-Ramiro Algozino
----------------
 
 Email/Gtalk: ``algozino AT SPAMFREE gmail DOT com``
 

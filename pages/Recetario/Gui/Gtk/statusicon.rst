@@ -1,6 +1,5 @@
+.. title: GtkStatusIcon
 
-GtkStatusIcon
--------------
 
 Aplicación con ícono en el area de notificaciones.
 

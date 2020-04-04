@@ -1,6 +1,5 @@
+.. title: Validar CUIT
 
-Validar CUIT
-------------
 
 Descripción
 :::::::::::

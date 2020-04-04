@@ -1,6 +1,5 @@
+.. title: Reunión 35 - Viernes 13/03/2009 - Buenos Aires - 19:30hs
 
-Reunión 35 - Viernes 13/03/2009 - Buenos Aires - 19:30hs
-========================================================
 
 Asitieron
 ---------

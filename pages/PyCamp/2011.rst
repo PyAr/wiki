@@ -1,6 +1,5 @@
+.. title: PyCamp 2011
 
-PyCamp 2011
-===========
 
 Fecha
 -----

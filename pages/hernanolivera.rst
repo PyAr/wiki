@@ -1,6 +1,5 @@
+.. title: Hernan Olivera
 
-Hernan Olivera
---------------
 
 Vivo en La Plata, tengo una mujer (Laura) y dos hijos maravillosos (Violeta y Salvador).
 

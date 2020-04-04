@@ -1,6 +1,5 @@
+.. title: Event Matching
 
-Event Matching
-==============
 
 Estos son algunos de los resultados que encontré implementando lo que dice el *paper* de referencia:
 

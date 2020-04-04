@@ -1,6 +1,5 @@
+.. title: Pl/Python: Python dentro de PostgreSQL
 
-Pl/Python: Python dentro de PostgreSQL
-======================================
 
 El lenguaje procedural plpython permite escribir funciones python para la base de datos relacional PostgreSQL.
 

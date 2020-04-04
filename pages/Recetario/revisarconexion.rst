@@ -1,6 +1,5 @@
+.. title: Revisar Conexion
 
-Revisar Conexion
-================
 
 como revisar si tenemos conexion a internet
 

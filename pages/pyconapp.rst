@@ -1,6 +1,5 @@
+.. title: PyConApp 2011
 
-PyConApp 2011
-=============
 
 El juego consiste en **armar grupos de hasta 4 personas ( máximo )**  que deben preparar en los dos días que dura el evento una  aplicación, que tenga al menos sus funcionalidades básicas terminadas, en  los tracks de juegos que habrá.
 

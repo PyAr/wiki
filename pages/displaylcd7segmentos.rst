@@ -1,6 +1,5 @@
+.. title: Display LCD de 7 Segmentos
 
-Display LCD de 7 Segmentos
-==========================
 
 Crear un Widget de Canvas tipo Display LCD Digital de 7 Segmentos.
 

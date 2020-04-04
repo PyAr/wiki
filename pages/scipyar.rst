@@ -1,6 +1,5 @@
+.. title: SciPyar
 
-SciPyar
-=======
 
 Esta sección es el repositorio de ideas y recursos de un grupo creciente de miembros de PyAr_ interesados en el uso y la difusión de Python para el desarrollo y aplicación en ciencia e ingeniería.
 

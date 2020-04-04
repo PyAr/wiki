@@ -1,6 +1,5 @@
+.. title: Mariano Mara
 
-Mariano Mara
-------------
 
 * Casado, 3 hijos.
 

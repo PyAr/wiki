@@ -1,6 +1,5 @@
+.. title: Reverse (a.k.a. "esrever")
 
-Reverse (a.k.a. "esrever")
-==========================
 
 * Una humilde funcion para dar vuelta los caracteres usando Python, letras o numeros, ejemplo simple.
 

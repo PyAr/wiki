@@ -1,6 +1,5 @@
+.. title: Pyday 2011
 
-Pyday 2011
-==========
 
 El Python Day es un evento organizado por PyAr_ y dura un día donde se darán pequeños cursos y charlas relacionadas a este lenguaje que de a poco va a haciendo su lugar entre los desarrolladores. Tenemos como intención hacer un espacio en donde cualquier persona interesada pueda acercarse para preguntar, aprender y experimentar con estas herramientas.
 

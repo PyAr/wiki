@@ -1,6 +1,5 @@
+.. title: Llamado a Revisores - PyCon Arg. 2012
 
-Llamado a Revisores - PyCon Arg. 2012
-=====================================
 
 Miembros del Comité de Programa
 -------------------------------

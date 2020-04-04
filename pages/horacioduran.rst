@@ -1,6 +1,5 @@
+.. title: Horacio Durán (perrito)
 
-Horacio Durán (perrito)
------------------------
 
 Email: ``hduran AT SPAMFREE machinalis DOT com``
 

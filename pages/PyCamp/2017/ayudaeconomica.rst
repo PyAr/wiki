@@ -1,3 +1,5 @@
+.. title: Ayudaeconomica
+
 Este año también habrán becas para facilitar el ir al PyCamp, gracias a sponsorship de la Python Software Foundation para el apoyo a la diversidad en el evento.
 
 La idea es subvencionar lo más posible del costo total del PyCamp, en función de la cantidad de becas pedidas.

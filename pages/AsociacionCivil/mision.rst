@@ -1,6 +1,5 @@
+.. title: Misión
 
-Misión
-======
 
 En resumen, la misión de la Asociación Civil sería
 

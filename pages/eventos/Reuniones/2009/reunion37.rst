@@ -1,6 +1,5 @@
+.. title: Reunión 37 - Sábado 22/08/09 - Bar "El Cairo", Rosario, Argentina - 15.00hs
 
-Reunión 37 - Sábado 22/08/09 - Bar "El Cairo", Rosario, Argentina - 15.00hs
----------------------------------------------------------------------------
 
 **Temas:**
 

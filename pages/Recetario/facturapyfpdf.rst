@@ -1,6 +1,5 @@
+.. title: Factura con PyFPDF
 
-Factura con PyFPDF
-------------------
 
 Descripción
 :::::::::::

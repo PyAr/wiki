@@ -1,3 +1,4 @@
+.. title: Compilarpython
 
 Acá hay una breve explicación para compilar python desde su código fuente
 

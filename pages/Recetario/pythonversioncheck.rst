@@ -1,6 +1,5 @@
+.. title: Python Version Check
 
-Python Version Check
-====================
 
 Chequear la version de Python, y salir o imprimir error en funcion de eso.
 

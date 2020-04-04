@@ -1,6 +1,5 @@
+.. title: Nicolás Demarchi
 
-Nicolás Demarchi
-----------------
 
 Email: **mail** AT **gilgamezh** DOT **me**
 

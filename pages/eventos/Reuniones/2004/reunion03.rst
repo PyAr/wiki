@@ -1,6 +1,5 @@
+.. title: Reunión 03 - 11/11/2004 - Corner Bar
 
-Reunión 03 - 11/11/2004 - Corner Bar
-====================================
 
 En esta reunión decidimos lo siguiente:
 

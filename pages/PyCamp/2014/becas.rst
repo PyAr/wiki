@@ -1,3 +1,4 @@
+.. title: Becas
 
 Ayuda económica para ir al PyCamp
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

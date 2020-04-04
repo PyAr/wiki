@@ -1,6 +1,5 @@
+.. title: Reunión 63 - 22/03/2014 - Villa Giardino - 22hs
 
-Reunión 63 - 22/03/2014 - Villa Giardino - 22hs
-===============================================
 
 **Nota**: reunión llevada a cabo en el marco del PyCamp_ 2014
 

@@ -1,6 +1,5 @@
+.. title: Daniel F Moisset
 
-Daniel F Moisset
-----------------
 
 Email: ``dmoisset AT SPAMFREE machinalis DOT com``
 

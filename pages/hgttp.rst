@@ -1,6 +1,5 @@
+.. title: Hitchhiker's guide to make a PyConAr2010
 
-Hitchhiker's guide to make a PyConAr2010
-========================================
 
 La pyconar 2010 Se fue como vino, todos parecen haber terminado muy felices. Estos casi 10 meses de laburo me dejaron pensando en lo terriblemente mas facil que hubiese sido este evento si hubiese sabido las cosas que se ahora. Así que, en pro de la próxima persona que tenga que hacer esta ardua pero noble tarea, aca viene "El tutorial de PyCon_"
 

@@ -1,6 +1,5 @@
+.. title: PyCamp 2014
 
-PyCamp 2014
-===========
 
 El PyCamp ya pasó
 -----------------

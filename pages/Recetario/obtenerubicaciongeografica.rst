@@ -1,6 +1,5 @@
+.. title: Obtener Ubicacion Geografica
 
-Obtener Ubicacion Geografica
-============================
 
 * Como obtener distintos datos de la ubicacion Geografica, usando Python-Geoip, ejemplo simple.
 

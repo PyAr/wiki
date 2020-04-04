@@ -1,6 +1,5 @@
+.. title: Hugo Ruscitti
 
-Hugo Ruscitti
-=============
 
 Soy estudiante univesitario, me gusta la programación desde hace varios años, y comencé porque quería realizar videojuegos para computadoras.
 

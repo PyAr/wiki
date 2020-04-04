@@ -1,6 +1,5 @@
+.. title: Workshop para principiantes pre-PyCamp
 
-Workshop para principiantes pre-PyCamp
---------------------------------------
 
 Siempre que hablamos de diversidad sale el tema de ayudar a principiantes, de bajar la barrera de entrada para que los chicos y chicas nuevas participen en proyectos de la comunidad.
 

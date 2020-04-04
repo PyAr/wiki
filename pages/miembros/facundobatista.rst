@@ -1,6 +1,5 @@
+.. title: Facundo Batista
 
-Facundo Batista
----------------
 
 Facundo Batista es Ingeniero Electrónica de la Universidad Nacional de La Matanza, con un Master en Ingeniería de la Innovación en la Universidad de Bologna, Italia.
 

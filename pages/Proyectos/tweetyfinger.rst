@@ -1,6 +1,5 @@
+.. title: Tweety Finger
 
-Tweety Finger
-=============
 
 `Tweety Finger`_ es un juego realizado con la librería pygame_ a modo de prueba de la misma. Esta es su primer versión liberada como libre; proximamente estará disponible una nueva versión con distintos modos de juego. El juego consiste en tipear las letras del abecedario en el menor tiempo posible.
 

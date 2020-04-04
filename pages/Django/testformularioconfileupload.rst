@@ -1,6 +1,5 @@
+.. title: Test Formulario Con File Upload en Django
 
-Test Formulario Con File Upload en Django
-=========================================
 
 un ejemplo de como probar un formulario que tiene un campo para subir un archivo
 

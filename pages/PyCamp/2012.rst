@@ -1,6 +1,5 @@
+.. title: PyCamp 2012
 
-PyCamp 2012
-===========
 
 Que se hace en un PyCamp
 ------------------------

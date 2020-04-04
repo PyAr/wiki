@@ -1,6 +1,5 @@
+.. title: Servidor Interfase COM
 
-Servidor Interfase COM
-----------------------
 
 Descripción
 :::::::::::

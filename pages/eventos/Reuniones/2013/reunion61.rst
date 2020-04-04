@@ -1,6 +1,5 @@
+.. title: Reunión 61 - Sábado 22 de Junio de 2013 - Villa Giardino, Córdoba - 22hs
 
-Reunión 61 - Sábado 22 de Junio de 2013 - Villa Giardino, Córdoba - 22hs
-========================================================================
 
 Temario
 ~~~~~~~

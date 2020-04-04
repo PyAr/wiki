@@ -1,6 +1,5 @@
+.. title: OSiRiS (aka OSiUX)
 
-OSiRiS (aka OSiUX)
-------------------
 
 * Email: ``osiux AT SPAMFREE osiux DOT com``
 

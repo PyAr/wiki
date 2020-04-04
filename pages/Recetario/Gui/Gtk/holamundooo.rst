@@ -1,6 +1,5 @@
+.. title: GtkHolaMundoOO
 
-GtkHolaMundoOO
---------------
 
 ejemplo que hace lo mismo que GtkHolaMundo_ pero orientado a objetos
 

@@ -1,3 +1,4 @@
+.. title: Texteditordeadmatch
 
 Cuan pupudo es el editor de texto que usas para programar python. *Machos* abstenerce: yo también puedo programar con una impresora braile pero prefiero herramientas que me ayuden.
 

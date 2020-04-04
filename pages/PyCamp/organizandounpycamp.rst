@@ -1,5 +1,5 @@
-Organizar un Pycamp
-====================
+.. title: Organizar un Pycamp
+
 
 
 Cosas a tener en cuenta.

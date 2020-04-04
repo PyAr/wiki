@@ -1,6 +1,5 @@
+.. title: Interceptar Prints
 
-Interceptar Prints
-------------------
 
 Esto sirve para modificar los strings que se vayan a imprimir, por ejemplo para agregarles un timestamp o algo similar. En este ejemplo lo usamos para redefinir "2" y "4". Probado en Python 2 y Python 3.
 

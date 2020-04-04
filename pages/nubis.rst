@@ -1,6 +1,5 @@
+.. title: Nubis
 
-Nubis
------
 
 *Cristian Bruno*
 

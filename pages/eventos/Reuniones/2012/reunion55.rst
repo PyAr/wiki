@@ -1,6 +1,5 @@
+.. title: Reunión 55  - Miércoles 28 de Marzo - Rafaela, Cyrano Bar - 21hs
 
-Reunión 55  - Miércoles 28 de Marzo - Rafaela, Cyrano Bar - 21hs
-================================================================
 
 .. role:: underline
    :class: underline

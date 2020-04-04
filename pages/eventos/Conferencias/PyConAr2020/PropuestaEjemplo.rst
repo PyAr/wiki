@@ -1,5 +1,5 @@
-Propuesta de Sede para PyCon Argentina 2020
-===========================================
+.. title: Propuesta de Sede para PyCon Argentina 2020
+
 
 La siguiente es la propuesta formal para realizar PyCon Argentina 2020 en Algún Lado Re Copado, organizada por Foo Bar.
 

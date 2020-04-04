@@ -1,3 +1,4 @@
+.. title: Nuevologo
 
 Esta página es complementaria a la propuesta de renovación del Sitio, de ahí surgió también la idea de renovar el logo de PyAr_, y acá estan las propuestas para que puedas mejorarlas.
 

@@ -1,6 +1,5 @@
+.. title: 2da Jornada de Python en Santa Fé
 
-2da Jornada de Python en Santa Fé
-=================================
 
 El Sábado 9 de Junio de 2007 se realizó `2da Jornada de Python en Santa Fé`_. Contamos con la participación de gente de PyAr_ de Córdoba, Buenos Aires y Entre Ríos.
 

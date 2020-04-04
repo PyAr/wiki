@@ -1,6 +1,5 @@
+.. title: Reunión 12 - 30/11/2005 - Hip Bar
 
-Reunión 12 - 30/11/2005 - Hip Bar
-=================================
 
 La excusa fue un poco reunirse antes de fin de año, más que alguna otra cosa. La cambiamos de día varias veces, la agenda fue más abierta que nunca, faltó hacer el anuncio "oficial" en las listas... terminamos siendo solo cinco.
 

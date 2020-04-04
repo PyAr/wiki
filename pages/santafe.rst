@@ -1,6 +1,5 @@
+.. title: PyAr Santa Fe
 
-PyAr Santa Fe
-=============
 
 **Lugar:** Puerto Café (25 de Mayo y Mendoza) **Fecha:** 13 de Diciembre **Hora:** 21 hs
 

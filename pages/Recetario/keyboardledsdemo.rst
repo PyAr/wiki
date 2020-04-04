@@ -1,6 +1,5 @@
+.. title: Keyboard Leds Demo
 
-Keyboard Leds Demo
-==================
 
 * Como controlar los 3 Leds del Teclado usando Python, ejemplo simple, requiere Privilegios elevados en el equipo.
 

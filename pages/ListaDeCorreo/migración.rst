@@ -1,5 +1,5 @@
-Migrando la lista de correo
-===========================
+.. title: Migrando la lista de correo
+
 
 1. --(Levantar nueva lista en usla, pyar AT python DOT org DOT ar)--
 1. --(Suscribir los admins a la lista nueva)-- (subscriptos los que pidieron/encontre)

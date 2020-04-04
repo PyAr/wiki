@@ -1,5 +1,5 @@
-Posibles sedes para el PyCamp 2019
-==================================
+.. title: Posibles sedes para el PyCamp 2019
+
 
 Cada sede está cargada aquí por la persona de contacto, que es la persona que averiguó todos los datos y contacto con la administración de la sede, cualquier duda preguntarle a ella/él.
 

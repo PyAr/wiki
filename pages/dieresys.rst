@@ -1,6 +1,5 @@
+.. title: Dieresys
 
-Dieresys
---------
 
 Manuel Muradás
 

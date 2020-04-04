@@ -1,6 +1,5 @@
+.. title: Hola Mundo Bottle
 
-Hola Mundo Bottle
-=================
 
 * Como hacer un hola mundo en Bottle_, ejemplo simple.
 

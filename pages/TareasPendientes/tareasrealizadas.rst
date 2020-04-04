@@ -1,6 +1,5 @@
+.. title: Tareas realizadas
 
-Tareas realizadas
-=================
 
 Esta es la lista de TareasPendientes_ que ya fueron completadas.
 

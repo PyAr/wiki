@@ -1,6 +1,5 @@
+.. title: Typus Pocus - Version final
 
-Typus Pocus - Version final
-===========================
 
 Un juego hecho (en una semana!) por algunos miembros de PyAr_, el grupo de usuarios de python de Argentina, para participar en `PyWeek 3`_, competencia que **ganó** en la categoría "por equipos".
 

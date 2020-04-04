@@ -1,6 +1,5 @@
+.. title: Alfonso Palomares
 
-Alfonso Palomares
------------------
 
 Soy *Ingeniero en Informática*, recibido en la Universidad Nacional de La Matanza, por el año 2004. En el año 2006 hice un *Master en Innovación tecnológica*, con orientación en **Knowledge Management**, en la Università degli Studi di Bologna, Italia.
 

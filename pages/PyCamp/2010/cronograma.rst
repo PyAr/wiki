@@ -1,3 +1,5 @@
+.. title: Cronograma
+
 .. csv-table::
     :header: Hora,Viernes,Sábado,Domingo,Lunes
 

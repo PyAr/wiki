@@ -1,6 +1,5 @@
+.. title: ¿Cómo hacer una conferencia?
 
-¿Cómo hacer una conferencia?
-============================
 
 Los siguientes son textos que nos ayudarían a hacer una conferencia, en sus distintas versiones (PyDay, PyCon, etc.):
 

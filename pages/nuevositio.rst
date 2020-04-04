@@ -1,6 +1,5 @@
+.. title: Ideas para el nuevo sitio de pyar
 
-Ideas para el nuevo sitio de pyar
-=================================
 
 Sitios que nos gustaron
 -----------------------

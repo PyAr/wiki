@@ -1,6 +1,5 @@
+.. title: Alarma Precaria
 
-Alarma Precaria
-===============
 
 Alarma mínima y básica de linea de comandos.
 

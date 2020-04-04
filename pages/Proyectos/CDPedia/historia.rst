@@ -1,6 +1,5 @@
+.. title: CDPedia, la historia
 
-CDPedia, la historia
---------------------
 
 Cuenta la leyenda que el proyecto arrancó en el sprint posterior al primer PyDay_ de Santa Fé, en Junio del 2006.
 
