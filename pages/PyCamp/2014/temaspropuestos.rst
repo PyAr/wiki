@@ -106,7 +106,7 @@ Antes del PyCamp:
 
 * Imprimir varias etiquetas conteniendo información sobre tu keypair. Por ejemplo, múltlples copias por página de la salida del siguiente comando
 
-::
+.. code-block:: bash
 
    gpg -v --fingerprint <ID de tu keypair>
 

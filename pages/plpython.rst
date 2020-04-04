@@ -23,7 +23,7 @@ Ejemplo simple
 
 Calcular el valor máximo entre dos enteros, descartando valores nulos:
 
-::
+.. code-block:: sql
 
    CREATE FUNCTION pymax (a integer, b integer)
      RETURNS integer
@@ -44,7 +44,7 @@ Recibir tipos compuestos
 
 Las funciones plpython pueden recibir tipos compuestos (ej.registros de tablas) como diccionarios:
 
-::
+.. code-block:: sql
 
    CREATE TABLE empleado (
      nombre TEXT,
@@ -67,7 +67,7 @@ Devolver tipos compuestos
 
 Los tipos compuestos pueden ser devueltos como secuencias (tuplas o listas), diccionarios u objetos. En este ejemplo se devuelve un tipo compuesto representando una persona:
 
-::
+.. code-block:: sql
 
    CREATE TYPE persona AS (
      nombre   TEXT,
@@ -97,7 +97,7 @@ Devolver múltiples tipos escalares o compuestos (''set-of'')
 
 Se puede devolver múltiples valores (usando listas/tuplas, iteradores o generadores).  En este ejemplo se devuelven varios saludos:
 
-::
+.. code-block:: sql
 
    CREATE TYPE saludo AS (
      mensaje TEXT, -- hola
@@ -169,7 +169,7 @@ Llamar a ``plpy.execute(query, limit)`` con una consulta (query: string) y un l�
 
 Ejemplo:
 
-::
+.. code-block:: python
 
    rv = plpy.execute("SELECT * FROM mi_tabla", 5)
    for fila in rv:
@@ -177,7 +177,7 @@ Ejemplo:
 
 La función ``plpy.prepare(query,[parameter_types])``, prepara el plan de ejecución para una consulta, se le pasa la consulta como string y la lista de tipos de parámetros:
 
-::
+.. code-block:: python
 
    plan = plpy.prepare("SELECT apellido FROM usuario WHERE nombre = $1 AND casado = $2 ", [ "text", "boolean" ])
 
@@ -185,7 +185,7 @@ La función ``plpy.prepare(query,[parameter_types])``, prepara el plan de ejecuc
 
 Despues de preparar la sentencia, usar la función ``plpy.execute`` para ejecutarla:
 
-::
+.. code-block:: python
 
    rv = plpy.execute(plan, [ "Mariano", True ], 5)
 
@@ -193,7 +193,7 @@ Se pasa el plan como primer argumento, los parámetros como segundo (en este cas
 
 Al preparar un plan, este se almacena para usarlo posteriormente. Para usarlo eficazmente entre llamada y llamada, se debe usar un diccionario de almacenamiento persistente (``SD`` o ``GD``) para guardarlo:
 
-::
+.. code-block:: sql
 
    CREATE FUNCTION usar_plan_guardado() RETURNS trigger AS $$
        if SD.has_key("plan"):

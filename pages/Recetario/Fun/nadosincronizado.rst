@@ -5,7 +5,7 @@ un generador de nado sincronizado
 
 `[[Video(http://marianoguerra.com.ar/random/nado.ogv)]]`_
 
-::
+.. code-block:: python
 
     import sys
     import time

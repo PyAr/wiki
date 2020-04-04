@@ -4,7 +4,7 @@ Cdpedia-on-android es una aplicación android que permite correr la Cdpedia en e
 
 Para que funcione correctamente es necesario tener descomprimido (no soporta el archivo .iso) alguno de los releases de la cdpedia en la carpeta /mnt/sdcard/cdpedia. A continuación una mini receta:
 
-::
+.. code-block:: console
 
    mount -t iso9660 -o loop cdpedia-0.8-cd.iso /mnt
    cp -R /mnt/cdpedia /media/android_sdcard

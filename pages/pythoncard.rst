@@ -20,7 +20,7 @@ Linux (Debian y derivados)
 
 Pythoncard esta soportado en Etch, así que su instalación es bastante simple
 
-::
+.. code-block:: console
 
     apt-get install pythoncard
 
@@ -55,7 +55,7 @@ Si todo se instaló correctamente, podemos probar los ejemplos que vienen con Py
 
 Si algo anda mal y no se muestra la pantalla de ejemplos, podemos probar lo siguiente para ver que esta fallando en una consola Python:
 
-::
+.. code-block:: python
 
     import wx
     wx.version() # debería imprimir '2.8.7.1 (msw-unicode)' o similar
@@ -141,7 +141,7 @@ Continuando con el ejemplo de como crear una aplicación de prueba (ver sección
 Código completo final del ejemplo:
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-::
+.. code-block:: python
 
     from PythonCard import model
     from PythonCard import dialog

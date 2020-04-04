@@ -1,8 +1,11 @@
 .. title: Material
 
-.. todo:: ver si los podemos ver aca
+.. todo:: ver si podemos resolver esto
 
-**ATENCIÓN: esta página tiene un montón de archivos adjuntos que no se listan aquí. Para visualizarlos hacer click en "Editar" y luego en "Archivos adjuntos"**
+.. warning::
+
+    Esta página tiene un montón de archivos adjuntos que no se listan aquí.
+    Para visualizarlos hacer click en "Editar" y luego en "Archivos adjuntos"**
 
 Folletos
 --------
@@ -15,7 +18,7 @@ Con algunos cambios:  - Viene con un micro-tutorial de python.
 
 Este archivo utiliza el font , que puede instalarse en ubuntu asi:
 
-::
+.. code-block:: bash
 
    sudo apt-get install ttf-dejavu
 

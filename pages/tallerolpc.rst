@@ -3,7 +3,7 @@
 
 Para bajar la charla y todos los ejemplos:
 
-::
+.. code-block:: bash
 
    svn checkout http://charla-pygame.googlecode.com/svn/trunk/ charla-pygame
 
@@ -25,7 +25,7 @@ Thread en PyAr_ sobre LiveCDs: http://article.gmane.org/gmane.org.user-groups.py
 
 * Instalar qemu y kqemu. En ubuntu:
 
-::
+.. code-block:: bash
 
    sudo apt-get install qemu kqemu-source kqemu-common
    sudo module-assistant prepare kqemu
@@ -34,7 +34,7 @@ Thread en PyAr_ sobre LiveCDs: http://article.gmane.org/gmane.org.user-groups.py
 
 * bajarse y descomprimir la imagen de olpc:
 
-::
+.. code-block:: bash
 
    mkdir ~/olpc
    cd ~/olpc
@@ -44,7 +44,7 @@ Thread en PyAr_ sobre LiveCDs: http://article.gmane.org/gmane.org.user-groups.py
 
 * crear la imagen "Copy on Write" de qemu:
 
-::
+.. code-block:: bash
 
    mkdir /tmp/olpc
    cd /tmp/olpc
@@ -52,7 +52,7 @@ Thread en PyAr_ sobre LiveCDs: http://article.gmane.org/gmane.org.user-groups.py
 
 * bootear qemu:
 
-::
+.. code-block:: bash
 
    cd /tmp/olpc
    qemu -m 256 -kernel-kqemu -soundhw es1370 -net user -net nic,model=rtl8139 -hda olpc.img

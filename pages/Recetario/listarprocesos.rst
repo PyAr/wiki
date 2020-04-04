@@ -7,7 +7,7 @@ En el ejemplo se muestra como listar información sobre los procesos corriendo b
 
 Hace falta instalar la libreria psutil_, disponible en aqui_. Hay paquetes para Debian_ y Ubuntu_, python-psutil.
 
-::
+.. code-block:: python
 
     import psutil
 
@@ -22,7 +22,7 @@ Hace falta instalar la libreria psutil_, disponible en aqui_. Hay paquetes para 
 
 En la versión 0.3 de psutil el Ejemplo puede quedar como:
 
-::
+.. code-block:: python
 
     import psutil
 

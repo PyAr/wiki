@@ -3,7 +3,7 @@
 
 Alarma mínima y básica de linea de comandos.
 
-::
+.. code-block:: python
 
     #!/usr/bin/env python
     # -*- coding: utf-8 -*-
@@ -28,7 +28,7 @@ Facundo
 
 Hay un par de cambios triviales para hacerle: se puede reemplazar el not_executed por un break, no hace falta declarar el encoding, y usar localtime() como corresponde..
 
-::
+.. code-block:: python
 
     #!/usr/bin/env python
 
@@ -44,7 +44,7 @@ Hay un par de cambios triviales para hacerle: se puede reemplazar el not_execute
 
 ... pero realmente está mal planteado la resolución: no hay que usar un while ahí:
 
-::
+.. code-block:: python
 
     import time
     import os
@@ -69,7 +69,7 @@ DanielMoisset
 
 Yo prefiero no scar cuentas de fecha a mano, y en vez que datetime haga el trabajo sucio. Sobre todo porque maneja mejor casos delicados (que pasa si pongo la alarma justo antes de un cambio a horario de verano?) sin tener que pensarlos
 
-::
+.. code-block:: python
 
     import time, datetime
     import os
@@ -101,7 +101,7 @@ A esta altura creo que es mas importante agregar el correcto coloreado de sintax
 
 Si funciona con:
 
-::
+.. code-block:: bash
 
     usuario@maquina: ~$ python receta.py
 

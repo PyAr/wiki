@@ -47,7 +47,7 @@ Pasos:
 
 Ejemplo:
 
-::
+.. code-block:: console
 
     sudo apt-get install python psycopg2
     wget http://www.web2py.com/examples/static/web2py_src.zip

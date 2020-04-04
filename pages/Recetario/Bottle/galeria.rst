@@ -5,7 +5,7 @@
 
 Usa Bottle_ para servir 1 pagina incrustada en la propia aplicacion, la misma desplega HTML, CSS y Js.
 
-::
+.. code-block:: python
 
     #!/usr/bin/env python
     # -*- coding: utf-8 -*-

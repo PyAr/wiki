@@ -12,13 +12,13 @@ Usando el servidor integrado
 
 Por ejemplo, para servir cdpedia en el puerto 80 en un hostname particular hacemos asi:
 
-::
+.. code-block:: bash
 
    sudo ./cdpedia.py --host=foo.bar.com.ar --port=80 --daemon
 
 Obviamente el sudo es porque el 80 es un puerto privilegiado, sino directamente podemos poner lo siguiente para servir en una ip local y un puerto elevado.
 
-::
+.. code-block:: bash
 
    ./cdpedia.py --host=10.0.0.4 --port=8080 --daemon
 
@@ -61,14 +61,14 @@ lighttpd:
 
 apache:
 
-::
+.. code-block:: apacheconf
 
        ProxyPass / http://127.0.0.1:8888/cdpedia/
        ProxyPassReverse / http://127.0.0.1:8888/cdpedia/
 
 nginx:
 
-::
+.. code-block:: nginx
 
    location /cdpedia {
      proxy_pass        http://127.0.0.1:8888;

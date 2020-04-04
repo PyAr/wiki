@@ -2,7 +2,7 @@
 
 Todo un clásico... un Hola Mundo desde pyUNO
 
-::
+.. code-block:: python
 
     # -*- coding: utf-8 -*-
     import uno

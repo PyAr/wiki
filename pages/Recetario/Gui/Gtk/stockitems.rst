@@ -7,7 +7,7 @@ un screenshot:
 
 .. image:: /images/Recetario/Gui/Gtk/StockItems/stock-gtk.png
 
-::
+.. code-block:: python
 
     '''modulo que muestra el uso de los stock icons en gtk'''
     import gtk

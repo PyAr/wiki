@@ -1,8 +1,8 @@
-.. title: Chequearinterfacesinternetlinux
+.. title: Chequear interfaces internet linux
 
 Si te esta pasa que necesitas saber porque placa de red tenes internet en Gnu/Linux con Python ? bueno, por ahi esto te sirve 🙂
 
-::
+.. code-block:: python
 
     import socket
 
@@ -253,7 +253,7 @@ Si te esta pasa que necesitas saber porque placa de red tenes internet en Gnu/Li
 
 Ejemplitos de como se usa:
 
-::
+.. code-block:: python
 
     In [8]: # chequeamos conexion contra la db
 

@@ -3,7 +3,7 @@
 
 .. image:: /images/Recetario/Gui/Gtk/ListView/gtklistexample.png
 
-::
+.. code-block:: python
 
     import gtk
     import gobject

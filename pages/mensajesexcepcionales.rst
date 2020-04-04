@@ -21,7 +21,7 @@ Las trazas de rastreo (``Traceback`` en inglés) es la información que reúne e
 
 Por ejemplo:
 
-::
+.. code-block:: python
 
     Traceback (most recent call last):
       File "form.py", line 78, in <module>
@@ -33,7 +33,7 @@ Por ejemplo:
 
 Se traduciría a:
 
-::
+.. code-block:: python
 
    Traza de rastreo (llamada más reciente a lo último):
      Archivo "form.py", línea 78, en <módulo>
@@ -70,7 +70,7 @@ En Python es fundamental dejar sangría (espacio antes de las instrucciones), qu
 
 Generalmente, cada vez que abramos un bloque (con una sentencia que termina en : -dos puntos- ), debemos incrementar la sangría. Por ej:
 
-::
+.. code-block:: python
 
     def mayor(param1, param2=0):
         if param1 is None:
@@ -90,7 +90,7 @@ Que puede pasar si no lo hacemos...
 Error de Sangría: se esperaba un bloque con sangría
 :::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::
+.. code-block:: python
 
     >>> if True:
     ... print "verdad!"
@@ -105,7 +105,7 @@ Aquí el ``print`` esta a la misma altura que el ``if`` (sin sangría), cuando d
 Error de Sangría: sangría no esperada
 :::::::::::::::::::::::::::::::::::::
 
-::
+.. code-block:: python
 
     >>> print "hola"
     >>>    print "chau"
@@ -120,7 +120,7 @@ Aquí el ``print "chau"`` *no* esta a la misma altura que el ``print "hola"``, c
 Error de Sangría: la nueva sangría no coincide con ningún otro nivel exterior
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::
+.. code-block:: python
 
     >>> def prueba():
     ...     if False:
@@ -221,7 +221,7 @@ Esperando no haberlo abrumado con el resumen de la sintaxis del lenguaje (los in
 Error de Sintaxis: sintaxis inválida
 ::::::::::::::::::::::::::::::::::::
 
-::
+.. code-block:: python
 
     >>> If a>1:
       File "<input>", line 1
@@ -232,7 +232,7 @@ Error de Sintaxis: sintaxis inválida
 
 Python respeta mayúsculas y minusculas, ``If`` no es el ``if`` que queremos usar. Tener cuidado sobre todo si venimos de lenguajes que son indiferentes a este tema (por. ej. Visual Basic)
 
-::
+.. code-block:: python
 
     >>> secuencia = 1 2
       File "<input>", line 1
@@ -243,7 +243,7 @@ Python respeta mayúsculas y minusculas, ``If`` no es el ``if`` que queremos usa
 
 Debemos indicar un operador entre las expresiones o un delimitador entre los elementos.  En este caso nos falto la coma ``secuencia = 1, 2``
 
-::
+.. code-block:: python
 
     >>> if a==1
     ...    print "a es verdadero!"
@@ -256,7 +256,7 @@ Debemos indicar un operador entre las expresiones o un delimitador entre los ele
 
 Las sentencias compuestas, deben terminar con dos puntos (":") para indicar el nuevo bloque que afectan ``if a==1:``
 
-::
+.. code-block:: python
 
     >>> while a=1:
       File "<input>", line 1
@@ -267,7 +267,7 @@ Las sentencias compuestas, deben terminar con dos puntos (":") para indicar el n
 
 La asignación no se puede usar en una expresión (comparación), por ej., para evitar los errores clásicos en C ``while(v=1)...`` donde nos asignaba ``1`` a ``v`` en vez de comparar si ``v`` era igual a ``1``. En este caso, usar el operador de comparación ``while a==1:``
 
-::
+.. code-block:: python
 
     >>> def a:
       File "<input>", line 1
@@ -281,7 +281,7 @@ Por más que no tengamos parámetros en nuestra función, los paréntesis son ob
 Error de Sintaxis: FinDeLinea mientras se buscaba una cadena "simple"
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::
+.. code-block:: python
 
     >>> 'abc"
       File "<input>", line 1
@@ -295,7 +295,7 @@ Las cadenas simples (de una sola línea) deben empezar y terminar en la misma l�
 Error de Sintaxis: FinDeArchivo mientras se buscaba una cadena de "múltiples líneas"
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::
+.. code-block:: python
 
     >>> """
     ... mucho
@@ -309,7 +309,7 @@ Las cadenas de múltiples líneas, deben empezar con triple comilla o tilde, y t
 Error de Sintaxis: no es posible asignar a un operador
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::
+.. code-block:: python
 
     >>> numero+antiguo=1
       File "<input>", line 1
@@ -321,7 +321,7 @@ El nombre de la variable es inválido, sería: ``numero_mas_antiguo=1``
 Error de Sintaxis: "token" inválido
 :::::::::::::::::::::::::::::::::::
 
-::
+.. code-block:: python
 
     >>> print 08
       File "<stdin>", line 1
@@ -346,7 +346,7 @@ En otros lenguajes, si la variable no esta definida, a veces toma un valor arbit
 Error de Nombre: el nombre 'variable' no está definido
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::
+.. code-block:: python
 
     >>> saludo="Hola"
     >>> print Saludo
@@ -360,7 +360,7 @@ Estamos queriendo usar un nombre (identificador) de algo que no existe. En este 
 Error de Nombre: el nombre global 'variable' no está definido
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::
+.. code-block:: python
 
     >>> def mi_func():
     ...     print variable
@@ -378,7 +378,7 @@ Similar al anterior, estamos queriendo usar una variable que no definimos previa
 Error de no vinculación local: la variable local 'xxx' fue referenciada antes de asignarla
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::
+.. code-block:: python
 
     >>> variable = 1
     >>> def mi_func():
@@ -394,7 +394,7 @@ Error de no vinculación local: la variable local 'xxx' fue referenciada antes d
 
 Una variación del anterior, pero en este caso, debemos usar la sentencia ``global variable`` dentro de la función, ya que, sinó, al asignarle un valor dentro de la función, se convierte automáticamente en una variable local, por más que exista globalmente (y da error si la asignación no está al principio de la función antes de usar la variable):
 
-::
+.. code-block:: python
 
     variable = 1
     def mi_func():
@@ -415,7 +415,7 @@ No como en otros lenguajes, que cambiarían el tipo de una variable silenciosame
 Error de Tipo: tipo de operando no soportado para +: 'int' y 'str'
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::
+.. code-block:: python
 
     >>> a = 5
     >>> b = "10"
@@ -432,7 +432,7 @@ En Python, gentilmente nos avisa que, explicitamente debemos convertir el númer
 Error de Tipo: se requiere un entero
 ::::::::::::::::::::::::::::::::::::
 
-::
+.. code-block:: python
 
     >>> fecha = datetime.date('2010','05','10')
     Traceback (most recent call last):
@@ -445,7 +445,7 @@ Algunas funciones validan los parámetros de entrada, en este caso ``datetime.da
 Error de Tipo: el objeto 'NoneType' no es iterable
 ::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::
+.. code-block:: python
 
     >>> secuencia = None
     >>> for i in secuencia:
@@ -466,7 +466,7 @@ Podemos tener errores de tipo o de sintaxis respecto a las funciones, por ejempl
 Error de Tipo: objeto 'int' no es llamable
 ::::::::::::::::::::::::::::::::::::::::::
 
-::
+.. code-block:: python
 
     >>> a=1
     >>> a (1)
@@ -480,7 +480,7 @@ Estamos queriendo llamar a una variable que tiene un entero, cosa que no se pued
 Error de Tipo: función() toma al menos un argumento (0 dados)
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::
+.. code-block:: python
 
     >>> mayor()
     Traceback (most recent call last):
@@ -493,7 +493,7 @@ Al definir la función, dijimos que tenía dos parámetros (``param1`` y ``param
 Error de Tipo: función() toma como mucho 2 argumentos (3 dados)
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::
+.. code-block:: python
 
     >>> mayor(5,5,5)
     Traceback (most recent call last):
@@ -506,7 +506,7 @@ Similar al anterior, pero le pasamos más parámetros de los que necesita la fun
 Error de Tipo: función() tuvo un argumento por nombre inesperado 'paramx'
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::
+.. code-block:: python
 
     >>> mayor(param3=5)
     Traceback (most recent call last):
@@ -519,7 +519,7 @@ Idem al anterior, tratamos de pasarle un parámetro (esta vez por nombre), que t
 Error de Sintáxis: argumento por posición luego de argumento por nombre
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::
+.. code-block:: python
 
     >>> mayor(param2=5,3)
       File "<input>", line 1
@@ -536,7 +536,7 @@ De manera similar a los errores de tipos, cuando pasemos un dato que no se puede
 Error de Valor: literal inválido para int() con base 10: 'xxxx'
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::
+.. code-block:: python
 
     >>> int("10ab")
     Traceback (most recent call last):
@@ -551,7 +551,7 @@ Igualmente siempre es conveniente capturar este tipo de errores, para validar qu
 Error de Valor: literal inválido para float() con base 10: 'xxxx'
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::
+.. code-block:: python
 
     >>> float("10,50")
     Traceback (most recent call last):
@@ -564,7 +564,7 @@ Lo mismo que el anterior, pero con la salvedad que para python debemos indicar l
 Error de Valor: el día esta fuera de rango para el mes
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::
+.. code-block:: python
 
     >>> fecha = datetime.date(10,5,2010)
     Traceback (most recent call last):
@@ -577,7 +577,7 @@ Estamos intentando pasar un valor a la función en el parámetro que no correspo
 Error de Valor: demasiados valores para desempaquetar
 :::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::
+.. code-block:: python
 
     >>> a,b,c = (1,2,3,4)
     Traceback (most recent call last):
@@ -590,7 +590,7 @@ En Python, podemos asignar varios elementos a una lista de destinos, pero la can
 Error de Valor: necesita más de 2 valores para desempaquetar
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::
+.. code-block:: python
 
     >>> x,y,z = 1, 2
     Traceback (most recent call last):
@@ -603,7 +603,7 @@ Caso inverso al anterior, nos falta un elemento en la expresión de asignación 
 Error de Valor: caracter de escape \x inválido
 ::::::::::::::::::::::::::::::::::::::::::::::
 
-::
+.. code-block:: python
 
     >>> open("C:\xaraza.txt")
     ValueError: invalid \x escape
@@ -619,7 +619,7 @@ Practicamente todo en Python es un objeto, y estos objetos tienen métodos y "pr
 Error de Atributo: el objeto 'NoneType' no tiene el atributo 'split'
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::
+.. code-block:: python
 
     >>> fecha = None
     >>> fecha.split("/")
@@ -633,7 +633,7 @@ En este caso estamos queriendo invocar a un método ``split`` que no esta defini
 Error de Atributo: el objeto 'modulo' no tiene el atributo 'next'
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::
+.. code-block:: python
 
     >>> import csv
     >>> csv.next()
@@ -650,7 +650,7 @@ Errores de Índice (IndexError)
 Error de Índice: el índice de lista esta fuera de rango
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::
+.. code-block:: python
 
     >>> l=[1,2,3]
     >>> l[3]
@@ -666,7 +666,7 @@ Errores de Clave (KeyError)
 
 Los diccionarios se acceden por clave asociativa, si la clave no existe, se producirá un error:
 
-::
+.. code-block:: python
 
     >>> dict = {'clave': 'valor'}
     >>> dict['clave2']
@@ -685,7 +685,7 @@ Los errores del sistema operativo y bibliotecas relacionadas también se expresa
 IOError: [Errno 2] No existe el archivo o directorio: 'C:\\saraza'
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::
+.. code-block:: python
 
     >>> open("C:\saraza")
     Traceback (most recent call last):
@@ -703,7 +703,7 @@ Como comentabamos, hay Excepciones que no son errores, sino advertencias.  Se us
 Advertencia de "Deprecación": el módulo md5 esta desaconsejado; use en su lugar haslib
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::
+.. code-block:: python
 
     >>> import md5
     __main__:1: DeprecationWarning: the md5 module is deprecated; use hashlib instead

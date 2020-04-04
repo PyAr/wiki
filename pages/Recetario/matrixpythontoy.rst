@@ -3,7 +3,7 @@
 
 Efecto "The Matrix" en linea de comandos, con modificacion es util de Screen Saver o Screen Lock
 
-::
+.. code-block:: python
 
    import os, time, random, sys
 
@@ -65,7 +65,7 @@ Efecto "The Matrix" en linea de comandos, con modificacion es util de Screen Sav
 
 Ejemplo:
 
-::
+.. code-block:: bash
 
    juan@maverick:~$ /usr/bin/env python matrix.py
    Input a message: PYTHON

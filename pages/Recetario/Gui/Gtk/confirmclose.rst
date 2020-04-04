@@ -3,7 +3,7 @@
 
 Ejemplo de como solicitar confirmación de cierre en una ventana
 
-::
+.. code-block:: python
 
     import sys
     import gtk

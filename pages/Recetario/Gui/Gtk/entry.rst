@@ -5,7 +5,7 @@ crea una ventana con un label y un campo de texto y muestra el mensaje hola **no
 
 .. image:: /images/Recetario/Gui/Gtk/Entry/Entry.png
 
-::
+.. code-block:: python
 
     import gtk
     import sys

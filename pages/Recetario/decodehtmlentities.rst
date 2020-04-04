@@ -1,7 +1,7 @@
 .. title: Decodificar entities de HTML
 
 
-::
+.. code-block:: python
 
     import re
     import htmlentitydefs

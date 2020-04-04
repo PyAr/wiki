@@ -9,7 +9,7 @@ Esta receta es un ejemplo sencillo de como enviar un email, con una parte de tex
 Ejemplo:
 ::::::::
 
-::
+.. code-block:: python
 
     # -*- coding: iso-8859-1 -*-
     from email.mime.text import MIMEText

@@ -2,7 +2,7 @@
 
 Escribe acerca de Recetario/Crypto/BlowfishConBlowfishpy aquí.
 
-::
+.. code-block:: bash
 
    ➜  ~  mkdir crypto_example
    ➜  ~  cd crypto_example
@@ -11,7 +11,7 @@ Escribe acerca de Recetario/Crypto/BlowfishConBlowfishpy aquí.
 
 con este codigo
 
-::
+.. code-block:: python
 
     import blowfish
 
@@ -24,7 +24,7 @@ con este codigo
 
 salida:
 
-::
+.. code-block:: console
 
    mensaje hola!... cifrado es 0@�WE
 

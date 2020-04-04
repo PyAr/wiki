@@ -3,7 +3,7 @@
 
 Al efectuar búsquedas en Internet, estamos acostumbrados a que no se distinga entre mayúsculas y minúsculas, y que se ignoren los acentos de las palabras. Para hacer esto en Python, antes que nada necesitamos una función que convierta los strings a la forma especificada. Una que haga lo siguiente:
 
-::
+.. code-block:: python
 
    >>> normalizar_string(u'Mónica Viñao')
    'monica vinao'
@@ -13,7 +13,7 @@ Usando unicodedata.normalize
 
 Unicode define equivalencias entre caracteres, o secuencias de caracteres, de los distintos estándares (ver http://en.wikipedia.org/wiki/Unicode_equivalence). Y define formas normales a las que podemos llevar un texto. Entonces podemos lograr la transformación que queremos haciendo una normalización. Los caracteres se descomponen, ignorando la parte que no es ASCII:
 
-::
+.. code-block:: python
 
     #!/usr/bin/env python
     # -*- coding: utf-8 -*-

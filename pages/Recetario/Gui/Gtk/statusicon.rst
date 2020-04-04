@@ -7,7 +7,7 @@ Tiene un menú contextual (About/Quit) y con el botón izquierdo abre una ventan
 
 .. image:: /images/Recetario/Gui/Gtk/StatusIcon/trayapp.png
 
-::
+.. code-block:: python
 
     '''Mini ejemplo de system tray app.'''
 

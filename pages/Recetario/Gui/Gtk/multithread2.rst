@@ -2,7 +2,7 @@
 
 Otro ejemplo del uso de threads con gtk, compare con el `otro ejemplo`_ que utiliza colas
 
-::
+.. code-block:: python
 
     import time
     import random

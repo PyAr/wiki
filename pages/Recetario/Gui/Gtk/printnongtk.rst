@@ -7,7 +7,7 @@ Este ejemplo muestra como usar gtk para mostrar el dialogo de imprimir pero sin 
 
 explicación: lo que hacemos después de mostrar el dialogo es procesar los eventos de gtk mientras haya eventos pendientes, luego seguimos en nuestra aplicación normalmente.
 
-::
+.. code-block:: python
 
     import gtk
     import time

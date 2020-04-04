@@ -9,7 +9,7 @@ Mejores Practicas *(o Best Practice)* de como deberia cerrarse tu programa de un
 
 **Disclaimer:** Esto es mas relacionado al OS que a Python en si, valido para los SO tipo Unix, pero es importante para lograr una aplicacion que funcione como debe.
 
-::
+.. code-block:: python
 
    import os
 
@@ -20,7 +20,7 @@ Mejores Practicas *(o Best Practice)* de como deberia cerrarse tu programa de un
 
 **Ejemplo:**
 
-::
+.. code-block:: bash
 
    cat /proc/sys/vm/dirty_writeback_centisecs
    500
@@ -29,7 +29,7 @@ Esto significa que ningun dato se escribira a disco realmente durante 5 Segundos
 
 En mi Notebook, obtengo este resultado, si escribo un programa que no invoca a sync puedo perder 10 segundos de datos:
 
-::
+.. code-block:: bash
 
    juan@wind:~$ cat /proc/sys/vm/dirty_writeback_centisecs
    1000

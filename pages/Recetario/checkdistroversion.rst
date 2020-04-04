@@ -1,9 +1,9 @@
-.. title: CheckDistroVersion
+.. title: Check Distro Version
 
 
 Chequea la versión de la Distribución Linux, y actúa en función de eso. Utiliza el módulo platform_
 
-::
+.. code-block:: python
 
     import platform
 

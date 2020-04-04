@@ -3,7 +3,7 @@
 
 El sudo grafico universal para escritorios GTK/QT/loquesea, inspirado en el funcionamiento de xdg-open.
 
-::
+.. code-block:: python
 
     #!/usr/bin/env python
     # -*- coding: utf-8 -*-

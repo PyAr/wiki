@@ -13,7 +13,7 @@ Para más información, ver `Resolución General 1702 de la AFIP`_.
 Ejemplo:
 ::::::::
 
-::
+.. code-block:: python
 
     >>> digito_verificador_modulo10("01234567890")
     '5'
@@ -26,7 +26,7 @@ Ejemplo:
 Código:
 :::::::
 
-::
+.. code-block:: python
 
     def digito_verificador_modulo10(codigo):
         "Rutina para el cálculo del dígito verificador 'módulo 10'"

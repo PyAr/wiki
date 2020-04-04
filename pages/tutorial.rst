@@ -8,7 +8,7 @@ Las versiones en HTML y los respectivos PDFs se pueden acceder `aquí`_.
 
 El proyecto con todas las fuentes e instrucciones para la generación de los diferentes formatos lo tenemos en GitHub_, para obtener una copia hacer:
 
-::
+.. code-block:: bash
 
    git clone git@github.com:PyAr/tutorial.git
 

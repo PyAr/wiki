@@ -3,7 +3,7 @@
 
 Imprime la cantidad de datos en Bytes transferidos en la interfaz indicada.
 
-::
+.. code-block:: python
 
    interface= 'eth0'
    for line in open('/proc/net/dev', 'r'):
@@ -15,7 +15,7 @@ Imprime la cantidad de datos en Bytes transferidos en la interfaz indicada.
 
 Ejemplo:
 
-::
+.. code-block:: bash
 
    juan@maverick:~$ /usr/bin/env python prueba.py
    2066696798 bytes received

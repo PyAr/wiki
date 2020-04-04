@@ -8,7 +8,7 @@ notar que el pid de quien lanza doer es distinto al que imprime doer
 ejemplo con multiprocessing
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-::
+.. code-block:: python
 
     import os
     import sys
@@ -78,7 +78,7 @@ ejemplo con multiprocessing
 
 corriendolo tenemos el resultado
 
-::
+.. code-block:: bash
 
    $ python controlled.py
    creating doer from process 11784
@@ -108,7 +108,7 @@ para hacerlo andar con threading hay que solo cambiar de donde importamos las co
 
 notar que el pid de quien lanza doer es igual al que imprime doer
 
-::
+.. code-block:: diff
 
     diff controlled.py controlledthread.py
     4,5c4,5
@@ -119,7 +119,7 @@ notar que el pid de quien lanza doer es igual al que imprime doer
     > from Queue import Queue
 
 
-::
+.. code-block:: python
 
     import os
     import sys
@@ -187,7 +187,7 @@ notar que el pid de quien lanza doer es igual al que imprime doer
         demo()
 
 
-::
+.. code-block:: bash
 
    $ python controlledthread.py
    creating doer from process 11812

@@ -3,7 +3,7 @@
 
 * Como obtener la Sensacion Termica o Temperatura Aparente usando Python, ejemplo simple.
 
-::
+.. code-block:: python
 
     #!/usr/bin/env python
     # -*- coding: utf-8 -*-
@@ -18,7 +18,7 @@
 
 **Ejemplo:**
 
-::
+.. code-block:: bash
 
     /usr/bin/env python st.py
     12.24

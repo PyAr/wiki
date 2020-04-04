@@ -8,7 +8,7 @@ gtk-glade-holamundo.glade
 
 copiar el contenido siguiente a un archivo llamado **gtk-glade-holamundo.glade** el archivo fue editado con glade-3_.
 
-::
+.. code-block:: xml
 
     <?xml version="1.0" encoding="UTF-8" standalone="no"?>
     <!DOCTYPE glade-interface SYSTEM "glade-2.0.dtd">
@@ -32,7 +32,7 @@ copiar el contenido siguiente a un archivo llamado **gtk-glade-holamundo.glade**
 
 el codigo para el ejemplo es el siguiente
 
-::
+.. code-block:: python
 
     import gtk
     import sys

@@ -3,7 +3,7 @@
 
 ejemplo de como imprimir una pagina web a pdf
 
-::
+.. code-block:: python
 
     import sys
     from PyQt4.QtCore import *

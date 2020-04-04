@@ -166,7 +166,7 @@ Hay mas ejemplos en el :ref:`recetario_interfaces_graficas`
 TkInter
 :::::::
 
-::
+.. code-block:: python
 
    from Tkinter import *
 
@@ -186,7 +186,7 @@ TkInter
 WxPython
 ::::::::
 
-::
+.. code-block:: python
 
    import wx
    class MyFrame(wx.Frame):
@@ -208,7 +208,7 @@ WxPython
 PyQt
 ::::
 
-::
+.. code-block:: python
 
    from PyQt4 import QtCore, QtGui
    import sys
@@ -229,7 +229,7 @@ PyQt
 PyGTK
 :::::
 
-::
+.. code-block:: python
 
    import pygtk
    pygtk.require('2.0')

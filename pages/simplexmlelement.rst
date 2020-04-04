@@ -3,7 +3,7 @@
 
 En este ejemplo se muestra como convertir un string desde y hacia un objeto simple que representa el XML (código usado en `Factura Electronica`_)
 
-::
+.. code-block:: python
 
     import xml.dom.minidom
 
@@ -56,7 +56,7 @@ Simplemente creamos un objeto de tipo SimpleXmlElement pasandole el string y obt
 
 * Al acceder se devuelven elementos xml, por lo que hay que convertirlos a ``str``, ``int``, ``float``, etc.
 
-::
+.. code-block:: python
 
     >>> from simplexmlelement import SimpleXMLElement
     >>> span = SimpleXMLElement('<span><a href="google.com">google</a><prueba><i>1</i><float>1.5</float></prueba></span>')

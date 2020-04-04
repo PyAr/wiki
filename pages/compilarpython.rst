@@ -9,7 +9,7 @@ Para compilar primero tenemos que descargar las fuentes desde el repositorio. Pa
 
 el comando que hay que correr es el siguiente
 
-::
+.. code-block:: console
 
     svn co http://svn.python.org/projects/python/branches/py3k/
 
@@ -40,7 +40,7 @@ La lista con los nombres en linux basados en debian es:
 
 Luego de instalar todas las librerías debemos correr los siguientes comandos:
 
-::
+.. code-block:: console
 
     cd py3k
     ./configure
@@ -52,7 +52,7 @@ Si todo salió bien, ahora podemos usar python 3.
 
 Podemos probar corriendo el comando python3.0 en la consola:
 
-::
+.. code-block:: console
 
     mariano@mousehouse:~/Software/py3k$ python3.0
     Python 3.0rc1+ (py3k:66685, Sep 29 2008, 17:25:48)
@@ -63,7 +63,7 @@ Podemos probar corriendo el comando python3.0 en la consola:
 
 Cada vez que queramos actualizar al código más nuevo en el repositorio, debemos hacer lo siguiente:
 
-::
+.. code-block:: console
 
     cd py3k
     svn up
@@ -80,7 +80,7 @@ Aquí un ejemplo de cómo hacerlo para Debian o Ubuntu (bajando py3k):
 
 Bajamos y descomprimimos (en este caso, por SVN):
 
-::
+.. code-block:: console
 
     svn co http://svn.python.org/projects/python/branches/py3k py3k
     cd py3k
@@ -88,7 +88,7 @@ Bajamos y descomprimimos (en este caso, por SVN):
 
 Configuramos y armamos el paquete:
 
-::
+.. code-block:: console
 
     ./configure --prefix=$HOME
     cat << EOF > description-pak
@@ -105,7 +105,7 @@ Configuramos y armamos el paquete:
 
 Luego, instalamos el paquete con:
 
-::
+.. code-block:: console
 
     dpkg -i py3k-1_i386.deb
 

@@ -3,7 +3,7 @@
 
 * Como hacer un hola mundo en Bottle_, ejemplo simple.
 
-::
+.. code-block:: python
 
     #!/usr/bin/env python
     # -*- coding: utf-8 -*-
@@ -16,7 +16,7 @@
 
 **Ejemplo:**
 
-::
+.. code-block:: bash
 
    juan@wind:~$ /usr/bin/env python holamundo.py
    Bottle server starting up (using WSGIRefServer())...
@@ -34,7 +34,7 @@
 
 * Mejorando nuestro  hola mundo en Bottle_, ejemplo mas completo, ideal para Plantilla para una App nueva.
 
-::
+.. code-block:: python
 
     #!/usr/bin/env python
     # -*- coding: utf-8 -*-

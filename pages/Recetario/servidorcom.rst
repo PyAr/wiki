@@ -21,7 +21,7 @@ El ejemplo en Python (miservidorcom.py) registra un objeto python MiMiniInterpre
 
 Archivo miservidorcom.py
 
-::
+.. code-block:: python
 
     # -*- coding: iso-8859-1 -*-
 
@@ -54,7 +54,7 @@ Archivo miservidorcom.py
 
 Para poder usarlo desde otros lenguajes, registrar el servidor COM ejecutando desde línea de comando:
 
-::
+.. code-block:: bash
 
    python miservidorcom.py --register
 
@@ -62,7 +62,7 @@ El siguiente ejemplo en Visual Basic (modulo1.bas) crea el objeto COM ("instanci
 
 Archivo modulo1.bas:
 
-::
+.. code-block:: vbscript
 
    Sub Main()
 
@@ -85,7 +85,7 @@ Archivo modulo1.bas:
 
 Ejemplo en Visual Fox Pro:
 
-::
+.. code-block:: foxpro
 
    * instancio el objeto python via COM:
    ObjetoPython = CREATEOBJECT("MiMiniInterpretePython")
@@ -101,31 +101,31 @@ Ejemplo en Visual Fox Pro:
 
 Para generar una DLL o EXE y poder distribuir el servidor com sin necesidad de tener instalado Python, usar Py2Exe_ con el siguiente script de directivas de instalación (ver CrearEjecutableWindows_):
 
-::
+.. code-block:: python
 
     from distutils.core import setup
     import py2exe
 
     setup( name = "MiServidorCOM",
         com_server = ["miservidorcom"],
-           )
+    )
 
 
 Ejecutar Py2Exe_ para crear el EXE, DLL y demás archivos de distribución (carpeta dist):
 
-::
+.. code-block:: bash
 
    python setup.py py2exe
 
 Luego, registrar el servidor COM por línea de comando:
 
-::
+.. code-block:: bash
 
    miservidorcom.exe --register
 
 o
 
-::
+.. code-block:: bash
 
    regsvr32 miservidorcom.dll
 

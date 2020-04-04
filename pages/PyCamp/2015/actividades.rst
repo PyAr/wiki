@@ -12,14 +12,14 @@ Tenemos un pip-cache funcionando en el host `alarm`. ¡¡Por favor utilizarlo!!
 
 Hay dos maneras de usarlo, la más simple (pero tenes que acordarte el comando)
 
-::
+.. code-block:: bash
 
     pip install -i http://alarm:3141/root/pypi/ <paquete>
 
 
 La otra es editar `~/.pip/pip.conf` y dejar la config fija:
 
-::
+.. code-block:: ini
 
     [global]
     index-url = http://10.5.20.252:3141/root/pypi/+simple/
@@ -182,7 +182,7 @@ Por ej: http://oncelotes-bbone/cgi-bin/luci/status/json/stations/wlan1-adhoc
 
 devuelve:
 
-::
+.. code-block:: json
 
  [ { "type": "wifi", "station_hostname": "czuk-bbone_wlan1-adhoc", "station": "C0:4A:00:FC:3A:89", "attributes": { "inactive": 0, "channel": 36, "signal": -80 } }, { "type": "wifi", "station_hostname": "giordano-bbone_wlan1-adhoc", "station": "C0:4A:00:FC:38:E1", "attributes": { "inactive": 0, "channel": 36, "signal": -75 } } ]
 

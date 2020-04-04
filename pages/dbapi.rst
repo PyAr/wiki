@@ -32,7 +32,7 @@ Por ello, el manejo de bases de datos en python siempre sigue estos pasos:
 
 Este es un ejemplo basico de como hacerlo con MySQL:
 
-::
+.. code-block:: python
 
    >>> import MySQLdb
    >>> db = MySQLdb.connect(host="localhost", user="root",
@@ -42,13 +42,13 @@ Una vez establecida la conexion, hay que crear un "cursor". Un cursor es una est
 
 El metodo para crear el cursor se llama, originalmente, cursor():
 
-::
+.. code-block:: python
 
    >>> cursor = db.cursor()
 
 Ya tenemos la conexion establecida y el cursor creado, es hora de ejecutar algunos comandos SQL:
 
-::
+.. code-block:: python
 
    >>> cursor.execute("SELECT * FROM Students")
    5L
@@ -57,7 +57,7 @@ El metodo execute se usa para ejecutar comandos SQL. Note que no hace falta agre
 
 Para obtener un solo elemento, usamos fetchone():
 
-::
+.. code-block:: python
 
    >>> cursor.fetchone()
    (1L, 'Joe', 'Campbell', datetime.date(2006, 2, 10), 'N')
@@ -71,7 +71,7 @@ Para obtener un solo elemento, usamos fetchone():
 
 Cual metodo usar dependera de la cantidad de datos que tengamos, la memoria disponible en la PC y sobre todo, de como querramos hacerlo. Si estamos trabajando con datasets limitados, no habra problema con el uso de fetchall(), pero si la base de datos es lo suficientemente grande como para entrar en memoria, se podria implementar una estrategia como la que se encuentra aca:
 
-::
+.. code-block:: python
 
    import MySQLdb
    db = MySQLdb.connect(host="localhost", user="root",passwd="secret", db="PythonU")
@@ -82,7 +82,7 @@ Cual metodo usar dependera de la cantidad de datos que tengamos, la memoria disp
 
 O directamente:
 
-::
+.. code-block:: python
 
    import MySQLdb
    db = MySQLdb.connect(host="localhost", user="root",passwd="secret", db="PythonU")
@@ -104,14 +104,14 @@ Otro ejemplo basico de como hacerlo con PostgreSQL (similar al de MySQL).  Se us
 
 Primero importar el conector y crear la conexión a la base de datos:
 
-::
+.. code-block:: python
 
    >>> import psycopg2, psycopg2.extras
    >>> conn = psycopg2.connect(database='test',user='postgres',password='pass', host='localhost')
 
 Luego crear un cursor para obtener los datos y ejecutar consulta:
 
-::
+.. code-block:: python
 
    >>> cur = conn.cursor()
    >>> cur.execute("SELECT * FROM estudiante")
@@ -122,7 +122,7 @@ Luego crear un cursor para obtener los datos y ejecutar consulta:
 
 Algo más pitónico es crear el cursor simil diccionario (en vez de una lista de valores):
 
-::
+.. code-block:: python
 
    >>> cur = conn.cursor(cursor_factory=psycopg2.extras.DictCursor)
    >>> cur.execute("SELECT * FROM estudiante")
@@ -138,7 +138,7 @@ Algo más pitónico es crear el cursor simil diccionario (en vez de una lista de
 
 **Nota:** esto es propio del conector psycopg2. Igualmente otros conectores tambien lo soportan o se puede imitar (leyendo el atributo description del cursor que tiene la información de los campos):
 
-::
+.. code-block:: python
 
    >>> print cur.description
    (('nombre', 1043, 8, -1, None, None, None), ('apellido', 1043, 8, -1, None, None, None), ('fecha', 1082, 10, 4, None, None, None), ('booleano', 16, 1, 1, None, None, None), ('legajo', 23, 1, 4, None, None, None))
@@ -156,7 +156,7 @@ Mi problema empieza cuando, por ejemplo hay uno de esos apellidos que tienen ', 
 
 como resultado me queda el string (ejemplo)
 
-::
+.. code-block:: python
 
    'insert into personas (apellido) values ("D'agostino")'
 
@@ -164,7 +164,7 @@ como resultado me queda el string (ejemplo)
 
 Lo que tendrías que hacer es que postgres te escapee automaticamente los valores, usando los parámetros de db-api (segúndo argumento del metodo execute del cursor):
 
-::
+.. code-block:: python
 
      cur = conn.cursor()
      cur.execute("insert into personas (apellido) values (%s)" , ["D'agostino"])
@@ -175,7 +175,7 @@ Además, esto es mas seguro frente a ataques por "inyección de sql", porque el 
 
 Para hacerlo más robusto, podrías usar diccionario con los parametros (es más seguro en el caso que tengas varios parámetros, para evitar errores):
 
-::
+.. code-block:: python
 
      cur.execute("insert into personas (apellido) values (%(apellido)s)" , {"apellido":"D'agostino"})
 

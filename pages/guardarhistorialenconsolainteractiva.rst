@@ -5,7 +5,7 @@ como guardar y recuperar el historial de las sesiones en la consola interactiva 
 
 crear un archivo llamado .pythonrc (se llama asi pero podria llamarse de cualquier otra forma), que dice:
 
-::
+.. code-block:: python
 
    import os
    import sys

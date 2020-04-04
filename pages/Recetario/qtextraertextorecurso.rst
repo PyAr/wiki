@@ -3,7 +3,7 @@
 
 Ademas de poder embeber imágenes, la librería Qt (y por ende PyQt) también permite incluir otros elementos en su sistema de recursos. La función que se define a continuación permite leer los contenidos de un archivo de texto plano que se encuentre registrado en un archivo .qrc. Cabe agregar que antes de invocar a ``loadTextFileFromRc()`` hay que convertir el .qrc a módulo de Python con la herramienta pyrcc4 (por ejemplo, en una terminal de GNU/Linux: ``$ pyrcc4 -o resources.py resources.qrc``). Esto puede ser útil para incorporar al programa una hoja de estilo que se aplique a toda la aplicación.
 
-::
+.. code-block:: python
 
     # -*- coding: utf-8 -*-
 

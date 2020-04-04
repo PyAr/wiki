@@ -1,4 +1,4 @@
-.. title: Llamado a Propuestas:
+.. title: Llamado a Propuestas
 
 
 Email Enviado a
