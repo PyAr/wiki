@@ -48,7 +48,7 @@
 .. _donaciones: /donaciones
 .. _adoptaunnewbie: /adoptaunnewbie
 .. _scipyar: /scipyar
-.. _ideasparaprogramar: /ideas-para-programar
+.. _ideas para programar: /ideas-para-programar
 .. _infraestructura: /infraestuctura
 
 .. _pyar: /pyar
