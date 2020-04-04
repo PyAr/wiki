@@ -1,6 +1,5 @@
+.. title: Decodificar entities de HTML
 
-Decodificar entities de HTML
-============================
 
 ::
 

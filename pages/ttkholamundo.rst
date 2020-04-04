@@ -1,6 +1,5 @@
+.. title: ttkHolaMundo
 
-ttkHolaMundo
-------------
 
 Crea una ventana que muestra el famoso mensaje "Hola mundo".
 

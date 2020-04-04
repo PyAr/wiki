@@ -1,6 +1,5 @@
+.. title: ORMs
 
-ORMs
-----
 
 Que es?
 ~~~~~~~

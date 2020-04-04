@@ -1,3 +1,5 @@
+.. title: Invitacioncuentawave
+
 == Quiero una invitación para Google WAVE! ==
 Esta lista es para hacer una petición mas "ordenada" de las personas que quieren invitaciones para Google WAVE
 

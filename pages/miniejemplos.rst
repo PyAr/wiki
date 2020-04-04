@@ -1,6 +1,5 @@
+.. title: Mini Ejem
 
-Mini Ejem
-=========
 
 Esta es una colección de ejemplos cortos que pueden servir para demostrar la potencia del lenguaje. Cada ejemplo consta de un enunciado, seguido de una posible implementación en Python.
 

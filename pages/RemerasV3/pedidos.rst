@@ -1,6 +1,5 @@
+.. title: Aprovechen antes de que limpiemos los shablones!
 
-Aprovechen antes de que limpiemos los shablones!
-================================================
 
 Anotarse aquí implica un compromiso tácito de concretar la compra. NO HAY STOCK de remeras en color CHOCOLATE y VERDE MILITAR. El precio de la remera es $35.-
 

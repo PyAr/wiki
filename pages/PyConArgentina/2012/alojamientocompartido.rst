@@ -1,6 +1,5 @@
+.. title: PyCon Argentina 2012
 
-PyCon Argentina 2012
-====================
 
 Alojamiento Compartido
 ----------------------

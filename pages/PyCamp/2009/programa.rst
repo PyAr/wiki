@@ -1,3 +1,4 @@
+.. title: Programa
 
 .. csv-table::
     :header: ,Sabado,domingo,lunes,martes

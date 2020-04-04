@@ -1,6 +1,5 @@
+.. title: 2008
 
-2008
-====
 
 .. role:: superscript
    :class: superscript

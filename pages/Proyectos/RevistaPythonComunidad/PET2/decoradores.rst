@@ -1,6 +1,5 @@
+.. title: Página del articulo Decoradores de la PET2
 
-Página del articulo Decoradores de la PET2
-==========================================
 
 .. csv-table::
     :header:  Tarea,Check

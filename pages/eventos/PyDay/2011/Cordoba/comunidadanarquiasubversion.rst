@@ -1,6 +1,5 @@
+.. title: Comunidad, anarquía y subversión
 
-Comunidad, anarquía y subversión
-================================
 
 * Evento: `PyDay 2011`_
 

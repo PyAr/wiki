@@ -1,6 +1,5 @@
+.. title: Asociación Civil - Candidatos
 
-Asociación Civil - Candidatos
-=============================
 
 Las siguientes personas se han nominado para cubrir los cargos iniciales de los organos de administración y control de la `Asociación Civil`_.  A continuación se transcribe un breve resumen de cada aspirante, para el detalle ver su página personal y discusiones en la `lista de correo META`_.
 

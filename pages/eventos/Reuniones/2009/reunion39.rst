@@ -1,6 +1,5 @@
+.. title: Reunión 39 - Martes 17/11 - Buenos Aires - 19:00 Hs
 
-Reunión 39 - Martes 17/11 - Buenos Aires - 19:00 Hs
----------------------------------------------------
 
 **Temas:**
 

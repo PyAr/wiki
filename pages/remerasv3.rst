@@ -1,3 +1,4 @@
+.. title: Remerasv3
 
 **Python Argentina declara abierto el proceso de creación de las Remeras 3.0.**. Las realizará el `taller de serigrafía de la agrupación Mazamorra`_ de Córdoba Capital. Los plazos son ajustados para aprovechar la realización de la PyConAr
 

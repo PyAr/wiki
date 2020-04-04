@@ -1,6 +1,5 @@
+.. title: PyCamp Argentina 2009
 
-PyCamp Argentina 2009
-=====================
 
 Quiénes Van
 -----------

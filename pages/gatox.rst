@@ -1,6 +1,5 @@
+.. title: Diego Sarmentero (gatox)
 
-Diego Sarmentero (gatox)
-------------------------
 
 Creador de NINJA-IDE, amante del Software Libre y apasionado por todo lo relacionado a Python y Qt.
 

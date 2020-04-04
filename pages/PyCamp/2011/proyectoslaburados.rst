@@ -1,6 +1,5 @@
+.. title: PyCamp 2011: Proyectos en los que laburamos
 
-PyCamp 2011: Proyectos en los que laburamos
-===========================================
 
 Esta es una lista de los proyectos sobre los que trabajamos durante el PyCamp_ y que fueron presentados durante el cierre del mismo.
 

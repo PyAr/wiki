@@ -1,6 +1,5 @@
+.. title: Eleccion Del Equipo
 
-Eleccion Del Equipo
--------------------
 
 Antes de pensar en marchandising, locales, tematicas y demas yerbas, vas a tener que pensar en un equipo, el pilar fundamental de cada evento. Mas alla de la gente necesaria para llevar a cabo el evento en el día, vas a necesitar un equipo que este dispuesto a ir con vos a cualquier lado y a poner la misma cantidad de garra durante varios meses. En mi experiencia, necesitas:
 

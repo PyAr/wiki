@@ -1,6 +1,5 @@
+.. title: Reunión 52  - Miércoles 1 de Febrero - Ciudad de Córdoba, Oficinas de Machinalis - 19hs
 
-Reunión 52  - Miércoles 1 de Febrero - Ciudad de Córdoba, Oficinas de Machinalis - 19hs
-=======================================================================================
 
 Codename: tbd (que te parece: Storm Survivors)
 

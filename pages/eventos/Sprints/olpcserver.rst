@@ -1,6 +1,5 @@
+.. title: Sprint OLPCServer
 
-Sprint OLPCServer
-=================
 
 La idea es juntarnos con Martín Langhoff, quien está encargado del `Server para la OLPC`_ y que:
 

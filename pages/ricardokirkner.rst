@@ -1,6 +1,5 @@
+.. title: Ricardo Kirkner
 
-Ricardo Kirkner
----------------
 
 Soy Licenciado en Ciencias de la Computación de la Universidad de Buenos Aires, graduado en Marzo del 2007.
 

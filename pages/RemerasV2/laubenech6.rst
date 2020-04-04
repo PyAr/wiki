@@ -1,3 +1,5 @@
+.. title: Laubenech6
+
 .. role:: small
    :class: small
 

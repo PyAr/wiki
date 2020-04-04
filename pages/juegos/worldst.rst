@@ -1,3 +1,4 @@
+.. title: Worldst
 
 Showstoppers proximo release:
 

@@ -1,6 +1,5 @@
+.. title: Juegos realizados por PyAr
 
-Juegos realizados por PyAr
-==========================
 
 Los siguientes son juegos realizados por miembros de PyAr_ en forma grupal o individual, algunos son parte de la competencia internacional PyWeek_.
 

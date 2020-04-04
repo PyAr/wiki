@@ -1,5 +1,5 @@
-Un ejemplo de class decorators (python 3)
-=========================================
+.. title: Un ejemplo de class decorators (python 3)
+
 
 .. code-block:: python
 

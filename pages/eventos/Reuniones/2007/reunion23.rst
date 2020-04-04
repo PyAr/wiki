@@ -1,6 +1,5 @@
+.. title: Reunión 23 - 11/08/2007 - Except
 
-Reunión 23 - 11/08/2007 - Except
-================================
 
 Como se venía hablando desde algún tiempo antes de iniciar las `7mas Jornadas Regionales de Software Libre`_ por la lista, y durante las jornadas mismas, la reunión fue en los cuarteles generales de Except_ ubicados en Montevideo 728 PB, Ciudad de Córdoba.
 

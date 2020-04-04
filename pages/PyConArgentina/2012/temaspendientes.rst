@@ -1,18 +1,21 @@
-= Tareas Pendientes =
+.. title: Temas pendientes
 
-== Documentación ==
+Documentación
+=============
 
  * --(Escribir LlamadoSponsors)-- [MarianoReingart]
  * --(Escribir LlamamoPropuestas)-- [MarianoReingart]
  * Escribir DocumentoFormal para UNQ: pedido de autorización de aulas, mesas, sillas, cableado, energía, solicitud de colaboración para registración, traducción, filmación, etc.
 
-== Difusión ==
+Difusión
+========
 
  * Difundir LlamadoSponsors, LlamadoPropuestas, etc. !!!!!
  * Escribir PressRelease
  * Armar AnuncioPublicitario gráfico y/o radial?
 
-== Revisión y Selección de Charlas ==
+Revisión y Selección de Charlas
+===============================
 
  * Hacer el llamado a revisores para formar el comité de programa
  * Pre-seleccinar charlas (en el PyCamp)
@@ -21,7 +24,8 @@
  * Armar Cronograma
  * Definir Paneles (Summit)
 
-== Sitio Web ==
+Sitio Web
+=========
 
  * --(Corregir temas envio de propuesta)-- [MarianoReingart]
  * Armar Twitteador!!
@@ -32,7 +36,8 @@
  * Probar generación de PDF (badge y certificados)
  * Mejorar Schedule (Cronograma), hacer una tabla como [[https://us.pycon.org/2012/schedule/|PyCon US]]
 
-== Gráfica ==
+Gráfica
+=======
 
  * --(Diseñar Logo y CSS para web)--
  * Diseñar logo light
@@ -46,7 +51,8 @@
  * Diseñar Remeras (organizadores y público)
  * Diseñar Invitación a fiestas after y cierre
 
-== Materiales y Regalos ==
+Materiales y Regalos
+====================
 
  * Preparar la Guia de Programa [JuanBC]
  * Definir y Comprar Regalo a disertantes
@@ -54,7 +60,8 @@
  * Definir y Comprar Identificadores y Colgante
  * Definir y Comprar "Recuerdo" Público General
 
-== Fiestas y Social ==
+Fiestas y Social
+================
 
  * PyCon After Party: definir empresa de Catering y contratar!
  * PyCon Cena: Reservar lugar, averiguar presupuestos, contratar!

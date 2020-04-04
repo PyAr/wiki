@@ -1,6 +1,5 @@
+.. title: Como Levantar Un Servidor Http Simple
 
-Como Levantar Un Servidor Http Simple
-=====================================
 
 este ejemplo muestra como levantar un servidor http en python que sirva el contenido del directorio actual.
 

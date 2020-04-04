@@ -1,6 +1,5 @@
+.. title: @``Martin Alderete@
 
-@``Martin Alderete@
--------------------
 
 Programador amante/defensor del software libre.
 

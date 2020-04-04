@@ -1,6 +1,5 @@
+.. title: Release 1
 
-Release 1
-=========
 
 Pagina dedicada a como viene la mano con la release 1.
 

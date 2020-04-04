@@ -1,6 +1,5 @@
+.. title: Selección de disertantes
 
-Selección de disertantes
-------------------------
 
 Tenemos dos tipos importantes de disertantes:
 

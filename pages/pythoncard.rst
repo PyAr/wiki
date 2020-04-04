@@ -1,6 +1,5 @@
+.. title: PythonCard
 
-PythonCard
-==========
 
 Introducción
 ------------

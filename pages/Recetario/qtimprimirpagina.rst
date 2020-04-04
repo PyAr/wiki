@@ -1,6 +1,5 @@
+.. title: Qt Imprimir Pagina Web a PDF
 
-Qt Imprimir Pagina Web a PDF
-============================
 
 ejemplo de como imprimir una pagina web a pdf
 

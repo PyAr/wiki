@@ -1,3 +1,4 @@
+.. title: Blowfish con blowfishpy
 
 Escribe acerca de Recetario/Crypto/BlowfishConBlowfishpy aquí.
 

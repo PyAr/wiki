@@ -1,5 +1,5 @@
-Reunión IRC 2016-06-30
-======================
+.. title: Reunión IRC 2016-06-30
+
 
 Reunión de la Comisión Directiva (CD) de la Asociación Civil (AC) de Python Argentina del 30 de Junio de 2016, por IRC en canal privado.
 

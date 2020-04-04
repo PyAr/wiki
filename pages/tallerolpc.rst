@@ -1,6 +1,5 @@
+.. title: Taller OLPC
 
-Taller OLPC
-===========
 
 Para bajar la charla y todos los ejemplos:
 

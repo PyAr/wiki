@@ -1,6 +1,5 @@
+.. title: Página del articulo Depuración y defragmentación de memoria de la PET2
 
-Página del articulo Depuración y defragmentación de memoria de la PET2
-======================================================================
 
 .. csv-table::
     :header:  Tarea,Check

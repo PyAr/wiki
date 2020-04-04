@@ -1,5 +1,5 @@
-hipersayan_x
-------------
+.. title: hipersayan_x
+
 
 Mi blog personal: http://hipersayanx.blogspot.com
 

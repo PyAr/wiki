@@ -1,6 +1,5 @@
+.. title: Votación de sede PyCamp 2015
 
-Votación de sede PyCamp 2015
-============================
 
 Por favor, si estas bastante seguro que vas a venir al PyCamp_, anotate debajo de la sede que quieras votar con nombre/apellido, muchas gracias!
 

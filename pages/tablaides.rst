@@ -1,3 +1,4 @@
+.. title: Tablaides
 
 *Pagina incompleta aun.* *Las opciones marcadas con '?', desconozco si estan o no al momento de hacer el artículo.*
 

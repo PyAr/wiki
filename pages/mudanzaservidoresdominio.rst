@@ -1,6 +1,5 @@
+.. title: Mudanza de servidores de DNS
 
-Mudanza de servidores de DNS
-============================
 
 Cierra EveryDNS y tenemos que mudar los servidores de DNS a usla.
 

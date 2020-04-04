@@ -1,6 +1,5 @@
+.. title: Llamado a Sponsors PyCon Argentina 2012
 
-Llamado a Sponsors PyCon Argentina 2012
-=======================================
 
 Formulario consulta:
 

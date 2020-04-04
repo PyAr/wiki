@@ -1,6 +1,5 @@
+.. title: Python, Sugar y Robotica Educativa
 
-Python, Sugar y Robotica Educativa
-==================================
 
 * Evento: `PyDay 2011`_
 

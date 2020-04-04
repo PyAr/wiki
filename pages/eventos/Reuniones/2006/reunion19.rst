@@ -1,6 +1,5 @@
+.. title: Reunión 19, "La internacional" - 10/11/2006 - La Casa del Queso - A la salida de CaFeCONF
 
-Reunión 19, "La internacional" - 10/11/2006 - La Casa del Queso - A la salida de CaFeCONF
-=========================================================================================
 
 ¿Dónde?
 ~~~~~~~

@@ -1,6 +1,5 @@
+.. title: Obtener Sensacion Termica
 
-Obtener Sensacion Termica
-=========================
 
 * Como obtener la Sensacion Termica o Temperatura Aparente usando Python, ejemplo simple.
 

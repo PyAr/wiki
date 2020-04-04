@@ -1,6 +1,5 @@
+.. title: PyCon Argentina 2009
 
-PyCon Argentina 2009
-====================
 
 Transporte Compartido
 ---------------------

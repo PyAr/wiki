@@ -1,6 +1,5 @@
+.. title: Reunión 46 - 7 de Diciembre - Ciudad de Cordoba, en Alfonsina (Casa Tomada) Belgrano 763.
 
-Reunión 46 - 7 de Diciembre - Ciudad de Cordoba, en Alfonsina (Casa Tomada) Belgrano 763.
-=========================================================================================
 
  *codename : better late than never*
 

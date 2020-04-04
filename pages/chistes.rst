@@ -1,6 +1,5 @@
+.. title: Chistes y QOTW (Frases de la semana)
 
-Chistes y QOTW (Frases de la semana)
-====================================
 
 Acá podemos rescatar partes de conversaciones de la lista que sean graciosas o interesantes
 

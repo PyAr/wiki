@@ -1,6 +1,5 @@
+.. title: Admin
 
-Admin
------
 
 Lugar central sobre todo lo que es administración del sitio, listas, etc.
 

@@ -1,6 +1,5 @@
+.. title: EtiquetaPyAr
 
-EtiquetaPyAr
-============
 
 *A.K.A.* **REGLAS** *y a llorar a la iglesia*
 

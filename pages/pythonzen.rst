@@ -1,6 +1,5 @@
+.. title: El Zen de Python
 
-El Zen de Python
-================
 
 *Nuestros principios guía* 🙂
 

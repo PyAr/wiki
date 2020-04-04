@@ -1,6 +1,5 @@
+.. title: PyAr Santa Fe - Reunión 20
 
-PyAr Santa Fe - Reunión 20
-==========================
 
 **Lugar:** Puerto Café (25 de Mayo y Mendoza) **Fecha:** 13 de Diciembre **Hora:** 21 hs
 

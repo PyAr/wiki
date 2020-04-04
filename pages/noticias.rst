@@ -1,6 +1,5 @@
+.. title: Noticias
 
-Noticias
-========
 
 .. El link al RSS está deshabilitado porque tiene problemas con Python 2.3 :(
 

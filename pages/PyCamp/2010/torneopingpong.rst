@@ -1,6 +1,5 @@
+.. title: Torneo Ping Pong
 
-Torneo Ping Pong
-================
 
 Lugar
 -----

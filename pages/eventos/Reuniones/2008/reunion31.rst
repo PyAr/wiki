@@ -1,6 +1,5 @@
+.. title: Reunión 31 - 06/09/08 - Balcarce Lounge, Rosario
 
-Reunión 31 - 06/09/08 - Balcarce Lounge, Rosario
-================================================
 
 Asistentes
 ----------

@@ -1,6 +1,5 @@
+.. title: Encuesta Relevamiento - Asociación Civil
 
-Encuesta Relevamiento - Asociación Civil
-========================================
 
 * Formulario_ (¡continua abierto!) - `Anuncio en la lista de correo`_
 

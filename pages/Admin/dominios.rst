@@ -1,5 +1,5 @@
-Dominios de Python Argentina
-============================
+.. title: Dominios de Python Argentina
+
 
 En esta entrada están documentados los dominios registrados y utilizados por PyAr_.
 

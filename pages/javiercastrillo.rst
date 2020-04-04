@@ -1,6 +1,5 @@
+.. title: Javier Castrillo
 
-Javier Castrillo
-----------------
 
 Estoy construyendo pues esta página, en donde pondré datos y cuestiones relativas a mi persona y mis cosas, para que los compañeros de PyAR puedan conocerme y así la cosa no se pone tan cibernética...
 

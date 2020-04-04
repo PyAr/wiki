@@ -1,6 +1,5 @@
+.. title: Web Server Gateway Interface
 
-Web Server Gateway Interface
-----------------------------
 
 WSGI es una interface simple y universal entre los servidores web y las aplicaciones web o frameworks (ver más en  `PEP 333`_)
 

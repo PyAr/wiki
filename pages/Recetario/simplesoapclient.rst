@@ -1,6 +1,5 @@
+.. title: SimpleSoapClient
 
-SimpleSoapClient
-----------------
 
 Descripción
 :::::::::::

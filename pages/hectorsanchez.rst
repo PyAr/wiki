@@ -1,3 +1,4 @@
+.. title: Hectorsanchez
 
 `Twitter <https://twitter.com/hectorksanchez>`__
 

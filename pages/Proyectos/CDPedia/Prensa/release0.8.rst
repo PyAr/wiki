@@ -1,6 +1,5 @@
+.. title: Nueva versión disponible de la CDPedia: 0.8
 
-Nueva versión disponible de la CDPedia: 0.8
-===========================================
 
 `Python Argentina`_ (PyAr) se enorgullece de anunciar la versión 0.8 de la CDPedia_.
 

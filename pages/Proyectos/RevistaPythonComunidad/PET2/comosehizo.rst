@@ -1,6 +1,5 @@
+.. title: Página del articulo Como se hizo Cómo se hizo PyConAr2010
 
-Página del articulo Como se hizo Cómo se hizo PyConAr2010
-=========================================================
 
 .. csv-table::
     :header:  Tarea,Check

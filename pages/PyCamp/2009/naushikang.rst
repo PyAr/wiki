@@ -1,3 +1,4 @@
+.. title: Naushikang
 
 Cosas a hacerle a Naushika:
 

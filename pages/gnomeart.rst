@@ -1,6 +1,5 @@
+.. title: GnomeArt
 
-GnomeArt
-========
 
 este proyecto pretende remplazar el programa http://www.miketech.net/gnome-art/ pero programado en python, las tecnologias a usar son
 

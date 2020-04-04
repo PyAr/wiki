@@ -1,6 +1,5 @@
+.. title: Empaquetando programas de Python para Windows
 
-Empaquetando programas de Python para Windows
----------------------------------------------
 
 Descripción
 :::::::::::

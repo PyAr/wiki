@@ -1,6 +1,5 @@
+.. title: CafeConf 2006
 
-CafeConf 2006
-=============
 
 Programa de las charlas: http://www.cafeconf.org/modules/myconference/program.php?cid=1
 

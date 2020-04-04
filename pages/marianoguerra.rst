@@ -1,6 +1,5 @@
+.. title: Mariano Guerra
 
-Mariano Guerra
---------------
 
 Email: ``luismarianoguerra AT SPAMFREE gmail DOT com``
 

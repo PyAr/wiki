@@ -1,6 +1,5 @@
+.. title: Reunión 11 - 04/08/2005 - Hip Bar
 
-Reunión 11 - 04/08/2005 - Hip Bar
-=================================
 
 Buena parte de la reunión estuvo dedicada a tratar de capturar video para poder compartirlo luego con la gente que está lejos. La idea original fue hacer *streaming*, pero el Hip Bar no tiene Wi-Fi. Jugamos un rato con bluetooth vía un teléfono móvil. Había como 3 notebooks con 3 OSs diferentes, un grupo de 5 o 6 giles que se la dan de geeks, y nada... no logramos salir con una manera decente ni siquiera de grabar el video para después publicarlo en algún sitio.
 

@@ -1,6 +1,5 @@
+.. title: PsycoSpeedUp
 
-PsycoSpeedUp
-------------
 
 Acelera las aplicaciones en Python (JIT), disponible para 32bit.
 

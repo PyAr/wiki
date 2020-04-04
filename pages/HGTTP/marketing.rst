@@ -1,6 +1,5 @@
+.. title: Marketing
 
-Marketing
----------
 
 El marketing de un evento suele ser bastante olvidado o a la ligera por gente informatica. Particularmente no soy experto en esto, pero algunos tips que me dieron los chicos que nos ayudaron a organizar el evento este año.
 

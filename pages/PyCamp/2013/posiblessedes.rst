@@ -1,6 +1,5 @@
+.. title: Posibles sedes
 
-Posibles sedes
-==============
 
 Estas son las distintas posibles sedes para el PyCamp_ 2013. Se sometieron a votación y la ganadora es **Hotel Luz y Fuerza**. Votos y script, `acá`_.
 

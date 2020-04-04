@@ -1,6 +1,5 @@
+.. title: !FooBar (virtualenv, buildout, nose)
 
-!FooBar (virtualenv, buildout, nose)
-====================================
 
 *Esta charla muestra como utilizar herramientas para producir entornos reproducibles de desarrollo, de manera que tus aplicaciones funcionen en cualquier sistema en el que desees instalarlo.*
 

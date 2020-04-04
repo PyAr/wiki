@@ -1,3 +1,4 @@
+.. title: Xmlrpcserver
 
 Servidor XMLRPC dentro de un hilo gtk
 

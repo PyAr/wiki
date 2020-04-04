@@ -1,6 +1,5 @@
+.. title: Charlas Abiertas de Python en La Tribu
 
-Charlas Abiertas de Python en La Tribu
-======================================
 
 Python Argentina y Colectivo La Tribu se enorgullecen en presentar el Ciclo 2010 de Charlas Abiertas de Python.
 

@@ -1,6 +1,5 @@
+.. title: Con y sin versalitas
 
-Con y sin versalitas
-====================
 
 Forma original
 --------------

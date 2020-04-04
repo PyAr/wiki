@@ -1,5 +1,5 @@
-¿Quiénes somos?
-===============
+.. title: ¿Quiénes somos?
+
 
 Las cooperativas en el sector de tecnología es una novedad en la Argentina. La empresa con mayor antigüedad tiene solo 10 años. En la actualidad, Argentina se destaca por ser el país con más empresas cooperativas de tecnología en todo el mundo.
 Actualmente en FACTTIC somos 18 cooperativas con 316 socios distribuidos en 15 ciudades desde la provincia de Jujuy hasta Río Negro.

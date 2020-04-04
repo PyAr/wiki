@@ -1,6 +1,5 @@
+.. title: CherryPy
 
-CherryPy
---------
 
 CherryPy es un framework HTTP pytónico y orientado a objetos.
 

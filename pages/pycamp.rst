@@ -1,5 +1,5 @@
-PyCamp
-======
+.. title: PyCamp
+
 
 .. class:: alert alert-info
 

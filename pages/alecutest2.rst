@@ -1,6 +1,5 @@
+.. title: @``ME@
 
-@``ME@
-------
 
 hello world!
 

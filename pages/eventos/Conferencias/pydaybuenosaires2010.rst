@@ -1,6 +1,5 @@
+.. title: PyDay Buenos Aires 2010
 
-PyDay Buenos Aires 2010
-=======================
 
 Propuesta tentativa
 -------------------

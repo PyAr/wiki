@@ -1,6 +1,5 @@
+.. title: Python en las 8JRSL
 
-Python en las 8JRSL
-===================
 
 http://jornadas.cafelug.org.ar/8/programa/modules/myconference/program.php
 

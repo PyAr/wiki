@@ -1,6 +1,5 @@
+.. title: Marcos Dione
 
-Marcos Dione
-------------
 
 Email: ``mdione AT grulic DOT org DOT ar``
 

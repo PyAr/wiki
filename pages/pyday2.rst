@@ -1,3 +1,4 @@
+.. title: Pyday2
 
 PythonDay 2 (córdoba)
 

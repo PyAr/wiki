@@ -1,6 +1,5 @@
+.. title: Mariano Garcia
 
-Mariano Garcia
---------------
 
 `Twitter <https://twitter.com/elnassto>`__
 

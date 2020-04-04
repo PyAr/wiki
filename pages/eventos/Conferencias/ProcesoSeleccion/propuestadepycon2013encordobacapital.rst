@@ -1,5 +1,5 @@
-Propuesta tentativa PYCONAR 2013 en Córdoba Capital
-===================================================
+.. title: Propuesta tentativa PYCONAR 2013 en Córdoba Capital
+
 
 Fecha: entre el 17 y 22 de Septiembre de 2013
 

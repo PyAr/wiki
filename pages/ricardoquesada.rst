@@ -1,6 +1,5 @@
+.. title: Ricardo Quesada
 
-Ricardo Quesada
----------------
 
 Email: ricardoquesada arroba gmail punto com.
 

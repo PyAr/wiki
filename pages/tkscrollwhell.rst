@@ -1,6 +1,5 @@
+.. title: tkScrollWhell
 
-tkScrollWhell
--------------
 
 Usando la rueda de Scroll del raton con TK. Ejemplo simple con un poco de imaginacion puede manejar mas cosas.
 

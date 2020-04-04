@@ -1,6 +1,5 @@
+.. title: tkWindowIcon
 
-tkWindowIcon
-------------
 
 Crea una ventana con Icono de ventana. Los archivos se pueden pasar a .XBM con Gimp.
 

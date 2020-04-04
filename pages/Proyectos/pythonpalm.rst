@@ -1,5 +1,5 @@
-Python for PalmOS
-=================
+.. title: Python for PalmOS
+
 
 .. todo:: Pending: reemplazar la imagen po lo que debería ir
 

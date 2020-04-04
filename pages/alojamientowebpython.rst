@@ -1,6 +1,5 @@
+.. title: Alojamiento para aplicaciones Web Python
 
-Alojamiento para aplicaciones Web Python
-========================================
 
 **Última actualización: 2012-04-11**
 

@@ -1,6 +1,5 @@
+.. title: CouchSurfing en PyConAr2013
 
-CouchSurfing en PyConAr2013
-===========================
 
 Esta pagina sirve para todos aquellos que tienen o buscan un lugar para hospedarse durante el PyConAr 2013 en Rosario.
 

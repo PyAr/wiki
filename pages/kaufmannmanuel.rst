@@ -1,5 +1,5 @@
-Manuel Kaufmann
-===============
+.. title: Manuel Kaufmann
+
 
 Soy estudiando de Ingeniería en Sistemas en la Universidad Tecnológica Nacional (UTN) de Santa Fé. Estoy actualmente cursando 3er año de la carrera, con algunos alti-bajos en la misma. Hace tres años que vivo en esta ciudad, soy nacido en Paraná Entre Ríos.
 

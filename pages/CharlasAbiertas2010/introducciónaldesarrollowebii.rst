@@ -1,5 +1,5 @@
-Introducción al desarrollo web II
-=================================
+.. title: Introducción al desarrollo web II
+
 
 Esta charla busca introducir a los asistentes la historia, situación actual y características
 principales del mundo web (HTML, HTTP, MVC, etc.), presentando la herramienta de desarrollo Web2Py,

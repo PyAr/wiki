@@ -1,6 +1,5 @@
+.. title: Acceso a Bases de Datos desde Python: Interfaz DB-API
 
-Acceso a Bases de Datos desde Python: Interfaz DB-API
------------------------------------------------------
 
 .. contents::
 

@@ -1,6 +1,5 @@
+.. title: Sebastián Lezica
 
-Sebastián Lezica
-----------------
 
 Programo razonablemente con Python y no me merezco ni este espacio... pero ella sí, da vueltas al Python como nadie 🙂 :
 

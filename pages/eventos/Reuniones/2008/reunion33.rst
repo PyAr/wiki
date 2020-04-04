@@ -1,6 +1,5 @@
+.. title: Reunión 33 - 15/11/2008 - Balcarce Lounge, Rosario
 
-Reunión 33 - 15/11/2008 - Balcarce Lounge, Rosario
-==================================================
 
 Temas
 -----

@@ -1,6 +1,5 @@
+.. title: Anthony Lenton
 
-Anthony Lenton
---------------
 
 Email: ``anthony AT SPAMFREE canonical DOT com``
 

@@ -1,6 +1,5 @@
+.. title: Reunión 50  - Martes 23 de Agosto - Ciudad de Buenos Aires, en el bar de la esquina de Medrano y Guardia Vieja - 19hs
 
-Reunión 50  - Martes 23 de Agosto - Ciudad de Buenos Aires, en el bar de la esquina de Medrano y Guardia Vieja - 19hs
-=====================================================================================================================
 
 Codename: *Al pan pan y al código Python*
 

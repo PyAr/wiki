@@ -1,6 +1,5 @@
+.. title: Asociación Civil:
 
-Asociación Civil:
-------------------
 
 Web de la asociación: https://ac.python.org.ar/
 

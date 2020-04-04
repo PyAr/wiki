@@ -1,6 +1,5 @@
+.. title: Tareas Pendientes
 
-Tareas Pendientes
-=================
 
 * :strike:`averiguar lugares:` 3 lugares
 

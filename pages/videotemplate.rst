@@ -1,6 +1,5 @@
+.. title: TituloCharla
 
-TituloCharla
-============
 
 * Evento:
 

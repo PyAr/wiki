@@ -1,6 +1,5 @@
+.. title: Mensajes Excepcionales
 
-Mensajes Excepcionales
-======================
 
   *"10. Los errores nunca deberían dejarse pasar silenciosamente."* PythonZen_
 

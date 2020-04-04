@@ -1,6 +1,5 @@
+.. title: PyCamp 2015
 
-PyCamp 2015
-===========
 
 
 Fechas:

@@ -1,6 +1,5 @@
+.. title: Root Check
 
-Root Check
-==========
 
 Comprobar si somos o no root y actuar en funcion de eso, ideal medida de seguridad.
 

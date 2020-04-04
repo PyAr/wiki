@@ -1,6 +1,5 @@
+.. title: Call for Charlas PyConAr ANIO
 
-Call for Charlas PyConAr ANIO
-=============================
 
 Call For Charlas (CFCh)
 =======================

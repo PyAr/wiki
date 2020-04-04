@@ -1,6 +1,5 @@
+.. title: Interesados en recibir ofertas de trabajo utilizando Python
 
-Interesados en recibir ofertas de trabajo utilizando Python
-===========================================================
 
 Si usted se inscribe acá probablemente reciba emails contactándolo.
 

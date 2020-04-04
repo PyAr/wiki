@@ -1,6 +1,5 @@
+.. title: Extraer direcciones de email de un texto
 
-Extraer direcciones de email de un texto
-----------------------------------------
 
 Código
 ::::::

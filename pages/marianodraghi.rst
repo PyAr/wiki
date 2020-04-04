@@ -1,6 +1,5 @@
+.. title: Mariano Draghi
 
-Mariano Draghi
---------------
 
 Ya bastante me cuesta mantener actualizada una página, como para ponerme a actualizar otra 😏
 

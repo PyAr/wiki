@@ -1,6 +1,5 @@
+.. title: Reunión 27 - 07/05/2008 19hs - Bar "El Clásico", Buenos Aires
 
-Reunión 27 - 07/05/2008 19hs - Bar "El Clásico", Buenos Aires
-=============================================================
 
 Asistentes
 ----------

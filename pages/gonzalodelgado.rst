@@ -1,6 +1,5 @@
+.. title: Gonzalo Delgado
 
-Gonzalo Delgado
----------------
 
 Email: ``gonzalodel AT gmail DOT com``
 

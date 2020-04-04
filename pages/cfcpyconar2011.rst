@@ -1,6 +1,5 @@
+.. title: Call for Charlas Pyconar 2011
 
-Call for Charlas Pyconar 2011
-=============================
 
 Tercera Conferencia Argentina de Python
 ---------------------------------------

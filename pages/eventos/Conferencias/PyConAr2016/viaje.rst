@@ -1,3 +1,5 @@
+.. title: Viaje
+
 **Datos para viaje a Pycon16**:
 
 *Hoteles, Pensiones, Casas a alquilar.*

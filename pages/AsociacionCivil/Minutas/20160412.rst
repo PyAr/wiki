@@ -1,3 +1,5 @@
+.. title: 20160412
+
 Reunión de la Comisión Directiva (CD) de la Asociación Civil (AC) de Python Argentina del 12 de Abril de 2016, por IRC en canal privado.
 
 Los votos reportados tienen la forma X-Y-Z (X son votos a favor, Y en contra, Z abstenciones).

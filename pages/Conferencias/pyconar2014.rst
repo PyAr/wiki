@@ -1,3 +1,5 @@
+.. title: Pyconar2014
+
 Página de la wiki movida a:
 
 `PyConAr2014 </Eventos/Conferencias/PyConAr2014>`_

@@ -1,6 +1,5 @@
+.. title: Modificación de Estilos en rst2pdf
 
-Modificación de Estilos en rst2pdf
-==================================
 
 *(por* **Roberto Alsina***)*
 

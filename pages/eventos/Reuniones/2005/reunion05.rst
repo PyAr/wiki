@@ -1,6 +1,5 @@
+.. title: Reunión 05 - 13/01/2005 - Hip Bar
 
-Reunión 05 - 13/01/2005 - Hip Bar
-=================================
 
 Se llevó a cabo la quinta reunión de PyAr_ con total éxito. Como MarianoDraghi_ (escriba oficial) estaba de vacaciones, recayó en mí (FacundoBatista_) la tarea de contarles qué hicimos.
 

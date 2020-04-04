@@ -1,6 +1,5 @@
+.. title: Bandera para PyAr
 
-Bandera para PyAr
-=================
 
 .. role:: underline
    :class: underline

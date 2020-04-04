@@ -1,3 +1,4 @@
+.. title: Comobajartodoslosbuffersaldisco
 
   **Cuidado!** Esta receta no se aplica en todos los casos...
 

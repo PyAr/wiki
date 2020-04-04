@@ -1,6 +1,5 @@
+.. title: Unicode
 
-Unicode
-=======
 
 lista de recursos relacionados a unicode
 

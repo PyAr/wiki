@@ -1,3 +1,5 @@
+.. title: Irc
+
 Además de la `lista de correo`_, un medio de comunicación que usamos mucho es nuestro canal de irc.
 
 Podés acceder via web desde `esta pagina <http://python.org.ar/irc/>` o bien usar el cliente IRC que prefieras.

@@ -1,6 +1,5 @@
+.. title: Intento 03 de Facundo Batista
 
-Intento 03 de Facundo Batista
------------------------------
 
 Parte del Zen (no se puede poner todo, es ilegible), más la frase de remate, 🙂
 

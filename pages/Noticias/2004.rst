@@ -1,6 +1,5 @@
+.. title: 20/12/2004
 
-20/12/2004
-::::::::::
 
 * PyAr_ aparece en la lista de Python Interest Groups de Python.org.
 

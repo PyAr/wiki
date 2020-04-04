@@ -1,6 +1,5 @@
+.. title: PyCon 2006
 
-PyCon 2006
-==========
 
 Lightning Talk sobre PyAr
 -------------------------

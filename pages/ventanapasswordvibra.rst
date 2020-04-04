@@ -1,6 +1,5 @@
+.. title: Ventana de Password que Vibra
 
-Ventana de Password que Vibra
-=============================
 
 * Crear una ventana para passwords que vibra si la password es incorrecta, el campo de texto oculta los caracteres en pantalla, la vibracion es configurable.
 

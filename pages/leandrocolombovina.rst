@@ -1,6 +1,5 @@
+.. title: Leandro E. Colombo Viña
 
-Leandro E. Colombo Viña
------------------------
 
 Email: ``colomboleandro AT SPAMFREE gmail DOT com``
 

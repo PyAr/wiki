@@ -1,6 +1,5 @@
+.. title: ¿Qué es la CDPedia?
 
-¿Qué es la CDPedia?
-===================
 
 .. image:: /images/Proyectos/CDPedia/logo-disco-180x180-white.jpg
 

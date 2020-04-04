@@ -1,6 +1,5 @@
+.. title: Ático de PyCamp 2010
 
-Ático de PyCamp 2010
-====================
 
 Contiene los items propuestos que fueron descartados.
 

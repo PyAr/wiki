@@ -1,6 +1,5 @@
+.. title: Cálculo de Dígito Verificador Módulo 10
 
-Cálculo de Dígito Verificador Módulo 10
----------------------------------------
 
 Descripción
 :::::::::::

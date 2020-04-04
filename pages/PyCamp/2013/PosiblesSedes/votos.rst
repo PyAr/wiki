@@ -1,6 +1,5 @@
+.. title: Votación PyCamp 2013
 
-Votación PyCamp 2013
---------------------
 
 El resultado de la votación fue:
 

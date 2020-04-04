@@ -1,6 +1,5 @@
+.. title: Sistema de Gestion de Tesoreria especializado en Fideicomiso.
 
-Sistema de Gestion de Tesoreria especializado en Fideicomiso.
-=============================================================
 
 ¿Cual es el Objetivo de GeTesFi ?
 ---------------------------------

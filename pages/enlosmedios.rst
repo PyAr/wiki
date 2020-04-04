@@ -1,6 +1,5 @@
+.. title: PyAr y Python en los medios
 
-PyAr y Python en los medios
-===========================
 
 * `Reparten en escuelas argentinas DVD con contenido de Wikipedia`_ -- Infobae, 20 de Enero de 2010.
 

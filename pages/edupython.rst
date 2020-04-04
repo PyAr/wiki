@@ -1,6 +1,5 @@
+.. title: Proyecto EduPython
 
-Proyecto EduPython
-==================
 
 La idea de este proyecto es armar y dictar charlas sobre Python  en colegios secundarios.
 

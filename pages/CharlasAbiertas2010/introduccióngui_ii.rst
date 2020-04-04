@@ -1,5 +1,5 @@
-Introducción a las Interfaces Gráficas de Escritorio II
-=======================================================
+.. title: Introducción a las Interfaces Gráficas de Escritorio II
+
 
 En esta charla se verán los conceptos básicos de desarrollo de aplicaciones gráficas, programación orientada a eventos, diseño de interfaces gráficas, y tecnologías relacionadas. (segunda parte)
 

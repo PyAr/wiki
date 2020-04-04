@@ -1,6 +1,5 @@
+.. title: Ezequiel Diaz Marquez
 
-Ezequiel Diaz Marquez
----------------------
 
 Email: ``exe.zaid AT SPAMFREE gmail DOT com``
 

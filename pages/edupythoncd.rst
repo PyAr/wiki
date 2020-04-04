@@ -1,3 +1,4 @@
+.. title: Edupythoncd
 
 La propuesta es armar un livecd que permita ser usado para dictar un taller de Python para alumnos de secundaria.
 

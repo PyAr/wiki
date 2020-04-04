@@ -1,6 +1,5 @@
+.. title: Versión 1.0 de NubIs
 
-Versión 1.0 de NubIs
-====================
 
 * Funciona en varios niveles.
 

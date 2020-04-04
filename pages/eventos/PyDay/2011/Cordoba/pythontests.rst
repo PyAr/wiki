@@ -1,6 +1,5 @@
+.. title: Mythbusters: Tests
 
-Mythbusters: Tests
-==================
 
 * Evento: `PyDay 2011`_
 

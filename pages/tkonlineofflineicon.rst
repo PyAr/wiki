@@ -1,6 +1,5 @@
+.. title: tkOnLineOffLineIcon
 
-tkOnLineOffLineIcon
--------------------
 
 Crea un icono que cambia de estado segun si se esta o no conectado a Internet. Notar que se pueden cambiar mas propiedades del boton que las que este simpl ejemplo cambia.
 

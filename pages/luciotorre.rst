@@ -1,6 +1,5 @@
+.. title: Lucio Torre
 
-Lucio Torre
------------
 
 piu avanti
 

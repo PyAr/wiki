@@ -1,6 +1,5 @@
+.. title: Llamado a Propuestas:
 
-Llamado a Propuestas:
-=====================
 
 Email Enviado a
 ---------------

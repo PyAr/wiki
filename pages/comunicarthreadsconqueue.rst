@@ -1,6 +1,5 @@
+.. title: Comunicar threads con colas
 
-Comunicar threads con colas
-===========================
 
 El siguiente ejemplo muestra como se pueden comunicar threads a traves de cola y como se puede utilizar las caracteristicas de las colas para hacer que un hilo solo trabaje cuando hay algo para hacer.
 

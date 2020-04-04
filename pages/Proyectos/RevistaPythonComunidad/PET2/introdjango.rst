@@ -1,6 +1,5 @@
+.. title: Página del articulo Intro Django PET2
 
-Página del articulo Intro Django PET2
-=====================================
 
 .. csv-table::
     :header:  Tarea,Check

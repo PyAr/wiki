@@ -1,6 +1,5 @@
+.. title: Empaquetando programas de Python para Windows desde Linux
 
-Empaquetando programas de Python para Windows desde Linux
-=========================================================
 
 La siguiente receta fue hecha utilizando:
 -----------------------------------------

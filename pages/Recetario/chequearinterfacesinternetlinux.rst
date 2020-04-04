@@ -1,3 +1,4 @@
+.. title: Chequearinterfacesinternetlinux
 
 Si te esta pasa que necesitas saber porque placa de red tenes internet en Gnu/Linux con Python ? bueno, por ahi esto te sirve 🙂
 

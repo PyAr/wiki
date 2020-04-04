@@ -1,5 +1,5 @@
-Fotos!
-------
+.. title: Fotos!
+
 
 El evento ya pasó, esta es alguna recopilación de fotos...
 

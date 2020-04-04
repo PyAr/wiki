@@ -1,6 +1,5 @@
+.. title: CheckDistroVersion
 
-CheckDistroVersion
-==================
 
 Chequea la versión de la Distribución Linux, y actúa en función de eso. Utiliza el módulo platform_
 

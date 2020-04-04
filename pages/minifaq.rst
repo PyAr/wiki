@@ -1,6 +1,5 @@
+.. title: Mini Preguntas Frecuentes
 
-Mini Preguntas Frecuentes
-=========================
 
 .. contents::
 

@@ -1,6 +1,5 @@
+.. title: Intento 01 de Facundo Batista
 
-Intento 01 de Facundo Batista
------------------------------
 
 La idea acá es dar dos o tres palabras copadas sobre Python, más la clave abajo que es *disfrutar* la programación.
 

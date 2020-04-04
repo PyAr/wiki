@@ -1,6 +1,5 @@
+.. title: Alejandro J. Cura
 
-Alejandro J. Cura
------------------
 
 * Uso linux y python desde 1995.
 

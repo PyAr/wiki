@@ -1,5 +1,5 @@
-Adopta Un Newbie
-================
+.. title: Adopta Un Newbie
+
 
 Buenas! Adopta-un-newbie es un proyecto de PyAr orientado a permitir que gente
 que está buscando aprender de algo en particular, encuentre y se conecte con gente

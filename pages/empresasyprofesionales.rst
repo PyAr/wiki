@@ -1,6 +1,5 @@
+.. title: Empresas y Profesionales que trabajan con Python
 
-Empresas y Profesionales que trabajan con Python
-------------------------------------------------
 
 La siguiente es una lista de las empresas y profesionales que trabajan en Python.
 

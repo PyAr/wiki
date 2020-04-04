@@ -1,6 +1,5 @@
+.. title: Organización del PyDay Rafaela 2010
 
-Organización del PyDay Rafaela 2010
-===================================
 
 Reuniones organizativas
 -----------------------

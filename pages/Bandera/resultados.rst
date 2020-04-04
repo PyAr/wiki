@@ -1,6 +1,5 @@
+.. title: Bandera Ganadora: Pablo4
 
-Bandera Ganadora: Pablo4
-------------------------
 
 .. image:: http://alecu.com.ar/banderas/pablo4.png
 

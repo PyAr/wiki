@@ -1,6 +1,5 @@
+.. title: Becas PyConAr 2011
 
-Becas PyConAr 2011
-==================
 
 Con orgullo anuncio que Python Argentina ofrecerá becas para quienes quieran venir a pyconar 2011, en Septiembre ( `ver sitio web para más datos`_ ), y necesiten ayuda económica.
 

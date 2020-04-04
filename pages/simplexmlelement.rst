@@ -1,6 +1,5 @@
+.. title: Manejo simple de xml (SimpleXMLElement)
 
-Manejo simple de xml (SimpleXMLElement)
----------------------------------------
 
 En este ejemplo se muestra como convertir un string desde y hacia un objeto simple que representa el XML (código usado en `Factura Electronica`_)
 

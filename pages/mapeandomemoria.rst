@@ -1,6 +1,5 @@
+.. title: Mapeando Memoria
 
-Mapeando Memoria
-================
 
 Las funciones de abajo utilizan heapy_ para generar una descripción visual (en ascii) de la memoria, junto con otras estadísticas.
 

@@ -1,6 +1,5 @@
+.. title: Información
 
-Información
------------
 
 Este fue quizas nuestro punto mas flojo durante el evento del 2010. No debemos subestimar lo importante que es la información para la gente que viene del exterior y necesita calcular gastos, tiempos y logistica en general. Idealmente para el momento en que confirmaste un lugar y vas a hacer un llamado oficial, vas a necesitar proveer, de la forma mas clara y completa posible, los siguientes datos:
 

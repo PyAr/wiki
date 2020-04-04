@@ -1,6 +1,5 @@
+.. title: Marcelo Alaniz [1]
 
-Marcelo Alaniz [1]
-------------------
 
 http://media.linkedin.com/mpr/mpr/shrink_80_80/p/1/000/028/080/17d17b3.jpg Soy [1]. Vivo en San Luis (Argentina). Estoy en el tramo final de una Lic. en Ciencias de la computación en la Universidad Nacional de San Luis, actualmente mi tesis esta programada en python y estoy en trámites de finalizarla para que sea un proyecto open source.
 

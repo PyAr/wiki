@@ -1,5 +1,5 @@
-alineador de antenas
---------------------
+.. title: alineador de antenas
+
 
 usamos este pad para pasarnos cosas:
 https://pad.codigosur.org/kivy_notes

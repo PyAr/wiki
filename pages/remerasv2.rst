@@ -1,6 +1,5 @@
+.. title: Resultado
 
-Resultado
----------
 
 Habemus ganadorus: Ganó el tercer diseño de Cesar Roldan, `RemerasV2/CesarRoldan3`_.
 

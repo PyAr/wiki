@@ -1,3 +1,4 @@
+.. title: Wikipediaoffline1
 
 El sábado 3 de Junio de 2006, al finalizar las Jornadas de Python de Santa Fé se invitó a los participantes a un sprint informal que se organizó en uno de los bares de la ciudad con wi-fi. Y nos juntamos cerca de 20 personas (no todos con máquinas, creo que eran unas 7 notebooks).
 

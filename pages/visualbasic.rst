@@ -1,3 +1,4 @@
+.. title: Visualbasic
 
 Esta página es una ayuda a los programadores que vienen del mundo "visual" (VB clásico versiones 5.0 y 6.0)
 

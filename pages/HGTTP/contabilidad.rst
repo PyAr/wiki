@@ -1,6 +1,5 @@
+.. title: Contabilidad
 
-Contabilidad
-------------
 
 El dinero siempre es un tema incómodo, sobre todo cuando el evento es un asunto de comunidad y amistad o compañerismo.
 

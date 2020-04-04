@@ -1,6 +1,5 @@
+.. title: Gabriel Brunacci
 
-Gabriel Brunacci
-----------------
 
 Email: "".join((primernombre[0],apellido)) AT she-mail DOT com
 

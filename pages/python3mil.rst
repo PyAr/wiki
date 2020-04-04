@@ -1,6 +1,5 @@
+.. title: Python 3000 = Py3K = 3.x
 
-Python 3000 = Py3K = 3.x
-------------------------
 
 Python 3.0 es la última versión del lenguaje, actualmente en desarrollo. Se pueden ver todas las características en el `PEP 3000`_ y derivados.
 

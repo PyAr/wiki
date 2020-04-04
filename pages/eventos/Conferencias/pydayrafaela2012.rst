@@ -1,6 +1,5 @@
+.. title: Organización PyDay Rafaela 2012
 
-Organización PyDay Rafaela 2012
-===============================
 
 Organizadores
 -------------

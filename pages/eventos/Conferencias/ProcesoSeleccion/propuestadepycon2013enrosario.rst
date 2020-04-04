@@ -1,5 +1,5 @@
-PyCon Argentina 2013 - Rosario
-==============================
+.. title: PyCon Argentina 2013 - Rosario
+
 
 ¿Por qué Rosario?
 -----------------

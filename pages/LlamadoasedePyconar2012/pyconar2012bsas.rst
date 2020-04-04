@@ -1,5 +1,5 @@
-PyCon Argentina 2012 - Buenos Aires
-===================================
+.. title: PyCon Argentina 2012 - Buenos Aires
+
 
 Propuesta tentativa
 -------------------

@@ -1,6 +1,5 @@
-================
-User Preferences
-================
+.. title: User Preferences
+
 
 Primera vez
 ===========

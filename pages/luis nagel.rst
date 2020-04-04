@@ -1,6 +1,5 @@
+.. title: @luistucho@
 
-@luistucho@
------------
 
 Email: luist `luist.nagel@gmail.com`_
 

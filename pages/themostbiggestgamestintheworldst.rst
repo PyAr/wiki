@@ -1,6 +1,5 @@
+.. title: TheMostBiggestGamestInTheWorldst
 
-TheMostBiggestGamestInTheWorldst
-================================
 
 TODO
 ----

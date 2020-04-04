@@ -1,3 +1,4 @@
+.. title: Colectadehardware
 
 Recicla tu hardware por una buena causa
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

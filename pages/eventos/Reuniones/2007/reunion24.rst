@@ -1,6 +1,5 @@
+.. title: Reunión 24 - 19/09/2007 - Hip Bar, Buenos Aires
 
-Reunión 24 - 19/09/2007 - Hip Bar, Buenos Aires
-===============================================
 
 Asistentes
 ----------

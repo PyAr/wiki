@@ -1,3 +1,4 @@
+.. title: Interesados
 
 Interesados en asistir a PyCamp_ 2011 a realizarse durante los días Jueves 24, Viernes 25, Sábado 26 y Domingo 27 de Marzo.
 

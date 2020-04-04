@@ -1,6 +1,5 @@
+.. title: Ayuda económica para ir al PyCamp
 
-Ayuda económica para ir al PyCamp
----------------------------------
 
 Este año también habrán becas para facilitar el ir al PyCamp_.
 

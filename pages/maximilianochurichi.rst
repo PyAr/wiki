@@ -1,6 +1,5 @@
+.. title: Maximiliano Churichi
 
-Maximiliano Churichi
---------------------
 
 Email: ``mchurichi AT SPAMFREE gmail DOT com``
 

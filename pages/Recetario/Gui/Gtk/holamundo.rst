@@ -1,6 +1,5 @@
+.. title: GtkHolaMundo
 
-GtkHolaMundo
-------------
 
 Crea y muestra una ventana que muestra el famoso mensaje hola mundo.
 

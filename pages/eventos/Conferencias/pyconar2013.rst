@@ -1,6 +1,5 @@
+.. title: PyConAr 2013
 
-PyConAr 2013
-============
 
 PyCon_ Argentina 2013 fue la 5ta edición de PyCon_ cual tuvo lugar en Rosario, Santa Fe, Argentina. Url del evento: http://ar.pycon.org
 

@@ -1,6 +1,5 @@
+.. title: Reunión 54  - Sabado 31 de Marzo - Buenos Aires, Universidad de Quilmes - 12hs
 
-Reunión 54  - Sabado 31 de Marzo - Buenos Aires, Universidad de Quilmes - 12hs
-==============================================================================
 
 Temario
 ~~~~~~~

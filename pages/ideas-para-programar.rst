@@ -1,3 +1,5 @@
+.. title: Ideas Para Programar
+
 Esta página es un block de notas colectivo, un *TO-DO* donde cualquiera puede bosquejar la idea germinal de un software, una mejora a otro existente,
 o al menos plantear un problema que sospeches que puede tener solución con software, para que vos mismo u otr@s pueden inspirarse y "agarrar el guante" para implementarlo, por ejemplo, durante un PyCamp_
 

@@ -1,6 +1,5 @@
+.. title: Taller de Programación de Juegos
 
-Taller de Programación de Juegos
-================================
 
 *Mostraremos cómo hacer juegos y actividades educativas sencillas, usando Python y la biblioteca* PyGame_*..*
 

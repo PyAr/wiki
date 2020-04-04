@@ -1,4 +1,7 @@
-= PyCamp 2011: Temas desarrollados =
+.. title: Temas desarrollados
+
+PyCamp 2011: Temas desarrollado
+===============================
 
 Esta es una lista de los proyectos sobre los que trabajamos durante el PyCamp y que fueron presentados durante el cierre del mismo.
 

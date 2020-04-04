@@ -1,6 +1,5 @@
+.. title: Lugar
 
-Lugar
------
 
 No es simple elegir un lugar, sobre todo cuando no sabemos que cantidad de personas vamos a alojar. Debemos tratar de elegir un lugar donde entre la maxima gente que podria llegar a venir al evento, mirar eventos de caracteristicas similares del pasado ayuda bastante. Medir contra eventos en Capital no es una buena idea, a menos que hagas un evento en Capital, siempre llevan mas gente. Si hay disponibles números de alguna versión en el interior mas vale usa esos para calcular. Otra cosa muy importante a tener en cuenta es que tan dificil/costoso es poner internet en ese lugar. Vas a necesitar pensar en:
 

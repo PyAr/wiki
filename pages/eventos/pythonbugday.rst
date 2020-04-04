@@ -1,6 +1,5 @@
+.. title: Python Bug day (Junio 2008)
 
-Python Bug day (Junio 2008)
-===========================
 
 ¿De qué se trata?
 -----------------

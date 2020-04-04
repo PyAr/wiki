@@ -1,3 +1,5 @@
+.. title: Pruebacal
+
 == Prueba de calendario ==
 
 ||||||||<bgcolor="#ffffcc"> '''2010'''                                                             ||

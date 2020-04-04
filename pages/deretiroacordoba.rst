@@ -1,3 +1,4 @@
+.. title: Deretiroacordoba
 
 Este es el listado de gente que viajará a `PyCon Argentina 2010`_ desde Retiro.
 

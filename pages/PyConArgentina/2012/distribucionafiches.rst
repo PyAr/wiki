@@ -1,4 +1,5 @@
-========
+.. title: Dsitrubucion afiches
+
 Objetivo
 ========
 

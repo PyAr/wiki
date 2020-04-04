@@ -1,3 +1,4 @@
+.. title: Foo
 
 Hola mundo! Estoy aca
 

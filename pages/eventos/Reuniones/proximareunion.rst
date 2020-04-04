@@ -1,6 +1,5 @@
+.. title: Próximas Reuniones
 
-Próximas Reuniones
-==================
 
 Por el momento, no hay planificada una reunión.
 

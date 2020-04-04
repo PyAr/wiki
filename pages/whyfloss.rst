@@ -1,6 +1,5 @@
+.. title: WhyFLOSS Conference BsAs
 
-WhyFLOSS Conference BsAs
-========================
 
 Los días 6 y 7 de diciembre próximo se estará realizando la 3era edición del evento WhyFLOSS Conference en las instalaciones del Instituto Tecnológico de Buenos Aires (ITBA) de Puerto Madero.
 

@@ -1,5 +1,5 @@
-Autocomplecion en consola interactiva
-=====================================
+.. title: Autocomplecion en consola interactiva
+
 
 (donado por Anthony Lenton)
 

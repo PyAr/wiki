@@ -1,3 +1,4 @@
+.. title: Laubenech2
 
 :small:`volver a` RemerasV2_
 

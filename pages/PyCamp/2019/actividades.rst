@@ -1,3 +1,5 @@
+.. title: Actividades
+
 ¿Buscando inspiración? Fijate también la página de `Ideas para programar`_
 
 fades

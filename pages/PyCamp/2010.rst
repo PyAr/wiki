@@ -1,5 +1,5 @@
-PyCamp 2010
-===========
+.. title: PyCamp 2010
+
 
 .. role:: underline
    :class: underline

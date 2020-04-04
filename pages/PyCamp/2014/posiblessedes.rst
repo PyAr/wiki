@@ -1,6 +1,5 @@
+.. title: Posibles sedes para el PyCamp 2014
 
-Posibles sedes para el PyCamp 2014
-==================================
 
 Estas son las distintas posibles sedes para el PyCamp_ 2014. Se sometieron a votación y la ganadora es **Hotel Luz y Fuerza**. Votos y script, `acá`_.
 

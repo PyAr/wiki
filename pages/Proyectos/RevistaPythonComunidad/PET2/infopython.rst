@@ -1,6 +1,5 @@
+.. title: Página del articulo Info Python
 
-Página del articulo Info Python
-===============================
 
 .. csv-table::
     :header: Tarea,Check

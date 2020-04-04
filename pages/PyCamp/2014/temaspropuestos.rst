@@ -1,6 +1,5 @@
+.. title: Temas propuestos para el PyCamp 2014
 
-Temas propuestos para el PyCamp 2014
-------------------------------------
 
 Estas son propuestas, en el PyCamp_ el primer día se hace una votación para elegir a cuáles de estos proyectos o ideas vamos a dedicar tiempo (este procedimiento lo tenemos que terminar de definir).
 

@@ -1,6 +1,5 @@
+.. title: Como crear snippets en el wiki
 
-Como crear snippets en el wiki
-==============================
 
 Este documento pretende estandarizar la forma en la que publicamos codigo en la lista de pyar de manera de que el contenido quede accesible con un link permanente.
 

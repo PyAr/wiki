@@ -1,6 +1,5 @@
+.. title: Reunión 42 - 28 de Mayo de 2010 - Bar Dr Mason, Buenos Aires - 19:00
 
-Reunión 42 - 28 de Mayo de 2010 - Bar Dr Mason, Buenos Aires - 19:00
---------------------------------------------------------------------
 
 **Edición Pycentenario**
 

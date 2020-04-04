@@ -1,6 +1,5 @@
+.. title: Terminales interactivas
 
-Terminales interactivas
-=======================
 
 En esta pagina se listan las distintas alternativas que podemos usar para probar el código Python en una consola interactiva.
 

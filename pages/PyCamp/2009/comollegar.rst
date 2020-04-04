@@ -1,6 +1,5 @@
+.. title: Como llegar en auto particular
 
-Como llegar en auto particular
-------------------------------
 
 * Tener en cuenta que en Córdoba y Santa Fe está autorizado el uso de Radares, respetar Velocidades Máximas sobre todo en pueblos y accesos.
 

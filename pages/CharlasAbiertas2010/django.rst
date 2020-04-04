@@ -1,6 +1,5 @@
+.. title: Django
 
-Django
-======
 
 *Django es un framework para construir páginas web de una manera sencilla, facilitando las tareas comunes que esto implica y protegiéndonos de los ataques más conocidos en la web. La principal idea de Django es hacer que nuestro desarrollo sea placentero y poco repetitivo, brindándonos las herramientas básicas para resolver los problemas  que se frecuentan en el desarrollo web.*
 

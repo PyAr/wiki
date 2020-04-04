@@ -1,6 +1,5 @@
+.. title: Reunión 32 - 18/09/08 - Except, Córdoba Capital
 
-Reunión 32 - 18/09/08 - Except, Córdoba Capital
-===============================================
 
 Asistentes
 ----------

@@ -1,6 +1,5 @@
+.. title: Nicolás Pace
 
-Nicolás Pace
-------------
 
 `Perfil de linkedin`_
 

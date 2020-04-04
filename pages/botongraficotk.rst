@@ -1,6 +1,5 @@
+.. title: Boton Grafico TK
 
-Boton Grafico TK
-================
 
 Crear un boton grafico personalizado, con 3 estados posibles *(Activado, con el Roedor Encima, Normal)*, usando TK.
 

@@ -1,6 +1,5 @@
+.. title: Librerias para juegos
 
-Librerias para juegos
-=====================
 
 2D
 --

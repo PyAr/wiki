@@ -1,6 +1,5 @@
+.. title: Gabriel Genellina
 
-Gabriel Genellina
------------------
 
 Nada por aqui (todavia)
 

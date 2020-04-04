@@ -1,5 +1,5 @@
-Propuestas de sede
-=====================
+.. title: Propuestas de sede
+
 
 Mendoza
 -------

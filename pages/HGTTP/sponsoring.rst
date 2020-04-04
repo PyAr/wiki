@@ -1,6 +1,5 @@
+.. title: Sponsoring
 
-Sponsoring
-----------
 
 Suponiendo que ya elegiste un lugar, una fecha y tenes un equipo seguro que te ayuda, es hora de ir a buscar dinero. Es la costumbre de las comunidades de software libre de Argentina que los eventos no tienen costo alguno. Esto es bueno del punto de vista de las bajas barreras de entrada, pero causa muchísimos problemas en otros frentes, trato de contarte mi experiencia y la que recogí de la gente de PyConBr para que puedas enfrentarlos.
 

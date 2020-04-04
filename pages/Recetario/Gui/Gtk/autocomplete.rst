@@ -1,6 +1,5 @@
+.. title: Gtk Auto Complete
 
-Gtk Auto Complete
-=================
 
 ejemplo de campo de texto con auto complesion
 

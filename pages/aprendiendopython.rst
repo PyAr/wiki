@@ -1,5 +1,5 @@
-¡Quiero Aprender Python!
-========================
+.. title: ¡Quiero Aprender Python!
+
 
 Antes que nada ¡FELICITACIONES!
 

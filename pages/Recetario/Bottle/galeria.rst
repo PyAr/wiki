@@ -1,6 +1,5 @@
+.. title: Mini Galeria de Imagenes Bottle
 
-Mini Galeria de Imagenes Bottle
-===============================
 
 * Como hacer una Mini Galeria de Imagenes en Bottle_, ejemplo basado en el Hola Mundo.
 

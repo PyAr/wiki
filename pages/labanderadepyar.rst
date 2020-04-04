@@ -1,6 +1,5 @@
+.. title: La Bandera de PyAr viaja por el mundo
 
-La Bandera de PyAr viaja por el mundo
-=====================================
 
 `Editar el mapa`_
 

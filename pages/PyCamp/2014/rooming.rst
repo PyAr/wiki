@@ -1,6 +1,5 @@
+.. title: Distribución de humanoides en habitaciones
 
-Distribución de humanoides en habitaciones
-------------------------------------------
 
 Anotate directamente, en grupos de 3 (camas individuales) o de 2 (cama matrimonial).
 

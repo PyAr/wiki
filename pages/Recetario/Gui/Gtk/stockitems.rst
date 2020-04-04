@@ -1,6 +1,5 @@
+.. title: Gtk stock items
 
-Gtk stock items
-===============
 
 ejemplo que muestra todos los iconos stock de gtk con su respectivo nombre
 

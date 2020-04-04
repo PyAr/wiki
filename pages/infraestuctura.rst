@@ -1,3 +1,5 @@
+.. title: Infraestuctura
+
 .. class:: alert alert-warning
 
     El contenido de esta web está en progreso

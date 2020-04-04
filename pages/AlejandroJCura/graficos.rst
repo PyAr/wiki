@@ -1,5 +1,5 @@
-Variables, valores y objetos
-============================
+.. title: Variables, valores y objetos
+
 
 .. image:: /images/AlejandroJCura/graficos/grafico1.png
 

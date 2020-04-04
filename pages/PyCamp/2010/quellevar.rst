@@ -1,3 +1,4 @@
+.. title: Que llevar
 
 Si se les ocurren más cosas, anoten.
 

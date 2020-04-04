@@ -1,4 +1,4 @@
-How To organizar un PyCamp
---------------------------
+.. title: How To organizar un PyCamp
+
 
 <rellenarme>
