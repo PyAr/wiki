@@ -15,7 +15,7 @@ luego de hacer click derecho en la pagina y hacer click en "Inspect Element" ten
 
 el codigo:
 
-::
+.. code-block:: python
 
     import sys
     import gtk

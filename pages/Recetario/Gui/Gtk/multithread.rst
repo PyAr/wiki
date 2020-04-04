@@ -3,7 +3,7 @@
 
 Ejemplo de como manipular la api desde multiples threads sin usar locks. Compare con el `otro ejemplo`_ que no utiliza colas.
 
-::
+.. code-block:: python
 
     import gtk
     import time

@@ -7,7 +7,7 @@ Para no depender de programas externos (tené en cuenta que, por ejemplo, ping s
 
 Si el DNS resuelve podés chequear con socket.gethostbyname('google.com').
 
-::
+.. code-block:: python
 
    import socket
    try:

@@ -3,13 +3,13 @@
 
 Como saber si N libreria esta instalada SIN ingresar al interprete de Python, funciona en la Bash de Linux.
 
-::
+.. code-block:: bash
 
    python -c 'import libreria'&&echo OK
 
 Ejemplo:
 
-::
+.. code-block:: bash
 
    juan@maverick:~$ python -c 'import gtk'&&echo OK
    OK

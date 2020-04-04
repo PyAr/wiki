@@ -15,7 +15,7 @@ Ejemplo:
 
 Ejemplo original traducido y ajustado:
 
-::
+.. code-block:: python
 
     # -*- coding: iso-8859-1 -*-
 

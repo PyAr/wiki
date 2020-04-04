@@ -9,7 +9,7 @@ Para mas información, revisar:
 
 * `Documentación de hist`_
 
-::
+.. code-block:: python
 
     >>> from matplotlib.pylab import hist, show
     >>> plata = []

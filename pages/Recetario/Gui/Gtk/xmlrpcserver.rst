@@ -2,7 +2,7 @@
 
 Servidor XMLRPC dentro de un hilo gtk
 
-::
+.. code-block:: python
 
     from SimpleXMLRPCServer import SimpleXMLRPCServer
     import gtk

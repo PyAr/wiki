@@ -9,7 +9,7 @@ un ejemplo de su uso (tarea del autor encontrar los cambios 😉
 
 .. image:: /images/Recetario/Gui/Gtk/WebkitEditor/webkit.png
 
-::
+.. code-block:: python
 
     import gtk
     import webkit
@@ -63,7 +63,7 @@ un ejemplo de su uso (tarea del autor encontrar los cambios 😉
 
 Tengan en cuenta que en Ubuntu inferior 10.04 python-webkit en gtk nececita SI o SI llamar a "gtk.gdk.threads_init()", si no tira error:
 
-::
+.. code-block:: console
 
    GLib-ERROR **: The thread system is not yet initialized.
    aborting...
@@ -71,7 +71,7 @@ Tengan en cuenta que en Ubuntu inferior 10.04 python-webkit en gtk nececita SI o
 
 Entonces deberan agregar un "gtk.gdk.threads_init()" antes de llamar a "EditorWindow_()", el final del codigo les quedara de la siguiente manera:
 
-::
+.. code-block:: python
 
     if __name__ == '__main__':
         gtk.gdk.threads_init()

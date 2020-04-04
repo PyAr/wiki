@@ -15,7 +15,7 @@ Ejemplo: Feriados (Ministerio del Interior)
 
 Ver: http://www.mininterior.gov.ar/servicios/wsferiados.asp
 
-::
+.. code-block:: python
 
         # Demo & Test: Feriados (Ministerio del Interior):
         from datetime import datetime, timedelta

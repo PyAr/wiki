@@ -21,13 +21,13 @@ La receta
 
 1. Instalá pip
 
-::
+.. code-block:: bash
 
        $ sudo curl https://raw.github.com/pypa/pip/master/contrib/get-pip.py | python
 
 2. Instalá virtualenwrapper y skeleton
 
-::
+.. code-block:: bash
 
      $ sudo pip install virtualenwrapper
      $ sudo pip install git+git://github.com/stumitchell/skeleton.git#egg=skeleton
@@ -36,14 +36,14 @@ Notar que *skeleton* se está instalando desde un *fork* del proyecto original, 
 
 3. Configurá virtualenvwrapper.
 
-::
+.. code-block:: bash
 
      $ mkdir ~/.virtualenvs           # acá se van a guardar tus entornos virtuales
      $ mkdir ~/proyectos              # acá se van a guardar tus proyectos
 
 Luego editá tu *~/.bashrc* agregando las siguientes líneas
 
-::
+.. code-block:: bash
 
   WORKON_HOME=$HOME/.virtualenvs
   PROJECT_HOME=$HOME/proyectos
@@ -52,19 +52,19 @@ Luego editá tu *~/.bashrc* agregando las siguientes líneas
 
 y recargá tus cambios
 
-::
+.. code-block:: bash
 
   $ source ~/.bashrc
 
 4. Inicializá tu proyecto. Por ejemplo el proyecto *zaraza*
 
-::
+.. code-block:: bash
 
   $ mkproject -t package zaraza
 
 Se te solicitarán algunos datos (nombre del proyecto, autor, licencia, etc.) y ¡(casi) listo! Estarás trabajando en tu proyecto *zaraza*. Tu prompt se verá así:
 
-::
+.. code-block:: bash
 
   (zaraza)tin@morocha:~/proyectos/zaraza$
 
@@ -72,7 +72,7 @@ Se te solicitarán algunos datos (nombre del proyecto, autor, licencia, etc.) y 
 
 5. Instalá tu paquete en el virtualenv, para poder importarlo desde cualquier lado
 
-::
+.. code-block:: bash
 
   (zaraza) $ cd  ~/proyectos/zaraza/src
   (zaraza) $ pip install -e .
@@ -86,7 +86,7 @@ Cada vez que quieras trabajar en tu proyecto *zaraza* podes correr
 
 
 
-::
+.. code-block:: bash
 
   $ workon zaraza
 
@@ -94,7 +94,7 @@ Para salir del virtualenv
 
 
 
-::
+.. code-block:: bash
 
   (zaraza) $ deactivate
 

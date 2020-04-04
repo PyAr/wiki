@@ -5,7 +5,7 @@ ejemplo que muestra el uso de vbox (cajas verticales) para ordenar elementos de 
 
 .. image:: /images/Recetario/Gui/Gtk/VBox/vbox.png
 
-::
+.. code-block:: python
 
     import gtk
     import sys

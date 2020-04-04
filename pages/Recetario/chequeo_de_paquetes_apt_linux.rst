@@ -3,7 +3,7 @@
 
 * Como saber si un paquete esta instalado, o no, y si el mismo existe usando Python, ejemplo interactivo simple.
 
-::
+.. code-block:: python
 
     #!/usr/bin/env python
     # -*- coding: utf-8 -*-
@@ -24,7 +24,7 @@
 
 **Ejemplo:**
 
-::
+.. code-block:: bash
 
    juan@wind:~$ /usr/bin/env python apt-app-check.py
     Cual es el nombre del programa?: python

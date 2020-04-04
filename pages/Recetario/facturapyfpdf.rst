@@ -15,7 +15,7 @@ Este ejemplo esta harcodeado, en la vida real habría que abstraerlo en alguna e
 Ejemplo:
 ::::::::
 
-::
+.. code-block:: python
 
     # -*- coding: iso-8859-1 -*-
 
@@ -151,7 +151,7 @@ Ejemplo:
     os.system("c:/factura.pdf")
 
 
-::
+.. code-block:: python
 
    # -*- coding: iso-8859-1 -*-
    #Actualizado 24/08/2012

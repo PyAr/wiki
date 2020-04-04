@@ -5,7 +5,7 @@
 
 **Nota:** *Si tu teclado es a Baterias (Bluetooth, Wireless), el uso intensivo de este Script reducira la duracion de las mismas.*
 
-::
+.. code-block:: python
 
     #!/usr/bin/env python
     # -*- coding: utf-8 -*-
@@ -33,7 +33,7 @@
 
 **Ejemplo:**
 
-::
+.. code-block:: bash
 
    sudo /usr/bin/env python keyboardleds.py
 

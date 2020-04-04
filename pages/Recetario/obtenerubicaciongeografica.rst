@@ -5,14 +5,14 @@
 
 **Requisitos:** Base de Datos de Geo-Location en la misma ubicacion que el programa, descargarla usando:
 
-::
+.. code-block:: bash
 
     wget --verbose http://geolite.maxmind.com/download/geoip/database/GeoLiteCity.dat.gz
 
 
 **Nota:** *Depende de la conectividad con Internet usando direccion ip publica version 4, se desconoce el comportamiento con ip version 6.*
 
-::
+.. code-block:: python
 
     #!/usr/bin/env python
     # -*- coding: utf-8 -*-
@@ -47,7 +47,7 @@
 
 **Ejemplo:**
 
-::
+.. code-block:: bash
 
     /usr/bin/env python geolocation.py
     190.17.169.XXX

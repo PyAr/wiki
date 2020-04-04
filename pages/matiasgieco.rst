@@ -29,26 +29,13 @@ Algunos links interesantes:
 
 Si quieren algún otro usuario y contraseña de algún otro servicio, manden un email a la dirección escrita y se las doy, total quien va a romper lo que no es suyo.
 
-::
+.. code-block:: python
 
    def tiempo_de_vida(fecha_nac):
-
-
-
-  ::
-
      hoy = datetime.date.today()
-
-::
-
-   return(hoy-fecha_nac)
-
-::
+     return(hoy-fecha_nac)
 
    nac_bb = datetime.date(2008,04,15)
-
-::
-
    nac_bullie = datetime.date(2008,04,15) -  datetime.timedelta(366) # si, un año justo justo!
 
 -------------------------

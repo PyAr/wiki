@@ -19,7 +19,7 @@ func(\*args, \*\*kwargs) sera llamada en un thread aparte el cual sera monitorea
 
 obviamente en la función esa no pueden correr código relacionado con gtk
 
-::
+.. code-block:: python
 
     '''example of a generic class to run a given function in a thread and call a
     callback in the main thread with the result of the function'''

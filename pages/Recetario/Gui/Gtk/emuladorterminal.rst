@@ -5,7 +5,7 @@ un ejemplo de como hacer una terminal visual al estilo gnome-terminal
 
 .. image:: /images/Recetario/Gui/Gtk/EmuladorTerminal/pyshell.png
 
-::
+.. code-block:: python
 
     import gtk
     import vte

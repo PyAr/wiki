@@ -5,7 +5,7 @@ ejemplo para crear dialogos modales de distintos tipos con distintos botones
 
 
 
-::
+.. code-block:: python
 
     import gtk
     import sys

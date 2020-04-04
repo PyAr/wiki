@@ -3,7 +3,7 @@
 
 ejemplo de campo de texto con auto complesion
 
-::
+.. code-block:: python
 
     import gtk
 

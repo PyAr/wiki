@@ -4,7 +4,7 @@
 Código
 ::::::
 
-::
+.. code-block:: python
 
     >>> import re
     >>> mailsrch = re.compile(r'[\w\-][\w\-\.]+@[\w\-][\w\-\.]+[a-zA-Z]{1,4}')
@@ -17,7 +17,7 @@ Ahora podemos `atrapar al asesino`_ sin recurrir a Perl!!
 
 La expresión regular que sigue es del proyecto django_.
 
-::
+.. code-block:: python
 
     email_re = re.compile(
                 r"(^[-!#$%&'*+/=?^_`{}|~0-9A-Z]+(\.[-!#$%&'*+/=?^_`{}|~0-9A-Z]+)*"  # dot-atom

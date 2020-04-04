@@ -5,7 +5,7 @@
 
 crear un archivo llamado .pythonrc (se llama asi pero podria llamarse de cualquier otra forma), que dice:
 
-::
+.. code-block:: python
 
     if __name__ == "__main__":
        try:
@@ -26,14 +26,14 @@ crear un archivo llamado .pythonrc (se llama asi pero podria llamarse de cualqui
 
 y en el environment se setea la variable:
 
-::
+.. code-block:: bash
 
     PYTHONSTARTUP=/home/tuusuario/.pythonrc #(aca importa que sea igual al nombre del alchivo).
 
 
 Lo que hace es darte Tab-completion en el interprete, cuando no se recuerda que metodos tiene mistring, en el interprete se hace:
 
-::
+.. code-block:: pycon
 
     >>> mistring.<tab><tab>
 

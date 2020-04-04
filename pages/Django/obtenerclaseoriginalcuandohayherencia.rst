@@ -2,7 +2,7 @@
 
 Si usamos herencia normal de modelos (no abstracta), se vuelve difícil obtener el objeto original de la base de datos cuando sólo tenemos una referencia a un ancestro (esto pasa a menudo cuando tenemos relaciones a un modelo que fue derivado). Este cacho de código define una clase abstracta ``SubclassedModel``, cuyos descendientes tienen en ``objects`` un Manager por defecto que devuelve directamente objetos de la clase con la que fueron creados.
 
-::
+.. code-block:: python
 
     from django.db import models
     from django.db.models.query import QuerySet
@@ -60,7 +60,7 @@ Si usamos herencia normal de modelos (no abstracta), se vuelve difícil obtener 
 
 Para usarlo, supongamos el siguente ``models.py`` en la app ``example``:
 
-::
+.. code-block:: python
 
     from django.db import models
     from <el módulo de arriba> import SubclassedModel
@@ -83,7 +83,7 @@ Para usarlo, supongamos el siguente ``models.py`` en la app ``example``:
 
 Entonces:
 
-::
+.. code-block:: bash
 
     $ django-admin.py shell --settings=<nombre del proyecto>.settings
     Python 2.6.5 (r265:79063, Apr 16 2010, 13:09:56)

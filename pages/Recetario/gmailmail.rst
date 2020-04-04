@@ -11,7 +11,7 @@ Este script permite enviar emails a través de GMail. Los emails pueden tener te
 
 **Archivo:** GmailMail.py
 
-::
+.. code-block:: python
 
     #!/usr/bin/env python
 
@@ -137,7 +137,7 @@ Algunos tests (ejemplos, casos de uso):
 
 **Archivo:** GmailMail_tests.py
 
-::
+.. code-block:: python
 
     # -*- coding: utf-8 -*-
 

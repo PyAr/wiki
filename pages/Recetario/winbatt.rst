@@ -29,7 +29,7 @@ El ejemplo en Python (winbatt.py) registra un objeto python MiMiniInterpretePyth
 
 Archivo winbatt.py
 
-::
+.. code-block:: python
 
     # -*- coding: iso-8859-1 -*-
 
@@ -71,7 +71,7 @@ Archivo winbatt.py
 
 Para usarlo se puede ejecutar desde línea de comando:
 
-::
+.. code-block:: console
 
    C:\src>python winbatt.py
    AcOnLine: False

@@ -5,7 +5,7 @@ ejemplo de como cambiar el color de un label sin usar pango markup
 
 observaciones, si se comenta label.realize() el color que se imprime no es el que seteamos si no el por defecto.
 
-::
+.. code-block:: python
 
     import gtk
 

@@ -7,7 +7,7 @@ En realidad son los locals de la funcion llamada.
 
 Lo uso para pasarle los locals de la funcion a un template de django desde un decorador.
 
-::
+.. code-block:: python
 
     import inspect
 

@@ -5,7 +5,7 @@ este ejemplo muestra como usar un contenedor de botones para agregar botones y h
 
 .. image:: /images/Recetario/Gui/Gtk/ButtonBox/buttonbox-demo.png
 
-::
+.. code-block:: python
 
     import gtk
 
