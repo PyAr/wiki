@@ -107,5 +107,5 @@ Organizadores:
 Proyectos Propuestos:
 ------------------------
 
-Ver `aqui </wiki/PyCampActividades>`_
+Ver `aqui </PyCamp/2015/Actividades>`_
 

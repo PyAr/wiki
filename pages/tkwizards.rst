@@ -10,9 +10,10 @@ Las paginas pueden contener cualquier widget, en este ejemplo solo se usa 1 labe
 
 **Screenshot:**
 
-  `temp.jpg </wiki/TKWizards/attachment/36/temp.jpg>`_
+.. image:: /images/TKWizards/temp.jpg
 
-::
+
+.. code-block:: python
 
     #!/usr/bin/env python
     # -*- coding: utf-8 -*-

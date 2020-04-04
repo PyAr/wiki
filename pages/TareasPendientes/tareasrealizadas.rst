@@ -83,6 +83,6 @@ Si dudás sobre si algo tiene o no que estar acá, lo mas probable es que **NO**
 .. _listadecorreo: /listadecorreo
 .. _pyar: /pyar
 .. _eventos: /eventos
-.. _Reunion01: /eventos/Reuniones/reunion01.rst
-.. _Reunion02: /eventos/Reuniones/reunion02.rst
+.. _Reunion01: /eventos/Reuniones/2004/reunion01.rst
+.. _Reunion02: /eventos/Reuniones/2004/reunion02.rst
 .. _TareasPendientes: /tareaspendientes

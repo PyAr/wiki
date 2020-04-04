@@ -119,9 +119,7 @@ Minuta
 
 .. _issue11739: http://bugs.python.org/issue11739
 
-.. _Joac: JoaquinSorianello
-
-.. _Lipe: FelipeLerena
+.. _Joac: /joaquinsorianello
 
 .. _Eugenia: EugeniaBahit
 

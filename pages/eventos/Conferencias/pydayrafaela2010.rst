@@ -148,13 +148,13 @@ Algunas posibles:
 
 * Introduccion a PyGTK/PyQt/..
 
-* Desarrollo de juegos con PyGame_
+* Desarrollo de juegos con PyGame
 
 Ver temas en:
 
 * Página de Python Santa Fe (`aquí`_)
 
-* Sección de charlas del sitio de pyar (`aquí <Charlas>`__)
+* Sección de charlas del sitio de pyar (`aquí`_)
 
 Disertantes
 :::::::::::

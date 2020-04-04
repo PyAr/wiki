@@ -87,7 +87,7 @@ Para detalles de la inscripción: http://is.gd/8zTTD
 
 * RicardoQuesada_
 
-* `Lucas Shrewsbury`_
+* Lucas Shrewsbury
 
 * `Angel Velásquez`_
 
@@ -101,13 +101,11 @@ Para detalles de la inscripción: http://is.gd/8zTTD
 
 .. _Joaquín Sorianello: /joaquinsorianello
 
-.. _Santiago Suarez Ordoñez: /santiagosuarezO
+.. _Santiago Suarez Ordoñez: /santiagosuarezo
 
 .. _José Luis Dallapiccola: /joseluisdallapiccola
 
 .. _Humareda: http://www.wordreference.com/definicion/humareda
-
-.. _Lucas Shrewsbury: /lucasshrewsbury
 
 .. _Angel Velásquez: /angelvelasquez
 

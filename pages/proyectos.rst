@@ -72,7 +72,7 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 * `Gestion Integral para Empresas`_
 
-  * Sistema de Gestion Administrativa, basado en TurboGears_.
+  * Sistema de Gestion Administrativa, basado en TurboGears.
 
 * `oveja eléctrica`_
 
@@ -182,7 +182,7 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 * gui2py_
 
-  * gui2py es un kit de herraientas simple y poderoso para construcción de interfaces gráficas de usuario (GUI) de manera visual multiplataforma (Windows, Linux y Mac). Utiliza WxPython_ y es un fork de PythonCard_ con la intención de modernizarlo, agregarle menjoras y mantenerlo actualizado.
+  * gui2py es un kit de herraientas simple y poderoso para construcción de interfaces gráficas de usuario (GUI) de manera visual multiplataforma (Windows, Linux y Mac). Utiliza WxPython y es un fork de PythonCard_ con la intención de modernizarlo, agregarle menjoras y mantenerlo actualizado.
 
 * rad2py_
 
@@ -242,7 +242,7 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 * PyConference_
 
-  * Sitio desarrollado con Python y Django para crear y gestionar todo lo relacionado con una conferencia, con la posibilidad de tener un sitio de conferencia funcionando y disponible a traves de una url con solo un par de clicks. `PyConference </page/Proyectos/pyconference>`__ permite generar y controlar el frontend que veran los usuarios finales del sitio de la conferencia a traves de su dashboard, y ayuda a todo el backend que posee una conferencia permitiendo controlar los gastos, tareas, etc.
+  * Sitio desarrollado con Python y Django para crear y gestionar todo lo relacionado con una conferencia, con la posibilidad de tener un sitio de conferencia funcionando y disponible a traves de una url con solo un par de clicks. `PyConference`_ permite generar y controlar el frontend que veran los usuarios finales del sitio de la conferencia a traves de su dashboard, y ayuda a todo el backend que posee una conferencia permitiendo controlar los gastos, tareas, etc.
 
 * Documentor_
 
@@ -258,7 +258,7 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 * WeFree_
 
-  * `WeFree </Proyectos/wefree>`__ is a wireless network manager with a collaborative database of passwords for public (but protected) networks.
+  * WeFree_ is a wireless network manager with a collaborative database of passwords for public (but protected) networks.
 
 * web2conf_
 
@@ -447,7 +447,6 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 .. _Pireal: https://centaurialpha.github.io/pireal
 
 .. _Peicel Graphics: http://ge.tt/2LtQT7m2.. _pyar: /pyar
-.. _turbogears: /turbogears
 .. _cdpedia: /Proyectos/cdpedia
 .. _config: /Planeta/config
 .. _pythoncard: /pythoncard
@@ -455,4 +454,3 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 .. _pyday: /pyday
 .. _pycon: /pycon
 .. _pyar: /pyar
-.. _wxpython: /wxpython

@@ -488,7 +488,7 @@ Divertidos
 .. _/alarmaprecaria: /Recetario/alarmaprecaria
 .. _/keyboardledsdemo: /Recetario/keyboardledsdemo
 .. _/notificardispositivosusb: /Recetario/notificardispositivosusb
-.. _/pyuno/holamundo: /Recetario/pyUnO/holamundo
+.. _/pyuno/holamundo: /Recetario/pyUNO/holamundo
 .. _/pyuno/miprimermacro: /Recetario/pyUNO/miprimermacro
 .. _/crypto/blowfishconblowfishpy: /Recetario/Crypto/blowfishconblowfishpy
 .. _/multiprocessingythreading: /Recetario/multiprocessingythreading

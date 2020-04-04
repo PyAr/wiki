@@ -56,7 +56,7 @@ Además del software en Python que hecho/adaptado para clientes durante mi traba
 
 También algunas cosas que son prototipos más que proyectos:
 
-* Bindings a la API de cpython para SmartEiffel_ (ahora descontinuados, en una eopca estaba más involucrado en el compilador `SmartEiffel <../SmartEiffel>`__)
+* Bindings a la API de cpython para SmartEiffel (ahora descontinuados, en una eopca estaba más involucrado en el compilador `SmartEiffel <../SmartEiffel>`__)
 
 * Un framework de multitasking cooperativo basado en corrutinas (generators) con el cual armé un clon de space invaders; http://grulic.org.ar/lurker/message/20070428.181250.c8e3121f.en.html (el repo ahora está caído)
 

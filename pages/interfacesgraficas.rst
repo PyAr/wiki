@@ -8,7 +8,7 @@ Existen varias librerias que implementan interfaces gráficas de usuario (GUI) e
 
 * Tkinter: Basada en las librerías gráficas TCL/TK, interface "de-facto" (`#1`_) preinstalada con python, es la generalmente recomendada para proyectos triviales y/o de aprendizaje.
 
-* WxPython_: Basada en WxWidgets (una libreria multiplataforma C/C++), "bendecida" (`#2`_) como la "más pitónica" por GvR (creador de Python), y sería la interface por defecto si no hubiese existido TK en primer lugar.
+* WxPython: Basada en WxWidgets (una libreria multiplataforma C/C++), "bendecida" (`#2`_) como la "más pitónica" por GvR (creador de Python), y sería la interface por defecto si no hubiese existido TK en primer lugar.
 
 * PyQT: basado en la libreria C++ QT (KDE)
 

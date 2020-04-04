@@ -99,9 +99,9 @@ Nos reunimos en la casa de Manuel Kaufmann (a.k.a. humitos). Por favor si venís
 
 * `Manuel Kaufmann`_
 
-* `Pedro Prez`_
+* Pedro Prez
 
-* `Guillermo Heizenreder`_
+* Guillermo Heizenreder
 
 ¿Cómo encuentro los bugs?
 -------------------------
@@ -125,27 +125,23 @@ Existe un Mini-HowTo_ que explica como descargar y compilar Python paso a paso a
 
 .. _mapa: http://maps.google.com/maps/ms?ie=UTF8&hl=en&t=h&msa=0&msid=113487376378243805796.00044e79a60b6533bf806&ll=-34.555805,-58.444648&spn=0.02262,0.038195&z=15&iwloc=00044e79bbd19bbeefec2
 
-.. _Martín Conte Mac Donell: MartinConteMacDonell
+.. _Martín Conte Mac Donell: /martincontemacdonell
 
-.. _Facundo Batista: FacundoBatista
+.. _Facundo Batista: /miembros/facundobatista
 
-.. _Angel Freire: AngelFreire
+.. _Angel Freire: /angelfreire
 
-.. _Pablo Ziliani: PabloZiliani
+.. _Pablo Ziliani: /pabloziliani
 
-.. _Anthony Lenton: AnthonyLenton
+.. _Anthony Lenton: /anthonylenton
 
-.. _Santiago 'yaco' Peresón: SantiagoPereson
+.. _Santiago 'yaco' Peresón: /santiagopereson
 
-.. _Tenuki: AlejandroDavidWeil
+.. _Tenuki: /alejandrodavidweil
 
-.. _Ricardo Quesada: RicardoQuesada
+.. _Ricardo Quesada: /ricardoquesada
 
-.. _Manuel Kaufmann: ManuelKaufmann
-
-.. _Pedro Prez: PedroPrez
-
-.. _Guillermo Heizenreder: GuillermoHeizenreder
+.. _Manuel Kaufmann: /miembros/humitos
 
 .. _bug tracker: http://bugs.python.org/
 

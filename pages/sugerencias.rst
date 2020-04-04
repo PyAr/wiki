@@ -33,4 +33,4 @@ Y si estás buscando una dirección de e-mail para comunicarte, permitinos suger
 
 .. _preguntasfrecuentes: /preguntasfrecuentes
 .. _listadecorreo: /listadecorreo
-.. _inicio: /inicio
+.. _inicio: /
