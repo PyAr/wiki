@@ -261,7 +261,7 @@ MarianoReingart_
 
 * `Parte 5`_: Introducción a extensiones avanzadas: PIL, ReportLab_, PyFPDF, PyOpenGL, PyGame_, BeautifulSoup_, Win32, Py2Exe_
 
-* `Parte 6`_: Interfases gráficas del Usuario (GUI): PythonCard_, WxPython_
+* `Parte 6`_: Interfases gráficas del Usuario (GUI): PythonCard_, WxPython
 
 * `Parte 7a`_: Desarrollo WEB con Django
 
@@ -289,7 +289,7 @@ Depuración y defragmentación de memoria en Python
 
 *Claudio Freire*
 
-**Slides:**  (OpenOffice_)
+**Slides:**  (OpenOffice)
 
 -------------------------
 
@@ -326,7 +326,7 @@ Paralelismo en Python
 
 *Claudio Freire*
 
-**Slides:**  (OpenOffice_)
+**Slides:**  (OpenOffice)
 
 -------------------------
 
@@ -337,7 +337,7 @@ Caching para hordas y estampidas
 
 *Claudio Freire*
 
-**Slides:**  (OpenOffice_)
+**Slides:**  (OpenOffice)
 
 PyConAr2010
 ===========
@@ -356,7 +356,7 @@ JuanFisanotti_
 Pycasa Inside: PyGTK usando Glade
 ---------------------------------
 
-NataliaBidart_
+NataliaBidart
 
 **Slides:**
 
@@ -367,7 +367,7 @@ NataliaBidart_
 Mythbusters: Tests
 ------------------
 
-NataliaBidart_
+NataliaBidart
 
 **Slides:**
 
@@ -402,7 +402,7 @@ Slides_echaniz_ Video_
 Programando Python en Android
 -----------------------------
 
-MatiasBordese_
+MatiasBordese
 
 **Slides:**
 
@@ -413,7 +413,7 @@ MatiasBordese_
 Behind the scenes: Python Bytecode
 ----------------------------------
 
-MatiasBordese_
+MatiasBordese
 
 **Slides:**
 
@@ -509,7 +509,7 @@ Netflix en 10 líneas - Mulpycast
 
 **Claudio Freire**
 
-Perdón por el click-bait :-D No es una librería. Ni una biblioteca. Es ip multicast "para casi todos". Suena complicado, suena difícil, pero con un poco de buena suerte, y antigravity, se podrá ver en ~4 línas más imports un ejemplo funcional de multicast. Y con un poco más de líneas... de todo. Pytube? check. DroPyBox_? check. Porrent (no es porro, es "torrent")? Check. Ip multicast es una herramienta genial para distribución de datos en LANs, WiFi_, u overlays. Seh, vamos a ver un poco de overlays, IGMP y todo lo necesario para realmente enteder cómo funciona esto. En ipv4 (perdón, perdón).
+Perdón por el click-bait :-D No es una librería. Ni una biblioteca. Es ip multicast "para casi todos". Suena complicado, suena difícil, pero con un poco de buena suerte, y antigravity, se podrá ver en ~4 línas más imports un ejemplo funcional de multicast. Y con un poco más de líneas... de todo. Pytube? check. DroPyBox? check. Porrent (no es porro, es "torrent")? Check. Ip multicast es una herramienta genial para distribución de datos en LANs, WiFi, u overlays. Seh, vamos a ver un poco de overlays, IGMP y todo lo necesario para realmente enteder cómo funciona esto. En ipv4 (perdón, perdón).
 
 - Slides: odp_ pdf_ - `Ejemplos, fuentes y mucho más`_
 
@@ -527,7 +527,7 @@ Argentina en Python: como matar el sueño de todo programador en 2 minutos
 
 * Disertante: ManuelKaufmann_
 
-* Descripción: *En Abril de 2014 empecé un proyecto llamado "Argentina en Python" con la idea de recorrer el país dando charlas de programación utilizando el lenguaje Python a quienes estuvieran interesados en aprender a programar. También, de esta forma, estaría devolviendo de alguna manera el conocimiento que obtuve libremente de la comunidad de Python durante todos estos años. La primera etapa del viaje duró 3 meses aproximadamente, visité 5 provincias y cerca de 10 ciudades. La segunda etapa comienza a principios de Septiembre y finaliza en la* PyConAr_ *2014 en Rafaela. En esta charla se contará un poco sobre la historia del proyecto, sus inicios, su desarrollo y la experiencia vivida durante este tiempo, mencionando los pros y contra de viajar y trabajar como programador, como así también las experiencias en los cursos y charlas de Python.*
+* Descripción: *En Abril de 2014 empecé un proyecto llamado "Argentina en Python" con la idea de recorrer el país dando charlas de programación utilizando el lenguaje Python a quienes estuvieran interesados en aprender a programar. También, de esta forma, estaría devolviendo de alguna manera el conocimiento que obtuve libremente de la comunidad de Python durante todos estos años. La primera etapa del viaje duró 3 meses aproximadamente, visité 5 provincias y cerca de 10 ciudades. La segunda etapa comienza a principios de Septiembre y finaliza en la* PyConAr *2014 en Rafaela. En esta charla se contará un poco sobre la historia del proyecto, sus inicios, su desarrollo y la experiencia vivida durante este tiempo, mencionando los pros y contra de viajar y trabajar como programador, como así también las experiencias en los cursos y charlas de Python.*
 
 * Slides: http://elblogdehumitos.com.ar/posts/python-conference-argentina-2014/argentina-en-python_pyconar2014_humitos.pdf
 
@@ -607,7 +607,7 @@ Prediciendo el mundial con inteligencia artificial
 Speed is a feature
 ------------------
 
-* Disertantes: PabloMouzo_ Martin Blech
+* Disertantes: PabloMouzo, Martin Blech
 
 * Descripción: A mystical journey through Django performance optimization techniques, tools and gotchas.
 
@@ -1062,24 +1062,19 @@ Video Analytics events processing platform
 .. _dbapi: /dbapi
 .. _plpython: /plpython
 .. _pythoncard: /pythoncard
-.. _wxpython: /wxpython
 .. _web2py: /web2py
 .. _juanfisanotti: /juanfisanotti
 .. _openoffice: /openoffice
 .. _martingaitan: /martingaitan
 .. _angelfreire: /angelfreire
 .. _juanfisanotti: /juanfisanotti
-.. _nataliabidart: /nataliabidart
 .. _nicoechaniz: /nicoechaniz
-.. _matiasbordese: /matiasbordese
 .. _marcelofernández: /marcelofernandez
 .. _emilianodallaverdemarcozzi: /emilianodallaverdemarcozzi
 .. _manuelquiñones: /manuelquinones
 .. _dropybox: /dropybox
 .. _wifi: /wifi
-.. _manuelkaufmann: /manuelkaufmann
-.. _pyconar: /pyconar
-.. _pablomouzo: /pablomouzo
+.. _manuelkaufmann: /miembros/humitos
 
 
 

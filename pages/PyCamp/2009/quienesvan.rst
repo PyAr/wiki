@@ -56,7 +56,7 @@ Desde donde viajan: Transporte_
 
 #. MarianoMara_ (Desde Sábado mediados de la mañana hasta el Martes tarde, pabellón, como lo que se pueda...)
 
-#. `Nicolás Miyasato`_ (Desde Sábado a las 10am hasta el Martes a las ~19:30, duermo y me alimento con todos...)
+#. Nicolás Miyasato (Desde Sábado a las 10am hasta el Martes a las ~19:30, duermo y me alimento con todos...)
 
 #. RamiroMorales_
 
@@ -132,15 +132,14 @@ Con muchas ganas, pero sin plata
 
 .. _alecu: /alejandrojcura
 
-.. _El rey del Humo: /humitos
+.. _El rey del Humo: /miembros/humitos
 
-.. _Nicolás Miyasato: /miya
 
 .. _Manuel Muradás: /dieresys
 
 .. _Jose Luis Dallapiccola: /joseluisdallapiccola
 
-.. _Roberto Rodríguez: /robertorodríguez
+.. _Roberto Rodríguez: /robertorodriguez
 
 .. _marcosdione: /marcosdione
 .. _horacioduran: /horacioduran

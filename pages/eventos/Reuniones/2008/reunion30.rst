@@ -55,7 +55,7 @@ Asistentes (Record!)
 Temas tratados
 --------------
 
-En esta reunión, al hacerse a "la salida" del segundo día de las 8JRSL_, hubo récord de convocatoria, con lo cual la discusión del temario propuesto previamente fue algo breve. Perdimos tiempo en organizar las mesas, cerveza y picadas, pero supongo que fue una cuestión extraordinaria. Apenas nos acomodamos, Facundo hizo una breve presentación (éramos muchos los "nuevos"), cayó más gente y volvimos a acomodarnos. Luego para tomar la asistencia, Alecu nos filmó a cada uno comentando "Nombre, Nick y Lugar de Origen". `Vídeo con los asistentes a la reunión`_.
+En esta reunión, al hacerse a "la salida" del segundo día de las 8JRSL, hubo récord de convocatoria, con lo cual la discusión del temario propuesto previamente fue algo breve. Perdimos tiempo en organizar las mesas, cerveza y picadas, pero supongo que fue una cuestión extraordinaria. Apenas nos acomodamos, Facundo hizo una breve presentación (éramos muchos los "nuevos"), cayó más gente y volvimos a acomodarnos. Luego para tomar la asistencia, Alecu nos filmó a cada uno comentando "Nombre, Nick y Lugar de Origen". `Vídeo con los asistentes a la reunión`_.
 
 En fin, Facundo organizó entre la muchedumbre el debate de los siguientes ítems:
 
@@ -77,13 +77,12 @@ En fin, Facundo organizó entre la muchedumbre el debate de los siguientes ítem
 
 .. ############################################################################
 
-.. _8JRSL: /eventos/Conferencias/8JRSL
 
 .. _Vídeo con los asistentes a la reunión: http://www.youtube.com/watch?v=H867-yS_lug
 
 .. _PSF: http://www.python.org/psf
 
-.. _Marcelo Fernández: /marcelofernández
+.. _Marcelo Fernández: /marcelofernandez
 
 .. _pyweek: /pyweek
 .. _pyar: /pyar

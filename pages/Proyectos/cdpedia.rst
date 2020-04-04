@@ -64,7 +64,7 @@ Algo de historia del proyecto, `aquí`_
 
 .. ############################################################################
 
-.. _0.8: /Proyectos/CDPedia/Prensa/release0.8
+.. _0.8: /Proyectos/CDPedia/Prensa/release08
 
 .. _Opción 1: http://cdpedia.nqnwebs.com/v0.8/cdpedia-0.8-cd.iso
 

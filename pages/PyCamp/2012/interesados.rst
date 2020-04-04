@@ -74,4 +74,4 @@ Para estimar mejor la cantidad de asistentes, por favor anótense en esta págin
 .. _Joac: JoaquinSorianello
 
 .. _pycamp: /pycamp
-.. _pycamp 2012: /pycamp/2012
+.. _pycamp 2012: /PyCamp/2012

@@ -49,7 +49,7 @@ Indice
 .. _donaciones: /donaciones
 .. _adoptaunnewbie: /adoptaunnewbie
 .. _scipyar: /scipyar
-.. _ideasparaprogramar: /ideasparaprogramar
+.. _ideasparaprogramar: /ideas-para-programar
 .. _infraestructura: /infraestuctura
 
 .. _pyar: /pyar

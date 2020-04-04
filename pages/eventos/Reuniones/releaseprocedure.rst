@@ -123,6 +123,6 @@ La versión inicial estará a cargo de quien haya dirigido la reunión. La pági
 
 .. _listadecorreo: /listadecorreo
 .. _ProximaReunion: /proximareunion
-.. _inicio: /inicio
+.. _inicio: /
 
 .. _pyar: /pyar

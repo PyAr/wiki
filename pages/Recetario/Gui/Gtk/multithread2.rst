@@ -58,5 +58,5 @@ Otro ejemplo del uso de threads con gtk, compare con el `otro ejemplo`_ que util
 
 .. ############################################################################
 
-.. _otro ejemplo: GtkMultiThread
+.. _otro ejemplo: /Recetario/Gui/Gtk/multithread
 

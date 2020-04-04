@@ -61,13 +61,13 @@ Organización
 
   * `Reunión 54`_: Recorrida Sede y Arranque (marzo)
 
-  * `Reunión 5x?`_: call for colaboradores, actividades, sponsors, etc. (mayo - PyDay_ Luján)
+  * Reunión 5x?: call for colaboradores, actividades, sponsors, etc. (mayo - PyDay_ Luján)
 
-  * `Reunión 5x?`_: revisión del programa y financial aid (julio - PyCamp_ Verónica)
+  * Reunión 5x?: revisión del programa y financial aid (julio - PyCamp_ Verónica)
 
-  * `Reunión 5x?`_: cierre del programa (septiembre - PyDay_ Córdoba)
+  * Reunión 5x?: cierre del programa (septiembre - PyDay_ Córdoba)
 
-  * `Reunión 5x?`_: call for colaboradores locales y preparativos (octubre - PyDay_ Rafaela?)
+  * Reunión 5x?: call for colaboradores locales y preparativos (octubre - PyDay_ Rafaela?)
 
 Coordinadores
 -------------
@@ -287,8 +287,6 @@ Se necesitarían 2 cámaras por aula (una fija para filmar la presentación, otr
 .. _Reunión 51: /eventos/Reuniones/2012/reunion51
 
 .. _Reunión 54: /eventos/Reuniones/2012/reunion54
-
-.. _Reunión 5x?: /Eventos/Reuniones/2012/reunion5x
 
 .. _Python Entre Todos: http://revista.python.org.ar/
 

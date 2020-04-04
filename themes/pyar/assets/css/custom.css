@@ -14,14 +14,6 @@ body {
     color: #444;
 }
 
-a.http:before {
-        content: url(/static/img/moin-www.png);
-        margin: 0 0.2em;
-}
-p {
-    margin-top: 10px;
-}
-
 /*
  * Main
  */
@@ -45,14 +37,6 @@ p {
         padding-top: 20px;
     }
 }
-
-#main > div.row > div.col-md-8 div.row > article.col-sm-4 > div.img {
-        background-image: url(/static/img/icons/icons.png);
-        height: 62px;
-        width: 62px;
-        margin: 0 auto;
-}
-
 
 #main > div.row > div.col-md-8 div.row > article.col-sm-4 > div.img.aprendiendo_python {
         background-position: 62px 0;
@@ -183,7 +167,6 @@ h4.list-group-item-heading {
 }
 .banner {
     padding: 0px 20px;
-    background: 0 0 repeat #35679A url(../img/banner.png);
 }
 .banner p {
     font-size: 15px;
@@ -196,7 +179,6 @@ h4.list-group-item-heading {
     font-weight: bold;
     padding-top: 7px;
     padding-left: 95px;
-    background: url(../img/python-banner.png) 0 0 no-repeat transparent;
     height: 96px;
 }
 .banner .bigger {
@@ -394,7 +376,6 @@ h3 {
 	padding-left: 100px;
 	background-position: 0 center;
 	background-repeat: no-repeat;
-	background-image: url(/static/img/pyar-footer.png);
 }
 
 #footer li.usla,
@@ -405,12 +386,10 @@ h3 {
     text-align: right;
 }
 #footer li.usla {
-    background-image: url(/static/img/usla-footer.png);
     padding-right: 80px;
 }
 
 #footer li.python {
-    background-image: url(/static/img/python-footer.png);
     margin-left: 25px;
     padding-right: 52px;
  }
@@ -531,7 +510,6 @@ time.published {
     .ribbon {
         width: 41px;
         height: 25px;
-        background-image: url(../img/ribbon.png);
         position: absolute;
         right: 0px;
         bottom: 0px;

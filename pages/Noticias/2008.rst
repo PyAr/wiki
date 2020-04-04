@@ -117,7 +117,7 @@ Anteriores
 
 .. _Jornadas Regionales de Software Libre: http://jornadas.cafelug.org.ar/8/
 
-.. _charlas y talleres sobre Python: /eventos/Conferencias/8JRSL
+.. _charlas y talleres sobre Python: /eventos/Conferencias/8JRSL/carteles
 
 .. _Livra: http://geeks.livra.com
 

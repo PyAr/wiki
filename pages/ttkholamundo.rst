@@ -4,9 +4,9 @@ ttkHolaMundo
 
 Crea una ventana que muestra el famoso mensaje "Hola mundo".
 
-`ttkHolamundo.png </wiki/ttkHolamundo/attachment/121/ttkHolamundo.png>`_
+.. image:: /images/ttkHolamundo/ttkHolamundo.png
 
-::
+.. code-block:: python
 
     #!/usr/bin/env python3
     #-*- coding:utf-8 -*-

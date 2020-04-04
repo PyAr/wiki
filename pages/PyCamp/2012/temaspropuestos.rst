@@ -123,7 +123,7 @@ Mozilla tiene toneladas de proyectos en Python que son muy grandes (como Addons.
 Interesados
 ...........
 
-* Lipe_
+* Lipe
 
 * achuni_
 
@@ -457,8 +457,6 @@ Interesados
 
 * pindonga_
 
-CategoryPyCamp_
-
 .. ############################################################################
 
 .. _x-ip: /emilianodallaverdemarcozzi
@@ -474,8 +472,6 @@ CategoryPyCamp_
 .. _achuni: /anthonylenton
 
 .. _pindonga: /ricardokirkner
-
-.. _Lipe: /felipelerena
 
 .. _Time to MOVE on: http://cirw.in/blog/time-to-move-on
 
@@ -502,7 +498,6 @@ CategoryPyCamp_
 .. _luciotorre: /luciotorre
 .. _hugoruscitti: /hugoruscitti
 .. _danielmoisset: /danielmoisset
-.. _categorypycamp: /categorypycamp
 .. _pycamp: /pycamp
 .. _facundobatista: /miembros/facundobatista
 .. _pycon: /pycon

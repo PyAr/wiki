@@ -99,7 +99,7 @@ Si tu micro te deja en Retiro, Capital Federal, tenes que tomarte el Costera Met
 
 
 
-Para los que vamos desde el interior y nos juntamos antes: `Del Interior`_
+Para los que vamos desde el interior y nos juntamos antes: ``Del Interior``
 
 Proyectos en curso
 ------------------
@@ -145,7 +145,6 @@ Workshop Pre-PyCamp
 
 .. _El otro lado del PyCamp de EugeniaBahit: https://plus.google.com/u/0/photos/104151223595939241834/albums/5767077860795015489
 
-.. _Del Interior: /PyCamp/2012/delinterior
 
 .. _Proyectos: /PyCamp/2012/proyectos
 
