@@ -5,7 +5,7 @@ Intención de compra
 Por favor, anoten a continuación qué quieren:
 
 .. csv-table::
-    
+
     FacundoBatista,"1 M negra, 1 M azul, 1 L negra, 1 L azul, 1 L verde"
     NubIs,"1 XL negra, 1 S verde, 1 S azul, 1 L azul, 1 L verde"
     PabloZiliani,"1 XL negra, 1 XL azul"
