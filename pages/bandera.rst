@@ -6,7 +6,7 @@ Bandera para PyAr
    :class: underline
 
 .. note::
-    
+
     Cerro la votación de la Bandera. Resultados_
 
 
