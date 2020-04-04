@@ -1,5 +1,8 @@
-.. title: Participantes
+.. title: Sprint Django
 
+
+Participantes
+-------------
 
 1. MartínBorthiry (si logra ir al PyCamp_)
 

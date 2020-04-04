@@ -1,4 +1,4 @@
-.. title: Usodepythonenlauniversidad
+.. title: Uso de python en la universidad
 
 Diego Mascialino abrió un hilo_ en la ListaDeCorreo_ que reabrió un tema recurrentemente tratado: Cómo difundir el uso de Python (y por extensión del Software Libre) en las universidades, principalmentes en las carreras de ingeniería, ciencias de la computación y afines.
 

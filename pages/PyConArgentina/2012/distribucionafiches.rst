@@ -1,5 +1,7 @@
-.. title: Objetivo
+.. title: Dsitrubucion afiches
 
+Objetivo
+========
 
 Pegar y mantener en las carteleras una copia impresa del `Afiche de PyCon Argentina 2012`_ a cada universidad del pais, empresas y otras instituciones.
 

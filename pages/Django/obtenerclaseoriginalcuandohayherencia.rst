@@ -1,4 +1,4 @@
-.. title: Obtenerclaseoriginalcuandohayherencia
+.. title: Obtener clase original cuando hay herencia
 
 Si usamos herencia normal de modelos (no abstracta), se vuelve difícil obtener el objeto original de la base de datos cuando sólo tenemos una referencia a un ancestro (esto pasa a menudo cuando tenemos relaciones a un modelo que fue derivado). Este cacho de código define una clase abstracta ``SubclassedModel``, cuyos descendientes tienen en ``objects`` un Manager por defecto que devuelve directamente objetos de la clase con la que fueron creados.
 

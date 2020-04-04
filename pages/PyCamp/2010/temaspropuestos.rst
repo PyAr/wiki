@@ -1,4 +1,4 @@
-.. title: Temaspropuestos
+.. title: Temas propuestos
 
 Acá van los temas propuestos, con adherentes:
 

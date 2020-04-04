@@ -1,4 +1,4 @@
-.. title: Introducciónaldesarrollowebi
+.. title: Introducción al desarrollo web
 
 Esta charla busca introducir a los asistentes la historia, situación actual y características
 principales del mundo web (HTML, HTTP, MVC, etc.), presentando la herramienta de desarrollo
