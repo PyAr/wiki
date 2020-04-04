@@ -123,7 +123,7 @@ Mozilla tiene toneladas de proyectos en Python que son muy grandes (como Addons.
 Interesados
 ...........
 
-* Lipe_
+* Lipe
 
 * achuni_
 
