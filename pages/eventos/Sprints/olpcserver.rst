@@ -18,7 +18,7 @@ Aca una tabla para anotarse para tener una idea de la cantidad de interesados. A
 
 
 .. csv-table::
-	:headers: Interesados,7l,9mi,11v/12s/13d
+    :header: Interesados,7l,9mi,11v/12s/13d
 
     AlejandroJCura,presencial,presencial,presencial
     AlejandroDavidWeil,presencial,remoto,presencial

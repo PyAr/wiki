@@ -4,8 +4,8 @@ La lista de correo de PyAr_ está abierta a todos los interesados en Python de h
 
 .. class:: alert alert-success
 
-	En esta lista discutimos todos los temas que tengan que ver con la promoción,
-	difusión y temas técnicos del lenguaje de programación Python
+    En esta lista discutimos todos los temas que tengan que ver con la promoción,
+    difusión y temas técnicos del lenguaje de programación Python
 
 Además de la lista principal, tenemos la lista `Pyar-bar <http://listas.python.org.ar/pipermail/pyar-bar>`_ , donde los temas no necesariamente tienen que ver con Python,
 y también la lista  `Pyar-meta <http://listas.python.org.ar/pipermail/meta/>`_, donde se discuten temas relativos a Python Argentina como organización,

@@ -26,13 +26,13 @@ En fin, realmente crear (o impulsar) una comunidad requiere de la voluntad y el 
 
 Como toda iniciativa de este tipo, se requiere de mucho apoyo económico, logístico y humano. En ese contexto en estas pocas semanas conseguimos:
 
--	Apoyo de Universidades: Universidades de Mendoza nos apoyan para que esta inicitiva suceda aquí. Universidad de Mendoza, UTN, Universidad del Aconcagua, etc.
+-    Apoyo de Universidades: Universidades de Mendoza nos apoyan para que esta inicitiva suceda aquí. Universidad de Mendoza, UTN, Universidad del Aconcagua, etc.
 
--	Apoyo gubernamental: Comenzamos las conversaciones con el Gobierno provincial para contar con su apoyo institucional y que nos facilite alguno de los venues, cosa que está muy cerca de concretarse.
+-    Apoyo gubernamental: Comenzamos las conversaciones con el Gobierno provincial para contar con su apoyo institucional y que nos facilite alguno de los venues, cosa que está muy cerca de concretarse.
 
--	Apoyo económico: Además de los sponsors con los que PyConAr afortunadamente siempre cuenta, convencimos a Eventbrite, que ha sido sponsor platinum en las últimas tres ediciones de PyCon USA, nos apoyará desde San Francisco con los recursos económicos necesarios para realizar el evento.
+-    Apoyo económico: Además de los sponsors con los que PyConAr afortunadamente siempre cuenta, convencimos a Eventbrite, que ha sido sponsor platinum en las últimas tres ediciones de PyCon USA, nos apoyará desde San Francisco con los recursos económicos necesarios para realizar el evento.
 
--	Speakers nacionales e internacionales: Pudimos hablar en PyConAr 2014 con mucha gente muy interesada en venir a dar charlas a Mendoza! Además varios speakers extranjeros (algunos de ellos, como `Simon Willison`_,  hablaron el año pasado en PyCon 2014 en Montreal) nos dieran su ok para venir a Mendoza.
+-    Speakers nacionales e internacionales: Pudimos hablar en PyConAr 2014 con mucha gente muy interesada en venir a dar charlas a Mendoza! Además varios speakers extranjeros (algunos de ellos, como `Simon Willison`_,  hablaron el año pasado en PyCon 2014 en Montreal) nos dieran su ok para venir a Mendoza.
 
 Conseguimos los recursos materiales y logísticos, pero nos falta lo más importante: el apoyo de la comunidad PyAr para darle un gran contenido al evento.
 
@@ -43,9 +43,9 @@ Necesitamos de la experiencia de la comunidad para decidir y coordinar el conten
 
 -   Que la comunidad Python en Mendoza crezca y que se vincule con la comunidad a nivel nacional.
 
--	Que la comunidad de negocios y educativa de Mendoza tome más en consideración a Python.
+-    Que la comunidad de negocios y educativa de Mendoza tome más en consideración a Python.
 
--	Que toda la comunidad Argentina tenga un lindo ámbito para reunirse para esta gran conferencia por primera vez en nuestra provincia.
+-    Que toda la comunidad Argentina tenga un lindo ámbito para reunirse para esta gran conferencia por primera vez en nuestra provincia.
 
 Aspectos generales del evento
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

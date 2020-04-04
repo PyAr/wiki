@@ -20,16 +20,16 @@ Tabla comparativa
 .. csv-table::
     :header: Caracteristica,Tkinter,WxPython,PyQT,PyGTK
 
-	Portabilidad,Windows/Linux/Mac,"Windows, Linux (GTK+/X11/Motif), Mac OS X","Windows, Linux, Mac OS X","Windows, Linux, Mac OS X (via servidor de X)"
-	Apariencia,"""alien"" en todos",nativa en todos,nativa en linux y windows,nativa en linux
-	Orientación/Influencias,Motif,Windows,KDE,GNOME
-	"Diseñador ""Visual""",GUI Builder (Komodo),http://wxformbuilder.org|wxFormBuilder/wxGlade/XRCed,QT Designer,"Glade, Gazpacho"
-	IDEs Python,IDLE,"SPE, BoaConstructor, DrPython",Eric4,??
-	Formato XML,No,sí (XRC incorporado),??,"sí (vía libglade antes, GTKBuilder ahora)"
-	Otras facilidades,??,"soporte para imagenes (BMP, PNG, JPG, etc.), visualización e impresión de HTML, clipboard y drag and drop, ayuda en linea, libreria de graficación de objetos (""vectoriales""), OpenGL, texto enriquecido (RTF) y ""estilizado"" (STC), programación en red, flujos, multitarea, bases de datos, unicode, gizmos varios, animaciones y multimedia","hilos, control de procesos en segundo plano, renderización de svg, definición de aspectos estéticos de la GUI con CSS, personalización de la app en js, sockets, acceso a base de datos, pareso de XML, OpenGL","Pango (texto multilingual), Cairo (gráficos 2D), ATK (accesibilidad)"
-	Documentación,Excelente,Buena,Regular,Limitada
-	Ejemplos,??,Excelente (200 simples y 10 complejos),Bueno (20 simples y 20 complejos),??
-	Licencia,PSFL,LGPL,GPL (o http://www.pyside.org|PySide que es LGPL),LGPL
+    Portabilidad,Windows/Linux/Mac,"Windows, Linux (GTK+/X11/Motif), Mac OS X","Windows, Linux, Mac OS X","Windows, Linux, Mac OS X (via servidor de X)"
+    Apariencia,"""alien"" en todos",nativa en todos,nativa en linux y windows,nativa en linux
+    Orientación/Influencias,Motif,Windows,KDE,GNOME
+    "Diseñador ""Visual""",GUI Builder (Komodo),http://wxformbuilder.org|wxFormBuilder/wxGlade/XRCed,QT Designer,"Glade, Gazpacho"
+    IDEs Python,IDLE,"SPE, BoaConstructor, DrPython",Eric4,??
+    Formato XML,No,sí (XRC incorporado),??,"sí (vía libglade antes, GTKBuilder ahora)"
+    Otras facilidades,??,"soporte para imagenes (BMP, PNG, JPG, etc.), visualización e impresión de HTML, clipboard y drag and drop, ayuda en linea, libreria de graficación de objetos (""vectoriales""), OpenGL, texto enriquecido (RTF) y ""estilizado"" (STC), programación en red, flujos, multitarea, bases de datos, unicode, gizmos varios, animaciones y multimedia","hilos, control de procesos en segundo plano, renderización de svg, definición de aspectos estéticos de la GUI con CSS, personalización de la app en js, sockets, acceso a base de datos, pareso de XML, OpenGL","Pango (texto multilingual), Cairo (gráficos 2D), ATK (accesibilidad)"
+    Documentación,Excelente,Buena,Regular,Limitada
+    Ejemplos,??,Excelente (200 simples y 10 complejos),Bueno (20 simples y 20 complejos),??
+    Licencia,PSFL,LGPL,GPL (o http://www.pyside.org|PySide que es LGPL),LGPL
 
 Características comunes
 ~~~~~~~~~~~~~~~~~~~~~~~

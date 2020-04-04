@@ -3,12 +3,12 @@ Página del articulo Info Python
 ===============================
 
 .. csv-table::
-	:header: Tarea,Check
+    :header: Tarea,Check
 
-	Revision ortografica,x
-	Test snipets,x
-	Revision gramatica y logica,x
-	Revision markup reST,
+    Revision ortografica,x
+    Test snipets,x
+    Revision gramatica y logica,x
+    Revision markup reST,
 
 
 Observaciones
