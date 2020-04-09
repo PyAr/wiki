@@ -1,9 +1,10 @@
 .. title: Indice
 
-
+* `Quiénes Somos`_
+    Información general sobre que es Python Argentina
 * Eventos_
     Aquí encontrarás información sobre las actividades que realizamos.
-* ListaDeCorreo_
+* `Lista de correo`_
     Instrucciones para suscribirte a nuestra lista, hoy por hoy, nuestro principal canal de comunicación (feed rss disponible).
 * Proyectos_
     Información sobre los proyectos que encaramos como grupo, o en los que participan nuestros miembros.
@@ -11,11 +12,11 @@
     Información sobre organizaciones que utilizan Python en Argentina.
 * Charlas_
     Slides de presentaciones y charlas brindadas por miembros de PyAr_.
-* AprendiendoPython_
+* `Aprendiendo Python`_
     Recopilación de links y material que los miembros de PyAr_ consideramos útiles para aquellos que se inician en este lenguaje.
-* TareasPendientes_
+* `Tareas pendientes`_
     La mayoría relacionadas con el mantenimiento del portal, y la promoción y organización del grupo.
-* PreguntasFrecuentes_
+* `Preguntas frecuentes`_
     Todo lo que usted siempre quiso preguntar y ya le ganaron de mano.
 * Recetario_
     Ejemplos de código y soluciones a problemas puntuales.
@@ -25,7 +26,7 @@
     Cartelera de ofertas laborales relacionadas con Python. (Migración de antigua wiki)
 * Donaciones_
     ¡Donale una moneda a PyAr_!
-* AdoptaUnNewbie_
+* `Adopta un newbie`_
     Ayuda en proyectos para gente que recién comienza.
 * SciPyar_
     PyAr_ para ciencia e ingeniería.
@@ -35,18 +36,18 @@
     Documentación de la infrastructura virtual de PyAr (página web, lista de correos, etc)
 
 .. _eventos: /eventos
-.. _listadecorreo: /listadecorreo
+.. _lista de correo: /listadecorreo
 .. _proyectos: /proyectos
 .. _recursos: /recursos
 .. _charlas: /charlas
-.. _aprendiendopython: /aprendiendopython
-.. _tareaspendientes: /tareaspendientes
-.. _preguntasfrecuentes: /preguntasfrecuentes
+.. _aprendiendo python: /aprendiendopython
+.. _tareas pendientes: /tareaspendientes
+.. _preguntas frecuentes: /preguntasfrecuentes
 .. _recetario: /recetario
 .. _material: /material
 .. _trabajos: /trabajos
 .. _donaciones: /donaciones
-.. _adoptaunnewbie: /adoptaunnewbie
+.. _adopta un newbie: /adoptaunnewbie
 .. _scipyar: /scipyar
 .. _ideas para programar: /ideas-para-programar
 .. _infraestructura: /infraestuctura
