@@ -35,6 +35,7 @@
 * Infraestructura_
     Documentación de la infrastructura virtual de PyAr (página web, lista de correos, etc)
 
+.. _quiénes somos: /pyar
 .. _eventos: /eventos
 .. _lista de correo: /listadecorreo
 .. _proyectos: /proyectos
