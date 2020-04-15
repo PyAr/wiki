@@ -24,7 +24,7 @@ SITE_URL = "https://wiki.python.org.ar/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "https://wiki.python.org.ar/"
-BLOG_EMAIL = "n.tesla@example.com"
+BLOG_EMAIL = "admin@python.org.ar"
 BLOG_DESCRIPTION = "Python Argentina Wiki"  # (translatable)
 
 # Nikola is multilingual!
