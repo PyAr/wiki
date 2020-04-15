@@ -25,7 +25,8 @@
 * Trabajos_
     Cartelera de ofertas laborales relacionadas con Python. (Migración de antigua wiki)
 * Donaciones_
-    ¡Donale una moneda a PyAr_!
+    Si querés donar dinero es algo que podés hacer a través de la Asociación Civil Python Argentina, más
+    info `acá <https://ac.python.org.ar/#donaciones>`__
 * `Adopta un newbie`_
     Ayuda en proyectos para gente que recién comienza.
 * SciPyar_
@@ -47,7 +48,7 @@
 .. _recetario: /recetario
 .. _material: /material
 .. _trabajos: /trabajos
-.. _donaciones: /donaciones
+.. _donaciones: https://ac.python.org.ar/#donaciones
 .. _adopta un newbie: /adoptaunnewbie
 .. _scipyar: /scipyar
 .. _ideas para programar: /ideas-para-programar
