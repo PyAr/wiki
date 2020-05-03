@@ -24,7 +24,7 @@ Participamos en eventos de Software Libre con temas concernientes a Python.
 
 * PyCamp_:
 
-Nos reunimos varios dias para trabajar en distintos proyectos de software libre relacionados con el lenguaje de programación Python, conocernos y compartir experiencias.
+Nos reunimos varios días para trabajar en distintos proyectos de software libre relacionados con el lenguaje de programación Python, conocernos y compartir experiencias.
 
 .. ############################################################################
 
