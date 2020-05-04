@@ -2,7 +2,7 @@ name: Construir el sitio con Nikola
 
 on:
   pull_request:
-    branches: [ master ]
+    branches: [ nikola ]
 
 jobs:
   build:
