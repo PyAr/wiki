@@ -11,9 +11,9 @@ Ahora, ¿a dónde podrías recurrir para obtener información que te inicie en l
 
 * `How to Think Like a Computer Scientist`_ (Python 2.x) es de conceptos generales de programación usando Python.  Hay una versión en español llamada `Aprenda a pensar como un programador (con Python)`_.
 
-* `Byte of Python`_ es un libro para iniciarse en Python, el autor proclama que es para quien lo unico que sabe de computación es grabar un archivo. Actualmente cuenta con ediciones para Python 2.x y 3.
+* `Byte of Python`_ es un libro para iniciarse en Python, el autor proclama que es para quien lo único que sabe de computación es grabar un archivo. Actualmente cuenta con ediciones para Python 2.x y 3.
 
-* `Dive into Python`_, está en varios idiomas, se viene escribiendo/actualizando hace bastante, y viene con Ubuntu. `Inmersión en Python`_ es la versión en castellano y ya han sido traducidos algunos capitulos. También tiene versiones para Python 2.x y 3.
+* `Dive into Python`_, está en varios idiomas, se viene escribiendo/actualizando hace bastante, y viene con Ubuntu. `Inmersión en Python`_ es la versión en castellano y ya han sido traducidos algunos capítulos. También tiene versiones para Python 2.x y 3.
 
 * `Instant Python`_ es un curso de entrenamiento corto e intensivo. (`Versión en español`_).
 
@@ -37,12 +37,12 @@ Ahora, ¿a dónde podrías recurrir para obtener información que te inicie en l
 
 * Este_ es un proyecto público y libre para mantener **toda** la documentación de Python traducida a nuestro idioma.
 
-Otras guias iniciales sobre python en español
+Otras guías iniciales sobre python en español
 ---------------------------------------------
 
 * Tutorial oficial escrito por el autor de Python.
 
-    `Guia de Aprendizaje de Python`_ Autor original Guido van Rossum, traducido por PyAr_
+    `Guía de Aprendizaje de Python`_ Autor original Guido van Rossum, traducido por PyAr_
 
 * Completa introducción a Python.
 
@@ -64,7 +64,7 @@ Otras guias iniciales sobre python en español
 
     `Python no muerde`_ Roberto Alsina - En español(Licencia Creative Commons)
 
-* Libro Python para todos de Raúl González Duque. Introducción al lenguaje e utilización de la librería estándard de python.
+* Libro Python para todos de Raúl González Duque. Introducción al lenguaje e utilización de la librería estándar de python.
 
     `Python para todos`_ Raúl González Duque - En español(Licencia Creative Commons)
 
@@ -87,9 +87,9 @@ Documentación adicional sobre python en español
 
 * Introducción a Python y PostgreSQL Un ejemplo sencillo
 
-    `Introduccion a python/postgresql`_ Tomás Javier Robles Prado 2002
+    `Introducción a python/postgresql`_ Tomás Javier Robles Prado 2002
 
-* Procesando archivos XML con minidom, que forma parte de la libreria estandar de Python
+* Procesando archivos XML con minidom, que forma parte de la librería estándar de Python
 
     `Introducción a Minidom`_ SebastianBassi_.
 
@@ -123,7 +123,7 @@ Documentación oficial sobre Python
 Apuntes Universitarios
 ----------------------
 
-Universidad de Buenos Aires, Facultad de Ingenierí a (FIUBA) materia "Algoritmos y Programación 1", cátedra Wachenchauzer, se utiliza Python y estan disponible los materiales en la siguiente página:
+Universidad de Buenos Aires, Facultad de Ingeniería (FIUBA) materia "Algoritmos y Programación 1", cátedra Wachenchauzer, se utiliza Python y están disponible los materiales en la siguiente página:
 
 * Página Web:
 
@@ -147,7 +147,7 @@ Proyecto de Extensión "Programando Robots con Software Libre", Laboratorio de I
 
     http://robots.linti.unlp.edu.ar/img_auth.php/4/4a/Manual-programando-con-robots.pdf
 
-* Paper " "Modificaciones realizadas al Robot Multiplo N6 para permitir programación interactiva", publicado en las 9º Jornadas de Sofware Libre (JAIIO JSL)
+* Paper " "Modificaciones realizadas al Robot Multiplo N6 para permitir programación interactiva", publicado en las 9º Jornadas de Software Libre (JAIIO JSL)
 
     http://www.41jaiio.org.ar/sites/default/files/11_JSL_2012.pdf
 
@@ -201,15 +201,13 @@ Videos
 
 .. _Python 2.4 Quick Reference: http://rgruet.free.fr/PQR24/PQR2.4.html
 
-
 .. _Tutorial de Python: https://docs.python.org/3/tutorial/index.html
 
 .. _`Doma de Serpientes para Niños: Aprendiendo a Programar con Python`: http://code.google.com/p/swfk-es/
 
 .. _Este: http://pyspanishdoc.sourceforge.net/
 
-.. _Guia de Aprendizaje de Python: http://python.org.ar/pyar/Tutorial
-
+.. _Guía de Aprendizaje de Python: http://python.org.ar/pyar/Tutorial
 
 .. _Un poco de python: http://users.servicios.retecal.es/tjavier/python/Un_poco_de_Python-2.html
 
@@ -225,11 +223,9 @@ Videos
 
 .. _documentación oficial web2py (cap.2): http://www.latinuxpress.com/books/drafts/web2py/caps/cap2.html
 
-.. _Introduccion a python/postgresql: http://users.servicios.retecal.es/tjavier/docfinal/out-htmls/index.html
+.. _Introducción a python/postgresql: http://users.servicios.retecal.es/tjavier/docfinal/out-htmls/index.html
 
 .. _Introducción a Minidom: http://sbassi.googlepages.com/leyendoxmlenpython:dom2
-
-
 
 .. _Python Recipes - ActiveState: http://code.activestate.com/recipes/langs/python/
 

@@ -807,7 +807,7 @@ Introducción a Docker
 
 -------------------------
 
-Introducción informal a la programacion
+Introducción informal a la programación
 ---------------------------------------
 
 *Emiliano Dalla Verde Marcozzi*
