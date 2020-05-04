@@ -15,8 +15,8 @@ Como buildear las paginas
 
 .. code-block:: console
 
-    pip install nikola==8.0.2
-    pip install Jinja2==2.10.1
+    pip install -U pip
+    pip install -r requirements.txt
 
     nikola build
     nikola serve
