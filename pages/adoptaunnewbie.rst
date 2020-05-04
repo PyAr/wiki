@@ -13,7 +13,7 @@ Básicamente:
 
 * los intereses comunes se juntan
 
-* se acuerda la forma de intactuar (IM, Skype, en persona)
+* se acuerda la forma de interactuar (IM, Skype, en persona)
 
 * el mentor dedica unas horas semanales a ayudar al mentado
 
@@ -39,13 +39,13 @@ Proyectos en busca de mentados
 
 * waliki, una wiki basada en flask y git  https://github.com/mgaitan/waliki/
 
-* emesene, un cliente de mensajeria instantanea multiplataform escrito en python y gtk (y una version alpha en qt4)
+* emesene, un cliente de mensajería instantánea multiplataforma escrito en python y gtk (y una versión alpha en qt4)
 
   * http://emesene.org
 
   * mas info: http://blog.emesene.org/2011/08/call-for-wannabe-developers.html
 
-* Crawley-Project, un framework de web crawling y screen scraping escrito en python sobre una libreria de I/O asincronico llamada eventlet
+* Crawley-Project, un framework de web crawling y screen scraping escrito en python sobre una librería de I/O asincrónico llamada eventlet
 
   * http://www.crawley-project.org
 

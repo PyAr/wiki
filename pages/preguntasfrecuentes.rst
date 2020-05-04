@@ -18,7 +18,7 @@ Un `grupo de entusiastas de Python`_, que decidió aunar esfuerzos para crear un
 ¿Qué hacemos?
 ~~~~~~~~~~~~~
 
-Organizamos reuniones_ donde debatimos ideas, mantenemos una ListaDeCorreo_ a través de la cual nos comunicamos, creamos y mantenemos este portal, el cual pretendemos que tenga contenido útil tanto para los miembros de PyAr_ como para toda aquella persona que se interese por Python. Hoy estamos abocados a lograr que el grupo se consolide, se sumen miembros, y se establezcan las bases para comenzar a generar aportes mas concretos.
+Organizamos reuniones_ donde debatimos ideas, mantenemos una ListaDeCorreo_ a través de la cual nos comunicamos, creamos y mantenemos este portal, el cual pretendemos que tenga contenido útil tanto para los miembros de PyAr_ como para toda aquella persona que se interese por Python. Hoy estamos abocados a lograr que el grupo se consolide, se sumen miembros, y se establezcan las bases para comenzar a generar aportes más concretos.
 
 ¿Cómo surgió PyAr?
 ~~~~~~~~~~~~~~~~~~
@@ -40,7 +40,7 @@ Hoy, mientras la cantidad de miembros del grupo lo permite, tenemos una organiza
 ¿Cómo participar?
 ~~~~~~~~~~~~~~~~~
 
-Suscribiéndote a la ListaDeCorreo_, registrándote en el portal, asistiendo a cualquiera de nuetros Eventos_, aportando ideas. También tenemos un canal de IRC. El servidor es ``irc.freenode.net``, y el nombre del canal es ``#pyar``. Podés ingresar vía Web `aquí`_ o `aquí </irc>`__. Si querés colaborar aportando contenido al Wiki, o ayudando en su mantenimiento, también es posible. Por favor, leé ContribuyendoAlWiki_.
+Suscribiéndote a la ListaDeCorreo_, registrándote en el portal, asistiendo a cualquiera de nuestros Eventos_, aportando ideas. También tenemos un canal de IRC. El servidor es ``irc.freenode.net``, y el nombre del canal es ``#pyar``. Podés ingresar vía Web `aquí`_ o `aquí </irc>`__. Si querés colaborar aportando contenido al Wiki, o ayudando en su mantenimiento, también es posible. Por favor, leé ContribuyendoAlWiki_.
 
 ¿Cómo se organiza una reunión?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -70,11 +70,11 @@ Según la `Portland Pattern Repository's Wiki`_:
 
   *Desde comienzos de 2002 se han realizado varios eventos denominados 'sprint' alrededor del Lenguaje Python / Zope. Un sprint, bajo esta terminología, es una reunión de programadores interesados en trabajar en un determinado proyecto Open Source, con una duración de 3 a 5 días. Los sprints generalmente tienen una audiencia multinacional.*
 
-*Normalmente una conferencia es precedida por un sprint (tanto es así que ahora cualquier conferencia respetable de Python es precedida por un sprint), pero los sprints también se dan por si solos. Uno o mas 'coaches' guían el proceso. Se dice que los sprints están inspirados por un concepto de XP (eXtreme Programming -- Programación Extrema).*
+*Normalmente una conferencia es precedida por un sprint (tanto es así que ahora cualquier conferencia respetable de Python es precedida por un sprint), pero los sprints también se dan por sí solos. Uno o más 'coaches' guían el proceso. Se dice que los sprints están inspirados por un concepto de XP (eXtreme Programming -- Programación Extrema).*
 
 Probablemente los sprints de PyAr_ no duren 3 a 5 días, al menos al principio... ni contamos con tener una audiencia multinacional. Pero pensamos divertirnos, aprender, y hacer algo útil.
 
-¿Como contribuyo al Wiki?
+¿Cómo contribuyo al Wiki?
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 En la sección ContribuyendoAlWiki_ vas a encontrar todo (**todo** se refiere a dos cositas nomás) lo que necesitás para poder empezar a contribuir al wiki.
@@ -111,7 +111,7 @@ Las excepciones (Exception) son un mecanismo que posee el lenguaje para informar
 ¿Cuales son los cambios en Python 3.0 (Python 3000) la nueva versión del lenguaje?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-En la página Python3Mil_ se encuentra la información sobre Python 3k, cambios en el lenguaje, compatibilidad hacia atras, calendario aproximado.
+En la página Python3Mil_ se encuentra la información sobre Python 3k, cambios en el lenguaje, compatibilidad hacia atrás, calendario aproximado.
 
 ¿Qué son las celdas?
 ~~~~~~~~~~~~~~~~~~~~
@@ -122,7 +122,7 @@ Técnicamente hablando, las funciones internas, clases, expresiones generadoras 
 
 Ejemplo:
 
-::
+.. code-block:: python
 
    def f(x):
       def g():
@@ -134,7 +134,7 @@ Ejemplo:
 
 Otro
 
-::
+.. code-block:: python
 
    def f(l):
       escala = sum(l)
@@ -143,14 +143,15 @@ Otro
       # es una expresión generadora, y su única forma de
       # acceder a "escala" es a través de la celda
 
-Es importante saber cuáles de nuestras variables son celdas y cuáles simplemente locales, porque la sintaxis de python nos prohibe borrar celdas, no así variables locales:
+Es importante saber cuáles de nuestras variables son celdas y cuáles simplemente locales, porque la sintaxis de python nos prohíbe borrar celdas, no así variables locales:
 
-::
+.. code-block:: python
 
    def f(x):
       rv = set( [ i*x for i in xrange(10) ] )
       del x # bizarro pero ok
       return rv
+
    def g(x):
       rv = set( i*x for i in xrange(10) )
       del x # error de sintaxis, no se pueden borrar celdas
@@ -158,14 +159,14 @@ Es importante saber cuáles de nuestras variables son celdas y cuáles simplemen
 
 Nótese que en *f*, x no es una celda porque ocurre en una expresión de lista por comprensión - que se parece, pero no es un generador.
 
-¿qué son los ''fastlocals''?
+¿Qué son los ''fastlocals''?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 La documentación de python sólo menciona un *scope lógico local*, el "local".  Tiene sentido, puesto que las variables son o locales, o globales, o celdas (ver pregunta anterior).
 
 Las variables locales todos las conocemos:
 
-::
+.. code-block:: python
 
    def f():
       x = 4 # x es local
@@ -174,7 +175,7 @@ Los parámetros de una función también son variables locales. Por ende, self, 
 
 Las variables globales todos las conocemos también:
 
-::
+.. code-block:: python
 
    llamadas = 0
 
@@ -202,7 +203,7 @@ Casi todas las variables locales que se declaren van a ser rápidas. La única f
 
 La forma de "declarar" una variable de este tipo es simplemente asignandole un valor:
 
-::
+.. code-block:: python
 
    def f(...):
       ...
@@ -213,7 +214,7 @@ Esto ya define a "x" como variable local rápida. Y ojo, **tiene ese status en t
 
 O sea que cosas como esta no van a funcionar:
 
-::
+.. code-block:: python
 
    def f():
       if x != 3:
@@ -221,9 +222,9 @@ O sea que cosas como esta no van a funcionar:
       ...
       x = 5
 
-¿Por qué no? Porque x es local incluso cuando se accede en 'x != 3', y a esa altura, nunca fue asignada. Muchos pensarían que python va a ir a buscar una variable global llamda 'x' - nop... no es así. La simple asignación a x la define implícitamente como variable local y no global. Si queremos que sea global (y que la asignación cambie el valor de la variable global), hay que hacer:
+¿Por qué no? Porque x es local incluso cuando se accede en 'x != 3', y a esa altura, nunca fue asignada. Muchos pensarían que python va a ir a buscar una variable global llamada 'x' - nop... no es así. La simple asignación a x la define implícitamente como variable local y no global. Si queremos que sea global (y que la asignación cambie el valor de la variable global), hay que hacer:
 
-::
+.. code-block:: python
 
    def f():
       global x
@@ -232,15 +233,15 @@ O sea que cosas como esta no van a funcionar:
       ...
       x = 5
 
-Sobre Python (el interprete)
+Sobre Python (el intérprete)
 ----------------------------
 
-¿Cuales son los interpretes que puedo usar?
+¿Cuales son los intérpretes que puedo usar?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Las opciones disponibles son:
 
-* La consola interactiva por defecto de python (viene con la instalacion, solo hay que escribir python)
+* La consola interactiva por defecto de python (viene con la instalación, solo hay que escribir python)
 
 * IDLE_
 
@@ -248,10 +249,10 @@ Las opciones disponibles son:
 
 * `PyCrust/PyShell`_ (incluido en wxPython_)
 
-¿Como puedo configurar mi interprete para que sea mas amigable?
+¿Cómo puedo configurar mi intérprete para que sea más amigable?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Si estas usando el interprete interactivo por defecto de python, se recomienda leer los siguientes articulos:
+Si estás usando el intérprete interactivo por defecto de python, se recomienda leer los siguientes artículos:
 
 * AutocomplecionEnConsolaInteractiva_: Explica como agregar autocomplecion de metodos y atributos con tab en la consola interactiva
 
@@ -265,7 +266,7 @@ Construyendo Aplicaciones
 Usando Bases de Datos
 ~~~~~~~~~~~~~~~~~~~~~
 
-Como conectarse a bases de datos y ejecutar consultas
+Cómo conectarse a bases de datos y ejecutar consultas
 :::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 La página DbApi_ contiene la información relativa al Acceso a Bases de Datos desde Python (Interface DB-API), sobre como conectarse (mysql, postgresql, etc.), ejecutar consultas, armar queries, escapear comillas, etc.
@@ -273,7 +274,7 @@ La página DbApi_ contiene la información relativa al Acceso a Bases de Datos d
 ORMs: Interfaces Objeto-Relacional
 ::::::::::::::::::::::::::::::::::
 
-Acceder a bases de datos a traves de Db-Api es relativamente de bajo nivel. Se pueden utilizar Object-Relational-Mappers de mas alto nivel (similar a Hibernate en el mundo java). Los ORMS mas importantes para python son:
+Acceder a bases de datos a través de Db-Api es relativamente de bajo nivel. Se pueden utilizar Object-Relational-Mappers de más alto nivel (similar a Hibernate en el mundo java). Los ORMS más importantes para python son:
 
 * SqlAlchemy_: Un mapeador que dice ser simple, eficiente y extensible
 
@@ -281,9 +282,9 @@ Acceder a bases de datos a traves de Db-Api es relativamente de bajo nivel. Se p
 
 * Storm_: El nuevo mapeador de Canonical (Ubuntu)
 
-Por el momento no hay ningún concenso en la lista sobre cual es mejor o peor.
+Por el momento no hay ningún consenso en la lista sobre cual es mejor o peor.
 
-También existen librerías para acceso de datos (similar al patron ActiveRecord_ o librerias DAO/ADO de otras plataformas) que permiten escribir consultas e interactuar con los datos más facilmente (incluso sin usar SQL), sin necesidad de definir un modelo de clases:
+También existen librerías para acceso de datos (similar al patrón ActiveRecord_ o librerías DAO/ADO de otras plataformas) que permiten escribir consultas e interactuar con los datos más fácilmente (incluso sin usar SQL), sin necesidad de definir un modelo de clases:
 
 * DAL_: Capa de Abstracción de Base de Datos (Web2Py_)
 
@@ -297,7 +298,7 @@ Programación de interfaces gráficas (toolkits)
 
 La página InterfacesGraficas_ describe las diversas opciones disponibles en Python: wx, gtk, qt, etc., sus comparaciones, ventajas y desventajas y código de ejemplo.
 
-En el Recetario_ hay ejemplos de como empezar a construir interfaces en python.
+En el Recetario_ hay ejemplos de cómo empezar a construir interfaces en python.
 
 Programación WEB
 ~~~~~~~~~~~~~~~~
@@ -305,14 +306,14 @@ Programación WEB
 Interfaz WSGI
 :::::::::::::
 
-La página WSGI_ contiene información sobre la espeficiación para servidores web de python, comparación entre mod_python vs mod_wsgi vs servidores embebidos, performance, como usarlos y configurarlos, ejemplos.
+La página WSGI_ contiene información sobre la especificación para servidores web de python, comparación entre mod_python vs mod_wsgi vs servidores embebidos, performance, como usarlos y configurarlos, ejemplos.
 
 Frameworks Webs
 :::::::::::::::
 
 Para construir aplicaciones web complejas en python se pueden usar alguno de los principales frameworks web:
 
-* Django_: framework de alto nivel para desarrollo rapido y diseño claro y pragmático
+* Django_: framework de alto nivel para desarrollo rápido y diseño claro y pragmático
 
 * Turbogears_: el megaframework que combina CherryPy_, Kid, SQLObject y MochiKit.
 
@@ -346,9 +347,9 @@ Python en la vida real
 Performance/Estabilidad de Python, ¿se la banca?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-En ocasiones se pregunta a la lista si Python esta a la altura de las circunstancias, como se compara la velocidad/uso de memoria con VB, C, .NET, Java, etc. En la página RendimientoPythonVsJavaVsNet_ hay un resumen de los comentarios vertidos a la lista.
+En ocasiones se pregunta a la lista si Python está a la altura de las circunstancias, cómo se compara la velocidad/uso de memoria con VB, C, .NET, Java, etc. En la página RendimientoPythonVsJavaVsNet_ hay un resumen de los comentarios vertidos a la lista.
 
-¿Que aplicaciones (conocidas) estan hechas en Python?
+¿Qué aplicaciones (conocidas) están hechas en Python?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Las siguientes aplicaciones se pueden ver/probar/evaluar para conocer el lenguaje y ver su capacidad/rendimiento:
@@ -363,13 +364,13 @@ Las siguientes aplicaciones se pueden ver/probar/evaluar para conocer el lenguaj
 
 * Trac_: sistema de gestión de proyectos (interfaz web)
 
-En el ambito local:
+En el ámbito local:
 
-* `Sistema Fierro`_: sistema de gestión para librerias y editoriales (interfaz wx)
+* `Sistema Fierro`_: sistema de gestión para librerías y editoriales (interfaz wx)
 
 * PyRece_: aplicativo libre para factura electrónica (interfaz wx mediante PythonCard_)
 
-Nota: la lista no pretende ser completa, solo se presentan algunas de las aplicaciones más conocidas, relevantes y/o utilizadas por gran numero de personas.
+Nota: la lista no pretende ser completa, solo se presentan algunas de las aplicaciones más conocidas, relevantes y/o utilizadas por gran número de personas.
 
 ¿Podrías nombrar sitios Web (conocidos) que estén hechos en Python?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -380,7 +381,7 @@ Si:
 
 * Reddit (http://reddit.com) está `programado en Python <http://brainsik.theory.org/.:./2009/why-reddit-uses-python>`__.
 
-* FriendFeed (http://friendfeed.com) (adquidiro por Facebook en Agosto 2009) está `programado en Python <http://blog.friendfeed.com/2008/02/friendfeed-changelog-see-what-code-we.html>`__.
+* FriendFeed (http://friendfeed.com) (adquirido por Facebook en Agosto 2009) está `programado en Python <http://blog.friendfeed.com/2008/02/friendfeed-changelog-see-what-code-we.html>`__.
 
 * La NASA `usa Python`_ en el *frontend* de su platforma de *cloud computing* NEBULA_.
 
@@ -392,7 +393,7 @@ Algunos sitios no tan conocidos pero que están hechos con Python y vale la pena
 
 * `PyConAr 2012`_ (http://ar.pycon.org/2012), un ejemplo de aplicación hecha en Web2py.
 
-¿En que difieren Python y VisualBasic?
+¿En qué difieren Python y VisualBasic?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 La página VisualBasic_ detalla las similitudes y diferencias entre ambos lenguajes.
@@ -407,7 +408,7 @@ MarianoGuerra_ preguntó esto en este hilo: http://mx.grulic.org.ar/lurker/threa
 
 La respuesta que le dio MartinBothiry es hacer:
 
-::
+.. code-block:: python
 
    os.path.abspath(os.path.dirname(__file__))
 
@@ -417,25 +418,25 @@ La respuesta que le dio MartinBothiry es hacer:
 
 SebastianBassi_ pregunto en este hilo: http://mx.grulic.org.ar/lurker/thread/20090803.144308.0aabeb1b.en.html
 
-sobre en que casos convenia usar el modulo de la libreria estandar array por sobre una lista comun.
+sobre en qué casos convenia usar el módulo de la librería estándar array por sobre una lista común.
 
 La respuesta de GabrielGenellina_ fue:
 
-El array de la libreria estandar es un "chorizo" de elementos, todos del mismo tipo, pero tipos nativos (no objetos; por ejemplo "unsigned long integer"). Es unidimensional, y no tiene casi métodos. El array de Numpy también guarda tipos nativos, pero es multidimensional, y tiene un montón de métodos y operaciones definidos.
+El array de la librería estándar es un "chorizo" de elementos, todos del mismo tipo, pero tipos nativos (no objetos; por ejemplo "unsigned long integer"). Es unidimensional, y no tiene casi métodos. El array de Numpy también guarda tipos nativos, pero es multidimensional, y tiene un montón de métodos y operaciones definidos.
 
-Extraer un elemento de un array es costoso, porque hay que crear el objeto Python que lo "envuelva", y lo mismo pasa al asignarle un valor a un elemento individual. Así que operar con arrays elemento-a-elemento en Python es mas lento que usar una lista estándar. Los arrays están pensados para usarlos desde código en C (o Numpy, que esta escrito en C); por ejemplo, un array.array("f") se puede pasar a una función en C declarada como "float x[]" o "float \*x".
+Extraer un elemento de un array es costoso, porque hay que crear el objeto Python que lo "envuelva", y lo mismo pasa al asignarle un valor a un elemento individual. Así que operar con arrays elemento-a-elemento en Python es más lento que usar una lista estándar. Los arrays están pensados para usarlos desde código en C (o Numpy, que está escrito en C); por ejemplo, un array.array("f") se puede pasar a una función en C declarada como "float x[]" o "float \*x".
 
-Otra diferencia: array solo puede contener caracteres, números enteros nativos, o números de punto flotante; no objetos. Pero la representación en memoria es mucho mas compacta, cada elemento ocupa sólo lo necesario para guardar su valor y nada más (por ejemplo, 4 bytes para un float vs. 20 que se necesitan en una lista normal [16 para el objeto float de Python y 4 para el puntero en la lista], los tamaños son para Windows 32 bits).
+Otra diferencia: array solo puede contener caracteres, números enteros nativos, o números de punto flotante; no objetos. Pero la representación en memoria es mucho más compacta, cada elemento ocupa sólo lo necesario para guardar su valor y nada más (por ejemplo, 4 bytes para un float vs. 20 que se necesitan en una lista normal [16 para el objeto float de Python y 4 para el puntero en la lista], los tamaños son para Windows 32 bits).
 
-Yo diria que conviene usar un array si:
+Yo diría que conviene usar un array si:
 
-* todos los elementos son homogeneos, de alguno de los tipos soportados.
+* todos los elementos son homogéneos, de alguno de los tipos soportados.
 
 y:
 
 * vas a procesarlo en C porque te importa la velocidad
 
-* o bien, estas corto de memoria y una lista normal no te entra (pero no te importa la velocidad)
+* o bien, estás corto de memoria y una lista normal no te entra (pero no te importa la velocidad)
 
 A veces el "is" me dice una cosa y otras otra, ¿funciona mal?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -444,7 +445,7 @@ A veces el "is" me dice una cosa y otras otra, ¿funciona mal?
 
 En algunos casos, ofrece resultado que a primera vista sorprenden...
 
-::
+.. code-block:: python
 
    >>> a = 3
    >>> b = 3
@@ -453,7 +454,7 @@ En algunos casos, ofrece resultado que a primera vista sorprenden...
 
 En este caso a apunta a un 3 en memoria, y b apunta al mismo 3 en memoria. Python no creó dos objetos "3", sino que usó el mismo para los nombres a y b.
 
-::
+.. code-block:: python
 
    >>> a = 500
    >>> b = 500
@@ -472,13 +473,12 @@ Pero ojo, que esto sucede con versiones pasadas y actuales de CPython. Es un det
 
 
 .. _reuniones: /eventos/reuniones
-
 .. _ListaDeCorreo: /listadecorreo
-
 .. _grupo de entusiastas de Python: /quienessomos
 .. _primera reunión: /eventos/Reuniones/2004/reunion01
 .. _lista de correo: /listadecorreo
 .. _ReleaseProcedure: /eventos/Reuniones/releaseprocedure
+
 .. _grupo de Python de Buenos Aires de Meetup: http://python.meetup.com/cities/ar/buenos_aires/
 
 .. _SEO: http://es.wikipedia.org/wiki/Posicionamiento_en_buscadores
@@ -531,13 +531,11 @@ Pero ojo, que esto sucede con versiones pasadas y actuales de CPython. Es un det
 
 .. _TablaComparativa: http://python.org.ar/pyar/TablaIDEs
 
-
 .. _BitTorrent: http://www.bittorrent.com
 
 .. _ClamWin: http://es.clamwin.com
 
 .. _Odoo: http://www.odoo.com (ex **OpenErp**)
-
 
 .. _Meld: http://meld.sourceforge.net
 
@@ -545,22 +543,11 @@ Pero ojo, que esto sucede con versiones pasadas y actuales de CPython. Es un det
 
 .. _PyRece: http://www.pyafipws.com.ar/pyrece
 
-
 .. _programado en Python: http://vimeo.com/6461983
 
 .. _usa Python: http://nebula.nasa.gov/services/
 
 .. _NEBULA: http://nebula.nasa.gov/
-
-
-
-
-
-
-
-
-
-
 
 .. _pyar: /pyar
 .. _eventos: /eventos

@@ -51,7 +51,7 @@ Estos son los proyectos encarados *institucionalmente* por PyAr_ en los que pued
 Github.com
 ----------
 
-Creamos un grupo en github llamado PyAr_ https://github.com/PyAr para poner los proyectos de aquí al futuro y que nuestra vida sea mas sencilla. Para sumarte a la lista de colaboradores y colgar tu proyecto bajo el grupo de PyAr_, podés mandar un mensaje a la lista de correo.
+Creamos un grupo en github llamado PyAr_ https://github.com/PyAr para poner los proyectos de aquí al futuro y que nuestra vida sea más sencilla. Para sumarte a la lista de colaboradores y colgar tu proyecto bajo el grupo de PyAr_, podés mandar un mensaje a la lista de correo.
 
 Proyectos relacionados
 ----------------------
@@ -70,9 +70,9 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
   * Sistema de gestión financiera, enfocado en las finanzas personales y del hogar
 
-* `Gestion Integral para Empresas`_
+* `Gestión Integral para Empresas`_
 
-  * Sistema de Gestion Administrativa, basado en TurboGears.
+  * Sistema de Gestión Administrativa, basado en TurboGears.
 
 * `oveja eléctrica`_
 
@@ -86,9 +86,9 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
   * Interfaces y Herramientas relacionadas con la AFIP (Administración Federal de Ingresos Públicos)
 
-    * `Factura Electrónica`_ (Interfase con otros lenguajes: `PyAfipWs <http://www.sistemasagiles.com.ar/public/wiki/PyAfipWs>`__, Aplicativo: PyRece_), modulo OpenERP_ / Tryton_ y otros
+    * `Factura Electrónica`_ (Interfase con otros lenguajes: `PyAfipWs <http://www.sistemasagiles.com.ar/public/wiki/PyAfipWs>`__, Aplicativo: PyRece_), módulo OpenERP_ / Tryton_ y otros
 
-    * Servicio web de `constatación de comprobantes`_ y `padron de contribuyentes`_
+    * Servicio web de `constatación de comprobantes`_ y `padrón de contribuyentes`_
 
     * Servicio web de trazabilidad_ y `liquidación`_ de granos
 
@@ -106,7 +106,7 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 * PyFiscalPrinter_
 
-  * Herramientas e interfaces para Controladores Fiscales (Epson y Hasar de Argentina), que gradualmente incluye modelos para otros paises (Epson Chile y Hasar Panama). Contempla el protocolo de bajo nivel y módulos para `OpenERP <https://github.com/reingart/openerp_pyfiscalprinter/>`__ y otros sistemas de facturación.
+  * Herramientas e interfaces para Controladores Fiscales (Epson y Hasar de Argentina), que gradualmente incluye modelos para otros países (Epson Chile y Hasar Panama). Contempla el protocolo de bajo nivel y módulos para `OpenERP <https://github.com/reingart/openerp_pyfiscalprinter/>`__ y otros sistemas de facturación.
 
 * PyReplica_
 
@@ -158,7 +158,7 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 * QuickDiagrams_
 
-  * Permite crear diagramas de clase a partir de un archivo de texto muy sencillo o un modulo python.
+  * Permite crear diagramas de clase a partir de un archivo de texto muy sencillo o un módulo python.
 
 * NINJA-IDE_
 
@@ -178,19 +178,19 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 * Pygubu_
 
-  * Pygubu es una herramienta RAD que permite desarrollar interfaces de usuario rápida y fácilmente para el modulo tkinter de python. Pygubu esta inspirado por Glade (el diseñador de interfaces de gtk).
+  * Pygubu es una herramienta RAD que permite desarrollar interfaces de usuario rápida y fácilmente para el módulo tkinter de python. Pygubu está inspirado por Glade (el diseñador de interfaces de gtk).
 
 * gui2py_
 
-  * gui2py es un kit de herraientas simple y poderoso para construcción de interfaces gráficas de usuario (GUI) de manera visual multiplataforma (Windows, Linux y Mac). Utiliza WxPython y es un fork de PythonCard_ con la intención de modernizarlo, agregarle menjoras y mantenerlo actualizado.
+  * gui2py es un kit de herramientas simple y poderoso para construcción de interfaces gráficas de usuario (GUI) de manera visual multiplataforma (Windows, Linux y Mac). Utiliza WxPython y es un fork de PythonCard_ con la intención de modernizarlo, agregarle mejoras y mantenerlo actualizado.
 
 * rad2py_
 
-  * Plata forma de desarrollo rápido de aplicaciones que integra un editor de código, depurador y herramientas de repositorios, pruebas y gestión de calidad. Utiliza gui2py y web2py. Actualmente en desarrollo (investigación académica). Proximamente con funcionalidades para migrar proyectos legados de VisualBasic_ clásico 5 o 6 (ver vb2py_)
+  * Plataforma de desarrollo rápido de aplicaciones que integra un editor de código, depurador y herramientas de repositorios, pruebas y gestión de calidad. Utiliza gui2py y web2py. Actualmente en desarrollo (investigación académica). Próximamente con funcionalidades para migrar proyectos legados de VisualBasic_ clásico 5 o 6 (ver vb2py_)
 
 * `SAW / SQLAlchemy Wrapper`_
 
-  * This is a library that tries to make SQLAlchemy usage more easy. SQLAlchemy gives you a lot of different ways to acomplish what you want to do, and SAW tryies to give you 'one common and easy way to do a specific task' without interfering if you need to use all the power of SQLAlchemy.
+  * This is a library that tries to make SQLAlchemy usage more easy. SQLAlchemy gives you a lot of different ways to accomplish what you want to do, and SAW tries to give you 'one common and easy way to do a specific task' without interfering if you need to use all the power of SQLAlchemy.
 
 * Cocos2d_
 
@@ -242,7 +242,7 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 * PyConference_
 
-  * Sitio desarrollado con Python y Django para crear y gestionar todo lo relacionado con una conferencia, con la posibilidad de tener un sitio de conferencia funcionando y disponible a traves de una url con solo un par de clicks. `PyConference`_ permite generar y controlar el frontend que veran los usuarios finales del sitio de la conferencia a traves de su dashboard, y ayuda a todo el backend que posee una conferencia permitiendo controlar los gastos, tareas, etc.
+  * Sitio desarrollado con Python y Django para crear y gestionar todo lo relacionado con una conferencia, con la posibilidad de tener un sitio de conferencia funcionando y disponible a través de una url con solo un par de clicks. `PyConference`_ permite generar y controlar el frontend que verán los usuarios finales del sitio de la conferencia a través de su dashboard, y ayuda a todo el backend que posee una conferencia permitiendo controlar los gastos, tareas, etc.
 
 * Documentor_
 
@@ -284,13 +284,13 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
   * Traducción al Español de la documentación de "virtualenvwrapper"
 
-* `Pimp my pillow`
+* `Pimp my pillow`_
 
-  * Pimp My Pillow will leave you with a full working Pillow installation, no more 'decoder * not available' messages! https://github.com/edvm/pimp-my-pillow
+  * Pimp My Pillow will leave you with a full working Pillow installation, no more 'decoder * not available' messages! 
 
 * `rst2html5`_
 
-  * Herramienta extensible para crear documentos HTML5 como presentaciones o paginas web
+  * Herramienta extensible para crear documentos HTML5 como presentaciones o páginas web
 
 * `Pireal`_
 
@@ -310,8 +310,7 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 .. _SiGeFi: http://sf.net/projects/sigefi
 
-.. _Gestion Integral para Empresas: /Proyectos/geine
-
+.. _Gestión Integral para Empresas: /Proyectos/geine
 
 .. _oveja eléctrica: http://yaco.net/oe/
 
@@ -329,7 +328,7 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 .. _constatación de comprobantes: http://www.sistemasagiles.com.ar/trac/wiki/ConstatacionComprobantes
 
-.. _padron de contribuyentes: http://www.sistemasagiles.com.ar/trac/wiki/PadronContribuyentesAFIP
+.. _padrón de contribuyentes: http://www.sistemasagiles.com.ar/trac/wiki/PadronContribuyentesAFIP
 
 .. _trazabilidad: http://www.sistemasagiles.com.ar/trac/wiki/CodigoTrazabilidadGranos
 
@@ -340,6 +339,7 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 .. _Remito Electrónico: http://www.sistemasagiles.com.ar/trac/wiki/RemitoElectronicoCotArba
 
 .. _Trazabilidad de Medicamentos:
+
 .. _Trazabilidad de Precursores Químicos: http://www.sistemasagiles.com.ar/trac/wiki/TrazabilidadMedicamentos
 
 .. _Prototipo SIAPy: http://www.sistemasagiles.com.ar/trac/wiki/SiaPy
@@ -351,7 +351,6 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 .. _PySimpleSOAP: http://code.google.com/p/pysimplesoap/
 
 .. _PyFPDF: http://code.google.com/p/pyfpdf/
-
 
 .. _Pag vieja: https://opensvn.csie.org/traccgi/PyAr/wiki/WikipediaOffline
 
@@ -385,10 +384,7 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 .. _gui2py: https://code.google.com/p/gui2py/
 
-
-
 .. _rad2py: https://code.google.com/p/rad2py/
-
 
 .. _vb2py: https://code.google.com/p/vb2py/
 
@@ -447,10 +443,19 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 .. _Pireal: https://centaurialpha.github.io/pireal
 
 .. _Peicel Graphics: http://ge.tt/2LtQT7m2.. _pyar: /pyar
+
+.. _Pimp my pillow: https://github.com/edvm/pimp-my-pillow
+
 .. _cdpedia: /Proyectos/cdpedia
+
 .. _config: /Planeta/config
+
 .. _pythoncard: /pythoncard
+
 .. _visualbasic: /visualbasic
+
 .. _pyday: /pyday
+
 .. _pycon: /pycon
+
 .. _pyar: /pyar

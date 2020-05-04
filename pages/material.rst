@@ -1,6 +1,6 @@
 .. title: Material
 
-.. todo:: ver si podemos resolver esto
+.. todo: ver si podemos resolver esto
 
 .. warning::
 
@@ -61,7 +61,7 @@ Diseños para* PyCon_ 2010
 Banners para Eventos
 --------------------
 
-El logo de* PyAr_, Python Argentina, www.python.org.ar, el logo de Python y las franjas celestes de la bandera ya estan impresos.
+El logo de* PyAr_, Python Argentina, www.python.org.ar, el logo de Python y las franjas celestes de la bandera ya están impresos.
 
 El nombre del evento, lugar, fecha y logo (la serpiente de wx) se despegan y se puede plotear y pegar otras cosas para reusarlo (de hecho, el de la foto esta reusando un banner anterior).
 
