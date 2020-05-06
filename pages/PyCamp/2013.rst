@@ -32,7 +32,9 @@ Sede
 
 **Donde está:** Ruta Nacional 38, Villa Giardino, Córdoba
 
-`[[GoogleMaps(t="h",ll="-31.052484,-64.504133",spn="0.003865,0.003605",z="18")]]`_
+.. raw:: html
+
+    <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d1348.5307075853805!2d-64.504133!3d-31.052484000000003!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sar!4v1588736618624!5m2!1sen!2sar" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
 **Fotos:** http://ubuntuone.com/album/4lLGa4vkx6vaHvSzfhDhQb http://www.cordobaserrana.com.ar/luzyfuerzahotel.htm
 

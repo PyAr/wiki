@@ -3,7 +3,9 @@
 
 `Editar el mapa`_
 
-`[[GoogleMaps(msa=0,msid=117626973029192648931.000447c3180628d03b6bf,ll="16.636192,-29.882812",spn="126.389187,225",z=2)]]`_
+.. raw:: html
+
+    <iframe src="https://www.google.com/maps/d/embed?mid=1xD7MV6sfcbIquvrr9zYTwYf4RJs&hl=en" width="640" height="480"></iframe>
 
 .. ############################################################################
 

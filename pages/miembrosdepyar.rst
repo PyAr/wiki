@@ -3,7 +3,9 @@
 
 `Agregate al mapa`_
 
-`[[GoogleMaps(msa=0,msid=117626973029192648931.000447d968ea4d494125a,t="h",ll="-39.774769,-57.216797",spn="40.500047,77.607422",z=4)]]`_
+.. raw:: html
+
+    <iframe src="https://www.google.com/maps/d/embed?mid=1tOR5fETMVcdjA0fT6Ok6DQY-Rlk" width="640" height="480"></iframe>
 
 .. ############################################################################
 

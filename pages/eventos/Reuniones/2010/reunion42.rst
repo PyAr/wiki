@@ -68,7 +68,9 @@ Reservamos el sótano del bar "Doctor Mason" de 19 a 22hs. Cuenta con Wi-Fi y po
 
 Costo (opcional) aproximado por persona $30 para comer y tomar algo (modalidad "a la carta" individual)
 
-`[[GoogleMaps(msa=0,msid=105017401461870163751.0004787ee56982073d1c6,t="h",ll="-34.593579,-58.427804",spn="0.005511,0.013078",z=17)]]`_
+.. raw:: html
+
+  <iframe src="https://www.google.com/maps/d/embed?mid=1EPKMtOBA1Z5cLEE-keWo3267qwg&hl=en" width="640" height="480"></iframe>
 
 Ver: `Doctor Mason`_
 
