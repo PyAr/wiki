@@ -12,9 +12,8 @@ algunos detalles que muestran la expresividad, sencillez y poder de Python.
 
  * Presentación: Las partes de `intropython.odp`_, `baterias.odp`_ y Recetario/Histograma.
 
-.. raw:: html
-
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/_2Y9O2GLh6A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+.. youtube:: _2Y9O2GLh6A
+    :align: center
 
 .. _intropython.odp : /charlasabiertas2010/intopython.odp
 .. _baterias.odp : /charlasabiertas2010/baterias.odp

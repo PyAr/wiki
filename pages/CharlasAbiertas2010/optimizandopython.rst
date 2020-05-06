@@ -5,10 +5,7 @@
 
 **Disertante: Gabriel Genellina**
 
-Video: `Optimizando Python <https://youtu.be/MuQkDvjUG4Y>`
-
-.. raw:: html
-
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MuQkDvjUG4Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+.. youtube:: MuQkDvjUG4Y
+    :align: center
 
 .. _numpy: https://github.com/numpy/numpy

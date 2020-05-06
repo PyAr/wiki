@@ -12,6 +12,5 @@ ejemplo. (primera parte)
 
  * 10:30 a 12:30 horas
 
-.. raw:: html
-
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wLV3Kkuc_jk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+.. youtube:: wLV3Kkuc_jk
+    :align: center

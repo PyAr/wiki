@@ -7,8 +7,7 @@
 
 * 13 a 15 horas
 
-.. raw:: html
-
-    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yYDbtT3q_2M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+.. youtube:: yYDbtT3q_2M
+    :align: center
 
 .. _PythonCard: /pythoncard
