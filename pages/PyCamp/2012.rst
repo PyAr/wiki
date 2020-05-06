@@ -34,7 +34,11 @@ Hogar Escuela Verónica
 
 * mínimo: 25 personas
 
-* Internet: 3 Mbps por ADSL (hacen el upgrade a pedido nuestro) `[[GoogleMaps(msa="0",msid="105017401461870163751.00047dff7082962835e7a",t="h",ll="-35.387126,-57.328806",spn="0.020642,0.052314",z="15")]]`_
+* Internet: 3 Mbps por ADSL (hacen el upgrade a pedido nuestro) 
+
+.. raw:: html
+
+  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3252.7310495485767!2d-57.33099468537686!3d-35.38712598026389!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzXCsDIzJzEzLjciUyA1N8KwMTknNDMuNyJX!5e0!3m2!1sen!2sar!4v1588731438127!5m2!1sen!2sar" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
 Fotos del PyCamp 2012!!
 -----------------------

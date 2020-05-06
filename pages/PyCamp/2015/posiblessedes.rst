@@ -180,7 +180,9 @@ Verónica
 
 **Donde está:** Calle 39, Veronica_.
 
-`[[GoogleMaps(t="h",ll="-35.38949,-57.320627",spn="0.003459,0.007993",z="18")]]`_
+.. raw:: html
+
+    <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d1283.2664347841958!2d-57.32062700000001!3d-35.38949000000001!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sar!4v1588737307383!5m2!1sen!2sar" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
 **Fotos:**  `de YamilaCuestas`_, `de Perrito`_, `de Facundo`_.
 

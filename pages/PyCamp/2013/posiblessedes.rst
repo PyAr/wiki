@@ -14,7 +14,9 @@ Verónica
 
 **Donde está:** Calle 39, Veronica_.
 
-`[[GoogleMaps(t="h",ll="-35.38949,-57.320627",spn="0.003459,0.007993",z="18")]]`_
+.. raw:: html
+
+    <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d1283.2664347841958!2d-57.32062700000001!3d-35.38949000000001!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sar!4v1588737307383!5m2!1sen!2sar" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
 **Fotos:**  `de YamilaCuestas`_, `de Perrito`_, `de Facundo`_, `el otro lado del PyCamp de EugeniaBahit`_.
 
@@ -85,7 +87,9 @@ Hotel Luz y Fuerza
 
 **Donde está:** Ruta Nacional 38, Villa Giadirno, Córdoba
 
-`[[GoogleMaps(t="h",ll="-31.052484,-64.504133",spn="0.003865,0.003605",z="18")]]`_
+.. raw:: html
+
+    <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d1348.5307075853805!2d-64.504133!3d-31.052484000000003!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sar!4v1588736618624!5m2!1sen!2sar" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
 **Fotos:** http://ubuntuone.com/album/4lLGa4vkx6vaHvSzfhDhQb http://www.cordobaserrana.com.ar/luzyfuerzahotel.htm
 
@@ -172,7 +176,9 @@ Hostal Colonial Serrano
 
 **Donde está:** Ruta Nacional 38, km 753, Bialet Massé, Córdoba
 
-`[[GoogleMaps(t="h",ll="-31.330344,-64.467092",spn="0.001927,0.001802",z="18")]]`_
+.. raw:: html
+
+    <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d1344.5772013621672!2d-64.467092!3d-31.330344000000004!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sar!4v1588737221678!5m2!1sen!2sar" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
 **Fotos:** http://ubuntuone.com/album/6j16xRpveO4TMq877TqvJ7 http://hostalcolonialserrano.wordpress.com https://www.facebook.com/hostal.colonialserrano http://www.facebook.com/Hostal-Colonial-Serrano/297545386932938?sk=photos_albums
 
@@ -263,7 +269,10 @@ Villa Maristas Lujan
 
 **Donde está:** Champagnat 55, Lujan_.
 
-`[[GoogleMaps(t="h",ll="-34.561018,-59.125628",spn="0.003092,0.00457",z="18")]]`_
+.. raw:: html
+
+    <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d1296.313392243307!2d-59.125628!3d-34.561018!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sar!4v1588737105461!5m2!1sen!2sar" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
 
 **Fotos:** No tengo todavía.
 
@@ -330,7 +339,9 @@ Villa Maristas Mar del Plata
 
 **Donde está:** Marcos Sastre 2787 (esquina Lucio V. Mansilla), `Mar del Plata`_.
 
-`[[GoogleMaps(t="h",ll="-37.948673,-57.548329",spn="0.002961,0.00457",z="18")]]`_
+.. raw:: html
+
+    <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d1241.2817007203143!2d-57.548329!3d-37.948673!3m2!1i1024!2i768!4f13.1!5e1!3m2!1sen!2sar!4v1588736946793!5m2!1sen!2sar" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
 **Fotos:** hay algunos Videos_.
 

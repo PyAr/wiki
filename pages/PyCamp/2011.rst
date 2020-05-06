@@ -41,7 +41,10 @@ Hotel El Brigadier
 Mapa
 ::::
 
-`[[GoogleMaps(msa="0",msid="202175897033525759258.00049e65b342a0480d2f2",t="h",ll="-31.088213,-64.486527",spn="0.002178,0.013443",z="17")]]`_
+.. raw:: html
+
+  <iframe src="https://www.google.com/maps/d/embed?mid=1HHfyHwe08tZpf2KL5mAKSTZLy2g&hl=en" width="640" height="480"></iframe>
+
 
 Como pagar
 ::::::::::

@@ -75,7 +75,9 @@ Lugar
 
 * Bernal (a 5 cuadras de la estación de trenes)
 
-`[[GoogleMaps(msid=111638716519543676193.00048ab8f868d60f88716,msa=0,z=16)]]`_
+.. raw:: html
+
+  <iframe src="https://www.google.com/maps/d/embed?mid=1NGWPu3kR7EMMwqUWkFpLC0I-BSo&hl=en" width="640" height="480"></iframe>
 
 Minuta
 ~~~~~~

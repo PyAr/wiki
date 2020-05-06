@@ -49,7 +49,11 @@ Hogar Escuela Verónica
 
 * fotos: `acá`_ y `acá <http://tinyurl.com/PrePyCamp2010>`__
 
-* Internet: 1 Mbps por ADSL (tienen 256kbps, nosotros tenemos que pagar el upgrade por 2 meses mínimo). `[[GoogleMaps(msa="0",msid="105017401461870163751.00047dff7082962835e7a",t="h",ll="-35.387126,-57.328806",spn="0.020642,0.052314",z="15")]]`_
+* Internet: 1 Mbps por ADSL (tienen 256kbps, nosotros tenemos que pagar el upgrade por 2 meses mínimo). 
+
+.. raw:: html
+
+  <iframe src="https://www.google.com/maps/d/embed?mid=1Wh7m4EQ4ge2Vw572M1e3yO53ETI&hl=en" width="640" height="480"></iframe>
 
 Como Llegar
 :::::::::::

@@ -46,7 +46,9 @@ Lugar
 
 El Bar de siempre, en Medrano y Guardia Vieja.
 
-`[[GoogleMaps(msa=0,msid=105017401461870163751.0004787ee56982073d1c6,ll="-34.601228,-58.419124",spn="0.005484,0.013078",z=17)]]`_
+.. raw:: html
+
+  <iframe src="https://www.google.com/maps/d/embed?mid=1EPKMtOBA1Z5cLEE-keWo3267qwg&hl=en" width="640" height="480"></iframe>
 
 Minuta
 ------
