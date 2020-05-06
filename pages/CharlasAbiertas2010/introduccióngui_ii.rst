@@ -7,9 +7,6 @@ En esta charla se verán los conceptos básicos de desarrollo de aplicaciones gr
 
  * 10:30 a 12:30 horas
 
-.. todo::
+.. raw:: html
 
-    Buscar el link de este video
-
-
-<<Video(http://pyar.usla.org.ar/charlasabiertas2010/intro_desktop_2.ogg)>>
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/RzzX9D-sUN4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

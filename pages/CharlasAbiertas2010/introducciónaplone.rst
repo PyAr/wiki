@@ -6,8 +6,7 @@
 
  * 13 a 15 horas
 
-.. todo::
+.. raw:: html
 
-    Ver el tema del video
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/A7J3cF-S2W4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<<Video(http://pyar.usla.org.ar/charlasabiertas2010/plone.ogg)>>

@@ -5,11 +5,10 @@
 
 **Disertante: Gabriel Genellina**
 
-.. todo::
+Video: `Optimizando Python <https://youtu.be/MuQkDvjUG4Y>`
 
-    ver el tema del video
+.. raw:: html
 
-`[[Video(http://pyar.usla.org.ar/charlasabiertas2010/optimizando_python.ogg)]]`_
-
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/MuQkDvjUG4Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 .. _numpy: https://github.com/numpy/numpy

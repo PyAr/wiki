@@ -9,7 +9,7 @@
 
 * 13 a 15 horas
 
-.. todo:: ver esta link
+.. raw:: html
 
-`[[Video("http://pyar.usla.org.ar/charlasabiertas2010/foobar.ogg")]]`_
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/JMsyv4oCUdc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

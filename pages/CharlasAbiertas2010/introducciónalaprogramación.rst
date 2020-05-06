@@ -11,8 +11,9 @@ tener herramientas para luego si lo desea profundizar más en el tema y aprender
 
 * 10:30 a 15 horas, con un break de 30' en el medio
 
-* Presentación: [[attachment:../introprogram.odp]] (y los ejemplos hechos durante la charla: [[attachment:../codigo_introprog.tar.gz]])
+* Presentación: `introprogram.odp`_ (y los ejemplos hechos durante la charla: [[attachment:../codigo_introprog.tar.gz]])
 
 
+Video: http://pyar.usla.org.ar/charlasabiertas2010/intro_programacion.ogg
 
-<<Video(http://pyar.usla.org.ar/charlasabiertas2010/intro_programacion.ogg)>>
+.. _introprogram.odp : /CharlasAbiertas2010/introducionalaprogramacion/introprogram.odp

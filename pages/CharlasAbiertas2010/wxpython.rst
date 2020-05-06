@@ -7,10 +7,8 @@
 
 * 13 a 15 horas
 
-.. todo::
+.. raw:: html
 
-    ver el tema del video
-
-`[[Video(http://pyar.usla.org.ar/charlasabiertas2010/wxpython.ogg)]]`_
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/yYDbtT3q_2M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 .. _PythonCard: /pythoncard

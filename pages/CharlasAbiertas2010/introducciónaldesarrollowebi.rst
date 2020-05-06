@@ -8,10 +8,10 @@ incluyendo las últimas tecnologías de una forma simple y clara (javascript, aj
 Recorreremos los temas principales mostrando el desarrollo rápido de una aplicación a modo de
 ejemplo. (primera parte)
 
-.. todo:: ver el tema del link
-
  * Disertantes: Mariano Reingart y Alejandro J. Cura
 
  * 10:30 a 12:30 horas
 
-<<Video(http://pyar.usla.org.ar/charlasabiertas2010/intro_web_1.ogg)>>
+.. raw:: html
+
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/wLV3Kkuc_jk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

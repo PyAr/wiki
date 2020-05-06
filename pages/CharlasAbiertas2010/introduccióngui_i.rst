@@ -7,8 +7,8 @@ En esta charla se verán los conceptos básicos de desarrollo de aplicaciones gr
 
  * 10:30 a 12:30 horas
 
-.. todo::
+Video: `Introducción a las Interfaces Gráficas de Escritorio I <https://youtu.be/r83-Y-RFGZY>`_
 
-    Buscar el link de este video
+.. raw:: html
 
-<<Video(http://pyar.usla.org.ar/charlasabiertas2010/intro_desktop_1.ogg)>>
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/r83-Y-RFGZY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
