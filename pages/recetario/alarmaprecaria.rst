@@ -106,7 +106,7 @@ Si funciona con:
     usuario@maquina: ~$ python receta.py
 
 
-Es mas que suficiente. -- JoaquinSorianello_ `[[DateTime(2010-11-08T10:56:40-0300)]]`_
+Es mas que suficiente. -- JoaquinSorianello_ `2010-11-08T10:56:40-0300`
 
 .. _joaquinsorianello: /joaquinsorianello
 .. _categoryrecetas: /categoryrecetas

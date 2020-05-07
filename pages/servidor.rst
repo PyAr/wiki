@@ -1,7 +1,7 @@
 .. title: Migración a Debian Wheezy
 
 
-`[[DateTime(2013-06-06T09:28:29-0300)]]`_
+`2013-06-06T09:28:29-0300`
 
 Servicios
 ---------

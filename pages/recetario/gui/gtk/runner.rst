@@ -3,7 +3,7 @@
 
 ejemplo de como correr funciones que demoran sin bloquear la ui y obtener los resultados en el thread de gtk
 
-lo que tienen que reusar es la clase GtkRunner_
+lo que tienen que reusar es la clase *GtkRunner*
 
 simplemente la llaman pasandole:
 

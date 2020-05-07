@@ -4,7 +4,7 @@
 TODO
 ----
 
-* dns *.worldst.com.ar -> pagina en google appengine
+* dns `*.worldst.com.ar` -> pagina en google appengine
 
 * escribir pitch
 

@@ -1,5 +1,5 @@
 .. title: Tareas Pendientes
-
+ 
 
 Para más info ver: http://wiki.python.org/moin/ConventionHowto
 
@@ -120,7 +120,7 @@ Gráfica
 Impresiones, Materiales y Regalos
 ---------------------------------
 
-* :strike:`Preparar la Guia de Programa [MarianoReingart/yo mendieta/imprenta]
+* :strike:`Preparar la Guia de Programa` [MarianoReingart/yo mendieta/imprenta]
 
   * --(Editar la PET` [JuanBC]
 

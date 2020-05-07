@@ -1,6 +1,7 @@
 .. title: Reunión 14 - 08/03/2006 - Hip Bar
 
 
+
 * Asistentes: ¡Copamos el hip bar, rompimos record, comimos pizza y tomamos birra (que alcanzó hasta el final)! Fuimos diecisiete: GuillermoGonzalez, AlejandroJCura_, FacundoBatista_, MarianoDraghi_, AlejandroDavidWeil_, PabloZiliani_, RicardoKirkner_, LeitoMonk_, GuillermoNarvaja, NubIs_,  SergioGomez, MartinSarsale, Andres, Mario, AlfonsoPalomares_, LucioTorre_, Purpura
 
 * Esta reunión fue muy provechosa, duró hasta las 11:30+ (momento en el cual me tuve que ir):
@@ -40,7 +41,7 @@
 
       .. note::
 
-            Si ganaste, __tenés una semana__ para reclamar tu premio, lo que sobre, se sortea en la próxima reunión. Si sos del interior y no querés/podés venir a Capital Federal a buscar tu premio, Facundo te lo puede enviar por correo, con la misma modalidad que las compras de las remeras (ver arriba).
+            Si ganaste, **tenés una semana** para reclamar tu premio, lo que sobre, se sortea en la próxima reunión. Si sos del interior y no querés/podés venir a Capital Federal a buscar tu premio, Facundo te lo puede enviar por correo, con la misma modalidad que las compras de las remeras (ver arriba).
 
 * Experiencias de FacundoBatista_ en PyCon 2006
 

@@ -5,7 +5,7 @@
 
 **Disertante: Gabriel Genellina**
 
-.. todo::
+`TODO`
 
     ver el tema del video
 

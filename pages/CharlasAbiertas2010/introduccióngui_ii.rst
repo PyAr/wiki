@@ -7,7 +7,7 @@ En esta charla se verán los conceptos básicos de desarrollo de aplicaciones gr
 
  * 10:30 a 12:30 horas
 
-.. todo::
+`TODO`
 
     Buscar el link de este video
 

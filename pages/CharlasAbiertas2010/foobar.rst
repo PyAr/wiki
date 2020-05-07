@@ -9,7 +9,7 @@
 
 * 13 a 15 horas
 
-.. todo:: ver esta link
+`TODO` ver esta link
 
 `[[Video("http://pyar.usla.org.ar/charlasabiertas2010/foobar.ogg")]]`_
 

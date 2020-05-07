@@ -12,6 +12,6 @@ algunos detalles que muestran la expresividad, sencillez y poder de Python.
 
  * Presentación: Las partes de [[attachment:../intropython.odp|Facundo]], [[attachment:../baterias.odp|Tomás]] y [[Recetario/Histograma|Diego]].
 
-.. todo:: ver el tema del attachment y del video
+`TODO` ver el tema del attachment y del video
 
 <<Video(http://pyar.usla.org.ar/charlasabiertas2010/intro_python.ogg)>>

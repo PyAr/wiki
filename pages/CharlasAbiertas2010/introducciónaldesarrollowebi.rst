@@ -8,7 +8,7 @@ incluyendo las últimas tecnologías de una forma simple y clara (javascript, aj
 Recorreremos los temas principales mostrando el desarrollo rápido de una aplicación a modo de
 ejemplo. (primera parte)
 
-.. todo:: ver el tema del link
+`TODO` ver el tema del link
 
  * Disertantes: Mariano Reingart y Alejandro J. Cura
 

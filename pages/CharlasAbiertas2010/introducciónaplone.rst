@@ -6,7 +6,7 @@
 
  * 13 a 15 horas
 
-.. todo::
+`TODO`
 
     Ver el tema del video
 
