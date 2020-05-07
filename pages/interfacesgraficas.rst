@@ -3,9 +3,9 @@
 
 **Advertencia**: Esta página esta basada (en parte) en opiniones y experiencias personales de distintas personas. YMMV
 
-Existen varias librerias que implementan interfaces gráficas de usuario (GUI) en python, las principales son:
+Existen varias librerías que implementan interfaces gráficas de usuario (GUI) en python, las principales son:
 
-* Tkinter: Basada en las librerías gráficas TCL/TK, interface "de-facto" (`#1`_) preinstalada con python, es la generalmente recomendada para proyectos triviales y/o de aprendizaje.
+* Tkinter: Basada en las librerías gráficas TCL/TK, interfaz "de-facto" (`#1`_) preinstalada con python, es la generalmente recomendada para proyectos triviales y/o de aprendizaje.
 
 * WxPython: Basada en WxWidgets (una libreria multiplataforma C/C++), "bendecida" (`#2`_) como la "más pitónica" por GvR (creador de Python), y sería la interface por defecto si no hubiese existido TK en primer lugar.
 
@@ -161,7 +161,7 @@ Hello World
 
 **Nota**: para poder comparar, los ejemplos crean una aplicación, ventana y botón, con un evento.
 
-Hay mas ejemplos en el :ref:`recetario_interfaces_graficas`
+Hay mas ejemplos en el `recetario`_
 
 TkInter
 :::::::
@@ -297,7 +297,7 @@ Referencias
 
 .. _wxpython-users: http://groups.google.com/group/wxpython-users
 
-
+.. _recetario: /recetario
 
 .. _WxPython: /wxpython
 

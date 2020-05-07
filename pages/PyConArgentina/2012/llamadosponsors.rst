@@ -17,7 +17,7 @@ Documentos:
 
 * Brief (inglés): http://ar.pycon.org/2012/static/docs/pyconar2012_brief.pdf
 
-.. todo:: Arreglar esta pagina
+`TODO` Arreglar esta pagina
 
 ::
 

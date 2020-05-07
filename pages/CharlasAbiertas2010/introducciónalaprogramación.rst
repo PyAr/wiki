@@ -5,7 +5,7 @@ Orientada a personas que no saben nada de programación, esta charla busca prese
 básicos de este arte de manera que dicha persona pueda, comprendiendo las bases de la disciplina,
 tener herramientas para luego si lo desea profundizar más en el tema y aprender formalmente a programar.
 
-.. todo:: ver el tema del attachment y del video
+`TODO` ver el tema del attachment y del video
 
 * Disertante: Facundo Batista
 

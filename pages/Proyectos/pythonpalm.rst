@@ -1,7 +1,7 @@
 .. title: Python for PalmOS
 
 
-.. todo:: Pending: reemplazar la imagen po lo que debería ir
+`TODO` Pending: reemplazar la imagen po lo que debería ir
 
 Here you can get the latests (only) release of this half baked port of python to palmOS.
 

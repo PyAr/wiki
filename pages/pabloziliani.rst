@@ -1,6 +1,6 @@
 .. title: Pabloziliani
 
-.. todo:: arreglar esto
+`TODO` arreglar esto
 
 Pablo Ziliani's Complete Waste of Time
 --------------------------------------

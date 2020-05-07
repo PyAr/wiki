@@ -161,7 +161,7 @@ La idea sería armar un robot que pueda jugar al flappy bird (o alguna de sus nu
 pbt - Python Building Tools
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-En una charla relampago en la ultima Pycon MarianoGuerra_ propuso implementar una herramienta que colabore en simplificar el desarrollo en python. Despues de varios vinos en el asado final se propuso construir pbt(Se lee pebete) se armo un repo, y mariano construyo un esqueleto que es este_ la idea de trabajarlo en la pycamp es darle funcionalidades basicas como para tener una version "usable" del mismo.
+En una charla relampago en la ultima Pycon MarianoGuerra_ propuso implementar una herramienta que colabore en simplificar el desarrollo en python. Despues de varios vinos en el asado final se propuso construir pbt(Se lee pebete) se armo un repo, y mariano construyo un esqueleto_ que es este la idea de trabajarlo en la pycamp es darle funcionalidades basicas como para tener una version "usable" del mismo.
 
 *Propone:* JairoTrad
 
@@ -329,6 +329,7 @@ Pilas
 .. _PyConference: https://github.com/PyConference/PyConference
 
 .. _Preciosa:
+
 .. _tareas: https://github.com/mgaitan/preciosa/
 
 .. _sitio web: https://github.com/samuelbustamante/pyarweb
@@ -343,7 +344,7 @@ Pilas
 
 .. _ésto: https://www.youtube.com/watch?v=kHkMaWZFePI
 
-.. _este: https://github.com/pebete/pbt
+.. _esqueleto: https://github.com/pebete/pbt
 
 .. _factopy: https://github.com/ecolell/factopy
 

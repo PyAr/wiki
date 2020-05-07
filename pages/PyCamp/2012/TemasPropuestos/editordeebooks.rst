@@ -27,7 +27,7 @@ Ideas
 
 
 - Sigil_ es una aplicación para la edición de ebooks, libre, multiplataforma y además funciona bien.
-    Creo que lo usa bastante gente. Basicamente permite un modo de edición WYSIWYG, otro en modo fuente
+    Creo que lo usa bastante gente. Básicamente permite un modo de edición WYSIWYG, otro en modo fuente
     (que es, ni más ni menos, que html) y un manejo sencillo de la ToC.
     Creo que es un buen ejemplo para inspirarse.
 
@@ -51,10 +51,10 @@ Ideas
     una alternativa?
 
     - si persistimos los "ebooks" como archivos (el epub descomprimido) y no a nivel bbdd,
-    podemos usar un sistema de control de versiones conocido como mercurial o git. Si bien mercurial está hecho en python,
-    los propios desarrolladores `no recomiendan usar la API interna <http://mercurial.selenic.com/wiki/MercurialApi>`_ sino
-    `esta libreria <https://bitbucket.org/haard/hgapi>`_ que interactua con el CLI hg. Para git
-    `dulwich_ <https://github.com/jelmer/dulwich>`_ parece muy piola
+        podemos usar un sistema de control de versiones conocido como mercurial o git. Si bien mercurial está hecho en python,
+        los propios desarrolladores `no recomiendan usar la API interna <http://mercurial.selenic.com/wiki/MercurialApi>`_ sino
+        `esta librería <https://bitbucket.org/haard/hgapi>`_ que interactuá con el CLI hg. Para git
+        `dulwich_ <https://github.com/jelmer/dulwich>`_ parece muy piola
 
     - otra posibilidad: usar una base de datos documental (MongoDB , couchdb, cassandra? alguien tiene experiencia?)
 
@@ -83,19 +83,19 @@ Ideas
 - Validación:
 
     - Sigil hizo y usa Flightcrew_, que parece lo mejorcito para validar el epub.
-    El core es libreria C++ ¿se puede wrappear?  En cualquier caso,
-    tambien tiene un cliente CLI que se puede usar via subprocess.
+        El core es libreria C++ ¿se puede wrappear?  En cualquier caso,
+        tambien tiene un cliente CLI que se puede usar via subprocess.
     - También usa HTMLTidy para *sanear* el html (de entrada/salida).
-    Hay `wrapper <https://github.com/countergram/pytidylib/>`_
+        Hay `wrapper <https://github.com/countergram/pytidylib/>`_
 
 - Filtros
 
     - calibre permite aplicar filtros basados en xpath en la conversión.
-    Podemos permitir definirlos al usuario ? y a posteriori ?
+        Podemos permitir definirlos al usuario ? y a posteriori ?
     - Nunca entendí la sintaxis de xpath. Se podrá permitir manipular
-    via pyquery_ ?
+        via pyquery_ ?
     - readability_ está buenísimo pero a veces falla. Ayudarlo
-    a saber donde está el contenido?
+        a saber donde está el contenido?
 
 
 - UI:

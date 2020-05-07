@@ -16,9 +16,4 @@ Bandera 2
 
     http://alecu.com.ar/banderas/bandera2.png
 
-|{*}| El usuario pidio cambiar este diseño por otro de su autoría.
-
--------------------------
-
-
-
+`*` El usuario pidio cambiar este diseño por otro de su autoría.

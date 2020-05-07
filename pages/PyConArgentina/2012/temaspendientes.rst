@@ -34,7 +34,7 @@ Sitio Web
  * Terminar de traducir página [[http://ar.pycon.org/2012/conference/proposals?lang=en|call for proposals]]
  * Preparar Integración con DineroMail (bono contribución)
  * Probar generación de PDF (badge y certificados)
- * Mejorar Schedule (Cronograma), hacer una tabla como [[https://us.pycon.org/2012/schedule/|PyCon US]]
+ * Mejorar Schedule (Cronograma), hacer una tabla como `PyCon US <https://us.pycon.org/2012/schedule/>`
 
 Gráfica
 =======

@@ -32,9 +32,11 @@ Está disponible en múltiples plataformas, desde una PC con Windows o Linux has
 
   http://python.org/
 
-.. ############################################################################
+############################################################################
 
-.. [1] En el marco del programa "[[http://wikipediaenelaula.educ.ar/|Wikipedia en el aula]]"
+.. rubric:: Footnotes
+
+.. [1] En el marco del programa `Wikipedia en el aula <http://wikipediaenelaula.educ.ar/>`_
 
 .. _Python Argentina: http://python.org.ar
 

@@ -1,7 +1,7 @@
 .. title: AaFigure Parser
 
 
-.. todo:: Sacar esto de moin-moin y poner lo que corresponda
+`TODO` Sacar esto de moin-moin y poner lo que corresponda
 
 Uso
 ~~~

@@ -1,14 +1,16 @@
 .. title: Test
 
-{{{#!aafig
-----------+    +---------------->
-          +----+
+.. raw:: text
 
-/-----------------\
-|ddddddddddddddddd|
-+-----------------+
-|fffffffffffffffff|
-\-----------------/
+    {{{#!aafig
+    ----------+    +---------------->
+            +----+
 
-rrrrrrrrrrrrrr
-}}}
+    /-----------------\
+    |ddddddddddddddddd|
+    +-----------------+
+    |fffffffffffffffff|
+    \-----------------/
+
+    rrrrrrrrrrrrrr
+    }}}
