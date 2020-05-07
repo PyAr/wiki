@@ -1,4 +1,4 @@
 .. title: Test
 
-`[[Video(http://pyar.usla.org.ar/comunidad001.ogv)]]`_
+http://pyar.usla.org.ar/comunidad001.ogv
 

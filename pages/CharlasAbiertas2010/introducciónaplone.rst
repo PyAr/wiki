@@ -6,8 +6,6 @@
 
  * 13 a 15 horas
 
-`TODO`
+.. youtube:: A7J3cF-S2W4
+    :align: center
 
-    Ver el tema del video
-
-<<Video(http://pyar.usla.org.ar/charlasabiertas2010/plone.ogg)>>

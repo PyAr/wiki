@@ -15,7 +15,7 @@
 
 Todos conocemos y aceptamos la vital importancia de escribir tests para nuestras aplicaciones. Pero no todos efectivamente escribimos esas test suites tan cruciales para proveer cierto nivel de corrección de nuestro software. Esta charla apunta a que el público conozca qué implica hacer tests en Python y pierda el miedo de escribirlos; que podamos levantar esas barreras que nos frenan a plasmar el mágico "import unittest", y que, idealmente, veamos cómo el testing es un camino de ida.
 
-`[[Video(http://pyar.usla.org.ar/test001.ogv)]]`_
+http://pyar.usla.org.ar/test001.ogv
 
 .. ############################################################################
 

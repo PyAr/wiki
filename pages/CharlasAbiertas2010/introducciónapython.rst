@@ -10,8 +10,10 @@ algunos detalles que muestran la expresividad, sencillez y poder de Python.
 
  * 10:30 a 15 horas, con un break de 30' en el medio
 
- * Presentación: Las partes de [[attachment:../intropython.odp|Facundo]], [[attachment:../baterias.odp|Tomás]] y [[Recetario/Histograma|Diego]].
+ * Presentación: Las partes de `intropython.odp`_, `baterias.odp`_ y Recetario/Histograma.
 
-`TODO` ver el tema del attachment y del video
+.. youtube:: _2Y9O2GLh6A
+    :align: center
 
-<<Video(http://pyar.usla.org.ar/charlasabiertas2010/intro_python.ogg)>>
+.. _intropython.odp : /charlasabiertas2010/intopython.odp
+.. _baterias.odp : /charlasabiertas2010/baterias.odp

@@ -15,7 +15,7 @@
 
 Pilas es un motor o biblioteca para hacer juegos de manera sencilla, orientado a principiantes y programadores.
 
-`[[Video(http://pyar.usla.org.ar/pilas001.ogv)]]`_
+http://pyar.usla.org.ar/pilas001.ogv
 
 .. ############################################################################
 

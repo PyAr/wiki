@@ -11,5 +11,4 @@
 
 * Presentación y código
 
-`[[Video(http://pyar.usla.org.ar/final/twisted.ogv)]]`_
-
+http://pyar.usla.org.ar/final/twisted.ogv 

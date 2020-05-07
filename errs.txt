@@ -1,0 +1,12 @@
+[2020-05-07T01:06:42Z] ERROR: rest: [pages/CharlasAbiertas2010/foobar.rst:14] Unknown target name: "[[video("http://pyar.usla.org.ar/charlasabiertas2010/foobar.ogg")]]".
+[2020-05-07T01:06:42Z] ERROR: rest: [pages/CharlasAbiertas2010/optimizandopython.rst:12] Unknown target name: "[[video(http://pyar.usla.org.ar/charlasabiertas2010/optimizando_python.ogg)]]".
+[2020-05-07T01:06:42Z] ERROR: rest: [pages/CharlasAbiertas2010/wxpython.rst:14] Unknown target name: "[[video(http://pyar.usla.org.ar/charlasabiertas2010/wxpython.ogg)]]".
+[2020-05-07T01:06:43Z] ERROR: rest: [pages/pruebavideo.rst:5] Unknown target name: "[[video(http://www.gcoop.coop/ogv/sles-2010-chaparro.ogg)]]".
+[2020-05-07T01:06:43Z] ERROR: rest: [pages/pycamporm.rst:18] Unknown target name: "[[video(http://pyar.usla.org.ar/orm001.ogv)]]".
+[2020-05-07T01:06:43Z] ERROR: rest: [pages/recetario/fun/nadosincronizado.rst:6] Unknown target name: "[[video(http://marianoguerra.com.ar/random/nado.ogv)]]".
+[2020-05-07T01:06:43Z] ERROR: rest: [pages/test.rst:3] Unknown target name: "[[video(http://pyar.usla.org.ar/comunidad001.ogv)]]".
+[2020-05-07T01:06:43Z] ERROR: rest: [pages/eventos/PyDay/2011/Cordoba/pythonsugaricaro.rst:18] Unknown target name: "[[video(http://pyar.usla.org.ar/icaro001.ogv)]]".
+[2020-05-07T01:06:43Z] ERROR: rest: [pages/eventos/PyDay/2011/Cordoba/pythontests.rst:18] Unknown target name: "[[video(http://pyar.usla.org.ar/test001.ogv)]]".
+[2020-05-07T01:06:44Z] ERROR: rest: [pages/eventos/PyDay/2011/Cordoba/comunidadanarquiasubversion.rst:18] Unknown target name: "[[video(http://pyar.usla.org.ar/comunidad001.ogv)]]".
+[2020-05-07T01:06:44Z] ERROR: rest: [pages/eventos/PyDay/2011/Cordoba/pythonpilas.rst:18] Unknown target name: "[[video(http://pyar.usla.org.ar/pilas001.ogv)]]".
+[2020-05-07T01:06:44Z] ERROR: rest: [pages/CharlasAbiertas2010/twisted.rst:14] Unknown target name: "[[video(http://pyar.usla.org.ar/final/twisted.ogv)]]".
