@@ -4,8 +4,8 @@ Indice
 
 * Eventos_
 	Aquí encontrarás información sobre las actividades que realizamos.
-* ListaDeCorreo_
-	Instrucciones para suscribirte a nuestra lista, hoy por hoy, nuestro principal canal de comunicación (feed rss disponible).
+* ForoYRedes_
+	Información sobre el foro (nuestro principal canal de comunicación) y otras redes sociales.
 * Proyectos_
 	Información sobre los proyectos que encaramos como grupo, o en los que participan nuestros miembros.
 * Recursos_
