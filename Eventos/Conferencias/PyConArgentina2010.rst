@@ -1,3 +1,0 @@
-
-Documento para buscar patrocinadores: 
-
