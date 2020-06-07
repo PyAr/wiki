@@ -1,3 +1,0 @@
-Red yeast rice powder is powder that has been fermented by the red yeast rice, monascus purpureus. Red yeast rice powder has been used by the Chinese for many centuries as a food preservative, food colorant (Red yeast rice powder is responsible for the red color of Peking duck), spice and ingredient in rice wine.
-Quality Herb’s production process and quality are in the industry advanced level, its global product portfolio spans more than a few hundred advanced products covering hyaluronic acid, horny goat weed extract, red yeast rice powder, white willow bark extract, kudzu root extract, white peony extract, resveratrol, bilberry extract, milk thistle extract.
-Website: http://www.qualityherb.net/product/red-yeast-rice-powder.html

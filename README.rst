@@ -1,12 +1,22 @@
 Este es el repositorio de los contenidos de la Wiki de Python Argentina
 
-| http://python.org.ar/wiki/
+| http://wiki.python.org.ar/
 
-Podés editar los contenidos (incluso agregar páginas) y proponer un pull request, que se 
-sincronizará automáticamente con la wiki una vez que sea mezclado. 
+Podés editar los contenidos (incluso agregar páginas) y proponer un pull request, que se
+sincronizará automáticamente con la wiki una vez que sea mezclado.
 
-La wiki de PyAr funciona con Waliki_
+Antes de clonar el repo, asegurate de tener instalado [Git LFS](https://git-lfs.github.com/)
 
+Pueden ver como colaborar en la página de `Cómo colaborar
+<https://github.com/PyAr/wiki/blob/nikola/pages/colaborandoenelwiki.rst>`__
 
-.. _Waliki: https://github.com/mgaitan/waliki
-  
+Cómo buildear las páginas
+=========================
+
+.. code-block:: console
+
+    pip install -U pip
+    pip install -r requirements.txt
+
+    nikola build
+    nikola serve
