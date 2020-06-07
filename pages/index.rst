@@ -4,8 +4,8 @@
     Información general sobre que es Python Argentina
 * Eventos_
     Aquí encontrarás información sobre las actividades que realizamos.
-* `Lista de correo`_
-    Instrucciones para suscribirte a nuestra lista, hoy por hoy, nuestro principal canal de comunicación (feed rss disponible).
+* `Foro y Redes`_
+	Información sobre el foro (nuestro principal canal de comunicación) y otras redes sociales.
 * Proyectos_
     Información sobre los proyectos que encaramos como grupo, o en los que participan nuestros miembros.
 * Recursos_
@@ -38,7 +38,7 @@
 
 .. _quiénes somos: /pyar
 .. _eventos: /eventos
-.. _lista de correo: /listadecorreo
+.. _foro y redes: /foro_y_redes
 .. _proyectos: /proyectos
 .. _recursos: /recursos
 .. _charlas: /charlas
