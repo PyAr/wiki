@@ -73,5 +73,25 @@ Python Argentina tiene presencia en las siguientes redes sociales:
 **LinkedIn**:  https://www.linkedin.com/groups/104084
 
 
+¿Por qué no Slack?
+------------------
+
+Estas son las principales desventajas que encontramos con Slack. Algunas de estas se repiten en otras soluciones, pero en general esto es por qué no vamos con esta plataforma, y elegimos otras:
+
+- Modelo de identidad fragmentado: hay que registrarse una vez por cada workspace, configurar las notificaciones en cada uno, etc
+
+- Hace falta un servicio externo para permitir registros sin invitación (`por ejemplo <https://communityinviter.com/>`__); lógico, ¡se pensó para empresas!
+
+- No tiene herramientas nativas de moderación (aunque quizás tenga alguna integración externa que permita esto)
+
+- La versión gratuita no conserva el histórico de mensajes
+
+- El modelo de threading es en ocasiones confuso
+
+- Es una empresa sujeta a las leyes de comercio de los Estados Unidos de América y eso puede hacer que usuarios de determinados países no puedan usar el servicio (además, es notorio cómo las empresas aplican estas leyes de manera desigual y muchas veces exagerada para cubrirse las espaldas, `por ejemplo <https://www.businessinsider.es/slack-apologizes-after-iranian-users-found-their-accounts-shut-down-2018-12?r=US&IR=T>`__)
+
+- Es software privativo y cerrado
+
+
 Para comunicarte con los administradores de Python Argentina, mandá un
 mensaje a ``admin@python.org.ar``.
