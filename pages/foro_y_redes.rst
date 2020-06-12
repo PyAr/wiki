@@ -93,5 +93,8 @@ Estas son las principales desventajas que encontramos con Slack. Algunas de esta
 - Es software privativo y cerrado
 
 
+Administradores
+===============
+
 Para comunicarte con los administradores de Python Argentina, mandá un
 mensaje a ``admin@python.org.ar``.
