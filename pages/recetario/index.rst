@@ -300,3 +300,4 @@ Divertidos
 
 * `Mini space invaders </recetario/fun/minispaceinvaders>`__: Un mini space invaders usando caracteres.
 
+* `Pasar reCAPTCHA </recetario/fun/pasarrecaptcha>`__: Consiste en hacer polling a una pestaña, y cuando aparezca "I'm not a robot", darle click a esa opción.
