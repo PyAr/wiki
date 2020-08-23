@@ -1,7 +1,7 @@
 .. title: GtkRichText
 
 
-Ejemplo sobre como mostrar texto con formato en un gtk.TextView, se crea una clase que extiende gtk.TextBuffer para facilitar la inserción de texto con formato.
+Ejemplo sobre cómo mostrar texto con formato en un gtk.TextView, se crea una clase que extiende gtk.TextBuffer para facilitar la inserción de texto con formato.
 
 .. code-block:: python
 
@@ -169,7 +169,7 @@ Ejemplo sobre como mostrar texto con formato en un gtk.TextView, se crea una cla
 
 .. image:: /images/Recetario/Gui/Gtk/RichText/GtkRichText.png
 
-mas info:
+Más información:
 
 * http://pygtk.org/docs/pygtk/
 

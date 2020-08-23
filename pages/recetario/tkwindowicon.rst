@@ -1,7 +1,7 @@
 .. title: tkWindowIcon
 
 
-Crea una ventana con Icono de ventana. Los archivos se pueden pasar a .XBM con Gimp.
+Crea una ventana con Ícono de ventana. Los archivos se pueden pasar a .XBM con Gimp.
 
 .. code-block:: python
 
@@ -21,7 +21,7 @@ Crea una ventana con Icono de ventana. Los archivos se pueden pasar a .XBM con G
     #
     root.mainloop()
 
-Si estamos en Windows es mejor usar la funcion iconbitmap('Icono.ico') que tambien se puede pasar la imagen a .ico con Gimp.
+Si estamos en Windows es mejor usar la función iconbitmap('Icono.ico') que también se puede pasar la imagen a .ico con Gimp.
 
 .. code-block:: python
 

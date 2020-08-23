@@ -1,11 +1,11 @@
 .. title: Multiprocessing y Threading
 
 
-en esta receta se muestra como hacer para correr algo en otro thread o proceso con pocos cambios y como lograr comunicacion entre ellos.
+En esta receta se muestra cómo hacer para correr algo en otro thread o proceso con pocos cambios y cómo lograr comunicación entre ellos.
 
-notar que el pid de quien lanza doer es distinto al que imprime doer
+Notar que el pid de quién lanza doer es distinto al que imprime doer
 
-ejemplo con multiprocessing
+Ejemplo con Multiprocessing
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. code-block:: python
@@ -101,12 +101,12 @@ corriendolo tenemos el resultado
    state: hola!
    pid: 11785
 
-ejemplo con threading
+Ejemplo con Threading
 ~~~~~~~~~~~~~~~~~~~~~
 
-para hacerlo andar con threading hay que solo cambiar de donde importamos las cosas, aquí esta la diferencia:
+Para hacerlo andar con threading hay que solo cambiar de donde importamos las cosas, aquí esta la diferencia:
 
-notar que el pid de quien lanza doer es igual al que imprime doer
+Notar que el pid de quién lanza doer es igual al que imprime doer.
 
 .. code-block:: diff
 

@@ -5,7 +5,7 @@ Crear un Widget de Canvas tipo Display LCD Digital de 7 Segmentos.
 
 Toma los sys.argv, tiene punto, tiene guion de negativo, tiene import con wilcard *(ups!)*.
 
-Util para importarlo dentro de otro programa para representar otras cosas.
+Útil para importarlo dentro de otro programa para representar otras cosas.
 
 **Screenshot:**
 

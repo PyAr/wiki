@@ -1,7 +1,7 @@
 .. title: tkOnLineOffLineIcon
 
 
-Crea un icono que cambia de estado segun si se esta o no conectado a Internet. Notar que se pueden cambiar mas propiedades del boton que las que este simpl ejemplo cambia.
+Crea un ícono que cambia de estado según si se esta o no conectado a Internet. Notar que se pueden cambiar más propiedades del botón que las que este simple ejemplo cambia.
 
 .. code-block:: python
 

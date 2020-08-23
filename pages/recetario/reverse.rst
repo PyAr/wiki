@@ -1,7 +1,7 @@
 .. title: Reverse (a.k.a. "esrever")
 
 
-* Una humilde funcion para dar vuelta los caracteres usando Python, letras o numeros, ejemplo simple.
+* Una humilde función para dar vuelta los caracteres usando Python, letras o números, ejemplo simple.
 
 .. code-block:: python
 

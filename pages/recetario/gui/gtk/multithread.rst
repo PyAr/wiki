@@ -1,7 +1,7 @@
 .. title: GtkMultiThread
 
 
-Ejemplo de como manipular la api desde multiples threads sin usar locks. Compare con el `otro ejemplo`_ que no utiliza colas.
+Ejemplo de cómo manipular la api desde múltiples threads sin usar locks. Compare con el `otro ejemplo`_ que no utiliza colas.
 
 .. code-block:: python
 

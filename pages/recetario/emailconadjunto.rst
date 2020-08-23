@@ -4,7 +4,7 @@
 Descripción
 :::::::::::
 
-Esta receta es un ejemplo sencillo de como enviar un email, con una parte de texto y otra binaria (adjunto)
+Esta receta es un ejemplo sencillo de cómo enviar un email, con una parte de texto y otra binaria (adjunto)
 
 Ejemplo:
 ::::::::

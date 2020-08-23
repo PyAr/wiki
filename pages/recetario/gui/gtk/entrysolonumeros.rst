@@ -1,7 +1,7 @@
 .. title: GtkEntrySoloNumeros
 
 
-Este ejemplo muestra como permitir el ingreso de solo números en un gtk.Entry, a través de la señal insert-text_ de gtk.Editable (clase de la que hereda gtk.Entry) y usando el método stop_emission_ de gobject para vitar que la señal se propague y sea manejada por el handler por defecto para la señal (que es el que inserta el carácter en el widget)
+Este ejemplo muestra como permitir el ingreso de solo números en un gtk.Entry, a través de la señal insert-text_ de gtk.Editable (clase de la que hereda gtk.Entry) y usando el método stop_emission_ de gobject para evitar que la señal se propague y sea manejada por el handler por defecto para la señal (que es el que inserta el carácter en el widget)
 
 .. image:: /images/Recetario/Gui/Gtk/EntrySoloNumeros/Only%20numbers.png
 

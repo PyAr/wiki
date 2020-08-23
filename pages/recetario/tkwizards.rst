@@ -1,11 +1,11 @@
 .. title: TK Wizards
 
 
-Crea un Wizard amigable para actividades o previo de instalaciones, con multiples paginas, del tipo "siguiente, siguiente *(...)* Terminar"
+Crea un Wizard amigable para actividades o previo de instalaciones, con múltiples páginas, del tipo "siguiente, siguiente *(...)* Terminar"
 
-Sacando todo el codigo necesario para generar el Wizard en si mismo, agregar nuevas paginas es simple.
+Sacando todo el código necesario para generar el Wizard en sí mismo, agregar nuevas páginas es simple.
 
-Las paginas pueden contener cualquier widget, en este ejemplo solo se usa 1 label por cada una.
+Las páginas pueden contener cualquier widget, en este ejemplo solo se usa 1 label por cada una.
 
 **Screenshot:**
 

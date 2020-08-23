@@ -1,7 +1,7 @@
 .. title: Hola Mundo Bottle
 
 
-* Como hacer un hola mundo en Bottle_, ejemplo simple.
+* Cómo hacer un hola mundo en Bottle_, ejemplo simple.
 
 .. code-block:: python
 
@@ -32,7 +32,7 @@
 
 
 
-* Mejorando nuestro  hola mundo en Bottle_, ejemplo mas completo, ideal para Plantilla para una App nueva.
+* Mejorando nuestro  hola mundo en Bottle_, ejemplo más completo, ideal para Plantilla para una App nueva.
 
 .. code-block:: python
 
@@ -89,7 +89,7 @@
         main()
 
 
-*Nota: Hay mas Features en* Bottle_*, pero eso es suficiente para un Hola Mundo completo y didactico.*
+*Nota: Hay más Features en* Bottle_*, pero eso es suficiente para un Hola Mundo completo y didáctico.*
 
 *Disclaimer: el uso o no de SheBang/Declaracion de Encoding queda a criterio del usuario.*
 

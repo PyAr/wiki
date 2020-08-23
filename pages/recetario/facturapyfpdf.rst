@@ -4,7 +4,7 @@
 Descripción
 :::::::::::
 
-Esta receta es un ejemplo sencillo de como generar una factura en PDF utilizando la libreria PyFpdf (port de FPDF para python).
+Esta receta es un ejemplo sencillo de cómo generar una factura en PDF utilizando la libreria PyFpdf (port de FPDF para python).
 
 Para más detalles sobre la libreria PyFpdf y bajar una versión actualizada y mejorada, ir a: `sito del proyecto`_ (incluye este ejemplo)
 

@@ -1,7 +1,7 @@
 .. title: Gtk Auto Complete
 
 
-ejemplo de campo de texto con auto complesion
+Ejemplo de campo de texto con auto completación.
 
 .. code-block:: python
 

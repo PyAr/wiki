@@ -1,7 +1,7 @@
 .. title: Alarma Precaria
 
 
-Alarma mínima y básica de linea de comandos.
+Alarma mínima y básica de línea de comandos.
 
 .. code-block:: python
 
@@ -67,7 +67,7 @@ Hay un par de cambios triviales para hacerle: se puede reemplazar el not_execute
 DanielMoisset
 ~~~~~~~~~~~~~
 
-Yo prefiero no scar cuentas de fecha a mano, y en vez que datetime haga el trabajo sucio. Sobre todo porque maneja mejor casos delicados (que pasa si pongo la alarma justo antes de un cambio a horario de verano?) sin tener que pensarlos
+Yo prefiero no sacar cuentas de fecha a mano, y en vez que datetime haga el trabajo sucio. Sobre todo porque maneja mejor casos delicados (que pasa si pongo la alarma justo antes de un cambio a horario de verano?) sin tener que pensarlos
 
 .. code-block:: python
 
@@ -97,7 +97,7 @@ Juancarlospaco
 
 
 
-A esta altura creo que es mas importante agregar el correcto coloreado de sintaxis y cuidar la ortografia, a discutir si poner o no el encoding y el shebang. La idea es que las recetas sean genericas, con ese encoding y ese shebang, no cubris todos los casos. Pej, copias y pegas, y tu editor guarda en latin1??
+A esta altura creo que es más importante agregar el correcto coloreado de sintaxis y cuidar la ortografía, a discutir si poner o no el encoding y el shebang. La idea es que las recetas sean genéricas, con ese encoding y ese shebang, no cubris todos los casos. Pej, copias y pegas, y tu editor guarda en latin1??
 
 Si funciona con:
 
@@ -106,7 +106,7 @@ Si funciona con:
     usuario@maquina: ~$ python receta.py
 
 
-Es mas que suficiente. -- JoaquinSorianello_ `2010-11-08T10:56:40-0300`
+Es más que suficiente. -- JoaquinSorianello_ `2010-11-08T10:56:40-0300`
 
 .. _joaquinsorianello: /joaquinsorianello
 .. _categoryrecetas: /categoryrecetas

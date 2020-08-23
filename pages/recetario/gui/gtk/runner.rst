@@ -1,11 +1,11 @@
 .. title: GtkRunner
 
 
-ejemplo de como correr funciones que demoran sin bloquear la ui y obtener los resultados en el thread de gtk
+Ejemplo de cómo correr funciones que demoran sin bloquear la ui y obtener los resultados en el thread de gtk
 
-lo que tienen que reusar es la clase *GtkRunner*
+Lo que tienen que reusar es la clase *GtkRunner*
 
-simplemente la llaman pasandole:
+Simplemente la llaman pasándole:
 
 * callback función o método que va a ser llamado en el main thread una vez que la función que demora termine
 
@@ -15,9 +15,9 @@ simplemente la llaman pasandole:
 
 * de 0 a n argumentos nombrados que serán pasados a func en la llamada
 
-func(\*args, \*\*kwargs) sera llamada en un thread aparte el cual sera monitoreado periódicamente por su finalizacion, una vez terminado llamara a callback pasandole una tupla cuyo primer elemento es True si la función termino con éxito y False si la función lanzo una excepción. El segundo elemento de la tupla es el valor retornado por la función si tuvo éxito o la excepción lanzada en caso que haya fallado.
+func(\*args, \*\*kwargs) será llamada en un thread aparte el cuál será monitoreado periódicamente por su finalizacion. Una vez terminado llamará a callback pasándole una tupla cuyo primer elemento es True sí la función terminó con éxito y False sí la función lanzó una excepción. El segundo elemento de la tupla es el valor retornado por la función sí tuvo éxito o la excepción lanzada en caso que haya fallado.
 
-obviamente en la función esa no pueden correr código relacionado con gtk
+Obviamente en la función esa no pueden correr código relacionado con gtk.
 
 .. code-block:: python
 

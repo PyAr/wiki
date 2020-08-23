@@ -11,7 +11,7 @@ Código
     >>> mailsrch.findall(texto)
 
 
-El código anterior devuelve una lista de strings, donde cada string es una dirección de email. El texto original puede contener basura como espcios, comas u otros caracteres.
+El código anterior devuelve una lista de strings, donde cada string es una dirección de email. El texto original puede contener basura como espacios, comas u otros caracteres.
 
 Ahora podemos `atrapar al asesino`_ sin recurrir a Perl!!
 

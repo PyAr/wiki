@@ -1,7 +1,7 @@
 .. title: Emulador de terminal con Gtk y VTE
 
 
-un ejemplo de como hacer una terminal visual al estilo gnome-terminal
+Un ejemplo sobre cómo hacer una terminal visual al estilo gnome-terminal
 
 .. image:: /images/Recetario/Gui/Gtk/EmuladorTerminal/pyshell.png
 

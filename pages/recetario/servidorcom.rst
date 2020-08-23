@@ -4,9 +4,9 @@
 Descripción
 :::::::::::
 
-Esta receta es un ejemplo de como crear un Servidor COM_ para poder exponer nuestros objetos Python y así accederlos desde otros lenguajes (Visual Basic, Visual Fox Pro, PHP, Java, .NET, etc.)
+Esta receta es un ejemplo de cómo crear un Servidor COM_ para poder exponer nuestros objetos Python y así accederlos desde otros lenguajes (Visual Basic, Visual Fox Pro, PHP, Java, .NET, etc.)
 
-Esto nos permite utilizar las características de Python facilmente desde otros entornos, posibilitando extender o adaptar código ya desarrollado en otros lenguajes.
+Esto nos permite utilizar las características de Python fácilmente desde otros entornos, posibilitando extender o adaptar código ya desarrollado en otros lenguajes.
 
 Es necesario instalar `Extensiones Win32`_ (ver Bibliografia_)
 
@@ -17,7 +17,7 @@ El ejemplo en Python (miservidorcom.py) registra un objeto python MiMiniInterpre
 
 * Atributo Version: almacena la versión del interprete
 
-* Método Evaluar: evalua la expresión python recibida y devuelve su resultado
+* Método Evaluar: evalua la expresión Python recibida y devuelve su resultado.
 
 Archivo miservidorcom.py
 

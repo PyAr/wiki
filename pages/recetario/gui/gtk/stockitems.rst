@@ -1,9 +1,9 @@
 .. title: Gtk stock items
 
 
-ejemplo que muestra todos los iconos stock de gtk con su respectivo nombre
+Ejemplo que muestra todos los íconos stock de gtk con su respectivo nombre.
 
-un screenshot:
+Un screenshot:
 
 .. image:: /images/Recetario/Gui/Gtk/StockItems/stock-gtk.png
 

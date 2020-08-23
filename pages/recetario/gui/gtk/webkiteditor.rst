@@ -1,11 +1,11 @@
 .. title: Gtk Webkit Editor
 
 
-ejemplo de como usar webkit para editar paginas HTML como si fuera un editor
+Ejemplo de cómo usar webkit para editar páginas HTML como si fuera un editor.
 
-para probarlo correlo, entra una direccion que empiece con http://, hace foco en alguna parte de la pagina y ponete a tipear como si fuera un editor de texto comun.
+Para probarlo correlo, entra una dirección que empiece con http://, hace foco en alguna parte de la página y ponete a tipear como si fuera un editor de texto común.
 
-un ejemplo de su uso (tarea del autor encontrar los cambios 😉
+Un ejemplo de su uso (tarea del autor encontrar los cambios 😉).
 
 .. image:: /images/Recetario/Gui/Gtk/WebkitEditor/webkit.png
 
@@ -61,7 +61,7 @@ un ejemplo de su uso (tarea del autor encontrar los cambios 😉
         gtk.main()
 
 
-Tengan en cuenta que en Ubuntu inferior 10.04 python-webkit en gtk nececita SI o SI llamar a "gtk.gdk.threads_init()", si no tira error:
+Tengan en cuenta que en Ubuntu inferior 10.04 python-webkit en gtk nececita SI o SI llamar a "gtk.gdk.threads_init()", sino tira error:
 
 .. code-block:: console
 
@@ -69,7 +69,7 @@ Tengan en cuenta que en Ubuntu inferior 10.04 python-webkit en gtk nececita SI o
    aborting...
    Cancelado
 
-Entonces deberan agregar un "gtk.gdk.threads_init()" antes de llamar a "EditorWindow_()", el final del codigo les quedara de la siguiente manera:
+Entonces deberán agregar un "gtk.gdk.threads_init()" antes de llamar a "EditorWindow_()". El final del código les quedará de la siguiente manera:
 
 .. code-block:: python
 

@@ -1,9 +1,9 @@
 .. title: Como Levantar Un Servidor Http Multithread
 
 
-este ejemplo muestra como levantar un servidor web en python sirviendo el contenido del directorio actual utilizando threads para manejar las solicitudes.
+Este ejemplo muestra cómo levantar un servidor web en Python sirviendo el contenido del directorio actual utilizando threads para manejar las solicitudes.
 
-para usar simplemente hay que llamar a este modulo desde la linea de comando, si se llamara test.py entonces correr "python test.py"
+Para usarlo, simplemente hay que llamar a este módulo desde la línea de comando, si se llamara test.py entonces correr "python test.py"
 
 .. code-block:: python
 

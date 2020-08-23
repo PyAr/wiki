@@ -1,7 +1,7 @@
 .. title: Qt Imprimir Pagina Web a PDF
 
 
-ejemplo de como imprimir una pagina web a pdf
+Ejemplo de cómo imprimir una página web a pdf.
 
 .. code-block:: python
 

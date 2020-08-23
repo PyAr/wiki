@@ -7,7 +7,7 @@
 
 Este script permite enviar emails a través de GMail. Los emails pueden tener texto plano, HTML y archivos adjuntos (todos opcionales).
 
-**Nota:** :small:`el script lo escribí originalmente en inglés. Debería entenderse, pero pienso traducirlo cuando tenga algo más de tiempo.`
+**Nota:** :small:`El script lo escribí originalmente en inglés. Debería entenderse, pero pienso traducirlo cuando tenga algo más de tiempo.`
 
 **Archivo:** GmailMail.py
 

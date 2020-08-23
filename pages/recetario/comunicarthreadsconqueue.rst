@@ -1,7 +1,7 @@
 .. title: Comunicar threads con colas
 
 
-El siguiente ejemplo muestra como se pueden comunicar threads a traves de cola y como se puede utilizar las caracteristicas de las colas para hacer que un hilo solo trabaje cuando hay algo para hacer.
+El siguiente ejemplo muestra cómo se pueden comunicar threads a traves de cola y como se puede utilizar las características de las colas para hacer que un hilo solo trabaje cuando hay algo para hacer.
 
 En el ejemplo se crean 2 clases:
 
@@ -72,15 +72,15 @@ En el ejemplo se crea un hilo Reader, un Writer, se inicializan ambos y se conec
    if __name__ == '__main__':
       test()
 
-En este ejemplo, los hilos estan dormidos y solo se despiertan cuando hay algo que hacer, lo hacen y se vuelven a bloquear.
+En este ejemplo, los hilos están dormidos y solo se despiertan cuando hay algo que hacer, lo hacen y se vuelven a bloquear.
 
-  Usando esta estrategia nos queda el hilo principal libre para hacer lo que queramos (por ejemplo el main loop de un widget toolkit) el cual no se vera bloqueado por el trabajo realizado por los hilos.
+  Usando esta estrategia nos queda el hilo principal libre para hacer lo que queramos (por ejemplo el main loop de un widget toolkit) el cual no se verá bloqueado por el trabajo realizado por los hilos.
 
-Mas info sobre el modulo Queue: https://docs.python.org/current/library/queue.html
+Más info sobre el módulo Queue: https://docs.python.org/current/library/queue.html
 
 Asynchronous Queue a partir de Python 3.4:  https://docs.python.org/current/library/asyncio-queue.html
 
-la salida obtenida ejecutando el archivo:
+La salida obtenida ejecutando el archivo:
 
 ::
 

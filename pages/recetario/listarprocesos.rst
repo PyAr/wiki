@@ -1,9 +1,9 @@
 .. title: Listar Procesos
 
 
-Esta receta muestra una forma de listar procesos en python que soporta múltiples sistemas operativos
+Esta receta muestra una forma de listar procesos en Python que soporta múltiples sistemas operativos
 
-En el ejemplo se muestra como listar información sobre los procesos corriendo bajo el usuario "root"
+En el ejemplo se muestra cómo listar información sobre los procesos corriendo bajo el usuario "root"
 
 Hace falta instalar la libreria psutil_, disponible en aqui_. Hay paquetes para Debian_ y Ubuntu_, python-psutil.
 

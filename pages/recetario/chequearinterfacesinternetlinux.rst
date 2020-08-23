@@ -1,6 +1,6 @@
 .. title: Chequear interfaces internet linux
 
-Si te esta pasa que necesitas saber porque placa de red tenes internet en Gnu/Linux con Python ? bueno, por ahi esto te sirve 🙂
+Si te esta pasando que necesitas saber ¿en qué placa de red tenés internet en Gnu/Linux con Python ? Bueno, por ahí esto te sirve 🙂
 
 .. code-block:: python
 
@@ -251,7 +251,7 @@ Si te esta pasa que necesitas saber porque placa de red tenes internet en Gnu/Li
         return recheable
 
 
-Ejemplitos de como se usa:
+Ejemplitos de cómo se usa:
 
 .. code-block:: python
 

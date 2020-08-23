@@ -1,14 +1,14 @@
 .. title: Creando un nuevo proyecto Python
 
 
-Así que querés comenzar un nuevo proyecto usando Python? ¡Felicitaciones! ¿Querés que tenga la estructura recomendada para proyectos modernos? ¿queres que sea instalable fácilmente? ¿Querés que no se te arme lio de dependencias que colisionan con las de otros proyectos ? Bien, te propongo esta receta.
+Así que querés comenzar un nuevo proyecto usando Python? ¡Felicitaciones! ¿Querés que tenga la estructura recomendada para proyectos modernos? ¿querés que sea instalable fácilmente? ¿Querés que no se te arme lio de dependencias que colisionan con las de otros proyectos ? Bien, te propongo esta receta.
 
 Las herramientas
 ----------------
 
 Virtualenv_ es una herramienta para aislar tu entorno de desarrollo python. Es muy pero muy útil para evitar conflictos entre las dependencias de tus distintos proyectos.
 
-virtualenvwrapper_ es un conjunto de extensiones que hacen la vida del usuario *virtualenv* aun más feliz, permitiendo crear y borrar entornos virtuales, asociarlos a un proyecto, automatizar tareas al activar o desactivar uno, etc.
+virtualenvwrapper_ es un conjunto de extensiones que hacen la vida del usuario *virtualenv* aún más feliz, permitiendo crear y borrar entornos virtuales, asociarlos a un proyecto, automatizar tareas al activar o desactivar uno, etc.
 
 pip_ es la herramienta moderna, correcta y recomendada para administrar los paquetes python instalados en tu sistema/virtualenv. Es un reemplazo de *easy_install*
 

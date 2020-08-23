@@ -1,7 +1,7 @@
 .. title: GtkHolaMundoOO
 
 
-ejemplo que hace lo mismo que GtkHolaMundo_ pero orientado a objetos
+Ejemplo que hace lo mismo que GtkHolaMundo_ pero orientado a objetos.
 
 .. image:: /images/Recetario/Gui/Gtk/HolaMundoOO/Hola%20mundo%20oo.png
 

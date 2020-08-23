@@ -1,19 +1,19 @@
 .. title: Gtk Browser Con Web Inspector
 
 
-esta receta va mas alla del "navegador en python en N lineas" (donde N < 30)
+Esta receta va más allá del "navegador en python en N lineas" (donde N < 30).
 
-en este caso vemos como agregar el web inspector para inspeccionar y debuggear la pagina que estamos viendo
+En este caso vemos cómo agregar el web inspector para inspeccionar y debuggear la página que estamos viendo.
 
-el resultado al principio es algo asi:
+El resultado al principio es algo así:
 
 .. image:: /images/Recetario/Gui/Gtk/BrowserConWebInspector/brser1.png
 
-luego de hacer click derecho en la pagina y hacer click en "Inspect Element" tenemos algo asi:
+Luego de hacer click derecho en la página y hacer click en "Inspect Element" tenemos algo así:
 
 .. image:: /images/Recetario/Gui/Gtk/BrowserConWebInspector/brser2.png
 
-el codigo:
+El código:
 
 .. code-block:: python
 

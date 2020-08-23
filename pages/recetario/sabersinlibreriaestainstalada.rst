@@ -1,7 +1,7 @@
 .. title: Saber si N libreria esta instalada
 
 
-Como saber si N libreria esta instalada SIN ingresar al interprete de Python, funciona en la Bash de Linux.
+Cómo saber si N librería está instalada SIN ingresar al intérprete de Python. Funciona en la Bash de Linux.
 
 .. code-block:: bash
 

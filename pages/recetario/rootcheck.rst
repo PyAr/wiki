@@ -3,7 +3,7 @@
 
 Comprobar si somos o no root y actuar en funcion de eso, ideal medida de seguridad.
 
-* Toda aplicacion que NO requiera privilegios elevados no deberia poder ejecutarse como root.
+* Toda aplicación que NO requiera privilegios elevados no debería poder ejecutarse como root.
 
 .. code-block:: python
 

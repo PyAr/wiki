@@ -1,12 +1,12 @@
 .. title: GtkGladeHolaMundoOO
 
 
-ejemplo que carga la interfaz de un archivo .glade y lo muestra, el archivo .glade puede tener cualquier contenido mientras la ventana tenga el nombre "ventana"
+Ejemplo que carga la interfaz de un archivo .glade y lo muestra, el archivo .glade puede tener cualquier contenido mientras la ventana tenga el nombre "ventana"
 
 gtk-glade-holamundo.glade
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-copiar el contenido siguiente a un archivo llamado **gtk-glade-holamundo.glade** el archivo fue editado con glade-3_.
+Copiar el contenido siguiente a un archivo llamado **gtk-glade-holamundo.glade** el archivo fue editado con glade-3_.
 
 .. code-block:: xml
 
@@ -30,7 +30,7 @@ copiar el contenido siguiente a un archivo llamado **gtk-glade-holamundo.glade**
     </glade-interface>
 
 
-el codigo para el ejemplo es el siguiente
+El código para el ejemplo es el siguiente:
 
 .. code-block:: python
 

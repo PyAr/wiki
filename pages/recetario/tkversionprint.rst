@@ -1,7 +1,7 @@
 .. title: tkVersionPrint
 
 
-Imprime la version de TK que se esta usando actualmente.
+Imprime la versión de TK que se está usando actualmente.
 
 .. code-block:: python
 

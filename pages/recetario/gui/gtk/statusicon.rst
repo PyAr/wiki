@@ -1,7 +1,7 @@
 .. title: GtkStatusIcon
 
 
-Aplicación con ícono en el area de notificaciones.
+Aplicación con ícono en el área de notificaciones.
 
 Tiene un menú contextual (About/Quit) y con el botón izquierdo abre una ventana simple.
 
