@@ -4,7 +4,7 @@
 (Crazy Allocator)
 -----------------
 
-Un juego en 53kb de puro codigo python y pygame. Hecho para pydraw2006_
+Un juego en 53 KB de puro código Python y pygame. Hecho para pydraw2006_
 
 https://opensvn.csie.org/PyAr/pydraw2006/release/
 

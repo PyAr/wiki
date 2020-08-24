@@ -59,7 +59,7 @@ Y también los MiniEjemplos_ son una forma de mostrar las capacidades del lengua
 ¿Qué puedo esperar de PyAr en el futuro?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Qué el grupo crezca, se consolide y organice formalmente. Que podamos brindar aportes útiles a la sociedad, tales como una *Bolsa de Empleos* relacionados con Python. Que podamos asesorar a empresas en la utilización de Python. Que comencemos a organizar eventos y seminarios en universidades, foros y empresas. Que promovamos sprints periódicos en los que podamos desarrollar o mejorar productos de software. Que nos contactemos con otros grupos de usuarios de Latinoamérica, y coordinemos esfuerzos con ellos. .. _SPRINT:
+Qué el grupo crezca, se consolide y organice formalmente. Qué podamos brindar aportes útiles a la sociedad, tales como una *Bolsa de Empleos* relacionados con Python. Qué podamos asesorar a empresas en la utilización de Python. Qué comencemos a organizar eventos y seminarios en universidades, foros y empresas. Qué promovamos sprints periódicos en los que podamos desarrollar o mejorar productos de software. Qué nos contactemos con otros grupos de usuarios de Latinoamérica, y coordinemos esfuerzos con ellos. .. _SPRINT:
 
 
 
@@ -82,12 +82,12 @@ En la sección ContribuyendoAlWiki_ vas a encontrar todo (**todo** se refiere a 
 ¿Cómo colaboro con ésta lista de preguntas?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Hay otras preguntas todavía sin respuesta, similares a éstas, que son sobre temas que tratamos varias veces en la lista de correo, pero aun a nadie las pasó acá. Si estás interesado y tenés usuario en el wiki, adelante. Sinó, fijate como en la pregunta anterior.
+Hay otras preguntas todavía sin respuesta, similares a éstas, que son sobre temas que tratamos varias veces en la lista de correo, pero aún a nadie las pasó acá. Si estás interesado y tenés usuario en el wiki, adelante. Sinó, fijate como en la pregunta anterior.
 
-¿Por que Python y PyAr son como son?
+¿Por qué Python y PyAr son como son?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Que pregunta. Algunas respuestas pueden inferirse del PythonZen_
+Qué pregunta. Algunas respuestas pueden inferirse del PythonZen_
 
 Sobre Python (el Lenguaje)
 --------------------------
@@ -143,7 +143,7 @@ Otro
       # es una expresión generadora, y su única forma de
       # acceder a "escala" es a través de la celda
 
-Es importante saber cuáles de nuestras variables son celdas y cuáles simplemente locales, porque la sintaxis de python nos prohíbe borrar celdas, no así variables locales:
+Es importante saber cuáles de nuestras variables son celdas y cuáles simplemente locales, porque la sintaxis de Python nos prohíbe borrar celdas, no así variables locales:
 
 .. code-block:: python
 
@@ -162,7 +162,7 @@ Nótese que en *f*, x no es una celda porque ocurre en una expresión de lista p
 ¿Qué son los ''fastlocals''?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-La documentación de python sólo menciona un *scope lógico local*, el "local".  Tiene sentido, puesto que las variables son o locales, o globales, o celdas (ver pregunta anterior).
+La documentación de Python sólo menciona un *scope lógico local*, el "local".  Tiene sentido, puesto que las variables son o locales, o globales, o celdas (ver pregunta anterior).
 
 Las variables locales todos las conocemos:
 
@@ -236,12 +236,12 @@ O sea que cosas como esta no van a funcionar:
 Sobre Python (el intérprete)
 ----------------------------
 
-¿Cuales son los intérpretes que puedo usar?
+¿Cuáles son los intérpretes que puedo usar?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Las opciones disponibles son:
 
-* La consola interactiva por defecto de python (viene con la instalación, solo hay que escribir python)
+* La consola interactiva por defecto de Python (viene con la instalación, solo hay que escribir Python).
 
 * IDLE_
 
@@ -252,11 +252,11 @@ Las opciones disponibles son:
 ¿Cómo puedo configurar mi intérprete para que sea más amigable?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Si estás usando el intérprete interactivo por defecto de python, se recomienda leer los siguientes artículos:
+Si estás usando el intérprete interactivo por defecto de Python, se recomienda leer los siguientes artículos:
 
-* AutocomplecionEnConsolaInteractiva_: Explica como agregar autocomplecion de metodos y atributos con tab en la consola interactiva
+* AutocomplecionEnConsolaInteractiva_: Explica cómo agregar autocompletado de métodos y atributos con tab en la consola interactiva.
 
-* GuardarHistorialEnConsolaInteractiva_: Explica como guardar el historial de comandos entre sesiones en la consola interactiva.
+* GuardarHistorialEnConsolaInteractiva_: Explica cómo guardar el historial de comandos entre sesiones en la consola interactiva.
 
 * `recursos externos`_
 
@@ -416,7 +416,7 @@ La respuesta que le dio MartinBothiry es hacer:
 ¿Uso el modulo array o listas?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-SebastianBassi_ pregunto en este hilo: http://mx.grulic.org.ar/lurker/thread/20090803.144308.0aabeb1b.en.html
+SebastianBassi_ preguntó en este hilo: http://mx.grulic.org.ar/lurker/thread/20090803.144308.0aabeb1b.en.html
 
 sobre en qué casos convenia usar el módulo de la librería estándar array por sobre una lista común.
 

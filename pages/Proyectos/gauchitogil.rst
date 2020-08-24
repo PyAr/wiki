@@ -38,7 +38,7 @@ Bibliografía
 
 * Lucio Dixit:
 
-    *Eso nomás para ir tirando una idea de herramientas (o conceptos de herramientas, [comentario por las colas MQ, que no vamos a comprar]) que se pueden dar al momento de hacer la aplicación basada en nuestro gateway. Para mí la idea sería hacer mas que solo un protocolo de send-SMS/MMS (aunque eso tiene que estar). Sino crear una suite de herramientas para hacer aplicaciones con eso.*
+    *Eso nomás para ir tirando una idea de herramientas (o conceptos de herramientas, [comentario por las colas MQ, que no vamos a comprar]) que se pueden dar al momento de hacer la aplicación basada en nuestro gateway. Para mí la idea sería hacer más que solo un protocolo de send-SMS/MMS (aunque eso tiene que estar). Sino crear una suite de herramientas para hacer aplicaciones con eso.*
 
 Workflows
 ---------

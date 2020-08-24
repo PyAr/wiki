@@ -39,7 +39,7 @@ Introducción a Python
 
 **Slides:** https://github.com/dmoisset/slides/tree/master/intro-python
 
-En formato Markdown para usar con Landslide_); y HTML5
+En formato Markdown para usar con Landslide_ y HTML5.
 
 -------------------------
 
@@ -114,7 +114,7 @@ Programando para la OLPC
 Testeos automáticos de seguridad (mediante simulación de ataques)
 -----------------------------------------------------------------
 
-(Esta charla no tiene demasiado de Python. La intención era mostrar una aplicación real donde se use Python y comentar un poco los pro y contras)
+(Esta charla no tiene demasiado de Python. La intención era mostrar una aplicación real donde se use Python y comentar un poco los pro y contras).
 
 *Matias Eissler*, *Alejandro David Weil*
 
@@ -151,7 +151,7 @@ Hacer un juego es fácil
 
 *Daniel F. Moisset*
 
-**Slides:** `juego-facil-20080822.tar.gz`_ (se ejecuta en python, incluye bibliotecas)
+**Slides:** `juego-facil-20080822.tar.gz`_ (se ejecuta en python, incluye bibliotecas).
 
 -------------------------
 
@@ -162,7 +162,7 @@ Hacer un juego es fácil
 
 *Héctor Karucha Sanchez, Juan Manuel Schillaci, Christian Andres*
 
-**Slides:** http://code.google.com/p/charla-wii-mote/ (se baja por svn, y se ejecuta en python)
+**Slides:** http://code.google.com/p/charla-wii-mote/ (se baja por svn, y se ejecuta en Python).
 
 -------------------------
 
@@ -173,7 +173,7 @@ Actividades y juegos educativos para la OLPC
 
 *Héctor Karucha Sanchez, Alejandro J. Cura, Manuel Kaufmann*
 
-**Slides:** http://code.google.com/p/charla-pygame/ (se baja por svn, y se ejecuta en python)
+**Slides:** http://code.google.com/p/charla-pygame/ (se baja por svn, y se ejecuta en Python).
 
 -------------------------
 
@@ -190,7 +190,7 @@ Factura Electrónica en Python e interfaces a otros lenguajes
 
 
 
-Introducción a Python 2da. parte (Librería Estandar, Bases de datos, Aplicaciones, Interfases, etc.)
+Introducción a Python 2da. parte (Librería Estándar, Bases de datos, Aplicaciones, Interfases, etc.)
 ----------------------------------------------------------------------------------------------------
 
 *Mariano Reingart*
@@ -238,7 +238,7 @@ MyHDL, de Python al silicio
     MyHDL permite reemplazarlos programando en Python, pudiendo simular
     y hacer test de manera mucho más fácil. Incluso se puede obtener
     código en lenguajes HDL sintetizables y hacer tu sueño
-    realidad: ¡hacer hardware con Python!
+    realidad: ¡hacer hardware con Python!.
 
 :diapositivas: http://mgaitan.github.com/myhdl-talk/
 :repo: http://github.com/mgaitan/myhdl-talk/
@@ -253,23 +253,23 @@ MarianoReingart_
 
 **Slides:**
 
-* `Parte 1`_: Introducción a Python: ¿Que es python?; ¿Por que python?; Instalación; Herramientas Básicas; "Hola Mundo"; El Interprete; Estructura Básica; Tipos de datos simples; Tipos de datos compuestos; Control de Flujo; Funciones, Clases y Objetos; Excepciones; Modulos, paquetes y espacios de nombre; Archivos
+* `Parte 1`_: Introducción a Python: ¿Qué es Python?; ¿Por qué Python?; Instalación; Herramientas Básicas; "Hola Mundo"; El Intérprete; Estructura Básica; Tipos de datos simples; Tipos de datos compuestos; Control de Flujo; Funciones, Clases y Objetos; Excepciones; Módulos, paquetes y espacios de nombre; Archivos.
 
-* `Parte 2`_: Introducción a la Biblioteca Estándar: sys, time, re, StringIO, datetime, decimal, random, math, os, subprocess, threading, processing, socket, asyncore, urllib2, httplib, BaseHTTPServer, HTMLParser, base64, json, smtplib, email, poplib, imaplib, smtpd, ftplib, csv, xml.dom.minidom, struct, zlib, zipfile, logging, pdb, doctest, unittest
+* `Parte 2`_: Introducción a la Biblioteca Estándar: sys, time, re, StringIO, datetime, decimal, random, math, os, subprocess, threading, processing, socket, asyncore, urllib2, httplib, BaseHTTPServer, HTMLParser, base64, json, smtplib, email, poplib, imaplib, smtpd, ftplib, csv, xml.dom.minidom, struct, zlib, zipfile, logging, pdb, doctest, unittest .
 
-* `Parte 3`_: Persistencia y Bases de Datos: Pickle, Shelve, DbApi_: SQLite_, MySql_, PostgreSql_, PlPython_. Ejemplo práctico: Universidad
+* `Parte 3`_: Persistencia y Bases de Datos: Pickle, Shelve, DbApi_: SQLite_, MySql_, PostgreSql_, PlPython_. Ejemplo práctico: Universidad.
 
-* `Parte 4`_: Mapeadores Objeto-Relacional: SQLObject_, SQlAlchemy_, Elixir_. Ejemplo práctico: Nuestro propio ORM simple
+* `Parte 4`_: Mapeadores Objeto-Relacional: SQLObject_, SQlAlchemy_, Elixir_. Ejemplo práctico: Nuestro propio ORM simple.
 
-* `Parte 5`_: Introducción a extensiones avanzadas: PIL, ReportLab_, PyFPDF, PyOpenGL, PyGame_, BeautifulSoup_, Win32, Py2Exe_
+* `Parte 5`_: Introducción a extensiones avanzadas: PIL, ReportLab_, PyFPDF, PyOpenGL, PyGame_, BeautifulSoup_, Win32, Py2Exe_ .
 
-* `Parte 6`_: Interfases gráficas del Usuario (GUI): PythonCard_, WxPython
+* `Parte 6`_: Interfases gráficas del Usuario (GUI): PythonCard_, WxPython .
 
-* `Parte 7a`_: Desarrollo WEB con Django
+* `Parte 7a`_: Desarrollo WEB con Django.
 
-* `Parte 7b`_: Desarrollo WEB con Web2Py_
+* `Parte 7b`_: Desarrollo WEB con Web2Py_ .
 
-* `Parte 8`_: Resúmen Python 3000
+* `Parte 8`_: Resúmen Python 3000.
 
 -------------------------
 
@@ -524,12 +524,12 @@ Speakers: Cynthia Monastirsky, Juan Carizza, Emiliano Dalla Verde Marcozzi. Desc
 
 -------------------------
 
-Argentina en Python: como matar el sueño de todo programador en 2 minutos
+Argentina en Python: cómo matar el sueño de todo programador en 2 minutos
 -------------------------------------------------------------------------
 
 * Disertante: ManuelKaufmann_
 
-* Descripción: *En Abril de 2014 empecé un proyecto llamado "Argentina en Python" con la idea de recorrer el país dando charlas de programación utilizando el lenguaje Python a quienes estuvieran interesados en aprender a programar. También, de esta forma, estaría devolviendo de alguna manera el conocimiento que obtuve libremente de la comunidad de Python durante todos estos años. La primera etapa del viaje duró 3 meses aproximadamente, visité 5 provincias y cerca de 10 ciudades. La segunda etapa comienza a principios de Septiembre y finaliza en la* PyConAr *2014 en Rafaela. En esta charla se contará un poco sobre la historia del proyecto, sus inicios, su desarrollo y la experiencia vivida durante este tiempo, mencionando los pros y contra de viajar y trabajar como programador, como así también las experiencias en los cursos y charlas de Python.*
+* Descripción: *En Abril de 2014 empecé un proyecto llamado "Argentina en Python" con la idea de recorrer el país dando charlas de programación utilizando el lenguaje Python a quiénes estuvieran interesados en aprender a programar. También, de esta forma, estaría devolviendo de alguna manera el conocimiento que obtuve libremente de la comunidad de Python durante todos estos años. La primera etapa del viaje duró 3 meses aproximadamente, visité 5 provincias y cerca de 10 ciudades. La segunda etapa comienza a principios de Septiembre y finaliza en la* PyConAr *2014 en Rafaela. En esta charla se contará un poco sobre la historia del proyecto, sus inicios, su desarrollo y la experiencia vivida durante este tiempo, mencionando los pros y contra de viajar y trabajar como programador, como así también las experiencias en los cursos y charlas de Python.*
 
 * Slides: http://elblogdehumitos.com.ar/posts/python-conference-argentina-2014/argentina-en-python_pyconar2014_humitos.pdf
 
@@ -553,7 +553,7 @@ Introducción a Python
 
 -------------------------
 
-Como debuguear código Python
+Cómo debuguear código Python
 ----------------------------
 
 * Disertante: Facundo Batista
@@ -564,7 +564,7 @@ Como debuguear código Python
 
 -------------------------
 
-Como los logs me salvaron el alma
+Cómo los logs me salvaron el alma
 ---------------------------------
 
 * Disertante: Facundo Batista
@@ -600,7 +600,7 @@ Prediciendo el mundial con inteligencia artificial
 
 * Disertante: Juan Pedro Fisanotti
 
-* Descripción: La idea de esta charla es transmitir algunos conceptos básicos de machine learning (una de las ramas más importantes de la inteligencia artificial), mostrando cómo de forma sencilla pueden ser aprovechados para resolver un problema concreto: predecir resultados de partidos de fútbol del mundial. La primer parte de la charla expone los conceptos básicos que vamos a aplicar, y la segunda parte los muestra aplicados en el ejemplo concreto, incluyendo su código implementado en python.
+* Descripción: La idea de esta charla es transmitir algunos conceptos básicos de machine learning (una de las ramas más importantes de la inteligencia artificial), mostrando cómo de forma sencilla pueden ser aprovechados para resolver un problema concreto: predecir resultados de partidos de fútbol del mundial. La primer parte de la charla expone los conceptos básicos que vamos a aplicar, y la segunda parte los muestra aplicados en el ejemplo concreto, incluyendo su código implementado en Python.
 
 * Slides: (con links a fuentes al final) http://nbviewer.ipython.org/github/fisadev/talks/blob/master/machine-learning-intro-with-worldcup/machine-learning-intro-worldcup.ipynb
 
@@ -617,7 +617,7 @@ Speed is a feature
 
 -------------------------
 
-Trabajando de forma asincronica en Django/Python
+Trabajando de forma asincrónica en Django/Python
 ------------------------------------------------
 
 * Disertante: Martin Alderete
@@ -639,12 +639,12 @@ El niño tiene tests (y no hay naranja)
 
 -------------------------
 
-Robotica para gente de verdad?
+¿Robótica para gente de verdad?
 ------------------------------
 
 * Disertante: Diego Ramirez
 
-* Descripcion: Breve repaso de la problematica educativa desde la vision de developers que podemos ayudar. Mostramos ademas el stack con el que construimos a nuestra mascota robotica.
+* Descripcion: Breve repaso de la problemática educativa desde la visión de developers que podemos ayudar. Mostramos además el stack con el que construimos a nuestra mascota robótica.
 
 * Slides: http://www.slideshare.net/DiegoRamirez100/robtica-para-gente-de-verdad
 
@@ -735,7 +735,7 @@ Veremos como se comporta el ORM de Django con bases de datos grandes. Para esto 
 
 -------------------------
 
-Asi que tu piensas que puedes PDBear?
+¿Así que tú piensas qué puedes PDBear?
 -------------------------------------
 
 **Emiliano Dalla Verde Marcozzi**
@@ -1013,7 +1013,7 @@ Como los logs me salvaron el alma
 
 **Presentación**: https://speakerdeck.com/gilgamezh/me-estan-espiando-como-saber-con-python-si-el-imperialismo-te-persigue-o-te-pasaste-de-focusyn
 
-Blockchain zero administration with python
+Blockchain zero administration with Python
 ------------------------------------------
 *Julio Castro*
 
