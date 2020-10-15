@@ -1,7 +1,7 @@
 .. title: Mini space invaders
 
 
-Un mini space invaders usando caracteres, la nave dispara a quemarropas en una lucha contra el bicho, nadie sabe cuanto durará esta cacería, que lo disfruten:
+Un mini space invaders usando carácteres, la nave dispara a quemarropas en una lucha contra el bicho, nadie sabe cuanto durará esta cacería, que lo disfruten:
 
 * La nave y el bicho se mueven solos de forma aleatoria.
 

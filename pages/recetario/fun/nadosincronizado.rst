@@ -1,7 +1,7 @@
 .. title: Nado Sincronizado
 
 
-un generador de nado sincronizado
+Un generador de nado sincronizado
 
 http://marianoguerra.com.ar/random/nado.ogv
 

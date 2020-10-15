@@ -6,7 +6,7 @@ Descripción
 
 En esta receta se muestra como:
 
-* Crear un ejecutable (.EXE) nativo para windows (que no requiera tener Python instalado)
+* Crear un ejecutable (.EXE) nativo para Windows (que no requiera tener Python instalado)
 
 * Generar un archivo autoextraible similar a un instalador (pero más simple)
 

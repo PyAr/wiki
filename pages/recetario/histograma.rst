@@ -3,7 +3,7 @@
 
 Ejemplo super sencillo mostrado en la Tribu el 31/JUL/2010 sobre cómo usar matplotlib desde la consola.
 
-Para mas información, revisar:
+Para más información, revisar:
 
 * Matplotlib_
 

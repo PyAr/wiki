@@ -1,7 +1,7 @@
 .. title: Qt Multi Thread
 
 
-ejemplo de como manipular la interfaz grafica desde multiples threads.
+Ejemplo de cómo manipular la interfaz gráfica desde múltiples threads.
 
 .. code-block:: python
 

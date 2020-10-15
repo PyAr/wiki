@@ -4,9 +4,9 @@ Objetivo
 ========
 
 
-Entregar una copia impresa del `Tutorial de Python en español`_  a cada universidad del pais.
+Entregar una copia impresa del `Tutorial de Python en español`_  a cada universidad del país.
 
-Como colaborar
+¿Cómo colaborar?
 ==============
 
 Si estas cerca o tenes alguna relación con una universidad que no tiene el Tutorial de Python, podes anotarte y de esta manera te comprometes a hacer la donación en la biblioteca de dicha universidad. Anotate en la siguiente tabla si tu universidad no figura en ella. FacundoBatista_ te entregará el manual. Cuando lo hayas llevado, actualiza el estado con alguna de las siguientes leyendas:

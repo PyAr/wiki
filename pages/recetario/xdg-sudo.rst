@@ -1,7 +1,7 @@
 .. title: Xdg-Sudo
 
 
-El sudo grafico universal para escritorios GTK/QT/loquesea, inspirado en el funcionamiento de xdg-open.
+El sudo gráfico universal para escritorios GTK/QT/loquesea, inspirado en el funcionamiento de xdg-open.
 
 .. code-block:: python
 

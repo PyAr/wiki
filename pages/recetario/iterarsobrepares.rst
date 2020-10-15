@@ -1,6 +1,6 @@
 .. title: Iterar sobre pares
 
-¿Como iterar por ejemplo la secuencia [1,2,3,4,5,6] para que cada item sea: (1,2), (3,4), (5,6)?
+¿Cómo iterar por ejemplo la secuencia [1,2,3,4,5,6] para que cada item sea: (1,2), (3,4), (5,6)?
 
 .. code-block:: pycon
 

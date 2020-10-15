@@ -1,9 +1,9 @@
 .. title: Xml a diccionario
 
 
-En este ejemplo se muestra como convertir un string a una estructura de diccionarios y listas anidadas usando expat, tambien se proveen dos clases que permiten manipular el resultado como su fueran objetos.
+En este ejemplo se muestra cómo convertir un string a una estructura de diccionarios y listas anidadas usando expat. También se proveen dos clases que permiten manipular el resultado como si fueran objetos.
 
-primero el codigo
+Primero el código
 
 .. code-block:: python
 
@@ -124,7 +124,7 @@ primero el codigo
         return ''.join(helper(dct_))
 
 
-Simplemente creamos un objeto de tipo `XmlParser` pasandole el string y obtenemos el resultado parseado en la variable result.  Si no queremos andar preguntado si las llaves existen antes de accederlas para evitar excepciones podemos usar la clase `DictObj` que nos permite acceder a las llaves como si fueran atributos, las variables que no existan como llaves contendran None. Aca va un ejemplo en la consola interactiva
+Simplemente creamos un objeto de tipo `XmlParser` pasándole el string y obtenemos el resultado parseado en la variable result.  Si no queremos andar preguntado si las llaves existen antes de accederlas para evitar excepciones podemos usar la clase `DictObj` que nos permite acceder a las llaves como si fueran atributos, las variables que no existan como llaves contendran None. Acá va un ejemplo en la consola interactiva:
 
 .. code-block:: python
 

@@ -5,7 +5,7 @@
    :class: small
 
 
-Usar temas de GTK en las aplicaciones de TKinter, no requiere ttk, funciona en KDE.
+Usar temas de GTK en las aplicaciones de TKinter. No requiere ttk y funciona en KDE.
 
 **Foto de Pantalla:**
 
@@ -15,7 +15,7 @@ De fondo Gedit en Ubuntu, usando el tema Ambiance, arriba una ventana con simila
 
 .. image:: /images/GTKonTK/gtk-on-tk-hack.jpg
 
-**El Codigo para hacer GTK on TK:**
+**El Código para hacer GTK en TK:**
 
 .. code-block:: python
 
@@ -245,7 +245,7 @@ Descripcion: Crea 2 ventanas pequeñas iguales, una tratara de imitar el tema de
 
 Comentario personal:
 
-*Es mas bonito que TTK  🙂  Como sea, la idea es aprovechar que en Linux TODO es un archivo, la magia esta en parsear.*
+*Es más bonito que TTK  🙂.  Como sea, la idea es aprovechar que en Linux TODO es un archivo, la magia esta en parsear.*
 
 Comentarios
 -----------

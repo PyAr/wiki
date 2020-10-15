@@ -1,9 +1,9 @@
 .. title: Keyboard Leds Demo
 
 
-* Como controlar los 3 Leds del Teclado usando Python, ejemplo simple, requiere Privilegios elevados en el equipo.
+* Cómo controlar los 3 Leds del Teclado usando Python, ejemplo simple. Requiere Privilegios elevados en el equipo.
 
-**Nota:** *Si tu teclado es a Baterias (Bluetooth, Wireless), el uso intensivo de este Script reducira la duracion de las mismas.*
+**Nota:** *Si tu teclado es a Baterías (Bluetooth, Wireless), el uso intensivo de este Script reducirá la duracion de las mismas.*
 
 .. code-block:: python
 

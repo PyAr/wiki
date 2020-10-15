@@ -1,11 +1,11 @@
 .. title: Boton Grafico TK
 
 
-Crear un boton grafico personalizado, con 3 estados posibles *(Activado, con el Roedor Encima, Normal)*, usando TK.
+Crear un botón gráfico personalizado, con 3 estados posibles *(Activado, con el Roedor Encima, Normal)*, usando TK.
 
 .. image:: /images/BotonGraficoTK/temp.jpg
 
-*En la foto de pantalla se muestra el Ejemplo con el Raton Encima (Mouse Over)*
+*En la foto de pantalla se muestra el Ejemplo con el Ratón Encima (Mouse Over)*
 
 * **Requisitos:** Es necesario saber usar encoding en Base64, que NO es cubierto por esta Receta, disculpe.
 

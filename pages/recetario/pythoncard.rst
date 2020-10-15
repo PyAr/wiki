@@ -12,13 +12,13 @@ PythonCard es para vos si queres desarrollar aplicaciones gráficas de manera r�
 
 PythonCard usa wxPython. Si estás familiarizado con wxPython, se puede ver a PythonCard como una manera simple de hacer programas wxPython con un gran conjunto de ejemplos y herramientas que se pueden copiar y mejorar para crear aplicaciones multiplataforma.
 
-Como instalar PythonCard:
+Cómo instalar PythonCard:
 -------------------------
 
 Linux (Debian y derivados)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Pythoncard esta soportado en Etch, así que su instalación es bastante simple
+Pythoncard esta soportado en Etch, así que su instalación es bastante simple.
 
 .. code-block:: console
 
@@ -70,7 +70,7 @@ Si algo anda mal y no se muestra la pantalla de ejemplos, podemos probar lo sigu
 
 Debería aparecer una ventanita con título "Prueba".
 
-Además, PythonCard dispone de características de depuración (depurar menú, loggeo, visor de mensajes, visor del espacio nombres, editor de propiedades, shell). Estas opciones se pueden activar al ejecutar los ejemplos para ver como funcionan.
+Además, PythonCard dispone de características de depuración (depurar menú, loggeo, visor de mensajes, visor del espacio nombres, editor de propiedades, shell). Estas opciones se pueden activar al ejecutar los ejemplos para ver cómo funcionan.
 
 Editor de Pantallas
 -------------------
@@ -79,7 +79,7 @@ PythonCard viene con un editor de pantallas (resource/layout editor), se encuent
 
 .. image:: /images/PythonCard/pycard1.png
 
-Ejemplo de como crear una aplicación de prueba (que tome una expresión/comando python ingresado por el usuario y devuelva su resultado):
+Ejemplo de cómo crear una aplicación de prueba (que tome una expresión/comando python ingresado por el usuario y devuelva su resultado):
 
 * Ir al menú *File*, *New*, aparece un miniasistente para crear la aplicación
 
@@ -103,7 +103,7 @@ Ejemplo de como crear una aplicación de prueba (que tome una expresión/comando
 
   * Botón: menú *Component*, *Button* (lo seleccionamos, movemos a donde corresponda, en las propiedades marcar *Vary*, escribir en *Name*: btnEjecutar y en *Label*: Ejecutar )
 
-* Agregamos un menu de ayuda:
+* Agregamos un menú de ayuda:
 
   * Ir al menú *Edit*, *Menu Editor*:
 

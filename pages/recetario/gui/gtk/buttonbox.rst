@@ -1,7 +1,7 @@
 .. title: ButtonBox
 
 
-este ejemplo muestra como usar un contenedor de botones para agregar botones y hacer que mantengan su tamanio óptimo y se distribuyan por la pantalla de manera homogénea.
+Este ejemplo muestra cómo usar un contenedor de botones para agregar botones, hacer que mantengan su forma óptima y se distribuyan por la pantalla de manera homogénea.
 
 .. image:: /images/Recetario/Gui/Gtk/ButtonBox/buttonbox-demo.png
 
@@ -60,7 +60,7 @@ este ejemplo muestra como usar un contenedor de botones para agregar botones y h
     gtk.main()
 
 
-Mas Información
+Más Información:
 ---------------
 
 * http://pygtk.org/docs/pygtk/class-gtkhbuttonbox.html

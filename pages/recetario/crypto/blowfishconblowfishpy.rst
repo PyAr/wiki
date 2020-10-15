@@ -9,7 +9,7 @@ Escribe acerca de Recetario/Crypto/BlowfishConBlowfishpy aquí.
    ➜  crypto_example  wget http://www.seanet.com/\~bugbee/crypto/blowfish/blowfish.py3
    ➜  crypto_example  mv blowfish.py3 blowfish.py
 
-con este codigo
+Con este código
 
 .. code-block:: python
 
@@ -22,11 +22,11 @@ con este codigo
     print "mensaje %s cifrado es %s" % (mensaje, cifrado)
 
 
-salida:
+Salida:
 
 .. code-block:: console
 
    mensaje hola!... cifrado es 0@�WE
 
-nota: el mensaje a cifrar parece que tiene que tener un largo de 8 (no se mucho de blowfish :D)
+Nota: El mensaje a cifrar parece que tiene que tener un largo de 8 (no sé mucho de blowfish :D)
 

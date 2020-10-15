@@ -1,7 +1,7 @@
 .. title: Progressbar y Urllib2
 
 
-Este es un ejemplito de como descargar algo y a medida que se descarga, mostrar una barrita de progreso.
+Este es un ejemplito de cómo descargar algo y a medida que se descarga, mostrar una barrita de progreso.
 
 .. code-block:: python
 

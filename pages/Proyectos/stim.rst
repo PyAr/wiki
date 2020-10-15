@@ -9,7 +9,7 @@ El juego consiste en un `T.I.M.`_, en el cual el jugador tiene que construir má
 
 Teníamos `un trac`_ con los fuentes del proyecto, pero el servicio donde lo hosteamos parece que no funciona más, asi que los fuentes que quedaron `están acá`_.
 
-El sprint duró una semana (aunque algunos tuvimos que ir a trabajar en la semana) Los participantes de pyar fueron tenuki_, alecu_, LucioTorre_, LeitoMonk_ y NubIs_ Y con el arte nos dio una mano importante Letta, amiga de Leito.
+El sprint duró una semana (aunque algunos tuvimos que ir a trabajar en la semana). Los participantes de Pyar fueron tenuki_, alecu_, LucioTorre_, LeitoMonk_ y NubIs_ y con el arte nos dió una mano importante Letta, amiga de Leito.
 
 También PabloZiliani_ y nueces nos ayudaron a testear.
 

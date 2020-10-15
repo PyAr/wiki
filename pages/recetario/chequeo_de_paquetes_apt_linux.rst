@@ -1,7 +1,7 @@
 .. title: Chequeo de Paquetes con APT
 
 
-* Como saber si un paquete esta instalado, o no, y si el mismo existe usando Python, ejemplo interactivo simple.
+* Cómo saber si un paquete está instalado, o no, y si el mismo existe usando Python. Se muestra un ejemplo interactivo simple.
 
 .. code-block:: python
 

@@ -1,7 +1,7 @@
 .. title: Python Version Check
 
 
-Chequear la version de Python, y salir o imprimir error en funcion de eso.
+Chequear la versión de Python, y salir o imprimir error en funcion de eso.
 
 .. code-block:: python
 

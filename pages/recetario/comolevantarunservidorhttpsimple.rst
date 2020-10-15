@@ -1,7 +1,7 @@
 .. title: Como Levantar Un Servidor Http Simple
 
 
-este ejemplo muestra como levantar un servidor http en python que sirva el contenido del directorio actual.
+Este ejemplo muestra cómo levantar un servidor http en Python que sirva el contenido del directorio actual.
 
 .. code-block:: python
 
@@ -9,7 +9,7 @@ este ejemplo muestra como levantar un servidor http en python que sirva el conte
     SimpleHTTPServer.test()
 
 
-o simplemente desde consola
+o simplemente desde consola:
 
 .. code-block:: bash
 

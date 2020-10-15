@@ -1,7 +1,7 @@
 .. title: GtkConfirmClose
 
 
-Ejemplo de como solicitar confirmación de cierre en una ventana
+Ejemplo de cómo solicitar una confirmación de cierre en una ventana.
 
 .. code-block:: python
 

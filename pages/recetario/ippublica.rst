@@ -1,9 +1,9 @@
 .. title: Obtener ip Publica
 
 
-* Como obtener la ip Publica, usando Python, ejemplo simple.
+* Cómo obtener la IP Pública, usando Python, ejemplo simple.
 
-**Nota:** *Que tengas direccion ip publica no implica que tengas conectividad.*
+**Nota:** *Que tengas dirección IP pública no implica que tengas conectividad.*
 
 .. code-block:: python
 

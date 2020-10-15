@@ -1,7 +1,7 @@
 .. title: Bloquear Click Del Mouse
 
 
-Como bloquear el click izquierdo del mouse cuando se tipea en el teclado,
+Cómo bloquear el click izquierdo del mouse cuando se tipea en el teclado,
 usando Python, en Linux, ejemplo simple, requiere Privilegios elevados en el equipo.
 
 .. note:

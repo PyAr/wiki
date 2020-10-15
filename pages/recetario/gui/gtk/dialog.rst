@@ -1,7 +1,7 @@
 .. title: GtkDialog
 
 
-ejemplo para crear dialogos modales de distintos tipos con distintos botones
+Ejemplo para crear diálogos modales de distintos tipos con distintos botones.
 
 
 

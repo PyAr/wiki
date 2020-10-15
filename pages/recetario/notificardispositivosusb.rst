@@ -1,7 +1,7 @@
 .. title: Detectar y Notificar Dispositivos USB
 
 
-* Como Detectar y Notificar Dispositivos USB, usando Python, en Linux, ejemplo simple.
+* Cómo Detectar y notificar dispositivos USB, usando Python, en Linux, ejemplo simple.
 
 .. code-block:: python
 

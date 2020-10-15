@@ -69,10 +69,10 @@ Si vos queres definir un estilo que sea igual a bodytext pero verde:
 
 **NdR:** si no se le indica ``parent`` hereda de ``base``
 
-Como Utilizarlo en un documento
+Cómo utilizarlo en un documento
 -------------------------------
 
-O lo usas como clase para un objeto, por ejemplo para un parrafo:
+O lo usas como clase para un objeto, por ejemplo para un párrafo:
 
 ::
 
@@ -101,7 +101,7 @@ Si queres cambiar como se ve alguna de las cosas que ya estan definidas, pisás 
 
 ( Esa hoja es la que se llama eightpoint y `ya viene con rst2pdf`_ )
 
-Como todos los demas estilos heredan de base, cambiando base cambian todos.
+Como todos los demás estilos heredan de base, cambiando base cambian todos.
 
 Cada estilo definido en la hoja por default se usa en alguna parte de un documento, o es un estilo "práctico" como "right" o "center" para aplicar.
 

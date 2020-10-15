@@ -6,26 +6,26 @@ Estos son los proyectos encarados *institucionalmente* por PyAr_ en los que pued
 
 * `GauchitoGil`_
 
-  * Administrador de colas de mensajes, con soporte para múltiples protocolos: SMTP (mail), SMPP (SMSs o mensajes cortos) y MM7 (MMSs o mensajes multimedia)
+  * Administrador de colas de mensajes, con soporte para múltiples protocolos: SMTP (mail), SMPP (SMSs o mensajes cortos) y MM7 (MMSs o mensajes multimedia).
 
 .. _GauchitoGil: /Proyectos/gauchitogil
 
 * `Caucho`_
 
-  * Avanzadísimo juego de batalla en vehículos multijugador
+  * Avanzadísimo juego de batalla en vehículos multijugador.
 
 .. _Caucho: /Proyectos/caucho
 
 
 * `STIM`_
 
-  * Juego que presentamos en PyAr_ para la segunda edición de PyWeek
+  * Juego que presentamos en PyAr_ para la segunda edición de PyWeek.
 
 .. _STIM: /Proyectos/stim
 
 * `AlocadoAlocador`_
 
-  * Juego desarrollado para Pygame.draw 2006
+  * Juego desarrollado para Pygame.draw 2006.
 
 .. _AlocadoAlocador: /Proyectos/alocadoalocador
 
@@ -44,23 +44,23 @@ Estos son los proyectos encarados *institucionalmente* por PyAr_ en los que pued
 
 * `UsoDePythonEnLaUniversidad`_
 
-  * Sistematización de experiencias, herramientas y estrategias para difundir Python en la Universidad
+  * Sistematización de experiencias, herramientas y estrategias para difundir Python en la Universidad.
 
 .. _UsoDePythonEnLaUniversidad: /Proyectos/usodepythonenlauniversidad
 
 Github.com
 ----------
 
-Creamos un grupo en github llamado PyAr_ https://github.com/PyAr para poner los proyectos de aquí al futuro y que nuestra vida sea más sencilla. Para sumarte a la lista de colaboradores y colgar tu proyecto bajo el grupo de PyAr_, podés mandar un mensaje a la lista de correo.
+Creamos un grupo en Github llamado PyAr_ https://github.com/PyAr para poner los proyectos de aquí al futuro y que nuestra vida sea más sencilla. Para sumarte a la lista de colaboradores y colgar tu proyecto bajo el grupo de PyAr_, podés mandar un mensaje a la lista de correo.
 
 Proyectos relacionados
 ----------------------
 
 Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están relacionados con uno o más de sus miembros:
 
-* `OpenLex <https://github.com/UniversidadDelEste/OpenLex/>`_.
+* `OpenLex <https://github.com/UniversidadDelEste/OpenLex/>`_
 
-  * Software de gestión para estudios jurídicos
+  * Software de gestión para estudios jurídicos.
 
 * `Python for PalmOS`_ (en inglés)
 
@@ -68,7 +68,7 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 * SiGeFi_
 
-  * Sistema de gestión financiera, enfocado en las finanzas personales y del hogar
+  * Sistema de gestión financiera, enfocado en las finanzas personales y del hogar.
 
 * `Gestión Integral para Empresas`_
 
@@ -76,7 +76,7 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 * `oveja eléctrica`_
 
-  * Proyecto experimental sobre música y creatividad artificial
+  * Proyecto experimental sobre música y creatividad artificial.
 
 * chorde_
 
@@ -84,33 +84,33 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 * PyAfipWs_ `código fuente`_
 
-  * Interfaces y Herramientas relacionadas con la AFIP (Administración Federal de Ingresos Públicos)
+  * Interfaces y Herramientas relacionadas con la AFIP (Administración Federal de Ingresos Públicos).
 
-    * `Factura Electrónica`_ (Interfase con otros lenguajes: `PyAfipWs <http://www.sistemasagiles.com.ar/public/wiki/PyAfipWs>`__, Aplicativo: PyRece_), módulo OpenERP_ / Tryton_ y otros
+    * `Factura Electrónica`_ (Interfase con otros lenguajes: `PyAfipWs <http://www.sistemasagiles.com.ar/public/wiki/PyAfipWs>`__, Aplicativo: PyRece_), módulo OpenERP_ / Tryton_ y otros.
 
-    * Servicio web de `constatación de comprobantes`_ y `padrón de contribuyentes`_
+    * Servicio web de `constatación de comprobantes`_ y `padrón de contribuyentes`_ .
 
-    * Servicio web de trazabilidad_ y `liquidación`_ de granos
+    * Servicio web de trazabilidad_ y `liquidación`_ de granos.
 
     * Servicio web de `operaciones cambiarias`_, depositario fiel (aduanas), etc.
 
   * Servicio web relacionados:
 
-    * `Remito Electrónico`_ (ARBA)
+    * `Remito Electrónico`_ (ARBA).
 
-    * `Trazabilidad de Medicamentos`_ (ANMAT)
+    * `Trazabilidad de Medicamentos`_ (ANMAT).
 
-    * `Trazabilidad de Precursores Químicos`_ (SEDRONAR)
+    * `Trazabilidad de Precursores Químicos`_ (SEDRONAR).
 
-  * Prototipo experimental de SIAP Libre: `Prototipo SIAPy`_
+  * Prototipo experimental de SIAP Libre: `Prototipo SIAPy`_ .
 
 * PyFiscalPrinter_
 
-  * Herramientas e interfaces para Controladores Fiscales (Epson y Hasar de Argentina), que gradualmente incluye modelos para otros países (Epson Chile y Hasar Panama). Contempla el protocolo de bajo nivel y módulos para `OpenERP <https://github.com/reingart/openerp_pyfiscalprinter/>`__ y otros sistemas de facturación.
+  * Herramientas e interfaces para Controladores Fiscales (Epson y Hasar de Argentina), que gradualmente incluye modelos para otros países (Epson Chile y Hasar Panamá). Contempla el protocolo de bajo nivel y módulos para `OpenERP <https://github.com/reingart/openerp_pyfiscalprinter/>`__ y otros sistemas de facturación.
 
 * PyReplica_
 
-  * Replicador simple y flexible para PostgreSQL escrito exclusivamente en Python (asincrónico, multimaster limitado, notificaciones por email, etc.)
+  * Replicador simple y flexible para PostgreSQL escrito exclusivamente en Python (asincrónico, multimaster limitado, notificaciones por email, etc.).
 
 * PySimpleSOAP_
 
@@ -118,11 +118,11 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 * PyFPDF_
 
-  * Clases para generar documentos PDF de manera simple y extensible, incluyendo soporte para imágenes, fuentes unicode (TTF). Inspirada extensión FPDF de PHP. Usado por `PyAfipWs </Proyectos/RevistaPythonComunidad/PET2/pyafipws>`__ e incorporado a web2py. Python3 compatible (experimental)
+  * Clases para generar documentos PDF de manera simple y extensible, incluyendo soporte para imágenes, fuentes unicode (TTF). Inspirada extensión FPDF de PHP. Usado por `PyAfipWs </Proyectos/RevistaPythonComunidad/PET2/pyafipws>`__ e incorporado a web2py. Python3 compatible (experimental).
 
 * CDPedia_
 
-  * Proyecto para compilar una serie de artículos de la wikipedia en un cd autobrowseable. `Pag vieja`_
+  * Proyecto para compilar una serie de artículos de la wikipedia en un cd autobrowseable. `Pag vieja`_ .
 
 * lalita_
 
@@ -130,11 +130,11 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 * `Tutorial de Python`_
 
-  * Una traducción actualizada del tutorial oficial de Python
+  * Una traducción actualizada del tutorial oficial de Python.
 
 * Rst2Pdf_
 
-  * Una herramienta para convertir Restructured Text a PDF (se usó para el Tutorial de Python)
+  * Una herramienta para convertir Restructured Text a PDF (se usó para el Tutorial de Python).
 
 * SancaBase_
 
@@ -146,7 +146,7 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 * mtvcgui_
 
-  * Interfaz gráfica para capturar TV utilizando mencoder. Requiere PyQt4, mencoder y una tarjeta capturadora de TV ;).
+  * Interfaz gráfica para capturar TV utilizando mencoder. Requiere PyQt4, mencoder y una tarjeta capturadora de TV).
 
 * Wozo_
 
@@ -158,7 +158,7 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 * QuickDiagrams_
 
-  * Permite crear diagramas de clase a partir de un archivo de texto muy sencillo o un módulo python.
+  * Permite crear diagramas de clase a partir de un archivo de texto muy sencillo o un módulo Python.
 
 * NINJA-IDE_
 
@@ -166,15 +166,15 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 * fisa-vim-config_
 
-  * Una configuración de vim con muchas cosas listas para programar en python (autocompletado, navegador de clases, debugger, detección de errores, etc.)
+  * Una configuración de Vim con muchas cosas listas para programar en Python (autocompletado, navegador de clases, debugger, detección de errores, etc.).
 
 * Donnees_
 
-  * Un software de adquisición de datos de datos, incluye gráficos en tiempo real, software SCADA y un cliente web.
+  * Un software de adquisición de datos de datos. Incluye gráficos en tiempo real, software SCADA y un cliente web.
 
 * SimpleAI_
 
-  * Una lib para algoritmos de inteligencia artificial basada en AIMA (Artificial Intelligence, a Modern Approach, de Peter Norvig, el libro más usado para enseñar IA: http://aima.cs.berkeley.edu/).
+  * Una librería para algoritmos de inteligencia artificial basada en AIMA (Artificial Intelligence, a Modern Approach, de Peter Norvig, el libro más usado para enseñar IA: http://aima.cs.berkeley.edu/).
 
 * Pygubu_
 
@@ -186,7 +186,7 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 * rad2py_
 
-  * Plataforma de desarrollo rápido de aplicaciones que integra un editor de código, depurador y herramientas de repositorios, pruebas y gestión de calidad. Utiliza gui2py y web2py. Actualmente en desarrollo (investigación académica). Próximamente con funcionalidades para migrar proyectos legados de VisualBasic_ clásico 5 o 6 (ver vb2py_)
+  * Plataforma de desarrollo rápido de aplicaciones que integra un editor de código, depurador y herramientas de repositorios, pruebas y gestión de calidad. Utiliza gui2py y web2py. Actualmente en desarrollo (investigación académica). Próximamente con funcionalidades para migrar proyectos legados de VisualBasic_ clásico 5 o 6 (ver vb2py_).
 
 * `SAW / SQLAlchemy Wrapper`_
 
@@ -202,11 +202,11 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 * Enjuewemela_
 
-  * Enjuewemela is yet another similar game to the popular "Bejeweled" or "Diamond Mine"
+  * Enjuewemela is yet another similar game to the popular "Bejeweled" or "Diamond Mine".
 
 * Linkode_
 
-  * Linkode is the useful pastebin!
+  * Linkode is the useful pastebin!.
 
 * LocoLander_
 
@@ -218,7 +218,7 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 * Nikola_
 
-  * Nikola is a Static Site and Blog Generator
+  * Nikola is a Static Site and Blog Generator.
 
 * Ojota_
 
@@ -226,7 +226,7 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 * pbt_
 
-  * python build tool
+  * python build tool.
 
 * Pilas_
 
@@ -250,7 +250,7 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 * Rockola_
 
-  * Music Server depending on votes
+  * Music Server depending on votes.
 
 * TOMy_
 
@@ -262,7 +262,7 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 * web2conf_
 
-  * Aplicación web simple para manejo de conferencias (registración, revisión de propuestas, cronograma de actividades con iCal, sponsors, manejo de fondos -ingresos / egresos-, páginas wiki, integración con redes sociales, generación de gafetes y certificados, etc.). Hecho con web2py. Originalmente desarrollado para PyConUs 2009/2010, usado luego en varios eventos regionales e internacionales en Argentina (JRSL, FLISOL, UbuntuCon, PgDay, PyDay_, PyCon_, etc.)
+  * Aplicación web simple para manejo de conferencias (registración, revisión de propuestas, cronograma de actividades con iCal, sponsors, manejo de fondos -ingresos / egresos-, páginas wiki, integración con redes sociales, generación de gafetes y certificados, etc.). Hecho con web2py. Originalmente desarrollado para PyConUs 2009/2010, usado luego en varios eventos regionales e internacionales en Argentina (JRSL, FLISOL, UbuntuCon, PgDay, PyDay_, PyCon_, etc.).
 
 * `Programando con Robots`_
 
@@ -270,27 +270,27 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 * linkodeit_
 
-  * utilidad de línea de comandos para *pastebinear* en http://linkode.org
+  * Utilidad de línea de comandos para *pastebinear* en http://linkode.org .
 
 * obd2lib_
 
-  * herramienta para chequear diferentes valores de los autos utilizando el protocolo de comunicación OBD2
+  * Herramienta para chequear diferentes valores de los autos utilizando el protocolo de comunicación OBD2.
 
 * `La confusión de la tortuga`_
 
-  * Traducción al Español del libro "Turtle Confusion"
+  * Traducción al Español del libro "Turtle Confusion".
 
 * `virtualenvwrapper docs`_
 
-  * Traducción al Español de la documentación de "virtualenvwrapper"
+  * Traducción al Español de la documentación de "virtualenvwrapper".
 
 * `Pimp my pillow`_
 
-  * Pimp My Pillow will leave you with a full working Pillow installation, no more 'decoder * not available' messages! 
+  * Pimp My Pillow will leave you with a full working Pillow installation, no more 'decoder * not available' messages!. 
 
 * `rst2html5`_
 
-  * Herramienta extensible para crear documentos HTML5 como presentaciones o páginas web
+  * Herramienta extensible para crear documentos HTML5 como presentaciones o páginas web.
 
 * `Pireal`_
 
@@ -298,7 +298,7 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
 * `Peicel Graphics`_
 
-  * Paint Programado en python Tkinter
+  * Paint Programado en Python Tkinter.
 
 -------------------------
 

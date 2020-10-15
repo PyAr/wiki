@@ -1,7 +1,7 @@
 .. title: Manejo simple de xml (SimpleXMLElement)
 
 
-En este ejemplo se muestra como convertir un string desde y hacia un objeto simple que representa el XML (código usado en `Factura Electronica`_)
+En este ejemplo se muestra cómo convertir un string desde y hacia un objeto simple que representa el XML (código usado en `Factura Electronica`_)
 
 .. code-block:: python
 
@@ -48,11 +48,11 @@ En este ejemplo se muestra como convertir un string desde y hacia un objeto simp
 
 Simplemente creamos un objeto de tipo SimpleXmlElement pasandole el string y obtenemos el objeto parseado. Se puede:
 
-* Acceder por item (como si fuera un dict)
+* Acceder por ítem (como si fuera un dict).
 
-* Acceder por atributo (como si fuera un objeto)
+* Acceder por atributo (como si fuera un objeto).
 
-* Preguntar con ``in`` si un tag es hijo
+* Preguntar con ``in`` si un tag es hijo.
 
 * Al acceder se devuelven elementos xml, por lo que hay que convertirlos a ``str``, ``int``, ``float``, etc.
 
@@ -70,7 +70,7 @@ Simplemente creamos un objeto de tipo SimpleXmlElement pasandole el string y obt
 
 Faltaría:
 
-* Acceder a los atributos de los tags (quizas por item simil diccionario o via ``attributes()`` y ``addAttribute()``)
+* Acceder a los atributos de los tags (quizás por ítem simil diccionario o via ``attributes()`` y ``addAttribute()``)
 
 * Soportar más de un tag hijo (implementar ``__iter__``)
 

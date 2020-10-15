@@ -1,9 +1,9 @@
 .. title: tkButtonIcon
 
 
-Crea botones con Iconos. Si es en Windows sacar el '@'+ de la ruta al icono. Los archivos se pueden pasar a .XBM con Gimp.
+Crea botones con Íconos. Si es en Windows sacar el '@'+ de la ruta al ícono. Los archivos se pueden pasar a .XBM con Gimp.
 
-Ideal para crear mini-toolbars con iconos personalizados.
+Ideal para crear mini-toolbars con íconos personalizados.
 
 .. code-block:: python
 

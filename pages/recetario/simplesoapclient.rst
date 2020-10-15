@@ -4,11 +4,11 @@
 Descripción
 :::::::::::
 
-En este ejemplo se muestra utilizar servicios webs de manera simple (código usado en `Factura Electronica`_)
+En este ejemplo se muestra cómo utilizar servicios webs de manera simple (código usado en `Factura Electronica`_)
 
 Utiliza SimpleXmlElement_ y SimpleSoapClient_, manejando de manera simple el protocolo SOAP y XML.
 
-**Nota**: Ver otras librerias más avanzadas.
+**Nota**: Ver otras librerías más avanzadas.
 
 Ejemplo: Feriados (Ministerio del Interior)
 :::::::::::::::::::::::::::::::::::::::::::

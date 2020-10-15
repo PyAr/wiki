@@ -1,7 +1,7 @@
 .. title: Revisar Conexion
 
 
-como revisar si tenemos conexion a internet
+Cómo revisar si tenemos conexión a internet.
 
 Para no depender de programas externos (tené en cuenta que, por ejemplo, ping seguramente no recibe los mismos parámetros en Linux que en Windows), podés intentar abrir un socket a algún servidor externo y enviar algo.
 

@@ -1,7 +1,7 @@
 .. title: tkScrollWhell
 
 
-Usando la rueda de Scroll del raton con TK. Ejemplo simple con un poco de imaginacion puede manejar mas cosas.
+Usando la rueda de Scroll del ratón con TK. Ejemplo simple con un poco de imaginación puede manejar más cosas.
 
 .. code-block:: python
 

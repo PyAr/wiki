@@ -1,7 +1,7 @@
 .. title: Matrix Python Toy
 
 
-Efecto "The Matrix" en linea de comandos, con modificacion es util de Screen Saver o Screen Lock
+Efecto "The Matrix" en línea de comandos, con modificación es útil de Screen Saver o Screen Lock
 
 .. code-block:: python
 

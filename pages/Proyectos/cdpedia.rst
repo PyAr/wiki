@@ -9,18 +9,18 @@ Toda la información incluída fue obtenida de Wikipedia durante Diciembre del 2
 
 Importante: la CDPedia es Software Libre, te recomendamos (y te agradecemos) que copies estos discos y archivos, y los regales a tus amigos, familia y conocidos. La información debe ser libre, así mejoramos la calidad de nuestra educación.
 
-¡Que la disfrutes!
+¡Qué la disfrutes!
 
 ¿Dónde la consigo?
 ------------------
 
 La última versión es la `0.8`_ y se puede descargar desde acá:
 
-:superscript:`[1]` Si tenés la posibilidad, agradecemos que bajes y compartas los archivos vía BitTorrent
+:superscript:`[1]` Si tenés la posibilidad, agradecemos que bajes y compartas los archivos vía BitTorrent.
 
 Versiones anteriores se encuentran listadas en `esta página`_.
 
-¿Qué hago con el archivo que bajé?
+¿Qué hago con el archivo que baje?
 ----------------------------------
 
 Se pueden descargar archivos en dos formatos.

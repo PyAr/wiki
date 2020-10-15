@@ -1,16 +1,16 @@
 .. title: Obtener Ubicacion Geografica
 
 
-* Como obtener distintos datos de la ubicacion Geografica, usando Python-Geoip, ejemplo simple.
+* Cómo obtener distintos datos de la ubicación Geográfica, usando Python-Geoip, ejemplo simple.
 
-**Requisitos:** Base de Datos de Geo-Location en la misma ubicacion que el programa, descargarla usando:
+**Requisitos:** Base de Datos de Geo-Location en la misma ubicación que el programa, descargarla usando:
 
 .. code-block:: bash
 
     wget --verbose http://geolite.maxmind.com/download/geoip/database/GeoLiteCity.dat.gz
 
 
-**Nota:** *Depende de la conectividad con Internet usando direccion ip publica version 4, se desconoce el comportamiento con ip version 6.*
+**Nota:** *Depende de la conectividad con Internet usando dirección ip public version 4, se desconoce el comportamiento con ip version 6.*
 
 .. code-block:: python
 
@@ -54,7 +54,7 @@
     {'city': 'XXXXXX', 'region_name': 'Buenos Aires', 'region': '01', 'area_code': 0, 'time_zone': 'America/Argentina/Buenos_Aires', 'longitude': -58.92079000071094, 'metro_code': 0, 'country_code3': 'ARG', 'latitude': -34.17680005629883, 'postal_code': None, 'dma_code': 0, 'country_code': 'AR', 'country_name': 'Argentina'}
 
 
-**Colaboracion:** *Si tenes conectividad con internet con ip version 6 NATIVA, puedes documentar tu experiencia aqui.*
+**Colaboración:** *Si tenes conectividad con internet con ip version 6 NATIVA, puedes documentar tu experiencia aquí.*
 
 *Disclaimer: el uso o no de SheBang/Declaracion de Encoding queda a criterio del usuario.*
 

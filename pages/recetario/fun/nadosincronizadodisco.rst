@@ -1,7 +1,7 @@
 .. title: Nado Sincronizado
 
 
-un generador de nado sincronizado con luces de colores usando colorama (sudo pip install colorama)
+Un generador de nado sincronizado con luces de colores usando colorama (sudo pip install colorama)
 
 .. code-block:: python
 

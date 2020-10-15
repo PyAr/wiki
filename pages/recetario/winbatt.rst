@@ -4,9 +4,9 @@
 Descripción
 :::::::::::
 
-Esta receta es un ejemplo de como utilizar funciones nativas de las bibliotecas de Windows desde python (usando ctypes_).
+Esta receta es un ejemplo de cómo utilizar funciones nativas de las bibliotecas de Windows desde Python (usando ctypes_).
 
-Por ejemplo, en este caso se usa para consultar el estado de la batería (carga en Wh y tiempos estimados, consumo de energía en Watts, etc.) usando la función  CallNtPowerInformation_ de la biblioteca de windows PowrProf.lib (PowrProf.dll).  También se ilustra como usar estructuras de C en python para llamar a funciones externas.
+Por ejemplo, en este caso se usa para consultar el estado de la batería (carga en Wh y tiempos estimados, consumo de energía en Watts, etc.) usando la función  CallNtPowerInformation_ de la biblioteca de windows PowrProf.lib (PowrProf.dll).  También se ilustra cómo usar estructuras de C en python para llamar a funciones externas.
 
 Es necesario tener una versión de Python con ctypes y estar sobre windows.
 

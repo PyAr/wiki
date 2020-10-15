@@ -1,9 +1,9 @@
 .. title: Mini Galeria de Imagenes Bottle
 
 
-* Como hacer una Mini Galeria de Imagenes en Bottle_, ejemplo basado en el Hola Mundo.
+* Cómo hacer una Mini Galería de Imágenes en Bottle_, ejemplo basado en el Hola Mundo.
 
-Usa Bottle_ para servir 1 pagina incrustada en la propia aplicacion, la misma desplega HTML, CSS y Js.
+Usa Bottle_ para servir 1 página incrustada en la propia aplicacion, la misma desplega HTML, CSS y Js.
 
 .. code-block:: python
 
