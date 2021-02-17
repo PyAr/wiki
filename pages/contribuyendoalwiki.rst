@@ -1,4 +1,4 @@
-.. title: Contribuyendoalwiki
+.. title: Contribuyendo Al Wiki
 
 Nuestra intención es hacer la wiki lo más abierta posible. Para la gran mayoría de las páginas, sólo hace
 falta que sea un usuario registrado de la web.
