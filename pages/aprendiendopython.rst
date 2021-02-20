@@ -7,46 +7,36 @@
 
 Antes que nada ¡FELICITACIONES!
 
-Ahora, ¿a dónde podrías recurrir para obtener información que te inicie en la programación *pythonesca*? Bueno, estos son algunos libros que se propusieron en la ListaDeCorreo_. De todos modos, no dudes en preguntar.
+Ahora ¿A dónde podrías recurrir para obtener información que te inicie en la programación *pythonesca*? Bueno, estos son algunos libros que se propusieron en la ListaDeCorreo_. De todos modos, no dudes en preguntar.
 
 * `How to Think Like a Computer Scientist`_ (Python 2.x) es de conceptos generales de programación usando Python.  Hay una versión en español llamada `Aprenda a pensar como un programador (con Python)`_.
 
-* `Byte of Python`_ es un libro para iniciarse en Python, el autor proclama que es para quien lo único que sabe de computación es grabar un archivo. Actualmente cuenta con ediciones para Python 2.x y 3.
+* `Byte of Python`_ es un libro para iniciarse en Python, el autor proclama que es para quien lo único que sabe de computación es grabar un archivo.
 
 * `Dive into Python`_, está en varios idiomas, se viene escribiendo/actualizando hace bastante, y viene con Ubuntu. `Inmersión en Python`_ es la versión en castellano y ya han sido traducidos algunos capítulos. También tiene versiones para Python 2.x y 3.
 
-* `Instant Python`_ es un curso de entrenamiento corto e intensivo. (`Versión en español`_).
+* `Instant Python`_ es un curso de entrenamiento corto e intensivo.
 
 * `A Primer on Python for Life Science Researchers`_, versión en forma de publicación científica del trabajo anterior. La principal diferencia es que está versión ha sido revisada por el sistema de peer-review que se usa para las publicaciones científicas.
 
-* `Python Ya`_ Python desde cero. Tutorial web interactivo. Permite escribir y ejecutar nuestros programas directamente en la página, sin necesidad de tener Python instalado.
+* Para quien ya tiene alguna idea, pero necesita buscar algo puntual, puede probar:
 
-* Para quien ya tiene alguna idea, pero necesita buscar algo puntual, puede probar
+  * `Python Cheatsheet`_
 
-  * `Python 2.6 Quick Reference`_
-
-  * `Python 2.5 Quick Reference`_
-
-  * `Python 2.4 Quick Reference`_
+  * `Python Language Reference`_
 
 * Para los impacientes, para quienes quieren impresionar al jefe, para los que gustan de las ejemplos cortos, simples y efectivos, están estos MiniEjemplos_.
-
-* Y por último, el único, original e inimitable, clásico de clásicos que casi todos en la lista usamos para empezar: el `Tutorial de Python`_. **Hay gente de la lista que hizo una traducción al castellano**, esta disponible en http://tutorial.python.org.ar/
 
 * `Doma de Serpientes para Niños: Aprendiendo a Programar con Python`_ "Snake Wrangling for Kids" es un libro electrónico para niños de 8 o más años que quieran aprender a programar. Cubre lo básico de la programación utilizando el lenguaje de programación Python 3 como base para aprender los conceptos.
 
 * Este_ es un proyecto público y libre para mantener **toda** la documentación de Python traducida a nuestro idioma.
 
-Otras guías iniciales sobre python en español
----------------------------------------------
+Otras guías iniciales sobre Python en español.
+----------------------------------------------
 
 * Tutorial oficial escrito por el autor de Python.
 
-    `Guía de Aprendizaje de Python`_ Autor original Guido van Rossum, traducido por PyAr_
-
-* Completa introducción a Python.
-
-    `Un poco de python`_ Tomás Javier Robles Prado
+    `Guía de Aprendizaje de Python`_ Autor original Guido van Rossum.
 
 * Pequeña introducción al lenguaje Python.
 
@@ -75,19 +65,15 @@ Otras guías iniciales sobre python en español
 Documentación adicional sobre python en español
 -----------------------------------------------
 
-* El Tutorial de Django
+* Tutoriales de Django:
 
-    http://tutorialdjango.com.ar.
+    `Tutorial Django Mozilla`_
 
-* El libro de Web2py en español
+    `Tutorial Django Girls`_
+
+* El libro de Web2py en español:
 
     http://web2py.com/books/default/chapter/36 (cuarta edición, traducción en progreso)
-
-    http://www.latinuxpress.com/books/drafts/web2py/ (traducción anterior de Latinux Press).
-
-* Introducción a Python y PostgreSQL Un ejemplo sencillo
-
-    `Introducción a python/postgresql`_ Tomás Javier Robles Prado 2002
 
 * Procesando archivos XML con minidom, que forma parte de la librería estándar de Python
 
@@ -149,7 +135,7 @@ Proyecto de Extensión "Programando Robots con Software Libre", Laboratorio de I
 
 * Paper " "Modificaciones realizadas al Robot Multiplo N6 para permitir programación interactiva", publicado en las 9º Jornadas de Software Libre (JAIIO JSL)
 
-    http://www.41jaiio.org.ar/sites/default/files/11_JSL_2012.pdf
+    http://robots.linti.unlp.edu.ar/uploads/docs/modificaciones_realizadas_al_robot_multiplo_n6.pdf
 
 Ejemplos prácticos de problemas y soluciones frecuentes
 -------------------------------------------------------
@@ -161,45 +147,39 @@ Ejemplos prácticos de problemas y soluciones frecuentes
 Videos
 ------
 
-* Ejemplos de aplicaciones, cursos para Principiantes, Medios y Avanzados. Algunas categorías: python, wxpython, ipython, Django, Turbogears, etc.
+* Ejemplos de aplicaciones, cursos para principiantes, intermedios y avanzados. Algunas categorías: Python, Wxpython, Ipython, Django, Turbogears, etc.
 
-    http://showmedo.com/videotutorials/
+    https://www.youtube.com/results?search_query=python+language
 
 * Charlas Abiertas de Python, organizadas por Python Argentina
 
     `Lista de charlas realizadas`_ (Español)
 
- *Links revisados al 27/03/2011*
+ *Links revisados al 20/02/2021*
 
 .. _How to Think Like a Computer Scientist: http://greenteapress.com/thinkpython/thinkpython.html
 
-.. _Aprenda a pensar como un programador (con Python): http://web.ballardini.com.ar/ai/raw-attachment/wiki/BibliografiaPython/thinkCSpy-es.pdf
+.. _Aprenda a pensar como un programador (con Python): https://argentinaenpython.com/quiero-aprender-python/aprenda-a-pensar-como-un-programador-con-python.pdf
 
-.. _Byte of Python: http://www.byteofpython.info
+.. _Byte of Python: https://python.swaroopch.com/
 
-.. _Dive into Python: http://www.diveintopython.net/toc/index.html
+.. _Dive into Python: https://diveintopython3.problemsolving.io/
 
-.. _Inmersión en Python: http://almacen.gulic.org/diveintopython-5.4-es/
+.. _Inmersión en Python: http://index-of.co.uk/Programming/diveintopython-pdf-es-5.4-es.10.pdf
 
-.. _Instant Python: http://www.hetland.org/python/instant-python.php
-
-.. _Versión en español: http://www.arrakis.es/~rapto/AprendaPython.html
+.. _Instant Python: https://folk.idi.ntnu.no/mlh/hetland_org/writing/instant-python.html
 
 .. _El wiki oficial de Apache OpenOffice: https://wiki.openoffice.org/wiki/ES/Manuales/GuiaAOO/TemasAvanzados/Macros/Python
 
-.. _Tutorial Django (Proyecto Biblioteca Local): https://developer.mozilla.org/es/docs/Learn/Server-side/Django
+.. _Tutorial Django Mozilla (Proyecto Biblioteca Local): https://developer.mozilla.org/es/docs/Learn/Server-side/Django
 
-.. _Python Ya: http://pythonya.appspot.com/
+.. _Tutorial Django Girls: https://tutorial.djangogirls.org/es/
 
-.. _A Primer on Python for Life Science Researchers: http://compbiol.plosjournals.org/perlserv/?request=get-document&doi=10.1371/journal.pcbi.0030199
+.. _A Primer on Python for Life Science Researchers: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.0030199
 
-.. _Python Ya: http://pythonya.appspot.com/
+.. _Python Cheatsheet: https://www.pythoncheatsheet.org/
 
-.. _Python 2.6 Quick Reference: http://rgruet.free.fr/PQR26/PQR2.6.html
-
-.. _Python 2.5 Quick Reference: http://rgruet.free.fr/PQR25/PQR2.5.html
-
-.. _Python 2.4 Quick Reference: http://rgruet.free.fr/PQR24/PQR2.4.html
+.. _Python Language Reference: https://docs.python.org/3/reference/
 
 .. _Tutorial de Python: https://docs.python.org/3/tutorial/index.html
 
@@ -207,11 +187,9 @@ Videos
 
 .. _Este: http://pyspanishdoc.sourceforge.net/
 
-.. _Guía de Aprendizaje de Python: http://python.org.ar/pyar/Tutorial
+.. _Guía de Aprendizaje de Python: https://docs.python.org/es/3/tutorial/index.html
 
-.. _Un poco de python: http://users.servicios.retecal.es/tjavier/python/Un_poco_de_Python-2.html
-
-.. _MiniPython: http://archivo.slow.tk/programacion/python/documentacion/minipython.html
+.. _MiniPython: http://python-esp.blogspot.com/p/guia-rapida-de-python.html
 
 .. _Python Instantáneo: http://users.servicios.retecal.es/tjavier/python/Pequeno_tutorial_de_Pyhton.html
 
@@ -222,8 +200,6 @@ Videos
 .. _Python para todos: http://mundogeek.net/tutorial-python/
 
 .. _documentación oficial web2py (cap.2): http://www.latinuxpress.com/books/drafts/web2py/caps/cap2.html
-
-.. _Introducción a python/postgresql: http://users.servicios.retecal.es/tjavier/docfinal/out-htmls/index.html
 
 .. _Introducción a Minidom: http://sbassi.googlepages.com/leyendoxmlenpython:dom2
 
