@@ -29,6 +29,10 @@ Ahora ¿A dónde podrías recurrir para obtener información que te inicie en la
 
 * `Doma de Serpientes para Niños: Aprendiendo a Programar con Python`_ "Snake Wrangling for Kids" es un libro electrónico para niños de 8 o más años que quieran aprender a programar. Cubre lo básico de la programación utilizando el lenguaje de programación Python 3 como base para aprender los conceptos.
 
+* Libro Oficial de web2py de Massimo Di Pierro. El lenguaje Python (Capítulo 2)
+
+    `Documentación oficial web2py (Cap.2)`_ Massimo Di Pierro 
+
 * Este_ es un proyecto público y libre para mantener **toda** la documentación de Python traducida a nuestro idioma.
 
 Otras guías iniciales sobre Python en español.
@@ -57,17 +61,15 @@ Otras guías iniciales sobre Python en español.
 * Libro Python para todos de Raúl González Duque. Introducción al lenguaje e utilización de la librería estándar de python.
 
     `Python para todos`_ Raúl González Duque - En español(Licencia Creative Commons)
+    
 
-* Libro Oficial de web2py de Massimo di Pierro. El lenguaje Python (Capítulo 2)
-
-    `documentación oficial web2py (cap.2)`_ Massimo di Piero - En español (traducido Latinux, revisado por la comunidad)
-
-Documentación adicional sobre python en español
------------------------------------------------
+Documentación adicional sobre Python en español.
+------------------------------------------------
 
 * Tutoriales de Django:
 
     `Tutorial Django Mozilla`_
+    
 
     `Tutorial Django Girls`_
 
@@ -75,15 +77,15 @@ Documentación adicional sobre python en español
 
     http://web2py.com/books/default/chapter/36 (cuarta edición, traducción en progreso)
 
-* Procesando archivos XML con minidom, que forma parte de la librería estándar de Python
+* Procesando archivos XML con minidom, que forma parte de la librería estándar de Python.
 
     `Introducción a Minidom`_ SebastianBassi_.
 
-* Acceso a Bases de Datos desde Python: Interfaz DB-API
+* Acceso a Bases de Datos desde Python: Interfaz DB-API.
 
     DbApi_ MarianoReingart_.
 
-* Programación de funciones (procedimientos almacenados) y disparadores en PostgreSQL con Pl/Python
+* Programación de funciones (procedimientos almacenados) y disparadores en PostgreSQL con Pl/Python.
 
     PlPython_ MarianoReingart_.
 
@@ -91,67 +93,67 @@ Documentación adicional sobre python en español
 
     PythonCard_ MarianoReingart_.
 
-Documentación oficial sobre Python
-----------------------------------
+Documentación oficial sobre Python.
+-----------------------------------
 
-* Versión actual
+* Versión actual:
 
     http://docs.python.org/
 
-* Versiones anteriores
+* Versiones anteriores:
 
     http://www.python.org/doc/versions/
 
-* Versión en desarrollo
+* Versión en desarrollo:
 
     http://docs.python.org/dev/library/index.html
 
-Apuntes Universitarios
-----------------------
+Apuntes universitarios.
+-----------------------
 
-Universidad de Buenos Aires, Facultad de Ingeniería (FIUBA) materia "Algoritmos y Programación 1", cátedra Wachenchauzer, se utiliza Python y están disponible los materiales en la siguiente página:
+Universidad de Buenos Aires, Facultad de Ingeniería (FIUBA) materia "Algoritmos y Programación 1", cátedra Wachenchauzer, se utiliza Python y están disponibles los materiales en la siguiente página:
 
-* Página Web:
+* Página web:
 
     https://sites.google.com/site/fiuba7540rw/
 
-* Apuntes
+* Apuntes:
 
     https://sites.google.com/site/fiuba7540rw/home/apunte_7540.pdf
 
-* Ejercicios
+* Ejercicios:
 
     https://sites.google.com/site/fiuba7540rw/home/ejercicios.pdf
 
 Proyecto de Extensión "Programando Robots con Software Libre", Laboratorio de Investigación de Nuevas Tecnologías Informáticas (LINTI), Facultad de Informática, Universidad Nacional de La Plata. Lic. Claudia Banchoﬀ y grupo Lihuen.
 
-* Sitio Web
+* Sitio web:
 
     http://robots.linti.unlp.edu.ar
 
-* Manual "Programando con Robots"
+* Manual "Programando con Robots":
 
     http://robots.linti.unlp.edu.ar/img_auth.php/4/4a/Manual-programando-con-robots.pdf
 
-* Paper " "Modificaciones realizadas al Robot Multiplo N6 para permitir programación interactiva", publicado en las 9º Jornadas de Software Libre (JAIIO JSL)
+* Paper " "Modificaciones realizadas al Robot Multiplo N6 para permitir programación interactiva", publicado en las 9º Jornadas de Software Libre (JAIIO JSL):
 
     http://robots.linti.unlp.edu.ar/uploads/docs/modificaciones_realizadas_al_robot_multiplo_n6.pdf
 
-Ejemplos prácticos de problemas y soluciones frecuentes
--------------------------------------------------------
+Ejemplos prácticos de problemas y soluciones frecuentes.
+--------------------------------------------------------
 
 * `Python Recipes - ActiveState`_ (Inglés)
 
 * `Recetario`_ - Python Argentina (Español)
 
-Videos
-------
+Videos.
+-------
 
-* Ejemplos de aplicaciones, cursos para principiantes, intermedios y avanzados. Algunas categorías: Python, Wxpython, Ipython, Django, Turbogears, etc.
+* Ejemplos de aplicaciones, cursos para principiantes, intermedios y avanzados. Algunas categorías: Python, Wxpython, Ipython, Django, Flask, etc.:
 
     https://www.youtube.com/results?search_query=python+language
 
-* Charlas Abiertas de Python, organizadas por Python Argentina
+* Charlas Abiertas de Python, organizadas por Python Argentina:
 
     `Lista de charlas realizadas`_ (Español)
 
@@ -199,7 +201,7 @@ Videos
 
 .. _Python para todos: http://mundogeek.net/tutorial-python/
 
-.. _documentación oficial web2py (cap.2): http://www.latinuxpress.com/books/drafts/web2py/caps/cap2.html
+.. _Documentación oficial web2py (Cap.2): http://web2py.com/books/default/chapter/29/02/the-python-language
 
 .. _Introducción a Minidom: http://sbassi.googlepages.com/leyendoxmlenpython:dom2
 
