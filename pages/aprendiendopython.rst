@@ -174,7 +174,7 @@ Videos.
 
 .. _El wiki oficial de Apache OpenOffice: https://wiki.openoffice.org/wiki/ES/Manuales/GuiaAOO/TemasAvanzados/Macros/Python
 
-.. _Tutorial Django Mozilla (Proyecto Biblioteca Local): https://developer.mozilla.org/es/docs/Learn/Server-side/Django
+.. _Tutorial Django Mozilla: https://developer.mozilla.org/es/docs/Learn/Server-side/Django
 
 .. _Tutorial Django Girls: https://tutorial.djangogirls.org/es/
 
