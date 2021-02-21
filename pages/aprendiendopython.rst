@@ -68,7 +68,7 @@ Documentación adicional sobre Python en español.
 
 * Tutoriales de Django:
 
-    `Tutorial Django Mozilla`_
+    `Tutorial Django Mozilla`
     
 
     `Tutorial Django Girls`_
