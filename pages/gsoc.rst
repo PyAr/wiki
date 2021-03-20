@@ -27,7 +27,7 @@ Revisar frecuentemente `Página de Ideas <https://github.com/orgs/PyAr/projects>
 
 Para ver todos los proyectos de la comunidad Python Argentina: `Listado </proyectos>`__ y `Repositorio <http://www.github.com/PyAr>`__
 
-¡Tenés una idea interesante para proponer o querés mentorear? ¡Contáctanos en secretaria+gsoc2019@ac.python.org.ar!
+¡Tenés una idea interesante para proponer o querés mentorear? ¡Contáctanos en secretaria+gsoc@ac.python.org.ar!
 
 Como empezar:
 =============
@@ -76,7 +76,7 @@ Si quieres participar como estudiante, por favor sigue los siguientes lineamient
 1. **¡Preséntate!**
 
    Escribe a el `Grupo de Google <https://groups.google.com/d/forum/pyar-gsoc>`_ pyar-gsoc@googlegroups.com
-   (para preguntas generales del GSoC: secretaria+gsoc2019@ac.python.org.ar). Indicar claramente:
+   (para preguntas generales del GSoC: secretaria+gsoc@ac.python.org.ar). Indicar claramente:
 
    * ¿Por qué querés participar del GSoC?, brevemente comenta tu experiencia y expectativas
    * ¿Qué proyecto preferirías?: revisa la página de `ideas <https://github.com/orgs/PyAr/projects/1>`_
@@ -96,7 +96,7 @@ Si quieres participar como estudiante, por favor sigue los siguientes lineamient
    Selecciona la idea de proyecto y escribe una propuesta detallada usando Google Docs (por adelantado!)
 
    * Por favor abre y lee el detalle de la idea por adelantado. Pregunta si tienes dudas.
-   * Define 3 hitos & entregables (i.e. Prueba-de-Concepto, Prototipo, Demo Final)
+   * Define 2 hitos & entregables (i.e. Prueba-de-Concepto/Prototipo, Demo Final)
    * Planifica las tareas (objetivos de alto nivel para cada hito)
    * Describe el criterio de aceptación ("Producto Mínimo Viable" de cada fase)
    * Comparte un borrador tempranamente via Google Docs (ver `plantilla <https://github.com/python-gsoc/python-gsoc.github.io/blob/master/application2019.md>`_) y discute tu enfoque en la lista de correo con los mentores
@@ -119,7 +119,7 @@ Preguntas Frecuentes
 
 Los estudiantes para poder ser aceptados deben presentar una **"Constancia de Inscripción"**
 de una Entidad Educativa reconocida oficialmente (Universidad o Instituto similar),
-que indique que esn cursando al 6 de Mayo de 2019:
+que indique que esn cursando a la fecha requerida por Google:
 https://developers.google.com/open-source/gsoc/help/proof-of-enrollment
 
 NOTA: los cursos online no son aceptados. Es requisito ser alumno regular -presencial o a distancia- de una carrera de grado o post-grado con reconocimiento oficial.
@@ -129,18 +129,18 @@ NOTA: los cursos online no son aceptados. Es requisito ser alumno regular -prese
 
 El monto de la beca lo determina Google basado en la Paridad de Poder Adquisitivo (PPP) de cada país.
 
-Para Argentina 2019, el importe de la beca para estudiantes sería hasta: **USD 4200** (Dólares EE.UU.); se paga en 3 tramos dependiendo del avance del proyecto
+Para Argentina 2021, el importe de la beca para estudiantes sería hasta: **USD 1500** (Dólares EE.UU.); se paga en tramos dependiendo del avance del proyecto
 (mientras el estudiante supere las evaluaciones y continúe en el GSoC):
 https://developers.google.com/open-source/gsoc/help/student-stipends
 
 NOTA: los mentores y administradores colaboran ad-honorem (voluntariado), por lo que no reciben ninguna retribución económica.
-Google dona USD 500 a las organizaciones por cada proyecto aceptado, que son redestinados a `programas de ayuda financiera de la PSF <https://www.python.org/psf/grants/>`_
+Google dona USD 400 a las organizaciones por cada proyecto aceptado, que son redestinados a `programas de ayuda financiera de la PSF <https://www.python.org/psf/grants/>`_
 
 ¿Cuanto tiempo hay que dedicarle al GSoC?
 -----------------------------------------
 
 Se `espera <https://developers.google.com/open-source/gsoc/faq#how_much_time_does_gsoc_participation_take>`_
-que los estudiantes le dediquen **30+ horas semanales** en el período de 3 meses que dura el programa, lo que equivale a una trabajo de tiempo completo.
+que los estudiantes le dediquen **18 horas semanales** en el período de 2 meses que dura el programa, lo que equivale a una trabajo de tiempo completo.
 
 Idealmente no deberías tener otra pasantía, trabajo u obligación académica de tiempo completo mientras estés participando del GSoC.
 
@@ -159,30 +159,7 @@ El trabajo administrativo más pesado lo haremos desde la Asociación Civil.
 Al ser nuestra primera participación, es posible que sólo tengamos disponibilidad para 1 o 2 estudiantes
 (en total para proyectos dentro de Python Argentina).
 
-Te alentamos a que busques y también presentes solicitudes para otros `Proyectos Python bajo la PSF <http://python-gsoc.org/#ideas>`_:
-
-* `MNE-Python <https://github.com/mne-tools/mne-python/wiki/GSOC-Ideas>`_ (processing electroencephalography (EEG) and magnetoencephalography (MEG) data)
-* `PySAL <https://github.com/pysal/pysal/wiki/Google-Summer-of-Code-2019>`_ (quantitative analysis of geographic data)
-* `Python Software Foundation GSoC Team <http://python-gsoc.org/psf_ideas.html>`_ (blog management tools)
-* `SciPy <https://github.com/scipy/scipy/wiki/GSoC-2019-project-ideas>`_ (fundamental routines for scientific computing)
-* `StarKit <http://opensupernova.org/starkit_gsoc2019/doku.php?id=ideas_page>`_ (astrophysics inference)
-* `Nuitka <http://nuitka.net/gsoc2019.html#ideas>`_ (python compiler)
-* `MSS - Mission Support System <https://bitbucket.org/wxmetvis/mss/wiki/GSOC2019/project-ideas>`_ (atmospheric research flight planner)
-* `EOS Design System <https://gitlab.com/SUSE-UIUX/eos/wikis/GSoC-2019-Sub-org-at-Python.org:-EOS>`_ (UX, UI design tools)
-* `Scrapy <https://gsoc2019.scrapinghub.com/ideas>`_ (web scraping framework)
-* `Statsmodels <https://github.com/statsmodels/statsmodels/wiki/Google-Summer-of-Code-2019>`_ (statistics and econometrics)
-* `Buildbot <https://github.com/buildbot/buildbot/wiki/Buildbot-GSoC-Projects-2019>`_ (automating software build, test, and release processes)
-* `CVE Binary Tool <https://github.com/intel/cve-bin-tool/wiki/CVE-Binary-Tool-Ideas-Page-for-GSoC-2019>`_ (scans for a number of common, vulnerable open source components )
-* `Mercurial <https://www.mercurial-scm.org/wiki/SummerOfCode/Ideas2019>`_ (source control management)
-* `TARDIS <http://opensupernova.org/tardis_gsoc2019/doku.php>`_ (open-source code to explore observations of supernovae)
-* `LiberTEM <https://libertem.github.io/LiberTEM/gsoc.html>`_ (platform for high-throughput distributed processing of pixelated scanning transmission electron microscopy (STEM))
-* `Panda3D <https://www.panda3d.org/gsoc-2019-ideas>`_ (framework for 3D rendering and games)
-* `Plone CMS <https://plone.org/community/gsoc/2019/>`_ (built with workflow and security at the forefront)
-
-Amigos de la PSF:
-
-* `Open Astronomy <https://openastronomy.org/gsoc/gsoc2019/#/projects>`_
-* `GNU Mailman <https://wiki.list.org/DEV/Google%20Summer%20of%20Code%202019>`_
+Te alentamos a que busques y también presentes solicitudes para otros `Proyectos Python bajo la PSF <http://python-gsoc.org/#ideas>`_
 
 Cada estudiante puede enviar hasta 3 solicitudes en total (mismo o distinto proyecto).
 Cada proyecto necesita al menos 2 mentores (uno principal y otro de "backup").
@@ -194,14 +171,11 @@ El GSoC es un programa muy demandado a nivel mundial, por lo que en general sól
 Cronograma y Fechas Límite 2019:
 --------------------------------
 
-* **4 de Febrero** - Limite para convocatoria Proyectos de Sub-Organizaciones bajo la PSF
-* **5 de Marzo** - Cierre convocatoria extendida Proyectos de Sub-Organizaciones bajo la PSF
-* **25 de Marzo** - **9 de Abril** - período para envío de solicitudes de Estudiantes (¡no hay extensión!).
-* **6 de Mayo**: Anuncio de los poyectos de estudiantes seleccionados e inicia el *community bonding* ("aclimatación")
-* **27 de Mayo**: ¡Los estudiantes comienzan a programar!
-* **26 de Junio** - deadline Evaluación Fase 1 (para mentores)
-* **24 de Julio** - deadline Evaluación Fase 2 (para mentores)
-* **31 de Agosto** - deadline Evaluación Final
+* **29 de Marzo** - **13 de Abril** - período para envío de solicitudes de Estudiantes (¡no hay extensión!).
+* **17 de Mayo**: Anuncio de los poyectos de estudiantes seleccionados e inicia el *community bonding* ("aclimatación")
+* **7 de Junio**: ¡Los estudiantes comienzan a programar!
+* **16 de Julio**: Evaluaciones intermedias 
+* **16 de Agosto**: Entrega final y Evaluación Final
 
 Blogs y Referencias sobre el GSoC
 =================================
