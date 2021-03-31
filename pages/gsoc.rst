@@ -172,7 +172,7 @@ Cronograma y Fechas Límite 2019:
 --------------------------------
 
 * **29 de Marzo** - **13 de Abril** - período para envío de solicitudes de Estudiantes (¡no hay extensión!).
-* **17 de Mayo**: Anuncio de los poyectos de estudiantes seleccionados e inicia el *community bonding* ("aclimatación")
+* **17 de Mayo**: Anuncio de los proyectos de estudiantes seleccionados e inicia el *community bonding* ("aclimatación")
 * **7 de Junio**: ¡Los estudiantes comienzan a programar!
 * **16 de Julio**: Evaluaciones intermedias 
 * **16 de Agosto**: Entrega final y Evaluación Final
