@@ -11,13 +11,16 @@ if (window.location.host.includes("staging")) {
             $(this).attr("href", href);
         }
     });
-    $(".nav-item").removeClass("active");
-    var pathname = window.location.pathname;
-    var headerElement = $(".wiki");
-    if (pathname == "/pyar/") {
-        headerElement = $(".quienes_somos");
-    } else if (pathname == "/listadecorreo/") {
-        headerElement = $(".navbar_lista_de_correo");
-    }
-    headerElement.parent().parent().addClass("active");
 }
+
+$(".nav-item").removeClass("active");
+var pathname = window.location.pathname;
+var headerElement = $(".wiki");
+if (pathname == "/pyar/") {
+    headerElement = $(".quienes_somos");
+} else if (pathname == "/listadecorreo/") {
+    headerElement = $(".navbar_lista_de_correo");
+} else if ( window.location.host.includes("planeta") {
+    headerElement = $(".pyar")
+} 
+headerElement.parent().parent().addClass("active");
