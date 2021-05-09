@@ -13,6 +13,7 @@ if (window.location.host.includes("staging")) {
     });
 }
 
+
 $(".nav-item").removeClass("active");
 var pathname = window.location.pathname;
 var headerElement = $(".wiki");
@@ -20,7 +21,7 @@ if (pathname == "/pyar/") {
     headerElement = $(".quienes_somos");
 } else if (pathname == "/listadecorreo/") {
     headerElement = $(".navbar_lista_de_correo");
-} else if ( window.location.host.includes("planeta") {
+} else if (window.location.host.includes("planeta")) {
     headerElement = $(".pyar")
 } 
 headerElement.parent().parent().addClass("active");
