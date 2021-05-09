@@ -195,7 +195,7 @@ h4.list-group-item-heading {
 	text-indent: -9999px;
 	background-position: center;
 	background-repeat: no-repeat;
-	background-image: url(/images/logo-header.png);
+	background-image: url(https://www.python.org.ar/static/img/logo-header.png);
 }
 
 #header button.navbar-toggle {
@@ -241,12 +241,12 @@ ul.navbar-nav > li > a > span {
 }
 
 ul.navbar-nav > li:not(.active) > a > span {
-        background-image: url(/images/icons.png);
+        background-image: url(https://www.python.org.ar/static/img/icons/icons.png);
 }
 
 ul.navbar-nav > li.active > a > span,
 ul.navbar-nav > li:hover > a > span {
-        background-image: url(/images/icons_active.png);
+        background-image: url(https://www.python.org.ar/static/img/icons/icons_active.png);
 }
 
 ul.navbar-nav > li > a > span.inicio {
