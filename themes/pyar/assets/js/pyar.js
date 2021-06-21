@@ -19,7 +19,7 @@ var pathname = window.location.pathname;
 var headerElement = $(".wiki");
 if (pathname == "/pyar/") {
     headerElement = $(".quienes_somos");
-} else if (pathname == "/listadecorreo/") {
+} else if (pathname == "/listadecorreo/" || pathname == "/foro_y_redes/") {
     headerElement = $(".navbar_lista_de_correo");
 } else if (window.location.host.includes("planeta")) {
     headerElement = $(".pyar")
