@@ -1,12 +1,13 @@
-.. title: Evento suspendido por la pandemia COVID-19
+.. title: ¿Un qué?
 
-No estés triste, ya estamos organizando el `siguiente </PyCamp/2021/>`_.
+
+Antes que nada, ¿qué es un PyCamp? `Acá tenés una buena descripción y mucha info </pycamp>`_.
 
 
 Fechas:
 -------
 
-21, 22, 23 y 24 de marzo (sábado, domingo, lunes (feriado puente) y martes feriado por el Día Nacional de la Memoria por la Verdad y la Justicia.
+20 (feriado), 21, 22 (feriado) y 23 (día laborable) de noviembre.
 
 Qué llevo:
 ----------
@@ -26,7 +27,7 @@ Sede: Los reyunos, San Rafael, Mendoza
 
 `UTN Reyunos <http://www.reyunos.utn.edu.ar/>`_ (Algunos link no funcionan en la versión mobile)
 
-Como ya fuimos el año pasado, podés ver las `fotos de la edición anterior <https://bit.ly/34TnixX>`_.
+Como ya fuimos a este lugar, podés ver las `fotos de la edición anterior <https://bit.ly/34TnixX>`_.
 
 
 **Donde está:**
@@ -35,11 +36,11 @@ Como ya fuimos el año pasado, podés ver las `fotos de la edición anterior <ht
 
  * Distancias:
 
-   * 716 Km Córdoba Capital (11 horas en colectivo)
+   * 716 Km Córdoba Capital (11 horas en colectivo, vuelo directo a Mendoza capital)
 
-   * 238km de Mendoza Capital (~3:30 Hs en colectivo, hay viajas a cada hora aprox.)
+   * 238km de Mendoza Capital (~3:30 Hs en colectivo, hay viajes a cada hora aprox.)
 
-   * 967km de Capital Federal (unas 14:00 en colectivo)
+   * 967km de Capital Federal (unas 14hs en colectivo, vuelo diario directo a San Rafael)
 
 **Formas de llegar:**
 
@@ -47,9 +48,9 @@ El destino es la ciudad de San Rafael, Mendoza, ya que no hay forma directa de l
 
 * En auto: las rutas desde Córdoba, Mendoza, y Buenos Aires a San Rafael están en condiciones. Desde San Rafael a Los Reyunos es media hora en auto.
 
-* En colectivo: hay gran variedad de empresas que llegan a la ciudad, es una ciudad muy turística. Por dar dos ejemplos, desde Buenos Aires a San Rafael, el Andesmar sale alas 20.15hs, llegando a destino a las 9:55hs (costo $3000). Desde Córdoba, la linea 20 de Junio sale a las 19.30hs, llegando a San Rafael a las 6:00hs (costo ~$1400).
+* En colectivo: hay gran variedad de empresas que llegan a la ciudad, es una ciudad muy turística. Por dar dos ejemplos, desde Buenos Aires a San Rafael, el Andesmar sale a las 20.15hs, llegando a destino a las 9:55hs. Desde Córdoba, la linea 20 de Junio sale a las 19.30hs, llegando a San Rafael a las 6:00hs. *Nota: estos ejemplos son de antes de la pandemia, pueden haber sufrido cambios de horario y/o recorrido*.
 
-* En Avión: Existe solo un vuelo que llega a San Rafael, y viene desde Buenos Aires (Sale a las 11.30hs). Si vienen desde otros origenes, seguramente existan combinaciones. La forma más economica es viajar en avión a Mendoza, y desde allí en colectivo (tiene un costo de $270 y tarda un poquito más de 3hs en llegar)
+* En Avión: Existe solo un vuelo que llega a San Rafael, y viene desde Buenos Aires (Sale a las 11.30hs). Si vienen desde otros origenes, seguramente existan combinaciones. La forma más economica es viajar en avión a Mendoza, y desde allí en colectivo (tarda un poquito más de 3hs en llegar)
 
 * De San Rafael a Los Reyunos: existe un colectivo urbano que va en la mañana, mediodia y en la tarde a los Reyunos. Adicionalmente, se está coordinando con la facultad la utilización de un transporte propio, para el dia viernes y/o sábado. Se coordinará horario más sobre la fecha.
 
@@ -61,9 +62,9 @@ Seguramente haremos pycada y/o cerveza artesanal y/o vino local, pero está fuer
 
 **Detalles extras del alojamiento:**
 
-Nos distribuiremos entra casas y el hostel. **Tenemos un cupo limitado de 40 personas**.
+Nos distribuiremos entra casas y el hostel. **Tenemos un cupo limitado de 50 personas**.
 
-* Casa 1: 4 habiatciones con dos camas cada una y baño privado en cada habitación. 8 personas
+* Casa 1: 4 habitaciones con dos camas cada una y baño privado en cada habitación. 8 personas
 
 * Casa 2: 2 habitaciones con 2 camas -1 hab. con 3 camas - un baño común - 7 personas
 
@@ -79,20 +80,23 @@ Dado que debemos reservar la/s casa/s o hostel (dependiendo de cuantas personas 
 
 Esto se abona directamente en el lugar, **no** lo incluyan en el pago de la inscripción.
 
-Tenés tiempo hasta el 13/03/2020 para reservar tu lugar.
+Tenés tiempo hasta el 01/11/2021 para reservar tu lugar.
+
 
 Precios e Inscripciones
 -----------------------
 
 El precio por los cuatro días (incluye las comidas, alojamiento, usos de las instalaciones, WiFi, etc.) es:
 
-  **$9.800** final (IVA incluido)
+  **$15.800** final (IVA incluido)
+
+  Se puede hacer factura A a empresas: **$13.057,85** + IVA
 
 Si sos socie de la Asociación Civil Python Argentina tenés descuento! El precio que aplica es:
 
-  Socies actives: **$7.840** final (IVA incluido)
+  Socies actives: **$14.220** final (IVA incluido)
 
-  Socies adherentes: **$8.820** final (IVA incluido)
+  Socies adherentes: **$12.640** final (IVA incluido)
 
 Se puede pagar por transferencia/depósito o por Todo Pago con rapipago/pagofacil/tarjetas/etc (con un 5% extra).
 
@@ -109,16 +113,13 @@ Se puede pagar por transferencia/depósito o por Todo Pago con rapipago/pagofaci
     CBU 19101530-55015300974832 / Alias: python
 
 
-* Por Todo Pago - con tarjetas, rapipago, pagofacil, etc (5% extra):
+* Por Mercado Pago - con tarjetas, rapipago, pagofacil, etc (5% extra):
 
-    No socies ($10.300)
-    https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=282968656-62aa4fb3-17fb-4171-bfeb-953a76092c82
+    No Socies ($ 16.590): https://mpago.la/2GrGMr2
 
-    Socies adherentes ($9.260)
-    https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=282968656-acf78faf-0406-436d-93ef-3fa2612edaa1
+    Socies adherentes ($ 14.931): https://mpago.la/19PVmfT
 
-    Socies actives ($8.230)
-    https://www.mercadopago.com.ar/checkout/v1/redirect?pref_id=282968656-b29c7b76-1d33-44d3-b537-016c27e60377
+    Socies actives ($ 13.272): https://mpago.la/1jd49GD
 
 
 Luego de pagar tienen que mandar un mail a presidencia@ac.python.org.ar indicando:
@@ -135,13 +136,17 @@ Luego de pagar tienen que mandar un mail a presidencia@ac.python.org.ar indicand
 
 - otras observaciones
 
-Si querés que la empresa donde trabajás te pague el PyCamp, les hacemos factura A (el monto es el "final", pagado por transferencia).
 
-**Hay tiempo para anotarse hasta el 13/03/20.**
+**Hay tiempo para anotarse hasta el 01/11/21.**
 
 Organizadores:
 --------------
-WinnaZ `Telegram: @WinnaZ <https://t.me/WinnaZ>`_ y Matu `Telegram: @m4tuu <https://t.me/m4tuu>`_, con el soporte de la Asociación Civil Python Argentina.
+- WinnaZ `@WinnaZ <https://t.me/WinnaZ>`_
+- Facu `@facundobatista <https://t.me/facundobatista>`_
+- Lecovi `@lecovi <https://t.me/lecovi>`_
+- Matu `@m4tuu <https://t.me/m4tuu>`_
+
+**Con el soporte de la Asociación Civil Python Argentina.**
 
 Cualquier duda, tema, o lo que quieras preguntar, `mandanos un mail <mailto:pycamp@python.org.ar>`_.
 
