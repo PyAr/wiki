@@ -94,9 +94,9 @@ El precio por los cuatro días (incluye las comidas, alojamiento, usos de las in
 
 Si sos socie de la Asociación Civil Python Argentina tenés descuento! El precio que aplica es:
 
-  Socies actives: **$14.220** final (IVA incluido)
+  Socies adherentes: **$14.220** final (IVA incluido)
 
-  Socies adherentes: **$12.640** final (IVA incluido)
+  Socies actives: **$12.640** final (IVA incluido)
 
 Se puede pagar por transferencia/depósito o por Todo Pago con rapipago/pagofacil/tarjetas/etc (con un 5% extra).
 
