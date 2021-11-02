@@ -1,4 +1,4 @@
-FROM dragas/nikola:latest
+FROM dragas/nikola:latest AS nikola
 COPY . /nikola 
 RUN nikola build
 
