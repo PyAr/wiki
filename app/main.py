@@ -9,7 +9,7 @@ from flask import Flask
 
 REPO_URL = os.environ.get('REPO_URL', 'https://github.com/PyAr/wiki.git')
 BRANCH_NAME = os.environ.get('BRANCH_NAME', 'master')
-CLONE_PATH = os.environ.get('CLONE_PATH', '/wiki_repo')
+CLONE_PATH = os.environ.get('CLONE_PATH', '/app/wiki_repo')
 DESTINATION_PATH = os.environ.get('DESTINATION_PATH', '/usr/share/nginx/html')
 
 

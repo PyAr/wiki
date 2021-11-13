@@ -20,3 +20,14 @@ Cómo buildear las páginas
 
     nikola build
     nikola serve
+
+Cómo buildear la imagen de docker
+=================================
+
+.. code-block:: console
+
+     docker build --no-cache --tag tzulberti/wiki -f Dockerfile .
+
+
+Se necesita el `--no-cache` para que la parte de clonar el repo de la
+wiki no use un cache sino que se haga todo el tiempo.
