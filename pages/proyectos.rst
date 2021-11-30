@@ -296,9 +296,6 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 
   * Herramienta educativa para trabajar con Álgebra Relacional.
 
-* `Peicel Graphics`_
-
-  * Paint Programado en Python Tkinter.
 
 -------------------------
 
@@ -441,8 +438,6 @@ Estos son los proyectos que si bien no fueron impulsados desde PyAr_, están rel
 .. _rst2html5: https://github.com/marianoguerra/rst2html5/
 
 .. _Pireal: https://centaurialpha.github.io/pireal
-
-.. _Peicel Graphics: http://ge.tt/2LtQT7m2.. _pyar: /pyar
 
 .. _Pimp my pillow: https://github.com/edvm/pimp-my-pillow
 
