@@ -65,6 +65,11 @@ Ediciones anteriores
 
 * Décima edición `Baradero, Buenos Aires. Marzo de 2017`_
 
+* Decimoprimera edición Baradero, Buenos Aires, 2018
+* Decimosegunda edición San Rafael, Mendoza, 2019
+* Decimotercera edición San Rafael, Mendoza, 2020/2021
+* Decimocuarta edición Baradero, Buenos Aires, 2022
+
 
 Blogpost sobre Pycamps
 ----------------------
