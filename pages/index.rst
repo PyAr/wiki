@@ -3,7 +3,7 @@
 * `Quiénes Somos`_
     Información general sobre que es Python Argentina
 * Eventos_
-    Aquí encontrarás información sobre las actividades que realizamos.
+    Información sobre las actividades que realizamos.
 * `Foro y Redes`_
 	Información sobre el foro (nuestro principal canal de comunicación) y otras redes sociales.
 * Proyectos_
