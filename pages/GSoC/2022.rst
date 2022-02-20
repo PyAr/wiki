@@ -5,6 +5,39 @@ Ideas for Google Summer of Code 2022
 
 The following are the proposed projects for inclusion into Google Summer of Code 2022. 
 
+PyZombis
+--------
+
+A Community course, completely online and interactive, to teach Python to everyone!
+
+.. image:: https://raw.githubusercontent.com/PyAr/PyZombis/main/_sources/lectures/img/TWP_small.png
+   :align: left
+
+Online course: http://pyar.github.io/PyZombis *draft*
+
+It has the potential bring up the materials to make a massive Spanish online community course.
+The original Brazilian MOOC Python para Zumbis created by Fernando Masanori that has +500k reproductions in Youtube and taught over 70K students basic Python.
+
+The project is almost complete, most lectures and exercises were implemented and can be fully online.
+Students don't need to install python in their computer, and teachers don't need costly infrastructure to host the course.
+
+Initial workshop with students found some easy good first issues to fix (improvements for learners).
+
+Advanced contributors could look at some lectures that are not implelemted yet in a browser (databases, games, etc.)
+
+- Project information:
+    - `Repository <https://github.com/PyAr/PyZombis>`__
+    - `Good first issues <https://github.com/PyAr/PyZombis/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22>`__
+
+- Project ideas: 
+    - SQL python lectures using javascript (SQLite.js) `https://github.com/PyAr/PyZombis/issues/193`
+    - PyGame lecture using javascript
+
+- Difficulty level: Easy / Intermediate
+
+- Technologies involved: Python, Javascript
+
+- Potential mentor: Mariano Reingart
 
 PyEmpaq
 -------
