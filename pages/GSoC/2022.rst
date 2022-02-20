@@ -27,3 +27,81 @@ Both the packaging and the execution are fully multiplatorm. This means that you
 - Technologies involved: Packaging, Virtual environments
 
 - Potential mentor: Facundo Batista
+
+About Python Argentina
+======================
+
+We are looking for new pythonistas!
+
+Help us to foster development of several open source community projects. Many are fun and innovative, other are challenging and resolves real world requirements.
+
+The association was founded aiming to help the Python devs, increasing its diversity and outreach, specially overcoming minorities and cultural barriers (mainly socioeconomic, language, gender), serving as an umbrella organization to some ongoing efforts.
+
+Spanish is one of the most spoken language in the world, and many of our developed tools and libraries are aimed to fill missing open-source gap.
+They can help to learn and further work with Python, either to enthusiasts, professional programmers or even final users!
+
+Experienced developers, teachers and volunteers will assist you, guiding throughout the process with well defined goals (according skills and tech background)
+
+Contacting Us
+-------------
+
+We're in Argentina time zone (GMT-3)
+
+* Telegram: https://t.me/+ljnpIYBUMLI3MDAx
+* Forum: https://pyar.discourse.group/
+* Email: secretaria+gsoc@ac.python.org.ar
+
+NOTE: Spanish is a requisite for many projects, as it is the language used for documentation and community communications. 
+In the other side, if you do not speak English fluently, we can help you with translations and guidance (in Spanish, of course).
+
+NOTA: Si hablás Español pero te cuesta el Inglés, te podemos ayudar con las traducciones y redacciones para que puedas participar! No te preocupes, el día a día y documentación en general están en Castellano.
+
+Visitá nuestra GSoC Wiki en Español para más información: https://wiki.python.org.ar/gsoc/
+
+We want our community to be more diverse: whoever you are, and whatever your background, we welcome you.
+
+Queremos que nuestra comunidad sea más diversa: quienquiera que seas, sea cual sea tu origen, te damos la bienvenida
+
+Getting Started
+===============
+
+If you want to participate as a contributor, please follow the next guidelines:
+
+Presenting yourself
+-------------------
+
+Write to the Telegram group about you. State clearly:
+
+* Why you want to participate in GSoC, shortly comment your background and expectations
+* What project would you prefer: look at this page for ideas
+* What is your previous experience, Python skills, django, hg/git, js, etc.
+
+Fixing a bug!
+-------------
+
+* Ask for a simple ticket. For example, take a look at CDPedia, PyAfipWs, OpenLex, PyZombis.
+* Create an user in GitHub (if you don't have one)
+* Fork the project repository and try to fix an issue of your desired project
+* Discuss with potential mentors your fix, creating a Pull Request as early as possible!
+
+Writing a Proposal
+------------------
+
+* Select a project idea and write a detailed proposal using Google Docs (in advance!)
+* Define 3 milestones & deliverables (i.e. Proof-Of-Concept, Prototype, Final Demo)
+* Tasking out (high level goals for each milestone)
+* Describe the acceptance criteria ("Minimum Viable Product" of each phase)
+
+Share an early draft (based on the Application Template, using Google Docs) and discuss your approach in the group with mentors
+Do not forget to submit your application to Google system when ready, before deadline
+
+IMPORTANT:
+----------
+
+Late, incomplete or low quality proposals will not be considered at all. 
+Mentor's time and available students slots are limited, so please ask intelligently for advice and feedback early.
+
+Last minute applications are generally a signal of further problems (for you and for us too, please avoid!).
+Proposals without any previously contribution in the repository (i.e. bug-fix issue) will be rejected.
+
+You're expected to have almost full time dedication to the GSoC, so plan accordingly and disclose any potential commitment (exams, work, vacations, travels, etc.)
