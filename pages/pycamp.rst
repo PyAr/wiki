@@ -65,10 +65,13 @@ Ediciones anteriores
 
 * Décima edición `Baradero, Buenos Aires. Marzo de 2017`_
 
-* Decimoprimera edición Baradero, Buenos Aires, 2018
-* Decimosegunda edición San Rafael, Mendoza, 2019
-* Decimotercera edición San Rafael, Mendoza, 2020/2021
-* Decimocuarta edición Baradero, Buenos Aires, 2022
+* Decimoprimera edición `Baradero, Buenos Aires. Abril de 2018`_
+
+* Decimosegunda edición `San Rafael, Mendoza. Marzo de 2019`_
+
+* Decimotercera edición `San Rafael, Mendoza. Noviembre de 2021`_
+
+* Decimocuarta edición `Baradero, Buenos Aires. Marzo de 2022`_
 
 
 Blogpost sobre Pycamps
@@ -133,7 +136,7 @@ Blogpost sobre Pycamps
 
 .. _organizar: /PyCamp/organizandounpycamp
 
-.. _marcha: /PyCamp/2021
+.. _marcha: /PyCamp/2022
 
 .. _Cocos2d: http://cocos2d.org/
 
@@ -158,6 +161,14 @@ Blogpost sobre Pycamps
 .. _La Serranita, Córdoba. Marzo de 2016: /PyCamp/2016
 
 .. _Baradero, Buenos Aires. Marzo de 2017: /PyCamp/2017
+
+.. _Baradero, Buenos Aires. Abril de 2018: /PyCamp/2018
+
+.. _San Rafael, Mendoza. Marzo de 2019: /PyCamp/2019
+
+.. _San Rafael, Mendoza. Noviembre de 2021: /PyCamp/2021
+
+.. _Baradero, Buenos Aires. Marzo de 2022: /PyCamp/2022
 
 .. _ramiromorales: /ramiromorales
 .. _marcosdione: /marcosdione
