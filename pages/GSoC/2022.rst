@@ -43,8 +43,7 @@ Both the packaging and the execution are fully multiplatorm. This means that you
 
 .. image:: https://raw.githubusercontent.com/facundobatista/pyempaq/main/resources/logo-256.png
    :align: left
-   :height: 85%
-   :width: 85%
+   :scale: 85 %
 
 - Project information:
     - `Documentation <https://pyempaq.readthedocs.io/en/latest/>`__
