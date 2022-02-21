@@ -8,22 +8,18 @@ The following are the proposed projects for inclusion into Google Summer of Code
 PyZombis
 --------
 
-A Community course, completely online and interactive, to teach Python to everyone!
-
 .. image:: https://raw.githubusercontent.com/PyAr/PyZombis/main/_sources/lectures/img/TWP_small.png
    :align: left
 
-Online course: http://pyar.github.io/PyZombis *draft*
+A Community course, completely online and interactive, to teach Python to everyone! http://pyar.github.io/PyZombis *draft*
 
 It has the potential bring up the materials to make a massive Spanish online community course.
 The original Brazilian MOOC Python para Zumbis created by Fernando Masanori that has +500k reproductions in Youtube and taught over 70K students basic Python.
 
-The project is almost complete, most lectures and exercises were implemented and can be fully online.
-Students don't need to install python in their computer, and teachers don't need costly infrastructure to host the course.
-
-Initial workshop with students found some easy good first issues to fix (improvements for learners).
-
-Advanced contributors could look at some lectures that are not implelemted yet in a browser (databases, games, etc.)
+| The project is almost complete, most lectures and exercises were implemented and can be fully online.
+| Students don't need to install python in their computer, and teachers don't need costly infrastructure to host the course.
+| Initial workshop with students found some easy good first issues to fix (improvements for learners).
+| Advanced contributors could look at some lectures that are not implelemted yet in a browser (databases, games, etc.)
 
 - Project information:
     - `Repository <https://github.com/PyAr/PyZombis>`__
@@ -49,6 +45,7 @@ With PyEmpaq you can convert any Python project (see limitations below) into a s
 Both the packaging and the execution are fully multiplatorm. This means that you can pack a project in Linux, Windows, Mac or whatever, and it will run ok in Linux, Windows, Mac or whatever. The only requirement is Python to be already installed.
 
 .. image:: https://raw.githubusercontent.com/facundobatista/pyempaq/main/resources/logo-256.png
+   :align: left
 
 - Project information:
     - `Documentation <https://pyempaq.readthedocs.io/en/latest/>`__
@@ -66,11 +63,10 @@ OpenLex
 
 Legal Case Management Software for Attorneys and Small Law Firms
 
-OpenLEX was developed as part of an Open Source Specialization Program, to provide free legal software for lawyers and small law firms (in a market with no Open Source alternative)
-Continental Law System
+OpenLEX was developed as part of an Open Source Specialization Program, to provide free legal software for lawyers and small law firms (in a market with no Open Source alternative for the Continental Law System and local regulations)
 
-Tentative Ideas include: Responsive + User Friendly Installers: HTML5, Mobile! Packaging, Online Site, Deployment
-Good First Issues covers Import/Export of legal brief; Email and electronic invoice integration
+| Tentative Ideas include: Responsive + User Friendly Installers: HTML5, Mobile! Packaging, Online Site, Deployment.
+| Good First Issues covers Import/Export of legal brief; Email and electronic invoice integration.
 
 - Project information:
     - `Repository <https://github.com/PyAr/OpenLex/>`__
