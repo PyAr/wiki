@@ -94,9 +94,9 @@ PyAFIPWs is a widespread standard reference implementation to communicate with A
     - `Good first issues <https://github.com/PyAr/pyafipws/issues>`__
 
 - Ideas: 
-    - Unit Testing (extend unit tests coverage)
-    - Automation (build windows installers in continuous integration)
-    - webservice simulator 
+    - Unit Testing: extend unit tests coverage to 70% (including command-line tools)
+    - Automation: build windows installers in continuous integration
+    - Webservice simulator: fake implementation for testing, mimicking government servers
 
 - Difficulty level: Easy / Intermediate
 
