@@ -61,6 +61,27 @@ Both the packaging and the execution are fully multiplatorm. This means that you
 
 - Potential mentor: Facundo Batista
 
+OpenLex
+-------
+
+Legal Case Management Software for Attorneys and Small Law Firms
+
+OpenLEX was developed as part of an Open Source Specialization Program, to provide free legal software for lawyers and small law firms (in a market with no Open Source alternative)
+Continental Law System
+
+Tentative Ideas include: Responsive + User Friendly Installers: HTML5, Mobile! Packaging, Online Site, Deployment
+Good First Issues covers Import/Export of legal brief; Email and electronic invoice integration
+
+- Project information:
+    - `Repository <https://github.com/PyAr/OpenLex/>`__
+    - `Good first issues & Ideas <https://github.com/PyAr/OpenLex/issues>`__
+
+- Difficulty level: Easy / Intermediate
+
+- Technologies involved: Web App, Databases
+
+- Potential mentor: Marian-vignau
+
 About Python Argentina
 ======================
 
