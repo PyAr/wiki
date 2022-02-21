@@ -4,6 +4,8 @@ Ideas for Google Summer of Code 2022
 ====================================
 
 The following are the proposed projects for inclusion into Google Summer of Code 2022. 
+The expected size of projects is 350 hours.
+Some ideas are tentative, please engage with the community strongly to present and improve your original proposals.
 
 PyZombis
 --------
@@ -15,8 +17,9 @@ A Community course, completely online and interactive, to teach Python to everyo
 
 The original Brazilian MOOC Python para Zumbis created by Fernando Masanori has +500k reproductions on Youtube and taught over 70K students basic Python.
 
-Most lectures and exercises can be done fully online (Python on Javascript using Brython).
+Goals: all lectures and exercises should be done fully online (Python on Javascript using Brython).
 No need to install python on their computer. Execution servers are not required either.
+Some lectures still need further work (databases, games).
 
 - Project information:
     - `Repository <https://github.com/PyAr/PyZombis>`__
@@ -63,8 +66,9 @@ Legal Case Management Software for Attorneys and Small Law Firms
 
 OpenLEX was developed as part of an Open Source Specialization Program, to provide free legal software for lawyers and small law firms (in a market with no Open Source alternative for the Continental Law System and local regulations)
 
-| Tentative Ideas include: Responsive + User Friendly Installers: HTML5, Mobile! Packaging, Online Site, Deployment.
-| Good First Issues covers Import/Export of legal brief; Email and electronic invoice integration.
+Tentative Ideas include: Responsive + User Friendly Installers: HTML5, Mobile! Packaging, Online Site, Deployment.
+
+Good First Issues covers Import/Export of legal brief; Email and electronic invoice integration.
 
 - Project information:
     - `Repository <https://github.com/PyAr/OpenLex/>`__
