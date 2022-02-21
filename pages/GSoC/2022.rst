@@ -13,10 +13,10 @@ PyZombis
 
 A Community course, completely online and interactive, to teach Python to everyone! http://pyar.github.io/PyZombis *draft*
 
-The original Brazilian MOOC Python para Zumbis created by Fernando Masanori has +500k reproductions in Youtube and taught over 70K students basic Python.
+The original Brazilian MOOC Python para Zumbis created by Fernando Masanori has +500k reproductions on Youtube and taught over 70K students basic Python.
 
 Most lectures and exercises can be done fully online (Python on Javascript using Brython).
-No need to install python in their computer. Execution servers are not required either.
+No need to install python on their computer. Execution servers are not required either.
 
 - Project information:
     - `Repository <https://github.com/PyAr/PyZombis>`__
@@ -35,11 +35,11 @@ No need to install python in their computer. Execution servers are not required 
 PyEmpaq
 -------
 
-PyEmpaq is a simple but powerful Python packer to run any project with any virtualenv dependencies anywhwere.
+PyEmpaq is a simple but powerful Python packer to run any project with any virtualenv dependencies anywhere.
 
 With PyEmpaq you can convert any Python project (see limitations below) into a single .pyz file with all the project's content packed inside. 
 
-Both the packaging and the execution are fully multiplatorm. This means that you can pack a project in Linux, Windows, Mac or whatever, and it will run ok in Linux, Windows, Mac or whatever. The only requirement is Python to be already installed.
+Both the packaging and the execution are fully multiplatform. This means that you can pack a project in Linux, Windows, Mac, or whatever, and it will run ok in Linux, Windows, Mac, or whatever. The only requirement is Python to be already installed.
 
 .. image:: https://raw.githubusercontent.com/facundobatista/pyempaq/main/resources/logo-256.png
    :align: left
@@ -83,7 +83,7 @@ Electronic Invoice, Agriculture, Foreign Trade, Taxes, Pharmaceutical, etc.
 
 Library for Developers (integrators and legacy languages interfaces) Tools for Accountants and SMEs (Odoo/OpenERP modules and Tryton Argentina's localization)
 
-PyAFIPWs is a wide-spread standard reference implementation to communicate with Argentina’s government entities, with more than +1.5K users group subscriptions, many bindings to other languages and used in modules for Open Source ERP localizations (OpenERP, Odoo, Tryton, etc.)
+PyAFIPWs is a widespread standard reference implementation to communicate with Argentina’s government entities, with more than +1.5K users group subscriptions, many bindings to other languages, and used in modules for Open Source ERP localizations (OpenERP, Odoo, Tryton, etc.)
 
 - Project information:
     - `Documentation <https://github.com/reingart/pyafipws/wiki/WSFEv1>`__
@@ -104,28 +104,28 @@ PyAFIPWs is a wide-spread standard reference implementation to communicate with 
 About Python Argentina
 ======================
 
-We are looking for new pythonistas!
+We are looking for new Pythonistas!
 
-Help us to foster development of several open source community projects. Many are fun and innovative, other are challenging and resolves real world requirements.
+Help us to foster the development of several open-source community projects. Many are fun and innovative, others are challenging and resolve real-world requirements.
 
-The association was founded aiming to help the Python devs, increasing its diversity and outreach, specially overcoming minorities and cultural barriers (mainly socioeconomic, language, gender), serving as an umbrella organization to some ongoing efforts.
+The association was founded aiming to help the Python devs, increase their diversity and outreach, especially overcoming minorities and cultural barriers (mainly socioeconomic, language, gender), serving as an umbrella organization to some ongoing efforts.
 
-Spanish is one of the most spoken language in the world, and many of our developed tools and libraries are aimed to fill missing open-source gap.
-They can help to learn and further work with Python, either to enthusiasts, professional programmers or even final users!
+Spanish is one of the most spoken languages in the world, and many of our developed tools and libraries are aimed to fill the missing open-source gap.
+They can help to learn and further work with Python, either to enthusiasts, professional programmers, or even final users!
 
-Experienced developers, teachers and volunteers will assist you, guiding throughout the process with well defined goals (according skills and tech background)
+Experienced developers, teachers, and volunteers will assist you, guiding you throughout the process with well-defined goals (according to skills and tech background)
 
 Contacting Us
 -------------
 
-We're in Argentina time zone (GMT-3)
+We're in the Argentina time zone (GMT-3)
 
 * Telegram: https://t.me/+ljnpIYBUMLI3MDAx
 * Forum: https://pyar.discourse.group/
 * Email: secretaria+gsoc@ac.python.org.ar
 
 NOTE: Spanish is a requisite for many projects, as it is the language used for documentation and community communications. 
-In the other side, if you do not speak English fluently, we can help you with translations and guidance (in Spanish, of course).
+On the other side, if you do not speak English fluently, we can help you with translations and guidance (in Spanish, of course).
 
 NOTA: Si hablás Español pero te cuesta el Inglés, te podemos ayudar con las traducciones y redacciones para que puedas participar! No te preocupes, el día a día y documentación en general están en Castellano.
 
@@ -147,13 +147,13 @@ Write to the Telegram group about you. State clearly:
 
 * Why you want to participate in GSoC, shortly comment your background and expectations
 * What project would you prefer: look at this page for ideas
-* What is your previous experience, Python skills, django, hg/git, js, etc.
+* What is your previous experience, Python skills, Django, hg/git, js, etc.
 
 Fixing a bug!
 -------------
 
 * Ask for a simple ticket. For example, take a look at CDPedia, PyAfipWs, OpenLex, PyZombis.
-* Create an user in GitHub (if you don't have one)
+* Create a user in GitHub (if you don't have one)
 * Fork the project repository and try to fix an issue of your desired project
 * Discuss with potential mentors your fix, creating a Pull Request as early as possible!
 
@@ -162,19 +162,19 @@ Writing a Proposal
 
 * Select a project idea and write a detailed proposal using Google Docs (in advance!)
 * Define 3 milestones & deliverables (i.e. Proof-Of-Concept, Prototype, Final Demo)
-* Tasking out (high level goals for each milestone)
+* Tasking out (high-level goals for each milestone)
 * Describe the acceptance criteria ("Minimum Viable Product" of each phase)
 
 Share an early draft (based on the Application Template, using Google Docs) and discuss your approach in the group with mentors
-Do not forget to submit your application to Google system when ready, before deadline
+Do not forget to submit your application to the Google system when ready, before the deadline
 
 IMPORTANT:
 ----------
 
-Late, incomplete or low quality proposals will not be considered at all. 
+Late, incomplete, or low-quality proposals will not be considered at all. 
 Mentor's time and available students slots are limited, so please ask intelligently for advice and feedback early.
 
-Last minute applications are generally a signal of further problems (for you and for us too, please avoid!).
-Proposals without any previously contribution in the repository (i.e. bug-fix issue) will be rejected.
+Last-minute applications are generally a signal of further problems (for you and for us too, please avoid!).
+Proposals without any previous contribution in the repository (i.e. bug-fix issue) will be rejected.
 
-You're expected to have almost full time dedication to the GSoC, so plan accordingly and disclose any potential commitment (exams, work, vacations, travels, etc.)
+You're expected to have an almost full-time dedication to the GSoC, so plan accordingly and disclose any potential commitment (exams, work, vacations, travels, etc.)
