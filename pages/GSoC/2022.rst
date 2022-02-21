@@ -26,7 +26,7 @@ Some lectures still need further work (databases, games).
     - `Good first issues <https://github.com/PyAr/PyZombis/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22>`__
 
 - Project ideas: 
-    - SQL python lectures using javascript (SQLite.js) `https://github.com/PyAr/PyZombis/issues/193`
+    - SQL python lectures using javascript (SQLite.js) `#193 <https://github.com/PyAr/PyZombis/issues/193>`__ 
     - PyGame lecture using javascript
 
 - Difficulty level: Easy / Intermediate
