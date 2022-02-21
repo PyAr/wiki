@@ -82,6 +82,31 @@ Good First Issues covers Import/Export of legal brief; Email and electronic invo
 
 - Potential mentor: Marian-vignau
 
+PyAfipWs
+--------
+
+Electronic Invoice, Agriculture, Foreign Trade, Taxes, Pharmaceutical, etc.
+
+Library for Developers (integrators and legacy languages interfaces) Tools for Accountants and SMEs (Odoo/OpenERP modules and Tryton Argentina's localization)
+
+PyAFIPWs is a wide-spread standard reference implementation to communicate with Argentina’s government entities, with more than +1.5K users group subscriptions, many bindings to other languages and used in modules for Open Source ERP localizations (OpenERP, Odoo, Tryton, etc.)
+
+- Project information:
+    - `Documentation <https://github.com/reingart/pyafipws/wiki/WSFEv1>`__
+    - `Repository <https://github.com/PyAr/pyafipws/>`__
+    - `Good first issues <https://github.com/PyAr/pyafipws/issues>`__
+
+- Ideas: 
+    - Unit Testing (extend unit tests coverage)
+    - Automation (build windows installers in continuous integration)
+    - webservice simulator 
+
+- Difficulty level: Easy / Intermediate
+
+- Technologies involved: WebServices, XML, PDF, Linux/Windows; Accounting / ERP
+
+- Potential mentor: reingart
+
 About Python Argentina
 ======================
 
