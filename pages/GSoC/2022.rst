@@ -27,9 +27,9 @@ Some lectures still need further work (databases, games).
 
 - Project ideas: 
     - SQL python lectures using javascript (SQLite.js) `#193 <https://github.com/PyAr/PyZombis/issues/193>`__ 
-    - PyGame lecture using javascript
+    - PyGame lecture using javascript "wrapper" like `gamejs <http://gamejs.org/showcase.html#pygame-vs-gamejs>`__
 
-- Difficulty level: Easy / Intermediate
+- Difficulty level: Medium / Intermediate
 
 - Technologies involved: Python, Javascript
 
@@ -65,7 +65,7 @@ Legal Case Management Software for Attorneys and Small Law Firms
 
 OpenLEX was developed as part of an Open Source Specialization Program, to provide free legal software for lawyers and small law firms (in a market with no Open Source alternative for the Continental Law System and local regulations)
 
-Tentative Ideas include: Responsive + User Friendly Installers: HTML5, Mobile! Packaging, Online Site, Deployment.
+Tentative Ideas include: Responsive Design, Mobile Features, Online multi-tenant Site, Automated Deployment, User Friendly Installers.
 
 Good First Issues covers Import/Export of legal brief; Email and electronic invoice integration.
 
@@ -73,7 +73,7 @@ Good First Issues covers Import/Export of legal brief; Email and electronic invo
     - `Repository <https://github.com/PyAr/OpenLex/>`__
     - `Good first issues & Ideas <https://github.com/PyAr/OpenLex/issues>`__
 
-- Difficulty level: Easy / Intermediate
+- Difficulty level: Easy / Beginner
 
 - Technologies involved: Web App, Databases
 
@@ -94,11 +94,11 @@ PyAFIPWs is a widespread standard reference implementation to communicate with A
     - `Good first issues <https://github.com/PyAr/pyafipws/issues>`__
 
 - Ideas: 
-    - Unit Testing: extend unit tests coverage to 70% (including command-line tools)
-    - Automation: build windows installers in continuous integration
-    - Webservice simulator: fake implementation for testing, mimicking government servers
+    - Unit Testing: extend unit tests coverage to 70% (including command-line tools, see pending `Pull Requests <https://github.com/reingart/pyafipws/wiki/InstalacionCodigoFuente#generaci%C3%B3n-de-instalador>`__ and report.html in wokrflow)
+    - Automation: build windows installers in continuous integration (see  `Wiki: Install <https://github.com/reingart/pyafipws/wiki/InstalacionCodigoFuente#generaci%C3%B3n-de-instalador>`__ to automate)
+    - Webservice simulator: fake implementation for testing, mimicking government servers (WSDL SOAP based, see `server.py <https://github.com/pysimplesoap/pysimplesoap/blob/master/pysimplesoap/server.py#L539>`__ for a Proof of Concept)
 
-- Difficulty level: Easy / Intermediate
+- Difficulty level: Complex / Advanced
 
 - Technologies involved: WebServices, XML, PDF, Linux/Windows; Accounting / ERP
 
