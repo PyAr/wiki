@@ -3,8 +3,7 @@
 Ideas for Google Summer of Code 2022
 ====================================
 
-The following are the proposed projects for inclusion into Google Summer of Code 2022. 
-The expected size of projects is 350 hours.
+The following are the proposed projects for inclusion into Google Summer of Code 2022.
 Some ideas are tentative, please engage with the community strongly to present and improve your original proposals.
 
 PyZombis
@@ -13,27 +12,29 @@ PyZombis
 .. image:: https://raw.githubusercontent.com/PyAr/PyZombis/main/_sources/lectures/img/TWP_small.png
    :align: left
 
-A Community course, completely online and interactive, to teach Python to everyone! http://pyar.github.io/PyZombis *draft*
+A Community course, completely online and interactive, to teach Python to everyone! http://pyar.github.io/PyZombis
 
-The original Brazilian MOOC Python para Zumbis created by Fernando Masanori has +500k reproductions on Youtube and taught over 70K students basic Python.
+The original Brazilian MOOC "Python for Zumbies" created by Fernando Masanori has +500k views on Youtube and has taught over 70K students basic Python.
 
-Goals: all lectures and exercises should be done fully online (Python on Javascript using Brython).
-No need to install python on their computer. Execution servers are not required either.
-Some lectures still need further work (databases, games).
+Goals: All lectures and exercises are done fully online (Python on Javascript using Brython).
+There is no need for the student to install python on their computer or to run their own server.
+Some lectures still need further work to run in the browser (databases, games) using native JS libraries.
 
 - Project information:
     - `Repository <https://github.com/PyAr/PyZombis>`__
     - `Good first issues <https://github.com/PyAr/PyZombis/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22>`__
 
 - Project ideas: 
-    - SQL python lectures using javascript (SQLite.js) `#193 <https://github.com/PyAr/PyZombis/issues/193>`__ 
-    - PyGame lecture using javascript "wrapper" like `gamejs <http://gamejs.org/showcase.html#pygame-vs-gamejs>`__
+    - Interactive `SQL python lectures <http://pyar.github.io/PyZombis/master/lectures/TWP42/TWP42_1.html>`__ using javascript (SQLite.js): full details in `#193 <https://github.com/PyAr/PyZombis/issues/193>`__ 
+    - Interactive `PyGame lectures <http://pyar.github.io/PyZombis/master/lectures/TWP60/TWP60_2.html>`__ using javascript "wrapper" like `gamejs <http://gamejs.org/showcase.html#pygame-vs-gamejs>`__
 
-- Difficulty level: Medium / Intermediate
+- Project Length: 175 hs each, prefer a full 350 hs proposal including both ideas
+
+- Difficulty level: Intermediate
 
 - Technologies involved: Python, Javascript
 
-- Potential mentor: Mariano Reingart
+- Potential mentor: Mariano Reingart (coordinator, please contact the `PyAr GSoC Telegram group <https://t.me/+ljnpIYBUMLI3MDAx>`__)
 
 PyEmpaq
 -------
@@ -52,11 +53,13 @@ Both the packaging and the execution are fully multiplatform. This means that yo
     - `Repository <https://github.com/facundobatista/pyempaq/>`__
     - `Good first issues <https://github.com/facundobatista/pyempaq/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22>`__
 
+- Project Length: 175 hs to 350 hs
+
 - Difficulty level: Easy / Intermediate
 
 - Technologies involved: Packaging, Virtual environments
 
-- Potential mentor: Facundo Batista
+- Potential mentor: Facundo Batista (coordinator, please contact the `PyAr GSoC Telegram group <https://t.me/+ljnpIYBUMLI3MDAx>`__)
 
 OpenLex
 -------
@@ -73,11 +76,13 @@ Good First Issues covers Import/Export of legal brief; Email and electronic invo
     - `Repository <https://github.com/PyAr/OpenLex/>`__
     - `Good first issues & Ideas <https://github.com/PyAr/OpenLex/issues>`__
 
-- Difficulty level: Easy / Beginner
+- Project Length: 175 hs (medium)
+
+- Difficulty level: Easy
 
 - Technologies involved: Web App, Databases
 
-- Potential mentor: Marian-vignau
+- Potential mentor: Marian-vignau (coordinator, please contact the `PyAr GSoC Telegram group <https://t.me/+ljnpIYBUMLI3MDAx>`__)
 
 PyAfipWs
 --------
@@ -93,16 +98,18 @@ PyAFIPWs is a widespread standard reference implementation to communicate with A
     - `Repository <https://github.com/PyAr/pyafipws/>`__
     - `Good first issues <https://github.com/PyAr/pyafipws/issues>`__
 
-- Ideas: 
+- Project Ideas: 
     - Unit Testing: extend unit tests coverage to 70% (including command-line tools, see pending `Pull Requests <https://github.com/reingart/pyafipws/wiki/InstalacionCodigoFuente#generaci%C3%B3n-de-instalador>`__ and report.html in wokrflow)
     - Automation: build windows installers in continuous integration (see  `Wiki: Install <https://github.com/reingart/pyafipws/wiki/InstalacionCodigoFuente#generaci%C3%B3n-de-instalador>`__ to automate)
     - Webservice simulator: fake implementation for testing, mimicking government servers (WSDL SOAP based, see `server.py <https://github.com/pysimplesoap/pysimplesoap/blob/master/pysimplesoap/server.py#L539>`__ for a Proof of Concept)
 
-- Difficulty level: Complex / Advanced
+- Project Length: 350 hs (large)
+
+- Difficulty level: Hard
 
 - Technologies involved: WebServices, XML, PDF, Linux/Windows; Accounting / ERP
 
-- Potential mentor: reingart
+- Potential mentor: reingart (coordinator, please contact the `PyAr GSoC Telegram group <https://t.me/+ljnpIYBUMLI3MDAx>`__)
 
 About Python Argentina
 ======================
