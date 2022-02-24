@@ -34,7 +34,7 @@ Some lectures still need further work to run in the browser (databases, games) u
 
 - Technologies involved: Python, Javascript
 
-- Potential mentor: Mariano Reingart (coordinator, please contact the `PyAr GSoC Telegram group <https://t.me/+ljnpIYBUMLI3MDAx>`__)
+- Potential mentors: `@reingart <https://github.com/reingart>`_ (coordinator) + `nico <https://github.com/NicolasSandoval>`_, please contact all mentors in `PyAr GSoC Telegram group <https://t.me/+ljnpIYBUMLI3MDAx>`__
 
 PyEmpaq
 -------
@@ -56,8 +56,7 @@ Both the packaging and the execution are fully multiplatform. This means that yo
 - Project ideas: 
     - Milestone `Control on packed content <https://github.com/facundobatista/pyempaq/milestone/3>`__ : Specify exactly what to include in the project's config
     - Milestone `Testing <https://github.com/facundobatista/pyempaq/milestone/5>`__: Implement logged_exec in unpacker, instead of subprocess.run 
-    - Milestone `Stabilization <https://github.com/facundobatista/pyempaq/milestone/6>`__: GUI; Windows; GitHub Actions Ubuntu (Snap); support setup.py / setup.cfg and pyproject.toml
-    
+    - Milestone `Stabilization <https://github.com/facundobatista/pyempaq/milestone/6>`__: GUI; Windows GitHub Actions; Ubuntu (Snap); support setup.py / setup.cfg & pyproject.toml
     
 - Project Length: 175 hs to 350 hs (preferred)
 
@@ -65,7 +64,7 @@ Both the packaging and the execution are fully multiplatform. This means that yo
 
 - Technologies involved: Packaging, Virtual environments
 
-- Potential mentor: Facundo Batista (coordinator, please contact the `PyAr GSoC Telegram group <https://t.me/+ljnpIYBUMLI3MDAx>`__)
+- Potential mentors: `@facundobatista <https://github.com/facundobatista>`_ (coordinator) + `@eamanu <https://github.com/eamanu>`_, please contact all mentors in `PyAr GSoC Telegram group <https://t.me/+ljnpIYBUMLI3MDAx>`__
 
 OpenLex
 -------
@@ -88,7 +87,7 @@ Good First Issues covers Import/Export of legal brief; Email and electronic invo
 
 - Technologies involved: Web App, Databases
 
-- Potential mentor: Marian-vignau (coordinator, please contact the `PyAr GSoC Telegram group <https://t.me/+ljnpIYBUMLI3MDAx>`__)
+- Potential mentors: `@marian-vignau <https://github.com/marian-vignau>`_ (coordinator) + `@eamanu <https://github.com/eamanu>`_, please contact all mentors in `PyAr GSoC Telegram group <https://t.me/+ljnpIYBUMLI3MDAx>`__)
 
 PyAfipWs
 --------
@@ -115,7 +114,7 @@ PyAFIPWs is a widespread standard reference implementation to communicate with A
 
 - Technologies involved: WebServices, XML, PDF, Linux/Windows; Accounting / ERP
 
-- Potential mentor: reingart (coordinator, please contact the `PyAr GSoC Telegram group <https://t.me/+ljnpIYBUMLI3MDAx>`__)
+- Potential mentors: `@reingart <https://github.com/reingart>`_ (coordinator) + `nico <https://github.com/NicolasSandoval>`_, please contact all mentors in `PyAr GSoC Telegram group <https://t.me/+ljnpIYBUMLI3MDAx>`__
 
 About Python Argentina
 ======================
