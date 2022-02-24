@@ -53,9 +53,15 @@ Both the packaging and the execution are fully multiplatform. This means that yo
     - `Repository <https://github.com/facundobatista/pyempaq/>`__
     - `Good first issues <https://github.com/facundobatista/pyempaq/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22>`__
 
-- Project Length: 175 hs to 350 hs
+- Project ideas: 
+    - Milestone `Control on packed content <https://github.com/facundobatista/pyempaq/milestone/3>`__ : Specify exactly what to include in the project's config
+    - Milestone `Testing <https://github.com/facundobatista/pyempaq/milestone/5>`__: Implement logged_exec in unpacker, instead of subprocess.run 
+    - Milestone `Stabilization <https://github.com/facundobatista/pyempaq/milestone/6>`__: GUI; Windows; GitHub Actions Ubuntu (Snap); support setup.py / setup.cfg and pyproject.toml
+    
+    
+- Project Length: 175 hs to 350 hs (preferred)
 
-- Difficulty level: Easy / Intermediate
+- Difficulty level: Easy to  Intermediate
 
 - Technologies involved: Packaging, Virtual environments
 
