@@ -18,7 +18,8 @@ The original Brazilian MOOC "Python for Zumbies" created by Fernando Masanori ha
 
 Goals: All lectures and exercises are done fully online (Python on Javascript using Brython).
 There is no need for the student to install python on their computer or to run their own server.
-Some lectures still need further work to run in the browser (databases, games) using native JS libraries.
+
+Some lectures still need further work to be ported to the web, so they can run interactively in the browser (databases, games) using native JS libraries.
 
 - Project information:
     - `Repository <https://github.com/PyAr/PyZombis>`__
@@ -39,14 +40,14 @@ Some lectures still need further work to run in the browser (databases, games) u
 PyEmpaq
 -------
 
+.. image:: https://raw.githubusercontent.com/facundobatista/pyempaq/main/resources/logo-256.png
+   :align: left
+
 PyEmpaq is a simple but powerful Python packer to run any project with any virtualenv dependencies anywhere.
 
 With PyEmpaq you can convert any Python project (see limitations below) into a single .pyz file with all the project's content packed inside. 
 
-.. image:: https://raw.githubusercontent.com/facundobatista/pyempaq/main/resources/logo-256.png
-   :align: left
-
-Both the packaging and the execution are fully multiplatform. This means that you can pack a project in Linux, Windows, Mac, or whatever, and it will run ok in Linux, Windows, Mac, or whatever. The only requirement is Python to be already installed.
+Both the packaging and the execution are fully multiplatform. You can pack a project in Linux, Windows, Mac, or whatever, and it will run ok in Linux, Windows, Mac, or whatever. The only requirement is Python to be already installed.
 
 - Project information:
     - `Documentation <https://pyempaq.readthedocs.io/en/latest/>`__
