@@ -26,6 +26,7 @@ Expected outcomes:
 - Project information:
     - `Repository <https://github.com/PyAr/PyZombis>`__
     - `Good first issues <https://github.com/PyAr/PyZombis/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22>`__
+    - `PyCon Argentina 2021 video tutorial <https://www.youtube.com/watch?v=BalC7Bp5AFQ>`_ (YouTube)
 
 - Project ideas: 
     - Interactive `SQL python lectures <http://pyar.github.io/PyZombis/master/lectures/TWP42/TWP42_1.html>`__ using javascript (SQLite.js): full details in `#193 <https://github.com/PyAr/PyZombis/issues/193>`__ 
