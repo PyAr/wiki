@@ -74,19 +74,25 @@ Legal Case Management Software for Attorneys and Small Law Firms
 
 OpenLEX was developed as part of an Open Source Specialization Program, to provide free legal software for lawyers and small law firms (in a market with no Open Source alternative for the Continental Law System and local regulations)
 
-Tentative Ideas include: Responsive Design, Mobile Features, Online multi-tenant Site, Automated Deployment, User Friendly Installers.
-
-Good First Issues covers Import/Export of legal brief; Email and electronic invoice integration.
+Expected outcomes:
+  OpenLex is a project to facilitate the work of lawyers and small law firms.
+  It would be great if the app could be usable from mobile phones and tablets (i.e. from Tribunals, Courts, etc.)
+  The project should be easy to install, even for non-technical users (lawyers), its main intended audience.
 
 - Project information:
     - `Repository <https://github.com/PyAr/OpenLex/>`__
     - `Good first issues & Ideas <https://github.com/PyAr/OpenLex/issues>`__
 
-- Project Length: 175 hs (medium)
+- Project ideas: 
+    - Classic Desktop app `#20 <https://github.com/PyAr/OpenLex/issues/15>`__ & Responsive for mobile `#14 <https://github.com/PyAr/OpenLex/issues/14>`__
+    - Installers for Windows `#13 <https://github.com/PyAr/OpenLex/issues/13>`__, Linux `#15 <https://github.com/PyAr/OpenLex/issues/15>`__ & MacOS `#16 <https://github.com/PyAr/OpenLex/issues/16>`__ 
+    - Invoice and email integration `#12 <https://github.com/PyAr/OpenLex/issues/12>`__ 
+
+- Project Length: 175 hs (medium) per idea/ticket
 
 - Difficulty level: Easy
 
-- Technologies involved: Web App, Databases
+- Technologies involved: Python, web2py, HTML5, JavaScript, mobile (Android, IOS)
 
 - Potential mentors: `@marian-vignau <https://github.com/marian-vignau>`_ (coordinator) + `@eamanu <https://github.com/eamanu>`_, please contact all mentors in `PyAr GSoC Telegram group <https://t.me/+ljnpIYBUMLI3MDAx>`__)
 
