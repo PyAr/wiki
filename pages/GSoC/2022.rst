@@ -42,6 +42,11 @@ Expected outcomes:
 
 - Potential mentors: `@reingart <https://github.com/reingart>`_ (coordinator) + `nico <https://github.com/NicolasSandoval>`_, please contact all mentors in `PyAr GSoC Telegram group <https://t.me/+ljnpIYBUMLI3MDAx>`__
 
+- Past GSoC Students projects wrap-up (for reference):
+    - `Angela Remolina <https://github.com/PyAr/PyZombis/wiki/GSOC-2021-PSF-PyAr-Final-code-submission-PyZombis-Angela-Remolina>`_ (2021)
+    - `Leonardo Cumplido <https://github.com/PyAr/PyZombis/wiki/Leonardo-Cumplido-GSoC-2021-Wrap-Up>`_ (2021)
+    - `Ybrahin Martinez <https://github.com/PyAr/PyZombis/wiki/GSoC-2021-Final-Code-Ybrahin-Martinez>`_ (2021)
+
 PyEmpaq
 -------
 
@@ -101,6 +106,9 @@ Expected outcomes:
 
 - Potential mentors: `@marian-vignau <https://github.com/marian-vignau>`_ (coordinator) + `@eamanu <https://github.com/eamanu>`_, please contact all mentors in `PyAr GSoC Telegram group <https://t.me/+ljnpIYBUMLI3MDAx>`__)
 
+- Past GSoC Students projects wrap-up (for reference):
+    - `Juan Rodriguez <https://github.com/PyAr/OpenLex/wiki/Pyar-Openlex-GSoC-2021-Final-Summary-Rodriguez-Juan>`_ (2021)
+
 PyAfipWs
 --------
 
@@ -137,6 +145,10 @@ Expected outcomes:
 - Technologies involved: WebServices, XML, PDF, Linux/Windows; Accounting / ERP
 
 - Potential mentors: `@reingart <https://github.com/reingart>`_ (coordinator) + `nico <https://github.com/NicolasSandoval>`_, please contact all mentors in `PyAr GSoC Telegram group <https://t.me/+ljnpIYBUMLI3MDAx>`__
+
+- Past GSoC Students projects wrap-up (for reference):
+    - `Utkarsh Kumar <https://github.com/PyAr/pyafipws/wiki/GSoC-2021:-Final-Summary>`_ (2021)
+    - `Nico Sandoval <https://github.com/PyAr/pyafipws/wiki/PyAr-PSF-GSoC-2019-Final-Summary>`_ (2019)
 
 About Python Argentina
 ======================
