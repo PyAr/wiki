@@ -107,6 +107,16 @@ Library for Developers (integrators and legacy languages interfaces) Tools for A
 
 PyAFIPWs is a widespread standard reference implementation to communicate with Argentina’s government entities, with more than +1.5K users group subscriptions, many bindings to other languages, and used in modules for Open Source ERP localizations (OpenERP, Odoo, Tryton, etc.)
 
+The project has more than 10 years of development and many accumulated features, covering several webservices and tools.
+Initial work has been completed to migrate and modernize the project, but there are many rough edges and enhancements opportunities.
+
+Expected outcomes:
+  As it's multi-platform, used by a wide user base of developers (specially from other programming languages), special care must be taken to improve the code-base with  backward compatibility.
+
+  Exhaustive Test coverage is a must to complete the transition.
+  Also, installers for Windows users should be migrated and upgraded to support legacy applications (main use case).
+  Finally, a webservice simulator could be helpful to ease integration testing and speed-up new developments.
+
 - Project information:
     - `Documentation <https://github.com/reingart/pyafipws/wiki/WSFEv1>`__
     - `Repository <https://github.com/PyAr/pyafipws/>`__
@@ -115,7 +125,7 @@ PyAFIPWs is a widespread standard reference implementation to communicate with A
 - Project Ideas: 
     - Unit Testing: extend unit tests coverage to 70% (including command-line tools, see pending `Pull Requests <https://github.com/reingart/pyafipws/wiki/InstalacionCodigoFuente#generaci%C3%B3n-de-instalador>`__ and report.html in wokrflow)
     - Automation: build windows installers in continuous integration (see  `Wiki: Install <https://github.com/reingart/pyafipws/wiki/InstalacionCodigoFuente#generaci%C3%B3n-de-instalador>`__ to automate)
-    - Webservice simulator: fake implementation for testing, mimicking government servers (WSDL SOAP based, see `server.py <https://github.com/pysimplesoap/pysimplesoap/blob/master/pysimplesoap/server.py#L539>`__ for a Proof of Concept)
+    - Webservice simulator: fake implementation for testing, mimicking government servers (WSDL SOAP based, see `server.py <https://github.com/pysimplesoap/pysimplesoap/blob/master/pysimplesoap/server.py#L539>`__ for an example, and `web2py-app <https://github.com/SistemasAgiles/pyafipws.web2py-app>`_ for a Proof of Concept)
 
 - Project Length: 350 hs (large)
 
