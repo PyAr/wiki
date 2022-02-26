@@ -25,9 +25,10 @@ Expected outcomes:
   Refactors to the upstream educative platform (Runestone) would be continued and extended, for further information see `PR#1208 <https://github.com/RunestoneInteractive/RunestoneComponents/pull/1208>`_ (new interactive python interpreter for advanced exercises) 
 
 - Project information:
-    - `Repository <https://github.com/PyAr/PyZombis>`__
+    - `Repository <https://github.com/PyAr/PyZombis>`__ (source code, wiki and continous integration with tests)
     - `Good first issues <https://github.com/PyAr/PyZombis/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22>`__
     - `PyCon Argentina 2021 video tutorial <https://www.youtube.com/watch?v=BalC7Bp5AFQ>`_ (YouTube)
+    - `Academic info <http://bit.ly/pyzombis>`_ (full proposal, course syllabus, pedagogical methodology)
 
 - Project ideas: 
     - Interactive `SQL python lectures <http://pyar.github.io/PyZombis/master/lectures/TWP42/TWP42_1.html>`__ using javascript (SQLite.js): full details in `#193 <https://github.com/PyAr/PyZombis/issues/193>`__ 
