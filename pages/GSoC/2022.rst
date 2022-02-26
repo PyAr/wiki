@@ -16,10 +16,12 @@ A Community course, completely online and interactive, to teach Python to everyo
 
 The original Brazilian MOOC "Python for Zumbies" created by Fernando Masanori has +500k views on Youtube and has taught over 70K students basic Python.
 
-Goals: All lectures and exercises are done fully online (Python on Javascript using Brython).
+All lectures and exercises are done fully online (Python on Javascript using Brython).
 There is no need for the student to install python on their computer or to run their own server.
 
-Some lectures still need further work to be ported to the web, so they can run interactively in the browser (databases, games) using native JS libraries.
+Expected outcomes:
+  Some lectures still need further work to be ported to the web, so they can run interactively in the browser (databases, games) using native JS libraries.
+  Refactors to the upstream educative platform (Runestone) would be continued and extended, for further information see `PR#1208 <https://github.com/RunestoneInteractive/RunestoneComponents/pull/1208>`_ (new interactive python interpreter for advanced exercises) 
 
 - Project information:
     - `Repository <https://github.com/PyAr/PyZombis>`__
