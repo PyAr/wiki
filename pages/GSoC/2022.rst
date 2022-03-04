@@ -33,11 +33,11 @@ Expected outcomes:
     - Interactive `SQL python lectures <http://pyar.github.io/PyZombis/master/lectures/TWP42/TWP42_1.html>`__ using javascript (SQLite.js): full details in `#193 <https://github.com/PyAr/PyZombis/issues/193>`__ (also improve & extend exercises with automatic grading / unit tests)
     - Interactive `PyGame lectures <http://pyar.github.io/PyZombis/master/lectures/TWP60/TWP60_2.html>`__ using javascript "wrapper" like `gamejs <http://gamejs.org/showcase.html#pygame-vs-gamejs>`__ (tip: see Brython demos: `bricks <https://www.brython.info/gallery/bricks_py.html>`_ & `3D walker <https://www.brython.info/gallery/3Dwalker.html>`_, a zombie educative game would be great!)
 
-- Project Length: 175 hs each, prefer a full 350 hs proposal including both ideas
+- Project Length: 175 hr each; prefer a full 350 hr proposal including both ideas + UI/UX revamp and extensive testing
 
-- Difficulty level: Intermediate
+- Difficulty level: Intermediate (minimal Python and Web programming experience expected, gaming + HTML5 design background recommended)
 
-- Technologies involved: Python, Javascript
+- Technologies involved: Python (sphinx, runestone, pytest-playwrigth), Javascript
 
 - Potential mentors: `@reingart <https://github.com/reingart>`_ (coordinator) + `nico <https://github.com/NicolasSandoval>`_, please contact all mentors in `PyAr GSoC Telegram group <https://t.me/+ljnpIYBUMLI3MDAx>`__
 
@@ -71,9 +71,9 @@ Expected outcomes:
     - Milestone `Testing <https://github.com/facundobatista/pyempaq/milestone/5>`__: Implement logged_exec in unpacker, instead of subprocess.run 
     - Milestone `Stabilization <https://github.com/facundobatista/pyempaq/milestone/6>`__: GUI; Windows GitHub Actions; Ubuntu (Snap); support setup.py / setup.cfg & pyproject.toml
     
-- Project Length: 175 hs to 350 hs (preferred, comprising several ideas)
+- Project Length: 175 hr to 350 hr (preferred, comprising several ideas)
 
-- Difficulty level: Easy to Intermediate (possibly doable by an advanced beginner with some python experience)
+- Difficulty level: Easy to Intermediate (some ideas possibly doable by an advanced beginner with some python experience)
 
 - Technologies involved: Python Packaging, Virtual environments, pytest
 
@@ -100,11 +100,11 @@ Expected outcomes:
     - Installers for Windows `#13 <https://github.com/PyAr/OpenLex/issues/13>`__, Linux `#15 <https://github.com/PyAr/OpenLex/issues/15>`__ & MacOS `#16 <https://github.com/PyAr/OpenLex/issues/16>`__ 
     - Invoice and email integration `#12 <https://github.com/PyAr/OpenLex/issues/12>`__ 
 
-- Project Length: 175 hs (medium) per idea/ticket
+- Project Length: 175 hr (medium) per idea/ticket; for a 350hr project you might want to plan to go beyond and combine/extend ideas, to see if you can improve our current code.
 
-- Difficulty level: Easy
+- Difficulty level: Easy (minimal web programming experience, legal knowledge is a plus)
 
-- Technologies involved: Python, web2py, HTML5, JavaScript, mobile (Android, IOS)
+- Technologies involved: Python (web2py, pytest-playwright), HTML5, JavaScript, mobile (Android/IOS, optional)
 
 - Potential mentors: `@marian-vignau <https://github.com/marian-vignau>`_ (coordinator) + `@eamanu <https://github.com/eamanu>`_, please contact all mentors in `PyAr GSoC Telegram group <https://t.me/+ljnpIYBUMLI3MDAx>`__)
 
@@ -140,11 +140,11 @@ Expected outcomes:
     - Automation: build windows installers in continuous integration (see  `Wiki: Install <https://github.com/reingart/pyafipws/wiki/InstalacionCodigoFuente#generaci%C3%B3n-de-instalador>`__ to automate)
     - Webservice simulator: fake implementation for testing, mimicking government servers (WSDL SOAP based, see `server.py <https://github.com/pysimplesoap/pysimplesoap/blob/master/pysimplesoap/server.py#L539>`__ for an example, and `web2py-app <https://github.com/SistemasAgiles/pyafipws.web2py-app>`_ for a Proof of Concept)
 
-- Project Length: 350 hs (large)
+- Project Length: 350 hr (large)
 
-- Difficulty level: Hard
+- Difficulty level: Intermediate (expected basic knowledge in operating systems, network protocols, API development & testing + Accounting / ERP experience recommended)
 
-- Technologies involved: WebServices, XML, PDF, Linux/Windows; Accounting / ERP
+- Technologies involved: Python (httplib, xml, webservices, pdf, pytest), Linux/Windows
 
 - Potential mentors: `@reingart <https://github.com/reingart>`_ (coordinator) + `nico <https://github.com/NicolasSandoval>`_, please contact all mentors in `PyAr GSoC Telegram group <https://t.me/+ljnpIYBUMLI3MDAx>`__
 
