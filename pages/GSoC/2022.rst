@@ -30,8 +30,8 @@ Expected outcomes:
     - `Academic info <http://bit.ly/pyzombis>`_ (full proposal, course syllabus, pedagogical methodology)
 
 - Project ideas: 
-    - Interactive `SQL python lectures <http://pyar.github.io/PyZombis/master/lectures/TWP42/TWP42_1.html>`__ using javascript (SQLite.js): full details in `#193 <https://github.com/PyAr/PyZombis/issues/193>`__ (also improve & extend exercises with automatic grading / unit tests)
-    - Interactive `PyGame lectures <http://pyar.github.io/PyZombis/master/lectures/TWP60/TWP60_2.html>`__ using javascript "wrapper" like `gamejs <http://gamejs.org/showcase.html#pygame-vs-gamejs>`__ (tip: see Brython demos: `bricks <https://www.brython.info/gallery/bricks_py.html>`_ & `3D walker <https://www.brython.info/gallery/3Dwalker.html>`_, a zombie educative game would be great!)
+    - Interactive `SQL python lectures <http://pyar.github.io/PyZombis/master/lectures/TWP42/TWP42_1.html>`__ using javascript (SQLite.js): full details in `#193 <https://github.com/PyAr/PyZombis/issues/193>`__ (also: refactor lessons code, add new demo databases, explore IndexedDB, improve & extend exercises with automatic grading / unit tests)
+    - Interactive `PyGame lectures <http://pyar.github.io/PyZombis/master/lectures/TWP60/TWP60_2.html>`__ using a javascript "wrapper" like `gamejs <http://gamejs.org/showcase.html#pygame-vs-gamejs>`__ and/or resurrecting `brython-pygame <https://github.com/brython-dev/brython-pygame>`_ / `fork <https://github.com/wkta/brython-pygame>`_ (tip: see Brython demos: `bricks <https://www.brython.info/gallery/bricks_py.html>`_ & `3D walker <https://www.brython.info/gallery/3Dwalker.html>`_, a zombie educative game would be great!)
 
 - Project Length: 175 hr each; prefer a full 350 hr proposal including both ideas + UI/UX functional revamp and extensive testing
 
