@@ -149,7 +149,7 @@ Expected outcomes:
 
 - Difficulty level: Intermediate (basic knowledge in operating systems, network protocols, APIs & testing; Accounting / ERP experience recommended)
 
-- Technologies involved: Python (httplib, xml, webservices, pdf, dbf, pywin32, pytest, pytest-vcr, py2exe), Linux/Windows (packaging/installers/APIs)
+- Technologies involved: Python (httplib, xml, webservices, pdf, dbf, pywin32, pytest, pytest-vcr, py2exe), Linux/Windows (packaging/installers/APIs/DLL libraries)
 
 - Potential mentors: `@reingart <https://github.com/reingart>`_ (coordinator) + `@NicolasSandoval <https://github.com/NicolasSandoval>`_, please contact all mentors in `PyAr GSoC Telegram group <https://t.me/+ljnpIYBUMLI3MDAx>`__
 
