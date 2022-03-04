@@ -14,10 +14,9 @@ PyZombis
 
 A Community course, completely online and interactive, to teach Python to everyone! http://pyar.github.io/PyZombis
 
-The original Brazilian MOOC `"Python for Zumbies" <https://www.slideshare.net/fmasanori/python-for-zombies-first-brazilian-programming-mooc>`_ created by Fernando Masanori has +800k views on `Youtube <https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc>`_  and has taught over 70K students basic Python.
-
-In this Spanish adaptation, all lectures and exercises are done fully online.
-There is no need for the student to install python on their computer or to run their own server.
+| The original Brazilian MOOC `"Python for Zumbies" <https://www.slideshare.net/fmasanori/python-for-zombies-first-brazilian-programming-mooc>`_ created by Fernando Masanori has +800k views on `Youtube <https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc>`_  and has taught over 70K students basic Python.
+| In this Spanish adaptation, all lectures and exercises are done fully online.
+| There is no need for the student to install python on their computer or to run their own server.
 
 Expected outcomes:
   | Some lectures still need further work to be ported to the web (via `Brython <https://brython.info/>`_, a client-side Python interpreter on top of Javascript), so they can run interactively in the browser (databases, games) using native JS libraries.  `Playwright <https://playwright.dev/>`_ end-2-end automated web tests are mandatory.
