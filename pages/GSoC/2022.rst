@@ -114,9 +114,11 @@ Expected outcomes:
 PyAfipWs
 --------
 
-Electronic Invoice, Agriculture, Foreign Trade, Taxes, Pharmaceutical, etc.
+.. image:: https://raw.githubusercontent.com/PyAr/pyafipws/py3k/plantillas/logo.png
+   :align: left
 
-Library for Developers (integrators and legacy languages interfaces) Tools for Accountants and SMEs (Odoo/OpenERP modules and Tryton Argentina's localization)
+Library for Developers (integrators and legacy languages interfaces) Tools for Accountants and SMEs (Odoo/OpenERP modules and Tryton Argentina's localization).
+Electronic Invoice, Agriculture, Foreign Trade, Taxes, Pharmaceutical, etc.
 
 PyAFIPWs is a widespread standard reference implementation to communicate with Argentina’s government entities, with more than +1.5K users group subscriptions, many bindings to other languages, and used in modules for Open Source ERP localizations (OpenERP, Odoo, Tryton, etc.)
 
@@ -132,7 +134,7 @@ Expected outcomes:
 
 - Project information:
     - `Documentation <https://github.com/reingart/pyafipws/wiki/WSFEv1>`__
-    - `Repository <https://github.com/PyAr/pyafipws/>`__
+    - `Repository <https://github.com/PyAr/pyafipws/>`__ (`original location <https://github.com/reingart/pyafipws>`_)
     - `Good first issues <https://github.com/PyAr/pyafipws/issues>`__
 
 - Project Ideas: 
