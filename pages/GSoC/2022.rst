@@ -53,8 +53,8 @@ PyEmpaq
    :align: left
 
 PyEmpaq is a simple but powerful Python packer to run any project with any virtualenv dependencies anywhere.
-With PyEmpaq you can convert any Python project into a single .pyz file with all the project's content packed inside. 
-You can pack a project in Linux, Windows, Mac, or whatever, and it will run ok in Linux, Windows, Mac, or whatever.
+You can convert any Python project into a single .pyz file with all the project's content packed inside. 
+It will run ok in Linux, Windows, Mac, or whatever.
 The only requirement is Python to be already installed.
 
 Expected outcomes:
