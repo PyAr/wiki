@@ -37,7 +37,7 @@ Expected outcomes:
 
 - Difficulty level: Intermediate (minimal Python and Web programming experience expected, some gaming + HTML5 design background recommended)
 
-- Technologies involved: Python (sphinx, runestone, pygame, sqlite, pytest-playwrigth, pytest-vcr), Javascript
+- Technologies involved: Python (sphinx, runestone, pygame, sqlite, pytest-playwrigth, pytest-vcr), Javascript (ajax, DOM)
 
 - Potential mentors: `@reingart <https://github.com/reingart>`_ (coordinator) + `@NicolasSandoval <https://github.com/NicolasSandoval>`_ et al., please contact all mentors in `PyAr GSoC Telegram group <https://t.me/+ljnpIYBUMLI3MDAx>`__
 
@@ -75,7 +75,7 @@ Expected outcomes:
 
 - Difficulty level: Easy to Intermediate (some ideas possibly doable by an advanced beginner with some python experience)
 
-- Technologies involved: Python Packaging, Virtual environments, pytest
+- Technologies involved: Python Packaging, Virtual environments & Testing (setuptools, pip, wheels, venv, pytest)
 
 - Potential mentors: `@facundobatista <https://github.com/facundobatista>`_ (coordinator) + `@eamanu <https://github.com/eamanu>`_ et al., please contact all mentors in `PyAr GSoC Telegram group <https://t.me/+ljnpIYBUMLI3MDAx>`__
 
@@ -101,7 +101,7 @@ Expected outcomes:
 - Project ideas: 
     - Classic Desktop app `#20 <https://github.com/PyAr/OpenLex/issues/15>`__ & Responsive for mobile `#14 <https://github.com/PyAr/OpenLex/issues/14>`__
     - Installers for Windows `#13 <https://github.com/PyAr/OpenLex/issues/13>`__, Linux `#15 <https://github.com/PyAr/OpenLex/issues/15>`__ & MacOS `#16 <https://github.com/PyAr/OpenLex/issues/16>`__ 
-    - Invoice and email integration `#12 <https://github.com/PyAr/OpenLex/issues/12>`__ 
+    - Invoice integration `#12 <https://github.com/PyAr/OpenLex/issues/12>`__ 
 
 - Project Length: 175 hr (medium) per idea/ticket; for a 350 hr project you might want to plan to go beyond and combine/extend ideas, to see if you can improve our current code.
 
