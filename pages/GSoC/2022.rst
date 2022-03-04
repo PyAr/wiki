@@ -136,8 +136,8 @@ Expected outcomes:
   Finally, a webservice simulator could be helpful to ease integration testing and speed-up new developments.
 
 - Project information:
-    - `Documentation <https://github.com/reingart/pyafipws/wiki/WSFEv1>`__
     - `Repository <https://github.com/PyAr/pyafipws/>`__ (`original location <https://github.com/reingart/pyafipws>`_)
+    - `Documentation <https://github.com/reingart/pyafipws/wiki/WSFEv1>`__
     - `Good first issues <https://github.com/PyAr/pyafipws/issues>`__
 
 - Project Ideas: 
