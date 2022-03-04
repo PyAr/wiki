@@ -53,10 +53,13 @@ PyEmpaq
    :align: left
 
 PyEmpaq is a simple but powerful Python packer to run any project with any virtualenv dependencies anywhere.
+With PyEmpaq you can convert any Python project into a single .pyz file with all the project's content packed inside. 
+You can pack a project in Linux, Windows, Mac, or whatever, and it will run ok in Linux, Windows, Mac, or whatever.
+The only requirement is Python to be already installed.
 
-With PyEmpaq you can convert any Python project (see limitations below) into a single .pyz file with all the project's content packed inside. 
-
-Both the packaging and the execution are fully multiplatform. You can pack a project in Linux, Windows, Mac, or whatever, and it will run ok in Linux, Windows, Mac, or whatever. The only requirement is Python to be already installed.
+Expected outcomes:
+  | Both the packaging and execution improvements should be fully multiplatform (see GitHub Actions CI infrastructure). 
+  | Contributions should have proper documentation and testing coverage (unit and integration)
 
 - Project information:
     - `Documentation <https://pyempaq.readthedocs.io/en/latest/>`__
@@ -68,11 +71,11 @@ Both the packaging and the execution are fully multiplatform. You can pack a pro
     - Milestone `Testing <https://github.com/facundobatista/pyempaq/milestone/5>`__: Implement logged_exec in unpacker, instead of subprocess.run 
     - Milestone `Stabilization <https://github.com/facundobatista/pyempaq/milestone/6>`__: GUI; Windows GitHub Actions; Ubuntu (Snap); support setup.py / setup.cfg & pyproject.toml
     
-- Project Length: 175 hs to 350 hs (preferred)
+- Project Length: 175 hs to 350 hs (preferred, comprising several ideas)
 
-- Difficulty level: Easy to  Intermediate
+- Difficulty level: Easy to Intermediate (possibly doable by an advanced beginner with some python experience)
 
-- Technologies involved: Packaging, Virtual environments
+- Technologies involved: Python Packaging, Virtual environments, pytest
 
 - Potential mentors: `@facundobatista <https://github.com/facundobatista>`_ (coordinator) + `@eamanu <https://github.com/eamanu>`_, please contact all mentors in `PyAr GSoC Telegram group <https://t.me/+ljnpIYBUMLI3MDAx>`__
 
