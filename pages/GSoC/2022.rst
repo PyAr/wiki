@@ -14,9 +14,9 @@ PyZombis
 
 A Community course, completely online and interactive, to teach Python to everyone! http://pyar.github.io/PyZombis
 
-The original Brazilian MOOC `"Python for Zumbies" <https://www.slideshare.net/fmasanori/python-for-zombies-first-brazilian-programming-mooc>`_ created by Fernando Masanori has +500k views on `Youtube <https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc>`_  and has taught over 70K students basic Python.
+The original Brazilian MOOC `"Python for Zumbies" <https://www.slideshare.net/fmasanori/python-for-zombies-first-brazilian-programming-mooc>`_ created by Fernando Masanori has +800k views on `Youtube <https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc>`_  and has taught over 70K students basic Python.
 
-All lectures and exercises are done fully online (Python on Javascript using Brython).
+All lectures and exercises are done fully online (via client-side Python on top of Javascript using `Brython <https://brython.info/>`_).
 There is no need for the student to install python on their computer or to run their own server.
 
 Expected outcomes:
@@ -33,7 +33,7 @@ Expected outcomes:
     - Interactive `SQL python lectures <http://pyar.github.io/PyZombis/master/lectures/TWP42/TWP42_1.html>`__ using javascript (SQLite.js): full details in `#193 <https://github.com/PyAr/PyZombis/issues/193>`__ (also improve & extend exercises with automatic grading / unit tests)
     - Interactive `PyGame lectures <http://pyar.github.io/PyZombis/master/lectures/TWP60/TWP60_2.html>`__ using javascript "wrapper" like `gamejs <http://gamejs.org/showcase.html#pygame-vs-gamejs>`__ (tip: see Brython demos: `bricks <https://www.brython.info/gallery/bricks_py.html>`_ & `3D walker <https://www.brython.info/gallery/3Dwalker.html>`_, a zombie educative game would be great!)
 
-- Project Length: 175 hr each; prefer a full 350 hr proposal including both ideas + UI/UX revamp and extensive testing
+- Project Length: 175 hr each; prefer a full 350 hr proposal including both ideas + UI/UX functional revamp and extensive testing
 
 - Difficulty level: Intermediate (minimal Python and Web programming experience expected, some gaming + HTML5 design background recommended)
 
@@ -100,7 +100,7 @@ Expected outcomes:
     - Installers for Windows `#13 <https://github.com/PyAr/OpenLex/issues/13>`__, Linux `#15 <https://github.com/PyAr/OpenLex/issues/15>`__ & MacOS `#16 <https://github.com/PyAr/OpenLex/issues/16>`__ 
     - Invoice and email integration `#12 <https://github.com/PyAr/OpenLex/issues/12>`__ 
 
-- Project Length: 175 hr (medium) per idea/ticket; for a 350hr project you might want to plan to go beyond and combine/extend ideas, to see if you can improve our current code.
+- Project Length: 175 hr (medium) per idea/ticket; for a 350 hr project you might want to plan to go beyond and combine/extend ideas, to see if you can improve our current code.
 
 - Difficulty level: Easy (minimal web programming experience, legal knowledge is a plus)
 
