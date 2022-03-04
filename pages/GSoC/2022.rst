@@ -35,7 +35,7 @@ Expected outcomes:
 
 - Project Length: 175 hr each; prefer a full 350 hr proposal including both ideas + UI/UX revamp and extensive testing
 
-- Difficulty level: Intermediate (minimal Python and Web programming experience expected, gaming + HTML5 design background recommended)
+- Difficulty level: Intermediate (minimal Python and Web programming experience expected, some gaming + HTML5 design background recommended)
 
 - Technologies involved: Python (sphinx, runestone, pytest-playwrigth), Javascript
 
@@ -142,7 +142,7 @@ Expected outcomes:
 
 - Project Length: 350 hr (large)
 
-- Difficulty level: Intermediate (expected basic knowledge in operating systems, network protocols, API development & testing + Accounting / ERP experience recommended)
+- Difficulty level: Intermediate (basic knowledge in operating systems, network protocols, APIs & testing; Accounting / ERP experience recommended)
 
 - Technologies involved: Python (httplib, xml, webservices, pdf, pytest), Linux/Windows
 
