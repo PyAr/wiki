@@ -82,6 +82,9 @@ Expected outcomes:
 OpenLex
 -------
 
+.. image:: https://github.com/PyAr/OpenLex/blob/master/static/logoOpenLex.png
+   :align: left
+
 Legal Case Management Software for Attorneys and Small Law Firms
 
 OpenLEX was developed as part of an Open Source Specialization Program, to provide free legal software for lawyers and small law firms (in a market with no Open Source alternative for the Continental Law System and local regulations)
