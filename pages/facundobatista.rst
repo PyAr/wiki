@@ -35,7 +35,7 @@ Contacto
 
 Email: ``facundo mafalda arroba miguelito taniquetil guille com susanita ar``
 
-*Ok, parseen eso si quieren mi dirección, creo que es una buena manera de que no la levante un bot.*
+*Ok, parseen eso si quieren mi dirección, creo que es una buena manera de que no la levante un bot :).*
 
 -------------------------
 
