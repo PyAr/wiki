@@ -5,8 +5,8 @@ GSoC 2022 PyAr projects
 
 .. class:: alert alert-info
 
-  | The following are the Python Argentina projects that can participate in Google Summer of Code 2022.
-  | Some ideas are tentative, please engage with the community strongly to present and improve your original proposals.
+  | The following are the Python Argentina projects that could participate in Google Summer of Code 2022.
+  | Ideas are tentative, please engage with the community strongly to present and improve your original proposals.
 
 PyZombis
 --------
