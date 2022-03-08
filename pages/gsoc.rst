@@ -20,10 +20,10 @@ con foco en proyectos de la comunidad, principalmente de habla hispana y latinoa
 * **Software para abogacía y contabilidad** (`OpenLex <https://github.com/PyAr/OpenLex>`__: manejo de estudios jurídicos y oficinas judiciales, `PyAFIP WS <https://github.com/PyAr/PyAfipWS>`__: factura electrónica y aplicativos)
 * **Herramientas para Desarrolladores**  (`pyempaq <https://github.com/facundobatista/pyempaq>`__: easy virtualenv wrapper), (`fades <https://github.com/PyAr/fades>`__: easy virtualenv wrapper)
 
-Participaremos en el `"Python Summer of Code" <http://python-gsoc.org/index.html#ideas>`_ (bajo la organización general de la `PSF <https://summerofcode.withgoogle.com/>`_).
+Participamos en el `"Python Summer of Code" <http://python-gsoc.org/index.html#ideas>`_ bajo la organización general de la `PSF <https://summerofcode.withgoogle.com/>`_.
 
 **NOTA**: por una cuestión administrativa y limitación de mentores, la disponibilidad de proyectos en el GSoC es acotada.
-Confirmar con la lista de ideas potenciales para este año y siempre consultar previamente por los canales de comunicación con los potenciales mentores.
+Confirmar con la lista de ideas tentativas para este año y siempre consultar previamente por los canales de comunicación con los potenciales mentores.
 
 Para ver todos los proyectos de la comunidad Python Argentina: `Listado </proyectos>`__ y `Repositorio <http://www.github.com/PyAr>`__
 
@@ -39,7 +39,7 @@ Deberías decidirte por algo que te interese, algunos consejos:
 
 * **¿Qué software usas actualmente?** ¡Conocerlo te permite opinar sobre como mejorarlo!
 * **¿Qué quisieras aprender?** El GSoC es una oportunidad de aprendizaje. Revisa cuales proyectos ayudaran a mejorar tus habilidades.
-* **¿Con quién te gustaría trabajar?** Acercate a los potenciales estudiantes y mentores. ¿Que desarrolladores te inspiran?
+* **¿Con quién te gustaría trabajar?** Acercate a los potenciales colaboradores y mentores. ¿Que desarrolladores te inspiran?
 * **¿Cómo quieres cambiar al mundo?** ¿Quieres ayudar a la gente? Muchos proyectos pueden posibilitar realizar un bien social.
 * **¿Cómo te gusta comunicarte?** ¿Prefieres conversar en IRC? ¿Por listas de correo? La comunicación es una gran parte del GSoC y desarrollo de código abierto.
 
@@ -53,25 +53,25 @@ Mentores:
 
 ¿Interesado en voluntariado con la `Python Software Foundation <https://www.python.org/psf/>`_ y la `Asociación Civil Python Argentina <https://ac.python.org.ar>`_?
 
-Mentorear a los estudiantes requiere cierta dedicación, pero es una oportunidad de brindarles un crecimiento en su formación sobre código abierto y avanzar proyectos de software libre.
+Mentorear a los colaboradores requiere cierta dedicación, pero es una oportunidad de brindarles un crecimiento en su formación sobre código abierto y avanzar proyectos de software libre.
 Mentoreamos en grupo, por lo que si sólo tienes tiempo limitado (por ej. para revisar código), puedes unirte a otros mentores y hacerlo en equipo.
 
 La dedicación aproximada es de **1 hora por semana** (para seguimiento periódico) y quizás unas horas más para revisión de código o preguntas (y evaluaciones mensuales).
-Los estudiantes más experimentados no requieren prácticamente supervisión, y podemos acompañarte con los que necesiten más ayuda.
+Los colaboradores más experimentados no requieren prácticamente supervisión, y podemos acompañarte con los que necesiten más ayuda.
 
 **IMPORTANTE**: El proceso de selección y otras tareas administrativas están siendo organizadas por miembros de la Asociación Civil,
 para disminuir el esfuerzo de los mentores, así pueden enfocarse en las cuestiones técnicas de los proyectos.
 
 El mentoreo es ad-honorem: los fondos cubiertos por Google son re-destinados a los distintos programas de ayuda financiera de la PSF.
 
-También buscamos miembros de la comunidad que puedan colaborar en otras tareas, como difundir los proyectos, contactar estudiantes y contestar dudas por la lista de correo o IRC.
+También buscamos miembros de la comunidad que puedan colaborar en otras tareas, como difundir los proyectos, contactar estudiantes/entusiastas y contestar dudas por la lista de correo o IRC.
 Si quieres ayudar, podemos encontrar la forma! Para más información ver: http://python-gsoc.org
 
 
 Instrucciones
 =============
 
-Si quieres participar como estudiante, por favor sigue los siguientes lineamientos:
+Si quieres participar como becario colaborador, por favor sigue los siguientes lineamientos:
 
 1. **¡Preséntate!**
 
@@ -105,7 +105,7 @@ Si quieres participar como estudiante, por favor sigue los siguientes lineamient
 
 IMPORTANTE:
 
-* Propuestas tardías, incompletas o de baja calidad no serán consideradas. El tiempo de los Mentores y disponibilidad de slots para estudiantes son limitados, por lo que haz preguntas inteligentes por adelantado y pide feedback frecuentemente.
+* Propuestas tardías, incompletas o de baja calidad no serán consideradas. El tiempo de los Mentores y disponibilidad de slots para becarios son limitados, por lo que haz preguntas inteligentes por adelantado y pide feedback frecuentemente.
 * Las solicitudes de último minuto en general son señal de problemas futuros (para vos y para nosotros, ¡por favor evítalo!). Las propuestas sin ninguna contribución previa en el repositorio (i.e. bug-fix issue) serán rechazados.
 * Se espera que le tengas prácticamente una dedicación completa al GSoC, por lo que planifica apropiadamente y avisa de cualquier otro compromiso (exámenes, trabajo, vacaciones, viajes, etc.)
 
@@ -120,7 +120,7 @@ Preguntas Frecuentes
 
 Nuevas reglas desde 2022:
 
-* Los estudiantes no necesitan presentar una **"Constancia de Inscripción"** de una Entidad Educativa reconocida oficialmente (Universidad o Instituto similar).
+* Los aspirantes no necesitan ser estudiantes de nivel universitario.
 * Sólo nuevos colaboradores pueden presentarse (orientado a principiantes)
 
 ¿Cual es el importe de la beca en U$S?
@@ -139,7 +139,7 @@ Google dona USD 500 a las organizaciones por cada proyecto aceptado, que son red
 -----------------------------------------
 
 Se `espera <https://developers.google.com/open-source/gsoc/faq#how_much_time_does_gsoc_participation_take>`_
-que los estudiantes le dediquen **18 horas semanales** en el período de 3 meses que dura el programa, lo que equivale a una trabajo de tiempo completo.
+que los becarios le dediquen **18 horas semanales** en el período de 3 meses que dura el programa, lo que equivale a una trabajo de tiempo completo.
 
 Idealmente no deberías tener otra pasantía, trabajo u obligación académica de tiempo completo mientras estés participando del GSoC.
 
@@ -152,7 +152,7 @@ lo habitual es 1 hora por semana para seguimiento periodico (y puede estar distr
 El trabajo administrativo más pesado lo haremos desde la Asociación Civil.
 
 
-¿Cuantos *Slots* hay para estudiantes del proyecto X?
+¿Cuantos *Slots* hay para becarios del proyecto X?
 -----------------------------------------------------
 
 Es posible que sólo tengamos disponibilidad para pocos participantes (en total para proyectos dentro de Python Argentina).
@@ -169,9 +169,9 @@ El GSoC es un programa muy demandado a nivel mundial, por lo que en general sól
 Cronograma y Fechas Límite 2022:
 --------------------------------
 
-* **4 de Abril** - **19 de Abril** - período para envío de solicitudes de Estudiantes (¡no hay extensión!).
-* **20 de Mayo**: Anuncio de los proyectos de estudiantes seleccionados e inicia el *community bonding* ("aclimatación")
-* **13 de Junio**: ¡Los estudiantes comienzan a programar!
+* **4 de Abril** - **19 de Abril** - período para envío de solicitudes de becarios (¡no hay extensión!).
+* **20 de Mayo**: Anuncio de los proyectos de becarios seleccionados e inicia el *community bonding* ("aclimatación")
+* **13 de Junio**: ¡Los becarios colaboradores comienzan a programar!
 * **29 de Julio**: Evaluaciones intermedias 
 * **12 de Septiembre**: Entrega final y Evaluación Final
 
