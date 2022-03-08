@@ -1,4 +1,4 @@
-.. title: 2022
+.. title: Google Summer of Code 2022 (ideas)
 
 Ideas for Google Summer of Code 2022
 ====================================
