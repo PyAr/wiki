@@ -1,13 +1,13 @@
-.. title: Gsoc
+.. title: Google Summer of Code (becas)
 
 TL;DR:
- * Los **Estudiantes** reciben **becas** para trabajar programando **código abierto**
+ * Los **Entusiastas** reciben **becas** para contribuir programando **código abierto**
  * Los **Proyectos** encuentran nuevos colaboradores y **mentorean** la nueva generación de desarrolladores
 
 .. class:: alert alert-info
 
-  El `Google Summer of Code <https://summerofcode.withgoogle.com>`__ (**GSoC**) es un programa global que ofrece la oportunidad a estudiantes
-  universitarios de recibir una beca para contribuir a proyectos open source por un período de tres meses.
+  El `Google Summer of Code <https://summerofcode.withgoogle.com>`__ (**GSoC**) es un programa global que ofrece la oportunidad a 
+  colaboradores de recibir una beca para contribuir a proyectos open source por un período de tres meses.
 
 Proyectos Tentativos:
 =====================
@@ -17,13 +17,13 @@ con foco en proyectos de la comunidad, principalmente de habla hispana y latinoa
 
 * **Iniciativas Educativas** (`CDPedia <https://github.com/PyAr/CDPedia>`__: Wikipedia offline, `PyZombis <https://github.com/PyAr/PyZombis>`__: MOOC Español, Tutoriales de Python)
 * **Herramientas gestión comunitaria** (`PyArWeb <https://github.com/PyAr/PyArWeb>`__: Sitio local, `asoc_members <https://github.com/PyAr/asoc_members>`__: administración de socios)
-* **Software para Abogados y Contadores** (`OpenLex <https://github.com/PyAr/OpenLex>`__: manejo de estudios jurídicos y oficinas judiciales, `PyAFIP WS <https://github.com/PyAr/PyAfipWS>`__: factura electrónica y aplicativos)
-* **Herramientas para Desarrolladores** (`fades <https://github.com/PyAr/fades>`__: easy virtualenv wrapper)
+* **Software para abogacía y contabilidad** (`OpenLex <https://github.com/PyAr/OpenLex>`__: manejo de estudios jurídicos y oficinas judiciales, `PyAFIP WS <https://github.com/PyAr/PyAfipWS>`__: factura electrónica y aplicativos)
+* **Herramientas para Desarrolladores**  (`pyempaq <https://github.com/facundobatista/pyempaq>`__: easy virtualenv wrapper), (`fades <https://github.com/PyAr/fades>`__: easy virtualenv wrapper)
 
-Este año participaremos en el `"Python Summer of Code" <http://python-gsoc.org/index.html#ideas>`_ (bajo la organización general de la `PSF <https://summerofcode.withgoogle.com/>`_).
+Participaremos en el `"Python Summer of Code" <http://python-gsoc.org/index.html#ideas>`_ (bajo la organización general de la `PSF <https://summerofcode.withgoogle.com/>`_).
 
-**NOTA**: por una cuestión administrativa y disponibilidad de mentores, la disponibilidad de proyectos en el GSoC es acotada.
-Revisar frecuentemente `Página de Ideas <https://github.com/orgs/PyAr/projects>`_
+**NOTA**: por una cuestión administrativa y limitación de mentores, la disponibilidad de proyectos en el GSoC es acotada.
+Confirmar con la lista de ideas potenciales para este año y siempre consultar previamente por los canales de comunicación con los potenciales mentores.
 
 Para ver todos los proyectos de la comunidad Python Argentina: `Listado </proyectos>`__ y `Repositorio <http://www.github.com/PyAr>`__
 
@@ -32,7 +32,7 @@ Para ver todos los proyectos de la comunidad Python Argentina: `Listado </proyec
 Como empezar:
 =============
 
-El detalle de los proyectos e ideas tentativas para participar en GSoC está publicada en GitHub: https://github.com/orgs/PyAr/projects/1
+El detalle de los proyectos e ideas tentativas para participar en GSoC está publicada en GitHub: https://wiki.python.org.ar/GSoC/2022
 
 Elegir un proyecto es una decisión muy personal.
 Deberías decidirte por algo que te interese, algunos consejos:
@@ -75,11 +75,12 @@ Si quieres participar como estudiante, por favor sigue los siguientes lineamient
 
 1. **¡Preséntate!**
 
-   Escribe a el `Grupo de Google <https://groups.google.com/d/forum/pyar-gsoc>`_ pyar-gsoc@googlegroups.com
+   Presentate en el canal de `Telegram <https://t.me/+ljnpIYBUMLI3MDAx>`_.
+   Luego escribe a el `Grupo de Google <https://groups.google.com/d/forum/pyar-gsoc>`_ pyar-gsoc@googlegroups.com
    (para preguntas generales del GSoC: secretaria+gsoc@ac.python.org.ar). Indicar claramente:
 
    * ¿Por qué querés participar del GSoC?, brevemente comenta tu experiencia y expectativas
-   * ¿Qué proyecto preferirías?: revisa la página de `ideas <https://github.com/orgs/PyAr/projects/1>`_
+   * ¿Qué proyecto preferirías?: revisa la página de `ideas <https://wiki.python.org.ar/GSoC/ideas>`_
    * ¿Cuál es tu experiencia previa?, habilidades Python, django, hg/git, js, etc.
 
 2. **¡Corrige un bug!**
@@ -114,33 +115,31 @@ Preguntas Frecuentes
 ¿Quienes pueden participar?
 ---------------------------
 
-* Estudiantes: **alumno regular** del nivel superior, mayores de 18 años entre otros requisitos (ver `Eligibility Requirements <https://developers.google.com/open-source/gsoc/faq#what_are_the_eligibility_requirements_for_participation>`_)
+* Becarios: mayores de 18 años entre otros requisitos (ver `Eligibility Requirements <https://developers.google.com/open-source/gsoc/faq#what_are_the_eligibility_requirements_for_participation>`_)
 * Mentores: ¡todo colaborador es bienvenido!
 
-Los estudiantes para poder ser aceptados deben presentar una **"Constancia de Inscripción"**
-de una Entidad Educativa reconocida oficialmente (Universidad o Instituto similar),
-que indique que esn cursando a la fecha requerida por Google:
-https://developers.google.com/open-source/gsoc/help/proof-of-enrollment
+Nuevas reglas desde 2022:
 
-NOTA: los cursos online no son aceptados. Es requisito ser alumno regular -presencial o a distancia- de una carrera de grado o post-grado con reconocimiento oficial.
+* Los estudiantes no necesitan presentar una **"Constancia de Inscripción"** de una Entidad Educativa reconocida oficialmente (Universidad o Instituto similar).
+* Sólo nuevos colaboradores pueden presentarse (orientado a principiantes)
 
 ¿Cual es el importe de la beca en U$S?
 --------------------------------------
 
 El monto de la beca lo determina Google basado en la Paridad de Poder Adquisitivo (PPP) de cada país.
 
-Para Argentina 2021, el importe de la beca para estudiantes sería hasta: **USD 1500** (Dólares EE.UU.); se paga en tramos dependiendo del avance del proyecto
-(mientras el estudiante supere las evaluaciones y continúe en el GSoC):
+Para Argentina 2022, el importe de la beca sería hasta **USD 3000** (Dólares EE.UU.); se paga en tramos dependiendo del avance del proyecto
+(mientras el participante supere las evaluaciones y continúe en el GSoC):
 https://developers.google.com/open-source/gsoc/help/student-stipends
 
 NOTA: los mentores y administradores colaboran ad-honorem (voluntariado), por lo que no reciben ninguna retribución económica.
-Google dona USD 400 a las organizaciones por cada proyecto aceptado, que son redestinados a `programas de ayuda financiera de la PSF <https://www.python.org/psf/grants/>`_
+Google dona USD 500 a las organizaciones por cada proyecto aceptado, que son redestinados a `programas de ayuda financiera de la PSF <https://www.python.org/psf/grants/>`_
 
 ¿Cuanto tiempo hay que dedicarle al GSoC?
 -----------------------------------------
 
 Se `espera <https://developers.google.com/open-source/gsoc/faq#how_much_time_does_gsoc_participation_take>`_
-que los estudiantes le dediquen **18 horas semanales** en el período de 2 meses que dura el programa, lo que equivale a una trabajo de tiempo completo.
+que los estudiantes le dediquen **18 horas semanales** en el período de 3 meses que dura el programa, lo que equivale a una trabajo de tiempo completo.
 
 Idealmente no deberías tener otra pasantía, trabajo u obligación académica de tiempo completo mientras estés participando del GSoC.
 
@@ -148,7 +147,7 @@ NOTA: Entendemos que por estas latitudes, no son vacaciones de verano...
 Por eso intentaremos ser lo más flexible con los horarios, pero es recomendable que los candidatos indiquen
 cualquier compromiso por adelantado (exámenes, viajes, actividades laborales, etc.).
 
-NOTA: la dedicación de los mentores es variable, de 0 a 10 horas por semana (excepcionalmente);
+NOTA: la dedicación de los mentores es variable, de 2 horas por semana (aproximadamente);
 lo habitual es 1 hora por semana para seguimiento periodico (y puede estar distribuido entre distintos mentores).
 El trabajo administrativo más pesado lo haremos desde la Asociación Civil.
 
@@ -156,26 +155,25 @@ El trabajo administrativo más pesado lo haremos desde la Asociación Civil.
 ¿Cuantos *Slots* hay para estudiantes del proyecto X?
 -----------------------------------------------------
 
-Al ser nuestra primera participación, es posible que sólo tengamos disponibilidad para 1 o 2 estudiantes
-(en total para proyectos dentro de Python Argentina).
+Es posible que sólo tengamos disponibilidad para pocos participantes (en total para proyectos dentro de Python Argentina).
 
 Te alentamos a que busques y también presentes solicitudes para otros `Proyectos Python bajo la PSF <http://python-gsoc.org/#ideas>`_
 
-Cada estudiante puede enviar hasta 3 solicitudes en total (mismo o distinto proyecto).
+Cada interesado puede enviar hasta 3 solicitudes en total (mismo o distinto proyecto).
 Cada proyecto necesita al menos 2 mentores (uno principal y otro de "backup").
 
 El GSoC es un programa muy demandado a nivel mundial, por lo que en general sólo las propuestas más elaboradas son seleccionadas.
 
 ¡Te recomendamos comenzar cuanto antes si estás interesado!
 
-Cronograma y Fechas Límite 2019:
+Cronograma y Fechas Límite 2022:
 --------------------------------
 
-* **29 de Marzo** - **13 de Abril** - período para envío de solicitudes de Estudiantes (¡no hay extensión!).
-* **17 de Mayo**: Anuncio de los proyectos de estudiantes seleccionados e inicia el *community bonding* ("aclimatación")
-* **7 de Junio**: ¡Los estudiantes comienzan a programar!
-* **16 de Julio**: Evaluaciones intermedias 
-* **16 de Agosto**: Entrega final y Evaluación Final
+* **4 de Abril** - **19 de Abril** - período para envío de solicitudes de Estudiantes (¡no hay extensión!).
+* **20 de Mayo**: Anuncio de los proyectos de estudiantes seleccionados e inicia el *community bonding* ("aclimatación")
+* **13 de Junio**: ¡Los estudiantes comienzan a programar!
+* **29 de Julio**: Evaluaciones intermedias 
+* **12 de Septiembre**: Entrega final y Evaluación Final
 
 Blogs y Referencias sobre el GSoC
 =================================
