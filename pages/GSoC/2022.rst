@@ -7,7 +7,7 @@ GSoC 2022 PyAr projects
 
   | The following are the Python Argentina projects that could participate in Google Summer of Code 2022 (under the `PSF org <https://python-gsoc.org/>`_).
   | Ideas are tentative, please engage with the community strongly to present and improve your original proposals.
-  | For + Info see bellow: `About Python Argentina <https://wiki.python.org.ar/GSoC/2022#about-python-argentina>`_ (`Contacting Us <https://wiki.python.org.ar/GSoC/2022#contacting-us>`_) - `Getting Started <https://wiki.python.org.ar/GSoC/2022#getting-started>`_ - `Important notes <https://wiki.python.org.ar/GSoC/2022#important-notes>`__ | `Info En Español <https://wiki.python.org.ar/gsoc>`_
+  | For + Info see bellow: `About Python Argentina <https://wiki.python.org.ar/GSoC/2022#about-python-argentina>`_ (`Contacting Us <https://wiki.python.org.ar/GSoC/2022#contacting-us-1>`_) - `Getting Started <https://wiki.python.org.ar/GSoC/2022#getting-started-1>`_ - `Important notes <https://wiki.python.org.ar/GSoC/2022#important-notes>`__ | `Info En Español <https://wiki.python.org.ar/gsoc>`_
 
 PyZombis
 --------
