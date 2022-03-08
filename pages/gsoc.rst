@@ -1,7 +1,7 @@
 .. title: Google Summer of Code (becas)
 
 TL;DR:
- * Los **Entusiastas** reciben **becas** para contribuir programando **código abierto**
+ * Los **Entusiastas** reciben **becas** para contribuir programando **código abierto**, ver `Ideas 2022 <https://wiki.python.org.ar/GSoC/2022/>`_
  * Los **Proyectos** encuentran nuevos colaboradores y **mentorean** la nueva generación de desarrolladores
 
 .. class:: alert alert-info
