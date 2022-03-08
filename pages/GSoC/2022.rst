@@ -1,9 +1,9 @@
 .. title: Google Summer of Code 2022 (ideas)
 
-Ideas for Google Summer of Code 2022
-====================================
+GSoC 2022 PyAr projects
+=======================
 
-The following are the proposed projects for inclusion into Google Summer of Code 2022.
+The following are the Python Argentina projects that participate in Google Summer of Code 2022.
 Some ideas are tentative, please engage with the community strongly to present and improve your original proposals.
 
 PyZombis
