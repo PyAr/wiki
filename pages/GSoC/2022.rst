@@ -43,7 +43,7 @@ Expected outcomes:
 
 - Technologies involved: Python (sphinx, runestone, pygame, sqlite, pytest-playwrigth, pytest-vcr), Javascript (ajax, DOM)
 
-- Potential mentors: `@reingart <https://github.com/reingart>`_ (coordinator) + `@NicolasSandoval <https://github.com/NicolasSandoval>`_ et al., please contact all mentors in `PyAr GSoC Telegram group <https://t.me/+ljnpIYBUMLI3MDAx>`__
+- Potential mentors: `@reingart <https://github.com/reingart>`_ (coordinator) + `@NicolasSandoval <https://github.com/NicolasSandoval>`_ et al., please contact all mentors in `PyAr GSoC Telegram group <https://t.me/PyArGSoC>`__
 
 - Past GSoC Students projects wrap-up (for reference):
     - `Angela Remolina <https://github.com/PyAr/PyZombis/wiki/GSOC-2021-PSF-PyAr-Final-code-submission-PyZombis-Angela-Remolina>`_ (2021)
@@ -113,7 +113,7 @@ Expected outcomes:
 
 - Technologies involved: Python (web2py, pytest-playwright), HTML5, JavaScript, mobile (Android/IOS, optional)
 
-- Potential mentors: `@marian-vignau <https://github.com/marian-vignau>`_ (coordinator) + `@eamanu <https://github.com/eamanu>`_ et al., please contact all mentors in `PyAr GSoC Telegram group <https://t.me/+ljnpIYBUMLI3MDAx>`__)
+- Potential mentors: `@marian-vignau <https://github.com/marian-vignau>`_ (coordinator) + `@eamanu <https://github.com/eamanu>`_ et al., please contact all mentors in `PyAr GSoC Telegram group <https://t.me/PyArGSoC>`__)
 
 - Past GSoC Students projects wrap-up (for reference):
     - `Juan Rodriguez <https://github.com/PyAr/OpenLex/wiki/Pyar-Openlex-GSoC-2021-Final-Summary-Rodriguez-Juan>`_ (2021)
@@ -155,7 +155,7 @@ Expected outcomes:
 
 - Technologies involved: Python (httplib, xml, webservices, pdf, dbf, pywin32, pytest, pytest-vcr, py2exe), Linux/Windows (packaging/installers/APIs/DLL)
 
-- Potential mentors: `@reingart <https://github.com/reingart>`_ (coordinator) + `@NicolasSandoval <https://github.com/NicolasSandoval>`_, please contact all mentors in `PyAr GSoC Telegram group <https://t.me/+ljnpIYBUMLI3MDAx>`__
+- Potential mentors: `@reingart <https://github.com/reingart>`_ (coordinator) + `@NicolasSandoval <https://github.com/NicolasSandoval>`_, please contact all mentors in `PyAr GSoC Telegram group <https://t.me/PyArGSoC>`__
 
 - Past GSoC Students projects wrap-up (for reference):
     - `Utkarsh Kumar <https://github.com/PyAr/pyafipws/wiki/GSoC-2021:-Final-Summary>`_ (2021)
@@ -180,7 +180,7 @@ Contacting Us
 
 We're in the Argentina time zone (GMT-3)
 
-* Telegram: https://t.me/+ljnpIYBUMLI3MDAx
+* Telegram: https://t.me/PyArGSoC (`invite <https://t.me/+ljnpIYBUMLI3MDAx>`_)
 * Google Group: https://groups.google.com/g/pyar-gsoc
 * Forum: https://pyar.discourse.group/
 * Email: secretaria+gsoc@ac.python.org.ar
