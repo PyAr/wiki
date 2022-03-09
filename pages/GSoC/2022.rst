@@ -3,11 +3,6 @@
 GSoC 2022 PyAr projects
 =======================
 
-.. image:: https://raw.githubusercontent.com/PyAr/wiki/master/images/GSoC2022.png
-   :align: right
-   :height: 75 px
-   :width: 75 px
-
 .. class:: alert alert-info
 
   | The following are the Python Argentina projects that could participate in Google Summer of Code 2022 (under the `PSF org <https://python-gsoc.org/>`_).
