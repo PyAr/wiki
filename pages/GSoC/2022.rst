@@ -1,3 +1,8 @@
+.. image:: https://raw.githubusercontent.com/PyAr/wiki/master/images/GSoC2022.png
+   :align: right
+   :height: 64 px
+   :width: 64 px
+
 .. title: Google Summer of Code 2022 (ideas)
 
 GSoC 2022 PyAr projects
