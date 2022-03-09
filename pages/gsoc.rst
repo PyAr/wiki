@@ -2,8 +2,6 @@
 
 .. image:: https://developers.google.com/open-source/gsoc/images/sun.svg
    :align: right
-   :alt: GSoC logo
-   :scale: 20 %
    :height: 150 px
    :width: 150 px
 
