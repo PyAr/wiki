@@ -1,5 +1,12 @@
 .. title: Google Summer of Code (becas)
 
+.. image:: https://developers.google.com/open-source/gsoc/images/sun.svg
+   :align: right
+   :alt: GSoC logo
+   :scale: 20 %
+   :height: 150 px
+   :width: 150 px
+
 TL;DR:
  * Los **Entusiastas** reciben **becas** para contribuir programando **código abierto**, ver `Ideas 2022 <https://wiki.python.org.ar/GSoC/2022/>`_
  * Los **Proyectos** encuentran nuevos colaboradores y **mentorean** la nueva generación de desarrolladores
