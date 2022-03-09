@@ -1,9 +1,9 @@
 .. title: Google Summer of Code (becas)
 
-.. image:: https://developers.google.com/open-source/gsoc/images/sun.svg
+.. image:: https://raw.githubusercontent.com/PyAr/wiki/master/images/GSoC2022.png
    :align: right
-   :height: 150 px
-   :width: 150 px
+   :height: 128 px
+   :width: 128 px
 
 TL;DR:
  * Los **Entusiastas** reciben **becas** para contribuir programando **código abierto**, ver `Ideas 2022 <https://wiki.python.org.ar/GSoC/2022/>`_
