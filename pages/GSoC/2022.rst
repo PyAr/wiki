@@ -2,8 +2,8 @@
 
 .. image:: https://raw.githubusercontent.com/PyAr/wiki/master/images/GSoC2022.png
    :align: right
-   :height: 64 px
-   :width: 64 px
+   :height: 32 px
+   :width: 32 px
 
 GSoC 2022 PyAr projects
 =======================
@@ -221,7 +221,7 @@ Please send an introductory email to the Google Group and state clearly:
 Fixing a bug!
 -------------
 
-* Ask for a simple ticket. For example, take a look at CDPedia, PyAfipWs, OpenLex, PyZombis.
+* Ask for a simple non-trivial ticket. For example, take a look at CDPedia, PyAfipWs, OpenLex, PyZombis.
 * Create a user in GitHub (if you don't have one)
 * Fork the project repository and try to fix an issue of your desired project
 * Discuss with potential mentors your fix, creating a Pull Request as early as possible!
@@ -229,13 +229,16 @@ Fixing a bug!
 Writing a Proposal
 ------------------
 
-* Select a project idea and write a detailed proposal using Google Docs (in advance!)
-* Define 3 milestones & deliverables (i.e. Proof-Of-Concept, Prototype, Final Demo)
-* Tasking out (high-level goals for each milestone)
+* Select a project idea and write a detailed proposal following this `template <https://github.com/python-gsoc/python-gsoc.github.io/blob/master/2019/application2019.md>`_ using Google Docs (in advance!)
+* Plan your prepwork for the community bonding period (eg. a Proof-Of-Concept)
+* Define a milestones for each evaluation phase (i.e. Prototype, Pilot / Final Demo)
+* Plan you weekly work & deliverables (tasking out: high-level goals for each milestone)
 * Describe the acceptance criteria ("Minimum Viable Product" of each phase)
 
-Share an early draft (based on the Application Template, using Google Docs) and discuss your approach in the group with mentors
-Do not forget to submit your application to the Google system when ready, before the deadline
+Share an early draft and discuss your approach in the group with mentors.
+Do not forget to submit your application to the Google system when ready, some days before the deadline (their system can be overloaded at last minute).
+
+TIPs: read and follow the `GSoC guide <https://google.github.io/gsocguides/student/writing-a-proposal>`_ & `PSF check-list <https://python-gsoc.org/index.html#apply>`_
 
 Important notes
 ===============
