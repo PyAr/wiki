@@ -2,8 +2,8 @@
 
 .. image:: https://raw.githubusercontent.com/PyAr/wiki/master/images/GSoC2022.png
    :align: right
-   :height: 32 px
-   :width: 32 px
+   :height: 44 px
+   :width: 44 px
 
 GSoC 2022 PyAr projects
 =======================
