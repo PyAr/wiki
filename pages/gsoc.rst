@@ -101,12 +101,15 @@ Si quieres participar como becario colaborador, por favor sigue los siguientes l
 
    Selecciona la idea de proyecto y escribe una propuesta detallada usando Google Docs (por adelantado!)
 
-   * Por favor abre y lee el detalle de la idea por adelantado. Pregunta si tienes dudas.
-   * Define 2 hitos & entregables (i.e. Prueba-de-Concepto/Prototipo, Demo Final)
-   * Planifica las tareas (objetivos de alto nivel para cada hito)
+   * Comparte a los mentores un borrador, siguiendo esta `plantilla <https://github.com/python-gsoc/python-gsoc.github.io/blob/master/2019/application2019.md>`_ como base
+   * Planifica el trabajo preparatorio para el período de "Community bonding" (por ej. una Prueba de Concepto)
+   * Define 2 hitos para cada período de evaluación (i.e. Prototipo, Piloto o Demo Final)
+   * Planifica las tareas por cada semana y sus entregables (objetivos de alto nivel para cada hito)
    * Describe el criterio de aceptación ("Producto Mínimo Viable" de cada fase)
-   * Comparte un borrador tempranamente via Google Docs (ver `plantilla <https://github.com/python-gsoc/python-gsoc.github.io/blob/master/application2019.md>`_) y discute tu enfoque en la lista de correo con los mentores
-   * No olvides enviar tu propuesta por el `sistema de Google <https://summerofcode.withgoogle.com/>`_ cuando esté lista, antes de la fecha limite (no hay extensiones, sin excepción)
+   
+   No olvides enviar tu propuesta por el `sistema de Google <https://summerofcode.withgoogle.com/>`_ cuando esté lista, antes de la fecha limite -para evitar sobrecarga del servidor- (no hay extensiones, sin excepción)
+
+   TIPs: lee y sigue la `GSoC guide <https://google.github.io/gsocguides/student/writing-a-proposal>`_ & `PSF check-list <https://python-gsoc.org/index.html#apply>`_
 
 IMPORTANTE:
 
