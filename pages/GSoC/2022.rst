@@ -236,7 +236,7 @@ Writing a Proposal
 * Describe the acceptance criteria ("Minimum Viable Product" of each phase)
 
 Share an early draft and discuss your approach in the group with mentors.
-Do not forget to submit your application to the Google system when ready, some days before the deadline (their system can be overloaded at last minute).
+Do not forget to submit your application to the `Google system <https://summerofcode.withgoogle.com/>`_ when ready, some days before the deadline (the server can be overloaded at last minute).
 
 TIPs: read and follow the `GSoC guide <https://google.github.io/gsocguides/student/writing-a-proposal>`_ & `PSF check-list <https://python-gsoc.org/index.html#apply>`_
 
