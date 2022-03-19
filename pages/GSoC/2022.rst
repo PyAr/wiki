@@ -38,7 +38,7 @@ Expected outcomes:
     - `Academic info <http://bit.ly/pyzombis>`_ (full proposal, course syllabus, pedagogical methodology)
 
 - Project ideas: 
-    - Entry-level smaller enhancements for coding exercises and examples (see ticket for more details):
+    - Entry-level smaller enhancements for coding exercises and examples (see ticket link for more details)
        - Refactor modular programming chapter `#216 <https://github.com/PyAr/PyZombis/issues/216>`_
        - Modernize MVC & exceptions example app `#217 <https://github.com/PyAr/PyZombis/issues/217>`_
        - Modernize multimedia app & Object-Oriented Programming lecture `#218 <https://github.com/PyAr/PyZombis/issues/218>`_
