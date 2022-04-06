@@ -111,6 +111,13 @@ Si quieres participar como becario colaborador, por favor sigue los siguientes l
 
    TIPs: lee y sigue la `GSoC guide <https://google.github.io/gsocguides/student/writing-a-proposal>`_ & `PSF check-list <https://python-gsoc.org/index.html#apply>`_
 
+   Borradores de propuestas previas como referencia:
+
+   * Angela: `PyZombis: Improving Python’s web interpreter and more interactive exercises <https://docs.google.com/document/d/1PWJF_dQP6qpFkBxBiUt480w-oqZ8_NM2rERQKBkbjIY>`_
+   * Leonardo: `PyZombis:  Continue the implementation of the course in the Runestone environment <https://docs.google.com/document/d/1eGPD_Woyv-UQINYbsLV6-qnr6I7RCMyEl11OW5s8fUg>`_
+   * Utkarsh: `PyAfipWs: Library for developers (enhancements) <https://docs.google.com/document/d/1U44YlWrql1_9QFIYSyW8wUBTG6VU6Q0BPybiBnX0VKk>`_ 
+
+
 IMPORTANTE:
 
 * Propuestas tardías, incompletas o de baja calidad no serán consideradas. El tiempo de los Mentores y disponibilidad de slots para becarios son limitados, por lo que haz preguntas inteligentes por adelantado y pide feedback frecuentemente.
