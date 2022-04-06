@@ -246,6 +246,12 @@ Do not forget to submit your application to the `Google system <https://summerof
 
 TIPs: read and follow the `GSoC guide <https://google.github.io/gsocguides/student/writing-a-proposal>`_ & `PSF check-list <https://python-gsoc.org/index.html#apply>`_
 
+Some past draft proposals for reference:
+
+* Angela: `PyZombis: Improving Python’s web interpreter and more interactive exercises <https://docs.google.com/document/d/1PWJF_dQP6qpFkBxBiUt480w-oqZ8_NM2rERQKBkbjIY>`_
+* Leonardo: `PyZombis:  Continue the implementation of the course in the Runestone environment <https://docs.google.com/document/d/1eGPD_Woyv-UQINYbsLV6-qnr6I7RCMyEl11OW5s8fUg>`_
+* Utkarsh: `PyAfipWs: Library for developers (enhancements) <https://docs.google.com/document/d/1U44YlWrql1_9QFIYSyW8wUBTG6VU6Q0BPybiBnX0VKk>`_ 
+
 Important notes
 ===============
 
