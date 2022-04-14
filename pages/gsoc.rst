@@ -154,9 +154,10 @@ Google dona USD 500 a las organizaciones por cada proyecto aceptado, que son red
 -----------------------------------------
 
 Se `espera <https://developers.google.com/open-source/gsoc/faq#how_much_time_does_gsoc_participation_take>`_
-que los becarios le dediquen **18 horas semanales** en el período de 3 meses que dura el programa, lo que equivale a una trabajo de tiempo completo.
+que los becarios a proyectos medianos le dediquen **175 horas** en el período de 3 meses (12 semanas), lo que equivale a una trabajo de medio tiempo (3 horas por día).
+Los proyectos extendidos (*large*) tienen una duración de 22 semanas y 350 horas en total.
 
-Idealmente no deberías tener otra pasantía, trabajo u obligación académica de tiempo completo mientras estés participando del GSoC.
+Idealmente no deberías tener otra pasantía, compromiso u obligación académica de tiempo completo mientras estés participando del GSoC.
 
 NOTA: Entendemos que por estas latitudes, no son vacaciones de verano...
 Por eso intentaremos ser lo más flexible con los horarios, pero es recomendable que los candidatos indiquen
