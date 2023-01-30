@@ -10,8 +10,7 @@ Antes que nada, ¿qué es un PyCamp? `Acá tenés una buena descripción y mucha
   
 
 Fechas:
-
--------
+-------------------------------------------
 
   
 
@@ -20,8 +19,7 @@ Los dias 23(laborable ), 24 (feriado), 25 y 26 (sábado y domingo) de Marzo del 
   
 
 Qué llevo:
-
-----------
+-------------------------------------------
 
   
 
@@ -54,11 +52,11 @@ Sede: Riachuelo, Corrientes.
 
   
 
-[Cabañas "Las Ilusiones Cue](https://www.instagram.com/lasilusionescue/)
+`Cabañas "Las Ilusiones Cue" <https://www.instagram.com/lasilusionescue/>`_.
 
   
 
-Podés ver las [fotos](https://photos.app.goo.gl/tNKYAxpvjUZPffTA7)
+Podés ver las `fotos <https://photos.app.goo.gl/tNKYAxpvjUZPffTA7>`_
 
   
   
@@ -67,34 +65,34 @@ Podés ver las [fotos](https://photos.app.goo.gl/tNKYAxpvjUZPffTA7)
 
   
 
-* Mapa: [Acá](https://goo.gl/maps/QoJyXWX9jHULXDF56)
+* Mapa: `Acá <https://goo.gl/maps/QoJyXWX9jHULXDF56>`_.
 
   
 
 * En auto: las rutas desde Córdoba, Capital Federal y Rosario están en condiciones.
 
-* [CABA -> Cabañas](https://www.google.com/maps/dir/CABA/Caba%C3%B1a+%22Las+Ilusiones+Cue%22,+Corrientes/@-30.4578234,-62.1540606,6.25z/data=!4m13!4m12!1m5!1m1!1s0x95bcca3b4ef90cbd:0xa0b3812e88e88e87!2m2!1d-58.3815591!2d-34.6036844!1m5!1m1!1s0x944569c494530d7f:0x2343bfbd6d5675e1!2m2!1d-58.7504273!2d-27.5426986). son 904 km , 10 hs aprox.
+    * `CABA -> Cabañas <https://www.google.com/maps/dir/CABA/Caba%C3%B1a+%22Las+Ilusiones+Cue%22,+Corrientes/@-30.4578234,-62.1540606,6.25z/data=!4m13!4m12!1m5!1m1!1s0x95bcca3b4ef90cbd:0xa0b3812e88e88e87!2m2!1d-58.3815591!2d-34.6036844!1m5!1m1!1s0x944569c494530d7f:0x2343bfbd6d5675e1!2m2!1d-58.7504273!2d-27.5426986>`_ 904 km, 10 hs aprox.
 
   
 
-* [Córdoba -> Cabañas](https://www.google.com/maps/dir/C%C3%B3rdoba/Caba%C3%B1a+%22Las+Ilusiones+Cue%22,+Corrientes/@-29.5679656,-63.6914788,7z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x9432985f478f5b69:0xb0a24f9a5366b092!2m2!1d-64.1887761!2d-31.4200833!1m5!1m1!1s0x944569c494530d7f:0x2343bfbd6d5675e1!2m2!1d-58.7504273!2d-27.5426986) : 959 km 11:30 hs
+    * `Córdoba -> Cabañas <https://www.google.com/maps/dir/C%C3%B3rdoba/Caba%C3%B1a+%22Las+Ilusiones+Cue%22,+Corrientes/@-29.5679656,-63.6914788,7z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x9432985f478f5b69:0xb0a24f9a5366b092!2m2!1d-64.1887761!2d-31.4200833!1m5!1m1!1s0x944569c494530d7f:0x2343bfbd6d5675e1!2m2!1d-58.7504273!2d-27.5426986>`_ 959 km, 11:30 hs
 
   
 
-* [Mendoza -> Cabañas](https://www.google.com/maps/dir/Mendoza,+Capital,+Mendoza/Caba%C3%B1a+%22Las+Ilusiones+Cue%22,+Corrientes/@-30.0909786,-68.2717556,6z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x967e093ec45179bf:0x205a78f6d20efa3a!2m2!1d-68.8458386!2d-32.8894587!1m5!1m1!1s0x944569c494530d7f:0x2343bfbd6d5675e1!2m2!1d-58.7504273!2d-27.5426986): 1500km 18 hs
+    * `Mendoza -> Cabañas <https://www.google.com/maps/dir/Mendoza,+Capital,+Mendoza/Caba%C3%B1a+%22Las+Ilusiones+Cue%22,+Corrientes/@-30.0909786,-68.2717556,6z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x967e093ec45179bf:0x205a78f6d20efa3a!2m2!1d-68.8458386!2d-32.8894587!1m5!1m1!1s0x944569c494530d7f:0x2343bfbd6d5675e1!2m2!1d-58.7504273!2d-27.5426986>`_ 1500km, 18 hs
 
   
 
 * En bondi distancia desde la terminal de Corrientes hasta el complejo.
 
-[Terminal -> Cabañas](https://www.google.com/maps/dir/Terminal+de+Omnibus+Corrientes,+Terminal+de+Omnibus+2500,+HSY,+Av.+Maip%C3%BA,+W3408+Corrientes/Caba%C3%B1a+%22Las+Ilusiones+Cue%22,+Ciudad+de+Corrientes,+Corrientes/@-27.5255078,-58.7946595,13z/data=!4m14!4m13!1m5!1m1!1s0x94456b9a60607489:0x4eb1e6d43248db63!2m2!1d-58.8144716!2d-27.4982271!1m5!1m1!1s0x944569c494530d7f:0x2343bfbd6d5675e1!2m2!1d-58.7504273!2d-27.5426986!3e0)
+`Terminal -> Cabañas <https://www.google.com/maps/dir/Terminal+de+Omnibus+Corrientes,+Terminal+de+Omnibus+2500,+HSY,+Av.+Maip%C3%BA,+W3408+Corrientes/Caba%C3%B1a+%22Las+Ilusiones+Cue%22,+Ciudad+de+Corrientes,+Corrientes/@-27.5255078,-58.7946595,13z/data=!4m14!4m13!1m5!1m1!1s0x94456b9a60607489:0x4eb1e6d43248db63!2m2!1d-58.8144716!2d-27.4982271!1m5!1m1!1s0x944569c494530d7f:0x2343bfbd6d5675e1!2m2!1d-58.7504273!2d-27.5426986!3e0>`_.
 
   
   
 
 * En avión distancia desde el aeropuerto de Corrientes (Aeropuerto Internacional Doctor Fernando Piragine Niveyro) hasta el complejo
 
-[Aeropuerto -> Cabañas](https://www.google.com/maps/dir/Aeropuerto+Internacional+Doctor+Fernando+Piragine+Niveyro,+Calle+27,+Corrientes/Caba%C3%B1a+%22Las+Ilusiones+Cue%22,+Corrientes/@-27.4972748,-58.8132234,12.75z/data=!4m13!4m12!1m5!1m1!1s0x94456bfd36dccfd9:0xd2377ff521a7a849!2m2!1d-58.7582896!2d-27.4491257!1m5!1m1!1s0x944569c494530d7f:0x2343bfbd6d5675e1!2m2!1d-58.7504273!2d-27.5426986)
+`Aeropuerto -> Cabañas <https://www.google.com/maps/dir/Aeropuerto+Internacional+Doctor+Fernando+Piragine+Niveyro,+Calle+27,+Corrientes/Caba%C3%B1a+%22Las+Ilusiones+Cue%22,+Corrientes/@-27.4972748,-58.8132234,12.75z/data=!4m13!4m12!1m5!1m1!1s0x94456bfd36dccfd9:0xd2377ff521a7a849!2m2!1d-58.7582896!2d-27.4491257!1m5!1m1!1s0x944569c494530d7f:0x2343bfbd6d5675e1!2m2!1d-58.7504273!2d-27.5426986>`_.
 
   
 
@@ -106,8 +104,7 @@ Podés ver las [fotos](https://photos.app.goo.gl/tNKYAxpvjUZPffTA7)
 
   
 
-Las cuatro comidas diarias, desde el desayuno del primer día hasta el almuerzo del último día (el primer día no incluye el desayuno, el último día no incluye la merienda ni la cena).
-
+Las cuatro comidas diarias, desde el desayuno del primer día hasta el almuerzo del último día (el último día no incluye la merienda ni la cena).
   
 
 Seguramente haremos pycada y/o cerveza artesanal , pero está fuera de presupuesto. Lo coordinaremos en el lugar entre les interesades.
@@ -181,34 +178,7 @@ El servicio de catering incluye
 Precios e Inscripciones
 -----------------------
 
-  
-
-Contamos con el siguiente esquema de precios (les socies de AC de pyar tienen descuentos):
-
-- Socies actives: $ 37,500.00
-
-- Socies adherentes: $ 42,000.00
-
-- No-socies: $ 45,000.00
-
-Todos con IVA incluidos.
-
-  
-
-**Grupo del Telegram general del Pycamp.**
-
-  
-
-La coordinacion de todo el PyCamp (coordinacion para llegar, distribucion de habitaciones y comunicacion en el predio) se hace a traves de la aplicacion Telegram. Al mail de la inscripcion te va a llegar un link para unirte al grupo.
-
-  
-
-Si querés que la empresa donde trabajás te pague el PyCamp, les hacemos factura A (el monto es el "final", pagado por transferencia).
-
-  
-
 **Precio:**
-
   
 
 Contamos con el siguiente esquema de precios (les socies de AC de pyar tienen descuentos):
@@ -231,7 +201,7 @@ Pueden asociarse ahora mismo a Python Argentina y agarrar el PyCamp con el descu
 
 **Como me anoto?**
 
-Llena este [FORMULARIO](https://docs.google.com/forms/d/e/1FAIpQLSdneF3likLuZeixFQwQXuXXVtoXc7U_F7DWPuKHNS4rBREuZg/viewform), el mismo te va a pedir datos personales y dietarios relevantes para el pycamp. Sobre el final van a ver diferentes modos de pago y una pestaña donde podran subir el comprobante de pago.
+Llena este `FORMULARIO <https://docs.google.com/forms/d/e/1FAIpQLSdneF3likLuZeixFQwQXuXXVtoXc7U_F7DWPuKHNS4rBREuZg/viewform>`_ , el mismo te va a pedir datos personales y dietarios relevantes para el pycamp. Sobre el final van a ver diferentes modos de pago y una pestaña donde podran subir el comprobante de pago.
 
 Una vez enviado el formulario nosotros lo procesamos chequeamos la informacion y les mandamos un mail de bienvenida al pycamp con mas informacion.
 
@@ -245,7 +215,7 @@ Este año esperamos que también hayan becas para facilitar el ir al PyCamp, est
 
 La idea es subvencionar parte del costo total del PyCamp (comida y hospedaje), en función de la cantidad de becas pedidas.  
 
-Tienen tiempo hasta el 24 de Febrero inclusive para mandar el pedido, el cual hacen llenando este [FORM](https://docs.google.com/forms/d/e/1FAIpQLSdfg5SVcG9BIDK63nGJLGdVY6gfLE1-3himcYyo8CFHIYMobg/viewform).
+Tienen tiempo hasta el 24 de Febrero inclusive para mandar el pedido, el cual hacen llenando este `FORM <https://docs.google.com/forms/d/e/1FAIpQLSdfg5SVcG9BIDK63nGJLGdVY6gfLE1-3himcYyo8CFHIYMobg/viewform>`_ .
 
   
 
@@ -263,7 +233,18 @@ Habiendo dicho eso, la idea de las becas también es reforzar la diversidad, lo 
 
 ¿A qué se comprometen al recibir una beca? En nada particularmente, pero estaría bueno que propongan un par de temas para trabajar en el PyCamp. Y luego del evento les voy a pedir uno o dos párrafos (en castellano o inglés) para que cuenten su experiencia en el PyCamp así le puedo dar feedback a la PSF
 
+
+**Grupo del Telegram general del Pycamp.**
   
+
+La coordinacion de todo el PyCamp (coordinacion para llegar, distribucion de habitaciones y comunicacion en el predio) se hace a traves de la aplicacion Telegram. Al mail de la inscripcion te va a llegar un link para unirte al grupo.
+
+  
+
+Si querés que la empresa donde trabajás te pague el PyCamp, les hacemos factura A (el monto es el "final", pagado por transferencia).
+
+  
+
   
 
 Organizadores: 
@@ -275,12 +256,11 @@ Organizadores:
 
 - Lecovi `@lecovi <https://t.me/lecovi>`_
 
-- Valeria `@lecovi <https://t.me/ValeriaSelene291>`_
+- Valeria `@ValeriaSelene291 <https://t.me/ValeriaSelene291>`_
 
   
 
 **Con el soporte de la Asociación Civil Python Argentina.**
-
   
 
 Cualquier duda, tema, o lo que quieras preguntar, `mandanos un mail <mailto:pycamp@ac.python.org.ar>`_.
@@ -288,4 +268,4 @@ Cualquier duda, tema, o lo que quieras preguntar, `mandanos un mail <mailto:pyca
 Proyectos Propuestos:
 ---------------------
 
-Se van cargando aquí `<https://pyar.discourse.group/t/propuestas-de-actividades-pycamp-2022/813>`_
+Se van cargaran mas adelante el link aquí
