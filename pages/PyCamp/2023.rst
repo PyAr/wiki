@@ -1,0 +1,115 @@
+.. title: ¿Un qué?
+
+
+Antes que nada, ¿qué es un PyCamp? `Acá tenés una buena descripción y mucha info </pycamp>`_.
+
+
+Fechas:
+-------
+
+Los dias 23(laborable ), 24 (feriado), 25 y 26 (sábado y domingo) de Marzo del 2023.
+
+Qué llevo:
+----------
+
+ - Zapatillas, prolongadores, proyector, access points que puedas aportar, todo eso suma.
+
+ - Tu computadora (mejor si es portatil). Actualizada con toda la información, paquetes y datos que creas que podrías necesitar, cosa de no exigirle a la internet del lugar más de lo necesario.
+
+ - El complejo **sí provee** todo lo que tiene que ver con sábanas, frazadas, así que no nos tenemos que preocupar (aclaro porque hubo PyCamps donde no fue así)
+
+ - SI debemos llevar toallas y elementos de higiene personal.
+
+ - Hay pileta de natación disponible (lleva lo que creas necesario como ojotas, protector solar, etc).
+
+Sede: ## Cabañas "Las Ilusiones Cue", **Cañada Quiroz, Riachuelo, Corrientes.**
+-------------------------------------------
+
+**Nombre del lugar:**  Cabañas "Las Ilusiones Cue" (datos + Fotos en el link)
+
+[Cabañas "Las Ilusiones Cue](https://www.instagram.com/lasilusionescue/)
+
+Podés ver las [fotos](google.com.ar)
+
+
+**Donde está y Formas de llegar:**
+
+ * Mapa:  [Acá](https://goo.gl/maps/QoJyXWX9jHULXDF56)
+
+* En auto: las rutas desde Córdoba, Capital Federal y Rosario están en condiciones.
+	* [CABA -> Cabañas](https://www.google.com/maps/dir/CABA/Caba%C3%B1a+%22Las+Ilusiones+Cue%22,+Corrientes/@-30.4578234,-62.1540606,6.25z/data=!4m13!4m12!1m5!1m1!1s0x95bcca3b4ef90cbd:0xa0b3812e88e88e87!2m2!1d-58.3815591!2d-34.6036844!1m5!1m1!1s0x944569c494530d7f:0x2343bfbd6d5675e1!2m2!1d-58.7504273!2d-27.5426986). son 904 km , 10 hs aprox.
+
+	* [Córdoba -> Cabañas](https://www.google.com/maps/dir/C%C3%B3rdoba/Caba%C3%B1a+%22Las+Ilusiones+Cue%22,+Corrientes/@-29.5679656,-63.6914788,7z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x9432985f478f5b69:0xb0a24f9a5366b092!2m2!1d-64.1887761!2d-31.4200833!1m5!1m1!1s0x944569c494530d7f:0x2343bfbd6d5675e1!2m2!1d-58.7504273!2d-27.5426986) : 959 km 11:30 hs
+
+	* [Mendoza -> Cabañas](https://www.google.com/maps/dir/Mendoza,+Capital,+Mendoza/Caba%C3%B1a+%22Las+Ilusiones+Cue%22,+Corrientes/@-30.0909786,-68.2717556,6z/data=!3m1!4b1!4m13!4m12!1m5!1m1!1s0x967e093ec45179bf:0x205a78f6d20efa3a!2m2!1d-68.8458386!2d-32.8894587!1m5!1m1!1s0x944569c494530d7f:0x2343bfbd6d5675e1!2m2!1d-58.7504273!2d-27.5426986): 1500km 18 hs
+
+* En bondi distancia desde la terminal de Corrientes hasta el complejo.
+[Terminal -> Cabañas](https://www.google.com/maps/dir/Terminal+de+Omnibus+Corrientes,+Terminal+de+Omnibus+2500,+HSY,+Av.+Maip%C3%BA,+W3408+Corrientes/Caba%C3%B1a+%22Las+Ilusiones+Cue%22,+Ciudad+de+Corrientes,+Corrientes/@-27.5255078,-58.7946595,13z/data=!4m14!4m13!1m5!1m1!1s0x94456b9a60607489:0x4eb1e6d43248db63!2m2!1d-58.8144716!2d-27.4982271!1m5!1m1!1s0x944569c494530d7f:0x2343bfbd6d5675e1!2m2!1d-58.7504273!2d-27.5426986!3e0)
+
+
+* En avión distancia desde el aeropuerto de Corrientes (Aeropuerto Internacional Doctor Fernando Piragine Niveyro) hasta el complejo
+[Aeropuerto -> Cabañas](https://www.google.com/maps/dir/Aeropuerto+Internacional+Doctor+Fernando+Piragine+Niveyro,+Calle+27,+Corrientes/Caba%C3%B1a+%22Las+Ilusiones+Cue%22,+Corrientes/@-27.4972748,-58.8132234,12.75z/data=!4m13!4m12!1m5!1m1!1s0x94456bfd36dccfd9:0xd2377ff521a7a849!2m2!1d-58.7582896!2d-27.4491257!1m5!1m1!1s0x944569c494530d7f:0x2343bfbd6d5675e1!2m2!1d-58.7504273!2d-27.5426986)
+
+* Contacto de remiserías para aquellas personas que lleguen a Corrientes en avión o en micro pueden usar los remises del lugar o llamar al siguiente número: Remises Apipé: 379 443-3400
+
+**Comidas**
+
+Las cuatro comidas diarias, desde el desayuno del primer día hasta el almuerzo del último día (el primer día no incluye el desayuno, el último día no incluye la merienda ni la cena).
+
+Seguramente haremos pycada y/o cerveza artesanal , pero está fuera de presupuesto. Lo coordinaremos en el lugar entre les interesades.
+
+**Detalles del alojamiento:**
+* Es un complejo de 12 cabañas con capacidad máxima de 72 personas.
+* Tiene 2 salones de usos múltiples:   
+
+	* El salón de reuniones es vidriado y cuenta con las sig. dimensiones 25*5 m    
+	* El salón de juegos cuenta con hamacas, mesa de pinpong, mesa de pool, entre otros entretenimientos.    
+
+* Tiene piscina, fuente de hidromasajes, juegos en la terraza, escaladores, cama elástica.
+* Cuenta con múltiples parrillas, horno a leña, 10 gacebos con sus sillas y mesitas, varios baños de uso común, etc.    
+* El lugar posee agua potable y dispenser. Nos entregan dos bidones cerrados. Luego podemos reponerlos o recargarlos para tener agua fría/caliente.
+    
+* Exclusividad del complejo a partir de 50 personas.
+
+**Qué onda las habitaciones**
+
+* En cuanto a las habitaciones tienen camas de 2 plazas, 1 plaza (una o dos por habitación). Disposición hasta completar la capacidad máxima de 5 personas.
+
+* Baño en cada habitación, con ducha de agua caliente, heladera, pava eléctrica (algunas), tv, wifi.    
+
+**Qué onda la comida**
+
+El servicio de catering incluye
+
+-   Desayuno y merienda tipo buffet: chipacitos, facturas, pastafrola, bizcochuelo, galletitas (alternados). Café, te, cocido, leche, chocolate, etc.
+    
+-   Almuerzo y cena con postre. Con variedad para vegetarianos y veganos. Jugo. Agua.
+    
+-   El tradicional asado de la última noche.    
+
+Detalles extras del alojamiento
+
+-   Es posible alojarse en el lugar un día antes del PyCamp.
+    
+-   Unos días antes del PyCamp se hará una lista de quienes deseen venir un día antes. Se abona en el lugar.
+    
+-   Se abona directamente en el lugar, no lo incluyan en el pago de la inscripción.
+
+Precios e Inscripciones ---????
+-----------------------
+
+Organizadores: ---???
+--------------
+- WinnaZ `@WinnaZ <https://t.me/WinnaZ>`_
+- Facu `@facundobatista <https://t.me/facundobatista>`_
+- Lecovi `@lecovi <https://t.me/lecovi>`_
+- Valeria `@lecovi <https://t.me/ValeriaSelene291>`_
+
+**Con el soporte de la Asociación Civil Python Argentina.**
+
+Cualquier duda, tema, o lo que quieras preguntar, `mandanos un mail <mailto:pycamp@ac.python.org.ar>`_.
+
+Proyectos Propuestos: --??
+---------------------
+
+Se van cargando aquí `<https://pyar.discourse.group/t/propuestas-de-actividades-pycamp-2022/813>`_
