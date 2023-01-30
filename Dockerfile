@@ -5,7 +5,7 @@ RUN apt-get update && apt-get install -y rsync
 ENV UWSGI_CHEAPER 1
 ENV UWSGI_PROCESSES 2
 
-COPY requirements.txt /tmp/requirements_wiki.txt
+COPY requirements_freeze.txt /tmp/requirements_wiki.txt
 RUN pip install --no-cache-dir -r /tmp/requirements_wiki.txt
 
 COPY ./app /app
