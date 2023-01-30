@@ -136,7 +136,7 @@ Blogpost sobre Pycamps
 
 .. _organizar: /PyCamp/organizandounpycamp
 
-.. _marcha: /PyCamp/2022
+.. _marcha: /PyCamp/2023
 
 .. _Cocos2d: http://cocos2d.org/
 
