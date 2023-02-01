@@ -125,7 +125,7 @@ Seguramente haremos pycada y/o cerveza artesanal , pero está fuera de presupues
 
   
 
-* Tiene piscina, fuente de hidromasajes, juegos en la terraza, escaladores, cama elástica.
+* Tiene piscina, juegos en la terraza, escaladores, cama elástica.
 
 * Cuenta con múltiples parrillas, horno a leña, 10 gacebos con sus sillas y mesitas, varios baños de uso común, etc.
 
@@ -163,15 +163,9 @@ El servicio de catering incluye
 
   
 
-**Detalles extras del alojamiento**
+**Detalles extras del alojamiento**  
 
-  
-
-- Es posible alojarse en el lugar un día antes del PyCamp.
-
-- Unos días antes del PyCamp se hará una lista de quienes deseen venir un día antes. Se abona en el lugar.
-
-- Se abona directamente en el lugar, no lo incluyan en el pago de la inscripción.
+Se hara una lista para las personas que deseen ir un dia antes de la pycamp al establecimiento. Esto se debera abonar en el establecimiento al momento de llegar, por fuera del arancel de la PyCamp.
 
   
 
@@ -189,9 +183,7 @@ Contamos con el siguiente esquema de precios (les socies de AC de pyar tienen de
 
 - No-socies: $ 45,000.00
 
-Todos con IVA incluidos.
-
-  
+Todos con IVA incluidos. Estos son precios a pagar por transferencia, también podes por Mercadopago (lo cual permite usar tarjetas, etc.) el cual tiene un pequeño incremento por el costo de esa plataforma.Estos son precios a pagar por transferencia, también podes por Mercadopago (lo cual permite usar tarjetas, etc.) el cual tiene un pequeño incremento por el costo de esa plataforma.
 
 **Tip**:
 
@@ -244,15 +236,14 @@ En virtud de la pandemia que estamos atravesando será necesario contar con el �
 La coordinacion de todo el PyCamp (coordinacion para llegar, distribucion de habitaciones y comunicacion en el predio) se hace a traves de la aplicacion Telegram. Al mail de la inscripcion te va a llegar un link para unirte al grupo.
 
   
-
-Si querés que la empresa donde trabajás te pague el PyCamp, les hacemos factura A (el monto es el "final", pagado por transferencia).
-
+Si querés que la empresa donde trabajás te pague el PyCamp, les hacemos factura A (el monto es 37190.08 + IVA, pagado por transferencia).
   
 
   
 
 Organizadores: 
 --------------
+- Valeria `@ValeriaSelene291 <https://t.me/ValeriaSelene291>`_
 
 - WinnaZ `@WinnaZ <https://t.me/WinnaZ>`_
 
@@ -260,7 +251,6 @@ Organizadores:
 
 - Lecovi `@lecovi <https://t.me/lecovi>`_
 
-- Valeria `@ValeriaSelene291 <https://t.me/ValeriaSelene291>`_
 
   
 
@@ -272,4 +262,4 @@ Cualquier duda, tema, o lo que quieras preguntar, `mandanos un mail <mailto:pyca
 Proyectos Propuestos:
 ---------------------
 
-Se van cargaran mas adelante el link aquí
+Se cargarán más adelante, aquí figurará el enlace.

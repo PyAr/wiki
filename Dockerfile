@@ -2,7 +2,10 @@ FROM tiangolo/uwsgi-nginx-flask:python3.9
 
 RUN apt-get update && apt-get install -y rsync
 
-COPY requirements.txt /tmp/requirements_wiki.txt
+ENV UWSGI_CHEAPER 1
+ENV UWSGI_PROCESSES 2
+
+COPY requirements_freeze.txt /tmp/requirements_wiki.txt
 RUN pip install --no-cache-dir -r /tmp/requirements_wiki.txt
 
 COPY ./app /app
