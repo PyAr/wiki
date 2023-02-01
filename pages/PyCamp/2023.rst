@@ -234,6 +234,10 @@ Habiendo dicho eso, la idea de las becas también es reforzar la diversidad, lo 
 ¿A qué se comprometen al recibir una beca? En nada particularmente, pero estaría bueno que propongan un par de temas para trabajar en el PyCamp. Y luego del evento les voy a pedir uno o dos párrafos (en castellano o inglés) para que cuenten su experiencia en el PyCamp así le puedo dar feedback a la PSF
 
 
+**Cuestiones sanitarias**
+En virtud de la pandemia que estamos atravesando será necesario contar con el “pase sanitario” para poder asistir al PyCamp (`ver la info de como obtenerlo <https://www.argentina.gob.ar/coronavirus/vacuna>`_)
+
+
 **Grupo del Telegram general del Pycamp.**
   
 
