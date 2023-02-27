@@ -6,7 +6,7 @@
    :width: 80 px
 
 TL;DR:
- * Los **Entusiastas** reciben **becas** para contribuir programando **código abierto**, ver `Ideas 2022 <https://wiki.python.org.ar/GSoC/2022/>`_
+ * Los **Entusiastas** reciben **becas** para contribuir programando **código abierto**, ver `Ideas 2023 <https://wiki.python.org.ar/GSoC/2023/>`_
  * Los **Proyectos** encuentran nuevos colaboradores y **mentorean** la nueva generación de desarrolladores
 
 .. class:: alert alert-info
@@ -143,7 +143,8 @@ Nuevas reglas desde 2022:
 
 El monto de la beca lo determina Google basado en la Paridad de Poder Adquisitivo (PPP) de cada país.
 
-Para Argentina 2022, el importe de la beca sería hasta **USD 3000** (Dólares EE.UU.); se paga en tramos dependiendo del avance del proyecto
+Para Argentina 2022, el importe de la beca sería desde **USD 1500** hasta **USD 3000** (Dólares EE.UU.);
+se paga en tramos dependiendo de la duración y avance del proyecto
 (mientras el participante supere las evaluaciones y continúe en el GSoC):
 https://developers.google.com/open-source/gsoc/help/student-stipends
 
@@ -182,14 +183,15 @@ El GSoC es un programa muy demandado a nivel mundial, por lo que en general sól
 
 ¡Te recomendamos comenzar cuanto antes si estás interesado!
 
-Cronograma y Fechas Límite 2022:
+Cronograma y Fechas Límite 2023:
 --------------------------------
 
-* **4 de Abril** - **19 de Abril** - período para envío de solicitudes de becarios (¡no hay extensión!).
-* **20 de Mayo**: Anuncio de los proyectos de becarios seleccionados e inicia el *community bonding* ("aclimatación")
-* **13 de Junio**: ¡Los becarios colaboradores comienzan a programar!
-* **29 de Julio**: Evaluaciones intermedias 
-* **12 de Septiembre**: Entrega final y Evaluación Final
+* **4 de Abril** - período para envío de solicitudes de becarios (¡no hay extensión!).
+* **4 de Mayo**: Anuncio de los proyectos de becarios seleccionados e inicia el *community bonding* ("aclimatación")
+* **29 de Mayo**: ¡Los becarios colaboradores comienzan a programar!
+* **14 de Julio**: Evaluaciones intermedias 
+* **28 de Agosto**: Evaluaciones finales 
+* **4 de Septiembre al 6 de Noviembre**: Plazo para proyectos con cronograma extendido
 
 Blogs y Referencias sobre el GSoC
 =================================
