@@ -90,9 +90,9 @@ Expected outcomes:
     - `Good first issues <https://github.com/PyAr/pyafipws/issues>`__
 
 - Project Ideas: 
-    - Unit Testing: extend unit tests coverage beyond 70% (including command-line tools, see pending `Pull Requests <https://github.com/reingart/pyafipws/wiki/InstalacionCodigoFuente#generaci%C3%B3n-de-instalador>`__ and report.html in GitHub Actions workflow)
-    - Automation: build windows installers in continuous integration (see  `Wiki: Install <https://github.com/reingart/pyafipws/wiki/InstalacionCodigoFuente#generaci%C3%B3n-de-instalador>`__ to automate)
-    - Webservice simulator: fake implementation for testing, mimicking government servers (WSDL SOAP based, see `server.py <https://github.com/pysimplesoap/pysimplesoap/blob/master/pysimplesoap/server.py#L539>`__ for an example, and `web2py-app <https://github.com/SistemasAgiles/pyafipws.web2py-app>`_ for a Proof of Concept)
+    - Unit Testing: `#107 <https://github.com/PyAr/pyafipws/issues/107>`_ extend unit tests coverage beyond 70% (including command-line tools, see pending `Pull Requests <https://github.com/reingart/pyafipws/wiki/InstalacionCodigoFuente#generaci%C3%B3n-de-instalador>`__ and report.html in GitHub Actions workflow)
+    - Automation: `#106 <https://github.com/PyAr/pyafipws/issues/107>`_ to improve packaging) and `#109 <https://github.com/PyAr/pyafipws/issues/107>`_ to build windows installers in continuous integration (see  `Wiki: Install <https://github.com/reingart/pyafipws/wiki/InstalacionCodigoFuente#generaci%C3%B3n-de-instalador>`__ to automate)
+    - Webservice simulator:  `#108 <https://github.com/PyAr/pyafipws/issues/108>`_ fake implementation for testing, mimicking government servers (WSDL SOAP based, see `server.py <https://github.com/pysimplesoap/pysimplesoap/blob/master/pysimplesoap/server.py#L539>`__ for an example, and `web2py-app <https://github.com/SistemasAgiles/pyafipws.web2py-app>`_ for a Proof of Concept)
 
 - Project Length: 175 hr (medium) to 350 hr (large, several ideas)
 
