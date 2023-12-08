@@ -31,12 +31,12 @@ Confirmar con la lista de ideas tentativas para este año y siempre consultar pr
 
 Para ver todos los proyectos de la comunidad Python Argentina: `Listado </proyectos>`__ y `Repositorio <http://www.github.com/PyAr>`__
 
-¡Tenés una idea interesante para proponer o querés mentorear? ¡Contáctanos en secretaria+gsoc@ac.python.org.ar!
+¡Tenés una idea interesante para proponer o querés mentorear? ¡Contáctanos en `Telegram <https://t.me/+ljnpIYBUMLI3MDAx>`_!
 
 Como empezar:
 =============
 
-El detalle de los proyectos e ideas tentativas para participar en GSoC está publicada en GitHub: https://wiki.python.org.ar/GSoC/2022
+El detalle de los proyectos e ideas tentativas para participar en GSoC está publicada en GitHub: https://github.com/PyAr/wiki/tree/master/pages/GSoC
 
 Elegir un proyecto es una decisión muy personal.
 Deberías decidirte por algo que te interese, algunos consejos:
@@ -55,7 +55,7 @@ No te preocupes, el día a día y documentación en general están en **Español
 Mentores:
 =========
 
-¿Interesado en voluntariado con la `Python Software Foundation <https://www.python.org/psf/>`_ y la `Asociación Civil Python Argentina <https://ac.python.org.ar>`_?
+¿Interesado en voluntariado con la `Python Software Foundation (PSF) <https://www.python.org/psf/>`_ y la `Asociación Civil Python Argentina <https://ac.python.org.ar>`_?
 
 Mentorear a los colaboradores requiere cierta dedicación, pero es una oportunidad de brindarles un crecimiento en su formación sobre código abierto y avanzar proyectos de software libre.
 Mentoreamos en grupo, por lo que si sólo tienes tiempo limitado (por ej. para revisar código), puedes unirte a otros mentores y hacerlo en equipo.
@@ -79,7 +79,7 @@ Si quieres participar como becario colaborador, por favor sigue los siguientes l
 
 1. **¡Preséntate!**
 
-   Presentate en el canal de `Telegram <https://t.me/+ljnpIYBUMLI3MDAx>`_ mencionando:
+   Presentate en el canal de `GSoC Python Arg (público) <https://t.me/+ljnpIYBUMLI3MDAx>`_ mencionando:
 
    * ¿Por qué querés participar del GSoC?, brevemente comenta tu experiencia y expectativas
    * ¿Qué proyecto preferirías?: revisa la página de `ideas <https://github.com/PyAr/wiki/tree/master/pages/GSoC>`_
