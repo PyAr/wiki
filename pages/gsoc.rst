@@ -6,7 +6,7 @@
    :width: 80 px
 
 TL;DR:
- * Los **Entusiastas** reciben **becas** para contribuir programando **código abierto**, ver `Ideas 2023 <https://wiki.python.org.ar/GSoC/2023/>`_
+ * Los **Entusiastas** reciben **becas** para contribuir programando **código abierto**, ver `Ideas <https://github.com/PyAr/wiki/tree/master/pages/GSoC>`_
  * Los **Proyectos** encuentran nuevos colaboradores y **mentorean** la nueva generación de desarrolladores
 
 .. class:: alert alert-info
@@ -20,12 +20,11 @@ Proyectos Tentativos:
 La `Asociación Civil Python Argentina Civil </asociacioncivil>`_ es una organización sin fines de lucro de programadores
 con foco en proyectos de la comunidad, principalmente de habla hispana y latinoamericanos:
 
-* **Iniciativas Educativas** (`CDPedia <https://github.com/PyAr/CDPedia>`__: Wikipedia offline, `PyZombis <https://github.com/PyAr/PyZombis>`__: MOOC Español, Tutoriales de Python)
-* **Herramientas gestión comunitaria** (`PyArWeb <https://github.com/PyAr/PyArWeb>`__: Sitio local, `asoc_members <https://github.com/PyAr/asoc_members>`__: administración de socios)
-* **Software para abogacía y contabilidad** (`OpenLex <https://github.com/PyAr/OpenLex>`__: manejo de estudios jurídicos y oficinas judiciales, `PyAFIP WS <https://github.com/PyAr/PyAfipWS>`__: factura electrónica y aplicativos)
-* **Herramientas para Desarrolladores**  (`pyempaq <https://github.com/facundobatista/pyempaq>`__: easy virtualenv wrapper), (`fades <https://github.com/PyAr/fades>`__: easy virtualenv wrapper)
+* **Iniciativas Educativas**: `PyZombis <https://github.com/PyAr/PyZombis>`__: MOOC Español, Tutoriales de Python; `CDPedia <https://github.com/PyAr/CDPedia>`__: Wikipedia offline
+* **Herramientas gestión comunitaria**: `PyArWeb <https://github.com/PyAr/PyArWeb>`__: Sitio local; `asoc_members <https://github.com/PyAr/asoc_members>`__: administración de socios
+* **Software para abogacía y contabilidad**: `PyAFIP WS <https://github.com/PyAr/PyAfipWS>`__: factura electrónica y aplicativos; `OpenLex <https://github.com/PyAr/OpenLex>`__: manejo de estudios jurídicos y oficinas judiciales
 
-Participamos en el `"Python Summer of Code" <http://python-gsoc.org/index.html#ideas>`_ bajo la organización general de la `PSF <https://summerofcode.withgoogle.com/>`_.
+Participamos en el `"Python Summer of Code" <http://python-gsoc.org/index.html#ideas>`_ bajo la organización general de la `Python Software Foundation <https://www.python.org/psf-landing/>`_.
 
 **NOTA**: por una cuestión administrativa y limitación de mentores, la disponibilidad de proyectos en el GSoC es acotada.
 Confirmar con la lista de ideas tentativas para este año y siempre consultar previamente por los canales de comunicación con los potenciales mentores.
@@ -80,18 +79,15 @@ Si quieres participar como becario colaborador, por favor sigue los siguientes l
 
 1. **¡Preséntate!**
 
-   Presentate en el canal de `Telegram <https://t.me/+ljnpIYBUMLI3MDAx>`_.
-   Luego escribe a el `Grupo de Google <https://groups.google.com/d/forum/pyar-gsoc>`_ pyar-gsoc@googlegroups.com
-   (para preguntas generales del GSoC: secretaria+gsoc@ac.python.org.ar). Indicar claramente:
+   Presentate en el canal de `Telegram <https://t.me/+ljnpIYBUMLI3MDAx>`_ mencionando:
 
    * ¿Por qué querés participar del GSoC?, brevemente comenta tu experiencia y expectativas
-   * ¿Qué proyecto preferirías?: revisa la página de `ideas <https://wiki.python.org.ar/GSoC/ideas>`_
+   * ¿Qué proyecto preferirías?: revisa la página de `ideas <https://github.com/PyAr/wiki/tree/master/pages/GSoC>`_
    * ¿Cuál es tu experiencia previa?, habilidades Python, django, hg/git, js, etc.
 
 2. **¡Corrige un bug!**
 
-   Pide por un ticket simple (good first issue tag). Por ejemplo, mirá `CDPedia <https://github.com/PyAr/CDPedia/issues>`_, `PyZombs <https://github.com/PyAr/PyZombis/issues>`_,
-   `OpenLex <https://github.com/PyAr/OpenLex/issues>`_, `PyAfipWS <https://github.com/reingart/PyAfipWs/issues>`_
+   Pide por un ticket simple (good first issue tag). Por ejemplo, mirá `PyZombs <https://github.com/PyAr/PyZombis/issues>`_, `PyAfipWS <https://github.com/reingart/PyAfipWs/issues>`_, `CDPedia <https://github.com/PyAr/CDPedia/issues>`_
 
    * Create una cuenta en GitHub (si aún no tenés una)
    * Forkea el repositorio del proyecto deseado e intenta solucionar el ticket
@@ -138,6 +134,17 @@ Nuevas reglas desde 2022:
 * Los aspirantes no necesitan ser estudiantes de nivel universitario.
 * Sólo nuevos colaboradores pueden presentarse (orientado a principiantes)
 
+¿Puedo presentar un proyecto nuevo?
+-----------------------------------
+
+Estamos buscando nuevas ideas y proyectos relacionados a Python y la comunidad local.
+Es necesario al menos dos mentores (principal y respaldo) para poder considerar.
+
+Tematicas relacionadas a la Inteligencia Artificial son un tema importante este año, pero igualmente la convocatoria es amplia, abierta a proyectos comunitarios con licencia de software libre o código abierto.
+
+Los candidatos deben seleccionar un proyecto de las idea publicadas antes de enviar la solicitud.
+Recomendamos confirmar en el grupo de participantes y/o contactar a la Asociación Civil Python Argentina con anticipación.
+
 ¿Cual es el importe de la beca en U$S?
 --------------------------------------
 
@@ -183,15 +190,17 @@ El GSoC es un programa muy demandado a nivel mundial, por lo que en general sól
 
 ¡Te recomendamos comenzar cuanto antes si estás interesado!
 
-Cronograma y Fechas Límite 2023:
+Cronograma y Fechas Límite 2024:
 --------------------------------
 
-* **4 de Abril** - período para envío de solicitudes de becarios (¡no hay extensión!).
-* **4 de Mayo**: Anuncio de los proyectos de becarios seleccionados e inicia el *community bonding* ("aclimatación")
-* **29 de Mayo**: ¡Los becarios colaboradores comienzan a programar!
-* **14 de Julio**: Evaluaciones intermedias 
-* **28 de Agosto**: Evaluaciones finales 
-* **4 de Septiembre al 6 de Noviembre**: Plazo para proyectos con cronograma extendido
+* **Abril** - período para envío de solicitudes de becarios (¡no hay extensión!).
+* **Mayo**: Anuncio de los proyectos de becarios seleccionados e inicia el *community bonding* ("aclimatación")
+* **Mayo**: ¡Los becarios colaboradores comienzan a programar!
+* **Julio**: Evaluaciones intermedias 
+* **Agosto**: Evaluaciones finales 
+* **Septiembre a Noviembre**: Plazo para proyectos con cronograma extendido
+
+(fechas a definir)
 
 Blogs y Referencias sobre el GSoC
 =================================
