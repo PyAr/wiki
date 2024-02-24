@@ -19,17 +19,10 @@ Enlaces rápidos:
 
  * `Ideas`_
 
- * `2024`_
- * `2023`_
- * `2022`_
- * `2019`_
-
-.. Ideas: /GSoC/ideas
-.. 2024: /GSoC/2024
-.. 2023: /GSoC/2023
-.. 2022: /GSoC/2022
-.. 2019: /GSoC/2019
-
+ * `Año 2024`_
+ * `Año 2023`_
+ * `Año 2022`_
+ * `Año 2019`_
 
 Proyectos Tentativos:
 =====================
@@ -229,4 +222,9 @@ Blogs y Referencias sobre el GSoC
 * PSF 2011: http://pyfound.blogspot.com/2011/03/gsoc-student-applications-open.html
 * PSF 2007: http://pyfound.blogspot.com/2007/03/psf-and-googles-summer-of-code.html
 
+.. _Ideas: /GSoC/ideas
+.. _2024: /GSoC/2024
+.. _2023: /GSoC/2023
+.. _2022: /GSoC/2022
+.. _2019: /GSoC/2019
 .. _marianoreingart: /marianoreingart
