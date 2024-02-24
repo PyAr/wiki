@@ -14,6 +14,23 @@ TL;DR:
   El `Google Summer of Code <https://summerofcode.withgoogle.com>`__ (**GSoC**) es un programa global que ofrece la oportunidad a 
   colaboradores de recibir una beca para contribuir a proyectos open source por un período de tres meses.
 
+Enlaces rápidos:
+================
+
+ * `Ideas`_
+
+ * `2024`_
+ * `2023`_
+ * `2022`_
+ * `2019`_
+
+.. Ideas: /GSoC/ideas
+.. 2024: /GSoC/2024
+.. 2023: /GSoC/2023
+.. 2022: /GSoC/2022
+.. 2019: /GSoC/2019
+
+
 Proyectos Tentativos:
 =====================
 
