@@ -10,6 +10,8 @@
     Información sobre los proyectos que encaramos como grupo, o en los que participan nuestros miembros.
 * Recursos_
     Información sobre organizaciones que utilizan Python en Argentina.
+* GSoC_
+    Programa de becas Google Summer of Code
 * Charlas_
     Slides de presentaciones y charlas brindadas por miembros de PyAr_.
 * `Aprendiendo Python`_
@@ -41,6 +43,7 @@
 .. _foro y redes: /foro_y_redes
 .. _proyectos: /proyectos
 .. _recursos: /recursos
+.. _GSoC: /gsoc
 .. _charlas: /charlas
 .. _aprendiendo python: /aprendiendopython
 .. _tareas pendientes: /tareaspendientes
