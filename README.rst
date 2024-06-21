@@ -31,3 +31,10 @@ Cómo buildear la imagen de docker
 
 Se necesita el `--no-cache` para que la parte de clonar el repo de la
 wiki no use un cache sino que se haga todo el tiempo.
+
+Infraestructura
+=================================
+
+[Nuestro repo de github](https://github.com/PyAr/pyar_infra)
+
+Si encontras algún problema por favor [reportalo acá](https://github.com/PyAr/pyar_infra/issues)
