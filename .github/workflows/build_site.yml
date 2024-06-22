@@ -22,3 +22,6 @@ jobs:
     - name: Buildear con Nikola
       run: |
         nikola build
+    - name: Publicar pagina a GH Pages
+      run: |
+        nikola github_deploy
