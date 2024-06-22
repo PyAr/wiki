@@ -20,6 +20,7 @@ body {
 .page-header {
     color: #FB8B00;
     margin-top: 30px;
+    margin-bottom: 20px;
 }
 .pull-right {
     float: right !important;
@@ -27,9 +28,10 @@ body {
 
 #content {
     background: #fff;
-    border-radius: 8px;
-    padding: 0px 20px 30px;
+    border-radius: 0 0 8px 8px;
+    margin-bottom: 30px;
     word-wrap: break-word;
+    padding: 0;
 }
 
 @media (max-width: 992px) {
@@ -160,10 +162,14 @@ h4.list-group-item-heading {
 /*
  * Navbar
  */
-
+ 
+#main-navbar {
+    padding: .5rem 0;
+}
 .navbar-header div.loginreg {
 	text-align: center;
 	margin-top: 38px;
+    width: calc(100% - 195px);
 }
 .banner {
     padding: 0px 20px;
@@ -195,7 +201,7 @@ h4.list-group-item-heading {
 	text-indent: -9999px;
 	background-position: center;
 	background-repeat: no-repeat;
-	background-image: url(https://www.python.org.ar/static/img/logo-header.png);
+	background-image: url(https://pyarweb.blob.core.windows.net/pyarweb-production/img/logo-header.png);
 }
 
 #header button.navbar-toggle {
@@ -241,12 +247,12 @@ ul.navbar-nav > li > a > span {
 }
 
 ul.navbar-nav > li:not(.active) > a > span {
-        background-image: url(https://www.python.org.ar/static/img/icons/icons.png);
+        background-image: url(https://pyarweb.blob.core.windows.net/pyarweb-production/img/icons/icons.png);
 }
 
 ul.navbar-nav > li.active > a > span,
 ul.navbar-nav > li:hover > a > span {
-        background-image: url(https://www.python.org.ar/static/img/icons/icons_active.png);
+        background-image: url(https://pyarweb.blob.core.windows.net/pyarweb-production/img/icons/icons_active.png);
 }
 
 ul.navbar-nav > li > a > span.inicio {
@@ -306,7 +312,7 @@ ul.navbar-nav > li:first-child {
 
 @media (min-width: 768px) {
 	ul.navbar-nav > li.nav-item {
-	    width: 95px;
+	    width: 11.11%;
 	}
 }
 
@@ -325,7 +331,7 @@ ul.navbar-nav > li > a {
 ul.navbar-nav > li.active > a.nav-link,
 ul.navbar-nav > li:hover > a.nav-link {
 	background-color: #39ade6;
-	border-bottom: 4px solid #fdca01;
+	border-bottom: 6px solid #fdca01;
     color: white;
 }
 
@@ -350,9 +356,11 @@ h3 {
  */
 
 #footer {
-	padding-top: 30px;
-	padding-bottom: 20px;
 	background-color: #f4f4f4;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 15px 20px 15px;
+    border-radius: 0 0 8px 8px;
 }
 
 #footer a {
@@ -462,6 +470,9 @@ time.published {
 	.navbar-header div.loginreg {
 		margin-top:0;
 	}
+    .navbar-nav {
+        flex-grow: 1;
+    }
     .banner-wrapper {
        color: white;
        width: 100%;
