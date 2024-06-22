@@ -1,0 +1,9 @@
+[Core]
+Name = metadata
+Module = metadata
+
+[Documentation]
+Author = Roberto Alsina
+Version = 0.1
+Website = https://getnikola.com
+Description = Start test server.
