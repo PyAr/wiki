@@ -5,10 +5,10 @@ on:
     branches: [ master ]
     paths: 
       - conf.py
-      - pages/*
-      - themes/*
-      - plugins/*
-      - images/*
+      - pages/**
+      - themes/**
+      - plugins/**
+      - images/**
 
 jobs:
   build:
