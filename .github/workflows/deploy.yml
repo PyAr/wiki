@@ -2,7 +2,13 @@ name: Construir y publicar el sitio con Nikola
 
 on:
   push:
-      branches: [ master ]
+    branches: [ master ]
+    paths: 
+      - conf.py
+      - pages/*
+      - themes/*
+      - plugins/*
+      - images/*
 
 jobs:
   build:
