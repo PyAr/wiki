@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html prefix="
+og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Obtener clase original cuando hay herencia | Python Argentina Wiki</title>
+<link href="../../../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../../../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
+<link href="../../../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../../../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../../../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../../../assets/css/bootblog.css" rel="stylesheet" type="text/css">
+<link href="../../../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../../../rss.xml">
+<link rel="canonical" href="https://wiki.python.org.ar/recetario/django/obtenerclaseoriginalcuandohayherencia/">
+<!--[if lt IE 9]><script src="../../../assets/js/html5.js"></script><![endif]--><meta name="author" content="Python Argentina">
+<meta property="og:site_name" content="Python Argentina Wiki">
+<meta property="og:title" content="Obtener clase original cuando hay herencia">
+<meta property="og:url" content="https://wiki.python.org.ar/recetario/django/obtenerclaseoriginalcuandohayherencia/">
+<meta property="og:description" content="Si usamos herencia normal de modelos (no abstracta), se vuelve difícil obtener el objeto original de la base de datos cuando sólo tenemos una referencia a un ancestro (esto pasa a menudo cuando tenemo">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
+
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../../pyar/"><span class="quienes_somos"></span>Nosotros</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../../foro_y_redes/"><span class="navbar_lista_de_correo"></span>Foro</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../../../"><span class="wiki"></span>Wiki</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/noticias/"><span class="news"></span>Noticias</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/irc/"><span class="irc"></span>IRC</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/eventos/"><span class="eventos"></span>Eventos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://planeta.python.org.ar/"><span class="pyar"></span>Planeta</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/trabajo/"><span class="jobs"></span>Trabajos</a>
+                </li>
+            </ul>
+</div>
+    </nav>
+</div>
+
+<!-- Header and menu bar -->
+<div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        
+<div class="col-lg-12">
+    <div class="page-header">
+        <div class="pull-right">
+            <a href="https://github.com/PyAr/wiki/blob/master/pages/recetario/django/obtenerclaseoriginalcuandohayherencia.rst" id="sourcelink" class="nav-link">Editar</a>
+        </div>
+        <h2>Obtener Clase Original Cuando Hay Herencia</h2>
+    </div>
+    <div class="e-content entry-content" itemprop="articleBody text">
+    <p>Si usamos herencia normal de modelos (no abstracta), se vuelve difícil obtener el objeto original de la base de datos cuando sólo tenemos una referencia a un ancestro (esto pasa a menudo cuando tenemos relaciones a un modelo que fue derivado). Este cacho de código define una clase abstracta <code class="docutils literal">SubclassedModel</code>, cuyos descendientes tienen en <code class="docutils literal">objects</code> un Manager por defecto que devuelve directamente objetos de la clase con la que fueron creados.</p>
+<div class="code"><pre class="code python"><a id="rest_code_8f87eb61e97444f0810f79ef241e029a-1" name="rest_code_8f87eb61e97444f0810f79ef241e029a-1" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-1"></a><span class="kn">from</span> <span class="nn">django.db</span> <span class="kn">import</span> <span class="n">models</span>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-2" name="rest_code_8f87eb61e97444f0810f79ef241e029a-2" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-2"></a><span class="kn">from</span> <span class="nn">django.db.models.query</span> <span class="kn">import</span> <span class="n">QuerySet</span>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-3" name="rest_code_8f87eb61e97444f0810f79ef241e029a-3" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-3"></a><span class="kn">from</span> <span class="nn">django.contrib.contenttypes.models</span> <span class="kn">import</span> <span class="n">ContentType</span>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-4" name="rest_code_8f87eb61e97444f0810f79ef241e029a-4" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-4"></a>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-5" name="rest_code_8f87eb61e97444f0810f79ef241e029a-5" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-5"></a>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-6" name="rest_code_8f87eb61e97444f0810f79ef241e029a-6" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-6"></a><span class="k">def</span> <span class="nf">_as_original_class</span><span class="p">(</span><span class="n">inst</span><span class="p">):</span>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-7" name="rest_code_8f87eb61e97444f0810f79ef241e029a-7" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-7"></a><span class="w">    </span><span class="sd">"""</span>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-8" name="rest_code_8f87eb61e97444f0810f79ef241e029a-8" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-8"></a><span class="sd">    Returns the instance that corresponds to `inst`</span>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-9" name="rest_code_8f87eb61e97444f0810f79ef241e029a-9" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-9"></a><span class="sd">    in its original class.</span>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-10" name="rest_code_8f87eb61e97444f0810f79ef241e029a-10" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-10"></a><span class="sd">    """</span>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-11" name="rest_code_8f87eb61e97444f0810f79ef241e029a-11" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-11"></a>    <span class="n">model</span> <span class="o">=</span> <span class="n">inst</span><span class="o">.</span><span class="n">content_type</span><span class="o">.</span><span class="n">model_class</span><span class="p">()</span>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-12" name="rest_code_8f87eb61e97444f0810f79ef241e029a-12" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-12"></a>    <span class="k">if</span> <span class="p">(</span><span class="n">model</span> <span class="o">==</span> <span class="n">inst</span><span class="o">.</span><span class="vm">__class__</span><span class="p">):</span>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-13" name="rest_code_8f87eb61e97444f0810f79ef241e029a-13" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-13"></a>        <span class="k">return</span> <span class="n">inst</span>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-14" name="rest_code_8f87eb61e97444f0810f79ef241e029a-14" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-14"></a>    <span class="k">return</span> <span class="n">model</span><span class="o">.</span><span class="n">objects</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="nb">id</span><span class="o">=</span><span class="n">inst</span><span class="o">.</span><span class="n">id</span><span class="p">)</span>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-15" name="rest_code_8f87eb61e97444f0810f79ef241e029a-15" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-15"></a>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-16" name="rest_code_8f87eb61e97444f0810f79ef241e029a-16" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-16"></a>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-17" name="rest_code_8f87eb61e97444f0810f79ef241e029a-17" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-17"></a><span class="k">class</span> <span class="nc">OriginalClassQuerySet</span><span class="p">(</span><span class="n">QuerySet</span><span class="p">):</span>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-18" name="rest_code_8f87eb61e97444f0810f79ef241e029a-18" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-18"></a><span class="w">    </span><span class="sd">"""</span>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-19" name="rest_code_8f87eb61e97444f0810f79ef241e029a-19" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-19"></a><span class="sd">    A QuerySet that returns original classes.</span>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-20" name="rest_code_8f87eb61e97444f0810f79ef241e029a-20" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-20"></a><span class="sd">    """</span>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-21" name="rest_code_8f87eb61e97444f0810f79ef241e029a-21" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-21"></a>    <span class="k">def</span> <span class="fm">__getitem__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">k</span><span class="p">):</span>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-22" name="rest_code_8f87eb61e97444f0810f79ef241e029a-22" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-22"></a>        <span class="n">result</span> <span class="o">=</span> <span class="nb">super</span><span class="p">(</span><span class="n">OriginalClassQuerySet</span><span class="p">,</span> <span class="bp">self</span><span class="p">)</span><span class="o">.</span><span class="fm">__getitem__</span><span class="p">(</span><span class="n">k</span><span class="p">)</span>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-23" name="rest_code_8f87eb61e97444f0810f79ef241e029a-23" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-23"></a>        <span class="k">if</span> <span class="nb">isinstance</span><span class="p">(</span><span class="n">result</span><span class="p">,</span> <span class="n">models</span><span class="o">.</span><span class="n">Model</span><span class="p">):</span>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-24" name="rest_code_8f87eb61e97444f0810f79ef241e029a-24" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-24"></a>            <span class="k">return</span> <span class="n">_as_original_class</span><span class="p">(</span><span class="n">result</span><span class="p">)</span>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-25" name="rest_code_8f87eb61e97444f0810f79ef241e029a-25" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-25"></a>        <span class="k">else</span><span class="p">:</span>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-26" name="rest_code_8f87eb61e97444f0810f79ef241e029a-26" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-26"></a>            <span class="k">return</span> <span class="n">result</span>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-27" name="rest_code_8f87eb61e97444f0810f79ef241e029a-27" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-27"></a>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-28" name="rest_code_8f87eb61e97444f0810f79ef241e029a-28" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-28"></a>    <span class="k">def</span> <span class="fm">__iter__</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-29" name="rest_code_8f87eb61e97444f0810f79ef241e029a-29" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-29"></a>        <span class="k">for</span> <span class="n">item</span> <span class="ow">in</span> <span class="nb">super</span><span class="p">(</span><span class="n">OriginalClassQuerySet</span><span class="p">,</span> <span class="bp">self</span><span class="p">)</span><span class="o">.</span><span class="fm">__iter__</span><span class="p">():</span>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-30" name="rest_code_8f87eb61e97444f0810f79ef241e029a-30" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-30"></a>            <span class="k">yield</span> <span class="n">_as_original_class</span><span class="p">(</span><span class="n">item</span><span class="p">)</span>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-31" name="rest_code_8f87eb61e97444f0810f79ef241e029a-31" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-31"></a>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-32" name="rest_code_8f87eb61e97444f0810f79ef241e029a-32" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-32"></a>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-33" name="rest_code_8f87eb61e97444f0810f79ef241e029a-33" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-33"></a><span class="k">class</span> <span class="nc">OriginalClassManager</span><span class="p">(</span><span class="n">models</span><span class="o">.</span><span class="n">Manager</span><span class="p">):</span>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-34" name="rest_code_8f87eb61e97444f0810f79ef241e029a-34" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-34"></a><span class="w">    </span><span class="sd">"""</span>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-35" name="rest_code_8f87eb61e97444f0810f79ef241e029a-35" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-35"></a><span class="sd">    A Manager that fetches original classes.</span>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-36" name="rest_code_8f87eb61e97444f0810f79ef241e029a-36" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-36"></a><span class="sd">    """</span>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-37" name="rest_code_8f87eb61e97444f0810f79ef241e029a-37" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-37"></a>    <span class="k">def</span> <span class="nf">get_query_set</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-38" name="rest_code_8f87eb61e97444f0810f79ef241e029a-38" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-38"></a>        <span class="k">return</span> <span class="n">OriginalClassQuerySet</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">model</span><span class="p">)</span>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-39" name="rest_code_8f87eb61e97444f0810f79ef241e029a-39" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-39"></a>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-40" name="rest_code_8f87eb61e97444f0810f79ef241e029a-40" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-40"></a>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-41" name="rest_code_8f87eb61e97444f0810f79ef241e029a-41" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-41"></a><span class="k">class</span> <span class="nc">SubclassedModel</span><span class="p">(</span><span class="n">models</span><span class="o">.</span><span class="n">Model</span><span class="p">):</span>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-42" name="rest_code_8f87eb61e97444f0810f79ef241e029a-42" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-42"></a>    <span class="n">content_type</span> <span class="o">=</span> <span class="n">models</span><span class="o">.</span><span class="n">ForeignKey</span><span class="p">(</span><span class="n">ContentType</span><span class="p">,</span> <span class="n">editable</span><span class="o">=</span><span class="kc">False</span><span class="p">,</span> <span class="n">null</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-43" name="rest_code_8f87eb61e97444f0810f79ef241e029a-43" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-43"></a>    <span class="n">objects</span> <span class="o">=</span> <span class="n">OriginalClassManager</span><span class="p">()</span>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-44" name="rest_code_8f87eb61e97444f0810f79ef241e029a-44" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-44"></a>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-45" name="rest_code_8f87eb61e97444f0810f79ef241e029a-45" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-45"></a>    <span class="k">class</span> <span class="nc">Meta</span><span class="p">:</span>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-46" name="rest_code_8f87eb61e97444f0810f79ef241e029a-46" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-46"></a>        <span class="n">abstract</span> <span class="o">=</span> <span class="kc">True</span>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-47" name="rest_code_8f87eb61e97444f0810f79ef241e029a-47" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-47"></a>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-48" name="rest_code_8f87eb61e97444f0810f79ef241e029a-48" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-48"></a>    <span class="k">def</span> <span class="nf">save</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="o">*</span><span class="n">args</span><span class="p">,</span> <span class="o">**</span><span class="n">kwargs</span><span class="p">):</span>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-49" name="rest_code_8f87eb61e97444f0810f79ef241e029a-49" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-49"></a>        <span class="k">if</span><span class="p">(</span><span class="ow">not</span> <span class="bp">self</span><span class="o">.</span><span class="n">content_type</span><span class="p">):</span>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-50" name="rest_code_8f87eb61e97444f0810f79ef241e029a-50" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-50"></a>            <span class="bp">self</span><span class="o">.</span><span class="n">content_type</span> <span class="o">=</span> \
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-51" name="rest_code_8f87eb61e97444f0810f79ef241e029a-51" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-51"></a>                <span class="n">ContentType</span><span class="o">.</span><span class="n">objects</span><span class="o">.</span><span class="n">get_for_model</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="vm">__class__</span><span class="p">)</span>
+<a id="rest_code_8f87eb61e97444f0810f79ef241e029a-52" name="rest_code_8f87eb61e97444f0810f79ef241e029a-52" href="#rest_code_8f87eb61e97444f0810f79ef241e029a-52"></a>            <span class="nb">super</span><span class="p">(</span><span class="n">SubclassedModel</span><span class="p">,</span> <span class="bp">self</span><span class="p">)</span><span class="o">.</span><span class="n">save</span><span class="p">(</span><span class="o">*</span><span class="n">args</span><span class="p">,</span> <span class="o">**</span><span class="n">kwargs</span><span class="p">)</span>
+</pre></div>
+<p>Para usarlo, supongamos el siguente <code class="docutils literal">models.py</code> en la app <code class="docutils literal">example</code>:</p>
+<div class="code"><pre class="code python"><a id="rest_code_401b181d4b8a4c3796cfc02a08ea0d56-1" name="rest_code_401b181d4b8a4c3796cfc02a08ea0d56-1" href="#rest_code_401b181d4b8a4c3796cfc02a08ea0d56-1"></a><span class="kn">from</span> <span class="nn">django.db</span> <span class="kn">import</span> <span class="n">models</span>
+<a id="rest_code_401b181d4b8a4c3796cfc02a08ea0d56-2" name="rest_code_401b181d4b8a4c3796cfc02a08ea0d56-2" href="#rest_code_401b181d4b8a4c3796cfc02a08ea0d56-2"></a><span class="kn">from</span> <span class="o">&lt;</span><span class="n">el</span> <span class="n">módulo</span> <span class="n">de</span> <span class="n">arriba</span><span class="o">&gt;</span> <span class="kn">import</span> <span class="nn">SubclassedModel</span>
+<a id="rest_code_401b181d4b8a4c3796cfc02a08ea0d56-3" name="rest_code_401b181d4b8a4c3796cfc02a08ea0d56-3" href="#rest_code_401b181d4b8a4c3796cfc02a08ea0d56-3"></a>
+<a id="rest_code_401b181d4b8a4c3796cfc02a08ea0d56-4" name="rest_code_401b181d4b8a4c3796cfc02a08ea0d56-4" href="#rest_code_401b181d4b8a4c3796cfc02a08ea0d56-4"></a><span class="k">class</span> <span class="nc">Foo</span><span class="p">(</span><span class="n">SubclassedModel</span><span class="p">):</span>
+<a id="rest_code_401b181d4b8a4c3796cfc02a08ea0d56-5" name="rest_code_401b181d4b8a4c3796cfc02a08ea0d56-5" href="#rest_code_401b181d4b8a4c3796cfc02a08ea0d56-5"></a>    <span class="p">[</span><span class="o">...</span><span class="p">]</span>
+<a id="rest_code_401b181d4b8a4c3796cfc02a08ea0d56-6" name="rest_code_401b181d4b8a4c3796cfc02a08ea0d56-6" href="#rest_code_401b181d4b8a4c3796cfc02a08ea0d56-6"></a>    <span class="k">def</span> <span class="nf">__unicode__</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+<a id="rest_code_401b181d4b8a4c3796cfc02a08ea0d56-7" name="rest_code_401b181d4b8a4c3796cfc02a08ea0d56-7" href="#rest_code_401b181d4b8a4c3796cfc02a08ea0d56-7"></a>        <span class="k">return</span> <span class="s2">"A Foo"</span>
+<a id="rest_code_401b181d4b8a4c3796cfc02a08ea0d56-8" name="rest_code_401b181d4b8a4c3796cfc02a08ea0d56-8" href="#rest_code_401b181d4b8a4c3796cfc02a08ea0d56-8"></a>
+<a id="rest_code_401b181d4b8a4c3796cfc02a08ea0d56-9" name="rest_code_401b181d4b8a4c3796cfc02a08ea0d56-9" href="#rest_code_401b181d4b8a4c3796cfc02a08ea0d56-9"></a><span class="k">class</span> <span class="nc">Bar</span><span class="p">(</span><span class="n">Foo</span><span class="p">):</span>
+<a id="rest_code_401b181d4b8a4c3796cfc02a08ea0d56-10" name="rest_code_401b181d4b8a4c3796cfc02a08ea0d56-10" href="#rest_code_401b181d4b8a4c3796cfc02a08ea0d56-10"></a>    <span class="p">[</span><span class="o">...</span><span class="p">]</span>
+<a id="rest_code_401b181d4b8a4c3796cfc02a08ea0d56-11" name="rest_code_401b181d4b8a4c3796cfc02a08ea0d56-11" href="#rest_code_401b181d4b8a4c3796cfc02a08ea0d56-11"></a>    <span class="k">def</span> <span class="nf">__unicode__</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+<a id="rest_code_401b181d4b8a4c3796cfc02a08ea0d56-12" name="rest_code_401b181d4b8a4c3796cfc02a08ea0d56-12" href="#rest_code_401b181d4b8a4c3796cfc02a08ea0d56-12"></a>        <span class="k">return</span> <span class="s2">"A Bar"</span>
+<a id="rest_code_401b181d4b8a4c3796cfc02a08ea0d56-13" name="rest_code_401b181d4b8a4c3796cfc02a08ea0d56-13" href="#rest_code_401b181d4b8a4c3796cfc02a08ea0d56-13"></a>
+<a id="rest_code_401b181d4b8a4c3796cfc02a08ea0d56-14" name="rest_code_401b181d4b8a4c3796cfc02a08ea0d56-14" href="#rest_code_401b181d4b8a4c3796cfc02a08ea0d56-14"></a><span class="k">class</span> <span class="nc">Baz</span><span class="p">(</span><span class="n">Foo</span><span class="p">):</span>
+<a id="rest_code_401b181d4b8a4c3796cfc02a08ea0d56-15" name="rest_code_401b181d4b8a4c3796cfc02a08ea0d56-15" href="#rest_code_401b181d4b8a4c3796cfc02a08ea0d56-15"></a>    <span class="p">[</span><span class="o">...</span><span class="p">]</span>
+<a id="rest_code_401b181d4b8a4c3796cfc02a08ea0d56-16" name="rest_code_401b181d4b8a4c3796cfc02a08ea0d56-16" href="#rest_code_401b181d4b8a4c3796cfc02a08ea0d56-16"></a>    <span class="k">def</span> <span class="nf">__unicode__</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+<a id="rest_code_401b181d4b8a4c3796cfc02a08ea0d56-17" name="rest_code_401b181d4b8a4c3796cfc02a08ea0d56-17" href="#rest_code_401b181d4b8a4c3796cfc02a08ea0d56-17"></a>        <span class="k">return</span> <span class="s2">"A Baz"</span>
+</pre></div>
+<p>Entonces:</p>
+<div class="code"><pre class="code bash"><a id="rest_code_d6a8c18b7c7141909793a438c6047dce-1" name="rest_code_d6a8c18b7c7141909793a438c6047dce-1" href="#rest_code_d6a8c18b7c7141909793a438c6047dce-1"></a>$<span class="w"> </span>django-admin.py<span class="w"> </span>shell<span class="w"> </span>--settings<span class="o">=</span>&lt;nombre<span class="w"> </span>del<span class="w"> </span>proyecto&gt;.settings
+<a id="rest_code_d6a8c18b7c7141909793a438c6047dce-2" name="rest_code_d6a8c18b7c7141909793a438c6047dce-2" href="#rest_code_d6a8c18b7c7141909793a438c6047dce-2"></a>Python<span class="w"> </span><span class="m">2</span>.6.5<span class="w"> </span><span class="o">(</span>r265:79063,<span class="w"> </span>Apr<span class="w"> </span><span class="m">16</span><span class="w"> </span><span class="m">2010</span>,<span class="w"> </span><span class="m">13</span>:09:56<span class="o">)</span>
+<a id="rest_code_d6a8c18b7c7141909793a438c6047dce-3" name="rest_code_d6a8c18b7c7141909793a438c6047dce-3" href="#rest_code_d6a8c18b7c7141909793a438c6047dce-3"></a><span class="o">[</span>GCC<span class="w"> </span><span class="m">4</span>.4.3<span class="o">]</span><span class="w"> </span>on<span class="w"> </span>linux2
+<a id="rest_code_d6a8c18b7c7141909793a438c6047dce-4" name="rest_code_d6a8c18b7c7141909793a438c6047dce-4" href="#rest_code_d6a8c18b7c7141909793a438c6047dce-4"></a>Type<span class="w"> </span><span class="s2">"help"</span>,<span class="w"> </span><span class="s2">"copyright"</span>,<span class="w"> </span><span class="s2">"credits"</span><span class="w"> </span>or<span class="w"> </span><span class="s2">"license"</span><span class="w"> </span><span class="k">for</span><span class="w"> </span>more<span class="w"> </span>information.
+<a id="rest_code_d6a8c18b7c7141909793a438c6047dce-5" name="rest_code_d6a8c18b7c7141909793a438c6047dce-5" href="#rest_code_d6a8c18b7c7141909793a438c6047dce-5"></a><span class="o">(</span>InteractiveConsole<span class="o">)</span>
+<a id="rest_code_d6a8c18b7c7141909793a438c6047dce-6" name="rest_code_d6a8c18b7c7141909793a438c6047dce-6" href="#rest_code_d6a8c18b7c7141909793a438c6047dce-6"></a>&gt;&gt;&gt;<span class="w"> </span>from<span class="w"> </span>example<span class="w"> </span>import<span class="w"> </span>models
+<a id="rest_code_d6a8c18b7c7141909793a438c6047dce-7" name="rest_code_d6a8c18b7c7141909793a438c6047dce-7" href="#rest_code_d6a8c18b7c7141909793a438c6047dce-7"></a>&gt;&gt;&gt;<span class="w"> </span><span class="nv">bar_instance</span><span class="w"> </span><span class="o">=</span><span class="w"> </span>models.Bar<span class="o">([</span>...<span class="o">])</span>
+<a id="rest_code_d6a8c18b7c7141909793a438c6047dce-8" name="rest_code_d6a8c18b7c7141909793a438c6047dce-8" href="#rest_code_d6a8c18b7c7141909793a438c6047dce-8"></a>&gt;&gt;&gt;<span class="w"> </span>bar_instance.save<span class="o">()</span>
+<a id="rest_code_d6a8c18b7c7141909793a438c6047dce-9" name="rest_code_d6a8c18b7c7141909793a438c6047dce-9" href="#rest_code_d6a8c18b7c7141909793a438c6047dce-9"></a>&gt;&gt;&gt;<span class="w"> </span><span class="nv">baz_instance</span><span class="w"> </span><span class="o">=</span><span class="w"> </span>models.Baz<span class="o">([</span>...<span class="o">])</span>
+<a id="rest_code_d6a8c18b7c7141909793a438c6047dce-10" name="rest_code_d6a8c18b7c7141909793a438c6047dce-10" href="#rest_code_d6a8c18b7c7141909793a438c6047dce-10"></a>&gt;&gt;&gt;<span class="w"> </span>baz_instance.save<span class="o">()</span>
+<a id="rest_code_d6a8c18b7c7141909793a438c6047dce-11" name="rest_code_d6a8c18b7c7141909793a438c6047dce-11" href="#rest_code_d6a8c18b7c7141909793a438c6047dce-11"></a>&gt;&gt;&gt;<span class="w"> </span><span class="nv">foo_instance</span><span class="w"> </span><span class="o">=</span><span class="w"> </span>models.Foo<span class="o">([</span>...<span class="o">])</span>
+<a id="rest_code_d6a8c18b7c7141909793a438c6047dce-12" name="rest_code_d6a8c18b7c7141909793a438c6047dce-12" href="#rest_code_d6a8c18b7c7141909793a438c6047dce-12"></a>&gt;&gt;&gt;<span class="w"> </span>foo_instance.save
+<a id="rest_code_d6a8c18b7c7141909793a438c6047dce-13" name="rest_code_d6a8c18b7c7141909793a438c6047dce-13" href="#rest_code_d6a8c18b7c7141909793a438c6047dce-13"></a>&gt;&gt;&gt;<span class="w"> </span><span class="nv">l</span><span class="w"> </span><span class="o">=</span><span class="w"> </span>models.Foo.objects.all<span class="o">()</span>
+<a id="rest_code_d6a8c18b7c7141909793a438c6047dce-14" name="rest_code_d6a8c18b7c7141909793a438c6047dce-14" href="#rest_code_d6a8c18b7c7141909793a438c6047dce-14"></a>&gt;&gt;&gt;<span class="w"> </span>l
+<a id="rest_code_d6a8c18b7c7141909793a438c6047dce-15" name="rest_code_d6a8c18b7c7141909793a438c6047dce-15" href="#rest_code_d6a8c18b7c7141909793a438c6047dce-15"></a><span class="o">[</span>&lt;A<span class="w"> </span>Bar&gt;,<span class="w"> </span>&lt;A<span class="w"> </span>Baz&gt;,<span class="w"> </span>&lt;A<span class="w"> </span>Foo&gt;<span class="o">]</span>
+</pre></div>
+<p>OJO: este mecanismo deshabilita el feature de Django según el cual un modelo no tiene un Manager por defecto cuando tiene cualquier Manager explícito. Se me ocurre que eso puede romper algo en subclases de <code class="docutils literal">SubclassedModel</code> si uno no lo tiene en cuenta.</p>
+    </div>    
+</div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+            <script src="../../../assets/js/jquery.min.js"></script><script src="../../../assets/js/popper.min.js"></script><script src="../../../assets/js/bootstrap.min.js"></script><script src="../../../assets/js/baguetteBox.min.js"></script><script src="../../../assets/js/pyar.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>

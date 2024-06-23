@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html prefix="
+og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Tracebackinternationalizationproposal | Python Argentina Wiki</title>
+<link href="../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/bootblog.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../rss.xml">
+<link rel="canonical" href="https://wiki.python.org.ar/tracebackinternationalizationproposal/">
+<!--[if lt IE 9]><script src="../assets/js/html5.js"></script><![endif]--><meta name="author" content="Python Argentina">
+<meta property="og:site_name" content="Python Argentina Wiki">
+<meta property="og:title" content="Tracebackinternationalizationproposal">
+<meta property="og:url" content="https://wiki.python.org.ar/tracebackinternationalizationproposal/">
+<meta property="og:description" content="PEP:
+Title: Traceback internationalization
+Version: $Revision$
+Last-Modified: $Date$
+Author: Mariano Reingart &lt;reingart EN gmail PUNTO com&gt;
+Status: Draft
+Type: Standards Track
+Content-Type: text/plain">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
+
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../pyar/"><span class="quienes_somos"></span>Nosotros</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../foro_y_redes/"><span class="navbar_lista_de_correo"></span>Foro</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../"><span class="wiki"></span>Wiki</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/noticias/"><span class="news"></span>Noticias</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/irc/"><span class="irc"></span>IRC</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/eventos/"><span class="eventos"></span>Eventos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://planeta.python.org.ar/"><span class="pyar"></span>Planeta</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/trabajo/"><span class="jobs"></span>Trabajos</a>
+                </li>
+            </ul>
+</div>
+    </nav>
+</div>
+
+<!-- Header and menu bar -->
+<div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        
+<div class="col-lg-12">
+    <div class="page-header">
+        <div class="pull-right">
+            <a href="https://github.com/PyAr/wiki/blob/master/pages/tracebackinternationalizationproposal.rst" id="sourcelink" class="nav-link">Editar</a>
+        </div>
+        <h2>Tracebackinternationalizationproposal</h2>
+    </div>
+    <div class="e-content entry-content" itemprop="articleBody text">
+    <pre class="literal-block">PEP:
+Title: Traceback internationalization
+Version: $Revision$
+Last-Modified: $Date$
+Author: Mariano Reingart &lt;reingart EN gmail PUNTO com&gt;
+Status: Draft
+Type: Standards Track
+Content-Type: text/plain
+Created: 15-May-2010
+Post-History:
+
+
+Abstract
+
+    The idea is to provide a standard mechanism to translate exception
+    and traceback messages to languages other than English.
+    To not reinvent the wheel, this proposal is based on i18n (gettext),
+    to ease translation and colaboration between language communities,
+    use compatible tools that already exists, favor correctness with
+    online review, and has proven to be useful in other projects with
+    similar goals (like error messages in PostgreSQL).
+    Also, a method to control LC_MESSAGES to get back to English must
+    be provided, as some code depends on exception messages (i.e.
+    doctests), preferably changeable at runtime, so this libraries are
+    self-aware of this issues and no manual intervention is required.
+
+
+Rationale
+
+    English isn't the first language of some users (developers), so
+    they may not be confortable with messages in that language [1]
+    (and some don't understand it at all). Ask them to learn a
+    second language (mostly foreign) to use Python is, at least,
+    not practical.
+
+    This is specially an issue when Python is used as a First
+    Programming Language for teaching to non-English speakers in
+    almost any educational level, even worse in other areas not
+    related directly with computer sciences.
+
+    Although a workaround may be developed (ie. a wiki page with
+    translated errors, as we did in Argentina [2]), that users are
+    often blocked when they found an English message, losing they
+    concentration on their work, having to waste time finding the
+    translation (if it exists) or asking to the teacher or mailing
+    lists.
+
+    In the other side, advanced users often prefer original messages
+    in English, and they are required in some scenarios like bug
+    reporting or doctests, so a method must be provided to change the
+    messages language (preferably at runtime).
+
+    Using standards tools for i18n (gettext) will ease translation
+    providing a common framework that already is prepared for
+    different language rules, with colaborative online applications
+    like Pootle[3] to automate translation and review process, tending
+    to a high quality result.
+
+    Other projects have chose this way some time ago, citing PostgreSQL
+    as an example[4], where, at runtime, you can choose error messages
+    language using LC_MESSAGES[5]. Indeed, we are using Pootle and
+    other tools to translate PostgreSQL related projects to Spanish in
+    a collaborative way [6].
+
+    Finally, this proposal will address current misbehavior with
+    locale.LC_MESSAGES category (according the Python Standard Library
+    Documentation of locale module) [7]:
+
+        Locale category for message display. Python currently does not
+        support application specific locale-aware messages. Messages
+        displayed by the operating system, like those returned by
+        os.strerror() might be affected by this category.
+
+Usage
+
+    Setting the desired locale (ie. 'es_AR') in LC_MESSAGES category
+    will enable internationalization of tracebacks and exceptions, and
+    setting 'C' locale will get back to untranslated original messages:
+
+    Examples:
+
+    Python 3.4.0a0 (default:8f0d5ecca524+, Oct 28 2012, 00:46:34)
+    [GCC 4.6.3] on linux
+    Type "help", "copyright", "credits" or "license" for more information.
+    &gt;&gt;&gt; 1/0
+    Traceback (most recent call last):
+      File "&lt;stdin&gt;", line 1, in &lt;module&gt;
+    ZeroDivisionError: division by zero
+
+    &gt;&gt;&gt; import locale
+    &gt;&gt;&gt; locale.setlocale(locale.LC_MESSAGES,'es_AR.utf8')
+    'es_AR.utf8'
+    &gt;&gt;&gt; 1/0
+    Traza de rastreo (llamada más reciente última):
+      Archivo "&lt;stdin&gt;", línea 1, en &lt;module&gt;
+    ZeroDivisionError: división por cero
+
+    &gt;&gt;&gt; locale.setlocale(locale.LC_MESSAGES,'C')
+    'C'
+    &gt;&gt;&gt; 1/0
+    Traceback (most recent call last):
+      File "&lt;stdin&gt;", line 1, in &lt;module&gt;
+    ZeroDivisionError: division by zero
+
+    By default, LC_MESSAGES should be 'C' locale, to prevent any
+    misunderstanding.
+
+    The user that needs translated messages could easily add a
+    line or setting LC_MESSAGES in his desired language:
+
+    import locale; locale.setlocale(locale.LC_MESSAGES,'es_AR.utf8')
+
+Caveats
+
+    Internationalization uses UTF-8 to be able to handle special
+    characters like accents. This should not be a problem in Python 3
+    but some functions may be revised like PyUnicode_FromFormatV() [9]
+
+    Special care must be taken with positional placeholders like in:
+    "name '%.200s' is not defined". If there is more than one
+    placeholder, using printf special format specifiers (ie. %2$s %1$s)
+    or an alternate string formatting system should be required
+    in order to allow to change their position in the string (this may
+    be required by some languages rules in some contexts).
+
+Reference Implementation
+
+    A proof of concept is attached to issue #16344 [10] for Python 3.3+
+    Original -obsolete- version (for python 2.x) can be downloaded from
+    Python Argentina Wiki [8]
+
+    It defines a Py_GETTEXT macro that is called from PyErr_SetString
+    and PyErr_Format (errors.c) and tb_displayline, PyTraceBack_Print
+    (traceback.c).
+
+    A new subdirectory called Locale stores localized message files,
+    but this could be installed in a standard system directory (i.e.
+    /usr/share/locale) as a special domain called "python" is used to
+    not interfere with python modules / libraries / packages already
+    using gettext.
+
+    Some steps are required to set up internationalization correctly:
+
+    1. locale.bind_textdomain_codeset("python", "utf8") should be
+       called in pythonrun.c to initialize encoding (preventing nested
+       unicode exceptions if internationalization is not correctly)
+    2. locale.bindtextdomain("python", sysconfig._safe_realpath("Locale"))
+       should be called in site.py to specify the locale directory
+       (not needed if a standard directory is used, this would be
+       platform dependent)
+    3. locale.setlocale(locale.LC_MESSAGES,'es_AR.utf8') should be
+       executed by the end user to finally enable internationalization
+
+    Although it is just a proof of concept, final version shouldn't be
+    much different than this, as internationalization points are
+    well-known so just 2 C files were modified.
+
+    In order to keep the change small, and in order to not bother other
+    developers with new special issues, this approach needs a custom tool
+    for messages recollection from source files, similar to pygettext.py,
+    but scanning C files for PyErr_Format or PyErr_SetString messages.
+    Looking for messages in .py files would be a little more difficult,
+    as it would have to look where exceptions are raised.
+    None of both tools were developed for this draft.
+
+References
+
+    [1] http://wiki.python.org/moin/BeginnersGuide
+
+    [2] http://python.org.ar/pyar/MensajesExcepcionales
+
+    [3] http://translate.sourceforge.net/wiki/pootle/index
+
+    [4] http://www.postgresql.org/docs/8.2/static/nls-translator.html
+
+    [5] http://www.postgresql.org/docs/8.2/static/locale.html
+
+    [6] http://pootle.arpug.com.ar/pootle
+
+    [7] http://docs.python.org/library/locale.html
+
+    [8] http://python.org.ar/pyar/TracebackInternationalizationProposal?action=AttachFile&amp;do=view&amp;target=python_traceback_i18n_proof_of_concept.diff
+
+    [9] http://bugs.python.org/issue16343
+
+    [10] http://bugs.python.org/issue16344
+
+
+Copyright
+
+    This document has been placed in the public domain.
+
+
+
+Local Variables:
+mode: indented-text
+indent-tabs-mode: nil
+sentence-end-double-space: t
+fill-column: 70
+coding: utf-8
+End:</pre>
+<p>Attachment moin wiki code:</p>
+    </div>    
+</div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+            <script src="../assets/js/jquery.min.js"></script><script src="../assets/js/popper.min.js"></script><script src="../assets/js/bootstrap.min.js"></script><script src="../assets/js/baguetteBox.min.js"></script><script src="../assets/js/pyar.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>

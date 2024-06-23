@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html prefix="
+og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cómo colaborar en el Wiki de Pyar | Python Argentina Wiki</title>
+<link href="../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/bootblog.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../rss.xml">
+<link rel="canonical" href="https://wiki.python.org.ar/colaborandoenelwiki/">
+<!--[if lt IE 9]><script src="../assets/js/html5.js"></script><![endif]--><meta name="author" content="Python Argentina">
+<meta property="og:site_name" content="Python Argentina Wiki">
+<meta property="og:title" content="Cómo colaborar en el Wiki de Pyar">
+<meta property="og:url" content="https://wiki.python.org.ar/colaborandoenelwiki/">
+<meta property="og:description" content="Introducción
+Reportanto Bugs
+Proponiendo una mejora
+
+Cambio puntual
+Cambios masivos
+
+
+Cosas a tener en cuenta
+
+
+
+Introducción
+Existen varias maneras de contribuir con la wiki de Python Argentina:
+
+rep">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
+
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../pyar/"><span class="quienes_somos"></span>Nosotros</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../foro_y_redes/"><span class="navbar_lista_de_correo"></span>Foro</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../"><span class="wiki"></span>Wiki</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/noticias/"><span class="news"></span>Noticias</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/irc/"><span class="irc"></span>IRC</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/eventos/"><span class="eventos"></span>Eventos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://planeta.python.org.ar/"><span class="pyar"></span>Planeta</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/trabajo/"><span class="jobs"></span>Trabajos</a>
+                </li>
+            </ul>
+</div>
+    </nav>
+</div>
+
+<!-- Header and menu bar -->
+<div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        
+<div class="col-lg-12">
+    <div class="page-header">
+        <div class="pull-right">
+            <a href="https://github.com/PyAr/wiki/blob/master/pages/colaborandoenelwiki.rst" id="sourcelink" class="nav-link">Editar</a>
+        </div>
+        <h2>Cómo Colaborar En El Wiki De Pyar</h2>
+    </div>
+    <div class="e-content entry-content" itemprop="articleBody text">
+    <nav class="contents local" id="contenido" role="doc-toc"><ul class="simple">
+<li><p><a class="reference internal" href="#introduccion" id="toc-entry-1">Introducción</a></p></li>
+<li><p><a class="reference internal" href="#reportanto-bugs" id="toc-entry-2">Reportanto Bugs</a></p></li>
+<li>
+<p><a class="reference internal" href="#proponiendo-una-mejora" id="toc-entry-3">Proponiendo una mejora</a></p>
+<ul>
+<li><p><a class="reference internal" href="#cambio-puntual" id="toc-entry-4">Cambio puntual</a></p></li>
+<li><p><a class="reference internal" href="#cambios-masivos" id="toc-entry-5">Cambios masivos</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#cosas-a-tener-en-cuenta" id="toc-entry-6">Cosas a tener en cuenta</a></p></li>
+</ul></nav><section id="introduccion"><h2><a class="toc-backref" href="#toc-entry-1" role="doc-backlink">Introducción</a></h2>
+<p>Existen varias maneras de contribuir con la wiki de Python Argentina:</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://github.com/PyAr/wiki/issues">reportando bugs</a></p></li>
+<li><p>revisando que esos bugs se encuentren vigentes</p></li>
+<li><p>etc</p></li>
+</ul>
+<p>No importa como colaboran, siempre se tiene que seguir el <a class="reference external" href="https://ac.python.org.ar/#coc">Código de
+Conducta</a></p>
+</section><section id="reportanto-bugs"><h2><a class="toc-backref" href="#toc-entry-2" role="doc-backlink">Reportanto Bugs</a></h2>
+<p>Cuando se reporte un bug, lo ideal sería que el mismo tenga:</p>
+<ul class="simple">
+<li><p>El link de donde se encuentra el error</p></li>
+<li><p>Una captura de pantalla de que es lo que está mal</p></li>
+<li><p>Un mensaje describiendo el error que se quiere cambiar</p></li>
+</ul></section><section id="proponiendo-una-mejora"><h2><a class="toc-backref" href="#toc-entry-3" role="doc-backlink">Proponiendo una mejora</a></h2>
+<p>Hay dos formas de proponer mejoras:</p>
+<ul class="simple">
+<li><p>Hacer un cambio en una página puntual desde GitHub.</p></li>
+<li><p>Haciendo un Pull Request (PR)</p></li>
+</ul>
+<p>En cualquier caso, siempre es necesario que se creen una cuenta en
+<a class="reference external" href="https://github.com/">GitHub</a></p>
+<p>Si no saben mucho de reStructuredText, estos son algunos links que les pueden
+ayudar:</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://es.wikipedia.org/wiki/ReStructuredText">Wikipedia reStructeredText</a></p></li>
+<li><p><a class="reference external" href="https://thomas-cokelaer.info/tutorials/sphinx/rest_syntax.html">rST Syntax</a></p></li>
+<li><p><a class="reference external" href="https://sublime-and-sphinx-guide.readthedocs.io/en/latest/">Create Documentation with RST, Sphinx, Sublime, and GitHub</a></p></li>
+</ul>
+<section id="cambio-puntual"><h3><a class="toc-backref" href="#toc-entry-4" role="doc-backlink">Cambio puntual</a></h3>
+<p>Si estás viendo una página que está mal, a la derecha del título
+hay un link a <em>Editar</em> que los va a llevar al código fuente de todas
+páginas</p>
+<p>Una vez en la misma, pueden editarla desde el mismo Github,
+y cuando commiten los cambios va a pedir crear un PR.</p>
+</section><section id="cambios-masivos"><h3><a class="toc-backref" href="#toc-entry-5" role="doc-backlink">Cambios masivos</a></h3>
+<p>Si tienen que hacer cambios masivos, por ahí usar la interfaz de
+Github para editar todos los archivos es ineficiente.</p>
+<p>En ese caso:</p>
+<ul class="simple">
+<li><p>Tienen que hacer un fork del proyecto</p></li>
+<li><p>Clonarse el fork</p></li>
+<li><p>Lean el <a class="reference external" href="https://github.com/PyAr/wiki/blob/nikola/README.rst">README.rst</a> para saber como configurar el entorno local</p></li>
+<li><p>Editar todos los cambios que crean necesarios</p></li>
+<li><p>Hacer un PR de su fork al proyecto oficial</p></li>
+</ul></section></section><section id="cosas-a-tener-en-cuenta"><h2><a class="toc-backref" href="#toc-entry-6" role="doc-backlink">Cosas a tener en cuenta</a></h2>
+<p>Cuando estás editando páginas rST, un par de cosas a tener en cuenta:</p>
+<ul class="simple">
+<li><p>Los nombres de los archivos tienen estar en minúscula y no tener tildes
+ni otros caracteres especiales</p></li>
+<li><p>Los archivos tienen que tener extensión <code class="docutils literal">.rst</code></p></li>
+<li><p>Cuando tengan que poner una dirección de mail, no pongan la dirección del mail
+real, <cite>foobar@example.com</cite>, sino que usen palabras como <cite>dot, at</cite>. Por ejemplo:
+<cite>foobar at example dot com</cite></p></li>
+</ul></section>
+</div>    
+</div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+            <script src="../assets/js/jquery.min.js"></script><script src="../assets/js/popper.min.js"></script><script src="../assets/js/bootstrap.min.js"></script><script src="../assets/js/baguetteBox.min.js"></script><script src="../assets/js/pyar.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>

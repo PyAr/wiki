@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html prefix="
+og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Modificación de Estilos en rst2pdf | Python Argentina Wiki</title>
+<link href="../../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/bootblog.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../../rss.xml">
+<link rel="canonical" href="https://wiki.python.org.ar/recetario/estilosrst2pdf/">
+<!--[if lt IE 9]><script src="../../assets/js/html5.js"></script><![endif]--><meta name="author" content="Python Argentina">
+<meta property="og:site_name" content="Python Argentina Wiki">
+<meta property="og:title" content="Modificación de Estilos en rst2pdf">
+<meta property="og:url" content="https://wiki.python.org.ar/recetario/estilosrst2pdf/">
+<meta property="og:description" content="(por Roberto Alsina*)*
+
+Contenido
+
+Cómo utilizarlo en un documento
+Enlaces
+
+
+En el svn de rst2pdf se puede ver un archivo de ejemplo, que define todos los atributos posibles.
+En rst2pdf un estilo (est">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
+
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../pyar/"><span class="quienes_somos"></span>Nosotros</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../foro_y_redes/"><span class="navbar_lista_de_correo"></span>Foro</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../../"><span class="wiki"></span>Wiki</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/noticias/"><span class="news"></span>Noticias</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/irc/"><span class="irc"></span>IRC</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/eventos/"><span class="eventos"></span>Eventos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://planeta.python.org.ar/"><span class="pyar"></span>Planeta</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/trabajo/"><span class="jobs"></span>Trabajos</a>
+                </li>
+            </ul>
+</div>
+    </nav>
+</div>
+
+<!-- Header and menu bar -->
+<div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        
+<div class="col-lg-12">
+    <div class="page-header">
+        <div class="pull-right">
+            <a href="https://github.com/PyAr/wiki/blob/master/pages/recetario/estilosrst2pdf.rst" id="sourcelink" class="nav-link">Editar</a>
+        </div>
+        <h2>Modificación De Estilos En Rst2pdf</h2>
+    </div>
+    <div class="e-content entry-content" itemprop="articleBody text">
+    <p><em>(por</em> <strong>Roberto Alsina*</strong>)*</p>
+<nav class="contents" id="contenido" role="doc-toc"><p class="topic-title"><a class="reference internal" href="#top">Contenido</a></p>
+<ul class="simple">
+<li><p><a class="reference internal" href="#como-utilizarlo-en-un-documento" id="toc-entry-1">Cómo utilizarlo en un documento</a></p></li>
+<li><p><a class="reference internal" href="#enlaces" id="toc-entry-2">Enlaces</a></p></li>
+</ul></nav><p>En el <a class="reference external" href="http://code.google.com/p/rst2pdf/source/browse/trunk/rst2pdf/styles/styles.style">svn de rst2pdf</a> se puede ver un archivo de ejemplo, que define todos los atributos posibles.</p>
+<p>En <strong>rst2pdf</strong> un estilo (este es el estilo que se llama base) puede tener los siguientes atributos:</p>
+<pre class="literal-block">base:
+     parent: null
+     fontName: stdFont
+     fontSize: 10
+     leading: 12
+     leftIndent: 0
+     rightIndent: 0
+     firstLineIndent: 0
+     alignment: TA_LEFT
+     spaceBefore: 0
+     spaceAfter: 0
+     bulletFontName: stdFont
+     bulletFontSize: 10
+     bulletIndent: 0
+     textColor: black
+     backColor: null
+     wordWrap: null
+     borderWidth: 0
+     borderPadding: 0
+     borderColor: null
+     borderRadius: null
+     allowWidows: false
+     allowOrphans: false
+     hyphenation: false
+     kerning: false
+     underline: false
+     strike: false
+     commands: []</pre>
+<p>De estos hay que saber:</p>
+<ol class="arabic simple">
+<li><p><code class="docutils literal">commands</code> es solamente cuando se aplica a tablas, y a cosas que están hechas con tablas, por ejemplo listas.</p></li>
+<li><p><code class="docutils literal">parent</code> es el nombre de otro estilo. Ese estilo se usa para todo lo que vos no definas. Por ejemplo,</p></li>
+</ol>
+<pre class="literal-block">bodytext:
+  parent: normal
+  spaceBefore: 6
+  alignment: TA_JUSTIFY
+  hyphenation: true</pre>
+<p>Quiere decir: este estilo es igualito a "normal" pero... el <code class="docutils literal">spaceBefore</code> es 6, va justificado y usa guiones para cortar palabras.</p>
+<p>Si vos queres definir un estilo que sea igual a bodytext pero verde:</p>
+<pre class="literal-block">verde:
+   parent: bodytext
+   textColor: green</pre>
+<p><strong>NdR:</strong> si no se le indica <code class="docutils literal">parent</code> hereda de <code class="docutils literal">base</code></p>
+<section id="como-utilizarlo-en-un-documento"><h2><a class="toc-backref" href="#toc-entry-1" role="doc-backlink">Cómo utilizarlo en un documento</a></h2>
+<p>O lo usas como clase para un objeto, por ejemplo para un párrafo:</p>
+<pre class="literal-block">.. class:: verde
+
+Este texto es verde</pre>
+<p>O definis un rol y lo aplicas a un pedazo de texto:</p>
+<pre class="literal-block">.. role:: verde
+
+La ultima palabra es de color :verde:`esmeralda`</pre>
+<p>Si queres cambiar como se ve alguna de las cosas que ya estan definidas, pisás el estilo como quieras. Si por ejemplo querés que el estilo "base" en tu documento sea de 8 puntos en vez de diez, te creas una hoja de estilo que tenga esto adentro:</p>
+<pre class="literal-block">styles:
+   base:
+       fontSize: 8</pre>
+<p>( Esa hoja es la que se llama eightpoint y <a class="reference external" href="http://code.google.com/p/rst2pdf/source/browse/trunk/rst2pdf/styles/eightpoint.style">ya viene con rst2pdf</a> )</p>
+<p>Como todos los demás estilos heredan de base, cambiando base cambian todos.</p>
+<p>Cada estilo definido en la hoja por default se usa en alguna parte de un documento, o es un estilo "práctico" como "right" o "center" para aplicar.</p>
+</section><section id="enlaces"><h2><a class="toc-backref" href="#toc-entry-2" role="doc-backlink">Enlaces</a></h2>
+<ul class="simple">
+<li><p><a class="reference external" href="https://code.google.com/p/rst2pdf/">Proyecto rst2pdf</a></p></li>
+<li><p><a class="reference external" href="http://code.google.com/p/rst2pdf/source/browse/trunk/rst2pdf/styles/styles.style">Hoja de estilo completa</a></p></li>
+<li><p><a class="reference external" href="http://code.google.com/p/rst2pdf/source/browse/trunk/rst2pdf/styles/eightpoint.style">Hoja de estilo eightpoint</a></p></li>
+</ul></section>
+</div>    
+</div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+            <script src="../../assets/js/jquery.min.js"></script><script src="../../assets/js/popper.min.js"></script><script src="../../assets/js/bootstrap.min.js"></script><script src="../../assets/js/baguetteBox.min.js"></script><script src="../../assets/js/pyar.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>

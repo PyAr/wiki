@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html prefix="
+og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Web Server Gateway Interface | Python Argentina Wiki</title>
+<link href="../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/bootblog.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../rss.xml">
+<link rel="canonical" href="https://wiki.python.org.ar/wsgi/">
+<!--[if lt IE 9]><script src="../assets/js/html5.js"></script><![endif]--><meta name="author" content="Python Argentina">
+<meta property="og:site_name" content="Python Argentina Wiki">
+<meta property="og:title" content="Web Server Gateway Interface">
+<meta property="og:url" content="https://wiki.python.org.ar/wsgi/">
+<meta property="og:description" content="WSGI es una interface simple y universal entre los servidores web y las aplicaciones web o frameworks (ver más en  PEP 333)
+WSGI es similar a la especificación Java Servlet o ASP/ASP.NET. En general, ">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
+
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../pyar/"><span class="quienes_somos"></span>Nosotros</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../foro_y_redes/"><span class="navbar_lista_de_correo"></span>Foro</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../"><span class="wiki"></span>Wiki</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/noticias/"><span class="news"></span>Noticias</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/irc/"><span class="irc"></span>IRC</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/eventos/"><span class="eventos"></span>Eventos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://planeta.python.org.ar/"><span class="pyar"></span>Planeta</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/trabajo/"><span class="jobs"></span>Trabajos</a>
+                </li>
+            </ul>
+</div>
+    </nav>
+</div>
+
+<!-- Header and menu bar -->
+<div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        
+<div class="col-lg-12">
+    <div class="page-header">
+        <div class="pull-right">
+            <a href="https://github.com/PyAr/wiki/blob/master/pages/wsgi.rst" id="sourcelink" class="nav-link">Editar</a>
+        </div>
+        <h2>Web Server Gateway Interface</h2>
+    </div>
+    <div class="e-content entry-content" itemprop="articleBody text">
+    <p>WSGI es una interface simple y universal entre los servidores web y las aplicaciones web o frameworks (ver más en  <a class="reference external" href="http://www.python.org/dev/peps/pep-0333/">PEP 333</a>)</p>
+<p>WSGI es similar a la especificación Java Servlet o ASP/ASP.NET. En general, es mucho más simple que dichas especificaciones, y se basa en el estandard CGI con mejoras "pitónicas" para hacerla reentrante, persistente, etc.</p>
+<section id="resumen-de-la-especificacion"><h2>Resumen de la Especificación</h2>
+<ul class="simple">
+<li><p>Del lado de la aplicación, se especifica un punto de entrada (objeto, método, función), con dos parámetros: las variables de entorno (<code class="docutils literal">environ</code> y la función para iniciar la respuesta <code class="docutils literal">start_response(status,response_headers)</code> que envía el estado y los encabezados), y debe devolver un iterable con los datos para enviar al cliente.</p></li>
+<li><p>Del lado del servidor, se invoca la aplicación por cada pedido que recibe del cliente HTTP, con las variables de entorno establecidas (estilo CGI)</p></li>
+</ul></section><section id="ejemplo"><h2>Ejemplo</h2>
+<div class="code"><pre class="code python"><a id="rest_code_09d5a4d7e780489d8c80b6b3140b64c0-1" name="rest_code_09d5a4d7e780489d8c80b6b3140b64c0-1" href="#rest_code_09d5a4d7e780489d8c80b6b3140b64c0-1"></a><span class="c1"># Aqui va mi 'Hola PyAr!, pero con WSGI, una maravilla de Python.</span>
+<a id="rest_code_09d5a4d7e780489d8c80b6b3140b64c0-2" name="rest_code_09d5a4d7e780489d8c80b6b3140b64c0-2" href="#rest_code_09d5a4d7e780489d8c80b6b3140b64c0-2"></a>
+<a id="rest_code_09d5a4d7e780489d8c80b6b3140b64c0-3" name="rest_code_09d5a4d7e780489d8c80b6b3140b64c0-3" href="#rest_code_09d5a4d7e780489d8c80b6b3140b64c0-3"></a><span class="kn">from</span> <span class="nn">wsgiref.simple_server</span> <span class="kn">import</span> <span class="n">make_server</span>
+<a id="rest_code_09d5a4d7e780489d8c80b6b3140b64c0-4" name="rest_code_09d5a4d7e780489d8c80b6b3140b64c0-4" href="#rest_code_09d5a4d7e780489d8c80b6b3140b64c0-4"></a>
+<a id="rest_code_09d5a4d7e780489d8c80b6b3140b64c0-5" name="rest_code_09d5a4d7e780489d8c80b6b3140b64c0-5" href="#rest_code_09d5a4d7e780489d8c80b6b3140b64c0-5"></a><span class="k">def</span> <span class="nf">hello</span><span class="p">(</span><span class="n">environ</span><span class="p">,</span> <span class="n">start_response</span><span class="p">):</span>
+<a id="rest_code_09d5a4d7e780489d8c80b6b3140b64c0-6" name="rest_code_09d5a4d7e780489d8c80b6b3140b64c0-6" href="#rest_code_09d5a4d7e780489d8c80b6b3140b64c0-6"></a>    <span class="n">start_response</span><span class="p">(</span><span class="s1">'200 OK'</span><span class="p">,[(</span><span class="s1">'Content-type'</span><span class="p">,</span><span class="s1">'text/plain'</span><span class="p">)])</span>
+<a id="rest_code_09d5a4d7e780489d8c80b6b3140b64c0-7" name="rest_code_09d5a4d7e780489d8c80b6b3140b64c0-7" href="#rest_code_09d5a4d7e780489d8c80b6b3140b64c0-7"></a>    <span class="k">return</span> <span class="p">[</span><span class="s1">'Hola PyAr!'</span><span class="p">]</span>
+<a id="rest_code_09d5a4d7e780489d8c80b6b3140b64c0-8" name="rest_code_09d5a4d7e780489d8c80b6b3140b64c0-8" href="#rest_code_09d5a4d7e780489d8c80b6b3140b64c0-8"></a>
+<a id="rest_code_09d5a4d7e780489d8c80b6b3140b64c0-9" name="rest_code_09d5a4d7e780489d8c80b6b3140b64c0-9" href="#rest_code_09d5a4d7e780489d8c80b6b3140b64c0-9"></a><span class="n">httpd</span> <span class="o">=</span> <span class="n">make_server</span><span class="p">(</span><span class="s1">''</span><span class="p">,</span><span class="mi">8000</span><span class="p">,</span> <span class="n">hello</span><span class="p">)</span><span class="o">.</span><span class="n">serve_forever</span><span class="p">()</span>
+</pre></div>
+<p>(copiado de un mail "hello-word" de la lista)</p>
+</section><section id="variables-de-entorno-diccionario-environ"><h2>Variables de entorno (diccionario {{{environ}}})</h2>
+<p>El diccionario <code class="docutils literal">environ</code> que se recibe con cada pedido HTTP, contiene las variables estándard de la especificación CGI, entre ellas:</p>
+<ul class="simple">
+<li><p>REQUEST_METHOD: método "GET", "POST", tec.</p></li>
+<li><p>SCRIPT_NAME : la parte inicial de la "ruta", que corresponde a la aplicación</p></li>
+<li><p>PATH_INFO: la segunda parte de la "ruta", determina la "ubicación" virtual dentro de la aplicación</p></li>
+<li><p>QUERY_STRING: la porción de la URL que sigue al "?", si existe</p></li>
+<li><p>CONTENT_TYPE, CONTENT_LENGTH de la petición HTTP</p></li>
+<li><p>SERVER_NAME, SERVER_PORT, que combinadas con SCRIPT_NAME y PATH_INFO dan la URL</p></li>
+<li><p>SERVER_PROTOCOL: la versión del protocolo ("HTTP/1.0" or "HTTP/1.1")</p></li>
+<li><p>Variables HTTP</p></li>
+</ul></section><section id="configuracion-apache-mod-python"><h2>Configuración apache + mod_python</h2>
+<p>mod_python tiene varios handlers o "controladores" (ver <a class="reference external" href="http://www.modpython.org/live/current/doc-html/">documentación</a>):</p>
+<ul class="simple">
+<li><p>Handler PSP: utilizado para procesar documentos .psp con código python y html mezclado (similar a PHP)</p></li>
+<li><p>Handler CGI: emula el entorno CGI (no confundir con WSGI). No es reentrante ni persistente, y es el método más lento para ejecutar scripts web, pero a su vez es históricamente "compatible" con scripts viejos.</p></li>
+<li><p>Handler Publisher: es un poco mas de "alto nivel". En general, se usaría si uno quiere hacer una aplicación sencilla, con las url mapeadas automáticamente a funciones, etc.</p></li>
+<li><p>Handler propio: más rapido, pero a costa de tener que programar a mas "bajo nivel" (directamente con las interfaces de apache). Aplicaciones mas avanzadas que requieren un mayor control sobre las url, encabezados, etc., usan handlers propios (ejemplo: trac, moin, etc.):</p></li>
+</ul>
+<p>Igualmente, estos Handlers no son compatibles con WSGI, por eso no recomendaría usar ninguno de ellos directamente, sino a través del wrapper WSGI (con <a class="reference external" href="http://www.aminus.net//wiki/ModPythonGateway">ModPythonGateway</a>) que es un handler "propio" que traduce las peticiones al estandar WSGI.  Es algo mucho mas estandar, valga la redundancia, y el día de mañana se puede usar cualquier servidor compatible con python, no solo apache.</p>
+<p>Además, puede utilizarse directamente mod_wsgi (ver siguiente sección).</p>
+<p>Ejemplos de configuración (tanto en /etc/apache2/... en un archivo .htaccess en el mismo directorio):</p>
+<div class="code"><pre class="code apacheconf"><a id="rest_code_2b89c528c6034e6e9c7dd83952634f03-1" name="rest_code_2b89c528c6034e6e9c7dd83952634f03-1" href="#rest_code_2b89c528c6034e6e9c7dd83952634f03-1"></a><span class="c"># handler Publisher:</span>
+<a id="rest_code_2b89c528c6034e6e9c7dd83952634f03-2" name="rest_code_2b89c528c6034e6e9c7dd83952634f03-2" href="#rest_code_2b89c528c6034e6e9c7dd83952634f03-2"></a><span class="c">#  se ejecutará cualquier archivo .py del directorio, llamando a la función de la url:</span>
+<a id="rest_code_2b89c528c6034e6e9c7dd83952634f03-3" name="rest_code_2b89c528c6034e6e9c7dd83952634f03-3" href="#rest_code_2b89c528c6034e6e9c7dd83952634f03-3"></a><span class="c">#  http://www.mysite.com/hello.py/say  ejecutara el script hello.py, funcion say</span>
+<a id="rest_code_2b89c528c6034e6e9c7dd83952634f03-4" name="rest_code_2b89c528c6034e6e9c7dd83952634f03-4" href="#rest_code_2b89c528c6034e6e9c7dd83952634f03-4"></a><span class="nt">&lt;Directory</span><span class="w"> </span><span class="s">/var/www/html/python/</span><span class="nt">&gt;</span>
+<a id="rest_code_2b89c528c6034e6e9c7dd83952634f03-5" name="rest_code_2b89c528c6034e6e9c7dd83952634f03-5" href="#rest_code_2b89c528c6034e6e9c7dd83952634f03-5"></a><span class="w">    </span><span class="nb">SetHandler</span><span class="w"> </span>mod_python
+<a id="rest_code_2b89c528c6034e6e9c7dd83952634f03-6" name="rest_code_2b89c528c6034e6e9c7dd83952634f03-6" href="#rest_code_2b89c528c6034e6e9c7dd83952634f03-6"></a><span class="w">    </span><span class="nb">PythonHandler</span><span class="w"> </span>mod_python.publisher
+<a id="rest_code_2b89c528c6034e6e9c7dd83952634f03-7" name="rest_code_2b89c528c6034e6e9c7dd83952634f03-7" href="#rest_code_2b89c528c6034e6e9c7dd83952634f03-7"></a><span class="w">    </span><span class="nb">PythonDebug</span><span class="w"> </span><span class="k">On</span>
+<a id="rest_code_2b89c528c6034e6e9c7dd83952634f03-8" name="rest_code_2b89c528c6034e6e9c7dd83952634f03-8" href="#rest_code_2b89c528c6034e6e9c7dd83952634f03-8"></a><span class="nt">&lt;/Directory&gt;</span>
+<a id="rest_code_2b89c528c6034e6e9c7dd83952634f03-9" name="rest_code_2b89c528c6034e6e9c7dd83952634f03-9" href="#rest_code_2b89c528c6034e6e9c7dd83952634f03-9"></a>
+<a id="rest_code_2b89c528c6034e6e9c7dd83952634f03-10" name="rest_code_2b89c528c6034e6e9c7dd83952634f03-10" href="#rest_code_2b89c528c6034e6e9c7dd83952634f03-10"></a><span class="c"># Handler PSP:</span>
+<a id="rest_code_2b89c528c6034e6e9c7dd83952634f03-11" name="rest_code_2b89c528c6034e6e9c7dd83952634f03-11" href="#rest_code_2b89c528c6034e6e9c7dd83952634f03-11"></a><span class="c">#  se ejecutará cualquier archivo .psp (código python embebido en texto html)</span>
+<a id="rest_code_2b89c528c6034e6e9c7dd83952634f03-12" name="rest_code_2b89c528c6034e6e9c7dd83952634f03-12" href="#rest_code_2b89c528c6034e6e9c7dd83952634f03-12"></a><span class="nt">&lt;Directory</span><span class="w"> </span><span class="s">/var/www/html/psp/</span><span class="nt">&gt;</span>
+<a id="rest_code_2b89c528c6034e6e9c7dd83952634f03-13" name="rest_code_2b89c528c6034e6e9c7dd83952634f03-13" href="#rest_code_2b89c528c6034e6e9c7dd83952634f03-13"></a><span class="w">   </span><span class="nb">AddHandler</span><span class="w"> </span>mod_python<span class="w"> </span>.psp
+<a id="rest_code_2b89c528c6034e6e9c7dd83952634f03-14" name="rest_code_2b89c528c6034e6e9c7dd83952634f03-14" href="#rest_code_2b89c528c6034e6e9c7dd83952634f03-14"></a><span class="w">   </span><span class="nb">PythonHandler</span><span class="w"> </span>mod_python.psp
+<a id="rest_code_2b89c528c6034e6e9c7dd83952634f03-15" name="rest_code_2b89c528c6034e6e9c7dd83952634f03-15" href="#rest_code_2b89c528c6034e6e9c7dd83952634f03-15"></a><span class="nt">&lt;/Directory&gt;</span>
+<a id="rest_code_2b89c528c6034e6e9c7dd83952634f03-16" name="rest_code_2b89c528c6034e6e9c7dd83952634f03-16" href="#rest_code_2b89c528c6034e6e9c7dd83952634f03-16"></a>
+<a id="rest_code_2b89c528c6034e6e9c7dd83952634f03-17" name="rest_code_2b89c528c6034e6e9c7dd83952634f03-17" href="#rest_code_2b89c528c6034e6e9c7dd83952634f03-17"></a><span class="c"># Handler CGI:</span>
+<a id="rest_code_2b89c528c6034e6e9c7dd83952634f03-18" name="rest_code_2b89c528c6034e6e9c7dd83952634f03-18" href="#rest_code_2b89c528c6034e6e9c7dd83952634f03-18"></a><span class="c">#  se ejecutará los scripts .py (scripts normales de python) simil linea de comandos</span>
+<a id="rest_code_2b89c528c6034e6e9c7dd83952634f03-19" name="rest_code_2b89c528c6034e6e9c7dd83952634f03-19" href="#rest_code_2b89c528c6034e6e9c7dd83952634f03-19"></a><span class="nt">&lt;Directory</span><span class="w"> </span><span class="s">/var/www/cgi-bin/</span><span class="nt">&gt;</span>
+<a id="rest_code_2b89c528c6034e6e9c7dd83952634f03-20" name="rest_code_2b89c528c6034e6e9c7dd83952634f03-20" href="#rest_code_2b89c528c6034e6e9c7dd83952634f03-20"></a><span class="w">   </span><span class="nb">SetHandler</span><span class="w"> </span>mod_python
+<a id="rest_code_2b89c528c6034e6e9c7dd83952634f03-21" name="rest_code_2b89c528c6034e6e9c7dd83952634f03-21" href="#rest_code_2b89c528c6034e6e9c7dd83952634f03-21"></a><span class="w">   </span><span class="nb">PythonHandler</span><span class="w"> </span>mod_python.cgihandler
+<a id="rest_code_2b89c528c6034e6e9c7dd83952634f03-22" name="rest_code_2b89c528c6034e6e9c7dd83952634f03-22" href="#rest_code_2b89c528c6034e6e9c7dd83952634f03-22"></a><span class="w">   </span><span class="nb">Options</span><span class="w"> </span>ExecCGI
+<a id="rest_code_2b89c528c6034e6e9c7dd83952634f03-23" name="rest_code_2b89c528c6034e6e9c7dd83952634f03-23" href="#rest_code_2b89c528c6034e6e9c7dd83952634f03-23"></a><span class="nt">&lt;/Directory&gt;</span>
+<a id="rest_code_2b89c528c6034e6e9c7dd83952634f03-24" name="rest_code_2b89c528c6034e6e9c7dd83952634f03-24" href="#rest_code_2b89c528c6034e6e9c7dd83952634f03-24"></a>
+<a id="rest_code_2b89c528c6034e6e9c7dd83952634f03-25" name="rest_code_2b89c528c6034e6e9c7dd83952634f03-25" href="#rest_code_2b89c528c6034e6e9c7dd83952634f03-25"></a><span class="c"># handler propio:</span>
+<a id="rest_code_2b89c528c6034e6e9c7dd83952634f03-26" name="rest_code_2b89c528c6034e6e9c7dd83952634f03-26" href="#rest_code_2b89c528c6034e6e9c7dd83952634f03-26"></a><span class="c">#  se ejecuta el archivo myscript.py función handler(req)</span>
+<a id="rest_code_2b89c528c6034e6e9c7dd83952634f03-27" name="rest_code_2b89c528c6034e6e9c7dd83952634f03-27" href="#rest_code_2b89c528c6034e6e9c7dd83952634f03-27"></a><span class="nt">&lt;Directory</span><span class="w"> </span><span class="s">/mywebdir</span><span class="nt">&gt;</span>
+<a id="rest_code_2b89c528c6034e6e9c7dd83952634f03-28" name="rest_code_2b89c528c6034e6e9c7dd83952634f03-28" href="#rest_code_2b89c528c6034e6e9c7dd83952634f03-28"></a><span class="w">     </span><span class="nb">AddHandler</span><span class="w"> </span>mod_python<span class="w"> </span>.py
+<a id="rest_code_2b89c528c6034e6e9c7dd83952634f03-29" name="rest_code_2b89c528c6034e6e9c7dd83952634f03-29" href="#rest_code_2b89c528c6034e6e9c7dd83952634f03-29"></a><span class="w">     </span><span class="nb">PythonHandler</span><span class="w"> </span>myscript
+<a id="rest_code_2b89c528c6034e6e9c7dd83952634f03-30" name="rest_code_2b89c528c6034e6e9c7dd83952634f03-30" href="#rest_code_2b89c528c6034e6e9c7dd83952634f03-30"></a><span class="w">     </span><span class="nb">PythonDebug</span><span class="w"> </span><span class="k">On</span>
+<a id="rest_code_2b89c528c6034e6e9c7dd83952634f03-31" name="rest_code_2b89c528c6034e6e9c7dd83952634f03-31" href="#rest_code_2b89c528c6034e6e9c7dd83952634f03-31"></a><span class="nt">&lt;/Directory&gt;</span>
+</pre></div>
+<p>Para configurar una aplicación wsgi en mod_python:</p>
+<div class="code"><pre class="code apacheconf"><a id="rest_code_3331d5971da54942a271fb7039024c49-1" name="rest_code_3331d5971da54942a271fb7039024c49-1" href="#rest_code_3331d5971da54942a271fb7039024c49-1"></a><span class="nb">SetHandler</span><span class="w"> </span>python-program
+<a id="rest_code_3331d5971da54942a271fb7039024c49-2" name="rest_code_3331d5971da54942a271fb7039024c49-2" href="#rest_code_3331d5971da54942a271fb7039024c49-2"></a><span class="nb">PythonHandler</span><span class="w"> </span>modpython_gateway::handler
+<a id="rest_code_3331d5971da54942a271fb7039024c49-3" name="rest_code_3331d5971da54942a271fb7039024c49-3" href="#rest_code_3331d5971da54942a271fb7039024c49-3"></a><span class="nb">PythonOption</span><span class="w"> </span>wsgi.application<span class="w"> </span>app::WSGIApp
+<a id="rest_code_3331d5971da54942a271fb7039024c49-4" name="rest_code_3331d5971da54942a271fb7039024c49-4" href="#rest_code_3331d5971da54942a271fb7039024c49-4"></a><span class="nb">PythonPath</span><span class="w"> </span><span class="s2">"['C:/Archivos de programa/Apache Software Foundation/Apache2.2/htdocs/app'] + sys.path"</span>
+<a id="rest_code_3331d5971da54942a271fb7039024c49-5" name="rest_code_3331d5971da54942a271fb7039024c49-5" href="#rest_code_3331d5971da54942a271fb7039024c49-5"></a><span class="nb">PythonOption</span><span class="w"> </span>SCRIPT_NAME<span class="w"> </span><span class="sx">/app</span>
+</pre></div>
+<p>Descripción:</p>
+<ul class="simple">
+<li><p>Se habilita el handler propio</p></li>
+<li><p>Se establece el handler a ejecutar (en este caso, el wrapper wsgi)</p></li>
+<li><p>Se especifican las opciones de la aplicación wsgi (app es el nombre de archivo, WSGIApp es el punto de entrada)</p></li>
+<li><p>Se agrega el script de la aplicación al path para poder ejecutarla</p></li>
+<li><p>Se establece el nombre del script a mostrar (sino, en ocasiones, apache puede informar mal o de manera distinta el nombre de script con problemas en el ruteo de urls)</p></li>
+</ul></section><section id="configuracion-apache-mod-wsgi"><h2>Configuración apache + mod_wsgi</h2>
+<p>Para usar WSGI directamente desde apache, existe mod_wsgi, que es un módulo mas reciente, totalmente codificado en C para una mejor performance y estabilidad, que simplifica y resuelve las carencias de mod_python:</p>
+<p>Ejemplo 1: ejecutar en el mismo proceso que apache (no independiente, estilo mod_python/php/etc.). En este caso se mapea la url /app al script wsgi app.py:</p>
+<div class="code"><pre class="code apacheconf"><a id="rest_code_59d12afd9d07475493b53caeab708ea0-1" name="rest_code_59d12afd9d07475493b53caeab708ea0-1" href="#rest_code_59d12afd9d07475493b53caeab708ea0-1"></a><span class="nb">WSGIScriptAlias</span><span class="w"> </span><span class="sx">/app</span><span class="w"> </span><span class="sx">/usr/local/apache/app.py</span>
+</pre></div>
+<p>Ejemplo 2: ejecutar en un proceso (interprete) independiente con un usuario arbitrario diferente de apache (estilo FastCGI, mejorando seguridad y performance):</p>
+<div class="code"><pre class="code apacheconf"><a id="rest_code_e59e6ba2186f44798458e56a1bfee58d-1" name="rest_code_e59e6ba2186f44798458e56a1bfee58d-1" href="#rest_code_e59e6ba2186f44798458e56a1bfee58d-1"></a><span class="nb">WSGIDaemonProcess</span><span class="w"> </span>site-1<span class="w"> </span><span class="k">user</span>=trac<span class="w"> </span><span class="k">group</span>=trac<span class="w"> </span>threads=25
+<a id="rest_code_e59e6ba2186f44798458e56a1bfee58d-2" name="rest_code_e59e6ba2186f44798458e56a1bfee58d-2" href="#rest_code_e59e6ba2186f44798458e56a1bfee58d-2"></a><span class="nb">WSGIScriptAlias</span><span class="w"> </span><span class="sx">/site-1</span><span class="w"> </span><span class="sx">/usr/local/apache/app.py</span>
+<a id="rest_code_e59e6ba2186f44798458e56a1bfee58d-3" name="rest_code_e59e6ba2186f44798458e56a1bfee58d-3" href="#rest_code_e59e6ba2186f44798458e56a1bfee58d-3"></a><span class="nt">&lt;Directory</span><span class="w"> </span><span class="s">/usr/local/apache</span><span class="nt">&gt;</span>
+<a id="rest_code_e59e6ba2186f44798458e56a1bfee58d-4" name="rest_code_e59e6ba2186f44798458e56a1bfee58d-4" href="#rest_code_e59e6ba2186f44798458e56a1bfee58d-4"></a><span class="nb">WSGIProcessGroup</span><span class="w"> </span>site-1
+<a id="rest_code_e59e6ba2186f44798458e56a1bfee58d-5" name="rest_code_e59e6ba2186f44798458e56a1bfee58d-5" href="#rest_code_e59e6ba2186f44798458e56a1bfee58d-5"></a><span class="nb">WSGIApplicationGroup</span><span class="w"> </span>%{GLOBAL}
+<a id="rest_code_e59e6ba2186f44798458e56a1bfee58d-6" name="rest_code_e59e6ba2186f44798458e56a1bfee58d-6" href="#rest_code_e59e6ba2186f44798458e56a1bfee58d-6"></a><span class="nt">&lt;/Directory&gt;</span>
+</pre></div>
+</section><section id="configuracion-lighttpd-wsgi"><h2>Configuración lighttpd + wsgi</h2>
+<ul class="simple">
+<li><p><a class="reference external" href="http://cleverdevil.org/computing/24/python-fastcgi-wsgi-and-lighttpd">http://cleverdevil.org/computing/24/python-fastcgi-wsgi-and-lighttpd</a></p></li>
+<li><p><a class="reference external" href="http://svn.saddi.com/py-lib/trunk/fcgi.py">http://svn.saddi.com/py-lib/trunk/fcgi.py</a> (en realidad es un handler FastCGI compatible con WSGI)</p></li>
+</ul></section><section id="ejemplo-avanzado"><h2>Ejemplo "avanzado"</h2>
+<p>Con respecto a la diferencia con PHP/PSP, la mayoría de las aplicaciones web en python tienen un solo punto de entrada (un solo .py), que funciona como "despachador", dependiendo de que url te piden, se llama a una función o a otra (generalmente se usa la variable de entorno SCRIPT_NAME o similar, o directamente usar cherrypy, django, turbogears, etc., para que ruteen las peticiones a las clases/funciones que correspondan)</p>
+<p>Ejemplo muy simple con WSGI:</p>
+<div class="code"><pre class="code python"><a id="rest_code_66d09692e92b4d36b4b260d138516785-1" name="rest_code_66d09692e92b4d36b4b260d138516785-1" href="#rest_code_66d09692e92b4d36b4b260d138516785-1"></a><span class="k">def</span> <span class="nf">App</span><span class="p">(</span><span class="n">environ</span><span class="p">,</span> <span class="n">start_response</span><span class="p">):</span>
+<a id="rest_code_66d09692e92b4d36b4b260d138516785-2" name="rest_code_66d09692e92b4d36b4b260d138516785-2" href="#rest_code_66d09692e92b4d36b4b260d138516785-2"></a>        <span class="s2">"Punto de entrada WSGI"</span>
+<a id="rest_code_66d09692e92b4d36b4b260d138516785-3" name="rest_code_66d09692e92b4d36b4b260d138516785-3" href="#rest_code_66d09692e92b4d36b4b260d138516785-3"></a>        <span class="k">if</span> <span class="n">environ</span><span class="p">[</span><span class="s1">'SCRIPT_NAME'</span><span class="p">]</span><span class="o">.</span><span class="n">endswith</span><span class="p">(</span><span class="s2">"xxxx"</span><span class="p">):</span>
+<a id="rest_code_66d09692e92b4d36b4b260d138516785-4" name="rest_code_66d09692e92b4d36b4b260d138516785-4" href="#rest_code_66d09692e92b4d36b4b260d138516785-4"></a>                <span class="n">respuesta_html</span> <span class="o">=</span> <span class="n">xxxx</span><span class="p">(</span><span class="n">environ</span><span class="p">)</span>
+<a id="rest_code_66d09692e92b4d36b4b260d138516785-5" name="rest_code_66d09692e92b4d36b4b260d138516785-5" href="#rest_code_66d09692e92b4d36b4b260d138516785-5"></a>        <span class="k">elif</span> <span class="n">environ</span><span class="p">[</span><span class="s1">'SCRIPT_NAME'</span><span class="p">]</span><span class="o">.</span><span class="n">endswith</span><span class="p">(</span><span class="s2">"yyyy"</span><span class="p">):</span>
+<a id="rest_code_66d09692e92b4d36b4b260d138516785-6" name="rest_code_66d09692e92b4d36b4b260d138516785-6" href="#rest_code_66d09692e92b4d36b4b260d138516785-6"></a>                <span class="n">respuesta_html</span> <span class="o">=</span> <span class="n">yyyy</span><span class="p">(</span><span class="n">environ</span><span class="p">)</span>
+<a id="rest_code_66d09692e92b4d36b4b260d138516785-7" name="rest_code_66d09692e92b4d36b4b260d138516785-7" href="#rest_code_66d09692e92b4d36b4b260d138516785-7"></a>        <span class="k">else</span><span class="p">:</span>
+<a id="rest_code_66d09692e92b4d36b4b260d138516785-8" name="rest_code_66d09692e92b4d36b4b260d138516785-8" href="#rest_code_66d09692e92b4d36b4b260d138516785-8"></a>                <span class="n">respuesta_html</span> <span class="o">=</span> <span class="s2">"&lt;html&gt;&lt;body&gt;&lt;p&gt;la url es</span>
+<a id="rest_code_66d09692e92b4d36b4b260d138516785-9" name="rest_code_66d09692e92b4d36b4b260d138516785-9" href="#rest_code_66d09692e92b4d36b4b260d138516785-9"></a><span class="n">inválida</span><span class="err">!</span><span class="o">&lt;/</span><span class="n">p</span><span class="o">&gt;&lt;/</span><span class="n">body</span><span class="o">&gt;&lt;/</span><span class="n">html</span><span class="o">&gt;</span><span class="s2">"</span>
+<a id="rest_code_66d09692e92b4d36b4b260d138516785-10" name="rest_code_66d09692e92b4d36b4b260d138516785-10" href="#rest_code_66d09692e92b4d36b4b260d138516785-10"></a>        <span class="n">start_response</span> <span class="p">(</span><span class="s2">"200 Ok"</span><span class="p">,</span> <span class="p">[(</span><span class="s1">'Content-Type'</span><span class="p">,</span><span class="s1">'text/html'</span><span class="p">)])</span>
+<a id="rest_code_66d09692e92b4d36b4b260d138516785-11" name="rest_code_66d09692e92b4d36b4b260d138516785-11" href="#rest_code_66d09692e92b4d36b4b260d138516785-11"></a>        <span class="k">yield</span> <span class="n">respuesta_html</span>
+</pre></div>
+<p>Entonces, si te llaman www.tuservidor.com/aplicacion/xxxx haces una cosa (xxxx), mientras que si llaman a www.tuservidor.com/aplicacion/yyyy haces otra (yyyy). En comparación con php/psp, sería como llamar a www.tuservidor.com/aplicacion.psp?funcion=xxxx o www.tuservidor.com/aplicacion.psp?funcion=yyyy.</p>
+<p>Esto es un poco mas difícil de entender, pero a la larga es mas flexible porque  no te limita a tener un archivo (estructura "física") para cada dirección  (estructura "lógica"), limpiando un poco la url de extensiones .py, signos  de interrogación, etc. , haciéndolas mas fáciles de entender para el  usuario.</p>
+<!-- ############################################################################ -->
+</section>
+</div>    
+</div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+            <script src="../assets/js/jquery.min.js"></script><script src="../assets/js/popper.min.js"></script><script src="../assets/js/bootstrap.min.js"></script><script src="../assets/js/baguetteBox.min.js"></script><script src="../assets/js/pyar.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>

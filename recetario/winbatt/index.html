@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html prefix="
+og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>WinBatt (ctypes + powrprof.dll en win) | Python Argentina Wiki</title>
+<link href="../../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/bootblog.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../../rss.xml">
+<link rel="canonical" href="https://wiki.python.org.ar/recetario/winbatt/">
+<!--[if lt IE 9]><script src="../../assets/js/html5.js"></script><![endif]--><meta name="author" content="Python Argentina">
+<meta property="og:site_name" content="Python Argentina Wiki">
+<meta property="og:title" content="WinBatt (ctypes + powrprof.dll en win)">
+<meta property="og:url" content="https://wiki.python.org.ar/recetario/winbatt/">
+<meta property="og:description" content="Descripción
+Esta receta es un ejemplo de cómo utilizar funciones nativas de las bibliotecas de Windows desde Python (usando ctypes).
+Por ejemplo, en este caso se usa para consultar el estado de la bat">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
+
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../pyar/"><span class="quienes_somos"></span>Nosotros</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../foro_y_redes/"><span class="navbar_lista_de_correo"></span>Foro</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../../"><span class="wiki"></span>Wiki</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/noticias/"><span class="news"></span>Noticias</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/irc/"><span class="irc"></span>IRC</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/eventos/"><span class="eventos"></span>Eventos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://planeta.python.org.ar/"><span class="pyar"></span>Planeta</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/trabajo/"><span class="jobs"></span>Trabajos</a>
+                </li>
+            </ul>
+</div>
+    </nav>
+</div>
+
+<!-- Header and menu bar -->
+<div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        
+<div class="col-lg-12">
+    <div class="page-header">
+        <div class="pull-right">
+            <a href="https://github.com/PyAr/wiki/blob/master/pages/recetario/winbatt.rst" id="sourcelink" class="nav-link">Editar</a>
+        </div>
+        <h2>Winbatt (Ctypes + Powrprof.dll En Win)</h2>
+    </div>
+    <div class="e-content entry-content" itemprop="articleBody text">
+    <section id="descripcion"><h2>Descripción</h2>
+<p>Esta receta es un ejemplo de cómo utilizar funciones nativas de las bibliotecas de Windows desde Python (usando <a class="reference external" href="http://docs.python.org/2/library/ctypes.html">ctypes</a>).</p>
+<p>Por ejemplo, en este caso se usa para consultar el estado de la batería (carga en Wh y tiempos estimados, consumo de energía en Watts, etc.) usando la función  <a class="reference external" href="http://msdn.microsoft.com/en-us/library/windows/desktop/aa372675(v=vs.85).aspx">CallNtPowerInformation</a> de la biblioteca de windows PowrProf.lib (PowrProf.dll).  También se ilustra cómo usar estructuras de C en python para llamar a funciones externas.</p>
+<p>Es necesario tener una versión de Python con ctypes y estar sobre windows.</p>
+</section><section id="ejemplo"><h2>Ejemplo:</h2>
+<p>El ejemplo en Python (winbatt.py) registra un objeto python MiMiniInterpretePython, exponiendo:</p>
+<ul class="simple">
+<li><p>carga la biblioteca ´powrprof.dll´</p></li>
+<li><p>define la constante SystemBatteryState (InformationLevel) de POWER_INFORMATION_LEVEL</p></li>
+<li><p>define la estructura <a class="reference external" href="http://msdn.microsoft.com/en-us/library/windows/desktop/aa373212(v=vs.85).aspx">SYSTEM_BATTERY_STATE</a></p></li>
+<li><p>inicializa la estructura en blanco</p></li>
+<li><p>llama a la función <a class="reference external" href="http://msdn.microsoft.com/en-us/library/windows/desktop/aa372675(v=vs.85).aspx">CallNtPowerInformation</a></p></li>
+<li><p>imprime los resultados</p></li>
+</ul>
+<p>Archivo winbatt.py</p>
+<div class="code"><pre class="code python"><a id="rest_code_cf0e37bc05894286a72f343bf32f0f53-1" name="rest_code_cf0e37bc05894286a72f343bf32f0f53-1" href="#rest_code_cf0e37bc05894286a72f343bf32f0f53-1"></a><span class="c1"># -*- coding: iso-8859-1 -*-</span>
+<a id="rest_code_cf0e37bc05894286a72f343bf32f0f53-2" name="rest_code_cf0e37bc05894286a72f343bf32f0f53-2" href="#rest_code_cf0e37bc05894286a72f343bf32f0f53-2"></a>
+<a id="rest_code_cf0e37bc05894286a72f343bf32f0f53-3" name="rest_code_cf0e37bc05894286a72f343bf32f0f53-3" href="#rest_code_cf0e37bc05894286a72f343bf32f0f53-3"></a><span class="kn">import</span> <span class="nn">ctypes</span>
+<a id="rest_code_cf0e37bc05894286a72f343bf32f0f53-4" name="rest_code_cf0e37bc05894286a72f343bf32f0f53-4" href="#rest_code_cf0e37bc05894286a72f343bf32f0f53-4"></a>
+<a id="rest_code_cf0e37bc05894286a72f343bf32f0f53-5" name="rest_code_cf0e37bc05894286a72f343bf32f0f53-5" href="#rest_code_cf0e37bc05894286a72f343bf32f0f53-5"></a><span class="n">l</span> <span class="o">=</span> <span class="n">ctypes</span><span class="o">.</span><span class="n">cdll</span><span class="o">.</span><span class="n">LoadLibrary</span><span class="p">(</span><span class="s2">"powrprof"</span><span class="p">)</span>
+<a id="rest_code_cf0e37bc05894286a72f343bf32f0f53-6" name="rest_code_cf0e37bc05894286a72f343bf32f0f53-6" href="#rest_code_cf0e37bc05894286a72f343bf32f0f53-6"></a>
+<a id="rest_code_cf0e37bc05894286a72f343bf32f0f53-7" name="rest_code_cf0e37bc05894286a72f343bf32f0f53-7" href="#rest_code_cf0e37bc05894286a72f343bf32f0f53-7"></a><span class="n">SystemBatteryState</span> <span class="o">=</span> <span class="mi">5</span>  <span class="c1"># POWER_INFORMATION_LEVEL enum</span>
+<a id="rest_code_cf0e37bc05894286a72f343bf32f0f53-8" name="rest_code_cf0e37bc05894286a72f343bf32f0f53-8" href="#rest_code_cf0e37bc05894286a72f343bf32f0f53-8"></a>
+<a id="rest_code_cf0e37bc05894286a72f343bf32f0f53-9" name="rest_code_cf0e37bc05894286a72f343bf32f0f53-9" href="#rest_code_cf0e37bc05894286a72f343bf32f0f53-9"></a><span class="k">class</span> <span class="nc">SYSTEM_BATTERY_STATE</span><span class="p">(</span><span class="n">ctypes</span><span class="o">.</span><span class="n">Structure</span><span class="p">):</span>
+<a id="rest_code_cf0e37bc05894286a72f343bf32f0f53-10" name="rest_code_cf0e37bc05894286a72f343bf32f0f53-10" href="#rest_code_cf0e37bc05894286a72f343bf32f0f53-10"></a>    <span class="n">_fields_</span> <span class="o">=</span> <span class="p">[</span>
+<a id="rest_code_cf0e37bc05894286a72f343bf32f0f53-11" name="rest_code_cf0e37bc05894286a72f343bf32f0f53-11" href="#rest_code_cf0e37bc05894286a72f343bf32f0f53-11"></a>                <span class="p">(</span><span class="s2">"AcOnLine"</span><span class="p">,</span> <span class="n">ctypes</span><span class="o">.</span><span class="n">c_bool</span><span class="p">),</span>
+<a id="rest_code_cf0e37bc05894286a72f343bf32f0f53-12" name="rest_code_cf0e37bc05894286a72f343bf32f0f53-12" href="#rest_code_cf0e37bc05894286a72f343bf32f0f53-12"></a>                <span class="p">(</span><span class="s2">"BatteryPresent"</span><span class="p">,</span> <span class="n">ctypes</span><span class="o">.</span><span class="n">c_bool</span><span class="p">),</span>
+<a id="rest_code_cf0e37bc05894286a72f343bf32f0f53-13" name="rest_code_cf0e37bc05894286a72f343bf32f0f53-13" href="#rest_code_cf0e37bc05894286a72f343bf32f0f53-13"></a>                <span class="p">(</span><span class="s2">"Charging"</span><span class="p">,</span> <span class="n">ctypes</span><span class="o">.</span><span class="n">c_bool</span><span class="p">),</span>
+<a id="rest_code_cf0e37bc05894286a72f343bf32f0f53-14" name="rest_code_cf0e37bc05894286a72f343bf32f0f53-14" href="#rest_code_cf0e37bc05894286a72f343bf32f0f53-14"></a>                <span class="p">(</span><span class="s2">"Discharging"</span><span class="p">,</span> <span class="n">ctypes</span><span class="o">.</span><span class="n">c_bool</span><span class="p">),</span>
+<a id="rest_code_cf0e37bc05894286a72f343bf32f0f53-15" name="rest_code_cf0e37bc05894286a72f343bf32f0f53-15" href="#rest_code_cf0e37bc05894286a72f343bf32f0f53-15"></a>                <span class="p">(</span><span class="s2">"Spare1"</span><span class="p">,</span> <span class="n">ctypes</span><span class="o">.</span><span class="n">c_bool</span> <span class="o">*</span> <span class="mi">4</span><span class="p">),</span>
+<a id="rest_code_cf0e37bc05894286a72f343bf32f0f53-16" name="rest_code_cf0e37bc05894286a72f343bf32f0f53-16" href="#rest_code_cf0e37bc05894286a72f343bf32f0f53-16"></a>                <span class="p">(</span><span class="s2">"MaxCapacity"</span><span class="p">,</span> <span class="n">ctypes</span><span class="o">.</span><span class="n">c_long</span><span class="p">),</span>
+<a id="rest_code_cf0e37bc05894286a72f343bf32f0f53-17" name="rest_code_cf0e37bc05894286a72f343bf32f0f53-17" href="#rest_code_cf0e37bc05894286a72f343bf32f0f53-17"></a>                <span class="p">(</span><span class="s2">"RemainingCapacity"</span><span class="p">,</span> <span class="n">ctypes</span><span class="o">.</span><span class="n">c_long</span><span class="p">),</span>
+<a id="rest_code_cf0e37bc05894286a72f343bf32f0f53-18" name="rest_code_cf0e37bc05894286a72f343bf32f0f53-18" href="#rest_code_cf0e37bc05894286a72f343bf32f0f53-18"></a>                <span class="p">(</span><span class="s2">"Rate"</span><span class="p">,</span> <span class="n">ctypes</span><span class="o">.</span><span class="n">c_long</span><span class="p">),</span>
+<a id="rest_code_cf0e37bc05894286a72f343bf32f0f53-19" name="rest_code_cf0e37bc05894286a72f343bf32f0f53-19" href="#rest_code_cf0e37bc05894286a72f343bf32f0f53-19"></a>                <span class="p">(</span><span class="s2">"EstimatedTime"</span><span class="p">,</span> <span class="n">ctypes</span><span class="o">.</span><span class="n">c_long</span><span class="p">),</span>
+<a id="rest_code_cf0e37bc05894286a72f343bf32f0f53-20" name="rest_code_cf0e37bc05894286a72f343bf32f0f53-20" href="#rest_code_cf0e37bc05894286a72f343bf32f0f53-20"></a>                <span class="p">(</span><span class="s2">"DefaultAlert1"</span><span class="p">,</span> <span class="n">ctypes</span><span class="o">.</span><span class="n">c_long</span><span class="p">),</span>
+<a id="rest_code_cf0e37bc05894286a72f343bf32f0f53-21" name="rest_code_cf0e37bc05894286a72f343bf32f0f53-21" href="#rest_code_cf0e37bc05894286a72f343bf32f0f53-21"></a>                <span class="p">(</span><span class="s2">"DefaultAlert2"</span><span class="p">,</span> <span class="n">ctypes</span><span class="o">.</span><span class="n">c_long</span><span class="p">),</span>
+<a id="rest_code_cf0e37bc05894286a72f343bf32f0f53-22" name="rest_code_cf0e37bc05894286a72f343bf32f0f53-22" href="#rest_code_cf0e37bc05894286a72f343bf32f0f53-22"></a>                <span class="p">]</span>
+<a id="rest_code_cf0e37bc05894286a72f343bf32f0f53-23" name="rest_code_cf0e37bc05894286a72f343bf32f0f53-23" href="#rest_code_cf0e37bc05894286a72f343bf32f0f53-23"></a>
+<a id="rest_code_cf0e37bc05894286a72f343bf32f0f53-24" name="rest_code_cf0e37bc05894286a72f343bf32f0f53-24" href="#rest_code_cf0e37bc05894286a72f343bf32f0f53-24"></a>
+<a id="rest_code_cf0e37bc05894286a72f343bf32f0f53-25" name="rest_code_cf0e37bc05894286a72f343bf32f0f53-25" href="#rest_code_cf0e37bc05894286a72f343bf32f0f53-25"></a><span class="n">sb</span> <span class="o">=</span> <span class="n">SYSTEM_BATTERY_STATE</span><span class="p">(</span><span class="mi">0</span><span class="p">)</span>
+<a id="rest_code_cf0e37bc05894286a72f343bf32f0f53-26" name="rest_code_cf0e37bc05894286a72f343bf32f0f53-26" href="#rest_code_cf0e37bc05894286a72f343bf32f0f53-26"></a><span class="n">retval</span> <span class="o">=</span> <span class="n">l</span><span class="o">.</span><span class="n">CallNtPowerInformation</span><span class="p">(</span><span class="n">SystemBatteryState</span><span class="p">,</span>
+<a id="rest_code_cf0e37bc05894286a72f343bf32f0f53-27" name="rest_code_cf0e37bc05894286a72f343bf32f0f53-27" href="#rest_code_cf0e37bc05894286a72f343bf32f0f53-27"></a>                                  <span class="kc">None</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span>
+<a id="rest_code_cf0e37bc05894286a72f343bf32f0f53-28" name="rest_code_cf0e37bc05894286a72f343bf32f0f53-28" href="#rest_code_cf0e37bc05894286a72f343bf32f0f53-28"></a>                                  <span class="n">ctypes</span><span class="o">.</span><span class="n">addressof</span><span class="p">(</span><span class="n">sb</span><span class="p">),</span> <span class="n">ctypes</span><span class="o">.</span><span class="n">sizeof</span><span class="p">(</span><span class="n">sb</span><span class="p">))</span>
+<a id="rest_code_cf0e37bc05894286a72f343bf32f0f53-29" name="rest_code_cf0e37bc05894286a72f343bf32f0f53-29" href="#rest_code_cf0e37bc05894286a72f343bf32f0f53-29"></a><span class="k">assert</span> <span class="n">retval</span> <span class="o">==</span> <span class="mi">0</span>  <span class="c1"># debe devolver 0 si no hay error</span>
+<a id="rest_code_cf0e37bc05894286a72f343bf32f0f53-30" name="rest_code_cf0e37bc05894286a72f343bf32f0f53-30" href="#rest_code_cf0e37bc05894286a72f343bf32f0f53-30"></a><span class="nb">print</span> <span class="s2">"AcOnLine:"</span><span class="p">,</span> <span class="n">sb</span><span class="o">.</span><span class="n">AcOnLine</span>
+<a id="rest_code_cf0e37bc05894286a72f343bf32f0f53-31" name="rest_code_cf0e37bc05894286a72f343bf32f0f53-31" href="#rest_code_cf0e37bc05894286a72f343bf32f0f53-31"></a><span class="nb">print</span> <span class="s2">"Charging:"</span><span class="p">,</span> <span class="n">sb</span><span class="o">.</span><span class="n">Charging</span>
+<a id="rest_code_cf0e37bc05894286a72f343bf32f0f53-32" name="rest_code_cf0e37bc05894286a72f343bf32f0f53-32" href="#rest_code_cf0e37bc05894286a72f343bf32f0f53-32"></a><span class="nb">print</span> <span class="s2">"Discharging:"</span><span class="p">,</span> <span class="n">sb</span><span class="o">.</span><span class="n">Discharging</span>
+<a id="rest_code_cf0e37bc05894286a72f343bf32f0f53-33" name="rest_code_cf0e37bc05894286a72f343bf32f0f53-33" href="#rest_code_cf0e37bc05894286a72f343bf32f0f53-33"></a><span class="nb">print</span> <span class="s2">"Capacity:"</span><span class="p">,</span> <span class="n">sb</span><span class="o">.</span><span class="n">MaxCapacity</span><span class="p">,</span> <span class="s2">"mWh max"</span><span class="p">,</span> <span class="n">sb</span><span class="o">.</span><span class="n">RemainingCapacity</span><span class="p">,</span> <span class="s2">"mWh remaining"</span><span class="p">,</span>
+<a id="rest_code_cf0e37bc05894286a72f343bf32f0f53-34" name="rest_code_cf0e37bc05894286a72f343bf32f0f53-34" href="#rest_code_cf0e37bc05894286a72f343bf32f0f53-34"></a><span class="nb">print</span> <span class="n">sb</span><span class="o">.</span><span class="n">RemainingCapacity</span><span class="o">*</span><span class="mi">100</span><span class="o">/</span><span class="n">sb</span><span class="o">.</span><span class="n">MaxCapacity</span><span class="p">,</span> <span class="s2">"%"</span>
+<a id="rest_code_cf0e37bc05894286a72f343bf32f0f53-35" name="rest_code_cf0e37bc05894286a72f343bf32f0f53-35" href="#rest_code_cf0e37bc05894286a72f343bf32f0f53-35"></a><span class="nb">print</span> <span class="s2">"Rate:"</span><span class="p">,</span> <span class="n">sb</span><span class="o">.</span><span class="n">Rate</span> <span class="o">/</span> <span class="mf">1000.0</span><span class="p">,</span> <span class="s2">"W"</span>
+<a id="rest_code_cf0e37bc05894286a72f343bf32f0f53-36" name="rest_code_cf0e37bc05894286a72f343bf32f0f53-36" href="#rest_code_cf0e37bc05894286a72f343bf32f0f53-36"></a><span class="nb">print</span> <span class="s2">"Estimated Time:"</span><span class="p">,</span> <span class="n">sb</span><span class="o">.</span><span class="n">EstimatedTime</span> <span class="o">/</span> <span class="mi">3600</span><span class="p">,</span> <span class="s2">"h"</span><span class="p">,</span> <span class="n">sb</span><span class="o">.</span><span class="n">EstimatedTime</span> <span class="o">/</span> <span class="mi">60</span> <span class="o">%</span> <span class="mi">60</span><span class="p">,</span> <span class="s2">"min"</span>
+</pre></div>
+<p>Para usarlo se puede ejecutar desde línea de comando:</p>
+<div class="code"><pre class="code console"><a id="rest_code_28fa786ecb504397865749d068d0f0a0-1" name="rest_code_28fa786ecb504397865749d068d0f0a0-1" href="#rest_code_28fa786ecb504397865749d068d0f0a0-1"></a><span class="go">C:\src&gt;python winbatt.py</span>
+<a id="rest_code_28fa786ecb504397865749d068d0f0a0-2" name="rest_code_28fa786ecb504397865749d068d0f0a0-2" href="#rest_code_28fa786ecb504397865749d068d0f0a0-2"></a><span class="go">AcOnLine: False</span>
+<a id="rest_code_28fa786ecb504397865749d068d0f0a0-3" name="rest_code_28fa786ecb504397865749d068d0f0a0-3" href="#rest_code_28fa786ecb504397865749d068d0f0a0-3"></a><span class="go">Charging: False</span>
+<a id="rest_code_28fa786ecb504397865749d068d0f0a0-4" name="rest_code_28fa786ecb504397865749d068d0f0a0-4" href="#rest_code_28fa786ecb504397865749d068d0f0a0-4"></a><span class="go">Discharging: True</span>
+<a id="rest_code_28fa786ecb504397865749d068d0f0a0-5" name="rest_code_28fa786ecb504397865749d068d0f0a0-5" href="#rest_code_28fa786ecb504397865749d068d0f0a0-5"></a><span class="go">Capacity: 45140 mWh max 5417 mWh remaining 12 %</span>
+<a id="rest_code_28fa786ecb504397865749d068d0f0a0-6" name="rest_code_28fa786ecb504397865749d068d0f0a0-6" href="#rest_code_28fa786ecb504397865749d068d0f0a0-6"></a><span class="go">Rate: -9.435 W</span>
+<a id="rest_code_28fa786ecb504397865749d068d0f0a0-7" name="rest_code_28fa786ecb504397865749d068d0f0a0-7" href="#rest_code_28fa786ecb504397865749d068d0f0a0-7"></a><span class="go">Estimated Time: 0 h 34 min</span>
+</pre></div>
+<p>Para Descargar Fuentes:</p>
+</section><section id="autor-autores"><h2>Autor / Autores:</h2>
+<p><a class="reference external" href="../../marianoreingart">MarianoReingart</a></p>
+<!-- ############################################################################ -->
+</section>
+</div>    
+</div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+            <script src="../../assets/js/jquery.min.js"></script><script src="../../assets/js/popper.min.js"></script><script src="../../assets/js/bootstrap.min.js"></script><script src="../../assets/js/baguetteBox.min.js"></script><script src="../../assets/js/pyar.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>

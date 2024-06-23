@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html prefix="
+og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Xdg-Sudo | Python Argentina Wiki</title>
+<link href="../../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/bootblog.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../../rss.xml">
+<link rel="canonical" href="https://wiki.python.org.ar/recetario/xdg-sudo/">
+<!--[if lt IE 9]><script src="../../assets/js/html5.js"></script><![endif]--><meta name="author" content="Python Argentina">
+<meta property="og:site_name" content="Python Argentina Wiki">
+<meta property="og:title" content="Xdg-Sudo">
+<meta property="og:url" content="https://wiki.python.org.ar/recetario/xdg-sudo/">
+<meta property="og:description" content="El sudo gráfico universal para escritorios GTK/QT/loquesea, inspirado en el funcionamiento de xdg-open.
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# Licence: GPLv3
+# xdg-sudo: Automatically choose ">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
+
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../pyar/"><span class="quienes_somos"></span>Nosotros</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../foro_y_redes/"><span class="navbar_lista_de_correo"></span>Foro</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../../"><span class="wiki"></span>Wiki</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/noticias/"><span class="news"></span>Noticias</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/irc/"><span class="irc"></span>IRC</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/eventos/"><span class="eventos"></span>Eventos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://planeta.python.org.ar/"><span class="pyar"></span>Planeta</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/trabajo/"><span class="jobs"></span>Trabajos</a>
+                </li>
+            </ul>
+</div>
+    </nav>
+</div>
+
+<!-- Header and menu bar -->
+<div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        
+<div class="col-lg-12">
+    <div class="page-header">
+        <div class="pull-right">
+            <a href="https://github.com/PyAr/wiki/blob/master/pages/recetario/xdg-sudo.rst" id="sourcelink" class="nav-link">Editar</a>
+        </div>
+        <h2>Xdg-Sudo</h2>
+    </div>
+    <div class="e-content entry-content" itemprop="articleBody text">
+    <p>El sudo gráfico universal para escritorios GTK/QT/loquesea, inspirado en el funcionamiento de xdg-open.</p>
+<div class="code"><pre class="code python"><a id="rest_code_6e255b287ea546458c3308e8bd5e833c-1" name="rest_code_6e255b287ea546458c3308e8bd5e833c-1" href="#rest_code_6e255b287ea546458c3308e8bd5e833c-1"></a><span class="ch">#!/usr/bin/env python</span>
+<a id="rest_code_6e255b287ea546458c3308e8bd5e833c-2" name="rest_code_6e255b287ea546458c3308e8bd5e833c-2" href="#rest_code_6e255b287ea546458c3308e8bd5e833c-2"></a><span class="c1"># -*- coding: utf-8 -*-</span>
+<a id="rest_code_6e255b287ea546458c3308e8bd5e833c-3" name="rest_code_6e255b287ea546458c3308e8bd5e833c-3" href="#rest_code_6e255b287ea546458c3308e8bd5e833c-3"></a><span class="c1"># Licence: GPLv3</span>
+<a id="rest_code_6e255b287ea546458c3308e8bd5e833c-4" name="rest_code_6e255b287ea546458c3308e8bd5e833c-4" href="#rest_code_6e255b287ea546458c3308e8bd5e833c-4"></a><span class="c1"># xdg-sudo: Automatically choose "gksudo" or "kdesudo"</span>
+<a id="rest_code_6e255b287ea546458c3308e8bd5e833c-5" name="rest_code_6e255b287ea546458c3308e8bd5e833c-5" href="#rest_code_6e255b287ea546458c3308e8bd5e833c-5"></a><span class="kn">import</span> <span class="nn">os</span>
+<a id="rest_code_6e255b287ea546458c3308e8bd5e833c-6" name="rest_code_6e255b287ea546458c3308e8bd5e833c-6" href="#rest_code_6e255b287ea546458c3308e8bd5e833c-6"></a><span class="kn">import</span> <span class="nn">sys</span>
+<a id="rest_code_6e255b287ea546458c3308e8bd5e833c-7" name="rest_code_6e255b287ea546458c3308e8bd5e833c-7" href="#rest_code_6e255b287ea546458c3308e8bd5e833c-7"></a><span class="c1">#import antigravity</span>
+<a id="rest_code_6e255b287ea546458c3308e8bd5e833c-8" name="rest_code_6e255b287ea546458c3308e8bd5e833c-8" href="#rest_code_6e255b287ea546458c3308e8bd5e833c-8"></a><span class="kn">import</span> <span class="nn">subprocess</span>
+<a id="rest_code_6e255b287ea546458c3308e8bd5e833c-9" name="rest_code_6e255b287ea546458c3308e8bd5e833c-9" href="#rest_code_6e255b287ea546458c3308e8bd5e833c-9"></a><span class="kn">import</span> <span class="nn">re</span>
+<a id="rest_code_6e255b287ea546458c3308e8bd5e833c-10" name="rest_code_6e255b287ea546458c3308e8bd5e833c-10" href="#rest_code_6e255b287ea546458c3308e8bd5e833c-10"></a><span class="k">if</span> <span class="n">os</span><span class="o">.</span><span class="n">geteuid</span><span class="p">()</span><span class="o">==</span><span class="mi">0</span><span class="p">:</span> <span class="c1"># non-root check, because if you are root, all this is pointless</span>
+<a id="rest_code_6e255b287ea546458c3308e8bd5e833c-11" name="rest_code_6e255b287ea546458c3308e8bd5e833c-11" href="#rest_code_6e255b287ea546458c3308e8bd5e833c-11"></a>    <span class="n">sys</span><span class="o">.</span><span class="n">exit</span><span class="p">(</span><span class="s2">" ERROR: Do not run as root...</span><span class="se">\n</span><span class="s2">"</span><span class="p">)</span>
+<a id="rest_code_6e255b287ea546458c3308e8bd5e833c-12" name="rest_code_6e255b287ea546458c3308e8bd5e833c-12" href="#rest_code_6e255b287ea546458c3308e8bd5e833c-12"></a><span class="k">else</span><span class="p">:</span>
+<a id="rest_code_6e255b287ea546458c3308e8bd5e833c-13" name="rest_code_6e255b287ea546458c3308e8bd5e833c-13" href="#rest_code_6e255b287ea546458c3308e8bd5e833c-13"></a>    <span class="nb">print</span> <span class="p">(</span><span class="s2">" You are normal user... </span><span class="se">\n</span><span class="s2">"</span><span class="p">)</span>
+<a id="rest_code_6e255b287ea546458c3308e8bd5e833c-14" name="rest_code_6e255b287ea546458c3308e8bd5e833c-14" href="#rest_code_6e255b287ea546458c3308e8bd5e833c-14"></a><span class="c1"># Prepare actual command to execute</span>
+<a id="rest_code_6e255b287ea546458c3308e8bd5e833c-15" name="rest_code_6e255b287ea546458c3308e8bd5e833c-15" href="#rest_code_6e255b287ea546458c3308e8bd5e833c-15"></a><span class="n">parameters</span> <span class="o">=</span> <span class="s2">" "</span><span class="o">.</span><span class="n">join</span><span class="p">([</span><span class="n">re</span><span class="o">.</span><span class="n">escape</span><span class="p">(</span><span class="n">a</span><span class="p">)</span> <span class="k">for</span> <span class="n">a</span> <span class="ow">in</span> <span class="n">sys</span><span class="o">.</span><span class="n">argv</span><span class="p">[</span><span class="mi">1</span><span class="p">:]])</span>
+<a id="rest_code_6e255b287ea546458c3308e8bd5e833c-16" name="rest_code_6e255b287ea546458c3308e8bd5e833c-16" href="#rest_code_6e255b287ea546458c3308e8bd5e833c-16"></a><span class="c1"># Test which tools exist</span>
+<a id="rest_code_6e255b287ea546458c3308e8bd5e833c-17" name="rest_code_6e255b287ea546458c3308e8bd5e833c-17" href="#rest_code_6e255b287ea546458c3308e8bd5e833c-17"></a><span class="n">kdesudo</span> <span class="o">=</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">exists</span><span class="p">(</span><span class="s1">'/usr/bin/kdesudo'</span><span class="p">)</span>
+<a id="rest_code_6e255b287ea546458c3308e8bd5e833c-18" name="rest_code_6e255b287ea546458c3308e8bd5e833c-18" href="#rest_code_6e255b287ea546458c3308e8bd5e833c-18"></a><span class="n">gtksudo</span> <span class="o">=</span> <span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">exists</span><span class="p">(</span><span class="s1">'/usr/bin/gksudo'</span><span class="p">)</span>
+<a id="rest_code_6e255b287ea546458c3308e8bd5e833c-19" name="rest_code_6e255b287ea546458c3308e8bd5e833c-19" href="#rest_code_6e255b287ea546458c3308e8bd5e833c-19"></a><span class="c1"># If we have at least one of them, check which one to use.</span>
+<a id="rest_code_6e255b287ea546458c3308e8bd5e833c-20" name="rest_code_6e255b287ea546458c3308e8bd5e833c-20" href="#rest_code_6e255b287ea546458c3308e8bd5e833c-20"></a><span class="k">if</span> <span class="n">kdesudo</span> <span class="ow">or</span> <span class="n">gtksudo</span><span class="p">:</span>
+<a id="rest_code_6e255b287ea546458c3308e8bd5e833c-21" name="rest_code_6e255b287ea546458c3308e8bd5e833c-21" href="#rest_code_6e255b287ea546458c3308e8bd5e833c-21"></a>    <span class="k">if</span> <span class="n">kdesudo</span> <span class="ow">and</span> <span class="n">gtksudo</span><span class="p">:</span>
+<a id="rest_code_6e255b287ea546458c3308e8bd5e833c-22" name="rest_code_6e255b287ea546458c3308e8bd5e833c-22" href="#rest_code_6e255b287ea546458c3308e8bd5e833c-22"></a>        <span class="c1"># Test if gnome runs</span>
+<a id="rest_code_6e255b287ea546458c3308e8bd5e833c-23" name="rest_code_6e255b287ea546458c3308e8bd5e833c-23" href="#rest_code_6e255b287ea546458c3308e8bd5e833c-23"></a>        <span class="n">process</span> <span class="o">=</span> <span class="n">subprocess</span><span class="o">.</span><span class="n">Popen</span><span class="p">(</span><span class="s2">"ps -ae | grep gnome-session"</span><span class="p">,</span> <span class="n">shell</span><span class="o">=</span><span class="kc">True</span><span class="p">,</span> <span class="n">stdout</span><span class="o">=</span><span class="n">subprocess</span><span class="o">.</span><span class="n">PIPE</span><span class="p">)</span>
+<a id="rest_code_6e255b287ea546458c3308e8bd5e833c-24" name="rest_code_6e255b287ea546458c3308e8bd5e833c-24" href="#rest_code_6e255b287ea546458c3308e8bd5e833c-24"></a>        <span class="n">process</span><span class="o">.</span><span class="n">wait</span><span class="p">()</span>
+<a id="rest_code_6e255b287ea546458c3308e8bd5e833c-25" name="rest_code_6e255b287ea546458c3308e8bd5e833c-25" href="#rest_code_6e255b287ea546458c3308e8bd5e833c-25"></a>        <span class="k">if</span> <span class="nb">len</span><span class="p">(</span><span class="n">process</span><span class="o">.</span><span class="n">communicate</span><span class="p">()[</span><span class="mi">0</span><span class="p">])</span><span class="o">&gt;</span><span class="mi">0</span><span class="p">:</span>
+<a id="rest_code_6e255b287ea546458c3308e8bd5e833c-26" name="rest_code_6e255b287ea546458c3308e8bd5e833c-26" href="#rest_code_6e255b287ea546458c3308e8bd5e833c-26"></a>            <span class="n">useGnome</span> <span class="o">=</span> <span class="kc">True</span>
+<a id="rest_code_6e255b287ea546458c3308e8bd5e833c-27" name="rest_code_6e255b287ea546458c3308e8bd5e833c-27" href="#rest_code_6e255b287ea546458c3308e8bd5e833c-27"></a>        <span class="k">else</span><span class="p">:</span>
+<a id="rest_code_6e255b287ea546458c3308e8bd5e833c-28" name="rest_code_6e255b287ea546458c3308e8bd5e833c-28" href="#rest_code_6e255b287ea546458c3308e8bd5e833c-28"></a>            <span class="n">useGnome</span> <span class="o">=</span> <span class="kc">False</span>
+<a id="rest_code_6e255b287ea546458c3308e8bd5e833c-29" name="rest_code_6e255b287ea546458c3308e8bd5e833c-29" href="#rest_code_6e255b287ea546458c3308e8bd5e833c-29"></a>    <span class="k">elif</span> <span class="n">kdesudo</span> <span class="ow">and</span> <span class="p">(</span><span class="ow">not</span> <span class="n">gtksudo</span><span class="p">):</span>
+<a id="rest_code_6e255b287ea546458c3308e8bd5e833c-30" name="rest_code_6e255b287ea546458c3308e8bd5e833c-30" href="#rest_code_6e255b287ea546458c3308e8bd5e833c-30"></a>        <span class="n">useGnome</span> <span class="o">=</span> <span class="kc">False</span>
+<a id="rest_code_6e255b287ea546458c3308e8bd5e833c-31" name="rest_code_6e255b287ea546458c3308e8bd5e833c-31" href="#rest_code_6e255b287ea546458c3308e8bd5e833c-31"></a>    <span class="k">elif</span> <span class="p">(</span><span class="ow">not</span> <span class="n">kdesudo</span><span class="p">)</span> <span class="ow">and</span> <span class="n">gtksudo</span><span class="p">:</span>
+<a id="rest_code_6e255b287ea546458c3308e8bd5e833c-32" name="rest_code_6e255b287ea546458c3308e8bd5e833c-32" href="#rest_code_6e255b287ea546458c3308e8bd5e833c-32"></a>        <span class="n">useGnome</span> <span class="o">=</span> <span class="kc">True</span>
+<a id="rest_code_6e255b287ea546458c3308e8bd5e833c-33" name="rest_code_6e255b287ea546458c3308e8bd5e833c-33" href="#rest_code_6e255b287ea546458c3308e8bd5e833c-33"></a>    <span class="c1"># really run it</span>
+<a id="rest_code_6e255b287ea546458c3308e8bd5e833c-34" name="rest_code_6e255b287ea546458c3308e8bd5e833c-34" href="#rest_code_6e255b287ea546458c3308e8bd5e833c-34"></a>    <span class="k">if</span> <span class="n">useGnome</span><span class="p">:</span>
+<a id="rest_code_6e255b287ea546458c3308e8bd5e833c-35" name="rest_code_6e255b287ea546458c3308e8bd5e833c-35" href="#rest_code_6e255b287ea546458c3308e8bd5e833c-35"></a>        <span class="n">cmd</span> <span class="o">=</span> <span class="s2">"gksudo "</span>
+<a id="rest_code_6e255b287ea546458c3308e8bd5e833c-36" name="rest_code_6e255b287ea546458c3308e8bd5e833c-36" href="#rest_code_6e255b287ea546458c3308e8bd5e833c-36"></a>    <span class="k">else</span><span class="p">:</span>
+<a id="rest_code_6e255b287ea546458c3308e8bd5e833c-37" name="rest_code_6e255b287ea546458c3308e8bd5e833c-37" href="#rest_code_6e255b287ea546458c3308e8bd5e833c-37"></a>        <span class="n">cmd</span> <span class="o">=</span> <span class="s2">"kdesudo "</span>
+<a id="rest_code_6e255b287ea546458c3308e8bd5e833c-38" name="rest_code_6e255b287ea546458c3308e8bd5e833c-38" href="#rest_code_6e255b287ea546458c3308e8bd5e833c-38"></a>    <span class="c1"># Run the actual program now</span>
+<a id="rest_code_6e255b287ea546458c3308e8bd5e833c-39" name="rest_code_6e255b287ea546458c3308e8bd5e833c-39" href="#rest_code_6e255b287ea546458c3308e8bd5e833c-39"></a>    <span class="n">os</span><span class="o">.</span><span class="n">system</span><span class="p">(</span><span class="n">cmd</span><span class="o">+</span><span class="n">parameters</span><span class="p">)</span>
+<a id="rest_code_6e255b287ea546458c3308e8bd5e833c-40" name="rest_code_6e255b287ea546458c3308e8bd5e833c-40" href="#rest_code_6e255b287ea546458c3308e8bd5e833c-40"></a><span class="k">else</span><span class="p">:</span>
+<a id="rest_code_6e255b287ea546458c3308e8bd5e833c-41" name="rest_code_6e255b287ea546458c3308e8bd5e833c-41" href="#rest_code_6e255b287ea546458c3308e8bd5e833c-41"></a>    <span class="c1"># we dont have gksudo or kdesudo, OMFG!</span>
+<a id="rest_code_6e255b287ea546458c3308e8bd5e833c-42" name="rest_code_6e255b287ea546458c3308e8bd5e833c-42" href="#rest_code_6e255b287ea546458c3308e8bd5e833c-42"></a>    <span class="n">cmd</span> <span class="o">=</span> <span class="s2">"xterm -e </span><span class="se">\"</span><span class="s2">echo 'Neither </span><span class="se">\\\"</span><span class="s2">gksudo</span><span class="se">\\\"</span><span class="s2"> nor </span><span class="se">\\\"</span><span class="s2">kdesudo</span><span class="se">\\\"</span><span class="s2"> have been found on your machine. Thus, </span><span class="se">\\\"</span><span class="s2">sudo</span><span class="se">\\\"</span><span class="s2"> is being used. Please leave this window open until the program has finished. Your are asked for your password below.'; sudo "</span><span class="o">+</span><span class="n">parameters</span><span class="o">+</span><span class="s2">"; sleep 1</span><span class="se">\"</span><span class="s2">"</span>
+<a id="rest_code_6e255b287ea546458c3308e8bd5e833c-43" name="rest_code_6e255b287ea546458c3308e8bd5e833c-43" href="#rest_code_6e255b287ea546458c3308e8bd5e833c-43"></a>    <span class="n">os</span><span class="o">.</span><span class="n">system</span><span class="p">(</span><span class="n">cmd</span><span class="p">)</span>
+</pre></div>
+<p><em>Disclaimer: el uso o no de SheBang/Declaracion de Encoding queda a criterio del usuario.</em></p>
+    </div>    
+</div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+            <script src="../../assets/js/jquery.min.js"></script><script src="../../assets/js/popper.min.js"></script><script src="../../assets/js/bootstrap.min.js"></script><script src="../../assets/js/baguetteBox.min.js"></script><script src="../../assets/js/pyar.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>

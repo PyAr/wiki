@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html prefix="
+og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Interfaces Gráficas (GUI) | Python Argentina Wiki</title>
+<link href="../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/bootblog.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../rss.xml">
+<link rel="canonical" href="https://wiki.python.org.ar/interfacesgraficas/">
+<!--[if lt IE 9]><script src="../assets/js/html5.js"></script><![endif]--><meta name="author" content="Python Argentina">
+<meta property="og:site_name" content="Python Argentina Wiki">
+<meta property="og:title" content="Interfaces Gráficas (GUI)">
+<meta property="og:url" content="https://wiki.python.org.ar/interfacesgraficas/">
+<meta property="og:description" content="Advertencia: Esta página esta basada (en parte) en opiniones y experiencias personales de distintas personas. YMMV
+Existen varias librerías que implementan interfaces gráficas de usuario (GUI) en pyth">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
+
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../pyar/"><span class="quienes_somos"></span>Nosotros</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../foro_y_redes/"><span class="navbar_lista_de_correo"></span>Foro</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../"><span class="wiki"></span>Wiki</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/noticias/"><span class="news"></span>Noticias</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/irc/"><span class="irc"></span>IRC</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/eventos/"><span class="eventos"></span>Eventos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://planeta.python.org.ar/"><span class="pyar"></span>Planeta</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/trabajo/"><span class="jobs"></span>Trabajos</a>
+                </li>
+            </ul>
+</div>
+    </nav>
+</div>
+
+<!-- Header and menu bar -->
+<div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        
+<div class="col-lg-12">
+    <div class="page-header">
+        <div class="pull-right">
+            <a href="https://github.com/PyAr/wiki/blob/master/pages/interfacesgraficas.rst" id="sourcelink" class="nav-link">Editar</a>
+        </div>
+        <h2>Interfaces Gráficas (Gui)</h2>
+    </div>
+    <div class="e-content entry-content" itemprop="articleBody text">
+    <p><strong>Advertencia</strong>: Esta página esta basada (en parte) en opiniones y experiencias personales de distintas personas. YMMV</p>
+<p>Existen varias librerías que implementan interfaces gráficas de usuario (GUI) en python, las principales son:</p>
+<ul class="simple">
+<li><p>Tkinter: Basada en las librerías gráficas TCL/TK, interfaz "de-facto" (<a class="reference external" href="../interfacesgraficas#1">#1</a>) preinstalada con python, es la generalmente recomendada para proyectos triviales y/o de aprendizaje.</p></li>
+<li><p>WxPython: Basada en WxWidgets (una libreria multiplataforma C/C++), "bendecida" (<a class="reference external" href="../interfacesgraficas#2">#2</a>) como la "más pitónica" por GvR (creador de Python), y sería la interface por defecto si no hubiese existido TK en primer lugar.</p></li>
+<li><p>PyQT: basado en la libreria C++ QT (KDE)</p></li>
+<li><p>PyGTK: basado en la libreria C GTK (GNOME)</p></li>
+</ul>
+<section id="tabla-comparativa"><h2>Tabla comparativa</h2>
+<table>
+<thead><tr>
+<th class="head"><p>Caracteristica</p></th>
+<th class="head"><p>Tkinter</p></th>
+<th class="head"><p>WxPython</p></th>
+<th class="head"><p>PyQT</p></th>
+<th class="head"><p>PyGTK</p></th>
+</tr></thead>
+<tbody>
+<tr>
+<td><p>Portabilidad</p></td>
+<td><p>Windows/Linux/Mac</p></td>
+<td><p>Windows, Linux (GTK+/X11/Motif), Mac OS X</p></td>
+<td><p>Windows, Linux, Mac OS X</p></td>
+<td><p>Windows, Linux, Mac OS X (via servidor de X)</p></td>
+</tr>
+<tr>
+<td><p>Apariencia</p></td>
+<td><p>"alien" en todos</p></td>
+<td><p>nativa en todos</p></td>
+<td><p>nativa en linux y windows</p></td>
+<td><p>nativa en linux</p></td>
+</tr>
+<tr>
+<td><p>Orientación/Influencias</p></td>
+<td><p>Motif</p></td>
+<td><p>Windows</p></td>
+<td><p>KDE</p></td>
+<td><p>GNOME</p></td>
+</tr>
+<tr>
+<td><p>Diseñador "Visual"</p></td>
+<td><p>GUI Builder (Komodo)</p></td>
+<td><p><a class="reference external" href="http://wxformbuilder">http://wxformbuilder</a>.org|wxFormBuilder/wxGlade/XRCed</p></td>
+<td><p>QT Designer</p></td>
+<td><p>Glade, Gazpacho</p></td>
+</tr>
+<tr>
+<td><p>IDEs Python</p></td>
+<td><p>IDLE</p></td>
+<td><p>SPE, BoaConstructor, DrPython</p></td>
+<td><p>Eric4</p></td>
+<td><p>??</p></td>
+</tr>
+<tr>
+<td><p>Formato XML</p></td>
+<td><p>No</p></td>
+<td><p>sí (XRC incorporado)</p></td>
+<td><p>??</p></td>
+<td><p>sí (vía libglade antes, GTKBuilder ahora)</p></td>
+</tr>
+<tr>
+<td><p>Otras facilidades</p></td>
+<td><p>??</p></td>
+<td><p>soporte para imagenes (BMP, PNG, JPG, etc.), visualización e impresión de HTML, clipboard y drag and drop, ayuda en linea, libreria de graficación de objetos ("vectoriales"), OpenGL, texto enriquecido (RTF) y "estilizado" (STC), programación en red, flujos, multitarea, bases de datos, unicode, gizmos varios, animaciones y multimedia</p></td>
+<td><p>hilos, control de procesos en segundo plano, renderización de svg, definición de aspectos estéticos de la GUI con CSS, personalización de la app en js, sockets, acceso a base de datos, pareso de XML, OpenGL</p></td>
+<td><p>Pango (texto multilingual), Cairo (gráficos 2D), ATK (accesibilidad)</p></td>
+</tr>
+<tr>
+<td><p>Documentación</p></td>
+<td><p>Excelente</p></td>
+<td><p>Buena</p></td>
+<td><p>Regular</p></td>
+<td><p>Limitada</p></td>
+</tr>
+<tr>
+<td><p>Ejemplos</p></td>
+<td><p>??</p></td>
+<td><p>Excelente (200 simples y 10 complejos)</p></td>
+<td><p>Bueno (20 simples y 20 complejos)</p></td>
+<td><p>??</p></td>
+</tr>
+<tr>
+<td><p>Licencia</p></td>
+<td><p>PSFL</p></td>
+<td><p>LGPL</p></td>
+<td><p>GPL (o <a class="reference external" href="http://www.pyside">http://www.pyside</a>.org|PySide que es LGPL)</p></td>
+<td><p>LGPL</p></td>
+</tr>
+</tbody>
+</table></section><section id="caracteristicas-comunes"><h2>Características comunes</h2>
+<ul class="simple">
+<li><p>Tamaño aprox. (instalador windows desarrollo): 15MB (excepto tkinter que viene preinstalado)</p></li>
+<li><p>Huella en memoria (footprint) de hello-word en windows: aproximadamente 20MB, excepto tkinter que es la mitad</p></li>
+</ul></section><section id="ventajas-y-desventajas"><h2>Ventajas y Desventajas</h2>
+<section id="tkinter"><h3>Tkinter</h3>
+<ul class="simple">
+<li>
+<p>Ventajas:</p>
+<ul>
+<li><p>Preinstalado con python en casi todas las plataformas</p></li>
+<li><p>Relativamente simple y fácil de aprender (recomendado para "aprendices")</p></li>
+<li><p>Documentación completa</p></li>
+</ul>
+</li>
+<li>
+<p>Desventajas:</p>
+<ul>
+<li><p>Pocos elementos gráficos (sin listados, arboles, etc.)</p></li>
+<li><p>Limitado control del comportamiento de la interface (recomendado para proyectos "triviales")</p></li>
+<li><p>Lento (dibuja cada botón, etiqueta, menú, etc.) **</p></li>
+<li><p>Apariencia "extraña" (no se parece a las aplicaciones nativas) **</p></li>
+</ul>
+</li>
+</ul>
+<p>Nota **: cabe aclarar que las ultimas versiones de TCL/TK mejoran varios de estos puntos, dibujando con las funciones nativas de la plataforma, lo que acelera y mejora la apariencia.</p>
+</section><section id="wxpython"><h3>WxPython</h3>
+<ul class="simple">
+<li>
+<p>Ventajas:</p>
+<ul>
+<li><p>Completo conjunto de elementos gráficos (listados, arboles, grillas, etc.)</p></li>
+<li><p>Flexible control del comportamiento de la interface</p></li>
+<li><p>Rápido y de Apariencia nativa (diseñado para utilizar funciones nativas de cada plataforma)</p></li>
+<li><p>"Baterias Incluidas": más de 12 librerias y utilitarios complementarios (ver comparación)</p></li>
+<li><p>Independencia: no esta orientado a ningún entorno, ni QT ni GTK, hay una capa mas que agrega un grado de libertad adicional</p></li>
+<li><p>No se cierra en el mínimo denominador común; soporta las características comunes de Windows, y las emula en Linux/Mac OS cuando no se pueden hacer nativamente (y viceversa).</p></li>
+<li><p>Es mas "pitónico", por ej. espacio de nombres mas claro, sin referencias a C/C++, etc.</p></li>
+<li><p>Permite separar completamente el diseño de la interface en XML del código python (XRC)</p></li>
+<li><p>Es fácil armar componentes personalizados, tanto que incorpora widgets que no están en wxWidgets mismo, ya que están escritos en Python (<a class="reference external" href="http://xoomer.virgilio.it/infinity77/main/freeware.html">AGW</a>).</p></li>
+<li><p>Documentación completa y ejemplos extensivos.</p></li>
+<li><p>Su lista oficial de usuarios (<a class="reference external" href="http://groups.google.com/group/wxpython-users">wxpython-users</a>) es <em>muy</em> activa y amigable, donde participan los desarrolladores principales del proyecto.</p></li>
+</ul>
+</li>
+<li>
+<p>Desventajas:</p>
+<ul>
+<li><p>No viene preinstalado con python, se debe instalar un paquete (wxPython en Windows y Mac OS,  wxWidgets+wxPython en Linux, aunque en este último caso está generalmente está fácilmente disponible en los repositorios).</p></li>
+<li><p>Relativamente mas complejo de aprender</p></li>
+<li><p>Al tener un desarrollo bastante rápido y sostenido, se liberan versiones frecuentemente, lo que en la práctica le confiere cierto nivel de "volatilidad" y problemas de compatibilidad si se deben mantener varias versiones de wx para el mismo código.</p></li>
+<li><p>Es una capa más sobre el toolkit gráfico que se usa debajo (ej: GTK).</p></li>
+<li><p>Las características emuladas de otras plataformas no siempre se ven bien.</p></li>
+<li><p>Hacer interfaces multiplataformas que se vean bien requiere conocimiento del toolkit subyacente (win32, gtk).</p></li>
+<li><p>En proyectos medianos/grandes, puede ser inestable y dificil de debuggear: en windows es muy facil segfaultear si se pasan parámetros incorrectos.</p></li>
+</ul>
+</li>
+</ul></section><section id="pyqt"><h3>PyQt</h3>
+<ul class="simple">
+<li>
+<p>Ventajas:</p>
+<ul>
+<li><p>Completo conjunto de elementos gráficos (listados, arboles, grillas, etc.)</p></li>
+<li><p>Flexible y potente control del comportamiento de la interface.  Posee un mecanismo de conexión de señales y eventos simple. Se puede definir los eventos más sencillos en diseñaodr de GUI's (ej: al pulsar este botón, borrar este campo de texto) y en el código python, definir las acciones más avanzadas.</p></li>
+<li><p>Rápido y de Apariencia nativa (las últimas versiones utilizan funciones nativas en windows)</p></li>
+<li><p>Se puede separar el diseño de la interface, pero usa un "compilador" pyuic para crear las clases python.</p></li>
+<li><p>Arquitectura opcional para Modelo/Vista para las tablas, listas y árboles.</p></li>
+</ul>
+</li>
+<li>
+<p>Desventajas:</p>
+<ul>
+<li><p>No viene preinstalado con python, se debe instalar por separado</p></li>
+<li><p>Relativamente mas complejo de aprender</p></li>
+<li><p>No del todo "pitónico". En ocasiones emerge la implentación en C++ subyacente, teniendo que hacer casts entre tipos de datos, etc. El prefijo Qt/Q (QtGUI, QWidget, QAplicattion) hace el código menos "pitónico"</p></li>
+<li><p>No hay mucha documentación específica a python, ya que es lenguaje en si no es demasiado considerado</p></li>
+</ul>
+</li>
+</ul></section><section id="pygtk"><h3>PyGTK</h3>
+<ul class="simple">
+<li>
+<p>Ventajas:</p>
+<ul>
+<li><p>Completo conjunto de elementos gráficos (listados, arboles, grillas, etc.)</p></li>
+<li><p>Flexible y potente control del comportamiento de la interface</p></li>
+<li><p>Enlace con PyOrbit para programar aplicaciones en GNOME</p></li>
+<li><p>Es estable, y los mensajes de error son correctos.</p></li>
+</ul>
+</li>
+<li>
+<p>Desventajas:</p>
+<ul>
+<li><p>No viene preinstalado con python, se debe instalar por separado</p></li>
+<li><p>Relativamente mas complejo de aprender</p></li>
+<li><p>Relativamente lento en Windows (dibuja cada botón, etiqueta, menú, etc.) lo que le da una Apariecia "extraña" (aunque es parecido a windows)</p></li>
+<li><p>En windows, es la librería que tiene mas dependencias y se instalan por separado.</p></li>
+<li><p>Aparentemente tiene la documentación mas precaria de todos</p></li>
+</ul>
+</li>
+</ul></section></section><section id="hello-world"><h2>Hello World</h2>
+<p><strong>Nota</strong>: para poder comparar, los ejemplos crean una aplicación, ventana y botón, con un evento.</p>
+<p>Hay mas ejemplos en el <a class="reference external" href="../recetario">recetario</a></p>
+<section id="tkinter-1"><h3>TkInter</h3>
+<div class="code"><pre class="code python"><a id="rest_code_0c82627090a54fe5900e96918cf575fa-1" name="rest_code_0c82627090a54fe5900e96918cf575fa-1" href="#rest_code_0c82627090a54fe5900e96918cf575fa-1"></a><span class="kn">from</span> <span class="nn">Tkinter</span> <span class="kn">import</span> <span class="o">*</span>
+<a id="rest_code_0c82627090a54fe5900e96918cf575fa-2" name="rest_code_0c82627090a54fe5900e96918cf575fa-2" href="#rest_code_0c82627090a54fe5900e96918cf575fa-2"></a>
+<a id="rest_code_0c82627090a54fe5900e96918cf575fa-3" name="rest_code_0c82627090a54fe5900e96918cf575fa-3" href="#rest_code_0c82627090a54fe5900e96918cf575fa-3"></a><span class="k">class</span> <span class="nc">App</span><span class="p">:</span>
+<a id="rest_code_0c82627090a54fe5900e96918cf575fa-4" name="rest_code_0c82627090a54fe5900e96918cf575fa-4" href="#rest_code_0c82627090a54fe5900e96918cf575fa-4"></a>    <span class="k">def</span> <span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">master</span><span class="p">):</span>
+<a id="rest_code_0c82627090a54fe5900e96918cf575fa-5" name="rest_code_0c82627090a54fe5900e96918cf575fa-5" href="#rest_code_0c82627090a54fe5900e96918cf575fa-5"></a>        <span class="n">frame</span> <span class="o">=</span> <span class="n">Frame</span><span class="p">(</span><span class="n">master</span><span class="p">)</span>
+<a id="rest_code_0c82627090a54fe5900e96918cf575fa-6" name="rest_code_0c82627090a54fe5900e96918cf575fa-6" href="#rest_code_0c82627090a54fe5900e96918cf575fa-6"></a>        <span class="n">frame</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+<a id="rest_code_0c82627090a54fe5900e96918cf575fa-7" name="rest_code_0c82627090a54fe5900e96918cf575fa-7" href="#rest_code_0c82627090a54fe5900e96918cf575fa-7"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">hi_there</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">frame</span><span class="p">,</span> <span class="n">text</span><span class="o">=</span><span class="s2">"Hola"</span><span class="p">,</span> <span class="n">command</span><span class="o">=</span><span class="bp">self</span><span class="o">.</span><span class="n">say_hi</span><span class="p">)</span>
+<a id="rest_code_0c82627090a54fe5900e96918cf575fa-8" name="rest_code_0c82627090a54fe5900e96918cf575fa-8" href="#rest_code_0c82627090a54fe5900e96918cf575fa-8"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">hi_there</span><span class="o">.</span><span class="n">pack</span><span class="p">(</span><span class="n">side</span><span class="o">=</span><span class="n">LEFT</span><span class="p">)</span>
+<a id="rest_code_0c82627090a54fe5900e96918cf575fa-9" name="rest_code_0c82627090a54fe5900e96918cf575fa-9" href="#rest_code_0c82627090a54fe5900e96918cf575fa-9"></a>    <span class="k">def</span> <span class="nf">say_hi</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+<a id="rest_code_0c82627090a54fe5900e96918cf575fa-10" name="rest_code_0c82627090a54fe5900e96918cf575fa-10" href="#rest_code_0c82627090a54fe5900e96918cf575fa-10"></a>        <span class="nb">print</span> <span class="s2">"hola todo el mundo!"</span>
+<a id="rest_code_0c82627090a54fe5900e96918cf575fa-11" name="rest_code_0c82627090a54fe5900e96918cf575fa-11" href="#rest_code_0c82627090a54fe5900e96918cf575fa-11"></a>
+<a id="rest_code_0c82627090a54fe5900e96918cf575fa-12" name="rest_code_0c82627090a54fe5900e96918cf575fa-12" href="#rest_code_0c82627090a54fe5900e96918cf575fa-12"></a><span class="n">root</span> <span class="o">=</span> <span class="n">Tk</span><span class="p">()</span>
+<a id="rest_code_0c82627090a54fe5900e96918cf575fa-13" name="rest_code_0c82627090a54fe5900e96918cf575fa-13" href="#rest_code_0c82627090a54fe5900e96918cf575fa-13"></a><span class="n">app</span> <span class="o">=</span> <span class="n">App</span><span class="p">(</span><span class="n">root</span><span class="p">)</span>
+<a id="rest_code_0c82627090a54fe5900e96918cf575fa-14" name="rest_code_0c82627090a54fe5900e96918cf575fa-14" href="#rest_code_0c82627090a54fe5900e96918cf575fa-14"></a><span class="n">root</span><span class="o">.</span><span class="n">mainloop</span><span class="p">()</span>
+</pre></div>
+</section><section id="wxpython-1"><h3>WxPython</h3>
+<div class="code"><pre class="code python"><a id="rest_code_03bf6ffe6e1a41da8dff8e0701379da5-1" name="rest_code_03bf6ffe6e1a41da8dff8e0701379da5-1" href="#rest_code_03bf6ffe6e1a41da8dff8e0701379da5-1"></a><span class="kn">import</span> <span class="nn">wx</span>
+<a id="rest_code_03bf6ffe6e1a41da8dff8e0701379da5-2" name="rest_code_03bf6ffe6e1a41da8dff8e0701379da5-2" href="#rest_code_03bf6ffe6e1a41da8dff8e0701379da5-2"></a><span class="k">class</span> <span class="nc">MyFrame</span><span class="p">(</span><span class="n">wx</span><span class="o">.</span><span class="n">Frame</span><span class="p">):</span>
+<a id="rest_code_03bf6ffe6e1a41da8dff8e0701379da5-3" name="rest_code_03bf6ffe6e1a41da8dff8e0701379da5-3" href="#rest_code_03bf6ffe6e1a41da8dff8e0701379da5-3"></a>    <span class="k">def</span> <span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">parent</span><span class="p">,</span> <span class="n">title</span><span class="p">):</span>
+<a id="rest_code_03bf6ffe6e1a41da8dff8e0701379da5-4" name="rest_code_03bf6ffe6e1a41da8dff8e0701379da5-4" href="#rest_code_03bf6ffe6e1a41da8dff8e0701379da5-4"></a>        <span class="n">wx</span><span class="o">.</span><span class="n">Frame</span><span class="o">.</span><span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">parent</span><span class="p">,</span> <span class="o">-</span><span class="mi">1</span><span class="p">,</span> <span class="n">title</span> <span class="p">)</span>
+<a id="rest_code_03bf6ffe6e1a41da8dff8e0701379da5-5" name="rest_code_03bf6ffe6e1a41da8dff8e0701379da5-5" href="#rest_code_03bf6ffe6e1a41da8dff8e0701379da5-5"></a>        <span class="n">btn</span> <span class="o">=</span> <span class="n">wx</span><span class="o">.</span><span class="n">Button</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="o">-</span><span class="mi">1</span><span class="p">,</span> <span class="s2">"Hola"</span><span class="p">)</span>
+<a id="rest_code_03bf6ffe6e1a41da8dff8e0701379da5-6" name="rest_code_03bf6ffe6e1a41da8dff8e0701379da5-6" href="#rest_code_03bf6ffe6e1a41da8dff8e0701379da5-6"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">Bind</span><span class="p">(</span><span class="n">wx</span><span class="o">.</span><span class="n">EVT_BUTTON</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">say_hello</span><span class="p">,</span> <span class="n">btn</span><span class="p">)</span>
+<a id="rest_code_03bf6ffe6e1a41da8dff8e0701379da5-7" name="rest_code_03bf6ffe6e1a41da8dff8e0701379da5-7" href="#rest_code_03bf6ffe6e1a41da8dff8e0701379da5-7"></a>
+<a id="rest_code_03bf6ffe6e1a41da8dff8e0701379da5-8" name="rest_code_03bf6ffe6e1a41da8dff8e0701379da5-8" href="#rest_code_03bf6ffe6e1a41da8dff8e0701379da5-8"></a>    <span class="k">def</span> <span class="nf">say_hello</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span><span class="o">*</span><span class="n">arg</span><span class="p">):</span>
+<a id="rest_code_03bf6ffe6e1a41da8dff8e0701379da5-9" name="rest_code_03bf6ffe6e1a41da8dff8e0701379da5-9" href="#rest_code_03bf6ffe6e1a41da8dff8e0701379da5-9"></a>        <span class="nb">print</span> <span class="s2">"hola todo el mundo!"</span>
+<a id="rest_code_03bf6ffe6e1a41da8dff8e0701379da5-10" name="rest_code_03bf6ffe6e1a41da8dff8e0701379da5-10" href="#rest_code_03bf6ffe6e1a41da8dff8e0701379da5-10"></a>
+<a id="rest_code_03bf6ffe6e1a41da8dff8e0701379da5-11" name="rest_code_03bf6ffe6e1a41da8dff8e0701379da5-11" href="#rest_code_03bf6ffe6e1a41da8dff8e0701379da5-11"></a><span class="k">class</span> <span class="nc">MyApp</span><span class="p">(</span><span class="n">wx</span><span class="o">.</span><span class="n">App</span><span class="p">):</span>
+<a id="rest_code_03bf6ffe6e1a41da8dff8e0701379da5-12" name="rest_code_03bf6ffe6e1a41da8dff8e0701379da5-12" href="#rest_code_03bf6ffe6e1a41da8dff8e0701379da5-12"></a>    <span class="k">def</span> <span class="nf">OnInit</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+<a id="rest_code_03bf6ffe6e1a41da8dff8e0701379da5-13" name="rest_code_03bf6ffe6e1a41da8dff8e0701379da5-13" href="#rest_code_03bf6ffe6e1a41da8dff8e0701379da5-13"></a>        <span class="n">frame</span> <span class="o">=</span> <span class="n">MyFrame</span><span class="p">(</span><span class="kc">None</span><span class="p">,</span> <span class="s2">"Simple wxPython App"</span><span class="p">)</span>
+<a id="rest_code_03bf6ffe6e1a41da8dff8e0701379da5-14" name="rest_code_03bf6ffe6e1a41da8dff8e0701379da5-14" href="#rest_code_03bf6ffe6e1a41da8dff8e0701379da5-14"></a>        <span class="n">frame</span><span class="o">.</span><span class="n">Show</span><span class="p">(</span><span class="kc">True</span><span class="p">)</span>
+<a id="rest_code_03bf6ffe6e1a41da8dff8e0701379da5-15" name="rest_code_03bf6ffe6e1a41da8dff8e0701379da5-15" href="#rest_code_03bf6ffe6e1a41da8dff8e0701379da5-15"></a>        <span class="k">return</span> <span class="kc">True</span>
+<a id="rest_code_03bf6ffe6e1a41da8dff8e0701379da5-16" name="rest_code_03bf6ffe6e1a41da8dff8e0701379da5-16" href="#rest_code_03bf6ffe6e1a41da8dff8e0701379da5-16"></a><span class="n">MyApp</span><span class="p">()</span><span class="o">.</span><span class="n">MainLoop</span><span class="p">()</span>
+</pre></div>
+</section><section id="pyqt-1"><h3>PyQt</h3>
+<div class="code"><pre class="code python"><a id="rest_code_382c5c0661cc4743be01e94f8570f7d4-1" name="rest_code_382c5c0661cc4743be01e94f8570f7d4-1" href="#rest_code_382c5c0661cc4743be01e94f8570f7d4-1"></a><span class="kn">from</span> <span class="nn">PyQt4</span> <span class="kn">import</span> <span class="n">QtCore</span><span class="p">,</span> <span class="n">QtGui</span>
+<a id="rest_code_382c5c0661cc4743be01e94f8570f7d4-2" name="rest_code_382c5c0661cc4743be01e94f8570f7d4-2" href="#rest_code_382c5c0661cc4743be01e94f8570f7d4-2"></a><span class="kn">import</span> <span class="nn">sys</span>
+<a id="rest_code_382c5c0661cc4743be01e94f8570f7d4-3" name="rest_code_382c5c0661cc4743be01e94f8570f7d4-3" href="#rest_code_382c5c0661cc4743be01e94f8570f7d4-3"></a>
+<a id="rest_code_382c5c0661cc4743be01e94f8570f7d4-4" name="rest_code_382c5c0661cc4743be01e94f8570f7d4-4" href="#rest_code_382c5c0661cc4743be01e94f8570f7d4-4"></a><span class="k">class</span> <span class="nc">MiVentana</span><span class="p">(</span><span class="n">QtGui</span><span class="o">.</span><span class="n">QWidget</span><span class="p">):</span>
+<a id="rest_code_382c5c0661cc4743be01e94f8570f7d4-5" name="rest_code_382c5c0661cc4743be01e94f8570f7d4-5" href="#rest_code_382c5c0661cc4743be01e94f8570f7d4-5"></a>    <span class="k">def</span> <span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">padre</span> <span class="o">=</span> <span class="kc">None</span><span class="p">):</span>
+<a id="rest_code_382c5c0661cc4743be01e94f8570f7d4-6" name="rest_code_382c5c0661cc4743be01e94f8570f7d4-6" href="#rest_code_382c5c0661cc4743be01e94f8570f7d4-6"></a>        <span class="nb">super</span><span class="p">(</span><span class="n">MiVentana</span><span class="p">,</span> <span class="bp">self</span><span class="p">)</span><span class="o">.</span><span class="fm">__init__</span><span class="p">(</span><span class="n">padre</span><span class="p">)</span>
+<a id="rest_code_382c5c0661cc4743be01e94f8570f7d4-7" name="rest_code_382c5c0661cc4743be01e94f8570f7d4-7" href="#rest_code_382c5c0661cc4743be01e94f8570f7d4-7"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">button</span> <span class="o">=</span> <span class="n">QtGui</span><span class="o">.</span><span class="n">QPushButton</span><span class="p">(</span><span class="s2">"Hola"</span><span class="p">,</span><span class="bp">self</span><span class="p">)</span>
+<a id="rest_code_382c5c0661cc4743be01e94f8570f7d4-8" name="rest_code_382c5c0661cc4743be01e94f8570f7d4-8" href="#rest_code_382c5c0661cc4743be01e94f8570f7d4-8"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">connect</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">button</span><span class="p">,</span> <span class="n">QtCore</span><span class="o">.</span><span class="n">SIGNAL</span><span class="p">(</span><span class="s2">"clicked()"</span><span class="p">),</span> <span class="bp">self</span><span class="o">.</span><span class="n">say_hello</span><span class="p">)</span>
+<a id="rest_code_382c5c0661cc4743be01e94f8570f7d4-9" name="rest_code_382c5c0661cc4743be01e94f8570f7d4-9" href="#rest_code_382c5c0661cc4743be01e94f8570f7d4-9"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
+<a id="rest_code_382c5c0661cc4743be01e94f8570f7d4-10" name="rest_code_382c5c0661cc4743be01e94f8570f7d4-10" href="#rest_code_382c5c0661cc4743be01e94f8570f7d4-10"></a>    <span class="k">def</span> <span class="nf">say_hello</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span><span class="o">**</span><span class="n">kwargs</span><span class="p">):</span>
+<a id="rest_code_382c5c0661cc4743be01e94f8570f7d4-11" name="rest_code_382c5c0661cc4743be01e94f8570f7d4-11" href="#rest_code_382c5c0661cc4743be01e94f8570f7d4-11"></a>        <span class="nb">print</span> <span class="s2">"hola mundo!"</span>
+<a id="rest_code_382c5c0661cc4743be01e94f8570f7d4-12" name="rest_code_382c5c0661cc4743be01e94f8570f7d4-12" href="#rest_code_382c5c0661cc4743be01e94f8570f7d4-12"></a>
+<a id="rest_code_382c5c0661cc4743be01e94f8570f7d4-13" name="rest_code_382c5c0661cc4743be01e94f8570f7d4-13" href="#rest_code_382c5c0661cc4743be01e94f8570f7d4-13"></a><span class="n">app</span> <span class="o">=</span> <span class="n">QtGui</span><span class="o">.</span><span class="n">QApplication</span><span class="p">(</span><span class="n">sys</span><span class="o">.</span><span class="n">argv</span><span class="p">)</span>
+<a id="rest_code_382c5c0661cc4743be01e94f8570f7d4-14" name="rest_code_382c5c0661cc4743be01e94f8570f7d4-14" href="#rest_code_382c5c0661cc4743be01e94f8570f7d4-14"></a><span class="n">v</span> <span class="o">=</span> <span class="n">MiVentana</span><span class="p">()</span>
+<a id="rest_code_382c5c0661cc4743be01e94f8570f7d4-15" name="rest_code_382c5c0661cc4743be01e94f8570f7d4-15" href="#rest_code_382c5c0661cc4743be01e94f8570f7d4-15"></a><span class="n">app</span><span class="o">.</span><span class="n">exec_</span><span class="p">()</span>
+</pre></div>
+</section><section id="pygtk-1"><h3>PyGTK</h3>
+<div class="code"><pre class="code python"><a id="rest_code_490704390ae74ec5a3cf10baacaa8989-1" name="rest_code_490704390ae74ec5a3cf10baacaa8989-1" href="#rest_code_490704390ae74ec5a3cf10baacaa8989-1"></a><span class="kn">import</span> <span class="nn">pygtk</span>
+<a id="rest_code_490704390ae74ec5a3cf10baacaa8989-2" name="rest_code_490704390ae74ec5a3cf10baacaa8989-2" href="#rest_code_490704390ae74ec5a3cf10baacaa8989-2"></a><span class="n">pygtk</span><span class="o">.</span><span class="n">require</span><span class="p">(</span><span class="s1">'2.0'</span><span class="p">)</span>
+<a id="rest_code_490704390ae74ec5a3cf10baacaa8989-3" name="rest_code_490704390ae74ec5a3cf10baacaa8989-3" href="#rest_code_490704390ae74ec5a3cf10baacaa8989-3"></a><span class="kn">import</span> <span class="nn">gtk</span>
+<a id="rest_code_490704390ae74ec5a3cf10baacaa8989-4" name="rest_code_490704390ae74ec5a3cf10baacaa8989-4" href="#rest_code_490704390ae74ec5a3cf10baacaa8989-4"></a>
+<a id="rest_code_490704390ae74ec5a3cf10baacaa8989-5" name="rest_code_490704390ae74ec5a3cf10baacaa8989-5" href="#rest_code_490704390ae74ec5a3cf10baacaa8989-5"></a><span class="k">class</span> <span class="nc">HelloWorld</span><span class="p">:</span>
+<a id="rest_code_490704390ae74ec5a3cf10baacaa8989-6" name="rest_code_490704390ae74ec5a3cf10baacaa8989-6" href="#rest_code_490704390ae74ec5a3cf10baacaa8989-6"></a>    <span class="k">def</span> <span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+<a id="rest_code_490704390ae74ec5a3cf10baacaa8989-7" name="rest_code_490704390ae74ec5a3cf10baacaa8989-7" href="#rest_code_490704390ae74ec5a3cf10baacaa8989-7"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">window</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">Window</span><span class="p">(</span><span class="n">gtk</span><span class="o">.</span><span class="n">WINDOW_TOPLEVEL</span><span class="p">)</span>
+<a id="rest_code_490704390ae74ec5a3cf10baacaa8989-8" name="rest_code_490704390ae74ec5a3cf10baacaa8989-8" href="#rest_code_490704390ae74ec5a3cf10baacaa8989-8"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">button</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">Button</span><span class="p">(</span><span class="s2">"Hello World"</span><span class="p">)</span>
+<a id="rest_code_490704390ae74ec5a3cf10baacaa8989-9" name="rest_code_490704390ae74ec5a3cf10baacaa8989-9" href="#rest_code_490704390ae74ec5a3cf10baacaa8989-9"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">button</span><span class="o">.</span><span class="n">connect</span><span class="p">(</span><span class="s2">"clicked"</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">say_hello</span><span class="p">,</span> <span class="kc">None</span><span class="p">)</span>
+<a id="rest_code_490704390ae74ec5a3cf10baacaa8989-10" name="rest_code_490704390ae74ec5a3cf10baacaa8989-10" href="#rest_code_490704390ae74ec5a3cf10baacaa8989-10"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">window</span><span class="o">.</span><span class="n">add</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">button</span><span class="p">)</span>
+<a id="rest_code_490704390ae74ec5a3cf10baacaa8989-11" name="rest_code_490704390ae74ec5a3cf10baacaa8989-11" href="#rest_code_490704390ae74ec5a3cf10baacaa8989-11"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">button</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
+<a id="rest_code_490704390ae74ec5a3cf10baacaa8989-12" name="rest_code_490704390ae74ec5a3cf10baacaa8989-12" href="#rest_code_490704390ae74ec5a3cf10baacaa8989-12"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">window</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
+<a id="rest_code_490704390ae74ec5a3cf10baacaa8989-13" name="rest_code_490704390ae74ec5a3cf10baacaa8989-13" href="#rest_code_490704390ae74ec5a3cf10baacaa8989-13"></a>
+<a id="rest_code_490704390ae74ec5a3cf10baacaa8989-14" name="rest_code_490704390ae74ec5a3cf10baacaa8989-14" href="#rest_code_490704390ae74ec5a3cf10baacaa8989-14"></a>    <span class="k">def</span> <span class="nf">main</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+<a id="rest_code_490704390ae74ec5a3cf10baacaa8989-15" name="rest_code_490704390ae74ec5a3cf10baacaa8989-15" href="#rest_code_490704390ae74ec5a3cf10baacaa8989-15"></a>        <span class="n">gtk</span><span class="o">.</span><span class="n">main</span><span class="p">()</span>
+<a id="rest_code_490704390ae74ec5a3cf10baacaa8989-16" name="rest_code_490704390ae74ec5a3cf10baacaa8989-16" href="#rest_code_490704390ae74ec5a3cf10baacaa8989-16"></a>
+<a id="rest_code_490704390ae74ec5a3cf10baacaa8989-17" name="rest_code_490704390ae74ec5a3cf10baacaa8989-17" href="#rest_code_490704390ae74ec5a3cf10baacaa8989-17"></a>    <span class="k">def</span> <span class="nf">say_hello</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">widget</span><span class="p">,</span> <span class="n">data</span><span class="o">=</span><span class="kc">None</span><span class="p">):</span>
+<a id="rest_code_490704390ae74ec5a3cf10baacaa8989-18" name="rest_code_490704390ae74ec5a3cf10baacaa8989-18" href="#rest_code_490704390ae74ec5a3cf10baacaa8989-18"></a>        <span class="nb">print</span> <span class="s2">"Hello World"</span>
+<a id="rest_code_490704390ae74ec5a3cf10baacaa8989-19" name="rest_code_490704390ae74ec5a3cf10baacaa8989-19" href="#rest_code_490704390ae74ec5a3cf10baacaa8989-19"></a>
+<a id="rest_code_490704390ae74ec5a3cf10baacaa8989-20" name="rest_code_490704390ae74ec5a3cf10baacaa8989-20" href="#rest_code_490704390ae74ec5a3cf10baacaa8989-20"></a>
+<a id="rest_code_490704390ae74ec5a3cf10baacaa8989-21" name="rest_code_490704390ae74ec5a3cf10baacaa8989-21" href="#rest_code_490704390ae74ec5a3cf10baacaa8989-21"></a><span class="n">hello</span> <span class="o">=</span> <span class="n">HelloWorld</span><span class="p">()</span>
+<a id="rest_code_490704390ae74ec5a3cf10baacaa8989-22" name="rest_code_490704390ae74ec5a3cf10baacaa8989-22" href="#rest_code_490704390ae74ec5a3cf10baacaa8989-22"></a><span class="n">hello</span><span class="o">.</span><span class="n">main</span><span class="p">()</span>
+</pre></div>
+<p>(sin testear)</p>
+</section></section><section id="referencias"><h2>Referencias</h2>
+<ul>
+<li>
+<blockquote id="target-1">
+<p><a class="reference external" href="http://wiki.python.org/moin/TkInter">http://wiki.python.org/moin/TkInter</a></p>
+</blockquote>
+</li>
+<li>
+<blockquote id="target-2">
+<p><a class="reference external" href="http://wxpython.org/quotes.php">http://wxpython.org/quotes.php</a></p>
+</blockquote>
+</li>
+<li><p><a class="reference external" href="http://www.riverbankcomputing.co.uk/pyqt/index.php">http://www.riverbankcomputing.co.uk/pyqt/index.php</a></p></li>
+<li><p><a class="reference external" href="http://live.gnome.org/PyGTK">http://live.gnome.org/PyGTK</a></p></li>
+<li><p><a class="reference external" href="http://mail.python.org/pipermail/python-list/2001-December/116978.html">http://mail.python.org/pipermail/python-list/2001-December/116978.html</a></p></li>
+<li><p><a class="reference external" href="http://wiki.wxpython.org/ComparingWxPythonAndPyQt">http://wiki.wxpython.org/ComparingWxPythonAndPyQt</a></p></li>
+<li><p><a class="reference external" href="http://www.wxwidgets.org/about/feature2.htm">http://www.wxwidgets.org/about/feature2.htm</a></p></li>
+<li><p>Lista de <a class="reference external" href="../pyar">PyAr</a></p></li>
+</ul>
+<!-- ############################################################################ --></section>
+</div>    
+</div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+            <script src="../assets/js/jquery.min.js"></script><script src="../assets/js/popper.min.js"></script><script src="../assets/js/bootstrap.min.js"></script><script src="../assets/js/baguetteBox.min.js"></script><script src="../assets/js/pyar.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>

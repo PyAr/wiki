@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html prefix="
+og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mini Preguntas Frecuentes | Python Argentina Wiki</title>
+<link href="../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/bootblog.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../rss.xml">
+<link rel="canonical" href="https://wiki.python.org.ar/minifaq/">
+<!--[if lt IE 9]><script src="../assets/js/html5.js"></script><![endif]--><meta name="author" content="Python Argentina">
+<meta property="og:site_name" content="Python Argentina Wiki">
+<meta property="og:title" content="Mini Preguntas Frecuentes">
+<meta property="og:url" content="https://wiki.python.org.ar/minifaq/">
+<meta property="og:description" content="Contenido
+
+Sobre Python (el Lenguaje)
+
+¿Qué son las ''Excepciones''?
+¿Cuales son los cambios en Python 3.0 (Python 3000) la nueva versión del lenguaje?
+¿Cuales son los interpretes que puedo usar?
+¿Com">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
+
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../pyar/"><span class="quienes_somos"></span>Nosotros</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../foro_y_redes/"><span class="navbar_lista_de_correo"></span>Foro</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../"><span class="wiki"></span>Wiki</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/noticias/"><span class="news"></span>Noticias</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/irc/"><span class="irc"></span>IRC</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/eventos/"><span class="eventos"></span>Eventos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://planeta.python.org.ar/"><span class="pyar"></span>Planeta</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/trabajo/"><span class="jobs"></span>Trabajos</a>
+                </li>
+            </ul>
+</div>
+    </nav>
+</div>
+
+<!-- Header and menu bar -->
+<div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        
+<div class="col-lg-12">
+    <div class="page-header">
+        <div class="pull-right">
+            <a href="https://github.com/PyAr/wiki/blob/master/pages/minifaq.rst" id="sourcelink" class="nav-link">Editar</a>
+        </div>
+        <h2>Mini Preguntas Frecuentes</h2>
+    </div>
+    <div class="e-content entry-content" itemprop="articleBody text">
+    <nav class="contents" id="contenido" role="doc-toc"><p class="topic-title"><a class="reference internal" href="#top">Contenido</a></p>
+<ul class="simple">
+<li>
+<p><a class="reference internal" href="#sobre-python-el-lenguaje" id="toc-entry-1">Sobre Python (el Lenguaje)</a></p>
+<ul>
+<li><p><a class="reference internal" href="#que-son-las-excepciones" id="toc-entry-2">¿Qué son las ''Excepciones''?</a></p></li>
+<li><p><a class="reference internal" href="#cuales-son-los-cambios-en-python-3-0-python-3000-la-nueva-version-del-lenguaje" id="toc-entry-3">¿Cuales son los cambios en Python 3.0 (Python 3000) la nueva versión del lenguaje?</a></p></li>
+<li><p><a class="reference internal" href="#cuales-son-los-interpretes-que-puedo-usar" id="toc-entry-4">¿Cuales son los interpretes que puedo usar?</a></p></li>
+<li><p><a class="reference internal" href="#como-puedo-configurar-mi-interprete-para-que-sea-mas-amigable" id="toc-entry-5">¿Como puedo configurar mi interprete para que sea mas amigable?</a></p></li>
+</ul>
+</li>
+<li>
+<p><a class="reference internal" href="#python-en-la-vida-real" id="toc-entry-6">Python en la vida real</a></p>
+<ul>
+<li><p><a class="reference internal" href="#performance-estabilidad-de-python-se-la-banca" id="toc-entry-7">Performance/Estabilidad de Python, ¿se la banca?</a></p></li>
+<li><p><a class="reference internal" href="#que-aplicaciones-conocidas-estan-hechas-en-python" id="toc-entry-8">¿Que aplicaciones (conocidas) estan hechas en Python?</a></p></li>
+<li><p><a class="reference internal" href="#podrias-nombrar-sitios-web-conocidos-que-esten-hechos-en-python" id="toc-entry-9">¿Podrías nombrar sitios Web (conocidos) que estén hechos en Python?</a></p></li>
+<li><p><a class="reference internal" href="#en-que-difieren-python-y-visualbasic" id="toc-entry-10">¿En que difieren Python y VisualBasic?</a></p></li>
+</ul>
+</li>
+</ul></nav><section id="sobre-python-el-lenguaje"><h2><a class="toc-backref" href="#toc-entry-1" role="doc-backlink">Sobre Python (el Lenguaje)</a></h2>
+<section id="que-son-las-excepciones"><h3><a class="toc-backref" href="#toc-entry-2" role="doc-backlink">¿Qué son las ''Excepciones''?</a></h3>
+<p>Las excepciones (Exception) son un mecanismo que posee el lenguaje para informarnos de un error o advertencia. En la página <a class="reference external" href="../mensajesexcepcionales">MensajesExcepcionales</a> creamos una guía con las excepciones más comunes, su traducción y posibles soluciones.</p>
+</section><section id="cuales-son-los-cambios-en-python-3-0-python-3000-la-nueva-version-del-lenguaje"><h3><a class="toc-backref" href="#toc-entry-3" role="doc-backlink">¿Cuales son los cambios en Python 3.0 (Python 3000) la nueva versión del lenguaje?</a></h3>
+<p>En la página <a class="reference external" href="../python3mil">Python3Mil</a> se encuentra la información sobre Python 3k, cambios en el lenguaje, compatibilidad hacia atras, calendario aproximado.</p>
+</section><section id="cuales-son-los-interpretes-que-puedo-usar"><h3><a class="toc-backref" href="#toc-entry-4" role="doc-backlink">¿Cuales son los interpretes que puedo usar?</a></h3>
+<p>Las opciones disponibles son:</p>
+<ul class="simple">
+<li><p>La consola interactiva por defecto de python (viene con la instalacion, solo hay que escribir python)</p></li>
+<li><p><a class="reference external" href="http://en.wikipedia.org/wiki/IDLE_(Python)">IDLE</a></p></li>
+<li><p><a class="reference external" href="http://ipython.scipy.org/moin/About">ipython</a></p></li>
+<li><p><a class="reference external" href="http://www.wxpython.org/py.php">PyCrust/PyShell</a> (incluido en <a class="reference external" href="http://www.wxpython.org/">wxPython</a>)</p></li>
+</ul></section><section id="como-puedo-configurar-mi-interprete-para-que-sea-mas-amigable"><h3><a class="toc-backref" href="#toc-entry-5" role="doc-backlink">¿Como puedo configurar mi interprete para que sea mas amigable?</a></h3>
+<p>Si estas usando el interprete interactivo por defecto de python, se recomienda leer los siguientes articulos:</p>
+<ul class="simple">
+<li><p><a class="reference external" href="../Recetario/autocomplecionenconsolainteractiva">AutocomplecionEnConsolaInteractiva</a>: Explica como agregar autocomplecion de metodos y atributos con tab en la consola interactiva</p></li>
+<li><p><a class="reference external" href="../guardarhistorialenconsolainteractiva">GuardarHistorialEnConsolaInteractiva</a>: Explica como guardar el historial de comandos entre sesiones en la consola interactiva.</p></li>
+<li><p><a class="reference external" href="http://www.eseth.org/2008/pimp-pythonrc.html">recursos externos</a></p></li>
+</ul></section></section><section id="python-en-la-vida-real"><h2><a class="toc-backref" href="#toc-entry-6" role="doc-backlink">Python en la vida real</a></h2>
+<section id="performance-estabilidad-de-python-se-la-banca"><h3><a class="toc-backref" href="#toc-entry-7" role="doc-backlink">Performance/Estabilidad de Python, ¿se la banca?</a></h3>
+<p>En ocasiones se pregunta a la lista si Python esta a la altura de las circunstancias, como se compara la velocidad/uso de memoria con VB, C, .NET, Java, etc. En la página <a class="reference external" href="../rendimientopythonvsjavavsnet">RendimientoPythonVsJavaVsNet</a> hay un resumen de los comentarios vertidos a la lista.</p>
+</section><section id="que-aplicaciones-conocidas-estan-hechas-en-python"><h3><a class="toc-backref" href="#toc-entry-8" role="doc-backlink">¿Que aplicaciones (conocidas) estan hechas en Python?</a></h3>
+<p>Las siguientes aplicaciones se pueden ver/probar/evaluar para conocer el lenguaje y ver su capacidad/rendimiento:</p>
+<ul class="simple">
+<li><p><a class="reference external" href="http://www.bittorrent.com">BitTorrent</a> (original): programa para compartir archivos p2p (interfaz wx)</p></li>
+<li><p><a class="reference external" href="http://es.clamwin.com">ClamWin</a>: el antivirus libre, frontend de clamav (interfaz wx)</p></li>
+<li><p><a class="reference external" href="http://www.openerp.com">OpenErp</a> (ex TinyErp): completo sistema de gestión empresarial en tres capas (interfaz gtk)</p></li>
+<li><p><a class="reference external" href="http://meld.sourceforge.net">Meld</a>: visor de diferencias (interfaz gtk)</p></li>
+<li><p><a class="reference external" href="http://trac.edgewall.org">Trac</a>: sistema de gestión de proyectos (interfaz web)</p></li>
+</ul>
+<p>En el ambito local:</p>
+<ul class="simple">
+<li><p><a class="reference external" href="http://www.fierro-soft.com.ar">Sistema Fierro</a>: sistema de gestión para librerias y editoriales (interfaz wx)</p></li>
+<li><p><a class="reference external" href="http://www.pyafipws.com.ar/pyrece">PyRece</a>: aplicativo libre para factura electrónica (interfaz wx mediante <a class="reference external" href="../pythoncard">PythonCard</a>)</p></li>
+</ul>
+<p>Nota: la lista no pretende ser completa, solo se presentan algunas de las aplicaciones más conocidas, relevantes y/o utilizadas por gran numero de personas.</p>
+</section><section id="podrias-nombrar-sitios-web-conocidos-que-esten-hechos-en-python"><h3><a class="toc-backref" href="#toc-entry-9" role="doc-backlink">¿Podrías nombrar sitios Web (conocidos) que estén hechos en Python?</a></h3>
+<p>Si:</p>
+<ul class="simple">
+<li><p>YouTube (<a class="reference external" href="http://youtube.com">http://youtube.com</a>) está <a class="reference external" href="http://vimeo.com/6461983">programado en Python</a>. Es actualmente el segundo sitio de búsqueda en Internet luego de google.com.</p></li>
+<li><p>Reddit (<a class="reference external" href="http://reddit.com">http://reddit.com</a>) está <a class="reference external" href="http://brainsik.theory.org/.:./2009/why-reddit-uses-python">programado en Python</a>.</p></li>
+<li><p>FriendFeed (<a class="reference external" href="http://friendfeed.com">http://friendfeed.com</a>) (adquidiro por Facebook en Agosto 2009) está <a class="reference external" href="http://blog.friendfeed.com/2008/02/friendfeed-changelog-see-what-code-we.html">programado en Python</a>.</p></li>
+<li><p>La NASA <a class="reference external" href="http://nebula.nasa.gov/services/">usa Python</a> en el <em>frontend</em> de su platforma de <em>cloud computing</em> <a class="reference external" href="http://nebula.nasa.gov/">NEBULA</a>.</p></li>
+</ul>
+<p>Algunos sitios no tan conocidos pero que están hechos con Python y vale la pena ver:</p>
+<ul class="simple">
+<li><p>Kiosko.net (<a class="reference external" href="http://Kiosko.net">http://Kiosko.net</a>) está hecho en Django.</p></li>
+<li><p>GooglePersonFinder (<a class="reference external" href="http://haiticrisis.appspot.com">http://haiticrisis.appspot.com</a>) se utilizó para el terremoto de Haití de 2010.</p></li>
+<li><p>Web2py HL7 (<a class="reference external" href="http://web2py.com/HLv3">http://web2py.com/HLv3</a>), un ejemplo de aplicación hecha en Web2py.</p></li>
+</ul></section><section id="en-que-difieren-python-y-visualbasic"><h3><a class="toc-backref" href="#toc-entry-10" role="doc-backlink">¿En que difieren Python y VisualBasic?</a></h3>
+<p>La página <a class="reference external" href="../visualbasic">VisualBasic</a> detalla las similitudes y diferencias entre ambos lenguajes.</p>
+<!-- ############################################################################ -->
+</section></section>
+</div>    
+</div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+            <script src="../assets/js/jquery.min.js"></script><script src="../assets/js/popper.min.js"></script><script src="../assets/js/bootstrap.min.js"></script><script src="../assets/js/baguetteBox.min.js"></script><script src="../assets/js/pyar.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>

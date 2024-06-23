@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html prefix="
+og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pl/Python: Python dentro de PostgreSQL | Python Argentina Wiki</title>
+<link href="../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/bootblog.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../rss.xml">
+<link rel="canonical" href="https://wiki.python.org.ar/plpython/">
+<!--[if lt IE 9]><script src="../assets/js/html5.js"></script><![endif]--><meta name="author" content="Python Argentina">
+<meta property="og:site_name" content="Python Argentina Wiki">
+<meta property="og:title" content="Pl/Python: Python dentro de PostgreSQL">
+<meta property="og:url" content="https://wiki.python.org.ar/plpython/">
+<meta property="og:description" content="El lenguaje procedural plpython permite escribir funciones python para la base de datos relacional PostgreSQL.
+Como se puede acceder a todas las funciones de python, no debe usarse para usuarios no co">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
+
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../pyar/"><span class="quienes_somos"></span>Nosotros</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../foro_y_redes/"><span class="navbar_lista_de_correo"></span>Foro</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../"><span class="wiki"></span>Wiki</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/noticias/"><span class="news"></span>Noticias</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/irc/"><span class="irc"></span>IRC</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/eventos/"><span class="eventos"></span>Eventos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://planeta.python.org.ar/"><span class="pyar"></span>Planeta</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/trabajo/"><span class="jobs"></span>Trabajos</a>
+                </li>
+            </ul>
+</div>
+    </nav>
+</div>
+
+<!-- Header and menu bar -->
+<div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        
+<div class="col-lg-12">
+    <div class="page-header">
+        <div class="pull-right">
+            <a href="https://github.com/PyAr/wiki/blob/master/pages/plpython.rst" id="sourcelink" class="nav-link">Editar</a>
+        </div>
+        <h2>Pl/python: Python Dentro De Postgresql</h2>
+    </div>
+    <div class="e-content entry-content" itemprop="articleBody text">
+    <p>El lenguaje procedural plpython permite escribir funciones python para la base de datos relacional PostgreSQL.</p>
+<p>Como se puede acceder a todas las funciones de python, no debe usarse para usuarios no confiados, por eso se lo llama plpythonu (u=untrusted).</p>
+<p>Para más información ver <a class="reference external" href="http://www.arpug.com.ar/">Sitio del Grupo de Usuarios de PostgreSQL Argentina</a>, sección <a class="reference external" href="http://www.arpug.com.ar/trac/wiki/PlPython">PlPython</a></p>
+<section id="funciones-procedimientos-almacenados"><h2>Funciones ("Procedimientos almacenados")</h2>
+<p>El cuerpo de una funcion plpythonu es simplemente un script de Python.  Cuando la función es llamada, sus argumentos son pasados como elementos de una lista <code class="docutils literal">args</code>; los argumentos por nombre son pasados como variables ordinarias.  El resultado es devuelto de la manera usual, con un <code class="docutils literal">return</code> o un <code class="docutils literal">yield</code> (en el caso que devuelvan un conjunto de resultados)</p>
+<p>Los valores <code class="docutils literal">NULL</code> de PostgreSQL equivalen a <code class="docutils literal">None</code> en Python.</p>
+<p>Está disponible el diccionario <code class="docutils literal">SD</code> para almacenar datos entre cada llamada a función, y el diccionario globar <code class="docutils literal">GD</code> para usar desde todas las funciones.</p>
+<p><strong>Nota</strong>: PostgreSQL 8.1 no soporta argumentos por nombre, recibir valores compuestos, devolver listas/tuplas o usar generadores.</p>
+<section id="ejemplo-simple"><h3>Ejemplo simple</h3>
+<p>Calcular el valor máximo entre dos enteros, descartando valores nulos:</p>
+<div class="code"><pre class="code sql"><a id="rest_code_fa2a741852ea409382b2f32a98ca7df7-1" name="rest_code_fa2a741852ea409382b2f32a98ca7df7-1" href="#rest_code_fa2a741852ea409382b2f32a98ca7df7-1"></a><span class="k">CREATE</span><span class="w"> </span><span class="k">FUNCTION</span><span class="w"> </span><span class="n">pymax</span><span class="w"> </span><span class="p">(</span><span class="n">a</span><span class="w"> </span><span class="nb">integer</span><span class="p">,</span><span class="w"> </span><span class="n">b</span><span class="w"> </span><span class="nb">integer</span><span class="p">)</span>
+<a id="rest_code_fa2a741852ea409382b2f32a98ca7df7-2" name="rest_code_fa2a741852ea409382b2f32a98ca7df7-2" href="#rest_code_fa2a741852ea409382b2f32a98ca7df7-2"></a><span class="w">  </span><span class="k">RETURNS</span><span class="w"> </span><span class="nb">integer</span>
+<a id="rest_code_fa2a741852ea409382b2f32a98ca7df7-3" name="rest_code_fa2a741852ea409382b2f32a98ca7df7-3" href="#rest_code_fa2a741852ea409382b2f32a98ca7df7-3"></a><span class="k">AS</span><span class="w"> </span><span class="err">$$</span>
+<a id="rest_code_fa2a741852ea409382b2f32a98ca7df7-4" name="rest_code_fa2a741852ea409382b2f32a98ca7df7-4" href="#rest_code_fa2a741852ea409382b2f32a98ca7df7-4"></a><span class="w">  </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">a</span><span class="w"> </span><span class="k">is</span><span class="w"> </span><span class="k">None</span><span class="p">)</span><span class="w"> </span><span class="k">or</span><span class="w"> </span><span class="p">(</span><span class="n">b</span><span class="w"> </span><span class="k">is</span><span class="w"> </span><span class="k">None</span><span class="p">):</span>
+<a id="rest_code_fa2a741852ea409382b2f32a98ca7df7-5" name="rest_code_fa2a741852ea409382b2f32a98ca7df7-5" href="#rest_code_fa2a741852ea409382b2f32a98ca7df7-5"></a><span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="k">None</span>
+<a id="rest_code_fa2a741852ea409382b2f32a98ca7df7-6" name="rest_code_fa2a741852ea409382b2f32a98ca7df7-6" href="#rest_code_fa2a741852ea409382b2f32a98ca7df7-6"></a><span class="w">  </span><span class="k">if</span><span class="w"> </span><span class="n">a</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="n">b</span><span class="p">:</span>
+<a id="rest_code_fa2a741852ea409382b2f32a98ca7df7-7" name="rest_code_fa2a741852ea409382b2f32a98ca7df7-7" href="#rest_code_fa2a741852ea409382b2f32a98ca7df7-7"></a><span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="n">a</span>
+<a id="rest_code_fa2a741852ea409382b2f32a98ca7df7-8" name="rest_code_fa2a741852ea409382b2f32a98ca7df7-8" href="#rest_code_fa2a741852ea409382b2f32a98ca7df7-8"></a><span class="w">  </span><span class="k">return</span><span class="w"> </span><span class="n">b</span>
+<a id="rest_code_fa2a741852ea409382b2f32a98ca7df7-9" name="rest_code_fa2a741852ea409382b2f32a98ca7df7-9" href="#rest_code_fa2a741852ea409382b2f32a98ca7df7-9"></a><span class="err">$$</span><span class="w"> </span><span class="k">LANGUAGE</span><span class="w"> </span><span class="n">plpythonu</span><span class="p">;</span>
+<a id="rest_code_fa2a741852ea409382b2f32a98ca7df7-10" name="rest_code_fa2a741852ea409382b2f32a98ca7df7-10" href="#rest_code_fa2a741852ea409382b2f32a98ca7df7-10"></a>
+<a id="rest_code_fa2a741852ea409382b2f32a98ca7df7-11" name="rest_code_fa2a741852ea409382b2f32a98ca7df7-11" href="#rest_code_fa2a741852ea409382b2f32a98ca7df7-11"></a><span class="c1">-- invoco la función:</span>
+<a id="rest_code_fa2a741852ea409382b2f32a98ca7df7-12" name="rest_code_fa2a741852ea409382b2f32a98ca7df7-12" href="#rest_code_fa2a741852ea409382b2f32a98ca7df7-12"></a><span class="k">SELECT</span><span class="w"> </span><span class="n">pymax</span><span class="p">(</span><span class="mi">2</span><span class="p">,</span><span class="w"> </span><span class="mi">3</span><span class="p">);</span>
+<a id="rest_code_fa2a741852ea409382b2f32a98ca7df7-13" name="rest_code_fa2a741852ea409382b2f32a98ca7df7-13" href="#rest_code_fa2a741852ea409382b2f32a98ca7df7-13"></a><span class="c1">-- devuelve 3</span>
+</pre></div>
+</section><section id="recibir-tipos-compuestos"><h3>Recibir tipos compuestos</h3>
+<p>Las funciones plpython pueden recibir tipos compuestos (ej.registros de tablas) como diccionarios:</p>
+<div class="code"><pre class="code sql"><a id="rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-1" name="rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-1" href="#rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-1"></a><span class="k">CREATE</span><span class="w"> </span><span class="k">TABLE</span><span class="w"> </span><span class="n">empleado</span><span class="w"> </span><span class="p">(</span>
+<a id="rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-2" name="rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-2" href="#rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-2"></a><span class="w">  </span><span class="n">nombre</span><span class="w"> </span><span class="nb">TEXT</span><span class="p">,</span>
+<a id="rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-3" name="rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-3" href="#rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-3"></a><span class="w">  </span><span class="n">salario</span><span class="w"> </span><span class="nb">INTEGER</span><span class="p">,</span>
+<a id="rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-4" name="rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-4" href="#rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-4"></a><span class="w">  </span><span class="n">edad</span><span class="w"> </span><span class="nb">INTEGER</span>
+<a id="rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-5" name="rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-5" href="#rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-5"></a><span class="p">);</span>
+<a id="rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-6" name="rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-6" href="#rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-6"></a>
+<a id="rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-7" name="rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-7" href="#rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-7"></a><span class="k">CREATE</span><span class="w"> </span><span class="k">FUNCTION</span><span class="w"> </span><span class="n">sueldo_alto</span><span class="w"> </span><span class="p">(</span><span class="n">e</span><span class="w"> </span><span class="n">empleado</span><span class="p">)</span>
+<a id="rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-8" name="rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-8" href="#rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-8"></a><span class="w">  </span><span class="k">RETURNS</span><span class="w"> </span><span class="nb">boolean</span>
+<a id="rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-9" name="rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-9" href="#rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-9"></a><span class="k">AS</span><span class="w"> </span><span class="err">$$</span>
+<a id="rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-10" name="rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-10" href="#rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-10"></a><span class="w">  </span><span class="k">if</span><span class="w"> </span><span class="n">e</span><span class="p">[</span><span class="ss">"salario"</span><span class="p">]</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mi">200000</span><span class="p">:</span>
+<a id="rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-11" name="rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-11" href="#rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-11"></a><span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="k">True</span>
+<a id="rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-12" name="rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-12" href="#rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-12"></a><span class="w">  </span><span class="k">if</span><span class="w"> </span><span class="p">(</span><span class="n">e</span><span class="p">[</span><span class="ss">"edad"</span><span class="p">]</span><span class="w"> </span><span class="o">&lt;</span><span class="w"> </span><span class="mi">30</span><span class="p">)</span><span class="w"> </span><span class="k">and</span><span class="w"> </span><span class="p">(</span><span class="n">e</span><span class="p">[</span><span class="ss">"salario"</span><span class="p">]</span><span class="w"> </span><span class="o">&gt;</span><span class="w"> </span><span class="mi">100000</span><span class="p">):</span>
+<a id="rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-13" name="rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-13" href="#rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-13"></a><span class="w">    </span><span class="k">return</span><span class="w"> </span><span class="k">True</span>
+<a id="rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-14" name="rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-14" href="#rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-14"></a><span class="w">  </span><span class="k">return</span><span class="w"> </span><span class="k">False</span>
+<a id="rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-15" name="rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-15" href="#rest_code_58c0f3be35d445ffbd6fbe4926f0d0e0-15"></a><span class="err">$$</span><span class="w"> </span><span class="k">LANGUAGE</span><span class="w"> </span><span class="n">plpythonu</span><span class="p">;</span>
+</pre></div>
+</section><section id="devolver-tipos-compuestos"><h3>Devolver tipos compuestos</h3>
+<p>Los tipos compuestos pueden ser devueltos como secuencias (tuplas o listas), diccionarios u objetos. En este ejemplo se devuelve un tipo compuesto representando una persona:</p>
+<div class="code"><pre class="code sql"><a id="rest_code_998f59bffe7c4c9d9447e9f3a66939e3-1" name="rest_code_998f59bffe7c4c9d9447e9f3a66939e3-1" href="#rest_code_998f59bffe7c4c9d9447e9f3a66939e3-1"></a><span class="k">CREATE</span><span class="w"> </span><span class="k">TYPE</span><span class="w"> </span><span class="n">persona</span><span class="w"> </span><span class="k">AS</span><span class="w"> </span><span class="p">(</span>
+<a id="rest_code_998f59bffe7c4c9d9447e9f3a66939e3-2" name="rest_code_998f59bffe7c4c9d9447e9f3a66939e3-2" href="#rest_code_998f59bffe7c4c9d9447e9f3a66939e3-2"></a><span class="w">  </span><span class="n">nombre</span><span class="w">   </span><span class="nb">TEXT</span><span class="p">,</span>
+<a id="rest_code_998f59bffe7c4c9d9447e9f3a66939e3-3" name="rest_code_998f59bffe7c4c9d9447e9f3a66939e3-3" href="#rest_code_998f59bffe7c4c9d9447e9f3a66939e3-3"></a><span class="w">  </span><span class="n">apellido</span><span class="w"> </span><span class="nb">TEXT</span>
+<a id="rest_code_998f59bffe7c4c9d9447e9f3a66939e3-4" name="rest_code_998f59bffe7c4c9d9447e9f3a66939e3-4" href="#rest_code_998f59bffe7c4c9d9447e9f3a66939e3-4"></a><span class="p">);</span>
+<a id="rest_code_998f59bffe7c4c9d9447e9f3a66939e3-5" name="rest_code_998f59bffe7c4c9d9447e9f3a66939e3-5" href="#rest_code_998f59bffe7c4c9d9447e9f3a66939e3-5"></a>
+<a id="rest_code_998f59bffe7c4c9d9447e9f3a66939e3-6" name="rest_code_998f59bffe7c4c9d9447e9f3a66939e3-6" href="#rest_code_998f59bffe7c4c9d9447e9f3a66939e3-6"></a><span class="k">CREATE</span><span class="w"> </span><span class="k">FUNCTION</span><span class="w"> </span><span class="n">crear_persona</span><span class="w"> </span><span class="p">(</span><span class="n">nombre</span><span class="w"> </span><span class="nb">TEXT</span><span class="p">,</span><span class="w"> </span><span class="n">apellido</span><span class="w"> </span><span class="nb">TEXT</span><span class="p">)</span>
+<a id="rest_code_998f59bffe7c4c9d9447e9f3a66939e3-7" name="rest_code_998f59bffe7c4c9d9447e9f3a66939e3-7" href="#rest_code_998f59bffe7c4c9d9447e9f3a66939e3-7"></a><span class="w">  </span><span class="k">RETURNS</span><span class="w"> </span><span class="n">persona</span>
+<a id="rest_code_998f59bffe7c4c9d9447e9f3a66939e3-8" name="rest_code_998f59bffe7c4c9d9447e9f3a66939e3-8" href="#rest_code_998f59bffe7c4c9d9447e9f3a66939e3-8"></a><span class="k">AS</span><span class="w"> </span><span class="err">$$</span>
+<a id="rest_code_998f59bffe7c4c9d9447e9f3a66939e3-9" name="rest_code_998f59bffe7c4c9d9447e9f3a66939e3-9" href="#rest_code_998f59bffe7c4c9d9447e9f3a66939e3-9"></a><span class="w">  </span><span class="k">return</span><span class="w"> </span><span class="p">[</span><span class="w"> </span><span class="n">nombre</span><span class="p">,</span><span class="w"> </span><span class="n">apellido</span><span class="w"> </span><span class="p">]</span>
+<a id="rest_code_998f59bffe7c4c9d9447e9f3a66939e3-10" name="rest_code_998f59bffe7c4c9d9447e9f3a66939e3-10" href="#rest_code_998f59bffe7c4c9d9447e9f3a66939e3-10"></a><span class="w">  </span><span class="o">#</span><span class="w"> </span><span class="n">o</span><span class="w"> </span><span class="n">como</span><span class="w"> </span><span class="n">tupla</span><span class="p">:</span><span class="w"> </span><span class="k">return</span><span class="w"> </span><span class="p">(</span><span class="w"> </span><span class="n">nombre</span><span class="p">,</span><span class="w"> </span><span class="n">apellido</span><span class="w"> </span><span class="p">)</span>
+<a id="rest_code_998f59bffe7c4c9d9447e9f3a66939e3-11" name="rest_code_998f59bffe7c4c9d9447e9f3a66939e3-11" href="#rest_code_998f59bffe7c4c9d9447e9f3a66939e3-11"></a><span class="w">  </span><span class="o">#</span><span class="w"> </span><span class="n">o</span><span class="w"> </span><span class="n">como</span><span class="w"> </span><span class="n">diccionario</span><span class="p">:</span><span class="w"> </span><span class="k">return</span><span class="w"> </span><span class="err">{</span><span class="w"> </span><span class="ss">"nombre"</span><span class="p">:</span><span class="w"> </span><span class="n">nombre</span><span class="p">,</span><span class="w"> </span><span class="ss">"apellido"</span><span class="p">:</span><span class="w"> </span><span class="n">apellido</span><span class="w"> </span><span class="err">}</span>
+<a id="rest_code_998f59bffe7c4c9d9447e9f3a66939e3-12" name="rest_code_998f59bffe7c4c9d9447e9f3a66939e3-12" href="#rest_code_998f59bffe7c4c9d9447e9f3a66939e3-12"></a><span class="err">$$</span><span class="w"> </span><span class="k">LANGUAGE</span><span class="w"> </span><span class="n">plpythonu</span><span class="p">;</span>
+<a id="rest_code_998f59bffe7c4c9d9447e9f3a66939e3-13" name="rest_code_998f59bffe7c4c9d9447e9f3a66939e3-13" href="#rest_code_998f59bffe7c4c9d9447e9f3a66939e3-13"></a>
+<a id="rest_code_998f59bffe7c4c9d9447e9f3a66939e3-14" name="rest_code_998f59bffe7c4c9d9447e9f3a66939e3-14" href="#rest_code_998f59bffe7c4c9d9447e9f3a66939e3-14"></a><span class="k">CREATE</span><span class="w"> </span><span class="k">FUNCTION</span><span class="w"> </span><span class="n">crear_persona</span><span class="w"> </span><span class="p">(</span><span class="n">nombre</span><span class="w"> </span><span class="nb">TEXT</span><span class="p">,</span><span class="w"> </span><span class="n">persona</span><span class="w"> </span><span class="nb">TEXT</span><span class="p">)</span>
+<a id="rest_code_998f59bffe7c4c9d9447e9f3a66939e3-15" name="rest_code_998f59bffe7c4c9d9447e9f3a66939e3-15" href="#rest_code_998f59bffe7c4c9d9447e9f3a66939e3-15"></a><span class="w">  </span><span class="k">RETURNS</span><span class="w"> </span><span class="n">persona</span>
+<a id="rest_code_998f59bffe7c4c9d9447e9f3a66939e3-16" name="rest_code_998f59bffe7c4c9d9447e9f3a66939e3-16" href="#rest_code_998f59bffe7c4c9d9447e9f3a66939e3-16"></a><span class="k">AS</span><span class="w"> </span><span class="err">$$</span>
+<a id="rest_code_998f59bffe7c4c9d9447e9f3a66939e3-17" name="rest_code_998f59bffe7c4c9d9447e9f3a66939e3-17" href="#rest_code_998f59bffe7c4c9d9447e9f3a66939e3-17"></a><span class="w">  </span><span class="k">class</span><span class="w"> </span><span class="n">Persona</span><span class="p">:</span>
+<a id="rest_code_998f59bffe7c4c9d9447e9f3a66939e3-18" name="rest_code_998f59bffe7c4c9d9447e9f3a66939e3-18" href="#rest_code_998f59bffe7c4c9d9447e9f3a66939e3-18"></a><span class="w">    </span><span class="n">def</span><span class="w"> </span><span class="n">__init__</span><span class="w"> </span><span class="p">(</span><span class="k">self</span><span class="p">,</span><span class="w"> </span><span class="n">n</span><span class="p">,</span><span class="w"> </span><span class="n">a</span><span class="p">):</span>
+<a id="rest_code_998f59bffe7c4c9d9447e9f3a66939e3-19" name="rest_code_998f59bffe7c4c9d9447e9f3a66939e3-19" href="#rest_code_998f59bffe7c4c9d9447e9f3a66939e3-19"></a><span class="w">      </span><span class="k">self</span><span class="p">.</span><span class="n">nombre</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">n</span>
+<a id="rest_code_998f59bffe7c4c9d9447e9f3a66939e3-20" name="rest_code_998f59bffe7c4c9d9447e9f3a66939e3-20" href="#rest_code_998f59bffe7c4c9d9447e9f3a66939e3-20"></a><span class="w">      </span><span class="k">self</span><span class="p">.</span><span class="n">apellido</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">a</span>
+<a id="rest_code_998f59bffe7c4c9d9447e9f3a66939e3-21" name="rest_code_998f59bffe7c4c9d9447e9f3a66939e3-21" href="#rest_code_998f59bffe7c4c9d9447e9f3a66939e3-21"></a><span class="w">  </span><span class="k">return</span><span class="w"> </span><span class="n">Persona</span><span class="p">(</span><span class="n">nombre</span><span class="p">,</span><span class="w"> </span><span class="n">apellido</span><span class="p">)</span>
+<a id="rest_code_998f59bffe7c4c9d9447e9f3a66939e3-22" name="rest_code_998f59bffe7c4c9d9447e9f3a66939e3-22" href="#rest_code_998f59bffe7c4c9d9447e9f3a66939e3-22"></a><span class="err">$$</span><span class="w"> </span><span class="k">LANGUAGE</span><span class="w"> </span><span class="n">plpythonu</span><span class="p">;</span>
+</pre></div>
+</section><section id="devolver-multiples-tipos-escalares-o-compuestos-set-of"><h3>Devolver múltiples tipos escalares o compuestos (''set-of'')</h3>
+<p>Se puede devolver múltiples valores (usando listas/tuplas, iteradores o generadores).  En este ejemplo se devuelven varios saludos:</p>
+<div class="code"><pre class="code sql"><a id="rest_code_7aa1e5504ab84dc394fa361b087df71f-1" name="rest_code_7aa1e5504ab84dc394fa361b087df71f-1" href="#rest_code_7aa1e5504ab84dc394fa361b087df71f-1"></a><span class="k">CREATE</span><span class="w"> </span><span class="k">TYPE</span><span class="w"> </span><span class="n">saludo</span><span class="w"> </span><span class="k">AS</span><span class="w"> </span><span class="p">(</span>
+<a id="rest_code_7aa1e5504ab84dc394fa361b087df71f-2" name="rest_code_7aa1e5504ab84dc394fa361b087df71f-2" href="#rest_code_7aa1e5504ab84dc394fa361b087df71f-2"></a><span class="w">  </span><span class="n">mensaje</span><span class="w"> </span><span class="nb">TEXT</span><span class="p">,</span><span class="w"> </span><span class="c1">-- hola</span>
+<a id="rest_code_7aa1e5504ab84dc394fa361b087df71f-3" name="rest_code_7aa1e5504ab84dc394fa361b087df71f-3" href="#rest_code_7aa1e5504ab84dc394fa361b087df71f-3"></a><span class="w">  </span><span class="n">a_quien</span><span class="w"> </span><span class="nb">TEXT</span><span class="w">  </span><span class="c1">-- mundo</span>
+<a id="rest_code_7aa1e5504ab84dc394fa361b087df71f-4" name="rest_code_7aa1e5504ab84dc394fa361b087df71f-4" href="#rest_code_7aa1e5504ab84dc394fa361b087df71f-4"></a><span class="p">);</span>
+<a id="rest_code_7aa1e5504ab84dc394fa361b087df71f-5" name="rest_code_7aa1e5504ab84dc394fa361b087df71f-5" href="#rest_code_7aa1e5504ab84dc394fa361b087df71f-5"></a>
+<a id="rest_code_7aa1e5504ab84dc394fa361b087df71f-6" name="rest_code_7aa1e5504ab84dc394fa361b087df71f-6" href="#rest_code_7aa1e5504ab84dc394fa361b087df71f-6"></a><span class="k">CREATE</span><span class="w"> </span><span class="k">FUNCTION</span><span class="w"> </span><span class="n">saludar</span><span class="w"> </span><span class="p">(</span><span class="n">mensaje</span><span class="w"> </span><span class="nb">TEXT</span><span class="p">)</span>
+<a id="rest_code_7aa1e5504ab84dc394fa361b087df71f-7" name="rest_code_7aa1e5504ab84dc394fa361b087df71f-7" href="#rest_code_7aa1e5504ab84dc394fa361b087df71f-7"></a><span class="w">  </span><span class="k">RETURNS</span><span class="w"> </span><span class="k">SETOF</span><span class="w"> </span><span class="n">saludo</span>
+<a id="rest_code_7aa1e5504ab84dc394fa361b087df71f-8" name="rest_code_7aa1e5504ab84dc394fa361b087df71f-8" href="#rest_code_7aa1e5504ab84dc394fa361b087df71f-8"></a><span class="k">AS</span><span class="w"> </span><span class="err">$$</span>
+<a id="rest_code_7aa1e5504ab84dc394fa361b087df71f-9" name="rest_code_7aa1e5504ab84dc394fa361b087df71f-9" href="#rest_code_7aa1e5504ab84dc394fa361b087df71f-9"></a><span class="w">  </span><span class="o">#</span><span class="w"> </span><span class="n">devolver</span><span class="w"> </span><span class="n">una</span><span class="w"> </span><span class="n">tupla</span><span class="w"> </span><span class="n">conteniendo</span><span class="w"> </span><span class="n">lista</span><span class="w"> </span><span class="n">de</span><span class="w"> </span><span class="n">tipos</span><span class="w"> </span><span class="n">compuestos</span>
+<a id="rest_code_7aa1e5504ab84dc394fa361b087df71f-10" name="rest_code_7aa1e5504ab84dc394fa361b087df71f-10" href="#rest_code_7aa1e5504ab84dc394fa361b087df71f-10"></a><span class="w">  </span><span class="o">#</span><span class="w"> </span><span class="n">todas</span><span class="w"> </span><span class="n">las</span><span class="w"> </span><span class="n">otras</span><span class="w"> </span><span class="n">combinaciones</span><span class="w"> </span><span class="n">son</span><span class="w"> </span><span class="n">posibles</span>
+<a id="rest_code_7aa1e5504ab84dc394fa361b087df71f-11" name="rest_code_7aa1e5504ab84dc394fa361b087df71f-11" href="#rest_code_7aa1e5504ab84dc394fa361b087df71f-11"></a><span class="w">  </span><span class="k">return</span><span class="w"> </span><span class="p">(</span><span class="w"> </span><span class="p">[</span><span class="w"> </span><span class="n">mensaje</span><span class="p">,</span><span class="w"> </span><span class="ss">"Mundo"</span><span class="w"> </span><span class="p">],</span><span class="w"> </span><span class="p">[</span><span class="w"> </span><span class="n">mensaje</span><span class="p">,</span><span class="w"> </span><span class="ss">"PostgreSQL"</span><span class="w"> </span><span class="p">],</span><span class="w"> </span><span class="p">[</span><span class="w"> </span><span class="n">mensaje</span><span class="p">,</span><span class="w"> </span><span class="ss">"PL/Python"</span><span class="w"> </span><span class="p">]</span><span class="w"> </span><span class="p">)</span>
+<a id="rest_code_7aa1e5504ab84dc394fa361b087df71f-12" name="rest_code_7aa1e5504ab84dc394fa361b087df71f-12" href="#rest_code_7aa1e5504ab84dc394fa361b087df71f-12"></a><span class="err">$$</span><span class="w"> </span><span class="k">LANGUAGE</span><span class="w"> </span><span class="n">plpythonu</span><span class="p">;</span>
+<a id="rest_code_7aa1e5504ab84dc394fa361b087df71f-13" name="rest_code_7aa1e5504ab84dc394fa361b087df71f-13" href="#rest_code_7aa1e5504ab84dc394fa361b087df71f-13"></a>
+<a id="rest_code_7aa1e5504ab84dc394fa361b087df71f-14" name="rest_code_7aa1e5504ab84dc394fa361b087df71f-14" href="#rest_code_7aa1e5504ab84dc394fa361b087df71f-14"></a><span class="k">CREATE</span><span class="w"> </span><span class="k">FUNCTION</span><span class="w"> </span><span class="n">saludar_generador</span><span class="w"> </span><span class="p">(</span><span class="n">mensaje</span><span class="w"> </span><span class="nb">TEXT</span><span class="p">)</span>
+<a id="rest_code_7aa1e5504ab84dc394fa361b087df71f-15" name="rest_code_7aa1e5504ab84dc394fa361b087df71f-15" href="#rest_code_7aa1e5504ab84dc394fa361b087df71f-15"></a><span class="w">  </span><span class="k">RETURNS</span><span class="w"> </span><span class="k">SETOF</span><span class="w"> </span><span class="n">saludo</span>
+<a id="rest_code_7aa1e5504ab84dc394fa361b087df71f-16" name="rest_code_7aa1e5504ab84dc394fa361b087df71f-16" href="#rest_code_7aa1e5504ab84dc394fa361b087df71f-16"></a><span class="k">AS</span><span class="w"> </span><span class="err">$$</span>
+<a id="rest_code_7aa1e5504ab84dc394fa361b087df71f-17" name="rest_code_7aa1e5504ab84dc394fa361b087df71f-17" href="#rest_code_7aa1e5504ab84dc394fa361b087df71f-17"></a><span class="w">  </span><span class="k">for</span><span class="w"> </span><span class="n">a_quien</span><span class="w"> </span><span class="k">in</span><span class="w"> </span><span class="p">[</span><span class="w"> </span><span class="ss">"Mundo"</span><span class="p">,</span><span class="w"> </span><span class="ss">"PostgreSQL"</span><span class="p">,</span><span class="w"> </span><span class="ss">"PL/Python"</span><span class="w"> </span><span class="p">]:</span>
+<a id="rest_code_7aa1e5504ab84dc394fa361b087df71f-18" name="rest_code_7aa1e5504ab84dc394fa361b087df71f-18" href="#rest_code_7aa1e5504ab84dc394fa361b087df71f-18"></a><span class="w">    </span><span class="n">yield</span><span class="w"> </span><span class="p">(</span><span class="w"> </span><span class="n">mensaje</span><span class="p">,</span><span class="w"> </span><span class="n">a_quien</span><span class="w"> </span><span class="p">)</span>
+<a id="rest_code_7aa1e5504ab84dc394fa361b087df71f-19" name="rest_code_7aa1e5504ab84dc394fa361b087df71f-19" href="#rest_code_7aa1e5504ab84dc394fa361b087df71f-19"></a><span class="err">$$</span><span class="w"> </span><span class="k">LANGUAGE</span><span class="w"> </span><span class="n">plpythonu</span><span class="p">;</span>
+</pre></div>
+</section></section><section id="disparadores-triggers"><h2>Disparadores (Triggers)</h2>
+<p>Cuando una función plpython es usada en un disparador, el diccionario <code class="docutils literal">TD</code> contiene:</p>
+<ul class="simple">
+<li><p><code class="docutils literal"><span class="pre">TD["new"]</span></code>: valores nuevos de la fila afectada (diccionario)</p></li>
+<li><p><code class="docutils literal"><span class="pre">TD["old"]</span></code>: valores viejos de la fila afectada (diccionario)</p></li>
+<li><p><code class="docutils literal"><span class="pre">TD["event"]</span></code>: tipo de evento "INSERT", "UPDATE", "DELETE", o "UNKNOWN"</p></li>
+<li><p><code class="docutils literal"><span class="pre">TD["when"]</span></code>: momento en que se ejecutó: "BEFORE" (antes del commit), "AFTER" (despues del commit), o "UNKNOWN"</p></li>
+<li><p><code class="docutils literal"><span class="pre">TD["level"]</span></code>: nivel al que se ejecutó: "ROW" (por fila), "STATEMENT" (por sentencia), o "UNKNOWN"</p></li>
+<li><p><code class="docutils literal"><span class="pre">TD["name"]</span></code>: nombre del disparador</p></li>
+<li><p><code class="docutils literal"><span class="pre">TD["table_name"]</span></code>: nombre de la tabla en que se disparó</p></li>
+<li><p><code class="docutils literal"><span class="pre">TD["table_schema"]</span></code>: esquema en el que se disparó</p></li>
+<li><p><code class="docutils literal"><span class="pre">TD["relid"]</span></code>: OID de la tabla que disparó</p></li>
+<li><p>Si el comando <code class="docutils literal">CREATE TRIGGER</code> incluyó argumentos, estos estarán disponibles en  la lista <code class="docutils literal"><span class="pre">TD["args"]</span></code></p></li>
+</ul>
+<p>Si <code class="docutils literal"><span class="pre">TD["when"]</span></code> es BEFORE, se puede devolver <code class="docutils literal">None</code> or "OK" para indicar que la fila no se modificó, "SKIP" para abortar el evento, o "MODIFY" para indicar que hemos modificado la fila.</p>
+</section><section id="acceso-a-la-base-de-datos"><h2>Acceso a la base de datos</h2>
+<p>Automaticamente se importa un módulo llamado <code class="docutils literal">plpy</code>.</p>
+<section id="generar-mensajes-y-lanzar-errores"><h3>Generar mensajes y lanzar errores</h3>
+<p>Este módulo incluye funciones de <code class="docutils literal">plpy.debug(msg)</code>, <code class="docutils literal">plpy.log(msg)</code>, <code class="docutils literal">plpy.info(msg)</code>, <code class="docutils literal">plpy.notice(msg)</code>, <code class="docutils literal">plpy.warning(msg)</code>, <code class="docutils literal">plpy.error(msg)</code>, y <code class="docutils literal">plpy.fatal(msg)</code></p>
+<p><code class="docutils literal">plpy.error</code> y <code class="docutils literal">plpy.fatal</code> en realidad disparan una excepción python, si no se controla, se propaga y causa que la transacción se aborte. Equivalente a llamar <code class="docutils literal">raise plpy.ERROR(msg)</code> y <code class="docutils literal">raise plpy.FATAL(msg)</code>, respectivamente</p>
+<p>Las otras funciones solo generan mensajes en los distintos niveles de prioridad.</p>
+</section><section id="preparar-y-ejecutar-consultas"><h3>Preparar y ejecutar consultas</h3>
+<p>Adicionalmente, el módulo <code class="docutils literal">plpy</code> provee dos funciones: <code class="docutils literal">execute</code> y <code class="docutils literal">prepare</code>.</p>
+<p>Llamar a <code class="docutils literal">plpy.execute(query, limit)</code> con una consulta (query: string) y un límite de registros opcional (limit),  permite ejecutar la consulta y devuelve los resultados en un objeto que emula una lista de diccionarios, pudiendo acceder por número de fila y nombre de columna. Tiene tres métodos adicionales: <code class="docutils literal">nrows</code> que devuelve el número de filas, y <code class="docutils literal">status</code>.</p>
+<p>Ejemplo:</p>
+<div class="code"><pre class="code python"><a id="rest_code_6bd7b2ca506a472c8823d3dffaaf42df-1" name="rest_code_6bd7b2ca506a472c8823d3dffaaf42df-1" href="#rest_code_6bd7b2ca506a472c8823d3dffaaf42df-1"></a><span class="n">rv</span> <span class="o">=</span> <span class="n">plpy</span><span class="o">.</span><span class="n">execute</span><span class="p">(</span><span class="s2">"SELECT * FROM mi_tabla"</span><span class="p">,</span> <span class="mi">5</span><span class="p">)</span>
+<a id="rest_code_6bd7b2ca506a472c8823d3dffaaf42df-2" name="rest_code_6bd7b2ca506a472c8823d3dffaaf42df-2" href="#rest_code_6bd7b2ca506a472c8823d3dffaaf42df-2"></a><span class="k">for</span> <span class="n">fila</span> <span class="ow">in</span> <span class="n">rv</span><span class="p">:</span>
+<a id="rest_code_6bd7b2ca506a472c8823d3dffaaf42df-3" name="rest_code_6bd7b2ca506a472c8823d3dffaaf42df-3" href="#rest_code_6bd7b2ca506a472c8823d3dffaaf42df-3"></a>   <span class="nb">print</span> <span class="n">fila</span><span class="p">[</span><span class="s1">'columna'</span><span class="p">]</span>
+</pre></div>
+<p>La función <code class="docutils literal"><span class="pre">plpy.prepare(query,[parameter_types])</span></code>, prepara el plan de ejecución para una consulta, se le pasa la consulta como string y la lista de tipos de parámetros:</p>
+<div class="code"><pre class="code python"><a id="rest_code_a5b36d6ddcfb439dae483261b299a3bf-1" name="rest_code_a5b36d6ddcfb439dae483261b299a3bf-1" href="#rest_code_a5b36d6ddcfb439dae483261b299a3bf-1"></a><span class="n">plan</span> <span class="o">=</span> <span class="n">plpy</span><span class="o">.</span><span class="n">prepare</span><span class="p">(</span><span class="s2">"SELECT apellido FROM usuario WHERE nombre = $1 AND casado = $2 "</span><span class="p">,</span> <span class="p">[</span> <span class="s2">"text"</span><span class="p">,</span> <span class="s2">"boolean"</span> <span class="p">])</span>
+</pre></div>
+<p><code class="docutils literal">text</code> y <code class="docutils literal">boolean</code> son los tipos de la variables que se pasara como parámetros ($1 y $2).</p>
+<p>Despues de preparar la sentencia, usar la función <code class="docutils literal">plpy.execute</code> para ejecutarla:</p>
+<div class="code"><pre class="code python"><a id="rest_code_f8bc73f038024ef990aac4d9d9b4a70c-1" name="rest_code_f8bc73f038024ef990aac4d9d9b4a70c-1" href="#rest_code_f8bc73f038024ef990aac4d9d9b4a70c-1"></a><span class="n">rv</span> <span class="o">=</span> <span class="n">plpy</span><span class="o">.</span><span class="n">execute</span><span class="p">(</span><span class="n">plan</span><span class="p">,</span> <span class="p">[</span> <span class="s2">"Mariano"</span><span class="p">,</span> <span class="kc">True</span> <span class="p">],</span> <span class="mi">5</span><span class="p">)</span>
+</pre></div>
+<p>Se pasa el plan como primer argumento, los parámetros como segundo (en este caso, busca nombre="Mariano" y si esta casado). El límite (tercer argumento) es opcional.</p>
+<p>Al preparar un plan, este se almacena para usarlo posteriormente. Para usarlo eficazmente entre llamada y llamada, se debe usar un diccionario de almacenamiento persistente (<code class="docutils literal">SD</code> o <code class="docutils literal">GD</code>) para guardarlo:</p>
+<div class="code"><pre class="code sql"><a id="rest_code_142e52fe9cbe486686c8fa2f6ca57839-1" name="rest_code_142e52fe9cbe486686c8fa2f6ca57839-1" href="#rest_code_142e52fe9cbe486686c8fa2f6ca57839-1"></a><span class="k">CREATE</span><span class="w"> </span><span class="k">FUNCTION</span><span class="w"> </span><span class="n">usar_plan_guardado</span><span class="p">()</span><span class="w"> </span><span class="k">RETURNS</span><span class="w"> </span><span class="k">trigger</span><span class="w"> </span><span class="k">AS</span><span class="w"> </span><span class="err">$$</span>
+<a id="rest_code_142e52fe9cbe486686c8fa2f6ca57839-2" name="rest_code_142e52fe9cbe486686c8fa2f6ca57839-2" href="#rest_code_142e52fe9cbe486686c8fa2f6ca57839-2"></a><span class="w">    </span><span class="k">if</span><span class="w"> </span><span class="n">SD</span><span class="p">.</span><span class="n">has_key</span><span class="p">(</span><span class="ss">"plan"</span><span class="p">):</span>
+<a id="rest_code_142e52fe9cbe486686c8fa2f6ca57839-3" name="rest_code_142e52fe9cbe486686c8fa2f6ca57839-3" href="#rest_code_142e52fe9cbe486686c8fa2f6ca57839-3"></a><span class="w">        </span><span class="n">plan</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">SD</span><span class="p">[</span><span class="ss">"plan"</span><span class="p">]</span><span class="w"> </span><span class="o">#</span><span class="w"> </span><span class="n">está</span><span class="w"> </span><span class="n">el</span><span class="w"> </span><span class="n">plan</span><span class="p">,</span><span class="w"> </span><span class="n">lo</span><span class="w"> </span><span class="n">reutilizo</span>
+<a id="rest_code_142e52fe9cbe486686c8fa2f6ca57839-4" name="rest_code_142e52fe9cbe486686c8fa2f6ca57839-4" href="#rest_code_142e52fe9cbe486686c8fa2f6ca57839-4"></a><span class="w">    </span><span class="k">else</span><span class="p">:</span>
+<a id="rest_code_142e52fe9cbe486686c8fa2f6ca57839-5" name="rest_code_142e52fe9cbe486686c8fa2f6ca57839-5" href="#rest_code_142e52fe9cbe486686c8fa2f6ca57839-5"></a><span class="w">        </span><span class="o">#</span><span class="w"> </span><span class="k">no</span><span class="w"> </span><span class="n">esta</span><span class="w"> </span><span class="n">el</span><span class="w"> </span><span class="n">plan</span><span class="p">,</span><span class="w"> </span><span class="n">lo</span><span class="w"> </span><span class="n">creo</span><span class="w"> </span><span class="n">y</span><span class="w"> </span><span class="n">almaceno</span><span class="w"> </span><span class="n">en</span><span class="w"> </span><span class="n">el</span><span class="w"> </span><span class="n">diccionario</span><span class="w"> </span><span class="n">persistente</span>
+<a id="rest_code_142e52fe9cbe486686c8fa2f6ca57839-6" name="rest_code_142e52fe9cbe486686c8fa2f6ca57839-6" href="#rest_code_142e52fe9cbe486686c8fa2f6ca57839-6"></a><span class="w">        </span><span class="n">plan</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">plpy</span><span class="p">.</span><span class="k">prepare</span><span class="p">(</span><span class="ss">"SELECT 1"</span><span class="p">)</span>
+<a id="rest_code_142e52fe9cbe486686c8fa2f6ca57839-7" name="rest_code_142e52fe9cbe486686c8fa2f6ca57839-7" href="#rest_code_142e52fe9cbe486686c8fa2f6ca57839-7"></a><span class="w">        </span><span class="n">SD</span><span class="p">[</span><span class="ss">"plan"</span><span class="p">]</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="n">plan</span>
+<a id="rest_code_142e52fe9cbe486686c8fa2f6ca57839-8" name="rest_code_142e52fe9cbe486686c8fa2f6ca57839-8" href="#rest_code_142e52fe9cbe486686c8fa2f6ca57839-8"></a><span class="w">    </span><span class="o">#</span><span class="w"> </span><span class="n">continua</span><span class="w"> </span><span class="n">la</span><span class="w"> </span><span class="n">función</span><span class="p">...</span>
+<a id="rest_code_142e52fe9cbe486686c8fa2f6ca57839-9" name="rest_code_142e52fe9cbe486686c8fa2f6ca57839-9" href="#rest_code_142e52fe9cbe486686c8fa2f6ca57839-9"></a><span class="err">$$</span><span class="w"> </span><span class="k">LANGUAGE</span><span class="w"> </span><span class="n">plpythonu</span><span class="p">;</span>
+</pre></div>
+<!-- ############################################################################ -->
+</section></section>
+</div>    
+</div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+            <script src="../assets/js/jquery.min.js"></script><script src="../assets/js/popper.min.js"></script><script src="../assets/js/bootstrap.min.js"></script><script src="../assets/js/baguetteBox.min.js"></script><script src="../assets/js/pyar.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>

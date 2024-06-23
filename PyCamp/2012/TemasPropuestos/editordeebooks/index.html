@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html prefix="
+og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Idea: Editor de ebooks online y colaborativo | Python Argentina Wiki</title>
+<link href="../../../../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../../../../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
+<link href="../../../../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../../../../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../../../../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../../../../assets/css/bootblog.css" rel="stylesheet" type="text/css">
+<link href="../../../../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../../../../rss.xml">
+<link rel="canonical" href="https://wiki.python.org.ar/PyCamp/2012/TemasPropuestos/editordeebooks/">
+<!--[if lt IE 9]><script src="../../../../assets/js/html5.js"></script><![endif]--><meta name="author" content="Python Argentina">
+<meta property="og:site_name" content="Python Argentina Wiki">
+<meta property="og:title" content="Idea: Editor de ebooks online y colaborativo">
+<meta property="og:url" content="https://wiki.python.org.ar/PyCamp/2012/TemasPropuestos/editordeebooks/">
+<meta property="og:description" content='Motivación
+Aunque no "apocalípticamente" como alguno preveían, la lectura de libros electrónicos se
+hace cada más popular. Los lectores de libros electrónicos como el Kindle son cada vez más accesible'>
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
+
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../../../pyar/"><span class="quienes_somos"></span>Nosotros</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../../../foro_y_redes/"><span class="navbar_lista_de_correo"></span>Foro</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../../../../"><span class="wiki"></span>Wiki</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/noticias/"><span class="news"></span>Noticias</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/irc/"><span class="irc"></span>IRC</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/eventos/"><span class="eventos"></span>Eventos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://planeta.python.org.ar/"><span class="pyar"></span>Planeta</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/trabajo/"><span class="jobs"></span>Trabajos</a>
+                </li>
+            </ul>
+</div>
+    </nav>
+</div>
+
+<!-- Header and menu bar -->
+<div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        
+<div class="col-lg-12">
+    <div class="page-header">
+        <div class="pull-right">
+            <a href="https://github.com/PyAr/wiki/blob/master/pages/PyCamp/2012/TemasPropuestos/editordeebooks.rst" id="sourcelink" class="nav-link">Editar</a>
+        </div>
+        <h2>Idea: Editor De Ebooks Online Y Colaborativo</h2>
+    </div>
+    <div class="e-content entry-content" itemprop="articleBody text">
+    <section id="motivacion"><h2>Motivación</h2>
+<p>Aunque no "apocalípticamente" como alguno preveían, la lectura de libros electrónicos se
+hace cada más popular. Los lectores de libros electrónicos como el Kindle son cada vez más accesibles
+y a esto se le suman otros dispositivos que, si bien no pensados centralmente en la lectura,
+pueden funcionar como tales.</p>
+<p>No obstante, lo que importa es lo de adentro. Y lo de adentro no se consigue tan fácilmente, sobre todo
+en idioma español y que se lea dignamente.</p>
+<p>Las herramientas de conversión automatizada (como <a class="reference external" href="http://calibre-ebook.com/">Calibre</a>) tienen muchas
+limitaciones y producen un código sucio que, en general,
+requieren trabajo de posprocesado manual (con herramientas como <a class="reference external" href="http://code.google.com/p/sigil/">Sigil</a>)
+para obtener un maquetado correcto y, en definitiva, una lectura fluída y agradable.</p>
+<p>Pero el trabajo de "corrección" (o edición desde 0) es tedioso y muchas veces arduo para una sola persona.</p>
+<p>Por esto propongo realizar un editor de <em>ebooks</em>, online y colaborativo.</p>
+</section><section id="ideas"><h2>Ideas</h2>
+<ul>
+<li><dl class="simple">
+<dt>
+<a class="reference external" href="http://code.google.com/p/sigil/">Sigil</a> es una aplicación para la edición de ebooks, libre, multiplataforma y además funciona bien.</dt>
+<dd>
+<p>Creo que lo usa bastante gente. Básicamente permite un modo de edición WYSIWYG, otro en modo fuente
+(que es, ni más ni menos, que html) y un manejo sencillo de la ToC.
+Creo que es un buen ejemplo para inspirarse.</p>
+</dd>
+</dl></li>
+<li><p>Yo sé y tengo ganas de usar Django. ¿Les va?</p></li>
+<li><dl class="simple">
+<dt>Como se trata de "editar" (xhtml + css), necesitamos un editor. Para codigo <a class="reference external" href="http://ajaxorg.github.com/ace/">Ace</a> está</dt>
+<dd>
+<p><a class="reference external" href="http://ajaxorg.github.com/ace/build/kitchen-sink.html">buenísimo</a> ( y además
+existe como <a class="reference external" href="https://github.com/Celc/django-ace-editor">widget de django</a> ) pero
+me parece que no tiene modo WYSIWYG para html. Quizas habrá que elegir alguno de
+<a class="reference external" href="http://www.djangopackages.com/grids/g/wysiwyg/">estos</a></p>
+</dd>
+</dl></li>
+<li><dl class="simple">
+<dt>lo de "colaborativo" no lo tengo claro. Se podrá hacer algo como google docs</dt>
+<dd>
+<p>que permite la edición simultánea? A priori, podemos arrancar en modo "bloqueante"
+como hace moin moin.</p>
+<ul class="simple">
+<li><p>por otro lado, yo (alecu) opino que es mejor no arrancar de algo bloqueante, sino partir de algo que ya tenga la colaboración metida adentro. Por ejemplo se le podría hacer un view de "ebook" a: <a class="reference external" href="https://github.com/Pita/etherpad-lite">https://github.com/Pita/etherpad-lite</a> (a pesar de que es node.js)</p></li>
+</ul>
+</dd>
+</dl></li>
+<li><dl class="simple">
+<dt>En cualquier caso, parece necesario (o al menos util) tener un control de</dt>
+<dd>
+<p>versiones sobre la edicion. Conozco <a class="reference external" href="https://github.com/etianen/django-reversion">reversion</a> y apesta bastante ¿alguien conoce
+una alternativa?</p>
+<ul class="simple">
+<li><dl class="simple">
+<dt>si persistimos los "ebooks" como archivos (el epub descomprimido) y no a nivel bbdd,</dt>
+<dd>
+<p>podemos usar un sistema de control de versiones conocido como mercurial o git. Si bien mercurial está hecho en python,
+los propios desarrolladores <a class="reference external" href="http://mercurial.selenic.com/wiki/MercurialApi">no recomiendan usar la API interna</a> sino
+<a class="reference external" href="https://bitbucket.org/haard/hgapi">esta librería</a> que interactuá con el CLI hg. Para git
+<a class="reference external" href="https://github.com/jelmer/dulwich">dulwich_</a> parece muy piola</p>
+</dd>
+</dl></li>
+<li><p>otra posibilidad: usar una base de datos documental (MongoDB , couchdb, cassandra? alguien tiene experiencia?)</p></li>
+</ul>
+</dd>
+</dl></li>
+<li><p>Manejo de permisos, quien puede ver/editar ?</p></li>
+<li>
+<p>Input:</p>
+<blockquote>
+<ul class="simple">
+<li><p>arrancar un ebook from scratch</p></li>
+<li><p>subir/importar desde archivo local/online (convirtiendo, en caso necesario, usando calibre)</p></li>
+<li><dl class="simple">
+<dt>listado de urls parseadas con <a class="reference external" href="http://pypi.python.org/pypi/readability-lxml">readability</a>  ¿se les ocurre alguna manera user-friendly de</dt>
+<dd>
+<p>darle más posibilidades a esta opción? Por ejemplo, quiero armar un ebook con todas las
+contratapas de 2011 escritas por Juan Forn en Página/12.</p>
+</dd>
+</dl></li>
+<li><dl class="simple">
+<dt>Feeds RSS/Atom, con la posibilidad de solicitar "todo el contenido" aun en un feed</dt>
+<dd>
+<p>con articulos incompletos</p>
+</dd>
+</dl></li>
+</ul>
+</blockquote>
+</li>
+<li>
+<p>Ouput:</p>
+<blockquote>
+<ul class="simple">
+<li><dl class="simple">
+<dt>Creo que hay que manejarse en formato .epub (el estándar más extendido) y convertir desde ahí</dt>
+<dd>
+<p>usando <a class="reference external" href="http://calibre-ebook.com/">Calibre</a>.</p>
+</dd>
+</dl></li>
+<li><p>enviar por email</p></li>
+<li><p>enviar al kindle  (simil anterior)</p></li>
+<li><p>u1 / dropbox ?</p></li>
+</ul>
+</blockquote>
+</li>
+<li>
+<p>Validación:</p>
+<blockquote>
+<ul class="simple">
+<li><dl class="simple">
+<dt>Sigil hizo y usa <a class="reference external" href="http://code.google.com/p/flightcrew/">Flightcrew</a>, que parece lo mejorcito para validar el epub.</dt>
+<dd>
+<p>El core es libreria C++ ¿se puede wrappear?  En cualquier caso,
+tambien tiene un cliente CLI que se puede usar via subprocess.</p>
+</dd>
+</dl></li>
+<li><dl class="simple">
+<dt>También usa HTMLTidy para <em>sanear</em> el html (de entrada/salida).</dt>
+<dd>
+<p>Hay <a class="reference external" href="https://github.com/countergram/pytidylib/">wrapper</a></p>
+</dd>
+</dl></li>
+</ul>
+</blockquote>
+</li>
+<li>
+<p>Filtros</p>
+<blockquote>
+<ul class="simple">
+<li><dl class="simple">
+<dt>calibre permite aplicar filtros basados en xpath en la conversión.</dt>
+<dd>
+<p>Podemos permitir definirlos al usuario ? y a posteriori ?</p>
+</dd>
+</dl></li>
+<li><dl class="simple">
+<dt>Nunca entendí la sintaxis de xpath. Se podrá permitir manipular</dt>
+<dd>
+<p>via <a class="reference external" href="http://pypi.python.org/pypi/pyquery/">pyquery</a> ?</p>
+</dd>
+</dl></li>
+<li><dl class="simple">
+<dt>
+<a class="reference external" href="http://pypi.python.org/pypi/readability-lxml">readability</a> está buenísimo pero a veces falla. Ayudarlo</dt>
+<dd>
+<p>a saber donde está el contenido?</p>
+</dd>
+</dl></li>
+</ul>
+</blockquote>
+</li>
+<li>
+<p>UI:</p>
+<blockquote>
+<ul class="simple">
+<li><p>No soy <em>muy</em> conocedor de estos menesteres pero creo que <a class="reference external" href="http://jqueryui.com">jquery-ui</a> está bueno.</p></li>
+<li><p>Les gusta <a class="reference external" href="http://layout.jquery-dev.net/demos/container_margins.html">esto</a> ?</p></li>
+<li><p>Alguien maneja algun framework CSS ?</p></li>
+</ul>
+</blockquote>
+</li>
+</ul>
+<p>Se te ocurre algo ? tus ideas son bienvenidas!</p>
+</section>
+</div>    
+</div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+            <script src="../../../../assets/js/jquery.min.js"></script><script src="../../../../assets/js/popper.min.js"></script><script src="../../../../assets/js/bootstrap.min.js"></script><script src="../../../../assets/js/baguetteBox.min.js"></script><script src="../../../../assets/js/pyar.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>

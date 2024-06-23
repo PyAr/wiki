@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html prefix="
+og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GtkEntrySoloNumeros | Python Argentina Wiki</title>
+<link href="../../../../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../../../../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
+<link href="../../../../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../../../../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../../../../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../../../../assets/css/bootblog.css" rel="stylesheet" type="text/css">
+<link href="../../../../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../../../../rss.xml">
+<link rel="canonical" href="https://wiki.python.org.ar/recetario/gui/gtk/entrysolonumeros/">
+<!--[if lt IE 9]><script src="../../../../assets/js/html5.js"></script><![endif]--><meta name="author" content="Python Argentina">
+<meta property="og:site_name" content="Python Argentina Wiki">
+<meta property="og:title" content="GtkEntrySoloNumeros">
+<meta property="og:url" content="https://wiki.python.org.ar/recetario/gui/gtk/entrysolonumeros/">
+<meta property="og:description" content="Este ejemplo muestra como permitir el ingreso de solo números en un gtk.Entry, a través de la señal insert-text de gtk.Editable (clase de la que hereda gtk.Entry) y usando el método stop_emission de g">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
+
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../../../pyar/"><span class="quienes_somos"></span>Nosotros</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../../../foro_y_redes/"><span class="navbar_lista_de_correo"></span>Foro</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../../../../"><span class="wiki"></span>Wiki</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/noticias/"><span class="news"></span>Noticias</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/irc/"><span class="irc"></span>IRC</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/eventos/"><span class="eventos"></span>Eventos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://planeta.python.org.ar/"><span class="pyar"></span>Planeta</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/trabajo/"><span class="jobs"></span>Trabajos</a>
+                </li>
+            </ul>
+</div>
+    </nav>
+</div>
+
+<!-- Header and menu bar -->
+<div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        
+<div class="col-lg-12">
+    <div class="page-header">
+        <div class="pull-right">
+            <a href="https://github.com/PyAr/wiki/blob/master/pages/recetario/gui/gtk/entrysolonumeros.rst" id="sourcelink" class="nav-link">Editar</a>
+        </div>
+        <h2>Gtkentrysolonumeros</h2>
+    </div>
+    <div class="e-content entry-content" itemprop="articleBody text">
+    <p>Este ejemplo muestra como permitir el ingreso de solo números en un gtk.Entry, a través de la señal <a class="reference external" href="http://library.gnome.org/devel/pygtk/stable/class-gtkeditable.html#signal-gtkeditable--insert-text">insert-text</a> de gtk.Editable (clase de la que hereda gtk.Entry) y usando el método <a class="reference external" href="http://library.gnome.org/devel/pygobject/stable/class-gobject.html#method-gobject--stop-emission">stop_emission</a> de gobject para evitar que la señal se propague y sea manejada por el handler por defecto para la señal (que es el que inserta el carácter en el widget)</p>
+<img alt="/images/Recetario/Gui/Gtk/EntrySoloNumeros/Only%20numbers.png" src="../../../../images/Recetario/Gui/Gtk/EntrySoloNumeros/Only%20numbers.png"><div class="code"><pre class="code python"><a id="rest_code_bc06f0e3a47f4ec49907e051e459abb1-1" name="rest_code_bc06f0e3a47f4ec49907e051e459abb1-1" href="#rest_code_bc06f0e3a47f4ec49907e051e459abb1-1"></a><span class="sd">'''ejemplo sobre solo dejar ingresar numeros en un campo de text</span>
+<a id="rest_code_bc06f0e3a47f4ec49907e051e459abb1-2" name="rest_code_bc06f0e3a47f4ec49907e051e459abb1-2" href="#rest_code_bc06f0e3a47f4ec49907e051e459abb1-2"></a><span class="sd">tambien sirve para cadenas de texto pegadas en el entry con ctrl-v</span>
+<a id="rest_code_bc06f0e3a47f4ec49907e051e459abb1-3" name="rest_code_bc06f0e3a47f4ec49907e051e459abb1-3" href="#rest_code_bc06f0e3a47f4ec49907e051e459abb1-3"></a><span class="sd">'''</span>
+<a id="rest_code_bc06f0e3a47f4ec49907e051e459abb1-4" name="rest_code_bc06f0e3a47f4ec49907e051e459abb1-4" href="#rest_code_bc06f0e3a47f4ec49907e051e459abb1-4"></a>
+<a id="rest_code_bc06f0e3a47f4ec49907e051e459abb1-5" name="rest_code_bc06f0e3a47f4ec49907e051e459abb1-5" href="#rest_code_bc06f0e3a47f4ec49907e051e459abb1-5"></a><span class="kn">import</span> <span class="nn">re</span>
+<a id="rest_code_bc06f0e3a47f4ec49907e051e459abb1-6" name="rest_code_bc06f0e3a47f4ec49907e051e459abb1-6" href="#rest_code_bc06f0e3a47f4ec49907e051e459abb1-6"></a><span class="kn">import</span> <span class="nn">gtk</span>
+<a id="rest_code_bc06f0e3a47f4ec49907e051e459abb1-7" name="rest_code_bc06f0e3a47f4ec49907e051e459abb1-7" href="#rest_code_bc06f0e3a47f4ec49907e051e459abb1-7"></a>
+<a id="rest_code_bc06f0e3a47f4ec49907e051e459abb1-8" name="rest_code_bc06f0e3a47f4ec49907e051e459abb1-8" href="#rest_code_bc06f0e3a47f4ec49907e051e459abb1-8"></a><span class="n">ONLY_NUMBERS</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">compile</span><span class="p">(</span><span class="s1">'^[0-9]*$'</span><span class="p">)</span>
+<a id="rest_code_bc06f0e3a47f4ec49907e051e459abb1-9" name="rest_code_bc06f0e3a47f4ec49907e051e459abb1-9" href="#rest_code_bc06f0e3a47f4ec49907e051e459abb1-9"></a>
+<a id="rest_code_bc06f0e3a47f4ec49907e051e459abb1-10" name="rest_code_bc06f0e3a47f4ec49907e051e459abb1-10" href="#rest_code_bc06f0e3a47f4ec49907e051e459abb1-10"></a><span class="k">def</span> <span class="nf">on_insert_text</span><span class="p">(</span><span class="n">editable</span><span class="p">,</span> <span class="n">new_text</span><span class="p">,</span> <span class="n">new_text_length</span><span class="p">,</span> <span class="n">position</span><span class="p">):</span>
+<a id="rest_code_bc06f0e3a47f4ec49907e051e459abb1-11" name="rest_code_bc06f0e3a47f4ec49907e051e459abb1-11" href="#rest_code_bc06f0e3a47f4ec49907e051e459abb1-11"></a><span class="w">    </span><span class="sd">'''called when text is inserted on an entry'''</span>
+<a id="rest_code_bc06f0e3a47f4ec49907e051e459abb1-12" name="rest_code_bc06f0e3a47f4ec49907e051e459abb1-12" href="#rest_code_bc06f0e3a47f4ec49907e051e459abb1-12"></a>    <span class="k">if</span> <span class="n">ONLY_NUMBERS</span><span class="o">.</span><span class="n">match</span><span class="p">(</span><span class="n">new_text</span><span class="p">)</span> <span class="ow">is</span> <span class="kc">None</span><span class="p">:</span>
+<a id="rest_code_bc06f0e3a47f4ec49907e051e459abb1-13" name="rest_code_bc06f0e3a47f4ec49907e051e459abb1-13" href="#rest_code_bc06f0e3a47f4ec49907e051e459abb1-13"></a>        <span class="n">editable</span><span class="o">.</span><span class="n">stop_emission</span><span class="p">(</span><span class="s1">'insert-text'</span><span class="p">)</span>
+<a id="rest_code_bc06f0e3a47f4ec49907e051e459abb1-14" name="rest_code_bc06f0e3a47f4ec49907e051e459abb1-14" href="#rest_code_bc06f0e3a47f4ec49907e051e459abb1-14"></a>
+<a id="rest_code_bc06f0e3a47f4ec49907e051e459abb1-15" name="rest_code_bc06f0e3a47f4ec49907e051e459abb1-15" href="#rest_code_bc06f0e3a47f4ec49907e051e459abb1-15"></a><span class="n">entry</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">Entry</span><span class="p">()</span>
+<a id="rest_code_bc06f0e3a47f4ec49907e051e459abb1-16" name="rest_code_bc06f0e3a47f4ec49907e051e459abb1-16" href="#rest_code_bc06f0e3a47f4ec49907e051e459abb1-16"></a><span class="n">entry</span><span class="o">.</span><span class="n">connect</span><span class="p">(</span><span class="s1">'insert-text'</span><span class="p">,</span> <span class="n">on_insert_text</span><span class="p">)</span>
+<a id="rest_code_bc06f0e3a47f4ec49907e051e459abb1-17" name="rest_code_bc06f0e3a47f4ec49907e051e459abb1-17" href="#rest_code_bc06f0e3a47f4ec49907e051e459abb1-17"></a><span class="n">window</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">Window</span><span class="p">()</span>
+<a id="rest_code_bc06f0e3a47f4ec49907e051e459abb1-18" name="rest_code_bc06f0e3a47f4ec49907e051e459abb1-18" href="#rest_code_bc06f0e3a47f4ec49907e051e459abb1-18"></a><span class="n">window</span><span class="o">.</span><span class="n">set_title</span><span class="p">(</span><span class="s1">'only numbers'</span><span class="p">)</span>
+<a id="rest_code_bc06f0e3a47f4ec49907e051e459abb1-19" name="rest_code_bc06f0e3a47f4ec49907e051e459abb1-19" href="#rest_code_bc06f0e3a47f4ec49907e051e459abb1-19"></a><span class="n">window</span><span class="o">.</span><span class="n">add</span><span class="p">(</span><span class="n">entry</span><span class="p">)</span>
+<a id="rest_code_bc06f0e3a47f4ec49907e051e459abb1-20" name="rest_code_bc06f0e3a47f4ec49907e051e459abb1-20" href="#rest_code_bc06f0e3a47f4ec49907e051e459abb1-20"></a><span class="n">window</span><span class="o">.</span><span class="n">connect</span><span class="p">(</span><span class="s1">'delete-event'</span><span class="p">,</span> <span class="n">gtk</span><span class="o">.</span><span class="n">main_quit</span><span class="p">)</span>
+<a id="rest_code_bc06f0e3a47f4ec49907e051e459abb1-21" name="rest_code_bc06f0e3a47f4ec49907e051e459abb1-21" href="#rest_code_bc06f0e3a47f4ec49907e051e459abb1-21"></a><span class="n">window</span><span class="o">.</span><span class="n">show_all</span><span class="p">()</span>
+<a id="rest_code_bc06f0e3a47f4ec49907e051e459abb1-22" name="rest_code_bc06f0e3a47f4ec49907e051e459abb1-22" href="#rest_code_bc06f0e3a47f4ec49907e051e459abb1-22"></a>
+<a id="rest_code_bc06f0e3a47f4ec49907e051e459abb1-23" name="rest_code_bc06f0e3a47f4ec49907e051e459abb1-23" href="#rest_code_bc06f0e3a47f4ec49907e051e459abb1-23"></a><span class="n">gtk</span><span class="o">.</span><span class="n">main</span><span class="p">()</span>
+</pre></div>
+<!-- ############################################################################ -->
+    </div>    
+</div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+            <script src="../../../../assets/js/jquery.min.js"></script><script src="../../../../assets/js/popper.min.js"></script><script src="../../../../assets/js/bootstrap.min.js"></script><script src="../../../../assets/js/baguetteBox.min.js"></script><script src="../../../../assets/js/pyar.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>

@@ -1,0 +1,4 @@
+Sitemap: https://wiki.python.org.ar/sitemapindex.xml
+
+User-Agent: *
+Host: wiki.python.org.ar

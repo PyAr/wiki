@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html prefix="
+og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GnomeArt | Python Argentina Wiki</title>
+<link href="../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/bootblog.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../rss.xml">
+<link rel="canonical" href="https://wiki.python.org.ar/gnomeart/">
+<!--[if lt IE 9]><script src="../assets/js/html5.js"></script><![endif]--><meta name="author" content="Python Argentina">
+<meta property="og:site_name" content="Python Argentina Wiki">
+<meta property="og:title" content="GnomeArt">
+<meta property="og:url" content="https://wiki.python.org.ar/gnomeart/">
+<meta property="og:description" content="este proyecto pretende remplazar el programa http://www.miketech.net/gnome-art/ pero programado en python, las tecnologias a usar son
+
+python
+pygtk
+subversion
+
+
+Tareas
+
+realizar interfaz con glade-3
+A">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
+
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../pyar/"><span class="quienes_somos"></span>Nosotros</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../foro_y_redes/"><span class="navbar_lista_de_correo"></span>Foro</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../"><span class="wiki"></span>Wiki</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/noticias/"><span class="news"></span>Noticias</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/irc/"><span class="irc"></span>IRC</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/eventos/"><span class="eventos"></span>Eventos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://planeta.python.org.ar/"><span class="pyar"></span>Planeta</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/trabajo/"><span class="jobs"></span>Trabajos</a>
+                </li>
+            </ul>
+</div>
+    </nav>
+</div>
+
+<!-- Header and menu bar -->
+<div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        
+<div class="col-lg-12">
+    <div class="page-header">
+        <div class="pull-right">
+            <a href="https://github.com/PyAr/wiki/blob/master/pages/gnomeart.rst" id="sourcelink" class="nav-link">Editar</a>
+        </div>
+        <h2>Gnomeart</h2>
+    </div>
+    <div class="e-content entry-content" itemprop="articleBody text">
+    <p>este proyecto pretende remplazar el programa <a class="reference external" href="http://www.miketech.net/gnome-art/">http://www.miketech.net/gnome-art/</a> pero programado en python, las tecnologias a usar son</p>
+<ul class="simple">
+<li><p>python</p></li>
+<li><p>pygtk</p></li>
+<li><p>subversion</p></li>
+</ul>
+<section id="tareas"><h2>Tareas</h2>
+<section id="realizar-interfaz-con-glade-3"><h3>realizar interfaz con glade-3</h3>
+<p>Aca se deben poner todas las ventanas, una descripcion de que hace y screenshots de cada una, luego cada uno puede agarrar una y hacerla en glade.</p>
+<blockquote>
+<p>Implementar los callbacks de los eventos, inicialmente se pueden hacer con dummies (que hagan prints como "abrir") para tener la infraestructura, luego cuando los modulos base esten andando se van a poder conectar ambos.</p>
+</blockquote>
+</section><section id="realizar-modulo-para-interactuar-con-gnome-art"><h3>realizar modulo para interactuar con gnome-art</h3>
+<p>Se debe hacer un modulo para obtener la informacion de los themes, recomendable que sea con threads para no bloquear la interfaz, para ello se debera aprender a usar httplib, urllib, urllib2 o similar y threading, hay un ejemplo de threads y gtk aca GtkMultiThread y este es ejemplo <a class="reference external" href="../comunicarthreadsconqueue">ComunicarThreadsConQueue</a>.</p>
+<p>Como ayuda se podria ver un poco el codigo de gnome-art, al menos para saber como interactua con el server.</p>
+</section><section id="opcional-unittesting"><h3>Opcional: unittesting</h3>
+<p>Estaria bueno que aprendan a usar el modulo unittest <a class="reference external" href="http://docs.python.org/library/unittest.html">http://docs.python.org/library/unittest.html</a> y lo apliquen al proyecto</p>
+<!-- ############################################################################ -->
+</section></section>
+</div>    
+</div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+            <script src="../assets/js/jquery.min.js"></script><script src="../assets/js/popper.min.js"></script><script src="../assets/js/bootstrap.min.js"></script><script src="../assets/js/baguetteBox.min.js"></script><script src="../assets/js/pyar.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>

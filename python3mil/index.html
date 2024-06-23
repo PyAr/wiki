@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html prefix="
+og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Python 3000 = Py3K = 3.x | Python Argentina Wiki</title>
+<link href="../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/bootblog.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../rss.xml">
+<link rel="canonical" href="https://wiki.python.org.ar/python3mil/">
+<!--[if lt IE 9]><script src="../assets/js/html5.js"></script><![endif]--><meta name="author" content="Python Argentina">
+<meta property="og:site_name" content="Python Argentina Wiki">
+<meta property="og:title" content="Python 3000 = Py3K = 3.x">
+<meta property="og:url" content="https://wiki.python.org.ar/python3mil/">
+<meta property="og:description" content="Python 3.0 es la última versión del lenguaje, actualmente en desarrollo. Se pueden ver todas las características en el PEP 3000 y derivados.
+
+¿Python 3.0 no es compatible hacia atras con versiones pre">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
+
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../pyar/"><span class="quienes_somos"></span>Nosotros</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../foro_y_redes/"><span class="navbar_lista_de_correo"></span>Foro</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../"><span class="wiki"></span>Wiki</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/noticias/"><span class="news"></span>Noticias</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/irc/"><span class="irc"></span>IRC</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/eventos/"><span class="eventos"></span>Eventos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://planeta.python.org.ar/"><span class="pyar"></span>Planeta</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/trabajo/"><span class="jobs"></span>Trabajos</a>
+                </li>
+            </ul>
+</div>
+    </nav>
+</div>
+
+<!-- Header and menu bar -->
+<div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        
+<div class="col-lg-12">
+    <div class="page-header">
+        <div class="pull-right">
+            <a href="https://github.com/PyAr/wiki/blob/master/pages/python3mil.rst" id="sourcelink" class="nav-link">Editar</a>
+        </div>
+        <h2>Python 3000 = Py3k = 3.x</h2>
+    </div>
+    <div class="e-content entry-content" itemprop="articleBody text">
+    <p>Python 3.0 es la última versión del lenguaje, actualmente en desarrollo. Se pueden ver todas las características en el <a class="reference external" href="http://www.python.org/dev/peps/pep-3000/">PEP 3000</a> y derivados.</p>
+<section id="python-3-0-no-es-compatible-hacia-atras-con-versiones-previas"><h2>¿Python 3.0 no es compatible hacia atras con versiones previas?</h2>
+<p>Sí, del mismo PEP se lee que "Python 3000 romperá la compatibilidad hacia atrás", pero esto no es tan grave como parece, las modificaciones son menores y tienen mucho menos impacto que los cambios que suceden en otros lenguajes (como por ej. en VB 6.0 a VB.NET como caso extremo, pero tambien en menor medida como sucedió con PHP 5, Perl 6, Java 2, .NET 2.0, etc.)</p>
+<p>Por ello, no hay motivo para alarmarse, dejar de usar python o firmar peticiones como pasó con Visual Basic Classic (6.0). La transición, en la mayoría de los casos, va a ser transparente o con cambios mínimos, sin tener que reescribir todo el código (ver más abajo).</p>
+<p>Lo que es conveniente es escribir el nuevo código (aún en Python 2.4 o Python 2.5) teniendo en cuenta las modificaciones de Python 3.0, para evitar complicaciones futuras y facilitar la transición automática.</p>
+</section><section id="que-cambia-en-py3k"><h2>¿Que cambia en Py3K?</h2>
+<p>Se puede encontrar la lista de cambios en <a class="reference external" href="http://docs.python.org/dev/3.0/whatsnew/3.0.html">"Whats New 3.0"</a>. En general, son correcciones de desambiguedades y comportamientos duplicados, unificaciones, limpieza de cosas obsoletas y algunas mejoras. A continuación se resumen, agrupados por "afinidad", en un orden arbitrario (el impacto de cada uno dependerá de como uno use el lenguaje):</p>
+<ul class="simple">
+<li>
+<p>La instrucción <code class="docutils literal">print</code> se reemplaza con una función <code class="docutils literal">print()</code></p>
+<ul>
+<li><p>Viejo: <code class="docutils literal">print "La respuesta es", 2*2</code> Nuevo: <code class="docutils literal"><span class="pre">print("La</span> respuesta es", 2*2)</code></p></li>
+<li><p>Viejo: <code class="docutils literal">print x,</code>  Nuevo: <code class="docutils literal">print(x, end=" ")</code> (no saltar a la próxima linea)</p></li>
+<li><p>Viejo: <code class="docutils literal">print</code> Nuevo: <code class="docutils literal">print()</code> (imprimir una línea en blanco)</p></li>
+<li><p>Viejo: <code class="docutils literal">print &gt;&gt;sys.stderr, "fatal error"</code> Nuevo: <code class="docutils literal"><span class="pre">print("fatal</span> error", file=sys.stderr)</code></p></li>
+<li><p>Viejo: <code class="docutils literal">print (x, y)</code> Nuevo: <code class="docutils literal"><span class="pre">print((x,</span> y))</code> (llamar con una tupla como primer parámetro)</p></li>
+<li><p>Nuevo: <code class="docutils literal"><span class="pre">print("Hay</span> &lt;", <span class="pre">2**32,</span> "&gt; <span class="pre">posibilidades!",</span> <span class="pre">sep="")</span></code> imprime <code class="docutils literal">Hay &lt;4294967296&gt; posibilidades!</code> (no usar espacio como separador)</p></li>
+</ul>
+</li>
+<li>
+<p>Strings</p>
+<ul>
+<li><p>Python 3.0 usa clases <code class="docutils literal">str</code> (strings unicode) y <code class="docutils literal">bytes</code> (datos binarios), en vez de <code class="docutils literal">unicode</code> y <code class="docutils literal">str</code> (strings de 8-bits)</p></li>
+<li><p>Se elimina <code class="docutils literal">basestring</code>, ya que se unificó en <code class="docutils literal">str</code></p></li>
+<li><p>Literales para datos binarios, ej. <code class="docutils literal">b"abc"</code>, crea una instancia de <code class="docutils literal">bytes</code></p></li>
+<li><p>En los archivos de texto, se obliga a usar una codificación (encoding)</p></li>
+<li><p>Se elimina <code class="docutils literal">string.letters</code> y similares (<code class="docutils literal">string.lowercase</code> y <code class="docutils literal">string.uppercase</code>). Usar <code class="docutils literal">string.ascii_letters</code></p></li>
+<li><p>UTF-8 es la codificación del código fuente por defecto. Se agrega la posibilidad de tener identificadores con "letras" no ASCII.</p></li>
+<li><p>Nuevo esquema para el formateo de strings: <code class="docutils literal">"hola <span class="pre">{quien}".format(quien="mundo")</span></code> (se mantiene el % estilo C)</p></li>
+</ul>
+</li>
+<li>
+<p>Iterables</p>
+<ul>
+<li><p><code class="docutils literal">zip()</code>, <code class="docutils literal">map()</code> y <code class="docutils literal">filter()</code> devuelven iteradores. Un ajuste rápido sería por ej. <code class="docutils literal"><span class="pre">list(map(...))</span></code>, pero algo mejor es usar comprehensión de listas (especialmente si se usa <code class="docutils literal">lambda</code>).</p></li>
+<li><p><code class="docutils literal">builtin.sorted()</code> y <code class="docutils literal">list.sort()</code> no aceptan un argumento cmp</p></li>
+<li><p>Se elimina <code class="docutils literal">__getslice__()</code> y similares</p></li>
+<li><p><code class="docutils literal">xrange()</code> se renombra a <code class="docutils literal">range()</code></p></li>
+<li><p><code class="docutils literal">.next()</code> se renombra a <code class="docutils literal">__next__()</code>, se incorpora un nuevo builtin <code class="docutils literal">next()</code> para llamara al método <code class="docutils literal">__next__()</code></p></li>
+<li><p>Unpacking extendido de iterables. Ahora se puede escribir <code class="docutils literal">a, b, *rest = some_sequence</code></p></li>
+</ul>
+</li>
+<li>
+<p>Diccionarios:</p>
+<ul>
+<li><p><code class="docutils literal">dict.keys()</code>, <code class="docutils literal">dict.items()</code> y <code class="docutils literal">dict.values()</code> devuelven vistas en vez de listas (objetos que reflejan el contenido del diccionario). Por ejemplo, esto no funcionará: <code class="docutils literal">k = <span class="pre">d.keys();</span> k.sort()</code>. Usar <code class="docutils literal">k = sorted(d)</code> en su lugar.</p></li>
+<li><p>Se eliminan <code class="docutils literal">dict.iterkeys()</code>, <code class="docutils literal">dict.itervalues()</code> y <code class="docutils literal">dict.iteritems()</code> (ver anterior)</p></li>
+<li><p>Se elimina <code class="docutils literal">dict.has_key()</code>, usar operador <code class="docutils literal">in</code> en su lugar. Ej. <code class="docutils literal">'x' in dict.keys()</code> en vez de <code class="docutils literal"><span class="pre">dict.has_key('x')</span></code></p></li>
+</ul>
+</li>
+<li>
+<p>Enteros:</p>
+<ul>
+<li><p><code class="docutils literal">1/2</code> devuelve un float (la división entera devuelve un float). Usar <code class="docutils literal"><span class="pre">1//2</span></code> para obtener el resultado truncado (entero)</p></li>
+<li><p><code class="docutils literal">long</code> se renombra a <code class="docutils literal">int</code> (se unifican los enteros)</p></li>
+<li><p>Se remueve <code class="docutils literal">sys.maxint</code>. Usar <code class="docutils literal">sys.maxsize</code></p></li>
+<li><p>La <code class="docutils literal">repr()</code> de un entero largo no incluye el prefijo L</p></li>
+</ul>
+</li>
+<li>
+<p>Excepciones:</p>
+<ul>
+<li><p>Deben derivar de <code class="docutils literal">BaseException</code></p></li>
+<li><p>Se elimina <code class="docutils literal">StandardError</code></p></li>
+<li><p>Se deben lanzar con un <code class="docutils literal">raise Exception(args)</code> en vez de <code class="docutils literal">raise Exception, args</code></p></li>
+<li><p>Se elimina el comportamiento de sequencias (slicing!) y el atributo <code class="docutils literal">message</code> de las instancias</p></li>
+<li><p>Caputra de excepciones: nueva sintaxis <code class="docutils literal">except clases as instancia</code> en vez de <code class="docutils literal">except clases, instancia</code>. La instancia se libera al finalizar el bloque.</p></li>
+<li><p>Encadenado de excepciones (nuevos atributos)</p></li>
+<li><p>Mejoras en los mensajes de error en windows</p></li>
+</ul>
+</li>
+<li>
+<p>Clases y Metaclases</p>
+<ul>
+<li><p>Se remueven las clases "clasicas"</p></li>
+<li><p>Se incorpora una nueva sintaxis de metaclases</p></li>
+<li><p>Abstract Base Classes (ABCs); decoradores <code class="docutils literal">@abstractmethod</code> and <code class="docutils literal">@abstractproperty</code>; ABCs colecciones y numéricas</p></li>
+<li><p>Decoradores de Clases</p></li>
+<li><p>Nuevo <code class="docutils literal">super()</code>. Se puede invocar sin argumentos y la clase correcta será elegida</p></li>
+</ul>
+</li>
+<li>
+<p>Comparaciones</p>
+<ul>
+<li><p>Se elimina <code class="docutils literal">&lt;&gt;</code> (usar <code class="docutils literal">!=</code>)</p></li>
+<li><p><code class="docutils literal">!=</code> devuelve lo opuesto de <code class="docutils literal">==</code>, salvo que <code class="docutils literal">==</code> devuelva NotImplemented.</p></li>
+<li><p>Los operadores de ordenamiento se comportan diferentes cuando se compara tipos incompatibles (lanza excepción)</p></li>
+</ul>
+</li>
+<li>
+<p>Funciones, argumentos y valores devueltos</p>
+<ul>
+<li><p>Se estandariza las anotaciones de los parámetros y resultados de las funciones: <code class="docutils literal">def dividir(a: int, b: int) <span class="pre">-&gt;</span> float:</code>. Como anotación se puede usar cualquier expresión arbitraria: <code class="docutils literal">def foo(a: 'x', b: 5 + 6, c: list) <span class="pre">-&gt;</span> max(2, 9):</code></p></li>
+<li><p>Argumentos Keyword-only. Se debe incluir el nombre del argumento despues del <code class="docutils literal">*arg</code></p></li>
+<li><p>Instrucción <code class="docutils literal">nonlocal</code> (para usar variables de ambitos exteriores pero no globales)</p></li>
+<li><p>Se elimina el unpacking tuplas en parametros. En vez de <code class="docutils literal">def foo(a, (b, <span class="pre">c)):</span> <span class="pre">....</span></code> usar <code class="docutils literal">def foo(a, b_c): b, c = b_c</code></p></li>
+</ul>
+</li>
+<li>
+<p>Varios</p>
+<ul>
+<li><p>Se elimina la comilla invertida (usar <code class="docutils literal">repr()</code>)</p></li>
+<li><p><code class="docutils literal">as</code> y <code class="docutils literal">with</code> son palabras reservadas (keywords)</p></li>
+<li><p><code class="docutils literal">True</code>, <code class="docutils literal">False</code>, and <code class="docutils literal">None</code> son palabras reservadas (keywords)</p></li>
+<li><p><code class="docutils literal">raw_input()</code> se renombra a <code class="docutils literal">input()</code>, para el comportamiento anterior de <code class="docutils literal">input()</code>, usar <code class="docutils literal"><span class="pre">eval(input())</span></code></p></li>
+<li><p>Literales octales, binarios, <code class="docutils literal">oct()</code> y <code class="docutils literal">bin()</code>. En vez de <code class="docutils literal">0666</code>, escribir <code class="docutils literal">0o666</code>. Ídem binarios</p></li>
+<li><p>Se elimina: <code class="docutils literal">apply()</code>, <code class="docutils literal">callable()</code>, <code class="docutils literal">coerce()</code>, <code class="docutils literal">execfile()</code>, <code class="docutils literal">file()</code>, <code class="docutils literal">reduce()</code>, <code class="docutils literal">reload()</code></p></li>
+<li><p><code class="docutils literal">exec()</code> is ahora una function.</p></li>
+<li><p>Nuevo representacion de formato punto flotante libre. <code class="docutils literal"><span class="pre">repr(11./5)</span></code> devuelve <code class="docutils literal">2.2</code> en vez de <code class="docutils literal">2.2000000000000002</code></p></li>
+<li><p>Se eliminan <code class="docutils literal">__oct__()</code> and <code class="docutils literal">__hex__()</code>. <code class="docutils literal">oct()</code> y <code class="docutils literal">hex()</code> usan <code class="docutils literal">__index__()</code></p></li>
+<li><p>Se elimina soporte para <code class="docutils literal">__members__</code> and <code class="docutils literal">__methods__</code></p></li>
+</ul>
+</li>
+<li>
+<p>Módulos</p>
+<ul>
+<li><p>Se elimina el módulo <code class="docutils literal">cPickle</code>. Usar <code class="docutils literal">pickle</code> en su lugar. Eventualmente existirá un modulo acelerador transparente.</p></li>
+<li><p>Se eliminan los módulos <code class="docutils literal">StringIO</code> y <code class="docutils literal">cStringIO</code>. En su lugar, importar <code class="docutils literal">io.StringIO</code> o <code class="docutils literal">io.BytesIO</code> (ver arriba)</p></li>
+<li><p>Se elimina el módulo <code class="docutils literal">imageop</code></p></li>
+<li><p>Se eliminan los módulos <code class="docutils literal">audiodev</code>, <code class="docutils literal">Bastion</code>, <code class="docutils literal">bsddb185</code>, <code class="docutils literal">exceptions</code>, <code class="docutils literal">linuxaudiodev</code>, <code class="docutils literal">md5</code>, <code class="docutils literal">MimeWriter</code>, <code class="docutils literal">mimify</code>, <code class="docutils literal">popen2</code>, <code class="docutils literal">rexec</code>, <code class="docutils literal">sets</code>, <code class="docutils literal">sha</code>, <code class="docutils literal">stringold</code>, <code class="docutils literal">strop</code>, <code class="docutils literal">sunaudiodev</code>, <code class="docutils literal">timing</code>, y <code class="docutils literal">xmllib</code></p></li>
+<li><p>Se elimina el módulo <code class="docutils literal">new</code></p></li>
+<li><p>Se elimina functiones <code class="docutils literal">os.tmpnam()</code>, <code class="docutils literal">os.tempnam()</code> y <code class="docutils literal">os.tmpfile()</code> en favor del módulo <code class="docutils literal">tempfile</code></p></li>
+</ul>
+</li>
+</ul></section><section id="como-hacer-la-transicion-a-py3k"><h2>¿Como hacer la transición a Py3K?</h2>
+<p>Para facilitar la transición, Python 2.6 soportará compatibilidad hacia adelante:</p>
+<ul class="simple">
+<li><p>"Modo de Advertencia Py3k", el cual advertirá dinamicamente (en tiempo de ejecución) sobre las características que dejaran de funcionar en Python 3.0.</p></li>
+<li><p>Contenerá versiones "backportadas" de las nuevas caracteristicas de Py3K, tanto activadas con <code class="docutils literal">__future__</code> o permitiendo usar la sintaxis nueva o vieja.</p></li>
+</ul>
+<p>Adicionalmente, y en vez de implementar todas las nuevas características en Python 2.6, existe una herramienta de conversión de código fuente (2to3), que ayudará a la traducción automática del código fuente.</p>
+<p>Suponiendo que se tengan test de unidades con cobertura aproximadamente completa, el modo recomendado de desarrollo para proyectos que deban soportar tanto Python 2.6 como 3.0 sería:</p>
+<ol class="arabic simple">
+<li><p>Portar el proyecto a Python 2.6.</p></li>
+<li><p>Activar el modo de advertencia de Py3k</p></li>
+<li><p>Testear y editar hasta que no queden advertencias</p></li>
+<li><p>Usar la herramienta 2to3 para convertir el código fuente a la sintáxis 3.0. No editar manualmente la salida de este programa!</p></li>
+<li><p>Probar el código fuente convertido bajo Python 3.0</p></li>
+<li><p>Si se encuentran problemas, hacer las correcciones en el código fuente de la versión 2.6 y volver al paso 3</p></li>
+<li><p>Al momento de publicar, publicar versiones separadas del proyecto sobre 2.6 y 3.0</p></li>
+</ol></section><section id="es-necesario-esperar-a-python-3-0-para-comenzar-nuevos-proyectos"><h2>¿Es necesario esperar a Python 3.0 para comenzar nuevos proyectos?</h2>
+<p><strong>Pregunta</strong>:</p>
+<blockquote>
+<p>&gt; Ahora que estoy leyendo veo que python 3 no es compatible con la versión 2 y hay algunos cambios en la sintaxis. No sería conveniente arrancar con la sintaxis 3 directamente (si bien leo por ahí que esta en versión alfa todavía).</p>
+</blockquote>
+<p><strong>Respuesta</strong></p>
+<p>No, Python 3.0 es sólo para que el resto del mundo empiece a ponerse a tiro.</p>
+<p>Estamos planeando liberar 3.0 final tipo por agosto (el "tipo por" es para asombro de Bob), y es para afirmar APIs y conceptos... la realidad es que Python 3 va a ser tan usable como Python 2 en la versión 3.1.</p>
+<p>Asi que, a menos que quieras entrar en producción dentro de dos años, largá con Py2 tranquilo.</p>
+<p>Para un ejemplo, elijamos una biblioteca de terceros bien conocida: PIL, que es para tratamiento de imágenes.  Como Python 3 cambia un montón de cosas, el "viejo PIL" no funciona, y tienen que adaptarlo para el nuevo Python.</p>
+<p>Entonces, cuando larguemos Py3.0, estamos consolidando las bases y diciendo: "Ok, PIL, esta es la API, fijate y adaptate". Entonces, durante unos meses la gente de PIL se adpata a lo nuevo, y cuando sale Py3.1, vos ya tenés PIL.</p>
+<p>Pero en 3.0 no lo tenés. Por eso digo que 3.0 no es para producción, sino para que el resto del mundo (PIL y otras bibliotecas) se pongan a tiro.</p>
+<p>(Respuesta de <a class="reference external" href="../miembros/facundobatista">FacundoBatista</a> tomada de la Lista)</p>
+<!-- ############################################################################ -->
+</section>
+</div>    
+</div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+            <script src="../assets/js/jquery.min.js"></script><script src="../assets/js/popper.min.js"></script><script src="../assets/js/bootstrap.min.js"></script><script src="../assets/js/baguetteBox.min.js"></script><script src="../assets/js/pyar.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>

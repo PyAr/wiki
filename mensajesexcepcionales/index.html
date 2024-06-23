@@ -1,0 +1,558 @@
+<!DOCTYPE html>
+<html prefix="
+og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mensajes Excepcionales | Python Argentina Wiki</title>
+<link href="../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/bootblog.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../rss.xml">
+<link rel="canonical" href="https://wiki.python.org.ar/mensajesexcepcionales/">
+<!--[if lt IE 9]><script src="../assets/js/html5.js"></script><![endif]--><meta name="author" content="Python Argentina">
+<meta property="og:site_name" content="Python Argentina Wiki">
+<meta property="og:title" content="Mensajes Excepcionales">
+<meta property="og:url" content="https://wiki.python.org.ar/mensajesexcepcionales/">
+<meta property="og:description" content='"10. Los errores nunca deberían dejarse pasar silenciosamente." PythonZen
+
+Esta página busca ser una guía para las personas que se estén iniciando en este maravilloso lenguaje y se encuentren con erro'>
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
+
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../pyar/"><span class="quienes_somos"></span>Nosotros</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../foro_y_redes/"><span class="navbar_lista_de_correo"></span>Foro</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../"><span class="wiki"></span>Wiki</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/noticias/"><span class="news"></span>Noticias</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/irc/"><span class="irc"></span>IRC</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/eventos/"><span class="eventos"></span>Eventos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://planeta.python.org.ar/"><span class="pyar"></span>Planeta</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/trabajo/"><span class="jobs"></span>Trabajos</a>
+                </li>
+            </ul>
+</div>
+    </nav>
+</div>
+
+<!-- Header and menu bar -->
+<div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        
+<div class="col-lg-12">
+    <div class="page-header">
+        <div class="pull-right">
+            <a href="https://github.com/PyAr/wiki/blob/master/pages/mensajesexcepcionales.rst" id="sourcelink" class="nav-link">Editar</a>
+        </div>
+        <h2>Mensajes Excepcionales</h2>
+    </div>
+    <div class="e-content entry-content" itemprop="articleBody text">
+    <blockquote>
+<p><em>"10. Los errores nunca deberían dejarse pasar silenciosamente."</em> <a class="reference external" href="../pythonzen">PythonZen</a></p>
+</blockquote>
+<p>Esta página busca ser una guía para las personas que se estén iniciando en este maravilloso lenguaje y se encuentren con errores comunes y no sepan como solucionarlos.</p>
+<p>La idea es presentar ejemplos de excepciones, su traducción al español y una posible solución en cada caso.</p>
+<section id="que-son-las-excepciones"><h2>¿Que son las excepciones?</h2>
+<p>Las Excepciones (<code class="docutils literal">Exceptions</code> en inglés) son condiciones excepcionales que eleva el sistema operativo, el lenguaje, o nuestro mismo programa.</p>
+<p>No necesariamente pueden ser un error, también existen advertencias que en general no interrumpen el flujo del programa.</p>
+</section><section id="que-son-los-tracebacks-trazas-de-rastreo"><h2>¿Que son los tracebacks (trazas de rastreo)?</h2>
+<p>Las trazas de rastreo (<code class="docutils literal">Traceback</code> en inglés) es la información que reúne el lenguaje para informarnos sobre una excepción que ha ocurrido.</p>
+<p>Por ejemplo:</p>
+<div class="code"><pre class="code python"><a id="rest_code_ac21422d8cdf460a91660f4347ffc16e-1" name="rest_code_ac21422d8cdf460a91660f4347ffc16e-1" href="#rest_code_ac21422d8cdf460a91660f4347ffc16e-1"></a><span class="n">Traceback</span> <span class="p">(</span><span class="n">most</span> <span class="n">recent</span> <span class="n">call</span> <span class="n">last</span><span class="p">):</span>
+<a id="rest_code_ac21422d8cdf460a91660f4347ffc16e-2" name="rest_code_ac21422d8cdf460a91660f4347ffc16e-2" href="#rest_code_ac21422d8cdf460a91660f4347ffc16e-2"></a>  <span class="n">File</span> <span class="s2">"form.py"</span><span class="p">,</span> <span class="n">line</span> <span class="mi">78</span><span class="p">,</span> <span class="ow">in</span> <span class="o">&lt;</span><span class="n">module</span><span class="o">&gt;</span>
+<a id="rest_code_ac21422d8cdf460a91660f4347ffc16e-3" name="rest_code_ac21422d8cdf460a91660f4347ffc16e-3" href="#rest_code_ac21422d8cdf460a91660f4347ffc16e-3"></a>    <span class="n">f</span> <span class="o">=</span> <span class="n">Form</span><span class="p">(</span><span class="s2">"factura.csv"</span><span class="p">)</span>
+<a id="rest_code_ac21422d8cdf460a91660f4347ffc16e-4" name="rest_code_ac21422d8cdf460a91660f4347ffc16e-4" href="#rest_code_ac21422d8cdf460a91660f4347ffc16e-4"></a>  <span class="n">File</span> <span class="s2">"form.py"</span><span class="p">,</span> <span class="n">line</span> <span class="mi">12</span><span class="p">,</span> <span class="ow">in</span> <span class="fm">__init__</span>
+<a id="rest_code_ac21422d8cdf460a91660f4347ffc16e-5" name="rest_code_ac21422d8cdf460a91660f4347ffc16e-5" href="#rest_code_ac21422d8cdf460a91660f4347ffc16e-5"></a>    <span class="k">for</span> <span class="n">linea</span> <span class="ow">in</span> <span class="nb">open</span><span class="p">(</span><span class="n">infile</span><span class="p">)</span><span class="o">.</span><span class="n">readlines</span><span class="p">():</span>
+<a id="rest_code_ac21422d8cdf460a91660f4347ffc16e-6" name="rest_code_ac21422d8cdf460a91660f4347ffc16e-6" href="#rest_code_ac21422d8cdf460a91660f4347ffc16e-6"></a><span class="ne">IOError</span><span class="p">:</span> <span class="p">[</span><span class="n">Errno</span> <span class="mi">2</span><span class="p">]</span> <span class="n">No</span> <span class="n">such</span> <span class="n">file</span> <span class="ow">or</span> <span class="n">directory</span><span class="p">:</span> <span class="s1">'factura.csv'</span>
+</pre></div>
+<p>Se traduciría a:</p>
+<div class="code"><pre class="code python"><a id="rest_code_31cc04aa04c44250a9bf23432f66a82a-1" name="rest_code_31cc04aa04c44250a9bf23432f66a82a-1" href="#rest_code_31cc04aa04c44250a9bf23432f66a82a-1"></a><span class="n">Traza</span> <span class="n">de</span> <span class="n">rastreo</span> <span class="p">(</span><span class="n">llamada</span> <span class="n">más</span> <span class="n">reciente</span> <span class="n">a</span> <span class="n">lo</span> <span class="n">último</span><span class="p">):</span>
+<a id="rest_code_31cc04aa04c44250a9bf23432f66a82a-2" name="rest_code_31cc04aa04c44250a9bf23432f66a82a-2" href="#rest_code_31cc04aa04c44250a9bf23432f66a82a-2"></a>  <span class="n">Archivo</span> <span class="s2">"form.py"</span><span class="p">,</span> <span class="n">línea</span> <span class="mi">78</span><span class="p">,</span> <span class="n">en</span> <span class="o">&lt;</span><span class="n">módulo</span><span class="o">&gt;</span>
+<a id="rest_code_31cc04aa04c44250a9bf23432f66a82a-3" name="rest_code_31cc04aa04c44250a9bf23432f66a82a-3" href="#rest_code_31cc04aa04c44250a9bf23432f66a82a-3"></a>    <span class="n">f</span> <span class="o">=</span> <span class="n">Form</span><span class="p">(</span><span class="s2">"factura.csv"</span><span class="p">)</span>
+<a id="rest_code_31cc04aa04c44250a9bf23432f66a82a-4" name="rest_code_31cc04aa04c44250a9bf23432f66a82a-4" href="#rest_code_31cc04aa04c44250a9bf23432f66a82a-4"></a>  <span class="n">Archivo</span> <span class="s2">"form.py"</span><span class="p">,</span> <span class="n">línea</span> <span class="mi">12</span><span class="p">,</span> <span class="n">en</span> <span class="fm">__init__</span>
+<a id="rest_code_31cc04aa04c44250a9bf23432f66a82a-5" name="rest_code_31cc04aa04c44250a9bf23432f66a82a-5" href="#rest_code_31cc04aa04c44250a9bf23432f66a82a-5"></a>    <span class="k">for</span> <span class="n">linea</span> <span class="ow">in</span> <span class="nb">open</span><span class="p">(</span><span class="n">infile</span><span class="p">)</span><span class="o">.</span><span class="n">readlines</span><span class="p">():</span>
+<a id="rest_code_31cc04aa04c44250a9bf23432f66a82a-6" name="rest_code_31cc04aa04c44250a9bf23432f66a82a-6" href="#rest_code_31cc04aa04c44250a9bf23432f66a82a-6"></a><span class="ne">IOError</span><span class="p">:</span> <span class="p">[</span><span class="n">Errno</span> <span class="mi">2</span><span class="p">]</span> <span class="n">No</span> <span class="n">existe</span> <span class="n">el</span> <span class="n">archivo</span> <span class="n">o</span> <span class="n">directorio</span><span class="p">:</span> <span class="s1">'factura.csv'</span>
+</pre></div>
+<p>Y nos dice que:</p>
+<ul class="simple">
+<li><p>Se produjo una excepción del tipo IOError con el mensaje "[Errno 2] No existe el archivo o directorio: 'factura.csv'"</p></li>
+<li><p>El problema surgió en la línea 12 de <code class="docutils literal">form.py</code> (dentro de la función <code class="docutils literal">__init__</code>): <code class="docutils literal">for linea in <span class="pre">open(infile).readlines():</span></code></p></li>
+<li><p>Esta función fue llamada desde la línea 78 del mismo archivo (en el módulo, fuera de una función): <code class="docutils literal">f = <span class="pre">Form("factura.csv")</span></code></p></li>
+<li><p>y así sucesivamente (si tuvieramos más llamadas encadenadas, la lista sería más larga)</p></li>
+</ul>
+<p>En este ejemplo, vemos que le estamos pasando un nombre de archivo que no existe ('factura.csv'), y para corregir el error deberíamos modificar la línea 78.</p>
+<p>Aquí es donde se ve la utilidad de las trazas, a veces el error no es culpa de la línea en el que es producido, sino viene arrastrando un dato o condición inválida desde otro punto del programa.</p>
+<p>Que el árbol no nos impida ver el bosque ... 🙂</p>
+</section><section id="errores-comunes"><h2>Errores comunes</h2>
+<section id="errores-de-sangria-identationerror"><h3>Errores de Sangría (IdentationError)</h3>
+<blockquote>
+<p><em>"7. La legibilidad cuenta."</em> <a class="reference external" href="../pythonzen">PythonZen</a></p>
+</blockquote>
+<p>En Python es fundamental dejar sangría (espacio antes de las instrucciones), que identifica el bloque al que pertenece, ya que no usamos llaves o palabras clave para delimitar los bloques como en otros lenguajes. Si bien esto ayuda a escribir código más prolijo evitando errores de anidación, puede ser raro hasta que uno se acostumbra.</p>
+<p>Generalmente, cada vez que abramos un bloque (con una sentencia que termina en : -dos puntos- ), debemos incrementar la sangría. Por ej:</p>
+<div class="code"><pre class="code python"><a id="rest_code_e9d1ddc511764df4926889295c7dce8c-1" name="rest_code_e9d1ddc511764df4926889295c7dce8c-1" href="#rest_code_e9d1ddc511764df4926889295c7dce8c-1"></a><span class="k">def</span> <span class="nf">mayor</span><span class="p">(</span><span class="n">param1</span><span class="p">,</span> <span class="n">param2</span><span class="o">=</span><span class="mi">0</span><span class="p">):</span>
+<a id="rest_code_e9d1ddc511764df4926889295c7dce8c-2" name="rest_code_e9d1ddc511764df4926889295c7dce8c-2" href="#rest_code_e9d1ddc511764df4926889295c7dce8c-2"></a>    <span class="k">if</span> <span class="n">param1</span> <span class="ow">is</span> <span class="kc">None</span><span class="p">:</span>
+<a id="rest_code_e9d1ddc511764df4926889295c7dce8c-3" name="rest_code_e9d1ddc511764df4926889295c7dce8c-3" href="#rest_code_e9d1ddc511764df4926889295c7dce8c-3"></a>        <span class="k">return</span> <span class="s2">"El valor es None=Nulo! :S"</span>
+<a id="rest_code_e9d1ddc511764df4926889295c7dce8c-4" name="rest_code_e9d1ddc511764df4926889295c7dce8c-4" href="#rest_code_e9d1ddc511764df4926889295c7dce8c-4"></a>    <span class="k">elif</span> <span class="n">param1</span><span class="o">&gt;</span><span class="n">param2</span><span class="p">:</span>
+<a id="rest_code_e9d1ddc511764df4926889295c7dce8c-5" name="rest_code_e9d1ddc511764df4926889295c7dce8c-5" href="#rest_code_e9d1ddc511764df4926889295c7dce8c-5"></a>        <span class="nb">print</span> <span class="n">param1</span><span class="p">,</span><span class="s2">"es mayor a"</span><span class="p">,</span> <span class="n">param2</span>
+<a id="rest_code_e9d1ddc511764df4926889295c7dce8c-6" name="rest_code_e9d1ddc511764df4926889295c7dce8c-6" href="#rest_code_e9d1ddc511764df4926889295c7dce8c-6"></a>        <span class="k">return</span> <span class="s2">"todo bien :)"</span>
+<a id="rest_code_e9d1ddc511764df4926889295c7dce8c-7" name="rest_code_e9d1ddc511764df4926889295c7dce8c-7" href="#rest_code_e9d1ddc511764df4926889295c7dce8c-7"></a>    <span class="k">else</span><span class="p">:</span>
+<a id="rest_code_e9d1ddc511764df4926889295c7dce8c-8" name="rest_code_e9d1ddc511764df4926889295c7dce8c-8" href="#rest_code_e9d1ddc511764df4926889295c7dce8c-8"></a>        <span class="nb">print</span> <span class="n">param1</span><span class="p">,</span><span class="s2">"es menor a"</span><span class="p">,</span> <span class="n">param2</span>
+<a id="rest_code_e9d1ddc511764df4926889295c7dce8c-9" name="rest_code_e9d1ddc511764df4926889295c7dce8c-9" href="#rest_code_e9d1ddc511764df4926889295c7dce8c-9"></a>        <span class="k">return</span> <span class="s2">"todo mal :("</span>
+<a id="rest_code_e9d1ddc511764df4926889295c7dce8c-10" name="rest_code_e9d1ddc511764df4926889295c7dce8c-10" href="#rest_code_e9d1ddc511764df4926889295c7dce8c-10"></a>
+<a id="rest_code_e9d1ddc511764df4926889295c7dce8c-11" name="rest_code_e9d1ddc511764df4926889295c7dce8c-11" href="#rest_code_e9d1ddc511764df4926889295c7dce8c-11"></a><span class="nb">print</span> <span class="n">mayor</span><span class="p">(</span><span class="mi">5</span><span class="p">)</span>
+</pre></div>
+<p>Que puede pasar si no lo hacemos...</p>
+<section id="error-de-sangria-se-esperaba-un-bloque-con-sangria"><h4>Error de Sangría: se esperaba un bloque con sangría</h4>
+<div class="code"><pre class="code python"><a id="rest_code_77693babcb40413d90f3fba40e8f37a4-1" name="rest_code_77693babcb40413d90f3fba40e8f37a4-1" href="#rest_code_77693babcb40413d90f3fba40e8f37a4-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="k">if</span> <span class="kc">True</span><span class="p">:</span>
+<a id="rest_code_77693babcb40413d90f3fba40e8f37a4-2" name="rest_code_77693babcb40413d90f3fba40e8f37a4-2" href="#rest_code_77693babcb40413d90f3fba40e8f37a4-2"></a><span class="o">...</span> <span class="nb">print</span> <span class="s2">"verdad!"</span>
+<a id="rest_code_77693babcb40413d90f3fba40e8f37a4-3" name="rest_code_77693babcb40413d90f3fba40e8f37a4-3" href="#rest_code_77693babcb40413d90f3fba40e8f37a4-3"></a>  <span class="n">File</span> <span class="s2">"&lt;input&gt;"</span><span class="p">,</span> <span class="n">line</span> <span class="mi">2</span>
+<a id="rest_code_77693babcb40413d90f3fba40e8f37a4-4" name="rest_code_77693babcb40413d90f3fba40e8f37a4-4" href="#rest_code_77693babcb40413d90f3fba40e8f37a4-4"></a>    <span class="nb">print</span> <span class="s2">"verdad!"</span>
+<a id="rest_code_77693babcb40413d90f3fba40e8f37a4-5" name="rest_code_77693babcb40413d90f3fba40e8f37a4-5" href="#rest_code_77693babcb40413d90f3fba40e8f37a4-5"></a>        <span class="o">^</span>
+<a id="rest_code_77693babcb40413d90f3fba40e8f37a4-6" name="rest_code_77693babcb40413d90f3fba40e8f37a4-6" href="#rest_code_77693babcb40413d90f3fba40e8f37a4-6"></a><span class="ne">IndentationError</span><span class="p">:</span> <span class="n">expected</span> <span class="n">an</span> <span class="n">indented</span> <span class="n">block</span>
+</pre></div>
+<p>Aquí el <code class="docutils literal">print</code> esta a la misma altura que el <code class="docutils literal">if</code> (sin sangría), cuando deberíamos haber dejado el espacio correspondiente porque estamos abriendo un nuevo bloque con <code class="docutils literal">:</code></p>
+</section><section id="error-de-sangria-sangria-no-esperada"><h4>Error de Sangría: sangría no esperada</h4>
+<div class="code"><pre class="code python"><a id="rest_code_8f889a8f6f4e4f9a998eac40f9cc455b-1" name="rest_code_8f889a8f6f4e4f9a998eac40f9cc455b-1" href="#rest_code_8f889a8f6f4e4f9a998eac40f9cc455b-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="nb">print</span> <span class="s2">"hola"</span>
+<a id="rest_code_8f889a8f6f4e4f9a998eac40f9cc455b-2" name="rest_code_8f889a8f6f4e4f9a998eac40f9cc455b-2" href="#rest_code_8f889a8f6f4e4f9a998eac40f9cc455b-2"></a><span class="o">&gt;&gt;&gt;</span>    <span class="nb">print</span> <span class="s2">"chau"</span>
+<a id="rest_code_8f889a8f6f4e4f9a998eac40f9cc455b-3" name="rest_code_8f889a8f6f4e4f9a998eac40f9cc455b-3" href="#rest_code_8f889a8f6f4e4f9a998eac40f9cc455b-3"></a>  <span class="n">File</span> <span class="s2">"&lt;input&gt;"</span><span class="p">,</span> <span class="n">line</span> <span class="mi">1</span>
+<a id="rest_code_8f889a8f6f4e4f9a998eac40f9cc455b-4" name="rest_code_8f889a8f6f4e4f9a998eac40f9cc455b-4" href="#rest_code_8f889a8f6f4e4f9a998eac40f9cc455b-4"></a>    <span class="nb">print</span> <span class="s2">"chau"</span>
+<a id="rest_code_8f889a8f6f4e4f9a998eac40f9cc455b-5" name="rest_code_8f889a8f6f4e4f9a998eac40f9cc455b-5" href="#rest_code_8f889a8f6f4e4f9a998eac40f9cc455b-5"></a>   <span class="o">^</span>
+<a id="rest_code_8f889a8f6f4e4f9a998eac40f9cc455b-6" name="rest_code_8f889a8f6f4e4f9a998eac40f9cc455b-6" href="#rest_code_8f889a8f6f4e4f9a998eac40f9cc455b-6"></a><span class="ne">IndentationError</span><span class="p">:</span> <span class="n">unexpected</span> <span class="n">indent</span>
+</pre></div>
+<p>Aquí el <code class="docutils literal">print "chau"</code> <em>no</em> esta a la misma altura que el <code class="docutils literal">print "hola"</code>, como no abrimos un bloque con <code class="docutils literal">:</code>, no es necesario dejar espacio para la sangría.</p>
+</section><section id="error-de-sangria-la-nueva-sangria-no-coincide-con-ningun-otro-nivel-exterior"><h4>Error de Sangría: la nueva sangría no coincide con ningún otro nivel exterior</h4>
+<div class="code"><pre class="code python"><a id="rest_code_bb60a47455d64f4190a43f46c2bfca3d-1" name="rest_code_bb60a47455d64f4190a43f46c2bfca3d-1" href="#rest_code_bb60a47455d64f4190a43f46c2bfca3d-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="k">def</span> <span class="nf">prueba</span><span class="p">():</span>
+<a id="rest_code_bb60a47455d64f4190a43f46c2bfca3d-2" name="rest_code_bb60a47455d64f4190a43f46c2bfca3d-2" href="#rest_code_bb60a47455d64f4190a43f46c2bfca3d-2"></a><span class="o">...</span>     <span class="k">if</span> <span class="kc">False</span><span class="p">:</span>
+<a id="rest_code_bb60a47455d64f4190a43f46c2bfca3d-3" name="rest_code_bb60a47455d64f4190a43f46c2bfca3d-3" href="#rest_code_bb60a47455d64f4190a43f46c2bfca3d-3"></a><span class="o">...</span>         <span class="k">pass</span>
+<a id="rest_code_bb60a47455d64f4190a43f46c2bfca3d-4" name="rest_code_bb60a47455d64f4190a43f46c2bfca3d-4" href="#rest_code_bb60a47455d64f4190a43f46c2bfca3d-4"></a><span class="o">...</span>   <span class="nb">print</span> <span class="s2">"..."</span>
+<a id="rest_code_bb60a47455d64f4190a43f46c2bfca3d-5" name="rest_code_bb60a47455d64f4190a43f46c2bfca3d-5" href="#rest_code_bb60a47455d64f4190a43f46c2bfca3d-5"></a>  <span class="n">File</span> <span class="s2">"&lt;input&gt;"</span><span class="p">,</span> <span class="n">line</span> <span class="mi">4</span>
+<a id="rest_code_bb60a47455d64f4190a43f46c2bfca3d-6" name="rest_code_bb60a47455d64f4190a43f46c2bfca3d-6" href="#rest_code_bb60a47455d64f4190a43f46c2bfca3d-6"></a>    <span class="nb">print</span> <span class="s2">"..."</span>
+<a id="rest_code_bb60a47455d64f4190a43f46c2bfca3d-7" name="rest_code_bb60a47455d64f4190a43f46c2bfca3d-7" href="#rest_code_bb60a47455d64f4190a43f46c2bfca3d-7"></a>
+<a id="rest_code_bb60a47455d64f4190a43f46c2bfca3d-8" name="rest_code_bb60a47455d64f4190a43f46c2bfca3d-8" href="#rest_code_bb60a47455d64f4190a43f46c2bfca3d-8"></a><span class="o">^</span>
+<a id="rest_code_bb60a47455d64f4190a43f46c2bfca3d-9" name="rest_code_bb60a47455d64f4190a43f46c2bfca3d-9" href="#rest_code_bb60a47455d64f4190a43f46c2bfca3d-9"></a><span class="ne">IndentationError</span><span class="p">:</span> <span class="n">unindent</span> <span class="n">does</span> <span class="ow">not</span> <span class="n">match</span> <span class="nb">any</span> <span class="n">outer</span> <span class="n">indentation</span> <span class="n">level</span>
+</pre></div>
+<p>Aquí el <code class="docutils literal">print <span class="pre">"..."</span></code> <em>no</em> esta a la misma altura que el <code class="docutils literal">if False</code> ni que el <code class="docutils literal">pass</code> ni que el <code class="docutils literal">def</code>, por lo que no se sabe a que bloque pertenece. Si cerramos el bloque del <code class="docutils literal">if</code> debería estar a la misma altura que este, y si pertenece al bloque <code class="docutils literal">if</code>, debería estar dentro de este a la altura del <code class="docutils literal">pass</code>. Si el <code class="docutils literal">print</code> no pertenece a la función, deberíamos ponerlo a la misma altura que el <code class="docutils literal">def</code></p>
+</section></section><section id="errores-de-sintaxis-syntaxerror"><h3>Errores de Sintaxis (SyntaxError)</h3>
+<blockquote>
+<p><em>"13. Debería haber una — y preferiblemente sólo una — manera obvia de hacerlo."</em> <a class="reference external" href="../pythonzen">PythonZen</a></p>
+</blockquote>
+<p>La sintaxis, como en cualquier lenguaje, es fundamental para que Python entienda lo que estamos queriendole decir, ya que es estricto y se reusará a ejecutar cualquier código que no siga las reglas de sintáxis definidas (que por cierto, no son muchas), a saber:</p>
+<ul class="simple">
+<li>
+<p><strong>Mayúsculas y Minúsculas, identificadores (nombres) y palabras clave</strong>: empiezan con una letra, pueden continuar con letras (a..z o A..Z), dígitos (0..9) o guión bajo (_). Python reconoce la diferencia (es "case sensitive" o sensible a mayúsculas y minúsculas), por lo que <code class="docutils literal">Hola</code> y <code class="docutils literal">hola</code> son dos identificadores distintos! Se recomienda escribir:</p>
+<ul>
+<li><p>Nombres de variable y módulos (archivos) en minúsculas con las palabras separadas por guión bajo ('_'), por ejemplo: <code class="docutils literal">mi_variable_x</code></p></li>
+<li><p>Nombres de clases en CamelCase (primer letra de cada palabra en mayúscula, luego minúsculas, sin separar por espacios), por ejemplo: <code class="docutils literal">MiClasePunto</code></p></li>
+</ul>
+</li>
+<li>
+<p><strong>Palabras clave reservadas</strong>: deben ser escritas tal cual, deben estar al principio de una linea y/o separadas con espacios y no pueden ser usadas como nombres de variables: and as assert break class continue def elif else except exec finally for global if import in is lambda or pass print raise return try with yield.</p>
+<ul>
+<li><p>Sentencias simples <code class="docutils literal">assert pass del print return yield raise break continue import global exec</code>: son comprendidos dentro de una línea lógica y varias sentencias simples pueden estar en una sola línea separadas por punto y coma</p></li>
+<li><p>Sentencias compuestas <code class="docutils literal">if while for try with def class</code>: contienen (grupos de) otras sentencias; y de alguna manera afectan el control de la ejecución de los mismos. En general, abarcan múltiples líneas.</p></li>
+</ul>
+</li>
+<li>
+<p><strong>Literales</strong>: los valores "constantes" pueden escribirse según su tipo:</p>
+<ul>
+<li>
+<p>Cadenas (strings): encerrados por comillas simples o dobles (sin diferencia), ej: <code class="docutils literal">"mi cadena"</code> o <code class="docutils literal">'mi cadena'</code></p>
+<ul>
+<li><p>Unicode: se identifican con una u antes de la cadena, por ej: <code class="docutils literal">u"Mi texto en español"</code></p></li>
+<li><p>Raw (Crudo): se identifican con una r, son textos sin interpretar los escapes (""), por ej: <code class="docutils literal"><span class="pre">r"c:\config.sys"</span></code></p></li>
+<li><p>Con triple comilla simple (<code class="docutils literal">'''</code>) o triple comilla doble (<code class="docutils literal">"""</code> se encierran textos que se pueden extender varias líneas</p></li>
+</ul>
+</li>
+<li>
+<p>Números: en general, solo números separados por el punto ("coma decimal"), ej: <code class="docutils literal">1234.567</code></p>
+<ul>
+<li>
+<p>Prefijos: se utilizan para diferenciar la base en que está escrito el número:</p>
+<ul>
+<li><p>Hexadecimales (base 16): 0x1234</p></li>
+<li><p>Binarios (base 2): 0b01010101 (solo Python 2.6 o superior)</p></li>
+<li><p>Octales (base 8): 0o666 (solo Python 2.6 o superior), 0666 (solo Python 2.6 o inferior)</p></li>
+</ul>
+</li>
+<li>
+<p>Sufijos: se utlizan para denotar el tipo de número:</p>
+<ul>
+<li><p>Largos: 123456789012345678901234567890L (long)</p></li>
+<li><p>Imaginarios: 1234j</p></li>
+</ul>
+</li>
+<li><p>Notación científica: se indica con una e o E en el medio: <code class="docutils literal">1e100</code>, <code class="docutils literal"><span class="pre">3.14e-10</span></code> (no confundir con el número irracional, el exponente es en base 10)</p></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Operadores</strong>:</p>
+<ul>
+<li><p>Unarios:  reciben un operando: <code class="docutils literal">~ -</code>, por ej la negación: <code class="docutils literal"><span class="pre">-1</span></code></p></li>
+<li>
+<p>Binarios: reciben dos operandos:</p>
+<ul>
+<li><p>Aritméticos <code class="docutils literal">+ - * ** / // %</code>: para cálculos, por ej: <code class="docutils literal">1 + 2</code> (sumar 1 y 2)</p></li>
+<li><p>Relacionales <code class="docutils literal">&lt; &gt; &lt;= &gt;= == !=</code>: para comparaciones, por ej: <code class="docutils literal">a != b</code> (¿a es diferente de b?)</p></li>
+<li><p>A nivel de bit <code class="docutils literal">&lt;&lt; &gt;&gt; &amp; | ^</code>: por ej. <code class="docutils literal"><span class="pre">5&gt;&gt;6</span></code> (</p></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Delimitadores</strong>: determinados caracteres indican determinadas acciones y funcionan como "separadores", cualquier otro uso (o su no utilización) no especificado a continuación generará un error:</p>
+<ul>
+<li><p>Paréntesis (): definen tuplas "de elementos": <code class="docutils literal">(1,2,3,4)</code> o permiten llamar a una función/crear una clase, <code class="docutils literal">mi_funcion(123)</code></p></li>
+<li><p>Corchetes []: definen listas "de elementos": <code class="docutils literal">["uno", "dos", "tres"]</code> o permiten acceder por índice/clave a una colección: <code class="docutils literal">mi_lista[posición]</code></p></li>
+<li><p>Diccionarios {}: definen diccionarios (asociando un valor a una clave) por ej. <code class="docutils literal"><span class="pre">{'clave':'valor'</span></code>} o conjuntos</p></li>
+<li><p>Decorador @: aplican una función a una función o clase, por ej <code class="docutils literal">@requiere_acceso</code></p></li>
+<li><p>Coma <code class="docutils literal">,</code>: separa expresiones o elementos de una secuencia, por ej: <code class="docutils literal">1, 2, 3</code></p></li>
+<li><p>Dos puntos <code class="docutils literal">:</code>: inicia bloques (con o sin sangría), elementos en un diccionario o anotaciones en una función (<a class="reference external" href="../python3mil">Python3Mil</a>)</p></li>
+<li><p>Igual <code class="docutils literal">=</code>: asigna una expresión a un nombre, por ej. <code class="docutils literal">mi_variable=5</code> No confundir con igualdad: <code class="docutils literal"><span class="pre">a==b</span></code> También puede usarse la asignación aumentada, combinando un operador, por ej: <code class="docutils literal"><span class="pre">a+=1</span></code> (asigna el valor de <code class="docutils literal">a+1</code> a <code class="docutils literal">a</code>)</p></li>
+<li><p>Punto y coma <code class="docutils literal">;</code>: separa varias instrucciones en una misma línea, por ej. <code class="docutils literal">a=1; b=2; c=a+b</code>. <em>Sí, se puede como en C, pero tratar de no usar...</em></p></li>
+</ul>
+</li>
+<li><p><strong>Comentarios</strong>: cualquier línea que empieze con numeral (#) es un comentario y será ignorada (independientemente de lo que tiene adentro y si tiene sangría o no)</p></li>
+<li><p><strong>Caracteres sin significado</strong>: No usar el signo pesos ($) o el signo de interrogación (?) ya que no se utilizan en Python fuera de las cadenas y producirá un error.</p></li>
+</ul>
+<p>Esperando no haberlo abrumado con el resumen de la sintaxis del lenguaje (los interesados pueden ver la especificación completa en <a class="reference external" href="http://docs.python.org/">http://docs.python.org/</a>), veamos que pasa si no la respetamos:</p>
+<section id="error-de-sintaxis-sintaxis-invalida"><h4>Error de Sintaxis: sintaxis inválida</h4>
+<div class="code"><pre class="code python"><a id="rest_code_2132c7b5a5294051bac77c527ab584f2-1" name="rest_code_2132c7b5a5294051bac77c527ab584f2-1" href="#rest_code_2132c7b5a5294051bac77c527ab584f2-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">If</span> <span class="n">a</span><span class="o">&gt;</span><span class="mi">1</span><span class="p">:</span>
+<a id="rest_code_2132c7b5a5294051bac77c527ab584f2-2" name="rest_code_2132c7b5a5294051bac77c527ab584f2-2" href="#rest_code_2132c7b5a5294051bac77c527ab584f2-2"></a>  <span class="n">File</span> <span class="s2">"&lt;input&gt;"</span><span class="p">,</span> <span class="n">line</span> <span class="mi">1</span>
+<a id="rest_code_2132c7b5a5294051bac77c527ab584f2-3" name="rest_code_2132c7b5a5294051bac77c527ab584f2-3" href="#rest_code_2132c7b5a5294051bac77c527ab584f2-3"></a>    <span class="n">If</span> <span class="n">a</span><span class="o">&gt;</span><span class="mi">1</span><span class="p">:</span>
+<a id="rest_code_2132c7b5a5294051bac77c527ab584f2-4" name="rest_code_2132c7b5a5294051bac77c527ab584f2-4" href="#rest_code_2132c7b5a5294051bac77c527ab584f2-4"></a>       <span class="o">^</span>
+<a id="rest_code_2132c7b5a5294051bac77c527ab584f2-5" name="rest_code_2132c7b5a5294051bac77c527ab584f2-5" href="#rest_code_2132c7b5a5294051bac77c527ab584f2-5"></a><span class="ne">SyntaxError</span><span class="p">:</span> <span class="n">invalid</span> <span class="n">syntax</span>
+</pre></div>
+<p>Python respeta mayúsculas y minusculas, <code class="docutils literal">If</code> no es el <code class="docutils literal">if</code> que queremos usar. Tener cuidado sobre todo si venimos de lenguajes que son indiferentes a este tema (por. ej. Visual Basic)</p>
+<div class="code"><pre class="code python"><a id="rest_code_e56a6e6f9c824e8c881923920daa3d9d-1" name="rest_code_e56a6e6f9c824e8c881923920daa3d9d-1" href="#rest_code_e56a6e6f9c824e8c881923920daa3d9d-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">secuencia</span> <span class="o">=</span> <span class="mi">1</span> <span class="mi">2</span>
+<a id="rest_code_e56a6e6f9c824e8c881923920daa3d9d-2" name="rest_code_e56a6e6f9c824e8c881923920daa3d9d-2" href="#rest_code_e56a6e6f9c824e8c881923920daa3d9d-2"></a>  <span class="n">File</span> <span class="s2">"&lt;input&gt;"</span><span class="p">,</span> <span class="n">line</span> <span class="mi">1</span>
+<a id="rest_code_e56a6e6f9c824e8c881923920daa3d9d-3" name="rest_code_e56a6e6f9c824e8c881923920daa3d9d-3" href="#rest_code_e56a6e6f9c824e8c881923920daa3d9d-3"></a>    <span class="n">secuencia</span> <span class="o">=</span> <span class="mi">1</span> <span class="mi">2</span>
+<a id="rest_code_e56a6e6f9c824e8c881923920daa3d9d-4" name="rest_code_e56a6e6f9c824e8c881923920daa3d9d-4" href="#rest_code_e56a6e6f9c824e8c881923920daa3d9d-4"></a>                  <span class="o">^</span>
+<a id="rest_code_e56a6e6f9c824e8c881923920daa3d9d-5" name="rest_code_e56a6e6f9c824e8c881923920daa3d9d-5" href="#rest_code_e56a6e6f9c824e8c881923920daa3d9d-5"></a><span class="ne">SyntaxError</span><span class="p">:</span> <span class="n">invalid</span> <span class="n">syntax</span>
+</pre></div>
+<p>Debemos indicar un operador entre las expresiones o un delimitador entre los elementos.  En este caso nos falto la coma <code class="docutils literal">secuencia = 1, 2</code></p>
+<div class="code"><pre class="code python"><a id="rest_code_7ef26a8eac9449ffb270a2ebc2503e99-1" name="rest_code_7ef26a8eac9449ffb270a2ebc2503e99-1" href="#rest_code_7ef26a8eac9449ffb270a2ebc2503e99-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="k">if</span> <span class="n">a</span><span class="o">==</span><span class="mi">1</span>
+<a id="rest_code_7ef26a8eac9449ffb270a2ebc2503e99-2" name="rest_code_7ef26a8eac9449ffb270a2ebc2503e99-2" href="#rest_code_7ef26a8eac9449ffb270a2ebc2503e99-2"></a><span class="o">...</span>    <span class="nb">print</span> <span class="s2">"a es verdadero!"</span>
+<a id="rest_code_7ef26a8eac9449ffb270a2ebc2503e99-3" name="rest_code_7ef26a8eac9449ffb270a2ebc2503e99-3" href="#rest_code_7ef26a8eac9449ffb270a2ebc2503e99-3"></a>  <span class="n">File</span> <span class="s2">"&lt;input&gt;"</span><span class="p">,</span> <span class="n">line</span> <span class="mi">1</span>
+<a id="rest_code_7ef26a8eac9449ffb270a2ebc2503e99-4" name="rest_code_7ef26a8eac9449ffb270a2ebc2503e99-4" href="#rest_code_7ef26a8eac9449ffb270a2ebc2503e99-4"></a>    <span class="k">if</span> <span class="n">a</span><span class="o">==</span><span class="mi">1</span>
+<a id="rest_code_7ef26a8eac9449ffb270a2ebc2503e99-5" name="rest_code_7ef26a8eac9449ffb270a2ebc2503e99-5" href="#rest_code_7ef26a8eac9449ffb270a2ebc2503e99-5"></a>
+<a id="rest_code_7ef26a8eac9449ffb270a2ebc2503e99-6" name="rest_code_7ef26a8eac9449ffb270a2ebc2503e99-6" href="#rest_code_7ef26a8eac9449ffb270a2ebc2503e99-6"></a><span class="o">^</span>
+<a id="rest_code_7ef26a8eac9449ffb270a2ebc2503e99-7" name="rest_code_7ef26a8eac9449ffb270a2ebc2503e99-7" href="#rest_code_7ef26a8eac9449ffb270a2ebc2503e99-7"></a><span class="ne">SyntaxError</span><span class="p">:</span> <span class="n">invalid</span> <span class="n">syntax</span>
+</pre></div>
+<p>Las sentencias compuestas, deben terminar con dos puntos (":") para indicar el nuevo bloque que afectan <code class="docutils literal">if <span class="pre">a==1:</span></code></p>
+<div class="code"><pre class="code python"><a id="rest_code_67c28425c52645ce804eca21f9e7489d-1" name="rest_code_67c28425c52645ce804eca21f9e7489d-1" href="#rest_code_67c28425c52645ce804eca21f9e7489d-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="k">while</span> <span class="n">a</span><span class="o">=</span><span class="mi">1</span><span class="p">:</span>
+<a id="rest_code_67c28425c52645ce804eca21f9e7489d-2" name="rest_code_67c28425c52645ce804eca21f9e7489d-2" href="#rest_code_67c28425c52645ce804eca21f9e7489d-2"></a>  <span class="n">File</span> <span class="s2">"&lt;input&gt;"</span><span class="p">,</span> <span class="n">line</span> <span class="mi">1</span>
+<a id="rest_code_67c28425c52645ce804eca21f9e7489d-3" name="rest_code_67c28425c52645ce804eca21f9e7489d-3" href="#rest_code_67c28425c52645ce804eca21f9e7489d-3"></a>    <span class="k">while</span> <span class="n">a</span><span class="o">=</span><span class="mi">1</span><span class="p">:</span>
+<a id="rest_code_67c28425c52645ce804eca21f9e7489d-4" name="rest_code_67c28425c52645ce804eca21f9e7489d-4" href="#rest_code_67c28425c52645ce804eca21f9e7489d-4"></a>           <span class="o">^</span>
+<a id="rest_code_67c28425c52645ce804eca21f9e7489d-5" name="rest_code_67c28425c52645ce804eca21f9e7489d-5" href="#rest_code_67c28425c52645ce804eca21f9e7489d-5"></a><span class="ne">SyntaxError</span><span class="p">:</span> <span class="n">invalid</span> <span class="n">syntax</span>
+</pre></div>
+<p>La asignación no se puede usar en una expresión (comparación), por ej., para evitar los errores clásicos en C <code class="docutils literal"><span class="pre">while(v=1)...</span></code> donde nos asignaba <code class="docutils literal">1</code> a <code class="docutils literal">v</code> en vez de comparar si <code class="docutils literal">v</code> era igual a <code class="docutils literal">1</code>. En este caso, usar el operador de comparación <code class="docutils literal">while <span class="pre">a==1:</span></code></p>
+<div class="code"><pre class="code python"><a id="rest_code_550941ba430747a8a7aedb70a00be5cd-1" name="rest_code_550941ba430747a8a7aedb70a00be5cd-1" href="#rest_code_550941ba430747a8a7aedb70a00be5cd-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="k">def</span> <span class="nf">a</span><span class="p">:</span>
+<a id="rest_code_550941ba430747a8a7aedb70a00be5cd-2" name="rest_code_550941ba430747a8a7aedb70a00be5cd-2" href="#rest_code_550941ba430747a8a7aedb70a00be5cd-2"></a>  <span class="n">File</span> <span class="s2">"&lt;input&gt;"</span><span class="p">,</span> <span class="n">line</span> <span class="mi">1</span>
+<a id="rest_code_550941ba430747a8a7aedb70a00be5cd-3" name="rest_code_550941ba430747a8a7aedb70a00be5cd-3" href="#rest_code_550941ba430747a8a7aedb70a00be5cd-3"></a>    <span class="k">def</span> <span class="nf">a</span><span class="p">:</span>
+<a id="rest_code_550941ba430747a8a7aedb70a00be5cd-4" name="rest_code_550941ba430747a8a7aedb70a00be5cd-4" href="#rest_code_550941ba430747a8a7aedb70a00be5cd-4"></a>         <span class="o">^</span>
+<a id="rest_code_550941ba430747a8a7aedb70a00be5cd-5" name="rest_code_550941ba430747a8a7aedb70a00be5cd-5" href="#rest_code_550941ba430747a8a7aedb70a00be5cd-5"></a><span class="ne">SyntaxError</span><span class="p">:</span> <span class="n">invalid</span> <span class="n">syntax</span>
+</pre></div>
+<p>Por más que no tengamos parámetros en nuestra función, los paréntesis son obligatorios. Sería: <code class="docutils literal">def <span class="pre">a():</span></code></p>
+</section><section id="error-de-sintaxis-findelinea-mientras-se-buscaba-una-cadena-simple"><h4>Error de Sintaxis: FinDeLinea mientras se buscaba una cadena "simple"</h4>
+<div class="code"><pre class="code python"><a id="rest_code_99161e951ffc440aa70e6481516c7324-1" name="rest_code_99161e951ffc440aa70e6481516c7324-1" href="#rest_code_99161e951ffc440aa70e6481516c7324-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="s1">'abc"</span>
+<a id="rest_code_99161e951ffc440aa70e6481516c7324-2" name="rest_code_99161e951ffc440aa70e6481516c7324-2" href="#rest_code_99161e951ffc440aa70e6481516c7324-2"></a>  <span class="n">File</span> <span class="s2">"&lt;input&gt;"</span><span class="p">,</span> <span class="n">line</span> <span class="mi">1</span>
+<a id="rest_code_99161e951ffc440aa70e6481516c7324-3" name="rest_code_99161e951ffc440aa70e6481516c7324-3" href="#rest_code_99161e951ffc440aa70e6481516c7324-3"></a>    <span class="s1">'abc"</span>
+<a id="rest_code_99161e951ffc440aa70e6481516c7324-4" name="rest_code_99161e951ffc440aa70e6481516c7324-4" href="#rest_code_99161e951ffc440aa70e6481516c7324-4"></a>        <span class="o">^</span>
+<a id="rest_code_99161e951ffc440aa70e6481516c7324-5" name="rest_code_99161e951ffc440aa70e6481516c7324-5" href="#rest_code_99161e951ffc440aa70e6481516c7324-5"></a><span class="ne">SyntaxError</span><span class="p">:</span> <span class="n">EOL</span> <span class="k">while</span> <span class="n">scanning</span> <span class="n">single</span><span class="o">-</span><span class="n">quoted</span> <span class="n">string</span>
+</pre></div>
+<p>Las cadenas simples (de una sola línea) deben empezar y terminar en la misma línea y con el mismo caracter, comillas (") o tilde (').</p>
+</section><section id="error-de-sintaxis-findearchivo-mientras-se-buscaba-una-cadena-de-multiples-lineas"><h4>Error de Sintaxis: FinDeArchivo mientras se buscaba una cadena de "múltiples líneas"</h4>
+<div class="code"><pre class="code python"><a id="rest_code_76b24f61234f4ac2974f82cd1bae168e-1" name="rest_code_76b24f61234f4ac2974f82cd1bae168e-1" href="#rest_code_76b24f61234f4ac2974f82cd1bae168e-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="s2">"""</span>
+<a id="rest_code_76b24f61234f4ac2974f82cd1bae168e-2" name="rest_code_76b24f61234f4ac2974f82cd1bae168e-2" href="#rest_code_76b24f61234f4ac2974f82cd1bae168e-2"></a><span class="s2">... mucho</span>
+<a id="rest_code_76b24f61234f4ac2974f82cd1bae168e-3" name="rest_code_76b24f61234f4ac2974f82cd1bae168e-3" href="#rest_code_76b24f61234f4ac2974f82cd1bae168e-3"></a><span class="s2">... texto</span>
+<a id="rest_code_76b24f61234f4ac2974f82cd1bae168e-4" name="rest_code_76b24f61234f4ac2974f82cd1bae168e-4" href="#rest_code_76b24f61234f4ac2974f82cd1bae168e-4"></a><span class="s2">...</span>
+<a id="rest_code_76b24f61234f4ac2974f82cd1bae168e-5" name="rest_code_76b24f61234f4ac2974f82cd1bae168e-5" href="#rest_code_76b24f61234f4ac2974f82cd1bae168e-5"></a><span class="s2">SyntaxError: EOF while scanning triple-quoted string</span>
+</pre></div>
+<p>Las cadenas de múltiples líneas, deben empezar con triple comilla o tilde, y terminar con lo mismo. Aquí faltó cerrar la cadena con <code class="docutils literal">"""</code> Nota: el error es simulado, es difícil que suceda en el intérprete, pero si ocurre en un archivo)</p>
+</section><section id="error-de-sintaxis-no-es-posible-asignar-a-un-operador"><h4>Error de Sintaxis: no es posible asignar a un operador</h4>
+<div class="code"><pre class="code python"><a id="rest_code_7e6226df41ab4de1b974bb9e71ab595f-1" name="rest_code_7e6226df41ab4de1b974bb9e71ab595f-1" href="#rest_code_7e6226df41ab4de1b974bb9e71ab595f-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">numero</span><span class="o">+</span><span class="n">antiguo</span><span class="o">=</span><span class="mi">1</span>
+<a id="rest_code_7e6226df41ab4de1b974bb9e71ab595f-2" name="rest_code_7e6226df41ab4de1b974bb9e71ab595f-2" href="#rest_code_7e6226df41ab4de1b974bb9e71ab595f-2"></a>  <span class="n">File</span> <span class="s2">"&lt;input&gt;"</span><span class="p">,</span> <span class="n">line</span> <span class="mi">1</span>
+<a id="rest_code_7e6226df41ab4de1b974bb9e71ab595f-3" name="rest_code_7e6226df41ab4de1b974bb9e71ab595f-3" href="#rest_code_7e6226df41ab4de1b974bb9e71ab595f-3"></a><span class="ne">SyntaxError</span><span class="p">:</span> <span class="n">can</span><span class="s1">'t assign to operator (&lt;input&gt;, line 1)</span>
+</pre></div>
+<p>El nombre de la variable es inválido, sería: <code class="docutils literal">numero_mas_antiguo=1</code></p>
+</section><section id="error-de-sintaxis-token-invalido"><h4>Error de Sintaxis: "token" inválido</h4>
+<div class="code"><pre class="code python"><a id="rest_code_7ced2a7ed03545148d7f03cbda4fff94-1" name="rest_code_7ced2a7ed03545148d7f03cbda4fff94-1" href="#rest_code_7ced2a7ed03545148d7f03cbda4fff94-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="nb">print</span> <span class="mi">08</span>
+<a id="rest_code_7ced2a7ed03545148d7f03cbda4fff94-2" name="rest_code_7ced2a7ed03545148d7f03cbda4fff94-2" href="#rest_code_7ced2a7ed03545148d7f03cbda4fff94-2"></a>  <span class="n">File</span> <span class="s2">"&lt;stdin&gt;"</span><span class="p">,</span> <span class="n">line</span> <span class="mi">1</span>
+<a id="rest_code_7ced2a7ed03545148d7f03cbda4fff94-3" name="rest_code_7ced2a7ed03545148d7f03cbda4fff94-3" href="#rest_code_7ced2a7ed03545148d7f03cbda4fff94-3"></a>    <span class="nb">print</span> <span class="mi">08</span>
+<a id="rest_code_7ced2a7ed03545148d7f03cbda4fff94-4" name="rest_code_7ced2a7ed03545148d7f03cbda4fff94-4" href="#rest_code_7ced2a7ed03545148d7f03cbda4fff94-4"></a>           <span class="o">^</span>
+<a id="rest_code_7ced2a7ed03545148d7f03cbda4fff94-5" name="rest_code_7ced2a7ed03545148d7f03cbda4fff94-5" href="#rest_code_7ced2a7ed03545148d7f03cbda4fff94-5"></a><span class="ne">SyntaxError</span><span class="p">:</span> <span class="n">invalid</span> <span class="n">token</span>
+</pre></div>
+<p>El compilador de Python es muy estricto, y si no recibe el símbolo/componente léxico correcto ("token") nos emitirá estos errores. En este caso, se debe a que los numeros que comienzan con 0 es un caso especial de notación octal (base 8), por lo que solo acepta números del 0 al 7. Para corregir el error, eliminar el 0 que precede al número <code class="docutils literal">print 8</code></p>
+</section></section><section id="errores-de-nombres-nameerror"><h3>Errores de Nombres (NameError)</h3>
+<blockquote>
+<p><em>"2. Explícito es mejor que implícito."</em> <a class="reference external" href="../pythonzen">PythonZen</a></p>
+</blockquote>
+<p>Si bien Python es dinámico y no tenemos que declarar las variables y funciones al principio de nuestro programa, estas deben existir (estar definidas o "inicializadas") antes de poder usarlas.</p>
+<p>O sea, previamente debimos haberle asignado un valor a una variable (con <code class="docutils literal">=</code>), definido una función con <code class="docutils literal">def</code> o clase con <code class="docutils literal">class</code>. Tener en cuenta que Python justamente es dinámico, y si el interprete no pasa por la linea de la definición, no se define, por más que este el código en el archivo.</p>
+<p>En otros lenguajes, si la variable no esta definida, a veces toma un valor arbitrario (nulo, 0 o cadena vacia) o queda declarada sin inicializar (tomando cualquier valor que esté en la memoria), con los consiguientes errores que esto puede ocasionar. Para prevenir esto, en Python es necesario explicitamente definir ("inicializar") la variable con un valor inicial.</p>
+<section id="error-de-nombre-el-nombre-variable-no-esta-definido"><h4>Error de Nombre: el nombre 'variable' no está definido</h4>
+<div class="code"><pre class="code python"><a id="rest_code_223e225fa1d84b078764672fd3ab81b7-1" name="rest_code_223e225fa1d84b078764672fd3ab81b7-1" href="#rest_code_223e225fa1d84b078764672fd3ab81b7-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">saludo</span><span class="o">=</span><span class="s2">"Hola"</span>
+<a id="rest_code_223e225fa1d84b078764672fd3ab81b7-2" name="rest_code_223e225fa1d84b078764672fd3ab81b7-2" href="#rest_code_223e225fa1d84b078764672fd3ab81b7-2"></a><span class="o">&gt;&gt;&gt;</span> <span class="nb">print</span> <span class="n">Saludo</span>
+<a id="rest_code_223e225fa1d84b078764672fd3ab81b7-3" name="rest_code_223e225fa1d84b078764672fd3ab81b7-3" href="#rest_code_223e225fa1d84b078764672fd3ab81b7-3"></a><span class="n">Traceback</span> <span class="p">(</span><span class="n">most</span> <span class="n">recent</span> <span class="n">call</span> <span class="n">last</span><span class="p">):</span>
+<a id="rest_code_223e225fa1d84b078764672fd3ab81b7-4" name="rest_code_223e225fa1d84b078764672fd3ab81b7-4" href="#rest_code_223e225fa1d84b078764672fd3ab81b7-4"></a>  <span class="n">File</span> <span class="s2">"&lt;input&gt;"</span><span class="p">,</span> <span class="n">line</span> <span class="mi">1</span><span class="p">,</span> <span class="ow">in</span> <span class="o">&lt;</span><span class="n">module</span><span class="o">&gt;</span>
+<a id="rest_code_223e225fa1d84b078764672fd3ab81b7-5" name="rest_code_223e225fa1d84b078764672fd3ab81b7-5" href="#rest_code_223e225fa1d84b078764672fd3ab81b7-5"></a><span class="ne">NameError</span><span class="p">:</span> <span class="n">name</span> <span class="s1">'Saludo'</span> <span class="ow">is</span> <span class="ow">not</span> <span class="n">defined</span>
+</pre></div>
+<p>Estamos queriendo usar un nombre (identificador) de algo que no existe. En este caso la variable <code class="docutils literal">Saludo</code> no está inicializada, ya que el nombre de variable correcta es <code class="docutils literal">saludo</code> (notar la diferencia de mayúsculas y minúsculas que comentamos en la sección anterior)</p>
+</section><section id="error-de-nombre-el-nombre-global-variable-no-esta-definido"><h4>Error de Nombre: el nombre global 'variable' no está definido</h4>
+<div class="code"><pre class="code python"><a id="rest_code_7861b968c9fe48f39393625d639f80b6-1" name="rest_code_7861b968c9fe48f39393625d639f80b6-1" href="#rest_code_7861b968c9fe48f39393625d639f80b6-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="k">def</span> <span class="nf">mi_func</span><span class="p">():</span>
+<a id="rest_code_7861b968c9fe48f39393625d639f80b6-2" name="rest_code_7861b968c9fe48f39393625d639f80b6-2" href="#rest_code_7861b968c9fe48f39393625d639f80b6-2"></a><span class="o">...</span>     <span class="nb">print</span> <span class="n">variable</span>
+<a id="rest_code_7861b968c9fe48f39393625d639f80b6-3" name="rest_code_7861b968c9fe48f39393625d639f80b6-3" href="#rest_code_7861b968c9fe48f39393625d639f80b6-3"></a><span class="o">...</span>
+<a id="rest_code_7861b968c9fe48f39393625d639f80b6-4" name="rest_code_7861b968c9fe48f39393625d639f80b6-4" href="#rest_code_7861b968c9fe48f39393625d639f80b6-4"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">mi_func</span><span class="p">()</span>
+<a id="rest_code_7861b968c9fe48f39393625d639f80b6-5" name="rest_code_7861b968c9fe48f39393625d639f80b6-5" href="#rest_code_7861b968c9fe48f39393625d639f80b6-5"></a><span class="n">Traceback</span> <span class="p">(</span><span class="n">most</span> <span class="n">recent</span> <span class="n">call</span> <span class="n">last</span><span class="p">):</span>
+<a id="rest_code_7861b968c9fe48f39393625d639f80b6-6" name="rest_code_7861b968c9fe48f39393625d639f80b6-6" href="#rest_code_7861b968c9fe48f39393625d639f80b6-6"></a>  <span class="n">File</span> <span class="s2">"&lt;stdin&gt;"</span><span class="p">,</span> <span class="n">line</span> <span class="mi">1</span><span class="p">,</span> <span class="ow">in</span> <span class="o">&lt;</span><span class="n">module</span><span class="o">&gt;</span>
+<a id="rest_code_7861b968c9fe48f39393625d639f80b6-7" name="rest_code_7861b968c9fe48f39393625d639f80b6-7" href="#rest_code_7861b968c9fe48f39393625d639f80b6-7"></a>  <span class="n">File</span> <span class="s2">"&lt;stdin&gt;"</span><span class="p">,</span> <span class="n">line</span> <span class="mi">2</span><span class="p">,</span> <span class="ow">in</span> <span class="n">mi_func</span>
+<a id="rest_code_7861b968c9fe48f39393625d639f80b6-8" name="rest_code_7861b968c9fe48f39393625d639f80b6-8" href="#rest_code_7861b968c9fe48f39393625d639f80b6-8"></a><span class="ne">NameError</span><span class="p">:</span> <span class="k">global</span> <span class="n">name</span> <span class="s1">'variable'</span> <span class="ow">is</span> <span class="ow">not</span> <span class="n">defined</span>
+<a id="rest_code_7861b968c9fe48f39393625d639f80b6-9" name="rest_code_7861b968c9fe48f39393625d639f80b6-9" href="#rest_code_7861b968c9fe48f39393625d639f80b6-9"></a><span class="o">&gt;&gt;&gt;</span>
+</pre></div>
+<p>Similar al anterior, estamos queriendo usar una variable que no definimos previamente (ahora dentro de una función). O definimos la variable globalmente (fuera de la función), o localmente (dentro de la función).</p>
+</section><section id="error-de-no-vinculacion-local-la-variable-local-xxx-fue-referenciada-antes-de-asignarla"><h4>Error de no vinculación local: la variable local 'xxx' fue referenciada antes de asignarla</h4>
+<div class="code"><pre class="code python"><a id="rest_code_4fcd418115804f25a1c57e6c5c85bff0-1" name="rest_code_4fcd418115804f25a1c57e6c5c85bff0-1" href="#rest_code_4fcd418115804f25a1c57e6c5c85bff0-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">variable</span> <span class="o">=</span> <span class="mi">1</span>
+<a id="rest_code_4fcd418115804f25a1c57e6c5c85bff0-2" name="rest_code_4fcd418115804f25a1c57e6c5c85bff0-2" href="#rest_code_4fcd418115804f25a1c57e6c5c85bff0-2"></a><span class="o">&gt;&gt;&gt;</span> <span class="k">def</span> <span class="nf">mi_func</span><span class="p">():</span>
+<a id="rest_code_4fcd418115804f25a1c57e6c5c85bff0-3" name="rest_code_4fcd418115804f25a1c57e6c5c85bff0-3" href="#rest_code_4fcd418115804f25a1c57e6c5c85bff0-3"></a><span class="o">...</span>     <span class="nb">print</span> <span class="n">variable</span>
+<a id="rest_code_4fcd418115804f25a1c57e6c5c85bff0-4" name="rest_code_4fcd418115804f25a1c57e6c5c85bff0-4" href="#rest_code_4fcd418115804f25a1c57e6c5c85bff0-4"></a><span class="o">...</span>     <span class="n">variable</span> <span class="o">=</span> <span class="n">variable</span> <span class="o">+</span> <span class="mi">1</span>
+<a id="rest_code_4fcd418115804f25a1c57e6c5c85bff0-5" name="rest_code_4fcd418115804f25a1c57e6c5c85bff0-5" href="#rest_code_4fcd418115804f25a1c57e6c5c85bff0-5"></a><span class="o">...</span>
+<a id="rest_code_4fcd418115804f25a1c57e6c5c85bff0-6" name="rest_code_4fcd418115804f25a1c57e6c5c85bff0-6" href="#rest_code_4fcd418115804f25a1c57e6c5c85bff0-6"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">mi_func</span><span class="p">()</span>
+<a id="rest_code_4fcd418115804f25a1c57e6c5c85bff0-7" name="rest_code_4fcd418115804f25a1c57e6c5c85bff0-7" href="#rest_code_4fcd418115804f25a1c57e6c5c85bff0-7"></a><span class="n">Traceback</span> <span class="p">(</span><span class="n">most</span> <span class="n">recent</span> <span class="n">call</span> <span class="n">last</span><span class="p">):</span>
+<a id="rest_code_4fcd418115804f25a1c57e6c5c85bff0-8" name="rest_code_4fcd418115804f25a1c57e6c5c85bff0-8" href="#rest_code_4fcd418115804f25a1c57e6c5c85bff0-8"></a>  <span class="n">File</span> <span class="s2">"&lt;stdin&gt;"</span><span class="p">,</span> <span class="n">line</span> <span class="mi">1</span><span class="p">,</span> <span class="ow">in</span> <span class="o">&lt;</span><span class="n">module</span><span class="o">&gt;</span>
+<a id="rest_code_4fcd418115804f25a1c57e6c5c85bff0-9" name="rest_code_4fcd418115804f25a1c57e6c5c85bff0-9" href="#rest_code_4fcd418115804f25a1c57e6c5c85bff0-9"></a>  <span class="n">File</span> <span class="s2">"&lt;stdin&gt;"</span><span class="p">,</span> <span class="n">line</span> <span class="mi">2</span><span class="p">,</span> <span class="ow">in</span> <span class="n">mi_func</span>
+<a id="rest_code_4fcd418115804f25a1c57e6c5c85bff0-10" name="rest_code_4fcd418115804f25a1c57e6c5c85bff0-10" href="#rest_code_4fcd418115804f25a1c57e6c5c85bff0-10"></a><span class="ne">UnboundLocalError</span><span class="p">:</span> <span class="n">local</span> <span class="n">variable</span> <span class="s1">'variable'</span> <span class="n">referenced</span> <span class="n">before</span> <span class="n">assignment</span>
+</pre></div>
+<p>Una variación del anterior, pero en este caso, debemos usar la sentencia <code class="docutils literal">global variable</code> dentro de la función, ya que, sinó, al asignarle un valor dentro de la función, se convierte automáticamente en una variable local, por más que exista globalmente (y da error si la asignación no está al principio de la función antes de usar la variable):</p>
+<div class="code"><pre class="code python"><a id="rest_code_bd074085791c4b92a9296d711fe69e7b-1" name="rest_code_bd074085791c4b92a9296d711fe69e7b-1" href="#rest_code_bd074085791c4b92a9296d711fe69e7b-1"></a><span class="n">variable</span> <span class="o">=</span> <span class="mi">1</span>
+<a id="rest_code_bd074085791c4b92a9296d711fe69e7b-2" name="rest_code_bd074085791c4b92a9296d711fe69e7b-2" href="#rest_code_bd074085791c4b92a9296d711fe69e7b-2"></a><span class="k">def</span> <span class="nf">mi_func</span><span class="p">():</span>
+<a id="rest_code_bd074085791c4b92a9296d711fe69e7b-3" name="rest_code_bd074085791c4b92a9296d711fe69e7b-3" href="#rest_code_bd074085791c4b92a9296d711fe69e7b-3"></a>    <span class="k">global</span> <span class="n">variable</span>
+<a id="rest_code_bd074085791c4b92a9296d711fe69e7b-4" name="rest_code_bd074085791c4b92a9296d711fe69e7b-4" href="#rest_code_bd074085791c4b92a9296d711fe69e7b-4"></a>    <span class="nb">print</span> <span class="n">variable</span>
+<a id="rest_code_bd074085791c4b92a9296d711fe69e7b-5" name="rest_code_bd074085791c4b92a9296d711fe69e7b-5" href="#rest_code_bd074085791c4b92a9296d711fe69e7b-5"></a>    <span class="n">variable</span> <span class="o">=</span> <span class="n">variable</span> <span class="o">+</span> <span class="mi">1</span>
+</pre></div>
+</section></section><section id="errores-de-tipos-typeerror"><h3>Errores de Tipos (TypeError)</h3>
+<blockquote>
+<p><em>"12. Cuando te enfrentes a la ambigüedad, rechaza la tentación de adivinar."</em> <a class="reference external" href="../pythonzen">PythonZen</a></p>
+</blockquote>
+<p>Si si, Python es fuertemente tipado, en general no hará mágia con nuestros datos para convertirlos de un tipo a otro, si no se lo pedimos explícitamente.</p>
+<p>No como en otros lenguajes, que cambiarían el tipo de una variable silenciosamente dependiendo del contexto (que puede ser ambiguo, por ej. ¿convertir a <code class="docutils literal">float</code> o <code class="docutils literal">int</code>?) con el consiguiente arrastre de un error difícil de solucionar.</p>
+<section id="error-de-tipo-tipo-de-operando-no-soportado-para-int-y-str"><h4>Error de Tipo: tipo de operando no soportado para +: 'int' y 'str'</h4>
+<div class="code"><pre class="code python"><a id="rest_code_e2d04cd4d7d348aeb01e939d2a4193c7-1" name="rest_code_e2d04cd4d7d348aeb01e939d2a4193c7-1" href="#rest_code_e2d04cd4d7d348aeb01e939d2a4193c7-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">a</span> <span class="o">=</span> <span class="mi">5</span>
+<a id="rest_code_e2d04cd4d7d348aeb01e939d2a4193c7-2" name="rest_code_e2d04cd4d7d348aeb01e939d2a4193c7-2" href="#rest_code_e2d04cd4d7d348aeb01e939d2a4193c7-2"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">b</span> <span class="o">=</span> <span class="s2">"10"</span>
+<a id="rest_code_e2d04cd4d7d348aeb01e939d2a4193c7-3" name="rest_code_e2d04cd4d7d348aeb01e939d2a4193c7-3" href="#rest_code_e2d04cd4d7d348aeb01e939d2a4193c7-3"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">a</span><span class="o">+</span><span class="n">b</span>
+<a id="rest_code_e2d04cd4d7d348aeb01e939d2a4193c7-4" name="rest_code_e2d04cd4d7d348aeb01e939d2a4193c7-4" href="#rest_code_e2d04cd4d7d348aeb01e939d2a4193c7-4"></a><span class="n">Traceback</span> <span class="p">(</span><span class="n">most</span> <span class="n">recent</span> <span class="n">call</span> <span class="n">last</span><span class="p">):</span>
+<a id="rest_code_e2d04cd4d7d348aeb01e939d2a4193c7-5" name="rest_code_e2d04cd4d7d348aeb01e939d2a4193c7-5" href="#rest_code_e2d04cd4d7d348aeb01e939d2a4193c7-5"></a>  <span class="n">File</span> <span class="s2">"&lt;input&gt;"</span><span class="p">,</span> <span class="n">line</span> <span class="mi">1</span><span class="p">,</span> <span class="ow">in</span> <span class="o">&lt;</span><span class="n">module</span><span class="o">&gt;</span>
+<a id="rest_code_e2d04cd4d7d348aeb01e939d2a4193c7-6" name="rest_code_e2d04cd4d7d348aeb01e939d2a4193c7-6" href="#rest_code_e2d04cd4d7d348aeb01e939d2a4193c7-6"></a><span class="ne">TypeError</span><span class="p">:</span> <span class="n">unsupported</span> <span class="n">operand</span> <span class="nb">type</span><span class="p">(</span><span class="n">s</span><span class="p">)</span> <span class="k">for</span> <span class="o">+</span><span class="p">:</span> <span class="s1">'int'</span> <span class="ow">and</span> <span class="s1">'str'</span>
+</pre></div>
+<p>Típico, en algunos lenguajes esto puede resultar "510" o 15 (dependiendo como entienda el contexto, el órden de los operandos, etc.) ya que hacen una conversión de tipos implícita.</p>
+<p>En Python, gentilmente nos avisa que, explicitamente debemos convertir el número a cadena (<code class="docutils literal"><span class="pre">str(a)+b</span></code> que resulta en "510") o la cadena en número (<code class="docutils literal">a+int(b) que resulta en 15</code>.</p>
+</section><section id="error-de-tipo-se-requiere-un-entero"><h4>Error de Tipo: se requiere un entero</h4>
+<div class="code"><pre class="code python"><a id="rest_code_61cf683cb8f04b12b72552030e850e5f-1" name="rest_code_61cf683cb8f04b12b72552030e850e5f-1" href="#rest_code_61cf683cb8f04b12b72552030e850e5f-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">fecha</span> <span class="o">=</span> <span class="n">datetime</span><span class="o">.</span><span class="n">date</span><span class="p">(</span><span class="s1">'2010'</span><span class="p">,</span><span class="s1">'05'</span><span class="p">,</span><span class="s1">'10'</span><span class="p">)</span>
+<a id="rest_code_61cf683cb8f04b12b72552030e850e5f-2" name="rest_code_61cf683cb8f04b12b72552030e850e5f-2" href="#rest_code_61cf683cb8f04b12b72552030e850e5f-2"></a><span class="n">Traceback</span> <span class="p">(</span><span class="n">most</span> <span class="n">recent</span> <span class="n">call</span> <span class="n">last</span><span class="p">):</span>
+<a id="rest_code_61cf683cb8f04b12b72552030e850e5f-3" name="rest_code_61cf683cb8f04b12b72552030e850e5f-3" href="#rest_code_61cf683cb8f04b12b72552030e850e5f-3"></a>  <span class="n">File</span> <span class="s2">"&lt;input&gt;"</span><span class="p">,</span> <span class="n">line</span> <span class="mi">1</span><span class="p">,</span> <span class="ow">in</span> <span class="o">&lt;</span><span class="n">module</span><span class="o">&gt;</span>
+<a id="rest_code_61cf683cb8f04b12b72552030e850e5f-4" name="rest_code_61cf683cb8f04b12b72552030e850e5f-4" href="#rest_code_61cf683cb8f04b12b72552030e850e5f-4"></a><span class="ne">TypeError</span><span class="p">:</span> <span class="n">an</span> <span class="n">integer</span> <span class="ow">is</span> <span class="n">required</span>
+</pre></div>
+<p>Algunas funciones validan los parámetros de entrada, en este caso <code class="docutils literal">datetime.date</code> solicita enteros.  Sería <code class="docutils literal"><span class="pre">datetime.date(int('2010'),int('05'),int('10'))</span></code></p>
+</section><section id="error-de-tipo-el-objeto-nonetype-no-es-iterable"><h4>Error de Tipo: el objeto 'NoneType' no es iterable</h4>
+<div class="code"><pre class="code python"><a id="rest_code_188980237f1a4ca4a1559ff139b66a68-1" name="rest_code_188980237f1a4ca4a1559ff139b66a68-1" href="#rest_code_188980237f1a4ca4a1559ff139b66a68-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">secuencia</span> <span class="o">=</span> <span class="kc">None</span>
+<a id="rest_code_188980237f1a4ca4a1559ff139b66a68-2" name="rest_code_188980237f1a4ca4a1559ff139b66a68-2" href="#rest_code_188980237f1a4ca4a1559ff139b66a68-2"></a><span class="o">&gt;&gt;&gt;</span> <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="n">secuencia</span><span class="p">:</span>
+<a id="rest_code_188980237f1a4ca4a1559ff139b66a68-3" name="rest_code_188980237f1a4ca4a1559ff139b66a68-3" href="#rest_code_188980237f1a4ca4a1559ff139b66a68-3"></a><span class="o">...</span>     <span class="k">pass</span>
+<a id="rest_code_188980237f1a4ca4a1559ff139b66a68-4" name="rest_code_188980237f1a4ca4a1559ff139b66a68-4" href="#rest_code_188980237f1a4ca4a1559ff139b66a68-4"></a><span class="o">...</span>
+<a id="rest_code_188980237f1a4ca4a1559ff139b66a68-5" name="rest_code_188980237f1a4ca4a1559ff139b66a68-5" href="#rest_code_188980237f1a4ca4a1559ff139b66a68-5"></a><span class="n">Traceback</span> <span class="p">(</span><span class="n">most</span> <span class="n">recent</span> <span class="n">call</span> <span class="n">last</span><span class="p">):</span>
+<a id="rest_code_188980237f1a4ca4a1559ff139b66a68-6" name="rest_code_188980237f1a4ca4a1559ff139b66a68-6" href="#rest_code_188980237f1a4ca4a1559ff139b66a68-6"></a>  <span class="n">File</span> <span class="s2">"&lt;input&gt;"</span><span class="p">,</span> <span class="n">line</span> <span class="mi">1</span><span class="p">,</span> <span class="ow">in</span> <span class="o">&lt;</span><span class="n">module</span><span class="o">&gt;</span>
+<a id="rest_code_188980237f1a4ca4a1559ff139b66a68-7" name="rest_code_188980237f1a4ca4a1559ff139b66a68-7" href="#rest_code_188980237f1a4ca4a1559ff139b66a68-7"></a><span class="ne">TypeError</span><span class="p">:</span> <span class="s1">'NoneType'</span> <span class="nb">object</span> <span class="ow">is</span> <span class="ow">not</span> <span class="n">iterable</span>
+</pre></div>
+<p>Para iterar (recorrer uno a uno los elementos de una secuencia o colección), por ej. en un <code class="docutils literal">for</code>, es necesario que esta sea realmente una secuencia o iterable (tuplas, listas, diccionario, conjunto, etc.)</p>
+</section></section><section id="funciones"><h3>Funciones</h3>
+<p>Podemos tener errores de tipo o de sintaxis respecto a las funciones, por ejemplo:</p>
+<section id="error-de-tipo-objeto-int-no-es-llamable"><h4>Error de Tipo: objeto 'int' no es llamable</h4>
+<div class="code"><pre class="code python"><a id="rest_code_24a59c3aae284914a719a9b5487349e0-1" name="rest_code_24a59c3aae284914a719a9b5487349e0-1" href="#rest_code_24a59c3aae284914a719a9b5487349e0-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">a</span><span class="o">=</span><span class="mi">1</span>
+<a id="rest_code_24a59c3aae284914a719a9b5487349e0-2" name="rest_code_24a59c3aae284914a719a9b5487349e0-2" href="#rest_code_24a59c3aae284914a719a9b5487349e0-2"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">a</span> <span class="p">(</span><span class="mi">1</span><span class="p">)</span>
+<a id="rest_code_24a59c3aae284914a719a9b5487349e0-3" name="rest_code_24a59c3aae284914a719a9b5487349e0-3" href="#rest_code_24a59c3aae284914a719a9b5487349e0-3"></a><span class="n">Traceback</span> <span class="p">(</span><span class="n">most</span> <span class="n">recent</span> <span class="n">call</span> <span class="n">last</span><span class="p">):</span>
+<a id="rest_code_24a59c3aae284914a719a9b5487349e0-4" name="rest_code_24a59c3aae284914a719a9b5487349e0-4" href="#rest_code_24a59c3aae284914a719a9b5487349e0-4"></a>  <span class="n">File</span> <span class="s2">"&lt;input&gt;"</span><span class="p">,</span> <span class="n">line</span> <span class="mi">1</span><span class="p">,</span> <span class="ow">in</span> <span class="o">&lt;</span><span class="n">module</span><span class="o">&gt;</span>
+<a id="rest_code_24a59c3aae284914a719a9b5487349e0-5" name="rest_code_24a59c3aae284914a719a9b5487349e0-5" href="#rest_code_24a59c3aae284914a719a9b5487349e0-5"></a><span class="ne">TypeError</span><span class="p">:</span> <span class="s1">'int'</span> <span class="nb">object</span> <span class="ow">is</span> <span class="ow">not</span> <span class="nb">callable</span>
+</pre></div>
+<p>Estamos queriendo llamar a una variable que tiene un entero, cosa que no se puede (no es una "función llamable"). Seguramente, o la variable no debería haber sido un entero, o en vez de llamarla deberíamos aplicar algún operador o método sobre ella.</p>
+</section><section id="error-de-tipo-funcion-toma-al-menos-un-argumento-0-dados"><h4>Error de Tipo: función() toma al menos un argumento (0 dados)</h4>
+<div class="code"><pre class="code python"><a id="rest_code_84b777a590a544569e19f33541e4b1dc-1" name="rest_code_84b777a590a544569e19f33541e4b1dc-1" href="#rest_code_84b777a590a544569e19f33541e4b1dc-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">mayor</span><span class="p">()</span>
+<a id="rest_code_84b777a590a544569e19f33541e4b1dc-2" name="rest_code_84b777a590a544569e19f33541e4b1dc-2" href="#rest_code_84b777a590a544569e19f33541e4b1dc-2"></a><span class="n">Traceback</span> <span class="p">(</span><span class="n">most</span> <span class="n">recent</span> <span class="n">call</span> <span class="n">last</span><span class="p">):</span>
+<a id="rest_code_84b777a590a544569e19f33541e4b1dc-3" name="rest_code_84b777a590a544569e19f33541e4b1dc-3" href="#rest_code_84b777a590a544569e19f33541e4b1dc-3"></a>  <span class="n">File</span> <span class="s2">"&lt;input&gt;"</span><span class="p">,</span> <span class="n">line</span> <span class="mi">1</span><span class="p">,</span> <span class="ow">in</span> <span class="o">&lt;</span><span class="n">module</span><span class="o">&gt;</span>
+<a id="rest_code_84b777a590a544569e19f33541e4b1dc-4" name="rest_code_84b777a590a544569e19f33541e4b1dc-4" href="#rest_code_84b777a590a544569e19f33541e4b1dc-4"></a><span class="ne">TypeError</span><span class="p">:</span> <span class="n">mayor</span><span class="p">()</span> <span class="n">takes</span> <span class="n">at</span> <span class="n">least</span> <span class="mi">1</span> <span class="n">argument</span> <span class="p">(</span><span class="mi">0</span> <span class="n">given</span><span class="p">)</span>
+</pre></div>
+<p>Al definir la función, dijimos que tenía dos parámetros (<code class="docutils literal">param1</code> y <code class="docutils literal">param2=0</code>). Salvo que el parámetro tenga un valor por defecto (en el caso de param2 es 0), debemos pasarlo al llamar a la función. Revisar...</p>
+</section><section id="error-de-tipo-funcion-toma-como-mucho-2-argumentos-3-dados"><h4>Error de Tipo: función() toma como mucho 2 argumentos (3 dados)</h4>
+<div class="code"><pre class="code python"><a id="rest_code_163379fa61094d5b9022cbb7adac564c-1" name="rest_code_163379fa61094d5b9022cbb7adac564c-1" href="#rest_code_163379fa61094d5b9022cbb7adac564c-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">mayor</span><span class="p">(</span><span class="mi">5</span><span class="p">,</span><span class="mi">5</span><span class="p">,</span><span class="mi">5</span><span class="p">)</span>
+<a id="rest_code_163379fa61094d5b9022cbb7adac564c-2" name="rest_code_163379fa61094d5b9022cbb7adac564c-2" href="#rest_code_163379fa61094d5b9022cbb7adac564c-2"></a><span class="n">Traceback</span> <span class="p">(</span><span class="n">most</span> <span class="n">recent</span> <span class="n">call</span> <span class="n">last</span><span class="p">):</span>
+<a id="rest_code_163379fa61094d5b9022cbb7adac564c-3" name="rest_code_163379fa61094d5b9022cbb7adac564c-3" href="#rest_code_163379fa61094d5b9022cbb7adac564c-3"></a>  <span class="n">File</span> <span class="s2">"&lt;input&gt;"</span><span class="p">,</span> <span class="n">line</span> <span class="mi">1</span><span class="p">,</span> <span class="ow">in</span> <span class="o">&lt;</span><span class="n">module</span><span class="o">&gt;</span>
+<a id="rest_code_163379fa61094d5b9022cbb7adac564c-4" name="rest_code_163379fa61094d5b9022cbb7adac564c-4" href="#rest_code_163379fa61094d5b9022cbb7adac564c-4"></a><span class="ne">TypeError</span><span class="p">:</span> <span class="n">mayor</span><span class="p">()</span> <span class="n">takes</span> <span class="n">at</span> <span class="n">most</span> <span class="mi">2</span> <span class="n">arguments</span> <span class="p">(</span><span class="mi">3</span> <span class="n">given</span><span class="p">)</span>
+</pre></div>
+<p>Similar al anterior, pero le pasamos más parámetros de los que necesita la función.  Revisar...</p>
+</section><section id="error-de-tipo-funcion-tuvo-un-argumento-por-nombre-inesperado-paramx"><h4>Error de Tipo: función() tuvo un argumento por nombre inesperado 'paramx'</h4>
+<div class="code"><pre class="code python"><a id="rest_code_1ca432c41366491f912bc2c7fb7f349e-1" name="rest_code_1ca432c41366491f912bc2c7fb7f349e-1" href="#rest_code_1ca432c41366491f912bc2c7fb7f349e-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">mayor</span><span class="p">(</span><span class="n">param3</span><span class="o">=</span><span class="mi">5</span><span class="p">)</span>
+<a id="rest_code_1ca432c41366491f912bc2c7fb7f349e-2" name="rest_code_1ca432c41366491f912bc2c7fb7f349e-2" href="#rest_code_1ca432c41366491f912bc2c7fb7f349e-2"></a><span class="n">Traceback</span> <span class="p">(</span><span class="n">most</span> <span class="n">recent</span> <span class="n">call</span> <span class="n">last</span><span class="p">):</span>
+<a id="rest_code_1ca432c41366491f912bc2c7fb7f349e-3" name="rest_code_1ca432c41366491f912bc2c7fb7f349e-3" href="#rest_code_1ca432c41366491f912bc2c7fb7f349e-3"></a>  <span class="n">File</span> <span class="s2">"&lt;input&gt;"</span><span class="p">,</span> <span class="n">line</span> <span class="mi">1</span><span class="p">,</span> <span class="ow">in</span> <span class="o">&lt;</span><span class="n">module</span><span class="o">&gt;</span>
+<a id="rest_code_1ca432c41366491f912bc2c7fb7f349e-4" name="rest_code_1ca432c41366491f912bc2c7fb7f349e-4" href="#rest_code_1ca432c41366491f912bc2c7fb7f349e-4"></a><span class="ne">TypeError</span><span class="p">:</span> <span class="n">mayor</span><span class="p">()</span> <span class="n">got</span> <span class="n">an</span> <span class="n">unexpected</span> <span class="n">keyword</span> <span class="n">argument</span> <span class="s1">'param3'</span>
+</pre></div>
+<p>Idem al anterior, tratamos de pasarle un parámetro (esta vez por nombre), que tampoco esta definido en la misma. Revisar....</p>
+</section><section id="error-de-sintaxis-argumento-por-posicion-luego-de-argumento-por-nombre"><h4>Error de Sintáxis: argumento por posición luego de argumento por nombre</h4>
+<div class="code"><pre class="code python"><a id="rest_code_250f60155bf04a07b7651b2eba8e8776-1" name="rest_code_250f60155bf04a07b7651b2eba8e8776-1" href="#rest_code_250f60155bf04a07b7651b2eba8e8776-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">mayor</span><span class="p">(</span><span class="n">param2</span><span class="o">=</span><span class="mi">5</span><span class="p">,</span><span class="mi">3</span><span class="p">)</span>
+<a id="rest_code_250f60155bf04a07b7651b2eba8e8776-2" name="rest_code_250f60155bf04a07b7651b2eba8e8776-2" href="#rest_code_250f60155bf04a07b7651b2eba8e8776-2"></a>  <span class="n">File</span> <span class="s2">"&lt;input&gt;"</span><span class="p">,</span> <span class="n">line</span> <span class="mi">1</span>
+<a id="rest_code_250f60155bf04a07b7651b2eba8e8776-3" name="rest_code_250f60155bf04a07b7651b2eba8e8776-3" href="#rest_code_250f60155bf04a07b7651b2eba8e8776-3"></a><span class="ne">SyntaxError</span><span class="p">:</span> <span class="n">non</span><span class="o">-</span><span class="n">keyword</span> <span class="n">arg</span> <span class="n">after</span> <span class="n">keyword</span> <span class="n">arg</span> <span class="p">(</span><span class="o">&lt;</span><span class="nb">input</span><span class="o">&gt;</span><span class="p">,</span> <span class="n">line</span> <span class="mi">1</span><span class="p">)</span>
+</pre></div>
+<p>Los parámetros por posición se pasan antes que los parámetros por nombre: <code class="docutils literal">mayor(3,param2=5)</code></p>
+</section></section><section id="errores-de-valores-valueerror"><h3>Errores de Valores (ValueError)</h3>
+<p>De manera similar a los errores de tipos, cuando pasemos un dato que no se puede convertir o es inválido, Python nos mostrará estos mensajes:</p>
+<section id="error-de-valor-literal-invalido-para-int-con-base-10-xxxx"><h4>Error de Valor: literal inválido para int() con base 10: 'xxxx'</h4>
+<div class="code"><pre class="code python"><a id="rest_code_00914e3b6f0d44bba9a87aa2eb9f3fe3-1" name="rest_code_00914e3b6f0d44bba9a87aa2eb9f3fe3-1" href="#rest_code_00914e3b6f0d44bba9a87aa2eb9f3fe3-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="nb">int</span><span class="p">(</span><span class="s2">"10ab"</span><span class="p">)</span>
+<a id="rest_code_00914e3b6f0d44bba9a87aa2eb9f3fe3-2" name="rest_code_00914e3b6f0d44bba9a87aa2eb9f3fe3-2" href="#rest_code_00914e3b6f0d44bba9a87aa2eb9f3fe3-2"></a><span class="n">Traceback</span> <span class="p">(</span><span class="n">most</span> <span class="n">recent</span> <span class="n">call</span> <span class="n">last</span><span class="p">):</span>
+<a id="rest_code_00914e3b6f0d44bba9a87aa2eb9f3fe3-3" name="rest_code_00914e3b6f0d44bba9a87aa2eb9f3fe3-3" href="#rest_code_00914e3b6f0d44bba9a87aa2eb9f3fe3-3"></a>  <span class="n">File</span> <span class="s2">"&lt;input&gt;"</span><span class="p">,</span> <span class="n">line</span> <span class="mi">1</span><span class="p">,</span> <span class="ow">in</span> <span class="o">&lt;</span><span class="n">module</span><span class="o">&gt;</span>
+<a id="rest_code_00914e3b6f0d44bba9a87aa2eb9f3fe3-4" name="rest_code_00914e3b6f0d44bba9a87aa2eb9f3fe3-4" href="#rest_code_00914e3b6f0d44bba9a87aa2eb9f3fe3-4"></a><span class="ne">ValueError</span><span class="p">:</span> <span class="n">invalid</span> <span class="n">literal</span> <span class="k">for</span> <span class="nb">int</span><span class="p">()</span> <span class="k">with</span> <span class="n">base</span> <span class="mi">10</span><span class="p">:</span> <span class="s1">'10ab'</span>
+</pre></div>
+<p>En este caso '10ab', salvo que las letras sean un error te escritura, estamos intentando convertir un valor hexadecimal (base 16) a entero, sin especificarlo, por lo que intenta base 10 por defecto. Lo correcto sería <code class="docutils literal"><span class="pre">int("10ab",16)</span></code></p>
+<p>Igualmente siempre es conveniente capturar este tipo de errores, para validar que el dato a convertir es realmente un número, y sinó, tomar una medida adecuada.</p>
+</section><section id="error-de-valor-literal-invalido-para-float-con-base-10-xxxx"><h4>Error de Valor: literal inválido para float() con base 10: 'xxxx'</h4>
+<div class="code"><pre class="code python"><a id="rest_code_9c35d73795e64cb9a7a829f6dc574053-1" name="rest_code_9c35d73795e64cb9a7a829f6dc574053-1" href="#rest_code_9c35d73795e64cb9a7a829f6dc574053-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="nb">float</span><span class="p">(</span><span class="s2">"10,50"</span><span class="p">)</span>
+<a id="rest_code_9c35d73795e64cb9a7a829f6dc574053-2" name="rest_code_9c35d73795e64cb9a7a829f6dc574053-2" href="#rest_code_9c35d73795e64cb9a7a829f6dc574053-2"></a><span class="n">Traceback</span> <span class="p">(</span><span class="n">most</span> <span class="n">recent</span> <span class="n">call</span> <span class="n">last</span><span class="p">):</span>
+<a id="rest_code_9c35d73795e64cb9a7a829f6dc574053-3" name="rest_code_9c35d73795e64cb9a7a829f6dc574053-3" href="#rest_code_9c35d73795e64cb9a7a829f6dc574053-3"></a>  <span class="n">File</span> <span class="s2">"&lt;input&gt;"</span><span class="p">,</span> <span class="n">line</span> <span class="mi">1</span><span class="p">,</span> <span class="ow">in</span> <span class="o">&lt;</span><span class="n">module</span><span class="o">&gt;</span>
+<a id="rest_code_9c35d73795e64cb9a7a829f6dc574053-4" name="rest_code_9c35d73795e64cb9a7a829f6dc574053-4" href="#rest_code_9c35d73795e64cb9a7a829f6dc574053-4"></a><span class="ne">ValueError</span><span class="p">:</span> <span class="n">invalid</span> <span class="n">literal</span> <span class="k">for</span> <span class="nb">float</span><span class="p">():</span> <span class="mi">10</span><span class="p">,</span><span class="mi">50</span>
+</pre></div>
+<p>Lo mismo que el anterior, pero con la salvedad que para python debemos indicar los decimales con el punto (.) y no la coma (,). Podríamos convertirlo facilmente: <code class="docutils literal"><span class="pre">float("10,50".replace(",",".")</span></code></p>
+</section><section id="error-de-valor-el-dia-esta-fuera-de-rango-para-el-mes"><h4>Error de Valor: el día esta fuera de rango para el mes</h4>
+<div class="code"><pre class="code python"><a id="rest_code_09f8bdc36bf54e0490c9a1c8ce82be5d-1" name="rest_code_09f8bdc36bf54e0490c9a1c8ce82be5d-1" href="#rest_code_09f8bdc36bf54e0490c9a1c8ce82be5d-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">fecha</span> <span class="o">=</span> <span class="n">datetime</span><span class="o">.</span><span class="n">date</span><span class="p">(</span><span class="mi">10</span><span class="p">,</span><span class="mi">5</span><span class="p">,</span><span class="mi">2010</span><span class="p">)</span>
+<a id="rest_code_09f8bdc36bf54e0490c9a1c8ce82be5d-2" name="rest_code_09f8bdc36bf54e0490c9a1c8ce82be5d-2" href="#rest_code_09f8bdc36bf54e0490c9a1c8ce82be5d-2"></a><span class="n">Traceback</span> <span class="p">(</span><span class="n">most</span> <span class="n">recent</span> <span class="n">call</span> <span class="n">last</span><span class="p">):</span>
+<a id="rest_code_09f8bdc36bf54e0490c9a1c8ce82be5d-3" name="rest_code_09f8bdc36bf54e0490c9a1c8ce82be5d-3" href="#rest_code_09f8bdc36bf54e0490c9a1c8ce82be5d-3"></a>  <span class="n">File</span> <span class="s2">"&lt;input&gt;"</span><span class="p">,</span> <span class="n">line</span> <span class="mi">1</span><span class="p">,</span> <span class="ow">in</span> <span class="o">&lt;</span><span class="n">module</span><span class="o">&gt;</span>
+<a id="rest_code_09f8bdc36bf54e0490c9a1c8ce82be5d-4" name="rest_code_09f8bdc36bf54e0490c9a1c8ce82be5d-4" href="#rest_code_09f8bdc36bf54e0490c9a1c8ce82be5d-4"></a><span class="ne">ValueError</span><span class="p">:</span> <span class="n">day</span> <span class="ow">is</span> <span class="n">out</span> <span class="n">of</span> <span class="nb">range</span> <span class="k">for</span> <span class="n">month</span>
+</pre></div>
+<p>Estamos intentando pasar un valor a la función en el parámetro que no corresponde: <code class="docutils literal">datetime.date(año, mes, día)</code> Sería <code class="docutils literal">fecha = datetime.date(2010,5,10)</code></p>
+</section><section id="error-de-valor-demasiados-valores-para-desempaquetar"><h4>Error de Valor: demasiados valores para desempaquetar</h4>
+<div class="code"><pre class="code python"><a id="rest_code_c0b7929da5854fb09c33a5ca16e42ddf-1" name="rest_code_c0b7929da5854fb09c33a5ca16e42ddf-1" href="#rest_code_c0b7929da5854fb09c33a5ca16e42ddf-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">a</span><span class="p">,</span><span class="n">b</span><span class="p">,</span><span class="n">c</span> <span class="o">=</span> <span class="p">(</span><span class="mi">1</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mi">3</span><span class="p">,</span><span class="mi">4</span><span class="p">)</span>
+<a id="rest_code_c0b7929da5854fb09c33a5ca16e42ddf-2" name="rest_code_c0b7929da5854fb09c33a5ca16e42ddf-2" href="#rest_code_c0b7929da5854fb09c33a5ca16e42ddf-2"></a><span class="n">Traceback</span> <span class="p">(</span><span class="n">most</span> <span class="n">recent</span> <span class="n">call</span> <span class="n">last</span><span class="p">):</span>
+<a id="rest_code_c0b7929da5854fb09c33a5ca16e42ddf-3" name="rest_code_c0b7929da5854fb09c33a5ca16e42ddf-3" href="#rest_code_c0b7929da5854fb09c33a5ca16e42ddf-3"></a>  <span class="n">File</span> <span class="s2">"&lt;input&gt;"</span><span class="p">,</span> <span class="n">line</span> <span class="mi">1</span><span class="p">,</span> <span class="ow">in</span> <span class="o">&lt;</span><span class="n">module</span><span class="o">&gt;</span>
+<a id="rest_code_c0b7929da5854fb09c33a5ca16e42ddf-4" name="rest_code_c0b7929da5854fb09c33a5ca16e42ddf-4" href="#rest_code_c0b7929da5854fb09c33a5ca16e42ddf-4"></a><span class="ne">ValueError</span><span class="p">:</span> <span class="n">too</span> <span class="n">many</span> <span class="n">values</span> <span class="n">to</span> <span class="n">unpack</span>
+</pre></div>
+<p>En Python, podemos asignar varios elementos a una lista de destinos, pero la cantidad de destinos y de elementos a asignar deben coincidir.  En este caso, <code class="docutils literal">a=1</code>, <code class="docutils literal">b=2</code>, <code class="docutils literal">c=3</code> y al cuarto elemento ya no hay a que asignarlo.  Podríamos agregar un destino más: <code class="docutils literal">a,b,c,d = (1,2,3,4)</code> o sacar un elemento a asignar de la expresión: <code class="docutils literal">a,b,c = (1,2,3)</code>.</p>
+</section><section id="error-de-valor-necesita-mas-de-2-valores-para-desempaquetar"><h4>Error de Valor: necesita más de 2 valores para desempaquetar</h4>
+<div class="code"><pre class="code python"><a id="rest_code_29dfa69403bb42f9a9c184317a2d8f26-1" name="rest_code_29dfa69403bb42f9a9c184317a2d8f26-1" href="#rest_code_29dfa69403bb42f9a9c184317a2d8f26-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">x</span><span class="p">,</span><span class="n">y</span><span class="p">,</span><span class="n">z</span> <span class="o">=</span> <span class="mi">1</span><span class="p">,</span> <span class="mi">2</span>
+<a id="rest_code_29dfa69403bb42f9a9c184317a2d8f26-2" name="rest_code_29dfa69403bb42f9a9c184317a2d8f26-2" href="#rest_code_29dfa69403bb42f9a9c184317a2d8f26-2"></a><span class="n">Traceback</span> <span class="p">(</span><span class="n">most</span> <span class="n">recent</span> <span class="n">call</span> <span class="n">last</span><span class="p">):</span>
+<a id="rest_code_29dfa69403bb42f9a9c184317a2d8f26-3" name="rest_code_29dfa69403bb42f9a9c184317a2d8f26-3" href="#rest_code_29dfa69403bb42f9a9c184317a2d8f26-3"></a>  <span class="n">File</span> <span class="s2">"&lt;input&gt;"</span><span class="p">,</span> <span class="n">line</span> <span class="mi">1</span><span class="p">,</span> <span class="ow">in</span> <span class="o">&lt;</span><span class="n">module</span><span class="o">&gt;</span>
+<a id="rest_code_29dfa69403bb42f9a9c184317a2d8f26-4" name="rest_code_29dfa69403bb42f9a9c184317a2d8f26-4" href="#rest_code_29dfa69403bb42f9a9c184317a2d8f26-4"></a><span class="ne">ValueError</span><span class="p">:</span> <span class="n">need</span> <span class="n">more</span> <span class="n">than</span> <span class="mi">2</span> <span class="n">values</span> <span class="n">to</span> <span class="n">unpack</span>
+</pre></div>
+<p>Caso inverso al anterior, nos falta un elemento en la expresión de asignación (o nos sobra un destino). Posible solución: sacamos un destino <code class="docutils literal">x,y = 1, 2</code> o agregamos un elemento: <code class="docutils literal">x,y,&lt; = 1, 2 ,3</code></p>
+</section><section id="error-de-valor-caracter-de-escape-x-invalido"><h4>Error de Valor: caracter de escape x inválido</h4>
+<div class="code"><pre class="code python"><a id="rest_code_f8e3b6cad66144ecb0eb3e7df2704e5a-1" name="rest_code_f8e3b6cad66144ecb0eb3e7df2704e5a-1" href="#rest_code_f8e3b6cad66144ecb0eb3e7df2704e5a-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="nb">open</span><span class="p">(</span><span class="s2">"C:\xaraza.txt"</span><span class="p">)</span>
+<a id="rest_code_f8e3b6cad66144ecb0eb3e7df2704e5a-2" name="rest_code_f8e3b6cad66144ecb0eb3e7df2704e5a-2" href="#rest_code_f8e3b6cad66144ecb0eb3e7df2704e5a-2"></a><span class="ne">ValueError</span><span class="p">:</span> <span class="n">invalid</span> \<span class="n">x</span> <span class="n">escape</span>
+</pre></div>
+<p>En los strings (cadenas), ciertos caracteres tienen un significado especial. Es el caso de la barra invertida (""), que identifica que lo que sigue definie un caractér especial ("n" para el salto de linea, "xfe" para el caracter cuyo código hexadecimal es FE, etc.) Si queremos una barra invertida (por ejemplo, en un directorio de windows), debemos usar strings crudos (raws): r"C:xaraza.txt" o doble barra invertida: "C:\xaraza.txt"</p>
+</section></section><section id="errores-de-atributos-attributeerror"><h3>Errores de Atributos (AttributeError)</h3>
+<p>Practicamente todo en Python es un objeto, y estos objetos tienen métodos y "propiedades" (ambos denominados atributos). Si intentamos acceder a un atributo que no pertenece al objeto, se producirá uno de los siguientes errores:</p>
+<section id="error-de-atributo-el-objeto-nonetype-no-tiene-el-atributo-split"><h4>Error de Atributo: el objeto 'NoneType' no tiene el atributo 'split'</h4>
+<div class="code"><pre class="code python"><a id="rest_code_d3b3a5dc72ed454191677b96546cce6a-1" name="rest_code_d3b3a5dc72ed454191677b96546cce6a-1" href="#rest_code_d3b3a5dc72ed454191677b96546cce6a-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">fecha</span> <span class="o">=</span> <span class="kc">None</span>
+<a id="rest_code_d3b3a5dc72ed454191677b96546cce6a-2" name="rest_code_d3b3a5dc72ed454191677b96546cce6a-2" href="#rest_code_d3b3a5dc72ed454191677b96546cce6a-2"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">fecha</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="s2">"/"</span><span class="p">)</span>
+<a id="rest_code_d3b3a5dc72ed454191677b96546cce6a-3" name="rest_code_d3b3a5dc72ed454191677b96546cce6a-3" href="#rest_code_d3b3a5dc72ed454191677b96546cce6a-3"></a><span class="n">Traceback</span> <span class="p">(</span><span class="n">most</span> <span class="n">recent</span> <span class="n">call</span> <span class="n">last</span><span class="p">):</span>
+<a id="rest_code_d3b3a5dc72ed454191677b96546cce6a-4" name="rest_code_d3b3a5dc72ed454191677b96546cce6a-4" href="#rest_code_d3b3a5dc72ed454191677b96546cce6a-4"></a>  <span class="n">File</span> <span class="s2">"&lt;input&gt;"</span><span class="p">,</span> <span class="n">line</span> <span class="mi">1</span><span class="p">,</span> <span class="ow">in</span> <span class="o">&lt;</span><span class="n">module</span><span class="o">&gt;</span>
+<a id="rest_code_d3b3a5dc72ed454191677b96546cce6a-5" name="rest_code_d3b3a5dc72ed454191677b96546cce6a-5" href="#rest_code_d3b3a5dc72ed454191677b96546cce6a-5"></a><span class="ne">AttributeError</span><span class="p">:</span> <span class="s1">'NoneType'</span> <span class="nb">object</span> <span class="n">has</span> <span class="n">no</span> <span class="n">attribute</span> <span class="s1">'split'</span>
+</pre></div>
+<p>En este caso estamos queriendo invocar a un método <code class="docutils literal">split</code> que no esta definido para este tipo de objeto (aquí <code class="docutils literal">None</code>, pero podría ser cualquier otro). Seguramente la variable fecha debería ser otra cosa, o nos equivocamos de método a invocar.</p>
+</section><section id="error-de-atributo-el-objeto-modulo-no-tiene-el-atributo-next"><h4>Error de Atributo: el objeto 'modulo' no tiene el atributo 'next'</h4>
+<div class="code"><pre class="code python"><a id="rest_code_b23655053d5341d6b86d10e7adc13dd8-1" name="rest_code_b23655053d5341d6b86d10e7adc13dd8-1" href="#rest_code_b23655053d5341d6b86d10e7adc13dd8-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="kn">import</span> <span class="nn">csv</span>
+<a id="rest_code_b23655053d5341d6b86d10e7adc13dd8-2" name="rest_code_b23655053d5341d6b86d10e7adc13dd8-2" href="#rest_code_b23655053d5341d6b86d10e7adc13dd8-2"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">csv</span><span class="o">.</span><span class="n">next</span><span class="p">()</span>
+<a id="rest_code_b23655053d5341d6b86d10e7adc13dd8-3" name="rest_code_b23655053d5341d6b86d10e7adc13dd8-3" href="#rest_code_b23655053d5341d6b86d10e7adc13dd8-3"></a><span class="n">Traceback</span> <span class="p">(</span><span class="n">most</span> <span class="n">recent</span> <span class="n">call</span> <span class="n">last</span><span class="p">):</span>
+<a id="rest_code_b23655053d5341d6b86d10e7adc13dd8-4" name="rest_code_b23655053d5341d6b86d10e7adc13dd8-4" href="#rest_code_b23655053d5341d6b86d10e7adc13dd8-4"></a>  <span class="n">File</span> <span class="s2">"&lt;input&gt;"</span><span class="p">,</span> <span class="n">line</span> <span class="mi">1</span><span class="p">,</span> <span class="ow">in</span> <span class="o">&lt;</span><span class="n">module</span><span class="o">&gt;</span>
+<a id="rest_code_b23655053d5341d6b86d10e7adc13dd8-5" name="rest_code_b23655053d5341d6b86d10e7adc13dd8-5" href="#rest_code_b23655053d5341d6b86d10e7adc13dd8-5"></a><span class="ne">AttributeError</span><span class="p">:</span> <span class="s1">'module'</span> <span class="nb">object</span> <span class="n">has</span> <span class="n">no</span> <span class="n">attribute</span> <span class="s1">'next'</span>
+</pre></div>
+<p>Similar al anterior, pero en este caso estamos importando un módulo <code class="docutils literal">csv</code> que no tiene la función <code class="docutils literal">next</code>}. En este caso particular, <code class="docutils literal">next</code> es un método de la instancia de <code class="docutils literal">csv_reader</code>, no del módulo.</p>
+</section></section><section id="errores-de-indice-indexerror"><h3>Errores de Índice (IndexError)</h3>
+<section id="error-de-indice-el-indice-de-lista-esta-fuera-de-rango"><h4>Error de Índice: el índice de lista esta fuera de rango</h4>
+<div class="code"><pre class="code python"><a id="rest_code_006d4dbda6ce42eaa78845bf9422e8d4-1" name="rest_code_006d4dbda6ce42eaa78845bf9422e8d4-1" href="#rest_code_006d4dbda6ce42eaa78845bf9422e8d4-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">l</span><span class="o">=</span><span class="p">[</span><span class="mi">1</span><span class="p">,</span><span class="mi">2</span><span class="p">,</span><span class="mi">3</span><span class="p">]</span>
+<a id="rest_code_006d4dbda6ce42eaa78845bf9422e8d4-2" name="rest_code_006d4dbda6ce42eaa78845bf9422e8d4-2" href="#rest_code_006d4dbda6ce42eaa78845bf9422e8d4-2"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">l</span><span class="p">[</span><span class="mi">3</span><span class="p">]</span>
+<a id="rest_code_006d4dbda6ce42eaa78845bf9422e8d4-3" name="rest_code_006d4dbda6ce42eaa78845bf9422e8d4-3" href="#rest_code_006d4dbda6ce42eaa78845bf9422e8d4-3"></a><span class="n">Traceback</span> <span class="p">(</span><span class="n">most</span> <span class="n">recent</span> <span class="n">call</span> <span class="n">last</span><span class="p">):</span>
+<a id="rest_code_006d4dbda6ce42eaa78845bf9422e8d4-4" name="rest_code_006d4dbda6ce42eaa78845bf9422e8d4-4" href="#rest_code_006d4dbda6ce42eaa78845bf9422e8d4-4"></a>  <span class="n">File</span> <span class="s2">"&lt;stdin&gt;"</span><span class="p">,</span> <span class="n">line</span> <span class="mi">1</span><span class="p">,</span> <span class="ow">in</span> <span class="o">&lt;</span><span class="n">module</span><span class="o">&gt;</span>
+<a id="rest_code_006d4dbda6ce42eaa78845bf9422e8d4-5" name="rest_code_006d4dbda6ce42eaa78845bf9422e8d4-5" href="#rest_code_006d4dbda6ce42eaa78845bf9422e8d4-5"></a><span class="ne">IndexError</span><span class="p">:</span> <span class="nb">list</span> <span class="n">index</span> <span class="n">out</span> <span class="n">of</span> <span class="nb">range</span>
+</pre></div>
+<p>En este caso, la lista tiene 3 elementos, y se acceden desde la posición 0 hasta la 3 (como en C), lo correcto sería <code class="docutils literal">l[2]</code> para el tercer elemento.</p>
+</section></section><section id="errores-de-clave-keyerror"><h3>Errores de Clave (KeyError)</h3>
+<p>Los diccionarios se acceden por clave asociativa, si la clave no existe, se producirá un error:</p>
+<div class="code"><pre class="code python"><a id="rest_code_e5374590699e490b928bb45a8f37b519-1" name="rest_code_e5374590699e490b928bb45a8f37b519-1" href="#rest_code_e5374590699e490b928bb45a8f37b519-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="nb">dict</span> <span class="o">=</span> <span class="p">{</span><span class="s1">'clave'</span><span class="p">:</span> <span class="s1">'valor'</span><span class="p">}</span>
+<a id="rest_code_e5374590699e490b928bb45a8f37b519-2" name="rest_code_e5374590699e490b928bb45a8f37b519-2" href="#rest_code_e5374590699e490b928bb45a8f37b519-2"></a><span class="o">&gt;&gt;&gt;</span> <span class="nb">dict</span><span class="p">[</span><span class="s1">'clave2'</span><span class="p">]</span>
+<a id="rest_code_e5374590699e490b928bb45a8f37b519-3" name="rest_code_e5374590699e490b928bb45a8f37b519-3" href="#rest_code_e5374590699e490b928bb45a8f37b519-3"></a><span class="n">Traceback</span> <span class="p">(</span><span class="n">most</span> <span class="n">recent</span> <span class="n">call</span> <span class="n">last</span><span class="p">):</span>
+<a id="rest_code_e5374590699e490b928bb45a8f37b519-4" name="rest_code_e5374590699e490b928bb45a8f37b519-4" href="#rest_code_e5374590699e490b928bb45a8f37b519-4"></a>  <span class="n">File</span> <span class="s2">"&lt;input&gt;"</span><span class="p">,</span> <span class="n">line</span> <span class="mi">1</span><span class="p">,</span> <span class="ow">in</span> <span class="o">&lt;</span><span class="n">module</span><span class="o">&gt;</span>
+<a id="rest_code_e5374590699e490b928bb45a8f37b519-5" name="rest_code_e5374590699e490b928bb45a8f37b519-5" href="#rest_code_e5374590699e490b928bb45a8f37b519-5"></a><span class="ne">KeyError</span><span class="p">:</span> <span class="s1">'clave2'</span>
+</pre></div>
+<p>En este caso, podríamos acceder al valor de correcto usando <code class="docutils literal"><span class="pre">dict['clave']</span></code> que sí existe, o pedir <code class="docutils literal"><span class="pre">dict.get('clave2')</span></code> que si la clave no existe, devolverá <code class="docutils literal">None</code> y no producirá una excepción.</p>
+</section><section id="otros-errores"><h3>Otros Errores</h3>
+<p>Los errores del sistema operativo y bibliotecas relacionadas también se expresan como excepciones:</p>
+<section id="ioerror-errno-2-no-existe-el-archivo-o-directorio-c-saraza"><h4>IOError: [Errno 2] No existe el archivo o directorio: 'C:\saraza'</h4>
+<div class="code"><pre class="code python"><a id="rest_code_e58d0aceada543caa1b4cd21add16bc8-1" name="rest_code_e58d0aceada543caa1b4cd21add16bc8-1" href="#rest_code_e58d0aceada543caa1b4cd21add16bc8-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="nb">open</span><span class="p">(</span><span class="s2">"C:\saraza"</span><span class="p">)</span>
+<a id="rest_code_e58d0aceada543caa1b4cd21add16bc8-2" name="rest_code_e58d0aceada543caa1b4cd21add16bc8-2" href="#rest_code_e58d0aceada543caa1b4cd21add16bc8-2"></a><span class="n">Traceback</span> <span class="p">(</span><span class="n">most</span> <span class="n">recent</span> <span class="n">call</span> <span class="n">last</span><span class="p">):</span>
+<a id="rest_code_e58d0aceada543caa1b4cd21add16bc8-3" name="rest_code_e58d0aceada543caa1b4cd21add16bc8-3" href="#rest_code_e58d0aceada543caa1b4cd21add16bc8-3"></a>  <span class="n">File</span> <span class="s2">"&lt;input&gt;"</span><span class="p">,</span> <span class="n">line</span> <span class="mi">1</span><span class="p">,</span> <span class="ow">in</span> <span class="o">&lt;</span><span class="n">module</span><span class="o">&gt;</span>
+<a id="rest_code_e58d0aceada543caa1b4cd21add16bc8-4" name="rest_code_e58d0aceada543caa1b4cd21add16bc8-4" href="#rest_code_e58d0aceada543caa1b4cd21add16bc8-4"></a><span class="ne">IOError</span><span class="p">:</span> <span class="p">[</span><span class="n">Errno</span> <span class="mi">2</span><span class="p">]</span> <span class="n">No</span> <span class="n">such</span> <span class="n">file</span> <span class="ow">or</span> <span class="n">directory</span><span class="p">:</span> <span class="s1">'C:</span><span class="se">\\</span><span class="s1">saraza'</span>
+</pre></div>
+<p>El archivo solicitado no existe, si queremos crearlo deberíamos pasarle un segundo parámetro que lo especifique: <code class="docutils literal"><span class="pre">open("saraza","a")</span></code> o <code class="docutils literal"><span class="pre">open("saraza","w")</span></code></p>
+</section></section><section id="advertencias"><h3>Advertencias</h3>
+<p>Como comentabamos, hay Excepciones que no son errores, sino advertencias.  Se usan para avisarnos sobre algún cambio en el lenguaje o código potencialmente incorrecto o perjudicial:</p>
+<section id="advertencia-de-deprecacion-el-modulo-md5-esta-desaconsejado-use-en-su-lugar-haslib"><h4>Advertencia de "Deprecación": el módulo md5 esta desaconsejado; use en su lugar haslib</h4>
+<div class="code"><pre class="code python"><a id="rest_code_c87857452b5640dcb585e8b83392e8b2-1" name="rest_code_c87857452b5640dcb585e8b83392e8b2-1" href="#rest_code_c87857452b5640dcb585e8b83392e8b2-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="kn">import</span> <span class="nn">md5</span>
+<a id="rest_code_c87857452b5640dcb585e8b83392e8b2-2" name="rest_code_c87857452b5640dcb585e8b83392e8b2-2" href="#rest_code_c87857452b5640dcb585e8b83392e8b2-2"></a><span class="n">__main__</span><span class="p">:</span><span class="mi">1</span><span class="p">:</span> <span class="ne">DeprecationWarning</span><span class="p">:</span> <span class="n">the</span> <span class="n">md5</span> <span class="n">module</span> <span class="ow">is</span> <span class="n">deprecated</span><span class="p">;</span> <span class="n">use</span> <span class="n">hashlib</span> <span class="n">instead</span>
+</pre></div>
+<p>En esta versión de Python, el módulo md5 existe por compatibilidad hacia atrás.  En versiones posteriores podría no existir más. Se recomienda revisar la recomendación que nos da Python: el módulo hashlib.</p>
+<!-- ############################################################################ -->
+</section></section></section>
+</div>    
+</div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+            <script src="../assets/js/jquery.min.js"></script><script src="../assets/js/popper.min.js"></script><script src="../assets/js/bootstrap.min.js"></script><script src="../assets/js/baguetteBox.min.js"></script><script src="../assets/js/pyar.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>

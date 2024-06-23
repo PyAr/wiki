@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html prefix="
+og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Miprimermacro | Python Argentina Wiki</title>
+<link href="../../../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../../../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
+<link href="../../../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../../../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../../../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../../../assets/css/bootblog.css" rel="stylesheet" type="text/css">
+<link href="../../../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../../../rss.xml">
+<link rel="canonical" href="https://wiki.python.org.ar/recetario/pyuno/miprimermacro/">
+<!--[if lt IE 9]><script src="../../../assets/js/html5.js"></script><![endif]--><meta name="author" content="Python Argentina">
+<meta property="og:site_name" content="Python Argentina Wiki">
+<meta property="og:title" content="Miprimermacro">
+<meta property="og:url" content="https://wiki.python.org.ar/recetario/pyuno/miprimermacro/">
+<meta property="og:description" content="La siguiente macro, detecta el tipo de documento (Calc, Writer, Draw, Impress, etc) desde el cual se ejecuta.
+# -*- coding: utf-8 -*-
+import uno
+
+def quien_soy():
+    doc = XSCRIPTCONTEXT.getDocument(">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
+
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../../pyar/"><span class="quienes_somos"></span>Nosotros</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../../foro_y_redes/"><span class="navbar_lista_de_correo"></span>Foro</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../../../"><span class="wiki"></span>Wiki</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/noticias/"><span class="news"></span>Noticias</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/irc/"><span class="irc"></span>IRC</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/eventos/"><span class="eventos"></span>Eventos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://planeta.python.org.ar/"><span class="pyar"></span>Planeta</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/trabajo/"><span class="jobs"></span>Trabajos</a>
+                </li>
+            </ul>
+</div>
+    </nav>
+</div>
+
+<!-- Header and menu bar -->
+<div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        
+<div class="col-lg-12">
+    <div class="page-header">
+        <div class="pull-right">
+            <a href="https://github.com/PyAr/wiki/blob/master/pages/recetario/pyuno/miprimermacro.rst" id="sourcelink" class="nav-link">Editar</a>
+        </div>
+        <h2>Miprimermacro</h2>
+    </div>
+    <div class="e-content entry-content" itemprop="articleBody text">
+    <p>La siguiente macro, detecta el tipo de documento (Calc, Writer, Draw, Impress, etc) desde el cual se ejecuta.</p>
+<div class="code"><pre class="code python"><a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-1" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-1" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-1"></a><span class="c1"># -*- coding: utf-8 -*-</span>
+<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-2" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-2" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-2"></a><span class="kn">import</span> <span class="nn">uno</span>
+<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-3" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-3" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-3"></a>
+<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-4" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-4" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-4"></a><span class="k">def</span> <span class="nf">quien_soy</span><span class="p">():</span>
+<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-5" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-5" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-5"></a>    <span class="n">doc</span> <span class="o">=</span> <span class="n">XSCRIPTCONTEXT</span><span class="o">.</span><span class="n">getDocument</span><span class="p">()</span>
+<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-6" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-6" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-6"></a>    <span class="n">msgbox</span><span class="p">(</span><span class="n">obtener_tipo</span><span class="p">(</span><span class="n">doc</span><span class="p">))</span>
+<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-7" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-7" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-7"></a>    <span class="k">return</span>
+<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-8" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-8" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-8"></a>
+<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-9" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-9" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-9"></a><span class="k">def</span> <span class="nf">obtener_tipo</span><span class="p">(</span><span class="n">doc</span><span class="p">):</span>
+<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-10" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-10" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-10"></a>    <span class="n">tipo</span> <span class="o">=</span> <span class="p">{</span><span class="s1">'com.sun.star.sheet.SpreadsheetDocument'</span><span class="p">:</span> <span class="s1">'Calc'</span><span class="p">,</span>
+<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-11" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-11" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-11"></a>            <span class="s1">'com.sun.star.text.TextDocument'</span><span class="p">:</span> <span class="s1">'Writer'</span><span class="p">,</span>
+<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-12" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-12" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-12"></a>            <span class="s1">'com.sun.star.presentation.PresentationDocument'</span><span class="p">:</span> <span class="s1">'Impress'</span><span class="p">,</span>
+<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-13" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-13" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-13"></a>            <span class="s1">'com.sun.star.drawing.DrawingDocument'</span><span class="p">:</span> <span class="s1">'Draw'</span><span class="p">,</span>
+<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-14" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-14" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-14"></a>            <span class="s1">'com.sun.star.sdb.OfficeDatabaseDocument'</span><span class="p">:</span> <span class="s1">'Base'</span><span class="p">,</span>
+<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-15" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-15" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-15"></a>            <span class="s1">'com.sun.star.formula.FormulaProperties'</span><span class="p">:</span> <span class="s1">'Math'</span><span class="p">,</span>
+<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-16" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-16" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-16"></a>            <span class="s1">'com.sun.star.script.BasicIDE'</span><span class="p">:</span> <span class="s1">'Basic'</span><span class="p">}</span>
+<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-17" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-17" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-17"></a>    <span class="c1"># iteramos entre los tipos de documentos</span>
+<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-18" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-18" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-18"></a>    <span class="k">for</span> <span class="n">t</span> <span class="ow">in</span> <span class="n">tipo</span><span class="p">:</span>
+<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-19" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-19" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-19"></a>        <span class="c1"># validamos si soporta el servicio</span>
+<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-20" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-20" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-20"></a>        <span class="k">if</span> <span class="n">doc</span><span class="o">.</span><span class="n">supportsService</span><span class="p">(</span><span class="n">t</span><span class="p">):</span>
+<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-21" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-21" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-21"></a>            <span class="c1"># devolvemos el tipo de documento</span>
+<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-22" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-22" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-22"></a>            <span class="k">return</span> <span class="s1">'Soy </span><span class="si">%s</span><span class="s1">'</span> <span class="o">%</span> <span class="n">tipo</span><span class="p">[</span><span class="n">t</span><span class="p">]</span>
+<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-23" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-23" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-23"></a>    <span class="c1"># si termina sin encontrar un tipo</span>
+<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-24" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-24" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-24"></a>    <span class="k">return</span> <span class="s1">'No se que tipo soy'</span>
+<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-25" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-25" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-25"></a>
+<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-26" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-26" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-26"></a><span class="k">def</span> <span class="nf">msgbox</span><span class="p">(</span><span class="n">message</span><span class="p">):</span>
+<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-27" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-27" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-27"></a>    <span class="n">ctx</span> <span class="o">=</span> <span class="n">uno</span><span class="o">.</span><span class="n">getComponentContext</span><span class="p">()</span>
+<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-28" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-28" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-28"></a>    <span class="n">sm</span> <span class="o">=</span> <span class="n">ctx</span><span class="o">.</span><span class="n">getServiceManager</span><span class="p">()</span>
+<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-29" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-29" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-29"></a>    <span class="n">toolkit</span> <span class="o">=</span> <span class="n">sm</span><span class="o">.</span><span class="n">createInstanceWithContext</span><span class="p">(</span><span class="s1">'com.sun.star.awt.Toolkit'</span><span class="p">,</span> <span class="n">ctx</span><span class="p">)</span>
+<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-30" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-30" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-30"></a>    <span class="n">msg</span> <span class="o">=</span> <span class="n">toolkit</span><span class="o">.</span><span class="n">createMessageBox</span><span class="p">(</span>
+<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-31" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-31" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-31"></a>                                <span class="n">toolkit</span><span class="o">.</span><span class="n">getDesktopWindow</span><span class="p">(),</span>
+<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-32" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-32" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-32"></a>                                <span class="s1">'infobox'</span><span class="p">,</span>
+<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-33" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-33" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-33"></a>                                <span class="mi">1</span><span class="p">,</span>
+<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-34" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-34" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-34"></a>                                <span class="s1">'UNOPython'</span><span class="p">,</span>
+<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-35" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-35" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-35"></a>                                <span class="nb">str</span><span class="p">(</span><span class="n">message</span><span class="p">))</span>
+<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-36" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-36" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-36"></a>    <span class="k">return</span> <span class="n">msg</span><span class="o">.</span><span class="n">execute</span><span class="p">()</span>
+</pre></div>
+<p>Para saber donde guardar estas macros, mira el wiki de Apache OpenOffice: <a class="reference external" href="http://wiki.openoffice.org/wiki/ES/Manuales/GuiaAOO/TemasAvanzados/Macros/Python">http://wiki.openoffice.org/wiki/ES/Manuales/GuiaAOO/TemasAvanzados/Macros/Python</a></p>
+    </div>    
+</div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+            <script src="../../../assets/js/jquery.min.js"></script><script src="../../../assets/js/popper.min.js"></script><script src="../../../assets/js/bootstrap.min.js"></script><script src="../../../assets/js/baguetteBox.min.js"></script><script src="../../../assets/js/pyar.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>

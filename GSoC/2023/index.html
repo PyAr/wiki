@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html prefix="
+og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Google Summer of Code 2023 (ideas) | Python Argentina Wiki</title>
+<link href="../../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/bootblog.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../../rss.xml">
+<link rel="canonical" href="https://wiki.python.org.ar/GSoC/2023/">
+<!--[if lt IE 9]><script src="../../assets/js/html5.js"></script><![endif]--><meta name="author" content="Python Argentina">
+<meta property="og:site_name" content="Python Argentina Wiki">
+<meta property="og:title" content="Google Summer of Code 2023 (ideas)">
+<meta property="og:url" content="https://wiki.python.org.ar/GSoC/2023/">
+<meta property="og:description" content="GSoC 2023 PyAr projects
+
+The following are the Python Argentina projects that could participate in Google Summer of Code 2023 (under the PSF org).
+Ideas are tentative, please engage with the community">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
+
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../pyar/"><span class="quienes_somos"></span>Nosotros</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../foro_y_redes/"><span class="navbar_lista_de_correo"></span>Foro</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../../"><span class="wiki"></span>Wiki</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/noticias/"><span class="news"></span>Noticias</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/irc/"><span class="irc"></span>IRC</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/eventos/"><span class="eventos"></span>Eventos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://planeta.python.org.ar/"><span class="pyar"></span>Planeta</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/trabajo/"><span class="jobs"></span>Trabajos</a>
+                </li>
+            </ul>
+</div>
+    </nav>
+</div>
+
+<!-- Header and menu bar -->
+<div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        
+<div class="col-lg-12">
+    <div class="page-header">
+        <div class="pull-right">
+            <a href="https://github.com/PyAr/wiki/blob/master/pages/GSoC/2023.rst" id="sourcelink" class="nav-link">Editar</a>
+        </div>
+        <h2>Google Summer Of Code 2023 (Ideas)</h2>
+    </div>
+    <div class="e-content entry-content" itemprop="articleBody text">
+    <img alt="https://raw.githubusercontent.com/PyAr/wiki/master/images/GSoC2022.png" class="align-right" src="https://raw.githubusercontent.com/PyAr/wiki/master/images/GSoC2022.png" style="width: 44px; height: 44px;"><section id="gsoc-2023-pyar-projects"><h2>GSoC 2023 PyAr projects</h2>
+<div class="alert alert-info line-block">
+<div class="line">The following are the Python Argentina projects that could participate in Google Summer of Code 2023 (under the <a class="reference external" href="https://python-gsoc.org/">PSF org</a>).</div>
+<div class="line">Ideas are tentative, please engage with the community strongly to present and improve your original proposals.</div>
+<div class="line">For + Info see bellow: <a class="reference external" href="https://wiki.python.org.ar/GSoC/2023#about-python-argentina-1">About Python Argentina</a> (<a class="reference external" href="https://wiki.python.org.ar/GSoC/2023#contacting-us-1">Contacting Us</a>) - <a class="reference external" href="https://wiki.python.org.ar/GSoC/2023#getting-started-1">Getting Started</a> - <a class="reference external" href="https://wiki.python.org.ar/GSoC/2023#important-notes">Important notes</a> | <a class="reference external" href="https://wiki.python.org.ar/gsoc">Info En Español</a>
+</div>
+</div>
+<section id="pyzombis"><h3>PyZombis</h3>
+<img alt="https://raw.githubusercontent.com/PyAr/PyZombis/main/_sources/lectures/img/TWP_small.png" class="align-left" src="https://raw.githubusercontent.com/PyAr/PyZombis/main/_sources/lectures/img/TWP_small.png"><p>A Community course, completely online and interactive, to teach Python to everyone! <a class="reference external" href="http://pyar.github.io/PyZombis">http://pyar.github.io/PyZombis</a></p>
+<p>The original Brazilian MOOC <a class="reference external" href="https://www.slideshare.net/fmasanori/python-for-zombies-first-brazilian-programming-mooc">"Python for Zumbies"</a> created by Fernando Masanori has +800k views on <a class="reference external" href="https://www.youtube.com/playlist?list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc">Youtube</a>  and has taught over 70K students basic Python.
+In this Spanish adaptation, all lectures and exercises are done fully online.
+There is no need for the student to install python on their computer or to run their own server.</p>
+<dl>
+<dt>Expected outcomes:</dt>
+<dd>
+<div class="line-block">
+<div class="line">Some lectures still need further work to be ported to the web (via <a class="reference external" href="https://brython.info/">Brython</a>, a client-side Python interpreter on top of Javascript), so they can run interactively in the browser (databases, games) using native JS libraries.</div>
+<div class="line">
+<a class="reference external" href="https://playwright.dev/">Playwright</a> end-2-end automated web tests are mandatory for new contributions (+Pull Request checklist &amp; documentation), and we still need coverage for important lessons including API and PyGame.</div>
+<div class="line">Refactors to the upstream educative platform (<a class="reference external" href="https://runestone.academy/ns/books/published/overview/index.html">Runestone</a>) should be continued and extended, for further information see <a class="reference external" href="https://github.com/RunestoneInteractive/RunestoneComponents/pull/1208">PR#1208</a> (a new component: interactive python interpreter for advanced exercises)</div>
+</div>
+</dd>
+</dl>
+<ul class="simple">
+<li><dl class="simple">
+<dt>Project information:</dt>
+<dd><ul>
+<li><p><a class="reference external" href="https://github.com/PyAr/PyZombis">Repository</a> - <a class="reference external" href="https://github.com/PyAr/PyZombis/wiki/Development-HOW-TO">Dev tutorial HOW-TO</a> (Quick Start)</p></li>
+<li><p><a class="reference external" href="https://github.com/PyAr/PyZombis/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22">Good first issues</a> (you can write new E2E <a class="reference external" href="https://github.com/PyAr/PyZombis/tree/main/tests">tests</a> also!)</p></li>
+<li><p><a class="reference external" href="https://www.youtube.com/watch?v=BalC7Bp5AFQ">PyCon Argentina 2021 video tutorial</a> (YouTube)</p></li>
+<li><p><a class="reference external" href="http://bit.ly/pyzombis">Academic info</a> (full proposal, course syllabus, pedagogical methodology)</p></li>
+</ul></dd>
+</dl></li>
+<li><dl class="simple">
+<dt>Project ideas:</dt>
+<dd><ul>
+<li><dl class="simple">
+<dt>Entry-level smaller enhancements for coding exercises and examples (see ticket link for more details)</dt>
+<dd><ul>
+<li><p>Refactor modular programming chapter <a class="reference external" href="https://github.com/PyAr/PyZombis/issues/216">#216</a></p></li>
+<li><p>Modernize MVC &amp; exceptions example app <a class="reference external" href="https://github.com/PyAr/PyZombis/issues/217">#217</a></p></li>
+<li><p>Modernize multimedia app &amp; Object-Oriented Programming lecture <a class="reference external" href="https://github.com/PyAr/PyZombis/issues/218">#218</a></p></li>
+<li><p>Improve Web development sample with an SPA <a class="reference external" href="https://github.com/PyAr/PyZombis/issues/219">#219</a></p></li>
+<li><p>Refactor GUI wrapper for Brython  <a class="reference external" href="https://github.com/PyAr/PyZombis/issues/220">#220</a></p></li>
+</ul></dd>
+</dl></li>
+<li><p>Interactive <a class="reference external" href="http://pyar.github.io/PyZombis/master/lectures/TWP42/TWP42_1.html">SQL python lectures</a> using javascript (SQLite.js): This includes: refactor of lessons code, add new demo databases, explore IndexedDB, improve &amp; extend exercises with automatic grading / unit tests. Thanks to 2022 GSoC contributor we have a SQLite wrapper and new <a class="reference external" href="http://pyar.github.io/PyZombis/main/lectures/TWP42/TWP42_3.html">chinok database exercises</a>, using it as a starting point to build a final course challenge will be awesome!</p></li>
+<li><p>Enhance Interactive <a class="reference external" href="http://pyar.github.io/PyZombis/main/lectures/TWP60/TWP60_2.html">PyGame lectures</a> improving <a class="reference external" href="https://github.com/shivamshan/pygjs/tree/Pyzombis-pygame">brython-pygame GSoC 2022 fork</a> using  <a class="reference external" href="http://gamejs.org/showcase.html#pygame-vs-gamejs">gamejs</a> (tip: see Brython demos: <a class="reference external" href="https://www.brython.info/gallery/bricks_py.html">bricks</a> &amp; <a class="reference external" href="https://www.brython.info/gallery/3Dwalker.html">3D walker</a>, a zombie educative game would be great!). Thanks to 2022 GSoC contributor now we have a <a class="reference external" href="http://pyar.github.io/PyZombis/main/challenges/Reto03.html">zombie chaser game challenge</a> that could be a good starting point!!!</p></li>
+<li><p>BONUS TRACK: Interactive <a class="reference external" href="http://pyar.github.io/PyZombis/master/lectures/TWP65/toctree.html">Web development intro lectures</a> using <a class="reference external" href="http://www.web2py.com/">web2py</a> educative framework (capstone project for peer-review final course assignment); this includes a full revision of the lesson and a Kubernetes deployment script to provide a full web2py multi-tenant server where the students can log-in and develop/execute their web exercises</p></li>
+<li><p>ADVANCED: Implement <a class="reference external" href="https://pyscript.net/">PyScripter</a> component for interactive python excersises (web UI, DB and pygame)</p></li>
+</ul></dd>
+</dl></li>
+<li><p>Project Length: 175 hr each; prefer a full 350 hr proposal including upstream contributions + UI/UX functional revamp and extensive testing</p></li>
+<li><p>Difficulty level: Intermediate (basic Python and Web programming experience expected, some gaming + HTML5 design background recommended)</p></li>
+<li><p>Technologies involved: Python (sphinx, runestone, pygame, sqlite, pytest-playwrigth, pytest-vcr), Javascript (ajax, DOM)</p></li>
+<li><p>Potential mentors: <a class="reference external" href="https://github.com/reingart">@reingart</a> (coordinator), please contact all mentors in <a class="reference external" href="https://t.me/PyArGSoC">PyAr GSoC Telegram group</a></p></li>
+<li><dl class="simple">
+<dt>Past GSoC Students projects wrap-up (for reference):</dt>
+<dd><ul>
+<li><p><a class="reference external" href="https://github.com/PyAr/PyZombis/wiki/GSOC-2022-:-PSF-PyZombis-Final-Submission---Shivam-Shandilya">Shivam Shandilya</a> (2022)</p></li>
+<li><p><a class="reference external" href="https://github.com/PyAr/PyZombis/wiki/GSOC-2021-PSF-PyAr-Final-code-submission-PyZombis-Angela-Remolina">Angela Remolina</a> (2021)</p></li>
+<li><p><a class="reference external" href="https://github.com/PyAr/PyZombis/wiki/Leonardo-Cumplido-GSoC-2021-Wrap-Up">Leonardo Cumplido</a> (2021)</p></li>
+<li><p><a class="reference external" href="https://github.com/PyAr/PyZombis/wiki/GSoC-2021-Final-Code-Ybrahin-Martinez">Ybrahin Martinez</a> (2021)</p></li>
+</ul></dd>
+</dl></li>
+</ul></section><section id="pyafipws"><h3>PyAfipWs</h3>
+<img alt="https://raw.githubusercontent.com/PyAr/pyafipws/py3k/plantillas/logo.png" class="align-left" src="https://raw.githubusercontent.com/PyAr/pyafipws/py3k/plantillas/logo.png"><p>Library for Developers (integrators and legacy languages interfaces) Tools for Accountants and SMEs (Odoo/OpenERP modules and Tryton Argentina's localization).
+Electronic Invoice, Agriculture, Foreign Trade, Taxes, Pharmaceutical, etc.</p>
+<p>PyAFIPWs is a widespread standard reference implementation to communicate with Argentina’s government entities, with more than ~2K <a class="reference external" href="https://groups.google.com/g/pyafipws">users group</a> subscriptions, many bindings to other languages, and used in modules for Open Source ERP localizations (OpenERP, Odoo, Tryton, etc.)</p>
+<p>The project has more than 10 years of development history and many accumulated features, covering several webservices and tools.
+Initial work has been completed to migrate and modernize the project, but there are many rough edges and enhancements opportunities.</p>
+<dl>
+<dt>Expected outcomes:</dt>
+<dd>
+<p>As it's multi-platform, used by a wide user base of developers (specially from other programming languages), special care must be taken to improve the code-base with  backward compatibility.</p>
+<p>Exhaustive Test coverage is a must to complete the transition.
+Also, installers for Windows users should be migrated and upgraded to support legacy applications (main use case).
+Finally, a webservice simulator could be helpful to ease integration testing and speed-up new developments.</p>
+</dd>
+</dl>
+<ul class="simple">
+<li><dl class="simple">
+<dt>Project information:</dt>
+<dd><ul>
+<li><p><a class="reference external" href="https://github.com/PyAr/pyafipws/">Repository</a> (<a class="reference external" href="https://github.com/reingart/pyafipws">original location</a>)</p></li>
+<li><p><a class="reference external" href="https://github.com/reingart/pyafipws/wiki/WSFEv1">Documentation</a></p></li>
+<li><p><a class="reference external" href="https://github.com/PyAr/pyafipws/issues">Good first issues</a></p></li>
+</ul></dd>
+</dl></li>
+<li><dl class="simple">
+<dt>Project Ideas:</dt>
+<dd><ul>
+<li><p>Unit Testing: extend unit tests coverage beyond 70% (including command-line tools, see pending <a class="reference external" href="https://github.com/PyAr/pyafipws/issues/107">#107</a> as an example and report.html in GitHub Actions workflow)</p></li>
+<li><p>Automation: <a class="reference external" href="https://github.com/PyAr/pyafipws/issues/107">#106</a> to improve packaging) and <a class="reference external" href="https://github.com/PyAr/pyafipws/issues/107">#109</a> to build windows installers in continuous integration (see  <a class="reference external" href="https://github.com/reingart/pyafipws/wiki/InstalacionCodigoFuente#generaci%C3%B3n-de-instalador">Wiki: Install</a> to automate)</p></li>
+<li><p>Webservice simulator:  <a class="reference external" href="https://github.com/PyAr/pyafipws/issues/108">#108</a> fake implementation for testing, mimicking government servers (WSDL SOAP based, see <a class="reference external" href="https://github.com/pysimplesoap/pysimplesoap/blob/master/pysimplesoap/server.py#L539">server.py</a> for an example, and <a class="reference external" href="https://github.com/SistemasAgiles/pyafipws.web2py-app">web2py-app</a> for a Proof of Concept)</p></li>
+</ul></dd>
+</dl></li>
+<li><p>Project Length: 175 hr (medium) to 350 hr (large, several ideas)</p></li>
+<li><p>Difficulty level: Intermediate (basic knowledge in operating systems, network protocols, APIs &amp; testing; Accounting / ERP experience recommended)</p></li>
+<li><p>Technologies involved: Python (httplib, xml, webservices, pdf, dbf, pywin32, pytest, pytest-vcr, py2exe), Linux/Windows (packaging/installers/APIs/DLL)</p></li>
+<li><p>Potential mentors: <a class="reference external" href="https://github.com/reingart">@reingart</a> (coordinator) + <a class="reference external" href="https://github.com/NicolasSandoval">@NicolasSandoval</a>, please contact all mentors in <a class="reference external" href="https://t.me/PyArGSoC">PyAr GSoC Telegram group</a></p></li>
+<li><dl class="simple">
+<dt>Past GSoC Students projects wrap-up (for reference):</dt>
+<dd><ul>
+<li><p><a class="reference external" href="https://github.com/PyAr/pyafipws/wiki/GSoC-2021:-Final-Summary">Utkarsh Kumar</a> (2021)</p></li>
+<li><p><a class="reference external" href="https://github.com/PyAr/pyafipws/wiki/PyAr-PSF-GSoC-2019-Final-Summary">Nico Sandoval</a> (2019)</p></li>
+</ul></dd>
+</dl></li>
+</ul></section></section><section id="about-python-argentina-1"><h2>About Python Argentina</h2>
+<p>We are looking for new Pythonistas!</p>
+<p>Help us to foster the development of several open-source community projects. Many are fun and innovative, others are challenging and resolve real-world requirements.</p>
+<p>The association was founded aiming to help the Python devs, increase their diversity and outreach, especially overcoming minorities and cultural barriers (mainly socioeconomic, language, gender), serving as an umbrella organization to some ongoing efforts.</p>
+<p>Spanish is one of the most spoken languages in the world, and many of our developed tools and libraries are aimed to fill the missing open-source gap.
+They can help to learn and further work with Python, either to enthusiasts, professional programmers, or even final users!</p>
+<p>Experienced developers, teachers, and volunteers will assist you, guiding you throughout the process with well-defined goals (according to skills and tech background)</p>
+<section id="contacting-us-1"><h3>Contacting Us</h3>
+<p>We're in the Argentina time zone (GMT-3)</p>
+<ul class="simple">
+<li><p>Telegram: <a class="reference external" href="https://t.me/PyArGSoC">https://t.me/PyArGSoC</a> (<a class="reference external" href="https://t.me/+ljnpIYBUMLI3MDAx">invite</a>)</p></li>
+<li><p>Google Group: <a class="reference external" href="https://groups.google.com/g/pyar-gsoc">https://groups.google.com/g/pyar-gsoc</a></p></li>
+<li><p>Forum: <a class="reference external" href="https://pyar.discourse.group/">https://pyar.discourse.group/</a></p></li>
+<li><p>Email: <a class="reference external" href="mailto:secretaria+gsoc@ac.python.org.ar">secretaria+gsoc@ac.python.org.ar</a></p></li>
+</ul>
+<p>NOTE: Spanish is a requisite for many projects, as it is the language used for documentation and community communications.
+On the other side, if you do not speak English fluently, we can help you with translations and guidance (in Spanish, of course).</p>
+<p>NOTA: Si hablás Español pero te cuesta el Inglés, te podemos ayudar con las traducciones y redacciones para que puedas participar! No te preocupes, el día a día y documentación en general están en Castellano.</p>
+<p>Visitá nuestra GSoC Wiki en Español para más información: <a class="reference external" href="https://wiki.python.org.ar/gsoc/">https://wiki.python.org.ar/gsoc/</a></p>
+<p>We want our community to be more diverse: whoever you are, and whatever your background, we welcome you.</p>
+<p>Queremos que nuestra comunidad sea más diversa: quienquiera que seas, sea cual sea tu origen, te damos la bienvenida</p>
+</section></section><section id="getting-started-1"><span id="start"></span><h2>Getting Started</h2>
+<p>If you want to participate as a contributor, please follow the next guidelines:</p>
+<section id="presenting-yourself"><h3>Presenting yourself</h3>
+<p>Join the Telegram group and write to about you.
+Please send an introductory email to the Google Group and state clearly:</p>
+<ul class="simple">
+<li><p>Why you want to participate in GSoC, shortly comment your background and expectations</p></li>
+<li><p>What project would you prefer: look at this page for ideas</p></li>
+<li><p>What is your previous experience, Python skills, Django, hg/git, js, etc.</p></li>
+</ul></section><section id="fixing-a-bug"><h3>Fixing a bug!</h3>
+<ul class="simple">
+<li><p>Ask for a simple non-trivial ticket. For example, take a look at CDPedia, PyAfipWs, OpenLex, PyZombis.</p></li>
+<li><p>Create a user in GitHub (if you don't have one)</p></li>
+<li><p>Fork the project repository and try to fix an issue of your desired project</p></li>
+<li><p>Discuss with potential mentors your fix, creating a Pull Request as early as possible!</p></li>
+</ul></section><section id="writing-a-proposal"><h3>Writing a Proposal</h3>
+<ul class="simple">
+<li><p>Select a project idea and write a detailed proposal following this <a class="reference external" href="https://github.com/python-gsoc/python-gsoc.github.io/blob/master/ApplicationTemplate.md(https://github.com/python-gsoc/python-gsoc.github.io/blob/master/ApplicationTemplate.md)">template</a> using Google Docs (in advance!)</p></li>
+<li><p>Plan your prepwork for the community bonding period (eg. a Proof-Of-Concept)</p></li>
+<li><p>Define a milestones for each evaluation phase (i.e. Prototype, Pilot / Final Demo)</p></li>
+<li><p>Plan you weekly work &amp; deliverables (tasking out: high-level goals for each milestone)</p></li>
+<li><p>Describe the acceptance criteria ("Minimum Viable Product" of each phase)</p></li>
+</ul>
+<p>Share an early draft and discuss your approach in the group with mentors.
+Do not forget to submit your application to the <a class="reference external" href="https://summerofcode.withgoogle.com/">Google system</a> when ready, some days before the deadline (the server can be overloaded at last minute).</p>
+<p>TIPs: read and follow the <a class="reference external" href="https://google.github.io/gsocguides/student/writing-a-proposal">GSoC guide</a> &amp; <a class="reference external" href="https://python-gsoc.org/index.html#apply">PSF check-list</a></p>
+<p>Some past draft proposals for reference:</p>
+<ul class="simple">
+<li><p>Angela: <a class="reference external" href="https://docs.google.com/document/d/1PWJF_dQP6qpFkBxBiUt480w-oqZ8_NM2rERQKBkbjIY">PyZombis: Improving Python’s web interpreter and more interactive exercises</a></p></li>
+<li><p>Leonardo: <a class="reference external" href="https://docs.google.com/document/d/1eGPD_Woyv-UQINYbsLV6-qnr6I7RCMyEl11OW5s8fUg">PyZombis:  Continue the implementation of the course in the Runestone environment</a></p></li>
+<li><p>Utkarsh: <a class="reference external" href="https://docs.google.com/document/d/1U44YlWrql1_9QFIYSyW8wUBTG6VU6Q0BPybiBnX0VKk">PyAfipWs: Library for developers (enhancements)</a></p></li>
+</ul></section></section><section id="important-notes"><h2>Important notes</h2>
+<p>Late, incomplete, or low-quality proposals will not be considered at all.
+Mentor's time and available students slots are limited, so please ask intelligently for advice and feedback early.</p>
+<p>Last-minute applications are generally a signal of further problems (for you and for us too, please avoid!).
+Proposals without any previous contribution in the repository (i.e. bug-fix issue) will be rejected.</p>
+<p>You're expected to have an almost full-time dedication to the GSoC, so plan accordingly and disclose any potential commitment (exams, work, vacations, travels, etc.)</p>
+</section>
+</div>    
+</div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+            <script src="../../assets/js/jquery.min.js"></script><script src="../../assets/js/popper.min.js"></script><script src="../../assets/js/bootstrap.min.js"></script><script src="../../assets/js/baguetteBox.min.js"></script><script src="../../assets/js/pyar.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>

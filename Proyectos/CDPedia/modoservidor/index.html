@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html prefix="
+og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Correr CDPedia como Servidor | Python Argentina Wiki</title>
+<link href="../../../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../../../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
+<link href="../../../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../../../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../../../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../../../assets/css/bootblog.css" rel="stylesheet" type="text/css">
+<link href="../../../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../../../rss.xml">
+<link rel="canonical" href="https://wiki.python.org.ar/Proyectos/CDPedia/modoservidor/">
+<!--[if lt IE 9]><script src="../../../assets/js/html5.js"></script><![endif]--><meta name="author" content="Python Argentina">
+<meta property="og:site_name" content="Python Argentina Wiki">
+<meta property="og:title" content="Correr CDPedia como Servidor">
+<meta property="og:url" content="https://wiki.python.org.ar/Proyectos/CDPedia/modoservidor/">
+<meta property="og:description" content="La CDPedia está preparada (desde su versión 0.8) para correr en modo servidor: la instalás en una máquina, y podés accederla desde muchas otras.
+¿Cómo se arma esto?
+Si corres ./cdpedia.py --help te mu">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
+
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../../pyar/"><span class="quienes_somos"></span>Nosotros</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../../foro_y_redes/"><span class="navbar_lista_de_correo"></span>Foro</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../../../"><span class="wiki"></span>Wiki</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/noticias/"><span class="news"></span>Noticias</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/irc/"><span class="irc"></span>IRC</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/eventos/"><span class="eventos"></span>Eventos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://planeta.python.org.ar/"><span class="pyar"></span>Planeta</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/trabajo/"><span class="jobs"></span>Trabajos</a>
+                </li>
+            </ul>
+</div>
+    </nav>
+</div>
+
+<!-- Header and menu bar -->
+<div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        
+<div class="col-lg-12">
+    <div class="page-header">
+        <div class="pull-right">
+            <a href="https://github.com/PyAr/wiki/blob/master/pages/Proyectos/CDPedia/modoservidor.rst" id="sourcelink" class="nav-link">Editar</a>
+        </div>
+        <h2>Correr Cdpedia Como Servidor</h2>
+    </div>
+    <div class="e-content entry-content" itemprop="articleBody text">
+    <p>La CDPedia está preparada (desde su versión 0.8) para correr en modo servidor: la instalás en una máquina, y podés accederla desde muchas otras.</p>
+<p>¿Cómo se arma esto?</p>
+<p>Si corres <code class="docutils literal">./cdpedia.py <span class="pre">--help</span></code> te muestra las opciones, pero básicamente hay 2 formas de montar un servidor. La más sencilla es utilizar el servidor web integrado con cdpedia y es la forma recomendada; la otra es usar un web server externo.</p>
+<section id="usando-el-servidor-integrado"><h2>Usando el servidor integrado</h2>
+<p>Por ejemplo, para servir cdpedia en el puerto 80 en un hostname particular hacemos asi:</p>
+<div class="code"><pre class="code bash"><a id="rest_code_77439d6154604829ba88e181a5cbae8b-1" name="rest_code_77439d6154604829ba88e181a5cbae8b-1" href="#rest_code_77439d6154604829ba88e181a5cbae8b-1"></a>sudo<span class="w"> </span>./cdpedia.py<span class="w"> </span>--host<span class="o">=</span>foo.bar.com.ar<span class="w"> </span>--port<span class="o">=</span><span class="m">80</span><span class="w"> </span>--daemon
+</pre></div>
+<p>Obviamente el sudo es porque el 80 es un puerto privilegiado, sino directamente podemos poner lo siguiente para servir en una ip local y un puerto elevado.</p>
+<div class="code"><pre class="code bash"><a id="rest_code_966fdcf1cacc44a3858c4eaf6212be1d-1" name="rest_code_966fdcf1cacc44a3858c4eaf6212be1d-1" href="#rest_code_966fdcf1cacc44a3858c4eaf6212be1d-1"></a>./cdpedia.py<span class="w"> </span>--host<span class="o">=</span><span class="m">10</span>.0.0.4<span class="w"> </span>--port<span class="o">=</span><span class="m">8080</span><span class="w"> </span>--daemon
+</pre></div>
+<p>Inclusive se puede configurar apache o el servidor que haya para que haga las veces de proxy reverso y asi servir todo en el 80.</p>
+</section><section id="usando-un-server-externo-apache-nginx-etc"><h2>Usando un server externo (Apache, nginx, etc)</h2>
+<p>Hay dos formas de hacer esto:</p>
+<ul class="simple">
+<li><p>proxy reverso (recomendado)</p></li>
+<li><p>WSGI</p></li>
+</ul>
+<section id="proxy-reverso"><h3>Proxy reverso</h3>
+<p>El servidor web externo o principal hace de proxy reverso hacia el servidor integrado de la cdpedia.</p>
+<p>cliente &lt;-&gt; apache &lt;-&gt; cdpedia --daemon</p>
+<p>Ejemplos:</p>
+<p>Correr la cdpedia con ./cdpedia.py --host=127.0.0.1 --port=8888 --daemon</p>
+<p>y configurar el servidor de la siguiente forma</p>
+<p>lighttpd:</p>
+<pre class="literal-block">$HTTP["url"] =~ "^/cdpedia/" {
+    proxy.server  = (
+        "" =&gt; ( (
+            "host" =&gt; "127.0.0.1",
+            "port" =&gt; 8888
+        ) )
+    )
+}</pre>
+<p>apache:</p>
+<div class="code"><pre class="code apacheconf"><a id="rest_code_dccc3ba1d3274c2697d3324d23aa43bc-1" name="rest_code_dccc3ba1d3274c2697d3324d23aa43bc-1" href="#rest_code_dccc3ba1d3274c2697d3324d23aa43bc-1"></a><span class="nb">ProxyPass</span><span class="w"> </span>/<span class="w"> </span>http://127.0.0.1:8888/cdpedia/
+<a id="rest_code_dccc3ba1d3274c2697d3324d23aa43bc-2" name="rest_code_dccc3ba1d3274c2697d3324d23aa43bc-2" href="#rest_code_dccc3ba1d3274c2697d3324d23aa43bc-2"></a><span class="nb">ProxyPassReverse</span><span class="w"> </span>/<span class="w"> </span>http://127.0.0.1:8888/cdpedia/
+</pre></div>
+<p>nginx:</p>
+<div class="code"><pre class="code nginx"><a id="rest_code_dcd6ea25be6a4bbe85d0a8d794e4b122-1" name="rest_code_dcd6ea25be6a4bbe85d0a8d794e4b122-1" href="#rest_code_dcd6ea25be6a4bbe85d0a8d794e4b122-1"></a><span class="k">location</span><span class="w"> </span><span class="s">/cdpedia</span><span class="w"> </span><span class="p">{</span>
+<a id="rest_code_dcd6ea25be6a4bbe85d0a8d794e4b122-2" name="rest_code_dcd6ea25be6a4bbe85d0a8d794e4b122-2" href="#rest_code_dcd6ea25be6a4bbe85d0a8d794e4b122-2"></a><span class="w">  </span><span class="kn">proxy_pass</span><span class="w">        </span><span class="s">http://127.0.0.1:8888</span><span class="p">;</span>
+<a id="rest_code_dcd6ea25be6a4bbe85d0a8d794e4b122-3" name="rest_code_dcd6ea25be6a4bbe85d0a8d794e4b122-3" href="#rest_code_dcd6ea25be6a4bbe85d0a8d794e4b122-3"></a><span class="p">}</span>
+</pre></div>
+</section><section id="wsgi"><h3>WSGI</h3>
+<p>Esta opción implica no usar el servidor web integrado y en cambio servir utilizando el modulo WSGI del servidor web que se quiera (mod_wsgi para apache, etc). Aún no encontramos razones convincentes de por qué se preferiría esta opcion por sobre el servidor integrado.</p>
+<p>Debería ser muy sencillo de hacer ya que la cdpedia es una aplicación WSGI, así que simplemente habria que escribir un achivo wsgi.py que importe la app de la cdpedia y decirle al servidor web que lea desde ahi.</p>
+<p>Si optan por esta línea de trabajo, nos interesa mucho saber las razones! Manden mail por favor a <a class="reference external" href="mailto:cdpedia@googlegroups.com">cdpedia@googlegroups.com</a> así les damos una mano y de paso generamos la documentación al respecto.</p>
+<!-- ############################################################################ -->
+</section></section>
+</div>    
+</div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+            <script src="../../../assets/js/jquery.min.js"></script><script src="../../../assets/js/popper.min.js"></script><script src="../../../assets/js/bootstrap.min.js"></script><script src="../../../assets/js/baguetteBox.min.js"></script><script src="../../../assets/js/pyar.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>

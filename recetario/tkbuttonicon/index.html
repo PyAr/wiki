@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html prefix="
+og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>tkButtonIcon | Python Argentina Wiki</title>
+<link href="../../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/bootblog.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../../rss.xml">
+<link rel="canonical" href="https://wiki.python.org.ar/recetario/tkbuttonicon/">
+<!--[if lt IE 9]><script src="../../assets/js/html5.js"></script><![endif]--><meta name="author" content="Python Argentina">
+<meta property="og:site_name" content="Python Argentina Wiki">
+<meta property="og:title" content="tkButtonIcon">
+<meta property="og:url" content="https://wiki.python.org.ar/recetario/tkbuttonicon/">
+<meta property="og:description" content="Crea botones con Íconos. Si es en Windows sacar el '@'+ de la ruta al ícono. Los archivos se pueden pasar a .XBM con Gimp.
+Ideal para crear mini-toolbars con íconos personalizados.
+#!code python
+#!/us">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
+
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../pyar/"><span class="quienes_somos"></span>Nosotros</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../foro_y_redes/"><span class="navbar_lista_de_correo"></span>Foro</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../../"><span class="wiki"></span>Wiki</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/noticias/"><span class="news"></span>Noticias</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/irc/"><span class="irc"></span>IRC</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/eventos/"><span class="eventos"></span>Eventos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://planeta.python.org.ar/"><span class="pyar"></span>Planeta</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/trabajo/"><span class="jobs"></span>Trabajos</a>
+                </li>
+            </ul>
+</div>
+    </nav>
+</div>
+
+<!-- Header and menu bar -->
+<div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        
+<div class="col-lg-12">
+    <div class="page-header">
+        <div class="pull-right">
+            <a href="https://github.com/PyAr/wiki/blob/master/pages/recetario/tkbuttonicon.rst" id="sourcelink" class="nav-link">Editar</a>
+        </div>
+        <h2>Tkbuttonicon</h2>
+    </div>
+    <div class="e-content entry-content" itemprop="articleBody text">
+    <p>Crea botones con Íconos. Si es en Windows sacar el <a class="reference external" href="mailto:'@'+">'@'+</a> de la ruta al ícono. Los archivos se pueden pasar a .XBM con Gimp.</p>
+<p>Ideal para crear mini-toolbars con íconos personalizados.</p>
+<div class="code"><pre class="code python"><a id="rest_code_da8502350eb149ad935febc7c33f6d22-1" name="rest_code_da8502350eb149ad935febc7c33f6d22-1" href="#rest_code_da8502350eb149ad935febc7c33f6d22-1"></a><span class="ch">#!code python</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-2" name="rest_code_da8502350eb149ad935febc7c33f6d22-2" href="#rest_code_da8502350eb149ad935febc7c33f6d22-2"></a><span class="c1">#!/usr/bin/env python</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-3" name="rest_code_da8502350eb149ad935febc7c33f6d22-3" href="#rest_code_da8502350eb149ad935febc7c33f6d22-3"></a><span class="c1">#-*- coding:utf-8 -*-</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-4" name="rest_code_da8502350eb149ad935febc7c33f6d22-4" href="#rest_code_da8502350eb149ad935febc7c33f6d22-4"></a>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-5" name="rest_code_da8502350eb149ad935febc7c33f6d22-5" href="#rest_code_da8502350eb149ad935febc7c33f6d22-5"></a><span class="kn">from</span> <span class="nn">Tkinter</span> <span class="kn">import</span> <span class="o">*</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-6" name="rest_code_da8502350eb149ad935febc7c33f6d22-6" href="#rest_code_da8502350eb149ad935febc7c33f6d22-6"></a><span class="n">root</span> <span class="o">=</span> <span class="n">Tk</span><span class="p">()</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-7" name="rest_code_da8502350eb149ad935febc7c33f6d22-7" href="#rest_code_da8502350eb149ad935febc7c33f6d22-7"></a><span class="c1">#</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-8" name="rest_code_da8502350eb149ad935febc7c33f6d22-8" href="#rest_code_da8502350eb149ad935febc7c33f6d22-8"></a><span class="n">boton1</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="s1">'error'</span><span class="p">)</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-9" name="rest_code_da8502350eb149ad935febc7c33f6d22-9" href="#rest_code_da8502350eb149ad935febc7c33f6d22-9"></a><span class="n">boton1</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-10" name="rest_code_da8502350eb149ad935febc7c33f6d22-10" href="#rest_code_da8502350eb149ad935febc7c33f6d22-10"></a><span class="n">boton2</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="s1">'hourglass'</span><span class="p">)</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-11" name="rest_code_da8502350eb149ad935febc7c33f6d22-11" href="#rest_code_da8502350eb149ad935febc7c33f6d22-11"></a><span class="n">boton2</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-12" name="rest_code_da8502350eb149ad935febc7c33f6d22-12" href="#rest_code_da8502350eb149ad935febc7c33f6d22-12"></a><span class="n">boton3</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="s1">'info'</span><span class="p">)</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-13" name="rest_code_da8502350eb149ad935febc7c33f6d22-13" href="#rest_code_da8502350eb149ad935febc7c33f6d22-13"></a><span class="n">boton3</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-14" name="rest_code_da8502350eb149ad935febc7c33f6d22-14" href="#rest_code_da8502350eb149ad935febc7c33f6d22-14"></a><span class="n">boton4</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="s1">'questhead'</span><span class="p">)</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-15" name="rest_code_da8502350eb149ad935febc7c33f6d22-15" href="#rest_code_da8502350eb149ad935febc7c33f6d22-15"></a><span class="n">boton4</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-16" name="rest_code_da8502350eb149ad935febc7c33f6d22-16" href="#rest_code_da8502350eb149ad935febc7c33f6d22-16"></a><span class="n">boton5</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="s1">'warning'</span><span class="p">)</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-17" name="rest_code_da8502350eb149ad935febc7c33f6d22-17" href="#rest_code_da8502350eb149ad935febc7c33f6d22-17"></a><span class="n">boton5</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-18" name="rest_code_da8502350eb149ad935febc7c33f6d22-18" href="#rest_code_da8502350eb149ad935febc7c33f6d22-18"></a><span class="n">boton6</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="s1">'question'</span><span class="p">)</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-19" name="rest_code_da8502350eb149ad935febc7c33f6d22-19" href="#rest_code_da8502350eb149ad935febc7c33f6d22-19"></a><span class="n">boton6</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-20" name="rest_code_da8502350eb149ad935febc7c33f6d22-20" href="#rest_code_da8502350eb149ad935febc7c33f6d22-20"></a><span class="n">boton7</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="s1">'gray75'</span><span class="p">)</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-21" name="rest_code_da8502350eb149ad935febc7c33f6d22-21" href="#rest_code_da8502350eb149ad935febc7c33f6d22-21"></a><span class="n">boton7</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-22" name="rest_code_da8502350eb149ad935febc7c33f6d22-22" href="#rest_code_da8502350eb149ad935febc7c33f6d22-22"></a><span class="n">boton8</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="s1">'gray50'</span><span class="p">)</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-23" name="rest_code_da8502350eb149ad935febc7c33f6d22-23" href="#rest_code_da8502350eb149ad935febc7c33f6d22-23"></a><span class="n">boton8</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-24" name="rest_code_da8502350eb149ad935febc7c33f6d22-24" href="#rest_code_da8502350eb149ad935febc7c33f6d22-24"></a><span class="n">boton9</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="s1">'gray25'</span><span class="p">)</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-25" name="rest_code_da8502350eb149ad935febc7c33f6d22-25" href="#rest_code_da8502350eb149ad935febc7c33f6d22-25"></a><span class="n">boton9</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-26" name="rest_code_da8502350eb149ad935febc7c33f6d22-26" href="#rest_code_da8502350eb149ad935febc7c33f6d22-26"></a><span class="n">boton10</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="s1">'gray12'</span><span class="p">)</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-27" name="rest_code_da8502350eb149ad935febc7c33f6d22-27" href="#rest_code_da8502350eb149ad935febc7c33f6d22-27"></a><span class="n">boton10</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-28" name="rest_code_da8502350eb149ad935febc7c33f6d22-28" href="#rest_code_da8502350eb149ad935febc7c33f6d22-28"></a><span class="n">boton11</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="p">(</span><span class="s1">'@'</span><span class="o">+</span><span class="s1">'/usr/include/X11/bitmaps/icon'</span><span class="p">),</span> <span class="n">state</span><span class="o">=</span><span class="n">DISABLED</span><span class="p">)</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-29" name="rest_code_da8502350eb149ad935febc7c33f6d22-29" href="#rest_code_da8502350eb149ad935febc7c33f6d22-29"></a><span class="n">boton11</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-30" name="rest_code_da8502350eb149ad935febc7c33f6d22-30" href="#rest_code_da8502350eb149ad935febc7c33f6d22-30"></a><span class="n">boton12</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="p">(</span><span class="s1">'@'</span><span class="o">+</span><span class="s1">'/usr/include/X11/bitmaps/calculator'</span><span class="p">),</span> <span class="n">cursor</span><span class="o">=</span><span class="s1">'hand2'</span><span class="p">)</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-31" name="rest_code_da8502350eb149ad935febc7c33f6d22-31" href="#rest_code_da8502350eb149ad935febc7c33f6d22-31"></a><span class="n">boton12</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-32" name="rest_code_da8502350eb149ad935febc7c33f6d22-32" href="#rest_code_da8502350eb149ad935febc7c33f6d22-32"></a><span class="n">boton13</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="p">(</span><span class="s1">'@'</span><span class="o">+</span><span class="s1">'/usr/include/X11/bitmaps/boxes'</span><span class="p">),</span> <span class="n">relief</span><span class="o">=</span><span class="n">FLAT</span><span class="p">)</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-33" name="rest_code_da8502350eb149ad935febc7c33f6d22-33" href="#rest_code_da8502350eb149ad935febc7c33f6d22-33"></a><span class="n">boton13</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-34" name="rest_code_da8502350eb149ad935febc7c33f6d22-34" href="#rest_code_da8502350eb149ad935febc7c33f6d22-34"></a><span class="n">boton14</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="p">(</span><span class="s1">'@'</span><span class="o">+</span><span class="s1">'/usr/include/X11/bitmaps/noletters'</span><span class="p">),</span> <span class="n">bg</span><span class="o">=</span><span class="s1">'green'</span><span class="p">)</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-35" name="rest_code_da8502350eb149ad935febc7c33f6d22-35" href="#rest_code_da8502350eb149ad935febc7c33f6d22-35"></a><span class="n">boton14</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-36" name="rest_code_da8502350eb149ad935febc7c33f6d22-36" href="#rest_code_da8502350eb149ad935febc7c33f6d22-36"></a><span class="n">boton15</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="p">(</span><span class="s1">'@'</span><span class="o">+</span><span class="s1">'/usr/include/X11/bitmaps/dot'</span><span class="p">),</span> <span class="n">bg</span><span class="o">=</span><span class="s1">'red'</span><span class="p">)</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-37" name="rest_code_da8502350eb149ad935febc7c33f6d22-37" href="#rest_code_da8502350eb149ad935febc7c33f6d22-37"></a><span class="n">boton15</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-38" name="rest_code_da8502350eb149ad935febc7c33f6d22-38" href="#rest_code_da8502350eb149ad935febc7c33f6d22-38"></a><span class="n">boton16</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="p">(</span><span class="s1">'@'</span><span class="o">+</span><span class="s1">'/usr/include/X11/bitmaps/Down'</span><span class="p">),</span> <span class="n">bg</span><span class="o">=</span><span class="s1">'blue'</span><span class="p">)</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-39" name="rest_code_da8502350eb149ad935febc7c33f6d22-39" href="#rest_code_da8502350eb149ad935febc7c33f6d22-39"></a><span class="n">boton16</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-40" name="rest_code_da8502350eb149ad935febc7c33f6d22-40" href="#rest_code_da8502350eb149ad935febc7c33f6d22-40"></a><span class="n">boton17</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="p">(</span><span class="s1">'@'</span><span class="o">+</span><span class="s1">'/usr/include/X11/bitmaps/flagdown'</span><span class="p">),</span> <span class="n">fg</span><span class="o">=</span><span class="s1">'green'</span><span class="p">)</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-41" name="rest_code_da8502350eb149ad935febc7c33f6d22-41" href="#rest_code_da8502350eb149ad935febc7c33f6d22-41"></a><span class="n">boton17</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-42" name="rest_code_da8502350eb149ad935febc7c33f6d22-42" href="#rest_code_da8502350eb149ad935febc7c33f6d22-42"></a><span class="n">boton18</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="p">(</span><span class="s1">'@'</span><span class="o">+</span><span class="s1">'/usr/include/X11/bitmaps/mailfull'</span><span class="p">),</span> <span class="n">fg</span><span class="o">=</span><span class="s1">'red'</span><span class="p">)</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-43" name="rest_code_da8502350eb149ad935febc7c33f6d22-43" href="#rest_code_da8502350eb149ad935febc7c33f6d22-43"></a><span class="n">boton18</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-44" name="rest_code_da8502350eb149ad935febc7c33f6d22-44" href="#rest_code_da8502350eb149ad935febc7c33f6d22-44"></a><span class="n">boton19</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="p">(</span><span class="s1">'@'</span><span class="o">+</span><span class="s1">'/usr/include/X11/bitmaps/opendot'</span><span class="p">),</span> <span class="n">fg</span><span class="o">=</span><span class="s1">'blue'</span><span class="p">)</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-45" name="rest_code_da8502350eb149ad935febc7c33f6d22-45" href="#rest_code_da8502350eb149ad935febc7c33f6d22-45"></a><span class="n">boton19</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-46" name="rest_code_da8502350eb149ad935febc7c33f6d22-46" href="#rest_code_da8502350eb149ad935febc7c33f6d22-46"></a><span class="n">boton20</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="p">(</span><span class="s1">'@'</span><span class="o">+</span><span class="s1">'/usr/include/X11/bitmaps/stipple'</span><span class="p">),</span> <span class="n">bg</span><span class="o">=</span><span class="s1">'black'</span><span class="p">,</span> <span class="n">fg</span><span class="o">=</span><span class="s1">'grey'</span><span class="p">)</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-47" name="rest_code_da8502350eb149ad935febc7c33f6d22-47" href="#rest_code_da8502350eb149ad935febc7c33f6d22-47"></a><span class="n">boton20</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-48" name="rest_code_da8502350eb149ad935febc7c33f6d22-48" href="#rest_code_da8502350eb149ad935febc7c33f6d22-48"></a><span class="n">boton21</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="p">(</span><span class="s1">'@'</span><span class="o">+</span><span class="s1">'/usr/include/X11/bitmaps/target'</span><span class="p">),</span> <span class="n">highlightcolor</span><span class="o">=</span><span class="s1">'red'</span><span class="p">)</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-49" name="rest_code_da8502350eb149ad935febc7c33f6d22-49" href="#rest_code_da8502350eb149ad935febc7c33f6d22-49"></a><span class="n">boton21</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-50" name="rest_code_da8502350eb149ad935febc7c33f6d22-50" href="#rest_code_da8502350eb149ad935febc7c33f6d22-50"></a><span class="n">boton22</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="p">(</span><span class="s1">'@'</span><span class="o">+</span><span class="s1">'/usr/include/X11/bitmaps/terminal'</span><span class="p">))</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-51" name="rest_code_da8502350eb149ad935febc7c33f6d22-51" href="#rest_code_da8502350eb149ad935febc7c33f6d22-51"></a><span class="n">boton22</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-52" name="rest_code_da8502350eb149ad935febc7c33f6d22-52" href="#rest_code_da8502350eb149ad935febc7c33f6d22-52"></a><span class="n">boton23</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="p">(</span><span class="s1">'@'</span><span class="o">+</span><span class="s1">'/usr/include/X11/bitmaps/letters'</span><span class="p">))</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-53" name="rest_code_da8502350eb149ad935febc7c33f6d22-53" href="#rest_code_da8502350eb149ad935febc7c33f6d22-53"></a><span class="n">boton23</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-54" name="rest_code_da8502350eb149ad935febc7c33f6d22-54" href="#rest_code_da8502350eb149ad935febc7c33f6d22-54"></a><span class="n">boton24</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="p">(</span><span class="s1">'@'</span><span class="o">+</span><span class="s1">'/usr/include/X11/bitmaps/tie_fighter'</span><span class="p">))</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-55" name="rest_code_da8502350eb149ad935febc7c33f6d22-55" href="#rest_code_da8502350eb149ad935febc7c33f6d22-55"></a><span class="n">boton24</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-56" name="rest_code_da8502350eb149ad935febc7c33f6d22-56" href="#rest_code_da8502350eb149ad935febc7c33f6d22-56"></a><span class="n">boton25</span> <span class="o">=</span> <span class="n">Button</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">bitmap</span><span class="o">=</span><span class="p">(</span><span class="s1">'@'</span><span class="o">+</span><span class="s1">'/usr/include/X11/bitmaps/woman'</span><span class="p">),</span> <span class="n">bg</span><span class="o">=</span><span class="s1">'pink'</span><span class="p">)</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-57" name="rest_code_da8502350eb149ad935febc7c33f6d22-57" href="#rest_code_da8502350eb149ad935febc7c33f6d22-57"></a><span class="n">boton25</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-58" name="rest_code_da8502350eb149ad935febc7c33f6d22-58" href="#rest_code_da8502350eb149ad935febc7c33f6d22-58"></a><span class="c1"># botonX = Button(root, bitmap=('@'+'/path/to/your/custom/icon.xbm'), bg='someColor', fg='AnotherColor')</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-59" name="rest_code_da8502350eb149ad935febc7c33f6d22-59" href="#rest_code_da8502350eb149ad935febc7c33f6d22-59"></a><span class="c1"># botonX.pack()</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-60" name="rest_code_da8502350eb149ad935febc7c33f6d22-60" href="#rest_code_da8502350eb149ad935febc7c33f6d22-60"></a><span class="c1">#</span>
+<a id="rest_code_da8502350eb149ad935febc7c33f6d22-61" name="rest_code_da8502350eb149ad935febc7c33f6d22-61" href="#rest_code_da8502350eb149ad935febc7c33f6d22-61"></a><span class="n">root</span><span class="o">.</span><span class="n">mainloop</span><span class="p">()</span>
+</pre></div>
+    </div>    
+</div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+            <script src="../../assets/js/jquery.min.js"></script><script src="../../assets/js/popper.min.js"></script><script src="../../assets/js/bootstrap.min.js"></script><script src="../../assets/js/baguetteBox.min.js"></script><script src="../../assets/js/pyar.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>

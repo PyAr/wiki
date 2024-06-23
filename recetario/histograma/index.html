@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html prefix="
+og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cómo generar un histograma | Python Argentina Wiki</title>
+<link href="../../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/bootblog.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../../rss.xml">
+<link rel="canonical" href="https://wiki.python.org.ar/recetario/histograma/">
+<!--[if lt IE 9]><script src="../../assets/js/html5.js"></script><![endif]--><meta name="author" content="Python Argentina">
+<meta property="og:site_name" content="Python Argentina Wiki">
+<meta property="og:title" content="Cómo generar un histograma">
+<meta property="og:url" content="https://wiki.python.org.ar/recetario/histograma/">
+<meta property="og:description" content="Ejemplo super sencillo mostrado en la Tribu el 31/JUL/2010 sobre cómo usar matplotlib desde la consola.
+Para más información, revisar:
+
+Matplotlib
+Documentación de hist
+
+&gt;&gt;&gt; from matplotlib.pylab impo">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
+
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../pyar/"><span class="quienes_somos"></span>Nosotros</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../foro_y_redes/"><span class="navbar_lista_de_correo"></span>Foro</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../../"><span class="wiki"></span>Wiki</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/noticias/"><span class="news"></span>Noticias</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/irc/"><span class="irc"></span>IRC</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/eventos/"><span class="eventos"></span>Eventos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://planeta.python.org.ar/"><span class="pyar"></span>Planeta</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/trabajo/"><span class="jobs"></span>Trabajos</a>
+                </li>
+            </ul>
+</div>
+    </nav>
+</div>
+
+<!-- Header and menu bar -->
+<div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        
+<div class="col-lg-12">
+    <div class="page-header">
+        <div class="pull-right">
+            <a href="https://github.com/PyAr/wiki/blob/master/pages/recetario/histograma.rst" id="sourcelink" class="nav-link">Editar</a>
+        </div>
+        <h2>Cómo Generar Un Histograma</h2>
+    </div>
+    <div class="e-content entry-content" itemprop="articleBody text">
+    <p>Ejemplo super sencillo mostrado en la Tribu el 31/JUL/2010 sobre cómo usar matplotlib desde la consola.</p>
+<p>Para más información, revisar:</p>
+<ul class="simple">
+<li><p><a class="reference external" href="http://matplotlib.sourceforge.net/">Matplotlib</a></p></li>
+<li><p><a class="reference external" href="http://matplotlib.sourceforge.net/api/pyplot_api.html?highlight=hist#matplotlib.pyplot.hist">Documentación de hist</a></p></li>
+</ul>
+<div class="code"><pre class="code python"><a id="rest_code_f00947ce401a420a8fae856620b14aae-1" name="rest_code_f00947ce401a420a8fae856620b14aae-1" href="#rest_code_f00947ce401a420a8fae856620b14aae-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="kn">from</span> <span class="nn">matplotlib.pylab</span> <span class="kn">import</span> <span class="n">hist</span><span class="p">,</span> <span class="n">show</span>
+<a id="rest_code_f00947ce401a420a8fae856620b14aae-2" name="rest_code_f00947ce401a420a8fae856620b14aae-2" href="#rest_code_f00947ce401a420a8fae856620b14aae-2"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">plata</span> <span class="o">=</span> <span class="p">[]</span>
+<a id="rest_code_f00947ce401a420a8fae856620b14aae-3" name="rest_code_f00947ce401a420a8fae856620b14aae-3" href="#rest_code_f00947ce401a420a8fae856620b14aae-3"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">a</span> <span class="o">=</span> <span class="n">plata</span><span class="o">.</span><span class="n">extend</span>
+<a id="rest_code_f00947ce401a420a8fae856620b14aae-4" name="rest_code_f00947ce401a420a8fae856620b14aae-4" href="#rest_code_f00947ce401a420a8fae856620b14aae-4"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">a</span><span class="p">([</span><span class="mi">50</span><span class="p">])</span>
+<a id="rest_code_f00947ce401a420a8fae856620b14aae-5" name="rest_code_f00947ce401a420a8fae856620b14aae-5" href="#rest_code_f00947ce401a420a8fae856620b14aae-5"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">a</span><span class="p">([</span><span class="mi">20</span><span class="p">]</span><span class="o">*</span><span class="mi">10</span><span class="p">)</span>
+<a id="rest_code_f00947ce401a420a8fae856620b14aae-6" name="rest_code_f00947ce401a420a8fae856620b14aae-6" href="#rest_code_f00947ce401a420a8fae856620b14aae-6"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">a</span><span class="p">([</span><span class="mi">10</span><span class="p">]</span><span class="o">*</span><span class="mi">13</span><span class="p">)</span>
+<a id="rest_code_f00947ce401a420a8fae856620b14aae-7" name="rest_code_f00947ce401a420a8fae856620b14aae-7" href="#rest_code_f00947ce401a420a8fae856620b14aae-7"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">a</span><span class="p">([</span><span class="mi">5</span><span class="p">]</span><span class="o">*</span><span class="mi">8</span><span class="p">)</span>
+<a id="rest_code_f00947ce401a420a8fae856620b14aae-8" name="rest_code_f00947ce401a420a8fae856620b14aae-8" href="#rest_code_f00947ce401a420a8fae856620b14aae-8"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">a</span><span class="p">([</span><span class="mi">2</span><span class="p">]</span><span class="o">*</span><span class="mi">35</span><span class="p">)</span>
+<a id="rest_code_f00947ce401a420a8fae856620b14aae-9" name="rest_code_f00947ce401a420a8fae856620b14aae-9" href="#rest_code_f00947ce401a420a8fae856620b14aae-9"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">a</span><span class="p">([</span><span class="mi">1</span><span class="p">]</span><span class="o">*</span><span class="mi">1</span><span class="p">)</span>
+<a id="rest_code_f00947ce401a420a8fae856620b14aae-10" name="rest_code_f00947ce401a420a8fae856620b14aae-10" href="#rest_code_f00947ce401a420a8fae856620b14aae-10"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">plata</span>
+<a id="rest_code_f00947ce401a420a8fae856620b14aae-11" name="rest_code_f00947ce401a420a8fae856620b14aae-11" href="#rest_code_f00947ce401a420a8fae856620b14aae-11"></a><span class="p">[</span><span class="mi">50</span><span class="p">,</span> <span class="mi">20</span><span class="p">,</span> <span class="mi">20</span><span class="p">,</span> <span class="mi">20</span><span class="p">,</span> <span class="mi">20</span><span class="p">,</span> <span class="mi">20</span><span class="p">,</span> <span class="mi">20</span><span class="p">,</span> <span class="mi">20</span><span class="p">,</span> <span class="mi">20</span><span class="p">,</span> <span class="mi">20</span><span class="p">,</span> <span class="mi">20</span><span class="p">,</span> <span class="mi">20</span><span class="p">,</span> <span class="mi">20</span><span class="p">,</span> <span class="mi">20</span><span class="p">,</span> <span class="mi">10</span><span class="p">,</span> <span class="mi">10</span><span class="p">,</span> <span class="mi">10</span><span class="p">,</span> <span class="mi">10</span><span class="p">,</span> <span class="mi">10</span><span class="p">,</span> <span class="mi">10</span><span class="p">,</span> <span class="mi">10</span><span class="p">,</span><span class="mi">5</span><span class="p">,</span> <span class="mi">5</span><span class="p">,</span> <span class="mi">5</span><span class="p">,</span> <span class="mi">5</span><span class="p">,</span> <span class="mi">5</span><span class="p">,</span> <span class="mi">5</span><span class="p">,</span> <span class="mi">5</span><span class="p">,</span> <span class="mi">5</span><span class="p">,</span> <span class="mi">5</span><span class="p">,</span> <span class="mi">5</span><span class="p">,</span> <span class="mi">5</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span> <span class="mi">2</span><span class="p">,</span>
+<a id="rest_code_f00947ce401a420a8fae856620b14aae-12" name="rest_code_f00947ce401a420a8fae856620b14aae-12" href="#rest_code_f00947ce401a420a8fae856620b14aae-12"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">hist</span><span class="p">(</span><span class="n">plata</span><span class="p">,</span> <span class="mi">100</span><span class="p">,</span> <span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="mi">100</span><span class="p">))</span>
+<a id="rest_code_f00947ce401a420a8fae856620b14aae-13" name="rest_code_f00947ce401a420a8fae856620b14aae-13" href="#rest_code_f00947ce401a420a8fae856620b14aae-13"></a><span class="p">(</span><span class="n">array</span><span class="p">([</span> <span class="mi">0</span><span class="p">,</span>  <span class="mi">1</span><span class="p">,</span> <span class="mi">35</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span> <span class="mi">15</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span> <span class="mi">25</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>
+<a id="rest_code_f00947ce401a420a8fae856620b14aae-14" name="rest_code_f00947ce401a420a8fae856620b14aae-14" href="#rest_code_f00947ce401a420a8fae856620b14aae-14"></a>        <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span> <span class="mi">13</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>
+<a id="rest_code_f00947ce401a420a8fae856620b14aae-15" name="rest_code_f00947ce401a420a8fae856620b14aae-15" href="#rest_code_f00947ce401a420a8fae856620b14aae-15"></a>        <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">1</span><span class="p">,</span>
+<a id="rest_code_f00947ce401a420a8fae856620b14aae-16" name="rest_code_f00947ce401a420a8fae856620b14aae-16" href="#rest_code_f00947ce401a420a8fae856620b14aae-16"></a>        <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>
+<a id="rest_code_f00947ce401a420a8fae856620b14aae-17" name="rest_code_f00947ce401a420a8fae856620b14aae-17" href="#rest_code_f00947ce401a420a8fae856620b14aae-17"></a>        <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>
+<a id="rest_code_f00947ce401a420a8fae856620b14aae-18" name="rest_code_f00947ce401a420a8fae856620b14aae-18" href="#rest_code_f00947ce401a420a8fae856620b14aae-18"></a>        <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">,</span>  <span class="mi">0</span><span class="p">]),</span> <span class="n">array</span><span class="p">([</span>   <span class="mf">0.</span><span class="p">,</span>
+<a id="rest_code_f00947ce401a420a8fae856620b14aae-19" name="rest_code_f00947ce401a420a8fae856620b14aae-19" href="#rest_code_f00947ce401a420a8fae856620b14aae-19"></a>          <span class="mf">9.</span><span class="p">,</span>   <span class="mf">10.</span><span class="p">,</span>   <span class="mf">11.</span><span class="p">,</span>   <span class="mf">12.</span><span class="p">,</span>   <span class="mf">13.</span><span class="p">,</span>   <span class="mf">14.</span><span class="p">,</span>   <span class="mf">15.</span><span class="p">,</span>   <span class="mf">16.</span><span class="p">,</span>   <span class="mf">17.</span><span class="p">,</span>
+<a id="rest_code_f00947ce401a420a8fae856620b14aae-20" name="rest_code_f00947ce401a420a8fae856620b14aae-20" href="#rest_code_f00947ce401a420a8fae856620b14aae-20"></a>         <span class="mf">18.</span><span class="p">,</span>   <span class="mf">19.</span><span class="p">,</span>   <span class="mf">20.</span><span class="p">,</span>   <span class="mf">21.</span><span class="p">,</span>   <span class="mf">22.</span><span class="p">,</span>   <span class="mf">23.</span><span class="p">,</span>   <span class="mf">24.</span><span class="p">,</span>   <span class="mf">25.</span><span class="p">,</span>   <span class="mf">26.</span><span class="p">,</span>
+<a id="rest_code_f00947ce401a420a8fae856620b14aae-21" name="rest_code_f00947ce401a420a8fae856620b14aae-21" href="#rest_code_f00947ce401a420a8fae856620b14aae-21"></a>         <span class="mf">27.</span><span class="p">,</span>   <span class="mf">28.</span><span class="p">,</span>   <span class="mf">29.</span><span class="p">,</span>   <span class="mf">30.</span><span class="p">,</span>   <span class="mf">31.</span><span class="p">,</span>   <span class="mf">32.</span><span class="p">,</span>   <span class="mf">33.</span><span class="p">,</span>   <span class="mf">34.</span><span class="p">,</span>   <span class="mf">35.</span><span class="p">,</span>
+<a id="rest_code_f00947ce401a420a8fae856620b14aae-22" name="rest_code_f00947ce401a420a8fae856620b14aae-22" href="#rest_code_f00947ce401a420a8fae856620b14aae-22"></a>         <span class="mf">36.</span><span class="p">,</span>   <span class="mf">37.</span><span class="p">,</span>   <span class="mf">38.</span><span class="p">,</span>   <span class="mf">39.</span><span class="p">,</span>   <span class="mf">40.</span><span class="p">,</span>   <span class="mf">41.</span><span class="p">,</span>   <span class="mf">42.</span><span class="p">,</span>   <span class="mf">43.</span><span class="p">,</span>   <span class="mf">44.</span><span class="p">,</span>
+<a id="rest_code_f00947ce401a420a8fae856620b14aae-23" name="rest_code_f00947ce401a420a8fae856620b14aae-23" href="#rest_code_f00947ce401a420a8fae856620b14aae-23"></a>         <span class="mf">45.</span><span class="p">,</span>   <span class="mf">46.</span><span class="p">,</span>   <span class="mf">47.</span><span class="p">,</span>   <span class="mf">48.</span><span class="p">,</span>   <span class="mf">49.</span><span class="p">,</span>   <span class="mf">50.</span><span class="p">,</span>   <span class="mf">51.</span><span class="p">,</span>   <span class="mf">52.</span><span class="p">,</span>   <span class="mf">53.</span><span class="p">,</span>
+<a id="rest_code_f00947ce401a420a8fae856620b14aae-24" name="rest_code_f00947ce401a420a8fae856620b14aae-24" href="#rest_code_f00947ce401a420a8fae856620b14aae-24"></a>         <span class="mf">54.</span><span class="p">,</span>   <span class="mf">55.</span><span class="p">,</span>   <span class="mf">56.</span><span class="p">,</span>   <span class="mf">57.</span><span class="p">,</span>   <span class="mf">58.</span><span class="p">,</span>   <span class="mf">59.</span><span class="p">,</span>   <span class="mf">60.</span><span class="p">,</span>   <span class="mf">61.</span><span class="p">,</span>   <span class="mf">62.</span><span class="p">,</span>
+<a id="rest_code_f00947ce401a420a8fae856620b14aae-25" name="rest_code_f00947ce401a420a8fae856620b14aae-25" href="#rest_code_f00947ce401a420a8fae856620b14aae-25"></a>         <span class="mf">63.</span><span class="p">,</span>   <span class="mf">64.</span><span class="p">,</span>   <span class="mf">65.</span><span class="p">,</span>   <span class="mf">66.</span><span class="p">,</span>   <span class="mf">67.</span><span class="p">,</span>   <span class="mf">68.</span><span class="p">,</span>   <span class="mf">69.</span><span class="p">,</span>   <span class="mf">70.</span><span class="p">,</span>   <span class="mf">71.</span><span class="p">,</span>
+<a id="rest_code_f00947ce401a420a8fae856620b14aae-26" name="rest_code_f00947ce401a420a8fae856620b14aae-26" href="#rest_code_f00947ce401a420a8fae856620b14aae-26"></a>         <span class="mf">72.</span><span class="p">,</span>   <span class="mf">73.</span><span class="p">,</span>   <span class="mf">74.</span><span class="p">,</span>   <span class="mf">75.</span><span class="p">,</span>   <span class="mf">76.</span><span class="p">,</span>   <span class="mf">77.</span><span class="p">,</span>   <span class="mf">78.</span><span class="p">,</span>   <span class="mf">79.</span><span class="p">,</span>   <span class="mf">80.</span><span class="p">,</span>
+<a id="rest_code_f00947ce401a420a8fae856620b14aae-27" name="rest_code_f00947ce401a420a8fae856620b14aae-27" href="#rest_code_f00947ce401a420a8fae856620b14aae-27"></a>         <span class="mf">81.</span><span class="p">,</span>   <span class="mf">82.</span><span class="p">,</span>   <span class="mf">83.</span><span class="p">,</span>   <span class="mf">84.</span><span class="p">,</span>   <span class="mf">85.</span><span class="p">,</span>   <span class="mf">86.</span><span class="p">,</span>   <span class="mf">87.</span><span class="p">,</span>   <span class="mf">88.</span><span class="p">,</span>   <span class="mf">89.</span><span class="p">,</span>
+<a id="rest_code_f00947ce401a420a8fae856620b14aae-28" name="rest_code_f00947ce401a420a8fae856620b14aae-28" href="#rest_code_f00947ce401a420a8fae856620b14aae-28"></a>         <span class="mf">90.</span><span class="p">,</span>   <span class="mf">91.</span><span class="p">,</span>   <span class="mf">92.</span><span class="p">,</span>   <span class="mf">93.</span><span class="p">,</span>   <span class="mf">94.</span><span class="p">,</span>   <span class="mf">95.</span><span class="p">,</span>   <span class="mf">96.</span><span class="p">,</span>   <span class="mf">97.</span><span class="p">,</span>   <span class="mf">98.</span><span class="p">,</span>
+<a id="rest_code_f00947ce401a420a8fae856620b14aae-29" name="rest_code_f00947ce401a420a8fae856620b14aae-29" href="#rest_code_f00947ce401a420a8fae856620b14aae-29"></a>         <span class="mf">99.</span><span class="p">,</span>  <span class="mf">100.</span><span class="p">]),</span> <span class="o">&lt;</span><span class="n">a</span> <span class="nb">list</span> <span class="n">of</span> <span class="mi">100</span> <span class="n">Patch</span> <span class="n">objects</span><span class="o">&gt;</span><span class="p">)</span>
+<a id="rest_code_f00947ce401a420a8fae856620b14aae-30" name="rest_code_f00947ce401a420a8fae856620b14aae-30" href="#rest_code_f00947ce401a420a8fae856620b14aae-30"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">show</span><span class="p">()</span>
+</pre></div>
+<img alt="/images/Recetario/Histograma/ej_tribu.jpg" src="../../images/Recetario/Histograma/ej_tribu.jpg"><!-- ############################################################################ -->
+</div>    
+</div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+            <script src="../../assets/js/jquery.min.js"></script><script src="../../assets/js/popper.min.js"></script><script src="../../assets/js/bootstrap.min.js"></script><script src="../../assets/js/baguetteBox.min.js"></script><script src="../../assets/js/pyar.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>

@@ -1,0 +1,22 @@
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="svg2" sodipodi:version="0.32" inkscape:version="0.46" version="1.0" sodipodi:docname="PyAr.svg" inkscape:output_extension="org.inkscape.output.svg.inkscape" viewport="0 0 1280px 905px">
+  <defs id="defs4">
+    <inkscape:perspective sodipodi:type="inkscape:persp3d" inkscape:vp_x="0 : 526.18109 : 1" inkscape:vp_y="0 : 1000 : 0" inkscape:vp_z="744.09448 : 526.18109 : 1" inkscape:persp3d-origin="372.04724 : 350.78739 : 1" id="perspective10"/>
+  </defs>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" gridtolerance="10000" guidetolerance="10" objecttolerance="10" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="0.35" inkscape:cx="419.28571" inkscape:cy="464.28571" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="false" showguides="true" inkscape:guide-bbox="true" inkscape:window-width="966" inkscape:window-height="684" inkscape:window-x="10" inkscape:window-y="54"/>
+  <metadata id="metadata7">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1">
+    <g id="g2425" transform="translate(14.285705,0)">
+      <text id="text2385" y="428.52133" x="21.533239" style="font-size:109.75614929px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans" xml:space="preserve"><tspan dx="0 0 0 0 0 0 0 -28.57143" y="428.52133" x="21.533239" id="tspan2387" sodipodi:role="line"><tspan id="tspan2395" style="font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold">Python</tspan> Argentina</tspan></text>
+      <text id="text2389" y="274.65894" x="125.29336" style="font-size:317.08087158px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Bitstream Vera Sans" xml:space="preserve"><tspan dx="0 0 -43.68367 -14.635491" style="font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold" y="274.65894" x="125.29336" id="tspan2391" sodipodi:role="line"><tspan dx="0 -8.7812948" id="tspan2397" style="font-weight:bold;-inkscape-font-specification:Bitstream Vera Sans Bold">Py</tspan>Ar</tspan></text>
+    </g>
+    <path sodipodi:type="arc" id="path2401" style="fill:#000000;stroke:none" sodipodi:cx="5.7142859" sodipodi:cy="475.52304" sodipodi:rx="1.5" sodipodi:ry="1.5" d="M 7.2142859,475.52304 A 1.5,1.5 0 1 1 4.2142859,475.52304 A 1.5,1.5 0 1 1 7.2142859,475.52304 z"/>
+    <path style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="M 0,478.38019 C 1051.4286,478.38019 1048.5714,478.38019 1048.5714,478.38019 L 1048.5714,475.52305" id="path2423"/>
+  </g>
+</svg>

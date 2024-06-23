@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html prefix="
+og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Edupythoncd | Python Argentina Wiki</title>
+<link href="../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/bootblog.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../rss.xml">
+<link rel="canonical" href="https://wiki.python.org.ar/edupythoncd/">
+<!--[if lt IE 9]><script src="../assets/js/html5.js"></script><![endif]--><meta name="author" content="Python Argentina">
+<meta property="og:site_name" content="Python Argentina Wiki">
+<meta property="og:title" content="Edupythoncd">
+<meta property="og:url" content="https://wiki.python.org.ar/edupythoncd/">
+<meta property="og:description" content="La propuesta es armar un livecd que permita ser usado para dictar un taller de Python para alumnos de secundaria.
+Además se podría agregar que si se coloca en un sistema no GNU/Linux, se pueda instala">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
+
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../pyar/"><span class="quienes_somos"></span>Nosotros</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../foro_y_redes/"><span class="navbar_lista_de_correo"></span>Foro</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../"><span class="wiki"></span>Wiki</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/noticias/"><span class="news"></span>Noticias</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/irc/"><span class="irc"></span>IRC</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/eventos/"><span class="eventos"></span>Eventos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://planeta.python.org.ar/"><span class="pyar"></span>Planeta</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/trabajo/"><span class="jobs"></span>Trabajos</a>
+                </li>
+            </ul>
+</div>
+    </nav>
+</div>
+
+<!-- Header and menu bar -->
+<div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        
+<div class="col-lg-12">
+    <div class="page-header">
+        <div class="pull-right">
+            <a href="https://github.com/PyAr/wiki/blob/master/pages/edupythoncd.rst" id="sourcelink" class="nav-link">Editar</a>
+        </div>
+        <h2>Edupythoncd</h2>
+    </div>
+    <div class="e-content entry-content" itemprop="articleBody text">
+    <p>La propuesta es armar un livecd que permita ser usado para dictar un taller de Python para alumnos de secundaria.</p>
+<p>Además se podría agregar que si se coloca en un sistema no GNU/Linux, se pueda instalar el mismo soft.</p>
+<p>Se propuso incluir los siguientes programas:</p>
+<ul class="simple">
+<li><p>Apache, mod_python, Django, Zope, etc con respecto a framework de web.</p></li>
+<li><p>Modulos que no suelen venir preinstalados para python.</p></li>
+<li><p>Entornos para programar como ipython, boa, etc.</p></li>
+<li><p>Le agrego manejo de archivos y Base de datos (MySql, PostgreSQL).</p></li>
+</ul>
+<p>También se habló de la posibilidad de hacer un liveCD para aprender a programar, no puntualmente para python sinó mas general, para varios lenguajes. Esto traeríá mas gente al proyecto, pero lo ampliaría mas de lo necesario.</p>
+<p>Se plantearon también 2 mecanismos para armar liveCDs, knoppix y bootcd.</p>
+<p>Knoppixhttp://www.knoppix.net es un livecd que permite remasterizarlo, obteniendo una version personalizada del mismo. http://www.knoppix.net/wiki/Knoppix_Remastering_Howto</p>
+<p>Bootcdhttp://www.debian-administration.org/articles/148 es un comando que genera un livecd a partir de una instalación de Debian. El tema de usar BootCD es que no contempla la compatibilidad con el hardware.</p>
+<section id="pylive-cd"><h2>PyLive CD</h2>
+<p>Live CD basado en ubuntu intrepid ibex, utiliza openbox como gestor de ventanas y fbpanel como panel.</p>
+<section id="software-incluido"><h3>Software incluido</h3>
+<section id="ides"><h4>IDEs</h4>
+<ul class="simple">
+<li><p>Geany</p></li>
+<li><p>spe</p></li>
+<li><p>eric4</p></li>
+<li><p>boa constructor</p></li>
+<li><p>wx-glade</p></li>
+<li><p>glade-3</p></li>
+</ul></section><section id="utilidades"><h4>Utilidades</h4>
+<ul class="simple">
+<li><p>kiki (evaluador de expresiones regulares)</p></li>
+<li><p>winpdb (debugger visual)</p></li>
+<li><p>Kodos</p></li>
+<li><p>gnome-terminal</p></li>
+<li><p>nm-applet</p></li>
+<li><p>obconf</p></li>
+<li><p>openbox</p></li>
+<li><p>fbpanel</p></li>
+<li><p>sqlite3</p></li>
+<li><p>firefox 3</p></li>
+<li><p>thunar</p></li>
+<li><p>evice (visor de documentos)</p></li>
+<li><p>gmrun (alt + F2)</p></li>
+</ul></section><section id="sistemas-de-control-de-versiones"><h4>Sistemas de control de versiones</h4>
+<ul class="simple">
+<li><p>svn</p></li>
+<li><p>git</p></li>
+<li><p>bzr</p></li>
+<li><p>mercurial</p></li>
+</ul></section><section id="web"><h4>Web</h4>
+<ul class="simple">
+<li><p>turbogears 1.0.4</p></li>
+<li><p>django 1.0</p></li>
+<li><p>webpy 0.2.3</p></li>
+<li><p>web2py</p></li>
+<li><p>twisted</p></li>
+<li><p>apache + php5 + phpmyadmin + mysql5 + python-mysqldb + mod_python (la contraseña de root del mysql es "secret")</p></li>
+</ul></section><section id="librerias-de-videojuegos"><h4>Librerias de videojuegos</h4>
+<ul class="simple">
+<li><p>pygame</p></li>
+<li><p>pyglet</p></li>
+</ul></section><section id="librerias-varias"><h4>Librerias varias</h4>
+<ul class="simple">
+<li><p>beatifulsoup</p></li>
+<li><p>elixir</p></li>
+<li><p>sqlalchemy</p></li>
+<li><p>sqlobject</p></li>
+</ul></section><section id="interpretes"><h4>Interpretes</h4>
+<ul class="simple">
+<li><p>IDLE 2.4, 2.5</p></li>
+<li><p>python 2.4, 2.5, 2.6, 3.0</p></li>
+<li><p>ipython</p></li>
+</ul></section><section id="editores"><h4>Editores</h4>
+<ul class="simple">
+<li><p>gedit</p></li>
+<li><p>vim</p></li>
+<li><p>emacs</p></li>
+<li><p>scribes</p></li>
+</ul></section><section id="otros"><h4>Otros</h4>
+<ul class="simple">
+<li><p>traduccion al castellano de casi todo</p></li>
+<li><p>teclado y lenguaje español por defecto.</p></li>
+<li><p>autologin</p></li>
+<li><p>vimrc recomendado por python.org</p></li>
+</ul></section><section id="propuestos"><h4>Propuestos</h4>
+<ul class="simple">
+<li><p>ninguna</p></li>
+</ul></section><section id="asuntos-pendientes"><h4>Asuntos pendientes</h4>
+<ul class="simple">
+<li><p>Documentacion offline</p></li>
+<li><p>Instalar xterm</p></li>
+</ul>
+<!-- ############################################################################ --></section></section></section>
+</div>    
+</div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+            <script src="../assets/js/jquery.min.js"></script><script src="../assets/js/popper.min.js"></script><script src="../assets/js/bootstrap.min.js"></script><script src="../assets/js/baguetteBox.min.js"></script><script src="../assets/js/pyar.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>

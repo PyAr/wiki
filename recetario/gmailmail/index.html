@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html prefix="
+og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GmailMail | Python Argentina Wiki</title>
+<link href="../../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/bootblog.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../../rss.xml">
+<link rel="canonical" href="https://wiki.python.org.ar/recetario/gmailmail/">
+<!--[if lt IE 9]><script src="../../assets/js/html5.js"></script><![endif]--><meta name="author" content="Python Argentina">
+<meta property="og:site_name" content="Python Argentina Wiki">
+<meta property="og:title" content="GmailMail">
+<meta property="og:url" content="https://wiki.python.org.ar/recetario/gmailmail/">
+<meta property="og:description" content="Este script permite enviar emails a través de GMail. Los emails pueden tener texto plano, HTML y archivos adjuntos (todos opcionales).
+Nota: El script lo escribí originalmente en inglés. Debería enten">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
+
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../pyar/"><span class="quienes_somos"></span>Nosotros</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../foro_y_redes/"><span class="navbar_lista_de_correo"></span>Foro</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../../"><span class="wiki"></span>Wiki</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/noticias/"><span class="news"></span>Noticias</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/irc/"><span class="irc"></span>IRC</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/eventos/"><span class="eventos"></span>Eventos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://planeta.python.org.ar/"><span class="pyar"></span>Planeta</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/trabajo/"><span class="jobs"></span>Trabajos</a>
+                </li>
+            </ul>
+</div>
+    </nav>
+</div>
+
+<!-- Header and menu bar -->
+<div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        
+<div class="col-lg-12">
+    <div class="page-header">
+        <div class="pull-right">
+            <a href="https://github.com/PyAr/wiki/blob/master/pages/recetario/gmailmail.rst" id="sourcelink" class="nav-link">Editar</a>
+        </div>
+        <h2>Gmailmail</h2>
+    </div>
+    <div class="e-content entry-content" itemprop="articleBody text">
+    <p>Este script permite enviar emails a través de GMail. Los emails pueden tener texto plano, HTML y archivos adjuntos (todos opcionales).</p>
+<p><strong>Nota:</strong> <small>El script lo escribí originalmente en inglés. Debería entenderse, pero pienso traducirlo cuando tenga algo más de tiempo.</small></p>
+<p><strong>Archivo:</strong> GmailMail.py</p>
+<div class="code"><pre class="code python"><a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-1" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-1" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-1"></a><span class="ch">#!/usr/bin/env python</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-2" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-2" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-2"></a>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-3" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-3" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-3"></a><span class="c1"># requires Python &gt;= 2.5</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-4" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-4" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-4"></a><span class="kn">import</span> <span class="nn">smtplib</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-5" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-5" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-5"></a><span class="kn">from</span> <span class="nn">email.mime.multipart</span> <span class="kn">import</span> <span class="n">MIMEMultipart</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-6" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-6" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-6"></a><span class="kn">from</span> <span class="nn">email.mime.base</span> <span class="kn">import</span> <span class="n">MIMEBase</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-7" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-7" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-7"></a><span class="kn">from</span> <span class="nn">email.mime.text</span> <span class="kn">import</span> <span class="n">MIMEText</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-8" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-8" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-8"></a><span class="kn">from</span> <span class="nn">email.mime.audio</span> <span class="kn">import</span> <span class="n">MIMEAudio</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-9" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-9" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-9"></a><span class="kn">from</span> <span class="nn">email.mime.image</span> <span class="kn">import</span> <span class="n">MIMEImage</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-10" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-10" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-10"></a><span class="kn">from</span> <span class="nn">email.encoders</span> <span class="kn">import</span> <span class="n">encode_base64</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-11" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-11" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-11"></a><span class="kn">from</span> <span class="nn">mimetypes</span> <span class="kn">import</span> <span class="n">guess_type</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-12" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-12" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-12"></a><span class="kn">from</span> <span class="nn">os.path</span> <span class="kn">import</span> <span class="n">basename</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-13" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-13" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-13"></a>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-14" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-14" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-14"></a><span class="k">class</span> <span class="nc">GmailMail</span><span class="p">():</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-15" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-15" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-15"></a>    <span class="k">def</span> <span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">gmail_user</span><span class="p">,</span> <span class="n">gmail_pwd</span><span class="p">):</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-16" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-16" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-16"></a><span class="w">        </span><span class="sd">"""</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-17" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-17" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-17"></a><span class="sd">        Prepares an instance with basic authentication</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-18" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-18" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-18"></a>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-19" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-19" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-19"></a><span class="sd">        """</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-20" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-20" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-20"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">gmail_user</span> <span class="o">=</span> <span class="n">gmail_user</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-21" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-21" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-21"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">gmail_pwd</span> <span class="o">=</span> <span class="n">gmail_pwd</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-22" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-22" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-22"></a>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-23" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-23" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-23"></a>    <span class="k">def</span> <span class="nf">getAttachment</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">path</span><span class="p">,</span> <span class="n">charset</span><span class="o">=</span><span class="s1">'ASCII'</span><span class="p">):</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-24" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-24" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-24"></a>        <span class="n">contentType</span><span class="p">,</span> <span class="n">encoding</span> <span class="o">=</span> <span class="n">guess_type</span><span class="p">(</span><span class="n">path</span><span class="p">)</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-25" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-25" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-25"></a>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-26" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-26" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-26"></a>        <span class="k">if</span> <span class="n">contentType</span> <span class="ow">is</span> <span class="kc">None</span> <span class="ow">or</span> <span class="n">encoding</span> <span class="ow">is</span> <span class="ow">not</span> <span class="kc">None</span><span class="p">:</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-27" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-27" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-27"></a>            <span class="n">contentType</span> <span class="o">=</span> <span class="s1">'application/octet-stream'</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-28" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-28" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-28"></a>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-29" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-29" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-29"></a>        <span class="n">mainType</span><span class="p">,</span> <span class="n">subType</span> <span class="o">=</span> <span class="n">contentType</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="s1">'/'</span><span class="p">,</span> <span class="mi">1</span><span class="p">)</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-30" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-30" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-30"></a>        <span class="n">_file</span> <span class="o">=</span> <span class="nb">open</span><span class="p">(</span><span class="n">path</span><span class="p">,</span> <span class="s1">'rb'</span><span class="p">)</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-31" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-31" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-31"></a>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-32" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-32" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-32"></a>        <span class="k">if</span> <span class="n">mainType</span> <span class="o">==</span> <span class="s1">'text'</span><span class="p">:</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-33" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-33" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-33"></a>            <span class="n">attachment</span> <span class="o">=</span> <span class="n">MIMEText</span><span class="p">(</span><span class="n">_file</span><span class="o">.</span><span class="n">read</span><span class="p">(),</span> <span class="n">subType</span><span class="p">,</span> <span class="n">charset</span><span class="p">)</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-34" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-34" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-34"></a>        <span class="k">elif</span> <span class="n">mainType</span> <span class="o">==</span> <span class="s1">'message'</span><span class="p">:</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-35" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-35" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-35"></a>            <span class="n">attachment</span> <span class="o">=</span> <span class="n">email</span><span class="o">.</span><span class="n">message_from_file</span><span class="p">(</span><span class="n">_file</span><span class="p">)</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-36" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-36" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-36"></a>        <span class="k">elif</span> <span class="n">mainType</span> <span class="o">==</span> <span class="s1">'image'</span><span class="p">:</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-37" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-37" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-37"></a>            <span class="n">attachment</span> <span class="o">=</span> <span class="n">MIMEImage</span><span class="p">(</span><span class="n">_file</span><span class="o">.</span><span class="n">read</span><span class="p">(),</span> <span class="n">_subType</span><span class="o">=</span><span class="n">subType</span><span class="p">)</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-38" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-38" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-38"></a>        <span class="k">elif</span> <span class="n">mainType</span> <span class="o">==</span> <span class="s1">'audio'</span><span class="p">:</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-39" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-39" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-39"></a>            <span class="n">attachment</span> <span class="o">=</span> <span class="n">MIMEAudio</span><span class="p">(</span><span class="n">_file</span><span class="o">.</span><span class="n">read</span><span class="p">(),</span> <span class="n">_subType</span><span class="o">=</span><span class="n">subType</span><span class="p">)</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-40" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-40" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-40"></a>        <span class="k">else</span><span class="p">:</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-41" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-41" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-41"></a>            <span class="n">attachment</span> <span class="o">=</span> <span class="n">MIMEBase</span><span class="p">(</span><span class="n">mainType</span><span class="p">,</span> <span class="n">subType</span><span class="p">)</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-42" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-42" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-42"></a>            <span class="n">attachment</span><span class="o">.</span><span class="n">set_payload</span><span class="p">(</span><span class="n">_file</span><span class="o">.</span><span class="n">read</span><span class="p">())</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-43" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-43" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-43"></a>            <span class="n">encode_base64</span><span class="p">(</span><span class="n">attachment</span><span class="p">)</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-44" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-44" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-44"></a>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-45" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-45" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-45"></a>        <span class="n">_file</span><span class="o">.</span><span class="n">close</span><span class="p">()</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-46" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-46" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-46"></a>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-47" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-47" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-47"></a>        <span class="n">attachment</span><span class="o">.</span><span class="n">add_header</span><span class="p">(</span><span class="s1">'Content-Disposition'</span><span class="p">,</span> <span class="s1">'attachment'</span><span class="p">,</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-48" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-48" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-48"></a>            <span class="n">filename</span><span class="o">=</span><span class="n">basename</span><span class="p">(</span><span class="n">path</span><span class="p">))</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-49" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-49" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-49"></a>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-50" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-50" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-50"></a>        <span class="k">return</span> <span class="n">attachment</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-51" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-51" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-51"></a>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-52" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-52" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-52"></a>    <span class="k">def</span> <span class="nf">send</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">to</span><span class="p">,</span> <span class="n">subject</span><span class="p">,</span> <span class="n">text</span><span class="o">=</span><span class="sa">u</span><span class="s2">""</span><span class="p">,</span> <span class="n">html</span><span class="o">=</span><span class="kc">None</span><span class="p">,</span> <span class="n">attachments</span><span class="o">=</span><span class="kc">None</span><span class="p">,</span> <span class="n">charset</span><span class="o">=</span><span class="s2">"iso-8859-15"</span><span class="p">):</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-53" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-53" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-53"></a><span class="w">        </span><span class="sd">"""</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-54" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-54" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-54"></a><span class="sd">        Sends an email through Gmail using the authentication</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-55" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-55" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-55"></a><span class="sd">        given to this instance.</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-56" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-56" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-56"></a>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-57" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-57" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-57"></a><span class="sd">        If given, attachments must be a list of paths pointing</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-58" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-58" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-58"></a><span class="sd">        to the files we want to include.</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-59" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-59" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-59"></a>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-60" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-60" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-60"></a><span class="sd">        This script does not embed inline content (multipart/related)</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-61" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-61" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-61"></a>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-62" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-62" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-62"></a><span class="sd">        """</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-63" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-63" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-63"></a>        <span class="k">if</span> <span class="n">charset</span> <span class="ow">in</span> <span class="p">[</span><span class="s1">'utf8'</span><span class="p">,</span><span class="s1">'utf-8'</span><span class="p">]:</span> <span class="c1">#bug?</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-64" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-64" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-64"></a>            <span class="kn">from</span> <span class="nn">email.charset</span> <span class="kn">import</span> <span class="n">add_charset</span><span class="p">,</span> <span class="n">SHORTEST</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-65" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-65" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-65"></a>            <span class="n">add_charset</span><span class="p">(</span><span class="s1">'utf-8'</span><span class="p">,</span> <span class="n">SHORTEST</span><span class="p">,</span> <span class="kc">None</span><span class="p">,</span> <span class="kc">None</span><span class="p">)</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-66" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-66" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-66"></a>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-67" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-67" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-67"></a>        <span class="k">if</span> <span class="nb">isinstance</span><span class="p">(</span><span class="n">text</span><span class="p">,</span> <span class="n">unicode</span><span class="p">):</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-68" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-68" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-68"></a>            <span class="n">text</span> <span class="o">=</span> <span class="n">text</span><span class="o">.</span><span class="n">encode</span><span class="p">(</span><span class="n">charset</span><span class="p">,</span> <span class="s1">'replace'</span><span class="p">)</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-69" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-69" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-69"></a>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-70" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-70" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-70"></a>        <span class="k">if</span> <span class="nb">isinstance</span><span class="p">(</span><span class="n">html</span><span class="p">,</span> <span class="n">unicode</span><span class="p">):</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-71" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-71" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-71"></a>            <span class="n">html</span> <span class="o">=</span> <span class="n">html</span><span class="o">.</span><span class="n">encode</span><span class="p">(</span><span class="n">charset</span><span class="p">,</span> <span class="s1">'replace'</span><span class="p">)</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-72" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-72" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-72"></a>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-73" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-73" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-73"></a>        <span class="k">if</span> <span class="n">attachments</span> <span class="ow">is</span> <span class="kc">None</span><span class="p">:</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-74" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-74" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-74"></a>            <span class="n">attachments</span> <span class="o">=</span> <span class="p">[]</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-75" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-75" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-75"></a>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-76" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-76" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-76"></a>        <span class="k">if</span> <span class="n">text</span><span class="p">:</span> <span class="n">plain_part</span> <span class="o">=</span> <span class="n">MIMEText</span><span class="p">(</span><span class="n">text</span><span class="p">,</span> <span class="s1">'plain'</span><span class="p">,</span> <span class="n">charset</span><span class="p">)</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-77" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-77" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-77"></a>        <span class="k">if</span> <span class="n">html</span><span class="p">:</span> <span class="n">html_part</span> <span class="o">=</span> <span class="n">MIMEText</span><span class="p">(</span><span class="n">html</span><span class="p">,</span> <span class="s1">'html'</span><span class="p">,</span> <span class="n">charset</span><span class="p">)</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-78" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-78" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-78"></a>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-79" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-79" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-79"></a>        <span class="n">is_alternative</span> <span class="o">=</span> <span class="n">html</span> <span class="ow">and</span> <span class="n">text</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-80" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-80" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-80"></a>        <span class="n">layers</span> <span class="o">=</span> <span class="p">[]</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-81" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-81" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-81"></a>        <span class="k">if</span> <span class="n">attachments</span> <span class="ow">or</span> <span class="n">is_alternative</span><span class="p">:</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-82" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-82" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-82"></a>            <span class="n">msg</span> <span class="o">=</span> <span class="n">MIMEMultipart</span><span class="p">()</span> <span class="c1">#mixed</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-83" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-83" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-83"></a>            <span class="n">msg</span><span class="o">.</span><span class="n">set_charset</span><span class="p">(</span><span class="n">charset</span><span class="p">)</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-84" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-84" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-84"></a>            <span class="n">msg</span><span class="o">.</span><span class="n">preamble</span> <span class="o">=</span> <span class="s1">'This is a multi-part message in MIME format.'</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-85" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-85" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-85"></a>            <span class="n">msg</span><span class="o">.</span><span class="n">epilogue</span> <span class="o">=</span> <span class="s1">''</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-86" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-86" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-86"></a>            <span class="n">layers</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">msg</span><span class="p">)</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-87" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-87" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-87"></a>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-88" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-88" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-88"></a>            <span class="k">if</span> <span class="n">is_alternative</span><span class="p">:</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-89" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-89" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-89"></a>                <span class="n">msgAlternative</span> <span class="o">=</span> <span class="n">MIMEMultipart</span><span class="p">(</span><span class="s1">'alternative'</span><span class="p">)</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-90" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-90" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-90"></a>                <span class="n">msg</span><span class="o">.</span><span class="n">attach</span><span class="p">(</span><span class="n">msgAlternative</span><span class="p">)</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-91" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-91" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-91"></a>                <span class="n">layers</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">msgAlternative</span><span class="p">)</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-92" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-92" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-92"></a>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-93" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-93" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-93"></a>            <span class="k">if</span> <span class="n">text</span><span class="p">:</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-94" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-94" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-94"></a>                <span class="n">layers</span><span class="p">[</span><span class="o">-</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">attach</span><span class="p">(</span><span class="n">plain_part</span><span class="p">)</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-95" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-95" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-95"></a>            <span class="k">if</span> <span class="n">html</span><span class="p">:</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-96" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-96" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-96"></a>                <span class="n">layers</span><span class="p">[</span><span class="o">-</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">attach</span><span class="p">(</span><span class="n">html_part</span><span class="p">)</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-97" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-97" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-97"></a>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-98" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-98" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-98"></a>        <span class="k">elif</span> <span class="n">text</span><span class="p">:</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-99" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-99" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-99"></a>            <span class="n">msg</span> <span class="o">=</span> <span class="n">plain_part</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-100" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-100" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-100"></a>        <span class="k">else</span><span class="p">:</span> <span class="c1">#html only</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-101" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-101" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-101"></a>            <span class="n">msg</span> <span class="o">=</span> <span class="n">html_part</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-102" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-102" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-102"></a>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-103" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-103" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-103"></a>        <span class="k">for</span> <span class="n">path</span> <span class="ow">in</span> <span class="n">attachments</span><span class="p">:</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-104" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-104" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-104"></a>            <span class="n">msg</span><span class="o">.</span><span class="n">attach</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">getAttachment</span><span class="p">(</span><span class="n">path</span><span class="p">,</span> <span class="n">charset</span><span class="p">))</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-105" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-105" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-105"></a>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-106" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-106" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-106"></a>        <span class="n">msg</span><span class="p">[</span><span class="s1">'From'</span><span class="p">]</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">gmail_user</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-107" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-107" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-107"></a>        <span class="n">msg</span><span class="p">[</span><span class="s1">'To'</span><span class="p">]</span> <span class="o">=</span> <span class="n">to</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-108" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-108" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-108"></a>        <span class="n">msg</span><span class="p">[</span><span class="s1">'Subject'</span><span class="p">]</span> <span class="o">=</span> <span class="n">subject</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-109" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-109" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-109"></a>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-110" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-110" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-110"></a>        <span class="n">mailServer</span> <span class="o">=</span> <span class="n">smtplib</span><span class="o">.</span><span class="n">SMTP</span><span class="p">(</span><span class="s2">"smtp.gmail.com"</span><span class="p">,</span> <span class="mi">587</span><span class="p">)</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-111" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-111" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-111"></a>        <span class="n">mailServer</span><span class="o">.</span><span class="n">ehlo</span><span class="p">()</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-112" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-112" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-112"></a>        <span class="n">mailServer</span><span class="o">.</span><span class="n">starttls</span><span class="p">()</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-113" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-113" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-113"></a>        <span class="n">mailServer</span><span class="o">.</span><span class="n">ehlo</span><span class="p">()</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-114" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-114" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-114"></a>        <span class="n">mailServer</span><span class="o">.</span><span class="n">login</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">gmail_user</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">gmail_pwd</span><span class="p">)</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-115" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-115" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-115"></a>        <span class="n">mailServer</span><span class="o">.</span><span class="n">sendmail</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">gmail_user</span><span class="p">,</span> <span class="n">to</span><span class="p">,</span> <span class="n">msg</span><span class="o">.</span><span class="n">as_string</span><span class="p">())</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-116" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-116" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-116"></a>        <span class="c1"># Should be mailServer.quit(), but that crashes...</span>
+<a id="rest_code_4c7e1b40976c4f91a0db0a87c7905663-117" name="rest_code_4c7e1b40976c4f91a0db0a87c7905663-117" href="#rest_code_4c7e1b40976c4f91a0db0a87c7905663-117"></a>        <span class="n">mailServer</span><span class="o">.</span><span class="n">close</span><span class="p">()</span>
+</pre></div>
+<section id="algunos-tests-ejemplos-casos-de-uso"><h2>Algunos tests (ejemplos, casos de uso):</h2>
+<p><strong>Archivo:</strong> GmailMail_tests.py</p>
+<div class="code"><pre class="code python"><a id="rest_code_18a7eaf293f94620844cda206805a1b3-1" name="rest_code_18a7eaf293f94620844cda206805a1b3-1" href="#rest_code_18a7eaf293f94620844cda206805a1b3-1"></a><span class="c1"># -*- coding: utf-8 -*-</span>
+<a id="rest_code_18a7eaf293f94620844cda206805a1b3-2" name="rest_code_18a7eaf293f94620844cda206805a1b3-2" href="#rest_code_18a7eaf293f94620844cda206805a1b3-2"></a>
+<a id="rest_code_18a7eaf293f94620844cda206805a1b3-3" name="rest_code_18a7eaf293f94620844cda206805a1b3-3" href="#rest_code_18a7eaf293f94620844cda206805a1b3-3"></a><span class="kn">from</span> <span class="nn">GmailMail</span> <span class="kn">import</span> <span class="n">GmailMail</span>
+<a id="rest_code_18a7eaf293f94620844cda206805a1b3-4" name="rest_code_18a7eaf293f94620844cda206805a1b3-4" href="#rest_code_18a7eaf293f94620844cda206805a1b3-4"></a><span class="kn">from</span> <span class="nn">urllib2</span> <span class="kn">import</span> <span class="n">urlopen</span>
+<a id="rest_code_18a7eaf293f94620844cda206805a1b3-5" name="rest_code_18a7eaf293f94620844cda206805a1b3-5" href="#rest_code_18a7eaf293f94620844cda206805a1b3-5"></a>
+<a id="rest_code_18a7eaf293f94620844cda206805a1b3-6" name="rest_code_18a7eaf293f94620844cda206805a1b3-6" href="#rest_code_18a7eaf293f94620844cda206805a1b3-6"></a><span class="n">text</span> <span class="o">=</span> <span class="sa">u</span><span class="s2">"""</span><span class="se">\</span>
+<a id="rest_code_18a7eaf293f94620844cda206805a1b3-7" name="rest_code_18a7eaf293f94620844cda206805a1b3-7" href="#rest_code_18a7eaf293f94620844cda206805a1b3-7"></a><span class="s2">Éste es el contenido en modo texto plano</span>
+<a id="rest_code_18a7eaf293f94620844cda206805a1b3-8" name="rest_code_18a7eaf293f94620844cda206805a1b3-8" href="#rest_code_18a7eaf293f94620844cda206805a1b3-8"></a><span class="s2">Tenemos acentos y eñes.</span>
+<a id="rest_code_18a7eaf293f94620844cda206805a1b3-9" name="rest_code_18a7eaf293f94620844cda206805a1b3-9" href="#rest_code_18a7eaf293f94620844cda206805a1b3-9"></a>
+<a id="rest_code_18a7eaf293f94620844cda206805a1b3-10" name="rest_code_18a7eaf293f94620844cda206805a1b3-10" href="#rest_code_18a7eaf293f94620844cda206805a1b3-10"></a><span class="s2">"""</span>
+<a id="rest_code_18a7eaf293f94620844cda206805a1b3-11" name="rest_code_18a7eaf293f94620844cda206805a1b3-11" href="#rest_code_18a7eaf293f94620844cda206805a1b3-11"></a><span class="n">url</span> <span class="o">=</span> <span class="s2">"http://python.com.ar/moin"</span>
+<a id="rest_code_18a7eaf293f94620844cda206805a1b3-12" name="rest_code_18a7eaf293f94620844cda206805a1b3-12" href="#rest_code_18a7eaf293f94620844cda206805a1b3-12"></a><span class="n">html</span> <span class="o">=</span> <span class="n">urlopen</span><span class="p">(</span><span class="n">url</span><span class="p">)</span><span class="o">.</span><span class="n">read</span><span class="p">()</span>
+<a id="rest_code_18a7eaf293f94620844cda206805a1b3-13" name="rest_code_18a7eaf293f94620844cda206805a1b3-13" href="#rest_code_18a7eaf293f94620844cda206805a1b3-13"></a>
+<a id="rest_code_18a7eaf293f94620844cda206805a1b3-14" name="rest_code_18a7eaf293f94620844cda206805a1b3-14" href="#rest_code_18a7eaf293f94620844cda206805a1b3-14"></a><span class="n">user</span> <span class="o">=</span> <span class="s1">'XXXXXX@gmail.com'</span> <span class="c1"># mi usuario de GMail</span>
+<a id="rest_code_18a7eaf293f94620844cda206805a1b3-15" name="rest_code_18a7eaf293f94620844cda206805a1b3-15" href="#rest_code_18a7eaf293f94620844cda206805a1b3-15"></a><span class="n">pwd</span>  <span class="o">=</span> <span class="s1">'********'</span>         <span class="c1"># mi contraseña de GMail</span>
+<a id="rest_code_18a7eaf293f94620844cda206805a1b3-16" name="rest_code_18a7eaf293f94620844cda206805a1b3-16" href="#rest_code_18a7eaf293f94620844cda206805a1b3-16"></a>
+<a id="rest_code_18a7eaf293f94620844cda206805a1b3-17" name="rest_code_18a7eaf293f94620844cda206805a1b3-17" href="#rest_code_18a7eaf293f94620844cda206805a1b3-17"></a><span class="n">m</span> <span class="o">=</span> <span class="n">GmailMail</span><span class="p">(</span><span class="n">user</span><span class="p">,</span> <span class="n">pwd</span><span class="p">)</span>
+<a id="rest_code_18a7eaf293f94620844cda206805a1b3-18" name="rest_code_18a7eaf293f94620844cda206805a1b3-18" href="#rest_code_18a7eaf293f94620844cda206805a1b3-18"></a>
+<a id="rest_code_18a7eaf293f94620844cda206805a1b3-19" name="rest_code_18a7eaf293f94620844cda206805a1b3-19" href="#rest_code_18a7eaf293f94620844cda206805a1b3-19"></a><span class="nb">print</span> <span class="s2">"mandando texto plano solamente"</span>
+<a id="rest_code_18a7eaf293f94620844cda206805a1b3-20" name="rest_code_18a7eaf293f94620844cda206805a1b3-20" href="#rest_code_18a7eaf293f94620844cda206805a1b3-20"></a><span class="n">m</span><span class="o">.</span><span class="n">send</span><span class="p">(</span><span class="n">user</span><span class="p">,</span> <span class="sa">u</span><span class="s1">'prueba de sólo texto'</span><span class="p">,</span> <span class="n">text</span><span class="p">)</span>
+<a id="rest_code_18a7eaf293f94620844cda206805a1b3-21" name="rest_code_18a7eaf293f94620844cda206805a1b3-21" href="#rest_code_18a7eaf293f94620844cda206805a1b3-21"></a>
+<a id="rest_code_18a7eaf293f94620844cda206805a1b3-22" name="rest_code_18a7eaf293f94620844cda206805a1b3-22" href="#rest_code_18a7eaf293f94620844cda206805a1b3-22"></a><span class="nb">print</span> <span class="s2">"mandando html solamente"</span>
+<a id="rest_code_18a7eaf293f94620844cda206805a1b3-23" name="rest_code_18a7eaf293f94620844cda206805a1b3-23" href="#rest_code_18a7eaf293f94620844cda206805a1b3-23"></a><span class="n">m</span><span class="o">.</span><span class="n">send</span><span class="p">(</span><span class="n">user</span><span class="p">,</span> <span class="sa">u</span><span class="s1">'prueba con sólo html'</span><span class="p">,</span> <span class="n">html</span><span class="o">=</span><span class="n">html</span><span class="p">)</span>
+<a id="rest_code_18a7eaf293f94620844cda206805a1b3-24" name="rest_code_18a7eaf293f94620844cda206805a1b3-24" href="#rest_code_18a7eaf293f94620844cda206805a1b3-24"></a>
+<a id="rest_code_18a7eaf293f94620844cda206805a1b3-25" name="rest_code_18a7eaf293f94620844cda206805a1b3-25" href="#rest_code_18a7eaf293f94620844cda206805a1b3-25"></a><span class="nb">print</span> <span class="s2">"mandando texto plano y html (sin attachments)"</span>
+<a id="rest_code_18a7eaf293f94620844cda206805a1b3-26" name="rest_code_18a7eaf293f94620844cda206805a1b3-26" href="#rest_code_18a7eaf293f94620844cda206805a1b3-26"></a><span class="n">m</span><span class="o">.</span><span class="n">send</span><span class="p">(</span><span class="n">user</span><span class="p">,</span> <span class="sa">u</span><span class="s1">'prueba con texto plano y html (sin attachments)'</span><span class="p">,</span> <span class="n">text</span><span class="p">,</span> <span class="n">html</span><span class="p">)</span>
+<a id="rest_code_18a7eaf293f94620844cda206805a1b3-27" name="rest_code_18a7eaf293f94620844cda206805a1b3-27" href="#rest_code_18a7eaf293f94620844cda206805a1b3-27"></a>
+<a id="rest_code_18a7eaf293f94620844cda206805a1b3-28" name="rest_code_18a7eaf293f94620844cda206805a1b3-28" href="#rest_code_18a7eaf293f94620844cda206805a1b3-28"></a><span class="nb">print</span> <span class="s2">"mandando texto plano y attachments"</span>
+<a id="rest_code_18a7eaf293f94620844cda206805a1b3-29" name="rest_code_18a7eaf293f94620844cda206805a1b3-29" href="#rest_code_18a7eaf293f94620844cda206805a1b3-29"></a><span class="n">m</span><span class="o">.</span><span class="n">send</span><span class="p">(</span><span class="n">user</span><span class="p">,</span> <span class="sa">u</span><span class="s1">'prueba con texto plano y attachments'</span><span class="p">,</span> <span class="n">text</span><span class="p">,</span> <span class="n">attachments</span><span class="o">=</span><span class="p">[</span><span class="s1">'GmailMail.py'</span><span class="p">])</span>
+<a id="rest_code_18a7eaf293f94620844cda206805a1b3-30" name="rest_code_18a7eaf293f94620844cda206805a1b3-30" href="#rest_code_18a7eaf293f94620844cda206805a1b3-30"></a>
+<a id="rest_code_18a7eaf293f94620844cda206805a1b3-31" name="rest_code_18a7eaf293f94620844cda206805a1b3-31" href="#rest_code_18a7eaf293f94620844cda206805a1b3-31"></a><span class="nb">print</span> <span class="s2">"mandando html y attachments"</span>
+<a id="rest_code_18a7eaf293f94620844cda206805a1b3-32" name="rest_code_18a7eaf293f94620844cda206805a1b3-32" href="#rest_code_18a7eaf293f94620844cda206805a1b3-32"></a><span class="n">m</span><span class="o">.</span><span class="n">send</span><span class="p">(</span><span class="n">user</span><span class="p">,</span> <span class="sa">u</span><span class="s1">'prueba con html y attachments'</span><span class="p">,</span> <span class="n">html</span><span class="o">=</span><span class="n">html</span><span class="p">,</span> <span class="n">attachments</span><span class="o">=</span><span class="p">[</span><span class="s1">'GmailMail.py'</span><span class="p">])</span>
+<a id="rest_code_18a7eaf293f94620844cda206805a1b3-33" name="rest_code_18a7eaf293f94620844cda206805a1b3-33" href="#rest_code_18a7eaf293f94620844cda206805a1b3-33"></a>
+<a id="rest_code_18a7eaf293f94620844cda206805a1b3-34" name="rest_code_18a7eaf293f94620844cda206805a1b3-34" href="#rest_code_18a7eaf293f94620844cda206805a1b3-34"></a><span class="nb">print</span> <span class="s2">"mandando attachments solamente"</span>
+<a id="rest_code_18a7eaf293f94620844cda206805a1b3-35" name="rest_code_18a7eaf293f94620844cda206805a1b3-35" href="#rest_code_18a7eaf293f94620844cda206805a1b3-35"></a><span class="n">m</span><span class="o">.</span><span class="n">send</span><span class="p">(</span><span class="n">user</span><span class="p">,</span> <span class="sa">u</span><span class="s1">'prueba con attachments solamente'</span><span class="p">,</span> <span class="n">attachments</span><span class="o">=</span><span class="p">[</span><span class="s1">'GmailMail.py'</span><span class="p">])</span>
+<a id="rest_code_18a7eaf293f94620844cda206805a1b3-36" name="rest_code_18a7eaf293f94620844cda206805a1b3-36" href="#rest_code_18a7eaf293f94620844cda206805a1b3-36"></a>
+<a id="rest_code_18a7eaf293f94620844cda206805a1b3-37" name="rest_code_18a7eaf293f94620844cda206805a1b3-37" href="#rest_code_18a7eaf293f94620844cda206805a1b3-37"></a><span class="nb">print</span> <span class="s2">"mandando todo"</span>
+<a id="rest_code_18a7eaf293f94620844cda206805a1b3-38" name="rest_code_18a7eaf293f94620844cda206805a1b3-38" href="#rest_code_18a7eaf293f94620844cda206805a1b3-38"></a><span class="n">m</span><span class="o">.</span><span class="n">send</span><span class="p">(</span><span class="n">user</span><span class="p">,</span> <span class="sa">u</span><span class="s1">'prueba con todo'</span><span class="p">,</span> <span class="n">text</span><span class="p">,</span> <span class="n">html</span><span class="p">,</span> <span class="n">attachments</span><span class="o">=</span><span class="p">[</span><span class="s1">'GmailMail.py'</span><span class="p">])</span>
+</pre></div>
+</section><section id="referencias-que-recuerdo"><h2>Referencias (que recuerdo):</h2>
+<ul class="simple">
+<li><p><a class="reference external" href="http://docs.python.org/lib/module-email.html">http://docs.python.org/lib/module-email.html</a></p></li>
+<li><p><a class="reference external" href="http://codecomments.wordpress.com/2008/01/04/python-gmail-smtp-example/">http://codecomments.wordpress.com/2008/01/04/python-gmail-smtp-example/</a></p></li>
+<li><p><a class="reference external" href="http://mg.pov.lt/blog/unicode-emails-in-python.html">http://mg.pov.lt/blog/unicode-emails-in-python.html</a></p></li>
+<li><p><a class="reference external" href="http://www.peterbe.com/plog/zope-html-emails">http://www.peterbe.com/plog/zope-html-emails</a></p></li>
+</ul></section>
+</div>    
+</div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+            <script src="../../assets/js/jquery.min.js"></script><script src="../../assets/js/popper.min.js"></script><script src="../../assets/js/bootstrap.min.js"></script><script src="../../assets/js/baguetteBox.min.js"></script><script src="../../assets/js/pyar.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>

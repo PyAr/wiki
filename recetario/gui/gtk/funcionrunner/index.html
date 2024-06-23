@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html prefix="
+og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GtkFuncionRunner | Python Argentina Wiki</title>
+<link href="../../../../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../../../../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
+<link href="../../../../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../../../../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../../../../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../../../../assets/css/bootblog.css" rel="stylesheet" type="text/css">
+<link href="../../../../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../../../../rss.xml">
+<link rel="canonical" href="https://wiki.python.org.ar/recetario/gui/gtk/funcionrunner/">
+<!--[if lt IE 9]><script src="../../../../assets/js/html5.js"></script><![endif]--><meta name="author" content="Python Argentina">
+<meta property="og:site_name" content="Python Argentina Wiki">
+<meta property="og:title" content="GtkFuncionRunner">
+<meta property="og:url" content="https://wiki.python.org.ar/recetario/gui/gtk/funcionrunner/">
+<meta property="og:description" content="Ejemplo de cómo correr funciones que demoran sin bloquear la ui y obtener los resultados en el thread de gtk.
+Lo que tienen que reusar es la function run_in_thread.
+Simplemente la llaman pasandole:
+
+c">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
+
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../../../pyar/"><span class="quienes_somos"></span>Nosotros</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../../../foro_y_redes/"><span class="navbar_lista_de_correo"></span>Foro</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../../../../"><span class="wiki"></span>Wiki</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/noticias/"><span class="news"></span>Noticias</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/irc/"><span class="irc"></span>IRC</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/eventos/"><span class="eventos"></span>Eventos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://planeta.python.org.ar/"><span class="pyar"></span>Planeta</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/trabajo/"><span class="jobs"></span>Trabajos</a>
+                </li>
+            </ul>
+</div>
+    </nav>
+</div>
+
+<!-- Header and menu bar -->
+<div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        
+<div class="col-lg-12">
+    <div class="page-header">
+        <div class="pull-right">
+            <a href="https://github.com/PyAr/wiki/blob/master/pages/recetario/gui/gtk/funcionrunner.rst" id="sourcelink" class="nav-link">Editar</a>
+        </div>
+        <h2>Gtkfuncionrunner</h2>
+    </div>
+    <div class="e-content entry-content" itemprop="articleBody text">
+    <p>Ejemplo de cómo correr funciones que demoran sin bloquear la ui y obtener los resultados en el thread de gtk.</p>
+<p>Lo que tienen que reusar es la function run_in_thread.</p>
+<p>Simplemente la llaman pasandole:</p>
+<ul class="simple">
+<li><p>callback función o método que va a ser llamado en el main thread una vez que la función que demora termine</p></li>
+<li><p>func: función a llamar</p></li>
+<li><p>de 0 a n argumentos posicionales que serán pasados a func en la llamada</p></li>
+<li><p>de 0 a n argumentos nombrados que serán pasados a func en la llamada</p></li>
+</ul>
+<p>func(*args, **kwargs) será llamada en un thread aparte el cuál será monitoreado periódicamente por su finalización. Una vez terminado llamará a callback pasándole una tupla cuyo primer elemento es True sí la función término con éxito y False sí la función lanzo una excepción. El segundo elemento de la tupla es el valor retornado por la función si tuvo éxito o la excepción lanzada en caso que haya fallado.</p>
+<p>Obviamente en la función esa no pueden correr código relacionado con gtk</p>
+<div class="code"><pre class="code python"><a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-1" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-1" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-1"></a><span class="sd">'''example of a generic function to run a given function in a thread and call a</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-2" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-2" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-2"></a><span class="sd">callback in the main thread with the result of the function'''</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-3" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-3" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-3"></a>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-4" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-4" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-4"></a><span class="kn">import</span> <span class="nn">gtk</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-5" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-5" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-5"></a><span class="kn">import</span> <span class="nn">glib</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-6" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-6" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-6"></a><span class="kn">import</span> <span class="nn">time</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-7" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-7" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-7"></a><span class="kn">import</span> <span class="nn">Queue</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-8" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-8" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-8"></a><span class="kn">import</span> <span class="nn">urllib</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-9" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-9" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-9"></a><span class="kn">import</span> <span class="nn">threading</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-10" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-10" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-10"></a>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-11" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-11" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-11"></a><span class="c1"># this is the important function, copy this to your project to reuse it</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-12" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-12" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-12"></a><span class="k">def</span> <span class="nf">run_in_thread</span><span class="p">(</span><span class="n">callback</span><span class="p">,</span> <span class="n">func</span><span class="p">,</span> <span class="o">*</span><span class="n">args</span><span class="p">,</span> <span class="o">**</span><span class="n">kwargs</span><span class="p">):</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-13" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-13" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-13"></a><span class="w">    </span><span class="sd">'''run *func* in a thread with *args* and *kwargs* as arguments, when</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-14" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-14" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-14"></a><span class="sd">    finished call callback with a two item tuple containing a boolean as first</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-15" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-15" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-15"></a><span class="sd">    item informing if the function returned correctly and the returned value or</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-16" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-16" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-16"></a><span class="sd">    the exception thrown as second item</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-17" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-17" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-17"></a><span class="sd">    '''</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-18" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-18" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-18"></a>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-19" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-19" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-19"></a>    <span class="n">queue</span> <span class="o">=</span> <span class="n">Queue</span><span class="o">.</span><span class="n">Queue</span><span class="p">()</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-20" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-20" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-20"></a>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-21" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-21" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-21"></a>    <span class="k">def</span> <span class="nf">run</span><span class="p">():</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-22" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-22" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-22"></a><span class="w">        </span><span class="sd">'''</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-23" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-23" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-23"></a><span class="sd">        main function of the thread, run func with args and kwargs</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-24" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-24" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-24"></a><span class="sd">        and get the result, call callback with the (True, result)</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-25" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-25" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-25"></a>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-26" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-26" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-26"></a><span class="sd">        if an exception is thrown call callback with (False, exception)</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-27" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-27" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-27"></a><span class="sd">        '''</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-28" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-28" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-28"></a>        <span class="k">try</span><span class="p">:</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-29" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-29" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-29"></a>            <span class="n">result</span> <span class="o">=</span> <span class="p">(</span><span class="kc">True</span><span class="p">,</span> <span class="n">func</span><span class="p">(</span><span class="o">*</span><span class="n">args</span><span class="p">,</span> <span class="o">**</span><span class="n">kwargs</span><span class="p">))</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-30" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-30" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-30"></a>        <span class="k">except</span> <span class="ne">Exception</span><span class="p">,</span> <span class="n">ex</span><span class="p">:</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-31" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-31" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-31"></a>            <span class="n">result</span> <span class="o">=</span> <span class="p">(</span><span class="kc">False</span><span class="p">,</span> <span class="n">ex</span><span class="p">)</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-32" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-32" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-32"></a>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-33" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-33" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-33"></a>        <span class="n">queue</span><span class="o">.</span><span class="n">put</span><span class="p">(</span><span class="n">result</span><span class="p">)</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-34" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-34" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-34"></a>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-35" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-35" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-35"></a>    <span class="k">def</span> <span class="nf">check</span><span class="p">():</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-36" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-36" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-36"></a><span class="w">        </span><span class="sd">'''</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-37" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-37" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-37"></a><span class="sd">        check if func finished</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-38" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-38" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-38"></a><span class="sd">        '''</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-39" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-39" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-39"></a>        <span class="k">try</span><span class="p">:</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-40" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-40" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-40"></a>            <span class="n">result</span> <span class="o">=</span> <span class="n">queue</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="kc">False</span><span class="p">,</span> <span class="mf">0.1</span><span class="p">)</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-41" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-41" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-41"></a>        <span class="k">except</span> <span class="n">Queue</span><span class="o">.</span><span class="n">Empty</span><span class="p">:</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-42" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-42" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-42"></a>            <span class="k">return</span> <span class="kc">True</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-43" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-43" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-43"></a>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-44" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-44" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-44"></a>        <span class="n">callback</span><span class="p">(</span><span class="n">result</span><span class="p">)</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-45" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-45" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-45"></a>        <span class="k">return</span> <span class="kc">False</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-46" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-46" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-46"></a>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-47" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-47" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-47"></a>    <span class="n">glib</span><span class="o">.</span><span class="n">timeout_add_seconds</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="n">check</span><span class="p">)</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-48" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-48" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-48"></a>    <span class="n">thread</span> <span class="o">=</span> <span class="n">threading</span><span class="o">.</span><span class="n">Thread</span><span class="p">(</span><span class="n">target</span><span class="o">=</span><span class="n">run</span><span class="p">)</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-49" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-49" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-49"></a>    <span class="n">thread</span><span class="o">.</span><span class="n">setDaemon</span><span class="p">(</span><span class="kc">True</span><span class="p">)</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-50" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-50" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-50"></a>    <span class="n">thread</span><span class="o">.</span><span class="n">start</span><span class="p">()</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-51" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-51" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-51"></a>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-52" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-52" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-52"></a><span class="c1"># everything below is just for the demo</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-53" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-53" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-53"></a><span class="k">def</span> <span class="nf">main</span><span class="p">():</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-54" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-54" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-54"></a><span class="w">    </span><span class="sd">'''</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-55" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-55" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-55"></a><span class="sd">    main function called when the module is run from the command line</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-56" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-56" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-56"></a><span class="sd">    '''</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-57" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-57" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-57"></a>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-58" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-58" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-58"></a>    <span class="k">def</span> <span class="nf">load_site</span><span class="p">(</span><span class="n">url</span><span class="p">):</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-59" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-59" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-59"></a><span class="w">        </span><span class="sd">'''</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-60" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-60" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-60"></a><span class="sd">        a demo function that loads the content of a url</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-61" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-61" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-61"></a><span class="sd">        '''</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-62" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-62" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-62"></a>        <span class="k">return</span> <span class="n">urllib</span><span class="o">.</span><span class="n">urlopen</span><span class="p">(</span><span class="n">url</span><span class="p">)</span><span class="o">.</span><span class="n">read</span><span class="p">()</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-63" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-63" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-63"></a>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-64" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-64" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-64"></a>    <span class="k">class</span> <span class="nc">Display</span><span class="p">(</span><span class="n">gtk</span><span class="o">.</span><span class="n">Window</span><span class="p">):</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-65" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-65" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-65"></a><span class="w">        </span><span class="sd">'''</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-66" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-66" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-66"></a><span class="sd">        a window to display some content that loads slowly</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-67" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-67" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-67"></a><span class="sd">        '''</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-68" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-68" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-68"></a>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-69" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-69" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-69"></a>        <span class="k">def</span> <span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">text</span><span class="p">,</span> <span class="n">func</span><span class="p">,</span> <span class="o">*</span><span class="n">args</span><span class="p">,</span> <span class="o">**</span><span class="n">kwargs</span><span class="p">):</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-70" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-70" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-70"></a>            <span class="n">gtk</span><span class="o">.</span><span class="n">Window</span><span class="o">.</span><span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">)</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-71" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-71" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-71"></a>            <span class="bp">self</span><span class="o">.</span><span class="n">set_default_size</span><span class="p">(</span><span class="mi">400</span><span class="p">,</span> <span class="mi">300</span><span class="p">)</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-72" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-72" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-72"></a>            <span class="bp">self</span><span class="o">.</span><span class="n">set_title</span><span class="p">(</span><span class="s2">"display"</span><span class="p">)</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-73" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-73" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-73"></a>            <span class="bp">self</span><span class="o">.</span><span class="n">set_border_width</span><span class="p">(</span><span class="mi">2</span><span class="p">)</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-74" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-74" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-74"></a>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-75" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-75" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-75"></a>            <span class="bp">self</span><span class="o">.</span><span class="n">func</span> <span class="o">=</span> <span class="n">func</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-76" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-76" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-76"></a>            <span class="bp">self</span><span class="o">.</span><span class="n">args</span> <span class="o">=</span> <span class="n">args</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-77" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-77" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-77"></a>            <span class="bp">self</span><span class="o">.</span><span class="n">kwargs</span> <span class="o">=</span> <span class="n">kwargs</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-78" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-78" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-78"></a>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-79" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-79" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-79"></a>            <span class="n">vbox</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">VBox</span><span class="p">(</span><span class="n">spacing</span><span class="o">=</span><span class="mi">2</span><span class="p">)</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-80" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-80" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-80"></a>            <span class="n">scroll</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">ScrolledWindow</span><span class="p">()</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-81" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-81" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-81"></a>            <span class="bp">self</span><span class="o">.</span><span class="n">text</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">TextView</span><span class="p">()</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-82" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-82" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-82"></a>            <span class="bp">self</span><span class="o">.</span><span class="n">text</span><span class="o">.</span><span class="n">get_buffer</span><span class="p">()</span><span class="o">.</span><span class="n">set_text</span><span class="p">(</span><span class="n">text</span><span class="p">)</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-83" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-83" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-83"></a>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-84" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-84" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-84"></a>            <span class="n">scroll</span><span class="o">.</span><span class="n">add</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">text</span><span class="p">)</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-85" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-85" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-85"></a>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-86" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-86" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-86"></a>            <span class="n">vbox</span><span class="o">.</span><span class="n">pack_start</span><span class="p">(</span><span class="n">scroll</span><span class="p">,</span> <span class="kc">True</span><span class="p">,</span> <span class="kc">True</span><span class="p">)</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-87" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-87" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-87"></a>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-88" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-88" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-88"></a>            <span class="bp">self</span><span class="o">.</span><span class="n">loading</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">ProgressBar</span><span class="p">()</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-89" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-89" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-89"></a>            <span class="bp">self</span><span class="o">.</span><span class="n">is_loading</span> <span class="o">=</span> <span class="kc">False</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-90" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-90" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-90"></a>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-91" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-91" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-91"></a>            <span class="n">vbox</span><span class="o">.</span><span class="n">pack_start</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">loading</span><span class="p">,</span> <span class="kc">False</span><span class="p">)</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-92" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-92" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-92"></a>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-93" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-93" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-93"></a>            <span class="n">buttons</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">HButtonBox</span><span class="p">()</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-94" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-94" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-94"></a>            <span class="bp">self</span><span class="o">.</span><span class="n">run</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">Button</span><span class="p">(</span><span class="n">stock</span><span class="o">=</span><span class="n">gtk</span><span class="o">.</span><span class="n">STOCK_EXECUTE</span><span class="p">)</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-95" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-95" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-95"></a>            <span class="bp">self</span><span class="o">.</span><span class="n">run</span><span class="o">.</span><span class="n">connect</span><span class="p">(</span><span class="s1">'clicked'</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">_on_run_clicked</span><span class="p">)</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-96" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-96" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-96"></a>            <span class="n">buttons</span><span class="o">.</span><span class="n">pack_start</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">run</span><span class="p">)</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-97" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-97" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-97"></a>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-98" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-98" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-98"></a>            <span class="n">vbox</span><span class="o">.</span><span class="n">pack_start</span><span class="p">(</span><span class="n">buttons</span><span class="p">,</span> <span class="kc">False</span><span class="p">)</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-99" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-99" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-99"></a>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-100" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-100" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-100"></a>            <span class="bp">self</span><span class="o">.</span><span class="n">add</span><span class="p">(</span><span class="n">vbox</span><span class="p">)</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-101" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-101" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-101"></a>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-102" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-102" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-102"></a>            <span class="n">vbox</span><span class="o">.</span><span class="n">show_all</span><span class="p">()</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-103" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-103" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-103"></a>            <span class="bp">self</span><span class="o">.</span><span class="n">loading</span><span class="o">.</span><span class="n">hide</span><span class="p">()</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-104" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-104" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-104"></a>            <span class="bp">self</span><span class="o">.</span><span class="n">connect</span><span class="p">(</span><span class="s2">"delete-event"</span><span class="p">,</span> <span class="n">gtk</span><span class="o">.</span><span class="n">main_quit</span><span class="p">)</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-105" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-105" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-105"></a>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-106" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-106" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-106"></a>        <span class="k">def</span> <span class="nf">_on_run_clicked</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">button</span><span class="p">):</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-107" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-107" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-107"></a>            <span class="bp">self</span><span class="o">.</span><span class="n">set_loading</span><span class="p">()</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-108" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-108" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-108"></a>            <span class="n">run_in_thread</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">_on_result_ready</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">func</span><span class="p">,</span> <span class="o">*</span><span class="bp">self</span><span class="o">.</span><span class="n">args</span><span class="p">,</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-109" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-109" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-109"></a>                    <span class="o">**</span><span class="bp">self</span><span class="o">.</span><span class="n">kwargs</span><span class="p">)</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-110" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-110" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-110"></a>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-111" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-111" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-111"></a>        <span class="k">def</span> <span class="nf">set_loading</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">is_loading</span><span class="o">=</span><span class="kc">True</span><span class="p">):</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-112" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-112" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-112"></a><span class="w">            </span><span class="sd">'''</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-113" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-113" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-113"></a><span class="sd">            set the window to the loading state</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-114" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-114" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-114"></a><span class="sd">            '''</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-115" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-115" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-115"></a>            <span class="bp">self</span><span class="o">.</span><span class="n">is_loading</span> <span class="o">=</span> <span class="n">is_loading</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-116" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-116" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-116"></a>            <span class="bp">self</span><span class="o">.</span><span class="n">run</span><span class="o">.</span><span class="n">set_sensitive</span><span class="p">(</span><span class="ow">not</span> <span class="n">is_loading</span><span class="p">)</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-117" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-117" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-117"></a>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-118" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-118" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-118"></a>            <span class="k">if</span> <span class="n">is_loading</span><span class="p">:</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-119" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-119" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-119"></a>                <span class="bp">self</span><span class="o">.</span><span class="n">loading</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-120" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-120" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-120"></a>                <span class="n">glib</span><span class="o">.</span><span class="n">timeout_add</span><span class="p">(</span><span class="mi">500</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">_make_progress_bar_go_crazy</span><span class="p">)</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-121" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-121" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-121"></a>            <span class="k">else</span><span class="p">:</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-122" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-122" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-122"></a>                <span class="bp">self</span><span class="o">.</span><span class="n">loading</span><span class="o">.</span><span class="n">hide</span><span class="p">()</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-123" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-123" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-123"></a>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-124" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-124" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-124"></a>        <span class="k">def</span> <span class="nf">_on_result_ready</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">result</span><span class="p">):</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-125" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-125" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-125"></a>            <span class="n">status</span><span class="p">,</span> <span class="n">value</span> <span class="o">=</span> <span class="n">result</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-126" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-126" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-126"></a>            <span class="bp">self</span><span class="o">.</span><span class="n">set_loading</span><span class="p">(</span><span class="kc">False</span><span class="p">)</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-127" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-127" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-127"></a>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-128" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-128" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-128"></a>            <span class="k">if</span> <span class="n">status</span><span class="p">:</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-129" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-129" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-129"></a>                <span class="n">content</span> <span class="o">=</span> <span class="nb">str</span><span class="p">(</span><span class="n">value</span><span class="p">)</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-130" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-130" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-130"></a>            <span class="k">else</span><span class="p">:</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-131" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-131" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-131"></a>                <span class="n">content</span> <span class="o">=</span> <span class="s2">"exception running function: </span><span class="si">%s</span><span class="s2">"</span> <span class="o">%</span> <span class="nb">str</span><span class="p">(</span><span class="n">value</span><span class="p">)</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-132" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-132" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-132"></a>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-133" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-133" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-133"></a>            <span class="bp">self</span><span class="o">.</span><span class="n">text</span><span class="o">.</span><span class="n">get_buffer</span><span class="p">()</span><span class="o">.</span><span class="n">set_text</span><span class="p">(</span><span class="n">content</span><span class="p">)</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-134" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-134" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-134"></a>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-135" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-135" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-135"></a>        <span class="k">def</span> <span class="nf">_make_progress_bar_go_crazy</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-136" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-136" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-136"></a>            <span class="k">if</span> <span class="bp">self</span><span class="o">.</span><span class="n">is_loading</span><span class="p">:</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-137" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-137" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-137"></a>                <span class="bp">self</span><span class="o">.</span><span class="n">loading</span><span class="o">.</span><span class="n">pulse</span><span class="p">()</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-138" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-138" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-138"></a>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-139" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-139" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-139"></a>            <span class="k">return</span> <span class="bp">self</span><span class="o">.</span><span class="n">is_loading</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-140" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-140" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-140"></a>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-141" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-141" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-141"></a>    <span class="n">gtk</span><span class="o">.</span><span class="n">gdk</span><span class="o">.</span><span class="n">threads_init</span><span class="p">()</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-142" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-142" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-142"></a>    <span class="n">Display</span><span class="p">(</span><span class="s2">"load the content of website"</span><span class="p">,</span> <span class="n">load_site</span><span class="p">,</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-143" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-143" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-143"></a>            <span class="s2">"http://marianoguerra.com.ar"</span><span class="p">)</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-144" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-144" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-144"></a>    <span class="n">gtk</span><span class="o">.</span><span class="n">main</span><span class="p">()</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-145" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-145" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-145"></a>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-146" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-146" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-146"></a><span class="k">if</span> <span class="vm">__name__</span> <span class="o">==</span> <span class="s1">'__main__'</span><span class="p">:</span>
+<a id="rest_code_1a60b03a9d3f49c98361225e4adadd03-147" name="rest_code_1a60b03a9d3f49c98361225e4adadd03-147" href="#rest_code_1a60b03a9d3f49c98361225e4adadd03-147"></a>    <span class="n">main</span><span class="p">()</span>
+</pre></div>
+    </div>    
+</div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+            <script src="../../../../assets/js/jquery.min.js"></script><script src="../../../../assets/js/popper.min.js"></script><script src="../../../../assets/js/bootstrap.min.js"></script><script src="../../../../assets/js/baguetteBox.min.js"></script><script src="../../../../assets/js/pyar.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>

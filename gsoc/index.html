@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html prefix="
+og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Google Summer of Code (becas) | Python Argentina Wiki</title>
+<link href="../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/bootblog.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../rss.xml">
+<link rel="canonical" href="https://wiki.python.org.ar/gsoc/">
+<!--[if lt IE 9]><script src="../assets/js/html5.js"></script><![endif]--><meta name="author" content="Python Argentina">
+<meta property="og:site_name" content="Python Argentina Wiki">
+<meta property="og:title" content="Google Summer of Code (becas)">
+<meta property="og:url" content="https://wiki.python.org.ar/gsoc/">
+<meta property="og:description" content="TL;DR:
+
+Los Entusiastas reciben becas para contribuir programando código abierto, ver Ideas
+Los Proyectos encuentran nuevos colaboradores y mentorean la nueva generación de desarrolladores
+
+
+
+El Googl">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
+
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../pyar/"><span class="quienes_somos"></span>Nosotros</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../foro_y_redes/"><span class="navbar_lista_de_correo"></span>Foro</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../"><span class="wiki"></span>Wiki</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/noticias/"><span class="news"></span>Noticias</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/irc/"><span class="irc"></span>IRC</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/eventos/"><span class="eventos"></span>Eventos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://planeta.python.org.ar/"><span class="pyar"></span>Planeta</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/trabajo/"><span class="jobs"></span>Trabajos</a>
+                </li>
+            </ul>
+</div>
+    </nav>
+</div>
+
+<!-- Header and menu bar -->
+<div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        
+<div class="col-lg-12">
+    <div class="page-header">
+        <div class="pull-right">
+            <a href="https://github.com/PyAr/wiki/blob/master/pages/gsoc.rst" id="sourcelink" class="nav-link">Editar</a>
+        </div>
+        <h2>Google Summer Of Code (Becas)</h2>
+    </div>
+    <div class="e-content entry-content" itemprop="articleBody text">
+    <img alt="https://raw.githubusercontent.com/PyAr/wiki/master/images/GSoC2022.png" class="align-right" src="https://raw.githubusercontent.com/PyAr/wiki/master/images/GSoC2022.png" style="width: 80px; height: 80px;"><dl class="simple">
+<dt>TL;DR:</dt>
+<dd><ul class="simple">
+<li><p>Los <strong>Entusiastas</strong> reciben <strong>becas</strong> para contribuir programando <strong>código abierto</strong>, ver <a class="reference external" href="https://github.com/PyAr/wiki/tree/master/pages/GSoC">Ideas</a></p></li>
+<li><p>Los <strong>Proyectos</strong> encuentran nuevos colaboradores y <strong>mentorean</strong> la nueva generación de desarrolladores</p></li>
+</ul></dd>
+</dl>
+<p class="alert alert-info">El <a class="reference external" href="https://summerofcode.withgoogle.com">Google Summer of Code</a> (<strong>GSoC</strong>) es un programa global que ofrece la oportunidad a
+colaboradores de recibir una beca para contribuir a proyectos open source por un período de tres meses.</p>
+<section id="enlaces-rapidos"><h2>Enlaces rápidos:</h2>
+<blockquote>
+<ul class="simple">
+<li><p><a href="#system-message-1"><span class="problematic" id="problematic-1">`Ideas`_</span></a></p></li>
+<li><p><a href="#system-message-2"><span class="problematic" id="problematic-2">`Año 2024`_</span></a></p></li>
+<li><p><a href="#system-message-3"><span class="problematic" id="problematic-3">`Año 2023`_</span></a></p></li>
+<li><p><a href="#system-message-4"><span class="problematic" id="problematic-4">`Año 2022`_</span></a></p></li>
+<li><p><a href="#system-message-5"><span class="problematic" id="problematic-5">`Año 2019`_</span></a></p></li>
+</ul>
+</blockquote>
+</section><section id="proyectos-tentativos"><h2>Proyectos Tentativos:</h2>
+<p>La <a class="reference external" href="../asociacioncivil">Asociación Civil Python Argentina Civil</a> es una organización sin fines de lucro de programadores
+con foco en proyectos de la comunidad, principalmente de habla hispana y latinoamericanos:</p>
+<ul class="simple">
+<li><p><strong>Iniciativas Educativas</strong>: <a class="reference external" href="https://github.com/PyAr/PyZombis">PyZombis</a>: MOOC Español, Tutoriales de Python; <a class="reference external" href="https://github.com/PyAr/CDPedia">CDPedia</a>: Wikipedia offline</p></li>
+<li><p><strong>Herramientas gestión comunitaria</strong>: <a class="reference external" href="https://github.com/PyAr/PyArWeb">PyArWeb</a>: Sitio local; <a class="reference external" href="https://github.com/PyAr/asoc_members">asoc_members</a>: administración de socios</p></li>
+<li><p><strong>Software para abogacía y contabilidad</strong>: <a class="reference external" href="https://github.com/PyAr/PyAfipWS">PyAFIP WS</a>: factura electrónica y aplicativos; <a class="reference external" href="https://github.com/PyAr/OpenLex">OpenLex</a>: manejo de estudios jurídicos y oficinas judiciales</p></li>
+</ul>
+<p>Participamos en el <a class="reference external" href="http://python-gsoc.org/index.html#ideas">"Python Summer of Code"</a> bajo la organización general de la <a class="reference external" href="https://www.python.org/psf-landing/">Python Software Foundation</a>.</p>
+<p><strong>NOTA</strong>: por una cuestión administrativa y limitación de mentores, la disponibilidad de proyectos en el GSoC es acotada.
+Confirmar con la lista de ideas tentativas para este año y siempre consultar previamente por los canales de comunicación con los potenciales mentores.</p>
+<p>Para ver todos los proyectos de la comunidad Python Argentina: <a class="reference external" href="../proyectos">Listado</a> y <a class="reference external" href="http://www.github.com/PyAr">Repositorio</a></p>
+<p>¡Tenés una idea interesante para proponer o querés mentorear? ¡Contáctanos en <a class="reference external" href="https://t.me/+ljnpIYBUMLI3MDAx">Telegram</a>!</p>
+</section><section id="como-empezar"><h2>Como empezar:</h2>
+<p>El detalle de los proyectos e ideas tentativas para participar en GSoC está publicada en GitHub: <a class="reference external" href="https://github.com/PyAr/wiki/tree/master/pages/GSoC">https://github.com/PyAr/wiki/tree/master/pages/GSoC</a></p>
+<p>Elegir un proyecto es una decisión muy personal.
+Deberías decidirte por algo que te interese, algunos consejos:</p>
+<ul class="simple">
+<li><p><strong>¿Qué software usas actualmente?</strong> ¡Conocerlo te permite opinar sobre como mejorarlo!</p></li>
+<li><p><strong>¿Qué quisieras aprender?</strong> El GSoC es una oportunidad de aprendizaje. Revisa cuales proyectos ayudaran a mejorar tus habilidades.</p></li>
+<li><p><strong>¿Con quién te gustaría trabajar?</strong> Acercate a los potenciales colaboradores y mentores. ¿Que desarrolladores te inspiran?</p></li>
+<li><p><strong>¿Cómo quieres cambiar al mundo?</strong> ¿Quieres ayudar a la gente? Muchos proyectos pueden posibilitar realizar un bien social.</p></li>
+<li><p><strong>¿Cómo te gusta comunicarte?</strong> ¿Prefieres conversar en IRC? ¿Por listas de correo? La comunicación es una gran parte del GSoC y desarrollo de código abierto.</p></li>
+</ul>
+<p>Cualquier experiencia con software libre te ayudará a prepararte para el GSoC, ¡no te preocupes por que proyecto elijes primero y no tengas miedo de cambiar tu opinión!</p>
+<p><strong>IMPORTANTE</strong>: Si bien las comunicaciones con Google deben ser en <strong>Inglés</strong>, ¡podemos ayudarte con las traducciones y redacciones para que puedas participar!
+No te preocupes, el día a día y documentación en general están en <strong>Español</strong>.</p>
+</section><section id="mentores"><h2>Mentores:</h2>
+<p>¿Interesado en voluntariado con la <a class="reference external" href="https://www.python.org/psf/">Python Software Foundation (PSF)</a> y la <a class="reference external" href="https://ac.python.org.ar">Asociación Civil Python Argentina</a>?</p>
+<p>Mentorear a los colaboradores requiere cierta dedicación, pero es una oportunidad de brindarles un crecimiento en su formación sobre código abierto y avanzar proyectos de software libre.
+Mentoreamos en grupo, por lo que si sólo tienes tiempo limitado (por ej. para revisar código), puedes unirte a otros mentores y hacerlo en equipo.</p>
+<p>La dedicación aproximada es de <strong>1 hora por semana</strong> (para seguimiento periódico) y quizás unas horas más para revisión de código o preguntas (y evaluaciones mensuales).
+Los colaboradores más experimentados no requieren prácticamente supervisión, y podemos acompañarte con los que necesiten más ayuda.</p>
+<p><strong>IMPORTANTE</strong>: El proceso de selección y otras tareas administrativas están siendo organizadas por miembros de la Asociación Civil,
+para disminuir el esfuerzo de los mentores, así pueden enfocarse en las cuestiones técnicas de los proyectos.</p>
+<p>El mentoreo es ad-honorem: los fondos cubiertos por Google son re-destinados a los distintos programas de ayuda financiera de la PSF.</p>
+<p>También buscamos miembros de la comunidad que puedan colaborar en otras tareas, como difundir los proyectos, contactar estudiantes/entusiastas y contestar dudas por la lista de correo o IRC.
+Si quieres ayudar, podemos encontrar la forma! Para más información ver: <a class="reference external" href="http://python-gsoc.org">http://python-gsoc.org</a></p>
+</section><section id="instrucciones"><h2>Instrucciones</h2>
+<p>Si quieres participar como becario colaborador, por favor sigue los siguientes lineamientos:</p>
+<ol class="arabic">
+<li>
+<p><strong>¡Preséntate!</strong></p>
+<p>Presentate en el canal de <a class="reference external" href="https://t.me/+ljnpIYBUMLI3MDAx">GSoC Python Arg (público)</a> mencionando:</p>
+<ul class="simple">
+<li><p>¿Por qué querés participar del GSoC?, brevemente comenta tu experiencia y expectativas</p></li>
+<li><p>¿Qué proyecto preferirías?: revisa la página de <a class="reference external" href="https://github.com/PyAr/wiki/tree/master/pages/GSoC">ideas</a></p></li>
+<li><p>¿Cuál es tu experiencia previa?, habilidades Python, django, hg/git, js, etc.</p></li>
+</ul>
+</li>
+<li>
+<p><strong>¡Corrige un bug!</strong></p>
+<p>Pide por un ticket simple (good first issue tag). Por ejemplo, mirá <a class="reference external" href="https://github.com/PyAr/PyZombis/issues">PyZombs</a>, <a class="reference external" href="https://github.com/reingart/PyAfipWs/issues">PyAfipWS</a>, <a class="reference external" href="https://github.com/PyAr/CDPedia/issues">CDPedia</a></p>
+<ul class="simple">
+<li><p>Create una cuenta en GitHub (si aún no tenés una)</p></li>
+<li><p>Forkea el repositorio del proyecto deseado e intenta solucionar el ticket</p></li>
+<li><p>Discute con los mentores potenciales tu arreglo, ¡creando un Pull Request tan pronto como sea posible!</p></li>
+</ul>
+</li>
+<li>
+<p><strong>Escribe una Propuesta</strong></p>
+<p>Selecciona la idea de proyecto y escribe una propuesta detallada usando Google Docs (por adelantado!)</p>
+<ul class="simple">
+<li><p>Comparte a los mentores un borrador, siguiendo esta <a class="reference external" href="https://github.com/python-gsoc/python-gsoc.github.io/blob/master/2019/application2019.md">plantilla</a> como base</p></li>
+<li><p>Planifica el trabajo preparatorio para el período de "Community bonding" (por ej. una Prueba de Concepto)</p></li>
+<li><p>Define 2 hitos para cada período de evaluación (i.e. Prototipo, Piloto o Demo Final)</p></li>
+<li><p>Planifica las tareas por cada semana y sus entregables (objetivos de alto nivel para cada hito)</p></li>
+<li><p>Describe el criterio de aceptación ("Producto Mínimo Viable" de cada fase)</p></li>
+</ul>
+<p>No olvides enviar tu propuesta por el <a class="reference external" href="https://summerofcode.withgoogle.com/">sistema de Google</a> cuando esté lista, antes de la fecha limite -para evitar sobrecarga del servidor- (no hay extensiones, sin excepción)</p>
+<p>TIPs: lee y sigue la <a class="reference external" href="https://google.github.io/gsocguides/student/writing-a-proposal">GSoC guide</a> &amp; <a class="reference external" href="https://python-gsoc.org/index.html#apply">PSF check-list</a></p>
+<p>Borradores de propuestas previas como referencia:</p>
+<ul class="simple">
+<li><p>Angela: <a class="reference external" href="https://docs.google.com/document/d/1PWJF_dQP6qpFkBxBiUt480w-oqZ8_NM2rERQKBkbjIY">PyZombis: Improving Python’s web interpreter and more interactive exercises</a></p></li>
+<li><p>Leonardo: <a class="reference external" href="https://docs.google.com/document/d/1eGPD_Woyv-UQINYbsLV6-qnr6I7RCMyEl11OW5s8fUg">PyZombis:  Continue the implementation of the course in the Runestone environment</a></p></li>
+<li><p>Utkarsh: <a class="reference external" href="https://docs.google.com/document/d/1U44YlWrql1_9QFIYSyW8wUBTG6VU6Q0BPybiBnX0VKk">PyAfipWs: Library for developers (enhancements)</a></p></li>
+</ul>
+</li>
+</ol>
+<p>IMPORTANTE:</p>
+<ul class="simple">
+<li><p>Propuestas tardías, incompletas o de baja calidad no serán consideradas. El tiempo de los Mentores y disponibilidad de slots para becarios son limitados, por lo que haz preguntas inteligentes por adelantado y pide feedback frecuentemente.</p></li>
+<li><p>Las solicitudes de último minuto en general son señal de problemas futuros (para vos y para nosotros, ¡por favor evítalo!). Las propuestas sin ninguna contribución previa en el repositorio (i.e. bug-fix issue) serán rechazados.</p></li>
+<li><p>Se espera que le tengas prácticamente una dedicación completa al GSoC, por lo que planifica apropiadamente y avisa de cualquier otro compromiso (exámenes, trabajo, vacaciones, viajes, etc.)</p></li>
+</ul></section><section id="preguntas-frecuentes"><h2>Preguntas Frecuentes</h2>
+<section id="quienes-pueden-participar"><h3>¿Quienes pueden participar?</h3>
+<ul class="simple">
+<li><p>Becarios: mayores de 18 años entre otros requisitos (ver <a class="reference external" href="https://developers.google.com/open-source/gsoc/faq#what_are_the_eligibility_requirements_for_participation">Eligibility Requirements</a>)</p></li>
+<li><p>Mentores: ¡todo colaborador es bienvenido!</p></li>
+</ul>
+<p>Nuevas reglas desde 2022:</p>
+<ul class="simple">
+<li><p>Los aspirantes no necesitan ser estudiantes de nivel universitario.</p></li>
+<li><p>Sólo nuevos colaboradores pueden presentarse (orientado a principiantes)</p></li>
+</ul></section><section id="puedo-presentar-un-proyecto-nuevo"><h3>¿Puedo presentar un proyecto nuevo?</h3>
+<p>Estamos buscando nuevas ideas y proyectos relacionados a Python y la comunidad local.
+Es necesario al menos dos mentores (principal y respaldo) para poder considerar.</p>
+<p>Tematicas relacionadas a la Inteligencia Artificial son un tema importante este año, pero igualmente la convocatoria es amplia, abierta a proyectos comunitarios con licencia de software libre o código abierto.</p>
+<p>Los candidatos deben seleccionar un proyecto de las idea publicadas antes de enviar la solicitud.
+Recomendamos confirmar en el grupo de participantes y/o contactar a la Asociación Civil Python Argentina con anticipación.</p>
+</section><section id="cual-es-el-importe-de-la-beca-en-u-s"><h3>¿Cual es el importe de la beca en U$S?</h3>
+<p>El monto de la beca lo determina Google basado en la Paridad de Poder Adquisitivo (PPP) de cada país.</p>
+<p>Para Argentina 2022, el importe de la beca sería desde <strong>USD 1500</strong> hasta <strong>USD 3000</strong> (Dólares EE.UU.);
+se paga en tramos dependiendo de la duración y avance del proyecto
+(mientras el participante supere las evaluaciones y continúe en el GSoC):
+<a class="reference external" href="https://developers.google.com/open-source/gsoc/help/student-stipends">https://developers.google.com/open-source/gsoc/help/student-stipends</a></p>
+<p>NOTA: los mentores y administradores colaboran ad-honorem (voluntariado), por lo que no reciben ninguna retribución económica.
+Google dona USD 500 a las organizaciones por cada proyecto aceptado, que son redestinados a <a class="reference external" href="https://www.python.org/psf/grants/">programas de ayuda financiera de la PSF</a></p>
+</section><section id="cuanto-tiempo-hay-que-dedicarle-al-gsoc"><h3>¿Cuanto tiempo hay que dedicarle al GSoC?</h3>
+<p>Se <a class="reference external" href="https://developers.google.com/open-source/gsoc/faq#how_much_time_does_gsoc_participation_take">espera</a>
+que los becarios a proyectos medianos le dediquen <strong>175 horas</strong> en el período de 3 meses (12 semanas), lo que equivale a una trabajo de medio tiempo (3 horas por día).
+Los proyectos extendidos (<em>large</em>) tienen una duración de 22 semanas y 350 horas en total.</p>
+<p>Idealmente no deberías tener otra pasantía, compromiso u obligación académica de tiempo completo mientras estés participando del GSoC.</p>
+<p>NOTA: Entendemos que por estas latitudes, no son vacaciones de verano...
+Por eso intentaremos ser lo más flexible con los horarios, pero es recomendable que los candidatos indiquen
+cualquier compromiso por adelantado (exámenes, viajes, actividades laborales, etc.).</p>
+<p>NOTA: la dedicación de los mentores es variable, de 2 horas por semana (aproximadamente);
+lo habitual es 1 hora por semana para seguimiento periodico (y puede estar distribuido entre distintos mentores).
+El trabajo administrativo más pesado lo haremos desde la Asociación Civil.</p>
+</section><section id="cuantos-slots-hay-para-becarios-del-proyecto-x"><h3>¿Cuantos <em>Slots</em> hay para becarios del proyecto X?</h3>
+<p>Es posible que sólo tengamos disponibilidad para pocos participantes (en total para proyectos dentro de Python Argentina).</p>
+<p>Te alentamos a que busques y también presentes solicitudes para otros <a class="reference external" href="http://python-gsoc.org/#ideas">Proyectos Python bajo la PSF</a></p>
+<p>Cada interesado puede enviar hasta 3 solicitudes en total (mismo o distinto proyecto).
+Cada proyecto necesita al menos 2 mentores (uno principal y otro de "backup").</p>
+<p>El GSoC es un programa muy demandado a nivel mundial, por lo que en general sólo las propuestas más elaboradas son seleccionadas.</p>
+<p>¡Te recomendamos comenzar cuanto antes si estás interesado!</p>
+</section><section id="cronograma-y-fechas-limite-2024"><h3>Cronograma y Fechas Límite 2024:</h3>
+<ul class="simple">
+<li><p><strong>Abril</strong> - período para envío de solicitudes de becarios (¡no hay extensión!).</p></li>
+<li><p><strong>Mayo</strong>: Anuncio de los proyectos de becarios seleccionados e inicia el <em>community bonding</em> ("aclimatación")</p></li>
+<li><p><strong>Mayo</strong>: ¡Los becarios colaboradores comienzan a programar!</p></li>
+<li><p><strong>Julio</strong>: Evaluaciones intermedias</p></li>
+<li><p><strong>Agosto</strong>: Evaluaciones finales</p></li>
+<li><p><strong>Septiembre a Noviembre</strong>: Plazo para proyectos con cronograma extendido</p></li>
+</ul>
+<p>(fechas a definir)</p>
+</section></section><section id="blogs-y-referencias-sobre-el-gsoc"><h2>Blogs y Referencias sobre el GSoC</h2>
+<ul class="simple">
+<li><p><a class="reference external" href="../marianoreingart">MarianoReingart</a>: <a class="reference external" href="https://reingart.blogspot.com/2017/10/gsoc2017.html">https://reingart.blogspot.com/2017/10/gsoc2017.html</a> (estudiante / mentor - en español)</p></li>
+<li><p>Google Summer of Code Guides: <a class="reference external" href="https://google.github.io/gsocguides">https://google.github.io/gsocguides</a> (<a class="reference external" href="https://google.github.io/gsocguides/student/">Estudiantes</a> - <a class="reference external" href="https://google.github.io/gsocguides/mentor/">Mentores</a>)</p></li>
+<li><p>GSoC FAQ: <a class="reference external" href="https://developers.google.com/open-source/gsoc/faq">https://developers.google.com/open-source/gsoc/faq</a></p></li>
+<li><p>Python GSOC blogs: <a class="reference external" href="https://blogs.python-gsoc.org/">https://blogs.python-gsoc.org/</a></p></li>
+<li><p>PSF 2011: <a class="reference external" href="http://pyfound.blogspot.com/2011/03/gsoc-student-applications-open.html">http://pyfound.blogspot.com/2011/03/gsoc-student-applications-open.html</a></p></li>
+<li><p>PSF 2007: <a class="reference external" href="http://pyfound.blogspot.com/2007/03/psf-and-googles-summer-of-code.html">http://pyfound.blogspot.com/2007/03/psf-and-googles-summer-of-code.html</a></p></li>
+</ul>
+<aside class="system-message"><p class="system-message-title">System Message: WARNING/2 (<span class="docutils literal">&lt;string&gt;</span>, line 223); <em><a href="#ideas-2">backlink</a></em></p>
+<p>Duplicate explicit target name: "ideas".</p>
+</aside></section><section class="system-messages"><h2>Docutils System Messages</h2>
+<aside class="system-message" id="system-message-1"><p class="system-message-title">System Message: ERROR/3 (<span class="docutils literal">&lt;string&gt;</span>, line 18); <em><a href="#problematic-1">backlink</a></em></p>
+<p>Duplicate target name, cannot be used as a unique reference: "ideas".</p>
+</aside><aside class="system-message" id="system-message-2"><p class="system-message-title">System Message: ERROR/3 (<span class="docutils literal">&lt;string&gt;</span>, line 20); <em><a href="#problematic-2">backlink</a></em></p>
+<p>Unknown target name: "año 2024".</p>
+</aside><aside class="system-message" id="system-message-3"><p class="system-message-title">System Message: ERROR/3 (<span class="docutils literal">&lt;string&gt;</span>, line 21); <em><a href="#problematic-3">backlink</a></em></p>
+<p>Unknown target name: "año 2023".</p>
+</aside><aside class="system-message" id="system-message-4"><p class="system-message-title">System Message: ERROR/3 (<span class="docutils literal">&lt;string&gt;</span>, line 22); <em><a href="#problematic-4">backlink</a></em></p>
+<p>Unknown target name: "año 2022".</p>
+</aside><aside class="system-message" id="system-message-5"><p class="system-message-title">System Message: ERROR/3 (<span class="docutils literal">&lt;string&gt;</span>, line 23); <em><a href="#problematic-5">backlink</a></em></p>
+<p>Unknown target name: "año 2019".</p>
+</aside></section>
+</div>    
+</div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+            <script src="../assets/js/jquery.min.js"></script><script src="../assets/js/popper.min.js"></script><script src="../assets/js/bootstrap.min.js"></script><script src="../assets/js/baguetteBox.min.js"></script><script src="../assets/js/pyar.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>

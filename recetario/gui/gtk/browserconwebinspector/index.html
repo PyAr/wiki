@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html prefix="
+og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Gtk Browser Con Web Inspector | Python Argentina Wiki</title>
+<link href="../../../../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../../../../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
+<link href="../../../../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../../../../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../../../../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../../../../assets/css/bootblog.css" rel="stylesheet" type="text/css">
+<link href="../../../../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../../../../rss.xml">
+<link rel="canonical" href="https://wiki.python.org.ar/recetario/gui/gtk/browserconwebinspector/">
+<!--[if lt IE 9]><script src="../../../../assets/js/html5.js"></script><![endif]--><meta name="author" content="Python Argentina">
+<meta property="og:site_name" content="Python Argentina Wiki">
+<meta property="og:title" content="Gtk Browser Con Web Inspector">
+<meta property="og:url" content="https://wiki.python.org.ar/recetario/gui/gtk/browserconwebinspector/">
+<meta property="og:description" content='Esta receta va más allá del "navegador en python en N lineas" (donde N &lt; 30).
+En este caso vemos cómo agregar el web inspector para inspeccionar y debuggear la página que estamos viendo.
+El resultado '>
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
+
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../../../pyar/"><span class="quienes_somos"></span>Nosotros</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../../../foro_y_redes/"><span class="navbar_lista_de_correo"></span>Foro</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../../../../"><span class="wiki"></span>Wiki</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/noticias/"><span class="news"></span>Noticias</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/irc/"><span class="irc"></span>IRC</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/eventos/"><span class="eventos"></span>Eventos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://planeta.python.org.ar/"><span class="pyar"></span>Planeta</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/trabajo/"><span class="jobs"></span>Trabajos</a>
+                </li>
+            </ul>
+</div>
+    </nav>
+</div>
+
+<!-- Header and menu bar -->
+<div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        
+<div class="col-lg-12">
+    <div class="page-header">
+        <div class="pull-right">
+            <a href="https://github.com/PyAr/wiki/blob/master/pages/recetario/gui/gtk/browserconwebinspector.rst" id="sourcelink" class="nav-link">Editar</a>
+        </div>
+        <h2>Gtk Browser Con Web Inspector</h2>
+    </div>
+    <div class="e-content entry-content" itemprop="articleBody text">
+    <p>Esta receta va más allá del "navegador en python en N lineas" (donde N &lt; 30).</p>
+<p>En este caso vemos cómo agregar el web inspector para inspeccionar y debuggear la página que estamos viendo.</p>
+<p>El resultado al principio es algo así:</p>
+<img alt="/images/Recetario/Gui/Gtk/BrowserConWebInspector/brser1.png" src="../../../../images/Recetario/Gui/Gtk/BrowserConWebInspector/brser1.png"><p>Luego de hacer click derecho en la página y hacer click en "Inspect Element" tenemos algo así:</p>
+<img alt="/images/Recetario/Gui/Gtk/BrowserConWebInspector/brser2.png" src="../../../../images/Recetario/Gui/Gtk/BrowserConWebInspector/brser2.png"><p>El código:</p>
+<div class="code"><pre class="code python"><a id="rest_code_cd7b32413121440caed359aafdc23f32-1" name="rest_code_cd7b32413121440caed359aafdc23f32-1" href="#rest_code_cd7b32413121440caed359aafdc23f32-1"></a><span class="kn">import</span> <span class="nn">sys</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-2" name="rest_code_cd7b32413121440caed359aafdc23f32-2" href="#rest_code_cd7b32413121440caed359aafdc23f32-2"></a><span class="kn">import</span> <span class="nn">gtk</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-3" name="rest_code_cd7b32413121440caed359aafdc23f32-3" href="#rest_code_cd7b32413121440caed359aafdc23f32-3"></a><span class="kn">import</span> <span class="nn">webkit</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-4" name="rest_code_cd7b32413121440caed359aafdc23f32-4" href="#rest_code_cd7b32413121440caed359aafdc23f32-4"></a>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-5" name="rest_code_cd7b32413121440caed359aafdc23f32-5" href="#rest_code_cd7b32413121440caed359aafdc23f32-5"></a><span class="k">class</span> <span class="nc">Browser</span><span class="p">(</span><span class="n">gtk</span><span class="o">.</span><span class="n">Window</span><span class="p">):</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-6" name="rest_code_cd7b32413121440caed359aafdc23f32-6" href="#rest_code_cd7b32413121440caed359aafdc23f32-6"></a>    <span class="k">def</span> <span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">url</span><span class="o">=</span><span class="s1">''</span><span class="p">):</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-7" name="rest_code_cd7b32413121440caed359aafdc23f32-7" href="#rest_code_cd7b32413121440caed359aafdc23f32-7"></a>        <span class="n">gtk</span><span class="o">.</span><span class="n">Window</span><span class="o">.</span><span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">)</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-8" name="rest_code_cd7b32413121440caed359aafdc23f32-8" href="#rest_code_cd7b32413121440caed359aafdc23f32-8"></a>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-9" name="rest_code_cd7b32413121440caed359aafdc23f32-9" href="#rest_code_cd7b32413121440caed359aafdc23f32-9"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">url</span> <span class="o">=</span> <span class="n">url</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-10" name="rest_code_cd7b32413121440caed359aafdc23f32-10" href="#rest_code_cd7b32413121440caed359aafdc23f32-10"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">view</span> <span class="o">=</span> <span class="n">webkit</span><span class="o">.</span><span class="n">WebView</span><span class="p">()</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-11" name="rest_code_cd7b32413121440caed359aafdc23f32-11" href="#rest_code_cd7b32413121440caed359aafdc23f32-11"></a>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-12" name="rest_code_cd7b32413121440caed359aafdc23f32-12" href="#rest_code_cd7b32413121440caed359aafdc23f32-12"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">set_title</span><span class="p">(</span><span class="s1">'Browser'</span><span class="p">)</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-13" name="rest_code_cd7b32413121440caed359aafdc23f32-13" href="#rest_code_cd7b32413121440caed359aafdc23f32-13"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">set_default_size</span><span class="p">(</span><span class="mi">640</span><span class="p">,</span> <span class="mi">480</span><span class="p">)</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-14" name="rest_code_cd7b32413121440caed359aafdc23f32-14" href="#rest_code_cd7b32413121440caed359aafdc23f32-14"></a>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-15" name="rest_code_cd7b32413121440caed359aafdc23f32-15" href="#rest_code_cd7b32413121440caed359aafdc23f32-15"></a>        <span class="n">scroll</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">ScrolledWindow</span><span class="p">()</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-16" name="rest_code_cd7b32413121440caed359aafdc23f32-16" href="#rest_code_cd7b32413121440caed359aafdc23f32-16"></a>        <span class="n">scroll</span><span class="o">.</span><span class="n">set_policy</span><span class="p">(</span><span class="n">gtk</span><span class="o">.</span><span class="n">POLICY_AUTOMATIC</span><span class="p">,</span> <span class="n">gtk</span><span class="o">.</span><span class="n">POLICY_AUTOMATIC</span><span class="p">)</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-17" name="rest_code_cd7b32413121440caed359aafdc23f32-17" href="#rest_code_cd7b32413121440caed359aafdc23f32-17"></a>        <span class="n">scroll</span><span class="o">.</span><span class="n">set_shadow_type</span><span class="p">(</span><span class="n">gtk</span><span class="o">.</span><span class="n">SHADOW_IN</span><span class="p">)</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-18" name="rest_code_cd7b32413121440caed359aafdc23f32-18" href="#rest_code_cd7b32413121440caed359aafdc23f32-18"></a>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-19" name="rest_code_cd7b32413121440caed359aafdc23f32-19" href="#rest_code_cd7b32413121440caed359aafdc23f32-19"></a>        <span class="n">scroll</span><span class="o">.</span><span class="n">add</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">view</span><span class="p">)</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-20" name="rest_code_cd7b32413121440caed359aafdc23f32-20" href="#rest_code_cd7b32413121440caed359aafdc23f32-20"></a>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-21" name="rest_code_cd7b32413121440caed359aafdc23f32-21" href="#rest_code_cd7b32413121440caed359aafdc23f32-21"></a>        <span class="n">vbox</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">VBox</span><span class="p">()</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-22" name="rest_code_cd7b32413121440caed359aafdc23f32-22" href="#rest_code_cd7b32413121440caed359aafdc23f32-22"></a>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-23" name="rest_code_cd7b32413121440caed359aafdc23f32-23" href="#rest_code_cd7b32413121440caed359aafdc23f32-23"></a>        <span class="n">entry</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">Entry</span><span class="p">()</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-24" name="rest_code_cd7b32413121440caed359aafdc23f32-24" href="#rest_code_cd7b32413121440caed359aafdc23f32-24"></a>        <span class="n">entry</span><span class="o">.</span><span class="n">connect</span><span class="p">(</span><span class="s1">'activate'</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">_on_url_changed</span><span class="p">)</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-25" name="rest_code_cd7b32413121440caed359aafdc23f32-25" href="#rest_code_cd7b32413121440caed359aafdc23f32-25"></a>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-26" name="rest_code_cd7b32413121440caed359aafdc23f32-26" href="#rest_code_cd7b32413121440caed359aafdc23f32-26"></a>        <span class="k">if</span> <span class="bp">self</span><span class="o">.</span><span class="n">url</span><span class="p">:</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-27" name="rest_code_cd7b32413121440caed359aafdc23f32-27" href="#rest_code_cd7b32413121440caed359aafdc23f32-27"></a>            <span class="n">entry</span><span class="o">.</span><span class="n">set_text</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">url</span><span class="p">)</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-28" name="rest_code_cd7b32413121440caed359aafdc23f32-28" href="#rest_code_cd7b32413121440caed359aafdc23f32-28"></a>            <span class="bp">self</span><span class="o">.</span><span class="n">open</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">url</span><span class="p">)</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-29" name="rest_code_cd7b32413121440caed359aafdc23f32-29" href="#rest_code_cd7b32413121440caed359aafdc23f32-29"></a>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-30" name="rest_code_cd7b32413121440caed359aafdc23f32-30" href="#rest_code_cd7b32413121440caed359aafdc23f32-30"></a>        <span class="n">vbox</span><span class="o">.</span><span class="n">pack_start</span><span class="p">(</span><span class="n">entry</span><span class="p">,</span> <span class="kc">False</span><span class="p">)</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-31" name="rest_code_cd7b32413121440caed359aafdc23f32-31" href="#rest_code_cd7b32413121440caed359aafdc23f32-31"></a>        <span class="n">vbox</span><span class="o">.</span><span class="n">pack_start</span><span class="p">(</span><span class="n">scroll</span><span class="p">,</span> <span class="kc">True</span><span class="p">,</span> <span class="kc">True</span><span class="p">)</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-32" name="rest_code_cd7b32413121440caed359aafdc23f32-32" href="#rest_code_cd7b32413121440caed359aafdc23f32-32"></a>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-33" name="rest_code_cd7b32413121440caed359aafdc23f32-33" href="#rest_code_cd7b32413121440caed359aafdc23f32-33"></a>        <span class="n">panels</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">VPaned</span><span class="p">()</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-34" name="rest_code_cd7b32413121440caed359aafdc23f32-34" href="#rest_code_cd7b32413121440caed359aafdc23f32-34"></a>        <span class="n">panels</span><span class="o">.</span><span class="n">add1</span><span class="p">(</span><span class="n">vbox</span><span class="p">)</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-35" name="rest_code_cd7b32413121440caed359aafdc23f32-35" href="#rest_code_cd7b32413121440caed359aafdc23f32-35"></a>        <span class="n">panels</span><span class="o">.</span><span class="n">show_all</span><span class="p">()</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-36" name="rest_code_cd7b32413121440caed359aafdc23f32-36" href="#rest_code_cd7b32413121440caed359aafdc23f32-36"></a>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-37" name="rest_code_cd7b32413121440caed359aafdc23f32-37" href="#rest_code_cd7b32413121440caed359aafdc23f32-37"></a>        <span class="n">settings</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">view</span><span class="o">.</span><span class="n">get_settings</span><span class="p">()</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-38" name="rest_code_cd7b32413121440caed359aafdc23f32-38" href="#rest_code_cd7b32413121440caed359aafdc23f32-38"></a>        <span class="n">settings</span><span class="o">.</span><span class="n">set_property</span><span class="p">(</span><span class="s2">"enable-developer-extras"</span><span class="p">,</span> <span class="kc">True</span><span class="p">)</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-39" name="rest_code_cd7b32413121440caed359aafdc23f32-39" href="#rest_code_cd7b32413121440caed359aafdc23f32-39"></a>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-40" name="rest_code_cd7b32413121440caed359aafdc23f32-40" href="#rest_code_cd7b32413121440caed359aafdc23f32-40"></a>        <span class="k">def</span> <span class="nf">activate_inspector</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="o">*</span><span class="n">args</span><span class="p">):</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-41" name="rest_code_cd7b32413121440caed359aafdc23f32-41" href="#rest_code_cd7b32413121440caed359aafdc23f32-41"></a>            <span class="n">view</span> <span class="o">=</span> <span class="n">webkit</span><span class="o">.</span><span class="n">WebView</span><span class="p">()</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-42" name="rest_code_cd7b32413121440caed359aafdc23f32-42" href="#rest_code_cd7b32413121440caed359aafdc23f32-42"></a>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-43" name="rest_code_cd7b32413121440caed359aafdc23f32-43" href="#rest_code_cd7b32413121440caed359aafdc23f32-43"></a>            <span class="n">panels</span><span class="o">.</span><span class="n">add2</span><span class="p">(</span><span class="n">view</span><span class="p">)</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-44" name="rest_code_cd7b32413121440caed359aafdc23f32-44" href="#rest_code_cd7b32413121440caed359aafdc23f32-44"></a>            <span class="n">panels</span><span class="o">.</span><span class="n">set_position</span><span class="p">(</span><span class="n">panels</span><span class="o">.</span><span class="n">get_allocation</span><span class="p">()</span><span class="o">.</span><span class="n">height</span> <span class="o">/</span> <span class="mi">2</span><span class="p">)</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-45" name="rest_code_cd7b32413121440caed359aafdc23f32-45" href="#rest_code_cd7b32413121440caed359aafdc23f32-45"></a>            <span class="n">view</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-46" name="rest_code_cd7b32413121440caed359aafdc23f32-46" href="#rest_code_cd7b32413121440caed359aafdc23f32-46"></a>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-47" name="rest_code_cd7b32413121440caed359aafdc23f32-47" href="#rest_code_cd7b32413121440caed359aafdc23f32-47"></a>            <span class="k">return</span> <span class="n">view</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-48" name="rest_code_cd7b32413121440caed359aafdc23f32-48" href="#rest_code_cd7b32413121440caed359aafdc23f32-48"></a>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-49" name="rest_code_cd7b32413121440caed359aafdc23f32-49" href="#rest_code_cd7b32413121440caed359aafdc23f32-49"></a>        <span class="n">inspector</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">view</span><span class="o">.</span><span class="n">get_web_inspector</span><span class="p">()</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-50" name="rest_code_cd7b32413121440caed359aafdc23f32-50" href="#rest_code_cd7b32413121440caed359aafdc23f32-50"></a>        <span class="n">inspector</span><span class="o">.</span><span class="n">connect</span><span class="p">(</span><span class="s2">"inspect-web-view"</span><span class="p">,</span> <span class="n">activate_inspector</span><span class="p">)</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-51" name="rest_code_cd7b32413121440caed359aafdc23f32-51" href="#rest_code_cd7b32413121440caed359aafdc23f32-51"></a>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-52" name="rest_code_cd7b32413121440caed359aafdc23f32-52" href="#rest_code_cd7b32413121440caed359aafdc23f32-52"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">add</span><span class="p">(</span><span class="n">panels</span><span class="p">)</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-53" name="rest_code_cd7b32413121440caed359aafdc23f32-53" href="#rest_code_cd7b32413121440caed359aafdc23f32-53"></a>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-54" name="rest_code_cd7b32413121440caed359aafdc23f32-54" href="#rest_code_cd7b32413121440caed359aafdc23f32-54"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">connect</span><span class="p">(</span><span class="s1">'delete-event'</span><span class="p">,</span> <span class="k">lambda</span> <span class="o">*</span><span class="n">args</span><span class="p">:</span> <span class="n">sys</span><span class="o">.</span><span class="n">exit</span><span class="p">(</span><span class="mi">0</span><span class="p">))</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-55" name="rest_code_cd7b32413121440caed359aafdc23f32-55" href="#rest_code_cd7b32413121440caed359aafdc23f32-55"></a>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-56" name="rest_code_cd7b32413121440caed359aafdc23f32-56" href="#rest_code_cd7b32413121440caed359aafdc23f32-56"></a>    <span class="k">def</span> <span class="nf">open</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">url</span><span class="p">):</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-57" name="rest_code_cd7b32413121440caed359aafdc23f32-57" href="#rest_code_cd7b32413121440caed359aafdc23f32-57"></a>        <span class="k">if</span> <span class="ow">not</span> <span class="n">url</span><span class="o">.</span><span class="n">startswith</span><span class="p">(</span><span class="s1">'http://'</span><span class="p">)</span> <span class="ow">and</span> <span class="ow">not</span> <span class="n">url</span><span class="o">.</span><span class="n">startswith</span><span class="p">(</span><span class="s1">'https://'</span><span class="p">):</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-58" name="rest_code_cd7b32413121440caed359aafdc23f32-58" href="#rest_code_cd7b32413121440caed359aafdc23f32-58"></a>            <span class="bp">self</span><span class="o">.</span><span class="n">url</span> <span class="o">=</span> <span class="s1">'http://'</span> <span class="o">+</span> <span class="n">url</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-59" name="rest_code_cd7b32413121440caed359aafdc23f32-59" href="#rest_code_cd7b32413121440caed359aafdc23f32-59"></a>        <span class="k">else</span><span class="p">:</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-60" name="rest_code_cd7b32413121440caed359aafdc23f32-60" href="#rest_code_cd7b32413121440caed359aafdc23f32-60"></a>            <span class="bp">self</span><span class="o">.</span><span class="n">url</span> <span class="o">=</span> <span class="n">url</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-61" name="rest_code_cd7b32413121440caed359aafdc23f32-61" href="#rest_code_cd7b32413121440caed359aafdc23f32-61"></a>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-62" name="rest_code_cd7b32413121440caed359aafdc23f32-62" href="#rest_code_cd7b32413121440caed359aafdc23f32-62"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">view</span><span class="o">.</span><span class="n">open</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">url</span><span class="p">)</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-63" name="rest_code_cd7b32413121440caed359aafdc23f32-63" href="#rest_code_cd7b32413121440caed359aafdc23f32-63"></a>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-64" name="rest_code_cd7b32413121440caed359aafdc23f32-64" href="#rest_code_cd7b32413121440caed359aafdc23f32-64"></a>    <span class="k">def</span> <span class="nf">_on_url_changed</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">entry</span><span class="p">):</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-65" name="rest_code_cd7b32413121440caed359aafdc23f32-65" href="#rest_code_cd7b32413121440caed359aafdc23f32-65"></a><span class="w">        </span><span class="sd">'''called when the url changes'''</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-66" name="rest_code_cd7b32413121440caed359aafdc23f32-66" href="#rest_code_cd7b32413121440caed359aafdc23f32-66"></a>        <span class="n">url</span> <span class="o">=</span> <span class="n">entry</span><span class="o">.</span><span class="n">get_text</span><span class="p">()</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-67" name="rest_code_cd7b32413121440caed359aafdc23f32-67" href="#rest_code_cd7b32413121440caed359aafdc23f32-67"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">open</span><span class="p">(</span><span class="n">url</span><span class="p">)</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-68" name="rest_code_cd7b32413121440caed359aafdc23f32-68" href="#rest_code_cd7b32413121440caed359aafdc23f32-68"></a>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-69" name="rest_code_cd7b32413121440caed359aafdc23f32-69" href="#rest_code_cd7b32413121440caed359aafdc23f32-69"></a><span class="k">if</span> <span class="vm">__name__</span> <span class="o">==</span> <span class="s1">'__main__'</span><span class="p">:</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-70" name="rest_code_cd7b32413121440caed359aafdc23f32-70" href="#rest_code_cd7b32413121440caed359aafdc23f32-70"></a>    <span class="n">browser</span> <span class="o">=</span> <span class="n">Browser</span><span class="p">(</span><span class="s1">'www.google.com/search?q=python</span><span class="si">%20a</span><span class="s1">rgentina'</span><span class="p">)</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-71" name="rest_code_cd7b32413121440caed359aafdc23f32-71" href="#rest_code_cd7b32413121440caed359aafdc23f32-71"></a>    <span class="n">browser</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
+<a id="rest_code_cd7b32413121440caed359aafdc23f32-72" name="rest_code_cd7b32413121440caed359aafdc23f32-72" href="#rest_code_cd7b32413121440caed359aafdc23f32-72"></a>    <span class="n">gtk</span><span class="o">.</span><span class="n">main</span><span class="p">()</span>
+</pre></div>
+    </div>    
+</div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+            <script src="../../../../assets/js/jquery.min.js"></script><script src="../../../../assets/js/popper.min.js"></script><script src="../../../../assets/js/bootstrap.min.js"></script><script src="../../../../assets/js/baguetteBox.min.js"></script><script src="../../../../assets/js/pyar.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>

@@ -1,0 +1,565 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,400italic,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,700);
+
+/*
+ * General
+ */
+body, td, tr, div, p, form, input,
+select, textarea, font {
+    font-family: 'Roboto';
+}
+
+body {
+    background-color: #f4f4f4;
+    color: #444;
+}
+
+/*
+ * Main
+ */
+.page-header {
+    color: #FB8B00;
+    margin-top: 30px;
+}
+.pull-right {
+    float: right !important;
+}
+
+#content {
+    background: #fff;
+    border-radius: 8px;
+    padding: 0px 20px 30px;
+    word-wrap: break-word;
+}
+
+@media (max-width: 992px) {
+    #main {
+        padding-top: 20px;
+    }
+}
+
+#main > div.row > div.col-md-8 div.row > article.col-sm-4 > div.img.aprendiendo_python {
+        background-position: 62px 0;
+}
+
+#main > div.row > div.col-md-8 div.row > article.col-sm-4 > div.img.lista_correo {
+        background-position: -134px 0;
+}
+#main > div.row > div.col-md-8 div.row > article.col-sm-4 > div.img.wiki {
+        background-position: -67px 0;
+}
+
+/*
+ * Ribbon
+ */
+
+/*
+#ribbon {
+	top: 140px;
+	left: -48px;
+	width: 100%;
+	height: 137px;
+	padding-left: 17px;
+	position: absolute;
+	background-color: #39ade6;
+}
+
+#ribbon:after {
+	right:0;
+	bottom:-25px;
+	width: 41px;
+	height: 25px;
+	content: "";
+	position: absolute;
+	background: url(/static/img/ribbon.png);
+}
+*/
+
+/*
+ * Search
+ */
+
+iframe#google {
+	border:0;
+	margin:0;
+	padding:0;
+	width: 100%;
+}
+
+#search-form {
+    margin-bottom: 20px;
+}
+
+#search-form input {
+    color: #999;
+    font-weight: bold;
+    background: #eee;
+    border-color: #eee;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    -o-box-shadow: none;
+    box-shadow: none;
+}
+
+#search-form button {
+    background: #ccc;
+    color: #fff;
+}
+
+#searchResult div.modal-body {
+	padding-top:0;
+}
+
+
+/*
+ * Panels
+ */
+
+.list-group-item {
+    background: #eee;
+    border: 1px solid #fff;
+}
+
+.list-group-item:first-child {
+    padding-top: 15px;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+	background:#f4f4f4;
+}
+.list-group-item:last-child {
+    padding-top: 15px;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+	background:#f4f4f4;
+}
+
+.list-group {
+	margin-top:20px;
+}
+
+.list-group-item-heading {
+    font-weight:bold;
+}
+
+h3.list-group-item-heading {
+    color: #f0a513;
+}
+
+h4.list-group-item-heading {
+    color: #2ca8e4;
+}
+
+/*
+ * Header
+ */
+
+#header {
+	margin-bottom: 10px;
+}
+
+/*
+ * Navbar
+ */
+
+.navbar-header div.loginreg {
+	text-align: center;
+	margin-top: 38px;
+}
+.banner {
+    padding: 0px 20px;
+}
+.banner p {
+    font-size: 15px;
+    text-shadow: 0px 0px 4px #444;
+    vertical-align: bottom;
+}
+.banner h1 {
+    text-shadow: 0px 0px 4px #777;
+    font-size: 30px;
+    font-weight: bold;
+    padding-top: 7px;
+    padding-left: 95px;
+    height: 96px;
+}
+.banner .bigger {
+    font-size: 38px;
+    display: block;
+}
+.banner-wrapper {
+    color: white;
+}
+.navbar-brand {
+	width: 195px;
+	height: 75px;
+	display: block;
+	text-indent: -9999px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-image: url(https://www.python.org.ar/static/img/logo-header.png);
+}
+
+#header button.navbar-toggle {
+	margin-top: 30px;
+	background-color: #2ca8e4;
+}
+
+#header button.navbar-toggle .icon-bar {
+	background-color: #fff;
+}
+
+#header-navbar-collapse {
+	margin-right: -15px;
+}
+.board-list-item .label-default {
+    margin-left: 6px;
+}
+
+@media (min-width: 768px) {
+	#header-navbar-collapse {
+		margin-left: -15px;
+	}
+}
+
+#header-navbar-collapse > ul {
+	margin-right: 0;
+}
+
+@media (min-width: 768px) {
+	#header-navbar-collapse > ul {
+		width: 100%;
+	}
+}
+
+ul.navbar-nav > li {
+	background-color: #fff;
+}
+
+ul.navbar-nav > li > a > span {
+        display:block;
+        height:25px;
+        margin:0 auto;
+}
+
+ul.navbar-nav > li:not(.active) > a > span {
+        background-image: url(https://www.python.org.ar/static/img/icons/icons.png);
+}
+
+ul.navbar-nav > li.active > a > span,
+ul.navbar-nav > li:hover > a > span {
+        background-image: url(https://www.python.org.ar/static/img/icons/icons_active.png);
+}
+
+ul.navbar-nav > li > a > span.inicio {
+        width: 25px;
+        background-position: -80px 25px;
+}
+
+ul.navbar-nav > li > a > span.quienes_somos {
+        width: 25px;
+        background-position: -44px 25px;
+}
+ul.navbar-nav > li > a > span.navbar_lista_de_correo {
+    width: 30px;
+    background-position: -323px 25px;
+}
+ul.navbar-nav > li > a > span.wiki {
+        width: 20px;
+        background-position: -292px 25px;
+}
+ul.navbar-nav > li > a > span.news {
+        width: 26px;
+        background-position: -255px 25px;
+}
+ul.navbar-nav > li > a > span.irc {
+        width: 31px;
+        background-position: -115px 25px;
+}
+
+ul.navbar-nav > li > a > span.eventos {
+        width: 19px;
+        background-position: -191px 25px;
+}
+
+ul.navbar-nav > li > a > span.pyar {
+        width: 26px;
+        background-position: -220px 25px;
+}
+
+ul.navbar-nav > li > a > span.jobs {
+        width: 24px;
+        background-position: -156px 25px;
+}
+
+@media (min-width: 768px) {
+	ul.navbar-nav > li > a {
+		padding-top: 15px;
+		padding-bottom: 10px;
+		background-color: #fff;
+		border-left: 1px solid #f4f4f4;
+		border-bottom: 6px solid #fff;
+	}
+}
+
+ul.navbar-nav > li:first-child {
+	border-left: 0;
+}
+
+@media (min-width: 768px) {
+	ul.navbar-nav > li.nav-item {
+	    width: 95px;
+	}
+}
+
+
+ul.navbar-nav > li.nav-item > a.nav-link {
+	color: #fb8b00;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: center;
+}
+
+
+ul.navbar-nav > li > a {
+	border-bottom: 4px solid white;
+}
+ul.navbar-nav > li.active > a.nav-link,
+ul.navbar-nav > li:hover > a.nav-link {
+	background-color: #39ade6;
+	border-bottom: 4px solid #fdca01;
+    color: white;
+}
+
+@media (min-width: 768px) {
+	ul.navbar-nav > li.active > a,
+	ul.navbar-nav > li > a:hover {
+		border-bottom: 6px solid #fdca01;
+	}
+}
+
+/*
+ *
+ */
+
+h3 {
+	color:#35679a;
+	font-weight: bold;
+}
+
+/*
+ * Footer
+ */
+
+#footer {
+	padding-top: 30px;
+	padding-bottom: 20px;
+	background-color: #f4f4f4;
+}
+
+#footer a {
+	color: #808080;
+	font-size: 11px;
+}
+
+@media (min-width: 768px) {
+	#footer ul.right {
+		float: right;
+	}
+}
+
+#footer li {
+	line-height: 12px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+#footer li.pyar {
+	padding-left: 100px;
+	background-position: 0 center;
+	background-repeat: no-repeat;
+}
+
+#footer li.usla,
+#footer li.python {
+    background-position: right center;
+    background-repeat: no-repeat;
+    float: left;
+    text-align: right;
+}
+#footer li.usla {
+    padding-right: 80px;
+}
+
+#footer li.python {
+    margin-left: 25px;
+    padding-right: 52px;
+ }
+@media (max-width: 992px) {
+    #footer li.python {
+        clear: left;
+        float: right;
+        margin: 15px 0 0;
+    }
+}
+
+/*
+ * Inputs and forms
+ */
+.form-horizontal .form-actions {
+    clear: both;
+    margin-left: 15px;
+}
+.textarea.form-control {
+    height: 140px;
+}
+
+.job-date {
+    font-size: 14px;
+    margin-left: 10px;
+    color: #999;
+}
+
+time.published {
+    font-size: 0.8em;
+    color: #666;
+}
+.tags-group {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.board-list-item, .simple-list-item {
+    margin-bottom: 25px;
+}
+.board-list-item {
+    border-left: 3px solid #FDCA01;
+    padding-left: 10px;
+}
+.board-list-item h4, .simple-list-item h4 {
+    font-weight: bold;
+}
+.table.table-no-border tbody > tr > td,
+.table.table-no-border tbody > tr > th {
+    border-top: 0px none;
+}
+.board-list-simple-item {
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.board-list-simple-item > h3 {
+    margin-top: 0px;
+}
+.board-list-simple-item:nth-child(odd) {
+    background-color: #F4F4F4;
+}
+@media (min-width: 768px) {
+	.navbar-header div.loginreg {
+		float: left;
+	}
+    .banner h1, .banner p {
+        display: inline-block;
+    }
+}
+@media (min-width: 992px) {
+	.navbar-header div.loginreg {
+		margin-top:0;
+	}
+    .banner-wrapper {
+       color: white;
+       width: 100%;
+       position: absolute;
+       /* top: 150px; */
+    }
+    .banner {
+        height:137px;
+        width: 100%;
+        left: 0;
+    }
+    .index-content, .index-right {
+       margin-top: 185px;
+    }
+    .banner h1 {
+        margin-right: 20px;
+        font-size: 35px;
+    }
+    .banner .bigger {
+        font-size: 42px;
+    }
+    .banner p {
+        width: 400px;
+    }
+    #div_id_description > label {
+        width: 8.33333%;
+    }
+    #div_id_description > div {
+        width: 60%;
+    }
+}
+@media (min-width: 1200px) {
+    .form-horizontal .form-actions {
+        margin-left: 106px;
+    }
+}
+@media (min-width: 1290px) {
+    .banner-wrapper {
+       width: calc(100% - (100% - 1170px)/2 + 41px);
+       height: 162px;
+    }
+    .banner .container {
+        position: absolute;
+        right: 41px;
+    }
+    .ribbon {
+        width: 41px;
+        height: 25px;
+        position: absolute;
+        right: 0px;
+        bottom: 0px;
+    }
+}
+
+pre {
+    font-family: 'Ubuntu Mono', monospace !important;
+    font-size: 1em !important;
+}
+
+.editable button {
+    float: right;
+    margin: 0 0 1em 1em;
+}
+
+.waliki-nav {
+    width: 100%;
+    border-top: 1px solid #eee;
+    margin-bottom: -20px;
+
+}
+
+.waliki-nav > li > a {
+    padding-bottom: 0px;
+    padding-top: 0px;
+    font-size: 0.85em;
+    color: #ccc;
+}
+
+a.white {
+    color: #fff;
+}
+
+a.white:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+div.sponsored_jobs {
+    padding: 5px;
+}
+
+/** Otras cosas especificas usada por los rST */
+.strike {
+    text-decoration: line-through;
+}
+
+small, .small {
+    font-size: 85%;
+}
+
+

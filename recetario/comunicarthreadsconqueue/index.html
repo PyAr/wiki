@@ -1,0 +1,182 @@
+<!DOCTYPE html>
+<html prefix="
+og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Comunicar threads con colas | Python Argentina Wiki</title>
+<link href="../../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/bootblog.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../../rss.xml">
+<link rel="canonical" href="https://wiki.python.org.ar/recetario/comunicarthreadsconqueue/">
+<!--[if lt IE 9]><script src="../../assets/js/html5.js"></script><![endif]--><meta name="author" content="Python Argentina">
+<meta property="og:site_name" content="Python Argentina Wiki">
+<meta property="og:title" content="Comunicar threads con colas">
+<meta property="og:url" content="https://wiki.python.org.ar/recetario/comunicarthreadsconqueue/">
+<meta property="og:description" content="El siguiente ejemplo muestra cómo se pueden comunicar threads a traves de cola y como se puede utilizar las características de las colas para hacer que un hilo solo trabaje cuando hay algo para hacer.">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
+
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../pyar/"><span class="quienes_somos"></span>Nosotros</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../foro_y_redes/"><span class="navbar_lista_de_correo"></span>Foro</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../../"><span class="wiki"></span>Wiki</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/noticias/"><span class="news"></span>Noticias</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/irc/"><span class="irc"></span>IRC</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/eventos/"><span class="eventos"></span>Eventos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://planeta.python.org.ar/"><span class="pyar"></span>Planeta</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/trabajo/"><span class="jobs"></span>Trabajos</a>
+                </li>
+            </ul>
+</div>
+    </nav>
+</div>
+
+<!-- Header and menu bar -->
+<div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        
+<div class="col-lg-12">
+    <div class="page-header">
+        <div class="pull-right">
+            <a href="https://github.com/PyAr/wiki/blob/master/pages/recetario/comunicarthreadsconqueue.rst" id="sourcelink" class="nav-link">Editar</a>
+        </div>
+        <h2>Comunicar Threads Con Colas</h2>
+    </div>
+    <div class="e-content entry-content" itemprop="articleBody text">
+    <p>El siguiente ejemplo muestra cómo se pueden comunicar threads a traves de cola y como se puede utilizar las características de las colas para hacer que un hilo solo trabaje cuando hay algo para hacer.</p>
+<p>En el ejemplo se crean 2 clases:</p>
+<ul class="simple">
+<li><p>Reader: se bloquea esperando un mensaje de una cola llamada self.in_queue, cuando hay algo lo imprime, si el mensaje es 'quit' saluda y finaliza</p></li>
+<li><p>Writer: se bloquea esperando un mensaje de una cola llamada self.in_queue, cuando hay algo lo invierte y lo envia a la cola de salida (self.out_queue), si el mensaje es 'quit', lo pone en self.out_queue, saluda y finaliza.</p></li>
+</ul>
+<p>En el ejemplo se crea un hilo Reader, un Writer, se inicializan ambos y se conecta la cola de salida de Writer con la entrada de Reader, de esta manera, cualquier mensaje enviado a la cola de entrada de Writer sera invertida, enviada por la salida, la cual sera leida por Reader e impresa, al introducir el mensaje 'quit' ambos threads finalizan.</p>
+<pre class="literal-block">import Queue
+import threading
+
+# este thread se bloquea esperando que venga algo en la cola,
+# lo unico que hace es imprimirlo. Si el mensaje es quit finaliza
+class Reader(threading.Thread):
+   def __init__(self, in_queue):
+       threading.Thread.__init__(self)
+       self.in_queue = in_queue
+
+   def run(self):
+       while True:
+           msg = self.in_queue.get()
+           if msg == 'quit':
+               print 'reader se va!'
+               break
+
+           print 'leido ' + msg
+
+# este thread se bloquea esperando que venga algo en la cola de entrada,
+# cuando llega algo lo escribe al reves en la cola de salida.
+class Writer(threading.Thread):
+   def __init__(self, in_queue, out_queue):
+       threading.Thread.__init__(self)
+       self.in_queue = in_queue
+       self.out_queue = out_queue
+
+   def run(self):
+       while True:
+           msg = self.in_queue.get()
+           if msg == 'quit':
+               print 'writer se va!'
+               self.out_queue.put(msg)
+               break
+
+           print 'escrito ' + msg
+
+           self.out_queue.put(msg[::-1])
+
+# aca creo un lector y un escritor, le doy de salida a writer la
+# entrada de reader, por lo tanto lo que escriba writer lo va a
+# leer reader al reves el recorrido es asi:
+# mensaje -&gt; entra a writer -&gt; lo invierte -&gt; lo envia a la salida -&gt; entra a reader
+def test():
+   in_queue =  Queue.Queue()
+   out_queue =  Queue.Queue()
+   reader = Reader(out_queue)
+   writer = Writer(in_queue, out_queue)
+
+   reader.start()
+   writer.start()
+
+   in_queue.put('buenas')
+   in_queue.put('como va')
+   in_queue.put('quit')
+
+if __name__ == '__main__':
+   test()</pre>
+<p>En este ejemplo, los hilos están dormidos y solo se despiertan cuando hay algo que hacer, lo hacen y se vuelven a bloquear.</p>
+<blockquote>
+<p>Usando esta estrategia nos queda el hilo principal libre para hacer lo que queramos (por ejemplo el main loop de un widget toolkit) el cual no se verá bloqueado por el trabajo realizado por los hilos.</p>
+</blockquote>
+<p>Más info sobre el módulo Queue: <a class="reference external" href="https://docs.python.org/current/library/queue.html">https://docs.python.org/current/library/queue.html</a></p>
+<p>Asynchronous Queue a partir de Python 3.4:  <a class="reference external" href="https://docs.python.org/current/library/asyncio-queue.html">https://docs.python.org/current/library/asyncio-queue.html</a></p>
+<p>La salida obtenida ejecutando el archivo:</p>
+<pre class="literal-block">escrito buenas
+leido saneub
+escrito como va
+leido av omoc
+writer se va!
+reader se va!</pre>
+    </div>    
+</div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+            <script src="../../assets/js/jquery.min.js"></script><script src="../../assets/js/popper.min.js"></script><script src="../../assets/js/bootstrap.min.js"></script><script src="../../assets/js/baguetteBox.min.js"></script><script src="../../assets/js/pyar.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>

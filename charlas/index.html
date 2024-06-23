@@ -1,0 +1,754 @@
+<!DOCTYPE html>
+<html prefix="
+og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Charlas | Python Argentina Wiki</title>
+<link href="../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/bootblog.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../rss.xml">
+<link rel="canonical" href="https://wiki.python.org.ar/charlas/">
+<!--[if lt IE 9]><script src="../assets/js/html5.js"></script><![endif]--><meta name="author" content="Python Argentina">
+<meta property="og:site_name" content="Python Argentina Wiki">
+<meta property="og:title" content="Charlas">
+<meta property="og:url" content="https://wiki.python.org.ar/charlas/">
+<meta property="og:description" content="Contenido
+
+General
+
+Creando plug-ins para GIMP con Python
+De 0 a Python en 45 minutos
+Introducción a Python
+PyGTK y Glade
+Test Driven Development
+Twisted Framework
+Un juego en 7 días
+Introducción a Py">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
+
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../pyar/"><span class="quienes_somos"></span>Nosotros</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../foro_y_redes/"><span class="navbar_lista_de_correo"></span>Foro</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../"><span class="wiki"></span>Wiki</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/noticias/"><span class="news"></span>Noticias</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/irc/"><span class="irc"></span>IRC</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/eventos/"><span class="eventos"></span>Eventos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://planeta.python.org.ar/"><span class="pyar"></span>Planeta</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/trabajo/"><span class="jobs"></span>Trabajos</a>
+                </li>
+            </ul>
+</div>
+    </nav>
+</div>
+
+<!-- Header and menu bar -->
+<div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        
+<div class="col-lg-12">
+    <div class="page-header">
+        <div class="pull-right">
+            <a href="https://github.com/PyAr/wiki/blob/master/pages/charlas.rst" id="sourcelink" class="nav-link">Editar</a>
+        </div>
+        <h2>Charlas</h2>
+    </div>
+    <div class="e-content entry-content" itemprop="articleBody text">
+    <nav class="contents" id="contenido" role="doc-toc"><p class="topic-title"><a class="reference internal" href="#top">Contenido</a></p>
+<ul class="simple">
+<li>
+<p><a class="reference internal" href="#general" id="toc-entry-1">General</a></p>
+<ul>
+<li><p><a class="reference internal" href="#creando-plug-ins-para-gimp-con-python" id="toc-entry-2">Creando plug-ins para GIMP con Python</a></p></li>
+<li><p><a class="reference internal" href="#de-0-a-python-en-45-minutos" id="toc-entry-3">De 0 a Python en 45 minutos</a></p></li>
+<li><p><a class="reference internal" href="#introduccion-a-python" id="toc-entry-4">Introducción a Python</a></p></li>
+<li><p><a class="reference internal" href="#pygtk-y-glade" id="toc-entry-5">PyGTK y Glade</a></p></li>
+<li><p><a class="reference internal" href="#test-driven-development" id="toc-entry-6">Test Driven Development</a></p></li>
+<li><p><a class="reference internal" href="#twisted-framework" id="toc-entry-7">Twisted Framework</a></p></li>
+<li><p><a class="reference internal" href="#un-juego-en-7-dias" id="toc-entry-8">Un juego en 7 días</a></p></li>
+<li><p><a class="reference internal" href="#introduccion-a-python-1" id="toc-entry-9">Introducción a Python</a></p></li>
+<li><p><a class="reference internal" href="#programando-para-la-olpc" id="toc-entry-10">Programando para la OLPC</a></p></li>
+<li><p><a class="reference internal" href="#testeos-automaticos-de-seguridad-mediante-simulacion-de-ataques" id="toc-entry-11">Testeos automáticos de seguridad (mediante simulación de ataques)</a></p></li>
+<li><p><a class="reference internal" href="#python-mas-rapido-que-c" id="toc-entry-12">Python más rápido que C</a></p></li>
+<li><p><a class="reference internal" href="#entendiendo-unicode" id="toc-entry-13">Entendiendo Unicode</a></p></li>
+<li><p><a class="reference internal" href="#hacer-un-juego-es-facil" id="toc-entry-14">Hacer un juego es fácil</a></p></li>
+<li><p><a class="reference internal" href="#dev-wiimote-experimentando-con-un-wii-remote-en-gnu-linux" id="toc-entry-15">/dev/wiimote &gt; Experimentando con un wii remote en Gnu/Linux</a></p></li>
+<li><p><a class="reference internal" href="#actividades-y-juegos-educativos-para-la-olpc" id="toc-entry-16">Actividades y juegos educativos para la OLPC</a></p></li>
+<li><p><a class="reference internal" href="#factura-electronica-en-python-e-interfaces-a-otros-lenguajes" id="toc-entry-17">Factura Electrónica en Python e interfaces a otros lenguajes</a></p></li>
+<li><p><a class="reference internal" href="#introduccion-a-python-2da-parte-libreria-estandar-bases-de-datos-aplicaciones-interfases-etc" id="toc-entry-18">Introducción a Python 2da. parte (Librería Estándar, Bases de datos, Aplicaciones, Interfases, etc.)</a></p></li>
+<li><p><a class="reference internal" href="#la-pythonicidad-al-palo" id="toc-entry-19">La pythonicidad al palo</a></p></li>
+<li><p><a class="reference internal" href="#myhdl-de-python-al-silicio" id="toc-entry-20">MyHDL, de Python al silicio</a></p></li>
+<li><p><a class="reference internal" href="#curso-programacion-en-python" id="toc-entry-21">Curso programación en Python</a></p></li>
+<li><p><a class="reference internal" href="#pythonificandose-desde-net" id="toc-entry-22">Pythonificandose desde .Net</a></p></li>
+<li><p><a class="reference internal" href="#depuracion-y-defragmentacion-de-memoria-en-python" id="toc-entry-23">Depuración y defragmentación de memoria en Python</a></p></li>
+<li><p><a class="reference internal" href="#python-a-los-bifes" id="toc-entry-24">Python a los bifes</a></p></li>
+<li><p><a class="reference internal" href="#extendiendo-aplicaciones-en-c-y-c-con-python" id="toc-entry-25">Extendiendo aplicaciones en C y C++ con Python</a></p></li>
+<li><p><a class="reference internal" href="#paralelismo-en-python" id="toc-entry-26">Paralelismo en Python</a></p></li>
+<li><p><a class="reference internal" href="#caching-para-hordas-y-estampidas" id="toc-entry-27">Caching para hordas y estampidas</a></p></li>
+</ul>
+</li>
+<li>
+<p><a class="reference internal" href="#pyconar2010" id="toc-entry-28">PyConAr2010</a></p>
+<ul>
+<li><p><a class="reference internal" href="#mini-introduccion-a-django" id="toc-entry-29">Mini Introducción a Django</a></p></li>
+<li><p><a class="reference internal" href="#pycasa-inside-pygtk-usando-glade" id="toc-entry-30">Pycasa Inside: PyGTK usando Glade</a></p></li>
+<li><p><a class="reference internal" href="#mythbusters-tests" id="toc-entry-31">Mythbusters: Tests</a></p></li>
+<li><p><a class="reference internal" href="#entendiendo-decoradores-en-python" id="toc-entry-32">Entendiendo decoradores en Python</a></p></li>
+<li><p><a class="reference internal" href="#cyclope-3-un-cms-libre-desarrollado-en-python-django" id="toc-entry-33">Cyclope 3: un CMS libre desarrollado en Python/Django</a></p></li>
+<li><p><a class="reference internal" href="#programando-python-en-android" id="toc-entry-34">Programando Python en Android</a></p></li>
+<li><p><a class="reference internal" href="#behind-the-scenes-python-bytecode" id="toc-entry-35">Behind the scenes: Python Bytecode</a></p></li>
+<li><p><a class="reference internal" href="#introduccion-a-wxpython" id="toc-entry-36">Introducción a wxPython</a></p></li>
+</ul>
+</li>
+<li>
+<p><a class="reference internal" href="#pyday-cordoba-2011" id="toc-entry-37">PyDay Córdoba 2011</a></p>
+<ul>
+<li><p><a class="reference internal" href="#myhdl-de-python-al-silicio-1" id="toc-entry-38">MyHDL, de Python al Silicio</a></p></li>
+<li><p><a class="reference internal" href="#pycamp-orm-haciendo-facil-sqlalchemy" id="toc-entry-39">pycamp.orm, haciendo <em>facil</em> sqlalchemy</a></p></li>
+<li><p><a class="reference internal" href="#introduccion-a-pyqt" id="toc-entry-40">Introducción a PyQt</a></p></li>
+<li><p><a class="reference internal" href="#desarrollando-aplicaciones-desktop-con-ui-web" id="toc-entry-41">Desarrollando Aplicaciones Desktop con UI Web</a></p></li>
+</ul>
+</li>
+<li>
+<p><a class="reference internal" href="#pyconar-rafaela-2014" id="toc-entry-42">PyConAr Rafaela 2014</a></p>
+<ul>
+<li><p><a class="reference internal" href="#ansible-la-batuta-de-python" id="toc-entry-43">Ansible, la batuta de Python</a></p></li>
+<li><p><a class="reference internal" href="#ruby-para-programadores-python" id="toc-entry-44">Ruby para programadores Python</a></p></li>
+<li><p><a class="reference internal" href="#netflix-en-10-lineas-mulpycast" id="toc-entry-45">Netflix en 10 líneas - Mulpycast</a></p></li>
+<li><p><a class="reference internal" href="#rip-rest-in-python-3" id="toc-entry-46">RIP - Rest in Python 3</a></p></li>
+<li><p><a class="reference internal" href="#argentina-en-python-como-matar-el-sueno-de-todo-programador-en-2-minutos" id="toc-entry-47">Argentina en Python: cómo matar el sueño de todo programador en 2 minutos</a></p></li>
+<li><p><a class="reference internal" href="#django-security-quick-wins" id="toc-entry-48">Django Security Quick Wins</a></p></li>
+<li><p><a class="reference internal" href="#introduccion-a-python-2" id="toc-entry-49">Introducción a Python</a></p></li>
+<li><p><a class="reference internal" href="#como-debuguear-codigo-python" id="toc-entry-50">Cómo debuguear código Python</a></p></li>
+<li><p><a class="reference internal" href="#como-los-logs-me-salvaron-el-alma" id="toc-entry-51">Cómo los logs me salvaron el alma</a></p></li>
+<li><p><a class="reference internal" href="#taller-introduccion-a-pilas" id="toc-entry-52">Taller: Introducción a Pilas</a></p></li>
+<li><p><a class="reference internal" href="#tu-propio-cliente-de-torrent-streaming-en-python" id="toc-entry-53">Tu propio cliente de Torrent Streaming en Python</a></p></li>
+<li><p><a class="reference internal" href="#prediciendo-el-mundial-con-inteligencia-artificial" id="toc-entry-54">Prediciendo el mundial con inteligencia artificial</a></p></li>
+<li><p><a class="reference internal" href="#speed-is-a-feature" id="toc-entry-55">Speed is a feature</a></p></li>
+<li><p><a class="reference internal" href="#trabajando-de-forma-asincronica-en-django-python" id="toc-entry-56">Trabajando de forma asincrónica en Django/Python</a></p></li>
+<li><p><a class="reference internal" href="#el-nino-tiene-tests-y-no-hay-naranja" id="toc-entry-57">El niño tiene tests (y no hay naranja)</a></p></li>
+<li><p><a class="reference internal" href="#robotica-para-gente-de-verdad" id="toc-entry-58">¿Robótica para gente de verdad?</a></p></li>
+</ul>
+</li>
+<li>
+<p><a class="reference internal" href="#lighting-talks-de-pyconar-2014" id="toc-entry-59">Lighting Talks de PyConAr 2014</a></p>
+<ul>
+<li><p><a class="reference internal" href="#pysenteishon-controla-tus-slides-desde-tu-smartphone" id="toc-entry-60">Pysenteishon - Controla tus slides desde tu smartphone</a></p></li>
+<li><p><a class="reference internal" href="#nueva-web-de-pyar" id="toc-entry-61">Nueva web de PyAr</a></p></li>
+<li><p><a class="reference internal" href="#demiurge-shaping-html-chaos" id="toc-entry-62">demiurge - Shaping HTML chaos</a></p></li>
+</ul>
+</li>
+<li>
+<p><a class="reference internal" href="#pyconar-mendoza-2015" id="toc-entry-63">PyConAr Mendoza 2015</a></p>
+<ul>
+<li><p><a class="reference internal" href="#respondiendo-en-milisegundos" id="toc-entry-64">Respondiendo en milisegundos</a></p></li>
+<li><p><a class="reference internal" href="#manejando-220-000-qps-sin-despeinarse" id="toc-entry-65">Manejando 220.000 QPS sin despeinarse</a></p></li>
+<li><p><a class="reference internal" href="#missing-python" id="toc-entry-66">Missing Python</a></p></li>
+<li><p><a class="reference internal" href="#que-extrane-de-python" id="toc-entry-67">¿Qué extrañé de Python?</a></p></li>
+<li><p><a class="reference internal" href="#django-orm-to-win" id="toc-entry-68">Django ORM to win!</a></p></li>
+<li><p><a class="reference internal" href="#asi-que-tu-piensas-que-puedes-pdbear" id="toc-entry-69">¿Así que tú piensas qué puedes PDBear?</a></p></li>
+<li><p><a class="reference internal" href="#primera-aplicacion-en-kivy" id="toc-entry-70">Primera aplicación en Kivy</a></p></li>
+</ul>
+</li>
+<li>
+<p><a class="reference internal" href="#lightning-talks-de-pyconar-2014" id="toc-entry-71">Lightning Talks de PyConAr 2014</a></p>
+<ul>
+<li><p><a class="reference internal" href="#ayrton-y-elevation" id="toc-entry-72">ayrton y Elevation</a></p></li>
+</ul>
+</li>
+<li>
+<p><a class="reference internal" href="#pyday-baradaero-2016" id="toc-entry-73">PyDay Baradaero 2016</a></p>
+<ul>
+<li><p><a class="reference internal" href="#python-mas-rapido-que-c-1" id="toc-entry-74">Python más rápido que C</a></p></li>
+<li><p><a class="reference internal" href="#python-para-humanos" id="toc-entry-75">Python para humanos</a></p></li>
+<li><p><a class="reference internal" href="#introduccion-a-docker" id="toc-entry-76">Introducción a Docker</a></p></li>
+<li><p><a class="reference internal" href="#introduccion-informal-a-la-programacion" id="toc-entry-77">Introducción informal a la programación</a></p></li>
+</ul>
+</li>
+<li>
+<p><a class="reference internal" href="#pyday-rafela-2016" id="toc-entry-78">PyDay Rafela 2016</a></p>
+<ul>
+<li><p><a class="reference internal" href="#python-para-humanos-1" id="toc-entry-79">Python para humanos</a></p></li>
+<li><p><a class="reference internal" href="#lightning-talk-buscando-aliens" id="toc-entry-80">Lightning talk: buscando aliens</a></p></li>
+</ul>
+</li>
+<li>
+<p><a class="reference internal" href="#pyconar-2016-bahia-blanca" id="toc-entry-81">PyConAr 2016 Bahia Blanca</a></p>
+<ul>
+<li><p><a class="reference internal" href="#infraestructura-como-codigo" id="toc-entry-82">Infraestructura como código</a></p></li>
+<li><p><a class="reference internal" href="#bots-charlatanes" id="toc-entry-83">Bots charlatanes</a></p></li>
+<li><p><a class="reference internal" href="#redes-neuronales-con-python-utilizando-keras" id="toc-entry-84">Redes Neuronales con Python utilizando Keras</a></p></li>
+<li><p><a class="reference internal" href="#bindings-mutable-default-arguments-y-otros-quilom-detalles" id="toc-entry-85">Bindings, mutable default arguments, y otros quilom... detalles</a></p></li>
+<li><p><a class="reference internal" href="#concurrencia-en-python" id="toc-entry-86">Concurrencia en Python</a></p></li>
+</ul>
+</li>
+<li>
+<p><a class="reference internal" href="#pyday-2018-la-plata" id="toc-entry-87">PyDay 2018 La Plata</a></p>
+<ul>
+<li><p><a class="reference internal" href="#init-introduccion-a-la-programacion-con-python" id="toc-entry-88">__init__: Introducción a la programación con Python!</a></p></li>
+<li><p><a class="reference internal" href="#sistemas-recomendadores-en-python" id="toc-entry-89">Sistemas Recomendadores en Python</a></p></li>
+<li><p><a class="reference internal" href="#una-config-para-configurarlos-a-todos" id="toc-entry-90">Una config para configurarlos a todos</a></p></li>
+<li><p><a class="reference internal" href="#como-los-logs-me-salvaron-el-alma-1" id="toc-entry-91">Como los logs me salvaron el alma</a></p></li>
+<li><p><a class="reference internal" href="#me-estan-espiando-como-saber-con-python-si-el-imperialismo-te-persigue-o-te-pasaste-de-focusyn" id="toc-entry-92">¡Me están espiando! ¿Cómo saber con Python si el imperialismo te persigue o te pasaste de Focusyn?</a></p></li>
+<li><p><a class="reference internal" href="#blockchain-zero-administration-with-python" id="toc-entry-93">Blockchain zero administration with Python</a></p></li>
+<li><p><a class="reference internal" href="#desarrollando-y-desplegando-aplicaciones-python-con-docker" id="toc-entry-94">Desarrollando y desplegando aplicaciones Python con Docker</a></p></li>
+<li><p><a class="reference internal" href="#desarrollo-de-un-segmento-terreno-satelital-de-proxima-generacion-con-python" id="toc-entry-95">Desarrollo de un segmento terreno satelital de próxima generación con Python</a></p></li>
+<li><p><a class="reference internal" href="#jugando-con-python-y-el-robot-cozmo" id="toc-entry-96">Jugando con Python y el robot Cozmo</a></p></li>
+<li><p><a class="reference internal" href="#conectando-partes-con-zeromq" id="toc-entry-97">Conectando partes con ZeroMQ</a></p></li>
+<li><p><a class="reference internal" href="#usando-python-para-asistir-al-ethical-hacker" id="toc-entry-98">Usando Python para asistir al Ethical Hacker</a></p></li>
+<li><p><a class="reference internal" href="#video-analytics-events-processing-platform" id="toc-entry-99">Video Analytics events processing platform</a></p></li>
+</ul>
+</li>
+</ul></nav><p>En esta página podrán encontrar los <em>slides</em> de charlas y presentaciones dictadas por miembros de <a class="reference external" href="../pyar">PyAr</a>.</p>
+<p>¡Agregá la tuya!</p>
+<section id="general"><h2><a class="toc-backref" href="#toc-entry-1" role="doc-backlink">General</a></h2>
+<section id="creando-plug-ins-para-gimp-con-python"><h3><a class="toc-backref" href="#toc-entry-2" role="doc-backlink">Creando plug-ins para GIMP con Python</a></h3>
+<p><em>Juanjo Conti</em></p>
+<p><strong>Links:</strong> <a class="reference external" href="http://www.juanjoconti.com.ar/files/python/fu/charla-cordoba/">slides</a>, <a class="reference external" href="http://www.juanjoconti.com.ar/2006/08/22/creando-plug-ins-para-gimp-con-python-charla/">post con código fuente usado</a>.</p>
+</section><hr class="docutils">
+<section id="de-0-a-python-en-45-minutos"><h3><a class="toc-backref" href="#toc-entry-3" role="doc-backlink">De 0 a Python en 45 minutos</a></h3>
+<p><em>Daniel F. Moisset</em></p>
+<p><strong>Slides:</strong> .</p>
+</section><hr class="docutils">
+<section id="introduccion-a-python"><h3><a class="toc-backref" href="#toc-entry-4" role="doc-backlink">Introducción a Python</a></h3>
+<p><em>Daniel F. Moisset</em></p>
+<p><strong>Slides:</strong> <a class="reference external" href="https://github.com/dmoisset/slides/tree/master/intro-python">https://github.com/dmoisset/slides/tree/master/intro-python</a></p>
+<p>En formato Markdown para usar con <a class="reference external" href="https://github.com/adamzap/landslide/">Landslide</a> y HTML5.</p>
+</section><hr class="docutils">
+<section id="pygtk-y-glade"><h3><a class="toc-backref" href="#toc-entry-5" role="doc-backlink">PyGTK y Glade</a></h3>
+<p><em>Natalia Bidart</em></p>
+<p><strong>Links:</strong> <a class="reference external" href="http://www.grulic.org.ar/eventos/pythonday1/material/20060819-pygtk-on-glade.odp">slides</a>.</p>
+</section><hr class="docutils">
+<section id="test-driven-development"><h3><a class="toc-backref" href="#toc-entry-6" role="doc-backlink">Test Driven Development</a></h3>
+<p><em>Javier Mansilla</em> y <em>Natalia Bidart</em></p>
+<p><strong>Links:</strong> <a class="reference external" href="http://www.grulic.org.ar/eventos/pythonday1/material/20060819-tdd.odp">slides</a>, <a class="reference external" href="http://www.grulic.org.ar/eventos/pythonday1/material/20060819-tdd-ejemplos.tar.gz">código de ejemplo</a>.</p>
+</section><hr class="docutils">
+<section id="twisted-framework"><h3><a class="toc-backref" href="#toc-entry-7" role="doc-backlink">Twisted Framework</a></h3>
+<p><em>Anthony Lenton</em></p>
+<p><strong>Links:</strong> <a class="reference external" href="http://www.grulic.org.ar/eventos/pythonday1/material/20060819-twisted.odp">slides</a>, <a class="reference external" href="http://www.grulic.org.ar/eventos/pythonday1/material/20060819-twisted-ejemplos.tar.gz">código fuente</a></p>
+</section><hr class="docutils">
+<section id="un-juego-en-7-dias"><h3><a class="toc-backref" href="#toc-entry-8" role="doc-backlink">Un juego en 7 días</a></h3>
+<p><em>Alejandro J. Cura</em></p>
+<p><strong>Links:</strong> <a class="reference external" href="http://alecu.com.ar/juegos/presentacion/">slides</a>, <a class="reference external" href="https://opensvn.csie.org/traccgi/PyAr/browser/sandbox/alecu/presentacion">codigo fuente</a> (requiere pygame).</p>
+</section><hr class="docutils">
+<section id="introduccion-a-python-1"><h3><a class="toc-backref" href="#toc-entry-9" role="doc-backlink">Introducción a Python</a></h3>
+<p><em>Facundo Batista</em></p>
+<p><strong>Slides:</strong> <a class="reference external" href="http://taniquetil.com.ar/homedevel/presents/intropython.odp">http://taniquetil.com.ar/homedevel/presents/intropython.odp</a></p>
+</section><hr class="docutils">
+<section id="programando-para-la-olpc"><h3><a class="toc-backref" href="#toc-entry-10" role="doc-backlink">Programando para la OLPC</a></h3>
+<p><em>Alejandro David Weil</em>, <em>Alejandro J. Cura</em></p>
+<p><strong>Links:</strong> <a class="reference external" href="http://pyar-olpc.googlecode.com/svn/trunk/charla-olpc">fuente de la charla</a>, requiere pygame y <a class="reference external" href="http://cheeseshop.python.org/pypi/bruce">bruce</a>.</p>
+</section><hr class="docutils">
+<section id="testeos-automaticos-de-seguridad-mediante-simulacion-de-ataques"><h3><a class="toc-backref" href="#toc-entry-11" role="doc-backlink">Testeos automáticos de seguridad (mediante simulación de ataques)</a></h3>
+<p>(Esta charla no tiene demasiado de Python. La intención era mostrar una aplicación real donde se use Python y comentar un poco los pro y contras).</p>
+<p><em>Matias Eissler</em>, <em>Alejandro David Weil</em></p>
+<p>PDF:  .</p>
+</section><hr class="docutils">
+<section id="python-mas-rapido-que-c"><h3><a class="toc-backref" href="#toc-entry-12" role="doc-backlink">Python más rápido que C</a></h3>
+<p><em>Facundo Batista</em>, <em>Lucio Torre</em></p>
+<p><strong>Slides y código:</strong> <a class="reference external" href="http://www.taniquetil.com.ar/homedevel/presents/pyrapidc/">http://www.taniquetil.com.ar/homedevel/presents/pyrapidc/</a></p>
+</section><hr class="docutils">
+<section id="entendiendo-unicode"><h3><a class="toc-backref" href="#toc-entry-13" role="doc-backlink">Entendiendo Unicode</a></h3>
+<p><em>Facundo Batista</em></p>
+<p><strong>Slides:</strong> <a class="reference external" href="http://tools.assembla.com/svn/homedevel/presents/unicode.odp">http://tools.assembla.com/svn/homedevel/presents/unicode.odp</a></p>
+</section><hr class="docutils">
+<section id="hacer-un-juego-es-facil"><h3><a class="toc-backref" href="#toc-entry-14" role="doc-backlink">Hacer un juego es fácil</a></h3>
+<p><em>Daniel F. Moisset</em></p>
+<p><strong>Slides:</strong> <a class="reference external" href="http://jornadas.cafelug.org.ar/8/es/filminas/tercer%20dia/Hacer%20un%20juego%20es%20facil/juego-facil-20080822.tar.gz">juego-facil-20080822.tar.gz</a> (se ejecuta en python, incluye bibliotecas).</p>
+</section><hr class="docutils">
+<section id="dev-wiimote-experimentando-con-un-wii-remote-en-gnu-linux"><h3><a class="toc-backref" href="#toc-entry-15" role="doc-backlink">/dev/wiimote &gt; Experimentando con un wii remote en Gnu/Linux</a></h3>
+<p><em>Héctor Karucha Sanchez, Juan Manuel Schillaci, Christian Andres</em></p>
+<p><strong>Slides:</strong> <a class="reference external" href="http://code.google.com/p/charla-wii-mote/">http://code.google.com/p/charla-wii-mote/</a> (se baja por svn, y se ejecuta en Python).</p>
+</section><hr class="docutils">
+<section id="actividades-y-juegos-educativos-para-la-olpc"><h3><a class="toc-backref" href="#toc-entry-16" role="doc-backlink">Actividades y juegos educativos para la OLPC</a></h3>
+<p><em>Héctor Karucha Sanchez, Alejandro J. Cura, Manuel Kaufmann</em></p>
+<p><strong>Slides:</strong> <a class="reference external" href="http://code.google.com/p/charla-pygame/">http://code.google.com/p/charla-pygame/</a> (se baja por svn, y se ejecuta en Python).</p>
+</section><hr class="docutils">
+<section id="factura-electronica-en-python-e-interfaces-a-otros-lenguajes"><h3><a class="toc-backref" href="#toc-entry-17" role="doc-backlink">Factura Electrónica en Python e interfaces a otros lenguajes</a></h3>
+<p><em>Mariano Reingart, Marcelo Alaniz</em></p>
+<p><strong>Slides:</strong> <a class="reference external" href="http://docs.google.com/Presentation?id=dd9bm82g_0gch79pch">http://docs.google.com/Presentation?id=dd9bm82g_0gch79pch</a></p>
+</section><hr class="docutils">
+<section id="introduccion-a-python-2da-parte-libreria-estandar-bases-de-datos-aplicaciones-interfases-etc"><h3><a class="toc-backref" href="#toc-entry-18" role="doc-backlink">Introducción a Python 2da. parte (Librería Estándar, Bases de datos, Aplicaciones, Interfases, etc.)</a></h3>
+<p><em>Mariano Reingart</em></p>
+<p><strong>Slides:</strong></p>
+</section><hr class="docutils">
+<section id="la-pythonicidad-al-palo"><h3><a class="toc-backref" href="#toc-entry-19" role="doc-backlink">La pythonicidad al palo</a></h3>
+<p><em>Martín Gaitán</em></p>
+<blockquote>
+<p>¿Qué significa que un código sea "pythónico"?
+Una charla sobre python idiomático: características de este lenguaje para expresar de forma simple, elegante y potente.</p>
+</blockquote>
+<dl class="field-list simple">
+<dt>diapositivas<span class="colon">:</span>
+</dt>
+<dd>
+<p><a class="reference external" href="http://mgaitan.github.com/pythonicidad/">http://mgaitan.github.com/pythonicidad/</a></p>
+</dd>
+<dt>repo<span class="colon">:</span>
+</dt>
+<dd>
+<p><a class="reference external" href="http://github.com/mgaitan/pythonicidad/">http://github.com/mgaitan/pythonicidad/</a></p>
+</dd>
+<dt>evento<span class="colon">:</span>
+</dt>
+<dd>
+<p><a class="reference external" href="http://ar.pycon.org/2013">PyCon Argentina 2013</a></p>
+</dd>
+<dt>fecha<span class="colon">:</span>
+</dt>
+<dd>
+<p>Viernes 25 de octubre de 2013</p>
+</dd>
+<dt>lugar<span class="colon">:</span>
+</dt>
+<dd>
+<p>Rosario, Argentina</p>
+</dd>
+</dl></section><hr class="docutils">
+<section id="myhdl-de-python-al-silicio"><h3><a class="toc-backref" href="#toc-entry-20" role="doc-backlink">MyHDL, de Python al silicio</a></h3>
+<p><em>Martín Gaitán</em></p>
+<blockquote>
+<p>En el mundo del hardware se usan lenguajes de descripción
+como VHDL o Verilog. MyHDL es un paquete que permite utilizar
+la potencia de alto nivel de Python como reemplazo (o abstracción)
+de un lenguaje de descripción de hardware tradicional.</p>
+<p>¿Imaginaste alguna vez diseñar tu propio procesador? O implementar
+un sistema de embebido en un chip? Esas cosas requieren lidiar con
+los lenguajes HDL (hardware description language), que si bien no
+son de bajo nivel como un ensamblador, tienen sitaxis y mañas complejas.
+No es para menos:  esos "programas" se sintetizan y se vuelven
+los planos internos de un chip, por ejemplo una FPGA.</p>
+<p>MyHDL permite reemplazarlos programando en Python, pudiendo simular
+y hacer test de manera mucho más fácil. Incluso se puede obtener
+código en lenguajes HDL sintetizables y hacer tu sueño
+realidad: ¡hacer hardware con Python!.</p>
+</blockquote>
+<dl class="field-list simple">
+<dt>diapositivas<span class="colon">:</span>
+</dt>
+<dd>
+<p><a class="reference external" href="http://mgaitan.github.com/myhdl-talk/">http://mgaitan.github.com/myhdl-talk/</a></p>
+</dd>
+<dt>repo<span class="colon">:</span>
+</dt>
+<dd>
+<p><a class="reference external" href="http://github.com/mgaitan/myhdl-talk/">http://github.com/mgaitan/myhdl-talk/</a></p>
+</dd>
+</dl></section><section id="curso-programacion-en-python"><h3><a class="toc-backref" href="#toc-entry-21" role="doc-backlink">Curso programación en Python</a></h3>
+<p><a class="reference external" href="../marianoreingart">MarianoReingart</a></p>
+<p><strong>Slides:</strong></p>
+<ul class="simple">
+<li><p><a class="reference external" href="http://docs.google.com/present/view?id=dd9bm82g_45qbbqv2d7">Parte 1</a>: Introducción a Python: ¿Qué es Python?; ¿Por qué Python?; Instalación; Herramientas Básicas; "Hola Mundo"; El Intérprete; Estructura Básica; Tipos de datos simples; Tipos de datos compuestos; Control de Flujo; Funciones, Clases y Objetos; Excepciones; Módulos, paquetes y espacios de nombre; Archivos.</p></li>
+<li><p><a class="reference external" href="http://docs.google.com/present/view?id=dd9bm82g_46dpkb6bgs">Parte 2</a>: Introducción a la Biblioteca Estándar: sys, time, re, StringIO, datetime, decimal, random, math, os, subprocess, threading, processing, socket, asyncore, urllib2, httplib, BaseHTTPServer, HTMLParser, base64, json, smtplib, email, poplib, imaplib, smtpd, ftplib, csv, xml.dom.minidom, struct, zlib, zipfile, logging, pdb, doctest, unittest .</p></li>
+<li><p><a class="reference external" href="http://docs.google.com/present/view?id=dd9bm82g_62cb37hphn">Parte 3</a>: Persistencia y Bases de Datos: Pickle, Shelve, <a class="reference external" href="../dbapi">DbApi</a>: <a class="reference external" href="http://www.sqlite.org/">SQLite</a>, <a class="reference external" href="http://www.mysql.com/">MySql</a>, <a class="reference external" href="http://www.postgresql.org/">PostgreSql</a>, <a class="reference external" href="../plpython">PlPython</a>. Ejemplo práctico: Universidad.</p></li>
+<li><p><a class="reference external" href="http://docs.google.com/present/view?id=dd9bm82g_65gg3vxsvf">Parte 4</a>: Mapeadores Objeto-Relacional: <a class="reference external" href="http://www.sqlobject.org/">SQLObject</a>, <a class="reference external" href="http://www.sqlalchemy.org/">SQlAlchemy</a>, <a class="reference external" href="http://elixir.ematia.de/trac/wiki">Elixir</a>. Ejemplo práctico: Nuestro propio ORM simple.</p></li>
+<li><p><a class="reference external" href="http://docs.google.com/present/view?id=dd9bm82g_86kxmxfsdp">Parte 5</a>: Introducción a extensiones avanzadas: PIL, <a class="reference external" href="http://www.reportlab.com/">ReportLab</a>, PyFPDF, PyOpenGL, <a class="reference external" href="http://www.pygame.org/">PyGame</a>, <a class="reference external" href="http://www.crummy.com/software/BeautifulSoup/">BeautifulSoup</a>, Win32, <a class="reference external" href="http://www.py2exe.org/">Py2Exe</a> .</p></li>
+<li><p><a class="reference external" href="http://docs.google.com/present/view?id=dd9bm82g_102cnn45kd4">Parte 6</a>: Interfases gráficas del Usuario (GUI): <a class="reference external" href="../pythoncard">PythonCard</a>, WxPython .</p></li>
+<li><p><a class="reference external" href="http://docs.google.com/present/view?id=dd9bm82g_112fz9kfmzq">Parte 7a</a>: Desarrollo WEB con Django.</p></li>
+<li><p><a class="reference external" href="http://docs.google.com/present/view?id=dd9bm82g_404c5v965c6">Parte 7b</a>: Desarrollo WEB con <a class="reference external" href="../web2py">Web2Py</a> .</p></li>
+<li><p><a class="reference external" href="http://docs.google.com/present/view?id=dd9bm82g_125fp6377hd">Parte 8</a>: Resúmen Python 3000.</p></li>
+</ul></section><hr class="docutils">
+<section id="pythonificandose-desde-net"><h3><a class="toc-backref" href="#toc-entry-22" role="doc-backlink">Pythonificandose desde .Net</a></h3>
+<p><a class="reference external" href="../juanfisanotti">JuanFisanotti</a></p>
+<p><strong>Slides:</strong> <a class="reference external" href="http://docs.google.com/present/view?id=ddfg8qh9_92c6996nhh">http://docs.google.com/present/view?id=ddfg8qh9_92c6996nhh</a></p>
+</section><hr class="docutils">
+<section id="depuracion-y-defragmentacion-de-memoria-en-python"><h3><a class="toc-backref" href="#toc-entry-23" role="doc-backlink">Depuración y defragmentación de memoria en Python</a></h3>
+<p><em>Claudio Freire</em></p>
+<p><strong>Slides:</strong>  (OpenOffice)</p>
+</section><hr class="docutils">
+<section id="python-a-los-bifes"><h3><a class="toc-backref" href="#toc-entry-24" role="doc-backlink">Python a los bifes</a></h3>
+<p><a class="reference external" href="../martingaitan">MartinGaitan</a></p>
+<p>"Ejemplos de aplicación de Python en una carrera de Ingeniería"</p>
+<p><strong>Slides:</strong>  <a class="reference external" href="http://lab.nqnwebs.com/charlas/alosbifes/python_a_los_bifes.html">http://lab.nqnwebs.com/charlas/alosbifes/python_a_los_bifes.html</a> <strong>Fuentes:</strong>  <a class="reference external" href="http://nqnwebs.com/IMG/gz/alosbifestardc6c.gz">http://nqnwebs.com/IMG/gz/alosbifestardc6c.gz</a> <strong>Post:</strong>  <a class="reference external" href="http://nqnwebs.com/blog/article/charla-python-a-los-bifes">http://nqnwebs.com/blog/article/charla-python-a-los-bifes</a></p>
+</section><hr class="docutils">
+<section id="extendiendo-aplicaciones-en-c-y-c-con-python"><h3><a class="toc-backref" href="#toc-entry-25" role="doc-backlink">Extendiendo aplicaciones en C y C++ con Python</a></h3>
+<p><a class="reference external" href="../angelfreire">AngelFreire</a></p>
+<p>"Extender aplicaciones desarrolladas en C o C++ utilizando la API que CPython provee."</p>
+<p><strong>Slides:</strong>  <a class="reference external" href="http://github.com/cuerty/eacpy/raw/master/eacpy.odp">http://github.com/cuerty/eacpy/raw/master/eacpy.odp</a> <strong>Fuentes:</strong>  <a class="reference external" href="http://github.com/cuerty/eacpy">http://github.com/cuerty/eacpy</a></p>
+</section><hr class="docutils">
+<section id="paralelismo-en-python"><h3><a class="toc-backref" href="#toc-entry-26" role="doc-backlink">Paralelismo en Python</a></h3>
+<p><em>Claudio Freire</em></p>
+<p><strong>Slides:</strong>  (OpenOffice)</p>
+</section><hr class="docutils">
+<section id="caching-para-hordas-y-estampidas"><h3><a class="toc-backref" href="#toc-entry-27" role="doc-backlink">Caching para hordas y estampidas</a></h3>
+<p><em>Claudio Freire</em></p>
+<p><strong>Slides:</strong>  (OpenOffice)</p>
+</section></section><section id="pyconar2010"><h2><a class="toc-backref" href="#toc-entry-28" role="doc-backlink">PyConAr2010</a></h2>
+<section id="mini-introduccion-a-django"><h3><a class="toc-backref" href="#toc-entry-29" role="doc-backlink">Mini Introducción a Django</a></h3>
+<p><a class="reference external" href="../juanfisanotti">JuanFisanotti</a></p>
+<p><strong>Slides:</strong></p>
+</section><hr class="docutils">
+<section id="pycasa-inside-pygtk-usando-glade"><h3><a class="toc-backref" href="#toc-entry-30" role="doc-backlink">Pycasa Inside: PyGTK usando Glade</a></h3>
+<p>NataliaBidart</p>
+<p><strong>Slides:</strong></p>
+</section><hr class="docutils">
+<section id="mythbusters-tests"><h3><a class="toc-backref" href="#toc-entry-31" role="doc-backlink">Mythbusters: Tests</a></h3>
+<p>NataliaBidart</p>
+<p><strong>Slides:</strong></p>
+<p><strong>Slides "Test runners":</strong></p>
+</section><hr class="docutils">
+<section id="entendiendo-decoradores-en-python"><h3><a class="toc-backref" href="#toc-entry-32" role="doc-backlink">Entendiendo decoradores en Python</a></h3>
+<p><a class="reference external" href="../juanjoconti">JuanjoConti</a></p>
+<p><strong>Slides:</strong></p>
+</section><hr class="docutils">
+<section id="cyclope-3-un-cms-libre-desarrollado-en-python-django"><h3><a class="toc-backref" href="#toc-entry-33" role="doc-backlink">Cyclope 3: un CMS libre desarrollado en Python/Django</a></h3>
+<p><a class="reference external" href="../nicoechaniz">NicoEchaniz</a></p>
+<p><a class="reference external" href="http://nicoechaniz.com.ar/charla_pycon2010_s5/">Slides_echaniz</a> <a class="reference external" href="http://cyclope3.codigosur.org/movieclip/charla-en-pycon2010/">Video</a></p>
+</section><hr class="docutils">
+<section id="programando-python-en-android"><h3><a class="toc-backref" href="#toc-entry-34" role="doc-backlink">Programando Python en Android</a></h3>
+<p>MatiasBordese</p>
+<p><strong>Slides:</strong></p>
+</section><hr class="docutils">
+<section id="behind-the-scenes-python-bytecode"><h3><a class="toc-backref" href="#toc-entry-35" role="doc-backlink">Behind the scenes: Python Bytecode</a></h3>
+<p>MatiasBordese</p>
+<p><strong>Slides:</strong></p>
+</section><hr class="docutils">
+<section id="introduccion-a-wxpython"><h3><a class="toc-backref" href="#toc-entry-36" role="doc-backlink">Introducción a wxPython</a></h3>
+<p><a class="reference external" href="../marcelofernandez">MarceloFernández</a></p>
+<p><strong>Slides ODP:</strong>
+<strong>Slides PDF:</strong>
+<strong>Código de ejemplos:</strong></p>
+</section></section><section id="pyday-cordoba-2011"><h2><a class="toc-backref" href="#toc-entry-37" role="doc-backlink">PyDay Córdoba 2011</a></h2>
+<section id="myhdl-de-python-al-silicio-1"><h3><a class="toc-backref" href="#toc-entry-38" role="doc-backlink">MyHDL, de Python al Silicio</a></h3>
+<p><a class="reference external" href="../martingaitan">MartinGaitan</a></p>
+<ul class="simple">
+<li><p><a class="reference external" href="http://nqnwebs.github.com/myhdl-talk">Slides</a></p></li>
+<li><p><a class="reference external" href="https://github.com/nqnwebs/myhdl-talk">Fuentes y ejemplos</a> (fork me!)</p></li>
+</ul></section><hr class="docutils">
+<section id="pycamp-orm-haciendo-facil-sqlalchemy"><h3><a class="toc-backref" href="#toc-entry-39" role="doc-backlink">pycamp.orm, haciendo <em>facil</em> sqlalchemy</a></h3>
+<p><a class="reference external" href="../emilianodallaverdemarcozzi">EmilianoDallaVerdeMarcozzi</a></p>
+<ul class="simple">
+<li><p><a class="reference external" href="http://xip.piluex.com/PYCAMP_ORM.pdf">Slides</a></p></li>
+<li><p><a class="reference external" href="https://bitbucket.org/edvm/pycamp.orm/overview">Fuente</a></p></li>
+<li><p><a class="reference external" href="http://python.org.ar/pyar/PycampORM">Video</a></p></li>
+</ul></section><hr class="docutils">
+<section id="introduccion-a-pyqt"><h3><a class="toc-backref" href="#toc-entry-40" role="doc-backlink">Introducción a PyQt</a></h3>
+<p><a class="reference external" href="../diegosarmentero">DiegoSarmentero</a></p>
+<ul class="simple">
+<li><p><a class="reference external" href="http://wingedbox.com/downloads/14009-Intro-PyQt.pdf">Slides</a></p></li>
+<li><p><a class="reference external" href="http://wingedbox.com/downloads/14013-Ejemplo-Intro-PyQt.zip">Ejemplos</a></p></li>
+<li><p><a class="reference external" href="http://youtu.be/EwGnbpTyaMQ">Fragmento de Video de la Charla (Ejemplo)</a></p></li>
+</ul></section><hr class="docutils">
+<section id="desarrollando-aplicaciones-desktop-con-ui-web"><h3><a class="toc-backref" href="#toc-entry-41" role="doc-backlink">Desarrollando Aplicaciones Desktop con UI Web</a></h3>
+<p><a class="reference external" href="../diegosarmentero">DiegoSarmentero</a></p>
+<ul class="simple">
+<li><p><a class="reference external" href="http://wingedbox.com/downloads/14012-Desarrollando-Aplicaciones-Desktop-con-UI-Web.pdf">Slides</a></p></li>
+<li><p><a class="reference external" href="http://wingedbox.com/downloads/14014-Ejemplo-Ui-Desktop-Web.zip">Ejemplos</a></p></li>
+<li><p><a class="reference external" href="http://youtu.be/J5qgZx6VHhw">Fragmento de Video de la Charla (Ejemplo)</a></p></li>
+</ul></section></section><hr class="docutils">
+<section id="pyconar-rafaela-2014"><h2><a class="toc-backref" href="#toc-entry-42" role="doc-backlink">PyConAr Rafaela 2014</a></h2>
+<p>Se está solicitado por mail a los disertantes que agreguen el material de sus charlas. Si alguna charla todavía no está, puede ir apareciendo en estos días. Si sigue sin aparecer, no dudes en preguntarnos! fisa (<a class="reference external" href="mailto:fisadev@gmail.com">fisadev@gmail.com</a>) se está encargando del tema.</p>
+<section id="ansible-la-batuta-de-python"><h3><a class="toc-backref" href="#toc-entry-43" role="doc-backlink">Ansible, la batuta de Python</a></h3>
+<ul class="simple">
+<li><p>Disertante: <a class="reference external" href="../manuelquinones">ManuelQuiñones</a></p></li>
+<li><p>Descripción: Ansible (ansible.com) es una gran herramienta de automatización hecha en Python. No importa que manejes uno o miles de servidores, siempre es necesario automatizar el deploy de tu aplicación web o las configuraciones del sistema. Ansible tiene un encare declarativo muy simple, que va más allá de la automatización por scripts "imperativa" de Fabric y otras alternativas. En mi trabajo actual estoy a cargo de más de mil servidores, y una de mis herramientas preferidas es Ansible. Enterate porqué en esta charla.</p></li>
+<li><p>Slides: <a class="reference external" href="http://manuq.github.io/slides-charla-ansible/">http://manuq.github.io/slides-charla-ansible/</a></p></li>
+</ul></section><hr class="docutils">
+<section id="ruby-para-programadores-python"><h3><a class="toc-backref" href="#toc-entry-44" role="doc-backlink">Ruby para programadores Python</a></h3>
+<p><a class="reference external" href="../juanjoconti">JuanjoConti</a></p>
+<ul class="simple">
+<li><p><a class="reference external" href="http://nbviewer.ipython.org/github/jjconti/aprendiendo-ruby/blob/PyConAr2014-with-output/RubyDesdePython.ipynb">Slides</a></p></li>
+</ul></section><hr class="docutils">
+<section id="netflix-en-10-lineas-mulpycast"><h3><a class="toc-backref" href="#toc-entry-45" role="doc-backlink">Netflix en 10 líneas - Mulpycast</a></h3>
+<p><strong>Claudio Freire</strong></p>
+<p>Perdón por el click-bait :-D No es una librería. Ni una biblioteca. Es ip multicast "para casi todos". Suena complicado, suena difícil, pero con un poco de buena suerte, y antigravity, se podrá ver en ~4 línas más imports un ejemplo funcional de multicast. Y con un poco más de líneas... de todo. Pytube? check. DroPyBox? check. Porrent (no es porro, es "torrent")? Check. Ip multicast es una herramienta genial para distribución de datos en LANs, WiFi, u overlays. Seh, vamos a ver un poco de overlays, IGMP y todo lo necesario para realmente enteder cómo funciona esto. En ipv4 (perdón, perdón).</p>
+<ul class="simple">
+<li><p>Slides: <a class="reference external" href="https://drive.google.com/file/d/0By78YYAMpgAUbHpKZTNtZ0dqYTA/view?usp=sharing">odp</a> <a class="reference external" href="https://drive.google.com/file/d/0By78YYAMpgAUVk9CODZmWHR1dG8/view?usp=sharing">pdf</a> - <a class="reference external" href="https://drive.google.com/folderview?id=0By78YYAMpgAUUzR1UGZPSUR0djg&amp;usp=sharing">Ejemplos, fuentes y mucho más</a></p></li>
+</ul></section><hr class="docutils">
+<section id="rip-rest-in-python-3"><h3><a class="toc-backref" href="#toc-entry-46" role="doc-backlink">RIP - Rest in Python 3</a></h3>
+<p>Speakers: Cynthia Monastirsky, Juan Carizza, Emiliano Dalla Verde Marcozzi. Descripción: Cada vez es más común que existan diferentes servicios 'en la nube', que mediante una 'interface' nos permiten acceder y/o modificar los datos que procesan de una forma programática. Esto posibilita una abstracción sobre los lenguajes de programación en los que están desarrollados los sistemas, permitiendoles compartir información. Esta charla quiere ser una introducción a como poder compartir los datos que procesamos en nuestras aplicaciones, con aplicaciones de terceros, creando API's REST. - Slides: <a class="reference external" href="https://docs.google.com/presentation/d/1xXrZQy3QtIu5n5Qz4IEw0lD8q83qoEq6ZqsHR2ixqvI/edit?usp=sharing">https://docs.google.com/presentation/d/1xXrZQy3QtIu5n5Qz4IEw0lD8q83qoEq6ZqsHR2ixqvI/edit?usp=sharing</a></p>
+</section><hr class="docutils">
+<section id="argentina-en-python-como-matar-el-sueno-de-todo-programador-en-2-minutos"><h3><a class="toc-backref" href="#toc-entry-47" role="doc-backlink">Argentina en Python: cómo matar el sueño de todo programador en 2 minutos</a></h3>
+<ul class="simple">
+<li><p>Disertante: <a class="reference external" href="../miembros/humitos">ManuelKaufmann</a></p></li>
+<li><p>Descripción: <em>En Abril de 2014 empecé un proyecto llamado "Argentina en Python" con la idea de recorrer el país dando charlas de programación utilizando el lenguaje Python a quiénes estuvieran interesados en aprender a programar. También, de esta forma, estaría devolviendo de alguna manera el conocimiento que obtuve libremente de la comunidad de Python durante todos estos años. La primera etapa del viaje duró 3 meses aproximadamente, visité 5 provincias y cerca de 10 ciudades. La segunda etapa comienza a principios de Septiembre y finaliza en la</em> PyConAr <em>2014 en Rafaela. En esta charla se contará un poco sobre la historia del proyecto, sus inicios, su desarrollo y la experiencia vivida durante este tiempo, mencionando los pros y contra de viajar y trabajar como programador, como así también las experiencias en los cursos y charlas de Python.</em></p></li>
+<li><p>Slides: <a class="reference external" href="http://elblogdehumitos.com.ar/posts/python-conference-argentina-2014/argentina-en-python_pyconar2014_humitos.pdf">http://elblogdehumitos.com.ar/posts/python-conference-argentina-2014/argentina-en-python_pyconar2014_humitos.pdf</a></p></li>
+</ul></section><hr class="docutils">
+<section id="django-security-quick-wins"><h3><a class="toc-backref" href="#toc-entry-48" role="doc-backlink">Django Security Quick Wins</a></h3>
+<ul class="simple">
+<li><p>Slides 1 de 2: <a class="reference external" href="https://speakerdeck.com/andresriancho/djangomeetup-buenos-aires-django-security-qui">https://speakerdeck.com/andresriancho/djangomeetup-buenos-aires-django-security-qui</a></p></li>
+<li><p>Slides 2 de 2: <a class="reference external" href="https://speakerdeck.com/andresriancho/djangomeetup-buenos-aires-django-security-quick-wins-ii">https://speakerdeck.com/andresriancho/djangomeetup-buenos-aires-django-security-quick-wins-ii</a></p></li>
+</ul></section><section id="introduccion-a-python-2"><h3><a class="toc-backref" href="#toc-entry-49" role="doc-backlink">Introducción a Python</a></h3>
+<ul class="simple">
+<li><p>Disertante: Facundo Batista</p></li>
+<li><p>Descripción: Esta charla se orienta a programadores, principiantes o avanzados, que desean conocer este lenguaje, de manera de aprender sus principios básicos.  Se presentan las características generales del lenguaje y su biblioteca estándar, su parte social, y se recorren los tipos de datos, los controles de flujo, y las diversas maneras de encapsular código, terminando con algunos detalles que muestran la expresividad, sencillez y poder de Python.</p></li>
+<li><p>Slides: <a class="reference external" href="http://www.taniquetil.com.ar/homedevel/presents/intropython.odp">http://www.taniquetil.com.ar/homedevel/presents/intropython.odp</a></p></li>
+</ul></section><hr class="docutils">
+<section id="como-debuguear-codigo-python"><h3><a class="toc-backref" href="#toc-entry-50" role="doc-backlink">Cómo debuguear código Python</a></h3>
+<ul class="simple">
+<li><p>Disertante: Facundo Batista</p></li>
+<li><p>Descripción: Obviamente, al escribir código, no siempre funciona al primer intento. A veces corregirlo es fácil, en otras oportunidades encontrar qué es lo que no está bien lleva tiempo. La charla es una serie de consejos prácticos (y ejemplos en vivo) sobre cómo debuguear código Python. Aplicando estos consejos, el tiempo de depuración del código se reduce notablemente, lo cual incrementa nuestra productividad.</p></li>
+<li><p>Slides: <a class="reference external" href="http://www.taniquetil.com.ar/homedevel/presents/debug/debugpython.odp">http://www.taniquetil.com.ar/homedevel/presents/debug/debugpython.odp</a></p></li>
+</ul></section><hr class="docutils">
+<section id="como-los-logs-me-salvaron-el-alma"><h3><a class="toc-backref" href="#toc-entry-51" role="doc-backlink">Cómo los logs me salvaron el alma</a></h3>
+<ul class="simple">
+<li><p>Disertante: Facundo Batista</p></li>
+<li><p>Descripción: Los logs son fáciles de hacer, pero también los debemos hacer útiles. Esta charla es una colección de recomendaciones para aprender a loguear de forma eficiente y útil, a partir de la experiencia del uso de logging en un producto utilizado por millones de personas en distintos entornos.</p></li>
+<li><p>Slides: <a class="reference external" href="http://www.taniquetil.com.ar/homedevel/presents/logs.odp">http://www.taniquetil.com.ar/homedevel/presents/logs.odp</a></p></li>
+</ul></section><hr class="docutils">
+<section id="taller-introduccion-a-pilas"><h3><a class="toc-backref" href="#toc-entry-52" role="doc-backlink">Taller: Introducción a Pilas</a></h3>
+<ul class="simple">
+<li><p>Disertante: Hugo Ruscitti</p></li>
+<li><p>Slides: <a class="reference external" href="https://speakerdeck.com/hugoruscitti/taller-introduccion-a-pilas-por-hugo-ruscitti">https://speakerdeck.com/hugoruscitti/taller-introduccion-a-pilas-por-hugo-ruscitti</a></p></li>
+</ul></section><hr class="docutils">
+<section id="tu-propio-cliente-de-torrent-streaming-en-python"><h3><a class="toc-backref" href="#toc-entry-53" role="doc-backlink">Tu propio cliente de Torrent Streaming en Python</a></h3>
+<ul class="simple">
+<li><p>Disertantes: Felipe Lerena, Nicolás Demarchi</p></li>
+<li><p>Descripción: Esta charla intenta explicarle al asistente como crear su propio cliente de torrent streaming hecho 100% en Python basado en la experiencia de desarrollo de touchandgo. <a class="reference external" href="https://github.com/touchandgo-devs/touchandgo">https://github.com/touchandgo-devs/touchandgo</a></p></li>
+<li><p>Slides: <a class="reference external" href="http://bit.ly/pyconar">http://bit.ly/pyconar</a></p></li>
+</ul></section><hr class="docutils">
+<section id="prediciendo-el-mundial-con-inteligencia-artificial"><h3><a class="toc-backref" href="#toc-entry-54" role="doc-backlink">Prediciendo el mundial con inteligencia artificial</a></h3>
+<ul class="simple">
+<li><p>Disertante: Juan Pedro Fisanotti</p></li>
+<li><p>Descripción: La idea de esta charla es transmitir algunos conceptos básicos de machine learning (una de las ramas más importantes de la inteligencia artificial), mostrando cómo de forma sencilla pueden ser aprovechados para resolver un problema concreto: predecir resultados de partidos de fútbol del mundial. La primer parte de la charla expone los conceptos básicos que vamos a aplicar, y la segunda parte los muestra aplicados en el ejemplo concreto, incluyendo su código implementado en Python.</p></li>
+<li><p>Slides: (con links a fuentes al final) <a class="reference external" href="http://nbviewer.ipython.org/github/fisadev/talks/blob/master/machine-learning-intro-with-worldcup/machine-learning-intro-worldcup.ipynb">http://nbviewer.ipython.org/github/fisadev/talks/blob/master/machine-learning-intro-with-worldcup/machine-learning-intro-worldcup.ipynb</a></p></li>
+</ul></section><hr class="docutils">
+<section id="speed-is-a-feature"><h3><a class="toc-backref" href="#toc-entry-55" role="doc-backlink">Speed is a feature</a></h3>
+<ul class="simple">
+<li><p>Disertantes: PabloMouzo, Martin Blech</p></li>
+<li><p>Descripción: A mystical journey through Django performance optimization techniques, tools and gotchas.</p></li>
+<li><p>Slides: (con links a fuentes al final) <a class="reference external" href="http://www.slideshare.net/PabloMouzo/speed-is-a-feature-pyconar-2014">http://www.slideshare.net/PabloMouzo/speed-is-a-feature-pyconar-2014</a></p></li>
+</ul></section><hr class="docutils">
+<section id="trabajando-de-forma-asincronica-en-django-python"><h3><a class="toc-backref" href="#toc-entry-56" role="doc-backlink">Trabajando de forma asincrónica en Django/Python</a></h3>
+<ul class="simple">
+<li><p>Disertante: Martin Alderete</p></li>
+<li><p>Descripción: Introducción a los sistemas distribuidos con Python, Django y brokers de mensajes. En la charla analizaremos distintas formas de separar el "trabajo pesado" en Django/Python utilizando procesos asíncronos, para esto se hará enfasis en Celery y se mostrarán sus característica, ventajas y usos avanzados. También se comentarán soluciones a problemas comunes usando Celery. Por último se dará una introducción al procesamiento asíncrono en la plataforma cloud de Google appengine usando la API de taskqueue.</p></li>
+<li><p>Slides: <a class="reference external" href="https://drive.google.com/file/d/0B53_jZFtizVWYWhhVlQtNFltbVU/view?usp=sharing">pdf</a></p></li>
+</ul></section><hr class="docutils">
+<section id="el-nino-tiene-tests-y-no-hay-naranja"><h3><a class="toc-backref" href="#toc-entry-57" role="doc-backlink">El niño tiene tests (y no hay naranja)</a></h3>
+<ul class="simple">
+<li><p>Disertantes: Natalia Bidart, Matías Bordese</p></li>
+<li><p>Descripción: Esta charla resume nuestra experiencia como docentes del taller de programación de Algoritmos y Estructuras de Datos II en la Universidad Nacional de Córdoba, y las herramientas que desarrollamos (en Python, por supuesto) para facilitar nuestra tarea y al mismo tiempo, ayudar a los estudiantes a escribir código C sin errores o al menos detectarlos a tiempo. Se presentan las metodologías y herramientas implementadas para corregir y hacer devoluciones a los alumnos de sus proyectos escritos en C. Entre ellas, mostramos a nuestro mayordomo Jaime, un sitio web Django, que se encarga de correr unit tests escritos en Python (ejercitando el código C vía ctypes) y reportar los resultados.</p></li>
+<li><p>Slides: <a class="reference external" href="http://matias.bordese.com.ar/talks/pycon/jaime-pycon2014.pdf">pdf</a></p></li>
+</ul></section><hr class="docutils">
+<section id="robotica-para-gente-de-verdad"><h3><a class="toc-backref" href="#toc-entry-58" role="doc-backlink">¿Robótica para gente de verdad?</a></h3>
+<aside class="system-message"><p class="system-message-title">System Message: WARNING/2 (<span class="docutils literal">&lt;string&gt;</span>, line 641)</p>
+<p>Title underline too short.</p>
+<pre class="literal-block">¿Robótica para gente de verdad?
+------------------------------</pre>
+</aside><ul class="simple">
+<li><p>Disertante: Diego Ramirez</p></li>
+<li><p>Descripcion: Breve repaso de la problemática educativa desde la visión de developers que podemos ayudar. Mostramos además el stack con el que construimos a nuestra mascota robótica.</p></li>
+<li><p>Slides: <a class="reference external" href="http://www.slideshare.net/DiegoRamirez100/robtica-para-gente-de-verdad">http://www.slideshare.net/DiegoRamirez100/robtica-para-gente-de-verdad</a></p></li>
+</ul></section></section><hr class="docutils">
+<section id="lighting-talks-de-pyconar-2014"><h2><a class="toc-backref" href="#toc-entry-59" role="doc-backlink">Lighting Talks de PyConAr 2014</a></h2>
+<section id="pysenteishon-controla-tus-slides-desde-tu-smartphone"><h3><a class="toc-backref" href="#toc-entry-60" role="doc-backlink">Pysenteishon - Controla tus slides desde tu smartphone</a></h3>
+<p><a class="reference external" href="https://docs.google.com/presentation/d/1O61fDE2hQ58Vyzi9m751GYn-XpnnBYTjFSOlgwxqCLA/edit?usp=sharing">https://docs.google.com/presentation/d/1O61fDE2hQ58Vyzi9m751GYn-XpnnBYTjFSOlgwxqCLA/edit?usp=sharing</a></p>
+</section><hr class="docutils">
+<section id="nueva-web-de-pyar"><h3><a class="toc-backref" href="#toc-entry-61" role="doc-backlink">Nueva web de PyAr</a></h3>
+<p><a class="reference external" href="https://docs.google.com/presentation/d/1iL6xhUzGeguvYcGa5DX23egxWEziJKLa_Opo3j28A0A/edit?usp=sharing">https://docs.google.com/presentation/d/1iL6xhUzGeguvYcGa5DX23egxWEziJKLa_Opo3j28A0A/edit?usp=sharing</a></p>
+</section><hr class="docutils">
+<section id="demiurge-shaping-html-chaos"><h3><a class="toc-backref" href="#toc-entry-62" role="doc-backlink">demiurge - Shaping HTML chaos</a></h3>
+<p><a class="reference external" href="https://docs.google.com/presentation/d/1dsNcM590BxoIaTViGRvGeylYg82n-UYOk4hVJ33PjYk/edit?usp=sharing">https://docs.google.com/presentation/d/1dsNcM590BxoIaTViGRvGeylYg82n-UYOk4hVJ33PjYk/edit?usp=sharing</a></p>
+</section></section><hr class="docutils">
+<section id="pyconar-mendoza-2015"><h2><a class="toc-backref" href="#toc-entry-63" role="doc-backlink">PyConAr Mendoza 2015</a></h2>
+<p>Si alguna charla no aparece, no dudes en solicitar al autor que la incluya a través de la lista.</p>
+<section id="respondiendo-en-milisegundos"><h3><a class="toc-backref" href="#toc-entry-64" role="doc-backlink">Respondiendo en milisegundos</a></h3>
+<p><strong>Claudio Freire</strong></p>
+<p>Si son como yo, usan la computadora para solucionar problemas complejos, pero les impacienta cuando tarda más de un minuto en responder. Los usuarios son así también. En esta charla vamos a ver cómo obtener respuestas en milisegundos en vez de minutos u horas, pero claro, con un truco: cacheando. La mayoría de los procesos que hay en un sistema útil son todos cacheables. Vamos a aprender a implementar arquitecturas complejas para solucionar problemas complejos.</p>
+<ul class="simple">
+<li>
+<p>Slides (CC-BY-SA):</p>
+<ul>
+<li><p>odp: <a class="reference external" href="https://drive.google.com/file/d/0By78YYAMpgAUamh1cVUyTUFFRjQ/view?usp=sharing">respondiendo_en_ms.odp</a></p></li>
+<li><p>pdf: <a class="reference external" href="https://drive.google.com/file/d/0By78YYAMpgAUZDNOTFM3RUJaOGc/view?usp=sharing">respondiendo_en_ms.pdf</a></p></li>
+</ul>
+</li>
+</ul></section><hr class="docutils">
+<section id="manejando-220-000-qps-sin-despeinarse"><h3><a class="toc-backref" href="#toc-entry-65" role="doc-backlink">Manejando 220.000 QPS sin despeinarse</a></h3>
+<p><strong>Claudio Freire</strong>, <strong>Patricio Rocca Huget</strong></p>
+<p>Describe la arquitectura que permite que Jampp maneje 220.000 requests por segundo de forma eficiente y escalable.</p>
+<ul class="simple">
+<li>
+<p>Slides (CC-BY-SA):</p>
+<ul>
+<li><p>odp: <a class="reference external" href="https://drive.google.com/file/d/0By78YYAMpgAUTUl2dkdMU1g4TWM/view?usp=sharing">manejando_220kqps.odp</a></p></li>
+<li><p>pdf: <a class="reference external" href="https://drive.google.com/file/d/0By78YYAMpgAUcm1OOWVwM1d1ZDQ/view?usp=sharing">manejando_220kqps.pdf</a></p></li>
+</ul>
+</li>
+</ul></section><hr class="docutils">
+<section id="missing-python"><h3><a class="toc-backref" href="#toc-entry-66" role="doc-backlink">Missing Python</a></h3>
+</section><section id="que-extrane-de-python"><h3><a class="toc-backref" href="#toc-entry-67" role="doc-backlink">¿Qué extrañé de Python?</a></h3>
+<p><strong>Juanjo Conti</strong></p>
+<p>Qué extrañé de Python en los últimos 4 lenguajes en los que trabajé: PHP, Ruby, Swift, Clojure. PHP: el feo, Ruby: el gemelo malvado, Swift: el nuevo, Clojure: el raro. Pasaron varios años ya desde la última vez que utilicé Python profesionalmente. Desde aquel entonces, transité diversos caminos y aprendí nuevas tecnologías. Pero, como pasa con la primera novia, no puedo dejar de compararlo con cada nuevo lenguaje con el que trabajo. Analizo y comparo características de los distintos lenguajes.</p>
+<ul class="simple">
+<li><p>Slides: www.juanjoconti.com/charlas/missing-python/</p></li>
+</ul></section><hr class="docutils">
+<section id="django-orm-to-win"><h3><a class="toc-backref" href="#toc-entry-68" role="doc-backlink">Django ORM to win!</a></h3>
+<p><strong>Martin Alderete</strong></p>
+<p>Veremos como se comporta el ORM de Django con bases de datos grandes. Para esto nos focalizaremos en como funciona el ORM de Django, describir sus componentes y funcionalidades con el fin de generar consultas mas precisas y complejas para disminuir problemas de performance. Tambien se discutira sobre el uso de "managers" personalizados y consejos de escalabilidad con Django como el uso de multiples bases de datos.</p>
+<ul class="simple">
+<li><p>Slides: <a class="reference external" href="https://speakerdeck.com/malderete/django-orm-to-win">django_orm_to_win.pdf</a></p></li>
+</ul></section><hr class="docutils">
+<section id="asi-que-tu-piensas-que-puedes-pdbear"><h3><a class="toc-backref" href="#toc-entry-69" role="doc-backlink">¿Así que tú piensas qué puedes PDBear?</a></h3>
+<aside class="system-message"><p class="system-message-title">System Message: WARNING/2 (<span class="docutils literal">&lt;string&gt;</span>, line 737)</p>
+<p>Title underline too short.</p>
+<pre class="literal-block">¿Así que tú piensas qué puedes PDBear?
+-------------------------------------</pre>
+</aside><p><strong>Emiliano Dalla Verde Marcozzi</strong></p>
+<p>El debugger de Python 'pdb' es una valiosa herramienta a la hora de entender los errores que ocurren en tus programas. Aprende en esta introducción los comandos comúnmente utilizados en el depurador de Python, a navegar e inspeccionar el código utilizando pdb, pdbpp, ipdb o rpdb.</p>
+<ul class="simple">
+<li><p>Slides: <a class="reference external" href="https://docs.google.com/presentation/d/1fEJSoiIsd3ZKCysKj2ndlW048ec7hvRnp8gsbIes8Yo/edit?usp=sharing">https://docs.google.com/presentation/d/1fEJSoiIsd3ZKCysKj2ndlW048ec7hvRnp8gsbIes8Yo/edit?usp=sharing</a></p></li>
+</ul></section><hr class="docutils">
+<section id="primera-aplicacion-en-kivy"><h3><a class="toc-backref" href="#toc-entry-70" role="doc-backlink">Primera aplicación en Kivy</a></h3>
+<p><strong>Sofía Martin</strong>
+- Presentación: <a class="reference external" href="https://speakerdeck.com/entrerrianas/tu-primera-aplicacion-con-kivy-para-moviles">https://speakerdeck.com/entrerrianas/tu-primera-aplicacion-con-kivy-para-moviles</a></p>
+</section></section><hr class="docutils">
+<section id="lightning-talks-de-pyconar-2014"><h2><a class="toc-backref" href="#toc-entry-71" role="doc-backlink">Lightning Talks de PyConAr 2014</a></h2>
+<section id="ayrton-y-elevation"><h3><a class="toc-backref" href="#toc-entry-72" role="doc-backlink">ayrton y Elevation</a></h3>
+<p><a class="reference external" href="http://www.grulic.org.ar/~mdione/ayrton_elevation_lightning.odp">http://www.grulic.org.ar/~mdione/ayrton_elevation_lightning.odp</a></p>
+</section></section><hr class="docutils">
+<section id="pyday-baradaero-2016"><h2><a class="toc-backref" href="#toc-entry-73" role="doc-backlink">PyDay Baradaero 2016</a></h2>
+<section id="python-mas-rapido-que-c-1"><h3><a class="toc-backref" href="#toc-entry-74" role="doc-backlink">Python más rápido que C</a></h3>
+<p><em>Facundo Batista</em></p>
+<p><strong>Slides y código:</strong> <a class="reference external" href="http://www.taniquetil.com.ar/homedevel/presents/pyrapidc/">http://www.taniquetil.com.ar/homedevel/presents/pyrapidc/</a></p>
+</section><hr class="docutils">
+<section id="python-para-humanos"><h3><a class="toc-backref" href="#toc-entry-75" role="doc-backlink">Python para humanos</a></h3>
+<p><em>Carlos de la Torre</em> (<a class="reference external" href="https://twitter.com/py_litox">@py_litox</a>)</p>
+<p>SPOILER ALERT: esta charla no incluye código</p>
+<p>Se trata de una presentación del Ecosistema Python. ¿Para qué y cómo se usa Python? ¿Por qué? La charla se enfoca en una de sus mayores ventajas: la comunidad. No incluye cuestiones técnicas ni formales sobre el lenguaje en si mismo.</p>
+<p>Hay muchas charlas que apuntan a lo técnico: a enseñar el lenguaje o herramientas asociadas. En esta charla propongo analizar Python con una mirada ortogonal, que se basa en la comunidad.
+Es para dar una perspectiva más amplia y abarcadora del lenguaje, para dimensionar su utilidad y ventajas desde una perspectiva no tan común.
+La charla incluye mención a diversos ámbitos, de la industria y académicos, donde se usa Python y a cuestiones asociadas al entorno laboral.</p>
+<p>La primera versión de esta charla fue presentada en el FLISoL Serrano 2015, Capilla del Monte, Córdoba. Fue concebida para estudiantes iniciales de una tecnicatura en programación.</p>
+<p><strong>Slides</strong>: <a class="reference external" href="https://docs.google.com/presentation/d/1fZUuySkCbBjP477VoHdhBns6Bouj92C33ku-BX-WCGM/">https://docs.google.com/presentation/d/1fZUuySkCbBjP477VoHdhBns6Bouj92C33ku-BX-WCGM/</a></p>
+<p>enjoy!</p>
+</section><hr class="docutils">
+<section id="introduccion-a-docker"><h3><a class="toc-backref" href="#toc-entry-76" role="doc-backlink">Introducción a Docker</a></h3>
+<p><em>Emiliano Dalla Verde Marcozzi</em></p>
+<p><strong>Slides:</strong> <a class="reference external" href="https://drive.google.com/open?id=1VdWZm_opKFOdibQzHNopcDM_X9QlIZlCmOzylVP0IiE">https://drive.google.com/open?id=1VdWZm_opKFOdibQzHNopcDM_X9QlIZlCmOzylVP0IiE</a></p>
+</section><hr class="docutils">
+<section id="introduccion-informal-a-la-programacion"><h3><a class="toc-backref" href="#toc-entry-77" role="doc-backlink">Introducción informal a la programación</a></h3>
+<p><em>Emiliano Dalla Verde Marcozzi</em></p>
+<p><strong>Slides:</strong> <a class="reference external" href="https://drive.google.com/open?id=1qHkzva6fi4VverbrLn9RSqxcVFRUMeNLulRuBH_zBJI">https://drive.google.com/open?id=1qHkzva6fi4VverbrLn9RSqxcVFRUMeNLulRuBH_zBJI</a></p>
+</section></section><hr class="docutils">
+<section id="pyday-rafela-2016"><h2><a class="toc-backref" href="#toc-entry-78" role="doc-backlink">PyDay Rafela 2016</a></h2>
+<section id="python-para-humanos-1"><h3><a class="toc-backref" href="#toc-entry-79" role="doc-backlink">Python para humanos</a></h3>
+<p><em>Carlos de la Torre</em> (<a class="reference external" href="https://twitter.com/py_litox">@py_litox</a>)</p>
+<p>Se trata de una breve introducción a Python: como lenguaje pero principalmente de su Ecosistema.
+¿Para qué y cómo se usa Python? ¿Por qué?
+La charla se enfoca en una de sus mayores ventajas: la comunidad.
+Incluye apenas una breve descripción técnica del lenguaje al comienzo.</p>
+<p>Hay muchas charlas que apuntan a lo técnico: a enseñar el lenguaje o herramientas asociadas. En esta charla propongo analizar Python con una mirada ortogonal, que se basa en la comunidad.
+Es para dar una perspectiva más amplia y abarcadora del lenguaje, para dimensionar su utilidad y ventajas desde una perspectiva no tan común.
+La charla incluye mención a diversos ámbitos, de la industria y académicos, donde se usa Python y a cuestiones asociadas al entorno laboral.</p>
+<p><strong>Slides</strong>: <a class="reference external" href="https://docs.google.com/presentation/d/1lsNKc73mVMkpbqqpUPZ-gwbGXllvKv86GkylsCsJM7Q/edit?usp=sharing">https://docs.google.com/presentation/d/1lsNKc73mVMkpbqqpUPZ-gwbGXllvKv86GkylsCsJM7Q/edit?usp=sharing</a></p>
+</section><hr class="docutils">
+<section id="lightning-talk-buscando-aliens"><h3><a class="toc-backref" href="#toc-entry-80" role="doc-backlink">Lightning talk: buscando aliens</a></h3>
+<p><em>Carlos de la Torre</em> (<a class="reference external" href="https://twitter.com/py_litox">@py_litox</a>)</p>
+<p><strong>Slides</strong>: <a class="reference external" href="https://docs.google.com/presentation/d/1pq9qPpLHnUOR4QGNCAILsZ9W377Y21c4x8YRTW3HZPc/edit?usp=sharing">https://docs.google.com/presentation/d/1pq9qPpLHnUOR4QGNCAILsZ9W377Y21c4x8YRTW3HZPc/edit?usp=sharing</a></p>
+</section></section><hr class="docutils">
+<section id="pyconar-2016-bahia-blanca"><h2><a class="toc-backref" href="#toc-entry-81" role="doc-backlink">PyConAr 2016 Bahia Blanca</a></h2>
+<section id="infraestructura-como-codigo"><h3><a class="toc-backref" href="#toc-entry-82" role="doc-backlink">Infraestructura como código</a></h3>
+<p><em>Nicolás Demarchi</em> (<a class="reference external" href="https://twitter.com/gilgamezh">@gilgamezh</a>)</p>
+<p><strong>Slides</strong> <a class="reference external" href="http://bit.ly/2gEL72Y">http://bit.ly/2gEL72Y</a></p>
+</section><section id="bots-charlatanes"><h3><a class="toc-backref" href="#toc-entry-83" role="doc-backlink">Bots charlatanes</a></h3>
+<p><em>Emiliano Dalla Verde Marcozzi</em> (<a class="reference external" href="https://twitter.com/edvm">@edvm</a>)</p>
+<p><strong>Slides</strong> <a class="reference external" href="https://github.com/edvm/talks/tree/master/pycon2016">https://github.com/edvm/talks/tree/master/pycon2016</a></p>
+</section><section id="redes-neuronales-con-python-utilizando-keras"><h3><a class="toc-backref" href="#toc-entry-84" role="doc-backlink">Redes Neuronales con Python utilizando Keras</a></h3>
+<p><em>Juan Pedro Fisanotti</em> (<a class="reference external" href="https://twitter.com/fisadev">@fisadev</a>)</p>
+<p><strong>Slides</strong> <a class="reference external" href="https://github.com/fisadev/talks/tree/master/keras-neural-networks">https://github.com/fisadev/talks/tree/master/keras-neural-networks</a></p>
+</section><section id="bindings-mutable-default-arguments-y-otros-quilom-detalles"><h3><a class="toc-backref" href="#toc-entry-85" role="doc-backlink">Bindings, mutable default arguments, y otros quilom... detalles</a></h3>
+<p>Por <a class="reference external" href="http://taniquetil.com.ar/plog/">Facundo Batista</a></p>
+<p><a class="reference external" href="http://www.taniquetil.com.ar/homedevel/presents/pydetalles.odp">Slides</a></p>
+</section><section id="concurrencia-en-python"><h3><a class="toc-backref" href="#toc-entry-86" role="doc-backlink">Concurrencia en Python</a></h3>
+<p><em>Martin Alderete</em> (<a class="reference external" href="https://twitter.com/alderetemartin">@malderete</a>)</p>
+<p><strong>Slides</strong> <a class="reference external" href="https://docs.google.com/presentation/d/1NswnJQXJR3E45hzX3vfZRmyxKFXoQRWBefZBb41gUZU/edit?usp=sharing">https://docs.google.com/presentation/d/1NswnJQXJR3E45hzX3vfZRmyxKFXoQRWBefZBb41gUZU/edit?usp=sharing</a></p>
+<!-- ############################################################################ -->
+</section></section><section id="pyday-2018-la-plata"><h2><a class="toc-backref" href="#toc-entry-87" role="doc-backlink">PyDay 2018 La Plata</a></h2>
+<section id="init-introduccion-a-la-programacion-con-python"><h3><a class="toc-backref" href="#toc-entry-88" role="doc-backlink">__init__: Introducción a la programación con Python!</a></h3>
+<p><em>Berenice Larsen y Andrés Delfino</em></p>
+<p><strong>Presentación</strong>: <a class="reference external" href="https://github.com/pydaylp/pyday/blob/master/charlas/__init___%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n%20con%20Python.pdf">https://github.com/pydaylp/pyday/blob/master/charlas/__init___%20Introducci%C3%B3n%20a%20la%20programaci%C3%B3n%20con%20Python.pdf</a></p>
+</section><section id="sistemas-recomendadores-en-python"><h3><a class="toc-backref" href="#toc-entry-89" role="doc-backlink">Sistemas Recomendadores en Python</a></h3>
+<p><em>María Emilia Charnelli</em></p>
+<p><strong>Presentación</strong>: <a class="reference external" href="https://github.com/mcharnelli/PyDayLP2018">https://github.com/mcharnelli/PyDayLP2018</a></p>
+</section><section id="una-config-para-configurarlos-a-todos"><h3><a class="toc-backref" href="#toc-entry-90" role="doc-backlink">Una config para configurarlos a todos</a></h3>
+<p><em>Hernan Lozano</em></p>
+<p><strong>Presentación</strong>: <a class="reference external" href="http://hernantz.github.io/one-configpy-to-config-them-all.html">http://hernantz.github.io/one-configpy-to-config-them-all.html</a></p>
+</section><section id="como-los-logs-me-salvaron-el-alma-1"><h3><a class="toc-backref" href="#toc-entry-91" role="doc-backlink">Como los logs me salvaron el alma</a></h3>
+<p><em>Facundo Batista</em></p>
+<p><strong>Presentación</strong>: <a class="reference external" href="http://blog.taniquetil.com.ar/">http://blog.taniquetil.com.ar/</a></p>
+</section><section id="me-estan-espiando-como-saber-con-python-si-el-imperialismo-te-persigue-o-te-pasaste-de-focusyn"><h3><a class="toc-backref" href="#toc-entry-92" role="doc-backlink">¡Me están espiando! ¿Cómo saber con Python si el imperialismo te persigue o te pasaste de Focusyn?</a></h3>
+<p><em>Nicolas Demarchi</em></p>
+<p><strong>Presentación</strong>: <a class="reference external" href="https://speakerdeck.com/gilgamezh/me-estan-espiando-como-saber-con-python-si-el-imperialismo-te-persigue-o-te-pasaste-de-focusyn">https://speakerdeck.com/gilgamezh/me-estan-espiando-como-saber-con-python-si-el-imperialismo-te-persigue-o-te-pasaste-de-focusyn</a></p>
+</section><section id="blockchain-zero-administration-with-python"><h3><a class="toc-backref" href="#toc-entry-93" role="doc-backlink">Blockchain zero administration with Python</a></h3>
+<p><em>Julio Castro</em></p>
+<p><strong>Presentación</strong>: <a class="reference external" href="https://es.slideshare.net/JulioCastro27/blockchain-zero-administration-with-python">https://es.slideshare.net/JulioCastro27/blockchain-zero-administration-with-python</a></p>
+</section><section id="desarrollando-y-desplegando-aplicaciones-python-con-docker"><h3><a class="toc-backref" href="#toc-entry-94" role="doc-backlink">Desarrollando y desplegando aplicaciones Python con Docker</a></h3>
+<p><em>Gerónimo Afonso y Matías Ferrigno</em></p>
+<p><strong>Presentación</strong>: <a class="reference external" href="https://matiferrigno.github.io/slides/pyday18-docker/">https://matiferrigno.github.io/slides/pyday18-docker/</a></p>
+</section><section id="desarrollo-de-un-segmento-terreno-satelital-de-proxima-generacion-con-python"><h3><a class="toc-backref" href="#toc-entry-95" role="doc-backlink">Desarrollo de un segmento terreno satelital de próxima generación con Python</a></h3>
+<p><em>Pablo Soligo</em></p>
+<p><strong>Presentación</strong>: <a class="reference external" href="https://drive.google.com/open?id=0B4q9mzGMZNZ4THJLVkJZQ2Y1S0tYZm1ia0FZMndKVmJfeGcw">https://drive.google.com/open?id=0B4q9mzGMZNZ4THJLVkJZQ2Y1S0tYZm1ia0FZMndKVmJfeGcw</a></p>
+</section><section id="jugando-con-python-y-el-robot-cozmo"><h3><a class="toc-backref" href="#toc-entry-96" role="doc-backlink">Jugando con Python y el robot Cozmo</a></h3>
+<p><em>Rafael Villalba</em></p>
+<p><strong>Presentación</strong>: <a class="reference external" href="https://drive.google.com/open?id=1gFD2asrW15t6oxHRpNtskWmpEhKt8iKWN_3OihdzhCA">https://drive.google.com/open?id=1gFD2asrW15t6oxHRpNtskWmpEhKt8iKWN_3OihdzhCA</a></p>
+</section><section id="conectando-partes-con-zeromq"><h3><a class="toc-backref" href="#toc-entry-97" role="doc-backlink">Conectando partes con ZeroMQ</a></h3>
+<p><em>Martín Alderete</em></p>
+<p><strong>Presentación</strong>: <a class="reference external" href="https://drive.google.com/open?id=0B4q9mzGMZNZ4RFgwQXFpdDJPVU9rVjUxWnh5dlVCNEJULVow">https://drive.google.com/open?id=0B4q9mzGMZNZ4RFgwQXFpdDJPVU9rVjUxWnh5dlVCNEJULVow</a></p>
+</section><section id="usando-python-para-asistir-al-ethical-hacker"><h3><a class="toc-backref" href="#toc-entry-98" role="doc-backlink">Usando Python para asistir al Ethical Hacker</a></h3>
+<p><em>Alejandro Fanjul</em></p>
+<p><strong>Presentación</strong>: <a class="reference external" href="https://drive.google.com/open?id=0B4q9mzGMZNZ4SmJKV3MwZHNlNzIxMUxhUEgwMGhvSVdmS1Vn">https://drive.google.com/open?id=0B4q9mzGMZNZ4SmJKV3MwZHNlNzIxMUxhUEgwMGhvSVdmS1Vn</a></p>
+</section><section id="video-analytics-events-processing-platform"><h3><a class="toc-backref" href="#toc-entry-99" role="doc-backlink">Video Analytics events processing platform</a></h3>
+<p><em>Juan Carniglia</em></p>
+<p><strong>Presentación</strong>: <a class="reference external" href="https://drive.google.com/open?id=0B4q9mzGMZNZ4Qzk5eUY2NHZNalJMeUpzemhmaWtsM3dQV2ZZ">https://drive.google.com/open?id=0B4q9mzGMZNZ4Qzk5eUY2NHZNalJMeUpzemhmaWtsM3dQV2ZZ</a></p>
+</section></section>
+</div>    
+</div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+            <script src="../assets/js/jquery.min.js"></script><script src="../assets/js/popper.min.js"></script><script src="../assets/js/bootstrap.min.js"></script><script src="../assets/js/baguetteBox.min.js"></script><script src="../assets/js/pyar.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>

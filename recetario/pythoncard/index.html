@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html prefix="
+og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PythonCard | Python Argentina Wiki</title>
+<link href="../../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/bootblog.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../../rss.xml">
+<link rel="canonical" href="https://wiki.python.org.ar/recetario/pythoncard/">
+<!--[if lt IE 9]><script src="../../assets/js/html5.js"></script><![endif]--><meta name="author" content="Python Argentina">
+<meta property="og:site_name" content="Python Argentina Wiki">
+<meta property="og:title" content="PythonCard">
+<meta property="og:url" content="https://wiki.python.org.ar/recetario/pythoncard/">
+<meta property="og:description" content="Introducción
+PythonCard es un conjunto de herramientas de construcción GUI para crear aplicaciones de escritorio multiplataforma en Windows, Mac OS X, y Linux, usando Python.
+La motivación de PythonCa">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
+
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../pyar/"><span class="quienes_somos"></span>Nosotros</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../foro_y_redes/"><span class="navbar_lista_de_correo"></span>Foro</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../../"><span class="wiki"></span>Wiki</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/noticias/"><span class="news"></span>Noticias</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/irc/"><span class="irc"></span>IRC</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/eventos/"><span class="eventos"></span>Eventos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://planeta.python.org.ar/"><span class="pyar"></span>Planeta</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/trabajo/"><span class="jobs"></span>Trabajos</a>
+                </li>
+            </ul>
+</div>
+    </nav>
+</div>
+
+<!-- Header and menu bar -->
+<div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        
+<div class="col-lg-12">
+    <div class="page-header">
+        <div class="pull-right">
+            <a href="https://github.com/PyAr/wiki/blob/master/pages/recetario/pythoncard.rst" id="sourcelink" class="nav-link">Editar</a>
+        </div>
+        <h2>Pythoncard</h2>
+    </div>
+    <div class="e-content entry-content" itemprop="articleBody text">
+    <section id="introduccion"><h2>Introducción</h2>
+<p>PythonCard es un conjunto de herramientas de construcción GUI para crear aplicaciones de escritorio multiplataforma en Windows, Mac OS X, y Linux, usando Python.</p>
+<p>La motivación de PythonCard es "Las cosas simples deberían ser simples, y las complejas deberían ser posibles"</p>
+<p>PythonCard es para vos si queres desarrollar aplicaciones gráficas de manera rápida y fácil con un mínimo esfuerzo y código. Es parecido a <strong>Visual Basic Clásico</strong>, con respecto a la creación visual de interfaces gráficas y programación por eventos.</p>
+<p>PythonCard usa wxPython. Si estás familiarizado con wxPython, se puede ver a PythonCard como una manera simple de hacer programas wxPython con un gran conjunto de ejemplos y herramientas que se pueden copiar y mejorar para crear aplicaciones multiplataforma.</p>
+</section><section id="como-instalar-pythoncard"><h2>Cómo instalar PythonCard:</h2>
+<section id="linux-debian-y-derivados"><h3>Linux (Debian y derivados)</h3>
+<p>Pythoncard esta soportado en Etch, así que su instalación es bastante simple.</p>
+<div class="code"><pre class="code console"><a id="rest_code_8517aed0aa1e47b692aabbb24f8867d4-1" name="rest_code_8517aed0aa1e47b692aabbb24f8867d4-1" href="#rest_code_8517aed0aa1e47b692aabbb24f8867d4-1"></a><span class="go">apt-get install pythoncard</span>
+</pre></div>
+</section><section id="windows"><h3>Windows</h3>
+<ul class="simple">
+<li><p>Bajar e instalar Python desde <a class="reference external" href="http://www.python.org/ftp/python/2.5.2/python-2.5.2.msi">www.python.org, Downloads, Windows Installer Python 2.5.2</a>.</p></li>
+<li><p>Bajar e instalar wxPython desde <a class="reference external" href="http://downloads.sourceforge.net/wxpython/wxPython2.8-win32-unicode-2.8.7.1-py25.exe">wxPython.org, Binaries, win32 unicode</a>.</p></li>
+<li><p>Bajar e instalar PythonCard <a class="reference external" href="http://downloads.sourceforge.net/pythoncard/PythonCard-0.8.2.win32.exe">pythoncard.sourceforge.net, Downloads, PythonCard 0.8.2 win32</a>.</p></li>
+</ul></section></section><section id="ejemplos"><h2>Ejemplos</h2>
+<p>Si todo se instaló correctamente, podemos probar los ejemplos que vienen con PythonCard, menú Inicio, PythonCard, Sample Launcher (o buscar el script en C:Python25Libsite-packagesPythonCardsamplessamples.pyw o similar para la plataforma en que estemos). Debería aparecer la pantalla de ejemplos (ver <a class="reference external" href="http://pythoncard.sourceforge.net/samples/samples.html">sitio de PythonCard</a>). En ella se puede encontrar los programas de ejemplos en las siguientes categorías:</p>
+<ul class="simple">
+<li><p><strong>Bases de datos</strong> (altas, bajas, modificaciones y consultas): addresses, companies, custdb, dbBrowser, flatfileDatabase, gadflyDatabase</p></li>
+<li><p><strong>Juegos</strong>: tictactoe (ta-te-ti), turtle (tortuga = lenguaje logo), life (juego de la vida), reversi, sodoku</p></li>
+<li><p><strong>Gráficos</strong>: doodle (mano alzada), spirograph (espirografía), lsystem (fractales Lindenmayer), hopalong (fractales)</p></li>
+<li><p><strong>Demostración del entorno</strong>: proof, dialogs, minimal, minimalStandalone, noresource, pictureViewer, saveClipboardBitmap, simpleBrowser, simpleIEBrowser, samples, widgets</p></li>
+<li><p><strong>Internet</strong>: chat, jabberChat, pysshed, radioclient, SourceForgeTracker, searchexplorer, stockprice, textRouter, webgrabber, webserver</p></li>
+<li><p><strong>Utilitarios</strong>: conversions (ºC a ºF), redemo (expresiones regulares), rpn (calculadora de impuestos)</p></li>
+<li><p><strong>Varios</strong>: mp3player, slideshow (presentaciones html), sounds (sonidos wab), textIndexer, worldclock</p></li>
+</ul>
+<p>Si algo anda mal y no se muestra la pantalla de ejemplos, podemos probar lo siguiente para ver que esta fallando en una consola Python:</p>
+<div class="code"><pre class="code python"><a id="rest_code_a988a265e8394109ae59727cb6675da8-1" name="rest_code_a988a265e8394109ae59727cb6675da8-1" href="#rest_code_a988a265e8394109ae59727cb6675da8-1"></a><span class="kn">import</span> <span class="nn">wx</span>
+<a id="rest_code_a988a265e8394109ae59727cb6675da8-2" name="rest_code_a988a265e8394109ae59727cb6675da8-2" href="#rest_code_a988a265e8394109ae59727cb6675da8-2"></a><span class="n">wx</span><span class="o">.</span><span class="n">version</span><span class="p">()</span> <span class="c1"># debería imprimir '2.8.7.1 (msw-unicode)' o similar</span>
+<a id="rest_code_a988a265e8394109ae59727cb6675da8-3" name="rest_code_a988a265e8394109ae59727cb6675da8-3" href="#rest_code_a988a265e8394109ae59727cb6675da8-3"></a>
+<a id="rest_code_a988a265e8394109ae59727cb6675da8-4" name="rest_code_a988a265e8394109ae59727cb6675da8-4" href="#rest_code_a988a265e8394109ae59727cb6675da8-4"></a><span class="kn">from</span> <span class="nn">PythonCard</span> <span class="kn">import</span> <span class="n">model</span>
+<a id="rest_code_a988a265e8394109ae59727cb6675da8-5" name="rest_code_a988a265e8394109ae59727cb6675da8-5" href="#rest_code_a988a265e8394109ae59727cb6675da8-5"></a><span class="n">rsrc</span> <span class="o">=</span> <span class="p">{</span><span class="s1">'application'</span><span class="p">:{</span><span class="s1">'type'</span><span class="p">:</span><span class="s1">'Application'</span><span class="p">,</span> <span class="s1">'name'</span><span class="p">:</span><span class="s1">'Minimal'</span><span class="p">,</span>
+<a id="rest_code_a988a265e8394109ae59727cb6675da8-6" name="rest_code_a988a265e8394109ae59727cb6675da8-6" href="#rest_code_a988a265e8394109ae59727cb6675da8-6"></a>    <span class="s1">'backgrounds'</span><span class="p">:</span> <span class="p">[{</span><span class="s1">'type'</span><span class="p">:</span><span class="s1">'Background'</span><span class="p">,</span><span class="s1">'name'</span><span class="p">:</span><span class="s1">'bgMin'</span><span class="p">,</span>
+<a id="rest_code_a988a265e8394109ae59727cb6675da8-7" name="rest_code_a988a265e8394109ae59727cb6675da8-7" href="#rest_code_a988a265e8394109ae59727cb6675da8-7"></a>        <span class="s1">'title'</span><span class="p">:</span><span class="s1">'Prueba'</span><span class="p">,</span><span class="s1">'size'</span><span class="p">:(</span><span class="mi">200</span><span class="p">,</span> <span class="mi">100</span><span class="p">),</span><span class="s1">'components'</span><span class="p">:</span> <span class="p">[]}]}</span> <span class="p">}</span>
+<a id="rest_code_a988a265e8394109ae59727cb6675da8-8" name="rest_code_a988a265e8394109ae59727cb6675da8-8" href="#rest_code_a988a265e8394109ae59727cb6675da8-8"></a>
+<a id="rest_code_a988a265e8394109ae59727cb6675da8-9" name="rest_code_a988a265e8394109ae59727cb6675da8-9" href="#rest_code_a988a265e8394109ae59727cb6675da8-9"></a><span class="n">model</span><span class="o">.</span><span class="n">Application</span><span class="p">(</span><span class="n">model</span><span class="o">.</span><span class="n">Background</span><span class="p">,</span> <span class="kc">None</span><span class="p">,</span> <span class="n">rsrc</span><span class="p">)</span><span class="o">.</span><span class="n">MainLoop</span><span class="p">()</span>
+</pre></div>
+<p>Debería aparecer una ventanita con título "Prueba".</p>
+<p>Además, PythonCard dispone de características de depuración (depurar menú, loggeo, visor de mensajes, visor del espacio nombres, editor de propiedades, shell). Estas opciones se pueden activar al ejecutar los ejemplos para ver cómo funcionan.</p>
+</section><section id="editor-de-pantallas"><h2>Editor de Pantallas</h2>
+<p>PythonCard viene con un editor de pantallas (resource/layout editor), se encuentra en el menu Inicio, PythonCard, Layout Editor (o buscar el script en C:Python25Libsite-packagesPythonCardtoolsresourceEditorlayoutEditor.py o similar para la plataforma en que estemos). Debería aparecer la pantalla de edición (ver imágenes y más información en <a class="reference external" href="http://pythoncard.sourceforge.net/resource_editor_overview.html">sitio de PythonCard</a>):</p>
+<img alt="/images/PythonCard/pycard1.png" src="../../images/PythonCard/pycard1.png"><p>Ejemplo de cómo crear una aplicación de prueba (que tome una expresión/comando python ingresado por el usuario y devuelva su resultado):</p>
+<ul class="simple">
+<li><p>Ir al menú <em>File</em>, <em>New</em>, aparece un miniasistente para crear la aplicación</p></li>
+<li><p>Seleccionar "Standard Template with File/Exit Menu" (Plantilla estandard con menú File/Exit)</p></li>
+<li><p>Ingresar el nombre y ubicación de la aplicación, ej "Prueba" en el escritorio o carpeta personal.</p></li>
+<li>
+<p>Se Generará los siguientes archivos:</p>
+<ul>
+<li><p><code class="docutils literal">prueba.py</code>: programa python que contendrá el comportamiento a los eventos y demás funcionalidades</p></li>
+<li><p><code class="docutils literal">prueba.rsrc.py</code>: archivo python que define la interfaz gráfica</p></li>
+</ul>
+</li>
+<li>
+<p>Agregamos los componentes (ver el diseño de pantalla en la última sección):</p>
+<ul>
+<li><p>Etiqueta: menú <em>Component</em>, <em>Static Text</em> (la seleccionamos y en la pantalla de propiedades cambiamos el <em>Label</em>: Comando)</p></li>
+<li><p>Campo de Texto: menú <em>Component</em>, <em>Text Field</em> (la seleccionamos y movemos a continuación de la etiqueta, en las propiedades marcar <em>Vary</em>, cambiar <em>Name</em>: txtComando y <em>Text</em>: en blanco )</p></li>
+<li><p>Área de Texto: menú <em>Component</em>, <em>Text Area</em> (lo seleccionamos, movemos a donde corresponda, en las propiedades marcar <em>Vary</em>, escribir en <em>Name</em>: txtResultados y en <em>Text</em>: en blanco)</p></li>
+<li><p>Botón: menú <em>Component</em>, <em>Button</em> (lo seleccionamos, movemos a donde corresponda, en las propiedades marcar <em>Vary</em>, escribir en <em>Name</em>: btnEjecutar y en <em>Label</em>: Ejecutar )</p></li>
+</ul>
+</li>
+<li>
+<p>Agregamos un menú de ayuda:</p>
+<ul>
+<li>
+<p>Ir al menú <em>Edit</em>, <em>Menu Editor</em>:</p>
+<ul>
+<li><p>Marcar <em>File</em>, presionar <em>New Menu Item</em>, y escribir en <em>Label</em>: Ayuda</p></li>
+<li><p>Presionar <em>Ok</em> para aceptar</p></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>Probamos que quede bien, yendo al menú <em>File</em>, <em>Run</em> (obviamente no va a hacer nada más que aparecer en la pantalla, sin ningún comportamiento)</p></li>
+<li><p>Grabamos con el menú <em>File</em>, <em>Save</em></p></li>
+</ul></section><section id="editor-de-codigo"><h2>Editor de Código</h2>
+<p>PythonCard viene tambien con un editor de código, se encuentra en el menú Inicio, PythonCard, Code Editor (o buscar el script en C:Python25Libsite-packagesPythonCardtoolsresourceEditorcodeEditor.py o similar para la plataforma en que estemos). También esta el <em>Tabbed Code Editor</em> que nos permite editar múltiples archivos y seleccionar los componentes y sus eventos. Debería aparecer la pantalla de edición de código (ver imágenes y más información en <a class="reference external" href="http://pythoncard.sourceforge.net/tools/codeEditor.html">sitio de PythonCard</a>):</p>
+<img alt="/images/PythonCard/pycard2.png" src="../../images/PythonCard/pycard2.png"><p>Continuando con el ejemplo de como crear una aplicación de prueba (ver sección anterior):</p>
+<ul class="simple">
+<li><p>Ir al menú <em>File</em>, <em>Open</em>, abrir el archivo <code class="docutils literal">prueba.py</code> generado anteriormente</p></li>
+<li>
+<p>Aparecerá el script genérico (plantilla) creado en la sección anterior, al que le falta agregar el comportamiento frente a los eventos (ver el código completo al final):</p>
+<ul>
+<li><p>Agregar <code class="docutils literal">from PythonCard import dialog</code> para poder utilizar los dialogos</p></li>
+<li><p>Agregar el método on_btnEjecutar_mouseClick (evento click del mouse sobre el botón Ejecutar)</p></li>
+<li><p>Agregar el método on_menuFileAyuda_select (evento selección del menú File | Ayuda)</p></li>
+</ul>
+</li>
+<li><p>Para probar el código, ir al menú <em>File</em>, <em>Run</em>, debería aparecer la aplicación funcionando</p></li>
+<li><p>De no funcionar, se pueden cambiar las opciones de depuración en el menú <em>File</em>, <em>Run Options</em> o ejecutar con el interprete con la opción <em>Run with interpreter</em></p></li>
+</ul>
+<section id="codigo-completo-final-del-ejemplo"><h3>Código completo final del ejemplo:</h3>
+<div class="code"><pre class="code python"><a id="rest_code_db4867baaa5a4719877979be2da51d92-1" name="rest_code_db4867baaa5a4719877979be2da51d92-1" href="#rest_code_db4867baaa5a4719877979be2da51d92-1"></a><span class="kn">from</span> <span class="nn">PythonCard</span> <span class="kn">import</span> <span class="n">model</span>
+<a id="rest_code_db4867baaa5a4719877979be2da51d92-2" name="rest_code_db4867baaa5a4719877979be2da51d92-2" href="#rest_code_db4867baaa5a4719877979be2da51d92-2"></a><span class="kn">from</span> <span class="nn">PythonCard</span> <span class="kn">import</span> <span class="n">dialog</span>
+<a id="rest_code_db4867baaa5a4719877979be2da51d92-3" name="rest_code_db4867baaa5a4719877979be2da51d92-3" href="#rest_code_db4867baaa5a4719877979be2da51d92-3"></a>
+<a id="rest_code_db4867baaa5a4719877979be2da51d92-4" name="rest_code_db4867baaa5a4719877979be2da51d92-4" href="#rest_code_db4867baaa5a4719877979be2da51d92-4"></a><span class="k">class</span> <span class="nc">MyBackground</span><span class="p">(</span><span class="n">model</span><span class="o">.</span><span class="n">Background</span><span class="p">):</span>
+<a id="rest_code_db4867baaa5a4719877979be2da51d92-5" name="rest_code_db4867baaa5a4719877979be2da51d92-5" href="#rest_code_db4867baaa5a4719877979be2da51d92-5"></a>
+<a id="rest_code_db4867baaa5a4719877979be2da51d92-6" name="rest_code_db4867baaa5a4719877979be2da51d92-6" href="#rest_code_db4867baaa5a4719877979be2da51d92-6"></a>    <span class="k">def</span> <span class="nf">on_initialize</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">event</span><span class="p">):</span>
+<a id="rest_code_db4867baaa5a4719877979be2da51d92-7" name="rest_code_db4867baaa5a4719877979be2da51d92-7" href="#rest_code_db4867baaa5a4719877979be2da51d92-7"></a>        <span class="c1"># if you have any initialization</span>
+<a id="rest_code_db4867baaa5a4719877979be2da51d92-8" name="rest_code_db4867baaa5a4719877979be2da51d92-8" href="#rest_code_db4867baaa5a4719877979be2da51d92-8"></a>        <span class="c1"># including sizer setup, do it here</span>
+<a id="rest_code_db4867baaa5a4719877979be2da51d92-9" name="rest_code_db4867baaa5a4719877979be2da51d92-9" href="#rest_code_db4867baaa5a4719877979be2da51d92-9"></a>        <span class="k">pass</span>
+<a id="rest_code_db4867baaa5a4719877979be2da51d92-10" name="rest_code_db4867baaa5a4719877979be2da51d92-10" href="#rest_code_db4867baaa5a4719877979be2da51d92-10"></a>
+<a id="rest_code_db4867baaa5a4719877979be2da51d92-11" name="rest_code_db4867baaa5a4719877979be2da51d92-11" href="#rest_code_db4867baaa5a4719877979be2da51d92-11"></a>    <span class="k">def</span> <span class="nf">on_btnEjecutar_mouseClick</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">event</span><span class="p">):</span>
+<a id="rest_code_db4867baaa5a4719877979be2da51d92-12" name="rest_code_db4867baaa5a4719877979be2da51d92-12" href="#rest_code_db4867baaa5a4719877979be2da51d92-12"></a>        <span class="n">comando</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">components</span><span class="o">.</span><span class="n">txtComando</span><span class="o">.</span><span class="n">text</span>
+<a id="rest_code_db4867baaa5a4719877979be2da51d92-13" name="rest_code_db4867baaa5a4719877979be2da51d92-13" href="#rest_code_db4867baaa5a4719877979be2da51d92-13"></a>        <span class="n">resultado</span> <span class="o">=</span> <span class="nb">str</span><span class="p">(</span><span class="nb">eval</span><span class="p">(</span><span class="n">comando</span><span class="p">))</span>
+<a id="rest_code_db4867baaa5a4719877979be2da51d92-14" name="rest_code_db4867baaa5a4719877979be2da51d92-14" href="#rest_code_db4867baaa5a4719877979be2da51d92-14"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">components</span><span class="o">.</span><span class="n">txtResultados</span><span class="o">.</span><span class="n">text</span> <span class="o">=</span> <span class="n">resultado</span>
+<a id="rest_code_db4867baaa5a4719877979be2da51d92-15" name="rest_code_db4867baaa5a4719877979be2da51d92-15" href="#rest_code_db4867baaa5a4719877979be2da51d92-15"></a>
+<a id="rest_code_db4867baaa5a4719877979be2da51d92-16" name="rest_code_db4867baaa5a4719877979be2da51d92-16" href="#rest_code_db4867baaa5a4719877979be2da51d92-16"></a>    <span class="k">def</span> <span class="nf">on_menuFileAyuda_select</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">event</span><span class="p">):</span>
+<a id="rest_code_db4867baaa5a4719877979be2da51d92-17" name="rest_code_db4867baaa5a4719877979be2da51d92-17" href="#rest_code_db4867baaa5a4719877979be2da51d92-17"></a>        <span class="n">dialog</span><span class="o">.</span><span class="n">alertDialog</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span>
+<a id="rest_code_db4867baaa5a4719877979be2da51d92-18" name="rest_code_db4867baaa5a4719877979be2da51d92-18" href="#rest_code_db4867baaa5a4719877979be2da51d92-18"></a>            <span class="s1">'Este programa de prueba ejecuta el comando ingresado por el usuario'</span><span class="p">,</span>
+<a id="rest_code_db4867baaa5a4719877979be2da51d92-19" name="rest_code_db4867baaa5a4719877979be2da51d92-19" href="#rest_code_db4867baaa5a4719877979be2da51d92-19"></a>            <span class="s1">'Ayuda'</span><span class="p">)</span>
+<a id="rest_code_db4867baaa5a4719877979be2da51d92-20" name="rest_code_db4867baaa5a4719877979be2da51d92-20" href="#rest_code_db4867baaa5a4719877979be2da51d92-20"></a>
+<a id="rest_code_db4867baaa5a4719877979be2da51d92-21" name="rest_code_db4867baaa5a4719877979be2da51d92-21" href="#rest_code_db4867baaa5a4719877979be2da51d92-21"></a><span class="k">if</span> <span class="vm">__name__</span> <span class="o">==</span> <span class="s1">'__main__'</span><span class="p">:</span>
+<a id="rest_code_db4867baaa5a4719877979be2da51d92-22" name="rest_code_db4867baaa5a4719877979be2da51d92-22" href="#rest_code_db4867baaa5a4719877979be2da51d92-22"></a>    <span class="n">app</span> <span class="o">=</span> <span class="n">model</span><span class="o">.</span><span class="n">Application</span><span class="p">(</span><span class="n">MyBackground</span><span class="p">)</span>
+<a id="rest_code_db4867baaa5a4719877979be2da51d92-23" name="rest_code_db4867baaa5a4719877979be2da51d92-23" href="#rest_code_db4867baaa5a4719877979be2da51d92-23"></a>    <span class="n">app</span><span class="o">.</span><span class="n">MainLoop</span><span class="p">()</span>
+</pre></div>
+<p><strong>Nota</strong>: Por ser un ejemplo se obviaron temas de manejo de excepciones y cuestiones avanzadas. Se pueden descargar los archivos terminados:</p>
+<ul class="simple">
+<li>
+</li>
+<li>
+</li>
+</ul></section><section id="pantalla-del-ejemplo-ejecutandose"><h3>Pantalla del ejemplo ejecutandose:</h3>
+<img alt="/images/PythonCard/prueba.png" src="../../images/PythonCard/prueba.png"><!-- ############################################################################ --></section></section>
+</div>    
+</div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+            <script src="../../assets/js/jquery.min.js"></script><script src="../../assets/js/popper.min.js"></script><script src="../../assets/js/bootstrap.min.js"></script><script src="../../assets/js/baguetteBox.min.js"></script><script src="../../assets/js/pyar.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>

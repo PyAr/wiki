@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html prefix="
+og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mini Ejemplos | Python Argentina Wiki</title>
+<link href="../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/bootblog.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../rss.xml">
+<link rel="canonical" href="https://wiki.python.org.ar/miniejemplos/">
+<!--[if lt IE 9]><script src="../assets/js/html5.js"></script><![endif]--><meta name="author" content="Python Argentina">
+<meta property="og:site_name" content="Python Argentina Wiki">
+<meta property="og:title" content="Mini Ejemplos">
+<meta property="og:url" content="https://wiki.python.org.ar/miniejemplos/">
+<meta property="og:description" content="Esta es una colección de ejemplos cortos que pueden servir para demostrar la potencia del lenguaje. Cada ejemplo consta de un enunciado, seguido de una posible implementación en Python.
+
+Hola mundo
+El">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
+
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../pyar/"><span class="quienes_somos"></span>Nosotros</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../foro_y_redes/"><span class="navbar_lista_de_correo"></span>Foro</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../"><span class="wiki"></span>Wiki</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/noticias/"><span class="news"></span>Noticias</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/irc/"><span class="irc"></span>IRC</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/eventos/"><span class="eventos"></span>Eventos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://planeta.python.org.ar/"><span class="pyar"></span>Planeta</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/trabajo/"><span class="jobs"></span>Trabajos</a>
+                </li>
+            </ul>
+</div>
+    </nav>
+</div>
+
+<!-- Header and menu bar -->
+<div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        
+<div class="col-lg-12">
+    <div class="page-header">
+        <div class="pull-right">
+            <a href="https://github.com/PyAr/wiki/blob/master/pages/miniejemplos.rst" id="sourcelink" class="nav-link">Editar</a>
+        </div>
+        <h2>Mini Ejemplos</h2>
+    </div>
+    <div class="e-content entry-content" itemprop="articleBody text">
+    <p>Esta es una colección de ejemplos cortos que pueden servir para demostrar la potencia del lenguaje. Cada ejemplo consta de un enunciado, seguido de una posible implementación en Python.</p>
+<section id="hola-mundo"><h2>Hola mundo</h2>
+<p>El clásico de clásicos: mostrar <em>Hola mundo</em> por pantalla.</p>
+<!-- code-block.. code-block:: python python
+
+>>> print "Hola mundo"
+Hola mundo -->
+</section><section id="invertir-un-texto"><h2>Invertir un texto</h2>
+<p>Mostrar un texto invertido (de atrás para adelante)</p>
+<!-- code-block.. code-block:: python python
+
+>>> print "Hola mundo"[.. code-block:: python-1]
+odnum aloH -->
+</section><section id="trabajar-con-listas"><h2>Trabajar con listas</h2>
+<p>Generar una lista de los cubos de los números del 1 al 10</p>
+<!-- code-block.. code-block:: python python
+
+>>> [numero ** 3 for numero in range(1, 11)]
+[1, 8, 27, 64, 125, 216, 343, 512, 729, 1000] -->
+<p>Generar una lista de los cubos de los números <em>impares</em> entre 1 y 10</p>
+<div class="code"><pre class="code python"><a id="rest_code_1d04408c299147f8a6f754e53a8fb341-1" name="rest_code_1d04408c299147f8a6f754e53a8fb341-1" href="#rest_code_1d04408c299147f8a6f754e53a8fb341-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="p">[</span><span class="n">numero</span> <span class="o">**</span> <span class="mi">3</span> <span class="k">for</span> <span class="n">numero</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">1</span><span class="p">,</span> <span class="mi">11</span><span class="p">)</span> <span class="k">if</span> <span class="n">numero</span> <span class="o">%</span> <span class="mi">2</span> <span class="o">==</span> <span class="mi">1</span><span class="p">]</span>
+<a id="rest_code_1d04408c299147f8a6f754e53a8fb341-2" name="rest_code_1d04408c299147f8a6f754e53a8fb341-2" href="#rest_code_1d04408c299147f8a6f754e53a8fb341-2"></a><span class="p">[</span><span class="mi">1</span><span class="p">,</span> <span class="mi">27</span><span class="p">,</span> <span class="mi">125</span><span class="p">,</span> <span class="mi">343</span><span class="p">,</span> <span class="mi">729</span><span class="p">]</span>
+</pre></div>
+</section><section id="funciones"><h2>Funciones</h2>
+<div class="code"><pre class="code python"><a id="rest_code_8933ff95f4f04f1281c749642fa1f31e-1" name="rest_code_8933ff95f4f04f1281c749642fa1f31e-1" href="#rest_code_8933ff95f4f04f1281c749642fa1f31e-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="k">def</span> <span class="nf">hola</span><span class="p">(</span><span class="n">nombre</span><span class="p">):</span>
+<a id="rest_code_8933ff95f4f04f1281c749642fa1f31e-2" name="rest_code_8933ff95f4f04f1281c749642fa1f31e-2" href="#rest_code_8933ff95f4f04f1281c749642fa1f31e-2"></a><span class="o">...</span>     <span class="nb">print</span> <span class="sa">u</span><span class="s2">"Hola, </span><span class="si">%s</span><span class="s2">, ¿cómo estás?"</span> <span class="o">%</span> <span class="n">nombre</span>
+<a id="rest_code_8933ff95f4f04f1281c749642fa1f31e-3" name="rest_code_8933ff95f4f04f1281c749642fa1f31e-3" href="#rest_code_8933ff95f4f04f1281c749642fa1f31e-3"></a><span class="o">...</span>
+<a id="rest_code_8933ff95f4f04f1281c749642fa1f31e-4" name="rest_code_8933ff95f4f04f1281c749642fa1f31e-4" href="#rest_code_8933ff95f4f04f1281c749642fa1f31e-4"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">hola</span><span class="p">(</span><span class="s1">'Mls'</span><span class="p">)</span>
+<a id="rest_code_8933ff95f4f04f1281c749642fa1f31e-5" name="rest_code_8933ff95f4f04f1281c749642fa1f31e-5" href="#rest_code_8933ff95f4f04f1281c749642fa1f31e-5"></a><span class="n">Hola</span><span class="p">,</span> <span class="n">Matías</span><span class="p">,</span> <span class="err">¿</span><span class="n">cómo</span> <span class="n">estás</span><span class="err">?</span>
+</pre></div>
+</section>
+</div>    
+</div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+            <script src="../assets/js/jquery.min.js"></script><script src="../assets/js/popper.min.js"></script><script src="../assets/js/bootstrap.min.js"></script><script src="../assets/js/baguetteBox.min.js"></script><script src="../assets/js/pyar.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>

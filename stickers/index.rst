@@ -1,0 +1,7 @@
+.. title: Stickers
+
+
+Propuestas varias.
+
+
+

@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html prefix="
+og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GtkDialog | Python Argentina Wiki</title>
+<link href="../../../../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../../../../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
+<link href="../../../../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../../../../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../../../../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../../../../assets/css/bootblog.css" rel="stylesheet" type="text/css">
+<link href="../../../../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../../../../rss.xml">
+<link rel="canonical" href="https://wiki.python.org.ar/recetario/gui/gtk/dialog/">
+<!--[if lt IE 9]><script src="../../../../assets/js/html5.js"></script><![endif]--><meta name="author" content="Python Argentina">
+<meta property="og:site_name" content="Python Argentina Wiki">
+<meta property="og:title" content="GtkDialog">
+<meta property="og:url" content="https://wiki.python.org.ar/recetario/gui/gtk/dialog/">
+<meta property="og:description" content='Ejemplo para crear diálogos modales de distintos tipos con distintos botones.
+import gtk
+import sys
+
+# por defecto crea un mensaje de informacion sin botones
+info = gtk.MessageDialog(message_format="i'>
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
+
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../../../pyar/"><span class="quienes_somos"></span>Nosotros</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../../../foro_y_redes/"><span class="navbar_lista_de_correo"></span>Foro</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../../../../"><span class="wiki"></span>Wiki</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/noticias/"><span class="news"></span>Noticias</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/irc/"><span class="irc"></span>IRC</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/eventos/"><span class="eventos"></span>Eventos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://planeta.python.org.ar/"><span class="pyar"></span>Planeta</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/trabajo/"><span class="jobs"></span>Trabajos</a>
+                </li>
+            </ul>
+</div>
+    </nav>
+</div>
+
+<!-- Header and menu bar -->
+<div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        
+<div class="col-lg-12">
+    <div class="page-header">
+        <div class="pull-right">
+            <a href="https://github.com/PyAr/wiki/blob/master/pages/recetario/gui/gtk/dialog.rst" id="sourcelink" class="nav-link">Editar</a>
+        </div>
+        <h2>Gtkdialog</h2>
+    </div>
+    <div class="e-content entry-content" itemprop="articleBody text">
+    <p>Ejemplo para crear diálogos modales de distintos tipos con distintos botones.</p>
+<div class="code"><pre class="code python"><a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-1" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-1" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-1"></a><span class="kn">import</span> <span class="nn">gtk</span>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-2" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-2" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-2"></a><span class="kn">import</span> <span class="nn">sys</span>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-3" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-3" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-3"></a>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-4" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-4" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-4"></a><span class="c1"># por defecto crea un mensaje de informacion sin botones</span>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-5" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-5" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-5"></a><span class="n">info</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">MessageDialog</span><span class="p">(</span><span class="n">message_format</span><span class="o">=</span><span class="s2">"informacion!"</span><span class="p">)</span>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-6" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-6" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-6"></a><span class="c1"># tipo advertencia con un boton de ok</span>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-7" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-7" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-7"></a><span class="n">warning</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">MessageDialog</span><span class="p">(</span><span class="nb">type</span><span class="o">=</span><span class="n">gtk</span><span class="o">.</span><span class="n">MESSAGE_WARNING</span><span class="p">,</span>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-8" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-8" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-8"></a>    <span class="n">buttons</span><span class="o">=</span><span class="n">gtk</span><span class="o">.</span><span class="n">BUTTONS_OK_CANCEL</span><span class="p">,</span> <span class="n">message_format</span><span class="o">=</span><span class="s2">"advertencia.."</span><span class="p">)</span>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-9" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-9" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-9"></a><span class="c1"># pregunta con botones si no</span>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-10" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-10" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-10"></a><span class="n">question</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">MessageDialog</span><span class="p">(</span><span class="nb">type</span><span class="o">=</span><span class="n">gtk</span><span class="o">.</span><span class="n">MESSAGE_QUESTION</span><span class="p">,</span>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-11" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-11" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-11"></a>    <span class="n">buttons</span><span class="o">=</span><span class="n">gtk</span><span class="o">.</span><span class="n">BUTTONS_YES_NO</span><span class="p">,</span> <span class="n">message_format</span><span class="o">=</span><span class="s2">"pregunta?"</span><span class="p">)</span>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-12" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-12" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-12"></a><span class="c1"># error con boton ok</span>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-13" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-13" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-13"></a><span class="n">error</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">MessageDialog</span><span class="p">(</span><span class="nb">type</span><span class="o">=</span><span class="n">gtk</span><span class="o">.</span><span class="n">MESSAGE_ERROR</span><span class="p">,</span>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-14" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-14" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-14"></a>    <span class="n">buttons</span><span class="o">=</span><span class="n">gtk</span><span class="o">.</span><span class="n">BUTTONS_OK</span><span class="p">,</span> <span class="n">message_format</span><span class="o">=</span><span class="s2">"error!?!"</span><span class="p">)</span>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-15" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-15" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-15"></a>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-16" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-16" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-16"></a><span class="c1"># run bloquea hasta que se produzca un evento y devuelve el valor del evento</span>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-17" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-17" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-17"></a><span class="k">if</span> <span class="n">info</span><span class="o">.</span><span class="n">run</span><span class="p">()</span> <span class="o">==</span> <span class="n">gtk</span><span class="o">.</span><span class="n">RESPONSE_DELETE_EVENT</span><span class="p">:</span>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-18" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-18" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-18"></a>    <span class="nb">print</span> <span class="s2">"si, es la unica senial que puede emitir, ya que no tiene botones"</span>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-19" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-19" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-19"></a><span class="c1"># hay que esconder el dialogo</span>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-20" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-20" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-20"></a><span class="n">info</span><span class="o">.</span><span class="n">hide</span><span class="p">()</span>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-21" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-21" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-21"></a>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-22" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-22" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-22"></a><span class="c1"># almacenamos el valor de retorno en una variable para controlar varios valores</span>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-23" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-23" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-23"></a><span class="n">response</span> <span class="o">=</span> <span class="n">warning</span><span class="o">.</span><span class="n">run</span><span class="p">()</span>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-24" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-24" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-24"></a><span class="n">warning</span><span class="o">.</span><span class="n">hide</span><span class="p">()</span>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-25" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-25" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-25"></a>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-26" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-26" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-26"></a><span class="k">if</span> <span class="n">response</span> <span class="o">==</span> <span class="n">gtk</span><span class="o">.</span><span class="n">RESPONSE_OK</span><span class="p">:</span>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-27" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-27" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-27"></a>    <span class="nb">print</span> <span class="s2">"advertencia respondio aceptar"</span>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-28" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-28" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-28"></a><span class="k">elif</span> <span class="n">response</span> <span class="o">==</span> <span class="n">gtk</span><span class="o">.</span><span class="n">RESPONSE_CANCEL</span><span class="p">:</span>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-29" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-29" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-29"></a>    <span class="nb">print</span> <span class="s2">"advertencia respondio cancel"</span>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-30" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-30" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-30"></a>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-31" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-31" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-31"></a><span class="n">response</span> <span class="o">=</span> <span class="n">question</span><span class="o">.</span><span class="n">run</span><span class="p">()</span>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-32" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-32" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-32"></a>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-33" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-33" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-33"></a><span class="k">if</span> <span class="n">response</span> <span class="o">==</span> <span class="n">gtk</span><span class="o">.</span><span class="n">RESPONSE_YES</span><span class="p">:</span>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-34" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-34" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-34"></a>    <span class="nb">print</span> <span class="s2">"respondio si!"</span>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-35" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-35" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-35"></a><span class="k">elif</span> <span class="n">response</span> <span class="o">==</span> <span class="n">gtk</span><span class="o">.</span><span class="n">RESPONSE_NO</span><span class="p">:</span>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-36" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-36" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-36"></a>    <span class="nb">print</span> <span class="s2">"respondio no :("</span>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-37" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-37" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-37"></a>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-38" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-38" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-38"></a><span class="n">question</span><span class="o">.</span><span class="n">hide</span><span class="p">()</span>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-39" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-39" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-39"></a>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-40" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-40" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-40"></a><span class="k">if</span> <span class="n">error</span><span class="o">.</span><span class="n">run</span><span class="p">()</span> <span class="o">==</span> <span class="n">gtk</span><span class="o">.</span><span class="n">RESPONSE_OK</span><span class="p">:</span>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-41" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-41" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-41"></a>    <span class="nb">print</span> <span class="s2">"error OK"</span>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-42" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-42" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-42"></a>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-43" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-43" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-43"></a><span class="n">error</span><span class="o">.</span><span class="n">hide</span><span class="p">()</span>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-44" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-44" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-44"></a><span class="n">sys</span><span class="o">.</span><span class="n">exit</span><span class="p">(</span><span class="mi">0</span><span class="p">)</span>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-45" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-45" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-45"></a>
+<a id="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-46" name="rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-46" href="#rest_code_c8b3e2f638ee44349eddb4b5d2fddbbf-46"></a><span class="n">gtk</span><span class="o">.</span><span class="n">main</span><span class="p">()</span>
+</pre></div>
+    </div>    
+</div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+            <script src="../../../../assets/js/jquery.min.js"></script><script src="../../../../assets/js/popper.min.js"></script><script src="../../../../assets/js/bootstrap.min.js"></script><script src="../../../../assets/js/baguetteBox.min.js"></script><script src="../../../../assets/js/pyar.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>

@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html prefix="
+og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Keyboard Leds Demo | Python Argentina Wiki</title>
+<link href="../../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/bootblog.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../../rss.xml">
+<link rel="canonical" href="https://wiki.python.org.ar/recetario/keyboardledsdemo/">
+<!--[if lt IE 9]><script src="../../assets/js/html5.js"></script><![endif]--><meta name="author" content="Python Argentina">
+<meta property="og:site_name" content="Python Argentina Wiki">
+<meta property="og:title" content="Keyboard Leds Demo">
+<meta property="og:url" content="https://wiki.python.org.ar/recetario/keyboardledsdemo/">
+<meta property="og:description" content="Cómo controlar los 3 Leds del Teclado usando Python, ejemplo simple. Requiere Privilegios elevados en el equipo.
+
+Nota: Si tu teclado es a Baterías (Bluetooth, Wireless), el uso intensivo de este Scri">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
+
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../pyar/"><span class="quienes_somos"></span>Nosotros</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../foro_y_redes/"><span class="navbar_lista_de_correo"></span>Foro</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../../"><span class="wiki"></span>Wiki</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/noticias/"><span class="news"></span>Noticias</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/irc/"><span class="irc"></span>IRC</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/eventos/"><span class="eventos"></span>Eventos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://planeta.python.org.ar/"><span class="pyar"></span>Planeta</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/trabajo/"><span class="jobs"></span>Trabajos</a>
+                </li>
+            </ul>
+</div>
+    </nav>
+</div>
+
+<!-- Header and menu bar -->
+<div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        
+<div class="col-lg-12">
+    <div class="page-header">
+        <div class="pull-right">
+            <a href="https://github.com/PyAr/wiki/blob/master/pages/recetario/keyboardledsdemo.rst" id="sourcelink" class="nav-link">Editar</a>
+        </div>
+        <h2>Keyboard Leds Demo</h2>
+    </div>
+    <div class="e-content entry-content" itemprop="articleBody text">
+    <ul class="simple">
+<li><p>Cómo controlar los 3 Leds del Teclado usando Python, ejemplo simple. Requiere Privilegios elevados en el equipo.</p></li>
+</ul>
+<p><strong>Nota:</strong> <em>Si tu teclado es a Baterías (Bluetooth, Wireless), el uso intensivo de este Script reducirá la duracion de las mismas.</em></p>
+<div class="code"><pre class="code python"><a id="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-1" name="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-1" href="#rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-1"></a><span class="ch">#!/usr/bin/env python</span>
+<a id="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-2" name="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-2" href="#rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-2"></a><span class="c1"># -*- coding: utf-8 -*-</span>
+<a id="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-3" name="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-3" href="#rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-3"></a><span class="c1">#</span>
+<a id="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-4" name="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-4" href="#rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-4"></a><span class="kn">import</span> <span class="nn">fcntl</span>
+<a id="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-5" name="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-5" href="#rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-5"></a><span class="kn">import</span> <span class="nn">os</span>
+<a id="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-6" name="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-6" href="#rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-6"></a><span class="kn">import</span> <span class="nn">time</span>
+<a id="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-7" name="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-7" href="#rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-7"></a>
+<a id="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-8" name="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-8" href="#rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-8"></a><span class="n">KDSETLED</span> <span class="o">=</span> <span class="mh">0x4B32</span>
+<a id="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-9" name="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-9" href="#rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-9"></a><span class="n">SCR_LED</span>  <span class="o">=</span> <span class="mh">0x01</span>
+<a id="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-10" name="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-10" href="#rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-10"></a><span class="n">NUM_LED</span>  <span class="o">=</span> <span class="mh">0x02</span>
+<a id="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-11" name="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-11" href="#rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-11"></a><span class="n">CAP_LED</span>  <span class="o">=</span> <span class="mh">0x04</span>
+<a id="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-12" name="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-12" href="#rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-12"></a>
+<a id="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-13" name="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-13" href="#rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-13"></a><span class="n">console_fd</span> <span class="o">=</span> <span class="n">os</span><span class="o">.</span><span class="n">open</span><span class="p">(</span><span class="s1">'/dev/console'</span><span class="p">,</span> <span class="n">os</span><span class="o">.</span><span class="n">O_NOCTTY</span><span class="p">)</span>
+<a id="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-14" name="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-14" href="#rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-14"></a>
+<a id="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-15" name="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-15" href="#rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-15"></a><span class="n">all_on</span> <span class="o">=</span> <span class="n">SCR_LED</span> <span class="o">|</span> <span class="n">NUM_LED</span> <span class="o">|</span> <span class="n">CAP_LED</span>
+<a id="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-16" name="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-16" href="#rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-16"></a><span class="n">all_off</span> <span class="o">=</span> <span class="mi">0</span>
+<a id="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-17" name="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-17" href="#rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-17"></a>
+<a id="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-18" name="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-18" href="#rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-18"></a><span class="k">while</span> <span class="mi">1</span><span class="p">:</span>
+<a id="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-19" name="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-19" href="#rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-19"></a>    <span class="n">fcntl</span><span class="o">.</span><span class="n">ioctl</span><span class="p">(</span><span class="n">console_fd</span><span class="p">,</span> <span class="n">KDSETLED</span><span class="p">,</span> <span class="n">all_on</span><span class="p">)</span>
+<a id="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-20" name="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-20" href="#rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-20"></a>    <span class="n">time</span><span class="o">.</span><span class="n">sleep</span><span class="p">(</span><span class="mf">0.1</span><span class="p">)</span> <span class="c1"># Aca se cambia el tiempo, o podria realizar una funcion mas compleja</span>
+<a id="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-21" name="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-21" href="#rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-21"></a>    <span class="n">fcntl</span><span class="o">.</span><span class="n">ioctl</span><span class="p">(</span><span class="n">console_fd</span><span class="p">,</span> <span class="n">KDSETLED</span><span class="p">,</span> <span class="n">all_off</span><span class="p">)</span>
+<a id="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-22" name="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-22" href="#rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-22"></a>    <span class="n">time</span><span class="o">.</span><span class="n">sleep</span><span class="p">(</span><span class="mf">0.1</span><span class="p">)</span> <span class="c1"># Here changes the Timming, or something more complex</span>
+</pre></div>
+<p><strong>Ejemplo:</strong></p>
+<div class="code"><pre class="code bash"><a id="rest_code_3ad604db346c4e19b5beea51f266b066-1" name="rest_code_3ad604db346c4e19b5beea51f266b066-1" href="#rest_code_3ad604db346c4e19b5beea51f266b066-1"></a>sudo<span class="w"> </span>/usr/bin/env<span class="w"> </span>python<span class="w"> </span>keyboardleds.py
+</pre></div>
+<p><em>Disclaimer: el uso o no de SheBang/Declaracion de Encoding queda a criterio del usuario.</em></p>
+    </div>    
+</div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+            <script src="../../assets/js/jquery.min.js"></script><script src="../../assets/js/popper.min.js"></script><script src="../../assets/js/bootstrap.min.js"></script><script src="../../assets/js/baguetteBox.min.js"></script><script src="../../assets/js/pyar.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>

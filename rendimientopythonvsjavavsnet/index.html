@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html prefix="
+og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Comparación de Rendimiento entre Python, Java y .Net | Python Argentina Wiki</title>
+<link href="../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/bootblog.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../rss.xml">
+<link rel="canonical" href="https://wiki.python.org.ar/rendimientopythonvsjavavsnet/">
+<!--[if lt IE 9]><script src="../assets/js/html5.js"></script><![endif]--><meta name="author" content="Python Argentina">
+<meta property="og:site_name" content="Python Argentina Wiki">
+<meta property="og:title" content="Comparación de Rendimiento entre Python, Java y .Net">
+<meta property="og:url" content="https://wiki.python.org.ar/rendimientopythonvsjavavsnet/">
+<meta property="og:description" content="Mito:
+Python es pesado
+
+
+Hechos:
+Comparando los instaladores de los entornos de desarrollo:
+
+Python 2.5.1 installer windows: 10MB
+Java EE SDK 5: 124.25MB
+Net Framework 2.0 SDK: 354MB
+
+Habría que ver b">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
+
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../pyar/"><span class="quienes_somos"></span>Nosotros</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../foro_y_redes/"><span class="navbar_lista_de_correo"></span>Foro</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../"><span class="wiki"></span>Wiki</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/noticias/"><span class="news"></span>Noticias</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/irc/"><span class="irc"></span>IRC</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/eventos/"><span class="eventos"></span>Eventos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://planeta.python.org.ar/"><span class="pyar"></span>Planeta</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/trabajo/"><span class="jobs"></span>Trabajos</a>
+                </li>
+            </ul>
+</div>
+    </nav>
+</div>
+
+<!-- Header and menu bar -->
+<div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        
+<div class="col-lg-12">
+    <div class="page-header">
+        <div class="pull-right">
+            <a href="https://github.com/PyAr/wiki/blob/master/pages/rendimientopythonvsjavavsnet.rst" id="sourcelink" class="nav-link">Editar</a>
+        </div>
+        <h2>Comparación De Rendimiento Entre Python, Java Y .net</h2>
+    </div>
+    <div class="e-content entry-content" itemprop="articleBody text">
+    <section id="mito"><h2>Mito:</h2>
+<p><em>Python es pesado</em></p>
+</section><section id="hechos"><h2>Hechos:</h2>
+<p>Comparando los instaladores de los entornos de desarrollo:</p>
+<ul class="simple">
+<li><p>Python 2.5.1 installer windows: 10MB</p></li>
+<li><p>Java EE SDK 5: 124.25MB</p></li>
+<li><p>Net Framework 2.0 SDK: 354MB</p></li>
+</ul>
+<p>Habría que ver bien que funionalidad trae cada uno, pero tomando muy por arriba, nos da una idea que el codigo python es mucho mas compacto, considerando que en 354MB entra mucha mas "complejidad" que en 10MB (codigo, documentación, herramientas, etc.).</p>
+<p>Comparando los lenguajes:</p>
+<ul class="simple">
+<li><p>Python es casi 3 veces mas compacto que Java, 6 veces mas que C. O sea, en C tenemos 6 lineas cuando en python 1 sola.</p></li>
+<li><p>Python carga 6 veces mas rápido que Java cuando inicia</p></li>
+<li><p>Python consume 4 veces menos memoria que java</p></li>
+<li><p>Python tiene extensiones en C/C++ que son más rápidas que código nativo java, por mas que java tenga un compilador jit</p></li>
+<li><p>Python es bastante mas lento que java si medimos los tiempos de ejecución de programas de uso intensivo de procesador. Igualmente, si se usan extensiones en  C para el "procesamiento intensivo", python es más rápido que java.</p></li>
+</ul></section><section id="resumen"><h2>Resumen:</h2>
+<p>En resumen basandonos en las comparaciones anteriores:</p>
+<ul class="simple">
+<li><p>Para aplicaciones interactivas que no tienen uso intensivo de procesador, que conectan la base de datos con la interfaz gráfica por decirlo asi, la "ventaja" de velocidad de lenguajes estaticos compilados es despreciable (el 99% del tiempo el código va a estar idle esperando por la db o la gui)</p></li>
+<li><p>Para aplicaciones matematicas, o lo que sea que necesite procesamiento intensivo, siempre existen en python extenciones en C/C++ para acelerar las cosas, teniendo lo mejor de los dos mundos: velocidad de C/C++ y flexibilidad de Python</p></li>
+<li><p>Para aplicaciones de sistema (system programing), una base de datos, un sistema operativo, etc., C o C++</p></li>
+</ul>
+<p><em>Nota</em>: Se puede estimar que .Net estaría a la altura de Java respecto al rendimiento, cosa que no se puede comprobar ya que .Net no corre en linux que es el sistema desde donde se efecturon las mediciones (ver fuentes)</p>
+</section><section id="observaciones"><h2>Observaciones:</h2>
+<p>Si tomaramos el rendimiento de un programador sólo en funcion de las lineas de código que produce (y estas serían constantes e intercambiables entre los distintos programadores, o sea, que todos los programadores rindieramos igual), se podría decir que un programador de python equivale a 3 programadores de java, o lo que es lo mismo, que un programador de python realiza su trabajo en 3 veces menos el tiempo. 🙂</p>
+</section><section id="fuentes"><h2>Fuentes:</h2>
+<ul class="simple">
+<li><p><a class="reference external" href="http://en.wikipedia.org/wiki/Comparison_of_programming_languages">Comparaciones de los Lenguajes de Programación en Wikipedia</a></p></li>
+<li><p><a class="reference external" href="http://shootout.alioth.debian.org/gp4/benchmark.php?test=all&amp;lang=all">Mediciones de Rendimiento de los lenguajes de programación (en alioth.debian.org)</a></p></li>
+</ul>
+<section id="analisis-en-perspectiva-de-comparaciones-de-rendimiento"><h3>Análisis "en perspectiva" de comparaciones de rendimiento</h3>
+<p>Analizando una comparativa de 9 lenguajes de programación / formas de compilación <a class="reference external" href="RendimientoPythonVsJavaVsNet#1">#1</a>, en el cuadro de la página 3 encontramos un resumen (no muy favorable) y un gráfico donde directamente se excluyo Python por el bajo desempeño en algunas de las pruebas.</p>
+<p>Sin embargo, debemos ver estos datos en perspectiva, como se hace notar en el wiki de Python <a class="reference external" href="RendimientoPythonVsJavaVsNet#3">#3</a>.  Uno debe tener en cuenta si los puntos flacos del interprete afectan el desempeño de la propia aplicación.</p>
+<p>Al mismo tiempo, en el sitio oficial de Python (<a class="reference external" href="RendimientoPythonVsJavaVsNet#2">#2</a> y <a class="reference external" href="RendimientoPythonVsJavaVsNet#3">#3</a>) se dan ejemplos de código y consejos para mejorar el desempeño.</p>
+<p>Volviendo a la tabla comparativa de desempeño del articulo <a class="reference external" href="RendimientoPythonVsJavaVsNet#1">#1</a>, vemos que el desempeño de python en grandes operaciones matemáticas dista de ser el mejor (sea con enteros, punto flotante, punto flotante de doble precisión y trigonométricas). Para mejorarlo podemos usar Pyrex, que es un Python que se compila (aunque con limitaciones en la cantidad de módulos disponibles).  Pero su velocidad es casi tan buena como la de C++ puro y mayor que MatLab u Octave <a class="reference external" href="RendimientoPythonVsJavaVsNet#4">#4</a>.</p>
+<p>Ahora bien, si nuestro punto critico no son los cálculos matemáticos, sino la velocidad de Entrada/Salida (I/O), vemos que en estos benchmarks la velocidad de Python es apenas menor que Visual C++, o incluso igual cuando se usa Psyco.</p>
+</section></section><section id="referencias"><h2>Referencias</h2>
+<ol class="arabic">
+<li>
+<blockquote id="target-1">
+<p><a class="reference external" href="http://www.osnews.com/story/5602/Nine_Language_Performance_Round-up:_Benchmarking_Math_&amp;_File_I_O/page3/">Comparación entre nueve lenguajes</a></p>
+</blockquote>
+</li>
+<li>
+<blockquote id="target-2">
+<p><a class="reference external" href="http://wiki.python.org/moin/PythonSpeed">Cuestiones de Rendimiento (python.org)</a></p>
+</blockquote>
+</li>
+<li>
+<blockquote id="target-3">
+<p><a class="reference external" href="http://wiki.python.org/moin/PythonSpeed/PerformanceTips">Tips para mejorar la Rendimiento de python (python.org)</a></p>
+</blockquote>
+</li>
+<li>
+<blockquote id="target-4">
+<p><a class="reference external" href="http://scipy.org/PerformancePython">Rendimiento en python sobre operaciones matemáticas</a></p>
+</blockquote>
+</li>
+</ol>
+<!-- ############################################################################ --></section>
+</div>    
+</div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+            <script src="../assets/js/jquery.min.js"></script><script src="../assets/js/popper.min.js"></script><script src="../assets/js/bootstrap.min.js"></script><script src="../assets/js/baguetteBox.min.js"></script><script src="../assets/js/pyar.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>

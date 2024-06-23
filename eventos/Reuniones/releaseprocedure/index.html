@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html prefix="
+og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Releaseprocedure | Python Argentina Wiki</title>
+<link href="../../../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../../../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
+<link href="../../../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../../../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../../../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../../../assets/css/bootblog.css" rel="stylesheet" type="text/css">
+<link href="../../../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../../../rss.xml">
+<link rel="canonical" href="https://wiki.python.org.ar/eventos/Reuniones/releaseprocedure/">
+<!--[if lt IE 9]><script src="../../../assets/js/html5.js"></script><![endif]--><meta name="author" content="Python Argentina">
+<meta property="og:site_name" content="Python Argentina Wiki">
+<meta property="og:title" content="Releaseprocedure">
+<meta property="og:url" content="https://wiki.python.org.ar/eventos/Reuniones/releaseprocedure/">
+<meta property="og:description" content="1 Release Procedure para las Reuniones
+Las reuniones de PyAr pueden ser propuestas y organizadas por cualquiera de sus miembros, en cualquier lugar del país. Estos son los pasos a seguir para organiza">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
+
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../../pyar/"><span class="quienes_somos"></span>Nosotros</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../../foro_y_redes/"><span class="navbar_lista_de_correo"></span>Foro</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../../../"><span class="wiki"></span>Wiki</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/noticias/"><span class="news"></span>Noticias</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/irc/"><span class="irc"></span>IRC</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/eventos/"><span class="eventos"></span>Eventos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://planeta.python.org.ar/"><span class="pyar"></span>Planeta</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/trabajo/"><span class="jobs"></span>Trabajos</a>
+                </li>
+            </ul>
+</div>
+    </nav>
+</div>
+
+<!-- Header and menu bar -->
+<div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        
+<div class="col-lg-12">
+    <div class="page-header">
+        <div class="pull-right">
+            <a href="https://github.com/PyAr/wiki/blob/master/pages/eventos/Reuniones/releaseprocedure.rst" id="sourcelink" class="nav-link">Editar</a>
+        </div>
+        <h2>Releaseprocedure</h2>
+    </div>
+    <div class="e-content entry-content" itemprop="articleBody text">
+    <section id="release-procedure-para-las-reuniones"><h2><a class="toc-backref" href="#toc-entry-1" role="doc-backlink"><span class="sectnum">1 </span>Release Procedure para las Reuniones</a></h2>
+<p>Las reuniones de <a class="reference external" href="../../../pyar">PyAr</a> pueden ser propuestas y organizadas por cualquiera de sus miembros, en cualquier lugar del país. Estos son los pasos a seguir para organizarlas.</p>
+<nav class="contents" id="contenido"><p class="topic-title"><a class="reference internal" href="#top">Contenido</a></p>
+<ul class="auto-toc simple">
+<li>
+<p><a class="reference internal" href="#release-procedure-para-las-reuniones" id="toc-entry-1"><span class="sectnum">1 </span>Release Procedure para las Reuniones</a></p>
+<ul class="auto-toc">
+<li>
+<p><a class="reference internal" href="#tareas-comunes" id="toc-entry-2"><span class="sectnum">1.1 </span>Tareas comunes</a></p>
+<ul>
+<li><p><a class="reference internal" href="#proponer-la-reunion" id="toc-entry-3">Proponer la reunión</a></p></li>
+<li><p><a class="reference internal" href="#obtener-un-minimo-de-personas-interesadas" id="toc-entry-4">Obtener un mínimo de personas interesadas</a></p></li>
+<li><p><a class="reference internal" href="#fijar-fecha-y-lugar-tentativos" id="toc-entry-5">Fijar fecha y lugar tentativos</a></p></li>
+<li><p><a class="reference internal" href="#seguir-el-releaseprocedure" id="toc-entry-6">Seguir el ReleaseProcedure</a></p></li>
+<li><p><a class="reference internal" href="#generar-el-temario" id="toc-entry-7">Generar el temario</a></p></li>
+<li><p><a class="reference internal" href="#armar-una-lista-de-asistentes" id="toc-entry-8">Armar una lista de asistentes</a></p></li>
+<li><p><a class="reference internal" href="#fijar-fecha-y-lugar-definitivos" id="toc-entry-9">Fijar fecha y lugar definitivos</a></p></li>
+<li><p><a class="reference internal" href="#definir-quien-dirigira-la-reunion" id="toc-entry-10">Definir quien dirigirá la reunión</a></p></li>
+<li><p><a class="reference internal" href="#publicar-recordatorios-en-la-lista" id="toc-entry-11">Publicar recordatorios en la lista</a></p></li>
+<li><p><a class="reference internal" href="#publicar-recordatorios-el-dia-de-la-reunion" id="toc-entry-12">Publicar recordatorios el día de la reunión</a></p></li>
+</ul>
+</li>
+<li>
+<p><a class="reference internal" href="#tareas-especificas" id="toc-entry-13"><span class="sectnum">1.2 </span>Tareas específicas</a></p>
+<ul>
+<li>
+<p><a class="reference internal" href="#reuniones-en-el-hip-bar" id="toc-entry-14">Reuniones en el Hip Bar</a></p>
+<ul>
+<li><p><a class="reference internal" href="#reservar-el-salon-de-abajo" id="toc-entry-15">Reservar el salón de abajo</a></p></li>
+<li><p><a class="reference internal" href="#pedir-que-vayan-de-compras" id="toc-entry-16">Pedir que vayan de compras</a></p></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><a class="reference internal" href="#tareas-posteriores-a-la-reunion" id="toc-entry-17"><span class="sectnum">1.3 </span>Tareas posteriores a la reunión</a></p>
+<ul>
+<li><p><a class="reference internal" href="#eliminar-el-anuncio-de-la-pagina-de-inicio" id="toc-entry-18">Eliminar el anuncio de la página de Inicio</a></p></li>
+<li><p><a class="reference internal" href="#editar-proximareunion" id="toc-entry-19">Editar ProximaReunion</a></p></li>
+<li><p><a class="reference internal" href="#confeccionar-la-minuta" id="toc-entry-20">Confeccionar la minuta</a></p></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul></nav><hr class="docutils">
+<section id="tareas-comunes"><h3><a class="toc-backref" href="#toc-entry-2" role="doc-backlink"><span class="sectnum">1.1 </span>Tareas comunes</a></h3>
+<p>Los pasos iniciales son los mismos para cualquier reunión, independientemente de donde se vaya a realizar.</p>
+<section id="proponer-la-reunion"><h4><a class="toc-backref" href="#toc-entry-3" role="doc-backlink">Proponer la reunión</a></h4>
+<p>Escribí un mail a la <a class="reference external" href="../../../listadecorreo">ListaDeCorreo</a>, proponiendo la reunión. Deberías indicar una fecha aproximada, el o los motivos principales, y el lugar donde pensás que puede realizarse. Puede ser que haya más de un lugar posible.</p>
+</section><section id="obtener-un-minimo-de-personas-interesadas"><h4><a class="toc-backref" href="#toc-entry-4" role="doc-backlink">Obtener un mínimo de personas interesadas</a></h4>
+<p>Es obvio, pero la reunión no podrá realizarse si no hay un mínimo de personas interesadas en asistir. ¿Cuánto es el mínimo? Dependerá de dónde se realice la reunión, y cuales sean los objetivos básicos de la misma. Ante la duda... usá tu sentido común</p>
+</section><section id="fijar-fecha-y-lugar-tentativos"><h4><a class="toc-backref" href="#toc-entry-5" role="doc-backlink">Fijar fecha y lugar tentativos</a></h4>
+<p>Como parte de la discusión, probablemente surjan una o dos fechas tentativas, y consenso sobre el o los lugares en que podría hacerse la reunión. Dependiendo de con cuanta anticipación se esté planificando, en esta etapa, esta fecha y lugar podría llegar a cambiarse.</p>
+<p>Una herramienta piola para elegir colaborativamente el día es <a class="reference external" href="http://www.doodle.com/">Doodle</a>: Se pueden proponer varios días distintos, incluso en diferentes semanas, y la gente dice cuando puede: el día con más "votos", gana.</p>
+</section><section id="seguir-el-releaseprocedure"><h4><a class="toc-backref" href="#toc-entry-6" role="doc-backlink">Seguir el ReleaseProcedure</a></h4>
+<p>A partir de este punto, es importante seguir esta lista de pasos, para no olvidarse de nada. Sugerimos copiar los títulos del release procedure en el temario de la reunión, e irlos tachando o marcando a medida que se van cumpliendo.</p>
+</section><section id="generar-el-temario"><h4><a class="toc-backref" href="#toc-entry-7" role="doc-backlink">Generar el temario</a></h4>
+<p>Editar la página <a class="reference external" href="../../../proximareunion">ProximaReunion</a>, e ir volcando el temario. Tratá de alentar la participación en este punto, ya que el éxito de la reunión normalmente depende de lograr un temario interesante. Respetá el formato normal de la página.</p>
+</section><section id="armar-una-lista-de-asistentes"><h4><a class="toc-backref" href="#toc-entry-8" role="doc-backlink">Armar una lista de asistentes</a></h4>
+<p>Para ayudar en la organización, es importante que las personas interesadas puedan registrarse como asistentes. Una de las secciones de <a class="reference external" href="../../../proximareunion">ProximaReunion</a> debería contener una lista en la cual los interesados puedan agregarse ellos mismos editando la página.</p>
+</section><section id="fijar-fecha-y-lugar-definitivos"><h4><a class="toc-backref" href="#toc-entry-9" role="doc-backlink">Fijar fecha y lugar definitivos</a></h4>
+<p>Esto debería ocurrir como mínimo con una semana de anticipación. A veces el lugar requiere de una confirmación previa de disponibilidad, con lo cual la fecha depende de realizar primero esa confirmación (y de con cuanta anticipación haya que hacerla). Tenelo en cuenta. Siempre deberá discutirse en la <a class="reference external" href="../../../listadecorreo">ListaDeCorreo</a> cualquier cambio. Cuando esto esté definido, hay que publicarlo en la lista, y agregar un recordatorio en la página de <a class="reference external" href="../../../">Inicio</a> (esto último tendrá que realizarlo algún <em>admin</em> de <a class="reference external" href="../../../pyar">PyAr</a>). La fecha y lugar también deberían quedar consignados en <a class="reference external" href="../../../proximareunion">ProximaReunion</a>.</p>
+</section><section id="definir-quien-dirigira-la-reunion"><h4><a class="toc-backref" href="#toc-entry-10" role="doc-backlink">Definir quien dirigirá la reunión</a></h4>
+<p>Algún asistente tendrá que hacerse responsable de:</p>
+<ul class="simple">
+<li><p>Llevar el temario impreso;</p></li>
+<li><p>Cuidar los tiempos que se dedican a discutir cada punto, para que se puedan tratar todos;</p></li>
+<li><p>Tomar nota de los asistentes;</p></li>
+<li><p>Tomar nota de todo lo que se diga;</p></li>
+<li><p>Finalizada la reunión, armar la versión inicial de la minuta de la misma.</p></li>
+</ul></section><section id="publicar-recordatorios-en-la-lista"><h4><a class="toc-backref" href="#toc-entry-11" role="doc-backlink">Publicar recordatorios en la lista</a></h4>
+<p>Mandá un mail diario a la <a class="reference external" href="../../../listadecorreo">ListaDeCorreo</a> cuando falten 2 o 3 días para la reunión, y no más (¡no queremos SPAM!). Opcionalmente, podrás pre-anunciar la reunión en la lista de Python en español (con una vez, alcanza).</p>
+</section><section id="publicar-recordatorios-el-dia-de-la-reunion"><h4><a class="toc-backref" href="#toc-entry-12" role="doc-backlink">Publicar recordatorios el día de la reunión</a></h4>
+<p>Mandá un mail a la <a class="reference external" href="../../../listadecorreo">ListaDeCorreo</a> el mismo día de la reunión, a primera hora, a modo de recordatorio. Algún <em>admin</em> debería actualizar la página de <a class="reference external" href="../../../">Inicio</a> para reflejar que la reunión es <em>hoy</em>. Si enviaste un preanuncio a python-es, podrías mandar un último mail allí también.</p>
+</section></section><section id="tareas-especificas"><h3><a class="toc-backref" href="#toc-entry-13" role="doc-backlink"><span class="sectnum">1.2 </span>Tareas específicas</a></h3>
+<p>Algunos lugares requieren de algunas tareas específicas. Las comentamos a continuación, agrupadas por lugar de reunión.</p>
+<section id="reuniones-en-el-hip-bar"><h4><a class="toc-backref" href="#toc-entry-14" role="doc-backlink">Reuniones en el Hip Bar</a></h4>
+<section id="reservar-el-salon-de-abajo"><h5><a class="toc-backref" href="#toc-entry-15" role="doc-backlink">Reservar el salón de abajo</a></h5>
+<p>Alguien deberá hacerse responsable de llamar por TE o pasar personalmente por el <em>Hip Bar</em>, y reservar el salón de abajo. La disponibilidad de este lugar puede condicionar la fecha de la reunión. Al momento de la reserva, debería tenerse una lista bastante aproximada de asistentes, para evaluar la posibilidad de pedir el servicio de <em>pizza y cerveza libre</em>.</p>
+</section><section id="pedir-que-vayan-de-compras"><h5><a class="toc-backref" href="#toc-entry-16" role="doc-backlink">Pedir que vayan de compras</a></h5>
+<p>El <em>Hip Bar</em> tiene su historia de dejarnos de a pie, sin cerveza y sin comida. Al hacer la reserva, recordarles que son un bar, y que ¡no pueden quedarse sin cerveza!</p>
+</section></section></section><section id="tareas-posteriores-a-la-reunion"><h3><a class="toc-backref" href="#toc-entry-17" role="doc-backlink"><span class="sectnum">1.3 </span>Tareas posteriores a la reunión</a></h3>
+<p>Una vez celebrada la reunión, deben realizarse las siguientes tareas.</p>
+<section id="eliminar-el-anuncio-de-la-pagina-de-inicio"><h4><a class="toc-backref" href="#toc-entry-18" role="doc-backlink">Eliminar el anuncio de la página de Inicio</a></h4>
+</section><section id="editar-proximareunion"><h4><a class="toc-backref" href="#toc-entry-19" role="doc-backlink">Editar ProximaReunion</a></h4>
+<p>Debe eliminarse la fecha y lugar, y aclarar que no hay prevista por el momento una próxima reunión, para evitar confusiones.</p>
+</section><section id="confeccionar-la-minuta"><h4><a class="toc-backref" href="#toc-entry-20" role="doc-backlink">Confeccionar la minuta</a></h4>
+<p>La versión inicial estará a cargo de quien haya dirigido la reunión. La página deberá estar abierta a que todos puedan editar el contenido, al menos durante los primeros días posteriores a la reunión. Seguir el ejemplo de minutas anteriores en cuanto a estilo, organización y formato.</p>
+<!-- ############################################################################ -->
+</section></section></section>
+</div>    
+</div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+            <script src="../../../assets/js/jquery.min.js"></script><script src="../../../assets/js/popper.min.js"></script><script src="../../../assets/js/bootstrap.min.js"></script><script src="../../../assets/js/baguetteBox.min.js"></script><script src="../../../assets/js/pyar.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>

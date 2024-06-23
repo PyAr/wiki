@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html prefix="
+og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>aLetras | Python Argentina Wiki</title>
+<link href="../../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/bootblog.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../../rss.xml">
+<link rel="canonical" href="https://wiki.python.org.ar/recetario/aletras/">
+<!--[if lt IE 9]><script src="../../assets/js/html5.js"></script><![endif]--><meta name="author" content="Python Argentina">
+<meta property="og:site_name" content="Python Argentina Wiki">
+<meta property="og:title" content="aLetras">
+<meta property="og:url" content="https://wiki.python.org.ar/recetario/aletras/">
+<meta property="og:description" content="Descripción
+aLetras(numero) es una función a la que se le pasa un valor númerico y regresa un string con el valor numérico convertido a letras.
+Los valores que pueden ser convertidos pertenecen al ran">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
+
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../pyar/"><span class="quienes_somos"></span>Nosotros</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../foro_y_redes/"><span class="navbar_lista_de_correo"></span>Foro</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../../"><span class="wiki"></span>Wiki</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/noticias/"><span class="news"></span>Noticias</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/irc/"><span class="irc"></span>IRC</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/eventos/"><span class="eventos"></span>Eventos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://planeta.python.org.ar/"><span class="pyar"></span>Planeta</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/trabajo/"><span class="jobs"></span>Trabajos</a>
+                </li>
+            </ul>
+</div>
+    </nav>
+</div>
+
+<!-- Header and menu bar -->
+<div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        
+<div class="col-lg-12">
+    <div class="page-header">
+        <div class="pull-right">
+            <a href="https://github.com/PyAr/wiki/blob/master/pages/recetario/aletras.rst" id="sourcelink" class="nav-link">Editar</a>
+        </div>
+        <h2>Aletras</h2>
+    </div>
+    <div class="e-content entry-content" itemprop="articleBody text">
+    <section id="descripcion"><h2>Descripción</h2>
+<p><em>aLetras(numero)</em> es una función a la que se le pasa un valor númerico y regresa un string con el valor numérico convertido a letras.</p>
+<p>Los valores que pueden ser convertidos pertenecen al rango <em>-999.999.999,99 : 999.999.999,99</em>. Si se proporciona una cadena fuera de rango, retorna el string "0".</p>
+<p>Siempre se trabaja con 2 decimales (se redondean los valores suministrados)</p>
+</section><section id="ejemplos"><h2>Ejemplos:</h2>
+<div class="code"><pre class="code python"><a id="rest_code_b36d62624816482c891c1e7c7a95f17d-1" name="rest_code_b36d62624816482c891c1e7c7a95f17d-1" href="#rest_code_b36d62624816482c891c1e7c7a95f17d-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">aLetras</span><span class="p">(</span><span class="mf">1234.56</span><span class="p">)</span>
+<a id="rest_code_b36d62624816482c891c1e7c7a95f17d-2" name="rest_code_b36d62624816482c891c1e7c7a95f17d-2" href="#rest_code_b36d62624816482c891c1e7c7a95f17d-2"></a><span class="s1">' MIL DOSCIENTOS TREINTA Y CUATRO CON CINCUENTA Y SEIS CENTAVOS'</span>
+<a id="rest_code_b36d62624816482c891c1e7c7a95f17d-3" name="rest_code_b36d62624816482c891c1e7c7a95f17d-3" href="#rest_code_b36d62624816482c891c1e7c7a95f17d-3"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">aLetras</span><span class="p">(</span><span class="o">-</span><span class="mf">240.99</span><span class="p">)</span>
+<a id="rest_code_b36d62624816482c891c1e7c7a95f17d-4" name="rest_code_b36d62624816482c891c1e7c7a95f17d-4" href="#rest_code_b36d62624816482c891c1e7c7a95f17d-4"></a><span class="s1">'MENOS DOSCIENTOS CUARENTA CON NOVENTA Y NUEVE CENTAVOS'</span>
+<a id="rest_code_b36d62624816482c891c1e7c7a95f17d-5" name="rest_code_b36d62624816482c891c1e7c7a95f17d-5" href="#rest_code_b36d62624816482c891c1e7c7a95f17d-5"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">aLetras</span><span class="p">(</span><span class="mi">100</span><span class="p">)</span>
+<a id="rest_code_b36d62624816482c891c1e7c7a95f17d-6" name="rest_code_b36d62624816482c891c1e7c7a95f17d-6" href="#rest_code_b36d62624816482c891c1e7c7a95f17d-6"></a><span class="s1">'CIEN'</span>
+<a id="rest_code_b36d62624816482c891c1e7c7a95f17d-7" name="rest_code_b36d62624816482c891c1e7c7a95f17d-7" href="#rest_code_b36d62624816482c891c1e7c7a95f17d-7"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">aLetras</span><span class="p">(</span><span class="mf">401201501.01</span><span class="p">)</span>
+<a id="rest_code_b36d62624816482c891c1e7c7a95f17d-8" name="rest_code_b36d62624816482c891c1e7c7a95f17d-8" href="#rest_code_b36d62624816482c891c1e7c7a95f17d-8"></a><span class="s1">'CUATROCIENTOS UN MILLON DOSCIENTOS UN MIL QUINIENTOS UNO CON UN CENTAVOS'</span>
+<a id="rest_code_b36d62624816482c891c1e7c7a95f17d-9" name="rest_code_b36d62624816482c891c1e7c7a95f17d-9" href="#rest_code_b36d62624816482c891c1e7c7a95f17d-9"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">aLetras</span><span class="p">(</span><span class="o">-</span><span class="mf">0.76</span><span class="p">)</span>
+<a id="rest_code_b36d62624816482c891c1e7c7a95f17d-10" name="rest_code_b36d62624816482c891c1e7c7a95f17d-10" href="#rest_code_b36d62624816482c891c1e7c7a95f17d-10"></a><span class="s1">'MENOS CERO CON SETENTA Y SEIS CENTAVOS'</span>
+<a id="rest_code_b36d62624816482c891c1e7c7a95f17d-11" name="rest_code_b36d62624816482c891c1e7c7a95f17d-11" href="#rest_code_b36d62624816482c891c1e7c7a95f17d-11"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">aLetras</span><span class="p">(</span><span class="mi">1000000000</span><span class="p">)</span>
+<a id="rest_code_b36d62624816482c891c1e7c7a95f17d-12" name="rest_code_b36d62624816482c891c1e7c7a95f17d-12" href="#rest_code_b36d62624816482c891c1e7c7a95f17d-12"></a><span class="s1">'0'</span>
+</pre></div>
+</section><section id="observaciones"><h2>Observaciones</h2>
+<p>La asignación y condicional en una línea -&gt; numeros[1] = "UNO" if i == 2 else "UN" &lt;- da problemas de sintaxis con versiones anteriores a Python 2.5.x</p>
+<p>Puede reemplazarse con:</p>
+<div class="code"><pre class="code python"><a id="rest_code_c83b1bef78f84ece958910ae67b32a7d-1" name="rest_code_c83b1bef78f84ece958910ae67b32a7d-1" href="#rest_code_c83b1bef78f84ece958910ae67b32a7d-1"></a><span class="k">if</span> <span class="n">i</span> <span class="o">==</span> <span class="mi">2</span><span class="p">:</span>
+<a id="rest_code_c83b1bef78f84ece958910ae67b32a7d-2" name="rest_code_c83b1bef78f84ece958910ae67b32a7d-2" href="#rest_code_c83b1bef78f84ece958910ae67b32a7d-2"></a>  <span class="n">numeros</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span> <span class="o">=</span> <span class="s2">"UNO"</span>
+<a id="rest_code_c83b1bef78f84ece958910ae67b32a7d-3" name="rest_code_c83b1bef78f84ece958910ae67b32a7d-3" href="#rest_code_c83b1bef78f84ece958910ae67b32a7d-3"></a><span class="k">else</span><span class="p">:</span>
+<a id="rest_code_c83b1bef78f84ece958910ae67b32a7d-4" name="rest_code_c83b1bef78f84ece958910ae67b32a7d-4" href="#rest_code_c83b1bef78f84ece958910ae67b32a7d-4"></a>  <span class="n">numeros</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span> <span class="o">=</span> <span class="s2">"UN"</span>
+</pre></div>
+</section><section id="codigo"><h2>Código:</h2>
+<div class="code"><pre class="code python"><a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-1" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-1" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-1"></a><span class="c1">#fuente: Recetario de PyAR, http://python.com.ar/moin/Recetario</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-2" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-2" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-2"></a><span class="c1">#autor: Cesar E Portela</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-3" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-3" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-3"></a><span class="c1">#date: 06-05-2008</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-4" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-4" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-4"></a><span class="c1">#version: 2</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-5" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-5" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-5"></a><span class="c1">#para Python: 2.5.x</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-6" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-6" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-6"></a>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-7" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-7" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-7"></a><span class="k">def</span> <span class="nf">aLetras</span><span class="p">(</span><span class="n">numero</span><span class="p">):</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-8" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-8" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-8"></a>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-9" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-9" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-9"></a>    <span class="n">numeros</span> <span class="o">=</span> <span class="p">{</span><span class="mi">0</span><span class="p">:</span><span class="s2">"CERO"</span><span class="p">,</span><span class="mi">2</span><span class="p">:</span><span class="s2">"DOS"</span><span class="p">,</span><span class="mi">3</span><span class="p">:</span><span class="s2">"TRES"</span><span class="p">,</span><span class="mi">4</span><span class="p">:</span><span class="s2">"CUATRO"</span><span class="p">,</span><span class="mi">5</span><span class="p">:</span><span class="s2">"CINCO"</span><span class="p">,</span><span class="mi">6</span><span class="p">:</span><span class="s2">"SEIS"</span><span class="p">,</span><span class="mi">7</span><span class="p">:</span><span class="s2">"SIETE"</span><span class="p">,</span><span class="mi">8</span><span class="p">:</span><span class="s2">"OCHO"</span><span class="p">,</span><span class="mi">9</span><span class="p">:</span><span class="s2">"NUEVE"</span><span class="p">,</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-10" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-10" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-10"></a>                <span class="mi">10</span><span class="p">:</span><span class="s2">"DIEZ"</span><span class="p">,</span><span class="mi">11</span><span class="p">:</span><span class="s2">"ONCE"</span><span class="p">,</span><span class="mi">12</span><span class="p">:</span><span class="s2">"DOCE"</span><span class="p">,</span><span class="mi">13</span><span class="p">:</span><span class="s2">"TRECE"</span><span class="p">,</span><span class="mi">14</span><span class="p">:</span><span class="s2">"CATORCE"</span><span class="p">,</span><span class="mi">15</span><span class="p">:</span><span class="s2">"QUINCE"</span><span class="p">,</span><span class="mi">16</span><span class="p">:</span><span class="s2">"DIECISEIS"</span><span class="p">,</span><span class="mi">17</span><span class="p">:</span><span class="s2">"DIECISIETE"</span><span class="p">,</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-11" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-11" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-11"></a>                <span class="mi">18</span><span class="p">:</span><span class="s2">"DIECIOCHO"</span><span class="p">,</span><span class="mi">19</span><span class="p">:</span><span class="s2">"DIECINUEVE"</span><span class="p">,</span><span class="mi">20</span><span class="p">:</span><span class="s2">"VEINTE"</span><span class="p">,</span><span class="mi">30</span><span class="p">:</span><span class="s2">"TREINTA"</span><span class="p">,</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-12" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-12" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-12"></a>                <span class="mi">40</span><span class="p">:</span><span class="s2">"CUARENTA"</span><span class="p">,</span><span class="mi">50</span><span class="p">:</span><span class="s2">"CINCUENTA"</span><span class="p">,</span><span class="mi">60</span><span class="p">:</span><span class="s2">"SESENTA"</span><span class="p">,</span><span class="mi">70</span><span class="p">:</span><span class="s2">"SETENTA"</span><span class="p">,</span><span class="mi">80</span><span class="p">:</span><span class="s2">"OCHENTA"</span><span class="p">,</span><span class="mi">90</span><span class="p">:</span><span class="s2">"NOVENTA"</span><span class="p">,</span><span class="mi">100</span><span class="p">:</span><span class="s2">"CIEN"</span><span class="p">,</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-13" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-13" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-13"></a>                <span class="mi">500</span><span class="p">:</span><span class="s2">"QUINIENTOS "</span><span class="p">,</span><span class="mi">700</span><span class="p">:</span><span class="s2">"SETECIENTOS "</span><span class="p">,</span><span class="mi">900</span><span class="p">:</span><span class="s2">"NOVECIENTOS "</span><span class="p">}</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-14" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-14" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-14"></a>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-15" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-15" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-15"></a>    <span class="k">if</span> <span class="nb">abs</span><span class="p">(</span><span class="n">numero</span><span class="p">)</span> <span class="o">&gt;</span> <span class="mf">999999999.99</span> <span class="p">:</span> <span class="c1">#mil millones, esta funcion procesa el rango [-999.999.999,99; 999.999.999,99]</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-16" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-16" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-16"></a>        <span class="k">return</span> <span class="p">(</span><span class="s2">"0"</span><span class="p">,</span> <span class="mi">0</span><span class="p">)</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-17" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-17" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-17"></a>    <span class="k">elif</span> <span class="n">numero</span> <span class="o">&lt;</span> <span class="mi">0</span><span class="p">:</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-18" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-18" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-18"></a>        <span class="n">cadena</span> <span class="o">=</span> <span class="s2">"MENOS "</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-19" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-19" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-19"></a>    <span class="k">else</span><span class="p">:</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-20" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-20" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-20"></a>        <span class="n">cadena</span> <span class="o">=</span> <span class="s2">""</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-21" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-21" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-21"></a>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-22" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-22" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-22"></a>    <span class="c1">#separo el numero entregado entre parte entera y sus decimales (tomando solo 2 y redondeando para arriba)</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-23" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-23" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-23"></a>    <span class="n">entero</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="nb">abs</span><span class="p">(</span><span class="n">numero</span><span class="p">))</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-24" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-24" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-24"></a>    <span class="n">decimales</span> <span class="o">=</span> <span class="nb">int</span><span class="p">((</span><span class="nb">round</span><span class="p">(</span><span class="nb">abs</span><span class="p">(</span><span class="n">numero</span><span class="p">),</span> <span class="mi">2</span><span class="p">)</span> <span class="o">+</span> <span class="mf">0.001</span><span class="p">)</span> <span class="o">*</span> <span class="mi">100</span><span class="p">)</span> <span class="o">%</span> <span class="mi">100</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-25" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-25" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-25"></a>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-26" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-26" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-26"></a>    <span class="c1">#la parte entera es separada en grupos de tres digitos</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-27" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-27" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-27"></a>    <span class="n">grupo1</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="n">entero</span> <span class="o">/</span> <span class="mi">1000000</span><span class="p">)</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-28" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-28" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-28"></a>    <span class="n">grupo2</span> <span class="o">=</span> <span class="nb">int</span><span class="p">((</span><span class="nb">int</span><span class="p">(</span><span class="n">entero</span><span class="p">)</span> <span class="o">-</span> <span class="nb">int</span><span class="p">(</span><span class="n">grupo1</span><span class="p">)</span><span class="o">*</span><span class="mi">1000000</span><span class="p">)</span><span class="o">/</span><span class="mi">1000</span><span class="p">)</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-29" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-29" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-29"></a>    <span class="n">grupo3</span> <span class="o">=</span> <span class="nb">int</span><span class="p">(</span><span class="n">entero</span> <span class="o">%</span> <span class="mi">1000</span><span class="p">)</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-30" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-30" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-30"></a>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-31" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-31" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-31"></a>    <span class="n">lista</span> <span class="o">=</span> <span class="p">[</span><span class="n">grupo1</span><span class="p">,</span> <span class="n">grupo2</span><span class="p">,</span> <span class="n">grupo3</span><span class="p">,</span> <span class="n">decimales</span><span class="p">]</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-32" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-32" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-32"></a>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-33" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-33" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-33"></a>    <span class="k">if</span> <span class="p">(</span><span class="n">grupo1</span> <span class="o">+</span> <span class="n">grupo2</span> <span class="o">+</span> <span class="n">grupo3</span><span class="p">)</span> <span class="o">==</span> <span class="mi">0</span><span class="p">:</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-34" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-34" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-34"></a>        <span class="n">cadena</span> <span class="o">+=</span> <span class="n">numeros</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-35" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-35" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-35"></a>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-36" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-36" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-36"></a>    <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="n">xrange</span><span class="p">(</span><span class="mi">4</span><span class="p">):</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-37" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-37" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-37"></a>        <span class="n">unidad</span> <span class="o">=</span> <span class="n">lista</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">%</span> <span class="mi">10</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-38" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-38" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-38"></a>        <span class="n">decena</span> <span class="o">=</span> <span class="n">lista</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">%</span> <span class="mi">100</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-39" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-39" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-39"></a>        <span class="n">centena</span> <span class="o">=</span> <span class="p">(</span><span class="n">lista</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">/</span> <span class="mi">100</span><span class="p">)</span> <span class="o">%</span> <span class="mi">10</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-40" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-40" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-40"></a>        <span class="n">subcadena</span> <span class="o">=</span> <span class="s2">""</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-41" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-41" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-41"></a>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-42" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-42" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-42"></a>        <span class="n">numeros</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span> <span class="o">=</span> <span class="s2">"UNO"</span> <span class="k">if</span> <span class="n">i</span> <span class="o">==</span> <span class="mi">2</span> <span class="k">else</span> <span class="s2">"UN"</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-43" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-43" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-43"></a>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-44" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-44" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-44"></a>        <span class="k">if</span> <span class="n">i</span> <span class="o">==</span> <span class="mi">0</span><span class="p">:</span> <span class="c1">#grupo 1: el de los millones</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-45" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-45" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-45"></a>            <span class="k">if</span> <span class="n">decena</span> <span class="o">==</span> <span class="mi">1</span><span class="p">:</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-46" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-46" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-46"></a>                <span class="n">subcadena</span> <span class="o">=</span> <span class="s2">" MILLON "</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-47" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-47" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-47"></a>            <span class="k">elif</span> <span class="n">lista</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">&gt;</span> <span class="mi">1</span><span class="p">:</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-48" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-48" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-48"></a>                <span class="n">subcadena</span> <span class="o">=</span> <span class="s2">" MILLONES "</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-49" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-49" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-49"></a>            <span class="k">else</span><span class="p">:</span> <span class="c1">#aqui se entra si lista[i] == 0 y en ese caso, no hay nada que procesar</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-50" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-50" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-50"></a>                <span class="k">continue</span> <span class="c1">#se sigue con la siguiente iteracion del bucle</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-51" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-51" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-51"></a>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-52" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-52" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-52"></a>        <span class="k">elif</span> <span class="n">i</span> <span class="o">==</span> <span class="mi">1</span><span class="p">:</span> <span class="c1">#grupo2: el de los miles</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-53" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-53" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-53"></a>            <span class="k">if</span> <span class="n">lista</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">==</span> <span class="mi">1</span><span class="p">:</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-54" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-54" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-54"></a>                <span class="n">cadena</span> <span class="o">+=</span> <span class="s2">" MIL "</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-55" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-55" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-55"></a>                <span class="k">continue</span> <span class="c1">#se pasa a la siguiente iteracion</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-56" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-56" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-56"></a>            <span class="k">elif</span> <span class="n">lista</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">&gt;</span> <span class="mi">1</span><span class="p">:</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-57" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-57" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-57"></a>                <span class="n">subcadena</span> <span class="o">=</span> <span class="s2">" MIL "</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-58" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-58" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-58"></a>            <span class="k">else</span><span class="p">:</span> <span class="c1">#aqui se entra si lista[i] == 0 y en ese caso, no hay nada que procesar</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-59" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-59" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-59"></a>                <span class="k">continue</span> <span class="c1">#se sigue con la siguiente iteracion del bucle</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-60" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-60" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-60"></a>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-61" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-61" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-61"></a>        <span class="k">elif</span> <span class="n">i</span> <span class="o">==</span> <span class="mi">3</span> <span class="ow">and</span> <span class="n">lista</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">!=</span> <span class="mi">0</span><span class="p">:</span> <span class="c1">#grupo4: el de los centavos (decimales)</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-62" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-62" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-62"></a>            <span class="n">cadena</span> <span class="o">+=</span> <span class="s2">" CON "</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-63" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-63" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-63"></a>            <span class="n">subcadena</span> <span class="o">=</span> <span class="s2">" CENTAVOS"</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-64" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-64" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-64"></a>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-65" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-65" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-65"></a>        <span class="k">if</span> <span class="n">centena</span> <span class="o">!=</span> <span class="mi">0</span><span class="p">:</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-66" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-66" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-66"></a>            <span class="k">if</span> <span class="n">centena</span> <span class="o">==</span> <span class="mi">1</span> <span class="ow">and</span> <span class="p">(</span><span class="n">unidad</span> <span class="o">+</span> <span class="n">decena</span><span class="p">)</span> <span class="o">==</span> <span class="mi">0</span><span class="p">:</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-67" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-67" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-67"></a>                <span class="n">cadena</span> <span class="o">+=</span> <span class="n">numeros</span><span class="p">[</span><span class="mi">100</span><span class="p">]</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-68" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-68" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-68"></a>                <span class="k">continue</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-69" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-69" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-69"></a>            <span class="k">elif</span> <span class="n">centena</span> <span class="o">==</span> <span class="mi">1</span><span class="p">:</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-70" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-70" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-70"></a>                <span class="n">cadena</span> <span class="o">+=</span> <span class="s2">"CIENTO "</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-71" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-71" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-71"></a>            <span class="k">elif</span> <span class="n">centena</span> <span class="o">==</span> <span class="mi">5</span><span class="p">:</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-72" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-72" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-72"></a>                <span class="n">cadena</span> <span class="o">+=</span> <span class="n">numeros</span><span class="p">[</span><span class="mi">500</span><span class="p">]</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-73" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-73" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-73"></a>            <span class="k">elif</span> <span class="n">centena</span> <span class="o">==</span> <span class="mi">7</span><span class="p">:</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-74" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-74" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-74"></a>                <span class="n">cadena</span> <span class="o">+=</span> <span class="n">numeros</span><span class="p">[</span><span class="mi">700</span><span class="p">]</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-75" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-75" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-75"></a>            <span class="k">elif</span> <span class="n">centena</span> <span class="o">==</span> <span class="mi">9</span><span class="p">:</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-76" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-76" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-76"></a>                <span class="n">cadena</span> <span class="o">+=</span> <span class="n">numeros</span><span class="p">[</span><span class="mi">900</span><span class="p">]</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-77" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-77" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-77"></a>            <span class="k">else</span><span class="p">:</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-78" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-78" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-78"></a>                <span class="n">cadena</span> <span class="o">+=</span> <span class="n">numeros</span><span class="p">[</span><span class="n">centena</span><span class="p">]</span> <span class="o">+</span> <span class="s2">"CIENTOS "</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-79" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-79" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-79"></a>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-80" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-80" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-80"></a>        <span class="k">if</span> <span class="n">decena</span> <span class="o">!=</span> <span class="mi">0</span><span class="p">:</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-81" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-81" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-81"></a>            <span class="k">if</span> <span class="n">decena</span> <span class="o">&lt;</span> <span class="mi">21</span><span class="p">:</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-82" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-82" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-82"></a>                <span class="n">cadena</span> <span class="o">+=</span> <span class="n">numeros</span><span class="p">[</span><span class="n">decena</span><span class="p">]</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-83" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-83" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-83"></a>            <span class="k">elif</span> <span class="n">decena</span> <span class="o">&lt;</span> <span class="mi">30</span><span class="p">:</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-84" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-84" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-84"></a>                <span class="n">cadena</span> <span class="o">+=</span> <span class="s2">"VENTI"</span><span class="o">+</span><span class="n">numeros</span><span class="p">[</span><span class="n">unidad</span><span class="p">]</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-85" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-85" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-85"></a>            <span class="k">else</span><span class="p">:</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-86" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-86" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-86"></a>                <span class="n">cadena</span> <span class="o">+=</span> <span class="n">numeros</span><span class="p">[(</span><span class="n">decena</span><span class="o">/</span><span class="mi">10</span><span class="p">)</span><span class="o">*</span><span class="mi">10</span><span class="p">]</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-87" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-87" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-87"></a>                <span class="k">if</span> <span class="n">unidad</span> <span class="o">&gt;</span> <span class="mi">0</span><span class="p">:</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-88" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-88" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-88"></a>                    <span class="n">cadena</span> <span class="o">+=</span> <span class="s2">" Y "</span><span class="o">+</span><span class="n">numeros</span><span class="p">[</span><span class="n">unidad</span><span class="p">]</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-89" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-89" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-89"></a>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-90" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-90" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-90"></a>        <span class="n">cadena</span> <span class="o">+=</span> <span class="n">subcadena</span>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-91" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-91" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-91"></a>
+<a id="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-92" name="rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-92" href="#rest_code_e6a93d9239944cdfa7686d4d01eb3fdd-92"></a>    <span class="k">return</span> <span class="n">cadena</span>
+</pre></div>
+</section><section id="autor-autores"><h2>Autor / Autores:</h2>
+<p>CesarPortela</p>
+<!-- ############################################################################ -->
+</section>
+</div>    
+</div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+            <script src="../../assets/js/jquery.min.js"></script><script src="../../assets/js/popper.min.js"></script><script src="../../assets/js/bootstrap.min.js"></script><script src="../../assets/js/baguetteBox.min.js"></script><script src="../../assets/js/pyar.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>

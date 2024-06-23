@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html prefix="
+og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Multithread2 | Python Argentina Wiki</title>
+<link href="../../../../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../../../../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
+<link href="../../../../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../../../../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../../../../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../../../../assets/css/bootblog.css" rel="stylesheet" type="text/css">
+<link href="../../../../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../../../../rss.xml">
+<link rel="canonical" href="https://wiki.python.org.ar/recetario/gui/gtk/multithread2/">
+<!--[if lt IE 9]><script src="../../../../assets/js/html5.js"></script><![endif]--><meta name="author" content="Python Argentina">
+<meta property="og:site_name" content="Python Argentina Wiki">
+<meta property="og:title" content="Multithread2">
+<meta property="og:url" content="https://wiki.python.org.ar/recetario/gui/gtk/multithread2/">
+<meta property="og:description" content="Otro ejemplo del uso de threads con gtk, compare con el otro ejemplo que utiliza colas
+import time
+import random
+import threading
+
+import gtk
+import gtk.gdk
+
+
+texts = ['eggs', 'spam', 'pyar', 'gtk']
+
+">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
+
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../../../pyar/"><span class="quienes_somos"></span>Nosotros</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../../../foro_y_redes/"><span class="navbar_lista_de_correo"></span>Foro</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../../../../"><span class="wiki"></span>Wiki</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/noticias/"><span class="news"></span>Noticias</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/irc/"><span class="irc"></span>IRC</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/eventos/"><span class="eventos"></span>Eventos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://planeta.python.org.ar/"><span class="pyar"></span>Planeta</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/trabajo/"><span class="jobs"></span>Trabajos</a>
+                </li>
+            </ul>
+</div>
+    </nav>
+</div>
+
+<!-- Header and menu bar -->
+<div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        
+<div class="col-lg-12">
+    <div class="page-header">
+        <div class="pull-right">
+            <a href="https://github.com/PyAr/wiki/blob/master/pages/recetario/gui/gtk/multithread2.rst" id="sourcelink" class="nav-link">Editar</a>
+        </div>
+        <h2>Multithread2</h2>
+    </div>
+    <div class="e-content entry-content" itemprop="articleBody text">
+    <p>Otro ejemplo del uso de threads con gtk, compare con el <a class="reference external" href="../../../../Recetario/Gui/Gtk/multithread">otro ejemplo</a> que utiliza colas</p>
+<div class="code"><pre class="code python"><a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-1" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-1" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-1"></a><span class="kn">import</span> <span class="nn">time</span>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-2" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-2" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-2"></a><span class="kn">import</span> <span class="nn">random</span>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-3" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-3" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-3"></a><span class="kn">import</span> <span class="nn">threading</span>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-4" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-4" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-4"></a>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-5" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-5" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-5"></a><span class="kn">import</span> <span class="nn">gtk</span>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-6" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-6" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-6"></a><span class="kn">import</span> <span class="nn">gtk.gdk</span>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-7" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-7" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-7"></a>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-8" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-8" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-8"></a>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-9" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-9" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-9"></a><span class="n">texts</span> <span class="o">=</span> <span class="p">[</span><span class="s1">'eggs'</span><span class="p">,</span> <span class="s1">'spam'</span><span class="p">,</span> <span class="s1">'pyar'</span><span class="p">,</span> <span class="s1">'gtk'</span><span class="p">]</span>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-10" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-10" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-10"></a>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-11" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-11" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-11"></a><span class="k">class</span> <span class="nc">molesto</span><span class="p">(</span><span class="n">threading</span><span class="o">.</span><span class="n">Thread</span><span class="p">):</span>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-12" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-12" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-12"></a><span class="w">    </span><span class="sd">'''un thread que quiere molestar el main thread'''</span>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-13" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-13" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-13"></a>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-14" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-14" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-14"></a>    <span class="k">def</span> <span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">label</span><span class="p">):</span>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-15" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-15" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-15"></a>        <span class="n">threading</span><span class="o">.</span><span class="n">Thread</span><span class="o">.</span><span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">)</span>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-16" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-16" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-16"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">setDaemon</span><span class="p">(</span><span class="kc">True</span><span class="p">)</span>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-17" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-17" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-17"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">label</span> <span class="o">=</span> <span class="n">label</span>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-18" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-18" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-18"></a>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-19" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-19" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-19"></a>    <span class="k">def</span> <span class="nf">run</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-20" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-20" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-20"></a><span class="w">        </span><span class="sd">'''metodo principal del thread, duerme un tiempo aleatorio y despues</span>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-21" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-21" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-21"></a><span class="sd">        cambia el Label'''</span>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-22" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-22" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-22"></a>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-23" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-23" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-23"></a>        <span class="k">while</span> <span class="kc">True</span><span class="p">:</span>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-24" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-24" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-24"></a>            <span class="n">time</span><span class="o">.</span><span class="n">sleep</span><span class="p">(</span><span class="n">random</span><span class="o">.</span><span class="n">random</span><span class="p">()</span> <span class="o">*</span> <span class="mi">5</span><span class="p">)</span>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-25" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-25" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-25"></a>            <span class="n">texto</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">getName</span><span class="p">()</span> <span class="o">+</span> <span class="s1">' '</span> <span class="o">+</span> <span class="n">random</span><span class="o">.</span><span class="n">choice</span><span class="p">(</span><span class="n">texts</span><span class="p">)</span>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-26" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-26" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-26"></a>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-27" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-27" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-27"></a>            <span class="n">gtk</span><span class="o">.</span><span class="n">gdk</span><span class="o">.</span><span class="n">threads_enter</span><span class="p">()</span>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-28" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-28" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-28"></a>            <span class="c1"># zona critica de gtk</span>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-29" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-29" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-29"></a>            <span class="nb">print</span> <span class="bp">self</span><span class="o">.</span><span class="n">getName</span><span class="p">(),</span> <span class="s1">'escribiendo'</span><span class="p">,</span> <span class="n">texto</span>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-30" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-30" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-30"></a>            <span class="bp">self</span><span class="o">.</span><span class="n">label</span><span class="o">.</span><span class="n">set_text</span><span class="p">(</span><span class="n">texto</span><span class="p">)</span>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-31" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-31" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-31"></a>            <span class="n">gtk</span><span class="o">.</span><span class="n">gdk</span><span class="o">.</span><span class="n">threads_leave</span><span class="p">()</span>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-32" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-32" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-32"></a>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-33" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-33" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-33"></a><span class="k">class</span> <span class="nc">ventana</span><span class="p">(</span><span class="n">gtk</span><span class="o">.</span><span class="n">Window</span><span class="p">):</span>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-34" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-34" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-34"></a><span class="w">    </span><span class="sd">'''ventana con un label, ninguna locura'''</span>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-35" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-35" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-35"></a>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-36" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-36" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-36"></a>    <span class="k">def</span> <span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-37" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-37" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-37"></a>        <span class="n">gtk</span><span class="o">.</span><span class="n">Window</span><span class="o">.</span><span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">)</span>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-38" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-38" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-38"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">set_default_size</span><span class="p">(</span><span class="mi">640</span><span class="p">,</span> <span class="mi">480</span><span class="p">)</span>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-39" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-39" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-39"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">set_title</span><span class="p">(</span><span class="s1">'gtk con threads'</span><span class="p">)</span>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-40" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-40" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-40"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">label</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">Label</span><span class="p">(</span><span class="s1">''</span><span class="p">)</span>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-41" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-41" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-41"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">add</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">label</span><span class="p">)</span>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-42" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-42" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-42"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">label</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-43" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-43" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-43"></a>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-44" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-44" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-44"></a><span class="k">if</span> <span class="vm">__name__</span> <span class="o">==</span> <span class="s1">'__main__'</span><span class="p">:</span>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-45" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-45" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-45"></a>    <span class="n">gtk</span><span class="o">.</span><span class="n">gdk</span><span class="o">.</span><span class="n">threads_init</span><span class="p">()</span>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-46" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-46" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-46"></a>    <span class="n">ventana</span> <span class="o">=</span> <span class="n">ventana</span><span class="p">()</span>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-47" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-47" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-47"></a>    <span class="n">ventana</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-48" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-48" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-48"></a>    <span class="n">threads</span> <span class="o">=</span> <span class="p">[</span><span class="n">molesto</span><span class="p">(</span><span class="n">ventana</span><span class="o">.</span><span class="n">label</span><span class="p">)</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">10</span><span class="p">)]</span>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-49" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-49" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-49"></a>    <span class="k">for</span> <span class="n">thread</span> <span class="ow">in</span> <span class="n">threads</span><span class="p">:</span>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-50" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-50" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-50"></a>        <span class="n">thread</span><span class="o">.</span><span class="n">start</span><span class="p">()</span>
+<a id="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-51" name="rest_code_ec75ecd6c2614ff6871faabeff18ffc3-51" href="#rest_code_ec75ecd6c2614ff6871faabeff18ffc3-51"></a>    <span class="n">gtk</span><span class="o">.</span><span class="n">main</span><span class="p">()</span>
+</pre></div>
+<!-- ############################################################################ -->
+    </div>    
+</div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+            <script src="../../../../assets/js/jquery.min.js"></script><script src="../../../../assets/js/popper.min.js"></script><script src="../../../../assets/js/bootstrap.min.js"></script><script src="../../../../assets/js/baguetteBox.min.js"></script><script src="../../../../assets/js/pyar.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>

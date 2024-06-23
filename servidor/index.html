@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html prefix="
+og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Migración a Debian Wheezy | Python Argentina Wiki</title>
+<link href="../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/bootblog.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../rss.xml">
+<link rel="canonical" href="https://wiki.python.org.ar/servidor/">
+<!--[if lt IE 9]><script src="../assets/js/html5.js"></script><![endif]--><meta name="author" content="Python Argentina">
+<meta property="og:site_name" content="Python Argentina Wiki">
+<meta property="og:title" content="Migración a Debian Wheezy">
+<meta property="og:url" content="https://wiki.python.org.ar/servidor/">
+<meta property="og:description" content="2013-06-06T09:28:29-0300
+
+Servicios
+
+Apache 2.2.22
+Postfix 2.9.6
+Mailman 2.1.15
+
+
+
+Migración de la Moin
+
+Funcionando sobre mod-wsgi, bajo el usuario www-pyar
+Sobre Python2.6 por los sitios de pycon (s">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
+
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../pyar/"><span class="quienes_somos"></span>Nosotros</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../foro_y_redes/"><span class="navbar_lista_de_correo"></span>Foro</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../"><span class="wiki"></span>Wiki</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/noticias/"><span class="news"></span>Noticias</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/irc/"><span class="irc"></span>IRC</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/eventos/"><span class="eventos"></span>Eventos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://planeta.python.org.ar/"><span class="pyar"></span>Planeta</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/trabajo/"><span class="jobs"></span>Trabajos</a>
+                </li>
+            </ul>
+</div>
+    </nav>
+</div>
+
+<!-- Header and menu bar -->
+<div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        
+<div class="col-lg-12">
+    <div class="page-header">
+        <div class="pull-right">
+            <a href="https://github.com/PyAr/wiki/blob/master/pages/servidor.rst" id="sourcelink" class="nav-link">Editar</a>
+        </div>
+        <h2>Migración A Debian Wheezy</h2>
+    </div>
+    <div class="e-content entry-content" itemprop="articleBody text">
+    <p><cite>2013-06-06T09:28:29-0300</cite></p>
+<section id="servicios"><h2>Servicios</h2>
+<ul class="simple">
+<li><p>Apache 2.2.22</p></li>
+<li><p>Postfix 2.9.6</p></li>
+<li><p>Mailman 2.1.15</p></li>
+</ul></section><section id="migracion-de-la-moin"><h2>Migración de la Moin</h2>
+<ul>
+<li><p>Funcionando sobre mod-wsgi, bajo el usuario www-pyar</p></li>
+<li>
+<p>Sobre Python2.6 por los sitios de pycon (supongo que algún error de</p>
+<blockquote>
+<p>sintaxis)</p>
+</blockquote>
+</li>
+<li><p>Sed rule sobre moin_static182 to moin_static</p></li>
+<li><p>Reconstrucción del cache</p></li>
+</ul></section><section id="migracion-de-los-sitios-pycon"><h2>Migración de los sitios pycon</h2>
+<ul class="simple">
+<li><p>Funcionando sobre mod-wsgi, bajo el usuario www-pycon</p></li>
+<li><p>Sobre Python2.6 porque sobre Python2.7 no levantaba, supongo que algún error de sintaxis.</p></li>
+<li><p>El sitio de 2012 estaba desactivado (SUSPEND_SERVICE = True en applications/2012/models/0.py)</p></li>
+<li><p>Reconstrucción de todas las apps.</p></li>
+</ul></section><section id="migracion-de-las-listas-mailman"><h2>Migración de las listas (Mailman)</h2>
+<ul>
+<li><p>Regeneración de los archivos de cada lista y se fixearon permisos.</p></li>
+<li>
+<p>Bastante out of the box, gracias a las tools que trae mailman y a la ayuda</p>
+<blockquote>
+<p>de dererk.</p>
+</blockquote>
+</li>
+</ul></section><section id="to-improve"><h2>To improve</h2>
+<ul>
+<li>
+<p>Usar Python2.7 para mod-wsgi, para esto hay que chequear las applicaciones</p>
+<blockquote>
+<p>pycon que corren sobre web2py.</p>
+</blockquote>
+</li>
+<li>
+<p>Utilizar web2py del OS (python-web2py), esto facilita actualizaciones</p>
+<blockquote>
+<p>futuras, actualizaciones de seguridad, etc.</p>
+</blockquote>
+</li>
+<li>
+<p>Theme de pyar:</p>
+<ul class="simple">
+<li><p>Tiene hardcodeados los paths a static_moin</p></li>
+<li><p>Versiones de jquery incrustadas en el theme (debería usar la del OS)</p></li>
+</ul>
+</li>
+</ul></section>
+</div>    
+</div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+            <script src="../assets/js/jquery.min.js"></script><script src="../assets/js/popper.min.js"></script><script src="../assets/js/bootstrap.min.js"></script><script src="../assets/js/baguetteBox.min.js"></script><script src="../assets/js/pyar.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>

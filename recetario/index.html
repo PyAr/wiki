@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html prefix="
+og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Recetario | Python Argentina Wiki</title>
+<link href="../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/bootblog.css" rel="stylesheet" type="text/css">
+<link href="../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../rss.xml">
+<link rel="canonical" href="https://wiki.python.org.ar/recetario/">
+<!--[if lt IE 9]><script src="../assets/js/html5.js"></script><![endif]--><meta name="author" content="Python Argentina">
+<meta property="og:site_name" content="Python Argentina Wiki">
+<meta property="og:title" content="Recetario">
+<meta property="og:url" content="https://wiki.python.org.ar/recetario/">
+<meta property="og:description" content="Nuestro CookBook, en vías desarrollo. A este lugar uno recurre cada vez que se encuentra en la cocina de Python, cuchillo en mano y se da cuenta que a sus ingredientes le faltan el toque de un chef ex">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
+
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../pyar/"><span class="quienes_somos"></span>Nosotros</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../foro_y_redes/"><span class="navbar_lista_de_correo"></span>Foro</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../"><span class="wiki"></span>Wiki</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/noticias/"><span class="news"></span>Noticias</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/irc/"><span class="irc"></span>IRC</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/eventos/"><span class="eventos"></span>Eventos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://planeta.python.org.ar/"><span class="pyar"></span>Planeta</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/trabajo/"><span class="jobs"></span>Trabajos</a>
+                </li>
+            </ul>
+</div>
+    </nav>
+</div>
+
+<!-- Header and menu bar -->
+<div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        
+<div class="col-lg-12">
+    <div class="page-header">
+        <div class="pull-right">
+            <a href="https://github.com/PyAr/wiki/blob/master/pages/recetario/index.rst" id="sourcelink" class="nav-link">Editar</a>
+        </div>
+        <h2>Recetario</h2>
+    </div>
+    <div class="e-content entry-content" itemprop="articleBody text">
+    <p><em>Nuestro CookBook, en vías desarrollo.</em> A este lugar uno recurre cada vez que se encuentra en la cocina de Python, cuchillo en mano y se da cuenta que a sus ingredientes le faltan el toque de un chef experto. Nuestra especialidad son las recetas autóctonas. ¿Platos magistrales que fallan al sazonar con acentos y eñes? ¿números que saben mal si no son previamente fritos en castellano? ¡Siga leyendo!.</p>
+<nav class="contents" id="contenido" role="doc-toc"><p class="topic-title"><a class="reference internal" href="#top">Contenido</a></p>
+<ul class="simple">
+<li><p><a class="reference internal" href="#configuracion-del-entorno-python" id="toc-entry-1">Configuración del entorno python</a></p></li>
+<li><p><a class="reference internal" href="#estructuras-de-datos" id="toc-entry-2">Estructuras de datos</a></p></li>
+<li><p><a class="reference internal" href="#expresiones-regulares" id="toc-entry-3">Expresiones regulares</a></p></li>
+<li><p><a class="reference internal" href="#formatos-datos-numeros-y-conversiones" id="toc-entry-4">Formatos, datos, números y conversiones</a></p></li>
+<li>
+<p><a class="reference internal" href="#frameworks-web" id="toc-entry-5">Frameworks Web</a></p>
+<ul>
+<li><p><a class="reference internal" href="#django" id="toc-entry-6">Django</a></p></li>
+<li><p><a class="reference internal" href="#bottle" id="toc-entry-7">Bottle</a></p></li>
+</ul>
+</li>
+<li>
+<p><a class="reference internal" href="#interfaces-graficas" id="toc-entry-8">Interfaces gráficas</a></p>
+<ul>
+<li><p><a class="reference internal" href="#gtk" id="toc-entry-9">Gtk</a></p></li>
+<li><p><a class="reference internal" href="#gtk-glade" id="toc-entry-10">Gtk + glade</a></p></li>
+<li><p><a class="reference internal" href="#qt" id="toc-entry-11">Qt</a></p></li>
+<li><p><a class="reference internal" href="#pythoncard-wxpython" id="toc-entry-12">Pythoncard (wxPython)</a></p></li>
+<li><p><a class="reference internal" href="#tkinter-ttk" id="toc-entry-13">Tkinter + ttk</a></p></li>
+</ul>
+</li>
+<li><p><a class="reference internal" href="#emails" id="toc-entry-14">Emails</a></p></li>
+<li><p><a class="reference internal" href="#creacion-de-ejecutables-para-windows" id="toc-entry-15">Creación de ejecutables para Windows</a></p></li>
+<li><p><a class="reference internal" href="#hilos-y-concurrencia" id="toc-entry-16">Hilos y concurrencia</a></p></li>
+<li><p><a class="reference internal" href="#web" id="toc-entry-17">Web</a></p></li>
+<li><p><a class="reference internal" href="#xml" id="toc-entry-18">Xml</a></p></li>
+<li><p><a class="reference internal" href="#pdf" id="toc-entry-19">Pdf</a></p></li>
+<li><p><a class="reference internal" href="#dbf" id="toc-entry-20">Dbf</a></p></li>
+<li><p><a class="reference internal" href="#windows" id="toc-entry-21">Windows</a></p></li>
+<li><p><a class="reference internal" href="#python-internals" id="toc-entry-22">Python Internals</a></p></li>
+<li><p><a class="reference internal" href="#numpy-scipy-matplotlib" id="toc-entry-23">Numpy, Scipy, Matplotlib</a></p></li>
+<li><p><a class="reference internal" href="#administracion-de-sistemas-operativos" id="toc-entry-24">Administración de Sistemas Operativos</a></p></li>
+<li><p><a class="reference internal" href="#internet" id="toc-entry-25">Internet</a></p></li>
+<li><p><a class="reference internal" href="#miscelaneo" id="toc-entry-26">Misceláneo</a></p></li>
+<li><p><a class="reference internal" href="#python-en-apache-openoffice-libreoffice" id="toc-entry-27">Python en Apache OpenOffice / LibreOffice</a></p></li>
+<li><p><a class="reference internal" href="#crypto" id="toc-entry-28">Crypto</a></p></li>
+<li><p><a class="reference internal" href="#divertidos" id="toc-entry-29">Divertidos</a></p></li>
+</ul></nav><section id="configuracion-del-entorno-python"><h2><a class="toc-backref" href="#toc-entry-1" role="doc-backlink">Configuración del entorno python</a></h2>
+<ul class="simple">
+<li><p><a class="reference external" href="creandounnuevoproyectopython">Creando un nuevo proyecto python</a>: Receta para crear un entorno de trabajo y un esqueleto mínimo para un nuevo proyecto Python.</p></li>
+<li><p><a class="reference external" href="autocomplecionenconsolainteractiva">Autocompletado en consola interactiva</a>: Tip sobre cómo agregar autocompletado con tab en la consola interactiva imitando el comportamiento ipython.</p></li>
+</ul></section><section id="estructuras-de-datos"><h2><a class="toc-backref" href="#toc-entry-2" role="doc-backlink">Estructuras de datos</a></h2>
+<ul class="simple">
+<li><p><a class="reference external" href="iterarsobrepares">Iterar Sobre Pares</a></p></li>
+</ul></section><section id="expresiones-regulares"><h2><a class="toc-backref" href="#toc-entry-3" role="doc-backlink">Expresiones regulares</a></h2>
+<ul class="simple">
+<li><p><a class="reference external" href="extraermails">Extraer todos los mails de un texto</a> de un texto utilizando el módulo re.</p></li>
+</ul></section><section id="formatos-datos-numeros-y-conversiones"><h2><a class="toc-backref" href="#toc-entry-4" role="doc-backlink">Formatos, datos, números y conversiones</a></h2>
+<ul class="simple">
+<li><p><a class="reference external" href="aletras">aLetras</a> : Función que al recibir un número lo convierte a letras. Regresa su forma por extensión (ejemplo: 123 -&gt; "CIENTO VEINTITRES").</p></li>
+<li><p><a class="reference external" href="reverse">reverse</a> : Función que invierte los caracteres.</p></li>
+<li><p><a class="reference external" href="validarcuit">validar cuit</a>: Función para validar un CUIT/CUIL estilo 00-00000000-0.</p></li>
+<li><p><a class="reference external" href="calculardigitoverificadormodulodiez">digito_verificador_modulo10</a>: Función para generar el dígito verificador módulo 10.</p></li>
+<li><p><a class="reference external" href="normalizarcaracteresunicode">Normalizar caracteres Unicode</a> para hacer búsquedas en strings sin que se tengan en cuenta los caracteres latinos, como los acentos y la eñe.</p></li>
+<li><p><a class="reference external" href="obtenersensaciontermica">Obtener Sensación Térmica</a>: Calcular la Sensación Térmica o Temperatura Aparente.</p></li>
+<li><p><a class="reference external" href="interceptarprints">Interceptar los prints</a> : Sirve para hacer reemplazos en las strings que se van a imprimir, por ejemplo para agregar un timestamp.</p></li>
+</ul></section><section id="frameworks-web"><h2><a class="toc-backref" href="#toc-entry-5" role="doc-backlink">Frameworks Web</a></h2>
+<section id="django"><h3><a class="toc-backref" href="#toc-entry-6" role="doc-backlink">Django</a></h3>
+<ul class="simple">
+<li><p><a class="reference external" href="django/testformularioConfileupload">Test Formulario Con File Upload</a>:  Un ejemplo de como probar un formulario que tiene un campo para subir un archivo.</p></li>
+<li><p><a class="reference external" href="django/obtenerclaseoriginalcuandohayherencia">Obtener Clase Original Cuando Hay Herencia</a>: Cuando usamos herencia de modelos, sí <code class="docutils literal">bar</code> y <code class="docutils literal">baz</code> son subclases de <code class="docutils literal">foo</code>, podemos hacer que <code class="docutils literal">foo.objects.all()</code> devuelva instancias de <code class="docutils literal">bar</code> o <code class="docutils literal">baz</code> dependiendo de cómo creamos el objeto originalmente.</p></li>
+</ul></section><section id="bottle"><h3><a class="toc-backref" href="#toc-entry-7" role="doc-backlink">Bottle</a></h3>
+<ul class="simple">
+<li><p><a class="reference external" href="bottle/holamundo">Hola Mundo</a>: Una aplicación mínima que muestra el mensaje hola mundo.</p></li>
+<li><p><a class="reference external" href="bottle/galeria">Mini Galería de Imágenes</a>: Una aplicación mínima que muestra una Galería de Imágenes Animada.</p></li>
+</ul></section></section><section id="interfaces-graficas"><span id="recetario-interaces-graficas"></span><h2><a class="toc-backref" href="#toc-entry-8" role="doc-backlink">Interfaces gráficas</a></h2>
+<section id="gtk"><h3><a class="toc-backref" href="#toc-entry-9" role="doc-backlink">Gtk</a></h3>
+<ul class="simple">
+<li><p><a class="reference external" href="gui/gtk/holamundo">Hola Mundo</a> : Una ventana que muestra el mensaje hola mundo.</p></li>
+<li><p><a class="reference external" href="gui/gtk/holamundooo">Hola Mundo con objetos</a> : Una ventana que muestra el mensaje hola mundo programado utilizando orientación a objetos.</p></li>
+<li><p><a class="reference external" href="gui/gtk/entry">Entry</a> : Una ventana que solicita un valor y luego lo muestra en una ventana aparte.</p></li>
+<li><p><a class="reference external" href="gui/gtk/entrysolonumeros">Entry solo números</a>: Un ejemplo de cómo permitir el ingreso de solo números en un gtk.Entry.</p></li>
+<li><p><a class="reference external" href="gui/gtk/hbox">HBox</a> : Ejemplo que muestra cómo organizar elementos continuos horizontalmente.</p></li>
+<li><p><a class="reference external" href="gui/gtk/vbox">VBox</a> : Ejemplo que muestra cómo organizar elementos continuos verticalmente.</p></li>
+<li><p><a class="reference external" href="gui/gtk/grid">Grid</a> : Ejemplo que muestra cómo organizar elementos en forma de grilla.</p></li>
+<li><p><a class="reference external" href="gui/gtk/button">Button</a> : Ejemplo que muestra cómo crear botones de diversas maneras.</p></li>
+<li><p><a class="reference external" href="gui/gtk/buttonbox">Button Box</a> : Ejemplo que muestra cómo crear botones y agruparlos en un contenedor.</p></li>
+<li><p><a class="reference external" href="gui/gtk/autocomplete">Autocomplete</a> : Ejemplo que muestra cómo crear un campo de texto con auto completado.</p></li>
+<li><p><a class="reference external" href="gui/gtk/dialog">Dialog</a> : Ejemplo para crear diálogos modales.</p></li>
+<li><p><a class="reference external" href="gui/gtk/menu">Menu</a> :  Ejemplo que muestra cómo crear un menú con distintos ítems.</p></li>
+<li><p><a class="reference external" href="gui/gtk/printnongtk">Print no gtk</a> : Ejemplo sobre cómo usar el diálogo de impresión de gtk en aplicaciones no gtk (que no usan el main loop de gtk).</p></li>
+<li><p><a class="reference external" href="gui/gtk/richtext">Rich text</a>: Ejemplo sobre cómo insertar texto con formato básico a un textview.</p></li>
+<li><p><a class="reference external" href="gui/gtk/confirmclose">Confirm close</a>: Ejemplo sobre cómo solicitar confirmación para el cierre de una ventana.</p></li>
+<li><p><a class="reference external" href="gui/gtk/multithread">Multi Thread</a>: Ejemplo de cómo manipular la GUI desde múltiples threads sin usar locks (con colas).</p></li>
+<li><p><a class="reference external" href="gui/gtk/multithread2">Multi thread 2</a>: Ejemplo de cómo manipular la GUI usando múltiples threads.</p></li>
+<li><p><a class="reference external" href="gui/gtk/runner">Runner</a>: Ejemplo de cómo correr funciones que demoran sin bloquear la ui y obtener los resultados en el thread de gtk.</p></li>
+<li><p><a class="reference external" href="gui/gtk/funcionrunner">Función Runner</a> : Idem al anterior pero usando una función en lugar de un objeto.</p></li>
+<li><p><a class="reference external" href="gui/gtk/labelconcolor">Label con color</a>: Ejemplo de cómo cambiar el color de un label sin usar pango markup.</p></li>
+<li><p><a class="reference external" href="gui/gtk/xmlrpcerver">Servidor XMLRPC</a> Servidor XMLRPC dentro de un hilo gtk.</p></li>
+<li><p><a class="reference external" href="gui/gtk/stockitems">Stock items</a>: Ejemplo que muestra todos los íconos stock de gtk con su respectivo nombre.</p></li>
+<li><p><a class="reference external" href="gui/gtk/webkiteditor">Webkit Editor</a>: Ejemplo de cómo usar webkit para editar páginas HTML como si fuera un editor.</p></li>
+<li><p><a class="reference external" href="gui/gtk/statusicon">Status Icon</a>: ejemplo de aplicación con ícono en el system tray.</p></li>
+<li><p><a class="reference external" href="gui/gtk/errorhandler">Error Handler</a>: Un ejemplo de capturar una excepción y mostrarla en un diálogo modal.</p></li>
+<li><p><a class="reference external" href="gui/gtk/listview">List View</a>: Un ejemplo de cómo mostrar elementos en una.</p></li>
+<li><p><a class="reference external" href="gui/gtk/EmuladorTerminal">Emulador Terminal</a>: Un ejemplo de cómo hacer una terminal visual al estilo gnome-terminal.</p></li>
+</ul></section><section id="gtk-glade"><h3><a class="toc-backref" href="#toc-entry-10" role="doc-backlink">Gtk + glade</a></h3>
+<p>GtkGladeHolaMundoOO : Una ventana que muestra el mensaje hola mundo programado utilizando orientación a objetos.</p>
+</section><section id="qt"><h3><a class="toc-backref" href="#toc-entry-11" role="doc-backlink">Qt</a></h3>
+<ul class="simple">
+<li><p><a class="reference external" href="qt/qtmultithread">Multi Thread</a>: Ejemplo de cómo manipular la GUI usando múltiples threads sin usar locks (con colas).</p></li>
+<li><p><a class="reference external" href="qt/qtimprimirpagina">Imprimir Pagina</a>: Ejemplo de cómo imprimir una página web a pdf.</p></li>
+<li><p><a class="reference external" href="qt/qtextraertextorecurso">Extraer Texto Recurso</a> : Cómo extraer un archivo de texto embebido en el sistema de recursos de PyQt.</p></li>
+<li><p><a class="reference external" href="http://www.youtube.com/playlist?list=PLA955A8F9A95378CE">http://www.youtube.com/playlist?list=PLA955A8F9A95378CE</a> : Python GUI Development with QT (videos 7 horas).</p></li>
+</ul></section><section id="pythoncard-wxpython"><h3><a class="toc-backref" href="#toc-entry-12" role="doc-backlink">Pythoncard (wxPython)</a></h3>
+<ul class="simple">
+<li><p><a class="reference external" href="pythoncard">PythonCard</a>: Ejemplo de cómo hacer una aplicación de escritorio desde 0 (para principiantes).</p></li>
+</ul></section><section id="tkinter-ttk"><h3><a class="toc-backref" href="#toc-entry-13" role="doc-backlink">Tkinter + ttk</a></h3>
+<ul class="simple">
+<li><p><a class="reference external" href="ttkholamundo">Hola mundo</a>: Una ventana que muestra el mensaje hola mundo (usando Tk themed widgets).</p></li>
+<li><p><a class="reference external" href="tkwindowicon">Window Icon</a>: Una ventana con ícono (usando Tk).</p></li>
+<li><p><a class="reference external" href="tkbuttonicon">Button Icon</a>: Unos botones con íconos, ideal mini-toolbar (usando Tk).</p></li>
+<li><p><a class="reference external" href="tkscrollwhell">Scroll Wheel</a>: Usando la rueda de Scroll del ratón (usando Tk).</p></li>
+<li><p><a class="reference external" href="tkOnlineOfflineIcon">Online/Offline Icon</a>: Ícono de On Line u Off Line simple (usando Tk).</p></li>
+<li><p><a class="reference external" href="tkversionprint">Version Print</a>: Obtener la versión de TK que se está usando.</p></li>
+<li><p><a class="reference external" href="gtkontk">Gtk on Tk</a>: Usar temas de GTK en Tk <em>(Hack)</em>.</p></li>
+<li><p><a class="reference external" href="tkwizards">Wizards</a>: Crear un Wizard amigable de múltiples páginas (siguiente, siguiente, ... terminar).</p></li>
+<li><p><a class="reference external" href="displaylcd7segmentos">Displace LCD 7 Segmentos</a>: Crear un Widget de Canvas tipo Display LCD de 7 Segmentos.</p></li>
+<li><p><a class="reference external" href="botongraficotk">Boton Grafico</a>: Crear botones gráficos personalizados de 3 estados con TK.</p></li>
+<li><p><a class="reference external" href="ventanapasswordvibra">Ventana Password</a>: Crear una ventana de password que Vibra si la password es incorrecta.</p></li>
+<li><p><a class="reference external" href="relojdigital">Reloj Digital</a>: Crear un Reloj Digital simple, trucando un Label.</p></li>
+</ul></section></section><section id="emails"><h2><a class="toc-backref" href="#toc-entry-14" role="doc-backlink">Emails</a></h2>
+<ul class="simple">
+<li><p><a class="reference external" href="gmailmail">Gmail</a> : Cómo enviar emails usando Gmail como SMTP.</p></li>
+<li><p><a class="reference external" href="emailconadjunto">Email con Adjunto</a> : Cómo enviar emails con adjuntos binarios.</p></li>
+</ul></section><section id="creacion-de-ejecutables-para-windows"><h2><a class="toc-backref" href="#toc-entry-15" role="doc-backlink">Creación de ejecutables para Windows</a></h2>
+<ul class="simple">
+<li><p><a class="reference external" href="crearejecutablewindowsdesdelinux">Desde Linux</a> : Cómo crear ejecutables para Windows desde Linux con Wine.</p></li>
+<li><p><a class="reference external" href="crearejecutablewindows">En Windows</a>: Cómo crear ejecutables para Windows nativamente.</p></li>
+</ul></section><section id="hilos-y-concurrencia"><h2><a class="toc-backref" href="#toc-entry-16" role="doc-backlink">Hilos y concurrencia</a></h2>
+<ul class="simple">
+<li><p><a class="reference external" href="comunicarthreadsconqueue">Comunicar Threads Con Queue</a>: Ejemplo sobre cómo comunicar y sincronizar threads usando colas.</p></li>
+<li><p><a class="reference external" href="MultiprocessingYThreading">Multiprocessing y threading</a>: Ejemplo simple de cómo las apis de threading y multiprocessing son intercambiables.</p></li>
+</ul></section><section id="web"><h2><a class="toc-backref" href="#toc-entry-17" role="doc-backlink">Web</a></h2>
+<ul class="simple">
+<li><p><a class="reference external" href="comolevantarunservidorhttpsimple">Servidor Simple</a>: Ejemplo sobre cómo levantar un servidor http que sirva el contenido de un directorio local</p></li>
+<li><p><a class="reference external" href="comolevantarunservidorhttpmultithread">Servidor Multithread</a>: Ejemplo sobre cómo levantar un servidor http que sirva el contenido de un directorio local manejando los requests con threads</p></li>
+</ul></section><section id="xml"><h2><a class="toc-backref" href="#toc-entry-18" role="doc-backlink">Xml</a></h2>
+<ul class="simple">
+<li><p><a class="reference external" href="xmladiccionario">Xml a Diccionario</a>: Este ejemplo muestra cómo convertir un string xml en un conjunto de diccionarios y listas anidadas, también provee de dos clases que permiten acceder a los diccionarios y listas como si fueran objetos.</p></li>
+<li><p><a class="reference external" href="simplexmlelement">SimpleXmlElement</a>: Ejemplo de manejo de xml por elementos simples (simil php), permite leer y/o crear xml accediendo a los tags como si fueran atributos de un objeto.</p></li>
+</ul></section><section id="pdf"><h2><a class="toc-backref" href="#toc-entry-19" role="doc-backlink">Pdf</a></h2>
+<ul class="simple">
+<li><p><a class="reference external" href="facturapyfpdf">Generación de Facturas en PDF</a>: Ejemplo de cómo generar una factura gráficamente en PDF utilizando PyFpdf.</p></li>
+<li><p><a class="reference external" href="estilosrst2pdf">Modificación de Estilos en rst2pdf</a>: Explicación de Roberto Alsina, sobre cómo modificar los estilos de diseño en rst2pdf.</p></li>
+</ul></section><section id="dbf"><h2><a class="toc-backref" href="#toc-entry-20" role="doc-backlink">Dbf</a></h2>
+<ul class="simple">
+<li><p><a class="reference external" href="dbfpy">Leer y modificar Archivos .DBF</a>: Ejemplo de cómo leer y modificar bases de datos en formato DBF.</p></li>
+</ul></section><section id="windows"><h2><a class="toc-backref" href="#toc-entry-21" role="doc-backlink">Windows</a></h2>
+<ul class="simple">
+<li><p><a class="reference external" href="servidorcom">Servidor Interfase C.O.M.</a>: Ejemplo de cómo exponer objetos python a otros lenguajes (VB, VFP, etc.) vía interfase COM.</p></li>
+<li><p><a class="reference external" href="winbatt">Llamar a librerías nativas con ctypes</a>: Ejemplo de cómo usar ctypes para llamar a bibliotecas nativas usando estructuras C.</p></li>
+</ul></section><section id="python-internals"><h2><a class="toc-backref" href="#toc-entry-22" role="doc-backlink">Python Internals</a></h2>
+<ul class="simple">
+<li><p><a class="reference external" href="localsdeunafuncionquelanzounaexcepcion">Locals De Una Función Que Lanzó Una Excepción</a>: Ejemplo de cómo obtener las variables locales a la función que lanzó una excepción.</p></li>
+<li><p><a class="reference external" href="psycospeedup">Psyco Speed Up</a>: Cómo acelerar las aplicaciones con Psyco, si esta presente.</p></li>
+<li><p><a class="reference external" href="mapeandomemoria">Mapeando Memoria</a>: Cómo generar un mapa de la memoria con heapy.</p></li>
+</ul></section><section id="numpy-scipy-matplotlib"><h2><a class="toc-backref" href="#toc-entry-23" role="doc-backlink">Numpy, Scipy, Matplotlib</a></h2>
+<ul class="simple">
+<li><p><a class="reference external" href="histograma">Histograma</a>: Ejemplo sencillo de uso de la función <em>hist</em>.</p></li>
+</ul></section><section id="administracion-de-sistemas-operativos"><h2><a class="toc-backref" href="#toc-entry-24" role="doc-backlink">Administración de Sistemas Operativos</a></h2>
+<ul class="simple">
+<li><p><a class="reference external" href="listarprocesos">Listar procesos</a>: Cómo listar procesos multiplataforma.</p></li>
+<li><p><a class="reference external" href="chequearinterfacesinternetlinux">Chequear Interfaces Internet Linux</a></p></li>
+<li><p><a class="reference external" href="xdg-sudo">Xdg-Sudo</a>: El sudo Gráfico Universal, para Escritorios GTK/QT/whatever, inspirado en <em>xdg-open</em> de Linux.</p></li>
+<li><p><a class="reference external" href="chequeo_de_paquetes_apt_linux">Chequeo de Paquetes, APT, Linux</a>: Chequear si un Programa está instalado, o no, y si existe en Linux.</p></li>
+</ul></section><section id="internet"><h2><a class="toc-backref" href="#toc-entry-25" role="doc-backlink">Internet</a></h2>
+<ul class="simple">
+<li><p><a class="reference external" href="revisarconexion">Revisar conexion</a>: Revisar si estamos conectados a internet conexión.</p></li>
+<li><p><a class="reference external" href="obtenerbytestransferidos">Obtener Bytes transferidos</a>: Obtener la cantidad de datos transferidos en Bytes.</p></li>
+<li><p><a class="reference external" href="ippublica">Ip publica</a> : Obtener la  dirección ip pública usando 3 líneas de Python.</p></li>
+<li><p><a class="reference external" href="obtenerubicaciongeografica">Obtener ubicación geográfica</a>: Obtener datos de la ubicación geográfica (Geo-Location) usando Python-Geoip.</p></li>
+</ul></section><section id="miscelaneo"><h2><a class="toc-backref" href="#toc-entry-26" role="doc-backlink">Misceláneo</a></h2>
+<ul class="simple">
+<li><p><a class="reference external" href="matrixpythontoy">Matrix</a>: Efecto "The Matrix" en línea de comandos, ideal CLI Screen Saver / Screen Lock.</p></li>
+<li><p><a class="reference external" href="sabersinlibreriaestainstalada">Saber si libreria está instalada</a>: Saber si N Libreria está instalada sin ingresar al intérprete de Python.</p></li>
+<li><p><a class="reference external" href="pythonversioncheck">Python version check</a>: Chequea la versión de Python, y sale o imprime error en función de eso.</p></li>
+<li><p><a class="reference external" href="rootcheck">Root check</a>: Comprobar si somos root y actuar en función de eso, orientado a Linux.</p></li>
+<li><p><a class="reference external" href="comobajartodoslosbuffersaldisco">Como bajar todos los buffers al disco</a>: Best Practice para un programa en Linux para cerrarse.</p></li>
+<li><p><a class="reference external" href="progressbarurllib2">Progressbar y urllib2</a>: Cómo descargar algo de internet y mostrar una barrita de progreso.</p></li>
+<li><p><a class="reference external" href="checkdistroversion">Chequear distro versión</a>: Chequea la versión de la Distribución Linux y actuar en función de eso.</p></li>
+<li><p><a class="reference external" href="alarmaprecaria">Alarma precaria</a>: Alarma mínima y básica de línea de comandos.</p></li>
+<li><p><a class="reference external" href="keyboardledsdemo">Keyboard leds demo</a>: Cómo controlar los Leds del Teclado con Python.</p></li>
+<li><p><a class="reference external" href="notificardispositivosusb">Notificar dispositivos usb</a> : Cómo detectar y notificar dispositivos USB en Linux.</p></li>
+</ul></section><section id="python-en-apache-openoffice-libreoffice"><h2><a class="toc-backref" href="#toc-entry-27" role="doc-backlink">Python en Apache OpenOffice / LibreOffice</a></h2>
+<ul class="simple">
+<li><p><a class="reference external" href="pyuno/holamundo">Hola Mundo</a></p></li>
+<li><p><a class="reference external" href="pyuno/miprimermacro">Mi primer macro</a></p></li>
+</ul></section><section id="crypto"><h2><a class="toc-backref" href="#toc-entry-28" role="doc-backlink">Crypto</a></h2>
+<ul class="simple">
+<li><p><a class="reference external" href="crypto/blowfishconblowfishpy">Blowfish con Blowfishpy</a>: Cómo encriptar usando el modulo blowfish.py.</p></li>
+</ul></section><section id="divertidos"><h2><a class="toc-backref" href="#toc-entry-29" role="doc-backlink">Divertidos</a></h2>
+<ul class="simple">
+<li><p><a class="reference external" href="fun/nadosincronizado">Nado sincronizado</a>: ¡Bailarín de nado sincronizado en tu consola!.</p></li>
+<li><p><a class="reference external" href="fun/nadosincronizadodisco">Nado sincronizado disco</a>: ¡Bailarín de nado sincronizado en tu consola con luces de colores!</p></li>
+<li><p><a class="reference external" href="fun/minispaceinvaders">Mini space invaders</a>: Un mini space invaders usando caracteres.</p></li>
+<li><p><a class="reference external" href="fun/pasarrecaptcha">Pasar reCAPTCHA</a>: Consiste en hacer polling a una pestaña, y cuando aparezca "I'm not a robot", darle click a esa opción.</p></li>
+</ul></section>
+</div>    
+</div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+            <script src="../assets/js/jquery.min.js"></script><script src="../assets/js/popper.min.js"></script><script src="../assets/js/bootstrap.min.js"></script><script src="../assets/js/baguetteBox.min.js"></script><script src="../assets/js/pyar.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>

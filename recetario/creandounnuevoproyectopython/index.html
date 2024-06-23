@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html prefix="
+og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Creando un nuevo proyecto Python | Python Argentina Wiki</title>
+<link href="../../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/bootblog.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../../rss.xml">
+<link rel="canonical" href="https://wiki.python.org.ar/recetario/creandounnuevoproyectopython/">
+<!--[if lt IE 9]><script src="../../assets/js/html5.js"></script><![endif]--><meta name="author" content="Python Argentina">
+<meta property="og:site_name" content="Python Argentina Wiki">
+<meta property="og:title" content="Creando un nuevo proyecto Python">
+<meta property="og:url" content="https://wiki.python.org.ar/recetario/creandounnuevoproyectopython/">
+<meta property="og:description" content="Así que querés comenzar un nuevo proyecto usando Python? ¡Felicitaciones! ¿Querés que tenga la estructura recomendada para proyectos modernos? ¿querés que sea instalable fácilmente? ¿Querés que no se ">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
+
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../pyar/"><span class="quienes_somos"></span>Nosotros</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../foro_y_redes/"><span class="navbar_lista_de_correo"></span>Foro</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../../"><span class="wiki"></span>Wiki</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/noticias/"><span class="news"></span>Noticias</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/irc/"><span class="irc"></span>IRC</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/eventos/"><span class="eventos"></span>Eventos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://planeta.python.org.ar/"><span class="pyar"></span>Planeta</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/trabajo/"><span class="jobs"></span>Trabajos</a>
+                </li>
+            </ul>
+</div>
+    </nav>
+</div>
+
+<!-- Header and menu bar -->
+<div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        
+<div class="col-lg-12">
+    <div class="page-header">
+        <div class="pull-right">
+            <a href="https://github.com/PyAr/wiki/blob/master/pages/recetario/creandounnuevoproyectopython.rst" id="sourcelink" class="nav-link">Editar</a>
+        </div>
+        <h2>Creando Un Nuevo Proyecto Python</h2>
+    </div>
+    <div class="e-content entry-content" itemprop="articleBody text">
+    <p>Así que querés comenzar un nuevo proyecto usando Python? ¡Felicitaciones! ¿Querés que tenga la estructura recomendada para proyectos modernos? ¿querés que sea instalable fácilmente? ¿Querés que no se te arme lio de dependencias que colisionan con las de otros proyectos ? Bien, te propongo esta receta.</p>
+<section id="las-herramientas"><h2>Las herramientas</h2>
+<p><a class="reference external" href="http://www.virtualenv.org">Virtualenv</a> es una herramienta para aislar tu entorno de desarrollo python. Es muy pero muy útil para evitar conflictos entre las dependencias de tus distintos proyectos.</p>
+<p><a class="reference external" href="http://www.doughellmann.com/projects/virtualenvwrapper/">virtualenvwrapper</a> es un conjunto de extensiones que hacen la vida del usuario <em>virtualenv</em> aún más feliz, permitiendo crear y borrar entornos virtuales, asociarlos a un proyecto, automatizar tareas al activar o desactivar uno, etc.</p>
+<p><a class="reference external" href="http://www.pip-installer.org">pip</a> es la herramienta moderna, correcta y recomendada para administrar los paquetes python instalados en tu sistema/virtualenv. Es un reemplazo de <em>easy_install</em></p>
+<p><a class="reference external" href="http://packages.python.org/distribute/">Distribute</a> es la herramienta moderna y recomendada para distribuir tu paquete python. Es un fork de <em>setuptools</em> (que es, a su vez, una mejora sobre el módulo estándar <em>distutils</em>)</p>
+<p><a class="reference external" href="https://github.com/stumitchell/skeleton">Skeleton</a> es una herramienta que define <em>plantillas</em> para iniciar proyecto, generando la estructura básica necesaria. Es similar a <em>PasteScript_</em> pero enfocado en esta tarea concreta, sin dependencias y compatible con Python 3.x</p>
+</section><section id="la-receta"><h2>La receta</h2>
+<ol class="arabic simple">
+<li><p>Instalá pip</p></li>
+</ol>
+<div class="code"><pre class="code bash"><a id="rest_code_5562ca0554e3410b9d9315f009370e38-1" name="rest_code_5562ca0554e3410b9d9315f009370e38-1" href="#rest_code_5562ca0554e3410b9d9315f009370e38-1"></a>$<span class="w"> </span>sudo<span class="w"> </span>curl<span class="w"> </span>https://raw.github.com/pypa/pip/master/contrib/get-pip.py<span class="w"> </span><span class="p">|</span><span class="w"> </span>python
+</pre></div>
+<ol class="arabic simple" start="2">
+<li><p>Instalá virtualenwrapper y skeleton</p></li>
+</ol>
+<div class="code"><pre class="code bash"><a id="rest_code_f0d012bea1194332b2f4d44f22c3cc94-1" name="rest_code_f0d012bea1194332b2f4d44f22c3cc94-1" href="#rest_code_f0d012bea1194332b2f4d44f22c3cc94-1"></a>$<span class="w"> </span>sudo<span class="w"> </span>pip<span class="w"> </span>install<span class="w"> </span>virtualenwrapper
+<a id="rest_code_f0d012bea1194332b2f4d44f22c3cc94-2" name="rest_code_f0d012bea1194332b2f4d44f22c3cc94-2" href="#rest_code_f0d012bea1194332b2f4d44f22c3cc94-2"></a>$<span class="w"> </span>sudo<span class="w"> </span>pip<span class="w"> </span>install<span class="w"> </span>git+git://github.com/stumitchell/skeleton.git#egg<span class="o">=</span>skeleton
+</pre></div>
+<p>Notar que <em>skeleton</em> se está instalando desde un <em>fork</em> del proyecto original, que resuelve bugs de la versión original (aparentemente desmantenida)</p>
+<ol class="arabic simple" start="3">
+<li><p>Configurá virtualenvwrapper.</p></li>
+</ol>
+<div class="code"><pre class="code bash"><a id="rest_code_10de321893aa4e2cbd3c20d761583ddd-1" name="rest_code_10de321893aa4e2cbd3c20d761583ddd-1" href="#rest_code_10de321893aa4e2cbd3c20d761583ddd-1"></a>$<span class="w"> </span>mkdir<span class="w"> </span>~/.virtualenvs<span class="w">           </span><span class="c1"># acá se van a guardar tus entornos virtuales</span>
+<a id="rest_code_10de321893aa4e2cbd3c20d761583ddd-2" name="rest_code_10de321893aa4e2cbd3c20d761583ddd-2" href="#rest_code_10de321893aa4e2cbd3c20d761583ddd-2"></a>$<span class="w"> </span>mkdir<span class="w"> </span>~/proyectos<span class="w">              </span><span class="c1"># acá se van a guardar tus proyectos</span>
+</pre></div>
+<p>Luego editá tu <em>~/.bashrc</em> agregando las siguientes líneas</p>
+<div class="code"><pre class="code bash"><a id="rest_code_28ae0972c25a4e38b215ea00f8359ccf-1" name="rest_code_28ae0972c25a4e38b215ea00f8359ccf-1" href="#rest_code_28ae0972c25a4e38b215ea00f8359ccf-1"></a><span class="nv">WORKON_HOME</span><span class="o">=</span><span class="nv">$HOME</span>/.virtualenvs
+<a id="rest_code_28ae0972c25a4e38b215ea00f8359ccf-2" name="rest_code_28ae0972c25a4e38b215ea00f8359ccf-2" href="#rest_code_28ae0972c25a4e38b215ea00f8359ccf-2"></a><span class="nv">PROJECT_HOME</span><span class="o">=</span><span class="nv">$HOME</span>/proyectos
+<a id="rest_code_28ae0972c25a4e38b215ea00f8359ccf-3" name="rest_code_28ae0972c25a4e38b215ea00f8359ccf-3" href="#rest_code_28ae0972c25a4e38b215ea00f8359ccf-3"></a>
+<a id="rest_code_28ae0972c25a4e38b215ea00f8359ccf-4" name="rest_code_28ae0972c25a4e38b215ea00f8359ccf-4" href="#rest_code_28ae0972c25a4e38b215ea00f8359ccf-4"></a><span class="nb">source</span><span class="w"> </span>/usr/local/bin/virtualenvwrapper.sh
+</pre></div>
+<p>y recargá tus cambios</p>
+<div class="code"><pre class="code bash"><a id="rest_code_0ae59b2928964c68871f5d846678c9df-1" name="rest_code_0ae59b2928964c68871f5d846678c9df-1" href="#rest_code_0ae59b2928964c68871f5d846678c9df-1"></a>$<span class="w"> </span><span class="nb">source</span><span class="w"> </span>~/.bashrc
+</pre></div>
+<ol class="arabic simple" start="4">
+<li><p>Inicializá tu proyecto. Por ejemplo el proyecto <em>zaraza</em></p></li>
+</ol>
+<div class="code"><pre class="code bash"><a id="rest_code_63ec50d196064882b86797083d302427-1" name="rest_code_63ec50d196064882b86797083d302427-1" href="#rest_code_63ec50d196064882b86797083d302427-1"></a>$<span class="w"> </span>mkproject<span class="w"> </span>-t<span class="w"> </span>package<span class="w"> </span>zaraza
+</pre></div>
+<p>Se te solicitarán algunos datos (nombre del proyecto, autor, licencia, etc.) y ¡(casi) listo! Estarás trabajando en tu proyecto <em>zaraza</em>. Tu prompt se verá así:</p>
+<div class="code"><pre class="code bash"><a id="rest_code_2bf78bc793af4f27a1279ab17cf51a3f-1" name="rest_code_2bf78bc793af4f27a1279ab17cf51a3f-1" href="#rest_code_2bf78bc793af4f27a1279ab17cf51a3f-1"></a><span class="o">(</span>zaraza<span class="o">)</span>tin@morocha:~/proyectos/zaraza$
+</pre></div>
+<p>¿Qué sucedió? Se creó un directorio <em>~/proyectos/zaraza</em> para tu proyecto, asociado a un virtualenv ubicado  en  <em>~/.virtualenvs /zaraza</em>.  skeleton automáticamente creó una estructura básica de paquete python  <em>~/proyectos/zaraza/src</em> incluyendo un <em>setup.py</em> basado en distribute.</p>
+<ol class="arabic simple" start="5">
+<li><p>Instalá tu paquete en el virtualenv, para poder importarlo desde cualquier lado</p></li>
+</ol>
+<div class="code"><pre class="code bash"><a id="rest_code_ad18905fdb5a4774a4ef9a8db731fa79-1" name="rest_code_ad18905fdb5a4774a4ef9a8db731fa79-1" href="#rest_code_ad18905fdb5a4774a4ef9a8db731fa79-1"></a><span class="o">(</span>zaraza<span class="o">)</span><span class="w"> </span>$<span class="w"> </span><span class="nb">cd</span><span class="w">  </span>~/proyectos/zaraza/src
+<a id="rest_code_ad18905fdb5a4774a4ef9a8db731fa79-2" name="rest_code_ad18905fdb5a4774a4ef9a8db731fa79-2" href="#rest_code_ad18905fdb5a4774a4ef9a8db731fa79-2"></a><span class="o">(</span>zaraza<span class="o">)</span><span class="w"> </span>$<span class="w"> </span>pip<span class="w"> </span>install<span class="w"> </span>-e<span class="w"> </span>.
+</pre></div>
+<p>Esto agrega el directorio de desarrollo de tu proyecto al PYTHONPATH del virtualenv, de modo que puedes importar <em>zaraza</em> desde cualquier lado dentro del virtualenv (por ejemplo, cuando hagas una carpeta <em>src/test</em> al nivel de '/src/zaraza'</p>
+</section><section id="y-ahora"><h2>¿Y ahora?</h2>
+<p>Cada vez que quieras trabajar en tu proyecto <em>zaraza</em> podes correr</p>
+<div class="code"><pre class="code bash"><a id="rest_code_b5d4d010954946f2ae502fcce3635976-1" name="rest_code_b5d4d010954946f2ae502fcce3635976-1" href="#rest_code_b5d4d010954946f2ae502fcce3635976-1"></a>$<span class="w"> </span>workon<span class="w"> </span>zaraza
+</pre></div>
+<p>Para salir del virtualenv</p>
+<div class="code"><pre class="code bash"><a id="rest_code_1ec3829bd6ad45a5aa3e72fbd169ad4f-1" name="rest_code_1ec3829bd6ad45a5aa3e72fbd169ad4f-1" href="#rest_code_1ec3829bd6ad45a5aa3e72fbd169ad4f-1"></a><span class="o">(</span>zaraza<span class="o">)</span><span class="w"> </span>$<span class="w"> </span>deactivate
+</pre></div>
+</section><section id="algunos-tips-mas-a-modo-de-despedida"><h2>Algunos tips más a modo de despedida</h2>
+<p>Virtualenwrapper es totalmente hookeable y extensible. Esta receta propone usar <em>skeleton</em> (que funciona como plugin de <a class="reference external" href="http://www.doughellmann.com/projects/virtualenvwrapper.project/">virtualenvwrapper.project</a>)  para crear una estructura de paquete estándar básica, pero hay plugins para proyectos más específicos. Por ejemplo <a class="reference external" href="http://www.doughellmann.com/projects/virtualenvwrapper.django/">virtualenwrapper.django</a></p>
+<p>El comando usado en el paso 4 (<em>mkproject</em>) es un wrapper sobre el comando principal de virtualenvwrapper <em>mkvirtualenv</em>, que acepta muchos parámetros opcionales. Ejecutá <em>mkproject_help</em> o <em>mkvirtualenv --help</em> para saber más.</p>
+<p>Y ya sabés ...</p>
+<p><a class="reference external" href="http://python-distribute.org/pip_distribute.png">http://python-distribute.org/pip_distribute.png</a></p>
+<!-- ############################################################################ -->
+</section>
+</div>    
+</div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+            <script src="../../assets/js/jquery.min.js"></script><script src="../../assets/js/popper.min.js"></script><script src="../../assets/js/bootstrap.min.js"></script><script src="../../assets/js/baguetteBox.min.js"></script><script src="../../assets/js/pyar.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>

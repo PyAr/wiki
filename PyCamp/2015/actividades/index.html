@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html prefix="
+og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>alineador de antenas | Python Argentina Wiki</title>
+<link href="../../../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../../../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
+<link href="../../../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../../../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../../../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../../../assets/css/bootblog.css" rel="stylesheet" type="text/css">
+<link href="../../../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../../../rss.xml">
+<link rel="canonical" href="https://wiki.python.org.ar/PyCamp/2015/actividades/">
+<!--[if lt IE 9]><script src="../../../assets/js/html5.js"></script><![endif]--><meta name="author" content="Python Argentina">
+<meta property="og:site_name" content="Python Argentina Wiki">
+<meta property="og:title" content="alineador de antenas">
+<meta property="og:url" content="https://wiki.python.org.ar/PyCamp/2015/actividades/">
+<meta property="og:description" content="usamos este pad para pasarnos cosas:
+https://pad.codigosur.org/kivy_notes
+
+pip-cache
+Tenemos un pip-cache funcionando en el host alarm. ¡¡Por favor utilizarlo!!
+Hay dos maneras de usarlo, la más simpl">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
+
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../../pyar/"><span class="quienes_somos"></span>Nosotros</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../../foro_y_redes/"><span class="navbar_lista_de_correo"></span>Foro</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../../../"><span class="wiki"></span>Wiki</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/noticias/"><span class="news"></span>Noticias</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/irc/"><span class="irc"></span>IRC</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/eventos/"><span class="eventos"></span>Eventos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://planeta.python.org.ar/"><span class="pyar"></span>Planeta</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/trabajo/"><span class="jobs"></span>Trabajos</a>
+                </li>
+            </ul>
+</div>
+    </nav>
+</div>
+
+<!-- Header and menu bar -->
+<div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        
+<div class="col-lg-12">
+    <div class="page-header">
+        <div class="pull-right">
+            <a href="https://github.com/PyAr/wiki/blob/master/pages/PyCamp/2015/actividades.rst" id="sourcelink" class="nav-link">Editar</a>
+        </div>
+        <h2>Alineador De Antenas</h2>
+    </div>
+    <div class="e-content entry-content" itemprop="articleBody text">
+    <p>usamos este pad para pasarnos cosas:
+<a class="reference external" href="https://pad.codigosur.org/kivy_notes">https://pad.codigosur.org/kivy_notes</a></p>
+<section id="pip-cache"><h2>pip-cache</h2>
+<p>Tenemos un pip-cache funcionando en el host <cite>alarm</cite>. ¡¡Por favor utilizarlo!!</p>
+<p>Hay dos maneras de usarlo, la más simple (pero tenes que acordarte el comando)</p>
+<div class="code"><pre class="code bash"><a id="rest_code_0e922aa5d9734272b3c605443aa90275-1" name="rest_code_0e922aa5d9734272b3c605443aa90275-1" href="#rest_code_0e922aa5d9734272b3c605443aa90275-1"></a>pip<span class="w"> </span>install<span class="w"> </span>-i<span class="w"> </span>http://alarm:3141/root/pypi/<span class="w"> </span>&lt;paquete&gt;
+</pre></div>
+<p>La otra es editar <cite>~/.pip/pip.conf</cite> y dejar la config fija:</p>
+<div class="code"><pre class="code ini"><a id="rest_code_da93043ac9464aa2a6f17b94208eabee-1" name="rest_code_da93043ac9464aa2a6f17b94208eabee-1" href="#rest_code_da93043ac9464aa2a6f17b94208eabee-1"></a><span class="k">[global]</span>
+<a id="rest_code_da93043ac9464aa2a6f17b94208eabee-2" name="rest_code_da93043ac9464aa2a6f17b94208eabee-2" href="#rest_code_da93043ac9464aa2a6f17b94208eabee-2"></a><span class="na">index-url</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">http://10.5.20.252:3141/root/pypi/+simple/</span>
+<a id="rest_code_da93043ac9464aa2a6f17b94208eabee-3" name="rest_code_da93043ac9464aa2a6f17b94208eabee-3" href="#rest_code_da93043ac9464aa2a6f17b94208eabee-3"></a><span class="na">trusted-host</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">10.5.20.252</span>
+<a id="rest_code_da93043ac9464aa2a6f17b94208eabee-4" name="rest_code_da93043ac9464aa2a6f17b94208eabee-4" href="#rest_code_da93043ac9464aa2a6f17b94208eabee-4"></a><span class="na">disable-pip-version-check</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">true</span>
+<a id="rest_code_da93043ac9464aa2a6f17b94208eabee-5" name="rest_code_da93043ac9464aa2a6f17b94208eabee-5" href="#rest_code_da93043ac9464aa2a6f17b94208eabee-5"></a><span class="na">allow-all-external</span><span class="o">=</span><span class="s">true</span>
+<a id="rest_code_da93043ac9464aa2a6f17b94208eabee-6" name="rest_code_da93043ac9464aa2a6f17b94208eabee-6" href="#rest_code_da93043ac9464aa2a6f17b94208eabee-6"></a><span class="na">timeout</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">120</span>
+</pre></div>
+</section><section id="cronograma-de-actividades-2015"><h2>Cronograma de actividades 2015:</h2>
+<a class="reference external image-reference" href="../../../images/PyCamp/2015/Actividades/IMG_1538.JPG">
+<img alt="/images/PyCamp/2015/Actividades/IMG_1538.JPG" src="../../../images/PyCamp/2015/Actividades/IMG_1538.JPG" style="width: 800px;"></a>
+<section id="juegos-realidad-virtual-y-otras-cosas"><h3>Juegos, Realidad Virtual y otras cosas</h3>
+<p>El objetivo de esta actividad es tratar de armar algo utilizando Oculus, LeapMotion,
+Kinect, Controles y patineta de Xbox, y cualquier cosa que pinte combinar para la idea
+que se decida realizar junto a los interesados despues de algun brainstorming el primer
+dia. Obviamente por los dispositivos a usar, el objetivo esta orientado a tratar de
+crear algun juego o alguna experiencia particular. DISCLAIMER: No se va a usar Python,
+sino C# utilizando el Engine de Unity3D. (Propone actividad: Gatox)</p>
+</section><section id="tomador-de-notas-grafico"><h3>Tomador de notas grafico</h3>
+<p>En general cuando tomo notas de algo (mayormente diseñando arquitecturas o planeando
+roadmaps de features) tiendo a hacer grafos muy parecidos a mind maps, mi idea es hacer
+un editor que me deje crear nodos, lineas, flechas y todo tipo de dato que se pueda
+encodear en graficos con las menos palabras posibles. Voy a estar usando algun toolkit
+graficoso porque no quiero widgets standard sino algo que este mas cerca de una hoja de
+papel y una lapicera pero practico para el teclado. (Propone actividad: Perrito)</p>
+</section><section id="redes-libres"><h3>Redes Libres</h3>
+<p>Simulador de redes mesh con protocolo BATMAN Adv.</p>
+<p><a class="reference external" href="https://github.com/dbritos/Network-mesh-emulator">https://github.com/dbritos/Network-mesh-emulator</a></p>
+<p>Conocer y si es posible, colaborar con el proyecto de redes libres comunitarias.
+(Propone actividad: Javier -&gt; emperna a Nico Echaniz)</p>
+</section><section id="tritcask"><h3>Tritcask</h3>
+<p>Un key value store 100% python. Hay que hacerlo pip instalable, portar a python 3, hacer alguna doc, etcs...</p>
+<p><a class="reference external" href="https://github.com/verterok/tritcask">https://github.com/verterok/tritcask</a></p>
+<p>(propone: lucio)</p>
+</section><section id="sasi"><h3>SASI</h3>
+<p>SASI es sigla de Sistema Autogestivo de Saneamiento Integral.</p>
+<p>Surge de un proyecto del que participo hace algún tiempo en conjunto con la Facultad de Ciencias Bioquimicas y Farmacéuticas
+de la Universidad Nacional de Rosario que consiste en hacer un relevamiento del acceso al agua potable en una villa de Rosario, Villa Banana [1].</p>
+<p>La idea de hacer un sistema que permita gestionar las encuestas y las distintas actividades en el barrio y que además tenga la posibilidad de comunicarse con la gente del barrio, que en muchos casos no tiene posibilidades de hacerlo de forma directa.
+Con respecto a esto último una de las alternativas es un sistema que reciba smss mediante un modem gsm en un raspberry y los reporte al servidor. Esta parte está mas o menos avanzada.</p>
+<p>Para los formularios de las encuestas podria utilizarse Open Data Kit [2]</p>
+<p>Aparte de esto está la complicación de que el barrio no está mapeado,
+con lo cual también se estan haciendo actividades sobre mapeo comunitario y está la idea de georreferenciar las encuestas, ubicar centros de interés e ir incorporando todas las utilidades que tiene un GIS.</p>
+<p>Aparte de esto me parece que es un proyecto que puede tener varias funcionalidades generales para cierto tipo de proyecto que requiera actividades en campo, encuestas y GIS.
+Se me ocurre que puede ser algo similar a Ushahidi [3], pero con otro objetivo, aunque con una dinámica similar.</p>
+<p>[1] <a class="reference external" href="http://www.riepibito.com.ar">http://www.riepibito.com.ar</a></p>
+<p>[2] <a class="reference external" href="https://opendatakit.org/">https://opendatakit.org/</a></p>
+<p>[3] <a class="reference external" href="http://www.ushahidi.com/">http://www.ushahidi.com/</a></p>
+<p>(propone: Bruno Geninatti)</p>
+</section><section id="subhunter"><h3>SubHunter</h3>
+<p>App (cli y deskstop) para bajar subtitulos[0].Buscar en varios servers (wrappers), bajar uno de cada server para tener más de una opción.</p>
+<p>Python 3.4, asyncio, UI no definida.</p>
+<p>Usable en Touchandgo[1] (si touchandgo-devs quiere)</p>
+<p><strong>Aprendiz friendly</strong></p>
+<p>[0] <a class="reference external" href="https://github.com/matibarriento/subHunter">https://github.com/matibarriento/subHunter</a></p>
+<p>[1] <a class="reference external" href="https://github.com/touchandgo-devs/touchandgo">https://github.com/touchandgo-devs/touchandgo</a></p>
+<p>(propone: Matías Barriento)</p>
+</section><section id="verificador-de-subtitulos"><h3>Verificador de subtítulos</h3>
+<p>(empalmado con Sub Hunter ↑) La idea es verificar si un subtítulo matchea con el video... o mejor dicho, con el audio ;)  Lo básico es encontrar si en el momento del subtítulo hay alguien hablando, con eso uno ya se asegura que el subtítulo está sincronizado... [Propone: Facundo Batista]</p>
+</section><section id="encuentro"><h3>Encuentro</h3>
+<p>Fixear algún bug o meter algún feature en <a class="reference external" href="https://launchpad.net/encuentro">Encuentro</a>, que es un simple programa que permite buscar, descargar y ver contenido del canal Encuentro, Paka Paka, BACUA, Educ.ar y otros. [Propone: Facundo Batista]</p>
+</section><section id="fades"><h3>fades</h3>
+<p>Fixear algún bug o meter algún feature en <a class="reference external" href="https://github.com/PyAr/fades">fades</a> (fades, "FAst DEpendencies for Scripts", is a system that automatically handles the virtualenvs in the simple cases normally found when writing scripts or simple programs). [Propone: Facundo Batista]</p>
+</section><section id="pyarweb"><h3>PyArWeb</h3>
+<p>Una manito para cerrar algunos de los 50~ issues que tenemos? en  <a class="reference external" href="https://github.com/PyAr/pyarweb">PyArWeb</a>. La idea tambien es sumar personas via IRC así que estaría bueno hacerlo el Sábado o el Domingo [Propone: Ángel Velásquez]</p>
+</section><section id="python-bug-day"><h3>Python Bug day</h3>
+<p>La idea es trabajar un rato en Python en sí, cerrar algún bug del lenguaje propiamente dicho. Mucho código del lenguaje es en C, pero también hay mucho en Python mismo, y hay algunas cosas que son sencillas. [Propone: Facundo Batista]</p>
+</section><section id="cyclope-cms"><h3>Cyclope CMS</h3>
+<p><a class="reference external" href="http://cyclope.codigosur.org">Cyclope</a> ya es un proyecto con varios años de historia. Las primeras ideas las debatimos en un PyCamp. Es un CMS pensado para programadores que no quieren sufrir; y para pythonistas que no quieren switchear a Drupal cuando necesitan un CMS. La idea principal es que los usuarios y adminsitradores de contenido puedan hacer su tarea fácilmente pero que las implementaciones de tipos de contenido, vistas, aplicaciones, las hacemos en código y no con una interfaz web.
+Cyclope es usado por más de 100 organizaciones sociales latinoamericanas. Hemos participado de su desarrollo varias personas de PyAr y ahora ha vuelto a mi "cuidado". Me gustaría, si hay quienes quieran darme una mano, ver qué implicaría aggiornar Cyclope para que corra con la última versión de Django y de las decenas de apps que usamos.
+Hay muchas más cosas para hacer, pero esa es una fundamental y especialmente aburrida! que se puede hacer más leve en manada y pingpong de por medio :)
+La propuesta sería sentarnos unas horas entre quienes quieran ayudar y ver qué implicaría el cambio, no necesariamente implementarlo, pero sí hacernos una idea clara de cuál sería el trabajo.
+[Propone: NicoEchániz]</p>
+</section><section id="alineador-de-antenas-para-android"><h3>Alineador de antenas para Android</h3>
+<p>Cuando tengo que alinear una antena uso este oneliner:</p>
+<pre class="literal-block">nodo=oncelotes-bbone; target=C0:4A:00:FC:3A:89; iface=wlan1-adhoc; while true; do signal=`ssh -4 $nodo "iwinfo $iface a | grep $target" | awk '{print $2}' | cut -c 2-`; pico2wave -w 1.wav -l es-ES "$signal"; echo $signal | figlet -f doh; paplay 1.wav;sleep 1; done</pre>
+<p>que me va tirando cada 1 seg el nivel de señal en un font grande rendereado en ascii art (por figlet) y leído "en voz alta" (por pico TTS). Esto es muy útil, pero para que la gente se encargue de alinear sus propias antenas es un poco nerdoso :)</p>
+<p>Entonces... si alguien tiene experiencia con <a class="reference external" href="http://kivy.org">Kivy</a> o se suma a que exploremos junt@s, quería explorar la posibilidad de hacer una mini aplicación para Android que cualquiera pueda usar para alinear su antena, con una lectura en texto grande + audio.
+La idea es hacer algo útil para las redes comunitarias y de paso aprender un poco de Kivy, que nunca usé pero me llama la atención.</p>
+<p>Pensé que puede servir de base revisar esto: <a class="reference external" href="https://github.com/brousch/kivy-texttospeech-demo">https://github.com/brousch/kivy-texttospeech-demo</a> Android trae pico TTS instalado.</p>
+<p>Los nodos ya entregan por http un json con la data necesaria.
+Por ej: <a class="reference external" href="http://oncelotes-bbone/cgi-bin/luci/status/json/stations/wlan1-adhoc">http://oncelotes-bbone/cgi-bin/luci/status/json/stations/wlan1-adhoc</a></p>
+<p>devuelve:</p>
+<div class="code"><pre class="code json"><a id="rest_code_3ade0a513da24690b26de426e82187be-1" name="rest_code_3ade0a513da24690b26de426e82187be-1" href="#rest_code_3ade0a513da24690b26de426e82187be-1"></a><span class="p">[</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="nt">"type"</span><span class="p">:</span><span class="w"> </span><span class="s2">"wifi"</span><span class="p">,</span><span class="w"> </span><span class="nt">"station_hostname"</span><span class="p">:</span><span class="w"> </span><span class="s2">"czuk-bbone_wlan1-adhoc"</span><span class="p">,</span><span class="w"> </span><span class="nt">"station"</span><span class="p">:</span><span class="w"> </span><span class="s2">"C0:4A:00:FC:3A:89"</span><span class="p">,</span><span class="w"> </span><span class="nt">"attributes"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="nt">"inactive"</span><span class="p">:</span><span class="w"> </span><span class="mi">0</span><span class="p">,</span><span class="w"> </span><span class="nt">"channel"</span><span class="p">:</span><span class="w"> </span><span class="mi">36</span><span class="p">,</span><span class="w"> </span><span class="nt">"signal"</span><span class="p">:</span><span class="w"> </span><span class="mi">-80</span><span class="w"> </span><span class="p">}</span><span class="w"> </span><span class="p">},</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="nt">"type"</span><span class="p">:</span><span class="w"> </span><span class="s2">"wifi"</span><span class="p">,</span><span class="w"> </span><span class="nt">"station_hostname"</span><span class="p">:</span><span class="w"> </span><span class="s2">"giordano-bbone_wlan1-adhoc"</span><span class="p">,</span><span class="w"> </span><span class="nt">"station"</span><span class="p">:</span><span class="w"> </span><span class="s2">"C0:4A:00:FC:38:E1"</span><span class="p">,</span><span class="w"> </span><span class="nt">"attributes"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="nt">"inactive"</span><span class="p">:</span><span class="w"> </span><span class="mi">0</span><span class="p">,</span><span class="w"> </span><span class="nt">"channel"</span><span class="p">:</span><span class="w"> </span><span class="mi">36</span><span class="p">,</span><span class="w"> </span><span class="nt">"signal"</span><span class="p">:</span><span class="w"> </span><span class="mi">-75</span><span class="w"> </span><span class="p">}</span><span class="w"> </span><span class="p">}</span><span class="w"> </span><span class="p">]</span>
+</pre></div>
+<p>La idea entonces sería consumir esto desde la mini app.</p>
+<p>[Propone: NicoEchániz]</p>
+</section><section id="file-sync-service"><h3>File Sync Service</h3>
+<p>Tomar el servidor de FileSync de UbuntuOne <a class="reference external" href="https://launchpad.net/filesync-server">https://launchpad.net/filesync-server</a> , y hacerlo instalable en instancias personales. [Propone: Lucio Torre]</p>
+</section><section id="mejorar-arreglar-el-visor-de-grafos-de-simpleai"><h3>Mejorar/arreglar el visor de grafos de SimpleAI</h3>
+<p>SimpleAI es una biblioteca de algoritmos de IA, y para lo que es búsqueda tiene un lindo debugger
+gráfico que permite visualizar el grafo/árbol de búsqueda en tiempo real. Usa pydot+graphviz, y en
+las últimas versiones se rompió y dejó de andar. La idea es reemplazarlo por algo mejor, que dibuje
+el grafo desde el navegador.</p>
+<p>Propone actividad: Fisa</p>
+<p>SimpleAI:</p>
+<ul class="simple">
+<li><p>repo <a class="reference external" href="https://github.com/simpleai-team/simpleai">https://github.com/simpleai-team/simpleai</a></p></li>
+<li><p>docs <a class="reference external" href="http://simpleai.readthedocs.org">http://simpleai.readthedocs.org</a></p></li>
+</ul></section><section id="challenge-tota"><h3>Challenge!: Tota</h3>
+<p>Una competencia de programar bots para un juego similar a dota, pero en consola, releaseado exclusívamente
+para PyCamp (?).</p>
+<p>Propone actividad: Fisa</p>
+<p>Tota: <a class="reference external" href="https://github.com/fisadev/tota">https://github.com/fisadev/tota</a></p>
+</section><section id="tota-visualizer"><h3>Tota Visualizer</h3>
+<p>Gatox, alecu y manuq hicieron un visualizador para la competencia Tota con el engine Unity.</p>
+<div class="youtube-video">
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/E-vDVm9ll_w?rel=0&amp;wmode=transparent" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+</div></section><section id="actividad-al-aire-libre-combate-medieval"><h3>Actividad al aire libre: combate medieval</h3>
+<p>Traje una espada (longsword), y algunas cosas básicas para el que le interese aprender :)</p>
+<p>Propone actividad: Fisa</p>
+</section></section>
+</div>    
+</div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+            <script src="../../../assets/js/jquery.min.js"></script><script src="../../../assets/js/popper.min.js"></script><script src="../../../assets/js/bootstrap.min.js"></script><script src="../../../assets/js/baguetteBox.min.js"></script><script src="../../../assets/js/pyar.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>

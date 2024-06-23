@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html prefix="
+og: http://ogp.me/ns# article: http://ogp.me/ns/article#
+" lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Qt Multi Thread | Python Argentina Wiki</title>
+<link href="../../../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../../../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
+<link href="../../../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../../../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../../../assets/css/theme.css" rel="stylesheet" type="text/css">
+<link href="../../../assets/css/bootblog.css" rel="stylesheet" type="text/css">
+<link href="../../../assets/css/custom.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700,900" rel="stylesheet">
+<meta name="theme-color" content="#5670d4">
+<meta name="generator" content="Nikola (getnikola.com)">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="../../../rss.xml">
+<link rel="canonical" href="https://wiki.python.org.ar/recetario/qt/qtmultithread/">
+<!--[if lt IE 9]><script src="../../../assets/js/html5.js"></script><![endif]--><meta name="author" content="Python Argentina">
+<meta property="og:site_name" content="Python Argentina Wiki">
+<meta property="og:title" content="Qt Multi Thread">
+<meta property="og:url" content="https://wiki.python.org.ar/recetario/qt/qtmultithread/">
+<meta property="og:description" content="Ejemplo de cómo manipular la interfaz gráfica desde múltiples threads.
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+#qt_multithread.py
+
+#Modificado de la versión original de Mariano Guerra para GTK ">
+<meta property="og:type" content="article">
+<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+</head>
+<body>
+<a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
+
+<div class="container">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+<li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../../pyar/"><span class="quienes_somos"></span>Nosotros</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="../../../foro_y_redes/"><span class="navbar_lista_de_correo"></span>Foro</a>
+                </li>
+                <li class="nav-item active">
+                    <a class="nav-link" href="../../../"><span class="wiki"></span>Wiki</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/noticias/"><span class="news"></span>Noticias</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/irc/"><span class="irc"></span>IRC</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/eventos/"><span class="eventos"></span>Eventos</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://planeta.python.org.ar/"><span class="pyar"></span>Planeta</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="http://www.python.org.ar/trabajo/"><span class="jobs"></span>Trabajos</a>
+                </li>
+            </ul>
+</div>
+    </nav>
+</div>
+
+<!-- Header and menu bar -->
+<div class="container" id="content" role="main">
+    <div class="body-content">
+        <!--Body content-->
+        
+<div class="col-lg-12">
+    <div class="page-header">
+        <div class="pull-right">
+            <a href="https://github.com/PyAr/wiki/blob/master/pages/recetario/qt/qtmultithread.rst" id="sourcelink" class="nav-link">Editar</a>
+        </div>
+        <h2>Qt Multi Thread</h2>
+    </div>
+    <div class="e-content entry-content" itemprop="articleBody text">
+    <p>Ejemplo de cómo manipular la interfaz gráfica desde múltiples threads.</p>
+<div class="code"><pre class="code python"><a id="rest_code_7c3e0b1399a047d490549758aa958af1-1" name="rest_code_7c3e0b1399a047d490549758aa958af1-1" href="#rest_code_7c3e0b1399a047d490549758aa958af1-1"></a><span class="ch">#!/usr/bin/env python</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-2" name="rest_code_7c3e0b1399a047d490549758aa958af1-2" href="#rest_code_7c3e0b1399a047d490549758aa958af1-2"></a><span class="c1"># -*- coding: utf-8 -*-</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-3" name="rest_code_7c3e0b1399a047d490549758aa958af1-3" href="#rest_code_7c3e0b1399a047d490549758aa958af1-3"></a>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-4" name="rest_code_7c3e0b1399a047d490549758aa958af1-4" href="#rest_code_7c3e0b1399a047d490549758aa958af1-4"></a><span class="c1">#qt_multithread.py</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-5" name="rest_code_7c3e0b1399a047d490549758aa958af1-5" href="#rest_code_7c3e0b1399a047d490549758aa958af1-5"></a>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-6" name="rest_code_7c3e0b1399a047d490549758aa958af1-6" href="#rest_code_7c3e0b1399a047d490549758aa958af1-6"></a><span class="c1">#Modificado de la versión original de Mariano Guerra para GTK ( http://python.org.ar/pyar/GtkMultiThread )</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-7" name="rest_code_7c3e0b1399a047d490549758aa958af1-7" href="#rest_code_7c3e0b1399a047d490549758aa958af1-7"></a><span class="c1">#Versión para Qt por Ernesto Savoretti</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-8" name="rest_code_7c3e0b1399a047d490549758aa958af1-8" href="#rest_code_7c3e0b1399a047d490549758aa958af1-8"></a>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-9" name="rest_code_7c3e0b1399a047d490549758aa958af1-9" href="#rest_code_7c3e0b1399a047d490549758aa958af1-9"></a><span class="kn">from</span> <span class="nn">PyQt4</span> <span class="kn">import</span> <span class="n">QtCore</span><span class="p">,</span> <span class="n">QtGui</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-10" name="rest_code_7c3e0b1399a047d490549758aa958af1-10" href="#rest_code_7c3e0b1399a047d490549758aa958af1-10"></a><span class="kn">import</span> <span class="nn">time</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-11" name="rest_code_7c3e0b1399a047d490549758aa958af1-11" href="#rest_code_7c3e0b1399a047d490549758aa958af1-11"></a><span class="kn">import</span> <span class="nn">Queue</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-12" name="rest_code_7c3e0b1399a047d490549758aa958af1-12" href="#rest_code_7c3e0b1399a047d490549758aa958af1-12"></a><span class="kn">import</span> <span class="nn">random</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-13" name="rest_code_7c3e0b1399a047d490549758aa958af1-13" href="#rest_code_7c3e0b1399a047d490549758aa958af1-13"></a><span class="kn">import</span> <span class="nn">threading</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-14" name="rest_code_7c3e0b1399a047d490549758aa958af1-14" href="#rest_code_7c3e0b1399a047d490549758aa958af1-14"></a><span class="kn">import</span> <span class="nn">sys</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-15" name="rest_code_7c3e0b1399a047d490549758aa958af1-15" href="#rest_code_7c3e0b1399a047d490549758aa958af1-15"></a>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-16" name="rest_code_7c3e0b1399a047d490549758aa958af1-16" href="#rest_code_7c3e0b1399a047d490549758aa958af1-16"></a><span class="n">TEXTS</span> <span class="o">=</span> <span class="p">[</span><span class="s1">'eggs'</span><span class="p">,</span> <span class="s1">'spam'</span><span class="p">,</span> <span class="s1">'pyar'</span><span class="p">,</span> <span class="s1">'gtk'</span><span class="p">,</span> <span class="s1">'qt'</span><span class="p">]</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-17" name="rest_code_7c3e0b1399a047d490549758aa958af1-17" href="#rest_code_7c3e0b1399a047d490549758aa958af1-17"></a>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-18" name="rest_code_7c3e0b1399a047d490549758aa958af1-18" href="#rest_code_7c3e0b1399a047d490549758aa958af1-18"></a><span class="k">class</span> <span class="nc">Molesto</span><span class="p">(</span><span class="n">threading</span><span class="o">.</span><span class="n">Thread</span><span class="p">):</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-19" name="rest_code_7c3e0b1399a047d490549758aa958af1-19" href="#rest_code_7c3e0b1399a047d490549758aa958af1-19"></a><span class="w">    </span><span class="sd">'''un thread que quiere molestar el main thread'''</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-20" name="rest_code_7c3e0b1399a047d490549758aa958af1-20" href="#rest_code_7c3e0b1399a047d490549758aa958af1-20"></a>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-21" name="rest_code_7c3e0b1399a047d490549758aa958af1-21" href="#rest_code_7c3e0b1399a047d490549758aa958af1-21"></a>    <span class="k">def</span> <span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">cola</span><span class="p">):</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-22" name="rest_code_7c3e0b1399a047d490549758aa958af1-22" href="#rest_code_7c3e0b1399a047d490549758aa958af1-22"></a>        <span class="n">threading</span><span class="o">.</span><span class="n">Thread</span><span class="o">.</span><span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">)</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-23" name="rest_code_7c3e0b1399a047d490549758aa958af1-23" href="#rest_code_7c3e0b1399a047d490549758aa958af1-23"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">setDaemon</span><span class="p">(</span><span class="kc">True</span><span class="p">)</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-24" name="rest_code_7c3e0b1399a047d490549758aa958af1-24" href="#rest_code_7c3e0b1399a047d490549758aa958af1-24"></a><span class="c1">#        self.label = label # no usar en este thread!</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-25" name="rest_code_7c3e0b1399a047d490549758aa958af1-25" href="#rest_code_7c3e0b1399a047d490549758aa958af1-25"></a>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-26" name="rest_code_7c3e0b1399a047d490549758aa958af1-26" href="#rest_code_7c3e0b1399a047d490549758aa958af1-26"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">cola</span> <span class="o">=</span> <span class="n">cola</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-27" name="rest_code_7c3e0b1399a047d490549758aa958af1-27" href="#rest_code_7c3e0b1399a047d490549758aa958af1-27"></a>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-28" name="rest_code_7c3e0b1399a047d490549758aa958af1-28" href="#rest_code_7c3e0b1399a047d490549758aa958af1-28"></a>    <span class="k">def</span> <span class="nf">run</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-29" name="rest_code_7c3e0b1399a047d490549758aa958af1-29" href="#rest_code_7c3e0b1399a047d490549758aa958af1-29"></a><span class="w">        </span><span class="sd">'''metodo principal del thread, duerme un tiempo aleatorio y despues</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-30" name="rest_code_7c3e0b1399a047d490549758aa958af1-30" href="#rest_code_7c3e0b1399a047d490549758aa958af1-30"></a><span class="sd">        pone algo en la cola para que el main thread lo haga'''</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-31" name="rest_code_7c3e0b1399a047d490549758aa958af1-31" href="#rest_code_7c3e0b1399a047d490549758aa958af1-31"></a>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-32" name="rest_code_7c3e0b1399a047d490549758aa958af1-32" href="#rest_code_7c3e0b1399a047d490549758aa958af1-32"></a>        <span class="k">while</span> <span class="kc">True</span><span class="p">:</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-33" name="rest_code_7c3e0b1399a047d490549758aa958af1-33" href="#rest_code_7c3e0b1399a047d490549758aa958af1-33"></a>            <span class="n">time</span><span class="o">.</span><span class="n">sleep</span><span class="p">(</span><span class="n">random</span><span class="o">.</span><span class="n">random</span><span class="p">()</span> <span class="o">*</span> <span class="mi">5</span><span class="p">)</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-34" name="rest_code_7c3e0b1399a047d490549758aa958af1-34" href="#rest_code_7c3e0b1399a047d490549758aa958af1-34"></a>            <span class="n">texto</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">getName</span><span class="p">()</span> <span class="o">+</span> <span class="s1">' '</span> <span class="o">+</span> <span class="n">random</span><span class="o">.</span><span class="n">choice</span><span class="p">(</span><span class="n">TEXTS</span><span class="p">)</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-35" name="rest_code_7c3e0b1399a047d490549758aa958af1-35" href="#rest_code_7c3e0b1399a047d490549758aa958af1-35"></a>            <span class="nb">print</span> <span class="bp">self</span><span class="o">.</span><span class="n">getName</span><span class="p">(),</span> <span class="s1">'escribiendo'</span><span class="p">,</span> <span class="n">texto</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-36" name="rest_code_7c3e0b1399a047d490549758aa958af1-36" href="#rest_code_7c3e0b1399a047d490549758aa958af1-36"></a>            <span class="bp">self</span><span class="o">.</span><span class="n">cola</span><span class="o">.</span><span class="n">put</span><span class="p">(</span><span class="n">texto</span><span class="p">)</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-37" name="rest_code_7c3e0b1399a047d490549758aa958af1-37" href="#rest_code_7c3e0b1399a047d490549758aa958af1-37"></a>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-38" name="rest_code_7c3e0b1399a047d490549758aa958af1-38" href="#rest_code_7c3e0b1399a047d490549758aa958af1-38"></a><span class="k">class</span> <span class="nc">Ventana</span><span class="p">(</span><span class="n">QtGui</span><span class="o">.</span><span class="n">QWidget</span><span class="p">):</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-39" name="rest_code_7c3e0b1399a047d490549758aa958af1-39" href="#rest_code_7c3e0b1399a047d490549758aa958af1-39"></a><span class="w">    </span><span class="sd">'''ventana con un label, ninguna locura'''</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-40" name="rest_code_7c3e0b1399a047d490549758aa958af1-40" href="#rest_code_7c3e0b1399a047d490549758aa958af1-40"></a>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-41" name="rest_code_7c3e0b1399a047d490549758aa958af1-41" href="#rest_code_7c3e0b1399a047d490549758aa958af1-41"></a>    <span class="k">def</span> <span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">parent</span> <span class="o">=</span> <span class="kc">None</span><span class="p">):</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-42" name="rest_code_7c3e0b1399a047d490549758aa958af1-42" href="#rest_code_7c3e0b1399a047d490549758aa958af1-42"></a>        <span class="n">QtGui</span><span class="o">.</span><span class="n">QWidget</span><span class="o">.</span><span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">parent</span><span class="p">)</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-43" name="rest_code_7c3e0b1399a047d490549758aa958af1-43" href="#rest_code_7c3e0b1399a047d490549758aa958af1-43"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">setGeometry</span><span class="p">(</span><span class="mi">50</span><span class="p">,</span> <span class="mi">50</span><span class="p">,</span> <span class="mi">640</span><span class="p">,</span> <span class="mi">480</span><span class="p">)</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-44" name="rest_code_7c3e0b1399a047d490549758aa958af1-44" href="#rest_code_7c3e0b1399a047d490549758aa958af1-44"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">setWindowTitle</span><span class="p">(</span><span class="s1">'Qt con threads'</span><span class="p">)</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-45" name="rest_code_7c3e0b1399a047d490549758aa958af1-45" href="#rest_code_7c3e0b1399a047d490549758aa958af1-45"></a>        <span class="n">layout</span> <span class="o">=</span> <span class="n">QtGui</span><span class="o">.</span><span class="n">QHBoxLayout</span><span class="p">()</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-46" name="rest_code_7c3e0b1399a047d490549758aa958af1-46" href="#rest_code_7c3e0b1399a047d490549758aa958af1-46"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">label</span> <span class="o">=</span> <span class="n">QtGui</span><span class="o">.</span><span class="n">QLabel</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">text</span> <span class="o">=</span> <span class="s1">''</span><span class="p">)</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-47" name="rest_code_7c3e0b1399a047d490549758aa958af1-47" href="#rest_code_7c3e0b1399a047d490549758aa958af1-47"></a>        <span class="n">layout</span><span class="o">.</span><span class="n">addWidget</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">label</span><span class="p">)</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-48" name="rest_code_7c3e0b1399a047d490549758aa958af1-48" href="#rest_code_7c3e0b1399a047d490549758aa958af1-48"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">setLayout</span><span class="p">(</span><span class="n">layout</span><span class="p">)</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-49" name="rest_code_7c3e0b1399a047d490549758aa958af1-49" href="#rest_code_7c3e0b1399a047d490549758aa958af1-49"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">cola</span> <span class="o">=</span> <span class="n">Queue</span><span class="o">.</span><span class="n">Queue</span><span class="p">()</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-50" name="rest_code_7c3e0b1399a047d490549758aa958af1-50" href="#rest_code_7c3e0b1399a047d490549758aa958af1-50"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">hincha_b</span> <span class="o">=</span> <span class="n">Molesto</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">cola</span><span class="p">)</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-51" name="rest_code_7c3e0b1399a047d490549758aa958af1-51" href="#rest_code_7c3e0b1399a047d490549758aa958af1-51"></a>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-52" name="rest_code_7c3e0b1399a047d490549758aa958af1-52" href="#rest_code_7c3e0b1399a047d490549758aa958af1-52"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">hincha_b</span><span class="o">.</span><span class="n">start</span><span class="p">()</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-53" name="rest_code_7c3e0b1399a047d490549758aa958af1-53" href="#rest_code_7c3e0b1399a047d490549758aa958af1-53"></a>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-54" name="rest_code_7c3e0b1399a047d490549758aa958af1-54" href="#rest_code_7c3e0b1399a047d490549758aa958af1-54"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">timer</span> <span class="o">=</span> <span class="n">QtCore</span><span class="o">.</span><span class="n">QTimer</span><span class="p">(</span><span class="bp">self</span><span class="p">)</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-55" name="rest_code_7c3e0b1399a047d490549758aa958af1-55" href="#rest_code_7c3e0b1399a047d490549758aa958af1-55"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">timer</span><span class="o">.</span><span class="n">setInterval</span><span class="p">(</span><span class="mi">100</span><span class="p">)</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-56" name="rest_code_7c3e0b1399a047d490549758aa958af1-56" href="#rest_code_7c3e0b1399a047d490549758aa958af1-56"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">timer</span><span class="o">.</span><span class="n">timeout</span><span class="o">.</span><span class="n">connect</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">queue_manager</span><span class="p">)</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-57" name="rest_code_7c3e0b1399a047d490549758aa958af1-57" href="#rest_code_7c3e0b1399a047d490549758aa958af1-57"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">timer</span><span class="o">.</span><span class="n">start</span><span class="p">()</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-58" name="rest_code_7c3e0b1399a047d490549758aa958af1-58" href="#rest_code_7c3e0b1399a047d490549758aa958af1-58"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-59" name="rest_code_7c3e0b1399a047d490549758aa958af1-59" href="#rest_code_7c3e0b1399a047d490549758aa958af1-59"></a>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-60" name="rest_code_7c3e0b1399a047d490549758aa958af1-60" href="#rest_code_7c3e0b1399a047d490549758aa958af1-60"></a>    <span class="k">def</span> <span class="nf">queue_manager</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-61" name="rest_code_7c3e0b1399a047d490549758aa958af1-61" href="#rest_code_7c3e0b1399a047d490549758aa958af1-61"></a>        <span class="k">try</span><span class="p">:</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-62" name="rest_code_7c3e0b1399a047d490549758aa958af1-62" href="#rest_code_7c3e0b1399a047d490549758aa958af1-62"></a>            <span class="k">while</span> <span class="kc">True</span><span class="p">:</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-63" name="rest_code_7c3e0b1399a047d490549758aa958af1-63" href="#rest_code_7c3e0b1399a047d490549758aa958af1-63"></a>                <span class="n">texto</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">cola</span><span class="o">.</span><span class="n">get</span><span class="p">(</span><span class="kc">True</span><span class="p">,</span> <span class="mf">0.1</span><span class="p">)</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-64" name="rest_code_7c3e0b1399a047d490549758aa958af1-64" href="#rest_code_7c3e0b1399a047d490549758aa958af1-64"></a>                <span class="nb">print</span> <span class="n">texto</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-65" name="rest_code_7c3e0b1399a047d490549758aa958af1-65" href="#rest_code_7c3e0b1399a047d490549758aa958af1-65"></a>                <span class="bp">self</span><span class="o">.</span><span class="n">label</span><span class="o">.</span><span class="n">setText</span><span class="p">(</span><span class="n">texto</span><span class="p">)</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-66" name="rest_code_7c3e0b1399a047d490549758aa958af1-66" href="#rest_code_7c3e0b1399a047d490549758aa958af1-66"></a>        <span class="k">except</span> <span class="n">Queue</span><span class="o">.</span><span class="n">Empty</span><span class="p">:</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-67" name="rest_code_7c3e0b1399a047d490549758aa958af1-67" href="#rest_code_7c3e0b1399a047d490549758aa958af1-67"></a>            <span class="k">pass</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-68" name="rest_code_7c3e0b1399a047d490549758aa958af1-68" href="#rest_code_7c3e0b1399a047d490549758aa958af1-68"></a>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-69" name="rest_code_7c3e0b1399a047d490549758aa958af1-69" href="#rest_code_7c3e0b1399a047d490549758aa958af1-69"></a>        <span class="k">return</span> <span class="kc">True</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-70" name="rest_code_7c3e0b1399a047d490549758aa958af1-70" href="#rest_code_7c3e0b1399a047d490549758aa958af1-70"></a>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-71" name="rest_code_7c3e0b1399a047d490549758aa958af1-71" href="#rest_code_7c3e0b1399a047d490549758aa958af1-71"></a><span class="k">if</span> <span class="vm">__name__</span> <span class="o">==</span> <span class="s1">'__main__'</span><span class="p">:</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-72" name="rest_code_7c3e0b1399a047d490549758aa958af1-72" href="#rest_code_7c3e0b1399a047d490549758aa958af1-72"></a>    <span class="n">app</span> <span class="o">=</span> <span class="n">QtGui</span><span class="o">.</span><span class="n">QApplication</span><span class="p">(</span><span class="n">sys</span><span class="o">.</span><span class="n">argv</span><span class="p">)</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-73" name="rest_code_7c3e0b1399a047d490549758aa958af1-73" href="#rest_code_7c3e0b1399a047d490549758aa958af1-73"></a>    <span class="n">w</span> <span class="o">=</span> <span class="n">Ventana</span><span class="p">()</span>
+<a id="rest_code_7c3e0b1399a047d490549758aa958af1-74" name="rest_code_7c3e0b1399a047d490549758aa958af1-74" href="#rest_code_7c3e0b1399a047d490549758aa958af1-74"></a>    <span class="n">app</span><span class="o">.</span><span class="n">exec_</span><span class="p">()</span>
+</pre></div>
+    </div>    
+</div>
+        <!--End of body content-->
+
+        <footer id="footer">
+            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+            
+        </footer>
+</div>
+</div>
+
+            <script src="../../../assets/js/jquery.min.js"></script><script src="../../../assets/js/popper.min.js"></script><script src="../../../assets/js/bootstrap.min.js"></script><script src="../../../assets/js/baguetteBox.min.js"></script><script src="../../../assets/js/pyar.js"></script><script>
+    baguetteBox.run('div#content', {
+        ignoreClass: 'islink',
+        captions: function(element) {
+            return element.getElementsByTagName('img')[0].alt;
+    }});
+    </script>
+</body>
+</html>
