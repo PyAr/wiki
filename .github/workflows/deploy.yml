@@ -1,7 +1,7 @@
-name: Construir el sitio con Nikola
+name: Construir y publicar el sitio con Nikola
 
 on:
-  pull_request:
+  push:
     branches: [ master ]
     paths: 
       - conf.py
@@ -28,3 +28,6 @@ jobs:
     - name: Buildear con Nikola
       run: |
         nikola build
+    - name: Publicar pagina a GH Pages
+      run: |
+        nikola github_deploy
