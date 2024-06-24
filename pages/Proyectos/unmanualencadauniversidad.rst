@@ -58,6 +58,7 @@ Si estas cerca o tenes alguna relación con una universidad que no tiene el Tuto
     Iván Truskalo,  truskalo EN  gmail PUNTO com,Universidad Nacional de La Pampa - Facultad de Cs. Exactas,(1)
     Carlos A. Giménez,  scire1905 EN  gmail PUNTO com,Universidad Nacional del Nordeste - Facultad de Cs. Exactas,(1)
     Alejandro M. Wechsler, alew_mdq EN hotmail punto com,Universidad Nacional de Mar del Plata - Facultad de Ingenieria,(1)
+    Pablo Mussis,  mussisp EN  gmail PUNTO com,"""Rodolfo Walsh"" E.E.T. Nº2 de Fcio Varela",(1)
 
 .. _Tutorial de Python en español: http://docs.python.org.ar/tutorial/contenido.html
 
