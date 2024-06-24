@@ -76,7 +76,22 @@ body {
 */
 
 /*
- * Search
+ * Searchbar chroma
+ */
+
+ .wiki-search {
+    margin-left: auto;
+    width: min-content;
+    text-align: end;
+    display: flex;
+ }
+
+ .wiki-search > .search-button {
+    
+ }
+
+/*
+ * Searchbar google
  */
 
 iframe#google {

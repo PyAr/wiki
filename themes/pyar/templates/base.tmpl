@@ -60,6 +60,25 @@
         {% endif %}
         <!--Body content-->
         {{ template_hooks['page_header']() }}
+        <!--Searchbar-->
+        <script>
+            const url = "http://localhost:5500/pyar_search"
+            const doSearchAction = async () => {
+                fetch(url, {
+                    method: "POST",
+                    body: JSON.stringify({
+                        pregunta: document.getElementById('pregunta').value
+                    }),
+                    headers: {
+                        "Content-type": "application/json; charset=UTF-8"
+                    }
+                }).then(res => console.log('res ', res))
+            }
+        </script>
+        <search class="wiki-search">
+            <input type="search" id="pregunta" name="pregunta" placeholder="Ingrese búsqueda..." />
+            <button class="search-button" type="button" onClick="doSearchAction()">Buscar</button>
+        </search>
         {% block content %}{% endblock %}
         <!--End of body content-->
         {% if theme_config.get('sidebar') %}
