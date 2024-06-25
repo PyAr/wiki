@@ -73,6 +73,10 @@ Ediciones anteriores
 
 * Decimocuarta edición `Baradero, Buenos Aires. Marzo de 2022`_
 
+* Decimoquinta edición `Riachuelo, Corrientes. Marzo de 2023`_
+
+* Decimosexta edición `Riachuelo, Corrientes. Junio de 2024`_
+
 
 Blogpost sobre Pycamps
 ----------------------
@@ -169,6 +173,10 @@ Blogpost sobre Pycamps
 .. _San Rafael, Mendoza. Noviembre de 2021: /PyCamp/2021
 
 .. _Baradero, Buenos Aires. Marzo de 2022: /PyCamp/2022
+
+.. _Riachuelo, Corrientes. Marzo de 2023: /PyCamp/2023
+
+.. _Riachuelo, Corrientes. Junio de 2024: /PyCamp/2024
 
 .. _ramiromorales: /ramiromorales
 .. _marcosdione: /marcosdione
