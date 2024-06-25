@@ -135,8 +135,21 @@ fdupes -dNr .
 
 **git**
 
+Para poder usar autenticación por SSH a repos de git con multiples usuarios. 
+
 ```bash
-ssh config
+> bat ~/.ssh/config
+───────┬─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+       │ File: /home/someuser/.ssh/config
+───────┼─────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+   1   │ # u1
+   2   │ Host host1
+   3   │     HostName github.com
+   4   │     User user1
+   5   │     IdentityFile ~/.ssh/id_rsa_u1
+───────┴────────────────────────────────────
+
+❯ git clone git@host1:PyAr/wiki.git
 ```
 
 **VSCode**
