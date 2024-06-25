@@ -65,7 +65,7 @@ sys.excepthook = my_hook
 
 ### Fisa
 
-[eg]()
+[eg](https://github.com/srsudar/eg) para obtener ejemplos en la terminal, parecido a `tldr`
 
 [tig](https://github.com/jonas/tig) interfaz de texto para git
 
@@ -125,9 +125,9 @@ fdupes -dNr .
 
 [bat](https://github.com/sharkdp/bat) alternativa de `cat` con syntax highlight
 
-[nix]()
+[nix](https://nix.dev/install-nix) Para usarlo como package manager: `nix profile install nixpkg#nombreDelPaquete`
 
-[buscador de paquetes](https://search.nixos.org/packages) (como `pypi.org`)
+> Esta es una [guía](https://tonyfinn.com/blog/nix-from-first-principles-flake-edition/) muy piola como intro a las mil  y una cosas que hace nix, para buscar paquetes ver [buscador de paquetes](https://search.nixos.org/packages) (como `pypi.org`)
 
 **emacs**
 
