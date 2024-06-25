@@ -156,6 +156,7 @@ Para poder usar autenticación por SSH a repos de git con multiples usuarios.
 
 [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) para autocompletado inteligente de paths en cualquier tipo de archivo, muy útil para trabajar en markdown.
 
+
 **Windows**
 
 [Scoop](https://scoop.sh/) es un instalador de línea de comando (como `apt`) en Windows
@@ -172,6 +173,7 @@ Para poder usar autenticación por SSH a repos de git con multiples usuarios.
 
 [gitui](https://github.com/extrawurst/gitui) otra TUI de git
 
+[VSCode Reveal](https://marketplace.visualstudio.com/items?itemName=evilz.vscode-reveal) para hacer diapositivas con Reveal.js y Markdown 
 
 ### SKA
 
