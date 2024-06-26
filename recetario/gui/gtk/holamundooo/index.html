@@ -33,19 +33,19 @@ class HolaMundo(gtk.Window):
     def __init__(self):
    ">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+<meta property="article:published_time" content="2024-06-26T19:43:16-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
 
-<div class="container">
-    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+<div class="container px-0">
+    <nav id="main-navbar" class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="https://www.python.org.ar/">Navbar</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mr-auto">
+            <ul class="navbar-nav">
 <li class="nav-item">
                     <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
                 </li>
@@ -83,7 +83,7 @@ class HolaMundo(gtk.Window):
     <div class="body-content">
         <!--Body content-->
         
-<div class="col-lg-12">
+<div class="col-lg-12 px-4 py-2">
     <div class="page-header">
         <div class="pull-right">
             <a href="https://github.com/PyAr/wiki/blob/master/pages/recetario/gui/gtk/holamundooo.rst" id="sourcelink" class="nav-link">Editar</a>
@@ -92,39 +92,38 @@ class HolaMundo(gtk.Window):
     </div>
     <div class="e-content entry-content" itemprop="articleBody text">
     <p>Ejemplo que hace lo mismo que <a class="reference external" href="../../../../Recetario/Gui/Gtk/holamundo">GtkHolaMundo</a> pero orientado a objetos.</p>
-<img alt="/images/Recetario/Gui/Gtk/HolaMundoOO/Hola%20mundo%20oo.png" src="../../../../images/Recetario/Gui/Gtk/HolaMundoOO/Hola%20mundo%20oo.png"><div class="code"><pre class="code python"><a id="rest_code_b741cd1100b64c7f9be198a05bca76b1-1" name="rest_code_b741cd1100b64c7f9be198a05bca76b1-1" href="#rest_code_b741cd1100b64c7f9be198a05bca76b1-1"></a><span class="kn">import</span> <span class="nn">gtk</span>
-<a id="rest_code_b741cd1100b64c7f9be198a05bca76b1-2" name="rest_code_b741cd1100b64c7f9be198a05bca76b1-2" href="#rest_code_b741cd1100b64c7f9be198a05bca76b1-2"></a><span class="kn">import</span> <span class="nn">sys</span>
-<a id="rest_code_b741cd1100b64c7f9be198a05bca76b1-3" name="rest_code_b741cd1100b64c7f9be198a05bca76b1-3" href="#rest_code_b741cd1100b64c7f9be198a05bca76b1-3"></a>
-<a id="rest_code_b741cd1100b64c7f9be198a05bca76b1-4" name="rest_code_b741cd1100b64c7f9be198a05bca76b1-4" href="#rest_code_b741cd1100b64c7f9be198a05bca76b1-4"></a><span class="k">class</span> <span class="nc">HolaMundo</span><span class="p">(</span><span class="n">gtk</span><span class="o">.</span><span class="n">Window</span><span class="p">):</span>
-<a id="rest_code_b741cd1100b64c7f9be198a05bca76b1-5" name="rest_code_b741cd1100b64c7f9be198a05bca76b1-5" href="#rest_code_b741cd1100b64c7f9be198a05bca76b1-5"></a><span class="w">    </span><span class="sd">'''clase que define una ventana que saluda'''</span>
-<a id="rest_code_b741cd1100b64c7f9be198a05bca76b1-6" name="rest_code_b741cd1100b64c7f9be198a05bca76b1-6" href="#rest_code_b741cd1100b64c7f9be198a05bca76b1-6"></a>
-<a id="rest_code_b741cd1100b64c7f9be198a05bca76b1-7" name="rest_code_b741cd1100b64c7f9be198a05bca76b1-7" href="#rest_code_b741cd1100b64c7f9be198a05bca76b1-7"></a>    <span class="k">def</span> <span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
-<a id="rest_code_b741cd1100b64c7f9be198a05bca76b1-8" name="rest_code_b741cd1100b64c7f9be198a05bca76b1-8" href="#rest_code_b741cd1100b64c7f9be198a05bca76b1-8"></a><span class="w">        </span><span class="sd">'''constructor, se llama al constructor de la clase padre'''</span>
-<a id="rest_code_b741cd1100b64c7f9be198a05bca76b1-9" name="rest_code_b741cd1100b64c7f9be198a05bca76b1-9" href="#rest_code_b741cd1100b64c7f9be198a05bca76b1-9"></a>        <span class="n">gtk</span><span class="o">.</span><span class="n">Window</span><span class="o">.</span><span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">)</span>
-<a id="rest_code_b741cd1100b64c7f9be198a05bca76b1-10" name="rest_code_b741cd1100b64c7f9be198a05bca76b1-10" href="#rest_code_b741cd1100b64c7f9be198a05bca76b1-10"></a>
-<a id="rest_code_b741cd1100b64c7f9be198a05bca76b1-11" name="rest_code_b741cd1100b64c7f9be198a05bca76b1-11" href="#rest_code_b741cd1100b64c7f9be198a05bca76b1-11"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">set_default_size</span><span class="p">(</span><span class="mi">200</span><span class="p">,</span> <span class="mi">200</span><span class="p">)</span>
-<a id="rest_code_b741cd1100b64c7f9be198a05bca76b1-12" name="rest_code_b741cd1100b64c7f9be198a05bca76b1-12" href="#rest_code_b741cd1100b64c7f9be198a05bca76b1-12"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">label</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">Label</span><span class="p">(</span><span class="s2">"Hola pyar"</span><span class="p">)</span>
-<a id="rest_code_b741cd1100b64c7f9be198a05bca76b1-13" name="rest_code_b741cd1100b64c7f9be198a05bca76b1-13" href="#rest_code_b741cd1100b64c7f9be198a05bca76b1-13"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">set_title</span><span class="p">(</span><span class="s2">"hola mundo oo"</span><span class="p">)</span>
-<a id="rest_code_b741cd1100b64c7f9be198a05bca76b1-14" name="rest_code_b741cd1100b64c7f9be198a05bca76b1-14" href="#rest_code_b741cd1100b64c7f9be198a05bca76b1-14"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">add</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">label</span><span class="p">)</span>
-<a id="rest_code_b741cd1100b64c7f9be198a05bca76b1-15" name="rest_code_b741cd1100b64c7f9be198a05bca76b1-15" href="#rest_code_b741cd1100b64c7f9be198a05bca76b1-15"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">label</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
-<a id="rest_code_b741cd1100b64c7f9be198a05bca76b1-16" name="rest_code_b741cd1100b64c7f9be198a05bca76b1-16" href="#rest_code_b741cd1100b64c7f9be198a05bca76b1-16"></a>
-<a id="rest_code_b741cd1100b64c7f9be198a05bca76b1-17" name="rest_code_b741cd1100b64c7f9be198a05bca76b1-17" href="#rest_code_b741cd1100b64c7f9be198a05bca76b1-17"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">connect</span><span class="p">(</span><span class="s2">"delete-event"</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">on_delete</span><span class="p">)</span>
-<a id="rest_code_b741cd1100b64c7f9be198a05bca76b1-18" name="rest_code_b741cd1100b64c7f9be198a05bca76b1-18" href="#rest_code_b741cd1100b64c7f9be198a05bca76b1-18"></a>
-<a id="rest_code_b741cd1100b64c7f9be198a05bca76b1-19" name="rest_code_b741cd1100b64c7f9be198a05bca76b1-19" href="#rest_code_b741cd1100b64c7f9be198a05bca76b1-19"></a>    <span class="k">def</span> <span class="nf">on_delete</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">window</span><span class="p">,</span> <span class="n">event</span><span class="p">):</span>
-<a id="rest_code_b741cd1100b64c7f9be198a05bca76b1-20" name="rest_code_b741cd1100b64c7f9be198a05bca76b1-20" href="#rest_code_b741cd1100b64c7f9be198a05bca76b1-20"></a><span class="w">        </span><span class="sd">'''llamado cuando se cierra la ventana'''</span>
-<a id="rest_code_b741cd1100b64c7f9be198a05bca76b1-21" name="rest_code_b741cd1100b64c7f9be198a05bca76b1-21" href="#rest_code_b741cd1100b64c7f9be198a05bca76b1-21"></a>        <span class="n">sys</span><span class="o">.</span><span class="n">exit</span><span class="p">(</span><span class="mi">0</span><span class="p">)</span>
-<a id="rest_code_b741cd1100b64c7f9be198a05bca76b1-22" name="rest_code_b741cd1100b64c7f9be198a05bca76b1-22" href="#rest_code_b741cd1100b64c7f9be198a05bca76b1-22"></a>
-<a id="rest_code_b741cd1100b64c7f9be198a05bca76b1-23" name="rest_code_b741cd1100b64c7f9be198a05bca76b1-23" href="#rest_code_b741cd1100b64c7f9be198a05bca76b1-23"></a><span class="k">if</span> <span class="vm">__name__</span> <span class="o">==</span> <span class="s2">"__main__"</span><span class="p">:</span>
-<a id="rest_code_b741cd1100b64c7f9be198a05bca76b1-24" name="rest_code_b741cd1100b64c7f9be198a05bca76b1-24" href="#rest_code_b741cd1100b64c7f9be198a05bca76b1-24"></a>    <span class="n">hola</span> <span class="o">=</span> <span class="n">HolaMundo</span><span class="p">()</span>
-<a id="rest_code_b741cd1100b64c7f9be198a05bca76b1-25" name="rest_code_b741cd1100b64c7f9be198a05bca76b1-25" href="#rest_code_b741cd1100b64c7f9be198a05bca76b1-25"></a>    <span class="n">hola</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
-<a id="rest_code_b741cd1100b64c7f9be198a05bca76b1-26" name="rest_code_b741cd1100b64c7f9be198a05bca76b1-26" href="#rest_code_b741cd1100b64c7f9be198a05bca76b1-26"></a>    <span class="n">gtk</span><span class="o">.</span><span class="n">main</span><span class="p">()</span>
+<img alt="/images/Recetario/Gui/Gtk/HolaMundoOO/Hola%20mundo%20oo.png" src="../../../../images/Recetario/Gui/Gtk/HolaMundoOO/Hola%20mundo%20oo.png"><div class="code"><pre class="code python"><a id="rest_code_5d231e5bd55c427984dee15ec434baa8-1" name="rest_code_5d231e5bd55c427984dee15ec434baa8-1" href="#rest_code_5d231e5bd55c427984dee15ec434baa8-1"></a><span class="kn">import</span> <span class="nn">gtk</span>
+<a id="rest_code_5d231e5bd55c427984dee15ec434baa8-2" name="rest_code_5d231e5bd55c427984dee15ec434baa8-2" href="#rest_code_5d231e5bd55c427984dee15ec434baa8-2"></a><span class="kn">import</span> <span class="nn">sys</span>
+<a id="rest_code_5d231e5bd55c427984dee15ec434baa8-3" name="rest_code_5d231e5bd55c427984dee15ec434baa8-3" href="#rest_code_5d231e5bd55c427984dee15ec434baa8-3"></a>
+<a id="rest_code_5d231e5bd55c427984dee15ec434baa8-4" name="rest_code_5d231e5bd55c427984dee15ec434baa8-4" href="#rest_code_5d231e5bd55c427984dee15ec434baa8-4"></a><span class="k">class</span> <span class="nc">HolaMundo</span><span class="p">(</span><span class="n">gtk</span><span class="o">.</span><span class="n">Window</span><span class="p">):</span>
+<a id="rest_code_5d231e5bd55c427984dee15ec434baa8-5" name="rest_code_5d231e5bd55c427984dee15ec434baa8-5" href="#rest_code_5d231e5bd55c427984dee15ec434baa8-5"></a><span class="w">    </span><span class="sd">'''clase que define una ventana que saluda'''</span>
+<a id="rest_code_5d231e5bd55c427984dee15ec434baa8-6" name="rest_code_5d231e5bd55c427984dee15ec434baa8-6" href="#rest_code_5d231e5bd55c427984dee15ec434baa8-6"></a>
+<a id="rest_code_5d231e5bd55c427984dee15ec434baa8-7" name="rest_code_5d231e5bd55c427984dee15ec434baa8-7" href="#rest_code_5d231e5bd55c427984dee15ec434baa8-7"></a>    <span class="k">def</span> <span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+<a id="rest_code_5d231e5bd55c427984dee15ec434baa8-8" name="rest_code_5d231e5bd55c427984dee15ec434baa8-8" href="#rest_code_5d231e5bd55c427984dee15ec434baa8-8"></a><span class="w">        </span><span class="sd">'''constructor, se llama al constructor de la clase padre'''</span>
+<a id="rest_code_5d231e5bd55c427984dee15ec434baa8-9" name="rest_code_5d231e5bd55c427984dee15ec434baa8-9" href="#rest_code_5d231e5bd55c427984dee15ec434baa8-9"></a>        <span class="n">gtk</span><span class="o">.</span><span class="n">Window</span><span class="o">.</span><span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">)</span>
+<a id="rest_code_5d231e5bd55c427984dee15ec434baa8-10" name="rest_code_5d231e5bd55c427984dee15ec434baa8-10" href="#rest_code_5d231e5bd55c427984dee15ec434baa8-10"></a>
+<a id="rest_code_5d231e5bd55c427984dee15ec434baa8-11" name="rest_code_5d231e5bd55c427984dee15ec434baa8-11" href="#rest_code_5d231e5bd55c427984dee15ec434baa8-11"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">set_default_size</span><span class="p">(</span><span class="mi">200</span><span class="p">,</span> <span class="mi">200</span><span class="p">)</span>
+<a id="rest_code_5d231e5bd55c427984dee15ec434baa8-12" name="rest_code_5d231e5bd55c427984dee15ec434baa8-12" href="#rest_code_5d231e5bd55c427984dee15ec434baa8-12"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">label</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">Label</span><span class="p">(</span><span class="s2">"Hola pyar"</span><span class="p">)</span>
+<a id="rest_code_5d231e5bd55c427984dee15ec434baa8-13" name="rest_code_5d231e5bd55c427984dee15ec434baa8-13" href="#rest_code_5d231e5bd55c427984dee15ec434baa8-13"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">set_title</span><span class="p">(</span><span class="s2">"hola mundo oo"</span><span class="p">)</span>
+<a id="rest_code_5d231e5bd55c427984dee15ec434baa8-14" name="rest_code_5d231e5bd55c427984dee15ec434baa8-14" href="#rest_code_5d231e5bd55c427984dee15ec434baa8-14"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">add</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">label</span><span class="p">)</span>
+<a id="rest_code_5d231e5bd55c427984dee15ec434baa8-15" name="rest_code_5d231e5bd55c427984dee15ec434baa8-15" href="#rest_code_5d231e5bd55c427984dee15ec434baa8-15"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">label</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
+<a id="rest_code_5d231e5bd55c427984dee15ec434baa8-16" name="rest_code_5d231e5bd55c427984dee15ec434baa8-16" href="#rest_code_5d231e5bd55c427984dee15ec434baa8-16"></a>
+<a id="rest_code_5d231e5bd55c427984dee15ec434baa8-17" name="rest_code_5d231e5bd55c427984dee15ec434baa8-17" href="#rest_code_5d231e5bd55c427984dee15ec434baa8-17"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">connect</span><span class="p">(</span><span class="s2">"delete-event"</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">on_delete</span><span class="p">)</span>
+<a id="rest_code_5d231e5bd55c427984dee15ec434baa8-18" name="rest_code_5d231e5bd55c427984dee15ec434baa8-18" href="#rest_code_5d231e5bd55c427984dee15ec434baa8-18"></a>
+<a id="rest_code_5d231e5bd55c427984dee15ec434baa8-19" name="rest_code_5d231e5bd55c427984dee15ec434baa8-19" href="#rest_code_5d231e5bd55c427984dee15ec434baa8-19"></a>    <span class="k">def</span> <span class="nf">on_delete</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">window</span><span class="p">,</span> <span class="n">event</span><span class="p">):</span>
+<a id="rest_code_5d231e5bd55c427984dee15ec434baa8-20" name="rest_code_5d231e5bd55c427984dee15ec434baa8-20" href="#rest_code_5d231e5bd55c427984dee15ec434baa8-20"></a><span class="w">        </span><span class="sd">'''llamado cuando se cierra la ventana'''</span>
+<a id="rest_code_5d231e5bd55c427984dee15ec434baa8-21" name="rest_code_5d231e5bd55c427984dee15ec434baa8-21" href="#rest_code_5d231e5bd55c427984dee15ec434baa8-21"></a>        <span class="n">sys</span><span class="o">.</span><span class="n">exit</span><span class="p">(</span><span class="mi">0</span><span class="p">)</span>
+<a id="rest_code_5d231e5bd55c427984dee15ec434baa8-22" name="rest_code_5d231e5bd55c427984dee15ec434baa8-22" href="#rest_code_5d231e5bd55c427984dee15ec434baa8-22"></a>
+<a id="rest_code_5d231e5bd55c427984dee15ec434baa8-23" name="rest_code_5d231e5bd55c427984dee15ec434baa8-23" href="#rest_code_5d231e5bd55c427984dee15ec434baa8-23"></a><span class="k">if</span> <span class="vm">__name__</span> <span class="o">==</span> <span class="s2">"__main__"</span><span class="p">:</span>
+<a id="rest_code_5d231e5bd55c427984dee15ec434baa8-24" name="rest_code_5d231e5bd55c427984dee15ec434baa8-24" href="#rest_code_5d231e5bd55c427984dee15ec434baa8-24"></a>    <span class="n">hola</span> <span class="o">=</span> <span class="n">HolaMundo</span><span class="p">()</span>
+<a id="rest_code_5d231e5bd55c427984dee15ec434baa8-25" name="rest_code_5d231e5bd55c427984dee15ec434baa8-25" href="#rest_code_5d231e5bd55c427984dee15ec434baa8-25"></a>    <span class="n">hola</span><span class="o">.</span><span class="n">show</span><span class="p">()</span>
+<a id="rest_code_5d231e5bd55c427984dee15ec434baa8-26" name="rest_code_5d231e5bd55c427984dee15ec434baa8-26" href="#rest_code_5d231e5bd55c427984dee15ec434baa8-26"></a>    <span class="n">gtk</span><span class="o">.</span><span class="n">main</span><span class="p">()</span>
 </pre></div>
     </div>    
 </div>
         <!--End of body content-->
 
-        <footer id="footer">
-            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+        <footer id="footer" class="bg-light"><span>Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow" target="_blanc">Nikola</a>         </span><span><a href="#" rel="nofollow" target="_blanc">Aporta a PyAr con tu donación</a><a></a></span>
             
         </footer>
 </div>

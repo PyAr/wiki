@@ -26,19 +26,19 @@ og: http://ogp.me/ns# article: http://ogp.me/ns/article#
 digito_verificador_modulo10 es una función a la que se le pasa un código (ej. cadena '01234567890') y devuelve el dígito verificador a agregar correspondiente a la verificación módulo 10.
 ">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+<meta property="article:published_time" content="2024-06-26T19:43:16-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
 
-<div class="container">
-    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+<div class="container px-0">
+    <nav id="main-navbar" class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="https://www.python.org.ar/">Navbar</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mr-auto">
+            <ul class="navbar-nav">
 <li class="nav-item">
                     <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
                 </li>
@@ -76,7 +76,7 @@ digito_verificador_modulo10 es una función a la que se le pasa un código (ej. 
     <div class="body-content">
         <!--Body content-->
         
-<div class="col-lg-12">
+<div class="col-lg-12 px-4 py-2">
     <div class="page-header">
         <div class="pull-right">
             <a href="https://github.com/PyAr/wiki/blob/master/pages/recetario/calculardigitoverificadormodulodiez.rst" id="sourcelink" class="nav-link">Editar</a>
@@ -89,31 +89,31 @@ digito_verificador_modulo10 es una función a la que se le pasa un código (ej. 
 <p>Esta verificación se usa en códigos de barra, por ej. en las facturas en el sistema impositivo argentino, donde se consigna el CUIT del emisor, CAI/CAE, número de factura, etc.</p>
 <p>Para más información, ver <a class="reference external" href="http://www.afip.gov.ar/afip/resol170204.html">Resolución General 1702 de la AFIP</a>.</p>
 </section><section id="ejemplo"><h2>Ejemplo:</h2>
-<div class="code"><pre class="code python"><a id="rest_code_2c2b31c2c2aa4f4a85a0875e9b7cb368-1" name="rest_code_2c2b31c2c2aa4f4a85a0875e9b7cb368-1" href="#rest_code_2c2b31c2c2aa4f4a85a0875e9b7cb368-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">digito_verificador_modulo10</span><span class="p">(</span><span class="s2">"01234567890"</span><span class="p">)</span>
-<a id="rest_code_2c2b31c2c2aa4f4a85a0875e9b7cb368-2" name="rest_code_2c2b31c2c2aa4f4a85a0875e9b7cb368-2" href="#rest_code_2c2b31c2c2aa4f4a85a0875e9b7cb368-2"></a><span class="s1">'5'</span>
-<a id="rest_code_2c2b31c2c2aa4f4a85a0875e9b7cb368-3" name="rest_code_2c2b31c2c2aa4f4a85a0875e9b7cb368-3" href="#rest_code_2c2b31c2c2aa4f4a85a0875e9b7cb368-3"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">digito_verificador_modulo10</span><span class="p">(</span><span class="s1">'111111111112233334444444444444455555555'</span><span class="p">)</span>
-<a id="rest_code_2c2b31c2c2aa4f4a85a0875e9b7cb368-4" name="rest_code_2c2b31c2c2aa4f4a85a0875e9b7cb368-4" href="#rest_code_2c2b31c2c2aa4f4a85a0875e9b7cb368-4"></a><span class="s1">'3'</span>
-<a id="rest_code_2c2b31c2c2aa4f4a85a0875e9b7cb368-5" name="rest_code_2c2b31c2c2aa4f4a85a0875e9b7cb368-5" href="#rest_code_2c2b31c2c2aa4f4a85a0875e9b7cb368-5"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">digito_verificador_modulo10</span><span class="p">(</span><span class="s1">'123456789012345678901234567890123456789'</span><span class="p">)</span>
-<a id="rest_code_2c2b31c2c2aa4f4a85a0875e9b7cb368-6" name="rest_code_2c2b31c2c2aa4f4a85a0875e9b7cb368-6" href="#rest_code_2c2b31c2c2aa4f4a85a0875e9b7cb368-6"></a><span class="s1">'0'</span>
+<div class="code"><pre class="code python"><a id="rest_code_eecb882e5df64c10b50e7dd78d6abd25-1" name="rest_code_eecb882e5df64c10b50e7dd78d6abd25-1" href="#rest_code_eecb882e5df64c10b50e7dd78d6abd25-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">digito_verificador_modulo10</span><span class="p">(</span><span class="s2">"01234567890"</span><span class="p">)</span>
+<a id="rest_code_eecb882e5df64c10b50e7dd78d6abd25-2" name="rest_code_eecb882e5df64c10b50e7dd78d6abd25-2" href="#rest_code_eecb882e5df64c10b50e7dd78d6abd25-2"></a><span class="s1">'5'</span>
+<a id="rest_code_eecb882e5df64c10b50e7dd78d6abd25-3" name="rest_code_eecb882e5df64c10b50e7dd78d6abd25-3" href="#rest_code_eecb882e5df64c10b50e7dd78d6abd25-3"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">digito_verificador_modulo10</span><span class="p">(</span><span class="s1">'111111111112233334444444444444455555555'</span><span class="p">)</span>
+<a id="rest_code_eecb882e5df64c10b50e7dd78d6abd25-4" name="rest_code_eecb882e5df64c10b50e7dd78d6abd25-4" href="#rest_code_eecb882e5df64c10b50e7dd78d6abd25-4"></a><span class="s1">'3'</span>
+<a id="rest_code_eecb882e5df64c10b50e7dd78d6abd25-5" name="rest_code_eecb882e5df64c10b50e7dd78d6abd25-5" href="#rest_code_eecb882e5df64c10b50e7dd78d6abd25-5"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">digito_verificador_modulo10</span><span class="p">(</span><span class="s1">'123456789012345678901234567890123456789'</span><span class="p">)</span>
+<a id="rest_code_eecb882e5df64c10b50e7dd78d6abd25-6" name="rest_code_eecb882e5df64c10b50e7dd78d6abd25-6" href="#rest_code_eecb882e5df64c10b50e7dd78d6abd25-6"></a><span class="s1">'0'</span>
 </pre></div>
 </section><section id="codigo"><h2>Código:</h2>
-<div class="code"><pre class="code python"><a id="rest_code_3120f1a603ab40958601785a1634af84-1" name="rest_code_3120f1a603ab40958601785a1634af84-1" href="#rest_code_3120f1a603ab40958601785a1634af84-1"></a><span class="k">def</span> <span class="nf">digito_verificador_modulo10</span><span class="p">(</span><span class="n">codigo</span><span class="p">):</span>
-<a id="rest_code_3120f1a603ab40958601785a1634af84-2" name="rest_code_3120f1a603ab40958601785a1634af84-2" href="#rest_code_3120f1a603ab40958601785a1634af84-2"></a>    <span class="s2">"Rutina para el cálculo del dígito verificador 'módulo 10'"</span>
-<a id="rest_code_3120f1a603ab40958601785a1634af84-3" name="rest_code_3120f1a603ab40958601785a1634af84-3" href="#rest_code_3120f1a603ab40958601785a1634af84-3"></a>    <span class="c1"># Ver RG 1702 AFIP</span>
-<a id="rest_code_3120f1a603ab40958601785a1634af84-4" name="rest_code_3120f1a603ab40958601785a1634af84-4" href="#rest_code_3120f1a603ab40958601785a1634af84-4"></a>    <span class="c1"># Etapa 1: comenzar desde la izquierda, sumar todos los caracteres ubicados en las posiciones impares.</span>
-<a id="rest_code_3120f1a603ab40958601785a1634af84-5" name="rest_code_3120f1a603ab40958601785a1634af84-5" href="#rest_code_3120f1a603ab40958601785a1634af84-5"></a>    <span class="n">etapa1</span> <span class="o">=</span> <span class="nb">sum</span><span class="p">([</span><span class="nb">int</span><span class="p">(</span><span class="n">c</span><span class="p">)</span> <span class="k">for</span> <span class="n">i</span><span class="p">,</span><span class="n">c</span> <span class="ow">in</span> <span class="nb">enumerate</span><span class="p">(</span><span class="n">codigo</span><span class="p">)</span> <span class="k">if</span> <span class="ow">not</span> <span class="n">i</span><span class="o">%</span><span class="mi">2</span><span class="p">])</span>
-<a id="rest_code_3120f1a603ab40958601785a1634af84-6" name="rest_code_3120f1a603ab40958601785a1634af84-6" href="#rest_code_3120f1a603ab40958601785a1634af84-6"></a>    <span class="c1"># Etapa 2: multiplicar la suma obtenida en la etapa 1 por el número 3</span>
-<a id="rest_code_3120f1a603ab40958601785a1634af84-7" name="rest_code_3120f1a603ab40958601785a1634af84-7" href="#rest_code_3120f1a603ab40958601785a1634af84-7"></a>    <span class="n">etapa2</span> <span class="o">=</span> <span class="n">etapa1</span> <span class="o">*</span> <span class="mi">3</span>
-<a id="rest_code_3120f1a603ab40958601785a1634af84-8" name="rest_code_3120f1a603ab40958601785a1634af84-8" href="#rest_code_3120f1a603ab40958601785a1634af84-8"></a>    <span class="c1"># Etapa 3: comenzar desde la izquierda, sumar todos los caracteres que están ubicados en las posiciones pares.</span>
-<a id="rest_code_3120f1a603ab40958601785a1634af84-9" name="rest_code_3120f1a603ab40958601785a1634af84-9" href="#rest_code_3120f1a603ab40958601785a1634af84-9"></a>    <span class="n">etapa3</span> <span class="o">=</span> <span class="nb">sum</span><span class="p">([</span><span class="nb">int</span><span class="p">(</span><span class="n">c</span><span class="p">)</span> <span class="k">for</span> <span class="n">i</span><span class="p">,</span><span class="n">c</span> <span class="ow">in</span> <span class="nb">enumerate</span><span class="p">(</span><span class="n">codigo</span><span class="p">)</span> <span class="k">if</span> <span class="n">i</span><span class="o">%</span><span class="mi">2</span><span class="p">])</span>
-<a id="rest_code_3120f1a603ab40958601785a1634af84-10" name="rest_code_3120f1a603ab40958601785a1634af84-10" href="#rest_code_3120f1a603ab40958601785a1634af84-10"></a>    <span class="c1"># Etapa 4: sumar los resultados obtenidos en las etapas 2 y 3.</span>
-<a id="rest_code_3120f1a603ab40958601785a1634af84-11" name="rest_code_3120f1a603ab40958601785a1634af84-11" href="#rest_code_3120f1a603ab40958601785a1634af84-11"></a>    <span class="n">etapa4</span> <span class="o">=</span> <span class="n">etapa2</span> <span class="o">+</span> <span class="n">etapa3</span>
-<a id="rest_code_3120f1a603ab40958601785a1634af84-12" name="rest_code_3120f1a603ab40958601785a1634af84-12" href="#rest_code_3120f1a603ab40958601785a1634af84-12"></a>    <span class="c1"># Etapa 5: buscar el menor número que sumado al resultado obtenido en la etapa 4 dé un número múltiplo de 10.</span>
-<a id="rest_code_3120f1a603ab40958601785a1634af84-13" name="rest_code_3120f1a603ab40958601785a1634af84-13" href="#rest_code_3120f1a603ab40958601785a1634af84-13"></a>    <span class="c1"># Este será el valor del dígito verificador del módulo 10.</span>
-<a id="rest_code_3120f1a603ab40958601785a1634af84-14" name="rest_code_3120f1a603ab40958601785a1634af84-14" href="#rest_code_3120f1a603ab40958601785a1634af84-14"></a>    <span class="n">digito</span> <span class="o">=</span> <span class="mi">10</span> <span class="o">-</span> <span class="p">(</span><span class="n">etapa4</span> <span class="o">-</span> <span class="p">(</span><span class="nb">int</span><span class="p">(</span><span class="n">etapa4</span> <span class="o">/</span> <span class="mi">10</span><span class="p">)</span> <span class="o">*</span> <span class="mi">10</span><span class="p">))</span>
-<a id="rest_code_3120f1a603ab40958601785a1634af84-15" name="rest_code_3120f1a603ab40958601785a1634af84-15" href="#rest_code_3120f1a603ab40958601785a1634af84-15"></a>    <span class="k">if</span> <span class="n">digito</span> <span class="o">==</span> <span class="mi">10</span><span class="p">:</span>
-<a id="rest_code_3120f1a603ab40958601785a1634af84-16" name="rest_code_3120f1a603ab40958601785a1634af84-16" href="#rest_code_3120f1a603ab40958601785a1634af84-16"></a>        <span class="n">digito</span> <span class="o">=</span> <span class="mi">0</span>
-<a id="rest_code_3120f1a603ab40958601785a1634af84-17" name="rest_code_3120f1a603ab40958601785a1634af84-17" href="#rest_code_3120f1a603ab40958601785a1634af84-17"></a>    <span class="k">return</span> <span class="nb">str</span><span class="p">(</span><span class="n">digito</span><span class="p">)</span>
+<div class="code"><pre class="code python"><a id="rest_code_400b90e350d744bf87788460ea1cec2f-1" name="rest_code_400b90e350d744bf87788460ea1cec2f-1" href="#rest_code_400b90e350d744bf87788460ea1cec2f-1"></a><span class="k">def</span> <span class="nf">digito_verificador_modulo10</span><span class="p">(</span><span class="n">codigo</span><span class="p">):</span>
+<a id="rest_code_400b90e350d744bf87788460ea1cec2f-2" name="rest_code_400b90e350d744bf87788460ea1cec2f-2" href="#rest_code_400b90e350d744bf87788460ea1cec2f-2"></a>    <span class="s2">"Rutina para el cálculo del dígito verificador 'módulo 10'"</span>
+<a id="rest_code_400b90e350d744bf87788460ea1cec2f-3" name="rest_code_400b90e350d744bf87788460ea1cec2f-3" href="#rest_code_400b90e350d744bf87788460ea1cec2f-3"></a>    <span class="c1"># Ver RG 1702 AFIP</span>
+<a id="rest_code_400b90e350d744bf87788460ea1cec2f-4" name="rest_code_400b90e350d744bf87788460ea1cec2f-4" href="#rest_code_400b90e350d744bf87788460ea1cec2f-4"></a>    <span class="c1"># Etapa 1: comenzar desde la izquierda, sumar todos los caracteres ubicados en las posiciones impares.</span>
+<a id="rest_code_400b90e350d744bf87788460ea1cec2f-5" name="rest_code_400b90e350d744bf87788460ea1cec2f-5" href="#rest_code_400b90e350d744bf87788460ea1cec2f-5"></a>    <span class="n">etapa1</span> <span class="o">=</span> <span class="nb">sum</span><span class="p">([</span><span class="nb">int</span><span class="p">(</span><span class="n">c</span><span class="p">)</span> <span class="k">for</span> <span class="n">i</span><span class="p">,</span><span class="n">c</span> <span class="ow">in</span> <span class="nb">enumerate</span><span class="p">(</span><span class="n">codigo</span><span class="p">)</span> <span class="k">if</span> <span class="ow">not</span> <span class="n">i</span><span class="o">%</span><span class="mi">2</span><span class="p">])</span>
+<a id="rest_code_400b90e350d744bf87788460ea1cec2f-6" name="rest_code_400b90e350d744bf87788460ea1cec2f-6" href="#rest_code_400b90e350d744bf87788460ea1cec2f-6"></a>    <span class="c1"># Etapa 2: multiplicar la suma obtenida en la etapa 1 por el número 3</span>
+<a id="rest_code_400b90e350d744bf87788460ea1cec2f-7" name="rest_code_400b90e350d744bf87788460ea1cec2f-7" href="#rest_code_400b90e350d744bf87788460ea1cec2f-7"></a>    <span class="n">etapa2</span> <span class="o">=</span> <span class="n">etapa1</span> <span class="o">*</span> <span class="mi">3</span>
+<a id="rest_code_400b90e350d744bf87788460ea1cec2f-8" name="rest_code_400b90e350d744bf87788460ea1cec2f-8" href="#rest_code_400b90e350d744bf87788460ea1cec2f-8"></a>    <span class="c1"># Etapa 3: comenzar desde la izquierda, sumar todos los caracteres que están ubicados en las posiciones pares.</span>
+<a id="rest_code_400b90e350d744bf87788460ea1cec2f-9" name="rest_code_400b90e350d744bf87788460ea1cec2f-9" href="#rest_code_400b90e350d744bf87788460ea1cec2f-9"></a>    <span class="n">etapa3</span> <span class="o">=</span> <span class="nb">sum</span><span class="p">([</span><span class="nb">int</span><span class="p">(</span><span class="n">c</span><span class="p">)</span> <span class="k">for</span> <span class="n">i</span><span class="p">,</span><span class="n">c</span> <span class="ow">in</span> <span class="nb">enumerate</span><span class="p">(</span><span class="n">codigo</span><span class="p">)</span> <span class="k">if</span> <span class="n">i</span><span class="o">%</span><span class="mi">2</span><span class="p">])</span>
+<a id="rest_code_400b90e350d744bf87788460ea1cec2f-10" name="rest_code_400b90e350d744bf87788460ea1cec2f-10" href="#rest_code_400b90e350d744bf87788460ea1cec2f-10"></a>    <span class="c1"># Etapa 4: sumar los resultados obtenidos en las etapas 2 y 3.</span>
+<a id="rest_code_400b90e350d744bf87788460ea1cec2f-11" name="rest_code_400b90e350d744bf87788460ea1cec2f-11" href="#rest_code_400b90e350d744bf87788460ea1cec2f-11"></a>    <span class="n">etapa4</span> <span class="o">=</span> <span class="n">etapa2</span> <span class="o">+</span> <span class="n">etapa3</span>
+<a id="rest_code_400b90e350d744bf87788460ea1cec2f-12" name="rest_code_400b90e350d744bf87788460ea1cec2f-12" href="#rest_code_400b90e350d744bf87788460ea1cec2f-12"></a>    <span class="c1"># Etapa 5: buscar el menor número que sumado al resultado obtenido en la etapa 4 dé un número múltiplo de 10.</span>
+<a id="rest_code_400b90e350d744bf87788460ea1cec2f-13" name="rest_code_400b90e350d744bf87788460ea1cec2f-13" href="#rest_code_400b90e350d744bf87788460ea1cec2f-13"></a>    <span class="c1"># Este será el valor del dígito verificador del módulo 10.</span>
+<a id="rest_code_400b90e350d744bf87788460ea1cec2f-14" name="rest_code_400b90e350d744bf87788460ea1cec2f-14" href="#rest_code_400b90e350d744bf87788460ea1cec2f-14"></a>    <span class="n">digito</span> <span class="o">=</span> <span class="mi">10</span> <span class="o">-</span> <span class="p">(</span><span class="n">etapa4</span> <span class="o">-</span> <span class="p">(</span><span class="nb">int</span><span class="p">(</span><span class="n">etapa4</span> <span class="o">/</span> <span class="mi">10</span><span class="p">)</span> <span class="o">*</span> <span class="mi">10</span><span class="p">))</span>
+<a id="rest_code_400b90e350d744bf87788460ea1cec2f-15" name="rest_code_400b90e350d744bf87788460ea1cec2f-15" href="#rest_code_400b90e350d744bf87788460ea1cec2f-15"></a>    <span class="k">if</span> <span class="n">digito</span> <span class="o">==</span> <span class="mi">10</span><span class="p">:</span>
+<a id="rest_code_400b90e350d744bf87788460ea1cec2f-16" name="rest_code_400b90e350d744bf87788460ea1cec2f-16" href="#rest_code_400b90e350d744bf87788460ea1cec2f-16"></a>        <span class="n">digito</span> <span class="o">=</span> <span class="mi">0</span>
+<a id="rest_code_400b90e350d744bf87788460ea1cec2f-17" name="rest_code_400b90e350d744bf87788460ea1cec2f-17" href="#rest_code_400b90e350d744bf87788460ea1cec2f-17"></a>    <span class="k">return</span> <span class="nb">str</span><span class="p">(</span><span class="n">digito</span><span class="p">)</span>
 </pre></div>
 </section><section id="autor-autores"><h2>Autor / Autores:</h2>
 <p><a class="reference external" href="../../marianoreingart">MarianoReingart</a></p>
@@ -123,8 +123,7 @@ digito_verificador_modulo10 es una función a la que se le pasa un código (ej. 
 </div>
         <!--End of body content-->
 
-        <footer id="footer">
-            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+        <footer id="footer" class="bg-light"><span>Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow" target="_blanc">Nikola</a>         </span><span><a href="#" rel="nofollow" target="_blanc">Aporta a PyAr con tu donación</a><a></a></span>
             
         </footer>
 </div>

@@ -34,19 +34,19 @@ c = conn.cursor()
 c.execute(&quot;SELECT ctgID,read from ctgs&quot;)
 for r">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+<meta property="article:published_time" content="2024-06-26T19:43:16-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
 
-<div class="container">
-    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+<div class="container px-0">
+    <nav id="main-navbar" class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="https://www.python.org.ar/">Navbar</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mr-auto">
+            <ul class="navbar-nav">
 <li class="nav-item">
                     <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
                 </li>
@@ -84,7 +84,7 @@ for r">
     <div class="body-content">
         <!--Body content-->
         
-<div class="col-lg-12">
+<div class="col-lg-12 px-4 py-2">
     <div class="page-header">
         <div class="pull-right">
             <a href="https://github.com/PyAr/wiki/blob/master/pages/SebastianBassi/codigo2.rst" id="sourcelink" class="nav-link">Editar</a>
@@ -93,27 +93,26 @@ for r">
     </div>
     <div class="e-content entry-content" itemprop="articleBody text">
     <p>Otra prueba:</p>
-<div class="code"><pre class="code python"><a id="rest_code_abe6e5c87cf94634ae148200bdfe4c07-1" name="rest_code_abe6e5c87cf94634ae148200bdfe4c07-1" href="#rest_code_abe6e5c87cf94634ae148200bdfe4c07-1"></a><span class="kn">import</span> <span class="nn">sqlite3</span>
-<a id="rest_code_abe6e5c87cf94634ae148200bdfe4c07-2" name="rest_code_abe6e5c87cf94634ae148200bdfe4c07-2" href="#rest_code_abe6e5c87cf94634ae148200bdfe4c07-2"></a>
-<a id="rest_code_abe6e5c87cf94634ae148200bdfe4c07-3" name="rest_code_abe6e5c87cf94634ae148200bdfe4c07-3" href="#rest_code_abe6e5c87cf94634ae148200bdfe4c07-3"></a><span class="c1"># leo DB</span>
-<a id="rest_code_abe6e5c87cf94634ae148200bdfe4c07-4" name="rest_code_abe6e5c87cf94634ae148200bdfe4c07-4" href="#rest_code_abe6e5c87cf94634ae148200bdfe4c07-4"></a><span class="c1">#dbfn = 'allseqs-AR.db'</span>
-<a id="rest_code_abe6e5c87cf94634ae148200bdfe4c07-5" name="rest_code_abe6e5c87cf94634ae148200bdfe4c07-5" href="#rest_code_abe6e5c87cf94634ae148200bdfe4c07-5"></a><span class="n">dbfn</span> <span class="o">=</span> <span class="s1">'../AS/allseqs-AS.db'</span>
-<a id="rest_code_abe6e5c87cf94634ae148200bdfe4c07-6" name="rest_code_abe6e5c87cf94634ae148200bdfe4c07-6" href="#rest_code_abe6e5c87cf94634ae148200bdfe4c07-6"></a><span class="n">conn</span> <span class="o">=</span> <span class="n">sqlite3</span><span class="o">.</span><span class="n">connect</span><span class="p">(</span><span class="n">dbfn</span><span class="p">)</span>
-<a id="rest_code_abe6e5c87cf94634ae148200bdfe4c07-7" name="rest_code_abe6e5c87cf94634ae148200bdfe4c07-7" href="#rest_code_abe6e5c87cf94634ae148200bdfe4c07-7"></a><span class="n">c</span> <span class="o">=</span> <span class="n">conn</span><span class="o">.</span><span class="n">cursor</span><span class="p">()</span>
-<a id="rest_code_abe6e5c87cf94634ae148200bdfe4c07-8" name="rest_code_abe6e5c87cf94634ae148200bdfe4c07-8" href="#rest_code_abe6e5c87cf94634ae148200bdfe4c07-8"></a><span class="c1"># CREATE TABLES</span>
-<a id="rest_code_abe6e5c87cf94634ae148200bdfe4c07-9" name="rest_code_abe6e5c87cf94634ae148200bdfe4c07-9" href="#rest_code_abe6e5c87cf94634ae148200bdfe4c07-9"></a><span class="n">c</span><span class="o">.</span><span class="n">execute</span><span class="p">(</span><span class="s2">"SELECT ctgID,read from ctgs"</span><span class="p">)</span>
-<a id="rest_code_abe6e5c87cf94634ae148200bdfe4c07-10" name="rest_code_abe6e5c87cf94634ae148200bdfe4c07-10" href="#rest_code_abe6e5c87cf94634ae148200bdfe4c07-10"></a><span class="k">for</span> <span class="n">row</span> <span class="ow">in</span> <span class="n">c</span><span class="p">:</span>
-<a id="rest_code_abe6e5c87cf94634ae148200bdfe4c07-11" name="rest_code_abe6e5c87cf94634ae148200bdfe4c07-11" href="#rest_code_abe6e5c87cf94634ae148200bdfe4c07-11"></a>    <span class="n">ctg</span> <span class="o">=</span> <span class="n">row</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span>
-<a id="rest_code_abe6e5c87cf94634ae148200bdfe4c07-12" name="rest_code_abe6e5c87cf94634ae148200bdfe4c07-12" href="#rest_code_abe6e5c87cf94634ae148200bdfe4c07-12"></a>    <span class="n">lib</span> <span class="o">=</span> <span class="n">row</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="s1">'-'</span><span class="p">)[</span><span class="mi">0</span><span class="p">][</span><span class="o">-</span><span class="mi">3</span><span class="p">:]</span>
-<a id="rest_code_abe6e5c87cf94634ae148200bdfe4c07-13" name="rest_code_abe6e5c87cf94634ae148200bdfe4c07-13" href="#rest_code_abe6e5c87cf94634ae148200bdfe4c07-13"></a>    <span class="c1">#break</span>
+<div class="code"><pre class="code python"><a id="rest_code_1d4e9631a8dc4885a7b25f4f4577677e-1" name="rest_code_1d4e9631a8dc4885a7b25f4f4577677e-1" href="#rest_code_1d4e9631a8dc4885a7b25f4f4577677e-1"></a><span class="kn">import</span> <span class="nn">sqlite3</span>
+<a id="rest_code_1d4e9631a8dc4885a7b25f4f4577677e-2" name="rest_code_1d4e9631a8dc4885a7b25f4f4577677e-2" href="#rest_code_1d4e9631a8dc4885a7b25f4f4577677e-2"></a>
+<a id="rest_code_1d4e9631a8dc4885a7b25f4f4577677e-3" name="rest_code_1d4e9631a8dc4885a7b25f4f4577677e-3" href="#rest_code_1d4e9631a8dc4885a7b25f4f4577677e-3"></a><span class="c1"># leo DB</span>
+<a id="rest_code_1d4e9631a8dc4885a7b25f4f4577677e-4" name="rest_code_1d4e9631a8dc4885a7b25f4f4577677e-4" href="#rest_code_1d4e9631a8dc4885a7b25f4f4577677e-4"></a><span class="c1">#dbfn = 'allseqs-AR.db'</span>
+<a id="rest_code_1d4e9631a8dc4885a7b25f4f4577677e-5" name="rest_code_1d4e9631a8dc4885a7b25f4f4577677e-5" href="#rest_code_1d4e9631a8dc4885a7b25f4f4577677e-5"></a><span class="n">dbfn</span> <span class="o">=</span> <span class="s1">'../AS/allseqs-AS.db'</span>
+<a id="rest_code_1d4e9631a8dc4885a7b25f4f4577677e-6" name="rest_code_1d4e9631a8dc4885a7b25f4f4577677e-6" href="#rest_code_1d4e9631a8dc4885a7b25f4f4577677e-6"></a><span class="n">conn</span> <span class="o">=</span> <span class="n">sqlite3</span><span class="o">.</span><span class="n">connect</span><span class="p">(</span><span class="n">dbfn</span><span class="p">)</span>
+<a id="rest_code_1d4e9631a8dc4885a7b25f4f4577677e-7" name="rest_code_1d4e9631a8dc4885a7b25f4f4577677e-7" href="#rest_code_1d4e9631a8dc4885a7b25f4f4577677e-7"></a><span class="n">c</span> <span class="o">=</span> <span class="n">conn</span><span class="o">.</span><span class="n">cursor</span><span class="p">()</span>
+<a id="rest_code_1d4e9631a8dc4885a7b25f4f4577677e-8" name="rest_code_1d4e9631a8dc4885a7b25f4f4577677e-8" href="#rest_code_1d4e9631a8dc4885a7b25f4f4577677e-8"></a><span class="c1"># CREATE TABLES</span>
+<a id="rest_code_1d4e9631a8dc4885a7b25f4f4577677e-9" name="rest_code_1d4e9631a8dc4885a7b25f4f4577677e-9" href="#rest_code_1d4e9631a8dc4885a7b25f4f4577677e-9"></a><span class="n">c</span><span class="o">.</span><span class="n">execute</span><span class="p">(</span><span class="s2">"SELECT ctgID,read from ctgs"</span><span class="p">)</span>
+<a id="rest_code_1d4e9631a8dc4885a7b25f4f4577677e-10" name="rest_code_1d4e9631a8dc4885a7b25f4f4577677e-10" href="#rest_code_1d4e9631a8dc4885a7b25f4f4577677e-10"></a><span class="k">for</span> <span class="n">row</span> <span class="ow">in</span> <span class="n">c</span><span class="p">:</span>
+<a id="rest_code_1d4e9631a8dc4885a7b25f4f4577677e-11" name="rest_code_1d4e9631a8dc4885a7b25f4f4577677e-11" href="#rest_code_1d4e9631a8dc4885a7b25f4f4577677e-11"></a>    <span class="n">ctg</span> <span class="o">=</span> <span class="n">row</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span>
+<a id="rest_code_1d4e9631a8dc4885a7b25f4f4577677e-12" name="rest_code_1d4e9631a8dc4885a7b25f4f4577677e-12" href="#rest_code_1d4e9631a8dc4885a7b25f4f4577677e-12"></a>    <span class="n">lib</span> <span class="o">=</span> <span class="n">row</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="s1">'-'</span><span class="p">)[</span><span class="mi">0</span><span class="p">][</span><span class="o">-</span><span class="mi">3</span><span class="p">:]</span>
+<a id="rest_code_1d4e9631a8dc4885a7b25f4f4577677e-13" name="rest_code_1d4e9631a8dc4885a7b25f4f4577677e-13" href="#rest_code_1d4e9631a8dc4885a7b25f4f4577677e-13"></a>    <span class="c1">#break</span>
 </pre></div>
 <p>FIN de prueba.</p>
     </div>    
 </div>
         <!--End of body content-->
 
-        <footer id="footer">
-            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+        <footer id="footer" class="bg-light"><span>Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow" target="_blanc">Nikola</a>         </span><span><a href="#" rel="nofollow" target="_blanc">Aporta a PyAr con tu donación</a><a></a></span>
             
         </footer>
 </div>

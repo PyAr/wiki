@@ -28,19 +28,19 @@ og: http://ogp.me/ns# article: http://ogp.me/ns/article#
 ➜  crypto_example  wget http://www.seanet.com/\~bugbee/crypto/blowfish/blowfish.py3
 ➜ ">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+<meta property="article:published_time" content="2024-06-26T19:43:16-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
 
-<div class="container">
-    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+<div class="container px-0">
+    <nav id="main-navbar" class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="https://www.python.org.ar/">Navbar</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mr-auto">
+            <ul class="navbar-nav">
 <li class="nav-item">
                     <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
                 </li>
@@ -78,7 +78,7 @@ og: http://ogp.me/ns# article: http://ogp.me/ns/article#
     <div class="body-content">
         <!--Body content-->
         
-<div class="col-lg-12">
+<div class="col-lg-12 px-4 py-2">
     <div class="page-header">
         <div class="pull-right">
             <a href="https://github.com/PyAr/wiki/blob/master/pages/recetario/crypto/blowfishconblowfishpy.rst" id="sourcelink" class="nav-link">Editar</a>
@@ -87,30 +87,29 @@ og: http://ogp.me/ns# article: http://ogp.me/ns/article#
     </div>
     <div class="e-content entry-content" itemprop="articleBody text">
     <p>Escribe acerca de Recetario/Crypto/BlowfishConBlowfishpy aquí.</p>
-<div class="code"><pre class="code bash"><a id="rest_code_6e55a0adf6104345952f7c499924e650-1" name="rest_code_6e55a0adf6104345952f7c499924e650-1" href="#rest_code_6e55a0adf6104345952f7c499924e650-1"></a>➜<span class="w">  </span>~<span class="w">  </span>mkdir<span class="w"> </span>crypto_example
-<a id="rest_code_6e55a0adf6104345952f7c499924e650-2" name="rest_code_6e55a0adf6104345952f7c499924e650-2" href="#rest_code_6e55a0adf6104345952f7c499924e650-2"></a>➜<span class="w">  </span>~<span class="w">  </span><span class="nb">cd</span><span class="w"> </span>crypto_example
-<a id="rest_code_6e55a0adf6104345952f7c499924e650-3" name="rest_code_6e55a0adf6104345952f7c499924e650-3" href="#rest_code_6e55a0adf6104345952f7c499924e650-3"></a>➜<span class="w">  </span>crypto_example<span class="w">  </span>wget<span class="w"> </span>http://www.seanet.com/<span class="se">\~</span>bugbee/crypto/blowfish/blowfish.py3
-<a id="rest_code_6e55a0adf6104345952f7c499924e650-4" name="rest_code_6e55a0adf6104345952f7c499924e650-4" href="#rest_code_6e55a0adf6104345952f7c499924e650-4"></a>➜<span class="w">  </span>crypto_example<span class="w">  </span>mv<span class="w"> </span>blowfish.py3<span class="w"> </span>blowfish.py
+<div class="code"><pre class="code bash"><a id="rest_code_fe102f25c65c462c8f7f4298f504b995-1" name="rest_code_fe102f25c65c462c8f7f4298f504b995-1" href="#rest_code_fe102f25c65c462c8f7f4298f504b995-1"></a>➜<span class="w">  </span>~<span class="w">  </span>mkdir<span class="w"> </span>crypto_example
+<a id="rest_code_fe102f25c65c462c8f7f4298f504b995-2" name="rest_code_fe102f25c65c462c8f7f4298f504b995-2" href="#rest_code_fe102f25c65c462c8f7f4298f504b995-2"></a>➜<span class="w">  </span>~<span class="w">  </span><span class="nb">cd</span><span class="w"> </span>crypto_example
+<a id="rest_code_fe102f25c65c462c8f7f4298f504b995-3" name="rest_code_fe102f25c65c462c8f7f4298f504b995-3" href="#rest_code_fe102f25c65c462c8f7f4298f504b995-3"></a>➜<span class="w">  </span>crypto_example<span class="w">  </span>wget<span class="w"> </span>http://www.seanet.com/<span class="se">\~</span>bugbee/crypto/blowfish/blowfish.py3
+<a id="rest_code_fe102f25c65c462c8f7f4298f504b995-4" name="rest_code_fe102f25c65c462c8f7f4298f504b995-4" href="#rest_code_fe102f25c65c462c8f7f4298f504b995-4"></a>➜<span class="w">  </span>crypto_example<span class="w">  </span>mv<span class="w"> </span>blowfish.py3<span class="w"> </span>blowfish.py
 </pre></div>
 <p>Con este código</p>
-<div class="code"><pre class="code python"><a id="rest_code_dae638d6b6134c1c9db21fabba2295c2-1" name="rest_code_dae638d6b6134c1c9db21fabba2295c2-1" href="#rest_code_dae638d6b6134c1c9db21fabba2295c2-1"></a><span class="kn">import</span> <span class="nn">blowfish</span>
-<a id="rest_code_dae638d6b6134c1c9db21fabba2295c2-2" name="rest_code_dae638d6b6134c1c9db21fabba2295c2-2" href="#rest_code_dae638d6b6134c1c9db21fabba2295c2-2"></a>
-<a id="rest_code_dae638d6b6134c1c9db21fabba2295c2-3" name="rest_code_dae638d6b6134c1c9db21fabba2295c2-3" href="#rest_code_dae638d6b6134c1c9db21fabba2295c2-3"></a><span class="n">b</span> <span class="o">=</span> <span class="n">blowfish</span><span class="o">.</span><span class="n">Blowfish</span><span class="p">(</span><span class="s2">"secreto aca"</span><span class="p">)</span>
-<a id="rest_code_dae638d6b6134c1c9db21fabba2295c2-4" name="rest_code_dae638d6b6134c1c9db21fabba2295c2-4" href="#rest_code_dae638d6b6134c1c9db21fabba2295c2-4"></a><span class="n">mensaje</span> <span class="o">=</span> <span class="s2">"hola!..."</span>
-<a id="rest_code_dae638d6b6134c1c9db21fabba2295c2-5" name="rest_code_dae638d6b6134c1c9db21fabba2295c2-5" href="#rest_code_dae638d6b6134c1c9db21fabba2295c2-5"></a><span class="n">cifrado</span> <span class="o">=</span> <span class="n">b</span><span class="o">.</span><span class="n">encipher_block</span><span class="p">(</span><span class="n">mensaje</span><span class="p">)</span>
-<a id="rest_code_dae638d6b6134c1c9db21fabba2295c2-6" name="rest_code_dae638d6b6134c1c9db21fabba2295c2-6" href="#rest_code_dae638d6b6134c1c9db21fabba2295c2-6"></a>
-<a id="rest_code_dae638d6b6134c1c9db21fabba2295c2-7" name="rest_code_dae638d6b6134c1c9db21fabba2295c2-7" href="#rest_code_dae638d6b6134c1c9db21fabba2295c2-7"></a><span class="nb">print</span> <span class="s2">"mensaje </span><span class="si">%s</span><span class="s2"> cifrado es </span><span class="si">%s</span><span class="s2">"</span> <span class="o">%</span> <span class="p">(</span><span class="n">mensaje</span><span class="p">,</span> <span class="n">cifrado</span><span class="p">)</span>
+<div class="code"><pre class="code python"><a id="rest_code_4bc3f738938543a789c11d4028278f99-1" name="rest_code_4bc3f738938543a789c11d4028278f99-1" href="#rest_code_4bc3f738938543a789c11d4028278f99-1"></a><span class="kn">import</span> <span class="nn">blowfish</span>
+<a id="rest_code_4bc3f738938543a789c11d4028278f99-2" name="rest_code_4bc3f738938543a789c11d4028278f99-2" href="#rest_code_4bc3f738938543a789c11d4028278f99-2"></a>
+<a id="rest_code_4bc3f738938543a789c11d4028278f99-3" name="rest_code_4bc3f738938543a789c11d4028278f99-3" href="#rest_code_4bc3f738938543a789c11d4028278f99-3"></a><span class="n">b</span> <span class="o">=</span> <span class="n">blowfish</span><span class="o">.</span><span class="n">Blowfish</span><span class="p">(</span><span class="s2">"secreto aca"</span><span class="p">)</span>
+<a id="rest_code_4bc3f738938543a789c11d4028278f99-4" name="rest_code_4bc3f738938543a789c11d4028278f99-4" href="#rest_code_4bc3f738938543a789c11d4028278f99-4"></a><span class="n">mensaje</span> <span class="o">=</span> <span class="s2">"hola!..."</span>
+<a id="rest_code_4bc3f738938543a789c11d4028278f99-5" name="rest_code_4bc3f738938543a789c11d4028278f99-5" href="#rest_code_4bc3f738938543a789c11d4028278f99-5"></a><span class="n">cifrado</span> <span class="o">=</span> <span class="n">b</span><span class="o">.</span><span class="n">encipher_block</span><span class="p">(</span><span class="n">mensaje</span><span class="p">)</span>
+<a id="rest_code_4bc3f738938543a789c11d4028278f99-6" name="rest_code_4bc3f738938543a789c11d4028278f99-6" href="#rest_code_4bc3f738938543a789c11d4028278f99-6"></a>
+<a id="rest_code_4bc3f738938543a789c11d4028278f99-7" name="rest_code_4bc3f738938543a789c11d4028278f99-7" href="#rest_code_4bc3f738938543a789c11d4028278f99-7"></a><span class="nb">print</span> <span class="s2">"mensaje </span><span class="si">%s</span><span class="s2"> cifrado es </span><span class="si">%s</span><span class="s2">"</span> <span class="o">%</span> <span class="p">(</span><span class="n">mensaje</span><span class="p">,</span> <span class="n">cifrado</span><span class="p">)</span>
 </pre></div>
 <p>Salida:</p>
-<div class="code"><pre class="code console"><a id="rest_code_b17497e112594654943fb1cea45b8cc8-1" name="rest_code_b17497e112594654943fb1cea45b8cc8-1" href="#rest_code_b17497e112594654943fb1cea45b8cc8-1"></a><span class="go">mensaje hola!... cifrado es 0@�WE</span>
+<div class="code"><pre class="code console"><a id="rest_code_8cfffc27e22941898ede061506f29756-1" name="rest_code_8cfffc27e22941898ede061506f29756-1" href="#rest_code_8cfffc27e22941898ede061506f29756-1"></a><span class="go">mensaje hola!... cifrado es 0@�WE</span>
 </pre></div>
 <p>Nota: El mensaje a cifrar parece que tiene que tener un largo de 8 (no sé mucho de blowfish :D)</p>
     </div>    
 </div>
         <!--End of body content-->
 
-        <footer id="footer">
-            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+        <footer id="footer" class="bg-light"><span>Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow" target="_blanc">Nikola</a>         </span><span><a href="#" rel="nofollow" target="_blanc">Aporta a PyAr con tu donación</a><a></a></span>
             
         </footer>
 </div>

@@ -32,19 +32,19 @@ window = gtk.Window()
 # seteamos el tamanio de la ventana
 window.set_default_size(200,">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+<meta property="article:published_time" content="2024-06-26T19:43:16-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
 
-<div class="container">
-    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+<div class="container px-0">
+    <nav id="main-navbar" class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="https://www.python.org.ar/">Navbar</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mr-auto">
+            <ul class="navbar-nav">
 <li class="nav-item">
                     <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
                 </li>
@@ -82,7 +82,7 @@ window.set_default_size(200,">
     <div class="body-content">
         <!--Body content-->
         
-<div class="col-lg-12">
+<div class="col-lg-12 px-4 py-2">
     <div class="page-header">
         <div class="pull-right">
             <a href="https://github.com/PyAr/wiki/blob/master/pages/recetario/gui/gtk/holamundo.rst" id="sourcelink" class="nav-link">Editar</a>
@@ -91,42 +91,41 @@ window.set_default_size(200,">
     </div>
     <div class="e-content entry-content" itemprop="articleBody text">
     <p>Crea y muestra una ventana que muestra el famoso mensaje hola mundo.</p>
-<img alt="/images/Recetario/Gui/Gtk/HolaMundo/Hola%20mundo.png" src="../../../../images/Recetario/Gui/Gtk/HolaMundo/Hola%20mundo.png"><div class="code"><pre class="code python"><a id="rest_code_20e39ab2628845018525e757f5e68732-1" name="rest_code_20e39ab2628845018525e757f5e68732-1" href="#rest_code_20e39ab2628845018525e757f5e68732-1"></a><span class="kn">import</span> <span class="nn">gtk</span>
-<a id="rest_code_20e39ab2628845018525e757f5e68732-2" name="rest_code_20e39ab2628845018525e757f5e68732-2" href="#rest_code_20e39ab2628845018525e757f5e68732-2"></a><span class="kn">import</span> <span class="nn">sys</span>
-<a id="rest_code_20e39ab2628845018525e757f5e68732-3" name="rest_code_20e39ab2628845018525e757f5e68732-3" href="#rest_code_20e39ab2628845018525e757f5e68732-3"></a>
-<a id="rest_code_20e39ab2628845018525e757f5e68732-4" name="rest_code_20e39ab2628845018525e757f5e68732-4" href="#rest_code_20e39ab2628845018525e757f5e68732-4"></a><span class="c1"># se crea la ventana</span>
-<a id="rest_code_20e39ab2628845018525e757f5e68732-5" name="rest_code_20e39ab2628845018525e757f5e68732-5" href="#rest_code_20e39ab2628845018525e757f5e68732-5"></a><span class="n">window</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">Window</span><span class="p">()</span>
-<a id="rest_code_20e39ab2628845018525e757f5e68732-6" name="rest_code_20e39ab2628845018525e757f5e68732-6" href="#rest_code_20e39ab2628845018525e757f5e68732-6"></a><span class="c1"># seteamos el tamanio de la ventana</span>
-<a id="rest_code_20e39ab2628845018525e757f5e68732-7" name="rest_code_20e39ab2628845018525e757f5e68732-7" href="#rest_code_20e39ab2628845018525e757f5e68732-7"></a><span class="n">window</span><span class="o">.</span><span class="n">set_default_size</span><span class="p">(</span><span class="mi">200</span><span class="p">,</span> <span class="mi">200</span><span class="p">)</span>
-<a id="rest_code_20e39ab2628845018525e757f5e68732-8" name="rest_code_20e39ab2628845018525e757f5e68732-8" href="#rest_code_20e39ab2628845018525e757f5e68732-8"></a><span class="c1"># se crea la etiqueta que va a mostrar el mensaje</span>
-<a id="rest_code_20e39ab2628845018525e757f5e68732-9" name="rest_code_20e39ab2628845018525e757f5e68732-9" href="#rest_code_20e39ab2628845018525e757f5e68732-9"></a><span class="n">label</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">Label</span><span class="p">(</span><span class="s2">"Hola pyar!"</span><span class="p">)</span>
-<a id="rest_code_20e39ab2628845018525e757f5e68732-10" name="rest_code_20e39ab2628845018525e757f5e68732-10" href="#rest_code_20e39ab2628845018525e757f5e68732-10"></a><span class="c1"># se setea el el titulo de la ventana</span>
-<a id="rest_code_20e39ab2628845018525e757f5e68732-11" name="rest_code_20e39ab2628845018525e757f5e68732-11" href="#rest_code_20e39ab2628845018525e757f5e68732-11"></a><span class="n">window</span><span class="o">.</span><span class="n">set_title</span><span class="p">(</span><span class="s2">"hola mundo"</span><span class="p">)</span>
-<a id="rest_code_20e39ab2628845018525e757f5e68732-12" name="rest_code_20e39ab2628845018525e757f5e68732-12" href="#rest_code_20e39ab2628845018525e757f5e68732-12"></a><span class="c1"># agregamos el label a la ventana</span>
-<a id="rest_code_20e39ab2628845018525e757f5e68732-13" name="rest_code_20e39ab2628845018525e757f5e68732-13" href="#rest_code_20e39ab2628845018525e757f5e68732-13"></a><span class="n">window</span><span class="o">.</span><span class="n">add</span><span class="p">(</span><span class="n">label</span><span class="p">)</span>
-<a id="rest_code_20e39ab2628845018525e757f5e68732-14" name="rest_code_20e39ab2628845018525e757f5e68732-14" href="#rest_code_20e39ab2628845018525e757f5e68732-14"></a><span class="c1"># mostramos la ventana y todo lo que contiene</span>
-<a id="rest_code_20e39ab2628845018525e757f5e68732-15" name="rest_code_20e39ab2628845018525e757f5e68732-15" href="#rest_code_20e39ab2628845018525e757f5e68732-15"></a><span class="n">window</span><span class="o">.</span><span class="n">show_all</span><span class="p">()</span>
-<a id="rest_code_20e39ab2628845018525e757f5e68732-16" name="rest_code_20e39ab2628845018525e757f5e68732-16" href="#rest_code_20e39ab2628845018525e757f5e68732-16"></a>
-<a id="rest_code_20e39ab2628845018525e757f5e68732-17" name="rest_code_20e39ab2628845018525e757f5e68732-17" href="#rest_code_20e39ab2628845018525e757f5e68732-17"></a><span class="k">def</span> <span class="nf">on_window_close</span><span class="p">(</span><span class="n">window</span><span class="p">,</span> <span class="n">event</span><span class="p">):</span>
-<a id="rest_code_20e39ab2628845018525e757f5e68732-18" name="rest_code_20e39ab2628845018525e757f5e68732-18" href="#rest_code_20e39ab2628845018525e757f5e68732-18"></a><span class="w">    </span><span class="sd">'''este metodo es llamado cuando se aprieta la equis para cerrar la</span>
-<a id="rest_code_20e39ab2628845018525e757f5e68732-19" name="rest_code_20e39ab2628845018525e757f5e68732-19" href="#rest_code_20e39ab2628845018525e757f5e68732-19"></a><span class="sd">    ventana'''</span>
-<a id="rest_code_20e39ab2628845018525e757f5e68732-20" name="rest_code_20e39ab2628845018525e757f5e68732-20" href="#rest_code_20e39ab2628845018525e757f5e68732-20"></a>    <span class="c1"># cerramos el programa retornando 0 (exito)</span>
-<a id="rest_code_20e39ab2628845018525e757f5e68732-21" name="rest_code_20e39ab2628845018525e757f5e68732-21" href="#rest_code_20e39ab2628845018525e757f5e68732-21"></a>    <span class="n">sys</span><span class="o">.</span><span class="n">exit</span><span class="p">(</span><span class="mi">0</span><span class="p">)</span>
-<a id="rest_code_20e39ab2628845018525e757f5e68732-22" name="rest_code_20e39ab2628845018525e757f5e68732-22" href="#rest_code_20e39ab2628845018525e757f5e68732-22"></a>
-<a id="rest_code_20e39ab2628845018525e757f5e68732-23" name="rest_code_20e39ab2628845018525e757f5e68732-23" href="#rest_code_20e39ab2628845018525e757f5e68732-23"></a><span class="c1"># conectamos la senial delete-event que es emitida cuando se presiona la</span>
-<a id="rest_code_20e39ab2628845018525e757f5e68732-24" name="rest_code_20e39ab2628845018525e757f5e68732-24" href="#rest_code_20e39ab2628845018525e757f5e68732-24"></a><span class="c1"># equis en la ventana</span>
-<a id="rest_code_20e39ab2628845018525e757f5e68732-25" name="rest_code_20e39ab2628845018525e757f5e68732-25" href="#rest_code_20e39ab2628845018525e757f5e68732-25"></a><span class="n">window</span><span class="o">.</span><span class="n">connect</span><span class="p">(</span><span class="s2">"delete-event"</span><span class="p">,</span> <span class="n">on_window_close</span><span class="p">)</span>
-<a id="rest_code_20e39ab2628845018525e757f5e68732-26" name="rest_code_20e39ab2628845018525e757f5e68732-26" href="#rest_code_20e39ab2628845018525e757f5e68732-26"></a>
-<a id="rest_code_20e39ab2628845018525e757f5e68732-27" name="rest_code_20e39ab2628845018525e757f5e68732-27" href="#rest_code_20e39ab2628845018525e757f5e68732-27"></a><span class="c1"># llamamos al main loop para que muestre la ventana y</span>
-<a id="rest_code_20e39ab2628845018525e757f5e68732-28" name="rest_code_20e39ab2628845018525e757f5e68732-28" href="#rest_code_20e39ab2628845018525e757f5e68732-28"></a><span class="c1"># procese los eventos</span>
-<a id="rest_code_20e39ab2628845018525e757f5e68732-29" name="rest_code_20e39ab2628845018525e757f5e68732-29" href="#rest_code_20e39ab2628845018525e757f5e68732-29"></a><span class="n">gtk</span><span class="o">.</span><span class="n">main</span><span class="p">()</span>
+<img alt="/images/Recetario/Gui/Gtk/HolaMundo/Hola%20mundo.png" src="../../../../images/Recetario/Gui/Gtk/HolaMundo/Hola%20mundo.png"><div class="code"><pre class="code python"><a id="rest_code_5e4754b41dce48f68a87220587eefb63-1" name="rest_code_5e4754b41dce48f68a87220587eefb63-1" href="#rest_code_5e4754b41dce48f68a87220587eefb63-1"></a><span class="kn">import</span> <span class="nn">gtk</span>
+<a id="rest_code_5e4754b41dce48f68a87220587eefb63-2" name="rest_code_5e4754b41dce48f68a87220587eefb63-2" href="#rest_code_5e4754b41dce48f68a87220587eefb63-2"></a><span class="kn">import</span> <span class="nn">sys</span>
+<a id="rest_code_5e4754b41dce48f68a87220587eefb63-3" name="rest_code_5e4754b41dce48f68a87220587eefb63-3" href="#rest_code_5e4754b41dce48f68a87220587eefb63-3"></a>
+<a id="rest_code_5e4754b41dce48f68a87220587eefb63-4" name="rest_code_5e4754b41dce48f68a87220587eefb63-4" href="#rest_code_5e4754b41dce48f68a87220587eefb63-4"></a><span class="c1"># se crea la ventana</span>
+<a id="rest_code_5e4754b41dce48f68a87220587eefb63-5" name="rest_code_5e4754b41dce48f68a87220587eefb63-5" href="#rest_code_5e4754b41dce48f68a87220587eefb63-5"></a><span class="n">window</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">Window</span><span class="p">()</span>
+<a id="rest_code_5e4754b41dce48f68a87220587eefb63-6" name="rest_code_5e4754b41dce48f68a87220587eefb63-6" href="#rest_code_5e4754b41dce48f68a87220587eefb63-6"></a><span class="c1"># seteamos el tamanio de la ventana</span>
+<a id="rest_code_5e4754b41dce48f68a87220587eefb63-7" name="rest_code_5e4754b41dce48f68a87220587eefb63-7" href="#rest_code_5e4754b41dce48f68a87220587eefb63-7"></a><span class="n">window</span><span class="o">.</span><span class="n">set_default_size</span><span class="p">(</span><span class="mi">200</span><span class="p">,</span> <span class="mi">200</span><span class="p">)</span>
+<a id="rest_code_5e4754b41dce48f68a87220587eefb63-8" name="rest_code_5e4754b41dce48f68a87220587eefb63-8" href="#rest_code_5e4754b41dce48f68a87220587eefb63-8"></a><span class="c1"># se crea la etiqueta que va a mostrar el mensaje</span>
+<a id="rest_code_5e4754b41dce48f68a87220587eefb63-9" name="rest_code_5e4754b41dce48f68a87220587eefb63-9" href="#rest_code_5e4754b41dce48f68a87220587eefb63-9"></a><span class="n">label</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">Label</span><span class="p">(</span><span class="s2">"Hola pyar!"</span><span class="p">)</span>
+<a id="rest_code_5e4754b41dce48f68a87220587eefb63-10" name="rest_code_5e4754b41dce48f68a87220587eefb63-10" href="#rest_code_5e4754b41dce48f68a87220587eefb63-10"></a><span class="c1"># se setea el el titulo de la ventana</span>
+<a id="rest_code_5e4754b41dce48f68a87220587eefb63-11" name="rest_code_5e4754b41dce48f68a87220587eefb63-11" href="#rest_code_5e4754b41dce48f68a87220587eefb63-11"></a><span class="n">window</span><span class="o">.</span><span class="n">set_title</span><span class="p">(</span><span class="s2">"hola mundo"</span><span class="p">)</span>
+<a id="rest_code_5e4754b41dce48f68a87220587eefb63-12" name="rest_code_5e4754b41dce48f68a87220587eefb63-12" href="#rest_code_5e4754b41dce48f68a87220587eefb63-12"></a><span class="c1"># agregamos el label a la ventana</span>
+<a id="rest_code_5e4754b41dce48f68a87220587eefb63-13" name="rest_code_5e4754b41dce48f68a87220587eefb63-13" href="#rest_code_5e4754b41dce48f68a87220587eefb63-13"></a><span class="n">window</span><span class="o">.</span><span class="n">add</span><span class="p">(</span><span class="n">label</span><span class="p">)</span>
+<a id="rest_code_5e4754b41dce48f68a87220587eefb63-14" name="rest_code_5e4754b41dce48f68a87220587eefb63-14" href="#rest_code_5e4754b41dce48f68a87220587eefb63-14"></a><span class="c1"># mostramos la ventana y todo lo que contiene</span>
+<a id="rest_code_5e4754b41dce48f68a87220587eefb63-15" name="rest_code_5e4754b41dce48f68a87220587eefb63-15" href="#rest_code_5e4754b41dce48f68a87220587eefb63-15"></a><span class="n">window</span><span class="o">.</span><span class="n">show_all</span><span class="p">()</span>
+<a id="rest_code_5e4754b41dce48f68a87220587eefb63-16" name="rest_code_5e4754b41dce48f68a87220587eefb63-16" href="#rest_code_5e4754b41dce48f68a87220587eefb63-16"></a>
+<a id="rest_code_5e4754b41dce48f68a87220587eefb63-17" name="rest_code_5e4754b41dce48f68a87220587eefb63-17" href="#rest_code_5e4754b41dce48f68a87220587eefb63-17"></a><span class="k">def</span> <span class="nf">on_window_close</span><span class="p">(</span><span class="n">window</span><span class="p">,</span> <span class="n">event</span><span class="p">):</span>
+<a id="rest_code_5e4754b41dce48f68a87220587eefb63-18" name="rest_code_5e4754b41dce48f68a87220587eefb63-18" href="#rest_code_5e4754b41dce48f68a87220587eefb63-18"></a><span class="w">    </span><span class="sd">'''este metodo es llamado cuando se aprieta la equis para cerrar la</span>
+<a id="rest_code_5e4754b41dce48f68a87220587eefb63-19" name="rest_code_5e4754b41dce48f68a87220587eefb63-19" href="#rest_code_5e4754b41dce48f68a87220587eefb63-19"></a><span class="sd">    ventana'''</span>
+<a id="rest_code_5e4754b41dce48f68a87220587eefb63-20" name="rest_code_5e4754b41dce48f68a87220587eefb63-20" href="#rest_code_5e4754b41dce48f68a87220587eefb63-20"></a>    <span class="c1"># cerramos el programa retornando 0 (exito)</span>
+<a id="rest_code_5e4754b41dce48f68a87220587eefb63-21" name="rest_code_5e4754b41dce48f68a87220587eefb63-21" href="#rest_code_5e4754b41dce48f68a87220587eefb63-21"></a>    <span class="n">sys</span><span class="o">.</span><span class="n">exit</span><span class="p">(</span><span class="mi">0</span><span class="p">)</span>
+<a id="rest_code_5e4754b41dce48f68a87220587eefb63-22" name="rest_code_5e4754b41dce48f68a87220587eefb63-22" href="#rest_code_5e4754b41dce48f68a87220587eefb63-22"></a>
+<a id="rest_code_5e4754b41dce48f68a87220587eefb63-23" name="rest_code_5e4754b41dce48f68a87220587eefb63-23" href="#rest_code_5e4754b41dce48f68a87220587eefb63-23"></a><span class="c1"># conectamos la senial delete-event que es emitida cuando se presiona la</span>
+<a id="rest_code_5e4754b41dce48f68a87220587eefb63-24" name="rest_code_5e4754b41dce48f68a87220587eefb63-24" href="#rest_code_5e4754b41dce48f68a87220587eefb63-24"></a><span class="c1"># equis en la ventana</span>
+<a id="rest_code_5e4754b41dce48f68a87220587eefb63-25" name="rest_code_5e4754b41dce48f68a87220587eefb63-25" href="#rest_code_5e4754b41dce48f68a87220587eefb63-25"></a><span class="n">window</span><span class="o">.</span><span class="n">connect</span><span class="p">(</span><span class="s2">"delete-event"</span><span class="p">,</span> <span class="n">on_window_close</span><span class="p">)</span>
+<a id="rest_code_5e4754b41dce48f68a87220587eefb63-26" name="rest_code_5e4754b41dce48f68a87220587eefb63-26" href="#rest_code_5e4754b41dce48f68a87220587eefb63-26"></a>
+<a id="rest_code_5e4754b41dce48f68a87220587eefb63-27" name="rest_code_5e4754b41dce48f68a87220587eefb63-27" href="#rest_code_5e4754b41dce48f68a87220587eefb63-27"></a><span class="c1"># llamamos al main loop para que muestre la ventana y</span>
+<a id="rest_code_5e4754b41dce48f68a87220587eefb63-28" name="rest_code_5e4754b41dce48f68a87220587eefb63-28" href="#rest_code_5e4754b41dce48f68a87220587eefb63-28"></a><span class="c1"># procese los eventos</span>
+<a id="rest_code_5e4754b41dce48f68a87220587eefb63-29" name="rest_code_5e4754b41dce48f68a87220587eefb63-29" href="#rest_code_5e4754b41dce48f68a87220587eefb63-29"></a><span class="n">gtk</span><span class="o">.</span><span class="n">main</span><span class="p">()</span>
 </pre></div>
     </div>    
 </div>
         <!--End of body content-->
 
-        <footer id="footer">
-            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+        <footer id="footer" class="bg-light"><span>Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow" target="_blanc">Nikola</a>         </span><span><a href="#" rel="nofollow" target="_blanc">Aporta a PyAr con tu donación</a><a></a></span>
             
         </footer>
 </div>

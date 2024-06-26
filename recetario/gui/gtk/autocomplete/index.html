@@ -32,19 +32,19 @@ class Complete(gtk.Entry):
         gtk.Entry.__init__(self)
         self">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+<meta property="article:published_time" content="2024-06-26T19:43:16-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
 
-<div class="container">
-    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+<div class="container px-0">
+    <nav id="main-navbar" class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="https://www.python.org.ar/">Navbar</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mr-auto">
+            <ul class="navbar-nav">
 <li class="nav-item">
                     <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
                 </li>
@@ -82,7 +82,7 @@ class Complete(gtk.Entry):
     <div class="body-content">
         <!--Body content-->
         
-<div class="col-lg-12">
+<div class="col-lg-12 px-4 py-2">
     <div class="page-header">
         <div class="pull-right">
             <a href="https://github.com/PyAr/wiki/blob/master/pages/recetario/gui/gtk/autocomplete.rst" id="sourcelink" class="nav-link">Editar</a>
@@ -91,40 +91,39 @@ class Complete(gtk.Entry):
     </div>
     <div class="e-content entry-content" itemprop="articleBody text">
     <p>Ejemplo de campo de texto con auto completación.</p>
-<div class="code"><pre class="code python"><a id="rest_code_ad2c461c6da540a995232aa64bb919cf-1" name="rest_code_ad2c461c6da540a995232aa64bb919cf-1" href="#rest_code_ad2c461c6da540a995232aa64bb919cf-1"></a><span class="kn">import</span> <span class="nn">gtk</span>
-<a id="rest_code_ad2c461c6da540a995232aa64bb919cf-2" name="rest_code_ad2c461c6da540a995232aa64bb919cf-2" href="#rest_code_ad2c461c6da540a995232aa64bb919cf-2"></a>
-<a id="rest_code_ad2c461c6da540a995232aa64bb919cf-3" name="rest_code_ad2c461c6da540a995232aa64bb919cf-3" href="#rest_code_ad2c461c6da540a995232aa64bb919cf-3"></a><span class="k">class</span> <span class="nc">Complete</span><span class="p">(</span><span class="n">gtk</span><span class="o">.</span><span class="n">Entry</span><span class="p">):</span>
-<a id="rest_code_ad2c461c6da540a995232aa64bb919cf-4" name="rest_code_ad2c461c6da540a995232aa64bb919cf-4" href="#rest_code_ad2c461c6da540a995232aa64bb919cf-4"></a><span class="w">    </span><span class="sd">'''a class to autocomplete'''</span>
-<a id="rest_code_ad2c461c6da540a995232aa64bb919cf-5" name="rest_code_ad2c461c6da540a995232aa64bb919cf-5" href="#rest_code_ad2c461c6da540a995232aa64bb919cf-5"></a>
-<a id="rest_code_ad2c461c6da540a995232aa64bb919cf-6" name="rest_code_ad2c461c6da540a995232aa64bb919cf-6" href="#rest_code_ad2c461c6da540a995232aa64bb919cf-6"></a>    <span class="k">def</span> <span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="o">*</span><span class="n">words</span><span class="p">):</span>
-<a id="rest_code_ad2c461c6da540a995232aa64bb919cf-7" name="rest_code_ad2c461c6da540a995232aa64bb919cf-7" href="#rest_code_ad2c461c6da540a995232aa64bb919cf-7"></a>        <span class="n">gtk</span><span class="o">.</span><span class="n">Entry</span><span class="o">.</span><span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">)</span>
-<a id="rest_code_ad2c461c6da540a995232aa64bb919cf-8" name="rest_code_ad2c461c6da540a995232aa64bb919cf-8" href="#rest_code_ad2c461c6da540a995232aa64bb919cf-8"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">completion</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">EntryCompletion</span><span class="p">()</span>
-<a id="rest_code_ad2c461c6da540a995232aa64bb919cf-9" name="rest_code_ad2c461c6da540a995232aa64bb919cf-9" href="#rest_code_ad2c461c6da540a995232aa64bb919cf-9"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">set_completion</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">completion</span><span class="p">)</span>
-<a id="rest_code_ad2c461c6da540a995232aa64bb919cf-10" name="rest_code_ad2c461c6da540a995232aa64bb919cf-10" href="#rest_code_ad2c461c6da540a995232aa64bb919cf-10"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">model</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">ListStore</span><span class="p">(</span><span class="nb">str</span><span class="p">)</span>
-<a id="rest_code_ad2c461c6da540a995232aa64bb919cf-11" name="rest_code_ad2c461c6da540a995232aa64bb919cf-11" href="#rest_code_ad2c461c6da540a995232aa64bb919cf-11"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">completion</span><span class="o">.</span><span class="n">set_model</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">model</span><span class="p">)</span>
-<a id="rest_code_ad2c461c6da540a995232aa64bb919cf-12" name="rest_code_ad2c461c6da540a995232aa64bb919cf-12" href="#rest_code_ad2c461c6da540a995232aa64bb919cf-12"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">completion</span><span class="o">.</span><span class="n">set_text_column</span><span class="p">(</span><span class="mi">0</span><span class="p">)</span>
-<a id="rest_code_ad2c461c6da540a995232aa64bb919cf-13" name="rest_code_ad2c461c6da540a995232aa64bb919cf-13" href="#rest_code_ad2c461c6da540a995232aa64bb919cf-13"></a>
-<a id="rest_code_ad2c461c6da540a995232aa64bb919cf-14" name="rest_code_ad2c461c6da540a995232aa64bb919cf-14" href="#rest_code_ad2c461c6da540a995232aa64bb919cf-14"></a>        <span class="k">for</span> <span class="n">word</span> <span class="ow">in</span> <span class="n">words</span><span class="p">:</span>
-<a id="rest_code_ad2c461c6da540a995232aa64bb919cf-15" name="rest_code_ad2c461c6da540a995232aa64bb919cf-15" href="#rest_code_ad2c461c6da540a995232aa64bb919cf-15"></a>            <span class="bp">self</span><span class="o">.</span><span class="n">remember</span><span class="p">(</span><span class="n">word</span><span class="p">)</span>
-<a id="rest_code_ad2c461c6da540a995232aa64bb919cf-16" name="rest_code_ad2c461c6da540a995232aa64bb919cf-16" href="#rest_code_ad2c461c6da540a995232aa64bb919cf-16"></a>
-<a id="rest_code_ad2c461c6da540a995232aa64bb919cf-17" name="rest_code_ad2c461c6da540a995232aa64bb919cf-17" href="#rest_code_ad2c461c6da540a995232aa64bb919cf-17"></a>    <span class="k">def</span> <span class="nf">remember</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">value</span><span class="p">):</span>
-<a id="rest_code_ad2c461c6da540a995232aa64bb919cf-18" name="rest_code_ad2c461c6da540a995232aa64bb919cf-18" href="#rest_code_ad2c461c6da540a995232aa64bb919cf-18"></a><span class="w">        </span><span class="sd">'''add a value to the list of strings to suggest'''</span>
-<a id="rest_code_ad2c461c6da540a995232aa64bb919cf-19" name="rest_code_ad2c461c6da540a995232aa64bb919cf-19" href="#rest_code_ad2c461c6da540a995232aa64bb919cf-19"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">model</span><span class="o">.</span><span class="n">append</span><span class="p">([</span><span class="n">value</span><span class="p">])</span>
-<a id="rest_code_ad2c461c6da540a995232aa64bb919cf-20" name="rest_code_ad2c461c6da540a995232aa64bb919cf-20" href="#rest_code_ad2c461c6da540a995232aa64bb919cf-20"></a>
-<a id="rest_code_ad2c461c6da540a995232aa64bb919cf-21" name="rest_code_ad2c461c6da540a995232aa64bb919cf-21" href="#rest_code_ad2c461c6da540a995232aa64bb919cf-21"></a><span class="k">if</span> <span class="vm">__name__</span> <span class="o">==</span> <span class="s1">'__main__'</span><span class="p">:</span>
-<a id="rest_code_ad2c461c6da540a995232aa64bb919cf-22" name="rest_code_ad2c461c6da540a995232aa64bb919cf-22" href="#rest_code_ad2c461c6da540a995232aa64bb919cf-22"></a>    <span class="n">window</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">Window</span><span class="p">()</span>
-<a id="rest_code_ad2c461c6da540a995232aa64bb919cf-23" name="rest_code_ad2c461c6da540a995232aa64bb919cf-23" href="#rest_code_ad2c461c6da540a995232aa64bb919cf-23"></a>    <span class="n">complete</span> <span class="o">=</span> <span class="n">Complete</span><span class="p">(</span><span class="s2">"python"</span><span class="p">,</span> <span class="s2">"pyar"</span><span class="p">,</span> <span class="s2">"span"</span><span class="p">,</span> <span class="s2">"eggs"</span><span class="p">)</span>
-<a id="rest_code_ad2c461c6da540a995232aa64bb919cf-24" name="rest_code_ad2c461c6da540a995232aa64bb919cf-24" href="#rest_code_ad2c461c6da540a995232aa64bb919cf-24"></a>    <span class="n">window</span><span class="o">.</span><span class="n">add</span><span class="p">(</span><span class="n">complete</span><span class="p">)</span>
-<a id="rest_code_ad2c461c6da540a995232aa64bb919cf-25" name="rest_code_ad2c461c6da540a995232aa64bb919cf-25" href="#rest_code_ad2c461c6da540a995232aa64bb919cf-25"></a>    <span class="n">window</span><span class="o">.</span><span class="n">connect</span><span class="p">(</span><span class="s1">'delete-event'</span><span class="p">,</span> <span class="n">gtk</span><span class="o">.</span><span class="n">main_quit</span><span class="p">)</span>
-<a id="rest_code_ad2c461c6da540a995232aa64bb919cf-26" name="rest_code_ad2c461c6da540a995232aa64bb919cf-26" href="#rest_code_ad2c461c6da540a995232aa64bb919cf-26"></a>    <span class="n">window</span><span class="o">.</span><span class="n">show_all</span><span class="p">()</span>
-<a id="rest_code_ad2c461c6da540a995232aa64bb919cf-27" name="rest_code_ad2c461c6da540a995232aa64bb919cf-27" href="#rest_code_ad2c461c6da540a995232aa64bb919cf-27"></a>    <span class="n">gtk</span><span class="o">.</span><span class="n">main</span><span class="p">()</span>
+<div class="code"><pre class="code python"><a id="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-1" name="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-1" href="#rest_code_ee9c388f87164dc0a4fe1ed8803a3757-1"></a><span class="kn">import</span> <span class="nn">gtk</span>
+<a id="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-2" name="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-2" href="#rest_code_ee9c388f87164dc0a4fe1ed8803a3757-2"></a>
+<a id="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-3" name="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-3" href="#rest_code_ee9c388f87164dc0a4fe1ed8803a3757-3"></a><span class="k">class</span> <span class="nc">Complete</span><span class="p">(</span><span class="n">gtk</span><span class="o">.</span><span class="n">Entry</span><span class="p">):</span>
+<a id="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-4" name="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-4" href="#rest_code_ee9c388f87164dc0a4fe1ed8803a3757-4"></a><span class="w">    </span><span class="sd">'''a class to autocomplete'''</span>
+<a id="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-5" name="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-5" href="#rest_code_ee9c388f87164dc0a4fe1ed8803a3757-5"></a>
+<a id="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-6" name="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-6" href="#rest_code_ee9c388f87164dc0a4fe1ed8803a3757-6"></a>    <span class="k">def</span> <span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="o">*</span><span class="n">words</span><span class="p">):</span>
+<a id="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-7" name="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-7" href="#rest_code_ee9c388f87164dc0a4fe1ed8803a3757-7"></a>        <span class="n">gtk</span><span class="o">.</span><span class="n">Entry</span><span class="o">.</span><span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">)</span>
+<a id="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-8" name="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-8" href="#rest_code_ee9c388f87164dc0a4fe1ed8803a3757-8"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">completion</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">EntryCompletion</span><span class="p">()</span>
+<a id="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-9" name="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-9" href="#rest_code_ee9c388f87164dc0a4fe1ed8803a3757-9"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">set_completion</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">completion</span><span class="p">)</span>
+<a id="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-10" name="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-10" href="#rest_code_ee9c388f87164dc0a4fe1ed8803a3757-10"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">model</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">ListStore</span><span class="p">(</span><span class="nb">str</span><span class="p">)</span>
+<a id="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-11" name="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-11" href="#rest_code_ee9c388f87164dc0a4fe1ed8803a3757-11"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">completion</span><span class="o">.</span><span class="n">set_model</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">model</span><span class="p">)</span>
+<a id="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-12" name="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-12" href="#rest_code_ee9c388f87164dc0a4fe1ed8803a3757-12"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">completion</span><span class="o">.</span><span class="n">set_text_column</span><span class="p">(</span><span class="mi">0</span><span class="p">)</span>
+<a id="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-13" name="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-13" href="#rest_code_ee9c388f87164dc0a4fe1ed8803a3757-13"></a>
+<a id="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-14" name="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-14" href="#rest_code_ee9c388f87164dc0a4fe1ed8803a3757-14"></a>        <span class="k">for</span> <span class="n">word</span> <span class="ow">in</span> <span class="n">words</span><span class="p">:</span>
+<a id="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-15" name="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-15" href="#rest_code_ee9c388f87164dc0a4fe1ed8803a3757-15"></a>            <span class="bp">self</span><span class="o">.</span><span class="n">remember</span><span class="p">(</span><span class="n">word</span><span class="p">)</span>
+<a id="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-16" name="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-16" href="#rest_code_ee9c388f87164dc0a4fe1ed8803a3757-16"></a>
+<a id="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-17" name="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-17" href="#rest_code_ee9c388f87164dc0a4fe1ed8803a3757-17"></a>    <span class="k">def</span> <span class="nf">remember</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">value</span><span class="p">):</span>
+<a id="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-18" name="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-18" href="#rest_code_ee9c388f87164dc0a4fe1ed8803a3757-18"></a><span class="w">        </span><span class="sd">'''add a value to the list of strings to suggest'''</span>
+<a id="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-19" name="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-19" href="#rest_code_ee9c388f87164dc0a4fe1ed8803a3757-19"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">model</span><span class="o">.</span><span class="n">append</span><span class="p">([</span><span class="n">value</span><span class="p">])</span>
+<a id="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-20" name="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-20" href="#rest_code_ee9c388f87164dc0a4fe1ed8803a3757-20"></a>
+<a id="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-21" name="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-21" href="#rest_code_ee9c388f87164dc0a4fe1ed8803a3757-21"></a><span class="k">if</span> <span class="vm">__name__</span> <span class="o">==</span> <span class="s1">'__main__'</span><span class="p">:</span>
+<a id="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-22" name="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-22" href="#rest_code_ee9c388f87164dc0a4fe1ed8803a3757-22"></a>    <span class="n">window</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">Window</span><span class="p">()</span>
+<a id="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-23" name="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-23" href="#rest_code_ee9c388f87164dc0a4fe1ed8803a3757-23"></a>    <span class="n">complete</span> <span class="o">=</span> <span class="n">Complete</span><span class="p">(</span><span class="s2">"python"</span><span class="p">,</span> <span class="s2">"pyar"</span><span class="p">,</span> <span class="s2">"span"</span><span class="p">,</span> <span class="s2">"eggs"</span><span class="p">)</span>
+<a id="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-24" name="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-24" href="#rest_code_ee9c388f87164dc0a4fe1ed8803a3757-24"></a>    <span class="n">window</span><span class="o">.</span><span class="n">add</span><span class="p">(</span><span class="n">complete</span><span class="p">)</span>
+<a id="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-25" name="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-25" href="#rest_code_ee9c388f87164dc0a4fe1ed8803a3757-25"></a>    <span class="n">window</span><span class="o">.</span><span class="n">connect</span><span class="p">(</span><span class="s1">'delete-event'</span><span class="p">,</span> <span class="n">gtk</span><span class="o">.</span><span class="n">main_quit</span><span class="p">)</span>
+<a id="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-26" name="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-26" href="#rest_code_ee9c388f87164dc0a4fe1ed8803a3757-26"></a>    <span class="n">window</span><span class="o">.</span><span class="n">show_all</span><span class="p">()</span>
+<a id="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-27" name="rest_code_ee9c388f87164dc0a4fe1ed8803a3757-27" href="#rest_code_ee9c388f87164dc0a4fe1ed8803a3757-27"></a>    <span class="n">gtk</span><span class="o">.</span><span class="n">main</span><span class="p">()</span>
 </pre></div>
     </div>    
 </div>
         <!--End of body content-->
 
-        <footer id="footer">
-            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+        <footer id="footer" class="bg-light"><span>Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow" target="_blanc">Nikola</a>         </span><span><a href="#" rel="nofollow" target="_blanc">Aporta a PyAr con tu donación</a><a></a></span>
             
         </footer>
 </div>

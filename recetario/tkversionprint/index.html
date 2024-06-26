@@ -34,19 +34,19 @@ root.mainloop()
 Ejemplo:
 jua">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+<meta property="article:published_time" content="2024-06-26T19:43:16-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
 
-<div class="container">
-    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+<div class="container px-0">
+    <nav id="main-navbar" class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="https://www.python.org.ar/">Navbar</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mr-auto">
+            <ul class="navbar-nav">
 <li class="nav-item">
                     <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
                 </li>
@@ -84,7 +84,7 @@ jua">
     <div class="body-content">
         <!--Body content-->
         
-<div class="col-lg-12">
+<div class="col-lg-12 px-4 py-2">
     <div class="page-header">
         <div class="pull-right">
             <a href="https://github.com/PyAr/wiki/blob/master/pages/recetario/tkversionprint.rst" id="sourcelink" class="nav-link">Editar</a>
@@ -93,24 +93,23 @@ jua">
     </div>
     <div class="e-content entry-content" itemprop="articleBody text">
     <p>Imprime la versión de TK que se está usando actualmente.</p>
-<div class="code"><pre class="code python"><a id="rest_code_9c9fad12e28f4890a2f60608b6228f25-1" name="rest_code_9c9fad12e28f4890a2f60608b6228f25-1" href="#rest_code_9c9fad12e28f4890a2f60608b6228f25-1"></a><span class="kn">from</span> <span class="nn">Tkinter</span> <span class="kn">import</span> <span class="o">*</span>
-<a id="rest_code_9c9fad12e28f4890a2f60608b6228f25-2" name="rest_code_9c9fad12e28f4890a2f60608b6228f25-2" href="#rest_code_9c9fad12e28f4890a2f60608b6228f25-2"></a><span class="n">root</span> <span class="o">=</span> <span class="n">Tk</span><span class="p">()</span>
-<a id="rest_code_9c9fad12e28f4890a2f60608b6228f25-3" name="rest_code_9c9fad12e28f4890a2f60608b6228f25-3" href="#rest_code_9c9fad12e28f4890a2f60608b6228f25-3"></a><span class="c1">#</span>
-<a id="rest_code_9c9fad12e28f4890a2f60608b6228f25-4" name="rest_code_9c9fad12e28f4890a2f60608b6228f25-4" href="#rest_code_9c9fad12e28f4890a2f60608b6228f25-4"></a><span class="n">tkversion</span> <span class="o">=</span> <span class="n">root</span><span class="o">.</span><span class="n">tk</span><span class="o">.</span><span class="n">eval</span><span class="p">(</span><span class="s1">'info patchlevel'</span><span class="p">)</span>
-<a id="rest_code_9c9fad12e28f4890a2f60608b6228f25-5" name="rest_code_9c9fad12e28f4890a2f60608b6228f25-5" href="#rest_code_9c9fad12e28f4890a2f60608b6228f25-5"></a><span class="nb">print</span> <span class="s1">'TK Version = '</span><span class="o">+</span><span class="n">tkversion</span>
-<a id="rest_code_9c9fad12e28f4890a2f60608b6228f25-6" name="rest_code_9c9fad12e28f4890a2f60608b6228f25-6" href="#rest_code_9c9fad12e28f4890a2f60608b6228f25-6"></a><span class="c1">#</span>
-<a id="rest_code_9c9fad12e28f4890a2f60608b6228f25-7" name="rest_code_9c9fad12e28f4890a2f60608b6228f25-7" href="#rest_code_9c9fad12e28f4890a2f60608b6228f25-7"></a><span class="n">root</span><span class="o">.</span><span class="n">mainloop</span><span class="p">()</span>
+<div class="code"><pre class="code python"><a id="rest_code_4dc9c66148d640e9a85b6ad0035514c0-1" name="rest_code_4dc9c66148d640e9a85b6ad0035514c0-1" href="#rest_code_4dc9c66148d640e9a85b6ad0035514c0-1"></a><span class="kn">from</span> <span class="nn">Tkinter</span> <span class="kn">import</span> <span class="o">*</span>
+<a id="rest_code_4dc9c66148d640e9a85b6ad0035514c0-2" name="rest_code_4dc9c66148d640e9a85b6ad0035514c0-2" href="#rest_code_4dc9c66148d640e9a85b6ad0035514c0-2"></a><span class="n">root</span> <span class="o">=</span> <span class="n">Tk</span><span class="p">()</span>
+<a id="rest_code_4dc9c66148d640e9a85b6ad0035514c0-3" name="rest_code_4dc9c66148d640e9a85b6ad0035514c0-3" href="#rest_code_4dc9c66148d640e9a85b6ad0035514c0-3"></a><span class="c1">#</span>
+<a id="rest_code_4dc9c66148d640e9a85b6ad0035514c0-4" name="rest_code_4dc9c66148d640e9a85b6ad0035514c0-4" href="#rest_code_4dc9c66148d640e9a85b6ad0035514c0-4"></a><span class="n">tkversion</span> <span class="o">=</span> <span class="n">root</span><span class="o">.</span><span class="n">tk</span><span class="o">.</span><span class="n">eval</span><span class="p">(</span><span class="s1">'info patchlevel'</span><span class="p">)</span>
+<a id="rest_code_4dc9c66148d640e9a85b6ad0035514c0-5" name="rest_code_4dc9c66148d640e9a85b6ad0035514c0-5" href="#rest_code_4dc9c66148d640e9a85b6ad0035514c0-5"></a><span class="nb">print</span> <span class="s1">'TK Version = '</span><span class="o">+</span><span class="n">tkversion</span>
+<a id="rest_code_4dc9c66148d640e9a85b6ad0035514c0-6" name="rest_code_4dc9c66148d640e9a85b6ad0035514c0-6" href="#rest_code_4dc9c66148d640e9a85b6ad0035514c0-6"></a><span class="c1">#</span>
+<a id="rest_code_4dc9c66148d640e9a85b6ad0035514c0-7" name="rest_code_4dc9c66148d640e9a85b6ad0035514c0-7" href="#rest_code_4dc9c66148d640e9a85b6ad0035514c0-7"></a><span class="n">root</span><span class="o">.</span><span class="n">mainloop</span><span class="p">()</span>
 </pre></div>
 <p>Ejemplo:</p>
-<div class="code"><pre class="code python"><a id="rest_code_9094fe4b30b44ad996146b35b3f4bd32-1" name="rest_code_9094fe4b30b44ad996146b35b3f4bd32-1" href="#rest_code_9094fe4b30b44ad996146b35b3f4bd32-1"></a><span class="n">juan</span><span class="nd">@maverick</span><span class="p">:</span><span class="o">~</span><span class="err">$</span> <span class="o">/</span><span class="n">usr</span><span class="o">/</span><span class="nb">bin</span><span class="o">/</span><span class="n">env</span> <span class="n">python</span> <span class="n">test</span><span class="o">.</span><span class="n">py</span>
-<a id="rest_code_9094fe4b30b44ad996146b35b3f4bd32-2" name="rest_code_9094fe4b30b44ad996146b35b3f4bd32-2" href="#rest_code_9094fe4b30b44ad996146b35b3f4bd32-2"></a><span class="n">TK</span> <span class="n">Version</span> <span class="o">=</span> <span class="mf">8.5.8</span>
+<div class="code"><pre class="code python"><a id="rest_code_fc056854a99c42559bc2e21d5f944c99-1" name="rest_code_fc056854a99c42559bc2e21d5f944c99-1" href="#rest_code_fc056854a99c42559bc2e21d5f944c99-1"></a><span class="n">juan</span><span class="nd">@maverick</span><span class="p">:</span><span class="o">~</span><span class="err">$</span> <span class="o">/</span><span class="n">usr</span><span class="o">/</span><span class="nb">bin</span><span class="o">/</span><span class="n">env</span> <span class="n">python</span> <span class="n">test</span><span class="o">.</span><span class="n">py</span>
+<a id="rest_code_fc056854a99c42559bc2e21d5f944c99-2" name="rest_code_fc056854a99c42559bc2e21d5f944c99-2" href="#rest_code_fc056854a99c42559bc2e21d5f944c99-2"></a><span class="n">TK</span> <span class="n">Version</span> <span class="o">=</span> <span class="mf">8.5.8</span>
 </pre></div>
     </div>    
 </div>
         <!--End of body content-->
 
-        <footer id="footer">
-            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+        <footer id="footer" class="bg-light"><span>Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow" target="_blanc">Nikola</a>         </span><span><a href="#" rel="nofollow" target="_blanc">Aporta a PyAr con tu donación</a><a></a></span>
             
         </footer>
 </div>

@@ -29,19 +29,19 @@ import sqlite3
 
 # leo DB #dbfn = 'allseqs-AR.db' dbfn = '../AS/allseqs-AS.db' conn = sqlite3.connect(dbfn) c = conn.cursor() # CREATE TABLES c.execute(&quot;SELECT ctgID,read">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+<meta property="article:published_time" content="2024-06-26T19:43:16-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
 
-<div class="container">
-    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+<div class="container px-0">
+    <nav id="main-navbar" class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="https://www.python.org.ar/">Navbar</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mr-auto">
+            <ul class="navbar-nav">
 <li class="nav-item">
                     <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
                 </li>
@@ -79,7 +79,7 @@ import sqlite3
     <div class="body-content">
         <!--Body content-->
         
-<div class="col-lg-12">
+<div class="col-lg-12 px-4 py-2">
     <div class="page-header">
         <div class="pull-right">
             <a href="https://github.com/PyAr/wiki/blob/master/pages/SebastianBassi/codigo1.rst" id="sourcelink" class="nav-link">Editar</a>
@@ -88,21 +88,20 @@ import sqlite3
     </div>
     <div class="e-content entry-content" itemprop="articleBody text">
     <p>PRUEBA:</p>
-<div class="code"><pre class="code python"><a id="rest_code_ddb764c9953f4aefa4d594b857e666b6-1" name="rest_code_ddb764c9953f4aefa4d594b857e666b6-1" href="#rest_code_ddb764c9953f4aefa4d594b857e666b6-1"></a><span class="ch">#!/usr/bin/env python</span>
-<a id="rest_code_ddb764c9953f4aefa4d594b857e666b6-2" name="rest_code_ddb764c9953f4aefa4d594b857e666b6-2" href="#rest_code_ddb764c9953f4aefa4d594b857e666b6-2"></a>
-<a id="rest_code_ddb764c9953f4aefa4d594b857e666b6-3" name="rest_code_ddb764c9953f4aefa4d594b857e666b6-3" href="#rest_code_ddb764c9953f4aefa4d594b857e666b6-3"></a><span class="kn">import</span> <span class="nn">sqlite3</span>
-<a id="rest_code_ddb764c9953f4aefa4d594b857e666b6-4" name="rest_code_ddb764c9953f4aefa4d594b857e666b6-4" href="#rest_code_ddb764c9953f4aefa4d594b857e666b6-4"></a>
-<a id="rest_code_ddb764c9953f4aefa4d594b857e666b6-5" name="rest_code_ddb764c9953f4aefa4d594b857e666b6-5" href="#rest_code_ddb764c9953f4aefa4d594b857e666b6-5"></a><span class="c1"># leo DB #dbfn = 'allseqs-AR.db' dbfn = '../AS/allseqs-AS.db' conn = sqlite3.connect(dbfn) c = conn.cursor() # CREATE TABLES c.execute("SELECT ctgID,read from ctgs") for row in c:</span>
-<a id="rest_code_ddb764c9953f4aefa4d594b857e666b6-6" name="rest_code_ddb764c9953f4aefa4d594b857e666b6-6" href="#rest_code_ddb764c9953f4aefa4d594b857e666b6-6"></a>
-<a id="rest_code_ddb764c9953f4aefa4d594b857e666b6-7" name="rest_code_ddb764c9953f4aefa4d594b857e666b6-7" href="#rest_code_ddb764c9953f4aefa4d594b857e666b6-7"></a><span class="n">ctg</span> <span class="o">=</span> <span class="n">row</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="n">lib</span> <span class="o">=</span> <span class="n">row</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="s1">'-'</span><span class="p">)[</span><span class="mi">0</span><span class="p">][</span><span class="o">-</span><span class="mi">3</span><span class="p">:]</span>
+<div class="code"><pre class="code python"><a id="rest_code_fcd5b996a17c4ed0a32577a036d90027-1" name="rest_code_fcd5b996a17c4ed0a32577a036d90027-1" href="#rest_code_fcd5b996a17c4ed0a32577a036d90027-1"></a><span class="ch">#!/usr/bin/env python</span>
+<a id="rest_code_fcd5b996a17c4ed0a32577a036d90027-2" name="rest_code_fcd5b996a17c4ed0a32577a036d90027-2" href="#rest_code_fcd5b996a17c4ed0a32577a036d90027-2"></a>
+<a id="rest_code_fcd5b996a17c4ed0a32577a036d90027-3" name="rest_code_fcd5b996a17c4ed0a32577a036d90027-3" href="#rest_code_fcd5b996a17c4ed0a32577a036d90027-3"></a><span class="kn">import</span> <span class="nn">sqlite3</span>
+<a id="rest_code_fcd5b996a17c4ed0a32577a036d90027-4" name="rest_code_fcd5b996a17c4ed0a32577a036d90027-4" href="#rest_code_fcd5b996a17c4ed0a32577a036d90027-4"></a>
+<a id="rest_code_fcd5b996a17c4ed0a32577a036d90027-5" name="rest_code_fcd5b996a17c4ed0a32577a036d90027-5" href="#rest_code_fcd5b996a17c4ed0a32577a036d90027-5"></a><span class="c1"># leo DB #dbfn = 'allseqs-AR.db' dbfn = '../AS/allseqs-AS.db' conn = sqlite3.connect(dbfn) c = conn.cursor() # CREATE TABLES c.execute("SELECT ctgID,read from ctgs") for row in c:</span>
+<a id="rest_code_fcd5b996a17c4ed0a32577a036d90027-6" name="rest_code_fcd5b996a17c4ed0a32577a036d90027-6" href="#rest_code_fcd5b996a17c4ed0a32577a036d90027-6"></a>
+<a id="rest_code_fcd5b996a17c4ed0a32577a036d90027-7" name="rest_code_fcd5b996a17c4ed0a32577a036d90027-7" href="#rest_code_fcd5b996a17c4ed0a32577a036d90027-7"></a><span class="n">ctg</span> <span class="o">=</span> <span class="n">row</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="n">lib</span> <span class="o">=</span> <span class="n">row</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="s1">'-'</span><span class="p">)[</span><span class="mi">0</span><span class="p">][</span><span class="o">-</span><span class="mi">3</span><span class="p">:]</span>
 </pre></div>
 <p>klkl</p>
     </div>    
 </div>
         <!--End of body content-->
 
-        <footer id="footer">
-            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+        <footer id="footer" class="bg-light"><span>Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow" target="_blanc">Nikola</a>         </span><span><a href="#" rel="nofollow" target="_blanc">Aporta a PyAr con tu donación</a><a></a></span>
             
         </footer>
 </div>

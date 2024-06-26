@@ -30,19 +30,19 @@ from Tkinter import *
 root = Tk()
 label = La">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+<meta property="article:published_time" content="2024-06-26T19:43:16-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
 
-<div class="container">
-    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+<div class="container px-0">
+    <nav id="main-navbar" class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="https://www.python.org.ar/">Navbar</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mr-auto">
+            <ul class="navbar-nav">
 <li class="nav-item">
                     <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
                 </li>
@@ -80,7 +80,7 @@ label = La">
     <div class="body-content">
         <!--Body content-->
         
-<div class="col-lg-12">
+<div class="col-lg-12 px-4 py-2">
     <div class="page-header">
         <div class="pull-right">
             <a href="https://github.com/PyAr/wiki/blob/master/pages/recetario/tkscrollwhell.rst" id="sourcelink" class="nav-link">Editar</a>
@@ -89,35 +89,34 @@ label = La">
     </div>
     <div class="e-content entry-content" itemprop="articleBody text">
     <p>Usando la rueda de Scroll del ratón con TK. Ejemplo simple con un poco de imaginación puede manejar más cosas.</p>
-<div class="code"><pre class="code python"><a id="rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-1" name="rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-1" href="#rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-1"></a><span class="ch">#!/usr/bin/env python</span>
-<a id="rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-2" name="rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-2" href="#rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-2"></a><span class="c1">#-*- coding:utf-8 -*-</span>
-<a id="rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-3" name="rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-3" href="#rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-3"></a>
-<a id="rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-4" name="rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-4" href="#rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-4"></a><span class="kn">from</span> <span class="nn">Tkinter</span> <span class="kn">import</span> <span class="o">*</span>
-<a id="rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-5" name="rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-5" href="#rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-5"></a><span class="n">root</span> <span class="o">=</span> <span class="n">Tk</span><span class="p">()</span>
-<a id="rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-6" name="rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-6" href="#rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-6"></a><span class="n">label</span> <span class="o">=</span> <span class="n">Label</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">text</span><span class="o">=</span><span class="s1">'Elija su Sexo usando la Rueda Scroll del Raton:'</span><span class="p">)</span>
-<a id="rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-7" name="rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-7" href="#rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-7"></a><span class="n">label</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
-<a id="rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-8" name="rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-8" href="#rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-8"></a><span class="n">optionlist</span> <span class="o">=</span> <span class="p">(</span><span class="s2">"Femenino"</span><span class="p">,</span> <span class="s2">"Masculino"</span><span class="p">)</span>
-<a id="rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-9" name="rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-9" href="#rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-9"></a><span class="n">var</span> <span class="o">=</span> <span class="n">StringVar</span><span class="p">()</span>
-<a id="rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-10" name="rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-10" href="#rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-10"></a><span class="n">var</span><span class="o">.</span><span class="n">set</span><span class="p">(</span><span class="n">optionlist</span><span class="p">[</span><span class="mi">0</span><span class="p">])</span>
-<a id="rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-11" name="rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-11" href="#rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-11"></a><span class="n">optmen</span> <span class="o">=</span> <span class="n">OptionMenu</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">var</span><span class="p">,</span> <span class="s2">"Femenino"</span><span class="p">,</span> <span class="s2">"Masculino"</span><span class="p">)</span>
-<a id="rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-12" name="rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-12" href="#rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-12"></a><span class="c1">#</span>
-<a id="rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-13" name="rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-13" href="#rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-13"></a><span class="k">def</span> <span class="nf">mouse_wheel</span><span class="p">(</span><span class="n">event</span><span class="p">):</span>  <span class="c1"># responde a la rueda de scroll</span>
-<a id="rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-14" name="rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-14" href="#rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-14"></a>        <span class="k">if</span> <span class="n">event</span><span class="o">.</span><span class="n">num</span> <span class="o">==</span> <span class="mi">5</span> <span class="ow">or</span> <span class="n">event</span><span class="o">.</span><span class="n">delta</span> <span class="o">==</span> <span class="o">-</span><span class="mi">120</span><span class="p">:</span>
-<a id="rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-15" name="rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-15" href="#rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-15"></a>            <span class="n">var</span><span class="o">.</span><span class="n">set</span><span class="p">(</span><span class="n">optionlist</span><span class="p">[</span><span class="mi">0</span><span class="p">])</span>
-<a id="rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-16" name="rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-16" href="#rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-16"></a>        <span class="k">if</span> <span class="n">event</span><span class="o">.</span><span class="n">num</span> <span class="o">==</span> <span class="mi">4</span> <span class="ow">or</span> <span class="n">event</span><span class="o">.</span><span class="n">delta</span> <span class="o">==</span> <span class="mi">120</span><span class="p">:</span>
-<a id="rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-17" name="rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-17" href="#rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-17"></a>            <span class="n">var</span><span class="o">.</span><span class="n">set</span><span class="p">(</span><span class="n">optionlist</span><span class="p">[</span><span class="mi">1</span><span class="p">])</span>
-<a id="rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-18" name="rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-18" href="#rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-18"></a><span class="c1">#</span>
-<a id="rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-19" name="rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-19" href="#rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-19"></a><span class="n">optmen</span><span class="o">.</span><span class="n">bind</span><span class="p">(</span><span class="s2">"&lt;Button-4&gt;"</span><span class="p">,</span> <span class="n">mouse_wheel</span><span class="p">)</span>
-<a id="rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-20" name="rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-20" href="#rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-20"></a><span class="n">optmen</span><span class="o">.</span><span class="n">bind</span><span class="p">(</span><span class="s2">"&lt;Button-5&gt;"</span><span class="p">,</span> <span class="n">mouse_wheel</span><span class="p">)</span>
-<a id="rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-21" name="rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-21" href="#rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-21"></a><span class="n">optmen</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
-<a id="rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-22" name="rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-22" href="#rest_code_3eb014a27a1f4300b6eff57c3cd14ca5-22"></a><span class="n">root</span><span class="o">.</span><span class="n">mainloop</span><span class="p">()</span>
+<div class="code"><pre class="code python"><a id="rest_code_93df5811dd6c436d8d0f637b1cb04173-1" name="rest_code_93df5811dd6c436d8d0f637b1cb04173-1" href="#rest_code_93df5811dd6c436d8d0f637b1cb04173-1"></a><span class="ch">#!/usr/bin/env python</span>
+<a id="rest_code_93df5811dd6c436d8d0f637b1cb04173-2" name="rest_code_93df5811dd6c436d8d0f637b1cb04173-2" href="#rest_code_93df5811dd6c436d8d0f637b1cb04173-2"></a><span class="c1">#-*- coding:utf-8 -*-</span>
+<a id="rest_code_93df5811dd6c436d8d0f637b1cb04173-3" name="rest_code_93df5811dd6c436d8d0f637b1cb04173-3" href="#rest_code_93df5811dd6c436d8d0f637b1cb04173-3"></a>
+<a id="rest_code_93df5811dd6c436d8d0f637b1cb04173-4" name="rest_code_93df5811dd6c436d8d0f637b1cb04173-4" href="#rest_code_93df5811dd6c436d8d0f637b1cb04173-4"></a><span class="kn">from</span> <span class="nn">Tkinter</span> <span class="kn">import</span> <span class="o">*</span>
+<a id="rest_code_93df5811dd6c436d8d0f637b1cb04173-5" name="rest_code_93df5811dd6c436d8d0f637b1cb04173-5" href="#rest_code_93df5811dd6c436d8d0f637b1cb04173-5"></a><span class="n">root</span> <span class="o">=</span> <span class="n">Tk</span><span class="p">()</span>
+<a id="rest_code_93df5811dd6c436d8d0f637b1cb04173-6" name="rest_code_93df5811dd6c436d8d0f637b1cb04173-6" href="#rest_code_93df5811dd6c436d8d0f637b1cb04173-6"></a><span class="n">label</span> <span class="o">=</span> <span class="n">Label</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">text</span><span class="o">=</span><span class="s1">'Elija su Sexo usando la Rueda Scroll del Raton:'</span><span class="p">)</span>
+<a id="rest_code_93df5811dd6c436d8d0f637b1cb04173-7" name="rest_code_93df5811dd6c436d8d0f637b1cb04173-7" href="#rest_code_93df5811dd6c436d8d0f637b1cb04173-7"></a><span class="n">label</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+<a id="rest_code_93df5811dd6c436d8d0f637b1cb04173-8" name="rest_code_93df5811dd6c436d8d0f637b1cb04173-8" href="#rest_code_93df5811dd6c436d8d0f637b1cb04173-8"></a><span class="n">optionlist</span> <span class="o">=</span> <span class="p">(</span><span class="s2">"Femenino"</span><span class="p">,</span> <span class="s2">"Masculino"</span><span class="p">)</span>
+<a id="rest_code_93df5811dd6c436d8d0f637b1cb04173-9" name="rest_code_93df5811dd6c436d8d0f637b1cb04173-9" href="#rest_code_93df5811dd6c436d8d0f637b1cb04173-9"></a><span class="n">var</span> <span class="o">=</span> <span class="n">StringVar</span><span class="p">()</span>
+<a id="rest_code_93df5811dd6c436d8d0f637b1cb04173-10" name="rest_code_93df5811dd6c436d8d0f637b1cb04173-10" href="#rest_code_93df5811dd6c436d8d0f637b1cb04173-10"></a><span class="n">var</span><span class="o">.</span><span class="n">set</span><span class="p">(</span><span class="n">optionlist</span><span class="p">[</span><span class="mi">0</span><span class="p">])</span>
+<a id="rest_code_93df5811dd6c436d8d0f637b1cb04173-11" name="rest_code_93df5811dd6c436d8d0f637b1cb04173-11" href="#rest_code_93df5811dd6c436d8d0f637b1cb04173-11"></a><span class="n">optmen</span> <span class="o">=</span> <span class="n">OptionMenu</span><span class="p">(</span><span class="n">root</span><span class="p">,</span> <span class="n">var</span><span class="p">,</span> <span class="s2">"Femenino"</span><span class="p">,</span> <span class="s2">"Masculino"</span><span class="p">)</span>
+<a id="rest_code_93df5811dd6c436d8d0f637b1cb04173-12" name="rest_code_93df5811dd6c436d8d0f637b1cb04173-12" href="#rest_code_93df5811dd6c436d8d0f637b1cb04173-12"></a><span class="c1">#</span>
+<a id="rest_code_93df5811dd6c436d8d0f637b1cb04173-13" name="rest_code_93df5811dd6c436d8d0f637b1cb04173-13" href="#rest_code_93df5811dd6c436d8d0f637b1cb04173-13"></a><span class="k">def</span> <span class="nf">mouse_wheel</span><span class="p">(</span><span class="n">event</span><span class="p">):</span>  <span class="c1"># responde a la rueda de scroll</span>
+<a id="rest_code_93df5811dd6c436d8d0f637b1cb04173-14" name="rest_code_93df5811dd6c436d8d0f637b1cb04173-14" href="#rest_code_93df5811dd6c436d8d0f637b1cb04173-14"></a>        <span class="k">if</span> <span class="n">event</span><span class="o">.</span><span class="n">num</span> <span class="o">==</span> <span class="mi">5</span> <span class="ow">or</span> <span class="n">event</span><span class="o">.</span><span class="n">delta</span> <span class="o">==</span> <span class="o">-</span><span class="mi">120</span><span class="p">:</span>
+<a id="rest_code_93df5811dd6c436d8d0f637b1cb04173-15" name="rest_code_93df5811dd6c436d8d0f637b1cb04173-15" href="#rest_code_93df5811dd6c436d8d0f637b1cb04173-15"></a>            <span class="n">var</span><span class="o">.</span><span class="n">set</span><span class="p">(</span><span class="n">optionlist</span><span class="p">[</span><span class="mi">0</span><span class="p">])</span>
+<a id="rest_code_93df5811dd6c436d8d0f637b1cb04173-16" name="rest_code_93df5811dd6c436d8d0f637b1cb04173-16" href="#rest_code_93df5811dd6c436d8d0f637b1cb04173-16"></a>        <span class="k">if</span> <span class="n">event</span><span class="o">.</span><span class="n">num</span> <span class="o">==</span> <span class="mi">4</span> <span class="ow">or</span> <span class="n">event</span><span class="o">.</span><span class="n">delta</span> <span class="o">==</span> <span class="mi">120</span><span class="p">:</span>
+<a id="rest_code_93df5811dd6c436d8d0f637b1cb04173-17" name="rest_code_93df5811dd6c436d8d0f637b1cb04173-17" href="#rest_code_93df5811dd6c436d8d0f637b1cb04173-17"></a>            <span class="n">var</span><span class="o">.</span><span class="n">set</span><span class="p">(</span><span class="n">optionlist</span><span class="p">[</span><span class="mi">1</span><span class="p">])</span>
+<a id="rest_code_93df5811dd6c436d8d0f637b1cb04173-18" name="rest_code_93df5811dd6c436d8d0f637b1cb04173-18" href="#rest_code_93df5811dd6c436d8d0f637b1cb04173-18"></a><span class="c1">#</span>
+<a id="rest_code_93df5811dd6c436d8d0f637b1cb04173-19" name="rest_code_93df5811dd6c436d8d0f637b1cb04173-19" href="#rest_code_93df5811dd6c436d8d0f637b1cb04173-19"></a><span class="n">optmen</span><span class="o">.</span><span class="n">bind</span><span class="p">(</span><span class="s2">"&lt;Button-4&gt;"</span><span class="p">,</span> <span class="n">mouse_wheel</span><span class="p">)</span>
+<a id="rest_code_93df5811dd6c436d8d0f637b1cb04173-20" name="rest_code_93df5811dd6c436d8d0f637b1cb04173-20" href="#rest_code_93df5811dd6c436d8d0f637b1cb04173-20"></a><span class="n">optmen</span><span class="o">.</span><span class="n">bind</span><span class="p">(</span><span class="s2">"&lt;Button-5&gt;"</span><span class="p">,</span> <span class="n">mouse_wheel</span><span class="p">)</span>
+<a id="rest_code_93df5811dd6c436d8d0f637b1cb04173-21" name="rest_code_93df5811dd6c436d8d0f637b1cb04173-21" href="#rest_code_93df5811dd6c436d8d0f637b1cb04173-21"></a><span class="n">optmen</span><span class="o">.</span><span class="n">pack</span><span class="p">()</span>
+<a id="rest_code_93df5811dd6c436d8d0f637b1cb04173-22" name="rest_code_93df5811dd6c436d8d0f637b1cb04173-22" href="#rest_code_93df5811dd6c436d8d0f637b1cb04173-22"></a><span class="n">root</span><span class="o">.</span><span class="n">mainloop</span><span class="p">()</span>
 </pre></div>
     </div>    
 </div>
         <!--End of body content-->
 
-        <footer id="footer">
-            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+        <footer id="footer" class="bg-light"><span>Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow" target="_blanc">Nikola</a>         </span><span><a href="#" rel="nofollow" target="_blanc">Aporta a PyAr con tu donación</a><a></a></span>
             
         </footer>
 </div>

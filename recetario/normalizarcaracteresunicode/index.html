@@ -24,19 +24,19 @@ og: http://ogp.me/ns# article: http://ogp.me/ns/article#
 <meta property="og:url" content="https://wiki.python.org.ar/recetario/normalizarcaracteresunicode/">
 <meta property="og:description" content="Al efectuar búsquedas en Internet, estamos acostumbrados a que no se distinga entre mayúsculas y minúsculas, y que se ignoren los acentos de las palabras. Para hacer esto en Python, antes que nada nec">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+<meta property="article:published_time" content="2024-06-26T19:43:16-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
 
-<div class="container">
-    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+<div class="container px-0">
+    <nav id="main-navbar" class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="https://www.python.org.ar/">Navbar</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mr-auto">
+            <ul class="navbar-nav">
 <li class="nav-item">
                     <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
                 </li>
@@ -74,7 +74,7 @@ og: http://ogp.me/ns# article: http://ogp.me/ns/article#
     <div class="body-content">
         <!--Body content-->
         
-<div class="col-lg-12">
+<div class="col-lg-12 px-4 py-2">
     <div class="page-header">
         <div class="pull-right">
             <a href="https://github.com/PyAr/wiki/blob/master/pages/recetario/normalizarcaracteresunicode.rst" id="sourcelink" class="nav-link">Editar</a>
@@ -83,28 +83,28 @@ og: http://ogp.me/ns# article: http://ogp.me/ns/article#
     </div>
     <div class="e-content entry-content" itemprop="articleBody text">
     <p>Al efectuar búsquedas en Internet, estamos acostumbrados a que no se distinga entre mayúsculas y minúsculas, y que se ignoren los acentos de las palabras. Para hacer esto en Python, antes que nada necesitamos una función que convierta los strings a la forma especificada. Una que haga lo siguiente:</p>
-<div class="code"><pre class="code python"><a id="rest_code_1beb3555c98e4008aafcc0a44d1a9b00-1" name="rest_code_1beb3555c98e4008aafcc0a44d1a9b00-1" href="#rest_code_1beb3555c98e4008aafcc0a44d1a9b00-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">normalizar_string</span><span class="p">(</span><span class="sa">u</span><span class="s1">'Mónica Viñao'</span><span class="p">)</span>
-<a id="rest_code_1beb3555c98e4008aafcc0a44d1a9b00-2" name="rest_code_1beb3555c98e4008aafcc0a44d1a9b00-2" href="#rest_code_1beb3555c98e4008aafcc0a44d1a9b00-2"></a><span class="s1">'monica vinao'</span>
+<div class="code"><pre class="code python"><a id="rest_code_2c706d67eee141b8a15d984bcf6c77d1-1" name="rest_code_2c706d67eee141b8a15d984bcf6c77d1-1" href="#rest_code_2c706d67eee141b8a15d984bcf6c77d1-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">normalizar_string</span><span class="p">(</span><span class="sa">u</span><span class="s1">'Mónica Viñao'</span><span class="p">)</span>
+<a id="rest_code_2c706d67eee141b8a15d984bcf6c77d1-2" name="rest_code_2c706d67eee141b8a15d984bcf6c77d1-2" href="#rest_code_2c706d67eee141b8a15d984bcf6c77d1-2"></a><span class="s1">'monica vinao'</span>
 </pre></div>
 <section id="usando-unicodedata-normalize"><h2>Usando unicodedata.normalize</h2>
 <p>Unicode define equivalencias entre caracteres, o secuencias de caracteres, de los distintos estándares (ver <a class="reference external" href="http://en.wikipedia.org/wiki/Unicode_equivalence">http://en.wikipedia.org/wiki/Unicode_equivalence</a>). Y define formas normales a las que podemos llevar un texto. Entonces podemos lograr la transformación que queremos haciendo una normalización. Los caracteres se descomponen, ignorando la parte que no es ASCII:</p>
-<div class="code"><pre class="code python"><a id="rest_code_5704dda187e647ed9314bf7e5df96538-1" name="rest_code_5704dda187e647ed9314bf7e5df96538-1" href="#rest_code_5704dda187e647ed9314bf7e5df96538-1"></a><span class="ch">#!/usr/bin/env python</span>
-<a id="rest_code_5704dda187e647ed9314bf7e5df96538-2" name="rest_code_5704dda187e647ed9314bf7e5df96538-2" href="#rest_code_5704dda187e647ed9314bf7e5df96538-2"></a><span class="c1"># -*- coding: utf-8 -*-</span>
-<a id="rest_code_5704dda187e647ed9314bf7e5df96538-3" name="rest_code_5704dda187e647ed9314bf7e5df96538-3" href="#rest_code_5704dda187e647ed9314bf7e5df96538-3"></a>
-<a id="rest_code_5704dda187e647ed9314bf7e5df96538-4" name="rest_code_5704dda187e647ed9314bf7e5df96538-4" href="#rest_code_5704dda187e647ed9314bf7e5df96538-4"></a><span class="kn">from</span> <span class="nn">unicodedata</span> <span class="kn">import</span> <span class="n">normalize</span>
-<a id="rest_code_5704dda187e647ed9314bf7e5df96538-5" name="rest_code_5704dda187e647ed9314bf7e5df96538-5" href="#rest_code_5704dda187e647ed9314bf7e5df96538-5"></a>
-<a id="rest_code_5704dda187e647ed9314bf7e5df96538-6" name="rest_code_5704dda187e647ed9314bf7e5df96538-6" href="#rest_code_5704dda187e647ed9314bf7e5df96538-6"></a><span class="k">def</span> <span class="nf">normalizar_string</span><span class="p">(</span><span class="n">unicode_string</span><span class="p">):</span>
-<a id="rest_code_5704dda187e647ed9314bf7e5df96538-7" name="rest_code_5704dda187e647ed9314bf7e5df96538-7" href="#rest_code_5704dda187e647ed9314bf7e5df96538-7"></a><span class="w">    </span><span class="sa">u</span><span class="sd">"""Retorna unicode_string normalizado para efectuar una búsqueda.</span>
-<a id="rest_code_5704dda187e647ed9314bf7e5df96538-8" name="rest_code_5704dda187e647ed9314bf7e5df96538-8" href="#rest_code_5704dda187e647ed9314bf7e5df96538-8"></a>
-<a id="rest_code_5704dda187e647ed9314bf7e5df96538-9" name="rest_code_5704dda187e647ed9314bf7e5df96538-9" href="#rest_code_5704dda187e647ed9314bf7e5df96538-9"></a><span class="sd">    &gt;&gt;&gt; normalizar_string(u'Mónica Viñao')</span>
-<a id="rest_code_5704dda187e647ed9314bf7e5df96538-10" name="rest_code_5704dda187e647ed9314bf7e5df96538-10" href="#rest_code_5704dda187e647ed9314bf7e5df96538-10"></a><span class="sd">    'monica vinao'</span>
-<a id="rest_code_5704dda187e647ed9314bf7e5df96538-11" name="rest_code_5704dda187e647ed9314bf7e5df96538-11" href="#rest_code_5704dda187e647ed9314bf7e5df96538-11"></a>
-<a id="rest_code_5704dda187e647ed9314bf7e5df96538-12" name="rest_code_5704dda187e647ed9314bf7e5df96538-12" href="#rest_code_5704dda187e647ed9314bf7e5df96538-12"></a><span class="sd">    """</span>
-<a id="rest_code_5704dda187e647ed9314bf7e5df96538-13" name="rest_code_5704dda187e647ed9314bf7e5df96538-13" href="#rest_code_5704dda187e647ed9314bf7e5df96538-13"></a>    <span class="k">return</span> <span class="n">normalize</span><span class="p">(</span><span class="s1">'NFKD'</span><span class="p">,</span> <span class="n">unicode_string</span><span class="p">)</span><span class="o">.</span><span class="n">encode</span><span class="p">(</span><span class="s1">'ASCII'</span><span class="p">,</span> <span class="s1">'ignore'</span><span class="p">)</span><span class="o">.</span><span class="n">lower</span><span class="p">()</span>
-<a id="rest_code_5704dda187e647ed9314bf7e5df96538-14" name="rest_code_5704dda187e647ed9314bf7e5df96538-14" href="#rest_code_5704dda187e647ed9314bf7e5df96538-14"></a>
-<a id="rest_code_5704dda187e647ed9314bf7e5df96538-15" name="rest_code_5704dda187e647ed9314bf7e5df96538-15" href="#rest_code_5704dda187e647ed9314bf7e5df96538-15"></a><span class="k">if</span> <span class="vm">__name__</span> <span class="o">==</span> <span class="s2">"__main__"</span><span class="p">:</span>
-<a id="rest_code_5704dda187e647ed9314bf7e5df96538-16" name="rest_code_5704dda187e647ed9314bf7e5df96538-16" href="#rest_code_5704dda187e647ed9314bf7e5df96538-16"></a>    <span class="kn">import</span> <span class="nn">doctest</span>
-<a id="rest_code_5704dda187e647ed9314bf7e5df96538-17" name="rest_code_5704dda187e647ed9314bf7e5df96538-17" href="#rest_code_5704dda187e647ed9314bf7e5df96538-17"></a>    <span class="n">doctest</span><span class="o">.</span><span class="n">testmod</span><span class="p">()</span>
+<div class="code"><pre class="code python"><a id="rest_code_83abaec7ca2b428c80d8dba860b21cb2-1" name="rest_code_83abaec7ca2b428c80d8dba860b21cb2-1" href="#rest_code_83abaec7ca2b428c80d8dba860b21cb2-1"></a><span class="ch">#!/usr/bin/env python</span>
+<a id="rest_code_83abaec7ca2b428c80d8dba860b21cb2-2" name="rest_code_83abaec7ca2b428c80d8dba860b21cb2-2" href="#rest_code_83abaec7ca2b428c80d8dba860b21cb2-2"></a><span class="c1"># -*- coding: utf-8 -*-</span>
+<a id="rest_code_83abaec7ca2b428c80d8dba860b21cb2-3" name="rest_code_83abaec7ca2b428c80d8dba860b21cb2-3" href="#rest_code_83abaec7ca2b428c80d8dba860b21cb2-3"></a>
+<a id="rest_code_83abaec7ca2b428c80d8dba860b21cb2-4" name="rest_code_83abaec7ca2b428c80d8dba860b21cb2-4" href="#rest_code_83abaec7ca2b428c80d8dba860b21cb2-4"></a><span class="kn">from</span> <span class="nn">unicodedata</span> <span class="kn">import</span> <span class="n">normalize</span>
+<a id="rest_code_83abaec7ca2b428c80d8dba860b21cb2-5" name="rest_code_83abaec7ca2b428c80d8dba860b21cb2-5" href="#rest_code_83abaec7ca2b428c80d8dba860b21cb2-5"></a>
+<a id="rest_code_83abaec7ca2b428c80d8dba860b21cb2-6" name="rest_code_83abaec7ca2b428c80d8dba860b21cb2-6" href="#rest_code_83abaec7ca2b428c80d8dba860b21cb2-6"></a><span class="k">def</span> <span class="nf">normalizar_string</span><span class="p">(</span><span class="n">unicode_string</span><span class="p">):</span>
+<a id="rest_code_83abaec7ca2b428c80d8dba860b21cb2-7" name="rest_code_83abaec7ca2b428c80d8dba860b21cb2-7" href="#rest_code_83abaec7ca2b428c80d8dba860b21cb2-7"></a><span class="w">    </span><span class="sa">u</span><span class="sd">"""Retorna unicode_string normalizado para efectuar una búsqueda.</span>
+<a id="rest_code_83abaec7ca2b428c80d8dba860b21cb2-8" name="rest_code_83abaec7ca2b428c80d8dba860b21cb2-8" href="#rest_code_83abaec7ca2b428c80d8dba860b21cb2-8"></a>
+<a id="rest_code_83abaec7ca2b428c80d8dba860b21cb2-9" name="rest_code_83abaec7ca2b428c80d8dba860b21cb2-9" href="#rest_code_83abaec7ca2b428c80d8dba860b21cb2-9"></a><span class="sd">    &gt;&gt;&gt; normalizar_string(u'Mónica Viñao')</span>
+<a id="rest_code_83abaec7ca2b428c80d8dba860b21cb2-10" name="rest_code_83abaec7ca2b428c80d8dba860b21cb2-10" href="#rest_code_83abaec7ca2b428c80d8dba860b21cb2-10"></a><span class="sd">    'monica vinao'</span>
+<a id="rest_code_83abaec7ca2b428c80d8dba860b21cb2-11" name="rest_code_83abaec7ca2b428c80d8dba860b21cb2-11" href="#rest_code_83abaec7ca2b428c80d8dba860b21cb2-11"></a>
+<a id="rest_code_83abaec7ca2b428c80d8dba860b21cb2-12" name="rest_code_83abaec7ca2b428c80d8dba860b21cb2-12" href="#rest_code_83abaec7ca2b428c80d8dba860b21cb2-12"></a><span class="sd">    """</span>
+<a id="rest_code_83abaec7ca2b428c80d8dba860b21cb2-13" name="rest_code_83abaec7ca2b428c80d8dba860b21cb2-13" href="#rest_code_83abaec7ca2b428c80d8dba860b21cb2-13"></a>    <span class="k">return</span> <span class="n">normalize</span><span class="p">(</span><span class="s1">'NFKD'</span><span class="p">,</span> <span class="n">unicode_string</span><span class="p">)</span><span class="o">.</span><span class="n">encode</span><span class="p">(</span><span class="s1">'ASCII'</span><span class="p">,</span> <span class="s1">'ignore'</span><span class="p">)</span><span class="o">.</span><span class="n">lower</span><span class="p">()</span>
+<a id="rest_code_83abaec7ca2b428c80d8dba860b21cb2-14" name="rest_code_83abaec7ca2b428c80d8dba860b21cb2-14" href="#rest_code_83abaec7ca2b428c80d8dba860b21cb2-14"></a>
+<a id="rest_code_83abaec7ca2b428c80d8dba860b21cb2-15" name="rest_code_83abaec7ca2b428c80d8dba860b21cb2-15" href="#rest_code_83abaec7ca2b428c80d8dba860b21cb2-15"></a><span class="k">if</span> <span class="vm">__name__</span> <span class="o">==</span> <span class="s2">"__main__"</span><span class="p">:</span>
+<a id="rest_code_83abaec7ca2b428c80d8dba860b21cb2-16" name="rest_code_83abaec7ca2b428c80d8dba860b21cb2-16" href="#rest_code_83abaec7ca2b428c80d8dba860b21cb2-16"></a>    <span class="kn">import</span> <span class="nn">doctest</span>
+<a id="rest_code_83abaec7ca2b428c80d8dba860b21cb2-17" name="rest_code_83abaec7ca2b428c80d8dba860b21cb2-17" href="#rest_code_83abaec7ca2b428c80d8dba860b21cb2-17"></a>    <span class="n">doctest</span><span class="o">.</span><span class="n">testmod</span><span class="p">()</span>
 </pre></div>
 <p>¡Gracias a Martin Conte Mac Donell!</p>
 </section>
@@ -112,8 +112,7 @@ og: http://ogp.me/ns# article: http://ogp.me/ns/article#
 </div>
         <!--End of body content-->
 
-        <footer id="footer">
-            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+        <footer id="footer" class="bg-light"><span>Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow" target="_blanc">Nikola</a>         </span><span><a href="#" rel="nofollow" target="_blanc">Aporta a PyAr con tu donación</a><a></a></span>
             
         </footer>
 </div>

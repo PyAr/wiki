@@ -26,19 +26,19 @@ og: http://ogp.me/ns# article: http://ogp.me/ns/article#
 
 Nota: Si tu teclado es a Baterías (Bluetooth, Wireless), el uso intensivo de este Scri">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+<meta property="article:published_time" content="2024-06-26T19:43:16-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
 
-<div class="container">
-    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+<div class="container px-0">
+    <nav id="main-navbar" class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="https://www.python.org.ar/">Navbar</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mr-auto">
+            <ul class="navbar-nav">
 <li class="nav-item">
                     <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
                 </li>
@@ -76,7 +76,7 @@ Nota: Si tu teclado es a Baterías (Bluetooth, Wireless), el uso intensivo de es
     <div class="body-content">
         <!--Body content-->
         
-<div class="col-lg-12">
+<div class="col-lg-12 px-4 py-2">
     <div class="page-header">
         <div class="pull-right">
             <a href="https://github.com/PyAr/wiki/blob/master/pages/recetario/keyboardledsdemo.rst" id="sourcelink" class="nav-link">Editar</a>
@@ -88,39 +88,38 @@ Nota: Si tu teclado es a Baterías (Bluetooth, Wireless), el uso intensivo de es
 <li><p>Cómo controlar los 3 Leds del Teclado usando Python, ejemplo simple. Requiere Privilegios elevados en el equipo.</p></li>
 </ul>
 <p><strong>Nota:</strong> <em>Si tu teclado es a Baterías (Bluetooth, Wireless), el uso intensivo de este Script reducirá la duracion de las mismas.</em></p>
-<div class="code"><pre class="code python"><a id="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-1" name="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-1" href="#rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-1"></a><span class="ch">#!/usr/bin/env python</span>
-<a id="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-2" name="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-2" href="#rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-2"></a><span class="c1"># -*- coding: utf-8 -*-</span>
-<a id="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-3" name="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-3" href="#rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-3"></a><span class="c1">#</span>
-<a id="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-4" name="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-4" href="#rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-4"></a><span class="kn">import</span> <span class="nn">fcntl</span>
-<a id="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-5" name="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-5" href="#rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-5"></a><span class="kn">import</span> <span class="nn">os</span>
-<a id="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-6" name="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-6" href="#rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-6"></a><span class="kn">import</span> <span class="nn">time</span>
-<a id="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-7" name="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-7" href="#rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-7"></a>
-<a id="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-8" name="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-8" href="#rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-8"></a><span class="n">KDSETLED</span> <span class="o">=</span> <span class="mh">0x4B32</span>
-<a id="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-9" name="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-9" href="#rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-9"></a><span class="n">SCR_LED</span>  <span class="o">=</span> <span class="mh">0x01</span>
-<a id="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-10" name="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-10" href="#rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-10"></a><span class="n">NUM_LED</span>  <span class="o">=</span> <span class="mh">0x02</span>
-<a id="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-11" name="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-11" href="#rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-11"></a><span class="n">CAP_LED</span>  <span class="o">=</span> <span class="mh">0x04</span>
-<a id="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-12" name="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-12" href="#rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-12"></a>
-<a id="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-13" name="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-13" href="#rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-13"></a><span class="n">console_fd</span> <span class="o">=</span> <span class="n">os</span><span class="o">.</span><span class="n">open</span><span class="p">(</span><span class="s1">'/dev/console'</span><span class="p">,</span> <span class="n">os</span><span class="o">.</span><span class="n">O_NOCTTY</span><span class="p">)</span>
-<a id="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-14" name="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-14" href="#rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-14"></a>
-<a id="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-15" name="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-15" href="#rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-15"></a><span class="n">all_on</span> <span class="o">=</span> <span class="n">SCR_LED</span> <span class="o">|</span> <span class="n">NUM_LED</span> <span class="o">|</span> <span class="n">CAP_LED</span>
-<a id="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-16" name="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-16" href="#rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-16"></a><span class="n">all_off</span> <span class="o">=</span> <span class="mi">0</span>
-<a id="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-17" name="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-17" href="#rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-17"></a>
-<a id="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-18" name="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-18" href="#rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-18"></a><span class="k">while</span> <span class="mi">1</span><span class="p">:</span>
-<a id="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-19" name="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-19" href="#rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-19"></a>    <span class="n">fcntl</span><span class="o">.</span><span class="n">ioctl</span><span class="p">(</span><span class="n">console_fd</span><span class="p">,</span> <span class="n">KDSETLED</span><span class="p">,</span> <span class="n">all_on</span><span class="p">)</span>
-<a id="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-20" name="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-20" href="#rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-20"></a>    <span class="n">time</span><span class="o">.</span><span class="n">sleep</span><span class="p">(</span><span class="mf">0.1</span><span class="p">)</span> <span class="c1"># Aca se cambia el tiempo, o podria realizar una funcion mas compleja</span>
-<a id="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-21" name="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-21" href="#rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-21"></a>    <span class="n">fcntl</span><span class="o">.</span><span class="n">ioctl</span><span class="p">(</span><span class="n">console_fd</span><span class="p">,</span> <span class="n">KDSETLED</span><span class="p">,</span> <span class="n">all_off</span><span class="p">)</span>
-<a id="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-22" name="rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-22" href="#rest_code_c7ef9e2a4538469ab8553ca2b7d7d871-22"></a>    <span class="n">time</span><span class="o">.</span><span class="n">sleep</span><span class="p">(</span><span class="mf">0.1</span><span class="p">)</span> <span class="c1"># Here changes the Timming, or something more complex</span>
+<div class="code"><pre class="code python"><a id="rest_code_eeea863bb04e45fba970bcd1460a22de-1" name="rest_code_eeea863bb04e45fba970bcd1460a22de-1" href="#rest_code_eeea863bb04e45fba970bcd1460a22de-1"></a><span class="ch">#!/usr/bin/env python</span>
+<a id="rest_code_eeea863bb04e45fba970bcd1460a22de-2" name="rest_code_eeea863bb04e45fba970bcd1460a22de-2" href="#rest_code_eeea863bb04e45fba970bcd1460a22de-2"></a><span class="c1"># -*- coding: utf-8 -*-</span>
+<a id="rest_code_eeea863bb04e45fba970bcd1460a22de-3" name="rest_code_eeea863bb04e45fba970bcd1460a22de-3" href="#rest_code_eeea863bb04e45fba970bcd1460a22de-3"></a><span class="c1">#</span>
+<a id="rest_code_eeea863bb04e45fba970bcd1460a22de-4" name="rest_code_eeea863bb04e45fba970bcd1460a22de-4" href="#rest_code_eeea863bb04e45fba970bcd1460a22de-4"></a><span class="kn">import</span> <span class="nn">fcntl</span>
+<a id="rest_code_eeea863bb04e45fba970bcd1460a22de-5" name="rest_code_eeea863bb04e45fba970bcd1460a22de-5" href="#rest_code_eeea863bb04e45fba970bcd1460a22de-5"></a><span class="kn">import</span> <span class="nn">os</span>
+<a id="rest_code_eeea863bb04e45fba970bcd1460a22de-6" name="rest_code_eeea863bb04e45fba970bcd1460a22de-6" href="#rest_code_eeea863bb04e45fba970bcd1460a22de-6"></a><span class="kn">import</span> <span class="nn">time</span>
+<a id="rest_code_eeea863bb04e45fba970bcd1460a22de-7" name="rest_code_eeea863bb04e45fba970bcd1460a22de-7" href="#rest_code_eeea863bb04e45fba970bcd1460a22de-7"></a>
+<a id="rest_code_eeea863bb04e45fba970bcd1460a22de-8" name="rest_code_eeea863bb04e45fba970bcd1460a22de-8" href="#rest_code_eeea863bb04e45fba970bcd1460a22de-8"></a><span class="n">KDSETLED</span> <span class="o">=</span> <span class="mh">0x4B32</span>
+<a id="rest_code_eeea863bb04e45fba970bcd1460a22de-9" name="rest_code_eeea863bb04e45fba970bcd1460a22de-9" href="#rest_code_eeea863bb04e45fba970bcd1460a22de-9"></a><span class="n">SCR_LED</span>  <span class="o">=</span> <span class="mh">0x01</span>
+<a id="rest_code_eeea863bb04e45fba970bcd1460a22de-10" name="rest_code_eeea863bb04e45fba970bcd1460a22de-10" href="#rest_code_eeea863bb04e45fba970bcd1460a22de-10"></a><span class="n">NUM_LED</span>  <span class="o">=</span> <span class="mh">0x02</span>
+<a id="rest_code_eeea863bb04e45fba970bcd1460a22de-11" name="rest_code_eeea863bb04e45fba970bcd1460a22de-11" href="#rest_code_eeea863bb04e45fba970bcd1460a22de-11"></a><span class="n">CAP_LED</span>  <span class="o">=</span> <span class="mh">0x04</span>
+<a id="rest_code_eeea863bb04e45fba970bcd1460a22de-12" name="rest_code_eeea863bb04e45fba970bcd1460a22de-12" href="#rest_code_eeea863bb04e45fba970bcd1460a22de-12"></a>
+<a id="rest_code_eeea863bb04e45fba970bcd1460a22de-13" name="rest_code_eeea863bb04e45fba970bcd1460a22de-13" href="#rest_code_eeea863bb04e45fba970bcd1460a22de-13"></a><span class="n">console_fd</span> <span class="o">=</span> <span class="n">os</span><span class="o">.</span><span class="n">open</span><span class="p">(</span><span class="s1">'/dev/console'</span><span class="p">,</span> <span class="n">os</span><span class="o">.</span><span class="n">O_NOCTTY</span><span class="p">)</span>
+<a id="rest_code_eeea863bb04e45fba970bcd1460a22de-14" name="rest_code_eeea863bb04e45fba970bcd1460a22de-14" href="#rest_code_eeea863bb04e45fba970bcd1460a22de-14"></a>
+<a id="rest_code_eeea863bb04e45fba970bcd1460a22de-15" name="rest_code_eeea863bb04e45fba970bcd1460a22de-15" href="#rest_code_eeea863bb04e45fba970bcd1460a22de-15"></a><span class="n">all_on</span> <span class="o">=</span> <span class="n">SCR_LED</span> <span class="o">|</span> <span class="n">NUM_LED</span> <span class="o">|</span> <span class="n">CAP_LED</span>
+<a id="rest_code_eeea863bb04e45fba970bcd1460a22de-16" name="rest_code_eeea863bb04e45fba970bcd1460a22de-16" href="#rest_code_eeea863bb04e45fba970bcd1460a22de-16"></a><span class="n">all_off</span> <span class="o">=</span> <span class="mi">0</span>
+<a id="rest_code_eeea863bb04e45fba970bcd1460a22de-17" name="rest_code_eeea863bb04e45fba970bcd1460a22de-17" href="#rest_code_eeea863bb04e45fba970bcd1460a22de-17"></a>
+<a id="rest_code_eeea863bb04e45fba970bcd1460a22de-18" name="rest_code_eeea863bb04e45fba970bcd1460a22de-18" href="#rest_code_eeea863bb04e45fba970bcd1460a22de-18"></a><span class="k">while</span> <span class="mi">1</span><span class="p">:</span>
+<a id="rest_code_eeea863bb04e45fba970bcd1460a22de-19" name="rest_code_eeea863bb04e45fba970bcd1460a22de-19" href="#rest_code_eeea863bb04e45fba970bcd1460a22de-19"></a>    <span class="n">fcntl</span><span class="o">.</span><span class="n">ioctl</span><span class="p">(</span><span class="n">console_fd</span><span class="p">,</span> <span class="n">KDSETLED</span><span class="p">,</span> <span class="n">all_on</span><span class="p">)</span>
+<a id="rest_code_eeea863bb04e45fba970bcd1460a22de-20" name="rest_code_eeea863bb04e45fba970bcd1460a22de-20" href="#rest_code_eeea863bb04e45fba970bcd1460a22de-20"></a>    <span class="n">time</span><span class="o">.</span><span class="n">sleep</span><span class="p">(</span><span class="mf">0.1</span><span class="p">)</span> <span class="c1"># Aca se cambia el tiempo, o podria realizar una funcion mas compleja</span>
+<a id="rest_code_eeea863bb04e45fba970bcd1460a22de-21" name="rest_code_eeea863bb04e45fba970bcd1460a22de-21" href="#rest_code_eeea863bb04e45fba970bcd1460a22de-21"></a>    <span class="n">fcntl</span><span class="o">.</span><span class="n">ioctl</span><span class="p">(</span><span class="n">console_fd</span><span class="p">,</span> <span class="n">KDSETLED</span><span class="p">,</span> <span class="n">all_off</span><span class="p">)</span>
+<a id="rest_code_eeea863bb04e45fba970bcd1460a22de-22" name="rest_code_eeea863bb04e45fba970bcd1460a22de-22" href="#rest_code_eeea863bb04e45fba970bcd1460a22de-22"></a>    <span class="n">time</span><span class="o">.</span><span class="n">sleep</span><span class="p">(</span><span class="mf">0.1</span><span class="p">)</span> <span class="c1"># Here changes the Timming, or something more complex</span>
 </pre></div>
 <p><strong>Ejemplo:</strong></p>
-<div class="code"><pre class="code bash"><a id="rest_code_3ad604db346c4e19b5beea51f266b066-1" name="rest_code_3ad604db346c4e19b5beea51f266b066-1" href="#rest_code_3ad604db346c4e19b5beea51f266b066-1"></a>sudo<span class="w"> </span>/usr/bin/env<span class="w"> </span>python<span class="w"> </span>keyboardleds.py
+<div class="code"><pre class="code bash"><a id="rest_code_884474f08c584ddaa14a8399146815fd-1" name="rest_code_884474f08c584ddaa14a8399146815fd-1" href="#rest_code_884474f08c584ddaa14a8399146815fd-1"></a>sudo<span class="w"> </span>/usr/bin/env<span class="w"> </span>python<span class="w"> </span>keyboardleds.py
 </pre></div>
 <p><em>Disclaimer: el uso o no de SheBang/Declaracion de Encoding queda a criterio del usuario.</em></p>
     </div>    
 </div>
         <!--End of body content-->
 
-        <footer id="footer">
-            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+        <footer id="footer" class="bg-light"><span>Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow" target="_blanc">Nikola</a>         </span><span><a href="#" rel="nofollow" target="_blanc">Aporta a PyAr con tu donación</a><a></a></span>
             
         </footer>
 </div>

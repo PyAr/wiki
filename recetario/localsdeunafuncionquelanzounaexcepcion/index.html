@@ -26,19 +26,19 @@ og: http://ogp.me/ns# article: http://ogp.me/ns/article#
 En realidad son los locals de la funcion llamada.
 Lo uso para pasarle los locals de la funcion a un template de djan">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+<meta property="article:published_time" content="2024-06-26T19:43:16-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
 
-<div class="container">
-    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+<div class="container px-0">
+    <nav id="main-navbar" class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="https://www.python.org.ar/">Navbar</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mr-auto">
+            <ul class="navbar-nav">
 <li class="nav-item">
                     <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
                 </li>
@@ -76,7 +76,7 @@ Lo uso para pasarle los locals de la funcion a un template de djan">
     <div class="body-content">
         <!--Body content-->
         
-<div class="col-lg-12">
+<div class="col-lg-12 px-4 py-2">
     <div class="page-header">
         <div class="pull-right">
             <a href="https://github.com/PyAr/wiki/blob/master/pages/recetario/localsdeunafuncionquelanzounaexcepcion.rst" id="sourcelink" class="nav-link">Editar</a>
@@ -87,26 +87,25 @@ Lo uso para pasarle los locals de la funcion a un template de djan">
     <p>Ejemplo de cómo obtener las variables locales a la función que lanzo una exception.</p>
 <p>En realidad son los locals de la funcion llamada.</p>
 <p>Lo uso para pasarle los locals de la funcion a un template de django desde un decorador.</p>
-<div class="code"><pre class="code python"><a id="rest_code_21a7cfd853bb4a1e93fcac64fc7daff6-1" name="rest_code_21a7cfd853bb4a1e93fcac64fc7daff6-1" href="#rest_code_21a7cfd853bb4a1e93fcac64fc7daff6-1"></a><span class="kn">import</span> <span class="nn">inspect</span>
-<a id="rest_code_21a7cfd853bb4a1e93fcac64fc7daff6-2" name="rest_code_21a7cfd853bb4a1e93fcac64fc7daff6-2" href="#rest_code_21a7cfd853bb4a1e93fcac64fc7daff6-2"></a>
-<a id="rest_code_21a7cfd853bb4a1e93fcac64fc7daff6-3" name="rest_code_21a7cfd853bb4a1e93fcac64fc7daff6-3" href="#rest_code_21a7cfd853bb4a1e93fcac64fc7daff6-3"></a><span class="k">def</span> <span class="nf">fun</span><span class="p">():</span>
-<a id="rest_code_21a7cfd853bb4a1e93fcac64fc7daff6-4" name="rest_code_21a7cfd853bb4a1e93fcac64fc7daff6-4" href="#rest_code_21a7cfd853bb4a1e93fcac64fc7daff6-4"></a>    <span class="n">a</span><span class="p">,</span> <span class="n">b</span> <span class="o">=</span> <span class="mi">1</span><span class="p">,</span> <span class="s2">"dos"</span>
-<a id="rest_code_21a7cfd853bb4a1e93fcac64fc7daff6-5" name="rest_code_21a7cfd853bb4a1e93fcac64fc7daff6-5" href="#rest_code_21a7cfd853bb4a1e93fcac64fc7daff6-5"></a>
-<a id="rest_code_21a7cfd853bb4a1e93fcac64fc7daff6-6" name="rest_code_21a7cfd853bb4a1e93fcac64fc7daff6-6" href="#rest_code_21a7cfd853bb4a1e93fcac64fc7daff6-6"></a>    <span class="k">raise</span> <span class="ne">Exception</span><span class="p">(</span><span class="s2">"hi!"</span><span class="p">)</span>
-<a id="rest_code_21a7cfd853bb4a1e93fcac64fc7daff6-7" name="rest_code_21a7cfd853bb4a1e93fcac64fc7daff6-7" href="#rest_code_21a7cfd853bb4a1e93fcac64fc7daff6-7"></a>
-<a id="rest_code_21a7cfd853bb4a1e93fcac64fc7daff6-8" name="rest_code_21a7cfd853bb4a1e93fcac64fc7daff6-8" href="#rest_code_21a7cfd853bb4a1e93fcac64fc7daff6-8"></a><span class="k">try</span><span class="p">:</span>
-<a id="rest_code_21a7cfd853bb4a1e93fcac64fc7daff6-9" name="rest_code_21a7cfd853bb4a1e93fcac64fc7daff6-9" href="#rest_code_21a7cfd853bb4a1e93fcac64fc7daff6-9"></a>    <span class="n">fun</span><span class="p">()</span>
-<a id="rest_code_21a7cfd853bb4a1e93fcac64fc7daff6-10" name="rest_code_21a7cfd853bb4a1e93fcac64fc7daff6-10" href="#rest_code_21a7cfd853bb4a1e93fcac64fc7daff6-10"></a><span class="k">except</span> <span class="ne">Exception</span><span class="p">,</span> <span class="n">error</span><span class="p">:</span>
-<a id="rest_code_21a7cfd853bb4a1e93fcac64fc7daff6-11" name="rest_code_21a7cfd853bb4a1e93fcac64fc7daff6-11" href="#rest_code_21a7cfd853bb4a1e93fcac64fc7daff6-11"></a>    <span class="n">fun_frame</span> <span class="o">=</span> <span class="n">inspect</span><span class="o">.</span><span class="n">trace</span><span class="p">()[</span><span class="mi">1</span><span class="p">][</span><span class="mi">0</span><span class="p">]</span>
-<a id="rest_code_21a7cfd853bb4a1e93fcac64fc7daff6-12" name="rest_code_21a7cfd853bb4a1e93fcac64fc7daff6-12" href="#rest_code_21a7cfd853bb4a1e93fcac64fc7daff6-12"></a>    <span class="nb">print</span> <span class="s2">"locals in fun: "</span><span class="p">,</span> <span class="n">fun_frame</span><span class="o">.</span><span class="n">f_locals</span>
-<a id="rest_code_21a7cfd853bb4a1e93fcac64fc7daff6-13" name="rest_code_21a7cfd853bb4a1e93fcac64fc7daff6-13" href="#rest_code_21a7cfd853bb4a1e93fcac64fc7daff6-13"></a>    <span class="k">del</span> <span class="n">fun_frame</span>
+<div class="code"><pre class="code python"><a id="rest_code_41514666b14447a4a7d40385be1a8bc7-1" name="rest_code_41514666b14447a4a7d40385be1a8bc7-1" href="#rest_code_41514666b14447a4a7d40385be1a8bc7-1"></a><span class="kn">import</span> <span class="nn">inspect</span>
+<a id="rest_code_41514666b14447a4a7d40385be1a8bc7-2" name="rest_code_41514666b14447a4a7d40385be1a8bc7-2" href="#rest_code_41514666b14447a4a7d40385be1a8bc7-2"></a>
+<a id="rest_code_41514666b14447a4a7d40385be1a8bc7-3" name="rest_code_41514666b14447a4a7d40385be1a8bc7-3" href="#rest_code_41514666b14447a4a7d40385be1a8bc7-3"></a><span class="k">def</span> <span class="nf">fun</span><span class="p">():</span>
+<a id="rest_code_41514666b14447a4a7d40385be1a8bc7-4" name="rest_code_41514666b14447a4a7d40385be1a8bc7-4" href="#rest_code_41514666b14447a4a7d40385be1a8bc7-4"></a>    <span class="n">a</span><span class="p">,</span> <span class="n">b</span> <span class="o">=</span> <span class="mi">1</span><span class="p">,</span> <span class="s2">"dos"</span>
+<a id="rest_code_41514666b14447a4a7d40385be1a8bc7-5" name="rest_code_41514666b14447a4a7d40385be1a8bc7-5" href="#rest_code_41514666b14447a4a7d40385be1a8bc7-5"></a>
+<a id="rest_code_41514666b14447a4a7d40385be1a8bc7-6" name="rest_code_41514666b14447a4a7d40385be1a8bc7-6" href="#rest_code_41514666b14447a4a7d40385be1a8bc7-6"></a>    <span class="k">raise</span> <span class="ne">Exception</span><span class="p">(</span><span class="s2">"hi!"</span><span class="p">)</span>
+<a id="rest_code_41514666b14447a4a7d40385be1a8bc7-7" name="rest_code_41514666b14447a4a7d40385be1a8bc7-7" href="#rest_code_41514666b14447a4a7d40385be1a8bc7-7"></a>
+<a id="rest_code_41514666b14447a4a7d40385be1a8bc7-8" name="rest_code_41514666b14447a4a7d40385be1a8bc7-8" href="#rest_code_41514666b14447a4a7d40385be1a8bc7-8"></a><span class="k">try</span><span class="p">:</span>
+<a id="rest_code_41514666b14447a4a7d40385be1a8bc7-9" name="rest_code_41514666b14447a4a7d40385be1a8bc7-9" href="#rest_code_41514666b14447a4a7d40385be1a8bc7-9"></a>    <span class="n">fun</span><span class="p">()</span>
+<a id="rest_code_41514666b14447a4a7d40385be1a8bc7-10" name="rest_code_41514666b14447a4a7d40385be1a8bc7-10" href="#rest_code_41514666b14447a4a7d40385be1a8bc7-10"></a><span class="k">except</span> <span class="ne">Exception</span><span class="p">,</span> <span class="n">error</span><span class="p">:</span>
+<a id="rest_code_41514666b14447a4a7d40385be1a8bc7-11" name="rest_code_41514666b14447a4a7d40385be1a8bc7-11" href="#rest_code_41514666b14447a4a7d40385be1a8bc7-11"></a>    <span class="n">fun_frame</span> <span class="o">=</span> <span class="n">inspect</span><span class="o">.</span><span class="n">trace</span><span class="p">()[</span><span class="mi">1</span><span class="p">][</span><span class="mi">0</span><span class="p">]</span>
+<a id="rest_code_41514666b14447a4a7d40385be1a8bc7-12" name="rest_code_41514666b14447a4a7d40385be1a8bc7-12" href="#rest_code_41514666b14447a4a7d40385be1a8bc7-12"></a>    <span class="nb">print</span> <span class="s2">"locals in fun: "</span><span class="p">,</span> <span class="n">fun_frame</span><span class="o">.</span><span class="n">f_locals</span>
+<a id="rest_code_41514666b14447a4a7d40385be1a8bc7-13" name="rest_code_41514666b14447a4a7d40385be1a8bc7-13" href="#rest_code_41514666b14447a4a7d40385be1a8bc7-13"></a>    <span class="k">del</span> <span class="n">fun_frame</span>
 </pre></div>
     </div>    
 </div>
         <!--End of body content-->
 
-        <footer id="footer">
-            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+        <footer id="footer" class="bg-light"><span>Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow" target="_blanc">Nikola</a>         </span><span><a href="#" rel="nofollow" target="_blanc">Aporta a PyAr con tu donación</a><a></a></span>
             
         </footer>
 </div>

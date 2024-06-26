@@ -29,19 +29,19 @@ import uno
 def quien_soy():
     doc = XSCRIPTCONTEXT.getDocument(">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+<meta property="article:published_time" content="2024-06-26T19:43:16-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
 
-<div class="container">
-    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+<div class="container px-0">
+    <nav id="main-navbar" class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="https://www.python.org.ar/">Navbar</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mr-auto">
+            <ul class="navbar-nav">
 <li class="nav-item">
                     <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
                 </li>
@@ -79,7 +79,7 @@ def quien_soy():
     <div class="body-content">
         <!--Body content-->
         
-<div class="col-lg-12">
+<div class="col-lg-12 px-4 py-2">
     <div class="page-header">
         <div class="pull-right">
             <a href="https://github.com/PyAr/wiki/blob/master/pages/recetario/pyuno/miprimermacro.rst" id="sourcelink" class="nav-link">Editar</a>
@@ -88,50 +88,49 @@ def quien_soy():
     </div>
     <div class="e-content entry-content" itemprop="articleBody text">
     <p>La siguiente macro, detecta el tipo de documento (Calc, Writer, Draw, Impress, etc) desde el cual se ejecuta.</p>
-<div class="code"><pre class="code python"><a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-1" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-1" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-1"></a><span class="c1"># -*- coding: utf-8 -*-</span>
-<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-2" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-2" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-2"></a><span class="kn">import</span> <span class="nn">uno</span>
-<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-3" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-3" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-3"></a>
-<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-4" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-4" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-4"></a><span class="k">def</span> <span class="nf">quien_soy</span><span class="p">():</span>
-<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-5" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-5" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-5"></a>    <span class="n">doc</span> <span class="o">=</span> <span class="n">XSCRIPTCONTEXT</span><span class="o">.</span><span class="n">getDocument</span><span class="p">()</span>
-<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-6" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-6" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-6"></a>    <span class="n">msgbox</span><span class="p">(</span><span class="n">obtener_tipo</span><span class="p">(</span><span class="n">doc</span><span class="p">))</span>
-<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-7" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-7" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-7"></a>    <span class="k">return</span>
-<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-8" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-8" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-8"></a>
-<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-9" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-9" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-9"></a><span class="k">def</span> <span class="nf">obtener_tipo</span><span class="p">(</span><span class="n">doc</span><span class="p">):</span>
-<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-10" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-10" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-10"></a>    <span class="n">tipo</span> <span class="o">=</span> <span class="p">{</span><span class="s1">'com.sun.star.sheet.SpreadsheetDocument'</span><span class="p">:</span> <span class="s1">'Calc'</span><span class="p">,</span>
-<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-11" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-11" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-11"></a>            <span class="s1">'com.sun.star.text.TextDocument'</span><span class="p">:</span> <span class="s1">'Writer'</span><span class="p">,</span>
-<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-12" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-12" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-12"></a>            <span class="s1">'com.sun.star.presentation.PresentationDocument'</span><span class="p">:</span> <span class="s1">'Impress'</span><span class="p">,</span>
-<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-13" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-13" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-13"></a>            <span class="s1">'com.sun.star.drawing.DrawingDocument'</span><span class="p">:</span> <span class="s1">'Draw'</span><span class="p">,</span>
-<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-14" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-14" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-14"></a>            <span class="s1">'com.sun.star.sdb.OfficeDatabaseDocument'</span><span class="p">:</span> <span class="s1">'Base'</span><span class="p">,</span>
-<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-15" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-15" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-15"></a>            <span class="s1">'com.sun.star.formula.FormulaProperties'</span><span class="p">:</span> <span class="s1">'Math'</span><span class="p">,</span>
-<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-16" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-16" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-16"></a>            <span class="s1">'com.sun.star.script.BasicIDE'</span><span class="p">:</span> <span class="s1">'Basic'</span><span class="p">}</span>
-<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-17" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-17" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-17"></a>    <span class="c1"># iteramos entre los tipos de documentos</span>
-<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-18" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-18" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-18"></a>    <span class="k">for</span> <span class="n">t</span> <span class="ow">in</span> <span class="n">tipo</span><span class="p">:</span>
-<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-19" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-19" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-19"></a>        <span class="c1"># validamos si soporta el servicio</span>
-<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-20" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-20" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-20"></a>        <span class="k">if</span> <span class="n">doc</span><span class="o">.</span><span class="n">supportsService</span><span class="p">(</span><span class="n">t</span><span class="p">):</span>
-<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-21" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-21" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-21"></a>            <span class="c1"># devolvemos el tipo de documento</span>
-<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-22" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-22" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-22"></a>            <span class="k">return</span> <span class="s1">'Soy </span><span class="si">%s</span><span class="s1">'</span> <span class="o">%</span> <span class="n">tipo</span><span class="p">[</span><span class="n">t</span><span class="p">]</span>
-<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-23" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-23" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-23"></a>    <span class="c1"># si termina sin encontrar un tipo</span>
-<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-24" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-24" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-24"></a>    <span class="k">return</span> <span class="s1">'No se que tipo soy'</span>
-<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-25" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-25" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-25"></a>
-<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-26" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-26" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-26"></a><span class="k">def</span> <span class="nf">msgbox</span><span class="p">(</span><span class="n">message</span><span class="p">):</span>
-<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-27" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-27" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-27"></a>    <span class="n">ctx</span> <span class="o">=</span> <span class="n">uno</span><span class="o">.</span><span class="n">getComponentContext</span><span class="p">()</span>
-<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-28" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-28" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-28"></a>    <span class="n">sm</span> <span class="o">=</span> <span class="n">ctx</span><span class="o">.</span><span class="n">getServiceManager</span><span class="p">()</span>
-<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-29" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-29" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-29"></a>    <span class="n">toolkit</span> <span class="o">=</span> <span class="n">sm</span><span class="o">.</span><span class="n">createInstanceWithContext</span><span class="p">(</span><span class="s1">'com.sun.star.awt.Toolkit'</span><span class="p">,</span> <span class="n">ctx</span><span class="p">)</span>
-<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-30" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-30" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-30"></a>    <span class="n">msg</span> <span class="o">=</span> <span class="n">toolkit</span><span class="o">.</span><span class="n">createMessageBox</span><span class="p">(</span>
-<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-31" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-31" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-31"></a>                                <span class="n">toolkit</span><span class="o">.</span><span class="n">getDesktopWindow</span><span class="p">(),</span>
-<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-32" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-32" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-32"></a>                                <span class="s1">'infobox'</span><span class="p">,</span>
-<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-33" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-33" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-33"></a>                                <span class="mi">1</span><span class="p">,</span>
-<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-34" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-34" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-34"></a>                                <span class="s1">'UNOPython'</span><span class="p">,</span>
-<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-35" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-35" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-35"></a>                                <span class="nb">str</span><span class="p">(</span><span class="n">message</span><span class="p">))</span>
-<a id="rest_code_78da3748e2994b9f8d1c6ad291d73769-36" name="rest_code_78da3748e2994b9f8d1c6ad291d73769-36" href="#rest_code_78da3748e2994b9f8d1c6ad291d73769-36"></a>    <span class="k">return</span> <span class="n">msg</span><span class="o">.</span><span class="n">execute</span><span class="p">()</span>
+<div class="code"><pre class="code python"><a id="rest_code_20cc21ae05314f97989eea68ee148921-1" name="rest_code_20cc21ae05314f97989eea68ee148921-1" href="#rest_code_20cc21ae05314f97989eea68ee148921-1"></a><span class="c1"># -*- coding: utf-8 -*-</span>
+<a id="rest_code_20cc21ae05314f97989eea68ee148921-2" name="rest_code_20cc21ae05314f97989eea68ee148921-2" href="#rest_code_20cc21ae05314f97989eea68ee148921-2"></a><span class="kn">import</span> <span class="nn">uno</span>
+<a id="rest_code_20cc21ae05314f97989eea68ee148921-3" name="rest_code_20cc21ae05314f97989eea68ee148921-3" href="#rest_code_20cc21ae05314f97989eea68ee148921-3"></a>
+<a id="rest_code_20cc21ae05314f97989eea68ee148921-4" name="rest_code_20cc21ae05314f97989eea68ee148921-4" href="#rest_code_20cc21ae05314f97989eea68ee148921-4"></a><span class="k">def</span> <span class="nf">quien_soy</span><span class="p">():</span>
+<a id="rest_code_20cc21ae05314f97989eea68ee148921-5" name="rest_code_20cc21ae05314f97989eea68ee148921-5" href="#rest_code_20cc21ae05314f97989eea68ee148921-5"></a>    <span class="n">doc</span> <span class="o">=</span> <span class="n">XSCRIPTCONTEXT</span><span class="o">.</span><span class="n">getDocument</span><span class="p">()</span>
+<a id="rest_code_20cc21ae05314f97989eea68ee148921-6" name="rest_code_20cc21ae05314f97989eea68ee148921-6" href="#rest_code_20cc21ae05314f97989eea68ee148921-6"></a>    <span class="n">msgbox</span><span class="p">(</span><span class="n">obtener_tipo</span><span class="p">(</span><span class="n">doc</span><span class="p">))</span>
+<a id="rest_code_20cc21ae05314f97989eea68ee148921-7" name="rest_code_20cc21ae05314f97989eea68ee148921-7" href="#rest_code_20cc21ae05314f97989eea68ee148921-7"></a>    <span class="k">return</span>
+<a id="rest_code_20cc21ae05314f97989eea68ee148921-8" name="rest_code_20cc21ae05314f97989eea68ee148921-8" href="#rest_code_20cc21ae05314f97989eea68ee148921-8"></a>
+<a id="rest_code_20cc21ae05314f97989eea68ee148921-9" name="rest_code_20cc21ae05314f97989eea68ee148921-9" href="#rest_code_20cc21ae05314f97989eea68ee148921-9"></a><span class="k">def</span> <span class="nf">obtener_tipo</span><span class="p">(</span><span class="n">doc</span><span class="p">):</span>
+<a id="rest_code_20cc21ae05314f97989eea68ee148921-10" name="rest_code_20cc21ae05314f97989eea68ee148921-10" href="#rest_code_20cc21ae05314f97989eea68ee148921-10"></a>    <span class="n">tipo</span> <span class="o">=</span> <span class="p">{</span><span class="s1">'com.sun.star.sheet.SpreadsheetDocument'</span><span class="p">:</span> <span class="s1">'Calc'</span><span class="p">,</span>
+<a id="rest_code_20cc21ae05314f97989eea68ee148921-11" name="rest_code_20cc21ae05314f97989eea68ee148921-11" href="#rest_code_20cc21ae05314f97989eea68ee148921-11"></a>            <span class="s1">'com.sun.star.text.TextDocument'</span><span class="p">:</span> <span class="s1">'Writer'</span><span class="p">,</span>
+<a id="rest_code_20cc21ae05314f97989eea68ee148921-12" name="rest_code_20cc21ae05314f97989eea68ee148921-12" href="#rest_code_20cc21ae05314f97989eea68ee148921-12"></a>            <span class="s1">'com.sun.star.presentation.PresentationDocument'</span><span class="p">:</span> <span class="s1">'Impress'</span><span class="p">,</span>
+<a id="rest_code_20cc21ae05314f97989eea68ee148921-13" name="rest_code_20cc21ae05314f97989eea68ee148921-13" href="#rest_code_20cc21ae05314f97989eea68ee148921-13"></a>            <span class="s1">'com.sun.star.drawing.DrawingDocument'</span><span class="p">:</span> <span class="s1">'Draw'</span><span class="p">,</span>
+<a id="rest_code_20cc21ae05314f97989eea68ee148921-14" name="rest_code_20cc21ae05314f97989eea68ee148921-14" href="#rest_code_20cc21ae05314f97989eea68ee148921-14"></a>            <span class="s1">'com.sun.star.sdb.OfficeDatabaseDocument'</span><span class="p">:</span> <span class="s1">'Base'</span><span class="p">,</span>
+<a id="rest_code_20cc21ae05314f97989eea68ee148921-15" name="rest_code_20cc21ae05314f97989eea68ee148921-15" href="#rest_code_20cc21ae05314f97989eea68ee148921-15"></a>            <span class="s1">'com.sun.star.formula.FormulaProperties'</span><span class="p">:</span> <span class="s1">'Math'</span><span class="p">,</span>
+<a id="rest_code_20cc21ae05314f97989eea68ee148921-16" name="rest_code_20cc21ae05314f97989eea68ee148921-16" href="#rest_code_20cc21ae05314f97989eea68ee148921-16"></a>            <span class="s1">'com.sun.star.script.BasicIDE'</span><span class="p">:</span> <span class="s1">'Basic'</span><span class="p">}</span>
+<a id="rest_code_20cc21ae05314f97989eea68ee148921-17" name="rest_code_20cc21ae05314f97989eea68ee148921-17" href="#rest_code_20cc21ae05314f97989eea68ee148921-17"></a>    <span class="c1"># iteramos entre los tipos de documentos</span>
+<a id="rest_code_20cc21ae05314f97989eea68ee148921-18" name="rest_code_20cc21ae05314f97989eea68ee148921-18" href="#rest_code_20cc21ae05314f97989eea68ee148921-18"></a>    <span class="k">for</span> <span class="n">t</span> <span class="ow">in</span> <span class="n">tipo</span><span class="p">:</span>
+<a id="rest_code_20cc21ae05314f97989eea68ee148921-19" name="rest_code_20cc21ae05314f97989eea68ee148921-19" href="#rest_code_20cc21ae05314f97989eea68ee148921-19"></a>        <span class="c1"># validamos si soporta el servicio</span>
+<a id="rest_code_20cc21ae05314f97989eea68ee148921-20" name="rest_code_20cc21ae05314f97989eea68ee148921-20" href="#rest_code_20cc21ae05314f97989eea68ee148921-20"></a>        <span class="k">if</span> <span class="n">doc</span><span class="o">.</span><span class="n">supportsService</span><span class="p">(</span><span class="n">t</span><span class="p">):</span>
+<a id="rest_code_20cc21ae05314f97989eea68ee148921-21" name="rest_code_20cc21ae05314f97989eea68ee148921-21" href="#rest_code_20cc21ae05314f97989eea68ee148921-21"></a>            <span class="c1"># devolvemos el tipo de documento</span>
+<a id="rest_code_20cc21ae05314f97989eea68ee148921-22" name="rest_code_20cc21ae05314f97989eea68ee148921-22" href="#rest_code_20cc21ae05314f97989eea68ee148921-22"></a>            <span class="k">return</span> <span class="s1">'Soy </span><span class="si">%s</span><span class="s1">'</span> <span class="o">%</span> <span class="n">tipo</span><span class="p">[</span><span class="n">t</span><span class="p">]</span>
+<a id="rest_code_20cc21ae05314f97989eea68ee148921-23" name="rest_code_20cc21ae05314f97989eea68ee148921-23" href="#rest_code_20cc21ae05314f97989eea68ee148921-23"></a>    <span class="c1"># si termina sin encontrar un tipo</span>
+<a id="rest_code_20cc21ae05314f97989eea68ee148921-24" name="rest_code_20cc21ae05314f97989eea68ee148921-24" href="#rest_code_20cc21ae05314f97989eea68ee148921-24"></a>    <span class="k">return</span> <span class="s1">'No se que tipo soy'</span>
+<a id="rest_code_20cc21ae05314f97989eea68ee148921-25" name="rest_code_20cc21ae05314f97989eea68ee148921-25" href="#rest_code_20cc21ae05314f97989eea68ee148921-25"></a>
+<a id="rest_code_20cc21ae05314f97989eea68ee148921-26" name="rest_code_20cc21ae05314f97989eea68ee148921-26" href="#rest_code_20cc21ae05314f97989eea68ee148921-26"></a><span class="k">def</span> <span class="nf">msgbox</span><span class="p">(</span><span class="n">message</span><span class="p">):</span>
+<a id="rest_code_20cc21ae05314f97989eea68ee148921-27" name="rest_code_20cc21ae05314f97989eea68ee148921-27" href="#rest_code_20cc21ae05314f97989eea68ee148921-27"></a>    <span class="n">ctx</span> <span class="o">=</span> <span class="n">uno</span><span class="o">.</span><span class="n">getComponentContext</span><span class="p">()</span>
+<a id="rest_code_20cc21ae05314f97989eea68ee148921-28" name="rest_code_20cc21ae05314f97989eea68ee148921-28" href="#rest_code_20cc21ae05314f97989eea68ee148921-28"></a>    <span class="n">sm</span> <span class="o">=</span> <span class="n">ctx</span><span class="o">.</span><span class="n">getServiceManager</span><span class="p">()</span>
+<a id="rest_code_20cc21ae05314f97989eea68ee148921-29" name="rest_code_20cc21ae05314f97989eea68ee148921-29" href="#rest_code_20cc21ae05314f97989eea68ee148921-29"></a>    <span class="n">toolkit</span> <span class="o">=</span> <span class="n">sm</span><span class="o">.</span><span class="n">createInstanceWithContext</span><span class="p">(</span><span class="s1">'com.sun.star.awt.Toolkit'</span><span class="p">,</span> <span class="n">ctx</span><span class="p">)</span>
+<a id="rest_code_20cc21ae05314f97989eea68ee148921-30" name="rest_code_20cc21ae05314f97989eea68ee148921-30" href="#rest_code_20cc21ae05314f97989eea68ee148921-30"></a>    <span class="n">msg</span> <span class="o">=</span> <span class="n">toolkit</span><span class="o">.</span><span class="n">createMessageBox</span><span class="p">(</span>
+<a id="rest_code_20cc21ae05314f97989eea68ee148921-31" name="rest_code_20cc21ae05314f97989eea68ee148921-31" href="#rest_code_20cc21ae05314f97989eea68ee148921-31"></a>                                <span class="n">toolkit</span><span class="o">.</span><span class="n">getDesktopWindow</span><span class="p">(),</span>
+<a id="rest_code_20cc21ae05314f97989eea68ee148921-32" name="rest_code_20cc21ae05314f97989eea68ee148921-32" href="#rest_code_20cc21ae05314f97989eea68ee148921-32"></a>                                <span class="s1">'infobox'</span><span class="p">,</span>
+<a id="rest_code_20cc21ae05314f97989eea68ee148921-33" name="rest_code_20cc21ae05314f97989eea68ee148921-33" href="#rest_code_20cc21ae05314f97989eea68ee148921-33"></a>                                <span class="mi">1</span><span class="p">,</span>
+<a id="rest_code_20cc21ae05314f97989eea68ee148921-34" name="rest_code_20cc21ae05314f97989eea68ee148921-34" href="#rest_code_20cc21ae05314f97989eea68ee148921-34"></a>                                <span class="s1">'UNOPython'</span><span class="p">,</span>
+<a id="rest_code_20cc21ae05314f97989eea68ee148921-35" name="rest_code_20cc21ae05314f97989eea68ee148921-35" href="#rest_code_20cc21ae05314f97989eea68ee148921-35"></a>                                <span class="nb">str</span><span class="p">(</span><span class="n">message</span><span class="p">))</span>
+<a id="rest_code_20cc21ae05314f97989eea68ee148921-36" name="rest_code_20cc21ae05314f97989eea68ee148921-36" href="#rest_code_20cc21ae05314f97989eea68ee148921-36"></a>    <span class="k">return</span> <span class="n">msg</span><span class="o">.</span><span class="n">execute</span><span class="p">()</span>
 </pre></div>
 <p>Para saber donde guardar estas macros, mira el wiki de Apache OpenOffice: <a class="reference external" href="http://wiki.openoffice.org/wiki/ES/Manuales/GuiaAOO/TemasAvanzados/Macros/Python">http://wiki.openoffice.org/wiki/ES/Manuales/GuiaAOO/TemasAvanzados/Macros/Python</a></p>
     </div>    
 </div>
         <!--End of body content-->
 
-        <footer id="footer">
-            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+        <footer id="footer" class="bg-light"><span>Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow" target="_blanc">Nikola</a>         </span><span><a href="#" rel="nofollow" target="_blanc">Aporta a PyAr con tu donación</a><a></a></span>
             
         </footer>
 </div>

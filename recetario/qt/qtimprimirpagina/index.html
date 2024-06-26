@@ -33,19 +33,19 @@ app = QApplication(sys.argv)
 web = QWebView()
  web.load(QU">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+<meta property="article:published_time" content="2024-06-26T19:43:16-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
 
-<div class="container">
-    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+<div class="container px-0">
+    <nav id="main-navbar" class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="https://www.python.org.ar/">Navbar</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mr-auto">
+            <ul class="navbar-nav">
 <li class="nav-item">
                     <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
                 </li>
@@ -83,7 +83,7 @@ web = QWebView()
     <div class="body-content">
         <!--Body content-->
         
-<div class="col-lg-12">
+<div class="col-lg-12 px-4 py-2">
     <div class="page-header">
         <div class="pull-right">
             <a href="https://github.com/PyAr/wiki/blob/master/pages/recetario/qt/qtimprimirpagina.rst" id="sourcelink" class="nav-link">Editar</a>
@@ -92,38 +92,37 @@ web = QWebView()
     </div>
     <div class="e-content entry-content" itemprop="articleBody text">
     <p>Ejemplo de cómo imprimir una página web a pdf.</p>
-<div class="code"><pre class="code python"><a id="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-1" name="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-1" href="#rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-1"></a><span class="kn">import</span> <span class="nn">sys</span>
-<a id="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-2" name="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-2" href="#rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-2"></a><span class="kn">from</span> <span class="nn">PyQt4.QtCore</span> <span class="kn">import</span> <span class="o">*</span>
-<a id="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-3" name="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-3" href="#rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-3"></a><span class="kn">from</span> <span class="nn">PyQt4.QtGui</span> <span class="kn">import</span> <span class="o">*</span>
-<a id="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-4" name="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-4" href="#rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-4"></a><span class="kn">from</span> <span class="nn">PyQt4.QtWebKit</span> <span class="kn">import</span> <span class="o">*</span>
-<a id="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-5" name="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-5" href="#rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-5"></a>
-<a id="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-6" name="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-6" href="#rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-6"></a><span class="n">app</span> <span class="o">=</span> <span class="n">QApplication</span><span class="p">(</span><span class="n">sys</span><span class="o">.</span><span class="n">argv</span><span class="p">)</span>
-<a id="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-7" name="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-7" href="#rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-7"></a>
-<a id="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-8" name="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-8" href="#rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-8"></a><span class="n">web</span> <span class="o">=</span> <span class="n">QWebView</span><span class="p">()</span>
-<a id="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-9" name="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-9" href="#rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-9"></a> <span class="n">web</span><span class="o">.</span><span class="n">load</span><span class="p">(</span><span class="n">QUrl</span><span class="p">(</span><span class="s2">"http://www.google.com"</span><span class="p">))</span>
-<a id="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-10" name="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-10" href="#rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-10"></a>
-<a id="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-11" name="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-11" href="#rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-11"></a><span class="c1">#web.show()</span>
-<a id="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-12" name="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-12" href="#rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-12"></a>
-<a id="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-13" name="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-13" href="#rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-13"></a><span class="n">printer</span> <span class="o">=</span> <span class="n">QPrinter</span><span class="p">()</span>
-<a id="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-14" name="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-14" href="#rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-14"></a><span class="n">printer</span><span class="o">.</span><span class="n">setPageSize</span><span class="p">(</span><span class="n">QPrinter</span><span class="o">.</span><span class="n">A4</span><span class="p">)</span>
-<a id="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-15" name="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-15" href="#rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-15"></a><span class="n">printer</span><span class="o">.</span><span class="n">setOutputFormat</span><span class="p">(</span><span class="n">QPrinter</span><span class="o">.</span><span class="n">PdfFormat</span><span class="p">)</span>
-<a id="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-16" name="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-16" href="#rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-16"></a><span class="n">printer</span><span class="o">.</span><span class="n">setOutputFileName</span><span class="p">(</span><span class="s2">"test.pdf"</span><span class="p">)</span>
-<a id="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-17" name="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-17" href="#rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-17"></a>
-<a id="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-18" name="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-18" href="#rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-18"></a><span class="k">def</span> <span class="nf">convertIt</span><span class="p">():</span>
-<a id="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-19" name="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-19" href="#rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-19"></a>   <span class="n">web</span><span class="o">.</span><span class="n">print_</span><span class="p">(</span><span class="n">printer</span><span class="p">)</span>
-<a id="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-20" name="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-20" href="#rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-20"></a>   <span class="nb">print</span> <span class="s2">"Pdf generated"</span>
-<a id="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-21" name="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-21" href="#rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-21"></a>   <span class="n">QApplication</span><span class="o">.</span><span class="n">exit</span><span class="p">()</span>
-<a id="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-22" name="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-22" href="#rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-22"></a>
-<a id="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-23" name="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-23" href="#rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-23"></a><span class="n">QObject</span><span class="o">.</span><span class="n">connect</span><span class="p">(</span><span class="n">web</span><span class="p">,</span> <span class="n">SIGNAL</span><span class="p">(</span><span class="s2">"loadFinished(bool)"</span><span class="p">),</span> <span class="n">convertIt</span><span class="p">)</span>
-<a id="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-24" name="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-24" href="#rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-24"></a>
-<a id="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-25" name="rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-25" href="#rest_code_d1abd7e8a18844d0bde8b2cd1ba23fa5-25"></a><span class="n">sys</span><span class="o">.</span><span class="n">exit</span><span class="p">(</span><span class="n">app</span><span class="o">.</span><span class="n">exec_</span><span class="p">())</span>
+<div class="code"><pre class="code python"><a id="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-1" name="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-1" href="#rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-1"></a><span class="kn">import</span> <span class="nn">sys</span>
+<a id="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-2" name="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-2" href="#rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-2"></a><span class="kn">from</span> <span class="nn">PyQt4.QtCore</span> <span class="kn">import</span> <span class="o">*</span>
+<a id="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-3" name="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-3" href="#rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-3"></a><span class="kn">from</span> <span class="nn">PyQt4.QtGui</span> <span class="kn">import</span> <span class="o">*</span>
+<a id="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-4" name="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-4" href="#rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-4"></a><span class="kn">from</span> <span class="nn">PyQt4.QtWebKit</span> <span class="kn">import</span> <span class="o">*</span>
+<a id="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-5" name="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-5" href="#rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-5"></a>
+<a id="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-6" name="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-6" href="#rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-6"></a><span class="n">app</span> <span class="o">=</span> <span class="n">QApplication</span><span class="p">(</span><span class="n">sys</span><span class="o">.</span><span class="n">argv</span><span class="p">)</span>
+<a id="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-7" name="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-7" href="#rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-7"></a>
+<a id="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-8" name="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-8" href="#rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-8"></a><span class="n">web</span> <span class="o">=</span> <span class="n">QWebView</span><span class="p">()</span>
+<a id="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-9" name="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-9" href="#rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-9"></a> <span class="n">web</span><span class="o">.</span><span class="n">load</span><span class="p">(</span><span class="n">QUrl</span><span class="p">(</span><span class="s2">"http://www.google.com"</span><span class="p">))</span>
+<a id="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-10" name="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-10" href="#rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-10"></a>
+<a id="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-11" name="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-11" href="#rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-11"></a><span class="c1">#web.show()</span>
+<a id="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-12" name="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-12" href="#rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-12"></a>
+<a id="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-13" name="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-13" href="#rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-13"></a><span class="n">printer</span> <span class="o">=</span> <span class="n">QPrinter</span><span class="p">()</span>
+<a id="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-14" name="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-14" href="#rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-14"></a><span class="n">printer</span><span class="o">.</span><span class="n">setPageSize</span><span class="p">(</span><span class="n">QPrinter</span><span class="o">.</span><span class="n">A4</span><span class="p">)</span>
+<a id="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-15" name="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-15" href="#rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-15"></a><span class="n">printer</span><span class="o">.</span><span class="n">setOutputFormat</span><span class="p">(</span><span class="n">QPrinter</span><span class="o">.</span><span class="n">PdfFormat</span><span class="p">)</span>
+<a id="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-16" name="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-16" href="#rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-16"></a><span class="n">printer</span><span class="o">.</span><span class="n">setOutputFileName</span><span class="p">(</span><span class="s2">"test.pdf"</span><span class="p">)</span>
+<a id="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-17" name="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-17" href="#rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-17"></a>
+<a id="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-18" name="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-18" href="#rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-18"></a><span class="k">def</span> <span class="nf">convertIt</span><span class="p">():</span>
+<a id="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-19" name="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-19" href="#rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-19"></a>   <span class="n">web</span><span class="o">.</span><span class="n">print_</span><span class="p">(</span><span class="n">printer</span><span class="p">)</span>
+<a id="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-20" name="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-20" href="#rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-20"></a>   <span class="nb">print</span> <span class="s2">"Pdf generated"</span>
+<a id="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-21" name="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-21" href="#rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-21"></a>   <span class="n">QApplication</span><span class="o">.</span><span class="n">exit</span><span class="p">()</span>
+<a id="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-22" name="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-22" href="#rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-22"></a>
+<a id="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-23" name="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-23" href="#rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-23"></a><span class="n">QObject</span><span class="o">.</span><span class="n">connect</span><span class="p">(</span><span class="n">web</span><span class="p">,</span> <span class="n">SIGNAL</span><span class="p">(</span><span class="s2">"loadFinished(bool)"</span><span class="p">),</span> <span class="n">convertIt</span><span class="p">)</span>
+<a id="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-24" name="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-24" href="#rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-24"></a>
+<a id="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-25" name="rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-25" href="#rest_code_f2b3fa24405645d3a4bc6f6daf6ea449-25"></a><span class="n">sys</span><span class="o">.</span><span class="n">exit</span><span class="p">(</span><span class="n">app</span><span class="o">.</span><span class="n">exec_</span><span class="p">())</span>
 </pre></div>
     </div>    
 </div>
         <!--End of body content-->
 
-        <footer id="footer">
-            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+        <footer id="footer" class="bg-light"><span>Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow" target="_blanc">Nikola</a>         </span><span><a href="#" rel="nofollow" target="_blanc">Aporta a PyAr con tu donación</a><a></a></span>
             
         </footer>
 </div>

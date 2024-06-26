@@ -25,19 +25,19 @@ og: http://ogp.me/ns# article: http://ogp.me/ns/article#
 <meta property="og:description" content="Cómo revisar si tenemos conexión a internet.
 Para no depender de programas externos (tené en cuenta que, por ejemplo, ping seguramente no recibe los mismos parámetros en Linux que en Windows), podés i">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+<meta property="article:published_time" content="2024-06-26T19:43:16-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
 
-<div class="container">
-    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+<div class="container px-0">
+    <nav id="main-navbar" class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="https://www.python.org.ar/">Navbar</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mr-auto">
+            <ul class="navbar-nav">
 <li class="nav-item">
                     <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
                 </li>
@@ -75,7 +75,7 @@ Para no depender de programas externos (tené en cuenta que, por ejemplo, ping s
     <div class="body-content">
         <!--Body content-->
         
-<div class="col-lg-12">
+<div class="col-lg-12 px-4 py-2">
     <div class="page-header">
         <div class="pull-right">
             <a href="https://github.com/PyAr/wiki/blob/master/pages/recetario/revisarconexion.rst" id="sourcelink" class="nav-link">Editar</a>
@@ -86,22 +86,21 @@ Para no depender de programas externos (tené en cuenta que, por ejemplo, ping s
     <p>Cómo revisar si tenemos conexión a internet.</p>
 <p>Para no depender de programas externos (tené en cuenta que, por ejemplo, ping seguramente no recibe los mismos parámetros en Linux que en Windows), podés intentar abrir un socket a algún servidor externo y enviar algo.</p>
 <p>Si el DNS resuelve podés chequear con socket.gethostbyname('google.com').</p>
-<div class="code"><pre class="code python"><a id="rest_code_92fdcb9480224861be4f935cc0fe1640-1" name="rest_code_92fdcb9480224861be4f935cc0fe1640-1" href="#rest_code_92fdcb9480224861be4f935cc0fe1640-1"></a><span class="kn">import</span> <span class="nn">socket</span>
-<a id="rest_code_92fdcb9480224861be4f935cc0fe1640-2" name="rest_code_92fdcb9480224861be4f935cc0fe1640-2" href="#rest_code_92fdcb9480224861be4f935cc0fe1640-2"></a><span class="k">try</span><span class="p">:</span>
-<a id="rest_code_92fdcb9480224861be4f935cc0fe1640-3" name="rest_code_92fdcb9480224861be4f935cc0fe1640-3" href="#rest_code_92fdcb9480224861be4f935cc0fe1640-3"></a>    <span class="n">socket</span><span class="o">.</span><span class="n">gethostbyname</span><span class="p">(</span><span class="s1">'google.com'</span><span class="p">)</span>
-<a id="rest_code_92fdcb9480224861be4f935cc0fe1640-4" name="rest_code_92fdcb9480224861be4f935cc0fe1640-4" href="#rest_code_92fdcb9480224861be4f935cc0fe1640-4"></a>    <span class="n">c</span> <span class="o">=</span> <span class="n">socket</span><span class="o">.</span><span class="n">create_connection</span><span class="p">((</span><span class="s1">'google.com'</span><span class="p">,</span> <span class="mi">80</span><span class="p">),</span> <span class="mi">1</span><span class="p">)</span>
-<a id="rest_code_92fdcb9480224861be4f935cc0fe1640-5" name="rest_code_92fdcb9480224861be4f935cc0fe1640-5" href="#rest_code_92fdcb9480224861be4f935cc0fe1640-5"></a>    <span class="n">c</span><span class="o">.</span><span class="n">close</span><span class="p">()</span>
-<a id="rest_code_92fdcb9480224861be4f935cc0fe1640-6" name="rest_code_92fdcb9480224861be4f935cc0fe1640-6" href="#rest_code_92fdcb9480224861be4f935cc0fe1640-6"></a><span class="k">except</span> <span class="n">socket</span><span class="o">.</span><span class="n">gaierror</span><span class="p">:</span>
-<a id="rest_code_92fdcb9480224861be4f935cc0fe1640-7" name="rest_code_92fdcb9480224861be4f935cc0fe1640-7" href="#rest_code_92fdcb9480224861be4f935cc0fe1640-7"></a>    <span class="nb">print</span> <span class="s2">"DNS error"</span>
-<a id="rest_code_92fdcb9480224861be4f935cc0fe1640-8" name="rest_code_92fdcb9480224861be4f935cc0fe1640-8" href="#rest_code_92fdcb9480224861be4f935cc0fe1640-8"></a><span class="k">except</span> <span class="n">socket</span><span class="o">.</span><span class="n">error</span><span class="p">:</span>
-<a id="rest_code_92fdcb9480224861be4f935cc0fe1640-9" name="rest_code_92fdcb9480224861be4f935cc0fe1640-9" href="#rest_code_92fdcb9480224861be4f935cc0fe1640-9"></a>    <span class="nb">print</span> <span class="s2">"Connection error"</span>
+<div class="code"><pre class="code python"><a id="rest_code_a85cebbd2a604827be19dd651ca561fe-1" name="rest_code_a85cebbd2a604827be19dd651ca561fe-1" href="#rest_code_a85cebbd2a604827be19dd651ca561fe-1"></a><span class="kn">import</span> <span class="nn">socket</span>
+<a id="rest_code_a85cebbd2a604827be19dd651ca561fe-2" name="rest_code_a85cebbd2a604827be19dd651ca561fe-2" href="#rest_code_a85cebbd2a604827be19dd651ca561fe-2"></a><span class="k">try</span><span class="p">:</span>
+<a id="rest_code_a85cebbd2a604827be19dd651ca561fe-3" name="rest_code_a85cebbd2a604827be19dd651ca561fe-3" href="#rest_code_a85cebbd2a604827be19dd651ca561fe-3"></a>    <span class="n">socket</span><span class="o">.</span><span class="n">gethostbyname</span><span class="p">(</span><span class="s1">'google.com'</span><span class="p">)</span>
+<a id="rest_code_a85cebbd2a604827be19dd651ca561fe-4" name="rest_code_a85cebbd2a604827be19dd651ca561fe-4" href="#rest_code_a85cebbd2a604827be19dd651ca561fe-4"></a>    <span class="n">c</span> <span class="o">=</span> <span class="n">socket</span><span class="o">.</span><span class="n">create_connection</span><span class="p">((</span><span class="s1">'google.com'</span><span class="p">,</span> <span class="mi">80</span><span class="p">),</span> <span class="mi">1</span><span class="p">)</span>
+<a id="rest_code_a85cebbd2a604827be19dd651ca561fe-5" name="rest_code_a85cebbd2a604827be19dd651ca561fe-5" href="#rest_code_a85cebbd2a604827be19dd651ca561fe-5"></a>    <span class="n">c</span><span class="o">.</span><span class="n">close</span><span class="p">()</span>
+<a id="rest_code_a85cebbd2a604827be19dd651ca561fe-6" name="rest_code_a85cebbd2a604827be19dd651ca561fe-6" href="#rest_code_a85cebbd2a604827be19dd651ca561fe-6"></a><span class="k">except</span> <span class="n">socket</span><span class="o">.</span><span class="n">gaierror</span><span class="p">:</span>
+<a id="rest_code_a85cebbd2a604827be19dd651ca561fe-7" name="rest_code_a85cebbd2a604827be19dd651ca561fe-7" href="#rest_code_a85cebbd2a604827be19dd651ca561fe-7"></a>    <span class="nb">print</span> <span class="s2">"DNS error"</span>
+<a id="rest_code_a85cebbd2a604827be19dd651ca561fe-8" name="rest_code_a85cebbd2a604827be19dd651ca561fe-8" href="#rest_code_a85cebbd2a604827be19dd651ca561fe-8"></a><span class="k">except</span> <span class="n">socket</span><span class="o">.</span><span class="n">error</span><span class="p">:</span>
+<a id="rest_code_a85cebbd2a604827be19dd651ca561fe-9" name="rest_code_a85cebbd2a604827be19dd651ca561fe-9" href="#rest_code_a85cebbd2a604827be19dd651ca561fe-9"></a>    <span class="nb">print</span> <span class="s2">"Connection error"</span>
 </pre></div>
     </div>    
 </div>
         <!--End of body content-->
 
-        <footer id="footer">
-            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+        <footer id="footer" class="bg-light"><span>Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow" target="_blanc">Nikola</a>         </span><span><a href="#" rel="nofollow" target="_blanc">Aporta a PyAr con tu donación</a><a></a></span>
             
         </footer>
 </div>

@@ -28,19 +28,19 @@ for line in open('/proc/net/dev', 'r'):
     if interface in line:
         data = line.split('%s:' % interf">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+<meta property="article:published_time" content="2024-06-26T19:43:16-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
 
-<div class="container">
-    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+<div class="container px-0">
+    <nav id="main-navbar" class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="https://www.python.org.ar/">Navbar</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mr-auto">
+            <ul class="navbar-nav">
 <li class="nav-item">
                     <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
                 </li>
@@ -78,7 +78,7 @@ for line in open('/proc/net/dev', 'r'):
     <div class="body-content">
         <!--Body content-->
         
-<div class="col-lg-12">
+<div class="col-lg-12 px-4 py-2">
     <div class="page-header">
         <div class="pull-right">
             <a href="https://github.com/PyAr/wiki/blob/master/pages/recetario/obtenerbytestransferidos.rst" id="sourcelink" class="nav-link">Editar</a>
@@ -87,25 +87,24 @@ for line in open('/proc/net/dev', 'r'):
     </div>
     <div class="e-content entry-content" itemprop="articleBody text">
     <p>Imprime la cantidad de datos en Bytes transferidos en la interfaz indicada.</p>
-<div class="code"><pre class="code python"><a id="rest_code_6cb0e42447a6408da1a37783ced6135f-1" name="rest_code_6cb0e42447a6408da1a37783ced6135f-1" href="#rest_code_6cb0e42447a6408da1a37783ced6135f-1"></a><span class="n">interface</span><span class="o">=</span> <span class="s1">'eth0'</span>
-<a id="rest_code_6cb0e42447a6408da1a37783ced6135f-2" name="rest_code_6cb0e42447a6408da1a37783ced6135f-2" href="#rest_code_6cb0e42447a6408da1a37783ced6135f-2"></a><span class="k">for</span> <span class="n">line</span> <span class="ow">in</span> <span class="nb">open</span><span class="p">(</span><span class="s1">'/proc/net/dev'</span><span class="p">,</span> <span class="s1">'r'</span><span class="p">):</span>
-<a id="rest_code_6cb0e42447a6408da1a37783ced6135f-3" name="rest_code_6cb0e42447a6408da1a37783ced6135f-3" href="#rest_code_6cb0e42447a6408da1a37783ced6135f-3"></a>    <span class="k">if</span> <span class="n">interface</span> <span class="ow">in</span> <span class="n">line</span><span class="p">:</span>
-<a id="rest_code_6cb0e42447a6408da1a37783ced6135f-4" name="rest_code_6cb0e42447a6408da1a37783ced6135f-4" href="#rest_code_6cb0e42447a6408da1a37783ced6135f-4"></a>        <span class="n">data</span> <span class="o">=</span> <span class="n">line</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="s1">'</span><span class="si">%s</span><span class="s1">:'</span> <span class="o">%</span> <span class="n">interface</span><span class="p">)[</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">split</span><span class="p">()</span>
-<a id="rest_code_6cb0e42447a6408da1a37783ced6135f-5" name="rest_code_6cb0e42447a6408da1a37783ced6135f-5" href="#rest_code_6cb0e42447a6408da1a37783ced6135f-5"></a>        <span class="n">rx_bytes</span><span class="p">,</span> <span class="n">tx_bytes</span> <span class="o">=</span> <span class="p">(</span><span class="n">data</span><span class="p">[</span><span class="mi">0</span><span class="p">],</span> <span class="n">data</span><span class="p">[</span><span class="mi">8</span><span class="p">])</span>
-<a id="rest_code_6cb0e42447a6408da1a37783ced6135f-6" name="rest_code_6cb0e42447a6408da1a37783ced6135f-6" href="#rest_code_6cb0e42447a6408da1a37783ced6135f-6"></a><span class="nb">print</span> <span class="s1">'</span><span class="si">%s</span><span class="s1"> bytes received'</span> <span class="o">%</span> <span class="n">rx_bytes</span>
-<a id="rest_code_6cb0e42447a6408da1a37783ced6135f-7" name="rest_code_6cb0e42447a6408da1a37783ced6135f-7" href="#rest_code_6cb0e42447a6408da1a37783ced6135f-7"></a><span class="nb">print</span> <span class="s1">'</span><span class="si">%s</span><span class="s1"> bytes sent'</span> <span class="o">%</span> <span class="n">tx_bytes</span>
+<div class="code"><pre class="code python"><a id="rest_code_ab7e3517d97e42149f617c13447af5fd-1" name="rest_code_ab7e3517d97e42149f617c13447af5fd-1" href="#rest_code_ab7e3517d97e42149f617c13447af5fd-1"></a><span class="n">interface</span><span class="o">=</span> <span class="s1">'eth0'</span>
+<a id="rest_code_ab7e3517d97e42149f617c13447af5fd-2" name="rest_code_ab7e3517d97e42149f617c13447af5fd-2" href="#rest_code_ab7e3517d97e42149f617c13447af5fd-2"></a><span class="k">for</span> <span class="n">line</span> <span class="ow">in</span> <span class="nb">open</span><span class="p">(</span><span class="s1">'/proc/net/dev'</span><span class="p">,</span> <span class="s1">'r'</span><span class="p">):</span>
+<a id="rest_code_ab7e3517d97e42149f617c13447af5fd-3" name="rest_code_ab7e3517d97e42149f617c13447af5fd-3" href="#rest_code_ab7e3517d97e42149f617c13447af5fd-3"></a>    <span class="k">if</span> <span class="n">interface</span> <span class="ow">in</span> <span class="n">line</span><span class="p">:</span>
+<a id="rest_code_ab7e3517d97e42149f617c13447af5fd-4" name="rest_code_ab7e3517d97e42149f617c13447af5fd-4" href="#rest_code_ab7e3517d97e42149f617c13447af5fd-4"></a>        <span class="n">data</span> <span class="o">=</span> <span class="n">line</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="s1">'</span><span class="si">%s</span><span class="s1">:'</span> <span class="o">%</span> <span class="n">interface</span><span class="p">)[</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">split</span><span class="p">()</span>
+<a id="rest_code_ab7e3517d97e42149f617c13447af5fd-5" name="rest_code_ab7e3517d97e42149f617c13447af5fd-5" href="#rest_code_ab7e3517d97e42149f617c13447af5fd-5"></a>        <span class="n">rx_bytes</span><span class="p">,</span> <span class="n">tx_bytes</span> <span class="o">=</span> <span class="p">(</span><span class="n">data</span><span class="p">[</span><span class="mi">0</span><span class="p">],</span> <span class="n">data</span><span class="p">[</span><span class="mi">8</span><span class="p">])</span>
+<a id="rest_code_ab7e3517d97e42149f617c13447af5fd-6" name="rest_code_ab7e3517d97e42149f617c13447af5fd-6" href="#rest_code_ab7e3517d97e42149f617c13447af5fd-6"></a><span class="nb">print</span> <span class="s1">'</span><span class="si">%s</span><span class="s1"> bytes received'</span> <span class="o">%</span> <span class="n">rx_bytes</span>
+<a id="rest_code_ab7e3517d97e42149f617c13447af5fd-7" name="rest_code_ab7e3517d97e42149f617c13447af5fd-7" href="#rest_code_ab7e3517d97e42149f617c13447af5fd-7"></a><span class="nb">print</span> <span class="s1">'</span><span class="si">%s</span><span class="s1"> bytes sent'</span> <span class="o">%</span> <span class="n">tx_bytes</span>
 </pre></div>
 <p>Ejemplo:</p>
-<div class="code"><pre class="code bash"><a id="rest_code_b911f8f4f1764ec5bcd270e1cb6f9b4a-1" name="rest_code_b911f8f4f1764ec5bcd270e1cb6f9b4a-1" href="#rest_code_b911f8f4f1764ec5bcd270e1cb6f9b4a-1"></a>juan@maverick:~$<span class="w"> </span>/usr/bin/env<span class="w"> </span>python<span class="w"> </span>prueba.py
-<a id="rest_code_b911f8f4f1764ec5bcd270e1cb6f9b4a-2" name="rest_code_b911f8f4f1764ec5bcd270e1cb6f9b4a-2" href="#rest_code_b911f8f4f1764ec5bcd270e1cb6f9b4a-2"></a><span class="m">2066696798</span><span class="w"> </span>bytes<span class="w"> </span>received
-<a id="rest_code_b911f8f4f1764ec5bcd270e1cb6f9b4a-3" name="rest_code_b911f8f4f1764ec5bcd270e1cb6f9b4a-3" href="#rest_code_b911f8f4f1764ec5bcd270e1cb6f9b4a-3"></a><span class="m">169266445</span><span class="w"> </span>bytes<span class="w"> </span>sent
+<div class="code"><pre class="code bash"><a id="rest_code_74f3be2603284d82a9f2e5ec3fdaea00-1" name="rest_code_74f3be2603284d82a9f2e5ec3fdaea00-1" href="#rest_code_74f3be2603284d82a9f2e5ec3fdaea00-1"></a>juan@maverick:~$<span class="w"> </span>/usr/bin/env<span class="w"> </span>python<span class="w"> </span>prueba.py
+<a id="rest_code_74f3be2603284d82a9f2e5ec3fdaea00-2" name="rest_code_74f3be2603284d82a9f2e5ec3fdaea00-2" href="#rest_code_74f3be2603284d82a9f2e5ec3fdaea00-2"></a><span class="m">2066696798</span><span class="w"> </span>bytes<span class="w"> </span>received
+<a id="rest_code_74f3be2603284d82a9f2e5ec3fdaea00-3" name="rest_code_74f3be2603284d82a9f2e5ec3fdaea00-3" href="#rest_code_74f3be2603284d82a9f2e5ec3fdaea00-3"></a><span class="m">169266445</span><span class="w"> </span>bytes<span class="w"> </span>sent
 </pre></div>
     </div>    
 </div>
         <!--End of body content-->
 
-        <footer id="footer">
-            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+        <footer id="footer" class="bg-light"><span>Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow" target="_blanc">Nikola</a>         </span><span><a href="#" rel="nofollow" target="_blanc">Aporta a PyAr con tu donación</a><a></a></span>
             
         </footer>
 </div>

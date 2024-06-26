@@ -33,19 +33,19 @@ t= 20 # Temperatura
 v = 20 # Velocidad del Viento
 ">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+<meta property="article:published_time" content="2024-06-26T19:43:16-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
 
-<div class="container">
-    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+<div class="container px-0">
+    <nav id="main-navbar" class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="https://www.python.org.ar/">Navbar</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mr-auto">
+            <ul class="navbar-nav">
 <li class="nav-item">
                     <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
                 </li>
@@ -83,7 +83,7 @@ v = 20 # Velocidad del Viento
     <div class="body-content">
         <!--Body content-->
         
-<div class="col-lg-12">
+<div class="col-lg-12 px-4 py-2">
     <div class="page-header">
         <div class="pull-right">
             <a href="https://github.com/PyAr/wiki/blob/master/pages/recetario/obtenersensaciontermica.rst" id="sourcelink" class="nav-link">Editar</a>
@@ -94,19 +94,19 @@ v = 20 # Velocidad del Viento
     <ul class="simple">
 <li><p>Cómo obtener la Sensación Térmica o Temperatura Aparente usando Python, ejemplo simple.</p></li>
 </ul>
-<div class="code"><pre class="code python"><a id="rest_code_68686ade249c4e73958a8ec54e63bf30-1" name="rest_code_68686ade249c4e73958a8ec54e63bf30-1" href="#rest_code_68686ade249c4e73958a8ec54e63bf30-1"></a><span class="ch">#!/usr/bin/env python</span>
-<a id="rest_code_68686ade249c4e73958a8ec54e63bf30-2" name="rest_code_68686ade249c4e73958a8ec54e63bf30-2" href="#rest_code_68686ade249c4e73958a8ec54e63bf30-2"></a><span class="c1"># -*- coding: utf-8 -*-</span>
-<a id="rest_code_68686ade249c4e73958a8ec54e63bf30-3" name="rest_code_68686ade249c4e73958a8ec54e63bf30-3" href="#rest_code_68686ade249c4e73958a8ec54e63bf30-3"></a><span class="c1">#</span>
-<a id="rest_code_68686ade249c4e73958a8ec54e63bf30-4" name="rest_code_68686ade249c4e73958a8ec54e63bf30-4" href="#rest_code_68686ade249c4e73958a8ec54e63bf30-4"></a><span class="kn">import</span> <span class="nn">math</span>
-<a id="rest_code_68686ade249c4e73958a8ec54e63bf30-5" name="rest_code_68686ade249c4e73958a8ec54e63bf30-5" href="#rest_code_68686ade249c4e73958a8ec54e63bf30-5"></a>
-<a id="rest_code_68686ade249c4e73958a8ec54e63bf30-6" name="rest_code_68686ade249c4e73958a8ec54e63bf30-6" href="#rest_code_68686ade249c4e73958a8ec54e63bf30-6"></a><span class="n">t</span><span class="o">=</span> <span class="mi">20</span> <span class="c1"># Temperatura</span>
-<a id="rest_code_68686ade249c4e73958a8ec54e63bf30-7" name="rest_code_68686ade249c4e73958a8ec54e63bf30-7" href="#rest_code_68686ade249c4e73958a8ec54e63bf30-7"></a><span class="n">v</span> <span class="o">=</span> <span class="mi">20</span> <span class="c1"># Velocidad del Viento</span>
-<a id="rest_code_68686ade249c4e73958a8ec54e63bf30-8" name="rest_code_68686ade249c4e73958a8ec54e63bf30-8" href="#rest_code_68686ade249c4e73958a8ec54e63bf30-8"></a><span class="n">st</span> <span class="o">=</span> <span class="mi">33</span> <span class="o">+</span> <span class="p">(</span><span class="n">t</span><span class="o">-</span> <span class="mi">33</span><span class="p">)</span><span class="o">*</span><span class="p">(</span><span class="mf">0.474</span> <span class="o">+</span> <span class="mf">0.454</span> <span class="o">*</span> <span class="n">math</span><span class="o">.</span><span class="n">sqrt</span><span class="p">((</span><span class="n">v</span><span class="p">))</span><span class="o">-</span><span class="mf">0.0454</span><span class="o">*</span><span class="n">v</span><span class="p">)</span>
-<a id="rest_code_68686ade249c4e73958a8ec54e63bf30-9" name="rest_code_68686ade249c4e73958a8ec54e63bf30-9" href="#rest_code_68686ade249c4e73958a8ec54e63bf30-9"></a><span class="nb">print</span> <span class="n">st</span>
+<div class="code"><pre class="code python"><a id="rest_code_952a9c68469d41cb8f05357a0e89c5ce-1" name="rest_code_952a9c68469d41cb8f05357a0e89c5ce-1" href="#rest_code_952a9c68469d41cb8f05357a0e89c5ce-1"></a><span class="ch">#!/usr/bin/env python</span>
+<a id="rest_code_952a9c68469d41cb8f05357a0e89c5ce-2" name="rest_code_952a9c68469d41cb8f05357a0e89c5ce-2" href="#rest_code_952a9c68469d41cb8f05357a0e89c5ce-2"></a><span class="c1"># -*- coding: utf-8 -*-</span>
+<a id="rest_code_952a9c68469d41cb8f05357a0e89c5ce-3" name="rest_code_952a9c68469d41cb8f05357a0e89c5ce-3" href="#rest_code_952a9c68469d41cb8f05357a0e89c5ce-3"></a><span class="c1">#</span>
+<a id="rest_code_952a9c68469d41cb8f05357a0e89c5ce-4" name="rest_code_952a9c68469d41cb8f05357a0e89c5ce-4" href="#rest_code_952a9c68469d41cb8f05357a0e89c5ce-4"></a><span class="kn">import</span> <span class="nn">math</span>
+<a id="rest_code_952a9c68469d41cb8f05357a0e89c5ce-5" name="rest_code_952a9c68469d41cb8f05357a0e89c5ce-5" href="#rest_code_952a9c68469d41cb8f05357a0e89c5ce-5"></a>
+<a id="rest_code_952a9c68469d41cb8f05357a0e89c5ce-6" name="rest_code_952a9c68469d41cb8f05357a0e89c5ce-6" href="#rest_code_952a9c68469d41cb8f05357a0e89c5ce-6"></a><span class="n">t</span><span class="o">=</span> <span class="mi">20</span> <span class="c1"># Temperatura</span>
+<a id="rest_code_952a9c68469d41cb8f05357a0e89c5ce-7" name="rest_code_952a9c68469d41cb8f05357a0e89c5ce-7" href="#rest_code_952a9c68469d41cb8f05357a0e89c5ce-7"></a><span class="n">v</span> <span class="o">=</span> <span class="mi">20</span> <span class="c1"># Velocidad del Viento</span>
+<a id="rest_code_952a9c68469d41cb8f05357a0e89c5ce-8" name="rest_code_952a9c68469d41cb8f05357a0e89c5ce-8" href="#rest_code_952a9c68469d41cb8f05357a0e89c5ce-8"></a><span class="n">st</span> <span class="o">=</span> <span class="mi">33</span> <span class="o">+</span> <span class="p">(</span><span class="n">t</span><span class="o">-</span> <span class="mi">33</span><span class="p">)</span><span class="o">*</span><span class="p">(</span><span class="mf">0.474</span> <span class="o">+</span> <span class="mf">0.454</span> <span class="o">*</span> <span class="n">math</span><span class="o">.</span><span class="n">sqrt</span><span class="p">((</span><span class="n">v</span><span class="p">))</span><span class="o">-</span><span class="mf">0.0454</span><span class="o">*</span><span class="n">v</span><span class="p">)</span>
+<a id="rest_code_952a9c68469d41cb8f05357a0e89c5ce-9" name="rest_code_952a9c68469d41cb8f05357a0e89c5ce-9" href="#rest_code_952a9c68469d41cb8f05357a0e89c5ce-9"></a><span class="nb">print</span> <span class="n">st</span>
 </pre></div>
 <p><strong>Ejemplo:</strong></p>
-<div class="code"><pre class="code bash"><a id="rest_code_50fd5d38203945b29e85d9655d995083-1" name="rest_code_50fd5d38203945b29e85d9655d995083-1" href="#rest_code_50fd5d38203945b29e85d9655d995083-1"></a>/usr/bin/env<span class="w"> </span>python<span class="w"> </span>st.py
-<a id="rest_code_50fd5d38203945b29e85d9655d995083-2" name="rest_code_50fd5d38203945b29e85d9655d995083-2" href="#rest_code_50fd5d38203945b29e85d9655d995083-2"></a><span class="m">12</span>.24
+<div class="code"><pre class="code bash"><a id="rest_code_005fa3695d764f87aac9176fdceab4c2-1" name="rest_code_005fa3695d764f87aac9176fdceab4c2-1" href="#rest_code_005fa3695d764f87aac9176fdceab4c2-1"></a>/usr/bin/env<span class="w"> </span>python<span class="w"> </span>st.py
+<a id="rest_code_005fa3695d764f87aac9176fdceab4c2-2" name="rest_code_005fa3695d764f87aac9176fdceab4c2-2" href="#rest_code_005fa3695d764f87aac9176fdceab4c2-2"></a><span class="m">12</span>.24
 </pre></div>
 <p><em>Disclaimer: el uso o no de SheBang/Declaracion de Encoding queda a criterio del usuario.</em></p>
 <p><em>Fe de Erratas: seguramente hay una forma mejor de hacerlo, pero esta funciona correctamente.</em></p>
@@ -114,8 +114,7 @@ v = 20 # Velocidad del Viento
 </div>
         <!--End of body content-->
 
-        <footer id="footer">
-            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+        <footer id="footer" class="bg-light"><span>Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow" target="_blanc">Nikola</a>         </span><span><a href="#" rel="nofollow" target="_blanc">Aporta a PyAr con tu donación</a><a></a></span>
             
         </footer>
 </div>

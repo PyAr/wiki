@@ -29,19 +29,19 @@ pip-cache
 Tenemos un pip-cache funcionando en el host alarm. ¡¡Por favor utilizarlo!!
 Hay dos maneras de usarlo, la más simpl">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+<meta property="article:published_time" content="2024-06-26T19:43:16-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
 
-<div class="container">
-    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+<div class="container px-0">
+    <nav id="main-navbar" class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="https://www.python.org.ar/">Navbar</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mr-auto">
+            <ul class="navbar-nav">
 <li class="nav-item">
                     <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
                 </li>
@@ -79,7 +79,7 @@ Hay dos maneras de usarlo, la más simpl">
     <div class="body-content">
         <!--Body content-->
         
-<div class="col-lg-12">
+<div class="col-lg-12 px-4 py-2">
     <div class="page-header">
         <div class="pull-right">
             <a href="https://github.com/PyAr/wiki/blob/master/pages/PyCamp/2015/actividades.rst" id="sourcelink" class="nav-link">Editar</a>
@@ -92,15 +92,15 @@ Hay dos maneras de usarlo, la más simpl">
 <section id="pip-cache"><h2>pip-cache</h2>
 <p>Tenemos un pip-cache funcionando en el host <cite>alarm</cite>. ¡¡Por favor utilizarlo!!</p>
 <p>Hay dos maneras de usarlo, la más simple (pero tenes que acordarte el comando)</p>
-<div class="code"><pre class="code bash"><a id="rest_code_0e922aa5d9734272b3c605443aa90275-1" name="rest_code_0e922aa5d9734272b3c605443aa90275-1" href="#rest_code_0e922aa5d9734272b3c605443aa90275-1"></a>pip<span class="w"> </span>install<span class="w"> </span>-i<span class="w"> </span>http://alarm:3141/root/pypi/<span class="w"> </span>&lt;paquete&gt;
+<div class="code"><pre class="code bash"><a id="rest_code_7659412eac5d43c087862dbe79a63afa-1" name="rest_code_7659412eac5d43c087862dbe79a63afa-1" href="#rest_code_7659412eac5d43c087862dbe79a63afa-1"></a>pip<span class="w"> </span>install<span class="w"> </span>-i<span class="w"> </span>http://alarm:3141/root/pypi/<span class="w"> </span>&lt;paquete&gt;
 </pre></div>
 <p>La otra es editar <cite>~/.pip/pip.conf</cite> y dejar la config fija:</p>
-<div class="code"><pre class="code ini"><a id="rest_code_da93043ac9464aa2a6f17b94208eabee-1" name="rest_code_da93043ac9464aa2a6f17b94208eabee-1" href="#rest_code_da93043ac9464aa2a6f17b94208eabee-1"></a><span class="k">[global]</span>
-<a id="rest_code_da93043ac9464aa2a6f17b94208eabee-2" name="rest_code_da93043ac9464aa2a6f17b94208eabee-2" href="#rest_code_da93043ac9464aa2a6f17b94208eabee-2"></a><span class="na">index-url</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">http://10.5.20.252:3141/root/pypi/+simple/</span>
-<a id="rest_code_da93043ac9464aa2a6f17b94208eabee-3" name="rest_code_da93043ac9464aa2a6f17b94208eabee-3" href="#rest_code_da93043ac9464aa2a6f17b94208eabee-3"></a><span class="na">trusted-host</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">10.5.20.252</span>
-<a id="rest_code_da93043ac9464aa2a6f17b94208eabee-4" name="rest_code_da93043ac9464aa2a6f17b94208eabee-4" href="#rest_code_da93043ac9464aa2a6f17b94208eabee-4"></a><span class="na">disable-pip-version-check</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">true</span>
-<a id="rest_code_da93043ac9464aa2a6f17b94208eabee-5" name="rest_code_da93043ac9464aa2a6f17b94208eabee-5" href="#rest_code_da93043ac9464aa2a6f17b94208eabee-5"></a><span class="na">allow-all-external</span><span class="o">=</span><span class="s">true</span>
-<a id="rest_code_da93043ac9464aa2a6f17b94208eabee-6" name="rest_code_da93043ac9464aa2a6f17b94208eabee-6" href="#rest_code_da93043ac9464aa2a6f17b94208eabee-6"></a><span class="na">timeout</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">120</span>
+<div class="code"><pre class="code ini"><a id="rest_code_8a428c99bd91474da5b8521de3992adc-1" name="rest_code_8a428c99bd91474da5b8521de3992adc-1" href="#rest_code_8a428c99bd91474da5b8521de3992adc-1"></a><span class="k">[global]</span>
+<a id="rest_code_8a428c99bd91474da5b8521de3992adc-2" name="rest_code_8a428c99bd91474da5b8521de3992adc-2" href="#rest_code_8a428c99bd91474da5b8521de3992adc-2"></a><span class="na">index-url</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">http://10.5.20.252:3141/root/pypi/+simple/</span>
+<a id="rest_code_8a428c99bd91474da5b8521de3992adc-3" name="rest_code_8a428c99bd91474da5b8521de3992adc-3" href="#rest_code_8a428c99bd91474da5b8521de3992adc-3"></a><span class="na">trusted-host</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">10.5.20.252</span>
+<a id="rest_code_8a428c99bd91474da5b8521de3992adc-4" name="rest_code_8a428c99bd91474da5b8521de3992adc-4" href="#rest_code_8a428c99bd91474da5b8521de3992adc-4"></a><span class="na">disable-pip-version-check</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">true</span>
+<a id="rest_code_8a428c99bd91474da5b8521de3992adc-5" name="rest_code_8a428c99bd91474da5b8521de3992adc-5" href="#rest_code_8a428c99bd91474da5b8521de3992adc-5"></a><span class="na">allow-all-external</span><span class="o">=</span><span class="s">true</span>
+<a id="rest_code_8a428c99bd91474da5b8521de3992adc-6" name="rest_code_8a428c99bd91474da5b8521de3992adc-6" href="#rest_code_8a428c99bd91474da5b8521de3992adc-6"></a><span class="na">timeout</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">120</span>
 </pre></div>
 </section><section id="cronograma-de-actividades-2015"><h2>Cronograma de actividades 2015:</h2>
 <a class="reference external image-reference" href="../../../images/PyCamp/2015/Actividades/IMG_1538.JPG">
@@ -177,7 +177,7 @@ La idea es hacer algo útil para las redes comunitarias y de paso aprender un po
 <p>Los nodos ya entregan por http un json con la data necesaria.
 Por ej: <a class="reference external" href="http://oncelotes-bbone/cgi-bin/luci/status/json/stations/wlan1-adhoc">http://oncelotes-bbone/cgi-bin/luci/status/json/stations/wlan1-adhoc</a></p>
 <p>devuelve:</p>
-<div class="code"><pre class="code json"><a id="rest_code_3ade0a513da24690b26de426e82187be-1" name="rest_code_3ade0a513da24690b26de426e82187be-1" href="#rest_code_3ade0a513da24690b26de426e82187be-1"></a><span class="p">[</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="nt">"type"</span><span class="p">:</span><span class="w"> </span><span class="s2">"wifi"</span><span class="p">,</span><span class="w"> </span><span class="nt">"station_hostname"</span><span class="p">:</span><span class="w"> </span><span class="s2">"czuk-bbone_wlan1-adhoc"</span><span class="p">,</span><span class="w"> </span><span class="nt">"station"</span><span class="p">:</span><span class="w"> </span><span class="s2">"C0:4A:00:FC:3A:89"</span><span class="p">,</span><span class="w"> </span><span class="nt">"attributes"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="nt">"inactive"</span><span class="p">:</span><span class="w"> </span><span class="mi">0</span><span class="p">,</span><span class="w"> </span><span class="nt">"channel"</span><span class="p">:</span><span class="w"> </span><span class="mi">36</span><span class="p">,</span><span class="w"> </span><span class="nt">"signal"</span><span class="p">:</span><span class="w"> </span><span class="mi">-80</span><span class="w"> </span><span class="p">}</span><span class="w"> </span><span class="p">},</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="nt">"type"</span><span class="p">:</span><span class="w"> </span><span class="s2">"wifi"</span><span class="p">,</span><span class="w"> </span><span class="nt">"station_hostname"</span><span class="p">:</span><span class="w"> </span><span class="s2">"giordano-bbone_wlan1-adhoc"</span><span class="p">,</span><span class="w"> </span><span class="nt">"station"</span><span class="p">:</span><span class="w"> </span><span class="s2">"C0:4A:00:FC:38:E1"</span><span class="p">,</span><span class="w"> </span><span class="nt">"attributes"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="nt">"inactive"</span><span class="p">:</span><span class="w"> </span><span class="mi">0</span><span class="p">,</span><span class="w"> </span><span class="nt">"channel"</span><span class="p">:</span><span class="w"> </span><span class="mi">36</span><span class="p">,</span><span class="w"> </span><span class="nt">"signal"</span><span class="p">:</span><span class="w"> </span><span class="mi">-75</span><span class="w"> </span><span class="p">}</span><span class="w"> </span><span class="p">}</span><span class="w"> </span><span class="p">]</span>
+<div class="code"><pre class="code json"><a id="rest_code_cf0a4ca0f3d7471cbfee9b931da4e359-1" name="rest_code_cf0a4ca0f3d7471cbfee9b931da4e359-1" href="#rest_code_cf0a4ca0f3d7471cbfee9b931da4e359-1"></a><span class="p">[</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="nt">"type"</span><span class="p">:</span><span class="w"> </span><span class="s2">"wifi"</span><span class="p">,</span><span class="w"> </span><span class="nt">"station_hostname"</span><span class="p">:</span><span class="w"> </span><span class="s2">"czuk-bbone_wlan1-adhoc"</span><span class="p">,</span><span class="w"> </span><span class="nt">"station"</span><span class="p">:</span><span class="w"> </span><span class="s2">"C0:4A:00:FC:3A:89"</span><span class="p">,</span><span class="w"> </span><span class="nt">"attributes"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="nt">"inactive"</span><span class="p">:</span><span class="w"> </span><span class="mi">0</span><span class="p">,</span><span class="w"> </span><span class="nt">"channel"</span><span class="p">:</span><span class="w"> </span><span class="mi">36</span><span class="p">,</span><span class="w"> </span><span class="nt">"signal"</span><span class="p">:</span><span class="w"> </span><span class="mi">-80</span><span class="w"> </span><span class="p">}</span><span class="w"> </span><span class="p">},</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="nt">"type"</span><span class="p">:</span><span class="w"> </span><span class="s2">"wifi"</span><span class="p">,</span><span class="w"> </span><span class="nt">"station_hostname"</span><span class="p">:</span><span class="w"> </span><span class="s2">"giordano-bbone_wlan1-adhoc"</span><span class="p">,</span><span class="w"> </span><span class="nt">"station"</span><span class="p">:</span><span class="w"> </span><span class="s2">"C0:4A:00:FC:38:E1"</span><span class="p">,</span><span class="w"> </span><span class="nt">"attributes"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="nt">"inactive"</span><span class="p">:</span><span class="w"> </span><span class="mi">0</span><span class="p">,</span><span class="w"> </span><span class="nt">"channel"</span><span class="p">:</span><span class="w"> </span><span class="mi">36</span><span class="p">,</span><span class="w"> </span><span class="nt">"signal"</span><span class="p">:</span><span class="w"> </span><span class="mi">-75</span><span class="w"> </span><span class="p">}</span><span class="w"> </span><span class="p">}</span><span class="w"> </span><span class="p">]</span>
 </pre></div>
 <p>La idea entonces sería consumir esto desde la mini app.</p>
 <p>[Propone: NicoEchániz]</p>
@@ -210,8 +210,7 @@ para PyCamp (?).</p>
 </div>
         <!--End of body content-->
 
-        <footer id="footer">
-            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+        <footer id="footer" class="bg-light"><span>Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow" target="_blanc">Nikola</a>         </span><span><a href="#" rel="nofollow" target="_blanc">Aporta a PyAr con tu donación</a><a></a></span>
             
         </footer>
 </div>

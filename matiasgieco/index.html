@@ -27,19 +27,19 @@ og: http://ogp.me/ns# article: http://ogp.me/ns/article#
 Soy Matías Gieco, nacido bajo el mes de virgo allá por el 77. ¿Qué hago? Poco y nada.
 En la lista de PyA">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+<meta property="article:published_time" content="2024-06-26T19:43:16-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
 
-<div class="container">
-    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+<div class="container px-0">
+    <nav id="main-navbar" class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="https://www.python.org.ar/">Navbar</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mr-auto">
+            <ul class="navbar-nav">
 <li class="nav-item">
                     <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
                 </li>
@@ -77,7 +77,7 @@ En la lista de PyA">
     <div class="body-content">
         <!--Body content-->
         
-<div class="col-lg-12">
+<div class="col-lg-12 px-4 py-2">
     <div class="page-header">
         <div class="pull-right">
             <a href="https://github.com/PyAr/wiki/blob/master/pages/matiasgieco.rst" id="sourcelink" class="nav-link">Editar</a>
@@ -103,12 +103,12 @@ En la lista de PyA">
 <li><p>Estoy en <a class="reference external" href="http://www.linkedin.com/in/matiasgieco">LinkedIn</a>, en los grupos de python y <a class="reference external" href="../pyar">PyAr</a>, porque da chapa de que se algo.</p></li>
 </ul>
 <p>Si quieren algún otro usuario y contraseña de algún otro servicio, manden un email a la dirección escrita y se las doy, total quien va a romper lo que no es suyo.</p>
-<div class="code"><pre class="code python"><a id="rest_code_1f17f74a1ba0461797ff4fc6b5c1e0af-1" name="rest_code_1f17f74a1ba0461797ff4fc6b5c1e0af-1" href="#rest_code_1f17f74a1ba0461797ff4fc6b5c1e0af-1"></a><span class="k">def</span> <span class="nf">tiempo_de_vida</span><span class="p">(</span><span class="n">fecha_nac</span><span class="p">):</span>
-<a id="rest_code_1f17f74a1ba0461797ff4fc6b5c1e0af-2" name="rest_code_1f17f74a1ba0461797ff4fc6b5c1e0af-2" href="#rest_code_1f17f74a1ba0461797ff4fc6b5c1e0af-2"></a>  <span class="n">hoy</span> <span class="o">=</span> <span class="n">datetime</span><span class="o">.</span><span class="n">date</span><span class="o">.</span><span class="n">today</span><span class="p">()</span>
-<a id="rest_code_1f17f74a1ba0461797ff4fc6b5c1e0af-3" name="rest_code_1f17f74a1ba0461797ff4fc6b5c1e0af-3" href="#rest_code_1f17f74a1ba0461797ff4fc6b5c1e0af-3"></a>  <span class="k">return</span><span class="p">(</span><span class="n">hoy</span><span class="o">-</span><span class="n">fecha_nac</span><span class="p">)</span>
-<a id="rest_code_1f17f74a1ba0461797ff4fc6b5c1e0af-4" name="rest_code_1f17f74a1ba0461797ff4fc6b5c1e0af-4" href="#rest_code_1f17f74a1ba0461797ff4fc6b5c1e0af-4"></a>
-<a id="rest_code_1f17f74a1ba0461797ff4fc6b5c1e0af-5" name="rest_code_1f17f74a1ba0461797ff4fc6b5c1e0af-5" href="#rest_code_1f17f74a1ba0461797ff4fc6b5c1e0af-5"></a><span class="n">nac_bb</span> <span class="o">=</span> <span class="n">datetime</span><span class="o">.</span><span class="n">date</span><span class="p">(</span><span class="mi">2008</span><span class="p">,</span><span class="mi">04</span><span class="p">,</span><span class="mi">15</span><span class="p">)</span>
-<a id="rest_code_1f17f74a1ba0461797ff4fc6b5c1e0af-6" name="rest_code_1f17f74a1ba0461797ff4fc6b5c1e0af-6" href="#rest_code_1f17f74a1ba0461797ff4fc6b5c1e0af-6"></a><span class="n">nac_bullie</span> <span class="o">=</span> <span class="n">datetime</span><span class="o">.</span><span class="n">date</span><span class="p">(</span><span class="mi">2008</span><span class="p">,</span><span class="mi">04</span><span class="p">,</span><span class="mi">15</span><span class="p">)</span> <span class="o">-</span>  <span class="n">datetime</span><span class="o">.</span><span class="n">timedelta</span><span class="p">(</span><span class="mi">366</span><span class="p">)</span> <span class="c1"># si, un año justo justo!</span>
+<div class="code"><pre class="code python"><a id="rest_code_37b15389e52e4c04b2ae8af49fc9609a-1" name="rest_code_37b15389e52e4c04b2ae8af49fc9609a-1" href="#rest_code_37b15389e52e4c04b2ae8af49fc9609a-1"></a><span class="k">def</span> <span class="nf">tiempo_de_vida</span><span class="p">(</span><span class="n">fecha_nac</span><span class="p">):</span>
+<a id="rest_code_37b15389e52e4c04b2ae8af49fc9609a-2" name="rest_code_37b15389e52e4c04b2ae8af49fc9609a-2" href="#rest_code_37b15389e52e4c04b2ae8af49fc9609a-2"></a>  <span class="n">hoy</span> <span class="o">=</span> <span class="n">datetime</span><span class="o">.</span><span class="n">date</span><span class="o">.</span><span class="n">today</span><span class="p">()</span>
+<a id="rest_code_37b15389e52e4c04b2ae8af49fc9609a-3" name="rest_code_37b15389e52e4c04b2ae8af49fc9609a-3" href="#rest_code_37b15389e52e4c04b2ae8af49fc9609a-3"></a>  <span class="k">return</span><span class="p">(</span><span class="n">hoy</span><span class="o">-</span><span class="n">fecha_nac</span><span class="p">)</span>
+<a id="rest_code_37b15389e52e4c04b2ae8af49fc9609a-4" name="rest_code_37b15389e52e4c04b2ae8af49fc9609a-4" href="#rest_code_37b15389e52e4c04b2ae8af49fc9609a-4"></a>
+<a id="rest_code_37b15389e52e4c04b2ae8af49fc9609a-5" name="rest_code_37b15389e52e4c04b2ae8af49fc9609a-5" href="#rest_code_37b15389e52e4c04b2ae8af49fc9609a-5"></a><span class="n">nac_bb</span> <span class="o">=</span> <span class="n">datetime</span><span class="o">.</span><span class="n">date</span><span class="p">(</span><span class="mi">2008</span><span class="p">,</span><span class="mi">04</span><span class="p">,</span><span class="mi">15</span><span class="p">)</span>
+<a id="rest_code_37b15389e52e4c04b2ae8af49fc9609a-6" name="rest_code_37b15389e52e4c04b2ae8af49fc9609a-6" href="#rest_code_37b15389e52e4c04b2ae8af49fc9609a-6"></a><span class="n">nac_bullie</span> <span class="o">=</span> <span class="n">datetime</span><span class="o">.</span><span class="n">date</span><span class="p">(</span><span class="mi">2008</span><span class="p">,</span><span class="mi">04</span><span class="p">,</span><span class="mi">15</span><span class="p">)</span> <span class="o">-</span>  <span class="n">datetime</span><span class="o">.</span><span class="n">timedelta</span><span class="p">(</span><span class="mi">366</span><span class="p">)</span> <span class="c1"># si, un año justo justo!</span>
 </pre></div>
 <hr class="docutils">
 <blockquote>
@@ -120,8 +120,7 @@ En la lista de PyA">
 </div>
         <!--End of body content-->
 
-        <footer id="footer">
-            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+        <footer id="footer" class="bg-light"><span>Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow" target="_blanc">Nikola</a>         </span><span><a href="#" rel="nofollow" target="_blanc">Aporta a PyAr con tu donación</a><a></a></span>
             
         </footer>
 </div>

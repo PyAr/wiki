@@ -29,19 +29,19 @@ og: http://ogp.me/ns# article: http://ogp.me/ns/article#
 
 El código anterior devuelve una lista de strings, donde cada string es una ">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+<meta property="article:published_time" content="2024-06-26T19:43:16-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
 
-<div class="container">
-    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+<div class="container px-0">
+    <nav id="main-navbar" class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="https://www.python.org.ar/">Navbar</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mr-auto">
+            <ul class="navbar-nav">
 <li class="nav-item">
                     <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
                 </li>
@@ -79,7 +79,7 @@ El código anterior devuelve una lista de strings, donde cada string es una ">
     <div class="body-content">
         <!--Body content-->
         
-<div class="col-lg-12">
+<div class="col-lg-12 px-4 py-2">
     <div class="page-header">
         <div class="pull-right">
             <a href="https://github.com/PyAr/wiki/blob/master/pages/extraermails.rst" id="sourcelink" class="nav-link">Editar</a>
@@ -88,9 +88,9 @@ El código anterior devuelve una lista de strings, donde cada string es una ">
     </div>
     <div class="e-content entry-content" itemprop="articleBody text">
     <section id="codigo"><h2>Código</h2>
-<div class="code"><pre class="code python"><a id="rest_code_eade9093337b4cddb854877fcb02cbbc-1" name="rest_code_eade9093337b4cddb854877fcb02cbbc-1" href="#rest_code_eade9093337b4cddb854877fcb02cbbc-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="kn">import</span> <span class="nn">re</span>
-<a id="rest_code_eade9093337b4cddb854877fcb02cbbc-2" name="rest_code_eade9093337b4cddb854877fcb02cbbc-2" href="#rest_code_eade9093337b4cddb854877fcb02cbbc-2"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">mailsrch</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">compile</span><span class="p">(</span><span class="sa">r</span><span class="s1">'[\w\-][\w\-\.]+@[\w\-][\w\-\.]+[a-zA-Z]{1,4}'</span><span class="p">)</span>
-<a id="rest_code_eade9093337b4cddb854877fcb02cbbc-3" name="rest_code_eade9093337b4cddb854877fcb02cbbc-3" href="#rest_code_eade9093337b4cddb854877fcb02cbbc-3"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">mailsrch</span><span class="o">.</span><span class="n">findall</span><span class="p">(</span><span class="n">texto</span><span class="p">)</span>
+<div class="code"><pre class="code python"><a id="rest_code_cb9ac8d890a14bf596f987071f1a0fff-1" name="rest_code_cb9ac8d890a14bf596f987071f1a0fff-1" href="#rest_code_cb9ac8d890a14bf596f987071f1a0fff-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="kn">import</span> <span class="nn">re</span>
+<a id="rest_code_cb9ac8d890a14bf596f987071f1a0fff-2" name="rest_code_cb9ac8d890a14bf596f987071f1a0fff-2" href="#rest_code_cb9ac8d890a14bf596f987071f1a0fff-2"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">mailsrch</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">compile</span><span class="p">(</span><span class="sa">r</span><span class="s1">'[\w\-][\w\-\.]+@[\w\-][\w\-\.]+[a-zA-Z]{1,4}'</span><span class="p">)</span>
+<a id="rest_code_cb9ac8d890a14bf596f987071f1a0fff-3" name="rest_code_cb9ac8d890a14bf596f987071f1a0fff-3" href="#rest_code_cb9ac8d890a14bf596f987071f1a0fff-3"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">mailsrch</span><span class="o">.</span><span class="n">findall</span><span class="p">(</span><span class="n">texto</span><span class="p">)</span>
 </pre></div>
 <p>El código anterior devuelve una lista de strings, donde cada string es una dirección de email. El texto original puede contener basura como espcios, comas u otros caracteres.</p>
 </section><section id="autor"><h2>Autor</h2>
@@ -103,8 +103,7 @@ El código anterior devuelve una lista de strings, donde cada string es una ">
 </div>
         <!--End of body content-->
 
-        <footer id="footer">
-            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+        <footer id="footer" class="bg-light"><span>Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow" target="_blanc">Nikola</a>         </span><span><a href="#" rel="nofollow" target="_blanc">Aporta a PyAr con tu donación</a><a></a></span>
             
         </footer>
 </div>

@@ -26,19 +26,19 @@ og: http://ogp.me/ns# article: http://ogp.me/ns/article#
 if sys.hexversion &gt; 0x02060000: # Python version check
     print "\n Python version &gt; 2.6.0\n" # Aca va que hacer si es mayor'>
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+<meta property="article:published_time" content="2024-06-26T19:43:16-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
 
-<div class="container">
-    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+<div class="container px-0">
+    <nav id="main-navbar" class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="https://www.python.org.ar/">Navbar</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mr-auto">
+            <ul class="navbar-nav">
 <li class="nav-item">
                     <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
                 </li>
@@ -76,7 +76,7 @@ if sys.hexversion &gt; 0x02060000: # Python version check
     <div class="body-content">
         <!--Body content-->
         
-<div class="col-lg-12">
+<div class="col-lg-12 px-4 py-2">
     <div class="page-header">
         <div class="pull-right">
             <a href="https://github.com/PyAr/wiki/blob/master/pages/recetario/pythonversioncheck.rst" id="sourcelink" class="nav-link">Editar</a>
@@ -85,22 +85,21 @@ if sys.hexversion &gt; 0x02060000: # Python version check
     </div>
     <div class="e-content entry-content" itemprop="articleBody text">
     <p>Chequear la versión de Python, y salir o imprimir error en funcion de eso.</p>
-<div class="code"><pre class="code python"><a id="rest_code_e565685ab8f546798f470ab3a7746933-1" name="rest_code_e565685ab8f546798f470ab3a7746933-1" href="#rest_code_e565685ab8f546798f470ab3a7746933-1"></a><span class="k">if</span> <span class="n">sys</span><span class="o">.</span><span class="n">hexversion</span> <span class="o">&gt;</span> <span class="mh">0x02060000</span><span class="p">:</span> <span class="c1"># Python version check</span>
-<a id="rest_code_e565685ab8f546798f470ab3a7746933-2" name="rest_code_e565685ab8f546798f470ab3a7746933-2" href="#rest_code_e565685ab8f546798f470ab3a7746933-2"></a>    <span class="nb">print</span> <span class="s2">"</span><span class="se">\n</span><span class="s2"> Python version &gt; 2.6.0</span><span class="se">\n</span><span class="s2">"</span> <span class="c1"># Aca va que hacer si es mayor, continua</span>
-<a id="rest_code_e565685ab8f546798f470ab3a7746933-3" name="rest_code_e565685ab8f546798f470ab3a7746933-3" href="#rest_code_e565685ab8f546798f470ab3a7746933-3"></a><span class="k">else</span><span class="p">:</span>
-<a id="rest_code_e565685ab8f546798f470ab3a7746933-4" name="rest_code_e565685ab8f546798f470ab3a7746933-4" href="#rest_code_e565685ab8f546798f470ab3a7746933-4"></a>    <span class="nb">print</span> <span class="s2">"</span><span class="se">\n</span><span class="s2"> ERROR: Python version &lt; 2.6.0</span><span class="se">\n</span><span class="s2">"</span> <span class="c1"># Aca va que hacer si es menor, error</span>
+<div class="code"><pre class="code python"><a id="rest_code_e6c71c1651364f948bcbb8142099eea4-1" name="rest_code_e6c71c1651364f948bcbb8142099eea4-1" href="#rest_code_e6c71c1651364f948bcbb8142099eea4-1"></a><span class="k">if</span> <span class="n">sys</span><span class="o">.</span><span class="n">hexversion</span> <span class="o">&gt;</span> <span class="mh">0x02060000</span><span class="p">:</span> <span class="c1"># Python version check</span>
+<a id="rest_code_e6c71c1651364f948bcbb8142099eea4-2" name="rest_code_e6c71c1651364f948bcbb8142099eea4-2" href="#rest_code_e6c71c1651364f948bcbb8142099eea4-2"></a>    <span class="nb">print</span> <span class="s2">"</span><span class="se">\n</span><span class="s2"> Python version &gt; 2.6.0</span><span class="se">\n</span><span class="s2">"</span> <span class="c1"># Aca va que hacer si es mayor, continua</span>
+<a id="rest_code_e6c71c1651364f948bcbb8142099eea4-3" name="rest_code_e6c71c1651364f948bcbb8142099eea4-3" href="#rest_code_e6c71c1651364f948bcbb8142099eea4-3"></a><span class="k">else</span><span class="p">:</span>
+<a id="rest_code_e6c71c1651364f948bcbb8142099eea4-4" name="rest_code_e6c71c1651364f948bcbb8142099eea4-4" href="#rest_code_e6c71c1651364f948bcbb8142099eea4-4"></a>    <span class="nb">print</span> <span class="s2">"</span><span class="se">\n</span><span class="s2"> ERROR: Python version &lt; 2.6.0</span><span class="se">\n</span><span class="s2">"</span> <span class="c1"># Aca va que hacer si es menor, error</span>
 </pre></div>
 <p>Ejemplo:</p>
-<div class="code"><pre class="code bash"><a id="rest_code_2ff7552e2eca49dd8fb991402fa6b274-1" name="rest_code_2ff7552e2eca49dd8fb991402fa6b274-1" href="#rest_code_2ff7552e2eca49dd8fb991402fa6b274-1"></a>juan@maverick:~$<span class="w"> </span>/usr/bin/env<span class="w"> </span>python<span class="w"> </span>test.py
-<a id="rest_code_2ff7552e2eca49dd8fb991402fa6b274-2" name="rest_code_2ff7552e2eca49dd8fb991402fa6b274-2" href="#rest_code_2ff7552e2eca49dd8fb991402fa6b274-2"></a>
-<a id="rest_code_2ff7552e2eca49dd8fb991402fa6b274-3" name="rest_code_2ff7552e2eca49dd8fb991402fa6b274-3" href="#rest_code_2ff7552e2eca49dd8fb991402fa6b274-3"></a><span class="w"> </span>Python<span class="w"> </span>version<span class="w"> </span>&gt;<span class="w"> </span><span class="m">2</span>.6.0
+<div class="code"><pre class="code bash"><a id="rest_code_b3638a1fdbe341febd98558124aadc24-1" name="rest_code_b3638a1fdbe341febd98558124aadc24-1" href="#rest_code_b3638a1fdbe341febd98558124aadc24-1"></a>juan@maverick:~$<span class="w"> </span>/usr/bin/env<span class="w"> </span>python<span class="w"> </span>test.py
+<a id="rest_code_b3638a1fdbe341febd98558124aadc24-2" name="rest_code_b3638a1fdbe341febd98558124aadc24-2" href="#rest_code_b3638a1fdbe341febd98558124aadc24-2"></a>
+<a id="rest_code_b3638a1fdbe341febd98558124aadc24-3" name="rest_code_b3638a1fdbe341febd98558124aadc24-3" href="#rest_code_b3638a1fdbe341febd98558124aadc24-3"></a><span class="w"> </span>Python<span class="w"> </span>version<span class="w"> </span>&gt;<span class="w"> </span><span class="m">2</span>.6.0
 </pre></div>
     </div>    
 </div>
         <!--End of body content-->
 
-        <footer id="footer">
-            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+        <footer id="footer" class="bg-light"><span>Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow" target="_blanc">Nikola</a>         </span><span><a href="#" rel="nofollow" target="_blanc">Aporta a PyAr con tu donación</a><a></a></span>
             
         </footer>
 </div>

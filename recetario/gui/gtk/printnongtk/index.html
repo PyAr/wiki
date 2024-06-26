@@ -25,19 +25,19 @@ og: http://ogp.me/ns# article: http://ogp.me/ns/article#
 <meta property="og:description" content="Este ejemplo muestra como usar gtk para mostrar el diálogo de imprimir pero sin usar el main loop.
 Es útil para aplicaciones no gtk que solo quieren usar el diálogo de impresión pero tienen otro main ">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+<meta property="article:published_time" content="2024-06-26T19:43:16-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
 
-<div class="container">
-    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+<div class="container px-0">
+    <nav id="main-navbar" class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="https://www.python.org.ar/">Navbar</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mr-auto">
+            <ul class="navbar-nav">
 <li class="nav-item">
                     <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
                 </li>
@@ -75,7 +75,7 @@ Es útil para aplicaciones no gtk que solo quieren usar el diálogo de impresió
     <div class="body-content">
         <!--Body content-->
         
-<div class="col-lg-12">
+<div class="col-lg-12 px-4 py-2">
     <div class="page-header">
         <div class="pull-right">
             <a href="https://github.com/PyAr/wiki/blob/master/pages/recetario/gui/gtk/printnongtk.rst" id="sourcelink" class="nav-link">Editar</a>
@@ -86,28 +86,27 @@ Es útil para aplicaciones no gtk que solo quieren usar el diálogo de impresió
     <p>Este ejemplo muestra como usar gtk para mostrar el diálogo de imprimir pero sin usar el main loop.</p>
 <p>Es útil para aplicaciones no gtk que solo quieren usar el diálogo de impresión pero tienen otro main loop que no es el de gtk.</p>
 <p>Explicación: Lo que hacemos después de mostrar el diálogo es procesar los eventos de gtk mientras haya eventos pendientes, luego seguimos en nuestra aplicación normalmente.</p>
-<div class="code"><pre class="code python"><a id="rest_code_51d6e61ff61b4908971ef2bc990ce0b5-1" name="rest_code_51d6e61ff61b4908971ef2bc990ce0b5-1" href="#rest_code_51d6e61ff61b4908971ef2bc990ce0b5-1"></a><span class="kn">import</span> <span class="nn">gtk</span>
-<a id="rest_code_51d6e61ff61b4908971ef2bc990ce0b5-2" name="rest_code_51d6e61ff61b4908971ef2bc990ce0b5-2" href="#rest_code_51d6e61ff61b4908971ef2bc990ce0b5-2"></a><span class="kn">import</span> <span class="nn">time</span>
-<a id="rest_code_51d6e61ff61b4908971ef2bc990ce0b5-3" name="rest_code_51d6e61ff61b4908971ef2bc990ce0b5-3" href="#rest_code_51d6e61ff61b4908971ef2bc990ce0b5-3"></a>
-<a id="rest_code_51d6e61ff61b4908971ef2bc990ce0b5-4" name="rest_code_51d6e61ff61b4908971ef2bc990ce0b5-4" href="#rest_code_51d6e61ff61b4908971ef2bc990ce0b5-4"></a><span class="n">po</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">PrintOperation</span><span class="p">()</span>
-<a id="rest_code_51d6e61ff61b4908971ef2bc990ce0b5-5" name="rest_code_51d6e61ff61b4908971ef2bc990ce0b5-5" href="#rest_code_51d6e61ff61b4908971ef2bc990ce0b5-5"></a><span class="n">pa</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">PRINT_OPERATION_ACTION_PRINT_DIALOG</span>
-<a id="rest_code_51d6e61ff61b4908971ef2bc990ce0b5-6" name="rest_code_51d6e61ff61b4908971ef2bc990ce0b5-6" href="#rest_code_51d6e61ff61b4908971ef2bc990ce0b5-6"></a><span class="n">po</span><span class="o">.</span><span class="n">run</span><span class="p">(</span><span class="n">pa</span><span class="p">)</span>
-<a id="rest_code_51d6e61ff61b4908971ef2bc990ce0b5-7" name="rest_code_51d6e61ff61b4908971ef2bc990ce0b5-7" href="#rest_code_51d6e61ff61b4908971ef2bc990ce0b5-7"></a>
-<a id="rest_code_51d6e61ff61b4908971ef2bc990ce0b5-8" name="rest_code_51d6e61ff61b4908971ef2bc990ce0b5-8" href="#rest_code_51d6e61ff61b4908971ef2bc990ce0b5-8"></a><span class="k">while</span> <span class="n">gtk</span><span class="o">.</span><span class="n">events_pending</span><span class="p">():</span>
-<a id="rest_code_51d6e61ff61b4908971ef2bc990ce0b5-9" name="rest_code_51d6e61ff61b4908971ef2bc990ce0b5-9" href="#rest_code_51d6e61ff61b4908971ef2bc990ce0b5-9"></a>    <span class="n">gtk</span><span class="o">.</span><span class="n">main_iteration</span><span class="p">(</span><span class="kc">True</span><span class="p">)</span>
-<a id="rest_code_51d6e61ff61b4908971ef2bc990ce0b5-10" name="rest_code_51d6e61ff61b4908971ef2bc990ce0b5-10" href="#rest_code_51d6e61ff61b4908971ef2bc990ce0b5-10"></a>
-<a id="rest_code_51d6e61ff61b4908971ef2bc990ce0b5-11" name="rest_code_51d6e61ff61b4908971ef2bc990ce0b5-11" href="#rest_code_51d6e61ff61b4908971ef2bc990ce0b5-11"></a><span class="nb">print</span> <span class="s1">'y seguimos como si nada'</span>
-<a id="rest_code_51d6e61ff61b4908971ef2bc990ce0b5-12" name="rest_code_51d6e61ff61b4908971ef2bc990ce0b5-12" href="#rest_code_51d6e61ff61b4908971ef2bc990ce0b5-12"></a><span class="nb">print</span> <span class="s1">'esperamos 3 segundos'</span>
-<a id="rest_code_51d6e61ff61b4908971ef2bc990ce0b5-13" name="rest_code_51d6e61ff61b4908971ef2bc990ce0b5-13" href="#rest_code_51d6e61ff61b4908971ef2bc990ce0b5-13"></a><span class="n">time</span><span class="o">.</span><span class="n">sleep</span><span class="p">(</span><span class="mi">3</span><span class="p">)</span>
-<a id="rest_code_51d6e61ff61b4908971ef2bc990ce0b5-14" name="rest_code_51d6e61ff61b4908971ef2bc990ce0b5-14" href="#rest_code_51d6e61ff61b4908971ef2bc990ce0b5-14"></a><span class="nb">print</span> <span class="s1">'chau'</span>
+<div class="code"><pre class="code python"><a id="rest_code_d957e7664c0c401aad0d29af1a83b967-1" name="rest_code_d957e7664c0c401aad0d29af1a83b967-1" href="#rest_code_d957e7664c0c401aad0d29af1a83b967-1"></a><span class="kn">import</span> <span class="nn">gtk</span>
+<a id="rest_code_d957e7664c0c401aad0d29af1a83b967-2" name="rest_code_d957e7664c0c401aad0d29af1a83b967-2" href="#rest_code_d957e7664c0c401aad0d29af1a83b967-2"></a><span class="kn">import</span> <span class="nn">time</span>
+<a id="rest_code_d957e7664c0c401aad0d29af1a83b967-3" name="rest_code_d957e7664c0c401aad0d29af1a83b967-3" href="#rest_code_d957e7664c0c401aad0d29af1a83b967-3"></a>
+<a id="rest_code_d957e7664c0c401aad0d29af1a83b967-4" name="rest_code_d957e7664c0c401aad0d29af1a83b967-4" href="#rest_code_d957e7664c0c401aad0d29af1a83b967-4"></a><span class="n">po</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">PrintOperation</span><span class="p">()</span>
+<a id="rest_code_d957e7664c0c401aad0d29af1a83b967-5" name="rest_code_d957e7664c0c401aad0d29af1a83b967-5" href="#rest_code_d957e7664c0c401aad0d29af1a83b967-5"></a><span class="n">pa</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">PRINT_OPERATION_ACTION_PRINT_DIALOG</span>
+<a id="rest_code_d957e7664c0c401aad0d29af1a83b967-6" name="rest_code_d957e7664c0c401aad0d29af1a83b967-6" href="#rest_code_d957e7664c0c401aad0d29af1a83b967-6"></a><span class="n">po</span><span class="o">.</span><span class="n">run</span><span class="p">(</span><span class="n">pa</span><span class="p">)</span>
+<a id="rest_code_d957e7664c0c401aad0d29af1a83b967-7" name="rest_code_d957e7664c0c401aad0d29af1a83b967-7" href="#rest_code_d957e7664c0c401aad0d29af1a83b967-7"></a>
+<a id="rest_code_d957e7664c0c401aad0d29af1a83b967-8" name="rest_code_d957e7664c0c401aad0d29af1a83b967-8" href="#rest_code_d957e7664c0c401aad0d29af1a83b967-8"></a><span class="k">while</span> <span class="n">gtk</span><span class="o">.</span><span class="n">events_pending</span><span class="p">():</span>
+<a id="rest_code_d957e7664c0c401aad0d29af1a83b967-9" name="rest_code_d957e7664c0c401aad0d29af1a83b967-9" href="#rest_code_d957e7664c0c401aad0d29af1a83b967-9"></a>    <span class="n">gtk</span><span class="o">.</span><span class="n">main_iteration</span><span class="p">(</span><span class="kc">True</span><span class="p">)</span>
+<a id="rest_code_d957e7664c0c401aad0d29af1a83b967-10" name="rest_code_d957e7664c0c401aad0d29af1a83b967-10" href="#rest_code_d957e7664c0c401aad0d29af1a83b967-10"></a>
+<a id="rest_code_d957e7664c0c401aad0d29af1a83b967-11" name="rest_code_d957e7664c0c401aad0d29af1a83b967-11" href="#rest_code_d957e7664c0c401aad0d29af1a83b967-11"></a><span class="nb">print</span> <span class="s1">'y seguimos como si nada'</span>
+<a id="rest_code_d957e7664c0c401aad0d29af1a83b967-12" name="rest_code_d957e7664c0c401aad0d29af1a83b967-12" href="#rest_code_d957e7664c0c401aad0d29af1a83b967-12"></a><span class="nb">print</span> <span class="s1">'esperamos 3 segundos'</span>
+<a id="rest_code_d957e7664c0c401aad0d29af1a83b967-13" name="rest_code_d957e7664c0c401aad0d29af1a83b967-13" href="#rest_code_d957e7664c0c401aad0d29af1a83b967-13"></a><span class="n">time</span><span class="o">.</span><span class="n">sleep</span><span class="p">(</span><span class="mi">3</span><span class="p">)</span>
+<a id="rest_code_d957e7664c0c401aad0d29af1a83b967-14" name="rest_code_d957e7664c0c401aad0d29af1a83b967-14" href="#rest_code_d957e7664c0c401aad0d29af1a83b967-14"></a><span class="nb">print</span> <span class="s1">'chau'</span>
 </pre></div>
 <img alt="/images/Recetario/Gui/Gtk/PrintNonGtk/Imprimir.png" src="../../../../images/Recetario/Gui/Gtk/PrintNonGtk/Imprimir.png">
 </div>    
 </div>
         <!--End of body content-->
 
-        <footer id="footer">
-            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+        <footer id="footer" class="bg-light"><span>Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow" target="_blanc">Nikola</a>         </span><span><a href="#" rel="nofollow" target="_blanc">Aporta a PyAr con tu donación</a><a></a></span>
             
         </footer>
 </div>

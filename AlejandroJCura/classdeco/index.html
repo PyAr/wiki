@@ -33,19 +33,19 @@ class limit_instances:
         prev_new = cls.__new__
        ">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+<meta property="article:published_time" content="2024-06-26T19:43:16-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
 
-<div class="container">
-    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+<div class="container px-0">
+    <nav id="main-navbar" class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="https://www.python.org.ar/">Navbar</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mr-auto">
+            <ul class="navbar-nav">
 <li class="nav-item">
                     <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
                 </li>
@@ -83,7 +83,7 @@ class limit_instances:
     <div class="body-content">
         <!--Body content-->
         
-<div class="col-lg-12">
+<div class="col-lg-12 px-4 py-2">
     <div class="page-header">
         <div class="pull-right">
             <a href="https://github.com/PyAr/wiki/blob/master/pages/AlejandroJCura/classdec%C3%B3.rst" id="sourcelink" class="nav-link">Editar</a>
@@ -91,38 +91,37 @@ class limit_instances:
         <h2>Un Ejemplo De Class Decorators (Python 3)</h2>
     </div>
     <div class="e-content entry-content" itemprop="articleBody text">
-    <div class="code"><pre class="code python"><a id="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-1" name="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-1" href="#rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-1"></a><span class="k">class</span> <span class="nc">LimitExceededException</span><span class="p">(</span><span class="ne">Exception</span><span class="p">):</span>
-<a id="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-2" name="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-2" href="#rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-2"></a>    <span class="k">pass</span>
-<a id="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-3" name="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-3" href="#rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-3"></a>
-<a id="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-4" name="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-4" href="#rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-4"></a><span class="k">class</span> <span class="nc">limit_instances</span><span class="p">:</span>
-<a id="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-5" name="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-5" href="#rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-5"></a>    <span class="k">def</span> <span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">limit</span><span class="p">):</span>
-<a id="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-6" name="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-6" href="#rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-6"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">limit</span> <span class="o">=</span> <span class="n">limit</span>
-<a id="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-7" name="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-7" href="#rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-7"></a>
-<a id="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-8" name="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-8" href="#rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-8"></a>    <span class="k">def</span> <span class="fm">__call__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="bp">cls</span><span class="p">):</span>
-<a id="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-9" name="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-9" href="#rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-9"></a>        <span class="n">prev_new</span> <span class="o">=</span> <span class="bp">cls</span><span class="o">.</span><span class="fm">__new__</span>
-<a id="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-10" name="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-10" href="#rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-10"></a>        <span class="bp">cls</span><span class="o">.</span><span class="n">__num</span> <span class="o">=</span> <span class="mi">0</span>
-<a id="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-11" name="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-11" href="#rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-11"></a>        <span class="k">def</span> <span class="fm">__new__</span><span class="p">(</span><span class="bp">cls</span><span class="p">,</span> <span class="o">*</span><span class="n">a</span><span class="p">,</span> <span class="o">**</span><span class="n">kw</span><span class="p">):</span>
-<a id="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-12" name="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-12" href="#rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-12"></a>            <span class="bp">cls</span><span class="o">.</span><span class="n">__num</span> <span class="o">+=</span> <span class="mi">1</span>
-<a id="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-13" name="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-13" href="#rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-13"></a>            <span class="k">if</span> <span class="bp">cls</span><span class="o">.</span><span class="n">__num</span> <span class="o">&gt;</span> <span class="bp">self</span><span class="o">.</span><span class="n">limit</span><span class="p">:</span>
-<a id="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-14" name="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-14" href="#rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-14"></a>                <span class="k">raise</span> <span class="n">LimitExceededException</span><span class="p">()</span>
-<a id="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-15" name="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-15" href="#rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-15"></a>            <span class="k">return</span> <span class="n">prev_new</span><span class="p">(</span><span class="bp">cls</span><span class="p">,</span> <span class="o">*</span><span class="n">a</span><span class="p">,</span> <span class="o">**</span><span class="n">kw</span><span class="p">)</span>
-<a id="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-16" name="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-16" href="#rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-16"></a>        <span class="bp">cls</span><span class="o">.</span><span class="fm">__new__</span> <span class="o">=</span> <span class="fm">__new__</span>
-<a id="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-17" name="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-17" href="#rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-17"></a>        <span class="k">return</span> <span class="bp">cls</span>
-<a id="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-18" name="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-18" href="#rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-18"></a>
-<a id="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-19" name="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-19" href="#rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-19"></a><span class="nd">@limit_instances</span><span class="p">(</span><span class="mi">5</span><span class="p">)</span>
-<a id="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-20" name="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-20" href="#rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-20"></a><span class="k">class</span> <span class="nc">C</span><span class="p">:</span>
-<a id="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-21" name="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-21" href="#rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-21"></a>    <span class="k">pass</span>
-<a id="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-22" name="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-22" href="#rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-22"></a>
-<a id="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-23" name="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-23" href="#rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-23"></a><span class="k">for</span> <span class="n">n</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">10</span><span class="p">):</span>
-<a id="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-24" name="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-24" href="#rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-24"></a>    <span class="n">c</span><span class="o">=</span><span class="n">C</span><span class="p">()</span>
-<a id="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-25" name="rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-25" href="#rest_code_0cb52a2e023542c29c2cfdd03f1e8fc3-25"></a>    <span class="nb">print</span><span class="p">(</span><span class="n">c</span><span class="p">)</span>
+    <div class="code"><pre class="code python"><a id="rest_code_77e627011b7f4a929f61455e0963919e-1" name="rest_code_77e627011b7f4a929f61455e0963919e-1" href="#rest_code_77e627011b7f4a929f61455e0963919e-1"></a><span class="k">class</span> <span class="nc">LimitExceededException</span><span class="p">(</span><span class="ne">Exception</span><span class="p">):</span>
+<a id="rest_code_77e627011b7f4a929f61455e0963919e-2" name="rest_code_77e627011b7f4a929f61455e0963919e-2" href="#rest_code_77e627011b7f4a929f61455e0963919e-2"></a>    <span class="k">pass</span>
+<a id="rest_code_77e627011b7f4a929f61455e0963919e-3" name="rest_code_77e627011b7f4a929f61455e0963919e-3" href="#rest_code_77e627011b7f4a929f61455e0963919e-3"></a>
+<a id="rest_code_77e627011b7f4a929f61455e0963919e-4" name="rest_code_77e627011b7f4a929f61455e0963919e-4" href="#rest_code_77e627011b7f4a929f61455e0963919e-4"></a><span class="k">class</span> <span class="nc">limit_instances</span><span class="p">:</span>
+<a id="rest_code_77e627011b7f4a929f61455e0963919e-5" name="rest_code_77e627011b7f4a929f61455e0963919e-5" href="#rest_code_77e627011b7f4a929f61455e0963919e-5"></a>    <span class="k">def</span> <span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">limit</span><span class="p">):</span>
+<a id="rest_code_77e627011b7f4a929f61455e0963919e-6" name="rest_code_77e627011b7f4a929f61455e0963919e-6" href="#rest_code_77e627011b7f4a929f61455e0963919e-6"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">limit</span> <span class="o">=</span> <span class="n">limit</span>
+<a id="rest_code_77e627011b7f4a929f61455e0963919e-7" name="rest_code_77e627011b7f4a929f61455e0963919e-7" href="#rest_code_77e627011b7f4a929f61455e0963919e-7"></a>
+<a id="rest_code_77e627011b7f4a929f61455e0963919e-8" name="rest_code_77e627011b7f4a929f61455e0963919e-8" href="#rest_code_77e627011b7f4a929f61455e0963919e-8"></a>    <span class="k">def</span> <span class="fm">__call__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="bp">cls</span><span class="p">):</span>
+<a id="rest_code_77e627011b7f4a929f61455e0963919e-9" name="rest_code_77e627011b7f4a929f61455e0963919e-9" href="#rest_code_77e627011b7f4a929f61455e0963919e-9"></a>        <span class="n">prev_new</span> <span class="o">=</span> <span class="bp">cls</span><span class="o">.</span><span class="fm">__new__</span>
+<a id="rest_code_77e627011b7f4a929f61455e0963919e-10" name="rest_code_77e627011b7f4a929f61455e0963919e-10" href="#rest_code_77e627011b7f4a929f61455e0963919e-10"></a>        <span class="bp">cls</span><span class="o">.</span><span class="n">__num</span> <span class="o">=</span> <span class="mi">0</span>
+<a id="rest_code_77e627011b7f4a929f61455e0963919e-11" name="rest_code_77e627011b7f4a929f61455e0963919e-11" href="#rest_code_77e627011b7f4a929f61455e0963919e-11"></a>        <span class="k">def</span> <span class="fm">__new__</span><span class="p">(</span><span class="bp">cls</span><span class="p">,</span> <span class="o">*</span><span class="n">a</span><span class="p">,</span> <span class="o">**</span><span class="n">kw</span><span class="p">):</span>
+<a id="rest_code_77e627011b7f4a929f61455e0963919e-12" name="rest_code_77e627011b7f4a929f61455e0963919e-12" href="#rest_code_77e627011b7f4a929f61455e0963919e-12"></a>            <span class="bp">cls</span><span class="o">.</span><span class="n">__num</span> <span class="o">+=</span> <span class="mi">1</span>
+<a id="rest_code_77e627011b7f4a929f61455e0963919e-13" name="rest_code_77e627011b7f4a929f61455e0963919e-13" href="#rest_code_77e627011b7f4a929f61455e0963919e-13"></a>            <span class="k">if</span> <span class="bp">cls</span><span class="o">.</span><span class="n">__num</span> <span class="o">&gt;</span> <span class="bp">self</span><span class="o">.</span><span class="n">limit</span><span class="p">:</span>
+<a id="rest_code_77e627011b7f4a929f61455e0963919e-14" name="rest_code_77e627011b7f4a929f61455e0963919e-14" href="#rest_code_77e627011b7f4a929f61455e0963919e-14"></a>                <span class="k">raise</span> <span class="n">LimitExceededException</span><span class="p">()</span>
+<a id="rest_code_77e627011b7f4a929f61455e0963919e-15" name="rest_code_77e627011b7f4a929f61455e0963919e-15" href="#rest_code_77e627011b7f4a929f61455e0963919e-15"></a>            <span class="k">return</span> <span class="n">prev_new</span><span class="p">(</span><span class="bp">cls</span><span class="p">,</span> <span class="o">*</span><span class="n">a</span><span class="p">,</span> <span class="o">**</span><span class="n">kw</span><span class="p">)</span>
+<a id="rest_code_77e627011b7f4a929f61455e0963919e-16" name="rest_code_77e627011b7f4a929f61455e0963919e-16" href="#rest_code_77e627011b7f4a929f61455e0963919e-16"></a>        <span class="bp">cls</span><span class="o">.</span><span class="fm">__new__</span> <span class="o">=</span> <span class="fm">__new__</span>
+<a id="rest_code_77e627011b7f4a929f61455e0963919e-17" name="rest_code_77e627011b7f4a929f61455e0963919e-17" href="#rest_code_77e627011b7f4a929f61455e0963919e-17"></a>        <span class="k">return</span> <span class="bp">cls</span>
+<a id="rest_code_77e627011b7f4a929f61455e0963919e-18" name="rest_code_77e627011b7f4a929f61455e0963919e-18" href="#rest_code_77e627011b7f4a929f61455e0963919e-18"></a>
+<a id="rest_code_77e627011b7f4a929f61455e0963919e-19" name="rest_code_77e627011b7f4a929f61455e0963919e-19" href="#rest_code_77e627011b7f4a929f61455e0963919e-19"></a><span class="nd">@limit_instances</span><span class="p">(</span><span class="mi">5</span><span class="p">)</span>
+<a id="rest_code_77e627011b7f4a929f61455e0963919e-20" name="rest_code_77e627011b7f4a929f61455e0963919e-20" href="#rest_code_77e627011b7f4a929f61455e0963919e-20"></a><span class="k">class</span> <span class="nc">C</span><span class="p">:</span>
+<a id="rest_code_77e627011b7f4a929f61455e0963919e-21" name="rest_code_77e627011b7f4a929f61455e0963919e-21" href="#rest_code_77e627011b7f4a929f61455e0963919e-21"></a>    <span class="k">pass</span>
+<a id="rest_code_77e627011b7f4a929f61455e0963919e-22" name="rest_code_77e627011b7f4a929f61455e0963919e-22" href="#rest_code_77e627011b7f4a929f61455e0963919e-22"></a>
+<a id="rest_code_77e627011b7f4a929f61455e0963919e-23" name="rest_code_77e627011b7f4a929f61455e0963919e-23" href="#rest_code_77e627011b7f4a929f61455e0963919e-23"></a><span class="k">for</span> <span class="n">n</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="mi">10</span><span class="p">):</span>
+<a id="rest_code_77e627011b7f4a929f61455e0963919e-24" name="rest_code_77e627011b7f4a929f61455e0963919e-24" href="#rest_code_77e627011b7f4a929f61455e0963919e-24"></a>    <span class="n">c</span><span class="o">=</span><span class="n">C</span><span class="p">()</span>
+<a id="rest_code_77e627011b7f4a929f61455e0963919e-25" name="rest_code_77e627011b7f4a929f61455e0963919e-25" href="#rest_code_77e627011b7f4a929f61455e0963919e-25"></a>    <span class="nb">print</span><span class="p">(</span><span class="n">c</span><span class="p">)</span>
 </pre></div>
     </div>    
 </div>
         <!--End of body content-->
 
-        <footer id="footer">
-            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+        <footer id="footer" class="bg-light"><span>Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow" target="_blanc">Nikola</a>         </span><span><a href="#" rel="nofollow" target="_blanc">Aporta a PyAr con tu donación</a><a></a></span>
             
         </footer>
 </div>

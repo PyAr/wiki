@@ -32,19 +32,19 @@ root = Tk()
 try:
     root.wm_iconbitmap('@'+'/">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+<meta property="article:published_time" content="2024-06-26T19:43:16-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
 
-<div class="container">
-    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+<div class="container px-0">
+    <nav id="main-navbar" class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="https://www.python.org.ar/">Navbar</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mr-auto">
+            <ul class="navbar-nav">
 <li class="nav-item">
                     <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
                 </li>
@@ -82,7 +82,7 @@ try:
     <div class="body-content">
         <!--Body content-->
         
-<div class="col-lg-12">
+<div class="col-lg-12 px-4 py-2">
     <div class="page-header">
         <div class="pull-right">
             <a href="https://github.com/PyAr/wiki/blob/master/pages/recetario/tkwindowicon.rst" id="sourcelink" class="nav-link">Editar</a>
@@ -91,44 +91,43 @@ try:
     </div>
     <div class="e-content entry-content" itemprop="articleBody text">
     <p>Crea una ventana con Ícono de ventana. Los archivos se pueden pasar a .XBM con Gimp.</p>
-<div class="code"><pre class="code python"><a id="rest_code_c7f08ee6639447258456c953a9a28f06-1" name="rest_code_c7f08ee6639447258456c953a9a28f06-1" href="#rest_code_c7f08ee6639447258456c953a9a28f06-1"></a><span class="ch">#!/usr/bin/env python</span>
-<a id="rest_code_c7f08ee6639447258456c953a9a28f06-2" name="rest_code_c7f08ee6639447258456c953a9a28f06-2" href="#rest_code_c7f08ee6639447258456c953a9a28f06-2"></a><span class="c1">#-*- coding:utf-8 -*-</span>
-<a id="rest_code_c7f08ee6639447258456c953a9a28f06-3" name="rest_code_c7f08ee6639447258456c953a9a28f06-3" href="#rest_code_c7f08ee6639447258456c953a9a28f06-3"></a>
-<a id="rest_code_c7f08ee6639447258456c953a9a28f06-4" name="rest_code_c7f08ee6639447258456c953a9a28f06-4" href="#rest_code_c7f08ee6639447258456c953a9a28f06-4"></a><span class="kn">from</span> <span class="nn">Tkinter</span> <span class="kn">import</span> <span class="o">*</span>
-<a id="rest_code_c7f08ee6639447258456c953a9a28f06-5" name="rest_code_c7f08ee6639447258456c953a9a28f06-5" href="#rest_code_c7f08ee6639447258456c953a9a28f06-5"></a><span class="n">root</span> <span class="o">=</span> <span class="n">Tk</span><span class="p">()</span>
-<a id="rest_code_c7f08ee6639447258456c953a9a28f06-6" name="rest_code_c7f08ee6639447258456c953a9a28f06-6" href="#rest_code_c7f08ee6639447258456c953a9a28f06-6"></a><span class="c1">#</span>
-<a id="rest_code_c7f08ee6639447258456c953a9a28f06-7" name="rest_code_c7f08ee6639447258456c953a9a28f06-7" href="#rest_code_c7f08ee6639447258456c953a9a28f06-7"></a><span class="k">try</span><span class="p">:</span>
-<a id="rest_code_c7f08ee6639447258456c953a9a28f06-8" name="rest_code_c7f08ee6639447258456c953a9a28f06-8" href="#rest_code_c7f08ee6639447258456c953a9a28f06-8"></a>    <span class="n">root</span><span class="o">.</span><span class="n">wm_iconbitmap</span><span class="p">(</span><span class="s1">'@'</span><span class="o">+</span><span class="s1">'/usr/include/X11/bitmaps/icon'</span><span class="p">)</span>  <span class="c1"># Ruta al icono, formato .XBM</span>
-<a id="rest_code_c7f08ee6639447258456c953a9a28f06-9" name="rest_code_c7f08ee6639447258456c953a9a28f06-9" href="#rest_code_c7f08ee6639447258456c953a9a28f06-9"></a><span class="k">except</span> <span class="n">TclError</span><span class="p">:</span>
-<a id="rest_code_c7f08ee6639447258456c953a9a28f06-10" name="rest_code_c7f08ee6639447258456c953a9a28f06-10" href="#rest_code_c7f08ee6639447258456c953a9a28f06-10"></a>    <span class="nb">print</span><span class="p">(</span><span class="s2">" "</span><span class="p">)</span>
-<a id="rest_code_c7f08ee6639447258456c953a9a28f06-11" name="rest_code_c7f08ee6639447258456c953a9a28f06-11" href="#rest_code_c7f08ee6639447258456c953a9a28f06-11"></a>    <span class="nb">print</span><span class="p">(</span><span class="s2">" ERROR: Icon File not found... "</span><span class="p">)</span> <span class="c1"># imprime este mensaje si el icono no se encuentra</span>
-<a id="rest_code_c7f08ee6639447258456c953a9a28f06-12" name="rest_code_c7f08ee6639447258456c953a9a28f06-12" href="#rest_code_c7f08ee6639447258456c953a9a28f06-12"></a>    <span class="nb">print</span><span class="p">(</span><span class="s2">" "</span><span class="p">)</span>
-<a id="rest_code_c7f08ee6639447258456c953a9a28f06-13" name="rest_code_c7f08ee6639447258456c953a9a28f06-13" href="#rest_code_c7f08ee6639447258456c953a9a28f06-13"></a>    <span class="k">pass</span>
-<a id="rest_code_c7f08ee6639447258456c953a9a28f06-14" name="rest_code_c7f08ee6639447258456c953a9a28f06-14" href="#rest_code_c7f08ee6639447258456c953a9a28f06-14"></a><span class="c1">#</span>
-<a id="rest_code_c7f08ee6639447258456c953a9a28f06-15" name="rest_code_c7f08ee6639447258456c953a9a28f06-15" href="#rest_code_c7f08ee6639447258456c953a9a28f06-15"></a><span class="n">root</span><span class="o">.</span><span class="n">mainloop</span><span class="p">()</span>
+<div class="code"><pre class="code python"><a id="rest_code_f38d52a533e5430db976c3bcafcd5470-1" name="rest_code_f38d52a533e5430db976c3bcafcd5470-1" href="#rest_code_f38d52a533e5430db976c3bcafcd5470-1"></a><span class="ch">#!/usr/bin/env python</span>
+<a id="rest_code_f38d52a533e5430db976c3bcafcd5470-2" name="rest_code_f38d52a533e5430db976c3bcafcd5470-2" href="#rest_code_f38d52a533e5430db976c3bcafcd5470-2"></a><span class="c1">#-*- coding:utf-8 -*-</span>
+<a id="rest_code_f38d52a533e5430db976c3bcafcd5470-3" name="rest_code_f38d52a533e5430db976c3bcafcd5470-3" href="#rest_code_f38d52a533e5430db976c3bcafcd5470-3"></a>
+<a id="rest_code_f38d52a533e5430db976c3bcafcd5470-4" name="rest_code_f38d52a533e5430db976c3bcafcd5470-4" href="#rest_code_f38d52a533e5430db976c3bcafcd5470-4"></a><span class="kn">from</span> <span class="nn">Tkinter</span> <span class="kn">import</span> <span class="o">*</span>
+<a id="rest_code_f38d52a533e5430db976c3bcafcd5470-5" name="rest_code_f38d52a533e5430db976c3bcafcd5470-5" href="#rest_code_f38d52a533e5430db976c3bcafcd5470-5"></a><span class="n">root</span> <span class="o">=</span> <span class="n">Tk</span><span class="p">()</span>
+<a id="rest_code_f38d52a533e5430db976c3bcafcd5470-6" name="rest_code_f38d52a533e5430db976c3bcafcd5470-6" href="#rest_code_f38d52a533e5430db976c3bcafcd5470-6"></a><span class="c1">#</span>
+<a id="rest_code_f38d52a533e5430db976c3bcafcd5470-7" name="rest_code_f38d52a533e5430db976c3bcafcd5470-7" href="#rest_code_f38d52a533e5430db976c3bcafcd5470-7"></a><span class="k">try</span><span class="p">:</span>
+<a id="rest_code_f38d52a533e5430db976c3bcafcd5470-8" name="rest_code_f38d52a533e5430db976c3bcafcd5470-8" href="#rest_code_f38d52a533e5430db976c3bcafcd5470-8"></a>    <span class="n">root</span><span class="o">.</span><span class="n">wm_iconbitmap</span><span class="p">(</span><span class="s1">'@'</span><span class="o">+</span><span class="s1">'/usr/include/X11/bitmaps/icon'</span><span class="p">)</span>  <span class="c1"># Ruta al icono, formato .XBM</span>
+<a id="rest_code_f38d52a533e5430db976c3bcafcd5470-9" name="rest_code_f38d52a533e5430db976c3bcafcd5470-9" href="#rest_code_f38d52a533e5430db976c3bcafcd5470-9"></a><span class="k">except</span> <span class="n">TclError</span><span class="p">:</span>
+<a id="rest_code_f38d52a533e5430db976c3bcafcd5470-10" name="rest_code_f38d52a533e5430db976c3bcafcd5470-10" href="#rest_code_f38d52a533e5430db976c3bcafcd5470-10"></a>    <span class="nb">print</span><span class="p">(</span><span class="s2">" "</span><span class="p">)</span>
+<a id="rest_code_f38d52a533e5430db976c3bcafcd5470-11" name="rest_code_f38d52a533e5430db976c3bcafcd5470-11" href="#rest_code_f38d52a533e5430db976c3bcafcd5470-11"></a>    <span class="nb">print</span><span class="p">(</span><span class="s2">" ERROR: Icon File not found... "</span><span class="p">)</span> <span class="c1"># imprime este mensaje si el icono no se encuentra</span>
+<a id="rest_code_f38d52a533e5430db976c3bcafcd5470-12" name="rest_code_f38d52a533e5430db976c3bcafcd5470-12" href="#rest_code_f38d52a533e5430db976c3bcafcd5470-12"></a>    <span class="nb">print</span><span class="p">(</span><span class="s2">" "</span><span class="p">)</span>
+<a id="rest_code_f38d52a533e5430db976c3bcafcd5470-13" name="rest_code_f38d52a533e5430db976c3bcafcd5470-13" href="#rest_code_f38d52a533e5430db976c3bcafcd5470-13"></a>    <span class="k">pass</span>
+<a id="rest_code_f38d52a533e5430db976c3bcafcd5470-14" name="rest_code_f38d52a533e5430db976c3bcafcd5470-14" href="#rest_code_f38d52a533e5430db976c3bcafcd5470-14"></a><span class="c1">#</span>
+<a id="rest_code_f38d52a533e5430db976c3bcafcd5470-15" name="rest_code_f38d52a533e5430db976c3bcafcd5470-15" href="#rest_code_f38d52a533e5430db976c3bcafcd5470-15"></a><span class="n">root</span><span class="o">.</span><span class="n">mainloop</span><span class="p">()</span>
 </pre></div>
 <p>Si estamos en Windows es mejor usar la función iconbitmap('Icono.ico') que también se puede pasar la imagen a .ico con Gimp.</p>
-<div class="code"><pre class="code python"><a id="rest_code_3701db54acb44636ad0e77389c26ff22-1" name="rest_code_3701db54acb44636ad0e77389c26ff22-1" href="#rest_code_3701db54acb44636ad0e77389c26ff22-1"></a><span class="ch">#!/usr/bin/python</span>
-<a id="rest_code_3701db54acb44636ad0e77389c26ff22-2" name="rest_code_3701db54acb44636ad0e77389c26ff22-2" href="#rest_code_3701db54acb44636ad0e77389c26ff22-2"></a><span class="c1"># -*- coding: utf-8 -*-</span>
-<a id="rest_code_3701db54acb44636ad0e77389c26ff22-3" name="rest_code_3701db54acb44636ad0e77389c26ff22-3" href="#rest_code_3701db54acb44636ad0e77389c26ff22-3"></a><span class="kn">from</span> <span class="nn">Tkinter</span> <span class="kn">import</span> <span class="o">*</span>
-<a id="rest_code_3701db54acb44636ad0e77389c26ff22-4" name="rest_code_3701db54acb44636ad0e77389c26ff22-4" href="#rest_code_3701db54acb44636ad0e77389c26ff22-4"></a><span class="n">root</span> <span class="o">=</span> <span class="n">Tk</span><span class="p">()</span>
-<a id="rest_code_3701db54acb44636ad0e77389c26ff22-5" name="rest_code_3701db54acb44636ad0e77389c26ff22-5" href="#rest_code_3701db54acb44636ad0e77389c26ff22-5"></a><span class="c1">#</span>
-<a id="rest_code_3701db54acb44636ad0e77389c26ff22-6" name="rest_code_3701db54acb44636ad0e77389c26ff22-6" href="#rest_code_3701db54acb44636ad0e77389c26ff22-6"></a><span class="k">try</span><span class="p">:</span>
-<a id="rest_code_3701db54acb44636ad0e77389c26ff22-7" name="rest_code_3701db54acb44636ad0e77389c26ff22-7" href="#rest_code_3701db54acb44636ad0e77389c26ff22-7"></a>    <span class="n">root</span><span class="o">.</span><span class="n">iconbitmap</span><span class="p">(</span><span class="s1">'Icono.ico'</span><span class="p">)</span>  <span class="c1"># icono en  formato .ico de windows</span>
-<a id="rest_code_3701db54acb44636ad0e77389c26ff22-8" name="rest_code_3701db54acb44636ad0e77389c26ff22-8" href="#rest_code_3701db54acb44636ad0e77389c26ff22-8"></a><span class="k">except</span> <span class="n">TclError</span><span class="p">:</span>
-<a id="rest_code_3701db54acb44636ad0e77389c26ff22-9" name="rest_code_3701db54acb44636ad0e77389c26ff22-9" href="#rest_code_3701db54acb44636ad0e77389c26ff22-9"></a>    <span class="nb">print</span><span class="p">(</span><span class="s2">" "</span><span class="p">)</span>
-<a id="rest_code_3701db54acb44636ad0e77389c26ff22-10" name="rest_code_3701db54acb44636ad0e77389c26ff22-10" href="#rest_code_3701db54acb44636ad0e77389c26ff22-10"></a>    <span class="nb">print</span><span class="p">(</span><span class="s2">" ERROR: Icon File not found... "</span><span class="p">)</span> <span class="c1"># imprime este mensaje si el icono no se encuentra</span>
-<a id="rest_code_3701db54acb44636ad0e77389c26ff22-11" name="rest_code_3701db54acb44636ad0e77389c26ff22-11" href="#rest_code_3701db54acb44636ad0e77389c26ff22-11"></a>    <span class="nb">print</span><span class="p">(</span><span class="s2">" "</span><span class="p">)</span>
-<a id="rest_code_3701db54acb44636ad0e77389c26ff22-12" name="rest_code_3701db54acb44636ad0e77389c26ff22-12" href="#rest_code_3701db54acb44636ad0e77389c26ff22-12"></a>    <span class="k">pass</span>
-<a id="rest_code_3701db54acb44636ad0e77389c26ff22-13" name="rest_code_3701db54acb44636ad0e77389c26ff22-13" href="#rest_code_3701db54acb44636ad0e77389c26ff22-13"></a><span class="c1">#</span>
-<a id="rest_code_3701db54acb44636ad0e77389c26ff22-14" name="rest_code_3701db54acb44636ad0e77389c26ff22-14" href="#rest_code_3701db54acb44636ad0e77389c26ff22-14"></a><span class="n">root</span><span class="o">.</span><span class="n">mainloop</span><span class="p">()</span>
+<div class="code"><pre class="code python"><a id="rest_code_5c3795d6105740b59bbd22ca8909eefb-1" name="rest_code_5c3795d6105740b59bbd22ca8909eefb-1" href="#rest_code_5c3795d6105740b59bbd22ca8909eefb-1"></a><span class="ch">#!/usr/bin/python</span>
+<a id="rest_code_5c3795d6105740b59bbd22ca8909eefb-2" name="rest_code_5c3795d6105740b59bbd22ca8909eefb-2" href="#rest_code_5c3795d6105740b59bbd22ca8909eefb-2"></a><span class="c1"># -*- coding: utf-8 -*-</span>
+<a id="rest_code_5c3795d6105740b59bbd22ca8909eefb-3" name="rest_code_5c3795d6105740b59bbd22ca8909eefb-3" href="#rest_code_5c3795d6105740b59bbd22ca8909eefb-3"></a><span class="kn">from</span> <span class="nn">Tkinter</span> <span class="kn">import</span> <span class="o">*</span>
+<a id="rest_code_5c3795d6105740b59bbd22ca8909eefb-4" name="rest_code_5c3795d6105740b59bbd22ca8909eefb-4" href="#rest_code_5c3795d6105740b59bbd22ca8909eefb-4"></a><span class="n">root</span> <span class="o">=</span> <span class="n">Tk</span><span class="p">()</span>
+<a id="rest_code_5c3795d6105740b59bbd22ca8909eefb-5" name="rest_code_5c3795d6105740b59bbd22ca8909eefb-5" href="#rest_code_5c3795d6105740b59bbd22ca8909eefb-5"></a><span class="c1">#</span>
+<a id="rest_code_5c3795d6105740b59bbd22ca8909eefb-6" name="rest_code_5c3795d6105740b59bbd22ca8909eefb-6" href="#rest_code_5c3795d6105740b59bbd22ca8909eefb-6"></a><span class="k">try</span><span class="p">:</span>
+<a id="rest_code_5c3795d6105740b59bbd22ca8909eefb-7" name="rest_code_5c3795d6105740b59bbd22ca8909eefb-7" href="#rest_code_5c3795d6105740b59bbd22ca8909eefb-7"></a>    <span class="n">root</span><span class="o">.</span><span class="n">iconbitmap</span><span class="p">(</span><span class="s1">'Icono.ico'</span><span class="p">)</span>  <span class="c1"># icono en  formato .ico de windows</span>
+<a id="rest_code_5c3795d6105740b59bbd22ca8909eefb-8" name="rest_code_5c3795d6105740b59bbd22ca8909eefb-8" href="#rest_code_5c3795d6105740b59bbd22ca8909eefb-8"></a><span class="k">except</span> <span class="n">TclError</span><span class="p">:</span>
+<a id="rest_code_5c3795d6105740b59bbd22ca8909eefb-9" name="rest_code_5c3795d6105740b59bbd22ca8909eefb-9" href="#rest_code_5c3795d6105740b59bbd22ca8909eefb-9"></a>    <span class="nb">print</span><span class="p">(</span><span class="s2">" "</span><span class="p">)</span>
+<a id="rest_code_5c3795d6105740b59bbd22ca8909eefb-10" name="rest_code_5c3795d6105740b59bbd22ca8909eefb-10" href="#rest_code_5c3795d6105740b59bbd22ca8909eefb-10"></a>    <span class="nb">print</span><span class="p">(</span><span class="s2">" ERROR: Icon File not found... "</span><span class="p">)</span> <span class="c1"># imprime este mensaje si el icono no se encuentra</span>
+<a id="rest_code_5c3795d6105740b59bbd22ca8909eefb-11" name="rest_code_5c3795d6105740b59bbd22ca8909eefb-11" href="#rest_code_5c3795d6105740b59bbd22ca8909eefb-11"></a>    <span class="nb">print</span><span class="p">(</span><span class="s2">" "</span><span class="p">)</span>
+<a id="rest_code_5c3795d6105740b59bbd22ca8909eefb-12" name="rest_code_5c3795d6105740b59bbd22ca8909eefb-12" href="#rest_code_5c3795d6105740b59bbd22ca8909eefb-12"></a>    <span class="k">pass</span>
+<a id="rest_code_5c3795d6105740b59bbd22ca8909eefb-13" name="rest_code_5c3795d6105740b59bbd22ca8909eefb-13" href="#rest_code_5c3795d6105740b59bbd22ca8909eefb-13"></a><span class="c1">#</span>
+<a id="rest_code_5c3795d6105740b59bbd22ca8909eefb-14" name="rest_code_5c3795d6105740b59bbd22ca8909eefb-14" href="#rest_code_5c3795d6105740b59bbd22ca8909eefb-14"></a><span class="n">root</span><span class="o">.</span><span class="n">mainloop</span><span class="p">()</span>
 </pre></div>
     </div>    
 </div>
         <!--End of body content-->
 
-        <footer id="footer">
-            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+        <footer id="footer" class="bg-light"><span>Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow" target="_blanc">Nikola</a>         </span><span><a href="#" rel="nofollow" target="_blanc">Aporta a PyAr con tu donación</a><a></a></span>
             
         </footer>
 </div>

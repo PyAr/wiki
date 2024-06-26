@@ -28,19 +28,19 @@ og: http://ogp.me/ns# article: http://ogp.me/ns/article#
 Cerrar correctamente tu programa
 Mejores Prácticas (o Best Practice) de cómo debería cerrarse tu programa de una manera linux-friendly, para p">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-06-23T10:00:50-03:00">
+<meta property="article:published_time" content="2024-06-26T19:43:16-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
 
-<div class="container">
-    <nav class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="#">Navbar</a>
+<div class="container px-0">
+    <nav id="main-navbar" class="navbar navbar-expand-lg navbar-light bg-light"><a class="navbar-brand" href="https://www.python.org.ar/">Navbar</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul class="navbar-nav mr-auto">
+            <ul class="navbar-nav">
 <li class="nav-item">
                     <a class="nav-link" href="http://www.python.org.ar"><span class="inicio"></span>Inicio</a>
                 </li>
@@ -78,7 +78,7 @@ Mejores Prácticas (o Best Practice) de cómo debería cerrarse tu programa de u
     <div class="body-content">
         <!--Body content-->
         
-<div class="col-lg-12">
+<div class="col-lg-12 px-4 py-2">
     <div class="page-header">
         <div class="pull-right">
             <a href="https://github.com/PyAr/wiki/blob/master/pages/recetario/comobajartodoslosbuffersaldisco.rst" id="sourcelink" class="nav-link">Editar</a>
@@ -92,30 +92,29 @@ Mejores Prácticas (o Best Practice) de cómo debería cerrarse tu programa de u
 <section id="cerrar-correctamente-tu-programa"><h2>Cerrar correctamente tu programa</h2>
 <p>Mejores Prácticas <em>(o Best Practice)</em> de cómo debería cerrarse tu programa de una manera linux-friendly, para prevenir corrupción/pérdida de datos.</p>
 <p><strong>Disclaimer:</strong> Esto es más relacionado al OS que a Python en si, válido para los SO tipo Unix, pero es importante para lograr una aplicacion que funcione como debe.</p>
-<div class="code"><pre class="code python"><a id="rest_code_533b9896544c4138875b07f43e8c9518-1" name="rest_code_533b9896544c4138875b07f43e8c9518-1" href="#rest_code_533b9896544c4138875b07f43e8c9518-1"></a>  <span class="kn">import</span> <span class="nn">os</span>
-<a id="rest_code_533b9896544c4138875b07f43e8c9518-2" name="rest_code_533b9896544c4138875b07f43e8c9518-2" href="#rest_code_533b9896544c4138875b07f43e8c9518-2"></a>
-<a id="rest_code_533b9896544c4138875b07f43e8c9518-3" name="rest_code_533b9896544c4138875b07f43e8c9518-3" href="#rest_code_533b9896544c4138875b07f43e8c9518-3"></a>  <span class="c1"># Tu programa debe invocar este comando y luego cerrarse.</span>
-<a id="rest_code_533b9896544c4138875b07f43e8c9518-4" name="rest_code_533b9896544c4138875b07f43e8c9518-4" href="#rest_code_533b9896544c4138875b07f43e8c9518-4"></a>  <span class="n">os</span><span class="o">.</span><span class="n">system</span><span class="p">(</span><span class="s1">'sync'</span><span class="p">)</span>
-<a id="rest_code_533b9896544c4138875b07f43e8c9518-5" name="rest_code_533b9896544c4138875b07f43e8c9518-5" href="#rest_code_533b9896544c4138875b07f43e8c9518-5"></a>
-<a id="rest_code_533b9896544c4138875b07f43e8c9518-6" name="rest_code_533b9896544c4138875b07f43e8c9518-6" href="#rest_code_533b9896544c4138875b07f43e8c9518-6"></a><span class="o">**</span><span class="err">¿</span><span class="n">Por</span> <span class="n">qué</span><span class="err">?</span><span class="p">:</span><span class="o">**</span>  <span class="n">En</span> <span class="n">Linux</span> <span class="n">los</span> <span class="n">datos</span> <span class="n">que</span> <span class="n">teóricamente</span> <span class="n">deberían</span> <span class="n">estar</span> <span class="n">escritos</span> <span class="n">en</span> <span class="n">el</span> <span class="n">disco</span><span class="p">,</span> <span class="n">no</span> <span class="n">siempre</span> <span class="n">lo</span> <span class="n">estan</span> <span class="n">en</span> <span class="n">la</span> <span class="n">realidad</span><span class="p">,</span> <span class="n">por</span> <span class="n">un</span> <span class="n">período</span> <span class="n">de</span> <span class="n">tiempo</span> <span class="n">variable</span> <span class="n">de</span> <span class="n">unos</span> <span class="n">segundos</span> <span class="n">podrían</span> <span class="n">mantenerse</span> <span class="n">en</span> <span class="n">RAM</span><span class="o">.</span> <span class="n">El</span> <span class="n">tiempo</span> <span class="n">en</span> <span class="n">segundos</span> <span class="n">varía</span> <span class="n">según</span> <span class="n">las</span> <span class="n">configuraciones</span> <span class="k">del</span> <span class="n">Kernel</span><span class="o">.</span>
+<div class="code"><pre class="code python"><a id="rest_code_67aff0a8858f4532892454f71054901e-1" name="rest_code_67aff0a8858f4532892454f71054901e-1" href="#rest_code_67aff0a8858f4532892454f71054901e-1"></a>  <span class="kn">import</span> <span class="nn">os</span>
+<a id="rest_code_67aff0a8858f4532892454f71054901e-2" name="rest_code_67aff0a8858f4532892454f71054901e-2" href="#rest_code_67aff0a8858f4532892454f71054901e-2"></a>
+<a id="rest_code_67aff0a8858f4532892454f71054901e-3" name="rest_code_67aff0a8858f4532892454f71054901e-3" href="#rest_code_67aff0a8858f4532892454f71054901e-3"></a>  <span class="c1"># Tu programa debe invocar este comando y luego cerrarse.</span>
+<a id="rest_code_67aff0a8858f4532892454f71054901e-4" name="rest_code_67aff0a8858f4532892454f71054901e-4" href="#rest_code_67aff0a8858f4532892454f71054901e-4"></a>  <span class="n">os</span><span class="o">.</span><span class="n">system</span><span class="p">(</span><span class="s1">'sync'</span><span class="p">)</span>
+<a id="rest_code_67aff0a8858f4532892454f71054901e-5" name="rest_code_67aff0a8858f4532892454f71054901e-5" href="#rest_code_67aff0a8858f4532892454f71054901e-5"></a>
+<a id="rest_code_67aff0a8858f4532892454f71054901e-6" name="rest_code_67aff0a8858f4532892454f71054901e-6" href="#rest_code_67aff0a8858f4532892454f71054901e-6"></a><span class="o">**</span><span class="err">¿</span><span class="n">Por</span> <span class="n">qué</span><span class="err">?</span><span class="p">:</span><span class="o">**</span>  <span class="n">En</span> <span class="n">Linux</span> <span class="n">los</span> <span class="n">datos</span> <span class="n">que</span> <span class="n">teóricamente</span> <span class="n">deberían</span> <span class="n">estar</span> <span class="n">escritos</span> <span class="n">en</span> <span class="n">el</span> <span class="n">disco</span><span class="p">,</span> <span class="n">no</span> <span class="n">siempre</span> <span class="n">lo</span> <span class="n">estan</span> <span class="n">en</span> <span class="n">la</span> <span class="n">realidad</span><span class="p">,</span> <span class="n">por</span> <span class="n">un</span> <span class="n">período</span> <span class="n">de</span> <span class="n">tiempo</span> <span class="n">variable</span> <span class="n">de</span> <span class="n">unos</span> <span class="n">segundos</span> <span class="n">podrían</span> <span class="n">mantenerse</span> <span class="n">en</span> <span class="n">RAM</span><span class="o">.</span> <span class="n">El</span> <span class="n">tiempo</span> <span class="n">en</span> <span class="n">segundos</span> <span class="n">varía</span> <span class="n">según</span> <span class="n">las</span> <span class="n">configuraciones</span> <span class="k">del</span> <span class="n">Kernel</span><span class="o">.</span>
 </pre></div>
 <p><strong>Ejemplo:</strong></p>
-<div class="code"><pre class="code bash"><a id="rest_code_c409de594e9a4d05b7171a6b5f05b651-1" name="rest_code_c409de594e9a4d05b7171a6b5f05b651-1" href="#rest_code_c409de594e9a4d05b7171a6b5f05b651-1"></a>cat<span class="w"> </span>/proc/sys/vm/dirty_writeback_centisecs
-<a id="rest_code_c409de594e9a4d05b7171a6b5f05b651-2" name="rest_code_c409de594e9a4d05b7171a6b5f05b651-2" href="#rest_code_c409de594e9a4d05b7171a6b5f05b651-2"></a><span class="m">500</span>
+<div class="code"><pre class="code bash"><a id="rest_code_f06fef6242ac4db7a1182e8dfad747c0-1" name="rest_code_f06fef6242ac4db7a1182e8dfad747c0-1" href="#rest_code_f06fef6242ac4db7a1182e8dfad747c0-1"></a>cat<span class="w"> </span>/proc/sys/vm/dirty_writeback_centisecs
+<a id="rest_code_f06fef6242ac4db7a1182e8dfad747c0-2" name="rest_code_f06fef6242ac4db7a1182e8dfad747c0-2" href="#rest_code_f06fef6242ac4db7a1182e8dfad747c0-2"></a><span class="m">500</span>
 </pre></div>
 <p>Esto significa que ningun dato se escribirá a disco realmente durante 5 Segundos, esto parece poco, pero en algunos casos como Notebooks o equipos con UPS este valor puede estar en 1500, es decir 15 segundos <em>(lo que es un montón en Infomática)</em>. No piensen que este valor se puede reducir, esto tendría al Kernel contantemente escribiendo la RAM al disco. Esto es más notable en EXT4 con Extents activados. Alternativamente al ejemplo puedes agregar que detecte que OS es y ejecutar o no sync, también puede solucionar algunos "Segmentation Fault" misteriosos al cerrar tu programa.</p>
 <p>En mi Notebook, obtengo este resultado:</p>
 <p>(Si escribo un programa que no invoca a sync puedo perder 10 segundos de datos).</p>
-<div class="code"><pre class="code bash"><a id="rest_code_725c8384c495419dbdf01fd5bf24348e-1" name="rest_code_725c8384c495419dbdf01fd5bf24348e-1" href="#rest_code_725c8384c495419dbdf01fd5bf24348e-1"></a>juan@wind:~$<span class="w"> </span>cat<span class="w"> </span>/proc/sys/vm/dirty_writeback_centisecs
-<a id="rest_code_725c8384c495419dbdf01fd5bf24348e-2" name="rest_code_725c8384c495419dbdf01fd5bf24348e-2" href="#rest_code_725c8384c495419dbdf01fd5bf24348e-2"></a><span class="m">1000</span>
+<div class="code"><pre class="code bash"><a id="rest_code_6775d93dc61b435e9b27235238aac187-1" name="rest_code_6775d93dc61b435e9b27235238aac187-1" href="#rest_code_6775d93dc61b435e9b27235238aac187-1"></a>juan@wind:~$<span class="w"> </span>cat<span class="w"> </span>/proc/sys/vm/dirty_writeback_centisecs
+<a id="rest_code_6775d93dc61b435e9b27235238aac187-2" name="rest_code_6775d93dc61b435e9b27235238aac187-2" href="#rest_code_6775d93dc61b435e9b27235238aac187-2"></a><span class="m">1000</span>
 </pre></div>
 </section>
 </div>    
 </div>
         <!--End of body content-->
 
-        <footer id="footer">
-            Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
+        <footer id="footer" class="bg-light"><span>Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow" target="_blanc">Nikola</a>         </span><span><a href="#" rel="nofollow" target="_blanc">Aporta a PyAr con tu donación</a><a></a></span>
             
         </footer>
 </div>
