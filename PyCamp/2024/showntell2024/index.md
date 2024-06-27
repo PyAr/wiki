@@ -101,6 +101,11 @@ sys.excepthook = my_hook
     Una interfaz TUI para Git. Permite hacer casi toda operación mucho más rápido. 
     Tiene una ayuda que aparece con ?, es muy completa. Destaca la facilidad para hacer cherry pick, copiando commits de branch a branch.
 
+### Mati
+
+[wd](https://github.com/mfaerevaag/wd) para saltar de un path a otro creando "warp points", util para moverse en path muy largos
+
+[direnv](https://direnv.net/) "load and unload environment variables depending on the current directory."
 
 ### Osiux
 

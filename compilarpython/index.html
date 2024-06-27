@@ -27,7 +27,7 @@ og: http://ogp.me/ns# article: http://ogp.me/ns/article#
 Compilando Py3k
 Para compilar primero tenemos que descargar las fuentes desde el repositorio. Para eso, debemos tener un clie">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-06-26T19:43:16-03:00">
+<meta property="article:published_time" content="2024-06-27T07:37:46-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
@@ -89,7 +89,7 @@ Para compilar primero tenemos que descargar las fuentes desde el repositorio. Pa
 <section id="compilando-py3k"><h2>Compilando Py3k</h2>
 <p>Para compilar primero tenemos que descargar las fuentes desde el repositorio. Para eso, debemos tener un cliente de subversion ("sudo aptitude install subversion" en linux basados en debian)</p>
 <p>el comando que hay que correr es el siguiente</p>
-<div class="code"><pre class="code console"><a id="rest_code_eae42946743d4f29affe5e34af0d1438-1" name="rest_code_eae42946743d4f29affe5e34af0d1438-1" href="#rest_code_eae42946743d4f29affe5e34af0d1438-1"></a><span class="go">svn co http://svn.python.org/projects/python/branches/py3k/</span>
+<div class="code"><pre class="code console"><a id="rest_code_9d3b23b1c44b4b8d93dd35d9cee81af7-1" name="rest_code_9d3b23b1c44b4b8d93dd35d9cee81af7-1" href="#rest_code_9d3b23b1c44b4b8d93dd35d9cee81af7-1"></a><span class="go">svn co http://svn.python.org/projects/python/branches/py3k/</span>
 </pre></div>
 <p>luego debemos tener instalados los archivos de desarrollo para poder tener habilitados algunos módulos de Python; si no los instalamos, esos módulos no van a estar disponibles.</p>
 <p>La lista con los nombres en linux basados en debian es:</p>
@@ -106,47 +106,47 @@ Para compilar primero tenemos que descargar las fuentes desde el repositorio. Pa
 <li><p>libdb-dev</p></li>
 </ul>
 <p>Luego de instalar todas las librerías debemos correr los siguientes comandos:</p>
-<div class="code"><pre class="code console"><a id="rest_code_32467785d3e54552a54eef31d7dfec25-1" name="rest_code_32467785d3e54552a54eef31d7dfec25-1" href="#rest_code_32467785d3e54552a54eef31d7dfec25-1"></a><span class="go">cd py3k</span>
-<a id="rest_code_32467785d3e54552a54eef31d7dfec25-2" name="rest_code_32467785d3e54552a54eef31d7dfec25-2" href="#rest_code_32467785d3e54552a54eef31d7dfec25-2"></a><span class="go">./configure</span>
-<a id="rest_code_32467785d3e54552a54eef31d7dfec25-3" name="rest_code_32467785d3e54552a54eef31d7dfec25-3" href="#rest_code_32467785d3e54552a54eef31d7dfec25-3"></a><span class="go">make</span>
-<a id="rest_code_32467785d3e54552a54eef31d7dfec25-4" name="rest_code_32467785d3e54552a54eef31d7dfec25-4" href="#rest_code_32467785d3e54552a54eef31d7dfec25-4"></a><span class="go">sudo make install</span>
+<div class="code"><pre class="code console"><a id="rest_code_fcd9023d361d4b538154b0a427f5e43e-1" name="rest_code_fcd9023d361d4b538154b0a427f5e43e-1" href="#rest_code_fcd9023d361d4b538154b0a427f5e43e-1"></a><span class="go">cd py3k</span>
+<a id="rest_code_fcd9023d361d4b538154b0a427f5e43e-2" name="rest_code_fcd9023d361d4b538154b0a427f5e43e-2" href="#rest_code_fcd9023d361d4b538154b0a427f5e43e-2"></a><span class="go">./configure</span>
+<a id="rest_code_fcd9023d361d4b538154b0a427f5e43e-3" name="rest_code_fcd9023d361d4b538154b0a427f5e43e-3" href="#rest_code_fcd9023d361d4b538154b0a427f5e43e-3"></a><span class="go">make</span>
+<a id="rest_code_fcd9023d361d4b538154b0a427f5e43e-4" name="rest_code_fcd9023d361d4b538154b0a427f5e43e-4" href="#rest_code_fcd9023d361d4b538154b0a427f5e43e-4"></a><span class="go">sudo make install</span>
 </pre></div>
 <p>Si todo salió bien, ahora podemos usar python 3.</p>
 <p>Podemos probar corriendo el comando python3.0 en la consola:</p>
-<div class="code"><pre class="code console"><a id="rest_code_4816ab5da3f04459b0c395b60bed95f9-1" name="rest_code_4816ab5da3f04459b0c395b60bed95f9-1" href="#rest_code_4816ab5da3f04459b0c395b60bed95f9-1"></a><span class="gp">mariano@mousehouse:~/Software/py3k$ </span>python3.0
-<a id="rest_code_4816ab5da3f04459b0c395b60bed95f9-2" name="rest_code_4816ab5da3f04459b0c395b60bed95f9-2" href="#rest_code_4816ab5da3f04459b0c395b60bed95f9-2"></a><span class="go">Python 3.0rc1+ (py3k:66685, Sep 29 2008, 17:25:48)</span>
-<a id="rest_code_4816ab5da3f04459b0c395b60bed95f9-3" name="rest_code_4816ab5da3f04459b0c395b60bed95f9-3" href="#rest_code_4816ab5da3f04459b0c395b60bed95f9-3"></a><span class="go">[GCC 4.2.3 (Ubuntu 4.2.3-2ubuntu7)] on linux2</span>
-<a id="rest_code_4816ab5da3f04459b0c395b60bed95f9-4" name="rest_code_4816ab5da3f04459b0c395b60bed95f9-4" href="#rest_code_4816ab5da3f04459b0c395b60bed95f9-4"></a><span class="go">Type "help", "copyright", "credits" or "license" for more information.</span>
-<a id="rest_code_4816ab5da3f04459b0c395b60bed95f9-5" name="rest_code_4816ab5da3f04459b0c395b60bed95f9-5" href="#rest_code_4816ab5da3f04459b0c395b60bed95f9-5"></a><span class="go">&gt;&gt;&gt;</span>
+<div class="code"><pre class="code console"><a id="rest_code_d6018ca9312d4fd58e6300e8d3e67e33-1" name="rest_code_d6018ca9312d4fd58e6300e8d3e67e33-1" href="#rest_code_d6018ca9312d4fd58e6300e8d3e67e33-1"></a><span class="gp">mariano@mousehouse:~/Software/py3k$ </span>python3.0
+<a id="rest_code_d6018ca9312d4fd58e6300e8d3e67e33-2" name="rest_code_d6018ca9312d4fd58e6300e8d3e67e33-2" href="#rest_code_d6018ca9312d4fd58e6300e8d3e67e33-2"></a><span class="go">Python 3.0rc1+ (py3k:66685, Sep 29 2008, 17:25:48)</span>
+<a id="rest_code_d6018ca9312d4fd58e6300e8d3e67e33-3" name="rest_code_d6018ca9312d4fd58e6300e8d3e67e33-3" href="#rest_code_d6018ca9312d4fd58e6300e8d3e67e33-3"></a><span class="go">[GCC 4.2.3 (Ubuntu 4.2.3-2ubuntu7)] on linux2</span>
+<a id="rest_code_d6018ca9312d4fd58e6300e8d3e67e33-4" name="rest_code_d6018ca9312d4fd58e6300e8d3e67e33-4" href="#rest_code_d6018ca9312d4fd58e6300e8d3e67e33-4"></a><span class="go">Type "help", "copyright", "credits" or "license" for more information.</span>
+<a id="rest_code_d6018ca9312d4fd58e6300e8d3e67e33-5" name="rest_code_d6018ca9312d4fd58e6300e8d3e67e33-5" href="#rest_code_d6018ca9312d4fd58e6300e8d3e67e33-5"></a><span class="go">&gt;&gt;&gt;</span>
 </pre></div>
 <p>Cada vez que queramos actualizar al código más nuevo en el repositorio, debemos hacer lo siguiente:</p>
-<div class="code"><pre class="code console"><a id="rest_code_cdcaa1dbf6164c148ff334fce0accb00-1" name="rest_code_cdcaa1dbf6164c148ff334fce0accb00-1" href="#rest_code_cdcaa1dbf6164c148ff334fce0accb00-1"></a><span class="go">cd py3k</span>
-<a id="rest_code_cdcaa1dbf6164c148ff334fce0accb00-2" name="rest_code_cdcaa1dbf6164c148ff334fce0accb00-2" href="#rest_code_cdcaa1dbf6164c148ff334fce0accb00-2"></a><span class="go">svn up</span>
-<a id="rest_code_cdcaa1dbf6164c148ff334fce0accb00-3" name="rest_code_cdcaa1dbf6164c148ff334fce0accb00-3" href="#rest_code_cdcaa1dbf6164c148ff334fce0accb00-3"></a><span class="go">make</span>
-<a id="rest_code_cdcaa1dbf6164c148ff334fce0accb00-4" name="rest_code_cdcaa1dbf6164c148ff334fce0accb00-4" href="#rest_code_cdcaa1dbf6164c148ff334fce0accb00-4"></a><span class="go">sudo make install</span>
+<div class="code"><pre class="code console"><a id="rest_code_f34e8bb93b0b4b238352298e2f542210-1" name="rest_code_f34e8bb93b0b4b238352298e2f542210-1" href="#rest_code_f34e8bb93b0b4b238352298e2f542210-1"></a><span class="go">cd py3k</span>
+<a id="rest_code_f34e8bb93b0b4b238352298e2f542210-2" name="rest_code_f34e8bb93b0b4b238352298e2f542210-2" href="#rest_code_f34e8bb93b0b4b238352298e2f542210-2"></a><span class="go">svn up</span>
+<a id="rest_code_f34e8bb93b0b4b238352298e2f542210-3" name="rest_code_f34e8bb93b0b4b238352298e2f542210-3" href="#rest_code_f34e8bb93b0b4b238352298e2f542210-3"></a><span class="go">make</span>
+<a id="rest_code_f34e8bb93b0b4b238352298e2f542210-4" name="rest_code_f34e8bb93b0b4b238352298e2f542210-4" href="#rest_code_f34e8bb93b0b4b238352298e2f542210-4"></a><span class="go">sudo make install</span>
 </pre></div>
 <section id="como-armar-un-paquete-deb-de-python"><h3>Cómo armar un paquete DEB de Python</h3>
 <p>A veces es necesario armar un paquete para facilitar la instalación/desinstalación y pruebas en distintas máquinas.</p>
 <p>Aquí un ejemplo de cómo hacerlo para Debian o Ubuntu (bajando py3k):</p>
 <p>Bajamos y descomprimimos (en este caso, por SVN):</p>
-<div class="code"><pre class="code console"><a id="rest_code_5419e6e78a224fbc8fd4e22fab785f0b-1" name="rest_code_5419e6e78a224fbc8fd4e22fab785f0b-1" href="#rest_code_5419e6e78a224fbc8fd4e22fab785f0b-1"></a><span class="go">svn co http://svn.python.org/projects/python/branches/py3k py3k</span>
-<a id="rest_code_5419e6e78a224fbc8fd4e22fab785f0b-2" name="rest_code_5419e6e78a224fbc8fd4e22fab785f0b-2" href="#rest_code_5419e6e78a224fbc8fd4e22fab785f0b-2"></a><span class="go">cd py3k</span>
+<div class="code"><pre class="code console"><a id="rest_code_994a1ab83a7047d6939147a8605ea0d4-1" name="rest_code_994a1ab83a7047d6939147a8605ea0d4-1" href="#rest_code_994a1ab83a7047d6939147a8605ea0d4-1"></a><span class="go">svn co http://svn.python.org/projects/python/branches/py3k py3k</span>
+<a id="rest_code_994a1ab83a7047d6939147a8605ea0d4-2" name="rest_code_994a1ab83a7047d6939147a8605ea0d4-2" href="#rest_code_994a1ab83a7047d6939147a8605ea0d4-2"></a><span class="go">cd py3k</span>
 </pre></div>
 <p>Configuramos y armamos el paquete:</p>
-<div class="code"><pre class="code console"><a id="rest_code_13927e11c4034d4e8b77558d4919be17-1" name="rest_code_13927e11c4034d4e8b77558d4919be17-1" href="#rest_code_13927e11c4034d4e8b77558d4919be17-1"></a><span class="go">./configure --prefix=$HOME</span>
-<a id="rest_code_13927e11c4034d4e8b77558d4919be17-2" name="rest_code_13927e11c4034d4e8b77558d4919be17-2" href="#rest_code_13927e11c4034d4e8b77558d4919be17-2"></a><span class="go">cat &lt;&lt; EOF &gt; description-pak</span>
-<a id="rest_code_13927e11c4034d4e8b77558d4919be17-3" name="rest_code_13927e11c4034d4e8b77558d4919be17-3" href="#rest_code_13927e11c4034d4e8b77558d4919be17-3"></a><span class="go">Python 3.x provisional test package</span>
-<a id="rest_code_13927e11c4034d4e8b77558d4919be17-4" name="rest_code_13927e11c4034d4e8b77558d4919be17-4" href="#rest_code_13927e11c4034d4e8b77558d4919be17-4"></a><span class="go">EOF</span>
-<a id="rest_code_13927e11c4034d4e8b77558d4919be17-5" name="rest_code_13927e11c4034d4e8b77558d4919be17-5" href="#rest_code_13927e11c4034d4e8b77558d4919be17-5"></a><span class="go">checkinstall -y --pkgname=py3k --pkglicense=PL \</span>
-<a id="rest_code_13927e11c4034d4e8b77558d4919be17-6" name="rest_code_13927e11c4034d4e8b77558d4919be17-6" href="#rest_code_13927e11c4034d4e8b77558d4919be17-6"></a><span class="go">             --maintainer=reingart@example.com \</span>
-<a id="rest_code_13927e11c4034d4e8b77558d4919be17-7" name="rest_code_13927e11c4034d4e8b77558d4919be17-7" href="#rest_code_13927e11c4034d4e8b77558d4919be17-7"></a><span class="go">             --requires= \</span>
-<a id="rest_code_13927e11c4034d4e8b77558d4919be17-8" name="rest_code_13927e11c4034d4e8b77558d4919be17-8" href="#rest_code_13927e11c4034d4e8b77558d4919be17-8"></a><span class="go">             --provides=py3k --pkgrelease=1 \</span>
-<a id="rest_code_13927e11c4034d4e8b77558d4919be17-9" name="rest_code_13927e11c4034d4e8b77558d4919be17-9" href="#rest_code_13927e11c4034d4e8b77558d4919be17-9"></a><span class="go">             --pkgsource=http://www.python.org/download/ \</span>
-<a id="rest_code_13927e11c4034d4e8b77558d4919be17-10" name="rest_code_13927e11c4034d4e8b77558d4919be17-10" href="#rest_code_13927e11c4034d4e8b77558d4919be17-10"></a><span class="go">             --install=no --reset-uids=yes \</span>
-<a id="rest_code_13927e11c4034d4e8b77558d4919be17-11" name="rest_code_13927e11c4034d4e8b77558d4919be17-11" href="#rest_code_13927e11c4034d4e8b77558d4919be17-11"></a><span class="go">             -D make install</span>
+<div class="code"><pre class="code console"><a id="rest_code_9e54cf0c9cd94fb48045e46e29539cf9-1" name="rest_code_9e54cf0c9cd94fb48045e46e29539cf9-1" href="#rest_code_9e54cf0c9cd94fb48045e46e29539cf9-1"></a><span class="go">./configure --prefix=$HOME</span>
+<a id="rest_code_9e54cf0c9cd94fb48045e46e29539cf9-2" name="rest_code_9e54cf0c9cd94fb48045e46e29539cf9-2" href="#rest_code_9e54cf0c9cd94fb48045e46e29539cf9-2"></a><span class="go">cat &lt;&lt; EOF &gt; description-pak</span>
+<a id="rest_code_9e54cf0c9cd94fb48045e46e29539cf9-3" name="rest_code_9e54cf0c9cd94fb48045e46e29539cf9-3" href="#rest_code_9e54cf0c9cd94fb48045e46e29539cf9-3"></a><span class="go">Python 3.x provisional test package</span>
+<a id="rest_code_9e54cf0c9cd94fb48045e46e29539cf9-4" name="rest_code_9e54cf0c9cd94fb48045e46e29539cf9-4" href="#rest_code_9e54cf0c9cd94fb48045e46e29539cf9-4"></a><span class="go">EOF</span>
+<a id="rest_code_9e54cf0c9cd94fb48045e46e29539cf9-5" name="rest_code_9e54cf0c9cd94fb48045e46e29539cf9-5" href="#rest_code_9e54cf0c9cd94fb48045e46e29539cf9-5"></a><span class="go">checkinstall -y --pkgname=py3k --pkglicense=PL \</span>
+<a id="rest_code_9e54cf0c9cd94fb48045e46e29539cf9-6" name="rest_code_9e54cf0c9cd94fb48045e46e29539cf9-6" href="#rest_code_9e54cf0c9cd94fb48045e46e29539cf9-6"></a><span class="go">             --maintainer=reingart@example.com \</span>
+<a id="rest_code_9e54cf0c9cd94fb48045e46e29539cf9-7" name="rest_code_9e54cf0c9cd94fb48045e46e29539cf9-7" href="#rest_code_9e54cf0c9cd94fb48045e46e29539cf9-7"></a><span class="go">             --requires= \</span>
+<a id="rest_code_9e54cf0c9cd94fb48045e46e29539cf9-8" name="rest_code_9e54cf0c9cd94fb48045e46e29539cf9-8" href="#rest_code_9e54cf0c9cd94fb48045e46e29539cf9-8"></a><span class="go">             --provides=py3k --pkgrelease=1 \</span>
+<a id="rest_code_9e54cf0c9cd94fb48045e46e29539cf9-9" name="rest_code_9e54cf0c9cd94fb48045e46e29539cf9-9" href="#rest_code_9e54cf0c9cd94fb48045e46e29539cf9-9"></a><span class="go">             --pkgsource=http://www.python.org/download/ \</span>
+<a id="rest_code_9e54cf0c9cd94fb48045e46e29539cf9-10" name="rest_code_9e54cf0c9cd94fb48045e46e29539cf9-10" href="#rest_code_9e54cf0c9cd94fb48045e46e29539cf9-10"></a><span class="go">             --install=no --reset-uids=yes \</span>
+<a id="rest_code_9e54cf0c9cd94fb48045e46e29539cf9-11" name="rest_code_9e54cf0c9cd94fb48045e46e29539cf9-11" href="#rest_code_9e54cf0c9cd94fb48045e46e29539cf9-11"></a><span class="go">             -D make install</span>
 </pre></div>
 <p>Luego, instalamos el paquete con:</p>
-<div class="code"><pre class="code console"><a id="rest_code_15e113695c984303a58be3a9028ff144-1" name="rest_code_15e113695c984303a58be3a9028ff144-1" href="#rest_code_15e113695c984303a58be3a9028ff144-1"></a><span class="go">dpkg -i py3k-1_i386.deb</span>
+<div class="code"><pre class="code console"><a id="rest_code_f7d6e5edb7e845c79b83ad9425b5f772-1" name="rest_code_f7d6e5edb7e845c79b83ad9425b5f772-1" href="#rest_code_f7d6e5edb7e845c79b83ad9425b5f772-1"></a><span class="go">dpkg -i py3k-1_i386.deb</span>
 </pre></div>
 </section></section>
 </div>    

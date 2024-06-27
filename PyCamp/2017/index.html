@@ -32,7 +32,7 @@ WiFi
 ASL1@pyar y ASL2@pyar.
 ">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-06-26T19:43:16-03:00">
+<meta property="article:published_time" content="2024-06-27T07:37:46-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
@@ -172,12 +172,12 @@ Por otro lado, para congelar ya la tarifa, se necesitaria el 70% del total ($343
 <p>Conectate con cualquier cliente de irc al server en 192.168.1.100, canal #pycamp</p>
 </section><section id="mirror-pypi"><h3>Mirror PyPI</h3>
 <p>Agregá esto al final de tu archivo <code class="docutils literal">/etc/hosts</code>:</p>
-<div class="code"><pre class="code text"><a id="rest_code_0318dbc41e3b4c85a01108f3538e6058-1" name="rest_code_0318dbc41e3b4c85a01108f3538e6058-1" href="#rest_code_0318dbc41e3b4c85a01108f3538e6058-1"></a>192.168.1.100 pypi.pycamp
+<div class="code"><pre class="code text"><a id="rest_code_8d239fbd8a834754ba1c731e88e6e1b8-1" name="rest_code_8d239fbd8a834754ba1c731e88e6e1b8-1" href="#rest_code_8d239fbd8a834754ba1c731e88e6e1b8-1"></a>192.168.1.100 pypi.pycamp
 </pre></div>
 <p>Y agregá esto en tu archivo <code class="docutils literal"><span class="pre">/home/tuuser/.pip/pip.conf</span></code>:</p>
-<div class="code"><pre class="code text"><a id="rest_code_c427010bcec74fa59ce8579438e3106a-1" name="rest_code_c427010bcec74fa59ce8579438e3106a-1" href="#rest_code_c427010bcec74fa59ce8579438e3106a-1"></a>[global]
-<a id="rest_code_c427010bcec74fa59ce8579438e3106a-2" name="rest_code_c427010bcec74fa59ce8579438e3106a-2" href="#rest_code_c427010bcec74fa59ce8579438e3106a-2"></a>index-url = http://pypi.pycamp/simple
-<a id="rest_code_c427010bcec74fa59ce8579438e3106a-3" name="rest_code_c427010bcec74fa59ce8579438e3106a-3" href="#rest_code_c427010bcec74fa59ce8579438e3106a-3"></a>trusted-host = pypi.pycamp
+<div class="code"><pre class="code text"><a id="rest_code_57a76ebb748c4af8a7ac00537e32f882-1" name="rest_code_57a76ebb748c4af8a7ac00537e32f882-1" href="#rest_code_57a76ebb748c4af8a7ac00537e32f882-1"></a>[global]
+<a id="rest_code_57a76ebb748c4af8a7ac00537e32f882-2" name="rest_code_57a76ebb748c4af8a7ac00537e32f882-2" href="#rest_code_57a76ebb748c4af8a7ac00537e32f882-2"></a>index-url = http://pypi.pycamp/simple
+<a id="rest_code_57a76ebb748c4af8a7ac00537e32f882-3" name="rest_code_57a76ebb748c4af8a7ac00537e32f882-3" href="#rest_code_57a76ebb748c4af8a7ac00537e32f882-3"></a>trusted-host = pypi.pycamp
 </pre></div>
 <p>astá! ahora podés hacer pip install y va a volar (a la velocidad de una raspi y nuestro wifi)</p>
 </section></section>
