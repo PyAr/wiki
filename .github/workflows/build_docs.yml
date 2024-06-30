@@ -1,0 +1,32 @@
+name: Construir y publicar el sitio con Nikola
+
+on:
+  push:
+    branches: [ master ]
+    paths: 
+      - conf.py
+      - pages/**
+      - themes/**
+      - plugins/**
+      - images/**
+
+  pull_request:
+    branches: [ master ]
+    paths: 
+      - conf.py
+      - pages/**
+      - themes/**
+      - plugins/**
+      - images/**
+      
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    - name: Buildear con Nikola y publicar a GH Pages
+      uses: getnikola/nikola-action@v8
+      with:
+        dry_run: ${{ github.event_name == 'pull_request' }} # Solo build, no deploy
