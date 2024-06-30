@@ -32,7 +32,7 @@ except ImportError:
     print(" ")
   '>
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-06-27T07:37:46-03:00">
+<meta property="article:published_time" content="2024-06-30T11:47:16-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
@@ -91,25 +91,25 @@ except ImportError:
     </div>
     <div class="e-content entry-content" itemprop="articleBody text">
     <p>Acelera las aplicaciones en Python (JIT), disponible para 32bit.</p>
-<div class="code"><pre class="code python"><a id="rest_code_2412b4d910414b8293abcb3c98bd2c95-1" name="rest_code_2412b4d910414b8293abcb3c98bd2c95-1" href="#rest_code_2412b4d910414b8293abcb3c98bd2c95-1"></a><span class="ch">#!/usr/bin/env python</span>
-<a id="rest_code_2412b4d910414b8293abcb3c98bd2c95-2" name="rest_code_2412b4d910414b8293abcb3c98bd2c95-2" href="#rest_code_2412b4d910414b8293abcb3c98bd2c95-2"></a><span class="c1">#-*- coding:utf-8 -*-</span>
-<a id="rest_code_2412b4d910414b8293abcb3c98bd2c95-3" name="rest_code_2412b4d910414b8293abcb3c98bd2c95-3" href="#rest_code_2412b4d910414b8293abcb3c98bd2c95-3"></a><span class="k">try</span><span class="p">:</span>
-<a id="rest_code_2412b4d910414b8293abcb3c98bd2c95-4" name="rest_code_2412b4d910414b8293abcb3c98bd2c95-4" href="#rest_code_2412b4d910414b8293abcb3c98bd2c95-4"></a>    <span class="kn">import</span> <span class="nn">psyco</span>  <span class="c1"># Speed Up :)</span>
-<a id="rest_code_2412b4d910414b8293abcb3c98bd2c95-5" name="rest_code_2412b4d910414b8293abcb3c98bd2c95-5" href="#rest_code_2412b4d910414b8293abcb3c98bd2c95-5"></a>    <span class="n">psyco</span><span class="o">.</span><span class="n">full</span><span class="p">()</span>
-<a id="rest_code_2412b4d910414b8293abcb3c98bd2c95-6" name="rest_code_2412b4d910414b8293abcb3c98bd2c95-6" href="#rest_code_2412b4d910414b8293abcb3c98bd2c95-6"></a><span class="k">except</span> <span class="ne">ImportError</span><span class="p">:</span>
-<a id="rest_code_2412b4d910414b8293abcb3c98bd2c95-7" name="rest_code_2412b4d910414b8293abcb3c98bd2c95-7" href="#rest_code_2412b4d910414b8293abcb3c98bd2c95-7"></a>    <span class="nb">print</span><span class="p">(</span><span class="s2">" "</span><span class="p">)</span>
-<a id="rest_code_2412b4d910414b8293abcb3c98bd2c95-8" name="rest_code_2412b4d910414b8293abcb3c98bd2c95-8" href="#rest_code_2412b4d910414b8293abcb3c98bd2c95-8"></a>    <span class="nb">print</span><span class="p">(</span><span class="s2">" No PYTHON-PSYCO avaliable, this application will run slower... "</span><span class="p">)</span> <span class="c1"># imprime este mensaje si Psyco no esta disponible</span>
-<a id="rest_code_2412b4d910414b8293abcb3c98bd2c95-9" name="rest_code_2412b4d910414b8293abcb3c98bd2c95-9" href="#rest_code_2412b4d910414b8293abcb3c98bd2c95-9"></a>    <span class="nb">print</span><span class="p">(</span><span class="s2">" "</span><span class="p">)</span>
-<a id="rest_code_2412b4d910414b8293abcb3c98bd2c95-10" name="rest_code_2412b4d910414b8293abcb3c98bd2c95-10" href="#rest_code_2412b4d910414b8293abcb3c98bd2c95-10"></a>    <span class="k">pass</span>
-<a id="rest_code_2412b4d910414b8293abcb3c98bd2c95-11" name="rest_code_2412b4d910414b8293abcb3c98bd2c95-11" href="#rest_code_2412b4d910414b8293abcb3c98bd2c95-11"></a><span class="c1"># la aplicacion continuara funcionando si psyco no esta disponible, asi mismo continuara si es 64bit</span>
-<a id="rest_code_2412b4d910414b8293abcb3c98bd2c95-12" name="rest_code_2412b4d910414b8293abcb3c98bd2c95-12" href="#rest_code_2412b4d910414b8293abcb3c98bd2c95-12"></a><span class="c1">########################## imports goes here</span>
-<a id="rest_code_2412b4d910414b8293abcb3c98bd2c95-13" name="rest_code_2412b4d910414b8293abcb3c98bd2c95-13" href="#rest_code_2412b4d910414b8293abcb3c98bd2c95-13"></a><span class="c1"># from foo import bar</span>
+<div class="code"><pre class="code python"><a id="rest_code_7418a51fe4584420be253b65bb02ac63-1" name="rest_code_7418a51fe4584420be253b65bb02ac63-1" href="#rest_code_7418a51fe4584420be253b65bb02ac63-1"></a><span class="ch">#!/usr/bin/env python</span>
+<a id="rest_code_7418a51fe4584420be253b65bb02ac63-2" name="rest_code_7418a51fe4584420be253b65bb02ac63-2" href="#rest_code_7418a51fe4584420be253b65bb02ac63-2"></a><span class="c1">#-*- coding:utf-8 -*-</span>
+<a id="rest_code_7418a51fe4584420be253b65bb02ac63-3" name="rest_code_7418a51fe4584420be253b65bb02ac63-3" href="#rest_code_7418a51fe4584420be253b65bb02ac63-3"></a><span class="k">try</span><span class="p">:</span>
+<a id="rest_code_7418a51fe4584420be253b65bb02ac63-4" name="rest_code_7418a51fe4584420be253b65bb02ac63-4" href="#rest_code_7418a51fe4584420be253b65bb02ac63-4"></a>    <span class="kn">import</span> <span class="nn">psyco</span>  <span class="c1"># Speed Up :)</span>
+<a id="rest_code_7418a51fe4584420be253b65bb02ac63-5" name="rest_code_7418a51fe4584420be253b65bb02ac63-5" href="#rest_code_7418a51fe4584420be253b65bb02ac63-5"></a>    <span class="n">psyco</span><span class="o">.</span><span class="n">full</span><span class="p">()</span>
+<a id="rest_code_7418a51fe4584420be253b65bb02ac63-6" name="rest_code_7418a51fe4584420be253b65bb02ac63-6" href="#rest_code_7418a51fe4584420be253b65bb02ac63-6"></a><span class="k">except</span> <span class="ne">ImportError</span><span class="p">:</span>
+<a id="rest_code_7418a51fe4584420be253b65bb02ac63-7" name="rest_code_7418a51fe4584420be253b65bb02ac63-7" href="#rest_code_7418a51fe4584420be253b65bb02ac63-7"></a>    <span class="nb">print</span><span class="p">(</span><span class="s2">" "</span><span class="p">)</span>
+<a id="rest_code_7418a51fe4584420be253b65bb02ac63-8" name="rest_code_7418a51fe4584420be253b65bb02ac63-8" href="#rest_code_7418a51fe4584420be253b65bb02ac63-8"></a>    <span class="nb">print</span><span class="p">(</span><span class="s2">" No PYTHON-PSYCO avaliable, this application will run slower... "</span><span class="p">)</span> <span class="c1"># imprime este mensaje si Psyco no esta disponible</span>
+<a id="rest_code_7418a51fe4584420be253b65bb02ac63-9" name="rest_code_7418a51fe4584420be253b65bb02ac63-9" href="#rest_code_7418a51fe4584420be253b65bb02ac63-9"></a>    <span class="nb">print</span><span class="p">(</span><span class="s2">" "</span><span class="p">)</span>
+<a id="rest_code_7418a51fe4584420be253b65bb02ac63-10" name="rest_code_7418a51fe4584420be253b65bb02ac63-10" href="#rest_code_7418a51fe4584420be253b65bb02ac63-10"></a>    <span class="k">pass</span>
+<a id="rest_code_7418a51fe4584420be253b65bb02ac63-11" name="rest_code_7418a51fe4584420be253b65bb02ac63-11" href="#rest_code_7418a51fe4584420be253b65bb02ac63-11"></a><span class="c1"># la aplicacion continuara funcionando si psyco no esta disponible, asi mismo continuara si es 64bit</span>
+<a id="rest_code_7418a51fe4584420be253b65bb02ac63-12" name="rest_code_7418a51fe4584420be253b65bb02ac63-12" href="#rest_code_7418a51fe4584420be253b65bb02ac63-12"></a><span class="c1">########################## imports goes here</span>
+<a id="rest_code_7418a51fe4584420be253b65bb02ac63-13" name="rest_code_7418a51fe4584420be253b65bb02ac63-13" href="#rest_code_7418a51fe4584420be253b65bb02ac63-13"></a><span class="c1"># from foo import bar</span>
 </pre></div>
     </div>    
 </div>
         <!--End of body content-->
 
-        <footer id="footer" class="bg-light"><span>Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow" target="_blanc">Nikola</a>         </span><span><a href="#" rel="nofollow" target="_blanc">Aporta a PyAr con tu donación</a><a></a></span>
+        <footer id="footer" class="bg-light"><span>Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow" target="_blanc">Nikola</a>         </span><span><a href="https://ac.python.org.ar/#donaciones" rel="nofollow" target="_blanc">Aporta a PyAr con tu donación</a><a></a></span>
             
         </footer>
 </div>

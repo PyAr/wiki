@@ -26,7 +26,7 @@ og: http://ogp.me/ns# article: http://ogp.me/ns/article#
 if sys.hexversion &gt; 0x02060000: # Python version check
     print "\n Python version &gt; 2.6.0\n" # Aca va que hacer si es mayor'>
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-06-27T07:37:46-03:00">
+<meta property="article:published_time" content="2024-06-30T11:47:16-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
@@ -85,21 +85,21 @@ if sys.hexversion &gt; 0x02060000: # Python version check
     </div>
     <div class="e-content entry-content" itemprop="articleBody text">
     <p>Chequear la versión de Python, y salir o imprimir error en funcion de eso.</p>
-<div class="code"><pre class="code python"><a id="rest_code_fff862fc0ab143adb10bfd00bafe0119-1" name="rest_code_fff862fc0ab143adb10bfd00bafe0119-1" href="#rest_code_fff862fc0ab143adb10bfd00bafe0119-1"></a><span class="k">if</span> <span class="n">sys</span><span class="o">.</span><span class="n">hexversion</span> <span class="o">&gt;</span> <span class="mh">0x02060000</span><span class="p">:</span> <span class="c1"># Python version check</span>
-<a id="rest_code_fff862fc0ab143adb10bfd00bafe0119-2" name="rest_code_fff862fc0ab143adb10bfd00bafe0119-2" href="#rest_code_fff862fc0ab143adb10bfd00bafe0119-2"></a>    <span class="nb">print</span> <span class="s2">"</span><span class="se">\n</span><span class="s2"> Python version &gt; 2.6.0</span><span class="se">\n</span><span class="s2">"</span> <span class="c1"># Aca va que hacer si es mayor, continua</span>
-<a id="rest_code_fff862fc0ab143adb10bfd00bafe0119-3" name="rest_code_fff862fc0ab143adb10bfd00bafe0119-3" href="#rest_code_fff862fc0ab143adb10bfd00bafe0119-3"></a><span class="k">else</span><span class="p">:</span>
-<a id="rest_code_fff862fc0ab143adb10bfd00bafe0119-4" name="rest_code_fff862fc0ab143adb10bfd00bafe0119-4" href="#rest_code_fff862fc0ab143adb10bfd00bafe0119-4"></a>    <span class="nb">print</span> <span class="s2">"</span><span class="se">\n</span><span class="s2"> ERROR: Python version &lt; 2.6.0</span><span class="se">\n</span><span class="s2">"</span> <span class="c1"># Aca va que hacer si es menor, error</span>
+<div class="code"><pre class="code python"><a id="rest_code_cbeda96f945b451386b0cca5a2c6b38b-1" name="rest_code_cbeda96f945b451386b0cca5a2c6b38b-1" href="#rest_code_cbeda96f945b451386b0cca5a2c6b38b-1"></a><span class="k">if</span> <span class="n">sys</span><span class="o">.</span><span class="n">hexversion</span> <span class="o">&gt;</span> <span class="mh">0x02060000</span><span class="p">:</span> <span class="c1"># Python version check</span>
+<a id="rest_code_cbeda96f945b451386b0cca5a2c6b38b-2" name="rest_code_cbeda96f945b451386b0cca5a2c6b38b-2" href="#rest_code_cbeda96f945b451386b0cca5a2c6b38b-2"></a>    <span class="nb">print</span> <span class="s2">"</span><span class="se">\n</span><span class="s2"> Python version &gt; 2.6.0</span><span class="se">\n</span><span class="s2">"</span> <span class="c1"># Aca va que hacer si es mayor, continua</span>
+<a id="rest_code_cbeda96f945b451386b0cca5a2c6b38b-3" name="rest_code_cbeda96f945b451386b0cca5a2c6b38b-3" href="#rest_code_cbeda96f945b451386b0cca5a2c6b38b-3"></a><span class="k">else</span><span class="p">:</span>
+<a id="rest_code_cbeda96f945b451386b0cca5a2c6b38b-4" name="rest_code_cbeda96f945b451386b0cca5a2c6b38b-4" href="#rest_code_cbeda96f945b451386b0cca5a2c6b38b-4"></a>    <span class="nb">print</span> <span class="s2">"</span><span class="se">\n</span><span class="s2"> ERROR: Python version &lt; 2.6.0</span><span class="se">\n</span><span class="s2">"</span> <span class="c1"># Aca va que hacer si es menor, error</span>
 </pre></div>
 <p>Ejemplo:</p>
-<div class="code"><pre class="code bash"><a id="rest_code_f939705297b94d83ada3400f8f88f3ac-1" name="rest_code_f939705297b94d83ada3400f8f88f3ac-1" href="#rest_code_f939705297b94d83ada3400f8f88f3ac-1"></a>juan@maverick:~$<span class="w"> </span>/usr/bin/env<span class="w"> </span>python<span class="w"> </span>test.py
-<a id="rest_code_f939705297b94d83ada3400f8f88f3ac-2" name="rest_code_f939705297b94d83ada3400f8f88f3ac-2" href="#rest_code_f939705297b94d83ada3400f8f88f3ac-2"></a>
-<a id="rest_code_f939705297b94d83ada3400f8f88f3ac-3" name="rest_code_f939705297b94d83ada3400f8f88f3ac-3" href="#rest_code_f939705297b94d83ada3400f8f88f3ac-3"></a><span class="w"> </span>Python<span class="w"> </span>version<span class="w"> </span>&gt;<span class="w"> </span><span class="m">2</span>.6.0
+<div class="code"><pre class="code bash"><a id="rest_code_574bea7c5a144b9288fc86eedc53ca89-1" name="rest_code_574bea7c5a144b9288fc86eedc53ca89-1" href="#rest_code_574bea7c5a144b9288fc86eedc53ca89-1"></a>juan@maverick:~$<span class="w"> </span>/usr/bin/env<span class="w"> </span>python<span class="w"> </span>test.py
+<a id="rest_code_574bea7c5a144b9288fc86eedc53ca89-2" name="rest_code_574bea7c5a144b9288fc86eedc53ca89-2" href="#rest_code_574bea7c5a144b9288fc86eedc53ca89-2"></a>
+<a id="rest_code_574bea7c5a144b9288fc86eedc53ca89-3" name="rest_code_574bea7c5a144b9288fc86eedc53ca89-3" href="#rest_code_574bea7c5a144b9288fc86eedc53ca89-3"></a><span class="w"> </span>Python<span class="w"> </span>version<span class="w"> </span>&gt;<span class="w"> </span><span class="m">2</span>.6.0
 </pre></div>
     </div>    
 </div>
         <!--End of body content-->
 
-        <footer id="footer" class="bg-light"><span>Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow" target="_blanc">Nikola</a>         </span><span><a href="#" rel="nofollow" target="_blanc">Aporta a PyAr con tu donación</a><a></a></span>
+        <footer id="footer" class="bg-light"><span>Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow" target="_blanc">Nikola</a>         </span><span><a href="https://ac.python.org.ar/#donaciones" rel="nofollow" target="_blanc">Aporta a PyAr con tu donación</a><a></a></span>
             
         </footer>
 </div>

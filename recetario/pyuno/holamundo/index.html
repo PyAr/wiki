@@ -33,7 +33,7 @@ def hola_mundo():
 def msgbox(message):
     ctx = uno.getComponentContext(">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-06-27T07:37:46-03:00">
+<meta property="article:published_time" content="2024-06-30T11:47:16-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
@@ -92,24 +92,24 @@ def msgbox(message):
     </div>
     <div class="e-content entry-content" itemprop="articleBody text">
     <p>Todo un clásico... un Hola Mundo desde pyUNO</p>
-<div class="code"><pre class="code python"><a id="rest_code_21220e74f91c4d198f500c3928811178-1" name="rest_code_21220e74f91c4d198f500c3928811178-1" href="#rest_code_21220e74f91c4d198f500c3928811178-1"></a><span class="c1"># -*- coding: utf-8 -*-</span>
-<a id="rest_code_21220e74f91c4d198f500c3928811178-2" name="rest_code_21220e74f91c4d198f500c3928811178-2" href="#rest_code_21220e74f91c4d198f500c3928811178-2"></a><span class="kn">import</span> <span class="nn">uno</span>
-<a id="rest_code_21220e74f91c4d198f500c3928811178-3" name="rest_code_21220e74f91c4d198f500c3928811178-3" href="#rest_code_21220e74f91c4d198f500c3928811178-3"></a>
-<a id="rest_code_21220e74f91c4d198f500c3928811178-4" name="rest_code_21220e74f91c4d198f500c3928811178-4" href="#rest_code_21220e74f91c4d198f500c3928811178-4"></a><span class="k">def</span> <span class="nf">hola_mundo</span><span class="p">():</span>
-<a id="rest_code_21220e74f91c4d198f500c3928811178-5" name="rest_code_21220e74f91c4d198f500c3928811178-5" href="#rest_code_21220e74f91c4d198f500c3928811178-5"></a>    <span class="n">msgbox</span><span class="p">(</span><span class="s1">'Hola Mundo en PyUNO'</span><span class="p">)</span>
-<a id="rest_code_21220e74f91c4d198f500c3928811178-6" name="rest_code_21220e74f91c4d198f500c3928811178-6" href="#rest_code_21220e74f91c4d198f500c3928811178-6"></a>    <span class="k">return</span>
-<a id="rest_code_21220e74f91c4d198f500c3928811178-7" name="rest_code_21220e74f91c4d198f500c3928811178-7" href="#rest_code_21220e74f91c4d198f500c3928811178-7"></a>
-<a id="rest_code_21220e74f91c4d198f500c3928811178-8" name="rest_code_21220e74f91c4d198f500c3928811178-8" href="#rest_code_21220e74f91c4d198f500c3928811178-8"></a><span class="k">def</span> <span class="nf">msgbox</span><span class="p">(</span><span class="n">message</span><span class="p">):</span>
-<a id="rest_code_21220e74f91c4d198f500c3928811178-9" name="rest_code_21220e74f91c4d198f500c3928811178-9" href="#rest_code_21220e74f91c4d198f500c3928811178-9"></a>    <span class="n">ctx</span> <span class="o">=</span> <span class="n">uno</span><span class="o">.</span><span class="n">getComponentContext</span><span class="p">()</span>
-<a id="rest_code_21220e74f91c4d198f500c3928811178-10" name="rest_code_21220e74f91c4d198f500c3928811178-10" href="#rest_code_21220e74f91c4d198f500c3928811178-10"></a>    <span class="n">sm</span> <span class="o">=</span> <span class="n">ctx</span><span class="o">.</span><span class="n">getServiceManager</span><span class="p">()</span>
-<a id="rest_code_21220e74f91c4d198f500c3928811178-11" name="rest_code_21220e74f91c4d198f500c3928811178-11" href="#rest_code_21220e74f91c4d198f500c3928811178-11"></a>    <span class="n">toolkit</span> <span class="o">=</span> <span class="n">sm</span><span class="o">.</span><span class="n">createInstanceWithContext</span><span class="p">(</span><span class="s1">'com.sun.star.awt.Toolkit'</span><span class="p">,</span> <span class="n">ctx</span><span class="p">)</span>
-<a id="rest_code_21220e74f91c4d198f500c3928811178-12" name="rest_code_21220e74f91c4d198f500c3928811178-12" href="#rest_code_21220e74f91c4d198f500c3928811178-12"></a>    <span class="n">msg</span> <span class="o">=</span> <span class="n">toolkit</span><span class="o">.</span><span class="n">createMessageBox</span><span class="p">(</span>
-<a id="rest_code_21220e74f91c4d198f500c3928811178-13" name="rest_code_21220e74f91c4d198f500c3928811178-13" href="#rest_code_21220e74f91c4d198f500c3928811178-13"></a>                                <span class="n">toolkit</span><span class="o">.</span><span class="n">getDesktopWindow</span><span class="p">(),</span>
-<a id="rest_code_21220e74f91c4d198f500c3928811178-14" name="rest_code_21220e74f91c4d198f500c3928811178-14" href="#rest_code_21220e74f91c4d198f500c3928811178-14"></a>                                <span class="s1">'infobox'</span><span class="p">,</span>
-<a id="rest_code_21220e74f91c4d198f500c3928811178-15" name="rest_code_21220e74f91c4d198f500c3928811178-15" href="#rest_code_21220e74f91c4d198f500c3928811178-15"></a>                                <span class="mi">1</span><span class="p">,</span>
-<a id="rest_code_21220e74f91c4d198f500c3928811178-16" name="rest_code_21220e74f91c4d198f500c3928811178-16" href="#rest_code_21220e74f91c4d198f500c3928811178-16"></a>                                <span class="s1">'UNOPython'</span><span class="p">,</span>
-<a id="rest_code_21220e74f91c4d198f500c3928811178-17" name="rest_code_21220e74f91c4d198f500c3928811178-17" href="#rest_code_21220e74f91c4d198f500c3928811178-17"></a>                                <span class="nb">str</span><span class="p">(</span><span class="n">message</span><span class="p">))</span>
-<a id="rest_code_21220e74f91c4d198f500c3928811178-18" name="rest_code_21220e74f91c4d198f500c3928811178-18" href="#rest_code_21220e74f91c4d198f500c3928811178-18"></a>    <span class="k">return</span> <span class="n">msg</span><span class="o">.</span><span class="n">execute</span><span class="p">()</span>
+<div class="code"><pre class="code python"><a id="rest_code_9b10d91e477f4f7a8805cafe8503f625-1" name="rest_code_9b10d91e477f4f7a8805cafe8503f625-1" href="#rest_code_9b10d91e477f4f7a8805cafe8503f625-1"></a><span class="c1"># -*- coding: utf-8 -*-</span>
+<a id="rest_code_9b10d91e477f4f7a8805cafe8503f625-2" name="rest_code_9b10d91e477f4f7a8805cafe8503f625-2" href="#rest_code_9b10d91e477f4f7a8805cafe8503f625-2"></a><span class="kn">import</span> <span class="nn">uno</span>
+<a id="rest_code_9b10d91e477f4f7a8805cafe8503f625-3" name="rest_code_9b10d91e477f4f7a8805cafe8503f625-3" href="#rest_code_9b10d91e477f4f7a8805cafe8503f625-3"></a>
+<a id="rest_code_9b10d91e477f4f7a8805cafe8503f625-4" name="rest_code_9b10d91e477f4f7a8805cafe8503f625-4" href="#rest_code_9b10d91e477f4f7a8805cafe8503f625-4"></a><span class="k">def</span> <span class="nf">hola_mundo</span><span class="p">():</span>
+<a id="rest_code_9b10d91e477f4f7a8805cafe8503f625-5" name="rest_code_9b10d91e477f4f7a8805cafe8503f625-5" href="#rest_code_9b10d91e477f4f7a8805cafe8503f625-5"></a>    <span class="n">msgbox</span><span class="p">(</span><span class="s1">'Hola Mundo en PyUNO'</span><span class="p">)</span>
+<a id="rest_code_9b10d91e477f4f7a8805cafe8503f625-6" name="rest_code_9b10d91e477f4f7a8805cafe8503f625-6" href="#rest_code_9b10d91e477f4f7a8805cafe8503f625-6"></a>    <span class="k">return</span>
+<a id="rest_code_9b10d91e477f4f7a8805cafe8503f625-7" name="rest_code_9b10d91e477f4f7a8805cafe8503f625-7" href="#rest_code_9b10d91e477f4f7a8805cafe8503f625-7"></a>
+<a id="rest_code_9b10d91e477f4f7a8805cafe8503f625-8" name="rest_code_9b10d91e477f4f7a8805cafe8503f625-8" href="#rest_code_9b10d91e477f4f7a8805cafe8503f625-8"></a><span class="k">def</span> <span class="nf">msgbox</span><span class="p">(</span><span class="n">message</span><span class="p">):</span>
+<a id="rest_code_9b10d91e477f4f7a8805cafe8503f625-9" name="rest_code_9b10d91e477f4f7a8805cafe8503f625-9" href="#rest_code_9b10d91e477f4f7a8805cafe8503f625-9"></a>    <span class="n">ctx</span> <span class="o">=</span> <span class="n">uno</span><span class="o">.</span><span class="n">getComponentContext</span><span class="p">()</span>
+<a id="rest_code_9b10d91e477f4f7a8805cafe8503f625-10" name="rest_code_9b10d91e477f4f7a8805cafe8503f625-10" href="#rest_code_9b10d91e477f4f7a8805cafe8503f625-10"></a>    <span class="n">sm</span> <span class="o">=</span> <span class="n">ctx</span><span class="o">.</span><span class="n">getServiceManager</span><span class="p">()</span>
+<a id="rest_code_9b10d91e477f4f7a8805cafe8503f625-11" name="rest_code_9b10d91e477f4f7a8805cafe8503f625-11" href="#rest_code_9b10d91e477f4f7a8805cafe8503f625-11"></a>    <span class="n">toolkit</span> <span class="o">=</span> <span class="n">sm</span><span class="o">.</span><span class="n">createInstanceWithContext</span><span class="p">(</span><span class="s1">'com.sun.star.awt.Toolkit'</span><span class="p">,</span> <span class="n">ctx</span><span class="p">)</span>
+<a id="rest_code_9b10d91e477f4f7a8805cafe8503f625-12" name="rest_code_9b10d91e477f4f7a8805cafe8503f625-12" href="#rest_code_9b10d91e477f4f7a8805cafe8503f625-12"></a>    <span class="n">msg</span> <span class="o">=</span> <span class="n">toolkit</span><span class="o">.</span><span class="n">createMessageBox</span><span class="p">(</span>
+<a id="rest_code_9b10d91e477f4f7a8805cafe8503f625-13" name="rest_code_9b10d91e477f4f7a8805cafe8503f625-13" href="#rest_code_9b10d91e477f4f7a8805cafe8503f625-13"></a>                                <span class="n">toolkit</span><span class="o">.</span><span class="n">getDesktopWindow</span><span class="p">(),</span>
+<a id="rest_code_9b10d91e477f4f7a8805cafe8503f625-14" name="rest_code_9b10d91e477f4f7a8805cafe8503f625-14" href="#rest_code_9b10d91e477f4f7a8805cafe8503f625-14"></a>                                <span class="s1">'infobox'</span><span class="p">,</span>
+<a id="rest_code_9b10d91e477f4f7a8805cafe8503f625-15" name="rest_code_9b10d91e477f4f7a8805cafe8503f625-15" href="#rest_code_9b10d91e477f4f7a8805cafe8503f625-15"></a>                                <span class="mi">1</span><span class="p">,</span>
+<a id="rest_code_9b10d91e477f4f7a8805cafe8503f625-16" name="rest_code_9b10d91e477f4f7a8805cafe8503f625-16" href="#rest_code_9b10d91e477f4f7a8805cafe8503f625-16"></a>                                <span class="s1">'UNOPython'</span><span class="p">,</span>
+<a id="rest_code_9b10d91e477f4f7a8805cafe8503f625-17" name="rest_code_9b10d91e477f4f7a8805cafe8503f625-17" href="#rest_code_9b10d91e477f4f7a8805cafe8503f625-17"></a>                                <span class="nb">str</span><span class="p">(</span><span class="n">message</span><span class="p">))</span>
+<a id="rest_code_9b10d91e477f4f7a8805cafe8503f625-18" name="rest_code_9b10d91e477f4f7a8805cafe8503f625-18" href="#rest_code_9b10d91e477f4f7a8805cafe8503f625-18"></a>    <span class="k">return</span> <span class="n">msg</span><span class="o">.</span><span class="n">execute</span><span class="p">()</span>
 </pre></div>
 <p>Para saber donde guardar esta macro, mira el wiki de Apache OpenOffice: <a class="reference external" href="http://wiki.openoffice.org/wiki/ES/Manuales/GuiaAOO/TemasAvanzados/Macros/Python">http://wiki.openoffice.org/wiki/ES/Manuales/GuiaAOO/TemasAvanzados/Macros/Python</a></p>
 <p>Para ejecutar la macro, desde cualquier aplicación de Apache OpenOffice, menú Herramientas -&gt; Macros -&gt; Ejecutar macros...</p>
@@ -117,7 +117,7 @@ def msgbox(message):
 </div>
         <!--End of body content-->
 
-        <footer id="footer" class="bg-light"><span>Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow" target="_blanc">Nikola</a>         </span><span><a href="#" rel="nofollow" target="_blanc">Aporta a PyAr con tu donación</a><a></a></span>
+        <footer id="footer" class="bg-light"><span>Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow" target="_blanc">Nikola</a>         </span><span><a href="https://ac.python.org.ar/#donaciones" rel="nofollow" target="_blanc">Aporta a PyAr con tu donación</a><a></a></span>
             
         </footer>
 </div>

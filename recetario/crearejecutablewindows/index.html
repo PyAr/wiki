@@ -28,7 +28,7 @@ En esta receta se muestra como:
 Crear un ejecutable (.EXE) nativo para Windows (que no requiera tener Python instalado)
 Generar un archivo autoextraible similar a un instalador (pero más ">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-06-27T07:37:46-03:00">
+<meta property="article:published_time" content="2024-06-30T11:47:16-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
@@ -104,20 +104,20 @@ Generar un archivo autoextraible similar a un instalador (pero más ">
 <li><p><a class="reference external" href="http://www.7-zip.org/">7-Zip</a> (opcional, para crear el archivo autoextraible)</p></li>
 </ul></section><section id="ejemplo"><h2>Ejemplo</h2>
 <p>Como ejemplo tomamos una aplicación simple <em>hola.py</em>:</p>
-<div class="code"><pre class="code python"><a id="rest_code_220ea5fbd8464f65bb3782df22afd96c-1" name="rest_code_220ea5fbd8464f65bb3782df22afd96c-1" href="#rest_code_220ea5fbd8464f65bb3782df22afd96c-1"></a><span class="c1"># -*- coding: iso-8859-1 -*-</span>
-<a id="rest_code_220ea5fbd8464f65bb3782df22afd96c-2" name="rest_code_220ea5fbd8464f65bb3782df22afd96c-2" href="#rest_code_220ea5fbd8464f65bb3782df22afd96c-2"></a>
-<a id="rest_code_220ea5fbd8464f65bb3782df22afd96c-3" name="rest_code_220ea5fbd8464f65bb3782df22afd96c-3" href="#rest_code_220ea5fbd8464f65bb3782df22afd96c-3"></a><span class="nb">print</span> <span class="s2">"hola mundo"</span>
+<div class="code"><pre class="code python"><a id="rest_code_0b26505429644b39abd67fa7c28dd720-1" name="rest_code_0b26505429644b39abd67fa7c28dd720-1" href="#rest_code_0b26505429644b39abd67fa7c28dd720-1"></a><span class="c1"># -*- coding: iso-8859-1 -*-</span>
+<a id="rest_code_0b26505429644b39abd67fa7c28dd720-2" name="rest_code_0b26505429644b39abd67fa7c28dd720-2" href="#rest_code_0b26505429644b39abd67fa7c28dd720-2"></a>
+<a id="rest_code_0b26505429644b39abd67fa7c28dd720-3" name="rest_code_0b26505429644b39abd67fa7c28dd720-3" href="#rest_code_0b26505429644b39abd67fa7c28dd720-3"></a><span class="nb">print</span> <span class="s2">"hola mundo"</span>
 </pre></div>
 </section><section id="compilando-python-con-py2exe"><h2>"Compilando" Python con Py2Exe</h2>
 <p><a class="reference external" href="../../py2exe">Py2Exe</a> empaqueta los archivos necesarios para ejecutar la aplicación sin necesitad de instalar Python ni sus dependencias.</p>
 <p>Para crear el ejecutable es necesario crear un script de setup que extiende las utilidades de distribución de python (<a class="reference external" href="../../distutils">DistUtils</a>), <em>setup.py</em>:</p>
-<div class="code"><pre class="code python"><a id="rest_code_0703546b5a804da3a66359eb3db467dd-1" name="rest_code_0703546b5a804da3a66359eb3db467dd-1" href="#rest_code_0703546b5a804da3a66359eb3db467dd-1"></a><span class="kn">from</span> <span class="nn">distutils.core</span> <span class="kn">import</span> <span class="n">setup</span>
-<a id="rest_code_0703546b5a804da3a66359eb3db467dd-2" name="rest_code_0703546b5a804da3a66359eb3db467dd-2" href="#rest_code_0703546b5a804da3a66359eb3db467dd-2"></a><span class="kn">import</span> <span class="nn">py2exe</span>
-<a id="rest_code_0703546b5a804da3a66359eb3db467dd-3" name="rest_code_0703546b5a804da3a66359eb3db467dd-3" href="#rest_code_0703546b5a804da3a66359eb3db467dd-3"></a>
-<a id="rest_code_0703546b5a804da3a66359eb3db467dd-4" name="rest_code_0703546b5a804da3a66359eb3db467dd-4" href="#rest_code_0703546b5a804da3a66359eb3db467dd-4"></a><span class="n">setup</span><span class="p">(</span><span class="n">console</span><span class="o">=</span><span class="p">[</span><span class="s1">'hola.py'</span><span class="p">])</span>
+<div class="code"><pre class="code python"><a id="rest_code_8543741f42754dc3a23fb9fceffb6473-1" name="rest_code_8543741f42754dc3a23fb9fceffb6473-1" href="#rest_code_8543741f42754dc3a23fb9fceffb6473-1"></a><span class="kn">from</span> <span class="nn">distutils.core</span> <span class="kn">import</span> <span class="n">setup</span>
+<a id="rest_code_8543741f42754dc3a23fb9fceffb6473-2" name="rest_code_8543741f42754dc3a23fb9fceffb6473-2" href="#rest_code_8543741f42754dc3a23fb9fceffb6473-2"></a><span class="kn">import</span> <span class="nn">py2exe</span>
+<a id="rest_code_8543741f42754dc3a23fb9fceffb6473-3" name="rest_code_8543741f42754dc3a23fb9fceffb6473-3" href="#rest_code_8543741f42754dc3a23fb9fceffb6473-3"></a>
+<a id="rest_code_8543741f42754dc3a23fb9fceffb6473-4" name="rest_code_8543741f42754dc3a23fb9fceffb6473-4" href="#rest_code_8543741f42754dc3a23fb9fceffb6473-4"></a><span class="n">setup</span><span class="p">(</span><span class="n">console</span><span class="o">=</span><span class="p">[</span><span class="s1">'hola.py'</span><span class="p">])</span>
 </pre></div>
 <p>Luego en la carpeta de la aplicación, por línea de comandos, ejecutamos este script:</p>
-<div class="code"><pre class="code console"><a id="rest_code_06587a64d72448f58dec70acce22d269-1" name="rest_code_06587a64d72448f58dec70acce22d269-1" href="#rest_code_06587a64d72448f58dec70acce22d269-1"></a><span class="go">python setup.py py2exe</span>
+<div class="code"><pre class="code console"><a id="rest_code_86289b6b37c14cd0ae1658783e6995ae-1" name="rest_code_86289b6b37c14cd0ae1658783e6995ae-1" href="#rest_code_86289b6b37c14cd0ae1658783e6995ae-1"></a><span class="go">python setup.py py2exe</span>
 </pre></div>
 <p>Con lo que se generará una carpeta <em>dist</em> con los siguientes archivos:</p>
 <ul class="simple">
@@ -131,7 +131,7 @@ Generar un archivo autoextraible similar a un instalador (pero más ">
 </section><section id="creando-un-instalador-simple-con-7-zip"><h2>Creando un instalador simple con 7-Zip</h2>
 <p>Con 7-zip se puede crear un único archivo comprimido autoextraible (ejecutable), con una muy buena tasa de compresión y de manera muy simple.</p>
 <p>Para ello, ejecutar 7-Zip en la linea de comandos sobre la carpeta de la aplicación:</p>
-<div class="code"><pre class="code console"><a id="rest_code_83f4a6b5130345c1bf22b97e50f5b05a-1" name="rest_code_83f4a6b5130345c1bf22b97e50f5b05a-1" href="#rest_code_83f4a6b5130345c1bf22b97e50f5b05a-1"></a><span class="go">7z.exe a -sfx setup.exe dist</span>
+<div class="code"><pre class="code console"><a id="rest_code_fd3a6a0790ef400797694514fdd49297-1" name="rest_code_fd3a6a0790ef400797694514fdd49297-1" href="#rest_code_fd3a6a0790ef400797694514fdd49297-1"></a><span class="go">7z.exe a -sfx setup.exe dist</span>
 </pre></div>
 <p>Con esto nos creará un archivo <em>setup.exe</em> que al ejecutarlo descomprimirá automáticamente la carpeta de nuestra aplicación. Este archivo contiene todo lo necesario para ejecutar la aplicación.</p>
 <p>Este ejemplo usa la línea de comando, pero también se puede usar la interfase visual integrada al explorador de windows de 7-Zip (click derecho sobre la carpeta <em>dist</em>, en el menú contextual elejir 7-zip, añadir al archivo, y tildar opción "Crear archivo SFX")</p>
@@ -150,7 +150,7 @@ Generar un archivo autoextraible similar a un instalador (pero más ">
 </div>
         <!--End of body content-->
 
-        <footer id="footer" class="bg-light"><span>Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow" target="_blanc">Nikola</a>         </span><span><a href="#" rel="nofollow" target="_blanc">Aporta a PyAr con tu donación</a><a></a></span>
+        <footer id="footer" class="bg-light"><span>Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow" target="_blanc">Nikola</a>         </span><span><a href="https://ac.python.org.ar/#donaciones" rel="nofollow" target="_blanc">Aporta a PyAr con tu donación</a><a></a></span>
             
         </footer>
 </div>
