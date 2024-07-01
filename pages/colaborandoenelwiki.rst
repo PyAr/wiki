@@ -39,6 +39,10 @@ Hay dos formas de proponer mejoras:
 En cualquier caso, siempre es necesario que se creen una cuenta en
 `GitHub <https://github.com/>`_
 
+
+Los contenidos de la wiki pueden ser escritos en `Markdown <https://es.wikipedia.org/wiki/Markdown>`__ o en `reStructeredText`.
+`Markdown` es muy sencillo de aprender y utilizar pero tiene una sintaxis limitada a diferencia de `reStructeredText` que permite una mayor configurabilidad.
+
 Si no saben mucho de reStructuredText, estos son algunos links que les pueden
 ayudar:
 
