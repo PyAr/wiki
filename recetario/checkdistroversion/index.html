@@ -30,7 +30,7 @@ sysInfo = platform.linux_distribution()
 
 if">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-06-30T11:47:16-03:00">
+<meta property="article:published_time" content="2024-07-05T19:39:10-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
@@ -65,11 +65,11 @@ if">
                     <a class="nav-link" href="http://www.python.org.ar/eventos/"><span class="eventos"></span>Eventos</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="http://planeta.python.org.ar/"><span class="pyar"></span>Planeta</a>
-                </li>
-                <li class="nav-item">
                     <a class="nav-link" href="http://www.python.org.ar/trabajo/"><span class="jobs"></span>Trabajos</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://ac.python.org.ar/"><span class="quienes_somos"></span>Asoc. Civil</a>
+                </li>                
             </ul>
 </div>
     </nav>
@@ -89,17 +89,17 @@ if">
     </div>
     <div class="e-content entry-content" itemprop="articleBody text">
     <p>Chequea la versión de la Distribución Linux, y actúa en función de eso. Utiliza el módulo <a class="reference external" href="http://www.python.org/doc//current/library/platform.html">platform</a></p>
-<div class="code"><pre class="code python"><a id="rest_code_e99368e321d24512bb43e9c501e3aa52-1" name="rest_code_e99368e321d24512bb43e9c501e3aa52-1" href="#rest_code_e99368e321d24512bb43e9c501e3aa52-1"></a><span class="kn">import</span> <span class="nn">platform</span>
-<a id="rest_code_e99368e321d24512bb43e9c501e3aa52-2" name="rest_code_e99368e321d24512bb43e9c501e3aa52-2" href="#rest_code_e99368e321d24512bb43e9c501e3aa52-2"></a>
-<a id="rest_code_e99368e321d24512bb43e9c501e3aa52-3" name="rest_code_e99368e321d24512bb43e9c501e3aa52-3" href="#rest_code_e99368e321d24512bb43e9c501e3aa52-3"></a><span class="n">osInfo</span> <span class="o">=</span> <span class="p">(</span><span class="s1">'Ubuntu'</span><span class="p">,</span> <span class="s1">'10.10'</span><span class="p">,</span> <span class="s1">'maverick'</span><span class="p">)</span>
-<a id="rest_code_e99368e321d24512bb43e9c501e3aa52-4" name="rest_code_e99368e321d24512bb43e9c501e3aa52-4" href="#rest_code_e99368e321d24512bb43e9c501e3aa52-4"></a><span class="n">sysInfo</span> <span class="o">=</span> <span class="n">platform</span><span class="o">.</span><span class="n">linux_distribution</span><span class="p">()</span>
-<a id="rest_code_e99368e321d24512bb43e9c501e3aa52-5" name="rest_code_e99368e321d24512bb43e9c501e3aa52-5" href="#rest_code_e99368e321d24512bb43e9c501e3aa52-5"></a>
-<a id="rest_code_e99368e321d24512bb43e9c501e3aa52-6" name="rest_code_e99368e321d24512bb43e9c501e3aa52-6" href="#rest_code_e99368e321d24512bb43e9c501e3aa52-6"></a><span class="k">if</span> <span class="n">osInfo</span> <span class="o">==</span> <span class="n">sysInfo</span><span class="p">:</span>
-<a id="rest_code_e99368e321d24512bb43e9c501e3aa52-7" name="rest_code_e99368e321d24512bb43e9c501e3aa52-7" href="#rest_code_e99368e321d24512bb43e9c501e3aa52-7"></a>    <span class="nb">print</span><span class="p">(</span><span class="s2">" OK "</span><span class="p">)</span>
-<a id="rest_code_e99368e321d24512bb43e9c501e3aa52-8" name="rest_code_e99368e321d24512bb43e9c501e3aa52-8" href="#rest_code_e99368e321d24512bb43e9c501e3aa52-8"></a>    <span class="c1"># Aca va que hacer si esta OK</span>
-<a id="rest_code_e99368e321d24512bb43e9c501e3aa52-9" name="rest_code_e99368e321d24512bb43e9c501e3aa52-9" href="#rest_code_e99368e321d24512bb43e9c501e3aa52-9"></a><span class="k">else</span><span class="p">:</span>
-<a id="rest_code_e99368e321d24512bb43e9c501e3aa52-10" name="rest_code_e99368e321d24512bb43e9c501e3aa52-10" href="#rest_code_e99368e321d24512bb43e9c501e3aa52-10"></a>    <span class="nb">print</span><span class="p">(</span><span class="s2">" ERROR "</span><span class="p">)</span>
-<a id="rest_code_e99368e321d24512bb43e9c501e3aa52-11" name="rest_code_e99368e321d24512bb43e9c501e3aa52-11" href="#rest_code_e99368e321d24512bb43e9c501e3aa52-11"></a>    <span class="c1"># Aca va que hacer si la version no es correcta</span>
+<div class="code"><pre class="code python"><a id="rest_code_41ada3b6198c4879952ce262656a36e2-1" name="rest_code_41ada3b6198c4879952ce262656a36e2-1" href="#rest_code_41ada3b6198c4879952ce262656a36e2-1"></a><span class="kn">import</span> <span class="nn">platform</span>
+<a id="rest_code_41ada3b6198c4879952ce262656a36e2-2" name="rest_code_41ada3b6198c4879952ce262656a36e2-2" href="#rest_code_41ada3b6198c4879952ce262656a36e2-2"></a>
+<a id="rest_code_41ada3b6198c4879952ce262656a36e2-3" name="rest_code_41ada3b6198c4879952ce262656a36e2-3" href="#rest_code_41ada3b6198c4879952ce262656a36e2-3"></a><span class="n">osInfo</span> <span class="o">=</span> <span class="p">(</span><span class="s1">'Ubuntu'</span><span class="p">,</span> <span class="s1">'10.10'</span><span class="p">,</span> <span class="s1">'maverick'</span><span class="p">)</span>
+<a id="rest_code_41ada3b6198c4879952ce262656a36e2-4" name="rest_code_41ada3b6198c4879952ce262656a36e2-4" href="#rest_code_41ada3b6198c4879952ce262656a36e2-4"></a><span class="n">sysInfo</span> <span class="o">=</span> <span class="n">platform</span><span class="o">.</span><span class="n">linux_distribution</span><span class="p">()</span>
+<a id="rest_code_41ada3b6198c4879952ce262656a36e2-5" name="rest_code_41ada3b6198c4879952ce262656a36e2-5" href="#rest_code_41ada3b6198c4879952ce262656a36e2-5"></a>
+<a id="rest_code_41ada3b6198c4879952ce262656a36e2-6" name="rest_code_41ada3b6198c4879952ce262656a36e2-6" href="#rest_code_41ada3b6198c4879952ce262656a36e2-6"></a><span class="k">if</span> <span class="n">osInfo</span> <span class="o">==</span> <span class="n">sysInfo</span><span class="p">:</span>
+<a id="rest_code_41ada3b6198c4879952ce262656a36e2-7" name="rest_code_41ada3b6198c4879952ce262656a36e2-7" href="#rest_code_41ada3b6198c4879952ce262656a36e2-7"></a>    <span class="nb">print</span><span class="p">(</span><span class="s2">" OK "</span><span class="p">)</span>
+<a id="rest_code_41ada3b6198c4879952ce262656a36e2-8" name="rest_code_41ada3b6198c4879952ce262656a36e2-8" href="#rest_code_41ada3b6198c4879952ce262656a36e2-8"></a>    <span class="c1"># Aca va que hacer si esta OK</span>
+<a id="rest_code_41ada3b6198c4879952ce262656a36e2-9" name="rest_code_41ada3b6198c4879952ce262656a36e2-9" href="#rest_code_41ada3b6198c4879952ce262656a36e2-9"></a><span class="k">else</span><span class="p">:</span>
+<a id="rest_code_41ada3b6198c4879952ce262656a36e2-10" name="rest_code_41ada3b6198c4879952ce262656a36e2-10" href="#rest_code_41ada3b6198c4879952ce262656a36e2-10"></a>    <span class="nb">print</span><span class="p">(</span><span class="s2">" ERROR "</span><span class="p">)</span>
+<a id="rest_code_41ada3b6198c4879952ce262656a36e2-11" name="rest_code_41ada3b6198c4879952ce262656a36e2-11" href="#rest_code_41ada3b6198c4879952ce262656a36e2-11"></a>    <span class="c1"># Aca va que hacer si la version no es correcta</span>
 </pre></div>
 <!-- ############################################################################ -->
     </div>    

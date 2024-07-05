@@ -28,7 +28,7 @@ Toda aplicación que NO requiera privilegios elevados no debería poder ejecutar
 
 if os.geteuid()==0: # ">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-06-30T11:47:16-03:00">
+<meta property="article:published_time" content="2024-07-05T19:39:10-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
@@ -63,11 +63,11 @@ if os.geteuid()==0: # ">
                     <a class="nav-link" href="http://www.python.org.ar/eventos/"><span class="eventos"></span>Eventos</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="http://planeta.python.org.ar/"><span class="pyar"></span>Planeta</a>
-                </li>
-                <li class="nav-item">
                     <a class="nav-link" href="http://www.python.org.ar/trabajo/"><span class="jobs"></span>Trabajos</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://ac.python.org.ar/"><span class="quienes_somos"></span>Asoc. Civil</a>
+                </li>                
             </ul>
 </div>
     </nav>
@@ -90,19 +90,19 @@ if os.geteuid()==0: # ">
 <ul class="simple">
 <li><p>Toda aplicación que NO requiera privilegios elevados no debería poder ejecutarse como root.</p></li>
 </ul>
-<div class="code"><pre class="code python"><a id="rest_code_77dd1d1cd13f4f91bad79969aff600d7-1" name="rest_code_77dd1d1cd13f4f91bad79969aff600d7-1" href="#rest_code_77dd1d1cd13f4f91bad79969aff600d7-1"></a><span class="k">if</span> <span class="n">os</span><span class="o">.</span><span class="n">geteuid</span><span class="p">()</span><span class="o">==</span><span class="mi">0</span><span class="p">:</span> <span class="c1"># non-root check</span>
-<a id="rest_code_77dd1d1cd13f4f91bad79969aff600d7-2" name="rest_code_77dd1d1cd13f4f91bad79969aff600d7-2" href="#rest_code_77dd1d1cd13f4f91bad79969aff600d7-2"></a>    <span class="n">sys</span><span class="o">.</span><span class="n">exit</span><span class="p">(</span><span class="s2">" ERROR: Do not run as root...</span><span class="se">\n</span><span class="s2">"</span><span class="p">)</span>
-<a id="rest_code_77dd1d1cd13f4f91bad79969aff600d7-3" name="rest_code_77dd1d1cd13f4f91bad79969aff600d7-3" href="#rest_code_77dd1d1cd13f4f91bad79969aff600d7-3"></a><span class="k">else</span><span class="p">:</span>
-<a id="rest_code_77dd1d1cd13f4f91bad79969aff600d7-4" name="rest_code_77dd1d1cd13f4f91bad79969aff600d7-4" href="#rest_code_77dd1d1cd13f4f91bad79969aff600d7-4"></a>    <span class="nb">print</span> <span class="s2">" You are normal user... </span><span class="se">\n</span><span class="s2">"</span>
+<div class="code"><pre class="code python"><a id="rest_code_50a17d43d49f44a3b8ffa248abe4f929-1" name="rest_code_50a17d43d49f44a3b8ffa248abe4f929-1" href="#rest_code_50a17d43d49f44a3b8ffa248abe4f929-1"></a><span class="k">if</span> <span class="n">os</span><span class="o">.</span><span class="n">geteuid</span><span class="p">()</span><span class="o">==</span><span class="mi">0</span><span class="p">:</span> <span class="c1"># non-root check</span>
+<a id="rest_code_50a17d43d49f44a3b8ffa248abe4f929-2" name="rest_code_50a17d43d49f44a3b8ffa248abe4f929-2" href="#rest_code_50a17d43d49f44a3b8ffa248abe4f929-2"></a>    <span class="n">sys</span><span class="o">.</span><span class="n">exit</span><span class="p">(</span><span class="s2">" ERROR: Do not run as root...</span><span class="se">\n</span><span class="s2">"</span><span class="p">)</span>
+<a id="rest_code_50a17d43d49f44a3b8ffa248abe4f929-3" name="rest_code_50a17d43d49f44a3b8ffa248abe4f929-3" href="#rest_code_50a17d43d49f44a3b8ffa248abe4f929-3"></a><span class="k">else</span><span class="p">:</span>
+<a id="rest_code_50a17d43d49f44a3b8ffa248abe4f929-4" name="rest_code_50a17d43d49f44a3b8ffa248abe4f929-4" href="#rest_code_50a17d43d49f44a3b8ffa248abe4f929-4"></a>    <span class="nb">print</span> <span class="s2">" You are normal user... </span><span class="se">\n</span><span class="s2">"</span>
 </pre></div>
 <p>Ejemplo:</p>
-<div class="code"><pre class="code bash"><a id="rest_code_c5a90b0d04f4467cabbc3938e2df38c7-1" name="rest_code_c5a90b0d04f4467cabbc3938e2df38c7-1" href="#rest_code_c5a90b0d04f4467cabbc3938e2df38c7-1"></a>juan@maverick:~$<span class="w"> </span>/usr/bin/env<span class="w"> </span>python<span class="w"> </span>test.py
-<a id="rest_code_c5a90b0d04f4467cabbc3938e2df38c7-2" name="rest_code_c5a90b0d04f4467cabbc3938e2df38c7-2" href="#rest_code_c5a90b0d04f4467cabbc3938e2df38c7-2"></a>
-<a id="rest_code_c5a90b0d04f4467cabbc3938e2df38c7-3" name="rest_code_c5a90b0d04f4467cabbc3938e2df38c7-3" href="#rest_code_c5a90b0d04f4467cabbc3938e2df38c7-3"></a><span class="w"> </span>You<span class="w"> </span>are<span class="w"> </span>normal<span class="w"> </span>user...
-<a id="rest_code_c5a90b0d04f4467cabbc3938e2df38c7-4" name="rest_code_c5a90b0d04f4467cabbc3938e2df38c7-4" href="#rest_code_c5a90b0d04f4467cabbc3938e2df38c7-4"></a>
-<a id="rest_code_c5a90b0d04f4467cabbc3938e2df38c7-5" name="rest_code_c5a90b0d04f4467cabbc3938e2df38c7-5" href="#rest_code_c5a90b0d04f4467cabbc3938e2df38c7-5"></a>juan@maverick:~$<span class="w"> </span>sudo<span class="w"> </span>/usr/bin/env<span class="w"> </span>python<span class="w"> </span>test.py
-<a id="rest_code_c5a90b0d04f4467cabbc3938e2df38c7-6" name="rest_code_c5a90b0d04f4467cabbc3938e2df38c7-6" href="#rest_code_c5a90b0d04f4467cabbc3938e2df38c7-6"></a>
-<a id="rest_code_c5a90b0d04f4467cabbc3938e2df38c7-7" name="rest_code_c5a90b0d04f4467cabbc3938e2df38c7-7" href="#rest_code_c5a90b0d04f4467cabbc3938e2df38c7-7"></a><span class="w"> </span>ERROR:<span class="w"> </span>Do<span class="w"> </span>not<span class="w"> </span>run<span class="w"> </span>as<span class="w"> </span>root...
+<div class="code"><pre class="code bash"><a id="rest_code_1a2b123f28c0405ea8006352309b8b37-1" name="rest_code_1a2b123f28c0405ea8006352309b8b37-1" href="#rest_code_1a2b123f28c0405ea8006352309b8b37-1"></a>juan@maverick:~$<span class="w"> </span>/usr/bin/env<span class="w"> </span>python<span class="w"> </span>test.py
+<a id="rest_code_1a2b123f28c0405ea8006352309b8b37-2" name="rest_code_1a2b123f28c0405ea8006352309b8b37-2" href="#rest_code_1a2b123f28c0405ea8006352309b8b37-2"></a>
+<a id="rest_code_1a2b123f28c0405ea8006352309b8b37-3" name="rest_code_1a2b123f28c0405ea8006352309b8b37-3" href="#rest_code_1a2b123f28c0405ea8006352309b8b37-3"></a><span class="w"> </span>You<span class="w"> </span>are<span class="w"> </span>normal<span class="w"> </span>user...
+<a id="rest_code_1a2b123f28c0405ea8006352309b8b37-4" name="rest_code_1a2b123f28c0405ea8006352309b8b37-4" href="#rest_code_1a2b123f28c0405ea8006352309b8b37-4"></a>
+<a id="rest_code_1a2b123f28c0405ea8006352309b8b37-5" name="rest_code_1a2b123f28c0405ea8006352309b8b37-5" href="#rest_code_1a2b123f28c0405ea8006352309b8b37-5"></a>juan@maverick:~$<span class="w"> </span>sudo<span class="w"> </span>/usr/bin/env<span class="w"> </span>python<span class="w"> </span>test.py
+<a id="rest_code_1a2b123f28c0405ea8006352309b8b37-6" name="rest_code_1a2b123f28c0405ea8006352309b8b37-6" href="#rest_code_1a2b123f28c0405ea8006352309b8b37-6"></a>
+<a id="rest_code_1a2b123f28c0405ea8006352309b8b37-7" name="rest_code_1a2b123f28c0405ea8006352309b8b37-7" href="#rest_code_1a2b123f28c0405ea8006352309b8b37-7"></a><span class="w"> </span>ERROR:<span class="w"> </span>Do<span class="w"> </span>not<span class="w"> </span>run<span class="w"> </span>as<span class="w"> </span>root...
 </pre></div>
     </div>    
 </div>

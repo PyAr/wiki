@@ -29,7 +29,7 @@ import sqlite3
 
 # leo DB #dbfn = 'allseqs-AR.db' dbfn = '../AS/allseqs-AS.db' conn = sqlite3.connect(dbfn) c = conn.cursor() # CREATE TABLES c.execute(&quot;SELECT ctgID,read">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-06-30T11:47:16-03:00">
+<meta property="article:published_time" content="2024-07-05T19:39:10-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
@@ -64,11 +64,11 @@ import sqlite3
                     <a class="nav-link" href="http://www.python.org.ar/eventos/"><span class="eventos"></span>Eventos</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="http://planeta.python.org.ar/"><span class="pyar"></span>Planeta</a>
-                </li>
-                <li class="nav-item">
                     <a class="nav-link" href="http://www.python.org.ar/trabajo/"><span class="jobs"></span>Trabajos</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://ac.python.org.ar/"><span class="quienes_somos"></span>Asoc. Civil</a>
+                </li>                
             </ul>
 </div>
     </nav>
@@ -88,13 +88,13 @@ import sqlite3
     </div>
     <div class="e-content entry-content" itemprop="articleBody text">
     <p>PRUEBA:</p>
-<div class="code"><pre class="code python"><a id="rest_code_26fb9971f9f448df98a42943f6d8fc87-1" name="rest_code_26fb9971f9f448df98a42943f6d8fc87-1" href="#rest_code_26fb9971f9f448df98a42943f6d8fc87-1"></a><span class="ch">#!/usr/bin/env python</span>
-<a id="rest_code_26fb9971f9f448df98a42943f6d8fc87-2" name="rest_code_26fb9971f9f448df98a42943f6d8fc87-2" href="#rest_code_26fb9971f9f448df98a42943f6d8fc87-2"></a>
-<a id="rest_code_26fb9971f9f448df98a42943f6d8fc87-3" name="rest_code_26fb9971f9f448df98a42943f6d8fc87-3" href="#rest_code_26fb9971f9f448df98a42943f6d8fc87-3"></a><span class="kn">import</span> <span class="nn">sqlite3</span>
-<a id="rest_code_26fb9971f9f448df98a42943f6d8fc87-4" name="rest_code_26fb9971f9f448df98a42943f6d8fc87-4" href="#rest_code_26fb9971f9f448df98a42943f6d8fc87-4"></a>
-<a id="rest_code_26fb9971f9f448df98a42943f6d8fc87-5" name="rest_code_26fb9971f9f448df98a42943f6d8fc87-5" href="#rest_code_26fb9971f9f448df98a42943f6d8fc87-5"></a><span class="c1"># leo DB #dbfn = 'allseqs-AR.db' dbfn = '../AS/allseqs-AS.db' conn = sqlite3.connect(dbfn) c = conn.cursor() # CREATE TABLES c.execute("SELECT ctgID,read from ctgs") for row in c:</span>
-<a id="rest_code_26fb9971f9f448df98a42943f6d8fc87-6" name="rest_code_26fb9971f9f448df98a42943f6d8fc87-6" href="#rest_code_26fb9971f9f448df98a42943f6d8fc87-6"></a>
-<a id="rest_code_26fb9971f9f448df98a42943f6d8fc87-7" name="rest_code_26fb9971f9f448df98a42943f6d8fc87-7" href="#rest_code_26fb9971f9f448df98a42943f6d8fc87-7"></a><span class="n">ctg</span> <span class="o">=</span> <span class="n">row</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="n">lib</span> <span class="o">=</span> <span class="n">row</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="s1">'-'</span><span class="p">)[</span><span class="mi">0</span><span class="p">][</span><span class="o">-</span><span class="mi">3</span><span class="p">:]</span>
+<div class="code"><pre class="code python"><a id="rest_code_cca8b34cbf4c484294beca177fbec49c-1" name="rest_code_cca8b34cbf4c484294beca177fbec49c-1" href="#rest_code_cca8b34cbf4c484294beca177fbec49c-1"></a><span class="ch">#!/usr/bin/env python</span>
+<a id="rest_code_cca8b34cbf4c484294beca177fbec49c-2" name="rest_code_cca8b34cbf4c484294beca177fbec49c-2" href="#rest_code_cca8b34cbf4c484294beca177fbec49c-2"></a>
+<a id="rest_code_cca8b34cbf4c484294beca177fbec49c-3" name="rest_code_cca8b34cbf4c484294beca177fbec49c-3" href="#rest_code_cca8b34cbf4c484294beca177fbec49c-3"></a><span class="kn">import</span> <span class="nn">sqlite3</span>
+<a id="rest_code_cca8b34cbf4c484294beca177fbec49c-4" name="rest_code_cca8b34cbf4c484294beca177fbec49c-4" href="#rest_code_cca8b34cbf4c484294beca177fbec49c-4"></a>
+<a id="rest_code_cca8b34cbf4c484294beca177fbec49c-5" name="rest_code_cca8b34cbf4c484294beca177fbec49c-5" href="#rest_code_cca8b34cbf4c484294beca177fbec49c-5"></a><span class="c1"># leo DB #dbfn = 'allseqs-AR.db' dbfn = '../AS/allseqs-AS.db' conn = sqlite3.connect(dbfn) c = conn.cursor() # CREATE TABLES c.execute("SELECT ctgID,read from ctgs") for row in c:</span>
+<a id="rest_code_cca8b34cbf4c484294beca177fbec49c-6" name="rest_code_cca8b34cbf4c484294beca177fbec49c-6" href="#rest_code_cca8b34cbf4c484294beca177fbec49c-6"></a>
+<a id="rest_code_cca8b34cbf4c484294beca177fbec49c-7" name="rest_code_cca8b34cbf4c484294beca177fbec49c-7" href="#rest_code_cca8b34cbf4c484294beca177fbec49c-7"></a><span class="n">ctg</span> <span class="o">=</span> <span class="n">row</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="n">lib</span> <span class="o">=</span> <span class="n">row</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="s1">'-'</span><span class="p">)[</span><span class="mi">0</span><span class="p">][</span><span class="o">-</span><span class="mi">3</span><span class="p">:]</span>
 </pre></div>
 <p>klkl</p>
     </div>    
