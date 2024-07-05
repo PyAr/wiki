@@ -35,7 +35,7 @@ Ingredientes:
 Una distribución de Linux http://distrowatch.com/.
 Un Wine instal">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-07-05T19:39:10-03:00">
+<meta property="article:published_time" content="2024-07-05T19:51:56-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
@@ -111,11 +111,11 @@ Un Wine instal">
 <li><p>Inno Setup Compiler <a class="reference external" href="http://www.innosetup.com/">http://www.innosetup.com/</a></p></li>
 </ul></section></section><section id="instalando-python"><h2>Instalando Python</h2>
 <p>Para instalar el MSI de Python para Windows se usa:</p>
-<div class="code"><pre class="code bash"><a id="rest_code_2117f94bc7dd43378b330965eb0cdacc-1" name="rest_code_2117f94bc7dd43378b330965eb0cdacc-1" href="#rest_code_2117f94bc7dd43378b330965eb0cdacc-1"></a>$<span class="w"> </span>wine<span class="w"> </span>msiexec<span class="w"> </span>/i<span class="w"> </span>python-2.5.1.msi
+<div class="code"><pre class="code bash"><a id="rest_code_e20c556a092f4b92905d69d6419ef67b-1" name="rest_code_e20c556a092f4b92905d69d6419ef67b-1" href="#rest_code_e20c556a092f4b92905d69d6419ef67b-1"></a>$<span class="w"> </span>wine<span class="w"> </span>msiexec<span class="w"> </span>/i<span class="w"> </span>python-2.5.1.msi
 </pre></div>
 <p>Luego instale las dependencias de su programa.</p>
 <p>Por ejemplo, para instalar pygame:</p>
-<div class="code"><pre class="code bash"><a id="rest_code_496a61114d6241afb94f7c01e6b4d3a6-1" name="rest_code_496a61114d6241afb94f7c01e6b4d3a6-1" href="#rest_code_496a61114d6241afb94f7c01e6b4d3a6-1"></a>$<span class="w"> </span>wine<span class="w"> </span>pygame-1.7.1release.win32-py2.5.exe
+<div class="code"><pre class="code bash"><a id="rest_code_b0236bc813ab461ab0701851ebf53bb3-1" name="rest_code_b0236bc813ab461ab0701851ebf53bb3-1" href="#rest_code_b0236bc813ab461ab0701851ebf53bb3-1"></a>$<span class="w"> </span>wine<span class="w"> </span>pygame-1.7.1release.win32-py2.5.exe
 </pre></div>
 <p>O doble clic sobre el icono del programa.</p>
 <p>Es importante decirle que python haga los .pyc, cuando sea preguntado por el instalador.</p>
@@ -123,54 +123,54 @@ Un Wine instal">
 <p>Aún habiendo hecho lo anterior, puede pasar que cuando se intenta "compilar",aparezca un mensaje que
 advierte que no se encontró un archivo .pyc, debe buscarse el .py correspondiente. Y ejecutarlo con
 (Repita la operación con cada modulo en el que aparezca el error)</p>
-</aside><div class="code"><pre class="code bash"><a id="rest_code_d1b69155508c428481e0d05b3a1c0860-1" name="rest_code_d1b69155508c428481e0d05b3a1c0860-1" href="#rest_code_d1b69155508c428481e0d05b3a1c0860-1"></a>$<span class="w"> </span><span class="nb">cd</span><span class="w"> </span>directorio_del_modulo
-<a id="rest_code_d1b69155508c428481e0d05b3a1c0860-2" name="rest_code_d1b69155508c428481e0d05b3a1c0860-2" href="#rest_code_d1b69155508c428481e0d05b3a1c0860-2"></a>$<span class="w"> </span>wine<span class="w"> </span>~/.wine/drive_c/Python25/python.exe<span class="w"> </span>-m<span class="w"> </span>modulo.py
+</aside><div class="code"><pre class="code bash"><a id="rest_code_ffead00f1b034893bacb76199509a890-1" name="rest_code_ffead00f1b034893bacb76199509a890-1" href="#rest_code_ffead00f1b034893bacb76199509a890-1"></a>$<span class="w"> </span><span class="nb">cd</span><span class="w"> </span>directorio_del_modulo
+<a id="rest_code_ffead00f1b034893bacb76199509a890-2" name="rest_code_ffead00f1b034893bacb76199509a890-2" href="#rest_code_ffead00f1b034893bacb76199509a890-2"></a>$<span class="w"> </span>wine<span class="w"> </span>~/.wine/drive_c/Python25/python.exe<span class="w"> </span>-m<span class="w"> </span>modulo.py
 </pre></div>
 <p>Es importante hacer notar que aunque alguna característica del programa puede NO funcionar en Wine, como por ejemplo pygame, igualmente puede "compilarse" (empaquetarse) correctamente.</p>
 </section><section id="pyinstaller"><h2>Pyinstaller</h2>
 <p>Pyinstaller no se instala, como py2exe.  Sin que se descomprime en un directorio.  Se necesita un directorio por cada versión de Python que uno quiera usar con Pyinstaller.</p>
 <p>Para configurar Pyinstaller siga las instrucciones del manual.</p>
 <p>Lo que no es claro en el manual es como crear los ejecutables.  La explicación es complicada y retorcida, sin embargo es muy sencillo.  Ejecute algo como:</p>
-<div class="code"><pre class="code bash"><a id="rest_code_3dafaa1cdef14ece99364af3ad67e05b-1" name="rest_code_3dafaa1cdef14ece99364af3ad67e05b-1" href="#rest_code_3dafaa1cdef14ece99364af3ad67e05b-1"></a>$<span class="w"> </span><span class="nb">cd</span><span class="w"> </span>Pyinstaller-1.3
-<a id="rest_code_3dafaa1cdef14ece99364af3ad67e05b-2" name="rest_code_3dafaa1cdef14ece99364af3ad67e05b-2" href="#rest_code_3dafaa1cdef14ece99364af3ad67e05b-2"></a>$<span class="w"> </span>wine<span class="w"> </span>c:<span class="se">\\</span>Python25<span class="se">\\</span>python.exe<span class="w"> </span>Makespec.py<span class="w"> </span>--noconsole<span class="w"> </span>--out<span class="o">=</span>c:<span class="se">\\</span>miproyecto<span class="se">\\</span>Pyinstallerdist<span class="w"> </span>c:<span class="se">\\</span>miproyecto<span class="se">\\</span>principal.py
+<div class="code"><pre class="code bash"><a id="rest_code_3896babffa4740a8b1daee4f32e66df7-1" name="rest_code_3896babffa4740a8b1daee4f32e66df7-1" href="#rest_code_3896babffa4740a8b1daee4f32e66df7-1"></a>$<span class="w"> </span><span class="nb">cd</span><span class="w"> </span>Pyinstaller-1.3
+<a id="rest_code_3896babffa4740a8b1daee4f32e66df7-2" name="rest_code_3896babffa4740a8b1daee4f32e66df7-2" href="#rest_code_3896babffa4740a8b1daee4f32e66df7-2"></a>$<span class="w"> </span>wine<span class="w"> </span>c:<span class="se">\\</span>Python25<span class="se">\\</span>python.exe<span class="w"> </span>Makespec.py<span class="w"> </span>--noconsole<span class="w"> </span>--out<span class="o">=</span>c:<span class="se">\\</span>miproyecto<span class="se">\\</span>Pyinstallerdist<span class="w"> </span>c:<span class="se">\\</span>miproyecto<span class="se">\\</span>principal.py
 </pre></div>
 <p>Esto crea un archivo principal.spec en el directorio c:\miproyecto\Pyinstallerdist</p>
 <p>El archivo .spec se hace solo una vez, en general no es necesario cambiarlo.</p>
 <p>Para automatizar la compilación primero borramos lo que este hecho de antes, esto hace más lento el empaquetamiento, pero evitamos el riesgo de que se empaqueten cosas viejas con las nuevas.  Especialmente si las modificaciones hechas son muy pequeñas.</p>
-<div class="code"><pre class="code bash"><a id="rest_code_8499e6de71a346f0aab5bd350d82984e-1" name="rest_code_8499e6de71a346f0aab5bd350d82984e-1" href="#rest_code_8499e6de71a346f0aab5bd350d82984e-1"></a>$<span class="w"> </span>rm<span class="w"> </span>~/.wine/drive_c/miproyecto/Pyinstallerdist/buildmiproyecto/*.*
-<a id="rest_code_8499e6de71a346f0aab5bd350d82984e-2" name="rest_code_8499e6de71a346f0aab5bd350d82984e-2" href="#rest_code_8499e6de71a346f0aab5bd350d82984e-2"></a>$<span class="w"> </span>rm<span class="w"> </span>~/.wine/drive_c/miproyecto/Pyinstallerdist/distmiproyecto/principal.exe
+<div class="code"><pre class="code bash"><a id="rest_code_4dd409709bd7457190211c8e2ad7eed2-1" name="rest_code_4dd409709bd7457190211c8e2ad7eed2-1" href="#rest_code_4dd409709bd7457190211c8e2ad7eed2-1"></a>$<span class="w"> </span>rm<span class="w"> </span>~/.wine/drive_c/miproyecto/Pyinstallerdist/buildmiproyecto/*.*
+<a id="rest_code_4dd409709bd7457190211c8e2ad7eed2-2" name="rest_code_4dd409709bd7457190211c8e2ad7eed2-2" href="#rest_code_4dd409709bd7457190211c8e2ad7eed2-2"></a>$<span class="w"> </span>rm<span class="w"> </span>~/.wine/drive_c/miproyecto/Pyinstallerdist/distmiproyecto/principal.exe
 </pre></div>
 <p>Luego creamos el ejecutable.</p>
-<div class="code"><pre class="code bash"><a id="rest_code_bd64cb74dd92476b94a93ebb2e55b7aa-1" name="rest_code_bd64cb74dd92476b94a93ebb2e55b7aa-1" href="#rest_code_bd64cb74dd92476b94a93ebb2e55b7aa-1"></a>$<span class="w"> </span><span class="nb">cd</span><span class="w"> </span>Pyinstaller-1.3
-<a id="rest_code_bd64cb74dd92476b94a93ebb2e55b7aa-2" name="rest_code_bd64cb74dd92476b94a93ebb2e55b7aa-2" href="#rest_code_bd64cb74dd92476b94a93ebb2e55b7aa-2"></a>$<span class="w"> </span>wine<span class="w"> </span>~/.wine/drive_c/Python25/python.exe<span class="w"> </span>-O<span class="w"> </span>Build.py<span class="w"> </span>c:<span class="se">\\</span>miproyecto<span class="se">\\</span>Pyinstallerdist<span class="se">\\</span>principal.spec
+<div class="code"><pre class="code bash"><a id="rest_code_f696869b5a63412ca46138398bcfb651-1" name="rest_code_f696869b5a63412ca46138398bcfb651-1" href="#rest_code_f696869b5a63412ca46138398bcfb651-1"></a>$<span class="w"> </span><span class="nb">cd</span><span class="w"> </span>Pyinstaller-1.3
+<a id="rest_code_f696869b5a63412ca46138398bcfb651-2" name="rest_code_f696869b5a63412ca46138398bcfb651-2" href="#rest_code_f696869b5a63412ca46138398bcfb651-2"></a>$<span class="w"> </span>wine<span class="w"> </span>~/.wine/drive_c/Python25/python.exe<span class="w"> </span>-O<span class="w"> </span>Build.py<span class="w"> </span>c:<span class="se">\\</span>miproyecto<span class="se">\\</span>Pyinstallerdist<span class="se">\\</span>principal.spec
 </pre></div>
 <p>A diferencia de py2exe, pyinstaller no copia automáticamente el archivo w9xpopen.exe así que lo copiamos:</p>
-<div class="code"><pre class="code bash"><a id="rest_code_5ccbf9eb2e654cd5a9e9dc39428591d5-1" name="rest_code_5ccbf9eb2e654cd5a9e9dc39428591d5-1" href="#rest_code_5ccbf9eb2e654cd5a9e9dc39428591d5-1"></a>$<span class="w"> </span>cp<span class="w"> </span>~/.wine/drive_c/Python25/w9xpopen.exe<span class="w"> </span>~/.wine/drive_c/miproyecto/Pyinstallerdist/distprincipal/
+<div class="code"><pre class="code bash"><a id="rest_code_03b99018bc7e49f88702ce65619f481c-1" name="rest_code_03b99018bc7e49f88702ce65619f481c-1" href="#rest_code_03b99018bc7e49f88702ce65619f481c-1"></a>$<span class="w"> </span>cp<span class="w"> </span>~/.wine/drive_c/Python25/w9xpopen.exe<span class="w"> </span>~/.wine/drive_c/miproyecto/Pyinstallerdist/distprincipal/
 </pre></div>
 <p>Esto solo es necesario hacerlo una vez.</p>
 </section><section id="inno-setup-compiler"><h2>Inno Setup Compiler</h2>
 <p>Inno Setup Compiler crea instaladores para Windows, funciona perfectamente bajo Linux con Wine.  Es una aplicación sumamente fácil de usar, y tiene un asistente muy bueno.  Por lo que no tiene sentido comentarla, sin embargo hay un truco que merece la pena.</p>
 <p>Para automatizar la creación del instalador de nuestra aplicación podemos ejecutar:</p>
-<div class="code"><pre class="code bash"><a id="rest_code_85b68d149db44efaaaf07f6980733cdf-1" name="rest_code_85b68d149db44efaaaf07f6980733cdf-1" href="#rest_code_85b68d149db44efaaaf07f6980733cdf-1"></a>$<span class="w"> </span>wine<span class="w"> </span>~/.wine/drive_c/Archivos<span class="se">\ </span>de<span class="se">\ </span>programa/Inno<span class="se">\ </span>Setup<span class="se">\ </span><span class="m">5</span>/ISCC.exe<span class="w"> </span>/Q<span class="w"> </span><span class="s2">"c:\miproyecto\iss\principal.iss"</span>
+<div class="code"><pre class="code bash"><a id="rest_code_479692afc67542ef9cd8cc7c706c02ce-1" name="rest_code_479692afc67542ef9cd8cc7c706c02ce-1" href="#rest_code_479692afc67542ef9cd8cc7c706c02ce-1"></a>$<span class="w"> </span>wine<span class="w"> </span>~/.wine/drive_c/Archivos<span class="se">\ </span>de<span class="se">\ </span>programa/Inno<span class="se">\ </span>Setup<span class="se">\ </span><span class="m">5</span>/ISCC.exe<span class="w"> </span>/Q<span class="w"> </span><span class="s2">"c:\miproyecto\iss\principal.iss"</span>
 </pre></div>
 </section><section id="automatizando-la-creacion-del-instalador"><h2>Automátizando la creación del instalador</h2>
 <p>Como se darán cuenta, todas estas instrucciones de linea de comando se pueden colocar en un archivo de Bash, y hacer que todo el proceso de empaquetado quede totalmente automatizado.</p>
-<div class="code"><pre class="code bash"><a id="rest_code_61272db8b8e34fa1a4318dab34aa1704-1" name="rest_code_61272db8b8e34fa1a4318dab34aa1704-1" href="#rest_code_61272db8b8e34fa1a4318dab34aa1704-1"></a>rm<span class="w"> </span>~/.wine/drive_c/miproyecto/CDs/Nuevasideas/*.*
-<a id="rest_code_61272db8b8e34fa1a4318dab34aa1704-2" name="rest_code_61272db8b8e34fa1a4318dab34aa1704-2" href="#rest_code_61272db8b8e34fa1a4318dab34aa1704-2"></a>
-<a id="rest_code_61272db8b8e34fa1a4318dab34aa1704-3" name="rest_code_61272db8b8e34fa1a4318dab34aa1704-3" href="#rest_code_61272db8b8e34fa1a4318dab34aa1704-3"></a><span class="nb">cd</span><span class="w"> </span>Pyinstaller-1.3
-<a id="rest_code_61272db8b8e34fa1a4318dab34aa1704-4" name="rest_code_61272db8b8e34fa1a4318dab34aa1704-4" href="#rest_code_61272db8b8e34fa1a4318dab34aa1704-4"></a>rm<span class="w"> </span>~/.wine/drive_c/miproyecto/Pyinstallerdist/buildprincipal/*.*
-<a id="rest_code_61272db8b8e34fa1a4318dab34aa1704-5" name="rest_code_61272db8b8e34fa1a4318dab34aa1704-5" href="#rest_code_61272db8b8e34fa1a4318dab34aa1704-5"></a>rm<span class="w"> </span>~/.wine/drive_c/miproyecto/Pyinstallerdist/distprincipal/principal.exe
-<a id="rest_code_61272db8b8e34fa1a4318dab34aa1704-6" name="rest_code_61272db8b8e34fa1a4318dab34aa1704-6" href="#rest_code_61272db8b8e34fa1a4318dab34aa1704-6"></a>
-<a id="rest_code_61272db8b8e34fa1a4318dab34aa1704-7" name="rest_code_61272db8b8e34fa1a4318dab34aa1704-7" href="#rest_code_61272db8b8e34fa1a4318dab34aa1704-7"></a>wine<span class="w"> </span>~/.wine/drive_c/Python25/python.exe<span class="w"> </span>-O<span class="w"> </span>Build.py<span class="w"> </span>c:<span class="se">\\</span>miproyecto<span class="se">\\</span>Pyinstallerdist<span class="se">\\</span>principal.spec
-<a id="rest_code_61272db8b8e34fa1a4318dab34aa1704-8" name="rest_code_61272db8b8e34fa1a4318dab34aa1704-8" href="#rest_code_61272db8b8e34fa1a4318dab34aa1704-8"></a>
-<a id="rest_code_61272db8b8e34fa1a4318dab34aa1704-9" name="rest_code_61272db8b8e34fa1a4318dab34aa1704-9" href="#rest_code_61272db8b8e34fa1a4318dab34aa1704-9"></a>wine<span class="w"> </span>~/.wine/drive_c/Archivos<span class="se">\ </span>de<span class="se">\ </span>programa/Inno<span class="se">\ </span>Setup<span class="se">\ </span><span class="m">5</span>/ISCC.exe<span class="w"> </span>/Q<span class="w"> </span><span class="s2">"c:\miproyecto\iss\Nuevasideas.iss"</span>
-<a id="rest_code_61272db8b8e34fa1a4318dab34aa1704-10" name="rest_code_61272db8b8e34fa1a4318dab34aa1704-10" href="#rest_code_61272db8b8e34fa1a4318dab34aa1704-10"></a>
-<a id="rest_code_61272db8b8e34fa1a4318dab34aa1704-11" name="rest_code_61272db8b8e34fa1a4318dab34aa1704-11" href="#rest_code_61272db8b8e34fa1a4318dab34aa1704-11"></a>cp<span class="w"> </span>~/.wine/drive_c/miproyecto/principal.py<span class="w"> </span>~/.wine/drive_c/miproyecto/CDs/Nuevasideas/Linux/bin
-<a id="rest_code_61272db8b8e34fa1a4318dab34aa1704-12" name="rest_code_61272db8b8e34fa1a4318dab34aa1704-12" href="#rest_code_61272db8b8e34fa1a4318dab34aa1704-12"></a>cp<span class="w"> </span>~/.wine/drive_c/miproyecto/mimodulo.py<span class="w"> </span>~/.wine/drive_c/miproyecto/CDs/Nuevasideas/Linux/bin
-<a id="rest_code_61272db8b8e34fa1a4318dab34aa1704-13" name="rest_code_61272db8b8e34fa1a4318dab34aa1704-13" href="#rest_code_61272db8b8e34fa1a4318dab34aa1704-13"></a>
-<a id="rest_code_61272db8b8e34fa1a4318dab34aa1704-14" name="rest_code_61272db8b8e34fa1a4318dab34aa1704-14" href="#rest_code_61272db8b8e34fa1a4318dab34aa1704-14"></a><span class="nb">cd</span><span class="w"> </span>~/.wine/drive_c/miproyecto/CDs/Nuevasideas/
-<a id="rest_code_61272db8b8e34fa1a4318dab34aa1704-15" name="rest_code_61272db8b8e34fa1a4318dab34aa1704-15" href="#rest_code_61272db8b8e34fa1a4318dab34aa1704-15"></a>tar<span class="w"> </span>-cf<span class="w"> </span>Linux-Nuevasideas.tar<span class="w"> </span>Linux/
-<a id="rest_code_61272db8b8e34fa1a4318dab34aa1704-16" name="rest_code_61272db8b8e34fa1a4318dab34aa1704-16" href="#rest_code_61272db8b8e34fa1a4318dab34aa1704-16"></a>bzip2<span class="w"> </span>Linux-Nuevasideas.tar
+<div class="code"><pre class="code bash"><a id="rest_code_36e012a10f324b2c8f6820d219073832-1" name="rest_code_36e012a10f324b2c8f6820d219073832-1" href="#rest_code_36e012a10f324b2c8f6820d219073832-1"></a>rm<span class="w"> </span>~/.wine/drive_c/miproyecto/CDs/Nuevasideas/*.*
+<a id="rest_code_36e012a10f324b2c8f6820d219073832-2" name="rest_code_36e012a10f324b2c8f6820d219073832-2" href="#rest_code_36e012a10f324b2c8f6820d219073832-2"></a>
+<a id="rest_code_36e012a10f324b2c8f6820d219073832-3" name="rest_code_36e012a10f324b2c8f6820d219073832-3" href="#rest_code_36e012a10f324b2c8f6820d219073832-3"></a><span class="nb">cd</span><span class="w"> </span>Pyinstaller-1.3
+<a id="rest_code_36e012a10f324b2c8f6820d219073832-4" name="rest_code_36e012a10f324b2c8f6820d219073832-4" href="#rest_code_36e012a10f324b2c8f6820d219073832-4"></a>rm<span class="w"> </span>~/.wine/drive_c/miproyecto/Pyinstallerdist/buildprincipal/*.*
+<a id="rest_code_36e012a10f324b2c8f6820d219073832-5" name="rest_code_36e012a10f324b2c8f6820d219073832-5" href="#rest_code_36e012a10f324b2c8f6820d219073832-5"></a>rm<span class="w"> </span>~/.wine/drive_c/miproyecto/Pyinstallerdist/distprincipal/principal.exe
+<a id="rest_code_36e012a10f324b2c8f6820d219073832-6" name="rest_code_36e012a10f324b2c8f6820d219073832-6" href="#rest_code_36e012a10f324b2c8f6820d219073832-6"></a>
+<a id="rest_code_36e012a10f324b2c8f6820d219073832-7" name="rest_code_36e012a10f324b2c8f6820d219073832-7" href="#rest_code_36e012a10f324b2c8f6820d219073832-7"></a>wine<span class="w"> </span>~/.wine/drive_c/Python25/python.exe<span class="w"> </span>-O<span class="w"> </span>Build.py<span class="w"> </span>c:<span class="se">\\</span>miproyecto<span class="se">\\</span>Pyinstallerdist<span class="se">\\</span>principal.spec
+<a id="rest_code_36e012a10f324b2c8f6820d219073832-8" name="rest_code_36e012a10f324b2c8f6820d219073832-8" href="#rest_code_36e012a10f324b2c8f6820d219073832-8"></a>
+<a id="rest_code_36e012a10f324b2c8f6820d219073832-9" name="rest_code_36e012a10f324b2c8f6820d219073832-9" href="#rest_code_36e012a10f324b2c8f6820d219073832-9"></a>wine<span class="w"> </span>~/.wine/drive_c/Archivos<span class="se">\ </span>de<span class="se">\ </span>programa/Inno<span class="se">\ </span>Setup<span class="se">\ </span><span class="m">5</span>/ISCC.exe<span class="w"> </span>/Q<span class="w"> </span><span class="s2">"c:\miproyecto\iss\Nuevasideas.iss"</span>
+<a id="rest_code_36e012a10f324b2c8f6820d219073832-10" name="rest_code_36e012a10f324b2c8f6820d219073832-10" href="#rest_code_36e012a10f324b2c8f6820d219073832-10"></a>
+<a id="rest_code_36e012a10f324b2c8f6820d219073832-11" name="rest_code_36e012a10f324b2c8f6820d219073832-11" href="#rest_code_36e012a10f324b2c8f6820d219073832-11"></a>cp<span class="w"> </span>~/.wine/drive_c/miproyecto/principal.py<span class="w"> </span>~/.wine/drive_c/miproyecto/CDs/Nuevasideas/Linux/bin
+<a id="rest_code_36e012a10f324b2c8f6820d219073832-12" name="rest_code_36e012a10f324b2c8f6820d219073832-12" href="#rest_code_36e012a10f324b2c8f6820d219073832-12"></a>cp<span class="w"> </span>~/.wine/drive_c/miproyecto/mimodulo.py<span class="w"> </span>~/.wine/drive_c/miproyecto/CDs/Nuevasideas/Linux/bin
+<a id="rest_code_36e012a10f324b2c8f6820d219073832-13" name="rest_code_36e012a10f324b2c8f6820d219073832-13" href="#rest_code_36e012a10f324b2c8f6820d219073832-13"></a>
+<a id="rest_code_36e012a10f324b2c8f6820d219073832-14" name="rest_code_36e012a10f324b2c8f6820d219073832-14" href="#rest_code_36e012a10f324b2c8f6820d219073832-14"></a><span class="nb">cd</span><span class="w"> </span>~/.wine/drive_c/miproyecto/CDs/Nuevasideas/
+<a id="rest_code_36e012a10f324b2c8f6820d219073832-15" name="rest_code_36e012a10f324b2c8f6820d219073832-15" href="#rest_code_36e012a10f324b2c8f6820d219073832-15"></a>tar<span class="w"> </span>-cf<span class="w"> </span>Linux-Nuevasideas.tar<span class="w"> </span>Linux/
+<a id="rest_code_36e012a10f324b2c8f6820d219073832-16" name="rest_code_36e012a10f324b2c8f6820d219073832-16" href="#rest_code_36e012a10f324b2c8f6820d219073832-16"></a>bzip2<span class="w"> </span>Linux-Nuevasideas.tar
 </pre></div>
 </section>
 </div>    
