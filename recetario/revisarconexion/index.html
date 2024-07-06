@@ -25,7 +25,7 @@ og: http://ogp.me/ns# article: http://ogp.me/ns/article#
 <meta property="og:description" content="Cómo revisar si tenemos conexión a internet.
 Para no depender de programas externos (tené en cuenta que, por ejemplo, ping seguramente no recibe los mismos parámetros en Linux que en Windows), podés i">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-07-05T19:51:56-03:00">
+<meta property="article:published_time" content="2024-07-06T00:07:57-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
@@ -86,15 +86,15 @@ Para no depender de programas externos (tené en cuenta que, por ejemplo, ping s
     <p>Cómo revisar si tenemos conexión a internet.</p>
 <p>Para no depender de programas externos (tené en cuenta que, por ejemplo, ping seguramente no recibe los mismos parámetros en Linux que en Windows), podés intentar abrir un socket a algún servidor externo y enviar algo.</p>
 <p>Si el DNS resuelve podés chequear con socket.gethostbyname('google.com').</p>
-<div class="code"><pre class="code python"><a id="rest_code_8590e31c738041669c159614af3d396d-1" name="rest_code_8590e31c738041669c159614af3d396d-1" href="#rest_code_8590e31c738041669c159614af3d396d-1"></a><span class="kn">import</span> <span class="nn">socket</span>
-<a id="rest_code_8590e31c738041669c159614af3d396d-2" name="rest_code_8590e31c738041669c159614af3d396d-2" href="#rest_code_8590e31c738041669c159614af3d396d-2"></a><span class="k">try</span><span class="p">:</span>
-<a id="rest_code_8590e31c738041669c159614af3d396d-3" name="rest_code_8590e31c738041669c159614af3d396d-3" href="#rest_code_8590e31c738041669c159614af3d396d-3"></a>    <span class="n">socket</span><span class="o">.</span><span class="n">gethostbyname</span><span class="p">(</span><span class="s1">'google.com'</span><span class="p">)</span>
-<a id="rest_code_8590e31c738041669c159614af3d396d-4" name="rest_code_8590e31c738041669c159614af3d396d-4" href="#rest_code_8590e31c738041669c159614af3d396d-4"></a>    <span class="n">c</span> <span class="o">=</span> <span class="n">socket</span><span class="o">.</span><span class="n">create_connection</span><span class="p">((</span><span class="s1">'google.com'</span><span class="p">,</span> <span class="mi">80</span><span class="p">),</span> <span class="mi">1</span><span class="p">)</span>
-<a id="rest_code_8590e31c738041669c159614af3d396d-5" name="rest_code_8590e31c738041669c159614af3d396d-5" href="#rest_code_8590e31c738041669c159614af3d396d-5"></a>    <span class="n">c</span><span class="o">.</span><span class="n">close</span><span class="p">()</span>
-<a id="rest_code_8590e31c738041669c159614af3d396d-6" name="rest_code_8590e31c738041669c159614af3d396d-6" href="#rest_code_8590e31c738041669c159614af3d396d-6"></a><span class="k">except</span> <span class="n">socket</span><span class="o">.</span><span class="n">gaierror</span><span class="p">:</span>
-<a id="rest_code_8590e31c738041669c159614af3d396d-7" name="rest_code_8590e31c738041669c159614af3d396d-7" href="#rest_code_8590e31c738041669c159614af3d396d-7"></a>    <span class="nb">print</span> <span class="s2">"DNS error"</span>
-<a id="rest_code_8590e31c738041669c159614af3d396d-8" name="rest_code_8590e31c738041669c159614af3d396d-8" href="#rest_code_8590e31c738041669c159614af3d396d-8"></a><span class="k">except</span> <span class="n">socket</span><span class="o">.</span><span class="n">error</span><span class="p">:</span>
-<a id="rest_code_8590e31c738041669c159614af3d396d-9" name="rest_code_8590e31c738041669c159614af3d396d-9" href="#rest_code_8590e31c738041669c159614af3d396d-9"></a>    <span class="nb">print</span> <span class="s2">"Connection error"</span>
+<div class="code"><pre class="code python"><a id="rest_code_d942e7c451d143c8b82e4174580712c7-1" name="rest_code_d942e7c451d143c8b82e4174580712c7-1" href="#rest_code_d942e7c451d143c8b82e4174580712c7-1"></a><span class="kn">import</span> <span class="nn">socket</span>
+<a id="rest_code_d942e7c451d143c8b82e4174580712c7-2" name="rest_code_d942e7c451d143c8b82e4174580712c7-2" href="#rest_code_d942e7c451d143c8b82e4174580712c7-2"></a><span class="k">try</span><span class="p">:</span>
+<a id="rest_code_d942e7c451d143c8b82e4174580712c7-3" name="rest_code_d942e7c451d143c8b82e4174580712c7-3" href="#rest_code_d942e7c451d143c8b82e4174580712c7-3"></a>    <span class="n">socket</span><span class="o">.</span><span class="n">gethostbyname</span><span class="p">(</span><span class="s1">'google.com'</span><span class="p">)</span>
+<a id="rest_code_d942e7c451d143c8b82e4174580712c7-4" name="rest_code_d942e7c451d143c8b82e4174580712c7-4" href="#rest_code_d942e7c451d143c8b82e4174580712c7-4"></a>    <span class="n">c</span> <span class="o">=</span> <span class="n">socket</span><span class="o">.</span><span class="n">create_connection</span><span class="p">((</span><span class="s1">'google.com'</span><span class="p">,</span> <span class="mi">80</span><span class="p">),</span> <span class="mi">1</span><span class="p">)</span>
+<a id="rest_code_d942e7c451d143c8b82e4174580712c7-5" name="rest_code_d942e7c451d143c8b82e4174580712c7-5" href="#rest_code_d942e7c451d143c8b82e4174580712c7-5"></a>    <span class="n">c</span><span class="o">.</span><span class="n">close</span><span class="p">()</span>
+<a id="rest_code_d942e7c451d143c8b82e4174580712c7-6" name="rest_code_d942e7c451d143c8b82e4174580712c7-6" href="#rest_code_d942e7c451d143c8b82e4174580712c7-6"></a><span class="k">except</span> <span class="n">socket</span><span class="o">.</span><span class="n">gaierror</span><span class="p">:</span>
+<a id="rest_code_d942e7c451d143c8b82e4174580712c7-7" name="rest_code_d942e7c451d143c8b82e4174580712c7-7" href="#rest_code_d942e7c451d143c8b82e4174580712c7-7"></a>    <span class="nb">print</span> <span class="s2">"DNS error"</span>
+<a id="rest_code_d942e7c451d143c8b82e4174580712c7-8" name="rest_code_d942e7c451d143c8b82e4174580712c7-8" href="#rest_code_d942e7c451d143c8b82e4174580712c7-8"></a><span class="k">except</span> <span class="n">socket</span><span class="o">.</span><span class="n">error</span><span class="p">:</span>
+<a id="rest_code_d942e7c451d143c8b82e4174580712c7-9" name="rest_code_d942e7c451d143c8b82e4174580712c7-9" href="#rest_code_d942e7c451d143c8b82e4174580712c7-9"></a>    <span class="nb">print</span> <span class="s2">"Connection error"</span>
 </pre></div>
     </div>    
 </div>
