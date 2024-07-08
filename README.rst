@@ -2,16 +2,18 @@ Este es el repositorio de los contenidos de la Wiki de Python Argentina
 
 | http://wiki.python.org.ar/
 
+
 Podés editar los contenidos (incluso agregar páginas) y proponer un pull request, que se
 sincronizará automáticamente con la wiki una vez que sea mezclado.
 
-Antes de clonar el repo, asegurate de tener instalado [Git LFS](https://git-lfs.github.com/)
-
 Pueden ver como colaborar en la página de `Cómo colaborar
-<https://github.com/PyAr/wiki/blob/nikola/pages/colaborandoenelwiki.rst>`__
+<https://wiki.python.org.ar/colaborandoenelwiki>`__
 
 Cómo buildear las páginas
 =========================
+
+El contenido de la wiki está escrito en `Markdown <https://es.wikipedia.org/wiki/Markdown>`__ o `reStructeredText <https://es.wikipedia.org/wiki/ReStructuredText>`__ y se 
+transforma a `HTML` con `nikola <https://getnikola.com/>`__, un generador de sitios estáticos escrito en python.
 
 .. code-block:: console
 
@@ -20,14 +22,3 @@ Cómo buildear las páginas
 
     nikola build
     nikola serve
-
-Cómo buildear la imagen de docker
-=================================
-
-.. code-block:: console
-
-     docker build --no-cache --tag tzulberti/wiki -f Dockerfile .
-
-
-Se necesita el `--no-cache` para que la parte de clonar el repo de la
-wiki no use un cache sino que se haga todo el tiempo.
