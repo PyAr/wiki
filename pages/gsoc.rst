@@ -6,7 +6,7 @@
    :width: 80 px
 
 TL;DR:
- * Los **Entusiastas** reciben **becas** para contribuir programando **código abierto**, ver `Ideas <https://github.com/PyAr/wiki/tree/master/pages/GSoC>`_
+ * Los **Entusiastas** reciben **becas** para contribuir programando **código abierto**, ver `Ideas`_
  * Los **Proyectos** encuentran nuevos colaboradores y **mentorean** la nueva generación de desarrolladores
 
 .. class:: alert alert-info
@@ -18,7 +18,6 @@ Enlaces rápidos:
 ================
 
  * `Ideas`_
-
  * `Año 2024`_
  * `Año 2023`_
  * `Año 2022`_
@@ -92,7 +91,7 @@ Si quieres participar como becario colaborador, por favor sigue los siguientes l
    Presentate en el canal de `GSoC Python Arg (público) <https://t.me/+ljnpIYBUMLI3MDAx>`_ mencionando:
 
    * ¿Por qué querés participar del GSoC?, brevemente comenta tu experiencia y expectativas
-   * ¿Qué proyecto preferirías?: revisa la página de `ideas <https://github.com/PyAr/wiki/tree/master/pages/GSoC>`_
+   * ¿Qué proyecto preferirías?: revisa la página de `ideas`_
    * ¿Cuál es tu experiencia previa?, habilidades Python, django, hg/git, js, etc.
 
 2. **¡Corrige un bug!**
@@ -223,8 +222,8 @@ Blogs y Referencias sobre el GSoC
 * PSF 2007: http://pyfound.blogspot.com/2007/03/psf-and-googles-summer-of-code.html
 
 .. _Ideas: /GSoC/ideas
-.. _2024: /GSoC/2024
-.. _2023: /GSoC/2023
-.. _2022: /GSoC/2022
-.. _2019: /GSoC/2019
+.. _Año 2024: /GSoC/2024
+.. _Año 2023: /GSoC/2023
+.. _Año 2022: /GSoC/2022
+.. _Año 2019: /GSoC/2019
 .. _marianoreingart: /marianoreingart
