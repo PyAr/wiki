@@ -26,7 +26,7 @@ og: http://ogp.me/ns# article: http://ogp.me/ns/article#
 En realidad son los locals de la funcion llamada.
 Lo uso para pasarle los locals de la funcion a un template de djan">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-07-06T00:07:57-03:00">
+<meta property="article:published_time" content="2024-07-19T18:57:50-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
@@ -87,19 +87,19 @@ Lo uso para pasarle los locals de la funcion a un template de djan">
     <p>Ejemplo de cómo obtener las variables locales a la función que lanzo una exception.</p>
 <p>En realidad son los locals de la funcion llamada.</p>
 <p>Lo uso para pasarle los locals de la funcion a un template de django desde un decorador.</p>
-<div class="code"><pre class="code python"><a id="rest_code_3a3c99f6884f41b598fd8476daa319ad-1" name="rest_code_3a3c99f6884f41b598fd8476daa319ad-1" href="#rest_code_3a3c99f6884f41b598fd8476daa319ad-1"></a><span class="kn">import</span> <span class="nn">inspect</span>
-<a id="rest_code_3a3c99f6884f41b598fd8476daa319ad-2" name="rest_code_3a3c99f6884f41b598fd8476daa319ad-2" href="#rest_code_3a3c99f6884f41b598fd8476daa319ad-2"></a>
-<a id="rest_code_3a3c99f6884f41b598fd8476daa319ad-3" name="rest_code_3a3c99f6884f41b598fd8476daa319ad-3" href="#rest_code_3a3c99f6884f41b598fd8476daa319ad-3"></a><span class="k">def</span> <span class="nf">fun</span><span class="p">():</span>
-<a id="rest_code_3a3c99f6884f41b598fd8476daa319ad-4" name="rest_code_3a3c99f6884f41b598fd8476daa319ad-4" href="#rest_code_3a3c99f6884f41b598fd8476daa319ad-4"></a>    <span class="n">a</span><span class="p">,</span> <span class="n">b</span> <span class="o">=</span> <span class="mi">1</span><span class="p">,</span> <span class="s2">"dos"</span>
-<a id="rest_code_3a3c99f6884f41b598fd8476daa319ad-5" name="rest_code_3a3c99f6884f41b598fd8476daa319ad-5" href="#rest_code_3a3c99f6884f41b598fd8476daa319ad-5"></a>
-<a id="rest_code_3a3c99f6884f41b598fd8476daa319ad-6" name="rest_code_3a3c99f6884f41b598fd8476daa319ad-6" href="#rest_code_3a3c99f6884f41b598fd8476daa319ad-6"></a>    <span class="k">raise</span> <span class="ne">Exception</span><span class="p">(</span><span class="s2">"hi!"</span><span class="p">)</span>
-<a id="rest_code_3a3c99f6884f41b598fd8476daa319ad-7" name="rest_code_3a3c99f6884f41b598fd8476daa319ad-7" href="#rest_code_3a3c99f6884f41b598fd8476daa319ad-7"></a>
-<a id="rest_code_3a3c99f6884f41b598fd8476daa319ad-8" name="rest_code_3a3c99f6884f41b598fd8476daa319ad-8" href="#rest_code_3a3c99f6884f41b598fd8476daa319ad-8"></a><span class="k">try</span><span class="p">:</span>
-<a id="rest_code_3a3c99f6884f41b598fd8476daa319ad-9" name="rest_code_3a3c99f6884f41b598fd8476daa319ad-9" href="#rest_code_3a3c99f6884f41b598fd8476daa319ad-9"></a>    <span class="n">fun</span><span class="p">()</span>
-<a id="rest_code_3a3c99f6884f41b598fd8476daa319ad-10" name="rest_code_3a3c99f6884f41b598fd8476daa319ad-10" href="#rest_code_3a3c99f6884f41b598fd8476daa319ad-10"></a><span class="k">except</span> <span class="ne">Exception</span><span class="p">,</span> <span class="n">error</span><span class="p">:</span>
-<a id="rest_code_3a3c99f6884f41b598fd8476daa319ad-11" name="rest_code_3a3c99f6884f41b598fd8476daa319ad-11" href="#rest_code_3a3c99f6884f41b598fd8476daa319ad-11"></a>    <span class="n">fun_frame</span> <span class="o">=</span> <span class="n">inspect</span><span class="o">.</span><span class="n">trace</span><span class="p">()[</span><span class="mi">1</span><span class="p">][</span><span class="mi">0</span><span class="p">]</span>
-<a id="rest_code_3a3c99f6884f41b598fd8476daa319ad-12" name="rest_code_3a3c99f6884f41b598fd8476daa319ad-12" href="#rest_code_3a3c99f6884f41b598fd8476daa319ad-12"></a>    <span class="nb">print</span> <span class="s2">"locals in fun: "</span><span class="p">,</span> <span class="n">fun_frame</span><span class="o">.</span><span class="n">f_locals</span>
-<a id="rest_code_3a3c99f6884f41b598fd8476daa319ad-13" name="rest_code_3a3c99f6884f41b598fd8476daa319ad-13" href="#rest_code_3a3c99f6884f41b598fd8476daa319ad-13"></a>    <span class="k">del</span> <span class="n">fun_frame</span>
+<div class="code"><pre class="code python"><a id="rest_code_d9cb388adde845c7b887ab25bc54ffd3-1" name="rest_code_d9cb388adde845c7b887ab25bc54ffd3-1" href="#rest_code_d9cb388adde845c7b887ab25bc54ffd3-1"></a><span class="kn">import</span> <span class="nn">inspect</span>
+<a id="rest_code_d9cb388adde845c7b887ab25bc54ffd3-2" name="rest_code_d9cb388adde845c7b887ab25bc54ffd3-2" href="#rest_code_d9cb388adde845c7b887ab25bc54ffd3-2"></a>
+<a id="rest_code_d9cb388adde845c7b887ab25bc54ffd3-3" name="rest_code_d9cb388adde845c7b887ab25bc54ffd3-3" href="#rest_code_d9cb388adde845c7b887ab25bc54ffd3-3"></a><span class="k">def</span> <span class="nf">fun</span><span class="p">():</span>
+<a id="rest_code_d9cb388adde845c7b887ab25bc54ffd3-4" name="rest_code_d9cb388adde845c7b887ab25bc54ffd3-4" href="#rest_code_d9cb388adde845c7b887ab25bc54ffd3-4"></a>    <span class="n">a</span><span class="p">,</span> <span class="n">b</span> <span class="o">=</span> <span class="mi">1</span><span class="p">,</span> <span class="s2">"dos"</span>
+<a id="rest_code_d9cb388adde845c7b887ab25bc54ffd3-5" name="rest_code_d9cb388adde845c7b887ab25bc54ffd3-5" href="#rest_code_d9cb388adde845c7b887ab25bc54ffd3-5"></a>
+<a id="rest_code_d9cb388adde845c7b887ab25bc54ffd3-6" name="rest_code_d9cb388adde845c7b887ab25bc54ffd3-6" href="#rest_code_d9cb388adde845c7b887ab25bc54ffd3-6"></a>    <span class="k">raise</span> <span class="ne">Exception</span><span class="p">(</span><span class="s2">"hi!"</span><span class="p">)</span>
+<a id="rest_code_d9cb388adde845c7b887ab25bc54ffd3-7" name="rest_code_d9cb388adde845c7b887ab25bc54ffd3-7" href="#rest_code_d9cb388adde845c7b887ab25bc54ffd3-7"></a>
+<a id="rest_code_d9cb388adde845c7b887ab25bc54ffd3-8" name="rest_code_d9cb388adde845c7b887ab25bc54ffd3-8" href="#rest_code_d9cb388adde845c7b887ab25bc54ffd3-8"></a><span class="k">try</span><span class="p">:</span>
+<a id="rest_code_d9cb388adde845c7b887ab25bc54ffd3-9" name="rest_code_d9cb388adde845c7b887ab25bc54ffd3-9" href="#rest_code_d9cb388adde845c7b887ab25bc54ffd3-9"></a>    <span class="n">fun</span><span class="p">()</span>
+<a id="rest_code_d9cb388adde845c7b887ab25bc54ffd3-10" name="rest_code_d9cb388adde845c7b887ab25bc54ffd3-10" href="#rest_code_d9cb388adde845c7b887ab25bc54ffd3-10"></a><span class="k">except</span> <span class="ne">Exception</span><span class="p">,</span> <span class="n">error</span><span class="p">:</span>
+<a id="rest_code_d9cb388adde845c7b887ab25bc54ffd3-11" name="rest_code_d9cb388adde845c7b887ab25bc54ffd3-11" href="#rest_code_d9cb388adde845c7b887ab25bc54ffd3-11"></a>    <span class="n">fun_frame</span> <span class="o">=</span> <span class="n">inspect</span><span class="o">.</span><span class="n">trace</span><span class="p">()[</span><span class="mi">1</span><span class="p">][</span><span class="mi">0</span><span class="p">]</span>
+<a id="rest_code_d9cb388adde845c7b887ab25bc54ffd3-12" name="rest_code_d9cb388adde845c7b887ab25bc54ffd3-12" href="#rest_code_d9cb388adde845c7b887ab25bc54ffd3-12"></a>    <span class="nb">print</span> <span class="s2">"locals in fun: "</span><span class="p">,</span> <span class="n">fun_frame</span><span class="o">.</span><span class="n">f_locals</span>
+<a id="rest_code_d9cb388adde845c7b887ab25bc54ffd3-13" name="rest_code_d9cb388adde845c7b887ab25bc54ffd3-13" href="#rest_code_d9cb388adde845c7b887ab25bc54ffd3-13"></a>    <span class="k">del</span> <span class="n">fun_frame</span>
 </pre></div>
     </div>    
 </div>
