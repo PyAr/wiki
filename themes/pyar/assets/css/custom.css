@@ -576,6 +576,10 @@ small, .small {
 
 /* flexsearch_plugin*/
 
+#search_bar {
+    text-align: right;
+}
+
 #search_overlay {
     position: fixed; /* Fixed position to cover the whole screen */
     width: 100%;
@@ -594,6 +598,8 @@ small, .small {
     padding: 20px;
     width: 90%;
     max-width: 600px; /* Limit the width on larger screens */
+    max-height: 80%;
+    overflow-y: auto; /* Adds a vertical scrollbar */
     border-radius: 5px;
     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
 }
