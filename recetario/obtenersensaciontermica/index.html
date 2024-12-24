@@ -33,7 +33,7 @@ t= 20 # Temperatura
 v = 20 # Velocidad del Viento
 ">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-07-19T18:57:50-03:00">
+<meta property="article:published_time" content="2024-12-24T18:04:17-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
@@ -94,19 +94,19 @@ v = 20 # Velocidad del Viento
     <ul class="simple">
 <li><p>Cómo obtener la Sensación Térmica o Temperatura Aparente usando Python, ejemplo simple.</p></li>
 </ul>
-<div class="code"><pre class="code python"><a id="rest_code_43381ea17ae34c9299947683411e5d00-1" name="rest_code_43381ea17ae34c9299947683411e5d00-1" href="#rest_code_43381ea17ae34c9299947683411e5d00-1"></a><span class="ch">#!/usr/bin/env python</span>
-<a id="rest_code_43381ea17ae34c9299947683411e5d00-2" name="rest_code_43381ea17ae34c9299947683411e5d00-2" href="#rest_code_43381ea17ae34c9299947683411e5d00-2"></a><span class="c1"># -*- coding: utf-8 -*-</span>
-<a id="rest_code_43381ea17ae34c9299947683411e5d00-3" name="rest_code_43381ea17ae34c9299947683411e5d00-3" href="#rest_code_43381ea17ae34c9299947683411e5d00-3"></a><span class="c1">#</span>
-<a id="rest_code_43381ea17ae34c9299947683411e5d00-4" name="rest_code_43381ea17ae34c9299947683411e5d00-4" href="#rest_code_43381ea17ae34c9299947683411e5d00-4"></a><span class="kn">import</span> <span class="nn">math</span>
-<a id="rest_code_43381ea17ae34c9299947683411e5d00-5" name="rest_code_43381ea17ae34c9299947683411e5d00-5" href="#rest_code_43381ea17ae34c9299947683411e5d00-5"></a>
-<a id="rest_code_43381ea17ae34c9299947683411e5d00-6" name="rest_code_43381ea17ae34c9299947683411e5d00-6" href="#rest_code_43381ea17ae34c9299947683411e5d00-6"></a><span class="n">t</span><span class="o">=</span> <span class="mi">20</span> <span class="c1"># Temperatura</span>
-<a id="rest_code_43381ea17ae34c9299947683411e5d00-7" name="rest_code_43381ea17ae34c9299947683411e5d00-7" href="#rest_code_43381ea17ae34c9299947683411e5d00-7"></a><span class="n">v</span> <span class="o">=</span> <span class="mi">20</span> <span class="c1"># Velocidad del Viento</span>
-<a id="rest_code_43381ea17ae34c9299947683411e5d00-8" name="rest_code_43381ea17ae34c9299947683411e5d00-8" href="#rest_code_43381ea17ae34c9299947683411e5d00-8"></a><span class="n">st</span> <span class="o">=</span> <span class="mi">33</span> <span class="o">+</span> <span class="p">(</span><span class="n">t</span><span class="o">-</span> <span class="mi">33</span><span class="p">)</span><span class="o">*</span><span class="p">(</span><span class="mf">0.474</span> <span class="o">+</span> <span class="mf">0.454</span> <span class="o">*</span> <span class="n">math</span><span class="o">.</span><span class="n">sqrt</span><span class="p">((</span><span class="n">v</span><span class="p">))</span><span class="o">-</span><span class="mf">0.0454</span><span class="o">*</span><span class="n">v</span><span class="p">)</span>
-<a id="rest_code_43381ea17ae34c9299947683411e5d00-9" name="rest_code_43381ea17ae34c9299947683411e5d00-9" href="#rest_code_43381ea17ae34c9299947683411e5d00-9"></a><span class="nb">print</span> <span class="n">st</span>
+<div class="code"><pre class="code python"><a id="rest_code_ba05a223504a4c188c6773c41eaf9044-1" name="rest_code_ba05a223504a4c188c6773c41eaf9044-1" href="#rest_code_ba05a223504a4c188c6773c41eaf9044-1"></a><span class="ch">#!/usr/bin/env python</span>
+<a id="rest_code_ba05a223504a4c188c6773c41eaf9044-2" name="rest_code_ba05a223504a4c188c6773c41eaf9044-2" href="#rest_code_ba05a223504a4c188c6773c41eaf9044-2"></a><span class="c1"># -*- coding: utf-8 -*-</span>
+<a id="rest_code_ba05a223504a4c188c6773c41eaf9044-3" name="rest_code_ba05a223504a4c188c6773c41eaf9044-3" href="#rest_code_ba05a223504a4c188c6773c41eaf9044-3"></a><span class="c1">#</span>
+<a id="rest_code_ba05a223504a4c188c6773c41eaf9044-4" name="rest_code_ba05a223504a4c188c6773c41eaf9044-4" href="#rest_code_ba05a223504a4c188c6773c41eaf9044-4"></a><span class="kn">import</span> <span class="nn">math</span>
+<a id="rest_code_ba05a223504a4c188c6773c41eaf9044-5" name="rest_code_ba05a223504a4c188c6773c41eaf9044-5" href="#rest_code_ba05a223504a4c188c6773c41eaf9044-5"></a>
+<a id="rest_code_ba05a223504a4c188c6773c41eaf9044-6" name="rest_code_ba05a223504a4c188c6773c41eaf9044-6" href="#rest_code_ba05a223504a4c188c6773c41eaf9044-6"></a><span class="n">t</span><span class="o">=</span> <span class="mi">20</span> <span class="c1"># Temperatura</span>
+<a id="rest_code_ba05a223504a4c188c6773c41eaf9044-7" name="rest_code_ba05a223504a4c188c6773c41eaf9044-7" href="#rest_code_ba05a223504a4c188c6773c41eaf9044-7"></a><span class="n">v</span> <span class="o">=</span> <span class="mi">20</span> <span class="c1"># Velocidad del Viento</span>
+<a id="rest_code_ba05a223504a4c188c6773c41eaf9044-8" name="rest_code_ba05a223504a4c188c6773c41eaf9044-8" href="#rest_code_ba05a223504a4c188c6773c41eaf9044-8"></a><span class="n">st</span> <span class="o">=</span> <span class="mi">33</span> <span class="o">+</span> <span class="p">(</span><span class="n">t</span><span class="o">-</span> <span class="mi">33</span><span class="p">)</span><span class="o">*</span><span class="p">(</span><span class="mf">0.474</span> <span class="o">+</span> <span class="mf">0.454</span> <span class="o">*</span> <span class="n">math</span><span class="o">.</span><span class="n">sqrt</span><span class="p">((</span><span class="n">v</span><span class="p">))</span><span class="o">-</span><span class="mf">0.0454</span><span class="o">*</span><span class="n">v</span><span class="p">)</span>
+<a id="rest_code_ba05a223504a4c188c6773c41eaf9044-9" name="rest_code_ba05a223504a4c188c6773c41eaf9044-9" href="#rest_code_ba05a223504a4c188c6773c41eaf9044-9"></a><span class="nb">print</span> <span class="n">st</span>
 </pre></div>
 <p><strong>Ejemplo:</strong></p>
-<div class="code"><pre class="code bash"><a id="rest_code_cef7ff7a577548788b640c940405a7ec-1" name="rest_code_cef7ff7a577548788b640c940405a7ec-1" href="#rest_code_cef7ff7a577548788b640c940405a7ec-1"></a>/usr/bin/env<span class="w"> </span>python<span class="w"> </span>st.py
-<a id="rest_code_cef7ff7a577548788b640c940405a7ec-2" name="rest_code_cef7ff7a577548788b640c940405a7ec-2" href="#rest_code_cef7ff7a577548788b640c940405a7ec-2"></a><span class="m">12</span>.24
+<div class="code"><pre class="code bash"><a id="rest_code_fb93fd6e03e34191b90c49246bce0fbc-1" name="rest_code_fb93fd6e03e34191b90c49246bce0fbc-1" href="#rest_code_fb93fd6e03e34191b90c49246bce0fbc-1"></a>/usr/bin/env<span class="w"> </span>python<span class="w"> </span>st.py
+<a id="rest_code_fb93fd6e03e34191b90c49246bce0fbc-2" name="rest_code_fb93fd6e03e34191b90c49246bce0fbc-2" href="#rest_code_fb93fd6e03e34191b90c49246bce0fbc-2"></a><span class="m">12</span>.24
 </pre></div>
 <p><em>Disclaimer: el uso o no de SheBang/Declaracion de Encoding queda a criterio del usuario.</em></p>
 <p><em>Fe de Erratas: seguramente hay una forma mejor de hacerlo, pero esta funciona correctamente.</em></p>
