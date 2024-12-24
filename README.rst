@@ -15,19 +15,16 @@ Cómo buildear las páginas
 
 .. code-block:: console
 
-    pip install -U pip
-    pip install -r requirements.txt
-
-    nikola build
-    nikola serve
-
-Cómo buildear la imagen de docker
-=================================
+    python -m venv .venv
+    .\.venv\Scripts\Activate.ps1 # en PowerShell
+    . .venv\bin\activate # en Bash
 
 .. code-block:: console
 
-     docker build --no-cache --tag tzulberti/wiki -f Dockerfile .
+    .venv> python -m pip install -U pip
+    .venv> python -m pip install -r requirements.txt
 
+.. code-block:: console
 
-Se necesita el `--no-cache` para que la parte de clonar el repo de la
-wiki no use un cache sino que se haga todo el tiempo.
+    .venv> nikola build
+    .venv> nikola serve
