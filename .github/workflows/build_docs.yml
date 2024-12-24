@@ -19,7 +19,7 @@ on:
       - themes/**
       - plugins/**
       - images/**
-      
+  workflow_dispatch:
 jobs:
   build:
 
