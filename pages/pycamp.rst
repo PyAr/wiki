@@ -44,6 +44,7 @@ La próxima edición está en marcha_
 
 Ediciones anteriores
 --------------------
+
 * Decimosexta edición `Riachuelo, Corrientes. Junio de 2024`_
 
 * Decimoquinta edición `Riachuelo, Corrientes. Marzo de 2023`_
