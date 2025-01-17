@@ -29,7 +29,7 @@ import sqlite3
 
 # leo DB #dbfn = 'allseqs-AR.db' dbfn = '../AS/allseqs-AS.db' conn = sqlite3.connect(dbfn) c = conn.cursor() # CREATE TABLES c.execute(&quot;SELECT ctgID,read">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-12-24T18:04:17-03:00">
+<meta property="article:published_time" content="2025-01-17T13:33:39-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
@@ -88,20 +88,20 @@ import sqlite3
     </div>
     <div class="e-content entry-content" itemprop="articleBody text">
     <p>PRUEBA:</p>
-<div class="code"><pre class="code python"><a id="rest_code_68bebac4589b4b8cbec0d0e427db26e5-1" name="rest_code_68bebac4589b4b8cbec0d0e427db26e5-1" href="#rest_code_68bebac4589b4b8cbec0d0e427db26e5-1"></a><span class="ch">#!/usr/bin/env python</span>
-<a id="rest_code_68bebac4589b4b8cbec0d0e427db26e5-2" name="rest_code_68bebac4589b4b8cbec0d0e427db26e5-2" href="#rest_code_68bebac4589b4b8cbec0d0e427db26e5-2"></a>
-<a id="rest_code_68bebac4589b4b8cbec0d0e427db26e5-3" name="rest_code_68bebac4589b4b8cbec0d0e427db26e5-3" href="#rest_code_68bebac4589b4b8cbec0d0e427db26e5-3"></a><span class="kn">import</span> <span class="nn">sqlite3</span>
-<a id="rest_code_68bebac4589b4b8cbec0d0e427db26e5-4" name="rest_code_68bebac4589b4b8cbec0d0e427db26e5-4" href="#rest_code_68bebac4589b4b8cbec0d0e427db26e5-4"></a>
-<a id="rest_code_68bebac4589b4b8cbec0d0e427db26e5-5" name="rest_code_68bebac4589b4b8cbec0d0e427db26e5-5" href="#rest_code_68bebac4589b4b8cbec0d0e427db26e5-5"></a><span class="c1"># leo DB #dbfn = 'allseqs-AR.db' dbfn = '../AS/allseqs-AS.db' conn = sqlite3.connect(dbfn) c = conn.cursor() # CREATE TABLES c.execute("SELECT ctgID,read from ctgs") for row in c:</span>
-<a id="rest_code_68bebac4589b4b8cbec0d0e427db26e5-6" name="rest_code_68bebac4589b4b8cbec0d0e427db26e5-6" href="#rest_code_68bebac4589b4b8cbec0d0e427db26e5-6"></a>
-<a id="rest_code_68bebac4589b4b8cbec0d0e427db26e5-7" name="rest_code_68bebac4589b4b8cbec0d0e427db26e5-7" href="#rest_code_68bebac4589b4b8cbec0d0e427db26e5-7"></a><span class="n">ctg</span> <span class="o">=</span> <span class="n">row</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="n">lib</span> <span class="o">=</span> <span class="n">row</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="s1">'-'</span><span class="p">)[</span><span class="mi">0</span><span class="p">][</span><span class="o">-</span><span class="mi">3</span><span class="p">:]</span>
+<div class="code"><pre class="code python"><a id="rest_code_24479963546b4208b29314c191eb03dc-1" name="rest_code_24479963546b4208b29314c191eb03dc-1" href="#rest_code_24479963546b4208b29314c191eb03dc-1"></a><span class="ch">#!/usr/bin/env python</span>
+<a id="rest_code_24479963546b4208b29314c191eb03dc-2" name="rest_code_24479963546b4208b29314c191eb03dc-2" href="#rest_code_24479963546b4208b29314c191eb03dc-2"></a>
+<a id="rest_code_24479963546b4208b29314c191eb03dc-3" name="rest_code_24479963546b4208b29314c191eb03dc-3" href="#rest_code_24479963546b4208b29314c191eb03dc-3"></a><span class="kn">import</span><span class="w"> </span><span class="nn">sqlite3</span>
+<a id="rest_code_24479963546b4208b29314c191eb03dc-4" name="rest_code_24479963546b4208b29314c191eb03dc-4" href="#rest_code_24479963546b4208b29314c191eb03dc-4"></a>
+<a id="rest_code_24479963546b4208b29314c191eb03dc-5" name="rest_code_24479963546b4208b29314c191eb03dc-5" href="#rest_code_24479963546b4208b29314c191eb03dc-5"></a><span class="c1"># leo DB #dbfn = 'allseqs-AR.db' dbfn = '../AS/allseqs-AS.db' conn = sqlite3.connect(dbfn) c = conn.cursor() # CREATE TABLES c.execute("SELECT ctgID,read from ctgs") for row in c:</span>
+<a id="rest_code_24479963546b4208b29314c191eb03dc-6" name="rest_code_24479963546b4208b29314c191eb03dc-6" href="#rest_code_24479963546b4208b29314c191eb03dc-6"></a>
+<a id="rest_code_24479963546b4208b29314c191eb03dc-7" name="rest_code_24479963546b4208b29314c191eb03dc-7" href="#rest_code_24479963546b4208b29314c191eb03dc-7"></a><span class="n">ctg</span> <span class="o">=</span> <span class="n">row</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span> <span class="n">lib</span> <span class="o">=</span> <span class="n">row</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="s1">'-'</span><span class="p">)[</span><span class="mi">0</span><span class="p">][</span><span class="o">-</span><span class="mi">3</span><span class="p">:]</span>
 </pre></div>
 <p>klkl</p>
     </div>    
 </div>
         <!--End of body content-->
 
-        <footer id="footer" class="bg-light"><span>Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow" target="_blanc">Nikola</a>         </span><span><a href="https://ac.python.org.ar/#donaciones" rel="nofollow" target="_blanc">Aporta a PyAr con tu donación</a><a></a></span>
+        <footer id="footer" class="bg-light"><span>Contents © 2025         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow" target="_blanc">Nikola</a>         </span><span><a href="https://ac.python.org.ar/#donaciones" rel="nofollow" target="_blanc">Aporta a PyAr con tu donación</a><a></a></span>
             
         </footer>
 </div>

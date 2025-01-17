@@ -28,7 +28,7 @@ Toda aplicación que NO requiera privilegios elevados no debería poder ejecutar
 
 if os.geteuid()==0: # ">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-12-24T18:04:17-03:00">
+<meta property="article:published_time" content="2025-01-17T13:33:39-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
@@ -90,25 +90,25 @@ if os.geteuid()==0: # ">
 <ul class="simple">
 <li><p>Toda aplicación que NO requiera privilegios elevados no debería poder ejecutarse como root.</p></li>
 </ul>
-<div class="code"><pre class="code python"><a id="rest_code_4df055c9cbe4486db0c0c3bc9e0e9f50-1" name="rest_code_4df055c9cbe4486db0c0c3bc9e0e9f50-1" href="#rest_code_4df055c9cbe4486db0c0c3bc9e0e9f50-1"></a><span class="k">if</span> <span class="n">os</span><span class="o">.</span><span class="n">geteuid</span><span class="p">()</span><span class="o">==</span><span class="mi">0</span><span class="p">:</span> <span class="c1"># non-root check</span>
-<a id="rest_code_4df055c9cbe4486db0c0c3bc9e0e9f50-2" name="rest_code_4df055c9cbe4486db0c0c3bc9e0e9f50-2" href="#rest_code_4df055c9cbe4486db0c0c3bc9e0e9f50-2"></a>    <span class="n">sys</span><span class="o">.</span><span class="n">exit</span><span class="p">(</span><span class="s2">" ERROR: Do not run as root...</span><span class="se">\n</span><span class="s2">"</span><span class="p">)</span>
-<a id="rest_code_4df055c9cbe4486db0c0c3bc9e0e9f50-3" name="rest_code_4df055c9cbe4486db0c0c3bc9e0e9f50-3" href="#rest_code_4df055c9cbe4486db0c0c3bc9e0e9f50-3"></a><span class="k">else</span><span class="p">:</span>
-<a id="rest_code_4df055c9cbe4486db0c0c3bc9e0e9f50-4" name="rest_code_4df055c9cbe4486db0c0c3bc9e0e9f50-4" href="#rest_code_4df055c9cbe4486db0c0c3bc9e0e9f50-4"></a>    <span class="nb">print</span> <span class="s2">" You are normal user... </span><span class="se">\n</span><span class="s2">"</span>
+<div class="code"><pre class="code python"><a id="rest_code_7a1439079ce9412789e866bb979f4285-1" name="rest_code_7a1439079ce9412789e866bb979f4285-1" href="#rest_code_7a1439079ce9412789e866bb979f4285-1"></a><span class="k">if</span> <span class="n">os</span><span class="o">.</span><span class="n">geteuid</span><span class="p">()</span><span class="o">==</span><span class="mi">0</span><span class="p">:</span> <span class="c1"># non-root check</span>
+<a id="rest_code_7a1439079ce9412789e866bb979f4285-2" name="rest_code_7a1439079ce9412789e866bb979f4285-2" href="#rest_code_7a1439079ce9412789e866bb979f4285-2"></a>    <span class="n">sys</span><span class="o">.</span><span class="n">exit</span><span class="p">(</span><span class="s2">" ERROR: Do not run as root...</span><span class="se">\n</span><span class="s2">"</span><span class="p">)</span>
+<a id="rest_code_7a1439079ce9412789e866bb979f4285-3" name="rest_code_7a1439079ce9412789e866bb979f4285-3" href="#rest_code_7a1439079ce9412789e866bb979f4285-3"></a><span class="k">else</span><span class="p">:</span>
+<a id="rest_code_7a1439079ce9412789e866bb979f4285-4" name="rest_code_7a1439079ce9412789e866bb979f4285-4" href="#rest_code_7a1439079ce9412789e866bb979f4285-4"></a>    <span class="nb">print</span> <span class="s2">" You are normal user... </span><span class="se">\n</span><span class="s2">"</span>
 </pre></div>
 <p>Ejemplo:</p>
-<div class="code"><pre class="code bash"><a id="rest_code_6ee10b3ca00e4124a0c9c701152850ec-1" name="rest_code_6ee10b3ca00e4124a0c9c701152850ec-1" href="#rest_code_6ee10b3ca00e4124a0c9c701152850ec-1"></a>juan@maverick:~$<span class="w"> </span>/usr/bin/env<span class="w"> </span>python<span class="w"> </span>test.py
-<a id="rest_code_6ee10b3ca00e4124a0c9c701152850ec-2" name="rest_code_6ee10b3ca00e4124a0c9c701152850ec-2" href="#rest_code_6ee10b3ca00e4124a0c9c701152850ec-2"></a>
-<a id="rest_code_6ee10b3ca00e4124a0c9c701152850ec-3" name="rest_code_6ee10b3ca00e4124a0c9c701152850ec-3" href="#rest_code_6ee10b3ca00e4124a0c9c701152850ec-3"></a><span class="w"> </span>You<span class="w"> </span>are<span class="w"> </span>normal<span class="w"> </span>user...
-<a id="rest_code_6ee10b3ca00e4124a0c9c701152850ec-4" name="rest_code_6ee10b3ca00e4124a0c9c701152850ec-4" href="#rest_code_6ee10b3ca00e4124a0c9c701152850ec-4"></a>
-<a id="rest_code_6ee10b3ca00e4124a0c9c701152850ec-5" name="rest_code_6ee10b3ca00e4124a0c9c701152850ec-5" href="#rest_code_6ee10b3ca00e4124a0c9c701152850ec-5"></a>juan@maverick:~$<span class="w"> </span>sudo<span class="w"> </span>/usr/bin/env<span class="w"> </span>python<span class="w"> </span>test.py
-<a id="rest_code_6ee10b3ca00e4124a0c9c701152850ec-6" name="rest_code_6ee10b3ca00e4124a0c9c701152850ec-6" href="#rest_code_6ee10b3ca00e4124a0c9c701152850ec-6"></a>
-<a id="rest_code_6ee10b3ca00e4124a0c9c701152850ec-7" name="rest_code_6ee10b3ca00e4124a0c9c701152850ec-7" href="#rest_code_6ee10b3ca00e4124a0c9c701152850ec-7"></a><span class="w"> </span>ERROR:<span class="w"> </span>Do<span class="w"> </span>not<span class="w"> </span>run<span class="w"> </span>as<span class="w"> </span>root...
+<div class="code"><pre class="code bash"><a id="rest_code_53cd67fcabf94688a05e4f2ccc964320-1" name="rest_code_53cd67fcabf94688a05e4f2ccc964320-1" href="#rest_code_53cd67fcabf94688a05e4f2ccc964320-1"></a>juan@maverick:~$<span class="w"> </span>/usr/bin/env<span class="w"> </span>python<span class="w"> </span>test.py
+<a id="rest_code_53cd67fcabf94688a05e4f2ccc964320-2" name="rest_code_53cd67fcabf94688a05e4f2ccc964320-2" href="#rest_code_53cd67fcabf94688a05e4f2ccc964320-2"></a>
+<a id="rest_code_53cd67fcabf94688a05e4f2ccc964320-3" name="rest_code_53cd67fcabf94688a05e4f2ccc964320-3" href="#rest_code_53cd67fcabf94688a05e4f2ccc964320-3"></a><span class="w"> </span>You<span class="w"> </span>are<span class="w"> </span>normal<span class="w"> </span>user...
+<a id="rest_code_53cd67fcabf94688a05e4f2ccc964320-4" name="rest_code_53cd67fcabf94688a05e4f2ccc964320-4" href="#rest_code_53cd67fcabf94688a05e4f2ccc964320-4"></a>
+<a id="rest_code_53cd67fcabf94688a05e4f2ccc964320-5" name="rest_code_53cd67fcabf94688a05e4f2ccc964320-5" href="#rest_code_53cd67fcabf94688a05e4f2ccc964320-5"></a>juan@maverick:~$<span class="w"> </span>sudo<span class="w"> </span>/usr/bin/env<span class="w"> </span>python<span class="w"> </span>test.py
+<a id="rest_code_53cd67fcabf94688a05e4f2ccc964320-6" name="rest_code_53cd67fcabf94688a05e4f2ccc964320-6" href="#rest_code_53cd67fcabf94688a05e4f2ccc964320-6"></a>
+<a id="rest_code_53cd67fcabf94688a05e4f2ccc964320-7" name="rest_code_53cd67fcabf94688a05e4f2ccc964320-7" href="#rest_code_53cd67fcabf94688a05e4f2ccc964320-7"></a><span class="w"> </span>ERROR:<span class="w"> </span>Do<span class="w"> </span>not<span class="w"> </span>run<span class="w"> </span>as<span class="w"> </span>root...
 </pre></div>
     </div>    
 </div>
         <!--End of body content-->
 
-        <footer id="footer" class="bg-light"><span>Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow" target="_blanc">Nikola</a>         </span><span><a href="https://ac.python.org.ar/#donaciones" rel="nofollow" target="_blanc">Aporta a PyAr con tu donación</a><a></a></span>
+        <footer id="footer" class="bg-light"><span>Contents © 2025         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow" target="_blanc">Nikola</a>         </span><span><a href="https://ac.python.org.ar/#donaciones" rel="nofollow" target="_blanc">Aporta a PyAr con tu donación</a><a></a></span>
             
         </footer>
 </div>

@@ -28,7 +28,7 @@ svn checkout http://charla-pygame.googlecode.com/svn/trunk/ charla-pygame
 Módulo OLPCGames: http://dev.laptop.org/~mcfletch/OLPCGames/OLPCGames-1.6.zip
 Imag">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-12-24T18:04:17-03:00">
+<meta property="article:published_time" content="2025-01-17T13:33:39-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
@@ -87,7 +87,7 @@ Imag">
     </div>
     <div class="e-content entry-content" itemprop="articleBody text">
     <p>Para bajar la charla y todos los ejemplos:</p>
-<div class="code"><pre class="code bash"><a id="rest_code_ab5801c7147e458982c98309707c124a-1" name="rest_code_ab5801c7147e458982c98309707c124a-1" href="#rest_code_ab5801c7147e458982c98309707c124a-1"></a>svn<span class="w"> </span>checkout<span class="w"> </span>http://charla-pygame.googlecode.com/svn/trunk/<span class="w"> </span>charla-pygame
+<div class="code"><pre class="code bash"><a id="rest_code_89b5a389c1764d60a5bb81ab8b30d562-1" name="rest_code_89b5a389c1764d60a5bb81ab8b30d562-1" href="#rest_code_89b5a389c1764d60a5bb81ab8b30d562-1"></a>svn<span class="w"> </span>checkout<span class="w"> </span>http://charla-pygame.googlecode.com/svn/trunk/<span class="w"> </span>charla-pygame
 </pre></div>
 <p>Módulo OLPCGames: <a class="reference external" href="http://dev.laptop.org/~mcfletch/OLPCGames/OLPCGames-1.6.zip">http://dev.laptop.org/~mcfletch/OLPCGames/OLPCGames-1.6.zip</a></p>
 <p>Imagen de Qemu:</p>
@@ -101,39 +101,39 @@ Imag">
 <ul class="simple">
 <li><p>Instalar qemu y kqemu. En ubuntu:</p></li>
 </ul>
-<div class="code"><pre class="code bash"><a id="rest_code_42ac441705dc40cf9474a35013b7ab99-1" name="rest_code_42ac441705dc40cf9474a35013b7ab99-1" href="#rest_code_42ac441705dc40cf9474a35013b7ab99-1"></a>sudo<span class="w"> </span>apt-get<span class="w"> </span>install<span class="w"> </span>qemu<span class="w"> </span>kqemu-source<span class="w"> </span>kqemu-common
-<a id="rest_code_42ac441705dc40cf9474a35013b7ab99-2" name="rest_code_42ac441705dc40cf9474a35013b7ab99-2" href="#rest_code_42ac441705dc40cf9474a35013b7ab99-2"></a>sudo<span class="w"> </span>module-assistant<span class="w"> </span>prepare<span class="w"> </span>kqemu
-<a id="rest_code_42ac441705dc40cf9474a35013b7ab99-3" name="rest_code_42ac441705dc40cf9474a35013b7ab99-3" href="#rest_code_42ac441705dc40cf9474a35013b7ab99-3"></a>sudo<span class="w"> </span>module-assistant<span class="w"> </span>auto-install<span class="w"> </span>kqemu
-<a id="rest_code_42ac441705dc40cf9474a35013b7ab99-4" name="rest_code_42ac441705dc40cf9474a35013b7ab99-4" href="#rest_code_42ac441705dc40cf9474a35013b7ab99-4"></a>sudo<span class="w"> </span>modprobe<span class="w"> </span>kqemu
+<div class="code"><pre class="code bash"><a id="rest_code_40291e914f574b5da7788f0fe5f822fe-1" name="rest_code_40291e914f574b5da7788f0fe5f822fe-1" href="#rest_code_40291e914f574b5da7788f0fe5f822fe-1"></a>sudo<span class="w"> </span>apt-get<span class="w"> </span>install<span class="w"> </span>qemu<span class="w"> </span>kqemu-source<span class="w"> </span>kqemu-common
+<a id="rest_code_40291e914f574b5da7788f0fe5f822fe-2" name="rest_code_40291e914f574b5da7788f0fe5f822fe-2" href="#rest_code_40291e914f574b5da7788f0fe5f822fe-2"></a>sudo<span class="w"> </span>module-assistant<span class="w"> </span>prepare<span class="w"> </span>kqemu
+<a id="rest_code_40291e914f574b5da7788f0fe5f822fe-3" name="rest_code_40291e914f574b5da7788f0fe5f822fe-3" href="#rest_code_40291e914f574b5da7788f0fe5f822fe-3"></a>sudo<span class="w"> </span>module-assistant<span class="w"> </span>auto-install<span class="w"> </span>kqemu
+<a id="rest_code_40291e914f574b5da7788f0fe5f822fe-4" name="rest_code_40291e914f574b5da7788f0fe5f822fe-4" href="#rest_code_40291e914f574b5da7788f0fe5f822fe-4"></a>sudo<span class="w"> </span>modprobe<span class="w"> </span>kqemu
 </pre></div>
 <ul class="simple">
 <li><p>bajarse y descomprimir la imagen de olpc:</p></li>
 </ul>
-<div class="code"><pre class="code bash"><a id="rest_code_eb5f15e13e3b460a8e4cb5007a882859-1" name="rest_code_eb5f15e13e3b460a8e4cb5007a882859-1" href="#rest_code_eb5f15e13e3b460a8e4cb5007a882859-1"></a>mkdir<span class="w"> </span>~/olpc
-<a id="rest_code_eb5f15e13e3b460a8e4cb5007a882859-2" name="rest_code_eb5f15e13e3b460a8e4cb5007a882859-2" href="#rest_code_eb5f15e13e3b460a8e4cb5007a882859-2"></a><span class="nb">cd</span><span class="w"> </span>~/olpc
-<a id="rest_code_eb5f15e13e3b460a8e4cb5007a882859-3" name="rest_code_eb5f15e13e3b460a8e4cb5007a882859-3" href="#rest_code_eb5f15e13e3b460a8e4cb5007a882859-3"></a>wget<span class="w"> </span>http://xs-dev.laptop.org/~cscott/xo-1/streams/ship.2/build659/devel_ext3/olpc-redhat-stream-ship.2-build-659-20080229_1949-devel_ext3.img.bz2
-<a id="rest_code_eb5f15e13e3b460a8e4cb5007a882859-4" name="rest_code_eb5f15e13e3b460a8e4cb5007a882859-4" href="#rest_code_eb5f15e13e3b460a8e4cb5007a882859-4"></a>bunzip<span class="w"> </span>xo-1-olpc-stream-update.1-devel_ext3.img.bz2
-<a id="rest_code_eb5f15e13e3b460a8e4cb5007a882859-5" name="rest_code_eb5f15e13e3b460a8e4cb5007a882859-5" href="#rest_code_eb5f15e13e3b460a8e4cb5007a882859-5"></a>chmod<span class="w"> </span>-w<span class="w"> </span>xo-1-olpc-stream-update.1-devel_ext3.img
+<div class="code"><pre class="code bash"><a id="rest_code_5235e4a110a347f28ebb36e6a1179edb-1" name="rest_code_5235e4a110a347f28ebb36e6a1179edb-1" href="#rest_code_5235e4a110a347f28ebb36e6a1179edb-1"></a>mkdir<span class="w"> </span>~/olpc
+<a id="rest_code_5235e4a110a347f28ebb36e6a1179edb-2" name="rest_code_5235e4a110a347f28ebb36e6a1179edb-2" href="#rest_code_5235e4a110a347f28ebb36e6a1179edb-2"></a><span class="nb">cd</span><span class="w"> </span>~/olpc
+<a id="rest_code_5235e4a110a347f28ebb36e6a1179edb-3" name="rest_code_5235e4a110a347f28ebb36e6a1179edb-3" href="#rest_code_5235e4a110a347f28ebb36e6a1179edb-3"></a>wget<span class="w"> </span>http://xs-dev.laptop.org/~cscott/xo-1/streams/ship.2/build659/devel_ext3/olpc-redhat-stream-ship.2-build-659-20080229_1949-devel_ext3.img.bz2
+<a id="rest_code_5235e4a110a347f28ebb36e6a1179edb-4" name="rest_code_5235e4a110a347f28ebb36e6a1179edb-4" href="#rest_code_5235e4a110a347f28ebb36e6a1179edb-4"></a>bunzip<span class="w"> </span>xo-1-olpc-stream-update.1-devel_ext3.img.bz2
+<a id="rest_code_5235e4a110a347f28ebb36e6a1179edb-5" name="rest_code_5235e4a110a347f28ebb36e6a1179edb-5" href="#rest_code_5235e4a110a347f28ebb36e6a1179edb-5"></a>chmod<span class="w"> </span>-w<span class="w"> </span>xo-1-olpc-stream-update.1-devel_ext3.img
 </pre></div>
 <ul class="simple">
 <li><p>crear la imagen "Copy on Write" de qemu:</p></li>
 </ul>
-<div class="code"><pre class="code bash"><a id="rest_code_5c515d992fc3459ca452446a06ebf0b5-1" name="rest_code_5c515d992fc3459ca452446a06ebf0b5-1" href="#rest_code_5c515d992fc3459ca452446a06ebf0b5-1"></a>mkdir<span class="w"> </span>/tmp/olpc
-<a id="rest_code_5c515d992fc3459ca452446a06ebf0b5-2" name="rest_code_5c515d992fc3459ca452446a06ebf0b5-2" href="#rest_code_5c515d992fc3459ca452446a06ebf0b5-2"></a><span class="nb">cd</span><span class="w"> </span>/tmp/olpc
-<a id="rest_code_5c515d992fc3459ca452446a06ebf0b5-3" name="rest_code_5c515d992fc3459ca452446a06ebf0b5-3" href="#rest_code_5c515d992fc3459ca452446a06ebf0b5-3"></a>qemu-img<span class="w"> </span>create<span class="w"> </span>-b<span class="w"> </span>~/olpc/xo-1-olpc-stream-update.1-devel_ext3.img<span class="w"> </span>-f<span class="w"> </span>qcow<span class="w"> </span>olpc.img
+<div class="code"><pre class="code bash"><a id="rest_code_9e5b0a4cce114d879d6205cd0b738672-1" name="rest_code_9e5b0a4cce114d879d6205cd0b738672-1" href="#rest_code_9e5b0a4cce114d879d6205cd0b738672-1"></a>mkdir<span class="w"> </span>/tmp/olpc
+<a id="rest_code_9e5b0a4cce114d879d6205cd0b738672-2" name="rest_code_9e5b0a4cce114d879d6205cd0b738672-2" href="#rest_code_9e5b0a4cce114d879d6205cd0b738672-2"></a><span class="nb">cd</span><span class="w"> </span>/tmp/olpc
+<a id="rest_code_9e5b0a4cce114d879d6205cd0b738672-3" name="rest_code_9e5b0a4cce114d879d6205cd0b738672-3" href="#rest_code_9e5b0a4cce114d879d6205cd0b738672-3"></a>qemu-img<span class="w"> </span>create<span class="w"> </span>-b<span class="w"> </span>~/olpc/xo-1-olpc-stream-update.1-devel_ext3.img<span class="w"> </span>-f<span class="w"> </span>qcow<span class="w"> </span>olpc.img
 </pre></div>
 <ul class="simple">
 <li><p>bootear qemu:</p></li>
 </ul>
-<div class="code"><pre class="code bash"><a id="rest_code_47040e50cad843b692a79ba938b97738-1" name="rest_code_47040e50cad843b692a79ba938b97738-1" href="#rest_code_47040e50cad843b692a79ba938b97738-1"></a><span class="nb">cd</span><span class="w"> </span>/tmp/olpc
-<a id="rest_code_47040e50cad843b692a79ba938b97738-2" name="rest_code_47040e50cad843b692a79ba938b97738-2" href="#rest_code_47040e50cad843b692a79ba938b97738-2"></a>qemu<span class="w"> </span>-m<span class="w"> </span><span class="m">256</span><span class="w"> </span>-kernel-kqemu<span class="w"> </span>-soundhw<span class="w"> </span>es1370<span class="w"> </span>-net<span class="w"> </span>user<span class="w"> </span>-net<span class="w"> </span>nic,model<span class="o">=</span>rtl8139<span class="w"> </span>-hda<span class="w"> </span>olpc.img
+<div class="code"><pre class="code bash"><a id="rest_code_5909cc65df914781a2e2d85a69880090-1" name="rest_code_5909cc65df914781a2e2d85a69880090-1" href="#rest_code_5909cc65df914781a2e2d85a69880090-1"></a><span class="nb">cd</span><span class="w"> </span>/tmp/olpc
+<a id="rest_code_5909cc65df914781a2e2d85a69880090-2" name="rest_code_5909cc65df914781a2e2d85a69880090-2" href="#rest_code_5909cc65df914781a2e2d85a69880090-2"></a>qemu<span class="w"> </span>-m<span class="w"> </span><span class="m">256</span><span class="w"> </span>-kernel-kqemu<span class="w"> </span>-soundhw<span class="w"> </span>es1370<span class="w"> </span>-net<span class="w"> </span>user<span class="w"> </span>-net<span class="w"> </span>nic,model<span class="o">=</span>rtl8139<span class="w"> </span>-hda<span class="w"> </span>olpc.img
 </pre></div>
 <!-- ############################################################################ -->
     </div>    
 </div>
         <!--End of body content-->
 
-        <footer id="footer" class="bg-light"><span>Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow" target="_blanc">Nikola</a>         </span><span><a href="https://ac.python.org.ar/#donaciones" rel="nofollow" target="_blanc">Aporta a PyAr con tu donación</a><a></a></span>
+        <footer id="footer" class="bg-light"><span>Contents © 2025         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow" target="_blanc">Nikola</a>         </span><span><a href="https://ac.python.org.ar/#donaciones" rel="nofollow" target="_blanc">Aporta a PyAr con tu donación</a><a></a></span>
             
         </footer>
 </div>

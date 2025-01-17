@@ -26,7 +26,7 @@ og: http://ogp.me/ns# article: http://ogp.me/ns/article#
 En realidad son los locals de la funcion llamada.
 Lo uso para pasarle los locals de la funcion a un template de djan">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2024-12-24T18:04:17-03:00">
+<meta property="article:published_time" content="2025-01-17T13:33:39-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
@@ -87,25 +87,25 @@ Lo uso para pasarle los locals de la funcion a un template de djan">
     <p>Ejemplo de cómo obtener las variables locales a la función que lanzo una exception.</p>
 <p>En realidad son los locals de la funcion llamada.</p>
 <p>Lo uso para pasarle los locals de la funcion a un template de django desde un decorador.</p>
-<div class="code"><pre class="code python"><a id="rest_code_196197421a1d46cf96b16ee00e489c2f-1" name="rest_code_196197421a1d46cf96b16ee00e489c2f-1" href="#rest_code_196197421a1d46cf96b16ee00e489c2f-1"></a><span class="kn">import</span> <span class="nn">inspect</span>
-<a id="rest_code_196197421a1d46cf96b16ee00e489c2f-2" name="rest_code_196197421a1d46cf96b16ee00e489c2f-2" href="#rest_code_196197421a1d46cf96b16ee00e489c2f-2"></a>
-<a id="rest_code_196197421a1d46cf96b16ee00e489c2f-3" name="rest_code_196197421a1d46cf96b16ee00e489c2f-3" href="#rest_code_196197421a1d46cf96b16ee00e489c2f-3"></a><span class="k">def</span> <span class="nf">fun</span><span class="p">():</span>
-<a id="rest_code_196197421a1d46cf96b16ee00e489c2f-4" name="rest_code_196197421a1d46cf96b16ee00e489c2f-4" href="#rest_code_196197421a1d46cf96b16ee00e489c2f-4"></a>    <span class="n">a</span><span class="p">,</span> <span class="n">b</span> <span class="o">=</span> <span class="mi">1</span><span class="p">,</span> <span class="s2">"dos"</span>
-<a id="rest_code_196197421a1d46cf96b16ee00e489c2f-5" name="rest_code_196197421a1d46cf96b16ee00e489c2f-5" href="#rest_code_196197421a1d46cf96b16ee00e489c2f-5"></a>
-<a id="rest_code_196197421a1d46cf96b16ee00e489c2f-6" name="rest_code_196197421a1d46cf96b16ee00e489c2f-6" href="#rest_code_196197421a1d46cf96b16ee00e489c2f-6"></a>    <span class="k">raise</span> <span class="ne">Exception</span><span class="p">(</span><span class="s2">"hi!"</span><span class="p">)</span>
-<a id="rest_code_196197421a1d46cf96b16ee00e489c2f-7" name="rest_code_196197421a1d46cf96b16ee00e489c2f-7" href="#rest_code_196197421a1d46cf96b16ee00e489c2f-7"></a>
-<a id="rest_code_196197421a1d46cf96b16ee00e489c2f-8" name="rest_code_196197421a1d46cf96b16ee00e489c2f-8" href="#rest_code_196197421a1d46cf96b16ee00e489c2f-8"></a><span class="k">try</span><span class="p">:</span>
-<a id="rest_code_196197421a1d46cf96b16ee00e489c2f-9" name="rest_code_196197421a1d46cf96b16ee00e489c2f-9" href="#rest_code_196197421a1d46cf96b16ee00e489c2f-9"></a>    <span class="n">fun</span><span class="p">()</span>
-<a id="rest_code_196197421a1d46cf96b16ee00e489c2f-10" name="rest_code_196197421a1d46cf96b16ee00e489c2f-10" href="#rest_code_196197421a1d46cf96b16ee00e489c2f-10"></a><span class="k">except</span> <span class="ne">Exception</span><span class="p">,</span> <span class="n">error</span><span class="p">:</span>
-<a id="rest_code_196197421a1d46cf96b16ee00e489c2f-11" name="rest_code_196197421a1d46cf96b16ee00e489c2f-11" href="#rest_code_196197421a1d46cf96b16ee00e489c2f-11"></a>    <span class="n">fun_frame</span> <span class="o">=</span> <span class="n">inspect</span><span class="o">.</span><span class="n">trace</span><span class="p">()[</span><span class="mi">1</span><span class="p">][</span><span class="mi">0</span><span class="p">]</span>
-<a id="rest_code_196197421a1d46cf96b16ee00e489c2f-12" name="rest_code_196197421a1d46cf96b16ee00e489c2f-12" href="#rest_code_196197421a1d46cf96b16ee00e489c2f-12"></a>    <span class="nb">print</span> <span class="s2">"locals in fun: "</span><span class="p">,</span> <span class="n">fun_frame</span><span class="o">.</span><span class="n">f_locals</span>
-<a id="rest_code_196197421a1d46cf96b16ee00e489c2f-13" name="rest_code_196197421a1d46cf96b16ee00e489c2f-13" href="#rest_code_196197421a1d46cf96b16ee00e489c2f-13"></a>    <span class="k">del</span> <span class="n">fun_frame</span>
+<div class="code"><pre class="code python"><a id="rest_code_89ddfe2a6999435fabffb50fdf4ad9e2-1" name="rest_code_89ddfe2a6999435fabffb50fdf4ad9e2-1" href="#rest_code_89ddfe2a6999435fabffb50fdf4ad9e2-1"></a><span class="kn">import</span><span class="w"> </span><span class="nn">inspect</span>
+<a id="rest_code_89ddfe2a6999435fabffb50fdf4ad9e2-2" name="rest_code_89ddfe2a6999435fabffb50fdf4ad9e2-2" href="#rest_code_89ddfe2a6999435fabffb50fdf4ad9e2-2"></a>
+<a id="rest_code_89ddfe2a6999435fabffb50fdf4ad9e2-3" name="rest_code_89ddfe2a6999435fabffb50fdf4ad9e2-3" href="#rest_code_89ddfe2a6999435fabffb50fdf4ad9e2-3"></a><span class="k">def</span><span class="w"> </span><span class="nf">fun</span><span class="p">():</span>
+<a id="rest_code_89ddfe2a6999435fabffb50fdf4ad9e2-4" name="rest_code_89ddfe2a6999435fabffb50fdf4ad9e2-4" href="#rest_code_89ddfe2a6999435fabffb50fdf4ad9e2-4"></a>    <span class="n">a</span><span class="p">,</span> <span class="n">b</span> <span class="o">=</span> <span class="mi">1</span><span class="p">,</span> <span class="s2">"dos"</span>
+<a id="rest_code_89ddfe2a6999435fabffb50fdf4ad9e2-5" name="rest_code_89ddfe2a6999435fabffb50fdf4ad9e2-5" href="#rest_code_89ddfe2a6999435fabffb50fdf4ad9e2-5"></a>
+<a id="rest_code_89ddfe2a6999435fabffb50fdf4ad9e2-6" name="rest_code_89ddfe2a6999435fabffb50fdf4ad9e2-6" href="#rest_code_89ddfe2a6999435fabffb50fdf4ad9e2-6"></a>    <span class="k">raise</span> <span class="ne">Exception</span><span class="p">(</span><span class="s2">"hi!"</span><span class="p">)</span>
+<a id="rest_code_89ddfe2a6999435fabffb50fdf4ad9e2-7" name="rest_code_89ddfe2a6999435fabffb50fdf4ad9e2-7" href="#rest_code_89ddfe2a6999435fabffb50fdf4ad9e2-7"></a>
+<a id="rest_code_89ddfe2a6999435fabffb50fdf4ad9e2-8" name="rest_code_89ddfe2a6999435fabffb50fdf4ad9e2-8" href="#rest_code_89ddfe2a6999435fabffb50fdf4ad9e2-8"></a><span class="k">try</span><span class="p">:</span>
+<a id="rest_code_89ddfe2a6999435fabffb50fdf4ad9e2-9" name="rest_code_89ddfe2a6999435fabffb50fdf4ad9e2-9" href="#rest_code_89ddfe2a6999435fabffb50fdf4ad9e2-9"></a>    <span class="n">fun</span><span class="p">()</span>
+<a id="rest_code_89ddfe2a6999435fabffb50fdf4ad9e2-10" name="rest_code_89ddfe2a6999435fabffb50fdf4ad9e2-10" href="#rest_code_89ddfe2a6999435fabffb50fdf4ad9e2-10"></a><span class="k">except</span> <span class="ne">Exception</span><span class="p">,</span> <span class="n">error</span><span class="p">:</span>
+<a id="rest_code_89ddfe2a6999435fabffb50fdf4ad9e2-11" name="rest_code_89ddfe2a6999435fabffb50fdf4ad9e2-11" href="#rest_code_89ddfe2a6999435fabffb50fdf4ad9e2-11"></a>    <span class="n">fun_frame</span> <span class="o">=</span> <span class="n">inspect</span><span class="o">.</span><span class="n">trace</span><span class="p">()[</span><span class="mi">1</span><span class="p">][</span><span class="mi">0</span><span class="p">]</span>
+<a id="rest_code_89ddfe2a6999435fabffb50fdf4ad9e2-12" name="rest_code_89ddfe2a6999435fabffb50fdf4ad9e2-12" href="#rest_code_89ddfe2a6999435fabffb50fdf4ad9e2-12"></a>    <span class="nb">print</span> <span class="s2">"locals in fun: "</span><span class="p">,</span> <span class="n">fun_frame</span><span class="o">.</span><span class="n">f_locals</span>
+<a id="rest_code_89ddfe2a6999435fabffb50fdf4ad9e2-13" name="rest_code_89ddfe2a6999435fabffb50fdf4ad9e2-13" href="#rest_code_89ddfe2a6999435fabffb50fdf4ad9e2-13"></a>    <span class="k">del</span> <span class="n">fun_frame</span>
 </pre></div>
     </div>    
 </div>
         <!--End of body content-->
 
-        <footer id="footer" class="bg-light"><span>Contents © 2024         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow" target="_blanc">Nikola</a>         </span><span><a href="https://ac.python.org.ar/#donaciones" rel="nofollow" target="_blanc">Aporta a PyAr con tu donación</a><a></a></span>
+        <footer id="footer" class="bg-light"><span>Contents © 2025         <a href="mailto:admin@python.org.ar">Python Argentina</a> - Powered by         <a href="https://getnikola.com" rel="nofollow" target="_blanc">Nikola</a>         </span><span><a href="https://ac.python.org.ar/#donaciones" rel="nofollow" target="_blanc">Aporta a PyAr con tu donación</a><a></a></span>
             
         </footer>
 </div>
