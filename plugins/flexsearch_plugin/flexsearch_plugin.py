@@ -51,7 +51,7 @@ class FlexSearchPlugin(LateTask):
                     index[post.meta('slug')] = {
                         'title': post.title(),
                         'content': post.text(strip_html=True),
-                        'url': post.permalink()
+                        'url': post.permalink(absolute=False) 
                     }
             with open(index_file_path, 'w', encoding='utf-8') as f:
                 json.dump(index, f, ensure_ascii=False)
