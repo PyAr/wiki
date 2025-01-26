@@ -583,7 +583,7 @@ small, .small {
 #search_overlay {
     position: fixed; /* Fixed position to cover the whole screen */
     width: 100%;
-    height: 100%;
+    height: calc(100vh - 40px);
     top: 0;
     left: 0;
     background: rgba(0, 0, 0, 0.8); /* Semi-transparent background */
@@ -594,12 +594,16 @@ small, .small {
 }
 
 #search_content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    justify-items: center;
+    overflow: hidden;
     background: white;
     padding: 20px;
     width: 90%;
-    max-width: 600px; /* Limit the width on larger screens */
-    max-height: 80%;
-    overflow-y: auto; /* Adds a vertical scrollbar */
+    max-width: 90%; /* Limit the width on larger screens */
+    max-height: 90%;
     border-radius: 5px;
     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
 }
@@ -607,11 +611,18 @@ small, .small {
 #search_results {
     margin-top: 20px;
     width: 100%;
+    height: fit-content;
+    flex-grow: 1;
+    flex-shrink: 1;
+    overflow: auto;
 }
 
 #search_results ul {
+    overflow-y: auto;
     list-style-type: circle; /* Ensuring list style is visible */
     padding-left: 20px; /* Adequate space for bullets */
+    /* display: grid; */
+    /* max-height: inherit; */
 }
 
 #search_results li {

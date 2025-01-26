@@ -54,12 +54,13 @@
         <div id="search_bar">
             <div id="search_overlay" style="display:none;">
                 <div id="search_content">
-                    <button onclick="closeSearch()">Cerrar</button>
+                    <input type="text" id="search_input" placeholder="Buscar 🔎">
+                    <div id="search_count"></div>
                     <div id="search_results"></div>
+                    <button id="boton_cerrar" onclick="closeSearch()">Cerrar (Esc)</button>
                 </div>
             </div>
-            <input type="text" id="search_input">
-            <button id="search_button">Buscar en la wiki</button>
+            <input type="text" id="search_input_base" placeholder="Buscar en la wiki 🔎">
         </div>
 </div>
 
