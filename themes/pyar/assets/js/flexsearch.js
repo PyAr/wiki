@@ -1,9 +1,10 @@
-document.addEventListener('DOMContentLoaded', function() {
+    document.addEventListener('DOMContentLoaded', function() {
     var searchIndex = new FlexSearch.Index();  // Initialize FlexSearch
     var index = {};  // This will store the index data globally within this script block
 
     // Fetch the generated JSON file
-    fetch('/wiki/search_index.json')
+    var indexPath = document.location.origin + "/search_index.json"
+    fetch(indexPath)
     .then(response => response.json())
     .then(data => {
         index = data;  // Store the fetched data in the 'index' variable
@@ -51,6 +52,7 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     });
 });
+
 
 // Function to close the search overlay
 function closeSearch() {
