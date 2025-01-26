@@ -1,3 +1,5 @@
+// Basado en https://plugins.getnikola.com/#flexsearch_plugin
+
 document.addEventListener('DOMContentLoaded', function() {
     var searchIndex = new FlexSearch.Index();  // Initialize FlexSearch
     var index = {};  // This will store the index data globally within this script block
