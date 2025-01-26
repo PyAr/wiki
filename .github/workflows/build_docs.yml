@@ -19,7 +19,6 @@ on:
       - themes/**
       - plugins/**
       - images/**
-      
 jobs:
   build:
 
