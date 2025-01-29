@@ -1,10 +1,8 @@
 .. title: PyCamp
 
-
 .. class:: alert alert-info
 
-..   **Atención**: Está abierta la inscripción para el `PyCamp 2018 <PyCamp/2018>`_!
-
+   **Atención**: Está abierta la inscripción para el `PyCamp 2025 <2025>`_!
 
 El PyCamp es un evento organizado por la comunidad de PyAr_, donde nos reunimos para trabajar en distintos proyectos de software libre relacionados con el lenguaje de programación Python, conocernos y compartir experiencias.
 

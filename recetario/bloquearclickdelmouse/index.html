@@ -28,7 +28,7 @@ usando Python, en Linux, ejemplo simple, requiere Privilegios elevados en el equ
 #!/usr/bin/env python
 # -*- coding: utf-">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2025-01-17T13:33:39-03:00">
+<meta property="article:published_time" content="2025-01-29T14:03:30-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
@@ -91,20 +91,20 @@ usando Python, en Linux, ejemplo simple, requiere Privilegios elevados en el equ
 <!-- note:
 
 Usar con atencion que tu GUI no requiera clicks del mouse, ten en cuenta las personas con discapacidades. -->
-<div class="code"><pre class="code python"><a id="rest_code_5997cd5020d240e18e22f4022aa59703-1" name="rest_code_5997cd5020d240e18e22f4022aa59703-1" href="#rest_code_5997cd5020d240e18e22f4022aa59703-1"></a><span class="ch">#!/usr/bin/env python</span>
-<a id="rest_code_5997cd5020d240e18e22f4022aa59703-2" name="rest_code_5997cd5020d240e18e22f4022aa59703-2" href="#rest_code_5997cd5020d240e18e22f4022aa59703-2"></a><span class="c1"># -*- coding: utf-8 -*-</span>
-<a id="rest_code_5997cd5020d240e18e22f4022aa59703-3" name="rest_code_5997cd5020d240e18e22f4022aa59703-3" href="#rest_code_5997cd5020d240e18e22f4022aa59703-3"></a><span class="kn">import</span><span class="w"> </span><span class="nn">os</span>
-<a id="rest_code_5997cd5020d240e18e22f4022aa59703-4" name="rest_code_5997cd5020d240e18e22f4022aa59703-4" href="#rest_code_5997cd5020d240e18e22f4022aa59703-4"></a><span class="kn">import</span><span class="w"> </span><span class="nn">time</span>
-<a id="rest_code_5997cd5020d240e18e22f4022aa59703-5" name="rest_code_5997cd5020d240e18e22f4022aa59703-5" href="#rest_code_5997cd5020d240e18e22f4022aa59703-5"></a><span class="c1">#</span>
-<a id="rest_code_5997cd5020d240e18e22f4022aa59703-6" name="rest_code_5997cd5020d240e18e22f4022aa59703-6" href="#rest_code_5997cd5020d240e18e22f4022aa59703-6"></a><span class="n">kb</span> <span class="o">=</span> <span class="n">file</span><span class="p">(</span><span class="s1">'/dev/console'</span><span class="p">)</span>
-<a id="rest_code_5997cd5020d240e18e22f4022aa59703-7" name="rest_code_5997cd5020d240e18e22f4022aa59703-7" href="#rest_code_5997cd5020d240e18e22f4022aa59703-7"></a><span class="k">while</span> <span class="kc">True</span><span class="p">:</span>
-<a id="rest_code_5997cd5020d240e18e22f4022aa59703-8" name="rest_code_5997cd5020d240e18e22f4022aa59703-8" href="#rest_code_5997cd5020d240e18e22f4022aa59703-8"></a>    <span class="n">os</span><span class="o">.</span><span class="n">system</span><span class="p">(</span><span class="s1">'xmodmap -e "pointer = default"'</span><span class="p">)</span> <span class="c1"># Aca lo activamos</span>
-<a id="rest_code_5997cd5020d240e18e22f4022aa59703-9" name="rest_code_5997cd5020d240e18e22f4022aa59703-9" href="#rest_code_5997cd5020d240e18e22f4022aa59703-9"></a>    <span class="n">kb</span><span class="o">.</span><span class="n">read</span><span class="p">(</span><span class="mi">3</span><span class="p">)</span>
-<a id="rest_code_5997cd5020d240e18e22f4022aa59703-10" name="rest_code_5997cd5020d240e18e22f4022aa59703-10" href="#rest_code_5997cd5020d240e18e22f4022aa59703-10"></a>    <span class="n">os</span><span class="o">.</span><span class="n">system</span><span class="p">(</span><span class="s1">'xmodmap -e "pointer = 0 2 3"'</span><span class="p">)</span> <span class="c1"># Aca lo desactivamos</span>
-<a id="rest_code_5997cd5020d240e18e22f4022aa59703-11" name="rest_code_5997cd5020d240e18e22f4022aa59703-11" href="#rest_code_5997cd5020d240e18e22f4022aa59703-11"></a>    <span class="n">time</span><span class="o">.</span><span class="n">sleep</span><span class="p">(</span><span class="mf">0.5</span><span class="p">)</span> <span class="c1"># duerme, prueba reducir este valor para mas reaccion</span>
+<div class="code"><pre class="code python"><a id="rest_code_8d855c3450c94bcc8a96e43b6136cc73-1" name="rest_code_8d855c3450c94bcc8a96e43b6136cc73-1" href="#rest_code_8d855c3450c94bcc8a96e43b6136cc73-1"></a><span class="ch">#!/usr/bin/env python</span>
+<a id="rest_code_8d855c3450c94bcc8a96e43b6136cc73-2" name="rest_code_8d855c3450c94bcc8a96e43b6136cc73-2" href="#rest_code_8d855c3450c94bcc8a96e43b6136cc73-2"></a><span class="c1"># -*- coding: utf-8 -*-</span>
+<a id="rest_code_8d855c3450c94bcc8a96e43b6136cc73-3" name="rest_code_8d855c3450c94bcc8a96e43b6136cc73-3" href="#rest_code_8d855c3450c94bcc8a96e43b6136cc73-3"></a><span class="kn">import</span><span class="w"> </span><span class="nn">os</span>
+<a id="rest_code_8d855c3450c94bcc8a96e43b6136cc73-4" name="rest_code_8d855c3450c94bcc8a96e43b6136cc73-4" href="#rest_code_8d855c3450c94bcc8a96e43b6136cc73-4"></a><span class="kn">import</span><span class="w"> </span><span class="nn">time</span>
+<a id="rest_code_8d855c3450c94bcc8a96e43b6136cc73-5" name="rest_code_8d855c3450c94bcc8a96e43b6136cc73-5" href="#rest_code_8d855c3450c94bcc8a96e43b6136cc73-5"></a><span class="c1">#</span>
+<a id="rest_code_8d855c3450c94bcc8a96e43b6136cc73-6" name="rest_code_8d855c3450c94bcc8a96e43b6136cc73-6" href="#rest_code_8d855c3450c94bcc8a96e43b6136cc73-6"></a><span class="n">kb</span> <span class="o">=</span> <span class="n">file</span><span class="p">(</span><span class="s1">'/dev/console'</span><span class="p">)</span>
+<a id="rest_code_8d855c3450c94bcc8a96e43b6136cc73-7" name="rest_code_8d855c3450c94bcc8a96e43b6136cc73-7" href="#rest_code_8d855c3450c94bcc8a96e43b6136cc73-7"></a><span class="k">while</span> <span class="kc">True</span><span class="p">:</span>
+<a id="rest_code_8d855c3450c94bcc8a96e43b6136cc73-8" name="rest_code_8d855c3450c94bcc8a96e43b6136cc73-8" href="#rest_code_8d855c3450c94bcc8a96e43b6136cc73-8"></a>    <span class="n">os</span><span class="o">.</span><span class="n">system</span><span class="p">(</span><span class="s1">'xmodmap -e "pointer = default"'</span><span class="p">)</span> <span class="c1"># Aca lo activamos</span>
+<a id="rest_code_8d855c3450c94bcc8a96e43b6136cc73-9" name="rest_code_8d855c3450c94bcc8a96e43b6136cc73-9" href="#rest_code_8d855c3450c94bcc8a96e43b6136cc73-9"></a>    <span class="n">kb</span><span class="o">.</span><span class="n">read</span><span class="p">(</span><span class="mi">3</span><span class="p">)</span>
+<a id="rest_code_8d855c3450c94bcc8a96e43b6136cc73-10" name="rest_code_8d855c3450c94bcc8a96e43b6136cc73-10" href="#rest_code_8d855c3450c94bcc8a96e43b6136cc73-10"></a>    <span class="n">os</span><span class="o">.</span><span class="n">system</span><span class="p">(</span><span class="s1">'xmodmap -e "pointer = 0 2 3"'</span><span class="p">)</span> <span class="c1"># Aca lo desactivamos</span>
+<a id="rest_code_8d855c3450c94bcc8a96e43b6136cc73-11" name="rest_code_8d855c3450c94bcc8a96e43b6136cc73-11" href="#rest_code_8d855c3450c94bcc8a96e43b6136cc73-11"></a>    <span class="n">time</span><span class="o">.</span><span class="n">sleep</span><span class="p">(</span><span class="mf">0.5</span><span class="p">)</span> <span class="c1"># duerme, prueba reducir este valor para mas reaccion</span>
 </pre></div>
 <section id="ejemplo"><h2>Ejemplo:</h2>
-<div class="code"><pre class="code console"><a id="rest_code_a6782e6fe43e424f846dfdca5cd42dfb-1" name="rest_code_a6782e6fe43e424f846dfdca5cd42dfb-1" href="#rest_code_a6782e6fe43e424f846dfdca5cd42dfb-1"></a><span class="go">sudo /usr/bin/env python blockclick.py</span>
+<div class="code"><pre class="code console"><a id="rest_code_8a779e01c07c4fd0853c141ec885a3b7-1" name="rest_code_8a779e01c07c4fd0853c141ec885a3b7-1" href="#rest_code_8a779e01c07c4fd0853c141ec885a3b7-1"></a><span class="go">sudo /usr/bin/env python blockclick.py</span>
 </pre></div>
 <aside class="admonition note"><p class="admonition-title">Nota</p>
 <p>Disclaimer: el uso o no de SheBang/Declaracion de Encoding queda a criterio del usuario.</p>
