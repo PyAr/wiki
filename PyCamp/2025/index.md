@@ -67,6 +67,8 @@ Como ya fuimos a este lugar, podés ver las [fotos de la edición anterior](http
 
    * 150 km de Capital Federal 
 
+   * 350 km de Paraná 
+
    * 384000 km de la luna
 
 **Formas de llegar:**

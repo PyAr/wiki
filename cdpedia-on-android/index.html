@@ -25,7 +25,7 @@ og: http://ogp.me/ns# article: http://ogp.me/ns/article#
 <meta property="og:description" content="Cdpedia-on-android es una aplicación android que permite correr la Cdpedia en este sistema operativo.
 Para que funcione correctamente es necesario tener descomprimido (no soporta el archivo .iso) algu">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2025-01-29T14:03:30-03:00">
+<meta property="article:published_time" content="2025-03-14T17:10:11-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
@@ -85,10 +85,10 @@ Para que funcione correctamente es necesario tener descomprimido (no soporta el 
     <div class="e-content entry-content" itemprop="articleBody text">
     <p>Cdpedia-on-android es una aplicación android que permite correr la Cdpedia en este sistema operativo.</p>
 <p>Para que funcione correctamente es necesario tener descomprimido (no soporta el archivo .iso) alguno de los releases de la cdpedia en la carpeta /mnt/sdcard/cdpedia. A continuación una mini receta:</p>
-<div class="code"><pre class="code console"><a id="rest_code_8f8eed4f3c41483fb6dcb3411a5d1f2a-1" name="rest_code_8f8eed4f3c41483fb6dcb3411a5d1f2a-1" href="#rest_code_8f8eed4f3c41483fb6dcb3411a5d1f2a-1"></a><span class="go">mount -t iso9660 -o loop cdpedia-0.8-cd.iso /mnt</span>
-<a id="rest_code_8f8eed4f3c41483fb6dcb3411a5d1f2a-2" name="rest_code_8f8eed4f3c41483fb6dcb3411a5d1f2a-2" href="#rest_code_8f8eed4f3c41483fb6dcb3411a5d1f2a-2"></a><span class="go">cp -R /mnt/cdpedia /media/android_sdcard</span>
-<a id="rest_code_8f8eed4f3c41483fb6dcb3411a5d1f2a-3" name="rest_code_8f8eed4f3c41483fb6dcb3411a5d1f2a-3" href="#rest_code_8f8eed4f3c41483fb6dcb3411a5d1f2a-3"></a><span class="go">sync</span>
-<a id="rest_code_8f8eed4f3c41483fb6dcb3411a5d1f2a-4" name="rest_code_8f8eed4f3c41483fb6dcb3411a5d1f2a-4" href="#rest_code_8f8eed4f3c41483fb6dcb3411a5d1f2a-4"></a><span class="go">umount /mnt</span>
+<div class="code"><pre class="code console"><a id="rest_code_7b01a2abc1214139bb03296f4a431ac3-1" name="rest_code_7b01a2abc1214139bb03296f4a431ac3-1" href="#rest_code_7b01a2abc1214139bb03296f4a431ac3-1"></a><span class="go">mount -t iso9660 -o loop cdpedia-0.8-cd.iso /mnt</span>
+<a id="rest_code_7b01a2abc1214139bb03296f4a431ac3-2" name="rest_code_7b01a2abc1214139bb03296f4a431ac3-2" href="#rest_code_7b01a2abc1214139bb03296f4a431ac3-2"></a><span class="go">cp -R /mnt/cdpedia /media/android_sdcard</span>
+<a id="rest_code_7b01a2abc1214139bb03296f4a431ac3-3" name="rest_code_7b01a2abc1214139bb03296f4a431ac3-3" href="#rest_code_7b01a2abc1214139bb03296f4a431ac3-3"></a><span class="go">sync</span>
+<a id="rest_code_7b01a2abc1214139bb03296f4a431ac3-4" name="rest_code_7b01a2abc1214139bb03296f4a431ac3-4" href="#rest_code_7b01a2abc1214139bb03296f4a431ac3-4"></a><span class="go">umount /mnt</span>
 </pre></div>
 <p>Si querés probar la primera versión de la aplicación para android, podés descargarte el .apk desde
 <a class="reference external" href="http://cdpedia.python.org.ar/CDPedia-release.apk">acá</a>.</p>
