@@ -27,6 +27,9 @@ from nikola import utils
 
 
 class FlexSearchPlugin(LateTask):
+    '''iterea sobre todos los post
+    saca el titulo y el contenido del tituo y el url
+    '''
     name = "flexsearch_plugin"
 
     def set_site(self, site):

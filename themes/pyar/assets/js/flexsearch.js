@@ -1,8 +1,11 @@
 // Basado en https://plugins.getnikola.com/#flexsearch_plugin
 
 document.addEventListener('DOMContentLoaded', function() {
-    var searchIndex = new FlexSearch.Index();  // Initialize FlexSearch
-    var index = {};  // This will store the index data globally within this script block
+    var searchIndex = new FlexSearch.Index({ 
+        tokenize: "full",
+        async: true,
+    });  // Initialize FlexSearch
+    var index = {};
 
     // Fetch the generated JSON file
     const basePath = "" //document.location.hostname == "localhost" ? "": "/wiki" //Parche para probar en las GHP de mi fork ak.saxa.xyz/wiki
@@ -60,13 +63,6 @@ document.addEventListener('DOMContentLoaded', function() {
     // Event listener for each change in the input field 
     input.addEventListener('input', performSearch);
 
-// Function to close the search overlay
-    function closeSearch() {
-        document.getElementById('search_overlay').style.display = 'none';
-        document.getElementById('search_input_base').disabled = false;
-        document.getElementById('search_input').value === ""
-    }
-
     document.addEventListener('keydown', function(event) {
         if (event.key === 'Escape') {
             var searchOverlay = document.getElementById('search_overlay');
@@ -76,5 +72,12 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     });
 });
+
+// Function to close the search overlay
+function closeSearch() {
+    document.getElementById('search_overlay').style.display = 'none';
+    document.getElementById('search_input_base').disabled = false;
+    document.getElementById('search_input').value === ""
+};
 
 

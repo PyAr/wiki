@@ -112,6 +112,12 @@ iframe#google {
 	padding-top:0;
 }
 
+#boton_cerrar {
+    border-style: groove;
+    border-width: thin;
+    width: fit-content;
+    align-self: self-end;
+}
 
 /*
  * Panels
