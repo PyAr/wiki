@@ -33,7 +33,7 @@ window.set_default_size(640, 480)
 
 scroll = gtk.Scrol'>
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2025-03-14T17:10:11-03:00">
+<meta property="article:published_time" content="2025-03-22T12:24:52-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
@@ -75,7 +75,17 @@ scroll = gtk.Scrol'>
                 </li>                
             </ul>
 </div>
-    </nav>
+
+    </nav><div id="search_bar">
+            <div id="search_overlay" style="display:none;">
+                <div id="search_content">
+                    <input type="text" id="search_input" placeholder="Buscar 🔎"><div id="search_count"></div>
+                    <div id="search_results"></div>
+                    <button id="boton_cerrar" onclick="closeSearch()">Cerrar (Esc)</button>
+                </div>
+            </div>
+            <input type="text" id="search_input_base" placeholder="Buscar en la wiki 🔎">
+</div>
 </div>
 
 <!-- Header and menu bar -->
@@ -92,27 +102,27 @@ scroll = gtk.Scrol'>
     </div>
     <div class="e-content entry-content" itemprop="articleBody text">
     <p>Un ejemplo sobre cómo hacer una terminal visual al estilo gnome-terminal</p>
-<img alt="/images/Recetario/Gui/Gtk/EmuladorTerminal/pyshell.png" src="../../../../images/Recetario/Gui/Gtk/EmuladorTerminal/pyshell.png"><div class="code"><pre class="code python"><a id="rest_code_52adc5ebe3c844239d30ca42b6f2d323-1" name="rest_code_52adc5ebe3c844239d30ca42b6f2d323-1" href="#rest_code_52adc5ebe3c844239d30ca42b6f2d323-1"></a><span class="kn">import</span><span class="w"> </span><span class="nn">gtk</span>
-<a id="rest_code_52adc5ebe3c844239d30ca42b6f2d323-2" name="rest_code_52adc5ebe3c844239d30ca42b6f2d323-2" href="#rest_code_52adc5ebe3c844239d30ca42b6f2d323-2"></a><span class="kn">import</span><span class="w"> </span><span class="nn">vte</span>
-<a id="rest_code_52adc5ebe3c844239d30ca42b6f2d323-3" name="rest_code_52adc5ebe3c844239d30ca42b6f2d323-3" href="#rest_code_52adc5ebe3c844239d30ca42b6f2d323-3"></a>
-<a id="rest_code_52adc5ebe3c844239d30ca42b6f2d323-4" name="rest_code_52adc5ebe3c844239d30ca42b6f2d323-4" href="#rest_code_52adc5ebe3c844239d30ca42b6f2d323-4"></a><span class="n">window</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">Window</span><span class="p">()</span>
-<a id="rest_code_52adc5ebe3c844239d30ca42b6f2d323-5" name="rest_code_52adc5ebe3c844239d30ca42b6f2d323-5" href="#rest_code_52adc5ebe3c844239d30ca42b6f2d323-5"></a><span class="n">window</span><span class="o">.</span><span class="n">set_title</span><span class="p">(</span><span class="s2">"pyshell"</span><span class="p">)</span>
-<a id="rest_code_52adc5ebe3c844239d30ca42b6f2d323-6" name="rest_code_52adc5ebe3c844239d30ca42b6f2d323-6" href="#rest_code_52adc5ebe3c844239d30ca42b6f2d323-6"></a><span class="n">window</span><span class="o">.</span><span class="n">set_default_size</span><span class="p">(</span><span class="mi">640</span><span class="p">,</span> <span class="mi">480</span><span class="p">)</span>
-<a id="rest_code_52adc5ebe3c844239d30ca42b6f2d323-7" name="rest_code_52adc5ebe3c844239d30ca42b6f2d323-7" href="#rest_code_52adc5ebe3c844239d30ca42b6f2d323-7"></a>
-<a id="rest_code_52adc5ebe3c844239d30ca42b6f2d323-8" name="rest_code_52adc5ebe3c844239d30ca42b6f2d323-8" href="#rest_code_52adc5ebe3c844239d30ca42b6f2d323-8"></a><span class="n">scroll</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">ScrolledWindow</span><span class="p">()</span>
-<a id="rest_code_52adc5ebe3c844239d30ca42b6f2d323-9" name="rest_code_52adc5ebe3c844239d30ca42b6f2d323-9" href="#rest_code_52adc5ebe3c844239d30ca42b6f2d323-9"></a>
-<a id="rest_code_52adc5ebe3c844239d30ca42b6f2d323-10" name="rest_code_52adc5ebe3c844239d30ca42b6f2d323-10" href="#rest_code_52adc5ebe3c844239d30ca42b6f2d323-10"></a><span class="n">shell</span> <span class="o">=</span> <span class="n">vte</span><span class="o">.</span><span class="n">Terminal</span><span class="p">()</span>
-<a id="rest_code_52adc5ebe3c844239d30ca42b6f2d323-11" name="rest_code_52adc5ebe3c844239d30ca42b6f2d323-11" href="#rest_code_52adc5ebe3c844239d30ca42b6f2d323-11"></a><span class="n">shell</span><span class="o">.</span><span class="n">connect</span><span class="p">(</span><span class="s2">"child-exited"</span><span class="p">,</span> <span class="n">gtk</span><span class="o">.</span><span class="n">main_quit</span><span class="p">)</span>
-<a id="rest_code_52adc5ebe3c844239d30ca42b6f2d323-12" name="rest_code_52adc5ebe3c844239d30ca42b6f2d323-12" href="#rest_code_52adc5ebe3c844239d30ca42b6f2d323-12"></a><span class="n">shell</span><span class="o">.</span><span class="n">fork_command</span><span class="p">()</span>
-<a id="rest_code_52adc5ebe3c844239d30ca42b6f2d323-13" name="rest_code_52adc5ebe3c844239d30ca42b6f2d323-13" href="#rest_code_52adc5ebe3c844239d30ca42b6f2d323-13"></a>
-<a id="rest_code_52adc5ebe3c844239d30ca42b6f2d323-14" name="rest_code_52adc5ebe3c844239d30ca42b6f2d323-14" href="#rest_code_52adc5ebe3c844239d30ca42b6f2d323-14"></a><span class="n">scroll</span><span class="o">.</span><span class="n">add</span><span class="p">(</span><span class="n">shell</span><span class="p">)</span>
-<a id="rest_code_52adc5ebe3c844239d30ca42b6f2d323-15" name="rest_code_52adc5ebe3c844239d30ca42b6f2d323-15" href="#rest_code_52adc5ebe3c844239d30ca42b6f2d323-15"></a>
-<a id="rest_code_52adc5ebe3c844239d30ca42b6f2d323-16" name="rest_code_52adc5ebe3c844239d30ca42b6f2d323-16" href="#rest_code_52adc5ebe3c844239d30ca42b6f2d323-16"></a><span class="n">window</span><span class="o">.</span><span class="n">add</span><span class="p">(</span><span class="n">scroll</span><span class="p">)</span>
-<a id="rest_code_52adc5ebe3c844239d30ca42b6f2d323-17" name="rest_code_52adc5ebe3c844239d30ca42b6f2d323-17" href="#rest_code_52adc5ebe3c844239d30ca42b6f2d323-17"></a>
-<a id="rest_code_52adc5ebe3c844239d30ca42b6f2d323-18" name="rest_code_52adc5ebe3c844239d30ca42b6f2d323-18" href="#rest_code_52adc5ebe3c844239d30ca42b6f2d323-18"></a><span class="n">window</span><span class="o">.</span><span class="n">connect</span><span class="p">(</span><span class="s1">'delete-event'</span><span class="p">,</span> <span class="n">gtk</span><span class="o">.</span><span class="n">main_quit</span><span class="p">)</span>
-<a id="rest_code_52adc5ebe3c844239d30ca42b6f2d323-19" name="rest_code_52adc5ebe3c844239d30ca42b6f2d323-19" href="#rest_code_52adc5ebe3c844239d30ca42b6f2d323-19"></a><span class="n">window</span><span class="o">.</span><span class="n">show_all</span><span class="p">()</span>
-<a id="rest_code_52adc5ebe3c844239d30ca42b6f2d323-20" name="rest_code_52adc5ebe3c844239d30ca42b6f2d323-20" href="#rest_code_52adc5ebe3c844239d30ca42b6f2d323-20"></a>
-<a id="rest_code_52adc5ebe3c844239d30ca42b6f2d323-21" name="rest_code_52adc5ebe3c844239d30ca42b6f2d323-21" href="#rest_code_52adc5ebe3c844239d30ca42b6f2d323-21"></a><span class="n">gtk</span><span class="o">.</span><span class="n">main</span><span class="p">()</span>
+<img alt="/images/Recetario/Gui/Gtk/EmuladorTerminal/pyshell.png" src="../../../../images/Recetario/Gui/Gtk/EmuladorTerminal/pyshell.png"><div class="code"><pre class="code python"><a id="rest_code_84ec0098963e4bccbb962ee09da8576a-1" name="rest_code_84ec0098963e4bccbb962ee09da8576a-1" href="#rest_code_84ec0098963e4bccbb962ee09da8576a-1"></a><span class="kn">import</span><span class="w"> </span><span class="nn">gtk</span>
+<a id="rest_code_84ec0098963e4bccbb962ee09da8576a-2" name="rest_code_84ec0098963e4bccbb962ee09da8576a-2" href="#rest_code_84ec0098963e4bccbb962ee09da8576a-2"></a><span class="kn">import</span><span class="w"> </span><span class="nn">vte</span>
+<a id="rest_code_84ec0098963e4bccbb962ee09da8576a-3" name="rest_code_84ec0098963e4bccbb962ee09da8576a-3" href="#rest_code_84ec0098963e4bccbb962ee09da8576a-3"></a>
+<a id="rest_code_84ec0098963e4bccbb962ee09da8576a-4" name="rest_code_84ec0098963e4bccbb962ee09da8576a-4" href="#rest_code_84ec0098963e4bccbb962ee09da8576a-4"></a><span class="n">window</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">Window</span><span class="p">()</span>
+<a id="rest_code_84ec0098963e4bccbb962ee09da8576a-5" name="rest_code_84ec0098963e4bccbb962ee09da8576a-5" href="#rest_code_84ec0098963e4bccbb962ee09da8576a-5"></a><span class="n">window</span><span class="o">.</span><span class="n">set_title</span><span class="p">(</span><span class="s2">"pyshell"</span><span class="p">)</span>
+<a id="rest_code_84ec0098963e4bccbb962ee09da8576a-6" name="rest_code_84ec0098963e4bccbb962ee09da8576a-6" href="#rest_code_84ec0098963e4bccbb962ee09da8576a-6"></a><span class="n">window</span><span class="o">.</span><span class="n">set_default_size</span><span class="p">(</span><span class="mi">640</span><span class="p">,</span> <span class="mi">480</span><span class="p">)</span>
+<a id="rest_code_84ec0098963e4bccbb962ee09da8576a-7" name="rest_code_84ec0098963e4bccbb962ee09da8576a-7" href="#rest_code_84ec0098963e4bccbb962ee09da8576a-7"></a>
+<a id="rest_code_84ec0098963e4bccbb962ee09da8576a-8" name="rest_code_84ec0098963e4bccbb962ee09da8576a-8" href="#rest_code_84ec0098963e4bccbb962ee09da8576a-8"></a><span class="n">scroll</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">ScrolledWindow</span><span class="p">()</span>
+<a id="rest_code_84ec0098963e4bccbb962ee09da8576a-9" name="rest_code_84ec0098963e4bccbb962ee09da8576a-9" href="#rest_code_84ec0098963e4bccbb962ee09da8576a-9"></a>
+<a id="rest_code_84ec0098963e4bccbb962ee09da8576a-10" name="rest_code_84ec0098963e4bccbb962ee09da8576a-10" href="#rest_code_84ec0098963e4bccbb962ee09da8576a-10"></a><span class="n">shell</span> <span class="o">=</span> <span class="n">vte</span><span class="o">.</span><span class="n">Terminal</span><span class="p">()</span>
+<a id="rest_code_84ec0098963e4bccbb962ee09da8576a-11" name="rest_code_84ec0098963e4bccbb962ee09da8576a-11" href="#rest_code_84ec0098963e4bccbb962ee09da8576a-11"></a><span class="n">shell</span><span class="o">.</span><span class="n">connect</span><span class="p">(</span><span class="s2">"child-exited"</span><span class="p">,</span> <span class="n">gtk</span><span class="o">.</span><span class="n">main_quit</span><span class="p">)</span>
+<a id="rest_code_84ec0098963e4bccbb962ee09da8576a-12" name="rest_code_84ec0098963e4bccbb962ee09da8576a-12" href="#rest_code_84ec0098963e4bccbb962ee09da8576a-12"></a><span class="n">shell</span><span class="o">.</span><span class="n">fork_command</span><span class="p">()</span>
+<a id="rest_code_84ec0098963e4bccbb962ee09da8576a-13" name="rest_code_84ec0098963e4bccbb962ee09da8576a-13" href="#rest_code_84ec0098963e4bccbb962ee09da8576a-13"></a>
+<a id="rest_code_84ec0098963e4bccbb962ee09da8576a-14" name="rest_code_84ec0098963e4bccbb962ee09da8576a-14" href="#rest_code_84ec0098963e4bccbb962ee09da8576a-14"></a><span class="n">scroll</span><span class="o">.</span><span class="n">add</span><span class="p">(</span><span class="n">shell</span><span class="p">)</span>
+<a id="rest_code_84ec0098963e4bccbb962ee09da8576a-15" name="rest_code_84ec0098963e4bccbb962ee09da8576a-15" href="#rest_code_84ec0098963e4bccbb962ee09da8576a-15"></a>
+<a id="rest_code_84ec0098963e4bccbb962ee09da8576a-16" name="rest_code_84ec0098963e4bccbb962ee09da8576a-16" href="#rest_code_84ec0098963e4bccbb962ee09da8576a-16"></a><span class="n">window</span><span class="o">.</span><span class="n">add</span><span class="p">(</span><span class="n">scroll</span><span class="p">)</span>
+<a id="rest_code_84ec0098963e4bccbb962ee09da8576a-17" name="rest_code_84ec0098963e4bccbb962ee09da8576a-17" href="#rest_code_84ec0098963e4bccbb962ee09da8576a-17"></a>
+<a id="rest_code_84ec0098963e4bccbb962ee09da8576a-18" name="rest_code_84ec0098963e4bccbb962ee09da8576a-18" href="#rest_code_84ec0098963e4bccbb962ee09da8576a-18"></a><span class="n">window</span><span class="o">.</span><span class="n">connect</span><span class="p">(</span><span class="s1">'delete-event'</span><span class="p">,</span> <span class="n">gtk</span><span class="o">.</span><span class="n">main_quit</span><span class="p">)</span>
+<a id="rest_code_84ec0098963e4bccbb962ee09da8576a-19" name="rest_code_84ec0098963e4bccbb962ee09da8576a-19" href="#rest_code_84ec0098963e4bccbb962ee09da8576a-19"></a><span class="n">window</span><span class="o">.</span><span class="n">show_all</span><span class="p">()</span>
+<a id="rest_code_84ec0098963e4bccbb962ee09da8576a-20" name="rest_code_84ec0098963e4bccbb962ee09da8576a-20" href="#rest_code_84ec0098963e4bccbb962ee09da8576a-20"></a>
+<a id="rest_code_84ec0098963e4bccbb962ee09da8576a-21" name="rest_code_84ec0098963e4bccbb962ee09da8576a-21" href="#rest_code_84ec0098963e4bccbb962ee09da8576a-21"></a><span class="n">gtk</span><span class="o">.</span><span class="n">main</span><span class="p">()</span>
 </pre></div>
     </div>    
 </div>
@@ -130,6 +140,6 @@ scroll = gtk.Scrol'>
         captions: function(element) {
             return element.getElementsByTagName('img')[0].alt;
     }});
-    </script>
+    </script><script src="https://cdn.jsdelivr.net/gh/nextapps-de/flexsearch@0.8.0/dist/flexsearch.bundle.min.js"></script><script src="../../../../assets/js/flexsearch.js"></script>
 </body>
 </html>

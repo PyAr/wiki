@@ -25,7 +25,7 @@ og: http://ogp.me/ns# article: http://ogp.me/ns/article#
 <meta property="og:description" content='Esta receta muestra una forma de listar procesos en Python que soporta múltiples sistemas operativos
 En el ejemplo se muestra cómo listar información sobre los procesos corriendo bajo el usuario "root'>
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2025-03-14T17:10:11-03:00">
+<meta property="article:published_time" content="2025-03-22T12:24:52-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
@@ -67,7 +67,17 @@ En el ejemplo se muestra cómo listar información sobre los procesos corriendo 
                 </li>                
             </ul>
 </div>
-    </nav>
+
+    </nav><div id="search_bar">
+            <div id="search_overlay" style="display:none;">
+                <div id="search_content">
+                    <input type="text" id="search_input" placeholder="Buscar 🔎"><div id="search_count"></div>
+                    <div id="search_results"></div>
+                    <button id="boton_cerrar" onclick="closeSearch()">Cerrar (Esc)</button>
+                </div>
+            </div>
+            <input type="text" id="search_input_base" placeholder="Buscar en la wiki 🔎">
+</div>
 </div>
 
 <!-- Header and menu bar -->
@@ -86,23 +96,23 @@ En el ejemplo se muestra cómo listar información sobre los procesos corriendo 
     <p>Esta receta muestra una forma de listar procesos en Python que soporta múltiples sistemas operativos</p>
 <p>En el ejemplo se muestra cómo listar información sobre los procesos corriendo bajo el usuario "root"</p>
 <p>Hace falta instalar la libreria <a class="reference external" href="http://code.google.com/p/psutil/">psutil</a>, disponible en <a class="reference external" href="http://code.google.com/p/psutil/">aqui</a>. Hay paquetes para <a class="reference external" href="http://packages.debian.org/python-psutil">Debian</a> y <a class="reference external" href="http://packages.ubuntu.com/python-psutil">Ubuntu</a>, python-psutil.</p>
-<div class="code"><pre class="code python"><a id="rest_code_41dcc42881c54c6fb6291b6573444e10-1" name="rest_code_41dcc42881c54c6fb6291b6573444e10-1" href="#rest_code_41dcc42881c54c6fb6291b6573444e10-1"></a><span class="kn">import</span><span class="w"> </span><span class="nn">psutil</span>
-<a id="rest_code_41dcc42881c54c6fb6291b6573444e10-2" name="rest_code_41dcc42881c54c6fb6291b6573444e10-2" href="#rest_code_41dcc42881c54c6fb6291b6573444e10-2"></a>
-<a id="rest_code_41dcc42881c54c6fb6291b6573444e10-3" name="rest_code_41dcc42881c54c6fb6291b6573444e10-3" href="#rest_code_41dcc42881c54c6fb6291b6573444e10-3"></a><span class="k">for</span> <span class="n">pid</span> <span class="ow">in</span> <span class="n">psutil</span><span class="o">.</span><span class="n">get_pid_list</span><span class="p">():</span>
-<a id="rest_code_41dcc42881c54c6fb6291b6573444e10-4" name="rest_code_41dcc42881c54c6fb6291b6573444e10-4" href="#rest_code_41dcc42881c54c6fb6291b6573444e10-4"></a>    <span class="n">proc</span> <span class="o">=</span> <span class="n">psutil</span><span class="o">.</span><span class="n">Process</span><span class="p">(</span><span class="n">pid</span><span class="p">)</span>
-<a id="rest_code_41dcc42881c54c6fb6291b6573444e10-5" name="rest_code_41dcc42881c54c6fb6291b6573444e10-5" href="#rest_code_41dcc42881c54c6fb6291b6573444e10-5"></a>
-<a id="rest_code_41dcc42881c54c6fb6291b6573444e10-6" name="rest_code_41dcc42881c54c6fb6291b6573444e10-6" href="#rest_code_41dcc42881c54c6fb6291b6573444e10-6"></a>    <span class="k">if</span> <span class="n">proc</span><span class="o">.</span><span class="n">username</span> <span class="o">!=</span> <span class="s2">"root"</span><span class="p">:</span>
-<a id="rest_code_41dcc42881c54c6fb6291b6573444e10-7" name="rest_code_41dcc42881c54c6fb6291b6573444e10-7" href="#rest_code_41dcc42881c54c6fb6291b6573444e10-7"></a>        <span class="k">continue</span>
-<a id="rest_code_41dcc42881c54c6fb6291b6573444e10-8" name="rest_code_41dcc42881c54c6fb6291b6573444e10-8" href="#rest_code_41dcc42881c54c6fb6291b6573444e10-8"></a>
-<a id="rest_code_41dcc42881c54c6fb6291b6573444e10-9" name="rest_code_41dcc42881c54c6fb6291b6573444e10-9" href="#rest_code_41dcc42881c54c6fb6291b6573444e10-9"></a>    <span class="nb">print</span> <span class="n">proc</span><span class="o">.</span><span class="n">name</span><span class="p">,</span> <span class="n">proc</span><span class="o">.</span><span class="n">cmdline</span><span class="p">,</span> <span class="n">proc</span><span class="o">.</span><span class="n">pid</span>
+<div class="code"><pre class="code python"><a id="rest_code_f9dfa9e1d21348fca414001f6b05a52b-1" name="rest_code_f9dfa9e1d21348fca414001f6b05a52b-1" href="#rest_code_f9dfa9e1d21348fca414001f6b05a52b-1"></a><span class="kn">import</span><span class="w"> </span><span class="nn">psutil</span>
+<a id="rest_code_f9dfa9e1d21348fca414001f6b05a52b-2" name="rest_code_f9dfa9e1d21348fca414001f6b05a52b-2" href="#rest_code_f9dfa9e1d21348fca414001f6b05a52b-2"></a>
+<a id="rest_code_f9dfa9e1d21348fca414001f6b05a52b-3" name="rest_code_f9dfa9e1d21348fca414001f6b05a52b-3" href="#rest_code_f9dfa9e1d21348fca414001f6b05a52b-3"></a><span class="k">for</span> <span class="n">pid</span> <span class="ow">in</span> <span class="n">psutil</span><span class="o">.</span><span class="n">get_pid_list</span><span class="p">():</span>
+<a id="rest_code_f9dfa9e1d21348fca414001f6b05a52b-4" name="rest_code_f9dfa9e1d21348fca414001f6b05a52b-4" href="#rest_code_f9dfa9e1d21348fca414001f6b05a52b-4"></a>    <span class="n">proc</span> <span class="o">=</span> <span class="n">psutil</span><span class="o">.</span><span class="n">Process</span><span class="p">(</span><span class="n">pid</span><span class="p">)</span>
+<a id="rest_code_f9dfa9e1d21348fca414001f6b05a52b-5" name="rest_code_f9dfa9e1d21348fca414001f6b05a52b-5" href="#rest_code_f9dfa9e1d21348fca414001f6b05a52b-5"></a>
+<a id="rest_code_f9dfa9e1d21348fca414001f6b05a52b-6" name="rest_code_f9dfa9e1d21348fca414001f6b05a52b-6" href="#rest_code_f9dfa9e1d21348fca414001f6b05a52b-6"></a>    <span class="k">if</span> <span class="n">proc</span><span class="o">.</span><span class="n">username</span> <span class="o">!=</span> <span class="s2">"root"</span><span class="p">:</span>
+<a id="rest_code_f9dfa9e1d21348fca414001f6b05a52b-7" name="rest_code_f9dfa9e1d21348fca414001f6b05a52b-7" href="#rest_code_f9dfa9e1d21348fca414001f6b05a52b-7"></a>        <span class="k">continue</span>
+<a id="rest_code_f9dfa9e1d21348fca414001f6b05a52b-8" name="rest_code_f9dfa9e1d21348fca414001f6b05a52b-8" href="#rest_code_f9dfa9e1d21348fca414001f6b05a52b-8"></a>
+<a id="rest_code_f9dfa9e1d21348fca414001f6b05a52b-9" name="rest_code_f9dfa9e1d21348fca414001f6b05a52b-9" href="#rest_code_f9dfa9e1d21348fca414001f6b05a52b-9"></a>    <span class="nb">print</span> <span class="n">proc</span><span class="o">.</span><span class="n">name</span><span class="p">,</span> <span class="n">proc</span><span class="o">.</span><span class="n">cmdline</span><span class="p">,</span> <span class="n">proc</span><span class="o">.</span><span class="n">pid</span>
 </pre></div>
 <p>En la versión 0.3 de psutil el Ejemplo puede quedar como:</p>
-<div class="code"><pre class="code python"><a id="rest_code_fccb1855c0d642868c8b906bf1d24ce2-1" name="rest_code_fccb1855c0d642868c8b906bf1d24ce2-1" href="#rest_code_fccb1855c0d642868c8b906bf1d24ce2-1"></a><span class="kn">import</span><span class="w"> </span><span class="nn">psutil</span>
-<a id="rest_code_fccb1855c0d642868c8b906bf1d24ce2-2" name="rest_code_fccb1855c0d642868c8b906bf1d24ce2-2" href="#rest_code_fccb1855c0d642868c8b906bf1d24ce2-2"></a>
-<a id="rest_code_fccb1855c0d642868c8b906bf1d24ce2-3" name="rest_code_fccb1855c0d642868c8b906bf1d24ce2-3" href="#rest_code_fccb1855c0d642868c8b906bf1d24ce2-3"></a><span class="k">for</span> <span class="n">proc</span> <span class="ow">in</span> <span class="n">psutil</span><span class="o">.</span><span class="n">get_process_list</span><span class="p">():</span>
-<a id="rest_code_fccb1855c0d642868c8b906bf1d24ce2-4" name="rest_code_fccb1855c0d642868c8b906bf1d24ce2-4" href="#rest_code_fccb1855c0d642868c8b906bf1d24ce2-4"></a>    <span class="k">if</span> <span class="n">proc</span><span class="o">.</span><span class="n">username</span> <span class="o">!=</span> <span class="s2">"root"</span><span class="p">:</span>
-<a id="rest_code_fccb1855c0d642868c8b906bf1d24ce2-5" name="rest_code_fccb1855c0d642868c8b906bf1d24ce2-5" href="#rest_code_fccb1855c0d642868c8b906bf1d24ce2-5"></a>        <span class="k">continue</span>
-<a id="rest_code_fccb1855c0d642868c8b906bf1d24ce2-6" name="rest_code_fccb1855c0d642868c8b906bf1d24ce2-6" href="#rest_code_fccb1855c0d642868c8b906bf1d24ce2-6"></a>    <span class="nb">print</span> <span class="n">proc</span><span class="o">.</span><span class="n">name</span><span class="p">,</span> <span class="n">proc</span><span class="o">.</span><span class="n">cmdline</span><span class="p">,</span> <span class="n">proc</span><span class="o">.</span><span class="n">pid</span>
+<div class="code"><pre class="code python"><a id="rest_code_7e8fe2320326408e8703a05ed6f68629-1" name="rest_code_7e8fe2320326408e8703a05ed6f68629-1" href="#rest_code_7e8fe2320326408e8703a05ed6f68629-1"></a><span class="kn">import</span><span class="w"> </span><span class="nn">psutil</span>
+<a id="rest_code_7e8fe2320326408e8703a05ed6f68629-2" name="rest_code_7e8fe2320326408e8703a05ed6f68629-2" href="#rest_code_7e8fe2320326408e8703a05ed6f68629-2"></a>
+<a id="rest_code_7e8fe2320326408e8703a05ed6f68629-3" name="rest_code_7e8fe2320326408e8703a05ed6f68629-3" href="#rest_code_7e8fe2320326408e8703a05ed6f68629-3"></a><span class="k">for</span> <span class="n">proc</span> <span class="ow">in</span> <span class="n">psutil</span><span class="o">.</span><span class="n">get_process_list</span><span class="p">():</span>
+<a id="rest_code_7e8fe2320326408e8703a05ed6f68629-4" name="rest_code_7e8fe2320326408e8703a05ed6f68629-4" href="#rest_code_7e8fe2320326408e8703a05ed6f68629-4"></a>    <span class="k">if</span> <span class="n">proc</span><span class="o">.</span><span class="n">username</span> <span class="o">!=</span> <span class="s2">"root"</span><span class="p">:</span>
+<a id="rest_code_7e8fe2320326408e8703a05ed6f68629-5" name="rest_code_7e8fe2320326408e8703a05ed6f68629-5" href="#rest_code_7e8fe2320326408e8703a05ed6f68629-5"></a>        <span class="k">continue</span>
+<a id="rest_code_7e8fe2320326408e8703a05ed6f68629-6" name="rest_code_7e8fe2320326408e8703a05ed6f68629-6" href="#rest_code_7e8fe2320326408e8703a05ed6f68629-6"></a>    <span class="nb">print</span> <span class="n">proc</span><span class="o">.</span><span class="n">name</span><span class="p">,</span> <span class="n">proc</span><span class="o">.</span><span class="n">cmdline</span><span class="p">,</span> <span class="n">proc</span><span class="o">.</span><span class="n">pid</span>
 </pre></div>
 <!-- ############################################################################ -->
     </div>    
@@ -121,6 +131,6 @@ En el ejemplo se muestra cómo listar información sobre los procesos corriendo 
         captions: function(element) {
             return element.getElementsByTagName('img')[0].alt;
     }});
-    </script>
+    </script><script src="https://cdn.jsdelivr.net/gh/nextapps-de/flexsearch@0.8.0/dist/flexsearch.bundle.min.js"></script><script src="../../assets/js/flexsearch.js"></script>
 </body>
 </html>

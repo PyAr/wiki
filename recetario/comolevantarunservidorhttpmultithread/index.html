@@ -25,7 +25,7 @@ og: http://ogp.me/ns# article: http://ogp.me/ns/article#
 <meta property="og:description" content="Este ejemplo muestra cómo levantar un servidor web en Python sirviendo el contenido del directorio actual utilizando threads para manejar las solicitudes.
 Para usarlo, simplemente hay que llamar a est">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2025-03-14T17:10:11-03:00">
+<meta property="article:published_time" content="2025-03-22T12:24:52-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
@@ -67,7 +67,17 @@ Para usarlo, simplemente hay que llamar a est">
                 </li>                
             </ul>
 </div>
-    </nav>
+
+    </nav><div id="search_bar">
+            <div id="search_overlay" style="display:none;">
+                <div id="search_content">
+                    <input type="text" id="search_input" placeholder="Buscar 🔎"><div id="search_count"></div>
+                    <div id="search_results"></div>
+                    <button id="boton_cerrar" onclick="closeSearch()">Cerrar (Esc)</button>
+                </div>
+            </div>
+            <input type="text" id="search_input_base" placeholder="Buscar en la wiki 🔎">
+</div>
 </div>
 
 <!-- Header and menu bar -->
@@ -85,15 +95,15 @@ Para usarlo, simplemente hay que llamar a est">
     <div class="e-content entry-content" itemprop="articleBody text">
     <p>Este ejemplo muestra cómo levantar un servidor web en Python sirviendo el contenido del directorio actual utilizando threads para manejar las solicitudes.</p>
 <p>Para usarlo, simplemente hay que llamar a este módulo desde la línea de comando, si se llamara test.py entonces correr "python test.py"</p>
-<div class="code"><pre class="code python"><a id="rest_code_0cf563fe164141d0ab39247a4edddb1c-1" name="rest_code_0cf563fe164141d0ab39247a4edddb1c-1" href="#rest_code_0cf563fe164141d0ab39247a4edddb1c-1"></a><span class="kn">import</span><span class="w"> </span><span class="nn">SocketServer</span>
-<a id="rest_code_0cf563fe164141d0ab39247a4edddb1c-2" name="rest_code_0cf563fe164141d0ab39247a4edddb1c-2" href="#rest_code_0cf563fe164141d0ab39247a4edddb1c-2"></a><span class="kn">import</span><span class="w"> </span><span class="nn">BaseHTTPServer</span>
-<a id="rest_code_0cf563fe164141d0ab39247a4edddb1c-3" name="rest_code_0cf563fe164141d0ab39247a4edddb1c-3" href="#rest_code_0cf563fe164141d0ab39247a4edddb1c-3"></a><span class="kn">import</span><span class="w"> </span><span class="nn">SimpleHTTPServer</span>
-<a id="rest_code_0cf563fe164141d0ab39247a4edddb1c-4" name="rest_code_0cf563fe164141d0ab39247a4edddb1c-4" href="#rest_code_0cf563fe164141d0ab39247a4edddb1c-4"></a>
-<a id="rest_code_0cf563fe164141d0ab39247a4edddb1c-5" name="rest_code_0cf563fe164141d0ab39247a4edddb1c-5" href="#rest_code_0cf563fe164141d0ab39247a4edddb1c-5"></a><span class="k">class</span><span class="w"> </span><span class="nc">Server</span><span class="p">(</span><span class="n">SocketServer</span><span class="o">.</span><span class="n">ThreadingMixIn</span><span class="p">,</span> <span class="n">BaseHTTPServer</span><span class="o">.</span><span class="n">HTTPServer</span><span class="p">):</span>
-<a id="rest_code_0cf563fe164141d0ab39247a4edddb1c-6" name="rest_code_0cf563fe164141d0ab39247a4edddb1c-6" href="#rest_code_0cf563fe164141d0ab39247a4edddb1c-6"></a>    <span class="k">pass</span>
-<a id="rest_code_0cf563fe164141d0ab39247a4edddb1c-7" name="rest_code_0cf563fe164141d0ab39247a4edddb1c-7" href="#rest_code_0cf563fe164141d0ab39247a4edddb1c-7"></a>
-<a id="rest_code_0cf563fe164141d0ab39247a4edddb1c-8" name="rest_code_0cf563fe164141d0ab39247a4edddb1c-8" href="#rest_code_0cf563fe164141d0ab39247a4edddb1c-8"></a><span class="k">if</span> <span class="vm">__name__</span> <span class="o">==</span> <span class="s1">'__main__'</span><span class="p">:</span>
-<a id="rest_code_0cf563fe164141d0ab39247a4edddb1c-9" name="rest_code_0cf563fe164141d0ab39247a4edddb1c-9" href="#rest_code_0cf563fe164141d0ab39247a4edddb1c-9"></a>    <span class="n">SimpleHTTPServer</span><span class="o">.</span><span class="n">test</span><span class="p">(</span><span class="n">ServerClass</span><span class="o">=</span><span class="n">Server</span><span class="p">)</span>
+<div class="code"><pre class="code python"><a id="rest_code_22b7d62abd9e4cc48b0ceaa44e1519ff-1" name="rest_code_22b7d62abd9e4cc48b0ceaa44e1519ff-1" href="#rest_code_22b7d62abd9e4cc48b0ceaa44e1519ff-1"></a><span class="kn">import</span><span class="w"> </span><span class="nn">SocketServer</span>
+<a id="rest_code_22b7d62abd9e4cc48b0ceaa44e1519ff-2" name="rest_code_22b7d62abd9e4cc48b0ceaa44e1519ff-2" href="#rest_code_22b7d62abd9e4cc48b0ceaa44e1519ff-2"></a><span class="kn">import</span><span class="w"> </span><span class="nn">BaseHTTPServer</span>
+<a id="rest_code_22b7d62abd9e4cc48b0ceaa44e1519ff-3" name="rest_code_22b7d62abd9e4cc48b0ceaa44e1519ff-3" href="#rest_code_22b7d62abd9e4cc48b0ceaa44e1519ff-3"></a><span class="kn">import</span><span class="w"> </span><span class="nn">SimpleHTTPServer</span>
+<a id="rest_code_22b7d62abd9e4cc48b0ceaa44e1519ff-4" name="rest_code_22b7d62abd9e4cc48b0ceaa44e1519ff-4" href="#rest_code_22b7d62abd9e4cc48b0ceaa44e1519ff-4"></a>
+<a id="rest_code_22b7d62abd9e4cc48b0ceaa44e1519ff-5" name="rest_code_22b7d62abd9e4cc48b0ceaa44e1519ff-5" href="#rest_code_22b7d62abd9e4cc48b0ceaa44e1519ff-5"></a><span class="k">class</span><span class="w"> </span><span class="nc">Server</span><span class="p">(</span><span class="n">SocketServer</span><span class="o">.</span><span class="n">ThreadingMixIn</span><span class="p">,</span> <span class="n">BaseHTTPServer</span><span class="o">.</span><span class="n">HTTPServer</span><span class="p">):</span>
+<a id="rest_code_22b7d62abd9e4cc48b0ceaa44e1519ff-6" name="rest_code_22b7d62abd9e4cc48b0ceaa44e1519ff-6" href="#rest_code_22b7d62abd9e4cc48b0ceaa44e1519ff-6"></a>    <span class="k">pass</span>
+<a id="rest_code_22b7d62abd9e4cc48b0ceaa44e1519ff-7" name="rest_code_22b7d62abd9e4cc48b0ceaa44e1519ff-7" href="#rest_code_22b7d62abd9e4cc48b0ceaa44e1519ff-7"></a>
+<a id="rest_code_22b7d62abd9e4cc48b0ceaa44e1519ff-8" name="rest_code_22b7d62abd9e4cc48b0ceaa44e1519ff-8" href="#rest_code_22b7d62abd9e4cc48b0ceaa44e1519ff-8"></a><span class="k">if</span> <span class="vm">__name__</span> <span class="o">==</span> <span class="s1">'__main__'</span><span class="p">:</span>
+<a id="rest_code_22b7d62abd9e4cc48b0ceaa44e1519ff-9" name="rest_code_22b7d62abd9e4cc48b0ceaa44e1519ff-9" href="#rest_code_22b7d62abd9e4cc48b0ceaa44e1519ff-9"></a>    <span class="n">SimpleHTTPServer</span><span class="o">.</span><span class="n">test</span><span class="p">(</span><span class="n">ServerClass</span><span class="o">=</span><span class="n">Server</span><span class="p">)</span>
 </pre></div>
     </div>    
 </div>
@@ -111,6 +121,6 @@ Para usarlo, simplemente hay que llamar a est">
         captions: function(element) {
             return element.getElementsByTagName('img')[0].alt;
     }});
-    </script>
+    </script><script src="https://cdn.jsdelivr.net/gh/nextapps-de/flexsearch@0.8.0/dist/flexsearch.bundle.min.js"></script><script src="../../assets/js/flexsearch.js"></script>
 </body>
 </html>

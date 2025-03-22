@@ -29,7 +29,7 @@ pip-cache
 Tenemos un pip-cache funcionando en el host alarm. ¡¡Por favor utilizarlo!!
 Hay dos maneras de usarlo, la más simpl">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2025-03-14T17:10:11-03:00">
+<meta property="article:published_time" content="2025-03-22T12:24:52-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
@@ -71,7 +71,17 @@ Hay dos maneras de usarlo, la más simpl">
                 </li>                
             </ul>
 </div>
-    </nav>
+
+    </nav><div id="search_bar">
+            <div id="search_overlay" style="display:none;">
+                <div id="search_content">
+                    <input type="text" id="search_input" placeholder="Buscar 🔎"><div id="search_count"></div>
+                    <div id="search_results"></div>
+                    <button id="boton_cerrar" onclick="closeSearch()">Cerrar (Esc)</button>
+                </div>
+            </div>
+            <input type="text" id="search_input_base" placeholder="Buscar en la wiki 🔎">
+</div>
 </div>
 
 <!-- Header and menu bar -->
@@ -92,15 +102,15 @@ Hay dos maneras de usarlo, la más simpl">
 <section id="pip-cache"><h2>pip-cache</h2>
 <p>Tenemos un pip-cache funcionando en el host <cite>alarm</cite>. ¡¡Por favor utilizarlo!!</p>
 <p>Hay dos maneras de usarlo, la más simple (pero tenes que acordarte el comando)</p>
-<div class="code"><pre class="code bash"><a id="rest_code_89d46bc7fb6a446a939b80c208b2f697-1" name="rest_code_89d46bc7fb6a446a939b80c208b2f697-1" href="#rest_code_89d46bc7fb6a446a939b80c208b2f697-1"></a>pip<span class="w"> </span>install<span class="w"> </span>-i<span class="w"> </span>http://alarm:3141/root/pypi/<span class="w"> </span>&lt;paquete&gt;
+<div class="code"><pre class="code bash"><a id="rest_code_c8d4f46b5be44301a6717ec0fae2a6bb-1" name="rest_code_c8d4f46b5be44301a6717ec0fae2a6bb-1" href="#rest_code_c8d4f46b5be44301a6717ec0fae2a6bb-1"></a>pip<span class="w"> </span>install<span class="w"> </span>-i<span class="w"> </span>http://alarm:3141/root/pypi/<span class="w"> </span>&lt;paquete&gt;
 </pre></div>
 <p>La otra es editar <cite>~/.pip/pip.conf</cite> y dejar la config fija:</p>
-<div class="code"><pre class="code ini"><a id="rest_code_0914d9c37ec04661a368fee3b8aed1d2-1" name="rest_code_0914d9c37ec04661a368fee3b8aed1d2-1" href="#rest_code_0914d9c37ec04661a368fee3b8aed1d2-1"></a><span class="k">[global]</span>
-<a id="rest_code_0914d9c37ec04661a368fee3b8aed1d2-2" name="rest_code_0914d9c37ec04661a368fee3b8aed1d2-2" href="#rest_code_0914d9c37ec04661a368fee3b8aed1d2-2"></a><span class="na">index-url</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">http://10.5.20.252:3141/root/pypi/+simple/</span>
-<a id="rest_code_0914d9c37ec04661a368fee3b8aed1d2-3" name="rest_code_0914d9c37ec04661a368fee3b8aed1d2-3" href="#rest_code_0914d9c37ec04661a368fee3b8aed1d2-3"></a><span class="na">trusted-host</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">10.5.20.252</span>
-<a id="rest_code_0914d9c37ec04661a368fee3b8aed1d2-4" name="rest_code_0914d9c37ec04661a368fee3b8aed1d2-4" href="#rest_code_0914d9c37ec04661a368fee3b8aed1d2-4"></a><span class="na">disable-pip-version-check</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">true</span>
-<a id="rest_code_0914d9c37ec04661a368fee3b8aed1d2-5" name="rest_code_0914d9c37ec04661a368fee3b8aed1d2-5" href="#rest_code_0914d9c37ec04661a368fee3b8aed1d2-5"></a><span class="na">allow-all-external</span><span class="o">=</span><span class="s">true</span>
-<a id="rest_code_0914d9c37ec04661a368fee3b8aed1d2-6" name="rest_code_0914d9c37ec04661a368fee3b8aed1d2-6" href="#rest_code_0914d9c37ec04661a368fee3b8aed1d2-6"></a><span class="na">timeout</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">120</span>
+<div class="code"><pre class="code ini"><a id="rest_code_60dbe864a94b4153b4eb596d5b3528a0-1" name="rest_code_60dbe864a94b4153b4eb596d5b3528a0-1" href="#rest_code_60dbe864a94b4153b4eb596d5b3528a0-1"></a><span class="k">[global]</span>
+<a id="rest_code_60dbe864a94b4153b4eb596d5b3528a0-2" name="rest_code_60dbe864a94b4153b4eb596d5b3528a0-2" href="#rest_code_60dbe864a94b4153b4eb596d5b3528a0-2"></a><span class="na">index-url</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">http://10.5.20.252:3141/root/pypi/+simple/</span>
+<a id="rest_code_60dbe864a94b4153b4eb596d5b3528a0-3" name="rest_code_60dbe864a94b4153b4eb596d5b3528a0-3" href="#rest_code_60dbe864a94b4153b4eb596d5b3528a0-3"></a><span class="na">trusted-host</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">10.5.20.252</span>
+<a id="rest_code_60dbe864a94b4153b4eb596d5b3528a0-4" name="rest_code_60dbe864a94b4153b4eb596d5b3528a0-4" href="#rest_code_60dbe864a94b4153b4eb596d5b3528a0-4"></a><span class="na">disable-pip-version-check</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">true</span>
+<a id="rest_code_60dbe864a94b4153b4eb596d5b3528a0-5" name="rest_code_60dbe864a94b4153b4eb596d5b3528a0-5" href="#rest_code_60dbe864a94b4153b4eb596d5b3528a0-5"></a><span class="na">allow-all-external</span><span class="o">=</span><span class="s">true</span>
+<a id="rest_code_60dbe864a94b4153b4eb596d5b3528a0-6" name="rest_code_60dbe864a94b4153b4eb596d5b3528a0-6" href="#rest_code_60dbe864a94b4153b4eb596d5b3528a0-6"></a><span class="na">timeout</span><span class="w"> </span><span class="o">=</span><span class="w"> </span><span class="s">120</span>
 </pre></div>
 </section><section id="cronograma-de-actividades-2015"><h2>Cronograma de actividades 2015:</h2>
 <a class="reference external image-reference" href="../../../images/PyCamp/2015/Actividades/IMG_1538.JPG">
@@ -177,7 +187,7 @@ La idea es hacer algo útil para las redes comunitarias y de paso aprender un po
 <p>Los nodos ya entregan por http un json con la data necesaria.
 Por ej: <a class="reference external" href="http://oncelotes-bbone/cgi-bin/luci/status/json/stations/wlan1-adhoc">http://oncelotes-bbone/cgi-bin/luci/status/json/stations/wlan1-adhoc</a></p>
 <p>devuelve:</p>
-<div class="code"><pre class="code json"><a id="rest_code_c2cef4fe6a8248eab36f0fe861d6123b-1" name="rest_code_c2cef4fe6a8248eab36f0fe861d6123b-1" href="#rest_code_c2cef4fe6a8248eab36f0fe861d6123b-1"></a><span class="p">[</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="nt">"type"</span><span class="p">:</span><span class="w"> </span><span class="s2">"wifi"</span><span class="p">,</span><span class="w"> </span><span class="nt">"station_hostname"</span><span class="p">:</span><span class="w"> </span><span class="s2">"czuk-bbone_wlan1-adhoc"</span><span class="p">,</span><span class="w"> </span><span class="nt">"station"</span><span class="p">:</span><span class="w"> </span><span class="s2">"C0:4A:00:FC:3A:89"</span><span class="p">,</span><span class="w"> </span><span class="nt">"attributes"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="nt">"inactive"</span><span class="p">:</span><span class="w"> </span><span class="mi">0</span><span class="p">,</span><span class="w"> </span><span class="nt">"channel"</span><span class="p">:</span><span class="w"> </span><span class="mi">36</span><span class="p">,</span><span class="w"> </span><span class="nt">"signal"</span><span class="p">:</span><span class="w"> </span><span class="mi">-80</span><span class="w"> </span><span class="p">}</span><span class="w"> </span><span class="p">},</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="nt">"type"</span><span class="p">:</span><span class="w"> </span><span class="s2">"wifi"</span><span class="p">,</span><span class="w"> </span><span class="nt">"station_hostname"</span><span class="p">:</span><span class="w"> </span><span class="s2">"giordano-bbone_wlan1-adhoc"</span><span class="p">,</span><span class="w"> </span><span class="nt">"station"</span><span class="p">:</span><span class="w"> </span><span class="s2">"C0:4A:00:FC:38:E1"</span><span class="p">,</span><span class="w"> </span><span class="nt">"attributes"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="nt">"inactive"</span><span class="p">:</span><span class="w"> </span><span class="mi">0</span><span class="p">,</span><span class="w"> </span><span class="nt">"channel"</span><span class="p">:</span><span class="w"> </span><span class="mi">36</span><span class="p">,</span><span class="w"> </span><span class="nt">"signal"</span><span class="p">:</span><span class="w"> </span><span class="mi">-75</span><span class="w"> </span><span class="p">}</span><span class="w"> </span><span class="p">}</span><span class="w"> </span><span class="p">]</span>
+<div class="code"><pre class="code json"><a id="rest_code_7ab0a19476594e5180bd08d7c74e2136-1" name="rest_code_7ab0a19476594e5180bd08d7c74e2136-1" href="#rest_code_7ab0a19476594e5180bd08d7c74e2136-1"></a><span class="p">[</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="nt">"type"</span><span class="p">:</span><span class="w"> </span><span class="s2">"wifi"</span><span class="p">,</span><span class="w"> </span><span class="nt">"station_hostname"</span><span class="p">:</span><span class="w"> </span><span class="s2">"czuk-bbone_wlan1-adhoc"</span><span class="p">,</span><span class="w"> </span><span class="nt">"station"</span><span class="p">:</span><span class="w"> </span><span class="s2">"C0:4A:00:FC:3A:89"</span><span class="p">,</span><span class="w"> </span><span class="nt">"attributes"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="nt">"inactive"</span><span class="p">:</span><span class="w"> </span><span class="mi">0</span><span class="p">,</span><span class="w"> </span><span class="nt">"channel"</span><span class="p">:</span><span class="w"> </span><span class="mi">36</span><span class="p">,</span><span class="w"> </span><span class="nt">"signal"</span><span class="p">:</span><span class="w"> </span><span class="mi">-80</span><span class="w"> </span><span class="p">}</span><span class="w"> </span><span class="p">},</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="nt">"type"</span><span class="p">:</span><span class="w"> </span><span class="s2">"wifi"</span><span class="p">,</span><span class="w"> </span><span class="nt">"station_hostname"</span><span class="p">:</span><span class="w"> </span><span class="s2">"giordano-bbone_wlan1-adhoc"</span><span class="p">,</span><span class="w"> </span><span class="nt">"station"</span><span class="p">:</span><span class="w"> </span><span class="s2">"C0:4A:00:FC:38:E1"</span><span class="p">,</span><span class="w"> </span><span class="nt">"attributes"</span><span class="p">:</span><span class="w"> </span><span class="p">{</span><span class="w"> </span><span class="nt">"inactive"</span><span class="p">:</span><span class="w"> </span><span class="mi">0</span><span class="p">,</span><span class="w"> </span><span class="nt">"channel"</span><span class="p">:</span><span class="w"> </span><span class="mi">36</span><span class="p">,</span><span class="w"> </span><span class="nt">"signal"</span><span class="p">:</span><span class="w"> </span><span class="mi">-75</span><span class="w"> </span><span class="p">}</span><span class="w"> </span><span class="p">}</span><span class="w"> </span><span class="p">]</span>
 </pre></div>
 <p>La idea entonces sería consumir esto desde la mini app.</p>
 <p>[Propone: NicoEchániz]</p>
@@ -222,6 +232,6 @@ para PyCamp (?).</p>
         captions: function(element) {
             return element.getElementsByTagName('img')[0].alt;
     }});
-    </script>
+    </script><script src="https://cdn.jsdelivr.net/gh/nextapps-de/flexsearch@0.8.0/dist/flexsearch.bundle.min.js"></script><script src="../../../assets/js/flexsearch.js"></script>
 </body>
 </html>

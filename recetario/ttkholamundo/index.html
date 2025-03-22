@@ -33,7 +33,7 @@ from tkinter import ttk
 class HolaMundoApp(ttk.Frame):
     '''Clase qu">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2025-03-14T17:10:11-03:00">
+<meta property="article:published_time" content="2025-03-22T12:24:52-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
@@ -75,7 +75,17 @@ class HolaMundoApp(ttk.Frame):
                 </li>                
             </ul>
 </div>
-    </nav>
+
+    </nav><div id="search_bar">
+            <div id="search_overlay" style="display:none;">
+                <div id="search_content">
+                    <input type="text" id="search_input" placeholder="Buscar 🔎"><div id="search_count"></div>
+                    <div id="search_results"></div>
+                    <button id="boton_cerrar" onclick="closeSearch()">Cerrar (Esc)</button>
+                </div>
+            </div>
+            <input type="text" id="search_input_base" placeholder="Buscar en la wiki 🔎">
+</div>
 </div>
 
 <!-- Header and menu bar -->
@@ -92,34 +102,34 @@ class HolaMundoApp(ttk.Frame):
     </div>
     <div class="e-content entry-content" itemprop="articleBody text">
     <p>Crea una ventana que muestra el famoso mensaje "Hola mundo".</p>
-<img alt="/images/ttkHolamundo/ttkHolamundo.png" src="../../images/ttkHolamundo/ttkHolamundo.png"><div class="code"><pre class="code python"><a id="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-1" name="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-1" href="#rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-1"></a><span class="ch">#!/usr/bin/env python3</span>
-<a id="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-2" name="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-2" href="#rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-2"></a><span class="c1">#-*- coding:utf-8 -*-</span>
-<a id="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-3" name="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-3" href="#rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-3"></a>
-<a id="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-4" name="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-4" href="#rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-4"></a><span class="kn">import</span><span class="w"> </span><span class="nn">tkinter</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">tk</span>
-<a id="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-5" name="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-5" href="#rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-5"></a><span class="kn">from</span><span class="w"> </span><span class="nn">tkinter</span><span class="w"> </span><span class="kn">import</span> <span class="n">ttk</span>
-<a id="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-6" name="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-6" href="#rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-6"></a>
-<a id="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-7" name="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-7" href="#rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-7"></a><span class="k">class</span><span class="w"> </span><span class="nc">HolaMundoApp</span><span class="p">(</span><span class="n">ttk</span><span class="o">.</span><span class="n">Frame</span><span class="p">):</span>
-<a id="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-8" name="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-8" href="#rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-8"></a><span class="w">    </span><span class="sd">'''Clase que define una ventana que muestra el "Hola mundo"'''</span>
-<a id="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-9" name="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-9" href="#rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-9"></a>
-<a id="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-10" name="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-10" href="#rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-10"></a>    <span class="k">def</span><span class="w"> </span><span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">master</span><span class="o">=</span><span class="kc">None</span><span class="p">):</span>
-<a id="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-11" name="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-11" href="#rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-11"></a>        <span class="n">ttk</span><span class="o">.</span><span class="n">Frame</span><span class="o">.</span><span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">master</span><span class="p">)</span>
-<a id="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-12" name="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-12" href="#rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-12"></a>
-<a id="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-13" name="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-13" href="#rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-13"></a>        <span class="c1">#Creamos un label</span>
-<a id="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-14" name="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-14" href="#rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-14"></a>        <span class="n">o</span> <span class="o">=</span> <span class="n">ttk</span><span class="o">.</span><span class="n">Label</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">text</span><span class="o">=</span><span class="s1">'Hola PyAr!'</span><span class="p">,</span> <span class="n">anchor</span><span class="o">=</span><span class="s1">'center'</span><span class="p">)</span>
-<a id="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-15" name="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-15" href="#rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-15"></a>        <span class="c1">#Lo agregamos a la ventana.</span>
-<a id="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-16" name="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-16" href="#rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-16"></a>        <span class="n">o</span><span class="o">.</span><span class="n">pack</span><span class="p">(</span><span class="n">fill</span><span class="o">=</span><span class="s1">'both'</span><span class="p">,</span> <span class="n">expand</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
-<a id="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-17" name="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-17" href="#rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-17"></a>        <span class="c1">#Agregamos este frame a la ventana principal (Top level window)</span>
-<a id="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-18" name="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-18" href="#rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-18"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">pack</span><span class="p">(</span><span class="n">fill</span><span class="o">=</span><span class="s1">'both'</span><span class="p">,</span> <span class="n">expand</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
-<a id="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-19" name="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-19" href="#rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-19"></a>
-<a id="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-20" name="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-20" href="#rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-20"></a>        <span class="c1">#Configuramos la ventana principal</span>
-<a id="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-21" name="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-21" href="#rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-21"></a>        <span class="n">top</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">winfo_toplevel</span><span class="p">()</span>
-<a id="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-22" name="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-22" href="#rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-22"></a>        <span class="n">top</span><span class="o">.</span><span class="n">title</span><span class="p">(</span><span class="s1">'Hola mundo'</span><span class="p">)</span>
-<a id="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-23" name="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-23" href="#rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-23"></a>        <span class="n">top</span><span class="o">.</span><span class="n">minsize</span><span class="p">(</span><span class="n">width</span><span class="o">=</span><span class="mi">300</span><span class="p">,</span> <span class="n">height</span><span class="o">=</span><span class="mi">200</span><span class="p">)</span>
-<a id="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-24" name="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-24" href="#rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-24"></a>
-<a id="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-25" name="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-25" href="#rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-25"></a>
-<a id="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-26" name="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-26" href="#rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-26"></a><span class="k">if</span> <span class="vm">__name__</span> <span class="o">==</span> <span class="s1">'__main__'</span><span class="p">:</span>
-<a id="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-27" name="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-27" href="#rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-27"></a>    <span class="n">app</span> <span class="o">=</span> <span class="n">HolaMundoApp</span><span class="p">()</span>
-<a id="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-28" name="rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-28" href="#rest_code_cb8c0e9fc0b645fcb266c1de383c95fe-28"></a>    <span class="n">app</span><span class="o">.</span><span class="n">mainloop</span><span class="p">()</span>
+<img alt="/images/ttkHolamundo/ttkHolamundo.png" src="../../images/ttkHolamundo/ttkHolamundo.png"><div class="code"><pre class="code python"><a id="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-1" name="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-1" href="#rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-1"></a><span class="ch">#!/usr/bin/env python3</span>
+<a id="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-2" name="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-2" href="#rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-2"></a><span class="c1">#-*- coding:utf-8 -*-</span>
+<a id="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-3" name="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-3" href="#rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-3"></a>
+<a id="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-4" name="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-4" href="#rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-4"></a><span class="kn">import</span><span class="w"> </span><span class="nn">tkinter</span><span class="w"> </span><span class="k">as</span><span class="w"> </span><span class="nn">tk</span>
+<a id="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-5" name="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-5" href="#rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-5"></a><span class="kn">from</span><span class="w"> </span><span class="nn">tkinter</span><span class="w"> </span><span class="kn">import</span> <span class="n">ttk</span>
+<a id="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-6" name="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-6" href="#rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-6"></a>
+<a id="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-7" name="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-7" href="#rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-7"></a><span class="k">class</span><span class="w"> </span><span class="nc">HolaMundoApp</span><span class="p">(</span><span class="n">ttk</span><span class="o">.</span><span class="n">Frame</span><span class="p">):</span>
+<a id="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-8" name="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-8" href="#rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-8"></a><span class="w">    </span><span class="sd">'''Clase que define una ventana que muestra el "Hola mundo"'''</span>
+<a id="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-9" name="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-9" href="#rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-9"></a>
+<a id="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-10" name="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-10" href="#rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-10"></a>    <span class="k">def</span><span class="w"> </span><span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">master</span><span class="o">=</span><span class="kc">None</span><span class="p">):</span>
+<a id="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-11" name="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-11" href="#rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-11"></a>        <span class="n">ttk</span><span class="o">.</span><span class="n">Frame</span><span class="o">.</span><span class="fm">__init__</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">master</span><span class="p">)</span>
+<a id="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-12" name="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-12" href="#rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-12"></a>
+<a id="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-13" name="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-13" href="#rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-13"></a>        <span class="c1">#Creamos un label</span>
+<a id="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-14" name="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-14" href="#rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-14"></a>        <span class="n">o</span> <span class="o">=</span> <span class="n">ttk</span><span class="o">.</span><span class="n">Label</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">text</span><span class="o">=</span><span class="s1">'Hola PyAr!'</span><span class="p">,</span> <span class="n">anchor</span><span class="o">=</span><span class="s1">'center'</span><span class="p">)</span>
+<a id="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-15" name="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-15" href="#rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-15"></a>        <span class="c1">#Lo agregamos a la ventana.</span>
+<a id="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-16" name="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-16" href="#rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-16"></a>        <span class="n">o</span><span class="o">.</span><span class="n">pack</span><span class="p">(</span><span class="n">fill</span><span class="o">=</span><span class="s1">'both'</span><span class="p">,</span> <span class="n">expand</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+<a id="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-17" name="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-17" href="#rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-17"></a>        <span class="c1">#Agregamos este frame a la ventana principal (Top level window)</span>
+<a id="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-18" name="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-18" href="#rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-18"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">pack</span><span class="p">(</span><span class="n">fill</span><span class="o">=</span><span class="s1">'both'</span><span class="p">,</span> <span class="n">expand</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+<a id="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-19" name="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-19" href="#rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-19"></a>
+<a id="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-20" name="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-20" href="#rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-20"></a>        <span class="c1">#Configuramos la ventana principal</span>
+<a id="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-21" name="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-21" href="#rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-21"></a>        <span class="n">top</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">winfo_toplevel</span><span class="p">()</span>
+<a id="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-22" name="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-22" href="#rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-22"></a>        <span class="n">top</span><span class="o">.</span><span class="n">title</span><span class="p">(</span><span class="s1">'Hola mundo'</span><span class="p">)</span>
+<a id="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-23" name="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-23" href="#rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-23"></a>        <span class="n">top</span><span class="o">.</span><span class="n">minsize</span><span class="p">(</span><span class="n">width</span><span class="o">=</span><span class="mi">300</span><span class="p">,</span> <span class="n">height</span><span class="o">=</span><span class="mi">200</span><span class="p">)</span>
+<a id="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-24" name="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-24" href="#rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-24"></a>
+<a id="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-25" name="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-25" href="#rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-25"></a>
+<a id="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-26" name="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-26" href="#rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-26"></a><span class="k">if</span> <span class="vm">__name__</span> <span class="o">==</span> <span class="s1">'__main__'</span><span class="p">:</span>
+<a id="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-27" name="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-27" href="#rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-27"></a>    <span class="n">app</span> <span class="o">=</span> <span class="n">HolaMundoApp</span><span class="p">()</span>
+<a id="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-28" name="rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-28" href="#rest_code_a0b62be3e0dc4326a2d9cf4adc9cdad7-28"></a>    <span class="n">app</span><span class="o">.</span><span class="n">mainloop</span><span class="p">()</span>
 </pre></div>
     </div>    
 </div>
@@ -137,6 +147,6 @@ class HolaMundoApp(ttk.Frame):
         captions: function(element) {
             return element.getElementsByTagName('img')[0].alt;
     }});
-    </script>
+    </script><script src="https://cdn.jsdelivr.net/gh/nextapps-de/flexsearch@0.8.0/dist/flexsearch.bundle.min.js"></script><script src="../../assets/js/flexsearch.js"></script>
 </body>
 </html>

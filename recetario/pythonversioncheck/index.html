@@ -26,7 +26,7 @@ og: http://ogp.me/ns# article: http://ogp.me/ns/article#
 if sys.hexversion &gt; 0x02060000: # Python version check
     print "\n Python version &gt; 2.6.0\n" # Aca va que hacer si es mayor'>
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2025-03-14T17:10:11-03:00">
+<meta property="article:published_time" content="2025-03-22T12:24:52-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
@@ -68,7 +68,17 @@ if sys.hexversion &gt; 0x02060000: # Python version check
                 </li>                
             </ul>
 </div>
-    </nav>
+
+    </nav><div id="search_bar">
+            <div id="search_overlay" style="display:none;">
+                <div id="search_content">
+                    <input type="text" id="search_input" placeholder="Buscar 🔎"><div id="search_count"></div>
+                    <div id="search_results"></div>
+                    <button id="boton_cerrar" onclick="closeSearch()">Cerrar (Esc)</button>
+                </div>
+            </div>
+            <input type="text" id="search_input_base" placeholder="Buscar en la wiki 🔎">
+</div>
 </div>
 
 <!-- Header and menu bar -->
@@ -85,15 +95,15 @@ if sys.hexversion &gt; 0x02060000: # Python version check
     </div>
     <div class="e-content entry-content" itemprop="articleBody text">
     <p>Chequear la versión de Python, y salir o imprimir error en funcion de eso.</p>
-<div class="code"><pre class="code python"><a id="rest_code_0185a51674474ee3adc5701cab22e0f5-1" name="rest_code_0185a51674474ee3adc5701cab22e0f5-1" href="#rest_code_0185a51674474ee3adc5701cab22e0f5-1"></a><span class="k">if</span> <span class="n">sys</span><span class="o">.</span><span class="n">hexversion</span> <span class="o">&gt;</span> <span class="mh">0x02060000</span><span class="p">:</span> <span class="c1"># Python version check</span>
-<a id="rest_code_0185a51674474ee3adc5701cab22e0f5-2" name="rest_code_0185a51674474ee3adc5701cab22e0f5-2" href="#rest_code_0185a51674474ee3adc5701cab22e0f5-2"></a>    <span class="nb">print</span> <span class="s2">"</span><span class="se">\n</span><span class="s2"> Python version &gt; 2.6.0</span><span class="se">\n</span><span class="s2">"</span> <span class="c1"># Aca va que hacer si es mayor, continua</span>
-<a id="rest_code_0185a51674474ee3adc5701cab22e0f5-3" name="rest_code_0185a51674474ee3adc5701cab22e0f5-3" href="#rest_code_0185a51674474ee3adc5701cab22e0f5-3"></a><span class="k">else</span><span class="p">:</span>
-<a id="rest_code_0185a51674474ee3adc5701cab22e0f5-4" name="rest_code_0185a51674474ee3adc5701cab22e0f5-4" href="#rest_code_0185a51674474ee3adc5701cab22e0f5-4"></a>    <span class="nb">print</span> <span class="s2">"</span><span class="se">\n</span><span class="s2"> ERROR: Python version &lt; 2.6.0</span><span class="se">\n</span><span class="s2">"</span> <span class="c1"># Aca va que hacer si es menor, error</span>
+<div class="code"><pre class="code python"><a id="rest_code_855bcbae37994341b342094cc4bc4c10-1" name="rest_code_855bcbae37994341b342094cc4bc4c10-1" href="#rest_code_855bcbae37994341b342094cc4bc4c10-1"></a><span class="k">if</span> <span class="n">sys</span><span class="o">.</span><span class="n">hexversion</span> <span class="o">&gt;</span> <span class="mh">0x02060000</span><span class="p">:</span> <span class="c1"># Python version check</span>
+<a id="rest_code_855bcbae37994341b342094cc4bc4c10-2" name="rest_code_855bcbae37994341b342094cc4bc4c10-2" href="#rest_code_855bcbae37994341b342094cc4bc4c10-2"></a>    <span class="nb">print</span> <span class="s2">"</span><span class="se">\n</span><span class="s2"> Python version &gt; 2.6.0</span><span class="se">\n</span><span class="s2">"</span> <span class="c1"># Aca va que hacer si es mayor, continua</span>
+<a id="rest_code_855bcbae37994341b342094cc4bc4c10-3" name="rest_code_855bcbae37994341b342094cc4bc4c10-3" href="#rest_code_855bcbae37994341b342094cc4bc4c10-3"></a><span class="k">else</span><span class="p">:</span>
+<a id="rest_code_855bcbae37994341b342094cc4bc4c10-4" name="rest_code_855bcbae37994341b342094cc4bc4c10-4" href="#rest_code_855bcbae37994341b342094cc4bc4c10-4"></a>    <span class="nb">print</span> <span class="s2">"</span><span class="se">\n</span><span class="s2"> ERROR: Python version &lt; 2.6.0</span><span class="se">\n</span><span class="s2">"</span> <span class="c1"># Aca va que hacer si es menor, error</span>
 </pre></div>
 <p>Ejemplo:</p>
-<div class="code"><pre class="code bash"><a id="rest_code_0b1cef6d380e4c8db6079620ae1bf50e-1" name="rest_code_0b1cef6d380e4c8db6079620ae1bf50e-1" href="#rest_code_0b1cef6d380e4c8db6079620ae1bf50e-1"></a>juan@maverick:~$<span class="w"> </span>/usr/bin/env<span class="w"> </span>python<span class="w"> </span>test.py
-<a id="rest_code_0b1cef6d380e4c8db6079620ae1bf50e-2" name="rest_code_0b1cef6d380e4c8db6079620ae1bf50e-2" href="#rest_code_0b1cef6d380e4c8db6079620ae1bf50e-2"></a>
-<a id="rest_code_0b1cef6d380e4c8db6079620ae1bf50e-3" name="rest_code_0b1cef6d380e4c8db6079620ae1bf50e-3" href="#rest_code_0b1cef6d380e4c8db6079620ae1bf50e-3"></a><span class="w"> </span>Python<span class="w"> </span>version<span class="w"> </span>&gt;<span class="w"> </span><span class="m">2</span>.6.0
+<div class="code"><pre class="code bash"><a id="rest_code_9cef7d8e80bf457ea0f10ce5022d3bdb-1" name="rest_code_9cef7d8e80bf457ea0f10ce5022d3bdb-1" href="#rest_code_9cef7d8e80bf457ea0f10ce5022d3bdb-1"></a>juan@maverick:~$<span class="w"> </span>/usr/bin/env<span class="w"> </span>python<span class="w"> </span>test.py
+<a id="rest_code_9cef7d8e80bf457ea0f10ce5022d3bdb-2" name="rest_code_9cef7d8e80bf457ea0f10ce5022d3bdb-2" href="#rest_code_9cef7d8e80bf457ea0f10ce5022d3bdb-2"></a>
+<a id="rest_code_9cef7d8e80bf457ea0f10ce5022d3bdb-3" name="rest_code_9cef7d8e80bf457ea0f10ce5022d3bdb-3" href="#rest_code_9cef7d8e80bf457ea0f10ce5022d3bdb-3"></a><span class="w"> </span>Python<span class="w"> </span>version<span class="w"> </span>&gt;<span class="w"> </span><span class="m">2</span>.6.0
 </pre></div>
     </div>    
 </div>
@@ -111,6 +121,6 @@ if sys.hexversion &gt; 0x02060000: # Python version check
         captions: function(element) {
             return element.getElementsByTagName('img')[0].alt;
     }});
-    </script>
+    </script><script src="https://cdn.jsdelivr.net/gh/nextapps-de/flexsearch@0.8.0/dist/flexsearch.bundle.min.js"></script><script src="../../assets/js/flexsearch.js"></script>
 </body>
 </html>

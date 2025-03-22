@@ -29,7 +29,7 @@ og: http://ogp.me/ns# article: http://ogp.me/ns/article#
 
 El código anterior devuelve una lista de strings, donde cada string es una ">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2025-03-14T17:10:11-03:00">
+<meta property="article:published_time" content="2025-03-22T12:24:52-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
@@ -71,7 +71,17 @@ El código anterior devuelve una lista de strings, donde cada string es una ">
                 </li>                
             </ul>
 </div>
-    </nav>
+
+    </nav><div id="search_bar">
+            <div id="search_overlay" style="display:none;">
+                <div id="search_content">
+                    <input type="text" id="search_input" placeholder="Buscar 🔎"><div id="search_count"></div>
+                    <div id="search_results"></div>
+                    <button id="boton_cerrar" onclick="closeSearch()">Cerrar (Esc)</button>
+                </div>
+            </div>
+            <input type="text" id="search_input_base" placeholder="Buscar en la wiki 🔎">
+</div>
 </div>
 
 <!-- Header and menu bar -->
@@ -88,9 +98,9 @@ El código anterior devuelve una lista de strings, donde cada string es una ">
     </div>
     <div class="e-content entry-content" itemprop="articleBody text">
     <section id="codigo"><h2>Código</h2>
-<div class="code"><pre class="code python"><a id="rest_code_433b758881304634937438cbfbac41bb-1" name="rest_code_433b758881304634937438cbfbac41bb-1" href="#rest_code_433b758881304634937438cbfbac41bb-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="kn">import</span><span class="w"> </span><span class="nn">re</span>
-<a id="rest_code_433b758881304634937438cbfbac41bb-2" name="rest_code_433b758881304634937438cbfbac41bb-2" href="#rest_code_433b758881304634937438cbfbac41bb-2"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">mailsrch</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">compile</span><span class="p">(</span><span class="sa">r</span><span class="s1">'[\w\-][\w\-\.]+@[\w\-][\w\-\.]+[a-zA-Z]{1,4}'</span><span class="p">)</span>
-<a id="rest_code_433b758881304634937438cbfbac41bb-3" name="rest_code_433b758881304634937438cbfbac41bb-3" href="#rest_code_433b758881304634937438cbfbac41bb-3"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">mailsrch</span><span class="o">.</span><span class="n">findall</span><span class="p">(</span><span class="n">texto</span><span class="p">)</span>
+<div class="code"><pre class="code python"><a id="rest_code_6ae4b84ce2bd4fa3b03df3413e8c46dd-1" name="rest_code_6ae4b84ce2bd4fa3b03df3413e8c46dd-1" href="#rest_code_6ae4b84ce2bd4fa3b03df3413e8c46dd-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="kn">import</span><span class="w"> </span><span class="nn">re</span>
+<a id="rest_code_6ae4b84ce2bd4fa3b03df3413e8c46dd-2" name="rest_code_6ae4b84ce2bd4fa3b03df3413e8c46dd-2" href="#rest_code_6ae4b84ce2bd4fa3b03df3413e8c46dd-2"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">mailsrch</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">compile</span><span class="p">(</span><span class="sa">r</span><span class="s1">'[\w\-][\w\-\.]+@[\w\-][\w\-\.]+[a-zA-Z]{1,4}'</span><span class="p">)</span>
+<a id="rest_code_6ae4b84ce2bd4fa3b03df3413e8c46dd-3" name="rest_code_6ae4b84ce2bd4fa3b03df3413e8c46dd-3" href="#rest_code_6ae4b84ce2bd4fa3b03df3413e8c46dd-3"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">mailsrch</span><span class="o">.</span><span class="n">findall</span><span class="p">(</span><span class="n">texto</span><span class="p">)</span>
 </pre></div>
 <p>El código anterior devuelve una lista de strings, donde cada string es una dirección de email. El texto original puede contener basura como espcios, comas u otros caracteres.</p>
 </section><section id="autor"><h2>Autor</h2>
@@ -115,6 +125,6 @@ El código anterior devuelve una lista de strings, donde cada string es una ">
         captions: function(element) {
             return element.getElementsByTagName('img')[0].alt;
     }});
-    </script>
+    </script><script src="https://cdn.jsdelivr.net/gh/nextapps-de/flexsearch@0.8.0/dist/flexsearch.bundle.min.js"></script><script src="../assets/js/flexsearch.js"></script>
 </body>
 </html>

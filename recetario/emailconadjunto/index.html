@@ -31,7 +31,7 @@ Ejemplo:
 from email.mime.text import MIMEText
 fro">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2025-03-14T17:10:11-03:00">
+<meta property="article:published_time" content="2025-03-22T12:24:52-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
@@ -73,7 +73,17 @@ fro">
                 </li>                
             </ul>
 </div>
-    </nav>
+
+    </nav><div id="search_bar">
+            <div id="search_overlay" style="display:none;">
+                <div id="search_content">
+                    <input type="text" id="search_input" placeholder="Buscar 🔎"><div id="search_count"></div>
+                    <div id="search_results"></div>
+                    <button id="boton_cerrar" onclick="closeSearch()">Cerrar (Esc)</button>
+                </div>
+            </div>
+            <input type="text" id="search_input_base" placeholder="Buscar en la wiki 🔎">
+</div>
 </div>
 
 <!-- Header and menu bar -->
@@ -92,40 +102,40 @@ fro">
     <section id="descripcion"><h2>Descripción</h2>
 <p>Esta receta es un ejemplo sencillo de cómo enviar un email, con una parte de texto y otra binaria (adjunto)</p>
 </section><section id="ejemplo"><h2>Ejemplo:</h2>
-<div class="code"><pre class="code python"><a id="rest_code_8f0964757af5419498e57081549e892e-1" name="rest_code_8f0964757af5419498e57081549e892e-1" href="#rest_code_8f0964757af5419498e57081549e892e-1"></a><span class="c1"># -*- coding: iso-8859-1 -*-</span>
-<a id="rest_code_8f0964757af5419498e57081549e892e-2" name="rest_code_8f0964757af5419498e57081549e892e-2" href="#rest_code_8f0964757af5419498e57081549e892e-2"></a><span class="kn">from</span><span class="w"> </span><span class="nn">email.mime.text</span><span class="w"> </span><span class="kn">import</span> <span class="n">MIMEText</span>
-<a id="rest_code_8f0964757af5419498e57081549e892e-3" name="rest_code_8f0964757af5419498e57081549e892e-3" href="#rest_code_8f0964757af5419498e57081549e892e-3"></a><span class="kn">from</span><span class="w"> </span><span class="nn">email.mime.application</span><span class="w"> </span><span class="kn">import</span> <span class="n">MIMEApplication</span>
-<a id="rest_code_8f0964757af5419498e57081549e892e-4" name="rest_code_8f0964757af5419498e57081549e892e-4" href="#rest_code_8f0964757af5419498e57081549e892e-4"></a><span class="kn">from</span><span class="w"> </span><span class="nn">email.mime.multipart</span><span class="w"> </span><span class="kn">import</span> <span class="n">MIMEMultipart</span>
-<a id="rest_code_8f0964757af5419498e57081549e892e-5" name="rest_code_8f0964757af5419498e57081549e892e-5" href="#rest_code_8f0964757af5419498e57081549e892e-5"></a><span class="kn">from</span><span class="w"> </span><span class="nn">smtplib</span><span class="w"> </span><span class="kn">import</span> <span class="n">SMTP</span>
-<a id="rest_code_8f0964757af5419498e57081549e892e-6" name="rest_code_8f0964757af5419498e57081549e892e-6" href="#rest_code_8f0964757af5419498e57081549e892e-6"></a>
-<a id="rest_code_8f0964757af5419498e57081549e892e-7" name="rest_code_8f0964757af5419498e57081549e892e-7" href="#rest_code_8f0964757af5419498e57081549e892e-7"></a><span class="n">msg</span> <span class="o">=</span> <span class="n">MIMEMultipart</span><span class="p">()</span>
-<a id="rest_code_8f0964757af5419498e57081549e892e-8" name="rest_code_8f0964757af5419498e57081549e892e-8" href="#rest_code_8f0964757af5419498e57081549e892e-8"></a><span class="n">msg</span><span class="p">[</span><span class="s1">'Subject'</span><span class="p">]</span> <span class="o">=</span> <span class="s1">'Esto es una prueba'</span>
-<a id="rest_code_8f0964757af5419498e57081549e892e-9" name="rest_code_8f0964757af5419498e57081549e892e-9" href="#rest_code_8f0964757af5419498e57081549e892e-9"></a><span class="n">msg</span><span class="p">[</span><span class="s1">'From'</span><span class="p">]</span> <span class="o">=</span> <span class="s1">'yo@example.com'</span>
-<a id="rest_code_8f0964757af5419498e57081549e892e-10" name="rest_code_8f0964757af5419498e57081549e892e-10" href="#rest_code_8f0964757af5419498e57081549e892e-10"></a><span class="n">msg</span><span class="p">[</span><span class="s1">'Reply-to'</span><span class="p">]</span> <span class="o">=</span> <span class="s1">'responder-aca@example.com'</span>
-<a id="rest_code_8f0964757af5419498e57081549e892e-11" name="rest_code_8f0964757af5419498e57081549e892e-11" href="#rest_code_8f0964757af5419498e57081549e892e-11"></a><span class="n">msg</span><span class="p">[</span><span class="s1">'To'</span><span class="p">]</span> <span class="o">=</span> <span class="s1">'vos@example.com'</span>
-<a id="rest_code_8f0964757af5419498e57081549e892e-12" name="rest_code_8f0964757af5419498e57081549e892e-12" href="#rest_code_8f0964757af5419498e57081549e892e-12"></a>
-<a id="rest_code_8f0964757af5419498e57081549e892e-13" name="rest_code_8f0964757af5419498e57081549e892e-13" href="#rest_code_8f0964757af5419498e57081549e892e-13"></a><span class="c1"># Esto es lo que se ve si uno no tiene un lector de mails como la gente:</span>
-<a id="rest_code_8f0964757af5419498e57081549e892e-14" name="rest_code_8f0964757af5419498e57081549e892e-14" href="#rest_code_8f0964757af5419498e57081549e892e-14"></a><span class="n">msg</span><span class="o">.</span><span class="n">preamble</span> <span class="o">=</span> <span class="s1">'Mensaje de multiples partes.</span><span class="se">\n</span><span class="s1">'</span>
-<a id="rest_code_8f0964757af5419498e57081549e892e-15" name="rest_code_8f0964757af5419498e57081549e892e-15" href="#rest_code_8f0964757af5419498e57081549e892e-15"></a>
-<a id="rest_code_8f0964757af5419498e57081549e892e-16" name="rest_code_8f0964757af5419498e57081549e892e-16" href="#rest_code_8f0964757af5419498e57081549e892e-16"></a><span class="c1"># Esta es la parte textual:</span>
-<a id="rest_code_8f0964757af5419498e57081549e892e-17" name="rest_code_8f0964757af5419498e57081549e892e-17" href="#rest_code_8f0964757af5419498e57081549e892e-17"></a><span class="n">part</span> <span class="o">=</span> <span class="n">MIMEText</span><span class="p">(</span><span class="s2">"Hola, te paso un archivo interesante"</span><span class="p">)</span>
-<a id="rest_code_8f0964757af5419498e57081549e892e-18" name="rest_code_8f0964757af5419498e57081549e892e-18" href="#rest_code_8f0964757af5419498e57081549e892e-18"></a><span class="n">msg</span><span class="o">.</span><span class="n">attach</span><span class="p">(</span><span class="n">part</span><span class="p">)</span>
-<a id="rest_code_8f0964757af5419498e57081549e892e-19" name="rest_code_8f0964757af5419498e57081549e892e-19" href="#rest_code_8f0964757af5419498e57081549e892e-19"></a>
-<a id="rest_code_8f0964757af5419498e57081549e892e-20" name="rest_code_8f0964757af5419498e57081549e892e-20" href="#rest_code_8f0964757af5419498e57081549e892e-20"></a><span class="c1"># Esta es la parte binaria (puede ser cualquier extensión):</span>
-<a id="rest_code_8f0964757af5419498e57081549e892e-21" name="rest_code_8f0964757af5419498e57081549e892e-21" href="#rest_code_8f0964757af5419498e57081549e892e-21"></a><span class="n">part</span> <span class="o">=</span> <span class="n">MIMEApplication</span><span class="p">(</span><span class="nb">open</span><span class="p">(</span><span class="s2">"factura.pdf"</span><span class="p">,</span><span class="s2">"rb"</span><span class="p">)</span><span class="o">.</span><span class="n">read</span><span class="p">())</span>
-<a id="rest_code_8f0964757af5419498e57081549e892e-22" name="rest_code_8f0964757af5419498e57081549e892e-22" href="#rest_code_8f0964757af5419498e57081549e892e-22"></a><span class="n">part</span><span class="o">.</span><span class="n">add_header</span><span class="p">(</span><span class="s1">'Content-Disposition'</span><span class="p">,</span> <span class="s1">'attachment'</span><span class="p">,</span> <span class="n">filename</span><span class="o">=</span><span class="s2">"factura.pdf"</span><span class="p">)</span>
-<a id="rest_code_8f0964757af5419498e57081549e892e-23" name="rest_code_8f0964757af5419498e57081549e892e-23" href="#rest_code_8f0964757af5419498e57081549e892e-23"></a><span class="n">msg</span><span class="o">.</span><span class="n">attach</span><span class="p">(</span><span class="n">part</span><span class="p">)</span>
-<a id="rest_code_8f0964757af5419498e57081549e892e-24" name="rest_code_8f0964757af5419498e57081549e892e-24" href="#rest_code_8f0964757af5419498e57081549e892e-24"></a>
-<a id="rest_code_8f0964757af5419498e57081549e892e-25" name="rest_code_8f0964757af5419498e57081549e892e-25" href="#rest_code_8f0964757af5419498e57081549e892e-25"></a><span class="c1"># Se pueden seguir agregando partes (texto, imágenes, datos binarios, etc.)</span>
-<a id="rest_code_8f0964757af5419498e57081549e892e-26" name="rest_code_8f0964757af5419498e57081549e892e-26" href="#rest_code_8f0964757af5419498e57081549e892e-26"></a>
-<a id="rest_code_8f0964757af5419498e57081549e892e-27" name="rest_code_8f0964757af5419498e57081549e892e-27" href="#rest_code_8f0964757af5419498e57081549e892e-27"></a><span class="c1"># Crear una instancia del servidor para envio de correo (hacerlo una sola vez)</span>
-<a id="rest_code_8f0964757af5419498e57081549e892e-28" name="rest_code_8f0964757af5419498e57081549e892e-28" href="#rest_code_8f0964757af5419498e57081549e892e-28"></a><span class="n">smtp</span> <span class="o">=</span> <span class="n">SMTP</span><span class="p">(</span><span class="s2">"smtp.example.com"</span><span class="p">)</span>
-<a id="rest_code_8f0964757af5419498e57081549e892e-29" name="rest_code_8f0964757af5419498e57081549e892e-29" href="#rest_code_8f0964757af5419498e57081549e892e-29"></a><span class="c1"># Iniciar sesión en el servidor (si es necesario):</span>
-<a id="rest_code_8f0964757af5419498e57081549e892e-30" name="rest_code_8f0964757af5419498e57081549e892e-30" href="#rest_code_8f0964757af5419498e57081549e892e-30"></a><span class="n">smtp</span><span class="o">.</span><span class="n">ehlo</span><span class="p">()</span>
-<a id="rest_code_8f0964757af5419498e57081549e892e-31" name="rest_code_8f0964757af5419498e57081549e892e-31" href="#rest_code_8f0964757af5419498e57081549e892e-31"></a><span class="n">smtp</span><span class="o">.</span><span class="n">login</span><span class="p">(</span><span class="s2">"yo@example.com"</span><span class="p">,</span> <span class="s2">"mipassword"</span><span class="p">)</span>
-<a id="rest_code_8f0964757af5419498e57081549e892e-32" name="rest_code_8f0964757af5419498e57081549e892e-32" href="#rest_code_8f0964757af5419498e57081549e892e-32"></a>
-<a id="rest_code_8f0964757af5419498e57081549e892e-33" name="rest_code_8f0964757af5419498e57081549e892e-33" href="#rest_code_8f0964757af5419498e57081549e892e-33"></a><span class="c1"># Enviar el mail (o los mails)</span>
-<a id="rest_code_8f0964757af5419498e57081549e892e-34" name="rest_code_8f0964757af5419498e57081549e892e-34" href="#rest_code_8f0964757af5419498e57081549e892e-34"></a><span class="n">smtp</span><span class="o">.</span><span class="n">sendmail</span><span class="p">(</span><span class="n">msg</span><span class="p">[</span><span class="s1">'From'</span><span class="p">],</span> <span class="n">msg</span><span class="p">[</span><span class="s1">'To'</span><span class="p">],</span> <span class="n">msg</span><span class="o">.</span><span class="n">as_string</span><span class="p">())</span>
+<div class="code"><pre class="code python"><a id="rest_code_d8c2ab78d01a4d548593a91f7a37d884-1" name="rest_code_d8c2ab78d01a4d548593a91f7a37d884-1" href="#rest_code_d8c2ab78d01a4d548593a91f7a37d884-1"></a><span class="c1"># -*- coding: iso-8859-1 -*-</span>
+<a id="rest_code_d8c2ab78d01a4d548593a91f7a37d884-2" name="rest_code_d8c2ab78d01a4d548593a91f7a37d884-2" href="#rest_code_d8c2ab78d01a4d548593a91f7a37d884-2"></a><span class="kn">from</span><span class="w"> </span><span class="nn">email.mime.text</span><span class="w"> </span><span class="kn">import</span> <span class="n">MIMEText</span>
+<a id="rest_code_d8c2ab78d01a4d548593a91f7a37d884-3" name="rest_code_d8c2ab78d01a4d548593a91f7a37d884-3" href="#rest_code_d8c2ab78d01a4d548593a91f7a37d884-3"></a><span class="kn">from</span><span class="w"> </span><span class="nn">email.mime.application</span><span class="w"> </span><span class="kn">import</span> <span class="n">MIMEApplication</span>
+<a id="rest_code_d8c2ab78d01a4d548593a91f7a37d884-4" name="rest_code_d8c2ab78d01a4d548593a91f7a37d884-4" href="#rest_code_d8c2ab78d01a4d548593a91f7a37d884-4"></a><span class="kn">from</span><span class="w"> </span><span class="nn">email.mime.multipart</span><span class="w"> </span><span class="kn">import</span> <span class="n">MIMEMultipart</span>
+<a id="rest_code_d8c2ab78d01a4d548593a91f7a37d884-5" name="rest_code_d8c2ab78d01a4d548593a91f7a37d884-5" href="#rest_code_d8c2ab78d01a4d548593a91f7a37d884-5"></a><span class="kn">from</span><span class="w"> </span><span class="nn">smtplib</span><span class="w"> </span><span class="kn">import</span> <span class="n">SMTP</span>
+<a id="rest_code_d8c2ab78d01a4d548593a91f7a37d884-6" name="rest_code_d8c2ab78d01a4d548593a91f7a37d884-6" href="#rest_code_d8c2ab78d01a4d548593a91f7a37d884-6"></a>
+<a id="rest_code_d8c2ab78d01a4d548593a91f7a37d884-7" name="rest_code_d8c2ab78d01a4d548593a91f7a37d884-7" href="#rest_code_d8c2ab78d01a4d548593a91f7a37d884-7"></a><span class="n">msg</span> <span class="o">=</span> <span class="n">MIMEMultipart</span><span class="p">()</span>
+<a id="rest_code_d8c2ab78d01a4d548593a91f7a37d884-8" name="rest_code_d8c2ab78d01a4d548593a91f7a37d884-8" href="#rest_code_d8c2ab78d01a4d548593a91f7a37d884-8"></a><span class="n">msg</span><span class="p">[</span><span class="s1">'Subject'</span><span class="p">]</span> <span class="o">=</span> <span class="s1">'Esto es una prueba'</span>
+<a id="rest_code_d8c2ab78d01a4d548593a91f7a37d884-9" name="rest_code_d8c2ab78d01a4d548593a91f7a37d884-9" href="#rest_code_d8c2ab78d01a4d548593a91f7a37d884-9"></a><span class="n">msg</span><span class="p">[</span><span class="s1">'From'</span><span class="p">]</span> <span class="o">=</span> <span class="s1">'yo@example.com'</span>
+<a id="rest_code_d8c2ab78d01a4d548593a91f7a37d884-10" name="rest_code_d8c2ab78d01a4d548593a91f7a37d884-10" href="#rest_code_d8c2ab78d01a4d548593a91f7a37d884-10"></a><span class="n">msg</span><span class="p">[</span><span class="s1">'Reply-to'</span><span class="p">]</span> <span class="o">=</span> <span class="s1">'responder-aca@example.com'</span>
+<a id="rest_code_d8c2ab78d01a4d548593a91f7a37d884-11" name="rest_code_d8c2ab78d01a4d548593a91f7a37d884-11" href="#rest_code_d8c2ab78d01a4d548593a91f7a37d884-11"></a><span class="n">msg</span><span class="p">[</span><span class="s1">'To'</span><span class="p">]</span> <span class="o">=</span> <span class="s1">'vos@example.com'</span>
+<a id="rest_code_d8c2ab78d01a4d548593a91f7a37d884-12" name="rest_code_d8c2ab78d01a4d548593a91f7a37d884-12" href="#rest_code_d8c2ab78d01a4d548593a91f7a37d884-12"></a>
+<a id="rest_code_d8c2ab78d01a4d548593a91f7a37d884-13" name="rest_code_d8c2ab78d01a4d548593a91f7a37d884-13" href="#rest_code_d8c2ab78d01a4d548593a91f7a37d884-13"></a><span class="c1"># Esto es lo que se ve si uno no tiene un lector de mails como la gente:</span>
+<a id="rest_code_d8c2ab78d01a4d548593a91f7a37d884-14" name="rest_code_d8c2ab78d01a4d548593a91f7a37d884-14" href="#rest_code_d8c2ab78d01a4d548593a91f7a37d884-14"></a><span class="n">msg</span><span class="o">.</span><span class="n">preamble</span> <span class="o">=</span> <span class="s1">'Mensaje de multiples partes.</span><span class="se">\n</span><span class="s1">'</span>
+<a id="rest_code_d8c2ab78d01a4d548593a91f7a37d884-15" name="rest_code_d8c2ab78d01a4d548593a91f7a37d884-15" href="#rest_code_d8c2ab78d01a4d548593a91f7a37d884-15"></a>
+<a id="rest_code_d8c2ab78d01a4d548593a91f7a37d884-16" name="rest_code_d8c2ab78d01a4d548593a91f7a37d884-16" href="#rest_code_d8c2ab78d01a4d548593a91f7a37d884-16"></a><span class="c1"># Esta es la parte textual:</span>
+<a id="rest_code_d8c2ab78d01a4d548593a91f7a37d884-17" name="rest_code_d8c2ab78d01a4d548593a91f7a37d884-17" href="#rest_code_d8c2ab78d01a4d548593a91f7a37d884-17"></a><span class="n">part</span> <span class="o">=</span> <span class="n">MIMEText</span><span class="p">(</span><span class="s2">"Hola, te paso un archivo interesante"</span><span class="p">)</span>
+<a id="rest_code_d8c2ab78d01a4d548593a91f7a37d884-18" name="rest_code_d8c2ab78d01a4d548593a91f7a37d884-18" href="#rest_code_d8c2ab78d01a4d548593a91f7a37d884-18"></a><span class="n">msg</span><span class="o">.</span><span class="n">attach</span><span class="p">(</span><span class="n">part</span><span class="p">)</span>
+<a id="rest_code_d8c2ab78d01a4d548593a91f7a37d884-19" name="rest_code_d8c2ab78d01a4d548593a91f7a37d884-19" href="#rest_code_d8c2ab78d01a4d548593a91f7a37d884-19"></a>
+<a id="rest_code_d8c2ab78d01a4d548593a91f7a37d884-20" name="rest_code_d8c2ab78d01a4d548593a91f7a37d884-20" href="#rest_code_d8c2ab78d01a4d548593a91f7a37d884-20"></a><span class="c1"># Esta es la parte binaria (puede ser cualquier extensión):</span>
+<a id="rest_code_d8c2ab78d01a4d548593a91f7a37d884-21" name="rest_code_d8c2ab78d01a4d548593a91f7a37d884-21" href="#rest_code_d8c2ab78d01a4d548593a91f7a37d884-21"></a><span class="n">part</span> <span class="o">=</span> <span class="n">MIMEApplication</span><span class="p">(</span><span class="nb">open</span><span class="p">(</span><span class="s2">"factura.pdf"</span><span class="p">,</span><span class="s2">"rb"</span><span class="p">)</span><span class="o">.</span><span class="n">read</span><span class="p">())</span>
+<a id="rest_code_d8c2ab78d01a4d548593a91f7a37d884-22" name="rest_code_d8c2ab78d01a4d548593a91f7a37d884-22" href="#rest_code_d8c2ab78d01a4d548593a91f7a37d884-22"></a><span class="n">part</span><span class="o">.</span><span class="n">add_header</span><span class="p">(</span><span class="s1">'Content-Disposition'</span><span class="p">,</span> <span class="s1">'attachment'</span><span class="p">,</span> <span class="n">filename</span><span class="o">=</span><span class="s2">"factura.pdf"</span><span class="p">)</span>
+<a id="rest_code_d8c2ab78d01a4d548593a91f7a37d884-23" name="rest_code_d8c2ab78d01a4d548593a91f7a37d884-23" href="#rest_code_d8c2ab78d01a4d548593a91f7a37d884-23"></a><span class="n">msg</span><span class="o">.</span><span class="n">attach</span><span class="p">(</span><span class="n">part</span><span class="p">)</span>
+<a id="rest_code_d8c2ab78d01a4d548593a91f7a37d884-24" name="rest_code_d8c2ab78d01a4d548593a91f7a37d884-24" href="#rest_code_d8c2ab78d01a4d548593a91f7a37d884-24"></a>
+<a id="rest_code_d8c2ab78d01a4d548593a91f7a37d884-25" name="rest_code_d8c2ab78d01a4d548593a91f7a37d884-25" href="#rest_code_d8c2ab78d01a4d548593a91f7a37d884-25"></a><span class="c1"># Se pueden seguir agregando partes (texto, imágenes, datos binarios, etc.)</span>
+<a id="rest_code_d8c2ab78d01a4d548593a91f7a37d884-26" name="rest_code_d8c2ab78d01a4d548593a91f7a37d884-26" href="#rest_code_d8c2ab78d01a4d548593a91f7a37d884-26"></a>
+<a id="rest_code_d8c2ab78d01a4d548593a91f7a37d884-27" name="rest_code_d8c2ab78d01a4d548593a91f7a37d884-27" href="#rest_code_d8c2ab78d01a4d548593a91f7a37d884-27"></a><span class="c1"># Crear una instancia del servidor para envio de correo (hacerlo una sola vez)</span>
+<a id="rest_code_d8c2ab78d01a4d548593a91f7a37d884-28" name="rest_code_d8c2ab78d01a4d548593a91f7a37d884-28" href="#rest_code_d8c2ab78d01a4d548593a91f7a37d884-28"></a><span class="n">smtp</span> <span class="o">=</span> <span class="n">SMTP</span><span class="p">(</span><span class="s2">"smtp.example.com"</span><span class="p">)</span>
+<a id="rest_code_d8c2ab78d01a4d548593a91f7a37d884-29" name="rest_code_d8c2ab78d01a4d548593a91f7a37d884-29" href="#rest_code_d8c2ab78d01a4d548593a91f7a37d884-29"></a><span class="c1"># Iniciar sesión en el servidor (si es necesario):</span>
+<a id="rest_code_d8c2ab78d01a4d548593a91f7a37d884-30" name="rest_code_d8c2ab78d01a4d548593a91f7a37d884-30" href="#rest_code_d8c2ab78d01a4d548593a91f7a37d884-30"></a><span class="n">smtp</span><span class="o">.</span><span class="n">ehlo</span><span class="p">()</span>
+<a id="rest_code_d8c2ab78d01a4d548593a91f7a37d884-31" name="rest_code_d8c2ab78d01a4d548593a91f7a37d884-31" href="#rest_code_d8c2ab78d01a4d548593a91f7a37d884-31"></a><span class="n">smtp</span><span class="o">.</span><span class="n">login</span><span class="p">(</span><span class="s2">"yo@example.com"</span><span class="p">,</span> <span class="s2">"mipassword"</span><span class="p">)</span>
+<a id="rest_code_d8c2ab78d01a4d548593a91f7a37d884-32" name="rest_code_d8c2ab78d01a4d548593a91f7a37d884-32" href="#rest_code_d8c2ab78d01a4d548593a91f7a37d884-32"></a>
+<a id="rest_code_d8c2ab78d01a4d548593a91f7a37d884-33" name="rest_code_d8c2ab78d01a4d548593a91f7a37d884-33" href="#rest_code_d8c2ab78d01a4d548593a91f7a37d884-33"></a><span class="c1"># Enviar el mail (o los mails)</span>
+<a id="rest_code_d8c2ab78d01a4d548593a91f7a37d884-34" name="rest_code_d8c2ab78d01a4d548593a91f7a37d884-34" href="#rest_code_d8c2ab78d01a4d548593a91f7a37d884-34"></a><span class="n">smtp</span><span class="o">.</span><span class="n">sendmail</span><span class="p">(</span><span class="n">msg</span><span class="p">[</span><span class="s1">'From'</span><span class="p">],</span> <span class="n">msg</span><span class="p">[</span><span class="s1">'To'</span><span class="p">],</span> <span class="n">msg</span><span class="o">.</span><span class="n">as_string</span><span class="p">())</span>
 </pre></div>
 </section><section id="autor-autores"><h2>Autor / Autores:</h2>
 <p><a class="reference external" href="../../marianoreingart">MarianoReingart</a></p>
@@ -146,6 +156,6 @@ fro">
         captions: function(element) {
             return element.getElementsByTagName('img')[0].alt;
     }});
-    </script>
+    </script><script src="https://cdn.jsdelivr.net/gh/nextapps-de/flexsearch@0.8.0/dist/flexsearch.bundle.min.js"></script><script src="../../assets/js/flexsearch.js"></script>
 </body>
 </html>

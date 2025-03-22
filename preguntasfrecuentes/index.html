@@ -34,7 +34,7 @@ Sobre PyAr (el grupo de Usuarios)
 ¿Cómo participar?
 ¿Cómo se or">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2025-03-14T17:10:11-03:00">
+<meta property="article:published_time" content="2025-03-22T12:24:52-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
@@ -76,7 +76,17 @@ Sobre PyAr (el grupo de Usuarios)
                 </li>                
             </ul>
 </div>
-    </nav>
+
+    </nav><div id="search_bar">
+            <div id="search_overlay" style="display:none;">
+                <div id="search_content">
+                    <input type="text" id="search_input" placeholder="Buscar 🔎"><div id="search_count"></div>
+                    <div id="search_results"></div>
+                    <button id="boton_cerrar" onclick="closeSearch()">Cerrar (Esc)</button>
+                </div>
+            </div>
+            <input type="text" id="search_input_base" placeholder="Buscar en la wiki 🔎">
+</div>
 </div>
 
 <!-- Header and menu bar -->
@@ -218,47 +228,47 @@ Sobre PyAr (el grupo de Usuarios)
 <p>Las celdas son como cajones donde se guarda una variable para que pueda ser manipulada dentro de generadores, funciones y clases internos (closures).</p>
 <p>Técnicamente hablando, las funciones internas, clases, expresiones generadoras y demás pueden tener "variables libres" (ver ejemplos). Esas variables libres son las celdas, y se rellenan con un valor como cualquier variable - el chiste es que varios pedazos de código pueden apuntar a la misma celda (y por lo tanto modificar la misma variable).</p>
 <p>Ejemplo:</p>
-<div class="code"><pre class="code python"><a id="rest_code_bedf0d6eada648208d0ace1c0179423c-1" name="rest_code_bedf0d6eada648208d0ace1c0179423c-1" href="#rest_code_bedf0d6eada648208d0ace1c0179423c-1"></a><span class="k">def</span><span class="w"> </span><span class="nf">f</span><span class="p">(</span><span class="n">x</span><span class="p">):</span>
-<a id="rest_code_bedf0d6eada648208d0ace1c0179423c-2" name="rest_code_bedf0d6eada648208d0ace1c0179423c-2" href="#rest_code_bedf0d6eada648208d0ace1c0179423c-2"></a>   <span class="k">def</span><span class="w"> </span><span class="nf">g</span><span class="p">():</span>
-<a id="rest_code_bedf0d6eada648208d0ace1c0179423c-3" name="rest_code_bedf0d6eada648208d0ace1c0179423c-3" href="#rest_code_bedf0d6eada648208d0ace1c0179423c-3"></a>      <span class="k">return</span> <span class="n">x</span> <span class="o">+</span> <span class="mi">1</span>
-<a id="rest_code_bedf0d6eada648208d0ace1c0179423c-4" name="rest_code_bedf0d6eada648208d0ace1c0179423c-4" href="#rest_code_bedf0d6eada648208d0ace1c0179423c-4"></a>   <span class="k">return</span> <span class="n">g</span><span class="p">()</span>
-<a id="rest_code_bedf0d6eada648208d0ace1c0179423c-5" name="rest_code_bedf0d6eada648208d0ace1c0179423c-5" href="#rest_code_bedf0d6eada648208d0ace1c0179423c-5"></a>   <span class="c1"># aquí "x" se incrementó, x no es local a 'g'</span>
-<a id="rest_code_bedf0d6eada648208d0ace1c0179423c-6" name="rest_code_bedf0d6eada648208d0ace1c0179423c-6" href="#rest_code_bedf0d6eada648208d0ace1c0179423c-6"></a>   <span class="c1"># x es una celda en toda la función f</span>
-<a id="rest_code_bedf0d6eada648208d0ace1c0179423c-7" name="rest_code_bedf0d6eada648208d0ace1c0179423c-7" href="#rest_code_bedf0d6eada648208d0ace1c0179423c-7"></a>   <span class="c1"># para que pueda ser accedida desde g y f a la vez</span>
+<div class="code"><pre class="code python"><a id="rest_code_b406e811366b459db45ea3f7d8ce1688-1" name="rest_code_b406e811366b459db45ea3f7d8ce1688-1" href="#rest_code_b406e811366b459db45ea3f7d8ce1688-1"></a><span class="k">def</span><span class="w"> </span><span class="nf">f</span><span class="p">(</span><span class="n">x</span><span class="p">):</span>
+<a id="rest_code_b406e811366b459db45ea3f7d8ce1688-2" name="rest_code_b406e811366b459db45ea3f7d8ce1688-2" href="#rest_code_b406e811366b459db45ea3f7d8ce1688-2"></a>   <span class="k">def</span><span class="w"> </span><span class="nf">g</span><span class="p">():</span>
+<a id="rest_code_b406e811366b459db45ea3f7d8ce1688-3" name="rest_code_b406e811366b459db45ea3f7d8ce1688-3" href="#rest_code_b406e811366b459db45ea3f7d8ce1688-3"></a>      <span class="k">return</span> <span class="n">x</span> <span class="o">+</span> <span class="mi">1</span>
+<a id="rest_code_b406e811366b459db45ea3f7d8ce1688-4" name="rest_code_b406e811366b459db45ea3f7d8ce1688-4" href="#rest_code_b406e811366b459db45ea3f7d8ce1688-4"></a>   <span class="k">return</span> <span class="n">g</span><span class="p">()</span>
+<a id="rest_code_b406e811366b459db45ea3f7d8ce1688-5" name="rest_code_b406e811366b459db45ea3f7d8ce1688-5" href="#rest_code_b406e811366b459db45ea3f7d8ce1688-5"></a>   <span class="c1"># aquí "x" se incrementó, x no es local a 'g'</span>
+<a id="rest_code_b406e811366b459db45ea3f7d8ce1688-6" name="rest_code_b406e811366b459db45ea3f7d8ce1688-6" href="#rest_code_b406e811366b459db45ea3f7d8ce1688-6"></a>   <span class="c1"># x es una celda en toda la función f</span>
+<a id="rest_code_b406e811366b459db45ea3f7d8ce1688-7" name="rest_code_b406e811366b459db45ea3f7d8ce1688-7" href="#rest_code_b406e811366b459db45ea3f7d8ce1688-7"></a>   <span class="c1"># para que pueda ser accedida desde g y f a la vez</span>
 </pre></div>
 <p>Otro</p>
-<div class="code"><pre class="code python"><a id="rest_code_6453efb5a1cc4b4d84ff5792822879d3-1" name="rest_code_6453efb5a1cc4b4d84ff5792822879d3-1" href="#rest_code_6453efb5a1cc4b4d84ff5792822879d3-1"></a><span class="k">def</span><span class="w"> </span><span class="nf">f</span><span class="p">(</span><span class="n">l</span><span class="p">):</span>
-<a id="rest_code_6453efb5a1cc4b4d84ff5792822879d3-2" name="rest_code_6453efb5a1cc4b4d84ff5792822879d3-2" href="#rest_code_6453efb5a1cc4b4d84ff5792822879d3-2"></a>   <span class="n">escala</span> <span class="o">=</span> <span class="nb">sum</span><span class="p">(</span><span class="n">l</span><span class="p">)</span>
-<a id="rest_code_6453efb5a1cc4b4d84ff5792822879d3-3" name="rest_code_6453efb5a1cc4b4d84ff5792822879d3-3" href="#rest_code_6453efb5a1cc4b4d84ff5792822879d3-3"></a>   <span class="k">return</span> <span class="nb">set</span><span class="p">(</span> <span class="n">x</span> <span class="o">/</span> <span class="n">escala</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">l</span> <span class="p">)</span>
-<a id="rest_code_6453efb5a1cc4b4d84ff5792822879d3-4" name="rest_code_6453efb5a1cc4b4d84ff5792822879d3-4" href="#rest_code_6453efb5a1cc4b4d84ff5792822879d3-4"></a>   <span class="c1"># escala es una celda porque "x / escala for x in l"</span>
-<a id="rest_code_6453efb5a1cc4b4d84ff5792822879d3-5" name="rest_code_6453efb5a1cc4b4d84ff5792822879d3-5" href="#rest_code_6453efb5a1cc4b4d84ff5792822879d3-5"></a>   <span class="c1"># es una expresión generadora, y su única forma de</span>
-<a id="rest_code_6453efb5a1cc4b4d84ff5792822879d3-6" name="rest_code_6453efb5a1cc4b4d84ff5792822879d3-6" href="#rest_code_6453efb5a1cc4b4d84ff5792822879d3-6"></a>   <span class="c1"># acceder a "escala" es a través de la celda</span>
+<div class="code"><pre class="code python"><a id="rest_code_4fa5a4ff92f044e2a9bbfff63a247356-1" name="rest_code_4fa5a4ff92f044e2a9bbfff63a247356-1" href="#rest_code_4fa5a4ff92f044e2a9bbfff63a247356-1"></a><span class="k">def</span><span class="w"> </span><span class="nf">f</span><span class="p">(</span><span class="n">l</span><span class="p">):</span>
+<a id="rest_code_4fa5a4ff92f044e2a9bbfff63a247356-2" name="rest_code_4fa5a4ff92f044e2a9bbfff63a247356-2" href="#rest_code_4fa5a4ff92f044e2a9bbfff63a247356-2"></a>   <span class="n">escala</span> <span class="o">=</span> <span class="nb">sum</span><span class="p">(</span><span class="n">l</span><span class="p">)</span>
+<a id="rest_code_4fa5a4ff92f044e2a9bbfff63a247356-3" name="rest_code_4fa5a4ff92f044e2a9bbfff63a247356-3" href="#rest_code_4fa5a4ff92f044e2a9bbfff63a247356-3"></a>   <span class="k">return</span> <span class="nb">set</span><span class="p">(</span> <span class="n">x</span> <span class="o">/</span> <span class="n">escala</span> <span class="k">for</span> <span class="n">x</span> <span class="ow">in</span> <span class="n">l</span> <span class="p">)</span>
+<a id="rest_code_4fa5a4ff92f044e2a9bbfff63a247356-4" name="rest_code_4fa5a4ff92f044e2a9bbfff63a247356-4" href="#rest_code_4fa5a4ff92f044e2a9bbfff63a247356-4"></a>   <span class="c1"># escala es una celda porque "x / escala for x in l"</span>
+<a id="rest_code_4fa5a4ff92f044e2a9bbfff63a247356-5" name="rest_code_4fa5a4ff92f044e2a9bbfff63a247356-5" href="#rest_code_4fa5a4ff92f044e2a9bbfff63a247356-5"></a>   <span class="c1"># es una expresión generadora, y su única forma de</span>
+<a id="rest_code_4fa5a4ff92f044e2a9bbfff63a247356-6" name="rest_code_4fa5a4ff92f044e2a9bbfff63a247356-6" href="#rest_code_4fa5a4ff92f044e2a9bbfff63a247356-6"></a>   <span class="c1"># acceder a "escala" es a través de la celda</span>
 </pre></div>
 <p>Es importante saber cuáles de nuestras variables son celdas y cuáles simplemente locales, porque la sintaxis de Python nos prohíbe borrar celdas, no así variables locales:</p>
-<div class="code"><pre class="code python"><a id="rest_code_1b06450d56c44f75bc07c94d07864ded-1" name="rest_code_1b06450d56c44f75bc07c94d07864ded-1" href="#rest_code_1b06450d56c44f75bc07c94d07864ded-1"></a><span class="k">def</span><span class="w"> </span><span class="nf">f</span><span class="p">(</span><span class="n">x</span><span class="p">):</span>
-<a id="rest_code_1b06450d56c44f75bc07c94d07864ded-2" name="rest_code_1b06450d56c44f75bc07c94d07864ded-2" href="#rest_code_1b06450d56c44f75bc07c94d07864ded-2"></a>   <span class="n">rv</span> <span class="o">=</span> <span class="nb">set</span><span class="p">(</span> <span class="p">[</span> <span class="n">i</span><span class="o">*</span><span class="n">x</span> <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="n">xrange</span><span class="p">(</span><span class="mi">10</span><span class="p">)</span> <span class="p">]</span> <span class="p">)</span>
-<a id="rest_code_1b06450d56c44f75bc07c94d07864ded-3" name="rest_code_1b06450d56c44f75bc07c94d07864ded-3" href="#rest_code_1b06450d56c44f75bc07c94d07864ded-3"></a>   <span class="k">del</span> <span class="n">x</span> <span class="c1"># bizarro pero ok</span>
-<a id="rest_code_1b06450d56c44f75bc07c94d07864ded-4" name="rest_code_1b06450d56c44f75bc07c94d07864ded-4" href="#rest_code_1b06450d56c44f75bc07c94d07864ded-4"></a>   <span class="k">return</span> <span class="n">rv</span>
-<a id="rest_code_1b06450d56c44f75bc07c94d07864ded-5" name="rest_code_1b06450d56c44f75bc07c94d07864ded-5" href="#rest_code_1b06450d56c44f75bc07c94d07864ded-5"></a>
-<a id="rest_code_1b06450d56c44f75bc07c94d07864ded-6" name="rest_code_1b06450d56c44f75bc07c94d07864ded-6" href="#rest_code_1b06450d56c44f75bc07c94d07864ded-6"></a><span class="k">def</span><span class="w"> </span><span class="nf">g</span><span class="p">(</span><span class="n">x</span><span class="p">):</span>
-<a id="rest_code_1b06450d56c44f75bc07c94d07864ded-7" name="rest_code_1b06450d56c44f75bc07c94d07864ded-7" href="#rest_code_1b06450d56c44f75bc07c94d07864ded-7"></a>   <span class="n">rv</span> <span class="o">=</span> <span class="nb">set</span><span class="p">(</span> <span class="n">i</span><span class="o">*</span><span class="n">x</span> <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="n">xrange</span><span class="p">(</span><span class="mi">10</span><span class="p">)</span> <span class="p">)</span>
-<a id="rest_code_1b06450d56c44f75bc07c94d07864ded-8" name="rest_code_1b06450d56c44f75bc07c94d07864ded-8" href="#rest_code_1b06450d56c44f75bc07c94d07864ded-8"></a>   <span class="k">del</span> <span class="n">x</span> <span class="c1"># error de sintaxis, no se pueden borrar celdas</span>
-<a id="rest_code_1b06450d56c44f75bc07c94d07864ded-9" name="rest_code_1b06450d56c44f75bc07c94d07864ded-9" href="#rest_code_1b06450d56c44f75bc07c94d07864ded-9"></a>   <span class="k">return</span> <span class="n">rv</span>
+<div class="code"><pre class="code python"><a id="rest_code_1bfddcb08cf94e1f947ed2db7bff9e8f-1" name="rest_code_1bfddcb08cf94e1f947ed2db7bff9e8f-1" href="#rest_code_1bfddcb08cf94e1f947ed2db7bff9e8f-1"></a><span class="k">def</span><span class="w"> </span><span class="nf">f</span><span class="p">(</span><span class="n">x</span><span class="p">):</span>
+<a id="rest_code_1bfddcb08cf94e1f947ed2db7bff9e8f-2" name="rest_code_1bfddcb08cf94e1f947ed2db7bff9e8f-2" href="#rest_code_1bfddcb08cf94e1f947ed2db7bff9e8f-2"></a>   <span class="n">rv</span> <span class="o">=</span> <span class="nb">set</span><span class="p">(</span> <span class="p">[</span> <span class="n">i</span><span class="o">*</span><span class="n">x</span> <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="n">xrange</span><span class="p">(</span><span class="mi">10</span><span class="p">)</span> <span class="p">]</span> <span class="p">)</span>
+<a id="rest_code_1bfddcb08cf94e1f947ed2db7bff9e8f-3" name="rest_code_1bfddcb08cf94e1f947ed2db7bff9e8f-3" href="#rest_code_1bfddcb08cf94e1f947ed2db7bff9e8f-3"></a>   <span class="k">del</span> <span class="n">x</span> <span class="c1"># bizarro pero ok</span>
+<a id="rest_code_1bfddcb08cf94e1f947ed2db7bff9e8f-4" name="rest_code_1bfddcb08cf94e1f947ed2db7bff9e8f-4" href="#rest_code_1bfddcb08cf94e1f947ed2db7bff9e8f-4"></a>   <span class="k">return</span> <span class="n">rv</span>
+<a id="rest_code_1bfddcb08cf94e1f947ed2db7bff9e8f-5" name="rest_code_1bfddcb08cf94e1f947ed2db7bff9e8f-5" href="#rest_code_1bfddcb08cf94e1f947ed2db7bff9e8f-5"></a>
+<a id="rest_code_1bfddcb08cf94e1f947ed2db7bff9e8f-6" name="rest_code_1bfddcb08cf94e1f947ed2db7bff9e8f-6" href="#rest_code_1bfddcb08cf94e1f947ed2db7bff9e8f-6"></a><span class="k">def</span><span class="w"> </span><span class="nf">g</span><span class="p">(</span><span class="n">x</span><span class="p">):</span>
+<a id="rest_code_1bfddcb08cf94e1f947ed2db7bff9e8f-7" name="rest_code_1bfddcb08cf94e1f947ed2db7bff9e8f-7" href="#rest_code_1bfddcb08cf94e1f947ed2db7bff9e8f-7"></a>   <span class="n">rv</span> <span class="o">=</span> <span class="nb">set</span><span class="p">(</span> <span class="n">i</span><span class="o">*</span><span class="n">x</span> <span class="k">for</span> <span class="n">i</span> <span class="ow">in</span> <span class="n">xrange</span><span class="p">(</span><span class="mi">10</span><span class="p">)</span> <span class="p">)</span>
+<a id="rest_code_1bfddcb08cf94e1f947ed2db7bff9e8f-8" name="rest_code_1bfddcb08cf94e1f947ed2db7bff9e8f-8" href="#rest_code_1bfddcb08cf94e1f947ed2db7bff9e8f-8"></a>   <span class="k">del</span> <span class="n">x</span> <span class="c1"># error de sintaxis, no se pueden borrar celdas</span>
+<a id="rest_code_1bfddcb08cf94e1f947ed2db7bff9e8f-9" name="rest_code_1bfddcb08cf94e1f947ed2db7bff9e8f-9" href="#rest_code_1bfddcb08cf94e1f947ed2db7bff9e8f-9"></a>   <span class="k">return</span> <span class="n">rv</span>
 </pre></div>
 <p>Nótese que en <em>f</em>, x no es una celda porque ocurre en una expresión de lista por comprensión - que se parece, pero no es un generador.</p>
 </section><section id="que-son-los-fastlocals"><h3><a class="toc-backref" href="#toc-entry-20" role="doc-backlink">¿Qué son los ''fastlocals''?</a></h3>
 <p>La documentación de Python sólo menciona un <em>scope lógico local</em>, el "local".  Tiene sentido, puesto que las variables son o locales, o globales, o celdas (ver pregunta anterior).</p>
 <p>Las variables locales todos las conocemos:</p>
-<div class="code"><pre class="code python"><a id="rest_code_48661fed68c8440c8a359d9af54b197b-1" name="rest_code_48661fed68c8440c8a359d9af54b197b-1" href="#rest_code_48661fed68c8440c8a359d9af54b197b-1"></a><span class="k">def</span><span class="w"> </span><span class="nf">f</span><span class="p">():</span>
-<a id="rest_code_48661fed68c8440c8a359d9af54b197b-2" name="rest_code_48661fed68c8440c8a359d9af54b197b-2" href="#rest_code_48661fed68c8440c8a359d9af54b197b-2"></a>   <span class="n">x</span> <span class="o">=</span> <span class="mi">4</span> <span class="c1"># x es local</span>
+<div class="code"><pre class="code python"><a id="rest_code_9d19fa37a52644e59ee82ab5d2801900-1" name="rest_code_9d19fa37a52644e59ee82ab5d2801900-1" href="#rest_code_9d19fa37a52644e59ee82ab5d2801900-1"></a><span class="k">def</span><span class="w"> </span><span class="nf">f</span><span class="p">():</span>
+<a id="rest_code_9d19fa37a52644e59ee82ab5d2801900-2" name="rest_code_9d19fa37a52644e59ee82ab5d2801900-2" href="#rest_code_9d19fa37a52644e59ee82ab5d2801900-2"></a>   <span class="n">x</span> <span class="o">=</span> <span class="mi">4</span> <span class="c1"># x es local</span>
 </pre></div>
 <p>Los parámetros de una función también son variables locales. Por ende, self, en una función de una instancia, es también una variable local.</p>
 <p>Las variables globales todos las conocemos también:</p>
-<div class="code"><pre class="code python"><a id="rest_code_406bcfa6e2884a9a88896253c82bb7cf-1" name="rest_code_406bcfa6e2884a9a88896253c82bb7cf-1" href="#rest_code_406bcfa6e2884a9a88896253c82bb7cf-1"></a><span class="n">llamadas</span> <span class="o">=</span> <span class="mi">0</span>
-<a id="rest_code_406bcfa6e2884a9a88896253c82bb7cf-2" name="rest_code_406bcfa6e2884a9a88896253c82bb7cf-2" href="#rest_code_406bcfa6e2884a9a88896253c82bb7cf-2"></a>
-<a id="rest_code_406bcfa6e2884a9a88896253c82bb7cf-3" name="rest_code_406bcfa6e2884a9a88896253c82bb7cf-3" href="#rest_code_406bcfa6e2884a9a88896253c82bb7cf-3"></a><span class="k">def</span><span class="w"> </span><span class="nf">f</span><span class="p">():</span>
-<a id="rest_code_406bcfa6e2884a9a88896253c82bb7cf-4" name="rest_code_406bcfa6e2884a9a88896253c82bb7cf-4" href="#rest_code_406bcfa6e2884a9a88896253c82bb7cf-4"></a>   <span class="k">global</span> <span class="n">llamadas</span> <span class="c1"># llamadas es global</span>
-<a id="rest_code_406bcfa6e2884a9a88896253c82bb7cf-5" name="rest_code_406bcfa6e2884a9a88896253c82bb7cf-5" href="#rest_code_406bcfa6e2884a9a88896253c82bb7cf-5"></a>   <span class="n">llamadas</span> <span class="o">+=</span> <span class="mi">1</span>
+<div class="code"><pre class="code python"><a id="rest_code_441537f169f74d5bb8e18815a8336ddc-1" name="rest_code_441537f169f74d5bb8e18815a8336ddc-1" href="#rest_code_441537f169f74d5bb8e18815a8336ddc-1"></a><span class="n">llamadas</span> <span class="o">=</span> <span class="mi">0</span>
+<a id="rest_code_441537f169f74d5bb8e18815a8336ddc-2" name="rest_code_441537f169f74d5bb8e18815a8336ddc-2" href="#rest_code_441537f169f74d5bb8e18815a8336ddc-2"></a>
+<a id="rest_code_441537f169f74d5bb8e18815a8336ddc-3" name="rest_code_441537f169f74d5bb8e18815a8336ddc-3" href="#rest_code_441537f169f74d5bb8e18815a8336ddc-3"></a><span class="k">def</span><span class="w"> </span><span class="nf">f</span><span class="p">():</span>
+<a id="rest_code_441537f169f74d5bb8e18815a8336ddc-4" name="rest_code_441537f169f74d5bb8e18815a8336ddc-4" href="#rest_code_441537f169f74d5bb8e18815a8336ddc-4"></a>   <span class="k">global</span> <span class="n">llamadas</span> <span class="c1"># llamadas es global</span>
+<a id="rest_code_441537f169f74d5bb8e18815a8336ddc-5" name="rest_code_441537f169f74d5bb8e18815a8336ddc-5" href="#rest_code_441537f169f74d5bb8e18815a8336ddc-5"></a>   <span class="n">llamadas</span> <span class="o">+=</span> <span class="mi">1</span>
 </pre></div>
 <p>Las variables globales son <em>"locales al módulo"</em>. Dentro de otro módulo, habrá otras globales.</p>
 <p>Las "más globales de las globales" serían las variables globales del módulo <em>"</em><span class="underline">builtin`*"*, puesto que cuando un nombre no se encuentra ni entre las locales ni entre las globales del módulo, se busca en el módulo :underline:`builtin</span>.</p>
@@ -270,26 +280,26 @@ Sobre PyAr (el grupo de Usuarios)
 <p>Esas son <strong>"fastlocals"</strong>.</p>
 <p>Casi todas las variables locales que se declaren van a ser rápidas. La única forma que conozco de generar variables locales lentas es con <em>import *</em> (en el scope local de una función, lo que es muy poco común), o especificando un diccionario de locales con <em>eval()</em></p>
 <p>La forma de "declarar" una variable de este tipo es simplemente asignandole un valor:</p>
-<div class="code"><pre class="code python"><a id="rest_code_6e9d9460113c4b4da795b956b135066e-1" name="rest_code_6e9d9460113c4b4da795b956b135066e-1" href="#rest_code_6e9d9460113c4b4da795b956b135066e-1"></a><span class="k">def</span><span class="w"> </span><span class="nf">f</span><span class="p">(</span><span class="o">...</span><span class="p">):</span>
-<a id="rest_code_6e9d9460113c4b4da795b956b135066e-2" name="rest_code_6e9d9460113c4b4da795b956b135066e-2" href="#rest_code_6e9d9460113c4b4da795b956b135066e-2"></a>   <span class="o">...</span>
-<a id="rest_code_6e9d9460113c4b4da795b956b135066e-3" name="rest_code_6e9d9460113c4b4da795b956b135066e-3" href="#rest_code_6e9d9460113c4b4da795b956b135066e-3"></a>   <span class="n">x</span> <span class="o">=</span> <span class="mi">5</span>
-<a id="rest_code_6e9d9460113c4b4da795b956b135066e-4" name="rest_code_6e9d9460113c4b4da795b956b135066e-4" href="#rest_code_6e9d9460113c4b4da795b956b135066e-4"></a>   <span class="o">...</span>
+<div class="code"><pre class="code python"><a id="rest_code_ffd873ba41f84b54994ad601923f8a03-1" name="rest_code_ffd873ba41f84b54994ad601923f8a03-1" href="#rest_code_ffd873ba41f84b54994ad601923f8a03-1"></a><span class="k">def</span><span class="w"> </span><span class="nf">f</span><span class="p">(</span><span class="o">...</span><span class="p">):</span>
+<a id="rest_code_ffd873ba41f84b54994ad601923f8a03-2" name="rest_code_ffd873ba41f84b54994ad601923f8a03-2" href="#rest_code_ffd873ba41f84b54994ad601923f8a03-2"></a>   <span class="o">...</span>
+<a id="rest_code_ffd873ba41f84b54994ad601923f8a03-3" name="rest_code_ffd873ba41f84b54994ad601923f8a03-3" href="#rest_code_ffd873ba41f84b54994ad601923f8a03-3"></a>   <span class="n">x</span> <span class="o">=</span> <span class="mi">5</span>
+<a id="rest_code_ffd873ba41f84b54994ad601923f8a03-4" name="rest_code_ffd873ba41f84b54994ad601923f8a03-4" href="#rest_code_ffd873ba41f84b54994ad601923f8a03-4"></a>   <span class="o">...</span>
 </pre></div>
 <p>Esto ya define a "x" como variable local rápida. Y ojo, <strong>tiene ese status en todo el bloque.</strong></p>
 <p>O sea que cosas como esta no van a funcionar:</p>
-<div class="code"><pre class="code python"><a id="rest_code_9fd26d77aab74e97be1f9c55edf50932-1" name="rest_code_9fd26d77aab74e97be1f9c55edf50932-1" href="#rest_code_9fd26d77aab74e97be1f9c55edf50932-1"></a><span class="k">def</span><span class="w"> </span><span class="nf">f</span><span class="p">():</span>
-<a id="rest_code_9fd26d77aab74e97be1f9c55edf50932-2" name="rest_code_9fd26d77aab74e97be1f9c55edf50932-2" href="#rest_code_9fd26d77aab74e97be1f9c55edf50932-2"></a>   <span class="k">if</span> <span class="n">x</span> <span class="o">!=</span> <span class="mi">3</span><span class="p">:</span>
-<a id="rest_code_9fd26d77aab74e97be1f9c55edf50932-3" name="rest_code_9fd26d77aab74e97be1f9c55edf50932-3" href="#rest_code_9fd26d77aab74e97be1f9c55edf50932-3"></a>     <span class="o">...</span>
-<a id="rest_code_9fd26d77aab74e97be1f9c55edf50932-4" name="rest_code_9fd26d77aab74e97be1f9c55edf50932-4" href="#rest_code_9fd26d77aab74e97be1f9c55edf50932-4"></a>   <span class="o">...</span>
-<a id="rest_code_9fd26d77aab74e97be1f9c55edf50932-5" name="rest_code_9fd26d77aab74e97be1f9c55edf50932-5" href="#rest_code_9fd26d77aab74e97be1f9c55edf50932-5"></a>   <span class="n">x</span> <span class="o">=</span> <span class="mi">5</span>
+<div class="code"><pre class="code python"><a id="rest_code_807631201ced4e2bbb22fc5924190c88-1" name="rest_code_807631201ced4e2bbb22fc5924190c88-1" href="#rest_code_807631201ced4e2bbb22fc5924190c88-1"></a><span class="k">def</span><span class="w"> </span><span class="nf">f</span><span class="p">():</span>
+<a id="rest_code_807631201ced4e2bbb22fc5924190c88-2" name="rest_code_807631201ced4e2bbb22fc5924190c88-2" href="#rest_code_807631201ced4e2bbb22fc5924190c88-2"></a>   <span class="k">if</span> <span class="n">x</span> <span class="o">!=</span> <span class="mi">3</span><span class="p">:</span>
+<a id="rest_code_807631201ced4e2bbb22fc5924190c88-3" name="rest_code_807631201ced4e2bbb22fc5924190c88-3" href="#rest_code_807631201ced4e2bbb22fc5924190c88-3"></a>     <span class="o">...</span>
+<a id="rest_code_807631201ced4e2bbb22fc5924190c88-4" name="rest_code_807631201ced4e2bbb22fc5924190c88-4" href="#rest_code_807631201ced4e2bbb22fc5924190c88-4"></a>   <span class="o">...</span>
+<a id="rest_code_807631201ced4e2bbb22fc5924190c88-5" name="rest_code_807631201ced4e2bbb22fc5924190c88-5" href="#rest_code_807631201ced4e2bbb22fc5924190c88-5"></a>   <span class="n">x</span> <span class="o">=</span> <span class="mi">5</span>
 </pre></div>
 <p>¿Por qué no? Porque x es local incluso cuando se accede en 'x != 3', y a esa altura, nunca fue asignada. Muchos pensarían que python va a ir a buscar una variable global llamada 'x' - nop... no es así. La simple asignación a x la define implícitamente como variable local y no global. Si queremos que sea global (y que la asignación cambie el valor de la variable global), hay que hacer:</p>
-<div class="code"><pre class="code python"><a id="rest_code_823f9a8d211e42e3aa5959bb16eba825-1" name="rest_code_823f9a8d211e42e3aa5959bb16eba825-1" href="#rest_code_823f9a8d211e42e3aa5959bb16eba825-1"></a><span class="k">def</span><span class="w"> </span><span class="nf">f</span><span class="p">():</span>
-<a id="rest_code_823f9a8d211e42e3aa5959bb16eba825-2" name="rest_code_823f9a8d211e42e3aa5959bb16eba825-2" href="#rest_code_823f9a8d211e42e3aa5959bb16eba825-2"></a>   <span class="k">global</span> <span class="n">x</span>
-<a id="rest_code_823f9a8d211e42e3aa5959bb16eba825-3" name="rest_code_823f9a8d211e42e3aa5959bb16eba825-3" href="#rest_code_823f9a8d211e42e3aa5959bb16eba825-3"></a>   <span class="k">if</span> <span class="n">x</span> <span class="o">!=</span> <span class="mi">3</span><span class="p">:</span>
-<a id="rest_code_823f9a8d211e42e3aa5959bb16eba825-4" name="rest_code_823f9a8d211e42e3aa5959bb16eba825-4" href="#rest_code_823f9a8d211e42e3aa5959bb16eba825-4"></a>     <span class="o">...</span>
-<a id="rest_code_823f9a8d211e42e3aa5959bb16eba825-5" name="rest_code_823f9a8d211e42e3aa5959bb16eba825-5" href="#rest_code_823f9a8d211e42e3aa5959bb16eba825-5"></a>   <span class="o">...</span>
-<a id="rest_code_823f9a8d211e42e3aa5959bb16eba825-6" name="rest_code_823f9a8d211e42e3aa5959bb16eba825-6" href="#rest_code_823f9a8d211e42e3aa5959bb16eba825-6"></a>   <span class="n">x</span> <span class="o">=</span> <span class="mi">5</span>
+<div class="code"><pre class="code python"><a id="rest_code_bfd674c6b3384c77b6a202ed27ed64e7-1" name="rest_code_bfd674c6b3384c77b6a202ed27ed64e7-1" href="#rest_code_bfd674c6b3384c77b6a202ed27ed64e7-1"></a><span class="k">def</span><span class="w"> </span><span class="nf">f</span><span class="p">():</span>
+<a id="rest_code_bfd674c6b3384c77b6a202ed27ed64e7-2" name="rest_code_bfd674c6b3384c77b6a202ed27ed64e7-2" href="#rest_code_bfd674c6b3384c77b6a202ed27ed64e7-2"></a>   <span class="k">global</span> <span class="n">x</span>
+<a id="rest_code_bfd674c6b3384c77b6a202ed27ed64e7-3" name="rest_code_bfd674c6b3384c77b6a202ed27ed64e7-3" href="#rest_code_bfd674c6b3384c77b6a202ed27ed64e7-3"></a>   <span class="k">if</span> <span class="n">x</span> <span class="o">!=</span> <span class="mi">3</span><span class="p">:</span>
+<a id="rest_code_bfd674c6b3384c77b6a202ed27ed64e7-4" name="rest_code_bfd674c6b3384c77b6a202ed27ed64e7-4" href="#rest_code_bfd674c6b3384c77b6a202ed27ed64e7-4"></a>     <span class="o">...</span>
+<a id="rest_code_bfd674c6b3384c77b6a202ed27ed64e7-5" name="rest_code_bfd674c6b3384c77b6a202ed27ed64e7-5" href="#rest_code_bfd674c6b3384c77b6a202ed27ed64e7-5"></a>   <span class="o">...</span>
+<a id="rest_code_bfd674c6b3384c77b6a202ed27ed64e7-6" name="rest_code_bfd674c6b3384c77b6a202ed27ed64e7-6" href="#rest_code_bfd674c6b3384c77b6a202ed27ed64e7-6"></a>   <span class="n">x</span> <span class="o">=</span> <span class="mi">5</span>
 </pre></div>
 </section></section><section id="sobre-python-el-interprete"><h2><a class="toc-backref" href="#toc-entry-21" role="doc-backlink">Sobre Python (el intérprete)</a></h2>
 <section id="cuales-son-los-interpretes-que-puedo-usar"><h3><a class="toc-backref" href="#toc-entry-22" role="doc-backlink">¿Cuáles son los intérpretes que puedo usar?</a></h3>
@@ -383,7 +393,7 @@ Sobre PyAr (el grupo de Usuarios)
 <section id="hay-alguna-forma-de-saber-la-ruta-path-del-archivo-actual"><h3><a class="toc-backref" href="#toc-entry-41" role="doc-backlink">¿Hay alguna forma de saber la ruta (path) del archivo actual?</a></h3>
 <p><a class="reference external" href="../marianoguerra">MarianoGuerra</a> preguntó esto en este hilo: <a class="reference external" href="http://mx.grulic.org.ar/lurker/thread/20080719.055432.4df0ac40.es.html">http://mx.grulic.org.ar/lurker/thread/20080719.055432.4df0ac40.es.html</a> Esencialmente, el problema es saber la ruta absoluta del script python que se está ejecutando</p>
 <p>La respuesta que le dio MartinBothiry es hacer:</p>
-<div class="code"><pre class="code python"><a id="rest_code_86cd2aab130b4fa5b060a42dff5d0d8a-1" name="rest_code_86cd2aab130b4fa5b060a42dff5d0d8a-1" href="#rest_code_86cd2aab130b4fa5b060a42dff5d0d8a-1"></a><span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">abspath</span><span class="p">(</span><span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">dirname</span><span class="p">(</span><span class="vm">__file__</span><span class="p">))</span>
+<div class="code"><pre class="code python"><a id="rest_code_89a5960acc5442148e7fe3b04fef607c-1" name="rest_code_89a5960acc5442148e7fe3b04fef607c-1" href="#rest_code_89a5960acc5442148e7fe3b04fef607c-1"></a><span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">abspath</span><span class="p">(</span><span class="n">os</span><span class="o">.</span><span class="n">path</span><span class="o">.</span><span class="n">dirname</span><span class="p">(</span><span class="vm">__file__</span><span class="p">))</span>
 </pre></div>
 </section><section id="uso-el-modulo-array-o-listas"><h3><a class="toc-backref" href="#toc-entry-42" role="doc-backlink">¿Uso el modulo array o listas?</a></h3>
 <p><a class="reference external" href="../sebastianbassi">SebastianBassi</a> preguntó en este hilo: <a class="reference external" href="http://mx.grulic.org.ar/lurker/thread/20090803.144308.0aabeb1b.en.html">http://mx.grulic.org.ar/lurker/thread/20090803.144308.0aabeb1b.en.html</a></p>
@@ -403,16 +413,16 @@ Sobre PyAr (el grupo de Usuarios)
 </ul></section><section id="a-veces-el-is-me-dice-una-cosa-y-otras-otra-funciona-mal"><h3><a class="toc-backref" href="#toc-entry-43" role="doc-backlink">A veces el "is" me dice una cosa y otras otra, ¿funciona mal?</a></h3>
 <p>"is" no falla, compara si dos objetos son el mismo (no si son iguales).</p>
 <p>En algunos casos, ofrece resultado que a primera vista sorprenden...</p>
-<div class="code"><pre class="code python"><a id="rest_code_d5d23b371b664896af2b22d638a6255c-1" name="rest_code_d5d23b371b664896af2b22d638a6255c-1" href="#rest_code_d5d23b371b664896af2b22d638a6255c-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">a</span> <span class="o">=</span> <span class="mi">3</span>
-<a id="rest_code_d5d23b371b664896af2b22d638a6255c-2" name="rest_code_d5d23b371b664896af2b22d638a6255c-2" href="#rest_code_d5d23b371b664896af2b22d638a6255c-2"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">b</span> <span class="o">=</span> <span class="mi">3</span>
-<a id="rest_code_d5d23b371b664896af2b22d638a6255c-3" name="rest_code_d5d23b371b664896af2b22d638a6255c-3" href="#rest_code_d5d23b371b664896af2b22d638a6255c-3"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">a</span> <span class="ow">is</span> <span class="n">b</span>
-<a id="rest_code_d5d23b371b664896af2b22d638a6255c-4" name="rest_code_d5d23b371b664896af2b22d638a6255c-4" href="#rest_code_d5d23b371b664896af2b22d638a6255c-4"></a><span class="kc">True</span>
+<div class="code"><pre class="code python"><a id="rest_code_9d6e155e67ba4969bc9953dfc6190015-1" name="rest_code_9d6e155e67ba4969bc9953dfc6190015-1" href="#rest_code_9d6e155e67ba4969bc9953dfc6190015-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">a</span> <span class="o">=</span> <span class="mi">3</span>
+<a id="rest_code_9d6e155e67ba4969bc9953dfc6190015-2" name="rest_code_9d6e155e67ba4969bc9953dfc6190015-2" href="#rest_code_9d6e155e67ba4969bc9953dfc6190015-2"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">b</span> <span class="o">=</span> <span class="mi">3</span>
+<a id="rest_code_9d6e155e67ba4969bc9953dfc6190015-3" name="rest_code_9d6e155e67ba4969bc9953dfc6190015-3" href="#rest_code_9d6e155e67ba4969bc9953dfc6190015-3"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">a</span> <span class="ow">is</span> <span class="n">b</span>
+<a id="rest_code_9d6e155e67ba4969bc9953dfc6190015-4" name="rest_code_9d6e155e67ba4969bc9953dfc6190015-4" href="#rest_code_9d6e155e67ba4969bc9953dfc6190015-4"></a><span class="kc">True</span>
 </pre></div>
 <p>En este caso a apunta a un 3 en memoria, y b apunta al mismo 3 en memoria. Python no creó dos objetos "3", sino que usó el mismo para los nombres a y b.</p>
-<div class="code"><pre class="code python"><a id="rest_code_bfecda0c560748dab0cdcce95c67243f-1" name="rest_code_bfecda0c560748dab0cdcce95c67243f-1" href="#rest_code_bfecda0c560748dab0cdcce95c67243f-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">a</span> <span class="o">=</span> <span class="mi">500</span>
-<a id="rest_code_bfecda0c560748dab0cdcce95c67243f-2" name="rest_code_bfecda0c560748dab0cdcce95c67243f-2" href="#rest_code_bfecda0c560748dab0cdcce95c67243f-2"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">b</span> <span class="o">=</span> <span class="mi">500</span>
-<a id="rest_code_bfecda0c560748dab0cdcce95c67243f-3" name="rest_code_bfecda0c560748dab0cdcce95c67243f-3" href="#rest_code_bfecda0c560748dab0cdcce95c67243f-3"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">a</span> <span class="ow">is</span> <span class="n">b</span>
-<a id="rest_code_bfecda0c560748dab0cdcce95c67243f-4" name="rest_code_bfecda0c560748dab0cdcce95c67243f-4" href="#rest_code_bfecda0c560748dab0cdcce95c67243f-4"></a><span class="kc">False</span>
+<div class="code"><pre class="code python"><a id="rest_code_5efdf3377b024c8eb803333f48a94fbc-1" name="rest_code_5efdf3377b024c8eb803333f48a94fbc-1" href="#rest_code_5efdf3377b024c8eb803333f48a94fbc-1"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">a</span> <span class="o">=</span> <span class="mi">500</span>
+<a id="rest_code_5efdf3377b024c8eb803333f48a94fbc-2" name="rest_code_5efdf3377b024c8eb803333f48a94fbc-2" href="#rest_code_5efdf3377b024c8eb803333f48a94fbc-2"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">b</span> <span class="o">=</span> <span class="mi">500</span>
+<a id="rest_code_5efdf3377b024c8eb803333f48a94fbc-3" name="rest_code_5efdf3377b024c8eb803333f48a94fbc-3" href="#rest_code_5efdf3377b024c8eb803333f48a94fbc-3"></a><span class="o">&gt;&gt;&gt;</span> <span class="n">a</span> <span class="ow">is</span> <span class="n">b</span>
+<a id="rest_code_5efdf3377b024c8eb803333f48a94fbc-4" name="rest_code_5efdf3377b024c8eb803333f48a94fbc-4" href="#rest_code_5efdf3377b024c8eb803333f48a94fbc-4"></a><span class="kc">False</span>
 </pre></div>
 <p>Aquí a apunta a un 500 en memoria, y b apunta a otro 500 en memoria. Python sí creó dos objetos "500".</p>
 <p>La pregunta es... ¿por qué la diferencia de comportamiento? Python (ojo, ver abajo) precachea (o tiene internalizado) algunos enteros chicos, porque sabe que siempre se van a usar.</p>
@@ -436,6 +446,6 @@ Sobre PyAr (el grupo de Usuarios)
         captions: function(element) {
             return element.getElementsByTagName('img')[0].alt;
     }});
-    </script>
+    </script><script src="https://cdn.jsdelivr.net/gh/nextapps-de/flexsearch@0.8.0/dist/flexsearch.bundle.min.js"></script><script src="../assets/js/flexsearch.js"></script>
 </body>
 </html>

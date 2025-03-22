@@ -24,7 +24,7 @@ og: http://ogp.me/ns# article: http://ogp.me/ns/article#
 <meta property="og:url" content="https://wiki.python.org.ar/recetario/qt/qtextraertextorecurso/">
 <meta property="og:description" content="Además de poder embeber imágenes, la librería Qt (y por ende PyQt) también permite incluir otros elementos en su sistema de recursos. La función que se define a continuación permite leer los contenido">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2025-03-14T17:10:11-03:00">
+<meta property="article:published_time" content="2025-03-22T12:24:52-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
@@ -66,7 +66,17 @@ og: http://ogp.me/ns# article: http://ogp.me/ns/article#
                 </li>                
             </ul>
 </div>
-    </nav>
+
+    </nav><div id="search_bar">
+            <div id="search_overlay" style="display:none;">
+                <div id="search_content">
+                    <input type="text" id="search_input" placeholder="Buscar 🔎"><div id="search_count"></div>
+                    <div id="search_results"></div>
+                    <button id="boton_cerrar" onclick="closeSearch()">Cerrar (Esc)</button>
+                </div>
+            </div>
+            <input type="text" id="search_input_base" placeholder="Buscar en la wiki 🔎">
+</div>
 </div>
 
 <!-- Header and menu bar -->
@@ -83,35 +93,35 @@ og: http://ogp.me/ns# article: http://ogp.me/ns/article#
     </div>
     <div class="e-content entry-content" itemprop="articleBody text">
     <p>Además de poder embeber imágenes, la librería Qt (y por ende PyQt) también permite incluir otros elementos en su sistema de recursos. La función que se define a continuación permite leer los contenidos de un archivo de texto plano que se encuentre registrado en un archivo .qrc. Cabe agregar que antes de invocar a <code class="docutils literal">loadTextFileFromRc()</code> hay que convertir el .qrc a módulo de Python con la herramienta pyrcc4 (por ejemplo, en una terminal de GNU/Linux: <code class="docutils literal">$ pyrcc4 <span class="pre">-o</span> resources.py resources.qrc</code>). Esto puede ser útil para incorporar al programa una hoja de estilo que se aplique a toda la aplicación.</p>
-<div class="code"><pre class="code python"><a id="rest_code_697e77275b474763b1eb828dc10fa483-1" name="rest_code_697e77275b474763b1eb828dc10fa483-1" href="#rest_code_697e77275b474763b1eb828dc10fa483-1"></a><span class="c1"># -*- coding: utf-8 -*-</span>
-<a id="rest_code_697e77275b474763b1eb828dc10fa483-2" name="rest_code_697e77275b474763b1eb828dc10fa483-2" href="#rest_code_697e77275b474763b1eb828dc10fa483-2"></a>
-<a id="rest_code_697e77275b474763b1eb828dc10fa483-3" name="rest_code_697e77275b474763b1eb828dc10fa483-3" href="#rest_code_697e77275b474763b1eb828dc10fa483-3"></a>
-<a id="rest_code_697e77275b474763b1eb828dc10fa483-4" name="rest_code_697e77275b474763b1eb828dc10fa483-4" href="#rest_code_697e77275b474763b1eb828dc10fa483-4"></a><span class="kn">from</span><span class="w"> </span><span class="nn">PyQt4</span><span class="w"> </span><span class="kn">import</span> <span class="n">QtCore</span>
-<a id="rest_code_697e77275b474763b1eb828dc10fa483-5" name="rest_code_697e77275b474763b1eb828dc10fa483-5" href="#rest_code_697e77275b474763b1eb828dc10fa483-5"></a>
-<a id="rest_code_697e77275b474763b1eb828dc10fa483-6" name="rest_code_697e77275b474763b1eb828dc10fa483-6" href="#rest_code_697e77275b474763b1eb828dc10fa483-6"></a><span class="c1"># El siguiente import realizará el registro de los recursos a PyQt.</span>
-<a id="rest_code_697e77275b474763b1eb828dc10fa483-7" name="rest_code_697e77275b474763b1eb828dc10fa483-7" href="#rest_code_697e77275b474763b1eb828dc10fa483-7"></a><span class="kn">import</span><span class="w"> </span><span class="nn">resources</span>
-<a id="rest_code_697e77275b474763b1eb828dc10fa483-8" name="rest_code_697e77275b474763b1eb828dc10fa483-8" href="#rest_code_697e77275b474763b1eb828dc10fa483-8"></a>
-<a id="rest_code_697e77275b474763b1eb828dc10fa483-9" name="rest_code_697e77275b474763b1eb828dc10fa483-9" href="#rest_code_697e77275b474763b1eb828dc10fa483-9"></a>
-<a id="rest_code_697e77275b474763b1eb828dc10fa483-10" name="rest_code_697e77275b474763b1eb828dc10fa483-10" href="#rest_code_697e77275b474763b1eb828dc10fa483-10"></a><span class="k">def</span><span class="w"> </span><span class="nf">loadTextFileFromRc</span><span class="p">(</span><span class="n">rcPath</span><span class="p">):</span>
-<a id="rest_code_697e77275b474763b1eb828dc10fa483-11" name="rest_code_697e77275b474763b1eb828dc10fa483-11" href="#rest_code_697e77275b474763b1eb828dc10fa483-11"></a><span class="w">    </span><span class="sa">u</span><span class="sd">"""Extrae el contenido de un archivo de texto incluido en el sistema</span>
-<a id="rest_code_697e77275b474763b1eb828dc10fa483-12" name="rest_code_697e77275b474763b1eb828dc10fa483-12" href="#rest_code_697e77275b474763b1eb828dc10fa483-12"></a><span class="sd">    de recursos.</span>
-<a id="rest_code_697e77275b474763b1eb828dc10fa483-13" name="rest_code_697e77275b474763b1eb828dc10fa483-13" href="#rest_code_697e77275b474763b1eb828dc10fa483-13"></a>
-<a id="rest_code_697e77275b474763b1eb828dc10fa483-14" name="rest_code_697e77275b474763b1eb828dc10fa483-14" href="#rest_code_697e77275b474763b1eb828dc10fa483-14"></a><span class="sd">    Parámetros:</span>
-<a id="rest_code_697e77275b474763b1eb828dc10fa483-15" name="rest_code_697e77275b474763b1eb828dc10fa483-15" href="#rest_code_697e77275b474763b1eb828dc10fa483-15"></a><span class="sd">        rcPath: ruta absoluta del archivo dentro del recurso. Por ejemplo:</span>
-<a id="rest_code_697e77275b474763b1eb828dc10fa483-16" name="rest_code_697e77275b474763b1eb828dc10fa483-16" href="#rest_code_697e77275b474763b1eb828dc10fa483-16"></a><span class="sd">            ':/app/css/style.css'.</span>
-<a id="rest_code_697e77275b474763b1eb828dc10fa483-17" name="rest_code_697e77275b474763b1eb828dc10fa483-17" href="#rest_code_697e77275b474763b1eb828dc10fa483-17"></a><span class="sd">    """</span>
-<a id="rest_code_697e77275b474763b1eb828dc10fa483-18" name="rest_code_697e77275b474763b1eb828dc10fa483-18" href="#rest_code_697e77275b474763b1eb828dc10fa483-18"></a>
-<a id="rest_code_697e77275b474763b1eb828dc10fa483-19" name="rest_code_697e77275b474763b1eb828dc10fa483-19" href="#rest_code_697e77275b474763b1eb828dc10fa483-19"></a>    <span class="n">q_file</span> <span class="o">=</span> <span class="n">QtCore</span><span class="o">.</span><span class="n">QFile</span><span class="p">(</span><span class="n">rcPath</span><span class="p">)</span>
-<a id="rest_code_697e77275b474763b1eb828dc10fa483-20" name="rest_code_697e77275b474763b1eb828dc10fa483-20" href="#rest_code_697e77275b474763b1eb828dc10fa483-20"></a>    <span class="n">q_file</span><span class="o">.</span><span class="n">open</span><span class="p">(</span><span class="n">QtCore</span><span class="o">.</span><span class="n">QIODevice</span><span class="o">.</span><span class="n">ReadOnly</span><span class="p">)</span>
-<a id="rest_code_697e77275b474763b1eb828dc10fa483-21" name="rest_code_697e77275b474763b1eb828dc10fa483-21" href="#rest_code_697e77275b474763b1eb828dc10fa483-21"></a>    <span class="n">q_text_stream</span> <span class="o">=</span> <span class="n">QtCore</span><span class="o">.</span><span class="n">QTextStream</span><span class="p">(</span><span class="n">q_file</span><span class="p">)</span>
-<a id="rest_code_697e77275b474763b1eb828dc10fa483-22" name="rest_code_697e77275b474763b1eb828dc10fa483-22" href="#rest_code_697e77275b474763b1eb828dc10fa483-22"></a>    <span class="n">content</span> <span class="o">=</span>  <span class="n">q_text_stream</span><span class="o">.</span><span class="n">readAll</span><span class="p">()</span>
-<a id="rest_code_697e77275b474763b1eb828dc10fa483-23" name="rest_code_697e77275b474763b1eb828dc10fa483-23" href="#rest_code_697e77275b474763b1eb828dc10fa483-23"></a>    <span class="n">q_file</span><span class="o">.</span><span class="n">close</span><span class="p">()</span>
-<a id="rest_code_697e77275b474763b1eb828dc10fa483-24" name="rest_code_697e77275b474763b1eb828dc10fa483-24" href="#rest_code_697e77275b474763b1eb828dc10fa483-24"></a>
-<a id="rest_code_697e77275b474763b1eb828dc10fa483-25" name="rest_code_697e77275b474763b1eb828dc10fa483-25" href="#rest_code_697e77275b474763b1eb828dc10fa483-25"></a>    <span class="k">return</span> <span class="n">content</span>
-<a id="rest_code_697e77275b474763b1eb828dc10fa483-26" name="rest_code_697e77275b474763b1eb828dc10fa483-26" href="#rest_code_697e77275b474763b1eb828dc10fa483-26"></a>
-<a id="rest_code_697e77275b474763b1eb828dc10fa483-27" name="rest_code_697e77275b474763b1eb828dc10fa483-27" href="#rest_code_697e77275b474763b1eb828dc10fa483-27"></a>
-<a id="rest_code_697e77275b474763b1eb828dc10fa483-28" name="rest_code_697e77275b474763b1eb828dc10fa483-28" href="#rest_code_697e77275b474763b1eb828dc10fa483-28"></a><span class="k">if</span> <span class="vm">__name__</span> <span class="o">==</span> <span class="s1">'__main__'</span><span class="p">:</span>
-<a id="rest_code_697e77275b474763b1eb828dc10fa483-29" name="rest_code_697e77275b474763b1eb828dc10fa483-29" href="#rest_code_697e77275b474763b1eb828dc10fa483-29"></a>    <span class="nb">print</span> <span class="n">loadTextFileFromRc</span><span class="p">(</span><span class="s1">':/ruta/al/recurso.txt'</span><span class="p">)</span>
+<div class="code"><pre class="code python"><a id="rest_code_0e02c7faee744dc586031a20a0b847df-1" name="rest_code_0e02c7faee744dc586031a20a0b847df-1" href="#rest_code_0e02c7faee744dc586031a20a0b847df-1"></a><span class="c1"># -*- coding: utf-8 -*-</span>
+<a id="rest_code_0e02c7faee744dc586031a20a0b847df-2" name="rest_code_0e02c7faee744dc586031a20a0b847df-2" href="#rest_code_0e02c7faee744dc586031a20a0b847df-2"></a>
+<a id="rest_code_0e02c7faee744dc586031a20a0b847df-3" name="rest_code_0e02c7faee744dc586031a20a0b847df-3" href="#rest_code_0e02c7faee744dc586031a20a0b847df-3"></a>
+<a id="rest_code_0e02c7faee744dc586031a20a0b847df-4" name="rest_code_0e02c7faee744dc586031a20a0b847df-4" href="#rest_code_0e02c7faee744dc586031a20a0b847df-4"></a><span class="kn">from</span><span class="w"> </span><span class="nn">PyQt4</span><span class="w"> </span><span class="kn">import</span> <span class="n">QtCore</span>
+<a id="rest_code_0e02c7faee744dc586031a20a0b847df-5" name="rest_code_0e02c7faee744dc586031a20a0b847df-5" href="#rest_code_0e02c7faee744dc586031a20a0b847df-5"></a>
+<a id="rest_code_0e02c7faee744dc586031a20a0b847df-6" name="rest_code_0e02c7faee744dc586031a20a0b847df-6" href="#rest_code_0e02c7faee744dc586031a20a0b847df-6"></a><span class="c1"># El siguiente import realizará el registro de los recursos a PyQt.</span>
+<a id="rest_code_0e02c7faee744dc586031a20a0b847df-7" name="rest_code_0e02c7faee744dc586031a20a0b847df-7" href="#rest_code_0e02c7faee744dc586031a20a0b847df-7"></a><span class="kn">import</span><span class="w"> </span><span class="nn">resources</span>
+<a id="rest_code_0e02c7faee744dc586031a20a0b847df-8" name="rest_code_0e02c7faee744dc586031a20a0b847df-8" href="#rest_code_0e02c7faee744dc586031a20a0b847df-8"></a>
+<a id="rest_code_0e02c7faee744dc586031a20a0b847df-9" name="rest_code_0e02c7faee744dc586031a20a0b847df-9" href="#rest_code_0e02c7faee744dc586031a20a0b847df-9"></a>
+<a id="rest_code_0e02c7faee744dc586031a20a0b847df-10" name="rest_code_0e02c7faee744dc586031a20a0b847df-10" href="#rest_code_0e02c7faee744dc586031a20a0b847df-10"></a><span class="k">def</span><span class="w"> </span><span class="nf">loadTextFileFromRc</span><span class="p">(</span><span class="n">rcPath</span><span class="p">):</span>
+<a id="rest_code_0e02c7faee744dc586031a20a0b847df-11" name="rest_code_0e02c7faee744dc586031a20a0b847df-11" href="#rest_code_0e02c7faee744dc586031a20a0b847df-11"></a><span class="w">    </span><span class="sa">u</span><span class="sd">"""Extrae el contenido de un archivo de texto incluido en el sistema</span>
+<a id="rest_code_0e02c7faee744dc586031a20a0b847df-12" name="rest_code_0e02c7faee744dc586031a20a0b847df-12" href="#rest_code_0e02c7faee744dc586031a20a0b847df-12"></a><span class="sd">    de recursos.</span>
+<a id="rest_code_0e02c7faee744dc586031a20a0b847df-13" name="rest_code_0e02c7faee744dc586031a20a0b847df-13" href="#rest_code_0e02c7faee744dc586031a20a0b847df-13"></a>
+<a id="rest_code_0e02c7faee744dc586031a20a0b847df-14" name="rest_code_0e02c7faee744dc586031a20a0b847df-14" href="#rest_code_0e02c7faee744dc586031a20a0b847df-14"></a><span class="sd">    Parámetros:</span>
+<a id="rest_code_0e02c7faee744dc586031a20a0b847df-15" name="rest_code_0e02c7faee744dc586031a20a0b847df-15" href="#rest_code_0e02c7faee744dc586031a20a0b847df-15"></a><span class="sd">        rcPath: ruta absoluta del archivo dentro del recurso. Por ejemplo:</span>
+<a id="rest_code_0e02c7faee744dc586031a20a0b847df-16" name="rest_code_0e02c7faee744dc586031a20a0b847df-16" href="#rest_code_0e02c7faee744dc586031a20a0b847df-16"></a><span class="sd">            ':/app/css/style.css'.</span>
+<a id="rest_code_0e02c7faee744dc586031a20a0b847df-17" name="rest_code_0e02c7faee744dc586031a20a0b847df-17" href="#rest_code_0e02c7faee744dc586031a20a0b847df-17"></a><span class="sd">    """</span>
+<a id="rest_code_0e02c7faee744dc586031a20a0b847df-18" name="rest_code_0e02c7faee744dc586031a20a0b847df-18" href="#rest_code_0e02c7faee744dc586031a20a0b847df-18"></a>
+<a id="rest_code_0e02c7faee744dc586031a20a0b847df-19" name="rest_code_0e02c7faee744dc586031a20a0b847df-19" href="#rest_code_0e02c7faee744dc586031a20a0b847df-19"></a>    <span class="n">q_file</span> <span class="o">=</span> <span class="n">QtCore</span><span class="o">.</span><span class="n">QFile</span><span class="p">(</span><span class="n">rcPath</span><span class="p">)</span>
+<a id="rest_code_0e02c7faee744dc586031a20a0b847df-20" name="rest_code_0e02c7faee744dc586031a20a0b847df-20" href="#rest_code_0e02c7faee744dc586031a20a0b847df-20"></a>    <span class="n">q_file</span><span class="o">.</span><span class="n">open</span><span class="p">(</span><span class="n">QtCore</span><span class="o">.</span><span class="n">QIODevice</span><span class="o">.</span><span class="n">ReadOnly</span><span class="p">)</span>
+<a id="rest_code_0e02c7faee744dc586031a20a0b847df-21" name="rest_code_0e02c7faee744dc586031a20a0b847df-21" href="#rest_code_0e02c7faee744dc586031a20a0b847df-21"></a>    <span class="n">q_text_stream</span> <span class="o">=</span> <span class="n">QtCore</span><span class="o">.</span><span class="n">QTextStream</span><span class="p">(</span><span class="n">q_file</span><span class="p">)</span>
+<a id="rest_code_0e02c7faee744dc586031a20a0b847df-22" name="rest_code_0e02c7faee744dc586031a20a0b847df-22" href="#rest_code_0e02c7faee744dc586031a20a0b847df-22"></a>    <span class="n">content</span> <span class="o">=</span>  <span class="n">q_text_stream</span><span class="o">.</span><span class="n">readAll</span><span class="p">()</span>
+<a id="rest_code_0e02c7faee744dc586031a20a0b847df-23" name="rest_code_0e02c7faee744dc586031a20a0b847df-23" href="#rest_code_0e02c7faee744dc586031a20a0b847df-23"></a>    <span class="n">q_file</span><span class="o">.</span><span class="n">close</span><span class="p">()</span>
+<a id="rest_code_0e02c7faee744dc586031a20a0b847df-24" name="rest_code_0e02c7faee744dc586031a20a0b847df-24" href="#rest_code_0e02c7faee744dc586031a20a0b847df-24"></a>
+<a id="rest_code_0e02c7faee744dc586031a20a0b847df-25" name="rest_code_0e02c7faee744dc586031a20a0b847df-25" href="#rest_code_0e02c7faee744dc586031a20a0b847df-25"></a>    <span class="k">return</span> <span class="n">content</span>
+<a id="rest_code_0e02c7faee744dc586031a20a0b847df-26" name="rest_code_0e02c7faee744dc586031a20a0b847df-26" href="#rest_code_0e02c7faee744dc586031a20a0b847df-26"></a>
+<a id="rest_code_0e02c7faee744dc586031a20a0b847df-27" name="rest_code_0e02c7faee744dc586031a20a0b847df-27" href="#rest_code_0e02c7faee744dc586031a20a0b847df-27"></a>
+<a id="rest_code_0e02c7faee744dc586031a20a0b847df-28" name="rest_code_0e02c7faee744dc586031a20a0b847df-28" href="#rest_code_0e02c7faee744dc586031a20a0b847df-28"></a><span class="k">if</span> <span class="vm">__name__</span> <span class="o">==</span> <span class="s1">'__main__'</span><span class="p">:</span>
+<a id="rest_code_0e02c7faee744dc586031a20a0b847df-29" name="rest_code_0e02c7faee744dc586031a20a0b847df-29" href="#rest_code_0e02c7faee744dc586031a20a0b847df-29"></a>    <span class="nb">print</span> <span class="n">loadTextFileFromRc</span><span class="p">(</span><span class="s1">':/ruta/al/recurso.txt'</span><span class="p">)</span>
 </pre></div>
     </div>    
 </div>
@@ -129,6 +139,6 @@ og: http://ogp.me/ns# article: http://ogp.me/ns/article#
         captions: function(element) {
             return element.getElementsByTagName('img')[0].alt;
     }});
-    </script>
+    </script><script src="https://cdn.jsdelivr.net/gh/nextapps-de/flexsearch@0.8.0/dist/flexsearch.bundle.min.js"></script><script src="../../../assets/js/flexsearch.js"></script>
 </body>
 </html>

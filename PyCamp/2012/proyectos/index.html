@@ -25,7 +25,7 @@ og: http://ogp.me/ns# article: http://ogp.me/ns/article#
 <meta property="og:description" content="Kivy
 Se estuvo jugando con el framework kivy: http://kivy.org/ , que permite hacer aplicaciones para Android , programando en python  en nuestro entorno de trabajo habitual, y luego genera un APK comp">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2025-03-14T17:10:11-03:00">
+<meta property="article:published_time" content="2025-03-22T12:24:52-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
@@ -67,7 +67,17 @@ Se estuvo jugando con el framework kivy: http://kivy.org/ , que permite hacer ap
                 </li>                
             </ul>
 </div>
-    </nav>
+
+    </nav><div id="search_bar">
+            <div id="search_overlay" style="display:none;">
+                <div id="search_content">
+                    <input type="text" id="search_input" placeholder="Buscar 🔎"><div id="search_count"></div>
+                    <div id="search_results"></div>
+                    <button id="boton_cerrar" onclick="closeSearch()">Cerrar (Esc)</button>
+                </div>
+            </div>
+            <input type="text" id="search_input_base" placeholder="Buscar en la wiki 🔎">
+</div>
 </div>
 
 <!-- Header and menu bar -->
@@ -107,17 +117,17 @@ Se estuvo jugando con el framework kivy: http://kivy.org/ , que permite hacer ap
 <ul class="simple">
 <li><p>Usar el modo de edición de vim desde la línea de comandos (funciona en la consola de python):</p></li>
 </ul>
-<div class="code"><pre class="code vim"><a id="rest_code_c2f19bb8925d43ffa64ebc9e7fdea267-1" name="rest_code_c2f19bb8925d43ffa64ebc9e7fdea267-1" href="#rest_code_c2f19bb8925d43ffa64ebc9e7fdea267-1"></a>     <span class="k">set</span> <span class="p">-</span><span class="k">o</span> <span class="k">vi</span> # bash
-<a id="rest_code_c2f19bb8925d43ffa64ebc9e7fdea267-2" name="rest_code_c2f19bb8925d43ffa64ebc9e7fdea267-2" href="#rest_code_c2f19bb8925d43ffa64ebc9e7fdea267-2"></a>     bindkey <span class="p">-</span><span class="k">v</span> # zsh
-<a id="rest_code_c2f19bb8925d43ffa64ebc9e7fdea267-3" name="rest_code_c2f19bb8925d43ffa64ebc9e7fdea267-3" href="#rest_code_c2f19bb8925d43ffa64ebc9e7fdea267-3"></a>
-<a id="rest_code_c2f19bb8925d43ffa64ebc9e7fdea267-4" name="rest_code_c2f19bb8925d43ffa64ebc9e7fdea267-4" href="#rest_code_c2f19bb8925d43ffa64ebc9e7fdea267-4"></a>Agregarlo <span class="k">al</span> .bashrc <span class="k">o</span> .zshrc respec. También <span class="k">se</span> puede setear creando <span class="k">un</span> .inputrc <span class="p">(</span><span class="k">en</span> bash<span class="p">)</span>
+<div class="code"><pre class="code vim"><a id="rest_code_5ca60e207bb44bed8af139243ff97041-1" name="rest_code_5ca60e207bb44bed8af139243ff97041-1" href="#rest_code_5ca60e207bb44bed8af139243ff97041-1"></a>     <span class="k">set</span> <span class="p">-</span><span class="k">o</span> <span class="k">vi</span> # bash
+<a id="rest_code_5ca60e207bb44bed8af139243ff97041-2" name="rest_code_5ca60e207bb44bed8af139243ff97041-2" href="#rest_code_5ca60e207bb44bed8af139243ff97041-2"></a>     bindkey <span class="p">-</span><span class="k">v</span> # zsh
+<a id="rest_code_5ca60e207bb44bed8af139243ff97041-3" name="rest_code_5ca60e207bb44bed8af139243ff97041-3" href="#rest_code_5ca60e207bb44bed8af139243ff97041-3"></a>
+<a id="rest_code_5ca60e207bb44bed8af139243ff97041-4" name="rest_code_5ca60e207bb44bed8af139243ff97041-4" href="#rest_code_5ca60e207bb44bed8af139243ff97041-4"></a>Agregarlo <span class="k">al</span> .bashrc <span class="k">o</span> .zshrc respec. También <span class="k">se</span> puede setear creando <span class="k">un</span> .inputrc <span class="p">(</span><span class="k">en</span> bash<span class="p">)</span>
 </pre></div>
-<div class="code"><pre class="code vim"><a id="rest_code_bacf995dca744d3aa1dc4496d18de42e-1" name="rest_code_bacf995dca744d3aa1dc4496d18de42e-1" href="#rest_code_bacf995dca744d3aa1dc4496d18de42e-1"></a>     <span class="k">set</span> editing<span class="p">-</span><span class="k">mode</span> <span class="k">vi</span>
-<a id="rest_code_bacf995dca744d3aa1dc4496d18de42e-2" name="rest_code_bacf995dca744d3aa1dc4496d18de42e-2" href="#rest_code_bacf995dca744d3aa1dc4496d18de42e-2"></a>     <span class="k">set</span> <span class="nb">keymap</span> <span class="k">vi</span>
-<a id="rest_code_bacf995dca744d3aa1dc4496d18de42e-3" name="rest_code_bacf995dca744d3aa1dc4496d18de42e-3" href="#rest_code_bacf995dca744d3aa1dc4496d18de42e-3"></a>
-<a id="rest_code_bacf995dca744d3aa1dc4496d18de42e-4" name="rest_code_bacf995dca744d3aa1dc4496d18de42e-4" href="#rest_code_bacf995dca744d3aa1dc4496d18de42e-4"></a>Hay muchas más opciones que <span class="k">se</span> pueden setear <span class="p">(</span>man <span class="m">3</span> readline<span class="p">)</span>.
-<a id="rest_code_bacf995dca744d3aa1dc4496d18de42e-5" name="rest_code_bacf995dca744d3aa1dc4496d18de42e-5" href="#rest_code_bacf995dca744d3aa1dc4496d18de42e-5"></a>
-<a id="rest_code_bacf995dca744d3aa1dc4496d18de42e-6" name="rest_code_bacf995dca744d3aa1dc4496d18de42e-6" href="#rest_code_bacf995dca744d3aa1dc4496d18de42e-6"></a>Lista <span class="k">de</span> comandos: `Bash <span class="k">vi</span> editing <span class="k">mode</span> cheat sheet`_
+<div class="code"><pre class="code vim"><a id="rest_code_03a6441688e6463f934a0e86f1e372ef-1" name="rest_code_03a6441688e6463f934a0e86f1e372ef-1" href="#rest_code_03a6441688e6463f934a0e86f1e372ef-1"></a>     <span class="k">set</span> editing<span class="p">-</span><span class="k">mode</span> <span class="k">vi</span>
+<a id="rest_code_03a6441688e6463f934a0e86f1e372ef-2" name="rest_code_03a6441688e6463f934a0e86f1e372ef-2" href="#rest_code_03a6441688e6463f934a0e86f1e372ef-2"></a>     <span class="k">set</span> <span class="nb">keymap</span> <span class="k">vi</span>
+<a id="rest_code_03a6441688e6463f934a0e86f1e372ef-3" name="rest_code_03a6441688e6463f934a0e86f1e372ef-3" href="#rest_code_03a6441688e6463f934a0e86f1e372ef-3"></a>
+<a id="rest_code_03a6441688e6463f934a0e86f1e372ef-4" name="rest_code_03a6441688e6463f934a0e86f1e372ef-4" href="#rest_code_03a6441688e6463f934a0e86f1e372ef-4"></a>Hay muchas más opciones que <span class="k">se</span> pueden setear <span class="p">(</span>man <span class="m">3</span> readline<span class="p">)</span>.
+<a id="rest_code_03a6441688e6463f934a0e86f1e372ef-5" name="rest_code_03a6441688e6463f934a0e86f1e372ef-5" href="#rest_code_03a6441688e6463f934a0e86f1e372ef-5"></a>
+<a id="rest_code_03a6441688e6463f934a0e86f1e372ef-6" name="rest_code_03a6441688e6463f934a0e86f1e372ef-6" href="#rest_code_03a6441688e6463f934a0e86f1e372ef-6"></a>Lista <span class="k">de</span> comandos: `Bash <span class="k">vi</span> editing <span class="k">mode</span> cheat sheet`_
 </pre></div>
 <p>También vimos muchos plugins y cosas interesantes para agregarle a vim y que sea un mejor entorno de desarrollo con python. La mayoría está en <a class="reference external" href="https://github.com/fisadev/fisa-vim-config">https://github.com/fisadev/fisa-vim-config</a> . Descubrimos que dos no andaban, uno ya está corregido (el que todavía no anda es el debugger, pero ya está identificado el problema). Y surgió la idea de meter el autocompletado de ninja ide en vim (como plugin). La gente de ninja va a separar la lógica del autocompletado como proyecto aparte, y nosotros vamos a meterlo en vim.</p>
 </section><section id="spacecraft"><h2>Spacecraft</h2>
@@ -181,6 +191,6 @@ Se estuvo jugando con el framework kivy: http://kivy.org/ , que permite hacer ap
         captions: function(element) {
             return element.getElementsByTagName('img')[0].alt;
     }});
-    </script>
+    </script><script src="https://cdn.jsdelivr.net/gh/nextapps-de/flexsearch@0.8.0/dist/flexsearch.bundle.min.js"></script><script src="../../../assets/js/flexsearch.js"></script>
 </body>
 </html>

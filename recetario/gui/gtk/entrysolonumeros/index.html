@@ -24,7 +24,7 @@ og: http://ogp.me/ns# article: http://ogp.me/ns/article#
 <meta property="og:url" content="https://wiki.python.org.ar/recetario/gui/gtk/entrysolonumeros/">
 <meta property="og:description" content="Este ejemplo muestra como permitir el ingreso de solo números en un gtk.Entry, a través de la señal insert-text de gtk.Editable (clase de la que hereda gtk.Entry) y usando el método stop_emission de g">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2025-03-14T17:10:11-03:00">
+<meta property="article:published_time" content="2025-03-22T12:24:52-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
@@ -66,7 +66,17 @@ og: http://ogp.me/ns# article: http://ogp.me/ns/article#
                 </li>                
             </ul>
 </div>
-    </nav>
+
+    </nav><div id="search_bar">
+            <div id="search_overlay" style="display:none;">
+                <div id="search_content">
+                    <input type="text" id="search_input" placeholder="Buscar 🔎"><div id="search_count"></div>
+                    <div id="search_results"></div>
+                    <button id="boton_cerrar" onclick="closeSearch()">Cerrar (Esc)</button>
+                </div>
+            </div>
+            <input type="text" id="search_input_base" placeholder="Buscar en la wiki 🔎">
+</div>
 </div>
 
 <!-- Header and menu bar -->
@@ -83,29 +93,29 @@ og: http://ogp.me/ns# article: http://ogp.me/ns/article#
     </div>
     <div class="e-content entry-content" itemprop="articleBody text">
     <p>Este ejemplo muestra como permitir el ingreso de solo números en un gtk.Entry, a través de la señal <a class="reference external" href="http://library.gnome.org/devel/pygtk/stable/class-gtkeditable.html#signal-gtkeditable--insert-text">insert-text</a> de gtk.Editable (clase de la que hereda gtk.Entry) y usando el método <a class="reference external" href="http://library.gnome.org/devel/pygobject/stable/class-gobject.html#method-gobject--stop-emission">stop_emission</a> de gobject para evitar que la señal se propague y sea manejada por el handler por defecto para la señal (que es el que inserta el carácter en el widget)</p>
-<img alt="/images/Recetario/Gui/Gtk/EntrySoloNumeros/Only%20numbers.png" src="../../../../images/Recetario/Gui/Gtk/EntrySoloNumeros/Only%20numbers.png"><div class="code"><pre class="code python"><a id="rest_code_7974677a14b44d40915e12b2847c55b0-1" name="rest_code_7974677a14b44d40915e12b2847c55b0-1" href="#rest_code_7974677a14b44d40915e12b2847c55b0-1"></a><span class="sd">'''ejemplo sobre solo dejar ingresar numeros en un campo de text</span>
-<a id="rest_code_7974677a14b44d40915e12b2847c55b0-2" name="rest_code_7974677a14b44d40915e12b2847c55b0-2" href="#rest_code_7974677a14b44d40915e12b2847c55b0-2"></a><span class="sd">tambien sirve para cadenas de texto pegadas en el entry con ctrl-v</span>
-<a id="rest_code_7974677a14b44d40915e12b2847c55b0-3" name="rest_code_7974677a14b44d40915e12b2847c55b0-3" href="#rest_code_7974677a14b44d40915e12b2847c55b0-3"></a><span class="sd">'''</span>
-<a id="rest_code_7974677a14b44d40915e12b2847c55b0-4" name="rest_code_7974677a14b44d40915e12b2847c55b0-4" href="#rest_code_7974677a14b44d40915e12b2847c55b0-4"></a>
-<a id="rest_code_7974677a14b44d40915e12b2847c55b0-5" name="rest_code_7974677a14b44d40915e12b2847c55b0-5" href="#rest_code_7974677a14b44d40915e12b2847c55b0-5"></a><span class="kn">import</span><span class="w"> </span><span class="nn">re</span>
-<a id="rest_code_7974677a14b44d40915e12b2847c55b0-6" name="rest_code_7974677a14b44d40915e12b2847c55b0-6" href="#rest_code_7974677a14b44d40915e12b2847c55b0-6"></a><span class="kn">import</span><span class="w"> </span><span class="nn">gtk</span>
-<a id="rest_code_7974677a14b44d40915e12b2847c55b0-7" name="rest_code_7974677a14b44d40915e12b2847c55b0-7" href="#rest_code_7974677a14b44d40915e12b2847c55b0-7"></a>
-<a id="rest_code_7974677a14b44d40915e12b2847c55b0-8" name="rest_code_7974677a14b44d40915e12b2847c55b0-8" href="#rest_code_7974677a14b44d40915e12b2847c55b0-8"></a><span class="n">ONLY_NUMBERS</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">compile</span><span class="p">(</span><span class="s1">'^[0-9]*$'</span><span class="p">)</span>
-<a id="rest_code_7974677a14b44d40915e12b2847c55b0-9" name="rest_code_7974677a14b44d40915e12b2847c55b0-9" href="#rest_code_7974677a14b44d40915e12b2847c55b0-9"></a>
-<a id="rest_code_7974677a14b44d40915e12b2847c55b0-10" name="rest_code_7974677a14b44d40915e12b2847c55b0-10" href="#rest_code_7974677a14b44d40915e12b2847c55b0-10"></a><span class="k">def</span><span class="w"> </span><span class="nf">on_insert_text</span><span class="p">(</span><span class="n">editable</span><span class="p">,</span> <span class="n">new_text</span><span class="p">,</span> <span class="n">new_text_length</span><span class="p">,</span> <span class="n">position</span><span class="p">):</span>
-<a id="rest_code_7974677a14b44d40915e12b2847c55b0-11" name="rest_code_7974677a14b44d40915e12b2847c55b0-11" href="#rest_code_7974677a14b44d40915e12b2847c55b0-11"></a><span class="w">    </span><span class="sd">'''called when text is inserted on an entry'''</span>
-<a id="rest_code_7974677a14b44d40915e12b2847c55b0-12" name="rest_code_7974677a14b44d40915e12b2847c55b0-12" href="#rest_code_7974677a14b44d40915e12b2847c55b0-12"></a>    <span class="k">if</span> <span class="n">ONLY_NUMBERS</span><span class="o">.</span><span class="n">match</span><span class="p">(</span><span class="n">new_text</span><span class="p">)</span> <span class="ow">is</span> <span class="kc">None</span><span class="p">:</span>
-<a id="rest_code_7974677a14b44d40915e12b2847c55b0-13" name="rest_code_7974677a14b44d40915e12b2847c55b0-13" href="#rest_code_7974677a14b44d40915e12b2847c55b0-13"></a>        <span class="n">editable</span><span class="o">.</span><span class="n">stop_emission</span><span class="p">(</span><span class="s1">'insert-text'</span><span class="p">)</span>
-<a id="rest_code_7974677a14b44d40915e12b2847c55b0-14" name="rest_code_7974677a14b44d40915e12b2847c55b0-14" href="#rest_code_7974677a14b44d40915e12b2847c55b0-14"></a>
-<a id="rest_code_7974677a14b44d40915e12b2847c55b0-15" name="rest_code_7974677a14b44d40915e12b2847c55b0-15" href="#rest_code_7974677a14b44d40915e12b2847c55b0-15"></a><span class="n">entry</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">Entry</span><span class="p">()</span>
-<a id="rest_code_7974677a14b44d40915e12b2847c55b0-16" name="rest_code_7974677a14b44d40915e12b2847c55b0-16" href="#rest_code_7974677a14b44d40915e12b2847c55b0-16"></a><span class="n">entry</span><span class="o">.</span><span class="n">connect</span><span class="p">(</span><span class="s1">'insert-text'</span><span class="p">,</span> <span class="n">on_insert_text</span><span class="p">)</span>
-<a id="rest_code_7974677a14b44d40915e12b2847c55b0-17" name="rest_code_7974677a14b44d40915e12b2847c55b0-17" href="#rest_code_7974677a14b44d40915e12b2847c55b0-17"></a><span class="n">window</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">Window</span><span class="p">()</span>
-<a id="rest_code_7974677a14b44d40915e12b2847c55b0-18" name="rest_code_7974677a14b44d40915e12b2847c55b0-18" href="#rest_code_7974677a14b44d40915e12b2847c55b0-18"></a><span class="n">window</span><span class="o">.</span><span class="n">set_title</span><span class="p">(</span><span class="s1">'only numbers'</span><span class="p">)</span>
-<a id="rest_code_7974677a14b44d40915e12b2847c55b0-19" name="rest_code_7974677a14b44d40915e12b2847c55b0-19" href="#rest_code_7974677a14b44d40915e12b2847c55b0-19"></a><span class="n">window</span><span class="o">.</span><span class="n">add</span><span class="p">(</span><span class="n">entry</span><span class="p">)</span>
-<a id="rest_code_7974677a14b44d40915e12b2847c55b0-20" name="rest_code_7974677a14b44d40915e12b2847c55b0-20" href="#rest_code_7974677a14b44d40915e12b2847c55b0-20"></a><span class="n">window</span><span class="o">.</span><span class="n">connect</span><span class="p">(</span><span class="s1">'delete-event'</span><span class="p">,</span> <span class="n">gtk</span><span class="o">.</span><span class="n">main_quit</span><span class="p">)</span>
-<a id="rest_code_7974677a14b44d40915e12b2847c55b0-21" name="rest_code_7974677a14b44d40915e12b2847c55b0-21" href="#rest_code_7974677a14b44d40915e12b2847c55b0-21"></a><span class="n">window</span><span class="o">.</span><span class="n">show_all</span><span class="p">()</span>
-<a id="rest_code_7974677a14b44d40915e12b2847c55b0-22" name="rest_code_7974677a14b44d40915e12b2847c55b0-22" href="#rest_code_7974677a14b44d40915e12b2847c55b0-22"></a>
-<a id="rest_code_7974677a14b44d40915e12b2847c55b0-23" name="rest_code_7974677a14b44d40915e12b2847c55b0-23" href="#rest_code_7974677a14b44d40915e12b2847c55b0-23"></a><span class="n">gtk</span><span class="o">.</span><span class="n">main</span><span class="p">()</span>
+<img alt="/images/Recetario/Gui/Gtk/EntrySoloNumeros/Only%20numbers.png" src="../../../../images/Recetario/Gui/Gtk/EntrySoloNumeros/Only%20numbers.png"><div class="code"><pre class="code python"><a id="rest_code_deb69600e9e34aec8aba453e2cd3b11c-1" name="rest_code_deb69600e9e34aec8aba453e2cd3b11c-1" href="#rest_code_deb69600e9e34aec8aba453e2cd3b11c-1"></a><span class="sd">'''ejemplo sobre solo dejar ingresar numeros en un campo de text</span>
+<a id="rest_code_deb69600e9e34aec8aba453e2cd3b11c-2" name="rest_code_deb69600e9e34aec8aba453e2cd3b11c-2" href="#rest_code_deb69600e9e34aec8aba453e2cd3b11c-2"></a><span class="sd">tambien sirve para cadenas de texto pegadas en el entry con ctrl-v</span>
+<a id="rest_code_deb69600e9e34aec8aba453e2cd3b11c-3" name="rest_code_deb69600e9e34aec8aba453e2cd3b11c-3" href="#rest_code_deb69600e9e34aec8aba453e2cd3b11c-3"></a><span class="sd">'''</span>
+<a id="rest_code_deb69600e9e34aec8aba453e2cd3b11c-4" name="rest_code_deb69600e9e34aec8aba453e2cd3b11c-4" href="#rest_code_deb69600e9e34aec8aba453e2cd3b11c-4"></a>
+<a id="rest_code_deb69600e9e34aec8aba453e2cd3b11c-5" name="rest_code_deb69600e9e34aec8aba453e2cd3b11c-5" href="#rest_code_deb69600e9e34aec8aba453e2cd3b11c-5"></a><span class="kn">import</span><span class="w"> </span><span class="nn">re</span>
+<a id="rest_code_deb69600e9e34aec8aba453e2cd3b11c-6" name="rest_code_deb69600e9e34aec8aba453e2cd3b11c-6" href="#rest_code_deb69600e9e34aec8aba453e2cd3b11c-6"></a><span class="kn">import</span><span class="w"> </span><span class="nn">gtk</span>
+<a id="rest_code_deb69600e9e34aec8aba453e2cd3b11c-7" name="rest_code_deb69600e9e34aec8aba453e2cd3b11c-7" href="#rest_code_deb69600e9e34aec8aba453e2cd3b11c-7"></a>
+<a id="rest_code_deb69600e9e34aec8aba453e2cd3b11c-8" name="rest_code_deb69600e9e34aec8aba453e2cd3b11c-8" href="#rest_code_deb69600e9e34aec8aba453e2cd3b11c-8"></a><span class="n">ONLY_NUMBERS</span> <span class="o">=</span> <span class="n">re</span><span class="o">.</span><span class="n">compile</span><span class="p">(</span><span class="s1">'^[0-9]*$'</span><span class="p">)</span>
+<a id="rest_code_deb69600e9e34aec8aba453e2cd3b11c-9" name="rest_code_deb69600e9e34aec8aba453e2cd3b11c-9" href="#rest_code_deb69600e9e34aec8aba453e2cd3b11c-9"></a>
+<a id="rest_code_deb69600e9e34aec8aba453e2cd3b11c-10" name="rest_code_deb69600e9e34aec8aba453e2cd3b11c-10" href="#rest_code_deb69600e9e34aec8aba453e2cd3b11c-10"></a><span class="k">def</span><span class="w"> </span><span class="nf">on_insert_text</span><span class="p">(</span><span class="n">editable</span><span class="p">,</span> <span class="n">new_text</span><span class="p">,</span> <span class="n">new_text_length</span><span class="p">,</span> <span class="n">position</span><span class="p">):</span>
+<a id="rest_code_deb69600e9e34aec8aba453e2cd3b11c-11" name="rest_code_deb69600e9e34aec8aba453e2cd3b11c-11" href="#rest_code_deb69600e9e34aec8aba453e2cd3b11c-11"></a><span class="w">    </span><span class="sd">'''called when text is inserted on an entry'''</span>
+<a id="rest_code_deb69600e9e34aec8aba453e2cd3b11c-12" name="rest_code_deb69600e9e34aec8aba453e2cd3b11c-12" href="#rest_code_deb69600e9e34aec8aba453e2cd3b11c-12"></a>    <span class="k">if</span> <span class="n">ONLY_NUMBERS</span><span class="o">.</span><span class="n">match</span><span class="p">(</span><span class="n">new_text</span><span class="p">)</span> <span class="ow">is</span> <span class="kc">None</span><span class="p">:</span>
+<a id="rest_code_deb69600e9e34aec8aba453e2cd3b11c-13" name="rest_code_deb69600e9e34aec8aba453e2cd3b11c-13" href="#rest_code_deb69600e9e34aec8aba453e2cd3b11c-13"></a>        <span class="n">editable</span><span class="o">.</span><span class="n">stop_emission</span><span class="p">(</span><span class="s1">'insert-text'</span><span class="p">)</span>
+<a id="rest_code_deb69600e9e34aec8aba453e2cd3b11c-14" name="rest_code_deb69600e9e34aec8aba453e2cd3b11c-14" href="#rest_code_deb69600e9e34aec8aba453e2cd3b11c-14"></a>
+<a id="rest_code_deb69600e9e34aec8aba453e2cd3b11c-15" name="rest_code_deb69600e9e34aec8aba453e2cd3b11c-15" href="#rest_code_deb69600e9e34aec8aba453e2cd3b11c-15"></a><span class="n">entry</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">Entry</span><span class="p">()</span>
+<a id="rest_code_deb69600e9e34aec8aba453e2cd3b11c-16" name="rest_code_deb69600e9e34aec8aba453e2cd3b11c-16" href="#rest_code_deb69600e9e34aec8aba453e2cd3b11c-16"></a><span class="n">entry</span><span class="o">.</span><span class="n">connect</span><span class="p">(</span><span class="s1">'insert-text'</span><span class="p">,</span> <span class="n">on_insert_text</span><span class="p">)</span>
+<a id="rest_code_deb69600e9e34aec8aba453e2cd3b11c-17" name="rest_code_deb69600e9e34aec8aba453e2cd3b11c-17" href="#rest_code_deb69600e9e34aec8aba453e2cd3b11c-17"></a><span class="n">window</span> <span class="o">=</span> <span class="n">gtk</span><span class="o">.</span><span class="n">Window</span><span class="p">()</span>
+<a id="rest_code_deb69600e9e34aec8aba453e2cd3b11c-18" name="rest_code_deb69600e9e34aec8aba453e2cd3b11c-18" href="#rest_code_deb69600e9e34aec8aba453e2cd3b11c-18"></a><span class="n">window</span><span class="o">.</span><span class="n">set_title</span><span class="p">(</span><span class="s1">'only numbers'</span><span class="p">)</span>
+<a id="rest_code_deb69600e9e34aec8aba453e2cd3b11c-19" name="rest_code_deb69600e9e34aec8aba453e2cd3b11c-19" href="#rest_code_deb69600e9e34aec8aba453e2cd3b11c-19"></a><span class="n">window</span><span class="o">.</span><span class="n">add</span><span class="p">(</span><span class="n">entry</span><span class="p">)</span>
+<a id="rest_code_deb69600e9e34aec8aba453e2cd3b11c-20" name="rest_code_deb69600e9e34aec8aba453e2cd3b11c-20" href="#rest_code_deb69600e9e34aec8aba453e2cd3b11c-20"></a><span class="n">window</span><span class="o">.</span><span class="n">connect</span><span class="p">(</span><span class="s1">'delete-event'</span><span class="p">,</span> <span class="n">gtk</span><span class="o">.</span><span class="n">main_quit</span><span class="p">)</span>
+<a id="rest_code_deb69600e9e34aec8aba453e2cd3b11c-21" name="rest_code_deb69600e9e34aec8aba453e2cd3b11c-21" href="#rest_code_deb69600e9e34aec8aba453e2cd3b11c-21"></a><span class="n">window</span><span class="o">.</span><span class="n">show_all</span><span class="p">()</span>
+<a id="rest_code_deb69600e9e34aec8aba453e2cd3b11c-22" name="rest_code_deb69600e9e34aec8aba453e2cd3b11c-22" href="#rest_code_deb69600e9e34aec8aba453e2cd3b11c-22"></a>
+<a id="rest_code_deb69600e9e34aec8aba453e2cd3b11c-23" name="rest_code_deb69600e9e34aec8aba453e2cd3b11c-23" href="#rest_code_deb69600e9e34aec8aba453e2cd3b11c-23"></a><span class="n">gtk</span><span class="o">.</span><span class="n">main</span><span class="p">()</span>
 </pre></div>
 <!-- ############################################################################ -->
     </div>    
@@ -124,6 +134,6 @@ og: http://ogp.me/ns# article: http://ogp.me/ns/article#
         captions: function(element) {
             return element.getElementsByTagName('img')[0].alt;
     }});
-    </script>
+    </script><script src="https://cdn.jsdelivr.net/gh/nextapps-de/flexsearch@0.8.0/dist/flexsearch.bundle.min.js"></script><script src="../../../../assets/js/flexsearch.js"></script>
 </body>
 </html>

@@ -29,7 +29,7 @@ SimpleHTTPServer.test()
 o simplemente desde consola:
 python -m Simp">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2025-03-14T17:10:11-03:00">
+<meta property="article:published_time" content="2025-03-22T12:24:52-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
@@ -71,7 +71,17 @@ python -m Simp">
                 </li>                
             </ul>
 </div>
-    </nav>
+
+    </nav><div id="search_bar">
+            <div id="search_overlay" style="display:none;">
+                <div id="search_content">
+                    <input type="text" id="search_input" placeholder="Buscar 🔎"><div id="search_count"></div>
+                    <div id="search_results"></div>
+                    <button id="boton_cerrar" onclick="closeSearch()">Cerrar (Esc)</button>
+                </div>
+            </div>
+            <input type="text" id="search_input_base" placeholder="Buscar en la wiki 🔎">
+</div>
 </div>
 
 <!-- Header and menu bar -->
@@ -88,11 +98,11 @@ python -m Simp">
     </div>
     <div class="e-content entry-content" itemprop="articleBody text">
     <p>Este ejemplo muestra cómo levantar un servidor http en Python que sirva el contenido del directorio actual.</p>
-<div class="code"><pre class="code python"><a id="rest_code_78ebe9d300914706a6a151e0ec48b7eb-1" name="rest_code_78ebe9d300914706a6a151e0ec48b7eb-1" href="#rest_code_78ebe9d300914706a6a151e0ec48b7eb-1"></a><span class="kn">import</span><span class="w"> </span><span class="nn">SimpleHTTPServer</span>
-<a id="rest_code_78ebe9d300914706a6a151e0ec48b7eb-2" name="rest_code_78ebe9d300914706a6a151e0ec48b7eb-2" href="#rest_code_78ebe9d300914706a6a151e0ec48b7eb-2"></a><span class="n">SimpleHTTPServer</span><span class="o">.</span><span class="n">test</span><span class="p">()</span>
+<div class="code"><pre class="code python"><a id="rest_code_c7419bea6bc047c394c1e6a113cf3e68-1" name="rest_code_c7419bea6bc047c394c1e6a113cf3e68-1" href="#rest_code_c7419bea6bc047c394c1e6a113cf3e68-1"></a><span class="kn">import</span><span class="w"> </span><span class="nn">SimpleHTTPServer</span>
+<a id="rest_code_c7419bea6bc047c394c1e6a113cf3e68-2" name="rest_code_c7419bea6bc047c394c1e6a113cf3e68-2" href="#rest_code_c7419bea6bc047c394c1e6a113cf3e68-2"></a><span class="n">SimpleHTTPServer</span><span class="o">.</span><span class="n">test</span><span class="p">()</span>
 </pre></div>
 <p>o simplemente desde consola:</p>
-<div class="code"><pre class="code bash"><a id="rest_code_7b05ce96efdb4826bdb5825b70c9b359-1" name="rest_code_7b05ce96efdb4826bdb5825b70c9b359-1" href="#rest_code_7b05ce96efdb4826bdb5825b70c9b359-1"></a>python<span class="w"> </span>-m<span class="w"> </span>SimpleHTTPServer
+<div class="code"><pre class="code bash"><a id="rest_code_e3bdabd741ee4f5981b7af7270fbd9fc-1" name="rest_code_e3bdabd741ee4f5981b7af7270fbd9fc-1" href="#rest_code_e3bdabd741ee4f5981b7af7270fbd9fc-1"></a>python<span class="w"> </span>-m<span class="w"> </span>SimpleHTTPServer
 </pre></div>
     </div>    
 </div>
@@ -110,6 +120,6 @@ python -m Simp">
         captions: function(element) {
             return element.getElementsByTagName('img')[0].alt;
     }});
-    </script>
+    </script><script src="https://cdn.jsdelivr.net/gh/nextapps-de/flexsearch@0.8.0/dist/flexsearch.bundle.min.js"></script><script src="../../assets/js/flexsearch.js"></script>
 </body>
 </html>

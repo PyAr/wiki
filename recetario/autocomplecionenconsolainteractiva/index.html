@@ -29,7 +29,7 @@ if __name__ == "__main__":
        import readline
    excep'>
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2025-03-14T17:10:11-03:00">
+<meta property="article:published_time" content="2025-03-22T12:24:52-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
@@ -71,7 +71,17 @@ if __name__ == "__main__":
                 </li>                
             </ul>
 </div>
-    </nav>
+
+    </nav><div id="search_bar">
+            <div id="search_overlay" style="display:none;">
+                <div id="search_content">
+                    <input type="text" id="search_input" placeholder="Buscar 🔎"><div id="search_count"></div>
+                    <div id="search_results"></div>
+                    <button id="boton_cerrar" onclick="closeSearch()">Cerrar (Esc)</button>
+                </div>
+            </div>
+            <input type="text" id="search_input_base" placeholder="Buscar en la wiki 🔎">
+</div>
 </div>
 
 <!-- Header and menu bar -->
@@ -89,27 +99,27 @@ if __name__ == "__main__":
     <div class="e-content entry-content" itemprop="articleBody text">
     <p>(donado por Anthony Lenton)</p>
 <p>Crear un archivo llamado .pythonrc (se llama así pero podría llamarse de cualquier otra forma), que dice:</p>
-<div class="code"><pre class="code python"><a id="rest_code_a8c76154e99e4ba1a3df5121049eb792-1" name="rest_code_a8c76154e99e4ba1a3df5121049eb792-1" href="#rest_code_a8c76154e99e4ba1a3df5121049eb792-1"></a><span class="k">if</span> <span class="vm">__name__</span> <span class="o">==</span> <span class="s2">"__main__"</span><span class="p">:</span>
-<a id="rest_code_a8c76154e99e4ba1a3df5121049eb792-2" name="rest_code_a8c76154e99e4ba1a3df5121049eb792-2" href="#rest_code_a8c76154e99e4ba1a3df5121049eb792-2"></a>   <span class="k">try</span><span class="p">:</span>
-<a id="rest_code_a8c76154e99e4ba1a3df5121049eb792-3" name="rest_code_a8c76154e99e4ba1a3df5121049eb792-3" href="#rest_code_a8c76154e99e4ba1a3df5121049eb792-3"></a>       <span class="kn">import</span><span class="w"> </span><span class="nn">readline</span>
-<a id="rest_code_a8c76154e99e4ba1a3df5121049eb792-4" name="rest_code_a8c76154e99e4ba1a3df5121049eb792-4" href="#rest_code_a8c76154e99e4ba1a3df5121049eb792-4"></a>   <span class="k">except</span> <span class="ne">ImportError</span><span class="p">:</span>
-<a id="rest_code_a8c76154e99e4ba1a3df5121049eb792-5" name="rest_code_a8c76154e99e4ba1a3df5121049eb792-5" href="#rest_code_a8c76154e99e4ba1a3df5121049eb792-5"></a>       <span class="nb">print</span> <span class="s2">"Module readline not available."</span>
-<a id="rest_code_a8c76154e99e4ba1a3df5121049eb792-6" name="rest_code_a8c76154e99e4ba1a3df5121049eb792-6" href="#rest_code_a8c76154e99e4ba1a3df5121049eb792-6"></a>   <span class="k">else</span><span class="p">:</span>
-<a id="rest_code_a8c76154e99e4ba1a3df5121049eb792-7" name="rest_code_a8c76154e99e4ba1a3df5121049eb792-7" href="#rest_code_a8c76154e99e4ba1a3df5121049eb792-7"></a>       <span class="kn">import</span><span class="w"> </span><span class="nn">sys</span>
-<a id="rest_code_a8c76154e99e4ba1a3df5121049eb792-8" name="rest_code_a8c76154e99e4ba1a3df5121049eb792-8" href="#rest_code_a8c76154e99e4ba1a3df5121049eb792-8"></a>       <span class="kn">import</span><span class="w"> </span><span class="nn">rlcompleter</span>
-<a id="rest_code_a8c76154e99e4ba1a3df5121049eb792-9" name="rest_code_a8c76154e99e4ba1a3df5121049eb792-9" href="#rest_code_a8c76154e99e4ba1a3df5121049eb792-9"></a>       <span class="k">if</span> <span class="n">sys</span><span class="o">.</span><span class="n">platform</span> <span class="o">==</span> <span class="s2">"darwin"</span><span class="p">:</span>
-<a id="rest_code_a8c76154e99e4ba1a3df5121049eb792-10" name="rest_code_a8c76154e99e4ba1a3df5121049eb792-10" href="#rest_code_a8c76154e99e4ba1a3df5121049eb792-10"></a>          <span class="n">readline</span><span class="o">.</span><span class="n">parse_and_bind</span> <span class="p">(</span><span class="s2">"bind ^I rl_complete"</span><span class="p">)</span>
-<a id="rest_code_a8c76154e99e4ba1a3df5121049eb792-11" name="rest_code_a8c76154e99e4ba1a3df5121049eb792-11" href="#rest_code_a8c76154e99e4ba1a3df5121049eb792-11"></a>       <span class="k">else</span><span class="p">:</span>
-<a id="rest_code_a8c76154e99e4ba1a3df5121049eb792-12" name="rest_code_a8c76154e99e4ba1a3df5121049eb792-12" href="#rest_code_a8c76154e99e4ba1a3df5121049eb792-12"></a>            <span class="n">readline</span><span class="o">.</span><span class="n">parse_and_bind</span><span class="p">(</span><span class="s2">"tab: complete"</span><span class="p">)</span>
-<a id="rest_code_a8c76154e99e4ba1a3df5121049eb792-13" name="rest_code_a8c76154e99e4ba1a3df5121049eb792-13" href="#rest_code_a8c76154e99e4ba1a3df5121049eb792-13"></a>       <span class="k">del</span> <span class="n">readline</span>
-<a id="rest_code_a8c76154e99e4ba1a3df5121049eb792-14" name="rest_code_a8c76154e99e4ba1a3df5121049eb792-14" href="#rest_code_a8c76154e99e4ba1a3df5121049eb792-14"></a>       <span class="k">del</span> <span class="n">rlcompleter</span>
-<a id="rest_code_a8c76154e99e4ba1a3df5121049eb792-15" name="rest_code_a8c76154e99e4ba1a3df5121049eb792-15" href="#rest_code_a8c76154e99e4ba1a3df5121049eb792-15"></a>       <span class="k">del</span> <span class="n">sys</span>
+<div class="code"><pre class="code python"><a id="rest_code_95d80d0eff374fbf8c2918f6b7a628a4-1" name="rest_code_95d80d0eff374fbf8c2918f6b7a628a4-1" href="#rest_code_95d80d0eff374fbf8c2918f6b7a628a4-1"></a><span class="k">if</span> <span class="vm">__name__</span> <span class="o">==</span> <span class="s2">"__main__"</span><span class="p">:</span>
+<a id="rest_code_95d80d0eff374fbf8c2918f6b7a628a4-2" name="rest_code_95d80d0eff374fbf8c2918f6b7a628a4-2" href="#rest_code_95d80d0eff374fbf8c2918f6b7a628a4-2"></a>   <span class="k">try</span><span class="p">:</span>
+<a id="rest_code_95d80d0eff374fbf8c2918f6b7a628a4-3" name="rest_code_95d80d0eff374fbf8c2918f6b7a628a4-3" href="#rest_code_95d80d0eff374fbf8c2918f6b7a628a4-3"></a>       <span class="kn">import</span><span class="w"> </span><span class="nn">readline</span>
+<a id="rest_code_95d80d0eff374fbf8c2918f6b7a628a4-4" name="rest_code_95d80d0eff374fbf8c2918f6b7a628a4-4" href="#rest_code_95d80d0eff374fbf8c2918f6b7a628a4-4"></a>   <span class="k">except</span> <span class="ne">ImportError</span><span class="p">:</span>
+<a id="rest_code_95d80d0eff374fbf8c2918f6b7a628a4-5" name="rest_code_95d80d0eff374fbf8c2918f6b7a628a4-5" href="#rest_code_95d80d0eff374fbf8c2918f6b7a628a4-5"></a>       <span class="nb">print</span> <span class="s2">"Module readline not available."</span>
+<a id="rest_code_95d80d0eff374fbf8c2918f6b7a628a4-6" name="rest_code_95d80d0eff374fbf8c2918f6b7a628a4-6" href="#rest_code_95d80d0eff374fbf8c2918f6b7a628a4-6"></a>   <span class="k">else</span><span class="p">:</span>
+<a id="rest_code_95d80d0eff374fbf8c2918f6b7a628a4-7" name="rest_code_95d80d0eff374fbf8c2918f6b7a628a4-7" href="#rest_code_95d80d0eff374fbf8c2918f6b7a628a4-7"></a>       <span class="kn">import</span><span class="w"> </span><span class="nn">sys</span>
+<a id="rest_code_95d80d0eff374fbf8c2918f6b7a628a4-8" name="rest_code_95d80d0eff374fbf8c2918f6b7a628a4-8" href="#rest_code_95d80d0eff374fbf8c2918f6b7a628a4-8"></a>       <span class="kn">import</span><span class="w"> </span><span class="nn">rlcompleter</span>
+<a id="rest_code_95d80d0eff374fbf8c2918f6b7a628a4-9" name="rest_code_95d80d0eff374fbf8c2918f6b7a628a4-9" href="#rest_code_95d80d0eff374fbf8c2918f6b7a628a4-9"></a>       <span class="k">if</span> <span class="n">sys</span><span class="o">.</span><span class="n">platform</span> <span class="o">==</span> <span class="s2">"darwin"</span><span class="p">:</span>
+<a id="rest_code_95d80d0eff374fbf8c2918f6b7a628a4-10" name="rest_code_95d80d0eff374fbf8c2918f6b7a628a4-10" href="#rest_code_95d80d0eff374fbf8c2918f6b7a628a4-10"></a>          <span class="n">readline</span><span class="o">.</span><span class="n">parse_and_bind</span> <span class="p">(</span><span class="s2">"bind ^I rl_complete"</span><span class="p">)</span>
+<a id="rest_code_95d80d0eff374fbf8c2918f6b7a628a4-11" name="rest_code_95d80d0eff374fbf8c2918f6b7a628a4-11" href="#rest_code_95d80d0eff374fbf8c2918f6b7a628a4-11"></a>       <span class="k">else</span><span class="p">:</span>
+<a id="rest_code_95d80d0eff374fbf8c2918f6b7a628a4-12" name="rest_code_95d80d0eff374fbf8c2918f6b7a628a4-12" href="#rest_code_95d80d0eff374fbf8c2918f6b7a628a4-12"></a>            <span class="n">readline</span><span class="o">.</span><span class="n">parse_and_bind</span><span class="p">(</span><span class="s2">"tab: complete"</span><span class="p">)</span>
+<a id="rest_code_95d80d0eff374fbf8c2918f6b7a628a4-13" name="rest_code_95d80d0eff374fbf8c2918f6b7a628a4-13" href="#rest_code_95d80d0eff374fbf8c2918f6b7a628a4-13"></a>       <span class="k">del</span> <span class="n">readline</span>
+<a id="rest_code_95d80d0eff374fbf8c2918f6b7a628a4-14" name="rest_code_95d80d0eff374fbf8c2918f6b7a628a4-14" href="#rest_code_95d80d0eff374fbf8c2918f6b7a628a4-14"></a>       <span class="k">del</span> <span class="n">rlcompleter</span>
+<a id="rest_code_95d80d0eff374fbf8c2918f6b7a628a4-15" name="rest_code_95d80d0eff374fbf8c2918f6b7a628a4-15" href="#rest_code_95d80d0eff374fbf8c2918f6b7a628a4-15"></a>       <span class="k">del</span> <span class="n">sys</span>
 </pre></div>
 <p>Y en el environment se setea la variable:</p>
-<div class="code"><pre class="code bash"><a id="rest_code_e98ee57cb8a64002937303ee710242fe-1" name="rest_code_e98ee57cb8a64002937303ee710242fe-1" href="#rest_code_e98ee57cb8a64002937303ee710242fe-1"></a><span class="nv">PYTHONSTARTUP</span><span class="o">=</span>/home/tuusuario/.pythonrc<span class="w"> </span><span class="c1">#(aca importa que sea igual al nombre del alchivo).</span>
+<div class="code"><pre class="code bash"><a id="rest_code_7db87eaf134f48a1a141ad5de59ecc9c-1" name="rest_code_7db87eaf134f48a1a141ad5de59ecc9c-1" href="#rest_code_7db87eaf134f48a1a141ad5de59ecc9c-1"></a><span class="nv">PYTHONSTARTUP</span><span class="o">=</span>/home/tuusuario/.pythonrc<span class="w"> </span><span class="c1">#(aca importa que sea igual al nombre del alchivo).</span>
 </pre></div>
 <p>Lo que hace es darte Tab-completion en el interprete, cuando no se recuerda que métodos tiene mistring, en el intérprete se hace:</p>
-<div class="code"><pre class="code pycon"><a id="rest_code_b10905e7a1144a04b1cdbba71acf6b29-1" name="rest_code_b10905e7a1144a04b1cdbba71acf6b29-1" href="#rest_code_b10905e7a1144a04b1cdbba71acf6b29-1"></a><span class="gp">&gt;&gt;&gt; </span><span class="n">mistring</span><span class="o">.&lt;</span><span class="n">tab</span><span class="o">&gt;&lt;</span><span class="n">tab</span><span class="o">&gt;</span>
+<div class="code"><pre class="code pycon"><a id="rest_code_e38de7d506e24cffb054c0e16382ea21-1" name="rest_code_e38de7d506e24cffb054c0e16382ea21-1" href="#rest_code_e38de7d506e24cffb054c0e16382ea21-1"></a><span class="gp">&gt;&gt;&gt; </span><span class="n">mistring</span><span class="o">.&lt;</span><span class="n">tab</span><span class="o">&gt;&lt;</span><span class="n">tab</span><span class="o">&gt;</span>
 </pre></div>
 <p>Lista los métodos y atributos disponibles.</p>
 <p>Otros intérpretes ya lo hacen.  ipython es notable por tener todo esto y mucho más, pero hay gente que no se acostumbra a usarlo todavia, y esto le pone Tab-completion al intérprete que es bastante común.</p>
@@ -132,6 +142,6 @@ if __name__ == "__main__":
         captions: function(element) {
             return element.getElementsByTagName('img')[0].alt;
     }});
-    </script>
+    </script><script src="https://cdn.jsdelivr.net/gh/nextapps-de/flexsearch@0.8.0/dist/flexsearch.bundle.min.js"></script><script src="../../assets/js/flexsearch.js"></script>
 </body>
 </html>

@@ -26,7 +26,7 @@ og: http://ogp.me/ns# article: http://ogp.me/ns/article#
 ¿Cómo se arma esto?
 Si corres ./cdpedia.py --help te mu">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2025-03-14T17:10:11-03:00">
+<meta property="article:published_time" content="2025-03-22T12:24:52-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
@@ -68,7 +68,17 @@ Si corres ./cdpedia.py --help te mu">
                 </li>                
             </ul>
 </div>
-    </nav>
+
+    </nav><div id="search_bar">
+            <div id="search_overlay" style="display:none;">
+                <div id="search_content">
+                    <input type="text" id="search_input" placeholder="Buscar 🔎"><div id="search_count"></div>
+                    <div id="search_results"></div>
+                    <button id="boton_cerrar" onclick="closeSearch()">Cerrar (Esc)</button>
+                </div>
+            </div>
+            <input type="text" id="search_input_base" placeholder="Buscar en la wiki 🔎">
+</div>
 </div>
 
 <!-- Header and menu bar -->
@@ -89,10 +99,10 @@ Si corres ./cdpedia.py --help te mu">
 <p>Si corres <code class="docutils literal">./cdpedia.py <span class="pre">--help</span></code> te muestra las opciones, pero básicamente hay 2 formas de montar un servidor. La más sencilla es utilizar el servidor web integrado con cdpedia y es la forma recomendada; la otra es usar un web server externo.</p>
 <section id="usando-el-servidor-integrado"><h2>Usando el servidor integrado</h2>
 <p>Por ejemplo, para servir cdpedia en el puerto 80 en un hostname particular hacemos asi:</p>
-<div class="code"><pre class="code bash"><a id="rest_code_ab9bc330332e484fafdd344149659172-1" name="rest_code_ab9bc330332e484fafdd344149659172-1" href="#rest_code_ab9bc330332e484fafdd344149659172-1"></a>sudo<span class="w"> </span>./cdpedia.py<span class="w"> </span>--host<span class="o">=</span>foo.bar.com.ar<span class="w"> </span>--port<span class="o">=</span><span class="m">80</span><span class="w"> </span>--daemon
+<div class="code"><pre class="code bash"><a id="rest_code_2fe8cf00b0514502891c8a38d21aff11-1" name="rest_code_2fe8cf00b0514502891c8a38d21aff11-1" href="#rest_code_2fe8cf00b0514502891c8a38d21aff11-1"></a>sudo<span class="w"> </span>./cdpedia.py<span class="w"> </span>--host<span class="o">=</span>foo.bar.com.ar<span class="w"> </span>--port<span class="o">=</span><span class="m">80</span><span class="w"> </span>--daemon
 </pre></div>
 <p>Obviamente el sudo es porque el 80 es un puerto privilegiado, sino directamente podemos poner lo siguiente para servir en una ip local y un puerto elevado.</p>
-<div class="code"><pre class="code bash"><a id="rest_code_217f9f2a73ee4ef583b65be47145aee7-1" name="rest_code_217f9f2a73ee4ef583b65be47145aee7-1" href="#rest_code_217f9f2a73ee4ef583b65be47145aee7-1"></a>./cdpedia.py<span class="w"> </span>--host<span class="o">=</span><span class="m">10</span>.0.0.4<span class="w"> </span>--port<span class="o">=</span><span class="m">8080</span><span class="w"> </span>--daemon
+<div class="code"><pre class="code bash"><a id="rest_code_106d2ce3f01246858a16d6716e0ec7c4-1" name="rest_code_106d2ce3f01246858a16d6716e0ec7c4-1" href="#rest_code_106d2ce3f01246858a16d6716e0ec7c4-1"></a>./cdpedia.py<span class="w"> </span>--host<span class="o">=</span><span class="m">10</span>.0.0.4<span class="w"> </span>--port<span class="o">=</span><span class="m">8080</span><span class="w"> </span>--daemon
 </pre></div>
 <p>Inclusive se puede configurar apache o el servidor que haya para que haga las veces de proxy reverso y asi servir todo en el 80.</p>
 </section><section id="usando-un-server-externo-apache-nginx-etc"><h2>Usando un server externo (Apache, nginx, etc)</h2>
@@ -117,13 +127,13 @@ Si corres ./cdpedia.py --help te mu">
     )
 }</pre>
 <p>apache:</p>
-<div class="code"><pre class="code apacheconf"><a id="rest_code_4aa082413a7c46ceab677108e8d9fc03-1" name="rest_code_4aa082413a7c46ceab677108e8d9fc03-1" href="#rest_code_4aa082413a7c46ceab677108e8d9fc03-1"></a><span class="nb">ProxyPass</span><span class="w"> </span>/<span class="w"> </span>http://127.0.0.1:8888/cdpedia/
-<a id="rest_code_4aa082413a7c46ceab677108e8d9fc03-2" name="rest_code_4aa082413a7c46ceab677108e8d9fc03-2" href="#rest_code_4aa082413a7c46ceab677108e8d9fc03-2"></a><span class="nb">ProxyPassReverse</span><span class="w"> </span>/<span class="w"> </span>http://127.0.0.1:8888/cdpedia/
+<div class="code"><pre class="code apacheconf"><a id="rest_code_6bbea44882a946749fe10bc43f161ca1-1" name="rest_code_6bbea44882a946749fe10bc43f161ca1-1" href="#rest_code_6bbea44882a946749fe10bc43f161ca1-1"></a><span class="nb">ProxyPass</span><span class="w"> </span>/<span class="w"> </span>http://127.0.0.1:8888/cdpedia/
+<a id="rest_code_6bbea44882a946749fe10bc43f161ca1-2" name="rest_code_6bbea44882a946749fe10bc43f161ca1-2" href="#rest_code_6bbea44882a946749fe10bc43f161ca1-2"></a><span class="nb">ProxyPassReverse</span><span class="w"> </span>/<span class="w"> </span>http://127.0.0.1:8888/cdpedia/
 </pre></div>
 <p>nginx:</p>
-<div class="code"><pre class="code nginx"><a id="rest_code_4b0baf97b27647818f9cc0d654c7fc3b-1" name="rest_code_4b0baf97b27647818f9cc0d654c7fc3b-1" href="#rest_code_4b0baf97b27647818f9cc0d654c7fc3b-1"></a><span class="k">location</span><span class="w"> </span><span class="s">/cdpedia</span><span class="w"> </span><span class="p">{</span>
-<a id="rest_code_4b0baf97b27647818f9cc0d654c7fc3b-2" name="rest_code_4b0baf97b27647818f9cc0d654c7fc3b-2" href="#rest_code_4b0baf97b27647818f9cc0d654c7fc3b-2"></a><span class="w">  </span><span class="kn">proxy_pass</span><span class="w">        </span><span class="s">http://127.0.0.1:8888</span><span class="p">;</span>
-<a id="rest_code_4b0baf97b27647818f9cc0d654c7fc3b-3" name="rest_code_4b0baf97b27647818f9cc0d654c7fc3b-3" href="#rest_code_4b0baf97b27647818f9cc0d654c7fc3b-3"></a><span class="p">}</span>
+<div class="code"><pre class="code nginx"><a id="rest_code_ee9b8f81b7ae4b52a206944323940cd3-1" name="rest_code_ee9b8f81b7ae4b52a206944323940cd3-1" href="#rest_code_ee9b8f81b7ae4b52a206944323940cd3-1"></a><span class="k">location</span><span class="w"> </span><span class="s">/cdpedia</span><span class="w"> </span><span class="p">{</span>
+<a id="rest_code_ee9b8f81b7ae4b52a206944323940cd3-2" name="rest_code_ee9b8f81b7ae4b52a206944323940cd3-2" href="#rest_code_ee9b8f81b7ae4b52a206944323940cd3-2"></a><span class="w">  </span><span class="kn">proxy_pass</span><span class="w">        </span><span class="s">http://127.0.0.1:8888</span><span class="p">;</span>
+<a id="rest_code_ee9b8f81b7ae4b52a206944323940cd3-3" name="rest_code_ee9b8f81b7ae4b52a206944323940cd3-3" href="#rest_code_ee9b8f81b7ae4b52a206944323940cd3-3"></a><span class="p">}</span>
 </pre></div>
 </section><section id="wsgi"><h3>WSGI</h3>
 <p>Esta opción implica no usar el servidor web integrado y en cambio servir utilizando el modulo WSGI del servidor web que se quiera (mod_wsgi para apache, etc). Aún no encontramos razones convincentes de por qué se preferiría esta opcion por sobre el servidor integrado.</p>
@@ -147,6 +157,6 @@ Si corres ./cdpedia.py --help te mu">
         captions: function(element) {
             return element.getElementsByTagName('img')[0].alt;
     }});
-    </script>
+    </script><script src="https://cdn.jsdelivr.net/gh/nextapps-de/flexsearch@0.8.0/dist/flexsearch.bundle.min.js"></script><script src="../../../assets/js/flexsearch.js"></script>
 </body>
 </html>
