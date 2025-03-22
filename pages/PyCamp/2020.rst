@@ -1,4 +1,7 @@
-.. title: Evento suspendido por la pandemia COVID-19
+.. title: PyCamp 2020
+
+Evento suspendido por la pandemia COVID-19
+------------------------------------------
 
 No estés triste, ya estamos organizando el `siguiente </PyCamp/2021/>`_.
 
