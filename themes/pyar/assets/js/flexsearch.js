@@ -1,6 +1,10 @@
 // Basado en https://plugins.getnikola.com/#flexsearch_plugin
 
+
 document.addEventListener('DOMContentLoaded', function() {
+
+    const wiki_host_for_dev_or_prod = ['127.0.0.1', 'localhost', '0.0.0.0', 'wiki.python.org.ar'];
+
     var searchIndex = new FlexSearch.Index({ 
         tokenize: "full",
         async: true,
@@ -8,8 +12,19 @@ document.addEventListener('DOMContentLoaded', function() {
     var index = {};
 
     // Fetch the generated JSON file
-    const basePath = "" //document.location.hostname == "localhost" ? "": "/wiki" //Parche para probar en las GHP de mi fork ak.saxa.xyz/wiki
-    var indexPath = document.location.origin + basePath + "/search_index.json"
+    function get_basePath() {
+        // evalua si el url.host NO es igual a wiki.python.org.ar para setear el basepath de los links
+        if (wiki_host_for_dev_or_prod.includes(window.location.hostname)) {
+            return basePath = window.location.host
+        } else {
+            // asumimos que el wiki esta alojado bajo /wiki por la relación de las github_pages
+            return basePath = window.location.host + "/wiki";
+        } 
+    };
+    
+    get_basePath()
+    var indexPath = `//${basePath}/assets/search_index.json`;
+
     fetch(indexPath)
     .then(response => response.json())
     .then(data => {
@@ -45,7 +60,7 @@ document.addEventListener('DOMContentLoaded', function() {
         results.forEach(function(result) {
             var li = document.createElement('li'); // Create a LI element for each result
             var link = document.createElement('a');
-            link.href = basePath + index[result].url;
+            link.href = `//${basePath}${index[result].url}`;   
             link.textContent = index[result].title;
             li.appendChild(link);
             ul.appendChild(li); // Append the LI to the UL

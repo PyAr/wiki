@@ -43,7 +43,7 @@ class FlexSearchPlugin(LateTask):
         yield self.group_task()
 
         output_path = self.site.config['OUTPUT_FOLDER']
-        index_file_path = os.path.join(output_path, 'search_index.json')
+        index_file_path = os.path.join(output_path, 'assets', 'search_index.json')
 
         def build_index():
             """Build the entire search index from scratch."""
