@@ -34,6 +34,10 @@ En cada PyCamp se realizan una serie de proyectos que son decididos por los part
 
 * CDpedia_, La Wikipedia en español legible desde un CD o DVD para ser usada por ejemplo en las escuelas de todo el país.
 
+* retro-python_, una herramienta para crear gráficos, animaciones y video juegos programando. 
+
+* Ventilastation_, una consola open source, para poder hacer y jugar videojuegos circulares.
+
 Proxima edición
 ---------------
 
@@ -78,6 +82,11 @@ Ediciones anteriores
 
 Blogpost sobre Pycamps
 ----------------------
+
+2025
+----
+
+* manuq: https://blog.manuq.ar/posts/participando-en-la-vsjam/
 
 2024
 ~~~~
@@ -162,6 +171,10 @@ Blogpost sobre Pycamps
 .. _lalita: http://launchpad.net/lalita
 
 .. _CDpedia: http://code.google.com/p/cdpedia/
+
+.. _retro-python: https://retro-python.com.ar/
+
+.. _Ventilastation: https://ventilastation.protocultura.net/
 
 .. _Riachuelo, Corrientes. Junio de 2024: /PyCamp/2024
 
