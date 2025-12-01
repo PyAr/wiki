@@ -34,7 +34,7 @@ c = conn.cursor()
 c.execute(&quot;SELECT ctgID,read from ctgs&quot;)
 for r">
 <meta property="og:type" content="article">
-<meta property="article:published_time" content="2025-03-22T12:24:52-03:00">
+<meta property="article:published_time" content="2025-12-01T17:08:49-03:00">
 </head>
 <body>
 <a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
@@ -103,19 +103,19 @@ for r">
     </div>
     <div class="e-content entry-content" itemprop="articleBody text">
     <p>Otra prueba:</p>
-<div class="code"><pre class="code python"><a id="rest_code_b6cdd373b3f8498e971c9d034583eaef-1" name="rest_code_b6cdd373b3f8498e971c9d034583eaef-1" href="#rest_code_b6cdd373b3f8498e971c9d034583eaef-1"></a><span class="kn">import</span><span class="w"> </span><span class="nn">sqlite3</span>
-<a id="rest_code_b6cdd373b3f8498e971c9d034583eaef-2" name="rest_code_b6cdd373b3f8498e971c9d034583eaef-2" href="#rest_code_b6cdd373b3f8498e971c9d034583eaef-2"></a>
-<a id="rest_code_b6cdd373b3f8498e971c9d034583eaef-3" name="rest_code_b6cdd373b3f8498e971c9d034583eaef-3" href="#rest_code_b6cdd373b3f8498e971c9d034583eaef-3"></a><span class="c1"># leo DB</span>
-<a id="rest_code_b6cdd373b3f8498e971c9d034583eaef-4" name="rest_code_b6cdd373b3f8498e971c9d034583eaef-4" href="#rest_code_b6cdd373b3f8498e971c9d034583eaef-4"></a><span class="c1">#dbfn = 'allseqs-AR.db'</span>
-<a id="rest_code_b6cdd373b3f8498e971c9d034583eaef-5" name="rest_code_b6cdd373b3f8498e971c9d034583eaef-5" href="#rest_code_b6cdd373b3f8498e971c9d034583eaef-5"></a><span class="n">dbfn</span> <span class="o">=</span> <span class="s1">'../AS/allseqs-AS.db'</span>
-<a id="rest_code_b6cdd373b3f8498e971c9d034583eaef-6" name="rest_code_b6cdd373b3f8498e971c9d034583eaef-6" href="#rest_code_b6cdd373b3f8498e971c9d034583eaef-6"></a><span class="n">conn</span> <span class="o">=</span> <span class="n">sqlite3</span><span class="o">.</span><span class="n">connect</span><span class="p">(</span><span class="n">dbfn</span><span class="p">)</span>
-<a id="rest_code_b6cdd373b3f8498e971c9d034583eaef-7" name="rest_code_b6cdd373b3f8498e971c9d034583eaef-7" href="#rest_code_b6cdd373b3f8498e971c9d034583eaef-7"></a><span class="n">c</span> <span class="o">=</span> <span class="n">conn</span><span class="o">.</span><span class="n">cursor</span><span class="p">()</span>
-<a id="rest_code_b6cdd373b3f8498e971c9d034583eaef-8" name="rest_code_b6cdd373b3f8498e971c9d034583eaef-8" href="#rest_code_b6cdd373b3f8498e971c9d034583eaef-8"></a><span class="c1"># CREATE TABLES</span>
-<a id="rest_code_b6cdd373b3f8498e971c9d034583eaef-9" name="rest_code_b6cdd373b3f8498e971c9d034583eaef-9" href="#rest_code_b6cdd373b3f8498e971c9d034583eaef-9"></a><span class="n">c</span><span class="o">.</span><span class="n">execute</span><span class="p">(</span><span class="s2">"SELECT ctgID,read from ctgs"</span><span class="p">)</span>
-<a id="rest_code_b6cdd373b3f8498e971c9d034583eaef-10" name="rest_code_b6cdd373b3f8498e971c9d034583eaef-10" href="#rest_code_b6cdd373b3f8498e971c9d034583eaef-10"></a><span class="k">for</span> <span class="n">row</span> <span class="ow">in</span> <span class="n">c</span><span class="p">:</span>
-<a id="rest_code_b6cdd373b3f8498e971c9d034583eaef-11" name="rest_code_b6cdd373b3f8498e971c9d034583eaef-11" href="#rest_code_b6cdd373b3f8498e971c9d034583eaef-11"></a>    <span class="n">ctg</span> <span class="o">=</span> <span class="n">row</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span>
-<a id="rest_code_b6cdd373b3f8498e971c9d034583eaef-12" name="rest_code_b6cdd373b3f8498e971c9d034583eaef-12" href="#rest_code_b6cdd373b3f8498e971c9d034583eaef-12"></a>    <span class="n">lib</span> <span class="o">=</span> <span class="n">row</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="s1">'-'</span><span class="p">)[</span><span class="mi">0</span><span class="p">][</span><span class="o">-</span><span class="mi">3</span><span class="p">:]</span>
-<a id="rest_code_b6cdd373b3f8498e971c9d034583eaef-13" name="rest_code_b6cdd373b3f8498e971c9d034583eaef-13" href="#rest_code_b6cdd373b3f8498e971c9d034583eaef-13"></a>    <span class="c1">#break</span>
+<div class="code"><pre class="code python"><a id="rest_code_5515937f5b9a4442bfbfbcd2d87a5110-1" name="rest_code_5515937f5b9a4442bfbfbcd2d87a5110-1" href="#rest_code_5515937f5b9a4442bfbfbcd2d87a5110-1"></a><span class="kn">import</span><span class="w"> </span><span class="nn">sqlite3</span>
+<a id="rest_code_5515937f5b9a4442bfbfbcd2d87a5110-2" name="rest_code_5515937f5b9a4442bfbfbcd2d87a5110-2" href="#rest_code_5515937f5b9a4442bfbfbcd2d87a5110-2"></a>
+<a id="rest_code_5515937f5b9a4442bfbfbcd2d87a5110-3" name="rest_code_5515937f5b9a4442bfbfbcd2d87a5110-3" href="#rest_code_5515937f5b9a4442bfbfbcd2d87a5110-3"></a><span class="c1"># leo DB</span>
+<a id="rest_code_5515937f5b9a4442bfbfbcd2d87a5110-4" name="rest_code_5515937f5b9a4442bfbfbcd2d87a5110-4" href="#rest_code_5515937f5b9a4442bfbfbcd2d87a5110-4"></a><span class="c1">#dbfn = 'allseqs-AR.db'</span>
+<a id="rest_code_5515937f5b9a4442bfbfbcd2d87a5110-5" name="rest_code_5515937f5b9a4442bfbfbcd2d87a5110-5" href="#rest_code_5515937f5b9a4442bfbfbcd2d87a5110-5"></a><span class="n">dbfn</span> <span class="o">=</span> <span class="s1">'../AS/allseqs-AS.db'</span>
+<a id="rest_code_5515937f5b9a4442bfbfbcd2d87a5110-6" name="rest_code_5515937f5b9a4442bfbfbcd2d87a5110-6" href="#rest_code_5515937f5b9a4442bfbfbcd2d87a5110-6"></a><span class="n">conn</span> <span class="o">=</span> <span class="n">sqlite3</span><span class="o">.</span><span class="n">connect</span><span class="p">(</span><span class="n">dbfn</span><span class="p">)</span>
+<a id="rest_code_5515937f5b9a4442bfbfbcd2d87a5110-7" name="rest_code_5515937f5b9a4442bfbfbcd2d87a5110-7" href="#rest_code_5515937f5b9a4442bfbfbcd2d87a5110-7"></a><span class="n">c</span> <span class="o">=</span> <span class="n">conn</span><span class="o">.</span><span class="n">cursor</span><span class="p">()</span>
+<a id="rest_code_5515937f5b9a4442bfbfbcd2d87a5110-8" name="rest_code_5515937f5b9a4442bfbfbcd2d87a5110-8" href="#rest_code_5515937f5b9a4442bfbfbcd2d87a5110-8"></a><span class="c1"># CREATE TABLES</span>
+<a id="rest_code_5515937f5b9a4442bfbfbcd2d87a5110-9" name="rest_code_5515937f5b9a4442bfbfbcd2d87a5110-9" href="#rest_code_5515937f5b9a4442bfbfbcd2d87a5110-9"></a><span class="n">c</span><span class="o">.</span><span class="n">execute</span><span class="p">(</span><span class="s2">"SELECT ctgID,read from ctgs"</span><span class="p">)</span>
+<a id="rest_code_5515937f5b9a4442bfbfbcd2d87a5110-10" name="rest_code_5515937f5b9a4442bfbfbcd2d87a5110-10" href="#rest_code_5515937f5b9a4442bfbfbcd2d87a5110-10"></a><span class="k">for</span> <span class="n">row</span> <span class="ow">in</span> <span class="n">c</span><span class="p">:</span>
+<a id="rest_code_5515937f5b9a4442bfbfbcd2d87a5110-11" name="rest_code_5515937f5b9a4442bfbfbcd2d87a5110-11" href="#rest_code_5515937f5b9a4442bfbfbcd2d87a5110-11"></a>    <span class="n">ctg</span> <span class="o">=</span> <span class="n">row</span><span class="p">[</span><span class="mi">0</span><span class="p">]</span>
+<a id="rest_code_5515937f5b9a4442bfbfbcd2d87a5110-12" name="rest_code_5515937f5b9a4442bfbfbcd2d87a5110-12" href="#rest_code_5515937f5b9a4442bfbfbcd2d87a5110-12"></a>    <span class="n">lib</span> <span class="o">=</span> <span class="n">row</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span><span class="o">.</span><span class="n">split</span><span class="p">(</span><span class="s1">'-'</span><span class="p">)[</span><span class="mi">0</span><span class="p">][</span><span class="o">-</span><span class="mi">3</span><span class="p">:]</span>
+<a id="rest_code_5515937f5b9a4442bfbfbcd2d87a5110-13" name="rest_code_5515937f5b9a4442bfbfbcd2d87a5110-13" href="#rest_code_5515937f5b9a4442bfbfbcd2d87a5110-13"></a>    <span class="c1">#break</span>
 </pre></div>
 <p>FIN de prueba.</p>
     </div>    
